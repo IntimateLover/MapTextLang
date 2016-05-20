@@ -26,8 +26,8 @@ public void OnPluginStart()
 	CreateConVar("noblood_version", PLUGIN_VERSION, PLUGIN_NAME, FCVAR_NOTIFY|FCVAR_DONTRECORD);
 	
 	g_cEnableNoBlood = CreateConVar("noblood_enable", "1", "Enable / Disable No Blood", _, true, 0.0, true, 1.0);
-	g_cEnableBloodSplatter = CreateConVar("noblood_hide_splatter", "0", "Enable / Disable No Blood Splatter (noblood_enable must be 1)", _, true, 0.0, true, 1.0);
-	g_cEnableBloodSplashes = CreateConVar("noblood_hide_splashes", "0", "Enable / Disable No Blood Splashes (noblood_enable must be 1)", _, true, 0.0, true, 1.0);
+	g_cEnableBloodSplatter = CreateConVar("noblood_hide_splatter", "1", "Enable / Disable No Blood Splatter (noblood_enable must be 1)", _, true, 0.0, true, 1.0);
+	g_cEnableBloodSplashes = CreateConVar("noblood_hide_splashes", "1", "Enable / Disable No Blood Splashes (noblood_enable must be 1)", _, true, 0.0, true, 1.0);
 	
 	AddTempEntHook("EffectDispatch", TE_OnEffectDispatch);
 	AddTempEntHook("World Decal", TE_OnWorldDecal);
