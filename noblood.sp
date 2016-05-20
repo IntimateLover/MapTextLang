@@ -10,7 +10,7 @@
 
 ConVar g_cEnableNoBlood = null;
 ConVar g_cEnableBloodSplatter = null;
-ConVar g_cEnableBloodSplash = null;
+ConVar g_cEnableBloodSplashes = null;
 
 public Plugin myinfo = 
 {
@@ -27,7 +27,7 @@ public void OnPluginStart()
 	
 	g_cEnableNoBlood = CreateConVar("onlyhs_allow_blood", "1", "Enable / Disable No Blood", _, true, 0.0, true, 1.0);
 	g_cEnableBloodSplatter = CreateConVar("onlyhs_allow_blood_splatter", "0", "Enable / Disable No Blood Splatter (onlyhs_allow_blood must be 1)", _, true, 0.0, true, 1.0);
-	g_cEnableBloodSplash = CreateConVar("onlyhs_allow_blood_splash", "0", "Enable / Disable No Blood Splash (onlyhs_allow_blood must be 1)", _, true, 0.0, true, 1.0);
+	g_cEnableBloodSplashes = CreateConVar("onlyhs_allow_blood_splashes", "0", "Enable / Disable No Blood Splashes (onlyhs_allow_blood must be 1)", _, true, 0.0, true, 1.0);
 	
 	AddTempEntHook("EffectDispatch", TE_OnEffectDispatch);
 	AddTempEntHook("World Decal", TE_OnWorldDecal);
@@ -52,7 +52,7 @@ public Action TE_OnEffectDispatch(const char[] te_name, const Players[], int num
 		}
 		if(StrEqual(sEffectName, "ParticleEffect"))
 		{
-			if(g_cEnableBloodSplash.BoolValue)
+			if(g_cEnableBloodSplashes.BoolValue)
 			{
 				char sParticleEffectName[64];
 				GetParticleEffectName(nHitBox, sParticleEffectName, sizeof(sParticleEffectName));
@@ -81,7 +81,7 @@ public Action TE_OnWorldDecal(const char[] te_name, const Players[], int numClie
 	{
 		if(StrContains(sDecalName, "decals/blood") == 0 && StrContains(sDecalName, "_subrect") != -1)
 		{
-			if(g_cEnableBloodSplash.BoolValue)
+			if(g_cEnableBloodSplashes.BoolValue)
 			{
 				return Plugin_Handled;
 			}
