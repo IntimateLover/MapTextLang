@@ -6,8 +6,10 @@
 #pragma newdecls required
 
 #define PLUGIN_NAME "No Blood"
-#define PLUGIN_VERSION "1.0.0"
+#define PLUGIN_VERSION "1.0.1"
 
+
+ConVar g_cDebug = null;
 ConVar g_cEnableNoBlood = null;
 ConVar g_cEnableBloodSplatter = null;
 ConVar g_cEnableBloodSplashes = null;
@@ -26,6 +28,7 @@ public void OnPluginStart()
 	CreateConVar("noblood_version", PLUGIN_VERSION, PLUGIN_NAME, FCVAR_NOTIFY|FCVAR_DONTRECORD);
 	
 	g_cEnableNoBlood = CreateConVar("noblood_enable", "1", "Enable / Disable No Blood", _, true, 0.0, true, 1.0);
+	g_cDebug = CreateConVar("noblood_debug", "0", "Enable / Disable debug mode", _, true, 0.0, true, 1.0);
 	g_cEnableBloodSplatter = CreateConVar("noblood_hide_splatter", "1", "Enable / Disable No Blood Splatter (noblood_enable must be 1)", _, true, 0.0, true, 1.0);
 	g_cEnableBloodSplashes = CreateConVar("noblood_hide_splashes", "1", "Enable / Disable No Blood Splashes (noblood_enable must be 1)", _, true, 0.0, true, 1.0);
 	
@@ -41,6 +44,13 @@ public Action TE_OnEffectDispatch(const char[] te_name, const Players[], int num
 
 	GetEffectName(iEffectIndex, sEffectName, sizeof(sEffectName));
 	
+	if(g_cDebug.BoolValue)
+	{
+		char sBuffer[64];
+		Format(sBuffer, sizeof(sBuffer), "Effect Name: %s", sEffectName);
+		PrintToChatAll(sBuffer);
+	}
+	
 	if(g_cEnableNoBlood.BoolValue)
 	{
 		if(StrEqual(sEffectName, "csblood"))
@@ -50,12 +60,20 @@ public Action TE_OnEffectDispatch(const char[] te_name, const Players[], int num
 				return Plugin_Handled;
 			}
 		}
+		
 		if(StrEqual(sEffectName, "ParticleEffect"))
 		{
 			if(g_cEnableBloodSplashes.BoolValue)
 			{
 				char sParticleEffectName[64];
 				GetParticleEffectName(nHitBox, sParticleEffectName, sizeof(sParticleEffectName));
+				
+				if(g_cDebug.BoolValue)
+				{
+					char sBuffer[64];
+					Format(sBuffer, sizeof(sBuffer), "Particle Effect Name: %s", sParticleEffectName);
+					PrintToChatAll(sBuffer);
+				}
 				
 				if(StrEqual(sParticleEffectName, "impact_helmet_headshot") || StrEqual(sParticleEffectName, "impact_physics_dust"))
 				{
@@ -76,6 +94,13 @@ public Action TE_OnWorldDecal(const char[] te_name, const Players[], int numClie
 
 	TE_ReadVector("m_vecOrigin", vecOrigin);
 	GetDecalName(nIndex, sDecalName, sizeof(sDecalName));
+	
+	if(g_cDebug.BoolValue)
+	{
+		char sBuffer[64];
+		Format(sBuffer, sizeof(sBuffer), "Decal Name: %s", sDecalName);
+		PrintToChatAll(sBuffer);
+	}
 	
 	if(g_cEnableNoBlood.BoolValue)
 	{
