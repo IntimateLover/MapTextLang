@@ -1,0 +1,83 @@
+"Console_T"
+{
+	"Map by Phoenix"
+	{
+		"chi"		"** 地图制作：Phoenix 地图翻译：Ex_cKot**"
+	}
+	"www.zombie-hell.fr"
+	{
+		"chi"		"** www.zombie-hell.fr **"
+	}
+	"Bunny level 1 Off"
+	{
+		"chi"		"** Bunny关卡[1]结束 **"
+	}
+	"Bunny level 2 Off"
+	{
+		"chi"		"** Bunny关卡2结束 **"
+	}
+	"Bunny level 3 Off"
+	{
+		"chi"		"** Bunny关卡3结束 **"
+	}
+	"Bunny level 4 Off"
+	{
+		"chi"		"** Bunny关卡4结束 **"
+	}
+	"Bunny level 5 Off"
+	{
+		"chi"		"** Bunny关卡5结束 **"
+	}
+	">5<"
+	{
+		"chi"		"** 5 **"
+	}
+	">4<"
+	{
+		"chi"		"** 4 **"
+	}
+	">3<"
+	{
+		"chi"		"** 3 **"
+	}
+	">2<"
+	{
+		"chi"		"** 2 **"
+	}
+	">1<"
+	{
+		"chi"		"** [1] **"
+	}
+	"Go !"
+	{
+		"chi"		"** 开始！ **"
+	}
+	"Bunny level 6 Off"
+	{
+		"chi"		"** Bunny关卡6结束 **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** 音乐：Just Jack - Basement**"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** 地图传输：[SG] Punky**"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** bbs.93x.net**"
+	}
+	"@[MAP] MASTER CHIEF MODE ENABLED"
+	{
+		"chi"		"** 管理模式可用**"
+	}
+	"@[MAP] Admins can activate this by noclipping to the admin room."
+	{
+		"chi"		"** 管理员可使用穿墙指令进入管理室**"
+	}
+}

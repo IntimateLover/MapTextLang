@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"---Map init---"
+	{
+		"chi"		"** 地图初始化**"
+	}
+	"---Done---"
+	{
+		"chi"		"** 完成**"
+	}
+	">>MG_GRUBER_MULTIGAMES<<"
+	{
+		"chi"		"** MG_GRUBER_MULTIGAMES**"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"** 地图制作：Lt.| iPod **"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"** 音乐需要在关卡选择前选择**"
+	}
+	"[Map] Map made by Struse!"
+	{
+		"chi"		"** 地图制作：Struse! 地图翻译：Ex_cKot**"
+	}
+	"[Map] Special thanks to NickMaps"
+	{
+		"chi"		"** 特别感谢：NickMaps**"
+	}
+}

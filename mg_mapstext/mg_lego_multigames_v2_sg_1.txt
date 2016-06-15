@@ -1,0 +1,87 @@
+"Console_T"
+{
+	"@ Map by The_Prodigy"
+	{
+		"chi"		"** 地图制作：The_Prodigy 地图翻译：Ex_cKot **"
+	}
+	"@ LongJump"
+	{
+		"chi"		"** 长跳 **"
+	}
+	"@ Bhop"
+	{
+		"chi"		"** 连跳 **"
+	}
+	"@ ManyRooms"
+	{
+		"chi"		"** 众多房间 **"
+	}
+	"@ Scout"
+	{
+		"chi"		"** 鸟狙 **"
+	}
+	"@ Football"
+	{
+		"chi"		"** 足球 **"
+	}
+	"@ 2Rooms"
+	{
+		"chi"		"** 2间屋子 **"
+	}
+	"@ SkippingRope"
+	{
+		"chi"		"** 跳绳 **"
+	}
+	"@ >5<"
+	{
+		"chi"		"** >5< **"
+	}
+	"@ >4<"
+	{
+		"chi"		"** >4< **"
+	}
+	"@ >3<"
+	{
+		"chi"		"** >3< **"
+	}
+	"@ >2<"
+	{
+		"chi"		"** >2< **"
+	}
+	"@ >1<"
+	{
+		"chi"		"** >[1]< **"
+	}
+	"@ Go"
+	{
+		"chi"		"** 走起！ **"
+	}
+	"@ Shotgun"
+	{
+		"chi"		"** 霰弹枪 **"
+	}
+	"@ BlindDeagle"
+	{
+		"chi"		"** 致盲沙鹰 **"
+	}
+	"@ Skate"
+	{
+		"chi"		"** 滑冰 **"
+	}
+	"@ Knife"
+	{
+		"chi"		"** 刀 **"
+	}
+	"@ Awp"
+	{
+		"chi"		"** AWP **"
+	}
+	"@ Grenades"
+	{
+		"chi"		"** 手雷 **"
+	}
+	"@ SpeedJumps"
+	{
+		"chi"		"** 快速跳跃 **"
+	}
+}

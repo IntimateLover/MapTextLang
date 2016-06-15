@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"@ Map by The_Prodigy"
+	{
+		"chi"		"** 地图制作：The_Prodigy 地图翻译：Ex_cKot**"
+	}
+	"Map Ported by Blogger(Dog)"
+	{
+		"chi"		"** 地图上传：Blogger(Dog)**"
+	}
+	"@ 10 seconds"
+	{
+		"chi"		"** 10秒**"
+	}
+	"@ 5 seconds"
+	{
+		"chi"		"** 5秒**"
+	}
+	"@ 4 seconds"
+	{
+		"chi"		"** 4秒**"
+	}
+	"@ 3 seconds"
+	{
+		"chi"		"** 3秒**"
+	}
+	"@ 2 seconds"
+	{
+		"chi"		"** 2秒**"
+	}
+	"@ 1 second"
+	{
+		"chi"		"** 1秒**"
+	}
+	"@ AFK dead!"
+	{
+		"chi"		"** 挂机处死**"
+	}
+}

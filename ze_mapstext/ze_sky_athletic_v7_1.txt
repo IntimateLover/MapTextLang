@@ -1,0 +1,1115 @@
+"Console_T"
+{
+	"*** STAGE 1 ***"
+	{
+		"chi"		"**第一关**"
+	}
+	"*** Porting helped by Airvulpes,kune***"
+	{
+		"chi"		"**地图移植帮助：Airvulpes,kune**"
+	}
+	"*** HUMAN>>> Climb the ladder ***"
+	{
+		"chi"		"**人类>>> 爬上梯子**"
+	}
+	"*** ZOMBIE>>> Should go to under the entrance ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
+	{
+		"chi"		"**反连跳系统>>> 如果你进行连跳，你会受到惩罚**"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"**测试服务器：Sakura[CS:S],POSSESSION[CS:GO]**"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"**地图作者：thas**"
+	}
+	"*** FIRST PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**第一个传送点10秒后激活**"
+	}
+	"*** FIRST PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**第一个传送点5秒后激活**"
+	}
+	"*** PORTAL ACTIVATED ***"
+	{
+		"chi"		"**传送点激活**"
+	}
+	"***ZOMBIE IS COMING***"
+	{
+		"chi"		"**僵尸突破空气墙**"
+	}
+	"*** LEVEL 1: NORMAL JUMP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点30秒后激活**"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点20秒后激活**"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点10秒后激活**"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点5秒后激活**"
+	}
+	"*** LEVEL 2:  LADDERS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点30秒后激活**"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点20秒后激活**"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点10秒后激活**"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点5秒后激活**"
+	}
+	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点30秒后激活**"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点20秒后激活**"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点10秒后激活**"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点5秒后激活**"
+	}
+	"*** LEVEL4 LOW GRAVITY ***"
+	{
+		"chi"		"**LEVEL4 低重力**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点30秒后激活**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点20秒后激活**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点10秒后激活**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点5秒后激活**"
+	}
+	"*** LEVEL5 WINDY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点30秒后激活**"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点20秒后激活**"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点10秒后激活**"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点5秒后激活**"
+	}
+	"*** LEVEL6 SLIDE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点30秒后激活**"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点20秒后激活**"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点10秒后激活**"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点5秒后激活**"
+	}
+	"*** LEVEL7 HOLD THIS POTISION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POTISION for 30 SECONDS***"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"*** HOLD THIS POTISION for 20 SECONDS***"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"*** HOLD THIS POTISION for 10 SECONDS***"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"*** HOLD THIS POTISION for 5 SECONDS***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"*** STAGE 1 COMPLETED ***"
+	{
+		"chi"		"**第一关完成**"
+	}
+	"*** STAGE 2 ***"
+	{
+		"chi"		"**第二关**"
+	}
+	"*** LEVEL 8: THE MOVING WALLS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL9传送点30秒后激活**"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL9传送点20秒后激活**"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL9传送点10秒后激活**"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL9传送点5秒后激活**"
+	}
+	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL10传送点30秒后激活**"
+	}
+	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了火**"
+	}
+	"COOL DOWN : 35 SEC"
+	{
+		"chi"		"**火CD:35秒**"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL10传送点20秒后激活**"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL10传送点10秒后激活**"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL10传送点5秒后激活**"
+	}
+	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点40秒后激活**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点30秒后激活**"
+	}
+	"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了奶**"
+	}
+	"CAUTION :It can use only once"
+	{
+		"chi"		"**注意：奶自能用一次**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点20秒后激活**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL11传送点10秒后激活**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点5秒后激活**"
+	}
+	"*** LEVEL 11:  SURF ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL12传送点30秒后激活**"
+	}
+	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了风**"
+	}
+	"COOL DOWN : 40 SEC"
+	{
+		"chi"		"**风CD：40秒**"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL12传送点20秒后激活**"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL12传送点10秒后激活**"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL12传送点5秒后激活**"
+	}
+	"*** LEVEL 12:  LASERS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL13传送点30秒后激活**"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL13传送点20秒后激活**"
+	}
+	"*** THE LASER MACHINE IS BROKEN ***"
+	{
+		"chi"		"**激光设备被破坏**"
+	}
+	"*** ALL OF THE FINAL LASER IS DISABLED ***"
+	{
+		"chi"		"**所有激光陷阱被破坏**"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL13传送点10秒后激活**"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL13传送点5秒后激活**"
+	}
+	"*** LEVEL 13: FLYING ***"
+	{
+		"chi"		"**LEVEL 13: FLYING（躲开黄色方块飞到顶端）**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL14传送点30秒后激活**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL14传送点20秒后激活**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL14传送点10秒后激活**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL14传送点5秒后激活**"
+	}
+	"*** LEVEL 14:  THE CLOUD BOSS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
+	{
+		"chi"		"**电梯将在20秒后上升**"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
+	{
+		"chi"		"**电梯将在10秒后上升**"
+	}
+	"*** PUSHING ZOMBIE IS COMING ***"
+	{
+		"chi"		"**一位僵尸捡到了风**"
+	}
+	"*** HURTING ZOMBIE IS COMING ***"
+	{
+		"chi"		"**一位僵尸捡到了火**"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯将在5秒后上升**"
+	}
+	"*** THE CUTE CLOUD and HIS CHILDREN are APPEARED!! SHOOT THEM!! ***"
+	{
+		"chi"		"**BOSS出现了，向他们射击**"
+	}
+	"*** THE CUTE CLOUD STARTED MOVING ***"
+	{
+		"chi"		"**BOSS开始移动**"
+	}
+	"*** THE CUTE CLOUD IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"chi"		"**BOSS狂暴了，继续射击**"
+	}
+	"*** IT CALLED MORE HIS CHILDREN ***"
+	{
+		"chi"		"**更多的小云出现了**"
+	}
+	"*** THE CUTE CLOUD IS DEFEATED ***"
+	{
+		"chi"		"**BOSS被击败了**"
+	}
+	"*** RUN TO THE NEXT DEFENCE POINT ***"
+	{
+		"chi"		"**跑到下一个防守点**"
+	}
+	"*** ZOMBIE WILL COME IN 10 SECONDS ***"
+	{
+		"chi"		"**僵尸10秒后出笼**"
+	}
+	"*** ZOMBIE IS COMING ***"
+	{
+		"chi"		"**僵尸突破空气墙**"
+	}
+	"*** STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"*** STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"*** STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"*** STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"*** STAGE 2 COMPLETED ***"
+	{
+		"chi"		"**第二关完成**"
+	}
+	"*** STAGE 3 ***"
+	{
+		"chi"		"**第三关**"
+	}
+	"*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+	{
+		"chi"		"**板架5秒后启动**"
+	}
+	"*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+	{
+		"chi"		"**左右两边大门开启**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL16传送点30秒后激活**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL16传送点20秒后激活**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL16传送点10秒后激活**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL16传送点5秒后激活**"
+	}
+	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL17传送点30秒后激活**"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL17传送点20秒后激活**"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL17传送点10秒后激活**"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL17传送点5秒后激活**"
+	}
+	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL18传送点30秒后激活**"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL18传送点20秒后激活**"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL18传送点10秒后激活**"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL18传送点5秒后激活**"
+	}
+	"*** LEVEL18 SLIDE 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL19传送点30秒后激活**"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL19传送点20秒后激活**"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL19传送点10秒后激活**"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL19传送点5秒后激活**"
+	}
+	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BARRIER DISABLED ***"
+	{
+		"chi"		"**屏障消失**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL20传送点30秒后激活**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL20传送点20秒后激活**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL20传送点10秒后激活**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL20传送点5秒后激活**"
+	}
+	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**最后的传送点30秒后激活**"
+	}
+	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**最后的传送点20秒后激活**"
+	}
+	"*** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**最后的传送点10秒后激活**"
+	}
+	"*** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**最后的传送点5秒后激活**"
+	}
+	"*** FINAL LEVEL:  ???? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+	{
+		"chi"		"**德国BOY出现了**"
+	}
+	"*** KEY BOARD CRASHER STARTED MOVING ***"
+	{
+		"chi"		"**德国BOY开始移动**"
+	}
+	"*** Watch out for esc cannon and your head !! ***"
+	{
+		"chi"		"**小心ESC炮弹和头上的键盘**"
+	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"chi"		"**德国BOY狂暴了**"
+	}
+	"*** Another cannon started ***"
+	{
+		"chi"		"**另一个ESC炮弹启动**"
+	}
+	"*** Watch out for something !! ***"
+	{
+		"chi"		"**小心点！！**"
+	}
+	"*** KAMIKAZE ZOMBIE IS COMING ***"
+	{
+		"chi"		"**一位僵尸捡起了自爆**"
+	}
+	"*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了冰**"
+	}
+	"COOL DOWN : 50 SEC"
+	{
+		"chi"		"**冰CD:50秒**"
+	}
+	"*** KEY BOARD CRASHER IS DEAD ***"
+	{
+		"chi"		"**德国BOY死了**"
+	}
+	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
+	}
+	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"chi"		"**坚守20秒（站在平台两边守，中间德国BOY会冲过来）**"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CAREFULL!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+	{
+		"chi"		"**所有关卡完成，EX模式启动**"
+	}
+	"*** STAGE 1: EXTREME ***"
+	{
+		"chi"		"**EX1**"
+	}
+	"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
+	{
+		"chi"		"**第一个到达传送点的玩家可以选择模式**"
+	}
+	"*** HURRY ! HURRY !! ***"
+	{
+		"chi"		"**快!快!!**"
+	}
+	"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
+	{
+		"chi"		"**一位玩家进入了模式选择房间**"
+	}
+	"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
+	{
+		"chi"		"**一位玩家选择了全道具模式**"
+	}
+	"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**全部人类5秒后传送**"
+	}
+	"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**全部僵尸5秒后传送**"
+	}
+	"*** STAGE 1: EXTREME COMPLETED ***"
+	{
+		"chi"		"**EX1完成**"
+	}
+	"*** STAGE 2: EXTREME ***"
+	{
+		"chi"		"**EX2**"
+	}
+	"*** A PERSON PRESSED QUICK MODE BUTTON ***"
+	{
+		"chi"		"**一位玩家选择了快速模式**"
+	}
+	"*** A PERSON PRESSED LOW FRICTION MODE BUTTON ***"
+	{
+		"chi"		"**一位玩家选择了低摩擦模式**"
+	}
+	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了小奶（恢复到100血）**"
+	}
+	"CUTE CLOUD :Hi,humans..."
+	{
+		"chi"		"**萌云：你好人类**"
+	}
+	"CUTE CLOUD :I don't fight with you..."
+	{
+		"chi"		"**萌云：我不会和你对抗...**"
+	}
+	"CUTE CLOUD :but..."
+	{
+		"chi"		"**萌云：但是...**"
+	}
+	"CUTE CLOUD :My captain fight with you !!!"
+	{
+		"chi"		"**萌云：我的队长会和你对抗**"
+	}
+	"CUTE CLOUD :HEY CAPTAIN !! PLEASE DEFEAT THEM !!!!!!!!"
+	{
+		"chi"		"**萌云：队长！！把他们消灭了！！！！！！！**"
+	}
+	"CAPTAIN CLOUD :IRASSYAI MASE"
+	{
+		"chi"		"**队长：遵命**"
+	}
+	"CUTE CLOUD :Please defeat them !! We will help you !!"
+	{
+		"chi"		"**萌云：请打败他们！！，我会帮助你！！**"
+	}
+	"*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
+	{
+		"chi"		"**僵尸路开启，小心**"
+	}
+	"*** A PERSON PRESSED ALL ITEM BUTTON ***"
+	{
+		"chi"		"**一位玩家按下全道具按钮**"
+	}
+	"*** A PLAYER HAS PICKED UP THE MEGA LASER ***"
+	{
+		"chi"		"**一位玩家捡起mega laser**"
+	}
+	"*** IT IS A SECRET ITEM ***"
+	{
+		"chi"		"**这是一个秘密道具**"
+	}
+	"*** YOU CAN KILL EASIER THE ZOMBIE ***"
+	{
+		"chi"		"**你能更容易击杀僵尸**"
+	}
+	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
+	{
+		"chi"		"**3秒后爆炸!!!!!**"
+	}
+	"*** 2!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :You made me angry...."
+	{
+		"chi"		"**队长：你们让我很恼火.....**"
+	}
+	"CAPTAIN CLOUD :Look the my full power !!!!!!!!!!!!!"
+	{
+		"chi"		"**队长：让你们见识下我真正的实力!!!!!!!!!!!!!**"
+	}
+	"CAPTAIN CLOUD :YOU MUST DIE !!!!"
+	{
+		"chi"		"**队长：你们都得死!!!!**"
+	}
+	"CAPTAIN CLOUD :O...Oh my god... I lose..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Hey... You are very strong...."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :I think..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD : you can defeat new formation of invader..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :knowing you..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :See you again..."
+	{
+		"chi"		"** **"
+	}
+	"*** You defeated captain cloud ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie will come in 10 seconds  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES ARE COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"!?"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :Hey humans !!"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :I can't allow you even my captain trust you !!"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	">>> AIR SLASHER IS COMING <<<< AVOID IT DUCK OR JUMP !!!!"
+	{
+		"chi"		"** **"
+	}
+	"Remember : 5 COUNTS !!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :AAAHhhhh...."
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 2 :EXTREME COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 3: EXTREME ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We don't know what will happen... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GOOD LUCK... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HE ISN'T HERE...?***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EXTREME STAGE COMPLETED...? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** JUMP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Where are we...? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wait until esc key come ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Star road will active in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Star road will active in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU CAN ACROSS NOW !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We have lost the escape route ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wait until something happen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER : You can't kill me forever !!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE WAVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEYBOARD ATTACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"????? :That you won't !!!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Don't take hand for them !!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Hey! Humans !! I will help you !!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN :Pick up me !! I will attack him !!!"
+	{
+		"chi"		"** **"
+	}
+	"*** A player has picked up the Captain cloud ***"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** TAPIOKA PUNCH ***"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :Wha...What...? I was defeated by them....?"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Thanks for helping defeat him...."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :You are our hero...."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :I don't forgot this thing. See you again...."
+	{
+		"chi"		"** **"
+	}
+	"*** WE BACKED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS OUR LAST STAND !!!!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 40 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 30 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 20 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 10 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 9 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 8 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 7 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 6 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 5 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 4 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 3 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 2 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 1 SECONDS !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU COMPLETED SKY ATHLETIC !!!! CONGRATULATIONS !!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** DRAIN KEYBOARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FLYING CHANCE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ESC STORM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OVERRUN PROTECTER DISABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OVERRUN PROTECTER ENABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEYBOARD CUTTER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Marathon MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Random trigger activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Soft move trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Low friction Trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Low gravity Trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE CUTE CLOUD IS ANGRY!! DONT STOP SHOOTING!! ***"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :I dont fight with you..."
+	{
+		"chi"		"** **"
+	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DONT STOP SHOOTING!! ***"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :I cant allow you even my captain trust you !!"
+	{
+		"chi"		"** **"
+	}
+	"*** We dont know what will happen... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HE ISNT HERE...?***"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER : You cant kill me forever !!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** CRASHER HEALED 70 HP ***"
+	{
+		"chi"		"** **"
+	}
+}

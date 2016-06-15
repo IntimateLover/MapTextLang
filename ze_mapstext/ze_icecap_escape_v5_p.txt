@@ -1,0 +1,126 @@
+"Console_T"
+{
+	"***Boat 2 leaving in 5secs.***"
+	{
+		"chi"		"*****右侧的快船5秒后出发*****"
+	}
+	"***First shortcuts opening in 15secs.***"
+	{
+		"chi"		"*****第壹个僵尸捷径15秒后开启，速度太慢的咸鱼可以走捷径传送*****"
+	}
+	"***Boat 3 leaving in 10secs.***"
+	{
+		"chi"		"*****左侧大船10秒后开船*****"
+	}
+	"***Ice Wall breaking in 10secs.***"
+	{
+		"chi"		"冰墙10秒后碎裂！"
+		"DoorCountdown"		"10"
+	}
+	"***Tram leaving in 10secs.***"
+	{
+		"chi"		"电车10秒后出发，小心隐身僵尸！"
+		"DoorCountdown"		"10"
+	}
+	"***Second shortcuts opening in 15secs.***"
+	{
+		"chi"		"*****第二个僵尸捷径15秒后开启，掉下水死掉的咸鱼们快走捷径传送！*****"
+	}
+	"***Final Boat leaving in 75secs.***"
+	{
+		"chi"		"*****大铁船于75秒后出发*****"
+	}
+	"***WashTub leaving in 65secs.***"
+	{
+		"chi"		"*****洗衣盆将在65秒后出发*****"
+	}
+	"***Bobsled leaving in 5secs.***"
+	{
+		"chi"		"*****长橇5秒后出发*****"
+	}
+	"***...WashTub leaving in 3secs...***"
+	{
+		"chi"		"*****洗衣盆3秒后出发，小心掉进水中*****"
+		"DoorCountdown"		"3"
+	}
+	"***WashTub leaving in 30secs.***"
+	{
+		"chi"		"*****洗衣盆30秒后出发*****"
+	}
+	"***Final Boat leaving in 30secs.***"
+	{
+		"chi"		"*****大铁船30秒后出发*****"
+	}
+	"***WashTub leaving in 5secs.***"
+	{
+		"chi"		"洗衣盆要离开了！"
+		"DoorCountdown"		"5"
+	}
+	"***Final Boat leaving in 5secs.***"
+	{
+		"chi"		"大铁船要离开了！"
+		"DoorCountdown"		"5"
+	}
+	"***Boat 4 leaving in 10secs.***"
+	{
+		"chi"		"*****右侧大船10秒后开船*****"
+	}
+	"***Boat 1 leaving in 10secs.***"
+	{
+		"chi"		"*****左侧慢船10秒后开船*****"
+	}
+	"***Gate opening in 75secs.***"
+	{
+		"chi"		"*****60秒后集装箱库房开门（原作者留下的BUG）*****"
+	}
+	"***Armory open.***"
+	{
+		"chi"		"*****右侧的军械库木门开启了*****"
+	}
+	"***Nuke in 10secs.***"
+	{
+		"chi"		"核弹在10秒后到达！小心僵尸趁着白光反扑！"
+		"DoorCountdown"		"10"
+	}
+	"***Gate opening in 30secs.***"
+	{
+		"chi"		"*****15秒后集装箱库房开门*****"
+	}
+	"***Helicopter leaving in 5secs.***"
+	{
+		"chi"		"*****飞机5秒后起飞*****"
+	}
+	"***Gate opening in 5secs.***"
+	{
+		"chi"		"*****门早就开了（滑稽）*****"
+	}
+	"***Start up the Helicopter.***"
+	{
+		"chi"		"*****飞机起飞了！停机坪旁边的小澡盆是你们最后的希望！*****"
+	}
+	"***...WashBucket leaving in 5secs...Seriously?***"
+	{
+		"chi"		"*****停机坪旁边的小澡盆会在5秒后离开（友谊的小澡盆说走就走）*****"
+	}
+	"***5***"
+	{
+		"chi"		"*****毁灭万物的白光就要来了！*****"
+		
+	}
+	"***4***"
+	{
+		"chi"		"*****祝所有咸鱼们身体健康！*****"
+	}
+	"***3***"
+	{
+		"chi"		"ze_icecap_escape_v5 原作者RelaxingWalls（CS:S）"
+	}
+	"***2***"
+	{
+		"chi"		"咸鱼翻译：咸鱼学者 猫耳花小泉杏"
+	}
+	"***1***"
+	{
+		"chi"		"Boom ~ Shakalaka~~~"
+	}
+}

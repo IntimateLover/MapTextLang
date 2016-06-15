@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"AFK kill in 10 seconds."
+	{
+		"chi"		"** 挂机处死将在10秒后生效 **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		"** 30秒内出生保护**"
+	}
+}

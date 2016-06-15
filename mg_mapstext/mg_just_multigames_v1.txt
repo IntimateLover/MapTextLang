@@ -1,0 +1,203 @@
+"Console_T"
+{
+	"@[Map] Map by Blogger(Dog)"
+	{
+		"chi"		"** 地图制作：Blogger(Dog) 地图翻译：Ex_cKot**"
+	}
+	"@[Map]  AFK TIMER in 30 sec"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	"@[MAP] FOOTBALL"
+	{
+		"chi"		"** 足球**"
+	}
+	"@[MAP] PISTOLS"
+	{
+		"chi"		"** 手枪**"
+	}
+	"@[Mod] Headshot mod"
+	{
+		"chi"		"** 爆头模式**"
+	}
+	"@[Map] AFK KILLER"
+	{
+		"chi"		"** 挂机处死**"
+	}
+	"@[Map] Falling Boxes"
+	{
+		"chi"		"** 坠落**"
+	}
+	"@[Map] Random Timer Enabled"
+	{
+		"chi"		"** 随机时间开启**"
+	}
+	"@[Map] Refire Time - 3 seconds"
+	{
+		"chi"		"** 3秒后重启**"
+	}
+	"@[Map] Refire Time - 2 seconds"
+	{
+		"chi"		"** 2秒后重启**"
+	}
+	"@[Map] Refire Time -  1 second"
+	{
+		"chi"		"** 1秒后重启**"
+	}
+	"@[Map] Refire Time -  0.5 seconds"
+	{
+		"chi"		"** 0.5秒后重启**"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** AWP**"
+	}
+	"@[Map] Arena fight"
+	{
+		"chi"		"** 竞技场**"
+	}
+	"@[Map] Random Weapon"
+	{
+		"chi"		"** 随机武器**"
+	}
+	"@[Map] Weapon AK-47"
+	{
+		"chi"		"** AK47**"
+	}
+	"@[Map] Random Timer Disabled"
+	{
+		"chi"		"** 随机时间关闭**"
+	}
+	"@[Map] Refire Time -  0.3 seconds"
+	{
+		"chi"		"** 0.3秒后重启**"
+	}
+	"@[Map] Winners Get 10 Points"
+	{
+		"chi"		"** 胜者获得10分**"
+	}
+	"@[Map] BhopBattle"
+	{
+		"chi"		"** 连跳**"
+	}
+	"@[Map] 60 seconds before the battle"
+	{
+		"chi"		"** 60秒**"
+	}
+	"@[Map] 5"
+	{
+		"chi"		"** 5**"
+	}
+	"@[Map] 4"
+	{
+		"chi"		"** 4**"
+	}
+	"@[Map] 3"
+	{
+		"chi"		"** 3**"
+	}
+	"@[Map] 2"
+	{
+		"chi"		"** 2**"
+	}
+	"@[Map] 1"
+	{
+		"chi"		"** 1**"
+	}
+	"@[Map] Battle"
+	{
+		"chi"		"** 开始**"
+	}
+	"@[Map] AFK TIMER in 10 sec"
+	{
+		"chi"		"** 10秒后挂机处死**"
+	}
+	"@[Map] AFK TIMER activated"
+	{
+		"chi"		"** 挂机处死 激活**"
+	}
+	"@[Map] RANDOM GAME WILL BE CHOSEN"
+	{
+		"chi"		"** 随机游戏**"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"** 手雷**"
+	}
+	"@[Map] Randomly selection"
+	{
+		"chi"		"** 随机选择**"
+	}
+	"@[Map] Fight Spawn Knife 200HP"
+	{
+		"chi"		"** 刀 200血**"
+	}
+	"@[Map] Surf Battle"
+	{
+		"chi"		"** 滑翔**"
+	}
+	"@[MAP] GOAL!!!!"
+	{
+		"chi"		"** 得分！**"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"** 时间限制**"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"** 滑冰**"
+	}
+	"@[Mod] BackStab"
+	{
+		"chi"		"** 背刺**"
+	}
+	"@[Map] Weapon Deagle"
+	{
+		"chi"		"** 沙鹰**"
+	}
+	"@[MAP] AIM"
+	{
+		"chi"		"** 瞄准**"
+	}
+	"@[Map] Climb"
+	{
+		"chi"		"** 攀爬**"
+	}
+	"@[Map] 3 MINUTES REMAINING"
+	{
+		"chi"		"** 剩余3分钟**"
+	}
+	"@[Map] 2 MINUTES REMAINING"
+	{
+		"chi"		"** 剩余2分钟**"
+	}
+	"@[Map] 1 MINUTES REMAINING"
+	{
+		"chi"		"** 剩余1分钟**"
+	}
+	"@[Map] Weapon Scout"
+	{
+		"chi"		"** 鸟狙**"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** 地图在有bot时无法运行**"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** 地图制作：[SG] Paul**"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** 40秒后自动选择**"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** 地图制作：DTK Development团队**"
+	}
+	"@[Map] 30 Seconds"
+	{
+		"chi"		"** 30秒**"
+	}
+}

@@ -1,0 +1,44 @@
+"Console_T"
+{
+	">Welcome to mg_gruber_course created by bdgruber<"
+	{
+		"chi"		"** 欢迎来到mg_gruber_course 地图制作：bdgruber 地图翻译：Ex_cKot **"
+	}
+	">Spawn Killer In 10 Seconds<"
+	{
+		"chi"		"** 出生点处死将在10秒后生效 **"
+	}
+	">Spawn Killer In 5 Seconds<"
+	{
+		"chi"		"** 出生点处死将在5秒后生效 **"
+		"DoorCountdown"		"5"
+	}
+	">Spawn Killer Activated<"
+	{
+		"chi"		"** 出生点处死已生效 **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		">>>地图制作：Jenz and Onederp<<<"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** 地图制作：Darnias**"
+	}
+	"--> Spawn Protection in 20 Seconds <--"
+	{
+		"chi"		"** 20秒内出生保护**"
+	}
+	"Spawn Protection in 25 Seconds!!"
+	{
+		"chi"		"** 25秒内出生保护**"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** 40秒内出生保护**"
+	}
+}

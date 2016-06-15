@@ -1,0 +1,187 @@
+"Console_T"
+{
+	"@[MAP] KNIFE"
+	{
+		"chi"		"**刀**"
+	}
+	"@[MUSIC] Disclosure - White Noise"
+	{
+		"chi"		"**音乐：Disclosure - White Noise**"
+	}
+	"@[MAP] WALLHACKS"
+	{
+		"chi"		"**透视**"
+	}
+	"@[MUSIC] Daft Punk - Get Lucky"
+	{
+		"chi"		"**音乐：Daft Punk - Get Lucky**"
+	}
+	"@[MAP] HEADSHOT"
+	{
+		"chi"		"**爆头**"
+	}
+	"@[MAP] GRENADE HOLES"
+	{
+		"chi"		"**扔雷进洞**"
+	}
+	"@[MAP] PISTOLS"
+	{
+		"chi"		"**手枪**"
+	}
+	"@[MUSIC] Macklemore - Cant Hold Us"
+	{
+		"chi"		"**音乐：Macklemore - Cant Hold Us**"
+	}
+	"@[MAP] WTF? SCOUTS"
+	{
+		"chi"		"**什么鬼？鸟狙！显卡危机！**"
+	}
+	"@[MUSIC] Lou Bega - Mambo No 5"
+	{
+		"chi"		"**音乐：Lou Bega - Mambo No 5**"
+	}
+	"@[MAP] CREEPER"
+	{
+		"chi"		"**苦力怕！！**"
+	}
+	"@Map begins in 3 seconds..."
+	{
+		"chi"		"**3秒后开始**"
+	}
+	"@Map begins in 2 seconds..."
+	{
+		"chi"		"**2秒后开始**"
+	}
+	"@Map begins in 1 second..."
+	{
+		"chi"		"**1秒后开始**"
+	}
+	"@[MAP] FOOTBALL"
+	{
+		"chi"		"**足球**"
+	}
+	"@[MUSIC] Smash Mouth - All Star"
+	{
+		"chi"		"**音乐：Smash Mouth - All Star**"
+	}
+	"@[MAP] GOOOOOOAAAAAALLLLL"
+	{
+		"chi"		"**进球！！！！！！！**"
+	}
+	"Winners get in position!"
+	{
+		"chi"		"**胜者获得有利位置**"
+	}
+	"Losers prepare to take balls to the face"
+	{
+		"chi"		"**败者准备被球踢到**"
+	}
+	"@[MUSIC] Lenny Kravitz - Fly Away"
+	{
+		"chi"		"**音乐：Lenny Kravitz - Fly Away**"
+	}
+	"@[MUSIC] Major Lazer & DJ Snake - Lean On"
+	{
+		"chi"		"**音乐：Major Lazer  DJ Snake - Lean On**"
+	}
+	"@[MUSIC] Watsky - IDGAF"
+	{
+		"chi"		"**音乐：Watsky - IDGAF**"
+	}
+	"@[MAP] VOLLEYBALL"
+	{
+		"chi"		"**排球**"
+	}
+	"@[MUSIC] Kygo - Firestone ft. Conrad"
+	{
+		"chi"		"**音乐：Kygo - Firestone ft Conrad**"
+	}
+	"[TERRORISTS WIN]"
+	{
+		"chi"		"**T胜利**"
+	}
+	"@[MUSIC] OPM - Heaven Is A Halfpipe"
+	{
+		"chi"		"**音乐：OPM - Heaven Is A Halfpipe**"
+	}
+	"@[MAP] ELEVATOR"
+	{
+		"chi"		"**电梯**"
+	}
+	"@[MAP] 1HP FOOTBALL"
+	{
+		"chi"		"**1血 足球**"
+	}
+	"@[MAP] AIM"
+	{
+		"chi"		"**买买买！干干干！**"
+	}
+	"@[MAP] This Level By SOLIDSNAKE"
+	{
+		"chi"		"**关卡设计：SOLIDSNAKE**"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"**AWP**"
+	}
+	"@[MUSIC] Philip George - Wish You Were Mine"
+	{
+		"chi"		"**音乐：Philip George - Wish You Were Mine**"
+	}
+	"@[MAP] BLOCKS"
+	{
+		"chi"		"**积木**"
+	}
+	"@[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+	{
+		"chi"		"**使用自己队伍颜色的积木杀死对手**"
+	}
+	"@[MAP] The Blocks Will Fly Towards You When You Shoot"
+	{
+		"chi"		"**当你射击时积木会朝你的方向移动**"
+	}
+	"@[MAP] Enabling bullet damage in 30 seconds"
+	{
+		"chi"		"**30秒后子弹伤害生效**"
+	}
+	"@[MAP] You can now cross over to enemylines"
+	{
+		"chi"		"**现在你可以穿过敌军**"
+	}
+	"@[MAP] Enabling bullet damage in 10 seconds"
+	{
+		"chi"		"**10秒后子弹伤害生效**"
+	}
+	"@[MAP] Enabling bullet damage in 5 seconds"
+	{
+		"chi"		"**5秒后子弹伤害生效**"
+	}
+	"@[MAP] Bullet damage enabled"
+	{
+		"chi"		"**子弹伤害生效**"
+	}
+	"@[MAP] Blocks breaking in 30 seconds"
+	{
+		"chi"		"**30秒后积木破碎**"
+	}
+	"@[MAP] Blocks breaking in 10 seconds"
+	{
+		"chi"		"**10秒后积木破碎**"
+	}
+	"@[MAP] Blocks breaking in 5 seconds"
+	{
+		"chi"		"**3秒后积木破碎**"
+	}
+	"[COUNTER-TERRORISTS WIN]"
+	{
+		"chi"		"**CT胜利**"
+	}
+	"[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
+	{
+		"chi"		"**CT现在拥有2个球**"
+	}
+	"[TERRORISTS NOW HAVE 2 BALLS]"
+	{
+		"chi"		"**T现在拥有两个球**"
+	}
+}

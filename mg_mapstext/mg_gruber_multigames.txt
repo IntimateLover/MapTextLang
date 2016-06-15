@@ -1,0 +1,83 @@
+"Console_T"
+{
+	">>Created by bdgruber<<"
+	{
+		"chi"		"** 地图制作：bdgruber 地图翻译：Ex_cKot**"
+	}
+	">>MG_GRUBER_MULTIGAMES<<"
+	{
+		"chi"		"** MG_GRUBER_MULTIGAMES**"
+	}
+	">>BHOP<<"
+	{
+		"chi"		"** 连跳**"
+	}
+	">>OBSTACLE RACE<<"
+	{
+		"chi"		"** 障碍赛跑**"
+	}
+	">Jump on the blue or orange platforms to win<"
+	{
+		"chi"		"** 跳上蓝色或橙色的台上取得胜利**"
+	}
+	">Giving weapons in 5 seconds<"
+	{
+		"chi"		"** 5秒后给予武器**"
+	}
+	">>AWP<<"
+	{
+		"chi"		"** **"
+	}
+	">>JUMP ROPE<<"
+	{
+		"chi"		"** **"
+	}
+	">>Survive as long as you can<<"
+	{
+		"chi"		"** **"
+	}
+	">>3<<"
+	{
+		"chi"		"** **"
+	}
+	">>2<<"
+	{
+		"chi"		"** **"
+	}
+	">>1<<"
+	{
+		"chi"		"** **"
+	}
+	">>START<<"
+	{
+		"chi"		"** **"
+	}
+	">>DECOY BATTLE<<"
+	{
+		"chi"		"** **"
+	}
+	">Wall will break in 5 seconds<"
+	{
+		"chi"		"** **"
+	}
+	">3<"
+	{
+		"chi"		"** **"
+	}
+	">2<"
+	{
+		"chi"		"** **"
+	}
+	">1<"
+	{
+		"chi"		"** **"
+	}
+	">A player has won<"
+	{
+		"chi"		"** **"
+	}
+	">>KNIFE<<"
+	{
+		"chi"		"** **"
+	}
+}

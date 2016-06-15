@@ -1,0 +1,75 @@
+"Console_T"
+{
+	">>AFK kill in 35 seconds<<"
+	{
+		"chi"		"** 挂机处死将在35秒后开启 **"
+	}
+	">> 10 seconds <<"
+	{
+		"chi"		"** 10秒 **"
+	}
+	">> 5 seconds <<"
+	{
+		"chi"		"** 5秒 **"
+	}
+	">> 3 seconds <<"
+	{
+		"chi"		"** 3秒 **"
+	}
+	">> 2 seconds <<"
+	{
+		"chi"		"** 2秒 **"
+	}
+	">> 1 seconds <<"
+	{
+		"chi"		"** [1]秒 **"
+	}
+	">> AFK kill is activated <<"
+	{
+		"chi"		"** 挂机处死已开启 **"
+	}
+	">> Map by m I k E <<"
+	{
+		"chi"		"** 地图制作：m I k E 地图翻译：Ex_cKot **"
+	}
+	">> More maps ?.. Donate now <<"
+	{
+		"chi"		"** 想要更多地图？..现在就捐助吧 **"
+	}
+	">> Visit www.csgo-mapper.tk to Donate<<"
+	{
+		"chi"		"** 欢迎访问www.csgo-mapper.tk来捐赠 **"
+	}
+	">>> ooh :O Someone won !!!"
+	{
+		"chi"		"** 吼吼！有人已经到咯~ **"
+	}
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** 地图制作：Ice and Fire Steam32位ID 1:0:52362682**"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** 如果发现BUG请联系我**"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** 地图制作：Jenz and Onederp 地图翻译：Ex_cKot**"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** 40秒内出生保护**"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	"**Map made by xGrandx**"
+	{
+		"chi"		"** 地图制作：xGrandx 地图翻译：Ex_cKot**"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+}

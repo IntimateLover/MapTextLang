@@ -1,0 +1,331 @@
+"Console_T"
+{
+	"** We have reached the ranch at the edge of the peninsula. **"
+	{
+		"chi"		"**欢迎来到鸡农场，这次要展示新型清洁能源：鸡能**"
+	}
+	"** Our reports show that some sort of facility is hidden within it... **"
+	{
+		"chi"		"**翻译:dy2084**"
+	}
+	"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"chi"		"**找条路进去！**"
+	}
+	"** Wait until we meet up! Hold the zombies off! **"
+	{
+		"chi"		"**抵挡僵尸的进攻**"
+	}
+	"** MOVE! **"
+	{
+		"chi"		"**快跑**"
+	}
+	"** This little tram seems to go well with the factory: it has chickens. **"
+	{
+		"chi"		"**我擦，为什么要在列车顶上放几只鸡**"
+	}
+	"** Why would they even trap 4 chickens on a tram that doesn't seem to move...? **"
+	{
+		"chi"		"**待我研究一下**"
+	}
+	"** ... **"
+	{
+		"chi"		"**。。。**"
+	}
+	"** WAIT! THE CHICKENS ARE THE POWER! SHOOT THEM! **"
+	{
+		"chi"		"**似乎把射击那些鸡可以让列车跑的更快**"
+	}
+	"** FIND A WAY INTO THE COMPOUND! ACTIVATE THE LIFT! **"
+	{
+		"chi"		"**快激活电梯,一部分人进门朝左边打鸡，其余人守住大门**"
+	}
+	"** Chicken nugget production interrupted! Emergency elevator leaving soon! **"
+	{
+		"chi"		"**生产停止，电梯马上将要离开**"
+	}
+	"** The chicken has stepped on the energetic relay! HOLD! **"
+	{
+		"chi"		"**这只鸡正在前往应急继电器中进行发电，撑住！**"
+	}
+	"** The door shall open soon. **"
+	{
+		"chi"		"**门将很快打开**"
+	}
+	"** Unlocking nuclear feather-powered silo doors... **"
+	{
+		"chi"		"**解锁核弹发射舱门中**"
+	}
+	"** MOVE! WE GOTTA GET THROUGH! **"
+	{
+		"chi"		"**快跑！**"
+	}
+	"** We are close to the central warehouse... **"
+	{
+		"chi"		"**我们现已接近中心仓库**"
+	}
+	"** HOLD! WE NEED TO RESIST WHILE THE DOOR OPENS! **"
+	{
+		"chi"		"**撑住！直到门开启为止**"
+	}
+	"** We're in one of the main warehouses... **"
+	{
+		"chi"		"**我们已经来到了其中一个中心仓库**"
+	}
+	"** The rocket fuel seems to be cooled in those sketchy tanks - but what is it? **"
+	{
+		"chi"		"**这些火箭燃料似乎被冷藏在这下面，但到底是什么？**"
+	}
+	"** Enabling the ignition process... Rocket launch started... **"
+	{
+		"chi"		"**火箭启动中...**"
+	}
+	"** Something's wrong! There seems to be an fuel overload! **"
+	{
+		"chi"		"**有点不对劲，似乎燃料过载了**"
+	}
+	"** THE FUEL CONTAINER IS OPENING! **"
+	{
+		"chi"		"**燃料容器已打开**"
+	}
+	"** Quick! Trim the excess of nuclear chickens! **"
+	{
+		"chi"		"**快！射击那些鸡**"
+	}
+	"** We have interrupted the explosion for now... **"
+	{
+		"chi"		"**看来爆炸被暂时中止了*"
+	}
+	"** The radiactive chicken remains are toxic! The air is getting contaminated! **"
+	{
+		"chi"		"**这些鸡是放射性有毒物质！空气正被污染！**"
+	}
+	"** QUICK! GET INTO THE SAFE ROOM! **"
+	{
+		"chi"		"**快进入安全房**"
+	}
+	"** We should not be affected by the toxins here... **"
+	{
+		"chi"		"**我们应该没被这里的毒气影响到**"
+	}
+	"** THE TOXINS ARE GETTING IN THE VENTILATION SYSTEM! WE'RE DOOMED! **"
+	{
+		"chi"		"**毒气正进入通风系统，我们完蛋了**"
+	}
+	"** We need to find a way out! The rocket is going to blow up! **"
+	{
+		"chi"		"**我们需要找条路出去！火箭即将爆炸！**"
+	}
+	"** According to our data we must be close to one of the energy plants... **"
+	{
+		"chi"		"**根据我们的信息，我们已经很接近其中一个供能设施**"
+	}
+	"** Hold the line! The doors will open soon and we will get to one of the underground power plants! **"
+	{
+		"chi"		"**守到门打开！**"
+	}
+	"** KEEP IT UP! THE SECURITY DOORS ARE CRACKED NOW! **"
+	{
+		"chi"		"**安全门已开启**"
+	}
+	"** GO! GO! GO! We should be close to an exit of some sort! **"
+	{
+		"chi"		"**快走！我们应该很接近出口了！**"
+	}
+	"** MOVE! The facility is blowing up and this area is likely to colapse! **"
+	{
+		"chi"		"**快走！这地方马上就要爆炸了**"
+	}
+	"** This is enormous... **"
+	{
+		"chi"		"**这地方真大。。。杀死NPC并抵挡僵尸的进攻**"
+	}
+	"** The power plant is at the other side - we need to get there! Be careful not to fall! **"
+	{
+		"chi"		"**供能设施在另一边！我们必须过去，小心别掉下去了！**"
+	}
+	"** GET GOING! IT'S GETTING WORSE! **"
+	{
+		"chi"		"**快走！**"
+	}
+	"** The door seems locked... **"
+	{
+		"chi"		"**门似乎被锁住了**"
+	}
+	"** RESIST UNTIL WE CAN GET THROUGH! HOLD IT! **"
+	{
+		"chi"		"**防守到门打开**"
+	}
+	"** GO! GET INSIDE AND USE THE LIFT! THIS IS ABOUT TO BLOW! **"
+	{
+		"chi"		"**快使用电梯！**"
+	}
+	"** HOLD! THE ELEVATOR'S ENGINES ARE WARMING UP! **"
+	{
+		"chi"		"**坚守！电梯引擎正在启动**"
+	}
+	"** KEEP IT UP! RESIST! **"
+	{
+		"chi"		"**继续坚守！**"
+	}
+	"** ONE LAST BIT! HOLD IT! **"
+	{
+		"chi"		"**！！！**"
+	}
+	"** CONGRATULATIONS TEAM - WE DID IT! **"
+	{
+		"chi"		"**第一关完成！**"
+	}
+	"** We are in the depths of the facility... **"
+	{
+		"chi"		"**第二关开始**"
+	}
+	"** The airstrike team will be blowing up the command center soon! **"
+	{
+		"chi"		"**空袭小组即将轰炸指挥中心**"
+	}
+	"** MISSION: FIND A WAY OUT! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"chi"		"**找条路出去！**"
+	}
+	"** GET TOGETHER! We're close to the outdoor areas! **"
+	{
+		"chi"		"**快走！我们快到外面了！**"
+	}
+	"** MOVE! WE GOTTA REACH THE EXTRACTION POINT AT THE HELIPAD! **"
+	{
+		"chi"		"**快走！我们必须到直升机坪去撤离！**"
+	}
+	"** The direct pathway towards the underground exit is locked... **"
+	{
+		"chi"		"**通往地下出口的最快路径被锁住了。。。**"
+	}
+	"** HOLD! We will try to find a way from the facility's top instead! **"
+	{
+		"chi"		"**守住！我们会找到一条路来代替！**"
+	}
+	"** GET READY! The door is about to open! **"
+	{
+		"chi"		"**准备好！门要打开了**"
+	}
+	"** Look! The control tower has been blown up! **"
+	{
+		"chi"		"**看！控制塔台倒塌了！**"
+	}
+	"** We can now hijack one of the helicopters and leave! **"
+	{
+		"chi"		"**我们可以抢一辆直升机并离开！**"
+	}
+	"** SECURITY SYSTEM BREACHED! THE PATH WILL SHOW SOON! **"
+	{
+		"chi"		"**安全系统关闭！路径即将出现！**"
+	}
+	"** RESIST! THE ELEVATOR DOOR WILL BE OPENING SOON! **"
+	{
+		"chi"		"**坚守！电梯门即将打开！**"
+	}
+	"** GET INSIDE! THE ELEVATOR IS LEAVING SOON! **"
+	{
+		"chi"		"**快进去！电梯即将离开！**"
+	}
+	"** This door seems locked! Hold the line while we open it! **"
+	{
+		"chi"		"**门似乎被锁住了！在开门时坚守！**"
+	}
+	"** HOLD RIGHT HERE! THE EXTRACTION POINT IS CLOSE! **"
+	{
+		"chi"		"**守住这里！我们已经很接近撤离点了！**"
+	}
+	"** GO! COVER YOUR TEAM MATES AND GET MOVING! **"
+	{
+		"chi"		"**快前往停机坪！**"
+	}
+	"** WE HAVE REACHED THE HELIPAD! RESIST! **"
+	{
+		"chi"		"**我们已经到达停机坪了！**"
+	}
+	"** The helicopter's engines will take a bit to warm up! Don't let them through! **"
+	{
+		"chi"		"**直升机引擎需要一点时间来发动，守住！**"
+	}
+	"** DON'T GIVE UP! HOLD IT! **"
+	{
+		"chi"		"**继续坚守！**"
+	}
+	"** KEEP IT UP! THE BLADES ARE MOVING! **"
+	{
+		"chi"		"**直升机旋翼已经启动！**"
+	}
+	"** GET ON! WE'RE LEAVING! GO! **"
+	{
+		"chi"		"**上飞机！是时候离开了！**"
+	}
+	"** COVER YOUR EYES! THE NUCLEAR WARHEAD IS COMING! **"
+	{
+		"chi"		"**保护好你的狗眼！核弹即将投放了**"
+	}
+	"** IT'S GOING TO BLOW!!! **"
+	{
+		"chi"		"**核弹已投放！！！**"
+	}
+	"** FANTASTIC JOB - YOU ESCAPED FROM THE CHICKEN RANCH! **"
+	{
+		"chi"		"**干得不错，你成功从养鸡农场离开了**"
+	}
+	"** THE MAP WILL RESET NOW - THANKS FOR PLAYING! **"
+	{
+		"chi"		"**地图将被重置为第一关。感谢体验此图**"
+	}
+	"** WE WERE TOO SLOW! TACTICAL NUKE INBOUND! **"
+	{
+		"chi"		"**我们太慢了！核弹准备投放**"
+	}
+	"** NUKE INCOMING IN 5 **"
+	{
+		"chi"		"**5秒后投放核弹！**"
+	}
+	"** 4 **"
+	{
+		"chi"		"**4**"
+	}
+	"** 3 **"
+	{
+		"chi"		"**3**"
+	}
+	"** 2 **"
+	{
+		"chi"		"**2**"
+	}
+	"** 1 **"
+	{
+		"chi"		"**1**"
+	}
+	"** Why would they even trap 4 chickens on a tram that doesnt seem to move...? **"
+	{
+		"chi"		"** **"
+	}
+	"** Were in one of the main warehouses... **"
+	{
+		"chi"		"** **"
+	}
+	"** Somethings wrong! There seems to be an fuel overload! **"
+	{
+		"chi"		"** **"
+	}
+	"** THE TOXINS ARE GETTING IN THE VENTILATION SYSTEM! WERE DOOMED! **"
+	{
+		"chi"		"** **"
+	}
+	"** GET GOING! ITS GETTING WORSE! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD! THE ELEVATORS ENGINES ARE WARMING UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES DETECTED - MISSION FAILED! **"
+	{
+		"chi"		"** **"
+	}
+}

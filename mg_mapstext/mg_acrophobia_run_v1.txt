@@ -1,0 +1,180 @@
+"Console_T"
+{
+	"<<<Mg_Acrophobia_Run is made by Eugenio *Motanum* Roman>>>"
+	{
+		"chi"		"** Mg_Acrophobia_Run地图制作：Eugenio *Motanum* Roman 地图翻译：Ex_cKot **"
+	}
+	"<<<Contact me at eugenio.motanum91@gmail.com>>>"
+	{
+		"chi"		"** 联系我：eugenio.motanum91@gmail.com **"
+	}
+	"<<<This map was Sponsored by SCA Clan>>>"
+	{
+		"chi"		"** 地图赞助商：SCA Clan **"
+	}
+	"<<<AFK Killer activated in 30 seconds!>>>"
+	{
+		"chi"		"** 挂机处死将在30秒后生效 **"
+		"AFKCountdown"		"30"
+	}
+	"<<<AFK Killer now activated>>>"
+	{
+		"chi"		"** 挂机处死现已生效 **"
+	}
+	"<<<Playing Yakety Sax by Spider Rich and Boots Randolph>>>"
+	{
+		"chi"		"** 播放Yakety Sax —— Spider Rich and Boots Randolph  **"
+	}
+	"<<<Playing El Panadero by Tin Tan>>>"
+	{
+		"chi"		"** 播放El Panadero —— Tin Tan **"
+	}
+	"<<<Playing Dragon Ball Battle Theme>>>"
+	{
+		"chi"		"** 播放Dragon Ball Battle Theme **"
+	}
+	"<<<Playing Heavy Tetris arrengments by Motanum>>>"
+	{
+		"chi"		"** 播放Heavy Tetris arrengments by Motanum **"
+	}
+	"<<<Playing Axiom Greed (Slow) by Motanum>>>"
+	{
+		"chi"		"** 播放Axiom Greed (Slow) by Motanum **"
+	}
+	"<<<Playing Paintbox by Pendragon>>>"
+	{
+		"chi"		"** 播放Paintbox by Pendragon **"
+	}
+	"<<<Winner has chosen Bhop!>>>"
+	{
+		"chi"		"** 胜者已选择连跳 **"
+	}
+	"<<<Teleporting all in 5 seconds>>>"
+	{
+		"chi"		"** 5秒内传送所有人 **"
+	}
+	"<<<Bhop to the other side before the oposing team!>>>"
+	{
+		"chi"		"** 再另一方之前连跳到终点 **"
+	}
+	"<<<You have 30 seconds!>>>"
+	{
+		"chi"		"** 拥有30秒时间 **"
+	}
+	"<<<Winners Win: Executing losers!>>>"
+	{
+		"chi"		"** 胜者赢：处死输者 **"
+	}
+	"<<<3!>>>"
+	{
+		"chi"		"** 3！ **"
+	}
+	"<<<2!>>>"
+	{
+		"chi"		"** 2！ **"
+	}
+	"<<<1!>>>"
+	{
+		"chi"		"** [1]！ **"
+	}
+	"<<<Congratulations Winners!>>>"
+	{
+		"chi"		"** 恭喜赢家！ **"
+	}
+	"<<<Round is now restarting!>>>"
+	{
+		"chi"		"** 重新开始回合！ **"
+	}
+	"<<<Winner has chosen Rat Race!>>>"
+	{
+		"chi"		">>>胜者选择捕鼠游戏。<<<"
+	}
+	"<<<Get to the other side before the oposing team!>>>"
+	{
+		"chi"		">>>在对手到达之前到终点<<<"
+	}
+	"<<<You have 40 seconds!>>>"
+	{
+		"chi"		"** 你有40秒**"
+	}
+	"<<<Winner has chosen break floor>>>"
+	{
+		"chi"		"** 胜者选择打破地板**"
+	}
+	"<<<Winners have 40 seconds to kill everyone>>>"
+	{
+		"chi"		"** 胜者有40秒杀死所有人**"
+	}
+	"<<<Ready or not, the round is over>>>"
+	{
+		"chi"		"** 无论准备没有，回合结束**"
+	}
+	"<<<Noone Won Race!>>>"
+	{
+		"chi"		"** 无人赢得赛跑**"
+	}
+	"<<<Locking buttons and restarting the rounds>>>"
+	{
+		"chi"		"** 按下按钮，重新开始回合**"
+	}
+	"<<<Winner has chosen Disco!>>>"
+	{
+		"chi"		"** 胜者选择Disco**"
+	}
+	"<<<Dance until your feet hurt!!>>>"
+	{
+		"chi"		"** 跳到你脚疼！！**"
+	}
+	"<<<Your feet will hurt in 60 seconds!>>>"
+	{
+		"chi"		"** 60秒后你会受到伤害！**"
+	}
+	"<<<Your feet will hurt in 20 seconds!>>>"
+	{
+		"chi"		"** 20秒后你会受到伤害！**"
+	}
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** 地图制作：Ice and Fire Steam32位ID： 1:0:52362682**"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** 如果发现BUG请联系我**"
+	}
+	"<<<Losers Win: Executing winners!>>>"
+	{
+		"chi"		"** 失败者胜利：处死胜者！**"
+	}
+	"<<<Congratulations Losers!>>>"
+	{
+		"chi"		"** 祝贺失败者**"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** 地图制作：Darnias**"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** 地图制作：ProfessorOak**"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** 地图网址：Tweakgaming.com**"
+	}
+	"<<<Playing Dragon Ball Z Battle Theme>>>"
+	{
+		"chi"		"** 播放Dragon Ball Z Battle Theme**"
+	}
+	"<<<Your feet are in pain!!>>>"
+	{
+		"chi"		"** 脚疼不疼lol**"
+	}
+	"<<<Noone Won bhop!>>>"
+	{
+		"chi"		"** 无人赢得连跳**"
+	}
+}

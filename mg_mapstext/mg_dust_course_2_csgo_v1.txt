@@ -1,0 +1,31 @@
+"Console_T"
+{
+	">> Map by Xmortel <<    >>Edit by ivansamol>>"
+	{
+		"chi"		"** 地图制作：Xmortel 地图编辑：ivansamol 地图翻译：Ex_cKot **"
+	}
+	">> Spawn kill [ON] <<"
+	{
+		"chi"		"** 出生点处死[开启] **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** 40秒内出生保护**"
+	}
+	"Spawn Protection in 25 Seconds!!"
+	{
+		"chi"		"** 25秒内出生保护**"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** 地图制作：Jenz and Onederp 地图翻译：Ex_cKot**"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+}

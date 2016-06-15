@@ -1,0 +1,241 @@
+"Console_T"
+{
+	"-=Map By Westsiderain=-"
+	{
+		"chi"		"**恶魔庄园 作者:Westsiderain**"
+	}
+	"-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
+	{
+		"chi"		"**感谢SCA SERVER对本图的BETA测试!**"
+	}
+	"-= SCACLAN.COM >> 50.31.65.61:27015 =-"
+	{
+		"chi"		"**-= SCACLAN.COM >> 50.31.65.61:27015 =-**"
+	}
+	"**GET TO THE MANSION!**"
+	{
+		"chi"		"**进入别墅防守!**"
+	}
+	"-=Detonating=-"
+	{
+		"chi"		"**引爆中**"
+	}
+	"-=Main door opens in 10 seconds!=-"
+	{
+		"chi"		"**别墅大门10秒后开启!**"
+	}
+	"-=Hold here for 40 seconds=-"
+	{
+		"chi"		"**坚守40秒**"
+		"DoorCountdown"		"40"
+	}
+	"**Zombies ate the main gate!**"
+	{
+		"chi"		"**僵尸突破了外面的铁门!**"
+	}
+	"-=Defense System Activated.=-"
+	{
+		"chi"		"**防御系统已启动**"
+	}
+	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
+	{
+		"chi"		"**Lightning:不要按按钮,按了会出事的哟~**"
+	}
+	"**Lightning: Oooo Yeah!!! Did that hurt?**"
+	{
+		"chi"		"**Lightning:疼么亲?还敢乱按按钮吗?**"
+	}
+	"-=Toilet Defense System Activated=-"
+	{
+		"chi"		"**厕所防御系统启动,杀死了一个进入里面的玩家**"
+	}
+	"-=Door opens in 10 seconds.=-"
+	{
+		"chi"		"**10秒后开门**"
+	}
+	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	{
+		"chi"		"**大门坏了,请从两边的梯子撤离!**"
+	}
+	"**Zombies held back for 5 seconds.**"
+	{
+		"chi"		"**僵尸将被挡住5秒**"
+	}
+	"**Those Planks Look Oftly Flimsy!**"
+	{
+		"chi"		"**不要走木板，会碎掉！**"
+	}
+	"-=Hold here for 30 Seconds.=-"
+	{
+		"chi"		"**门30秒后打开**"
+		"DoorCountdown"		"30"
+	}
+	"-=A Player Has Been Raped By Sailormoon.=-"
+	{
+		"chi"		"**一名玩家已被美少女战士蹂躏致死.**"
+	}
+	"**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
+	{
+		"chi"		"** **"
+	}
+	"-=Zombies advance in 15 seconds.=-"
+	{
+		"chi"		"**僵尸15秒后传送**"
+	}
+	"**Sailor Moon: I'M CUMMIN FOR YOU!**"
+	{
+		"chi"		"**远离美少女战士!**"
+	}
+	"-=5 seconds remaining.=-"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
+	{
+		"chi"		"**门开了!僵尸将被挡住5秒,不要跳到门外的铁环处!**"
+	}
+	"**Does this copter have enough fuel?**"
+	{
+		"chi"		"**不要上直升机,会坠机!**"
+	}
+	"-=Hold here for 20 seconds=-"
+	{
+		"chi"		"**坚守20秒**"
+		"DoorCountdown"		"20"
+	}
+	"-=Helicopter Departing in 10 Seconds.=-"
+	{
+		"chi"		"**直升机10秒后坠机**"
+	}
+	"-=MAYDAY! MAYDAY!!!=-"
+	{
+		"chi"		"**夭寿啦!直升机坠机了!**"
+	}
+	"WE'RE GOING DOWN!!!"
+	{
+		"chi"		"**直升机坠机了!**"
+	}
+	"-=WE'RE GOING DOWN!=-"
+	{
+		"chi"		"**直升机坠机了!**"
+	}
+	"-=Door opened!  Zombies held back 5 seconds.=-"
+	{
+		"chi"		"**撤退!僵尸将被挡住5秒,前面不要跳白色柱子!**"
+	}
+	"-=Door opens in 20 seconds.=-"
+	{
+		"chi"		"**20秒后开门!**"
+		"DoorCountdown"		"20"
+	}
+	"-=Defense System Activated=-"
+	{
+		"chi"		"**防御系统已启动****"
+	}
+	"-=Door opens in 5 seconds.=-"
+	{
+		"chi"		"**5秒后开门**"
+	}
+	"** Zombies are trapped for 15 secs or til CTs find a solution.**"
+	{
+		"chi"		"**僵尸将被困住15秒,人类请找到解决方法**"
+	}
+	"-=Find Dr. Valencia=-"
+	{
+		"chi"		"**找到Dr. Valencia**"
+	}
+	"**Dr. Valencia:  I'm in the john!**"
+	{
+		"chi"		"**Dr. Valencia:能不能让人好好蹲坑了!**"
+	}
+	"-=Force her out!=-"
+	{
+		"chi"		"**打碎厕所逼她出来!*"
+	}
+	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
+	{
+		"chi"		"**Dr. Valencia:你这是人干事!?**"
+	}
+	"**Dr Valencia:  Ok... I'll open the door.**"
+	{
+		"chi"		"**Dr. Valencia:好吧我会给你们开门.**"
+	}
+	"-=Zombies released in 3 seconds=-"
+	{
+		"chi"		"**3秒后释放僵尸**"
+	}
+	"**Dr Valencia: Give me 15 seconds.**"
+	{
+		"chi"		"**Dr. Valencia:给我15秒开门.**"
+		"DoorCountdown"		"15"
+	}
+	"**Dr. Valencia: I might need to expell some gas soon.**"
+	{
+		"chi"		"**Dr. Valencia:稍后我会在箱子旁边放点毒气.**"
+	}
+	"-=Dr. Valencia:  Door opening in 5.=-"
+	{
+		"chi"		"**Dr. Valencia:还有5秒开门.**"
+	}
+	"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+	{
+		"chi"		"**Dr. Valencia:门开了!进去守!**"
+	}
+	"**Dr. Valencia: TAKE THIS!!!**"
+	{
+		"chi"		"**Dr. Valencia:吃我毒气!**"
+	}
+	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
+	{
+		"chi"		"**Dr. Valencia:不要放僵尸进来!给我10秒准备核爆!**"
+		"DoorCountdown"		"10"
+	}
+	"**Dr. Valencia:  Nuke in 3...**"
+	{
+		"chi"		"**Dr. Valencia:核爆还有3秒...**"
+	}
+	"**Dr. Valencia:  2...**"
+	{
+		"chi"		"**Dr. Valencia:2...**"
+	}
+	"**Dr. Valencia:  1...**"
+	{
+		"chi"		"**Dr. Valencia:1...**"
+	}
+	"-=Thanks for playing Evil Mansion!=-"
+	{
+		"chi"		"**感谢你游玩这张地图!**"
+	}
+	"-= For comments, find me on the SCA clan forums!=-"
+	{
+		"chi"		"**如有建议请到SCA战队论坛找作者!**"
+	}
+	"**Sailor Moon: Hey Boys!  Im So Horny!  Come Touch Me!**"
+	{
+		"chi"		"** **"
+	}
+	"**Sailor Moon: IM CUMMIN FOR YOU!**"
+	{
+		"chi"		"** **"
+	}
+	"WERE GOING DOWN!!!"
+	{
+		"chi"		"** **"
+	}
+	"-=WERE GOING DOWN!=-"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  Im in the john!**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr Valencia:  Ok... Ill open the door.**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  Hold the door!  Ill use the remaining gas to conjure up a nuke!**"
+	{
+		"chi"		"** **"
+	}
+}

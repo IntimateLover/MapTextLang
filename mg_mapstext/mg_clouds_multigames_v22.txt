@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"*** Bunker has been chosen ***"
+	{
+		"chi"		"** 选择 沙坑**"
+	}
+	"Map made by Cloud for Extreme Network"
+	{
+		"chi"		"** 地图制作：Cloud 地图翻译：Ex_cKot**"
+	}
+	"*** Blinddoge has been chosen ***"
+	{
+		"chi"		"** 选择 doge**"
+	}
+	"*** Maze has been chosen ***"
+	{
+		"chi"		"** 选择 迷宫**"
+	}
+	"*** Centre of maze has been reached ***"
+	{
+		"chi"		"** 已到达迷宫中心**"
+	}
+	"*** Maze wall will break in 60 seconds ***"
+	{
+		"chi"		"** 60秒后迷宫墙壁将会打破**"
+	}
+	"*** Breakcastle has been chosen ***"
+	{
+		"chi"		"** 选择 古堡**"
+	}
+	"*** Spawn has been chosen ***"
+	{
+		"chi"		"** 选择 出生点**"
+	}
+	"*** Island has been chosen ***"
+	{
+		"chi"		"** 选择 岛屿**"
+	}
+	"*** Bank has been chosen ***"
+	{
+		"chi"		"** 选择 银行**"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** 地图由[SG] Punky上传至SteamGamers**"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"C4 Activated"
+	{
+		"chi"		"** C4 激活**"
+	}
+}

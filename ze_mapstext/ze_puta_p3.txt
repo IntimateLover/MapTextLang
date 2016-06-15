@@ -1,0 +1,192 @@
+"Console_T"
+{
+	"** Current level: EASY**"
+	{
+		"chi"		"**当前难度：简单**"
+	}
+	"** The door will open in 20 seconds! **"
+	{
+		"chi"		"**门在20秒后打开**"
+	}
+	"** 5 seconds left! **"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"** Hold! The doors will open in 20 seconds! **"
+	{
+		"chi"		"**守住！门在20秒后打开！**"
+	}
+	"** 10 more seconds to go! Keep it up! **"
+	{
+		"chi"		"**10秒后就可以走了！**"
+	}
+	"** Keep it up! The tunnel doors will open in 20 seconds! **"
+	{
+		"chi"		"**隧道大门在20秒后打开**"
+	}
+	"** Just 5 more seconds! Hold it! **"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"** Hold the crypt! The door to the hangar will open in 20 seconds! **"
+	{
+		"chi"		"**守住地下室！去机库的大门在20秒后打开！**"
+		"DoorCountdown"		"20"
+	}
+	"** Hold! The lift will move in 25 seconds! **"
+	{
+		"chi"		"**电梯在25秒后离开**"
+	}
+	"** 15 seconds left! Keep it up! **"
+	{
+		"chi"		"**还有15秒**"
+		"DoorCountdown"		"15"
+	}
+	"** Last 5 seconds! GET ON IT! **"
+	{
+		"chi"		"**最后5秒，快上来！**"
+	}
+	"** The door will open in 25 seconds! **"
+	{
+		"chi"		"**门在25秒后打开**"
+	}
+	"** The last door will open in 20 seconds! **"
+	{
+		"chi"		"**终末之门在20秒后打开**"
+	}
+	"** Resist! 5 seconds left! **"
+	{
+		"chi"		"**还有5秒！撑住！**"
+	}
+	"** Resist! This elevator ends the cycle! 25 seconds left! **"
+	{
+		"chi"		"**傻逼国产电梯停止运转了！要防守25秒！**"
+	}
+	"** Just 10 more seconds! Keep it up! **"
+	{
+		"chi"		"**10秒后就可以走了**"
+	}
+	"** GREAT! THE CHALLENGE CONTINUES ON MODERATE MODE! **"
+	{
+		"chi"		"**恭喜过关！难度将切换**"
+	}
+	"** Current level: MODERATE **"
+	{
+		"chi"		"**当前难度：稍难**"
+	}
+	"** Hold! The doors will open in 30 seconds! **"
+	{
+		"chi"		"**门在30秒后打开！**"
+	}
+	"** 10 more seconds to go! RESIST! **"
+	{
+		"chi"		"**还有10秒就可以走了！**"
+	}
+	"** Hold! The tunnel doors will open in 30 seconds! **"
+	{
+		"chi"		"**撑住！隧道大门在30秒后打开**"
+	}
+	"** HOLD! 10 seconds left! **"
+	{
+		"chi"		"**还有10秒！**"
+	}
+	"** Hold the crypt! We need to break the wall and reach the hangar! **"
+	{
+		"chi"		"**守住地下室！我们需要打破这面墙才能达到机库**"
+	}
+	"** 5 more seconds! HOLD! **"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"** Hold! The lift will move in 35 seconds! **"
+	{
+		"chi"		"**守住！电梯在35秒后离开**"
+	}
+	"** 15 seconds left! RESIST! **"
+	{
+		"chi"		"**还有15秒**"
+	}
+	"** The door will open in 35 seconds! **"
+	{
+		"chi"		"**门在35秒后打开**"
+	}
+	"** 15 seconds left! Hold it! **"
+	{
+		"chi"		"**还有15秒**"
+	}
+	"** 5 seconds! RESIST! **"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"** Resist! This is our last stand! 35 seconds left! **"
+	{
+		"chi"		"**守住！这是我们最后一个需要守的地方了！还有35秒**"
+	}
+	"** Just 15 more seconds! Keep it up! **"
+	{
+		"chi"		"**再过15秒！**"
+	}
+	"** ASTONISHING! WILL YOU BE ABLE TO BEAT THE SAVAGE MODE? **"
+	{
+		"chi"		"**成功过关，切换难度**"
+	}
+	"** Current level: SAVAGE **"
+	{
+		"chi"		"**当前难度：来势汹涌**"
+	}
+	"** The door will open in 30 seconds! **"
+	{
+		"chi"		"**门在30秒后打开**"
+	}
+	"** 10 more seconds! HOLD IT! **"
+	{
+		"chi"		"**还有10秒**"
+		"DoorCountdown"		"10"
+	}
+	"** Hold right here! The rock piece will break in 25 seconds! **"
+	{
+		"chi"		"**守住这儿！石块会在25秒后破裂**"
+	}
+	"** Just 10 more seconds! HOLD! **"
+	{
+		"chi"		"**还有10秒**"
+		"DoorCountdown"		"10"
+	}
+	"** Defend here! This door will open in 25 seconds! **"
+	{
+		"chi"		"**守住这儿！**"
+	}
+	"** HOLD THEM! THE SECOND DOOR WILL OPEN IN 15 seconds! **"
+	{
+		"chi"		"**抵挡僵尸的进攻!第二道门在15秒后打开**"
+		"DoorCountdown"		"15"
+	}
+	"** THIS IS THE END! 45 SECONDS! HOLD! **"
+	{
+		"chi"		"**这便是终点了，守住45秒！**"
+	}
+	"** RESIST! 20 SECONDS LEFT! **"
+	{
+		"chi"		"**20秒！！！！**"
+	}
+	"** GET READY TO GO! 5 SECONDS! HOP IN! **"
+	{
+		"chi"		"**还有5秒！！！跳进去！！**"
+	}
+	"** FANTASTIC EFFORT! YOU'VE BEATEN THE MAP! **"
+	{
+		"chi"		"**成功通关这张地图！**"
+	}
+	"** The map will go back to the first level now. **"
+	{
+		"chi"		"**地图将会重置为简单难度**"
+	}
+	"** ZOMBIES DETECTED - INVALID VICTORY! **"
+	{
+		"chi"		"** **"
+	}
+	"** FANTASTIC EFFORT! YOUVE BEATEN THE MAP! **"
+	{
+		"chi"		"** **"
+	}
+}

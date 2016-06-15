@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"--> Spawn Protection in 20 Seconds <--"
+	{
+		"chi"		"** 20秒内出生保护**"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	"GLaDOS: Welcome to Sodan-Science laboratories."
+	{
+		"chi"		"** GLaDOS:欢迎来到Sodan-Science实验室**"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** 地图制作：Darnias**"
+	}
+}

@@ -1,0 +1,239 @@
+"Console_T"
+{
+	"***5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Location: The Wanderers Palace***"
+	{
+		"chi"		"**地点:流浪者宫殿**"
+	}
+	"***Level:Normal"
+	{
+		"chi"		"** 关卡：普通**"
+	}
+	"***Look for Nymian Device***"
+	{
+		"chi"		"**寻找尼米安装置**"
+	}
+	"***A player found Nymian Device***"
+	{
+		"chi"		"**一位玩家找到尼米安装置**"
+	}
+	"***20 seconds to Activate Nymian Device***"
+	{
+		"chi"		"**20秒后激活尼米安装置**"
+		"DoorCountdown"		"20"
+	}
+	"*** 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Break Fence***"
+	{
+		"chi"		"**围墙破碎**"
+	}
+	"***10 seconds to Activate Nymian Device***"
+	{
+		"chi"		"**10秒后激活尼米安装置**"
+		"DoorCountdown"		"10"
+	}
+	"***Wait for 20 seconds ***"
+	{
+		"chi"		"**防守20秒**"
+		"DoorCountdown"		"20"
+	}
+	"***Door opened***"
+	{
+		"chi"		"**门开启**"
+	}
+	"***Door close 10 seconds***"
+	{
+		"chi"		"**门10秒后关闭**"
+		"DoorCountdown"		"10"
+	}
+	"***Enkidu appered***"
+	{
+		"chi"		"**恩奇都出现了**"
+	}
+	"***Keep shooting Enkidu***"
+	{
+		"chi"		"**一边防守一边射击恩奇都**"
+	}
+	"***10 seconds to attack of the boss***"
+	{
+		"chi"		"**还有10秒可以射击BOSS**"
+	}
+	"***Attack of the boss***"
+	{
+		"chi"		"**快打BOSS**"
+	}
+	"***Enkidu died***"
+	{
+		"chi"		"**恩奇都被击杀**"
+	}
+	"***15 seconds to Active Nymian Device***"
+	{
+		"chi"		"**15秒后激活尼米安装置**"
+		"DoorCountdown"		"15"
+	}
+	"***Look for RED,YELLOW,GREEN Nymian Devices***"
+	{
+		"chi"		"**出门左拐激活红色尼米安装置，右拐激活黄色，绿色尼米安装置**"
+		"ico"   "icon_fire"
+	}
+	"***Activated GREEN Nymian Device***"
+	{
+		"chi"		"**激活绿色尼米安装置**"
+		"ico"   "icon_fire"
+	}
+	"***Activated YELLOW Nymian Device***"
+	{
+		"chi"		"**激活黄色尼米安装置**"
+		"ico"   "icon_fire"
+	}
+	"***Activated RED Nymian Device***"
+	{
+		"chi"		"**激活红色尼米安装置**"
+		"ico"   "icon_fire"
+	}
+	"***10 seconds to Active Nymian Device***"
+	{
+		"chi"		"**10秒后激活尼米安装置**"
+		"DoorCountdown"		"10"
+	}
+	"***20 seconds to Activate Escape Elevator***"
+	{
+		"chi"		"**20秒后电梯启动**"
+		"DoorCountdown"		"20"
+	}
+	"***Congratulations***"
+	{
+		"chi"		"**恭喜**"
+	}
+	"***Next Level Savage***"
+	{
+		"chi"		"**下一关：狂怒**"
+	}
+	"***Map made by Altima***"
+	{
+		"chi"		"**地图作者：Altima**"
+	}
+	"***Level:Savage"
+	{
+		"chi"		"**关卡：狂怒**"
+	}
+	"***Wait for 20 seconds***"
+	{
+		"chi"		"**防守20秒**"
+		"DoorCountdown"		"20"
+	}
+	"***Wait for 30 seconds"
+	{
+		"chi"		"**防守30秒**"
+		"DoorCountdown"		"30"
+	}
+	"***35 seconds to Activate Nymian Device***"
+	{
+		"chi"		"**35秒后激活尼米安装置**"
+		"DoorCountdown"		"35"
+	}
+	"***Hold this position 35 seconds***"
+	{
+		"chi"		"**防守35秒**"
+		"DoorCountdown"		"35"
+	}
+	"***Teleporter Activate***"
+	{
+		"chi"		"**传送点激活**"
+	}
+	"***Location:The Binding Coil of Bahamut***"
+	{
+		"chi"		"**地点：巴哈姆特迷宫**"
+	}
+	"***Found Intruders!!!!!!!***"
+	{
+		"chi"		"**发现入侵者!!!!!!!**"
+	}
+	"***ADS........Activated***"
+	{
+		"chi"		"**ADS........启动**"
+	}
+	"***ADS appeared***"
+	{
+		"chi"		"**ADS现身**"
+	}
+	"***Keep shooting to ADS***"
+	{
+		"chi"		"**保持火力射击ADS**"
+	}
+	"***ADS is selecting now...***"
+	{
+		"chi"		"**ADS选择技能**"
+	}
+	"*** Cauterize***"
+	{
+		"chi"		"**炙炎（面对BOSS前面有箱子躲到后方白光位置，没箱子躲到左下角白光位置）**"
+		"ico"   "icon_fire"
+	}
+	"*** Electro***"
+	{
+		"chi"		"**电（跳到左右两边箱子准备跳刀）**"
+		"ico"   "icon_fire"
+	}
+	"***ADS died***"
+	{
+		"chi"		"**ADS被击败**"
+		"ico"   "icon_fire"
+	}
+	"***45 seconds to MAP CLEAR***"
+	{
+		"chi"		"**45秒后通关地图**"
+		"DoorCountdown"		"45"
+	}
+	"***Human Killer ON***"
+	{
+		"chi"		"**启动人类清理**"
+	}
+	"***Gravity ON***"
+	{
+		"chi"		"**低重力开启**"
+	}
+	"***STAGE CLEAR***"
+	{
+		"chi"		"**关卡完成**"
+	}
+	"***Texture Support by fujione***"
+	{
+		"chi"		"**纹理帮助：fujione**"
+	}
+	"*** Heavens Fall***"
+	{
+		"chi"		"**天坠（看头上柱子，降到地板的时候按W防推，0,3,6,9点方向准备跳刀）**"
+		"ico"   "icon_fire"
+	}
+	"***10seconds to Mega Flare***"
+	{
+		"chi"		"**10秒后释放百万耀斑**"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+}

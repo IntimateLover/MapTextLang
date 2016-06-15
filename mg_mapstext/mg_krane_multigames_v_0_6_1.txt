@@ -1,0 +1,160 @@
+"Console_T"
+{
+	"Game: Dodgeball"
+	{
+		"chi"		"** 游戏：躲避球 **"
+	}
+	"Song: Carry On Wayward Son - Kansas"
+	{
+		"chi"		"** 音乐：Carry On Wayward Son - Kansas **"
+	}
+	"Game: DO IT"
+	{
+		"chi"		"** 游戏：DO IT **"
+	}
+	"Song: 3's & 7's - Queens of the Stone Age"
+	{
+		"chi"		"** 音乐：3's & 7's - Queens of the Stone Age **"
+	}
+	"Game: Jump Rope"
+	{
+		"chi"		"** 游戏：跳绳 **"
+	}
+	"Song: My Sharona - The Knack"
+	{
+		"chi"		"** 音乐：My Sharona - The Knack **"
+	}
+	"Game: Deagle"
+	{
+		"chi"		"** 游戏：沙鹰战 **"
+	}
+	"Song: Jukebox Hero - Foreigner"
+	{
+		"chi"		"** 音乐：Jukebox Hero - Foreigner **"
+	}
+	"AFK-Killer enabling in 10 seconds!"
+	{
+		"chi"		"** 挂机处死将在10秒后生效 **"
+		"Countdown"         "10"
+	}
+	"Game: Bieber Nadeout"
+	{
+		"chi"		"** 游戏：Bieber Nadeout **"
+	}
+	"Game: Bhop"
+	{
+		"chi"		"** 游戏：连跳 **"
+	}
+	"Song: La Grange - ZZ Top"
+	{
+		"chi"		"** 音乐：La Grange - ZZ Top **"
+	}
+	"Song: Lay It Down - Journey"
+	{
+		"chi"		"** 音乐：Lay It Down - Journey **"
+	}
+	"Game: Tower Defense"
+	{
+		"chi"		"** 游戏：防御塔楼 **"
+	}
+	"Song: Spirit In The Sky - Norman Breenbaum"
+	{
+		"chi"		"** 音乐：Spirit In The Sky - Norman Breenbaum **"
+	}
+	"Game: AWP Ghosts"
+	{
+		"chi"		"** 游戏：AWP **"
+	}
+	"Game: de_krane"
+	{
+		"chi"		"** 游戏：de_krane **"
+	}
+	"Game: Skate"
+	{
+		"chi"		"** 游戏：滑冰 **"
+	}
+	"Outer area disabled in 30 seconds"
+	{
+		"chi"		"** 外部区域将在30秒后禁止 **"
+	}
+	"Outer area disabled in 15 seconds"
+	{
+		"chi"		"** 外部区域将在15秒后禁止 **"
+	}
+	"Outer area disabled in 5 seconds"
+	{
+		"chi"		"** 外部区域将在5秒后禁止 **"
+	}
+	"Outer area disabled"
+	{
+		"chi"		"** 已禁止外部区域 **"
+	}
+	"Middle area disabled in 30 seconds"
+	{
+		"chi"		"** 中部区域将在30秒后禁止 **"
+	}
+	"Middle area disabled in 15 seconds"
+	{
+		"chi"		"** 中部区域将在15秒后禁止 **"
+	}
+	"Middle area disabled in 5 seconds"
+	{
+		"chi"		"** 中部区域将在5秒后禁止 **"
+	}
+	"Middle area disabled"
+	{
+		"chi"		"** 已禁止中部区域 **"
+	}
+	"Song: Pinball Wizard - The Who"
+	{
+		"chi"		"** 音乐：Pinball Wizard - The Who **"
+	}
+	"Game: Headshot Deagle"
+	{
+		"chi"		"** 游戏：沙鹰爆头赛 **"
+	}
+	"Song: Barracuda - Heart"
+	{
+		"chi"		"** 音乐：Barracuda - Heart **"
+	}
+	"Game: SMGs"
+	{
+		"chi"		"** 游戏：冲锋枪赛 **"
+	}
+	"Song: Rebel Yell - Billy Idol"
+	{
+		"chi"		"** 音乐：Rebel Yell - Billy Idol **"
+	}
+	"Song: Heartbreaker - Pat Benatar"
+	{
+		"chi"		"** 音乐：Heartbreaker - Pat Benatar **"
+	}
+	"Game: Shotguns"
+	{
+		"chi"		"** 游戏：霰弹枪战 **"
+	}
+	"Song: Sweet Child O' Mine - Guns N' Roses"
+	{
+		"chi"		"** 音乐：Sweet Child O' Mine - Guns N' Roses **"
+	}
+	"Game: Headshot Pistols"
+	{
+		"chi"		"** 游戏：手枪爆头赛  **"
+	}
+	"Game: Scouts"
+	{
+		"chi"		"** 游戏：鸟狙战 **"
+	}
+	"Game: Knife"
+	{
+		"chi"		"**刀战**"
+	}
+	"Game: Pistols"
+	{
+		"chi"		"**手枪战**"
+	}
+	"Game: Rifles"
+	{
+		"chi"		"**步枪战**"
+	}
+}

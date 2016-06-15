@@ -1,0 +1,143 @@
+"Console_T"
+{
+	"Map by ProfessorOak & [SG] Paul"
+	{
+		"chi"		"** 地图制作：ProfessorOak & [SG] Paul**"
+	}
+	"***Select your character***"
+	{
+		"chi"		"** 选择你的角色**"
+	}
+	"***10 seconds left to choose***"
+	{
+		"chi"		"** 剩余10秒选择**"
+	}
+	"***5 seconds left to choose***"
+	{
+		"chi"		"** 剩余5秒选择**"
+	}
+	"***AFK killer activated***"
+	{
+		"chi"		"** 挂机处死 激活**"
+	}
+	"***Game Starting in 3 seconds***"
+	{
+		"chi"		"** 3秒后游戏开始**"
+	}
+	"***Game Starting in 2 seconds***"
+	{
+		"chi"		"** 2秒后游戏开始**"
+	}
+	"***Game Starting in 1 second***"
+	{
+		"chi"		"** 1秒后游戏开始**"
+	}
+	"***Elevator starting***"
+	{
+		"chi"		"** 电梯开启**"
+	}
+	"***GET OFF THE ELEVATOR OR YOU WILL DIE***"
+	{
+		"chi"		"** 下电梯 否则你就死了**"
+	}
+	"***Elevator malfunction get off it!***"
+	{
+		"chi"		"** 电梯故障 快下来**"
+	}
+	"***HEADSHOTS ONLY***"
+	{
+		"chi"		"** 爆头**"
+	}
+	"***Spawn protection block breaking in 5 seconds***"
+	{
+		"chi"		"** 5秒后出生保护关闭**"
+	}
+	"**AFK Killer Active**"
+	{
+		"chi"		"** 挂机处死 激活**"
+	}
+	"***LOOK UP***"
+	{
+		"chi"		"** 看！**"
+	}
+	"***AIM FOR THE HOLES IN THE FLOORS***"
+	{
+		"chi"		"** 瞄准上面的洞**"
+	}
+	"***ELEVATOR STARTS IN 3...***"
+	{
+		"chi"		"** 3秒后电梯开启**"
+	}
+	"***2...***"
+	{
+		"chi"		"** 2...**"
+	}
+	"***1...***"
+	{
+		"chi"		"** 1...**"
+	}
+	"***ELEVATOR STARTED***"
+	{
+		"chi"		"** 电梯开启**"
+	}
+	"***Elevator Speed Increasing***"
+	{
+		"chi"		"** 电梯加快速度**"
+	}
+	"**Elevator going back down in...**"
+	{
+		"chi"		"** 电梯向下**"
+	}
+	"**5...**"
+	{
+		"chi"		"** 5...**"
+	}
+	"**4...**"
+	{
+		"chi"		"** 4...**"
+	}
+	"**3...**"
+	{
+		"chi"		"** 3...**"
+	}
+	"**2...**"
+	{
+		"chi"		"** 2...**"
+	}
+	"**1...**"
+	{
+		"chi"		"** 1...**"
+	}
+	"**Going Down**"
+	{
+		"chi"		"** 下降！**"
+	}
+	"***Elevator Going Backup in 5 seconds***"
+	{
+		"chi"		"** 5秒后电梯上升**"
+	}
+	"**Elevator Going Backup**"
+	{
+		"chi"		"** 电梯上升**"
+	}
+	"**Knife it out!**"
+	{
+		"chi"		"** 刀**"
+	}
+	"LOOK UP"
+	{
+		"chi"		"** 看**"
+	}
+	"GAME STARTS IN 3..."
+	{
+		"chi"		"** 3秒后游戏开始**"
+	}
+	"2..."
+	{
+		"chi"		"** 2...**"
+	}
+	"1..."
+	{
+		"chi"		"** 1...**"
+	}
+}

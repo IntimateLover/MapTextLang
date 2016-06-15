@@ -1,0 +1,447 @@
+"Console_T"
+{
+	">>Shoot Option to Vote<<"
+	{
+		"chi"		"** 射击选项来投票**"
+	}
+	">>Vote Now!!!<<"
+	{
+		"chi"		"** 开始投票！**"
+	}
+	">>Keep Shooting at your Option!<<"
+	{
+		"chi"		"** 继续射击你的选项**"
+	}
+	">>Nigthcore - Whistle is now playing<<"
+	{
+		"chi"		"** 音乐：Nigthcore - Whistle**"
+	}
+	">>Map by Ghost X - DeadFire19<<"
+	{
+		"chi"		"** 地图制作：Ghost X - DeadFire19 地图翻译：Ex_cKot**"
+	}
+	">>Nightcore - Angel with a Shotgun is now playing<<"
+	{
+		"chi"		"** 音乐：Nightcore - Angel with a Shotgun**"
+	}
+	">>Nightcore - Welcome to the Club is now playing<<"
+	{
+		"chi"		"** 音乐：Nightcore - Welcome to the Club**"
+	}
+	">>Knife Wars Has Been Selected<<"
+	{
+		"chi"		"** 选择 刀战**"
+	}
+	">>Vote for Map in 5<<"
+	{
+		"chi"		"** 投票 5秒**"
+	}
+	">>Vote for Map in 4<<"
+	{
+		"chi"		"** 投票 4秒**"
+	}
+	">>Vote for Map in 3<<"
+	{
+		"chi"		"** 投票 3秒**"
+	}
+	">>Vote for Map in 2<<"
+	{
+		"chi"		"** 投票 2秒**"
+	}
+	">>Vote for Map in 1<<"
+	{
+		"chi"		"** 投票 1秒**"
+	}
+	">>Vote for Map Now<<"
+	{
+		"chi"		"** 开始投票**"
+	}
+	">>This map is a temporary fix<<"
+	{
+		"chi"		"** 地图暂时被修复**"
+	}
+	">>If you like my maps join my steam group at<<"
+	{
+		"chi"		"** 如果你喜欢这图的欢迎加入我的steam组**"
+	}
+	">>steamcommunity.comgroupsghosts_group<<"
+	{
+		"chi"		"** steamcommunity.comgroupsghosts_group**"
+	}
+	">>Nightcore - Ravers Fantasy is now playing<<"
+	{
+		"chi"		"** 音乐：Nightcore - Ravers Fantasy**"
+	}
+	">>Team Games Has Been Selected<<"
+	{
+		"chi"		"** 选择 团队游戏**"
+	}
+	">>Vengaboys - Boom Boom is now playing<<"
+	{
+		"chi"		"** 音乐：Vengaboys - Boom Boom**"
+	}
+	">>Nightcore - Disturbia is now playing<<"
+	{
+		"chi"		"** 音乐：Nightcore - Disturbia**"
+	}
+	">>Push Knife Has Been Chosen<<"
+	{
+		"chi"		"** 选择 刀**"
+	}
+	">>Warning - You will be pushed into the enemy<<"
+	{
+		"chi"		"** 警告！你将进入敌军**"
+	}
+	">>5<<"
+	{
+		"chi"		"** 5**"
+	}
+	">>4<<"
+	{
+		"chi"		"** 4**"
+	}
+	">>3<<"
+	{
+		"chi"		"** 3**"
+	}
+	">>2<<"
+	{
+		"chi"		"** 2**"
+	}
+	">>1<<"
+	{
+		"chi"		"** 1**"
+	}
+	">>Molotovs spawned<<"
+	{
+		"chi"		"** 麻辣烫出生点**"
+	}
+	">>Pro Skills Have Been Selected<<"
+	{
+		"chi"		"** 选择 技能**"
+	}
+	">>Bhop has been Chosen<<"
+	{
+		"chi"		"** 选择 连跳**"
+	}
+	">>Race to the end<<"
+	{
+		"chi"		"** 直到终点**"
+	}
+	">>Hard Arena Selected<<"
+	{
+		"chi"		"** 选择 竞技场(困难)**"
+	}
+	">>Player Has Finished<<"
+	{
+		"chi"		"** 结束**"
+	}
+	">>Low-Grav Knife has been Chosen<<"
+	{
+		"chi"		"** 选择 低重力 刀**"
+	}
+	">>Knife it out!!!<<"
+	{
+		"chi"		"** 刀**"
+	}
+	">>Nightcore - Dont leave me Alone is now playing<<"
+	{
+		"chi"		"** 音乐：Nightcore - Dont leave me Alone**"
+	}
+	">>Football has been Chosen<<"
+	{
+		"chi"		"** 选择 足球**"
+	}
+	">>Try and score<<"
+	{
+		"chi"		"** 尝试得分**"
+	}
+	">>Alternativly try to kill people with the ball<<"
+	{
+		"chi"		"** 用球选择杀一个人**"
+	}
+	">>New Ball Added<<"
+	{
+		"chi"		"** 加入新的球**"
+	}
+	">>Hide and Seek Knife has been Chosen<<"
+	{
+		"chi"		"** 选择 躲避&寻找 刀**"
+	}
+	">>Easy Arena Selected<<"
+	{
+		"chi"		"** 选择 竞技场(简单)**"
+	}
+	">>Alright im bored<<"
+	{
+		"chi"		"** 好吧我很无聊**"
+	}
+	">>M4s Spawned!<<"
+	{
+		"chi"		"** M4**"
+	}
+	">>Flashbang Race has been Chosen<<"
+	{
+		"chi"		"** 选择 闪光弹**"
+	}
+	">>Use you Flashbang Wisely<<"
+	{
+		"chi"		"** 好好使用你的闪光**"
+	}
+	">>I bet you cant see now<<"
+	{
+		"chi"		"** 我打赌你现在看不到**"
+	}
+	">>If you arnt past the ladder yet then give up<<"
+	{
+		"chi"		"** 如果你过不去就放弃吧**"
+	}
+	"Player has Finished"
+	{
+		"chi"		"** 结束**"
+	}
+	">>Pac Man has been Chosen<<"
+	{
+		"chi"		"** 选择 吃豆人**"
+	}
+	">>Ghost 1 will be released in 5 seconds<<"
+	{
+		"chi"		"** 5秒后将放出幽灵1**"
+	}
+	">>The Ghosts eat you...<<"
+	{
+		"chi"		"** 幽灵吃了你**"
+	}
+	">>Ghost 1 is released<<"
+	{
+		"chi"		"** 幽灵1已释放**"
+	}
+	">> CT have Won<<"
+	{
+		"chi"		"** CT胜利**"
+	}
+	">> T have Won<<"
+	{
+		"chi"		"** T胜利**"
+	}
+	">>Strafe Jump has been Chosen<<"
+	{
+		"chi"		"** 选择 跳跃**"
+	}
+	">>Jump on the platform in front at the sound of each buzzer<<"
+	{
+		"chi"		"** 在每次声音响起前跳到台上**"
+	}
+	">>You have 7 seconds to do so!<<"
+	{
+		"chi"		"** 你有7秒时间**"
+	}
+	">>Jump Now<<"
+	{
+		"chi"		"** 跳！**"
+	}
+	">>Counter-Terrorists have Won<<"
+	{
+		"chi"		"** CT胜利**"
+	}
+	">>Ghost 2 is released<<"
+	{
+		"chi"		"** 幽灵2一释放**"
+	}
+	">>Ghost 3 is released<<"
+	{
+		"chi"		"** 幽灵3已释放**"
+	}
+	">>Ghost 4 is released<<"
+	{
+		"chi"		"** 幽灵4已释放**"
+	}
+	">>and increasing Ghost speed<<"
+	{
+		"chi"		"** 幽灵速度加快**"
+	}
+	">>and giving out free knives<<"
+	{
+		"chi"		"** 刀**"
+	}
+	">>Underwater Knife has been Chosen<<"
+	{
+		"chi"		"** 选择 水下刀**"
+	}
+	">>Old School Has Been Selected<<"
+	{
+		"chi"		"** 选择 旧教室**"
+	}
+	">>Knife Tournament has been Chosen<<"
+	{
+		"chi"		"** 选择 刀战**"
+	}
+	">>Wall Hack has been Chosen<<"
+	{
+		"chi"		"** 选择 透视**"
+	}
+	">>You will be Released in 2<<"
+	{
+		"chi"		"** 2秒后你将被释放**"
+	}
+	">>You will be Released in 1<<"
+	{
+		"chi"		"** 1秒后你将被释放**"
+	}
+	">>Awp Will Be Given in 5<<"
+	{
+		"chi"		"** 5秒后给予AWP**"
+	}
+	">>Awp Will Be Given in 4<<"
+	{
+		"chi"		"** 4秒后给予AWP**"
+	}
+	">>Arrows Indicate a Player is There<<"
+	{
+		"chi"		"** 箭头表示这有一个玩家**"
+	}
+	">>Awp Will Be Given in 2<<"
+	{
+		"chi"		"** 2秒后给予AWP**"
+	}
+	">>Awp Will Be Given in 1<<"
+	{
+		"chi"		"** 1秒后给予AWP**"
+	}
+	">>Shoot the Enemy<<"
+	{
+		"chi"		"** 射击敌军！**"
+	}
+	">>Both teams are hidden equally<<"
+	{
+		"chi"		"** 两边队伍都藏起来**"
+	}
+	">>Try and aim at the lower part of the wall to hit people<<"
+	{
+		"chi"		"** 试着瞄准墙下面**"
+	}
+	">>Terrorists have Won<<"
+	{
+		"chi"		"** T胜利**"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** 地图传输：[SG] Punky**"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** bbs.93x.net**"
+	}
+	">>Jail was killed to prevent free kills. Sorry!<<"
+	{
+		"chi"		"** 监狱被处理防止乱杀。Sorry！**"
+	}
+	">>Jump Rope has been Chosen<<"
+	{
+		"chi"		"** 选择 跳绳**"
+	}
+	">>You will have to start jumping soon<<"
+	{
+		"chi"		"** 一会儿你就要跳起来**"
+	}
+	">>Beam Moves in 3<<"
+	{
+		"chi"		"** 3秒后光线移动**"
+	}
+	">>Beam Moves in 2<<"
+	{
+		"chi"		"** 2秒后光线移动**"
+	}
+	">>Beam Moves in 1<<"
+	{
+		"chi"		"** 1秒后光线移动**"
+	}
+	">>JUMP<<"
+	{
+		"chi"		"** 跳！**"
+	}
+	">>Rope will gradually speed up<<"
+	{
+		"chi"		"** 速度将会慢慢快起来**"
+	}
+	">>T have won!!!<<"
+	{
+		"chi"		"** T胜利**"
+	}
+	">>CT have won!!!<<"
+	{
+		"chi"		"** CT胜利**"
+	}
+	">>Giving Everyone Knife<<"
+	{
+		"chi"		"** 每个人都有刀**"
+	}
+	">>Re-made by kind permision of SG Paul<<"
+	{
+		"chi"		"** 重置：SG Paul**"
+	}
+	">>Smash-cannon re-make has been chosen<<"
+	{
+		"chi"		"** 选择 重置 加农炮**"
+	}
+	">>Survive as long as possible<<"
+	{
+		"chi"		"** 尽可能活下去**"
+	}
+	">>Original Mode<<"
+	{
+		"chi"		"** 原始模式**"
+	}
+	">>Get to the middle to win<<"
+	{
+		"chi"		"** 到中间来获得胜利**"
+	}
+	">>Increasing Difficulty<<"
+	{
+		"chi"		"** 难度增加**"
+	}
+	">>This is getting boring now...<<"
+	{
+		"chi"		"** 变得越来越无聊了。。。**"
+	}
+	">>Lets make it interesting<<"
+	{
+		"chi"		"** 让它变得更因缺丝挺吧！**"
+	}
+	">>Remade by Kind Permission of Warmcup Edwin<<"
+	{
+		"chi"		"** 重置Warmcup Edwin**"
+	}
+	">>RunBitchRun Has Been Chosen<<"
+	{
+		"chi"		"** 选择 快跑**"
+	}
+	">>Climb has been Chosen<<"
+	{
+		"chi"		"** 选择攀爬**"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** 地图在有bot时无法运行**"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** 地图制作：[SG] Paul**"
+	}
+	">>T have Scored!!!<<"
+	{
+		"chi"		"** T得分！**"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** 音乐：M83 - Midnight city**"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** 音乐：PSY - Gangnam Style**"
+	}
+}

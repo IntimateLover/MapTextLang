@@ -1,0 +1,224 @@
+"Console_T"
+{
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"**40秒后将自动选择**"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** 地图制作：DTK Development Team 地图翻译：Ex_cKot **"
+	}
+	"By I'm the new guy STEAM_0:1:14214794"
+	{
+		"chi"		"** 顺便，我是个新人，STEAM_0:1:14214794 **"
+	}
+	"and Andr0iid^ STEAM_0:1:605215"
+	{
+		"chi"		"** 以及Andr0iid^，STEAM_0:1:605215 **"
+	}
+	"***Skipping Selected***"
+	{
+		"chi"		"** 已选择跳绳 **"
+	}
+	"Game Starting in 10 seconds..."
+	{
+		"chi"		"** 游戏将在10秒后开始 **"
+	}
+	"***Skipping Starting***"
+	{
+		"chi"		"** 开始跳绳！ **"
+	}
+	"***Mario Says Selected***"
+	{
+		"chi"		"** 已选择马里奥 **"
+	}
+	"Get onto a platform. Game starting in 15 seconds"
+	{
+		"chi"		"** 到平台上去，游戏将在15秒后开始 **"
+	}
+	"Game starting in 3 Seconds..."
+	{
+		"chi"		"** 游戏将在3秒后开始 **"
+		"Countdown"		"3"
+	}
+	"***Pirate Island Selected***"
+	{
+		"chi"		"** 已选择海盗岛 **"
+	}
+	"***Game Starting in 10 seconds***"
+	{
+		"chi"		"** 游戏将在10秒后开始 **"
+	}
+	"***Knives have spawned***"
+	{
+		"chi"		"** 已生成刀 **"
+	}
+	"***Platform Peril Selected***"
+	{
+		"chi"		"** 已选择危险平台 **"
+	}
+	"Race Starting in Five seconds"
+	{
+		"chi"		"** 赛跑将在5秒后开始 **"
+	}
+	"Three..."
+	{
+		"chi"		"** 3... **"
+	}
+	"Two..."
+	{
+		"chi"		"** 2... **"
+	}
+	"One..."
+	{
+		"chi"		"** [1]... **"
+	}
+	"Go!!"
+	{
+		"chi"		"** 开始！！ **"
+	}
+	"***Hunger Games Selected***"
+	{
+		"chi"		"** 已选择饥饿游戏 **"
+	}
+	"Game Starting in 10 seconds"
+	{
+		"chi"		"** 游戏将在10秒后开始 **"
+	}
+	"Hunger Games Started!"
+	{
+		"chi"		"** 饥饿游戏开始！ **"
+	}
+	"***Random Selected***"
+	{
+		"chi"		"** 已选择随机 **"
+	}
+	"***Knife arena Selected!***"
+	{
+		"chi"		"** 已选择刀战 **"
+	}
+	"***Hexagon Heat Selected***"
+	{
+		"chi"		"** 已选择六边形 **"
+	}
+	"Game Started!"
+	{
+		"chi"		"** 游戏开始！ **"
+	}
+	"***Obstacle Selected***"
+	{
+		"chi"		"** 已选择障碍 **"
+	}
+	"AFK Killer enabling in 10 seconds."
+	{
+		"chi"		"** 挂机处死将在10秒后生效 **"
+	}
+	"***King of the hill Selected!***"
+	{
+		"chi"		"** 已选择山丘之王！ **"
+	}
+	"Ts have captured the center!"
+	{
+		"chi"		"** T方已占领中心！ **"
+	}
+	"Ts have 15 seconds left on timer!"
+	{
+		"chi"		"** T方有15秒时间 **"
+	}
+	"***Pirate Climb Selected***"
+	{
+		"chi"		"** 已选择海盗攀爬 **"
+	}
+	"Race in 3..."
+	{
+		"chi"		"** 赛跑将在3秒后开始... **"
+	}
+	"2..."
+	{
+		"chi"		"** 2... **"
+	}
+	"1..."
+	{
+		"chi"		"** [1]... **"
+	}
+	"Go!"
+	{
+		"chi"		"** 开始！ **"
+	}
+	"Ts have 10 seconds left on timer!"
+	{
+		"chi"		"** T方有10秒时间！ **"
+	}
+	"CTs have captured the center!"
+	{
+		"chi"		"** CT方已占领中心！ **"
+	}
+	"CTs have 15 seconds left on timer!"
+	{
+		"chi"		"** CT方有15秒时间！ **"
+	}
+	"CTs have 10 seconds left on timer!"
+	{
+		"chi"		"** CT方有10秒时间！ **"
+	}
+	"CTs have 5 seconds left on timer!"
+	{
+		"chi"		"** CT方有5秒时间！ **"
+	}
+	"CTs have 4 seconds left on timer!"
+	{
+		"chi"		"** CT方有4秒时间！ **"
+	}
+	"CTs have 3 seconds left on timer!"
+	{
+		"chi"		"** CT方有3秒时间！ **"
+	}
+	"Ts have 5 seconds left on timer!"
+	{
+		"chi"		"**T方有5秒时间！ **"
+	}
+	"Ts have 4 seconds left on timer!"
+	{
+		"chi"		"** T方有4秒时间！ **"
+	}
+	"Ts have 3 seconds left on timer!"
+	{
+		"chi"		"** T方有3秒时间！ **"
+	}
+	"Ts have 2 seconds left on timer!"
+	{
+		"chi"		"** T方有2秒时间！ **"
+	}
+	"Ts have 1 seconds left on timer!"
+	{
+		"chi"		"** T方有[1]秒时间！ **"
+	}
+	"CTs have 2 seconds left on timer!"
+	{
+		"chi"		"** CT方有2秒时间！ **"
+	}
+	"CTs have 1 seconds left on timer!"
+	{
+		"chi"		"** CT方有[1]秒时间！ **"
+	}
+	"CTs win!"
+	{
+		"chi"		"** CT方胜利！ **"
+	}
+	"knifes spawning in 10 seconds"
+	{
+		"chi"		"** 10秒后刀 **"
+	}
+	"***Block game Selected***"
+	{
+		"chi"		"** 已选择砖块游戏 **"
+	}
+	"***Obstacle Complete***"
+	{
+		"chi"		"**障碍完毕**"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** 音乐：Just Jack - Basement**"
+	}
+}

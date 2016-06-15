@@ -1,0 +1,204 @@
+"Console_T"
+{
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"**掉落伤害关闭**"
+	}
+	"Welcome To 93xCommunity"
+	{
+		"chi"		"**欢迎来到X社区**"
+	}
+	"SagerWorld By LaoZhongYi&UA"
+	{
+		"chi"		"**地图制作：B站著名老中医（别看了，就是现在在服里玩的这个），UA，卡比**"
+	}
+	"[LaoZhongYi]FiveSeven"
+	{
+		"chi"		"**手枪局**"
+	}
+	"[LaoZhongYi]Fall Damage Enable"
+	{
+		"chi"		"**掉落伤害开启**"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** **"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi] CTF Mode!"
+	{
+		"chi"		"**夺旗模式（复活开启）**"
+	}
+	"[UA&Karby]Respawn Teleporting..."
+	{
+		"chi"		"**复活传送中..**"
+		"command"		"sm_respawn_all"
+	}
+	"[LaoZhongYi]Taser"
+	{
+		"chi"		"**电击枪局**"
+	}
+	"!!!1000HP Enabled!!!"
+	{
+		"chi"		"**一千血刀图开启**"
+	}
+	"[LaoZhongYi]Jump Knife"
+	{
+		"chi"		"**刀（怂）图**"
+	}
+	"[LaoZhongYi] 35Hp Knife Fly!"
+	{
+		"chi"		"**35血人间大炮**"
+	}
+	"[LaoZhongYi] Decoy 1HP"
+	{
+		"chi"		"**躲避球**"
+	}
+	"[LaoZhongYi]Running"
+	{
+		"chi"		"**跑图**"
+	}
+	"[LaoZhongYi] Ice Skating"
+	{
+		"chi"		"**滑雪（别看了，这图没雪）**"
+	}
+	"[LaoZhongYi]Glass Break 10 Sec"
+	{
+		"chi"		"**玻璃在10秒后boom shakalaka**"
+	}
+	"[LaoZhongYi]Glass Break War!"
+	{
+		"chi"		"**玻璃炸了，快去滑雪**"
+	}
+	"[LaoZhongYi]Jump"
+	{
+		"chi"		"**跳图**"
+	}
+	"[LaoZhongYi]WaterWorld"
+	{
+		"chi"		"**水逼世界**"
+	}
+	"[LaoZhongYi] Zombie Mode!"
+	{
+		"chi"		"**僵尸模式**"
+	}
+	"[LaoZhongYi]The Glass Break Run!!!!"
+	{
+		"chi"		"**玻璃破了，快跑**"
+	}
+	"[LaoZhongYi]5"
+	{
+		"chi"		"**5**"
+	}
+	"[LaoZhongYi]Teleport Disable On 5 Sec!!!!"
+	{
+		"chi"		"**5秒后传送关闭**"
+	}
+	"[LaoZhongYi]4"
+	{
+		"chi"		"**4**"
+	}
+	"[LaoZhongYi]3"
+	{
+		"chi"		"**3**"
+	}
+	"[LaoZhongYi]2"
+	{
+		"chi"		"**2**"
+	}
+	"[LaoZhongYi]1"
+	{
+		"chi"		"**1**"
+	}
+	"[LaoZhongYi]Stay Here 30 Sec!!!"
+	{
+		"chi"		"**守30秒**"
+	}
+	"[LaoZhongYi]The Glass Break!!!"
+	{
+		"chi"		"**玻璃破了赶紧跑**"
+	}
+	"[LaoZhongYi]The Teleport Trigger Change To Outward On 5Sec!"
+	{
+		"chi"		"**5秒后传送门改到外面**"
+	}
+	"[LaoZhongYi]The Teleport Trigger Changed!!!"
+	{
+		"chi"		"**传送门已更改到外面**"
+	}
+	"[LaoZhongYi]AWP"
+	{
+		"chi"		"**狙图**"
+	}
+	"[LaoZhongYi] 35HP Knife"
+	{
+		"chi"		"**残血轻刀图**"
+	}
+	"[LaoZhongYi]Grenade"
+	{
+		"chi"		"**手雷**"
+	}
+	"T +1"
+	{
+		"chi"		"**土匪把旗子拿回家了，积分+1**"
+	}
+	"CT +1"
+	{
+		"chi"		"**警察把旗子拿回家了，积分+1**"
+	}
+	"[LaoZhongYi] Foot Ball"
+	{
+		"chi"		"**1血足球**"
+	}
+	"[Kirby]T Win!~~"
+	{
+		"chi"		"**T胜利！**"
+	}
+	"[Kirby]CT Win!~~"
+	{
+		"chi"		"**CT胜利！**"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** **"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Map made by Struse!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Special thanks to NickMaps"
+	{
+		"chi"		"** **"
+	}
+	"Map By Charli =)"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+}

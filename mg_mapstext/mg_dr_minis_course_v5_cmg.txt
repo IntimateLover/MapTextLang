@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"[Spawnkiller: 55sec]"
+	{
+		"chi"		"** 出生点处死：55秒 **"
+	}
+	"[Teleports: ON]"
+	{
+		"chi"		"** 传送点：开启 **"
+	}
+	"[Spawnkiller: 25sec]"
+	{
+		"chi"		"** 出生点处死：25秒 **"
+	}
+	"[Spawnkiller: 5sec]"
+	{
+		"chi"		"** 出生点处死：5秒 **"
+	}
+	"[Spawnkiller: 4sec]"
+	{
+		"chi"		"** 出生点处死：4秒 **"
+	}
+	"[Spawnkiller: 3sec]"
+	{
+		"chi"		"** 出生点处死：3秒 **"
+	}
+	"[Spawnkiller: 2sec]"
+	{
+		"chi"		"** 出生点处死：2秒 **"
+	}
+	"[Spawnkiller: 1sec]"
+	{
+		"chi"		"** 出生点处死：[1]秒 **"
+	}
+	"[Spawnkiller: ON]"
+	{
+		"chi"		"** 出生点处死：开启 **"
+	}
+	"[Teleports: OFF]"
+	{
+		"chi"		"** 传送点：关闭 **"
+	}
+	"[Map: A player has finished the map!]"
+	{
+		"chi"		"** [1]名玩家已完成此地图 **"
+	}
+	"[Map: The Player gets 250 Points!]"
+	{
+		"chi"		"** 玩家获得250点分数 **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"**30秒后挂机处死**"
+	}
+	"--> Spawn Protection in 20 Seconds <--"
+	{
+		"chi"		"** 20秒内出生保护**"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** 地图制作：Darnias**"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** 地图制作：Jenz and Onederp**"
+	}
+}

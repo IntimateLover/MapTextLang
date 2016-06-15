@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"**地图由Mononoke制作 翻译：蓬莱山帅比 **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"**出生点的墙将在二十秒后打破！ **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"**地图:BillSmauz **"
+	}
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"chi"		"**在你的音乐设置，通过snd_musicvolume调整音量 **"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"chi"		"**地图由PURPZZ * * Skullz重建**"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"**请在门打开前等待20秒 **"
+	}
+}

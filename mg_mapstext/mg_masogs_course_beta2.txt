@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"***Map by Masog***"
+	{
+		"chi"		"**地图制作：Masog 地图翻译：Ex_cKot**"
+	}
+	"***This is small and easy map. Hope you like it !***"
+	{
+		"chi"		"***这是张又小又简单的图。希望你们能喜欢【这一定是开玩笑。**"
+	}
+	"***Read TIPs and use Maps!***"
+	{
+		"chi"		"**记得阅读提示利用地图喔！**"
+	}
+	"***Respawning will be impossible in 30 seconds***"
+	{
+		"chi"		"**30秒内可以重生哦。**"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		">>>30秒内出生点保护<<<"
+	}
+	"--> Spawn Protection in 20 Seconds <--"
+	{
+		"chi"		">>>20秒内出生保护<<<"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+}

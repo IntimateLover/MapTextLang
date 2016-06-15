@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"@[Map] Shotgun"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Buy"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Headshot (ak47)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Molotov"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Scout"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Usp"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Hard Wallhack (buy)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Smoke (1 hp)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Sky Way (knife)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Deagle (headshot only)"
+	{
+		"chi"		"** **"
+	}
+}

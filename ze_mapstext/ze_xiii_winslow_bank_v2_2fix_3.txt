@@ -1,0 +1,141 @@
+"Console_T"
+{
+	"***Map by TheSeriouSamurai***"
+	{
+		"chi"		"**地图作者:SeriouSamurai 翻译:比那名居天子**"
+	}
+	"***Normal Mode Loaded***"
+	{
+		"chi"		"**普通模式**"
+	}
+	"***Door opens in 5 sec***"
+	{
+		"chi"		"**门5秒后开启**"
+		"DoorCountdown"		"5"
+	}
+	"***Ammobox picked***"
+	{
+		"chi"		"**弹药盒捡起**"
+	}
+	"***Door opens in 20sec***"
+	{
+		"chi"		"**门20秒后开启**"
+		"DoorCountdown"		"20"
+	}
+	"***Use the keyboard to hack door***"
+	{
+		"chi"		"**按下键盘来开启门**"
+	}
+	"***Door opens in 25 sec***"
+	{
+		"chi"		"**门25秒后开启**"
+		"DoorCountdown"		"25"
+	}
+	"***Go and arm the C4***"
+	{
+		"chi"		"**去安放C4**"
+	}
+	"***C4 explodes in 25 secs***"
+	{
+		"chi"		"**C4将在25秒后爆炸**"
+		"DoorCountdown"		"25"
+	}
+	"***Escape through the new path***"
+	{
+		"chi"		"**通过小路逃脱**"
+	}
+	"***Builder picked***"
+	{
+		"chi"		"** **"
+	}
+	"***Door opens in 20 sec***"
+	{
+		"chi"		"**门20秒后开启**"
+		"DoorCountdown"		"20"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"**撤退**"
+	}
+	"***Get the cards for the elevator***"
+	{
+		"chi"		"**获取钥匙卡来开启电梯**"
+	}
+	"***They are somewhere on this floor***"
+	{
+		"chi"		"**它们在地上的某处**"
+	}
+	"***Zombies get teleported in 8 secs FALL BACK***"
+	{
+		"chi"		"**僵尸8秒后传送，撤退**"
+	}
+	"***Next door opens in 15 sec***"
+	{
+		"chi"		"**下一扇门将在15秒后开启**"
+		"DoorCountdown"		"15"
+	}
+	"***Wait some more seconds***"
+	{
+		"chi"		"**再多等待一会**"
+	}
+	"***The next door opens in 15 sec***"
+	{
+		"chi"		"**下一扇门将在15秒后开启**"
+		"DoorCountdown"		"15"
+	}
+	"***Hold the door some more***"
+	{
+		"chi"		"**防守一会**"
+	}
+	"***20 more secs to hold***"
+	{
+		"chi"		"** 防守20秒**"
+		"DoorCountdown"		"20"
+	}
+	"***Elevator moves in 15 secs***"
+	{
+		"chi"		"**电梯15秒后运行**"
+		"DoorCountdown"		"15"
+	}
+	"***5 secs left***"
+	{
+		"chi"		"**5秒**"
+	}
+	"***GET IN***"
+	{
+		"chi"		"**电梯到达**"
+	}
+	"***Final Holding Point reached***"
+	{
+		"chi"		"**到达最后的守点**"
+	}
+	"***Hold 20 more secs***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"***Game-Mode is changing***"
+	{
+		"chi"		"**游戏模式正在改变**"
+	}
+	"***Map by SeriouSamurai***"
+	{
+		"chi"		"**地图作者:SeriouSamurai 翻译:比那名居天子**"
+	}
+	"***Hardcore Mode Loaded***"
+	{
+		"chi"		"**困难模式**"
+	}
+	"***Door opens in 11 secs***"
+	{
+		"chi"		"**门11秒后开启**"
+		"DoorCountdown"		"11"
+	}
+	"***The Door is locked. Wait some secs***"
+	{
+		"chi"		"**这门锁住了，再多等候一会**"
+	}
+	"***This wall can take a while***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"***The door will close in 30sec***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will close in 15 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will close in 10 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will close in 5 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Make exit, break the wood***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to jail***"
+	{
+		"chi"		"** **"
+	}
+	"***Deffend 20 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Door will close in 10 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Def yourself during 30sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Def yourself during 10sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Def yourself during 5sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Jail will open in 10sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for gate open***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat starts in 20 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat starts in 10 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Deffend 30 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Deffend 5 sec***"
+	{
+		"chi"		"** **"
+	}
+}

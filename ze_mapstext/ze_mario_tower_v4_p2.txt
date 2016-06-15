@@ -1,0 +1,76 @@
+"Console_T"
+{
+	"*** Angry sun and chainchomps hate AFKS"
+	{
+		"chi"		"** 处理AFKS挂机人员 **"
+	}
+	"*** Right Ladder Wall opens in 5 seconds***"
+	{
+		"chi"		"** 右侧墙梯 将于 5秒 后开启 **"
+	}
+	"*** Middle Wall opens in 10 seconds***"
+	{
+		"chi"		"** 中侧墙梯 将于 10秒 后开启 **"
+	}
+	"*** Left Ladder wall opens in 5 seconds***"
+	{
+		"chi"		"** 左侧墙梯 将于 5秒 后开启 **"
+	}
+	"***BlockWall Breaks in 30 seconds!***"
+	{
+		"chi"		"** 两侧门墙 将于 30秒 后开启 注意防守 **"
+		"DoorCountdown"		"30"
+	}
+	"***BlockWall is open***"
+	{
+		"chi"		"** 两侧门墙 已开启 请注意菊花 **"
+	}
+	"*** Thomp will open in 20 seconds!!***"
+	{
+		"chi"		"** Thomp墙 将于 20秒后 开启 请注意防守 **"
+		"DoorCountdown"		"20"
+	}
+	"*** Star Door opens in 20 seconds ***"
+	{
+		"chi"		"** 大门 将于 20秒后 开启 请注意防守 **"
+		"DoorCountdown"		"20"
+	}
+	"*** Star Door opens in 10 seconds ***"
+	{
+		"chi"		"** 大门 将于 20秒后 开启 请注意防守 **"
+	}
+	"*** Star Door open ***"
+	{
+		"chi"		"** 大门已开 请速撤 **"
+	}
+	"*** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
+	{
+		"chi"		"** 90秒后 愤怒的比利太阳 将燃烧世界 **"
+	}
+	" *** Clouds will raise in 30 seconds ***"
+	{
+		"chi"		"** 云升起 还有 30秒 请注意防守 **"
+		"DoorCountdown"		"30"
+	}
+	"*** Clouds will raise in 10 seconds ***"
+	{
+		"chi"		"** 云升起 还有 10秒 请注意防守 **"
+	}
+	"*** Get to the top of the tower before it is too late!! ***"
+	{
+		"chi"		"** 你身法太差了 为时已晚 **"
+	}
+	"*** Scorch in 30 seconds!!***"
+	{
+		"chi"		"** FFF燃烧大地之术 施法时间还有 30秒 翻译：肉丸 **"
+		"DoorCountdown"		"30"
+	}
+	"*** Bowser and his minions are attacking!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Clouds will raise in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+}

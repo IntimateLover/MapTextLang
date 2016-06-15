@@ -1,0 +1,76 @@
+"Console_T"
+{
+	">> Spawn kill 120 seconds <<"
+	{
+		"chi"		"** 出生点处死将在120秒后生效 **"
+	}
+	">> Still alive <<"
+	{
+		"chi"		"** 还活着。。 **"
+	}
+	">> Not the end <<"
+	{
+		"chi"		"** 并没有结束 **"
+	}
+	">> Spawn kill 15 seconds <<"
+	{
+		"chi"		"** 出生点处死将在15秒后生效 **"
+	}
+	">> Spawn kill 5 seconds <<"
+	{
+		"chi"		"** 出生点处死将在5秒后生效 **"
+		"Countdown"		"5"
+	}
+	">> Spawn kill is activated <<"
+	{
+		"chi"		"** 出生点处死已生效 **"
+	}
+	">> MAP BY m I K E << "
+	{
+		"chi"		"** 地图制作：m I K E 地图翻译：Ex_cKot **"
+	}
+	">> www.csgo-mapper.tk <<"
+	{
+		"chi"		"** www.csgo-mapper.tk **"
+	}
+	">> You have 15 seconds to finish the tower otherwise bye bye <<"
+	{
+		"chi"		"** 你有15秒去完成，否则就拜拜吧~ **"
+	}
+	">> YOU ARE A LOSER <<"
+	{
+		"chi"		"** 你输了 **"
+	}
+	">> Songs of Freedom <<"
+	{
+		"chi"		"** 随机音乐 **"
+	}
+	">> beginnings <<"
+	{
+		"chi"		"** 开始 **"
+	}
+	">> Map by m I k E <<"
+	{
+		"chi"		"** 地图制作：m I K E 地图翻译：Ex_cKot**"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** 地图制作：Jenz and Onederp**"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** 地图制作：ProfessorOak**"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** 地图网址：Tweakgaming.com**"
+	}
+}

@@ -1,0 +1,335 @@
+"Console_T"
+{
+	"@[MAP] SKEET"
+	{
+		"chi"		"**飞碟**"
+	}
+	"@[MUSIC] Taylor Swift - Shake It Off"
+	{
+		"chi"		"**音乐：Taylor Swift - Shake It Off**"
+	}
+	"@[MAP] SLIDE"
+	{
+		"chi"		"**滑行**"
+	}
+	"@[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
+	{
+		"chi"		"**音乐：Ed Sheeran - I See Fire (Kygo Remix)**"
+	}
+	"@[MUSIC] Ellie Goulding - Goodness Gracious"
+	{
+		"chi"		"**音乐：Ellie Goulding - Goodness Gracious**"
+	}
+	"@[MAP] Ceiling breaking in 5 seconds!"
+	{
+		"chi"		"** 天花板将在5秒后打破**"
+	}
+	"@[MAP] The sniping team can now leave the awping area!"
+	{
+		"chi"		"** 狙击队伍现在可以离开AWP对战区域了！**"
+	}
+	"@[MAP] Teleport triggers DISABLED!"
+	{
+		"chi"		"** 传送点触发已关闭**"
+	}
+	"@[MUSIC] Watsky- Never Let it Die"
+	{
+		"chi"		"** 音乐：Watsky- Never Let it Die**"
+	}
+	"@[MAP] HEADSHOT PISTOL"
+	{
+		"chi"		"** 手枪爆头**"
+	}
+	"@[MAP] AFK KILLER IMMINENT"
+	{
+		"chi"		"** 挂机处死马上生效**"
+	}
+	"@[MAP] WALLHACKS"
+	{
+		"chi"		"** 透视**"
+	}
+	"@[MUSIC] MGMT - Electric Feel (DallasK Remix)"
+	{
+		"chi"		"** 音乐：MGMT - Electric Feel (DallasK Remix)**"
+	}
+	"@[MAP] SHOOTING RANGE"
+	{
+		"chi"		"** 靶场**"
+	}
+	"@[MAP] COUNTER TERRORISTS WIN!"
+	{
+		"chi"		"** CT方胜利！**"
+	}
+	"@[MAP] VIP"
+	{
+		"chi"		"** VIP**"
+	}
+	"@[MAP] [Objective] - Eliminate both of the enemies VIPs!"
+	{
+		"chi"		"** 目标：歼灭敌方2名VIP人员**"
+	}
+	"@[MUSIC] Cazzette feat. The High - Sleepless"
+	{
+		"chi"		"** 音乐：Cazzette feat. The High - Sleepless**"
+	}
+	"@[MAP] ONE TERRORIST VIP REMAINING!"
+	{
+		"chi"		"** 剩余[1]名T方VIP人员**"
+	}
+	"@[MAP] Both TERRORIST VIP's have been killed!"
+	{
+		"chi"		"** T方2名VIP已被歼灭**"
+	}
+	"@[MAP] MASTER CHIEF MODE ENABLED"
+	{
+		"chi"		"** 管理员模式开启**"
+	}
+	"@[MAP] Admins can activate this by noclipping to the admin room."
+	{
+		"chi"		"** 管理员可使用穿墙指令进入管理室**"
+	}
+	"@[MAP] EXPLOSIVE BALLS"
+	{
+		"chi"		"** 爆炸球**"
+	}
+	"@[MAP] START!"
+	{
+		"chi"		"** 开始!**"
+	}
+	"@[MUSIC] Kool & The Gang - Get Down On It"
+	{
+		"chi"		"** 音乐：Kool & The Gang - Get Down On It**"
+	}
+	"@[MAP] Knife Damage Enabled"
+	{
+		"chi"		"** 刀伤害已开启**"
+	}
+	"@[MAP] 50HP KNIFE"
+	{
+		"chi"		"** 50血刀战**"
+	}
+	"@[MUSIC] Avicii ft. Robbie Williams - The Days"
+	{
+		"chi"		"** 音乐：Avicii ft. Robbie Williams - The Days**"
+	}
+	"@[MAP] SURVIVAL"
+	{
+		"chi"		"** 生存**"
+	}
+	"@[MAP] Game starting in 10 seconds.."
+	{
+		"chi"		"** 游戏将在10秒后开始**"
+	}
+	"@[MAP] Game starting in 5 seconds.."
+	{
+		"chi"		"** 游戏将在5秒后开始**"
+	}
+	"@[MAP] YELLOW - 8 seconds"
+	{
+		"chi"		"** 黄色 - 8秒**"
+	}
+	"@[MAP] PINK - 13 seconds"
+	{
+		"chi"		"** 粉色 - 13秒**"
+	}
+	"@[MAP] BROWN - 11 seconds"
+	{
+		"chi"		"** 棕色 - 11秒**"
+	}
+	"@[MAP] PURPLE - 13 seconds"
+	{
+		"chi"		"** 紫色 - 13秒**"
+	}
+	"@[MAP] CYAN - 10 seconds"
+	{
+		"chi"		"** 青色 - 10秒**"
+	}
+	"@[MAP] BLUE - 7 seconds"
+	{
+		"chi"		"** 蓝色 - 7秒**"
+	}
+	"@[MAP] WHITE - 5 seconds"
+	{
+		"chi"		"** 白色 - 5秒**"
+	}
+	"@[MAP] Map ending...."
+	{
+		"chi"		"** 地图结束....**"
+	}
+	"@[MAP] SMOKEWARS"
+	{
+		"chi"		"** 烟雾战**"
+	}
+	"@[MAP] You may now cross-over"
+	{
+		"chi"		"** 你现在大概可以穿过了**"
+	}
+	"@[MAP] TUNNEL VISION"
+	{
+		"chi"		"** 狭窄视角**"
+	}
+	"@[MAP] CORRIDOR"
+	{
+		"chi"		"** 走廊**"
+	}
+	"@[MAP] RED - 5 seconds"
+	{
+		"chi"		"** 红色 - 5秒**"
+	}
+	"@[MAP] GREEN - 5 seconds"
+	{
+		"chi"		"** 绿色 - 5秒**"
+	}
+	"@[MAP] ORANGE - 5 seconds"
+	{
+		"chi"		"** 橙色 - 5秒**"
+	}
+	"@[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
+	{
+		"chi"		"** 剩余[1]名CT方VIP人员**"
+	}
+	"@[MAP] PORTAL SLIDE"
+	{
+		"chi"		"** 传送滑行**"
+	}
+	"@[MAP] Weapons supply in 5 seconds..."
+	{
+		"chi"		"** 武器将在5秒内生成...**"
+	}
+	"@[MAP] FALL DAMAGE is DISABLED"
+	{
+		"chi"		"** 坠落伤害已关闭**"
+	}
+	"@[MAP] BombSite Unlocked"
+	{
+		"chi"		"** 包点以解锁**"
+	}
+	"@[MAP] Shotguns enabled in 5 seconds"
+	{
+		"chi"		"** 霰弹枪将在5秒后开启**"
+	}
+	"@[MAP] AIRDROP"
+	{
+		"chi"		"** 空投**"
+	}
+	"@[MAP] You can now go up the middle!"
+	{
+		"chi"		"** 现在你可以走到中间了！**"
+	}
+	"@[MAP] KILLER BALLS"
+	{
+		"chi"		"** 杀人球**"
+	}
+	"@[MAP] 3...."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 2...."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 1...."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 1HP FOOTBALL"
+	{
+		"chi"		"** 1血足球**"
+	}
+	"@[MAP] GOAL!!!!"
+	{
+		"chi"		"** 进球！！**"
+	}
+	"@[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+	{
+		"chi"		"** 音乐：Kid Cudi - Pursuit Of Happiness ft. MGMT**"
+	}
+	"@[MAP] TERRORISTS WIN!"
+	{
+		"chi"		"** T方胜利！**"
+	}
+	"@[MAP] Both COUNTER-TERRORIST VIP's have been killed!"
+	{
+		"chi"		"** CT方2名VIP已被歼灭**"
+	}
+	"@[MAP] Knife Damage Enabled In 10 Seconds"
+	{
+		"chi"		"** 刀伤害将在10秒后开启**"
+	}
+	"@[MAP] Conveyers disabled"
+	{
+		"chi"		"** 传送已禁止**"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"** 刀**"
+	}
+	"Map made by Mathijs"
+	{
+		"chi"		"** 地图制作：Mathijs**"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"** 地图传输：sG | Waffles**"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** 老中医：感谢UA 和 Kirby , HZM654321 和 diaolingtyp**"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** UA：如果你不选择我会在30秒内选择**"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** bbs.93x.net**"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** 老中医：掉落伤害关闭**"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** bbs.93x.net**"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** 音乐：Poperotiq - Bitch plz**"
+	}
+	"Map by Phoenix"
+	{
+		"chi"		"** 地图制作：Phoenix**"
+	}
+	">>Map by Ghost X - DeadFire19<<"
+	{
+		"chi"		"** 地图制作：Ghost X - DeadFire19 地图翻译：Ex_cKot**"
+	}
+	">>Shoot Option to Vote<<"
+	{
+		"chi"		"** 射击选项来投票**"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** 音乐：PSY - Gangnam Style**"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** 地图传输：[SG] Punky**"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** 音乐：Just Jack - Basement**"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** 40秒后自动选择**"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** 地图制作：DTK Development团队**"
+	}
+}

@@ -1,0 +1,583 @@
+"Console_T"
+{
+	"@ SUPER POWER [ OFF ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 2.0 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS FIVESEVEN"
+	{
+		"chi"		"** **"
+	}
+	"@ 100HP HEADSHOTZ!"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ OFF ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ LETS GO"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 0.7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS USP"
+	{
+		"chi"		"** **"
+	}
+	"@ 1HP HOLYSHIT!"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 16 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SUPER POWER [ BIG ASS ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 0.5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS AWP"
+	{
+		"chi"		"** **"
+	}
+	"@ 150HP"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 0.6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS MP7"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 13 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS MAC10"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 21 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 0.8 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS M249"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 27 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS G3SG1"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 28 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS NOVA"
+	{
+		"chi"		"** **"
+	}
+	"@ 500HP"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 20 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 0.9 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS MAG7"
+	{
+		"chi"		"** **"
+	}
+	"@ 100HP"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 17 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS BIZON"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 14 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SUPER POWER [ RAINBOW ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS SCAR20"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 40 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS SSG08"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 38 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 11 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS HEGRENADE"
+	{
+		"chi"		"** **"
+	}
+	"@ 200HP"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 19 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ GRAV [ 0.1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 36 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS P90"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 15 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 50 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS P250"
+	{
+		"chi"		"** **"
+	}
+	"@ 50HP"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 49 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SUPER POWER [ INVISIBILITY ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS MP9"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS SG556"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 12 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 42 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SUPER POWER [ SPEED ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 24 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS TEC9"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 37 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS DEAGLE"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 33 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS M4A1"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS UMP45"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 18 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS XM1014"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 8 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS ELITE"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 29 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS AUG"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 10 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS FLASHBANG"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 9 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 25 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS INCGRENADE"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS SMOKEGRENADE"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS AK47"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 35 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS ZEUS"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 30 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 32 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS GALILAR"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 39 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS FAMAS"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS MOLOTOV"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S2 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS NEGEV"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 26 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS CZ75A"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SUPER POWER [ REVERSE MOTION ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS GLOCK"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS KNIFE"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 48 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 46 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 44 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS REVOLVER"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 34 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 47 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS HKP2000"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 45 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S2 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS M4A1S"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 23 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S1 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 31 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 41 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS SAWEDOFF"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 22 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S1 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S2 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S2 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 43 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S2 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E3 ]"
+	{
+		"chi"		"** **"
+	}
+}

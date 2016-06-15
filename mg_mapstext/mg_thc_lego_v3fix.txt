@@ -1,0 +1,315 @@
+"Console_T"
+{
+	"[THC LEGO] CAR OF DEATH"
+	{
+		"chi"		"**秋名山飙车大赛**"
+	}
+	"[THC LEGO] PLAYER TELEPORTED"
+	{
+		"chi"		"**{PINK}玩家传送..**"
+	}
+	"[THC LEGO] CAR OF DEATH BEGINS"
+	{
+		"chi"		"**[死亡之车]游戏开始**"
+	}
+	"[THC LEGO] 3 MINUTES REMAINING"
+	{
+		"chi"		"**{GREEN}剩余3分钟!**"
+	}
+	"[THC LEGO] NEW PLAYER IN 30 SECONDS"
+	{
+		"chi"		"**新一代秋名山车神将在30秒内诞生**"
+	}
+	"[THC LEGO] CHAIR KNIFING"
+	{
+		"chi"		"**[小游戏]刀椅子,{BLUE}把椅子刀进圈中 {PINK}优先获得20分的队伍获胜!**"
+	}
+	"[THC LEGO] SCORE 20 POINTS TO WIN"
+	{
+		"chi"		"**{LIGHTGREEN}获得20分即可胜利**"
+	}
+	"[THC LEGO] CTs ARE ON LEVEL 2"
+	{
+		"chi"		"**{BLUE}CT现在现在是2级**"
+	}
+	"[THC LEGO] Ts ARE ON LEVEL 2"
+	{
+		"chi"		"***{RED}T现在现在是2级**"
+	}
+	"[THC LEGO] CTs ARE ON LEVEL 3"
+	{
+		"chi"		"**{BLUE}CT现在现在是3级**"
+	}
+	"[THC LEGO] Ts ARE ON LEVEL 3"
+	{
+		"chi"		"**{RED}T现在现在是3级**"
+	}
+	"[THC LEGO] 2 MINUTES REMAINING"
+	{
+		"chi"		"**{PINK}2分钟{NORMAL}剩余**"
+	}
+	"[THC LEGO] CTs WIN"
+	{
+		"chi"		"**CT胜利**"
+	}
+	"Counter-Terrorists win."
+	{
+		"chi"		"**CT胜利**"
+	}
+	"[THC LEGO] WAR"
+	{
+		"chi"		"**WAR**"
+	}
+	"[THC LEGO] AWP"
+	{
+		"chi"		"**AWP**"
+	}
+	"[THC LEGO] CHOOSE MAP"
+	{
+		"chi"		"**{PINK}选择{NORMAL}地图**"
+	}
+	"[THC LEGO] WAR MAP 2"
+	{
+		"chi"		"**战役地图2**"
+	}
+	"[THC LEGO] TELEPORTING NOW"
+	{
+		"chi"		"**{YELLOW}现在将传送**"
+	}
+	"{THC LEGO] DODGE WALLS"
+	{
+		"chi"		"**{LIGHTGREEN}躲避球**"
+	}
+	"[THC LEGO] KILLING EVERYONE IN 30 SECONDS"
+	{
+		"chi"		"**30秒后处死所有人**"
+	}
+	"[THC LEGO] CLIMB"
+	{
+		"chi"		"**攀登**"
+	}
+	"[THC LEGO] 60 SECONDS REMAINING"
+	{
+		"chi"		"**60秒剩余**"
+	}
+	"[THC LEGO] NEW PLAYER IN 10 SECONDS"
+	{
+		"chi"		"**新的玩家将在10秒后执行**"
+	}
+	"[THC LEGO] GAME OVER"
+	{
+		"chi"		"**游戏结束**"
+	}
+	"[THC LEGO] CHOOSING NEW PLAYER..."
+	{
+		"chi"		"**选择新玩家**"
+	}
+	"[THC LEGO] 10 SECONDS REMAINING"
+	{
+		"chi"		"**10秒剩余**"
+	}
+	"[THC LEGO] TIME LIMIT"
+	{
+		"chi"		"**时间限制**"
+	}
+	"[THC LEGO] SMOKE BATTLE"
+	{
+		"chi"		"**烟雾大战**"
+	}
+	"[THC LEGO] NOVA"
+	{
+		"chi"		"**NOVA**"
+	}
+	"[THC LEGO] SOCCER"
+	{
+		"chi"		"**足球**"
+	}
+	"[THC LEGO] GOAL"
+	{
+		"chi"		"**球进了**"
+	}
+	"[THC LEGO] T's get Weapons."
+	{
+		"chi"		"** T获得了武器 **"
+	}
+	"[THC LEGO] MUSICAL DOORS"
+	{
+		"chi"		"**音乐之门**"
+	}
+	"[THC LEGO] ALL PLAYERS IN THE CAGE"
+	{
+		"chi"		"**所有玩家在笼子里**"
+	}
+	"[THC LEGO] ENABLING KNIVES IN 5 SECONDS"
+	{
+		"chi"		"**将在5秒内启用刀**"
+	}
+	"[THC LEGO] KILLING EVERYONE IN 20 SECONDS"
+	{
+		"chi"		"**20秒杀掉所有人**"
+	}
+	"[THC LEGO] KILLING EVERYONE IN 10 SECONDS"
+	{
+		"chi"		"**10秒杀掉所有人**"
+	}
+	"[THC LEGO] DEAGLE"
+	{
+		"chi"		"**沙鹰**"
+	}
+	"[THC LEGO] AK 47"
+	{
+		"chi"		"**AK-47**"
+	}
+	"[THC LEGO] BHOP - HARD"
+	{
+		"chi"		"**连跳-困难**"
+	}
+	"[THC LEGO] TELEPORTED PLAYER SEEMS TO BE AFK"
+	{
+		"chi"		"**传送AFK玩家**"
+	}
+	"[THC LEGO] LOADING RANDOM GAME"
+	{
+		"chi"		"**载入随机游戏**"
+	}
+	"[THC LEGO] NEGEV"
+	{
+		"chi"		"**大菠萝~**"
+	}
+	"[THC LEGO] SCOUT"
+	{
+		"chi"		"**鸟狙**"
+	}
+	"[THC LEGO] M4A1-S"
+	{
+		"chi"		"**M4A1-S**"
+	}
+	"[THC LEGO] KNIFE"
+	{
+		"chi"		"**刀**"
+	}
+	"[THC LEGO] KNIFE MOD - T VS CT"
+	{
+		"chi"		"**刀战模式：CT vs T**"
+	}
+	"[THC LEGO] ELEVATOR"
+	{
+		"chi"		"**电梯**"
+	}
+	"[THC LEGO] KNIVES ENABLED IN 30 SECONDS"
+	{
+		"chi"		"**30秒内可使用刀**"
+	}
+	"[THC LEGO] CHOSEN PLAYER IS AFK"
+	{
+		"chi"		"**选择的玩家正在挂机**"
+	}
+	"[THC LEGO] TELEPORTING NEW PLAYER..."
+	{
+		"chi"		"**传送新玩家**"
+	}
+	"[THC LEGO] CT's get Weapons."
+	{
+		"chi"		"**CT获得武器**"
+	}
+	"[THC LEGO] NO GAME CHOSEN"
+	{
+		"chi"		"**没有游戏被选择**"
+	}
+	"[THC LEGO] LOADING RANDOM GAME..."
+	{
+		"chi"		"**{RED} 载入随机游戏...**"
+	}
+	"[THC LEGO] COURSE"
+	{
+		"chi"		"**闯关**"
+	}
+	"[THC LEGO] SKIPPING ROPE"
+	{
+		"chi"		"**跳绳**"
+	}
+	">5<"
+	{
+		"chi"		"** **"
+	}
+	">4<"
+	{
+		"chi"		"** **"
+	}
+	">3<"
+	{
+		"chi"		"** **"
+	}
+	">2<"
+	{
+		"chi"		"** **"
+	}
+	">1<"
+	{
+		"chi"		"** **"
+	}
+	">Go!<"
+	{
+		"chi"		">>>走起！<<<"
+	}
+	"[THC LEGO] LONG JUMP"
+	{
+		"chi"		"**[小游戏] 长跳**"
+	}
+	"[THC LEGO] BHOP - EASY"
+	{
+		"chi"		"**[小游戏]连跳-简单**"
+	}
+	"[THC LEGO] TERRORISTS WIN"
+	{
+		"chi"		"**T胜利**"
+	}
+	"Terrorists win."
+	{
+		"chi"		"**T胜利**"
+	}
+	"Map made by Mathijs"
+	{
+		"chi"		"** 地图制作：Mathijs**"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"** 地图传输：sG | Waffles**"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** 音乐：PSY - Gangnam Style**"
+	}
+	"@[MAP] MASTER CHIEF MODE ENABLED"
+	{
+		"chi"		"** 管理员模式开启**"
+	}
+	"@[MAP] Admins can activate this by noclipping to the admin room."
+	{
+		"chi"		"** 管理员可使用穿墙指令进入管理室**"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** 老中医：感谢UA 和 Kirby , HZM654321 和 diaolingtyp**"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** UA：如果你不选择我会在30秒内选择**"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** bbs.93x.net**"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** 老中医：掉落伤害关闭**"
+	}
+	"[THC LEGO] CTs get Weapons."
+	{
+		"chi"		"** CT获得武器**"
+	}
+	"[THC LEGO] Ts get Weapons."
+	{
+		"chi"		"** **"
+	}
+}

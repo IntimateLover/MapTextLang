@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		">>>30秒内出生点保护<<<"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** 30秒后挂机处死**"
+	}
+}

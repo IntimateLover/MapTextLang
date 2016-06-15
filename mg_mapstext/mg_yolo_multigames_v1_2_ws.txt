@@ -1,0 +1,276 @@
+"Console_T"
+{
+	"@[MAP] WALLHACKS"
+	{
+		"chi"		"** 透视 **"
+	}
+	"@[MUSIC] Smash Mouth - All Star"
+	{
+		"chi"		"** 音乐：Smash Mouth - All Star **"
+	}
+	"@[MAP] ELEVATOR"
+	{
+		"chi"		"** 升降机 **"
+	}
+	"@[MUSIC] Philip George - Wish You Were Mine"
+	{
+		"chi"		"** 音乐：Philip George - Wish You Were Mine **"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"** 刀战 **"
+	}
+	"@[MUSIC] Major Lazer & DJ Snake - Lean On"
+	{
+		"chi"		"** 音乐：Major Lazer & DJ Snake - Lean On **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** AWP **"
+	}
+	"@[MUSIC] Lenny Kravitz - Fly Away"
+	{
+		"chi"		"** 音乐：Lenny Kravitz - Fly Away **"
+	}
+	"@[MAP] AIM"
+	{
+		"chi"		"** 瞄准 **"
+	}
+	"@[MAP] This Level By SOLIDSNAKE"
+	{
+		"chi"		"**关卡制作：SOLIDSNAKE**"
+	}
+	"@[MUSIC] Macklemore - Cant Hold Us"
+	{
+		"chi"		"** 音乐：Macklemore - Cant Hold Us **"
+	}
+	"@[MAP] VOLLEYBALL"
+	{
+		"chi"		"** 排球 **"
+	}
+	"@[MUSIC] Watsky - IDGAF"
+	{
+		"chi"		"** 音乐：Watsky - IDGAF **"
+	}
+	"[COUNTER-TERRORISTS WIN]"
+	{
+		"chi"		"** CT方胜利！ **"
+	}
+	"[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
+	{
+		"chi"		"** CT方现在有2个球 **"
+	}
+	"@[MAP] GRENADE HOLES"
+	{
+		"chi"		"** 手雷 **"
+	}
+	"@[MAP] Blocks breaking in 30 seconds"
+	{
+		"chi"		"** 砖块将在30秒后破坏 **"
+	}
+	"@[MAP] Blocks breaking in 10 seconds"
+	{
+		"chi"		"** 砖块将在10秒后破坏 **"
+	}
+	"@[MAP] PISTOLS"
+	{
+		"chi"		"** 手枪 **"
+	}
+	"@[MAP] WTF? SCOUTS"
+	{
+		"chi"		"**什么鬼？鸟狙？显卡危机吧！！**"
+	}
+	"@[MUSIC] OPM - Heaven Is A Halfpipe"
+	{
+		"chi"		"** 音乐：OPM - Heaven Is A Halfpipe **"
+	}
+	"@[MUSIC] Daft Punk - Get Lucky"
+	{
+		"chi"		"** 音乐：Daft Punk - Get Lucky **"
+	}
+	"@[MUSIC] Lou Bega - Mambo No 5"
+	{
+		"chi"		"** 音乐：Lou Bega - Mambo No 5 **"
+	}
+	"@[MAP] 1HP FOOTBALL"
+	{
+		"chi"		"** 1滴血足球 **"
+	}
+	"@[MUSIC] Disclosure - White Noise"
+	{
+		"chi"		"** 音乐：Disclosure - White Noise **"
+	}
+	"@[MAP] GOOOOOOAAAAAALLLLL"
+	{
+		"chi"		"** 进！！！球！！！ **"
+	}
+	"Winners get in position!"
+	{
+		"chi"		"**胜者取得有利地势**"
+	}
+	"Losers prepare to take balls to the face"
+	{
+		"chi"		"**败者准备被球踢到吧！**"
+	}
+	"@[MAP] HEADSHOT"
+	{
+		"chi"		"** 爆头 **"
+	}
+	"@[MAP] CREEPER"
+	{
+		"chi"		"** 爬行者 **"
+	}
+	"@Map begins in 3 seconds..."
+	{
+		"chi"		"** 3秒后开始... **"
+	}
+	"@Map begins in 2 seconds..."
+	{
+		"chi"		"** 2秒后开始... **"
+	}
+	"@Map begins in 1 second..."
+	{
+		"chi"		"** [1]秒后开始... **"
+	}
+	"@[MAP] Blocks breaking in 5 seconds"
+	{
+		"chi"		"** 砖块将在5秒后破坏 **"
+	}
+	"@[MAP] You can now cross over to enemylines"
+	{
+		"chi"		"**现在可以穿入敌军线了**"
+	}
+	"@[MAP] BLOCKS"
+	{
+		"chi"		"** 砖块 **"
+	}
+	"@[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+	{
+		"chi"		"** 用你队伍颜色的砖块杀死对立者 **"
+	}
+	"@[MAP] The Blocks Will Fly Towards You When You Shoot"
+	{
+		"chi"		"** 砖块将在你射击时飞来 **"
+	}
+	"@[MAP] Enabling bullet damage in 30 seconds"
+	{
+		"chi"		"** 子弹将在30秒后造成伤害 **"
+	}
+	"@[MAP] Enabling bullet damage in 10 seconds"
+	{
+		"chi"		"** 子弹将在10秒后造成伤害 **"
+	}
+	"@[MAP] Enabling bullet damage in 5 seconds"
+	{
+		"chi"		"** 子弹将在5秒后造成伤害 **"
+		"DoorCountdown"		"5"
+	}
+	"@[MAP] Bullet damage enabled"
+	{
+		"chi"		"** 子弹伤害已开启 **"
+	}
+	"@[MUSIC] Kygo - Firestone ft. Conrad"
+	{
+		"chi"		"** 音乐：Kygo - Firestone ft. Conrad **"
+	}
+	"@[MAP] FOOTBALL"
+	{
+		"chi"		"** 足球 **"
+	}
+	"[TERRORISTS WIN]"
+	{
+		"chi"		"** T方胜利 **"
+	}
+	"[TERRORISTS NOW HAVE 2 BALLS]"
+	{
+		"chi"		"** T方拥有2个球 **"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"**地图制作：Lt.| iPod**"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"**音乐需要在选择关卡后选择**"
+	}
+	"@[MAP] MASTER CHIEF MODE ENABLED"
+	{
+		"chi"		"**首领模式已开启**"
+	}
+	"@[MAP] Admins can activate this by noclipping to the admin room."
+	{
+		"chi"		"**admin可使用穿墙进入admin室控制**"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"**bbs.93x.net**"
+	}
+	"Map by Phoenix"
+	{
+		"chi"		"**地图制作：Phoenix 地图翻译：Ex_cKot**"
+	}
+	"Map made by Mathijs"
+	{
+		"chi"		"**地图制作：Mathijs**"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"**地图传输：sG | Waffles**"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"**音乐：Just Jack - Basement**"
+	}
+	"***Normal Round***"
+	{
+		"chi"		"**普通回合**"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"**音乐：M83 - Midnight city**"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"**音乐：Poperotiq - Bitch plz**"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"**音乐：Psy - Gangnam Style**"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** 地图在有bot时无法运行**"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** 地图制作：[SG] Paul**"
+	}
+	"Map By Charli =)"
+	{
+		"chi"		"** 地图制作：Charli =)**"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** 老中医：感谢UA 和 Kirby , HZM654321 和 diaolingtyp**"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** UA：如果你不选择我会在30秒内选择**"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** bbs.93x.net**"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** 老中医：掉落伤害关闭**"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** 地图传输：[SG] Punky**"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** 地图制作：Kirby**"
+	}
+}

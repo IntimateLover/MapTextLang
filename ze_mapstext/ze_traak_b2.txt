@@ -1,0 +1,204 @@
+"Console_T"
+{
+	"*** MAP BY PASS ***"
+	{
+		"chi"		"** 地图制作 PASS 地图翻译 by 色狼领袖 **"
+	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"** 大门将在 30 秒后开启 **（注意：很多时候防守点都是一大一小的两个口子）
+                "
+		"DoorCountdown"		"30"
+		"30"		"
+	}
+	"
+		"***"		"KEEP"
+		"HOLDING***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"守住这里"
+		"**"		"
+	}
+	"
+		"***"		"DOOR"
+		"is"		"OPENING***"
+		"
+	{
+		"		"chi"
+		"		"		"**"
+		"大门开启"		"**"
+		"
+	}
+	"		"***"
+		"Elevator"		"is"
+		"powering"		"up!"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"正在给电梯供电"
+		"**"		"
+                "
+		"DoorCountdown"		"		"
+		"25"		"
+	}
+	"
+		"***"		"Elevator"
+		"leaves"		"in"
+		"5"		"seconds"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"电梯将在"
+		"5"		"秒后离开"
+		"**（电梯出口在后面，左右两边都应该去人，建议右边多去点）"		"
+                "
+		"DoorCountdown"		"		"
+		"5"		"
+	}
+	"
+		"***"		"Door"
+		"should"		"open"
+		"soon!"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**"
+		"门将会尽快打开"		"**（门开之后过了小门建议回头守）"
+		"
+                "		"DoorCountdown"
+		"		"		"30"
+		"
+	}
+	"		"***"
+		"RESIST"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**"
+		"防守压制僵尸"		"**"
+		"
+	}
+	"		"***"
+		"Warehouse"		"door"
+		"opens"		"in"
+		"30"		"seconds"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"仓库大门将在"
+		"30"		"秒后打开"
+		"**"		"
+                "
+		"DoorCountdown"		"		"
+		"30"		"
+	}
+	"
+		"***"		"Door"
+		"is"		"Opening"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"大门开启"
+		"**"		"
+	}
+	"
+		"***"		"This"
+		"is"		"the"
+		"final"		"hold"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"这是最后的防守点"
+		"**"		"
+	}
+	"
+		"***"		"The"
+		"ship"		"will"
+		"leave"		"soon!"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"船很快就会离开"
+		"**（不要站在桥上守）"		"
+	}
+	"
+		"***"		"ZOMBIES"
+		"ON"		"THE"
+		"ship"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**"
+		"僵尸上船跟你一起回家咯"		"**"
+		"
+	}
+	"		"***"
+		"You"		"Fail"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"你们输了！GG"
+		"**"		"
+	}
+}
+"
+	}
+	"*** KEEP HOLDING***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator is powering up! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator leaves in 5 seconds ***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"5"
+	}
+	"*** Door should open soon! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Warehouse door opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"30"
+	}
+	"*** Door is Opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS THE FINAL HOLD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The ship will leave soon! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES ON THE SHIP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You Fail ***"
+	{
+		"chi"		"** **"
+	}
+}

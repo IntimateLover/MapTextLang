@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Door is open 10 sec**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 25s**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"chi"		"** **"
+	}
+	"**Boats will arrive in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do more damage **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"chi"		"** **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations!***"
+	{
+		"chi"		"** **"
+	}
+	"***Map fixed by Et3rnity***"
+	{
+		"chi"		"** **"
+	}
+}
