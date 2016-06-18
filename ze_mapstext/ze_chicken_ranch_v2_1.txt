@@ -14,7 +14,7 @@
 	}
 	"** Wait until we meet up! Hold the zombies off! **"
 	{
-		"chi"		"**我们需要把僵尸隔离在外面，直到我们背后的门打开...**"
+		"chi"		"**我们需要守到后面的门开,别让那些被感染者进来....**"
 	}
 	"** MOVE! **"
 	{
@@ -46,7 +46,7 @@
 	}
 	"** The chicken has stepped on the energetic relay! HOLD! **"
 	{
-		"chi"		"**那只鸡去发电室了！坚持住！！**"
+		"chi"		"**这只鸡用生命为我们发电！！坚持住！！！**"
 	}
 	"** The door shall open soon. **"
 	{
@@ -86,7 +86,7 @@
 	}
 	"** THE FUEL CONTAINER IS OPENING! **"
 	{
-		"chi"		"**燃料容器正在开启。坚持住**"
+		"chi"		"**燃料容器泄露了！！该死！！小心辐射！！**"
 	}
 	"** Quick! Trim the excess of nuclear chickens! **"
 	{
@@ -106,7 +106,7 @@
 	}
 	"** We should not be affected by the toxins here... **"
 	{
-		"chi"		"**我可不想被这该死的核辐射污染...**"
+		"chi"		"**天哪！我可不想被这该死的辐射污染..**"
 	}
 	"** THE TOXINS ARE GETTING IN THE VENTILATION SYSTEM! WERE DOOMED! **"
 	{
@@ -126,53 +126,157 @@
 	}
 	"** KEEP IT UP! THE SECURITY DOORS ARE CRACKED NOW! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住来的路！安全门马上就开启了**"
 	}
 	"** GO! GO! GO! We should be close to an exit of some sort! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！！！我们离出口越来越近了！！！**"
 	}
 	"** MOVE! The facility is blowing up and this area is likely to colapse! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！这里就要爆炸了！！**"
 	}
 	"** This is enormous... **"
 	{
-		"chi"		"** **"
+		"chi"		"**这里居然这么空旷....**"
 	}
 	"** The power plant is at the other side - we need to get there! Be careful not to fall! **"
 	{
-		"chi"		"** **"
+		"chi"		"**发电厂在另外一边..我们需要赶过去...注意，别掉队了！！！**"
 	}
 	"** GET GOING! ITS GETTING WORSE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**保持前进！情况越来越严重了..可能我们也会交代在这....**"
 	}
 	"** The door seems locked... **"
 	{
-		"chi"		"** **"
+		"chi"		"**这个门被锁住了....**"
 	}
 	"** RESIST UNTIL WE CAN GET THROUGH! HOLD IT! **"
 	{
-		"chi"		"** **"
+		"chi"		"**加油，我们需要坚持住！！！**"
 	}
 	"** GO! GET INSIDE AND USE THE LIFT! THIS IS ABOUT TO BLOW! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了！快进去按电梯！这里开始崩塌了！！！！**"
 	}
 	"** HOLD! THE ELEVATORS ENGINES ARE WARMING UP! **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持住！电梯正在预热！！！**"
 	}
 	"** KEEP IT UP! RESIST! **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持住！电梯马上就要离开了！！**"
 	}
 	"** ONE LAST BIT! HOLD IT! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快快快！！上电梯！！！！**"
 	}
 	"** ZOMBIES DETECTED - MISSION FAILED! **"
+	{
+		"chi"		"**为什么被感染者上来了...看来我们要交代在这了...**"
+	}
+	"** CONGRATULATIONS TEAM - WE DID IT! **"
+	{
+		"chi"		"**干得漂亮！！我们做到了！！！**"
+	}
+	"** We are in the depths of the facility... **"
+	{
+		"chi"		"**我们成功抵达了内部..**"
+	}
+	"** The airstrike team will be blowing up the command center soon! **"
+	{
+		"chi"		"**空军将很快赶到并炸毁这里！！**"
+	}
+	"** MISSION: FIND A WAY OUT! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"chi"		"**我们需要找一条路出去！干掉一切阻挡我们的敌人！！**"
+	}
+	"** GET TOGETHER! Were close to the outdoor areas! **"
+	{
+		"chi"		"**我们必须待在一起，这里离外面越来越近了！！**"
+	}
+	"** MOVE! WE GOTTA REACH THE EXTRACTION POINT AT THE HELIPAD! **"
+	{
+		"chi"		"**继续前进。我们需要抵达停机坪！！**"
+	}
+	"** The direct pathway towards the underground exit is locked... **"
+	{
+		"chi"		"**通向地下出口的路被锁住了...**"
+	}
+	"** HOLD! We will try to find a way from the facilitys top instead! **"
+	{
+		"chi"		"**坚持住！我们需要时间去找到一条新的离开路线！！！**"
+	}
+	"** GET READY! The door is about to open! **"
+	{
+		"chi"		"**准备好！门马上就开了！！！**"
+	}
+	"** Look! The control tower has been blown up! **"
+	{
+		"chi"		"**看！！控制台被炸毁了！！！**"
+	}
+	"** We can now hijack one of the helicopters and leave! **"
+	{
+		"chi"		"**我们现在可以去劫持一辆直升机离开这里了！！**"
+	}
+	"** SECURITY SYSTEM BREACHED! THE PATH WILL SHOW SOON! **"
+	{
+		"chi"		"**安全系统坏了..通道马上就会打开了...**"
+	}
+	"** RESIST! THE ELEVATOR DOOR WILL BE OPENING SOON! **"
+	{
+		"chi"		"**坚持住，电梯门马上就开**"
+	}
+	"** GET INSIDE! THE ELEVATOR IS LEAVING SOON! **"
+	{
+		"chi"		"**快进去，电梯马上就离开了**"
+	}
+	"** This door seems locked! Hold the line while we open it! **"
+	{
+		"chi"		"**这扇门被锁住了...我需要时间来打开它..**"
+	}
+	"** HOLD RIGHT HERE! THE EXTRACTION POINT IS CLOSE! **"
+	{
+		"chi"		"**守住这里，撤离点就快到了**"
+	}
+	"** GO! COVER YOUR TEAM MATES AND GET MOVING! **"
+	{
+		"chi"		"**GO GO GO!继续前进！！**"
+	}
+	"** WE HAVE REACHED THE HELIPAD! RESIST! **"
+	{
+		"chi"		"**我们终于抵达了停机坪...**"
+	}
+	"** The helicopters engines will take a bit to warm up! Dont let them through! **"
+	{
+		"chi"		"**飞机的系统需要一段时间来预热..不要让那些感染者通过这里..**"
+	}
+	"** DONT GIVE UP! HOLD IT! **"
+	{
+		"chi"		"**加油！我们能做到的！！**"
+	}
+	"** KEEP IT UP! THE BLADES ARE MOVING! **"
+	{
+		"chi"		"**飞机要起飞了！！！**"
+	}
+	"** GET ON! WERE LEAVING! GO! **"
+	{
+		"chi"		"**上飞机！！！我们终于可以离开这个鬼地方了...**"
+	}
+	"** COVER YOUR EYES! THE NUCLEAR WARHEAD IS COMING! **"
+	{
+		"chi"		"**抓紧了！核爆要来了！**"
+	}
+	"** ITS GOING TO BLOW!!! **"
+	{
+		"chi"		"**终于爆炸了吗？？**"
+	}
+	"** FANTASTIC JOB - YOU ESCAPED FROM THE CHICKEN RANCH! **"
+	{
+		"chi"		"**干得漂亮！我们成功从这个鬼地方逃出来了！！**"
+	}
+	"** THE MAP WILL RESET NOW - THANKS FOR PLAYING! **"
 	{
 		"chi"		"** **"
 	}

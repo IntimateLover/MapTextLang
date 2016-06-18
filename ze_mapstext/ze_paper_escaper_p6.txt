@@ -858,4 +858,16 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Energy is coming back to the engine! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD! The train will move as soon as the engine recharges! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PANIC MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
 }

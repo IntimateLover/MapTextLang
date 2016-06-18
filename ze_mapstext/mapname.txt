@@ -1,0 +1,1111 @@
+"mapname"
+{
+	"ze_30_seconds__b21_p2"
+	{
+		"chi"		"生死30秒"
+		"credit"		"600"
+	}
+	"ze_ATIX_panic_b3t_p"
+	{
+		"chi"		"仓库危机"
+		"credit"		"400"
+	}
+	"ze_ApertureScience_p2"
+	{
+		"chi"		"光圈科技"
+		"credit"		"400"
+	}
+	"ze_DOOM_p2"
+	{
+		"chi"		"毁灭战士"
+		"credit"		"400"
+	}
+	"ze_FFVII_Mako_Reactor_p8"
+	{
+		"chi"		"最终幻想7: 魔光炉"
+	}
+	"ze_Hell_Escape_p2"
+	{
+		"chi"		"地狱逃亡"
+		"credit"		"400"
+	}
+	"ze_Island_Escape_p3"
+	{
+		"chi"		"孤岛逃亡"
+		"credit"		"1000"
+	}
+	"ze_LOTR_Helms_Deep_v5_p6"
+	{
+		"chi"		"魔戒2: 圣盔谷"
+		"credit"		"400"
+	}
+	"ze_LOTR_Mines_of_Moria_p2"
+	{
+		"chi"		"魔戒1: 莫瑞亚矿坑"
+		"credit"		"400"
+	}
+	"ze_LOTR_Mount_Doom_p3"
+	{
+		"chi"		"魔戒3: 末日火山"
+		"credit"		"600"
+	}
+	"ze_PoR_island_p3"
+	{
+		"chi"		"岛屿大逃离"
+		"credit"		"400"
+	}
+	"ze_PotC_p4"
+	{
+		"chi"		"加勒比海盗"
+		"credit"		"400"
+	}
+	"ze_Random_p2"
+	{
+		"chi"		"随机小游戏"
+		"credit"		"1000"
+	}
+	"ze_Siberia_1990_v1_2c_p5"
+	{
+		"chi"		"西伯利亚大危机"
+		"credit"		"500"
+	}
+	"ze_Super_Metroid_v4"
+	{
+		"chi"		"超级银河战士"
+		"credit"		"400"
+	}
+	"ze_abandoned_industry_alpha"
+	{
+		"chi"		"废弃工厂大撤离"
+		"credit"		"400"
+	}
+	"ze_apollo_e1"
+	{
+		"chi"		"阿波罗登月计划"
+		"credit"		"700"
+	}
+	"ze_arctic_escape_p2"
+	{
+		"chi"		"极地逃亡"
+		"credit"		"400"
+	}
+	"ze_aztec_temple_go_v2"
+	{
+		"chi"		"厄兹特克神庙逃亡"
+		"credit"		"400"
+	}
+	"ze_aztecnoob_p2"
+	{
+		"chi"		"走吊桥的是菜鸡"
+		"credit"		"400"
+	}
+	"ze_barrage_p2"
+	{
+		"chi"		"求生之路：大坝"
+		"credit"		"400"
+	}
+	"ze_biohazard2_rpd_004_p3"
+	{
+		"chi"		"生化危机：警察局"
+		"credit"		"600"
+	}
+	"ze_biohazard_manor_p2"
+	{
+		"chi"		"生化危机：洋馆"
+		"credit"		"500"
+	}
+	"ze_blackmesa_escape_p4"
+	{
+		"chi"		"黑山基地:重装上阵"
+		"credit"		"400"
+	}
+	"ze_boacceho_p4"
+	{
+		"chi"		"古堡逃脱"
+		"credit"		"400"
+	}
+	"ze_boatescape101_p"
+	{
+		"chi"		"古船逃脱"
+		"credit"		"400"
+	}
+	"ze_bp-infested-prison_p2"
+	{
+		"chi"		"监狱大撤离"
+		"credit"		"800"
+	}
+	"ze_breakable_p3"
+	{
+		"chi"		"破坏之旅"
+		"credit"		"500"
+	}
+	"ze_bunker_escape_v1_2"
+	{
+		"chi"		"煤仓大撤退"
+		"credit"		"300"
+	}
+	"ze_cheezylab_beta7"
+	{
+		"chi"		"实验室惊魂"
+		"credit"		"400"
+	}
+	"ze_chicken_lords_p"
+	{
+		"chi"		"小鸡城堡大逃亡"
+		"credit"		"400"
+	}
+	"ze_colorlicouspilar_p4"
+	{
+		"chi"		"彩色世界"
+		"credit"		"400"
+	}
+	"ze_crashbandicoot_p3"
+	{
+		"chi"		"蛊惑狼"
+		"credit"		"400"
+	}
+	"ze_crypt_v1_4"
+	{
+		"chi"		"墓穴逃亡"
+		"credit"		"400"
+	}
+	"ze_csgo_grey2"
+	{
+		"chi"		"灰白大作战"
+		"credit"		"400"
+	}
+	"ze_dangerous_waters_v1h_03_b"
+	{
+		"chi"		"危险水域大冒险"
+		"credit"		"400"
+	}
+	"ze_death_star_escape_v4_3_p2"
+	{
+		"chi"		"死亡之星大撤退"
+		"credit"		"400"
+	}
+	"ze_death_wish_v6"
+	{
+		"chi"		"死亡之愿"
+		"credit"		"500"
+	}
+	"ze_desert_fox_v7_6"
+	{
+		"chi"		"沙漠之狐"
+		"credit"		"400"
+	}
+	"ze_dust_escape_p3"
+	{
+		"chi"		"沙漠大逃亡"
+		"credit"		"400"
+	}
+	"ze_elevator_escape_p2"
+	{
+		"chi"		"电梯大逃亡"
+		"credit"		"400"
+	}
+	"ze_evil_mansion_v1_final"
+	{
+		"chi"		"整蛊之家"
+		"credit"		"500"
+	}
+	"ze_exchange_innovation_v1b"
+	{
+		"chi"		"交流创新之旅"
+		"credit"		"500"
+	}
+	"ze_fapescape_p5"
+	{
+		"chi"		"乐高大逃亡"
+		"credit"		"700"
+	}
+	"ze_fast_escape_p2"
+	{
+		"chi"		"快速撤离"
+		"credit"		"400"
+	}
+	"ze_ffxii_feywood_b2_4_2"
+	{
+		"chi"		"最终幻想12：幻妖之森"
+	}
+	"ze_flying_world_p"
+	{
+		"chi"		"空中世界: 史诗大冒险"
+		"credit"		"400"
+	}
+	"ze_forestbunkers_v1_b3_e2"
+	{
+		"chi"		"森林惊魂"
+		"credit"		"400"
+	}
+	"ze_frostdrake_tower_v1"
+	{
+		"chi"		"寒霜高塔"
+		"credit"		"1500"
+	}
+	"ze_games_v2_1"
+	{
+		"chi"		"小游戏冒险"
+		"credit"		"600 "
+	}
+	"ze_gods_wrath_p2"
+	{
+		"chi"		"神降天谴"
+		"credit"		"400"
+	}
+	"ze_great_crate_escape_v6"
+	{
+		"chi"		"神迹逃亡"
+		"credit"		"400"
+	}
+	"ze_greencity_fix"
+	{
+		"chi"		"绿城逃亡"
+		"credit"		"400"
+	}
+	"ze_halo_poa_p4"
+	{
+		"chi"		"光环行动"
+		"credit"		"400"
+	}
+	"ze_hazard_escape_p2"
+	{
+		"chi"		"冒死之旅"
+		"credit"		"400"
+	}
+	"ze_hobbit_escape_b2"
+	{
+		"chi"		"(魔戒)霍比特人：哥布林人之战"
+		"credit"		"600"
+	}
+	"ze_hold_em_v8_f3"
+	{
+		"chi"		"坚守行动"
+		"credit"		"500"
+	}
+	"ze_hypernova_v2fix"
+	{
+		"chi"		"超新星之旅"
+		"credit"		"400"
+	}
+	"ze_ice_hold_p1"
+	{
+		"chi"		"冰地大防守"
+		"credit"		"1000"
+	}
+	"ze_icecap_escape_v5_p"
+	{
+		"chi"		"西瓜橘子图"
+		"credit"		"1500"
+	}
+	"ze_inboxed_final_f2"
+	{
+		"chi"		"身法菜鸟的太平间"
+		"credit"		"1000"
+	}
+	"ze_indiana_jones_v4a_004_p4"
+	{
+		"chi"		"夺宝奇兵"
+		"credit"		"400"
+	}
+	"ze_infected_lab_v4_1"
+	{
+		"chi"		"感染实验室惊魂"
+		"credit"		"400"
+	}
+	"ze_infected_tramway_csgo1"
+	{
+		"chi"		"电车惊魂"
+		"credit"		"400"
+	}
+	"ze_infiltration_final_p2"
+	{
+		"chi"		"潜入行动"
+		"credit"		"400"
+	}
+	"ze_insanitycity_final"
+	{
+		"chi"		"工业之城"
+		"credit"		"400"
+	}
+	"ze_isla_nublar_p3"
+	{
+		"chi"		"侏罗纪公园:努布拉岛"
+		"credit"		"600"
+	}
+	"ze_italy_town_v3_e3"
+	{
+		"chi"		"意大利小镇惊魂"
+		"credit"		"400"
+	}
+	"ze_jurassicpark_c1v4_p2"
+	{
+		"chi"		"侏罗纪公园逃脱"
+		"credit"		"400"
+	}
+	"ze_lab_v5"
+	{
+		"chi"		"实验室惊魂"
+		"credit"		"400"
+	}
+	"ze_legoland_crackheads_p2"
+	{
+		"chi"		"乐高世界"
+		"credit"		"400"
+	}
+	"ze_mario_tower_v4_p2"
+	{
+		"chi"		"超级马里奥：闯关高塔"
+		"credit"		"600"
+	}
+	"ze_mars_escape_v1_2_pm1"
+	{
+		"chi"		"火星大逃亡"
+		"credit"		"400"
+	}
+	"ze_mental_hospital_cof"
+	{
+		"chi"		"精神病医院惊魂"
+	}
+	"ze_minecraft_adventure_v1_3c"
+	{
+		"chi"		"MC闯关大冒险"
+		"credit"		"700"
+	}
+	"ze_minecraft_v1_1_p3"
+	{
+		"chi"		"mc一日游"
+		"credit"		"400"
+	}
+	"ze_moon_base_p3"
+	{
+		"chi"		"月球基地"
+		"credit"		"400"
+	}
+	"ze_motanuminc_sgfinal"
+	{
+		"chi"		"黑基佬传奇:护菊同盟"
+		"credit"		"400"
+	}
+	"ze_mountainspire_p2"
+	{
+		"chi"		"高山逃亡"
+		"credit"		"400"
+	}
+	"ze_mytex_escape_v3_p"
+	{
+		"chi"		"遗迹逃亡"
+		"credit"		"400"
+	}
+	"ze_namviet_v6_1"
+	{
+		"chi"		"越南丛林大冒险"
+		"credit"		"400"
+	}
+	"ze_neko_canyon_p3"
+	{
+		"chi"		"尼高峡谷惊魂"
+		"credit"		"400"
+	}
+	"ze_notredame_p3"
+	{
+		"chi"		"時空撕裂者2: 巴黎聖母院"
+		"credit"		"400"
+	}
+	"ze_nuke_p5"
+	{
+		"chi"		"核电站危机"
+		"credit"		"400"
+	}
+	"ze_ocean_base_escape_p"
+	{
+		"chi"		"海洋基地惊魂"
+		"credit"		"400"
+	}
+	"ze_omega_p3"
+	{
+		"chi"		"暗夜危机"
+		"credit"		"400"
+	}
+	"ze_pirates_port_royal_v4_2"
+	{
+		"chi"		"加勒比海盗: 罗亚尔港"
+		"credit"		"1500"
+	}
+	"ze_pitchblack_p2"
+	{
+		"chi"		"星际传奇"
+		"credit"		"400"
+	}
+	"ze_prototype_v3_4"
+	{
+		"chi"		"虐杀原形"
+		"credit"		"500"
+	}
+	"ze_puta_p3"
+	{
+		"chi"		"工厂危机"
+		"credit"		"400"
+	}
+	"ze_raccoon_facility_v6b_p"
+	{
+		"chi"		"生化危机：浣熊市工厂"
+		"credit"		"400"
+	}
+	"ze_resonance_cascade_p3"
+	{
+		"chi"		"串联共振：黑山逃亡"
+		"credit"		"400"
+	}
+	"ze_rockescape_2013_v1_3_3"
+	{
+		"chi"		"石山逃亡"
+		"credit"		"400"
+	}
+	"ze_saw_p3"
+	{
+		"chi"		"电锯惊魂"
+		"credit"		"400"
+	}
+	"ze_sc_turtles_v5_p2"
+	{
+		"chi"		"乌龟岛之旅"
+		"credit"		"400"
+	}
+	"ze_sewage_processing_v8"
+	{
+		"chi"		"污水处理厂危机"
+		"credit"		"400"
+	}
+	"ze_sg1_missions_v2_1_p2"
+	{
+		"chi"		"星际之门"
+		"credit"		"400"
+	}
+	"ze_skyscraper_city_v5"
+	{
+		"chi"		"镜之边缘：大厦飞驰"
+		"credit"		"400"
+	}
+	"ze_sst2_p"
+	{
+		"chi"		"星河舰队2"
+		"credit"		"400"
+	}
+	"ze_sst_b2_1_p5"
+	{
+		"chi"		"星河舰队1"
+		"credit"		"400"
+	}
+	"ze_stargate_escape_v8_p2"
+	{
+		"chi"		"星际之门大逃亡"
+		"credit"		"400"
+	}
+	"ze_surf_danger_p2"
+	{
+		"chi"		"危险的滑翔"
+		"credit"		"1200"
+	}
+	"ze_surf_facility_v2_3_p2"
+	{
+		"chi"		"超级滑翔v2版"
+	}
+	"ze_surf_facility_v3_pre2"
+	{
+		"chi"		"超级滑翔v3版本"
+	}
+	"ze_teletraan_v1"
+	{
+		"chi"		"变形金刚之旅"
+		"credit"		"400"
+	}
+	"ze_tesv_skyrim_v5_4"
+	{
+		"chi"		"上古卷轴5：天际"
+	}
+	"ze_texturescape_p2"
+	{
+		"chi"		"陷阱逃脱图"
+		"credit"		"400"
+	}
+	"ze_thelostworld_redux_p2"
+	{
+		"chi"		"侏罗纪公园：失落之岛"
+		"credit"		"400"
+	}
+	"ze_timesplitters_p"
+	{
+		"chi"		"時空撕裂者"
+		"credit"		"400"
+	}
+	"ze_titanic_escape_v2_3_fix1"
+	{
+		"chi"		"泰坦尼克号惊魂"
+		"credit"		"400"
+	}
+	"ze_tkara_v3"
+	{
+		"chi"		"tkara大逃亡"
+		"credit"		"400"
+	}
+	"ze_toaster_p3"
+	{
+		"chi"		"烤面包机惊魂"
+		"credit"		"600"
+	}
+	"ze_townscape_vfinallqfix2"
+	{
+		"chi"		"小镇逃亡之旅"
+		"credit"		"400"
+	}
+	"ze_traak_b2"
+	{
+		"chi"		"traak大逃亡"
+		"credit"		"400"
+	}
+	"ze_trainescape_final_p2"
+	{
+		"chi"		"火车大撤退"
+		"credit"		"400"
+	}
+	"ze_underground_escape_p"
+	{
+		"chi"		"地下逃亡之旅"
+		"credit"		"400"
+	}
+	"ze_voodoo_islands_v8_5_p4"
+	{
+		"chi"		"巫毒岛惊魂"
+		"credit"		"400"
+	}
+	"ze_zk_fapescape_p3"
+	{
+		"chi"		"缩略版乐高大逃亡"
+		"credit"		"400"
+	}
+	"ze_interception_p2"
+	{
+		"chi"		"窃听计划"
+		"credit"		"500"
+	}
+	"ze_valleyescape_v1"
+	{
+		"chi"		"山谷大逃亡"
+		"credit"		"400"
+	}
+	"ze_platformer_b2"
+	{
+		"chi"		"浮空岛游戏"
+		"credit"		"3000"
+	}
+	"ze_abandoned_bio_bunker_v1_4"
+	{
+		"chi"		"废弃燃料惊魂"
+		"credit"		"400"
+	}
+	"ze_lila_panic_escape_v1_1"
+	{
+		"chi"		"里拉惊魂"
+		"credit"		"600"
+	}
+	"ze_magala_castle_b3"
+	{
+		"chi"		"麦伽乐城堡惊魂"
+		"credit"		"600"
+	}
+	"ze_NY_marathon_p"
+	{
+		"chi"		"马拉松大追逐"
+		"credit"		"800"
+	}
+	"ze_reconnoiter_b5"
+	{
+		"chi"		"侦查行动"
+		"credit"		"400"
+	}
+	"ze_pd2_crime_art_v2"
+	{
+		"chi"		"收获日2：美术馆偷窃行动"
+		"credit"		"400"
+	}
+	"ze_minecraft_adventure_v1_3d"
+	{
+		"chi"		"MC大冒险"
+		"credit"		"700"
+	}
+	"ze_halloween_house_b3"
+	{
+		"chi"		"万圣节屋"
+	}
+	"ze_unknow_escape_v5"
+	{
+		"chi"		"未知大逃亡"
+		"credit"		"400"
+	}
+	"ze_magala_castle_b4"
+	{
+		"chi"		"麦伽乐城堡"
+		"credit"		"600"
+	}
+	"ze_dangerous_waters_in_christma"
+	{
+		"chi"		"圣诞节—危险水域"
+	}
+	"ze_farmhouse_v9_fix"
+	{
+		"chi"		"坦克农场"
+		"credit"		"600"
+	}
+	"ze_shaun_of_the_dead_b1_2"
+	{
+		"chi"		"僵尸肖恩"
+		"credit"		"400"
+	}
+	"ze_sunlight_v3_1"
+	{
+		"chi"		"日光"
+	}
+	"ze_biohazard2_sewer_004_p4"
+	{
+		"chi"		"生化危机—下水道"
+		"credit"		"400"
+	}
+	"ze_infiltration_final_p3"
+	{
+		"chi"		"潜入行动"
+		"credit"		"400"
+	}
+	"ze_sunlight_v2_0_p7"
+	{
+		"chi"		"日光"
+		"credit"		"400"
+	}
+	"ze_surf_facility_p4"
+	{
+		"chi"		"金字塔滑翔工厂P4"
+		"credit"		"1200"
+	}
+	"ze_biohazard2_sewer_004_p5"
+	{
+		"chi"		"生化危机：下水道"
+		"credit"		"400"
+	}
+	"ze_nostromo_redux_v1_2"
+	{
+		"chi"		"逃离空间站"
+		"credit"		"400"
+	}
+	"ze_spacestation_sgfix"
+	{
+		"chi"		"空间站"
+		"credit"		"400"
+	}
+	"ze_Halloween_House_b4"
+	{
+		"chi"		"万圣屋"
+		"credit"		"500"
+	}
+	"ze_vertigo_militia_b1_3_7"
+	{
+		"chi"		"建筑工地"
+		"credit"		"400"
+	}
+	"ze_crazy_escape_v3"
+	{
+		"chi"		"疯狂大逃亡"
+		"credit"		"400"
+	}
+	"ze_biohazard2_sewer_004_p8"
+	{
+		"chi"		"生化危机：下水道"
+		"credit"		"400"
+	}
+	"ze_destruction_of_exorath_v3_1"
+	{
+		"chi"		"破坏行动"
+		"credit"		"400"
+	}
+	"ze_ffxii_feywood_b3_1_e2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sunlight_v2_0_p8"
+	{
+		"chi"		"日光"
+		"credit"		"700"
+	}
+	"ze_shroomforest2_b5_e2"
+	{
+		"chi"		"蘑菇森林2"
+		"credit"		"600"
+	}
+	"ze_chemical_weapons_depot_v1_2"
+	{
+		"chi"		"化学武器库"
+		"credit"		"400"
+	}
+	"ze_urban_laby_of_death_p2"
+	{
+		"chi"		"城市迷宫"
+		"credit"		"600"
+	}
+	"ze_journey_p3"
+	{
+		"chi"		"旅行之人"
+		"credit"		"600"
+	}
+	"ze_lemonysnickets_v1_e3"
+	{
+		"chi"		"柠檬过道"
+		"credit"		"400"
+	}
+	"ze_shroomforest_v4_5_e3"
+	{
+		"chi"		"蘑菇森林1"
+		"credit"		"700"
+	}
+	"ze_biohazard_manor_004_p4"
+	{
+		"chi"		"生化危机—洋馆"
+		"credit"		"400"
+	}
+	"ze_bioshock_go_v5_8"
+	{
+		"chi"		"生化奇兵"
+		"credit"		"800"
+	}
+	"ze_deepice_p3"
+	{
+		"chi"		"极度深寒"
+		"credit"		"400"
+	}
+	"ze_cyberderp_p3"
+	{
+		"chi"		"魔幻现实主义"
+		"credit"		"600"
+	}
+	"ze_forgotten_facility_p2"
+	{
+		"chi"		"被遗忘的设施"
+		"credit"		"400"
+	}
+	"ze_chemical_weapons_depot_v3a"
+	{
+		"chi"		"化学武器仓库"
+		"credit"		"400"
+	}
+	"ze_journey_p4"
+	{
+		"chi"		"旅途"
+		"credit"		"600"
+	}
+	"ze_luigismanison_fix2_p3"
+	{
+		"chi"		"路易基鬼屋"
+		"credit"		"400"
+	}
+	"ze_naruto_v1_1"
+	{
+		"chi"		"火影村"
+		"credit"		"500"
+	}
+	"ze_rtcw_ominous_rumors_v1_1"
+	{
+		"chi"		"重返德军总部"
+		"credit"		"600"
+	}
+	"ze_slender_b1"
+	{
+		"chi"		"瘦长鬼影"
+		"credit"		"600"
+	}
+	"ze_surf_sahok_v1_e5"
+	{
+		"chi"		"此地图暂无译名"
+		"credit"		"900"
+	}
+	"ze_christmas_infection_v2_7_air"
+	{
+		"chi"		"圣诞夜惊魂"
+		"credit"		"500"
+	}
+	"ze_bowser_in_the_fire_sea_v1nb2"
+	{
+		"chi"		"火海中的库巴"
+		"credit"		"400"
+	}
+	"ze_lemonysnickets_v1_e9"
+	{
+		"chi"		"雷蒙尼斯尼奇大行动"
+		"credit"		"400"
+	}
+	"ze_ffxii_paramina_rift_v1_3_ps1"
+	{
+		"chi"		"最终幻想12：帕里米亚"
+		"credit"		"700"
+	}
+	"ze_mirrors_edge_reborn_v4_2_p3"
+	{
+		"chi"		"镜之边缘"
+		"credit"		"400"
+	}
+	"ze_exchange_innovation_v1b_ps2"
+	{
+		"chi"		"此地图暂无译名"
+		"credit"		"400"
+	}
+	"ze_santassination_v2"
+	{
+		"chi"		"狮子王"
+		"credit"		"1500"
+	}
+	"ze_tilex_escape_e5"
+	{
+		"chi"		"跳刀e5"
+	}
+	"ze_haunted_lab_escape_v2c_e3"
+	{
+		"chi"		"闹鬼实验室"
+		"credit"		"400"
+	}
+	"ze_magala_castle_final"
+	{
+		"chi"		"麦加乐城堡"
+		"credit"		"600"
+	}
+	"ze_retribution_p2"
+	{
+		"chi"		"复仇行动"
+		"credit"		"400"
+	}
+	"ze_fartlocker_escape"
+	{
+		"chi"		"陷阱逃生"
+		"credit"		"400"
+	}
+	"ze_outbreak_v2_1_p"
+	{
+		"chi"		"逃出生天"
+		"credit"		"400"
+	}
+	"ze_sky_athletic_v7_3"
+	{
+		"chi"		"天空竞技"
+		"credit"		"800"
+	}
+	"ze_Parking_p4"
+	{
+		"chi"		"停车场"
+		"credit"		"500"
+	}
+	"ze_tloz_stone_tower_temple_v1_4"
+	{
+		"chi"		"塞尔达传说"
+		"credit"		"400"
+	}
+	"ze_FFVII_Mako_Reactor_v5_3_v5"
+	{
+		"chi"		"最终幻想7：魔光炉"
+		"credit"		"3000"
+	}
+	"ze_industrial_dejavu_v3_3_1_e2"
+	{
+		"chi"		"工业循环"
+		"credit"		"800"
+	}
+	"ze_noir_p1"
+	{
+		"chi"		"黑暗工厂"
+		"credit"		"500"
+	}
+	"ze_sorrento_escape_v1"
+	{
+		"chi"		"惊险刺激的索伦托"
+		"credit"		"400"
+	}
+	"ze_sandstorm_v7_1_e4"
+	{
+		"chi"		"沙尘暴"
+		"credit"		"800"
+	}
+	"ze_surf_vortex_v1_v2"
+	{
+		"chi"		"漩涡滑翔"
+		"credit"		"900"
+	}
+	"ze_showdown_v4_1_p"
+	{
+		"chi"		"巅峰之战"
+		"credit"		"400"
+	}
+	"ze_escape_the_eye_p2"
+	{
+		"chi"		"逃离天眼"
+		"credit"		"400"
+	}
+	"ze_paper_escaper_p6"
+	{
+		"chi"		"纸质逃亡"
+		"credit"		"700"
+	}
+	"ze_tesv_skyrim_v5_6"
+	{
+		"chi"		"上古卷轴5：天际"
+		"credit"		"1000"
+	}
+	"ze_Predator_Ultimate_p7"
+	{
+		"chi"		"铁血战士"
+		"credit"		"500"
+	}
+	"ze_atix_helicopter_p"
+	{
+		"chi"		"直升机危机"
+		"credit"		"400"
+	}
+	"ze_portal_story_v1_2"
+	{
+		"chi"		"传送门故事"
+		"credit"		"400"
+	}
+	"ze_dark_souls_b1_1"
+	{
+		"chi"		"黑暗之魂"
+		"credit"		"700"
+	}
+	"ze_bathroom_v2_3"
+	{
+		"chi"		"浴室逃亡"
+		"credit"		"500"
+	}
+	"ze_serpentis_temple_b3"
+	{
+		"chi"		"美杜莎神庙"
+		"credit"		"800"
+	}
+	"ze_ffxii_westersand_v7_2_e2"
+	{
+		"chi"		"最终幻想12：西沙"
+		"credit"		"1000"
+	}
+	"ze_ffxii_paramina_rift_v1_7"
+	{
+		"chi"		"最终幻想12：帕拉米娅"
+		"credit"		"700"
+	}
+	"ze_christmas_b2_1"
+	{
+		"chi"		"圣诞节"
+		"credit"		"400"
+	}
+	"ze_Sit_Caelum_Paradisus_b7"
+	{
+		"chi"		"雕刻天堂"
+		"credit"		"600"
+	}
+	"ze_bioshock_v1_6_1"
+	{
+		"chi"		"生化奇兵"
+		"credit"		"600"
+	}
+	"ze_reloaded_v1_e7"
+	{
+		"chi"		"合金装备"
+		"credit"		"500"
+	}
+	"ze_mountain_escape_snow_v1"
+	{
+		"chi"		"爬山"
+	}
+	"ze_hive_complex_v1_2_1"
+	{
+		"chi"		"生化危机：蜂巢"
+		"credit"		"400"
+	}
+	"ze_sky_athletic_v7_1"
+	{
+		"chi"		"天空竞技"
+	}
+	"ze_surf_sahok_v1_e6"
+	{
+		"chi"		"此地图暂无译名"
+		"credit"		"800"
+	}
+	"ze_fapescape_rote_v1_3"
+	{
+		"chi"		"乐高大逃亡：噩梦陷阱"
+	}
+	"ze_mountain_escape_snow_v2"
+	{
+		"chi"		"爬雪山"
+	}
+	"ze_gris_a5_5"
+	{
+		"chi"		"创世E"
+		"credit"		"500"
+	}
+	"ze_stalker_ultimate_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_antartika_b1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tyranny_v1_t2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_xiii_winslow_bank_v2_2fix_3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tilex_possession_v2_8"
+	{
+		"chi"		"此地图暂无译名"
+		"credit"		"600"
+	}
+	"ze_ancient_wrath_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paranoid_ultimate_csgo_v6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_boatescape5_csgo_b4"
+	{
+		"chi"		"古船逃脱"
+		"credit"		"500"
+	}
+	"ze_lemonysnickets_v1_e10"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_venice_escape_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ancient_wrath_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_chicken_ranch_v2_1"
+	{
+		"chi"		"小鸡工厂之旅"
+	}
+	"ze_ffxiv_wanderers_palace_v2_8"
+	{
+		"chi"		"最终幻想14：流浪者宫殿"
+		"credit"		"700"
+	}
+	"ze_ancient_wrath_v1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_starwars_v1_5"
+	{
+		"chi"		"星球大战"
+	}
+}
