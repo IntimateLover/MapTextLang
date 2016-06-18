@@ -34,7 +34,7 @@
 	}
 	"*** Pidaras Shotgun pickep up ! Only 35 shots ! ***"
 	{
-		"chi"		"**<基佬的霰弹枪>已被拾取，仅有35发子弹**"
+		"chi"		"**<基佬的散弹枪>已被拾取，仅有35发子弹**"
 	}
 	"*** GANDALF DONT LIKE DOOR HUGGER ***"
 	{
@@ -60,7 +60,6 @@
 	"*** Door open in 10 seconds ***"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountdown"		"10"
 	}
 	"*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***"
 	{
@@ -91,7 +90,6 @@
 	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
 	{
 		"chi"		"**<通向基佬世界的大门>将在15秒后打开，继续防守！**"
-		"DoorCountdown"		"15"
 	}
 	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
 	{
@@ -196,7 +194,7 @@
 	}
 	"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
 	{
-		"chi"		"**<屌大无脑的BOSS>释放了精♂流♂成♂河！！不停的跳！！**"
+		"chi"		"**<屌大无脑的BOSS>释放了跳♂绳大法！！跳起来！！**"
 		"ico"		"icon_fire"
 	}
 	"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
@@ -216,7 +214,7 @@
 	}
 	"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
 	{
-		"chi"		"**<屌大无脑的BOSS>释放了跳♂绳大法！！跳起来！！**"
+		"chi"		"**<屌大无脑的BOSS>释放了精♂流♂成♂河！！不停的跳！！**"
 		"ico"		"icon_fire"
 	}
 	"*** ZM TELEPORT IN 10 SECONDS ***"
@@ -254,19 +252,19 @@
 	}
 	"*** OMFG ! Youre alive ! RUN TO THE DICK ! ***"
 	{
-		"chi"		"**哦草！你活下来了，跑向大屌**"
+		"chi"		"** **"
 	}
 	"*** COVER WHILE WAITING FOR THE EJACULATION ! ***"
 	{
-		"chi"		"**大屌正在蓄力，继续防守僵尸**"
+		"chi"		"** **"
 	}
 	"*** OMFG PENETRATION INCOMING ! GOGOGO ! ***"
 	{
-		"chi"		"**喔~喷出来了！！！GO GO GO！**"
+		"chi"		"** **"
 	}
 	"*** OMFG YOU DID IT ! NICE JOB FUCKING RETARD ! ***"
 	{
-		"chi"		"**你做到了，你拯救了你的后代！**"
+		"chi"		"** **"
 	}
 	"*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***"
 	{
@@ -278,46 +276,42 @@
 	}
 	"*** Thx for playing ***"
 	{
-		"chi"		"**感谢对本图的支持**"
+		"chi"		"** **"
 	}
 	"*** LEVEL 2 : FLYING COCK ***"
 	{
-		"chi"		"**第二关：飞翔的大屌**"
+		"chi"		"** **"
 	}
 	"*** Pidaras Giant Dick move in 15 seconds ***"
 	{
-		"chi"		"**<巨型基佬大屌>将在15秒后离开**"
-		"DoorCountdown"		"15"
+		"chi"		"** **"
 	}
 	"*** AFK TELEPORT IN 5 SECONDS ***"
 	{
-		"chi"		"**AFK玩家5秒后传送**"
+		"chi"		"** **"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"** **"
 	}
 	"*** COVER ON THE LEFT SIDE ! ***"
 	{
-		"chi"		"**防守左边僵尸**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	"*** COVER ON THE RIGHT SIDE ! ***"
 	{
-		"chi"		"**防守右边僵尸**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	"*** Shoot this asshole ! ***"
 	{
-		"chi"		"**射击这个混蛋**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	"*** Stupid zombie are teleport in 5 seconds ***"
 	{
-		"chi"		"**愚蠢的僵尸5秒后传送**"
+		"chi"		"** **"
 	}
 	"[ITEMS] Shotgun is empty !"
 	{
-		"chi"		"**<基佬的霰弹枪>已经空了**"
+		"chi"		"** **"
 	}
 }

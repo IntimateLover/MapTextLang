@@ -107,6 +107,7 @@
 	"<<< Heli leaves in 30 seconds >>>"
 	{
 		"chi"		"**直升机将在30秒后离开**"
+		"DoorCountdown"		"30"
 	}
 	"<<< Heli leaves in 20 seconds >>>"
 	{
