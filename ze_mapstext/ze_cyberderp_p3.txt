@@ -6,7 +6,7 @@
 	}
 	"* * * Current phase: CURSED HEXAHEDRON * * *"
 	{
-		"chi"		"**当前阶段：被诅咒的魔方 **"
+		"chi"		"**当前阶段：BOSS路线 **"
 	}
 	"* * The pedestal will be raising in 25 seconds * *"
 	{
@@ -22,7 +22,7 @@
 	}
 	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"chi"		"**当前阶段：魔方是实心的 **"
+		"chi"		"**当前阶段：电梯路线 **"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
@@ -40,7 +40,7 @@
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
 	{
-		"chi"		"**风神器已经拿起 **"
+		"chi"		"**风已被拿起 **"
 	}
 	"* * Wait 23 seconds * *"
 	{
@@ -53,7 +53,7 @@
 	}
 	"* * * Frost Wave has been picked up * * *"
 	{
-		"chi"		"**霜波已经捡起 **"
+		"chi"		"**减速已被拿起 **"
 	}
 	"* * * GO NIGGER DICK * * *"
 	{
@@ -118,7 +118,7 @@
 	}
 	"* * * Flame of Udun has been picked up * * *"
 	{
-		"chi"		"**火神器已经捡起 **"
+		"chi"		"**火已被拿起 **"
 	}
 	"* * 15 seconds until final teleport * *"
 	{
@@ -128,6 +128,7 @@
 	"* * Humans must reach the arena or they will be teleported * *"
 	{
 		"chi"		"**人类必须进入竞技场或者他们会自动传送 **"
+		"ico"		"icon_fire"
 	}
 	"* * * IT HAS RUN AWAY * * *"
 	{
@@ -170,7 +171,7 @@
 	}
 	"* * * MOVE * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**后退 **"
 	}
 	"* * * Exit door will open in 10 seconds * * *"
 	{
@@ -210,7 +211,7 @@
 	}
 	"* * * It's open * * *"
 	{
-		"chi"		"**它是开放的 **"
+		"chi"		"**它开了 **"
 	}
 	"* * * Wait until magic happens * * *"
 	{
@@ -218,11 +219,11 @@
 	}
 	"* * * Wait until magic happens * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**等待奇迹发生 **"
 	}
 	"* * * Just a bit more... * * *"
 	{
-		"chi"		"**只是多一点 **"
+		"chi"		"**多守一会... **"
 	}
 	"* * * The Magic Fire has arrived! * * *"
 	{
@@ -230,7 +231,7 @@
 	}
 	"* * * Projectile Deflector has been picked up * * *"
 	{
-		"chi"		"**弹丸偏转器已经拿起 **"
+		"chi"		"**弹药偏转器已经拿起 **"
 	}
 	"* * Hacking doors. This may take a few seconds * *"
 	{
@@ -268,7 +269,7 @@
 	}
 	"* * You have defended long enough * *"
 	{
-		"chi"		"** **"
+		"chi"		"**你有足够长的时间守住这里 **"
 	}
 	"* * Keep running * *"
 	{
@@ -305,11 +306,11 @@
 	}
 	"* * The main door WILL open in 35s... * *"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在35后打开... **"
 	}
 	"* * ...but this convenient side vent might help * *"
 	{
-		"chi"		"**......但这种方便的侧通风口可能会帮助 **"
+		"chi"		"**...但这种方便的侧通风口可能会帮助 **"
 	}
 	"* * Final door opening in 20 seconds * *"
 	{
@@ -339,7 +340,7 @@
 	}
 	"* * Zombies got inside * * Learn2hold * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入**Learn2hold **"
 	}
 	"(Left) * * * Door opening * * * 8 seconds * * *"
 	{
@@ -375,31 +376,31 @@
 	}
 	"* * * Aeolus Spirit has been picked up * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**风已被拿起 **"
 	}
 	"* * * Its open * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**它开了 **"
 	}
 	"* * * HOLD THIS POSITION * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个位置 **"
 	}
 	"* * * ITS DEAD * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**它死了 **"
 	}
 	"* * * WIND: ENABLED * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**风:使用 **"
 	}
 	"* * * GLASSES: OFF * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**模糊：开启 **"
 	}
 	"* * * GRAVITY: IS KILL * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**重力：失控 **"
 	}
 	"* * * HASUL COMO HEL MAR HASUL * * *"
 	{
