@@ -18,7 +18,8 @@
 	}
 	"*** Resist 20 seconds in the poolroom ***"
 	{
-		"chi"		"**在台球室守住20秒 **"
+		"chi"		"**在蓄水室守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"*** Run to the controlroom and press the button ***"
 	{
@@ -27,6 +28,7 @@
 	"*** Find a spot and resist for 30 seconds ***"
 	{
 		"chi"		"**找到一个地方，守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	"*** 5 seconds untill radio scrambler collapses ***"
 	{
@@ -43,10 +45,12 @@
 	"*** RESIST 20 SECONDS ***"
 	{
 	        "chi"		"**守住20秒 **"
+	        "DoorCountDown" "20"
 	}
 	"*** RESIST 15 SECONDS ***"
 	{
 		"chi"		"**守住15秒 **"
+		"DoorCountDown" "15"
 	}
 	"*** Opening cargo elevator door ***"
 	{
@@ -55,6 +59,7 @@
 	"*** Humans are recommended to stay in the elevator***"
 	{
 		"chi"		"**建议人类待在电梯里 **"
+		"ico"   "icon_alert"
 	}
 	"*** Contacting HQ ***"
 	{
@@ -79,6 +84,7 @@
 	"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
 	{
 		"chi"		"**直升机70秒后离开 **"
+		"DoorCountDown" "70"
 	}
 	"*** THIS IS OUR FINAL STAND ***"
 	{
@@ -99,6 +105,7 @@
 	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
 	{
 		"chi"		"**门在30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	"*** Nuke inbound ***"
 	{
