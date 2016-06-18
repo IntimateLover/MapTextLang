@@ -83,7 +83,7 @@
 	}
 	"||| CHAPTER 2 => SECURE |||"
 	{
-		"chi"		"**第2章=>安全 **"
+		"chi"		"**第2章=>保密 **"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
@@ -92,7 +92,7 @@
 	}
 	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
-		"chi"		"**安全检查站已被禁用（快走管道） **"
+		"chi"		"**安全检查站已被禁用 **"
 	}
 	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
 	{
