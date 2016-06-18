@@ -1047,7 +1047,11 @@
 	}
 	"ze_stalker_ultimate_v1"
 	{
-		"chi"		"核电站"
+		"chi"		"此地图暂无译名"
+	}
+	"ze_antartika_b1_1"
+	{
+		"chi"		"此地图暂无译名"
 	}
 	"ze_tyranny_v1_t2"
 	{
@@ -1061,6 +1065,10 @@
 	{
 		"chi"		"此地图暂无译名"
 		"credit"		"600"
+	}
+	"ze_ancient_wrath_v1"
+	{
+		"chi"		"此地图暂无译名"
 	}
 	"ze_paranoid_ultimate_csgo_v6"
 	{
@@ -1076,6 +1084,10 @@
 		"chi"		"此地图暂无译名"
 	}
 	"ze_venice_escape_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ancient_wrath_v1_1"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1095,9 +1107,5 @@
 	"ze_starwars_v1_5"
 	{
 		"chi"		"星球大战"
-	}
-	"ze_pidaras_v1_4fix3_e3"
-	{
-		"chi"		"大屌逃亡-直播勿选"
 	}
 }
