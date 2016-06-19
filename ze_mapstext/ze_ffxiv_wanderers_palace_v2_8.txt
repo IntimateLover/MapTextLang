@@ -209,7 +209,7 @@
 	}
 	"*** Heavens Fall***"
 	{
-		"chi"		"**天坠（看头上柱子，降到地板的时候按W防推）**"
+		"chi"		"**天坠（躲避天上柱子，不要被砸到，降到地板的时候按W防推）**"
 		"ico"		"icon_fire"
 	}
 	"***10seconds to Mega Flare***"
@@ -310,7 +310,8 @@
 	}
 	"***Heavens Fall***"
 	{
-		"chi"		"**天坠（看头上柱子，降到地板的时候按W防推）**"
+		"chi"		"**天坠（躲避天上柱子，不要被砸到，降到地板的时候按W防推）**"
+		"ico"		"icon_fire"
 	}
 	"***Go to the Escape Elevator Tower***"
 	{
@@ -436,6 +437,7 @@
 	"***ADS Attack***"
 	{
 		"chi"		"**ADS来袭**"
+		"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
@@ -470,6 +472,7 @@
 	"***Hold this position to 30 seconds***"
 	{
 		"chi"		"**防守30秒**"
+		"DoorCountdown"		"30"
 	}
 	"***LASER***"
 	{
@@ -481,11 +484,11 @@
 	}
 	"***Nael Van Durnas appeared***"
 	{
-		"chi"		"** **"
+		"chi"		"**奈尔·范·达乌斯出现了**"
 	}
 	"***KILL HER***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了他**"
 	}
 	"***GO GO GO GO***"
 	{
@@ -493,18 +496,18 @@
 	}
 	"***The Wanderers Palace Clear...?***"
 	{
-		"chi"		"** **"
+		"chi"		"**你以为这就结束了？**"
 	}
 	"***I will kill you guys***"
 	{
-		"chi"		"** **"
+		"chi"		"**我会杀了你们**"
 	}
 	"***Savage Nael appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**野蛮的奈尔出现了**"
 	}
 	"***Dogde Last Lasers***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳过最后的刀**"
 	}
 }
