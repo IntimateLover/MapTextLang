@@ -251,18 +251,18 @@
 	}
 	">> You beat the map <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经打败了这个地图**"
 	}
 	">> Congratulation <<"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你**"
 	}
 	">> Map will reset <<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图将重置RTV吧**"
 	}
 	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来了你失败了!**"
 	}
 }
