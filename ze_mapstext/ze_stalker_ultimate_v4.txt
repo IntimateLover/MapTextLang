@@ -59,7 +59,7 @@
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
 		"chi"		"**如果你想打开门就必须要打开电力（电力开关在墙上，请仔细寻找）! ! ! **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"The gate 1 will open in 30 seconds"
 	{
@@ -110,7 +110,7 @@
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
 		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -164,7 +164,7 @@
 	"**Wait until the debris break**"
 	{
 		"chi"		"**等到前面的废墟爆炸 **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
@@ -188,7 +188,7 @@
 	"**1 PLAYER have to go to the command room to take documents**"
 	{
 		"chi"		"**1名玩家必须到指挥室去拿证件 **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**The documents are here!**We are too close!**"
 	{
@@ -254,7 +254,7 @@
 	"**Now go away to the coast**"
 	{
 		"chi"		"**现在去海岸  **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**The blowout is comming**"
 	{
@@ -263,7 +263,7 @@
 	"**Prepare for ultimate survival. Fight for your life!!**"
 	{
 		"chi"		"**拼尽全力存活下来 **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**FIREBALL GOT MAXIMUM POWER**"
 	{
@@ -280,13 +280,13 @@
 	"**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**"
 	{
 		"chi"		"**所有神器升级到最高级**在必要时使用 **"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**PREPARE TO MOVE IN 10 SECONDS!**"
 	{
 		"chi"		"**准备在10秒后撤退 **"
 		"DoorCountdown"		"10"
-		"ico"           "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**GO!!**GO!!**GO!!**"
 	{
@@ -355,5 +355,205 @@
 	"You are too slow..."
 	{
 		"chi"		"**你太慢了... **"
+	}
+	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**"
+	{
+		"chi"		"** **"
+	}
+	"**A player picked up fireball(FIRE)**"
+	{
+		"chi"		"** **"
+	}
+	"**Lab door 2 will open in 13 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player picked up flash(ELECTROULTIMA on STAGE 3 4 5)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player picked up meatchunk(PUSHERGRAVITY on STAGE 3 4 5)**"
+	{
+		"chi"		"** **"
+	}
+	"**Lab door 2 will open for zombies in 18 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Lab door 1 will open in 11 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player picked up a piece of flesh(WIND)**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie shield is activated. You have 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Lab door 1 will open for zombies in 18 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"***The control panel seems without power. Maybe using the lever will help***"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"***Seems that works. Try to use the control panel to open the gates***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie shield is disabled**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold this position for 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Survive for 70 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	{
+		"chi"		"** **"
+	}
+	"**15 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE 1 is beaten. Moving on STAGE 2**"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold for 5 seconds before the gates open**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait for others for 5 more seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hurry! Fall back to the right side!!**"
+	{
+		"chi"		"** **"
+	}
+	"**This is the last hold point**Hold them 25 seconds until door closes**"
+	{
+		"chi"		"** **"
+	}
+	"**There are zombies in. The level is failed.**"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE 2 is beaten. Moving on STAGE 3**"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**"
+	{
+		"chi"		"** **"
+	}
+	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**"
+	{
+		"chi"		"** **"
+	}
+	"**We got a bomb. But whats this?**"
+	{
+		"chi"		"** **"
+	}
+	"**The bomb is planted. Wait until the debris break**"
+	{
+		"chi"		"** **"
+	}
+	"**Bloodsucker was picked up**"
+	{
+		"chi"		"** **"
+	}
+	"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+	{
+		"chi"		"** **"
+	}
+	"**A player picked up nightstar(SLOWER)**"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE 3 is beaten. Moving on STAGE 4**"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait for others for 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"He escaped...We will try to get him next time..."
+	{
+		"chi"		"** **"
+	}
+	"**Prepare to survive. You need to find the spot and defend it **"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE 4 is beaten. Moving on STAGE 5**"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT MISSION: Kill that strange mutant and evacuate from the Exclusion Zone**"
+	{
+		"chi"		"** **"
+	}
+	"**Seems like the controller if finally dead! Good job**"
+	{
+		"chi"		"** **"
+	}
+	"**This seems not to be good**"
+	{
+		"chi"		"** **"
+	}
+	"**The strong blowout is comming. Choppers can not come here**"
+	{
+		"chi"		"** **"
+	}
+	"**Prepare to FIGHT! Now you are only for yourselves**"
+	{
+		"chi"		"** **"
+	}
+	"**The strange energy made your items overpowered. Try to use when nesessary**"
+	{
+		"chi"		"** **"
+	}
+	"**A player picked up spikeball(HEAL)**"
+	{
+		"chi"		"** **"
 	}
 }
