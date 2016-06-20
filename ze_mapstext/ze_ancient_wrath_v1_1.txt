@@ -82,7 +82,7 @@
 	}
 	"||| CHAPTER 2 => SECURE |||"
 	{
-		"chi"		"**第2章=>安全 **"
+		"chi"		"**第2章=>保密 **"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
@@ -90,7 +90,7 @@
 	}
 	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
-		"chi"		"**安全检查站已被禁用（快走管道） **"
+		"chi"		"**安全检查站已被禁用 **"
 	}
 	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
 	{
@@ -131,7 +131,7 @@
 	}
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
-		"chi"		"**保护上面的火车 **"
+		"chi"		"**保护下面的火车 **"
 	}
 	"||| STAGE 2 FINISHED |||"
 	{
@@ -157,10 +157,12 @@
 	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	{
 		"chi"		"**射击能量束和防御僵尸 **"
+		"ico"		"icon_fire"
 	}
 	"||| SHOOT THE CONTAINER |||"
 	{
 		"chi"		"**射击容器 **"
+		"ico"		"icon_fire"
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
@@ -255,6 +257,7 @@
 	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
 		"chi"		"**！！！警告！！！天花板上有东西掉下来了（快躲避） **"
+		"ico"		"icon_fire"
 	}
 	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
