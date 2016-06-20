@@ -59,6 +59,7 @@
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
 		"chi"		"**如果你想打开门就必须要打开电力（电力开关在墙上，请仔细寻找）! ! ! **"
+		"ico"           "icon_fire"
 	}
 	"The gate 1 will open in 30 seconds"
 	{
@@ -74,7 +75,7 @@
 	}
 	"Zombie shield is disabled."
 	{
-		"chi"		"**僵尸空气墙处于关闭状态 **"
+		"chi"		"**僵尸空气墙已关闭 **"
 	}
 	"Lab door 2 will open in 13 seconds"
 	{
@@ -109,6 +110,7 @@
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
 		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
+		"ico"           "icon_fire"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -162,6 +164,7 @@
 	"**Wait until the debris break**"
 	{
 		"chi"		"**等到前面的废墟爆炸 **"
+		"ico"           "icon_fire"
 	}
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
@@ -185,6 +188,7 @@
 	"**1 PLAYER have to go to the command room to take documents**"
 	{
 		"chi"		"**1名玩家必须到指挥室去拿证件 **"
+		"ico"           "icon_fire"
 	}
 	"**The documents are here!**We are too close!**"
 	{
@@ -196,7 +200,7 @@
 	}
 	"**RUN RUN RUN!!!**"
 	{
-		"chi"		"**跑跑跑！！ **"
+		"chi"		"**跑！！ **"
 	}
 	"**Good job!! You won stage 3!! New area opened!**"
 	{
@@ -250,6 +254,7 @@
 	"**Now go away to the coast**"
 	{
 		"chi"		"**现在去海岸  **"
+		"ico"           "icon_fire"
 	}
 	"**The blowout is comming**"
 	{
@@ -258,6 +263,7 @@
 	"**Prepare for ultimate survival. Fight for your life!!**"
 	{
 		"chi"		"**拼尽全力存活下来 **"
+		"ico"           "icon_fire"
 	}
 	"**FIREBALL GOT MAXIMUM POWER**"
 	{
@@ -274,11 +280,13 @@
 	"**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**"
 	{
 		"chi"		"**所有神器升级到最高级**在必要时使用 **"
+		"ico"           "icon_fire"
 	}
 	"**PREPARE TO MOVE IN 10 SECONDS!**"
 	{
 		"chi"		"**准备在10秒后撤退 **"
 		"DoorCountdown"		"10"
+		"ico"           "icon_fire"
 	}
 	"**GO!!**GO!!**GO!!**"
 	{
@@ -298,7 +306,7 @@
 	}
 	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
 	{
-		"chi"		"**又是这家伙！！他想杀死我们！你可以开枪！！！ **"
+		"chi"		"**又是这家伙！！他想杀死我们！快开枪！！！ **"
 	}
 	"**HE IS DEAD!!NICE WORK!!**"
 	{
@@ -342,10 +350,10 @@
 	}
 	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员可以在调关房开启第五关 **"
 	}
 	"You are too slow..."
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了... **"
 	}
 }
