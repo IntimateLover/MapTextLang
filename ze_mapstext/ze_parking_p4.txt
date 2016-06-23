@@ -2,7 +2,7 @@
 {
 	">>You are the last survivors of the zombie infection<<"
 	{
-		"chi"		"**你是最后的生存者在这次的僵尸感染中**"
+		"chi"		"**在这次的僵尸感染中你是最后的生存者**"
 	}
 	">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
 	{
@@ -14,7 +14,7 @@
 	}
 	">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
 	{
-		"chi"		"**第①关 撤离点：电梯**"
+		"chi"		"**第一关 撤离点：电梯**"
 	}
 	">>Let's go ! but be carefull ! there are still some zombies around us<<"
 	{
@@ -26,7 +26,7 @@
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"chi"		"**地图作者：LeGrem 翻译:挂机的minde**"
+		"chi"		"**地图作者：LeGrem 翻译:minde**"
 	}
 	">>>Thx to JorisCeoen for help with models<<<"
 	{
@@ -51,7 +51,7 @@
 	}
 	">>FLOOR UNSTABLE ! TAKE CARE !<<"
 	{
-		"chi"		"**地板不稳定!小心!**"
+		"chi"		"**地板会碎!小心!**"
 	}
 	">>TAKE THE ELEVATORS<<"
 	{
@@ -92,7 +92,7 @@
 	}
 	">>>>Only 15 Proxi Mines<<<<"
 	{
-		"chi"		"**只有15个**"
+		"chi"		"**只有15个地雷**"
 	}
 	">>>>Proxi Mine has been picked<<<<"
 	{
@@ -206,30 +206,30 @@
 	}
 	">>>RESTART AT NORMAL LEVEL 1<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关将会回到正常的第一关**"
 	}
 	">>But they wont wait for long time !<<"
 	{
-		"chi"		"** **"
+		"chi"		"**但他们不会等我们很久**"
 	}
 	">>Lets go ! but be carefull ! there are still some zombies around us<<"
 	{
-		"chi"		"** **"
+		"chi"		"**走起!但要小心!这里还是有僵尸在附近**"
 	}
 	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**不能拿特别神器了!僵尸进来直升机了**"
 	}
 	">>>>Only one Shot - 10s of loading<<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**就一发！10秒后才会发射**"
 	}
 	">>>>Electro Gun has been picked<<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**电击枪被捡起**"
 	}
 	">>>>Electro Gun shoot in 10s<<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**电击枪10秒后发射**"
 	}
 }
