@@ -2,74 +2,83 @@
 {
 	"Map made by Ripsaw"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Ripsaw 翻译：比那名居天子**"
 	}
 	"***Gate will open in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在20秒后打开**"
+		"DoorCountdown"		"20"
 	}
 	">>> Door will open in 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后开启**"
+		"DoorCountdown"		"10"
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒后开启**"
+		"DoorCountdown"		"10"
 	}
 	">> Door will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在40秒后开启**"
+		"DoorCountdown"		"40"
 	}
 	">>> Zombies will teleport in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	">>> Bridge will open in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大桥将在15秒后开始延伸**"
+		"DoorCountdown"		"15"
 	}
 	">>> Doors open in 25 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门25秒后开启**"
+		"DoorCountdown"		"25"
 	}
 	">>> Doors open in 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**门5秒后开启**"
 	}
 	">>> Zombies will teleport in 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	">>> Defend both ways <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**防守所有的来路**"
 	}
 	">>> Gate will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在40秒后开启**"
+		"DoorCountdown"		"40"
 	}
 	">>> Gate will open in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后开启**"
+		"DoorCountdown"		"15"
 	}
 	">>> Lasers disabled <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**激光禁用**"
 	}
 	">>> Zombie Inside final room, slaying all in 3 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入了最后的房间，3秒后处死所有玩家**"
 	}
 	">>> Zombie inside final room, slaying all in 3 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入了最后的房间，3秒后处死所有玩家**"
 	}
 	">>> Someone needs to climb up and press the nuke <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**需要一个人爬上去并按下核爆开关**"
 	}
 	">>> Gate will close in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后关闭**"
+		"DoorCountdown"		"15"
 	}
 }
