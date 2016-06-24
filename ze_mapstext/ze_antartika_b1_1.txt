@@ -14,7 +14,7 @@
 	}
 	"** This path should lead us to one of the several supply warehouses... **"
 	{
-		"chi"		"**这条路径应该能引导我们到几个供应仓库的一个… **"
+		"chi"		"**这条路径应该能引导我们进入几个供应仓库的一个… **"
 	}
 	"** BLIZARD MODE ENABLED: DIFFICULTY INCREASED **"
 	{
@@ -46,11 +46,11 @@
 	}
 	"** Resist while we wait for the doors to open! **"
 	{
-		"chi"		"**在我们等待门打开的时候守住 **"
+		"chi"		"**在我们等待门打开时守住 **"
 	}
 	"** Well need to reach one of the gas deposits to blow it up and delay their plans... **"
 	{
-		"chi"		"**我们需要到达天然气储气罐之一，将其炸毁，拖延他们的计划... **"
+		"chi"		"**我们需要到达天然气储气罐的一个，将其炸毁，拖延他们的计划... **"
 	}
 	"** Look at that! There is enough weaponry to start a massive offensive... **"
 	{
@@ -58,7 +58,7 @@
 	}
 	"** According to our information we should be nearing a maintenance zone... **"
 	{
-		"chi"		"**根据我们的信息来看，我们应该接近维修区... **"
+		"chi"		"**根据我们的信息来看，我们应该正在接近维修区... **"
 	}
 	"** The maintenance elevator should be enough to access the upper levels. **"
 	{
@@ -82,7 +82,7 @@
 	}
 	"** Resist! This door shall take us to one of the middle areas! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！从这扇门出去应该能到另外一个区域 **"
 	}
 	"** Keep it up! Its about to open! **"
 	{
@@ -94,7 +94,7 @@
 	}
 	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
 	{
-		"chi"		"**OAGH！这里很臭！屏住呼吸抵抗！ **"
+		"chi"		"**OAGH！这里很臭！屏住呼吸守住！ **"
 	}
 	"** The stench is unbearable! Were opening the door as fast as we can - HOLD THEM! **"
 	{
@@ -110,7 +110,7 @@
 	}
 	"** GET CLOSE! Were about to breach in! **"
 	{
-		"chi"		"**靠近！就要突破了 **"
+		"chi"		"**靠近！就要突破了！ **"
 	}
 	"** We need to find a way to make those tanks blow up! **"
 	{
@@ -134,7 +134,7 @@
 	}
 	"** This is our way out! Defend the elevator until it leaves! **"
 	{
-		"chi"		"**这是我们离开的路！守住电梯，直到它离开！ **"
+		"chi"		"**这是最后一个点了！守住电梯，直到它离开！ **"
 	}
 	"** ZOMBIES DETECTED - INVALID VICTORY! **"
 	{
@@ -158,7 +158,7 @@
 	}
 	"** Resist! These security doors are sturdy - theyll take a bit to unlock! **"
 	{
-		"chi"		"**守住！这些门很坚固-我们需要解锁 **"
+		"chi"		"**守住！这些门很坚固-我们需要时间解锁 **"
 	}
 	"** Keep it up! Were almost there. **"
 	{
@@ -214,7 +214,7 @@
 	}
 	"** ONE LAST EFFORT! HOLD IT!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**努力一下！守住它！ **"
 	}
 	"** Keep going! We should soon reach the surface and see the iced fields of Antartika... **"
 	{
@@ -250,7 +250,7 @@
 	}
 	"** We need to hold! Well place charges on this bridge for it to blow up! **"
 	{
-		"chi"		"**我们需要守住！炸毁这座桥上收费的地方！ **"
+		"chi"		"**我们需要守住！炸毁这座桥！ **"
 	}
 	"** The bomb is being planted! Dont let them past the middle of the bridge! *"
 	{
@@ -270,7 +270,7 @@
 	}
 	"** Shall we decide our fate at last... **"
 	{
-		"chi"		"**我们将决定我们的命运，最后... **"
+		"chi"		"**最后我们将决定我们的命运... **"
 	}
 	"** We should be able to open these doors... Cover! **"
 	{
