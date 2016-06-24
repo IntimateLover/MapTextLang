@@ -100,11 +100,11 @@
 	}
 	"***Barrel Used***"
 	{
-		"chi"		"**桶使用 **"
+		"chi"		"**桶已使用 **"
 	}
 	"***Ice Used***"
 	{
-		"chi"		"**冰使用 **"
+		"chi"		"**冰已使用 **"
 	}
 	"***5 seconds left***"
 	{
@@ -121,11 +121,13 @@
 	}
 	"***A Train is coming...***"
 	{
-		"chi"		"**火车来了…… **"
+		"chi"		"**火车来了……（快开枪射击火车） **"
+		"ico"		"icon_fire"
 	}
 	"***Wind Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了风（请迅速按住反方向键） **"
+		"ico"		"icon_fire"
 	}
 	"***All Boxes are broken***"
 	{
@@ -142,82 +144,85 @@
 	}
 	"***Gravity Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了重力 **"
+		"ico"		"icon_fire"
 	}
 	"[Music] Yu_asahina vs. orangentle - HAELEQUIN"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Yu_asahinavs.orangentle-HAELEQUIN**"
 	}
 	"[Music] eXceed3rd - JADE PENETRATE"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]eXceed3rd - JADE PENETRATE **"
 	}
 	"[Music] xi+norar2 - Dreadnought"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]xi+norar2 - Dreadnought **"
 	}
 	"[Music] Space princess heeman"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Space princess heeman **"
 	}
 	"[Music] XI - Freedom dive"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]XI - Freedom dive **"
 	}
 	"[Music] Duke Nukem - Alien Reactor (Acid B)"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Duke Nukem - Alien Reactor (Acid B) **"
 	}
 	"***Train aboarded***"
 	{
-		"chi"		"** **"
+		"chi"		"**搭乘火车 **"
 	}
 	"***Level Failed***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	"[Music] Immediate Music - Electric Romeo"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Immediate Music - Electric Romeo **"
 	}
 	"[Music] Tatsh - IMAGE MATRIAL-(Version 0)"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Tatsh - IMAGE MATRIAL-(Version 0) **"
 	}
 	"[Music] Yooh - mariannE"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Yooh - mariannE**"
 	}
 	"[Music] Panda Eyes & Teminite - High Score"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Panda Eyes & Teminite - High Score **"
 	}
 	"[Music] Das Beer Boot Featuring Hans Gratel"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Das Beer Boot Featuring Hans Gratel **"
 	}
 	"[Music] Pissed Office Box(Norvaks Goa remix)"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Pissed Office Box(Norvaks Goa remix) **"
 	}
 	"[Music] FFVII Advent children - Sara ni Tatakau Monotachi"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]FFVII Advent children - Sara ni Tatakau Monotachi **"
 	}
 	"[Music] a_hisa - Pastel Subliminal"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]a_hisa - Pastel Subliminal **"
 	}
 	"***Low Gravity Mod***"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力模式开启 **"
 	}
 	"***Go Back to teleport place***"
 	{
-		"chi"		"** **"
+		"chi"		"**回到传送点 **"
+		"ico"		"icon_fire"
 	}
 	"***Teleport activates in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后激活传送点 **"
+		"DoorCountDown" "30"
 	}
 }
