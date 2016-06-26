@@ -2,111 +2,118 @@
 {
 	"*** MAP MADE BY KAGALERA ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：KAGALERA **"
 	}
 	"*** FIXED BY SKULLZ AND LEV ***"
 	{
-		"chi"		"** **"
+		"chi"		"**修正了骷髅和LEV **"
 	}
 	"*** WARMUP ROUND ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合 **"
 	}
 	"*** STARTING THE MAP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**启动地图 **"
 	}
 	"*** MAP MADE BY KAGALERA***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：KAGALERA **"
 	}
 	"*** MUSIC VOLUME CAN BE ADJUSTED IN THE SOUND SETTINGS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐的音量可以在声音设置里调节 **"
 	}
 	"*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门 A5 和 C2将在5秒后破碎 **"
 	}
 	"*** CURRENT DIFFICULTY --- EASY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关难度---简单 **"
 	}
 	"*** ELYS PUSHER HAS BEEN PICKED UP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**推力已被捡起 **"
 	}
 	"*** FLAME OF UDUN HAS BEEN PICKED UP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**火已被捡起 **"
 	}
 	"*** DOOR OPENING IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	"*** DOOR OPENING IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门10秒后打开 **"
 	}
 	"*** 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"*** ELEVATOR LEAVES IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯30秒后离开 **"
+		"DoorCountDown" "30"
 	}
 	"*** 10 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒 **"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒 **"
 	}
 	"*** ELEVATOR IS LEAVING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯已经离开 **"
 	}
 	"*** WALL BREAKS IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁在20秒后破碎 **"
+		"DoorCountDown" "20"
 	}
 	"*** FALL BACK! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**后退！ **"
 	}
 	"*** WALL BREAKS IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁在15秒后破碎 **"
+		"DoorCountDown" "15"
 	}
 	"*** MOVE!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"*** DOOR OPENING IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门5秒后打开 **"
 	}
 	"*** DOOR OPENING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"*** FALL BACK!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**后退！ **"
 	}
 	"*** HOLD YOUR POSITIONS!! GATES WILL OPEN IN 25 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住！门25秒后打开 **"
+		"DoorCountDown" "25"
 	}
 	"*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在楼顶集结！！ **"
 	}
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯在20秒后离开 **"
+		"DoorCountDown" "20"
 	}
 	"*** 3 ***"
 	{
@@ -122,106 +129,111 @@
 	}
 	"*** MISSILES INBOUND ***"
 	{
-		"chi"		"** **"
+		"chi"		"**导弹入境 **"
 	}
 	"*** 35 SECONDS FOR IMPACT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**35秒后导弹爆炸 **"
 	}
 	"*** HELICOPTER IS NEAR FALL BACK!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机在附近！后退！！！ **"
 	}
 	"*** 10 SECONDS!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒 **"
 	}
 	"*** THE HELICOPTER IS HERE!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机在这里！！！ **"
 	}
 	"*** EASY DIFFICULTY COMPLETE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**简单难度已完成**"
 	}
 	"*** MOVING ON TO NORMAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**继续前进 **"
 	}
 	"*** CURRENT DIFFICULTY --- NORMAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关难度---正常 **"
 	}
 	"*** ZOMBIES ESCAPED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸逃走了！ **"
 	}
 	"*** RESTARTING EASY DIFFICULTY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**重新启动简单难度 **"
 	}
 	"*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**让他们在建筑内25秒 **"
+		"DoorCountDown" "25"
 	}
 	"*** FALL BACK!!! WE ARE SAFE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**后退!!!我们是安全的！ **"
 	}
 	"*** WAIT... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待... **"
 	}
 	"*** DAFUQ IS THAT?! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**DAFUQ呢? ! **"
 	}
 	"*** ANYWAY SHOOT IT!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不管怎样 开枪射击！！！ **"
 	}
 	"*** AGM MISSILE HAS BEEN DEPLOYED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹已部署 **"
 	}
 	"*** AGM MISSILE WILL KILL US IN 100 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹将在100秒后杀死我们 **"
+		 "ico"   "icon_fire"
 	}
 	"*** AGM MISSILE IN 50 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在50秒后发射 **"
+		 "ico"   "icon_fire"
 	}
 	"*** AGM MISSILE IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在20秒后发射 **"
+		 "ico"   "icon_fire"
 	}
 	"*** AGM MISSILE IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在10秒后发射 **"
+		 "ico"   "icon_fire"
 	}
 	"*** AGM MISSILE IN 5s!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在5秒后发射！！！！！ **"
 	}
 	"*** AGM MISSILE IN 4s!!!!!!!!!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在4秒后发射！！！！！ **"
 	}
 	"*** AGM MISSILE IN 3s!!!!!!!!!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在3秒后发射！！！！！ **"
 	}
 	"*** AGM MISSILE IN 2s!!!!!!!!!!!!!!!!!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在2秒后发射！！！！！ **"
 	}
 	"*** AGM MISSILE IN 1s!!!!!!!!!!!!!!!!!!!!!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**AGM导弹在1秒后发射！！！！！ **"
 	}
 	"*** REGROUP OUTSIDE NOW!! WE DONT HAVE MUCH TIME!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在外面集合！我们没有多少时间了！！ **"
 	}
 }
