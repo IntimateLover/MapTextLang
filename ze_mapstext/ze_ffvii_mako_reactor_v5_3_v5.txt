@@ -266,6 +266,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告！巴哈姆特将要释放红终！准备好使用3级奶！！**"
+		"ico"   "icon_fire" 
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -318,10 +319,12 @@
 	"** BAHAMUT HAS CAST FIRE! **"
 	{
 		"chi"		"**巴哈姆特释放了火！！（往后退！！）**"
+		"ico"   "icon_fire" 
 	}
 	"** BAHAMUT HAS CAST ELECTRO! **"
 	{
 		"chi"		"**巴哈姆特释放了电！！（跳上栏杆！！）**"
+		"ico"   "icon_fire" 
 	}
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
@@ -330,18 +333,22 @@
 	"** BAHAMUT HAS CAST WIND **"
 	{
 		"chi"		"**巴哈姆特释放了风！！**"
+		"ico"   "icon_fire" 
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
 		"chi"		"**巴哈姆特释放了黑洞！！**"
+		"ico"   "icon_fire" 
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
 		"chi"		"**巴哈姆特释放了冰！！**"
+		"ico"   "icon_fire" 
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
 		"chi"		"**巴哈姆特释放了土！！集火打碎！！！**"
+		"ico"   "icon_fire" 
 	}
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
