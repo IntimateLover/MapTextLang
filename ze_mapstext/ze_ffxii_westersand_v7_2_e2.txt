@@ -90,6 +90,7 @@
 	"** METEOR INBOUND **"
 	{
 		"chi"		"陨石将至"
+		"ico"   "icon_fire"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
@@ -146,6 +147,7 @@
 	"** FIRE NOVA INBOUND **"
 	{
 		"chi"		"大火来袭"
+		"ico"   "icon_fire"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
