@@ -375,4 +375,12 @@
 	{
 		"chi"		"**一名玩家拾取了僵尸杀戮**"
 	}
+	">>> ADMIN CHANGED TO STAGE 5 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ADMIN PRESSED KILL ALL BUTTON <<<"
+	{
+		"chi"		"** **"
+	}
 }
