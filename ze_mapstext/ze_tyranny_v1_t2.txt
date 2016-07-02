@@ -242,7 +242,7 @@
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
-		"chi"		"**巨人施放了火（不要站在场地边缘）**"
+		"chi"		"**巨人施放了火**"
 		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA IS DEAD <<<"
@@ -278,7 +278,8 @@
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
-		"chi"		"**巨人施放了推**"
+		"chi"		"**巨人施放了推（不要站在场地边缘）**"
+		"ico"		"icon_fire"
 	}
 	">>> STAGE 5 <<<"
 	{
