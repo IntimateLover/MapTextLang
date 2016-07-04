@@ -44,7 +44,6 @@
 	{
 		"chi"		"**大门将在30秒后开启**"
 		"DoorCountdown"		"30"
-		
 	}
 	"*** DOOR OPENING IN 10 SECONDS ***"
 	{
@@ -232,5 +231,77 @@
 	"*** REGROUP OUTSIDE NOW!! WE DONT HAVE MUCH TIME!! ***"
 	{
 		"chi"		"**快在外面重新部署防御！没有多少时间留给我们浪费了！**"
+	}
+	"*** SPIDER TANK HAS BEEN DESTROYED!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO INTO THE TRAIN STATION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING IN 35 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NORMAL DIFFICULTY COMPLETE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MOVING ON TO HARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT DIFFICULTY --- HAAAAAAARD!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NADES DO MORE DAMAGE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RAGEMODE ON!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WATCH OUT FOR ELECTRICITY WAVES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEEP MOVING FORWARD!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE LAST TRAIN IS COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU DID IT!!!! YOU WON ALL DIFFICULTIES!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP RESET ACTIVATED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HARD DIFFICULTY SET ON ADMIN ROOM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOOM BAM BOP BATTA BOP BOOP POW ***"
+	{
+		"chi"		"** **"
 	}
 }

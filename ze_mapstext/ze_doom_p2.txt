@@ -229,5 +229,8 @@
 	{
 		"chi"		"**作者 Eugenio *Motanum* Roman**"
 	}
-
+	"** 10 seconds left to kill boss! **"
+	{
+		"chi"		"** **"
+	}
 }
