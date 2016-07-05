@@ -7,37 +7,44 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	"*** Hold 25 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"25"
 	}
 	"*** doors opens 10 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"10"
 	}
 	"*** Door opens 25 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"25"
 	}
 	"*** Middle door opens 15 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"*** Door opens 35 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"35"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸登上了平台**"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**回合失败**"
 	}
 }
