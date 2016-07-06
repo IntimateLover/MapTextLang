@@ -1,0 +1,232 @@
+"Console_T"
+{
+	"***CURRENT MODE >>>BOSS<<<***"
+	{
+		"chi"		"**当前模式>>>BOSS<<< **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"**地图修改:Reflelia 地图翻译：蓬莱山帅比♪ **"
+	}
+	"***Special thanks to Bbo & Mentalspin***"
+	{
+		"chi"		"**特别感谢BBO和mentalspin **"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"chi"		"**当前模式>>>正常 <<< **"
+	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"chi"		"**当前模式>>>自定义<<< **"
+	}
+	"***Wind picked up***"
+	{
+		"chi"		"**风已被拿起 **"
+	}
+	"***Barrel picked up***"
+	{
+		"chi"		"**桶已被拿起 **"
+	}
+	"***Teleport activates in few seconds***"
+	{
+		"chi"		"**在几秒钟后激活传送 **"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"***Break the box***"
+	{
+		"chi"		"**打破箱子 **"
+	}
+	"***Gate opening in 45 seconds***"
+	{
+		"chi"		"**门在45秒后打开 **"
+		"DoorCountdown"		"45"
+	}
+	"***Wind Used***"
+	{
+		"chi"		"**风使用 **"
+	}
+	"***Player picked up Radio***"
+	{
+		"chi"		"**玩家拿起无线电 **"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"**核弹准备发射 **"
+	}
+	"***30 seconds left***"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"**核弹爆炸 **"
+	}
+	"***Speed Picked up***"
+	{
+		"chi"		"**加速已被拿起 **"
+	}
+	"***Ice picked up***"
+	{
+		"chi"		"**冰已被拿起 **"
+	}
+	"***Barrel Used***"
+	{
+		"chi"		"**桶已使用 **"
+	}
+	"***Ice Used***"
+	{
+		"chi"		"**冰已使用 **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"**火车5秒后离开 **"
+		"DoorCountdown"		"5"
+	}
+	"***CURRENT MODE >>>SOFA<<<***"
+	{
+		"chi"		"**当前模式>>>沙发<<< **"
+	}
+	"***Break all walls and boxes with sofa***"
+	{
+		"chi"		"**用沙发打破所有的墙壁和箱子 **"
+	}
+	"***A Train is coming...***"
+	{
+		"chi"		"**火车来了……（快开枪射击火车） **"
+		"ico"		"icon_fire"
+	}
+	"***Wind Casted***"
+	{
+		"chi"		"**BOSS使用了风（请迅速按住反方向键） **"
+		"ico"		"icon_fire"
+	}
+	"***All Boxes are broken***"
+	{
+		"chi"		"**所有的箱子都被打破了 **"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"***You clear sofa mode***"
+	{
+		"chi"		"**你通过了沙发模式 **"
+	}
+	"***Gravity Casted***"
+	{
+		"chi"		"**BOSS使用了重力 **"
+		"ico"		"icon_fire"
+	}
+	"[Music] Yu_asahina vs. orangentle - HAELEQUIN"
+	{
+		"chi"		"**[音乐]Yu_asahinavs.orangentle-HAELEQUIN**"
+	}
+	"[Music] eXceed3rd - JADE PENETRATE"
+	{
+		"chi"		"**[音乐]eXceed3rd - JADE PENETRATE **"
+	}
+	"[Music] xi+norar2 - Dreadnought"
+	{
+		"chi"		"**[音乐]xi+norar2 - Dreadnought **"
+	}
+	"[Music] Space princess heeman"
+	{
+		"chi"		"**[音乐]Space princess heeman **"
+	}
+	"[Music] XI - Freedom dive"
+	{
+		"chi"		"**[音乐]XI - Freedom dive **"
+	}
+	"[Music] Duke Nukem - Alien Reactor (Acid B)"
+	{
+		"chi"		"**[音乐]Duke Nukem - Alien Reactor (Acid B) **"
+	}
+	"***Train aboarded***"
+	{
+		"chi"		"**搭乘火车 **"
+	}
+	"***Level Failed***"
+	{
+		"chi"		"**本关失败 **"
+	}
+	"[Music] Immediate Music - Electric Romeo"
+	{
+		"chi"		"**[音乐]Immediate Music - Electric Romeo **"
+	}
+	"[Music] Tatsh - IMAGE MATRIAL-(Version 0)"
+	{
+		"chi"		"**[音乐]Tatsh - IMAGE MATRIAL-(Version 0) **"
+	}
+	"[Music] Yooh - mariannE"
+	{
+		"chi"		"**[音乐]Yooh - mariannE**"
+	}
+	"[Music] Panda Eyes & Teminite - High Score"
+	{
+		"chi"		"**[音乐]Panda Eyes & Teminite - High Score **"
+	}
+	"[Music] Das Beer Boot Featuring Hans Gratel"
+	{
+		"chi"		"**[音乐]Das Beer Boot Featuring Hans Gratel **"
+	}
+	"[Music] Pissed Office Box(Norvaks Goa remix)"
+	{
+		"chi"		"**[音乐]Pissed Office Box(Norvaks Goa remix) **"
+	}
+	"[Music] FFVII Advent children - Sara ni Tatakau Monotachi"
+	{
+		"chi"		"**[音乐]FFVII Advent children - Sara ni Tatakau Monotachi **"
+	}
+	"[Music] a_hisa - Pastel Subliminal"
+	{
+		"chi"		"**[音乐]a_hisa - Pastel Subliminal **"
+	}
+	"***Low Gravity Mod***"
+	{
+		"chi"		"**低重力模式开启 **"
+	}
+	"***Go Back to teleport place***"
+	{
+		"chi"		"**回到传送点 **"
+		"ico"		"icon_fire"
+	}
+	"***Teleport activates in 30 seconds***"
+	{
+		"chi"		"**30秒后激活传送点 **"
+		"DoorCountdown"		"30"
+	}
+	"[Music] Yooh - Ice Angel"
+	{
+		"chi"		"** **"
+	}
+}
