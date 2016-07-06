@@ -31,10 +31,12 @@
 	"***10 seconds to Open Door***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"10"
 	}
 	"***30 seconds to extinguishment***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待30秒后火焰熄灭**"
+		"DoorCountdown"		"30"
 	}
 	"***5 seconds***"
 	{
@@ -43,14 +45,15 @@
 	"***15 seconds to Close Door***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"***ERROR Security System Activate***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统激活错误**"
 	}
 	"***Unlock Securty Systems***"
 	{
-		"chi"		"** **"
+		"chi"		"**解锁安全系统（一位玩家从后到前触发开关，其余玩家贴门按住S开枪）**"
 	}
 	"*** button 1 Unlocked***"
 	{
@@ -74,11 +77,12 @@
 	}
 	"***All Securty System Unlocked***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的安全系统解锁*"
 	}
 	"*** 20 seconds to Open Door ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	"*** 10 seconds ***"
 	{
@@ -87,6 +91,7 @@
 	"*** 15 seconds to Explosion Bomb ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"*** 5 SECONDS ***"
 	{
@@ -98,27 +103,31 @@
 	}
 	"*** 30 seconds to Activate Lift ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后电梯离开**"
+		"DoorCountdown"		"30"
 	}
 	"*** Elevator Teleport ON ***"
 	{
-		"chi"		"** **"
+		"chi"		"**激活电梯传送**"
 	}
 	"*** 35 seconds to Open Door ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"35"
 	}
 	"***20 seconds to Activate machine***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后机器启动**"
+		"DoorCountdown"		"20"
 	}
 	"*** Negative Legacy Activate button[12] ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Negative Legacy按钮激活[1/2]**"
 	}
 	"*** 30 seconds to Nuke ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"*** Save Data Loading... ***"
 	{
@@ -131,22 +140,27 @@
 	"*** 10 seconds to Main Door Open ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"10"
 	}
 	"*** 20 seconds to Activate Elevator ***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后激活电梯**"
+		"DoorCountdown"		"20"
 	}
 	"*** 20 seconds to box break ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	"*** 20 seconds to  Open Door ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	"*** 30 seconds to Open Door ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"*** 5seconds ***"
 	{
@@ -154,47 +168,54 @@
 	}
 	"*** Wait for Rocks break ***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待岩石破裂**"
 	}
 	"*** Rocks Broken ***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石破裂**"
+		"ico"		"icon_fire"
 	}
 	"*** Negative Legacy Activate button[22] ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Negative Legacy按钮激活[2/2]**"
 	}
 	"*** 30 seconds to Activate Negative Legacy ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后激活Activate Negative遗产**"
+		"DoorCountdown"		"30"
 	}
 	"*** Found intruders ***"
 	{
-		"chi"		"** **"
+		"chi"		"**发现入侵者**"
 	}
 	"*** Negative Legacy Defend System Activated..... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Negative Legacy防御系统激活.....**"
 	}
 	"*** 2 ***"
 	{
 		"chi"		"** **"
+		"ico"		"icon_fire"
 	}
 	"*** 1 ***"
 	{
 		"chi"		"** **"
+		"ico"		"icon_fire"
 	}
 	"*** 3 ***"
 	{
 		"chi"		"** **"
+		"ico"		"icon_fire"
 	}
 	"*** 4 ***"
 	{
 		"chi"		"** **"
+		"ico"		"icon_fire"
 	}
 	"*** 1 2 3 4 ***"
 	{
 		"chi"		"** **"
+		"ico"		"icon_fire"
 	}
 	"*** Transform ***"
 	{
@@ -202,15 +223,17 @@
 	}
 	"*** Shoot Head ***"
 	{
-		"chi"		"** **"
+		"chi"		"**射击头部**"
+		"ico"		"icon_fire"
 	}
 	"*** Negative Legacy Teleporter Activate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Negative Legacy传送激活**"
 	}
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"*** Welcome to Negative Legacy ***"
 	{
@@ -219,6 +242,7 @@
 	"*** 10 seconds to Zombies KILL ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"10"
 	}
 	"*** STAGE 2 CLEAR ***"
 	{
