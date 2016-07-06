@@ -78,6 +78,7 @@
 	"** 15 miao hou da kai shi yan shi da men **"
 	{
 		"chi"		"**15秒后打开实验室大门 **"
+		"DoorCountDown" "15"
 	}
 	"** men kai le , kuai pao **"
 	{
@@ -86,6 +87,7 @@
 	"** zhe tie men 15 miao hou jiu hui kai **"
 	{
 		"chi"		"**铁门15秒后打开 **"
+		"DoorCountDown" "15"
 	}
 	"** ok lets gogogogogo **"
 	{
@@ -151,6 +153,7 @@
 	"** shou zhu ! fei ji 20 miao hou cai neng li kai ! **"
 	{
 		"chi"		"**守住！飞机20秒后起飞！ **"
+		"DoorCountDown" "20"
 	}
 	"** zui hou 10 miao ! **"
 	{
