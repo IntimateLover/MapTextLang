@@ -126,7 +126,7 @@
 	}
 	"***Wind Casted***"
 	{
-		"chi"		"**BOSS使用了风（请迅速按住反方向键） **"
+		"chi"		"**BOSS使用了风（请迅速按住W键） **"
 		"ico"		"icon_fire"
 	}
 	"***All Boxes are broken***"
@@ -144,7 +144,7 @@
 	}
 	"***Gravity Casted***"
 	{
-		"chi"		"**BOSS使用了重力 **"
+		"chi"		"**BOSS使用了重力（请不要靠近重力区域） **"
 		"ico"		"icon_fire"
 	}
 	"[Music] Yu_asahina vs. orangentle - HAELEQUIN"
