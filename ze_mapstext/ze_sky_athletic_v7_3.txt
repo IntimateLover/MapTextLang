@@ -1,5 +1,3 @@
-"Console_T"
-{
 	"*** STAGE 1 ***"
 	{
 		"chi"		"**第一关**"
@@ -51,6 +49,7 @@
 	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL2传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -71,6 +70,7 @@
 	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL3传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -91,6 +91,7 @@
 	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL4传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -111,6 +112,7 @@
 	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL5传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -131,6 +133,7 @@
 	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL6传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -151,6 +154,7 @@
 	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL7传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -171,6 +175,7 @@
 	"*** HOLD THIS POTISION for 30 SECONDS***"
 	{
 		"chi"		"**坚守30秒**"
+		"DoorCountDown" "30"
 	}
 	"*** HOLD THIS POTISION for 20 SECONDS***"
 	{
@@ -199,6 +204,7 @@
 	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL9传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -219,6 +225,7 @@
 	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL10传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
 	{
@@ -231,6 +238,7 @@
 	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**LEVEL10传送点20秒后激活**"
+		"DoorCountDown" "20"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
@@ -247,6 +255,7 @@
 	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
 	{
 		"chi"		"**LEVEL11传送点40秒后激活**"
+		"DoorCountDown" "40"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
@@ -279,6 +288,7 @@
 	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL12传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
 	{
@@ -307,6 +317,7 @@
 	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL13传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -335,6 +346,7 @@
 	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL14传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -355,6 +367,7 @@
 	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯将在20秒后上升**"
+		"DoorCountDown" "20"
 	}
 	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
 	{
@@ -407,6 +420,7 @@
 	"*** STAGE COMPLETE IN 30 SECONDS ***"
 	{
 		"chi"		"**坚守30秒**"
+		"DoorCountDown" "30"
 	}
 	"*** STAGE COMPLETE IN 20 SECONDS ***"
 	{
@@ -443,6 +457,7 @@
 	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL16传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -463,6 +478,7 @@
 	"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL17传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -483,6 +499,7 @@
 	"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL18传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -503,6 +520,7 @@
 	"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL19传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -527,6 +545,7 @@
 	"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL20传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -547,6 +566,7 @@
 	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**最后的传送点30秒后激活**"
+		"DoorCountDown" "30"
 	}
 	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -607,10 +627,13 @@
 	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
 	{
 		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
+		"DoorCountDown" "30"
+		"ico"   "icon_fire"
 	}
 	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
 	{
 		"chi"		"**坚守20秒（站在平台两边守，中间德国BOY会冲过来）**"
+		"ico"   "icon_fire"
 	}
 	"*** !? ***"
 	{
@@ -754,39 +777,39 @@
 	}
 	"CAPTAIN CLOUD :O...Oh my god... I lose..."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：哦...哦，我的上帝...我输了... **"
 	}
 	"CAPTAIN CLOUD :Hey... You are very strong...."
 	{
-		"chi"		"** **"
+		"chi"		"**队长:嘿...你很强.... **"
 	}
 	"CAPTAIN CLOUD :I think..."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：我认为... **"
 	}
 	"CAPTAIN CLOUD : you can defeat new formation of invader..."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：你可以打败入侵者的新形态... **"
 	}
 	"CAPTAIN CLOUD :knowing you..."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：认识你... **"
 	}
 	"CAPTAIN CLOUD :See you again..."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：再见... **"
 	}
 	"*** You defeated captain cloud ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你打败了上尉 **"
 	}
 	"*** Zombie will come in 10 seconds  ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后释放 **"
 	}
 	"*** ZOMBIES ARE COMING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了 **"
 	}
 	"!?"
 	{
@@ -794,19 +817,19 @@
 	}
 	"CUTE CLOUD :Hey humans !!"
 	{
-		"chi"		"** **"
+		"chi"		"**萌云：嘿.人类！！ **"
 	}
 	"CUTE CLOUD :I can't allow you even my captain trust you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**萌云：我不能让我的队长都相信你！！ **"
 	}
 	"CUTE CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**萌云：接受我最后的攻击吧！！！！！！！！！ **"
 	}
 	">>> AIR SLASHER IS COMING <<<< AVOID IT DUCK OR JUMP !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>空气刀来了 <<<躲避它或跳！！！**"
 	}
 	"Remember : 5 COUNTS !!!!!"
 	{
@@ -814,95 +837,96 @@
 	}
 	"CUTE CLOUD :AAAHhhhh...."
 	{
-		"chi"		"** **"
+		"chi"		"**萌云：AAAHhhhh....**"
 	}
 	"*** STAGE 2 :EXTREME COMPLETED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**EX2完成 **"
 	}
 	"*** STAGE 3: EXTREME ***"
 	{
-		"chi"		"** **"
+		"chi"		"**EX3 **"
 	}
 	"*** We don't know what will happen... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们不知道会发生什么…… **"
 	}
 	"*** GOOD LUCK... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**祝你好运... **"
 	}
 	"*** HE ISN'T HERE...?***"
 	{
-		"chi"		"** **"
+		"chi"		"**他不在这里......？ **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**请在30秒内完成EX模式 **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**请在20秒内完成EX模式 **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**请在10秒内完成EX模式 **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**请在5秒内完成EX模式 **"
 	}
 	"*** EXTREME STAGE COMPLETED...? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**EX模式完成了？ **"
 	}
 	"*** JUMP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳跃 **"
 	}
 	"*** Where are we...? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们在哪里…? **"
 	}
 	"*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：未知区域 **"
 	}
 	"*** Wait until esc key come ***"
 	{
-		"chi"		"** **"
+		"chi"		"**等到ESC键来 **"
 	}
 	"*** Star road will active in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**星光大道将在20秒后启动 **"
+		"DoorCountDown" "20"
 	}
 	"*** Star road will active in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**星光大道将在5秒后启动 **"
 	}
 	"*** YOU CAN ACROSS NOW !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你现在可以在上面走动！！ **"
 	}
 	"*** We have lost the escape route ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们已经没有退路了！ **"
 	}
 	"*** Wait until something happen ***"
 	{
-		"chi"		"** **"
+		"chi"		"**等到某事发生 **"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA **"
 	}
 	"CRASHER : You can't kill me forever !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：你永远杀不了我！！！ **"
 	}
 	"*** ZOMBIE WAVE ***"
 	{
@@ -910,23 +934,23 @@
 	}
 	"*** KEYBOARD ATTACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘攻击 **"
 	}
 	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>> 警告 <<<< 键盘RUSH**"
 	}
 	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：HAHAHA!!!什么滋味！！！？！？！？！ **"
 	}
 	"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：一切都结束了！！！HAHAHAHAHA!!! **"
 	}
 	"????? :That you won't !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**?????:你不会！！！ **"
 	}
 	"CAPTAIN CLOUD :Don't take hand for them !!"
 	{
@@ -934,19 +958,19 @@
 	}
 	"CAPTAIN CLOUD :Hey! Humans !! I will help you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**队长：嘿！人类！！我将帮助你！！ **"
 	}
 	"CAPTAIN :Pick up me !! I will attack him !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**队长：捡起我！！我会攻击他!!! **"
 	}
 	"*** A player has picked up the Captain cloud ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起队长 **"
 	}
 	"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机:HAHAHA!!!无论你做什么都杀不了我！！！ **"
 	}
 	"*** TAPIOKA PUNCH ***"
 	{
@@ -954,7 +978,7 @@
 	}
 	"CRASHER :Wha...What...? I was defeated by them....?"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：什...什么...？我被他们打败了....？ **"
 	}
 	"CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
 	{
@@ -962,15 +986,15 @@
 	}
 	"CAPTAIN CLOUD :Thanks for helping defeat him...."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：谢谢你帮助我们打败了他... **"
 	}
 	"CAPTAIN CLOUD :You are our hero...."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：你是我们的英雄... **"
 	}
 	"CAPTAIN CLOUD :I don't forgot this thing. See you again...."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：我不会忘记这件事.再见... **"
 	}
 	"*** WE BACKED ***"
 	{
@@ -978,67 +1002,68 @@
 	}
 	"*** THIS IS OUR LAST STAND !!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是最后一站了！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 40 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在40秒后完成!!! **"
+		"DoorCountDown" "40"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 30 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在30秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 20 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在20秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 10 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在10秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 9 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在9秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 8 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在8秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 7 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在7秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 6 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在6秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 5 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在5秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 4 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在4秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 3 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在3秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 2 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在2秒后完成!!! **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 1 SECONDS !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空竞技将在1秒后完成!!! **"
 	}
 	"*** YOU COMPLETED SKY ATHLETIC !!!! CONGRATULATIONS !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**你通关了本神图！！！恭喜！！！ **"
 	}
 	"*** DRAIN KEYBOARD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**漏的键盘 **"
 	}
 	"*** FLYING CHANCE ***"
 	{
@@ -1046,83 +1071,83 @@
 	}
 	"*** ESC STORM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**ESC风暴 **"
 	}
 	"*** OVERRUN PROTECTER DISABLED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**超限保护禁用 **"
 	}
 	"*** OVERRUN PROTECTER ENABLED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**超限保护启用 **"
 	}
 	"*** KEYBOARD CUTTER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘刀 **"
 	}
 	"*** Marathon MODE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**马拉松模式 **"
 	}
 	"*** Random trigger activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**随机触发一种模式 **"
 	}
 	"*** Soft move trigger ***"
 	{
-		"chi"		"** **"
+		"chi"		"**减速模式触发 **"
 	}
 	"*** Low friction Trigger ***"
 	{
-		"chi"		"** **"
+		"chi"		"**低摩擦模式触发 **"
 	}
 	"*** Low gravity Trigger ***"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力模式触发 **"
 	}
 	"*** THE CUTE CLOUD IS ANGRY!! DONT STOP SHOOTING!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**萌云很生气! !不要停止射击! ! **"
 	}
 	"CUTE CLOUD :I dont fight with you..."
 	{
-		"chi"		"** **"
+		"chi"		"**萌云：我不与你战斗… **"
 	}
 	"*** KEY BOARD CRASHER IS ANGRY!! DONT STOP SHOOTING!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘粉碎机很生气!!不要停止射击！！ **"
 	}
 	"CUTE CLOUD :I cant allow you even my captain trust you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**萌云：我不能让我的队长信任你！！ **"
 	}
 	"*** We dont know what will happen... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们不知道会发生什么… **"
 	}
 	"*** HE ISNT HERE...?***"
 	{
-		"chi"		"** **"
+		"chi"		"**他不在这里...? **"
 	}
 	"CRASHER : You cant kill me forever !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：你永远都不能杀了我！！！ **"
 	}
 	"*** CRASHER HEALED 70 HP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机恢复了70HP **"
 	}
 	"CRASHER :HAHAHA!!! Whats the taste of this !!!?!?!?!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：HAHAHA!!!滋味怎么样！！！？！？！？ **"
 	}
 	"CRASHER :Its over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：一切都结束了！！！！！HAHAHAHAHA!!!!! **"
 	}
 	"????? :That you wont !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**?????：你不会！！！ **"
 	}
 	"CAPTAIN CLOUD :Dont take hand for them !!"
 	{
@@ -1130,15 +1155,15 @@
 	}
 	"CRASHER :HAHAHA !!! You cant kill me whatever you do anything !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**粉碎机：HAHAHA!!!无论你做什么事你都杀不了我！！！ **"
 	}
 	"CAPTAIN CLOUD :I dont forgot this thing. See you again...."
 	{
-		"chi"		"** **"
+		"chi"		"**队长：我不会忘了这件事.再见... **"
 	}
 	"*** Anti bhop DISABLED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**反连跳系统禁用 **"
 	}
 	"*** Screen trigger ***"
 	{
@@ -1146,46 +1171,46 @@
 	}
 	"*** TIME UP !! Someone go to the goal !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**时间到！！需要有人去触发！！ **"
 	}
 	"*** You have 10 seconds to select the level ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你有10秒种来选择关卡 **"
 	}
 	"*** All kill in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后杀死所有人 **"
 	}
 	"*** All kill in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后杀死所有人 **"
 	}
 	"*** Stage3 button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关按钮按下 **"
 	}
 	"*** Marathon mode button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**马拉松模式按钮按下 **"
 	}
 	"*** Stage2 button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关按钮按下 **"
 	}
 	"*** Stage1 button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关按钮按下 **"
 	}
 	"*** Stage2:EXTREME button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**EX2按钮按下 **"
 	}
 	"*** Stage3: EXTREME button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**EX3按钮按下 **"
 	}
 	"*** Stage1:EXTREME button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**EX1按钮按下 **"
 	}
 }
