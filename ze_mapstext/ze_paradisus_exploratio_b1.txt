@@ -2,15 +2,16 @@
 {
 	"** TAKE LEFT DOOR **"
 	{
-		"chi"		"** **"
+		"chi"		"**走左边的门 **"
+		"ico"   "icon_fire"
 	}
 	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
 	{
-		"chi"		"** **"
+		"chi"		"**进入大厅的中心访问SP物品室 **"
 	}
 	"** TRY TO USE THEM **"
 	{
-		"chi"		"** **"
+		"chi"		"**试着使用它们 **"
 	}
 	"** ZE_PARADISUS_EXPLORATIO **"
 	{
@@ -18,218 +19,232 @@
 	}
 	"** ROOT ONE **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	">>>DOOR BREAKING IN 20 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在20秒后打破<<< **"
+		"DoorCountDown" "20"
 	}
 	">>>HOLD<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住<<< **"
 	}
 	">>>DOOR BREAKING IN 30 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打破 **"
+		"DoorCountDown" "30"
 	}
 	">>>HHOOLLDD<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住<<< **"
 	}
 	">>>HOLDDDD<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住<<< **"
 	}
 	">>>DOOR BREAKING IN 15 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在15秒后打开<<< **"
 	}
 	">>>DOOR OPENING 20 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在20秒后打开<<< **"
+		"DoorCountDown" "20"
 	}
 	">>>DOOR OPENING IN 35 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在35秒后打开<<< **"
+		"DoorCountDown" "35"
 	}
 	">>>LAST HOLD 15 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住最后15秒<<< **"
 	}
 	">>>WAIT FOR TELEPORT<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>等待传送<<< **"
 	}
 	"** WE SECURED ROOT ONE **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们完成了第一关 **"
 	}
 	">>>LETS GO ROOT TWO<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>让我们前往第二关<<< **"
 	}
 	"*** MAP BY SATOKA***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：SATOKA **"
 	}
 	"** ROOT TWO **"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"** TAKE RIGHT DOOR **"
 	{
-		"chi"		"** **"
+		"chi"		"**走右边的门 **"
+		"ico"   "icon_fire"
 	}
 	"** IGNIS SWORD HAS BEEN PICKED UP >FIRE<**"
 	{
-		"chi"		"** **"
+		"chi"		"** IGNIS之剑已被拿起>火< **"
 	}
 	"** VENTUS SWORD HAS BEEN PICKED UP >WIND<**"
 	{
-		"chi"		"** **"
+		"chi"		"**VENTUS之剑已被拿起>风< **"
 	}
 	"** TERRA JAVELIN HAS BEEN PICKED UP >WALL< **"
 	{
-		"chi"		"** **"
+		"chi"		"**TERRA标枪已被拿起>墙< **"
 	}
 	"** GRACIES AXE HAS BEEN PICKED UP >ICE<**"
 	{
-		"chi"		"** **"
+		"chi"		"**GRACIE之斧已被拿起>冰< **"
 	}
 	">>>DOOR OPENING IN 20 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门在20秒后打开<<< **"
+		"DoorCountDown" "20"
 	}
 	">>>DOOR BREAKING IN 45 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门在45秒后打破<<< **"
+		"DoorCountDown" "45"
 	}
 	">>>HOLD THE LIBRARY<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住图书馆<<< **"
 	}
 	">>>DOOR BREAKING IN 35 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在35秒后打破<<< **"
+		"DoorCountDown" "35"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在25秒后打破<<< **"
 	}
 	">>>DOOR BREAKING IN 50 SECS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>门将在50秒后打破<<< **"
+		"DoorCountDown" "50"
 	}
 	">>>RUN RUN RUN!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>走走走!<<< **"
 	}
 	">>>GET IN THE FLY-LAND AREA<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>进入FLY-LAND区域<<< **"
 	}
 	">>>AND WAIT FOR TELEPORT<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>等待传送<<< **"
 	}
 	"** WE SECURED ROOT TWO **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们完成了第二关 **"
 	}
 	">>>GO TO ROOT THREE<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>进入第三关<<< **"
 	}
 	"** ROOT THREE **"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 	}
 	"** TAKE MIDDLE DOOR **"
 	{
-		"chi"		"** **"
+		"chi"		"**走中间的门 **"
+		"ico"   "icon_fire"
 	}
 	"** SANATIO SWORD HAS BEEN PICKED UP >HEAL AMMO< **"
 	{
-		"chi"		"** **"
+		"chi"		"**SANATIO之剑已被拿起>治愈/弹药< **"
 	}
 	">> DOOR OPENING IN 30 SECS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>门将在30秒后打开<< **"
+		"DoorCountDown" "30"
 	}
 	">>> DOOR OPENING IN 30 SECS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>门将在30秒后打开<< **"
+		"DoorCountDown" "30"
 	}
 	">> DOOR OPENING IN 40 SECS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>门将在40秒后打开<< **"
+		"DoorCountDown" "40"
 	}
 	">> DOOR OPENING IN 10 SECS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>门将在10秒后打开<< **"
 	}
 	"*** THE DRAGON NOTICED US ***"
 	{
-		"chi"		"** **"
+		"chi"		"**龙注意到了我们 **"
 	}
 	">> KILL HIM!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>杀了它！！<< **"
 	}
 	"*** IGNIS !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**火！！！ **"
 	}
 	"*** IGNIS !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**火！！！ **"
 	}
 	"*** IGNIS WAVE !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**火浪！！！ **"
 	}
 	"*** HEAL !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶！！！ **"
 	}
 	"*** VENTUS !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**风！！！ **"
 	}
 	">>> NICELY DONE !! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>干的好！！<<< **"
 	}
 	">>> NOW GET THE HELL OUT OF HERE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>现在离开这里<<< **"
 	}
 	">>> RUN TO THE FINAL ROOM <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>跑到最后一个房间<<< **"
 	}
 	">>> AND DEFEND UNTIL TELEPORT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住这里.直达传送<<< **"
 	}
 	">>> 90 SECS LEFT !!! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>还剩90秒<<< **"
+		"DoorCountDown" "90"
 	}
 	">>> 30 SECS LEFT !!! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>还剩30秒<<< **"
 	}
 	">>> 10 SECS LEFT !!! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>还剩10秒<<< **"
 	}
 	"** WE SECURED ROOT THREE **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们完成了第三关 **"
 	}
 	">>>BACK TO ROOT ONE<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>回到第一关<<< **"
 	}
 }
