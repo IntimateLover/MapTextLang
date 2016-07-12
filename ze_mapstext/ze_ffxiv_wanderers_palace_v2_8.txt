@@ -173,12 +173,12 @@
 	}
 	"*** Cauterize***"
 	{
-		"chi"		"**炙炎（面对BOSS前面有箱子躲到后方白光位置，没箱子躲到左下角白光位置）**"
+		"chi"		"**炙炎（面对BOSS前面有箱子躲到最后方白光位置，没箱子躲到左后方白光位置）**"
 		"ico"		"icon_fire"
 	}
 	"*** Electro***"
 	{
-		"chi"		"**电（会跳刀的去左边箱子不会跳的去右边）**"
+		"chi"		"**电（会跳刀的去左边箱子不会跳的去右边箱子）**"
 		"ico"		"icon_fire"
 	}
 	"***ADS died***"
@@ -395,12 +395,12 @@
 	}
 	"***Flare***"
 	{
-		"chi"		"**龙之吐息（站到平台左上角或者右上角）**"
+		"chi"		"**龙之吐息（向前跑，离开红色区域）**"
 		"ico"		"icon_fire"
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼（切刀向后跑）**"
+		"chi"		"**暴风之翼（背对boss跑到平台末切刀按W，别被吸到boss脚下）**"
 		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime died***"
@@ -446,7 +446,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**撼地（躲避柱子）**"
+		"chi"		"**撼地（左右躲避或者站在中间躲避柱子）**"
 		"ico"		"icon_fire"
 	}
 	"***10 seconds***"
@@ -512,11 +512,11 @@
 	}
 	"***Nael Van Darnus DIED***"
 	{
-		"chi"		"** **"
+		"chi"		"**奈尔·范·达乌斯死了**"
 	}
 	"***Level:Secret Type-0***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：秘密**"
 	}
 	"***Level:Heavens Ward set***"
 	{
@@ -528,7 +528,8 @@
 	}
 	"***Hold this position to 70 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守70秒**"
+		"DoorCountdown"		"70"
 	}
 	"***SECRET CLEAR ALLMODE COMPLETE***"
 	{
