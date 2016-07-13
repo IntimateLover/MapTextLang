@@ -1,4 +1,6 @@
-	"*** STAGE 1 ***"
+"Console_T"
+{
+		"*** STAGE 1 ***"
 	{
 		"chi"		"**第一关**"
 	}
@@ -49,7 +51,6 @@
 	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL2传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -70,7 +71,6 @@
 	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL3传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -91,7 +91,6 @@
 	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL4传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -112,7 +111,6 @@
 	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL5传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -133,7 +131,6 @@
 	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL6传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -154,7 +151,6 @@
 	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
 	{
 		"chi"		"**LEVEL7传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
 	{
@@ -175,7 +171,6 @@
 	"*** HOLD THIS POTISION for 30 SECONDS***"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown" "30"
 	}
 	"*** HOLD THIS POTISION for 20 SECONDS***"
 	{
@@ -204,7 +199,6 @@
 	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL9传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -225,7 +219,6 @@
 	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL10传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
 	{
@@ -238,7 +231,6 @@
 	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**LEVEL10传送点20秒后激活**"
-		"DoorCountDown" "20"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
@@ -255,7 +247,6 @@
 	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
 	{
 		"chi"		"**LEVEL11传送点40秒后激活**"
-		"DoorCountDown" "40"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
@@ -288,7 +279,6 @@
 	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL12传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
 	{
@@ -317,7 +307,6 @@
 	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL13传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -346,7 +335,6 @@
 	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL14传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -367,7 +355,6 @@
 	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯将在20秒后上升**"
-		"DoorCountDown" "20"
 	}
 	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
 	{
@@ -456,7 +443,6 @@
 	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**LEVEL16传送点30秒后激活**"
-		"DoorCountDown" "30"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
