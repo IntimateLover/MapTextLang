@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"*** Hold 30 seconds ***"
+	{
+		"DoorCountdown"		"30"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"DoorCountdown"		"20"
+	}
+	"*** HOLD 25 SECONDS ***"
+	{
+		"DoorCountdown"		"25"
+	}
+	"*** Door opens 35 seconds ***"
+	{
+		"DoorCountdown"		"35"
+	}
+	"*** Door opens 25 seconds ***"
+	{
+		"DoorCountdown"		"25"
+	}
+}

@@ -12,6 +12,7 @@
 	"** Boat leaving in 20 sec **"
 	{
 		"chi"		"** 距离船只启动还有 20 秒 **"
+		"DoorCountdown"		"20"
 	}
 	"** Door opening in 25 sec **"
 	{
@@ -47,5 +48,4 @@
 	{
 		"chi"		"** 木桥将在 30 秒后被摧毁 **（色狼领袖：你懂得，要装的趁现在）"
 	}
-
 }

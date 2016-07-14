@@ -23,6 +23,7 @@
 	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后开门**"
+		"DoorCountdown"		"30"
 	}
 	"***THE GATE IS OPENING***"
 	{
@@ -195,6 +196,7 @@
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"***THE GATES ARE OPENING***"
 	{

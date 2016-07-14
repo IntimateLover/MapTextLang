@@ -51,6 +51,7 @@
 	"** Hold the broken wall! The door will open in 25 seconds! **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"25"
 	}
 	"** Resist! 10 more seconds! **"
 	{

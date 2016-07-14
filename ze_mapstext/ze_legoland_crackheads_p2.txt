@@ -91,6 +91,7 @@
 	"** HOLD ZOMBIES FOR 50 SECONDS **"
 	{
 		"chi"		"**坚守阵地50秒！**"
+		"DoorCountdown"		"50"
 	}
 	"** ZOMBIES: CLIMB THE STAIRS! **"
 	{
