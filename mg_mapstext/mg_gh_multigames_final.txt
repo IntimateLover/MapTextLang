@@ -2,50 +2,50 @@
 {
 	"@[Map] Shotgun"
 	{
-		"chi"		"** **"
+		"chi"		"**喷子 **"
 	}
 	"@[Map] Buy"
 	{
-		"chi"		"** **"
+		"chi"		"**购买 **"
 	}
 	"@[MAP] KNIFE"
 	{
-		"chi"		"** **"
+		"chi"		"**刀 **"
 	}
 	"@[Map] Headshot (ak47)"
 	{
-		"chi"		"** **"
+		"chi"		"**爆头【AK-47 **"
 	}
 	"@[Map] Molotov"
 	{
-		"chi"		"** **"
+		"chi"		"**麻辣烫 **"
 	}
 	"@[Map] Scout"
 	{
-		"chi"		"** **"
+		"chi"		"**鸟狙 **"
 	}
 	"@[Map] Usp"
 	{
-		"chi"		"** **"
+		"chi"		"**USP **"
 	}
 	"@[MAP] AWP"
 	{
-		"chi"		"** **"
+		"chi"		"**AWP **"
 	}
 	"@[Map] Hard Wallhack (buy)"
 	{
-		"chi"		"** **"
+		"chi"		"**透视【购买 **"
 	}
 	"@[Map] Smoke (1 hp)"
 	{
-		"chi"		"** **"
+		"chi"		"**烟雾弹【1血 **"
 	}
 	"@[Map] Sky Way (knife)"
 	{
-		"chi"		"** **"
+		"chi"		"**天空之路【刀 **"
 	}
 	"@[Map] Deagle (headshot only)"
 	{
-		"chi"		"** **"
+		"chi"		"**沙鹰【爆头 **"
 	}
 }
