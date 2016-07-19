@@ -696,6 +696,7 @@
 	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"chi"		"**直到核弹爆炸,你还有45秒的时间来完成 **"
+		"DoorCountdown"		"45"
 	}
 	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
 	{
