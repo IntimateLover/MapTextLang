@@ -212,7 +212,7 @@
 	}
 	">>> HOLD E ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
-		"chi"		"** 对着木轮按住E已降下桥(多利用神器防御僵尸)**"
+		"chi"		"** 对着木轮按住E以降下桥(多利用神器防御僵尸)**"
 	}
 	">>> BRIDGE IS DOWN. RUN! <<<"
 	{
@@ -316,6 +316,7 @@
 	">>> HE HAS DISAPPEARED. RUN! <<<"
 	{
 		"chi"		"** 他消失了.快跑! **"
+		"ico"		"icon_fire"
 	}
 	">>> DOORS OPEN IN 20 SEC <<<"
 	{
@@ -395,10 +396,12 @@
 	">>> GATE OPENS IN 20 SEC <<<"
 	{
 		"chi"		"** 门在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
 	{
 		"chi"		"** 防守村庄40秒 **"
+		"DoorCountdown"		"40"
 	}
 	">>> GATE IS OPENING <<<"
 	{
@@ -406,7 +409,7 @@
 	}
 	">>> GATE CLOSES IN 5 SEC <<<"
 	{
-		"chi"		"**门"
+		"chi"		"**门5秒后关闭"
 	}
 	">>> GATE IS CLOSING <<<"
 	{
@@ -427,7 +430,7 @@
 	}
 	">>> DOOR CLOSES IN 5 SEC <<<"
 	{
-		"chi"		"** 5秒后 门将关闭**"
+		"chi"		"** 门5秒后关闭**"
 	}
 	"***ACTIVATE ALL CANNONS***"
 	{
@@ -441,6 +444,7 @@
 	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
 	{
 		"chi"		"**保护黑珍珠45秒！ **"
+		"DoorCountdown"		"45"
 	}
 	">>> LAST 10 SECONDS REMAINING <<<"
 	{
@@ -474,7 +478,7 @@
 	}
 	">>> STAY ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**转动木轮来降下桥**"
 	}
 	">>> DOOR OPENS IN 25 sec <<<"
 	{
@@ -488,7 +492,7 @@
 	}
 	">>> DOOR IS OPEN! RUN!!! <<<"
 	{
-		"chi"		"**门是开的 **"
+		"chi"		"**门是开的！快跑！**"
 	}
 	">>> RUN AWAY FROM THE ZOMBIES! <<<"
 	{
@@ -501,7 +505,7 @@
 	}
 	">>> GET DOWN FROM WOODEN PLATFORM TO FIGHT BARBOSSA <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**从木制平台下去来对抗巴博萨**"
 	}
 	">>> DOOR OPENS IN 20 SEC <<<"
 	{
@@ -511,6 +515,7 @@
 	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
 	{
 		"chi"		"**最后一个大英帝国的勋章已被放入宝箱**"
+		"ico"		"icon_fire"
 	}
 	">>> BARBOSSA IS DEAD <<<"
 	{
@@ -530,31 +535,37 @@
 	}
 	">>> ITS BARBOSSA. KILL HIM! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**是巴博萨，杀了他**"
+		"ico"		"icon_fire"
 	}
 	">>> ITS KRAKEN. KILL HIM! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 是北欧海怪KRAKEN. 杀了它! **"
+		"ico"		"icon_fire"
 	}
 	">>> ITS A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他是一个海盗，在他杀死你之前快杀了他**"
+		"ico"		"icon_fire"
 	}
 	">>> HES DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他已经死了，跑向宝藏库来挽救你的命**"
+		"ico"		"icon_fire"
 	}
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**KRAKEN已经死了，跳上木筏**"
+		"ico"		"icon_fire"
 	}
 	">>> ITS BARBOSSA AGAIN. DONT LET HIM SURVIVE!  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**又是巴博萨，别让他活着**"
+		"ico"		"icon_fire"
 	}
 	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经征服了本地图，你是一个真正的海盗**"
 	}
 	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
 	{
