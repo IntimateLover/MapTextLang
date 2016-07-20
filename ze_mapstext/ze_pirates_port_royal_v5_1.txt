@@ -302,7 +302,6 @@
 	">>> GET DOWN FROM WOOD PLATFORM TO FIGHT BARBOSSA <<<"
 	{
 		"chi"		"** 下到木平台下面击打巴博萨(准备手雷,请勿站在中间) **"
-		"ico"		"icon_fire"
 	}
 	">>> BARBOSSA IS COMING IN 5 SEC <<<"
 	{
@@ -338,47 +337,38 @@
 	">>> IT'S KRAKEN. KILL HIM! <<<"
 	{
 		"chi"		"** 是北欧海怪KRAKEN. 杀了它! **"
-		"ico"		"icon_fire"
 	}
 	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
 	{
 		"chi"		"** 手雷和道具(神器)能对它造成大量伤害.利用它们 **"
-		"ico"		"icon_fire"
 	}
 	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
 	{
-		"chi"		"**海怪对你使用了噗噗泡沫！（蹲下以减少受到的伤害）**"
-		"ico"		"icon_fire"
+		"chi"		"**还怪对你使用了噗噗泡沫！**"
 	}
 	"||| KRAKEN HAS USED VORTEX |||"
 	{
 		"chi"		"** 海怪对你使用了涡旋 (远离它，或者使用墙) **"
-		"ico"		"icon_fire"
 	}
 	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
 	{
 		"chi"		"** 海怪已对你扔出了桶 别弯腰捡 继续打他 (注意躲避，别被烧到别被卡到) **"
-		"ico"		"icon_fire"
 	}
 	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
 	{
 		"chi"		"** 海怪已对你扔出了桶 别弯腰捡 继续打他 (注意躲避，别被烧到别被卡到) **"
-		"ico"		"icon_fire"
 	}
 	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
 	{
-		"chi"		"** 海怪对你使用了浪潮(快跑向他，别让他把你推下去) **"
-		"ico"		"icon_fire"
+		"chi"		"** 海怪对你使用了浪潮(别让他把你推下去，快跑向他) **"
 	}
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
 	{
 		"chi"		"** 海怪死了.跳上木筏去往小岛 **"
-		"ico"		"icon_fire"
 	}
 	">>> RUN TO THE CAVE <<<"
 	{
-		"chi"		"** 跑向洞穴(会跳刀的进去会打巴博萨，其他人山洞口防守) **"
-		"ico"		"icon_fire"
+		"chi"		"** 跑向洞穴(进去会打巴博萨会跳刀的，其他人山洞口防守) **"
 	}
 	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
 	{
@@ -423,7 +413,6 @@
 	">>> DOOR CLOSES IN 25 SEC <<<"
 	{
 		"chi"		"**门关在25秒 **"
-		"DoorCountdown"		"25"
 	}
 	">>> DOOR CLOSES IN 5 SEC <<<"
 	{
@@ -436,7 +425,6 @@
 	">>> GATE CLOSES IN 18 SEC <<<"
 	{
 		"chi"		"**18秒 门将关闭 **"
-		"DoorCountdown"		"18"
 	}
 	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
 	{
@@ -449,7 +437,6 @@
 	">>> DOOR CLOSES IN 20 SEC <<<"
 	{
 		"chi"		"** 20秒 门将关闭**"
-		"DoorCountdown"		"10"
 	}
 	">>> DOOR CLOSES IN 10 SEC <<<"
 	{
@@ -466,7 +453,6 @@
 	">>> DOOR OPENS IN 10 SEC <<<"
 	{
 		"chi"		"** 门10秒后打开 **"
-		"DoorCountdown"		"10"
 	}
 	">>> DOOR OPENS IN 5 sec <<<"
 	{
@@ -479,12 +465,10 @@
 	">>> DOOR OPENS IN 25 sec <<<"
 	{
 		"chi"		"** 门25秒后打开 **"
-		"DoorCountdown"		"25"
 	}
 	">>> DOOR CLOSES IN 15 sec <<<"
 	{
 		"chi"		"** 15秒后门将关闭 **"
-		"DoorCountdown"		"15"
 	}
 	">>> DOOR IS OPEN! RUN!!! <<<"
 	{
@@ -497,7 +481,6 @@
 	">>> DOOR OPENS IN 30 SEC <<<"
 	{
 		"chi"		"**   门将在30秒后打开 **"
-		"DoorCountdown"		"30"
 	}
 	">>> GET DOWN FROM WOODEN PLATFORM TO FIGHT BARBOSSA <<<"
 	{
@@ -506,7 +489,6 @@
 	">>> DOOR OPENS IN 20 SEC <<<"
 	{
 		"chi"		"** 门将在20秒后打开 **"
-		"DoorCountdown"		"20"
 	}
 	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
 	{
@@ -561,6 +543,34 @@
 		"chi"		"** **"
 	}
 	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	{
+		"chi"		"** **"
+	}
+	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE CELLAR FOR 30 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD FOR 25 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD FOR 40 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD <<<"
+	{
+		"chi"		"** **"
+	}
+	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+	{
+		"chi"		"**海怪扔出了僵尸炸弹！快特喵的躲开啊！！**"
+	}
+	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
 	{
 		"chi"		"** **"
 	}

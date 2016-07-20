@@ -229,4 +229,56 @@
 	{
 		"chi"		"** **"
 	}
+	"***CURRENT MODE >>>EXTREME<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Snow picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Heal picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Heal used***"
+	{
+		"chi"		"** **"
+	}
+	"***Snow used***"
+	{
+		"chi"		"** **"
+	}
+	"***Jump portal opened***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK Teleport in 8 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK Teleport in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Timed Out***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK Teleport in 6 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie used Nuke***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Nuke***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK teleport in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
 }

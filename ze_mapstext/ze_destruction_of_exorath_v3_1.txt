@@ -752,4 +752,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** ZOMBIES DETECTED IN HELICOPTER **"
+	{
+		"chi"		"** **"
+	}
+	"** IMPOSSIBLE MODE FAILED ** RESTARTING **"
+	{
+		"chi"		"** **"
+	}
 }

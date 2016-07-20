@@ -608,4 +608,20 @@
 	{
 		"chi"		"** **"
 	}
+	"@ EFFECT [ T2 S1 E1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S1 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E5 ]"
+	{
+		"chi"		"** **"
+	}
 }

@@ -184,4 +184,16 @@
 	{
 		"chi"		"**T现在拥有两个球**"
 	}
+	"@[MAP] Knife damage allowed in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Knife damage allowed in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Knife damage enabled!"
+	{
+		"chi"		"** **"
+	}
 }

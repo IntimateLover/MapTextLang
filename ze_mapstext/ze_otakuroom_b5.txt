@@ -1,14 +1,10 @@
 "Console_T"
 {
-	"***Map made by Tenshi***"
-	{
-		"chi"		"** **"
-	}
 	"***Inspiration comes from kz_otakuroom***"
 	{
 		"chi"		"** **"
 	}
-	"***Special thanks:GemaYue , Yinyuexiaoyao***"
+	"***Special thanks:GemaYue , Altima , Yinyuexiaoyao***"
 	{
 		"chi"		"** **"
 	}
@@ -16,7 +12,15 @@
 	{
 		"chi"		"** **"
 	}
+	"***Map made by Tenshi***"
+	{
+		"chi"		"** **"
+	}
 	"***Run to the pillow forward***"
+	{
+		"chi"		"** **"
+	}
+	"***Door opening in 30 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -25,10 +29,6 @@
 		"chi"		"** **"
 	}
 	"***Zombie gravity has been picked up***"
-	{
-		"chi"		"** **"
-	}
-	"***Door opening in 20 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -48,7 +48,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Card leaves in 20 seconds***"
+	"***Card leaves in 30 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -76,11 +76,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***Card leaves in 60 seconds***"
+	"***One door broken***"
 	{
 		"chi"		"** **"
 	}
-	"***One door broken***"
+	"***Card leaves in 60 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -116,15 +116,7 @@
 	{
 		"chi"		"** **"
 	}
-	"** Wall has been picked up**"
-	{
-		"chi"		"** **"
-	}
 	"***T has beed pressed***"
-	{
-		"chi"		"** **"
-	}
-	"***H has been pressed***"
 	{
 		"chi"		"** **"
 	}
@@ -132,15 +124,15 @@
 	{
 		"chi"		"** **"
 	}
-	"***Telepoter activated in 20 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***N has beed pressed***"
+	"***H has been pressed***"
 	{
 		"chi"		"** **"
 	}
 	"***S has been pressed***"
+	{
+		"chi"		"** **"
+	}
+	"***N has beed pressed***"
 	{
 		"chi"		"** **"
 	}
@@ -156,6 +148,18 @@
 	{
 		"chi"		"** **"
 	}
+	"** Wall has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"***Telepoter activated in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK teleport in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
 	"***Heal has been picked up***"
 	{
 		"chi"		"** **"
@@ -164,23 +168,19 @@
 	{
 		"chi"		"** **"
 	}
-	"***Efreet used Space earthquake***"
-	{
-		"chi"		"** **"
-	}
 	"***Efreet used Camael:Slash***"
 	{
 		"chi"		"** **"
 	}
-	"***Efreet used Elohim Gibor:healed 150HP***"
+	"***Efreet used Camael:Megiddo***"
+	{
+		"chi"		"** **"
+	}
+	"***Efreet used Space earthquake***"
 	{
 		"chi"		"** **"
 	}
 	"***Efreet is dead***"
-	{
-		"chi"		"** **"
-	}
-	"***Card leaves in 40 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -200,15 +200,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***Look!Its Tenshi***"
-	{
-		"chi"		"** **"
-	}
 	"***ITS COMING***"
 	{
 		"chi"		"** **"
 	}
-	"***Efreet used Camael:Megiddo***"
+	"***Efreet used Elohim Gibor:healed 150HP***"
 	{
 		"chi"		"** **"
 	}
@@ -224,11 +220,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***Wall breaking in 10 seconds***"
+	"***Wall breaking in 20 seconds***"
 	{
 		"chi"		"** **"
 	}
-	"***Canned Cola moving in 10 seconds***"
+	"***Canned Cola moving in 20 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -236,7 +232,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Card teleporter activated in 10 seconds***"
+	"***Card teleporter activated in 15 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -248,6 +244,10 @@
 	{
 		"chi"		"** **"
 	}
+	"***Card teleporter activated in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
 	"***See those dices, shoot them***"
 	{
 		"chi"		"** **"
@@ -256,7 +256,55 @@
 	{
 		"chi"		"** **"
 	}
-	"***Card teleporter activated in 15 seconds***"
+	"***The battle exploding in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***We are cracking the BD disk***"
+	{
+		"chi"		"** **"
+	}
+	"***20 percent completed**"
+	{
+		"chi"		"** **"
+	}
+	"***40 percent completed**"
+	{
+		"chi"		"** **"
+	}
+	"***60 percent completed**"
+	{
+		"chi"		"** **"
+	}
+	"***80 percent completed**"
+	{
+		"chi"		"** **"
+	}
+	"***We are charging the electric source***"
+	{
+		"chi"		"** **"
+	}
+	"***Defense***"
+	{
+		"chi"		"** **"
+	}
+	"***100 percent completed**"
+	{
+		"chi"		"** **"
+	}
+	"***We have cracked the BD disk***"
+	{
+		"chi"		"** **"
+	}
+	"***Card teleporter activated in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Its full power***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleported in 5 seconds***"
 	{
 		"chi"		"** **"
 	}

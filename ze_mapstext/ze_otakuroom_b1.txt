@@ -24,10 +24,6 @@
 	{
 		"chi"		"** **"
 	}
-	"***Zombie gravity has been picked up***"
-	{
-		"chi"		"** **"
-	}
 	"***Door opening in 20 seconds***"
 	{
 		"chi"		"** **"
@@ -44,7 +40,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***AFK Teleport in 15 seconds***"
+	"***AFK teleport in 10 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -52,7 +48,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Zombies teleported in 10 seconds***"
+	"***Zombies teleported in 5 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -72,15 +68,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***AFK teleport in 10 seconds***"
+	"***AFK teleport in 5 seconds***"
 	{
 		"chi"		"** **"
 	}
 	"***Card leaves in 60 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***One door broken***"
 	{
 		"chi"		"** **"
 	}
@@ -116,23 +108,19 @@
 	{
 		"chi"		"** **"
 	}
-	"** Wall has been picked up**"
-	{
-		"chi"		"** **"
-	}
-	"***T has beed pressed***"
-	{
-		"chi"		"** **"
-	}
 	"***H has been pressed***"
 	{
 		"chi"		"** **"
 	}
-	"***E has been pressed***"
+	"** Wall has been picked up**"
 	{
 		"chi"		"** **"
 	}
-	"***Telepoter activated in 20 seconds***"
+	"***I has been pressed***"
+	{
+		"chi"		"** **"
+	}
+	"***E has been pressed***"
 	{
 		"chi"		"** **"
 	}
@@ -144,7 +132,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***I has been pressed***"
+	"***T has beed pressed***"
 	{
 		"chi"		"** **"
 	}
@@ -156,6 +144,10 @@
 	{
 		"chi"		"** **"
 	}
+	"***Telepoter activated in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
 	"***Heal has been picked up***"
 	{
 		"chi"		"** **"
@@ -164,11 +156,15 @@
 	{
 		"chi"		"** **"
 	}
-	"***Efreet used Space earthquake***"
+	"***Efreet used Camael:Megiddo***"
 	{
 		"chi"		"** **"
 	}
 	"***Efreet used Camael:Slash***"
+	{
+		"chi"		"** **"
+	}
+	"***Efreet used Space earthquake***"
 	{
 		"chi"		"** **"
 	}
@@ -208,95 +204,15 @@
 	{
 		"chi"		"** **"
 	}
-	"***Efreet used Camael:Megiddo***"
-	{
-		"chi"		"** **"
-	}
 	"***You are survival,teleported in 3 seconds***"
 	{
 		"chi"		"** **"
 	}
-	"***Level 3:Looking for Tenshi***"
+	"***Zombie gravity has been picked up***"
 	{
 		"chi"		"** **"
 	}
-	"***The Keroro box breaking in 20 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Wall breaking in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Canned Cola moving in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Shooting the Krumi and the Noel until they are borken***"
-	{
-		"chi"		"** **"
-	}
-	"***Card teleporter activated in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Its just a Leap of Faith!!!***"
-	{
-		"chi"		"** **"
-	}
-	"***Shoot the box***"
-	{
-		"chi"		"** **"
-	}
-	"***See those dices, shoot them***"
-	{
-		"chi"		"** **"
-	}
-	"***Only one can be broken, then the teleporter will be activated***"
-	{
-		"chi"		"** **"
-	}
-	"***Card teleporter activated in 15 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Zombies teleported in 6 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Look! Its Tenshi***"
-	{
-		"chi"		"** **"
-	}
-	"***Sword system start***"
-	{
-		"chi"		"** **"
-	}
-	"***Weather system start***"
-	{
-		"chi"		"** **"
-	}
-	"***Tenshi used weather changed***"
-	{
-		"chi"		"** **"
-	}
-	"***Tenshi used shake***"
-	{
-		"chi"		"** **"
-	}
-	"***I was defeated???***"
-	{
-		"chi"		"** **"
-	}
-	"***Its not possible!!!***"
-	{
-		"chi"		"** **"
-	}
-	"***Send you to the second dimension***"
-	{
-		"chi"		"** **"
-	}
-	"***Zombies ,good luck! ***"
+	"***One door broken***"
 	{
 		"chi"		"** **"
 	}

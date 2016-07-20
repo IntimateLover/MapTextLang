@@ -120,4 +120,20 @@
 	{
 		"chi"		"** **"
 	}
+	"The sponge has been defeated! Run!"
+	{
+		"chi"		"** **"
+	}
+	"Final doors are going to close in 30 seconds! Resist!"
+	{
+		"chi"		"** **"
+	}
+	"You have won the map! Congratulations!"
+	{
+		"chi"		"** **"
+	}
+	"Kill all zombies inside!"
+	{
+		"chi"		"** **"
+	}
 }

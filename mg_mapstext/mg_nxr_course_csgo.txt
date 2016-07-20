@@ -1,0 +1,31 @@
+"Console_T"
+{
+	">>>> SpawnKill 30 seconds <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> 5 seconds <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> 4 seconds <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> 3 seconds <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> 2 seconds <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> 1 second <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> SpawnKill Activated <<<<"
+	{
+		"chi"		"** **"
+	}
+}
