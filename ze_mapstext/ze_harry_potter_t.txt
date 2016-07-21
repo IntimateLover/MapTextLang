@@ -6,7 +6,7 @@
 	}
 	">>> MAP CREATED BY DEVIOUS AND SKULLZ <<<"
 	{
-		"chi"		"**地图制作：DEVIOUS和SKULLZ **"
+		"chi"		"**地图制作：DEVIOUS和SKULLZ 地图翻译：蓬莱山帅比♪ **"
 	}
 	">>> GATE BREAKING IN 6 SECONDS <<<"
 	{
@@ -95,7 +95,7 @@
 	}
 	">>> DEATHEATER IS CHARGING FIRE ATTACK <<<"
 	{
-		"chi"		"**食死徒使用了火(开奶抵抗） **"
+		"chi"		"**食死徒使用了火(开奶抵抗或按住S回退） **"
 		"ico"   "icon_fire"
 	}
 	">>> DEATHEATER IS HEALING <<<"
@@ -121,7 +121,7 @@
 	}
 	">>> REDUCIO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"**一位僵尸习得了法术：速速缩小（僵尸缩小） **"
+		"chi"		"**一位僵尸习得了魔法：速速缩小（僵尸缩小） **"
 	}
 	">>> BOXES BREAKING IN 10 SECONDS <<<"
 	{
@@ -182,15 +182,15 @@
 	}
 	">>> BREAK THE WALL <<<"
 	{
-		"chi"		"**打破墙 **"
+		"chi"		"**打碎墙壁 **"
 	}
 	">>> NADES HAVE NO EFFECT <<<"
 	{
-		"chi"		"**手雷没有任何效果 **"
+		"chi"		"**手雷对BOSS没有任何效果 **"
 	}
 	">>> VOLDEMORT IS CHARGING FIRE ATTACK <<<"
 	{
-		"chi"		"**伏地魔使用了技能：火焰熊熊（按住S贴墙或使用奶抵抗） **"
+		"chi"		"**伏地魔使用了技能：火焰熊熊（按住S贴墙或开奶抵抗） **"
 		"ico"   "icon_fire"
 	}
 	">>> VOLDEMORT IS CHARGING GRAVITY ATTACK <<<"
