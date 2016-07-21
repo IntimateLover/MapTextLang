@@ -2,151 +2,154 @@
 {
 	">>> STAGE 112 - NORMAL MODE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**阶段1/12 -正常模式 **"
 	}
 	">>> MAP CREATED BY DEVIOUS AND SKULLZ <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：DEVIOUS和SKULLZ **"
 	}
 	">>> GATE BREAKING IN 6 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门6秒后打开 **"
 	}
 	">>> STAGE TELEPORT ENABLED IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后激活传送 **"
 	}
 	">>> SPAWN TELEPORT ENABLED IN 30 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**在30秒后激活传送 **"
 	}
 	">>> FLIPENDO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：咆哮飓风（风）（释放后形成一条直线的龙卷风） **"
 	}
 	">>> PROTEGO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了：神佑护盾（土）（释放后形成一堵墙壁.人类可以穿过） **"
 	}
 	">>> AVADA SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：索命阿瓦达（终极）（释放后几秒在区域内的僵尸会被炸死） **"
 	}
 	">>> IMPEDIMENTA SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：障碍重重（冰）（释放后在区域内的僵尸会被冻结几秒） **"
 	}
 	">>> REPARO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：恢复如初（奶）（释放后在区域内的人类将会被加至满血） **"
 	}
 	">>> INCENDIO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：火焰熊熊（火）（释放后在区域内的僵尸被火焰灼烧并减速） **"
 	}
 	">>> CRUCIO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：钻心剜骨（电）（释放后在区域内的僵尸会到伤害） **"
 	}
 	">>> AGUAMENTI SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：清水如泉（减速）（释放后被喷到的僵尸会被减速） **"
 	}
 	">>> DOORS OPENING IN 15 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开 **"
 	}
 	">>> 5 SECONDS LEFT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	">>> CONJUNCTIVITUS SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了魔法：目不能视（杀伤人类）（在区域内的人类会受到伤害） **"
 	}
 	">>> DELETRIUS SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了魔法：消除（神器无效）（可以把正在释放的神器效果消除） **"
 	}
 	">>> CONFUNDUS SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了魔法：混淆视听（僵尸迷惑） **"
 	}
 	">>> BARRELS EXPLODING IN 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**桶将在20秒后爆炸（不要贴门.会被炸死） **"
 	}
 	">>> DOOR BREAKING IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	">>> ACCIO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位魔法师习得了魔法：飞来召唤（无限子弹）（释放后在区域内的人类将不会消耗子弹） **"
 	}
 	">>> ITS A DEATHEATER - KILL HIM <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**这是一个食尸徒 - 杀了他 **"
 	}
 	">>> DEATHEATER IS CHARGING WIND ATTACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**食死徒使用了风（按住W或站在两边的柱子后面）**"
+		"ico"   "icon_fire"
 	}
 	">>> DEATHEATER IS CHARGING FIRE ATTACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**食死徒使用了火(开奶抵抗） **"
+		"ico"   "icon_fire"
 	}
 	">>> DEATHEATER IS HEALING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**食死徒使用了治疗 **"
 	}
 	">>> DEATHEATER IS CHARGING GRAVITY ATTACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**食死徒使用了黑洞（按住S往后退或站在两边的柱子后面） **"
+		"ico"   "icon_fire"
 	}
 	">>> THE DEATHEATER IS DEAD - FALL BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**食死徒已经死了 - 撤退 **"
 	}
 	">>> DEPRIMO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了魔法：房屋塌陷（被喷到的人类会被减速) **"
 	}
 	">>> DOOR WILL BREAK IN 15 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门在15秒后打破 **"
 	}
 	">>> REDUCIO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了法术：速速缩小（僵尸缩小） **"
 	}
 	">>> BOXES BREAKING IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**箱子10后爆炸（不要贴门） **"
 	}
 	">>> BOXES BREAKING IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**箱子五秒后爆炸（不要贴门） **"
 	}
 	">>> SHOOT THE WHITE CHESS PIECES <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**射击白色棋子 **"
 	}
 	">>> ONE OF THEM WILL OPEN THE NEXT DOOR <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**其中一个白色棋子能打开门 **"
 	}
 	">>> WE FOUND THE CHESS PIECE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们找到了这个棋子 **"
 	}
 	">>> DOOR OPENING IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门在10秒后打开 **"
 	}
 	">>> EXPULSO SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了魔法：粉身碎骨（爆炸）（被碰到的人类会被秒杀） **"
 	}
 	">>> EMENDO SPELL HAS BEEN PICKED UP <<<"
 	{
@@ -154,134 +157,137 @@
 	}
 	">>> DOOR OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	">>> KEEP DEFENDING THE DOORWAY UNTIL THE DOOR CLOSES <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住门口，直到门关闭 **"
 	}
 	">>> DOOR CLOSING IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在5秒后关闭 **"
 	}
 	">>> ITS VOLDEMORT - DEFEAT HIM <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**这是伏地魔 - 打败他 **"
 	}
 	">>> VOLDEMORT IS CHARGING AVADA ATTACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**伏地魔使用了技能：索命阿瓦达（往左右两边跑，技能有五秒持续时间） **"
+		"ico"   "icon_fire"
 	}
 	">>> DISILLUSIONMENT SPELL HAS BEEN PICKED UP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸习得了魔法：若隐若现（僵尸半透明） **"
 	}
 	">>> BREAK THE WALL <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**打破墙 **"
 	}
 	">>> NADES HAVE NO EFFECT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷没有任何效果 **"
 	}
 	">>> VOLDEMORT IS CHARGING FIRE ATTACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**伏地魔使用了技能：火焰熊熊（按住S贴墙或使用奶抵抗） **"
+		"ico"   "icon_fire"
 	}
 	">>> VOLDEMORT IS CHARGING GRAVITY ATTACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**伏地魔使用了技能：黑洞（贴着后面的墙或开奶抵抗） **"
+		"ico"   "icon_fire"
 	}
 	">>> VOLDEMORT IS DEFEATED - FALL BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**伏地魔被打败了 - 撤退 **"
 	}
 	">>> FINAL DOORS OPENING IN 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的门将在20秒后打开 **"
 	}
 	">>> FINAL DOORS OPENING IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的门将在10秒后打开 **"
 	}
 	">>> FINAL DOORS CLOSING IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个门.门将在10秒后关闭 **"
 	}
 	">>> HUMANS WON THIS STAGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**人类赢了本关 **"
 	}
 	">>> ACTIVATING NEXT STAGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**激活下一关 **"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO FLIPENDO [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**咆哮飓风（风）已增加1年经验[1/4] **"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO IMPEDIMENTA [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**障碍重重（冰）已增加1年经验 [1/4]**"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO CRUCIO [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**钻心剜骨（电）已增加1年经验 [1/4]**"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO ACCIO [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**飞来召唤（无限子弹）已增加1年经验[1/4] **"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO INCENDIO [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**火焰熊熊（火）已增加1年经验 [1/4]**"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO AVADA [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**索命阿瓦达（终极）已增加1年经验 [1/4]**"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO PROTEGO [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**神佑护盾（土）已增加1年经验[1/4] **"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO AGUAMENTI [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**清水如泉（减速）已增加1年经验[1/4] **"
 	}
 	">>> APPLYING 1 YEAR EXPERIENCE TO REPARO [14] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**恢复如初（奶）已增加1年经验[1/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO AVADA [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**索命阿瓦达（终极）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO CRUCIO [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**钻心剜骨（电）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO INCENDIO [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**火焰熊熊（火）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO PROTEGO [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**神佑护盾（土）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO AGUAMENTI [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**清水如泉（减速）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO ACCIO [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**飞来召唤（无限子弹）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO FLIPENDO [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**咆哮飓风（风）已增加2年经验[2/4] **"
 	}
 	">>> APPLYING 2 YEARS EXPERIENCE TO IMPEDIMENTA [24] <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**障碍重重（冰）已增加2年经验 [2/4] **"
 	}
 }
