@@ -580,6 +580,7 @@
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
 		"chi"		"**海怪扔出了僵尸炸弹！快特喵的躲开啊！！**"
+		"ico"		"icon_fire"
 	}
 	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
 	{
