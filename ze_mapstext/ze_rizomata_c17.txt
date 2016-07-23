@@ -7,89 +7,109 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"*** doors opens 10 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"10"
 	}
 	"*** Door opens 25 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"25"
 	}
 	"*** Door opens 35 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"35"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	"*** TIDAL WAVE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**海啸（按住W穿过海啸两次，不要按A,D）**"
+		"ico"		"icon_fire"
 	}
 	"*** BLIZZARD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**暴风雪（使用奶神器）**"
+		"ico"		"icon_fire"
 	}
 	"*** ICICLE FALL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰瀑（看头顶找缝隙躲过3次攻击）**"
+		"ico"		"icon_fire"
 	}
 	"*** FREEZING COFFIN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰之柩（站到平台中间圆盘位置躲避攻击）**"
+		"ico"		"icon_fire"
 	}
 	"*** FROZEN WATER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管）**"
+		"DoorCountDown" "4"
+		"ico"		"icon_fire"
 	}
 	"*** RISING WATER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**水面上升（不用管）**"
+		"ico"		"icon_fire"
 	}
 	"*** DIAMOND DUST ***"
 	{
-		"chi"		"** **"
+		"chi"		"**钻石星尘（跑到四周水下躲避攻击）**"
+		"ico"		"icon_fire"
 	}
 	"*** Hold 25 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"25"
 	}
 	"*** EARTH SHOCK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地震击（看头顶躲避石柱）**"
+		"ico"		"icon_fire"
 	}
 	"*** CRUSTAL MOVEMENT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地壳运动（往山的左右两边跳上去，一直按着跳直到跳过去）**"
+		"ico"		"icon_fire"
 	}
 	"*** EARTH STOMP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地践踏（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀）**"
+		"ico"		"icon_fire"
 	}
 	"*** QUAKE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地震（开奶一直跳）**"
+		"ico"		"icon_fire"
 	}
 	"*** EARTHEN SHIELD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地护盾**"
 	}
 	"*** LAND SUBSIDENCE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地面沉降（地面随机下降，跑到没有下降的地面）**"
+		"ico"		"icon_fire"
 	}
 	"*** EARTHQUAKE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地震（BOSS死亡）**"
+		"ico"		"icon_fire"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸登上了电梯**"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**回合失败**"
 	}
 }
