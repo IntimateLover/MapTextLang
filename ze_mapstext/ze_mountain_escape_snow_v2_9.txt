@@ -15,6 +15,7 @@
 	"***Break all walls and boxes with sofa***"
 	{
 		"chi"		"**用沙发打破所有的墙壁和箱子 **"
+		"ico"   "icon_fire"
 	}
 	"***CURRENT MODE >>>CUSTOM<<<***"
 	{
@@ -71,6 +72,7 @@
 	"***A Train is coming...***"
 	{
 		"chi"		"**火车要来了…（快开枪射击火车.不要靠近火车） **"
+		"ico"   "icon_fire"
 	}
 	"***AFK Teleport in 8 seconds***"
 	{
@@ -127,6 +129,7 @@
 	"***Teleport activates in 45 seconds***"
 	{
 		"chi"		"**传送点将在45秒后激活 **"
+		"DoorCountDown" "45"
 	}
 	"***5 seconds left***"
 	{
@@ -139,6 +142,7 @@
 	"***Gravity Casted***"
 	{
 		"chi"		"**BOSS使用了重力（速速远离BOSS） **"
+		"ico"   "icon_fire"
 	}
 	"***Go Back to teleport place***"
 	{
@@ -147,10 +151,12 @@
 	"***Teleport activates in 30 seconds***"
 	{
 		"chi"		"**传送点将在30秒后激活 **"
+		"DoorCountDown" "30"
 	}
 	"***Wind Casted***"
 	{
 		"chi"		"**BOSS使用了风（请迅速按住W键） **"
+		"ico"   "icon_fire"
 	}
 	"***Level Failed***"
 	{
