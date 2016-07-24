@@ -52,7 +52,7 @@
 	"*** FROZEN WATER ***"
 	{
 		"chi"		"**千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管）**"
-		"DoorCountDown" "4"
+		"DoorCountDown" "7"
 		"ico"		"icon_fire"
 	}
 	"*** RISING WATER ***"
