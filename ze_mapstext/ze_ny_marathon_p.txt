@@ -51,7 +51,6 @@
 	"** Hold the broken wall! The door will open in 25 seconds! **"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"25"
 	}
 	"** Resist! 10 more seconds! **"
 	{
@@ -59,7 +58,7 @@
 	}
 	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
 	{
-		"chi"		"** **"
+		"chi"		"**踩住白圈来打开大门**"
 	}
 	"** THE CHECKPOINT HAS BEEN ENABLED! **"
 	{
@@ -342,6 +341,10 @@
 		"chi"		"** **"
 	}
 	"*** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL: Monkeymmunism. ***"
 	{
 		"chi"		"** **"
 	}

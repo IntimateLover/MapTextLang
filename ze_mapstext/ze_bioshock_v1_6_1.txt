@@ -85,7 +85,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***Hold for 20 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -458,6 +458,14 @@
 		"chi"		"** **"
 	}
 	"***Plasmid: Incinerate Obtained***"
+	{
+		"chi"		"** **"
+	}
+	"*Nice work boyo. Now head on up to Ryans office so we can meet in person*"
+	{
+		"chi"		"** **"
+	}
+	"***PLASMID: Insect Swarm Obtained***"
 	{
 		"chi"		"** **"
 	}
