@@ -1,0 +1,243 @@
+"Console_T"
+{
+	">>>Whitelist the commands below:<<<"
+	{
+		"chi"		"**这{NORMAL}个{DARKRED}{PINK}地{GREEN}图{PURPLE}必{DARKBLUE}须{BLUE}先{RED}选择{LIGHTGREEN}音{YELLOW}乐{GREEN}才可以选图**"
+	}
+	">>sm_cvar, sm_say<<"
+	{
+		"chi"		"**这{NORMAL}个{DARKRED}{PINK}地{GREEN}图{PURPLE}必{DARKBLUE}须{BLUE}先{RED}选择{LIGHTGREEN}音{YELLOW}乐{GREEN}才可以选图**"
+	}
+	"***CT'S Have Scored A Point!!!***"
+	{
+		"chi"		"**反恐精英 已经获得1分!!!**"
+	}
+	"***CT'S Get Ready To Serve In...***"
+	{
+		"chi"		"**反恐精英 准备发球!!!**"
+	}
+	"***3***"
+	{
+		"chi"		"**3**"
+	}
+	"***2***"
+	{
+		"chi"		"**2**"
+	}
+	"***1***"
+	{
+		"chi"		"**1**"
+	}
+	"***Serve Up!***"
+	{
+		"chi"		"**发球!**"
+	}
+	"***T'S Have Scored A Point!!!***"
+	{
+		"chi"		"**恐怖分子 已经获得1分!!!**"
+	}
+	"***T'S Get Ready To Serve In...***"
+	{
+		"chi"		"**恐怖分子 准备发球!!!**"
+	}
+	"***GOAL!!!***"
+	{
+		"chi"		"**球进了!**"
+	}
+	"3"
+	{
+		"chi"		"**3**"
+	}
+	"2"
+	{
+		"chi"		"**2**"
+	}
+	"1"
+	{
+		"chi"		"**1**"
+	}
+	"GO!!!"
+	{
+		"chi"		"**GO**"
+	}
+	"Walls Will Break In 5 Seconds."
+	{
+		"chi"		"**墙将在5秒后碎开！**"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"**这个地图{RED}必须先选择音乐才可以选图**"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"**地图制作 {RED}By Lt.| iPod 翻译 By {PURPLE}机翻 | {PINK}加入地图汉化组享受地图翻译权限**"
+	}
+	">>>Map ported for SteamGamers by [SG] Punky<<<"
+	{
+		"chi"		"**地图制作 {YELLOW}By Lt.| iPod 翻译 By机翻 | 加入地图汉化组享受地图翻译权限**"
+	}
+	"***Music Selection is...***"
+	{
+		"chi"		"**音乐选择**"
+	}
+	"***Techno***"
+	{
+		"chi"		"** **"
+	}
+	"***Music Selection is....***"
+	{
+		"chi"		"**音乐选择**"
+	}
+	"***Rock***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen AK--COLT***"
+	{
+		"chi"		"** **"
+	}
+	"***Have Fun!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Autosniper LvL***"
+	{
+		"chi"		"** **"
+	}
+	"***Gay...What A Fag!***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Iceskate***"
+	{
+		"chi"		"** **"
+	}
+	"***Time Remaining: 2 Minutes***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chose Random Because You Are A Indecisive Douchebag***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Soccer***"
+	{
+		"chi"		"** **"
+	}
+	"***Time Remaining: 2 Minutes 30 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Will Open In 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Will Open In 4 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Will Open In 3 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Will Open In 2 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Will Open In 1 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Lets Play Some Soccer!!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***First Team To Score 2 Goals Win!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hip-Pop***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Climb***"
+	{
+		"chi"		"** **"
+	}
+	"***Good Luck...Your Going Too Need It***"
+	{
+		"chi"		"** **"
+	}
+	"***Time Remaining: 60 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Knife Arena***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Dodgeball***"
+	{
+		"chi"		"** **"
+	}
+	"Middle Barrier Will Be Lifted In 30 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"***Time Remaining: 1 Minute***"
+	{
+		"chi"		"** **"
+	}
+	"Middle Barrier Is Now Lifted"
+	{
+		"chi"		"** **"
+	}
+	"***Time Remaining: 10 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Pistols LvL***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Slide Race***"
+	{
+		"chi"		"** **"
+	}
+	"***Have Fun***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Scoutzknivez***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Regular CS:GO***"
+	{
+		"chi"		"** **"
+	}
+	"***Spawn Will Open In 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Volleyball***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Bhop***"
+	{
+		"chi"		"** **"
+	}
+	"***Dont Worry Its Easy...Except For Noobs***"
+	{
+		"chi"		"** **"
+	}
+	"***You Have Chosen Death Race***"
+	{
+		"chi"		"** **"
+	}
+	"***Try to Get To The End First...Or Kill The Other Team Along The Way***"
+	{
+		"chi"		"** **"
+	}
+}
