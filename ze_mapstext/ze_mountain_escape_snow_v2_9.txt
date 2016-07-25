@@ -2,43 +2,44 @@
 {
 	"***Modified by Reflelia***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图修改:Reflelia 地图翻译：蓬莱山帅比♪ **"
 	}
 	"***CURRENT MODE >>>NORMAL<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>普通<<< **"
 	}
 	"***CURRENT MODE >>>SOFA<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>沙发<<< **"
 	}
 	"***Break all walls and boxes with sofa***"
 	{
-		"chi"		"** **"
+		"chi"		"**用沙发打破所有的墙壁和箱子 **"
+		"ico"   "icon_fire"
 	}
 	"***CURRENT MODE >>>CUSTOM<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>自定义<<< **"
 	}
 	"***Zombie picked up Gravity***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿起了黑洞 **"
 	}
 	"***Nuke launched***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹发射 **"
 	}
 	"***30 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"***Jump portal opened***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门已打开 **"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"***5***"
 	{
@@ -62,27 +63,28 @@
 	}
 	"***Nuke impact***"
 	{
-		"chi"		"** **"
+		"chi"		"** 核弹爆炸**"
 	}
 	"***Heal picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已被拿起 **"
 	}
 	"***A Train is coming...***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车要来了…（快开枪射击火车.不要靠近火车） **"
+		"ico"   "icon_fire"
 	}
 	"***AFK Teleport in 8 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在8秒后传送 **"
 	}
 	"***Zombie picked up Nuke***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿起了僵尸核弹 **"
 	}
 	"***Wind picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**风已被拿起 **"
 	}
 	"***Snow picked up***"
 	{
@@ -94,90 +96,94 @@
 	}
 	"***Heal used***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已经使用 **"
 	}
 	"***CURRENT MODE >>>EXTREME<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>BOSS<<< **"
 	}
 	"***Speed Picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**加速已被拿起 **"
 	}
 	"***Ice picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰已被拿起 **"
 	}
 	"***Wind Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**风已经使用 **"
 	}
 	"***Teleport activates in few seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**在几秒钟后传送激活 **"
 	}
 	"***Zombie teleport in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送 **"
 	}
 	"***Break the box***"
 	{
-		"chi"		"** **"
+		"chi"		"**打破箱子 **"
 	}
 	"***Teleport activates in 45 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点将在45秒后激活 **"
+		"DoorCountDown" "45"
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***Ice Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰已经使用 **"
 	}
 	"***Gravity Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了重力（速速远离BOSS） **"
+		"ico"   "icon_fire"
 	}
 	"***Go Back to teleport place***"
 	{
-		"chi"		"** **"
+		"chi"		"**回到传送点 **"
 	}
 	"***Teleport activates in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点将在30秒后激活 **"
+		"DoorCountDown" "30"
 	}
 	"***Wind Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了风（请迅速按住W键） **"
+		"ico"   "icon_fire"
 	}
 	"***Level Failed***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	"***Timed Out***"
 	{
-		"chi"		"** **"
+		"chi"		"**时间到了 **"
 	}
 	"***Train aboarded***"
 	{
-		"chi"		"** **"
+		"chi"		"**乘坐火车 **"
 	}
 	"***AFK Teleport in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在15秒后传送 **"
 	}
 	"***Player picked up Radio***"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起音乐盒 **"
 	}
 	"[Music] Panda Eyes & Teminite - High Score"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Panda Eyes & Teminite - High Score **"
 	}
 	"[Music] Xi - Anima"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]Xi - Anima **"
 	}
 }
