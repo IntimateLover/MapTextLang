@@ -266,22 +266,22 @@
 	}
 	"@[Map] 30 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒 **"
 	}
 	"@[Map] 30 SECONDS REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余30秒 **"
 	}
 	"@[Map] 10 SECONDS REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余10秒 **"
 	}
 	"@[Map] ERROR Give weapon CT&T"
 	{
-		"chi"		"** **"
+		"chi"		"**错误 CT和T给予武器 **"
 	}
 	"@[Map] Winners Get 10 Points"
 	{
-		"chi"		"** **"
+		"chi"		"**胜者获得10点 **"
 	}
 }
