@@ -31,6 +31,7 @@
 	"**The teleporter to Feywood will be active in 30 seconds**"
 	{
 		"chi"		"**传送门将在30秒后激活 **"
+		"DoorCountDown" "30"
 	}
 	"**GET INTO THE TELEPORTER**"
 	{
@@ -51,6 +52,7 @@
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**门将在20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
 	{
@@ -59,6 +61,7 @@
 	"**DEFEND THE GROUND FOR 30 SECONDS**"
 	{
 		"chi"		"**守住这里30秒 **"
+		"DoorCountDown" "30"
 	}
 	"ITEM - DARK MAGICK (DARKAGA) EFFECT - PULLS ALL NEARBY HUMANS DURATION - 1 SECOND ITEM LEVEL - 1"
 	{
@@ -103,6 +106,7 @@
 	"**THE WAY WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**门将在25秒后开启 **"
+		"DoorCountDown" "25"
 	}
 	"ITEM - HEAL MAGICK (CURAGA) EFFECT - HEALS AND PROTECTS FROM ZOMBIES ALL NEARBY HUMANS DURATION - 5 SECONDS ITEM LEVEL - 1"
 	{
@@ -135,6 +139,7 @@
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后关闭 **"
+		"DoorCountDown" "25"
 	}
 	"**THE GATES ARE CLOSING**"
 	{
@@ -171,10 +176,12 @@
 	"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**坟墓的大门将在20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开 **"
+		"DoorCountDown" "25"
 	}
 	"**THE GATES WILL OPEN IN 5 SECONDS**"
 	{
@@ -202,7 +209,7 @@
 	}
 	"**CHUCHULAINN HAS USED SHIELD(YOU CANT USE ITEMS FOR 10 SEC)**"
 	{
-		"chi"		"**沼跃鱼使用了盾（护盾持续10秒.10秒内免疫神器造成的伤害及控制） **"
+		"chi"		"**沼跃鱼使用了盾（护盾持续10秒.10秒内免疫神器造成的伤害及控制）**"
 	}
 	"ITEM - DARK MAGICK (DARKAGA) EFFECT - PULLS ALL NEARBY ZOMBIES DURATION - 6.5 SECONDS ITEM LEVEL - 2"
 	{
@@ -258,11 +265,13 @@
 	}
 	"**THE DRAGON USED FIRE**"
 	{
-		"chi"		"**巨龙使用了魔法-龙之吐息 **"
+		"chi"		"**巨龙使用了魔法-龙之吐息（在必要时使用奶）
+		"ico"   "icon_fire"**"
 	}
 	"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
 	{
 		"chi"		"**巨龙吸收了攻击力（一发子弹回复10HP） **"
+		"ico"   "icon_fire"
 	}
 	"**THE DRAGON USED POISON**"
 	{
@@ -283,6 +292,7 @@
 	"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
 	{
 		"chi"		"**坟墓的大门25秒后关闭（装逼的自重） **"
+		"DoorCountDown" "25"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
 	{
@@ -319,6 +329,7 @@
 	"**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**"
 	{
 		"chi"		"**你需要打破左右两边的晶体才能打开门 **"
+		"ico"   "icon_fire"
 	}
 	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	{
@@ -331,6 +342,7 @@
 	"**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**"
 	{
 		"chi"		"**轮回王使用了神圣魔法**快远离它!!! **"
+		"ico"   "icon_fire"
 	}
 	"**CHAOS HAS CAST TORNADO**"
 	{
@@ -359,6 +371,7 @@
 	"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
 	{
 		"chi"		"**飞艇将在35秒后离开.坚守阵地 **"
+		"DoorCountDown" "35"
 	}
 	"**5 SECONDS LEFT**"
 	{
@@ -407,6 +420,7 @@
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
 		"chi"		"**死守20秒 **"
+		"DoorCountDown" "20"
 	}
 	"**THE FENCES WILL OPEN SOON**"
 	{
@@ -415,6 +429,7 @@
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**该矿井的入口将在20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"**Good luck...**"
 	{
@@ -439,6 +454,7 @@
 	"***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
 	{
 		"chi"		"**戒律王使用了秒杀.快远离它 **"
+		"ico"   "icon_fire"
 	}
 	"**ZODIARK READIES SHIELD(BULLETS AND NADES DONT DAMAGE HIM)**"
 	{
@@ -459,6 +475,7 @@
 	"**THE END GATES WILL OPEN IN 50 SECONDS**"
 	{
 		"chi"		"**最后的大门将在50秒后打开 **"
+		"DoorCountDown" "50"
 	}
 	"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
 	{
@@ -467,6 +484,7 @@
 	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
 		"chi"		"**在这里守住15秒！ **"
+		"DoorCountDown" "15"
 	}
 	"**GO GO GO!!**"
 	{
@@ -479,6 +497,7 @@
 	"**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
 	{
 		"chi"		"**这里将在15秒后爆炸.守住这里 **"
+		"DoorCountDown" "15"
 	}
 	"**OH NO... THIS IS CHOCOBO**"
 	{
@@ -507,6 +526,7 @@
 	"**4 MINUTES LEFT!**"
 	{
 		"chi"		"**还剩4分钟 **"
+		"DoorCountDown" "240"
 	}
 	"**3 MINUTES LEFT!**"
 	{
