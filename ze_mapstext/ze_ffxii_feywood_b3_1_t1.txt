@@ -2,558 +2,558 @@
 {
 	"**WARMUP ROUND**"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合 **"
 	}
 	"**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢Kaesar Batnik_Ref.smd Kaem汉尼拔[SPA]和Slayersdragon **"
 	}
 	"**MAP START**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图启动 **"
 	}
 	"**ZE_FFXII_FEYWOOD**"
 	{
-		"chi"		"** **"
+		"chi"		"**最终幻想12：幻妖之森 **"
 	}
 	"**MAP BY HaRyDe & Headshooter.SC**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：HaRyDe & Headshooter.SC 地图翻译：蓬莱山帅比♪**"
 	}
 	"**Welcome to Garland airship**"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到加兰德飞艇 **"
 	}
 	"**The airship is flying near Feywood. Search for some of items and get ready to set out**"
 	{
-		"chi"		"** **"
+		"chi"		"**飞艇正在接近幻妖之森附近.在飞艇上寻找一些物品.准备着陆 **"
 	}
 	"**The teleporter to Feywood will be active in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门将在30秒后激活 **"
 	}
 	"**GET INTO THE TELEPORTER**"
 	{
-		"chi"		"** **"
+		"chi"		"**进入传送门 **"
 	}
 	"**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了狂暴魔法 **"
 	}
 	"ITEM - ICE MAGICK (BLIZZAGA) EFFECT - FREEZES ALL NEARBY ZOMBIES DURATION - 6 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-冰 (BLIZZAGA) 效果（冻结所有附近的僵尸.持续时间6秒)神器等级1 **"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了冰**(LEVEL 1) **"
 	}
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点将在10秒后激活 **"
 	}
 	"**DEFEND THE GROUND FOR 30 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里30秒 **"
 	}
 	"ITEM - DARK MAGICK (DARKAGA) EFFECT - PULLS ALL NEARBY HUMANS DURATION - 1 SECOND ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器-黑洞 (DARKAGA) 效果（把附近所有的人类吸到一个位置.持续时间1秒）神器等级1 **"
 	}
 	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起黑洞**(LEVEL 1) **"
 	}
 	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在20秒后打开 **"
 	}
 	"ITEM - DARK MAGICK (DARKAGA) EFFECT - PULLS ALL NEARBY ZOMBIES DURATION - 5 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-黑洞 (DARKAGA) 效果（把附近所以的僵尸吸到一个位置.持续时间5秒）神器等级1 **"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起黑洞**(LEVEL 1) **"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门将在15秒后启动 **"
 	}
 	"**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**"
 	{
-		"chi"		"** **"
+		"chi"		"**你们正在进入golmore丛林**祝你们好运 **"
 	}
 	"ITEM - ELECTRO MAGICK (THUNDAGA) EFFECT - SLOWS AND DAMAGES ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-电（thundaga）效果（对僵尸造成减速并对僵尸造成伤害.持续时间7秒）神器等级1 **"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了电**(LEVEL 1) **"
 	}
 	"**YOU WILL ENTER IN 5 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**你将在5秒后进入 **"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在25秒后开启 **"
 	}
 	"ITEM - HEAL MAGICK (CURAGA) EFFECT - HEALS AND PROTECTS FROM ZOMBIES ALL NEARBY HUMANS DURATION - 5 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-奶 (CURAGA) （治疗并保护附近的人类免于僵尸感染.持续时间5秒）神器等级1 **"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了奶**(LEVEL 1) **"
 	}
 	"**THE WAY IS OPENED**"
 	{
-		"chi"		"** **"
+		"chi"		"**路已开启 **"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
 	{
-		"chi"		"** **"
+		"chi"		"**前进的路将在25秒后开放**继续防守 **"
 	}
 	"ITEM - WIND MAGICK (AEROGA) EFFECT - MAKES A TORNADO THAT PUSHES AWAY ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-风 (AEROGA) 效果（形成推力屏障阻挡僵尸靠近.持续时间7秒）神器等级1 **"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了风**(LEVEL 1)**"
 	}
 	"**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们得到了它！**在小房间里防守一段时间 **"
 	}
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在25秒后关闭 **"
 	}
 	"**THE GATES ARE CLOSING**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门关闭 **"
 	}
 	"** GOOD JOB [YOU WON LEVEL 3] **"
 	{
-		"chi"		"** **"
+		"chi"		"**干的漂亮[你赢了第三关] **"
 	}
 	"ITEM - WIND MAGICK (AEROGA) EFFECT - MAKES A TORNADO THAT PUSHES AWAY ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 2"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-风 (AEROGA) 效果（形成推力屏障阻挡僵尸靠近.持续时间7秒）神器等级2（范围加大） **"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了风**(LEVEL 2) **"
 	}
 	"ITEM - FIRE MAGICK (FIRAGA) EFFECT - IGNITES ALL NEARBY ZOMBIES DURATION - 8 SECONDS ITEM LEVEL - 2"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-火 (FIRAGA) 效果（点燃后对僵尸造成伤害并减速.持续时间8秒）神器等级2（范围加大） **"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了火(LEVEL 2) **"
 	}
 	"ITEM - ICE MAGICK (BLIZZAGA) EFFECT - FREEZES ALL NEARBY ZOMBIES DURATION - 6 SECONDS ITEM LEVEL - 2"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-冰 (BLIZZAGA) 效果（冻结所有附近的僵尸.持续时间6秒)神器等级2（范围变大） **"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了冰**(LEVEL 2) **"
 	}
 	"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**坟墓的大门将在20秒后打开 **"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在25秒后打开 **"
 	}
 	"**THE GATES WILL OPEN IN 5 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	"ITEM - HEAL MAGICK (CURAGA) EFFECT - HEALS AND PROTECTS FROM ZOMBIES ALL NEARBY HUMANS DURATION - 5 SECONDS ITEM LEVEL - 2"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-奶 (CURAGA) （治疗并保护附近的人类免于僵尸感染.持续时间5秒）神器等级2 **"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了奶**(LEVEL 2) **"
 	}
 	"**FALL BACK**10 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退**还剩10秒 **"
 	}
 	"**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**"
 	{
-		"chi"		"** **"
+		"chi"		"**沼跃鱼使用了剧毒攻击 **"
 	}
 	"**CHUCHULAINN HAS HEALED 150 HP**"
 	{
-		"chi"		"** **"
+		"chi"		"**沼跃鱼恢复了150HP **"
 	}
 	"**CHUCHULAINN HAS USED SHIELD(YOU CANT USE ITEMS FOR 10 SEC)**"
 	{
-		"chi"		"** **"
+		"chi"		"**沼跃鱼使用了盾（护盾持续10秒.10秒内免疫神器造成的伤害及控制） **"
 	}
 	"ITEM - DARK MAGICK (DARKAGA) EFFECT - PULLS ALL NEARBY ZOMBIES DURATION - 6.5 SECONDS ITEM LEVEL - 2"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-黑洞 (DARKAGA) 效果（把附近所有的僵尸吸到一个位置.持续时间6.5秒）神器等级2 **"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了黑洞**(LEVEL 2) **"
 	}
 	"ITEM - WARP MAGICK EFFECT - SERIOUSLY DAMAGES ALL NEARBY HUMANS DURATION - MOMENTARY ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器-伤害 （DAMAGE）效果（立即对自身附近的人类造成90HP伤害.持续时间-瞬间）神器等级1**"
 	}
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了伤害**(LEVEL 1) **"
 	}
 	"ITEM - FIRE MAGICK (FIRAGA) EFFECT - IGNITES ALL NEARBY HUMANS DURATION - 2 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器-火 (FIRAGA) 效果（点燃附近的所有的人类.持续时间2秒）神器等级1**"
 	}
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了火**(LEVEL 1)**"
 	}
 	"ITEM - FIRE MAGICK (FIRAGA) EFFECT - IGNITES ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-火 (FIRAGA) 效果（点燃后对僵尸造成伤害并减速.持续时间7秒）神器等级1**"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了火**(LEVEL 1) **"
 	}
 	"**CHOCHOBO SIDEQUEST STRATED**"
 	{
-		"chi"		"** **"
+		"chi"		"**陆行鸟支线任务启动 **"
 	}
 	"**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找300 GAL来解锁陆行鸟 **"
 	}
 	"**Cactus found. The player who did it got 1 level**"
 	{
-		"chi"		"** **"
+		"chi"		"**仙人掌被发现.找到的人神器等级+1 **"
 	}
 	"**THIS IS A DRAGON**WE MUST KILL HIM**"
 	{
-		"chi"		"** **"
+		"chi"		"**是一条龙**我们必须杀了它 **"
 	}
 	"** Nades do more damage **"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷能造成更多伤害 **"
 	}
 	"**THE DRAGON USED FIRE**"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了魔法-龙之吐息 **"
 	}
 	"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙吸收了攻击力（一发子弹回复10HP） **"
 	}
 	"**THE DRAGON USED POISON**"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了魔法-剧毒之雨 **"
 	}
 	"**THE DRAGON IS FLYING AWAY**GOOD WORK**"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙飞走了**干的漂亮 **"
 	}
 	"**THE ROCK WILL EXPLODE IN 5 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石将在5秒后爆炸 **"
 	}
 	"**THE TOMB GATES WILL OPEN IN 10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**坟墓的大门将在10秒后开启 **"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**坟墓的大门25秒后关闭（装逼的自重） **"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**坟墓的大门5秒后关闭（装逼的自重） **"
 	}
 	"** GOOD JOB [YOU WON LEVEL 1] **"
 	{
-		"chi"		"** **"
+		"chi"		"**干的漂亮[你赢了第一关] **"
 	}
 	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了奶**(LEVEL 1) **"
 	}
 	"ITEM - HEAL MAGICK (CURAGA) EFFECT - HEALS ALL NEARBY ZOMBIES BY 7500 HP DURATION - 5 SECONDS ITEM LEVEL - 1"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-奶 (CURAGA) （治疗并保护附近的人类免于僵尸感染.持续时间5秒）神器等级1**"
 	}
 	"ITEM - ELECTRO MAGICK (THUNDAGA) EFFECT - SLOWS AND DAMAGES ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 2"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-电（thundaga）效果（对僵尸造成减速并对僵尸造成伤害.持续时间7秒）神器等级2 **"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了电**(LEVEL 2) **"
 	}
 	"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石将在15秒后爆炸（不要靠近） **"
 	}
 	"**THE GATES ARE OPENING**"
 	{
-		"chi"		"** **"
+		"chi"		"**门已经打开 **"
 	}
 	"**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要打破左右两边的晶体才能打开门 **"
 	}
 	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**干得好！大门将在20秒后打开 **"
 	}
 	"**OH NO! THIS IS A CHAOS**"
 	{
-		"chi"		"** **"
+		"chi"		"**OH 不！是轮回王-Chaos **"
 	}
 	"**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**轮回王使用了神圣魔法**快远离它!!! **"
 	}
 	"**CHAOS HAS CAST TORNADO**"
 	{
-		"chi"		"** **"
+		"chi"		"**轮回王使用了魔法-咆哮飓风 **"
 	}
 	"**CHAOS HAS CAST BLIZZAGA**"
 	{
-		"chi"		"** **"
+		"chi"		"**轮回王使用了魔法-寒冰禁域 **"
 	}
 	"**CHAOS HAS CAST FIRAGA**"
 	{
-		"chi"		"** **"
+		"chi"		"**轮回王试用了魔法-烈焰滔天 **"
 	}
 	"**WE HAVE DEFEATED CHAOS**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们打败了轮回王 **"
 	}
 	"**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须尽快离开这座神庙 **"
 	}
 	"**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们即将离开坟墓.大门将在20秒后打开 **"
 	}
 	"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
 	{
-		"chi"		"** **"
+		"chi"		"**飞艇将在35秒后离开.坚守阵地 **"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒（装逼的自重） **"
 	}
 	"**THE AIR SHIP IS LEAVING...**"
 	{
-		"chi"		"** **"
+		"chi"		"**飞艇离开了… **"
 	}
 	"** GOOD JOB [YOU WON LEVEL 2] **"
 	{
-		"chi"		"** **"
+		"chi"		"**干的漂亮[你赢了第二关] **"
 	}
 	"ITEM - ICE MAGICK (BLIZZAGA) EFFECT - FREEZES ALL NEARBY ZOMBIES DURATION - 6 SECONDS ITEM LEVEL - 3"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-冰 (BLIZZAGA) 效果（冻结所有附近的僵尸.持续时间6秒)神器等级3（范围加大**"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了冰**(LEVEL_MAX) **"
 	}
 	"ITEM - DARK MAGICK (DARKAGA) EFFECT - PULLS ALL NEARBY ZOMBIES DURATION - 8 SECONDS ITEM LEVEL - 3"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-黑洞 (DARKAGA) 效果（把附近所以的僵尸吸到一个位置.持续时间8秒）神器等级3（持续时间加强.范围加大**"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了黑洞**(LEVEL_MAX) **"
 	}
 	"**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**"
 	{
-		"chi"		"** **"
+		"chi"		"**飞艇正在被守护者攻击 **"
 	}
 	"**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
 	{
-		"chi"		"** **"
+		"chi"		"**仙人掌挡住了去路.开枪射击 **"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门将在20秒后启动 **"
 	}
 	"**THE GATES WILL OPEN IN 10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒后打开 **"
 	}
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**死守20秒 **"
 	}
 	"**THE FENCES WILL OPEN SOON**"
 	{
-		"chi"		"** **"
+		"chi"		"**栅栏很快就会升起 **"
 	}
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**该矿井的入口将在20秒后打开 **"
 	}
 	"**Good luck...**"
 	{
-		"chi"		"** **"
+		"chi"		"**祝你们好运... **"
 	}
 	"**YOU WILL ENTER THE ARENA IN 10 SECONDS****"
 	{
-		"chi"		"** **"
+		"chi"		"**你将在10秒后进入竞技场 **"
 	}
 	"**Nades do more damage**"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷能造成更多伤害 **"
 	}
 	"**ZODIARK READIES FLARE**"
 	{
-		"chi"		"** **"
+		"chi"		"**戒律王使用了炙热射线 **"
 	}
 	"**ZODIARK READIES DARK. USE HEAL IF NESSESARY**"
 	{
-		"chi"		"** **"
+		"chi"		"**戒律王使用了暗黑攻击.在必要时使用奶 **"
 	}
 	"***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**戒律王使用了秒杀.快远离它 **"
 	}
 	"**ZODIARK READIES SHIELD(BULLETS AND NADES DONT DAMAGE HIM)**"
 	{
-		"chi"		"** **"
+		"chi"		"**戒律王使用了盾（子弹和手雷不会对它造成伤害） **"
 	}
 	"**THE BOSS IS DAMAGED BUT NOW HES THE MOST DANGEROUS**"
 	{
-		"chi"		"** **"
+		"chi"		"**戒律王受到了重创.但他现在十分危险 **"
 	}
 	"**KILL HIM FASTER**"
 	{
-		"chi"		"** **"
+		"chi"		"**快杀了它 **"
 	}
 	"**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**"
 	{
-		"chi"		"** **"
+		"chi"		"**你杀死了戒律王.是时候离开这里了 **"
 	}
 	"**THE END GATES WILL OPEN IN 50 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门将在50秒后打开 **"
 	}
 	"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门将在10秒后打开.准备决一死战 **"
 	}
 	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住15秒！ **"
 	}
 	"**GO GO GO!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**走！ **"
 	}
 	"**WE KILLED HIM. GO TO THE END OF THE ROAD***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们已经杀了它.去路的尽头 **"
 	}
 	"**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**这里将在15秒后爆炸.守住这里 **"
 	}
 	"**OH NO... THIS IS CHOCOBO**"
 	{
-		"chi"		"** **"
+		"chi"		"**OH 不...是陆行鸟 **"
 	}
 	"** CONGRATILATIONS!!! [YOU WON LEVEL 5] **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜!![你赢了第五关] **"
 	}
 	"**THE MAP IS BEATEN. ZOMBIE ROUNDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图结束-ZM回合 **"
 	}
 	"**THE TELEPORTER TO RABANASTRA IS OPENED**"
 	{
-		"chi"		"** **"
+		"chi"		"**rabanastra传送点被打开 **"
 	}
 	"**TRY TO SURVIVE WITHOUT ANY ITEMS**"
 	{
-		"chi"		"** **"
+		"chi"		"**尝试在没有神器的回合生存 **"
 	}
 	"**RELAX AND JUST ENJOY THE MUSIC)**"
 	{
-		"chi"		"** **"
+		"chi"		"**放松.享受音乐 **"
 	}
 	"**4 MINUTES LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩4分钟 **"
 	}
 	"**3 MINUTES LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩3分钟 **"
 	}
 	"**2 MINUTES LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩2分钟 **"
 	}
 	"**1 MINUTE LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩1分钟 **"
 	}
 	"**30 SECONDS LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"**15 SECONDS LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩15秒 **"
 	}
 	"**5 SECONDS LEFT!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"**THANK YOU FOR PLAYING THE MAP**"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢你玩本地图 **"
 	}
 	"**MAP RESET**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图重置 **"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了电**(LEVEL_MAX) **"
 	}
 	"ITEM - ELECTRO MAGICK (THUNDAGA) EFFECT - SLOWS AND DAMAGES ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 3"
 	{
-		"chi"		"** **"
+		"chi"		"**神器-电（thundaga）效果（对僵尸造成减速并对僵尸造成伤害.持续时间7秒）神器等级3（伤害加强**"
 	}
 	"**THE DRAGON USED WIND**"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了魔法-咆哮飓风 **"
 	}
 	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须杀死所有的僵尸赢得胜利 **"
 	}
 }
