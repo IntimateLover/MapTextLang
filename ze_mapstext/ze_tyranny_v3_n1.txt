@@ -2,58 +2,58 @@
 {
 	">>> Map created by Moray <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Moray 翻译：浅见执羽 文本修复：天子**"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家10秒后传送 **"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家5秒后传送 **"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后激活传送 **"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙施放了水柱.快躲开 **"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙施放了烈焰（迅速朝两边躲闪） **"
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙施放了黑洞（按住S以防止被拖到巨龙脚下） **"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Jetstream Sam被击败！ **"
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**打破雕像获得神器 **"
 	}
 	">>> NOOB TRASHED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**菜鸟已出局 **"
 	}
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔施放了护盾.不要使用神器 **"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守45秒 **"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**射击卡冈都亚 **"
 	}
 	">>> ALL ZM ITEMS IS LOCKED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有ZM神器已经锁定 **"
 	}
 }
