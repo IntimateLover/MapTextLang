@@ -127,8 +127,8 @@
 	}
 	"***TELEPORT WILL ACTIVATE IN 40s***"
 	{
-		"chi"		"**传送点在40秒后激活**"
-		"DoorCountdown"		"40"
+		"chi"		"**传送点在30秒后激活**"
+		"DoorCountdown"		"30"
 	}
 	"***TELEPORTER IS ENABLED***"
 	{
