@@ -2,374 +2,392 @@
 {
 	">>> Map created by Moray <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Moray 翻译：浅见执羽 文本修复：天子 **"
 	}
 	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还剩30秒 **"
 	}
 	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还剩20秒 **"
 	}
 	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还剩10秒 **"
 	}
 	">>> WARMUP ROUND END <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合结束 **"
 	}
 	">>> STAGE 1 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	">>> ENTRANCE DOOR OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**入口大门开启 **"
 	}
 	">>> HOLD 25 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
+		"DoorCountdown"		"25"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起守护圣光 **"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在10秒后传送 **"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountdown"		"20"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起烈焰熊熊 **"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起咆哮飓风 **"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在5秒后传送 **"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10秒 **"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守5秒 **"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒 **"
+		"DoorCountdown"		"15"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起寒冰禁域 **"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛来了 **"
 	}
 	">>> SPIDER USED POISON. HURRY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛使用了毒.快开奶抵抗 **"
+		"ico"		"icon_fire"
 	}
 	">>> SPIDER IS DEAD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛已被杀死 **"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送点激活 **"
+		"DoorCountdown"		"20"
 	}
 	">>> DOOR CLOSING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门关闭 **"
 	}
 	">>> LEVEL COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成 **"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛40秒后结束 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了治疗 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了火焰 **"
 	}
 	">>> STAGE 2 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	">>> GO RIGHT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**神器拿完后回头接人.其他人向右走 **"
+		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了雷电风暴 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了毒药 **"
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了无限子弹 **"
 	}
 	">>> TROLL IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人来了 **"
 	}
 	">>> TROLL IS DEAD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人死了 **"
 	}
 	">>> ITS DRAGON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一条巨龙 **"
 	}
 	">>> DRAGON IS HURT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙受伤了 **"
 	}
 	">>> FAIL ROUND <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	">>> STAGE 3 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了障碍重重 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了隐身 **"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountdown"		"30"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了摇曳 **"
 	}
 	">>> DRAGON IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙来了 **"
 	}
 	">>> DRAGON USED GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了黑洞（按住S以防止被拖到巨龙脚下或者使用树篱） **"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了火（迅速朝两边躲闪） **"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了毒 **"
 	}
 	">>> GATE OPENING IN 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后开启 **"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
+		"DoorCountdown"		"35"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒.不要恋战 **"
 	}
 	">>> RUN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**跑 **"
 	}
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人正在步步紧追.千万别停下脚步！ **"
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙又来了.快开枪 **"
 	}
 	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙受伤了.快进传送点 **"
 	}
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点10秒后激活 **"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了杀戮法杖 **"
 	}
 	">>> STAGE 4 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了黑洞 **"
 	}
 	">>> GARGANTUA IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人来了 **"
 	}
 	">>> GARGANTUA USED KILLER. GO SIDE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人使用了杀戮（迅速跑向场地边缘） **"
+		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人使用了剧毒 **"
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人使用了火 **"
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人使用了风 **"
 	}
 	">>> GARGANTUA USED ICE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人使用了冰 **"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Jetstream Sam被打败了 **"
 	}
 	">>> GARGANTUA IS DEAD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人已经死了 **"
 	}
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门10秒后打开 **"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守40秒 **"
+		"DoorCountdown"		"40"
 	}
 	">>> HOLD 15 SECONDS<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒 **"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**桥断了 **"
 	}
 	">>> ITS BALROG <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔出现 **"
 	}
 	">>> BALROG IS ESCAPED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔逃走了 **"
 	}
 	">>> STAGE 5 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关 **"
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**打破雕像获得神器 **"
 	}
 	">>> NOOB TRASHED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**菜鸟玩家已出局 **"
 	}
 	">>> BALROG IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔来了 **"
 	}
 	">>> BALROG USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了剧毒（高伤害，看准光球位置左右躲开） **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了风（切刀按住W以防止被推下平台） **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了杀戮（迅速跑回平台末端） **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了盾.不要使用神器 **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了激光.快蹲下躲避 **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了火（看清位置左右躲避） **"
+		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起黑洞 **"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔恢复了150HP **"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了黑洞（切刀按住S，千万不要被拖到炎魔脚下，或者使用树篱） **"
 	}
 	">>> BALROG IS HURT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔受伤了 **"
 	}
 	">>> TELEPORTING ... <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点已开启… **"
 	}
 	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙已经死了.继续跑 **"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守45秒 **"
+		"DoorCountdown"		"45"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**开枪射击 **"
 	}
 	">>> ALL ZM ITEMS IS LOCKED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有僵尸神器已被锁定 **"
 	}
 	">>> BALROG IS BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔又来了 **"
 	}
 	">>> BALROG IS DEAD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔死了 **"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了水.快躲开 **"
 	}
 }
