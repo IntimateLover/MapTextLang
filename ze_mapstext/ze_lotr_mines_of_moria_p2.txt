@@ -14,7 +14,7 @@
 	}
 	"**Saruman staff has been picked!**"
 	{
-		"chi"		"**一位玩家捡起了萨鲁曼的权杖**"
+		"chi"		"**一位玩家拾起了萨鲁曼法杖（减速僵尸）**"
 	}
 	"**Humans have reached Balins tomb! Resist 55 s**"
 	{
@@ -46,7 +46,7 @@
 	}
 	"**Gandalf staff has been picked!**"
 	{
-		"chi"		"**一位玩家捡起了甘道夫的权杖**"
+		"chi"		"**一位玩家拾起了甘道夫法杖（弹飞僵尸，慎用！！！！）**"
 	}
 	"**Stay in the circle! Zombies cant go in!**"
 	{

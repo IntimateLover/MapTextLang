@@ -220,4 +220,32 @@
 	{
 		"chi"		"** **"
 	}
+	"@[Weapon] Awp"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 200"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds slay"
+	{
+		"chi"		"** **"
+	}
+	"@ TimeLimit!"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] Knife"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 250"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] High gravity"
+	{
+		"chi"		"** **"
+	}
 }

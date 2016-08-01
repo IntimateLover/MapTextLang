@@ -1,0 +1,261 @@
+"Console_T"
+{
+	"### STAGE : HUMAN ###"
+	{
+		"chi"		"**阶段:人类 **"
+	}
+	"### WELCOME TO : HIDDEN TEMPLE ##"
+	{
+		"chi"		"**欢迎来到:隐秘神庙 **"
+	}
+	"### MAP CREATED BY NARAKA ###"
+	{
+		"chi"		"**地图制作:NARAKA 地图翻译:不清新的木心♪**"
+	}
+	"### GATES OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大门30秒内打开 **"
+	}
+	"### 10 SECOND REMAINING ###"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"### DEFEND UNTIL GATES CLOSED ###"
+	{
+		"chi"		"**守到大门关闭 **"
+	}
+	"### HOLD THIS AREA FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住这个区域30秒**"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"### FALL BACK NOW !!! ###"
+	{
+		"chi"		"**现在撤退!!! **"
+	}
+	"### GATE OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大门30秒后打开 **"
+		"DoorCountDown" "30"
+	}
+	"### YOU NEED TO CROSS BACK ###"
+	{
+		"chi"		"**你需要原路返回 **"
+	}
+	"### PILLARS GONNA BREAK SOON ###"
+	{
+		"chi"		"**柱子马上就会倒塌 **"
+	}
+	"### GATE IS OPENING ###"
+	{
+		"chi"		"**大门已开启 **"
+	}
+	"### RIGHT LEVER ACTIVATED ###"
+	{
+		"chi"		"**右边机关已激活 **"
+	}
+	"### LEFT LEVER ACTIVATED ###"
+	{
+		"chi"		"**左边机关已激活 **"
+	}
+	"### ALL 2 LEVERS ACTIVATED ###"
+	{
+		"chi"		"**两个开关全部激活 **"
+	}
+	"### HOLD THIS AREA ###"
+	{
+		"chi"		"**守住这个地方 **"
+	}
+	"### GATE OPEN !! FALL BACK NOW ###"
+	{
+		"chi"		"**大门打开了!!现在撤退 **"
+	}
+	"### DEFEND BOTH DOORS ###"
+	{
+		"chi"		"**守住这两扇门 **"
+	}
+	"### WHILE SOMEONE GO ACTIVED LEVER ###"
+	{
+		"chi"		"**一个人去启动开关 **"
+	}
+	"### HOLD THIS HALL UNTIL GATE OPEN ###"
+	{
+		"chi"		"**守住这个大厅直到大门开启 **"
+	}
+	"### GATE IS OPENING SOON !! ###"
+	{
+		"chi"		"**门很快就开了!! **"
+	}
+	"### PRESS THE LAST LEVER ###"
+	{
+		"chi"		"**按最后一个开关 **"
+	}
+	"### AND COME BACK BEFORE IT COLLAPSE ###"
+	{
+		"chi"		"**在它崩溃之前回来 **"
+	}
+	"### HOLD THESE LADDERS ###"
+	{
+		"chi"		"**守住这些梯子 **"
+	}
+	"### UNTIL FINAL GATES OPEN ###"
+	{
+		"chi"		"**直到大门打开 **"
+	}
+	"### FINAL GATES OPEN IN 40 SECONDS ###"
+	{
+		"chi"		"**最后大门将在40秒内打开 **"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩30秒 **"
+		"DoorCountDown" "30"
+	}
+	"### FINAL GATES IS OPENING FALL BACK ###"
+	{
+		"chi"		"**最后大门已打开撤退 **"
+	}
+	"### HOLD UNTIL THE GATES CLOSED ###"
+	{
+		"chi"		"**守住，直到大门关闭 **"
+	}
+	"### STAGE FAILED ###"
+	{
+		"chi"		"**闯关失败 **"
+	}
+	"### STAGE COMPLETED ###"
+	{
+		"chi"		"**闯关成功 **"
+	}
+	"### STAGE : HELL (NARAKA) ###"
+	{
+		"chi"		"**阶段:地狱(NARAKA) **"
+	}
+	"### RIGHT GATES OPEN ###"
+	{
+		"chi"		"**右边大门开启 **"
+	}
+	"### DEFEND HERE ###"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"### 2 LEVERS NEED TO ACTIVE TO OPEN THE DOOR ###"
+	{
+		"chi"		"**这个门需要开启两个开关才能打开 **"
+	}
+	"### ZOMBIES ARE COMING FOR LEFT SIDE ###"
+	{
+		"chi"		"**僵尸可以从左侧过来 **"
+		"ico"   "icon_fire"
+	}
+	"### HOLD FOR 30 SECONDS ###"
+	{
+		"chi"		"**坚持30秒 **"
+		"DoorCountDown" "30"
+	}
+	"## HOLD HERE FOR A BIT ###"
+	{
+		"chi"		"**在这里守一会 **"
+	}
+	"### DEFEND BOTH SIDES ###"
+	{
+		"chi"		"**守住两侧 **"
+	}
+	"### HOLD FOR 20 SECONDS ###"
+	{
+		"chi"		"**坚持20秒 **"
+		"DoorCountDown" "20"
+	}
+	"### CRATES CANNOT HOLD ZOMBIES ANYMORE ###"
+	{
+		"chi"		"**木箱没办法再抵御僵尸了 **"
+	}
+	"### DEFEND THIS HALL WAY ###"
+	{
+		"chi"		"**守住这个 **"
+	}
+	"### ACTIVE 2 LEVERS TO OPEN GATES ###"
+	{
+		"chi"		"**激活两个开关来开启大门 **"
+	}
+	"### HOLD HERE UNTIL GATES OPEN ###"
+	{
+		"chi"		"**守住这里，直到大门开启 **"
+	}
+	"### HOLD FOR 15 SECONDS ###"
+	{
+		"chi"		"**坚持15秒 **"
+	}
+	"### CROSS THE BRIDGE BEFORE IT COLLAPSES ###"
+	{
+		"chi"		"**在桥倒塌之前过桥 **"
+	}
+	">>> KILL THAT HELLBRINGER IN 2 MINUTES <<<"
+	{
+		"chi"		"**在两分钟之内杀死这个丑比 **"
+	}
+	">>> BEFORE HE BE IMMORTAL AND RELEASE ZOMBIES <<<"
+	{
+		"chi"		"**在他不死和释放僵尸之前 **"
+	}
+	"lll NARAKA IS CASTING LIFESTEALER lll"
+	{
+		"chi"		"**地狱恶魔正在铸成生命窃取者(造成伤害) **"
+	}
+	"lll NARAKA IS CASTING DEATH BREATH lll"
+	{
+		"chi"		"**地狱恶魔正在铸造死亡的气 **"
+	}
+	"## NARAKA IS IMMORTAL NOW ##"
+	{
+		"chi"		"**地狱恶魔现在是不死的 **"
+	}
+	"### YOU HAVE NO CHANCE TO SURVIVE ###"
+	{
+		"chi"		"**你没有生存的机会了 **"
+	}
+	"### LEFT GATES OPEN ###"
+	{
+		"chi"		"**左边大门开启**"
+	}
+	">>> ITS DEAD. DEFEND UNTIL GATES OPEN <<<"
+	{
+		"chi"		"**它死了.守住,直到大门打开 **"
+	}
+	"### ACTIVE THE LEVER TO OPEN GATES ###"
+	{
+		"chi"		"**激活这个开关来开启大门 **"
+	}
+	"### HOLD BOTH SIDES FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住两边30秒 **"
+		"DoorCountDown" "30"
+	}
+	"### LEAVE THE ROOM OR DEAD ###"
+	{
+		"chi"		"**离开这个房间或死亡 **"
+	}
+	"### HOLD THIS HALL FOR A BIT ###"
+	{
+		"chi"		"**在这个大厅坚持一会 **"
+	}
+	"### SHOOT THE CROSS ###"
+	{
+		"chi"		"**打开教堂大门 **"
+	}
+	"### TO OPEN CHURCH GATES ###"
+	{
+		"chi"		"**打开教堂大门**"
+	}
+	"### CHURCH GATES OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**教堂大门30秒内开启 **"
+	}
+	"### CHURCH GATES CLOSED IN 10 SECONDS ###"
+	{
+		"chi"		"**教堂大门10秒内关闭 **"
+	}
+}

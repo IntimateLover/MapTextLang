@@ -6,7 +6,7 @@
 	}
 	"@ GRAV [ 2.0 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力 2.0**"
 	}
 	"@ SIMON SAYS FIVESEVEN"
 	{
@@ -30,7 +30,7 @@
 	}
 	"@ GRAV [ 0.7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力0.7**"
 	}
 	"@ SIMON SAYS USP"
 	{
@@ -50,7 +50,7 @@
 	}
 	"@ GRAV [ 0.5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力0.5**"
 	}
 	"@ SIMON SAYS AWP"
 	{
@@ -66,7 +66,7 @@
 	}
 	"@ GRAV [ 0.6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力 0.6**"
 	}
 	"@ SIMON SAYS MP7"
 	{
@@ -86,7 +86,7 @@
 	}
 	"@ GRAV [ 0.8 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力 0.8**"
 	}
 	"@ SIMON SAYS M249"
 	{
@@ -118,7 +118,7 @@
 	}
 	"@ GRAV [ 0.9 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力 0.9**"
 	}
 	"@ SIMON SAYS MAG7"
 	{
@@ -146,7 +146,7 @@
 	}
 	"@ GRAV [ 1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力 1**"
 	}
 	"@ SUPER POWER [ RAINBOW ]"
 	{
@@ -186,7 +186,7 @@
 	}
 	"@ GRAV [ 0.1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**重力 0.1**"
 	}
 	"@ ARENA  [ 36 ]"
 	{
@@ -234,7 +234,7 @@
 	}
 	"@ EFFECT [ T2 S2 E2 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果： T2 S2 E2**"
 	}
 	"@ ARENA  [ 42 ]"
 	{
@@ -274,7 +274,7 @@
 	}
 	"@ EFFECT [ T3 S2 E2 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E2**"
 	}
 	"@ ARENA  [ 18 ]"
 	{
@@ -286,7 +286,7 @@
 	}
 	"@ EFFECT [ T1 S3 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S3 E5**"
 	}
 	"@ ARENA  [ 8 ]"
 	{
@@ -330,7 +330,7 @@
 	}
 	"@ EFFECT [ T3 S2 E1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E1**"
 	}
 	"@ ARENA  [ 4 ]"
 	{
@@ -378,7 +378,7 @@
 	}
 	"@ EFFECT [ T1 S2 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S2 E7**"
 	}
 	"@ SIMON SAYS NEGEV"
 	{
@@ -386,7 +386,7 @@
 	}
 	"@ EFFECT [ T3 S2 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E3**"
 	}
 	"@ ARENA  [ 1 ]"
 	{
@@ -426,7 +426,7 @@
 	}
 	"@ EFFECT [ T3 S2 E6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E6**"
 	}
 	"@ ARENA  [ 44 ]"
 	{
@@ -434,7 +434,7 @@
 	}
 	"@ EFFECT [ T1 S1 E4 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E4**"
 	}
 	"@ SIMON SAYS REVOLVER"
 	{
@@ -446,19 +446,19 @@
 	}
 	"@ EFFECT [ T2 S1 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E3**"
 	}
 	"@ EFFECT [ T1 S1 E1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E1**"
 	}
 	"@ EFFECT [ T2 S1 E2 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E2**"
 	}
 	"@ EFFECT [ T1 S1 E2 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E2**"
 	}
 	"@ ARENA  [ 47 ]"
 	{
@@ -474,7 +474,7 @@
 	}
 	"@ EFFECT [ T1 S2 E6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S2 E6**"
 	}
 	"@ SIMON SAYS M4A1S"
 	{
@@ -486,11 +486,11 @@
 	}
 	"@ EFFECT [ T3 S1 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S1 E7**"
 	}
 	"@ EFFECT [ T1 S1 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E5**"
 	}
 	"@ ARENA  [ 31 ]"
 	{
@@ -506,7 +506,7 @@
 	}
 	"@ EFFECT [ T2 S2 E1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S2 E1**"
 	}
 	"@ ARENA  [ 22 ]"
 	{
@@ -621,6 +621,10 @@
 		"chi"		"** **"
 	}
 	"@ EFFECT [ T2 S1 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E6 ]"
 	{
 		"chi"		"** **"
 	}
