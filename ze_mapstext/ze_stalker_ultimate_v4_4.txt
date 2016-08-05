@@ -6,7 +6,7 @@
 	}
 	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"**这张地图根据游戏潜行者制作 **"
+		"chi"		"**这张地图根据游戏【潜行者】制作 **"
 	}
 	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
 	{
@@ -55,18 +55,22 @@
 	"***The control panel seems without power. Maybe using the lever will help***"
 	{
 		"chi"		"**控制器似乎没有电力.使用墙上的装置也许会有所帮助 **"
+		"ico"		"icon_fire"
 	}
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**门将在30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	"***Seems that works. Try to use the control panel to open the gates***"
 	{
 		"chi"		"**似乎已经有了电力.尝试使用控制器打开大门 **"
+		"ico"		"icon_fire"
 	}
 	"**Hold this position for 10 seconds**"
 	{
 		"chi"		"**守住这里.天窗将在10秒后破碎 **"
+		"DoorCountdown"		"10"
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
@@ -75,6 +79,7 @@
 	"Hold this position for 10 seconds!!"
 	{
 		"chi"		"**守住这里10秒！！ **"
+		"DoorCountdown"		"10"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
@@ -83,6 +88,7 @@
 	"**Survive for 70 seconds**"
 	{
 		"chi"		"**生存70秒 **"
+		"DoorCountdown"		"70"
 	}
 	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
 	{
