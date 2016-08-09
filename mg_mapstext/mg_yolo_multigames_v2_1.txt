@@ -186,14 +186,14 @@
 	}
 	"@[MAP] Knife damage allowed in 30 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后刀伤害生效 **"
 	}
 	"@[MAP] Knife damage allowed in 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后刀伤害生效 **"
 	}
 	"@[MAP] Knife damage enabled!"
 	{
-		"chi"		"** **"
+		"chi"		"**刀伤害生效 **"
 	}
 }
