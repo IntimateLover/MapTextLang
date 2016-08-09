@@ -514,15 +514,15 @@
 	}
 	"@ EFFECT [ T3 S1 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S1 E5 **"
 	}
 	"@ EFFECT [ T1 S2 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S2 E3 **"
 	}
 	"@ EFFECT [ T1 S2 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S2 E5 **"
 	}
 	"@ ARENA  [ 43 ]"
 	{
@@ -530,102 +530,102 @@
 	}
 	"@ EFFECT [ T2 S1 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E7 **"
 	}
 	"@ EFFECT [ T3 S2 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E5 **"
 	}
 	"@ EFFECT [ T1 S3 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S3 E7 **"
 	}
 	"@ EFFECT [ T1 S1 E6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E6 **"
 	}
 	"@ EFFECT [ T1 S2 E4 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S2 E4 **"
 	}
 	"@ EFFECT [ T2 S1 E4 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E4 **"
 	}
 	"@ EFFECT [ T2 S1 E6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E6 **"
 	}
 	"@ EFFECT [ T1 S3 E4 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S3 E4 **"
 	}
 	"@ EFFECT [ T1 S3 E2 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S3 E2 **"
 	}
 	"@ EFFECT [ T3 S2 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E7 **"
 	}
 	"@ EFFECT [ T2 S2 E4 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S2 E4 **"
 	}
 	"@ EFFECT [ T2 S2 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S2 E3 **"
 	}
 	"@ EFFECT [ T1 S1 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E3 **"
 	}
 	"@ EFFECT [ T2 S2 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S2 E5 **"
 	}
 	"@ EFFECT [ T3 S2 E4 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S2 E4 **"
 	}
 	"@ EFFECT [ T1 S1 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S1 E7 **"
 	}
 	"@ EFFECT [ T2 S2 E7 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S2 E7 **"
 	}
 	"@ EFFECT [ T1 S3 E6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S3 E6 **"
 	}
 	"@ EFFECT [ T3 S1 E2 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S1 E2 **"
 	}
 	"@ EFFECT [ T3 S1 E1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S1 E1 **"
 	}
 	"@ EFFECT [ T2 S1 E1 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E1 **"
 	}
 	"@ EFFECT [ T1 S3 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T1 S3 E3 **"
 	}
 	"@ EFFECT [ T3 S1 E3 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T3 S1 E3 **"
 	}
 	"@ EFFECT [ T2 S1 E5 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S1 E5 **"
 	}
 	"@ EFFECT [ T2 S2 E6 ]"
 	{
-		"chi"		"** **"
+		"chi"		"**效果：T2 S2 E6 **"
 	}
 }
