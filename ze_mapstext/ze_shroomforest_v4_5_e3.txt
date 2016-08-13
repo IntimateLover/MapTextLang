@@ -766,4 +766,56 @@
 	{
 		"chi"		"**检测到僵尸！！本关失败！！ **"
 	}
+	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
+	{
+		"chi"		"** **"
+	}
+	">> Congratulation ! <<"
+	{
+		"chi"		"** **"
+	}
+	">> You beat the map ! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Play ShroomForest2 to continue the adventure <<"
+	{
+		"chi"		"** **"
+	}
+	">> Feel free to visit the spawn <<"
+	{
+		"chi"		"** **"
+	}
+	">> Quick ZM Mode <<"
+	{
+		"chi"		"** **"
+	}
+	">> Zombies will spawn soon <<"
+	{
+		"chi"		"** **"
+	}
+	">> Survive 1 minute <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> If you change level via admin room <<"
+	{
+		"chi"		"** **"
+	}
+	">> Be sure to press Nuke Button <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
+	{
+		"chi"		"** **"
+	}
+	">> RESTARTING ROUND IN 5 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
 }
