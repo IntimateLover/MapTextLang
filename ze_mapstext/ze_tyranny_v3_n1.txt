@@ -2,7 +2,7 @@
 {
 	">>> Map created by Moray <<<"
 	{
-		"chi"		"**地图制作：Moray 汉化：寧々♪**"
+		"chi"		"**地图制作：Moray 翻译：浅见执羽 文本修复：天子**"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
@@ -15,21 +15,18 @@
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**20秒后激活传送 **"
-		"DoorCountDown" 	"20"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
-		"chi"		"**巨龙施放了水柱，往前跑！**"
-		"ico"		"icon_fire"
+		"chi"		"**巨龙施放了水柱.快躲开 **"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
-		"chi"		"**巨龙施放了烈焰，两边躲闪**"
-		"ico"		"icon_fire"
+		"chi"		"**巨龙施放了烈焰（迅速朝两边躲闪） **"
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
-		"chi"		"**巨龙又来了！**"
+		"chi"		"**巨龙施放了黑洞（按住S以防止被拖到巨龙脚下） **"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
@@ -37,321 +34,346 @@
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
 	{
-		"chi"		"**打破雕像获得神器**"
+		"chi"		"**打破雕像获得神器 **"
 	}
 	">>> NOOB TRASHED <<<"
 	{
-		"chi"		"**菜鸟已出局**"
+		"chi"		"**菜鸟已出局 **"
 	}
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
-		"chi"		"**炎魔施放了护盾，不要使用神器**"
-		"ico"		"icon_fire"
+		"chi"		"**炎魔施放了护盾.不要使用神器 **"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
 		"chi"		"**坚守45秒 **"
-		"DoorCountDown" 	"45"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
-		"chi"		"**射击GARGANTUA！**"
-		"ico"		"icon_fire"
+		"chi"		"**射击卡冈都亚 **"
 	}
 	">>> ALL ZM ITEMS IS LOCKED <<<"
 	{
-		"chi"		"**所有僵尸神器已经锁定 **"
+		"chi"		"**所有ZM神器已经锁定 **"
 	}
 	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
-		"chi"		"**热身还有30秒**"
+		"chi"		"** **"
 	}
 	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
 	{
-		"chi"		"**热身还有20秒**"
+		"chi"		"** **"
 	}
 	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
 	{
-		"chi"		"**热身还有10秒**"
+		"chi"		"** **"
 	}
 	">>> WARMUP ROUND END <<<"
 	{
-		"chi"		"**热身结束**"
+		"chi"		"** **"
 	}
 	">>> STAGE 1 <<<"
 	{
-		"chi"		"**第一关**"
+		"chi"		"** **"
 	}
 	">>> ENTRANCE DOOR OPENING <<<"
 	{
-		"chi"		"**入口大门打开**"
+		"chi"		"** **"
 	}
 	">>> HOLD 25 SECONDS <<<"
 	{
-		"chi"		"**大门25秒后开启**"
-		"DoorCountDown" 	"25"
+		"chi"		"** **"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
-		"chi"		"**守住20秒**"
-		"DoorCountDown" 	"20"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"chi"		"**玩家拾取了<风>**"
+		"chi"		"** **"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
-		"chi"		"**守住10秒**"
-		"DoorCountDown" 	"10"
+		"chi"		"** **"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
-		"chi"		"**守住5秒**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"chi"		"**玩家拾取了<奶>**"
+		"chi"		"** **"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
-		"chi"		"**守住15秒**"
-		"DoorCountDown" 	"15"
+		"chi"		"** **"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
-		"chi"		"**蜘蛛来了**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> DOOR CLOSING <<<"
 	{
-		"chi"		"**门关闭**"
+		"chi"		"** **"
 	}
 	">>> SPIDER USED POISON. HURRY <<<"
 	{
-		"chi"		"**蜘蛛施放了毒，快杀死它**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> LEVEL COMPLETED <<<"
 	{
-		"chi"		"**关卡完成**"
+		"chi"		"** **"
 	}
 	">>> STAGE 2 <<<"
 	{
-		"chi"		"**第二关**"
+		"chi"		"** **"
 	}
 	">>> GO RIGHT <<<"
 	{
-		"chi"		"**跑向右边铁门**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"**玩家拾取了<冰>**"
+		"chi"		"** **"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"chi"		"**热身还有40秒**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"chi"		"**玩家拾取了<火>**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
-		"chi"		"**玩家拾取了>僵尸奶<**"
+		"chi"		"** **"
 	}
 	">>> SPIDER IS DEAD <<<"
 	{
-		"chi"		"**蜘蛛死了**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"chi"		"**玩家拾取了>僵尸火<**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"chi"		"**玩家拾取了<电>**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"chi"		"**玩家拾取了<弹药>**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
 	{
-		"chi"		"**玩家拾取了>僵尸毒<**"
+		"chi"		"** **"
 	}
 	">>> TROLL IS COMING <<<"
 	{
-		"chi"		"**巨人来了！**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> TROLL IS DEAD <<<"
 	{
-		"chi"		"**巨人死了！**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> ITS DRAGON <<<"
 	{
-		"chi"		"**那是巨龙！**"
+		"chi"		"** **"
 	}
 	">>> DRAGON IS HURT <<<"
 	{
-		"chi"		"**巨龙负伤逃离了！**"
+		"chi"		"** **"
 	}
 	">>> STAGE 3 <<<"
 	{
-		"chi"		"**第三关**"
+		"chi"		"** **"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
-		"chi"		"**守住30秒**"
-		"DoorCountDown" 	"30"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"chi"		"**玩家拾取了<僵尸减速>**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"chi"		"**玩家拾取了<终极>**"
+		"chi"		"** **"
 	}
 	">>> DRAGON IS COMING <<<"
 	{
-		"chi"		"**巨龙来了！**"
+		"chi"		"** **"
 	}
 	">>> DRAGON USED GRAVITY <<<"
 	{
-		"chi"		"**巨龙使用了黑洞**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> GATE OPENING IN 5 SECONDS <<<"
 	{
-		"chi"		"**大门5秒后开启**"
+		"chi"		"** **"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
-		"chi"		"**守住35秒**"
-		"DoorCountDown" 	"35"
+		"chi"		"** **"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
-		"chi"		"**还有5秒，不要拖延**"
+		"chi"		"** **"
 	}
 	">>> RUN <<<"
 	{
-		"chi"		"**快跑！**"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
-		"chi"		"**巨人正在逼近！快跑！**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"chi"		"**玩家拾取了<墙>**"
+		"chi"		"** **"
 	}
 	">>> FAIL ROUND <<<"
 	{
-		"chi"		"**回合失败**"
+		"chi"		"** **"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
-		"chi"		"**巨龙使用了毒**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
 	{
-		"chi"		"**巨龙受伤了！跑向传送点！**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
-		"chi"		"**传送点10秒后激活**"
-		"DoorCountDown" 	"10"
+		"chi"		"** **"
 	}
 	">>> STAGE 4 <<<"
 	{
-		"chi"		"**第四关**"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA IS COMING <<<"
 	{
-		"chi"		"**巨人来了！**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA USED KILLER. GO SIDE <<<"
 	{
-		"chi"		"**巨人施放了终极！跑向边缘！**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
-		"chi"		"**巨人施放了推**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA USED POISON <<<"
 	{
-		"chi"		"**巨人施放了毒**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
-		"chi"		"**巨人施放了火**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA USED ICE <<<"
 	{
-		"chi"		"**巨人施放了冰**"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
-		"chi"		"**玩家拾取了>僵尸黑洞<**"
+		"chi"		"** **"
 	}
 	">>> GARGANTUA IS DEAD <<<"
 	{
-		"chi"		"**巨人死了**"
+		"chi"		"** **"
 	}
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
-		"chi"		"**大门10秒后开启**"
-		"DoorCountDown" 	"10"
+		"chi"		"** **"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
-		"chi"		"**守住40秒**"
-		"DoorCountDown" 	"40"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
-		"chi"		"**玩家拾取了>僵尸隐身<**"
+		"chi"		"** **"
 	}
 	">>> HOLD 15 SECONDS<<<"
 	{
-		"chi"		"**守住15秒**"
-		"DoorCountDown" 	"15"
+		"chi"		"** **"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
-		"chi"		"**桥断了！**"
+		"chi"		"** **"
 	}
 	">>> ITS BALROG <<<"
 	{
-		"chi"		"**那是巴洛克**"
+		"chi"		"** **"
 	}
 	">>> BALROG IS ESCAPED <<<"
 	{
-		"chi"		"**巴洛克已经跑了**"
+		"chi"		"** **"
 	}
 	">>> STAGE 5 <<<"
 	{
-		"chi"		"**第五关**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
 	{
-		"chi"		"**玩家拾取了>僵尸杀戮<**"
+		"chi"		"** **"
 	}
 	">>> PLAYER HAS PICKED UP GRAVITY <<<"
 	{
-		"chi"		"**玩家拾取了<黑洞>**"
+		"chi"		"** **"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED KILLER. GO BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS HURT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTING ... <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS DEAD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"chi"		"** **"
 	}
 }

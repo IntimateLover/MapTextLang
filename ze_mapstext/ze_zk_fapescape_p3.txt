@@ -7,7 +7,7 @@
 	"*** Boat Leaving in 5 Seconds ***"
 	{
 		"chi"		"**船将在 5 秒后出发。**建议上船回头开枪扔雷守一波僵尸。**"
-                "DoorCountdown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"* Turning music on *"
 	{
@@ -60,5 +60,9 @@
 	"*** Map by Kim and Pass ***"
 	{
 		"chi"		"**地图制作 by Kim and Pass 地图翻译 by 色狼领袖**"
+	}
+	"*** YOU SUCK ***"
+	{
+		"chi"		"** **"
 	}
 }

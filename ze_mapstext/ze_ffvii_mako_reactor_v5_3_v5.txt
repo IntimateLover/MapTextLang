@@ -103,11 +103,11 @@
 	}
 	"**  110 SECONDS LEFT **"
 	{
-		"chi"		"**warning:110 seconds left!!!**"
+		"chi"		"**警告：剩余110秒**"
 	}
 	"**  100 SECONDS LEFT **"
 	{
-		"chi"		"**warning:100 seconds left!!!**"
+		"chi"		"**警告：剩余100秒**"
 	}
 	"**  90 SECONDS LEFT **"
 	{
@@ -273,7 +273,7 @@
 	}
 	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
 	{
-		"chi"		"**恭喜！你成功征服了本神图！！！**"
+		"chi"		"**长江后浪推前浪！恭喜！你成功征服了本神图！**"
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
@@ -313,7 +313,7 @@
 	}
 	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
 	{
-		"chi"		"**巴哈姆特回复了300HP**"
+		"chi"		"**巴哈姆特恢复了300血.保持输出**"
 	}
 	"** BAHAMUT HAS CAST FIRE! **"
 	{

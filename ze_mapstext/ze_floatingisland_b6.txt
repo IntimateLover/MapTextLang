@@ -1,0 +1,299 @@
+"Console_T"
+{
+	"***Special Thanks: Altima,Moray,ClariceTang***"
+	{
+		"chi"		"** **"
+	}
+	"***Level: Normal***"
+	{
+		"chi"		"**关卡难度：普通**"
+	}
+	"***Map by Tenshi***"
+	{
+		"chi"		"**作者：天子  翻译：水墨涟漪踏无痕**"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"chi"		">>>一位玩家拿起了无限弹药<<<"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"chi"		">>>一位玩家拿起了火<<<"
+	}
+	"***rocks breaking in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	{
+		"chi"		">>>一位玩家拿起了电<<<"
+	}
+	"***rocks breaking in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***find the black sword***"
+	{
+		"chi"		"**找到黑色的大保健**"
+	}
+	"***something is moving***"
+	{
+		"chi"		"** **"
+	}
+	"***rocks breaking in 30 seconds***"
+	{
+		"chi"		"**岩石将在30秒后破碎**"
+	}
+	"***10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		">>>一位玩家拿起了风<<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		">>>一位玩家拿起了奶<<<"
+	}
+	"***teleportor activated in 20 seconds***"
+	{
+		"chi"		"**20秒后传送**"
+	}
+	"***find white sword***"
+	{
+		"chi"		"**找到白色的大保健**"
+	}
+	"***defense! until zombies teleported***"
+	{
+		"chi"		"**顶住！！！直到僵尸传送！！！**"
+	}
+	"***teleportor activated in 30 seconds***"
+	{
+		"chi"		"**30秒后传送激活**"
+	}
+	">>> PLAYER HAS PICKED UP ICE <<<"
+	{
+		"chi"		">>>一位玩家拿起了冰<<<"
+	}
+	"***find the crystal***"
+	{
+		"chi"		"**找到水晶**"
+	}
+	"***then shoot it***"
+	{
+		"chi"		"**攻击它！！**"
+	}
+	"***you have 20 seconds***"
+	{
+		"chi"		"**你们只有20秒的时间**"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"chi"		">>>一位玩家拿起了墙<<<"
+	}
+	"***follow the crystal! run!***"
+	{
+		"chi"		"**跟着水晶撤退！！跑！！！**"
+	}
+	"***zombies released in 10 seconds***"
+	{
+		"chi"		"**僵尸将在10秒后放出**"
+	}
+	"***find two swords***"
+	{
+		"chi"		"**找到两把大保健**"
+	}
+	"***black sword activated***"
+	{
+		"chi"		"**黑色大保健已经被激活**"
+	}
+	"***white sword activated***"
+	{
+		"chi"		"**白色大保健已经被激活**"
+	}
+	"***cave opening in 20 seconds***"
+	{
+		"chi"		"**洞穴将在20秒后打开**"
+	}
+	"***what happened?***"
+	{
+		"chi"		"**发生了什么？？？？0.0**"
+	}
+	"***its parallel world!***"
+	{
+		"chi"		"** **"
+	}
+	"***its sword! shoot it!***"
+	{
+		"chi"		"**大保健！射它啊！！！**"
+	}
+	"***its disappeared***"
+	{
+		"chi"		"**它消失不见了**"
+	}
+	"***follow the crystal***"
+	{
+		"chi"		"**跟着水晶走**"
+	}
+	"***last teleportor activated in 60 seconds***"
+	{
+		"chi"		"**最后的传送将在60秒后激活**"
+	}
+	"***run to the crystal***"
+	{
+		"chi"		"**跑向水晶**"
+	}
+	"***nuke in 10 seconds***"
+	{
+		"chi"		"**10秒后开启核爆**"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***you won the normal mode***"
+	{
+		"chi"		"**你们拿下了普通关卡**"
+	}
+	"***Level: Hard***"
+	{
+		"chi"		"**关卡难度：困难**"
+	}
+	"***wait for 10 seconds***"
+	{
+		"chi"		"**等待10秒**"
+	}
+	"***its dragon!***"
+	{
+		"chi"		"**龙来了**"
+	}
+	"***dragon used fire***"
+	{
+		"chi"		"**龙使用了火**"
+	}
+	"***dragon used gravity***"
+	{
+		"chi"		"**龙使用了重力（吸）**"
+	}
+	"***dragon used poison***"
+	{
+		"chi"		"**龙使用了毒气**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		">>>僵尸拿起了僵尸治疗<<<"
+	}
+	"***dragon used ice***"
+	{
+		"chi"		"**龙使用了冰**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"chi"		">>>僵尸拿起了僵尸病毒<<<"
+	}
+	"***defence! teleportor activated in 60 seconds***"
+	{
+		"chi"		"**守住，60秒后激活传送**"
+	}
+	"***you won the hard mode***"
+	{
+		"chi"		"**你们拿下了困难难度**"
+	}
+	"***Level: Crazy***"
+	{
+		"chi"		"**关卡难度：疯狂**"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"chi"		">>>一位玩家拿起了重力<<<"
+	}
+	"***teleporter activated in 15 seconds***"
+	{
+		"chi"		"**传送将在15秒后激活**"
+	}
+	"***DOOR OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**大门将在10秒后开启**"
+	}
+	"***door opening in 15 seconds***"
+	{
+		"chi"		"**大门将在15秒后开启**"
+	}
+	"***Door opening in 20 seconds***"
+	{
+		"chi"		"**大门将在20秒后开启**"
+	}
+	">>> PLAYER HAS PICKED UP HOLY <<<"
+	{
+		"chi"		">>>一位玩家拿起了终极<<<"
+	}
+	"***Door opening in 30 seconds***"
+	{
+		"chi"		"**大门将在30秒后开启**"
+	}
+	"***door closing in 5 seconds***"
+	{
+		"chi"		"**大门将在5秒后关闭**"
+	}
+	"***Nades do more damage***"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	{
+		"chi"		">>>僵尸拿起了隐形<<<"
+	}
+	"***The guardians is dead!!***"
+	{
+		"chi"		"** **"
+	}
+	"***door breaking in 10 seconds***"
+	{
+		"chi"		"**大门将在10秒后破碎**"
+	}
+	"***run out of the Relic***"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+	{
+		"chi"		"** **"
+	}
+	"***Chaos has been defeated!!!!!Run!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***you won the crazy mode***"
+	{
+		"chi"		"** **"
+	}
+	"***level: Epic***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -345,7 +345,7 @@
 	}
 	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
 	{
-		"chi"		"**还怪对你使用了噗噗泡沫！**"
+		"chi"		"**海怪对你使用噗噗泡沫**"
 	}
 	"||| KRAKEN HAS USED VORTEX |||"
 	{
@@ -415,7 +415,7 @@
 	}
 	">>> DOOR CLOSES IN 25 SEC <<<"
 	{
-		"chi"		"**门关在25秒 **"
+		"chi"		">>>门将在25秒后关闭<<<"
 	}
 	">>> DOOR CLOSES IN 5 SEC <<<"
 	{
@@ -476,7 +476,7 @@
 	}
 	">>> DOOR IS OPEN! RUN!!! <<<"
 	{
-		"chi"		"**门是开的！快跑！**"
+		"chi"		">>>门开了 你跑 僵尸追 追到了就嘿嘿嘿<<<"
 	}
 	">>> RUN AWAY FROM THE ZOMBIES! <<<"
 	{
@@ -559,19 +559,19 @@
 	}
 	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>等待轮盘转动完毕将吊桥放下<<<"
 	}
 	">>> HOLD THE CELLAR FOR 30 SEC <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>在内殿守住30秒<<<"
 	}
 	">>> HOLD FOR 25 SEC <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住25秒<<<"
 	}
 	">>> HOLD FOR 40 SEC <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住40秒<<<"
 	}
 	">>> HOLD <<<"
 	{
