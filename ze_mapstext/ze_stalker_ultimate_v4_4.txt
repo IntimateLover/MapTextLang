@@ -2,95 +2,101 @@
 {
 	"**You are too slow...**"
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了… **"
 	}
 	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"** **"
+		"chi"		"**这张地图根据游戏【潜行者】制作 **"
 	}
 	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
 	{
-		"chi"		"** **"
+		"chi"		"**这不是一张简单的地图.它需要良好的ZE技巧和良好的团队配合 **"
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪ 特别感谢：Special thanks to HaRyDe POMKA 和 Z-O-M-B-I-E的各位  **"
 	}
 	"**Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢：Luffaren Moltard Shufen Kim Enviolinador george.对我端口的帮助 **"
 	}
 	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**"
 	{
-		"chi"		"** **"
+		"chi"		"**当前的任务:去寻找秘密实验室的入口 **"
 	}
 	"**A player picked up meatchunk(PUSHERGRAVITY on STAGE 3 4 5)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了电(终极效果在第3 4 5关可以使用） **"
 	}
 	"**Lab door 1 will open in 11 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"***实验室门1将在11秒后打开 **"
 	}
 	"**Lab door 1 will open for zombies in 18 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**实验室门1将在18秒后为僵尸打开 **"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯1将在4秒后离开 **"
 	}
 	"**Zombie shield is activated. You have 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙被激活.你还剩15秒 **"
 	}
 	"**A player picked up fireball(FIRE)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了火（FIRE） **"
 	}
 	"**Zombie shield is disabled**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙已关闭 **"
 	}
 	"***The control panel seems without power. Maybe using the lever will help***"
 	{
-		"chi"		"** **"
+		"chi"		"**控制器似乎没有电力.使用墙上的装置也许会有所帮助 **"
+		"ico"		"icon_fire"
 	}
 	"**The gates will open in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	"***Seems that works. Try to use the control panel to open the gates***"
 	{
-		"chi"		"** **"
+		"chi"		"**似乎已经有了电力.尝试使用控制器打开大门 **"
+		"ico"		"icon_fire"
 	}
 	"**Hold this position for 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里.天窗将在10秒后破碎 **"
+		"DoorCountdown"		"10"
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**切尔诺贝利核电站的大门将在20秒后打开 **"
 	}
 	"Hold this position for 10 seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里10秒！！ **"
+		"DoorCountdown"		"10"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙被激活.你有30秒时间逃离 **"
 	}
 	"**Survive for 70 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**生存70秒 **"
+		"DoorCountdown"		"70"
 	}
 	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹大概在50秒后发射.找到一个安全的地方守住 **"
 	}
 	"**Lab door 2 will open in 13 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**实验室门2将在13秒后打开 **"
 	}
 	"**Lab door 2 will open for zombies in 18 seconds**"
 	{

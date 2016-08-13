@@ -23,10 +23,12 @@
 	"** RESIST! We need to access the main complex by unlocking this door! **"
 	{
 		"chi"		"**守住！我们需要通过解锁打开这道门！ **"
+		"DoorCountDown" "35"
 	}
 	"** Were almost there! Dont let anything through! **"
 	{
 		"chi"		"**我们快到了！不要让僵尸过来！ **"
+		"DoorCountDown" "15"
 	}
 	"** FALL BACK! Its about to open! **"
 	{
@@ -47,6 +49,7 @@
 	"** Resist while we wait for the doors to open! **"
 	{
 		"chi"		"**在门打开之前守住这里！ **"
+		"DoorCountDown" "20"
 	}
 	"** Well need to reach one of the gas deposits to blow it up and delay their plans... **"
 	{
@@ -54,11 +57,13 @@
 	}
 	"** Look at that! There is enough weaponry to start a massive offensive... **"
 	{
-		"chi"		"**看那边!有足够的武器来守住僵尸… **"
+		"chi"		"**看那边!有很多武器.能发起大规模的战争 **"
 	}
 	"** According to our information we should be nearing a maintenance zone... **"
+	}
 	{
 		"chi"		"**根据我们的信息来看，我们应该正在接近维修区... **"
+		"DoorCountDown" "25"
 	}
 	"** The maintenance elevator should be enough to access the upper levels. **"
 	{
@@ -82,7 +87,8 @@
 	}
 	"** Resist! This door shall take us to one of the middle areas! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！这门应该能带我们到安全区域！ **"
+		"DoorCountDown" "30"
 	}
 	"** Keep it up! Its about to open! **"
 	{
@@ -91,6 +97,7 @@
 	"** HOLD THEM RIGHT HERE! We need to unlock this door! **"
 	{
 		"chi"		"**在这里守住他们！我们需要打开这扇门！ **"
+		"DoorCountDown" "20"
 	}
 	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
 	{
@@ -126,7 +133,7 @@
 	}
 	"** Hold until we open the doors! We need a way out! **"
 	{
-		"chi"		"**守住，直到我们打开大门！ **"
+		"chi"		"**守住.直到我们打开大门！ **"
 	}
 	"** Our information indicates there should be a small cargo elevator close to our position... **"
 	{
@@ -134,7 +141,7 @@
 	}
 	"** This is our way out! Defend the elevator until it leaves! **"
 	{
-		"chi"		"**守住电梯，直到电梯离开！ **"
+		"chi"		"**守住电梯.直到电梯离开！ **"
 	}
 	"** ZOMBIES DETECTED - INVALID VICTORY! **"
 	{
@@ -170,7 +177,8 @@
 	}
 	"** Hold! We need to unlock the metal gates and then well access the caves. **"
 	{
-		"chi"		"**守住！我们需要解锁这道门然后进入洞穴. **"
+		"chi"		"**守住！我们需要解锁这道门然后进入洞穴.**"
+		"DoorCountDown" "30"
 	}
 	"** Almost there! Keep it up! **"
 	{
@@ -182,11 +190,12 @@
 	}
 	"** They might be using those ruins and what they contain to develop some kind of new weapon. **"
 	{
-		"chi"		"**他们可能会使用这些废墟和新开发某种武器. **"
+		"chi"		"**他们可能会使用这些废墟在这里开发某种新武器. **"
 	}
 	"** DEFEND! We need to find a way out - we are trapped! **"
 	{
 		"chi"		"**守住！我们需要找到一条路 - 我们被困住了！ **"
+		"DoorCountDown" "40"
 	}
 	"** Some of these plates might open... Keep holding! **"
 	{
@@ -214,11 +223,11 @@
 	}
 	"** ONE LAST EFFORT! HOLD IT!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**努力一下！守住！！！ **"
 	}
 	"** Keep going! We should soon reach the surface and see the iced fields of Antartika... **"
 	{
-		"chi"		"**继续前进！我们应该很快达到地面，看到南极洲的冰原... **"
+		"chi"		"**继续前进！我们应该很快达到地面.很快就会看到南极洲的冰原... **"
 	}
 	"** Hold the vent! We will move out of this area soon... **"
 	{
@@ -370,6 +379,6 @@
 	}
 	"** HOP IN! We gotta get out of this before the nuke arrives! **"
 	{
-		"chi"		"** **"
+		"chi"		"**上车吧!我们要在核武器到达之前离开这个区域! **"
 	}
 }

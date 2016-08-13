@@ -22,7 +22,7 @@
 	}
 	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"chi"		"**当前阶段：电梯路线 **"
+		"chi"		"**当前阶段：普通路线 **"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
@@ -35,7 +35,7 @@
 	}
 	"* * Left route door will open in 20 seconds * *"
 	{
-		"chi"		"**左边路的门会在20秒内打开 **"
+		"chi"		"**左边路的门会在20秒后打开 **"
 		"DoorCountdown"		"20"
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
@@ -49,7 +49,7 @@
 	}
 	"* * Press both buttons at the same time * *"
 	{
-		"chi"		"**同时按下两个按钮 **"
+		"chi"		"**同时按下两个按钮才能打开门 **"
 	}
 	"* * * Frost Wave has been picked up * * *"
 	{
@@ -57,19 +57,19 @@
 	}
 	"* * * GO NIGGER DICK * * *"
 	{
-		"chi"		"**走 黑鬼 迪克 **"
+		"chi"		"**你拿到了黑色的迪克.快走 **"
 	}
 	"* * * GO WHITE DICK * * *"
 	{
-		"chi"		"**走 白色的 迪克 **"
+		"chi"		"**你拿到了白色的迪克.快走 **"
 	}
 	"* * * GO CHARIZARD DICK * * *"
 	{
-		"chi"		"**走 喷火龙 迪克 **"
+		"chi"		"**你拿到了红色的迪克.快走 **"
 	}
 	"* * * GO HULK DICK * * *"
 	{
-		"chi"		"**走   巨人 迪克 **"
+		"chi"		"**你拿到了巨人迪克.快走 **"
 	}
 	"* * Door opening in 25 seconds * *"
 	{
@@ -78,7 +78,7 @@
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
-		"chi"		"**门关闭5秒 **"
+		"chi"		"**门将关闭5秒 **"
 	}
 	"* * KEEP DEFENDING * *"
 	{
@@ -95,7 +95,7 @@
 	}
 	"* * * The door will open in 15 seconds * * *"
 	{
-		"chi"		"**门将在15秒打开 **"
+		"chi"		"**门将在15秒后打开 **"
 		"DoorCountdown"		"15"
 	}
 	"* * * Hold 15 seconds * * *"
@@ -114,11 +114,11 @@
 	}
 	"* * You can pass * *"
 	{
-		"chi"		"**你可以通过 **"
+		"chi"		"**你可以通过这里 **"
 	}
 	"* * * Flame of Udun has been picked up * * *"
 	{
-		"chi"		"**火已被拿起 **"
+		"chi"		"**火已被拿起（并无卵用） **"
 	}
 	"* * 15 seconds until final teleport * *"
 	{
@@ -127,7 +127,7 @@
 	}
 	"* * Humans must reach the arena or they will be teleported * *"
 	{
-		"chi"		"**人类必须进入竞技场或者他们会自动传送 **"
+		"chi"		"**人类必须进入竞技场或者僵尸自动传送 **"
 		"ico"		"icon_fire"
 	}
 	"* * * IT HAS RUN AWAY * * *"
@@ -166,7 +166,7 @@
 	}
 	"* * * The bridge will be enabled in 25 seconds * * *"
 	{
-		"chi"		"**大桥将在25秒内启用 **"
+		"chi"		"**大桥将在25秒后启动 **"
 		"DoorCountdown"		"25"
 	}
 	"* * * MOVE * * *"
@@ -203,7 +203,7 @@
 	}
 	"* * * There must be a way to open that door * * *"
 	{
-		"chi"		"**必须有打开那扇门的方式 **"
+		"chi"		"**必须找出打开那扇门的方法 **"
 	}
 	"* * * Figure it out * * *"
 	{
@@ -231,11 +231,11 @@
 	}
 	"* * * Projectile Deflector has been picked up * * *"
 	{
-		"chi"		"**弹药偏转器已经拿起 **"
+		"chi"		"**子弹偏转器已经拿起 **"
 	}
 	"* * Hacking doors. This may take a few seconds * *"
 	{
-		"chi"		"**黑客门。这可能需要几秒钟 **"
+		"chi"		"**密码门.这可能需要几秒钟 **"
 	}
 	"* * Press the orange button to start the Core * *"
 	{
@@ -323,11 +323,11 @@
 	}
 	"* * You have reached the escape zone * *"
 	{
-		"chi"		"**你已经达到逃避区 **"
+		"chi"		"**你已经达到逃离区 **"
 	}
 	"* * Wait 40 seconds until the magic elevator is ready to go * *"
 	{
-		"chi"		"**等待40秒，直到魔术电梯准备就绪 **"
+		"chi"		"**等待40秒.直到魔法电梯准备就绪 **"
 		"DoorCountdown"		"40"
 	}
 	"* * Only 10 seconds left * * Hold * *"
