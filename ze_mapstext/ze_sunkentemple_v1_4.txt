@@ -3,6 +3,7 @@
 	">>> Gates will open in 35 seconds <<<"
 	{
 		"chi"		">>>闸门将在35秒后打开<<<"
+		"DoorCountDown" "35"
 	}
 	">>> Heal has been picked <<<"
 	{
@@ -10,7 +11,7 @@
 	}
 	">>> Gates will open in 5 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在5秒后打开 **"
 	}
 	">>> Wall has been picked <<<"
 	{
@@ -18,83 +19,88 @@
 	}
 	">>> GATE IS OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门已经打开 **"
 	}
 	">>> Zombies will teleport in 20 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在20秒后传送 **"
+		"DoorCountDown" "20"
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒内打开 **"
 	}
 	">>> Zombies teleport in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在15秒后传送 **"
 	}
 	">>> Wall ready <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**墙准备 **"
 	}
 	">>> Gate will open in 30 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	">>> Heal ready <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**奶准备 **"
 	}
 	">>> Gate will open in 5 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	">>> Lower gate will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**下闸门将在40秒后打开 **"
+		"DoorCountDown" "40"
 	}
 	">>> Lower gate will open in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**下闸门将在10秒后打开 **"
 	}
 	">>> Upper gate will open in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**上闸门将在15秒后打开 **"
 	}
 	">>> FIND ANOTHER WAY  FAST <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**快速找到另一种方式 **"
 	}
 	">>> Try shooting the walls <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**试着射击墙壁 **"
+		"ico"   "icon_fire"
 	}
 	">>> Zombies teleport in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送 **"
 	}
 	">>> GROUND TREMOR <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地面震动 **"
 	}
 	">>> GOBLIN CHARGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地精电荷 **"
 	}
 	">>> Magtheridons Sideslash <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Magtheridons使用了侧面激光 **"
 	}
 	">>> ORC CHARGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**兽人电荷 **"
 	}
 	">>> DEATH TRAP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**死亡陷阱 **"
 	}
 	">>> Magtheridons Slash <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Magtheridons使用激光 **"
+		"ico"   "icon_fire"
 	}
 	">>> Push has been picked <<<"
 	{
@@ -102,34 +108,36 @@
 	}
 	">>> Push ready <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>push准备<<< **"
 	}
 	">>> Magtheridon is dead <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Magtheridon死了 **"
 	}
 	">>> Gate will open in 45 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在45秒后打开 **"
+		"DoorCountDown" "45"
 	}
 	">>> Final door will close in 20 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**最终大门将在20秒后关闭 **"
+		"DoorCountDown" "20"
 	}
 	">>> Final door will close in 5 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**最终大门将在5秒后关闭 **"
 	}
 	">>> Map made by Ripsaw <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Ripsaw 地图翻译：蓬莱山帅比♪**"
 	}
 	">>> Thanks to Luffaren for making the Lever model <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢Luffaren制作的杠杆模型 **"
 	}
 	">>> Thanks to Syoudous & Enviolinador for the help  tips"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢Syoudous＆Enviolinador的提示 **"
 	}
 }
