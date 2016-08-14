@@ -28,7 +28,6 @@
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
 		"chi"		"**巨龙施放了黑洞（按住S以防止被拖到巨龙脚下） **"
-		"ico"		"icon_fire"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
@@ -49,6 +48,7 @@
 	">>> HOLD 45 SECONDS <<<"
 	{
 		"chi"		"**坚守45秒 **"
+		"DoorCountDown" "45"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
@@ -85,6 +85,7 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		"**守住25秒 **"
+		"DoorCountDown" "25"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
@@ -109,6 +110,7 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		"**守住15秒 **"
+		"DoorCountDown" "15"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
@@ -134,6 +136,7 @@
 	">>> GO RIGHT <<<"
 	{
 		"chi"		"** 往右边走**"
+		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
@@ -194,6 +197,7 @@
 	">>> HOLD 30 SECONDS <<<"
 	{
 		"chi"		"**守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
@@ -219,6 +223,7 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		"**守住35秒 **"
+		"DoorCountDown" "35"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
@@ -298,6 +303,7 @@
 	">>> HOLD 40 SECONDS <<<"
 	{
 		"chi"		"**守住40秒 **"
+		"DoorCountDown" "40"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
