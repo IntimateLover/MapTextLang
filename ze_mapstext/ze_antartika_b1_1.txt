@@ -2,7 +2,7 @@
 {
 	"** Chapter I: Ascension **"
 	{
-		"chi"		"**第一章：升天 **"
+		"chi"		"**第一章：破坏 **"
 	}
 	"** Weve reached the southwest dock... **"
 	{
@@ -29,7 +29,7 @@
 	"** Were almost there! Dont let anything through! **"
 	{
 		"chi"		"**我们快到了！不要让僵尸过来！ **"
-		"DoorCountDown" "15"
+		"DoorCountDown" "17"
 	}
 	"** FALL BACK! Its about to open! **"
 	{
@@ -157,7 +157,7 @@
 	}
 	"** Chapter II: A touch of heaven **"
 	{
-		"chi"		"**第2章-触摸天堂 **"
+		"chi"		"**第2章-逃离 **"
 	}
 	"** The sabotage mission has been fulfilled. **"
 	{
@@ -280,7 +280,7 @@
 	}
 	"** Chapter III: The womb **"
 	{
-		"chi"		"**第3章-The womb **"
+		"chi"		"**第3章-抉择 **"
 	}
 	"** We must make our way towards the extraction point. **"
 	{
