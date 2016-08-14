@@ -15,6 +15,7 @@
 	"** This path should lead us to one of the several supply warehouses... **"
 	{
 		"chi"		"**这条路应该能让我们进入这几个供应仓库的一个… **"
+		"DoorCountDown" "10"
 	}
 	"** BLIZARD MODE ENABLED: DIFFICULTY INCREASED **"
 	{
@@ -94,7 +95,7 @@
 	{
 		"chi"		"**守住！它即将打开！ **"
 	}
-	"** HOLD THEM RIGHT HERE! We need to unlock this door! **"
+	"** HOLD THEM RIGHT HERE! We need to unlock thid door! **"
 	{
 		"chi"		"**在这里守住他们！我们需要打开这扇门！ **"
 		"DoorCountDown" "20"
@@ -102,6 +103,7 @@
 	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
 	{
 		"chi"		"**OAGH！这里很臭！屏住呼吸守住！ **"
+		"DoorCountDown" "30"
 	}
 	"** The stench is unbearable! Were opening the door as fast as we can - HOLD THEM! **"
 	{
@@ -130,6 +132,7 @@
 	"** We did it! The pressure is increasing at exponential rates! **"
 	{
 		"chi"		"**我们做到了！压力指数正在增长！ **"
+		"DoorCountDown" "15"
 	}
 	"** Hold until we open the doors! We need a way out! **"
 	{
@@ -138,6 +141,7 @@
 	"** Our information indicates there should be a small cargo elevator close to our position... **"
 	{
 		"chi"		"**根据我们的信息来看，应该有一个小型货运电梯正在接近我们的位置… **"
+		"DoorCountDown" "10"
 	}
 	"** This is our way out! Defend the elevator until it leaves! **"
 	{
@@ -162,6 +166,7 @@
 	"** We need to escape from the facility... **"
 	{
 		"chi"		"**我们需要逃离该设施… **"
+		"DoorCountDown" "30"
 	}
 	"** Resist! These security doors are sturdy - theyll take a bit to unlock! **"
 	{
@@ -216,6 +221,7 @@
 	"** Hold the bridges! We need to open this door! **"
 	{
 		"chi"		"**守住桥！我们需要打开这扇门！ **"
+		"DoorCountDown" "40"
 	}
 	"** RESIST! Theres still a bit to go! **"
 	{
@@ -232,6 +238,7 @@
 	"** Hold the vent! We will move out of this area soon... **"
 	{
 		"chi"		"**守住通风口！我们很快就会离开这个区域... **"
+		"DoorCountDown" "30"
 	}
 	"** DAMN! The door! HOLD IT! **"
 	{
@@ -244,6 +251,7 @@
 	"** Cover all entrances! Were nearing our safety! **"
 	{
 		"chi"		"**守住所有入口！我们就快安全了！ **"
+		"DoorCountDown" "40"
 	}
 	"** RESIST! It wont take much longer to open this door! **"
 	{
@@ -264,6 +272,7 @@
 	"** The bomb is being planted! Dont let them past the middle of the bridge! *"
 	{
 		"chi"		"**炸弹正在被埋下！不要让他们过桥的中间！ **"
+		"DoorCountDown" "35"
 	}
 	"** CHAPTER 2 COMPLETED - UNLOCKING CHAPTER 3 **"
 	{
@@ -296,6 +305,7 @@
 	"** This door should lead to one of the abandoned maintenance hallways! HOLD! **"
 	{
 		"chi"		"**这道门通向一个废弃的走廊！守住！ **"
+		"DoorCountDown" "30"
 	}
 	"** Hold them off! Keep them up the stairs! **"
 	{
@@ -307,7 +317,8 @@
 	}
 	"** This area seems familiar... **"
 	{
-		"chi"		"**这个地区很熟悉…… **"
+		"chi"		"**这个地区很熟悉…… **" 
+		"DoorCountDown" "20"
 	}
 	"** Were close to the weaponry warehouse we saw during the ascension! **"
 	{
@@ -320,6 +331,7 @@
 	"** This door seems to be further locked than the previous ones... **"
 	{
 		"chi"		"**这扇门似乎比之前的更复杂…… **"
+		"DoorCountDown" "45"
 	}
 	"** RESIST! It might take a while! Cover all entrances! **"
 	{
@@ -340,6 +352,7 @@
 	"** Were nearing to the extraction point! One last effort! HOLD! **"
 	{
 		"chi"		"**我们正在接近指定地点！ 守住！ **"
+		"DoorCountDown" "25"
 	}
 	"** KEEP RESISTING! ITS ABOUT TO OPEN! **"
 	{
@@ -348,6 +361,7 @@
 	"** This is the end of the line! RESIST! **"
 	{
 		"chi"		"**这就是终点了！守住！ **"
+		"DoorCountDown" "30"
 	}
 	"** Our rescue chopper is approaching! Well need to survive until it comes! **"
 	{
