@@ -2,7 +2,7 @@
 {
 	"***Special Thanks: Altima,Moray,ClariceTang***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：Altima，Moray，ClariceTang **"
 	}
 	"***Level: Normal***"
 	{
@@ -22,7 +22,7 @@
 	}
 	"***rocks breaking in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石10秒后爆炸 **"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
@@ -30,7 +30,7 @@
 	}
 	"***rocks breaking in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石15秒后爆炸 **"
 	}
 	"***5 seconds***"
 	{
@@ -42,11 +42,12 @@
 	}
 	"***something is moving***"
 	{
-		"chi"		"** **"
+		"chi"		"**有什么东西正在移动 **"
 	}
 	"***rocks breaking in 30 seconds***"
 	{
-		"chi"		"**岩石将在30秒后破碎**"
+		"chi"		"**岩石将在30秒后爆炸**"
+		"DoorCountDown" "30"
 	}
 	"***10 seconds***"
 	{
@@ -75,6 +76,7 @@
 	"***teleportor activated in 30 seconds***"
 	{
 		"chi"		"**30秒后传送激活**"
+		"DoorCountDown" "30"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
@@ -119,6 +121,7 @@
 	"***cave opening in 20 seconds***"
 	{
 		"chi"		"**洞穴将在20秒后打开**"
+		"DoorCountDown" "20"
 	}
 	"***what happened?***"
 	{
@@ -126,7 +129,7 @@
 	}
 	"***its parallel world!***"
 	{
-		"chi"		"** **"
+		"chi"		"**另一个世界! **"
 	}
 	"***its sword! shoot it!***"
 	{
@@ -143,6 +146,7 @@
 	"***last teleportor activated in 60 seconds***"
 	{
 		"chi"		"**最后的传送将在60秒后激活**"
+		"DoorCountDown" "60"
 	}
 	"***run to the crystal***"
 	{
@@ -186,7 +190,7 @@
 	}
 	"***dragon used gravity***"
 	{
-		"chi"		"**龙使用了重力（吸）**"
+		"chi"		"**龙使用了重力（吸）（按住S键）**"
 	}
 	"***dragon used poison***"
 	{
@@ -194,11 +198,11 @@
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>一位僵尸拿起了黑洞<<< **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
-		"chi"		">>>僵尸拿起了僵尸治疗<<<"
+		"chi"		">>>一位僵尸拿起了僵尸治疗<<<"
 	}
 	"***dragon used ice***"
 	{
@@ -211,6 +215,7 @@
 	"***defence! teleportor activated in 60 seconds***"
 	{
 		"chi"		"**守住，60秒后激活传送**"
+		"DoorCountDown" "60"
 	}
 	"***you won the hard mode***"
 	{
@@ -247,6 +252,7 @@
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**大门将在30秒后开启**"
+		"DoorCountDown" "30"
 	}
 	"***door closing in 5 seconds***"
 	{
@@ -254,7 +260,7 @@
 	}
 	"***Nades do more damage***"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷能造成更多伤害 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
@@ -262,7 +268,7 @@
 	}
 	"***The guardians is dead!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守护者死了！！ **"
 	}
 	"***door breaking in 10 seconds***"
 	{
@@ -270,30 +276,30 @@
 	}
 	"***run out of the Relic***"
 	{
-		"chi"		"** **"
+		"chi"		"**从遗迹中跑出来 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>一位僵尸拿起了僵尸杀戮<<< **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>一位僵尸拿起了僵尸火<<< **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>一位僵尸拿起了僵尸摇曳<<< **"
 	}
 	"***Chaos has been defeated!!!!!Run!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS被打败了！！！！！跑！！！ **"
 	}
 	"***you won the crazy mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**你赢了这一关 **"
 	}
 	"***level: Epic***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡难度:史诗（Epic) **"
 	}
 }
