@@ -19,11 +19,11 @@
 	}
 	">>> GATE IS OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开启**"
 	}
 	">>> Zombies will teleport in 20 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸20秒后传送**"
 		"DoorCountdown"		"20"
 	}
 	">>> Gate will open in 10 seconds <<<"
@@ -37,15 +37,15 @@
 	}
 	">>> Wall ready <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**墙可以使用**"
 	}
 	">>> Gate will open in 30 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后开启**"
 	}
 	">>> Heal ready <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**奶可以使用**"
 	}
 	">>> Gate will open in 5 seconds <<<"
 	{
@@ -53,7 +53,7 @@
 	}
 	">>> Lower gate will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**下方大门将在40秒后打开**"
 		"DoorCountdown"		"40"
 	}
 	">>> Lower gate will open in 10 seconds <<<"
@@ -62,7 +62,7 @@
 	}
 	">>> Upper gate will open in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**上方大门将在15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	">>> FIND ANOTHER WAY  FAST <<<"
@@ -80,18 +80,22 @@
 	">>> GROUND TREMOR <<<"
 	{
 		"chi"		"**地面践踏（跑到两个圆柱上面）**"
+		"ico"		"icon_fire"
 	}
 	">>> GOBLIN CHARGE <<<"
 	{
 		"chi"		"**哥布林冲刺（蹲下！）**"
+		"ico"		"icon_fire"
 	}
 	">>> Magtheridons Sideslash <<<"
 	{
 		"chi"		"**玛瑟里顿侧劈斩（往后跑躲开左边的刀）**"
+		"ico"		"icon_fire"
 	}
 	">>> ORC CHARGE <<<"
 	{
 		"chi"		"**兽人冲刺（寻找缝隙躲开左边的兽人）**"
+		"ico"		"icon_fire"
 	}
 	">>> DEATH TRAP <<<"
 	{
@@ -100,6 +104,7 @@
 	">>> Magtheridons Slash <<<"
 	{
 		"chi"		"**玛瑟里顿顺劈斩（跳起来躲避前面的刀）**"
+		"ico"		"icon_fire"
 	}
 	">>> Push has been picked <<<"
 	{
@@ -107,7 +112,7 @@
 	}
 	">>> Push ready <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**PUSH可以使用**"
 	}
 	">>> Magtheridon is dead <<<"
 	{
@@ -115,13 +120,12 @@
 	}
 	">>> Gate will open in 45 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在45秒后打开**"
 		"DoorCountdown"		"45"
 	}
 	">>> Final door will close in 20 seconds <<<"
 	{
-		"chi"		"** **"
-		"DoorCountdown"		"20"
+		"chi"		"**最后的大门20秒后关闭**"
 	}
 	">>> Final door will close in 5 seconds <<<"
 	{
@@ -129,14 +133,14 @@
 	}
 	">>> Map made by Ripsaw <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:Ripsaw**"
 	}
 	">>> Thanks to Luffaren for making the Lever model <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢Luffaren的关卡设计**"
 	}
 	">>> Thanks to Syoudous & Enviolinador for the help  tips"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢Syoudous & Enviolinador的帮助**"
 	}
 }
