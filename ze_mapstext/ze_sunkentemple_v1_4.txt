@@ -2,7 +2,8 @@
 {
 	">>> Gates will open in 35 seconds <<<"
 	{
-		"chi"		">>>闸门将在35秒后打开<<<"
+		"chi"		">>>大门将在35秒后打开<<<"
+		"DoorCountdown"		"35"
 	}
 	">>> Heal has been picked <<<"
 	{
@@ -23,10 +24,12 @@
 	">>> Zombies will teleport in 20 seconds <<<"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	">>> Zombies teleport in 15 seconds <<<"
 	{
@@ -51,6 +54,7 @@
 	">>> Lower gate will open in 40 seconds <<<"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"40"
 	}
 	">>> Lower gate will open in 10 seconds <<<"
 	{
@@ -59,14 +63,15 @@
 	">>> Upper gate will open in 15 seconds <<<"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	">>> FIND ANOTHER WAY  FAST <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**直接跳到水下，不要上桥**"
 	}
 	">>> Try shooting the walls <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**射击左手边的墙壁**"
 	}
 	">>> Zombies teleport in 10 seconds <<<"
 	{
@@ -74,27 +79,27 @@
 	}
 	">>> GROUND TREMOR <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地面践踏（跑到两个圆柱上面）**"
 	}
 	">>> GOBLIN CHARGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**哥布林冲刺（蹲下！）**"
 	}
 	">>> Magtheridons Sideslash <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**玛瑟里顿侧劈斩（往后跑躲开左边的刀）**"
 	}
 	">>> ORC CHARGE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**兽人冲刺（寻找缝隙躲开左边的兽人）**"
 	}
 	">>> DEATH TRAP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**死亡陷阱**"
 	}
 	">>> Magtheridons Slash <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**玛瑟里顿顺劈斩（跳起来躲避前面的刀）**"
 	}
 	">>> Push has been picked <<<"
 	{
@@ -106,15 +111,17 @@
 	}
 	">>> Magtheridon is dead <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**玛瑟里顿死亡**"
 	}
 	">>> Gate will open in 45 seconds <<<"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"45"
 	}
 	">>> Final door will close in 20 seconds <<<"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	">>> Final door will close in 5 seconds <<<"
 	{
