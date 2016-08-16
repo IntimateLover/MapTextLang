@@ -2,10 +2,10 @@
 {
 	"@[Spawnkill] 40 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒出生点处死 **"
 	}
 	">> The generator needs to be disabled somehow... <<"
 	{
-		"chi"		"** **"
+		"chi"		"**想办法停止发电机 **"
 	}
 }
