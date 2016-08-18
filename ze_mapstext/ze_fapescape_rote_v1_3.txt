@@ -429,18 +429,18 @@
 	}
 	"*** It has 8 uses ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这能用8次**"
 	}
 	"*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 这boss正在吸收你造成的伤害**"
 	}
 	"*** DONT SHOOT HIM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要打他**"
 	}
 	"*** Hold this position for 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这守30秒**"
 	}
 }
