@@ -19,6 +19,7 @@
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
 		"chi"		"**巨龙施放了水柱.快躲开 **"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
@@ -27,7 +28,7 @@
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
-		"chi"		"**巨龙施放了黑洞（按住S以防止被拖到巨龙脚下） **"
+		"chi"		"**巨龙又来了 **"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
@@ -44,6 +45,7 @@
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
 		"chi"		"**炎魔施放了护盾.不要使用神器 **"
+		"ico"		"icon_fire"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
@@ -56,7 +58,7 @@
 	}
 	">>> ALL ZM ITEMS IS LOCKED <<<"
 	{
-		"chi"		"**所有ZM神器已经锁定 **"
+		"chi"		"**所有僵尸神器已经锁定 **"
 	}
 	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
@@ -93,7 +95,7 @@
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"chi"		"**一位玩家拿起了暴风呼啸（生成一个风圈.风圈会随着持有者的移动而移动） **"
+		"chi"		"**一位玩家拿起了暴风呼啸（生成一个风圈.风圈会随着持有者的移动而移动.持续时间8秒） **"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
@@ -105,7 +107,7 @@
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"chi"		"**一位玩家拿起了圣光领域（生成一个免疫僵尸的区域.不是无敌） **"
+		"chi"		"**一位玩家拿起了圣光领域（生成一个免疫僵尸的区域.不是无敌.持续时间7秒） **"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
@@ -118,7 +120,7 @@
 	}
 	">>> DOOR CLOSING <<<"
 	{
-		"chi"		"** 门被关门**"
+		"chi"		"** 门被关闭**"
 	}
 	">>> SPIDER USED POISON. HURRY <<<"
 	{
@@ -140,7 +142,7 @@
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"**一位玩家拿起了凛冽寒冰（生成一个横着的冰柱.被冻住的僵尸无法移动）**"
+		"chi"		"**一位玩家拿起了凛冽寒冰（生成一个横着的冰柱.被冻住的僵尸将会无法移动.注意左右摇晃.持续时间5秒）**"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
@@ -148,7 +150,7 @@
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"chi"		"**一位玩家拿起了烈焰熊熊（生成一个范围性魔法.在范围内的僵尸被受到减速和灼烧的效果） **"
+		"chi"		"**一位玩家拿起了烈焰熊熊（生成一个范围性魔法.在范围内的僵尸将会被减速和灼烧.持续10秒） **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
@@ -164,11 +166,11 @@
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"chi"		"**一位玩家拿起了雷光电影（生成一个范围性的伤害领域.在范围内的僵尸会受到每秒500的伤害） **"
+		"chi"		"**一位玩家拿起了雷光电影（生成一个范围性的伤害领域.在范围内的僵尸每秒减少500HP.持续10秒） **"
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"chi"		"**一位玩家拿起了无限弹药（使用后子弹无限） **"
+		"chi"		"**一位玩家拿起了无限弹药（使用后子弹无限.持续时间10秒） **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
 	{
@@ -205,7 +207,7 @@
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"chi"		"**一位玩家拿起了圣光净化（在范围内的僵尸会被瞬间杀死） **"
+		"chi"		"**一位玩家拿起了圣光净化（在范围内的僵尸会被瞬间杀死.施放后20秒爆炸） **"
 	}
 	">>> DRAGON IS COMING <<<"
 	{
@@ -240,7 +242,7 @@
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"chi"		"**一位玩家拿起了障碍重重（生成一堵墙） **"
+		"chi"		"**一位玩家拿起了障碍重重（生成一堵草墙.持续时间5秒） **"
 	}
 	">>> FAIL ROUND <<<"
 	{
@@ -335,7 +337,7 @@
 	}
 	">>> PLAYER HAS PICKED UP GRAVITY <<<"
 	{
-		"chi"		"**一位玩家拿起了万象天引（施放一个黑洞.在范围内的僵尸全部会被聚集在一起）*"
+		"chi"		"**一位玩家拿起了万象天引（施放一个黑洞.在范围内的僵尸全部会被聚集在一起.持续时间5秒）*"
 	}
 	">>> BALROG IS COMING <<<"
 	{
