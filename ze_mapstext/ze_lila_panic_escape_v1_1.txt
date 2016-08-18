@@ -43,7 +43,7 @@
 	}
 	"** DJ IN DA HOUSE !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**点歌机被拿了**"
 	}
 	"** Button A2 pressed **"
 	{
@@ -67,7 +67,7 @@
 	}
 	"[MUSIC] NYAN CAT"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐] 彩虹猫**"
 	}
 	"** SECRET NYAN CAT COMPLETED **"
 	{
@@ -103,11 +103,11 @@
 	}
 	"** GO TO THE CENTRAL BUILDING... **"
 	{
-		"chi"		"** **"
+		"chi"		"**去中间的建筑...**"
 	}
 	"** ... AND WAIT FOR EVACUATION **"
 	{
-		"chi"		"** **"
+		"chi"		"**...然后等待救援**"
 	}
 	"** DEFEND 10 SECONDS **"
 	{
@@ -119,7 +119,7 @@
 	}
 	"** END OF THE LINE !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**这是最后的守点了!!**"
 	}
 	"** HOLD THIS POSITION FOR 60 SECONDS !! **"
 	{
@@ -261,7 +261,7 @@
 	}
 	"** LEVEL 4 (BOSS) **"
 	{
-		"chi"		"**第四关 **"
+		"chi"		"**第四关(BOSS) **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** BOSS ATTACKS ENABLED **"
@@ -331,12 +331,12 @@
 	}
 	"** LEVEL 6 (BOSS) **"
 	{
-		"chi"		"**第六关 **"
+		"chi"		"**第六关(BOSS)**"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
 	{
-		"chi"		"** **"
+		"chi"		"**获得道具 - 全部人类回到250血**"
 	}
 	"[MUSIC] BLOODHOUND GANG - The Bad Touch"
 	{
@@ -360,7 +360,7 @@
 	}
 	"** LEVEL 7 (EXTREME) **"
 	{
-		"chi"		"**第七关 **"
+		"chi"		"**第七关(EXTREME)**"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** SUICIDAL ZOMBIE INCOMING **"
@@ -433,7 +433,7 @@
 	}
 	"** LEVEL 8 (FINAL BOSS) **"
 	{
-		"chi"		"**第八关 **"
+		"chi"		"**第八关(最后的BOSS)**"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** U WON LEVEL 8 (FINAL BOSS) **"
@@ -442,11 +442,11 @@
 	}
 	"** CONGRATZ !! U WON THE MAP !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜!!你通关了这张图!!**"
 	}
 	"** LEVEL 9 (ZM ROUND) **"
 	{
-		"chi"		"**第九关 **"
+		"chi"		"**第九关(ZM)**"
 	}
 	"** ADMIN ROOM IS OPEN ! **"
 	{
@@ -454,11 +454,11 @@
 	}
 	"** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
 	{
-		"chi"		"** **"
+		"chi"		"**OP给了每个人5的神器等级!享受吧!**"
 	}
 	"** ADMIN chose LEVEL 1 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第一关**"
 	}
 	"** SECRETS 3 of 5 FOUND **"
 	{
@@ -474,38 +474,38 @@
 	}
 	"** ITEM COLLECTED - PEDOBEAR LOST 150 HP **"
 	{
-		"chi"		"** **"
+		"chi"		"**获得道具 - BOSS -150血**"
 	}
 	"** ADMIN chose LEVEL 4 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第四关**"
 	}
 	"** ADMIN chose LEVEL 6 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第六关**"
 	}
 	"** ADMIN chose LEVEL 5 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第五关**"
 	}
 	"** ADMIN chose LEVEL 7 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第七关**"
 	}
 	"** ADMIN chose LEVEL 8 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第八关**"
 	}
 	"** ADMIN chose LEVEL 9 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第⑨关**"
 	}
 	"** ADMIN chose LEVEL 2 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第二关**"
 	}
 	"** ADMIN chose LEVEL 3 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**OP把下一关调成第三关**"
 	}
 }
