@@ -99,7 +99,7 @@
 	}
 	"** EXPLOSION IN 145 SECONDS **"
 	{
-		"chi"		"**warning:EXPLOSION IN 145 SECONDS!!!!**"
+		"chi"		"**警告:145秒后核爆炸**"
 	}
 	"**  110 SECONDS LEFT **"
 	{
@@ -111,11 +111,11 @@
 	}
 	"**  90 SECONDS LEFT **"
 	{
-		"chi"		"**warning:90 seconds left!!!**"
+		"chi"		"**警告：剩余90秒**"
 	}
 	"**  80 SECONDS LEFT **"
 	{
-		"chi"		"**warning:80 seconds left!!!**"
+		"chi"		"**警告：剩余80秒**"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
@@ -124,7 +124,7 @@
 	}
 	"**  70 SECONDS LEFT **"
 	{
-		"chi"		"**warning:70 seconds left!!!**"
+		"chi"		"**警告：剩余70秒**"
 	}
 	"** Well done! Door is opening in 10 seconds **"
 	{
@@ -133,23 +133,23 @@
 	}
 	"**  60 SECONDS LEFT **"
 	{
-		"chi"		"**warning:60 seconds left!!!**"
+		"chi"		"**警告：剩余60秒**"
 	}
 	"**  50 SECONDS LEFT **"
 	{
-		"chi"		"**warning:50 seconds left!!!**"
+		"chi"		"**警告：剩余50秒**"
 	}
 	"**  40 SECONDS LEFT **"
 	{
-		"chi"		"**warning:40 seconds left!!!**"
+		"chi"		"**警告：剩余40秒**"
 	}
 	"**  30 SECONDS LEFT **"
 	{
-		"chi"		"**warning:30  seconds left!!!**"
+		"chi"		"**警告：剩余30秒**"
 	}
 	"**  20 SECONDS LEFT **"
 	{
-		"chi"		"**warning:20 seconds left!!!**"
+		"chi"		"**警告：剩余20秒**"
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
@@ -185,11 +185,11 @@
 	}
 	"** EXPLOSION IN 120 SECONDS **"
 	{
-		"chi"		"**warning:explosion in 120 seconds!!!**"
+		"chi"		"**警告：剩余100秒**"
 	}
 	"**  10 SECONDS LEFT **"
 	{
-		"chi"		"**warning:10 seconds left!!!**"
+		"chi"		"**警告：剩余10秒**"
 	}
 	"** RUN! **"
 	{
@@ -225,23 +225,23 @@
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
-		"chi"		"**warning:explosion in 130 seconds!!!**"
+		"chi"		"**警告：130秒后爆炸**"
 	}
 	"**  120 SECONDS LEFT **"
 	{
-		"chi"		"**warning:120 seconds left!!!**"
+		"chi"		"**警告：剩余120秒**"
 	}
 	"** 30 SECONDS LEFT **"
 	{
-		"chi"		"**warning:30 seconds left!!!**"
+		"chi"		"**警告：剩余30秒**"
 	}
 	"** 20 SECONDS LEFT **"
 	{
-		"chi"		"**warning:20 seconds left!!!**"
+		"chi"		"**警告：剩余20秒**"
 	}
 	"** 10 SECONDS LEFT **"
 	{
-		"chi"		"**warning:10 seconds left!!!**"
+		"chi"		"**警告：剩余10秒**"
 	}
 	"** ZOMBIES HAVE INFECTED THE BUNKER **"
 	{
