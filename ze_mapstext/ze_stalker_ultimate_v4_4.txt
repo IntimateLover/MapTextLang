@@ -2,11 +2,11 @@
 {
 	"**You are too slow...**"
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了... **"
 	}
 	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"** **"
+		"chi"		"**本图根据游戏潜行者制作 **"
 	}
 	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
 	{
@@ -14,7 +14,7 @@
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 特别感谢：HaRyDe POMKA Said Z-O-M-B-I-E的各位 **"
 	}
 	"**Thanks to Luffaren Moltard Shufen Kim Enviolinador george. for helping with the port**"
 	{
@@ -22,11 +22,11 @@
 	}
 	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**"
 	{
-		"chi"		"** **"
+		"chi"		"**当前任务：寻找秘密实验室的入口 **"
 	}
 	"**A player picked up meatchunk(PUSHERGRAVITY on STAGE 3 4 5)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了诱引(效果：推力.重力效果在345关可以使用） **"
 	}
 	"**Lab door 1 will open in 11 seconds**"
 	{
@@ -42,27 +42,29 @@
 	}
 	"**Zombie shield is activated. You have 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御系统启动.你有15秒时间逃脱 **"
 	}
 	"**A player picked up fireball(FIRE)**"
 	{
-		"chi"		"**一位玩家拿起了火球**"
+		"chi"		"**一位玩家拿起了fireball（火球）**"
 	}
 	"**Zombie shield is disabled**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸防御系统关闭 **"
 	}
 	"***The control panel seems without power. Maybe using the lever will help***"
 	{
-		"chi"		"** **"
+		"chi"		"**控制器似乎没有电力.使用墙上的装置也许会有所帮助 **"
+		"ico"		"icon_fire"
 	}
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**大门将在30秒后打开**"
+		"DoorCountdown"		"30"
 	}
 	"***Seems that works. Try to use the control panel to open the gates***"
 	{
-		"chi"		"** **"
+		"chi"		"**似乎已经有了电力.尝试使用控制器打开大门 **"
 	}
 	"**Hold this position for 10 seconds**"
 	{
@@ -70,23 +72,26 @@
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**切尔诺贝利的大门将在20秒后打开 **"
 	}
 	"Hold this position for 10 seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住10秒！！ **"
+		"DoorCountdown"		"10"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将被空气墙阻挡30秒！ **"
+		"DoorCountdown"		"30"
 	}
 	"**Survive for 70 seconds**"
 	{
 		"chi"		"**生存70秒**"
+		"DoorCountdown"		"70"
 	}
 	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹大概在50秒后发射.找到一个安全的地方防守 **"
 	}
 	"**Lab door 2 will open in 13 seconds**"
 	{
@@ -98,74 +103,78 @@
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**2号电梯将在9秒后离开 **"
 	}
 	"**A player picked up a piece of flesh(WIND)**"
 	{
-		"chi"		"**2号电梯将在9秒后离开**"
+		"chi"		"**一位玩家拿起了flesh（风）**"
 	}
 	"**A player picked up flash(ELECTROULTIMA on STAGE 3 4 5)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了flash（效果：电.终极效果可以在345关使用 **"
 	}
 	"**15 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩15秒 **"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"**STAGE 1 is beaten. Moving on STAGE 2**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成.进入第二关 **"
 	}
 	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**"
 	{
-		"chi"		"** **"
+		"chi"		"**当前任务：去秘密实验室，寻找奇怪的干扰原因 **"
 	}
 	"**Hold for 5 seconds before the gates open**"
 	{
-		"chi"		"** **"
+		"chi"		"**在大门打开之前守住5秒 **"
 	}
 	"**Hold the place for 25 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住25秒 **"
+		"DoorCountdown"		"25"
 	}
 	"***Break the spheres to escape***"
 	{
-		"chi"		"** **"
+		"chi"		"**打破中间圆柱的玻璃 **"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
-		"chi"		"** **"
+		"chi"		"**哦！不！是谁？ 快杀了他 **"
 	}
 	"**Wait for others for 5 more seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**多等别人5秒钟 **"
 	}
 	"**Hold 25 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
+		"DoorCountdown"		"25"
 	}
 	"**Hurry! Fall back to the right side!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**快点！往右边走！ **"
 	}
 	"**This is the last hold point**Hold them 25 seconds until door closes**"
 	{
-		"chi"		"** **"
+		"chi"		"**这是最后一个守点**守住25秒，直到门关闭 **"
+		"DoorCountdown"		"25"
 	}
 	"**There are zombies in. The level is failed.**"
 	{
-		"chi"		"** **"
+		"chi"		"**有僵尸在.本关失败 **"
 	}
 	"**There are zombies in bunker. The level is failed.**"
 	{
-		"chi"		"** **"
+		"chi"		"**有僵尸在仓库.本关失败 **"
 	}
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
-		"chi"		"** **"
+		"chi"		"**门10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 }
