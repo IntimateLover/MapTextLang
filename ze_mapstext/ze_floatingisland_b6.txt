@@ -2,7 +2,7 @@
 {
 	"***Special Thanks: Altima,Moray,ClariceTang***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：Altima，Moray，ClariceTang **"
 	}
 	"***Level: Normal***"
 	{
@@ -22,7 +22,7 @@
 	}
 	"***rocks breaking in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石10秒后破碎 **"
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
@@ -30,7 +30,7 @@
 	}
 	"***rocks breaking in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石15秒后破碎 **"
 	}
 	"***5 seconds***"
 	{
@@ -42,7 +42,7 @@
 	}
 	"***something is moving***"
 	{
-		"chi"		"** **"
+		"chi"		"**有什么正在移动 **"
 	}
 	"***rocks breaking in 30 seconds***"
 	{
@@ -126,7 +126,7 @@
 	}
 	"***its parallel world!***"
 	{
-		"chi"		"** **"
+		"chi"		"**有个平行世界！ **"
 	}
 	"***its sword! shoot it!***"
 	{
@@ -262,7 +262,7 @@
 	}
 	"***The guardians is dead!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守护者死了！！ **"
 	}
 	"***door breaking in 10 seconds***"
 	{
@@ -270,31 +270,31 @@
 	}
 	"***run out of the Relic***"
 	{
-		"chi"		"** **"
+		"chi"		"**从遗迹中跑出来 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了僵尸杀戮 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了僵尸火 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了僵尸摇曳 **"
 	}
 	"***Chaos has been defeated!!!!!Run!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS被打败了！！跑！！ **"
 	}
 	"***you won the crazy mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关通过 **"
 	}
 	"***level: Epic***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：史诗 **"
 	}
 	"***you have won the map***"
 	{
