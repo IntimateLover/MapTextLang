@@ -158,6 +158,7 @@
 	"**Hurry! Fall back to the right side!!**"
 	{
 		"chi"		"**快点！往右边走！ **"
+		"ico"		"icon_fire"
 	}
 	"**This is the last hold point**Hold them 25 seconds until door closes**"
 	{
