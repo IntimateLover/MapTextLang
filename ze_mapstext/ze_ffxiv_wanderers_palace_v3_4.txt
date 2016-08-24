@@ -90,7 +90,7 @@
 	}
 	"*** Next Level Hard ***"
 	{
-		"chi"		"**继续下一难度 **"
+		"chi"		"**下一难度：困难 **"
 	}
 	"*** Level:Hard ***"
 	{
@@ -121,11 +121,11 @@
 	}
 	"*** Location: The Navel ***"
 	{
-		"chi"		"**地点：宫殿 **"
+		"chi"		"**地点：地宫 **"
 	}
 	"*** Behemoth King Appeared ***"
 	{
-		"chi"		"**巴哈姆特出现 **"
+		"chi"		"**巨兽王出现 **"
 	}
 	"*** Shoot him ***"
 	{
@@ -133,16 +133,18 @@
 	}
 	"*** Flare ***"
 	{
-		"chi"		"**龙之吐息（向前跑.离开红色区域） **"
+		"chi"		"**激光（想装逼的去左边.萌新去右边） **"
 		"ico"		"icon_fire"
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"** **"
+		"chi"		"**山体滑坡（远离红色区域） **"
+		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"
 	{
 		"chi"		"**天坠（躲避天上柱子.不要被砸到.降到地板的时候按W防推） **"
+		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
 	{
@@ -172,7 +174,8 @@
 	}
 	"*** 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**远离中间 **"
+		"ico"		"icon_fire"
 	}
 	"*** Chase the ADS ***"
 	{
@@ -271,7 +274,7 @@
 	}
 	"*** ADS ATTACK ***"
 	{
-		"chi"		"**ADS攻击 **"
+		"chi"		"**射击ADS **"
 	}
 	"*** Dalamud appeared ***"
 	{
