@@ -179,11 +179,11 @@
 	"** Our reports indicate some sort of archeologic research takes place here... **"
 	{
 		"chi"		"**我们的报告显示.某种archeologic研究在这里发生过…… **"
+		"DoorCountDown" "30"
 	}
 	"** Hold! We need to unlock the metal gates and then well access the caves. **"
 	{
 		"chi"		"**守住！我们需要解锁这道门然后进入洞穴.**"
-		"DoorCountDown" "30"
 	}
 	"** Almost there! Keep it up! **"
 	{
