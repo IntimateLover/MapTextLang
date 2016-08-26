@@ -138,7 +138,7 @@
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"**山体滑坡（远离红色区域） **"
+		"chi"		"**泥石流（远离红色区域） **"
 		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"
@@ -148,7 +148,7 @@
 	}
 	"*** Behemoth King dead ***"
 	{
-		"chi"		"**巴哈姆特受伤了 **"
+		"chi"		"**巨兽王受伤了 **"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
