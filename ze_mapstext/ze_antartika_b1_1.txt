@@ -38,6 +38,7 @@
 	"** Were nearing the neuralgic center of the complex... **"
 	{
 		"chi"		"**我们正在接近中心... **"
+		"DoorCountDown" "18"
 	}
 	"** Hold until we are able to open this door! **"
 	{
@@ -46,11 +47,11 @@
 	"** This button should unlock the doors and let us through... **"
 	{
 		"chi"		"**这个按钮应该可以打开门 **"
+		"DoorCountDown" "20"
 	}
 	"** Resist while we wait for the doors to open! **"
 	{
 		"chi"		"**在门打开之前守住这里！ **"
-		"DoorCountDown" "20"
 	}
 	"** Well need to reach one of the gas deposits to blow it up and delay their plans... **"
 	{
@@ -94,6 +95,7 @@
 	"** Keep it up! Its about to open! **"
 	{
 		"chi"		"**守住！它即将打开！ **"
+		"DoorCountDown" "25"
 	}
 	"** HOLD THEM RIGHT HERE! We need to unlock thid door! **"
 	{
