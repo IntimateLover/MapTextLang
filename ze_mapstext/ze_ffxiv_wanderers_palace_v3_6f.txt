@@ -174,8 +174,7 @@
 	}
 	"*** 10 seconds ***"
 	{
-		"chi"		"**远离中间 **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
 	"*** Chase the ADS ***"
 	{
@@ -265,7 +264,7 @@
 	}
 	"***Location: The Ragnarok ***"
 	{
-		"chi"		"**地点：仙境 **"
+		"chi"		"**地点：外太空 **"
 	}
 	"*** Defend 35 seconds ***"
 	{
