@@ -2,7 +2,7 @@
 {
 	">>> Map created by Moray <<<"
 	{
-		"chi"		"**地图制作：Moray 汉化：寧々♪**"
+		"chi"		"**地图制作：Moray 汉化：寧々♪&浅见**"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
@@ -41,7 +41,7 @@
 	}
 	">>> NOOB TRASHED <<<"
 	{
-		"chi"		"**菜鸟已出局**"
+		"chi"		"**noob!!!**"
 	}
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
@@ -183,12 +183,12 @@
 	}
 	">>> TROLL IS COMING <<<"
 	{
-		"chi"		"**巨人来了！**"
+		"chi"		"**食人魔来了！**"
 		"ico"		"icon_fire"
 	}
 	">>> TROLL IS DEAD <<<"
 	{
-		"chi"		"**巨人死了！**"
+		"chi"		"**食人魔死了！**"
 		"ico"		"icon_fire"
 	}
 	">>> ITS DRAGON <<<"
@@ -210,7 +210,7 @@
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"chi"		"**玩家拾取了<僵尸减速>**"
+		"chi"		"**玩家拾取了>僵尸眩光<**"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
@@ -236,7 +236,7 @@
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
-		"chi"		"**还有5秒，不要拖延**"
+		"chi"		"**还有5秒，不要被落下了！**"
 	}
 	">>> RUN <<<"
 	{
@@ -336,11 +336,11 @@
 	}
 	">>> ITS BALROG <<<"
 	{
-		"chi"		"**那是巴洛克**"
+		"chi"		"**那是炎魔！**"
 	}
 	">>> BALROG IS ESCAPED <<<"
 	{
-		"chi"		"**巴洛克已经跑了**"
+		"chi"		"**炎魔已经跑了！**"
 	}
 	">>> STAGE 5 <<<"
 	{
