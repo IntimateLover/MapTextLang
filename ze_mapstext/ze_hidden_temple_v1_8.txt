@@ -31,7 +31,7 @@
 	"### 10 SECONDS REMAINING ###"
 	{
 		"chi"		"**还剩10秒 **"
-		"DoorCountDown" "10"
+		"DoorCountDown"		"10"
 	}
 	"### FALL BACK NOW !!! ###"
 	{
@@ -40,7 +40,7 @@
 	"### GATE OPEN IN 30 SECONDS ###"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"### YOU NEED TO CROSS BACK ###"
 	{
@@ -61,7 +61,7 @@
 	"### BARRELS EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**木桶在30秒后爆炸 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"### DONT STAY CLOSE TO THESE BARRELS ###"
 	{
@@ -102,7 +102,7 @@
 	"### 30 SECONDS REMAINING ###"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"### FINAL GATES IS OPENING FALL BACK ###"
 	{
@@ -143,7 +143,7 @@
 	"### ZOMBIES ARE COMING FOR LEFT SIDE ###"
 	{
 		"chi"		"**僵尸可以从左侧过来 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"### ALL 2 LEVERS ACTIVATED ###"
 	{
@@ -156,7 +156,7 @@
 	"### HOLD FOR 30 SECONDS ###"
 	{
 		"chi"		"**坚持30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"## HOLD HERE FOR A BIT ###"
 	{
@@ -201,7 +201,7 @@
 	"lll NARAKA IS CASTING DEATH BREATH lll"
 	{
 		"chi"		"**地狱恶魔正在铸造死亡的气(保持移动，远离BOSS会往外推，靠近BOSS往内吸) **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"lll NARAKA IS USING PHYSICAL ATTACK lll"
 	{
@@ -214,5 +214,33 @@
 	"### RIGHT GATES OPEN ###"
 	{
 		"chi"		"**右边大门已打开 **"
+	}
+	">>> HES DEAD. DEFEND UNTIL GATES OPEN <<<"
+	{
+		"chi"		"** **"
+	}
+	"### ACTIVE THE LEVER TO OPEN GATES ###"
+	{
+		"chi"		"** **"
+	}
+	"### HOLD BOTH SIDES FOR 30 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### LEAVE THE ROOM OR DEAD ###"
+	{
+		"chi"		"** **"
+	}
+	"### HOLD THIS HALL FOR A BIT ###"
+	{
+		"chi"		"** **"
+	}
+	"### SHOOT THE CROSS IN THE MIDDLE ROOM ###"
+	{
+		"chi"		"** **"
+	}
+	"### TO OPEN CHURCH GATES ###"
+	{
+		"chi"		"** **"
 	}
 }

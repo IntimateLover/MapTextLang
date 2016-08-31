@@ -23,7 +23,7 @@
 	"***HOLD FOR 50 SECONDS***"
 	{
 		"chi"		"** 坚守 50 秒 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***FALL BACK***"
 	{
@@ -104,7 +104,7 @@
 	"***Hold for 30 seconds***"
 	{
 		"chi"		"** 守住 30 秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
@@ -113,7 +113,7 @@
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
 		"chi"		"** 守住 40 秒 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
@@ -214,7 +214,7 @@
 	"***HOLD 30 SECONDS***"
 	{
 		"chi"		"** 坚守 30 秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***5***"
 	{
@@ -279,7 +279,7 @@
 	"***Hold for 20 seconds***"
 	{
 		"chi"		"** 守住 20 秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***ITS THE PREDATOR!***"
 	{
@@ -348,7 +348,7 @@
 	"***HOLD THIS AREA FOR 20 SECONDS***"
 	{
 		"chi"		"** 守住这个区域 20 秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***15 SECONDS LEFT***"
 	{
