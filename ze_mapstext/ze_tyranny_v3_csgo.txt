@@ -382,4 +382,28 @@
 	{
 		"chi"		"** **"
 	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
 }
