@@ -15,7 +15,7 @@
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**20秒后激活传送 **"
-		"DoorCountDown" 	"20"
+		"DoorCountDown"		"20"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
@@ -51,7 +51,7 @@
 	">>> HOLD 45 SECONDS <<<"
 	{
 		"chi"		"**坚守45秒 **"
-		"DoorCountDown" 	"45"
+		"DoorCountDown"		"45"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
@@ -89,12 +89,12 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		"**大门25秒后开启**"
-		"DoorCountDown" 	"25"
+		"DoorCountDown"		"25"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown" 	"20"
+		"DoorCountDown"		"20"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
@@ -103,7 +103,7 @@
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**守住10秒**"
-		"DoorCountDown" 	"10"
+		"DoorCountDown"		"10"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
@@ -116,7 +116,7 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountDown" 	"15"
+		"DoorCountDown"		"15"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
@@ -206,7 +206,7 @@
 	">>> HOLD 30 SECONDS <<<"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown" 	"30"
+		"DoorCountDown"		"30"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
@@ -232,7 +232,7 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		"**守住35秒**"
-		"DoorCountDown" 	"35"
+		"DoorCountDown"		"35"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
@@ -267,7 +267,7 @@
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
 		"chi"		"**传送点10秒后激活**"
-		"DoorCountDown" 	"10"
+		"DoorCountDown"		"10"
 	}
 	">>> STAGE 4 <<<"
 	{
@@ -314,12 +314,12 @@
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountDown" 	"10"
+		"DoorCountDown"		"10"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountDown" 	"40"
+		"DoorCountDown"		"40"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
@@ -328,7 +328,7 @@
 	">>> HOLD 15 SECONDS<<<"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountDown" 	"15"
+		"DoorCountDown"		"15"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
@@ -353,5 +353,57 @@
 	">>> PLAYER HAS PICKED UP GRAVITY <<<"
 	{
 		"chi"		"**玩家拾取了<黑洞>**"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED KILLER. GO BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS HURT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTING ... <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS DEAD <<<"
+	{
+		"chi"		"** **"
 	}
 }
