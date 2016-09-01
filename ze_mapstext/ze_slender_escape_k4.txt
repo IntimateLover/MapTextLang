@@ -2,347 +2,360 @@
 {
 	"** [STORY] STAGE 1 - PRISON **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 第一关 - 监狱 **"
 	}
 	"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 我们在监狱碰到一个叫面条人的好人 - 他想帮我们从这个监狱逃出去! **"
 	}
 	"** [STORY] The old prison lies under the big forest of slender world **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 这个老旧的监狱藏在巨大的森林下面 **"
 	}
 	"** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 我们将跟随黄灯走,面条人会带领我们逃出监狱 **"
 	}
 	"** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 祝你好运，并确保受到感染者(又名zombie)无法离开监狱! **"
 	}
 	"** Teleporting HUMANS in 5 secs **"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送人类 **"
 	}
 	"** Teleporting ZOMBIES in 5 secs **"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送僵尸 **"
 	}
 	"** Cover 20 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**掩护20秒 **"
 	}
 	"** Cover 5 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**掩护5秒 **"
+		"DoorCountDown" "5"
 	}
 	"** SPIDERZOMBIE INCOMING **"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛僵尸已被拾取 **"
 	}
 	"** Cover 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**掩护30秒 **"
+		"DoorCountDown" "30"
 	}
 	"** Prison door will open in 5 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**监狱大门将在5秒后开启 **"
 	}
 	"** GO LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**向左走 **"
+		"ico"   "icon_fire"
 	}
 	"** Cover 25 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**掩护25秒 **"
+		"DoorCountDown" "25"
 	}
 	"** Cover 30 seconds until the gate opens **"
 	{
-		"chi"		"** **"
+		"chi"		"**掩护30秒直到大门打开 **"
+		"DoorCountDown" "30"
 	}
 	"** Cover 5 more seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**掩护5秒 **"
 	}
 	"** 50 seconds left until final escape!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离最后逃离还有50秒!! **"
 	}
 	"** 40 seconds left until final escape!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离最后逃离还有40秒!! **"
 	}
 	"** 30 seconds left until final escape!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离最后逃离还有30秒!!**"
 	}
 	"** 20 seconds left until final escape!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离最后逃离还有20秒!! **"
 	}
 	"** 10 seconds left until final escape!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离最后逃离还有10秒!! **"
 	}
 	"** 5 seconds left until final escape!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离最后逃离还有5秒!! **"
 	}
 	"** Go UP the ladder!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**爬梯子!!**"
 	}
 	"** Incoming nuke in 8 seconds!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8秒后核弹降临!! **"
 	}
 	"** Congratulations - you won STAGE 1 **"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺你 - 你赢了第一关 **"
 	}
 	"** [STORY] STAGE 2 - SCHOOL **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 第二关 - 学校 **"
 	}
 	"** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 我们已经成功逃离了监狱,再过几天我和面条人到达学校 **"
 	}
 	"** [STORY] We have to collect some items if we want to survive in slender world**"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 如果我们想在细长世界生存下去，我们必须收集一些物品 **"
 	}
 	"** DOORS WILL OPEN IN 20 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在20秒后打开 **"
 	}
 	"** DOORS WILL OPEN IN 5 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	"** DOOR WILL OPEN IN 15 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后打开 **"
+		"DoorCountDown" "15"
 	}
 	"** DOOR WILL OPEN IN 5 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
 	{
-		"chi"		"** **"
+		"chi"		"**在学校大门打开之前守住学校花园30秒 **"
+		"DoorCountDown" "30"
 	}
 	"** 5 MORE SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"** DEFEND 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**保护20秒 **"
+		"DoorCountDown" "20"
 	}
 	"** [STORY] Oh no! Its a trap! Slenderman betrayed us! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 哦不!它是一个陷阱!面条人背叛了我们! **"
 	}
 	"** [STORY] He killed a few of our good men! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 他杀掉了我们之中的几个人! **"
 	}
 	"** DEFEND 15 MORE SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**保护15秒 **"
 	}
 	"** GO BACK TO THE EXIT OF THE SCHOOL ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**回到学校的出口 **"
 	}
 	"** THE EXIT WILL OPEN IN 40 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**出口大门将在40秒后打开 **"
+		"DoorCountDown" "40"
 	}
 	"** SLENDERZOMBIE -FIRE- WOKE UP **"
 	{
-		"chi"		"** **"
+		"chi"		"**面条人僵尸 -火- 苏醒**"
 	}
 	"** 10 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒 **"
 	}
 	"** GET IN THE CHOPPER !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**进入直升机!! **"
 	}
 	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将在10秒后离开 **"
+		"DoorCountDown" "10"
 	}
 	"** Congratulations - you won STAGE 2 **"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺你 - 你赢了第二关 **"
 	}
 	"** [STORY] STAGE 3 - FOREST **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 第三关 - 森林 **"
 	}
 	"** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 在面条人背叛了我们之后,我们和一台老旧的发电机被留在了森林里 **"
 	}
 	"** [STORY] If we want to survive this forest we need to power the main generator **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 如果我们想在这片森林中生存，我们需要给重要的发电机供电 **"
 	}
 	"** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 在发电机运行之后，我们可以继续我们的任务寻找并且杀死面条人! **"
 	}
 	"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 哦，我告诉过你面条人有3兄弟很喜欢玩火吗?! **"
 	}
 	"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
 	{
-		"chi"		"** **"
+		"chi"		"**保护这个基地,同时去森林里寻找燃料罐 **"
 	}
 	"** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了,僵尸摧毁了发电 **"
 	}
 	"** A fuel can has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**一罐燃料已被拾取 **"
 	}
 	"** FUEL 20 % **"
 	{
-		"chi"		"** **"
+		"chi"		"**燃料 20 % **"
 	}
 	"** FUEL 40 % **"
 	{
-		"chi"		"** **"
+		"chi"		"**燃料 40 % **"
 	}
 	"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
 	{
-		"chi"		"** **"
+		"chi"		"**有足够的燃料来启动第一只守卫狗 **"
 	}
 	"** FUEL 60 % **"
 	{
-		"chi"		"** **"
+		"chi"		"**燃料 60 %**"
 	}
 	"** FUEL 80 % **"
 	{
-		"chi"		"** **"
+		"chi"		"**燃料 80 % **"
 	}
 	"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
 	{
-		"chi"		"** **"
+		"chi"		"**有足够的燃料来启动第二只守卫狗 **"
 	}
 	"** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **"
 	{
-		"chi"		"** **"
+		"chi"		"**离面条人找到我们还剩30秒 **"
 	}
 	"** You have failed - NO TIME LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**时间到，你失败了 **"
 	}
 	"** FUEL 100 % **"
 	{
-		"chi"		"** **"
+		"chi"		"**燃料 100 % **"
 	}
 	"** THE GENERATOR HAS ENOUGH FUEL! **"
 	{
-		"chi"		"** **"
+		"chi"		"**发电机有足够的燃料! **"
 	}
 	"** GET ALL BACK TO THE BASE **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有人都返回基地 **"
 	}
 	"** NUKE in 45 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹45秒内爆炸 **"
 	}
 	"** NUKE in 35 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹35秒内爆炸 **"
 	}
 	"** NUKE in 25 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹25秒内爆炸 **"
 	}
 	"** NUKE in 15 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹15秒内爆炸 **"
 	}
 	"** NUKE in 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹5秒内爆炸 **"
 	}
 	"** Congratulations - you won STAGE 3 **"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺你 - 你赢了第三关 **"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:SLAYERDRAGON 地图翻译:不清新的木心♪ **"
 	}
 	"** [STORY] STAGE 4 - MANSION **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 第四关 - 豪宅 **"
 	}
 	"** [STORY] After a few days of wandering we finally arrived at slender mansion **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 经过几天的漫游，我们终于到达了面条人的豪宅 **"
 	}
 	"** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 为了确保能杀死面条人,我们将炸弹埋在地下室 **"
 	}
 	"** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 当炸弹埋下后，我们将访问面条人并且杀死他 **"
 	}
 	"** [STORY] Good luck hunting him down once and for all!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[故事] 运气不错的是只要杀了他一次就是永远 **"
 	}
 	"** Cover here till we broke the mansions main door **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里，直到我们打破了豪宅的大门 **"
 	}
 	"** KEEP DEFENDING **"
 	{
-		"chi"		"** **"
+		"chi"		"**保持防守 **"
 	}
 	"** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门已打开,去马桶下埋藏炸弹 **"
 	}
 	"** CLOSE THE VALVES FOR LOWERING THE WATER **"
 	{
-		"chi"		"** **"
+		"chi"		"**关闭水闸(左边两个，右边一个，管道一个) **"
+		 "ico"   "icon_fire"
 	}
 	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们埋好炸弹了，别让僵尸靠近炸弹30秒 **"
+		"DoorCountDown" "30"
 	}
 	"** All drains have been closed - Water is lowering **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有水闸已关闭，水下降 **"
 	}
 	"** 5 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"** GO BACK TO THE MAIN HALL **"
 	{
-		"chi"		"** **"
+		"chi"		"**返回大厅 **"
 	}
 	"** 15 SECONDS TILL WE OPENED FIRST GATE **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持15秒直到我们打开第一个门 **"
 	}
 	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒直到我们打开第二个门 **"
+		"DoorCountDown" "5"
 	}
 	"** GO GO GO **"
 	{
@@ -350,19 +363,20 @@
 	}
 	"** ELEVATOR WILL START IN 30 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯30秒内上升 **"
 	}
 	"** ELEVATOR IS LEAVING IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯20秒内上升 **"
 	}
 	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯10秒内上升 **"
+		"DoorCountDown" "10"
 	}
 	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒内上升 **"
 	}
 	"** WE ARE ALMOST AT SLENDERMAN !! **"
 	{
@@ -370,22 +384,24 @@
 	}
 	"** KEEP COVERING **"
 	{
-		"chi"		"** **"
+		"chi"		"**保持防守 **"
 	}
 	"** 5 MORE SECONDS! **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒 **"
+		"DoorCountDown" "5"
 	}
 	"** YOU FINALLY FOUND ME **"
 	{
-		"chi"		"** **"
+		"chi"		"**你终于找到了我 **"
 	}
 	"** NOW YOU WILL MEET YOUR DESTINY **"
 	{
-		"chi"		"** **"
+		"chi"		"**现在你将要接受命运 **"
 	}
 	"** BOSS USES TELEPORTS NOW **"
 	{
-		"chi"		"** **"
+		"chi"		"**面条人现在使用传送(保持移动,不动就被爆菊) **"
+		"ico"   "icon_fire"
 	}
 }
