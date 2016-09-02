@@ -30,7 +30,7 @@
 	}
 	"*** Glacial Orb has been acquired ***"
 	{
-		"chi"		"**冰冻球已经拾取**"
+		"chi"		"**<冰冻球>已经拾取**"
 	}
 	"*** Portcullis opening in 30 seconds ***"
 	{
@@ -47,11 +47,11 @@
 	}
 	"*** Divine Orb has been acquired ***"
 	{
-		"chi"		"**神圣球已经拾取**"
+		"chi"		"**<神圣球>已经拾取**"
 	}
 	"*** Abyssal Orb has been acquired ***"
 	{
-		"chi"		"**深渊球已经拾取**"
+		"chi"		"**<深渊球>已经拾取**"
 	}
 	"*** Inner gate opening in 10 seconds ***"
 	{
@@ -68,7 +68,7 @@
 	}
 	"*** Gust Orb has been acquired ***"
 	{
-		"chi"		"**狂风球已经拾取**"
+		"chi"		"**<狂风球>已经拾取**"
 	}
 	"*** Door opening in 45 seconds ***"
 	{
@@ -77,7 +77,7 @@
 	}
 	"*** Lightning Orb has been acquired ***"
 	{
-		"chi"		"**闪电球已经拾取**"
+		"chi"		"**<闪电球>已经拾取**"
 	}
 	"*** Doors opening in 45 seconds ***"
 	{
@@ -90,7 +90,7 @@
 	}
 	"*** Burning Orb has been acquired ***"
 	{
-		"chi"		"**燃烧球已经拾取**"
+		"chi"		"**<燃烧球>已经拾取**"
 	}
 	"*** Castle area teleport activating in 5 seconds ***"
 	{
@@ -98,7 +98,7 @@
 	}
 	"*** Stage completed! ***"
 	{
-		"chi"		"**关卡完成**"
+		"chi"		"**关卡完成 汉化：比那名居天子**"
 	}
 	"*** STAGE II ***"
 	{
