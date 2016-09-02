@@ -2,162 +2,174 @@
 {
 	"*** STAGE I ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"*** WARMUP - 50 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身还有50秒**"
 	}
 	"*** WARMUP - 40 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身还有40秒**"
 	}
 	"*** WARMUP - 30 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身还有30秒**"
 	}
 	"*** WARMUP - 20 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身还有20秒**"
 	}
 	"*** WARMUP - 10 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身还有10秒**"
 	}
 	"*** WARMUP OVER - RESTARTING ROUND ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身结束**"
 	}
 	"*** Glacial Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"**<冰冻球>已经拾取**"
 	}
 	"*** Portcullis opening in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**铁闸门30秒后开启**"
+		"DoorCountDown"		"30"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒**"
 	}
 	"*** Spawn area teleport activating in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**出生点传送5秒后激活**"
 	}
 	"*** Divine Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"**<神圣球>已经拾取**"
 	}
 	"*** Abyssal Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"**<深渊球>已经拾取**"
 	}
 	"*** Inner gate opening in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**内部大门10秒后开启**"
+		"DoorCountDown"		"10"
 	}
 	"*** Bridge area teleport activating in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大桥区域传送5秒后激活**"
 	}
 	"*** Round failed! Zombies have reached the objective! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**回合失败，僵尸已经达到目标**"
 	}
 	"*** Gust Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"**<狂风球>已经拾取**"
 	}
 	"*** Door opening in 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门45秒后开启**"
+		"DoorCountDown"		"45"
 	}
 	"*** Lightning Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"**<闪电球>已经拾取**"
 	}
 	"*** Doors opening in 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门45秒后开启**"
+		"DoorCountDown"		"45"
 	}
 	"*** Total destruction in 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒后核爆**"
 	}
 	"*** Burning Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"**<燃烧球>已经拾取**"
 	}
 	"*** Castle area teleport activating in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**城堡区域传送5秒后激活**"
 	}
 	"*** Stage completed! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡完成 汉化：比那名居天子**"
 	}
 	"*** STAGE II ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	"*** Outer gate opening in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门10秒后开启**"
+		"DoorCountDown"		"10"
 	}
 	"*** Chapel lift leaving in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**教堂电梯30秒后离开**"
+		"DoorCountDown"		"30"
 	}
 	"*** Windows breaking in 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**窗户45秒后破裂**"
+		"DoorCountDown"		"45"
 	}
 	"*** Doors closing in 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门45秒后关闭**"
+		"DoorCountDown"		"45"
 	}
 	"*** Library lift leaving in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**图书馆电梯30秒后离开**"
+		"DoorCountDown"		"30"
 	}
 	"*** The tomb has been reached ***"
 	{
-		"chi"		"** **"
+		"chi"		"**到达坟墓**"
 	}
 	"*** Defend the 4 statues for 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**保护四座雕像45秒**"
+		"DoorCountDown"		"45"
 	}
 	"*** Total destruction in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后核爆**"
 	}
 	"*** Total destruction in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后核爆**"
 	}
 	"*** Kill any remaining zombies ***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死剩余的僵尸**"
 	}
 	"*** STAGE III ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关**"
 	}
 	"*** Inner gate lever is stuck ***"
 	{
-		"chi"		"** **"
+		"chi"		"**内部大门开关被卡住了**"
 	}
 	"*** Find another way! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找另一条路**"
 	}
 	"*** Doors opening in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后开启**"
+		"DoorCountDown"		"30"
 	}
 	"*** Fountain opening in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**喷泉20秒后开启**"
+		"DoorCountDown"		"20"
 	}
 }
