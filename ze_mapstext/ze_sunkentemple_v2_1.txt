@@ -2,114 +2,119 @@
 {
 	">>> LFG SUNKENTEMPLE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**魔兽世界：沉没的神庙 **"
 	}
 	">>> ????? will open in 30 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后开启 **"
+		"DoorCountdown"		"30"
 	}
 	">>> Wall has been picked <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**墙已被拿起 **"
 	}
 	">>> GATE IS OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开了 **"
 	}
 	">>> Zombies will teleport in 20 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸20秒后传送 **"
 	}
 	">>> Push has been picked <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**PUSH已被拿起 **"
 	}
 	">>> Heal has been picked <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已被拿起 **"
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒后打开 **"
 	}
 	">>> Zombies teleport in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸15秒后传送 **"
 	}
 	">>> Gate will open in 30 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	">>> Gate will open in 5 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	">>> Lower gate will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**下方大门将在40秒后打开 **"
+		"DoorCountdown"		"40"
 	}
 	">>> Upper gate will open in 25 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**上方大门将在25秒后打开 **"
 	}
 	">>> Lower gate will open in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**下方大门将在10秒后打开 **"
 	}
 	">>> FIND ANOTHER WAY  FAST <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**找到另一条路 **"
 	}
 	">>> Try shooting the walls <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**试着射击墙壁 **"
 	}
 	">>> Zombies will teleport in 25 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸25秒后传送 **"
 	}
 	">>> Door will open in 25 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门25秒后开启 **"
+		"DoorCountdown"		"25"
 	}
 	">>> Gate will open in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门15秒后开启 **"
 	}
 	">>> Zombies will teleport in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸15秒后传送 **"
 	}
 	">>> Wall will break in 25 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁将在25秒后破碎 **"
+		"DoorCountdown"		"25"
 	}
 	">>> All levers has been pressed <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**所以杠杆已被拉下 **"
 	}
 	">>> Prepare to jump <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**准备跳 **"
 	}
 	">>> RED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**红 **"
 	}
 	">>> GREEN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**绿 **"
 	}
 	">>> SLASH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**侧劈斩（往后跑躲开左边的刀） **"
 	}
 	">>> PURPLE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**紫 **"
 	}
 	">>> YELLOW <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**黄 **"
 	}
 }
