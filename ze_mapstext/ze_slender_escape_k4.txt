@@ -2,11 +2,11 @@
 {
 	"** [STORY] STAGE 1 - PRISON **"
 	{
-		"chi"		"**[故事] 第一关 - 监狱 **"
+		"chi"		"***[故事] 第①关 - 监狱 ***"
 	}
 	"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
 	{
-		"chi"		"**[故事] 我们在监狱碰到一个叫面条人的好人 - 他想帮我们从这个监狱逃出去! **"
+		"chi"		"**[故事] 我们在监狱碰到①个叫面条人的好人 - 他想帮我们从这个监狱逃出去! **"
 	}
 	"** [STORY] The old prison lies under the big forest of slender world **"
 	{
@@ -35,7 +35,7 @@
 	"** Cover 5 seconds **"
 	{
 		"chi"		"**掩护5秒 **"
-		"DoorCountDown" "5"
+		"DoorCountDown"		"5"
 	}
 	"** SPIDERZOMBIE INCOMING **"
 	{
@@ -44,7 +44,7 @@
 	"** Cover 30 seconds **"
 	{
 		"chi"		"**掩护30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"** Prison door will open in 5 seconds **"
 	{
@@ -53,17 +53,17 @@
 	"** GO LEFT **"
 	{
 		"chi"		"**向左走 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"** Cover 25 seconds **"
 	{
 		"chi"		"**掩护25秒 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"** Cover 30 seconds until the gate opens **"
 	{
 		"chi"		"**掩护30秒直到大门打开 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"** Cover 5 more seconds **"
 	{
@@ -128,7 +128,7 @@
 	"** DOOR WILL OPEN IN 15 SECS **"
 	{
 		"chi"		"**大门将在15秒后打开 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"** DOOR WILL OPEN IN 5 SECS **"
 	{
@@ -137,7 +137,7 @@
 	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
 	{
 		"chi"		"**在学校大门打开之前守住学校花园30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"** 5 MORE SECONDS **"
 	{
@@ -146,7 +146,7 @@
 	"** DEFEND 20 SECONDS **"
 	{
 		"chi"		"**保护20秒 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"** [STORY] Oh no! Its a trap! Slenderman betrayed us! **"
 	{
@@ -167,7 +167,7 @@
 	"** THE EXIT WILL OPEN IN 40 SECS **"
 	{
 		"chi"		"**出口大门将在40秒后打开 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"** SLENDERZOMBIE -FIRE- WOKE UP **"
 	{
@@ -184,7 +184,7 @@
 	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
 	{
 		"chi"		"**直升机将在10秒后离开 **"
-		"DoorCountDown" "10"
+		"DoorCountDown"		"10"
 	}
 	"** Congratulations - you won STAGE 2 **"
 	{
@@ -329,12 +329,12 @@
 	"** CLOSE THE VALVES FOR LOWERING THE WATER **"
 	{
 		"chi"		"**关闭水闸(左边两个，右边一个，管道一个) **"
-		 "ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
 	{
 		"chi"		"**我们埋好炸弹了，别让僵尸靠近炸弹30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"** All drains have been closed - Water is lowering **"
 	{
@@ -355,7 +355,7 @@
 	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
 	{
 		"chi"		"**还有5秒直到我们打开第二个门 **"
-		"DoorCountDown" "5"
+		"DoorCountDown"		"5"
 	}
 	"** GO GO GO **"
 	{
@@ -372,7 +372,7 @@
 	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"**电梯10秒内上升 **"
-		"DoorCountDown" "10"
+		"DoorCountDown"		"10"
 	}
 	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
 	{
@@ -389,7 +389,7 @@
 	"** 5 MORE SECONDS! **"
 	{
 		"chi"		"**还有5秒 **"
-		"DoorCountDown" "5"
+		"DoorCountDown"		"5"
 	}
 	"** YOU FINALLY FOUND ME **"
 	{
@@ -402,6 +402,14 @@
 	"** BOSS USES TELEPORTS NOW **"
 	{
 		"chi"		"**面条人现在使用传送(保持移动,不动就被爆菊) **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+	}
+	"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
+	{
+		"chi"		"** **"
+	}
+	"** FINAL STAND **"
+	{
+		"chi"		"** **"
 	}
 }
