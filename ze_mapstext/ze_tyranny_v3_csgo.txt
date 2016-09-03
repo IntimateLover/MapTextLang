@@ -356,54 +356,54 @@
 	}
 	">>> BALROG IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔来了 **"
 	}
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了终极（跑到平台最后方） **"
 	}
 	">>> BALROG IS HURT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔受伤了 **"
 	}
 	">>> TELEPORTING ... <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送… **"
 	}
 	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙死了.继续跑 **"
 	}
 	">>> BALROG IS BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔回来了 **"
 	}
 	">>> BALROG IS DEAD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔死了 **"
 	}
 	">>> BALROG USED FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了火（看清位置左右躲避） **"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔恢复了150HP **"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了激光（蹲下躲避.有两道） **"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了黑洞（按住S或使用墙） **"
 	}
 	">>> BALROG USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了剧毒（看清位置左右躲避） **"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了推（按住W或使用墙） **"
 	}
 }
