@@ -98,7 +98,7 @@
 	}
 	"*** 15 seconds to leave Tonberrys ***"
 	{
-		"chi"		"**15秒后离开Tonberrys **"
+		"chi"		"**15秒后人偶离开 **"
 	}
 	"*** 20 seconds to activate Nymian device ***"
 	{
@@ -148,7 +148,7 @@
 	}
 	"*** Behemoth King dead ***"
 	{
-		"chi"		"**巨兽王受伤了 **"
+		"chi"		"**巨兽王死了 **"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
@@ -179,6 +179,7 @@
 	"*** Chase the ADS ***"
 	{
 		"chi"		"**追上ADS **"
+		"ico"		"icon_fire"
 	}
 	"***A player picked up Limit Break***"
 	{
@@ -186,7 +187,7 @@
 	}
 	"*** once only ***"
 	{
-		"chi"		"**只能使用一次.请不要EZ WIN **"
+		"chi"		"**只能使用一次.请不要EZWIN **"
 	}
 	"*** 30 seconds to Open Door ***"
 	{
@@ -295,7 +296,7 @@
 	}
 	"*** True Bahamut appeared ***"
 	{
-		"chi"		"**真的巴哈姆特来了 **"
+		"chi"		"**真·巴哈姆特来了 **"
 	}
 	"*** Steam Judge ***"
 	{
