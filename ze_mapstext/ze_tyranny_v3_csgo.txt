@@ -361,6 +361,7 @@
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
 		"chi"		"**炎魔使用了终极（跑到平台最后方） **"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG IS HURT <<<"
 	{
@@ -385,6 +386,7 @@
 	">>> BALROG USED FIRE <<<"
 	{
 		"chi"		"**炎魔使用了火（看清位置左右躲避） **"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
@@ -393,17 +395,21 @@
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
 		"chi"		"**炎魔使用了激光（蹲下躲避.有两道） **"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
 		"chi"		"**炎魔使用了黑洞（按住S或使用墙） **"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG USED POISON <<<"
 	{
 		"chi"		"**炎魔使用了剧毒（看清位置左右躲避） **"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
 		"chi"		"**炎魔使用了推（按住W或使用墙） **"
+		"ico"   "icon_fire"
 	}
 }
