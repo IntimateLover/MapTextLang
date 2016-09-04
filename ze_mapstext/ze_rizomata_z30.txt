@@ -7,7 +7,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**坚守30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -16,7 +16,7 @@
 	"*** HOLD 20 seconds ***"
 	{
 		"chi"		"**坚守20秒 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
@@ -25,7 +25,7 @@
 	"*** Hold 25 seconds ***"
 	{
 		"chi"		"**坚守25秒 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"*** EARTH STOMP ***"
 	{
@@ -68,12 +68,12 @@
 	"*** Door opens 25 seconds ***"
 	{
 		"chi"		"**门将在25秒后开启 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"*** Door opens 35 seconds ***"
 	{
 		"chi"		"**门将在35秒后开启 **"
-		"DoorCountDown" "35"
+		"DoorCountDown"		"35"
 	}
 	"*** ICICLE FALL ***"
 	{
@@ -93,7 +93,7 @@
 	"*** FROZEN WATER ***"
 	{
 		"chi"		"**千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管）**"
-		"DoorCountDown" "7"
+		"DoorCountDown"		"7"
 		"ico"		"icon_fire"
 	}
 	"*** RISING WATER ***"
@@ -124,7 +124,7 @@
 	"*** Hold 50 seconds ***"
 	{
 		"chi"		"**坚守50秒 **"
-		"DoorCountDown" "50"
+		"DoorCountDown"		"50"
 	}
 	"*** UPDRAFT ***"
 	{
@@ -144,5 +144,9 @@
 	{
 		"chi"		"**龙卷风 **"
 		"ico"		"icon_fire"
+	}
+	"*** CRUSTAL MOVEMENT ***"
+	{
+		"chi"		"** **"
 	}
 }

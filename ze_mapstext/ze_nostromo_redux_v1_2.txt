@@ -2,147 +2,143 @@
 {
 	">>>ze_nostromo_redux_v1_2. Map by AngryAngus3<<<"
 	{
-		"chi"		"**地图：诺斯托罗莫归来 地图制作：AngryAngus3 **"
+		"chi"		"** **"
 	}
 	">>>Alert, hypersleep interrupted! MU-TH-ER has detected non human life forms on the ship!<<<"
 	{
-		"chi"		"**警报：休眠被打断!MU-TH-ER已经探测到非人类的生命形式在船上! **"
+		"chi"		"** **"
 	}
 	">>>You must navigate the ship and find Captian Dallas' keycard!<<<"
 	{
-		"chi"		"**你必须在船上找到队长达拉斯卡！ **"
+		"chi"		"** **"
 	}
 	">>>With it you can access MU-TH-ER's mainframe and gain access to engineering! <<<"
 	{
-		"chi"		"**通过它你可以访问MU-TH-ER主机并获得解决方法! **"
+		"chi"		"** **"
 	}
 	">>>Activate the self destruct mechanism and get the hell off this ship, don't let the alien escape!<<<"
 	{
-		"chi"		"**激活自毁机制！离开这艘船.不要让外星人逃出来！ **"
+		"chi"		"** **"
 	}
 	">>>Good Luck!<<<"
 	{
-		"chi"		"**祝你好运! **"
+		"chi"		"** **"
 	}
 	">>>MU-TH-ER reports the Aliens are using the ship's vents to move around! Be careful!<<<"
 	{
-		"chi"		"**MU-TH-ER：警报！外星人正在使用船上的通风口走动！小心！ **"
+		"chi"		"** **"
 	}
 	"Hold off for 15 seconds and wait for the ladder access override!"
 	{
-		"chi"		"**守住15秒！等待启用梯子 **"
-		"DoorCountDown" "15"
+		"chi"		"** **"
 	}
 	">>> 5 seconds left! <<<"
 	{
-		"chi"		"**还剩5秒 **"
+		"chi"		"** **"
 	}
 	"Make a run to B deck! I hope you packed a flashlight today!"
 	{
-		"chi"		"**跑到B甲板！我希望你拿了一个手电筒！ **"
+		"chi"		"** **"
 	}
 	">>>Infirmary vent override in 15 seconds!<<<"
 	{
-		"chi"		"**守住医务室通风口15秒！ **"
+		"chi"		"** **"
 	}
 	">>>Vent opening in 5 seconds<<<"
 	{
-		"chi"		"**通风口在5秒后开启 **"
+		"chi"		"** **"
 	}
 	"Override the door controls to gain access to the Garage area!"
 	{
-		"chi"		"**正在获得车库门的权限以开启进入车库区域的通道！ **"
+		"chi"		"** **"
 	}
 	"Door override initiated, please wait 15 seconds"
 	{
-		"chi"		"**门正在启动.请等待15秒 **"
-		"DoorCountDown" "15"
+		"chi"		"** **"
 	}
 	">>>Elevator Powering up in 5 seconds!<<<"
 	{
-		"chi"		"**电梯5秒后启动 **"
+		"chi"		"** **"
 	}
 	">>>Hold off for 30 seconds and wait for the vent doors to open!<<<"
 	{
-		"chi"		"**守住30秒.等待排气门打开 **"
-		"DoorCountDown" "30"
+		"chi"		"** **"
 	}
 	">>>5 seconds left!<<<"
 	{
-		"chi"		"**还剩5秒 **"
+		"chi"		"** **"
 	}
 	">>>GO GO GO!<<<"
 	{
-		"chi"		"**走！ **"
+		"chi"		"** **"
 	}
 	">>> Airlock button will activate in 15 seconds <<<"
 	{
-		"chi"		"**气阀按钮将在15秒后启动 **"
+		"chi"		"** **"
 	}
 	">>> 5 seconds until airlock button activates <<<"
 	{
-		"chi"		"**5秒后气阀按钮激活 **"
+		"chi"		"** **"
 	}
 	">>> Use airlock button to flush Aliens into space! <<<"
 	{
-		"chi"		"**使用按钮把外星人冲出飞船 **"
+		"chi"		"** **"
 	}
 	"Flamethrower picked up. Use to push aliens away!"
 	{
-		"chi"		"**火焰喷射器被拿起.使用它推开外星人! **"
+		"chi"		"** **"
 	}
 	"'***Flamethrower is charging in 3 seconds!***'"
 	{
-		"chi"		"**火焰喷射器只有3秒燃料 **"
+		"chi"		"** **"
 	}
 	"'***Flamethrower recharging, 10 seconds!***'"
 	{
-		"chi"		"**火焰喷射器充电中.10秒！ **"
+		"chi"		"** **"
 	}
 	"'***Flamethrower ready!***'"
 	{
-		"chi"		"**火焰喷射器准备！ **"
+		"chi"		"** **"
 	}
 	">>>Access MU-TH-UR by using the keyboard!<<<"
 	{
-		"chi"		"**通过使用键盘访问MU-TH-UR！ **"
+		"chi"		"** **"
 	}
 	">>>Access Granted<<<"
 	{
-		"chi"		"**允许访问 **"
+		"chi"		"** **"
 	}
 	">>>Interface 2037 Ready For Inquiry<<<"
 	{
-		"chi"		"**接口2037准备查询 **"
+		"chi"		"** **"
 	}
 	">>>Request Clarification: What is Special Order 937?<<<"
 	{
-		"chi"		"**请求阐明：什么是特别定做937？ **"
+		"chi"		"** **"
 	}
 	">>>Priority one. Insure return of organism for analysis.<<<"
 	{
-		"chi"		"**重点之一.对生物体的保险收益进行分析 **"
+		"chi"		"** **"
 	}
 	">>>All other considerations secondary. Crew Expendable<<<"
 	{
-		"chi"		"**所有其他考虑都是次要的.船员都是消耗品 **"
+		"chi"		"** **"
 	}
 	">>>Request access to Engineering Service Passage<<<"
 	{
-		"chi"		"**请求访问工程服务通道 **"
+		"chi"		"** **"
 	}
 	">>>Access Granted! GO GO GO!<<<"
 	{
-		"chi"		"**允许访问！走！ **"
+		"chi"		"** **"
 	}
 	">>>One person must initiate the self destruct sequence!<<<"
 	{
-		"chi"		"**一个人必须启动自毁程序 **"
+		"chi"		"** **"
 	}
 	">>>Self destruct sequence preparing, hold off for 20 seconds!"
 	{
-		"chi"		"**自毁程序启动.守住20秒 **"
-		"DoorCountDown" "20"
+		"chi"		"** **"
 	}
 	"Airlock cycling, get out of there!"
 	{
@@ -150,28 +146,27 @@
 	}
 	">>>DANGER! THE EMERGENCY DESTRUCT SYSTEM IS NOW ACTIVATED!<<<"
 	{
-		"chi"		"**危险!紧急自毁系统现在已经激活! **"
+		"chi"		"** **"
 	}
 	">>>THE SHIP WILL DETONATE IN T-MINUS 40 SECONDS!<<<"
 	{
-		"chi"		"**该船将在倒计时40秒后爆炸！ **"
-		"DoorCountDown" "40"
+		"chi"		"** **"
 	}
 	">>>GO! GO! GO!<<<"
 	{
-		"chi"		"**走！ **"
+		"chi"		"** **"
 	}
 	">>>Shuttle departs in 10 seconds! Doors are shutting in 5 seconds!<<<"
 	{
-		"chi"		"**飞船10秒后起飞.门5秒后关闭 **"
+		"chi"		"** **"
 	}
 	">>>Shuttle has left!<<<"
 	{
-		"chi"		"**飞船已离开 **"
+		"chi"		"** **"
 	}
 	">>>T-MINUS 10 SECONDS<<<"
 	{
-		"chi"		"**倒计时10秒 **"
+		"chi"		"** **"
 	}
 	">>>5<<<"
 	{
@@ -195,30 +190,34 @@
 	}
 	">>>You must navigate the ship and find Captian Dallas keycard!<<<"
 	{
-		"chi"		"**你必须在船上找到队长达拉斯卡！ **"
+		"chi"		"** **"
 	}
 	">>>With it you can access MU-TH-ERs mainframe and gain access to engineering! <<<"
 	{
-		"chi"		"**通过它你可以访问MU-TH-ERs主机！ **"
+		"chi"		"** **"
 	}
 	">>>Activate the self destruct mechanism and get the hell off this ship, dont let the alien escape!<<<"
 	{
-		"chi"		"**激活自毁程序.离开这该死的船.不要让外星人逃脱！ **"
+		"chi"		"** **"
 	}
 	">>>MU-TH-ER reports the Aliens are using the ships vents to move around! Be careful!<<<"
 	{
-		"chi"		"**mu-th-er警报：外星人正在使用船舱通风口进行移动！小心! **"
+		"chi"		"** **"
 	}
 	"***Flamethrower is charging in 3 seconds!***"
 	{
-		"chi"		"**火焰喷射器有3秒燃料！ **"
+		"chi"		"** **"
 	}
 	"***Flamethrower recharging, 10 seconds!***"
 	{
-		"chi"		"**火焰喷射器充电中.10秒！ **"
+		"chi"		"** **"
 	}
 	"***Flamethrower ready!***"
 	{
-		"chi"		"**火焰喷射器已经可以使用！ **"
+		"chi"		"** **"
+	}
+	"Prod picked up. Aim at alien for shock damage!"
+	{
+		"chi"		"** **"
 	}
 }

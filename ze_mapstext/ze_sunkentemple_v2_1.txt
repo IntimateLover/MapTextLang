@@ -7,7 +7,7 @@
 	">>> ????? will open in 30 seconds <<<"
 	{
 		"chi"		"**大门30秒后开启 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>> Wall has been picked <<<"
 	{
@@ -40,7 +40,7 @@
 	">>> Gate will open in 30 seconds <<<"
 	{
 		"chi"		"**大门将在30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>> Gate will open in 5 seconds <<<"
 	{
@@ -49,7 +49,7 @@
 	">>> Lower gate will open in 40 seconds <<<"
 	{
 		"chi"		"**下方大门将在40秒后打开 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	">>> Upper gate will open in 25 seconds <<<"
 	{
@@ -74,7 +74,7 @@
 	">>> Door will open in 25 seconds <<<"
 	{
 		"chi"		"**门25秒后开启 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>> Gate will open in 15 seconds <<<"
 	{
@@ -87,7 +87,7 @@
 	">>> Wall will break in 25 seconds <<<"
 	{
 		"chi"		"**墙壁将在25秒后破碎 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>> All levers has been pressed <<<"
 	{
@@ -116,5 +116,21 @@
 	">>> YELLOW <<<"
 	{
 		"chi"		"**黄 **"
+	}
+	">>> Thanks for playing <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Map made by Ripsaw <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Thanks to Luffaren for the lever model <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Thanks to Syoudous & Enviolinador for help  Tips"
+	{
+		"chi"		"** **"
 	}
 }
