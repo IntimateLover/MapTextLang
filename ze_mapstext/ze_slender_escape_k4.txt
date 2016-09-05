@@ -406,166 +406,167 @@
 	}
 	"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**面条人已死亡-逃离别墅 **"
 	}
 	"** FINAL STAND **"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一战-守住 **"
 	}
 	"** GOGOGO **"
 	{
-		"chi"		"** **"
+		"chi"		"**走 **"
 	}
 	"** YOU DID IT **"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了 **"
 	}
 	"** YOU ESCAPED SLENDER!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你从面条人的别墅里逃出来了 **"
 	}
 	"** .. OR NOT ? **"
 	{
-		"chi"		"** **"
+		"chi"		"**..不是吗？ **"
 	}
 	"** [SURVIVAL] ROUND 1 **"
 	{
-		"chi"		"** **"
+		"chi"		"**[生存]第一轮 **"
 	}
 	"** [MODE] SLENDERMAN **"
 	{
-		"chi"		"** **"
+		"chi"		"**[模式]瘦长鬼影 **"
 	}
 	"** [MAP] SCHOOL **"
 	{
-		"chi"		"** **"
+		"chi"		"**[地图]学校 **"
 	}
 	"** [ITEMS] Lantern - Glowstick - Flashlight **"
 	{
-		"chi"		"** **"
+		"chi"		"**[物品]灯笼-荧光棒-手电筒  **"
 	}
 	"** [ZMITEM] SLENDERZOMBIES **"
 	{
-		"chi"		"** **"
+		"chi"		"**[僵尸物品]僵尸面条人 **"
 	}
 	"** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**[提示]赢3场开启最后的疯狂模式 **"
 	}
 	"** Collect all 8 Pages **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到8张纸条 **"
 	}
 	"** SLENDERZOMBIE INCOMING **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸面条人来袭 **"
 	}
 	"** Pages 18 **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸条1 **"
 	}
 	"** Pages 28 **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸条2 **"
 	}
 	"** Pages 38 **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸条3 **"
 	}
 	"** Pages 48 **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸条4 **"
 	}
 	"** Pages 58 **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸条5 **"
 	}
 	"** [MODE] BARRELMODE **"
 	{
-		"chi"		"** **"
+		"chi"		"** [模式]油桶王 **"
 	}
 	"** [MAP] FOREST **"
 	{
-		"chi"		"** **"
+		"chi"		"**[地图]森林 **"
 	}
 	"** [ITEMS] BARRELS ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[物品]油桶 **"
 	}
 	"** [ZMITEM] BARRELBOSS **"
 	{
-		"chi"		"** **"
+		"chi"		"**[僵尸物品]油桶王 **"
 	}
 	"** BARRELS BARRELS EVERYWHERE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**每个地方都是桶！ **"
 	}
 	"** BARRELBOSS INCOMING **"
 	{
-		"chi"		"** **"
+		"chi"		"**油桶王来袭 **"
 	}
 	"** NUKE in 180 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**180秒后核爆 **"
+		"DoorCountDown"		"180"
 	}
 	"** NUKE in 150 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**150秒后核爆 **"
 	}
 	"** NUKE in 120 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**120秒后核爆 **"
 	}
 	"** NUKE in 90 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**90秒后核爆 **"
 	}
 	"** NUKE in 60 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒后核爆 **"
 	}
 	"** NUKE in 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后核爆 **"
 	}
 	"** 30 Seconds left until slenderman RAPE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"** Pages 68 **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸条6 **"
 	}
 	"** [MAP] PRISON **"
 	{
-		"chi"		"** **"
+		"chi"		"**[地图]监狱 **"
 	}
 	"** [MODE] MADNESS! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[模式]疯狂！ **"
 	}
 	"** [ITEMS] Lantern - Glowstick - Monkey BOMB **"
 	{
-		"chi"		"** **"
+		"chi"		"**[物品]灯笼-荧光棒-猴子炸弹**"
 	}
 	"** [ZMITEM] SLENDERFIREZOMBIES! **"
 	{
-		"chi"		"** **"
+		"chi"		"**[僵尸物品]僵尸面条人 **"
 	}
 	"** SURVIVE **"
 	{
-		"chi"		"** **"
+		"chi"		"**生存下来 **"
 	}
 	"** Congratulations - you won SURVIVAL 1 **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你-你赢了第一轮 **"
 	}
 	"** [SURVIVAL] ROUND 2 **"
 	{
-		"chi"		"** **"
+		"chi"		"**[生存]第二轮 **"
 	}
 	"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**[提示]赢两场开启疯狂模式 **"
 	}
 }
