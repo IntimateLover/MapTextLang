@@ -2,19 +2,19 @@
 {
 	"[Music] si-ke - The star in esclipse"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐] si-ke - The star in esclipse**"
 	}
 	"***Zombie picked up Freeze***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了僵尸冰冻 **"
 	}
 	"[Music] Dj Taka meet Dj Yoshitaka - Elemental Creation"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐] Dj Taka meet Dj Yoshitaka - Elemental Creation**"
 	}
 	"***Ammo picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**无限子弹已被拿起 **"
 	}
 	"23 . STAGGER"
 	{
@@ -46,11 +46,11 @@
 	}
 	"***Holy picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极已被拿起 **"
 	}
 	"***Holy used***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极已使用 **"
 	}
 	"38 . STAGGER"
 	{
@@ -98,11 +98,12 @@
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS准备使用它的终极技能 **"
 	}
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒之后每个人都将死亡 **"
+		"DoorCountDown" "15"
 	}
 	"75 . STAGGER"
 	{
@@ -122,63 +123,65 @@
 	}
 	"***Ammo used***"
 	{
-		"chi"		"** **"
+		"chi"		"**无限子弹已使用 **"
 	}
 	"[Music] Camelia - Ultimate Ascension"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐] Camelia - Ultimate Ascension**"
 	}
 	"***Helicopter 2 explode in 3s***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机2将在3秒后爆炸 **"
 	}
 	"[Music] xi - time to air -Fly high Remix-"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐] xi - time to air -Fly high Remix-**"
 	}
 	"***Modified by Reflelia***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图修改：Reflelia **"
 	}
 	"***CURRENT MODE >>>CUSTOM<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>自定义<<<**"
 	}
 	"***CURRENT MODE >>>SOFA<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>沙发<<< **"
 	}
 	"***Break all walls and boxes with sofa***"
 	{
-		"chi"		"** **"
+		"chi"		"**用沙发打破所有的箱子和铁丝网 **"
+		"ico"   "icon_fire" 
 	}
 	"***A Train is coming...***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车要来了… **"
+		"ico"   "icon_fire" 
 	}
 	"***AFK Teleport in 8 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在8秒后传送 **"
 	}
 	"***AFK Teleport in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在15秒后传送 **"
 	}
 	"***AFK Teleport in 6 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在6秒后传送 **"
 	}
 	"***Level Failed***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	"***Timed Out***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们超时了 **"
 	}
 	"***CURRENT MODE >>>EXTREME<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>BOSS<<< **"
 	}
 	"***Nuke launched***"
 	{
