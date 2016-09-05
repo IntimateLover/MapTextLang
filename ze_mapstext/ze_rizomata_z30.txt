@@ -138,7 +138,8 @@
 	}
 	"*** DOWNBURST ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下冲气流 **"
+		"ico"		"icon_fire"
 	}
 	"*** TORNADO ***"
 	{
@@ -147,6 +148,7 @@
 	}
 	"*** CRUSTAL MOVEMENT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地壳运动（往山的左右两边跳上去，一直按着跳直到跳过去） **"
+		"ico"		"icon_fire"
 	}
 }
