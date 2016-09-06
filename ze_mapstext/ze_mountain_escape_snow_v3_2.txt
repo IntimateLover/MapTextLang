@@ -103,7 +103,7 @@
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
 		"chi"		"**15秒之后每个人都将死亡 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"75 . STAGGER"
 	{
@@ -152,12 +152,12 @@
 	"***Break all walls and boxes with sofa***"
 	{
 		"chi"		"**用沙发打破所有的箱子和铁丝网 **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	"***A Train is coming...***"
 	{
 		"chi"		"**火车要来了… **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	"***AFK Teleport in 8 seconds***"
 	{
@@ -316,6 +316,10 @@
 		"chi"		"** **"
 	}
 	"***Ice Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***Speed picked up***"
 	{
 		"chi"		"** **"
 	}

@@ -43,124 +43,159 @@
 	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
 	{
 		"chi"		"**登船平台在35秒后延伸完毕 **"
-		"DoorCountDown" "35"
-  	}
+		"DoorCountDown"		"35"
 	}
-	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	"> ROCKET LAUNCHER has been acquired"
 	{
-		"chi"		"**登船平台在15秒后延伸完毕 **"
+		"chi"		"** **"
 	}
-	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
 	{
-		"chi"		"**前方的武器库被盗了 **"
+		"chi"		"** **"
 	}
-	">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	"> MASTERFUL DIFFICULTY"
 	{
-		"chi"		"**登船平台在5秒后延伸完毕 **"
+		"chi"		"** **"
 	}
-	">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
 	{
-		"chi"		"**登船平台已延伸完毕 **"
+		"chi"		"** **"
 	}
-	">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
 	{
-		"chi"		"**破坏修理船的大门 **"
+		"chi"		"** **"
 	}
-	">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	"> GODLIKE DIFFICULTY"
 	{
-		"chi"		"**炸药已经埋下！ **"
+		"chi"		"** **"
 	}
-	">>> EXPLOSION IN 40 SECONDS <<<"
+	">>> DREADNOUGHT DETECTED! <<<"
 	{
-		"chi"		"**炸弹将在40秒后爆炸（不要贴门.会被炸死） **"
-		"DoorCountDown" "40"
+		"chi"		"** **"
 	}
-	">>> EXPLOSION IN 20 SECONDS <<<"
+	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
 	{
-		"chi"		"**炸弹将在20秒后爆炸（不要贴门.会被炸死） **"
-	}
-	">>> EXPLOSION IN 5 SECONDS <<<"
-	{
-		"chi"		"**炸弹将在5秒后爆炸（不要贴门.会被炸死） **"
-		"ico"   "icon_fire" 
-	}
-	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
-	{
-		"chi"		"**你必须打开修理船的后门 **"
-	}
-	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
-	{
-		"chi"		"**提示-你可以做到这一点.通过站在靠近船舶后部的拉杆附近 **"
-	}
-	"> REDEEMER has been acquired"
-	{
-		"chi"		"**小型核弹已被拿起（范围内的僵尸会被炸死） **"
+		"chi"		"** **"
 	}
 	">>> THE REAR DOOR HAS BEEN OPENED <<<"
 	{
-		"chi"		"**后门已经打开了 **"
+		"chi"		"** **"
 	}
 	">>> REINFORCEMENTS ARE ON THE WAY! <<<"
 	{
-		"chi"		"**增援部队正在路上！ **"
+		"chi"		"** **"
 	}
 	">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
 	{
-		"chi"		"**你必须打开修理船的侧门 **"
+		"chi"		"** **"
 	}
 	">>> WARNING! INBOUND AIRSTRIKE! <<<"
 	{
-		"chi"		"**警告！空袭入境！ **"
+		"chi"		"** **"
 	}
 	">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
 	{
-		"chi"		"**立即在维修船内寻求庇护！ **"
+		"chi"		"** **"
 	}
 	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
 	{
-		"chi"		"**侧门将在45秒后开启！ **"
-		"DoorCountDown" "45"
+		"chi"		"** **"
 	}
 	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
 	{
-		"chi"		"**侧门将在20秒后开启！ **"
+		"chi"		"** **"
 	}
 	">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
 	{
-		"chi"		"**侧门将在5秒后开启！ **"
+		"chi"		"** **"
 	}
 	">>> SIDE DOORS ARE OPENING <<<"
 	{
-		"chi"		"**侧门已打开 **"
+		"chi"		"** **"
 	}
 	">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
 	{
-		"chi"		"**你必须进入n.e.x.u.s.拖车 **"
+		"chi"		"** **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车将在在40秒后打开舱口 **"
-		"DoorCountDown" "40"
+		"chi"		"** **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车将在在20秒后打开舱口 **"
+		"chi"		"** **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车将在在5秒后打开舱口 **"
+		"chi"		"** **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车舱口已开启 **"
+		"chi"		"** **"
 	}
 	">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
 	{
-		"chi"		"**现在你可以取回n.e.x.u.s.导弹 **"
+		"chi"		"** **"
+	}
+	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	"> EXPERIENCED DIFFICULTY"
+	{
+		"chi"		"** **"
+	}
+	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> EXPLOSION IN 40 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> EXPLOSION IN 20 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> EXPLOSION IN 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"chi"		"** **"
+	}
+	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	{
+		"chi"		"** **"
 	}
 	">>> WE ARE LEAVING IN 10 SECONDS! <<<"
 	{
-		"chi"		"**我们将在10秒后离开 **"
+		"chi"		"** **"
 	}
 	">>> 5 <<<"
 	{
@@ -182,61 +217,20 @@
 	{
 		"chi"		"** **"
 	}
-	">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
-	{
-		"chi"		"**清除剩余在卡车上的敌人！ **"
-	}
-	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
-	{
-		"chi"		"**n.e.x.u.s.导弹已获得 **"
-	}
-	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
-	{
-		"chi"		"** **"
-	}
-	"> EXPERIENCED DIFFICULTY"
-	{
-		"chi"		"** **"
-	}
 	"> LIGHTING RIFLE has been acquired"
 	{
-		"chi"		"**照明步枪已被拿起 **"
+		"chi"		"** **"
+	}
+	"> REDEEMER has been acquired"
+	{
+		"chi"		"** **"
 	}
 	"> FLAK CANNON has been acquired"
 	{
-		"chi"		"**高射炮已被拿起 **"
+		"chi"		"** **"
 	}
-	">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
+	">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
 	{
-		"chi"		"**卡车上没有检测到友军 **"
-	}
-	"> ROCKET LAUNCHER has been acquired"
-	{
-		"chi"		"**火箭发射器已被拿起 **"
-	}
-	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
-	{
-		"chi"		"**下关难度：史诗 **"
-	}
-	"> MASTERFUL DIFFICULTY"
-	{
-		"chi"		"**本关难度：史诗 **"
-	}
-	">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
-	{
-		"chi"		"**下关难度：天神 **"
-	}
-	"> GODLIKE DIFFICULTY"
-	{
-		"chi"		"**本关难度：天神 **"
-	}
-	">>> DREADNOUGHT DETECTED! <<<"
-	{
-		"chi"		"**本关难度：无畏 **"
-	}
-	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
-	{
-		"chi"		"**不能射击货舱！试图摧毁发动机或杀死司机！ **"
-		"ico"   "icon_fire" 
+		"chi"		"** **"
 	}
 }

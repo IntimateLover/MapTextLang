@@ -356,11 +356,11 @@
 	}
 	">>> BALROG IS COMING <<<"
 	{
-		"chi"		"**炎魔来了 **"
+		"chi"		">>>炎魔出现了，快干掉它<<<"
 	}
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
-		"chi"		"**炎魔使用了终极（跑到平台最后方） **"
+		"chi"		">>>炎魔释放了秒杀法阵，往后退！<<<"
 	}
 	">>> BALROG IS HURT <<<"
 	{
@@ -384,26 +384,30 @@
 	}
 	">>> BALROG USED FIRE <<<"
 	{
-		"chi"		"**炎魔使用了火（看清位置左右躲避） **"
+		"chi"		">>>炎魔释放了火，看清楚位置左右躲避<<<"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
-		"chi"		"**炎魔恢复了150HP **"
+		"chi"		">>>炎魔回复了150HP<<<"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
-		"chi"		"**炎魔使用了激光（蹲下躲避.有两道） **"
+		"chi"		">>>两连刀来临，蹲下！！！！<<<"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
-		"chi"		"**炎魔使用了黑洞（按住S或使用墙） **"
+		"chi"		">>>炎魔释放了黑洞，想办法远离它<<<"
 	}
 	">>> BALROG USED POISON <<<"
 	{
-		"chi"		"**炎魔使用了剧毒（看清位置左右躲避） **"
+		"chi"		">>>炎魔释放了毒，左右躲避<<<"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
-		"chi"		"**炎魔使用了推（按住W或使用墙） **"
+		"chi"		">>>炎魔使用了推，别被它推下去了<<<"
+	}
+	">>> ADMIN CHANGED TO STAGE 5 <<<"
+	{
+		"chi"		"** **"
 	}
 }
