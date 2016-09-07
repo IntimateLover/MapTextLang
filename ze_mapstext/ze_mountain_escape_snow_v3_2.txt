@@ -185,55 +185,56 @@
 	}
 	"***Nuke launched***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹发射 **"
 	}
 	"***Wind picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**风已被拿起 **"
 	}
 	"***Snow picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**泡泡已被拿起 **"
 	}
 	"***Snow used***"
 	{
-		"chi"		"** **"
+		"chi"		"**泡泡使用 **"
 	}
 	"***Heal picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已被拿起 **"
 	}
 	"***Teleport activates in few seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**在几秒钟后传送激活 **"
 	}
 	"***Heal used***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已使用 **"
 	}
 	"***Wind Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**风已使用 **"
 	}
 	"***Zombie teleport in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后传送 **"
 	}
 	"***CURRENT MODE >>>NORMAL<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式>>>普通<<< **"
 	}
 	"***30 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
+		"DoorCountDown" "30"
 	}
 	"***Jump portal opened***"
 	{
-		"chi"		"** **"
+		"chi"		"**高空跳跃已开启 **"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩10秒**"
 	}
 	"***5***"
 	{
@@ -257,31 +258,32 @@
 	}
 	"***Nuke impact***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹爆炸 **"
 	}
 	"***Player picked up Radio***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起点歌机 **"
 	}
 	"***Zombie picked up Gravity***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了黑洞 **"
 	}
 	"***Barrel picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**桶已被拿起 **"
 	}
 	"***Ice picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰已被拿起 **"
 	}
 	"***Ice Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰已使用 **"
 	}
 	"***Teleport Enable in 50 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**50秒后激活传送点 **"
+		"DoorCountDown" "50"
 	}
 	"[Music] Xi - Anima"
 	{
@@ -297,27 +299,31 @@
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***Wind Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了风（按住反方向键） **"
+		"ico"   "icon_fire" 
 	}
 	"***Gravity Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了黑洞（按住S键） **"
+		"ico"   "icon_fire" 
 	}
 	"***Zombie picked up Nuke***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸核弹已被拿起 **"
 	}
 	"***Train aboarded***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车来了 **"
+		"ico"   "icon_fire" 
 	}
 	"***Ice Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了冰 **"
+		"ico"   "icon_fire" 
 	}
 	"***Speed picked up***"
 	{
