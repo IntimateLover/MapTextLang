@@ -317,10 +317,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**电梯15秒后激活 **"
+		"DoorCountDown"		"15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁30秒后破碎 **"
+		"DoorCountDown"		"30"
 	}
 	"*** Dont Touch Water ***"
 	{
