@@ -217,30 +217,33 @@
 	}
 	">>> HES DEAD. DEFEND UNTIL GATES OPEN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他死了，守住直到门打开 **"
 	}
 	"### ACTIVE THE LEVER TO OPEN GATES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**激活开关 **"
 	}
 	"### HOLD BOTH SIDES FOR 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**守住两边30秒 **"
+		"DoorCountDown"		"30"
 	}
 	"### LEAVE THE ROOM OR DEAD ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离开这个房间或死亡 **"
 	}
 	"### HOLD THIS HALL FOR A BIT ###"
 	{
-		"chi"		"** **"
+		"chi"		"**在这个大厅守一会(门碎马上走) **"
+		"ico"		"icon_fire"
 	}
 	"### SHOOT THE CROSS IN THE MIDDLE ROOM ###"
 	{
-		"chi"		"** **"
+		"chi"		"**射击中间房间的十字架 **"
+		"ico"		"icon_fire"
 	}
 	"### TO OPEN CHURCH GATES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**打开教堂大门 **"
 	}
 }
