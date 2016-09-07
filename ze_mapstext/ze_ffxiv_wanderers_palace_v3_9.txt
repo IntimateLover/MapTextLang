@@ -303,10 +303,12 @@
 	"***Tempest Wing***"
 	{
 		"chi"		"**暴风之翼（切刀跑到平台最后方按住W键） **"
+		"ico"		"icon_fire"
 	}
 	"***Heavens Fall***"
 	{
 		"chi"		"**天坠（躲避天上柱子.不要被砸到.降到地板的时候按W防推） **"
+		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime dead***"
 	{
@@ -342,7 +344,8 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**真憾地（看清位置左.右.中间.躲避） **"
+		"chi"		"**真·憾地（看清位置左.右.中间.躲避） **"
+		"ico"		"icon_fire"
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
