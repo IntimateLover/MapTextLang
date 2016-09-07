@@ -259,7 +259,7 @@
 	}
 	"***Bahamut Prime is Casting now***"
 	{
-		"chi"		"**射击巴哈姆特 **"
+		"chi"		"**巴哈姆特准备攻击 **"
 	}
 	"***Akh Morn***"
 	{
@@ -303,6 +303,7 @@
 	"***Tempest Wing***"
 	{
 		"chi"		"**暴风之翼（切刀跑到平台最后方按住W键） **"
+		"ico"   "icon_fire"
 	}
 	"***Heavens Fall***"
 	{
@@ -315,10 +316,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**电梯15秒后激活 **"
+		"DoorCountDown" "15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁30秒后破碎 **"
+		"DoorCountDown" "30"
 	}
 	"*** Dont Touch Water ***"
 	{
@@ -342,7 +345,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**真憾地（看清位置左.右.中间.躲避） **"
+		"chi"		"**真·憾地（看清位置左.右.中间.躲避） **"
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
