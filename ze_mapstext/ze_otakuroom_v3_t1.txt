@@ -2,35 +2,35 @@
 {
 	"***Map by Tenshi***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：天子 地图翻译：蓬莱山帅比♪**"
 	}
 	"***Inspiration comes from kz_otakuroom***"
 	{
-		"chi"		"** **"
+		"chi"		"**本地图是根据kz_otakuroom制作 **"
 	}
 	"***Special thanks:GemaYue , Altima***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：GemaYue , Altima **"
 	}
 	"***Particles help by Moray***"
 	{
-		"chi"		"** **"
+		"chi"		"**模型制作： Moray**"
 	}
 	"***This map contains 18 forbidden content***"
 	{
-		"chi"		"** **"
+		"chi"		"**本地图包含18禁内容 **"
 	}
 	"***Thanks for playing***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢你玩本地图 **"
 	}
 	"***Level 1 : Bed Bed Bed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关：床 **"
 	}
 	"***Door breaking in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门20秒后开启 **"
 	}
 	"***5 seconds***"
 	{
@@ -38,43 +38,48 @@
 	}
 	"***Door breaking in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门30秒后开启 **"
+		"DoorCountDown" "30"
 	}
 	"***Paper aircraft comes in about 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**纸飞机大概20秒后离开 **"
+		"DoorCountDown" "20"
 	}
 	"***Paper aircraft leaves in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**纸飞机10秒后离开 **"
 	}
 	"***Run to the Card and dodge the cubes***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑到卡片处并躲避方块 **"
 	}
 	"***Jump on the Card , only one will leave***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳到卡片上.只有一个人能离开 **"
 	}
 	"***Card leaves in 15 seconds , hold!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**卡片15秒后离开.守住 **"
+		"DoorCountDown" "15"
 	}
 	"***Door breaking in 25 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门25秒后开启 **"
+		"DoorCountDown" "25"
 	}
 	"***AFK teleported in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家10秒后传送 **"
 	}
 	"***Card leaves in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**卡片40秒后离开 **"
+		"DoorCountDown" "40"
 	}
 	"***nuke in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹10秒后发射 **"
 	}
 	"***3***"
 	{
@@ -90,106 +95,114 @@
 	}
 	"***Level 2 : Efreet***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关：炎魔 **"
 	}
 	"***Run to the keyboard***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑到键盘那里 **"
 	}
 	"***Press TENSHI***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下T.E.N.S.H.I.键 **"
 	}
 	"***Good job , the password is correct***"
 	{
-		"chi"		"** **"
+		"chi"		"**干的好.密码正确 **"
 	}
 	"***Mouse moving in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**鼠标10秒后移动 **"
 	}
 	"***Hold 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"***Low Gravity open***"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力开启 **"
 	}
 	"***Run forward and find another card***"
 	{
-		"chi"		"** **"
+		"chi"		"**向前跑，找到另一张卡片 **"
 	}
 	"***Hold 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
+		"DoorCountDown" "15"
 	}
 	"***Normal Gravity in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**重力5秒后恢复 **"
 	}
 	"***Jump on the platform***"
 	{
-		"chi"		"** **"
+		"chi"		"**在平台上跳 **"
 	}
 	"***door breaking in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门10秒后开启 **"
 	}
 	"***Heal has been picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已被拿起 **"
 	}
 	"***door closing in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后关本**"
 	}
 	"***Efreet used Elohim Gibor:healed 150HP***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了奶：恢复150HP **"
 	}
 	"***Efreet used Camael:Slash. Crouch!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了斜刀：躲避 **"
+		"ico"   "icon_fire"
 	}
 	"***Efreet used fire***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了火 **"
+		"ico"   "icon_fire"
 	}
 	"***Efreet used Space earthquake***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了地震 **"
+		"ico"   "icon_fire"
 	}
 	"***Nade do more damage***"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷能造成更多的伤害 **"
 	}
 	"***HOLD 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	"***Jump***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳 **"
 	}
 	"***Card leaves in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**叶子10秒后离开 **"
 	}
 	"***Its dodge laser time***"
 	{
-		"chi"		"** **"
+		"chi"		"**躲避激光 **"
+		"ico"   "icon_fire"
 	}
 	"***Face the direction of the arrow***"
 	{
-		"chi"		"** **"
+		"chi"		"**走有箭头的地方 **"
+		"ico"   "icon_fire"
 	}
 	"***Its coming***"
 	{
-		"chi"		"** **"
+		"chi"		"**它来了 **"
 	}
 	"*** Fail Round***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 }
