@@ -27,14 +27,17 @@
 	"** 15 seconds **"
 	{
 		"chi"		"** **"
+		"DoorCountDown" "15"
 	}
 	"** 20 seconds **"
 	{
 		"chi"		"** **"
+		"DoorCountDown" "20"
 	}
 	"** 30 seconds **"
 	{
 		"chi"		"** **"
+		"DoorCountDown" "30"
 	}
 	"** Nano Grid2 22 **"
 	{
@@ -42,6 +45,6 @@
 	}
 	"** HUMANS WIN **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类获胜 **"
 	}
 }
