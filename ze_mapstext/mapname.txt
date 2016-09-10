@@ -1060,11 +1060,6 @@
 	{
 		"chi"		"小鸡工厂之旅"
 	}
-	"ze_ffxiv_wanderers_palace_v2_8B"
-	{
-		"chi"		"最终幻想14：流浪者宫殿"
-		"credit"		"700"
-	}
 	"ze_ancient_wrath_v1_2"
 	{
 		"chi"		"生化金字塔"
@@ -1160,10 +1155,6 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffxiv_wanderers_palace_v2_11"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_gris_b2f"
 	{
 		"chi"		"此地图暂无译名"
@@ -1252,10 +1243,6 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_ffxiv_wanderers_palace_v3_6f"
-	{
-		"chi"		"最终幻想14：流浪者宫殿"
-	}
 	"ze_mountain_escape_snow_v3_2"
 	{
 		"chi"		"爬雪山"
@@ -1272,7 +1259,7 @@
 	{
 		"chi"		"舞台剧"
 	}
-	"ze_artika_base_a2"
+	"ze_artika_base_a3"
 	{
 		"chi"		"探秘基地"
 	}
@@ -1300,11 +1287,11 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_ffxiv_wanderers_palace_v3_8"
+	"ze_ffxiv_wanderers_palace_v4_3"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}
-	"ze_gris_v1L"
+	"ze_gris_v1_9_1"
 	{
 		"chi"		"创世E"
 	}
@@ -1312,7 +1299,7 @@
 	{
 		"chi"		"隐秘神庙"
 	}
-	"ze_otakuroom_v3_t1"
+	"ze_otakuroom_v3_3"
 	{
 		"chi"		"御宅房"
 	}
@@ -1339,5 +1326,9 @@
 	"ze_slender_escape_k4"
 	{
 		"chi"		"瘦长鬼影"
+	}
+	"ze_anima_ruins_v2_1"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }

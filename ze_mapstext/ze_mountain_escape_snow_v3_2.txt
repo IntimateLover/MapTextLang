@@ -226,7 +226,7 @@
 	"***30 seconds left***"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"***Jump portal opened***"
 	{
@@ -283,7 +283,7 @@
 	"***Teleport Enable in 50 seconds***"
 	{
 		"chi"		"**50秒后激活传送点 **"
-		"DoorCountDown" "50"
+		"DoorCountDown"		"50"
 	}
 	"[Music] Xi - Anima"
 	{
@@ -304,12 +304,12 @@
 	"***Wind Casted***"
 	{
 		"chi"		"**BOSS使用了风（按住反方向键） **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	"***Gravity Casted***"
 	{
 		"chi"		"**BOSS使用了黑洞（按住S键） **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	"***Zombie picked up Nuke***"
 	{
@@ -318,14 +318,18 @@
 	"***Train aboarded***"
 	{
 		"chi"		"**火车来了 **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	"***Ice Casted***"
 	{
 		"chi"		"**BOSS使用了冰 **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	"***Speed picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Helicopter 1 explode in 3s***"
 	{
 		"chi"		"** **"
 	}
