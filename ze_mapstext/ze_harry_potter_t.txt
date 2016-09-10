@@ -55,6 +55,7 @@
 	">>> DOORS OPENING IN 15 SECONDS <<<"
 	{
 		"chi"		"**门在15秒后打开 **"
+		"DoorCountDown" "15"
 	}
 	">>> 5 SECONDS LEFT <<<"
 	{
@@ -75,6 +76,7 @@
 	">>> BARRELS EXPLODING IN 20 SECONDS <<<"
 	{
 		"chi"		"**桶子在20秒后爆炸（贴门有惊喜） **"
+		"DoorCountDown" "20"
 	}
 	">>> DOOR BREAKING IN 10 SECONDS <<<"
 	{
@@ -90,11 +92,13 @@
 	}
 	">>> DEATHEATER IS CHARGING WIND ATTACK <<<"
 	{
-		"chi"		"**食死徒使用了飞沙走石（风） **"
+		"chi"		"**食死徒使用了飞沙走石（按住W键） **"
+		"ico"   "icon_fire"
 	}
 	">>> DEATHEATER IS CHARGING FIRE ATTACK <<<"
 	{
-		"chi"		"**食死徒使用了火焰熊熊 **"
+		"chi"		"**食死徒使用了火焰熊熊（开奶或往两边躲避） **"
+		"ico"   "icon_fire"
 	}
 	">>> DEATHEATER IS HEALING <<<"
 	{
@@ -102,7 +106,8 @@
 	}
 	">>> DEATHEATER IS CHARGING GRAVITY ATTACK <<<"
 	{
-		"chi"		"**食死徒使用了障碍重重（重力攻击） **"
+		"chi"		"**食死徒使用了障碍重重（按住S键） **"
+		"ico"   "icon_fire"
 	}
 	">>> THE DEATHEATER IS DEAD - FALL BACK <<<"
 	{
@@ -115,6 +120,7 @@
 	">>> DOOR WILL BREAK IN 15 SECONDS <<<"
 	{
 		"chi"		"**15秒后开门 **"
+		"DoorCountDown" "15"
 	}
 	">>> REDUCIO SPELL HAS BEEN PICKED UP <<<"
 	{
@@ -131,6 +137,7 @@
 	">>> SHOOT THE WHITE CHESS PIECES <<<"
 	{
 		"chi"		"**对白色棋子攻击 **"
+		"ico"   "icon_fire"
 	}
 	">>> ONE OF THEM WILL OPEN THE NEXT DOOR <<<"
 	{
@@ -170,7 +177,8 @@
 	}
 	">>> VOLDEMORT IS CHARGING AVADA ATTACK <<<"
 	{
-		"chi"		"**伏地魔使用了阿瓦达索命 **"
+		"chi"		"**伏地魔使用了阿瓦达索命（往两边走） **"
+		"ico"   "icon_fire"
 	}
 	">>> DISILLUSIONMENT SPELL HAS BEEN PICKED UP <<<"
 	{
@@ -186,11 +194,13 @@
 	}
 	">>> VOLDEMORT IS CHARGING FIRE ATTACK <<<"
 	{
-		"chi"		"**伏地魔使用了火焰熊熊（火） **"
+		"chi"		"**伏地魔使用了火焰熊熊（往两边走） **"
+		"ico"   "icon_fire"
 	}
 	">>> VOLDEMORT IS CHARGING GRAVITY ATTACK <<<"
 	{
-		"chi"		"**伏地魔使用了障碍重重（重力攻击） **"
+		"chi"		"**伏地魔使用了障碍重重（按住S） **"
+		"ico"   "icon_fire"
 	}
 	">>> VOLDEMORT IS DEFEATED - FALL BACK <<<"
 	{
@@ -199,6 +209,7 @@
 	">>> FINAL DOORS OPENING IN 20 SECONDS <<<"
 	{
 		"chi"		"**最后的门在20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	">>> FINAL DOORS OPENING IN 10 SECONDS <<<"
 	{
@@ -207,6 +218,7 @@
 	">>> FINAL DOORS CLOSING IN 10 SECONDS <<<"
 	{
 		"chi"		"**守住最后10秒，门要关了 **"
+		"DoorCountDown" "10"
 	}
 	">>> HUMANS WON THIS STAGE <<<"
 	{
