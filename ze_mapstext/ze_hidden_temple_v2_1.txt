@@ -246,4 +246,20 @@
 	{
 		"chi"		"**打开教堂大门 **"
 	}
+	"### CHURCH GATES OPEN IN 15 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 5 SECOND REMAINING ###"
+	{
+		"chi"		"** **"
+	}
+	"### CHURCH GATES CLOSED IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### CONGRATULATION YOU WON THE MAP ###"
+	{
+		"chi"		"** **"
+	}
 }

@@ -172,4 +172,52 @@
 		"chi"		"**喷泉20秒后开启**"
 		"DoorCountDown"		"20"
 	}
+	"*** Tower lifts activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tower lifts leaving in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend the tower for 60 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Prepare to jump! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** JUMP! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE IV (ZM) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 minute left ***"
+	{
+		"chi"		"** **"
+	}
 }

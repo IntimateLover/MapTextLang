@@ -96,4 +96,48 @@
 	{
 		"chi"		"** **"
 	}
+	"*A player has picked electron!*"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations!Next level is hard!***"
+	{
+		"chi"		"** **"
+	}
+	"***Current Mode:[Hard]***"
+	{
+		"chi"		"** **"
+	}
+	"***Some barriers will disappear!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked flame buffet! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Damage 30 hp(if you touch) and make humans speed slow! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 45 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"***All zombies will be teleported in 9 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 40 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"*All zombies will be teleported in 10 seconds!*"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies are in win-room,humans fail!***"
+	{
+		"chi"		"** **"
+	}
 }
