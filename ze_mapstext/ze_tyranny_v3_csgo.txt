@@ -143,6 +143,7 @@
 	">>> GO RIGHT <<<"
 	{
 		"chi"		"**跑向右边铁门**"
+		"ico"   "icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
@@ -245,6 +246,7 @@
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
 		"chi"		"**巨人正在逼近！快跑！**"
+		"ico"   "icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
@@ -361,6 +363,7 @@
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
 		"chi"		">>>炎魔释放了秒杀法阵，往后退！<<<"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG IS HURT <<<"
 	{
@@ -385,6 +388,7 @@
 	">>> BALROG USED FIRE <<<"
 	{
 		"chi"		">>>炎魔释放了火，看清楚位置左右躲避<<<"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
@@ -393,18 +397,22 @@
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
 		"chi"		">>>两连刀来临，蹲下！！！！<<<"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
 		"chi"		">>>炎魔释放了黑洞，想办法远离它<<<"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG USED POISON <<<"
 	{
 		"chi"		">>>炎魔释放了毒，左右躲避<<<"
+		"ico"   "icon_fire"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
 		"chi"		">>>炎魔使用了推，别被它推下去了<<<"
+		"ico"   "icon_fire"
 	}
 	">>> ADMIN CHANGED TO STAGE 5 <<<"
 	{
