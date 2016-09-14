@@ -367,102 +367,111 @@
 	}
 	"*** Model :Dakotec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模型：Dakotec **"
 	}
 	"*** TOO LATE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了 **"
 	}
 	"*** Extreme CLEAR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**极限难度通过 **"
 	}
 	"*** Next Level Savage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一难度：狂怒 **"
 	}
 	"*** Level:Savage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关难度：狂怒 **"
 	}
 	"***Holm gang zombie incoming...***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿起了僵尸终极... **"
 	}
 	"*** Recast 95s ***"
 	{
-		"chi"		"** **"
+		"chi"		"**CD：95秒 **"
 	}
 	"*** 30 seconds to Break Fence ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后围栏破碎 **"
+		"DoorCountdown"		"30"
 	}
 	"*** HOLD 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
 	}
 	"***Location: The Ragnarok ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地点：外太空 **"
 	}
 	"*** Defend 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒 **"
+		"DoorCountdown"		"45"
 	}
 	"*** ADS ATTACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**ADS攻击（打碎ADS） **"
+		"ico"		"icon_fire"
 	}
 	"*** Dalamud appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**达拉姆卫星出现 **"
 	}
 	"*** Dalamud the last boss ***"
 	{
-		"chi"		"** **"
+		"chi"		"**达拉姆是最后一个BOSS **"
 	}
 	"*** Cauterize ***"
 	{
-		"chi"		"** **"
+		"chi"		"**龙车来袭（看清位置左右躲避） **"
+		"ico"		"icon_fire"
 	}
 	"*** Shadow Flare ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电（蹲下躲避） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Bahamut appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**真·巴哈姆特到来 **"
 	}
 	"*** Steam Judge ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蒸汽制裁（平台上会出现几个蒸汽状的柱子.站在柱子里面按E） **"
+		"ico"		"icon_fire"
 	}
 	"*** Sentence to death ***"
 	{
-		"chi"		"** **"
+		"chi"		"**死亡裁决（看清位置躲避） **"
 	}
 	"*** True Heavens fall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**真·天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Tempest wing ***"
 	{
-		"chi"		"** **"
+		"chi"		"**真·暴风之翼（会出现三个旋风.只有两个是真.站到风里面按住空格） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Bahamut dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特死亡 **"
 	}
 	"*** 45 seconds to Open Wall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒后墙壁破碎 **"
+		"DoorCountdown"		"45"
 	}
 	"*** Savage CLEAR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**狂怒难度通过 **"
 	}
 	"*** Winners are Heroes of Light ***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜的玩家是光之英雄 **"
 	}
 }
