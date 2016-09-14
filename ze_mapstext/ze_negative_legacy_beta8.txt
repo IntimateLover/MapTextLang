@@ -178,19 +178,23 @@
 	}
 	"*** 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**2(面对开关右上角) **"
+		"ico"   "icon_fire"
 	}
 	"*** 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**1(面对开关左上角) **"
+		"ico"   "icon_fire"
 	}
 	"*** 4 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**4(面对开关右下角) **"
+		"ico"   "icon_fire"
 	}
 	"*** 3 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**3(面对开关左下角) **"
+		"ico"   "icon_fire"
 	}
 	"*** 1 2 3 4 ***"
 	{
@@ -202,7 +206,7 @@
 	}
 	"*** Shoot Head ***"
 	{
-		"chi"		"** **"
+		"chi"		"**射击头部 **"
 	}
 	"*** Negative Legacy Teleporter Activate ***"
 	{
@@ -210,7 +214,8 @@
 	}
 	"*** Hold 15 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
+		"DoorCountDown" "15"
 	}
 	"*** Welcome to Negative Legacy ***"
 	{
