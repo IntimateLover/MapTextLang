@@ -2,11 +2,12 @@
 {
 	"*** Map by Airvulpes ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Airvulpes 地图翻译：蓬莱山帅比♪**"
 	}
 	"*** Hold 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒 **"
+		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -14,7 +15,8 @@
 	}
 	"*** HOLD 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
@@ -22,42 +24,49 @@
 	}
 	"*** Hold 25 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守25秒 **"
+		"DoorCountDown"		"25"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上了电梯 **"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败 **"
 	}
 	"*** EARTH SHOCK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地践踏（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀） **"
+		"ico"		"icon_fire"
 	}
 	"*** CRUSTAL MOVEMENT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地壳运动（往山的左右两边跳上去，一直按着跳直到跳过去） **"
+		"ico"		"icon_fire"
 	}
 	"*** EARTH STOMP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地震击（看头顶躲避石柱） **"
+		"ico"		"icon_fire"
 	}
 	"*** EARTHEN SHIELD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地之盾 **"
 	}
 	"*** QUAKE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地震（开奶一直跳） **"
+		"ico"		"icon_fire"
 	}
 	"*** LAND SUBSIDENCE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地面沉降（地面随机下降，跑到没有下降的地面） **"
+		"ico"		"icon_fire"
 	}
 	"*** EARTHQUAKE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大地震（BOSS死亡） **"
+		"ico"		"icon_fire"
 	}
 }
