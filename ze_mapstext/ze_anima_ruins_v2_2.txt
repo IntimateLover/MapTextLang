@@ -6,63 +6,68 @@
 	}
 	"***Stage 1 - Ruins***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"*Gate 2 will open in 30 sec*"
 	{
-		"chi"		"** **"
+		"chi"		"**大门2将在30秒后打开 **"
 	}
 	"*Gate 2 Opening*"
 	{
-		"chi"		"** **"
+		"chi"		"**大门2开了 **"
 	}
 	"*Defend here for 20 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"*10 Seconds to prepare before zombies released*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后释放 **"
 	}
 	"*Survive for 60 seconds, Good Luck*"
 	{
-		"chi"		"** **"
+		"chi"		"**生存60秒-祝你好运 **"
+		"DoorCountDown" "60"
 	}
 	"*FALL BACK*"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"*Zombies released in 20 seconds - Get Ready*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸20秒后释放 **"
 	}
 	"*Defend up here for 40 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住40秒 **"
+		"DoorCountDown" "40"
 	}
 	"*RUN! Zombies released in 15 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**跑！僵尸15秒后释放 **"
 	}
 	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒-不要让僵尸过来 **"
+		"DoorCountDown" "30"
 	}
 	"***Stage 2 - Within the Ruin***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"*Defend for 20 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
 	}
 	"*Defend here for 30 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	"*Zombies released in 12 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸12秒后释放 **"
 	}
 	"*LASERS AHEAD*"
 	{
@@ -70,54 +75,61 @@
 	}
 	"*Gate 1 will open in 30 sec*"
 	{
-		"chi"		"** **"
+		"chi"		"**大门1将在30秒后开启 **"
 	}
 	"*Gate 1 Opening*"
 	{
-		"chi"		"** **"
+		"chi"		"**大门1已打开 **"
 	}
 	"*Zombies got through - FAIL ROUND*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸通过-本关失败 **"
 	}
 	"*Jump down in the middle*"
 	{
-		"chi"		"** **"
+		"chi"		"**跳到中间 **"
 	}
 	"***ANIMA HAS AWAKEN - GIVE IT ALL YOU HAVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima已经苏醒-用你的所有武器杀了它 **"
 	}
 	"*Anima uses LASER*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了激光 **"
+		"ico"   "icon_fire"
 	}
 	"*Anima uses COLLAPSE*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了塌陷 **"
+		"ico"   "icon_fire"
 	}
 	"*Anima uses PAIN*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了疼痛 **"
+		"ico"   "icon_fire"
 	}
 	"*Half of Animas HP remains*"
 	{
-		"chi"		"** **"
+		"chi"		"**Animas还有一半的HP **"
 	}
 	"*Anima uses FORCE*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了推力 **"
+		"ico"   "icon_fire"
 	}
 	"*Anima uses DEMISE*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了消亡 **"
+		"ico"   "icon_fire"
 	}
 	"*Anima uses Gods Spear*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了神矛 **"
+		"ico"   "icon_fire"
 	}
 	"*Anima uses Crystal*"
 	{
-		"chi"		"** **"
+		"chi"		"**Anima使用了水晶 **"
+		"ico"   "icon_fire"
 	}
 }
