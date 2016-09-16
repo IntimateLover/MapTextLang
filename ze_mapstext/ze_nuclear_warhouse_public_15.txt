@@ -2,130 +2,130 @@
 {
 	">>> WAIT 30 S ON THE TRUCK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**在列车上等待30秒 **"
 	}
 	">>> !!! WARNING !!! 5 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：还有5秒 **"
 	}
 	">>> RUUNN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**跑！ **"
 	}
 	">>> WAIT OPEN SECURITY DOOR 20S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**等待安全门在20秒后打开 **"
 	}
 	">>> SECURITY DOOR CLOSE 5S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**安全门在5秒后关闭 **"
 	}
 	">>> ZOMBIES OPEN PRINCIPAL DOOR NOW <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸现在去开主门 **"
 	}
 	">>> !!! SHOOT WINDOW FOR BREAK WINDOW !!!  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**射击窗户 **"
 	}
 	">>>> ESCAPE IN ROOF, GO RUN GOODLUCK HUMMAN TEAM <<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**在屋顶上飞奔吧，祝你好运 **"
 	}
 	">>> USE FORKLIFT FOR FORCED SECURITY DOOR <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**用叉车来对付安全门 **"
 	}
 	">>> PRINCIPAL DOOR SPAWN EXPLOD NOW <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**主门现在要爆炸啦 **"
 	}
 	">>> WAIT EXPLOD SECURITY DOOR 30S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**等待安全门30秒后爆破 **"
 	}
 	">>> WAIT OPEN WARHOUSE DOOR 20 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**等待仓库门20秒后打开 **"
 	}
 	">>> ZOMBIES WAIT DOOR CONTAINER OPEN 5S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸请等待集装箱门在5秒后打开 **"
 	}
 	">>> BREAK WALL UP 5 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后墙破 **"
 	}
 	">>> WAIT EXPLOD WINDOW AND WALL 30 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**墙和窗子将在30秒后破碎 **"
 	}
 	">>> ZOMBIES WAIT OPEN DOOR COMMAND ROOM 5S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸请等待指挥室门在5秒后打开 **"
 	}
 	">>> WAIT EXPLOD MINE 30 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后爆炸 **"
 	}
 	">>> ZOMBIES WAIT OPEN DOOR ROOM NUCLEAR 5S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸请等待核武器门在5秒后打开 **"
 	}
 	">>> WAIT OPEN CONTROL TOWER DOOR 30 S  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后控制塔门打开 **"
 	}
 	">>> RUUNN  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**full back 撤！ **"
 	}
 	">>> ZOMBIES WAIT OPEN DOOR ACCES CORRIDOR TOWER 5S   <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸请等待塔走廊在5秒后打开 **"
 	}
 	">>> CONTROL TOWER DOOR CLOSE 5S, ZOMBIES BREAK WINDOW CONTROL TOWER NOW  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**控制塔门5秒后关闭，僵尸请打破控制塔窗 **"
 	}
 	">>> !!! WARNING !!! WOODEN WALL TOWER BREAK 15S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**警告！木墙塔15秒后破碎 **"
 	}
 	">>> !!! WARNING !!! WOODEN WALL TOWER BREAK 5S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**警告！木墙塔5秒后破碎 **"
 	}
 	">>> OPEN DOOR TYROLEAN 30 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后开门 **"
 	}
 	">>> ZOMBIES OPEN DOOR CORRIDOR TYROLEAN 5 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在5秒后打开走廊门 **"
 	}
 	">>> WAIT EXPLOD FENCE 20 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后篱笆爆炸 **"
 	}
 	">>> ZOMBIES DOOR SECURITY OPEN 5 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸安全门5秒后打开 **"
 	}
 	">>> WAIT CLOSE DOOR  ELEVATOR 15 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯门15秒后关闭 **"
 	}
 	">>> WARNING ELEVATOR EXPLOD 5S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：电梯5秒后爆炸 **"
 	}
 	">>> WAIT OPEN DOOR 30 S <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后开门 **"
 	}
 	">>> ZOMBIES WAIT OPEN DOOR STAY CLEAR 5 S  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸门5秒后打开 **"
 	}
 }
