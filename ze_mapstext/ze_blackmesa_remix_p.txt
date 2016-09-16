@@ -300,4 +300,12 @@
 	{
 		"chi"		"** **"
 	}
+	"**Flamethrower has been picked up. Press +Use (E) to activate**"
+	{
+		"chi"		"** **"
+	}
+	"**Fuel lasts about 10 seconds. **"
+	{
+		"chi"		"** **"
+	}
 }

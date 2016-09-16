@@ -317,12 +317,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**电梯15秒后激活 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁30秒后破碎 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"*** Dont Touch Water ***"
 	{
@@ -364,5 +364,105 @@
 	"***Recast 80s***"
 	{
 		"chi"		"**CD:80秒 **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TOO LATE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Extreme CLEAR ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Next Level Savage ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level:Savage ***"
+	{
+		"chi"		"** **"
+	}
+	"***Holm gang zombie incoming...***"
+	{
+		"chi"		"** **"
+	}
+	"*** Recast 95s ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Break Fence ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"***Location: The Ragnarok ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ADS ATTACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dalamud appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dalamud the last boss ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cauterize ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shadow Flare ***"
+	{
+		"chi"		"** **"
+	}
+	"*** True Bahamut appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Steam Judge ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Sentence to death ***"
+	{
+		"chi"		"** **"
+	}
+	"*** True Heavens fall ***"
+	{
+		"chi"		"** **"
+	}
+	"*** True Tempest wing ***"
+	{
+		"chi"		"** **"
+	}
+	"*** True Bahamut dead ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 45 seconds to Open Wall ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Savage CLEAR ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Winners are Heroes of Light ***"
+	{
+		"chi"		"** **"
 	}
 }

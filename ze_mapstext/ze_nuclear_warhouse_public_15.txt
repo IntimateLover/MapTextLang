@@ -1,0 +1,131 @@
+"Console_T"
+{
+	">>> WAIT 30 S ON THE TRUCK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> !!! WARNING !!! 5 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUUNN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT OPEN SECURITY DOOR 20S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SECURITY DOOR CLOSE 5S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES OPEN PRINCIPAL DOOR NOW <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> !!! SHOOT WINDOW FOR BREAK WINDOW !!!  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>>> ESCAPE IN ROOF, GO RUN GOODLUCK HUMMAN TEAM <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> USE FORKLIFT FOR FORCED SECURITY DOOR <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PRINCIPAL DOOR SPAWN EXPLOD NOW <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT EXPLOD SECURITY DOOR 30S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT OPEN WARHOUSE DOOR 20 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES WAIT DOOR CONTAINER OPEN 5S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BREAK WALL UP 5 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT EXPLOD WINDOW AND WALL 30 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES WAIT OPEN DOOR COMMAND ROOM 5S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT EXPLOD MINE 30 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES WAIT OPEN DOOR ROOM NUCLEAR 5S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT OPEN CONTROL TOWER DOOR 30 S  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUUNN  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES WAIT OPEN DOOR ACCES CORRIDOR TOWER 5S   <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> CONTROL TOWER DOOR CLOSE 5S, ZOMBIES BREAK WINDOW CONTROL TOWER NOW  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> !!! WARNING !!! WOODEN WALL TOWER BREAK 15S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> !!! WARNING !!! WOODEN WALL TOWER BREAK 5S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> OPEN DOOR TYROLEAN 30 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES OPEN DOOR CORRIDOR TYROLEAN 5 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT EXPLOD FENCE 20 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES DOOR SECURITY OPEN 5 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT CLOSE DOOR  ELEVATOR 15 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARNING ELEVATOR EXPLOD 5S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT OPEN DOOR 30 S <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES WAIT OPEN DOOR STAY CLEAR 5 S  <<<"
+	{
+		"chi"		"** **"
+	}
+}

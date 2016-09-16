@@ -820,11 +820,6 @@
 		"chi"		"此地图暂无译名"
 		"credit"		"900"
 	}
-	"ze_christmas_infection_v2_7_air"
-	{
-		"chi"		"圣诞夜惊魂"
-		"credit"		"500"
-	}
 	"ze_bowser_in_the_fire_sea_v1nb2"
 	{
 		"chi"		"火海中的库巴"
@@ -1088,10 +1083,6 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_laser_island_b3"
-	{
-		"chi"		"跳刀岛"
-	}
 	"ze_negative_legacy_beta7"
 	{
 		"chi"		"此地图暂无译名"
@@ -1131,7 +1122,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_laser_island_b4"
+	"ze_laser_island_b5_beta"
 	{
 		"chi"		"跳刀岛逃亡之旅"
 	}
@@ -1163,7 +1154,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_jurassicpark_evolved"
+	"ze_jurassicpark_evolved_v4"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1255,7 +1246,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_A_E_S_T_H_E_T_I_C"
+	"ze_A_E_S_T_H_E_T_I_C_v1"
 	{
 		"chi"		"舞台剧"
 	}
@@ -1271,7 +1262,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_lolxd_v2_2"
+	"ze_lolxd_final"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1287,11 +1278,11 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_ffxiv_wanderers_palace_v4_3"
+	"ze_ffxiv_wanderers_palace_v4_5"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}
-	"ze_gris_v1_9_1"
+	"ze_gris_v1_9_3"
 	{
 		"chi"		"创世E"
 	}
@@ -1323,12 +1314,21 @@
 	{
 		"chi"		"黑暗之魂"
 	}
-	"ze_slender_escape_k4"
+	"ze_slender_escape_rc1"
 	{
 		"chi"		"瘦长鬼影"
 	}
-	"ze_anima_ruins_v2_1"
+	"ze_anima_ruins_v2_2"
 	{
 		"chi"		"此地图暂无译名"
 	}
+	"ze_Paranoid_Rezurrection_v11_9_th10"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_christmas_infection_p"
+	{
+		"chi"		"圣诞夜惊魂"
+	}
 }
+
