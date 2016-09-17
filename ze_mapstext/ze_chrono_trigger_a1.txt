@@ -2,82 +2,82 @@
 {
 	"*** ze_Chrono_Trigger. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图：时空之轮 翻译：我不信没用户名 **"
 	}
 	"*** Version: Alpha 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**版本：阿尔法 **"
 	}
 	"*** Teleporter activating in 25 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒后传送开启 **"
 	}
 	"*** Teleporter activating in 15 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后传送开启 **"
 	}
 	"*** Teleporter activating in 5 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送开启 **"
 	}
 	"*** Teleporter active! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送开启 **"
 	}
 	"*** Requesting access from Zeal Palace. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**请求访问zeal宫殿（咸鱼宫殿） **"
 	}
 	"*** Access granted. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核准 **"
 	}
 	"*** Please stay out of the way of the teleporter as it activates. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**离传送门远点，别作死靠近那边，贴门会死的！！！ **"
 	}
 	"*** Zombies teleporting in 3 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸3秒后传送 **"
 	}
 	"*** Teleporter activating in 35 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点正在激活，还需要35秒，别贴门 **"
 	}
 	"*** Teleporter activating in 30 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还要30秒，别贴门 **"
 	}
 	"*** Teleporter activating in 20 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还要20秒，真的别贴门，贴门会死的 **"
 	}
 	"*** Teleporter activating in 10 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒，别贴门，各位 **"
 	}
 	"*** The temple is locked? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣殿被锁住了？ **"
 	}
 	"*** .... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**。。。 **"
 	}
 	"*** Two sacrifices must be made to open the temple. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我想我们需要两条咸鱼来开启这个圣殿（左右两侧需要勇士） **"
 	}
 	"*** A sacrifice has been completed. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一条咸鱼被献祭了 **"
 	}
 	"*** Get in the temple! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二条咸鱼也被献祭了，让我们进入宫殿吧 **"
 	}
 	"*** The door will be closing in 5 seconds.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣殿的门将在5秒后关闭 **"
 	}
 }
