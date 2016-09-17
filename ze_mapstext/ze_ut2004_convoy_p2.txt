@@ -76,7 +76,7 @@
 	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
 	{
 		"chi"		"**不能射击货舱！试图摧毁发动机或杀死司机！ **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> THE REAR DOOR HAS BEEN OPENED <<<"
 	{
@@ -101,7 +101,7 @@
 	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
 	{
 		"chi"		"**侧门将在45秒后开启！ **"
-		"DoorCountDown" "45"
+		"DoorCountDown"		"45"
 	}
 	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
 	{
@@ -122,7 +122,7 @@
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
 	{
 		"chi"		"**n.e.x.u.s.拖车将在在40秒后打开舱口 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
 	{
@@ -179,7 +179,7 @@
 	">>> EXPLOSION IN 40 SECONDS <<<"
 	{
 		"chi"		"**炸弹将在40秒后爆炸（不要贴门.会被炸死） **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	">>> EXPLOSION IN 20 SECONDS <<<"
 	{
@@ -188,7 +188,7 @@
 	">>> EXPLOSION IN 5 SECONDS <<<"
 	{
 		"chi"		"**炸弹将在5秒后爆炸（不要贴门.会被炸死） **"
-		"ico"   "icon_fire" 
+		"ico"		"icon_fire"
 	}
 	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
 	{
@@ -237,5 +237,9 @@
 	">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
 	{
 		"chi"		"**清除卡车上的敌人！ **"
+	}
+	">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
+	{
+		"chi"		"** **"
 	}
 }
