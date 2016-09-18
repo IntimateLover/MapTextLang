@@ -2,7 +2,7 @@
 {
 	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
 	{
-		"chi"		"**地图帮助： Airvulpes,Kune,thas,Rukly,Shufen**"
+		"chi"		"**地图帮助：Airvulpes,Kune,thas,Rukly,Shufen**"
 	}
 	"*** Map made by Altima ***"
 	{
@@ -86,7 +86,7 @@
 	}
 	"*** ALL Nymian device Activated ***"
 	{
-		"chi"		"**所以的尼米安装置已激活 **"
+		"chi"		"**所有的尼米安装置已激活 **"
 		"ico"		"icon_fire"
 	}
 	"*** 5 seconds to Activate Nymian device ***"
@@ -281,11 +281,11 @@
 	"***ADS Attack***"
 	{
 		"chi"		"**ADS攻击 **"
+		"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
 		"chi"		"**射击ADS并防御僵尸 **"
-		"ico"		"icon_fire"
 	}
 	"***Flare***"
 	{
@@ -346,7 +346,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**真·憾地（看清位置左.中.右.躲避） **"
+		"chi"		"**（真）憾地（看清位置躲避） **"
 		"ico"		"icon_fire"
 	}
 	"***A player picked up Bird Armys Paeon***"
@@ -395,7 +395,7 @@
 	}
 	"*** 30 seconds to Break Fence ***"
 	{
-		"chi"		"**30秒后围栏破碎 **"
+		"chi"		"**30秒后铁网破碎 **"
 		"DoorCountdown"		"30"
 	}
 	"*** HOLD 20 seconds ***"
@@ -404,7 +404,7 @@
 	}
 	"***Location: The Ragnarok ***"
 	{
-		"chi"		"**地点：外太空 **"
+		"chi"		"**地点：仙境 **"
 	}
 	"*** Defend 45 seconds ***"
 	{
@@ -436,11 +436,11 @@
 	}
 	"*** True Bahamut appeared ***"
 	{
-		"chi"		"**真·巴哈姆特到来 **"
+		"chi"		"**（真）巴哈姆特到来 **"
 	}
 	"*** Steam Judge ***"
 	{
-		"chi"		"**蒸汽制裁（平台上会出现几个蒸汽状的柱子.站在柱子里面按E） **"
+		"chi"		"**蒸汽制裁（平台上会出现几个蒸汽状的柱子.站在柱子里面等到柱子消失） **"
 		"ico"		"icon_fire"
 	}
 	"*** Sentence to death ***"
@@ -449,12 +449,12 @@
 	}
 	"*** True Heavens fall ***"
 	{
-		"chi"		"**真·天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落） **"
+		"chi"		"**（真）天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落） **"
 		"ico"		"icon_fire"
 	}
 	"*** True Tempest wing ***"
 	{
-		"chi"		"**真·暴风之翼（会出现三个旋风.只有两个是真.站到风里面按住空格） **"
+		"chi"		"**（真）暴风之翼（会出现三个旋风.只有两个是真的.站到风里面按住空格） **"
 		"ico"		"icon_fire"
 	}
 	"*** True Bahamut dead ***"
