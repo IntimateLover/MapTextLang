@@ -327,11 +327,11 @@
 	}
 	"***Speed picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**加速已被拿起 **"
 	}
 	"***Helicopter 1 explode in 3s***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机1将在3秒后爆炸 **"
 	}
 	"[Music] XI - Freedom dive"
 	{
@@ -347,10 +347,11 @@
 	}
 	"***Teleport back activates in 50 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**50秒后激活传送 **"
+		"DoorCountDown"		"50"
 	}
 	"***Go Back to teleport place***"
 	{
-		"chi"		"** **"
+		"chi"		"**回到传送点 **"
 	}
 }
