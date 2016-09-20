@@ -69,4 +69,44 @@
 		"chi"		"**大地震（BOSS死亡） **"
 		"ico"		"icon_fire"
 	}
+	"*** doors opens 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens 35 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ICICLE FALL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIDAL WAVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FREEZING COFFIN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BLIZZARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FROZEN WATER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RISING WATER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DIAMOND DUST ***"
+	{
+		"chi"		"** **"
+	}
 }

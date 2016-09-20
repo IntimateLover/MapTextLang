@@ -15,7 +15,7 @@
 	"*** 15 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** 5 SECONDS ***"
 	{
@@ -24,7 +24,7 @@
 	"*** 30 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
 	{
@@ -45,7 +45,7 @@
 	"*** 25 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** 10 seconds  ***"
 	{
@@ -103,17 +103,17 @@
 	"*** 20 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 30 seconds to Open Road ***"
 	{
 		"chi"		"**30秒后道路开放 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds   ***"
 	{
@@ -153,7 +153,7 @@
 	"***45 seconds to HARD CLEAR***"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"***HARD CLEAR***"
 	{
@@ -170,7 +170,7 @@
 	"*** 35 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待35秒 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"*** 10 seconds ***"
 	{
@@ -191,12 +191,12 @@
 	"*** 30 seconds to Open Door ***"
 	{
 		"chi"		"**大门30秒后开启 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 45 seconds to Break Rocks ***"
 	{
 		"chi"		"**45秒后岩石破碎 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*** Recast 150s ***"
 	{
@@ -213,12 +213,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**15秒后激活电梯 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁将在30秒后破碎 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Dont Touch Water ***"
 	{
@@ -260,7 +260,7 @@
 	"*** HOLD 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Location: The Ragnarok ***"
 	{
@@ -269,7 +269,7 @@
 	"*** Defend 35 seconds ***"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"*** ADS ATTACK ***"
 	{
@@ -321,5 +321,120 @@
 	{
 		"chi"		"**巴哈姆特死亡 **"
 	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by Altima ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 55s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Mount Night Mare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Summoner Shadow Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 60s***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cauterize***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Gravity ON***"
+	{
+		"chi"		"** **"
+	}
+	"***Texture Support by fujione***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made by Altima***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 80s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Bird Armys Paeon***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 90s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***Akh Morn***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS Attack***"
+	{
+		"chi"		"** **"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"chi"		"** **"
+	}
+	"***Heavens Fall***"
+	{
+		"chi"		"** **"
+	}
+	"***Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Earth Shaker***"
+	{
+		"chi"		"** **"
+	}
+	"***Tempest Wing***"
+	{
+		"chi"		"** **"
+	}
 }
-
