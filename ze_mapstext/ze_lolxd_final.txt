@@ -146,22 +146,22 @@
 	}
 	"***TRUMP***"
 	{
-		"chi"		"**王炸！ **"
+		"chi"		"**王炸！（注意蹲下！） **"
 	}
 	"***SLAYER***"
 	{
-		"chi"		"**杀手 **"
+		"chi"		"**杀手（请站在绿色墙外） **"
 	}
 	"***PULLER***"
 	{
-		"chi"		"**推 **"
+		"chi"		"**吸！（小心被吸向BOSS） **"
 	}
 	"***Youve got 3 minutes to kill this cancer thing***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们有三分钟来干掉这个屎一样的BOSS **"
 	}
 	"***Boss Heals 1000HP***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS回复了1000生命值 **"
 	}
 }
