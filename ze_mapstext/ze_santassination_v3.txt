@@ -3,7 +3,7 @@
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
 		"chi"		"**距离岩石墙碎裂还有15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
@@ -40,7 +40,7 @@
 	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
 	{
 		"chi"		"**雪墙将会在10s后碎掉**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
@@ -57,7 +57,7 @@
 	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**防爆门将会在20s内打开（里面有河狸）**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
@@ -86,7 +86,7 @@
 	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
 	{
 		"chi"		"**铁门将会在30s内打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
 	{
@@ -119,7 +119,7 @@
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
 		"chi"		"**门还有40s开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
 	{
@@ -144,7 +144,7 @@
 	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
 		"chi"		"**还有20s开第一个门**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
@@ -153,7 +153,7 @@
 	"***ELEVATOR OPENS IN 15 SECONDS***"
 	{
 		"chi"		"**电梯还有15s**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***ELEVATOR DOOR IS OPEN***"
 	{
@@ -202,7 +202,7 @@
 	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**秘密的门将会在20s内打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***SECRET SANTA CHAPEL DOOR IS OPENING***"
 	{
@@ -235,7 +235,7 @@
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**卷帘门15s内开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
 	{
@@ -244,7 +244,7 @@
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**第二道卷帘门15s内打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
 	{
@@ -269,7 +269,7 @@
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
 		"chi"		"** 右边的墙将会在20s内打开*"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
 	{
@@ -294,7 +294,7 @@
 	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**工厂门将会在20s内打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
@@ -307,7 +307,7 @@
 	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
 	{
 		"chi"		"** 墙将会在15s内爆炸**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
@@ -364,7 +364,7 @@
 	"***GLASS WILL BREAK IN 5 SECONDS***"
 	{
 		"chi"		"**玻璃将会在5s内碎掉**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
@@ -413,7 +413,7 @@
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
 		"chi"		"**工厂门10s打开**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
@@ -438,7 +438,7 @@
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
 		"chi"		"**10s内开门**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
@@ -463,7 +463,7 @@
 	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**门将在20s内打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
 	{
@@ -504,7 +504,7 @@
 	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
 	{
 		"chi"		"**10s内开门**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
 	{
@@ -517,7 +517,7 @@
 	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**驯鹿将会在15s内开启**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
@@ -570,7 +570,7 @@
 	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
 	{
 		"chi"		"**防爆门40s内打开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***SEWER BLASTDOOR IS OPENING***"
 	{
@@ -615,7 +615,7 @@
 	"***LOWER GATE IS OPENING IN 35 SECONDS***"
 	{
 		"chi"		"**低门将在35s内打开**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
 	{
@@ -640,7 +640,7 @@
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**外墙入口30s内打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
 	{
@@ -653,7 +653,7 @@
 	"***UPPER GATE IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**上面的门30s内打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***LOWER GATE IS OPENING IN 30 SECONDS***"
 	{
@@ -682,7 +682,7 @@
 	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**20s内开门**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***SANTA'S DOOR IS OPENING***"
 	{
@@ -727,7 +727,7 @@
 	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**上面的塔门20s内打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
@@ -804,7 +804,7 @@
 	"***OUTER GATE IS OPENING IN 50 SECONDS***"
 	{
 		"chi"		"**外门50s内打开**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***CENTER GATE IS OPENING IN 30 SECONDS***"
 	{
@@ -885,7 +885,7 @@
 	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
 	{
 		"chi"		"**墙将要在30s内打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
 	{
@@ -1272,6 +1272,18 @@
 		"chi"		"** **"
 	}
 	"HEY EVERYONE! Kaemon is a wet biscuit!!!"
+	{
+		"chi"		"** **"
+	}
+	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	{
+		"chi"		"** **"
+	}
+	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRUMP IS PROUD OF YOU***"
 	{
 		"chi"		"** **"
 	}

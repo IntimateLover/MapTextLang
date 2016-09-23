@@ -19,7 +19,7 @@
 	"*Defend here for 20 seconds*"
 	{
 		"chi"		"**在这里守住20秒 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"*10 Seconds to prepare before zombies released*"
 	{
@@ -28,7 +28,7 @@
 	"*Survive for 60 seconds, Good Luck*"
 	{
 		"chi"		"**生存60秒-祝你好运 **"
-		"DoorCountDown" "60"
+		"DoorCountDown"		"60"
 	}
 	"*FALL BACK*"
 	{
@@ -41,7 +41,7 @@
 	"*Defend up here for 40 seconds*"
 	{
 		"chi"		"**在这里守住40秒 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"*RUN! Zombies released in 15 seconds*"
 	{
@@ -50,7 +50,7 @@
 	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
 	{
 		"chi"		"**守住30秒-不要让僵尸过来 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"***Stage 2 - Within the Ruin***"
 	{
@@ -63,7 +63,7 @@
 	"*Defend here for 30 seconds*"
 	{
 		"chi"		"**在这里守住30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"*Zombies released in 12 seconds*"
 	{
@@ -96,17 +96,17 @@
 	"*Anima uses LASER*"
 	{
 		"chi"		"**Anima使用了激光 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*Anima uses COLLAPSE*"
 	{
 		"chi"		"**Anima使用了塌陷 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*Anima uses PAIN*"
 	{
 		"chi"		"**Anima使用了疼痛 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*Half of Animas HP remains*"
 	{
@@ -115,21 +115,37 @@
 	"*Anima uses FORCE*"
 	{
 		"chi"		"**Anima使用了推力 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*Anima uses DEMISE*"
 	{
 		"chi"		"**Anima使用了消亡 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*Anima uses Gods Spear*"
 	{
 		"chi"		"**Anima使用了神矛 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*Anima uses Crystal*"
 	{
 		"chi"		"**Anima使用了水晶 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+	}
+	"*Defend for 30 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Beat Anima in 3 Mins*"
+	{
+		"chi"		"** **"
+	}
+	"*10 SECONDS REMAINING*"
+	{
+		"chi"		"** **"
+	}
+	"*Anima uses OBLIVIONS END*"
+	{
+		"chi"		"** **"
 	}
 }
