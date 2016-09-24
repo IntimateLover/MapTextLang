@@ -64,16 +64,16 @@
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
-		"chi"		"**在这里坚守45秒 **"
+		"chi"		"**在这里坚守45秒! **"
 	}
 	"30 MORE SECONDS!"
 	{
-		"chi"		"**还有30秒 **"
+		"chi"		"**还有30秒! **"
 		"DoorCountDown" "30"
 	}
 	"10 MORE SECONDS!"
 	{
-		"chi"		"**还有10秒 **"
+		"chi"		"**还有10秒! **"
 	}
 	"5 MORE SECONDS!"
 	{
@@ -123,7 +123,7 @@
 	}
 	"BOAT LEFT, WHERE ARE WE GOING?"
 	{
-		"chi"		"**船离开，我们要去哪里？ **"
+		"chi"		"**船离开，我们要去哪里? **"
 	}
 	"ITS REGICE, SHOOT"
 	{
@@ -152,7 +152,7 @@
 	}
 	"REGICE USED ICEBEAM!"
 	{
-		"chi"		"**雷吉艾斯使用急冻光线 **"
+		"chi"		"**雷吉艾斯使用急冻光线(不要站蓝色点上) **"
 	}
 	"REGICE HAS FAINTED!"
 	{
@@ -193,15 +193,15 @@
 	}
 	"GO INSIDE THE HOUSE TO GO TO THE BIKE ROAD"
 	{
-		"chi"		"**进房子来到达自行车路? **"
+		"chi"		"**进房子来到达自行车路 **"
 	}
 	"***Player has picked Chansey! (HEAL)***"
 	{
-		"chi"		"**一位玩家拾取奶 **"
+		"chi"		"**一位玩家拾取奶! **"
 	}
 	"***Player has picked Buizel! (WATER)***"
 	{
-		"chi"		"**一位玩家拾取水 **"
+		"chi"		"**一位玩家拾取水! **"
 	}
 	"***Recharge: 45 seconds.***"
 	{
@@ -259,43 +259,43 @@
 	}
 	"Wally: GO KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:去吧奇鲁莉安 **"
 	}
 	"Wally: GO KIRLIA!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:去吧奇鲁莉安! **"
 	}
 	"Wally: KIRLIA USE SHOCK WAVE!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:奇鲁莉安使用电击波! **"
 	}
 	"Wally: KIRLIA, RETURN!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:奇鲁莉安,回来! **"
 	}
 	"Wally: GO CROBAT!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:去吧叉字蝠! **"
 	}
 	"Wally: CROBAT USE TOXIC!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:叉字蝠使用猛毒素 **"
 	}
 	"Wally: CROBAT, RETURN"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:叉字蝠,回来 **"
 	}
 	"Wally: Ive been defeated...."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:我被打败了.... **"
 	}
 	"Wally: Today I couldnt beat you, but next time.."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:今天我不能打败你,但是下一次.. **"
 	}
 	"Wally: Next time will be harder."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:下一次将更难. **"
 	}
 	"DEFEND HERE FOR 20 SECONDS"
 	{
@@ -343,19 +343,19 @@
 	}
 	"Wally: ITS NOT OVER YET GUYS."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:然而并没有结束 **"
 	}
 	"Wally: KIRLIA, USE BARRIER!"
 	{
-		"chi"		"** **"
+		"chi"		"**奇鲁莉安,使用栅栏 **"
 	}
 	"SHOOT KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**射击奇鲁莉安 **"
 	}
 	"Wally: ILL BE BACK!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:我还会回来的! **"
 	}
 	"DEFEND HERE FOR 35 SECONDS"
 	{
@@ -866,43 +866,43 @@
 	}
 	"Cyrus: Crobat, use Cross Venom."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用十字毒刃 **"
 	}
 	"Cyrus: Crobat use Toxic."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用猛毒素 **"
 	}
 	"Cyrus: Crobat, use Cross Venom"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用十字毒刃 **"
 	}
 	"Weavile has restored 2000HP."
 	{
-		"chi"		"** **"
+		"chi"		"**玛狃拉恢复2000血 **"
 	}
 	"Cyrus: Honchkrow, use Roost!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:乌鸦头头使用歇羽 **"
 	}
 	"Honchkrow has restored 2000HP!"
 	{
-		"chi"		"** **"
+		"chi"		"**乌鸦头头恢复2000血 **"
 	}
 	"GIRATINA USED DRAGON CLAW!"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳使用龙爪 **"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳使用黑暗力量 **"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
-		"chi"		"** **"
+		"chi"		"**快速爬上梯子! **"
 	}
 	"DIALGA DOOR OPEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**帝牙卢卡打开大门 **"
 	}
 	"DEFEND FOR 30 SECONDS!"
 	{
