@@ -396,7 +396,7 @@
 	"*** 30 seconds to Break Fence ***"
 	{
 		"chi"		"**30秒后铁网破碎 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** HOLD 20 seconds ***"
 	{
@@ -409,7 +409,7 @@
 	"*** Defend 45 seconds ***"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*** ADS ATTACK ***"
 	{
@@ -464,7 +464,7 @@
 	"*** 45 seconds to Open Wall ***"
 	{
 		"chi"		"**45秒后墙壁破碎 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*** Savage CLEAR ***"
 	{
@@ -473,5 +473,17 @@
 	"*** Winners are Heroes of Light ***"
 	{
 		"chi"		"**获胜的玩家是光之英雄 **"
+	}
+	"*** Dead ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Odin Appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Kill Odin ***"
+	{
+		"chi"		"** **"
 	}
 }
