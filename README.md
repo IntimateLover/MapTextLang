@@ -14,13 +14,13 @@
 	"*** boss ***"
 	{
 	  "chi"		"**boss 出现了**"
-		"command" "sm_clearbosshp" //作用是血量计数归0 使其更加精确 每回合也会自动归0.
+	  "command" "sm_clearbosshp" //作用是血量计数归0 使其更加精确 每回合也会自动归0.
 	}
 
 	"*** boss dead ***"
 	{
 	  "chi"		"**boss 死了**"
-		"command" "sm_clearbosshp" //作用是血量计数归0 每回合会自动归0.
+	  "command" "sm_clearbosshp" //作用是血量计数归0 每回合会自动归0.
 	}
 
 
