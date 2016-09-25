@@ -53,7 +53,7 @@
 	"** At some point in the journey, the traveller is given a hand. **"
 	{
 		"chi"		"**在旅行途中，有人会帮你们一把 **"
-		"DoorCountDown"		"15"
+		"DoorCountDown"		"16"
 	}
 	"** Reaching out for help is at times harder than everything else... **"
 	{
@@ -129,7 +129,7 @@
 	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
 	{
 		"chi"		"**我们曾经梦想别处-一个更为温和的地方-我们至此却会后悔的地方 **"
-		"DoorCountDown"		"21"
+		"DoorCountDown"  "22"
 	}
 	"** Ticking for not much longer and then... ...will we see your face again? **"
 	{
@@ -170,6 +170,7 @@
 	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
 	{
 		"chi"		"**蓝色：藏在玻璃碎片之后的脸，迷失在浓雾中...你在何方？ **"
+		"DoorCountDown" "10"
 	}
 	"** What do those forged smiles mean to the free men? **"
 	{
@@ -210,6 +211,7 @@
 	"** Up or down -- does it matter? It all ends up being the same... **"
 	{
 		"chi"		"**向上或者向下-有何关系呢？终究殊途同归 **"
+		"DoorCountDown" "10"
 	}
 	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
 	{

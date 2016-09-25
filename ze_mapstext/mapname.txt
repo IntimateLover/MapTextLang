@@ -840,7 +840,7 @@
 		"chi"		"镜之边缘"
 		"credit"		"400"
 	}
-	"ze_santassination_v2"
+	"ze_santassination_v3"
 	{
 		"chi"		"狮子王"
 		"credit"		"1500"
@@ -1270,7 +1270,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_ffxiv_wanderers_palace_v4_5f"
+	"ze_ffxiv_wanderers_palace_v4_5zz"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}
@@ -1333,5 +1333,21 @@
 	"ze_roof_adventure_v2_2"
 	{
 		"chi"		"屋顶大冒险"
+	}
+	"ze_ffxiv_wanderers_palace_v4_5z"
+	{
+		"chi"		"最终幻想14：流浪者宫殿"
+	}
+	"ze_PKMN_Adventure_v6_3"
+	{
+		"chi"		"跳刀神奇宝贝"
+	}
+	"ze_roof_adventure_p7"
+	{
+		"chi"		"屋顶大冒险"
+	}
+	"ze_nuclear_warhouse_by_gm"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }
