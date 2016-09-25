@@ -159,6 +159,7 @@
 	"*** Behemoth King Appeared ***"
 	{
 		"chi"		"**巨兽王出现 **"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Shoot him ***"
 	{
@@ -187,6 +188,7 @@
 	"*** Behemoth King dead ***"
 	{
 		"chi"		"**巨兽王死了 **"
+		  "command" "sm_clearbosshp"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
@@ -256,6 +258,7 @@
 	"***Bahamut Prime appeared***"
 	{
 		"chi"		"**巴哈姆特出现 **"
+		  "command" "sm_clearbosshp"
 	}
 	"***Bahamut Prime is Casting now***"
 	{
@@ -313,6 +316,7 @@
 	"***Bahamut Prime dead***"
 	{
 		"chi"		"**巴哈姆特受伤 **"
+		  "command" "sm_clearbosshp"
 	}
 	"*** 15 seconds to activate Elevator ***"
 	{
@@ -335,6 +339,7 @@
 	"*** Nael Van Dahrnus Appeared ***"
 	{
 		"chi"		"**宫殿守卫出现 **"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Kill HER ***"
 	{
@@ -343,6 +348,7 @@
 	"*** Nael Dead ***"
 	{
 		"chi"		"**宫殿守卫死了 **"
+		  "command" "sm_clearbosshp"
 	}
 	"***Earth Shaker***"
 	{
@@ -437,6 +443,7 @@
 	"*** True Bahamut appeared ***"
 	{
 		"chi"		"**（真）巴哈姆特到来 **"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Steam Judge ***"
 	{
@@ -460,6 +467,7 @@
 	"*** True Bahamut dead ***"
 	{
 		"chi"		"**巴哈姆特死亡 **"
+		  "command" "sm_clearbosshp"
 	}
 	"*** 45 seconds to Open Wall ***"
 	{
@@ -476,18 +484,19 @@
 	}
 	"*** Dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**宫殿守卫死了 **"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Odin出现了 **"
 	}
 	"*** Kill Odin ***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了它 **"
 	}
 	"*** Ultimate mode incoming.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最终关卡导入中.... **"
 	}
 }
