@@ -43,3 +43,7 @@ Documents
 	"ico"   "icon_fire" //代表加强显示一次消息(带图标)
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c23b8613ed5032e94502c98bb9a2f51f2b454bbc
