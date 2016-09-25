@@ -2,159 +2,165 @@
 {
 	"Map created by the saltbat"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:saltbat 地图翻译:不清新的木心♪ **"
 	}
 	"Also known as Lv. 100 Crobat"
 	{
-		"chi"		"** **"
+		"chi"		"**又称100级的叉字蝠(就是很牛逼的跳刀神奇宝贝) **"
 	}
 	"Stage: Level 1."
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"DONT GET TOO CLOSE"
 	{
-		"chi"		"** **"
+		"chi"		"**不要靠的太近 **"
 	}
 	"A WILD NIDOQUEEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**一只野生的尼多后 **"
 	}
 	"NIDOQUEEN USED EARTHQUAKE, SHOOT HER!"
 	{
-		"chi"		"** **"
+		"chi"		"**尼多后使用了地震,射击它 **"
 	}
 	"NIDOQUEEN HAS FAINTED"
 	{
-		"chi"		"** **"
+		"chi"		"**尼多后晕倒了 **"
 	}
 	"THE SECURITY BUILDING WILL BE AVAILABLE IN 1 MINUTE"
 	{
-		"chi"		"** **"
+		"chi"		"**安全大楼将在1分钟内开启 **"
+		"DoorCountDown" "60"
 	}
 	"THE SECURITY BUILDING WILL BE AVAILABLE IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**安全大楼将在10秒内开启 **"
 	}
 	"GO TO LAVENDER TOWN"
 	{
-		"chi"		"** **"
+		"chi"		"**去紫苑镇 **"
 	}
 	"WELCOME TO LAVENDER TOWN"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到紫苑镇 **"
 	}
 	"DEFEND LAVENDER TOWN FOR 1 MINUTES"
 	{
-		"chi"		"** **"
+		"chi"		"**在紫苑镇守1分钟 **"
 	}
 	"30 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
+		"DoorCountDown" "30"
 	}
 	"10 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"ESCAPE FROM LAVENDER TOWN"
 	{
-		"chi"		"** **"
+		"chi"		"**逃离紫苑镇 **"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里坚守45秒! **"
 	}
 	"30 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**还有30秒! **"
+		"DoorCountDown" "30"
 	}
 	"10 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒! **"
 	}
 	"5 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"**LEVEL 1 COMPLETED"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成 **"
 	}
 	"***Stage: Level 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"GO TO VERMILION CITY AND TAKE THE BOAT"
 	{
-		"chi"		"** **"
+		"chi"		"**前往枯叶市并上船 **"
 	}
 	"TRAINER MODE ENABLED"
 	{
-		"chi"		"** **"
+		"chi"		"**开启训练模式 **"
 	}
 	"FIND YOUR POKEMON AT VERMILION CITY"
 	{
-		"chi"		"** **"
+		"chi"		"**在枯叶市找到你的口袋妖怪 **"
 	}
 	"TREES WILL BREAK IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在45秒后倒下 **"
+		"DoorCountDown" "45"
 	}
 	"TREES WILL BREAK IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在10秒后倒下 **"
 	}
 	"WELCOME TO VERMILION CITY"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到枯叶市 **"
 	}
 	"BOAT WILL LEAVE IN 45 SECS"
 	{
-		"chi"		"** **"
+		"chi"		"**船将在45秒后离开 **"
+		"DoorCountDown" "45"
 	}
 	"BOAT WILL LEAVE IN 10 SECS"
 	{
-		"chi"		"** **"
+		"chi"		"**船将在10秒后离开 **"
 	}
 	"BOAT LEFT, WHERE ARE WE GOING?"
 	{
-		"chi"		"** **"
+		"chi"		"**船离开，我们要去哪里? **"
 	}
 	"ITS REGICE, SHOOT"
 	{
-		"chi"		"** **"
+		"chi"		"**它是雷吉艾斯，射击 **"
 	}
 	"REGICE USED CURSE!"
 	{
-		"chi"		"** **"
+		"chi"		"**雷吉艾斯使用咒语! **"
 	}
 	"REGICE USED ANCIENT POWER!"
 	{
-		"chi"		"** **"
+		"chi"		"**雷吉艾斯使用原始之力!(开启尸笼) **"
 	}
 	"GET OUT OF THE MIDDLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**远离中间! **"
+		"ico"   "icon_fire"
 	}
 	"REGICE USED CANNONBOLT"
 	{
-		"chi"		"** **"
+		"chi"		"**雷吉艾斯使用电磁炮 **"
 	}
 	"REGICE USED MIST(HEALING)"
 	{
-		"chi"		"** **"
+		"chi"		"**雷吉艾斯使用冻风(回血) **"
 	}
 	"REGICE USED ICEBEAM!"
 	{
-		"chi"		"** **"
+		"chi"		"**雷吉艾斯使用急冻光线(不要站蓝色点上) **"
 	}
 	"REGICE HAS FAINTED!"
 	{
-		"chi"		"** **"
+		"chi"		"**雷吉艾斯晕倒了 **"
 	}
 	"LEVEL 2 COMPLETED!"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关完成 **"
 	}
 	"MAP BY LV. 100 CROBAT"
 	{
@@ -162,203 +168,207 @@
 	}
 	"WELCOME TO SLATEPORT CITY"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到凱那市 **"
 	}
 	"***Stage: Level 3***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 	}
 	"GO TO THE BICYCLE ROAD"
 	{
-		"chi"		"** **"
+		"chi"		"**去自行车道路 **"
 	}
 	"TREES WILL BREAK IN 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在60秒后倒下 **"
 	}
 	"TREES WILL BREAK IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在30秒后倒下 **"
+		"DoorCountDown" "30"
 	}
 	"ESCAPE FROM SLATEPORT!"
 	{
-		"chi"		"** **"
+		"chi"		"**逃离凱那市! **"
 	}
 	"GO INSIDE THE HOUSE TO GO TO THE BIKE ROAD"
 	{
-		"chi"		"** **"
+		"chi"		"**进房子来到达自行车路 **"
 	}
 	"***Player has picked Chansey! (HEAL)***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取奶! **"
 	}
 	"***Player has picked Buizel! (WATER)***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取水! **"
 	}
 	"***Recharge: 45 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**充能:45秒 **"
 	}
 	"***Recharge: 80 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**充能:80秒 **"
 	}
 	"LETS SEE WHICH PATH WILL BE AVAIBLE"
 	{
-		"chi"		"** **"
+		"chi"		"**让我们看看哪条路可以走 **"
 	}
 	"Dont stay here for too long."
 	{
-		"chi"		"** **"
+		"chi"		"**不要在这里呆太久 **"
 	}
 	"***Player has picked Gardevoir! (WALL)***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取墙 **"
 	}
 	"***Recharge: 60 Seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**充能:60秒 **"
 	}
 	"LEFT PATH OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**左道路开放 **"
 	}
 	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点1将在45秒后准备传送 **"
+		"DoorCountDown" "45"
 	}
 	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点1将在10秒后准备传送 **"
 	}
 	"DEFEND THIS AREA FOR 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个地方60秒**"
 	}
 	"DEFEND THIS AREA FOR 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个地方30秒 **"
+		"DoorCountDown" "30"
 	}
 	"DEFEND THIS AREA FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个地方10秒 **"
 	}
 	"PKMN Trainer Wally wants to fight"
 	{
-		"chi"		"** **"
+		"chi"		"**口袋妖怪训练师小光想决斗 **"
 	}
 	"Wally: GO KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:去吧奇鲁莉安 **"
 	}
 	"Wally: GO KIRLIA!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:去吧奇鲁莉安! **"
 	}
 	"Wally: KIRLIA USE SHOCK WAVE!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:奇鲁莉安使用电击波! **"
 	}
 	"Wally: KIRLIA, RETURN!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:奇鲁莉安,回来! **"
 	}
 	"Wally: GO CROBAT!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:去吧叉字蝠! **"
 	}
 	"Wally: CROBAT USE TOXIC!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:叉字蝠使用猛毒素 **"
 	}
 	"Wally: CROBAT, RETURN"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:叉字蝠,回来 **"
 	}
 	"Wally: Ive been defeated...."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:我被打败了.... **"
 	}
 	"Wally: Today I couldnt beat you, but next time.."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:今天我不能打败你,但是下一次.. **"
 	}
 	"Wally: Next time will be harder."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:下一次将更难. **"
 	}
 	"DEFEND HERE FOR 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里20秒 **"
 	}
 	"DEFEND HERE FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里10秒 **"
 	}
 	"DEFEND HERE FOR 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里5秒 **"
 	}
 	"Lets take a rest before we continue"
 	{
-		"chi"		"** **"
+		"chi"		"**在继续之前让我们先休息一会 **"
 	}
 	"SHOOT GROUDON!"
 	{
-		"chi"		"** **"
+		"chi"		"**射击固拉多 **"
 	}
 	"GROUDON USED LIGHTSCREEN"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用光屏障 **"
 	}
 	"DESTROY THE LIGHTSCREEN"
 	{
-		"chi"		"** **"
+		"chi"		"**破坏光屏障 **"
 	}
 	"GROUDON USED ANCIENTPOWER"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用原始力量 **"
 	}
 	"ZOMBIES ARE COMMING, GET READY"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了准备好 **"
 	}
 	"GROUDON HAS FAINTED, LETS GO"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多晕倒了，GOGOGO **"
 	}
 	"ITS WALLY!?"
 	{
-		"chi"		"** **"
+		"chi"		"**它是小光!?**"
 	}
 	"Wally: ITS NOT OVER YET GUYS."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:然而并没有结束 **"
 	}
 	"Wally: KIRLIA, USE BARRIER!"
 	{
-		"chi"		"** **"
+		"chi"		"**奇鲁莉安,使用栅栏 **"
 	}
 	"SHOOT KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**射击奇鲁莉安 **"
 	}
 	"Wally: ILL BE BACK!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:我还会回来的! **"
 	}
 	"DEFEND HERE FOR 35 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里35秒 **"
+		"DoorCountDown" "35"
 	}
 	"20 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒 **"
 	}
 	"10 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒 **"
 	}
 	"5"
 	{
@@ -382,11 +392,11 @@
 	}
 	"LEVEL 3 COMPLETED"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关完成 **"
 	}
 	"***Stage: Level 4***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关 **"
 	}
 	"GO TO THE EOLIC VALLEY"
 	{
@@ -394,7 +404,7 @@
 	}
 	"AND ACTIVATE THE TELEPORTER"
 	{
-		"chi"		"** **"
+		"chi"		"**激活传送点 **"
 	}
 	"EOLIC VALLEY WAS TURNED ON"
 	{
@@ -402,59 +412,62 @@
 	}
 	"DEFEND HERE FOR 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里30秒 **"
+		"DoorCountDown" "30"
 	}
 	"5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"ITS WALLY!"
 	{
-		"chi"		"** **"
+		"chi"		"**它是小光! **"
 	}
 	"Wally: CROBAT USE SLUDGE BOMB!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:叉字蝠使用毒液炸弹 **"
 	}
 	"GET DOWN!"
 	{
-		"chi"		"** **"
+		"chi"		"**下来! **"
+		"ico"   "icon_fire"
 	}
 	"Wally: Good job Crobat, lets get out."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:干的漂亮叉字蝠，我们走吧 **"
 	}
 	"PATH CLEAR, LETS GO!"
 	{
-		"chi"		"** **"
+		"chi"		"**障碍清除，GOGOGO **"
 	}
 	"PALKIA DOOR OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**帕路奇犽打开大门 **"
 	}
 	"DEFEND FOR 45 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒 **"
+		"DoorCountDown" "45"
 	}
 	"TELEPORTER ENABLED!"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点开启 **"
 	}
 	"SPEAR PILAR ENTRANCE IS BLOCKED"
 	{
-		"chi"		"** **"
+		"chi"		"**枪柱入口受到阻碍 **"
 	}
 	"DEFEND FOR 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
 	}
 	"DEFEND FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒 **"
 	}
 	"LETS GO"
 	{
-		"chi"		"** **"
+		"chi"		"**GOGOGO! **"
 	}
 	"Ceres: Where do you think youre going?"
 	{
@@ -606,47 +619,47 @@
 	}
 	"A portal to the Distortion World opened, lets go in."
 	{
-		"chi"		"** **"
+		"chi"		"**一个扭曲的世界的大门已打开，让我们进去. **"
 	}
 	"Weve arrived to the Distortion World."
 	{
-		"chi"		"** **"
+		"chi"		"**我们到达了扭曲的世界 **"
 	}
 	"We have to defeat GIRATINA to get everything back to normal."
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须打败骑拉帝纳来让一切恢复正常 **"
 	}
 	"Press the 3 buttons on different islands to continue."
 	{
-		"chi"		"** **"
+		"chi"		"**按3个不同岛屿上的开关来继续 **"
 	}
 	"1ST BARRIER DESTROYED"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个屏障被破坏 **"
 	}
 	"2ND BARRIER DESTROYED!"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个屏障被破坏 **"
 	}
 	"3RD BARRIER DESTROYED"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个屏障被破坏 **"
 	}
 	"ALL BARRIERS DESTROYED, DEFEND HERE FOR 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**所有屏障被破坏，守住这里60秒 **"
 	}
 	"30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒 **"
 	}
 	"15 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒 **"
 	}
 	"LETS GO!"
 	{
-		"chi"		"** **"
+		"chi"		"**GOGOGO! **"
 	}
 	"Cyrus: I wont let you guys fight that Pokemon of the Shadows."
 	{
@@ -658,7 +671,7 @@
 	}
 	"Dont get too close."
 	{
-		"chi"		"** **"
+		"chi"		"**不要靠的太近 **"
 	}
 	"Cyrus want to fight!"
 	{
@@ -670,47 +683,47 @@
 	}
 	"THE MIDDLE PLATFORM WILL BREAK IN 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**中间平台将在5秒后断裂 **"
 	}
 	"Cyrus: Honchkrow use Night Slash"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:乌鸦头头使用试刀(准备跳刀) **"
 	}
 	"DODGE THE SLASHES!"
 	{
-		"chi"		"** **"
+		"chi"		"**躲刀 **"
 	}
 	"Cyrus: Honchkrow use Psychic"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:乌鸦头头使用超能力 **"
 	}
 	"Honchkrow has fainted"
 	{
-		"chi"		"** **"
+		"chi"		"**乌鸦头头晕倒了 **"
 	}
 	"Cyrus: Go, Crobat!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:去吧,叉字蝠! **"
 	}
 	"Cyrus: Crobat use Antonish."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用恐吓 **"
 	}
 	"Crobat has fainted."
 	{
-		"chi"		"** **"
+		"chi"		"**叉字蝠晕倒了 **"
 	}
 	"Cyrus: Go, Weavile"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:去吧玛狃拉 **"
 	}
 	"Cyrus: Weavile use Beat Up."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:玛狃拉使用痛打 **"
 	}
 	"Weavile has fainted."
 	{
-		"chi"		"** **"
+		"chi"		"**玛狃拉晕倒了 **"
 	}
 	"Cyrus: I wont accept this! This cant be!"
 	{
@@ -758,75 +771,77 @@
 	}
 	"WE WILL BATTLE GIRATINA IN 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**我们将在20秒后迎战骑拉帝纳 **"
 	}
 	"WE WILL BATTLE GIRATINA IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**我们将在10秒后迎战骑拉帝纳 **"
 	}
 	"SHOOT GIRATINA!"
 	{
-		"chi"		"** **"
+		"chi"		"**射击骑拉帝纳 **"
 	}
 	"GIRATINA HAS FAINTED!"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳晕倒了**"
 	}
 	"**BACKPEDAL**"
 	{
-		"chi"		"** **"
+		"chi"		"**改变主意了!跳刀跳刀跳刀! **"
 	}
 	"**WATCHOUT WITH CROBAT**"
 	{
-		"chi"		"** **"
+		"chi"		"**注意观察叉字蝠(面向叉字蝠跳刀) **"
+		"ico"   "icon_fire"
 	}
 	"**ZOMBIES TELEPORTED**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸传送 **"
 	}
 	"**SHOOT CROBAT TO CLEAR THE PATH**"
 	{
-		"chi"		"** **"
+		"chi"		"**射击叉字蝠清除阻碍 **"
 	}
 	"**DODGE THE AERIAL ACES**"
 	{
-		"chi"		"** **"
+		"chi"		"**躲开燕反 **"
 	}
 	"**CROBAT FAINTED, PATH CLEAR**"
 	{
-		"chi"		"** **"
+		"chi"		"**叉字蝠晕倒了，障碍清除 **"
 	}
 	"**DEFEND FOR 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"**10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒 **"
 	}
 	"**STAY IN THIS PLATFORM, OR YOU WILL GET PUNISHED**"
 	{
-		"chi"		"** **"
+		"chi"		"**呆在这个平台上面,否则你将会受到惩罚 **"
 	}
 	"**Cyrus: You may have defeated the shadow Pokemon**"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:你已经打败了这个幽灵系口袋妖怪 **"
 	}
 	"**Cyrus: Weavile, Night Slash Barrage**"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:玛狃拉,试刀 **"
 	}
 	"**Cyrus: But you still have to deal with me**"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:但是你还是得和我过招 **"
 	}
 	"**Cyrus has been defeated**"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日失败了 **"
 	}
 	"**LEVEL 4 COMPLETED**"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关完成 **"
 	}
 	"**MAP BY LEVEL 100 CROBAT**"
 	{
@@ -834,67 +849,69 @@
 	}
 	"**SPECIAL THANKS: ANTITEAL**"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢:ANTITEAL **"
 	}
 	"MIDDLE PATH OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**中间道路开放 **"
 	}
 	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点2将在45秒后准备传送 **"
+		"DoorCountDown" "45"
 	}
 	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点2将在10秒后准备传送 **"
 	}
 	"Cyrus: Crobat, use Cross Venom."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用十字毒刃 **"
 	}
 	"Cyrus: Crobat use Toxic."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用猛毒素 **"
 	}
 	"Cyrus: Crobat, use Cross Venom"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用十字毒刃 **"
 	}
 	"Weavile has restored 2000HP."
 	{
-		"chi"		"** **"
+		"chi"		"**玛狃拉恢复2000血 **"
 	}
 	"Cyrus: Honchkrow, use Roost!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:乌鸦头头使用歇羽 **"
 	}
 	"Honchkrow has restored 2000HP!"
 	{
-		"chi"		"** **"
+		"chi"		"**乌鸦头头恢复2000血 **"
 	}
 	"GIRATINA USED DRAGON CLAW!"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳使用龙爪 **"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳使用黑暗力量 **"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
-		"chi"		"** **"
+		"chi"		"**快速爬上梯子! **"
 	}
 	"DIALGA DOOR OPEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**帝牙卢卡打开大门 **"
 	}
 	"DEFEND FOR 30 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	"10 MORE SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒 **"
 	}
 	"ZOMBIES TRAPP.."
 	{
@@ -902,42 +919,44 @@
 	}
 	"Wally: Kirlia, teleport them out."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:奇鲁莉安,传送他们出来 **"
 	}
 	"ZOMBIES OUT, GET OUT OF HERE!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸出去，从这里出去! **"
 	}
 	"RIGHT PATH OPEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**右边道路开放 **"
 	}
 	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点3将在45秒后准备传送 **"
+		"DoorCountDown" "45"
 	}
 	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点3将在10秒后准备传送 **"
 	}
 	"Wally: KIRLIA USE TELEPORT"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:奇鲁莉安使用传送 **"
 	}
 	"GROUDON USED FISSURE!"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用地裂 **"
 	}
 	"GET ON THE SIDE PLATFORMS!"
 	{
-		"chi"		"** **"
+		"chi"		"**上侧平台! **"
+		"ico"   "icon_fire"
 	}
 	"GROUDON USED ROCK TOMB!"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用岩石封 **"
 	}
 	"WERE TRAPPED, DESTROY THE TOMB!"
 	{
-		"chi"		"** **"
+		"chi"		"**被困,破坏岩石 **"
 	}
 }
