@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Documents
 -------------
 
@@ -19,6 +20,12 @@ Documents
 	"chi"		"**boss 出现了**"
 	"command" "sm_clearbosshp" //作用是血量计数归0 使其更加精确 每回合也会自动归0.
 }
+=======
+１．禁止使用特殊字符 如/\＂“　等符号
+２．禁止删除引号　"　删除括号如　{　}．
+３．禁止修改地图主语句　如	"*** The Train Will Leave in 5 seconds ***"
+４．禁止换行
+>>>>>>> parent of 391c19a... no message
 
 > "*** boss dead ***"
 {
