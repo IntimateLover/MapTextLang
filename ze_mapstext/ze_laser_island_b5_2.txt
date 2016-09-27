@@ -180,18 +180,19 @@
 	}
 	"** wo men hui zai 45 miao hou zha diao zhe dui shi tou **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们会在45秒后炸掉这堆石头 **"
+		"DoorCountDown"		"45"
 	}
 	"** jiang shi deng shang le fei ji **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸登上了飞机 **"
 	}
 	"** GG **"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	"** jiang shi shang chuan le , GG **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上船了.本关失败 **"
 	}
 }
