@@ -840,7 +840,7 @@
 		"chi"		"镜之边缘"
 		"credit"		"400"
 	}
-	"ze_santassination_v3"
+	"ze_santassination_v2"
 	{
 		"chi"		"狮子王"
 		"credit"		"1500"
@@ -1087,7 +1087,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_rizomata_c17"
+	"ze_rizomata_z31"
 	{
 		"chi"		"精灵塔"
 	}
@@ -1152,7 +1152,7 @@
 	}
 	"ze_hidden_temple_v1_8"
 	{
-		"chi"		"隐秘神庙"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_jurassicpark_evolved_v4"
 	{
@@ -1160,7 +1160,7 @@
 	}
 	"ze_mountain_escape_snow_v3"
 	{
-		"chi"		"爬雪山"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_negative_legacy_beta8"
 	{
@@ -1204,7 +1204,7 @@
 	}
 	"ze_zombierig_p2"
 	{
-		"chi"		"僵尸钻井平台"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_floatingisland_b6"
 	{
@@ -1270,7 +1270,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_ffxiv_wanderers_palace_v4_5zz"
+	"ze_ffxiv_wanderers_palace_v4_5f"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}
@@ -1316,7 +1316,7 @@
 	}
 	"ze_Paranoid_Rezurrection_v11_9_th10"
 	{
-		"chi"		"游乐园"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_christmas_infection_p"
 	{
@@ -1324,7 +1324,7 @@
 	}
 	"ze_adventure_of_roof_p2"
 	{
-		"chi"		"屋顶大冒险"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
@@ -1334,17 +1334,17 @@
 	{
 		"chi"		"屋顶大冒险"
 	}
-	"ze_ffxiv_wanderers_palace_v4_5z"
+	"ze_platformer_b5"
+	{
+		"chi"		"浮空岛游戏b5"
+	}
+	"ze_ffxiv_wanderers_palace_v4_6"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}
 	"ze_PKMN_Adventure_v6_3"
 	{
 		"chi"		"跳刀神奇宝贝"
-	}
-	"ze_roof_adventure_p7"
-	{
-		"chi"		"屋顶大冒险"
 	}
 	"ze_nuclear_warhouse_by_gm"
 	{
