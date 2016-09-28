@@ -47,7 +47,7 @@
 	}
 	"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
 	{
-		"chi"		"**第五个开关已被按下，最后一堵墙（圆球）要倒塌了 **"
+		"chi"		"**第五个开关已被按下，最后一堵墙（气球）要倒塌了 **"
 		"DoorCountDown"		"15"
 	}
 	"** At some point in the journey, the traveller is given a hand. **"
@@ -219,7 +219,7 @@
 	}
 	"** Lasciate ogne speranza, o voi chintrate. **"
 	{
-		"chi"		"**放弃所有的希望，然而这是意大利文，我TM看不懂  **"
+		"chi"		"**放弃所有的希望，你们谁将进入。  **"
 	}
 	"** The tide shall turn as we see a little man crashing through a window... **"
 	{
@@ -331,10 +331,10 @@
 	}
 	"** Poor King Cool! Dreams and dreams of hamboighas he cant eat! **"
 	{
-		"chi"		"** **"
+		"chi"		"**可怜的国外COOL！梦想着那些他无法吃到的汉堡（喂他吃汉堡） **"
 	}
 	"** ...these words that lie forever, never turned to strokes by hand... **"
 	{
-		"chi"		"** **"
+		"chi"		"**这些永恒沉睡的言语，却无法成为紧握手中的根根画笔 **"
 	}
 }
