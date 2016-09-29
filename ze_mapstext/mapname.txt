@@ -1017,15 +1017,6 @@
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
 	}
-	"ze_mountain_escape_snow_v2_9"
-	{
-		"chi"		"爬雪山"
-	}
-	"ze_gris_b1f"
-	{
-		"chi"		"创世E"
-		"credit"		"500"
-	}
 	"ze_stalker_ultimate_v1"
 	{
 		"chi"		"切尔诺贝利核电站"
@@ -1103,17 +1094,6 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"<<<<<<<"		"HEAD"
-	"ze_ripsuhdude_v1_6"		"======="
-	"ze_mountain_escape_snow_v2"
-	{
-		"chi"		"爬雪山"
-	}
-	"ze_ripsuhdude_v1_5"		">>>>>>>"
-	"29326ab7dc2dfe82468f1e7d0b62135cd505d684"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_stalker_ultimate_v4"
 	{
 		"chi"		"切尔诺贝利核电站"
@@ -1155,10 +1135,6 @@
 		"chi"		"此地图暂无译名"
 	}
 	"ze_jurassicpark_evolved_v4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_mountain_escape_snow_v3"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1230,7 +1206,7 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_mountain_escape_snow_v3_2"
+	"ze_mountain_escape_snow_v4_1"
 	{
 		"chi"		"爬雪山"
 	}
@@ -1269,10 +1245,6 @@
 	"ze_venice_escape_p3"
 	{
 		"chi"		"威尼斯水域大逃亡"
-	}
-	"ze_ffxiv_wanderers_palace_v4_5f"
-	{
-		"chi"		"最终幻想14：流浪者宫殿"
 	}
 	"ze_gris_v1_9_5"
 	{
@@ -1328,7 +1300,7 @@
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
-		"chi"		"最终幻想12：帕里米亚"
+		"chi"		"最终幻想12帕里米亚"
 	}
 	"ze_roof_adventure_v2_2"
 	{
@@ -1338,9 +1310,9 @@
 	{
 		"chi"		"浮空岛游戏b5"
 	}
-	"ze_ffxiv_wanderers_palace_v4_6"
+	"ze_ffxiv_wanderers_palace_v4_7"
 	{
-		"chi"		"最终幻想14：流浪者宫殿"
+		"chi"		"最终幻想14流浪者宫殿"
 	}
 	"ze_PKMN_Adventure_v6_3"
 	{
@@ -1350,4 +1322,9 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
+	"ze_chrono_trigger_a4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	
 }
