@@ -29,12 +29,12 @@
 	}
 	"*** EARTH STOMP ***"
 	{
-		"chi"		"**大地震击（看头顶躲避石柱） **"
+		"chi"		"**大地践踏（看头顶躲避石柱） **"
 		"ico"		"icon_fire"
 	}
 	"*** EARTH SHOCK ***"
 	{
-		"chi"		"**大地践踏（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀） **"
+		"chi"		"**大地震击（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀） **"
 		"ico"		"icon_fire"
 	}
 	"***CRUSTAL MOVEMENT ***"
@@ -93,13 +93,12 @@
 	"*** FROZEN WATER ***"
 	{
 		"chi"		"**千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管）**"
-		"DoorCountDown"		"7"
+		"DoorCountDown"		"6"
 		"ico"		"icon_fire"
 	}
 	"*** RISING WATER ***"
 	{
-		"chi"		"**水面上升（不用管） **"
-		"ico"		"icon_fire"
+		"chi"		"**水面上升 **"
 	}
 	"*** FREEZING COFFIN ***"
 	{
@@ -113,13 +112,12 @@
 	}
 	"*** GUST ***"
 	{
-		"chi"		"**狂风 **"
+		"chi"		"**狂风（朝着BOSS按W）**"
 		"ico"		"icon_fire"
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**高空爆炸 **"
-		"ico"		"icon_fire"
+		"chi"		"**大气爆发**"
 	}
 	"*** Hold 50 seconds ***"
 	{
@@ -128,22 +126,22 @@
 	}
 	"*** UPDRAFT ***"
 	{
-		"chi"		"**气流上升 **"
+		"chi"		"**上升气流（被吹到天上往下看调整位置） **"
 		"ico"		"icon_fire"
 	}
 	"*** EYE OF THE STORM ***"
 	{
-		"chi"		"**暴风之眼 **"
-		"ico"		"icon_fire"
+		"chi"		"**暴风之眼**"
 	}
 	"*** DOWNBURST ***"
 	{
-		"chi"		"**下冲气流 **"
+		"chi"		"**下爆气流**"
 		"ico"		"icon_fire"
+		"DoorCountDown"		"3"
 	}
 	"*** TORNADO ***"
 	{
-		"chi"		"**龙卷风 **"
+		"chi"		"**龙卷风（一直走动直到龙卷风出现）**"
 		"ico"		"icon_fire"
 	}
 	"*** CRUSTAL MOVEMENT ***"
