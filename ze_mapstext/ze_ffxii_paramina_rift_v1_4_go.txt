@@ -73,7 +73,7 @@
 	}
 	"** 15 TOWERS DESTROYED! **"
 	{
-		"chi"		"**水晶塔已被破坏+15GIL**"
+		"chi"		"**1/5水晶塔已被破坏**"
 	}
 	"** Player has learned AERO (wind lvl2) **"
 	{
@@ -89,7 +89,7 @@
 	}
 	"** 25 TOWERS DESTROYED! **"
 	{
-		"chi"		"**水晶塔已被破坏+25GIL**"
+		"chi"		"**2/5水晶塔已被破坏**"
 	}
 	"** 5 SECONDS LEFT **"
 	{
@@ -138,7 +138,7 @@
 	}
 	"** 35 TOWERS DESTROYED! **"
 	{
-		"chi"		"**水晶塔已被破坏+35GIL**"
+		"chi"		"**3/5水晶塔已被破坏**"
 	}
 	"** THE RIGHT WAY HAS BEEN OPENED **"
 	{
@@ -224,7 +224,7 @@
 	}
 	"** 45 TOWERS DESTROYED! **"
 	{
-		"chi"		"**水晶塔已被破坏+45GIL**"
+		"chi"		"**4/5水晶塔已被破坏**"
 	}
 	"** YOU HAVE COMPLETED THE SIDE QUEST **"
 	{
@@ -713,7 +713,7 @@
 	}
 	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
 	{
-		"chi"		"** **"
+		"chi"		"**它已经死了!快逃到树林里去**"
 	}
 	"** END OF THE LINE **"
 	{
@@ -725,99 +725,99 @@
 	}
 	"15 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：15**"
 	}
 	"0 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：0**"
 	}
 	"23 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：23**"
 	}
 	"20 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：20**"
 	}
 	"18 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：18**"
 	}
 	"13 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：13**"
 	}
 	"10 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：10**"
 	}
 	"8 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：8**"
 	}
 	"5 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：5**"
 	}
 	"3 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：3**"
 	}
 	"43 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：43**"
 	}
 	"40 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：40**"
 	}
 	"38 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：38**"
 	}
 	"35 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：35**"
 	}
 	"33 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：33**"
 	}
 	"30 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：30**"
 	}
 	"28 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：28**"
 	}
 	"25 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：25**"
 	}
 	"48 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：48**"
 	}
 	"45 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：45**"
 	}
 	"63 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：63**"
 	}
 	"60 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：60**"
 	}
 	"83 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：83**"
 	}
 	"80 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：80**"
 	}
 	"** BULLETSNADES DOES 200 . DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
@@ -825,67 +825,67 @@
 	}
 	"58 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：58**"
 	}
 	"55 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：55**"
 	}
 	"53 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：53**"
 	}
 	"50 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：50**"
 	}
 	"78 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：78**"
 	}
 	"75 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：75**"
 	}
 	"73 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：73**"
 	}
 	"95 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：95**"
 	}
 	"93 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：93**"
 	}
 	"65 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：65**"
 	}
 	"70 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：70**"
 	}
 	"68 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：68**"
 	}
 	"90 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：90**"
 	}
 	"88 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：88**"
 	}
 	"85 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：85**"
 	}
 	"98 . STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱值：98**"
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 2 INSANE **"
 	{
@@ -893,15 +893,15 @@
 	}
 	"35 GIL OBTAINED BY DEACTIVATING A TOWER"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶塔已被破坏+35GIL**"
 	}
 	"15 TOWERS DESTROYED!"
 	{
-		"chi"		"** **"
+		"chi"		"**1/5水晶塔已被破坏**"
 	}
 	"TREASURE +100 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+100GIL**"
 	}
 	"** Player has learned CURE -- Level 1 **"
 	{
@@ -949,67 +949,67 @@
 	}
 	"** STAGGERED (15 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有15秒)**"
 	}
 	"** STAGGERED (14 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有14秒)**"
 	}
 	"** STAGGERED (13 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有13秒)**"
 	}
 	"** STAGGERED (12 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有12秒)**"
 	}
 	"** STAGGERED (11 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有11秒)**"
 	}
 	"** STAGGERED (10 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有10秒)**"
 	}
 	"** STAGGERED (9 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有19秒)**"
 	}
 	"** STAGGERED (8 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有8秒)**"
 	}
 	"** STAGGERED (7 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有7秒)**"
 	}
 	"** STAGGERED (6 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有6秒)**"
 	}
 	"** STAGGERED (5 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有5秒)**"
 	}
 	"** STAGGERED (4 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有4秒)**"
 	}
 	"** STAGGERED (3 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有3秒)**"
 	}
 	"** STAGGERED (2 SECS LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有2秒)**"
 	}
 	"** STAGGERED (1 SEC LEFT) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(还有1秒)**"
 	}
 	"** STAGGERED (DONE) **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱中(结束)**"
 	}
 	"** YOU KILLED MATEUS **"
 	{
@@ -1029,19 +1029,19 @@
 	}
 	"TREASURE +1 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+1GIL**"
 	}
 	"TREASURE +71 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+71GIL**"
 	}
 	"TREASURE +53 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+53GIL**"
 	}
 	"TREASURE +87 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+87GIL**"
 	}
 	"** YOU DEFEATED MATEUS **"
 	{
@@ -1057,15 +1057,15 @@
 	}
 	"25 TOWERS DESTROYED!"
 	{
-		"chi"		"** **"
+		"chi"		"**2/5水晶塔已被破坏**"
 	}
 	"35 TOWERS DESTROYED!"
 	{
-		"chi"		"** **"
+		"chi"		"**3/5水晶塔已被破坏**"
 	}
 	"45 TOWERS DESTROYED!"
 	{
-		"chi"		"** **"
+		"chi"		"**4/5水晶塔已被破坏**"
 	}
 	"** Player has learned FIRAGA -- Level 5 **"
 	{
@@ -1081,7 +1081,7 @@
 	}
 	"ALL TOWERS DESTROYED!"
 	{
-		"chi"		"** **"
+		"chi"		"**所有水晶塔都被破坏了！**"
 	}
 	"** BARRIER 2 OPENS IN 20 SECS **"
 	{
@@ -1121,7 +1121,7 @@
 	}
 	"TREASURE +64 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+64GIL**"
 	}
 	"** Player has learned BLIZZARA -- Level 4 **"
 	{
@@ -1137,178 +1137,178 @@
 	}
 	"TREASURE +27 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+27GIL**"
 	}
 	"Warmup Round - 40 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有40秒**"
 	}
 	"Warmup Round - 39 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有39秒**"
 	}
 	"Warmup Round - 38 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有38秒**"
 	}
 	"Warmup Round - 37 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有37秒**"
 	}
 	"Warmup Round - 36 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有36秒**"
 	}
 	"Warmup Round - 35 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有35秒**"
 	}
 	"Warmup Round - 34 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有34秒**"
 	}
 	"Warmup Round - 33 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有33秒**"
 	}
 	"Warmup Round - 32 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有32秒**"
 	}
 	"Warmup Round - 31 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有31秒**"
 	}
 	"Warmup Round - 30 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有30秒**"
 	}
 	"Warmup Round - 29 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有29秒**"
 	}
 	"Warmup Round - 28 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有28秒**"
 	}
 	"Warmup Round - 27 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有27秒**"
 	}
 	"Warmup Round - 26 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有26秒**"
 	}
 	"Warmup Round - 25 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有25秒**"
 	}
 	"Warmup Round - 24 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有24秒**"
 	}
 	"Warmup Round - 23 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有23秒**"
 	}
 	"Warmup Round - 22 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有22秒**"
 	}
 	"Warmup Round - 21 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有21秒**"
 	}
 	"Warmup Round - 20 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有20秒**"
 	}
 	"Warmup Round - 19 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有19秒**"
 	}
 	"Warmup Round - 18 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有18秒**"
 	}
 	"Warmup Round - 17 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有17秒**"
 	}
 	"Warmup Round - 16 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有16秒**"
 	}
 	"Warmup Round - 15 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有15秒**"
 	}
 	"Warmup Round - 14 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有14秒**"
 	}
 	"Warmup Round - 13 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有13秒**"
 	}
 	"Warmup Round - 12 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有12秒**"
 	}
 	"Warmup Round - 11 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有11秒**"
 	}
 	"Warmup Round - 10 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有10秒**"
 	}
 	"Warmup Round - 9 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有9秒**"
 	}
 	"Warmup Round - 8 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有8秒**"
 	}
 	"Warmup Round - 7 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有7秒**"
 	}
 	"Warmup Round - 6 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有6秒**"
 	}
 	"Warmup Round - 5 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有5秒**"
 	}
 	"Warmup Round - 4 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有4秒**"
 	}
 	"Warmup Round - 3 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有3秒**"
 	}
 	"Warmup Round - 2 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有2秒**"
 	}
 	"Warmup Round - 1 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有1秒**"
 	}
 	"Warmup Round - 0 Seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**热身局 - 还有0秒**"
 	}
 	"TREASURE +120 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+120GIL**"
 	}
 	"TREASURE +113 GIL FOUND"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+113GIL**"
 	}
 }
