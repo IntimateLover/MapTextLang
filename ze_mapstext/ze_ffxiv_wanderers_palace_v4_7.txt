@@ -158,8 +158,8 @@
 	}
 	"*** Behemoth King Appeared ***"
 	{
-		"chi"		"**巨兽王出现 **"
-		  "command" "sm_clearbosshp"
+		"chi"		"**巨兽王出现 **
+		"command" "sm_clearbosshp"
 	}
 	"*** Shoot him ***"
 	{
@@ -188,7 +188,7 @@
 	"*** Behemoth King dead ***"
 	{
 		"chi"		"**巨兽王死了 **"
-		  "command" "sm_clearbosshp"
+		"command" "sm_clearbosshp"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
@@ -257,8 +257,8 @@
 	}
 	"***Bahamut Prime appeared***"
 	{
-		"chi"		"**巴哈姆特出现 **"
-		  "command" "sm_clearbosshp"
+		"chi"		"**巴哈姆特出现 **
+		"command" "sm_clearbosshp"
 	}
 	"***Bahamut Prime is Casting now***"
 	{
@@ -316,7 +316,7 @@
 	"***Bahamut Prime dead***"
 	{
 		"chi"		"**巴哈姆特受伤 **"
-		  "command" "sm_clearbosshp"
+		"command" "sm_clearbosshp"
 	}
 	"*** 15 seconds to activate Elevator ***"
 	{
@@ -452,7 +452,7 @@
 	}
 	"*** Sentence to death ***"
 	{
-		"chi"		"**死亡裁决（看清位置躲避） **"
+		"chi"		"**死亡裁决（巴哈姆特：接受死亡的制裁吧！）**"
 	}
 	"*** True Heavens fall ***"
 	{
