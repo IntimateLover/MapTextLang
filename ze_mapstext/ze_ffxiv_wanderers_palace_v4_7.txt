@@ -159,7 +159,7 @@
 	"*** Behemoth King Appeared ***"
 	{
 		"chi"		"**巨兽王出现 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Shoot him ***"
 	{
@@ -188,7 +188,7 @@
 	"*** Behemoth King dead ***"
 	{
 		"chi"		"**巨兽王死了 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
@@ -258,7 +258,7 @@
 	"***Bahamut Prime appeared***"
 	{
 		"chi"		"**巴哈姆特出现 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"***Bahamut Prime is Casting now***"
 	{
@@ -316,7 +316,7 @@
 	"***Bahamut Prime dead***"
 	{
 		"chi"		"**巴哈姆特受伤 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"*** 15 seconds to activate Elevator ***"
 	{
@@ -339,7 +339,7 @@
 	"*** Nael Van Dahrnus Appeared ***"
 	{
 		"chi"		"**宫殿守卫出现 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Kill HER ***"
 	{
@@ -348,7 +348,7 @@
 	"*** Nael Dead ***"
 	{
 		"chi"		"**宫殿守卫死了 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"***Earth Shaker***"
 	{
@@ -443,7 +443,7 @@
 	"*** True Bahamut appeared ***"
 	{
 		"chi"		"**（真）巴哈姆特到来 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Steam Judge ***"
 	{
@@ -467,7 +467,7 @@
 	"*** True Bahamut dead ***"
 	{
 		"chi"		"**巴哈姆特死亡 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"*** 45 seconds to Open Wall ***"
 	{
@@ -485,7 +485,7 @@
 	"*** Dead ***"
 	{
 		"chi"		"**宫殿守卫死了 **"
-		"command"		"sm_clearbosshp"
+		  "command" "sm_clearbosshp"
 	}
 	"*** Odin Appeared ***"
 	{
@@ -498,37 +498,5 @@
 	"*** Ultimate mode incoming.... ***"
 	{
 		"chi"		"**最终关卡导入中.... **"
-	}
-	"*** Human Killer ON ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ze_ffxiv_wanderers_palace...? ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Level:Ultimate ***"
-	{
-		"chi"		"** **"
-	}
-	"*** This mode is Secret mode ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Chances are once only ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Level set .... Next Level Normal ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Random Item breaker Activate... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Shield Oath ***"
-	{
-		"chi"		"** **"
 	}
 }

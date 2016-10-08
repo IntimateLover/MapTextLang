@@ -547,7 +547,7 @@
 	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**最后的传送点30秒后激活**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -608,7 +608,7 @@
 	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
 	{
 		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 		"ico"		"icon_fire"
 	}
 	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
@@ -879,7 +879,7 @@
 	"*** Star road will active in 20 seconds ***"
 	{
 		"chi"		"**星光大道将在20秒后启动 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Star road will active in 5 seconds ***"
 	{
@@ -1194,6 +1194,162 @@
 		"chi"		"**EX1按钮按下 **"
 	}
 	"*** FIRST PORTAL ACTIVATED in 20 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING : FAST SPAWN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WHAT !! where is there...? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Be careful !! ***"
+	{
+		"chi"		"** **"
+	}
+	"????? : I saw you when you were fighting with my brother ...."
+	{
+		"chi"		"** **"
+	}
+	"????? : Im cute clouds sister..."
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : and... you defeated my brother..."
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : I will avenge the death...!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : Lets fight with me !!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : OMG...I was defeated..."
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : but... I prepared the machine for killing humans...!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : LOOK THE MY MACHINE !!!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : What do you think about this machine ???"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : I think.... Its very beautiful !!!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"WARNING : ZOMBIES ARE ALIVE !!!"
+	{
+		"chi"		"** **"
+	}
+	"*** HINT : Dont shoot the machine !! SHOOT THE her head !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : I...I cant die in here...!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : need....FULL POWER.....!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** She is awakening !!! Dont stop shooting !!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : What...? Machine error..!?"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : OH no!!! Please move !!!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : AHHHHHHHHHHHH !!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** You defeated Girl cloud ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shit!! Zombies come here!! Defend your self !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 15 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 14 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 13 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 12 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 11 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 10 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 9 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 8 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 7 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 6 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 5 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 4 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 3 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 2 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 1 SECONDS !! ***"
 	{
 		"chi"		"** **"
 	}

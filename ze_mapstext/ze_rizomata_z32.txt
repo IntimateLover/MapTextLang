@@ -149,4 +149,12 @@
 		"chi"		"**地壳运动（往山的左右两边跳上去，一直按着跳直到跳过去） **"
 		"ico"		"icon_fire"
 	}
+	"*** ZOMBIE GOT INSIDE THE LIFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE FAILED ***"
+	{
+		"chi"		"** **"
+	}
 }
