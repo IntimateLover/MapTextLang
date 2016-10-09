@@ -2,154 +2,154 @@
 {
 	"*** ze_Chrono_Trigger. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图：时空之轮 翻译：我不信没用户名 **"
 	}
 	"*** Version: Alpha 3 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**版本：A3 **"
 	}
 	"*** Teleporter activating in 25 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒后传送开启 **"
 	}
 	"*** Teleporter activating in 15 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后传送开启 **"
 	}
 	"*** Teleporter activating in 5 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送开启 **"
 	}
 	"*** Teleporter active! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送开启 **"
 	}
 	"*** Requesting access from Zeal Palace. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**请求访问zeal宫殿（咸鱼宫殿） **"
 	}
 	"*** Access granted. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核准 **"
 	}
 	"*** Teleporter activating in 35 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**35秒后传送开启 **"
 	}
 	"*** Teleporter activating in 30 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后传送开启 **"
 	}
 	"*** Zombies teleporting in 3 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒后传送开启! **"
 	}
 	"*** Teleporter activating in 20 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送开启 **"
 	}
 	"*** Teleporter activating in 10 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送开启 **"
 	}
 	"*** Bridge spawning in 20 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**桥在20秒后打开 **"
 	}
 	"*** Zombies teleporting in 3 seconds.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸3秒后传送 **"
 	}
 	"*** Bridge spawning in 10 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**桥在10秒后打开 **"
 	}
 	"*** Barrier 1 breaking in 20 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**屏障1将在20秒后打开 **"
 	}
 	"*** Barrier 1 breaking in 10 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**屏障1将在10秒后打开 **"
 	}
 	"*** Barrier 2 breaking in 10 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**屏障2将在10秒后打开 **"
 	}
 	"*** The temple is locked? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣殿被锁住了？ **"
 	}
 	"*** .... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**。。。。 **"
 	}
 	"*** Defend until something happens. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里！直到。。。 **"
 	}
 	"*** Zombies are teleporting in 3 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸3秒后传送 **"
 	}
 	"*** The door is open, fall back!. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了，快撤！ **"
 	}
 	"*** The door will be closing in 5 seconds.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣殿大门5秒后开始关闭 **"
 	}
 	"*** Lucca: This doesnt look like Zeal Palace. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Lucca：这看起来并不像Zeal宫殿（咸鱼宫殿） **"
 	}
 	"*** Lucca: With this machine in the middle, Id almost say it was ***"
 	{
-		"chi"		"** **"
+		"chi"		"**Lucca：带着设备站到中间去，我可以保证这是 **"
 	}
 	"*** ALERT: HUMANS DETECTED IN THE SECURITY SYSTEM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**警报：安全系统检测到人类 **"
 	}
 	"*** PREPARE TO BE ELIMINATED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备开始清楚 **"
 	}
 	"*** Security System used: Terminate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统使用了终极 **"
 	}
 	"*** Security System uses: Gravity ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统使用了重力 **"
 	}
 	"*** Security System uses: Delta Attack ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统使用了三角攻击 **"
 	}
 	"*** Security System uses: Reversal ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统使用了反转 **"
 	}
 	"*** Security System uses: Reduction ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统使用了减小还原 **"
 	}
 	"*** The Security System has been defeated. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全系统被打败了 **"
 	}
 	"*** ALERT! SELF DESTRUCT MODE INITIATING***"
 	{
-		"chi"		"** **"
+		"chi"		"**警报！自毁模式已经启动 **"
 	}
 	"*** Hurry, get in the teleporter! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快！快走，快去传送门 **"
 	}
 	"*** Stage 1 Completed! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡一完成 **"
 	}
 }
