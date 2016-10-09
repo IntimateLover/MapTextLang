@@ -170,16 +170,4 @@
 		"hammerid"		"138288"
 		"m_iname"		"kraken_box"
 	}
-	"|Admin Room|***Admin has changed difficulty to-LEVEL 3 ***"
-	{
-		"chi"		"** **"
-	}
-	">>> DOOR IS OPEN! RUN!!! <<<"
-	{
-		"chi"		">>>门开了！大家快跑！<<<"
-	}
-	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
-	{
-		"chi"		"**海怪对你使用了噗噗泡沫~~啊噗噗**"
-	}
 }

@@ -148,4 +148,32 @@
 	{
 		"chi"		"** **"
 	}
+	"***Welcome to roof adventure!***"
+	{
+		"chi"		"** **"
+	}
+	"*A player has picked health element[Lv1]!*"
+	{
+		"chi"		"** **"
+	}
+	"***The wood door will break in 30s!***"
+	{
+		"chi"		"** **"
+	}
+	"*hold for 45 seconds!*"
+	{
+		"chi"		"** **"
+	}
+	"*All zombies will be teleported in 9s!*"
+	{
+		"chi"		"** **"
+	}
+	"*hold for 15 seconds!*"
+	{
+		"chi"		"** **"
+	}
+	"***Shoot rock monster!***"
+	{
+		"chi"		"** **"
+	}
 }
