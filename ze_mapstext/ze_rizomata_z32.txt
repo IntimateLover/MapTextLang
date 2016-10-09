@@ -151,10 +151,10 @@
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入电梯 **"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败 **"
 	}
 }
