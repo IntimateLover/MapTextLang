@@ -117,7 +117,8 @@
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**大气爆发**"
+		"chi"		"**大气爆发(看清位置躲避从天上出来的刀波）**"
+	        "ico"		"icon_fire"
 	}
 	"*** Hold 50 seconds ***"
 	{
