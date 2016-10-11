@@ -590,4 +590,24 @@
 	{
 		"chi"		"** **"
 	}
+	"*** BARREL picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALL picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SWORD picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUBBLES picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HEAL picked up***"
+	{
+		"chi"		"** **"
+	}
 }

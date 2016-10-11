@@ -59,6 +59,10 @@
 		"chi"		"加勒比海盗"
 		"credit"		"400"
 	}
+	"ze_PotC_IV_p2"
+	{
+		"chi"		"加勒比海盗IV"
+	}
 	"ze_Random_p2"
 	{
 		"chi"		"随机小游戏"
@@ -805,10 +809,9 @@
 		"chi"		"火影村"
 		"credit"		"500"
 	}
-	"ze_rtcw_ominous_rumors_v1_1"
+	"ze_RTCW_Ominous_Rumors_p2"
 	{
 		"chi"		"重返德军总部"
-		"credit"		"600"
 	}
 	"ze_slender_b1"
 	{
@@ -1098,7 +1101,7 @@
 	{
 		"chi"		"急速撤离"
 	}
-	"ze_laser_island_b5_2"
+	"ze_laser_island_b5_3"
 	{
 		"chi"		"跳刀岛逃亡之旅"
 	}
@@ -1302,7 +1305,7 @@
 	{
 		"chi"		"浮空岛游戏b5"
 	}
-	"ze_ffxiv_wanderers_palace_v4_7"
+	"ze_ffxiv_wanderers_palace_v4_10"
 	{
 		"chi"		"最终幻想14流浪者宫殿"
 	}
@@ -1322,5 +1325,7 @@
 	{
 		"chi"		"纽约逃亡"
 	}
+	
+	
 }
 
