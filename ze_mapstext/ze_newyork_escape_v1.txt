@@ -2,51 +2,53 @@
 {
 	"*** Welcome in New York City Zombie Escape ***"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到到纽约市僵尸逃亡 **"
 	}
 	"*** Map by ziomekYOYO ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：ziomekYOYO 地图翻译：蓬莱山帅比♪ **"
 	}
 	"*** It seems that the helicopter is damaged ***"
 	{
-		"chi"		"** **"
+		"chi"		"**看来这架直升机已经坏了 **"
 	}
 	"*** You have to go down to the subway ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须去地铁站 **"
 	}
 	"*** Hold this position for a few seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里几秒钟... **"
 	}
 	"*** Train doors will open in 30 sec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**列车车门将在30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	"*** Train doors are Open ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"*** You need to Activate C4 !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要激活C4！！！ **"
 	}
 	"*** C4 Explode in 30 sec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在30秒后爆炸 **"
+		"DoorCountDown" "30"
 	}
 	"*** C4 Explode in 20 sec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在20秒后爆炸 **"
 	}
 	"*** C4 Explode in 10 sec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在10秒后爆炸 **"
 	}
 	"*** C4 Explode in 5 sec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在5秒后爆炸 **"
 	}
 	"*** 4... ***"
 	{
@@ -66,34 +68,35 @@
 	}
 	"*** The door will open for 30 sec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	"*** Doors are Open ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"*** You need stay close to the elevator doors to open it... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要靠近电梯门并打开它… **"
 	}
 	"*** Damn this shit is heavy.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**该死的.这太重了... **"
 	}
 	"*** Almost done.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**差不多了吧… **"
 	}
 	"*** Run to the Roof !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑到屋顶去！！！ **"
 	}
 	"*** Get to the Choppa !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**到达Choppa !!! **"
 	}
 	"*** The elevator is broken go upstairs ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯坏了！上楼！！ **"
 	}
 }
