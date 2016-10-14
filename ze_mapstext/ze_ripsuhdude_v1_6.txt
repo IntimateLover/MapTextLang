@@ -7,22 +7,22 @@
 	"***Gate will open in 20 seconds***"
 	{
 		"chi"		"**大门将在20秒后打开 **"
-		"DoorCountdown"         "20"
+		"DoorCountDown"		"20"
 	}
 	">>> Door will open in 10 seconds"
 	{
 		"chi"		"**门将在10秒后开启 **"
-		"DoorCountdown" "10"
+		"DoorCountDown"		"10"
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
 		"chi"		"**大门将在10秒后开启 **"
-		"DoorCountdown" "10"
+		"DoorCountDown"		"10"
 	}
 	">> Door will open in 40 seconds <<<"
 	{
 		"chi"		"**门将在40秒后开启 **"
-		"DoorCountdown" "40"
+		"DoorCountDown"		"40"
 	}
 	">>> Zombies will teleport in 10 seconds <<<"
 	{
@@ -31,12 +31,12 @@
 	">>> Bridge will open in 15 seconds <<<"
 	{
 		"chi"		"**大桥将在15秒后开始延伸 **"
-		"DoorCountdown" "15"
+		"DoorCountDown"		"15"
 	}
 	">>> Doors open in 25 seconds <<<"
 	{
 		"chi"		"**门25秒后开启 **"
-		"DoorCountdown" "25"
+		"DoorCountDown"		"25"
 	}
 	">>> Doors open in 5 seconds"
 	{
@@ -57,7 +57,7 @@
 	">>> Gate will open in 40 seconds <<<"
 	{
 		"chi"		"**大门将在40秒后开启 **"
-		"DoorCountdown" "40"
+		"DoorCountDown"		"40"
 	}
 	">>> Gate will open in 15 seconds <<<"
 	{
@@ -74,5 +74,25 @@
 	">>> KEEP DEFENDING <<<"
 	{
 		"chi"		"**继续防守，别划水！ **"
+	}
+	">>> Lasers disabled <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Zombie Inside final room, slaying all in 3 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Zombie inside final room, slaying all in 3 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">>> Someone needs to climb up and press the nuke <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Dont let zombies enter the final room, DEFEND !"
+	{
+		"chi"		"** **"
 	}
 }
