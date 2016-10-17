@@ -2,31 +2,32 @@
 {
 	"++ Ze Temple Escape ++"
 	{
-		"chi"		"** **"
+		"chi"		"**神庙逃亡 **"
 	}
 	"++ Original map by Matias-TM ++"
 	{
-		"chi"		"** **"
+		"chi"		"**原始地图制作：Matias-TM 地图翻译：蓬莱山帅比♪ **"
 	}
 	"++ Ported to CS:GO by Matias-TM ++"
 	{
-		"chi"		"** **"
+		"chi"		"**由Matias-TM移植到CSGO **"
 	}
 	"++ Torch prefab by Fibbs ++"
 	{
-		"chi"		"** **"
+		"chi"		"**火炬制作：Fibbs **"
 	}
 	"++ Modified textures by Matias-TM ++"
 	{
-		"chi"		"** **"
+		"chi"		"**纹理修改：Matias-TM **"
 	}
 	"++ See the console commands! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**查看控制台命令！ **"
 	}
 	"++ Crates breaks in 60 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**箱子将在60秒后破碎 **"
+		"DoorCountDown" "60
 	}
 	"++ 5 seconds left! ++"
 	{
@@ -34,50 +35,55 @@
 	}
 	"++ Fall back! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！ **"
 	}
 	"++ Wall breaks in 30 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁30秒后破碎 **"
+		"DoorCountDown" "30
 	}
 	"++ C4 explodes in 60 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在60秒后爆炸 **"
+		"DoorCountDown" "60
 	}
 	"++ AFK Killer was enabled in 5 seconds! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK杀手5秒后启动 **"
 	}
 	"++ AFK Killer is enabled! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK杀手启动 **"
 	}
 	"++ Tram leaves in 30 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**电车30秒后离开 **"
+		"DoorCountDown" "30
 	}
 	"++ AFK Killer is disabled! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK杀手关闭 **"
 	}
 	"++ The tram is broken! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**电车坏了！ **"
 	}
 	"++ Wall breaks in 5 seconds! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁5秒后破碎 **"
 	}
 	"++ Floors breaks in 60 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**地板60秒后破碎 **"
+		"DoorCountDown" "60
 	}
 	"++ Wall breaks in 60 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁60秒后破碎 **"
+		"DoorCountDown" "60
 	}
 	"++ Switch your knife! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**拿上你的刀！**"
 	}
 }
