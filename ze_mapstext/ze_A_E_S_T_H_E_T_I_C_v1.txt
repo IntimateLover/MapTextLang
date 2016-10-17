@@ -165,7 +165,7 @@
 	}
 	"** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
 	{
-		"chi"		"**明日，明日，明日...既定之日...我们毫无作为 **"
+		"chi"		"**明日，明日，明日...既定之日...我们毫无作为 (里面通道的撤退)**"
 	}
 	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
 	{
@@ -216,14 +216,16 @@
 	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
 	{
 		"chi"		"**注意过来和你胡闹的小怪 **"
+		"command" "sm_clearbosshp"
 	}
 	"** Lasciate ogne speranza, o voi chintrate. **"
 	{
-		"chi"		"**放弃所有的希望，你们谁将进入。  **"
+		"chi"		"**放弃所有的希望，你们谁将进入。 **" 
 	}
 	"** The tide shall turn as we see a little man crashing through a window... **"
 	{
 		"chi"		"**当我们看见一个小人从窗户中冲出的时候...时局将会逆转 **"
+		"command" "sm_clearbosshp"
 	}
 	"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
 	{
@@ -239,7 +241,7 @@
 	}
 	"** Too meta it is for me to say if it was yours or instead this maps TV... **"
 	{
-		"chi"		"**对我来说，做出它属于你还是这台电视的决定是如此奇怪 **"
+		"chi"		"**对我来说，做出它属于你还是这台电视的决定是如此奇怪(请等待你的队友) **"
 	}
 	"** Again we meet! Another battle! **"
 	{
@@ -247,7 +249,7 @@
 	}
 	"** Fight this time not with bullets but just transparent fists! **"
 	{
-		"chi"		"**这次斗争，不需子弹，只需赤手空拳 **"
+		"chi"		"**这次斗争，不需子弹，只需赤手空拳（你们可以不打BOSS，回头刷僵尸就可以了） **"
 	}
 	"** MOVE IT! The rumble is nigh! **"
 	{
@@ -268,6 +270,7 @@
 	"** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
 	{
 		"chi"		"**所有那些努力皆是徒劳浪费，挣扎向前，后被抹杀 **"
+		"DoorCountDown"		"15"
 	}
 	"** Behold! It is time for the brundabogbog! **"
 	{
@@ -276,6 +279,7 @@
 	"** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
 	{
 		"chi"		"**忘记Keats说过有关骨灰盒的一切，我们最后将面对的是虚空 **"
+		"DoorCountDown"		"15"
 	}
 	"** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
 	{
@@ -304,6 +308,7 @@
 	"** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
 	{
 		"chi"		"**他醒了，他吃饱了！只有一团星辰，一块肉能拯救我们吗？ **"
+		"DoorCountDown"		"20"
 	}
 	"** ...and so the brave Ulysses rests his eyes on the stars... **"
 	{
