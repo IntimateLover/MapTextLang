@@ -14,19 +14,17 @@
 	}
 	"*A player has picked health element[Lv1]!*"
 	{
-		"chi"		"**一位玩家拿起了a奶[LV1] **"
+		"chi"		"**一位玩家拿起了奶[LV1] **"
 	}
 	"***The wood door will break in 30s!***"
 	{
 		"chi"		"**木门30秒后打开！ **"
 		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
 	}
 	"*hold for 45 seconds!*"
 	{
 		"chi"		"**守住45秒！ **"
 		"DoorCountDown"		"45"
-		"ico"		"icon_tip"
 	}
 	"***All zombies will be teleported in 9s!***"
 	{
@@ -249,7 +247,7 @@
 	}
 	"*A player has picked health element[Lv4]!*"
 	{
-		"chi"		"**一位j玩家拿起了奶[lv4] **"
+		"chi"		"**一位j玩家拿起了奶[LV4] **"
 	}
 	"***The wood door will break in 40s!***"
 	{
@@ -278,22 +276,25 @@
 	}
 	"***Rock monster used right-fire!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了火（往左走） **"
+		"ico"		"icon_fire"
 	}
 	"***All zombies will come in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有僵尸将在10秒后传送 **"
 	}
 	"***Rock monster used forward-push!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了推（按住S） **"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster used left-push!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了推（往右走） **"
+		"ico"		"icon_fire"
 	}
 	"***(Admin)Next mode:[Extreme]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至了极限难度 **"
 	}
 }
