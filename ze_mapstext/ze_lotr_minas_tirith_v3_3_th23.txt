@@ -30,7 +30,7 @@
 	}
 	"** Tip 2 : reach and win the end of a stage to level up **"
 	{
-		"chi"		"**提示2：到达并赢得胜利已解锁新关卡 **"
+		"chi"		"**提示2：到达并赢得胜利以解锁新关卡 **"
 	}
 	"** Tip 3 : take items at zombie and human shops in spawn **"
 	{
@@ -42,7 +42,7 @@
 	}
 	"** Tip 5 : barricades health depends on the size and material **"
 	{
-		"chi"		"**提示5：路障的血量取决于大小和材料 **"
+		"chi"		"**提示5：路障的坚固程度取决于它的大小和所用的材料 **"
 	}
 	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
 	{
@@ -50,7 +50,7 @@
 	}
 	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
 	{
-		"chi"		"**提示7：卫兵是个PUSH，但你可以通过他们 **"
+		"chi"		"**提示7：卫兵身边有PUSH效果，但你可以通过他们 **"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
@@ -58,11 +58,11 @@
 	}
 	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
 	{
-		"chi"		"**提示9：你可以把路障放在卫兵的后面或前面以获得最大的功效 **"
+		"chi"		"**提示9：你可以把路障放在卫兵的身边以获得最大的功效 **"
 	}
 	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
 	{
-		"chi"		"**提示10：马和盾牌（盾牌不会破碎）可以把僵尸推出去 **"
+		"chi"		"**提示10：骑兵和盾牌（盾牌不会破碎）可又PUSH效果,请小心使用 **"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
 	{
