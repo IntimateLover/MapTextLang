@@ -2,106 +2,107 @@
 {
 	"** Thanks to Kaemon **"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢：Kaemon **"
 	}
 	"** MAP BY Hannibal [SPA] (Rafuron) **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:Hannibal [SPA] (Rafuron) 地图翻译：蓬莱山帅比♪ **"
 	}
 	"** This is the round 0 ** you are playing alone ** wait until more players or suicide **"
 	{
-		"chi"		"** **"
+		"chi"		"**这是热身回合**你正在独自游戏**等待更多的人或自杀 **"
 	}
 	"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
 	{
-		"chi"		"** **"
+		"chi"		"**回合将在几秒后开始 **开始检测关卡，准备买好你的装备**"
 	}
 	"** WARMUP ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛 **"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛**核弹60秒后发射 **"
 	}
 	"** Tip 1 : press +use on pickable objects to build barricades **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示1：按E键可设置路障 **"
 	}
 	"** Tip 2 : reach and win the end of a stage to level up **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示2：到达并赢得胜利以解锁新关卡 **"
 	}
 	"** Tip 3 : take items at zombie and human shops in spawn **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示3：在僵尸和人类神器点可以拿到神器 **"
 	}
 	"** Tip 4 : your current level is your score divided by 100 approximately **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示4：你目前的神器等级是你的分数除以100 **"
 	}
 	"** Tip 5 : barricades health depends on the size and material **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示5：路障的坚固程度取决于它的大小和所用的材料 **"
 	}
 	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示6：守点往往很长，尽可能在前面的位置守住 **"
 	}
 	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示7：卫兵作为阻拦的人，你可以通过他们射击僵尸 **"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示8：僵尸的神器中梯子和炸弹是很强大的神器，你必须杀死这些僵尸 **"
 	}
 	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示9：你可以把路障放在卫兵的身边以获得最大的功效 **"
 	}
 	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示10：骑兵和盾牌（虽然盾牌不会碎）有PUSH效果,请小心使用 **"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛**核弹10秒后发射 **"
 	}
 	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示11：炎魔的吼叫会治愈并增加附近僵尸的速度 **"
 	}
 	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示12：第四关WC在第二个塔的顶部（在木坡道后右转） **"
 	}
 	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前阶段>>第一阶段>>奥斯吉力亚斯之战 **"
 	}
 	"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**回合已经开始**会启动一个传送门**大规模传送将在20秒后启动 **"
 	}
 	"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
 	{
-		"chi"		"** **"
+		"chi"		"**船来了**准备防守**"
 	}
 	"** RESIST 20 SECONDS! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒！ **"
+		"DoorCountDown" "20"
 	}
 	"** RETREAT !! RIVER ZONE IS LOST **"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！我们丢掉了这个地方 **"
 	}
 	"** WATCH OUT! WE ARE UNDER SIEGE **"
 	{
-		"chi"		"** **"
+		"chi"		"**当心！我们被包围了 **"
 	}
 	"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
 	{
-		"chi"		"** **"
+		"chi"		"**拿到了马（使用E和WASD键） **"
 	}
 }
