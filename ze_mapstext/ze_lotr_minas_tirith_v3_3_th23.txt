@@ -50,7 +50,7 @@
 	}
 	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
 	{
-		"chi"		"**提示7：卫兵身边有PUSH效果，但你可以通过他们 **"
+		"chi"		"**提示7：卫兵作为门，你可以射击他们 **"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
@@ -62,7 +62,7 @@
 	}
 	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
 	{
-		"chi"		"**提示10：骑兵和盾牌（盾牌不会破碎）可又PUSH效果,请小心使用 **"
+		"chi"		"**提示10：骑兵和盾牌（盾牌不会破碎）有PUSH效果,请小心使用 **"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
 	{
