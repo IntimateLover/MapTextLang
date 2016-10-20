@@ -533,42 +533,47 @@
 	}
 	"*** Armys Paeon ***"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药 **"
 	}
 	"*** You have passed through the first phase ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经通过了第一阶段 **"
 	}
 	"*** Level set....Next Level Ultimate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡...下一难度：终极 **"
 	}
 	"*** Dark Bahamut is blocking the road ***"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗的巴哈姆特堵住了道路 **"
 	}
 	"***Ultimate Akh Morn***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极的耀之荣光（奶注意血量开） **"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极的龙车（看清位置躲避） **"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极的天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落里） **"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极的电（蹲下躲避） **"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极的暴风之翼（会出现三个风柱，等到剩下一个的时候站在风柱里按住空格） **"
+		"ico"		"icon_fire"
 	}
 	"*** Night Mare***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙 **"
 	}
 }
