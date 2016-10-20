@@ -211,7 +211,7 @@
 	}
 	"***The ulimate will start in 14 seconds!***"
 	{
-		"chi"		"**BOSS将在14秒后启动 **"
+		"chi"		"**终极将在14秒后爆炸**"
 	}
 	"***Rock monster used backward-push!***"
 	{
@@ -276,7 +276,7 @@
 	}
 	"***Rock monster used right-fire!***"
 	{
-		"chi"		"**怪物使用了火（往左走） **"
+		"chi"		"**怪物在右边使用了火（走向左边）**"
 		"ico"		"icon_fire"
 	}
 	"***All zombies will come in 10s!***"
@@ -285,16 +285,44 @@
 	}
 	"***Rock monster used forward-push!***"
 	{
-		"chi"		"**怪物使用了推（按住S） **"
+		"chi"		"**怪物3秒后使用前吸（准备按住S）**"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used left-push!***"
 	{
-		"chi"		"**怪物使用了推（往右走） **"
+		"chi"		"**怪物3秒后使用左推(准备按住D）**"
 		"ico"		"icon_fire"
 	}
 	"***(Admin)Next mode:[Extreme]***"
 	{
 		"chi"		"**管理员把关卡调至了极限难度 **"
+	}
+	"***Boss will use ulimate in 5s!***"
+	{
+		"chi"		"**BOSS将在5秒后摧毁我们**"
+	}
+	"***Rock monster will use forward-push in 3s!***"
+	{
+		"chi"		"**火箭怪兽将在3秒后使用前吸（准备按住S）**"
+	}
+	"***Rock monster used backward-push in 3s!***"
+	{
+		"chi"		"**怪物3秒后使用后推（准备按住W）**"
+	}
+	"***Rock monster used forward-push in 3s!***"
+	{
+		"chi"		"**怪物在3秒后使用前吸（准备按住S）**"
+	}
+	"***Rock monster used right-push in 3s!***"
+	{
+		"chi"		"**怪物3秒后使用右推（准备按住A）**"
+	}
+	"***Rock monster used left-push in 3s!***"
+	{
+		"chi"		"**怪物3秒后使用左推（准备按住D）**"
+	}
+	"***(Admin)Next mode:[Hard]***"
+	{
+		"chi"		"** **"
 	}
 }

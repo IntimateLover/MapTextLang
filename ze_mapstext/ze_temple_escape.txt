@@ -27,38 +27,77 @@
 	"++ Crates breaks in 60 seconds ++"
 	{
 		"chi"		"**箱子将在60秒后破碎 **"
-		"DoorCountDown" "60
+		"DoorCountDown"		"60
 	}
-	"++ 5 seconds left! ++"
+	"
+		"++"		"5"
+		"seconds"		"left!"
+		"++"		"
 	{
-		"chi"		"** **"
+		"
+		"chi"		"		"
+		"**"		"**"
+		"
 	}
-	"++ Fall back! ++"
+	"		"++"
+		"Fall"		"back!"
+		"++"		"
 	{
-		"chi"		"**撤退！ **"
+		"
+		"chi"		"		"
+		"**撤退！"		"**"
+		"
 	}
-	"++ Wall breaks in 30 seconds ++"
+	"		"++"
+		"Wall"		"breaks"
+		"in"		"30"
+		"seconds"		"++"
+		"
 	{
-		"chi"		"**墙壁30秒后破碎 **"
-		"DoorCountDown" "30
+		"		"chi"
+		"		"		"**墙壁30秒后破碎"
+		"**"		"
+		"
+		"DoorCountDown"		" "
 	}
 	"++ C4 explodes in 60 seconds ++"
 	{
 		"chi"		"**C4将在60秒后爆炸 **"
-		"DoorCountDown" "60
+		"DoorCountDown"		"60
 	}
-	"++ AFK Killer was enabled in 5 seconds! ++"
+	"
+		"++"		"AFK"
+		"killer"		"was"
+		"enabled"		"in"
+		"5"		"seconds!"
+		"++"		"
 	{
-		"chi"		"**AFK杀手5秒后启动 **"
+		"
+		"chi"		"		"
+		"**AFK杀手5秒后启动"		"**"
+		"
 	}
-	"++ AFK Killer is enabled! ++"
+	"		"++"
+		"AFK"		"Killer"
+		"is"		"enabled!"
+		"++"		"
 	{
-		"chi"		"**AFK杀手启动 **"
+		"
+		"chi"		"		"
+		"**AFK杀手启动"		"**"
+		"
 	}
-	"++ Tram leaves in 30 seconds ++"
+	"		"++"
+		"Tram"		"leaves"
+		"in"		"30"
+		"seconds"		"++"
+		"
 	{
-		"chi"		"**电车30秒后离开 **"
-		"DoorCountDown" "30
+		"		"chi"
+		"		"		"**电车30秒后离开"
+		"**"		"
+		"
+		"DoorCountDown"		" "
 	}
 	"++ AFK Killer is disabled! ++"
 	{
@@ -75,15 +114,67 @@
 	"++ Floors breaks in 60 seconds ++"
 	{
 		"chi"		"**地板60秒后破碎 **"
-		"DoorCountDown" "60
+		"DoorCountDown"		"60
 	}
-	"++ Wall breaks in 60 seconds ++"
+	"
+		"++"		"Wall"
+		"breaks"		"in"
+		"60"		"seconds"
+		"++"		"
 	{
-		"chi"		"**墙壁60秒后破碎 **"
-		"DoorCountDown" "60
+		"
+		"chi"		"		"
+		"**墙壁60秒后破碎"		"**"
+		"
+		"		"DoorCountDown"
+		" "		"60"
 	}
 	"++ Switch your knife! ++"
 	{
 		"chi"		"**拿上你的刀！**"
+	}
+	"++ 5 seconds left! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Fall back! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Wall breaks in 30 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"++ AFK Killer was enabled in 5 seconds! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ AFK Killer is enabled! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Tram leaves in 30 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Wall breaks in 60 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Use the radio to deploy nuke! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Nuke deploying in 90 seconds! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Bunker door opens in 5 seconds! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Bunker door closing! ++"
+	{
+		"chi"		"** **"
 	}
 }

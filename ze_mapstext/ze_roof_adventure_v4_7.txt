@@ -276,7 +276,7 @@
 	}
 	"***Rock monster used right-fire!***"
 	{
-		"chi"		"**怪物使用了火（往左走） **"
+		"chi"		"**岩石怪在左边使用了火焰（向右边走）**"
 		"ico"		"icon_fire"
 	}
 	"***All zombies will come in 10s!***"
@@ -296,5 +296,33 @@
 	"***(Admin)Next mode:[Extreme]***"
 	{
 		"chi"		"**管理员把关卡调至了极限难度 **"
+	}
+	"***(Admin)Next mode:[Normal]***"
+	{
+		"chi"		"** **"
+	}
+	"***(Admin)Next mode:[Hard]***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster will use right-push in 3s!***"
+	{
+		"chi"		"**岩石怪将在3秒后使用右推（准备按住A）**"
+	}
+	"***Rock monster will use left-push in 3s!***"
+	{
+		"chi"		"**岩石怪将在3秒后使用左推（准备按住D）**"
+	}
+	"***Rock monster will use forward-push in 3s!***"
+	{
+		"chi"		"**岩石怪将在3秒后使用前吸（准备按住S）**"
+	}
+	"***Rock monster will use backward-push in 3s!***"
+	{
+		"chi"		"**岩石怪将在3秒后使用后推（准备按住W）**"
+	}
+	"***Boss will use ulimate in 5s!***"
+	{
+		"chi"		"**BOSS将在5秒后毁灭你们**"
 	}
 }
