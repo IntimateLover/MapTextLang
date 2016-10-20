@@ -297,6 +297,10 @@
 		"chi"		"西瓜橘子图"
 		"credit"		"1500"
 	}
+	"ze_icecap_escape_v5_sgfix"
+	{
+		"chi"		"西瓜橘子图"
+	}
 	"ze_inboxed_final_f2"
 	{
 		"chi"		"身法菜鸟的太平间"
@@ -917,7 +921,7 @@
 		"chi"		"沙尘暴"
 		"credit"		"800"
 	}
-	"ze_surf_vortex_v1_v2"
+	"ze_surf_vortex_v1_9"
 	{
 		"chi"		"漩涡滑翔"
 		"credit"		"900"
@@ -1157,10 +1161,6 @@
 	{
 		"chi"		"切尔诺贝利核电站"
 	}
-	"ze_surf_vortex_v1_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_tyranny_v3_csgo"
 	{
 		"chi"		"暴君"
@@ -1201,7 +1201,7 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_mountain_escape_snow_v4_4"
+	"ze_mountain_escape_snow_v4_5"
 	{
 		"chi"		"爬雪山"
 	}
@@ -1249,7 +1249,7 @@
 	{
 		"chi"		"隐秘神庙"
 	}
-	"ze_otakuroom_v3_3"
+	"ze_otakuroom_v3_4"
 	{
 		"chi"		"御宅房"
 	}
@@ -1281,10 +1281,6 @@
 	{
 		"chi"		"灵魂废墟"
 	}
-	"ze_Paranoid_Rezurrection_v11_9_th10"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_christmas_infection_p"
 	{
 		"chi"		"圣诞夜惊魂"
@@ -1293,7 +1289,7 @@
 	{
 		"chi"		"最终幻想12帕里米亚"
 	}
-	"ze_roof_adventure_v4_5"
+	"ze_roof_adventure_v4_7"
 	{
 		"chi"		"屋顶大冒险"
 	}
@@ -1321,7 +1317,11 @@
 	{
 		"chi"		"纽约逃亡"
 	}
-	
+	"ze_lotr_minas_tirith_v3_3_th23"
+	{
+		"chi"		"此地图暂无译名"
+		"onlyadmin" "1"
+	}
 	
 }
 
