@@ -146,7 +146,7 @@
 	}
 	"***Rock monster used electron!***"
 	{
-		"chi"		"**怪物使用了电！ **"
+		"chi"		"**怪物使用了电（蹲下）**"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used rock!Break it!***"
@@ -160,7 +160,7 @@
 	}
 	"***Rock monster used water!***"
 	{
-		"chi"		"**怪物使用了水！ **"
+		"chi"		"**怪物使用了水（跑到平台最后面） **"
 		"ico"		"icon_fire"
 	}
 	"***Level completes!Next level is [Hard]***"
@@ -211,21 +211,23 @@
 	}
 	"***The ulimate will start in 14 seconds!***"
 	{
-		"chi"		"**BOSS将在14秒后启动 **"
+		"chi"		"**BOSS将在14秒后摧毁我们！ **"
 	}
 	"***Rock monster used backward-push!***"
 	{
 		"chi"		"**怪物使用了推（按住W） **"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used right-push!***"
 	{
 		"chi"		"**怪物使用了推（往左边走） **"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used electrion!***"
 	{
-		"chi"		"**怪物使用了电！ **"
+		"chi"		"**怪物使用了电（蹲下） **"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used fire!***"
@@ -276,7 +278,7 @@
 	}
 	"***Rock monster used right-fire!***"
 	{
-		"chi"		"**岩石怪在左边使用了火焰（向右边走）**"
+		"chi"		"**怪物使用了火**"
 		"ico"		"icon_fire"
 	}
 	"***All zombies will come in 10s!***"
@@ -286,11 +288,13 @@
 	"***Rock monster used forward-push!***"
 	{
 		"chi"		"**怪物使用了推（按住S） **"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used left-push!***"
 	{
-		"chi"		"**怪物使用了推（往右走） **"
+		"chi"		"**怪物使用了推（按住D） **"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***(Admin)Next mode:[Extreme]***"
@@ -299,27 +303,35 @@
 	}
 	"***(Admin)Next mode:[Normal]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至了普通难度 **"
 	}
 	"***(Admin)Next mode:[Hard]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至了困难难度 **"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用右推（准备按住A）**"
+		"DoorCountDown"		"3"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用左推（准备按住D）**"
+		"DoorCountDown"		"3"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用前吸（准备按住S）**"
+		"DoorCountDown"		"3"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用后推（准备按住W）**"
+		"DoorCountDown"		"3"
+		"ico"		"icon_fire"
 	}
 	"***Boss will use ulimate in 5s!***"
 	{
