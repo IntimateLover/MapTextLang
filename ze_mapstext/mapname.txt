@@ -1287,9 +1287,9 @@
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
-		"chi"		"最终幻想12：帕拉米亚"
+		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v4_7"
+	"ze_roof_adventure_v4_9"
 	{
 		"chi"		"屋顶大冒险"
 	}
@@ -1299,9 +1299,9 @@
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
-		"chi"		"最终幻想14：流浪者宫殿"
+		"chi"		"最终幻想14:流浪者宫殿"
 	}
-	"ze_PKMN_Adventure_v6_3"
+	"ze_PKMN_Adventure_v6_3fix"
 	{
 		"chi"		"跳刀神奇宝贝"
 	}
@@ -1319,9 +1319,20 @@
 	}
 	"ze_lotr_minas_tirith_v3_3_th23"
 	{
-		"chi"		"魔戒3：米那斯提力斯"
+		"chi"		"魔戒3:米那斯提力斯"
 		"onlyadmin" "1"
 	}
-	
+	"ze_temple_raider_b4_ps_v4_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_STRANGE_escape_b3_ps_b2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Alien_Shooter_v6_2_ps_b1"
+	{
+		"chi"		"此地图暂无译名"
+	}
 }
 
