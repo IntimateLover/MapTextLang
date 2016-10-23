@@ -301,7 +301,7 @@
 	{
 		"chi"		"西瓜橘子图"
 	}
-	"ze_inboxed_final_f2"
+	"ze_inboxed_final_fix"
 	{
 		"chi"		"身法菜鸟的太平间"
 		"credit"		"1000"
@@ -1125,7 +1125,7 @@
 	{
 		"chi"		"哈利波特"
 	}
-	"ze_dangerous_waters_v2_final"
+	"ze_dangerous_waters_v2_Final"
 	{
 		"chi"		"危险的水域"
 	}
@@ -1213,7 +1213,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_A_E_S_T_H_E_T_I_C_v1"
+	"ze_A_E_S_T_H_E_T_I_C_v1_1"
 	{
 		"chi"		"舞台剧"
 	}
@@ -1287,7 +1287,7 @@
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
-		"chi"		"最终幻想12:帕拉米亚"
+		"chi"		"最终幻想12帕里米亚"
 	}
 	"ze_roof_adventure_v4_9"
 	{
@@ -1299,7 +1299,7 @@
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
-		"chi"		"最终幻想14:流浪者宫殿"
+		"chi"		"最终幻想14流浪者宫殿"
 	}
 	"ze_PKMN_Adventure_v6_3fix"
 	{
@@ -1319,18 +1319,34 @@
 	}
 	"ze_lotr_minas_tirith_v3_3_th23"
 	{
-		"chi"		"魔戒3:米那斯提力斯"
-		"onlyadmin" "1"
+		"chi"		"此地图暂无译名"
+		"onlyadmin"		"1"
 	}
-	"ze_temple_raider_b4_ps_v4_1"
+	"ze_AEPP_Nano_Grid2_b2"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_STRANGE_escape_b3_ps_b2"
+	"ze_ripsuhdude_v1_6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sunkentemple_v3_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_temple_escape"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_STRANGE_escape_b3_ps_b3"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_Alien_Shooter_v6_2_ps_b1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_temple_raider_b4_ps_v4_1"
 	{
 		"chi"		"此地图暂无译名"
 	}

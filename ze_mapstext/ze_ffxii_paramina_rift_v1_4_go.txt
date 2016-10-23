@@ -22,7 +22,7 @@
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图作者：SLAYERDRAGON**"
+		"chi"		"**地图作者：SLAYERDRAGON 感谢移植：PerfectLaugh**"
 	}
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
@@ -941,7 +941,7 @@
 	}
 	"** BARRIER 2 OPENS IN 15 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**障碍2号15秒后移动**"
 	}
 	"** Player has learned FIRE -- Level 1 **"
 	{

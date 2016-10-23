@@ -278,7 +278,7 @@
 	}
 	"***Rock monster used right-fire!***"
 	{
-		"chi"		"**怪物使用了火**"
+		"chi"		"**岩石怪在左边使用了火焰（向右边走）**"
 		"ico"		"icon_fire"
 	}
 	"***All zombies will come in 10s!***"

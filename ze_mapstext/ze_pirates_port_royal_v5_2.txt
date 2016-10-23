@@ -575,7 +575,7 @@
 	}
 	">>> HOLD <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住<<<"
 	}
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
@@ -592,22 +592,22 @@
 	}
 	"*** BARREL picked up ***"
 	{
-		"chi"		"** **"
+		"chi"		"**桶拾取**"
 	}
 	"*** WALL picked up ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙拾取**"
 	}
 	"*** SWORD picked up ***"
 	{
-		"chi"		"** **"
+		"chi"		"**剑拾取**"
 	}
 	"*** BUBBLES picked up ***"
 	{
-		"chi"		"** **"
+		"chi"		"**泡泡拾取**"
 	}
 	"*** HEAL picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶拾取**"
 	}
 }

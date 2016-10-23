@@ -2,62 +2,70 @@
 {
 	"@[MAP]  Map made by Reapr"
 	{
-		"chi"		"**地图制作：Reapr 地图翻译：Ex_cKot **"
+		"chi"		"** **"
 	}
 	"[Map] SKATE"
 	{
-		"chi"		"**滑冰 **"
+		"chi"		"** **"
 	}
 	"[Map] MOVING PLATFORM"
 	{
-		"chi"		"**移动平台 **"
+		"chi"		"** **"
 	}
 	"[Map] GRAVITY SCOUT"
 	{
-		"chi"		"**重力鸟狙 **"
+		"chi"		"** **"
 	}
 	"[Map] LONGJUMP"
 	{
-		"chi"		"**长跳 **"
+		"chi"		"** **"
 	}
 	"[Map] BHOP"
 	{
-		"chi"		"**连跳 **"
+		"chi"		"** **"
 	}
 	"[MAP] STRAFE"
 	{
-		"chi"		"**扫射 **"
+		"chi"		"** **"
 	}
 	"[Map] SKIPPING ROPE"
 	{
-		"chi"		"**跳绳 **"
+		"chi"		"** **"
 	}
 	"[Map] 65HP KNIFE ARENA"
 	{
-		"chi"		"**65血 刀 **"
+		"chi"		"** **"
 	}
 	"[Map] AWP"
 	{
-		"chi"		"**AWP **"
+		"chi"		"** **"
 	}
 	"[Map] KNIFE ARENA"
 	{
-		"chi"		"**刀 **"
+		"chi"		"** **"
 	}
 	"[Map] MAZE M249"
 	{
-		"chi"		"**M249 **"
+		"chi"		"** **"
 	}
 	"[Map] SCOUT"
 	{
-		"chi"		"**鸟狙 **"
+		"chi"		"** **"
 	}
 	"[Map] KNIFE"
 	{
-		"chi"		"**刀 **"
+		"chi"		"** **"
 	}
 	"[Map] MAZE NOVA"
 	{
-		"chi"		"**喷子 **"
+		"chi"		"** **"
+	}
+	"[Map] FOOTBALL"
+	{
+		"chi"		"** **"
+	}
+	"[Map] CT WINS"
+	{
+		"chi"		"** **"
 	}
 }

@@ -2,22 +2,22 @@
 {
 	"Map by Benja_Sonne"
 	{
-		"chi"		"**地图制作：Benja_Sonne 地图翻译：Ex_cKot **"
+		"chi"		"** **"
 	}
 	"Respawn enabled!"
 	{
-		"chi"		"**重生开启 **"
+		"chi"		"** **"
 	}
 	"AFK killer activates in 10 seconds"
 	{
-		"chi"		"**10秒后挂机处死生效 **"
+		"chi"		"** **"
 	}
 	"Respawn disabled!"
 	{
-		"chi"		"**重生关闭 **"
+		"chi"		"** **"
 	}
 	"AFK killer has been activated!"
 	{
-		"chi"		"**挂机处死已生效 **"
+		"chi"		"** **"
 	}
 }
