@@ -315,6 +315,7 @@
 	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
 	{
 		"chi"		"**幽灵军队来了！准备最后的防御！ **"
+		"DoorCountDown"		"150"
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
@@ -323,7 +324,6 @@
 	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
 	{
 		"chi"		"**道路打开 **前往米纳斯的顶部** 生存80秒 **"
-		"DoorCountDown"		"80"
 	}
 	"** All humans at bottom part will die in 15 seconds **"
 	{
@@ -375,6 +375,6 @@
 	}
 	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
 	{
-		"chi"		"** **"
+		"chi"		"**有兽人通过了我们的防御 ** 撤退 **"
 	}
 }
