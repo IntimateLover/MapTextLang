@@ -18,39 +18,39 @@
 	}
 	"The player picked up the Ice Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取冰**"
 	}
 	"***c4 will explode in 25 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4 25秒后爆炸**"
 	}
 	"The player picked up the Heal Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取治疗**"
 	}
 	"** Attention! an unknown creature!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**注意，未知生物出现！**"
 	}
 	"** Attention to the violation of the quarantine laboratory **"
 	{
-		"chi"		"** **"
+		"chi"		"**注意这个违规的隔离实验室**"
 	}
 	"The player picked up the Electro Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取电**"
 	}
 	"The player picked up the Wind Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取风**"
 	}
 	"The player picked up the Fire Materia"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取火**"
 	}
 	"** The door opens after 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后开启**"
 	}
 	">>>[3]<<<"
 	{
@@ -66,15 +66,15 @@
 	}
 	">>>The door opens in 25 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后开启**"
 	}
 	">>>The door opens in 5 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后开启**"
 	}
 	">>>Door is open<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"** Boss Fight in 10s **"
 	{
@@ -86,31 +86,31 @@
 	}
 	"** Nades do more damage (2s) **"
 	{
-		"chi"		"** **"
+		"chi"		"**高爆能造成更多伤害（两秒内） **"
 	}
 	">>>The boss died!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS死了**"
 	}
 	">>>The door opens in 20 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后开启**"
 	}
 	">>>The teleporter is activated after 20 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门20秒后激活**"
 	}
 	">>>Teleport works!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门激活**"
 	}
 	">>>The helicopter flies to you! hold on!!!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机正在赶来，守住 **"
 	}
 	"Thank you for playing!"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩**"
 	}
 	">>>Map made : DarkRoad<<<"
 	{
