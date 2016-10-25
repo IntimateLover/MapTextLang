@@ -2,11 +2,12 @@
 {
 	"<!!!> MAP BY JB_GAMBLE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：JB_GAMBLE 地图翻译：蓬莱山帅比♪ **"
 	}
 	"<!!!> HOLD HERE 25 SECONDS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
+		"DoorCountDown" "25"
 	}
 	"<!!!> 5 SECONDS <!!!>"
 	{
@@ -14,27 +15,28 @@
 	}
 	"<!!!> FALL BACK! GO! GO! <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！ **"
 	}
 	"<!!!> HOLD HERE 20 SECONDS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"<!!!> HOLD HERE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"<!!!> GET ON CHOPPER! GO! GO! <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**走了！ **"
 	}
 	"<!!!> Helicopter will rise after 3 seconds <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将在3秒后开走 **"
 	}
 	"<!!!> HUMANS WIN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**人类胜利 **"
 	}
 	"<!!!> KABOOM <!!!>"
 	{
@@ -42,10 +44,11 @@
 	}
 	"<!!!> HOLD HERE 15 SECONDS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
+		"DoorCountDown" "15"
 	}
 	"<!!!> TELEPORT OPEN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**传送开启 **"
 	}
 }
