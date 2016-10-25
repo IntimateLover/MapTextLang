@@ -1287,7 +1287,7 @@
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
-		"chi"		"最终幻想12帕里米亚"
+		"chi"		"最终幻想12:帕拉米亚"
 	}
 	"ze_roof_adventure_v4_9"
 	{
@@ -1299,7 +1299,7 @@
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
-		"chi"		"最终幻想14流浪者宫殿"
+		"chi"		"最终幻想14:流浪者宫殿"
 	}
 	"ze_PKMN_Adventure_v6_3fix"
 	{
@@ -1319,7 +1319,7 @@
 	}
 	"ze_lotr_minas_tirith_v3_3_th23"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"魔戒3：米那斯提力斯"
 		"onlyadmin"		"1"
 	}
 	"ze_AEPP_Nano_Grid2_b2"
@@ -1332,23 +1332,23 @@
 	}
 	"ze_sunkentemple_v3_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"魔兽世界：沉没的神庙"
 	}
 	"ze_temple_escape"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"神庙逃亡"
 	}
 	"ze_STRANGE_escape_b3_ps_b3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"奇异之地大逃亡"
 	}
 	"ze_Alien_Shooter_v6_2_ps_b1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"孤胆枪手"
 	}
 	"ze_temple_raider_b4_ps_v4_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"古墓丽影：神庙逃亡"
 	}
 }
 
