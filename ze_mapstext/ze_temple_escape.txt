@@ -135,46 +135,50 @@
 	}
 	"++ 5 seconds left! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"++ Fall back! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！ **"
 	}
 	"++ Wall breaks in 30 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁30秒后破碎 **"
+		"DoorCountDown" "30"
 	}
 	"++ AFK Killer was enabled in 5 seconds! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK杀手5秒后启动 **"
 	}
 	"++ AFK Killer is enabled! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK杀手已启动 **"
 	}
 	"++ Tram leaves in 30 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**电车30秒后离开 **"
+		"DoorCountDown" "30"
 	}
 	"++ Wall breaks in 60 seconds ++"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁60秒后传送 **"
+		"DoorCountDown" "60"
 	}
 	"++ Use the radio to deploy nuke! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**使用无线电部署核弹 **"
 	}
 	"++ Nuke deploying in 90 seconds! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹90秒后部署 **"
+		"DoorCountDown" "90"
 	}
 	"++ Bunker door opens in 5 seconds! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**门在5秒后开启 **"
 	}
 	"++ Bunker door closing! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**门关了 **"
 	}
 }
