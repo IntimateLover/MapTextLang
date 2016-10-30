@@ -724,7 +724,7 @@
 		"chi"		"生化危机：下水道"
 		"credit"		"400"
 	}
-	"ze_destruction_of_exorath_v3_1"
+	"ze_destruction_of_exorath_v4"
 	{
 		"chi"		"破坏行动"
 		"credit"		"400"
@@ -871,7 +871,7 @@
 		"chi"		"复仇行动"
 		"credit"		"400"
 	}
-	"ze_fartlocker_escape"
+	"ze_fartlocker_escape_fv"
 	{
 		"chi"		"陷阱逃生"
 		"credit"		"400"
@@ -1241,7 +1241,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_gris_v1_9_8"
+	"ze_gris_v1_10"
 	{
 		"chi"		"创世E"
 	}
@@ -1338,7 +1338,7 @@
 	{
 		"chi"		"神庙逃亡"
 	}
-	"ze_STRANGE_escape_b3_ps_b3"
+	"ze_STRANGE_escape_b3_ps_b4"
 	{
 		"chi"		"奇异之地大逃亡"
 	}
@@ -1346,9 +1346,8 @@
 	{
 		"chi"		"孤胆枪手"
 	}
-	"ze_temple_raider_b4_ps_v4_1"
+	"ze_temple_raider_b4_ps_v4_2"
 	{
 		"chi"		"古墓丽影：神庙逃亡"
 	}
 }
-

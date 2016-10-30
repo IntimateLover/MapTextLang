@@ -122,17 +122,17 @@
 	">>> SLASH <<<"
 	{
 		"chi"		"**跳刀(原地等2秒起跳) **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> RED <<<"
 	{
 		"chi"		"**红(站在中间柱子躲避火焰并跳刀)  **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> YELLOW <<<"
 	{
 		"chi"		"**黄(往上下左右的柱子移动) **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> Heal has been picked <<<"
 	{
@@ -141,16 +141,44 @@
 	">>> PURPLE <<<"
 	{
 		"chi"		"**紫 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> BLUE <<<"
 	{
 		"chi"		"**蓝 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> GREEN <<<"
 	{
 		"chi"		"**绿 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+	}
+	"*** YOU KILLED THE BOSS ***"
+	{
+		"chi"		"** **"
+	}
+	">>> Drawbridge will open in 15 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Gate will close in 15 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Thanks for playing <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Map made by Ripsaw <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Thanks to Luffaren for the lever model <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Thanks to Syoudous & Enviolinador for help  Tips"
+	{
+		"chi"		"** **"
 	}
 }
