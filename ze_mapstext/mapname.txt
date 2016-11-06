@@ -607,9 +607,9 @@
 		"chi"		"废弃燃料惊魂"
 		"credit"		"400"
 	}
-	"ze_lila_panic_escape_v1_1"
+	"ze_lila_panic_escape_v2"
 	{
-		"chi"		"里拉惊魂"
+		"chi"		"里拉惊魂V2"
 		"credit"		"600"
 	}
 	"ze_magala_castle_b3"
@@ -966,7 +966,7 @@
 		"chi"		"黑暗之魂"
 		"credit"		"700"
 	}
-	"ze_bathroom_v2_4"
+	"ze_bathroom_v2_5"
 	{
 		"chi"		"浴室逃亡"
 		"credit"		"500"
@@ -1241,7 +1241,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_gris_v1_10"
+	"ze_gris_v1_10f"
 	{
 		"chi"		"创世E"
 	}
@@ -1317,10 +1317,11 @@
 	{
 		"chi"		"纽约逃亡"
 	}
-	"ze_lotr_minas_tirith_v3_3_th23"
+	"ze_lotr_minas_tirith_v3_3_th26"
 	{
 		"chi"		"魔戒3：米那斯提力斯"
 		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 	"ze_AEPP_Nano_Grid2_b2"
 	{
@@ -1350,4 +1351,17 @@
 	{
 		"chi"		"古墓丽影：神庙逃亡"
 	}
+	"ze_panic_escape_v3_2_e3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_mirrors_edge_v20"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_kororinpa_v1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	
 }

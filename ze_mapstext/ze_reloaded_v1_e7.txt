@@ -138,7 +138,7 @@
 	}
 	"**It has only one use!**"
 	{
-		"chi"		"**只有一个是可以使用的**"
+		"chi"		"**只能使用一次**"
 	}
 	"**Hold the hallways until the doors open!**"
 	{
@@ -146,7 +146,7 @@
 	}
 	"**Zombies got onboard! You have lost!**"
 	{
-		"chi"		"**僵尸上船了，你们输了**"
+		"chi"		"**僵尸上飞机了，你们输了，loser~**"
 	}
 	"**This whole place is going down! Get out of here!**"
 	{
