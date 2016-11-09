@@ -10,11 +10,11 @@
 	}
 	"***Modified by Reflelia***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Reflelia 地图翻译：蓬莱山帅比♪ **"
 	}
 	"***Player picked up Radio***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起收音机 **"
 	}
 	"[Music] XI - Freedom dive"
 	{
@@ -34,19 +34,19 @@
 	}
 	"***CURRENT MODE >>>NORMAL<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：正常 **"
 	}
 	"***Nuke launched***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹发射 **"
 	}
 	"***30 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"***5***"
 	{
@@ -58,91 +58,91 @@
 	}
 	"***Nuke impact***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹爆炸了 **"
 	}
 	"***CURRENT MODE >>>CUSTOM<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：自定义 **"
 	}
 	"***Heal picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起奶 **"
 	}
 	"***Heal used***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶使用 **"
 	}
 	"***Zombie picked up Freeze***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸冰已拿起 **"
 	}
 	"***Snow picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**泡泡已拿起 **"
 	}
 	"***Snow used***"
 	{
-		"chi"		"** **"
+		"chi"		"**泡泡使用 **"
 	}
 	"***Zombie picked up Gravity***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸黑洞已拿起 **"
 	}
 	"***CURRENT MODE >>>EXTREME<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：BOSS **"
 	}
 	"***Speed picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起加速 **"
 	}
 	"***Ice picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起冰 **"
 	}
 	"***Teleport activates in few seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将在几秒后激活 **"
 	}
 	"***Zombie teleport in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后传送 **"
 	}
 	"***Teleport Enable in 50 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**50秒后传送 **"
 	}
 	"***Ice Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰使用 **"
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***Gravity Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了重力 **"
 	}
 	"***Ice Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了冰 **"
 	}
 	"***Wind picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起风 **"
 	}
 	"***Wind Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**风使用 **"
 	}
 	"***Jump portal opened***"
 	{
-		"chi"		"** **"
+		"chi"		"**高空跳跃已开启 **"
 	}
 	"***Wind Casted***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了风 **"
 	}
 	"***Thruster Casted***"
 	{
@@ -150,27 +150,27 @@
 	}
 	"***Barrel picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起桶 **"
 	}
 	"***A PLAYER SLAIN BY A BARREL***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家被桶杀死 **"
 	}
 	"***Zombie picked up Nuke***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸核弹已拿起 **"
 	}
 	"***Ammo picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起无限弹药 **"
 	}
 	"***Ammo used***"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药使用 **"
 	}
 	"***Helicopter 2 explode in 3s***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机2将在3秒后爆炸 **"
 	}
 	"[Music] Jim Yosef - Firefly"
 	{
@@ -178,11 +178,11 @@
 	}
 	"***A PLAYER BLOW UP WITH HELICOPTER***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家被直升机炸死 **"
 	}
 	"***Helicopter 1 explode in 3s***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机1将在3秒后爆炸 **"
 	}
 	"[MUSIC] Pendulum - Encoder"
 	{
