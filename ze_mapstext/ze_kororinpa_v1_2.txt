@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"The GrassWall will be broken in 20 seconds ..."
+	{
+		"chi"		"** **"
+	}
+	"The GrassWall is broken"
+	{
+		"chi"		"** **"
+	}
+	"Collect The OrangeCrystals"
+	{
+		"chi"		"** **"
+	}
+	"Got the All OrangeCrystals"
+	{
+		"chi"		"** **"
+	}
+	"Wait for 20seconds ..."
+	{
+		"chi"		"** **"
+	}
+	"Teleport Enable"
+	{
+		"chi"		"** **"
+	}
+	"Nuke will be Enable in 45 seconds ..."
+	{
+		"chi"		"** **"
+	}
+	"30 seconds ..."
+	{
+		"chi"		"** **"
+	}
+	"10 seconds ..."
+	{
+		"chi"		"** **"
+	}
+}
