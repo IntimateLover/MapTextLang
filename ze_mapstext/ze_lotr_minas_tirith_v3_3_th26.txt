@@ -14,7 +14,7 @@
 	}
 	"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
 	{
-		"chi"		"**回合将在几秒后开始 **开始检测关卡，准备买好你的装备**"
+		"chi"		"**回合将在几秒后开始 **确认你的神器等级并以此获得相对应的神器**"
 	}
 	"** WARMUP ROUND **"
 	{
@@ -50,11 +50,11 @@
 	}
 	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
 	{
-		"chi"		"**提示7：卫兵作为阻拦的人，你可以通过他们射击僵尸 **"
+		"chi"		"**提示7：卫兵可以阻拦僵尸，你可以通过他们射击僵尸 **"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
-		"chi"		"**提示8：僵尸的神器中梯子和炸弹是很强大的神器，你必须杀死这些僵尸 **"
+		"chi"		"**提示8：僵尸的神器中梯子和炸弹是很强大的神器，你必须杀死拿这些神器的僵尸 **"
 	}
 	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
 	{
@@ -200,7 +200,7 @@
 	}
 	"** THEY ARE IN! RETREAT! **"
 	{
-		"chi"		"**他们进来了！撤退！ **"
+		"chi"		"**他们还是进来了！撤退！ **"
 	}
 	"** THE LIFT IS LEAVING IN 10 SECONDS **"
 	{
@@ -209,7 +209,7 @@
 	}
 	"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
 	{
-		"chi"		"**大门紧闭着**必须有人按下开关 **"
+		"chi"		"**大门紧闭着**必须有人去按下开关 **"
 	}
 	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
 	{
@@ -217,7 +217,7 @@
 	}
 	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
 	{
-		"chi"		"**现在使用投石车继续防守米纳斯 **"
+		"chi"		"**现在去激活投石车并继续防守米纳斯 **"
 	}
 	"** Catapult 1 activated **"
 	{
@@ -229,7 +229,7 @@
 	}
 	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
 	{
-		"chi"		"**好了！金属门10秒后开启 **"
+		"chi"		"**干得好！金属门10秒后开启 **"
 		"DoorCountDown"		"10"
 	}
 	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
@@ -343,11 +343,11 @@
 	}
 	"** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
 	{
-		"chi"		"**启动粒子特效校正和蓝颜色校正 **"
+		"chi"		"**启动粒子特效修正和蓝颜色校正 **"
 	}
 	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
 	{
-		"chi"		"**所有僵尸的神器都已解锁，但并不是4级 **"
+		"chi"		"**僵尸神器已解锁，除了4级神器 **"
 	}
 	"** CONSTANT METEOR HAS BEEN ENABLED **"
 	{
@@ -355,7 +355,7 @@
 	}
 	"** INCREASED NUMBER OF NAZGULS **"
 	{
-		"chi"		"** NAZGULS数量增加 **"
+		"chi"		"** 戒灵数量增加 **"
 	}
 	"** ENABLED FAST RESPAWN **"
 	{
