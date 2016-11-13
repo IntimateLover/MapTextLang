@@ -525,7 +525,7 @@
 	}
 	"*** Random Item breaker Activate... ***"
 	{
-		"chi"		"**随机神器消失开启 **"
+		"chi"		"**随机神器消失模式：开启 **"
 	}
 	"*** Shield Oath ***"
 	{
@@ -549,27 +549,27 @@
 	}
 	"***Ultimate Akh Morn***"
 	{
-		"chi"		"**终极的耀之荣光（奶注意血量开） **"
+		"chi"		"**终极之耀之荣光（奶注意血量开） **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**终极的龙车（看清位置躲避） **"
+		"chi"		"**终极之龙车（看清位置躲避） **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**终极的天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落里） **"
+		"chi"		"**终极之天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落里） **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**终极的电（蹲下躲避） **"
+		"chi"		"**电（蹲下躲避） **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
-		"chi"		"**终极的暴风之翼（会出现三个风柱，等到剩下一个的时候站在风柱里按住空格） **"
+		"chi"		"**终极之暴风之翼（会出现三个风柱，等到剩下一个的时候站在风柱里按住空格） **"
 		"ico"		"icon_fire"
 	}
 	"*** Night Mare***"
@@ -578,11 +578,11 @@
 	}
 	"*** ADMIN BUTTON Level Hard ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至困难难度 **"
 	}
 	"*** ADMIN BUTTON Level Extreme ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至极限难度 **"
 	}
 	"*** ADMIN BUTTON STAGE 2 ***"
 	{
@@ -598,6 +598,6 @@
 	}
 	"*** ADMIN BUTTON Level Ultimate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至终极难度 **"
 	}
 }
