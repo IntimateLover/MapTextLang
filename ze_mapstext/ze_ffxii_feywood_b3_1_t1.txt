@@ -556,4 +556,76 @@
 	{
 		"chi"		"** **"
 	}
+	"ITEM - HEAL MAGICK (CURAGA) EFFECT - HEALS AND PROTECTS FROM ZOMBIES ALL NEARBY HUMANS DURATION - 5 SECONDS ITEM LEVEL - 3"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"ITEM - FIRE MAGICK (FIRAGA) EFFECT - IGNITES ALL NEARBY ZOMBIES DURATION - 9 SECONDS ITEM LEVEL - 3"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"ITEM - WIND MAGICK (AEROGA) EFFECT - MAKES A TORNADO THAT PUSHES AWAY ALL NEARBY ZOMBIES DURATION - 7 SECONDS ITEM LEVEL - 3"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THE LAST GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"** GOOD JOB [YOU WON LEVEL 4] **"
+	{
+		"chi"		"** **"
+	}
+	"**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**NADES ARENT DAMAGE HIM NOW**"
+	{
+		"chi"		"** **"
+	}
+	"**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**"
+	{
+		"chi"		"** **"
+	}
+	"(allahu-akbar)"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBIES HAVE ESCAPED**"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS HAS CAST DARKAGA**"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS HAS CAST THUNDAGA**"
+	{
+		"chi"		"** **"
+	}
 }

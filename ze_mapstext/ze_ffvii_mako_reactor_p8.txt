@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"** 主门还有 30 秒打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** A player has adquired ELECTRO MATERIA **"
 	{
@@ -60,7 +60,7 @@
 	"**Door is opening in 10 seconds**"
 	{
 		"chi"		"** 门还有 10 秒打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Door is opening in 5**"
 	{
@@ -133,7 +133,7 @@
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"** 离大门打开还剩 35 秒，派两三个人到控制室试着使门更早的开启 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"**  90 SECONDS LEFT **"
 	{
@@ -158,7 +158,7 @@
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"** 干的漂亮，门 10 秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**  60 SECONDS LEFT **"
 	{
@@ -232,7 +232,7 @@
 	{
 		"chi"		"** 逃脱时间还剩 20 秒 **"
 	}
-	"** RUN! **"
+	"** Run! **"
 	{
 		"chi"		"** 跑跑跑！ **"
 	}
@@ -343,7 +343,7 @@
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
 		"chi"		"** 终极洗礼将于 10 秒后到来 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
@@ -378,6 +378,22 @@
 		"chi"		"** **"
 	}
 	"*** Toggled -NUKE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -EASY MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -NORMAL MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -HARD MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -EXTREME MODE- ***"
 	{
 		"chi"		"** **"
 	}
