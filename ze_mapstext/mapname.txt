@@ -813,7 +813,7 @@
 		"chi"		"火影村"
 		"credit"		"500"
 	}
-	"ze_RTCW_Ominous_Rumors_p2"
+	"ze_RTCW_Ominous_Rumors_p3"
 	{
 		"chi"		"重返德军总部"
 	}
@@ -1201,7 +1201,7 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_mountain_escape_snow_v4_5"
+	"ze_mountain_escape_snow_v4_7"
 	{
 		"chi"		"爬雪山"
 	}
@@ -1252,10 +1252,6 @@
 	"ze_otakuroom_v3_4"
 	{
 		"chi"		"御宅房"
-	}
-	"ze_rizomata_a30f"
-	{
-		"chi"		"精灵塔"
 	}
 	"ze_venice_escape_p2"
 	{
@@ -1359,9 +1355,22 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_kororinpa_v1_2"
+	"ze_kororinpa_v1_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	
+	"ze_evernight_a1_3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_rizomata_a30f"
+	{
+		"chi"		"精灵塔[a30f结束后系统设定:ze_rizomata_b41]"
+	}
+	"ze_rizomata_b41"
+	{
+		"chi"		"不可预定[a30f结束后系统设定本地图]"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+	}
 }
