@@ -610,4 +610,8 @@
 	{
 		"chi"		"**奶拾取**"
 	}
+	"|Admin Room|***Admin has changed difficulty to LEVEL 1 ***"
+	{
+		"chi"		"** **"
+	}
 }
