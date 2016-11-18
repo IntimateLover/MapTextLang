@@ -2,11 +2,12 @@
 {
 	"*** Map by Airvulpes ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Airvulpes **"
 	}
 	"*** HOLD 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
@@ -14,7 +15,8 @@
 	}
 	"*** Hold 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -22,11 +24,13 @@
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**大气爆发**"
+		"chi"		"**大气爆发(看清位置躲避从天上出来的刀波）**"
+		"ico"		"icon_fire"
 	}
 	"*** GUST ***"
 	{
 		"chi"		"*****狂风（朝着BOSS按W）*****"
+		"ico"		"icon_fire"
 	}
 	"*** Hold 50 seconds ***"
 	{
@@ -35,54 +39,67 @@
 	"*** DOWNBURST ***"
 	{
 		"chi"		"*****下爆气流（倒计时结束按W）*****"
+		"ico"		"icon_fire"
+		"DoorCountDown"		"3"
 	}
 	"*** UPDRAFT ***"
 	{
 		"chi"		"*****上升气流（被吹到天上往下看调整位置） *****"
+		"ico"		"icon_fire"
 	}
 	"*** Hold 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒 **"
 	}
 	"*** FLAME RADIATION ***"
 	{
-		"chi"		"**火焰辐射**"
+		"chi"		"**火焰辐射（躲避火球喷射出的火焰）**"
+		"ico"		"icon_fire"
 	}
 	"*** FIREBALL ***"
 	{
-		"chi"		"**火球**"
+		"chi"		"**大火球（远离那个燃烧着的大火球）**"
+		"ico"		"icon_fire"
 	}
 	"*** SUN STRIKE ***"
 	{
-		"chi"		"**阳炎冲击**"
+		"chi"		"**极炎冲击（远离从天上垂下来的光柱）**"
+		"ico"		"icon_fire"
 	}
 	"*** MEGA FLARE ***"
 	{
 		"chi"		"**百万耀斑**"
+		"ico"		"icon_fire"
 	}
 	"*** FLASH OVER ***"
 	{
 		"chi"		"**闪燃**"
+		"ico"		"icon_fire"
 	}
 	"*** FORGE SPIRITS ***"
 	{
 		"chi"		"**熔炉精灵**"
+		"ico"		"icon_fire"
 	}
 	"*** GIGA FLARE ***"
 	{
 		"chi"		"**十亿耀斑**"
+		"ico"		"icon_fire"
 	}
 	"*** FRAMBERGE ***"
 	{
-		"chi"		"**焰形剑**"
+		"chi"		"**炎之刃（躲避从天上发出的刀刃）**"
+		"ico"		"icon_fire"
 	}
 	"*** TERA FLARE ***"
 	{
 		"chi"		"**兆亿耀斑**"
+		"ico"		"icon_fire"
 	}
 	"*** EXA FLARE ***"
 	{
 		"chi"		"**千兆亿耀斑**"
+		"ico"		"icon_fire"
 	}
 	"*** EYE OF THE STORM ***"
 	{
@@ -91,25 +108,26 @@
 	"*** TORNADO ***"
 	{
 		"chi"		"*****龙卷风（一直走动直到龙卷风出现）*****"
+		"ico"		"icon_fire"
 	}
 	"*** CURAGA ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恢复术 **"
 	}
 	"*** ZOMBIE KILLED PHILIA ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸杀死了大白球 **"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	"*** HOLY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**神圣 **"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入电梯 **"
 	}
 }
