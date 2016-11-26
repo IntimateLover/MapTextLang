@@ -1297,7 +1297,7 @@
 	{
 		"chi"		"最终幻想14:流浪者宫殿"
 	}
-	"ze_PKMN_Adventure_v6_3fix"
+	"ze_PKMN_Adventure_v6_3_2"
 	{
 		"chi"		"跳刀神奇宝贝"
 	}
@@ -1359,18 +1359,24 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_evernight_a1_3"
+	"ze_evernight_a1_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_boredom_v543655"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_rizomata_a30f"
 	{
-		"chi"		"精灵塔[a30f结束后系统设定:ze_rizomata_b41]"
+		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b42]"
 	}
-	"ze_rizomata_b41"
+	"ze_rizomata_b42"
 	{
-		"chi"		"不可预定[a30f结束后系统设定本地图]"
+		"chi"		"精灵塔[不可预定][a30f通关后自动本地图]"
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
 }
+
+

@@ -2,11 +2,13 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
+	  "Command" "zr_class_modify humans health 300"
 		"chi"		"**距离岩石墙碎裂还有15秒**"
 		"DoorCountDown"		"15"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
+	  "Command" "zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
 	"***FALL BACK***"
