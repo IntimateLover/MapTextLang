@@ -1,0 +1,149 @@
+"Console_T"
+{
+	"-- ZE EVERNIGHT --"
+	{
+		"chi"		"**永夜 **"
+	}
+	"**MAP BY ASAMI**"
+	{
+		"chi"		"**地图作者：浅见执羽╮(╯▽╰)╭**"
+	}
+	"**ACT I:INITIAL CONTACT**"
+	{
+		"chi"		"**第一幕：初次接触 **"
+	}
+	"**DIFFICULTY:EASY**"
+	{
+		"chi"		"**关卡难度：容易 **"
+	}
+	"**LOCATION:FROSTWIND VALLEY**"
+	{
+		"chi"		"**位置：FROSTWIND山谷 **"
+	}
+	"**WE WERE TRAILING BASILEUSIS TO HERE,AND HOPE TO GET THE GLIMMER FRAGMENT BEFORE HE DOES**"
+	{
+		"chi"		"**我们尾随于巴赛勒斯来到这里,希望能在他之前得到一丝线索 **"
+	}
+	"**HIDE YOURSELF AS MUCH AS POSSIBLE,DONT LET HIM GET TO FIND US TOO SOON**"
+	{
+		"chi"		"**尽可能地隐藏自己，不要让他太快找到我们 **"
+	}
+	"**Hold 25 seconds**"
+	{
+		"chi"		"**守住25秒 **"
+		"DoorCountDown" "25"
+	}
+	"**WE SMASHED THE ENERGY CRYSTAL,HOLD THE POSITION FOR 30 SECONDS TILL THE PARCLOSE DISAPPEAR**"
+	{
+		"chi"		"**我们摧毁了能量水晶，守住30秒等待屏障消失 **"
+	}
+	"**THE WAY IS BLOCKED,IT LOOKS LIKE WE HAVE TO BLOW OPEN THE ROCK**"
+	{
+		"chi"		"**这条路被封锁了，看来我们要炸开岩石 **"
+	}
+	"**C4 HAS BEEN PLANTED,COVER HERE FOR 45 SECONDS TILL THE C4 EXPLODE**"
+	{
+		"chi"		"**C4已埋下，等待45秒后C4爆炸 **"
+		"DoorCountDown" "45"
+	}
+	"**WE MUST HURRY UP,THE SOUND OF EXPLOSION MAYBE HAS CARRY FOR WHERE HE IS**"
+	{
+		"chi"		"**我们必须快点，爆炸的声音也许已经被他听到了 **"
+	}
+	"**A PLAYER LEARNED THE BAPTISM**"
+	{
+		"chi"		"**一位玩家学会了技能：洗礼 **"
+	}
+	"**HOLD 30 SECONDS**"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown" "30"
+	}
+	"**HOLD 20 SECONDS**"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown" "20"
+	}
+	"**HANG UP YOUR SLIDE HOOK,WELL SET OUT IN 10 SECONDS**"
+	{
+		"chi"		"**挂上你的挂钩，我们10秒后出发 **"
+	}
+	"**THIS PLACE LOOKS LIKE AN ABANDONED CAMP,MAYBE WE CAN FIND SOME SUPPLIES AT HERE**"
+	{
+		"chi"		"**这个地方看起来像一个废弃的营地，也许我们可以在这里找到一些补给 **"
+	}
+	"**A PLAYER LEARNED THE AIRIMPACT**"
+	{
+		"chi"		"**一位玩家学会了技能：气流冲击 **"
+	}
+	"**WERE TRYING TO BREAK THE WALL,HOLD 30 SECONDS**"
+	{
+		"chi"		"**我们正在试图打破木板，准备守住30秒 **"
+		"DoorCountDown" "30"
+	}
+	"**A PLAYER LEARNED THE THUNDERBLAST**"
+	{
+		"chi"		"**一位玩家学会了技能：闪电轰爆 **"
+	}
+	"**HOLD 45 SECONDS TILL THE DOOR OPEN**"
+	{
+		"chi"		"**守住45秒，直到大门开启 **"
+		"DoorCountDown" "45"
+	}
+	"**100 SECONDS TO ENTER THE TEMPLE!READY FOR BATTLE!**"
+	{
+		"chi"		"**100秒后进入圣殿!准备战斗! **"
+	}
+	"**WHATS THAT?A CLOUD OF SMOKE?**"
+	{
+		"chi"		"**那是什么？一团烟雾？ **"
+	}
+	"**ITS COMING TO US!SHOT IT!SHOT IT!**"
+	{
+		"chi"		"**它过来了！射击！射击！ **"
+	}
+	"**YOU CANT DEFEAT IT...**"
+	{
+		"chi"		"**你无法战胜它... **"
+	}
+	"**A PLAYER LEARNED THE SHADOWBOUND**"
+	{
+		"chi"		"**一位玩家学会了技能：影缚 **"
+	}
+	"**A PLAYER LEARNED THE FROSTBITE**"
+	{
+		"chi"		"**一位玩家学会了技能：寒霜之咬 **"
+	}
+	"**ITS AN IMAGE OF BASILEUSIS,HE MUST KNOW WERE HERE NOW...**"
+	{
+		"chi"		"**我们必须要让巴赛勒斯知道在这里发生了什么... **"
+	}
+	"**WE HAVE TO HURRY UP,LETS GET INTO THE TEMPLE**"
+	{
+		"chi"		"**我们得快点，赶紧进入圣殿 **"
+	}
+	"**A PLAYER LEARNED THE FLAMESHOT**"
+	{
+		"chi"		"**一位玩家学会了技能：烈焰喷射 **"
+	}
+	"**10 SECONDS REMAINING**"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"**ACT I COMPLETE**"
+	{
+		"chi"		"**第一幕完成 **"
+	}
+	"**THANKS FOR PLAYING**"
+	{
+		"chi"		"**感谢你的参与 **"
+	}
+	"**NEXT LEVELS COMING SOON**"
+	{
+		"chi"		"**下一关即将到来 **"
+	}
+	"**KILL REMAINING ZOMBIES**"
+	{
+		"chi"		"**杀死剩余的僵尸 **"
+	}
+}

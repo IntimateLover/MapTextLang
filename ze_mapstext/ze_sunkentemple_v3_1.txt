@@ -181,4 +181,12 @@
 	{
 		"chi"		"** **"
 	}
+	">>> Gate will open in 40 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Gate will close in 10 seconds <<<"
+	{
+		"chi"		"** **"
+	}
 }

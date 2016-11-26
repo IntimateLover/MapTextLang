@@ -174,27 +174,27 @@
 	}
 	"*** Tower lifts activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔电梯激活**"
 	}
 	"*** Tower lifts leaving in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔电梯10秒后离开**"
 	}
 	"*** Defend the tower for 60 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒**"
 	}
 	"*** 30 seconds left ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有30秒**"
 	}
 	"*** Prepare to jump! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备好信仰之跃吧！**"
 	}
 	"*** JUMP! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳跳跳！**"
 	}
 	"*** STAGE IV (ZM) ***"
 	{

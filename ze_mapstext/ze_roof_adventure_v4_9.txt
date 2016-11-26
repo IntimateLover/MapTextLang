@@ -337,4 +337,8 @@
 	{
 		"chi"		"**BOSS将在5秒后毁灭你们**"
 	}
+	"***Level completes!You win the roof adventure!***"
+	{
+		"chi"		"** **"
+	}
 }
