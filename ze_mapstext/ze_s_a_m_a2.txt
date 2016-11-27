@@ -2,23 +2,24 @@
 {
 	"***Stage 1***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"**Player has picked up <Water Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：水魔法 **"
 	}
 	"**Door opening in 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门10秒后打开 **"
 	}
 	"**Player has picked up <Lightning Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：雷电魔法 **"
 	}
 	"**Door breaking in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"**5 seconds**"
 	{
@@ -26,82 +27,88 @@
 	}
 	"**Player has picked up <Gravity Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：黑洞魔法 **"
 	}
 	"**Player has picked up <Tornado Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：旋风魔法 **"
 	}
 	"**Fence breaking in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**铁栅栏30秒后破碎 **"
 	}
 	"**Player has picked up <Heal Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：治疗魔法 **"
 	}
 	"**Window breaking in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**窗户20秒后破碎 **"
+		"DoorCountDown" "20"
 	}
 	"**There seems a secret in the statue**"
 	{
-		"chi"		"** **"
+		"chi"		"**这两个石像似乎有什么秘密 **"
 	}
 	"**You found the secret**"
 	{
-		"chi"		"** **"
+		"chi"		"**你发现了这个秘密 **"
 	}
 	"**Door opening in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后开启 **"
+		"DoorCountDown" "20"
 	}
 	"**Door opening in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后开启 **"
+		"DoorCountDown" "30"
 	}
 	"**Its Troll!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**是巨魔！！！ **"
 	}
 	"**Shake**"
 	{
-		"chi"		"** **"
+		"chi"		"**地动山摇 **"
 	}
 	"**OutDoor opening in 25 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**通往外界的大门25秒后开启 **"
+		"DoorCountDown" "25"
 	}
 	"**We must get the teleportcrystall to activate the teleporter**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须得到传送晶体以激活传送阵 **"
 	}
 	"**We have got the teleportcrystall**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们得到了传送晶体 **"
 	}
 	"**HOLD 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"**STAGE 1 CLEAR**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关通过 **"
 	}
 	"**Player has picked up <Ultima Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：终极魔法 **"
 	}
 	"**Player has picked up <Earth Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会技能：土魔法 **"
 	}
 	"**Shadow**"
 	{
-		"chi"		"** **"
+		"chi"		"**暗影束缚（远离石柱） **"
+		"ico"   "icon_fire"
 	}
 	"**Round Failed**"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 }
