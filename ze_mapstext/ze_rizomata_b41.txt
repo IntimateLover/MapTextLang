@@ -24,7 +24,7 @@
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**大气爆发(看清位置躲避从天上出来的刀波）**"
+		"chi"		"**大气爆发**"
 		"ico"		"icon_fire"
 	}
 	"*** GUST ***"
@@ -53,17 +53,17 @@
 	}
 	"*** FLAME RADIATION ***"
 	{
-		"chi"		"**火焰辐射（躲避火球喷射出的火焰）**"
+		"chi"		"**火焰辐射**"
 		"ico"		"icon_fire"
 	}
 	"*** FIREBALL ***"
 	{
-		"chi"		"**大火球（远离那个燃烧着的大火球）**"
+		"chi"		"**火球**"
 		"ico"		"icon_fire"
 	}
 	"*** SUN STRIKE ***"
 	{
-		"chi"		"**极炎冲击（远离从天上垂下来的光柱）**"
+		"chi"		"**阳炎冲击**"
 		"ico"		"icon_fire"
 	}
 	"*** MEGA FLARE ***"
@@ -88,7 +88,7 @@
 	}
 	"*** FRAMBERGE ***"
 	{
-		"chi"		"**炎之刃（躲避从天上发出的刀刃）**"
+		"chi"		"**焰形剑**"
 		"ico"		"icon_fire"
 	}
 	"*** TERA FLARE ***"
