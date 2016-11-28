@@ -2,7 +2,7 @@
 {
 	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"**这是根据游戏潜行者来制作的地图 **"
+		"chi"		"**这是根据游戏（潜行者）制作的地图 **"
 	}
 	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
 	{
@@ -10,7 +10,7 @@
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to LonllY POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪  特别感谢：LonllY POMKA Said Z-O-M-B-I-E **"
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪  特别感谢：LonllY POMKA Said Z-O-M-B-I-E的各位 **"
 	}
 	"Type in console mat_colorcorrection 1 for dynamic effects!!"
 	{
@@ -18,7 +18,7 @@
 	}
 	"A player picked up meatchunk"
 	{
-		"chi"		"**一名玩家拿起诱引 **"
+		"chi"		"**一名玩家拿起神器：meatchunk(诱引) **"
 	}
 	"Zombie shield is activated. You have 15 seconds."
 	{
@@ -26,23 +26,23 @@
 	}
 	"A player picked up spikeball"
 	{
-		"chi"		"**一名玩家拿起奶 **"
+		"chi"		"**一名玩家拿起神器：spikeball（奶） **"
 	}
 	"A player picked up fireball"
 	{
-		"chi"		"**一名玩家拿起火 **"
+		"chi"		"**一名玩家拿起神器：fireball（火） **"
 	}
 	"A player picked up a piece of flesh"
 	{
-		"chi"		"**一名玩家拿起风 **"
+		"chi"		"**一名玩家拿起神器：flesh（风） **"
 	}
 	"A player picked up flash"
 	{
-		"chi"		"**一名玩家拿起电 **"
+		"chi"		"**一名玩家拿起神器：flash（电） **"
 	}
 	"A player picked up nightstar"
 	{
-		"chi"		"**一名玩家拿起减速 **"
+		"chi"		"**一名玩家拿起神器nightstar（减速） **"
 	}
 	"Lab door 1 will open in 11 seconds"
 	{
@@ -59,6 +59,7 @@
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
 		"chi"		"**如果你想打开门就必须要打开电力（电力开关在墙上，请仔细寻找）! ! ! **"
+		"ico"   "icon_fire"
 	}
 	"The gate 1 will open in 30 seconds"
 	{
@@ -71,6 +72,7 @@
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
 		"chi"		"**现在已经有了电力.你可以按下按钮打开两边的门 **"
+		"ico"   "icon_fire"
 	}
 	"Zombie shield is disabled."
 	{
@@ -116,7 +118,7 @@
 	}
 	"**AUTO-SLAYER ENABLED**"
 	{
-		"chi"		"**第二关 auto-slayer启用 **"
+		"chi"		"**第二关：auto-slayer启用 **"
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
@@ -129,7 +131,7 @@
 	}
 	"***Break the spheres to escape***"
 	{
-		"chi"		"**赶紧打破中间的球体逃跑 **"
+		"chi"		"**赶紧打破中间所有的玻璃圆柱然后逃走 **"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
@@ -180,11 +182,12 @@
 	}
 	"**Its dead. Good job**"
 	{
-		"chi"		"**它死了。干得好 **"
+		"chi"		"**它死了，干得好 **"
 	}
 	"**1 PLAYER have to go to the command room to take documents**"
 	{
 		"chi"		"**1名玩家必须到指挥室去拿证件 **"
+		"ico"   "icon_fire"
 	}
 	"**The documents are here!**We are too close!**"
 	{
@@ -250,6 +253,7 @@
 	"**Now go away to the coast**"
 	{
 		"chi"		"**现在去海岸  **"
+		"ico"   "icon_fire"
 	}
 	"**The blowout is comming**"
 	{
@@ -258,10 +262,12 @@
 	"**Prepare for ultimate survival. Fight for your life!!**"
 	{
 		"chi"		"**拼尽全力存活下来 **"
+		"ico"   "icon_fire"
 	}
 	"**FIREBALL GOT MAXIMUM POWER**"
 	{
 		"chi"		"**火球升级到最高级 **"
+		"ico"   "icon_fire"
 	}
 	"**YOU DID IT!!!**GOOD LUCK!!**"
 	{
@@ -286,11 +292,11 @@
 	}
 	"**DONT LET HIM TO FAIL US!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让它失败！！ **"
 	}
 	"**PLAY AS YOU CAN**"
 	{
-		"chi"		"** **"
+		"chi"		"**发挥你的技术 **"
 	}
 	"**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
 	{
@@ -327,14 +333,17 @@
 	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
 	{
 		"chi"		"**风升级到最高级 **"
+		"ico"   "icon_fire"
 	}
 	"**NIGHTSTAR GOT MAXIMUM POWER**"
 	{
 		"chi"		"**减速升级到最高级 **"
+		"ico"   "icon_fire"
 	}
 	"**FLASH GOT MAXIMUM POWER**"
 	{
 		"chi"		"**电升级到最高级 **"
+		"ico"   "icon_fire"
 	}
 	"**YOU HAVE FAILED**"
 	{
@@ -342,10 +351,10 @@
 	}
 	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至第五关 **"
 	}
 	"You are too slow..."
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了… **"
 	}
 }
