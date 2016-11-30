@@ -24,27 +24,28 @@
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**大气爆发(看清位置躲避从天上出来的刀波）**"
+		"chi"		"**大气爆发**"
 		"ico"		"icon_fire"
 	}
 	"*** GUST ***"
 	{
-		"chi"		"*****狂风（朝着BOSS按W）*****"
+		"chi"		"**狂风**"
 		"ico"		"icon_fire"
 	}
 	"*** Hold 50 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"*** DOWNBURST ***"
 	{
-		"chi"		"*****下爆气流（倒计时结束按W）*****"
+		"chi"		"**下爆气流（倒计时结束按W）**"
 		"ico"		"icon_fire"
 		"DoorCountDown"		"3"
 	}
 	"*** UPDRAFT ***"
 	{
-		"chi"		"*****上升气流（被吹到天上往下看调整位置） *****"
+		"chi"		"**上升气流 **"
 		"ico"		"icon_fire"
 	}
 	"*** Hold 10 seconds ***"
@@ -53,17 +54,17 @@
 	}
 	"*** FLAME RADIATION ***"
 	{
-		"chi"		"**火焰辐射（躲避火球喷射出的火焰）**"
+		"chi"		"**火焰辐射**"
 		"ico"		"icon_fire"
 	}
 	"*** FIREBALL ***"
 	{
-		"chi"		"**大火球（远离那个燃烧着的大火球）**"
+		"chi"		"**大火球**"
 		"ico"		"icon_fire"
 	}
 	"*** SUN STRIKE ***"
 	{
-		"chi"		"**极炎冲击（远离从天上垂下来的光柱）**"
+		"chi"		"**阳炎冲击**"
 		"ico"		"icon_fire"
 	}
 	"*** MEGA FLARE ***"
@@ -88,7 +89,7 @@
 	}
 	"*** FRAMBERGE ***"
 	{
-		"chi"		"**炎之刃（躲避从天上发出的刀刃）**"
+		"chi"		"**焰形剑**"
 		"ico"		"icon_fire"
 	}
 	"*** TERA FLARE ***"
@@ -103,31 +104,31 @@
 	}
 	"*** EYE OF THE STORM ***"
 	{
-		"chi"		"****暴风之眼*****"
+		"chi"		"**暴风之眼**"
 	}
 	"*** TORNADO ***"
 	{
-		"chi"		"*****龙卷风（一直走动直到龙卷风出现）*****"
+		"chi"		"**龙卷风（一直走动直到龙卷风出现）**"
 		"ico"		"icon_fire"
 	}
 	"*** CURAGA ***"
 	{
-		"chi"		"**恢复术 **"
+		"chi"		"**超级治疗**"
 	}
 	"*** ZOMBIE KILLED PHILIA ***"
 	{
-		"chi"		"**僵尸杀死了大白球 **"
+		"chi"		"**僵尸杀死了大白球**"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"**本关失败 **"
+		"chi"		"**本关失败**"
 	}
 	"*** HOLY ***"
 	{
-		"chi"		"**神圣 **"
+		"chi"		"**神圣**"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"**僵尸进入电梯 **"
+		"chi"		"**僵尸进入电梯**"
 	}
 }
