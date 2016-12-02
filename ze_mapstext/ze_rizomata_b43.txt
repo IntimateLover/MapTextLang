@@ -131,4 +131,8 @@
 	{
 		"chi"		"**僵尸进入电梯**"
 	}
+	"*** LIFT IS LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
 }
