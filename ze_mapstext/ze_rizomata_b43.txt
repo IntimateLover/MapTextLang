@@ -24,17 +24,17 @@
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**大气爆发**"
+		"chi"		"**大气爆发(看天上**"
 		"ico"		"icon_fire"
 	}
 	"*** GUST ***"
 	{
-		"chi"		"**狂风**"
+		"chi"		"**狂风（朝着BOSS按W）**"
 		"ico"		"icon_fire"
 	}
 	"*** Hold 50 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住50秒 **"
 		"DoorCountDown"		"50"
 	}
 	"*** DOWNBURST ***"
@@ -45,7 +45,7 @@
 	}
 	"*** UPDRAFT ***"
 	{
-		"chi"		"**上升气流 **"
+		"chi"		"**上升气流（被吹到天上往下看调整位置） **"
 		"ico"		"icon_fire"
 	}
 	"*** Hold 10 seconds ***"
@@ -64,7 +64,7 @@
 	}
 	"*** SUN STRIKE ***"
 	{
-		"chi"		"**阳炎冲击**"
+		"chi"		"**阳炎冲击(远离从天上垂下来的光柱）**"
 		"ico"		"icon_fire"
 	}
 	"*** MEGA FLARE ***"
@@ -89,7 +89,7 @@
 	}
 	"*** FRAMBERGE ***"
 	{
-		"chi"		"**焰形剑**"
+		"chi"		"**炎之刃（看天上远离落下来的剑刃）**"
 		"ico"		"icon_fire"
 	}
 	"*** TERA FLARE ***"
@@ -133,6 +133,6 @@
 	}
 	"*** LIFT IS LEAVING IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
 	}
 }
