@@ -284,6 +284,7 @@
 	{
 		"chi"		"**巨人施放了终极！跑向边缘！**"
 		"ico"		"icon_fire"
+		"DoorCountDown"		"7"
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
@@ -364,6 +365,7 @@
 	{
 		"chi"		">>>炎魔释放了秒杀法阵，往后退！<<<"
 		"ico"		"icon_fire"
+		"DoorCountDown"		"5"
 	}
 	">>> BALROG IS HURT <<<"
 	{

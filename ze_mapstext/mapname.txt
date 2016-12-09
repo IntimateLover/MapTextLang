@@ -213,6 +213,14 @@
 		"chi"		"整蛊之家"
 		"credit"		"500"
 	}
+	"ze_firewall_laboratory_part1_p2"
+	{
+		"chi"		"防火墙实验室1"
+	}
+	"ze_firewall_laboratory_part2_p2"
+	{
+		"chi"		"防火墙实验室2"
+	}
 	"ze_fapescape_p5"
 	{
 		"chi"		"乐高大逃亡"
@@ -976,10 +984,9 @@
 		"chi"		"美杜莎神庙"
 		"credit"		"800"
 	}
-	"ze_ffxii_westersand_v7_2_e2"
+	"ze_ffxii_westersand_v7_2_e2_fix2"
 	{
 		"chi"		"最终幻想12：西沙"
-		"credit"		"1000"
 	}
 	"ze_ffxii_paramina_rift_v1_7"
 	{
@@ -1105,7 +1112,7 @@
 	{
 		"chi"		"急速撤离"
 	}
-	"ze_laser_island_b6_4"
+	"ze_laser_island_b6_5"
 	{
 		"chi"		"跳刀岛逃亡之旅"
 	}
@@ -1201,7 +1208,7 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_mountain_escape_snow_v4_7"
+	"ze_mountain_escape_snow_v4_8"
 	{
 		"chi"		"爬雪山"
 	}
@@ -1285,7 +1292,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v4_9"
+	"ze_roof_adventure_v4_16"
 	{
 		"chi"		"屋顶大冒险"
 	}
@@ -1369,15 +1376,15 @@
 	}
 	"ze_rizomata_a30f"
 	{
-		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b42]"
+		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b43]"
 	}
-	"ze_rizomata_b42"
+	"ze_rizomata_b43"
 	{
 		"chi"		"精灵塔[不可预定][a30f通关后自动本地图]"
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
-	"ze_s_a_m_a2"
+	"ze_s_a_m_a3"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1392,5 +1399,13 @@
 	"ze_ShroomForest2_p6"
 	{
 		"chi"		"蘑菇森林2"
+	}
+	"ze_licciana_escape_v3fix"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_dreamin_b5"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }

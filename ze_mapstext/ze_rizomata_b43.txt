@@ -39,7 +39,7 @@
 	}
 	"*** DOWNBURST ***"
 	{
-		"chi"		"**下爆气流（倒计时结束按W）**"
+		"chi"		"**下爆气流**"
 		"ico"		"icon_fire"
 		"DoorCountDown"		"3"
 	}

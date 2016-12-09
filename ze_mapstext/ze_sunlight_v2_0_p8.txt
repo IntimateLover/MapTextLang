@@ -6,7 +6,7 @@
 	}
 	"Map ported by www.dashijie.es"
 	{
-		"chi"		"**地图移植：www.dashijie.es**"
+		"chi"		"**Rules of _p**"
 	}
 	"*** STAGE I ***"
 	{
@@ -19,9 +19,9 @@
 	"*** Defend for 30 seconds! ***"
 	{
 		"chi"		"**防守30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"**还有5秒 **"
 	}
@@ -68,7 +68,7 @@
 	"*** Defend for 35 seconds! ***"
 	{
 		"chi"		"**防御35秒 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"*** Orange Launcher has been acquired ***"
 	{
