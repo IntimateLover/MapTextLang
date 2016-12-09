@@ -1320,12 +1320,6 @@
 	{
 		"chi"		"纽约逃亡"
 	}
-	"ze_lotr_minas_tirith_v3_3_th26"
-	{
-		"chi"		"魔戒3：米那斯提力斯"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
-	}
 	"ze_AEPP_Nano_Grid2_b2"
 	{
 		"chi"		"此地图暂无译名"
@@ -1401,6 +1395,12 @@
 	"ze_rizomata_a30f"
 	{
 		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b43]"
+	}
+	"ze_lotr_minas_tirith_v3_3_th23"
+	{
+		"chi"		"魔戒3：米那斯提力斯"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 	"ze_rizomata_b43"
 	{
