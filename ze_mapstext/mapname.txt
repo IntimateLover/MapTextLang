@@ -1374,17 +1374,7 @@
 	{
 		"chi"		"反转世界"
 	}
-	"ze_rizomata_a30f"
-	{
-		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b43]"
-	}
-	"ze_rizomata_b43"
-	{
-		"chi"		"精灵塔[不可预定][a30f通关后自动本地图]"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
-	}
-	"ze_s_a_m_a3"
+		"ze_s_a_m_a3"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1407,5 +1397,15 @@
 	"ze_dreamin_b5"
 	{
 		"chi"		"此地图暂无译名"
+	}
+	"ze_rizomata_a30f"
+	{
+		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b43]"
+	}
+	"ze_rizomata_b43"
+	{
+		"chi"		"精灵塔[不可预定][a30f通关后自动本地图]"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 }
