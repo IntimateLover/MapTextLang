@@ -19,12 +19,12 @@
 	"***The wood door will break in 30s!***"
 	{
 		"chi"		"**木门30秒后打开！ **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*hold for 45 seconds!*"
 	{
 		"chi"		"**守住45秒！ **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"***All zombies will be teleported in 9s!***"
 	{
@@ -33,17 +33,17 @@
 	"***Hold for 15s!***"
 	{
 		"chi"		"**守住15秒！ **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***Hold for 30s!***"
 	{
 		"chi"		"**守住30秒！ **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Rock monster will appear in 20 seconds!***"
 	{
 		"chi"		"**怪物将在20秒后出现！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Shoot rock monster!***"
 	{
@@ -72,7 +72,7 @@
 	"***Hold for 35s!***"
 	{
 		"chi"		"**守住35秒！ **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***Enter the safe room!The nuke will be started in 10 seconds!***"
 	{
@@ -121,7 +121,7 @@
 	"***Hold for 30 seconds!***"
 	{
 		"chi"		"**守住30秒！ **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***GO!GO!GO!***"
 	{
@@ -130,7 +130,7 @@
 	"***The wood door will break in 20s!***"
 	{
 		"chi"		"**木门将在20秒后打开！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Keep care of zombies!***"
 	{
@@ -202,12 +202,12 @@
 	"***Hold here for 30s!***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Resist for 25s!***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"***The ulimate will start in 14 seconds!***"
 	{
@@ -216,13 +216,13 @@
 	"***Rock monster used backward-push!***"
 	{
 		"chi"		"**怪物使用了推（按住W） **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used right-push!***"
 	{
 		"chi"		"**怪物使用了推（往左边走） **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used electrion!***"
@@ -254,7 +254,7 @@
 	"***The wood door will break in 40s!***"
 	{
 		"chi"		"**木门40秒后开启 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***All zombies will be teleported in 9s!!***"
 	{
@@ -288,13 +288,13 @@
 	"***Rock monster used forward-push!***"
 	{
 		"chi"		"**怪物使用了推（按住S） **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used left-push!***"
 	{
 		"chi"		"**怪物使用了推（按住D） **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***(Admin)Next mode:[Extreme]***"
@@ -312,25 +312,25 @@
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用右推（准备按住A）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用左推（准备按住D）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用前吸（准备按住S）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用后推（准备按住W）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Boss will use ulimate in 5s!***"
@@ -622,6 +622,114 @@
 		"chi"		"** **"
 	}
 	"***2 minutes left!***"
+	{
+		"chi"		"** **"
+	}
+	"***The wood will break in 40s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Ready for push in 40s!***"
+	{
+		"chi"		"** **"
+	}
+	"***All zombies will come in 9s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Ladder will be activated in 45s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Window will break in 45s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold gift for last 45s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Great!Level completes!***"
+	{
+		"chi"		"** **"
+	}
+	"***1 minutes left!***"
+	{
+		"chi"		"** **"
+	}
+	"***10s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***4s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***3s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***2s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***1s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***(Admin)Next mode:[Fantastic]***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for last 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***5!***"
+	{
+		"chi"		"** **"
+	}
+	"***4!***"
+	{
+		"chi"		"** **"
+	}
+	"***3!***"
+	{
+		"chi"		"** **"
+	}
+	"***2!***"
+	{
+		"chi"		"** **"
+	}
+	"***1!***"
+	{
+		"chi"		"** **"
+	}
+	"***Resist for 45s!***"
+	{
+		"chi"		"** **"
+	}
+	"***we will see the laser road later!***"
+	{
+		"chi"		"** **"
+	}
+	"***Noob mode will start in 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***Winners can get 50 points!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boss will destroy us in 5s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 40s!***"
 	{
 		"chi"		"** **"
 	}
