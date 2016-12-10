@@ -659,7 +659,7 @@
 		"chi"		"麦伽乐城堡"
 		"credit"		"600"
 	}
-	"ze_dangerous_waters_in_christma"
+	"ze_dangerous_waters_in_christmas_day"
 	{
 		"chi"		"圣诞节—危险水域"
 	}
@@ -844,11 +844,6 @@
 	{
 		"chi"		"雷蒙尼斯尼奇大行动"
 		"credit"		"400"
-	}
-	"ze_ffxii_paramina_rift_v1_3_ps1"
-	{
-		"chi"		"最终幻想12：帕里米亚"
-		"credit"		"700"
 	}
 	"ze_mirrors_edge_reborn_v4_2_p3"
 	{
@@ -1384,7 +1379,7 @@
 	{
 		"chi"		"蘑菇森林2"
 	}
-	"ze_licciana_escape_v3fix"
+	"ze_licciana_escape_p"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1408,11 +1403,11 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_rizomata_a30f"
+	"ze_rizomata_a43"
 	{
-		"chi"		"精灵塔[a30f通关后系统设定:ze_rizomata_b43]"
+		"chi"		"精灵塔[a43通关后系统设定:ze_rizomata_b43]"
 	}
-	"ze_lotr_minas_tirith_v3_3_th23"
+	"ze_lotr_minas_tirith_v3_3_ps28"
 	{
 		"chi"		"魔戒3：米那斯提力斯"
 		"onlyadmin"		"1"
