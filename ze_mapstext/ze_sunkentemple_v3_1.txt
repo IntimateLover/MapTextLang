@@ -145,48 +145,50 @@
 	}
 	">>> BLUE <<<"
 	{
-		"chi"		"**蓝 **"
+		"chi"		"**蓝(往四个角落的柱子移动） **"
 		"ico"		"icon_fire"
 	}
 	">>> GREEN <<<"
 	{
-		"chi"		"**绿 **"
+		"chi"		"**绿（站在中间的柱子上） **"
 		"ico"		"icon_fire"
 	}
 	"*** YOU KILLED THE BOSS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你杀死了BOSS **"
 	}
 	">>> Drawbridge will open in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**吊桥在15秒后启动 **"
+		"DoorCountDown" "15"
 	}
 	">>> Gate will close in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后关闭 **"
 	}
 	">>> Thanks for playing <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**谢谢你的游玩 **"
 	}
 	">>> Map made by Ripsaw <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Ripsaw 地图翻译：蓬莱山帅比♪**"
 	}
 	">>> Thanks to Luffaren for the lever model <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**谢谢Luffaren制作的拉杆模型 **"
 	}
 	">>> Thanks to Syoudous & Enviolinador for help  Tips"
 	{
-		"chi"		"** **"
+		"chi"		"**谢谢Syoudous和Enviolinador的提示 **"
 	}
 	">>> Gate will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门40秒后开启 **"
+		"DoorCountDown" "40"
 	}
 	">>> Gate will close in 10 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门10秒后关闭 **"
 	}
 }
