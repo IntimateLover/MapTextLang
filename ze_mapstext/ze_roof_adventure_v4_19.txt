@@ -2,81 +2,81 @@
 {
 	"***Map By Color!***"
 	{
-		"chi"		"**µØÍ¼ÖÆ×÷£ºColor£¡ µØÍ¼·­Òë£ºÅîÀ³É½Ë§±È? **"
+		"chi"		"**åœ°å›¾åˆ¶ä½œï¼šColorï¼ åœ°å›¾ç¿»è¯‘ï¼šè“¬è±å±±å¸…æ¯”â™ª **"
 	}
 	"***Current Mode:[Easy]***"
 	{
-		"chi"		"**µ±Ç°¹Ø¿¨£ºÈİÒ× **"
+		"chi"		"**å½“å‰å…³å¡ï¼šå®¹æ˜“ **"
 	}
 	"***Welcome to roof adventure!***"
 	{
-		"chi"		"**»¶Ó­À´µ½Îİ¶¥Ã°ÏÕ£¡ **"
+		"chi"		"**æ¬¢è¿æ¥åˆ°å±‹é¡¶å†’é™©ï¼ **"
 	}
 	"*A player has picked health element[Lv1]!*"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁËÄÌ[LV1] **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†å¥¶[LV1] **"
 	}
 	"***The wood door will break in 30s!***"
 	{
-		"chi"		"**Ä¾ÃÅ30Ãëºó´ò¿ª£¡ **"
+		"chi"		"**æœ¨é—¨30ç§’åæ‰“å¼€ï¼ **"
 		"DoorCountDown"		"30"
 	}
 	"*hold for 45 seconds!*"
 	{
-		"chi"		"**ÊØ×¡45Ãë£¡ **"
+		"chi"		"**å®ˆä½45ç§’ï¼ **"
 		"DoorCountDown"		"45"
 	}
 	"***All zombies will be teleported in 9s!***"
 	{
-		"chi"		"**ËùÓĞµÄ½©Ê¬½«ÔÚ9Ãëºó´«ËÍ£¡ **"
+		"chi"		"**æ‰€æœ‰çš„åƒµå°¸å°†åœ¨9ç§’åä¼ é€ï¼ **"
 	}
 	"***Hold for 15s!***"
 	{
-		"chi"		"**ÊØ×¡15Ãë£¡ **"
+		"chi"		"**å®ˆä½15ç§’ï¼ **"
 		"DoorCountDown"		"15"
 	}
 	"***Hold for 30s!***"
 	{
-		"chi"		"**ÊØ×¡30Ãë£¡ **"
+		"chi"		"**å®ˆä½30ç§’ï¼ **"
 		"DoorCountDown"		"30"
 	}
 	"***Rock monster will appear in 20 seconds!***"
 	{
-		"chi"		"**¹ÖÎï½«ÔÚ20Ãëºó³öÏÖ£¡ **"
+		"chi"		"**æ€ªç‰©å°†åœ¨20ç§’åå‡ºç°ï¼ **"
 		"DoorCountDown"		"20"
 	}
 	"***Shoot rock monster!***"
 	{
-		"chi"		"**Éä»÷¹ÖÎï£¡ **"
+		"chi"		"**å°„å‡»æ€ªç‰©ï¼ **"
 	}
 	"***Rock monster will attack in 5 seconds!***"
 	{
-		"chi"		"**¹ÖÎï½«ÔÚ5Ãëºó¹¥»÷£¡ **"
+		"chi"		"**æ€ªç‰©å°†åœ¨5ç§’åæ”»å‡»ï¼ **"
 	}
 	"***Rock monster has been defeated!Go!***"
 	{
-		"chi"		"**¹ÖÎï±»´ò°ÜÁË£¡×ß£¡ **"
+		"chi"		"**æ€ªç‰©è¢«æ‰“è´¥äº†ï¼èµ°ï¼ **"
 	}
 	"***Humans will be teleported in 2s!***"
 	{
-		"chi"		"**ÈËÀà½«ÔÚ2Ãëºó´«ËÍ£¡ **"
+		"chi"		"**äººç±»å°†åœ¨2ç§’åä¼ é€ï¼ **"
 	}
 	"***The wood will break in 5s!***"
 	{
-		"chi"		"**Ä¾Í·5Ãëºó´òÆÆ **"
+		"chi"		"**æœ¨å¤´5ç§’åæ‰“ç ´ **"
 	}
 	"***All zombies will be teleported in 10s!***"
 	{
-		"chi"		"**ËùÓĞµÄ½©Ê¬½«ÔÚ10Ãëºó´«ËÍ£¡ **"
+		"chi"		"**æ‰€æœ‰çš„åƒµå°¸å°†åœ¨10ç§’åä¼ é€ï¼ **"
 	}
 	"***Hold for 35s!***"
 	{
-		"chi"		"**ÊØ×¡35Ãë£¡ **"
+		"chi"		"**å®ˆä½35ç§’ï¼ **"
 		"DoorCountDown"		"35"
 	}
 	"***Enter the safe room!The nuke will be started in 10 seconds!***"
 	{
-		"chi"		"**½øÈë°²È«Îİ£¡ºËÎäÆ÷½«ÔÚ10ÃëºóÍ¶·Å£¡ **"
+		"chi"		"**è¿›å…¥å®‰å…¨å±‹ï¼æ ¸æ­¦å™¨å°†åœ¨10ç§’åæŠ•æ”¾ï¼ **"
 	}
 	"***5***"
 	{
@@ -100,242 +100,242 @@
 	}
 	"***Level completes!Next level is [Normal]***"
 	{
-		"chi"		"**±¾¹ØÄÑ¶ÈÍ¨¹ı£¡ÏÂÒ»ÄÑ¶È£ºÆÕÍ¨ **"
+		"chi"		"**æœ¬å…³éš¾åº¦é€šè¿‡ï¼ä¸‹ä¸€éš¾åº¦ï¼šæ™®é€š **"
 	}
 	"***Current Mode:[Normal]***"
 	{
-		"chi"		"**µ±Ç°¹Ø¿¨£ºÆÕÍ¨ **"
+		"chi"		"**å½“å‰å…³å¡ï¼šæ™®é€š **"
 	}
 	"*A player has picked health element[Lv2]!*"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁËÄÌ[LV2] **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†å¥¶[LV2] **"
 	}
 	"***A player has picked rock element!***"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁËÍÁ£¡ **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†åœŸï¼ **"
 	}
 	"*A zombie has picked speed element!*"
 	{
-		"chi"		"**Ò»Î»½©Ê¬ÄÃÆğ¼ÓËÙ£¡ **"
+		"chi"		"**ä¸€ä½åƒµå°¸æ‹¿èµ·åŠ é€Ÿï¼ **"
 	}
 	"***Hold for 30 seconds!***"
 	{
-		"chi"		"**ÊØ×¡30Ãë£¡ **"
+		"chi"		"**å®ˆä½30ç§’ï¼ **"
 		"DoorCountDown"		"30"
 	}
 	"***GO!GO!GO!***"
 	{
-		"chi"		"**ÅÜ£¡ **"
+		"chi"		"**è·‘ï¼ **"
 	}
 	"***The wood door will break in 20s!***"
 	{
-		"chi"		"**Ä¾ÃÅ½«ÔÚ20Ãëºó´ò¿ª£¡ **"
+		"chi"		"**æœ¨é—¨å°†åœ¨20ç§’åæ‰“å¼€ï¼ **"
 		"DoorCountDown"		"20"
 	}
 	"***Keep care of zombies!***"
 	{
-		"chi"		"**²»ÒªÈÃ½©Ê¬¹ıÀ´£¡ **"
+		"chi"		"**ä¸è¦è®©åƒµå°¸è¿‡æ¥ï¼ **"
 	}
 	"*A player has picked lighting element!*"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁËµç£¡ **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†ç”µï¼ **"
 	}
 	"***All zombies will be teleported in 9 seconds!***"
 	{
-		"chi"		"**ËùÓĞµÄ½©Ê¬½«ÔÚ9Ãëºó´«ËÍ£¡ **"
+		"chi"		"**æ‰€æœ‰çš„åƒµå°¸å°†åœ¨9ç§’åä¼ é€ï¼ **"
 	}
 	"***Rock monster used electron!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËµç£¨¶×ÏÂ£©**"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†ç”µï¼ˆè¹²ä¸‹ï¼‰**"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used rock!Break it!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËÍÁ£¡´òËéËü£¡ **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†åœŸï¼æ‰“ç¢å®ƒï¼ **"
 	}
 	"***Rock monster used left-fire!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁË»ğ(ÍùÓÒ±ß×ß£¡£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†ç«(å¾€å³è¾¹èµ°ï¼ï¼‰ **"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used water!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËË®£¨ÅÜµ½Æ½Ì¨×îºóÃæ£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†æ°´ï¼ˆè·‘åˆ°å¹³å°æœ€åé¢ï¼‰ **"
 		"ico"		"icon_fire"
 	}
 	"***Level completes!Next level is [Hard]***"
 	{
-		"chi"		"**±¾¹ØÍ¨¹ı£¡ÏÂÒ»ÄÑ¶È£ºÀ§ÄÑ **"
+		"chi"		"**æœ¬å…³é€šè¿‡ï¼ä¸‹ä¸€éš¾åº¦ï¼šå›°éš¾ **"
 	}
 	"***Current Mode:[Hard]***"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£ºÀ§ÄÑ **"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šå›°éš¾ **"
 	}
 	"***Some barriers will disappear!***"
 	{
-		"chi"		"**Ò»Ğ©ÕÏ°­½«»áÏûÊ§£¡ **"
+		"chi"		"**ä¸€äº›éšœç¢å°†ä¼šæ¶ˆå¤±ï¼ **"
 	}
 	"***Laser slash are activated!***"
 	{
-		"chi"		"**¼¤¹â½«±»¼¤»î£¡ **"
+		"chi"		"**æ¿€å…‰å°†è¢«æ¿€æ´»ï¼ **"
 	}
 	"*A player has picked health element[Lv3]!*"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁËÄÌ[LV3] **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†å¥¶[LV3] **"
 	}
 	"*A player has picked fire element!*"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁË»ğ£¡ **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†ç«ï¼ **"
 	}
 	"***A player has picked ultimate element!***"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÄÃÆğÁËÖÕ¼«£¡ **"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¿èµ·äº†ç»ˆæï¼ **"
 	}
 	"***A zombie has picked flame buffet! ***"
 	{
-		"chi"		"**Ò»Î»½©Ê¬ÄÃÆğÁË»ğ£¡ **"
+		"chi"		"**ä¸€ä½åƒµå°¸æ‹¿èµ·äº†ç«ï¼ **"
 	}
 	"***Damage 30 hp(if you touch) and make humans speed slow! ***"
 	{
-		"chi"		"**ËğÊ§30HP£¨Èç¹ûÄãÅöµ½ÁË£©½«»á¼õÉÙÄãµÄËÙ¶È£¡ **"
+		"chi"		"**æŸå¤±30HPï¼ˆå¦‚æœä½ ç¢°åˆ°äº†ï¼‰å°†ä¼šå‡å°‘ä½ çš„é€Ÿåº¦ï¼ **"
 	}
 	"***Hold here for 30s!***"
 	{
-		"chi"		"**ÊØ×¡30Ãë **"
+		"chi"		"**å®ˆä½30ç§’ **"
 		"DoorCountDown"		"30"
 	}
 	"***Resist for 25s!***"
 	{
-		"chi"		"**ÊØ×¡25Ãë **"
+		"chi"		"**å®ˆä½25ç§’ **"
 		"DoorCountDown"		"25"
 	}
 	"***The ulimate will start in 14 seconds!***"
 	{
-		"chi"		"**BOSS½«ÔÚ14Ãëºó´İ»ÙÎÒÃÇ£¡ **"
+		"chi"		"**BOSSå°†åœ¨14ç§’åæ‘§æ¯æˆ‘ä»¬ï¼ **"
 	}
 	"***Rock monster used backward-push!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËÍÆ£¨°´×¡W£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†æ¨ï¼ˆæŒ‰ä½Wï¼‰ **"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used right-push!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËÍÆ£¨Íù×ó±ß×ß£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†æ¨ï¼ˆå¾€å·¦è¾¹èµ°ï¼‰ **"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used electrion!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËµç£¨¶×ÏÂ£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†ç”µï¼ˆè¹²ä¸‹ï¼‰ **"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used fire!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁË»ğ£¡ **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†ç«ï¼ **"
 		"ico"		"icon_fire"
 	}
 	"***Level completes!Next level is [Extreme]***"
 	{
-		"chi"		"**µ±Ç°¹Ø¿¨Í¨¹ı£¡ÏÂÒ»ÄÑ¶È£º¼«ÏŞ **"
+		"chi"		"**å½“å‰å…³å¡é€šè¿‡ï¼ä¸‹ä¸€éš¾åº¦ï¼šæé™ **"
 	}
 	"***Current Mode:[Extreme]***"
 	{
-		"chi"		"**±¾¹ØÄÑ¶È£º¼«ÏŞ **"
+		"chi"		"**æœ¬å…³éš¾åº¦ï¼šæé™ **"
 	}
 	"***Constant sky fire will appear in some areas!***"
 	{
-		"chi"		"**ÌìÇ´Ä£Ê½¿ªÆô **"
+		"chi"		"**å¤©è°´æ¨¡å¼å¼€å¯ **"
 	}
 	"*A player has picked health element[Lv4]!*"
 	{
-		"chi"		"**Ò»Î»jÍæ¼ÒÄÃÆğÁËÄÌ[LV4] **"
+		"chi"		"**ä¸€ä½jç©å®¶æ‹¿èµ·äº†å¥¶[LV4] **"
 	}
 	"***The wood door will break in 40s!***"
 	{
-		"chi"		"**Ä¾ÃÅ40Ãëºó¿ªÆô **"
+		"chi"		"**æœ¨é—¨40ç§’åå¼€å¯ **"
 		"DoorCountDown"		"40"
 	}
 	"***All zombies will be teleported in 9s!!***"
 	{
-		"chi"		"**ËùÓĞ½©Ê¬9Ãëºó´«ËÍ **"
+		"chi"		"**æ‰€æœ‰åƒµå°¸9ç§’åä¼ é€ **"
 	}
 	"***Find the green glow to activate the wood bed!***"
 	{
-		"chi"		"**ÕÒµ½ÄÜ¼¤»îÄ¾´²µÄÂÌÉ«¹âÃ¢£¡ **"
+		"chi"		"**æ‰¾åˆ°èƒ½æ¿€æ´»æœ¨åºŠçš„ç»¿è‰²å…‰èŠ’ï¼ **"
 	}
 	"***The wood bed will move in 10s!***"
 	{
-		"chi"		"**Ä¾´²10Ãëºó¼¤»î **"
+		"chi"		"**æœ¨åºŠ10ç§’åæ¿€æ´» **"
 	}
 	"***Zombies are in win-room,level fails!***"
 	{
-		"chi"		"**¼ì²âµ½½©Ê¬£¡±¾¹ØÊ§°Ü£¡ **"
+		"chi"		"**æ£€æµ‹åˆ°åƒµå°¸ï¼æœ¬å…³å¤±è´¥ï¼ **"
 	}
 	"***Boss will use ulimate in 5 seconds!***"
 	{
-		"chi"		"**BOSS½«ÔÚ5ÃëºóÊ¹ÓÃÖÕ¼«£¡ **"
+		"chi"		"**BOSSå°†åœ¨5ç§’åä½¿ç”¨ç»ˆæï¼ **"
 	}
 	"***Rock monster used right-fire!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁË»ğ**"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†ç«**"
 		"ico"		"icon_fire"
 	}
 	"***All zombies will come in 10s!***"
 	{
-		"chi"		"**ËùÓĞ½©Ê¬½«ÔÚ10Ãëºó´«ËÍ **"
+		"chi"		"**æ‰€æœ‰åƒµå°¸å°†åœ¨10ç§’åä¼ é€ **"
 	}
 	"***Rock monster used forward-push!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËÍÆ£¨°´×¡S£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†æ¨ï¼ˆæŒ‰ä½Sï¼‰ **"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used left-push!***"
 	{
-		"chi"		"**¹ÖÎïÊ¹ÓÃÁËÍÆ£¨°´×¡D£© **"
+		"chi"		"**æ€ªç‰©ä½¿ç”¨äº†æ¨ï¼ˆæŒ‰ä½Dï¼‰ **"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***(Admin)Next mode:[Extreme]***"
 	{
-		"chi"		"**¹ÜÀíÔ±°Ñ¹Ø¿¨µ÷ÖÁÁË¼«ÏŞÄÑ¶È **"
+		"chi"		"**ç®¡ç†å‘˜æŠŠå…³å¡è°ƒè‡³äº†æé™éš¾åº¦ **"
 	}
 	"***(Admin)Next mode:[Normal]***"
 	{
-		"chi"		"**¹ÜÀíÔ±°Ñ¹Ø¿¨µ÷ÖÁÁËÆÕÍ¨ÄÑ¶È **"
+		"chi"		"**ç®¡ç†å‘˜æŠŠå…³å¡è°ƒè‡³äº†æ™®é€šéš¾åº¦ **"
 	}
 	"***(Admin)Next mode:[Hard]***"
 	{
-		"chi"		"**¹ÜÀíÔ±°Ñ¹Ø¿¨µ÷ÖÁÁËÀ§ÄÑÄÑ¶È **"
+		"chi"		"**ç®¡ç†å‘˜æŠŠå…³å¡è°ƒè‡³äº†å›°éš¾éš¾åº¦ **"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
-		"chi"		"**ÑÒÊ¯¹Ö½«ÔÚ3ÃëºóÊ¹ÓÃÓÒÍÆ£¨×¼±¸°´×¡A£©**"
+		"chi"		"**å²©çŸ³æ€ªå°†åœ¨3ç§’åä½¿ç”¨å³æ¨ï¼ˆå‡†å¤‡æŒ‰ä½Aï¼‰**"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use left-push in 3s!***"
 	{
-		"chi"		"**ÑÒÊ¯¹Ö½«ÔÚ3ÃëºóÊ¹ÓÃ×óÍÆ£¨×¼±¸°´×¡D£©**"
+		"chi"		"**å²©çŸ³æ€ªå°†åœ¨3ç§’åä½¿ç”¨å·¦æ¨ï¼ˆå‡†å¤‡æŒ‰ä½Dï¼‰**"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
-		"chi"		"**ÑÒÊ¯¹Ö½«ÔÚ3ÃëºóÊ¹ÓÃÇ°Îü£¨×¼±¸°´×¡S£©**"
+		"chi"		"**å²©çŸ³æ€ªå°†åœ¨3ç§’åä½¿ç”¨å‰å¸ï¼ˆå‡†å¤‡æŒ‰ä½Sï¼‰**"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use backward-push in 3s!***"
 	{
-		"chi"		"**ÑÒÊ¯¹Ö½«ÔÚ3ÃëºóÊ¹ÓÃºóÍÆ£¨×¼±¸°´×¡W£©**"
+		"chi"		"**å²©çŸ³æ€ªå°†åœ¨3ç§’åä½¿ç”¨åæ¨ï¼ˆå‡†å¤‡æŒ‰ä½Wï¼‰**"
 		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Boss will use ulimate in 5s!***"
 	{
-		"chi"		"**BOSS½«ÔÚ5Ãëºó»ÙÃğÄãÃÇ**"
+		"chi"		"**BOSSå°†åœ¨5ç§’åæ¯ç­ä½ ä»¬**"
 	}
 	"***Level completes!You win the roof adventure!***"
 	{
