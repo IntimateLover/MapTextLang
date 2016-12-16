@@ -180,47 +180,48 @@
 	}
 	"** jiang shi shang chuan le , GG **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上船了.本关失败 **"
 	}
 	"** re shen 40 miao **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还有40秒 **"
 	}
 	"** re shen 30 miao **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还有30秒 **"
 	}
 	"** re shen 20 miao **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还有20秒 **"
 	}
 	"** re shen 10 miao **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还有10秒 **"
 	}
 	"** re shen 50 miao **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛还有50秒 **"
 	}
 	"** you yi kuai shi tou dang zhu le qu lu **"
 	{
-		"chi"		"** **"
+		"chi"		"**有一块石头挡住了去路 **"
 	}
 	"** xiang ban fa kai lu , kuai **"
 	{
-		"chi"		"** **"
+		"chi"		"**想办法开路.快 **"
 	}
 	"** zai jian chi 10 miao ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**再坚持10秒 **"
 	}
 	"** kuai pao ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑 **"
 	}
 	"** dian ti jiang zai 45 miao hou li kai **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在45秒后离开 **"
+		"DoorCountDown"		"45"
 	}
 	"** ADMIN : kun nan nan du **"
 	{
@@ -228,67 +229,67 @@
 	}
 	"** nan du : kun nan **"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：困难 **"
 	}
 	"** zhe ge fang xiang you ling yi tiao chu lu **"
 	{
-		"chi"		"** **"
+		"chi"		"**这个方向有一条出路 **"
 	}
 	"** kuai gen shang , bao hu hao chuan zhi **"
 	{
-		"chi"		"** **"
+		"chi"		"**快跟上.保护好船只 **"
 	}
 	"** hao da yi kuai shi tou **"
 	{
-		"chi"		"** **"
+		"chi"		"**好大一块石头 **"
 	}
 	"** zhun bei bao po , wo men shang shan ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**准备爆破.我们上山！ **"
 	}
 	"** lu shang de zhang ai wu hen duo **"
 	{
-		"chi"		"** **"
+		"chi"		"**路上的障碍物很多 **"
 	}
 	"** kuai su qing li diao , qian mian jiu shi shan ding le  **"
 	{
-		"chi"		"** **"
+		"chi"		"**快速清理掉.前面就是山顶了 **"
 	}
 	"** tao li dao yu de da men jiu zai yan qian **"
 	{
-		"chi"		"** **"
+		"chi"		"**逃离岛屿的大门就在眼前 **"
 	}
 	"** jian chi zhu , wo men hen kuai jiu ke yi li kai le **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持住.我们很快就可以离开了 **"
 	}
 	"** chuan song dian jiang hui bei ti qian dao shan gu zhong bu **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点将会被移至山谷中部 **"
 	}
 	"** kuai wang xia tiao !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快往下跳！！！ **"
 	}
 	"** pao xiang da hai ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**跑向大海！ **"
 	}
 	"** ni tiao li le tiao dao dao ... **"
 	{
-		"chi"		"** **"
+		"chi"		"**你逃离了跳刀岛 **"
 	}
 	"** gan xie ni de shi wan **"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢你的试玩 **"
 	}
 	"** mei you hou tui de lu le !!**"
 	{
-		"chi"		"** **"
+		"chi"		"**没有后退的路了！！ **"
 	}
 	"** di mian de ni tu hen song ruan , kuai zhao zhao you mei you mi dao **"
 	{
-		"chi"		"** **"
+		"chi"		"**地面的泥土很松软.快找找有没有密道 **"
 	}
 	"** ADMIN : KILL ALL**"
 	{
@@ -296,14 +297,14 @@
 	}
 	"** jiang shi deng shang le fei ji **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸登上了飞机 **"
 	}
 	"** GG **"
 	{
-		"chi"		"** **"
+		"chi"		"**本关失败 **"
 	}
 	"** ni wan cheng le pu tong nan du **"
 	{
-		"chi"		"** **"
+		"chi"		"**你完成了普通难度 **"
 	}
 }
