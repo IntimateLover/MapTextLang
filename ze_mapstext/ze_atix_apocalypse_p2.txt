@@ -2,18 +2,18 @@
 {
 	"*** BOAT EVACUATION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关路线：船 **"
 	}
 	"*** HELICOPTER EVACUATION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关路线：直升机 **"
 	}
 	"*** TRAIN EVACUATION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关路线：火车 **"
 	}
 	"*** TRUCK EVACUATION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关路线：卡车 **"
 	}
 }
