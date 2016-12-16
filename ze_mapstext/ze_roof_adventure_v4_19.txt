@@ -339,15 +339,16 @@
 	}
 	"***Level completes!You win the roof adventure!***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡完成！你通过了屋顶冒险！ **"
 	}
 	"***Map By Color[Suan Nai]!***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Color[Suan Nai]! 地图翻译：蓬莱山帅比♪ **"
 	}
 	"***Wood door will break in 30s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门30秒后打开 **"
+		"DoorCountDown"		"30"
 	}
 	"***5s left!***"
 	{
@@ -355,67 +356,72 @@
 	}
 	"***A human has picked up health!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：火 **"
 	}
 	"***Wood door will break in 40s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门40秒后打开 **"
+		"DoorCountDown"		"40"
 	}
 	"***Boss will destroy us in 5s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物将在5秒后毁灭我们 **"
 	}
 	"***Enter the safe room!The nuke will launcher in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**进入安全屋！核弹10秒后发射 **"
 	}
 	"***A human has picked up rock!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：土 **"
 	}
 	"***A human has picked up fire!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器:火 **"
 	}
 	"***A zombie has picked up accelerate!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：加速 **"
 	}
 	"***A human has picked up lightning!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：电 **"
 	}
 	"***Rock monster uses movable fire!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了可以移动的火 **"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses rock!Break it!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了土！打碎它! **"
 	}
 	"***Rock monster uses lightning!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了电！（蹲下） **"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses entire fire!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了全屏火！ **"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses water!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物使用了水！（往平台后面走） **"
+		"ico"		"icon_fire"
 	}
 	"***Color correction is enable!***"
 	{
-		"chi"		"** **"
+		"chi"		"**颜色校正启用！ **"
 	}
 	"***Input mat_correction 0 in console to close!***"
 	{
-		"chi"		"** **"
+		"chi"		"**在控制台mat_correction 0关闭！ **"
 	}
 	"***Fantastic mode will start after 4 rounds if humans fail in hard mode ***"
 	{
-		"chi"		"** **"
+		"chi"		"**如果人类在困难模式失败4次，那么就会开启奇幻模式 **"
 	}
 	"***Round left:3***"
 	{
@@ -423,15 +429,16 @@
 	}
 	"***A human has picked up ultimate!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：终极 **"
 	}
 	"***A zombie has picked up fireball! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：火 **"
 	}
 	"***Hold here for 40s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住40秒 **"
+		"DoorCountDown"		"40"
 	}
 	"***Round left:2 ***"
 	{
@@ -439,7 +446,7 @@
 	}
 	"***The ultimate will start in 14 seconds!***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极将在14秒后爆炸！ **"
 	}
 	"***Round left:1***"
 	{
@@ -447,255 +454,266 @@
 	}
 	"***Fantastic mode will start in next round if humans fail in hard mode! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**如果人类在困难模式失败，那么下一局将会是奇幻模式！ **"
 	}
 	"***Current Mode:[Fantastic]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：奇幻 **"
 	}
 	"***Select a mode in 8s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**在8秒内选择一种模式！ **"
 	}
 	"***Push mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**推力模式将在10秒后开启 **"
 	}
 	"***Winners can get 250 points!***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜者可以得到250分！ **"
 	}
 	"***Gravity mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**重力模式将在10秒后开始 **"
 	}
 	"***Winners can get 200 points!***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜者可以得到200分！ **"
 	}
 	"***A zombie has picked up gravity!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：重力 **"
 	}
 	"***A human has picked up laserwall!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：激光墙 **"
 	}
 	"***A zombie has picked up poison!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：毒 **"
 	}
 	"***A human has picked up spark!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：火花 **"
 	}
 	"***A human has picked up chicken!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：鸡 **"
 	}
 	"***A human has picked up unlimited ammo!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：无限弹药 **"
 	}
 	"***A human has picked up hostage!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器： **"
 	}
 	"***A zombie has picked up decelerate-boss!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：减速怪物 **"
 	}
 	"***The wood will break in 40s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木材将在40秒后破碎 **"
+		"DoorCountDown"		"40"
 	}
 	"***A zombie has picked up immune-boss!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：免疫怪物 **"
 	}
 	"***A zombie has picked up accelerate-boss!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：加速怪物 **"
 	}
 	"***Surf mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**滑翔模式将在10秒后开始 **"
 	}
 	"***Winners can get 400 points!***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜的玩家将会得到400分！ **"
 	}
 	"***Zombies wall will break in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙20秒后关闭！ **"
 	}
 	"***Teleport all zombies in 30s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后传送所有僵尸！ **"
 	}
 	"***Find a place to hold for 60s! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**找个地方守住60秒 **"
+		"DoorCountDown"		"60"
 	}
 	"***Zombies will come in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸会在20秒后释放 **"
 	}
 	"***Wall will break in 15s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙15秒后关闭！ **"
 	}
 	"***All zombies will come in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送所有僵尸 **"
 	}
 	"***Hold here for 45s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒！ **"
+		"DoorCountDown"		"45"
 	}
 	"***Dark mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗模式将在10秒后开始 **"
 	}
 	"***This mode is difficult.Get ready!***"
 	{
-		"chi"		"** **"
+		"chi"		"**这个模式很困难！准备好！ **"
 	}
 	"***Winners can get 600 points!***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜的玩家将会得到600分！ **"
 	}
 	"***A zombie has picked up hurt-boss!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了神器：伤害怪物 **"
 	}
 	"***Ready for push in 40s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备 **"
 	}
 	"***All zombies will come in 9s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有僵尸9秒后传送 **"
 	}
 	"***Laser mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳刀模式10秒后开始 **"
 	}
 	"***Some tips***"
 	{
-		"chi"		"** **"
+		"chi"		"**一些提示 **"
 	}
 	"***Tip 1:Red laser can add hp!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示1：红色激光可以加血 **"
 	}
 	"***Tip 2:Blue laser can hurt hp!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示2：蓝色激光是伤害 **"
 	}
 	"***Tip 3:Purple laser can reduce speed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示3：紫色激光可以降低速度 **"
 	}
 	"***Tip 4:Green laser can teleport!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示4：绿色激光是传送 **"
 	}
 	"***Tip 5:Humans and zombies will be immune at the beginning,but not in the last!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示5：人类和僵尸会在开始时免疫！但不是最后！ **"
 	}
 	"***Laser slash will appear in 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**斜着的激光5秒后出现 **"
 	}
 	"***Get ready for next lasers in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一个激光10秒后开始 **"
 	}
 	"***Great!Hold for 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**很好！守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"***The teleportion has been activated!***"
 	{
-		"chi"		"** **"
+		"chi"		"**已激活传送 **"
 	}
 	"***The last door will close in 30s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的门30秒后关闭！ **"
+		"DoorCountDown"		"30"
 	}
 	"***All players will be teleported in 2s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的玩家将在2秒后传送 **"
 	}
 	"***Do not allow zombies to enter the door!***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让僵尸进门！ **"
 	}
 	"***Humans and zombies are not immune now!***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类和僵尸现在不受免疫！ **"
 	}
 	"***ZM mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸感染模式10秒后开始 **"
 	}
 	"***Zombies will come in 15s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸15秒后出现! **"
 	}
 	"***Hold for 150s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住150秒！ **"
+		"DoorCountDown"		"150"
 	}
 	"***2 minutes left!***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩2分钟 **"
 	}
 	"***Christmas mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞模式将在10秒后开始 **"
 	}
 	"***A human has picked up bombs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：地雷 **"
 	}
 	"***Hold here for 35s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
+		"DoorCountDown"		"35"
 	}
 	"***Ladder will be activated in 45s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**梯子将在45秒后激活！ **"
+		"DoorCountDown"		"45"
 	}
 	"***Window will break in 45s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**窗户45秒后开启 **"
 	}
 	"***Hold gift for last 45s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住礼物45秒 **"
+		"DoorCountDown"		"45"
 	}
 	"***Great!Level completes!***"
 	{
-		"chi"		"** **"
+		"chi"		"**干的好！关卡完成！ **"
 	}
 	"***Noob mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**新手模式将在10秒后开始 **"
 	}
 	"***Winners can get 50 points!***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜的玩家将会得到50分 **"
 	}
 	"***Hold for 45s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒 **"
+		"DoorCountDown"		"45"
 	}
 	"***Hold for 60s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒 **"
+		"DoorCountDown"		"60"
 	}
 	"***10s left!***"
 	{
@@ -703,23 +721,23 @@
 	}
 	"***Congratulations!You are not a noob now!***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你！你现在不是一个新手了！ **"
 	}
 	"***Parkour mode will start in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑酷模式将在10秒后开始 **"
 	}
 	"***Winners can get 300 points!***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜的玩家将会得到300分！ **"
 	}
 	"***Zombies will come in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后出现 **"
 	}
 	"***1 minutes left!***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩1分钟 **"
 	}
 	"***4s left!***"
 	{
@@ -739,50 +757,52 @@
 	}
 	"***Hard mode will start in next round***"
 	{
-		"chi"		"** **"
+		"chi"		"**困难模式将在下一局开始 **"
 	}
 	"***Kill all humans and zombies!***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死所有的人类和僵尸 **"
 	}
 	"***(Admin)Next mode:[Fantastic]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了奇幻模式 **"
 	}
 	"***Great!Hold for 55s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**干的好！守住55秒！ **"
+		"DoorCountDown"		"55"
 	}
 	"***Jump to the cross!***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳到十字架上！ **"
 	}
 	"***Red cross will move in 5s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**十字架5秒后移动！ **"
 	}
 	"***You are cool!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你很酷！ **"
 	}
 	"***Jump above the chicken!***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳到鸡上！ **"
 	}
 	"***Hold the chicken for last 65s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住鸡65秒 **"
+		"DoorCountDown"		"65"
 	}
 	"***Hold here for 25s or complete last surf!***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住25秒或完成滑翔！ **"
 	}
 	"***Level completes!***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关完成 **"
 	}
 	"***Congratulations!You win the laser mode!***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你！你通过了跳刀模式！ **"
 	}
 }
