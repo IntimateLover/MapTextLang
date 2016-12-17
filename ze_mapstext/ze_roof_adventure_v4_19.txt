@@ -811,34 +811,35 @@
 	}
 	"***Find a place to hold for 45s! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到一个地方守住45秒 **"
+		"DoorCountDown"		"45"
 	}
 	"***Thanks for Kaemon and Hannibal[SPA]!***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢：Kaemon and Hannibal[SPA]! **"
 	}
 	"***The White Knight has come down!***"
 	{
-		"chi"		"** **"
+		"chi"		"**白衣高达已出现 **"
 	}
 	"***Balrog is already firing the roof!***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔出现在屋顶，射击 **"
 	}
 	"***Green arrows can accelerate!***"
 	{
-		"chi"		"** **"
+		"chi"		"**绿色箭头可以加速！ **"
 	}
 	"***Yellow arrows can decelerate!***"
 	{
-		"chi"		"** **"
+		"chi"		"**黄色箭头可以减速！ **"
 	}
 	"***Red cross can add hp!***"
 	{
-		"chi"		"** **"
+		"chi"		"**红色十字可以增加加HP **"
 	}
 	"***Heros never die!***"
 	{
-		"chi"		"** **"
+		"chi"		"**英雄永远不会死！ **"
 	}
 }
