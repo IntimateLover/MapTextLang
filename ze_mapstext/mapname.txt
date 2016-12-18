@@ -979,7 +979,7 @@
 		"chi"		"美杜莎神庙"
 		"credit"		"800"
 	}
-	"ze_ffxii_westersand_v7_2_e2_fix2"
+	"ze_ffxii_westersand_v7_2_e2_fix3"
 	{
 		"chi"		"最终幻想12：西沙"
 	}
@@ -1399,9 +1399,9 @@
 	{
 		"chi"		"丛林逃生"
 	}
-	"ze_rizomata_a43"
+	"ze_rizomata_a44"
 	{
-		"chi"		"精灵塔[a43通关后系统设定:ze_rizomata_b43]"
+		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 	}
 	"ze_lotr_minas_tirith_v3_3_ps28"
 	{
@@ -1411,7 +1411,7 @@
 	}
 	"ze_rizomata_b43"
 	{
-		"chi"		"精灵塔[不可预定][a43通关后自动本地图]"
+		"chi"		"精灵塔[不可预定][a44通关后自动本地图]"
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
