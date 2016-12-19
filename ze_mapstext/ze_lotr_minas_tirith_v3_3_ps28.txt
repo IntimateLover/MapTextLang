@@ -103,7 +103,7 @@
 	}
 	"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
 	{
-		"chi"		"**拿到了马（使用E和WASD键） **"
+		"chi"		"**骑上马！（对着马按E后不停的按W加速）**"
 	}
 	"** ADMIN PRESSED KILL ALL BUTTON **"
 	{
