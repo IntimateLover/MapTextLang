@@ -2,51 +2,51 @@
 {
 	"<!!!> MAP BY JB_GAMBLE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：JB_GAMBLE 地图翻译：蓬莱山帅比♪ **"
 	}
 	"<!!!> COLD MOUNTAIN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**冷山 **"
 	}
 	"<!!!> THE COLD HURTS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**寒伤 **"
 	}
 	"<!!!> WARMTH HEALS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**篝火处可以治愈你们 **"
 	}
 	"<!!!> CALL HELICOPTER <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**呼叫直升机 **"
 	}
 	"<!!!> USE THE RADIO <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**使用无线电 **"
 	}
 	"<!!!> IN THE OPEN CONTAINER <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**在打开集装箱里 **"
 	}
 	"<!!!> WAIT FOR HELICOPTER <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**等待直升机 **"
 	}
 	"<!!!> FALL BACK TO HELICOPTER <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**去直升机里面 **"
 	}
 	"<!!!> HELICOPTER LEAVING <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机离开了 **"
 	}
 	"<!!!> HUMANS WIN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**人类胜利 **"
 	}
 	"<!!!> CITY STREETS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**城市街道 **"
 	}
 	"<!!!> PART 1 <!!!>"
 	{
@@ -54,7 +54,7 @@
 	}
 	"<!!!> HOLD HERE! <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"<!!!> 5 SECONDS! <!!!>"
 	{
@@ -62,19 +62,19 @@
 	}
 	"<!!!> FALL BACK | GO! GO! <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退，快走 **"
 	}
 	"<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到僵尸.你失败了 **"
 	}
 	"<!!!> HOLD HERE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"<!!!> FINAL HOLD <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住最后一个地方 **"
 	}
 	"<!!!> GET ON LIFT <!!!>"
 	{
@@ -82,11 +82,11 @@
 	}
 	"<!!!> CITY BUILDING <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**城市建筑物 **"
 	}
 	"<!!!> EASY MODE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**简单模式 **"
 	}
 	"<!!!> 5 SECONDS <!!!>"
 	{
@@ -94,42 +94,42 @@
 	}
 	"<!!!> FALL BACK <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"<!!!> POWER OFF <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**关闭电源 **"
 	}
 	"<!!!> DOOR OPENING <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"<!!!> FAN 1 SHUTDOWN - 30 SECONDS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**风扇1-30秒后关闭 **"
 	}
 	"<!!!> FAN 1 HAS SHUTDOWN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**风扇1已关闭 **"
 	}
 	"<!!!> FALL BACK  <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"<!!!> FAN 2 SHUTDOWN - 10 SECONDS <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**风扇2-10秒后关闭 **"
 	}
 	"<!!!> FAN 2 HAS SHUTDOWN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**风扇2已关闭 **"
 	}
 	"<!!!> JUMP DOWN <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**跳下去 **"
 	}
 	"<!!!> MEDIUM DAMAGE ROUND <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**普通模式 **"
 	}
 }
