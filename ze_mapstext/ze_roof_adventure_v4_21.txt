@@ -807,46 +807,47 @@
 	}
 	"***A human will shine the roof!***"
 	{
-		"chi"		"** **"
+		"chi"		"**将会有一个人照亮屋顶！ **"
 	}
 	"***Find a place to hold for 45s! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到一个地方守住45秒！ **"
+		"DoorCountDown"		"45"
 	}
 	"***Thanks for Kaemon and Hannibal[SPA]!***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢：Kaemon and Hannibal[SPA]! **"
 	}
 	"***The White Knight has come down!***"
 	{
-		"chi"		"** **"
+		"chi"		"**白衣骑士已准备战斗 **"
 	}
 	"***Balrog is already firing the roof!***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔出现在屋顶，射击！ **"
 	}
 	"***Green arrows can accelerate!***"
 	{
-		"chi"		"** **"
+		"chi"		"**绿色箭头是加速！ **"
 	}
 	"***Yellow arrows can decelerate!***"
 	{
-		"chi"		"** **"
+		"chi"		"**黄色箭头是减速！ **"
 	}
 	"***Red cross can add hp!***"
 	{
-		"chi"		"** **"
+		"chi"		"**红色十字是加血！ **"
 	}
 	"***Heros never die!***"
 	{
-		"chi"		"** **"
+		"chi"		"**英雄不死！ **"
 	}
 	"***Map By Color[酸奶]!***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Color[酸奶]! 地图翻译：蓬莱山帅比♪ **"
 	}
 	"***Zombies will come in 12s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸12秒后出现！ **"
 	}
 }
