@@ -2,7 +2,7 @@
 {
 	"**MAP BY MAKVI_ANKOM**"
 	{
-		"chi"		"** **
+		"chi"		"**MAP BY MAKVI_ANKOM **
 	}	
 	"**Ze_Star_wars**"
 	{
@@ -181,6 +181,7 @@
 	"**OMG! This is Darth Vader! SHOOT!**"
 	{
 		"chi"		"**卧槽，达斯维达来了，快开枪！ **"
+		"ico"		"icon_tip"
 	}
 	"**The ship will move in 15 seconds**"
 	{
