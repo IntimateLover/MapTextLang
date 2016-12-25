@@ -74,6 +74,7 @@
 	"**You must find the secret lever**"
 	{
 		"chi"		"**我们必须找到隐藏的开关（水下的木桩）**"
+		"ico"   "icon_fire"
 	}
 	"**Well done you found the lever!**"
 	{
@@ -99,6 +100,7 @@
 	"**Drop and pick up the items again!**"
 	{
 		"chi"		"**重新丢弃然后捡起你的神器**"
+		"ico"   "icon_fire"
 	}
 	"**The boat will leave in 30 seconds!**"
 	{
@@ -108,6 +110,7 @@
 	"**If you still got the crystal throw it into the boat**"
 	{
 		"chi"		"**如果我们仍然持有水晶，就赶紧把它丢到船上**"
+		"ico"   "icon_fire"
 	}
 	"**20 seconds are left!**"
 	{
@@ -161,6 +164,7 @@
 	"**One ct must head down and press the button!**"
 	{
 		"chi"		"**需要一个身法好的老司机走下面按开关**"
+		"ico"   "icon_fire"
 	}
 	"**You pressed the button! The rocks will be removed in 20 seconds!**"
 	{
@@ -350,22 +354,26 @@
 	"**Drop and pick up your item to make them work again**"
 	{
 		"chi"		"**丢弃并重新拾取你们的神器，让他们重新工作起来**"
+		"ico"   "icon_fire"
 	}
 	"**GET BACK!**"
 	{
-		"chi"		"**后退**"
+		"chi"		"**后退(按住S）**"
 	}
 	"**IF YOU DONT STAY IN THE MIDDLE YOUR DEAD**"
 	{
 		"chi"		"**如果你不站在中间，你就会死**"
+		"ico"   "icon_fire"
 	}
 	"**GO FORWARD!**"
 	{
-		"chi"		"**往前走**"
+		"chi"		"**往前走（按住W）**"
+		"ico"   "icon_fire"
 	}
 	"**EVADE THE FIRE**"
 	{
 		"chi"		"**躲开火焰**"
+		"ico"   "icon_fire"
 	}
 	">>>Cura bubble has been picked up!<<<"
 	{
@@ -451,6 +459,7 @@
 	"**ONE HUMAN MUST HEAD UPWARDS TO TRIGGER THE LEVER FOR UNLOCKING THE GATE**"
 	{
 		"chi"		"**必须要有一个人往上爬，把开关触发来打开大门**"
+		"ico"   "icon_fire"
 	}
 	"**WELL DONE YOU PRESSED THE LEVER!**"
 	{
@@ -475,6 +484,7 @@
 	"**IF YOU STILL GOT THE CRYSTAL DROP IT ON THE BRIGDE TO RECIEVE UNLIMMITED AMMO**"
 	{
 		"chi"		"**如果我们仍然持有水晶，快把它丢在桥上来获取无限子弹**"
+		"ico"   "icon_fire"
 	}
 	"**HOLY CHRIST YOU BEAT THE LAST LEVEL**"
 	{
@@ -487,6 +497,7 @@
 	"**If you still got the crystal drop it inside the safe zone to recieve unlimmit ammo!**"
 	{
 		"chi"		"**如果我们仍然持有水晶，快把它丢在安全区域来获取无限子弹**"
+		"ico"   "icon_fire"
 	}
 	"**ZOMBIES ENTERED THE SAFEZONE"
 	{
