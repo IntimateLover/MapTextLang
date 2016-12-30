@@ -2,11 +2,11 @@
 {
 	">> Map by Taskuvaras <<"
 	{
-		"chi"		"**地图作者:TaskuVaras **"
+		"chi"		"**地图作者:TaskuVaras 地图翻译：水墨涟漪踏无痕 **"
 	}
 	">> Fixed by Moltard <<"
 	{
-		"chi"		"**Moltard修复 **"
+		"chi"		"**Moltard完善 地图翻译补充:冰花丶 **"
 	}
 	"[Special Thanks to: Muro#[A] FT]"
 	{
@@ -633,11 +633,11 @@
 	}
 	">> DITTO IS USING SOMETHING... FUNNY? <<"
 	{
-		"chi"		"**DITTO正在使用一些东西...好笑吗?? **"
+		"chi"		"**鬼斯正在使用一些东西...好笑吗?? **"
 	}
 	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 	{
-		"chi"		"**野生的DITTO被打败了,跑!!!!! **"
+		"chi"		"**野生的鬼斯被打败了,跑!!!!! **"
 	}
 	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
 	{
@@ -764,19 +764,19 @@
 	}
 	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限地狱(EX3)**"
 	}
 	">> Congratulation ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你**"
 	}
 	">> You beat the map ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你通过了地图**"
 	}
 	">> Play ShroomForest2 to continue the adventure <<"
 	{
-		"chi"		"** **"
+		"chi"		"**游玩蘑菇森林2来继续你的冒险(ze_shroomforest2)**"
 	}
 	">> Feel free to visit the spawn <<"
 	{
@@ -784,91 +784,91 @@
 	}
 	">> Quick ZM Mode <<"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM模式**"
 	}
 	">> Zombies will spawn soon <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸即将出现**"
 	}
 	">> Survive 1 minute <<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存一分钟**"
 	}
 	">> 5 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒剩余**"
 	}
 	">> If you change level via admin room <<"
 	{
-		"chi"		"** **"
+		"chi"		"**当你在调关房选择关卡**"
 	}
 	">> Be sure to press Nuke Button <<"
 	{
-		"chi"		"** **"
+		"chi"		"**确认后按下核弹按钮**"
 	}
 	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:大树(LV2)**"
 	}
 	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后关卡重新开始**"
 	}
 	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你还剩下30秒按下核弹按钮**"
 	}
 	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你还剩下15秒按下核弹按钮**"
 	}
 	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你还剩下10秒按下核弹按钮**"
 	}
 	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你还剩下5秒按下核弹按钮**"
 	}
 	">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达 关卡失败**"
 	}
 	">> DITTO LEAF ARE DESTROYED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**火神器烧毁了妙蛙种子的叶子**"
 	}
 	">> BUT ITS NOT VERY EFFECTIVE ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**但是这并不是非常有效**"
 	}
 	">> NOBODY SURVIVED!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**无人生存 关卡失败**"
 	}
 	">> AND ITS NOT VERY EFFECTIVE!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还有这并不是非常有效**"
 	}
 	">> You have successfully saved our new village <<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要完美拯救我们蘑菇村**"
 	}
 	">> Quick ZM Mod <<"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM模式**"
 	}
 	">> Find a place to hold and survive 1 minute and 30 seconds! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存90秒**"
 	}
 	">> Map will reset after this current round <<"
 	{
-		"chi"		"** **"
+		"chi"		"**本关即将重启**"
 	}
 	">> 60 seconds left <<"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒剩余**"
 	}
 	">> DITTO ATTACK IS STOPPED FEW SEC <<"
 	{
