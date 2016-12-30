@@ -6,7 +6,7 @@
 	}
 	">> Finished by Moltard <<"
 	{
-		"chi"		"**细节完善：Moltard **"
+		"chi"		"**细节完善：Moltard 后期翻译补充:冰花丶 **"
 	}
 	">> WARMUP ROUND <<"
 	{
@@ -34,7 +34,7 @@
 	}
 	"ShroomForest2"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到蘑菇森林2(ShroomForest2)的世界**"
 	}
 	"[Level1] Find the Groke"
 	{
@@ -674,30 +674,30 @@
 	}
 	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器马勃菌(催泪弹蘑菇)已经拾起 效果:投掷对目标范围内所有玩家催泪干扰**"
 	}
 	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器闪电云已经拾起 效果:对云正中下方人类造成巨额伤害**"
 	}
 	">> PLAYER HAS CHOSEN: RAVINE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:天堂(LV3)**"
 	}
 	">> PLAYER HAS CHOSEN: TV EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限电视(EX2)**"
 	}
 	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡5秒后重启**"
 	}
 	">> PLAYER HAS CHOSEN: ZM<<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:ZM**"
 	}
 	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限天堂(EX3)**"
 	}
 }
