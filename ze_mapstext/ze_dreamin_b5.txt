@@ -19,22 +19,22 @@
 	"***RESIST FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
-	"***HOLD FOR 15 SECONDS***"
+	"***Hold for 15 seconds***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"***RESIST 20 SECONDS***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"***TELEPORT ENABLE IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后传送 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"***5 seconds left***"
 	{
@@ -51,12 +51,12 @@
 	"***Break the box***"
 	{
 		"chi"		"**打碎水晶 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Teleport activates in 45 seconds***"
 	{
 		"chi"		"**45秒后激活传送 **"
-		"DoorCountDown" "45"
+		"DoorCountDown"		"45"
 	}
 	"***Wind picked up***"
 	{
@@ -65,17 +65,17 @@
 	"***Thruster Casted***"
 	{
 		"chi"		"**BOSS使用了泡泡 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Ice Casted***"
 	{
 		"chi"		"**BOSS使用了冰 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Wind Casted***"
 	{
 		"chi"		"**BOSS使用了风（按住W） **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Go Back to teleport place***"
 	{
@@ -84,7 +84,7 @@
 	"***Final teleport enable in 35 seconds***"
 	{
 		"chi"		"**最后的传送点将在35秒后激活 **"
-		"DoorCountDown" "35"
+		"DoorCountDown"		"35"
 	}
 	"***Zombie teleport in 10 seconds***"
 	{
@@ -97,5 +97,9 @@
 	"***Run!***"
 	{
 		"chi"		"**跑 **"
+	}
+	"***Zombie Escaped***"
+	{
+		"chi"		"** **"
 	}
 }

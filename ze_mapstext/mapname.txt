@@ -722,7 +722,7 @@
 		"chi"		"建筑工地"
 		"credit"		"400"
 	}
-	"ze_crazy_escape_v4_3"
+	"ze_crazy_escape_v3"
 	{
 		"chi"		"疯狂大逃亡"
 		"credit"		"400"
@@ -902,8 +902,7 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"chi"		"最终幻想7：魔光炉"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
+		"credit"		"3000"
 	}
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
@@ -1421,7 +1420,7 @@
 	{
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 	}
-	"ze_lotr_minas_tirith_v3_3_ps29"
+	"ze_lotr_minas_tirith_v3_3_ps28"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
 		"onlyadmin"		"1"
