@@ -491,7 +491,7 @@
 		}
 		">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 		{
-			"chi"		"**野生的DITTO被打败了,跑!!!!! **"
+			"chi"		"**野生的DITTO被打败了,不会跳刀的防守僵尸**"
 		}
 		"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 		{
@@ -840,7 +840,7 @@
 	}
 	">> BUT ITS NOT VERY EFFECTIVE ! <<"
 	{
-		"chi"		"**但是这并不是非常有效**"
+		"chi"		"**但是这火并不是非常有效的攻击(叶子被火神器烧没了)**"
 	}
 	">> NOBODY SURVIVED!! LEVEL FAILED!! <<"
 	{
@@ -872,6 +872,6 @@
 	}
 	">> DITTO ATTACK IS STOPPED FEW SEC <<"
 	{
-		"chi"		"** **"
+		"chi"		"**干得漂亮，重力暂停了鬼斯攻击，不过鬼斯将在几秒后重新开始攻击**"
 	}
 }
