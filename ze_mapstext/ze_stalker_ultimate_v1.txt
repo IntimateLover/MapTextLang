@@ -2,7 +2,6 @@
 {
 	"**This is a map based on the game STALKER**"
 	{
-	  "command" "sm_lockroundtime 16"
 		"chi"		"**这是根据游戏（潜行者）制作的地图 **"
 	}
 	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
@@ -359,6 +358,10 @@
 		"chi"		"**你太慢了… **"
 	}
 	"**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
 	{
 		"chi"		"** **"
 	}

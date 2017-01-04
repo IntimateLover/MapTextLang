@@ -11,7 +11,7 @@
 	"### HUMAN WILL BE TELEPORT IN 20 SECONDS ###"
 	{
 		"chi"		"**人类将在20秒后传送 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"### 10 SECONDS ###"
 	{
@@ -20,7 +20,7 @@
 	"### HIDE AND HOLD FOR 1:15 MINUTE ###"
 	{
 		"chi"		"**防守这里1:15分钟 **"
-		"DoorCountDown"		"75"
+		"DoorCountdown"		"75"
 	}
 	"### THE GREEN LIGHT ZONES ARE THE MOST SAFEST PLACE ###"
 	{
@@ -29,7 +29,7 @@
 	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
 		"chi"		"**僵尸将在30秒后传送 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### 5 SECONDS ###"
 	{
@@ -42,7 +42,7 @@
 	"### 30 SECONDS ###"
 	{
 		"chi"		"**还有30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### TELEPORT IS COMING IN 5 SECONDS ###"
 	{
@@ -59,7 +59,7 @@
 	"### WARNING *** TOWER IS GONNA EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**警告!离高塔炸毁还有30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### HOLD HERE AND DEFEND 2 SIDES ###"
 	{
@@ -68,7 +68,7 @@
 	"### FOR 50 SECONDS ###"
 	{
 		"chi"		"**还有50秒 **"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"### ZOMIES HAVE BEEN ARRIVED ###"
 	{
@@ -117,7 +117,7 @@
 	"### HOLD FOR 40 SECONDS ###"
 	{
 		"chi"		"**防御这里40秒 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"### CROSS THE BRIDGE IN 20 SECONDS ###"
 	{
@@ -194,7 +194,7 @@
 	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
 	{
 		"chi"		"**防守这里1分钟 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"### SLIPKNOT - CUSTER IS NOW PLAYING ###"
 	{
@@ -221,170 +221,6 @@
 		"chi"		"** **"
 	}
 	"### ZOMBIESS GATE BREAKS IN 20 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### MAP CREATED BY NARAKA  ###"
-	{
-		"chi"		"** **"
-	}
-	"### GRAMMAR CORRECTION BY: ###"
-	{
-		"chi"		"** **"
-	}
-	"### PART I :: CRAZY ESCAPE ::"
-	{
-		"chi"		"** **"
-	}
-	"### [GFL] : reduct [SMALL LOAN] ###"
-	{
-		"chi"		"** **"
-	}
-	"### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### 10 SECONDS REMAINING ###"
-	{
-		"chi"		"** **"
-	}
-	"### HIDE AND HOLD FOR 75 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES WILL BE TELEPORTED SOON ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES ARE HERE !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### 30 SECONDS REMAINING ###"
-	{
-		"chi"		"** **"
-	}
-	"### TELEPORT INCOMING IN 5 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMIES ARE HERE !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### HOLD HERE AND SHOOT MADAFAKA ###"
-	{
-		"chi"		"** **"
-	}
-	"### 50 SECONDS REMAINING ###"
-	{
-		"chi"		"** **"
-	}
-	"### TOWER WILL EXPLODE IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### STAY IN THE GREEN LIGHT FOR TELEPORT ###"
-	{
-		"chi"		"** **"
-	}
-	"### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###"
-	{
-		"chi"		"** **"
-	}
-	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 15 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###"
-	{
-		"chi"		"** **"
-	}
-	"### DONT DELAY OR BE PUNISHED ###"
-	{
-		"chi"		"** **"
-	}
-	"### 20 SECONDS REMAINING ###"
-	{
-		"chi"		"** **"
-	}
-	"### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###"
-	{
-		"chi"		"** **"
-	}
-	"### WILL BE TELEPORTED TO BOSS JAIL ###"
-	{
-		"chi"		"** **"
-	}
-	"### 5 SECONDS UNTL THE NEXT TELEPORT ###"
-	{
-		"chi"		"** **"
-	}
-	"### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###"
-	{
-		"chi"		"** **"
-	}
-	"### SINNER INCOMING IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### DONT CROSS THE RED LINE, IT IS NOT A HOLY AREA ###"
-	{
-		"chi"		"** **"
-	}
-	"### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###"
-	{
-		"chi"		"** **"
-	}
-	"### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###"
-	{
-		"chi"		"** **"
-	}
-	"### THE SINNER WILL UNLEASHES THE ZOMBIES IN 60 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### HUMAN WILL BE TELEPORTED THE THE FINAL DESTINATION IN 10 SECONDS##"
-	{
-		"chi"		"** **"
-	}
-	"### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES INCOMING IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### DONT LET ZOMBIES TOUCH THE TV OR YOU LOSE ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES HAVE ARRIVED ###"
-	{
-		"chi"		"** **"
-	}
-	"### TELEPORT IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###"
-	{
-		"chi"		"** **"
-	}
-	"### STAGE FAILED, YOU NOOBS ###"
 	{
 		"chi"		"** **"
 	}

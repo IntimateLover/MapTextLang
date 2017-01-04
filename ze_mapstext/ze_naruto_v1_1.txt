@@ -47,12 +47,12 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"** 还剩20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
 		"chi"		"**洞穴的路将于20秒内开放！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
@@ -89,7 +89,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -126,16 +126,16 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒内打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
-	"** DOOR WILL OPEN IN 5 SECONDS **"
+	"** Door will open in 5 seconds **"
 	{
 		"chi"		"**门将在5秒内打开 **"
 	}
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要坚守小镇45秒 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -260,5 +260,9 @@
 	"** NEXT DIFFICULTY : NORMAL **"
 	{
 		"chi"		"**下一个难度：正常 **"
+	}
+	"** You bit the extreme mode !! You dont need narutos help anymore **"
+	{
+		"chi"		"** **"
 	}
 }

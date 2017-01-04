@@ -722,7 +722,7 @@
 		"chi"		"建筑工地"
 		"credit"		"400"
 	}
-	"ze_crazy_escape_v3"
+	"ze_crazy_escape_v4_4"
 	{
 		"chi"		"疯狂大逃亡"
 		"credit"		"400"
@@ -1247,7 +1247,7 @@
 	{
 		"chi"		"创世E"
 	}
-	"ze_hidden_temple_v2_1"
+	"ze_hidden_temple_v2_2"
 	{
 		"chi"		"隐秘神庙"
 	}
@@ -1411,7 +1411,7 @@
 	{
 		"chi"		"幻想逃生"
 	}
-	"ze_square_v1"
+	"ze_square_v1_fix"
 	{
 		"chi"		"广场"
 	}

@@ -148,23 +148,22 @@
 	}
 	"**A ZOMBIE LEARNED THE CHAOS FIREBALL**"
 	{
-		"chi"		"**一只僵尸拿起了僵尸神器：冰 **"
+		"chi"		"** **"
 	}
 	"**THE PARCLOSE IS BLOCKING THE WAY**"
 	{
-		"chi"		"**屏障挡住了道路 **"
+		"chi"		"** **"
 	}
 	"**IT SEEMS WE MUST TO BREAK THE ENERGY CRYSTAL TO MOVE ON**"
 	{
-		"chi"		"**看来我们只有打破能量水晶才能继续前进 **"
+		"chi"		"** **"
 	}
 	"**A ZOMBIE LEARNED THE FROSTBREAK**"
 	{
-		"chi"		"**一只僵尸拿起了僵尸神器：火 **"
+		"chi"		"** **"
 	}
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 30 SECONDS TILL THE C4 EXPLODE**"
 	{
-		"chi"		"**C4将在30秒后爆破 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 }
