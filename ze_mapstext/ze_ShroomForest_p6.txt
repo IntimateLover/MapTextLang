@@ -2,11 +2,11 @@
 {
 	">> Map by Taskuvaras <<"
 	{
-		"chi"		"**地图作者:TaskuVaras **"
+		"chi"		"**地图作者:TaskuVaras 原翻译:水墨涟漪踏无痕**"
 	}
 	">> Fixed by Moltard <<"
 	{
-		"chi"		"**Moltard修复 **"
+		"chi"		"**Moltard完善 后期翻译补充:冰花丶**"
 	}
 	"[Special Thanks to: Muro#[A] FT]"
 	{
@@ -764,114 +764,114 @@
 	}
 	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了EX3极限地狱**"
 	}
 	">> Congratulation ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺你**"
 	}
 	">> You beat the map ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经通过了地图**"
 	}
 	">> Play ShroomForest2 to continue the adventure <<"
 	{
-		"chi"		"** **"
+		"chi"		"**游玩蘑菇森林2继续你的冒险！！！**"
 	}
 	">> Feel free to visit the spawn <<"
 	{
-		"chi"		"** **"
+		"chi"		"**去参观出生点**"
 	}
 	">> Quick ZM Mode <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快速ZM模式**"
 	}
 	">> Zombies will spawn soon <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸即将出现**"
 	}
 	">> Survive 1 minute <<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存一分钟**"
 	}
 	">> 5 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒剩余**"
 	}
 	">> If you change level via admin room <<"
 	{
-		"chi"		"** **"
+		"chi"		"**当你在调关房间选择好了关卡**"
 	}
 	">> Be sure to press Nuke Button <<"
 	{
-		"chi"		"** **"
+		"chi"		"**确认后按下核爆按钮**"
 	}
 	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:LV2大树**"
 	}
 	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后重新开始关卡**"
 	}
 	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你还剩下30秒按下核爆按钮**"
 	}
 	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**诶诶诶 还剩下15秒按下**"
 	}
 	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**剩下10秒了 你怎么还不按下按钮捏**"
 	}
 	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**剩下5秒了 快点按下！！**"
 	}
 	">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到僵尸 关卡失败 **"
 	}
 	">> DITTO LEAF ARE DESTROYED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**妙蛙种子的叶子已被FFF团神器烧毁**"
 	}
 	">> BUT ITS NOT VERY EFFECTIVE ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**FFF神器烧掉了叶子所以这个攻击看起来并没有什么卵用**"
 	}
 	">> NOBODY SURVIVED!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**无人生存 关卡失败**"
 	}
 	">> AND ITS NOT VERY EFFECTIVE!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**而且它并不是非常有效**"
 	}
 	">> You have successfully saved our new village <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经成功拯救了我们的新蘑菇村**"
 	}
 	">> Quick ZM Mod <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快速ZM关卡**"
 	}
 	">> Find a place to hold and survive 1 minute and 30 seconds! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找一个地方生存90秒**"
 	}
 	">> Map will reset after this current round <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡重新开始**"
 	}
 	">> 60 seconds left <<"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒剩余 保护好你的菊花**"
 	}
 	">> DITTO ATTACK IS STOPPED FEW SEC <<"
 	{
-		"chi"		"** **"
+		"chi"		"** 干得漂亮 重力搞掉了鬼斯的攻击 但是鬼斯即将在数秒后重新攻击**"
 	}
 }
