@@ -6,7 +6,7 @@
 	}
 	">> Finished by Moltard <<"
 	{
-		"chi"		"**细节完善：Moltard **"
+		"chi"		"**细节完善：Moltard 后期翻译补充:冰花丶**"
 	}
 	">> WARMUP ROUND <<"
 	{
@@ -674,30 +674,30 @@
 	}
 	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器马勃菌(催泪弹蘑菇)已被拾取 效果:对投掷目标范围内所有玩家造成催泪干扰**"
 	}
 	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器闪电云已被拾取 作用:刷出一朵云对云正下方人类进行高额雷劈伤害**"
 	}
 	">> PLAYER HAS CHOSEN: RAVINE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了关卡:天堂LV3**"
 	}
 	">> PLAYER HAS CHOSEN: TV EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:电视 LV2**"
 	}
 	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡5秒后重启**"
 	}
 	">> PLAYER HAS CHOSEN: ZM<<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:ZM**"
 	}
 	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限天堂 EX3**"
 	}
 }
