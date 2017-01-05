@@ -15,7 +15,7 @@
 	"***HOLD 30sec***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"***5sec left***"
 	{
@@ -28,7 +28,7 @@
 	"***Neptune will teleport you after 15sec...***"
 	{
 		"chi"		"**海王星将在15秒启动传送 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"Neptune : FALL BACK ! ! !"
 	{
@@ -37,7 +37,7 @@
 	"***HOLD 60sec***"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountDown" "60"
+		"DoorCountDown"		"60"
 	}
 	"***HOLD 5sec***"
 	{
@@ -62,27 +62,27 @@
 	"***FIRE IS IN SIDE.. CAREFUL***"
 	{
 		"chi"		"**火在你的侧面...小心 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***BOSS CASTED FIRE***"
 	{
 		"chi"		"**BOSS使用了火 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***BOSS CASTED WIND***"
 	{
 		"chi"		"**BOSS使用了风 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***BOSS CASTED GRAVITY***"
 	{
 		"chi"		"**BOSS使用了重力 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***LAST DEFEND HOLD 30sec...***"
 	{
 		"chi"		"**守住最后的30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"***5sec LEFT.. FALL BACK ! !***"
 	{
@@ -91,10 +91,14 @@
 	"*** WTF ! ? Avoid that lazer ! ! ! ***"
 	{
 		"chi"		"**什么东西？躲避激光!!! **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***YOU CLEAR THIS MAP...YOU ARE BEST***"
 	{
 		"chi"		"**你通过了本地图...你是最棒的 **"
+	}
+	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
+	{
+		"chi"		"** **"
 	}
 }
