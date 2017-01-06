@@ -902,7 +902,8 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"chi"		"最终幻想7：魔光炉"
-		"credit"		"3000"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
@@ -1295,9 +1296,9 @@
 	{
 		"chi"		"屋顶大冒险"
 	}
-	"ze_platformer_b5"
+	"ze_platformer_b6"
 	{
-		"chi"		"浮空岛游戏b5"
+		"chi"		"浮空岛游戏b6"
 	}
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
@@ -1420,7 +1421,7 @@
 	{
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 	}
-	"ze_lotr_minas_tirith_v3_3_ps28"
+	"ze_lotr_minas_tirith_v3_3_ps29"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
 		"onlyadmin"		"1"
