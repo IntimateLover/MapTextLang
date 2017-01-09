@@ -1,0 +1,104 @@
+"Console_T"
+{
+	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia* * *"
+	{
+		"chi"		"**地图制作：AobaSuzukaze(sweetS) 地图翻译：蓬莱山帅比♪ 特别感谢：reflelia **"
+	}
+	"***15sec left***"
+	{
+		"chi"		"**还剩15秒 **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"**撤退 **"
+	}
+	"***HOLD 30sec***"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"***5sec left***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK and break construction***"
+	{
+		"chi"		"**撤退并破坏建筑 **"
+	}
+	"***Neptune will teleport you after 15sec...***"
+	{
+		"chi"		"**海王星将在15秒启动传送 **"
+		"DoorCountDown"		"15"
+	}
+	"Neptune : FALL BACK ! ! !"
+	{
+		"chi"		"**海王星：撤退 **"
+	}
+	"***HOLD 60sec***"
+	{
+		"chi"		"**守住60秒 **"
+		"DoorCountDown"		"60"
+	}
+	"***HOLD 5sec***"
+	{
+		"chi"		"**守住5秒 **"
+	}
+	"***GOOD BYE DOOR HUGGER ! ! !***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK ! ! !***"
+	{
+		"chi"		"**撤退 **"
+	}
+	"***SHOOT THE BOSS ! ! !***"
+	{
+		"chi"		"**射击BOSS！！ **"
+	}
+	"***BOSS PREPARE SKILL...CAREFUL***"
+	{
+		"chi"		"**BOSS准备放技能了...小心 **"
+	}
+	"***FIRE IS IN SIDE.. CAREFUL***"
+	{
+		"chi"		"**火在你的侧面...小心 **"
+		"ico"		"icon_fire"
+	}
+	"***BOSS CASTED FIRE***"
+	{
+		"chi"		"**BOSS使用了火 **"
+		"ico"		"icon_fire"
+	}
+	"***BOSS CASTED WIND***"
+	{
+		"chi"		"**BOSS使用了风 **"
+		"ico"		"icon_fire"
+	}
+	"***BOSS CASTED GRAVITY***"
+	{
+		"chi"		"**BOSS使用了重力 **"
+		"ico"		"icon_fire"
+	}
+	"***LAST DEFEND HOLD 30sec...***"
+	{
+		"chi"		"**守住最后的30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"***5sec LEFT.. FALL BACK ! !***"
+	{
+		"chi"		"**还剩5秒...撤退 **"
+	}
+	"*** WTF ! ? Avoid that lazer ! ! ! ***"
+	{
+		"chi"		"**什么东西？躲避激光!!! **"
+		"ico"		"icon_fire"
+	}
+	"***YOU CLEAR THIS MAP...YOU ARE BEST***"
+	{
+		"chi"		"**你通过了本地图...你是最棒的 **"
+	}
+	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
+	{
+		"chi"		"** **"
+	}
+}

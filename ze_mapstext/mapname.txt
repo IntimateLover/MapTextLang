@@ -1204,7 +1204,7 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_mountain_escape_snow_v4_8"
+	"ze_mountain_escape_snow_v5_2"
 	{
 		"chi"		"爬雪山"
 	}
@@ -1292,7 +1292,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v4_21"
+	"ze_roof_adventure_v5_b1"
 	{
 		"chi"		"屋顶大冒险"
 	}
@@ -1364,7 +1364,7 @@
 	{
 		"chi"		"永夜"
 	}
-	"ze_boredom_v543655"
+	"ze_boredom_v543654"
 	{
 		"chi"		"反转世界"
 	}
@@ -1400,11 +1400,11 @@
 	{
 		"chi"		"幸存者"
 	}
-	"ze_jungle_escape_v1_1"
+	"ze_jungle_escape_v1_2_d"
 	{
 		"chi"		"丛林逃生"
 	}
-	"ze_undertale_g_c7"
+	"ze_undertale_g_v1"
 	{
 		"chi"		"传说之下"
 	}
@@ -1412,7 +1412,7 @@
 	{
 		"chi"		"幻想逃生"
 	}
-	"ze_square_v1_fix"
+	"ze_square_v1_refix2"
 	{
 		"chi"		"广场"
 	}
@@ -1429,8 +1429,12 @@
 	}
 	"ze_rizomata_b43"
 	{
-		"chi"		"精灵塔[不可预定][a44通关后自动本地图]"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
+		"chi"		"精灵塔" //[不可预定][a44通关后自动本地图]
+		//"onlyadmin"		"1"
+		//"onlynominate"		"1"
+	}
+	"ze_floating_rocks_survival_csgo"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }
