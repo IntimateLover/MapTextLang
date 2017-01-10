@@ -850,4 +850,52 @@
 	{
 		"chi"		"**僵尸12秒后出现！ **"
 	}
+	"***Hold for last 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Do not allow zombies enter the door!***"
+	{
+		"chi"		"** **"
+	}
+	"***Something wrong.Choose mode again!***"
+	{
+		"chi"		"** **"
+	}
+	"***5!***"
+	{
+		"chi"		"** **"
+	}
+	"***4!***"
+	{
+		"chi"		"** **"
+	}
+	"***3!***"
+	{
+		"chi"		"** **"
+	}
+	"***2!***"
+	{
+		"chi"		"** **"
+	}
+	"***1!***"
+	{
+		"chi"		"** **"
+	}
+	"***Fantastic mode will start after 4 rounds if humans fail in extreme mode ***"
+	{
+		"chi"		"** **"
+	}
+	"***Round left:3 ***"
+	{
+		"chi"		"** **"
+	}
+	"***Fantastic mode will start in next round if humans fail in extreme mode! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Level completes!Your name will shine through the roof adventure!***"
+	{
+		"chi"		"** **"
+	}
 }

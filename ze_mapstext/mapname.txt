@@ -722,7 +722,7 @@
 		"chi"		"建筑工地"
 		"credit"		"400"
 	}
-	"ze_crazy_escape_v4_4"
+	"ze_crazy_escape_v4_4_1"
 	{
 		"chi"		"疯狂大逃亡"
 		"credit"		"400"
@@ -1092,10 +1092,6 @@
 	{
 		"chi"		"精灵塔"
 	}
-	"ze_hidden_temple_b1_3"
-	{
-		"chi"		"秘密神殿"
-	}
 	"ze_infected_sewers_v6_1_1"
 	{
 		"chi"		"此地图暂无译名"
@@ -1131,10 +1127,6 @@
 	"ze_dangerous_waters_v2_Final"
 	{
 		"chi"		"危险的水域"
-	}
-	"ze_hidden_temple_v1_8"
-	{
-		"chi"		"此地图暂无译名"
 	}
 	"ze_jurassicpark_evolved_v4"
 	{
@@ -1248,7 +1240,7 @@
 	{
 		"chi"		"创世E"
 	}
-	"ze_hidden_temple_v2_2"
+	"ze_hidden_temple_v2_3"
 	{
 		"chi"		"隐秘神庙"
 	}
@@ -1292,7 +1284,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v5_b1"
+	"ze_roof_adventure_v5_b2"
 	{
 		"chi"		"屋顶大冒险"
 	}
@@ -1304,7 +1296,7 @@
 	{
 		"chi"		"最终幻想14:流浪者宫殿"
 	}
-	"ze_PKMN_Adventure_v6_3_3"
+	"ze_PKMN_Adventure_v7"
 	{
 		"chi"		"跳刀神奇宝贝"
 	}
@@ -1429,7 +1421,8 @@
 	}
 	"ze_rizomata_b43"
 	{
-		"chi"		"精灵塔" //[不可预定][a44通关后自动本地图]
+		"chi"		"精灵塔" 
+		//[不可预定][a44通关后自动本地图]
 		//"onlyadmin"		"1"
 		//"onlynominate"		"1"
 	}
@@ -1438,3 +1431,4 @@
 		"chi"		"此地图暂无译名"
 	}
 }
+
