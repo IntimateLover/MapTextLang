@@ -2,15 +2,15 @@
 {
 	"***READY TO RUN***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备跑了 **"
 	}
 	"***Map by Reflelia***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Reflelia **"
 	}
 	"***Teleport activates in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点20秒后激活 **"
 	}
 	"***3***"
 	{
@@ -26,115 +26,121 @@
 	}
 	"***RUN***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑 **"
 	}
 	"***Resist for 60 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒 **"
+		"DoorCountDown" "60"
 	}
 	"***Zombies are coming!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了！！ **"
 	}
 	"***Teleporting all humans...***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送所有人类... **"
 	}
 	"***Teleporting all zombies...***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送所有僵尸... **"
 	}
 	"***Gravity picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**重力已拿起 **"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"***Resist 60 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒 **"
+		"DoorCountDown" "60"
 	}
 	"***Zombies are coming!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了！ **"
 	}
 	"***Gravity Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**重力已使用 **"
 	}
 	"***Resist 45 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒 **"
+		"DoorCountDown" "45"
 	}
 	"***shorcut open***"
 	{
-		"chi"		"** **"
+		"chi"		"**捷径打开 **"
 	}
 	"***Low Health picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已拿起 **"
 	}
 	"***Teleport error***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送错误 **"
 	}
 	"***Zombies are coming in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸15秒后出现 **"
 	}
 	"***Try to find button***"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找按钮 **"
 	}
 	"***Teleport error fixed in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将在30秒后修正 **"
+		"DoorCountDown" "30"
 	}
 	"***Try to find second button***"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找第二个按钮 **"
 	}
 	"***Low Health Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**奶已使用 **"
 	}
 	"***zombies are coming***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了 **"
 	}
 	"***Second teleport fixed in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送30秒后启动 **"
+		"DoorCountDown" "30"
 	}
 	"***5 seconds left, prepare yourself***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒,准备了 **"
 	}
 	"***Watch out!***"
 	{
-		"chi"		"** **"
+		"chi"		"**当心！ **"
 	}
 	"***Resist for 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***Ready for final surf***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备最后的滑翔 **"
 	}
 	"***Watermelon***"
 	{
-		"chi"		"** **"
+		"chi"		"**西瓜 **"
 	}
 	"***Detonation in 3 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒后爆炸 **"
 	}
 	"***No Secret Chance***"
 	{
@@ -142,6 +148,6 @@
 	}
 	"***Timed Out***"
 	{
-		"chi"		"** **"
+		"chi"		"**超时了 **"
 	}
 }
