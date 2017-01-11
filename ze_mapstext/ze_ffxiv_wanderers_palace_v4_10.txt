@@ -182,13 +182,12 @@
 	}
 	"*** Flare ***"
 	{
-		"chi"		"**激光（想装逼的去左边.萌新去右边） **"
+		"chi"		"**火（跳到两边的箱子上.左边会有刀.右边没刀.站在原地不动会死） **"
 		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
 	{
 		"chi"		"**巨兽王死了 **"
-		"command"		"sm_clearbosshp"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
@@ -266,7 +265,7 @@
 	}
 	"***Akh Morn***"
 	{
-		"chi"		"**耀之荣光（此技能只在开场出现一次.175血满甲可以硬抗过去） **"
+		"chi"		"**百万耀斑（此技能只在开场出现一次.175血满甲可以硬抗过去） **"
 		"ico"		"icon_fire"
 	}
 	"*** 3 ***"
@@ -283,8 +282,8 @@
 	}
 	"***ADS Attack***"
 	{
-		"chi"		"**ADS攻击 **"
-		"ico"		"icon_fire"
+		"chi"		"**ADS攻击（先打左边的ADS.再打右边的ADS）		
+"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
@@ -305,7 +304,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼（切刀往平台后方跑.吸的时候按住W键） **"
+		"chi"		"**暴风之翼（切刀往平台后方跑.吸的时候回头开枪） **"
 		"ico"		"icon_fire"
 	}
 	"***Heavens Fall***"
@@ -352,7 +351,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**（真）憾地（看清位置躲避） **"
+		"chi"		"**憾地（看清位置躲避） **"
 		"ico"		"icon_fire"
 	}
 	"***A player picked up Bird Armys Paeon***"
@@ -393,7 +392,7 @@
 	}
 	"***Holm gang zombie incoming...***"
 	{
-		"chi"		"**僵尸拿起了僵尸终极... **"
+		"chi"		"**僵尸拿起了定身... **"
 	}
 	"*** Recast 95s ***"
 	{
@@ -428,7 +427,7 @@
 	}
 	"*** Dalamud the last boss ***"
 	{
-		"chi"		"**达拉姆是最后一个BOSS **"
+		"chi"		"**达拉姆是最后的BOSS **"
 	}
 	"*** Cauterize ***"
 	{
@@ -442,7 +441,7 @@
 	}
 	"*** True Bahamut appeared ***"
 	{
-		"chi"		"**（真）巴哈姆特到来 **"
+		"chi"		"**达拉姆召唤了巴哈姆特 **"
 		"command"		"sm_clearbosshp"
 	}
 	"*** Steam Judge ***"
@@ -456,17 +455,17 @@
 	}
 	"*** True Heavens fall ***"
 	{
-		"chi"		"**（真）天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落） **"
+		"chi"		"**真天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落） **"
 		"ico"		"icon_fire"
 	}
 	"*** True Tempest wing ***"
 	{
-		"chi"		"**（真）暴风之翼（会出现三个旋风.只有两个是真的.站到风里面按住空格） **"
+		"chi"		"**真暴风之翼（会出现三个旋风.只有两个是真的.站到风里面按住空格） **"
 		"ico"		"icon_fire"
 	}
 	"*** True Bahamut dead ***"
 	{
-		"chi"		"**巴哈姆特死亡 **"
+		"chi"		"**巴哈姆特终于死了 **"
 		"command"		"sm_clearbosshp"
 	}
 	"*** 45 seconds to Open Wall ***"
@@ -489,7 +488,7 @@
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"**Odin出现了 **"
+		"chi"		"**奥丁出现了 **"
 	}
 	"*** Kill Odin ***"
 	{
@@ -537,7 +536,7 @@
 	}
 	"*** You have passed through the first phase ***"
 	{
-		"chi"		"**你已经通过了第一阶段 **"
+		"chi"		"**你已经通过了第一阶段（正在存档） **"
 	}
 	"*** Level set....Next Level Ultimate ***"
 	{
@@ -564,7 +563,7 @@
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**电（蹲下躲避） **"
+		"chi"		"**终极的电（蹲下躲避） **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
@@ -586,15 +585,15 @@
 	}
 	"*** ADMIN BUTTON STAGE 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至第二阶段 **"
 	}
 	"slay @all"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死全部人 **"
 	}
 	"*** ADMIN BUTTON STAGE 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至第一阶段 **"
 	}
 	"*** ADMIN BUTTON Level Ultimate ***"
 	{
