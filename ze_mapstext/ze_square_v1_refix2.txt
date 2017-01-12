@@ -99,7 +99,7 @@
 	}
 	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：AobaSuzukaze(sweetS) 地图翻译：蓬莱山帅比♪ 特别感谢：reflelia **"
 	}
 	"***Secret melon startforward in 5sec***"
 	{
@@ -107,10 +107,11 @@
 	}
 	"***HOLD 60sec to explose wall***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒 **"
+		"DoorCountDown"		"60"
 	}
 	"GO AWAY !"
 	{
-		"chi"		"** **"
+		"chi"		"**走！ **"
 	}
 }
