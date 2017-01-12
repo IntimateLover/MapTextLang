@@ -18,31 +18,31 @@
 	}
 	"23 . STAGGER"
 	{
-		"chi"		"**虚弱23% **"
+		"chi"		"** **"
 	}
 	"20 . STAGGER"
 	{
-		"chi"		"**虚弱20% **"
+		"chi"		"** **"
 	}
 	"18 . STAGGER"
 	{
-		"chi"		"**虚弱18% **"
+		"chi"		"** **"
 	}
 	"15 . STAGGER"
 	{
-		"chi"		"**虚弱15% **"
+		"chi"		"** **"
 	}
 	"13 . STAGGER"
 	{
-		"chi"		"**虚弱13% **"
+		"chi"		"** **"
 	}
 	"10 . STAGGER"
 	{
-		"chi"		"**虚弱10% **"
+		"chi"		"** **"
 	}
 	"8 . STAGGER"
 	{
-		"chi"		"**虚弱8% **"
+		"chi"		"** **"
 	}
 	"***Holy picked up***"
 	{
@@ -54,47 +54,47 @@
 	}
 	"38 . STAGGER"
 	{
-		"chi"		"**虚弱38% **"
+		"chi"		"** **"
 	}
 	"35 . STAGGER"
 	{
-		"chi"		"**虚弱35% **"
+		"chi"		"** **"
 	}
 	"55 . STAGGER"
 	{
-		"chi"		"**虚弱55% **"
+		"chi"		"** **"
 	}
 	"53 . STAGGER"
 	{
-		"chi"		"**虚弱53% **"
+		"chi"		"** **"
 	}
 	"50 . STAGGER"
 	{
-		"chi"		"**虚弱50% **"
+		"chi"		"** **"
 	}
 	"70 . STAGGER"
 	{
-		"chi"		"**虚弱70% **"
+		"chi"		"** **"
 	}
 	"68 . STAGGER"
 	{
-		"chi"		"**虚弱68% **"
+		"chi"		"** **"
 	}
 	"88 . STAGGER"
 	{
-		"chi"		"**虚弱88% **"
+		"chi"		"** **"
 	}
 	"83 . STAGGER"
 	{
-		"chi"		"**虚弱83% **"
+		"chi"		"** **"
 	}
 	"80 . STAGGER"
 	{
-		"chi"		"**虚弱80% **"
+		"chi"		"** **"
 	}
 	"78 . STAGGER"
 	{
-		"chi"		"**虚弱78% **"
+		"chi"		"** **"
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
@@ -107,19 +107,19 @@
 	}
 	"75 . STAGGER"
 	{
-		"chi"		"**虚弱75% **"
+		"chi"		"** **"
 	}
 	"73 . STAGGER"
 	{
-		"chi"		"**虚弱73% **"
+		"chi"		"** **"
 	}
 	"65 . STAGGER"
 	{
-		"chi"		"**虚弱65% **"
+		"chi"		"** **"
 	}
 	"63 . STAGGER"
 	{
-		"chi"		"**虚弱63% **"
+		"chi"		"** **"
 	}
 	"***Ammo used***"
 	{
@@ -364,11 +364,11 @@
 	}
 	"***Thruster Casted***"
 	{
-		"chi"		"**BOSS使用了推 **"
+		"chi"		"** **"
 	}
 	"***A PLAYER SLAIN BY A BARREL***"
 	{
-		"chi"		"**一位玩家被桶杀死 **"
+		"chi"		"** **"
 	}
 	"[MUSIC] Penoreri - Prayer"
 	{
@@ -376,12 +376,11 @@
 	}
 	"***A PLAYER BLOW UP WITH HELICOPTER***"
 	{
-		"chi"		"**一位玩家拿起了奶 **"
+		"chi"		"** **"
 	}
 	"***50 SECONDS LEFT***"
 	{
-		"chi"		"**还剩50秒 **"
-		"DoorCountDown"		"50"
+		"chi"		"** **"
 	}
 	"***40 SECONDS LEFT***"
 	{
@@ -397,11 +396,11 @@
 	}
 	"***WARM UP ROUIND***"
 	{
-		"chi"		"**热身赛 **"
+		"chi"		"** **"
 	}
 	"***CURRENT MODE >>>PARAMINA<<<***"
 	{
-		"chi"		"**当前模式：帕拉米亚 **"
+		"chi"		"** **"
 	}
 	"***Protector picked up***"
 	{
@@ -409,73 +408,82 @@
 	}
 	"***TELEPORT ACTIATING IN 30 SECONDS***"
 	{
-		"chi"		"**传送点30秒后激活 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"***Way to Mysterious Room Open in 30 seconds***"
 	{
-		"chi"		"**神秘的房间在30秒后开启 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"***MATEUS HEALED 300 POINTS***"
 	{
-		"chi"		"**背德の皇帝恢复了300点HP **"
+		"chi"		"** **"
 	}
 	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
 	{
-		"chi"		"**幽灵军队来了！准备好最后的防御！ **"
+		"chi"		"** **"
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
-		"chi"		"**守住大门.为了继续在米那斯提力斯顶部防守！ **"
+		"chi"		"** **"
 	}
 	"***AFK TELEPORT IN 10 SECONDS***"
 	{
-		"chi"		"**挂机玩家10秒后传送 **"
+		"chi"		"** **"
 	}
 	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
 	{
-		"chi"		"**这是重要的时刻 **准备和他们决一死战  **"
+		"chi"		"** **"
 	}
 	"0 . STAGGER"
 	{
-		"chi"		"**虚弱0% **"
+		"chi"		"** **"
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
-		"chi"		"**背德の皇帝准备释放大招了 **"
+		"chi"		"** **"
 	}
 	"33 . STAGGER"
 	{
-		"chi"		"**虚弱33% **"
+		"chi"		"** **"
 	}
 	"30 . STAGGER"
 	{
-		"chi"		"**虚弱30% **"
+		"chi"		"** **"
 	}
 	"28 . STAGGER"
 	{
-		"chi"		"**虚弱28% **"
+		"chi"		"** **"
 	}
 	"25 . STAGGER"
 	{
-		"chi"		"**虚弱25% **"
+		"chi"		"** **"
 	}
 	"***Teleport back activate in 20 seconds***"
 	{
-		"chi"		"**传送点20秒后激活 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"***ADMIN CHANGED MODE [NORMAL]***"
 	{
-		"chi"		"**管理员选择了普通模式 **"
+		"chi"		"** **"
 	}
 	"***ADMIN CHANGED MODE [CUSTOM]***"
 	{
-		"chi"		"**管理员选择了自定义模式 **"
+		"chi"		"** **"
 	}
 	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
 	{
-		"chi"		"**管理员启用了插件模式【低摩擦】 **"
+		"chi"		"** **"
+	}
+	"[MUSIC] The Prodigy - Invaders Must Die"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] xi + nora2r - Dreadnought"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] The Prodigy - Omen"
+	{
+		"chi"		"** **"
 	}
 }

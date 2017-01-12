@@ -304,25 +304,23 @@
 	}
 	"**Map by Tenshi**"
 	{
-		"chi"		"**地图制作：Tenshi 地图翻译：蓬莱山帅比♪ **"
+		"chi"		"** **"
 	}
 	"**Special Thanks:GemaYue , uuz , 银月筱瑶**"
 	{
-		"chi"		"**特别感谢：GemaYue， uuz， 银月筱瑶 **"
+		"chi"		"** **"
 	}
 	"**Stage 1**"
 	{
-		"chi"		"**第一关 **"
+		"chi"		"** **"
 	}
 	"**Hold 15 seconds**"
 	{
-		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"chi"		"** **"
 	}
 	"**Hold 30 seconds**"
 	{
-		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"**5 seconds**"
 	{
@@ -330,21 +328,19 @@
 	}
 	"**Hold 35 seconds**"
 	{
-		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+		"chi"		"** **"
 	}
 	"**Hold on 80 seconds**"
 	{
-		"chi"		"**守住80秒 **"
-		"DoorCountDown"		"80"
+		"chi"		"** **"
 	}
 	"**The elevator is rising**"
 	{
-		"chi"		"**电梯正在上升 **"
+		"chi"		"** **"
 	}
 	"**Nuke in 5 seconds**"
 	{
-		"chi"		"**核弹5秒后爆炸 **"
+		"chi"		"** **"
 	}
 	"**3**"
 	{
@@ -360,74 +356,67 @@
 	}
 	"**Round Complete**"
 	{
-		"chi"		"**关卡通过 **"
+		"chi"		"** **"
 	}
 	"**Stage 2**"
 	{
-		"chi"		"**第二关 **"
+		"chi"		"** **"
 	}
 	"**Hold 15 seconds until the lid of rubbish bin opening**"
 	{
-		"chi"		"**守住15秒.直到垃圾桶的盖子打开 **"
-		"DoorCountDown"		"15"
+		"chi"		"** **"
 	}
 	"**Jump into the rubbish bin**"
 	{
-		"chi"		"**跳进垃圾桶 **"
+		"chi"		"** **"
 	}
 	"**HOLD 20 SECONDS**"
 	{
-		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"**Wait 30 seconds**"
 	{
-		"chi"		"**等待30秒 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"**Wall breaking in 20 seconds**"
 	{
-		"chi"		"**墙壁20秒后破碎 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"**Hold 40 seconds**"
 	{
-		"chi"		"**守住40秒 **"
-		"DoorCountDown"		"40"
+		"chi"		"** **"
 	}
 	"**Go to the ClearRobot**"
 	{
-		"chi"		"**去到Clear机器人那里 **"
+		"chi"		"** **"
 	}
 	"**ClearRobot leaving in 8 seconds**"
 	{
-		"chi"		"**Clear机器人8秒后离开 **"
+		"chi"		"** **"
 	}
 	"**You failed**"
 	{
-		"chi"		"**你失败了 **"
+		"chi"		"** **"
 	}
 	"**Stage 3**"
 	{
-		"chi"		"**第三关 **"
+		"chi"		"** **"
 	}
 	"**Wait 15 seconds**"
 	{
-		"chi"		"**等待15秒 **"
-		"DoorCountDown"		"15"
+		"chi"		"** **"
 	}
 	"**Hold 25 seconds**"
 	{
-		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"chi"		"** **"
 	}
 	"**Teleport activated**"
 	{
-		"chi"		"**传送点激活 **"
+		"chi"		"** **"
 	}
 	"**Jump into the screen**"
 	{
-		"chi"		"**跳到屏幕上 **"
+		"chi"		"** **"
 	}
 	"**Sakai**"
 	{
@@ -439,8 +428,7 @@
 	}
 	"**Hold 10 seconds**"
 	{
-		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"**Gasu**"
 	{
@@ -448,16 +436,15 @@
 	}
 	"**[Admin]ZM**"
 	{
-		"chi"		"**管理员把关卡调到了感染关 **"
+		"chi"		"** **"
 	}
 	"**[ZM]**"
 	{
-		"chi"		"**【感染关卡】 **"
+		"chi"		"** **"
 	}
 	"**Nuke in 3 mins**"
 	{
-		"chi"		"**核弹3分钟后爆炸 **"
-		"DoorCountDown"		"180"
+		"chi"		"** **"
 	}
 	"**Nuke in 2 mins**"
 	{
@@ -469,7 +456,7 @@
 	}
 	"**Round Failed**"
 	{
-		"chi"		"**本关失败 **"
+		"chi"		"** **"
 	}
 	"**Air leaves in 30 seconds**"
 	{
@@ -477,14 +464,14 @@
 	}
 	"**[Admin]Stage 3**"
 	{
-		"chi"		"**管理员把关卡调到了第三关 **"
+		"chi"		"** **"
 	}
 	"**全人类の绯想"
 	{
-		"chi"		"**全人类の绯想 **"
+		"chi"		"** **"
 	}
 	"**[Admin]Stage 1**"
 	{
-		"chi"		"**管理员把关卡调到了第一关 **"
+		"chi"		"** **"
 	}
 }

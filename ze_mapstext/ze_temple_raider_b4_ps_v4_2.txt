@@ -2,11 +2,11 @@
 {
 	"** ZE TEMPLE RAIDER **"
 	{
-		"chi"		"**神庙逃亡 **"
+		"chi"		"** **"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图制作：SLAYERDRAGON **"
+		"chi"		"** **"
 	}
 	"The world is falling apart!"
 	{
@@ -18,7 +18,7 @@
 	}
 	"Warmup Round - 10 sec"
 	{
-		"chi"		"**热身赛还有10秒 **"
+		"chi"		"** **"
 	}
 	"** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **"
 	{
@@ -27,11 +27,10 @@
 	"Hold 30 sec"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
 	}
 	"Warmup Round - End"
 	{
-		"chi"		"**热身赛结束 **"
+		"chi"		"** **"
 	}
 	"Hold 5 sec"
 	{
@@ -48,7 +47,7 @@
 	}
 	"Hold 15 sec"
 	{
-		"chi"		"**守住15秒 **"
+		"chi"		"** **"
 		"DoorCountDown"		"15"
 	}
 	"** Health Kit Ready!!! **"
@@ -65,17 +64,15 @@
 	}
 	"** DOOR OPENS IN 5 SEC **"
 	{
-		"chi"		"**门5秒后开启 **"
+		"chi"		"** **"
 	}
 	"Hold 10 sec"
 	{
-		"chi"		"**守住10秒 **"
-		"DoorCountDown"		"10"
+		"chi"		"** **"
 	}
 	"Hold 20 sec"
 	{
-		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"** FALL BACK **"
 	{
@@ -104,7 +101,7 @@
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
-		"chi"		"**我们找到了宝藏房间**"
+		"chi"		"**我们找到了宝藏放假**"
 	}
 	"** HOLD HERE TILL THE DOOR OPENS **"
 	{
@@ -157,35 +154,34 @@
 	}
 	"** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
 	{
-		"chi"		"**战术核弹即将爆炸 **"
+		"chi"		"** **"
 	}
 	"Bomb exploding in 100 sec"
 	{
-		"chi"		"**炸弹100秒后爆炸 **"
-		"DoorCountDown"		"100"
+		"chi"		"** **"
 	}
 	"** GET THERE BEFORE IT DETONATES! **"
 	{
-		"chi"		"**在爆炸前到达那里 **"
+		"chi"		"** **"
 	}
 	"Bomb exploding in 60 sec"
 	{
-		"chi"		"**炸弹60秒后爆炸 **"
+		"chi"		"** **"
 	}
 	"Bomb exploding in 30 sec"
 	{
-		"chi"		"**炸弹30秒后爆炸 **"
+		"chi"		"** **"
 	}
 	"Bomb exploding in 10 sec"
 	{
-		"chi"		"**炸弹10秒后爆炸 **"
+		"chi"		"** **"
 	}
 	"** HURRY UP!!! **"
 	{
-		"chi"		"**快点！！ **"
+		"chi"		"** **"
 	}
 	"KABOOOM"
 	{
-		"chi"		"**爆炸 **"
+		"chi"		"** **"
 	}
 }
