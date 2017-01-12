@@ -38,7 +38,7 @@
 	}
 	"> BERSERK COMBO has been acquired"
 	{
-		"chi"		"**COMBO已被拿起 **"
+		"chi"		"**COMBO已被拿起（使用方法:按下E之后WWSS开启） **"
 	}
 	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
 	{
@@ -47,7 +47,7 @@
 	}
 	"> ROCKET LAUNCHER has been acquired"
 	{
-		"chi"		"**一位玩家拿起了火箭发射器 **"
+		"chi"		"**一位玩家拿起了火箭发射器（使用后炮弹碰到僵尸后爆炸会造成减速灼烧的效果） **"
 	}
 	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
 	{
@@ -71,11 +71,11 @@
 	}
 	">>> DREADNOUGHT DETECTED! <<<"
 	{
-		"chi"		"**本关难度：无畏 **"
+		"chi"		"**无畏战车已出现 **"
 	}
 	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
 	{
-		"chi"		"**不能射击货舱！试图摧毁发动机或杀死司机！ **"
+		"chi"		"**不可以射击货舱！试图摧毁发动机或杀死司机！ **"
 		"ico"		"icon_fire"
 	}
 	">>> THE REAR DOOR HAS BEEN OPENED <<<"
@@ -117,32 +117,32 @@
 	}
 	">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
 	{
-		"chi"		"**你必须进入n.e.x.u.s.拖车 **"
+		"chi"		"**你必须进入N.E.X.U.S.拖车 **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车将在在40秒后打开舱口 **"
+		"chi"		"**N.E.X.U.S.拖车将在在40秒后打开舱口 **"
 		"DoorCountDown"		"40"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车将在在20秒后打开舱口 **"
+		"chi"		"**N.E.X.U.S.拖车将在在20秒后打开舱口 **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车将在在5秒后打开舱口 **"
+		"chi"		"**N.E.X.U.S.拖车将在在5秒后打开舱口 **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
 	{
-		"chi"		"**n.e.x.u.s.拖车舱口已开启 **"
+		"chi"		"**N.E.X.U.S.拖车舱口已开启 **"
 	}
 	">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
 	{
-		"chi"		"**现在你可以取回n.e.x.u.s.导弹 **"
+		"chi"		"**现在你可以取回N.E.X.U.S.导弹 **"
 	}
 	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
 	{
-		"chi"		"**n.e.x.u.s.导弹已拿到 **"
+		"chi"		"**N.E.X.U.S.导弹已拿到 **"
 	}
 	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
 	{
@@ -154,7 +154,7 @@
 	}
 	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
 	{
-		"chi"		"**武器库被盗了 **"
+		"chi"		"**武器库已开启 **"
 	}
 	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
 	{
@@ -224,7 +224,7 @@
 	}
 	"> LIGHTING RIFLE has been acquired"
 	{
-		"chi"		"**一位玩家拿起了照明步枪 **"
+		"chi"		"**一位玩家拿起了镭射步枪（站在直线上的僵尸会被瞬间杀死） **"
 	}
 	"> REDEEMER has been acquired"
 	{
@@ -232,7 +232,7 @@
 	}
 	"> FLAK CANNON has been acquired"
 	{
-		"chi"		"**一位玩家拿起了高射炮 **"
+		"chi"		"**一位玩家拿起了高射炮（无限使用） **"
 	}
 	">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
 	{
@@ -240,6 +240,6 @@
 	}
 	">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**回到新手难度 **"
 	}
 }
