@@ -852,43 +852,45 @@
 	}
 	"***Current Level:[Easy]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：简单 **"
 	}
 	"***Wood door will break in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门20秒后破碎 **"
 	}
 	"***Rock monster will attack in 5s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**怪物5秒后开始攻击 **"
 	}
 	"***Hold for 25s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
+		"DoorCountDown"		"25"
 	}
 	"***Do not allow zombies to enter the safe room!***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让僵尸进入安全屋！ **"
 	}
 	"***Enter the safe room!The nuke will launch in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**进入安全屋！核弹10秒后发射！ **"
 	}
 	"***Level completed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡通过 **"
 	}
 	"***Current Level:[Extra1]***"
 	{
-		"chi"		"** **"
+		"chi"		"**本关难度：极限1 **"
 	}
 	"***Winners will have access to get special weapons in next level***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜者讲在下一关获得特殊武器 **"
 	}
 	"***Great!Hold for 35s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**干得好！守住35秒！ **"
+		"DoorCountDown"		"35"
 	}
 	"***5!***"
 	{
@@ -912,42 +914,42 @@
 	}
 	"***Current Level:[Normal]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：普通 **"
 	}
 	"***Current Level:[Extra2]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：极限2 **"
 	}
 	"***Laser race will begin later!***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳刀比赛开始 **"
 	}
 	"***Some tips!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一些提示 **"
 	}
 	"***Tip1:Red laser can add health!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示1：红色激光可以加血 **"
 	}
 	"***Tip2:Blue laser can hurt!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示2：蓝色激光是伤害 **"
 	}
 	"***Tip3:Purple laser can reduce speed infinitely!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示3：紫色激光是无限减速 **"
 	}
 	"***Tip4:Green laser can teleport!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示4：绿色激光将把你传送到传送点 **"
 	}
 	"***Level failed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败 **"
 	}
 	"***Current Level:[Hard]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：困难 **"
 	}
 }
