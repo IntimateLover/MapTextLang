@@ -24,28 +24,28 @@
 	}
 	"*** AERIAL BLAST ***"
 	{
-		"chi"		"**大气爆发**"
+		"chi"		"**大气爆发(看清天上出现的刀的位置躲避）**"
 		"ico"		"icon_fire"
 	}
 	"*** GUST ***"
 	{
-		"chi"		"**狂风**"
+		"chi"		"**狂风（面对绿色的光球按住W键）**"
 		"ico"		"icon_fire"
 	}
 	"*** Hold 50 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住50秒 **"
 		"DoorCountDown"		"50"
 	}
 	"*** DOWNBURST ***"
 	{
-		"chi"		"**下爆气流**"
+		"chi"		"**下爆气流（倒计时结束按住W）**"
 		"ico"		"icon_fire"
 		"DoorCountDown"		"3"
 	}
 	"*** UPDRAFT ***"
 	{
-		"chi"		"**上升气流 **"
+		"chi"		"**上升气流（上升后看着下面的位置落地） **"
 		"ico"		"icon_fire"
 	}
 	"*** Hold 10 seconds ***"
@@ -54,22 +54,22 @@
 	}
 	"*** FLAME RADIATION ***"
 	{
-		"chi"		"**火焰辐射**"
+		"chi"		"**火焰辐射（躲避BOSS的火焰)**"
 		"ico"		"icon_fire"
 	}
 	"*** FIREBALL ***"
 	{
-		"chi"		"**大火球**"
+		"chi"		"**大火球(远离BOSS)**"
 		"ico"		"icon_fire"
 	}
 	"*** SUN STRIKE ***"
 	{
-		"chi"		"**阳炎冲击**"
+		"chi"		"**阳炎冲击（看着自己脚下如果有红色的圈就往旁边走）**"
 		"ico"		"icon_fire"
 	}
 	"*** MEGA FLARE ***"
 	{
-		"chi"		"**百万耀斑**"
+		"chi"		"**百万耀斑（不要靠近BOSS)**"
 		"ico"		"icon_fire"
 	}
 	"*** FLASH OVER ***"
@@ -79,27 +79,27 @@
 	}
 	"*** FORGE SPIRITS ***"
 	{
-		"chi"		"**熔炉精灵**"
+		"chi"		"**熔炉精灵(看清地上的小火球躲避）**"
 		"ico"		"icon_fire"
 	}
 	"*** GIGA FLARE ***"
 	{
-		"chi"		"**十亿耀斑**"
+		"chi"		"**十亿耀斑（远离BOSS)**"
 		"ico"		"icon_fire"
 	}
 	"*** FRAMBERGE ***"
 	{
-		"chi"		"**焰形剑**"
+		"chi"		"**焰形剑（不要被天上的刀刮到）**"
 		"ico"		"icon_fire"
 	}
 	"*** TERA FLARE ***"
 	{
-		"chi"		"**兆亿耀斑**"
+		"chi"		"**兆亿耀斑（远离BOSS)**"
 		"ico"		"icon_fire"
 	}
 	"*** EXA FLARE ***"
 	{
-		"chi"		"**千兆亿耀斑**"
+		"chi"		"**千兆亿耀斑(准备使用奶神器）**"
 		"ico"		"icon_fire"
 	}
 	"*** EYE OF THE STORM ***"
@@ -133,6 +133,6 @@
 	}
 	"*** LIFT IS LEAVING IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在5秒后离开 **"
 	}
 }
