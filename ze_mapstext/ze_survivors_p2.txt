@@ -6,11 +6,11 @@
 	}
 	"<!!!> COLD MOUNTAIN <!!!>"
 	{
-		"chi"		"**冷山 **"
+		"chi"		"**雪山 **"
 	}
 	"<!!!> THE COLD HURTS <!!!>"
 	{
-		"chi"		"**寒伤 **"
+		"chi"		"**冻伤 **"
 	}
 	"<!!!> WARMTH HEALS <!!!>"
 	{
@@ -26,7 +26,7 @@
 	}
 	"<!!!> IN THE OPEN CONTAINER <!!!>"
 	{
-		"chi"		"**在打开集装箱里 **"
+		"chi"		"**在打开的集装箱里 **"
 	}
 	"<!!!> WAIT FOR HELICOPTER <!!!>"
 	{
@@ -201,18 +201,18 @@
 	}
 	"<!!!> IMPOSSIBLE DAMAGE ROUND <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**不可能过的一关 **"
 	}
 	"<!!!> HIGH DAMAGE - LOW HEAL <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**高伤害-低治疗 **"
 	}
 	"<!!!> MAP COMPLETE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**地图通关 **"
 	}
 	"<!!!> LOW DAMAGE ROUND <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**低伤害的一关 **"
 	}
 }
