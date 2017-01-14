@@ -732,7 +732,7 @@
 		"chi"		"生化危机：下水道"
 		"credit"		"400"
 	}
-	"ze_destruction_of_exorath_v4"
+	"ze_destruction_of_exorath_v4_lite"
 	{
 		"chi"		"破坏行动"
 		"credit"		"400"
@@ -1244,7 +1244,7 @@
 	{
 		"chi"		"隐秘神庙"
 	}
-	"ze_otakuroom_v5_2"
+	"ze_otakuroom_v5_3"
 	{
 		"chi"		"御宅房"
 	}
