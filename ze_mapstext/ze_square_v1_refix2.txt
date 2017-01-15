@@ -107,14 +107,15 @@
 	}
 	"***HOLD 60sec to explose wall***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒.直到墙破碎 **"
+		"DoorCountDown"		"60"
 	}
 	"GO AWAY !"
 	{
-		"chi"		"** **"
+		"chi"		"**走了 **"
 	}
 	"***PUSH UP TRIGGER ENABLE.. GO TO PUSH BLOCK AND JUMP ! !***"
 	{
-		"chi"		"** **"
+		"chi"		"**高空跳跃触发.准备起跳 **"
 	}
 }
