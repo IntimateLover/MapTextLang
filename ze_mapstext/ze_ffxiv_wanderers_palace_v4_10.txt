@@ -2,7 +2,7 @@
 {
 	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
 	{
-		"chi"		"**地图帮助：Airvulpes,Kune,thas,Rukly,Shufen**"
+		"chi"		"**地图帮助：Airvulpes.Kune.thas.Rukly.Shufen**"
 	}
 	"*** Map made by Altima ***"
 	{
@@ -14,7 +14,7 @@
 	}
 	"*** Level:Normal ***"
 	{
-		"chi"		"**关卡：普通 **"
+		"chi"		"**关卡：简单 **"
 	}
 	"*** HINT: Activate Nymian Device ***"
 	{
@@ -48,7 +48,7 @@
 	}
 	"*** Enkidu dead ***"
 	{
-		"chi"		"**恩奇都死亡 **"
+		"chi"		"**恩奇都已经死亡 **"
 	}
 	"*** 25 seconds to Activate Nymian device ***"
 	{
@@ -95,15 +95,15 @@
 	}
 	"*** Normal Clear!! ***"
 	{
-		"chi"		"**普通难度通关！ **"
+		"chi"		"**简单难度通关！ **"
 	}
 	"*** Next Level Hard ***"
 	{
-		"chi"		"**下一难度：困难 **"
+		"chi"		"**下一难度：普通 **"
 	}
 	"*** Level:Hard ***"
 	{
-		"chi"		"**关卡：困难 **"
+		"chi"		"**关卡：普通 **"
 	}
 	"***A player picked up Summoner Shadow Flare***"
 	{
@@ -137,7 +137,7 @@
 	}
 	"***A player picked up Mount Night Mare***"
 	{
-		"chi"		"**一位玩家拿起了墙（释放后出现一个墙壁.持续时间5秒 **"
+		"chi"		"**一位玩家拿起了墙（释放后出现一个墙壁.持续时间5秒） **"
 	}
 	"***Recast 50s***"
 	{
@@ -159,7 +159,6 @@
 	"*** Behemoth King Appeared ***"
 	{
 		"chi"		"**巨兽王出现 **"
-		"command"		"sm_clearbosshp"
 	}
 	"*** Shoot him ***"
 	{
@@ -204,7 +203,7 @@
 	}
 	"***HARD CLEAR***"
 	{
-		"chi"		"**困难难度通关 **"
+		"chi"		"**普通难度通关 **"
 	}
 	"***Texture Support by fujione***"
 	{
@@ -212,15 +211,15 @@
 	}
 	"***Map made by Altima***"
 	{
-		"chi"		"**地图制作：Altima **"
+		"chi"		"**地图制作：Altima 地图翻译：蓬莱山帅比♪ **"
 	}
 	"***Next Level Extreme***"
 	{
-		"chi"		"**下一难度：极限 **"
+		"chi"		"**下一难度：困难 **"
 	}
 	"*** Level:Extreme ***"
 	{
-		"chi"		"**本关难度：极限 **"
+		"chi"		"**本关难度：困难 **"
 	}
 	"*** 35 seconds to activate Nymian device ***"
 	{
@@ -380,19 +379,19 @@
 	}
 	"*** Extreme CLEAR ***"
 	{
-		"chi"		"**极限难度通过 **"
+		"chi"		"**困难难度通过 **"
 	}
 	"*** Next Level Savage ***"
 	{
-		"chi"		"**下一难度：狂怒 **"
+		"chi"		"**下一难度：史诗 **"
 	}
 	"*** Level:Savage ***"
 	{
-		"chi"		"**本关难度：狂怒 **"
+		"chi"		"**本关难度：史诗 **"
 	}
 	"***Holm gang zombie incoming...***"
 	{
-		"chi"		"**僵尸拿起了定身... **"
+		"chi"		"**僵尸拿起了定身（释放后在范围内的人类将会被定身五秒） **"
 	}
 	"*** Recast 95s ***"
 	{
@@ -475,7 +474,7 @@
 	}
 	"*** Savage CLEAR ***"
 	{
-		"chi"		"**狂怒难度通过 **"
+		"chi"		"**史诗难度通过 **"
 	}
 	"*** Winners are Heroes of Light ***"
 	{
@@ -508,7 +507,7 @@
 	}
 	"*** Level:Ultimate ***"
 	{
-		"chi"		"**本关难度：终极 **"
+		"chi"		"**本关难度：天神 **"
 	}
 	"*** This mode is Secret mode ***"
 	{
@@ -540,7 +539,7 @@
 	}
 	"*** Level set....Next Level Ultimate ***"
 	{
-		"chi"		"**关卡...下一难度：终极 **"
+		"chi"		"**关卡...下一难度：天神 **"
 	}
 	"*** Dark Bahamut is blocking the road ***"
 	{
