@@ -87,7 +87,6 @@
 	"*** ALL Nymian device Activated ***"
 	{
 		"chi"		"**所有的尼米安装置已激活 **"
-		"ico"		"icon_fire"
 	}
 	"*** 5 seconds to Activate Nymian device ***"
 	{
@@ -115,7 +114,7 @@
 	}
 	"***A player picked up Black Mage Flare***"
 	{
-		"chi"		"**一个玩家拿起了火（释放后在范围内的僵尸会受到减速和灼烧的效果） **"
+		"chi"		"**一位玩家拿起了火（释放后范围内的僵尸将会收到减速和灼烧的效果） **"
 	}
 	"***Recast 55s***"
 	{
@@ -199,7 +198,7 @@
 	}
 	"***Gravity ON***"
 	{
-		"chi"		"**低重力开启 **"
+		"chi"		"** **"
 	}
 	"***HARD CLEAR***"
 	{
@@ -251,7 +250,7 @@
 	}
 	"*** once only ***"
 	{
-		"chi"		"**只有一次.请不要EZWIN **"
+		"chi"		"**只能使用一次 **"
 	}
 	"***Bahamut Prime appeared***"
 	{
@@ -282,7 +281,7 @@
 	"***ADS Attack***"
 	{
 		"chi"		"**ADS攻击（先打左边的ADS.再打右边的ADS）		
-"ico"		"icon_fire"
+		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
@@ -487,7 +486,7 @@
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"**奥丁出现了 **"
+		"chi"		"**奥丁神出现了 **"
 	}
 	"*** Kill Odin ***"
 	{
@@ -547,7 +546,7 @@
 	}
 	"***Ultimate Akh Morn***"
 	{
-		"chi"		"**终极之耀之荣光（奶注意血量开） **"
+		"chi"		"**终极之百万耀斑（奶注意血量开） **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
@@ -580,7 +579,7 @@
 	}
 	"*** ADMIN BUTTON Level Extreme ***"
 	{
-		"chi"		"**管理员把关卡调至极限难度 **"
+		"chi"		"**管理员把关卡调至史诗难度 **"
 	}
 	"*** ADMIN BUTTON STAGE 2 ***"
 	{
@@ -596,6 +595,6 @@
 	}
 	"*** ADMIN BUTTON Level Ultimate ***"
 	{
-		"chi"		"**管理员把关卡调至终极难度 **"
+		"chi"		"**管理员把关卡调至天神难度 **"
 	}
 }
