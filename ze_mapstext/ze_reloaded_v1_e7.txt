@@ -160,4 +160,8 @@
 	{
 		"chi"		"**这是你们最后能站立的地方，守到大门全部关闭**"
 	}
+	"**You have successfully escaped!**"
+	{
+		"chi"		"** **"
+	}
 }

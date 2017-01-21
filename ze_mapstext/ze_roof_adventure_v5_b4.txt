@@ -952,4 +952,72 @@
 	{
 		"chi"		"**当前关卡：困难 **"
 	}
+	"***Great!Hold for 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***The wood door will break in 15s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Resist for 15s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Current Level:[Extra3]***"
+	{
+		"chi"		"** **"
+	}
+	"***Find a place to hold for 35s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***The first one who can complete the surf will get 100 scores!***"
+	{
+		"chi"		"** **"
+	}
+	"***The first one who can complete the last surf will get 100 scores!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold the chicken for last 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Current Level:[Extreme]***"
+	{
+		"chi"		"** **"
+	}
+	"***15s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Current Level:[Extra4]***"
+	{
+		"chi"		"** **"
+	}
+	"***Level completed! You are shining the roof!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie infection!Enjoy yourself!***"
+	{
+		"chi"		"** **"
+	}
+	"***60s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies are in win-room,level failed!***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -35,7 +35,7 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 seconds left ***"
 	{
@@ -112,7 +112,7 @@
 	"*** Hold 40 seconds ***"
 	{
 		"chi"		"**守住40秒 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -657,10 +657,18 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"*** 20 seconds left ***"
 	{
 		"chi"		"**还剩20秒 **"
+	}
+	"Yo ! You cant hold an umbrella either ?"
+	{
+		"chi"		"** **"
+	}
+	"If youre walking anyway , I guess Ill go with you , haha ..."
+	{
+		"chi"		"** **"
 	}
 }
