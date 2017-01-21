@@ -1196,7 +1196,7 @@
 	{
 		"chi"		"魔毯"
 	}
-	"ze_mountain_escape_snow_v5_3"
+	"ze_mountain_escape_snow_v5_4"
 	{
 		"chi"		"爬雪山"
 	}
@@ -1340,7 +1340,7 @@
 	{
 		"chi"		"神庙逃亡"
 	}
-	"ze_panic_escape_v3_2_e3"
+	"ze_panic_escape_v3_2_e5"
 	{
 		"chi"		"跳刀仓库"
 	}
@@ -1352,7 +1352,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_evernight_a1_4"
+	"ze_evernight_a2_1"
 	{
 		"chi"		"永夜"
 	}
@@ -1384,7 +1384,7 @@
 	{
 		"chi"		"末日逃生"
 	}
-	"ze_dreamin_v1_3"
+	"ze_dreamin_v1_4"
 	{
 		"chi"		"梦想"
 	}
@@ -1408,7 +1408,6 @@
 	{
 		"chi"		"广场"
 	}
-	
 	"ze_rizomata_a44"
 	{
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
@@ -1421,16 +1420,13 @@
 	}
 	"ze_rizomata_b43"
 	{
-		"chi"		"精灵塔" 
-		//[不可预定][a44通关后自动本地图]
-		//"onlyadmin"		"1"
-		//"onlynominate"		"1"
+		"chi"		"精灵塔"
 	}
 	"ze_floating_rocks_survival_csgo"
 	{
 		"chi"		"漂浮的石头"
 	}
-	"ze_Suchirifu_v1"
+	"ze_suchirifu_v3"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1438,5 +1434,32 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
+	"ze_dangerous_waters_in_christma"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_destruction_of_exorath_v4_li"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v7_2_e2_fix"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_hold_em_v8_f3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_PKMN_Adventure_v7_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_undertale_g_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_luck_matters_v1d"
+	{
+		"chi"		"此地图暂无译名"
+	}
 }
-
