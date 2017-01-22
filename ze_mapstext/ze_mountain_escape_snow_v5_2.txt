@@ -368,7 +368,7 @@
 	}
 	"***A PLAYER SLAIN BY A BARREL***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家被桶杀死 **"
 	}
 	"[MUSIC] Penoreri - Prayer"
 	{
@@ -376,7 +376,7 @@
 	}
 	"***A PLAYER BLOW UP WITH HELICOPTER***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家摧毁了直升机 **"
 	}
 	"***50 SECONDS LEFT***"
 	{
@@ -396,11 +396,11 @@
 	}
 	"***WARM UP ROUIND***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛 **"
 	}
 	"***CURRENT MODE >>>PARAMINA<<<***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：帕拉米亚 **"
 	}
 	"***Protector picked up***"
 	{
@@ -408,31 +408,33 @@
 	}
 	"***TELEPORT ACTIATING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送30秒后激活 **"
+		"DoorCountDown"		"30"
 	}
 	"***Way to Mysterious Room Open in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**神秘的房间在30秒后打开 **"
+		"DoorCountDown"		"30"
 	}
 	"***MATEUS HEALED 300 POINTS***"
 	{
-		"chi"		"** **"
+		"chi"		"**背德の皇帝回复了300HP **"
 	}
 	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**幽灵军队来了！准备好最后的防御！ **"
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住大门.为了能在米那斯提力斯之城顶部继续防守 **"
 	}
 	"***AFK TELEPORT IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家10秒后传送 **"
 	}
 	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**这是最后一刻 **准备战斗.现在你只为你自己 **"
 	}
 	"0 . STAGGER"
 	{
@@ -440,7 +442,7 @@
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**背德の皇帝准备释放大招 **"
 	}
 	"33 . STAGGER"
 	{
@@ -460,19 +462,20 @@
 	}
 	"***Teleport back activate in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送20秒后重新激活 **"
+		"DoorCountDown"		"20"
 	}
 	"***ADMIN CHANGED MODE [NORMAL]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了模式：普通模式 **"
 	}
 	"***ADMIN CHANGED MODE [CUSTOM]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了模式：自定义模式 **"
 	}
 	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员启动了插件：低摩擦 **"
 	}
 	"[MUSIC] The Prodigy - Invaders Must Die"
 	{
