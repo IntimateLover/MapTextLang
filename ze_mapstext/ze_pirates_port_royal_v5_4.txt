@@ -263,6 +263,7 @@
 	}
 	">>> |LEVEL 4| <<<"
 	{
+	  "command" "zr_noarmor 0"
 		"chi"		"** 关卡4 **"
 	}
 	"+++ BARBOSSA picked up +++"

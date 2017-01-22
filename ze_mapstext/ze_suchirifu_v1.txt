@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"[Object] Press button to make your way."
+	{
+		"chi"		"** **"
+	}
+	"[Map] ze_Suchirifu"
+	{
+		"chi"		"** **"
+	}
+	"[Mapper] satoka"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 15 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Item] DarkKnight has been picked up"
+	{
+		"chi"		"** **"
+	}
+	"[Item] Ninja has been picked up"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 10 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 20 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 25 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Next room has Upper side and Lower side."
+	{
+		"chi"		"** **"
+	}
+	"[Lower Door] 10 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Upper Door] 15 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Lower Door] 15 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Upper Door] 10 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Upper Door] 20 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 10 seconds [Close]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Good Job!"
+	{
+		"chi"		"** **"
+	}
+}

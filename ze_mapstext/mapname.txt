@@ -732,11 +732,6 @@
 		"chi"		"生化危机：下水道"
 		"credit"		"400"
 	}
-	"ze_destruction_of_exorath_v4_lite"
-	{
-		"chi"		"破坏行动"
-		"credit"		"400"
-	}
 	"ze_ffxii_feywood_b3_1_e2"
 	{
 		"chi"		"此地图暂无译名"
@@ -979,10 +974,6 @@
 	{
 		"chi"		"美杜莎神庙"
 		"credit"		"800"
-	}
-	"ze_ffxii_westersand_v7_2_e2_fix3"
-	{
-		"chi"		"最终幻想12：西沙"
 	}
 	"ze_ffxii_paramina_rift_v1_7"
 	{
@@ -1396,10 +1387,6 @@
 	{
 		"chi"		"丛林逃生"
 	}
-	"ze_undertale_g_v1"
-	{
-		"chi"		"传说之下"
-	}
 	"ze_phantasy_escape_p3"
 	{
 		"chi"		"幻想逃生"
@@ -1438,32 +1425,35 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_destruction_of_exorath_v4_lite"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_ffxii_westersand_v7_2_e2_fix3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终幻想12：西沙"
 	}
 	"ze_hold_em_v8_f3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"坚守行动"
 	}
 	"ze_PKMN_Adventure_v7_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀神奇宝贝"
 	}
 	"ze_undertale_g_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"传说之下"
 	}
 	"ze_luck_matters_v1d"
 	{
 		"chi"		"此地图暂无译名"
 	}
-
-	"ze_sandstorm_go_b4"
+	"ze_sandstorm_go_b4_2"
+	{
+		"chi"		"沙城暴"
+	}
+	"ze_destruction_of_exorath_v4_li"
+	{
+		"chi"		"破坏行动"
+	}
+	"ze_ffxii_westersand_v7_2_e2_fix"
 	{
 		"chi"		"此地图暂无译名"
 	}
