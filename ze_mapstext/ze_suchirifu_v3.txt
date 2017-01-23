@@ -2,63 +2,63 @@
 {
 	"[Object] Press button to make your way."
 	{
-		"chi"		"** **"
+		"chi"		"**[对象]你只有按下按钮才能继续前进 **"
 	}
 	"[Map] ze_Suchirifu"
 	{
-		"chi"		"** **"
+		"chi"		"**[地图] ze_Suchirifu **"
 	}
 	"[Mapper] satoka"
 	{
-		"chi"		"** **"
+		"chi"		"**[地图制作]：satoka [地图翻译]：蓬莱山帅比♪ **"
 	}
 	"[Door] 15 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[大门]15秒[打开] **"
 		"DoorCountDown"		"15"
 	}
 	"[Item] DarkKnight has been picked up"
 	{
-		"chi"		"** **"
+		"chi"		"**[物品]黑暗骑士已准备战斗 **"
 	}
 	"[Item] Ninja has been picked up"
 	{
-		"chi"		"** **"
+		"chi"		"**[物品]忍者已准备战斗 **"
 	}
 	"[Door] 10 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[大门]10秒[打开] **"
 		"DoorCountDown"		"10"
 	}
 	"[Door] 20 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[大门]20秒[打开] **"
 		"DoorCountDown"		"20"
 	}
 	"[Door] 25 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[大门]25秒[打开] **"
 		"DoorCountDown"		"25"
 	}
 	"[Message] Next room has Upper side and Lower side."
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]下面一个房间分为上面和下面两层 **"
 	}
 	"[Lower Door] 10 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[下面的门]10秒[打开] **"
 	}
 	"[Upper Door] 15 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[上面的门]15秒[打开] **"
 	}
 	"[Lower Door] 15 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[下面的门]15秒[打开] **"
 	}
 	"[Upper Door] 10 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[上面的门]10秒[打开] **"
 	}
 	"sync_version"
 	{
