@@ -852,43 +852,46 @@
 	}
 	"***Current Level:[Easy]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：简单 **"
 	}
 	"***Wood door will break in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门20秒后破碎 **"
+		"DoorCountDown"		"20"
 	}
 	"***Rock monster will attack in 5s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石怪物5秒后攻击 **"
 	}
 	"***Hold for 25s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
+		"DoorCountDown"		"25"
 	}
 	"***Do not allow zombies to enter the safe room!***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让僵尸进入安全屋 **"
 	}
 	"***Enter the safe room!The nuke will launch in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**进入安全屋！核弹10秒后发射 **"
 	}
 	"***Level completed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡通过 **"
 	}
 	"***Current Level:[Extra1]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：极限1 **"
 	}
 	"***Winners will have access to get special weapons in next level***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜者将可以在下一局获得特殊神器（无限弹药.手雷盒） **"
 	}
 	"***Great!Hold for 35s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**干的好！守住35秒 **"
+		"DoorCountDown"		"35"
 	}
 	"***5!***"
 	{
@@ -912,95 +915,99 @@
 	}
 	"***Current Level:[Normal]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：普通 **"
 	}
 	"***Current Level:[Extra2]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：极限2 **"
 	}
 	"***Laser race will begin later!***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光比赛即将开始 **"
 	}
 	"***Some tips!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一些提示 **"
 	}
 	"***Tip1:Red laser can add health!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示1：红色激光可以加血 **"
 	}
 	"***Tip2:Blue laser can hurt!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示2：蓝色激光可以减血 **"
 	}
 	"***Tip3:Purple laser can reduce speed infinitely!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示3：紫色激光是无限减速 **"
 	}
 	"***Tip4:Green laser can teleport!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示4：绿色激光是传送 **"
 	}
 	"***Level failed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败 **"
 	}
 	"***Current Level:[Hard]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：困难 **"
 	}
 	"***Zombies are in win-room,level failed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入安全屋！关卡失败！ **"
 	}
 	"***Great!Hold for 25s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**干的好！守住25秒 **"
+		"DoorCountDown"		"25"
 	}
 	"***The wood door will break in 15s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门15秒后破碎 **"
 	}
 	"***Hold here for 25s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
+		"DoorCountDown"		"25"
 	}
 	"***Resist for 15s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待15秒 **"
 	}
 	"***Current Level:[Extra3]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：极限3 **"
 	}
 	"***IF YOU CANT SURF FROM THE 4TH SURF POSITION,YOU CAN CHOOSE JUMP!***"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你不会滑翔的话.你可以从旁边亮着蓝色光芒的地方进去.那里是KZ **"
 	}
 	"***Find a place to hold for 35s! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到一个地方守住35秒 **"
+		"DoorCountDown"		"35"
 	}
 	"***Teleport all players in 20s! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有人将在20秒后传送 **"
 	}
 	"***The first one who can complete the surf will get 100 scores!***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个完成滑翔的人可以得到100分 **"
 	}
 	"***The first one who can complete the last surf will get 100 scores!***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个完成最后一个滑翔点的人可以得到100分 **"
 	}
 	"***Hold the chicken for last 25s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**在鸡的附近守住25秒 **"
+		"DoorCountDown"		"25"
 	}
 	"***Current Level:[Extreme]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：极限 **"
 	}
 	"***15s left!***"
 	{
@@ -1008,11 +1015,11 @@
 	}
 	"***Current Level:[Extra4]***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：极限4 **"
 	}
 	"***Level completed! You are shining the roof!***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡通过！你将照亮屋顶 **"
 	}
 	"***Zombie infection!Enjoy yourself!***"
 	{
@@ -1020,10 +1027,10 @@
 	}
 	"***60s left!***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩60秒 **"
 	}
 	"***A human has picked up unlimited hegrenade!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了手雷盒 **"
 	}
 }
