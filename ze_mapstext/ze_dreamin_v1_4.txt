@@ -100,27 +100,29 @@
 	}
 	"***Zombie Escaped***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸逃跑 **"
 	}
 	"***CURRENT LEVEL - FADE***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前级别-简单 **"
 	}
 	"***RESIST FOR 35 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待35秒 **"
+		"DoorCountDown"		"35"
 	}
 	"***Hold for 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"***Zombie picked up Nuke***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿起了核弹 **"
 	}
 	"***Zombie picked up Gravity***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿起了黑洞 **"
 	}
 	"sync_version"
 	{
