@@ -659,7 +659,7 @@
 		"chi"		"麦伽乐城堡"
 		"credit"		"600"
 	}
-	"ze_dangerous_waters_in_christmas_day"
+	"ze_dangerous_waters_xmas_v2_4"
 	{
 		"chi"		"圣诞节—危险水域"
 	}
@@ -1275,7 +1275,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v5"
+	"ze_roof_adventure_v5_2"
 	{
 		"chi"		"屋顶大冒险"
 	}
@@ -1343,7 +1343,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_evernight_a2_1"
+	"ze_evernight_a2_2"
 	{
 		"chi"		"永夜"
 	}
@@ -1443,7 +1443,7 @@
 	}
 	"ze_luck_matters_v1d"
 	{
-		"chi"		"好运事务所"
+		"chi"		"运气很重要"
 	}
 	"ze_sandstorm_go_b4_2"
 	{
@@ -1456,5 +1456,9 @@
 	"ze_ffxii_westersand_v7_2_e2_fix"
 	{
 		"chi"		"最终幻想12：西沙"
+	}
+	"ze"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }

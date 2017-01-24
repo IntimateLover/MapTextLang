@@ -36,6 +36,7 @@
 	"**Fence breaking in 30 seconds**"
 	{
 		"chi"		"**铁栅栏30秒后破碎 **"
+		"DoorCountDown"		"30"
 	}
 	"**Player has picked up <Heal Magic>**"
 	{
@@ -106,6 +107,7 @@
 	{
 		"chi"		"**暗影束缚（跳上柱子角或在倒计时结束时原地大跳）**"
 		"ico"		"icon_fire"
+		"DoorCountDown"		"2"
 	}
 	"**Round Failed**"
 	{
