@@ -31,7 +31,7 @@
 	"**Hold 25 seconds**"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**WE SMASHED THE ENERGY CRYSTAL,HOLD THE POSITION FOR 30 SECONDS TILL THE PARCLOSE DISAPPEAR**"
 	{
@@ -44,7 +44,7 @@
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 45 SECONDS TILL THE C4 EXPLODE**"
 	{
 		"chi"		"**C4已埋下，等待45秒后C4爆炸 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"**WE MUST HURRY UP,THE SOUND OF EXPLOSION MAYBE HAS CARRY FOR WHERE HE IS**"
 	{
@@ -57,12 +57,12 @@
 	"**HOLD 30 SECONDS**"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**HOLD 20 SECONDS**"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**HANG UP YOUR SLIDE HOOK,WELL SET OUT IN 10 SECONDS**"
 	{
@@ -79,7 +79,7 @@
 	"**WERE TRYING TO BREAK THE WALL,HOLD 30 SECONDS**"
 	{
 		"chi"		"**我们正在试图打破木板，准备守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**A PLAYER LEARNED THE THUNDERBLAST**"
 	{
@@ -88,11 +88,12 @@
 	"**HOLD 45 SECONDS TILL THE DOOR OPEN**"
 	{
 		"chi"		"**守住45秒，直到大门开启 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"**100 SECONDS TO ENTER THE TEMPLE!READY FOR BATTLE!**"
 	{
 		"chi"		"**100秒后进入圣殿!准备战斗! **"
+		"DoorCountdown"		"100"
 	}
 	"**WHATS THAT?A CLOUD OF SMOKE?**"
 	{
@@ -225,7 +226,7 @@
 	"**DOOR OPENS IN 10 SECONDS**"
 	{
 		"chi"		"**大门将在10秒后开启**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**A PLAYER LEARNED THE FROSTBITE(ICE MAGICK LV.1)**"
 	{
@@ -254,7 +255,7 @@
 	"**GOOD JOB,THE GATE WILL BE OPENED IN 30 SECONDS**"
 	{
 		"chi"		"**干得漂亮，大门将在30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**THERE ARE THREE INVISIBLE WALLS BLOCK OUR WAY,TRY TO FIND A WAY TO BREAK THROUGH**"
 	{
@@ -263,7 +264,7 @@
 	"**THE FIRST WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第一道隐形墙将在15秒后破碎**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**A PLAYER LEARNED THE THUNDERBLAST(THUNDER MAGICK LV.1)**"
 	{
@@ -272,12 +273,12 @@
 	"**THE SECOND WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第二道隐形墙将在15秒后破碎**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**THE LAST WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第三道隐形墙将在15秒后破碎**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**DONT HURRY TO LEAVE,HOLD ON A LITTLE LONGER TO COVER OUR TEAMMATES WHO IN THE SIDE WAY**"
 	{
@@ -390,7 +391,7 @@
 	"**THE AUTONOMOUS DEFENSE SYSTEM IS CASTING ITS LAST ATTACK!WE MUST HURRY UP!**"
 	{
 		"chi"		"**自律型防卫系统正在准备它的最后一击！我们必须抓紧最后的机会了！**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**MAGNETIC STORM**"
 	{
@@ -403,6 +404,7 @@
 	"**FLARE IS COMING,IT OUR LAST CHANCE!BULLET AND NADE DOES DOUBLE DAMAGE TO THE BOSS NOW!**"
 	{
 		"chi"		"**太阳耀斑就要来了！这是我们最后的机会！现在子弹和手雷将造成双倍伤害！**"
+		"DoorCountdown"		"10"
 	}
 	"**WE HAVE DEFEATED IT**"
 	{
@@ -507,5 +509,29 @@
 	"**GET BACK TO THE LEFT!IT IS COMING!**"
 	{
 		"chi"		"**立即回到大厅左边！它要来了！**"
+	}
+	"**C4 HAS BEEN PLANTED,COVER HERE FOR 20 SECONDS TILL THE C4 EXPLODE**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD 15 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**WERE TRYING TO BREAK THE WALL,HOLD 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD 30 SECONDS TILL THE DOOR OPEN**"
+	{
+		"chi"		"** **"
+	}
+	"**NADE CAN DO A LOT OF DAMAGE**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD 60 SECONDS**"
+	{
+		"chi"		"** **"
 	}
 }

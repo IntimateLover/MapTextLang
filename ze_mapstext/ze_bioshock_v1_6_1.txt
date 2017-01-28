@@ -88,7 +88,7 @@
 	"***Hold for 20 seconds***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"***ATLAS: The door is open. Get going!***"
 	{
@@ -193,7 +193,7 @@
 	"***Defence 85 seconds***"
 	{
 		"chi"		"**防守85秒 **"
-		"DoorCountDown" "85"
+		"DoorCountDown"		"85"
 	}
 	"***5 seconds***"
 	{
@@ -246,7 +246,7 @@
 	"***Door opens in 20 seconds***"
 	{
 		"chi"		"**大门20秒后开启 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"***Door now open. Retreat!***"
 	{
@@ -255,7 +255,7 @@
 	"***Elevator preparing for departure (40 seconds)***"
 	{
 		"chi"		"**电梯准备出发（40秒） **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"***Elevator is about to leave!***"
 	{
@@ -280,7 +280,7 @@
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**大门30秒后开启 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"***ATLAS: Security door is open!***"
 	{
@@ -353,7 +353,7 @@
 	"***90 seconds left to build the bomb***"
 	{
 		"chi"		"**你还有90秒的时间来建造炸弹 **"
-		"DoorCountDown" "90"
+		"DoorCountDown"		"90"
 	}
 	"***60 seconds left to build the bomb***"
 	{
@@ -402,7 +402,7 @@
 	"***This is it! Defend the bathysphere for 40 seconds***"
 	{
 		"chi"		"**终于到了！守住bathysphere（40秒） **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"***FAILURE: You were too slow to build the bomb***"
 	{
@@ -539,5 +539,9 @@
 	"***changed to round 4. slaying in 3 seconds***"
 	{
 		"chi"		"**选择了第四关.在三秒后杀死所有人 **"
+	}
+	"***Plasmid: Electro Obtained***"
+	{
+		"chi"		"** **"
 	}
 }

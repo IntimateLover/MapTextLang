@@ -132,4 +132,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***Hold 35 seconds***"
+	{
+		"DoorCountDown"		"35"
+	}
+	"***Portal open in 30 seconds***"
+	{
+		"DoorCountDown"		"30"
+	}
+	"***Last elevator start in 30 seconds***"
+	{
+		"DoorCountDown"		"30"
+	}
 }

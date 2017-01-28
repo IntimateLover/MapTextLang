@@ -281,6 +281,7 @@
 	"** .. HOLD 10 MORE SECONDS **"
 	{
 		"chi"		"**继续防守10秒！**"
+		"DoorCountDown"		"10"
 	}
 	"** A WAY HAS BEEN OPENED **"
 	{
@@ -309,6 +310,7 @@
 	"** COVER AND WAIT FOR SOMETHING TO HAPPEN **"
 	{
 		"chi"		"**在这儿坚守，似乎将有什么事情会发生....**"
+		"DoorCountDown"		"25"
 	}
 	"** THE SWORD WILL OPEN THE WAY SOON **"
 	{
@@ -653,10 +655,12 @@
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
 		"chi"		"**障碍物2号20秒后移动**"
+		"DoorCountDown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
 	{
 		"chi"		"**防守30秒！大门马上打开！**"
+		"DoorCountDown"		"30"
 	}
 	"** BOSS SPAWNED SOME MINIONS **"
 	{
