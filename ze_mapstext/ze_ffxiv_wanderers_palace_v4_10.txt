@@ -1040,190 +1040,205 @@
 	}
 	"*** Model :Dakotec ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模型：Dakotec **"
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了无限弹药（一定时间内弹药无限） **"
 	}
 	"***Recast 90s***"
 	{
-		"chi"		"** **"
+		"chi"		"**CD:90秒 **"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了流沙（范围内的僵尸速度大幅下降） **"
 	}
 	"***Recast 80s***"
 	{
-		"chi"		"** **"
+		"chi"		"**CD：80秒 **"
 	}
 	"***A player picked up White Mage Benediction***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了奶（把队友奶成175血） **"
 	}
 	"*** Recast 150s ***"
 	{
-		"chi"		"** **"
+		"chi"		"**CD：150秒 **"
 	}
 	"***Flare***"
 	{
-		"chi"		"** **"
+		"chi"		"**龙之吐息（远离红色区域） **"
+		"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
-		"chi"		"** **"
+		"chi"		"**射击两边的ADS并防御僵尸 **"
 	}
 	"***Heavens Fall***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石坠落（看天上躲避上面的石柱，降下来的时候按住W不要贴着） **"
+		"ico"		"icon_fire"
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石冲击（看清位置躲避.有时候在中间有时候在两边） **"
+		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime dead***"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特受伤 **"
 	}
 	"*** 15 seconds to activate Elevator ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯15秒后离开 **"
+		"DoorCountDown"		"15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁30秒后破碎 **"
+		"DoorCountDown"		"30"
 	}
 	"*** Dont Touch Water ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要下水 **"
 	}
 	"*** Water is Death Zone ***"
 	{
-		"chi"		"** **"
+		"chi"		"**水里有毒 **"
 	}
 	"*** Nael Van Dahrnus Appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**宫殿守卫出现 **"
 	}
 	"*** Kill HER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了他 **"
 	}
 	"*** Dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**宫殿守卫死亡 **"
 	}
 	"*** Extreme CLEAR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**极限难度通关 **"
 	}
 	"*** Next Level Savage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一难度：史诗 **"
 	}
 	"*** Human Killer ON ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类杀手 **"
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"** **"
+		"chi"		"**息吹暴风（跑到平台最后面，吸的时候按住S回头开枪） **"
+		"ico"		"icon_fire"
 	}
 	"*** Level:Savage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：史诗 **"
 	}
 	"***Holm gang zombie incoming...***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸定身已被拿起... **"
 	}
 	"*** Recast 95s ***"
 	{
-		"chi"		"** **"
+		"chi"		"**CD：95秒 **"
 	}
 	"*** 30 seconds to Break Fence ***"
 	{
-		"chi"		"** **"
+		"chi"		"**铁网30秒后破碎 **"
+		"DoorCountDown"		"30"
 	}
 	"*** Hold 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"***Location: The Ragnarok ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地点：诸神的黄昏 **"
 	}
 	"*** Defend 45 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守45秒 **"
+		"DoorCountDown"		"45"
 	}
 	"*** ADS ATTACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**射击ADS **"
 	}
 	"*** Dalamud appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**达拉姆卫星出现 **"
 	}
 	"*** Dalamud the last boss ***"
 	{
-		"chi"		"** **"
+		"chi"		"**达拉姆卫星是最后一个BOSS **"
 	}
 	"*** Shadow Flare ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电（蹲下） **"
+		"ico"		"icon_fire"
 	}
 	"*** Cauterize ***"
 	{
-		"chi"		"** **"
+		"chi"		"**龙车来袭（看清位置躲避） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Bahamut appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**达拉姆卫星召唤了巴哈姆特 **"
 	}
 	"*** True Tempest wing ***"
 	{
-		"chi"		"** **"
+		"chi"		"**暴风之翼（站在中间等三秒，会有一个风柱消失.之后去没消失的风柱里按住空格） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Heavens fall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天空坠落（4个角落里会有一个角落是安全的，往安全的地方走） **"
+		"ico"		"icon_fire"
 	}
 	"*** Steam Judge ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蒸汽制裁（5个蒸汽状的东西，站在里面等蒸汽消失） **"
+		"ico"		"icon_fire"
 	}
 	"*** Sentence to death ***"
 	{
-		"chi"		"** **"
+		"chi"		"**死亡裁决 **"
 	}
 	"*** True Bahamut dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特死亡 **"
 	}
 	"*** 45 seconds to Open Wall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁45秒后破碎 **"
+		"DoorCountDown"		"45"
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**奥丁出现了 **"
 	}
 	"*** Kill Odin ***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了奥丁 **"
 	}
 	"*** Savage CLEAR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**史诗难度通关 **"
 	}
 	"*** Winners are Heroes of Light ***"
 	{
-		"chi"		"** **"
+		"chi"		"**获胜者是光之英雄 **"
 	}
 	"*** TOO LATE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**太慢了 **"
 	}
 }
