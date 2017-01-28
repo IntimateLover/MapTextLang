@@ -897,7 +897,7 @@
 	{
 		"chi"		"**等到某事发生 **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -1350,6 +1350,14 @@
 		"chi"		"** **"
 	}
 	"*** SURVIVE FOR 1 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We can feel hard wind pressure...!! Dodge it !!!"
+	{
+		"chi"		"** **"
+	}
+	"Remember : 8 COUNTS !!!!!"
 	{
 		"chi"		"** **"
 	}

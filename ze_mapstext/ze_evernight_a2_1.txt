@@ -54,7 +54,7 @@
 	{
 		"chi"		"**一位玩家学会了技能：洗礼 **"
 	}
-	"**HOLD 30 SECONDS**"
+	"**Hold 30 seconds**"
 	{
 		"chi"		"**守住30秒 **"
 		"DoorCountDown"		"30"
@@ -315,12 +315,12 @@
 	}
 	"**HURRICANE CORE**"
 	{
-		"chi"		"**飓风核心已上线**"
+		"chi"		"**飓风核心**"
 	}
 	"**SIDEWIND**"
 	{
 		"chi"		"**侧风**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**HURRICANE CORE OFFLINE**"
 	{
@@ -332,22 +332,22 @@
 	}
 	"**LAVA CORE**"
 	{
-		"chi"		"**熔岩核心已上线**"
+		"chi"		"**熔岩核心**"
 	}
 	"**BURNING FIELD**"
 	{
 		"chi"		"**燃烧大地**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FLAME IN THE FRONT OF THE HALL**"
 	{
 		"chi"		"**小心大厅前半场的致命火焰**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FLAME IN THE BACK OF THE HALL**"
 	{
 		"chi"		"**小心大厅后半场的致命火焰**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**LAVA CORE OFFLINE**"
 	{
@@ -355,7 +355,7 @@
 	}
 	"**BLIZZARD CORE**"
 	{
-		"chi"		"**雪暴核心已上线**"
+		"chi"		"**雪暴核心**"
 	}
 	"**HURRY UP,THE FREEZING AIR WILL TAKE OUR LIFE SLOWLY**"
 	{
@@ -368,17 +368,17 @@
 	"**GET BACK TO THE EDGE OF THE HALL TO AVOID THE DEADLY FROST CRASH**"
 	{
 		"chi"		"**退回到大厅的边缘以躲避致命的冰霜冲击**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**FREEZING BREATH**"
 	{
 		"chi"		"**霜冻吐息**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE BACK OF THE HALL**"
 	{
 		"chi"		"**小心大厅后半场的致命冷气**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**BLIZZARD CORE OFFLINE**"
 	{
@@ -390,12 +390,12 @@
 	}
 	"**ARC CORE**"
 	{
-		"chi"		"**弧光核心已上线**"
+		"chi"		"**弧光核心**"
 	}
 	"**KEEP CROUCHING IF YOU WANT TO SURVIVE IN THE POWERFUL ELECTROSTATIC FIELD**"
 	{
 		"chi"		"**保持蹲下——假如你想在这种强大的静电场中存活下来**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**THE AUTONOMOUS DEFENSE SYSTEM IS CASTING ITS LAST ATTACK!WE MUST HURRY UP!**"
 	{
@@ -405,17 +405,17 @@
 	"**MAGNETIC STORM**"
 	{
 		"chi"		"**磁暴**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**GET BACK TO THE BOTH SIDES!IT IS COMING!**"
 	{
 		"chi"		"**立即回到大厅两边！它要来了！**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**FLARE IS COMING,IT OUR LAST CHANCE!BULLET AND NADE DOES DOUBLE DAMAGE TO THE BOSS NOW!**"
 	{
 		"chi"		"**太阳耀斑就要来了！这是我们最后的机会！现在子弹和手雷将造成双倍伤害！**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WE HAVE DEFEATED IT**"
 	{
@@ -424,7 +424,7 @@
 	"**GET BACK TO THE RIGHT!IT IS COMING!**"
 	{
 		"chi"		"**赶紧回到右边！它要来了！**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**LETS GET CLOSE TO THE CORE AND MAKE IT WORK**"
 	{
@@ -491,46 +491,66 @@
 	"**WATCH OUT THE FLAME IN THE LEFT OF THE HALL**"
 	{
 		"chi"		"**小心大厅左半场的致命火焰**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FLAME IN THE RIGHT OF THE HALL**"
 	{
 		"chi"		"**小心大厅右半场的致命火焰**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE FRONT OF THE HALL**"
 	{
 		"chi"		"**小心大厅前半场的致命冷气**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**ELECTROSTATIC WALL**"
 	{
 		"chi"		"**静电障壁**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**BACK TO THE CENTRE OF THE HALL IMMEDIATELY!**"
 	{
 		"chi"		"**立即回到大厅中央！**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE LEFT OF THE HALL**"
 	{
 		"chi"		"**小心大厅左半场的致命冷气**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE RIGHT OF THE HALL**"
 	{
 		"chi"		"**小心大厅右半场的致命冷气**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**GRAVITY**"
 	{
 		"chi"		"**黑洞**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"**GET BACK TO THE LEFT!IT IS COMING!**"
 	{
 		"chi"		"**立即回到大厅左边！它要来了！**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+	}
+	"**C4 HAS BEEN PLANTED,COVER HERE FOR 20 SECONDS TILL THE C4 EXPLODE**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**WERE TRYING TO BREAK THE WALL,HOLD 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD 30 SECONDS TILL THE DOOR OPEN**"
+	{
+		"chi"		"** **"
+	}
+	"**FLARE**"
+	{
+		"chi"		"** **"
 	}
 }

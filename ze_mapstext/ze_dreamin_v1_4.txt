@@ -135,13 +135,152 @@
 	"***Hold 35 seconds***"
 	{
 		"DoorCountDown"		"35"
+		"chi"		"** **"
 	}
 	"***Portal open in 30 seconds***"
 	{
 		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"***Last elevator start in 30 seconds***"
 	{
 		"DoorCountDown"		"30"
+		"chi"		"** **"
+	}
+	"***Wall picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT LEVEL - DREAM***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD UNTIL GATE OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold until Door break***"
+	{
+		"chi"		"** **"
+	}
+	"***Door open in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***Press 2 buttons***"
+	{
+		"chi"		"** **"
+	}
+	"***10...5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Spread out***"
+	{
+		"chi"		"** **"
+	}
+	"***Laser***"
+	{
+		"chi"		"** **"
+	}
+	"***Danger Field***"
+	{
+		"chi"		"** **"
+	}
+	"***Flow away***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie Wave***"
+	{
+		"chi"		"** **"
+	}
+	"***For Upper***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 120 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 110 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 100 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 90 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 80 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 70 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 60 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 50 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 4 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 3 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 2 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***End of Dream in 1 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Dream End***"
+	{
+		"chi"		"** **"
 	}
 }

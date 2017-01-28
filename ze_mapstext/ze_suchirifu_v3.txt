@@ -64,4 +64,48 @@
 	{
 		"syncvalue"		"71313"
 	}
+	"[Message] These rooms have Upper side and Lower side."
+	{
+		"chi"		"** **"
+	}
+	"[Message] Some people must go Lower."
+	{
+		"chi"		"** **"
+	}
+	"[Message] Press Button at Lower side."
+	{
+		"chi"		"** **"
+	}
+	"[Message] Hold Upper Side"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 15 seconds [Close]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Good Job!"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 18 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] AFK players teleported to side floor."
+	{
+		"chi"		"** **"
+	}
+	"[Object] Press 5 Buttons."
+	{
+		"chi"		"** **"
+	}
+	"[Object] The gates will close When you press button."
+	{
+		"chi"		"** **"
+	}
+	"[Object] Those gates open by pressing another button."
+	{
+		"chi"		"** **"
+	}
 }

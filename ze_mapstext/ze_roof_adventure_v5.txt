@@ -1033,4 +1033,28 @@
 	{
 		"chi"		"**一位玩家拿起了手雷盒 **"
 	}
+	"***Shoot rock monster!(use m249 or negev)***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses lightning!(squat)***"
+	{
+		"chi"		"** **"
+	}
+	"***Use grenades to prevent zombies walking!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses movable fire!(go in the opposite direction)***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses water!(go to the end of the platform)***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses lightning(squat)!***"
+	{
+		"chi"		"** **"
+	}
 }

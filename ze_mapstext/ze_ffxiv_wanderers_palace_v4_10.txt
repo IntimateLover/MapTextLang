@@ -282,320 +282,948 @@
 	"***ADS Attack***"
 	{
 		"chi"		"**ADS攻击（先打左边的ADS.再打右边的ADS）		
-"ico"		"icon_fire"
+"
+		"ico"		"		"
+		"icon_fire"		"
 	}
-	"***shoot ADS and Zombies***"
+	"
+		"***shoot"		"ADS"
+		"and"		"Zombies***"
+		"
 	{
-		"chi"		"**射击ADS并防御僵尸 **"
+		"		"chi"
+		"		"		"**射击ADS并防御僵尸"
+		"**"		"
 	}
-	"***Flare***"
+	"
+		"***Flare***"		"
 	{
-		"chi"		"**龙之吐息（远离红色区域） **"
-		"ico"		"icon_fire"
+		"
+		"chi"		"		"
+		"**龙之吐息（远离红色区域）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
 	}
-	"***A player picked up White Mage Benediction***"
+	"		"***A"
+		"player"		"picked"
+		"up"		"White"
+		"Mage"		"Benediction***"
+		"
 	{
-		"chi"		"**一位玩家拿起奶（把队友奶成175血） **"
+		"		"chi"
+		"		"		"**一位玩家拿起奶（把队友奶成175血）"
+		"**"		"
 	}
-	"*** Recast 150s ***"
+	"
+		"***"		"Recast"
+		"150s"		"***"
+		"
 	{
-		"chi"		"**CD:150秒 **"
+		"		"chi"
+		"		"		"**CD:150秒"
+		"**"		"
 	}
-	"***Tempest Wing***"
+	"
+		"***Tempest"		"Wing***"
+		"
 	{
-		"chi"		"**暴风之翼（切刀往平台后方跑.吸的时候回头开枪） **"
-		"ico"		"icon_fire"
+		"		"chi"
+		"		"		"**暴风之翼（切刀往平台后方跑.吸的时候回头开枪）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
 	}
-	"***Heavens Fall***"
+	"
+		"***Heavens"		"Fall***"
+		"
 	{
-		"chi"		"**天坠（躲避天上柱子.不要被砸到.降到地板的时候按W防推） **"
-		"ico"		"icon_fire"
+		"		"chi"
+		"		"		"**天坠（躲避天上柱子.不要被砸到.降到地板的时候按W防推）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
 	}
-	"***Bahamut Prime dead***"
+	"
+		"***Bahamut"		"Prime"
+		"dead***"		"
 	{
-		"chi"		"**巴哈姆特受伤 **"
-		"command"		"sm_clearbosshp"
+		"
+		"chi"		"		"
+		"**巴哈姆特受伤"		"**"
+		"
+		"		"command"
+		"		"		"sm_clearbosshp"
+		"
 	}
-	"*** 15 seconds to activate Elevator ***"
+	"		"***"
+		"15"		"seconds"
+		"to"		"activate"
+		"Elevator"		"***"
+		"
 	{
-		"chi"		"**电梯15秒后激活 **"
-		"DoorCountDown"		"15"
+		"		"chi"
+		"		"		"**电梯15秒后激活"
+		"**"		"
+		"
+		"DoorCountDown"		"		"
+		"15"		"
 	}
-	"*** 30 seconds to Open Wall ***"
+	"
+		"***"		"30"
+		"seconds"		"to"
+		"open"		"Wall"
+		"***"		"
 	{
-		"chi"		"**墙壁30秒后破碎 **"
-		"DoorCountDown"		"30"
+		"
+		"chi"		"		"
+		"**墙壁30秒后破碎"		"**"
+		"
+		"		"DoorCountDown"
+		"		"		"30"
+		"
 	}
-	"*** Dont Touch Water ***"
+	"		"***"
+		"Dont"		"Touch"
+		"Water"		"***"
+		"
 	{
-		"chi"		"**不要碰水 **"
+		"		"chi"
+		"		"		"**不要碰水"
+		"**"		"
 	}
-	"*** Water is Death Zone ***"
+	"
+		"***"		"Water"
+		"is"		"Death"
+		"Zone"		"***"
+		"
 	{
-		"chi"		"**水里有毒 **"
+		"		"chi"
+		"		"		"**水里有毒"
+		"**"		"
 	}
-	"*** Nael Van Dahrnus Appeared ***"
+	"
+		"***"		"Nael"
+		"Van"		"Dahrnus"
+		"Appeared"		"***"
+		"
 	{
-		"chi"		"**宫殿守卫出现 **"
-		"command"		"sm_clearbosshp"
+		"		"chi"
+		"		"		"**宫殿守卫出现"
+		"**"		"
+		"
+		"command"		"		"
+		"sm_clearbosshp"		"
 	}
-	"*** Kill HER ***"
+	"
+		"***"		"Kill"
+		"HER"		"***"
+		"
 	{
-		"chi"		"**杀了他 **"
+		"		"chi"
+		"		"		"**杀了他"
+		"**"		"
 	}
-	"*** Nael Dead ***"
+	"
+		"***"		"Nael"
+		"Dead"		"***"
+		"
 	{
-		"chi"		"**宫殿守卫死了 **"
-		"command"		"sm_clearbosshp"
+		"		"chi"
+		"		"		"**宫殿守卫死了"
+		"**"		"
+		"
+		"command"		"		"
+		"sm_clearbosshp"		"
 	}
-	"***Earth Shaker***"
+	"
+		"***Earth"		"Shaker***"
+		"
 	{
-		"chi"		"**憾地（看清位置躲避） **"
-		"ico"		"icon_fire"
+		"		"chi"
+		"		"		"**憾地（看清位置躲避）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
 	}
-	"***A player picked up Bird Armys Paeon***"
+	"
+		"***A"		"player"
+		"picked"		"up"
+		"Bird"		"Armys"
+		"Paeon***"		"
 	{
-		"chi"		"**一位玩家拿起无限弹药 **"
+		"
+		"chi"		"		"
+		"**一位玩家拿起无限弹药"		"**"
+		"
 	}
-	"***Recast 90s***"
+	"		"***Recast"
+		"90s***"		"
 	{
-		"chi"		"**CD：90秒 **"
+		"
+		"chi"		"		"
+		"**CD：90秒"		"**"
+		"
 	}
-	"***A player picked up Paladin Shield Oath"
+	"		"***A"
+		"player"		"picked"
+		"up"		"Paladin"
+		"Shield"		"Oath"
+		"
 	{
-		"chi"		"**一位玩家拿起流沙（范围内僵尸速度大幅下降） **"
+		"		"chi"
+		"		"		"**一位玩家拿起流沙（范围内僵尸速度大幅下降）"
+		"**"		"
 	}
-	"***Recast 80s***"
+	"
+		"***Recast"		"80s***"
+		"
 	{
-		"chi"		"**CD:80秒 **"
+		"		"chi"
+		"		"		"**CD:80秒"
+		"**"		"
+	}
+	"
+		"***"		"Model"
+		":Dakotec"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**模型：Dakotec"
+		"**"		"
+	}
+	"
+		"***"		"TOO"
+		"LATE"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**你太慢了"
+		"**"		"
+	}
+	"
+		"***"		"Extreme"
+		"CLEAR"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**困难难度通过"
+		"**"		"
+	}
+	"
+		"***"		"Next"
+		"Level"		"Savage"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**下一难度：史诗"		"**"
+		"
+	}
+	"		"***"
+		"Level:Savage"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**本关难度：史诗"
+		"**"		"
+	}
+	"
+		"***Holm"		"gang"
+		"zombie"		"incoming...***"
+		"
+	{
+		"		"chi"
+		"		"		"**僵尸拿起了定身（释放后在范围内的人类将会被定身五秒）"
+		"**"		"
+	}
+	"
+		"***"		"Recast"
+		"95s"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**CD：95秒"
+		"**"		"
+	}
+	"
+		"***"		"30"
+		"seconds"		"to"
+		"Break"		"Fence"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**30秒后铁网破碎"		"**"
+		"
+		"		"DoorCountDown"
+		"		"		"30"
+		"
+	}
+	"		"***"
+		"HOLD"		"20"
+		"seconds"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**守住20秒"
+		"**"		"
+	}
+	"
+		"***Location:"		"The"
+		"Ragnarok"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**地点：仙境"
+		"**"		"
+	}
+	"
+		"***"		"Defend"
+		"45"		"seconds"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**守住45秒"		"**"
+		"
+		"		"DoorCountDown"
+		"		"		"45"
+		"
+	}
+	"		"***"
+		"ADS"		"ATTACK"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**ADS攻击（打碎ADS）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
+	}
+	"		"***"
+		"Dalamud"		"appeared"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**达拉姆卫星出现"		"**"
+		"
+	}
+	"		"***"
+		"Dalamud"		"the"
+		"last"		"boss"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**达拉姆是最后的BOSS"		"**"
+		"
+	}
+	"		"***"
+		"Cauterize"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**龙车来袭（看清位置左右躲避）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
+	}
+	"
+		"***"		"Shadow"
+		"Flare"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**电（蹲下躲避）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
+	}
+	"
+		"***"		"True"
+		"Bahamut"		"appeared"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**达拉姆召唤了巴哈姆特"		"**"
+		"
+		"		"command"
+		"		"		"sm_clearbosshp"
+		"
+	}
+	"		"***"
+		"Steam"		"Judge"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**蒸汽制裁（平台上会出现几个蒸汽状的柱子.站在柱子里面等到柱子消失）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
+	}
+	"		"***"
+		"Sentence"		"to"
+		"death"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**死亡裁决（巴哈姆特：接受死亡的制裁吧！！！）"
+		"**"		"
+	}
+	"
+		"***"		"True"
+		"Heavens"		"fall"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**真天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
+	}
+	"		"***"
+		"True"		"Tempest"
+		"wing"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**真暴风之翼（会出现三个旋风.只有两个是真的.站到风里面按住空格）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
+	}
+	"
+		"***"		"True"
+		"Bahamut"		"dead"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**巴哈姆特终于死了"		"**"
+		"
+		"		"command"
+		"		"		"sm_clearbosshp"
+		"
+	}
+	"		"***"
+		"45"		"seconds"
+		"to"		"Open"
+		"Wall"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**45秒后墙壁破碎"
+		"**"		"
+		"
+		"DoorCountDown"		"		"
+		"45"		"
+	}
+	"
+		"***"		"Savage"
+		"CLEAR"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**史诗难度通过"
+		"**"		"
+	}
+	"
+		"***"		"Winners"
+		"are"		"Heroes"
+		"of"		"Light"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**获胜的玩家是光之英雄"		"**"
+		"
+	}
+	"		"***"
+		"Dead"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**宫殿守卫死了"
+		"**"		"
+		"
+		"command"		"		"
+		"sm_clearbosshp"		"
+	}
+	"
+		"***"		"Odin"
+		"Appeared"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**奥丁出现了"
+		"**"		"
+	}
+	"
+		"***"		"Kill"
+		"Odin"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**杀了它"
+		"**"		"
+	}
+	"
+		"***"		"Ultimate"
+		"mode"		"incoming...."
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**最终关卡导入中...."		"**"
+		"
+	}
+	"		"***"
+		"Human"		"Killer"
+		"on"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**人类杀手开启"
+		"**"		"
+	}
+	"
+		"***"		"ze_ffxiv_wanderers_palace...?"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**最终幻想14：流浪者宫殿"		"**"
+		"
+	}
+	"		"***"
+		"Level:Ultimate"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**本关难度：天神"
+		"**"		"
+	}
+	"
+		"***"		"This"
+		"mode"		"is"
+		"Secret"		"mode"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**这个模式是隐藏模式"		"**"
+		"
+	}
+	"		"***"
+		"Chances"		"are"
+		"once"		"only"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**机会只有一次"		"**"
+		"
+	}
+	"		"***"
+		"Level"		"set"
+		"...."		"Next"
+		"Level"		"Normal"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**关卡设置…下一难度：普通"		"**"
+		"
+	}
+	"		"***"
+		"random"		"Item"
+		"breaker"		"Activate..."
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**随机神器消失模式：开启"		"**"
+		"
+	}
+	"		"***"
+		"Shield"		"Oath"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**流沙"		"**"
+		"
+	}
+	"		"***"
+		"Armys"		"Paeon"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**无限弹药"		"**"
+		"
+	}
+	"		"***"
+		"You"		"have"
+		"passed"		"through"
+		"The"		"first"
+		"phase"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**你已经通过了第一阶段（正在存档）"
+		"**"		"
+	}
+	"
+		"***"		"Level"
+		"set....Next"		"Level"
+		"Ultimate"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**关卡...下一难度：天神"
+		"**"		"
+	}
+	"
+		"***"		"Dark"
+		"Bahamut"		"is"
+		"blocking"		"the"
+		"road"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**黑暗的巴哈姆特堵住了道路"
+		"**"		"
+	}
+	"
+		"***Ultimate"		"Akh"
+		"Morn***"		"
+	{
+		"
+		"chi"		"		"
+		"**终极之耀之荣光（奶注意血量开）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
+	}
+	"		"***"
+		"Ultimate"		"Cauterize"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**终极之龙车（看清位置躲避）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
+	}
+	"		"***"
+		"Ultimate"		"Heavens"
+		"fall"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**终极之天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落里）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
+	}
+	"
+		"***"		"Ultimate"
+		"Shadow"		"Flare"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**终极的电（蹲下躲避）"		"**"
+		"
+		"		"ico"
+		"		"		"icon_fire"
+		"
+	}
+	"		"***"
+		"Ultimate"		"Tempest"
+		"wing"		"***"
+		"
+	{
+		"		"chi"
+		"		"		"**终极之暴风之翼（会出现三个风柱，等到剩下一个的时候站在风柱里按住空格）"
+		"**"		"
+		"
+		"ico"		"		"
+		"icon_fire"		"
+	}
+	"
+		"***"		"Night"
+		"Mare***"		"
+	{
+		"
+		"chi"		"		"
+		"**墙"		"**"
+		"
+	}
+	"		"***"
+		"ADMIN"		"BUTTON"
+		"Level"		"Hard"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**管理员把关卡调至困难难度"		"**"
+		"
+	}
+	"		"***"
+		"ADMIN"		"BUTTON"
+		"Level"		"Extreme"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**管理员把关卡调至极限难度"		"**"
+		"
+	}
+	"		"***"
+		"ADMIN"		"BUTTON"
+		"STAGE"		"2"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**管理员把关卡调至第二阶段"		"**"
+		"
+	}
+	"		"slay"
+		"@all"		"
+	{
+		"
+		"chi"		"		"
+		"**杀死全部人"		"**"
+		"
+	}
+	"		"***"
+		"ADMIN"		"BUTTON"
+		"STAGE"		"1"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**管理员把关卡调至第一阶段"		"**"
+		"
+	}
+	"		"***"
+		"ADMIN"		"BUTTON"
+		"Level"		"Ultimate"
+		"***"		"
+	{
+		"
+		"chi"		"		"
+		"**管理员把关卡调至终极难度"		"**"
 	}
 	"*** Model :Dakotec ***"
 	{
-		"chi"		"**模型：Dakotec **"
+		"chi"		"** **"
 	}
-	"*** TOO LATE ***"
+	"***A player picked up Bird Armys Paeon***"
 	{
-		"chi"		"**你太慢了 **"
+		"chi"		"** **"
 	}
-	"*** Extreme CLEAR ***"
+	"***Recast 90s***"
 	{
-		"chi"		"**困难难度通过 **"
+		"chi"		"** **"
 	}
-	"*** Next Level Savage ***"
+	"***A player picked up Paladin Shield Oath"
 	{
-		"chi"		"**下一难度：史诗 **"
+		"chi"		"** **"
 	}
-	"*** Level:Savage ***"
+	"***Recast 80s***"
 	{
-		"chi"		"**本关难度：史诗 **"
+		"chi"		"** **"
 	}
-	"***Holm gang zombie incoming...***"
+	"***A player picked up White Mage Benediction***"
 	{
-		"chi"		"**僵尸拿起了定身（释放后在范围内的人类将会被定身五秒） **"
+		"chi"		"** **"
 	}
-	"*** Recast 95s ***"
+	"*** Recast 150s ***"
 	{
-		"chi"		"**CD：95秒 **"
+		"chi"		"** **"
 	}
-	"*** 30 seconds to Break Fence ***"
+	"***Flare***"
 	{
-		"chi"		"**30秒后铁网破碎 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
-	"*** HOLD 20 seconds ***"
+	"***shoot ADS and Zombies***"
 	{
-		"chi"		"**守住20秒 **"
+		"chi"		"** **"
 	}
-	"***Location: The Ragnarok ***"
+	"***Heavens Fall***"
 	{
-		"chi"		"**地点：仙境 **"
+		"chi"		"** **"
 	}
-	"*** Defend 45 seconds ***"
+	"***Earth Shaker***"
 	{
-		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"chi"		"** **"
 	}
-	"*** ADS ATTACK ***"
+	"***Bahamut Prime dead***"
 	{
-		"chi"		"**ADS攻击（打碎ADS） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Dalamud appeared ***"
+	"*** 15 seconds to activate Elevator ***"
 	{
-		"chi"		"**达拉姆卫星出现 **"
+		"chi"		"** **"
 	}
-	"*** Dalamud the last boss ***"
+	"*** 30 seconds to Open Wall ***"
 	{
-		"chi"		"**达拉姆是最后的BOSS **"
+		"chi"		"** **"
 	}
-	"*** Cauterize ***"
+	"*** Dont Touch Water ***"
 	{
-		"chi"		"**龙车来袭（看清位置左右躲避） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Shadow Flare ***"
+	"*** Water is Death Zone ***"
 	{
-		"chi"		"**电（蹲下躲避） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** True Bahamut appeared ***"
+	"*** Nael Van Dahrnus Appeared ***"
 	{
-		"chi"		"**达拉姆召唤了巴哈姆特 **"
-		"command"		"sm_clearbosshp"
+		"chi"		"** **"
 	}
-	"*** Steam Judge ***"
+	"*** Kill HER ***"
 	{
-		"chi"		"**蒸汽制裁（平台上会出现几个蒸汽状的柱子.站在柱子里面等到柱子消失） **"
-		"ico"		"icon_fire"
-	}
-	"*** Sentence to death ***"
-	{
-		"chi"		"**死亡裁决（巴哈姆特：接受死亡的制裁吧！！！） **"
-	}
-	"*** True Heavens fall ***"
-	{
-		"chi"		"**真天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落） **"
-		"ico"		"icon_fire"
-	}
-	"*** True Tempest wing ***"
-	{
-		"chi"		"**真暴风之翼（会出现三个旋风.只有两个是真的.站到风里面按住空格） **"
-		"ico"		"icon_fire"
-	}
-	"*** True Bahamut dead ***"
-	{
-		"chi"		"**巴哈姆特终于死了 **"
-		"command"		"sm_clearbosshp"
-	}
-	"*** 45 seconds to Open Wall ***"
-	{
-		"chi"		"**45秒后墙壁破碎 **"
-		"DoorCountDown"		"45"
-	}
-	"*** Savage CLEAR ***"
-	{
-		"chi"		"**史诗难度通过 **"
-	}
-	"*** Winners are Heroes of Light ***"
-	{
-		"chi"		"**获胜的玩家是光之英雄 **"
+		"chi"		"** **"
 	}
 	"*** Dead ***"
 	{
-		"chi"		"**宫殿守卫死了 **"
-		"command"		"sm_clearbosshp"
+		"chi"		"** **"
 	}
-	"*** Odin Appeared ***"
+	"*** Extreme CLEAR ***"
 	{
-		"chi"		"**奥丁出现了 **"
+		"chi"		"** **"
 	}
-	"*** Kill Odin ***"
+	"*** Next Level Savage ***"
 	{
-		"chi"		"**杀了它 **"
-	}
-	"*** Ultimate mode incoming.... ***"
-	{
-		"chi"		"**最终关卡导入中.... **"
+		"chi"		"** **"
 	}
 	"*** Human Killer ON ***"
 	{
-		"chi"		"**人类杀手开启 **"
+		"chi"		"** **"
 	}
-	"*** ze_ffxiv_wanderers_palace...? ***"
+	"***Tempest Wing***"
 	{
-		"chi"		"**最终幻想14：流浪者宫殿 **"
+		"chi"		"** **"
 	}
-	"*** Level:Ultimate ***"
+	"*** Level:Savage ***"
 	{
-		"chi"		"**本关难度：天神 **"
+		"chi"		"** **"
 	}
-	"*** This mode is Secret mode ***"
+	"***Holm gang zombie incoming...***"
 	{
-		"chi"		"**这个模式是隐藏模式 **"
+		"chi"		"** **"
 	}
-	"*** Chances are once only ***"
+	"*** Recast 95s ***"
 	{
-		"chi"		"**机会只有一次 **"
+		"chi"		"** **"
 	}
-	"*** Level set .... Next Level Normal ***"
+	"*** 30 seconds to Break Fence ***"
 	{
-		"chi"		"**关卡设置…下一难度：普通 **"
+		"chi"		"** **"
 	}
-	"*** Random Item breaker Activate... ***"
+	"*** Hold 20 seconds ***"
 	{
-		"chi"		"**随机神器消失模式：开启 **"
+		"chi"		"** **"
 	}
-	"*** Shield Oath ***"
+	"***Location: The Ragnarok ***"
 	{
-		"chi"		"**流沙 **"
+		"chi"		"** **"
 	}
-	"*** Armys Paeon ***"
+	"*** Defend 45 seconds ***"
 	{
-		"chi"		"**无限弹药 **"
+		"chi"		"** **"
 	}
-	"*** You have passed through the first phase ***"
+	"*** ADS ATTACK ***"
 	{
-		"chi"		"**你已经通过了第一阶段（正在存档） **"
+		"chi"		"** **"
 	}
-	"*** Level set....Next Level Ultimate ***"
+	"*** Dalamud appeared ***"
 	{
-		"chi"		"**关卡...下一难度：天神 **"
+		"chi"		"** **"
 	}
-	"*** Dark Bahamut is blocking the road ***"
+	"*** Dalamud the last boss ***"
 	{
-		"chi"		"**黑暗的巴哈姆特堵住了道路 **"
+		"chi"		"** **"
 	}
-	"***Ultimate Akh Morn***"
+	"*** Shadow Flare ***"
 	{
-		"chi"		"**终极之耀之荣光（奶注意血量开） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Ultimate Cauterize ***"
+	"*** Cauterize ***"
 	{
-		"chi"		"**终极之龙车（看清位置躲避） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Ultimate Heavens fall ***"
+	"*** True Bahamut appeared ***"
 	{
-		"chi"		"**终极之天坠（会出现一个巨大的天坠.有个角落是安全的.站到安全的角落里） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Ultimate Shadow Flare ***"
+	"*** True Tempest wing ***"
 	{
-		"chi"		"**终极的电（蹲下躲避） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Ultimate Tempest wing ***"
+	"*** True Heavens fall ***"
 	{
-		"chi"		"**终极之暴风之翼（会出现三个风柱，等到剩下一个的时候站在风柱里按住空格） **"
-		"ico"		"icon_fire"
+		"chi"		"** **"
 	}
-	"*** Night Mare***"
+	"*** Steam Judge ***"
 	{
-		"chi"		"**墙 **"
+		"chi"		"** **"
 	}
-	"*** ADMIN BUTTON Level Hard ***"
+	"*** Sentence to death ***"
 	{
-		"chi"		"**管理员把关卡调至困难难度 **"
+		"chi"		"** **"
 	}
-	"*** ADMIN BUTTON Level Extreme ***"
+	"*** True Bahamut dead ***"
 	{
-		"chi"		"**管理员把关卡调至极限难度 **"
+		"chi"		"** **"
 	}
-	"*** ADMIN BUTTON STAGE 2 ***"
+	"*** 45 seconds to Open Wall ***"
 	{
-		"chi"		"**管理员把关卡调至第二阶段 **"
+		"chi"		"** **"
 	}
-	"slay @all"
+	"*** Odin Appeared ***"
 	{
-		"chi"		"**杀死全部人 **"
+		"chi"		"** **"
 	}
-	"*** ADMIN BUTTON STAGE 1 ***"
+	"*** Kill Odin ***"
 	{
-		"chi"		"**管理员把关卡调至第一阶段 **"
+		"chi"		"** **"
 	}
-	"*** ADMIN BUTTON Level Ultimate ***"
+	"*** Savage CLEAR ***"
 	{
-		"chi"		"**管理员把关卡调至终极难度 **"
+		"chi"		"** **"
+	}
+	"*** Winners are Heroes of Light ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TOO LATE ***"
+	{
+		"chi"		"** **"
 	}
 }

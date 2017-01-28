@@ -58,7 +58,7 @@
 	{
 		"chi"		"**防守15秒**"
 	}
-	"** Kill the remaining zombies! **"
+	"** KILL THE REMAINING ZOMBIES! **"
 	{
 		"chi"		"**解决掉安全房中剩下的僵尸**"
 	}
@@ -306,5 +306,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"17598"
+	}
+	"|||||YOU LOSE|||||"
+	{
+		"chi"		"** **"
 	}
 }

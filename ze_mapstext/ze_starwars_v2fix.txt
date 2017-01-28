@@ -40,7 +40,7 @@
 	"		"A"
 		"player"		"picked"
 		"up"		"Force"
-		"speed"		"
+		"Speed"		"
 	{
 		"
 		"chi"		"		"
@@ -123,7 +123,7 @@
 	"
 		"**Fall"		"back!"
 		"The"		"doors"
-		"ARE"		"open**"
+		"are"		"open**"
 		"
 	{
 		"		"chi"
@@ -301,7 +301,7 @@
 	}
 	"		"**Fall"
 		"back!"		"Droids"
-		"ARE"		"killed**"
+		"are"		"killed**"
 		"
 	{
 		"		"chi"
@@ -490,7 +490,7 @@
 	}
 	"
 		"**You"		"completed"
-		"level"		"2**"
+		"Level"		"2**"
 		"
 	{
 		"		"chi"
@@ -627,7 +627,7 @@
 	}
 	"
 		"**You"		"completed"
-		"level"		"3**"
+		"Level"		"3**"
 		"
 	{
 		"		"chi"
@@ -766,7 +766,7 @@
 	}
 	"
 		"**You"		"completed"
-		"level"		"4**"
+		"Level"		"4**"
 		"
 	{
 		"		"chi"
