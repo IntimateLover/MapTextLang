@@ -130,26 +130,26 @@
 	}
 	"***Snow picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**雪已被拿起 **"
 	}
 	"***Hold 35 seconds***"
 	{
 		"DoorCountDown"		"35"
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
 	}
 	"***Portal open in 30 seconds***"
 	{
 		"DoorCountDown"		"30"
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
 	}
 	"***Last elevator start in 30 seconds***"
 	{
 		"DoorCountDown"		"30"
-		"chi"		"** **"
+		"chi"		"**电梯30秒后离开 **"
 	}
 	"***Wall picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙已被拿起 **"
 	}
 	"***ESCAPE***"
 	{
@@ -157,19 +157,20 @@
 	}
 	"***CURRENT LEVEL - DREAM***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前级别-梦想 **"
 	}
 	"***HOLD UNTIL GATE OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里直到门开 **"
 	}
 	"***Hold until Door break***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里直到门开 **"
 	}
 	"***Door open in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后打开 **"
+		"DoorCountDown"		"30"
 	}
 	"***10 SECONDS LEFT***"
 	{
@@ -177,7 +178,7 @@
 	}
 	"***Press 2 buttons***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下两个按钮 **"
 	}
 	"***10...5 seconds left***"
 	{
@@ -185,31 +186,38 @@
 	}
 	"***Spread out***"
 	{
-		"chi"		"** **"
+		"chi"		"**黑球狂潮（回头躲避黑球） **"
+		"ico"   "icon_fire"
 	}
 	"***Laser***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳刀（回头准备跳刀） **"
+		"ico"   "icon_fire"
 	}
 	"***Danger Field***"
 	{
-		"chi"		"** **"
+		"chi"		"**危险区域（看脚下远离红光） **"
+		"ico"   "icon_fire"
 	}
 	"***Flow away***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞跃（飞上去后找角度回来） **"
+		"ico"   "icon_fire"
 	}
 	"***Zombie Wave***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸浪潮（4个口子随机出现一座桥） **"
+		"ico"   "icon_fire"
 	}
 	"***For Upper***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞升（远离天上的激光） **"
+		"ico"   "icon_fire"
 	}
 	"***End of Dream in 120 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**梦想将在120秒后结束 **"
+		"DoorCountDown"		"120"
 	}
 	"***End of Dream in 110 seconds***"
 	{
