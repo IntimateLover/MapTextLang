@@ -1349,7 +1349,7 @@
 	}
 	"ze_boredom_v543654"
 	{
-		"chi"		"反转世界"
+		"chi"		"无趣"
 	}
 	"ze_s_a_m_a3"
 	{
@@ -1415,7 +1415,7 @@
 	}
 	"ze_suchirifu_v3"
 	{
-		"chi"		"废弃的要塞"
+		"chi"		"斯基利弗树林遗迹"
 	}
 	"ze_unknown_underground_a1_2_4"
 	{
@@ -1435,7 +1435,7 @@
 	}
 	"ze_PKMN_Adventure_v7_1"
 	{
-		"chi"		"跳刀神奇宝贝"
+		"chi"		"神奇宝贝冒险之旅"
 	}
 	"ze_undertale_g_v1_1"
 	{
@@ -1456,9 +1456,5 @@
 	"ze_ffxii_westersand_v7_2_e2_fix"
 	{
 		"chi"		"最终幻想12：西沙"
-	}
-	"ze"
-	{
-		"chi"		"此地图暂无译名"
 	}
 }
