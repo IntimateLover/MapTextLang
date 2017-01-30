@@ -356,7 +356,7 @@
 	}
 	"***A human has picked up health!***"
 	{
-		"chi"		"**一位玩家拿起了神器：火 **"
+		"chi"		"**一位玩家拿起了神器：奶 **"
 	}
 	"***Wood door will break in 40s!***"
 	{
@@ -1039,38 +1039,42 @@
 	}
 	"***Wood door will break in 10s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门10秒后破碎 **"
 	}
 	"***Shoot rock monster!(use m249 or negev)***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石怪物出现（使用M249或negev) **"
 	}
 	"***Rock monster uses water!(go to the end of the platform)***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石怪物使用了水！（跑到平台最后面） **"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses lightning!(squat)***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石怪物使用了电（一直蹲下） **"
+		"ico"		"icon_fire"
 	}
 	"***Use grenades to prevent zombies walking!***"
 	{
-		"chi"		"** **"
+		"chi"		"**使用手榴弹阻止僵尸行走 **"
 	}
 	"***Some barriers disappeared!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一些障碍消失！ **"
 	}
 	"***Color lasers are activated!***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光将被激活！ **"
 	}
 	"***Rock monster uses movable fire!(go in the opposite direction)***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石怪物使用移动火！（往相反的方向走） **"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses lightning(squat)!***"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石怪物使用了电（一直蹲下） **"
+		"ico"		"icon_fire"
 	}
 }
