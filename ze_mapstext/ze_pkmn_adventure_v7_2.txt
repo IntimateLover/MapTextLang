@@ -977,6 +977,10 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"98982"
+		"syncvalue"		"26533"
+	}
+	"Honchkrow has restored 500HP!"
+	{
+		"chi"		"** **"
 	}
 }

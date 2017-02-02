@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -120,7 +120,7 @@
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**大门将在35S后打开！去控制室寻找方法让门提前打开！！**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"**  70 SECONDS LEFT **"
 	{
@@ -129,7 +129,7 @@
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮！大门将在10S后开启！！**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**  60 SECONDS LEFT **"
 	{
@@ -356,6 +356,14 @@
 		"chi"		"** **"
 	}
 	"** 1 COWBELLS LEFT!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
+	{
+		"chi"		"** **"
+	}
+	"** NO MORE COWBELL BONUS **"
 	{
 		"chi"		"** **"
 	}
