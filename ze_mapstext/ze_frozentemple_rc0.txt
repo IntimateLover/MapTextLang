@@ -2,11 +2,11 @@
 {
 	"*** MAP BY GEORGE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：GEORGE **"
 	}
 	"*** THANKS TO STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN **"
 	}
 	"*** TEMPLE OPENS IN 5 SECONDS ***"
 	{
@@ -19,12 +19,12 @@
 	}
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后开启 **"
 		"DoorCountDown"		"20"
 	}
 	"*** DOOR OPENS IN 40 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门40秒后开启 **"
 		"DoorCountDown"		"40"
 	}
 	"*** Door opens in 25 seconds ***"
@@ -64,22 +64,27 @@
 	"*** BLANKET FREEZE ***"
 	{
 		"chi"		"**寒冰笼罩**"
+		"ico"   "icon_fire"
 	}
 	"*** CRYSTALLIZE ***"
 	{
 		"chi"		"**冰晶**"
+		"ico"   "icon_fire"
 	}
 	"*** ICY WIND ***"
 	{
 		"chi"		"**寒风**"
+		"ico"   "icon_fire"
 	}
 	"*** FROSTY BEAM ***"
 	{
 		"chi"		"**霜冻光线**"
+		"ico"   "icon_fire"
 	}
 	"*** CRYSTAL RAIN ***"
 	{
-		"chi"		"**水晶雨**"
+		"chi"		"**水晶雨（看天上躲避水晶）**"
+		"ico"   "icon_fire"
 	}
 	"*** WHAT WAS THAT THING? ***"
 	{
@@ -96,6 +101,7 @@
 	"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
 	{
 		"chi"		"**核弹1分30秒后启动**"
+		"DoorCountDown" "90"
 	}
 	"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
 	{
@@ -103,7 +109,7 @@
 	}
 	"*** YOU FAILED! ZOMBIES ESCAPED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了！僵尸逃脱！ **"
 	}
 	"*** NUKE IN 1 MINUTE ***"
 	{
@@ -135,6 +141,6 @@
 	}
 	"*** YOU WIN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你胜利了！ **"
 	}
 }
