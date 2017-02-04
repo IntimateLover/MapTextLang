@@ -426,35 +426,36 @@
 	}
 	">>> Map by Moray <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Moray **"
 	}
 	">>> Thanks to nano (Help & Ideas) <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：nano (Help & Ideas)  **"
 	}
 	">>> SPIDER USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛使用了毒药 **"
+		"ico"		"icon_fire"
 	}
 	">>> SPIDER IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛被打败了 **"
 	}
 	">>> STAGE 1 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关通过 **"
 	}
 	">>> TROLL IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨魔被打败了 **"
 	}
 	">>> ADMIN CHANGED TO STAGE 3 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关 **"
 	}
 	">>> ADMIN PRESSED KILL ALL BUTTON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员按下杀死所有人按钮 **"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<"
 	{
@@ -462,83 +463,90 @@
 	}
 	">>> DRAGON USED PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了推 **"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了火 **"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED WATER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了水 **"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙被打败了 **"
 	}
 	">>> GARGANTUA IS COMING KEEP RUNNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人在你身后，不要回头 **"
+		"ico"		"icon_fire"
 	}
 	">>> SHOOT DRAGON <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**射击巨龙 **"
 	}
 	">>> STAGE 3 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关通过 **"
 	}
 	">>> GARGANTUA IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨人被打败了 **"
 	}
 	">>> ALL ZM ITEMS IS DISABLED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有僵尸神器已被禁用 **"
 	}
 	">>> STAGE 4 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关通过 **"
 	}
 	">>> AFK TELEPORT IN 3 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家3秒后传送 **"
 	}
 	">>> BALROG USE LASER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用激光 **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED HEAL <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了奶 **"
 	}
 	">>> BALROG USED KILLER <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用秒杀 **"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED SHIELD <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用护盾 **"
 	}
 	">>> BALROG IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔被打败了 **"
 	}
 	">>> DRAGON IS DEFEATED KEEP RUNNING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙被打败了-赶紧走 **"
 	}
 	">>> STAGE 5 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关通过 **"
 	}
 	">>> STAGE 6 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第六关 **"
 	}
 	">>> SURVIVE 4 MINUTES <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**存活4分钟 **"
+		"DoorCountDown"		"240"
 	}
 	">>> 3 MINUTES LEFT <<<"
 	{
@@ -586,22 +594,23 @@
 	}
 	">>> TELEPORTED TO CASTLE GET OUT<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送到城堡了 **"
 	}
 	">>> STAGE 6 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第六关通过 **"
 	}
 	">>> STAGE 2 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关通过 **"
 	}
 	">>> ADMIN CHANGED TO STAGE 4 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第四关 **"
 	}
 	">>> GARGANTUA USED GRAVITY <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙使用了黑洞 **"
+		"ico"		"icon_fire"
 	}
 }
