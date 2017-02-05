@@ -1,5 +1,5 @@
- "Console_T"
- {
+"Console_T"
+{
 	">>> Map created by Moray <<<"
 	{
 		"chi"		"**地图制作：Moray 汉化：一只恶意卖萌的夕雨**"
@@ -19,54 +19,55 @@
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
- 		"chi"		"**巨龙施放了浊液喷射，快往前跑！**"		
-        "ico"		"icon_fire"	
-        }
+		"chi"		"**巨龙施放了浊液喷射，快往前跑！**"
+		"ico"		"icon_fire"
+	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
 		"chi"		"**巨龙施放了焚烧烈焰，迅速往两边躲闪！**"
-		"ico"		"icon_fire"	
-}
+		"ico"		"icon_fire"
+	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
 		"chi"		"**前面那是...巨龙又回来了！把它打回到天上去！**"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
-		"chi"		"**Jetstream Sam被击败！**"	
-  }
+		"chi"		"**Jetstream Sam被击败！**"
+	}
 	">>> BREAK STATUE TO GET ITEM <<<"
-	{		
-        "chi"		"**击碎上方的雕像来获取下方的物品**"
-	} 
+	{
+		" "		" "
+		" "		"chi"
+	}
 	">>> NOOB TRASHED <<<"
 	{
 		"chi"		">>>Enemy down~<<<"
 	}
-	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"	
-{
+	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
+	{
 		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
 		"ico"		"icon_fire"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
-		"chi"		"**坚守45秒**"		
-"DoorCountDown"		"45"
-	}	
-">>> SHOOT GARGANTUA <<<"	
-{		
-"chi"		"**我们不是已经击杀了它吗！没时间思考了快开火！那就再让它死一次！**"
-		"ico"		"icon_fire"	
-}	
-">>> ALL ZM ITEMS IS LOCKED <<<"
-	{		
-"chi"		"**所有僵尸神器已被封锁，安心跳刀吧伙计**"
-	}	
-">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+		"chi"		"**坚守45秒**"
+		"DoorCountDown"		"45"
+	}
+	">>> SHOOT GARGANTUA <<<"
+	{
+		"chi"		"**我们不是已经击杀了它吗！没时间思考了快开火！那就再让它死一次！**"
+		"ico"		"icon_fire"
+	}
+	">>> ALL ZM ITEMS IS LOCKED <<<"
+	{
+		"chi"		"**所有僵尸神器已被封锁，安心跳刀吧伙计**"
+	}
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
 		"chi"		"**热身还有30秒**"
-	}	
-">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
 	{
 		"chi"		"**热身还有20秒**"
 	}
@@ -75,8 +76,8 @@
 		"chi"		"**热身还有10秒**"
 	}
 	">>> WARMUP ROUND END <<<"
-	{		
-        "chi"		"**热身结束**"
+	{
+		"chi"		"**热身结束**"
 	}
 	">>> STAGE 1 <<<"
 	{
@@ -147,9 +148,10 @@
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"**一名玩家拾取了急冻权杖**"	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"	
-{
+		"chi"		"**一名玩家拾取了急冻权杖**"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
 		"chi"		"**热身还有40秒**"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
@@ -159,8 +161,8 @@
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
 		"chi"		"**一名僵尸学会了巫蛊回复**"
-	}	
-        ">>> SPIDER IS DEAD <<<"
+	}
+	">>> SPIDER IS DEAD <<<"
 	{
 		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
 		"ico"		"icon_fire"
@@ -244,16 +246,16 @@
 	}
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
-		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"		
-        "ico"		"icon_fire"
+		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"
+		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
 		"chi"		"**一名玩家拾取了树篱权杖**"
 	}
 	">>> FAIL ROUND <<<"
-	{		
-        "chi"		"**回合失败**"
+	{
+		"chi"		"**回合失败**"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
@@ -275,8 +277,8 @@
 		"chi"		"**第四关**"
 	}
 	">>> GARGANTUA IS COMING <<<"
-	{		
-        "chi"		"**那是巨人！这次我们一定要在这击败它！**"
+	{
+		"chi"		"**那是巨人！这次我们一定要在这击败它！**"
 		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA USED KILLER. GO SIDE <<<"
@@ -305,7 +307,8 @@
 		"chi"		"**巨人施放了凛冽寒冰！**"
 		"ico"		"icon_fire"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"	{
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
 		"chi"		"**一名僵尸学会了重力攫取**"
 	}
 	">>> GARGANTUA IS DEAD <<<"
@@ -332,8 +335,9 @@
 		"DoorCountDown"		"15"
 	}
 	">>> BRIDGE IS BROKEN <<<"
-	{		
-        "chi"		"**大桥被炸毁了！这下它们应该无法抓住我们了...**"
+	{
+		" "		" "
+		" "		"chi"
 	}
 	">>> ITS BALROG <<<"
 	{
@@ -423,8 +427,8 @@
 		"syncvalue"		"32143"
 	}
 	">>> Map by Moray <<<"
-	{		
-        "chi"		"**地图由Moray制作，一只恶意卖萌的夕雨负责汉化**"
+	{
+		"chi"		"**地图由Moray制作，一只恶意卖萌的夕雨负责汉化**"
 	}
 	">>> Thanks to nano (Help & Ideas) <<<"
 	{
@@ -437,8 +441,8 @@
 	">>> SPIDER IS DEFEATED <<<"
 	{
 		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
-	}	
-">>> STAGE 1 COMPLETED <<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
 	{
 		"chi"		"**第一关完成**"
 	}
@@ -519,7 +523,7 @@
 	">>> BALROG USED SHIELD <<<"
 	{
 		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
-z	}
+	}
 	">>> BALROG IS DEFEATED <<<"
 	{
 		"chi"		"**我们击败了炎魔！**"
@@ -543,10 +547,11 @@ z	}
 	">>> 3 MINUTES LEFT <<<"
 	{
 		"chi"		"**还有3分钟**"
-0	}
+	}
 	">>> 2 MINUTES LEFT <<<"
 	{
-z		"chi"		"**还有2分钟**"
+		"z"		"chi"
+		"chi"		"** **"
 	}
 	">>> 1 MINUTES LEFT <<<"
 	{

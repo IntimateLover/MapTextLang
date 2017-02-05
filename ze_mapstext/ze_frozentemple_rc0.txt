@@ -64,27 +64,27 @@
 	"*** BLANKET FREEZE ***"
 	{
 		"chi"		"**寒冰笼罩**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** CRYSTALLIZE ***"
 	{
 		"chi"		"**冰晶**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** ICY WIND ***"
 	{
 		"chi"		"**寒风**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** FROSTY BEAM ***"
 	{
 		"chi"		"**霜冻光线**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** CRYSTAL RAIN ***"
 	{
-		"chi"		"**水晶雨（看天上躲避水晶）**"
-		"ico"   "icon_fire"
+		"chi"		"**水晶雨**"
+		"ico"		"icon_fire"
 	}
 	"*** WHAT WAS THAT THING? ***"
 	{
@@ -101,7 +101,7 @@
 	"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
 	{
 		"chi"		"**核弹1分30秒后启动**"
-		"DoorCountDown" "90"
+		"DoorCountDown"		"90"
 	}
 	"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
 	{
