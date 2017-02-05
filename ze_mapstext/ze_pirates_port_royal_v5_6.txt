@@ -623,23 +623,23 @@
 	}
 	">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你通关了地图.但打的是只简单难度的海怪 **"
 	}
 	">>> |LEVEL 5 KRAKEN GOD!| <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**五级海怪 **"
 	}
 	">>> KRAKEN GOD - RTV TIME! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**海妖之神-RTV吧 **"
 	}
 	">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你杀了海妖之神-通关地图，了不起。 **"
 	}
 	">>> YOU ARE A REAL PIRATE! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你是个真正的海盗！ **"
 	}
 	"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
 	{
@@ -647,12 +647,12 @@
 	}
 	">>> HOLD FOR 45 SEC <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒 **"
 		"DoorCountDown"		"45"
 	}
 	">>> KRAKEN GOD! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**海妖之神 **"
 	}
 	"sync_version"
 	{
@@ -660,7 +660,7 @@
 	}
 	">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**海妖使用波浪清理道路 **"
 	}
 	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***"
 	{
@@ -668,6 +668,6 @@
 	}
 	">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**海妖之神用波浪清理道路 **"
 	}
 }
