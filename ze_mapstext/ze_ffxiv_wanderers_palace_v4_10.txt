@@ -1133,7 +1133,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**息吹暴风（跑到平台最后面，吸的时候按住S回头开枪） **"
+		"chi"		"**暴风之翼（跑到平台最后面，吸的时候按住S回头开枪） **"
 		"ico"		"icon_fire"
 	}
 	"*** Level:Savage ***"
@@ -1223,11 +1223,11 @@
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"**奥丁出现了 **"
+		"chi"		"**奥丁神出现了 **"
 	}
 	"*** Kill Odin ***"
 	{
-		"chi"		"**杀了奥丁 **"
+		"chi"		"**杀了奥丁神 **"
 	}
 	"*** Savage CLEAR ***"
 	{
@@ -1243,42 +1243,42 @@
 	}
 	"*** Ultimate mode incoming.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**终极关卡导入中 **"
 	}
 	"*** ze_ffxiv_wanderers_palace...? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最终幻想14：流浪者宫殿 **"
 	}
 	"*** Level:Ultimate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：天神 **"
 	}
 	"*** This mode is Secret mode ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是个隐藏模式 **"
 	}
 	"*** Chances are once only ***"
 	{
-		"chi"		"** **"
+		"chi"		"**机会只有一次 **"
 	}
 	"*** Level set .... Next Level Normal ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡设置...下一关卡：普通 **"
 	}
 	"*** Random Item breaker Activate... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**随机神器消失模式：开启 **"
 	}
 	"*** You have passed through the first phase ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经通过了第一阶段（正在存档中） **"
 	}
 	"*** Level set....Next Level Ultimate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡设置...下一关卡：天神 **"
 	}
 	"*** Night Mare***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙 **"
 	}
 }
