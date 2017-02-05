@@ -34,7 +34,7 @@
 	}
 	"ShroomForest2"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到蘑菇森林2的世界**"
 	}
 	"[Level1] Find the Groke"
 	{
@@ -682,7 +682,7 @@
 	}
 	">> PLAYER HAS CHOSEN: RAVINE <<"
 	{
-		"chi"		"**玩家选择了关卡:天堂LV3**"
+		"chi"		"**玩家选择了关卡:GROKE与幽灵 LV1**"
 	}
 	">> PLAYER HAS CHOSEN: TV EXTREME <<"
 	{
@@ -698,6 +698,6 @@
 	}
 	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
 	{
-		"chi"		"**玩家选择了:极限天堂 EX3**"
+		"chi"		"**玩家选择了:极限GROKE EX1**"
 	}
 }
