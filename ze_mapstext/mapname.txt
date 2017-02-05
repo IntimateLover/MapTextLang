@@ -1147,7 +1147,7 @@
 	{
 		"chi"		"切尔诺贝利核电站"
 	}
-	"ze_tyranny_v5beta_csgo"
+	"ze_tyranny_v5beta_csgo1"
 	{
 		"chi"		"暴君"
 	}
@@ -1351,7 +1351,7 @@
 	{
 		"chi"		"无趣"
 	}
-	"ze_s_a_m_a3"
+	"ze_S_A_M_a3"
 	{
 		"chi"		"刀剑领域"
 	}
@@ -1417,7 +1417,7 @@
 	{
 		"chi"		"斯基利弗树林遗迹"
 	}
-	"ze_unknown_underground_a2_0"
+	"ze_unknown_underground_a2_2"
 	{
 		"chi"		"未知的秘密工厂"
 	}
@@ -1457,7 +1457,7 @@
 	{
 		"chi"		"最终幻想12：西沙"
 	}
-	"ze_project_alcaria_v1_1"
+	"ze_project_alcaria_v1_2"
 	{
 		"chi"		"阿尔卡利亚项目"
 	}
@@ -1468,5 +1468,9 @@
 	"ze_pokemon_adventure_v1_1"
 	{
 		"chi"		"宠物小精灵冒险之旅"
+	}
+	"ze_S_A_M_a6"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }
