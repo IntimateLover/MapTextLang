@@ -309,26 +309,27 @@
 	}
 	"|||||YOU LOSE|||||"
 	{
-		"chi"		"** **"
+		"chi"		"**你赢了 **"
 	}
 	"** NOW YOU DIE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**现在你已经死了 **"
 	}
 	"** Hold for 10 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
 	}
 	">> ZM ROUND <<"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM关 **"
 	}
 	">> VICTORY <<"
 	{
-		"chi"		"** **"
+		"chi"		"**胜利 **"
 	}
 	">>*** THANKS FOR PLAYING! ***<<"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢您的参与！ **"
 	}
 }
