@@ -59,26 +59,31 @@
 	"**坚守30秒**"		"DoorCountdown"
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 20 SECONDS TILL THE C4 EXPLODE**"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在20秒后爆炸 **"
+		"DoorCountDown"		"20"
 	}
 	"**Hold 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
+		"DoorCountDown"		"15"
 	}
 	"**WERE TRYING TO BREAK THE WALL,HOLD 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们试图打破墙壁.守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"**HOLD 30 SECONDS TILL THE DOOR OPEN**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒.直到门打开 **"
+		"DoorCountDown"		"30"
 	}
 	"**NADE CAN DO A LOT OF DAMAGE**"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷可以造成更多伤害 **"
 	}
 	"**HOLD 60 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60秒 **"
+		"DoorCountDown"		"60"
 	}
 }
