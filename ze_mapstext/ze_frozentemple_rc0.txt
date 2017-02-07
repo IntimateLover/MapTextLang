@@ -59,7 +59,7 @@
 	}
 	"*** RESIST UNTIL SOMETHING HAPPENS ***"
 	{
-		"chi"		"**守住直到发生出现（没有特效的僵尸赶紧退出服务器重进）**"
+		"chi"		"**守住直到发生出现**"
 		"ico"		"icon_fire"
 	}
 	"*** BLANKET FREEZE ***"
@@ -69,22 +69,22 @@
 	}
 	"*** CRYSTALLIZE ***"
 	{
-		"chi"		"**冰晶(不要往出现蓝色雾气的地方走）**"
+		"chi"		"**冰晶**"
 		"ico"		"icon_fire"
 	}
 	"*** ICY WIND ***"
 	{
-		"chi"		"**寒风（看光圈出现在什么地方.外圈是吸.里圈是推）**"
+		"chi"		"**寒风**"
 		"ico"		"icon_fire"
 	}
 	"*** FROSTY BEAM ***"
 	{
-		"chi"		"**霜冻光线（光线快到什么的时候起跳）**"
+		"chi"		"**霜冻光线**"
 		"ico"		"icon_fire"
 	}
 	"*** CRYSTAL RAIN ***"
 	{
-		"chi"		"**水晶雨（看天上躲避蓝色的小冰晶）**"
+		"chi"		"**水晶雨**"
 		"ico"		"icon_fire"
 	}
 	"*** WHAT WAS THAT THING? ***"

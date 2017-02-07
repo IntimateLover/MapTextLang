@@ -19,7 +19,7 @@
 	"**Door breaking in 20 seconds**"
 	{
 		"chi"		"**大门20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**5 seconds**"
 	{
@@ -36,7 +36,7 @@
 	"**Fence breaking in 30 seconds**"
 	{
 		"chi"		"**铁栅栏30秒后破碎 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Player has picked up <Heal Magic>**"
 	{
@@ -45,7 +45,7 @@
 	"**Window breaking in 20 seconds**"
 	{
 		"chi"		"**窗户20秒后破碎 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**There seems a secret in the statue**"
 	{
@@ -58,12 +58,12 @@
 	"**Door opening in 20 seconds**"
 	{
 		"chi"		"**大门20秒后开启 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Door opening in 30 seconds**"
 	{
 		"chi"		"**大门30秒后开启 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Its Troll!!!**"
 	{
@@ -76,7 +76,7 @@
 	"**OutDoor opening in 25 seconds**"
 	{
 		"chi"		"**通往外界的大门25秒后开启 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**We must get the teleportcrystall to activate the teleporter**"
 	{
@@ -89,7 +89,7 @@
 	"**HOLD 20 SECONDS**"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**STAGE 1 CLEAR**"
 	{
@@ -107,7 +107,7 @@
 	{
 		"chi"		"**暗影束缚（跳上柱子角或在倒计时结束时原地大跳）**"
 		"ico"		"icon_fire"
-		"DoorCountdown"		"2"
+		"DoorCountDown"		"2"
 	}
 	"**Round Failed**"
 	{
@@ -125,11 +125,11 @@
 	{
 		"syncvalue"		"55304"
 	}
-	"**MAP BY TENSHI**"
+	"**Map by Tenshi**"
 	{
 		"chi"		"** **"
 	}
-	"**STAGE 1**"
+	"**Stage 1**"
 	{
 		"chi"		"** **"
 	}
@@ -154,6 +154,62 @@
 		"chi"		"** **"
 	}
 	"**DOOR OPENING IN 14 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**MAZEDOOR OPENING IN 30 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Teleport Crystal>**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD 45 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**DOOR OPENING IN 30 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**SHAKE WAVE**"
+	{
+		"chi"		"** **"
+	}
+	"**ATTRACT**"
+	{
+		"chi"		"** **"
+	}
+	"**OUTDOOR OPENING IN 40 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD 25 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**NUKE IN 10 SEC**"
+	{
+		"chi"		"** **"
+	}
+	"**NOW USE THE TELEPORT CRYSTAL**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUR FAILED**"
 	{
 		"chi"		"** **"
 	}
