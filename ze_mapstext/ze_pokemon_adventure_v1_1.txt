@@ -2,94 +2,99 @@
 {
 	"**** Map Made by DarkOgre! ****"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：DarkOgre! **"
 	}
 	"** Level 1: Saffron City **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关：红花市 **"
 	}
 	"** Wait the truck get out the way! **"
 	{
-		"chi"		"** **"
+		"chi"		"**等待卡车移动 **"
 	}
 	"** A player has adquired Ammo! **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：无限弹药！ **"
 	}
 	"** Computer is processing! **"
 	{
-		"chi"		"** **"
+		"chi"		"**计算机正在处理中 **"
 	}
 	"** A player has adquired Potion! **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：医疗 **"
 	}
 	"** Computer is having a malfunction. Attention keep distance!**"
 	{
-		"chi"		"** **"
+		"chi"		"**电脑出现故障.注意保持距离 **"
 	}
 	"** Hitmontop: Leave our gym, or else we will destroy you! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Hitmontop：离开我们的健身房.否则我们将毁灭你 **"
 	}
 	"** Hold the bedroom for 30 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown" "30"
 	}
 	"** Blissey is waiting you inside the Mart! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Blissey正在沃尔玛商城中等着你 **"
 	}
 	"** Dont let the zombies enter the Mart! **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让僵尸进入沃尔玛 **"
 	}
 	"** Blissey: Hello friend, Give me 15 seconds to open the gate for you!"
 	{
-		"chi"		"** **"
+		"chi"		"**Blissey：你好朋友.给我15秒.我将为你打开大门！ **"
+		"DoorCountDown" "15"
 	}
 	"** A player has adquired Gust! **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了神器：狂风！ **"
 	}
 	"** The path is blocked! What can we do now? **"
 	{
-		"chi"		"** **"
+		"chi"		"**道路被堵住了！我们现在应该怎么办？ **"
 	}
 	"** What noise is this? OMG Heatrans, hide before they kill you! **"
 	{
-		"chi"		"** **"
+		"chi"		"**这是什么声音?OMG Heatrans.在他炸掉道路前不要站在门后面的道路上 **"
 	}
 	"** Left Water elevator leaving in 25 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**左边电梯25秒后离开 **"
 	}
 	"** Right Water elevator leaving in 25 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**右边电梯25秒后离开 **"
 	}
 	"** Gym door closing in 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**健身房的大门15秒后关闭 **"
+		"DoorCountDown" "15"
 	}
 	"** Ash: Do you think you can beat me? Dont make me laugh! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Ash:你认为你能打败我吗？被逗我笑了！ **"
 	}
 	"** Ash: So... You are my new opponent! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Ash:所以.你是我的敌人！ **"
 	}
 	"** Ash: Go Pikachu!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Ash:去吧！皮卡丘！！！**"
 	}
 	"** Ash: Pikachu use Shock Wave!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Ash:皮卡丘使用冲击波！！ **"
+		"ico"   "icon_fire"
 	}
 	"** Ash: Pikachu use Thunder!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**Ash:皮卡丘使用雷霆！！ **"
+		"ico"   "icon_fire"
 	}
 }
