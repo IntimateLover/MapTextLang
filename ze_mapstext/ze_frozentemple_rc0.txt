@@ -64,27 +64,27 @@
 	}
 	"*** BLANKET FREEZE ***"
 	{
-		"chi"		"**寒冰笼罩**"
+		"chi"		"**寒冰笼罩（硬抗）**"
 		"ico"		"icon_fire"
 	}
 	"*** CRYSTALLIZE ***"
 	{
-		"chi"		"**冰晶**"
+		"chi"		"**冰晶(不要往出现蓝色雾气的地方走）**"
 		"ico"		"icon_fire"
 	}
 	"*** ICY WIND ***"
 	{
-		"chi"		"**寒风**"
+		"chi"		"**寒风（看光圈出现在什么地方.外圈是吸.里圈是推）**"
 		"ico"		"icon_fire"
 	}
 	"*** FROSTY BEAM ***"
 	{
-		"chi"		"**霜冻光线**"
+		"chi"		"**霜冻光线（光线快到身边的时候起跳）**"
 		"ico"		"icon_fire"
 	}
 	"*** CRYSTAL RAIN ***"
 	{
-		"chi"		"**水晶雨**"
+		"chi"		"**水晶雨（看天上躲避蓝色的小冰晶）**"
 		"ico"		"icon_fire"
 	}
 	"*** WHAT WAS THAT THING? ***"
