@@ -55,7 +55,6 @@
 	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
 	{
 		"chi"		"**你们有两分钟的时间击毙BOSS **"
-		"DoorCountDown"		"120"
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
 	{
@@ -165,7 +164,6 @@
 	">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<"
 	{
 		"chi"		"**你们有两分钟的时间击毙BOSS **"
-		"DoorCountDown"		"120"
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
 	{
