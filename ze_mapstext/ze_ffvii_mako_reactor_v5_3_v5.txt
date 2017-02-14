@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -60,6 +60,7 @@
 	"**Elevator is leaving in 10s**"
 	{
 		"chi"		"**>>电梯将在10S后离开<<**"
+		"DoorCountdown"		"10"
 	}
 	"** A player has adquired GRAVITY MATERIA **"
 	{
@@ -103,11 +104,11 @@
 	}
 	"**  110 SECONDS LEFT **"
 	{
-		"chi"		"**警告：剩余110秒**"
+		"chi"		"**warning:110 seconds left!!!**"
 	}
 	"**  100 SECONDS LEFT **"
 	{
-		"chi"		"**警告：剩余100秒**"
+		"chi"		"**warning:100 seconds left!!!**"
 	}
 	"**  90 SECONDS LEFT **"
 	{
@@ -120,7 +121,7 @@
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**大门将在35S后打开！去控制室寻找方法让门提前打开！！**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"**  70 SECONDS LEFT **"
 	{
@@ -129,7 +130,7 @@
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮！大门将在10S后开启！！**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**  60 SECONDS LEFT **"
 	{
@@ -273,7 +274,7 @@
 	}
 	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
 	{
-		"chi"		"**长江后浪推前浪！恭喜！你成功征服了本神图！**"
+		"chi"		"**恭喜！你成功征服了本神图！！！**"
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
@@ -313,7 +314,7 @@
 	}
 	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
 	{
-		"chi"		"**巴哈姆特恢复了300血.保持输出**"
+		"chi"		"**巴哈姆特回复了300HP**"
 	}
 	"** BAHAMUT HAS CAST FIRE! **"
 	{
@@ -359,11 +360,11 @@
 	{
 		"chi"		"** **"
 	}
-	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
+	"** NO MORE COWBELL BONUS **"
 	{
 		"chi"		"** **"
 	}
-	"** NO MORE COWBELL BONUS **"
+	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
 	{
 		"chi"		"** **"
 	}

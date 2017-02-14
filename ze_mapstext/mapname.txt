@@ -869,7 +869,7 @@
 		"chi"		"复仇行动"
 		"credit"		"400"
 	}
-	"ze_fartlocker_escape_fv"
+	"ze_fartlocker_escape"
 	{
 		"chi"		"陷阱逃生"
 		"credit"		"400"
@@ -1235,7 +1235,7 @@
 	{
 		"chi"		"隐秘神庙"
 	}
-	"ze_otakuroom_v5_3"
+	"ze_otakuroom_v5_5"
 	{
 		"chi"		"御宅房"
 	}
@@ -1469,7 +1469,11 @@
 	{
 		"chi"		"宠物小精灵冒险之旅"
 	}
-	"ze_S_A_M_a6"
+	"ze_s_a_m_a7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxiv_wanderers_palace_v2_11"
 	{
 		"chi"		"此地图暂无译名"
 	}

@@ -69,6 +69,7 @@
 	"<< 5 seconds to escape >>"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"5"
 	}
 	"<< nuke has been launched !!! >>"
 	{

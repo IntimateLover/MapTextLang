@@ -35,7 +35,7 @@
 	"** Hold the bedroom for 30 seconds! **"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"** Blissey is waiting you inside the Mart! **"
 	{
@@ -48,7 +48,7 @@
 	"** Blissey: Hello friend, Give me 15 seconds to open the gate for you!"
 	{
 		"chi"		"**Blissey：你好朋友.给我15秒.我将为你打开大门！ **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"** A player has adquired Gust! **"
 	{
@@ -73,7 +73,7 @@
 	"** Gym door closing in 15 seconds **"
 	{
 		"chi"		"**健身房的大门15秒后关闭 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"** Ash: Do you think you can beat me? Dont make me laugh! **"
 	{
@@ -90,11 +90,167 @@
 	"** Ash: Pikachu use Shock Wave!! **"
 	{
 		"chi"		"**Ash:皮卡丘使用冲击波！！ **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"** Ash: Pikachu use Thunder!! **"
 	{
 		"chi"		"**Ash:皮卡丘使用雷霆！！ **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+	}
+	"** Ash: Pikachu... Nooooo! **"
+	{
+		"chi"		"** **"
+	}
+	"** Flygon leaving in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombies detected! **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 2: Syphon Lab **"
+	{
+		"chi"		"** **"
+	}
+	"** Lasers will be disabled in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Blissey: Sorry, but the elevator does not work on this floor! Please take the stairs! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door will open in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Right door will open in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"**  Left door will open in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport will activate in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Seems like a Sigilyph is bloocking the way! We need to destroy him! **"
+	{
+		"chi"		"** **"
+	}
+	"** Sigilyph is using Psychic Attack! **"
+	{
+		"chi"		"** **"
+	}
+	"** Sigilyph is using Psychic Wave! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport is powering up! **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 More seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zapdos is using Thunder Shock! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zapdos is using Thunder Bolt! **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 3: Victory Road **"
+	{
+		"chi"		"** **"
+	}
+	"** Wailord leaving in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired Bicycle! **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired Pokeball! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold for 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zapdos is using Heal! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zapdos is using Thunder Wave! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold for 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Gate will open in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Gate will fully oppen in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Elite Door will open in 25 seconds!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Elite Door is open! You have 10 seconds to enter!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Rival: So you are my rival! Do you think you can beat me? **"
+	{
+		"chi"		"** **"
+	}
+	"** Rival: Glaceon, Jolteon, Umbreon and Vaporeon lets show them what we are capable of! **"
+	{
+		"chi"		"** **"
+	}
+	"** Glaceon used Blizzard! **"
+	{
+		"chi"		"** **"
+	}
+	"** Umbreon used Confuse Ray! **"
+	{
+		"chi"		"** **"
+	}
+	"** Jolteon used Thunder! **"
+	{
+		"chi"		"** **"
+	}
+	"** Ash is healing his Pokemons! **"
+	{
+		"chi"		"** **"
+	}
+	"** Vaporean used surf! **"
+	{
+		"chi"		"** **"
+	}
+	"** Rival: Noooooo! You have beat me again, I surrender! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIE DETECTED IN FINAL ROOM! YOU LOST! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zapdos is Using Zap Cannon! **"
+	{
+		"chi"		"** **"
 	}
 }

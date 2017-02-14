@@ -1,175 +1,33 @@
 "Console_T"
 {
-	"***Stage 1***"
+	"**MAZEDOOR OPENING IN 20 SEC**"
 	{
-		"chi"		"**第一关 **"
-	}
-	"**Player has picked up <Water Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：水魔法 **"
-	}
-	"**Door opening in 10 seconds**"
-	{
-		"chi"		"**大门10秒后打开 **"
-	}
-	"**Player has picked up <Lightning Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：雷电魔法 **"
-	}
-	"**Door breaking in 20 seconds**"
-	{
-		"chi"		"**大门20秒后打开 **"
 		"DoorCountDown"		"20"
-	}
-	"**5 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Player has picked up <Gravity Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：黑洞魔法 **"
-	}
-	"**Player has picked up <Tornado Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：旋风魔法 **"
-	}
-	"**Fence breaking in 30 seconds**"
-	{
-		"chi"		"**铁栅栏30秒后破碎 **"
-		"DoorCountDown"		"30"
-	}
-	"**Player has picked up <Heal Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：治疗魔法 **"
-	}
-	"**Window breaking in 20 seconds**"
-	{
-		"chi"		"**窗户20秒后破碎 **"
-		"DoorCountDown"		"20"
-	}
-	"**There seems a secret in the statue**"
-	{
-		"chi"		"**这两个石像似乎有什么秘密（转动两个石像）**"
-	}
-	"**You found the secret**"
-	{
-		"chi"		"**你发现了这个秘密 **"
-	}
-	"**Door opening in 20 seconds**"
-	{
-		"chi"		"**大门20秒后开启 **"
-		"DoorCountDown"		"20"
-	}
-	"**Door opening in 30 seconds**"
-	{
-		"chi"		"**大门30秒后开启 **"
-		"DoorCountDown"		"30"
-	}
-	"**Its Troll!!!**"
-	{
-		"chi"		"**是巨魔！！！ **"
-	}
-	"**Shake**"
-	{
-		"chi"		"**地动山摇 **"
-	}
-	"**OutDoor opening in 25 seconds**"
-	{
-		"chi"		"**通往外界的大门25秒后开启 **"
-		"DoorCountDown"		"25"
-	}
-	"**We must get the teleportcrystall to activate the teleporter**"
-	{
-		"chi"		"**我们必须得到传送晶体以激活传送阵 **"
-	}
-	"**We have got the teleportcrystall**"
-	{
-		"chi"		"**我们得到了传送晶体 **"
-	}
-	"**HOLD 20 SECONDS**"
-	{
-		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
-	}
-	"**STAGE 1 CLEAR**"
-	{
-		"chi"		"**第一关通过 **"
-	}
-	"**Player has picked up <Ultima Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：终极魔法 **"
-	}
-	"**Player has picked up <Earth Magic>**"
-	{
-		"chi"		"**一位玩家学会技能：土魔法 **"
-	}
-	"**Shadow**"
-	{
-		"chi"		"**暗影束缚（跳上柱子角或在倒计时结束时原地大跳）**"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"2"
-	}
-	"**Round Failed**"
-	{
-		"chi"		"**本关失败 **"
-	}
-	"**Zombie has picked up <Ice>**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombie has picked up <Gravity>**"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"55304"
-	}
-	"**Map by Tenshi**"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
 	}
 	"**GATE OPENING IN 15 SEC**"
 	{
-		"chi"		"** **"
-	}
-	"**5 SEC**"
-	{
-		"chi"		"** **"
-	}
-	"**MAZEDOOR OPENING IN 20 SEC**"
-	{
-		"chi"		"** **"
-	}
-	"**ACTIVATE THE CRYSTAL TOWER AND...BREAK THE INVERTED CRYSTAL TOWER**"
-	{
-		"chi"		"** **"
-	}
-	"**CRYSTAL ACTIVATED**"
-	{
-		"chi"		"** **"
+		"DoorCountDown"		"15"
 	}
 	"**DOOR OPENING IN 14 SEC**"
 	{
+		"DoorCountDown"		"14"
+	}
+	"**HOLD 45 SEC**"
+	{
+		"DoorCountDown"		"45"
 		"chi"		"** **"
 	}
 	"**MAZEDOOR OPENING IN 30 SEC**"
 	{
-		"chi"		"** **"
-	}
-	"**Player has picked up <Teleport Crystal>**"
-	{
-		"chi"		"** **"
-	}
-	"**HOLD 45 SEC**"
-	{
+		"DoorCountDown"		"30"
 		"chi"		"** **"
 	}
 	"**DOOR OPENING IN 30 SEC**"
+	{
+		"DoorCountDown"		"30"
+		"chi"		"** **"
+	}
+	"**Player has picked up <Teleport Crystal>**"
 	{
 		"chi"		"** **"
 	}

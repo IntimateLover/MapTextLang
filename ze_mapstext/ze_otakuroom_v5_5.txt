@@ -2,7 +2,7 @@
 {
 	"***Map by Tenshi***"
 	{
-		"chi"		"**地图制作：Tenshi 地图翻译：蓬莱山帅比♪ **"
+		"chi"		"**地图制作：Tenshi 地图翻译：蓬莱山帅比? **"
 	}
 	"***Inspiration comes from kz_otakuroom***"
 	{
@@ -302,37 +302,27 @@
 	{
 		"chi"		"** **"
 	}
-	"**Air leaves in 30 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**[Admin]Stage 3**"
-	{
-		"chi"		"** **"
-	}
-	"**全人类の绯想"
-	{
-		"chi"		"** **"
-	}
 	"**Map by Tenshi**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Tenshi 地图翻译：蓬莱山帅比♪ **"
 	}
 	"**Special Thanks:GemaYue , uuz , 银月筱瑶**"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：GemaYue , uuz , 银月筱瑶 **"
 	}
 	"**Stage 1**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"**Hold 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
+		"DoorCountDown"		"15"
 	}
 	"**Hold 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
 	"**5 seconds**"
 	{
@@ -340,19 +330,21 @@
 	}
 	"**Hold 35 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
+		"DoorCountDown"		"35"
 	}
 	"**Hold on 80 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住80秒 **"
+		"DoorCountDown"		"80"
 	}
 	"**The elevator is rising**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯正在上升 **"
 	}
 	"**Nuke in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹5秒后发射 **"
 	}
 	"**3**"
 	{
@@ -368,41 +360,150 @@
 	}
 	"**Round Complete**"
 	{
-		"chi"		"** **"
+		"chi"		"**本关通过 **"
 	}
 	"**Stage 2**"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"**Hold 15 seconds until the lid of rubbish bin opening**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒.直到垃圾桶打开盖子 **"
+		"DoorCountDown"		"15"
 	}
 	"**Jump into the rubbish bin**"
 	{
-		"chi"		"** **"
+		"chi"		"**跳进垃圾桶 **"
 	}
 	"**HOLD 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"**Wait 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**等待30秒 **"
+		"DoorCountDown"		"30"
 	}
 	"**Wall breaking in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁20秒后破碎 **"
+		"DoorCountDown"		"20"
 	}
 	"**Hold 40 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住40秒 **"
+		"DoorCountDown"		"40"
 	}
 	"**Go to the ClearRobot**"
 	{
-		"chi"		"** **"
+		"chi"		"**去到Clear机器人那里 **"
 	}
 	"**ClearRobot leaving in 8 seconds**"
+	{
+		"chi"		"**Clear机器人8秒后离开 **"
+	}
+	"**You failed**"
+	{
+		"chi"		"**你失败了 **"
+	}
+	"**Stage 3**"
+	{
+		"chi"		"**第三关 **"
+	}
+	"**Wait 15 seconds**"
+	{
+		"chi"		"**等待15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"**Hold 25 seconds**"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"**Teleport activated**"
+	{
+		"chi"		"**传送激活 **"
+	}
+	"**Jump into the screen**"
+	{
+		"chi"		"**跳进电脑屏幕里 **"
+	}
+	"**Gasu**"
+	{
+		"chi"		"**Gasu（按住W或S) **"
+	}
+	"**全人类の绯想夿**"
+	{
+		"chi"		"**全人类的绯想天**"
+	}
+	"**Sakai**"
+	{
+		"chi"		"** **"
+	}
+	"**Kanameishi**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold 10 seconds**"
+	{
+		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
+	}
+	"**[Admin]Stage 1**"
+	{
+		"chi"		"**管理员选择了第一关关 **"
+	}
+	"**[Admin]ZM**"
+	{
+		"chi"		"**管理员选择了ZM关 **"
+	}
+	"**[ZM]**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke in 3 mins**"
+	{
+		"chi"		"**核弹3分钟后发射 **"
+		"DoorCountDown"		"180"
+	}
+	"**Nuke in 2 mins**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke in 1 min**"
+	{
+		"chi"		"** **"
+	}
+	"**Round Failed**"
+	{
+		"chi"		"**关卡失败 **"
+	}
+	"**Air leaves in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**[Admin]Stage 3**"
+	{
+		"chi"		"** **"
+	}
+	"**Im defeated.Its impossable**"
+	{
+		"chi"		"** **"
+	}
+	"**全人类の绯想�?**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"73253"
+	}
+	"**[Admin]Stage 2**"
+	{
+		"chi"		"** **"
+	}
+	"**全人类の绯想"
 	{
 		"chi"		"** **"
 	}
