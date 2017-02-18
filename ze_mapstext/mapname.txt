@@ -970,7 +970,7 @@
 		"chi"		"浴室逃亡"
 		"credit"		"500"
 	}
-	"ze_serpentis_temple_b3"
+	"ze_serpentis_temple_v1_1_csgo"
 	{
 		"chi"		"美杜莎神庙"
 		"credit"		"800"
@@ -1409,7 +1409,7 @@
 	{
 		"chi"		"精灵塔"
 	}
-	"ze_floating_rocks_survival_csgo"
+	"ze_floating_rocks_survival_csgo_v2"
 	{
 		"chi"		"漂浮的城市"
 	}
@@ -1457,11 +1457,11 @@
 	{
 		"chi"		"最终幻想12：西沙"
 	}
-	"ze_project_alcaria_v1_2"
+	"ze_project_alcaria_v1_3"
 	{
 		"chi"		"阿尔卡利亚项目"
 	}
-	"ze_frozentemple_rc0"
+	"ze_frozentemple_rc1_1"
 	{
 		"chi"		"冰封神殿"
 	}
@@ -1471,10 +1471,54 @@
 	}
 	"ze_s_a_m_a7"
 	{
-		"chi"		"刀剑领域"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
-		"chi"		"最终幻想14：旅神圣域"
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_atix_panic_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tilex_ultimate_v2_10"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_floating_rocks_survival_csgo"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }

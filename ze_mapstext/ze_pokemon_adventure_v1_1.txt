@@ -99,46 +99,43 @@
 	}
 	"** Ash: Pikachu... Nooooo! **"
 	{
-		"chi"		"**Ash:皮卡丘...不！！！ **"
+		"chi"		"** **"
 	}
 	"** Flygon leaving in 15 seconds! **"
 	{
-		"chi"		"**沙漠蜻蜓15秒后离开！ **"
-		"DoorCountDown"		"15"
+		"chi"		"** **"
 	}
 	"** Zombies detected! **"
 	{
-		"chi"		"**检测到僵尸 **"
+		"chi"		"** **"
 	}
 	"** Level 2: Syphon Lab **"
 	{
-		"chi"		"**第二关：实验室 **"
+		"chi"		"** **"
 	}
 	"** Lasers will be disabled in 15 seconds! **"
 	{
-		"chi"		"**激光将在15秒后被停用！ **"
-		"DoorCountDown"		"15"
+		"chi"		"** **"
 	}
 	"** Blissey: Sorry, but the elevator does not work on this floor! Please take the stairs! **"
 	{
-		"chi"		"**Blissey:对不起，电梯不在这层工作！请走楼梯！ **"
+		"chi"		"** **"
 	}
 	"** Door will open in 20 seconds! **"
 	{
-		"chi"		"**大门20秒后打开 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"** Right door will open in 15 seconds! **"
 	{
-		"chi"		"**右边门将会在15秒后打开 **"
+		"chi"		"** **"
 	}
 	"**  Left door will open in 15 seconds! **"
 	{
-		"chi"		"**左边门将会在15秒后打开 **"
+		"chi"		"** **"
 	}
 	"** Teleport will activate in 15 seconds **"
 	{
-		"chi"		"**传送将会在15秒后启动 **"
+		"chi"		"** **"
 	}
 	"** Seems like a Sigilyph is bloocking the way! We need to destroy him! **"
 	{
@@ -146,7 +143,7 @@
 	}
 	"** Sigilyph is using Psychic Attack! **"
 	{
-		"chi"		"**sigilyph使用心灵攻击！ **"
+		"chi"		"** **"
 	}
 	"** Sigilyph is using Psychic Wave! **"
 	{
@@ -154,108 +151,106 @@
 	}
 	"** Teleport is powering up! **"
 	{
-		"chi"		"**传送启动 **"
+		"chi"		"** **"
 	}
 	"** 5 More seconds! **"
 	{
-		"chi"		"**5秒 **"
+		"chi"		"** **"
 	}
 	"** Zapdos is using Thunder Shock! **"
 	{
-		"chi"		"**闪电鸟使用雷电冲击！ **"
+		"chi"		"** **"
 	}
 	"** Zapdos is using Thunder Bolt! **"
 	{
-		"chi"		"**闪电鸟使用雷电！ **"
+		"chi"		"** **"
 	}
 	"** Level 3: Victory Road **"
 	{
-		"chi"		"**第三关：胜利之路 **"
+		"chi"		"** **"
 	}
 	"** Wailord leaving in 15 seconds! **"
 	{
-		"chi"		"**吼鲸王15秒后离开 **"
-		"DoorCountDown"		"15"
+		"chi"		"** **"
 	}
 	"** A player has adquired Bicycle! **"
 	{
-		"chi"		"**一位玩家拿起了自行车 **"
+		"chi"		"** **"
 	}
 	"** A player has adquired Pokeball! **"
 	{
-		"chi"		"**一位玩家拿起了精灵球（火神器） **"
+		"chi"		"** **"
 	}
 	"** Hold for 20 seconds! **"
 	{
-		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"** Zapdos is using Heal! **"
 	{
-		"chi"		"**闪电鸟使用恢复 **"
+		"chi"		"** **"
 	}
 	"** Zapdos is using Thunder Wave! **"
 	{
-		"chi"		"**闪电鸟使用雷电波！ **"
+		"chi"		"** **"
 	}
 	"** Hold for 15 seconds! **"
 	{
-		"chi"		"**守住15秒 **"
+		"chi"		"** **"
 	}
 	"** Gate will open in 20 seconds! **"
 	{
-		"chi"		"**门将在20秒后打开！ **"
+		"chi"		"** **"
 	}
 	"** Gate will fully oppen in 20 seconds! **"
 	{
-		"chi"		"**门20秒后完全打开 **"
+		"chi"		"** **"
 	}
 	"** Elite Door will open in 25 seconds!! **"
 	{
-		"chi"		"**精英才能进入的门25秒后打开 **"
+		"chi"		"** **"
 	}
 	"** Elite Door is open! You have 10 seconds to enter!! **"
 	{
-		"chi"		"**精英才能进入的门是开放的！你有10秒的时间进入！！ **"
+		"chi"		"** **"
 	}
 	"** Rival: So you are my rival! Do you think you can beat me? **"
 	{
-		"chi"		"**竞争对手：所以你就是我的对手！你认为你能打败我吗？ **"
+		"chi"		"** **"
 	}
 	"** Rival: Glaceon, Jolteon, Umbreon and Vaporeon lets show them what we are capable of! **"
 	{
-		"chi"		"**竞争对手：Glaceon、Jolteon、Umbreon和Vaporeon展示我们的能力！ **"
+		"chi"		"** **"
 	}
 	"** Glaceon used Blizzard! **"
 	{
-		"chi"		"**Glaceon使用暴雪! **"
+		"chi"		"** **"
 	}
 	"** Umbreon used Confuse Ray! **"
 	{
-		"chi"		"**Umbreon使用迷惑 **"
+		"chi"		"** **"
 	}
 	"** Jolteon used Thunder! **"
 	{
-		"chi"		"**Jolteon使用雷! **"
+		"chi"		"** **"
 	}
 	"** Ash is healing his Pokemons! **"
 	{
-		"chi"		"**Ash治愈了他的精灵 **"
+		"chi"		"** **"
 	}
 	"** Vaporean used surf! **"
 	{
-		"chi"		"**vaporean使用波浪！ **"
+		"chi"		"** **"
 	}
 	"** Rival: Noooooo! You have beat me again, I surrender! **"
 	{
-		"chi"		"**竞争对手：noooooo！你又打败了我，我投降了！ **"
+		"chi"		"** **"
 	}
 	"** ZOMBIE DETECTED IN FINAL ROOM! YOU LOST! **"
 	{
-		"chi"		"**最终房间检测到僵尸！你失败了！ **"
+		"chi"		"** **"
 	}
 	"** Zapdos is Using Zap Cannon! **"
 	{
-		"chi"		"**闪电鸟使用致命一击! **"
+		"chi"		"** **"
 	}
 }
