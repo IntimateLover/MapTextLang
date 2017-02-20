@@ -135,6 +135,7 @@
 	"*** Snake come in 25 seconds ***"
 	{
 		"chi"		"**蛇将在25秒后到来 **"
+		"DoorCountdown"		"25"
 	}
 	"*** HOLD HERE ***"
 	{
@@ -285,6 +286,7 @@
 	"*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"*** GOOD JOB ! YOU DID IT ! ***"
 	{
@@ -317,5 +319,14 @@
 	"*** DOOR OPEN IN 30 SECONDS ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
+	}
+	"*** DOORS OPEN IN 20 SECONDS ***"
+	{
+		"DoorCountdown"		"20"
+	}
+	"*** C4 EXPLODE IN 25 SECONDS ***"
+	{
+		"DoorCountdown"		"25"
 	}
 }
