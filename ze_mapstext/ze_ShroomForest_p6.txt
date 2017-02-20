@@ -224,7 +224,7 @@
 	}
 	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
 	{
-		"chi"		"**一位玩家拿起了终极武器 **"
+		"chi"		"**一位玩家拿起了终极武器 神器:终极 效果:范围秒杀僵尸 **"
 	}
 	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
 	{
