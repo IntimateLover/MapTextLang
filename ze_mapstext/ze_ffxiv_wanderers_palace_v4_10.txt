@@ -1283,38 +1283,43 @@
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**天坠**"
+		"chi"		"**蔽日天坠（4个角落里会有一个角落是安全的，往安全的地方走）**"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**电**"
+		"chi"		"**暗影核爆（蹲下）**"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
-		"chi"		"**暴风之翼**"
+		"chi"		"**暴风之翼（站在中间等三秒，会有两个风柱消失.之后去没消失的风柱里按住空格）**"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**老司机开车**"
+		"chi"		"**龙车来袭（站在中间等2秒.会出现3个龙车.往没有龙车的地方走）**"
+		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"
 	{
-		"chi"		"** **"
+		"chi"		"**流沙 **"
 	}
 	"*** Dark Bahamut is blocking the road ***"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗巴哈姆特挡住了开关 **"
 	}
 	"***Ultimate Akh Morn***"
 	{
-		"chi"		"** **"
+		"chi"		"**千万耀斑(会出现5次闪光.奶看着血量开） **"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate CLEAR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最终关卡通过 **"
 	}
 	"*** Armys Paeon ***"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药 **"
 	}
 }
