@@ -353,6 +353,7 @@
 	"**BACK TO THE CENTRE OF THE HALL IMMEDIATELY!**"
 	{
 		"chi"		"**立即回到大厅中央！ **"
+		"ico"		"icon_fire"
 	}
 	"**LETS GET CLOSE TO THE CORE AND MAKE IT WORK**"
 	{
@@ -405,7 +406,8 @@
 	}
 	"**GRAVITY**"
 	{
-		"chi"		"**黑洞 **"
+		"chi"		"**黑洞(按住S） **"
+		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE LEFT OF THE HALL**"
 	{
