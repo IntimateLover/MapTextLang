@@ -865,7 +865,7 @@
 	"**The bridge will open in 15 seconds**"
 	{
 		"chi"		"**路将在15秒后开放 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"A player picked up Force Speed"
 	{
@@ -898,7 +898,7 @@
 	"**The doors will open in 15 seconds**"
 	{
 		"chi"		"**门将会在15秒后打开 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"**The doors will open in 5 seconds**"
 	{
@@ -919,7 +919,7 @@
 	"**Destroy the barricade 15 second**"
 	{
 		"chi"		"**障碍物将会在15秒后打破 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"**Destroy the barricade 5 second**"
 	{
@@ -928,7 +928,7 @@
 	"**The palace doors will open in 30 seconds**"
 	{
 		"chi"		"**皇宫大门将会在30秒后打开，坚持住！ **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
@@ -941,12 +941,12 @@
 	"**Destroy the barricade in 20 second**"
 	{
 		"chi"		"**障碍物将会在20秒后被爆破 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"**Last door will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将会在30秒后打开 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"**FALL BACK**"
 	{
@@ -955,7 +955,7 @@
 	"**Fall back close door in 20 second**"
 	{
 		"chi"		"**最后的大门将会在20秒后关闭，坚持住 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"**Level 1 is complete**"
 	{
@@ -980,12 +980,12 @@
 	"**The doors will open in 30 seconds**"
 	{
 		"chi"		"**门将会在30秒后打开 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"**The droids will be killed in 30 seconds**"
 	{
 		"chi"		"**机器人将会在30秒后被击溃 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"**The droids will be killed in 5 seconds**"
 	{
@@ -1002,12 +1002,12 @@
 	"**The droids will be killed in 20 seconds**"
 	{
 		"chi"		"**机器人将会在20秒后被击溃 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"**The droids will be killed in 25 seconds**"
 	{
 		"chi"		"**机器人将会在25秒后被击溃 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"**The hangar doors will open in 20 seconds**"
 	{
@@ -1048,7 +1048,7 @@
 	"**The bridge will open in 25 seconds**"
 	{
 		"chi"		"**通往大桥的道路将会在25秒后开放  **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"**Fall back! The bridge has closed**"
 	{
@@ -1073,7 +1073,7 @@
 	"*The droids will be killed in 20 seconds*"
 	{
 		"chi"		"**机器人将会在20秒后被击溃 **"
-		"DoorCountDown" "20"
+		"DoorCountDown"		"20"
 	}
 	"*Droids cover the vicegerent. Capture him!*"
 	{
@@ -1086,12 +1086,12 @@
 	"*The doors will open in 15 seconds*"
 	{
 		"chi"		"**大门将会在15秒后打开 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"*Fall back door close in 15 second*"
 	{
 		"chi"		"**最后的大门将会在15秒后关闭 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"**Darth maul dead**"
 	{
@@ -1116,17 +1116,17 @@
 	"Third door will open in 10 seconds"
 	{
 		"chi"		"**第三道门10秒后打开 **"
-		"DoorCountDown" "10"
+		"DoorCountDown"		"10"
 	}
 	"Second door will open in 10 seconds"
 	{
 		"chi"		"**第二道门10秒后打开 **"
-		"DoorCountDown" "10"
+		"DoorCountDown"		"10"
 	}
 	"Last door will open in 40 seconds"
 	{
 		"chi"		"**最后一道门40秒后打开 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"AFK TELEPORT 5 IN SECOND"
 	{
@@ -1143,17 +1143,17 @@
 	"**First door will open in 45 seconds**"
 	{
 		"chi"		"**第一扇门将会在45秒后打开 **"
-		"DoorCountDown" "45"
+		"DoorCountDown"		"45"
 	}
 	"Second door will open in 15 seconds"
 	{
 		"chi"		"**第二扇门将会在15秒后打开 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	"Third door will open in 30 seconds"
 	{
 		"chi"		"**第三扇门将会在30秒后打开 **"
-		"DoorCountDown" "30"
+		"DoorCountDown"		"30"
 	}
 	"**Level 5 is complete**"
 	{
@@ -1186,5 +1186,101 @@
 	"AFK TELEPORT IN 10 SECOND"
 	{
 		"chi"		"**挂机玩家10秒后传送  **"
+	}
+	"Boss fight in 25 second"
+	{
+		"chi"		"** **"
+	}
+	"Boss fight in 10 second"
+	{
+		"chi"		"** **"
+	}
+	"Boss fight in 5 second"
+	{
+		"chi"		"** **"
+	}
+	"Boss Fight"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE  GRIP"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE PUSH"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE ANGER"
+	{
+		"chi"		"** **"
+	}
+	"**The wall will explode in 30 second**"
+	{
+		"chi"		"** **"
+	}
+	"The ship will fly away in 35 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Jumping on platform"
+	{
+		"chi"		"** **"
+	}
+	"**You completed Level 4**"
+	{
+		"chi"		"** **"
+	}
+	"**Level changes to EPIC**"
+	{
+		"chi"		"** **"
+	}
+	"FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE THUNDER"
+	{
+		"chi"		"** **"
+	}
+	"RATHER!!!!!!! Press button!!!!"
+	{
+		"chi"		"** **"
+	}
+	"RUN!!!! RUN!!!! RUN!!!!!!  The wal willl explode in 15 second"
+	{
+		"chi"		"** **"
+	}
+	"The magnetic field will destroyed in 30 second"
+	{
+		"chi"		"** **"
+	}
+	"The teleport will earn in 25 second"
+	{
+		"chi"		"** **"
+	}
+	"The teleport will earn in 5 second"
+	{
+		"chi"		"** **"
+	}
+	"FALL BACK"
+	{
+		"chi"		"** **"
+	}
+	"Shoot in middle the station of droids!"
+	{
+		"chi"		"** **"
+	}
+	"Good station explode! Shoot ZM!"
+	{
+		"chi"		"** **"
+	}
+	"Teleport activates in 10 second"
+	{
+		"chi"		"** **"
+	}
+	"OMG! It is ship of Darth Maul!"
+	{
+		"chi"		"** **"
 	}
 }

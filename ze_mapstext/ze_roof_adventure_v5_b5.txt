@@ -950,10 +950,6 @@
 	{
 		"chi"		"** **"
 	}
-	"***Zombies are in win-room,level failed!***"
-	{
-		"chi"		"** **"
-	}
 	"***Great!Hold for 25s!***"
 	{
 		"chi"		"** **"
@@ -1002,7 +998,15 @@
 	{
 		"chi"		"** **"
 	}
+	"***A human has picked up unlimited hegrenade!***"
+	{
+		"chi"		"** **"
+	}
 	"***15s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies are in win-room,level failed!***"
 	{
 		"chi"		"** **"
 	}
@@ -1019,10 +1023,6 @@
 		"chi"		"** **"
 	}
 	"***60s left!***"
-	{
-		"chi"		"** **"
-	}
-	"***A human has picked up unlimited hegrenade!***"
 	{
 		"chi"		"** **"
 	}

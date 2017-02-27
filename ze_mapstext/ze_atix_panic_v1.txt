@@ -40,4 +40,24 @@
 	{
 		"chi"		"** **"
 	}
+	"++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++"
+	{
+		"chi"		"** **"
+	}
+	"++ HELICOPTER IS LEAVING ++"
+	{
+		"chi"		"** **"
+	}
+	"++ NUKE IN 10 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ 15 seconds to choose ++"
+	{
+		"chi"		"** **"
+	}
+	"++ Wrong button! ++"
+	{
+		"chi"		"** **"
+	}
 }

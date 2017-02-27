@@ -149,11 +149,11 @@
 	}
 	"**ACTIVATE THE CRYSTAL TOWER AND...BREAK THE INVERTED CRYSTAL TOWER**"
 	{
-		"chi"		"**激活水晶塔 **"
+		"chi"		"**激活水晶塔并破坏倒置的水晶**"
 	}
 	"**CRYSTAL ACTIVATED**"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶塔已被激活**"
 	}
 	"**DOOR OPENING IN 14 SEC**"
 	{
