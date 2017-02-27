@@ -58,46 +58,46 @@
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
 	{
-		"chi"		"**时间结束后地狱将不朽并释放僵尸 **"
+		"chi"		"**时间结束后NARAKA将不会被杀死并释放僵尸 **"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  93 ###"
 	{
-		"chi"		"**随即技能-冻结之风 **"
+		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  33 ###"
 	{
-		"chi"		"**随即技能-冻结之风 **"
+		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  81 ###"
 	{
-		"chi"		"**随即技能-冻结之风 **"
+		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FIRE SKILL CASTING  17 ###"
 	{
-		"chi"		"**随即技能-毁灭之火 **"
+		"chi"		"**随机技能-毁灭之火 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FIRE SKILL CASTING  77 ###"
 	{
-		"chi"		"**随即技能-毁灭之火  **"
+		"chi"		"**随机技能-毁灭之火  **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FIRE SKILL CASTING  36 ###"
 	{
-		"chi"		"**随即技能-毁灭之火 **"
+		"chi"		"**随机技能-毁灭之火 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  29 ###"
 	{
-		"chi"		"**随即技能-冻结之风 **"
+		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM COME CLOSER CASTING  68 ###"
 	{
-		"chi"		"**随即技能-黑洞篡夺 **"
+		"chi"		"**随机技能-黑洞篡夺 **"
 		"ico"		"icon_fire"
 	}
 	"### YOU CAN BE SURE ###"
@@ -167,7 +167,7 @@
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
 	{
-		"chi"		"**时间结束后地狱将不朽并释放僵尸 **"
+		"chi"		"**时间结束后NARAKA将不会被杀死并释放僵尸 **"
 	}
 	"lll NARAKA USES PHYSICAL ATTACK lll"
 	{
@@ -185,7 +185,7 @@
 	}
 	"III NARAKA HAS SPAWNED HIS GUARDS III"
 	{
-		"chi"		"**NARAKA叫醒了他的守卫 **"
+		"chi"		"**NARAKA叫醒了他的狗 **"
 	}
 	"III NARAKA IS THROWING SARIN BARREL III"
 	{
@@ -215,12 +215,12 @@
 	}
 	"### RANDOM COME CLOSER CASTING   29 ###"
 	{
-		"chi"		"**随即技能-黑洞篡夺 **"
+		"chi"		"**随机技能-黑洞篡夺 **"
 		"ico"		"icon_fire"
 	}
 	"### RANDOM FIRE SKILL CASTING  25 ###"
 	{
-		"chi"		"**随即技能-毁灭之火 **"
+		"chi"		"**随机技能-毁灭之火 **"
 		"ico"		"icon_fire"
 	}
 	"### CONGRATULATION YOU WON THE MAP ###"
@@ -265,15 +265,18 @@
 	}
 	"### FREEZING WIND SKILL CASTING  93 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
 	}
 	"### COME CLOSER CASTING   29 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-暗影撺掇 **"
+		"ico"		"icon_fire"
 	}
 	"### FREEZING WIND SKILL CASTING  81 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火 **"
+		"ico"		"icon_fire"
 	}
 	"###  FIRE SKILL CASTING  43 ###"
 	{
@@ -281,22 +284,25 @@
 	}
 	"### COME CLOSER CASTING  68 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-暗影撺掇 **"
+		"ico"		"icon_fire"
 	}
 	"### FREEZING WIND SKILL CASTING  29 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
 	}
 	"### FIRE SKILL CASTING  25 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火 **"
+		"ico"		"icon_fire"
 	}
 	">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须在2分20秒内杀死BOSS **"
 	}
 	"### ACTIVE THE C4 TO DESTROY THE BRIDGE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**C4即将摧毁桥梁-守住 **"
 	}
 }
