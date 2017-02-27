@@ -55,7 +55,7 @@
 	"*** DOOR OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**门20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** HealAmmo Snake has been picked ***"
 	{
@@ -72,12 +72,12 @@
 	"*** DOOR OPEN IN 25 SECONDS ***"
 	{
 		"chi"		"**门25秒后打开 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** TELEPORTATION IN 30 SECONDS ***"
 	{
 		"chi"		"**30秒后传送 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** GO GO GO ! Enter in the second room ! ***"
 	{
@@ -95,7 +95,7 @@
 	"*** The passage will be open in 10 seconds ***"
 	{
 		"chi"		"**该通道将在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** SHOOT MEDUSA !!! ***"
 	{
@@ -105,7 +105,7 @@
 	"*** DOOR CLOSE IN 5 SECONDS ! COVER ! ***"
 	{
 		"chi"		"**门5秒后关闭 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** NICE JOB ! YOU WON STAGE 1 ! ***"
 	{
@@ -126,7 +126,7 @@
 	"*** HOLD 25 SECONDS ***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** FALL BACK ***"
 	{
@@ -152,7 +152,7 @@
 	"*** The portal is open in 30 seconds ***"
 	{
 		"chi"		"**门30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** PORTAL IS READY ! FALL BACK ! ***"
 	{
@@ -165,17 +165,17 @@
 	"*** DOOR CLOSE IN 10 SECONDS ***"
 	{
 		"chi"		"**大门10秒后关闭 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** GET BACK AND COVER ! EXIT WILL BE OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**回来守住！后退的路20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** COVER ! DOOR CLOSE IN 15 SECONDS ***"
 	{
 		"chi"		"**守住！大门15秒后关闭 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** KILL REMAINING ZOMBIES ***"
 	{
@@ -192,7 +192,7 @@
 	"*** DOOR OPEN IN 15 SCONDS ***"
 	{
 		"chi"		"**门15秒后打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Flames are going to stop in 15 seconds ***"
 	{
@@ -213,7 +213,7 @@
 	"*** DOOR OPEN IN 10 SECONDS ***"
 	{
 		"chi"		"**门10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** DOOR OPEN ! FALL BACK ! ***"
 	{
@@ -222,7 +222,7 @@
 	"*** HOLD HERE 25 SECONDS ***"
 	{
 		"chi"		"**在这里守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -231,7 +231,7 @@
 	"*** HOLD HERE 15 SECONDS ***"
 	{
 		"chi"		"**在这里守住15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** DOOR OPEN ! ***"
 	{
@@ -240,7 +240,7 @@
 	"*** DOORS CLOSE IN 15 SECONDS ***"
 	{
 		"chi"		"**门15秒后关闭 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Good job ! STAGE 4 Unlock ***"
 	{
@@ -257,17 +257,17 @@
 	"*** FALL BACK IN 15 SECONDS ***"
 	{
 		"chi"		"**15秒后撤退 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** TELEPORT IN 25 SECONDS ***"
 	{
 		"chi"		"**在25秒钟后传送 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** ELEVADOR WILL MOVE IN 15 SECONDS ***"
 	{
 		"chi"		"**升降梯15秒后上升 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** SHOOT BEHIND YOU ! DOOR OPEN IN 10 SECONDS ***"
 	{
@@ -317,6 +317,214 @@
 	"*** DOOR OPEN IN 30 SECONDS ***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
+	}
+	"*** A sacrifice is necessary to open this passage ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR CLOSE IN 5 SECONDS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 2 LOADED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COVER ! GET TO THE DOOR ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COVER 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AFK TELE IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NEXT DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** First doors will be close in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS CLOSE IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON STAGE 2 ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 3 LOADED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** C4 EXPLODE IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** C4 EXPLODE IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPENS IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD HERE 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON STAGE 3 ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 4 LOADED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD HERE 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORT IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPENS IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NUKE IN 7 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL NUKE IN 20 SECONDS ! KILL HIM ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Get in the portal ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Impressive ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Very impressive ***"
+	{
+		"chi"		"** **"
+	}
+	"*** But Its too early for celebrating ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You are no match for her ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 5 LOADED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET ON THE MIDDLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RUN !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Its the Artefact ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is the reason we came here ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Take it and dont lose it or your mission will be failed ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** C4 EXPLODE IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HELICOPTER MOVE IN 10 SECONDS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU FORGOT THE ARTIFACT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MISSION FAILED ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ARTIFACT DETECTED ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE MISSION WAS A SUCCESS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON THE MAP ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PUSH REMAINING ZOMBIES ***"
+	{
+		"chi"		"** **"
 	}
 }

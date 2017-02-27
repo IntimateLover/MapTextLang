@@ -207,7 +207,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -304,5 +304,25 @@
 	"### ACTIVE THE C4 TO DESTROY THE BRIDGE ###"
 	{
 		"chi"		"**C4即将摧毁桥梁-守住 **"
+	}
+	"### FIRE SKILL CASTING  77 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  36 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  17 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FREEZING WIND SKILL CASTING  33 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  63 ###"
+	{
+		"chi"		"** **"
 	}
 }
