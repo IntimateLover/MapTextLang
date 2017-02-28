@@ -300,7 +300,7 @@
 	}
 	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这张地图是基于Kaemon和luffaren制作的mg_serpentis_temple制作的 **"
 	}
 	"*** Many assets from the original map were used ***"
 	{
@@ -321,210 +321,220 @@
 	}
 	"*** A sacrifice is necessary to open this passage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**为了打开这条通道，牺牲是必要的（一位玩家跳到中间的平台上） **"
 	}
 	"*** Hold 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒 **"
 	}
 	"*** DOOR CLOSE IN 5 SECONDS ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后关闭 **"
 	}
 	"*** YOU WON STAGE 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一阶段完成 **"
 	}
 	"*** STAGE 2 LOADED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二阶段加载中 **"
 	}
 	"*** COVER ! GET TO THE DOOR ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！去门口！ **"
 	}
 	"*** COVER 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
 	}
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后打开 **"
+		"DoorCountDown"		"20"
 	}
 	"*** AFK TELE IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家5秒后传送 **"
 	}
 	"*** NEXT DOOR OPEN IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一扇大门10秒后打开 **"
 	}
 	"*** First doors will be close in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一扇门5秒后关闭 **"
 	}
 	"*** DOORS CLOSE IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门10秒后关闭 **"
 	}
 	"*** YOU WON STAGE 2 ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二阶段完成 **"
 	}
 	"*** STAGE 3 LOADED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三阶段加载 **"
 	}
 	"*** C4 EXPLODE IN 25 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在25秒后爆炸 **"
+		"DoorCountDown"		"25"
 	}
 	"*** C4 EXPLODE IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在30秒后爆炸 **"
+		"DoorCountDown"		"30"
 	}
 	"*** DOOR OPENS IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门10秒后打开 **"
 	}
 	"*** DOOR OPEN IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门15秒后打开 **"
 	}
 	"*** Hold 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"*** HOLD HERE 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
 	"*** YOU WON STAGE 3 ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三阶段完成 **"
 	}
 	"*** STAGE 4 LOADED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四阶段加载 **"
 	}
 	"*** STAGE 4 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四阶段 **"
 	}
 	"*** HOLD HERE 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里20秒 **"
+		"DoorCountDown"		"20"
 	}
 	"*** TELEPORT IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送30秒后启动 **"
+		"DoorCountDown"		"30"
 	}
 	"*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯20秒后离开 **"
+		"DoorCountDown"		"20"
 	}
 	"*** DOOR OPENS IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门15秒后打开 **"
 	}
 	"*** NUKE IN 7 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹7秒后发射 **"
 	}
 	"*** FINAL NUKE IN 20 SECONDS ! KILL HIM ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹20秒后发射！杀了他 **"
 	}
 	"*** Get in the portal ***"
 	{
-		"chi"		"** **"
+		"chi"		"**进入门里 **"
 	}
 	"*** Impressive ***"
 	{
-		"chi"		"** **"
+		"chi"		"**令人印象深刻 **"
 	}
 	"*** Very impressive ***"
 	{
-		"chi"		"** **"
+		"chi"		"**非常令人印象深刻 **"
 	}
 	"*** But Its too early for celebrating ***"
 	{
-		"chi"		"** **"
+		"chi"		"**但庆祝还为时过早 **"
 	}
 	"*** You are no match for her ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你不是她的对手 **"
 	}
 	"*** STAGE 5 LOADED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五阶段加载 **"
 	}
 	"*** STAGE 5 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**阶段五 **"
 	}
 	"*** GET ON THE MIDDLE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**走中间 **"
 	}
 	"*** RUN !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑 **"
 	}
 	"*** DOORS OPEN IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门10秒后开启 **"
 	}
 	"*** Its the Artefact ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**她的宝藏 **"
 	}
 	"*** This is the reason we came here ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是我们来到这里的原因！ **"
 	}
 	"*** Take it and dont lose it or your mission will be failed ***"
 	{
-		"chi"		"** **"
+		"chi"		"**拿着它，不要丢了，否则你的任务将会失败 **"
 	}
 	"*** TELEPORT IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送10秒后启动 **"
 	}
 	"*** C4 EXPLODE IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在20秒后爆炸 **"
+		"DoorCountDown"		"20"
 	}
 	"*** FALL BACK !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！ **"
 	}
 	"*** HELICOPTER MOVE IN 10 SECONDS ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机20秒后离开 **"
+		"DoorCountDown"		"20"
 	}
 	"*** YOU FORGOT THE ARTIFACT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你忘了水晶 **"
 	}
 	"*** MISSION FAILED ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**任务失败！ **"
 	}
 	"*** ARTIFACT DETECTED ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到水晶！ **"
 	}
 	"*** THE MISSION WAS A SUCCESS ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**任务成功了！ **"
 	}
 	"*** YOU WON THE MAP ! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你通关了本地图！你是当之无愧的屠蛇英雄！ **"
 	}
 	"*** PUSH REMAINING ZOMBIES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**将剩余的僵尸推下去 **"
 	}
 }
