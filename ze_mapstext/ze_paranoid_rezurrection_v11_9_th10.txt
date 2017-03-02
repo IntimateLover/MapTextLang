@@ -34,7 +34,7 @@
 	}
 	"** LETS START THE SELECCION PROCESS! **"
 	{
-		"chi"		"** **"
+		"chi"		"**开始选择模式 **"
 	}
 	"[PLAYING] Blarsa : Garden Party"
 	{
@@ -63,7 +63,7 @@
 	}
 	"** Every random walls from first labyrinth will be removed in 15s**"
 	{
-		"chi"		"**第一迷宫的墙壁将在15秒后被移除 **"
+		"chi"		"**第一迷宫的墙壁将在15秒后被全部移除 **"
 	}
 	"**Doors opening**"
 	{
@@ -71,7 +71,7 @@
 	}
 	"**Teleporting all people of first labyrinth in 20 s**"
 	{
-		"chi"		"**20秒后传送所有人至第一个迷宫 **"
+		"chi"		"**20秒后传送第一迷宫的所有人 **"
 	}
 	"** Someone has reached the core walls **"
 	{
@@ -83,7 +83,7 @@
 	}
 	"** Every random walls from second labyrinth will be removed in 20s**"
 	{
-		"chi"		"**第二迷宫的墙壁将在20秒后被移除 **"
+		"chi"		"**第二迷宫的墙壁将在20秒后被全部移除 **"
 	}
 	"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
 	{
@@ -112,7 +112,7 @@
 	}
 	"*** Finish mode ** 1 shoot 1 kill!**"
 	{
-		"chi"		"**完成模式：1杀1死 **"
+		"chi"		"** 完成模式 ** 开始刷分吧 **"
 	}
 	"**Lift leaving in 7 s**"
 	{
@@ -153,6 +153,7 @@
 	"** NUKE in 60 seconds **"
 	{
 		"chi"		"**60秒后发射核弹 **"
+		"DoorCountDown" "60"
 	}
 	"** NUKE IN 40 SECONDS **"
 	{
