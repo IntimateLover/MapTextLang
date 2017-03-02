@@ -144,7 +144,7 @@
 	}
 	"**Juggernaut has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**机械狗被拿起 **"
 	}
 	"**Flamethrower has been picked**"
 	{
@@ -165,23 +165,23 @@
 	}
 	"[PLAYING] Jim Carrey : Cuban Pete"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Jim Carrey : Cuban Pete **"
 	}
 	"** RANDOM! Red dot will choose! **"
 	{
-		"chi"		"** **"
+		"chi"		"**这是随机的！红点将会选择！ **"
 	}
 	"**Gandalf staff has been picked!**"
 	{
-		"chi"		"** **"
+		"chi"		"**甘道夫法杖被拿起 **"
 	}
 	"**Titan monster has entered the game**"
 	{
-		"chi"		"** **"
+		"chi"		"**泰坦怪物已经进入了游戏 **"
 	}
 	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
 	{
-		"chi"		"** **"
+		"chi"		"**暗影与火的怪物已经诞生 **"
 	}
 	"**Temporal invulnerability weapon has been picked**"
 	{
@@ -189,23 +189,23 @@
 	}
 	"***Earendil light has been picked***"
 	{
-		"chi"		"** **"
+		"chi"		"**埃兰迪尔光被拿起 **"
 	}
 	"**Global trigger activated: invert controls**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体属性触发：反向控制 **"
 	}
 	"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
 	{
-		"chi"		"** **"
+		"chi"		"**无聊的一轮…全部CT**所有人20秒后传送到小白房 **"
 	}
 	"**Global trigger activated: slippery ground in 5s**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体属性触发：5秒后地面变滑 **"
 	}
 	"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸BOSS！母体僵尸比以往任何时候都更快,更强 **"
 	}
 	"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
 	{
@@ -213,131 +213,131 @@
 	}
 	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**疯狂触发！每10秒随机触发一个属性！ **"
 	}
 	"**Team trigger activated: untouchable ct in 5s (15s)**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：5秒后人类人类不可触碰（15秒） **"
 	}
 	"**Team trigger activated: fast CT in 5 s**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：5秒后人类速度加快 **"
 	}
 	"**Team trigger activated: slow T in 5 s**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：5秒后减速所有僵尸 **"
 	}
 	"**Team trigger activated: untouchable zombies in 5s (7s)**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：5秒后僵尸不能被攻击 **"
 	}
 	"**Global trigger activated: absolute darkness in 5s **"
 	{
-		"chi"		"** **"
+		"chi"		"**全体属性触发：5秒后陷入绝对黑暗 **"
 	}
 	"**Team trigger activated: global push to zombies in 5 s**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：5秒后推动所有僵尸 **"
 	}
 	"**Global trigger activated: everyone will be teleported to a room int 8s**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体属性触发：8秒后所有人都会被传送到一个房间 **"
 	}
 	"**Global trigger activated: low gravity for humans**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体属性触发：人类低重力 **"
 	}
 	"**Team trigger activated: fast T in 5 s**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：5秒后僵尸速度加快 **"
 	}
 	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
 	{
-		"chi"		"** **"
+		"chi"		"**2个重生点！每平方没更多的人类...和更多僵尸 **"
 	}
 	"** Playable area set to MEDIUM **"
 	{
-		"chi"		"** **"
+		"chi"		"**播放区域设置为中等 **"
 	}
 	"** GRAVITY! Low gravity all the round! **"
 	{
-		"chi"		"** **"
+		"chi"		"**重力！本局全体低重力 **"
 	}
 	"** STATIC LABYRINTH! Choose the correct way! **"
 	{
-		"chi"		"** **"
+		"chi"		"**静态迷宫！选择正确的道路! **"
 	}
 	"** ASCENSION! Forget the labyrinth! Prepare to ascend through the core! **"
 	{
-		"chi"		"** **"
+		"chi"		"**升天！忘记迷宫！准备通过核心上升！ **"
 	}
 	"** ULTIMATUM! Fight against 8 zombie monsters of same type! **"
 	{
-		"chi"		"** **"
+		"chi"		"**最后通牒！对抗8个同类型的僵尸 **"
 	}
 	"** The selected Zombie monster is going to be ..."
 	{
-		"chi"		"** **"
+		"chi"		"**选定的僵尸怪物将是... **"
 	}
 	"** ... 8 TREX!! Prepare your weapons! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个霸王龙！！准备好你的武器！ **"
 	}
 	"** And the human weapons will be  ..."
 	{
-		"chi"		"** **"
+		"chi"		"**人类的武器将是… **"
 	}
 	"** SPRINT! I think this is going to be a short round! **"
 	{
-		"chi"		"** **"
+		"chi"		"**SPRINT! 我认为这局时间非常短暂！ **"
 	}
 	"** And the spawn mode  ..."
 	{
-		"chi"		"** **"
+		"chi"		"**和重生模式 **"
 	}
 	"** NORMAL SPAWNS! **"
 	{
-		"chi"		"** **"
+		"chi"		"**普通重生！ **"
 	}
 	"**Ladder carrier has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**梯子被拿起 **"
 	}
 	"** Grenade maker has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷盒被拿起 **"
 	}
 	"** ... 8 BALROGS!!! You are dead **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个炎魔！！！你死定了 **"
 	}
 	"** LADDER! Maybe the worst item right now! **"
 	{
-		"chi"		"** **"
+		"chi"		"**梯子！也许这是最糟糕的神器了！ **"
 	}
 	"** ... 8 Scary zombies! Your hands will be trembling all round! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个恐怖僵尸！你的双手在颤抖！ **"
 	}
 	"** SINGULARITY GUN! Fuck you gravity! **"
 	{
-		"chi"		"** **"
+		"chi"		"**黑洞枪！去TMD的重力 **"
 	}
 	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
 	{
-		"chi"		"** **"
+		"chi"		"**竞技场大屠杀！这不是一件容易的事！存活2分钟！ **"
 	}
 	"**Singularity cannon has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑洞炮已拿起 **"
 	}
 	"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸门15秒后打开！！！ **"
 	}
 	"[PLAYING] The Qemists : Stompbox"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]The Qemists : Stompbox **"
 	}
 	"** 3 **"
 	{
@@ -353,51 +353,52 @@
 	}
 	"** FIRE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**火！ **"
 	}
 	"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮将会在65秒后解锁 **"
+		"DoorCountDown" "65"
 	}
 	"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮将会在25秒后解锁 **"
 	}
 	"** BUTTONS UNLOCKED **"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮已经解锁 **"
 	}
 	"** Bed item has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**蹦床被拿起 **"
 	}
 	"** Thunder gun has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"**电枪被拿起 **"
 	}
 	"** Barnacle impulsion zombie has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**藤壶被僵尸拿起 **"
 	}
 	"**Invisibility cloud has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**隐形云被拿起 **"
 	}
 	"**Giant chainsaw has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**巨型电锯被拿起 **"
 	}
 	"** TREX HAS BEEN PICKED UP! **"
 	{
-		"chi"		"** **"
+		"chi"		"**霸王龙被拿起 **"
 	}
 	"**Sprint weapon has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**Sprint被拿起 **"
 	}
 	"** VOLUNTARY! Jump into the red hole to get zombified **"
 	{
-		"chi"		"** **"
+		"chi"		"**自愿者！跳进红洞变成僵尸 **"
 	}
 	"**Zombie stopper has been picked by a zombie**"
 	{
@@ -405,179 +406,182 @@
 	}
 	"** Teleport weapon has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送武器被拿起 **"
 	}
 	"**Scary zombie has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**恐怖僵尸被拿起 **"
 	}
 	"** REVERSE! Go from coliseum to the begining! **"
 	{
-		"chi"		"** **"
+		"chi"		"**返回！从竞技场开始！ **"
 	}
 	"** Playable area set to BIG **"
 	{
-		"chi"		"** **"
+		"chi"		"**播放区域设置为大 **"
 	}
 	"**Freezer has  been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**冰冻枪被拿起 **"
 	}
 	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将在25秒后激活 **"
+		"DoorCountDown" "25"
 	}
 	"** Unlimited ammo weapon picked! **"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药被拿起 **"
 	}
 	"**Zombie summoner has been picked by a zombie**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸召唤师被僵尸拿起 **"
 	}
 	"**Team trigger activated: zombies health is now 50000**"
 	{
-		"chi"		"** **"
+		"chi"		"**团队属性触发：僵尸50000血 **"
 	}
 	"**Slower weapon has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸减速设备被拿起 **"
 	}
 	"**Rocket launcher has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**火箭发射器被拿起 **"
 	}
 	"** Jukebox has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**点歌机被拿起 **"
 	}
 	"** MUSIC IN CHARGE OF THE DJ NOW **"
 	{
-		"chi"		"** **"
+		"chi"		"**点歌机正在充电 **"
 	}
 	"** FACE TO FACE! Lets get some weapons and fight zombies! **"
 	{
-		"chi"		"** **"
+		"chi"		"**面对面！让我们得到一些武器和僵尸战斗！ **"
 	}
 	"[PLAYING] Gangam Style"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Gangam Style **"
 	}
 	"[PLAYING] Eduard Khill : Trololo"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Eduard Khill : Trololo **"
 	}
 	"[PLAYING] Blur : Song 2"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Blur : Song 2 **"
 	}
 	"[PLAYING] Vivaldi"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Vivaldi **"
 	}
 	"**Resist 35 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
+		"DoorCountDown" "35"
 	}
 	"** RUN **"
 	{
-		"chi"		"** **"
+		"chi"		"**跑 **"
 	}
 	"**Hold 20 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown" "20"
 	}
 	"**This is your last stand! Defend! The teleporter is getting ready!**"
 	{
-		"chi"		"** **"
+		"chi"		"**这是你的最后一站！守住！传送点正在准备 **"
 	}
 	"[PLAYING] Crysis Warhead : Airfield Hero Theme"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Crysis Warhead : Airfield Hero Theme **"
 	}
 	"**30 seconds until final teleportation!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"** ... 8 Antlions! remember they are fucking fast! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个蚁狮！记住.他们非常快！ **"
 	}
 	"** BLACK HOLE! Use it carefully! Remember! Just one use! **"
 	{
-		"chi"		"** **"
+		"chi"		"**黑洞！小心使用！记得!只能使用一次！ **"
 	}
 	"** FACE TO FACE CHALLENGE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**面对面的挑战！ **"
 	}
 	"*** Finish mode ** Kill the super Monster! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**完成模式**杀死超级僵尸 **"
 	}
 	"** ALL ZOMBIES WILL DIE BUT NOT THE MONSTER! IN 15 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后所有僵尸死亡！但BOSS不会死亡！ **"
 	}
 	"**Builder has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**墙被拿起 **"
 	}
 	"**Global trigger activated: absolute blind in 5 s**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体属性触发：5秒后致盲 **"
 	}
 	"*** Finish mode ** Kill all zombies without help!**"
 	{
-		"chi"		"** **"
+		"chi"		"**完成模式**杀死所有僵尸 **"
 	}
 	"** We have an epic winner! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们有一个史诗赢家 **"
 	}
 	"** VIP! Protect the VIP! If the dies you all die! **"
 	{
-		"chi"		"** **"
+		"chi"		"**VIP!保护VIP！如果他死了你们就死了 **"
 	}
 	"**VIP selected! ** The Human without knife will be turned into the VIP!**"
 	{
-		"chi"		"** **"
+		"chi"		"**VIP选择！第一个爬上去的人将变成VIP！ **"
 	}
 	"**If the VIP dies EVERYONE die**"
 	{
-		"chi"		"** **"
+		"chi"		"**如果VIP死亡所有人类都会死亡**"
 	}
 	"**If the VIP survive you will have a reward for next round**"
 	{
-		"chi"		"** **"
+		"chi"		"**如果VIP活着.你将获得下一回合的奖励 **"
 	}
 	"**Gravity gun has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**重力枪被拿起 **"
 	}
 	"** ... 8 Vortigaunts! And no! they are not friendly! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个弗地岗人！他们并不友好！ **"
 	}
 	"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
 	{
-		"chi"		"** **"
+		"chi"		"**电枪！我想要8个电枪一起行动！ **"
 	}
 	"** Vortigaunt has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"**弗地岗人被拿起 **"
 	}
 	"*** Finish mode ** Normal nuke!**"
 	{
-		"chi"		"** **"
+		"chi"		"**完成模式** 普通核弹! **"
 	}
 	"** ... 8 Barnacles zombies! Barnacles are funny! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个藤壶僵尸！藤壶非常有趣！ **"
 	}
 	"** EARENDIL LIGHT! Work in team! And you will win easy **"
 	{
-		"chi"		"** **"
+		"chi"		"**埃兰迪尔光！在一起行动！你会赢的非常轻松 **"
 	}
 	"** Playable area set to HUGE **"
 	{
@@ -585,126 +589,128 @@
 	}
 	"** ... 8 Zombie Dogs! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个僵尸狗！ **"
 	}
 	"**Pyramid Head is looking for you ... **"
 	{
-		"chi"		"** **"
+		"chi"		"**三角头正在寻找你 **"
 	}
 	"** GANDALF STAFF! Work in team!**"
 	{
-		"chi"		"** **"
+		"chi"		"**甘道夫法杖！在一起行动！ **"
 	}
 	"** Heal item has been picked up **"
 	{
-		"chi"		"** **"
+		"chi"		"**医疗被拿起 **"
 	}
 	"** Car has been picked **"
 	{
-		"chi"		"** **"
+		"chi"		"**车被拿起 **"
 	}
 	"** Gandalf in the middle! **"
 	{
-		"chi"		"** **"
+		"chi"		"**甘道夫站到中间 **"
 	}
 	"** BRIDGE IS OPENING IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**桥20秒后开放 **"
 	}
 	"** Metal door will open in 20 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**金属门20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"** Holy grenade has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**圣雷被拿起 **"
 	}
 	"[PLAYING] Weebl : Pork"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Weebl : Pork **"
 	}
 	"** ... 8 huge Crabs! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个巨大的螃蟹 **"
 	}
 	"**BUILDER! Time to build a fortress! **"
 	{
-		"chi"		"** **"
+		"chi"		"**墙！需要时间建造要塞 **"
 	}
 	"**Annihilator has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**歼灭者被拿起 **"
 	}
 	"** MG42! Covering fire! **"
 	{
-		"chi"		"** **"
+		"chi"		"**MG42！火力掩护！ **"
 	}
 	"** ... 8 Stoppers! well... thats easy! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个Stoppers！好...这很简单！ **"
 	}
 	"** MINIGUN! Counter Terrorist Win! **"
 	{
-		"chi"		"** **"
+		"chi"		"**加特林！人类赢了！ **"
 	}
 	"** NUKE IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹20秒后发射 **"
 	}
 	"**10 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"** BEDS! Well ... it could be worse! **"
 	{
-		"chi"		"** **"
+		"chi"		"**蹦床！嗯…可能会更糟！ **"
 	}
 	"*** Finish mode ** Touch them! Kill them!**"
 	{
-		"chi"		"** **"
+		"chi"		"** 完成模式 **触碰他们！杀了他们！ **"
 	}
 	"*** Finish mode ** Fight versus the current monsters! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**完成模式 **与怪物战斗 **"
 	}
 	"** Portal will open in 30 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开 **"
+		"DoorCountDown" "30"
 	}
 	"** PORTAL IS READY! GO IN! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门已经打开！进去！ **"
 	}
 	"[PLAYING] Herp Albert : Spanish Fleah"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Herp Albert : Spanish Fleah **"
 	}
 	"**SELF DESTRUCTION ACTIVATED!**"
 	{
-		"chi"		"** **"
+		"chi"		"**自毁程序激活！ **"
 	}
 	"**Nuke in 40 s**"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹40秒后发射 **"
 	}
 	"** ... 8 TITANS! incoming rape! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个泰坦 **"
 	}
 	"** HEAL WEAPON! Useful ... sometimes **"
 	{
-		"chi"		"** **"
+		"chi"		"**治疗！有时...会有用 **"
 	}
 	"** FREEZER! It looks kinda easy! **"
 	{
-		"chi"		"** **"
+		"chi"		"**冰冻枪！看起来很容易！ **"
 	}
 	"** JUGGERNAUT! Yeah!! Prepare your fists! **"
 	{
-		"chi"		"** **"
+		"chi"		"**机械狗！好！准备好你的拳头！ **"
 	}
 }
