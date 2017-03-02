@@ -1417,7 +1417,7 @@
 	{
 		"chi"		"斯基利弗树林遗迹"
 	}
-	"ze_unknown_underground_a2_2"
+	"ze_unknown_underground_a2_4"
 	{
 		"chi"		"未知的秘密工厂"
 	}
@@ -1512,5 +1512,25 @@
 	"ze_bioshock_v6_1_csgo_b1"
 	{
 		"chi"		"生化奇兵"
+	}
+	"ze_zombie_city_finalfix_ps2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_surface_a1_ps_b2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_nightmare_dimension_v2_7_ps2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_infested_industry_v2_b10_ps_"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paranoid_rezurrection_v11_9_"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }

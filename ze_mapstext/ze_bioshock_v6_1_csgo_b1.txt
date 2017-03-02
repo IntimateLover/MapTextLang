@@ -360,4 +360,52 @@
 	{
 		"chi"		"** **"
 	}
+	"*ADMIN Room: Difficulty permanently set to HARD*"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Slaying CTs*"
+	{
+		"chi"		"** **"
+	}
+	">>Wait for the arrival of Rapture Metro<<"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Next round set to Chapter 4*"
+	{
+		"chi"		"** **"
+	}
+	"*AFK teleport in 3s*"
+	{
+		"chi"		"** **"
+	}
+	">>>Bathysphere door opens in 20 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>Defend the Bathysphere - 40s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Chapter Completed<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Find the secrets for the true ending<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Bad ending obtained!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>Campaign Completed<<"
+	{
+		"chi"		"** **"
+	}
+	">>Thank you for playing. Try 1999 mode for a true challenge<<"
+	{
+		"chi"		"** **"
+	}
 }
