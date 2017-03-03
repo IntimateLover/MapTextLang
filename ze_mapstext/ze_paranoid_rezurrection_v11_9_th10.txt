@@ -50,7 +50,7 @@
 	}
 	"** Playable area set to SMALL **"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫区域设置为小 **"
 	}
 	"**DOORS OPENING IN 30 SECONDS**"
 	{
@@ -161,7 +161,7 @@
 	}
 	"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
 	{
-		"chi"		"** **"
+		"chi"		"**BUYZONE大屠杀！小心僵尸 **"
 	}
 	"[PLAYING] Jim Carrey : Cuban Pete"
 	{
@@ -185,7 +185,7 @@
 	}
 	"**Temporal invulnerability weapon has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**无敌道具被拿起 **"
 	}
 	"***Earendil light has been picked***"
 	{
@@ -209,7 +209,7 @@
 	}
 	"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类20秒后迈向胜利** 人类必须去到核心!**"
 	}
 	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
 	{
@@ -257,7 +257,7 @@
 	}
 	"** Playable area set to MEDIUM **"
 	{
-		"chi"		"**播放区域设置为中等 **"
+		"chi"		"**迷宫区设置为中等 **"
 	}
 	"** GRAVITY! Low gravity all the round! **"
 	{
@@ -402,7 +402,7 @@
 	}
 	"**Zombie stopper has been picked by a zombie**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸stopper被拿起 **"
 	}
 	"** Teleport weapon has been picked up **"
 	{
@@ -418,7 +418,7 @@
 	}
 	"** Playable area set to BIG **"
 	{
-		"chi"		"**播放区域设置为大 **"
+		"chi"		"**迷宫区域设置为大 **"
 	}
 	"**Freezer has  been picked**"
 	{
@@ -585,7 +585,7 @@
 	}
 	"** Playable area set to HUGE **"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫区域设置为巨大 **"
 	}
 	"** ... 8 Zombie Dogs! **"
 	{
