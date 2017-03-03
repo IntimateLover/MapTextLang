@@ -1189,27 +1189,27 @@
 	}
 	"Boss fight in 25 second"
 	{
-		"chi"		"**25秒后开始BOSS战 **"
+		"chi"		"** **"
 	}
 	"Boss fight in 10 second"
 	{
-		"chi"		"**10秒后开始BOSS战 **"
+		"chi"		"** **"
 	}
 	"Boss fight in 5 second"
 	{
-		"chi"		"**5秒后开始BOSS战 **"
+		"chi"		"** **"
 	}
 	"Boss Fight"
 	{
-		"chi"		"**BOSS战开始 **"
+		"chi"		"** **"
 	}
 	"BOSS USE  GRIP"
 	{
-		"chi"		"**BOSS使用了 **"
+		"chi"		"** **"
 	}
 	"BOSS USE PUSH"
 	{
-		"chi"		"**BOSS使用了风 **"
+		"chi"		"** **"
 	}
 	"BOSS USE ANGER"
 	{
@@ -1217,33 +1217,31 @@
 	}
 	"**The wall will explode in 30 second**"
 	{
-		"chi"		"**墙壁30秒后爆炸 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"The ship will fly away in 35 seconds"
 	{
-		"chi"		"**飞船35秒后飞走 **"
-		"DoorCountDown"		"35"
+		"chi"		"** **"
 	}
 	"Jumping on platform"
 	{
-		"chi"		"**跳上平台 **"
+		"chi"		"** **"
 	}
 	"**You completed Level 4**"
 	{
-		"chi"		"**你通过了第四关 **"
+		"chi"		"** **"
 	}
 	"**Level changes to EPIC**"
 	{
-		"chi"		"**下一关：史诗难度 **"
+		"chi"		"** **"
 	}
 	"FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!"
 	{
-		"chi"		"**最后的攻击！！摧毁达斯摩尔 **"
+		"chi"		"** **"
 	}
 	"BOSS USE THUNDER"
 	{
-		"chi"		"**BOSS使用了雷电 **"
+		"chi"		"** **"
 	}
 	"RATHER!!!!!!! Press button!!!!"
 	{
@@ -1251,28 +1249,27 @@
 	}
 	"RUN!!!! RUN!!!! RUN!!!!!!  The wal willl explode in 15 second"
 	{
-		"chi"		"**跑！墙壁将在15秒后爆炸 **"
+		"chi"		"** **"
 	}
 	"The magnetic field will destroyed in 30 second"
 	{
-		"chi"		"**磁场将30秒后摧毁 **"
+		"chi"		"** **"
 	}
 	"The teleport will earn in 25 second"
 	{
-		"chi"		"**传送将在25秒后启动 **"
+		"chi"		"** **"
 	}
 	"The teleport will earn in 5 second"
 	{
-		"chi"		"**传送将在5秒后启动 **"
-		"DoorCountDown"		"25"
+		"chi"		"** **"
 	}
 	"FALL BACK"
 	{
-		"chi"		"**撤退 **"
+		"chi"		"** **"
 	}
 	"Shoot in middle the station of droids!"
 	{
-		"chi"		"**在中间射击机器人 **"
+		"chi"		"** **"
 	}
 	"Good station explode! Shoot ZM!"
 	{
@@ -1280,11 +1277,11 @@
 	}
 	"Teleport activates in 10 second"
 	{
-		"chi"		"**传送10秒后激活 **"
+		"chi"		"** **"
 	}
 	"OMG! It is ship of Darth Maul!"
 	{
-		"chi"		"**天啊!这是达斯摩尔的船 **"
+		"chi"		"** **"
 	}
 	"Run!!! The ship will departs after in 20 second"
 	{
