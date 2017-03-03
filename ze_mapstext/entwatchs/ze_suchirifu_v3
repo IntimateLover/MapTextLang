@@ -1,0 +1,42 @@
+"entities"
+{
+	"0"
+	{
+		"name"              "黑暗骑士"
+		"shortname"         "黑暗骑士"
+		"color"             "{grey}"
+		"buttonclass"       "func_button"
+		"filtername"        "drk"
+		"hasfiltername"     "true"
+		"blockpickup"       "true"
+		"allowtransfer"     "true"
+		"forcedrop"         "true"
+		"chat"              "true"
+		"hud"               "true"
+		"hammerid"          "511953"
+		"mode"              "0"
+		"maxuses"           "0"
+		"cooldown"          "0"
+		"maxamount"         "1"
+	}
+	"1"
+	{
+		"name"              "忍者"
+		"shortname"         "忍者"
+		"color"             "{WHITE}"
+		"buttonclass"       "func_button"
+		"filtername"        "nin"
+		"hasfiltername"     "true"
+		"blockpickup"       "true"
+		"allowtransfer"     "true"
+		"forcedrop"         "true"
+		"chat"              "true"
+		"hud"               "true"
+		"hammerid"          "518919"
+		"mode"              "0"
+		"maxuses"           "0"
+		"cooldown"          "0"
+		"maxamount"         "1"
+	}
+	
+}
