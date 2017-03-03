@@ -2,27 +2,27 @@
 {
 	"- Level 1 -"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"**Grab a P90 from the container!**"
 	{
-		"chi"		"** **"
+		"chi"		"**从武器箱里拿P90 **"
 	}
 	"**Split up and meet at the gun shop!**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要分开走了，在武器商店见面 **"
 	}
 	"**TIP: Look for arrows to help you find your way.**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：按照箭头找到去商店的路 **"
 	}
 	"**TIP: Find the blue napalm grenades.**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：找到蓝色的手榴弹 **"
 	}
 	"**Factory door opening in 3 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**工厂的门3秒后打开 **"
 	}
 	"**2**"
 	{
@@ -34,39 +34,39 @@
 	}
 	"**Hit the button to close the gate!**"
 	{
-		"chi"		"** **"
+		"chi"		"**按下按钮来关闭大门 **"
 	}
 	"**Hold off the runners while the gate closes!**"
 	{
-		"chi"		"** **"
+		"chi"		"**在门关上前守住僵尸 **"
 	}
 	"**The gun shop is open!**"
 	{
-		"chi"		"** **"
+		"chi"		"**武器商店开门了 **"
 	}
 	"**Shop is closed!**"
 	{
-		"chi"		"** **"
+		"chi"		"**商店门关闭 **"
 	}
 	"**Hold off the runners from the balcony or the window. Dont get edged!**"
 	{
-		"chi"		"** **"
+		"chi"		"**去阳台和窗户那里守住僵尸.不要走 **"
 	}
 	"**Secret exit open!**"
 	{
-		"chi"		"** **"
+		"chi"		"**秘密出口打开！ **"
 	}
 	"**Zombies: Line up at the garage door.**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸：在车库门口排队 **"
 	}
 	"**Humans: Get ready to run through the other door!**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类：准备好穿过另一扇门！ **"
 	}
 	"**Garage door opening in 5 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**车库大门5秒后打开 **"
 	}
 	"**4**"
 	{
@@ -78,111 +78,115 @@
 	}
 	"**RUN!**"
 	{
-		"chi"		"** **"
+		"chi"		"**跑 **"
 	}
 	"**Hit the filter button!**"
 	{
-		"chi"		"** **"
+		"chi"		"**按下过滤器按钮！ **"
 	}
 	"**Get in the filter!**"
 	{
-		"chi"		"** **"
+		"chi"		"**进入过滤器 **"
 	}
 	"**Blow up the stairs to delay the runners!**"
 	{
-		"chi"		"** **"
+		"chi"		"**炸毁楼梯拖延僵尸 **"
 	}
 	"**Humans: Initiate the self-destruct sequence.**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类:启动自毁程序 **"
 	}
 	"**Zombies: Run to the red light.**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸：跑到红灯那里 **"
 	}
 	"**Emergency Elevator now functional.**"
 	{
-		"chi"		"** **"
+		"chi"		"**紧急电梯现在可以使用 **"
 	}
 	"**Call the elevator!**"
 	{
-		"chi"		"** **"
+		"chi"		"**呼叫电梯 **"
 	}
 	"**Elevator arrives in 25 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯25秒后到达 **"
+		"DoorCountDown" "25"
 	}
 	"**Unverified Lifeform Detected! Enabling Shields."
 	{
-		"chi"		"** **"
+		"chi"		"**检测到未知生命！启动屏障 **"
 	}
 	"**Elevator leaves in 3 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯3秒后离开 **"
 	}
 	"**Zombies: Go through the ventilation system and enter the elevator.**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸：通过通风系统进入电梯 **"
 	}
 	"**The runners are trying to get in! Hold them off!**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸正试图进入！守住他们！ **"
 	}
 	"**Elevator door opens in 10 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯门10秒后打开 **"
 	}
 	"**Initiate the houses lockdown system!**"
 	{
-		"chi"		"** **"
+		"chi"		"**启动房屋封锁系统！ **"
 	}
 	"**The bunker will open in 40 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡将在40秒后打开! **"
+		"DoorCountDown" "40"
 	}
 	"**Hold off the runners until then.**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住僵尸 **"
 	}
 	"**Bunker opens in 5 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡将在5秒后打开 **"
 	}
 	"**Bunker is open!**"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡开启! **"
 	}
 	"- Level 2 -"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"**Bunker is closing in 3 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡3秒后关闭 **"
 	}
 	"**The elevator shaft is open! Slide down on the wires.**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯井打开！在电线上爬行 **"
 	}
 	"**Garage door will open in 40 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**车库大门40秒后打开 **"
+		"DoorCountDown" "40"
 	}
 	"**Garage door is open!**"
 	{
-		"chi"		"** **"
+		"chi"		"**车库大门打开 **"
 	}
 	"**Get into the tank to survive the meltdown!**"
 	{
-		"chi"		"** **"
+		"chi"		"**进入坦克生存 **"
 	}
 	"- Level 3 -"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 	}
 	"**Garage door will open in 20 seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**车库大门20秒后打开 **"
+		"DoorCountDown" "20"
 	}
 	"**Radio the Evac and hold off on the helipad!**"
 	{
@@ -190,14 +194,14 @@
 	}
 	"**I hear ya loud and clear! Reading your co-ordinates...**"
 	{
-		"chi"		"** **"
+		"chi"		"**大声点.让我听清楚你的声音！ 然后读你的坐标... **"
 	}
 	"**Alright! Ive got your location. Hold off those bad boys and Ill be there in a jiffy!**"
 	{
-		"chi"		"** **"
+		"chi"		"**好的！我得到了你的位置.守住那些僵尸！我马上去！ **"
 	}
 	"**Secret exit closed!**"
 	{
-		"chi"		"** **"
+		"chi"		"**秘密出口关闭！ **"
 	}
 }
