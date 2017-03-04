@@ -321,12 +321,12 @@
 	}
 	"ze_infected_lab_v4_1"
 	{
-		"chi"		"感染实验室惊魂"
+		"chi"		"感染危机:实验室"
 		"credit"		"400"
 	}
 	"ze_infected_tramway_csgo1"
 	{
-		"chi"		"电车惊魂"
+		"chi"		"感染危机:缆车"
 		"credit"		"400"
 	}
 	"ze_infiltration_final_p2"
@@ -1085,7 +1085,7 @@
 	}
 	"ze_infected_sewers_v6_1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"感染危机:下水道"
 	}
 	"ze_stalker_ultimate_v4"
 	{
