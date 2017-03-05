@@ -335,7 +335,7 @@
 	}
 	"**ARC CORE**"
 	{
-		"chi"		"**弧光核心 **"
+		"chi"		"**弧光核心重载完毕 **"
 	}
 	"**KEEP CROUCHING IF YOU WANT TO SURVIVE IN THE POWERFUL ELECTROSTATIC FIELD**"
 	{
@@ -416,7 +416,7 @@
 	}
 	"**WATCH OUT THE FLAME IN THE RIGHT OF THE HALL**"
 	{
-		"chi"		"**小心大厅左半场的致命火焰 **"
+		"chi"		"**小心大厅右半场的致命火焰 **"
 		"ico"		"icon_fire"
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE RIGHT OF THE HALL**"
@@ -497,6 +497,7 @@
 	}
 	"**WATCH OUT THE FREEZING AIR IN THE BACK OF THE HALL**"
 	{
-		"chi"		"** **"
+		"chi"		"**小心大厅后半场的致命冷气 **"
+		"ico"		"icon_fire"
 	}
 }
