@@ -59,7 +59,7 @@
 	}
 	"** A CT reached the second labyrinth wall **"
 	{
-		"chi"		"**一位人类到达第二个迷宫 **"
+		"chi"		"**有一名人类到达第二个迷宫 **"
 	}
 	"** Every random walls from first labyrinth will be removed in 15s**"
 	{
@@ -75,7 +75,7 @@
 	}
 	"** Someone has reached the core walls **"
 	{
-		"chi"		"**有人已经到达了核心墙壁 **"
+		"chi"		"**一名人类已经到达了核心墙壁 **"
 	}
 	"[PLAYING] Crysis Warhead : Airfield 2"
 	{
@@ -87,7 +87,7 @@
 	}
 	"**Every CT and T of first and second labyrinth will be teleported at jail in 45s**"
 	{
-		"chi"		"**所有还在第一迷宫和第二迷宫的人类和僵尸将在45秒后传送到监狱 **"
+		"chi"		"**所有还在第一迷宫和第二迷宫的人将在45秒后传送到监狱 **"
 	}
 	"**Resist 35 s!**"
 	{
@@ -112,7 +112,7 @@
 	}
 	"*** Finish mode ** 1 shoot 1 kill!**"
 	{
-		"chi"		"** 完成模式 ** 开始刷分吧 **"
+		"chi"		"** 完成模式 ** 一枪一死 **"
 	}
 	"**Lift leaving in 7 s**"
 	{
@@ -161,7 +161,7 @@
 	}
 	"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
 	{
-		"chi"		"**BUYZONE大屠杀！小心僵尸 **"
+		"chi"		"**迷宫大屠杀！小心僵尸 **"
 	}
 	"[PLAYING] Jim Carrey : Cuban Pete"
 	{
@@ -189,7 +189,7 @@
 	}
 	"***Earendil light has been picked***"
 	{
-		"chi"		"**埃兰迪尔光被拿起 **"
+		"chi"		"**圣光被拿起 **"
 	}
 	"**Global trigger activated: invert controls**"
 	{
@@ -197,7 +197,7 @@
 	}
 	"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
 	{
-		"chi"		"**无聊的一轮…全部CT**所有人20秒后传送到小白房 **"
+		"chi"		"**无聊的一轮…**所有人20秒后传送到小白房 **"
 	}
 	"**Global trigger activated: slippery ground in 5s**"
 	{
@@ -253,11 +253,11 @@
 	}
 	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
 	{
-		"chi"		"**2个重生点！每平方没更多的人类...和更多僵尸 **"
+		"chi"		"**2个重生点！每平方米更多的人类...和更多僵尸 **"
 	}
 	"** Playable area set to MEDIUM **"
 	{
-		"chi"		"**迷宫区设置为中等 **"
+		"chi"		"**迷宫区域设置为中等 **"
 	}
 	"** GRAVITY! Low gravity all the round! **"
 	{
@@ -289,7 +289,7 @@
 	}
 	"** SPRINT! I think this is going to be a short round! **"
 	{
-		"chi"		"**SPRINT! 我认为这局时间非常短暂！ **"
+		"chi"		"**加速! 我认为这局时间非常短暂！ **"
 	}
 	"** And the spawn mode  ..."
 	{
@@ -321,7 +321,7 @@
 	}
 	"** SINGULARITY GUN! Fuck you gravity! **"
 	{
-		"chi"		"**黑洞枪！去TMD的重力 **"
+		"chi"		"**重力枪！去TMD的重力 **"
 	}
 	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
 	{
@@ -382,7 +382,7 @@
 	}
 	"**Invisibility cloud has been picked**"
 	{
-		"chi"		"**隐形云被拿起 **"
+		"chi"		"**视野扰乱被拿起 **"
 	}
 	"**Giant chainsaw has been picked**"
 	{
@@ -394,7 +394,7 @@
 	}
 	"**Sprint weapon has been picked**"
 	{
-		"chi"		"**Sprint被拿起 **"
+		"chi"		"**加速被拿起 **"
 	}
 	"** VOLUNTARY! Jump into the red hole to get zombified **"
 	{
@@ -581,7 +581,7 @@
 	}
 	"** EARENDIL LIGHT! Work in team! And you will win easy **"
 	{
-		"chi"		"**埃兰迪尔光！在一起行动！你会赢的非常轻松 **"
+		"chi"		"**圣光！在一起行动！你会赢的非常轻松 **"
 	}
 	"** Playable area set to HUGE **"
 	{
@@ -715,14 +715,14 @@
 	}
 	"** ... 8 Jumpers! Be careful! It is harder than it sounds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8只Jumpers！小心！它听起来比较难！ **"
 	}
 	"**UNLIMITED AMMO! It looks kinda easy! **"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药！看起来很容易！ **"
 	}
 	"*** Finish mode ** Easy killing! You are untouchable!**"
 	{
-		"chi"		"** **"
+		"chi"		"**完成模式** 简单杀戮！你是不可触碰的 **"
 	}
 }
