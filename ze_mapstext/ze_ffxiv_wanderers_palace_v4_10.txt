@@ -1223,7 +1223,7 @@
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"**奥丁神出现了 **"
+		"chi"		"**ao'ding神出现了 **"
 	}
 	"*** Kill Odin ***"
 	{
@@ -1283,22 +1283,22 @@
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**天坠**"
+		"chi"		"**暗影天坠(看天上，往没出现天坠的地方走）**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**电**"
+		"chi"		"**暗影耀斑（一直蹲下）**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
-		"chi"		"**暴风之翼**"
+		"chi"		"**暴风之翼（站在中间等三秒，剩下一个的时候走的里面按住空格）**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**老司机开车**"
+		"chi"		"**龙车来袭（会出现三只龙，往龙撞不到的地方走）**"
 		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"
@@ -1324,6 +1324,6 @@
 	}
 	"*** ADMIN BUTTON Level Ultimate ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员把关卡调至天神难度 **"
 	}
 }
