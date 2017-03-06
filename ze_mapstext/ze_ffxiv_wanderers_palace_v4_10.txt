@@ -1283,22 +1283,22 @@
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**暗影天坠(看天上，往没出现天坠的地方走）**"
+		"chi"		"**天坠**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**暗影耀斑（一直蹲下）**"
+		"chi"		"**电**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
-		"chi"		"**暴风之翼（站在中间等三秒，剩下一个的时候走的里面按住空格）**"
+		"chi"		"**暴风之翼**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**龙车来袭（会出现三只龙，往龙撞不到的地方走）**"
+		"chi"		"**老司机开车**"
 		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"
