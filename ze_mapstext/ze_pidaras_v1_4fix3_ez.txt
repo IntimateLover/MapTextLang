@@ -276,7 +276,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
@@ -350,6 +350,6 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"27552"
+		"syncvalue"		"82156"
 	}
 }

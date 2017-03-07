@@ -1,101 +1,108 @@
 "Console_T"
 {
+	"
+		"		"chi"
+	"		"		"
 		"
-		"chi"		"		"
-		"**地图：西瓜橘子"		"地图翻译：纯白镇安吉拉"
-		"**"		"
-	}
-	"***Boat 1 leaving in 10secs.***"
-	{
-		"chi"		"第一艘船在10秒后离开"
-	}
-	"***Boat 2 leaving in 5secs.***"
-	{
-		"chi"		"第二艘船在10秒后离开"
-	}
-	"***First shortcuts opening in 15secs.***"
-	{
-		"chi"		"第一个捷径在15秒后开启"
-	}
-	"***Ice Wall breaking in 10secs.***"
-	{
-		"chi"		"冰墙在10秒后碎掉"
-	}
-	"***...WashTub leaving in 3secs...***"
-	{
-		"chi"		"澡盆在3秒后离开 (赶不上的快去旁边跳冰块)"
-	}
-	"***Second shortcuts opening in 15secs.***"
-	{
-		"chi"		"第二个捷径在15秒后开启"
-	}
-	"***Final Boat leaving in 75secs.***"
-	{
-		"chi"		"最后的船在75秒后离开"
-	}
-	"***WashTub leaving in 65secs.***"
-	{
-		"chi"		"澡盆在65秒后离开"
-	}
-	"***WashTub leaving in 30secs.***"
-	{
-		"chi"		"澡盆在30秒后离开"
-	}
-	"***Final Boat leaving in 30secs.***"
-	{
-		"chi"		"最后的船在30秒后离开"
-	}
-	"***WashTub leaving in 5secs.***"
-	{
-		"chi"		"澡盆在5秒后离开"
-	}
-	"***Final Boat leaving in 5secs.***"
-	{
-		"chi"		"最后的船在5秒后离开"
-	}
+	"**地图：西瓜橘子"		"		"
+	"地图翻译：纯白镇安吉拉"		"
+		"
+	"**"		"		"
 	"***Tram leaving in 10secs.***"
 	{
-		"chi"		"电车在10秒后离开"
+		"chi"		"** **"
 	}
 	"***Bobsled leaving in 5secs.***"
 	{
-		"chi"		"雪橇在5秒后离开"
+		"chi"		"** **"
+	}
+	"***Boat 2 leaving in 5secs.***"
+	{
+		"chi"		"** **"
 	}
 	"***Boat 3 leaving in 10secs.***"
 	{
-		"chi"		"第三艘船在10秒后离开"
+		"chi"		"** **"
+	}
+	"***First shortcuts opening in 15secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Ice Wall breaking in 10secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Final Boat leaving in 75secs.***"
+	{
+		"chi"		"** **"
 	}
 	"***Boat 4 leaving in 10secs.***"
 	{
-		"chi"		"第四艘船在10秒后离开"
+		"chi"		"** **"
+	}
+	"***WashTub leaving in 65secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Second shortcuts opening in 15secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***WashTub leaving in 30secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Final Boat leaving in 30secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Armory open.***"
+	{
+		"chi"		"** **"
+	}
+	"***WashTub leaving in 5secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Final Boat leaving in 5secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***...WashTub leaving in 3secs...***"
+	{
+		"chi"		"** **"
 	}
 	"***Gate opening in 75secs.***"
 	{
-		"chi"		"大门(直升机旁)在75秒后开"
+		"chi"		"** **"
 	}
 	"***Gate opening in 30secs.***"
 	{
-		"chi"		"大门(直升机旁)在30秒后开"
+		"chi"		"** **"
 	}
 	"***Gate opening in 5secs.***"
 	{
-		"chi"		"大门(直升机旁)在5秒后开"
-	}
-	"***Helicopter leaving in 5secs.***"
-	{
-		"chi"		"直升机在5秒后出发"
+		"chi"		"** **"
 	}
 	"***Start up the Helicopter.***"
 	{
-		"chi"		"直升机启动了"
+		"chi"		"** **"
+	}
+	"***Helicopter leaving in 5secs.***"
+	{
+		"chi"		"** **"
 	}
 	"***...WashBucket leaving in 5secs...Seriously?***"
 	{
-		"chi"		"水桶子在5秒后离开... 认真的!?"
+		"chi"		"** **"
+	}
+	"***Boat 1 leaving in 10secs.***"
+	{
+		"chi"		"** **"
 	}
 	"***Nuke in 10secs.***"
 	{
-		"chi"		"10秒后将会核爆"
+		"chi"		"** **"
 	}
 	"***5***"
 	{
@@ -116,9 +123,5 @@
 	"***1***"
 	{
 		"chi"		"** **"
-	}
-	"***Armory open.***"
-	{
-		"chi"		"武器库开启了"
 	}
 }
