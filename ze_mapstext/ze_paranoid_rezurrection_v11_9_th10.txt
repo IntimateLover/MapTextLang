@@ -169,7 +169,7 @@
 	}
 	"** RANDOM! Red dot will choose! **"
 	{
-		"chi"		"**这是随机的！红点将会选择！ **"
+		"chi"		"**这是随机的！红点将会选择一条道路，僵尸会在那条道路出现！ **"
 	}
 	"**Gandalf staff has been picked!**"
 	{
@@ -402,7 +402,7 @@
 	}
 	"**Zombie stopper has been picked by a zombie**"
 	{
-		"chi"		"**僵尸stopper被拿起 **"
+		"chi"		"**僵尸冰被拿起 **"
 	}
 	"** Teleport weapon has been picked up **"
 	{
@@ -565,7 +565,7 @@
 	}
 	"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
 	{
-		"chi"		"**电枪！我想要8个电枪一起行动！ **"
+		"chi"		"**风枪！我想要8风枪一起行动！ **"
 	}
 	"** Vortigaunt has been picked up**"
 	{
@@ -646,7 +646,7 @@
 	}
 	"** ... 8 Stoppers! well... thats easy! **"
 	{
-		"chi"		"**8个Stoppers！好...这很简单！ **"
+		"chi"		"**8个僵尸冰！好...这很简单！ **"
 	}
 	"** MINIGUN! Counter Terrorist Win! **"
 	{
@@ -723,66 +723,66 @@
 	}
 	"*** Finish mode ** Easy killing! You are untouchable!**"
 	{
-		"chi"		"**完成模式** 简单杀戮！你是不可触碰的 **"
+		"chi"		"**完成模式** 简单杀戮！僵尸几秒后不可移动 **"
 	}
 	"** SLOWER! Slowing enemies make everything easy! **"
 	{
-		"chi"		"** **"
+		"chi"		"**减速！减速的僵尸让赢得胜利变得容易！ **"
 	}
-	"** HOLY GENADE! Be careful with that weapon! **"
+	"** s **"
 	{
 		"chi"		"** **"
 	}
 	"**The VIP has been killed!**"
 	{
-		"chi"		"** **"
+		"chi"		"**VIP已死亡 **"
 	}
 	"** DOGS! Secondary attack for fun! **"
 	{
-		"chi"		"** **"
+		"chi"		"**狗！非常有趣！ **"
 	}
 	"** YOU BREAK THE LASTS BRICKS AT SAME TIME ! ** SELECTING RANDOMLY **"
 	{
-		"chi"		"** **"
+		"chi"		"**你打破了一块模式砖！ **随机选择一个模式 **"
 	}
 	"[PLAYING] Bonnie Tyler : I need a Hero"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Bonnie Tyler : I need a Hero **"
 	}
 	"[PLAYING] Benny Hill theme"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放] Benny Hill theme **"
 	}
 	"[PLAYING] Gorillaz : Soulchild Remix"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Gorillaz : Soulchild Remix **"
 	}
 	"[PLAYING] In Flames : Move Through Me"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]In Flames : Move Through Me **"
 	}
 	"[PLAYING] Village People : YMCA"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Village People : YMCA **"
 	}
 	"[PLAYING] Haddaway : What is Love"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放] Haddaway : What is Love **"
 	}
 	"[PLAYING] Megaupload Song"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放] Megaupload Song **"
 	}
 	"[PLAYING] Pendulum : Showdown"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Pendulum : Showdown **"
 	}
 	"[PLAYING] Drive theme : Nightcall"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Drive theme : Nightcall **"
 	}
 	"[PLAYING] Serious Sam 3 : Boss Fight Strings"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Serious Sam 3 : Boss Fight Strings **"
 	}
 }
