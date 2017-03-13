@@ -232,7 +232,7 @@
 	{
 		"chi"		"** 逃脱时间还剩 20 秒 **"
 	}
-	"** Run! **"
+	"** RUN! **"
 	{
 		"chi"		"** 跑跑跑！ **"
 	}
@@ -406,6 +406,10 @@
 		"chi"		"** **"
 	}
 	"*** PRESS BUTTON AGAIN TO KILL THINGS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Killed Cloud***"
 	{
 		"chi"		"** **"
 	}
