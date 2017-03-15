@@ -18,7 +18,7 @@
 	}
 	"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
 	{
-		"chi"		"**反连跳系统>>> 如果你进行连跳，你会受到惩罚**"
+		"chi"		"** **"
 	}
 	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
 	{
@@ -626,7 +626,7 @@
 	}
 	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
 	{
-		"chi"		"**坚守10秒**"
+		"chi"		"**所有关卡在10秒后结束**"
 	}
 	"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
 	{
@@ -642,27 +642,27 @@
 	}
 	"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
 	{
-		"chi"		"**第一个到达传送点的玩家可以选择模式**"
+		"chi"		"** **"
 	}
 	"*** HURRY ! HURRY !! ***"
 	{
-		"chi"		"**快!快!!**"
+		"chi"		"** **"
 	}
 	"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
 	{
-		"chi"		"**一位玩家进入了模式选择房间**"
+		"chi"		"** **"
 	}
 	"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
 	{
-		"chi"		"**一位玩家选择了全道具模式**"
+		"chi"		"** **"
 	}
 	"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
 	{
-		"chi"		"**全部人类5秒后传送**"
+		"chi"		"** **"
 	}
 	"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
 	{
-		"chi"		"**全部僵尸5秒后传送**"
+		"chi"		"** **"
 	}
 	"*** STAGE 1: EXTREME COMPLETED ***"
 	{
@@ -722,15 +722,15 @@
 	}
 	"*** A PLAYER HAS PICKED UP THE MEGA LASER ***"
 	{
-		"chi"		"**一位玩家捡起mega laser**"
+		"chi"		"** **"
 	}
 	"*** IT IS A SECRET ITEM ***"
 	{
-		"chi"		"**这是一个秘密道具**"
+		"chi"		"** **"
 	}
 	"*** YOU CAN KILL EASIER THE ZOMBIE ***"
 	{
-		"chi"		"**你能更容易击杀僵尸**"
+		"chi"		"** **"
 	}
 	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
 	{
@@ -782,7 +782,7 @@
 	}
 	"*** You defeated captain cloud ***"
 	{
-		"chi"		"**你打败了上尉 **"
+		"chi"		"**你打败了队长 **"
 	}
 	"*** Zombie will come in 10 seconds  ***"
 	{
@@ -810,7 +810,7 @@
 	}
 	">>> AIR SLASHER IS COMING <<<< AVOID IT DUCK OR JUMP !!!!"
 	{
-		"chi"		"**>>>空气刀来了 <<<躲避它或跳！！！**"
+		"chi"		"** **"
 	}
 	"Remember : 5 COUNTS !!!!!"
 	{
@@ -842,23 +842,23 @@
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
 	{
-		"chi"		"**请在30秒内完成EX模式 **"
+		"chi"		"**所有EX关卡在30秒后结束 **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
 	{
-		"chi"		"**请在20秒内完成EX模式 **"
+		"chi"		"**所有EX关卡在20秒后结束 **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
 	{
-		"chi"		"**请在10秒内完成EX模式 **"
+		"chi"		"**所有EX关卡在10秒后结束 **"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
 	{
-		"chi"		"**请在5秒内完成EX模式 **"
+		"chi"		"**所有EX关卡在5秒后结束 **"
 	}
 	"*** EXTREME STAGE COMPLETED...? ***"
 	{
-		"chi"		"**EX模式完成了？ **"
+		"chi"		"**EX关卡结束？ **"
 	}
 	"*** JUMP ***"
 	{
@@ -866,7 +866,7 @@
 	}
 	"*** Where are we...? ***"
 	{
-		"chi"		"**我们在哪里…? **"
+		"chi"		"**我们在哪里...？ **"
 	}
 	"*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
 	{
@@ -878,16 +878,16 @@
 	}
 	"*** Star road will active in 20 seconds ***"
 	{
-		"chi"		"**星光大道将在20秒后启动 **"
+		"chi"		"**星路将在20秒后启动 **"
 		"DoorCountDown"		"20"
 	}
 	"*** Star road will active in 5 seconds ***"
 	{
-		"chi"		"**星光大道将在5秒后启动 **"
+		"chi"		"**星路将在5秒后启动 **"
 	}
 	"*** YOU CAN ACROSS NOW !! ***"
 	{
-		"chi"		"**你现在可以在上面走动！！ **"
+		"chi"		"**你现在可以进去了！！ **"
 	}
 	"*** We have lost the escape route ***"
 	{
@@ -895,7 +895,7 @@
 	}
 	"*** Wait until something happen ***"
 	{
-		"chi"		"**等到某事发生 **"
+		"chi"		"**等待发生什么事情**"
 	}
 	"*** 5 seconds left ***"
 	{
@@ -903,19 +903,19 @@
 	}
 	"CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
 	{
-		"chi"		"**粉碎机：hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA **"
+		"chi"		"**不速之客：hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA **"
 	}
 	"CRASHER : You can't kill me forever !!!!"
 	{
-		"chi"		"**粉碎机：你永远杀不了我！！！ **"
+		"chi"		"**不速之客：你永远杀不了我！！！ **"
 	}
 	"*** ZOMBIE WAVE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸海**"
 	}
 	"*** KEYBOARD ATTACK ***"
 	{
-		"chi"		"**键盘攻击 **"
+		"chi"		"**键盘攻击**"
 	}
 	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
 	{
@@ -923,39 +923,39 @@
 	}
 	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
 	{
-		"chi"		"**粉碎机：HAHAHA!!!什么滋味！！！？！？！？！ **"
+		"chi"		"**不速之客：HAHAHA！！！这个感觉怎么样！！！？！？！？！ **"
 	}
 	"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
 	{
-		"chi"		"**粉碎机：一切都结束了！！！HAHAHAHAHA!!! **"
+		"chi"		"**不速之客：一切都结束了！！！HAHAHAHAHA！！！ **"
 	}
 	"????? :That you won't !!!"
 	{
-		"chi"		"**?????:你不会！！！ **"
+		"chi"		"**？？？？？:别痴心妄想了！！！ **"
 	}
 	"CAPTAIN CLOUD :Don't take hand for them !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云队长：不要协助他们！！**"
 	}
 	"CAPTAIN CLOUD :Hey! Humans !! I will help you !!"
 	{
-		"chi"		"**队长：嘿！人类！！我将帮助你！！ **"
+		"chi"		"**云队长：嘿！人类！！我会帮助你的！！ **"
 	}
 	"CAPTAIN :Pick up me !! I will attack him !!!"
 	{
-		"chi"		"**队长：捡起我！！我会攻击他!!! **"
+		"chi"		"**云队长：捡起我！！我会攻击他！！！ **"
 	}
 	"*** A player has picked up the Captain cloud ***"
 	{
-		"chi"		"**一位玩家拿起队长 **"
+		"chi"		"**一位玩家拿起云队长 **"
 	}
 	"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
 	{
-		"chi"		"**粉碎机:HAHAHA!!!无论你做什么都杀不了我！！！ **"
+		"chi"		"**不速之客:HAHAHA！！！无论你做什么都杀不了我！！！ **"
 	}
 	"*** TAPIOKA PUNCH ***"
 	{
-		"chi"		"** **"
+		"chi"		"**木薯拳**"
 	}
 	"CRASHER :Wha...What...? I was defeated by them....?"
 	{
@@ -979,71 +979,71 @@
 	}
 	"*** WE BACKED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们撤退吧**"
 	}
 	"*** THIS IS OUR LAST STAND !!!!!!! ***"
 	{
-		"chi"		"**这是最后一站了！！！！ **"
+		"chi"		"**这是最后一战了！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 40 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在40秒后完成!!! **"
+		"chi"		"**天空竞技将在40秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 30 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在30秒后完成!!! **"
+		"chi"		"**天空竞技将在30秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 20 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在20秒后完成!!! **"
+		"chi"		"**天空竞技将在20秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 10 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在10秒后完成!!! **"
+		"chi"		"**天空竞技将在10秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 9 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在9秒后完成!!! **"
+		"chi"		"**天空竞技将在9秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 8 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在8秒后完成!!! **"
+		"chi"		"**天空竞技将在8秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 7 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在7秒后完成!!! **"
+		"chi"		"**天空竞技将在7秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 6 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在6秒后完成!!! **"
+		"chi"		"**天空竞技将在6秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 5 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在5秒后完成!!! **"
+		"chi"		"**天空竞技将在5秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 4 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在4秒后完成!!! **"
+		"chi"		"**天空竞技将在4秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 3 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在3秒后完成!!! **"
+		"chi"		"**天空竞技将在3秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 2 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在2秒后完成!!! **"
+		"chi"		"**天空竞技将在2秒后完成！！！！！ **"
 	}
 	"*** SKY ATHLETIC COMPLETE IN 1 SECONDS !!!!! ***"
 	{
-		"chi"		"**天空竞技将在1秒后完成!!! **"
+		"chi"		"**天空竞技将在1秒后完成！！！！！ **"
 	}
 	"*** YOU COMPLETED SKY ATHLETIC !!!! CONGRATULATIONS !!!!"
 	{
-		"chi"		"**你通关了本神图！！！恭喜！！！ **"
+		"chi"		"**你通关了天空竞技！！！恭喜！！！ **"
 	}
 	"*** DRAIN KEYBOARD ***"
 	{
-		"chi"		"**漏的键盘 **"
+		"chi"		"**键盘外流**"
 	}
 	"*** FLYING CHANCE ***"
 	{
@@ -1063,7 +1063,7 @@
 	}
 	"*** KEYBOARD CUTTER ***"
 	{
-		"chi"		"**键盘刀 **"
+		"chi"		"**键盘切割机... **"
 	}
 	"*** Marathon MODE ***"
 	{
@@ -1091,11 +1091,11 @@
 	}
 	"CUTE CLOUD :I dont fight with you..."
 	{
-		"chi"		"**萌云：我不与你战斗… **"
+		"chi"		"**萌云：我不会和你战斗... **"
 	}
 	"*** KEY BOARD CRASHER IS ANGRY!! DONT STOP SHOOTING!! ***"
 	{
-		"chi"		"**键盘粉碎机很生气!!不要停止射击！！ **"
+		"chi"		"**不速之客很生气!!不要停止射击！！ **"
 	}
 	"CUTE CLOUD :I cant allow you even my captain trust you !!"
 	{
@@ -1103,39 +1103,19 @@
 	}
 	"*** We dont know what will happen... ***"
 	{
-		"chi"		"**我们不知道会发生什么… **"
+		"chi"		"**我们不知道会发生什么... **"
 	}
 	"*** HE ISNT HERE...?***"
 	{
-		"chi"		"**他不在这里...? **"
+		"chi"		"**他不在这里...？ **"
 	}
 	"CRASHER : You cant kill me forever !!!!"
 	{
-		"chi"		"**粉碎机：你永远都不能杀了我！！！ **"
+		"chi"		"**不速之客：你永远都不能杀了我！！！ **"
 	}
 	"*** CRASHER HEALED 70 HP ***"
 	{
-		"chi"		"**粉碎机恢复了70HP **"
-	}
-	"CRASHER :HAHAHA!!! Whats the taste of this !!!?!?!?!"
-	{
-		"chi"		"**粉碎机：HAHAHA!!!滋味怎么样！！！？！？！？ **"
-	}
-	"CRASHER :Its over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
-	{
-		"chi"		"**粉碎机：一切都结束了！！！！！HAHAHAHAHA!!!!! **"
-	}
-	"????? :That you wont !!!"
-	{
-		"chi"		"**?????：你不会！！！ **"
-	}
-	"CAPTAIN CLOUD :Dont take hand for them !!"
-	{
-		"chi"		"** **"
-	}
-	"CRASHER :HAHAHA !!! You cant kill me whatever you do anything !!!!!!"
-	{
-		"chi"		"**粉碎机：HAHAHA!!!无论你做什么事你都杀不了我！！！ **"
+		"chi"		"**不速之客恢复了70HP **"
 	}
 	"CAPTAIN CLOUD :I dont forgot this thing. See you again...."
 	{
@@ -1151,7 +1131,7 @@
 	}
 	"*** TIME UP !! Someone go to the goal !! ***"
 	{
-		"chi"		"**时间到！！需要有人去触发！！ **"
+		"chi"		"**时间到！！有人已经抵达终点！！ **"
 	}
 	"*** You have 10 seconds to select the level ***"
 	{
@@ -1195,103 +1175,103 @@
 	}
 	"*** FIRST PORTAL ACTIVATED in 20 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点20秒后激活**"
 	}
 	"*** WARNING : FAST SPAWN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：重生速度加快**"
 	}
 	"*** WHAT !! where is there...? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**什么！！这里是哪里...？**"
 	}
 	"*** Be careful !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心！！**"
 	}
 	"????? : I saw you when you were fighting with my brother ...."
 	{
-		"chi"		"** **"
+		"chi"		"**？？？？？：我看见你和我兄弟战斗**"
 	}
 	"????? : Im cute clouds sister..."
 	{
-		"chi"		"** **"
+		"chi"		"**？？？？？：我可爱的云妹妹**"
 	}
 	"Girl cloud : and... you defeated my brother..."
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：而且...你击败了我哥哥...**"
 	}
 	"Girl cloud : I will avenge the death...!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我会用死亡来报复你...！！！！！**"
 	}
 	"Girl cloud : Lets fight with me !!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:来和我战斗吧！！！！！**"
 	}
 	"Girl cloud : OMG...I was defeated..."
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:啊...我被击败了...**"
 	}
 	"Girl cloud : but... I prepared the machine for killing humans...!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:但是...我准备了杀人机器...！！**"
 	}
 	"Girl cloud : LOOK THE MY MACHINE !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:这就是我的杀人机器！！！！**"
 	}
 	"Girl cloud : What do you think about this machine ???"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:你觉得这台杀人机器怎么样？？？**"
 	}
 	"Girl cloud : I think.... Its very beautiful !!!!!!!!!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我觉得...这个非常优美！！！！！！！！！！**"
 	}
 	"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:去死吧！！！！！！！！！！！！！**"
 	}
 	"WARNING : ZOMBIES ARE ALIVE !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：僵尸可以进攻！！！**"
 	}
 	"*** HINT : Dont shoot the machine !! SHOOT THE her head !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**提醒：不要射击杀人机器！！射击她的头部！！！**"
 	}
 	"Girl cloud : I...I cant die in here...!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：我...我不能死在这里...！！！！！**"
 	}
 	"Girl cloud : need....FULL POWER.....!!!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：需要...全力以赴...！！！！！！！！**"
 	}
 	"*** She is awakening !!! Dont stop shooting !!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**她醒过来了！！！快攻击她！！！！！**"
 	}
 	"Girl cloud : What...? Machine error..!?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：什么...？机器出错了..！？**"
 	}
 	"Girl cloud : OH no!!! Please move !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：不！！！拜托动起来吧！！！！**"
 	}
 	"Girl cloud : AHHHHHHHHHHHH !!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：AHHHHHHHHHHHH**"
 	}
 	"*** You defeated Girl cloud ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了云妹妹**"
 	}
 	"*** Shit!! Zombies come here!! Defend your self !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**草！！僵尸要过来了，保护你们自己！！**"
 	}
 	"*** SURVIVE FOR 15 SECONDS !! ***"
 	{
@@ -1355,7 +1335,7 @@
 	}
 	"*** We can feel hard wind pressure...!! Dodge it !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们感受到强风压近...！！！躲开它！！！**"
 	}
 	"Remember : 8 COUNTS !!!!!"
 	{
@@ -1367,47 +1347,47 @@
 	}
 	"** NOT ALLOWING PORTING TO CSS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不允许移植到CSS**"
 	}
 	"*** WARM UP ROUND ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身局**"
 	}
 	"*** Welcome to the sky athletic !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到sky athletic！！！**"
 	}
 	"*** This world needs something Technique ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这个世界需要一些技术才能游玩**"
 	}
 	"*** This round is WARM UP ROUND ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是热身局**"
 	}
 	"*** Lets practice before starting the game !!***"
 	{
-		"chi"		"** **"
+		"chi"		"**让我们开始游戏之前练习技术！！！**"
 	}
 	"*** ADVENTURE WILL START IN 1 MINUTE AND 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**1分30秒后开始冒险**"
 	}
 	"*** ADVENTURE WILL START IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后开始冒险**"
 	}
 	"*** ADVENTURE WILL START IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后开始冒险**"
 	}
 	"*** ADVENTURE WILL START IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后开始冒险**"
 	}
 	"*** ADVENTURE is begining... Good lu"
 	{
-		"chi"		"** **"
+		"chi"		"**冒险开始了...祝你好运**"
 	}
 	"cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
 	{
@@ -1415,23 +1395,23 @@
 	}
 	"*** FIRST Portal will active in 20 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点20秒后激活**"
 	}
 	"*** FIRST Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点5秒后激活**"
 	}
 	"***ZOMBIES ARE COMING***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸突破空气墙**"
 	}
 	"*** Weather is getting bad... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天气变得恶劣了...**"
 	}
 	"*** FIRST Portal will active in 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点10秒后激活**"
 	}
 	"*** LEVEL19 Portal will active in 30 SECONDS ***"
 	{
@@ -1483,15 +1463,15 @@
 	}
 	"CLOUD FATHER :I hope he is dead..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我希望他已经死了...**"
 	}
 	"CLOUD FATHER :Humans,we dont know he is really dead."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:人类，我们不知道他是不是真的死了.**"
 	}
 	"CLOUD FATHER :Take care if you go anymore."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:如果你离开的话请小心.**"
 	}
 	"*** Defend for 30 seconds ***"
 	{
@@ -1511,11 +1491,11 @@
 	}
 	"*** CONGRATULATIONS !!!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜！！！！！！！！！！**"
 	}
 	"*** YOU SECURED SKY ATHLETIC...? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你在SKY ATHLETIC活下来了...？**"
 	}
 	"*** STAGE : KEY WORLD ***"
 	{
@@ -1523,19 +1503,19 @@
 	}
 	"*** Portal is broken by unknown !!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点因不明原因损坏了**"
 	}
 	"*** HE COMES AGAIN !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**他又来了！！！**"
 	}
 	"*** WATCH OUT !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心！！！**"
 	}
 	"*** Character brok** a*d ano**er way o*****  ***"
 	{
-		"chi"		"** **"
+		"chi"		"**字符 损*不 禾* 另*条 道路 离******"
 	}
 	"*** 40 ***"
 	{
@@ -1559,7 +1539,7 @@
 	}
 	"*** SHOOT HIM !! He has very strong power !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**朝他开枪！！他有非常强大的力量！！**"
 	}
 	"*** KEY RUINS ***"
 	{
@@ -1567,39 +1547,39 @@
 	}
 	"*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸要过来了！！守住！！**"
 	}
 	"*** KEY CANNON ***"
 	{
-		"chi"		"** **"
+		"chi"		"**KEY大炮**"
 	}
 	"*** KEY METEOR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**KEY流星**"
 	}
 	"*** SUMMONING KEY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**召唤KEY**"
 	}
 	"*** KEYBOARD CUTTER 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘切割机2**"
 	}
 	"*** KEYBOARD PARADISE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘天堂**"
 	}
 	"*** DRAIN KEYBOARD 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘外流2**"
 	}
 	"*** KEY METEOR 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**KEY流星2**"
 	}
 	"*** THE WAY OF DELETEING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这条路被删除了**"
 	}
 	"*** 8 **"
 	{
@@ -1639,7 +1619,7 @@
 	}
 	"*** BURNING KEYBOARD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**键盘燃烧**"
 	}
 	"*** LEVEL2 Portal will active in 30 SECONDS***"
 	{
@@ -1847,7 +1827,7 @@
 	}
 	"*** ALL OF LASER DISABLED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有激光陷阱被关闭了**"
 	}
 	"*** LEVEL14 Portal will active in 30 SECONDS ***"
 	{
@@ -1871,51 +1851,51 @@
 	}
 	"BOY CLOUD : !? theyre the humans !?"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:！？他们就是人类！？**"
 	}
 	"BOY CLOUD : Hey !! I and my friends will defeat you humans !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:嘿！！我和我的朋友会击败你们人类的！！**"
 	}
 	"BOY CLOUD : My father said human is getting our place..."
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:我的父亲说人类我抢夺我们的地方...**"
 	}
 	"BOY CLOUD : So!!! I need to defeat you at this time !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:所以！！！我现在要击败你！！**"
 	}
 	"BOY CLOUD : If I will be able to defeat you..."
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:如果我能击败你...**"
 	}
 	"BOY CLOUD : My father will praise me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:我的父亲会以我为荣！！**"
 	}
 	"BOY CLOUD : Its very proud for me too!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:我也会感到骄傲！！**"
 	}
 	"BOY CLOUD : Shoot me !! if you can follow my speed !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:攻击我吧！！如果你能跟上我的速度**"
 	}
 	"BOY CLOUD : Nuwaaaaaaaa!! My best speedddddd!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:Nuwaaaaaaaa！！看我最快的速度！！！！！**"
 	}
 	"*** IT CALLED MORE HIS FRIENDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**他呼唤了更多的朋友**"
 	}
 	"BOY CLOUD: Ahh!! remember this things !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:啊！！记住这件事！！！！！！**"
 	}
 	"*** BOY CLOUD IS DEFEATED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥被击败**"
 	}
 	"*** ZOMBIE WILL COME IN 8 SECONDS ***"
 	{
@@ -1979,159 +1959,159 @@
 	}
 	"Girl CLOUD: You defeated my brother and come this place right?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:你击败了我哥哥来到这里对吧？**"
 	}
 	"Girl CLOUD: Im boy clouds sister!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我是他的妹妹！**"
 	}
 	"Girl CLOUD: I will defeat you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我会击败你的！！**"
 	}
 	"Girl CLOUD: Im stronger than you and father are thinking!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我想我比你和父亲更加强大！！**"
 	}
 	"Girl CLOUD: Fight me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:和我战斗吧！！**"
 	}
 	"Girl CLOUD : Guh...you are stronger than I thought..."
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:guh...你比我想象中的要强大...**"
 	}
 	"Girl CLOUD : but... I prepared the machine for you"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:但是...我为你准备的机车**"
 	}
 	"Girl CLOUD : What do you think about this machine ?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:你觉得这个机车怎么样？**"
 	}
 	"Girl CLOUD : !? Not my father made !! ! I was made it myself !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:！？不是我父亲制作的！！ ！这是我亲手制作的！！**"
 	}
 	"Girl CLOUD : Ahh... I was taught by him a little..."
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:啊...我的确是受到他的一些指导...**"
 	}
 	"Girl CLOUD : A,Anyway !! you will be defeated by this machine!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:无，无论如何！！你会被我的机车击败的！！**"
 	}
 	"Girl CLOUD :Cant move finely !! Is engine colding !?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:不能精确移动了！！发动机被冻住了！？**"
 	}
 	"*** WIND is too strong !! Bullets will be back !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**风力太强了！！子弹射过来了！！**"
 	}
 	"Girl CLOUD :Stop it !! Engine will be burning !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:停下！！发动机要烧起来了！！**"
 	}
 	"Girl cloud : What...? Why cant move !?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:什么...？为什么动不了了！？**"
 	}
 	"*** Her machine is releasing smoke!!keep shooting !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**她的机车正在释放烟雾！！继续射击！！**"
 	}
 	"Girl cloud : Ahh!! Please move !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:啊！！拜托动起来啊！！**"
 	}
 	"Girl cloud : AHHHHHHHHHHHH !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:啊啊啊啊啊啊啊啊啊啊啊！！**"
 	}
 	"*** Its her final attack !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是她最后的攻击了！！**"
 	}
 	"BOY CLOUD :I couldnt beat you humans..."
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:我击败不了你们人类...**"
 	}
 	"Girl CLOUD :I couldnt beat you too..."
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我也击败不了你们**"
 	}
 	"TWO CLOUDS :but..."
 	{
-		"chi"		"** **"
+		"chi"		"**云兄妹:但是...**"
 	}
 	"TWO CLOUDS :My Father will defeat you instead of us !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云兄妹:我的父亲会代替我们击败你们！！**"
 	}
 	"BOY CLOUD :HEY DAD !! PLEASE DEFEAT THEM !!!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:父亲！！击败他们吧！！！！！！！！！**"
 	}
 	"CLOUD FATHER :IRASSYAI MASE"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:欢迎光临**"
 	}
 	"BOY CLOUD :Please defeat them !! We will help you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:击败他们吧父亲！！我们会帮助你的！！**"
 	}
 	"CLOUD FATHER : HAHAHA,remember your items cant effect me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:哈哈哈，记住你们的神器不会对我起效的！！**"
 	}
 	"CLOUD FATHER :Time to show my high power..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:是时候展现真正的力量了...**"
 	}
 	"CLOUD FATHER :LOOK !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:看！！**"
 	}
 	"CLOUD FATHER :Can you survive !?"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:你存活下来了！？**"
 	}
 	"CLOUD FATHER :oh... I was beaten.."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:噢....我被殴打了...**"
 	}
 	"CLOUD FATHER :Hey... You are very strong...."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:嘿...你真的很强....**"
 	}
 	"CLOUD FATHER :I think..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我认为....**"
 	}
 	"CLOUD FATHER :you can defeat him..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:你能击败他...**"
 	}
 	"CLOUD FATHER :I couldnt defeat him,because he was very stronger than me."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我不能击败他，因为他比我强太多了**"
 	}
 	"CLOUD FATHER :So please defeat him instead of me..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:希望你能代替我击败他...**"
 	}
 	"BOY CLOUD :Hey humans !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:嘿人类！！**"
 	}
 	"BOY CLOUD :I cant trust you even my father trust you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:就算我父亲相信你我也不相信你**"
 	}
 	"BOY CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:吃我最后一击！！！！！！！！！！！！！！！！！！！！！**"
 	}
 	"Remember : 10 COUNTS !!!!!"
 	{
@@ -2139,19 +2119,19 @@
 	}
 	"BOY CLOUD :Ahhh...They...really...strong...!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:啊....你们....真的....很强...！！！**"
 	}
 	"CLOUD FATHER :Dont take hand for them !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:不要帮助他们了！！**"
 	}
 	"CLOUD FATHER :Hey! Humans !! I will help you !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:嘿！人类！！我会帮助你的！！**"
 	}
 	"CLOUD FATHER :Pick up me !! I will attack him !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:捡起我！！我会攻击他！！！**"
 	}
 	"*** A player has picked up the CLOUD FATHER ***"
 	{
@@ -2159,6 +2139,6 @@
 	}
 	"CLOUD FATHER :Im giving the power to you..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我把我的力量赋予你...**"
 	}
 }
