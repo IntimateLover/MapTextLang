@@ -1347,7 +1347,7 @@
 	}
 	"** NOT ALLOWING PORTING TO CSS ***"
 	{
-		"chi"		"**不允许移植到CSS**"
+		"chi"		"**该地图不允许移植到CSS**"
 	}
 	"*** WARM UP ROUND ***"
 	{
@@ -1580,7 +1580,7 @@
 	}
 	"*** THE WAY OF DELETEING ***"
 	{
-		"chi"		"**这条路被删除了**"
+		"chi"		"**删除**"
 	}
 	"*** 8 **"
 	{
