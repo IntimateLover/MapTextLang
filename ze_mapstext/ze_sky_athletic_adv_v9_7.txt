@@ -1215,7 +1215,7 @@
 	}
 	"Girl cloud : but... I prepared the machine for killing humans...!!"
 	{
-		"chi"		"**云妹妹:但是...我准备了杀人机器...！！**"
+		"chi"		"**云妹妹:但是...我准备了这台机车来杀死你们...！！**"
 	}
 	"Girl cloud : LOOK THE MY MACHINE !!!!"
 	{
@@ -1347,7 +1347,7 @@
 	}
 	"** NOT ALLOWING PORTING TO CSS ***"
 	{
-		"chi"		"**不允许移植到CSS**"
+		"chi"		"**该地图不允许移植到CSS**"
 	}
 	"*** WARM UP ROUND ***"
 	{
@@ -1580,7 +1580,7 @@
 	}
 	"*** THE WAY OF DELETEING ***"
 	{
-		"chi"		"**这条路被删除了**"
+		"chi"		"**删除**"
 	}
 	"*** 8 **"
 	{
@@ -2020,7 +2020,7 @@
 	}
 	"*** Her machine is releasing smoke!!keep shooting !! ***"
 	{
-		"chi"		"**她的机车正在释放烟雾！！继续射击！！**"
+		"chi"		"**她的机车已经冒烟了！！继续射击！！**"
 	}
 	"Girl cloud : Ahh!! Please move !!"
 	{
