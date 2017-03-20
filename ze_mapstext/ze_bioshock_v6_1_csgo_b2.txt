@@ -412,4 +412,88 @@
 	{
 		"syncvalue"		"20814"
 	}
+	"*ADMIN Room: Next round set to Chapter 2*"
+	{
+		"chi"		"** **"
+	}
+	">>Go up the stairs<<"
+	{
+		"chi"		"** **"
+	}
+	">>Elevator is leaving - 5s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Laser incoming<<"
+	{
+		"chi"		"** **"
+	}
+	">>Wait for garden access - 20s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Service must end before you may enter - 25s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Elizabeth is searching for a tear - 50s<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ELIZABETH: This is it! Defend the boat!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elizabeth cant control the tear! Teleport in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>Its your chance. Kill the Songbird<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Congratulations<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Thank you for playing<<"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Next round set to Chapter 3*"
+	{
+		"chi"		"** **"
+	}
+	">>SECRET: Found the Bird Token<<"
+	{
+		"chi"		"** **"
+	}
+	">>>All emblems obtained<<<"
+	{
+		"chi"		"** **"
+	}
+	">>SECRET: Found the Airship Token<<"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Set Chapter 4 ending to GOOD*"
+	{
+		"chi"		"** **"
+	}
+	">>You must wait for the islands to align - 30s<<"
+	{
+		"chi"		"** **"
+	}
+	">>>CONGRATULATIONS!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>TRUE ENDING OBTAINED<<<"
+	{
+		"chi"		"** **"
+	}
 }
