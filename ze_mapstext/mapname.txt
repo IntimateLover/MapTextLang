@@ -23,6 +23,8 @@
 	"ze_FFVII_Mako_Reactor_p8"
 	{
 		"chi"		"最终幻想7: 魔光炉"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 	"ze_Hell_Escape_p2"
 	{
@@ -1135,7 +1137,7 @@
 	{
 		"chi"		"大屌逃亡"
 	}
-	"ze_sky_athletic_adv_v9_4"
+	"ze_sky_athletic_adv_v9_7"
 	{
 		"chi"		"天空竞技"
 	}
@@ -1203,7 +1205,7 @@
 	{
 		"chi"		"舞台剧"
 	}
-	"ze_artika_base_v1_1"
+	"ze_artika_base_v1_2"
 	{
 		"chi"		"探秘基地"
 	}
@@ -1215,7 +1217,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_lolxd_final"
+	"ze_lolxd_final_fix"
 	{
 		"chi"		"紫色世界"
 	}
@@ -1227,7 +1229,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_gris_v1_10f"
+	"ze_gris_v1_11ffff"
 	{
 		"chi"		"创世E"
 	}
@@ -1375,7 +1377,7 @@
 	{
 		"chi"		"末日逃生"
 	}
-	"ze_dreamin_v1_4"
+	"ze_dreamin_v1_6"
 	{
 		"chi"		"梦想"
 	}
@@ -1509,7 +1511,7 @@
 	{
 		"chi"		"沙尘暴"
 	}
-	"ze_bioshock_v6_1_csgo_b1"
+	"ze_bioshock_v6_2_csgo"
 	{
 		"chi"		"生化奇兵"
 	}
