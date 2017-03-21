@@ -1219,15 +1219,15 @@
 	}
 	"Girl cloud : LOOK THE MY MACHINE !!!!"
 	{
-		"chi"		"**云妹妹:这就是我的杀人机器！！！！**"
+		"chi"		"**云妹妹:这就是我的机车！！！！**"
 	}
 	"Girl cloud : What do you think about this machine ???"
 	{
-		"chi"		"**云妹妹:你觉得这台杀人机器怎么样？？？**"
+		"chi"		"**云妹妹:你觉得这台机车怎么样？？？**"
 	}
 	"Girl cloud : I think.... Its very beautiful !!!!!!!!!!!!!!"
 	{
-		"chi"		"**云妹妹:我觉得...这个非常优美！！！！！！！！！！**"
+		"chi"		"**云妹妹:我觉得...这个非常绚丽！！！！！！！！！！**"
 	}
 	"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
 	{
@@ -1239,7 +1239,7 @@
 	}
 	"*** HINT : Dont shoot the machine !! SHOOT THE her head !!! ***"
 	{
-		"chi"		"**提醒：不要射击杀人机器！！射击她的头部！！！**"
+		"chi"		"**提醒：不要射击机车！！射击她的头部！！！**"
 	}
 	"Girl cloud : I...I cant die in here...!!!!!"
 	{
@@ -1255,7 +1255,7 @@
 	}
 	"Girl cloud : What...? Machine error..!?"
 	{
-		"chi"		"**云妹妹：什么...？机器出错了..！？**"
+		"chi"		"**云妹妹：什么...？机车出问题了？..！？**"
 	}
 	"Girl cloud : OH no!!! Please move !!!!"
 	{
@@ -1984,7 +1984,7 @@
 	}
 	"Girl CLOUD : but... I prepared the machine for you"
 	{
-		"chi"		"**云妹妹:但是...我为你准备的机车**"
+		"chi"		"**云妹妹:但是...我准备了机车对付你**"
 	}
 	"Girl CLOUD : What do you think about this machine ?"
 	{
@@ -2004,7 +2004,7 @@
 	}
 	"Girl CLOUD :Cant move finely !! Is engine colding !?"
 	{
-		"chi"		"**云妹妹:不能精确移动了！！发动机被冻住了！？**"
+		"chi"		"**云妹妹:不能精准移动了！！发动机被冻住了！？**"
 	}
 	"*** WIND is too strong !! Bullets will be back !! ***"
 	{
@@ -2144,27 +2144,27 @@
 	}
 	"*** This area seems to begin to collapse !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这个区域开始崩溃了！！！**"
 	}
 	"*** CUTE CLOUDS created escape road !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**萌云们生成了一条新的逃生道路**"
 	}
 	"*** Across their head !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**从他们的头上逃走！！**"
 	}
 	"*** WATCH OUT !!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心！！！！！！！**"
 	}
 	"*** The ESC Key is blocking our way !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这个ESC键挡住我们的道路了！！**"
 	}
 	"*** HOLD FOR 35 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御35秒！！**"
 	}
 	"*** 5 SECONDS LEFT !!***"
 	{
@@ -2176,99 +2176,99 @@
 	}
 	"*** THE CLOUD FATHER is top of the way !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸在路的尽头！！**"
 	}
 	"*** GET ON THE HIM !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳到他上面！！**"
 	}
 	"*** He is not dead yet !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不速之客还没有死！！**"
 	}
 	"*** SHOOT HIM WITH YOUR FULL POWER !!!!!!!!!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**用你的全力射击他！！！！！！！！！！！！！！！**"
 	}
 	"*** SHOOT !! BEFORE HE KILL CLOUD FATHER !!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在他杀死云爸爸前快杀死他！！！！**"
 	}
 	"*** THE CLOUD FATHER IS KILLED BY HIM !!* **"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸被不速之客杀死了！！**"
 	}
 	"*** ADVENTURE IS OVER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**冒险结束了**"
 	}
 	"CRASHER :HAHAHA!!! Whats the taste of this !!!?!?!?!"
 	{
-		"chi"		"** **"
+		"chi"		"**不速之客：哈哈哈哈哈！！！这个感觉怎么样！！！？！？！？！**"
 	}
 	"CRASHER :Its over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**不速之客：一切都结束了！！！HAHAHAHAHA！！！**"
 	}
 	"????? :That you wont !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**？？？？？:别痴心妄想了！！！**"
 	}
 	"CRASHER :HAHAHA !!! You cant kill me whatever you do anything !!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**不速之客：哈哈哈！！！不管你做什么你都杀不死我的！！！！**"
 	}
 	"*** YOU DID IT !!! HE REALLY DEAD !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了！！！他真的死了！！**"
 	}
 	"CLOUD FATHER : A person who have strong power can be killed myself."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：一个人有强大的力量时可以杀死自己.**"
 	}
 	"CLOUD FATHER : Thats when they cant control their power."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：当他不能控制自己力量时.**"
 	}
 	"CLOUD FATHER : I already know it,because I saw it from the past."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：我都知道的，过去我就看见过这样的事情**"
 	}
 	"CLOUD FATHER :...but you have power and unify."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：...但是你有团结和力量.**"
 	}
 	"CLOUD FATHER : so you could defeat him."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：所以你可以击败他.**"
 	}
 	"CLOUD FATHER : unify is stronger than power."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：团结会使你的力量更加强大.**"
 	}
 	"CLOUD FATHER : ...but If you hope more difficulty anymore."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：...但是如果你想寻找更难的挑战**"
 	}
 	"CLOUD FATHER : You can be outing of control too."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：你也可以脱离控制.**"
 	}
 	"CLOUD FATHER : Well,the best is keeping myself with hoping more it."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：好吧，希望你最好能保持自我.**"
 	}
 	"CLOUD FATHER : ...ok,talking is end."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：...行了，谈话就到这了.**"
 	}
 	"CLOUD FATHER : Goodbye I hope you wont come back."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸：我希望你不会回来了，再见.**"
 	}
 	"*** You have beaten too difficult stage !!!! Congratulations !!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你通关了极难关卡！！！恭喜！！！！！**"
 	}
 	"*** STAGE : HIS POWER 33***"
 	{
@@ -2276,75 +2276,75 @@
 	}
 	"*** Adventure is over,need to chenge map ***"
 	{
-		"chi"		"** **"
+		"chi"		"**冒险已经结束了，更换地图吧**"
 	}
 	"*** What are you doing? adventure is over.type rtv now ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你在干什么？冒险已经结束了.快RTV**"
 	}
 	"CLOUD FATHER : well...I know you will come back."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:....我知道你会回来的.**"
 	}
 	"CLOUD FATHER :..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:...**"
 	}
 	"CLOUD FATHER : I thought."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我在想.**"
 	}
 	"CLOUD FATHER : What should I have to do for stopping your hoping it?"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我应该怎么做才能阻止你所希望的？**"
 	}
 	"CLOUD FATHER : Answer is very simple."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:答案很简单.**"
 	}
 	"CLOUD FATHER : I do to experience you the unrealistic difficulty."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我会让你体验到你想象不到的困难.**"
 	}
 	"CLOUD FATHER : Until you type rtv."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:直到你输入rtv.**"
 	}
 	"CLOUD FATHER : If you type rtv.It means..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:如果你输入rtv.这就说明了...**"
 	}
 	"CLOUD FATHER : I dont want to play this map anymore,dont it?"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我不想再玩这张地图了,对吧？**"
 	}
 	"CLOUD FATHER : So I give you the unrealistic difficulty...!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我现在让你体验下这种困难...！**"
 	}
 	"CLOUD FATHER : Its no hope and mercy..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:不会有任何希望和仁慈...**"
 	}
 	"CLOUD FATHER : Its not only for you"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:这不仅仅是为了你**"
 	}
 	"CLOUD FATHER : Its for my family,friends and... sky athletic !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:还为了我的家人，朋友还有...sky athletic！！！！**"
 	}
 	"CLOUD FATHER : Not allow you to beat this level....!!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:不允许你击败这个难度....！！**"
 	}
 	"*** CLOUD FATHERS TRUE ATTACKS !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**真云爸爸开始攻击！！*"
 	}
 	"*** At that time,smiling is disappeared from his face.... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这时，微笑从他的脸上消失了....**"
 	}
 	"*** ZOMBIES ARE ALIVE !! ***"
 	{
@@ -2360,42 +2360,42 @@
 	}
 	"CLOUD FATHER :Alright...finally you defeat me,you won."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:好吧...你还是击败了我，你赢了**"
 	}
 	"CLOUD FATHER :It seems your power is true..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:看来你真的很强...**"
 	}
 	"CLOUD FATHER :If you was in at that time...we could save my..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:如果那个时候你在的话...我们可以拯救我的...**"
 	}
 	"CLOUD FATHER :Oh,please pretend you didnt hear that."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:噢,请假装没听到这件事吧.**"
 	}
 	"CLOUD FATHER :...So you should use it in other area."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:...所以你应该把你的力量用在其他地方.**"
 	}
 	"CLOUD FATHER :You can complete other area even you have it."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:你能用你的力量通关其他地方.**"
 	}
 	"CLOUD FATHER :...Me? dont worry I was made of water."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:...我？不用担心我是用水做的.**"
 	}
 	"CLOUD FATHER :This injured will fix soon."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:这个伤口很快就能修复.**"
 	}
 	"CLOUD FATHER :ok,Humans time to change your area...!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:好了，人类是时候换图了...！**"
 	}
 	"BOY CLOUD : Too hot!! keep away it from me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:太热了！！离我远一点！！**"
 	}
 }
