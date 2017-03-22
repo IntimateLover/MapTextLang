@@ -465,7 +465,8 @@
 	}
 	"*** STAGE 5 LOADED ***"
 	{
-		"chi"		"**第五阶段加载 **"
+		"chi"		"**第五阶段加载 **(手电筒启用)"
+		"command" "sm_flashlight_enabled 1"
 	}
 	"*** STAGE 5 ***"
 	{
