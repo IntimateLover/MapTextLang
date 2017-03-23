@@ -245,7 +245,7 @@
 	}
 	"**Global trigger activated: low gravity for humans**"
 	{
-		"chi"		"**全体属性触发：人类低重力 **"
+		"chi"		"**团队属性触发：人类低重力 **"
 	}
 	"**Team trigger activated: fast T in 5 s**"
 	{
@@ -374,7 +374,7 @@
 	}
 	"** Thunder gun has been picked up**"
 	{
-		"chi"		"**电枪被拿起 **"
+		"chi"		"**风枪被拿起 **"
 	}
 	"** Barnacle impulsion zombie has been picked up **"
 	{
@@ -565,7 +565,7 @@
 	}
 	"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
 	{
-		"chi"		"**风枪！我想要8风枪一起行动！ **"
+		"chi"		"**风枪！我想要8个风枪一起行动！ **"
 	}
 	"** Vortigaunt has been picked up**"
 	{
@@ -715,7 +715,7 @@
 	}
 	"** ... 8 Jumpers! Be careful! It is harder than it sounds! **"
 	{
-		"chi"		"**8只Jumpers！小心！它听起来比较难！ **"
+		"chi"		"**8只跳高僵尸！小心！它听起来比较难！ **"
 	}
 	"**UNLIMITED AMMO! It looks kinda easy! **"
 	{
@@ -787,58 +787,58 @@
 	}
 	"** HOLY GENADE! Be careful with that weapon! **"
 	{
-		"chi"		"** **"
+		"chi"		"**圣雷！小心那个武器！ **"
 	}
 	"** ... 8 Pyramid Head! Bullets dont do nothing agains them! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个三角头！子弹对他们没有伤害和击退！ **"
 	}
 	"** ... 8 Summoners! Zombies: remember that right click summons a black hole! **"
 	{
-		"chi"		"** **"
+		"chi"		"**8个僵尸召唤师！僵尸：记得右键召唤一个传送阵！ **"
 	}
 	"[PLAYING] Serious Sam 2 : Boss fight"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Serious Sam 2 : Boss fight **"
 	}
 	"** FLAMETHROWER! I love the smell of Napalm in the morning! **"
 	{
-		"chi"		"** **"
+		"chi"		"**火焰喷射器！我喜欢在早晨闻汽油的味道！ **"
 	}
 	"** SUPER TRIGGER ACTIVATED : SILENT HILL **"
 	{
-		"chi"		"** **"
+		"chi"		"**超级模式激活：寂静岭 **"
 	}
 	"[PLAYING] Silent Hill 2 : Theme of Laura"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Silent Hill 2 : Theme of Laura **"
 	}
 	"** The hole will open in 60 s **"
 	{
-		"chi"		"** **"
+		"chi"		"**这个洞口将在60秒后打开 **"
 	}
 	"** ROCKET LAUNCHER! Covering fire!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**火箭发射器！火力掩护！！！ **"
 	}
 	"** SUPER TRIGGER ACTIVATED : THIS IS MADNESS **"
 	{
-		"chi"		"** **"
+		"chi"		"**超级模式激活：疯狂 **"
 	}
 	"[PLAYING] Vuvuzela Ultra Megamix"
 	{
-		"chi"		"** **"
+		"chi"		"**[当前播放]Vuvuzela Ultra Megamix **"
 	}
 	"**ANNIHILATOR! You are very lucky! **"
 	{
-		"chi"		"** **"
+		"chi"		"**歼灭者！你很幸运！ **"
 	}
 	"** SAW! Remember 300? Maybe you could try something! **"
 	{
-		"chi"		"** **"
+		"chi"		"**电锯！也许你可以试试！ **"
 	}
 	"** INVULNERABILITY! I hope you are one of the pickers! **"
 	{
-		"chi"		"** **"
+		"chi"		"**无敌！我希望你是其中的一个人！ **"
 	}
 }
