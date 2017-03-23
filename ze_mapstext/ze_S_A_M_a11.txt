@@ -80,7 +80,23 @@
 	{
 		"chi"		"** **"
 	}
-	"**NADE DO MORE DAMAGE**"
+	"sync_version"
+	{
+		"syncvalue"		"9767"
+	}
+	"**[Admin]STAGE 2**"
+	{
+		"chi"		"** **"
+	}
+	"**[Admin]STAGE 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie has picked up <Gravity>**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie has picked up <Ice>**"
 	{
 		"chi"		"** **"
 	}

@@ -1,0 +1,175 @@
+"Console_GameText"
+{
+	">>STAGE 1<<"
+	{
+		"chi"		"** 第一阶段 **"
+	}
+	">>GATE OPENING IN 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>MAZEDOOR OPENING IN 30 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"MAZE DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>BREAK THE INVERTED CRYSTAL TOWER<<"
+	{
+		"chi"		"** **"
+	}
+	"MAZE WALL"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL ACTIVATED<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 2<<"
+	{
+		"chi"		"** **"
+	}
+	">>TRIGGER THE MECHANISMS ON THE WALL<<"
+	{
+		"chi"		"** **"
+	}
+	">>WAIT FOR 10 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"STONE FLOOR"
+	{
+		"chi"		"** **"
+	}
+	">>WAITING THE PLATFORM APPEAR<<"
+	{
+		"chi"		"** **"
+	}
+	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"STONE WALL"
+	{
+		"chi"		"** **"
+	}
+	">>THIS DOOR BREAKING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE DOOR BREAKING IN 45 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"BOSS PLATFORM"
+	{
+		"chi"		"** **"
+	}
+	"<FIRE>"
+	{
+		"chi"		"** **"
+	}
+	"<ICE>"
+	{
+		"chi"		"** **"
+	}
+	"<LIGHT>"
+	{
+		"chi"		"** **"
+	}
+	"<DARK>"
+	{
+		"chi"		"** **"
+	}
+	"<WIND>"
+	{
+		"chi"		"** **"
+	}
+	">>ELEVATOR LEAVES IN 20 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"ELEVATOR"
+	{
+		"chi"		"** **"
+	}
+	">>IT SEEMS CONTAIN A BIG ENERGY<<"
+	{
+		"chi"		"** **"
+	}
+	"ENERGY RELEASE"
+	{
+		"chi"		"** **"
+	}
+	">>KEEP DEFENCE , DONT LET THEM OUT<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 2 COMPLETE<<"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL BROKEN<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD 45 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>DOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"BOSS ROOM DOOR"
+	{
+		"chi"		"** **"
+	}
+	"<<SHAKE WAVE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<SHAKE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<ATTRACT>>"
+	{
+		"chi"		"** **"
+	}
+	">>OUTDOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"OUT DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>NOW USE THE TELEPORT CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>GET OUT OF HERE QUICKLY<<"
+	{
+		"chi"		"** **"
+	}
+}

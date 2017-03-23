@@ -1,14 +1,18 @@
 "Console_T"
 {
-	"**MAP BY TENSHI**"
+	"**Map by Tenshi**"
 	{
 		"chi"		"** **"
 	}
-	"**Player has picked up <Ultima Magic>**"
+	"**[Admin]STAGE 2**"
 	{
 		"chi"		"** **"
 	}
-	"**Player has picked up <Trace>**"
+	"**[Admin]STAGE 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie has picked up <Gravity>**"
 	{
 		"chi"		"** **"
 	}
@@ -16,7 +20,27 @@
 	{
 		"chi"		"** **"
 	}
+	"**Player has picked up <Ultima Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Gravity Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Earth Magic>**"
+	{
+		"chi"		"** **"
+	}
 	"**Player has picked up <Teleport Crystal>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Heal Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Tornado Magic>**"
 	{
 		"chi"		"** **"
 	}
@@ -48,23 +72,11 @@
 	{
 		"chi"		"** **"
 	}
-	"**Player has picked up <Gravity Magic>**"
-	{
-		"chi"		"** **"
-	}
-	"**Player has picked up <Heal Magic>**"
-	{
-		"chi"		"** **"
-	}
-	"**Player has picked up <Earth Magic>**"
-	{
-		"chi"		"** **"
-	}
-	"**Player has picked up <Tornado Magic>**"
-	{
-		"chi"		"** **"
-	}
 	"**Player has picked up <Lightning Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Trace>**"
 	{
 		"chi"		"** **"
 	}
@@ -72,27 +84,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**Barlog : Impotent things , go die**"
-	{
-		"chi"		"** **"
-	}
-	"**YOUR FAILED**"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"9767"
-	}
-	"**[Admin]STAGE 2**"
-	{
-		"chi"		"** **"
-	}
-	"**[Admin]STAGE 1**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombie has picked up <Gravity>**"
+	"**Zombie has picked up <Ice>**"
 	{
 		"chi"		"** **"
 	}
