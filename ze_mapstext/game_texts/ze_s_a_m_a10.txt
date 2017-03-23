@@ -2,6 +2,126 @@
 {
 	">>STAGE 1<<"
 	{
-		"chi"		"** 第一阶段 **"
+		"chi"		"** **"
+	}
+	">>GATE OPENING IN 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>MAZEDOOR OPENING IN 30 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"MAZE DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>BREAK THE INVERTED CRYSTAL TOWER<<"
+	{
+		"chi"		"** **"
+	}
+	">>DOOR OPENING IN 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL ACTIVATED<<"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL BROKEN<<"
+	{
+		"chi"		"** **"
+	}
+	"MAZE WALL"
+	{
+		"chi"		"** **"
+	}
+	">>DOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"BOSS ROOM DOOR"
+	{
+		"chi"		"** **"
+	}
+	"<<ATTRACT>>"
+	{
+		"chi"		"** **"
+	}
+	"<<SHAKE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<SHAKE WAVE>>"
+	{
+		"chi"		"** **"
+	}
+	"OUT DOOR"
+	{
+		"chi"		"** **"
+	}
+	"FINAL DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 1 COMPLETE<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
+	{
+		"chi"		"** **"
+	}
+	">>TRIGGER THE MECHANISMS ON THE WALL<<"
+	{
+		"chi"		"** **"
+	}
+	">>WAIT FOR 10 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"STONE FLOOR"
+	{
+		"chi"		"** **"
+	}
+	">>WAITING THE PLATFORM APPEAR<<"
+	{
+		"chi"		"** **"
+	}
+	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"STONE WALL"
+	{
+		"chi"		"** **"
+	}
+	">>THIS DOOR BREAKING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE DOOR BREAKING IN 45 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"BOSS PLATFORM"
+	{
+		"chi"		"** **"
+	}
+	"<ICE>"
+	{
+		"chi"		"** **"
+	}
+	"<DARK>"
+	{
+		"chi"		"** **"
 	}
 }
