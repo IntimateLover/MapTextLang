@@ -144,11 +144,11 @@
 	}
 	"**Juggernaut has been picked**"
 	{
-		"chi"		"**机械狗被拿起 **"
+		"chi"		"**机械狗被拿起（右键冲撞） **"
 	}
 	"**Flamethrower has been picked**"
 	{
-		"chi"		"**火焰喷射器被拿起 **"
+		"chi"		"**火焰喷射器被拿起（使用后会喷射火焰，被喷到的僵尸移动速度降低） **"
 	}
 	"** NUKE in 60 seconds **"
 	{
@@ -173,7 +173,7 @@
 	}
 	"**Gandalf staff has been picked!**"
 	{
-		"chi"		"**甘道夫法杖被拿起 **"
+		"chi"		"**甘道夫法杖被拿起（使用后大范围击飞一次僵尸） **"
 	}
 	"**Titan monster has entered the game**"
 	{
@@ -185,11 +185,11 @@
 	}
 	"**Temporal invulnerability weapon has been picked**"
 	{
-		"chi"		"**无敌道具被拿起 **"
+		"chi"		"**无敌道具被拿起（绿光持续时间内持有人无敌） **"
 	}
 	"***Earendil light has been picked***"
 	{
-		"chi"		"**圣光被拿起 **"
+		"chi"		"**圣光被拿起（使用后自身周围形成一个360度PUSH区域） **"
 	}
 	"**Global trigger activated: invert controls**"
 	{
@@ -301,11 +301,11 @@
 	}
 	"**Ladder carrier has been picked**"
 	{
-		"chi"		"**梯子被拿起 **"
+		"chi"		"**梯子被拿起（使用后在前方放置一个梯子） **"
 	}
 	"** Grenade maker has been picked up **"
 	{
-		"chi"		"**手雷盒被拿起 **"
+		"chi"		"**手雷盒被拿起（按E使用，只有10颗手雷） **"
 	}
 	"** ... 8 BALROGS!!! You are dead **"
 	{
@@ -329,7 +329,7 @@
 	}
 	"**Singularity cannon has been picked up**"
 	{
-		"chi"		"**黑洞炮已拿起 **"
+		"chi"		"**黑洞炮已拿起（使用后发射一枚黑洞随机移动，只有3发） **"
 	}
 	"** OPENING ZOMBIE DOOR IN 15 SECONDS!!! **"
 	{
@@ -370,11 +370,11 @@
 	}
 	"** Bed item has been picked up **"
 	{
-		"chi"		"**蹦床被拿起 **"
+		"chi"		"**蹦床被拿起（使用后在前方放置一个蹦床） **"
 	}
 	"** Thunder gun has been picked up**"
 	{
-		"chi"		"**风枪被拿起 **"
+		"chi"		"**风枪被拿起（使用后击飞一条直线上的僵尸，只有3发） **"
 	}
 	"** Barnacle impulsion zombie has been picked up **"
 	{
@@ -382,11 +382,11 @@
 	}
 	"**Invisibility cloud has been picked**"
 	{
-		"chi"		"**视野扰乱被拿起 **"
+		"chi"		"**视野扰乱被拿起（使用后视野混乱） **"
 	}
 	"**Giant chainsaw has been picked**"
 	{
-		"chi"		"**巨型电锯被拿起 **"
+		"chi"		"**巨型电锯被拿起（电锯正面击退僵尸和造成较高伤害） **"
 	}
 	"** TREX HAS BEEN PICKED UP! **"
 	{
@@ -394,7 +394,7 @@
 	}
 	"**Sprint weapon has been picked**"
 	{
-		"chi"		"**加速被拿起 **"
+		"chi"		"**加速被拿起（持续时间内速度加快） **"
 	}
 	"** VOLUNTARY! Jump into the red hole to get zombified **"
 	{
@@ -406,7 +406,7 @@
 	}
 	"** Teleport weapon has been picked up **"
 	{
-		"chi"		"**传送武器被拿起 **"
+		"chi"		"**传送武器被拿起（使用后会在前方形成一个传送门，僵尸碰到会被传送到僵尸笼） **"
 	}
 	"**Scary zombie has been picked**"
 	{
@@ -422,7 +422,7 @@
 	}
 	"**Freezer has  been picked**"
 	{
-		"chi"		"**冰冻枪被拿起 **"
+		"chi"		"**冰冻枪被拿起（使用后冰冻僵尸） **"
 	}
 	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
 	{
@@ -431,11 +431,11 @@
 	}
 	"** Unlimited ammo weapon picked! **"
 	{
-		"chi"		"**无限弹药被拿起 **"
+		"chi"		"**无限弹药MP7被拿起 **"
 	}
 	"**Zombie summoner has been picked by a zombie**"
 	{
-		"chi"		"**僵尸召唤师被僵尸拿起 **"
+		"chi"		"**僵尸召唤师被僵尸拿起（使用后会在地面放置一个传送阵，路过的僵尸会被传送到自己身边） **"
 	}
 	"**Team trigger activated: zombies health is now 50000**"
 	{
@@ -443,11 +443,11 @@
 	}
 	"**Slower weapon has been picked**"
 	{
-		"chi"		"**僵尸减速设备被拿起 **"
+		"chi"		"**僵尸减速设备被拿起（使用后白光范围内的僵尸速度下降） **"
 	}
 	"**Rocket launcher has been picked**"
 	{
-		"chi"		"**火箭发射器被拿起 **"
+		"chi"		"**火箭发射器被拿起（使用后击飞被击中的僵尸，无限使用） **"
 	}
 	"** Jukebox has been picked up **"
 	{
@@ -509,7 +509,7 @@
 	}
 	"** BLACK HOLE! Use it carefully! Remember! Just one use! **"
 	{
-		"chi"		"**黑洞！小心使用！记得!只能使用一次！ **"
+		"chi"		"** **"
 	}
 	"** FACE TO FACE CHALLENGE! **"
 	{
@@ -525,7 +525,7 @@
 	}
 	"**Builder has been picked**"
 	{
-		"chi"		"**墙被拿起 **"
+		"chi"		"**墙被拿起（使用后在前面放置一个墙） **"
 	}
 	"**Global trigger activated: absolute blind in 5 s**"
 	{
@@ -533,7 +533,7 @@
 	}
 	"*** Finish mode ** Kill all zombies without help!**"
 	{
-		"chi"		"**完成模式**杀死所有僵尸 **"
+		"chi"		"** 完成模式 ** 杀死所有僵尸 **"
 	}
 	"** We have an epic winner! **"
 	{
@@ -557,7 +557,7 @@
 	}
 	"**Gravity gun has been picked**"
 	{
-		"chi"		"**重力枪被拿起 **"
+		"chi"		"**重力枪被拿起（按E吸引冰箱或大锯盘阻挡僵尸，再按E发射） **"
 	}
 	"** ... 8 Vortigaunts! And no! they are not friendly! **"
 	{
@@ -601,11 +601,11 @@
 	}
 	"** Heal item has been picked up **"
 	{
-		"chi"		"**医疗被拿起 **"
+		"chi"		"**医疗被拿起（使用后血量增加至500） **"
 	}
 	"** Car has been picked **"
 	{
-		"chi"		"**车被拿起 **"
+		"chi"		"**车被拿起（速度加快，被动使用） **"
 	}
 	"** Gandalf in the middle! **"
 	{
@@ -622,7 +622,7 @@
 	}
 	"** Holy grenade has been picked**"
 	{
-		"chi"		"**圣雷被拿起 **"
+		"chi"		"**圣雷被拿起（使用后在范围内的人类和僵尸会被全部秒杀） **"
 	}
 	"[PLAYING] Weebl : Pork"
 	{
@@ -638,7 +638,7 @@
 	}
 	"**Annihilator has been picked**"
 	{
-		"chi"		"**歼灭者被拿起 **"
+		"chi"		"**歼灭者被拿起（使用后秒杀一条直线上的所有僵尸） **"
 	}
 	"** MG42! Covering fire! **"
 	{
@@ -670,11 +670,11 @@
 	}
 	"*** Finish mode ** Touch them! Kill them!**"
 	{
-		"chi"		"** 完成模式 **触碰他们！杀了他们！ **"
+		"chi"		"** 完成模式 ** 触碰他们！杀了他们！ **"
 	}
 	"*** Finish mode ** Fight versus the current monsters! ***"
 	{
-		"chi"		"**完成模式 **与怪物战斗 **"
+		"chi"		"** 完成模式 ** 与怪物战斗 **"
 	}
 	"** Portal will open in 30 seconds! **"
 	{
@@ -719,11 +719,11 @@
 	}
 	"**UNLIMITED AMMO! It looks kinda easy! **"
 	{
-		"chi"		"**无限弹药！看起来很容易！ **"
+		"chi"		"**无限弹药MP7！看起来很容易！ **"
 	}
 	"*** Finish mode ** Easy killing! You are untouchable!**"
 	{
-		"chi"		"**完成模式** 简单杀戮！僵尸几秒后不可移动 **"
+		"chi"		"** 完成模式 ** 简单杀戮！僵尸几秒后不可移动 **"
 	}
 	"** SLOWER! Slowing enemies make everything easy! **"
 	{
