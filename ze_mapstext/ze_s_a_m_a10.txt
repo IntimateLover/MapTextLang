@@ -1,126 +1,98 @@
-"Console_GameText"
+"Console_T"
 {
-	">>STAGE 1<<"
+	"**MAP BY TENSHI**"
 	{
 		"chi"		"** **"
 	}
-	">>GATE OPENING IN 15 SEC<<"
+	"**Player has picked up <Ultima Magic>**"
 	{
 		"chi"		"** **"
 	}
-	">>MAZEDOOR OPENING IN 30 SEC<<"
+	"**Player has picked up <Trace>**"
 	{
 		"chi"		"** **"
 	}
-	"MAZE DOOR"
+	"**Player has picked up <Water Magic>**"
 	{
 		"chi"		"** **"
 	}
-	">>BREAK THE INVERTED CRYSTAL TOWER<<"
+	"**Player has picked up <Teleport Crystal>**"
 	{
 		"chi"		"** **"
 	}
-	">>DOOR OPENING IN 15 SEC<<"
+	"**NUKE IN 10 SEC**"
 	{
 		"chi"		"** **"
 	}
-	">>CRYSTAL ACTIVATED<<"
+	"**NOW USE THE TELEPORT CRYSTAL**"
 	{
 		"chi"		"** **"
 	}
-	">>CRYSTAL BROKEN<<"
+	"**3**"
 	{
 		"chi"		"** **"
 	}
-	"MAZE WALL"
+	"**2**"
 	{
 		"chi"		"** **"
 	}
-	">>DOOR OPENING IN 25 SEC<<"
+	"**1**"
 	{
 		"chi"		"** **"
 	}
-	"BOSS ROOM DOOR"
+	"**Mystery man : Ive studied the crystals you brought back last time**"
 	{
 		"chi"		"** **"
 	}
-	"<<ATTRACT>>"
+	"**Mystery man : Get into the palace , theres a great mystery under it**"
 	{
 		"chi"		"** **"
 	}
-	"<<SHAKE>>"
+	"**Player has picked up <Gravity Magic>**"
 	{
 		"chi"		"** **"
 	}
-	"<<SHAKE WAVE>>"
+	"**Player has picked up <Heal Magic>**"
 	{
 		"chi"		"** **"
 	}
-	"OUT DOOR"
+	"**Player has picked up <Earth Magic>**"
 	{
 		"chi"		"** **"
 	}
-	"FINAL DOOR"
+	"**Player has picked up <Tornado Magic>**"
 	{
 		"chi"		"** **"
 	}
-	">>STAGE 1 COMPLETE<<"
+	"**Player has picked up <Lightning Magic>**"
 	{
 		"chi"		"** **"
 	}
-	">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
+	"<WIND>"
 	{
 		"chi"		"** **"
 	}
-	">>TRIGGER THE MECHANISMS ON THE WALL<<"
+	"**Barlog : Impotent things , go die**"
 	{
 		"chi"		"** **"
 	}
-	">>WAIT FOR 10 SEC<<"
+	"**YOUR FAILED**"
 	{
 		"chi"		"** **"
 	}
-	">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<"
+	"sync_version"
+	{
+		"syncvalue"		"9767"
+	}
+	"**[Admin]STAGE 2**"
 	{
 		"chi"		"** **"
 	}
-	"STONE FLOOR"
+	"**[Admin]STAGE 1**"
 	{
 		"chi"		"** **"
 	}
-	">>WAITING THE PLATFORM APPEAR<<"
-	{
-		"chi"		"** **"
-	}
-	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
-	{
-		"chi"		"** **"
-	}
-	"STONE WALL"
-	{
-		"chi"		"** **"
-	}
-	">>THIS DOOR BREAKING IN 25 SEC<<"
-	{
-		"chi"		"** **"
-	}
-	">>THE DOOR BREAKING IN 45 SEC<<"
-	{
-		"chi"		"** **"
-	}
-	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
-	{
-		"chi"		"** **"
-	}
-	"BOSS PLATFORM"
-	{
-		"chi"		"** **"
-	}
-	"<ICE>"
-	{
-		"chi"		"** **"
-	}
-	"<DARK>"
+	"**Zombie has picked up <Gravity>**"
 	{
 		"chi"		"** **"
 	}
