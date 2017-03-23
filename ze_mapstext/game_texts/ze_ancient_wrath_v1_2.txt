@@ -1,0 +1,23 @@
+"Console_GameText"
+{
+	"Growth Gun Grows a wall of vines in front of the user. Duration: 10 Seconds Cooldown: 40 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Ammo Gun Gives unlimited ammo around the user. Duration: 10 Seconds Cooldown: 50 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Tornado Gun Creates a tornado around the user that pushes zombies. Duration: 8 Seconds Cooldown: 40 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Inferno Gun Sets zombies on fire in front of the user. Duration: 15 Seconds Cooldown: 0 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Rift Gun Slows down zombies in the area that's used in. Duration: 10 Seconds Cooldown: 30 Seconds"
+	{
+		"chi"		"** **"
+	}
+}
