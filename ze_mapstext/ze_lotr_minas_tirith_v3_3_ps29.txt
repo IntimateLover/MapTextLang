@@ -116,7 +116,6 @@
 	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
 	{
 		"chi"		"**守住奥斯吉力亚斯！我们不能没有战斗就离开这个地方（30秒） **"
-		"DoorCountDown"		"30"
 	}
 	"** OSGILIATH IS LOST ** RETREAT ! **"
 	{
@@ -185,7 +184,7 @@
 	}
 	"** DOORS LOCKED **"
 	{
-		"chi"		"**大门关闭 **"
+		"chi"		"**大门已全部关闭 **"
 	}
 	"** DOOR 1 LOCKED **"
 	{
@@ -205,7 +204,7 @@
 	}
 	"** THE LIFT IS LEAVING IN 10 SECONDS **"
 	{
-		"chi"		"**电梯10秒后离开（少数人去电梯，多数人走楼梯，不然会卡） **"
+		"chi"		"**电梯10秒后离开 **"
 		"DoorCountDown"		"10"
 		"ico"		"icon_fire"
 	}
@@ -217,6 +216,7 @@
 	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
 	{
 		"chi"		"**开关已被按下**门在10秒后打开！ **"
+		"DoorCountDown"		"10"
 	}
 	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
 	{
@@ -321,6 +321,7 @@
 	{
 		"chi"		"**幽灵军队来了！准备最后的防御！ **"
 		"DoorCountDown"		"150"
+		"ico"		"icon_fire"
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
