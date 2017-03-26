@@ -897,7 +897,7 @@
 	{
 		"chi"		"**等待发生什么事情**"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -1343,7 +1343,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"69689"
+		"syncvalue"		"45459"
 	}
 	"** NOT ALLOWING PORTING TO CSS ***"
 	{
@@ -2397,5 +2397,9 @@
 	"BOY CLOUD : Too hot!! keep away it from me !!"
 	{
 		"chi"		"**云哥哥:太热了！！离我远一点！！**"
+	}
+	"CLOUD FATHER : Remember your items cant effect me !!"
+	{
+		"chi"		"** **"
 	}
 }

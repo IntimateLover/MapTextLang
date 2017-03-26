@@ -1,6 +1,6 @@
 "Console_T"
 {
-	"**Map by Tenshi**"
+	"**MAP BY TENSHI**"
 	{
 		"chi"		"** **"
 	}
@@ -82,7 +82,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"9767"
+		"syncvalue"		"28205"
 	}
 	"**[Admin]STAGE 2**"
 	{
@@ -93,14 +93,6 @@
 		"chi"		"** **"
 	}
 	"**Zombie has picked up <Gravity>**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombie has picked up <Ice>**"
-	{
-		"chi"		"** **"
-	}
-	"**NADE DO MORE DAMAGE**"
 	{
 		"chi"		"** **"
 	}
