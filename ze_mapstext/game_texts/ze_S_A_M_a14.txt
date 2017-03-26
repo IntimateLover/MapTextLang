@@ -1,0 +1,387 @@
+"Console_GameText"
+{
+	">>STAGE 1<<"
+	{
+		"chi"		"** **"
+	}
+	">>GATE OPENING IN 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>MAZEDOOR OPENING IN 30 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"MAZE DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>BREAK THE INVERTED CRYSTAL TOWER<<"
+	{
+		"chi"		"** **"
+	}
+	"TOWN GATE"
+	{
+		"chi"		"** **"
+	}
+	"<<<14>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<13>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<12>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<11>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<10>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<9>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<8>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<7>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<6>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<5>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<4>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<3>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<2>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<1>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<29>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<28>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<27>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<26>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<25>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<24>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<23>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<22>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<21>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<20>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<19>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<18>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<17>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<16>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<15>>>"
+	{
+		"chi"		"** **"
+	}
+	">>ACTIVATE THE CRYSTAL TOWER AND...<<"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL ACTIVATED<<"
+	{
+		"chi"		"** **"
+	}
+	">>DOOR OPENING IN 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"MAZE WALL"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL BROKEN<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD 45 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"<<<44>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<43>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<42>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<41>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<40>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<39>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<38>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<37>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<36>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<35>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<34>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<33>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<32>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<31>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<30>>>"
+	{
+		"chi"		"** **"
+	}
+	">>DOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"BOSS ROOM DOOR"
+	{
+		"chi"		"** **"
+	}
+	"<<SHAKE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<SHAKE WAVE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<ATTRACT>>"
+	{
+		"chi"		"** **"
+	}
+	">>OUTDOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"OUT DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"FINAL DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>YOUR FAILED<<"
+	{
+		"chi"		"** **"
+	}
+	">>NOW USE THE TELEPORT CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 1 COMPLETE<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 2<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
+	{
+		"chi"		"** **"
+	}
+	">>TAKE THE OPPOSITE DIRECTION<<"
+	{
+		"chi"		"** **"
+	}
+	">>TRIGGER THE MECHANISMS ON THE WALL<<"
+	{
+		"chi"		"** **"
+	}
+	">>WAIT FOR 10 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"SIDE DOOR"
+	{
+		"chi"		"** **"
+	}
+	">>ACTIVATE FOUR TOWERS<<"
+	{
+		"chi"		"** **"
+	}
+	">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"STONE FLOOR"
+	{
+		"chi"		"** **"
+	}
+	">>WAITING THE PLATFORM APPEAR<<"
+	{
+		"chi"		"** **"
+	}
+	"PLATFORM"
+	{
+		"chi"		"** **"
+	}
+	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"STONE WALL"
+	{
+		"chi"		"** **"
+	}
+	">>THIS DOOR BREAKING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE DOOR BREAKING IN 45 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"BOSS PLATFORM"
+	{
+		"chi"		"** **"
+	}
+	"<DARK>"
+	{
+		"chi"		"** **"
+	}
+	"<WIND>"
+	{
+		"chi"		"** **"
+	}
+	"<ICE>"
+	{
+		"chi"		"** **"
+	}
+	"<FIRE>"
+	{
+		"chi"		"** **"
+	}
+	"<LIGHT>"
+	{
+		"chi"		"** **"
+	}
+	">>ELEVATOR LEAVES IN 20 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"ELEVATOR"
+	{
+		"chi"		"** **"
+	}
+	">>GET OUT OF HERE QUICKLY<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT SEEMS CONTAIN A BIG ENERGY<<"
+	{
+		"chi"		"** **"
+	}
+	"ENERGY RELEASE"
+	{
+		"chi"		"** **"
+	}
+	">>KEEP DEFENCE , DONT LET THEM OUT<<"
+	{
+		"chi"		"** **"
+	}
+}
