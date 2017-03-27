@@ -1,0 +1,11 @@
+"Console_GameText"
+{
+	"Flamethrower Press E to use 8 Seconds per use 40 Seconds cooldown"
+	{
+		"chi"		"** **"
+	}
+	"Pusher Unlimited uses Press E for use 50 seconds cooldown 10 seconds duration"
+	{
+		"chi"		"** **"
+	}
+}
