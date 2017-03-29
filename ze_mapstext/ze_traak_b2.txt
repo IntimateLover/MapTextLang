@@ -8,7 +8,7 @@
 	{
 		"chi"		"** 大门将在 30 秒后开启 **（注意：很多时候防守点都是一大一小的两个口子）
                 "
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 		"30"		"
 	}
 	"
@@ -40,7 +40,7 @@
 		"**"		"正在给电梯供电"
 		"**"		"
                 "
-		"DoorCountdown"		"		"
+		"DoorCountDown"		"		"
 		"25"		"
 	}
 	"
@@ -55,7 +55,7 @@
 		"5"		"秒后离开"
 		"**（电梯出口在后面，左右两边都应该去人，建议右边多去点）"		"
                 "
-		"DoorCountdown"		"		"
+		"DoorCountDown"		"		"
 		"5"		"
 	}
 	"
@@ -93,7 +93,7 @@
 		"30"		"秒后打开"
 		"**"		"
                 "
-		"DoorCountdown"		"		"
+		"DoorCountDown"		"		"
 		"30"		"
 	}
 	"
@@ -153,52 +153,52 @@
 	}
 	"*** KEEP HOLDING***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个地方**"
 	}
 	"*** DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"*** Elevator is powering up! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯充电中**"
 	}
 	"*** Elevator leaves in 5 seconds ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*** Door should open soon! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门应该很快就会打开**"
 	}
 	"*** RESIST ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住**"
 	}
 	"*** Warehouse door opens in 30 seconds ***"
 	{
-		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"chi"		"**仓库大门30秒后打开**"
+		"DoorCountDown"		"30"
 	}
 	"*** Door is Opening ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"*** THIS IS THE FINAL HOLD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是最后的守点了**"
 	}
 	"*** The ship will leave soon! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**船很快就会离开**"
 	}
 	"*** ZOMBIES ON THE SHIP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸在船上**"
 	}
 	"*** You Fail ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了**"
 	}
 }

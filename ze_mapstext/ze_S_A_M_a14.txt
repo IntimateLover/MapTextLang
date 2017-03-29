@@ -1,6 +1,6 @@
 "Console_T"
 {
-	"**MAP BY TENSHI**"
+	"**Map by Tenshi**"
 	{
 		"chi"		"** **"
 	}
@@ -84,15 +84,19 @@
 	{
 		"syncvalue"		"28205"
 	}
-	"**[Admin]STAGE 2**"
+	"**[Admin]Stage 2**"
 	{
 		"chi"		"** **"
 	}
-	"**[Admin]STAGE 1**"
+	"**[Admin]Stage 1**"
 	{
 		"chi"		"** **"
 	}
 	"**Zombie has picked up <Gravity>**"
+	{
+		"chi"		"** **"
+	}
+	"**THANKS FOR PLAYING**"
 	{
 		"chi"		"** **"
 	}

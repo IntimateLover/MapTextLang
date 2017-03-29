@@ -176,4 +176,20 @@
 	{
 		"syncvalue"		"32702"
 	}
+	"**Doors will be opening in 20 seconds! Hold the zombies off!**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 15 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Chopper is leaving in 25 seconds! Resist the zombies for a final time!**"
+	{
+		"chi"		"** **"
+	}
+	"**Both buttons have been pressed! Door opens in 20 seconds!**"
+	{
+		"chi"		"** **"
+	}
 }
