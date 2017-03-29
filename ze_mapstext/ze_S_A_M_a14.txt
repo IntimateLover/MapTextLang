@@ -84,11 +84,11 @@
 	{
 		"syncvalue"		"28205"
 	}
-	"**[Admin]Stage 2**"
+	"**[Admin]STAGE 2**"
 	{
 		"chi"		"** **"
 	}
-	"**[Admin]Stage 1**"
+	"**[Admin]STAGE 1**"
 	{
 		"chi"		"** **"
 	}
@@ -97,6 +97,34 @@
 		"chi"		"** **"
 	}
 	"**THANKS FOR PLAYING**"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 1 COMPLETE<<"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie has picked up <Ice>**"
+	{
+		"chi"		"** **"
+	}
+	"**NADE DO MORE DAMAGE**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog : Impotent things , go die**"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 2 COMPLETE<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 3 WILL COME SOON<<"
+	{
+		"chi"		"** **"
+	}
+	">>THANKS FOR PLAYING<<"
 	{
 		"chi"		"** **"
 	}

@@ -450,7 +450,7 @@
 		"chi"		"**守住10秒 **"
 		"DoorCountdown"		"10"
 	}
-	"**[Admin]Stage 1**"
+	"**[Admin]STAGE 1**"
 	{
 		"chi"		"**管理员选择了第一关关 **"
 	}
@@ -499,7 +499,7 @@
 	{
 		"syncvalue"		"77238"
 	}
-	"**[Admin]Stage 2**"
+	"**[Admin]STAGE 2**"
 	{
 		"chi"		"** **"
 	}
