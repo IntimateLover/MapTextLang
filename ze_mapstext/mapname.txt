@@ -39,7 +39,7 @@
 	"ze_LOTR_Helms_Deep_v5_p6"
 	{
 		"chi"		"魔戒2: 圣盔谷"
-		"credit"		"400"
+		"credit"		"1000"
 	}
 	"ze_LOTR_Mines_of_Moria_p2"
 	{
@@ -481,7 +481,7 @@
 	"ze_saw_p3"
 	{
 		"chi"		"电锯惊魂"
-		"credit"		"800"
+		"credit"		"1500"
 	}
 	"ze_sc_turtles_v5_p2"
 	{
@@ -648,7 +648,7 @@
 	"ze_minecraft_adventure_v1_3d"
 	{
 		"chi"		"MC大冒险"
-		"credit"		"700"
+		"credit"		"1000"
 	}
 	"ze_halloween_house_b3"
 	{
@@ -671,7 +671,7 @@
 	"ze_farmhouse_v9_fix"
 	{
 		"chi"		"坦克农场"
-		"credit"		"600"
+		"credit"		"1000"
 	}
 	"ze_shaun_of_the_dead_b1_2"
 	{
@@ -928,7 +928,7 @@
 	"ze_surf_vortex_v1_9"
 	{
 		"chi"		"漩涡滑翔"
-		"credit"		"900"
+		"credit"		"1200"
 	}
 	"ze_showdown_v4_1_p"
 	{
@@ -948,7 +948,7 @@
 	"ze_tesv_skyrim_v5_6"
 	{
 		"chi"		"上古卷轴5：天际"
-		"credit"		"1500"
+		"credit"		"2000"
 	}
 	"ze_Predator_Ultimate_p7"
 	{
@@ -1007,7 +1007,7 @@
 	"ze_hive_complex_v1_2_1"
 	{
 		"chi"		"生化危机：蜂巢"
-		"credit"		"400"
+		"credit"		"800"
 	}
 	"ze_sky_athletic_v7_1"
 	{
@@ -1054,10 +1054,12 @@
 	"ze_ancient_wrath_v1_2"
 	{
 		"chi"		"生化金字塔"
+		"credit"		"600"
 	}
 	"ze_starwars_v2fix"
 	{
 		"chi"		"星球大战"
+		"credit"		"600"
 	}
 	"ze_pidaras_v1_4fix3_e8"
 	{
@@ -1106,7 +1108,7 @@
 	"ze_pirates_port_royal_v5_6"
 	{
 		"chi"		"加勒比海盗：罗亚尔港"
-		"credit"		"1500"
+		"credit"		"2000"
 	}
 	"ze_LuigisMansion_p2"
 	{
@@ -1143,6 +1145,7 @@
 	"ze_sky_athletic_adv_v9_9"
 	{
 		"chi"		"天空竞技"
+		"credit"		"600"
 	}
 	"ze_sorrento_escape_v2"
 	{
@@ -1155,7 +1158,7 @@
 	"ze_tyranny_v5beta_csgo1"
 	{
 		"chi"		"暴君"
-		"credit"		"1500"
+		"credit"		"2000"
 	}
 	"ze_zk_mall_of_zombies_p2"
 	{
@@ -1209,6 +1212,7 @@
 	"ze_A_E_S_T_H_E_T_I_C_v1_1"
 	{
 		"chi"		"舞台剧"
+		"credit"		"1000"
 	}
 	"ze_artika_base_v1_2"
 	{
@@ -1237,7 +1241,7 @@
 	"ze_gris_v1_11ffff"
 	{
 		"chi"		"创世E"
-		"credit"		"1000"
+		"credit"		"1500"
 	}
 	"ze_hidden_temple_v2_3"
 	{
@@ -1246,6 +1250,7 @@
 	"ze_otakuroom_v5_6f"
 	{
 		"chi"		"御宅房"
+		"credit"		"600"
 	}
 	"ze_venice_escape_p2"
 	{
@@ -1262,10 +1267,12 @@
 	"ze_ashen_keep_v0_3_csgo1"
 	{
 		"chi"		"黑暗之魂"
+		"credit"		"700"
 	}
 	"ze_slender_escape_rc1"
 	{
 		"chi"		"瘦长鬼影"
+		"credit"		"1000"
 	}
 	"ze_anima_ruins_v2_2"
 	{
@@ -1283,6 +1290,7 @@
 	"ze_ffxii_paramina_rift_v1_4_g"
 	{
 		"chi"		"最终幻想12:帕拉米亚"
+		"credit"		"1000"
 	}
 	"ze_roof_adventure_v6"
 	{
@@ -1295,7 +1303,7 @@
 	"ze_ffxiv_wanderers_palace_v4_10"
 	{
 		"chi"		"最终幻想14:流浪者宫殿"
-		"credit"		"1000"
+		"credit"		"1500"
 	}
 	"ze_PKMN_Adventure_v7"
 	{
@@ -1340,6 +1348,7 @@
 	"ze_temple_raider_b4_ps_v4_2"
 	{
 		"chi"		"神庙逃亡"
+		"credit"		"800"
 	}
 	"ze_panic_escape_v3_2_e5"
 	{
@@ -1356,6 +1365,7 @@
 	"ze_evernight_a2_2"
 	{
 		"chi"		"永夜"
+		"credit"		"800"
 	}
 	"ze_boredom_v543654"
 	{
@@ -1372,12 +1382,12 @@
 	"ze_ShroomForest_p6"
 	{
 		"chi"		"蘑菇森林1"
-		"credit"		"1000"
+		"credit"		"2000"
 	}
 	"ze_ShroomForest2_p6"
 	{
 		"chi"		"蘑菇森林2"
-		"credit"		"1000"
+		"credit"		"2000"
 	}
 	"ze_licciana_escape_p"
 	{
@@ -1390,10 +1400,12 @@
 	"ze_dreamin_v1_6"
 	{
 		"chi"		"梦想"
+		"credit"		"600"
 	}
 	"ze_SURVIVORS_p2"
 	{
 		"chi"		"幸存者"
+		"credit"		"800"
 	}
 	"ze_jungle_escape_v1_2_d"
 	{
@@ -1410,6 +1422,7 @@
 	"ze_rizomata_a44"
 	{
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
+		"credit"		"1000"
 	}
 	"ze_lotr_minas_tirith_v3_3_ps29"
 	{
@@ -1420,6 +1433,7 @@
 	"ze_rizomata_b43"
 	{
 		"chi"		"精灵塔"
+		"credit"		"1500"
 	}
 	"ze_floating_rocks_survival_csgo_v2"
 	{
@@ -1440,7 +1454,7 @@
 	"ze_ffxii_westersand_v7_2_e2_fix3"
 	{
 		"chi"		"最终幻想12：西沙"
-		"credit"		"1000"
+		"credit"		"1500"
 	}
 	"ze_hold_em_v10_p"
 	{
@@ -1470,6 +1484,7 @@
 	"ze_ffxii_westersand_v7_2_e2_fix"
 	{
 		"chi"		"最终幻想12：西沙"
+		"credit"		"1500"
 	}
 	"ze_project_alcaria_v1_3"
 	{
@@ -1486,6 +1501,7 @@
 	"ze_S_A_M_a14"
 	{
 		"chi"		"刀剑神域"
+		"credit"		"900"
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
@@ -1523,12 +1539,12 @@
 	"ze_sandstorm_go_v1"
 	{
 		"chi"		"沙尘暴"
-		"credit"		"1000"
+		"credit"		"1500"
 	}
 	"ze_bioshock_v6_2_csgo2"
 	{
 		"chi"		"生化奇兵"
-		"credit"		"500"
+		"credit"		"1000"
 	}
 	"ze_zombie_city_finalfix_ps2"
 	{
