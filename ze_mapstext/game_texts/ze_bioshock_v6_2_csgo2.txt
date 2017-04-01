@@ -2,7 +2,7 @@
 {
 	"Introduction"
 	{
-		"chi"		"** **"
+		"chi"		"**介绍 **"
 	}
 	"ze_bioshock
 by DormantLemon"
@@ -247,23 +247,23 @@ by DormantLemon"
 	}
 	"Chapter 1 - Welcome to Rapture"
 	{
-		"chi"		"** **"
+		"chi"		"**第一章-欢迎到来 **"
 	}
 	"Difficulty - Hard"
 	{
-		"chi"		"** **"
+		"chi"		"**难度-困难 **"
 	}
 	"Wait for Bathysphere arrival"
 	{
-		"chi"		"** **"
+		"chi"		"**等待潜水装置的到来 **"
 	}
 	"Bathysphere is docking..."
 	{
-		"chi"		"** **"
+		"chi"		"**潜水装置对接… **"
 	}
 	"Get in the Bathysphere"
 	{
-		"chi"		"** **"
+		"chi"		"**进入潜水装置 **"
 	}
 	"Tonic Static Shell
 Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
@@ -277,7 +277,11 @@ Duration: 7 Secs
 Uses: 8(Easy)  5(Hard)
 Cooldown: 5 Secs"
 	{
-		"chi"		"** **"
+		"chi"		"**焚化质粒
+效果：点燃一个火球！
+持续时间：7秒
+使用次数：8次（简单难度）5次（困难难度）
+冷却时间：5秒 **"
 	}
 	"Plasmid: Gravity Well
 Effect: Drag your enemies into a pit! 
@@ -285,7 +289,11 @@ Duration: 5 Secs
 Uses: 5(Easy)  3(Hard)
 Cooldown: 18 Secs"
 	{
-		"chi"		"** **"
+		"chi"		"**重力质粒
+效果:把僵尸吸到一起!
+持续时间:5秒
+使用次数:5次(简单难度)3次(困难难度)
+冷却时间:18秒 **"
 	}
 	"Hold the Atrium"
 	{
@@ -297,11 +305,15 @@ Duration: 4 Secs
 Uses: 6(Easy)  4(Hard)
 Cooldown: 11 Secs"
 	{
-		"chi"		"** **"
+		"chi"		"**闪电质粒
+效果:眩晕并伤害僵尸!
+持续时间:4秒
+使用次数:6次(简单难度)4次（困难难度）
+冷却时间:11秒 **"
 	}
 	"Difficulty - Easy"
 	{
-		"chi"		"** **"
+		"chi"		"**难度-简单 **"
 	}
 	"Plasmid: Winter Blast
 Effect: Freeze your enemies! 
@@ -309,15 +321,19 @@ Duration: 3 Secs
 Uses: 5(Hard)  3(Easy)
 Cooldown: 13 Secs"
 	{
-		"chi"		"** **"
+		"chi"		"**速冻质粒
+效果:冻结僵尸!
+持续时间:3秒
+使用次数:5次(简单难度)3次(困难难度)
+冷却时间:13秒 **"
 	}
 	"Hold until security door releases"
 	{
-		"chi"		"** **"
+		"chi"		"**守住.直到安全门开启 **"
 	}
 	"Wait for the elevator's arrival"
 	{
-		"chi"		"** **"
+		"chi"		"**等待电梯的到来 **"
 	}
 	"Tonic Flash Flare
 Effect: Your flesh is glowing. Blind the enemies when you die! 
@@ -331,35 +347,39 @@ Duration: 2 Secs
 Uses: 8(Easy)  5(Hard)
 Cooldown: 10 Secs"
 	{
-		"chi"		"** **"
+		"chi"		"**音爆质粒
+效果:爆炸将会伤害僵尸并产生冲击波!
+持续时间:2秒
+使用次数:8次(简单难度)5次(困难难度)
+冷却时间:10秒 **"
 	}
 	"Elevator 1 is leaving"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯1离开 **"
 	}
 	"Hold until the security door releases"
 	{
-		"chi"		"** **"
+		"chi"		"**守住.直到安全门开启 **"
 	}
 	"Rapture Metro is inbound"
 	{
-		"chi"		"** **"
+		"chi"		"**地铁进站了 **"
 	}
 	"Board and defend the Rapture Metro"
 	{
-		"chi"		"** **"
+		"chi"		"**进入地铁并守住 **"
 	}
 	"Chapter 2 - Siren Alley & Fort Frolic"
 	{
-		"chi"		"** **"
+		"chi"		"**第二章-Siren Alley & Fort Frolic **"
 	}
 	"Wait for Siren Alley doors to unlock"
 	{
-		"chi"		"** **"
+		"chi"		"**等待Siren Alley大门解锁 **"
 	}
 	"Hide or hold until the exit has drained"
 	{
-		"chi"		"** **"
+		"chi"		"**生存或守住-直到出口打开 **"
 	}
 	"1m 23s"
 	{
@@ -459,69 +479,72 @@ Cooldown: 10 Secs"
 	}
 	"Hold the Decompression Chamber"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"Defend until Cohen opens the doors"
 	{
-		"chi"		"** **"
+		"chi"		"**直到Cohen打开大门 **"
 	}
 	"Hold the doorway"
 	{
-		"chi"		"** **"
+		"chi"		"**守住门口 **"
 	}
 	"Plasmid: Insect Swarm
 Effect: Harm splicers with a swarm of bees
 Uses: 5(Easy)  3(Hard) 
 Cooldown: 10 Secs"
 	{
-		"chi"		"** **"
+		"chi"		"**蜂群质粒
+效果：产生一大群蜜蜂伤害僵尸
+使用次数：5次（简单难度）3次（困难难度）
+冷却时间：10秒 **"
 	}
 	"Defeat Sander Cohen"
 	{
-		"chi"		"** **"
+		"chi"		"**击败Sander Cohen **"
 	}
 	"Stairs are open"
 	{
-		"chi"		"** **"
+		"chi"		"**楼梯已开放 **"
 	}
 	"Wait for Poseidon Plaza to unfreeze"
 	{
-		"chi"		"** **"
+		"chi"		"**等待海神广场解冻 **"
 	}
 	"Defend while the door unfreezes"
 	{
-		"chi"		"** **"
+		"chi"		"**守住.直到大门解冻 **"
 	}
 	"Defend Jasmine Jolie's room"
 	{
-		"chi"		"** **"
+		"chi"		"**守住Jasmine Jolie's的房间 **"
 	}
 	"Chapter 3 - Arcadia"
 	{
-		"chi"		"** **"
+		"chi"		"**第3章 - 阿卡迪亚 **"
 	}
 	"Hold the balcony"
 	{
-		"chi"		"** **"
+		"chi"		"**守住阳台 **"
 	}
 	"Hold Julie Langford's Garden"
 	{
-		"chi"		"** **"
+		"chi"		"**守住朱莉兰福德的花园 **"
 	}
 	"Wait for Hydroponics Drainage to empty"
 	{
-		"chi"		"** **"
+		"chi"		"**等待水排干净 **"
 	}
 	"Hold until the security door unlocks"
 	{
-		"chi"		"** **"
+		"chi"		"**直到安全门解锁 **"
 	}
 	"Detonate and destroy the tunnel"
 	{
-		"chi"		"** **"
+		"chi"		"**引爆，摧毁隧道 **"
 	}
 	"Splicers must not make it past the marker"
 	{
-		"chi"		"** **"
+		"chi"		"**不能让僵尸过去 **"
 	}
 }
