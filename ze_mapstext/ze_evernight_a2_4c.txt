@@ -1,0 +1,595 @@
+"Console_T"
+{
+	"-- ZE EVERNIGHT --"
+	{
+		"chi"		"**永夜**"
+	}
+	"**MAP BY ASAMI**"
+	{
+		"chi"		"**地图作者：Asami**"
+	}
+	"**ACT I:INITIAL CONTACT**"
+	{
+		"chi"		"**第一幕：初次接触**"
+	}
+	"**DIFFICULTY:EASY**"
+	{
+		"chi"		"**关卡难度：容易**"
+	}
+	"**LOCATION:FROSTWIND VALLEY**"
+	{
+		"chi"		"**位置：冰风山谷 **"
+	}
+	"**WE WERE TRAILING BASILEUSIS TO HERE,AND HOPE TO GET THE GLIMMER FRAGMENT BEFORE HE DOES**"
+	{
+		"chi"		"**我们一路追踪巴希列乌西斯至此,希望能在事情还未太迟他之前抢先拿到那一块微光碎片**"
+	}
+	"**HIDE YOURSELF AS MUCH AS POSSIBLE,DONT LET HIM GET TO FIND US TOO SOON**"
+	{
+		"chi"		"**路上尽可能地隐藏自己，不要让他太快找到我们**"
+	}
+	"**Hold 25 seconds**"
+	{
+		"chi"		"**坚守25秒**"
+		"DoorCountdown"		"25"
+	}
+	"**WE SMASHED THE ENERGY CRYSTAL,HOLD THE POSITION FOR 30 SECONDS TILL THE PARCLOSE DISAPPEAR**"
+	{
+		"chi"		"**我们摧毁了能量水晶，守住30秒等待屏障消失**"
+	}
+	"**THE WAY IS BLOCKED,IT LOOKS LIKE WE HAVE TO BLOW OPEN THE ROCK**"
+	{
+		"chi"		"**这条路被封堵住了，看来我们只能炸开岩石才能继续前进**"
+	}
+	"**C4 HAS BEEN PLANTED,COVER HERE FOR 45 SECONDS TILL THE C4 EXPLODE**"
+	{
+		"chi"		"**C4已安置，等待45秒后C4爆炸**"
+		"DoorCountdown"		"45"
+	}
+	"**WE MUST HURRY UP,THE SOUND OF EXPLOSION MAYBE HAS CARRY FOR WHERE HE IS**"
+	{
+		"chi"		"**我们得加快速度，爆炸的动静也许已经传到他的位置了**"
+	}
+	"**A PLAYER LEARNED THE BAPTISM**"
+	{
+		"chi"		"**一位玩家学会了技能：洗礼**"
+	}
+	"0"		"**HOLD 30 SECONDS**"
+	"{"		"chi"
+	"**坚守30秒**"		"DoorCountdown"
+	"**C4 HAS BEEN PLANTED,COVER HERE FOR 20 SECONDS TILL THE C4 EXPLODE**"
+	{
+		"chi"		"**C4将在20秒后爆炸 **"
+		"DoorCountdown"		"20"
+	}
+	"**Hold 15 seconds**"
+	{
+		"chi"		"**守住15秒 **"
+		"DoorCountdown"		"15"
+	}
+	"**WERE TRYING TO BREAK THE WALL,HOLD 20 SECONDS**"
+	{
+		"chi"		"**我们试图打破墙壁.守住20秒 **"
+		"DoorCountdown"		"20"
+	}
+	"**HOLD 30 SECONDS TILL THE DOOR OPEN**"
+	{
+		"chi"		"**守住30秒.直到门打开 **"
+		"DoorCountdown"		"30"
+	}
+	"**NADE CAN DO A LOT OF DAMAGE**"
+	{
+		"chi"		"**手雷可以造成更多伤害 **"
+	}
+	"**HOLD 60 SECONDS**"
+	{
+		"chi"		"**守住60秒 **"
+		"DoorCountdown"		"60"
+	}
+	"**DIFFICULTY:NORMAL**"
+	{
+		"chi"		"**关卡难度：普通 **"
+	}
+	"**HIDE YOURSELF AS MUCH AS POSSIBLE,DONT LET HIM GET TO AWARE OF US TOO SOON**"
+	{
+		"chi"		"**尽可能地隐藏自己,不要让他太早的知道我们的到来 **"
+	}
+	"**THE EVIL ONE OF BLOOD AND FIRE WAS BORN... **"
+	{
+		"chi"		"**血与火的邪恶造物诞生于世... **"
+	}
+	"**THE PARCLOSE IS BLOCKING THE WAY**"
+	{
+		"chi"		"**屏障挡住了道路 **"
+	}
+	"**IT SEEMS WE MUST TO BREAK THE ENERGY CRYSTAL TO MOVE ON**"
+	{
+		"chi"		"**看来我们必须打破能量水晶才能继续前进 **"
+	}
+	"**A PLAYER LEARNED THE AIR RUSH(WIND MAGICK LV.1)**"
+	{
+		"chi"		"**一位玩家学会了技能：气流冲击（风魔法 LV.1) **"
+	}
+	"**WE SMASHED THE ENERGY CRYSTAL,HOLD THE POSITION FOR 20 SECONDS TILL THE PARCLOSE DISAPPEAR**"
+	{
+		"chi"		"**我们摧毁了能量水晶，守住20秒等待屏障消失 **"
+	}
+	"**A PLAYER LEARNED THE FROSTBITE(ICE MAGICK LV.1)**"
+	{
+		"chi"		"**一位玩家学会了技能：寒霜之咬(冰魔法 LV.1) **"
+	}
+	"**A PLAYER LEARNED THE THUNDERBLAST(THUNDER MAGICK LV.1)**"
+	{
+		"chi"		"**一位玩家学会了技能：闪电轰爆（电魔法 LV.1) **"
+	}
+	"**A PLAYER LEARNED THE SHADOWBOUND(SHADOW MAGICK LV.1)**"
+	{
+		"chi"		"**一位玩家学会了技能：影缚(影魔法 LV.1) **"
+	}
+	"**HANG UP YOUR SLIDE HOOK,WELL SET OUT IN 10 SECONDS**"
+	{
+		"chi"		"**挂上你的挂钩，我们10秒后出发 **"
+	}
+	"**THIS PLACE LOOKS LIKE AN ABANDONED CAMP,MAYBE WE CAN FIND SOME SUPPLIES AT HERE**"
+	{
+		"chi"		"**这个地方看起来像一个废弃的营地，也许我们可以在这里找到一些补给 **"
+	}
+	"**100 SECONDS TO ENTER THE TEMPLE!READY FOR BATTLE!**"
+	{
+		"chi"		"**100秒后进入神庙!准备战斗!  **"
+	}
+	"**WHATS THAT?A CLOUD OF SMOKE?**"
+	{
+		"chi"		"**那是什么？一团烟雾？ **"
+	}
+	"**ITS COMING TO US!SHOT IT!SHOT IT!**"
+	{
+		"chi"		"**它过来了！射击！射击！ **"
+	}
+	"**YOU CANT DEFEAT IT...**"
+	{
+		"chi"		"**你无法战胜它...  **"
+	}
+	"**A PLAYER LEARNED THE FLAMESHOT(FIRE MAGICK LV.1)**"
+	{
+		"chi"		"**一位玩家学会了技能：烈焰喷射（火魔法 LV.1)  **"
+	}
+	"**A SEAL OF THOUSANDS OF YEARS UNDER THE GLACIER HAS BEEN BROKEN THROUGH...**"
+	{
+		"chi"		"**冰川下的一道千年封印已被破除... **"
+	}
+	"**A PLAYER LEARNED THE BAPTISM(LIGHT MAGICK LV.1)**"
+	{
+		"chi"		"**一位玩家学会了技能:洗礼(光魔法 LV.1） **"
+	}
+	"**ITS AN IMAGE OF BASILEUSIS,HE MUST KNOW WERE HERE NOW...**"
+	{
+		"chi"		"**我们必须要让巴希列乌西斯知道在这里发生了什么... **"
+	}
+	"**WE HAVE TO HURRY UP,LETS GET INTO THE TEMPLE**"
+	{
+		"chi"		"**我们得快点，赶紧进入神庙 **"
+	}
+	"**THE CORE MUST BE THERE...WHAT?THE DOOR IS BEING CLOSED?**"
+	{
+		"chi"		"**能量核心应该就在那边...什么？那道门怎么关上了？ **"
+	}
+	"**TRY TO FIND A WAY TO OPEN THE DOOR**"
+	{
+		"chi"		"**我们得找个办法打开那边的大门  **"
+	}
+	"**THE INTRUDERS HAVE BEEN DETECTED,SYSTEM IS CLOSING THE ENTRENCE**"
+	{
+		"chi"		"**检测到入侵者，系统正在关闭入口 **"
+	}
+	"**10 SECONDS REMAINING**"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"**KILL REMAINING ZOMBIES**"
+	{
+		"chi"		"**杀死剩余的僵尸 **"
+	}
+	"**ACT I COMPLETE**"
+	{
+		"chi"		"**会当凌绝顶,一览众山小（关卡通过） **"
+	}
+	"**ACT II:MISTY MYSTERY**"
+	{
+		"chi"		"**第二幕：迷雾重重 **"
+	}
+	"**DIFFICULTY:HARD**"
+	{
+		"chi"		"**关卡难度：困难 **"
+	}
+	"**LOCATION:EVERNIGHT TEMPLE**"
+	{
+		"chi"		"**地点：永夜神庙 **"
+	}
+	"**WERE IN THE TEMPLE NOW**"
+	{
+		"chi"		"**我们现在在神庙里了 **"
+	}
+	"**ACCORDING TO THE EXISTING INFORMATION,THE GLIMMER FRAGMENT SHOULD BE IN THE TOP OF THE TEMPLE**"
+	{
+		"chi"		"**根据现有的情报显示，微光碎片应该就在这座神庙的顶部 **"
+	}
+	"**WE HAVE TO USE THE MAIN LIFT TO GO UP,BUT IT SEEMS THE MAIN LIFT IS WITHOUT POWER**"
+	{
+		"chi"		"**我们得用大厅中央的这座主电梯上去，但是它似乎并没有能量来启动 **"
+	}
+	"**TRY TO FIND THE TWO MAIN POWER CORES IN THE INNER PART OF THE TEMPLE AND MAKE THEM WORK**"
+	{
+		"chi"		"**想办法找到神庙深处的两个能量核心并启动他们 **"
+	}
+	"**DOOR OPENS IN 10 SECONDS**"
+	{
+		"chi"		"**大门将在10秒后开启 **"
+		"DoorCountdown"		"10"
+	}
+	"**IT SEEMS WE HAVE TO ACTIVATE THE TWO CRYSTALS AT THE BOTH SIDES TO OPEN THE GATE**"
+	{
+		"chi"		"**看起来似乎我们得启动两边的水晶来打开中间的大门 **"
+	}
+	"**GOOD JOB,THE GATE WILL BE OPENED IN 30 SECONDS**"
+	{
+		"chi"		"**干得漂亮，大门将在30秒后打开 **"
+		"DoorCountdown"		"30"
+	}
+	"**THE SIDE DOOR OPENS IN 10 SECONDS**"
+	{
+		"chi"		"**侧门将在10秒后开启 **"
+	}
+	"**THERE ARE THREE INVISIBLE WALLS BLOCK OUR WAY,TRY TO FIND A WAY TO BREAK THROUGH**"
+	{
+		"chi"		"**这儿有三道隐形墙挡住了我们的去路，尝试去找到突破的方法 **"
+	}
+	"**THE FIRST WALL WILL BE BROKEN IN 15 SECONDS**"
+	{
+		"chi"		"**第一道隐形墙将在15秒后破碎 **"
+		"DoorCountdown"		"15"
+	}
+	"**THE SECOND WALL WILL BE BROKEN IN 15 SECONDS**"
+	{
+		"chi"		"**第二道隐形墙将在15秒后破碎 **"
+		"DoorCountdown"		"15"
+	}
+	"**THE LAST WALL WILL BE BROKEN IN 15 SECONDS**"
+	{
+		"chi"		"**第三道隐形墙将在15秒后破碎 **"
+		"DoorCountdown"		"15"
+	}
+	"**DONT HURRY TO LEAVE,HOLD ON A LITTLE LONGER TO COVER OUR TEAMMATES WHO IN THE SIDE WAY**"
+	{
+		"chi"		"**别急着后撤，再坚持一会以掩护侧路的队友回来 **"
+	}
+	"**THE BANSHEE LANDED ON THE GROUND WITH HOWLING WIND AND WAILING...**"
+	{
+		"chi"		"**女妖携卷着狂风与哭嚎降临在地面... **"
+	}
+	"**IT SEEMS WE ALMOST REACH THE CORE**"
+	{
+		"chi"		"**我们似乎就要达到核心了 **"
+	}
+	"**IT IS AUTONOMOUS DEFENSE SYSTEM!ATTACK ITS MAGIC CORE AND MAKE IT STOP BEFORE IT KILL US ALL!**"
+	{
+		"chi"		"**那是自律型防卫系统！攻击它的魔力核心！在它把我们都干掉前让它停下来！ **"
+	}
+	"**AUTONOMOUS DEFENSE SYSTEM CORE LOADING...**"
+	{
+		"chi"		"**自律型防卫系统核心重载中...  **"
+	}
+	"**HURRICANE CORE**"
+	{
+		"chi"		"**飓风核心重载完毕 **"
+	}
+	"**SIDEWIND**"
+	{
+		"chi"		"**侧风 **"
+	}
+	"**HURRICANE CORE OFFLINE**"
+	{
+		"chi"		"**飓风核心已离线 **"
+	}
+	"**AUTONOMOUS DEFENSE SYSTEM CORE RELOADING...**"
+	{
+		"chi"		"**自律型防卫系统核心重载中... **"
+	}
+	"**LAVA CORE**"
+	{
+		"chi"		"**熔岩核心重载完毕 **"
+	}
+	"**BURNING FIELD**"
+	{
+		"chi"		"**燃烧大地 **"
+	}
+	"**WATCH OUT THE FLAME IN THE BACK OF THE HALL**"
+	{
+		"chi"		"**小心大厅后半场的致命火焰 **"
+		"ico"		"icon_fire"
+	}
+	"**LAVA CORE OFFLINE**"
+	{
+		"chi"		"**熔岩核心已离线 **"
+	}
+	"**BLIZZARD CORE**"
+	{
+		"chi"		"**雪暴核心重载完毕 **"
+	}
+	"**HURRY UP,THE FREEZING AIR WILL TAKE OUR LIFE SLOWLY**"
+	{
+		"chi"		"**我们得加快速度，否则致命的冷气将会渐渐带走我们的生命 **"
+	}
+	"**FREEZING BREATH**"
+	{
+		"chi"		"**霜冻吐息 **"
+	}
+	"**WATCH OUT THE FREEZING AIR IN THE FRONT OF THE HALL**"
+	{
+		"chi"		"**小心大厅前半场的致命冷气 **"
+		"ico"		"icon_fire"
+	}
+	"**BLIZZARD CORE OFFLINE**"
+	{
+		"chi"		"**雪暴核心已离线 **"
+	}
+	"**ARC CORE**"
+	{
+		"chi"		"**弧光核心重载完毕 **"
+	}
+	"**KEEP CROUCHING IF YOU WANT TO SURVIVE IN THE POWERFUL ELECTROSTATIC FIELD**"
+	{
+		"chi"		"**保持蹲下（如果你想在这种强大的静电场中存活下来） **"
+		"ico"		"icon_fire"
+	}
+	"**ELECTROSTATIC WALL**"
+	{
+		"chi"		"**静电障壁 **"
+	}
+	"**WE HAVE DEFEATED IT**"
+	{
+		"chi"		"**防卫武器已瘫痪 **"
+	}
+	"**BACK TO THE CENTRE OF THE HALL IMMEDIATELY!**"
+	{
+		"chi"		"**立即回到大厅中央！ **"
+		"ico"		"icon_fire"
+	}
+	"**LETS GET CLOSE TO THE CORE AND MAKE IT WORK**"
+	{
+		"chi"		"**让我们接近核心,使其工作 **"
+	}
+	"**OUR MAGICK HAS BEEN MORE SKILLFUL AFTER THIS BATTLE**"
+	{
+		"chi"		"**这场战斗后我们使用魔法将更加熟练 **"
+	}
+	"**THE FLAMESHOT(FIRE MAGICK LV.1) UPGRADE TO THE DRAGONS BREATH(FIRE MAGICK LV.2)**"
+	{
+		"chi"		"**烈焰喷射[火魔法 Lv.1]升级为龙之吐息[火魔法 Lv.2] **"
+	}
+	"**THE FROSTBITE(ICE MAGICK LV.1) UPGRADE TO THE DEEP FREEZE(ICE MAGICK LV.2)**"
+	{
+		"chi"		"**寒霜之咬[冰魔法LV.1]升级为深度冻结[冰魔法LV.2] **"
+	}
+	"**THE AIR RUSH(WIND MAGICK LV.1) UPGRADE TO THE POWERFUL STORM SURGE(WIND MAGICK LV.2)**"
+	{
+		"chi"		"**气流冲击[风魔法LV.1]升级为咆哮飓风[风魔法LV.2] **"
+	}
+	"**THE THUNDERBLAST(THUNDER MAGICK LV.1) UPGRADE TO THE ARCBREAK(THUNDER MAGICK LV.2)**"
+	{
+		"chi"		"**闪电轰爆[电魔法LV.1]升级为地狱雷电[电魔法LV.2] **"
+	}
+	"**THE BAPTISM(LIGHT MAGICK LV.1) UPGRADE TO THE BRILLIANT CIRCLE(LIGHT MAGICK LV.2)**"
+	{
+		"chi"		"**洗礼吟唱[光魔法LV.1]升级为辉煌之阵[光魔法LV.2] **"
+	}
+	"**THE SHADOWBOUND(SHADOW MAGICK LV.1) UPGRADE TO THE MEGA PRESSURE(SHADOW MAGICK LV.2)**"
+	{
+		"chi"		"**影缚[影魔法LV.1]升级为大型气压[影魔法LV.2] **"
+	}
+	"**POWER OF THE TEMPLE IS RESTORED TO 50%**"
+	{
+		"chi"		"**神庙的能量已恢复到50% **"
+	}
+	"**HOLD ON FOR A WHILE,EXIT WILL BE OPENED SOON**"
+	{
+		"chi"		"**坚持一会,出口即将打开 **"
+	}
+	"**HOLD 15 SECOND TILL THE LIFT STARTS MOVING**"
+	{
+		"chi"		"**守住15秒直到电梯开始上升 **"
+	}
+	"**Hold 30 seconds**"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"**GRAVITY**"
+	{
+		"chi"		"**黑洞(按住S） **"
+		"ico"		"icon_fire"
+	}
+	"**WATCH OUT THE FREEZING AIR IN THE LEFT OF THE HALL**"
+	{
+		"chi"		"**小心大厅左半场的致命冷气 **"
+		"ico"		"icon_fire"
+	}
+	"**WATCH OUT THE FLAME IN THE RIGHT OF THE HALL**"
+	{
+		"chi"		"**小心大厅右半场的致命火焰 **"
+		"ico"		"icon_fire"
+	}
+	"**WATCH OUT THE FREEZING AIR IN THE RIGHT OF THE HALL**"
+	{
+		"chi"		"**小心大厅右半场的致命冷气  **"
+		"ico"		"icon_fire"
+	}
+	"**FROST NOVA**"
+	{
+		"chi"		"**冰霜新星 **"
+	}
+	"**GET BACK TO THE EDGE OF THE HALL TO AVOID THE DEADLY FROST CRASH**"
+	{
+		"chi"		"**退回到大厅的边缘以躲避致命的冰霜冲击 **"
+		"ico"		"icon_fire"
+	}
+	"**MAGNETIC STORM**"
+	{
+		"chi"		"**磁暴 **"
+	}
+	"**GET BACK TO THE LEFT!IT IS COMING!**"
+	{
+		"chi"		"**立即回到大厅左边！它要来了！ **"
+		"ico"		"icon_fire"
+	}
+	"**WARNING:THE CORES POWER IS ABOUT TO REACH THE CRITICAL VALUE...**"
+	{
+		"chi"		"**警告：核心能量已达到临界值.. **"
+	}
+	"**THE AUTONOMOUS DEFENSE SYSTEM IS CASTING ITS LAST ATTACK!WE MUST HURRY UP!**"
+	{
+		"chi"		"**自律型防卫系统正在准备它的最后一击！我们必须抓紧最后的机会了！ **"
+		"DoorCountdown"		"10"
+	}
+	"**GET BACK TO THE BOTH SIDES!IT IS COMING!**"
+	{
+		"chi"		"**立即回到大厅两边！它要来了！ **"
+		"ico"		"icon_fire"
+	}
+	"**FLARE IS COMING,IT OUR LAST CHANCE!BULLET AND NADE DOES DOUBLE DAMAGE TO THE BOSS NOW!**"
+	{
+		"chi"		"**太阳耀斑就要来了！这是我们最后的机会！现在子弹和手雷将造成双倍伤害！ **"
+	}
+	"**FLARE**"
+	{
+		"chi"		"**耀斑 **"
+	}
+	"**WATCH OUT THE FLAME IN THE FRONT OF THE HALL**"
+	{
+		"chi"		"**小心大厅前半场的致命火焰  **"
+		"ico"		"icon_fire"
+	}
+	"**WATCH OUT THE FLAME IN THE LEFT OF THE HALL**"
+	{
+		"chi"		"**小心大厅左半场的致命火焰 **"
+		"ico"		"icon_fire"
+	}
+	"**GET BACK TO THE RIGHT!IT IS COMING!**"
+	{
+		"chi"		"**赶紧回到右边！它要来了！ **"
+		"ico"		"icon_fire"
+	}
+	"**ACT II COMPLETE**"
+	{
+		"chi"		"**精诚所至，金石为开(关卡通过） **"
+	}
+	"**SPECIAL THANKS:THAS,TENSHI AND YINYUEXIAOYAO**"
+	{
+		"chi"		"**特别感谢：THAS,TENSHI AND YINYUEXIAOYAO  **"
+	}
+	"**THANKS FOR PLAYING**"
+	{
+		"chi"		"**感谢你的参与 **"
+	}
+	"**ACT III COMING SOON**"
+	{
+		"chi"		"**第三幕即将到来 **"
+	}
+	"**WATCH OUT THE FREEZING AIR IN THE BACK OF THE HALL**"
+	{
+		"chi"		"**小心大厅后半场的致命冷气 **"
+		"ico"		"icon_fire"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"16103"
+	}
+	"**After three day of tracking Basil**"
+	{
+		"chi"		"**我们跟踪巴希列乌西斯已经三天了**"
+	}
+	"**we arrived at the Frostwind Valley**"
+	{
+		"chi"		"**我们到达了冰风山谷**"
+	}
+	"**According to the existing information**"
+	{
+		"chi"		"**根据现有的信息**"
+	}
+	"**and the Glimmer Fragment is likely to be kept in there**"
+	{
+		"chi"		"**微光碎片可能会放在那里**"
+	}
+	"**There is not much time for us**"
+	{
+		"chi"		"**我们没有太多时间**"
+	}
+	"**lets get the Glimeer Fragment before Basil does**"
+	{
+		"chi"		"**让我们在巴希列乌西斯之前找到微光碎片**"
+	}
+	"**Operation Evernight,mission start**"
+	{
+		"chi"		"**永夜使命开始执行**"
+	}
+	"**A player learn the Air Rush(Wind magick Lv.1)**"
+	{
+		"chi"		"**一位玩家拿起了气流冲击（风魔法.LV1）**"
+	}
+	"**A player learn the Thunderblast(Thunder magick Lv.1)**"
+	{
+		"chi"		"**一位玩家拿起了闪电轰爆（雷魔法.LV1）**"
+	}
+	"**A player learn the Shadowbound(Shadow magick Lv.1)**"
+	{
+		"chi"		"**一位玩家拿起了影缚（影魔法.LV1）**"
+	}
+	"**A player learn the Flameshot(Fire magick Lv.1)**"
+	{
+		"chi"		"**一位玩家拿起了烈焰喷射（火魔法.LV1）**"
+	}
+	"**A player learn the Frostbite(Ice magick Lv.1)**"
+	{
+		"chi"		"**一位玩家拿起了寒霜之咬（冰魔法.LV1）**"
+	}
+	"**A player learn the Baptism(Light magick Lv.1)**"
+	{
+		"chi"		"**一位玩家拿起了洗礼（光魔法.LV1）**"
+	}
+	"**Now were in the Evernight Temple**"
+	{
+		"chi"		"**我们已经进入永夜神殿**"
+	}
+	"**The instrument shows that**"
+	{
+		"chi"		"**仪器显示**"
+	}
+	"**the fragment is over our heads**"
+	{
+		"chi"		"**微光碎片在我们的头顶**"
+	}
+	"**We have to use the main lift to go up**"
+	{
+		"chi"		"**我们要坐主电梯上去**"
+	}
+	"**but it seems that the main lift is without power**"
+	{
+		"chi"		"**但电梯似乎没有电力**"
+	}
+	"**to find two main power cores and make them work**"
+	{
+		"chi"		"**找到两个能源核心，使他们的工作**"
+	}
+	"**Lets go to the inner part of the temple**"
+	{
+		"chi"		"**让我们进入神殿里面**"
+	}
+	"**The banshee landed on the ground with howling and wailing...**"
+	{
+		"chi"		"**女妖携卷着狂风与哭嚎降临在地面...**"
+	}
+	"**Our magicks has been more skillful after this battle**"
+	{
+		"chi"		"**这场战斗后我们使用魔法将更加熟练**"
+	}
+}
