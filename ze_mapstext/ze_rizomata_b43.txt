@@ -51,6 +51,7 @@
 	"*** Hold 10 seconds ***"
 	{
 		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
 	}
 	"*** FLAME RADIATION ***"
 	{
