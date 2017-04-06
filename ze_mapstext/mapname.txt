@@ -69,6 +69,7 @@
 	{
 		"chi"		"随机小游戏"
 		"credit"		"2000"
+		"onlynominate"		"1"
 	}
 	"ze_Siberia_1990_v1_2c_p5"
 	{
@@ -1045,7 +1046,7 @@
 	}
 	"ze_lemonysnickets_v1_e10"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"雷蒙·斯尼奇历险"
 	}
 	"ze_chicken_ranch_v2_1"
 	{
@@ -1237,7 +1238,7 @@
 	"ze_gris_v1_11ffff"
 	{
 		"chi"		"创世E"
-		"credit"		"1000"
+		"credit"		"1500"
 	}
 	"ze_hidden_temple_v2_3"
 	{
@@ -1287,6 +1288,7 @@
 	"ze_roof_adventure_v6"
 	{
 		"chi"		"屋顶大冒险"
+		"credit"		"1000"
 	}
 	"ze_platformer_b6"
 	{
@@ -1372,12 +1374,12 @@
 	"ze_ShroomForest_p6"
 	{
 		"chi"		"蘑菇森林1"
-		"credit"		"1000"
+		"credit"		"2000"
 	}
 	"ze_ShroomForest2_p6"
 	{
 		"chi"		"蘑菇森林2"
-		"credit"		"1000"
+		"credit"		"2000"
 	}
 	"ze_licciana_escape_p"
 	{
@@ -1463,7 +1465,7 @@
 	{
 		"chi"		"沙尘暴"
 	}
-	"ze_destruction_of_exorath_v4_li"
+	"ze_destruction_of_exorath_v4_lite"
 	{
 		"chi"		"破坏行动"
 	}
@@ -1546,7 +1548,7 @@
 	{
 		"chi"		"工业感染"
 	}
-	"ze_paranoid_rezurrection_v11_9_"
+	"ze_paranoid_rezurrection_v11_9_th10"
 	{
 		"chi"		"游乐园之旅"
 	}
@@ -1558,7 +1560,7 @@
 	{
 		"chi"		"tkara大逃亡"
 	}
-	"ze_insensible_sr8gm6yj12hs7_rg_"
+	"ze_insensible_sr8gm6yj12hs7_rg_v9_3"
 	{
 		"chi"		"此地图暂无译名"
 	}
