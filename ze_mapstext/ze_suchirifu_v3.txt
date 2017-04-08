@@ -2,7 +2,7 @@
 {
 	"[Object] Press button to make your way."
 	{
-		"chi"		"**[对象]你只有按下按钮才能继续前进 **"
+		"chi"		"**[目标]你只有按下按钮才能继续前进**"
 	}
 	"[Map] ze_Suchirifu"
 	{
@@ -66,62 +66,65 @@
 	}
 	"[Message] These rooms have Upper side and Lower side."
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]这些房间的门有上下两侧**"
 	}
 	"[Message] Some people must go Lower."
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]一些人必须走下面**"
 	}
 	"[Message] Press Button at Lower side."
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]按下在下面的按钮**"
 	}
 	"[Message] Hold Upper Side"
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]守住上面**"
 	}
 	"[Door] 15 seconds [Close]"
 	{
-		"chi"		"** **"
+		"chi"		"**[大门]15秒[关闭]**"
+		"DoorCountDown"		"15"
 	}
 	"[Message] Good Job!"
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]干的好**"
 	}
 	"[Door] 18 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[大门]18秒[打开]**"
+		"DoorCountDown"		"18"
 	}
 	"[Message] AFK players teleported to side floor."
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]挂机玩家被传送到附近的楼**"
 	}
 	"[Object] Press 5 Buttons."
 	{
-		"chi"		"** **"
+		"chi"		"**[目标]按下5个按钮**"
 	}
 	"[Object] The gates will close When you press button."
 	{
-		"chi"		"** **"
+		"chi"		"**[目标]当你按下按钮时，大门会关闭**"
 	}
 	"[Object] Those gates open by pressing another button."
 	{
-		"chi"		"** **"
+		"chi"		"**[目标]按下另一个按钮打开那些门**"
 	}
 	"[Message] Keep hold Upper"
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]守住上面**"
 	}
 	"[Message] Lower Team Will Open Door"
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]下面的队伍将打开大门**"
 	}
 	"[Message] Find Button at Upper Side"
 	{
-		"chi"		"** **"
+		"chi"		"**[消息]找到上面的按钮**"
 	}
 	"[Upper Door] 20 seconds [Open]"
 	{
-		"chi"		"** **"
+		"chi"		"**[上面的门]20秒[打开]**"
+		"DoorCountDown"		"20"
 	}
 }

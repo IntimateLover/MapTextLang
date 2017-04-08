@@ -1,21 +1,5 @@
 "Console_T"
 {
-	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> WARMUP ROUND END <<<"
-	{
-		"chi"		"** **"
-	}
 	">>> STAGE 1 : GARDEN MODE<<<"
 	{
 		"chi"		">>>第一关：花园模式<<<"
@@ -23,6 +7,7 @@
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		">>>守住20秒<<<"
+		"DoorCountDown"		"20"
 	}
 	">>> ROUTE2 : HOLD 20 SECONDS <<<"
 	{
@@ -32,21 +17,18 @@
 	{
 		"chi"		">>>路线1：守住20秒<<<"
 	}
-	">>> ROUTE3 : HOLD 15 SECONDS <<<"
-	{
-		"chi"		">>>路线3：守住15秒<<<"
-	}
-	">>> HOLD 25 SECONDS <<<"
-	{
-		"chi"		">>>守住25秒<<<"
-	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
 		"chi"		">>>一位玩家拿起僵尸黑洞<<<"
 	}
-	">>> PLAYER HAS PICKED UP AMMO <<<"
+	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"chi"		">>>一位玩家拿起无限弹药<<<"
+		"chi"		">>>一位玩家拿起治疗<<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		">>>守住25秒<<<"
+		"DoorCountDown"		"25"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
@@ -55,26 +37,31 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		">>>守住15秒<<<"
-	}
-	">>> BOSS IS COMING <<<"
-	{
-		"chi"		">>>BOSS来了<<<"
-	}
-	">>> PLAYER HAS PICKED UP HEAL <<<"
-	{
-		"chi"		">>>一位玩家拿起治疗<<<"
+		"DoorCountDown"		"15"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
 		"chi"		">>>一位玩家拿起僵尸治疗<<<"
 	}
+	">>> BOSS IS COMING <<<"
+	{
+		"chi"		">>>BOSS来了<<<"
+	}
 	">>> PLAYER HAS PICKED UP POISON <<<"
 	{
 		"chi"		">>>一位玩家拿起剧毒<<<"
 	}
-	">>> PLAYER HAS PICKED UP BEAM <<<"
+	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"chi"		">>>一位玩家拿起激光束<<<"
+		"chi"		">>>一位玩家拿起无限弹药<<<"
+	}
+	">>> PLAYER HAS PICKED UP WIND <<<"
+	{
+		"chi"		">>>一位玩家拿起风<<<"
+	}
+	">>> ROUTE3 : HOLD 15 SECONDS <<<"
+	{
+		"chi"		">>>路线3：守住15秒<<<"
 	}
 	">>> BOSS WAS DEFEATED <<<"
 	{
@@ -99,6 +86,31 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		">>>守住35秒<<<"
+		"DoorCountDown"		"35"
+	}
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP BEAM <<<"
+	{
+		"chi"		">>>一位玩家拿起激光束<<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		">>>第一关通过<<<"
 	}
 	">>> 5 SECONDS LEFT <<<"
 	{
@@ -108,13 +120,17 @@
 	{
 		"chi"		">>>守住30秒<<<"
 	}
-	">>> ADMIN CHANGED TO STAGE 3 <<<"
+	">>> STAGE 2 COMPLETED <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第二关通过<<<"
 	}
 	">>> STAGE 3 : FACILITY MODE<<<"
 	{
 		"chi"		">>>第三关：工厂模式<<<"
+	}
+	">>> WATCH OUT FOR TAEPODONG ATTACK <<<"
+	{
+		"chi"		">>>当心大炮攻击<<<"
 	}
 	">>> BOSS IS DEFEATED <<<"
 	{
@@ -124,28 +140,12 @@
 	{
 		"chi"		">>>障碍60秒后破碎<<<"
 	}
-	">>> PLAYER HAS PICKED UP WIND <<<"
-	{
-		"chi"		">>>一位玩家拿起风<<<"
-	}
-	">>> STAGE 1 COMPLETED <<<"
-	{
-		"chi"		">>>第一关通过<<<"
-	}
-	">>> STAGE 2 COMPLETED <<<"
-	{
-		"chi"		">>>第二关通过<<<"
-	}
-	">>> WATCH OUT FOR TAEPODONG ATTACK <<<"
-	{
-		"chi"		">>>当心大炮攻击<<<"
-	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
 		"chi"		"** **"
 	}
-	">>> STAGE 3 COMPLETED <<<"
+	"sync_version"
 	{
-		"chi"		"** **"
+		"syncvalue"		"84656"
 	}
 }
