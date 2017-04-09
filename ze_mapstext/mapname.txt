@@ -3,7 +3,7 @@
 	"ze_30_seconds__b21_p2"
 	{
 		"chi"		"生死30秒"
-		"credit"		"600"
+		"credit"		"400"
 	}
 	"ze_ATIX_panic_b3t_p"
 	{
@@ -39,7 +39,7 @@
 	"ze_LOTR_Helms_Deep_v5_p6"
 	{
 		"chi"		"魔戒2: 圣盔谷"
-		"credit"		"400"
+		"credit"		"800"
 	}
 	"ze_LOTR_Mines_of_Moria_p2"
 	{
@@ -114,7 +114,7 @@
 	"ze_biohazard2_rpd_004_p3"
 	{
 		"chi"		"生化危机：警察局"
-		"credit"		"2000"
+		"credit"		"1500"
 	}
 	"ze_biohazard_manor_p2"
 	{
@@ -825,6 +825,7 @@
 	"ze_RTCW_Ominous_Rumors_p3"
 	{
 		"chi"		"重返德军总部"
+		"credit"		"600"
 	}
 	"ze_slender_b1"
 	{
@@ -914,7 +915,7 @@
 	"ze_noir_p1"
 	{
 		"chi"		"黑暗工厂"
-		"credit"		"500"
+		"credit"		"600"
 	}
 	"ze_sorrento_escape_v1"
 	{
@@ -954,7 +955,7 @@
 	"ze_Predator_Ultimate_p7"
 	{
 		"chi"		"铁血战士"
-		"credit"		"500"
+		"credit"		"600"
 	}
 	"ze_atix_helicopter_p"
 	{
@@ -979,7 +980,7 @@
 	"ze_serpentis_temple_v1_1_csgo1"
 	{
 		"chi"		"美杜莎神庙"
-		"credit"		"1000"
+		"credit"		"800"
 	}
 	"ze_ffxii_paramina_rift_v1_7"
 	{
@@ -1022,10 +1023,12 @@
 	"ze_fapescape_rote_v1_3"
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
+		"credit"		"800"
 	}
 	"ze_stalker_ultimate_v1"
 	{
 		"chi"		"切尔诺贝利核电站"
+		"credit"		"800"
 	}
 	"ze_tyranny_v3_n"
 	{
@@ -1055,10 +1058,12 @@
 	"ze_ancient_wrath_v1_2"
 	{
 		"chi"		"生化金字塔"
+		"credit"		"600"
 	}
 	"ze_starwars_v2fix"
 	{
 		"chi"		"星球大战"
+		"credit"		"600"
 	}
 	"ze_pidaras_v1_4fix3_e8"
 	{
@@ -1124,6 +1129,7 @@
 	"ze_dangerous_waters_v2_Final"
 	{
 		"chi"		"危险的水域"
+		"credit"		"700"
 	}
 	"ze_jurassicpark_evolved_v4"
 	{
@@ -1136,14 +1142,17 @@
 	"ze_paper_escaper_p7"
 	{
 		"chi"		"纸质世界"
+		"credit"		"500"
 	}
 	"ze_pidaras_v1_4fix3_ez1"
 	{
 		"chi"		"大屌逃亡"
+		"credit"		"500"
 	}
 	"ze_sky_athletic_adv_v9_9"
 	{
 		"chi"		"天空竞技"
+		"credit"		"500"
 	}
 	"ze_sorrento_escape_v2"
 	{
@@ -1210,6 +1219,7 @@
 	"ze_A_E_S_T_H_E_T_I_C_v1_1"
 	{
 		"chi"		"舞台剧"
+		"credit"		"1000"
 	}
 	"ze_artika_base_v1_2"
 	{
@@ -1263,10 +1273,12 @@
 	"ze_ashen_keep_v0_3_csgo1"
 	{
 		"chi"		"黑暗之魂"
+		"credit"		"600"
 	}
 	"ze_slender_escape_rc1"
 	{
 		"chi"		"瘦长鬼影"
+		"credit"		"700"
 	}
 	"ze_anima_ruins_v2_2"
 	{
@@ -1275,6 +1287,7 @@
 	"ze_christmas_infection_p"
 	{
 		"chi"		"圣诞夜惊魂"
+		"credit"		"500"
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
@@ -1342,6 +1355,7 @@
 	"ze_temple_raider_b4_ps_v4_2"
 	{
 		"chi"		"神庙逃亡"
+		"credit"		"500"
 	}
 	"ze_panic_escape_v3_2_e5"
 	{
@@ -1392,10 +1406,12 @@
 	"ze_dreamin_v1_6"
 	{
 		"chi"		"梦想"
+		"credit"		"700"
 	}
 	"ze_SURVIVORS_p2"
 	{
 		"chi"		"幸存者"
+		"credit"		"600"
 	}
 	"ze_jungle_escape_v1_2_d"
 	{
@@ -1412,6 +1428,7 @@
 	"ze_rizomata_a44"
 	{
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
+		"credit"		"1000"
 	}
 	"ze_lotr_minas_tirith_v3_3_ps29"
 	{
@@ -1422,6 +1439,7 @@
 	"ze_rizomata_b43"
 	{
 		"chi"		"精灵塔"
+		"credit"		"1500"
 	}
 	"ze_floating_rocks_survival_csgo_v2"
 	{
@@ -1452,14 +1470,17 @@
 	"ze_pkmn_adventure_v7_2"
 	{
 		"chi"		"神奇宝贝冒险之旅"
+		"credit"		"700"
 	}
 	"ze_undertale_g_v1_2"
 	{
 		"chi"		"传说之下"
+		"credit"		"500"
 	}
 	"ze_luck_matters_v1d"
 	{
 		"chi"		"运气很重要"
+		"credit"		"500"
 	}
 	"ze_sandstorm_go_b4_6"
 	{
@@ -1488,6 +1509,7 @@
 	"ze_S_A_M_a14"
 	{
 		"chi"		"刀剑神域"
+		"credit"		"500"
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
@@ -1504,7 +1526,7 @@
 	}
 	"ze_tilex_ultimate_v2_12"
 	{
-		"chi"		"跳刀逃亡V2_10"
+		"chi"		"跳刀逃亡"
 	}
 	"ze_floating_rocks_survival_csgo_v2"
 	{
@@ -1530,7 +1552,7 @@
 	"ze_bioshock_v6_2_csgo2"
 	{
 		"chi"		"生化奇兵"
-		"credit"		"500"
+		"credit"		"700"
 	}
 	"ze_zombie_city_finalfix_ps2"
 	{
@@ -1551,6 +1573,7 @@
 	"ze_paranoid_rezurrection_v11_9_th10"
 	{
 		"chi"		"游乐园之旅"
+		"credit"		"700"
 	}
 	"ze_parkers_pit_b8_ps4"
 	{
@@ -1566,6 +1589,7 @@
 	}
 	"ze_evernight_a2_4c"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"永夜"
+		"credit"		"700"
 	}
 }
