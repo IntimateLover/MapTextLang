@@ -68,7 +68,7 @@
 	"ze_Random_p2"
 	{
 		"chi"		"随机小游戏"
-		"credit"		"2000"
+		"credit"		"3000"
 		"onlynominate"		"1"
 	}
 	"ze_Siberia_1990_v1_2c_p5"
@@ -1388,12 +1388,12 @@
 	"ze_ShroomForest_p6"
 	{
 		"chi"		"蘑菇森林1"
-		"credit"		"2000"
+		"credit"		"1500"
 	}
 	"ze_ShroomForest2_p6"
 	{
 		"chi"		"蘑菇森林2"
-		"credit"		"2000"
+		"credit"		"1500"
 	}
 	"ze_licciana_escape_p"
 	{
