@@ -2,7 +2,7 @@
 {
 	"** Map by kune **"
 	{
-		"chi"		"** **"
+		"chi"		"**  **"
 	}
 	"** Original map by Chris Auty and Andrew Aumann**"
 	{
@@ -10,7 +10,7 @@
 	}
 	"** 30 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"** 25 seconds left **"
 	{
@@ -26,11 +26,11 @@
 	}
 	"** Hold here **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"** Get to the chopper **"
 	{
-		"chi"		"** **"
+		"chi"		"**去直升机 **"
 	}
 	"** 25 seconds left *"
 	{
@@ -38,7 +38,7 @@
 	}
 	"** Get on the elevator **"
 	{
-		"chi"		"** **"
+		"chi"		"*登上电梯* **"
 	}
 	"** 5 SECONDS LEFT **"
 	{
@@ -78,7 +78,7 @@
 	}
 	"** FAILED **"
 	{
-		"chi"		"** **"
+		"chi"		"**失败了 **"
 	}
 	"***CURRENT DIFFICULTY IS NORMAL***"
 	{
