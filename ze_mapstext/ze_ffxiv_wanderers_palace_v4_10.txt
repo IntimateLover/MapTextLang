@@ -23,7 +23,7 @@
 	"*** 15 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** 5 SECONDS ***"
 	{
@@ -32,7 +32,7 @@
 	"*** 30 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
 	{
@@ -53,7 +53,7 @@
 	"*** 25 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** 10 seconds  ***"
 	{
@@ -128,12 +128,12 @@
 	"*** 20 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** 30 seconds to Open Road ***"
 	{
 		"chi"		"**30秒后道路开放 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -146,7 +146,7 @@
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 10 seconds   ***"
 	{
@@ -191,7 +191,7 @@
 	"***45 seconds to HARD CLEAR***"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***5 seconds***"
 	{
@@ -224,7 +224,7 @@
 	"*** 35 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼米安装置已被激活.等待35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"*** 10 seconds ***"
 	{
@@ -238,12 +238,12 @@
 	"*** 30 seconds to Open Door ***"
 	{
 		"chi"		"**大门30秒后激活 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 45 seconds to Break Rocks ***"
 	{
 		"chi"		"**45秒后岩石破碎 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***A player picked up Limit Break***"
 	{
@@ -369,7 +369,7 @@
 		"		"		"**电梯15秒后激活"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"15"		"
 	}
 	"
@@ -731,7 +731,7 @@
 		"		"		"**45秒后墙壁破碎"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"45"		"
 	}
 	"
@@ -795,7 +795,7 @@
 	}
 	"		"***"
 		"Human"		"Killer"
-		"on"		"***"
+		"ON"		"***"
 		"
 	{
 		"		"chi"
@@ -1092,12 +1092,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**电梯15秒后离开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁30秒后破碎 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Dont Touch Water ***"
 	{
@@ -1151,12 +1151,12 @@
 	"*** 30 seconds to Break Fence ***"
 	{
 		"chi"		"**铁网30秒后破碎 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Location: The Ragnarok ***"
 	{
@@ -1165,7 +1165,7 @@
 	"*** Defend 45 seconds ***"
 	{
 		"chi"		"**防守45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*** ADS ATTACK ***"
 	{
@@ -1219,7 +1219,7 @@
 	"*** 45 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁45秒后破碎 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*** Odin Appeared ***"
 	{
@@ -1283,7 +1283,7 @@
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**天坠**"
+		"chi"		"**天坠(看天上，往没出现天坠的地方走）**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
@@ -1298,7 +1298,7 @@
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**老司机开车**"
+		"chi"		"**龙车来袭（会出现三只龙，往龙撞不到的地方走）**"
 		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"

@@ -140,7 +140,7 @@
 	{
 		"chi"		"**你还有2分钟去干掉这个癌症一样的东西 **"
 	}
-	"***LASER***"
+	"***Laser***"
 	{
 		"chi"		"**跳刀，跳刀！ **"
 	}
@@ -167,5 +167,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"55163"
+	}
+	"***KAPPA***"
+	{
+		"chi"		"** **"
+	}
+	"***Good job, you won, resetting to LEVEL 1***"
+	{
+		"chi"		"** **"
 	}
 }

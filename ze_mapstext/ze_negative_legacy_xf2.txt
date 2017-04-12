@@ -215,7 +215,7 @@
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** Welcome to Negative Legacy ***"
 	{
@@ -232,5 +232,17 @@
 	"sync_version"
 	{
 		"syncvalue"		"78670"
+	}
+	"Special Thanks: Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Test Server: Possession"
+	{
+		"chi"		"** **"
+	}
+	"WARNING!!"
+	{
+		"chi"		"** **"
 	}
 }

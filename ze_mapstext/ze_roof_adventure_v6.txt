@@ -19,12 +19,12 @@
 	"***The wood door will break in 30s!***"
 	{
 		"chi"		"**木门30秒后打开！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*hold for 45 seconds!*"
 	{
 		"chi"		"**守住45秒！ **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***All zombies will be teleported in 9s!***"
 	{
@@ -33,17 +33,17 @@
 	"***Hold for 15s!***"
 	{
 		"chi"		"**守住15秒！ **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***Hold for 30s!***"
 	{
 		"chi"		"**守住30秒！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Rock monster will appear in 20 seconds!***"
 	{
 		"chi"		"**怪物将在20秒后出现！ **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Shoot rock monster!***"
 	{
@@ -72,7 +72,7 @@
 	"***Hold for 35s!***"
 	{
 		"chi"		"**守住35秒！ **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***Enter the safe room!The nuke will be started in 10 seconds!***"
 	{
@@ -121,7 +121,7 @@
 	"***Hold for 30 seconds!***"
 	{
 		"chi"		"**守住30秒！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***GO!GO!GO!***"
 	{
@@ -130,7 +130,7 @@
 	"***The wood door will break in 20s!***"
 	{
 		"chi"		"**木门将在20秒后打开！ **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Keep care of zombies!***"
 	{
@@ -202,12 +202,12 @@
 	"***Hold here for 30s!***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Resist for 25s!***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***The ulimate will start in 14 seconds!***"
 	{
@@ -216,13 +216,13 @@
 	"***Rock monster used backward-push!***"
 	{
 		"chi"		"**怪物使用了推（按住W） **"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used right-push!***"
 	{
 		"chi"		"**怪物使用了推（往左边走） **"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used electrion!***"
@@ -254,7 +254,7 @@
 	"***The wood door will break in 40s!***"
 	{
 		"chi"		"**木门40秒后开启 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***All zombies will be teleported in 9s!!***"
 	{
@@ -288,13 +288,13 @@
 	"***Rock monster used forward-push!***"
 	{
 		"chi"		"**怪物使用了推（按住S） **"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster used left-push!***"
 	{
 		"chi"		"**怪物使用了推（按住D） **"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***(Admin)Next mode:[Extreme]***"
@@ -312,25 +312,25 @@
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用右推（准备按住A）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用左推（准备按住D）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用前吸（准备按住S）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将在3秒后使用后推（准备按住W）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Boss will use ulimate in 5s!***"
@@ -348,7 +348,7 @@
 	"***Wood door will break in 30s!***"
 	{
 		"chi"		"**木门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***5s left!***"
 	{
@@ -361,7 +361,7 @@
 	"***Wood door will break in 40s!***"
 	{
 		"chi"		"**木门40秒后打开 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***Boss will destroy us in 5s!***"
 	{
@@ -438,7 +438,7 @@
 	"***Hold here for 40s!***"
 	{
 		"chi"		"**守住40秒 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***Round left:2 ***"
 	{
@@ -515,7 +515,7 @@
 	"***The wood will break in 40s!***"
 	{
 		"chi"		"**木材将在40秒后破碎 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***A zombie has picked up immune-boss!***"
 	{
@@ -544,7 +544,7 @@
 	"***Find a place to hold for 60s! ***"
 	{
 		"chi"		"**找个地方守住60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***Zombies will come in 20s!***"
 	{
@@ -561,7 +561,7 @@
 	"***Hold here for 45s!***"
 	{
 		"chi"		"**守住45秒！ **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Dark mode will start in 10s***"
 	{
@@ -626,7 +626,7 @@
 	"***Great!Hold for 20s!***"
 	{
 		"chi"		"**很好！守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***The teleportion has been activated!***"
 	{
@@ -635,7 +635,7 @@
 	"***The last door will close in 30s!***"
 	{
 		"chi"		"**最后的门30秒后关闭！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***All players will be teleported in 2s!***"
 	{
@@ -660,7 +660,7 @@
 	"***Hold for 150s!***"
 	{
 		"chi"		"**守住150秒！ **"
-		"DoorCountDown"		"150"
+		"DoorCountdown"		"150"
 	}
 	"***2 minutes left!***"
 	{
@@ -677,12 +677,12 @@
 	"***Hold here for 35s!***"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***Ladder will be activated in 45s!***"
 	{
 		"chi"		"**梯子将在45秒后激活！ **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Window will break in 45s!***"
 	{
@@ -691,7 +691,7 @@
 	"***Hold gift for last 45s!***"
 	{
 		"chi"		"**守住礼物45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Great!Level completes!***"
 	{
@@ -708,12 +708,12 @@
 	"***Hold for 45s!***"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Hold for 60s!***"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***10s left!***"
 	{
@@ -770,7 +770,7 @@
 	"***Great!Hold for 55s!***"
 	{
 		"chi"		"**干的好！守住55秒！ **"
-		"DoorCountDown"		"55"
+		"DoorCountdown"		"55"
 	}
 	"***Jump to the cross!***"
 	{
@@ -791,7 +791,7 @@
 	"***Hold the chicken for last 65s!***"
 	{
 		"chi"		"**守住鸡65秒 **"
-		"DoorCountDown"		"65"
+		"DoorCountdown"		"65"
 	}
 	"***Hold here for 25s or complete last surf!***"
 	{
@@ -812,7 +812,7 @@
 	"***Find a place to hold for 45s! ***"
 	{
 		"chi"		"**找到一个地方守住45秒！ **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Thanks for Kaemon and Hannibal[SPA]!***"
 	{
@@ -857,7 +857,7 @@
 	"***Wood door will break in 20s!***"
 	{
 		"chi"		"**木门20秒后破碎 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Rock monster will attack in 5s!***"
 	{
@@ -866,7 +866,7 @@
 	"***Hold for 25s!***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Do not allow zombies to enter the safe room!***"
 	{
@@ -891,7 +891,7 @@
 	"***Great!Hold for 35s!***"
 	{
 		"chi"		"**干的好！守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***5!***"
 	{
@@ -960,7 +960,7 @@
 	"***Great!Hold for 25s!***"
 	{
 		"chi"		"**干的好！守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***The wood door will break in 15s!***"
 	{
@@ -969,7 +969,7 @@
 	"***Hold here for 25s!***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Resist for 15s!***"
 	{
@@ -986,7 +986,7 @@
 	"***Find a place to hold for 35s! ***"
 	{
 		"chi"		"**找到一个地方守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***Teleport all players in 20s! ***"
 	{
@@ -1003,7 +1003,7 @@
 	"***Hold the chicken for last 25s!***"
 	{
 		"chi"		"**在鸡的附近守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Current Level:[Extreme]***"
 	{
@@ -1076,5 +1076,21 @@
 	{
 		"chi"		"**岩石怪物使用了电（一直蹲下） **"
 		"ico"		"icon_fire"
+	}
+	"***(Admin)Next Level:[Extra3]***"
+	{
+		"chi"		"** **"
+	}
+	"***(Admin)Next Level:[Extra4]***"
+	{
+		"chi"		"** **"
+	}
+	"***(Admin)Next Level:[Extra2]***"
+	{
+		"chi"		"** **"
+	}
+	"***(Admin)Next level:[Extra1]***"
+	{
+		"chi"		"** **"
 	}
 }
