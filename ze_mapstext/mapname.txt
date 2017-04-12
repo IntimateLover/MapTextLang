@@ -294,6 +294,7 @@
 	{
 		"chi"		"坚守行动"
 		"credit"		"2000"
+		"onlynominate"		"1"
 	}
 	"ze_hypernova_v2fix"
 	{
@@ -1202,6 +1203,7 @@
 	"ze_magic_carpet_p2"
 	{
 		"chi"		"魔毯"
+		"onlynominate"		"1"
 	}
 	"ze_mountain_escape_snow_v5_4"
 	{
@@ -1388,12 +1390,12 @@
 	"ze_ShroomForest_p6"
 	{
 		"chi"		"蘑菇森林1"
-		"credit"		"2000"
+		"credit"		"1500"
 	}
 	"ze_ShroomForest2_p6"
 	{
 		"chi"		"蘑菇森林2"
-		"credit"		"2000"
+		"credit"		"1500"
 	}
 	"ze_licciana_escape_p"
 	{
