@@ -2,7 +2,7 @@
 {
 	"Welcome to ZE_TYRANNY"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到ze_tyranny **"
 	}
 	">>> Map by Moray <<<"
 	{
@@ -14,11 +14,11 @@
 	}
 	"STAGE 1"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"STAGE 2"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"STAGE 3"
 	{
@@ -26,11 +26,11 @@
 	}
 	">>> LOADING KILLER 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**终极将在20秒后加载完毕 **"
 	}
 	">> LOADING KILLER 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**终极将在10秒后加载完毕 **"
 	}
 	">>> 5 SECONDS <<<"
 	{
@@ -54,34 +54,34 @@
 	}
 	"STAGE 4"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关 **"
 	}
 	"PUSH IS ENDING IN 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**推力将在5秒后结束 **"
 	}
 	"PUSH IS ENDING IN 4 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**推力将在4秒后结束 **"
 	}
 	"PUSH IS ENDING IN 3 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**推力将在3秒后结束 **"
 	}
 	"PUSH IS ENDING IN 2 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**推力将在2秒后结束 **"
 	}
 	"PUSH IS ENDING IN 1 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**推力将在1秒后结束 **"
 	}
 	">> EVERYBODY GO TO THE MIDDLE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**大家都往中间走 **"
 	}
 	"STAGE 5"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关 **"
 	}
 }
