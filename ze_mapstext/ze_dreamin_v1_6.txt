@@ -19,22 +19,22 @@
 	"***RESIST FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Hold for 15 seconds***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***RESIST 20 SECONDS***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***TELEPORT ENABLE IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后传送 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***5 seconds left***"
 	{
@@ -47,7 +47,7 @@
 	"***Elevator rise up in 10 seconds***"
 	{
 		"chi"		"**电梯10秒后上升 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***Break the box***"
 	{
@@ -57,7 +57,7 @@
 	"***Teleport activates in 45 seconds***"
 	{
 		"chi"		"**45秒后激活传送 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Wind picked up***"
 	{
@@ -85,7 +85,7 @@
 	"***Final teleport enable in 35 seconds***"
 	{
 		"chi"		"**最后的传送点将在35秒后激活 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***Zombie teleport in 10 seconds***"
 	{
@@ -110,12 +110,12 @@
 	"***RESIST FOR 35 SECONDS***"
 	{
 		"chi"		"**等待35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Zombie picked up Nuke***"
 	{
@@ -135,17 +135,17 @@
 	}
 	"***Hold 35 seconds***"
 	{
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 		"chi"		"**守住35秒 **"
 	}
 	"***Portal open in 30 seconds***"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"chi"		"**守住30秒 **"
 	}
 	"***Last elevator start in 30 seconds***"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"chi"		"**电梯30秒后离开 **"
 	}
 	"***Wall picked up***"
@@ -167,12 +167,12 @@
 	"***Hold until Door break***"
 	{
 		"chi"		"**守住这里直到门开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door open in 30 seconds***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***10 SECONDS LEFT***"
 	{
@@ -203,12 +203,12 @@
 	}
 	"***Flow away***"
 	{
-		"chi"		"**飞跃（飞上去后找角度回来） **"
+		"chi"		"**Flow away**"
 		"ico"		"icon_fire"
 	}
 	"***Zombie Wave***"
 	{
-		"chi"		"**僵尸浪潮（4个口子随机出现一座桥） **"
+		"chi"		"**Zomble Wave**"
 		"ico"		"icon_fire"
 	}
 	"***For Upper***"
@@ -219,7 +219,7 @@
 	"***End of Dream in 120 seconds***"
 	{
 		"chi"		"**梦想将在120秒后结束 **"
-		"DoorCountDown"		"120"
+		"DoorCountdown"		"120"
 	}
 	"***End of Dream in 110 seconds***"
 	{

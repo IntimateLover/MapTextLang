@@ -1074,7 +1074,7 @@
 	{
 		"chi"		"跳刀v2_10"
 	}
-	"ze_antartika_b1_1"
+	"ze_antartika_b1_1_ps1"
 	{
 		"chi"		"南极基地逃亡之旅"
 	}
@@ -1136,7 +1136,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_negative_legacy_beta8"
+	"ze_negative_legacy_xf2"
 	{
 		"chi"		"消逝的遗产"
 	}
@@ -1247,7 +1247,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_gris_v1_11ffff"
+	"ze_gris_v1_11f5"
 	{
 		"chi"		"创世E"
 		"credit"		"1500"
@@ -1585,7 +1585,7 @@
 	{
 		"chi"		"tkara大逃亡"
 	}
-	"ze_insensible_sr8gm6yj12hs7_rg_v9_3"
+	"ze_insensible_sr8gm6yj12hs7_rg_v9_3_1"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1593,5 +1593,29 @@
 	{
 		"chi"		"永夜"
 		"credit"		"700"
+	}
+	"ze_destruction_of_exorath_v4_li"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paranoid_rezurrection_v11_9_"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sandstorm_go_v1_3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_insensible_sr8gm6yj12hs7_rg_"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_l0v0l_a7_csgo3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v1"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }
