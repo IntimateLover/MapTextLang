@@ -2,19 +2,19 @@
 {
 	"Act I:Initial Contact"
 	{
-		"chi"		"**第一幕：初次接触 **"
+		"chi"		"** **"
 	}
 	"Difficulty:Normal"
 	{
-		"chi"		"**难度：普通 **"
+		"chi"		"** **"
 	}
 	"Location:Frostwind Valley"
 	{
-		"chi"		"**位置：Frostwind Valley **"
+		"chi"		"** **"
 	}
 	"Hold 25 seconds"
 	{
-		"chi"		"**守住25秒 **"
+		"chi"		"** **"
 	}
 	">>24<<"
 	{
@@ -22,7 +22,7 @@
 	}
 	"SQUARE ENTRANCE"
 	{
-		"chi"		"**广场入口 **"
+		"chi"		"** **"
 	}
 	">>23<<"
 	{
@@ -118,31 +118,31 @@
 	}
 	"The exit of the suqare is closed"
 	{
-		"chi"		"**广场的出口关闭 **"
+		"chi"		"** **"
 	}
 	"Try to find a way to open the gate"
 	{
-		"chi"		"**想办法打开大门 **"
+		"chi"		"** **"
 	}
 	"The crystal has beem smashed"
 	{
-		"chi"		"**水晶已经被打碎 **"
+		"chi"		"** **"
 	}
 	"SQUARE EXIT"
 	{
-		"chi"		"**广场出口 **"
+		"chi"		"** **"
 	}
 	"Hold for a while till the gate open"
 	{
-		"chi"		"**等一会儿，直到大门打开 **"
+		"chi"		"** **"
 	}
 	"Now get down to the ropeway platform"
 	{
-		"chi"		"**现在去往索道平台 **"
+		"chi"		"** **"
 	}
 	"Hang up your slide hook"
 	{
-		"chi"		"**挂上你的钩子 **"
+		"chi"		"** **"
 	}
 	">>29<<"
 	{
@@ -150,11 +150,11 @@
 	}
 	"ROPEWAY"
 	{
-		"chi"		"**索道 **"
+		"chi"		"** **"
 	}
 	"Well set out when everyone is ready"
 	{
-		"chi"		"**所有人准备好后我们就出发 **"
+		"chi"		"** **"
 	}
 	">>28<<"
 	{
@@ -174,35 +174,35 @@
 	}
 	"The way to the temple is blocked"
 	{
-		"chi"		"**去神殿的路被堵住了 **"
+		"chi"		"** **"
 	}
 	"Get ready for your C4 bomb"
 	{
-		"chi"		"**用C4炸开它 **"
+		"chi"		"** **"
 	}
 	"C4 has been planted"
 	{
-		"chi"		"**C4已安装 **"
+		"chi"		"** **"
 	}
 	"LARGE ROCKS"
 	{
-		"chi"		"**石块 **"
+		"chi"		"** **"
 	}
 	"Get back!C4 is about to explode!"
 	{
-		"chi"		"**后退！C4即将爆炸 **"
+		"chi"		"** **"
 	}
 	"Cover here till we open the gate"
 	{
-		"chi"		"**守住这里.直到我们打开大门 **"
+		"chi"		"** **"
 	}
 	"SQUARE GATE"
 	{
-		"chi"		"**广场大门 **"
+		"chi"		"** **"
 	}
 	"Thats the Evernight Temple"
 	{
-		"chi"		"**这里就是永夜神殿了 **"
+		"chi"		"** **"
 	}
 	">>99<<"
 	{
@@ -210,11 +210,11 @@
 	}
 	"EVERNIGHT TEMPLE"
 	{
-		"chi"		"**永夜神殿 **"
+		"chi"		"** **"
 	}
 	"Lets get into it"
 	{
-		"chi"		"**让我们进入里面 **"
+		"chi"		"** **"
 	}
 	">>98<<"
 	{
@@ -250,7 +250,7 @@
 	}
 	"Whats thata big cloud of smoke"
 	{
-		"chi"		"**什么鬼！一团巨大的黑雾 **"
+		"chi"		"** **"
 	}
 	">>90<<"
 	{
@@ -274,7 +274,7 @@
 	}
 	"Itt coming to us!shot it!shot it!"
 	{
-		"chi"		"**它正在过来！开枪射击！ **"
+		"chi"		"** **"
 	}
 	">>85<<"
 	{
@@ -328,11 +328,11 @@
 	{
 		"chi"		"** **"
 	}
-	"Its an image of Basil..."
-	{
-		"chi"		"**这是巴希列乌西斯的图像... **"
-	}
 	">>72<<"
+	{
+		"chi"		"** **"
+	}
+	"Its an image of Basil..."
 	{
 		"chi"		"** **"
 	}
@@ -340,11 +340,11 @@
 	{
 		"chi"		"** **"
 	}
-	"now he must know were here..."
-	{
-		"chi"		"**现在他一定直到在这里发生了什么... **"
-	}
 	">>70<<"
+	{
+		"chi"		"** **"
+	}
+	"now he must know were here..."
 	{
 		"chi"		"** **"
 	}
@@ -352,11 +352,11 @@
 	{
 		"chi"		"** **"
 	}
-	"We have to hurry up,lets move"
-	{
-		"chi"		"**我们得快点，开始行动吧 **"
-	}
 	">>68<<"
+	{
+		"chi"		"** **"
+	}
+	"We have to hurry up,lets move"
 	{
 		"chi"		"** **"
 	}
@@ -371,10 +371,6 @@
 	">>65<<"
 	{
 		"chi"		"** **"
-	}
-	"You cant defeat it..."
-	{
-		"chi"		"**你无法战胜它 **"
 	}
 	">>64<<"
 	{
@@ -516,9 +512,13 @@
 	{
 		"chi"		"** **"
 	}
+	"Kill remaining zombies"
+	{
+		"chi"		"** **"
+	}
 	"Act I complete"
 	{
-		"chi"		"**第一幕通过 **"
+		"chi"		"** **"
 	}
 	"Map by Asami"
 	{
@@ -526,214 +526,74 @@
 	}
 	"Thanks for playing"
 	{
-		"chi"		"**感谢你的参与 **"
+		"chi"		"** **"
 	}
 	"Next act coming soon"
 	{
-		"chi"		"**下一幕即将到来 **"
+		"chi"		"** **"
 	}
 	"Act II:Misty Mystery"
 	{
-		"chi"		"**第二幕：迷雾重重 **"
+		"chi"		"** **"
 	}
 	"Difficulty:Hard"
 	{
-		"chi"		"**难度：困难 **"
+		"chi"		"** **"
 	}
 	"First go to right"
 	{
-		"chi"		"**先向右走 **"
+		"chi"		"** **"
 	}
 	"RIGHT GATE"
 	{
-		"chi"		"**右边大门 **"
+		"chi"		"** **"
 	}
 	"In order to prevent be invaded"
 	{
-		"chi"		"**为了防止被入侵 **"
+		"chi"		"** **"
 	}
 	"INNER DOOR"
 	{
-		"chi"		"**内部大门 **"
+		"chi"		"** **"
 	}
 	"therere many seal doors"
 	{
-		"chi"		"**有很多关闭的门 **"
+		"chi"		"** **"
 	}
 	"AISLE GATE"
 	{
-		"chi"		"**过道大门 **"
-	}
-	"THE FIRST WALL"
-	{
-		"chi"		"**第一道透明墙壁 **"
-	}
-	"CORE EXTERNAL GATE"
-	{
-		"chi"		"**核心外部大门 **"
-	}
-	"THE THIRD WALL"
-	{
-		"chi"		"**第三道透明墙壁 **"
+		"chi"		"** **"
 	}
 	"Nicely done"
 	{
-		"chi"		"**干得好 **"
+		"chi"		"** **"
 	}
 	"Hold the position till the gate open"
 	{
-		"chi"		"**守住这里.直到大门打开 **"
+		"chi"		"** **"
 	}
 	"Therere three invisible walls"
 	{
-		"chi"		"**有三道透明墙壁 **"
+		"chi"		"** **"
+	}
+	"THE FIRST WALL"
+	{
+		"chi"		"** **"
 	}
 	"try to find a way to break through"
 	{
-		"chi"		"**设法找到一个方法来突破 **"
+		"chi"		"** **"
 	}
 	"THE SECOND WALL"
 	{
-		"chi"		"**第二道透明墙壁 **"
+		"chi"		"** **"
+	}
+	"THE THIRD WALL"
+	{
+		"chi"		"** **"
 	}
 	"It seems we nearly reach the core"
 	{
-		"chi"		"**看来我们快要到达核心了 **"
-	}
-	"The core must be...wait"
-	{
-		"chi"		"**核心一定是...等等 **"
-	}
-	"there is something has been wakened!"
-	{
-		"chi"		"**有什么东西被唤醒了！ **"
-	}
-	"Im the watcher of the temple"
-	{
-		"chi"		"**我是神殿的守望者 **"
-	}
-	"and the keeper of the Glimmer Fragment"
-	{
-		"chi"		"**和微光碎片的守护者 **"
-	}
-	"You,the greedy thieves of humankind"
-	{
-		"chi"		"**你.贪婪的人类窃贼 **"
-	}
-	"Now face me and feel my wrath!"
-	{
-		"chi"		"**现在面对我，感受我的愤怒！ **"
-	}
-	"Its the watcher system of the temple!"
-	{
-		"chi"		"**这是神殿的守护系统 **"
-	}
-	"Ready for battle!"
-	{
-		"chi"		"**准备战斗！ **"
-	}
-	"Make he stop before he kill us all!"
-	{
-		"chi"		"**在他杀死我们之前让他停下来！ **"
-	}
-	"BOSS:The watcher"
-	{
-		"chi"		"**BOSS：守望者 **"
-	}
-	"Static Shock"
-	{
-		"chi"		"**静电冲击 **"
-	}
-	"Freezing Breath"
-	{
-		"chi"		"**霜冻吐息 **"
-	}
-	"Sidewind"
-	{
-		"chi"		"**侧风 **"
-	}
-	"Absolute Vacuum"
-	{
-		"chi"		"**绝对真空 **"
-	}
-	"Celestial Smash"
-	{
-		"chi"		"**天体粉碎 **"
-	}
-	"Hurricane core is broken"
-	{
-		"chi"		"**飓风核心被打坏 **"
-	}
-	"Burning Field"
-	{
-		"chi"		"**燃烧大地 **"
-	}
-	"Frostnova"
-	{
-		"chi"		"**冰霜新星 **"
-	}
-	"Chaosbreak"
-	{
-		"chi"		"**混沌破碎 **"
-	}
-	"We defeat it!"
-	{
-		"chi"		"**我们战胜它 **"
-	}
-	"Hold for a while"
-	{
-		"chi"		"**守住一会 **"
-	}
-	"Were trying to activate the core"
-	{
-		"chi"		"**我们正试图激活核心 **"
-	}
-	"Hold for a while till the lift activate"
-	{
-		"chi"		"**守住一段时间.直到电梯激活 **"
-	}
-	"CORE LIFT"
-	{
-		"chi"		"**核心电梯 **"
-	}
-	"CORE EXIT"
-	{
-		"chi"		"**核心出口 **"
-	}
-	"Blizzard"
-	{
-		"chi"		"**暴风雪 **"
-	}
-	"Ember Tornado"
-	{
-		"chi"		"**火焰风暴 **"
-	}
-	"Lava core is broken"
-	{
-		"chi"		"**熔岩核心被打坏 **"
-	}
-	"Aurora Shield"
-	{
-		"chi"		"**反伤盾牌 **"
-	}
-	"Warning!"
-	{
-		"chi"		"**警告！ **"
-	}
-	"Power is nearly to critical value!"
-	{
-		"chi"		"**电力几乎达到临界值！ **"
-	}
-	"He is casting his last attack!"
-	{
-		"chi"		"**他正在进行最后的攻击！ **"
-	}
-	"Its our last chance!"
-	{
-		"chi"		"**这是我们最后的机会！ **"
-	}
-	"Lightning Storm"
-	{
-		"chi"		"**闪电风暴 **"
+		"chi"		"** **"
 	}
 }
