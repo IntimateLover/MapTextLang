@@ -10,7 +10,7 @@
 	}
 	"***Teleport activates in 20 seconds***"
 	{
-		"chi"		"**传送点20秒后激活 **"
+		"chi"		"**传送将在20秒后启动**"
 	}
 	"***3***"
 	{
@@ -30,24 +30,24 @@
 	}
 	"***Resist for 60 seconds***"
 	{
-		"chi"		"**守住60秒 **"
-		"DoorCountDown" "60"
+		"chi"		"**守住60秒**"
+		"DoorCountdown"		"60"
 	}
 	"***Zombies are coming!!***"
 	{
-		"chi"		"**僵尸来了！！ **"
+		"chi"		"**僵尸来了**"
 	}
 	"***Teleporting all humans...***"
 	{
-		"chi"		"**传送所有人类... **"
+		"chi"		"**传送所有人类**"
 	}
 	"***Teleporting all zombies...***"
 	{
-		"chi"		"**传送所有僵尸... **"
+		"chi"		"**传送所有僵尸**"
 	}
 	"***Gravity picked up***"
 	{
-		"chi"		"**重力已拿起 **"
+		"chi"		"**黑洞已拿起**"
 	}
 	"***10 SECONDS LEFT***"
 	{
@@ -55,63 +55,63 @@
 	}
 	"***Resist 60 seconds***"
 	{
-		"chi"		"**守住60秒 **"
-		"DoorCountDown" "60"
+		"chi"		"**守住60秒**"
+		"DoorCountdown"		"60"
 	}
 	"***Zombies are coming!***"
 	{
-		"chi"		"**僵尸来了！ **"
+		"chi"		"**僵尸来了**"
 	}
 	"***Gravity Used***"
 	{
-		"chi"		"**重力已使用 **"
+		"chi"		"**黑洞使用了**"
 	}
 	"***Resist 45 seconds***"
 	{
-		"chi"		"**守住45秒 **"
-		"DoorCountDown" "45"
+		"chi"		"**守住45秒**"
+		"DoorCountdown"		"45"
 	}
 	"***shorcut open***"
 	{
-		"chi"		"**捷径打开 **"
+		"chi"		"**捷径开了**"
 	}
 	"***Low Health picked up***"
 	{
-		"chi"		"**奶已拿起 **"
+		"chi"		"**低血量被拿起**"
 	}
 	"***Teleport error***"
 	{
-		"chi"		"**传送错误 **"
+		"chi"		"**传送错误**"
 	}
 	"***Zombies are coming in 15 seconds***"
 	{
-		"chi"		"**僵尸15秒后出现 **"
+		"chi"		"**僵尸15秒后到来**"
 	}
 	"***Try to find button***"
 	{
-		"chi"		"**寻找按钮 **"
+		"chi"		"**尝试找到按钮**"
 	}
 	"***Teleport error fixed in 30 seconds***"
 	{
-		"chi"		"**传送将在30秒后修正 **"
-		"DoorCountDown" "30"
+		"chi"		"**传送错误.30秒后修复**"
+		"DoorCountdown"		"30"
 	}
 	"***Try to find second button***"
 	{
-		"chi"		"**寻找第二个按钮 **"
+		"chi"		"**尝试找到按钮**"
 	}
 	"***Low Health Used***"
 	{
-		"chi"		"**奶已使用 **"
+		"chi"		"**低血量使用了**"
 	}
-	"***zombies are coming***"
+	"***ZOMBIES ARE COMING***"
 	{
-		"chi"		"**僵尸来了 **"
+		"chi"		"**僵尸来了**"
 	}
 	"***Second teleport fixed in 30 seconds***"
 	{
 		"chi"		"**传送30秒后启动 **"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"***5 seconds left, prepare yourself***"
 	{
@@ -124,7 +124,7 @@
 	"***Resist for 30 seconds***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"***5 seconds left***"
 	{
