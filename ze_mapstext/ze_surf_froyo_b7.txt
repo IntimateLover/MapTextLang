@@ -266,7 +266,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"98397"
+		"syncvalue"		"50513"
 	}
 	"***Map Made By Color[酸奶]!***"
 	{
@@ -336,15 +336,31 @@
 	{
 		"chi"		"** **"
 	}
-	"***Zombies will come in 8s!"
-	{
-		"chi"		"** **"
-	}
 	"***Wait for 120s or complete last surf to activate the teleportion crystal!***"
 	{
 		"chi"		"** **"
 	}
 	"***A traveller has picked Boss Stars ultimate --- Wave!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 8s!"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked shock ring!***"
+	{
+		"chi"		"** **"
+	}
+	"***The boat will move in 75s!***"
+	{
+		"chi"		"** **"
+	}
+	"***The boat will move in 30s!***"
+	{
+		"chi"		"** **"
+	}
+	"***The teleportion crystal is active!***"
 	{
 		"chi"		"** **"
 	}
@@ -368,11 +384,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***The teleportion crystal is active!***"
+	"***Well!Boss Froyo has been defeated!***"
 	{
 		"chi"		"** **"
 	}
-	"***Well!Boss Froyo has been defeated!***"
+	"***A traveller has picked Boss Froyos ultimate --- Blast!***"
 	{
 		"chi"		"** **"
 	}

@@ -31,7 +31,7 @@
 	"**Hold 25 seconds**"
 	{
 		"chi"		"**坚守25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**WE SMASHED THE ENERGY CRYSTAL,HOLD THE POSITION FOR 30 SECONDS TILL THE PARCLOSE DISAPPEAR**"
 	{
@@ -44,7 +44,7 @@
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 45 SECONDS TILL THE C4 EXPLODE**"
 	{
 		"chi"		"**C4已安置，等待45秒后C4爆炸**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"**WE MUST HURRY UP,THE SOUND OF EXPLOSION MAYBE HAS CARRY FOR WHERE HE IS**"
 	{
@@ -60,22 +60,22 @@
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 20 SECONDS TILL THE C4 EXPLODE**"
 	{
 		"chi"		"**C4将在20秒后爆炸 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Hold 15 seconds**"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**WERE TRYING TO BREAK THE WALL,HOLD 20 SECONDS**"
 	{
 		"chi"		"**我们试图打破墙壁.守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**HOLD 30 SECONDS TILL THE DOOR OPEN**"
 	{
 		"chi"		"**守住30秒.直到门打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**NADE CAN DO A LOT OF DAMAGE**"
 	{
@@ -84,7 +84,7 @@
 	"**HOLD 60 SECONDS**"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"**DIFFICULTY:NORMAL**"
 	{
@@ -225,7 +225,7 @@
 	"**DOOR OPENS IN 10 SECONDS**"
 	{
 		"chi"		"**大门将在10秒后开启 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**IT SEEMS WE HAVE TO ACTIVATE THE TWO CRYSTALS AT THE BOTH SIDES TO OPEN THE GATE**"
 	{
@@ -234,7 +234,7 @@
 	"**GOOD JOB,THE GATE WILL BE OPENED IN 30 SECONDS**"
 	{
 		"chi"		"**干得漂亮，大门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**THE SIDE DOOR OPENS IN 10 SECONDS**"
 	{
@@ -247,17 +247,17 @@
 	"**THE FIRST WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第一道隐形墙将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**THE SECOND WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第二道隐形墙将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**THE LAST WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第三道隐形墙将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**DONT HURRY TO LEAVE,HOLD ON A LITTLE LONGER TO COVER OUR TEAMMATES WHO IN THE SIDE WAY**"
 	{
@@ -402,7 +402,7 @@
 	"**Hold 30 seconds**"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**GRAVITY**"
 	{
@@ -449,7 +449,7 @@
 	"**THE AUTONOMOUS DEFENSE SYSTEM IS CASTING ITS LAST ATTACK!WE MUST HURRY UP!**"
 	{
 		"chi"		"**自律型防卫系统正在准备它的最后一击！我们必须抓紧最后的机会了！ **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**GET BACK TO THE BOTH SIDES!IT IS COMING!**"
 	{

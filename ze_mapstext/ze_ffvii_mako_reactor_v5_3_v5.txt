@@ -267,6 +267,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告！巴哈姆特将要释放红终！准备好使用3级奶！！**"
+		"DoorCountdown"		"20"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -278,6 +279,7 @@
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
+	  "command" "sm_aei_hammerid 140676 use"
 		"chi"		"**难度完成！下一关将会是ZM关卡！！**"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"

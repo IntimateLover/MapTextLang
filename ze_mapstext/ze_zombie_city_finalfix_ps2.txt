@@ -15,7 +15,7 @@
 	"**Train is leaving in 20 seconds**"
 	{
 		"chi"		"**火车将在20秒后离开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Train is leaving in 10 seconds**"
 	{
@@ -48,12 +48,12 @@
 	"***The door will close in 30 seconds***"
 	{
 		"chi"		"**大门30秒后关闭 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***The boat will leave in 20 seconds!!!***"
 	{
 		"chi"		"**船20秒后离开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***The boat will leave in 8 seconds!!!***"
 	{
@@ -74,7 +74,7 @@
 	"***The door will open in 20 seconds!!!***"
 	{
 		"chi"		"**门20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***The door will close in 5 seconds and will open in 15 seconds!!!***"
 	{
@@ -103,7 +103,7 @@
 	"** Cave opens in 20 seconds **"
 	{
 		"chi"		"**洞穴在20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Calling the nuke... Explosion in 40 seconds***"
 	{
@@ -144,7 +144,7 @@
 	"***The rescue helicopter will arrive in 40 seconds***"
 	{
 		"chi"		"**救援直升机将在40秒后到达 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***Evacuate!!!***"
 	{
