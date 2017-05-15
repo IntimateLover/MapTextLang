@@ -161,7 +161,7 @@
 		"chi"		"小鸡城堡大逃亡"
 		"credit"		"400"
 	}
-	"ze_colorlicouspilar_p4"
+	"ze_colorlicouspilar_fixcsgo"
 	{
 		"chi"		"彩色世界"
 		"credit"		"400"
@@ -729,7 +729,7 @@
 		"chi"		"建筑工地"
 		"credit"		"400"
 	}
-	"ze_crazy_escape_v5_4"
+	"ze_crazy_escape_v5_5"
 	{
 		"chi"		"疯狂大逃亡"
 		"credit"		"400"
@@ -1084,7 +1084,7 @@
 	}
 	"ze_kraznov_poopata_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"天界方块之旅"
 	}
 	"ze_negative_legacy_beta7"
 	{
@@ -1136,7 +1136,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_negative_legacy_xf2"
+	"ze_negative_legacy_xf4"
 	{
 		"chi"		"消逝的遗产"
 	}
@@ -1145,7 +1145,7 @@
 		"chi"		"纸质世界"
 		"credit"		"500"
 	}
-	"ze_pidaras_v1_4fix3_ez1"
+	"ze_pidaras_v1_4fix3_ez2"
 	{
 		"chi"		"大屌逃亡"
 		"credit"		"500"
@@ -1252,7 +1252,7 @@
 		"chi"		"创世E"
 		"credit"		"1500"
 	}
-	"ze_hidden_temple_v2_3"
+	"ze_hidden_temple_v2_4"
 	{
 		"chi"		"隐秘神庙"
 	}
@@ -1272,7 +1272,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ashen_keep_v0_3_csgo1"
+	"ze_ashen_keep_v0_3_csgo3"
 	{
 		"chi"		"黑暗之魂"
 		"credit"		"600"
@@ -1432,7 +1432,7 @@
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 		"credit"		"1000"
 	}
-	"ze_lotr_minas_tirith_v3_3_ps29"
+	"ze_lotr_minas_tirith_p4"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
 		"onlyadmin"		"1"
@@ -1479,7 +1479,7 @@
 		"chi"		"传说之下"
 		"credit"		"500"
 	}
-	"ze_luck_matters_v1d"
+	"ze_luck_matters_v2c"
 	{
 		"chi"		"运气很重要"
 		"credit"		"500"
@@ -1508,7 +1508,7 @@
 	{
 		"chi"		"宠物小精灵冒险之旅"
 	}
-	"ze_S_A_M_a15"
+	"ze_S_A_M_a17"
 	{
 		"chi"		"刀剑神域"
 		"credit"		"500"
@@ -1526,7 +1526,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_tilex_ultimate_v2_12"
+	"ze_tilex_ultimate_v2_13"
 	{
 		"chi"		"跳刀逃亡"
 	}
@@ -1610,10 +1610,6 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_l0v0l_a7_csgo4"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_undertale_g_v1_3"
 	{
 		"chi"		"此地图暂无译名"
@@ -1622,15 +1618,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_diddle_v1_6"
-	{
-		"chi"		"爸爸再爱我一次"
-	}
 	"ze_pkmn_hgss_v2_3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_surf_froyo_b6"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1639,6 +1627,26 @@
 		"chi"		"此地图暂无译名"
 	}
 	"ze_deadcore_c10"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_surf_froyo_b8"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_l0v0l_a7_csgo4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v1_6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sky_temples_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sky_temples_v1_3"
 	{
 		"chi"		"此地图暂无译名"
 	}

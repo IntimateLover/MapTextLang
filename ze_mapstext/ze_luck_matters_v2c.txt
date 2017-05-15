@@ -1,0 +1,207 @@
+"Console_T"
+{
+	"***PLATFORM WILL RISE IN 30s***"
+	{
+		"chi"		"**平台将在30秒后上升 **"
+		"DoorCountdown"		"30"
+	}
+	"***PLATFORM WILL RISE IN 5s***"
+	{
+		"chi"		"**平台将在5秒后上升 **"
+	}
+	"***PLATFORM IS RISING***"
+	{
+		"chi"		"**平台已上升 **"
+	}
+	"***DOOR OPENS IN 5s***"
+	{
+		"chi"		"**大门5秒后打开 **"
+	}
+	"***DOOR OPENS IN 30s***"
+	{
+		"chi"		"**大门30秒后打开 **"
+		"DoorCountdown"		"30"
+	}
+	"***Door is open***"
+	{
+		"chi"		"**大门打开了 **"
+	}
+	"***HOLD HERE FOR 25s***"
+	{
+		"chi"		"**守住25秒 **"
+		"DoorCountdown"		"25"
+	}
+	"***5s LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ACTIVATES IN 30s***"
+	{
+		"chi"		"**传送30秒后激活 **"
+		"DoorCountdown"		"30"
+	}
+	"***TELEPORT ACTIVATED***"
+	{
+		"chi"		"**传送已激活 **"
+	}
+	"***DODGE THE LASERS***"
+	{
+		"chi"		"**躲避激光 **"
+		"ico"		"icon_fire"
+	}
+	"***HOLD FOR 30s***"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"**撤退 **"
+	}
+	"***HOLD FOR 35s***"
+	{
+		"chi"		"**守住35秒 **"
+		"DoorCountdown"		"35"
+	}
+	"***SURVIVE***"
+	{
+		"chi"		"**生存下去 **"
+		"ico"		"icon_fire"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***CONGRATS!!!***"
+	{
+		"chi"		"**恭喜!！！ **"
+	}
+	"***Map made by W...***"
+	{
+		"chi"		"**地图制作：W... 地图翻译：蓬莱山帅比♪ **"
+	}
+	"***Special thanks to NDeo***"
+	{
+		"chi"		"**特别感谢：NDeo **"
+	}
+	"***Music by MachinimaSound & Thomas Bergersen***"
+	{
+		"chi"		"**音乐：MachinimaSound & Thomas Bergersen **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"90768"
+	}
+	"***PLATFORM WILL RISE IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ACTIVATES IN 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ACTIVATES IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Wall has been Picked Up***"
+	{
+		"chi"		"** **"
+	}
+	"***Trigger Left & Right Platforms***"
+	{
+		"chi"		"** **"
+	}
+	"***Then Trigger Middle Platform***"
+	{
+		"chi"		"** **"
+	}
+	"***CLIMB UP***"
+	{
+		"chi"		"** **"
+	}
+	"***Trigger Left & Right By Jumping In***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait on Black Ring Until TP is Active Then Jump In***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ACTIVE IN 20s***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ACTIVE IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***GO GO GO***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold For 20s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport Active In 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport Active***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Open In 40s***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK TP IN 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK TP IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors Open In 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***25s Left Before Teleport***"
+	{
+		"chi"		"** **"
+	}
+	"***5s Left Before Teleport***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport In 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport in 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Move Forward & Dodge The Lasers***"
+	{
+		"chi"		"** **"
+	}
+}
