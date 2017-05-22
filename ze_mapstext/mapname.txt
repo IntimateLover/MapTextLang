@@ -61,7 +61,7 @@
 		"chi"		"加勒比海盗"
 		"credit"		"400"
 	}
-	"ze_PotC_IV_p2"
+	"ze_PotC_IV_p3"
 	{
 		"chi"		"加勒比海盗IV"
 	}
@@ -206,7 +206,7 @@
 		"chi"		"沙漠大逃亡"
 		"credit"		"400"
 	}
-	"ze_elevator_escape_p2"
+	"ze_elevator_escape_p3"
 	{
 		"chi"		"电梯大逃亡"
 		"credit"		"400"
@@ -823,7 +823,7 @@
 		"chi"		"火影村"
 		"credit"		"500"
 	}
-	"ze_RTCW_Ominous_Rumors_p3"
+	"ze_RTCW_Ominous_Rumors_p4"
 	{
 		"chi"		"重返德军总部"
 		"credit"		"600"
@@ -928,7 +928,7 @@
 		"chi"		"沙尘暴"
 		"credit"		"800"
 	}
-	"ze_surf_vortex_v1_9"
+	"ze_surf_vortex_v2_2"
 	{
 		"chi"		"漩涡滑翔"
 		"credit"		"900"
@@ -1176,7 +1176,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_zombierig_p2"
+	"ze_zombierig_p3"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1286,7 +1286,7 @@
 	{
 		"chi"		"灵魂废墟"
 	}
-	"ze_christmas_infection_p"
+	"ze_christmas_infection_p2"
 	{
 		"chi"		"圣诞夜惊魂"
 		"credit"		"500"
@@ -1432,7 +1432,7 @@
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 		"credit"		"1000"
 	}
-	"ze_lotr_minas_tirith_p4"
+	"ze_LOTR_Minas_Tirith_v3_3_ps31"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
 		"onlyadmin"		"1"
@@ -1443,7 +1443,7 @@
 		"chi"		"精灵塔"
 		"credit"		"1500"
 	}
-	"ze_floating_rocks_survival_csgo_v2"
+	"ze_floating_rocks_survival_csgo_v3"
 	{
 		"chi"		"漂浮的城市"
 	}
@@ -1508,7 +1508,7 @@
 	{
 		"chi"		"宠物小精灵冒险之旅"
 	}
-	"ze_S_A_M_a17"
+	"ze_S_A_M_a20"
 	{
 		"chi"		"刀剑神域"
 		"credit"		"500"
@@ -1518,7 +1518,7 @@
 		"chi"		"最终幻想14：旅神圣域"
 		"credit"		"500"
 	}
-	"ze_floating_rocks_survival_csgo_v2"
+	"ze_floating_rocks_survival_csgo_v3"
 	{
 		"chi"		"悬浮的城市"
 	}
@@ -1530,7 +1530,7 @@
 	{
 		"chi"		"跳刀逃亡"
 	}
-	"ze_floating_rocks_survival_csgo_v2"
+	"ze_floating_rocks_survival_csgo_v3"
 	{
 		"chi"		"悬浮的城市"
 	}
@@ -1551,7 +1551,7 @@
 		"chi"		"沙尘暴"
 		"credit"		"1000"
 	}
-	"ze_bioshock_v6_2_csgo2"
+	"ze_bioshock_v6_2_csgo4"
 	{
 		"chi"		"生化奇兵"
 		"credit"		"700"
@@ -1604,7 +1604,7 @@
 	}
 	"ze_sandstorm_go_v1_3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"新沙尘暴"
 	}
 	"ze_insensible_sr8gm6yj12hs7_rg_"
 	{
@@ -1612,27 +1612,27 @@
 	}
 	"ze_undertale_g_v1_3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"传说之下"
 	}
 	"ze_laser_island_b6_8"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀岛逃亡之旅"
 	}
 	"ze_pkmn_hgss_v2_3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"新版跳刀宝贝"
 	}
 	"ze_tilex_possession_v2_12"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀列车v2_12"
 	}
 	"ze_deadcore_c10"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"死亡核心"
 	}
-	"ze_surf_froyo_b8"
+	"ze_surf_froyo_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"滑翔大冒险"
 	}
 	"ze_l0v0l_a7_csgo4"
 	{
@@ -1640,13 +1640,21 @@
 	}
 	"ze_diddle_v1_6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"欺骗"
 	}
-	"ze_sky_temples_v1"
+	"ze_sky_temples_v1_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_sky_temples_v1_3"
+	{
+		"chi"		"天空神庙"
+	}
+	"ze_grau_a0_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_thriller_escape_p"
 	{
 		"chi"		"此地图暂无译名"
 	}
