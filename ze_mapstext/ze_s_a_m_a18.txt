@@ -4,15 +4,47 @@
 	{
 		"chi"		"** **"
 	}
-	"**Zombie has picked up <Stealth>**"
-	{
-		"chi"		"** **"
-	}
 	"**Zombie has picked up <Shield>**"
 	{
 		"chi"		"** **"
 	}
-	"**[Admin]Stage 3**"
+	"**Zombie has picked up <Stealth>**"
+	{
+		"chi"		"** **"
+	}
+	">>NUKE IN 10 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>NOW USE THE TELEPORT CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>3<<"
+	{
+		"chi"		"** **"
+	}
+	">>2<<"
+	{
+		"chi"		"** **"
+	}
+	">>1<<"
+	{
+		"chi"		"** **"
+	}
+	">>A VOICE : Ive studied the crystals you brought back last time<<"
+	{
+		"chi"		"** **"
+	}
+	">>A VOICE : Get into the palace , theres a great mystery under it<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE FAILED<<"
+	{
+		"chi"		"** **"
+	}
+	">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
 	{
 		"chi"		"** **"
 	}
@@ -68,19 +100,7 @@
 	{
 		"chi"		"** **"
 	}
-	">>WE DEFEAT IT<<"
-	{
-		"chi"		"** **"
-	}
-	">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
-	{
-		"chi"		"** **"
-	}
-	">>STAGE 3 COMPLETE<<"
-	{
-		"chi"		"** **"
-	}
-	">>WAITING FOR STAGE 4<<"
+	">>THANKS FOR PLAYING<<"
 	{
 		"chi"		"** **"
 	}

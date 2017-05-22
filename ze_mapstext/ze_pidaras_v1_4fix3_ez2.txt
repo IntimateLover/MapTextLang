@@ -276,7 +276,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -350,9 +350,13 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"66246"
+		"syncvalue"		"87016"
 	}
 	"*** OK FUCKING FAGGOT STAY COVER HERE 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"[ITEMS] Shotgun is empty !"
 	{
 		"chi"		"** **"
 	}

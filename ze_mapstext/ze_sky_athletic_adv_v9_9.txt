@@ -897,7 +897,7 @@
 	{
 		"chi"		"**等待发生什么事情**"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -2399,6 +2399,10 @@
 		"chi"		"**云哥哥:太热了！！离我远一点！！**"
 	}
 	"CLOUD FATHER : Remember your items cant effect me !!"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD : Whats this wind !? I cant do the best of speed !!"
 	{
 		"chi"		"** **"
 	}

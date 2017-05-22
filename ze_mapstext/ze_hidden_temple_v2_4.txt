@@ -286,12 +286,16 @@
 	{
 		"chi"		"** **"
 	}
-	"### HOLD A BIT HERE ###"
+	"sync_version"
+	{
+		"syncvalue"		"39593"
+	}
+	"### KILL THE REMAINING ZOMBIES ###"
 	{
 		"chi"		"** **"
 	}
-	"sync_version"
+	"### HOLD BOTH SIDES FOR 20 SECONDS ###"
 	{
-		"syncvalue"		"71599"
+		"chi"		"** **"
 	}
 }

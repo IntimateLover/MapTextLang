@@ -439,11 +439,11 @@
 	}
 	"**Sakai**"
 	{
-		"chi"		"** **"
+		"chi"		"**无敌**"
 	}
 	"**Kanameishi**"
 	{
-		"chi"		"**Kanameishi（看天上躲避石头）**"
+		"chi"		"**守护の要石（看天上躲避石头）**"
 	}
 	"**Hold 10 seconds**"
 	{
@@ -482,6 +482,7 @@
 	"**Air leaves in 30 seconds**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"**[Admin]Stage 3**"
 	{
