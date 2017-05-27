@@ -158,6 +158,7 @@
 	"*** Stage 1 Completed! ***"
 	{
 		"chi"		"**关卡一完成 **"
+		"command"	"sm_aei_hammerid 14215 disable"
 	}
 	"*** Stay away from the teleporter as it activates. ***"
 	{
@@ -177,7 +178,7 @@
 	}
 	"*** You must be stopped! ***"
 	{
-		"chi"		"**你必须停止 **"
+		"chi"		"**你必须停下 **"
 	}
 	"*** Dalton: We will meet again... ***"
 	{
@@ -191,12 +192,11 @@
 	"*** Temple doors will open in 10 seconds. ***"
 	{
 		"chi"		"**还有10秒 **"
-		"DoorCountDown"  "10"
+		"command"	"sm_aei_hammerid 70287 enable"
 	}
 	"*** Temple doors will open in 5 seconds. ***"
 	{
 		"chi"		"**5秒！ **"
-		"DoorCountDown"  "5"
 	}
 	"*** The door is open, escape! ***"
 	{
@@ -244,7 +244,7 @@
 	}
 	"*** Dalton uses: Omega Flare! Dodge the laser! ***"
 	{
-		"chi"		"**dalton使用了omega耀斑，跳刀 **"
+		"chi"		"**dalton使用了omega耀斑，躲开激光**"
 	}
 	"*** Dalton uses: Chaotic Zone! Get away from the zombies! ***"
 	{
