@@ -15,7 +15,7 @@
 	"[Door] 15 seconds [Open]"
 	{
 		"chi"		"**[大门]15秒[打开] **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"[Item] DarkKnight has been picked up"
 	{
@@ -28,17 +28,17 @@
 	"[Door] 10 seconds [Open]"
 	{
 		"chi"		"**[大门]10秒[打开] **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"[Door] 20 seconds [Open]"
 	{
 		"chi"		"**[大门]20秒[打开] **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"[Door] 25 seconds [Open]"
 	{
 		"chi"		"**[大门]25秒[打开] **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"[Message] Next room has Upper side and Lower side."
 	{
@@ -83,7 +83,7 @@
 	"[Door] 15 seconds [Close]"
 	{
 		"chi"		"**[大门]15秒[关闭]**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"[Message] Good Job!"
 	{
@@ -92,7 +92,7 @@
 	"[Door] 18 seconds [Open]"
 	{
 		"chi"		"**[大门]18秒[打开]**"
-		"DoorCountdown"		"18"
+		"DoorCountDown"		"18"
 	}
 	"[Message] AFK players teleported to side floor."
 	{
@@ -125,6 +125,6 @@
 	"[Upper Door] 20 seconds [Open]"
 	{
 		"chi"		"**[上面的门]20秒[打开]**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 }

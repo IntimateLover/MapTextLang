@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -60,7 +60,7 @@
 	"**Elevator is leaving in 10s**"
 	{
 		"chi"		"**>>电梯将在10S后离开<<**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** A player has adquired GRAVITY MATERIA **"
 	{
@@ -121,7 +121,7 @@
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**大门将在35S后打开！去控制室寻找方法让门提前打开！！**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"**  70 SECONDS LEFT **"
 	{
@@ -130,7 +130,7 @@
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮！大门将在10S后开启！！**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**  60 SECONDS LEFT **"
 	{
@@ -267,7 +267,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告！巴哈姆特将要释放红终！准备好使用3级奶！！**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -279,7 +279,7 @@
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
-	  "command" "sm_aei_hammerid 140676 use"
+		"command"		"sm_aei_hammerid 140676 use"
 		"chi"		"**难度完成！下一关将会是ZM关卡！！**"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"

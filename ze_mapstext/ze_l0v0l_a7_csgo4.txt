@@ -7,7 +7,7 @@
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		">>>守住20秒<<<"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">>> ROUTE2 : HOLD 20 SECONDS <<<"
 	{
@@ -28,7 +28,7 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		">>>守住25秒<<<"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
@@ -37,7 +37,7 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		">>>守住15秒<<<"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
 	{
@@ -86,7 +86,7 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		">>>守住35秒<<<"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
@@ -139,6 +139,7 @@
 	">>> BARRIER BREAK IN 60 SECONDS <<<"
 	{
 		"chi"		">>>障碍60秒后破碎<<<"
+		"DoorCountDown"		"60"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{

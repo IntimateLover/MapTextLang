@@ -51,6 +51,7 @@
 	">>> HOLD THE MILL 30 SECONDS <<<"
 	{
 		"chi"		"**守住这个磨坊30秒**"
+		"DoorCountDown"		"30"
 	}
 	">>>>Pistol ready in 30 s<<<<"
 	{

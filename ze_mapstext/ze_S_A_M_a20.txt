@@ -336,4 +336,28 @@
 	{
 		"chi"		"** **"
 	}
+	">>TOWN GATE CLOSING IN 40 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>DONT LET THEM IN<<"
+	{
+		"chi"		"** **"
+	}
+	">>BALROG IS ATTACKING<<"
+	{
+		"chi"		"** **"
+	}
+	">>DONT GET IN WATER<<"
+	{
+		"chi"		"** **"
+	}
+	">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
+	{
+		"chi"		"** **"
+	}
 }

@@ -39,7 +39,7 @@
 	">>>DOOR BREAKING IN 20 SECS<<<"
 	{
 		"chi"		"**门将于20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">>>HOLD<<<"
 	{
@@ -48,7 +48,7 @@
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
 		"chi"		"**门将于25秒后打开 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>>HHOOLLDD<<<"
 	{
@@ -61,27 +61,27 @@
 	">>>DOOR BREAKING IN 30 SECS<<<"
 	{
 		"chi"		"**门将于30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>>DOOR BREAKING IN 15 SECS<<<"
 	{
 		"chi"		"**门将于15秒后打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>>DOOR OPENING 20 SECS<<<"
 	{
 		"chi"		"**门将于20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">>>DOOR OPENING IN 35 SECS<<<"
 	{
 		"chi"		"**门将于35秒后打开 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	">>>LAST HOLD 15 SECS<<<"
 	{
 		"chi"		"**最后守住15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>>WAIT FOR TELEPORT<<<"
 	{
@@ -110,7 +110,7 @@
 	">>>DOOR OPENING IN 20 SECS<<<"
 	{
 		"chi"		"**20秒后门开启**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
 	{
@@ -131,22 +131,22 @@
 	">>>DOOR BREAKING IN 45 SECS<<<"
 	{
 		"chi"		"**45秒后门破碎**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
 		"chi"		" 25秒后门破碎"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
 		"chi"		"**门将于25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>>DOOR BREAKING IN 50 SECS<<<"
 	{
 		"chi"		"**50秒后门破碎**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	">>>RUN RUN RUN! <<<"
 	{
@@ -191,27 +191,27 @@
 	">> DOOR OPENING IN 30 SECS <<"
 	{
 		"chi"		"**30秒后门开启**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> DOOR OPENING IN 30 SECS <<"
 	{
 		"chi"		"**30秒后门开启**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>> DOOR OPENING IN 40 SECS <<<"
 	{
 		"chi"		"**40秒后门开启**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	">> DOOR OPENING IN 50 SECS <<"
 	{
 		"chi"		"**50秒后门开启**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	">> DOOR OPENING IN 10 SECS <<"
 	{
 		"chi"		"**10秒后门开启**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** THE DRAGON NOTICED US ***"
 	{
@@ -264,7 +264,7 @@
 	">>> 30 SECS LEFT !!! <<<"
 	{
 		"chi"		"**还有30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>> 10 SECS LEFT !!! <<<"
 	{

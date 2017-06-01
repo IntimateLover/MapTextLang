@@ -23,6 +23,7 @@
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		">>>守住20秒<<<"
+		"DoorCountDown"		"20"
 	}
 	">>> ROUTE2 : HOLD 20 SECONDS <<<"
 	{
@@ -39,6 +40,7 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		">>>守住25秒<<<"
+		"DoorCountDown"		"25"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
@@ -55,6 +57,7 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		">>>守住15秒<<<"
+		"DoorCountDown"		"15"
 	}
 	">>> BOSS IS COMING <<<"
 	{
@@ -99,6 +102,7 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		">>>守住35秒<<<"
+		"DoorCountDown"		"35"
 	}
 	">>> 5 SECONDS LEFT <<<"
 	{

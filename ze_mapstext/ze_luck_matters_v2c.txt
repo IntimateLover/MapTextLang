@@ -3,7 +3,7 @@
 	"***PLATFORM WILL RISE IN 30s***"
 	{
 		"chi"		"**平台将在30秒后上升 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***PLATFORM WILL RISE IN 5s***"
 	{
@@ -20,7 +20,7 @@
 	"***DOOR OPENS IN 30s***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Door is open***"
 	{
@@ -29,7 +29,7 @@
 	"***HOLD HERE FOR 25s***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"***5s LEFT***"
 	{
@@ -38,7 +38,7 @@
 	"***TELEPORT ACTIVATES IN 30s***"
 	{
 		"chi"		"**传送30秒后激活 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***TELEPORT ACTIVATED***"
 	{
@@ -52,7 +52,7 @@
 	"***HOLD FOR 30s***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***FALL BACK***"
 	{
@@ -61,7 +61,7 @@
 	"***HOLD FOR 35s***"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***SURVIVE***"
 	{
@@ -102,15 +102,15 @@
 	}
 	"***PLATFORM WILL RISE IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**平台将在10秒后上升**"
 	}
 	"***DOOR OPENS IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后打开**"
 	}
 	"***TELEPORT ACTIVATES IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送25秒后激活**"
 	}
 	"***TELEPORT ACTIVATES IN 5s***"
 	{
@@ -118,19 +118,19 @@
 	}
 	"***Wall has been Picked Up***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙已被拿起**"
 	}
 	"***Trigger Left & Right Platforms***"
 	{
-		"chi"		"** **"
+		"chi"		"**触发左边和右边的平台**"
 	}
 	"***Then Trigger Middle Platform***"
 	{
-		"chi"		"** **"
+		"chi"		"**然后触发中间的平台**"
 	}
 	"***CLIMB UP***"
 	{
-		"chi"		"** **"
+		"chi"		"**爬上去**"
 	}
 	"***Trigger Left & Right By Jumping In***"
 	{
@@ -142,7 +142,7 @@
 	}
 	"***TELEPORT ACTIVE IN 20s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送20秒后激活**"
 	}
 	"***TELEPORT ACTIVE IN 5s***"
 	{
@@ -154,19 +154,19 @@
 	}
 	"***Hold For 20s***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里20秒**"
 	}
 	"***Teleport Active In 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送25秒后激活**"
 	}
 	"***Teleport Active***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送激活**"
 	}
 	"***Doors Open In 40s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门40秒后打开**"
 	}
 	"***AFK TP IN 25s***"
 	{
@@ -190,7 +190,7 @@
 	}
 	"***Teleport In 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送10秒后启动**"
 	}
 	"***Teleport in 15s***"
 	{
@@ -201,6 +201,10 @@
 		"chi"		"** **"
 	}
 	"***Move Forward & Dodge The Lasers***"
+	{
+		"chi"		"**向前移动躲避激光**"
+	}
+	"***Teleport in 25s***"
 	{
 		"chi"		"** **"
 	}

@@ -35,6 +35,7 @@
 	"***Hold for 80s!***"
 	{
 		"chi"		"**守住80秒**"
+		"DoorCountDown"		"80"
 	}
 	"***Zombies will come in 20s!***"
 	{
@@ -55,6 +56,7 @@
 	"***Hold for 75s!***"
 	{
 		"chi"		"**守住75秒**"
+		"DoorCountDown"		"75"
 	}
 	"***All zombies will be teleported in 10s!***"
 	{
@@ -75,18 +77,22 @@
 	"***Hold here for 30s!***"
 	{
 		"chi"		"**守住30秒**"
+		"DoorCountDown"		"30"
 	}
 	"***Wood box will break in 30s!***"
 	{
 		"chi"		"**木箱将在30秒后破碎！**"
+		"DoorCountDown"		"30"
 	}
 	"***Bridge can pass through in 35s!***"
 	{
 		"chi"		"**桥30秒后将会放行**"
+		"DoorCountDown"		"30"
 	}
 	"***Wood will break in 45s!***"
 	{
 		"chi"		"**木箱将在45秒后破碎！**"
+		"DoorCountDown"		"45"
 	}
 	"***Teleport all zombies!***"
 	{
@@ -95,6 +101,7 @@
 	"***Hold for last 60s!***"
 	{
 		"chi"		"**守住激光桥60秒**"
+		"DoorCountDown"		"60"
 	}
 	"***30s left to win!***"
 	{
@@ -167,10 +174,12 @@
 	"***Boss Star will appear in 40s!***"
 	{
 		"chi"		"**BOSS之星2号将在40秒后出现**"
+		"DoorCountDown"		"40"
 	}
 	"***You have 120s to fight Boss Star!***"
 	{
 		"chi"		"**你有120秒打败BOSS之星2号**"
+		"DoorCountDown"		"120"
 	}
 	"***Hegrenade can give Boss Star more damage!***"
 	{
@@ -215,10 +224,12 @@
 	"***Hold star for 60s!***"
 	{
 		"chi"		"**守住60秒**"
+		"DoorCountDown"		"60"
 	}
 	"***The platform will move in 35s!***"
 	{
 		"chi"		"**这个平台将在35秒后移动**"
+		"DoorCountDown"		"35"
 	}
 	"***Hold froyo for 30s!***"
 	{
@@ -227,14 +238,17 @@
 	"***Wait for 30s until the box breaks!***"
 	{
 		"chi"		"**守住30秒，直到箱子破碎！**"
+		"DoorCountDown"		"30"
 	}
 	"***Hold for 35s!***"
 	{
 		"chi"		"**守住35秒！**"
+		"DoorCountDown"		"35"
 	}
 	"***Wait for 40s until the box breaks!***"
 	{
 		"chi"		"**守住40秒，直到箱子破碎！**"
+		"DoorCountDown"		"40"
 	}
 	"***Press the button and activate teleportion!***"
 	{
@@ -243,6 +257,7 @@
 	"***Well!Teleportion will be active in 60s!***"
 	{
 		"chi"		"**好的！传送将在60秒后启动**"
+		"DoorCountDown"		"60"
 	}
 	"***Teleportion is active!Go ahead,travellers!***"
 	{
@@ -263,6 +278,7 @@
 	"***Hold for 60s!***"
 	{
 		"chi"		"**守住60秒**"
+		"DoorCountDown"		"60"
 	}
 	"***Well!Boss Star was defeated!***"
 	{
@@ -295,6 +311,7 @@
 	"***The boat will move in 75s!***"
 	{
 		"chi"		"**这个船将在75秒后离开**"
+		"DoorCountDown"		"75"
 	}
 	"***The boat will move in 30s!***"
 	{
@@ -307,10 +324,12 @@
 	"***Boss Froyo will appear in 30s!***"
 	{
 		"chi"		"**BOSS酸奶将在30秒后出现**"
+		"DoorCountDown"		"30"
 	}
 	"***You have 90s to fight Boss Froyo!***"
 	{
 		"chi"		"**你有90秒的时间击败BOSS酸奶**"
+		"DoorCountDown"		"90"
 	}
 	"***Boss Froyo will destroy all travellers in 5s!***"
 	{
@@ -347,6 +366,7 @@
 	"***Hold for 30s!***"
 	{
 		"chi"		"**守住30秒**"
+		"DoorCountDown"		"30"
 	}
 	"***Great!The teleportion crystal is active!***"
 	{

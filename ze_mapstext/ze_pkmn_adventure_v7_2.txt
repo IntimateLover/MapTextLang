@@ -31,7 +31,7 @@
 	"THE SECURITY BUILDING WILL BE AVAILABLE IN 1 MINUTE"
 	{
 		"chi"		"**安全大楼将在1分钟内开启 **"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"THE SECURITY BUILDING WILL BE AVAILABLE IN 10 SECONDS"
 	{
@@ -52,7 +52,7 @@
 	"30 SECONDS LEFT"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"10 SECONDS LEFT"
 	{
@@ -69,7 +69,7 @@
 	"30 MORE SECONDS!"
 	{
 		"chi"		"**还有30秒! **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"10 MORE SECONDS!"
 	{
@@ -102,7 +102,7 @@
 	"TREES WILL BREAK IN 45 SECONDS"
 	{
 		"chi"		"**树木将在45秒后倒下 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"TREES WILL BREAK IN 10 SECONDS"
 	{
@@ -115,7 +115,7 @@
 	"BOAT WILL LEAVE IN 45 SECS"
 	{
 		"chi"		"**船将在45秒后离开 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"BOAT WILL LEAVE IN 10 SECS"
 	{
@@ -185,7 +185,7 @@
 	"TREES WILL BREAK IN 30 SECONDS"
 	{
 		"chi"		"**树木将在30秒后倒下 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"ESCAPE FROM SLATEPORT!"
 	{
@@ -234,7 +234,7 @@
 	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
 	{
 		"chi"		"**传送点1将在45秒后准备传送 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
 	{
@@ -247,7 +247,7 @@
 	"DEFEND THIS AREA FOR 30 SECONDS"
 	{
 		"chi"		"**守住这个地方30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"DEFEND THIS AREA FOR 10 SECONDS"
 	{
@@ -360,7 +360,7 @@
 	"DEFEND HERE FOR 35 SECONDS"
 	{
 		"chi"		"**守住这里35秒 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"20 SECONDS!"
 	{
@@ -413,7 +413,7 @@
 	"DEFEND HERE FOR 30 SECONDS"
 	{
 		"chi"		"**守住这里30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"5 SECONDS"
 	{
@@ -447,7 +447,7 @@
 	"DEFEND FOR 45 SECONDS!"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"TELEPORTER ENABLED!"
 	{
@@ -813,7 +813,7 @@
 	"**DEFEND FOR 20 SECONDS**"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**10 SECONDS**"
 	{
@@ -858,7 +858,7 @@
 	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
 	{
 		"chi"		"**传送点2将在45秒后准备传送 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
 	{
@@ -907,7 +907,7 @@
 	"DEFEND FOR 30 SECONDS!"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"10 MORE SECONDS"
 	{
@@ -932,7 +932,7 @@
 	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
 	{
 		"chi"		"**传送点3将在45秒后准备传送 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
 	{
