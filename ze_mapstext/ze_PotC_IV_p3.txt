@@ -35,7 +35,7 @@
 	">> DEFEND FOR 30 SEC<<"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>  TELEPORTING everyone to jungle<<"
 	{
@@ -69,7 +69,7 @@
 	">> SURVIVE FOR 60 SEC<<"
 	{
 		"chi"		"**存活60秒 **"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	">>  TELEPORTING everyone to fountain of youth<<"
 	{
@@ -106,7 +106,7 @@
 	">> DEFEND FOR 60 SEC<<"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	">>LEVEL: EXTREME<<"
 	{
@@ -115,5 +115,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"16392"
+	}
+	">>  5 MORE SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL COMPLETED! <<"
+	{
+		"chi"		"** **"
 	}
 }
