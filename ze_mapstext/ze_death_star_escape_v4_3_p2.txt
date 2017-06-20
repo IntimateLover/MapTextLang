@@ -63,7 +63,7 @@
 	">>>Left-Lock closing in 5 seconds<<<"
 	{
 		"chi"		"**左边的大门 5 秒后关闭**腿短的还不快切刀跑。**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>>Right-Lock closing in 5 seconds<<<"
 	{
@@ -80,7 +80,7 @@
 	">>>Lambda-shuttle departing in 15 seconds<<<"
 	{
 		"chi"		"**λ穿梭机将于 15 秒后起飞**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>>!3!<<<"
 	{
@@ -105,5 +105,9 @@
 	">>>May the force be with you!<<<"
 	{
 		"chi"		"**愿上帝与你同在！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

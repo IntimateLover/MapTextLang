@@ -523,7 +523,7 @@
 	{
 		"chi"		"**EXORATH正在充能[终极湮没]**"
 	}
-	"** 5 Seconds left **"
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**还剩下5秒**"
 	}
@@ -768,7 +768,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**WALL BREAKING IN 20 SECONDS**"
+	"**Wall breaking in 20 seconds**"
 	{
 		"chi"		"** **"
 	}
@@ -793,6 +793,14 @@
 		"chi"		"** **"
 	}
 	"** HARD MODE SELECTED **"
+	{
+		"chi"		"** **"
+	}
+	"** EXTREME MODE COMPLETE **"
+	{
+		"chi"		"** **"
+	}
+	"** BONUS ACTIVE ** RELOADING EXTREME MODE **"
 	{
 		"chi"		"** **"
 	}

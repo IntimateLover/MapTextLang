@@ -15,7 +15,7 @@
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**传送点在20秒后激活**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
@@ -52,7 +52,7 @@
 	">>> HOLD 45 SECONDS <<<"
 	{
 		"chi"		"**坚守45秒**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
@@ -90,12 +90,12 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		"**坚守25秒直至左方大门打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		"**坚守20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
@@ -104,7 +104,7 @@
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**坚守10秒**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
@@ -117,7 +117,7 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		"**坚守15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
@@ -208,7 +208,7 @@
 	">>> HOLD 30 SECONDS <<<"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
@@ -234,7 +234,7 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		"**坚守35秒**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
@@ -270,7 +270,7 @@
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
 		"chi"		"**传送点10秒后激活**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	">>> STAGE 4 <<<"
 	{
@@ -285,7 +285,7 @@
 	{
 		"chi"		"**巨人施放了灭杀法阵！快跑向法阵无法影响到的广场边缘！**"
 		"ico"		"icon_fire"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
@@ -318,12 +318,12 @@
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
 		"chi"		"**坚守40秒**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
@@ -332,7 +332,7 @@
 	">>> HOLD 15 SECONDS<<<"
 	{
 		"chi"		"**坚守15秒直至我们把大桥炸毁**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
@@ -367,7 +367,7 @@
 	{
 		"chi"		">>>炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
 		"ico"		"icon_fire"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	">>> BALROG IS HURT <<<"
 	{
@@ -518,11 +518,11 @@
 	{
 		"chi"		">>>炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
 		"ico"		"icon_fire"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	">>> BALROG USED SHIELD <<<"
 	{
-		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
+		"chi"		">>>炎魔施放了魔力吸收<<<"
 	}
 	">>> BALROG IS DEFEATED <<<"
 	{
@@ -608,5 +608,9 @@
 	">>> GARGANTUA USED GRAVITY <<<"
 	{
 		"chi"		"**巨人施放了终极攫取！抵抗它的吸力别被吸它他脚下去了！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

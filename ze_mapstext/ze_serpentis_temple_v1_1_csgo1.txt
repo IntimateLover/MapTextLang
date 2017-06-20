@@ -28,7 +28,7 @@
 	{
 		"chi"		"**加载第一关 **"
 	}
-	"*** Map By Nostar ***"
+	"*** Map by Nostar ***"
 	{
 		"chi"		"**地图制作：Nostar 地图翻译：蓬莱山帅比♪ **"
 	}
@@ -123,7 +123,7 @@
 	{
 		"chi"		"**进入第三个房间 **"
 	}
-	"*** HOLD 25 SECONDS ***"
+	"*** Hold 25 seconds ***"
 	{
 		"chi"		"**守住25秒 **"
 		"DoorCountDown"		"25"
@@ -210,7 +210,7 @@
 	{
 		"chi"		"**左边控制杆被按下 **"
 	}
-	"*** DOOR OPEN IN 10 SECONDS ***"
+	"*** Door open in 10 seconds ***"
 	{
 		"chi"		"**门10秒后打开 **"
 		"DoorCountDown"		"10"
@@ -466,7 +466,7 @@
 	"*** STAGE 5 LOADED ***"
 	{
 		"chi"		"**第五阶段加载 **(手电筒启用)"
-		"command" "sm_flashlight_enabled 1"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"*** STAGE 5 ***"
 	{
@@ -543,6 +543,10 @@
 		"chi"		"** **"
 	}
 	"[ADMIN ROOM] NUKE IN 5 SECONDS !"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

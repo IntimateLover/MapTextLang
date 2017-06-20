@@ -11,6 +11,7 @@
 	"** DOOR OPENS IN 20 SECONDS **"
 	{
 		"chi"		"**大门20s后开启**"
+		"DoorCountDown"		"20"
 	}
 	"** TURN THE LASERS OFF **"
 	{
@@ -19,6 +20,7 @@
 	"** BATHROOM DOOR OPENS IN 15 SECONDS **"
 	{
 		"chi"		"**浴室门15秒后开启**"
+		"DoorCountDown"		"15"
 	}
 	"** GO TO THE BATHROOM **"
 	{
@@ -31,6 +33,7 @@
 	"** Truck leaving in 15 seconds! **"
 	{
 		"chi"		"**卡车还有15s才开**"
+		"DoorCountDown"		"15"
 	}
 	"** The police wants to stop you! **"
 	{
@@ -47,6 +50,7 @@
 	"** HOLD 40 SECONDS **"
 	{
 		"chi"		"**死守40s!别划水了咸鱼们！**"
+		"DoorCountDown"		"40"
 	}
 	"** 5 SECONDS LEFT  **"
 	{
@@ -79,6 +83,7 @@
 	"** 30 SECONDS TO UNLOCK THE DOOR **"
 	{
 		"chi"		"**还有30s才开启去楼顶的门**"
+		"DoorCountDown"		"30"
 	}
 	"** GET IN THE CHOPPA! **"
 	{
@@ -86,10 +91,11 @@
 	}
 	"** The Elevator will leave in 10 seconds. Dont miss it! **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯还有10秒离开，别错过了**"
+		"DoorCountDown"		"10"
 	}
 	"** HOLD THE KITCHEN! DONT LET ZOMBIES IN! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住厨房，别让僵尸进来**"
 	}
 }

@@ -83,6 +83,7 @@
 	"<<< Defend at top of stairs for 35 seconds! >>>"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"35"
 	}
 	"<<< Climb!!! >>>"
 	{
@@ -98,7 +99,7 @@
 	}
 	"<<< Gale >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>大风<<<"
 	}
 	"<<< Fire Spin >>>"
 	{
@@ -106,15 +107,15 @@
 	}
 	"<<< Breakout >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸潮<<<"
 	}
 	"<<< Torment >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>痛苦<<<"
 	}
 	"<<< Glide >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>低摩擦<<<"
 	}
 	"sync_version"
 	{
@@ -137,6 +138,51 @@
 		"chi"		"** **"
 	}
 	"<<< Gate broken get in for tp! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Incinerate >>>"
+	{
+		"chi"		">>>焚烧<<<"
+	}
+	"<<< Defend for 60 seconds! >>>"
+	{
+		"DoorCountDown"		"60"
+		"chi"		"** **"
+	}
+	"<<< Disperse >>>"
+	{
+		"chi"		">>>驱散<<<"
+	}
+	"<<< Frenzy >>>"
+	{
+		"chi"		">>>狂暴<<<"
+	}
+	"<<< Level 2 complete! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 3 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Button activated! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Defend for 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Button pressed defend for 10 more seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Button pressed defend for 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 3 Complete! >>>"
 	{
 		"chi"		"** **"
 	}

@@ -744,4 +744,40 @@
 	{
 		"chi"		"**现在准备面对你不可避免的死亡**"
 	}
+	"### ADMIN HAS SELECTED PART : III ###"
+	{
+		"chi"		"** **"
+	}
+	"### DONT LET ZOMBIES ON THE PLATFORM !!! ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED PART : II ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED NUKE TO RESTART THE ROUND ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 4 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
 }

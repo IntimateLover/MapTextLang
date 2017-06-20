@@ -245,4 +245,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"chi"		"** **"
+	}
 }

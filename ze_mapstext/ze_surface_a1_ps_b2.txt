@@ -15,7 +15,7 @@
 	"Elevator will start in 25 seconds !!"
 	{
 		"chi"		"**电梯25秒后启动 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"Elevator will start in 5 seconds !"
 	{
@@ -24,7 +24,7 @@
 	"Door will open in 35 seconds !!"
 	{
 		"chi"		"**大门35秒后打开 **"
-		"DoorCountDown" "35"
+		"DoorCountDown"		"35"
 	}
 	"Door will open in 10 seconds !!"
 	{
@@ -41,7 +41,7 @@
 	"Elevator will start in 45 seconds !!"
 	{
 		"chi"		"**电梯45秒后启动 **"
-		"DoorCountDown" "45"
+		"DoorCountDown"		"45"
 	}
 	"Elevator will start in 15 seconds !"
 	{
@@ -50,7 +50,7 @@
 	"Door will open in 25 seconds !"
 	{
 		"chi"		"**大门25秒后打开 **"
-		"DoorCountDown" "25"
+		"DoorCountDown"		"25"
 	}
 	"Door will open in 20 seconds !"
 	{
@@ -67,7 +67,7 @@
 	"Train will start in 40 seconds !"
 	{
 		"chi"		"**火车40秒后启动 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"Train will start in 10 seconds !!"
 	{
@@ -76,10 +76,14 @@
 	"Elevator will start in 40 seconds !"
 	{
 		"chi"		"**电梯40秒后启动 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	"Elevator will start in 10 seconds !"
 	{
 		"chi"		"**电梯10秒后启动 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

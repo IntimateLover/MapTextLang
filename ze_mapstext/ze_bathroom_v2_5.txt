@@ -140,4 +140,8 @@
 	{
 		"chi"		"**杀死里面所有的僵尸**"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

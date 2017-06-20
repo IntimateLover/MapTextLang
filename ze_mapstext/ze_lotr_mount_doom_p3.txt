@@ -71,7 +71,7 @@
 	"**Lever pressed! Door will open in 15s**"
 	{
 		"chi"		"**成功按下杠杆！底下的大门将在 15 秒后开启！**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***Resist 30 s!!***"
 	{
@@ -116,5 +116,9 @@
 	"***The ring bearer was slaughtered with honor! Escape from Mordor!***"
 	{
 		"chi"		"**已摧毁魔戒！快逃离魔多！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

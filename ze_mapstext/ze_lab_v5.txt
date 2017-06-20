@@ -100,7 +100,7 @@
 	">>>Door close in 5s<<<"
 	{
 		"chi"		"** 5 秒后关门**小心被门夹到脑袋**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	">>>Teleport initializing<<<"
 	{
@@ -164,6 +164,10 @@
 		"chi"		"** **"
 	}
 	">>>Get in the Teleport!!!!<<<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

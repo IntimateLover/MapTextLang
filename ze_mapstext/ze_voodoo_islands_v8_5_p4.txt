@@ -15,6 +15,7 @@
 	"***boat leaves in 8 seconds***"
 	{
 		"chi"		"船会在8秒后离开"
+		"DoorCountdown"		"8"
 	}
 	"*** boat has taken off***"
 	{

@@ -13,7 +13,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** HOLD 20 seconds ***"
+	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**坚守20秒 **"
 		"DoorCountDown"		"20"
@@ -118,5 +118,9 @@
 	{
 		"chi"		"**钻石星尘（跑到四周水下躲避攻击） **"
 		"ico"		"icon_fire"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

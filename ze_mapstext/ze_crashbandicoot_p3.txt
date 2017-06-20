@@ -7,6 +7,7 @@
 	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"**守住20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"***GO!GO!GO!***"
 	{
@@ -99,5 +100,13 @@
 	"***BOAT ROUTE***"
 	{
 		"chi"		"**船的航线 **"
+	}
+	">> PLAYER HAS CHOSEN LEVEL EXTREME 3<<"
+	{
+		"chi"		"** **"
+	}
+	">> NUKE LAUNCHED<<"
+	{
+		"chi"		"** **"
 	}
 }

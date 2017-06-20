@@ -290,7 +290,7 @@
 		"chi"		"(魔戒)霍比特人：哥布林人之战"
 		"credit"		"600"
 	}
-	"ze_hold_em_v10_p"
+	"ze_hold_em_v8_f3"
 	{
 		"chi"		"坚守行动"
 		"credit"		"2000"
@@ -928,7 +928,7 @@
 		"chi"		"沙尘暴"
 		"credit"		"800"
 	}
-	"ze_surf_vortex_v2_2"
+	"ze_surf_vortex_v2_3"
 	{
 		"chi"		"漩涡滑翔"
 		"credit"		"900"
@@ -1016,9 +1016,9 @@
 	{
 		"chi"		"天空竞技"
 	}
-	"ze_surf_sahok_v1_e6"
+	"ze_surf_sahok_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"密室滑翔"
 		"credit"		"800"
 	}
 	"ze_fapescape_rote_v1_3"
@@ -1134,7 +1134,7 @@
 	}
 	"ze_jurassicpark_evolved_v4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"侏罗纪公园：进化"
 	}
 	"ze_negative_legacy_xf4"
 	{
@@ -1150,7 +1150,7 @@
 		"chi"		"大屌逃亡"
 		"credit"		"500"
 	}
-	"ze_sky_athletic_adv_v9_9"
+	"ze_sky_athletic_adv_v9_10"
 	{
 		"chi"		"天空竞技"
 		"credit"		"500"
@@ -1178,7 +1178,7 @@
 	}
 	"ze_zombierig_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"钻井平台惊魂"
 	}
 	"ze_floatingisland_b6"
 	{
@@ -1252,7 +1252,7 @@
 		"chi"		"创世E"
 		"credit"		"1500"
 	}
-	"ze_hidden_temple_v2_4"
+	"ze_hidden_temple_v2_5"
 	{
 		"chi"		"隐秘神庙"
 	}
@@ -1270,7 +1270,7 @@
 	}
 	"ze_exchange_innovation_v1b_n1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"科研大楼逃生"
 	}
 	"ze_ashen_keep_v0_3_csgo3"
 	{
@@ -1300,7 +1300,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v6"
+	"ze_roof_adventure_v6_4"
 	{
 		"chi"		"屋顶大冒险"
 		"credit"		"1000"
@@ -1356,7 +1356,7 @@
 	}
 	"ze_temple_raider_b4_ps_v4_2"
 	{
-		"chi"		"神庙逃亡"
+		"chi"		"神庙急袭"
 		"credit"		"500"
 	}
 	"ze_panic_escape_v3_2_e5"
@@ -1405,7 +1405,7 @@
 	{
 		"chi"		"末日逃生"
 	}
-	"ze_dreamin_v1_6"
+	"ze_dreamin_v1_9"
 	{
 		"chi"		"梦想"
 		"credit"		"700"
@@ -1432,7 +1432,7 @@
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 		"credit"		"1000"
 	}
-	"ze_LOTR_Minas_Tirith_v3_3_ps31"
+	"ze_lotr_minas_tirith_v3_3_ps35"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
 		"onlyadmin"		"1"
@@ -1464,12 +1464,12 @@
 		"chi"		"最终幻想12：西沙"
 		"credit"		"1000"
 	}
-	"ze_hold_em_v10_p"
+	"ze_hold_em_v8_f3"
 	{
 		"chi"		"坚守行动"
 		"credit"		"2000"
 	}
-	"ze_pkmn_adventure_v7_2"
+	"ze_PKMN_Adventure_v7_4"
 	{
 		"chi"		"神奇宝贝冒险之旅"
 		"credit"		"700"
@@ -1562,7 +1562,7 @@
 	}
 	"ze_surface_a1_ps_b2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"矿井逃亡"
 	}
 	"ze_nightmare_dimension_v2_7_ps2"
 	{
@@ -1587,7 +1587,7 @@
 	}
 	"ze_insensible_sr8gm6yj12hs7_rg_v9_3_1"
 	{
-		"chi"		"昏迷"
+		"chi"		"感性之路"
 	}
 	"ze_evernight_a2_4c"
 	{
@@ -1606,6 +1606,10 @@
 	{
 		"chi"		"新沙尘暴"
 	}
+	"ze_insensible_sr8gm6yj12hs7_rg_"
+	{
+		"chi"		"此地图暂无译名"
+	}
 	"ze_undertale_g_v1_3"
 	{
 		"chi"		"传说之下"
@@ -1622,11 +1626,11 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_c10"
+	"ze_deadcore_c13"
 	{
 		"chi"		"死亡核心"
 	}
-	"ze_surf_froyo_v1_1"
+	"ze_surf_froyo_v1_4"
 	{
 		"chi"		"滑翔大冒险"
 	}
@@ -1638,19 +1642,63 @@
 	{
 		"chi"		"欺骗"
 	}
-	"ze_sky_temples_v1_4"
+	"ze_sky_temples_v2a"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"天空神庙v1_4"
 	}
-	"ze_sky_temples_v1_3"
+	"ze_sky_temples_v2a"
 	{
 		"chi"		"天空神庙"
 	}
 	"ze_grau_a0_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"创世Epro"
 	}
 	"ze_thriller_escape_p"
+	{
+		"chi"		"MJ惊悚别墅"
+	}
+	"ze_ffxii_westersand_v7_z4"
+	{
+		"chi"		"西沙v7_z"
+	}
+	"ze_surf_froyo_lite_v1_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"cs_italy"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"de_dust"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"de_aztec"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"cs_office"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"de_dust2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"de_train"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"de_inferno"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"de_nuke"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_ridorana_cataract_b3_ps1"
 	{
 		"chi"		"此地图暂无译名"
 	}

@@ -1,0 +1,107 @@
+"Console_T"
+{
+	"***Rock monster uses blast!(move to the edge of the platform)***"
+	{
+		"chi"		"**岩石怪物使用爆破！（移动到平台的边缘）**"
+	}
+	"***Rock monster uses left fire(move to right)!***"
+	{
+		"chi"		"**岩石怪物使用左边火！（向右移动）**"
+	}
+	"***Rock monster uses right fire(move to left)!***"
+	{
+		"chi"		"**岩石怪物使用右边火（向左移动）**"
+	}
+	"***Rock monster uses skyfire!***"
+	{
+		"chi"		"**岩石怪物使用了天火!**"
+	}
+	"***Stage completed!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 2]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 2***"
+	{
+		"chi"		"** **"
+	}
+	"***Winners will have access to get special items in next stage!***"
+	{
+		"chi"		"** **"
+	}
+	"***Great!Hold for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 3]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 3***"
+	{
+		"chi"		"** **"
+	}
+	"***The wood door will break in 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 4]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 4***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage failed!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 5]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 5***"
+	{
+		"chi"		"** **"
+	}
+	"***The ultimate will start in 14s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies are in win-room,stage failed!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 6]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 6***"
+	{
+		"chi"		"** **"
+	}
+	"***Complete the surf and you will award 100 scores and a molotov!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold the chicken for last 35s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 7]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 7***"
+	{
+		"chi"		"** **"
+	}
+	"***Constant skyfire will appear in some areas!***"
+	{
+		"chi"		"** **"
+	}
+}

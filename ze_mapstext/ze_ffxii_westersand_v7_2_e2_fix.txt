@@ -261,7 +261,7 @@
 		"chi"		"**守住这里30秒**"
 		"DoorCountDown"		"30"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -335,6 +335,10 @@
 		"chi"		"** **"
 	}
 	"** U have failed... **"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}
