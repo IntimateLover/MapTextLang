@@ -2,63 +2,66 @@
 {
 	"***Truck leaving in 30secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**卡车30秒后离开 **"
 	}
 	"***Truck leaving in 5secs. Shoot the blockade.***"
 	{
-		"chi"		"** **"
+		"chi"		"**卡车5秒后离开.射击封锁线 **"
 	}
 	"***Door opening in 25secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后打开 **"
 	}
 	"***Door 2 opening in 25secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**2号大门25秒后打开 **"
 	}
 	"***Door 2 open.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门2开启 **"
 	}
 	"***Door open.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开启 **"
 	}
 	"***Mausoleum wall will  fall in 50secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**教堂墙壁50秒后倒塌 **"
+		"DoorCountdown"		"50"
 	}
 	"***Mausoleum wall will  fall in 5secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**教堂墙壁5秒后倒塌 **"
 	}
 	"***Tomb doors closing in 40secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**墓室大门40秒后关闭 **"
+		"DoorCountdown"		"40"
 	}
 	"***Waking Up. Door opening in 60secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门60秒后打开 **"
+		"DoorCountdown"		"60"
 	}
 	"***Waking Up. Door opening in 30secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后打开 **"
 	}
 	"***Waking Up. Door opening in 20secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后打开 **"
 	}
 	"***Waking Up. Door opening in 10secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门10秒后打开 **"
 	}
 	"***Waking Up. Door open.***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门打开 **"
 	}
 	"***Dream over in 10secs.***"
 	{
-		"chi"		"** **"
+		"chi"		"**梦将在10秒后结束 **"
 	}
 	"***5***"
 	{
