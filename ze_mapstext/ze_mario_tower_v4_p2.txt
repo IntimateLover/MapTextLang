@@ -71,6 +71,7 @@
 	}
 	"*** Clouds will raise in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**云还有30秒升起**"
+		"DoorCountdown"		"30"
 	}
 }

@@ -607,6 +607,7 @@
 	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
+		"DoorCountDown"		"20"
 	}
 	"***PURCHASED - BIG GUARDIAN***"
 	{
@@ -647,6 +648,7 @@
 	"***DEFEND FOR 40 SECONDS***"
 	{
 		"chi"		"**守住40秒**"
+		"DoorCountDown"		"40"
 	}
 	"***ELEVATOR LEAVES IN 10 SECONDS***"
 	{
@@ -663,6 +665,7 @@
 	"***DEFEND FOR 60 SECONDS***"
 	{
 		"chi"		"**守住60秒**"
+		"DoorCountDown"		"60"
 	}
 	"***30 SECONDS LEFT***"
 	{
@@ -679,6 +682,7 @@
 	"***DEFEND FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒**"
+		"DoorCountDown"		"25"
 	}
 	"***JUMP INSIDE THE DOODLE DOODY***"
 	{
@@ -863,6 +867,7 @@
 	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
 	{
 		"chi"		"**这个门将在40秒后打开**"
+		"DoorCountDown"		"40"
 	}
 	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
 	{
@@ -915,6 +920,7 @@
 	"***HOLD THEM OFF FOR 30 SECONDS***"
 	{
 		"chi"		"**守住他们30秒**"
+		"DoorCountDown"		"30"
 	}
 	"***RUN***"
 	{

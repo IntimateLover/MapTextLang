@@ -27,7 +27,7 @@
 	}
 	"*** 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒剩余**"
 	}
 	"*** 30 seconds to Activate Nymian device ***"
 	{
@@ -57,7 +57,7 @@
 	}
 	"*** 10 seconds  ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒剩余**"
 	}
 	"*** Look for all of Nymian device ***"
 	{
@@ -1153,7 +1153,7 @@
 		"chi"		"**铁网30秒后破碎 **"
 		"DoorCountDown"		"30"
 	}
-	"*** Hold 20 seconds ***"
+	"*** HOLD 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
 		"DoorCountDown"		"20"
