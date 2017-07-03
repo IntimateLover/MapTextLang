@@ -780,4 +780,16 @@
 	{
 		"chi"		"** **"
 	}
+	"sm_kick @al Update"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @all Update"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @all Updasay sm_kick @all Upsay sm_kick @al Upsay sm_kick @al Update"
+	{
+		"chi"		"** **"
+	}
 }

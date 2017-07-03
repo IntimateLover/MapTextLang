@@ -32,7 +32,7 @@
 	{
 		"chi"		"**它可以被使用10次**"
 	}
-	"*** Player has picked up Pushgun ***"
+	"*** Player has picked up PushGun ***"
 	{
 		"chi"		"**一位玩家拾起了神器：推力枪**"
 	}
@@ -79,7 +79,7 @@
 	"*** Doors open in 35 Seconds ***"
 	{
 		"chi"		"**大门将会在35秒后打开**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"*** Doors open in 25 Seconds ***"
 	{
@@ -96,7 +96,7 @@
 	"*** Bridge activates in 30 seconds ***"
 	{
 		"chi"		"**能量桥将会在30秒后启动**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Bridge activates in 15 seconds ***"
 	{
@@ -113,13 +113,13 @@
 	"*** Door opens in 25 seconds ***"
 	{
 		"chi"		"**门将会在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
 		"chi"		"**门将会在10秒后打开**"
 	}
-	"*** Door is opening ***"
+	"*** Door is Opening ***"
 	{
 		"chi"		"**门开辣**"
 	}
@@ -134,7 +134,7 @@
 	"*** Hold them back for 10 seconds ***"
 	{
 		"chi"		"**帮队友掩护！门10秒后就开**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** FALL BACK ***"
 	{
@@ -143,7 +143,7 @@
 	"*** Hold them back for a few more seconds ***"
 	{
 		"chi"		"**回头掩护队友，门15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** Just a little bit more! ***"
 	{
@@ -164,7 +164,7 @@
 	"*** Hold them back for final 20 seconds! ***"
 	{
 		"chi"		"**守住这里20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -181,7 +181,7 @@
 	"*** Elevator leaves in 25 seconds ***"
 	{
 		"chi"		"**电梯将会在25秒后离开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Elevator leaves in 15 seconds ***"
 	{
@@ -202,7 +202,7 @@
 	"*** Doors open in 30 seconds ***"
 	{
 		"chi"		"**双大门将会在30秒后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Press both buttons at the same time to open the door! ***"
 	{
@@ -215,7 +215,7 @@
 	"*** Door opens in 30 seconds! ***"
 	{
 		"chi"		"**大门将会在30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** FALL BACK ****"
 	{
@@ -224,12 +224,12 @@
 	"*** Hold until the path opens ***"
 	{
 		"chi"		"**守住这里直到路开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Final door opens in 25 seconds! ***"
 	{
 		"chi"		"**最后的大门将会在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Almost at the end.. ***"
 	{
@@ -238,7 +238,7 @@
 	"*** Doors should open soon ***"
 	{
 		"chi"		"**门很快就会开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 15 seconds left ***"
 	{
@@ -251,7 +251,7 @@
 	"*** Hold for 30 seconds! ***"
 	{
 		"chi"		"**守住这里30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 20 more seconds! ***"
 	{
@@ -264,12 +264,12 @@
 	"*** Door opens in 25 seconds! ***"
 	{
 		"chi"		"**门将会在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Doors are opening in 25 seconds ***"
 	{
 		"chi"		"**门将会在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** RESIST ***"
 	{
@@ -294,7 +294,7 @@
 	"*** Hold this position for awhile! ***"
 	{
 		"chi"		"**守一会这里**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Doors are opening! ***"
 	{
@@ -331,7 +331,7 @@
 	"*** Elevators leave in 25 seconds ***"
 	{
 		"chi"		"**电梯将会在25秒后离开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"ico"		"icon_tip"
 	}
 	"*** Elevators leave in 15 seconds ***"
@@ -377,7 +377,7 @@
 	"*** Hold this position for 25 seconds ***"
 	{
 		"chi"		"**守住这个点25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Hold this position for 20 seconds ***"
 	{
@@ -386,14 +386,14 @@
 	"*** That thing? Leaves in 45 seconds ***"
 	{
 		"chi"		"**这玩意45秒后就离开，顶住僵尸**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 		"ico"		"icon_tip"
 	}
 	"*** 20 SECONDS LEFT ***"
 	{
 		"chi"		"**还剩下20秒**"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**最后的5秒了**"
 	}
@@ -408,7 +408,7 @@
 	"*** Heli leaves in 30 seconds ***"
 	{
 		"chi"		"**直升机将会在30秒后离开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"ico"		"icon_tip"
 	}
 	"*** Heli leaves in 15 seconds ***"
@@ -442,5 +442,9 @@
 	"*** Hold this position for 30 seconds ***"
 	{
 		"chi"		"**坚守30秒**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

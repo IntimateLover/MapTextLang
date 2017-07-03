@@ -3,7 +3,7 @@
 	"Please wait 20 seconds before the door opening"
 	{
 		"chi"		"**请耐心等待 20 秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"Welcome ! Map made by Valve and zombified by Obscuri"
 	{
@@ -21,7 +21,7 @@
 	{
 		"chi"		"**守住僵尸 30 秒直至传送。**（僵尸传送后建议守卷帘门右边的小门，里面会出僵尸）**"
 	}
-	"***5 SECONDS***"
+	"***5 seconds***"
 	{
 		"chi"		"**还有 5 秒。**"
 	}
@@ -40,7 +40,7 @@
 	"***20 SECONDS FOR TELEPORT***"
 	{
 		"chi"		"**坚守 20 秒直至传送。**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***5 SECONDS FOR TELEPORT***"
 	{
@@ -69,7 +69,7 @@
 	"***HOLD 25 SECONDS***"
 	{
 		"chi"		"**坚持 25 秒！！！**"
-                "DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"Warning! Overloading of reactor."
 	{
@@ -82,10 +82,14 @@
 	"***TRUCK LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**距卡车离开还有 20 秒！**"
-                "DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"Contact me at obscuri@obsmail.tk"
 	{
 		"chi"		"**作者邮箱地址：obscuri@obsmail.tk**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

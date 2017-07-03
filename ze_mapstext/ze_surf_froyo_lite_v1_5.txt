@@ -144,4 +144,76 @@
 	{
 		"syncvalue"		"19075"
 	}
+	"***A traveller has picked snowstorm crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked halo crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked fear crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked unknown crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked lightwall crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***You have 60s to fight Boss Star!***"
+	{
+		"chi"		"** **"
+	}
+	"***You have 30s to fight Boss Star!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked Boss Stars ultimate --- Wave!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 15s!"
+	{
+		"chi"		"** **"
+	}
+	"***20s left to win!***"
+	{
+		"chi"		"** **"
+	}
+	"***5!***"
+	{
+		"chi"		"** **"
+	}
+	"***4!***"
+	{
+		"chi"		"** **"
+	}
+	"***3!***"
+	{
+		"chi"		"** **"
+	}
+	"***2!***"
+	{
+		"chi"		"** **"
+	}
+	"***1!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies!Feel froyos force!balabala...***"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations!Travellers succeed!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boss Star will destroy all travellers in 5s!***"
+	{
+		"chi"		"** **"
+	}
 }

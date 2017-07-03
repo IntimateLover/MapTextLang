@@ -19,7 +19,7 @@
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
 		"chi"		"**防守25秒，直到守卫开放道路**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** A player has learned Wind magick. **"
 	{
@@ -32,16 +32,17 @@
 	"** Defend here so the guards will open the gates to the city! **"
 	{
 		"chi"		"**守住这里，直到守卫开放前往城市的道路**"
+		"DoorCountdown"		"20"
 	}
 	"** Cover here till the rock explodes **"
 	{
 		"chi"		"**守住这里直到前方石头爆炸**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开!**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
@@ -110,7 +111,7 @@
 	"** Cover 20 seconds till the rock explodes **"
 	{
 		"chi"		"**防守20秒直到石头爆炸**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** A player has learned Fire magick. **"
 	{
@@ -139,7 +140,7 @@
 	"** Cover 30 seconds till the rock explodes **"
 	{
 		"chi"		"**防守30秒直到石头爆炸**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** 70 SECS REMAINING **"
 	{
@@ -184,6 +185,7 @@
 	"** Teleporter will be ready in 20 seconds! **"
 	{
 		"chi"		"**20秒后开启传送**"
+		"DoorCountdown"		"20"
 	}
 	"** Teleporter will be ready in 5 seconds! **"
 	{
@@ -220,6 +222,7 @@
 	"** Defend here for 30 seconds **"
 	{
 		"chi"		"**坚守30秒**"
+		"DoorCountdown"		"30"
 	}
 	"** The airship reactors are going to explode!! **"
 	{
@@ -247,19 +250,19 @@
 	}
 	"** A player has learned Electro magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了雷电权杖（雷电将会制裁它们）**"
 	}
 	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**已选择天神难度，5秒后重新开始**"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"66346"
+		"syncvalue"		"65470"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**已选择史诗难度，5秒后重新开始**"
 	}
 	"** Zombies Have Escaped **"
 	{
@@ -267,6 +270,6 @@
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{
-		"chi"		"** **"
+		"chi"		"**巨龙已死，逃离这个地方**"
 	}
 }

@@ -140,4 +140,32 @@
 	{
 		"chi"		"** **"
 	}
+	"***A zombie has picked fear crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked snowstorm crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked lightwall crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked halo crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***You have 60s to fight Boss Star!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked Boss Stars ultimate --- Wave!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 15s!"
+	{
+		"chi"		"** **"
+	}
 }

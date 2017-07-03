@@ -40,7 +40,7 @@
 	{
 		"chi"		"**防守这个地方30秒**"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"**再守5秒**"
 	}
@@ -91,7 +91,7 @@
 	"** HOLD ZOMBIES FOR 50 SECONDS **"
 	{
 		"chi"		"**坚守阵地50秒！**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"** ZOMBIES: CLIMB THE STAIRS! **"
 	{
@@ -156,12 +156,12 @@
 	"** HOLD THIS PLATFORM FOR 37 SECONDS **"
 	{
 		"chi"		"**守住这个平台37秒**"
-		"DoorCountdown"		"37"
+		"DoorCountDown"		"37"
 	}
 	"** HOLD FOR 25 SECONDS **"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** HOLD ZOMBIES FOR 30 SECONDS **"
 	{
@@ -174,7 +174,7 @@
 	"** ELEVATOR LEAVING IN 5 SECONDS **"
 	{
 		"chi"		"**电梯在5秒后离开！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"** CoolR Gun has been picked up. Press +USE (E) to activate. **"
 	{
@@ -201,6 +201,10 @@
 		"chi"		"** **"
 	}
 	"** YOU DID IT!!! **"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

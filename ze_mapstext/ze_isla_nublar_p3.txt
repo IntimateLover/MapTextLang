@@ -87,7 +87,7 @@
 	"***DOOR WILL OPEN IN 20 SECONDS***"
 	{
 		"chi"		"**门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***DOOR WILL OPEN IN 10 SECONDS***"
 	{
@@ -210,6 +210,10 @@
 		"chi"		"**已检测到僵尸 **"
 	}
 	"***MULDOONS SHOTGUN HAS BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

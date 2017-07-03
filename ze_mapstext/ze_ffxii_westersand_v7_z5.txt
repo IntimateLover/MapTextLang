@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"**一位玩家捡起了雷电权杖（雷电将会制裁它们）**"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"**已选择天神难度，5秒后重新开始**"
+	}
+	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"**已选择史诗难度，5秒后重新开始**"
+	}
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"chi"		"**巨龙已死，逃离这个地方**"
+	}
+}

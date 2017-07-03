@@ -288,7 +288,7 @@
 	}
 	"
 		"***shoot"		"ADS"
-		"AND"		"Zombies***"
+		"And"		"Zombies***"
 		"
 	{
 		"		"chi"
@@ -361,7 +361,7 @@
 	}
 	"		"***"
 		"15"		"seconds"
-		"to"		"activate"
+		"To"		"activate"
 		"Elevator"		"***"
 		"
 	{
@@ -565,7 +565,7 @@
 		"
 	}
 	"		"***"
-		"HOLD"		"20"
+		"hold"		"20"
 		"seconds"		"***"
 		"
 	{
@@ -723,7 +723,7 @@
 	}
 	"		"***"
 		"45"		"seconds"
-		"to"		"Open"
+		"To"		"Open"
 		"Wall"		"***"
 		"
 	{
@@ -880,9 +880,9 @@
 		"
 	}
 	"		"***"
-		"You"		"have"
+		"you"		"have"
 		"passed"		"through"
-		"The"		"first"
+		"the"		"first"
 		"phase"		"***"
 		"
 	{
@@ -1153,7 +1153,7 @@
 		"chi"		"**铁网30秒后破碎 **"
 		"DoorCountDown"		"30"
 	}
-	"*** HOLD 20 seconds ***"
+	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
 		"DoorCountDown"		"20"
