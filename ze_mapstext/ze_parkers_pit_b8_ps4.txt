@@ -2,7 +2,7 @@
 {
 	"*** ACHIEVEMENT LIST - PRESS M ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就列表-按M **"
 	}
 	"*** ROUND 15 ***"
 	{
@@ -10,39 +10,39 @@
 	}
 	"*** MAP BY JB_GAMBLE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：JB_GAMBLE **"
 	}
 	"*** LEFT ROUTE | HOLD HERE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**左边路线丨守住这里 **"
 	}
 	"*** LEFT ROUTE | FALL BACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**左边路线丨撤退 **"
 	}
 	"*** DOORS OPEN - 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后打开 **"
 	}
 	"*** HOLD HERE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"*** FALL BACK | FALL BACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退丨撤退 **"
 	}
 	"*** DOOR OPEN - 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后打开 **"
 	}
 	"*** FALL BACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"*** HOLD HERE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"*** ROUND 25 ***"
 	{
@@ -50,15 +50,15 @@
 	}
 	"*** RIGHT ROUTE | HOLD HERE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**右边路线丨守住这里 **"
 	}
 	"*** RIGHT ROUTE | FALL BACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**右边路线丨撤退 **"
 	}
 	"*** AIRBOAT HERE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**汽艇在这里 **"
 	}
 	"*** ROUND 35 ***"
 	{
@@ -66,7 +66,7 @@
 	}
 	"*** STAIRS OPEN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**楼梯开放 **"
 	}
 	"*** MINE OPEN ***"
 	{
@@ -74,19 +74,19 @@
 	}
 	"*** WAIT HERE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里等待 **"
 	}
 	"*** ACHIEVEMENT UNLOCK | STAY BACK !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁|退后！ **"
 	}
 	"*** ITEM UNLOCK - FIRST AID KIT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**物品解锁-急救包 **"
 	}
 	"*** FIRST AID ***"
 	{
-		"chi"		"** **"
+		"chi"		"**急救 **"
 	}
 	"*** ROUND 45 ***"
 	{
@@ -98,7 +98,7 @@
 	}
 	"*** TRAIN LEAVING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车离开 **"
 	}
 	"*** ROUND 55 ***"
 	{
@@ -106,31 +106,31 @@
 	}
 	"*** TELEPORT OPEN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送开启 **"
 	}
 	"*** LIFT LEAVING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯离开 **"
 	}
 	"*** COMBINE ADVISORS - SHOOT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**ADVISORS来了-射击 **"
 	}
 	"*** INFO - RED LIGHTS - ADVISORS HEALTH ***"
 	{
-		"chi"		"** **"
+		"chi"		"**信息-红灯-ADVISORS使用了治疗 **"
 	}
 	"*** INFO - STAND ON ROCKS TO AVOID FIRE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**信息-站在岩石上避免火灾 **"
 	}
 	"*** ACHIEVEMENT UNLOCK - DEFEAT THE ADVISORS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁-击败 **"
 	}
 	"*** MAP COMPLETED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图完成 **"
 	}
 	"*** MELON FOUND ***"
 	{
@@ -138,27 +138,27 @@
 	}
 	"*** ACHIEVEMENT UNLOCK | 10 OR MORE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁| 10或更多 **"
 	}
 	"*** ACHIEVEMENT UNLOCK | 12 OR MORE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁| 12或更多 **"
 	}
 	"*** ZOMBIES IN TRAIN - YOU FAILED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸在火车上-你失败了！ **"
 	}
 	"*** ACHIEVEMENT UNLOCK | LETEM BURN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁丨莱姆伯恩 **"
 	}
 	"*** UNLOCKED | THE IGNITER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**解锁|点火器 **"
 	}
 	"*** IGNITER - LEFT ROUTE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**点火器-左路线 **"
 	}
 	"*** GOT THE IGNITER ***"
 	{
@@ -166,18 +166,18 @@
 	}
 	"*** SETS ZOMBIES ON FIRE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**让僵尸激情似火 **"
 	}
 	"*** EXTINGUISHS FIRE ON HUMANS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**让人类扑灭火灾 **"
 	}
 	"*** ACHIEVEMENT UNLOCK | 15 OR MORE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁| 15或更多 **"
 	}
 	"*** ACHIEVEMENT UNLOCK | 18 OR MORE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**成就解锁| 18或更多 **"
 	}
 }
