@@ -103,6 +103,7 @@
 	"@[MAP] FOOTBALL"
 	{
 		"chi"		"** 足球**"
+		"Command" "sm_sethealth @all 1"
 	}
 	"@[Map] 5 MINUTES REMAINING"
 	{
