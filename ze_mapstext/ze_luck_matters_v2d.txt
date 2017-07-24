@@ -3,7 +3,7 @@
 	"***PLATFORM WILL RISE IN 30s***"
 	{
 		"chi"		"**平台将在30秒后上升 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***PLATFORM WILL RISE IN 5s***"
 	{
@@ -20,7 +20,7 @@
 	"***DOOR OPENS IN 30s***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door is open***"
 	{
@@ -29,7 +29,7 @@
 	"***HOLD HERE FOR 25s***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***5s LEFT***"
 	{
@@ -38,7 +38,7 @@
 	"***TELEPORT ACTIVATES IN 30s***"
 	{
 		"chi"		"**传送30秒后激活 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***TELEPORT ACTIVATED***"
 	{
@@ -52,7 +52,7 @@
 	"***HOLD FOR 30s***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***FALL BACK***"
 	{
@@ -61,7 +61,7 @@
 	"***HOLD FOR 35s***"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***SURVIVE***"
 	{
@@ -213,6 +213,10 @@
 		"chi"		"** **"
 	}
 	"***HOLD FOR 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***Freeze Item Picked Up***"
 	{
 		"chi"		"** **"
 	}

@@ -3,6 +3,7 @@
 	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
 	{
 		"chi"		"**Diddlery将在30秒后开始**"
+		"DoorCountdown"		"30"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
 	{
@@ -87,6 +88,7 @@
 	"*Defend for 30 seconds*"
 	{
 		"chi"		"**守住30秒**"
+		"DoorCountdown"		"30"
 	}
 	"*Elevator Activating in 10 seconds*"
 	{
@@ -199,6 +201,7 @@
 	"*Wall 1 breaks in 40 seconds*"
 	{
 		"chi"		"**1号墙40秒后破碎**"
+		"DoorCountdown"		"40"
 	}
 	"***SACRIFICE YOUR LOVE***"
 	{
@@ -607,7 +610,7 @@
 	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***PURCHASED - BIG GUARDIAN***"
 	{
@@ -648,7 +651,7 @@
 	"***DEFEND FOR 40 SECONDS***"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***ELEVATOR LEAVES IN 10 SECONDS***"
 	{
@@ -665,7 +668,7 @@
 	"***DEFEND FOR 60 SECONDS***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***30 SECONDS LEFT***"
 	{
@@ -682,7 +685,7 @@
 	"***DEFEND FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***JUMP INSIDE THE DOODLE DOODY***"
 	{
@@ -867,7 +870,7 @@
 	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
 	{
 		"chi"		"**这个门将在40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
 	{
@@ -920,7 +923,7 @@
 	"***HOLD THEM OFF FOR 30 SECONDS***"
 	{
 		"chi"		"**守住他们30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***RUN***"
 	{

@@ -2,19 +2,19 @@
 {
 	"**First doors will open in 10 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒钟后开门**"
 	}
 	"**First doors will open in 3 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒钟后开门**"
 	}
 	"**Second door will open in 15 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**第二道门15秒后开门**"
 	}
 	"**Door 3 will open in 10 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**3号门10秒后开门**"
 	}
 	"**AFK-players have been killed**"
 	{
@@ -22,15 +22,15 @@
 	}
 	"**Door 4 will open in 20 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**4号门20秒后开门**"
 	}
 	"**Door 5 will open in 10 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**5号门10秒后开门**"
 	}
 	"**Final door will open in 10 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**最后车门10秒后开门**"
 	}
 	"**Emergency sequence activated. Death will come in 60 sec.**"
 	{

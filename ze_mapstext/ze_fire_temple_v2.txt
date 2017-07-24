@@ -1,0 +1,106 @@
+"Console_T"
+{
+	"<<< Map made by Jllaneras >>>"
+	{
+		"chi"		"**地图制作：Jllaneras 地图翻译：蓬莱山帅比♪  **"
+	}
+	"<<< Defend for 30 seconds! >>>"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		"**僵尸30秒后传送 **"
+	}
+	"<<< Box will break in 30 seconds! >>>"
+	{
+		"chi"		"**箱子30秒后破碎 **"
+	}
+	"<<< Back gate opening in 15 seconds! >>>"
+	{
+		"chi"		"**后门15秒后开启 **"
+		"DoorCountdown"		"15"
+	}
+	"<<< Zombies teleport in 40 seconds! >>>"
+	{
+		"chi"		"**僵尸40秒后传送 **"
+	}
+	"<<< Lift leaves in 40 seconds! >>>"
+	{
+		"chi"		"**40秒后道路开放 **"
+		"DoorCountdown"		"40"
+	}
+	"<<< 10 seconds left! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies will teleport in 20 seconds! >>>"
+	{
+		"chi"		"**僵尸20秒后传送 **"
+	}
+	"<<< Top door will open in 60 seconds! >>>"
+	{
+		"chi"		"**大门将在60秒后打开 **"
+		"DoorCountdown"		"60"
+	}
+	"<<< Zombies teleport in 25 seconds! >>>"
+	{
+		"chi"		"**僵尸25秒后传送 **"
+	}
+	"<<< Defend for 90 seconds! >>>"
+	{
+		"chi"		"**守住90秒 **"
+		"DoorCountdown"		"90"
+	}
+	"<<< 30 seconds left! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 10 seconds left untill back door opens! >>>"
+	{
+		"chi"		"**后门即将打开（10秒） **"
+	}
+	"<<< Zombies have been teleported! >>>"
+	{
+		"chi"		"**僵尸已传送 **"
+	}
+	"<<< Zombies will teleport in 15 seconds! >>>"
+	{
+		"chi"		"**僵尸15秒后传送 **"
+	}
+	"<<< Back door will open in 30 seconds! >>>"
+	{
+		"chi"		"**后门30秒后打开 **"
+		"DoorCountdown"		"30"
+	}
+	"<<< Cage closing in 30 seconds! >>>"
+	{
+		"chi"		"**笼子30秒后关闭 **"
+		"DoorCountdown"		"30"
+	}
+	"<<< Zombies teleport in 20 seconds! >>>"
+	{
+		"chi"		"**僵尸20秒后传送 **"
+	}
+	"<<< Boss fight coming soon! >>>"
+	{
+		"chi"		"**BOSS即将到来 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"93677"
+	}
+	"<<< SHOOT CRYSTAL!!!! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies will teleport in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SHOOT THE CRYSTAL!!!! >>>"
+	{
+		"chi"		"** **"
+	}
+}

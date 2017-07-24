@@ -260,7 +260,7 @@
 	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
 	{
 		"chi"		"** 你已经攻♂破关卡3.现在进入关卡4 **"
-		"command"		"zr_noarmor 0"
+		"command"		"zr_noarmor 1"
 	}
 	">>> |LEVEL 4| <<<"
 	{

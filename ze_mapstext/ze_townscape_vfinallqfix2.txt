@@ -11,6 +11,7 @@
 	"***Truck leaving in 10 seconds***"
 	{
 		"chi"		"**卡车将在10秒后离开!**"
+		"DoorCountDown"		"10"
 	}
 	"***Activate Substation Power***"
 	{
@@ -24,10 +25,10 @@
 	{
 		"chi"		"**酒店的能源系统恢复了!**"
 	}
-	"***Door Opening In 20 seconds***"
+	"***Door opening in 20 seconds***"
 	{
 		"chi"		"**门将在20秒后开启**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Get Into The Hotel***"
 	{
@@ -52,7 +53,7 @@
 	"*** Fire door 2 opens in 20 seconds***"
 	{
 		"chi"		"**消防门[2]将在20秒后关闭**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Zombies Teleporting Forwards in 30 Seconds***"
 	{
@@ -61,13 +62,13 @@
 	"*** Fire door 3 opens in 20 seconds***"
 	{
 		"chi"		"**消防门[3]将在20秒后关闭**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Hold Untill Chopper Arrives***"
 	{
 		"chi"		"**坚守至直升机的到来!**"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**全体撤离!**"
 	}
@@ -106,11 +107,12 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**防守30秒!**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"Detonation in 30 Seconds"
 	{
 		"chi"		"**30秒后爆炸!**"
+		"DoorCountDown"		"30"
 	}
 	"Detonation in 10 Seconds"
 	{
@@ -179,13 +181,13 @@
 	"***Chopper Leaves in 50 Seconds***"
 	{
 		"chi"		"**直升机将在50秒后起飞**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***Nuke In 70 Seconds***"
 	{
 		"chi"		"**GTX690战术核显卡将在70秒后就绪!**"
 	}
-	"***Chopper Leaves in 10 Seconds***"
+	"***CHOPPER LEAVES IN 10 SECONDS***"
 	{
 		"chi"		"**直升机将在10秒后起飞**"
 	}
@@ -201,5 +203,4 @@
 	{
 		"chi"		"**正在重启最终回合**"
 	}
-
 }
