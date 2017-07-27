@@ -46,6 +46,38 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"5190"
+		"syncvalue"		"47289"
+	}
+	">> Reinforced Bunker door opens 25 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> SECURITY DOOR OPENS IN 15 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> OUTER BUNKER DOOR OPENS IN 15 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> HOLD 10 SECONDS WHILST WE GET THIS DOOR CLOSED! <<"
+	{
+		"chi"		"** **"
+	}
+	">> WATCH OUT! DANGER AHEAD! <<"
+	{
+		"chi"		"** **"
+	}
+	">> GOOD JOB! ZOMBIES INCOMING!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
+	{
+		"chi"		"** **"
+	}
+	">> NUKE INBOUND IN 35 SECONDS! <<"
+	{
+		"chi"		"** **"
 	}
 }

@@ -244,7 +244,7 @@
 	{
 		"chi"		"**上帝难度[GOD]**"
 	}
-	"** 5 more seconds **"
+	"** 5 MORE SECONDS **"
 	{
 		"chi"		"** **"
 	}
@@ -258,7 +258,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"38081"
+		"syncvalue"		"59051"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
@@ -271,5 +271,37 @@
 	"** The dragon has been defeated! GOGOGO **"
 	{
 		"chi"		"**巨龙已死，逃离这个地方**"
+	}
+	"** Congratulations - You won [GODMODE] **"
+	{
+		"chi"		"** **"
+	}
+	"** THANKS FOR PLAYING **"
+	{
+		"chi"		"** **"
+	}
+	"[ZOMBIE MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
 	}
 }

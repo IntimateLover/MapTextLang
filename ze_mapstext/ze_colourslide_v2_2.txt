@@ -1,46 +1,6 @@
 "Console_T"
 {
-	"*** MODE: NORMAL ***"
-	{
-		"chi"		"** **"
-	}
-	"*** MODE: FOG ***"
-	{
-		"chi"		"** **"
-	}
-	"*** FOG IS THICK ***"
-	{
-		"chi"		"** **"
-	}
-	"*** MODE: DRUGS ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PLAYERS ARE HIGH ***"
-	{
-		"chi"		"** **"
-	}
-	"**ZOMBIES ARE HELD BACK FOR 5 SECONDS.**"
-	{
-		"chi"		"** **"
-	}
-	"*** MODE: LOW GRAVITY ***"
-	{
-		"chi"		"** **"
-	}
 	"*** MODE: TRIPLE CRIPPLE ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ... AND ... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PLAYERS ARE NORMAL ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ... AAAAAND ... ***"
 	{
 		"chi"		"** **"
 	}
@@ -48,7 +8,39 @@
 	{
 		"chi"		"** **"
 	}
-	"*** PLAYERS ARE RABIDS ***"
+	"*** ... AND ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ... AAAAAND ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE QUICK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: FRICTION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FRICTION IS SET SLIGHTLY LOW ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NO CHANGES TO FRICTION ***"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBIES ARE HELD BACK FOR 5 SECONDS.**"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: DISTRACTION ***"
 	{
 		"chi"		"** **"
 	}
@@ -60,6 +52,14 @@
 	{
 		"chi"		"** **"
 	}
+	"*** MODE: DOUBLE TROUBLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FOG IS THICK ***"
+	{
+		"chi"		"** **"
+	}
 	"**DOORS OPEN FALL BACK**"
 	{
 		"chi"		"** **"
@@ -68,39 +68,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: DISTRACTION ***"
-	{
-		"chi"		"** **"
-	}
-	"**A PLAYER HAS REACHED THE SECOND HOLD**"
-	{
-		"chi"		"** **"
-	}
-	"*** MODE: GOTTA GO FAST ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PLAYERS ARE CHUBBY ***"
-	{
-		"chi"		"** **"
-	}
 	"*** MODE: REVERSE CONTROLS ***"
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: DOUBLE TROUBLE ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PLAYERS ARE FAST ***"
-	{
-		"chi"		"** **"
-	}
-	"*** FRICTION IS SET LOW ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PLAYERS ARE SLOW ***"
+	"**A PLAYER HAS REACHED THE SECOND HOLD**"
 	{
 		"chi"		"** **"
 	}
@@ -117,6 +89,18 @@
 		"chi"		"** **"
 	}
 	"**CONGRATULATIONS YOU BEAT THE MAP **"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: FOG ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE HIGH ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FRICTION IS SET VERY LOW ***"
 	{
 		"chi"		"** **"
 	}

@@ -207,7 +207,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -229,7 +229,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"13306"
+		"syncvalue"		"11226"
 	}
 	"### SUICIDE VEST ACTIVES IN 4 SECONDS ###"
 	{

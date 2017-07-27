@@ -2,45 +2,45 @@
 {
 	"DOOR OPENS IN 35 SECONDS"
 	{
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 		"chi"		"**门还有35秒开启**"
 	}
 	"DOOR WILL OPEN IN 25 SECONDS"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"THE DOOR WILL OPEN IN 30 SECONDS"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"THE DOOR WILL OPEN IN 20 SECONDS"
 	{
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"A WAY WILL OPEN IN 15 SECONDS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 		"chi"		"**两边的路25秒后开启，保持防御**"
 	}
 	"ELEVATOR WILL RISE IN 30 SECONDS"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"THE NEXT DOORS WILL OPEN IN 15 SECONDS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"ELEVATOR WILL RISE IN 15 SECONDS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"THE DOORS WILL OPEN IN 30 SECONDS"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"MAP BY GEORGE"
 	{

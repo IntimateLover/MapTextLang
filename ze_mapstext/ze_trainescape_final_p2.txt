@@ -31,7 +31,7 @@
 	"*** Nuke will be launched in 30s. ***"
 	{
 		"chi"		"核弹30秒后发射"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Generator room will open in 8s. ***"
 	{
@@ -48,13 +48,5 @@
 	".. Train station gate close in 10 seconds!!"
 	{
 		"chi"		"火车站大门10秒后关闭！关闭！咸鱼快跑！"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
 	}
 }

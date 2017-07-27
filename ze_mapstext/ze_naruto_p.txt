@@ -47,12 +47,12 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"** 还剩20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
 		"chi"		"**洞穴的路将于20秒内开放！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
@@ -89,7 +89,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -126,7 +126,7 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒内打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Door will open in 5 seconds **"
 	{
@@ -135,7 +135,7 @@
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要坚守小镇45秒 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -271,6 +271,86 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"67092"
+		"syncvalue"		"86421"
+	}
+	"***!!! THIS IS A WARMUP ROUND !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! WAITING FOR MORE PLAYERS !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! GAME WILL START IN FEW SECOND !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! CURRENT DIFFICULTY : EASY !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Naruto will open the way ! Follow him !***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS POSTION***"
+	{
+		"chi"		"** **"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***Cave way will open in 20s !***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***Cave way will open in 10s !***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS OPENING NOW***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS POSITION***"
+	{
+		"chi"		"** **"
+	}
+	"***CITY AFK TELEPORT IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***15 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***5 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***FORTRESS AFK TELEPORT IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***FORTRESS AFK TELEPORT***"
+	{
+		"chi"		"** **"
 	}
 }

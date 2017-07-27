@@ -818,7 +818,7 @@
 		"chi"		"路易基鬼屋"
 		"credit"		"400"
 	}
-	"ze_naruto_v1_1"
+	"ze_naruto_p"
 	{
 		"chi"		"火影村"
 		"credit"		"500"
@@ -1016,7 +1016,7 @@
 	{
 		"chi"		"天空竞技"
 	}
-	"ze_surf_sahok_p2"
+	"ze_surf_sahok_p3"
 	{
 		"chi"		"密室滑翔"
 		"credit"		"800"
@@ -1227,9 +1227,9 @@
 	{
 		"chi"		"探秘基地"
 	}
-	"ze_blackmesa_remix_p"
+	"ze_blackmesa_remix_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"黑山基地_多路线逃亡"
 	}
 	"ze_exchange_innovation_v1b_n"
 	{
@@ -1247,7 +1247,7 @@
 	{
 		"chi"		"威尼斯水域大逃亡"
 	}
-	"ze_gris_v1_11f5"
+	"ze_gris_v1_11f5_m"
 	{
 		"chi"		"创世E"
 		"credit"		"1500"
@@ -1300,7 +1300,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v6_4"
+	"ze_roof_adventure_v6_6"
 	{
 		"chi"		"屋顶大冒险"
 		"credit"		"1000"
@@ -1354,7 +1354,7 @@
 	{
 		"chi"		"孤胆枪手"
 	}
-	"ze_temple_raider_b4_ps_v4_2"
+	"ze_temple_raider_b4_ps5"
 	{
 		"chi"		"神庙急袭"
 		"credit"		"500"
@@ -1375,7 +1375,7 @@
 	{
 		"chi"		"永夜"
 	}
-	"ze_boredom_v543654"
+	"ze_boredom_p"
 	{
 		"chi"		"无趣"
 	}
@@ -1432,12 +1432,6 @@
 		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
 		"credit"		"1000"
 	}
-	"ze_lotr_minas_tirith_v3_3_ps35"
-	{
-		"chi"		"魔戒3：米纳斯提力斯"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
-	}
 	"ze_rizomata_b43"
 	{
 		"chi"		"精灵塔"
@@ -1479,7 +1473,7 @@
 		"chi"		"传说之下"
 		"credit"		"500"
 	}
-	"ze_luck_matters_v2c"
+	"ze_luck_matters_v2d"
 	{
 		"chi"		"运气很重要"
 		"credit"		"500"
@@ -1538,7 +1532,7 @@
 	{
 		"chi"		"悬浮的城市"
 	}
-	"ze_project_alcaria_v1_7"
+	"ze_project_alcaria_v2_4"
 	{
 		"chi"		"阿尔卡利亚项目"
 	}
@@ -1574,7 +1568,7 @@
 	}
 	"ze_paranoid_rezurrection_v11_9_th10"
 	{
-		"chi"		"游乐园之旅"
+		"chi"		"游乐园：重装上阵"
 		"credit"		"700"
 	}
 	"ze_parkers_pit_b8_ps4"
@@ -1585,7 +1579,7 @@
 	{
 		"chi"		"tkara大逃亡"
 	}
-	"ze_insensible_sr8gm6yj12hs7_rg_v9_3_1"
+	"ze_insensible_sr8gm6yj12hs7_rg_v9_6"
 	{
 		"chi"		"感性之路"
 	}
@@ -1626,7 +1620,7 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_c13"
+	"ze_deadcore_c14"
 	{
 		"chi"		"死亡核心"
 	}
@@ -1638,19 +1632,19 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_diddle_v1_6"
+	"ze_diddle_v3"
 	{
 		"chi"		"欺骗"
 	}
-	"ze_sky_temples_v2a"
+	"ze_sky_temples_v2_1"
 	{
 		"chi"		"天空神庙v1_4"
 	}
-	"ze_sky_temples_v2a"
+	"ze_sky_temples_v2_1"
 	{
 		"chi"		"天空神庙"
 	}
-	"ze_grau_a0_1"
+	"ze_grau_a0_4"
 	{
 		"chi"		"创世Epro"
 	}
@@ -1658,47 +1652,223 @@
 	{
 		"chi"		"MJ惊悚别墅"
 	}
-	"ze_ffxii_westersand_v7_z4"
-	{
-		"chi"		"西沙v7_z"
-	}
-	"ze_surf_froyo_lite_v1_4"
+	"ze_ffxii_westersand_v7_z9"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"cs_italy"
+	"ze_surf_froyo_lite_v1_5"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"de_dust"
+	"ze_fire_temple_v2"
+	{
+		"chi"		"火焰神庙"
+	}
+	"ze_pizzatime_v3"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"de_aztec"
+	"ze_grau_a0_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"cs_office"
+	"ze_apocatastasis_v1_1"
+	{
+		"chi"		"最终剿匪"
+	}
+	"ze_whothefuckiam_v2_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"de_dust2"
+	"ze_Death_Valley_b1"
+	{
+		"chi"		"死亡山谷"
+	}
+	"ze_blocky_mess_b2"
+	{
+		"chi"		"混乱的方块"
+	}
+	"ze_ultimate_autism_b2"
+	{
+		"chi"		"最后的孤独者"
+	}
+	"ze_colourslide_v2_2"
+	{
+		"chi"		"彩色世界v2_2"
+	}
+	"ze_lotr_minas_tirith_v3_3_ps29"
+	{
+		"chi"		"魔戒3：米纳斯提力斯"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+	}
+	"ze_LOTR_Minas_Tirith_v3_3_ps38"
+	{
+		"chi"		"魔戒3：米纳斯提力斯"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+	}
+	"ze_whothefuckiam_v2_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"de_train"
+	"ze_diddle_v3"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"de_inferno"
+	"ze_project_alcaria_v2_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"de_nuke"
+	"ze_fire_temple_v2"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffxii_ridorana_cataract_b3_ps1"
+	"ze_percocet_v5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_infiltration_final_r1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_hsc_a3_rc2_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_boredom_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v1_6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_boredom_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_boredom_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_licciana_escape_zrgbr_b3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_boredom_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_project_alcaria_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_temple_raider_b4_ps5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_vietnam_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v8zeta1_ps1"
 	{
 		"chi"		"此地图暂无译名"
 	}
