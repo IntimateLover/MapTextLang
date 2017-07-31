@@ -2,7 +2,7 @@
 {
 	"Map made by Puklica"
 	{
-		"chi"		"** 地图制作：Puklica 括号内容均属提醒-来自恶意卖萌的Yuki琥珀 **"
+		"chi"		"** 地图制作：Puklica 括号内容均属提醒-来自恶意卖萌的Yuki琥珀---细节补充：玲-莎花 **"
 	}
 	"Thank JorisCeoen fix model"
 	{
@@ -37,11 +37,11 @@
 	}
 	"--*** BUBBLES picked up ***--"
 	{
-		"chi"		"** 已拾取泡沫(使僵尸失重并减速)**"
+		"chi"		"** 已拾取泡沫(使僵尸失重并减速)泡泡可接巴博萨的球!**"
 	}
 	"--*** WALL picked up ***--"
 	{
-		"chi"		"** 已拾取墙(生成一堵障碍薄墙)**"
+		"chi"		"** 已拾取墙(生成一堵障碍薄墙)墙可挡住巴博萨的球!**"
 	}
 	">>> REMAINING 10 SEC <<<"
 	{
@@ -273,7 +273,7 @@
 	}
 	"*** MEDALLION picked up ***"
 	{
-		"chi"		"**拾取勋章（可对BOSS和僵尸造成大量伤害）（千万别让萌狗蛋拿）**"
+		"chi"		"**拾取勋章（可对BOSS和僵尸造成大量伤害）（千万别让萌狗蛋拿）（严禁勋章传送点加炸药桶）**"
 	}
 	">>> HOLD THE CELLAR FOR 25 SEC <<<"
 	{
@@ -303,7 +303,7 @@
 	}
 	">>> GET DOWN FROM WOOD PLATFORM TO FIGHT BARBOSSA <<<"
 	{
-		"chi"		"** 下到木平台下面击打巴博萨(准备手雷,请勿站在中间) **"
+		"chi"		"** 下到木平台下面击打巴博萨(准备手雷,远离楼梯口站中间) **"
 	}
 	">>> BARBOSSA IS COMING IN 5 SEC <<<"
 	{
@@ -351,7 +351,7 @@
 	}
 	"||| KRAKEN HAS USED VORTEX |||"
 	{
-		"chi"		"** 海怪对你使用了涡旋 (远离它，或者使用墙) **"
+		"chi"		"** 海怪对你使用了涡旋 (切刀往后跑，或者使用墙) **"
 	}
 	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
 	{
@@ -363,7 +363,7 @@
 	}
 	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
 	{
-		"chi"		"** 海怪对你使用了浪潮(别让他把你推下去，快跑向他) **"
+		"chi"		"** 海怪对你使用了浪潮(别让他把你推下去，快跑向他按住W) **"
 	}
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
 	{
@@ -371,7 +371,7 @@
 	}
 	">>> RUN TO THE CAVE <<<"
 	{
-		"chi"		"** 跑向洞穴(进去会打巴博萨会跳刀的，其他人山洞口防守) **"
+		"chi"		"** 跑向洞穴并守住洞穴门口(会打巴博萨会跳刀的进去，其他人山洞口防守) **"
 	}
 	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
 	{
