@@ -51,6 +51,7 @@
 	"** The first door will open in 10 seconds **"
 	{
 		"chi"		"**第一道门将在10秒后打开**"
+		"DoorCountDown"		"10"
 	}
 	"** The second door will open in 15 seconds **"
 	{

@@ -1,5 +1,9 @@
 "Console_T"
 {
+	"*** LEVEL2 ***"
+	{
+		"chi"		"** **"
+	}
 	"*** LEVEL4 ***"
 	{
 		"chi"		"** **"
@@ -12,20 +16,20 @@
 	{
 		"chi"		"** **"
 	}
-	"*** LEVEL1 ***"
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}
-	"*** LEVEL2 ***"
+	"sm_kick @all Update"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @al Update"
 	{
 		"chi"		"** **"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"31854"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"syncvalue"		"45792"
 	}
 }
