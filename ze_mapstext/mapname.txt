@@ -1277,7 +1277,7 @@
 		"chi"		"黑暗之魂"
 		"credit"		"600"
 	}
-	"ze_slender_escape_rc1"
+	"ze_slender_escape_rc1_1"
 	{
 		"chi"		"瘦长鬼影"
 		"credit"		"700"
@@ -1536,7 +1536,7 @@
 	{
 		"chi"		"阿尔卡利亚项目"
 	}
-	"ze_gris_b1f"
+	"ze_gris_v1_11f5"
 	{
 		"chi"		"创世E B1F"
 	}
@@ -1620,7 +1620,7 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_c14"
+	"ze_deadcore_c16"
 	{
 		"chi"		"死亡核心"
 	}
@@ -1644,7 +1644,7 @@
 	{
 		"chi"		"天空神庙"
 	}
-	"ze_grau_a0_4"
+	"ze_grau_a01_0"
 	{
 		"chi"		"创世Epro"
 	}
@@ -1656,7 +1656,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_surf_froyo_lite_v1_5"
+	"ze_surf_froyo_lite_v1_6"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1664,7 +1664,7 @@
 	{
 		"chi"		"火焰神庙"
 	}
-	"ze_pizzatime_v3"
+	"ze_pizzatime_v4"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1708,59 +1708,7 @@
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
-	"ze_whothefuckiam_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_percocet_v5"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1768,107 +1716,31 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_hsc_a3_rc2_1"
 	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_boredom_p"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v1_6"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_boredom_p"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_boredom_p"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
+		"chi"		"方块世界3"
 	}
 	"ze_licciana_escape_zrgbr_b3"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_boredom_p"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_project_alcaria_v2_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_fire_temple_v2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_temple_raider_b4_ps5"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_vietnam_p"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"越南丛林大冒险2"
 	}
 	"ze_ffxii_westersand_v8zeta1_ps1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v8zeta1_x10"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_grand_boatescape_p3"
+	{
+		"chi"		"神船逃亡"
+	}
+	"ze_FFXII_Ridorana_Cataract_B4_ps3"
 	{
 		"chi"		"此地图暂无译名"
 	}
