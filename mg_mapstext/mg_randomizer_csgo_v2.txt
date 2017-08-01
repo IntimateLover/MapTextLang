@@ -116,4 +116,48 @@
 	{
 		"chi"		"** **"
 	}
+	"<<<ROUND = Dodgeball Round!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<ROUND = Musical Holes Round!>>>"
+	{
+		"chi"		"** **"
+	}
+	"1 of 2 unseen maps from mg_Pauls_Multigames"
+	{
+		"chi"		"** **"
+	}
+	"Knife it out!"
+	{
+		"chi"		"** **"
+	}
+	"<<<ROUND = Scoutsknives round!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<ROUND = Shotgun Round!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<ROUND = Moving Doors Round!>>>"
+	{
+		"chi"		"** **"
+	}
+	"You have 30 seconds to knife each other!"
+	{
+		"chi"		"** **"
+	}
+	"You have taken too long!"
+	{
+		"chi"		"** **"
+	}
+	"<<<ROUND = Breakwall>>>"
+	{
+		"chi"		"** **"
+	}
+	"Health Regen has been turned off!"
+	{
+		"chi"		"** **"
+	}
 }
