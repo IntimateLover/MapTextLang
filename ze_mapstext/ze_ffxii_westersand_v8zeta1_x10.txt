@@ -273,21 +273,13 @@
 	{
 		"0"
 		{
-			"cvar"		"sm_armor_limit \"
+			"cvar"		"sm_armor_limit 5"
 		}
 		"1"
 		{
-			"cvar"		"sm_spawn_give_armor \"
-		}
-		"2"
-		{
-			"cvar"		"sm_armor_limit 5"
-		}
-		"3"
-		{
 			"cvar"		"sm_spawn_give_armor 1"
 		}
-		"4"
+		"2"
 		{
 			"cvar"		"sm_armor_limit 3"
 		}
