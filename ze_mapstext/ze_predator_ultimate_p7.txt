@@ -211,7 +211,7 @@
 	{
 		"chi"		"** 有玩家拿起了米尼冈重机枪 **（按E不放可连续开火，但是如果开火时间过长枪口会冒烟，冒烟后就得等一段时间，没有弹药限制）"
 	}
-	"***Hold 30 seconds***"
+	"***HOLD 30 SECONDS***"
 	{
 		"chi"		"** 坚守 30 秒 **"
 		"DoorCountDown"		"30"
@@ -276,7 +276,7 @@
 	{
 		"chi"		"** 激活 C4 **"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***Hold for 20 seconds***"
 	{
 		"chi"		"** 守住 20 秒 **"
 		"DoorCountDown"		"20"

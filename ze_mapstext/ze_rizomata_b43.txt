@@ -136,8 +136,11 @@
 	{
 		"chi"		"**电梯将在5秒后离开 **"
 	}
-	"The server is about to close the update ,Please update your game"
+	"MapGlobal_ConVars"
 	{
-		"chi"		"** **"
+		"0"
+		{
+			"cvar"		"zr_poison_enabled 0"
+		}
 	}
 }

@@ -271,7 +271,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"86421"
+		"syncvalue"		"67092"
 	}
 	"***!!! THIS IS A WARMUP ROUND !!!***"
 	{
@@ -350,6 +350,82 @@
 		"chi"		"** **"
 	}
 	"***FORTRESS AFK TELEPORT***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! NEXT DIFFICULTY : NORMAL !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! CURRENT DIFFICULTY : NORMAL !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***25 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***20 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! NEXT DIFFICULTY : HARD !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! CURRENT DIFFICULTY : HARD !!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
+	{
+		"chi"		"** **"
+	}
+	"***40 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***30 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND DOOR WILL OPEN IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU NEED TO DEFEND THE TOWN 1MIN***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 45s***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO HAS BEEN KILLED BY ZOMBIES***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS NOW CANT PROTECT THE VILLAGE***"
 	{
 		"chi"		"** **"
 	}

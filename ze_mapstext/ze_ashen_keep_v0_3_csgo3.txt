@@ -24,14 +24,6 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Lightning Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Glacial Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
 	"*** WARMUP - 10 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
@@ -40,27 +32,15 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Divine Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
 	"*** Portcullis opening in 30 seconds ***"
 	{
 		"chi"		"** **"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Spawn area teleport activating in 5 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Abyssal Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Gust Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -72,11 +52,35 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Door opening in 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"chi"		"** **"
+	}
 	"*** Burning Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Door opening in 45 seconds ***"
+	"*** Gust Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lightning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Divine Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Abyssal Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -85,38 +89,6 @@
 		"chi"		"** **"
 	}
 	"*** Total destruction in 45 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Castle area teleport activating in 5 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Round failed! Zombies have reached the objective! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Stage completed! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** STAGE II ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Outer gate opening in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Chapel lift leaving in 30 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Windows breaking in 45 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Doors closing in 45 seconds ***"
 	{
 		"chi"		"** **"
 	}

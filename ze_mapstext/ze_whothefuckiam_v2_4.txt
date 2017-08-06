@@ -46,7 +46,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"47289"
+		"syncvalue"		"5190"
 	}
 	">> Reinforced Bunker door opens 25 seconds <<"
 	{
@@ -68,15 +68,23 @@
 	{
 		"chi"		"** **"
 	}
-	">> GOOD JOB! ZOMBIES INCOMING!! <<"
+	">>> GET BACK OR GET FUCKED! <<<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES INCOMING! 10 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> NUKE INBOUND IN 45 SECONDS! <<"
+	{
+		"chi"		"** **"
+	}
+	">>> EXIT BREAKS IN 20 SECONDS <<<"
 	{
 		"chi"		"** **"
 	}
 	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
-	{
-		"chi"		"** **"
-	}
-	">> NUKE INBOUND IN 35 SECONDS! <<"
 	{
 		"chi"		"** **"
 	}

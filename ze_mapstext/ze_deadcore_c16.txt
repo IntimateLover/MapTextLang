@@ -33,7 +33,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"91451"
+		"syncvalue"		"32393"
 	}
 	"*** Hold 40 seconds ***"
 	{
@@ -140,5 +140,12 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"mp_timelimit 60"
+		}
 	}
 }

@@ -1,38 +1,22 @@
 "Console_T"
 {
-	"*** MODE: TRIPLE CRIPPLE ***"
-	{
-		"chi"		"** **"
-	}
-	"*** FRICTION IS OFF ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ... AND ... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ... AAAAAND ... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PLAYERS ARE QUICK ***"
-	{
-		"chi"		"** **"
-	}
 	"*** MODE: NORMAL ***"
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: FRICTION ***"
+	"*** MODE: FOG ***"
 	{
 		"chi"		"** **"
 	}
-	"*** FRICTION IS SET SLIGHTLY LOW ***"
+	"*** FOG IS THICK ***"
 	{
 		"chi"		"** **"
 	}
-	"*** NO CHANGES TO FRICTION ***"
+	"*** MODE: DRUGS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE HIGH ***"
 	{
 		"chi"		"** **"
 	}
@@ -40,7 +24,31 @@
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: DISTRACTION ***"
+	"*** MODE: LOW GRAVITY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: TRIPLE CRIPPLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ... AND ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ... AAAAAND ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FRICTION IS OFF ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE RABIDS ***"
 	{
 		"chi"		"** **"
 	}
@@ -52,14 +60,6 @@
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: DOUBLE TROUBLE ***"
-	{
-		"chi"		"** **"
-	}
-	"*** FOG IS THICK ***"
-	{
-		"chi"		"** **"
-	}
 	"**DOORS OPEN FALL BACK**"
 	{
 		"chi"		"** **"
@@ -68,11 +68,39 @@
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: REVERSE CONTROLS ***"
+	"*** MODE: DISTRACTION ***"
 	{
 		"chi"		"** **"
 	}
 	"**A PLAYER HAS REACHED THE SECOND HOLD**"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: GOTTA GO FAST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE CHUBBY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: REVERSE CONTROLS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: DOUBLE TROUBLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE FAST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FRICTION IS SET LOW ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYERS ARE SLOW ***"
 	{
 		"chi"		"** **"
 	}
@@ -92,15 +120,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** MODE: FOG ***"
+	"*** PLAYERS ARE SPEEDY ***"
 	{
 		"chi"		"** **"
 	}
-	"*** PLAYERS ARE HIGH ***"
-	{
-		"chi"		"** **"
-	}
-	"*** FRICTION IS SET VERY LOW ***"
+	"*** FRICTION IS NEGATIVE ***"
 	{
 		"chi"		"** **"
 	}
