@@ -34,26 +34,26 @@
 	}
 	"**Emergency sequence activated. Death will come in 60 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**紧急情况!60秒后核爆!**"
 	}
 	"**Death will come in 45 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒后核爆！**"
 	}
 	"**Death will come in 30 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后核爆！**"
 	}
 	"**Death will come in 20 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后核爆！**"
 	}
 	"**Death will come in 10 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后核爆！**"
 	}
 	"**Death will come in 5 sec.**"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后核爆！**"
 	}
 }

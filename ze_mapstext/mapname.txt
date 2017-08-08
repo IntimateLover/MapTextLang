@@ -1229,7 +1229,7 @@
 	}
 	"ze_blackmesa_remix_p2"
 	{
-		"chi"		"黑山基地_多路线逃亡"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_exchange_innovation_v1b_n"
 	{
@@ -1277,7 +1277,7 @@
 		"chi"		"黑暗之魂"
 		"credit"		"600"
 	}
-	"ze_slender_escape_rc1_1"
+	"ze_slender_escape_rc2"
 	{
 		"chi"		"瘦长鬼影"
 		"credit"		"700"
@@ -1354,7 +1354,7 @@
 	{
 		"chi"		"孤胆枪手"
 	}
-	"ze_temple_raider_b4_ps5"
+	"ze_temple_raider_b4_ps6"
 	{
 		"chi"		"神庙急袭"
 		"credit"		"500"
@@ -1473,7 +1473,7 @@
 		"chi"		"传说之下"
 		"credit"		"500"
 	}
-	"ze_luck_matters_v2d"
+	"ze_luck_matters_v2f"
 	{
 		"chi"		"运气很重要"
 		"credit"		"500"
@@ -1568,7 +1568,7 @@
 	}
 	"ze_paranoid_rezurrection_v11_9_th10"
 	{
-		"chi"		"游乐园：重装上阵"
+		"chi"		"游乐园: 重装上阵"
 		"credit"		"700"
 	}
 	"ze_parkers_pit_b8_ps4"
@@ -1656,11 +1656,11 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_surf_froyo_lite_v1_6"
+	"ze_surf_froyo_lite_v2"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_fire_temple_v2"
+	"ze_fire_temple_v2_2"
 	{
 		"chi"		"火焰神庙"
 	}
@@ -1668,13 +1668,13 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_grau_a0_4"
+	"ze_grau_a01_0"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_apocatastasis_v1_1"
 	{
-		"chi"		"最终剿匪"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_whothefuckiam_v2_4"
 	{
@@ -1682,7 +1682,7 @@
 	}
 	"ze_Death_Valley_b1"
 	{
-		"chi"		"死亡山谷"
+		"chi"		"此地图暂无译名"
 	}
 	"ze_blocky_mess_b2"
 	{
@@ -1705,20 +1705,30 @@
 	"ze_LOTR_Minas_Tirith_v3_3_ps38"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
 	}
-	"ze_percocet_v5"
+	"ze_whothefuckiam_v2_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_infiltration_final_r1"
+	"ze_percocet_v5"
+	{
+		"chi"		"止痛"
+	}
+	"ze_fire_temple_v2_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_diddle_v3"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_hsc_a3_rc2_1"
 	{
 		"chi"		"方块世界3"
+	}
+	"ze_infiltration_final_r1"
+	{
+		"chi"		"此地图暂无译名"
 	}
 	"ze_licciana_escape_zrgbr_b3"
 	{
@@ -1732,15 +1742,35 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffxii_westersand_v8zeta1_x10"
+	"ze_ffxii_westersand_v8zeta1_x12"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终幻想12：西沙v8"
 	}
 	"ze_grand_boatescape_p3"
 	{
 		"chi"		"神船逃亡"
 	}
 	"ze_FFXII_Ridorana_Cataract_B4_ps3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_v1_11f5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tomb_temple_v1_1"
+	{
+		"chi"		"坟头神庙"
+	}
+	"ze_vertigo_militia_b1_3_14"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_castlevania_p1_2"
+	{
+		"chi"		"恶魔城：整装待发"
+	}
+	"ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3"
 	{
 		"chi"		"此地图暂无译名"
 	}

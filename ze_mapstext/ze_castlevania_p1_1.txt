@@ -1,190 +1,5 @@
 "Console_T"
 {
-	"***STAGE 1 -- THE SHIP***"
-	{
-		"chi"		"**阶段一-遭遇海怪**"
-	}
-	"***ENEMY INCOMING***"
-	{
-		"chi"		"**敌船来袭**"
-	}
-	"***MAN THE CANNONS***"
-	{
-		"chi"		"**需要人类进入船舱进行炮击**"
-	}
-	"***BRING THEM DOWN***"
-	{
-		"chi"		"**拿下他们**"
-	}
-	"***BAD WEATHER IS COMING***"
-	{
-		"chi"		"**糟糕！我们遇上了坏天气**"
-	}
-	"***WE ARE SURROUNDED BY DARKNESS***"
-	{
-		"chi"		"**我们被黑暗包围了**"
-	}
-	"***KILL THE SEAMONSTER***"
-	{
-		"chi"		"**杀死海怪**"
-	}
-	"***YOUR BULLETS WONT REACH IT***"
-	{
-		"chi"		"**该死！我们不能命中他的本体**"
-	}
-	"***SHOOT THE TENTACLES***"
-	{
-		"chi"		"**射击海怪伸出来的触手**"
-	}
-	"***WE DID IT***"
-	{
-		"chi"		"**海怪死了**"
-	}
-	"***WERE SAVED***"
-	{
-		"chi"		"**得..得救了**"
-	}
-	"***LUFFAREN PROUDLY PRESENTS...***"
-	{
-		"chi"		"**luffaren自豪的介绍**"
-	}
-	"***ZE_CASTLEVANIA***"
-	{
-		"chi"		"**恶魔城：整装待发**"
-	}
-	"***PREPARE FOR AN EPIC JOURNEY***"
-	{
-		"chi"		"**准备开始一次史诗般的旅行**"
-	}
-	"***STAGE COMPLETE***"
-	{
-		"chi"		"**阶段完成**"
-	}
-	"***MOVING ON TO...***"
-	{
-		"chi"		"**继续...**"
-	}
-	"***STAGE 2 -- THE TOWN***"
-	{
-		"chi"		"**阶段二-无人小镇**"
-	}
-	"***THE FIRE IS OBSTRUCTING YOUR PATH***"
-	{
-		"chi"		"**大火挡住了我们的道路**"
-	}
-	"***HOLD OUT UNTIL ITS EXTINGUISHED***"
-	{
-		"chi"		"**守住，给我们争取到扑灭火焰的时间**"
-	}
-	"***OPENING GATE***"
-	{
-		"chi"		"**大门正在开启**"
-	}
-	"***THE FIRE IS OUT***"
-	{
-		"chi"		"**火被扑灭了**"
-	}
-	"***THE GATE IS OPEN***"
-	{
-		"chi"		"**大门打开**"
-	}
-	"***MOVE IT***"
-	{
-		"chi"		"**前进**"
-	}
-	"***THE TOWN IS UNDER ATTACK***"
-	{
-		"chi"		"**城镇正在遭到攻击**"
-	}
-	"***HOLD OUT AS LONG AS POSSIBLE***"
-	{
-		"chi"		"**能守多久是多久**"
-	}
-	"***SAVE YOURSELVES SOME TIME BY HOLDING THEM BACK***"
-	{
-		"chi"		"**尽可能断后，可以为你们争取大把时间**"
-	}
-	"***DEFEND THE STAIRS FOR 40 SECONDS***"
-	{
-		"chi"		"**在阶梯处防守40秒**"
-		"DoorCountDown"		"40"
-	}
-	"***FALL BACK***"
-	{
-		"chi"		"**撤退**"
-	}
-	"***THE DEBRIS IS BLOCKING YOUR PATH***"
-	{
-		"chi"		"**碎石挡住了我们的去路**"
-	}
-	"***SPAM E ON IT TO REMOVE IT***"
-	{
-		"chi"		"**在面前按E可以清理道路**"
-	}
-	"***THE MORE PEOPLE CLEARING IT THE FASTER IT WILL TAKE***"
-	{
-		"chi"		"**人越多清理的速度越快**"
-	}
-	"***YOU MADE IT TO THE TOWN ENTRANCE***"
-	{
-		"chi"		"**你已成功到达城镇大门**"
-	}
-	"***HOLD THE ZOMBIES BACK FOR A WHILE***"
-	{
-		"chi"		"**不要让僵尸到达这里**"
-	}
-	"***WATCH OUT***"
-	{
-		"chi"		"**当心**"
-	}
-	"***TIP - STAY AND HOLD BEHIND THE TOWER***"
-	{
-		"chi"		"**提示-侧路的瞭望塔即将倒塌**"
-	}
-	"***ADMIN ROOM - STAGE 2 SET***"
-	{
-		"chi"		"**调关房 - 阶段二**"
-	}
-	"***THE OGRE HAS BEEN SLAIN***"
-	{
-		"chi"		"**食人魔已被击杀**"
-	}
-	"***GET ON THE BOARS***"
-	{
-		"chi"		"**爬到野猪背上**"
-	}
-	"***HURRY***"
-	{
-		"chi"		"**赶快**"
-	}
-	"***THEY ARE AFTER US***"
-	{
-		"chi"		"**它们在追我们**"
-	}
-	"***HOLD THEM BACK WHILE AVOIDING OBSTACLES***"
-	{
-		"chi"		"**守住它们-并躲避障碍物**"
-	}
-	"***WATCH OUT AHEAD***"
-	{
-		"chi"		"**小心前方!**"
-	}
-	"***KILL ANY REMAINING ENEMIES***"
-	{
-		"chi"		"**杀死剩下的敌人**"
-	}
-	"***STAGE 3 -- THE FOREST***"
-	{
-		"chi"		"**阶段三-恐怖森林**"
-	}
-	"***MAKE YOUR WAY THROUGH THE FOREST***"
-	{
-		"chi"		"**找到可以穿过森林的道路**"
-	}
-	"***HOLD THIS AREA - GATHER EVERYBODY UP***"
-	{
-		"chi"		"**守住这里-等到大家集合**"
-	}
 	"***TIP -- DO NOT RUN INSTANTLY TO THE HOLD***"
 	{
 		"chi"		"**提示-不要立即前往据点**"
@@ -371,6 +186,18 @@
 	{
 		"chi"		"**阶段五-蜘蛛洞穴**"
 	}
+	"***WE DID IT***"
+	{
+		"chi"		"**海怪死了**"
+	}
+	"***DEFEND THE STAIRS FOR 40 SECONDS***"
+	{
+		"DoorCountDown"		"40"
+	}
+	"***SPAM E ON IT TO REMOVE IT***"
+	{
+		"chi"		"**在面前按E可以清理道路**"
+	}
 	"***SEEMS LIKE WE LOST THEM***"
 	{
 		"chi"		"**我们似乎赢了**"
@@ -378,6 +205,10 @@
 	"***INCOMING BOARS***"
 	{
 		"chi"		"**僵尸可以通过传送门传送至野猪背**"
+	}
+	"***OPENING GATE***"
+	{
+		"chi"		"**大门正在开启**"
 	}
 	"***WOMBO COMBO!***"
 	{
@@ -593,6 +424,14 @@
 	{
 		"chi"		"**...将在下个版本出现...**"
 	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"**阶段一-遭遇海怪**"
+	}
+	"***STAGE 3 -- THE FOREST***"
+	{
+		"chi"		"**阶段三-恐怖森林**"
+	}
 	"***ADMIN ROOM - STAGE 5 SET***"
 	{
 		"chi"		"**调关房-阶段五**"
@@ -612,13 +451,5 @@
 	"***ADMIN ROOM - STAGE 6 SET***"
 	{
 		"chi"		"**调关房-阶段六**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"52060"
-	}
-	"***BRIDGE IS LOWERING***"
-	{
-		"chi"		"** **"
 	}
 }
