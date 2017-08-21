@@ -32,11 +32,11 @@
 	{
 		"chi"		"** **"
 	}
-	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
+	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
 	{
 		"chi"		"** **"
 	}
-	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
+	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
 	{
 		"chi"		"** **"
 	}
@@ -46,7 +46,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"5190"
+		"syncvalue"		"80252"
 	}
 	">> Reinforced Bunker door opens 25 seconds <<"
 	{
@@ -68,6 +68,18 @@
 	{
 		"chi"		"** **"
 	}
+	">> GOOD JOB! ZOMBIES INCOMING!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
+	{
+		"chi"		"** **"
+	}
+	">> NUKE INBOUND IN 35 SECONDS! <<"
+	{
+		"chi"		"** **"
+	}
 	">>> GET BACK OR GET FUCKED! <<<"
 	{
 		"chi"		"** **"
@@ -76,15 +88,11 @@
 	{
 		"chi"		"** **"
 	}
-	">> NUKE INBOUND IN 45 SECONDS! <<"
-	{
-		"chi"		"** **"
-	}
 	">>> EXIT BREAKS IN 20 SECONDS <<<"
 	{
 		"chi"		"** **"
 	}
-	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
+	">> NUKE INBOUND IN 45 SECONDS! <<"
 	{
 		"chi"		"** **"
 	}

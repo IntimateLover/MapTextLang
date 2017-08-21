@@ -32,19 +32,15 @@
 	{
 		"chi"		"** **"
 	}
-	"***Well,Travellers!Making good use of these crystals!***"
-	{
-		"chi"		"** **"
-	}
-	"***Check zombies crystals......***"
-	{
-		"chi"		"** **"
-	}
-	"***Well,Zombies!Get your crystals to infect travellers!***"
+	"***A traveller has picked shock ring!***"
 	{
 		"chi"		"** **"
 	}
 	"***Sorry!You travellers have no crystal to use!Good luck!***"
+	{
+		"chi"		"** **"
+	}
+	"***Check zombies crystals......***"
 	{
 		"chi"		"** **"
 	}
@@ -116,7 +112,43 @@
 	{
 		"chi"		"** **"
 	}
+	"***Well,Travellers!Making good use of these crystals!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked snowstorm crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked halo crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked roar crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked lightwall crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***Well,Zombies!Get your crystals to infect travellers!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked fear crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked health crystal!***"
+	{
+		"chi"		"** **"
+	}
 	"***You have 90s to fight Boss Star!***"
+	{
+		"chi"		"** **"
+	}
+	"***You have 60s to fight Boss Star!***"
 	{
 		"chi"		"** **"
 	}
@@ -128,43 +160,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***A zombie has picked health crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"***A traveller has picked shock ring!***"
-	{
-		"chi"		"** **"
-	}
-	"***A traveller has picked roar crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"19075"
-	}
-	"***A traveller has picked snowstorm crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"***A traveller has picked halo crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"***A zombie has picked fear crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"***A traveller has picked unknown crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"***A traveller has picked lightwall crystal!***"
-	{
-		"chi"		"** **"
-	}
-	"***You have 60s to fight Boss Star!***"
+	"***Zombies will come in 15s!"
 	{
 		"chi"		"** **"
 	}
@@ -173,10 +169,6 @@
 		"chi"		"** **"
 	}
 	"***A traveller has picked Boss Stars ultimate --- Wave!***"
-	{
-		"chi"		"** **"
-	}
-	"***Zombies will come in 15s!"
 	{
 		"chi"		"** **"
 	}
@@ -209,10 +201,6 @@
 		"chi"		"** **"
 	}
 	"***Congratulations!Travellers succeed!***"
-	{
-		"chi"		"** **"
-	}
-	"***Boss Star will destroy all travellers in 5s!***"
 	{
 		"chi"		"** **"
 	}

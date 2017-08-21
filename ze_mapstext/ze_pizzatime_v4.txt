@@ -54,7 +54,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"78771"
+		"syncvalue"		"2687"
 	}
 	"===[ MAP MADE BY LUFFAREN ]==="
 	{
@@ -361,6 +361,10 @@
 		"chi"		"** **"
 	}
 	"***VOLCANO IS GOING BOOBLY***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU NEED TO KILL THEM BEFORE THE VOLCANO GOES BOOBLY***"
 	{
 		"chi"		"** **"
 	}

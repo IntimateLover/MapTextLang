@@ -19,7 +19,7 @@
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
 		"chi"		"**防守25秒，直到守卫开放道路**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** A player has learned Wind magick. **"
 	{
@@ -36,12 +36,12 @@
 	"** Cover here till the rock explodes **"
 	{
 		"chi"		"**守住这里直到前方石头爆炸**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开!**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
@@ -110,7 +110,7 @@
 	"** Cover 20 seconds till the rock explodes **"
 	{
 		"chi"		"**防守20秒直到石头爆炸**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** A player has learned Fire magick. **"
 	{
@@ -139,7 +139,7 @@
 	"** Cover 30 seconds till the rock explodes **"
 	{
 		"chi"		"**防守30秒直到石头爆炸**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** 70 SECS REMAINING **"
 	{

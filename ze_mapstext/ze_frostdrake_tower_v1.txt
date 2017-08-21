@@ -23,7 +23,7 @@
 	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后开门**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***THE GATE IS OPENING***"
 	{
@@ -44,6 +44,7 @@
 	"***THE GATE WILL OPEN IN 60 SECONDS***"
 	{
 		"chi"		"**60秒后开门**"
+		"DoorCountDown"		"60"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
 	{
@@ -196,13 +197,17 @@
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***THE GATES ARE OPENING***"
 	{
 		"chi"		"** **"
 	}
 	"***ITS COMING***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

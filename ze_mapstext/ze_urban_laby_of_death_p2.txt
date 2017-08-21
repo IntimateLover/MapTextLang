@@ -178,4 +178,8 @@
 	{
 		"chi"		"**一只僵尸捡到了 障碍**"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

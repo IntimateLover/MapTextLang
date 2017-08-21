@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -60,7 +60,7 @@
 	"**Elevator is leaving in 10s**"
 	{
 		"chi"		"**>>电梯将在10S后离开<<**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** A player has adquired GRAVITY MATERIA **"
 	{
@@ -104,53 +104,53 @@
 	}
 	"**  110 SECONDS LEFT **"
 	{
-		"chi"		"**warning:110 seconds left!!!**"
+		"chi"		"**警告：还剩110秒**"
 	}
 	"**  100 SECONDS LEFT **"
 	{
-		"chi"		"**warning:100 seconds left!!!**"
+		"chi"		"**警告：还剩100秒**"
 	}
 	"**  90 SECONDS LEFT **"
 	{
-		"chi"		"**warning:90 seconds left!!!**"
+		"chi"		"**警告：还剩90秒**"
 	}
 	"**  80 SECONDS LEFT **"
 	{
-		"chi"		"**warning:80 seconds left!!!**"
+		"chi"		"**警告：还剩80秒**"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**大门将在35S后打开！去控制室寻找方法让门提前打开！！**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"**  70 SECONDS LEFT **"
 	{
-		"chi"		"**warning:70 seconds left!!!**"
+		"chi"		"**警告：还剩70秒**"
 	}
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮！大门将在10S后开启！！**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**  60 SECONDS LEFT **"
 	{
-		"chi"		"**warning:60 seconds left!!!**"
+		"chi"		"**警告：还剩60秒**"
 	}
 	"**  50 SECONDS LEFT **"
 	{
-		"chi"		"**warning:50 seconds left!!!**"
+		"chi"		"**警告：还剩50秒**"
 	}
 	"**  40 SECONDS LEFT **"
 	{
-		"chi"		"**warning:40 seconds left!!!**"
+		"chi"		"**警告：还剩40秒**"
 	}
 	"**  30 SECONDS LEFT **"
 	{
-		"chi"		"**warning:30  seconds left!!!**"
+		"chi"		"**警告：还剩30秒**"
 	}
 	"**  20 SECONDS LEFT **"
 	{
-		"chi"		"**warning:20 seconds left!!!**"
+		"chi"		"**警告：还剩20秒**"
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
@@ -186,11 +186,11 @@
 	}
 	"** EXPLOSION IN 120 SECONDS **"
 	{
-		"chi"		"**warning:explosion in 120 seconds!!!**"
+		"chi"		"**警告：炸弹将于120秒后爆炸**"
 	}
 	"**  10 SECONDS LEFT **"
 	{
-		"chi"		"**warning:10 seconds left!!!**"
+		"chi"		"**警告：还剩10秒**"
 	}
 	"** RUN! **"
 	{
@@ -226,23 +226,23 @@
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
-		"chi"		"**warning:explosion in 130 seconds!!!**"
+		"chi"		"**警告：炸弹将于130秒后爆炸**"
 	}
 	"**  120 SECONDS LEFT **"
 	{
-		"chi"		"**warning:120 seconds left!!!**"
+		"chi"		"**警告：还剩120秒**"
 	}
 	"** 30 SECONDS LEFT **"
 	{
-		"chi"		"**warning:30 seconds left!!!**"
+		"chi"		"**警告：还剩30秒**"
 	}
 	"** 20 SECONDS LEFT **"
 	{
-		"chi"		"**warning:20 seconds left!!!**"
+		"chi"		"**警告：还剩20秒**"
 	}
 	"** 10 SECONDS LEFT **"
 	{
-		"chi"		"**warning:10 seconds left!!!**"
+		"chi"		"**警告：还剩10秒**"
 	}
 	"** ZOMBIES HAVE INFECTED THE BUNKER **"
 	{
@@ -267,7 +267,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告！巴哈姆特将要释放红终！准备好使用3级奶！！**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{

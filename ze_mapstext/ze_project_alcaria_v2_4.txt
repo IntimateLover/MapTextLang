@@ -207,7 +207,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -229,7 +229,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"11226"
+		"syncvalue"		"82017"
 	}
 	"### SUICIDE VEST ACTIVES IN 4 SECONDS ###"
 	{
@@ -354,6 +354,30 @@
 		"chi"		"** **"
 	}
 	"### MISSILES DETONADE IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### FREEZING WIND SKILL CASTING ###"
+	{
+		"chi"		"** **"
+	}
+	"### COME CLOSER CASTING  55 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  79 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  19 ###"
+	{
+		"chi"		"** **"
+	}
+	"III PLAYER HAS PICKED UP BIOBOMB III"
+	{
+		"chi"		"** **"
+	}
+	"### 5 SECONDS TO DETONATION ###"
 	{
 		"chi"		"** **"
 	}

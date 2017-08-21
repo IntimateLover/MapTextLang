@@ -36,11 +36,15 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Spawn area teleport activating in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Glacial Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -56,23 +60,23 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Round failed! Zombies have reached the objective! ***"
+	"*** Doors opening in 45 seconds ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Burning Orb has been acquired ***"
+	"*** Total destruction in 45 seconds ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Gust Orb has been acquired ***"
+	"*** Castle area teleport activating in 5 seconds ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Lightning Orb has been acquired ***"
+	"*** Stage completed! ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Glacial Orb has been acquired ***"
+	"*** STAGE II ***"
 	{
 		"chi"		"** **"
 	}
@@ -84,11 +88,59 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Doors opening in 45 seconds ***"
+	"*** Outer gate opening in 10 seconds ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Total destruction in 45 seconds ***"
+	"*** Lightning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Chapel lift leaving in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Windows breaking in 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors closing in 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Library lift leaving in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The tomb has been reached ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend the 4 statues for 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Total destruction in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Total destruction in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Kill any remaining zombies ***"
 	{
 		"chi"		"** **"
 	}

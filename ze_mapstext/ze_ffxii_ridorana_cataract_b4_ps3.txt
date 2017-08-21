@@ -1,0 +1,151 @@
+"Console_T"
+{
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图制作：HeadshooterSC & HaRyDe 地图翻译：蓬莱山帅比♪**"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身赛**"
+	}
+	"**ZE_FFXII_RIDORANA_CATARACT**"
+	{
+		"chi"		"**最终幻想12：里多拉纳大瀑布**"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"**普通难度**"
+	}
+	"**The gates will open in 20 seconds**"
+	{
+		"chi"		"**石制大门20秒后打开**"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"**石制大门30秒后打开**"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了冰冻法杖**"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了火焰法杖**"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"**铁门将在15秒后打开**"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"chi"		"**石制大门25秒后打开**"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了治疗法杖**"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了雷电法杖**"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了撺掇法杖**"
+	}
+	"**The random way will open in 25 seconds**"
+	{
+		"chi"		"**一条随机通道将在25秒后打开**"
+	}
+	"**The arena entrance will open in 30 seconds**"
+	{
+		"chi"		"**竞技场大门将在30秒后开启**"
+	}
+	"**The Hashmel is defeated!**"
+	{
+		"chi"		"**统治者哈修马利姆已死-逃出这里**"
+	}
+	"**Defend this way for 25 seconds**"
+	{
+		"chi"		"**坚守25秒**"
+	}
+	"**The final gates will open in 20 seconds**"
+	{
+		"chi"		"**最后大门将在20秒后打开**"
+	}
+	"**Hydro is dead! Run to to the platform!**"
+	{
+		"chi"		"**亥伊多已死-跑上平台**"
+	}
+	"** You have beaten NORMAL MODE! Congratulations! **"
+	{
+		"chi"		"** **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**The Hydro is defeated** **Keep running**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**The door will open in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold here for 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait before the airflow starts**"
+	{
+		"chi"		"** **"
+	}
+	"**The arena gates will open in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Oh no the sword dissapeared..We will back there next time..**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
+	{
+		"chi"		"** **"
+	}
+	"**You are too slow..**"
+	{
+		"chi"		"** **"
+	}
+	"**The final gates will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Is this over...or not?...**"
+	{
+		"chi"		"** **"
+	}
+	"** You have beaten HARD MODE! Congratulations! **"
+	{
+		"chi"		"** **"
+	}
+}

@@ -83,7 +83,7 @@
 	"<<< Defend at top of stairs for 35 seconds! >>>"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"<<< Climb!!! >>>"
 	{
@@ -147,7 +147,7 @@
 	}
 	"<<< Defend for 60 seconds! >>>"
 	{
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 		"chi"		"** **"
 	}
 	"<<< Disperse >>>"

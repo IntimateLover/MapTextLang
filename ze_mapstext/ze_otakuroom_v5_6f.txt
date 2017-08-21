@@ -498,7 +498,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"10042"
+		"syncvalue"		"49215"
 	}
 	"**[Admin]STAGE 2**"
 	{
@@ -521,10 +521,6 @@
 		"chi"		"** **"
 	}
 	"**Wait 5 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Special Thanks: GemaYue , uuz , ????????????, Jakka**"
 	{
 		"chi"		"** **"
 	}

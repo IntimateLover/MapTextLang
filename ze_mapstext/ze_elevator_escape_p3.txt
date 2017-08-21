@@ -11,7 +11,7 @@
 	"*** WATER CART LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"** 电车之狼号 将于 5秒后 开启 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***** HOLD THIS POSITION *****"
 	{
@@ -32,7 +32,7 @@
 	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
 	{
 		"chi"		"** 四路泰坦爆炸程序将于 60秒 后自毁 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"*** MAP BY JB_GAMBLE ***"
 	{
