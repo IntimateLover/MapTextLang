@@ -6,75 +6,75 @@
 	}
 	"#Mapper : sweetS  Special Thanks : Reflelia , Airvulpes , p0p#"
 	{
-		"chi"		"**µØÍ¼×÷Õß£ºsweetS  Special ÌØ±ğ¸ĞĞ»£ºReflelia , Airvulpes , p0p**"
+		"chi"		"**åœ°å›¾ä½œè€…ï¼šsweetS  Special ç‰¹åˆ«æ„Ÿè°¢ï¼šReflelia , Airvulpes , p0p**"
 	}
 	"#Map Idea : ze_gris , ze_dreamin mix LOL#"
 	{
-		"chi"		"**µØÍ¼Ïë·¨À´Ô´Óë£ºze_gris , ze_dreamin ¹ş¹ş **"
+		"chi"		"**åœ°å›¾æƒ³æ³•æ¥æºä¸ï¼šze_gris , ze_dreamin å“ˆå“ˆ **"
 	}
 	"#Thanks to help me , and playing this map.. Enjoy! #"
 	{
-		"chi"		"**¸ĞĞ»ÄãÃÇÍæÕâÕÅµØÍ¼..ÏíÊÜ°É£¡ **"
+		"chi"		"**æ„Ÿè°¢ä½ ä»¬ç©è¿™å¼ åœ°å›¾..äº«å—å§ï¼ **"
 	}
 	"#SORRY KUNE SORRY KUNE SORRY KUNE SORRY KUNE#"
 	{
-		"chi"		"**±§Ç¸KUNE±§Ç¸£¬KUNE±§Ç¸£¬KUNE **"
+		"chi"		"**æŠ±æ­‰KUNEæŠ±æ­‰ï¼ŒKUNEæŠ±æ­‰ï¼ŒKUNE **"
 	}
 	"#Open way in 30sec..#"
 	{
-		"chi"		"**µÀÂ·30Ãëºó¿ª·Å **"
+		"chi"		"**é“è·¯30ç§’åå¼€æ”¾ **"
 	}
 	"#Player picked up heal item#"
 	{
-		"chi"		"**Íæ¼ÒÄÃÆğÁËÖÎÁÆ **"
+		"chi"		"**ç©å®¶æ‹¿èµ·äº†æ²»ç–— **"
 	}
 	"#Open ways in 30sec..#"
 	{
-		"chi"		"**µÀÂ·30Ãëºó¿ª·Å **"
+		"chi"		"**é“è·¯30ç§’åå¼€æ”¾ **"
 	}
 	"#FALL BACK#"
 	{
-		"chi"		"**³·ÍË **"
+		"chi"		"**æ’¤é€€ **"
 	}
 	"#Player picked up fire item#"
 	{
-		"chi"		"**Íæ¼ÒÄÃÆğÁË»ğÉñÆ÷ **"
+		"chi"		"**ç©å®¶æ‹¿èµ·äº†ç«ç¥å™¨ **"
 	}
 	"#Floor break in 15sec..#"
 	{
-		"chi"		"**ĞİÏ¢15Ãë **"
+		"chi"		"**ä¼‘æ¯15ç§’ **"
 	}
 	"#Door open in 45sec..#"
 	{
-		"chi"		"**´óÃÅ45Ãëºó´ò¿ª **"
+		"chi"		"**å¤§é—¨45ç§’åæ‰“å¼€ **"
 	}
 	"#Teleport will enable in 5sec..#"
 	{
-		"chi"		"**´«ËÍ5ÃëºóÆô¶¯ **"
+		"chi"		"**ä¼ é€5ç§’åå¯åŠ¨ **"
 	}
 	"#You won difficulty Gris..#"
 	{
-		"chi"		"**ÄãÓ®ÁËGrisÄÑ¶È **"
+		"chi"		"**ä½ èµ¢äº†Griséš¾åº¦ **"
 	}
 	"#Jump push enable in 30seconds..#"
 	{
-		"chi"		"**30Ãëºó×¼±¸ÌøÔ¾ **"
+		"chi"		"**30ç§’åå‡†å¤‡è·³è·ƒ **"
 	}
 	"#Player picked up ice item#"
 	{
-		"chi"		"**Íæ¼ÒÄÃÆğÁË±ùÉñÆ÷ **"
+		"chi"		"**ç©å®¶æ‹¿èµ·äº†å†°ç¥å™¨ **"
 	}
 	"#Last defend 45 seconds for boss..#"
 	{
-		"chi"		"**ÊØ×¡45Ãë£¡È»ºó¿ªÊ¼BOSSÕ½ **"
+		"chi"		"**å®ˆä½45ç§’ï¼ç„¶åå¼€å§‹BOSSæˆ˜ **"
 	}
 	"#SHOOT BOSS..! #"
 	{
-		"chi"		"**Éä»÷BOSS **"
+		"chi"		"**å°„å‡»BOSS **"
 	}
 	"#Boss used Zombie Teleporter#"
 	{
-		"chi"		"**BOSSÊ¹ÓÃÁË½©Ê¬´«ËÍ **"
+		"chi"		"**BOSSä½¿ç”¨äº†åƒµå°¸ä¼ é€ **"
 		"ico"		"icon_fire"
 	}
 	"#Boss used Cocoball#"
@@ -83,31 +83,31 @@
 	}
 	"#Boss used Fire#"
 	{
-		"chi"		"**BOSSÊ¹ÓÃÁË»ğ **"
+		"chi"		"**BOSSä½¿ç”¨äº†ç« **"
 		"ico"		"icon_fire"
 	}
 	"#Boss used Wind#"
 	{
-		"chi"		"**BOSSÊ¹ÓÃÁË·ç **"
+		"chi"		"**BOSSä½¿ç”¨äº†é£ **"
 		"ico"		"icon_fire"
 	}
 	"#Boss used Rotating Blade#"
 	{
-		"chi"		"**BOSSÊ¹ÓÃÁËĞı×ªµ¶ **"
+		"chi"		"**BOSSä½¿ç”¨äº†æ—‹è½¬åˆ€ **"
 		"ico"		"icon_fire"
 	}
 	"#Boss used Jumper#"
 	{
-		"chi"		"**BOSSÊ¹ÓÃÁËÌøÔ¾Ïß **"
+		"chi"		"**BOSSä½¿ç”¨äº†è·³è·ƒçº¿ **"
 	}
 	"#Boss used Ice#"
 	{
-		"chi"		"**BOSSÊ¹ÓÃÁË±ù **"
+		"chi"		"**BOSSä½¿ç”¨äº†å†° **"
 		"ico"		"icon_fire"
 	}
 	"#Teleport enable in 120sec..#"
 	{
-		"chi"		"**´«ËÍ120ÃëºóÆô¶¯ **"
+		"chi"		"**ä¼ é€120ç§’åå¯åŠ¨ **"
 	}
 	"#Teleport enable in 90sec..#"
 	{
@@ -127,15 +127,15 @@
 	}
 	"***Zombie picked up Gravity***"
 	{
-		"chi"		"**½©Ê¬ÄÃÆğÁËºÚ¶´ **"
+		"chi"		"**åƒµå°¸æ‹¿èµ·äº†é»‘æ´ **"
 	}
 	"#Explode Dreamin in 45sec.. defend !#"
 	{
-		"chi"		"**ÃÎÏë±¬Õ¨Óë45Ãëºó...ÊØ×¡£¡ **"
+		"chi"		"**æ¢¦æƒ³çˆ†ç‚¸ä¸45ç§’å...å®ˆä½ï¼ **"
 	}
 	"#What the fuck..!? Bomb was not worked.. wait some more time.. !#"
 	{
-		"chi"		"**Ê²Ã´¹í£¿Õ¨µ¯Ã»ÓĞ¹¤×÷...ÊØ×¡¸ü³¤µÄÊ±¼ä **"
+		"chi"		"**ä»€ä¹ˆé¬¼ï¼Ÿç‚¸å¼¹æ²¡æœ‰å·¥ä½œ...å®ˆä½æ›´é•¿çš„æ—¶é—´ **"
 	}
 	"#Explode Deamin in 10sec..#"
 	{
@@ -143,6 +143,6 @@
 	}
 	"#Chapter 2 - Clear...#"
 	{
-		"chi"		"**µÚ¶şÕÂ-Çå³ı **"
+		"chi"		"**ç¬¬äºŒç« -æ¸…é™¤ **"
 	}
 }
