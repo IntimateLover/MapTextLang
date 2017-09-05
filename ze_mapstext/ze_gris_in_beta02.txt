@@ -6,75 +6,76 @@
 	}
 	"#Mapper : sweetS  Special Thanks : Reflelia , Airvulpes , p0p#"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：sweetS  Special 特别感谢：Reflelia , Airvulpes , p0p**"
 	}
 	"#Map Idea : ze_gris , ze_dreamin mix LOL#"
 	{
-		"chi"		"** **"
+		"chi"		"**地图想法来源与：ze_gris , ze_dreamin 哈哈 **"
 	}
 	"#Thanks to help me , and playing this map.. Enjoy! #"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢你们玩这张地图..享受吧！ **"
 	}
 	"#SORRY KUNE SORRY KUNE SORRY KUNE SORRY KUNE#"
 	{
-		"chi"		"** **"
+		"chi"		"**抱歉KUNE抱歉，KUNE抱歉，KUNE **"
 	}
 	"#Open way in 30sec..#"
 	{
-		"chi"		"** **"
+		"chi"		"**道路30秒后开放 **"
 	}
 	"#Player picked up heal item#"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了治疗 **"
 	}
 	"#Open ways in 30sec..#"
 	{
-		"chi"		"** **"
+		"chi"		"**道路30秒后开放 **"
 	}
 	"#FALL BACK#"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 **"
 	}
 	"#Player picked up fire item#"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了火神器 **"
 	}
 	"#Floor break in 15sec..#"
 	{
-		"chi"		"** **"
+		"chi"		"**休息15秒 **"
 	}
 	"#Door open in 45sec..#"
 	{
-		"chi"		"** **"
+		"chi"		"**大门45秒后打开 **"
 	}
 	"#Teleport will enable in 5sec..#"
 	{
-		"chi"		"** **"
+		"chi"		"**传送5秒后启动 **"
 	}
 	"#You won difficulty Gris..#"
 	{
-		"chi"		"** **"
+		"chi"		"**你赢了Gris难度 **"
 	}
 	"#Jump push enable in 30seconds..#"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后准备跳跃 **"
 	}
 	"#Player picked up ice item#"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了冰神器 **"
 	}
 	"#Last defend 45 seconds for boss..#"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒！然后开始BOSS战 **"
 	}
 	"#SHOOT BOSS..! #"
 	{
-		"chi"		"** **"
+		"chi"		"**射击BOSS **"
 	}
 	"#Boss used Zombie Teleporter#"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了僵尸传送 **"
+		"ico"		"icon_fire"
 	}
 	"#Boss used Cocoball#"
 	{
@@ -82,27 +83,31 @@
 	}
 	"#Boss used Fire#"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了火 **"
+		"ico"		"icon_fire"
 	}
 	"#Boss used Wind#"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了风 **"
+		"ico"		"icon_fire"
 	}
 	"#Boss used Rotating Blade#"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了旋转刀 **"
+		"ico"		"icon_fire"
 	}
 	"#Boss used Jumper#"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了跳跃线 **"
 	}
 	"#Boss used Ice#"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了冰 **"
+		"ico"		"icon_fire"
 	}
 	"#Teleport enable in 120sec..#"
 	{
-		"chi"		"** **"
+		"chi"		"**传送120秒后启动 **"
 	}
 	"#Teleport enable in 90sec..#"
 	{
@@ -122,15 +127,15 @@
 	}
 	"***Zombie picked up Gravity***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿起了黑洞 **"
 	}
 	"#Explode Dreamin in 45sec.. defend !#"
 	{
-		"chi"		"** **"
+		"chi"		"**梦想爆炸与45秒后...守住！ **"
 	}
 	"#What the fuck..!? Bomb was not worked.. wait some more time.. !#"
 	{
-		"chi"		"** **"
+		"chi"		"**什么鬼？炸弹没有工作...守住更长的时间 **"
 	}
 	"#Explode Deamin in 10sec..#"
 	{
@@ -138,6 +143,6 @@
 	}
 	"#Chapter 2 - Clear...#"
 	{
-		"chi"		"** **"
+		"chi"		"**第二章-清除 **"
 	}
 }
