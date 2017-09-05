@@ -2,47 +2,47 @@
 {
 	">> Door Opens in 30 Seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后打开 **"
 	}
 	">> Door opens in 35 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门35秒后打开 **"
 	}
 	">> Split into two teams! find the buttons to help the other team escape!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要在这里分开了！去找到按钮帮助对方！ **"
 	}
 	">> AFK TELEPORT ACTIVATES IN 15 SECONDS! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家15秒后传送 **"
 	}
 	">> Vent will break in 40 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**通风口将在40秒后破碎 **"
 	}
 	">> Reinforced Bunker door opens 28 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**强化过的地堡大门将在28秒后打开 **"
 	}
 	">> HOLD! Elevator leaves in 30 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！电梯将在30秒后离开 **"
 	}
 	">> Vent will break in 35 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**通风口将在35秒后破碎 **"
 	}
 	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸已进入安全区！你输了！ **"
 	}
 	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**最后大门将在20秒后关闭 **"
 	}
 	">> MAP COMPLETED, CONGRATULATIONS! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图已通关，恭喜！ **"
 	}
 	"sync_version"
 	{
@@ -50,35 +50,35 @@
 	}
 	">> Reinforced Bunker door opens 25 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**强化过的地堡大门将在25秒后打开 **"
 	}
 	">> SECURITY DOOR OPENS IN 15 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**安全门将在15秒后打开 **"
 	}
 	">> OUTER BUNKER DOOR OPENS IN 15 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**外仓门将在15秒后打开 **"
 	}
 	">> HOLD 10 SECONDS WHILST WE GET THIS DOOR CLOSED! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！这扇门将在10秒后关闭 **"
 	}
 	">> WATCH OUT! DANGER AHEAD! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**小心!前方危险! **"
 	}
 	">> GOOD JOB! ZOMBIES INCOMING!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**干得漂亮！僵尸来了！！ **"
 	}
 	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**在核弹袭击之前，上直升机! **"
 	}
 	">> NUKE INBOUND IN 35 SECONDS! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹35秒后来袭 **"
 	}
 	">>> GET BACK OR GET FUCKED! <<<"
 	{
@@ -86,14 +86,14 @@
 	}
 	">> ZOMBIES INCOMING! 10 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后来袭 **"
 	}
 	">>> EXIT BREAKS IN 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**出口20秒后开启 **"
 	}
 	">> NUKE INBOUND IN 45 SECONDS! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹45秒后来袭 **"
 	}
 }
