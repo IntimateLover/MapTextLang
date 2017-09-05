@@ -47,12 +47,12 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"** 还剩20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
 		"chi"		"**洞穴的路将于20秒内开放！ **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
@@ -89,7 +89,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -126,7 +126,7 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒内打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Door will open in 5 seconds **"
 	{
@@ -135,7 +135,7 @@
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要坚守小镇45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -271,7 +271,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"26386"
+		"syncvalue"		"86421"
 	}
 	"***!!! THIS IS A WARMUP ROUND !!!***"
 	{
@@ -309,7 +309,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -361,10 +361,6 @@
 	{
 		"chi"		"** **"
 	}
-	"*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
-	{
-		"chi"		"** **"
-	}
 	"***25 SECONDS LEFT***"
 	{
 		"chi"		"** **"
@@ -378,6 +374,10 @@
 		"chi"		"** **"
 	}
 	"***DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
 	{
 		"chi"		"** **"
 	}
@@ -402,6 +402,14 @@
 		"chi"		"** **"
 	}
 	"***30 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND DOOR WILL OPEN IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND DOOR WILL OPEN IN 5 SECONDS***"
 	{
 		"chi"		"** **"
 	}

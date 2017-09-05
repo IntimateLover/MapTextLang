@@ -3,7 +3,7 @@
 	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
 	{
 		"chi"		"**Diddlery将在30秒后开始**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
 	{
@@ -88,7 +88,7 @@
 	"*Defend for 30 seconds*"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*Elevator Activating in 10 seconds*"
 	{
@@ -201,7 +201,7 @@
 	"*Wall 1 breaks in 40 seconds*"
 	{
 		"chi"		"**1号墙40秒后破碎**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***SACRIFICE YOUR LOVE***"
 	{
@@ -607,10 +607,10 @@
 	{
 		"chi"		"**已购买-守护者**"
 	}
-	"***Defend for 20 seconds***"
+	"***DEFEND FOR 20 SECONDS***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***PURCHASED - BIG GUARDIAN***"
 	{
@@ -651,7 +651,7 @@
 	"***DEFEND FOR 40 SECONDS***"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***ELEVATOR LEAVES IN 10 SECONDS***"
 	{
@@ -668,7 +668,7 @@
 	"***DEFEND FOR 60 SECONDS***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"***30 SECONDS LEFT***"
 	{
@@ -685,7 +685,7 @@
 	"***DEFEND FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"***JUMP INSIDE THE DOODLE DOODY***"
 	{
@@ -870,7 +870,7 @@
 	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
 	{
 		"chi"		"**这个门将在40秒后打开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
 	{
@@ -923,7 +923,7 @@
 	"***HOLD THEM OFF FOR 30 SECONDS***"
 	{
 		"chi"		"**守住他们30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***RUN***"
 	{
@@ -1153,7 +1153,7 @@
 	{
 		"chi"		"**已购买-推力枪**"
 	}
-	"***RESETTING THE MAP***"
+	"***Resetting the map***"
 	{
 		"chi"		"**重置地图**"
 	}
@@ -1247,7 +1247,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"58223"
+		"syncvalue"		"5626"
 	}
 	"zombie ladder is open"
 	{
@@ -1345,31 +1345,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
-	{
-		"chi"		"** **"
-	}
-	"hold 15sec"
-	{
-		"chi"		"** **"
-	}
 	"defend for 30 sec"
-	{
-		"chi"		"** **"
-	}
-	"<==Get in the helicopter and out in 80s ==>"
-	{
-		"chi"		"** **"
-	}
-	"<==helicopter fly out in 30s ==>"
-	{
-		"chi"		"** **"
-	}
-	"<==helicopter fly out in 15s ==>"
-	{
-		"chi"		"** **"
-	}
-	"<==helicopter fly out in 5s ==>"
 	{
 		"chi"		"** **"
 	}
@@ -1393,11 +1369,35 @@
 	{
 		"chi"		"** **"
 	}
+	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
+	{
+		"chi"		"** **"
+	}
 	"***DEFEND FOR 50 SECONDS***"
 	{
 		"chi"		"** **"
 	}
-	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
+	"<==Get in the helicopter and out in 80s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 30s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 15s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 5s ==>"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
+	{
+		"chi"		"** **"
+	}
+	"hold 15sec"
 	{
 		"chi"		"** **"
 	}
@@ -1406,10 +1406,6 @@
 		"chi"		"** **"
 	}
 	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
-	{
-		"chi"		"** **"
-	}
-	"***YOU TOOK TOO LONG - RELEASING ZOMBIES***"
 	{
 		"chi"		"** **"
 	}

@@ -19,12 +19,12 @@
 	"***Outdoor Tram Starting in 5 Seconds***"
 	{
 		"chi"		"**露天列车在5秒后离开**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Rocket Lift Leaving In 10 Seconds***"
 	{
 		"chi"		"**火箭电梯在10秒后离开**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"<Rocket Launch In 30 Seconds>"
 	{
@@ -60,6 +60,14 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"37100"
+		"syncvalue"		"92124"
+	}
+	"***Outdoor Tram Starting in 45 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Outdoor Tram Starting in 30 Seconds***"
+	{
+		"chi"		"** **"
 	}
 }

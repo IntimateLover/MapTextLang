@@ -32,11 +32,11 @@
 	{
 		"chi"		"** **"
 	}
-	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
+	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
 	{
 		"chi"		"** **"
 	}
-	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
+	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
 	{
 		"chi"		"** **"
 	}
@@ -46,7 +46,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"80252"
+		"syncvalue"		"47289"
 	}
 	">> Reinforced Bunker door opens 25 seconds <<"
 	{
@@ -85,14 +85,6 @@
 		"chi"		"** **"
 	}
 	">> ZOMBIES INCOMING! 10 SECONDS <<"
-	{
-		"chi"		"** **"
-	}
-	">>> EXIT BREAKS IN 20 SECONDS <<<"
-	{
-		"chi"		"** **"
-	}
-	">> NUKE INBOUND IN 45 SECONDS! <<"
 	{
 		"chi"		"** **"
 	}

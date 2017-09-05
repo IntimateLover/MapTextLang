@@ -31,8 +31,9 @@
 	"***THE ELEVATOR STARTS IN 30 SECONDS***"
 	{
 		"chi"		"** 电梯将于30秒后启动**"
+		"DoorCountDown"		"30"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"**剩余10秒**"
 	}
@@ -90,11 +91,11 @@
 	}
 	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须在离开之前激活3个炸弹**"
 	}
 	"***THE CARGO LIFT IS HERE***"
 	{
-		"chi"		"** **"
+		"chi"		"**货物升降机在这边**"
 	}
 	"***GET IN NUMBNUTS!***"
 	{
@@ -102,11 +103,12 @@
 	}
 	"***THE PODS ARE LEAVING IN 2 MINUTES***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船2分钟后起飞**"
+		"DoorCountDown"		"120"
 	}
 	"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
 	{
-		"chi"		"** **"
+		"chi"		"**制定你的防御攻势以让你安全逃脱**"
 	}
 	"***GO!***"
 	{
@@ -114,50 +116,50 @@
 	}
 	"***OPENING POD DOORS***"
 	{
-		"chi"		"** **"
+		"chi"		"**舱门打开**"
 	}
 	"***PODS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船10秒后离开**"
 	}
 	"***CLOSING POD DOORS***"
 	{
-		"chi"		"** **"
+		"chi"		"**舱门关闭**"
 	}
 	"***PODS ARE LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船离开**"
 	}
 	"***ZOMBIES DETECTED IN POD 3***"
 	{
-		"chi"		"** **"
+		"chi"		"**在3号飞船中发现僵尸**"
 	}
 	"***ZOMBIES DETECTED IN POD 4***"
 	{
-		"chi"		"** **"
+		"chi"		"**在2号飞船中发现僵尸**"
 	}
 	"***POD 3 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船3号大门5秒后打开**"
 	}
 	"***POD 4 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船4号大门5秒后打开**"
 	}
 	"***ZOMBIES DETECTED IN POD 2***"
 	{
-		"chi"		"** **"
+		"chi"		"**在2号飞船中发现僵尸**"
 	}
 	"***POD 2 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船2号大门5秒后打开**"
 	}
 	"***ZOMBIES DETECTED IN POD 1***"
 	{
-		"chi"		"** **"
+		"chi"		"**在1号飞船中发现僵尸**"
 	}
 	"***POD 1 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船1号大门5秒后打开**"
 	}
 }

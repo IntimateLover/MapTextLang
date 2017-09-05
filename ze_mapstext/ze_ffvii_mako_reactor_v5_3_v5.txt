@@ -117,6 +117,7 @@
 	"**  80 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩80秒**"
+		"DoorCountdown"		"10"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
@@ -239,6 +240,7 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩20秒**"
+		"DoorCountdown"		"20"
 	}
 	"** 10 SECONDS LEFT **"
 	{
@@ -369,5 +371,12 @@
 	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_molotov_limit 0"
+		}
 	}
 }

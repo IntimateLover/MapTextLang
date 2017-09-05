@@ -8,7 +8,7 @@
 	{
 		"chi"		"20秒后爆破"
 	}
-	"DoorCountdown"		"20"
+	"DoorCountDown"		"20"
 	"-=[ Detonation in 5 seconds ]=-"
 	{
 		"chi"		"5秒后爆破"
@@ -81,7 +81,7 @@
 	{
 		"chi"		"船90秒后离开"
 	}
-	"DoorCountdown"		"90"
+	"DoorCountDown"		"90"
 	"-=[ Command exit opening in 60 seconds ]=-"
 	{
 		"chi"		"出口60秒后开放"
@@ -109,7 +109,7 @@
 	"-=[ Boats ready in 30 seconds... ]=-"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"-=[ Boats ready in 10 seconds... ]=-"
 	{
@@ -128,6 +128,10 @@
 		"chi"		"** **"
 	}
 	"-=[ Nuke detonation in 5 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

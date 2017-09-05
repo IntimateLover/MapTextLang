@@ -8,6 +8,14 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Door opens in 18 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"--- RESIST 15 SECONDS ---"
+	{
+		"chi"		"** **"
+	}
 	"--- TRAM LEAVES IN 10 SECONDS ---"
 	{
 		"chi"		"** **"
@@ -56,14 +64,6 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Door opens in 18 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"--- RESIST 15 SECONDS ---"
-	{
-		"chi"		"** **"
-	}
 	"*** A helicopter is waiting at the helipad ***"
 	{
 		"chi"		"** **"
@@ -104,15 +104,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Nuke inbound ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 10 seconds untill explosion ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Door Opens in 15 seconds ***"
+	"*** Door opens in 15 seconds ***"
 	{
 		"chi"		"** **"
 	}

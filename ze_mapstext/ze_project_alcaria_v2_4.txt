@@ -207,7 +207,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -229,7 +229,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"82017"
+		"syncvalue"		"11226"
 	}
 	"### SUICIDE VEST ACTIVES IN 4 SECONDS ###"
 	{
@@ -357,11 +357,7 @@
 	{
 		"chi"		"** **"
 	}
-	"### FREEZING WIND SKILL CASTING ###"
-	{
-		"chi"		"** **"
-	}
-	"### COME CLOSER CASTING  55 ###"
+	"### FIRE SKILL CASTING  19 ###"
 	{
 		"chi"		"** **"
 	}
@@ -369,7 +365,23 @@
 	{
 		"chi"		"** **"
 	}
-	"### FIRE SKILL CASTING  19 ###"
+	"### FREEZING WIND SKILL CASTING ###"
+	{
+		"chi"		"** **"
+	}
+	"###  FIRE SKILL CASTING  73 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  93 ###"
+	{
+		"chi"		"** **"
+	}
+	"### COME CLOSER CASTING  55 ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  13 ###"
 	{
 		"chi"		"** **"
 	}
@@ -378,6 +390,10 @@
 		"chi"		"** **"
 	}
 	"### 5 SECONDS TO DETONATION ###"
+	{
+		"chi"		"** **"
+	}
+	"### MISSILES DETONADE IN 15 SECONDS ###"
 	{
 		"chi"		"** **"
 	}

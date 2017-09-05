@@ -127,7 +127,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"31849"
+		"syncvalue"		"38242"
 	}
 	"***Snow picked up***"
 	{
@@ -293,7 +293,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***HOLD 30 SECONDS***"
+	"***Hold 30 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -302,10 +302,6 @@
 		"chi"		"** **"
 	}
 	"***FAILED***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

@@ -16,4 +16,20 @@
 	{
 		"chi"		"** **"
 	}
+	"++ ESCAPE LIFT 1 ARRIVED ++"
+	{
+		"chi"		"** **"
+	}
+	"++ LIFT DOOR 1 OPENING UP ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
 }

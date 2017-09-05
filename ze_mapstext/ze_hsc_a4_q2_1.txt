@@ -1,0 +1,65 @@
+"Console_T"
+{
+	"DOOR OPENS IN 35 SECONDS"
+	{
+		"DoorCountdown"		"35"
+		"chi"		"**门还有35秒开启**"
+	}
+	"DOOR WILL OPEN IN 25 SECONDS"
+	{
+		"DoorCountdown"		"25"
+	}
+	"THE DOOR WILL OPEN IN 30 SECONDS"
+	{
+		"DoorCountdown"		"30"
+	}
+	"THE DOOR WILL OPEN IN 20 SECONDS"
+	{
+		"DoorCountdown"		"20"
+	}
+	"A WAY WILL OPEN IN 15 SECONDS"
+	{
+		"DoorCountdown"		"15"
+	}
+	"A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
+	{
+		"DoorCountdown"		"25"
+		"chi"		"**两边的路25秒后开启，保持防御**"
+	}
+	"ELEVATOR WILL RISE IN 30 SECONDS"
+	{
+		"DoorCountdown"		"30"
+	}
+	"THE NEXT DOORS WILL OPEN IN 15 SECONDS"
+	{
+		"DoorCountdown"		"15"
+	}
+	"ELEVATOR WILL RISE IN 15 SECONDS"
+	{
+		"DoorCountdown"		"15"
+	}
+	"THE DOORS WILL OPEN IN 30 SECONDS"
+	{
+		"DoorCountdown"		"30"
+	}
+	"MAP BY GEORGE"
+	{
+		"chi"		"** **"
+	}
+	"STAGE 1 - HYPER SPACE CUBE"
+	{
+		"chi"		"** **"
+	}
+	"THANKS TO LUFFAREN"
+	{
+		"chi"		"** **"
+	}
+	"THIS MAP IS IN ALPHA. THERE ARE ONLY TWO STAGES BUILT CURRENTLY."
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"59575"
+	}
+}

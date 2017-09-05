@@ -311,7 +311,7 @@
 	"		"**"
 		"To"		"the"
 		"top"		"of"
-		"The"		"tip"
+		"the"		"tip"
 		"in"		"the"
 		"blue"		"of"
 		"a"		"fish"
@@ -356,7 +356,7 @@
 	}
 	"		"**"
 		"I"		"WANT"
-		"The"		"MAP"
+		"the"		"MAP"
 		"To"		"END!"
 		"**"		"
 	{
@@ -474,7 +474,11 @@
 	{
 		"chi"		"** **"
 	}
-	"** Map: 7 - People that make their mom ashamed with their stupidity: 0 **"
+	"** Map: 11 - People that make their mom ashamed with their stupidity: 0 **"
+	{
+		"chi"		"** **"
+	}
+	"** Map: 9 - People that make their mom ashamed with their stupidity: 0 **"
 	{
 		"chi"		"** **"
 	}
@@ -506,7 +510,7 @@
 	{
 		"chi"		"** **"
 	}
-	"** Map: 4 - People that make their mom ashamed with their stupidity: 0 **"
+	"** Map: 16 - People that make their mom ashamed with their stupidity: 0 **"
 	{
 		"chi"		"** **"
 	}

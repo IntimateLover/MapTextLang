@@ -33,7 +33,7 @@
 		"chi"		"**守住这里-直到守卫打开走廊通道**"
 		"DoorCountDown"		"30"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -465,7 +465,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"84831"
+		"syncvalue"		"89573"
 	}
 	"** Zombies Have Escaped **"
 	{

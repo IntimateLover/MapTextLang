@@ -24,11 +24,23 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Lightning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
 	"*** WARMUP - 10 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
 	"*** WARMUP OVER - RESTARTING ROUND ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Divine Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -44,7 +56,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Glacial Orb has been acquired ***"
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gust Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -53,6 +69,10 @@
 		"chi"		"** **"
 	}
 	"*** Bridge area teleport activating in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Burning Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -72,6 +92,10 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"chi"		"** **"
+	}
 	"*** Stage completed! ***"
 	{
 		"chi"		"** **"
@@ -80,23 +104,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Divine Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Abyssal Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
 	"*** Outer gate opening in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Lightning Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Gust Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
@@ -109,14 +117,6 @@
 		"chi"		"** **"
 	}
 	"*** Doors closing in 45 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Burning Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Round failed! Zombies have reached the objective! ***"
 	{
 		"chi"		"** **"
 	}
@@ -133,14 +133,6 @@
 		"chi"		"** **"
 	}
 	"*** Total destruction in 30 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Total destruction in 5 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Kill any remaining zombies ***"
 	{
 		"chi"		"** **"
 	}

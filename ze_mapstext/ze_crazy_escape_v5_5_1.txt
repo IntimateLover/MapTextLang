@@ -574,7 +574,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"250"
+		"syncvalue"		"52408"
 	}
 	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 10 SECONDS ###"
 	{
@@ -620,7 +620,7 @@
 	{
 		"chi"		"** **"
 	}
-	"### HOLD HERE FOR 30 SECONDS ###"
+	"### Hold here for 30 seconds ###"
 	{
 		"chi"		"** **"
 	}

@@ -7,7 +7,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 20 seconds left ***"
 	{
@@ -20,25 +20,25 @@
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"1333"
+		"syncvalue"		"91451"
 	}
 	"*** Hold 40 seconds ***"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** 30 seconds left ***"
 	{
@@ -87,7 +87,7 @@
 	"*** Hold 10 seconds ***"
 	{
 		"chi"		"**守住10秒**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** Hold 5 seconds ***"
 	{
@@ -95,7 +95,7 @@
 	}
 	"*** 100 ***"
 	{
-		"DoorCountdown"		"100"
+		"DoorCountDown"		"100"
 	}
 	"*** 90 ***"
 	{
@@ -145,7 +145,31 @@
 	{
 		"0"
 		{
-			"cvar"		"mp_timelimit 60"
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"1"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 7"
+		}
+		"2"
+		{
+			"cvar"		"sm_decoy_limit 1"
+		}
+		"3"
+		{
+			"cvar"		"sm_smoke_limit 3"
+		}
+		"4"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"5"
+		{
+			"cvar"		"sm_taggrenade_limit 0"
+		}
+		"6"
+		{
+			"cvar"		"sm_he_limit 3"
 		}
 	}
 }

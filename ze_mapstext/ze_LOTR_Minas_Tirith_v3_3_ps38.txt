@@ -90,8 +90,8 @@
 	}
 	"** RESIST 20 SECONDS! **"
 	{
-		"chi"		"**守住22秒**"
-		"DoorCountdown"		"22"
+		"chi"		"**守住23秒**"
+		"DoorCountdown"		"23"
 	}
 	"** RETREAT !! RIVER ZONE IS LOST **"
 	{
@@ -402,7 +402,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"27818"
+		"syncvalue"		"6154"
 	}
 	"** This is the first round. Wait for more players to restart round or suicide. **"
 	{

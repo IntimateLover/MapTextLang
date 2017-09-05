@@ -4,10 +4,10 @@
 	{
 		"chi"		"**地图制作：kune **"
 	}
-	"*** 20 SECONDS LEFT ***"
+	"*** 20 seconds left ***"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 seconds left ***"
 	{
@@ -16,17 +16,17 @@
 	"*** 15 seconds left ***"
 	{
 		"chi"		"**还剩15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** 25 seconds left ***"
 	{
 		"chi"		"**还剩25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** 30 seconds left ***"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Hold here ***"
 	{
@@ -42,7 +42,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"69246"
+		"syncvalue"		"4412"
 	}
 	"*** LEVEL2 ***"
 	{
@@ -51,12 +51,12 @@
 	"*** 40 seconds left ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** 45 seconds left ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*** TEST ***"
 	{
