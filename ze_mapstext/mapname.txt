@@ -86,7 +86,7 @@
 		"chi"		"废弃工厂大撤离"
 		"credit"		"400"
 	}
-	"ze_apollo_e1"
+	"ze_Apollo_p"
 	{
 		"chi"		"阿波罗登月计划"
 		"credit"		"700"
@@ -729,7 +729,7 @@
 		"chi"		"建筑工地"
 		"credit"		"400"
 	}
-	"ze_crazy_escape_v5_5"
+	"ze_crazy_escape_v5_5_1"
 	{
 		"chi"		"疯狂大逃亡"
 		"credit"		"400"
@@ -1229,7 +1229,7 @@
 	}
 	"ze_blackmesa_remix_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"黑山基地_多路线逃亡"
 	}
 	"ze_exchange_innovation_v1b_n"
 	{
@@ -1405,7 +1405,7 @@
 	{
 		"chi"		"末日逃生"
 	}
-	"ze_dreamin_v1_9"
+	"ze_dreamin_v1_9_1"
 	{
 		"chi"		"梦想"
 		"credit"		"700"
@@ -1445,7 +1445,7 @@
 	{
 		"chi"		"斯基利弗树林遗迹"
 	}
-	"ze_unknown_underground_a2_4"
+	"ze_unknown_underground_a2_7"
 	{
 		"chi"		"未知的秘密工厂"
 	}
@@ -1473,7 +1473,7 @@
 		"chi"		"传说之下"
 		"credit"		"500"
 	}
-	"ze_luck_matters_v2f"
+	"ze_luck_matters_v2h"
 	{
 		"chi"		"运气很重要"
 		"credit"		"500"
@@ -1568,8 +1568,8 @@
 	}
 	"ze_paranoid_rezurrection_v11_9_th10"
 	{
-		"chi"		"游乐园: 重装上阵"
-		"credit"		"700"
+		"chi"		"游乐园：重装上阵"
+		"credit"		"20000"
 	}
 	"ze_parkers_pit_b8_ps4"
 	{
@@ -1620,11 +1620,11 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_c16"
+	"ze_deadcore_c17"
 	{
 		"chi"		"死亡核心"
 	}
-	"ze_surf_froyo_v1_4"
+	"ze_surf_froyo_v1_6"
 	{
 		"chi"		"滑翔大冒险"
 	}
@@ -1666,7 +1666,7 @@
 	}
 	"ze_pizzatime_v4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"披萨时间"
 	}
 	"ze_grau_a01_0"
 	{
@@ -1674,7 +1674,7 @@
 	}
 	"ze_apocatastasis_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终剿匪"
 	}
 	"ze_whothefuckiam_v2_4"
 	{
@@ -1682,7 +1682,7 @@
 	}
 	"ze_Death_Valley_b1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"死亡山谷"
 	}
 	"ze_blocky_mess_b2"
 	{
@@ -1702,33 +1702,23 @@
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
-	"ze_LOTR_Minas_Tirith_v3_3_ps38"
+	"ze_lotr_minas_tirith_v3_3_ps39"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
-	}
-	"ze_whothefuckiam_v2_4"
-	{
-		"chi"		"此地图暂无译名"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 	"ze_percocet_v5"
 	{
 		"chi"		"止痛"
 	}
-	"ze_fire_temple_v2_2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_diddle_v3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_hsc_a3_rc2_1"
-	{
-		"chi"		"方块世界3"
-	}
 	"ze_infiltration_final_r1"
 	{
 		"chi"		"此地图暂无译名"
+	}
+	"ze_hsc_a4_q2_1"
+	{
+		"chi"		"方块世界3"
 	}
 	"ze_licciana_escape_zrgbr_b3"
 	{
@@ -1742,7 +1732,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffxii_westersand_v8zeta1_x12"
+	"ze_ffxii_westersand_v8zeta1_x14"
 	{
 		"chi"		"最终幻想12：西沙v8"
 	}
@@ -1754,23 +1744,39 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_gris_v1_11f5"
+	"ze_alien_mountain_escape_ffvii_v5"
 	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_tomb_temple_v1_1"
-	{
-		"chi"		"坟头神庙"
+		"chi"		"外星人高山逃亡：最终幻想7"
 	}
 	"ze_vertigo_militia_b1_3_14"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_castlevania_p1_2"
+	"ze_castlevania_p1_7"
 	{
 		"chi"		"恶魔城：整装待发"
 	}
 	"ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3"
+	{
+		"chi"		"我闻到了黑魔法的味道"
+	}
+	"ze_gris_in_beta02"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_escape_horizon_p2"
+	{
+		"chi"		"逃离地平线"
+	}
+	"ze_lolxd_final_fix_iswear_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fire_temple_v2_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ShroomForest3_p"
 	{
 		"chi"		"此地图暂无译名"
 	}
