@@ -1,0 +1,119 @@
+"Console_T"
+{
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ground door opens in 50 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ground door opens in 10 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The inner wall is broken fall back! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< The outer wall is broken fall back! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Tomb door opening in 45 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< First water gate breaks in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Blue door opens in 15 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 25 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Hall door opens in 105 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Back to main hall! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Hall door opens in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Last door opens in 70 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Last door opens in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Last door_closes in 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Almighty Pull >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Incinerate >>>"
+	{
+		"chi"		">>>火焰<<<"
+	}
+	"<<< Congrats you beat the map!!! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Freeze >>>"
+	{
+		"chi"		">>>寒冰<<<"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"67839"
+	}
+	"<<< Tomb door opening >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport to cage in 25 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Map made by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Defend for 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Box will break in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SHOOT CRYSTAL!!!! >>>"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+}

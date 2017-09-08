@@ -807,4 +807,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Wait for 10s until the box breaks!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 25s!***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,579 @@
+"Console_T"
+{
+	">> Special Thanks to nano <<"
+	{
+		"chi"		">>>特别感谢:nano<<<"
+	}
+	">> Thanks to Unloze and GFLClan.ru <<"
+	{
+		"chi"		">>>感谢:Unloze和GFLClanru<<<"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		">>>热身赛<<<"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		">>>还剩40秒<<<"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		">>>还剩30秒<<<"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		">>>还剩20秒<<<"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		">>>还剩10秒<<<"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		">>>热身赛已结束<<<"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		">>>地图制作：TaskuVaras & Moltard 地图翻译：蓬莱山帅比♪<<<"
+	}
+	">> LEVEL: DEAD TREE <<"
+	{
+		"chi"		">>>关卡：枯死的树<<<"
+	}
+	"*** Door opening in 20 seconds ***"
+	{
+		"chi"		"**大门20秒后打开**"
+		"DoorCountdown"		"20"
+	}
+	"*** Door is open!!! ***"
+	{
+		"chi"		"**大门打开**"
+	}
+	"*** Door opening in 30 seconds ***"
+	{
+		"chi"		"**大门30秒后打开**"
+		"DoorCountdown"		"30"
+	}
+	"*** Door opening in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	"*** Door is open! RUN!! ***"
+	{
+		"chi"		"**门开了! 快跑!**"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		">>>一位玩家拿起冰神器<<<"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend for 30 seconds ***"
+	{
+		"chi"		"**守住30秒**"
+		"DoorCountdown"		"30"
+	}
+	">> OH NO!! ITS THE KNIGHT <<"
+	{
+		"chi"		">>>哦不! 是守护骑士<<<"
+	}
+	">> PLAYER HAS PICKED UP ELECTRO <<"
+	{
+		"chi"		">>>一位玩家拿起了电神器<<<"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		">>>一位玩家拿起了奶神器<<<"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"chi"		">>>一位玩家拿起了无限弹药<<<"
+	}
+	">> THE KNIGHT HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		">>>骑士被击败了!!<<<"
+	}
+	"*** Castle Gate is opening ***"
+	{
+		"chi"		"**城堡大门开启**"
+	}
+	"*** Gate opening in 25 seconds ***"
+	{
+		"chi"		"**大门25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"*** Gate opening in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		">>>一位玩家拿起重力神器<<<"
+	}
+	">> THE LADDER IS BROKEN <<"
+	{
+		"chi"		">>>梯子坏了<<<"
+	}
+	">> FIND 1 RUNG TO FIX IT <<"
+	{
+		"chi"		">>>找到一个木棍来修复它<<<"
+	}
+	">> A PLAYER HAS FOUND A LADDER RUNG <<"
+	{
+		"chi"		">>>一位玩家已找到木棍<<<"
+	}
+	">> DEFEND WHILE WE REPAIR THE LADDER <<"
+	{
+		"chi"		">>>当我们把梯子修好时,你们需要防守一会<<<"
+	}
+	">> THE LADDER IS FIXED ! <<"
+	{
+		"chi"		">>>木棍已固定上去<<<"
+	}
+	">> RUN !!!! <<"
+	{
+		"chi"		">>>跑!<<<"
+	}
+	"*** RESCUE DRAGON LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"**来救援你们的龙已经等的不耐烦了,它将在15秒后离开**"
+		"DoorCountdown"		"15"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		">>>关卡通过<<<"
+	}
+	">> LEVEL: CAVES <<"
+	{
+		"chi"		">>>关卡:洞穴<<<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		">>>一位玩家拿起风神器<<<"
+	}
+	"*** Defend until the path is clear ***"
+	{
+		"chi"		"**防守,直到道路出现**"
+	}
+	"*** The path is open! RUN!! ***"
+	{
+		"chi"		"**道路出现了!跑!!**"
+	}
+	"*** Defend for 20 seconds ***"
+	{
+		"chi"		"**守住20秒**"
+		"DoorCountdown"		"20"
+	}
+	"*** Defend for 5 seconds ***"
+	{
+		"chi"		"**守住5秒**"
+	}
+	">> OH NO!! ITS THE SPOOKY SCARY SKELETONS <<"
+	{
+		"chi"		">>>哦不！可怕的骷髅<<<"
+	}
+	">> KILL THEM BEFORE ITS TOO LATE <<"
+	{
+		"chi"		">>>在一切变得太晚之前杀了他们<<<"
+	}
+	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
+	{
+		"chi"		">>>骷髅被打败了! ! !<<<"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"chi"		"**一位玩家发现了钥匙**"
+	}
+	"*** THE WAY IS OPEN! RUUUN! ***"
+	{
+		"chi"		"**门开了!!跑!!!!!**"
+	}
+	"*** LIFT LEAVING IN 15 seconds ***"
+	{
+		"chi"		"**电梯在15秒后离开**"
+	}
+	"*** LIFT LEAVING IN 5 seconds ***"
+	{
+		"chi"		"**电梯在5秒后离开**"
+	}
+	">> LEVEL: POKEBALL <<"
+	{
+		"chi"		">>>关卡:宠物小精灵<<<"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"chi"		"**电梯在20秒后离开**"
+		"DoorCountdown"		"20"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"chi"		"**电梯在5秒后离开**"
+	}
+	">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<"
+	{
+		"chi"		">>>一位玩家拿起火精灵球<<<"
+	}
+	"*** Tunnel opening in 20 seconds ***"
+	{
+		"chi"		"**隧道20秒后开放**"
+		"DoorCountdown"		"20"
+	}
+	"*** Tunnel opening in 5 seconds ***"
+	{
+		"chi"		"**隧道5秒后开放**"
+	}
+	"*** Guard House opening in 30 seconds ***"
+	{
+		"chi"		"**警卫室30秒后开放**"
+		"DoorCountdown"		"30"
+	}
+	"*** Guard House opening in 5 seconds ***"
+	{
+		"chi"		"**警卫室5秒后开放**"
+	}
+	"*** Gym opening in 20 seconds ***"
+	{
+		"chi"		"**健身房20秒后开放**"
+		"DoorCountdown"		"20"
+	}
+	"*** Gym opening in 5 seconds ***"
+	{
+		"chi"		"**健身房5秒后开放**"
+	}
+	"*** RUN INTO THE GYM !!!! ***"
+	{
+		"chi"		"**跑进健身房！！！！**"
+	}
+	"*** YOU WOKE UP SNORLAX ***"
+	{
+		"chi"		"**醒来吧，卡比兽**"
+	}
+	"*** IT ATTACKED IN A GRUMPY RAGE !!! ***"
+	{
+		"chi"		"**它愤怒地发起攻击！！！**"
+	}
+	"*** SNORLAX IS MAKING US SLEEPY ***"
+	{
+		"chi"		"**卡比兽让我们昏昏欲睡**"
+	}
+	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
+	{
+		"chi"		"**在为时已晚之前击败他**"
+	}
+	"*** SNORLAX USED REST ***"
+	{
+		"chi"		"**卡比兽使用了休息**"
+	}
+	"*** ESCAPE WHILE HE IS ASLEEP ***"
+	{
+		"chi"		"**快！趁他睡着时逃走！**"
+	}
+	"*** ELEVATOR LEAVING IN 30 seconds ***"
+	{
+		"chi"		"**电梯在30秒后离开**"
+		"DoorCountdown"		"30"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		">>>极限模式开启<<<"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"chi"		">>>一位玩家拿起火神器<<<"
+	}
+	">> FIND 3 RUNGS TO FIX IT <<"
+	{
+		"chi"		">>>找3个木棍来修复它<<<"
+	}
+	">> ALL THE RUNGS ARE FOUND <<"
+	{
+		"chi"		">>>所有的木棍都找到了<<<"
+	}
+	"*** RESCUE DRAGON LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"**来救援我们的龙已经等的不耐烦了，它将在30秒后离开**"
+		"DoorCountdown"		"30"
+	}
+	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
+	{
+		"chi"		"**卡比兽使用了破坏死光**"
+	}
+	"*** SHOOT BEFORE ITS TOO LATE ***"
+	{
+		"chi"		"**在一切变得太晚之前开枪**"
+	}
+	"*** SNORLAX USED HYPERBEAM ***"
+	{
+		"chi"		"**卡比兽使用了破坏死光**"
+	}
+	">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<"
+	{
+		"chi"		">>>一位玩家拿起水精灵球<<<"
+	}
+	">> 1 MORE RUNG TO FIND <<"
+	{
+		"chi"		">>>再找一个<<<"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		">>>一位玩家找到了6个地雷<<<"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"chi"		">>>地雷已使用完<<<"
+	}
+	"*** LIFT LEAVING IN 30 seconds ***"
+	{
+		"chi"		"**电梯30秒后离开**"
+	}
+	"*** THE LIFT IS BROKEN ! ***"
+	{
+		"chi"		"**电梯坏了！**"
+	}
+	"*** WE HAVE TO GO DEEPER INTO THE CAVE ***"
+	{
+		"chi"		"**我们必须深入洞穴**"
+	}
+	"*** HOLD WHILE WE OPEN THE WAY ***"
+	{
+		"chi"		"**在我们开门时守住**"
+	}
+	">> ITS A DEAD END !! <<"
+	{
+		"chi"		">>>这是死路？<<<"
+	}
+	">> THE MOLE WILL HELP US GET OUT <<"
+	{
+		"chi"		">>>鼹鼠会帮我们走出困境<<<"
+	}
+	">> DEFEND WHILE THE MOLE IS DIGGING <<"
+	{
+		"chi"		">>>当鼹鼠在挖洞时<<<"
+	}
+	">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<"
+	{
+		"chi"		">>>守住！让僵尸呆在洞穴里！！<<<"
+	}
+	">> THE MOLE IS COMING BACK ! WATCH OUT !! <<"
+	{
+		"chi"		">>>鼹鼠回来了！小心! !<<<"
+	}
+	">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<"
+	{
+		"chi"		">>>僵尸已逃脱！关卡失败！！<<<"
+	}
+	"*** ZOMBIES TAKE THE SIDEWAY ***"
+	{
+		"chi"		"**僵尸在另一边**"
+	}
+	"*** ELEVATOR IS STUCK ***"
+	{
+		"chi"		"**电梯被卡住了**"
+	}
+	"*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***"
+	{
+		"chi"		"**在这个楼层有一个紧急开关**"
+	}
+	"*** NICE JOB!!! ***"
+	{
+		"chi"		"**干的漂亮**"
+	}
+	">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<"
+	{
+		"chi"		">>>一位玩家拿起叶精灵球<<<"
+	}
+	"*** ITS SUPER EFFECTIVE !!! ***"
+	{
+		"chi"		"**超级有效！！**"
+	}
+	">> POKEMON WONT FOLLOW YOU IN THIS CAVE <<"
+	{
+		"chi"		">>>在这个洞穴里，口袋妖怪不会跟着你<<<"
+	}
+	"*** Doors opening in 30 seconds ***"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"*** Doors opening in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	"*** Doors are open! RUN!! ***"
+	{
+		"chi"		"**大门开了！跑！！**"
+	}
+	">> ITS A SHINY PIKACHU !!! <<"
+	{
+		"chi"		">>>这是一只皮卡丘！<<<"
+	}
+	">> A POKEBALL HAS BEEN PICKED UP <<"
+	{
+		"chi"		">>>一个精灵球被拿起来了<<<"
+	}
+	">> CATCH HIM. HE IS OUR WAY OUT !!! <<"
+	{
+		"chi"		">>>抓住他我们才能逃脱！<<<"
+	}
+	">> YOU TOOK TOO LONG !! <<"
+	{
+		"chi"		">>>你太慢了！！<<<"
+	}
+	">> PIKACHU CAUGHT HIMSELF !! <<"
+	{
+		"chi"		">>>我们抓住皮卡丘了！！<<<"
+	}
+	">> TAKE THE POKEBALL <<"
+	{
+		"chi"		">>>拿着精灵球<<<"
+	}
+	">> SHINY PIKACHU HAS BEEN PICKED UP <<"
+	{
+		"chi"		">>>皮卡丘被抓起来了<<<"
+	}
+	">> WE CAN LEAVE THIS WORLD NOW <<"
+	{
+		"chi"		">>>我们现在可以离开这个世界<<<"
+	}
+	">> THE CLOCK IS A TIME MACHINE !!! <<"
+	{
+		"chi"		">>>时钟是时间机器！<<<"
+	}
+	">> PUT THE SHINY PIKACHU INSIDE IT <<"
+	{
+		"chi"		">>>把皮卡丘放在闹钟里<<<"
+	}
+	">> ENTER IN THE CLOCK FROM THE BACK <<"
+	{
+		"chi"		">>>从后面进入闹钟<<<"
+	}
+	">> PUT SHINY PIKACHU IN THE CLOCK <<"
+	{
+		"chi"		">>>把皮卡丘放在钟里<<<"
+	}
+	">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<"
+	{
+		"chi"		">>>皮卡丘正在给时间机器充电！！<<<"
+	}
+	">> STAY ON THE BOOK <<"
+	{
+		"chi"		">>>呆在这本书上<<<"
+	}
+	">> IT SHOULD BE SAFER <<"
+	{
+		"chi"		">>>应该更安全些<<<"
+	}
+	">> PIKACHU IS GETTING OUT OF CONTROL !! <<"
+	{
+		"chi"		">>>皮卡丘失控了！！<<<"
+	}
+	">> THE OVERLOAD IS RECHARGING THE RADIO !! <<"
+	{
+		"chi"		">>>过载装置正在重新充电!<<<"
+	}
+	">> GO ON THE BOOK ! <<"
+	{
+		"chi"		">>>继续读这本书！<<<"
+	}
+	">> ZOMBIES IN THE SAFE AREA <<"
+	{
+		"chi"		">>>僵尸在安全区里<<<"
+	}
+	">> LEVEL FAILED <<"
+	{
+		"chi"		">>>关卡失败<<<"
+	}
+	">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<"
+	{
+		"chi"		">>>一位玩家拿起皮卡丘精灵球<<<"
+	}
+	">> LEVEL: TIME LOOP <<"
+	{
+		"chi"		">>>关卡:时光隧道<<<"
+	}
+	">> THE TIME MACHINE IS ALMOST READY !!! <<"
+	{
+		"chi"		">>>时间机器差不多准备好了！<<<"
+	}
+	">> DEFEND !!! <<"
+	{
+		"chi"		">>>守住!!<<<"
+	}
+	">> DEFEND FOR 40 SECONDS <<"
+	{
+		"chi"		">>>守住40秒!<<<"
+	}
+	">> 5 SECONDS LEFT !!! <<"
+	{
+		"chi"		">>>还剩5秒<<<"
+	}
+	"*** WAIT TILL BOMBS BREAK THIS BOARD ***"
+	{
+		"chi"		"**等待炸弹帮我们炸掉这块木板**"
+	}
+	"*** BOARD IS BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"**木板碎了！！**"
+	}
+	"*** Door opening in 25 seconds ***"
+	{
+		"chi"		"**大门25秒后打开**"
+	}
+	"*** Doors opening in 20 seconds ***"
+	{
+		"chi"		"**大门20秒后打开**"
+	}
+	">> DEFEND FOR 30 SECONDS <<"
+	{
+		"chi"		">>>守住30秒<<<"
+	}
+	">> OH NO!! ITS PIKACHU NAZI <<"
+	{
+		"chi"		">>>哦不！是纳粹皮卡丘<<<"
+	}
+	">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<"
+	{
+		"chi"		">>>在他生下撒旦之前杀了他<<<"
+	}
+	">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"chi"		">>>纳粹皮卡丘使用雷电，继续射击<<<"
+	}
+	">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		">>>纳粹皮卡丘被击败了<<<"
+	}
+	">> WE WERE TOO LATE !!! <<"
+	{
+		"chi"		">>>我们太慢了！！！<<<"
+	}
+	">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<"
+	{
+		"chi"		">>>纳粹皮卡丘牺牲了自己的灵魂诞下了撒旦<<<"
+	}
+	">> OH NO!! SATAN IS ALIVE ! <<"
+	{
+		"chi"		">>>哦不！撒旦还活着！<<<"
+	}
+	">> SATAN OPENED A PORTAL TO HELL !!! <<"
+	{
+		"chi"		">>>撒旦打开了通往地狱的大门!!!<<<"
+	}
+	">> WE CAN REPAIR THE LADDER <<"
+	{
+		"chi"		"** **"
+	}
+	">> DEFEND ! <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP WATER <<"
+	{
+		"chi"		"** **"
+	}
+	">> 2 MORE RUNGS TO FIND <<"
+	{
+		"chi"		"** **"
+	}
+}
