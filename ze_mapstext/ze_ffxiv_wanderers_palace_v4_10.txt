@@ -165,6 +165,7 @@
 	"*** Heavens Fall ***"
 	{
 		"chi"		"**天坠（躲避天上柱子.不要被砸到.降到地板的时候按W防推） **"
+		"ico"		"icon_fire"
 	}
 	"*** Cauterize***"
 	{
@@ -173,6 +174,7 @@
 	"*** Flare ***"
 	{
 		"chi"		"**火（跳到两边的箱子上.左边会有刀.右边没刀.站在原地不动会死） **"
+		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
 	{
@@ -268,7 +270,8 @@
 	}
 	"***ADS Attack***"
 	{
-		"chi"		"**ADS攻击（先打左边的ADS.再打右边的ADS）		
+		"chi"		"**ADS攻击（先打左边的ADS.再打右边的ADS）**"
+		"ico"		"icon_fire"
 	}
 	"*** Model :Dakotec ***"
 	{
@@ -301,6 +304,7 @@
 	"***Flare***"
 	{
 		"chi"		"**龙之吐息（远离红色区域） **"
+		"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
@@ -314,7 +318,6 @@
 	"***Earth Shaker***"
 	{
 		"chi"		"**岩石冲击（看清位置躲避.有时候在中间有时候在两边） **"
-		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime dead***"
 	{
@@ -365,6 +368,7 @@
 	"***Tempest Wing***"
 	{
 		"chi"		"**暴风之翼（跑到平台最后面，吸的时候按住S回头开枪） **"
+		"ico"		"icon_fire"
 	}
 	"*** Level:Savage ***"
 	{
@@ -417,6 +421,7 @@
 	"*** Cauterize ***"
 	{
 		"chi"		"**龙车来袭（看清位置躲避） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Bahamut appeared ***"
 	{
@@ -425,14 +430,17 @@
 	"*** True Tempest wing ***"
 	{
 		"chi"		"**暴风之翼（站在中间等三秒，会有一个风柱消失.之后去没消失的风柱里按住空格） **"
+		"ico"		"icon_fire"
 	}
 	"*** True Heavens fall ***"
 	{
 		"chi"		"**天空坠落（4个角落里会有一个角落是安全的，往安全的地方走） **"
+		"ico"		"icon_fire"
 	}
 	"*** Steam Judge ***"
 	{
 		"chi"		"**蒸汽制裁（5个蒸汽状的东西，站在里面等蒸汽消失） **"
+		"ico"		"icon_fire"
 	}
 	"*** Sentence to death ***"
 	{
@@ -510,18 +518,22 @@
 	"*** Ultimate Heavens fall ***"
 	{
 		"chi"		"**天坠(看天上，往没出现天坠的地方走）**"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
 		"chi"		"**电**"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
 		"chi"		"**暴风之翼**"
+		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
 		"chi"		"**龙车来袭（会出现三只龙，往龙撞不到的地方走）**"
+		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"
 	{
