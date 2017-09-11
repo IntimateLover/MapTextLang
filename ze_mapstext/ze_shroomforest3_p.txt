@@ -39,11 +39,12 @@
 	">> LEVEL: DEAD TREE <<"
 	{
 		"chi"		">>>关卡：枯死的树<<<"
+		"DoorCountDown"		"30"
 	}
 	"*** Door opening in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Door is open!!! ***"
 	{
@@ -52,7 +53,7 @@
 	"*** Door opening in 30 seconds ***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Door opening in 5 seconds ***"
 	{
@@ -68,12 +69,12 @@
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>一位玩家拿起墙神器<<<"
 	}
-	"*** Defend for 30 seconds ***"
+	"*** DEFEND FOR 30 SECONDS ***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> OH NO!! ITS THE KNIGHT <<"
 	{
@@ -99,10 +100,10 @@
 	{
 		"chi"		"**城堡大门开启**"
 	}
-	"*** Gate opening in 25 seconds ***"
+	"*** GATE OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** Gate opening in 5 seconds ***"
 	{
@@ -139,7 +140,7 @@
 	"*** RESCUE DRAGON LEAVING IN 15 SECONDS ***"
 	{
 		"chi"		"**来救援你们的龙已经等的不耐烦了,它将在15秒后离开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
@@ -164,9 +165,9 @@
 	"*** Defend for 20 seconds ***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
-	"*** Defend for 5 seconds ***"
+	"*** DEFEND FOR 5 SECONDS ***"
 	{
 		"chi"		"**守住5秒**"
 	}
@@ -205,7 +206,7 @@
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"**电梯在20秒后离开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** ELEVATOR LEAVING IN 5 seconds ***"
 	{
@@ -218,7 +219,7 @@
 	"*** Tunnel opening in 20 seconds ***"
 	{
 		"chi"		"**隧道20秒后开放**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Tunnel opening in 5 seconds ***"
 	{
@@ -227,7 +228,7 @@
 	"*** Guard House opening in 30 seconds ***"
 	{
 		"chi"		"**警卫室30秒后开放**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Guard House opening in 5 seconds ***"
 	{
@@ -236,7 +237,7 @@
 	"*** Gym opening in 20 seconds ***"
 	{
 		"chi"		"**健身房20秒后开放**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Gym opening in 5 seconds ***"
 	{
@@ -273,7 +274,7 @@
 	"*** ELEVATOR LEAVING IN 30 seconds ***"
 	{
 		"chi"		"**电梯在30秒后离开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> EXTREME MODE ADDED <<"
 	{
@@ -294,7 +295,7 @@
 	"*** RESCUE DRAGON LEAVING IN 30 SECONDS ***"
 	{
 		"chi"		"**来救援我们的龙已经等的不耐烦了，它将在30秒后离开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
 	{
@@ -327,6 +328,7 @@
 	"*** LIFT LEAVING IN 30 seconds ***"
 	{
 		"chi"		"**电梯30秒后离开**"
+		"DoorCountDown"		"30"
 	}
 	"*** THE LIFT IS BROKEN ! ***"
 	{
@@ -386,7 +388,7 @@
 	}
 	"*** ITS SUPER EFFECTIVE !!! ***"
 	{
-		"chi"		"**超级有效！！**"
+		"chi"		"**你们终将死亡**"
 	}
 	">> POKEMON WONT FOLLOW YOU IN THIS CAVE <<"
 	{
@@ -395,6 +397,7 @@
 	"*** Doors opening in 30 seconds ***"
 	{
 		"chi"		"**大门30秒后打开**"
+		"DoorCountDown"		"30"
 	}
 	"*** Doors opening in 5 seconds ***"
 	{
@@ -503,6 +506,7 @@
 	">> DEFEND FOR 40 SECONDS <<"
 	{
 		"chi"		">>>守住40秒!<<<"
+		"DoorCountDown"		"40"
 	}
 	">> 5 SECONDS LEFT !!! <<"
 	{
@@ -511,6 +515,7 @@
 	"*** WAIT TILL BOMBS BREAK THIS BOARD ***"
 	{
 		"chi"		"**等待炸弹帮我们炸掉这块木板**"
+		"DoorCountDown"		"30"
 	}
 	"*** BOARD IS BROKEN RUUUUUUN!! ***"
 	{
@@ -519,14 +524,17 @@
 	"*** Door opening in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开**"
+		"DoorCountDown"		"25"
 	}
 	"*** Doors opening in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后打开**"
+		"DoorCountDown"		"20"
 	}
 	">> DEFEND FOR 30 SECONDS <<"
 	{
 		"chi"		">>>守住30秒<<<"
+		"DoorCountDown"		"30"
 	}
 	">> OH NO!! ITS PIKACHU NAZI <<"
 	{
@@ -562,17 +570,236 @@
 	}
 	">> WE CAN REPAIR THE LADDER <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>我们可以修理梯子<<<"
 	}
 	">> DEFEND ! <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住！<<<"
 	}
 	">> PLAYER HAS PICKED UP WATER <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>一位玩家拿起水神器<<<"
 	}
 	">> 2 MORE RUNGS TO FIND <<"
+	{
+		"chi"		"** **"
+	}
+	"-- [ZOMBIES] Find Satans Powers to make him stronger --"
+	{
+		"chi"		"**[僵尸]寻找撒旦的力量，使它变得更强大**"
+	}
+	">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<"
+	{
+		"chi"		">>>撒旦正在往时间机器所在的房间走去! ! !<<<"
+	}
+	">> STOP HIM BEFORE ITS TOO LATE !! <<"
+	{
+		"chi"		">>>在他之前阻止他！！！<<<"
+	}
+	">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<"
+	{
+		"chi"		">>>哦不！撒旦已进入时间机器！！<<<"
+	}
+	">> GET READY FOR THE FINAL FIGHT !! <<"
+	{
+		"chi"		">>>为最后的战斗做好准备! !<<<"
+	}
+	">> KEEP ZOMBIES OUT OF THE ROOM <<"
+	{
+		"chi"		">>>把僵尸赶出房间<<<"
+	}
+	"-- [ZOMBIES] You can still find Satans Powers during the fight --"
+	{
+		"chi"		"**[僵尸]你可以在战斗中找到撒旦的力量**"
+	}
+	">> SATAN IS ESCAPING !! <<"
+	{
+		"chi"		">>>撒旦逃走了！！<<<"
+	}
+	">> HE WONT GO FAR ! <<"
+	{
+		"chi"		">>>他不会走远的！<<<"
+	}
+	">> DEFEND 20 SECONDS !! <<"
+	{
+		"chi"		">>>守住20秒<<<"
+		"DoorCountDown"		"20"
+	}
+	">> 5 SECONDS LEFT !! <<"
+	{
+		"chi"		">>>还剩5秒<<<"
+	}
+	">> GO IN THE TIMEMACHINE !! <<"
+	{
+		"chi"		">>>进入时间机器！！<<<"
+	}
+	">> THIS IS THE BRINK OF TIME <<"
+	{
+		"chi"		">>>这里是时光隧道的边缘区域<<<"
+	}
+	">> SATAN IS HIDING SOMEWHERE <<"
+	{
+		"chi"		">>>撒旦正躲在某处<<<"
+	}
+	">> BE CAREFUL <<"
+	{
+		"chi"		">>>小心<<<"
+	}
+	">> DEFEND UNTIL SOMETHING HAPPENS <<"
+	{
+		"chi"		">>>守住,直到撒旦出现<<<"
+	}
+	">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<"
+	{
+		"chi"		">>>40秒内杀了撒旦,确保撒旦在未来消失<<<"
+		"DoorCountDown"		"40"
+	}
+	">> WE NEED TO KILL HIM BEFORE ITS TOO LATE !! <<"
+	{
+		"chi"		">>>我们要杀了他，在太晚之前！<<<"
+	}
+	">> TOO LATE ! <<"
+	{
+		"chi"		">>>太晚了!<<<"
+	}
+	">> WE WILL STOP SATAN NO MATTER WHAT !!! <<"
+	{
+		"chi"		">>>无论如何我们都要阻止撒旦! ! !<<<"
+	}
+	">> DEFEND 20 SECONDS <<"
+	{
+		"chi"		">>>守住20秒<<<"
+		"DoorCountDown"		"20"
+	}
+	">> 5 SECONDS LEFT <<"
+	{
+		"chi"		">>>还剩5秒<<<"
+	}
+	">> PLAYER HAS CHOSEN: TIME LOOP <<"
+	{
+		"chi"		">>>玩家选择了：时光隧道<<<"
+	}
+	">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<"
+	{
+		"chi"		">>>玩家选择了:宠物小精灵-极限模式<<<"
+	}
+	">> RESTARTING ROUND IN 5 SECONDS <<"
+	{
+		"chi"		">>>在5秒后重载<<<"
+	}
+	">> Congratulations ! <<"
+	{
+		"chi"		">>>恭喜你！<<<"
+	}
+	">> You beat the map ! <<"
+	{
+		"chi"		">>>你通关了整张地图！<<<"
+	}
+	">> TimeLoop Ending <<"
+	{
+		"chi"		">>>时光隧道结束<<<"
+	}
+	">> Play ShroomForest1 to continue this beautiful adventure <<"
+	{
+		"chi"		">>>选择玩蘑菇1来继续这惊险刺激的冒险<<<"
+	}
+	">> (That wouldnt have happened if you killed Satan) <<"
+	{
+		"chi"		">>>（如果你杀了撒旦，一切都将结束）<<<"
+	}
+	">> ZOMBIES INSIDE THE ELEVATOR <<"
+	{
+		"chi"		">>>僵尸在电梯上<<<"
+	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"chi"		">>>僵尸在上面！关卡失败！<<<"
+	}
+	">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<"
+	{
+		"chi"		">>>玩家选择了：宠物小精灵-普通模式<<<"
+	}
+	">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<"
+	{
+		"chi"		">>>玩家选择了：枯死的树-极限模式<<<"
+	}
+	">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<"
+	{
+		"chi"		">>>我们要在时光旅行结束之前消灭撒旦!!!<<<"
+	}
+	">> THE WORLD WILL FINALLY BE IN PEACE !!! <<"
+	{
+		"chi"		">>>世界终将和平! ! !<<<"
+	}
+	">> Good Ending <<"
+	{
+		"chi"		">>>完美结局<<<"
+	}
+	">> Thanks for being part of this incredible adventure <<"
+	{
+		"chi"		">>>谢谢你参与了这场难以置信的冒险<<<"
+	}
+	">> MAP IS OVER <<"
+	{
+		"chi"		">>>地图结束<<<"
+	}
+	">> TELEPORTER TO ADMIN ROOM AVAILABLE <<"
+	{
+		"chi"		">>>传送到调关房<<<"
+	}
+	">> NUKE ALL IN 30 SECONDS <<"
+	{
+		"chi"		">>>在30秒前完成调关<<<"
+	}
+	">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<"
+	{
+		"chi"		">>>僵尸已经拿起了鬼斯精灵球<<<"
+	}
+	">> PLAYER HAS CHOSEN: CAVES NORMAL <<"
+	{
+		"chi"		">>>一位玩家选择了：洞穴-普通模式<<<"
+	}
+	"** Satan control the Explosions **"
+	{
+		"chi"		"**撒旦现在可以控制爆炸了**"
+	}
+	"** Satan can summon Ultimate Minions **"
+	{
+		"chi"		"**撒旦现在可以召唤终极仆从**"
+	}
+	"** Satan can summon Fire Minions **"
+	{
+		"chi"		"**撒旦现在可以召唤火仆从**"
+	}
+	"** Satan control the Electricity **"
+	{
+		"chi"		"**撒旦现在可以控制雷电**"
+	}
+	"** Satan is immune to Grenades **"
+	{
+		"chi"		"**撒旦现在对手雷免疫了**"
+	}
+	"** Satan can summon Tornado Minions **"
+	{
+		"chi"		"**撒旦现在可以召唤旋风仆从**"
+	}
+	"** Satan can summon Water Minions **"
+	{
+		"chi"		"**撒旦可以召唤水仆从**"
+	}
+	"** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **"
+	{
+		"chi"		"**5个僵尸已经被献祭给撒旦，现在撒旦已经可以使用5个特殊的力量了**"
+	}
+	"** Satans Speed Increased **"
+	{
+		"chi"		"**撒旦的速度已提升**"
+	}
+	"** Satan control the Ice **"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: DEAD TREE <<"
 	{
 		"chi"		"** **"
 	}

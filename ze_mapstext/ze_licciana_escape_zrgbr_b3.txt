@@ -32,4 +32,44 @@
 	{
 		"chi"		"** **"
 	}
+	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 2 ARRIVED ++"
+	{
+		"chi"		"** **"
+	}
+	"++ LIFT DOOR 2 OPENING UP ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"+++ YOU LOST +++"
+	{
+		"chi"		"** **"
+	}
+	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	{
+		"chi"		"** **"
+	}
 }
