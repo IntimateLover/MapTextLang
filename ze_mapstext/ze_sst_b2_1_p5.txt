@@ -27,7 +27,7 @@
 	"*** Dropship Arrival in 20 ***"
 	{
 		"chi"		"** 船将在20秒后到达 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Dropship is Here ***"
 	{
@@ -40,6 +40,10 @@
 	"*** Dropship Departure in 10 Seconds ***"
 	{
 		"chi"		"** 船将在10秒后离开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

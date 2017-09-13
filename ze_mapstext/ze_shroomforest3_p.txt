@@ -71,7 +71,7 @@
 	{
 		"chi"		">>>一位玩家拿起墙神器<<<"
 	}
-	"*** DEFEND FOR 30 SECONDS ***"
+	"*** Defend for 30 seconds ***"
 	{
 		"chi"		"**守住30秒**"
 		"DoorCountDown"		"30"
@@ -100,7 +100,7 @@
 	{
 		"chi"		"**城堡大门开启**"
 	}
-	"*** GATE OPENING IN 25 SECONDS ***"
+	"*** Gate opening in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开**"
 		"DoorCountDown"		"25"
@@ -167,7 +167,7 @@
 		"chi"		"**守住20秒**"
 		"DoorCountDown"		"20"
 	}
-	"*** DEFEND FOR 5 SECONDS ***"
+	"*** Defend for 5 seconds ***"
 	{
 		"chi"		"**守住5秒**"
 	}
@@ -797,10 +797,14 @@
 	}
 	"** Satan control the Ice **"
 	{
-		"chi"		"**撒旦现在已经可以控制冰 **"
+		"chi"		"** **"
 	}
 	">> PLAYER HAS CHOSEN: DEAD TREE <<"
 	{
-		"chi"		"**玩家选择了：枯死的树 **"
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP DITTO POKEBALL <<"
+	{
+		"chi"		">>>一位玩家拿起模仿神器<<<"
 	}
 }
