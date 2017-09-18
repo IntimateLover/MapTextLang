@@ -161,14 +161,14 @@
 	}
 	">>>Teleport is Online<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门初始化完毕**"
 	}
 	">>>Get in the Teleport!!!!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**快进入传送门!!!!**后面那个圆形的机器**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**即将重置关卡**"
 	}
 }
