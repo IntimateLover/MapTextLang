@@ -47,12 +47,12 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"** 还剩20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
 		"chi"		"**洞穴的路将于20秒内开放！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
@@ -66,7 +66,7 @@
 	{
 		"chi"		"**洞穴的路将在10秒内开放！ **"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -89,7 +89,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -126,7 +126,7 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒内打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Door will open in 5 seconds **"
 	{
@@ -135,7 +135,7 @@
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要坚守小镇45秒 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -410,6 +410,10 @@
 		"chi"		"** **"
 	}
 	"***SECOND DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU NEED TO DEFEND THE TOWN 1MIN***"
 	{
 		"chi"		"** **"
 	}

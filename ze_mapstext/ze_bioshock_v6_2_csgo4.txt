@@ -1096,4 +1096,16 @@ Cooldo"
 	{
 		"syncvalue"		"72972"
 	}
+	">>Its your chance. Kill the Songbird<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Congratulations<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Thank you for playing<<"
+	{
+		"chi"		"** **"
+	}
 }

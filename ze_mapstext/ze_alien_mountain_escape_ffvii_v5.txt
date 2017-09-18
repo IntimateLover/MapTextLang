@@ -153,5 +153,6 @@
 	"*** Ship starting in 35 sec ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"35"
 	}
 }

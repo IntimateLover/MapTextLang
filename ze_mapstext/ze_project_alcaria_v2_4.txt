@@ -207,7 +207,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -275,26 +275,26 @@
 	}
 	"### FREEZING WIND SKILL CASTING  81 ###"
 	{
-		"chi"		"**随机技能-毁灭之火 **"
+		"chi"		"**随机技能-冻结之风：81**"
 		"ico"		"icon_fire"
 	}
 	"###  FIRE SKILL CASTING  43 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：43**"
 	}
 	"### COME CLOSER CASTING  68 ###"
 	{
-		"chi"		"**随机技能-暗影撺掇 **"
+		"chi"		"**随机技能-暗影撺掇：68**"
 		"ico"		"icon_fire"
 	}
 	"### FREEZING WIND SKILL CASTING  29 ###"
 	{
-		"chi"		"**随机技能-冻结之风 **"
+		"chi"		"**随机技能-冻结之风：29**"
 		"ico"		"icon_fire"
 	}
 	"### FIRE SKILL CASTING  25 ###"
 	{
-		"chi"		"**随机技能-毁灭之火 **"
+		"chi"		"**随机技能-毁灭之火：25**"
 		"ico"		"icon_fire"
 	}
 	">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
@@ -307,23 +307,23 @@
 	}
 	"### FIRE SKILL CASTING  77 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：77**"
 	}
 	"### FIRE SKILL CASTING  36 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：36**"
 	}
 	"### FIRE SKILL CASTING  17 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：17**"
 	}
 	"### FREEZING WIND SKILL CASTING  33 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-冻结之风：33**"
 	}
 	"### FIRE SKILL CASTING  63 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：63**"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
 	{
@@ -359,31 +359,31 @@
 	}
 	"### FIRE SKILL CASTING  19 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：19**"
 	}
 	"### FIRE SKILL CASTING  79 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：79**"
 	}
 	"### FREEZING WIND SKILL CASTING ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-冻结之风**"
 	}
 	"###  FIRE SKILL CASTING  73 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：73**"
 	}
 	"### FIRE SKILL CASTING  93 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：93**"
 	}
 	"### COME CLOSER CASTING  55 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-暗影撺掇：55**"
 	}
 	"### FIRE SKILL CASTING  13 ###"
 	{
-		"chi"		"** **"
+		"chi"		"**随机技能-毁灭之火：13**"
 	}
 	"III PLAYER HAS PICKED UP BIOBOMB III"
 	{
@@ -394,6 +394,14 @@
 		"chi"		"** **"
 	}
 	"### MISSILES DETONADE IN 15 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES CAN DESTROY THE ELECTIC BOX ###"
+	{
+		"chi"		"** **"
+	}
+	"### TO SHORT THE CIRCUIT OF THE ELEVATOR ###"
 	{
 		"chi"		"** **"
 	}

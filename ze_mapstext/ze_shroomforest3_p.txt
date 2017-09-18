@@ -39,12 +39,12 @@
 	">> LEVEL: DEAD TREE <<"
 	{
 		"chi"		">>>关卡：枯死的树<<<"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Door opening in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Door is open!!! ***"
 	{
@@ -53,7 +53,7 @@
 	"*** Door opening in 30 seconds ***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Door opening in 5 seconds ***"
 	{
@@ -74,7 +74,7 @@
 	"*** Defend for 30 seconds ***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">> OH NO!! ITS THE KNIGHT <<"
 	{
@@ -103,7 +103,7 @@
 	"*** Gate opening in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Gate opening in 5 seconds ***"
 	{
@@ -140,7 +140,7 @@
 	"*** RESCUE DRAGON LEAVING IN 15 SECONDS ***"
 	{
 		"chi"		"**来救援你们的龙已经等的不耐烦了,它将在15秒后离开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
@@ -165,7 +165,7 @@
 	"*** Defend for 20 seconds ***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Defend for 5 seconds ***"
 	{
@@ -206,7 +206,7 @@
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"**电梯在20秒后离开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** ELEVATOR LEAVING IN 5 seconds ***"
 	{
@@ -214,12 +214,12 @@
 	}
 	">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<"
 	{
-		"chi"		">>>一位玩家拿起火精灵球<<<"
+		"chi"		">>>小火龙已被驯服<<<"
 	}
 	"*** Tunnel opening in 20 seconds ***"
 	{
 		"chi"		"**隧道20秒后开放**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Tunnel opening in 5 seconds ***"
 	{
@@ -228,7 +228,7 @@
 	"*** Guard House opening in 30 seconds ***"
 	{
 		"chi"		"**警卫室30秒后开放**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Guard House opening in 5 seconds ***"
 	{
@@ -237,7 +237,7 @@
 	"*** Gym opening in 20 seconds ***"
 	{
 		"chi"		"**健身房20秒后开放**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Gym opening in 5 seconds ***"
 	{
@@ -274,7 +274,7 @@
 	"*** ELEVATOR LEAVING IN 30 seconds ***"
 	{
 		"chi"		"**电梯在30秒后离开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">> EXTREME MODE ADDED <<"
 	{
@@ -295,11 +295,12 @@
 	"*** RESCUE DRAGON LEAVING IN 30 SECONDS ***"
 	{
 		"chi"		"**来救援我们的龙已经等的不耐烦了，它将在30秒后离开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
 	{
 		"chi"		"**卡比兽使用了破坏死光**"
+		"DoorCountdown"		"15"
 	}
 	"*** SHOOT BEFORE ITS TOO LATE ***"
 	{
@@ -311,7 +312,7 @@
 	}
 	">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<"
 	{
-		"chi"		">>>一位玩家拿起水精灵球<<<"
+		"chi"		">>>杰尼龟已被驯服<<<"
 	}
 	">> 1 MORE RUNG TO FIND <<"
 	{
@@ -328,7 +329,7 @@
 	"*** LIFT LEAVING IN 30 seconds ***"
 	{
 		"chi"		"**电梯30秒后离开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** THE LIFT IS BROKEN ! ***"
 	{
@@ -384,7 +385,7 @@
 	}
 	">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<"
 	{
-		"chi"		">>>一位玩家拿起叶精灵球<<<"
+		"chi"		">>>妙娃种子已被驯服<<<"
 	}
 	"*** ITS SUPER EFFECTIVE !!! ***"
 	{
@@ -397,7 +398,7 @@
 	"*** Doors opening in 30 seconds ***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Doors opening in 5 seconds ***"
 	{
@@ -506,7 +507,7 @@
 	">> DEFEND FOR 40 SECONDS <<"
 	{
 		"chi"		">>>守住40秒!<<<"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	">> 5 SECONDS LEFT !!! <<"
 	{
@@ -515,7 +516,7 @@
 	"*** WAIT TILL BOMBS BREAK THIS BOARD ***"
 	{
 		"chi"		"**等待炸弹帮我们炸掉这块木板**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** BOARD IS BROKEN RUUUUUUN!! ***"
 	{
@@ -524,17 +525,17 @@
 	"*** Door opening in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Doors opening in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">> DEFEND FOR 30 SECONDS <<"
 	{
 		"chi"		">>>守住30秒<<<"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">> OH NO!! ITS PIKACHU NAZI <<"
 	{
@@ -623,7 +624,7 @@
 	">> DEFEND 20 SECONDS !! <<"
 	{
 		"chi"		">>>守住20秒<<<"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">> 5 SECONDS LEFT !! <<"
 	{
@@ -652,7 +653,7 @@
 	">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<"
 	{
 		"chi"		">>>40秒内杀了撒旦,确保撒旦在未来消失<<<"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	">> WE NEED TO KILL HIM BEFORE ITS TOO LATE !! <<"
 	{
@@ -669,7 +670,7 @@
 	">> DEFEND 20 SECONDS <<"
 	{
 		"chi"		">>>守住20秒<<<"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">> 5 SECONDS LEFT <<"
 	{
@@ -806,5 +807,28 @@
 	">> PLAYER HAS PICKED UP DITTO POKEBALL <<"
 	{
 		"chi"		">>>一位玩家拿起模仿神器<<<"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"1"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"2"
+		{
+			"cvar"		"hook_boss_money_max 30"
+		}
+		"3"
+		{
+			"cvar"		"hook_boss_money_min 20"
+		}
+		"4"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 6.5"
+		}
 	}
 }
