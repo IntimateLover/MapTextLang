@@ -374,7 +374,7 @@
 	}
 	">>If you hava some suggestions,leaving a message at my personal profile.<<"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你有一些建议，请在我的个人资料上留言**"
 	}
 	">>http:"
 	{
@@ -382,15 +382,15 @@
 	}
 	">>GET OUT OF HERE!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**离开这里！！！ **"
 	}
 	">>GO TO BIG CRYSTAL TOWER<<"
 	{
-		"chi"		"** **"
+		"chi"		"**前往大型水晶塔 **"
 	}
 	">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<"
 	{
-		"chi"		"** **"
+		"chi"		"**激活两个水晶并守住僵尸 **"
 	}
 	">>THEN ACTIVATE THE RED ONE<<"
 	{
@@ -398,39 +398,39 @@
 	}
 	">>THE HELLGATE OPENING IN 30 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地狱之门在30秒后打开 **"
 	}
 	">>DOOR OPENING IN 20 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后打开 **"
 	}
 	">>HOLD 30 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
 	}
 	">>HOLD 20 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
 	}
 	">>GET ON THE MIDDLE STONE<<"
 	{
-		"chi"		"** **"
+		"chi"		"**站在中间的石头上 **"
 	}
 	">>STAGE 4 COMPLETE<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关通过 **"
 	}
 	">>Special Thanks: uuz , nano ,thas<<"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢:UUZ.nano.thas **"
 	}
 	">>HOLD 15 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
 	}
 	">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你得到了传送晶体。它能带我们回去 **"
 	}
 	">>TELEPORT IN 2 SEC<<"
 	{
@@ -446,11 +446,11 @@
 	}
 	">>BALROG USED SOLAR FUSION,ONLY USE <LIGHTNING> CAN RESIST IT<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用了阳离子融合.使用神器<闪电>可以抵消 **"
 	}
 	"**Are you sure?**"
 	{
-		"chi"		"** **"
+		"chi"		"**你确定吗？ **"
 	}
 	">>steamcommunity.comidlnskrkj<<"
 	{
