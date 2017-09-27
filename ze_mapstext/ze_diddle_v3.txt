@@ -678,7 +678,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -1406,6 +1406,10 @@
 		"chi"		"** **"
 	}
 	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
+	{
+		"chi"		"** **"
+	}
+	"BUILD A LADDER ||-----||"
 	{
 		"chi"		"** **"
 	}

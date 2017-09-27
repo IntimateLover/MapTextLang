@@ -1,0 +1,35 @@
+"Console_T"
+{
+	">>> BALROG USE LASER <<<"
+	{
+		"chi"		">>>炎魔使用了激光<<<"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		">>>炎魔使用了黑洞（按住S后退）<<<"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		">>>炎魔使用了火焰（注意躲避）<<<"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		">>>炎魔使用了剧毒（注意躲避）<<<"
+	}
+	">>> BALROG USED HEAL <<<"
+	{
+		"chi"		">>>炎魔使用了治疗<<<"
+	}
+	">>> BALROG USED KILLER <<<"
+	{
+		"chi"		">>>炎魔使用了终极(退到平台边缘)<<<"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		">>>炎魔使用了PUSH(按住W)<<<"
+	}
+	">>> BALROG USED SHIELD <<<"
+	{
+		"chi"		">>>炎魔使用了护盾（不要使用神器）<<<"
+	}
+}
