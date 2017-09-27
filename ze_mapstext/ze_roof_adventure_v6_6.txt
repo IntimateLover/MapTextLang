@@ -1108,18 +1108,22 @@
 	"***Rock monster uses blast!(move to the edge of the platform)***"
 	{
 		"chi"		"**岩石怪物使用爆破！（移动到平台的边缘）**"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses left fire(move to right)!***"
 	{
 		"chi"		"**岩石怪物使用左边火！（向右移动）**"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses right fire(move to left)!***"
 	{
 		"chi"		"**岩石怪物使用右边火（向左移动）**"
+		"ico"		"icon_fire"
 	}
 	"***Rock monster uses skyfire!***"
 	{
 		"chi"		"**岩石怪物使用了天火!**"
+		"ico"		"icon_fire"
 	}
 	"***Shoot rock monster between two eyes!(use m249 or negev)***"
 	{

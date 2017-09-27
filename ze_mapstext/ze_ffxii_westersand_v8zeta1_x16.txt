@@ -107,6 +107,7 @@
 	"** FIRE NOVA INBOUND **"
 	{
 		"chi"		"**大火来袭**"
+		"ico"		"icon_fire"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
@@ -115,6 +116,7 @@
 	"** METEOR INBOUND **"
 	{
 		"chi"		"**陨石将至**"
+		"ico"		"icon_fire"
 	}
 	"** USE ELECTRO TO BREAK IT **"
 	{
@@ -217,11 +219,13 @@
 	}
 	"** Belias is immune for fire and nades **"
 	{
-		"chi"		"**贝利亚斯免疫手雷和火的伤害**"
+		"chi"		"** 贝利亚斯免疫手雷和火的伤害 ** 丢雷会给BOSS加血 **"
+		"ico"		"icon_fire"
 	}
 	"** Belias is defeated - Escape the tomb ! **"
 	{
 		"chi"		"**贝利亚斯已败退-逃离王墓**"
+		"ico"		"icon_fire"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round."
 	{

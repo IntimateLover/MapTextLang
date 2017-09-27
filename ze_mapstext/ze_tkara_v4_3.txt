@@ -166,11 +166,11 @@
 	}
 	"*** HUMANS LOSE ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 人类失败 **"
 	}
 	"*** ZOMBIE ON THE TRAIN ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 火车上存在僵尸 **"
 	}
 	"sync_version"
 	{
@@ -178,26 +178,27 @@
 	}
 	"*** Bathroom and living room windows are broken! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 浴室和客厅的窗户被打破了！**（注意防守窗户不要贴边）"
 	}
 	"*** Kitchen and living room windows are broken! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 厨房和客厅的窗户被打破了！**（注意防守窗户不要贴边）"
 	}
 	"*** ELEVATOR DOORS OPEN IN 40 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 电梯门将在 40 秒后打开 **"
+		"DoorCountDown"		"40"
 	}
 	"*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 逃亡的火车将在 70 秒后离开 **"
 	}
 	"*** THIS PLACE IS GOING TO BLOW UP IN 85 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 这个地方将在 85 秒后爆炸 **"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"** 即将重置游戏 **"
 	}
 }
