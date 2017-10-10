@@ -905,8 +905,6 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"chi"		"最终幻想7：魔光炉"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
 	}
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
@@ -1163,7 +1161,7 @@
 	{
 		"chi"		"切尔诺贝利核电站"
 	}
-	"ze_tyranny_v5beta_csgo2"
+	"ze_tyranny_v5_go3"
 	{
 		"chi"		"暴君"
 		"credit"		"1500"
@@ -1445,7 +1443,7 @@
 	{
 		"chi"		"斯基利弗树林遗迹"
 	}
-	"ze_unknown_underground_a2_7"
+	"ze_unknown_underground_a2_8_2"
 	{
 		"chi"		"未知的秘密工厂"
 	}
@@ -1463,7 +1461,7 @@
 		"chi"		"坚守行动"
 		"credit"		"2000"
 	}
-	"ze_PKMN_Adventure_v7_4"
+	"ze_pkmn_adventure_v7_5f"
 	{
 		"chi"		"神奇宝贝冒险之旅"
 		"credit"		"700"
@@ -1502,9 +1500,9 @@
 	{
 		"chi"		"宠物小精灵冒险之旅"
 	}
-	"ze_S_A_M_a20"
+	"ze_S_A_M_a27"
 	{
-		"chi"		"刀剑神域"
+		"chi"		"剑与魔法"
 		"credit"		"500"
 	}
 	"ze_ffxiv_wanderers_palace_v2_11"
@@ -1624,7 +1622,7 @@
 	{
 		"chi"		"死亡核心"
 	}
-	"ze_surf_froyo_v1_6"
+	"ze_surf_froyo_v1_9"
 	{
 		"chi"		"滑翔大冒险"
 	}
@@ -1656,7 +1654,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_surf_froyo_lite_v2"
+	"ze_surf_froyo_lite_v2_2"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1680,7 +1678,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_Death_Valley_b1"
+	"ze_Death_Valley_b2"
 	{
 		"chi"		"死亡山谷"
 	}
@@ -1702,7 +1700,7 @@
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
-	"ze_lotr_minas_tirith_v3_3_ps39"
+	"ze_lotr_minas_tirith_v3_3_ps41"
 	{
 		"chi"		"魔戒3：米纳斯提力斯"
 		"onlyadmin"		"1"
@@ -1716,7 +1714,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_hsc_a4_q2_1"
+	"ze_hsc_a4_q3"
 	{
 		"chi"		"方块世界3"
 	}
@@ -1724,7 +1722,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_vietnam_p"
+	"ze_vietnam_p2"
 	{
 		"chi"		"越南丛林大冒险2"
 	}
@@ -1732,7 +1730,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffxii_westersand_v8zeta1_x14"
+	"ze_ffxii_westersand_v8zeta1_x16"
 	{
 		"chi"		"最终幻想12：西沙v8"
 	}
@@ -1777,6 +1775,26 @@
 		"chi"		"此地图暂无译名"
 	}
 	"ze_ShroomForest3_p"
+	{
+		"chi"		"蘑菇森林3"
+	}
+	"ze_grau_a01_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_S_A_M_a27"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tyranny_v5_go3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tyranny_v5_go"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_doorhug_and_solo_v52329324_d"
 	{
 		"chi"		"此地图暂无译名"
 	}
