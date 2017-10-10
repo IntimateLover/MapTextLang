@@ -57,4 +57,8 @@
 		"chi"		"**神经毒气将在40秒后释放 **"
 		"DoorCountDown"		"40"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

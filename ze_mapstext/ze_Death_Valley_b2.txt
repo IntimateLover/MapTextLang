@@ -92,4 +92,32 @@
 	{
 		"syncvalue"		"65761"
 	}
+	"** Someone damned the dam! **"
+	{
+		"chi"		"** **"
+	}
+	"** Watch out! Its gonna blow! **"
+	{
+		"chi"		"** **"
+	}
+	"** Top left door opening in 25 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Factory front door opening in 35 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Back door opening in 45 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Top right door opening in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** What are you expecting to open? **"
+	{
+		"chi"		"** **"
+	}
 }

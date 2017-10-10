@@ -40,7 +40,7 @@
 	"		"A"
 		"player"		"picked"
 		"up"		"Force"
-		"Speed"		"
+		"speed"		"
 	{
 		"
 		"chi"		"		"
@@ -123,7 +123,7 @@
 	"
 		"**Fall"		"back!"
 		"The"		"doors"
-		"are"		"open**"
+		"ARE"		"open**"
 		"
 	{
 		"		"chi"
@@ -301,7 +301,7 @@
 	}
 	"		"**Fall"
 		"back!"		"Droids"
-		"are"		"killed**"
+		"ARE"		"killed**"
 		"
 	{
 		"		"chi"
@@ -635,7 +635,7 @@
 		"**"		"
 	}
 	"
-		"Boss"		"fight"
+		"boss"		"fight"
 		"in"		"25"
 		"second"		"
 	{
@@ -657,7 +657,7 @@
 		"**"		"
 	}
 	"
-		"Boss"		"fight"
+		"boss"		"fight"
 		"in"		"5"
 		"second"		"
 	{
@@ -686,7 +686,7 @@
 		"icon_tip"		"
 	}
 	"
-		"Boss"		"USE"
+		"boss"		"USE"
 		"Push"		"
 	{
 		"
@@ -703,7 +703,7 @@
 		"**"		"
 	}
 	"
-		"Boss"		"USE"
+		"boss"		"USE"
 		"Grip"		"
 	{
 		"
@@ -844,7 +844,7 @@
 		"**"		"
 	}
 	"
-		"Boss"		"USE"
+		"boss"		"USE"
 		"SWORD."		"CROUCH!!!!!!"
 		"
 	{
@@ -1206,7 +1206,7 @@
 	}
 	"BOSS USE  GRIP"
 	{
-		"chi"		"**BOSS使用了吸 **"
+		"chi"		"**BOSS使用了水**"
 	}
 	"BOSS USE PUSH"
 	{

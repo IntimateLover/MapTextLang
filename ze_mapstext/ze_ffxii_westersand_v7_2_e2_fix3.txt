@@ -29,7 +29,7 @@
 		"chi"		"防守25秒，直到守卫开放道路"
 		"DoorCountdown"		"25"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"还剩5秒！"
 	}
@@ -262,7 +262,7 @@
 		"chi"		"**守住这里30秒**"
 		"DoorCountdown"		"30"
 	}
-	"** 5 more seconds **"
+	"** 5 MORE SECONDS **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -368,6 +368,10 @@
 		"chi"		"** **"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"Warning! 20 Red Laser Coming"
 	{
 		"chi"		"** **"
 	}
