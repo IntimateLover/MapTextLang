@@ -14,7 +14,7 @@
 	}
 	"Fight your way to the temple and escape!"
 	{
-		"chi"		"**摧毁神庙然后逃离**"
+		"chi"		"**找到通往神庙的道路然后逃离这里**"
 	}
 	"Warmup Round - 10 sec"
 	{
@@ -26,7 +26,7 @@
 	}
 	"Hold 30 sec"
 	{
-		"chi"		"**防守25秒**"
+		"chi"		"**防守30秒**"
 	}
 	"Warmup Round - End"
 	{
@@ -101,7 +101,7 @@
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
-		"chi"		"**我们找到了宝藏放假**"
+		"chi"		"**我们找到了宝藏房间**"
 	}
 	"** HOLD HERE TILL THE DOOR OPENS **"
 	{
@@ -114,7 +114,7 @@
 	}
 	"** END OF THE LINE - HOLD THE TOP **"
 	{
-		"chi"		"**抵达终点了，撑住**"
+		"chi"		"**我们快能离开这神庙了，撑住**"
 	}
 	"** ESCAPE VIA THE ROPES! **"
 	{
@@ -126,7 +126,7 @@
 	}
 	"** RUN !! THE TUNNEL IS COLLAPSING !! **"
 	{
-		"chi"		"**跑！这个隧道要崩溃了**"
+		"chi"		"**跑！这个隧道正在崩塌**"
 	}
 	"** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
 	{
@@ -154,7 +154,7 @@
 	}
 	"** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**一枚战术核弹即将爆炸**"
 	}
 	"Bomb exploding in 100 sec"
 	{
@@ -162,7 +162,7 @@
 	}
 	"** GET THERE BEFORE IT DETONATES! **"
 	{
-		"chi"		"** **"
+		"chi"		"**在其引爆前解除核弹**"
 	}
 	"Bomb exploding in 60 sec"
 	{
@@ -175,10 +175,11 @@
 	"Bomb exploding in 10 sec"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"10"
 	}
 	"** HURRY UP!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快点!!!**"
 	}
 	"KABOOOM"
 	{
