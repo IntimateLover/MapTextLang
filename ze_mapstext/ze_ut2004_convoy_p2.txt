@@ -38,7 +38,7 @@
 	}
 	"> BERSERK COMBO has been acquired"
 	{
-		"chi"		"**COMBO已被拿起（使用方法:按下E之后WWSS开启） **"
+		"chi"		"**无限子弹已被拿起（使用方法:按下E之后WWSS开启） **"
 	}
 	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
 	{
@@ -59,7 +59,7 @@
 	}
 	">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
 	{
-		"chi"		"**卡车上没有检测到友军 **"
+		"chi"		"**卡车上没有检测到人类 **"
 	}
 	">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
 	{
@@ -75,7 +75,7 @@
 	}
 	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
 	{
-		"chi"		"**不可以射击货舱！试图摧毁发动机或杀死司机！ **"
+		"chi"		"**不要射击货舱！试图摧毁发动机或杀死司机！ **"
 		"ico"		"icon_fire"
 	}
 	">>> THE REAR DOOR HAS BEEN OPENED <<<"
@@ -196,7 +196,7 @@
 	}
 	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
 	{
-		"chi"		"**提示：你可以做到这一点.通过站在靠近船舶后部的拉杆附近 **"
+		"chi"		"**提示：你可以做到这一点.通过站在靠近船舶后部的拉杆附近数秒 **"
 	}
 	">>> WE ARE LEAVING IN 10 SECONDS! <<<"
 	{
