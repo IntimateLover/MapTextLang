@@ -83,7 +83,7 @@
 	"<<< Defend at top of stairs for 35 seconds! >>>"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"<<< Climb!!! >>>"
 	{
@@ -147,7 +147,7 @@
 	}
 	"<<< Defend for 60 seconds! >>>"
 	{
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 		"chi"		"** **"
 	}
 	"<<< Disperse >>>"
@@ -183,6 +183,10 @@
 		"chi"		"** **"
 	}
 	"<<< Level 3 Complete! >>>"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

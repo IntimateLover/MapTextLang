@@ -161,7 +161,7 @@
 		"chi"		"小鸡城堡大逃亡"
 		"credit"		"400"
 	}
-	"ze_colorlicouspilar_fixcsgo"
+	"ze_colorlicouspilar_p4"
 	{
 		"chi"		"彩色世界"
 		"credit"		"400"
@@ -862,7 +862,7 @@
 	{
 		"chi"		"跳刀e5"
 	}
-	"ze_haunted_lab_escape_v2c_e3"
+	"ze_haunted_lab_escape_p2"
 	{
 		"chi"		"闹鬼实验室"
 		"credit"		"400"
@@ -905,6 +905,8 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"chi"		"最终幻想7：魔光炉"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
 	}
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
@@ -1056,7 +1058,7 @@
 	}
 	"ze_ancient_wrath_v1_2"
 	{
-		"chi"		"生化金字塔"
+		"chi"		"金字塔"
 		"credit"		"600"
 	}
 	"ze_starwars_v2fix"
@@ -1439,9 +1441,9 @@
 	{
 		"chi"		"漂浮的城市"
 	}
-	"ze_suchirifu_v3"
+	"ze_suchirifu_v3_1"
 	{
-		"chi"		"斯基利弗树林遗迹"
+		"chi"		"国家森林遗迹"
 	}
 	"ze_unknown_underground_a2_8_2"
 	{
@@ -1622,7 +1624,7 @@
 	{
 		"chi"		"死亡核心"
 	}
-	"ze_surf_froyo_v1_9"
+	"ze_surf_froyo_v2"
 	{
 		"chi"		"滑翔大冒险"
 	}
@@ -1732,7 +1734,7 @@
 	}
 	"ze_ffxii_westersand_v8zeta1_x16"
 	{
-		"chi"		"最终幻想12：西沙v8"
+		"chi"		"最终幻想12：西沙"
 	}
 	"ze_grand_boatescape_p3"
 	{
@@ -1778,24 +1780,16 @@
 	{
 		"chi"		"蘑菇森林3"
 	}
-	"ze_grau_a01_2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_S_A_M_a27"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_tyranny_v5_go3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_tyranny_v5_go"
+	"ze_grau_a01_10"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_doorhug_and_solo_v52329324_d"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"贴门就能搜楼"
+	}
+	"ze_nothing_alpha2"
+	{
+		"chi"		"湮灭之城2"
 	}
 }
