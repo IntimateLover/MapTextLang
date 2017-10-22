@@ -379,13 +379,5 @@
 	}
 	"MapGlobal_ConVars"
 	{
-		"0"
-		{
-			"cvar"		"sm_molotov_limit 0"
-		}
-		"1"
-		{
-			"cvar"		"sm_molotov_limit 1"
-		}
 	}
 }

@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"*** ATTENTION Silo Doors Open in 1 Minutes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bridge Activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ATTENTION Silo Doors Open in 30 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** ATTENTION Silo Doors Opening***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleporter will be fully charged in 20secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleporter ERROR!***"
+	{
+		"chi"		"** **"
+	}
+	"* * * Hold this door untill Steve does something * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Hold this position for 30 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * 10 seconds left * * *"
+	{
+		"chi"		"** **"
+	}
+	"**Stay in the circle! Zombies cant go in!**"
+	{
+		"chi"		"** **"
+	}
+}

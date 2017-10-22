@@ -215,7 +215,7 @@
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Welcome to Negative Legacy ***"
 	{
@@ -242,6 +242,10 @@
 		"chi"		"** **"
 	}
 	"WARNING!!"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}
