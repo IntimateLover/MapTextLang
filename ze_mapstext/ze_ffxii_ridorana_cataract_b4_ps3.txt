@@ -14,7 +14,7 @@
 	}
 	"**NORMAL MODE**"
 	{
-		"chi"		"**普通难度**"
+		"chi"		"**普通模式**"
 	}
 	"**The gates will open in 20 seconds**"
 	{
@@ -26,11 +26,11 @@
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
-		"chi"		"**一位玩家拿起了冰冻法杖**"
+		"chi"		"**一位玩家拿起了冰冻法杖（等级：1）**"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	{
-		"chi"		"**一位玩家拿起了火焰法杖**"
+		"chi"		"**一位玩家拿起了火焰法杖（等级：1）**"
 	}
 	"**The gates will open in 15 seconds**"
 	{
@@ -42,15 +42,15 @@
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
-		"chi"		"**一位玩家拿起了治疗法杖**"
+		"chi"		"**一位玩家拿起了治疗法杖（等级1）**"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	{
-		"chi"		"**一位玩家拿起了雷电法杖**"
+		"chi"		"**一位玩家拿起了雷电法杖（等级：1）**"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
-		"chi"		"**一位玩家拿起了撺掇法杖**"
+		"chi"		"**一位玩家拿起了黑洞法杖（等级：1）**"
 	}
 	"**The random way will open in 25 seconds**"
 	{
@@ -78,74 +78,74 @@
 	}
 	"** You have beaten NORMAL MODE! Congratulations! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你通过了普通模式！恭喜你！ **"
 	}
 	"**HARD MODE**"
 	{
-		"chi"		"** **"
+		"chi"		"**困难模式 **"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了冰冻法杖（等级：2） **"
 	}
 	"**The Hydro is defeated** **Keep running**"
 	{
-		"chi"		"** **"
+		"chi"		"** 亥伊多已死 ** 继续跑 **"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了雷电法杖（等级：2） **"
 	}
 	"**The door will open in 25 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后打开 **"
 	}
 	"**Hold here for 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里10秒 **"
 	}
 	"**Wait before the airflow starts**"
 	{
-		"chi"		"** **"
+		"chi"		"**在气流出现前请等待 **"
 	}
 	"**The arena gates will open in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**竞技场大门将在20秒后开启 **"
 	}
 	"**Oh no the sword dissapeared..We will back there next time..**"
 	{
-		"chi"		"** **"
+		"chi"		"**不！终极之剑消失了，我们下次还会再来的..**"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了火焰法杖（等级：2） **"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了飓风法杖（等级：2） **"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了黑洞法杖（等级：2） **"
 	}
 	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了终极之剑 **"
 	}
 	"**You are too slow..**"
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了.. **"
 	}
 	"**The final gates will open in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门将在30秒后打开 **"
 	}
 	"**Is this over...or not?...**"
 	{
-		"chi"		"** **"
+		"chi"		"**已经结束了吗？ **"
 	}
 	"** You have beaten HARD MODE! Congratulations! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你通过了困难模式！恭喜你 **"
 	}
 }
