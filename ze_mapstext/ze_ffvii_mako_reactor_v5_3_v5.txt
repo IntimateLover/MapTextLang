@@ -18,15 +18,15 @@
 	}
 	"**CURRENT DIFFICULTY ** >> NORMAL << **"
 	{
-		"chi"		"**当前难度  >>>>简单<<<<**"
+		"chi"		"**当前难度:普通**"
 	}
 	"*** MATERIAS AT LVL 1 ***"
 	{
-		"chi"		"**地图元素等级>>lv 1<<**"
+		"chi"		"**地图元素等级：LV1**"
 	}
 	"**Door opening in 10 seconds**"
 	{
-		"chi"		"**大门将在10S后打开！！**"
+		"chi"		"**中门将在10S后打开！！**"
 	}
 	"**Superior door opening in 30 seconds**"
 	{
@@ -35,68 +35,68 @@
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
-		"chi"		"**大门将在5S后打开（神器准备了！！！）**"
+		"chi"		"**大门将在5S后打开（神器准备使用）**"
 	}
 	"** A player has adquired WIND MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了风元素<<**"
+		"chi"		"**一位玩家拾起了风元素**"
 	}
 	"** A player has adquired EARTH MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了土元素<<**"
+		"chi"		"**一位玩家拾起了土元素**"
 	}
 	"**Door is opening in 10 seconds**"
 	{
-		"chi"		"**>>门将在10S后打开<<**"
+		"chi"		"**门将在10S后打开**"
 	}
 	"**Door is opening in 5**"
 	{
-		"chi"		"**>>门将在5S后打开<<**"
+		"chi"		"**门将在5S后打开**"
 	}
 	"**Door is open**"
 	{
-		"chi"		"**>>门开了！装B的自重！<<**"
+		"chi"		"**门已打开**"
 	}
 	"**Elevator is leaving in 10s**"
 	{
-		"chi"		"**>>电梯将在10S后离开<<**"
+		"chi"		"**电梯将在10S后离开**"
 		"DoorCountdown"		"10"
 	}
 	"** A player has adquired GRAVITY MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了黑洞元素<<**"
+		"chi"		"**一位玩家拾起了黑洞元素**"
 	}
 	"** A player has adquired ICE MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了冰元素<<**"
+		"chi"		"**一位玩家拾起了冰元素**"
 	}
 	"** A player has adquired HEAL MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了奶元素<<**"
+		"chi"		"**一位玩家拾起了奶元素**"
 	}
 	"** We have reached the core  ...**"
 	{
-		"chi"		"**我们已经到达了核心....**"
+		"chi"		"**我们已经到达魔光炉**"
 	}
 	"** ... Cloud is planting the bomb **"
 	{
-		"chi"		"**克劳德正在安放炸弹....**"
+		"chi"		"**克劳德正在安放炸弹**"
 	}
 	"** Bomb has been planted  **  Run **"
 	{
-		"chi"		"**炸弹已安装完毕！原路返回！！！**"
+		"chi"		"**炸弹已安装完毕-原路返回**"
 	}
 	"**Keep shooting ! We dont know what it can do **"
 	{
-		"chi"		"**保持输出！我们不知道它会干什么！！！**"
+		"chi"		"**BOSS已到来-杀了它**"
 	}
 	"** The monster is going to attack ! **"
 	{
-		"chi"		"**它发动了攻击！！！！**"
+		"chi"		"**BOSS发起了攻击**"
 	}
 	"**Its dead ** Go go! Run upstairs ! **"
 	{
-		"chi"		"**它死了！快跑！！上楼！！！**"
+		"chi"		"**BOSS已死亡-原路返回**"
 	}
 	"** EXPLOSION IN 145 SECONDS **"
 	{
@@ -117,11 +117,10 @@
 	"**  80 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩80秒**"
-		"DoorCountdown"		"10"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
-		"chi"		"**大门将在35S后打开！去控制室寻找方法让门提前打开！！**"
+		"chi"		"**大门将在35S后打开-控制室有提前开门的方法，找到它**"
 		"DoorCountdown"		"35"
 	}
 	"**  70 SECONDS LEFT **"
@@ -130,8 +129,7 @@
 	}
 	"** Well done! Door is opening in 10 seconds **"
 	{
-		"chi"		"**干得漂亮！大门将在10S后开启！！**"
-		"DoorCountdown"		"10"
+		"chi"		"**干得漂亮-大门将在10S后开启**"
 	}
 	"**  60 SECONDS LEFT **"
 	{
@@ -155,35 +153,35 @@
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
-		"chi"		"**恭喜！你通过了正常难度！下一关将会是困难难度！！**"
+		"chi"		"**恭喜-普通模式已通过**"
 	}
 	"**CURRENT DIFFICULTY ** >> HARD << **"
 	{
-		"chi"		"**当前难度>>困难<<**"
+		"chi"		"**当前难度：困难**"
 	}
 	"*** MATERIAS AT LVL 2 ***"
 	{
-		"chi"		"**地图元素等级 lv2**"
+		"chi"		"**地图元素等级：LV2**"
 	}
 	"** A player has adquired ULTIMA MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了终极元素<<**"
+		"chi"		"**一位玩家拾起了终极元素**"
 	}
 	"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
 	{
-		"chi"		"**提示:手雷可以造成大量伤害！多扔点！！**"
+		"chi"		"**提示:手雷可以造成大量伤害**"
 	}
 	"** Dont stop shooting ! Dont let him attack !"
 	{
-		"chi"		"**保持火力！！不要让他攻击！！！**"
+		"chi"		"**保持火力-不要让他攻击**"
 	}
 	"** Bahamut is in attack position ** Keep firing !! **"
 	{
-		"chi"		"**巴哈姆特即将发起攻击！保持火力！！！**"
+		"chi"		"**巴哈姆特即将发起攻击-射击！**"
 	}
 	"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
 	{
-		"chi"		"**巴哈姆特被打败了！快跑！！上楼！！！**"
+		"chi"		"**巴哈姆特已死-原路返回**"
 	}
 	"** EXPLOSION IN 120 SECONDS **"
 	{
@@ -195,19 +193,19 @@
 	}
 	"** RUN! **"
 	{
-		"chi"		"**快跑！！！快跑！！！**"
+		"chi"		"**快跑**"
 	}
 	"** A player has adquired ELECTRO MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了电元素<<**"
+		"chi"		"**一位玩家拾起了电元素**"
 	}
 	"**Nice done! You interrumped Sephiroth s attack**"
 	{
-		"chi"		"**干得漂亮！你阻止了萨菲罗斯的阴谋！！**"
+		"chi"		"**干得漂亮-你粉碎了萨菲罗斯的阴谋**"
 	}
 	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **"
 	{
-		"chi"		"**你做到了！你征服了困难难度！下一关将是极限！！！祝你好运！**"
+		"chi"		"**恭喜-困难模式已通过**"
 	}
 	"**CURRENT DIFFICULTY ** >> EXTREME << **"
 	{
@@ -215,15 +213,15 @@
 	}
 	"*** MATERIAS AT LVL 3 ***"
 	{
-		"chi"		"**地图元素等级  lv3**"
+		"chi"		"**地图元素等级：LV3**"
 	}
 	"** A player has adquired FIRE MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了火元素<<**"
+		"chi"		"**一位玩家拾起了火元素**"
 	}
 	"** Door is opening in 7 seconds **"
 	{
-		"chi"		"**大厅门将在7S后打开**"
+		"chi"		"**舞台门将在7S后打开**"
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
@@ -248,15 +246,15 @@
 	}
 	"** ZOMBIES HAVE INFECTED THE BUNKER **"
 	{
-		"chi"		"**僵尸进去了！！！你输了！！！**"
+		"chi"		"**僵尸已逃脱-你输了**"
 	}
 	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! **"
 	{
-		"chi"		"**干得漂亮！你击败了极限难度！准备好迎接地狱吧！！！**"
+		"chi"		"**恭喜-极限模式已通过**"
 	}
-	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+	"**CURRENT DIFFICULTY ** >> EXTREMEII << **"
 	{
-		"chi"		"**当前难度>>极限 II<<**"
+		"chi"		"**当前难度>>EX2<<**"
 	}
 	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
 	{
@@ -268,29 +266,30 @@
 	}
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
-		"chi"		"**警告！巴哈姆特将要释放红终！准备好使用3级奶！！**"
+		"chi"		"**警告：巴哈姆特将要释放红终-准备使用奶神器**"
 		"DoorCountdown"		"20"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
-		"chi"		"**巴哈姆特死了！！继续前进！！！**"
+		"chi"		"**巴哈姆特已死亡-原路返回**"
 	}
 	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
 	{
-		"chi"		"**恭喜！你成功征服了本神图！！！**"
+		"chi"		"**恭喜-你已征服本神图**"
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
 		"command"		"sm_aei_hammerid 140676 use"
-		"chi"		"**难度完成！下一关将会是ZM关卡！！**"
+		"chi"		"**地图通关-下一关将会是僵尸感染模式**"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
 	{
-		"chi"		"**ZM难度！！注意！不要按照正常的路线走！！**"
+		"chi"		"**僵尸感染-注意，不要按照正常的路线走**"
 	}
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
 		"chi"		"**4 MINUTES后核爆！！！**"
+		"DoorCountdown"		"240"
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
@@ -310,52 +309,48 @@
 	}
 	"** ADMIN PRESSED KILL ALL BUTTON **"
 	{
-		"chi"		"**唔。。。你要死啦！！！**"
+		"chi"		"**管理员按下KILL ALL按钮**"
 	}
 	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
 	{
-		"chi"		"**巴哈姆特要放嘴炮啦！！！！开枪！！！！**"
+		"chi"		"**警告：巴哈姆特想要杀了我们**"
 	}
 	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
 	{
-		"chi"		"**巴哈姆特回复了300HP**"
+		"chi"		"**警告：巴哈姆特使用了治疗**"
 	}
 	"** BAHAMUT HAS CAST FIRE! **"
 	{
-		"chi"		"**巴哈姆特释放了火！！（往后退！！）**"
+		"chi"		"**警告：巴哈姆特使用了火焰（往后退）**"
 	}
 	"** BAHAMUT HAS CAST ELECTRO! **"
 	{
-		"chi"		"**巴哈姆特释放了电！！（跳上栏杆！！）**"
+		"chi"		"**警告：巴哈姆特使用了电（跳上栏杆）**"
 	}
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
-		"chi"		"**巴哈姆特即将毁灭我们！继续攻击！！！**"
-		"funchi"		"**快丢雷，不然你们就要死了**"
+		"chi"		"**警告：巴哈姆特将在8秒后毁灭我们**"
 		"DoorCountdown"		"7"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
-		"chi"		"**巴哈姆特释放了风！！**"
-		"funchi"		"**不用担心，你们只会被压制后退**"
+		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
-		"chi"		"**巴哈姆特释放了黑洞！！**"
-		"funchi"		"**你们将会被吸到BOSS脚下**"
+		"chi"		"**警告：巴哈姆特使用了黑洞（按住S）**"
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
-		"chi"		"**巴哈姆特释放了冰！！**"
-		"funchi"		"**不用担心，你们只会被冻结几秒**"
+		"chi"		"**警告：巴哈姆特使用了冰**"
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
-		"chi"		"**巴哈姆特释放了土！！集火打碎！！！**"
+		"chi"		"**警告：巴哈姆特使用了土（集火打碎）**"
 	}
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
-		"chi"		"**终极将在10S后爆炸...**"
+		"chi"		"**警告：终极将在10S后爆炸（快丢雷）**"
 	}
 	"** 3 COWBELLS LEFT! **"
 	{
@@ -375,7 +370,7 @@
 	}
 	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有彩蛋已被打碎-巴哈姆特不会释放技能 **"
 	}
 	"MapGlobal_ConVars"
 	{
