@@ -36,4 +36,24 @@
 	{
 		"chi"		"** **"
 	}
+	"Infection detected! locking down."
+	{
+		"chi"		"** **"
+	}
+	"Door jammed! find another way!"
+	{
+		"chi"		"** **"
+	}
+	"Infection found! access denied."
+	{
+		"chi"		"** **"
+	}
+	"(Base): Elivator leaving in 3 secs."
+	{
+		"chi"		"** **"
+	}
+	"(Base): Elivator stuck!"
+	{
+		"chi"		"** **"
+	}
 }
