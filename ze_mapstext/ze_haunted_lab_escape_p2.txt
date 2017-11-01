@@ -164,4 +164,16 @@
 	{
 		"syncvalue"		"75579"
 	}
+	"* * The Electric Water will be disabled in 15 seconds! * *"
+	{
+		"chi"		"** **"
+	}
+	"* * Pull the Lever to charge the Teleport! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Nervegas Activated in 5 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
 }

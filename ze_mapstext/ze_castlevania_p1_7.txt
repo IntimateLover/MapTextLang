@@ -433,7 +433,7 @@
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -517,7 +517,7 @@
 	{
 		"chi"		"**找到出路**"
 	}
-	"***HOLD FOR 20 SECONDS***"
+	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
 		"DoorCountdown"		"20"
@@ -650,5 +650,9 @@
 		{
 			"cvar"		"zr_infect_mzombie_ratio 7"
 		}
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

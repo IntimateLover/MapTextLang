@@ -26,7 +26,7 @@
 	}
 	"**Door opening in 10 seconds**"
 	{
-		"chi"		"**中门将在10S后打开！！**"
+		"chi"		"**中门将在10S后打开！**"
 	}
 	"**Superior door opening in 30 seconds**"
 	{
@@ -47,11 +47,11 @@
 	}
 	"**Door is opening in 10 seconds**"
 	{
-		"chi"		"**门将在10S后打开**"
+		"chi"		"**门将于10秒后打开**"
 	}
 	"**Door is opening in 5**"
 	{
-		"chi"		"**门将在5S后打开**"
+		"chi"		"**门将于5秒后打开**"
 	}
 	"**Door is open**"
 	{
@@ -117,6 +117,7 @@
 	"**  80 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩80秒**"
+		"DoorCountdown"		"10"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
@@ -130,6 +131,7 @@
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮-大门将在10S后开启**"
+		"DoorCountdown"		"10"
 	}
 	"**  60 SECONDS LEFT **"
 	{
@@ -181,7 +183,7 @@
 	}
 	"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
 	{
-		"chi"		"**巴哈姆特已死-原路返回**"
+		"chi"		"**巴哈姆特已受伤-原路返回**"
 	}
 	"** EXPLOSION IN 120 SECONDS **"
 	{
@@ -193,7 +195,7 @@
 	}
 	"** RUN! **"
 	{
-		"chi"		"**快跑**"
+		"chi"		"**快跑！！！快跑！！！**"
 	}
 	"** A player has adquired ELECTRO MATERIA **"
 	{
@@ -209,7 +211,7 @@
 	}
 	"**CURRENT DIFFICULTY ** >> EXTREME << **"
 	{
-		"chi"		"**当前难度>>极限<<**"
+		"chi"		"**当前难度：极限**"
 	}
 	"*** MATERIAS AT LVL 3 ***"
 	{
@@ -231,16 +233,16 @@
 	{
 		"chi"		"**警告：还剩120秒**"
 	}
-	"** 30 SECONDS LEFT **"
+	"** 30 seconds left **"
 	{
 		"chi"		"**警告：还剩30秒**"
 	}
-	"** 20 SECONDS LEFT **"
+	"** 20 seconds left **"
 	{
 		"chi"		"**警告：还剩20秒**"
 		"DoorCountdown"		"20"
 	}
-	"** 10 SECONDS LEFT **"
+	"** 10 seconds left **"
 	{
 		"chi"		"**警告：还剩10秒**"
 	}
@@ -252,9 +254,9 @@
 	{
 		"chi"		"**恭喜-极限模式已通过**"
 	}
-	"**CURRENT DIFFICULTY ** >> EXTREMEII << **"
+	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
 	{
-		"chi"		"**当前难度>>EX2<<**"
+		"chi"		"**当前难度:极限II（一周目YEK=BAN）**"
 	}
 	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
 	{
@@ -289,7 +291,6 @@
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
 		"chi"		"**4 MINUTES后核爆！！！**"
-		"DoorCountdown"		"240"
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
@@ -329,20 +330,24 @@
 	}
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
-		"chi"		"**警告：巴哈姆特将在8秒后毁灭我们**"
+		"chi"		"**警告：巴哈姆特即将毁灭我们**"
+		"funchi"		"**快丢雷，不然你们就要死了**"
 		"DoorCountdown"		"7"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
 		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
+		"funchi"		"**不用担心，你们只会被压制后退**"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
-		"chi"		"**警告：巴哈姆特使用了黑洞（按住S）**"
+		"chi"		"**警告：巴哈姆特使用了黑洞（按住S后退）**"
+		"funchi"		"**你们将会被吸到BOSS脚下**"
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
 		"chi"		"**警告：巴哈姆特使用了冰**"
+		"funchi"		"**不用担心，你们只会被冻结几秒**"
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
@@ -370,9 +375,6 @@
 	}
 	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
 	{
-		"chi"		"**所有彩蛋已被打碎-巴哈姆特不会释放技能 **"
-	}
-	"MapGlobal_ConVars"
-	{
+		"chi"		"**所有彩蛋已被打碎-巴哈姆特不会释放小型技能**"
 	}
 }

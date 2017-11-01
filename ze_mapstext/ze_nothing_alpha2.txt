@@ -24,7 +24,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -61,6 +61,26 @@
 		"chi"		"** **"
 	}
 	"*** The door open in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The door open in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Last door open in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU FAILED.. ***"
 	{
 		"chi"		"** **"
 	}

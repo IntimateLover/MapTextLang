@@ -1,0 +1,175 @@
+"Console_T"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"chi"		"**地图制作：Airvulpes 地图翻译：蓬莱山帅比♪**"
+	}
+	"*** Hold 30 seconds ***"
+	{
+		"chi"		"**守住30秒**"
+		"DoorCountdown"		"30"
+	}
+	"*** 20 seconds left ***"
+	{
+		"chi"		"**还剩20秒 **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"*** Hold 15 seconds ***"
+	{
+		"chi"		"**守住15秒**"
+		"DoorCountdown"		"15"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"**守住20秒**"
+		"DoorCountdown"		"20"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"20024"
+	}
+	"*** Hold 40 seconds ***"
+	{
+		"chi"		"**守住40秒**"
+		"DoorCountdown"		"40"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"**还剩30秒 **"
+	}
+	"*** 10 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 9 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 8 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 7 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 6 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"chi"		"**守住10秒**"
+		"DoorCountdown"		"10"
+	}
+	"*** Hold 5 seconds ***"
+	{
+		"chi"		"**守住5秒 **"
+	}
+	"*** 100 ***"
+	{
+		"DoorCountdown"		"100"
+	}
+	"*** 90 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 80 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 70 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 60 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 50 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 40 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE GOT INSIDE THE LIFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE FAILED ***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"1"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 7"
+		}
+		"2"
+		{
+			"cvar"		"sm_decoy_limit 1"
+		}
+		"3"
+		{
+			"cvar"		"sm_smoke_limit 3"
+		}
+		"4"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"5"
+		{
+			"cvar"		"sm_taggrenade_limit 0"
+		}
+		"6"
+		{
+			"cvar"		"sm_he_limit 3"
+		}
+	}
+}
