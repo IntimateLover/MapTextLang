@@ -100,7 +100,7 @@
 	{
 		"chi"		"**城堡大门开启**"
 	}
-	"*** Gate opening in 25 seconds ***"
+	"*** GATE OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**大门25秒后打开**"
 		"DoorCountdown"		"25"
@@ -830,5 +830,13 @@
 		{
 			"cvar"		"zr_infect_mzombie_ratio 6.5"
 		}
+	}
+	">> THE MASTERBALL HAS BEEN PICKED UP <<"
+	{
+		"chi"		"** **"
+	}
+	">> SATAN ABSORB NADES TO HEAL HIMSELF <<"
+	{
+		"chi"		"** **"
 	}
 }

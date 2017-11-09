@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"**Map by TheIceTiger!**"
+	{
+		"chi"		"**地图制作：TheIceTiger!**"
+	}
+	"**Door to Tunnels opens in 30 seconds!**"
+	{
+		"chi"		"**隧道大门30秒后开启**"
+	}
+	"**Survive for 30 seconds!**"
+	{
+		"chi"		"**生存30秒**"
+	}
+	"**RUN!!**"
+	{
+		"chi"		"**跑**"
+	}
+	"**RUN!**"
+	{
+		"chi"		"**跑**"
+	}
+	"***Someone reached the top of the climb***"
+	{
+		"chi"		"**有人爬上了顶端**"
+	}
+	"***Elevator doors open***"
+	{
+		"chi"		"**电梯门已打开**"
+	}
+	"**Hold for 30 seconds!**"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"**Humans have reached the mine field!**"
+	{
+		"chi"		"**人类已经到达了雷区**"
+	}
+	"**Hold for 20 seconds!**"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"***Humans reached the vent thingies***"
+	{
+		"chi"		"**人类到达了通风口**"
+	}
+	"***Wait 50 seconds***"
+	{
+		"chi"		"**等待50秒**"
+	}
+	"***LAST DOOR!!! HOLD 1 MINUTE!***"
+	{
+		"chi"		"**守住最后一扇门1分钟**"
+	}
+	"***NUKE LAUNCHED!!!***"
+	{
+		"chi"		"**核弹发射**"
+	}
+	"***HOLD UNTIL DOOR CLOSES!!!***"
+	{
+		"chi"		"**守到门关**"
+	}
+}

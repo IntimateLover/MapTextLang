@@ -76,7 +76,8 @@
 	}
 	"** We have reached the core  ...**"
 	{
-		"chi"		"**我们已经到达魔光炉**"
+		"chi"		"**我们已到达魔光炉**距BOSS到来前还剩25秒**"
+		"DoorCountdown"		"25"
 	}
 	"** ... Cloud is planting the bomb **"
 	{
@@ -256,7 +257,7 @@
 	}
 	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
 	{
-		"chi"		"**当前难度:极限II（一周目YEK=BAN）**"
+		"chi"		"**当前难度：极限II（YEK=BAN)**"
 	}
 	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
 	{
@@ -281,7 +282,7 @@
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
-		"command"		"sm_aei_hammerid 800928 Disable"
+		"command"		"sm_aei_hammerid 140676 use"
 		"chi"		"**地图通关-下一关将会是僵尸感染模式**"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
@@ -331,19 +332,23 @@
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
 		"chi"		"**警告：巴哈姆特即将毁灭我们**"
+		"funchi"		"**快丢雷，不然你们就要死了**"
 		"DoorCountdown"		"7"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
 		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
+		"funchi"		"**不用担心，你们只会被压制后退**"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
 		"chi"		"**警告：巴哈姆特使用了黑洞（按住S后退）**"
+		"funchi"		"**你们将会被吸到BOSS脚下**"
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
 		"chi"		"**警告：巴哈姆特使用了冰**"
+		"funchi"		"**不用担心，你们只会被冻结几秒**"
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
@@ -372,5 +377,31 @@
 	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
 	{
 		"chi"		"**所有彩蛋已被打碎-巴哈姆特不会释放小型技能**"
+	}
+	"WARNING! BAHAMUT IS CASTING ULTIMA ** SHOOT HIM BEFORE HE KILL US ALL!!! **"
+	{
+		"chi"		"**警告：巴哈姆特释放了红终-在他把我们杀掉之前杀死他**"
+	}
+	"** Superior Door Is Locked ** Find Another Way To Go **"
+	{
+		"chi"		"**大门已锁-尝试找到另一条路**"
+	}
+	"** Side DOOR OPENS IN 10 s **"
+	{
+		"chi"		"**侧门10秒后打开**"
+		"DoorCountdown"		"10"
+	}
+	"**Bahamut has escaped ! ** Go Go! **"
+	{
+		"chi"		"**巴哈姆特已死亡-快跑**"
+	}
+	"** Elevator Is Running Out A Problem! ** Find Another Way To Go **"
+	{
+		"chi"		"**电梯似乎被人动过手脚-找一找有没有其他的路**"
+	}
+	"** Human Will Ignore Fall Damage In 30 Seconds **"
+	{
+		"chi"		"**人类将免疫30秒的摔落伤害**"
+		"DoorCountdown"		"30"
 	}
 }

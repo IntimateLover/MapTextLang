@@ -1,0 +1,213 @@
+"Console_T"
+{
+	"**Chapter L from Cytus**"
+	{
+		"chi"		"**第一章<<音乐世界>>**"
+		"DoorCountdown"		"106"
+	}
+	"**Map by Lv. 100 Crobat**"
+	{
+		"chi"		"**地图制作:Lv. 100 Crobat   翻译:Ayan♪**"
+	}
+	"**Survive inside the fort gate destroys**"
+	{
+		"chi"		"**在城堡内生存至僵尸传送**"
+	}
+	"**Zombies teleported inside the cage**"
+	{
+		"chi"		"**僵尸传送至尸笼**"
+	}
+	"**Big door destroyed, go on!**"
+	{
+		"chi"		"**大门已被破坏,快进去!**"
+		"DoorCountdown"		"76"
+	}
+	"**Sidewalls destroyed!**"
+	{
+		"chi"		"**两侧墙壁被破坏！**"
+	}
+	"**Fortress gate destroyed**"
+	{
+		"chi"		"**要塞大门已被摧毁**"
+	}
+	"**Defend the bridge**"
+	{
+		"chi"		"**守住桥**"
+	}
+	"**Get ready for laser**"
+	{
+		"chi"		"**准备好跳刀**"
+	}
+	"**Viz: Get inside the fort**"
+	{
+		"chi"		"**提示:进入堡垒**"
+	}
+	"**Viz: The possesion ritual must not be interrupted!**"
+	{
+		"chi"		"**所有的仪式都不能打扰！**"
+	}
+	"**If a zombie touches the ritual circle, its over**"
+	{
+		"chi"		"**如果一只僵尸碰到了仪式圈,那就会GG**"
+	}
+	"**Viz: Go to the sides of the castle, we will get attacked from there**"
+	{
+		"chi"		"**提示:走到城堡的另一边,我们也会在那里收到攻击**"
+	}
+	"**Viz: Ill block the main gate with rocks in 10 seconds**"
+	{
+		"chi"		"**提示:我会在10秒后用石头挡住大门**"
+	}
+	"**Viz: It begins..**"
+	{
+		"chi"		"**提示:正在开始...**"
+	}
+	"**Defend the castle until the 4 blue flames are channeled**"
+	{
+		"chi"		"**守住城堡,直到4个蓝色火焰引导成功**"
+	}
+	"**ZOMBIES REACHED VIZ CASTLE!**"
+	{
+		"chi"		"**僵尸到达城堡**"
+	}
+	"**Viz: Start falling back**"
+	{
+		"chi"		"**提示:开始撤退**"
+	}
+	"**Viz: GET BACK TO THE RITUAL CIRCLE!**"
+	{
+		"chi"		"**提示:回到仪式的圈子!**"
+	}
+	"**Viz: Ritual is completed, defend the circle**"
+	{
+		"chi"		"**提示:仪式完成,守住圈!**"
+	}
+	"**JUMP**"
+	{
+		"chi"		"**跳!**"
+	}
+	"**Choose a faction**"
+	{
+		"chi"		"**选择一个组织**"
+	}
+	"**Science represents as red, full arsenal of weapons (buyzone)**"
+	{
+		"chi"		"**科学代表红色,全武器(buyzone)**"
+	}
+	"**Religion represents as blue, only pistols, but gods power**"
+	{
+		"chi"		"**宗教代表蓝色,只有手枪,但拥有神的力量**"
+	}
+	"**To reach heaven easier, we need humans on both factions**"
+	{
+		"chi"		"**为了上天堂更容易,我们需要两个派系的人**"
+	}
+	"**Each faction needs to defend the Entrance from zombies**"
+	{
+		"chi"		"**每个派系的人都需要守住僵尸**"
+	}
+	"**Start falling back to the Entrance**"
+	{
+		"chi"		"**开始撤回至入口**"
+	}
+	"**Get on the ritual platform**"
+	{
+		"chi"		"**登上仪式平台**"
+	}
+	"**Viz: Lets see if you can take the Lower Test**"
+	{
+		"chi"		"**维兹卡亚:让我看看你们是否能参加难度较低的考试**"
+	}
+	"**You dont have to shoot Viz, just survive**"
+	{
+		"chi"		"**你不必开枪,只需要生存下来**"
+	}
+	"**Crouch and defend!**"
+	{
+		"chi"		"**蹲下守住!**"
+	}
+	"**Get ready to jump**"
+	{
+		"chi"		"**准备跳**"
+	}
+	"**Ready to defend**"
+	{
+		"chi"		"**准备回头守住**"
+	}
+	"**Viz: You survived the 1st round**"
+	{
+		"chi"		"**你在第一轮考试中幸存下来了**"
+	}
+	"**Viz: Lets travel through your memories...**"
+	{
+		"chi"		"**让我看下你的记忆...**"
+	}
+	"**Viz: ..and live them once again**"
+	{
+		"chi"		"**再生存一次**"
+	}
+	"**Humans defend the circle**"
+	{
+		"chi"		"**人类保护这个仪式圈**"
+	}
+	"**Viz: You survived round 2**"
+	{
+		"chi"		"**你在第二次考试幸存下来了**"
+	}
+	"**Viz: Survive this final round**"
+	{
+		"chi"		"**在最后一次考试中幸存下来**"
+	}
+	"**Get ready to dodge lasers!**"
+	{
+		"chi"		"**准备好跳刀!**"
+	}
+	"**Viz: Test passed**"
+	{
+		"chi"		"**恭喜你,测试通过**"
+	}
+	"**Humans win!**"
+	{
+		"chi"		"**人类胜利!**"
+	}
+	"***Gods Fire has been claimed***"
+	{
+		"chi"		"**一名玩家拿到了上帝之火(重力效果)**"
+	}
+	"***Recharge: 80 seconds.***"
+	{
+		"chi"		"**CD时间为80秒.**"
+	}
+	"**If zombies reach the boxes is over**"
+	{
+		"chi"		"**如果僵尸过了箱子,人类就GG**"
+	}
+	"**We must defend the city gates**"
+	{
+		"chi"		"**我们必须守住城门**"
+	}
+	"**Zombies reached the Religion Entrance**"
+	{
+		"chi"		"**僵尸到达宗教入口**"
+	}
+	"**ZOMBIES IN CIRCLE**"
+	{
+		"chi"		"**僵尸进入了宗教圈**"
+	}
+	"**HUMANS LOSE**"
+	{
+		"chi"		"**人类失败**"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+}
