@@ -180,32 +180,32 @@
 	}
 	"***THE FIRST LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个按钮被按了**"
 	}
 	"***THE SECOND LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个按钮被按了**"
 	}
 	"***ONE MORE TO GO...***"
 	{
-		"chi"		"** **"
+		"chi"		"**还差一个**"
 	}
 	"***ALL LEVERS HAVE BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**全部按钮都被按了**"
 	}
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后开门**"
 		"DoorCountdown"		"30"
 	}
 	"***THE GATES ARE OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开辣**"
 	}
 	"***ITS COMING***"
 	{
-		"chi"		"** **"
+		"chi"		"**他来了**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
