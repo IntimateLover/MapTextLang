@@ -282,7 +282,6 @@
 	}
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
-		"command"		"sm_aei_hammerid 140676 use"
 		"chi"		"**地图通关-下一关将会是僵尸感染模式**"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
@@ -292,6 +291,7 @@
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
 		"chi"		"**4 MINUTES后核爆！！！**"
+		"DoorCountdown"		"240"
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
@@ -332,23 +332,19 @@
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
 		"chi"		"**警告：巴哈姆特即将毁灭我们**"
-		"funchi"		"**快丢雷，不然你们就要死了**"
 		"DoorCountdown"		"7"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
 		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
-		"funchi"		"**不用担心，你们只会被压制后退**"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
 		"chi"		"**警告：巴哈姆特使用了黑洞（按住S后退）**"
-		"funchi"		"**你们将会被吸到BOSS脚下**"
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
 		"chi"		"**警告：巴哈姆特使用了冰**"
-		"funchi"		"**不用担心，你们只会被冻结几秒**"
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
@@ -389,7 +385,6 @@
 	"** Side DOOR OPENS IN 10 s **"
 	{
 		"chi"		"**侧门10秒后打开**"
-		"DoorCountdown"		"10"
 	}
 	"**Bahamut has escaped ! ** Go Go! **"
 	{
@@ -402,6 +397,5 @@
 	"** Human Will Ignore Fall Damage In 30 Seconds **"
 	{
 		"chi"		"**人类将免疫30秒的摔落伤害**"
-		"DoorCountdown"		"30"
 	}
 }
