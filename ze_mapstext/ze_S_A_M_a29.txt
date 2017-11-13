@@ -458,10 +458,10 @@
 	}
 	">>IS THAT YOUR CHOICE???<<"
 	{
-		"chi"		"** **"
+		"chi"		"**这就是你的选择吗???**"
 	}
 	">>SHOOT THE CRYSTAL!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**向那个水晶射击**"
 	}
 }
