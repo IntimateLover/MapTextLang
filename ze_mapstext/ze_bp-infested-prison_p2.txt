@@ -58,7 +58,7 @@
 	}
 	"[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]"
 	{
-		"chi"		"**守住！守不住是人类煞笔，进不来是僵尸煞笔。**"
+		"chi"		"**我们需要寻找一条出口离开这里,在这之前先守到大门关闭.**"
 	}
 	"[There's fumes going through the vents! Get out of there!]"
 	{
@@ -90,7 +90,7 @@
 	}
 	"[Dont touch those lasers!]"
 	{
-		"chi"		"** **"
+		"chi"		"**不要触碰这些激光!**"
 	}
 	"[Get through that gate up ahead and dont let them in.]"
 	{

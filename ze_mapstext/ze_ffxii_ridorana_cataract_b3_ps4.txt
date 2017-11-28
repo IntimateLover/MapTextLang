@@ -155,6 +155,7 @@
 	"**Wait before the airflow starts**"
 	{
 		"chi"		"**在气流出现前请等待**"
+		"DoorCountdown"		"20"
 	}
 	"**The arena gates will open in 20 seconds**"
 	{
@@ -320,5 +321,29 @@
 	"**You are late..**"
 	{
 		"chi"		"**你来的太晚了**"
+	}
+	"**ERROR FREEZE LEVEL**(SET FREEZE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**ERROR WIND LEVEL**(SET WIND LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**ERROR ELECTRO LEVEL**(SET ELECTRO LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**ERROR HEAL LEVEL**(SET HEAL LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**ERROR FIRE LEVEL**(SET FIRE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**ERROR DARK LEVEL**(SET DARK LEVEL 1)**"
+	{
+		"chi"		"** **"
 	}
 }

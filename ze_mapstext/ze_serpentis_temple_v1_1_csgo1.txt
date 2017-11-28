@@ -558,7 +558,14 @@
 	{
 		"chi"		"** **"
 	}
-	"[ADMIN ROOM] STAGE 2 NEXT ROUND"
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_precache_particles particlesmg_medusa.pcf"
+		}
+	}
+	"The Edge Of The Platform Will Be Dangerous Except Nuke(In Order To Limit The Area To Hexagonal Field)"
 	{
 		"chi"		"** **"
 	}
