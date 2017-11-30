@@ -1539,6 +1539,7 @@
 	"ze_gris_v1_11f5"
 	{
 		"chi"		"创世E B1F"
+		"credit"		"1500"
 	}
 	"ze_sandstorm_go_v1"
 	{
@@ -1627,6 +1628,7 @@
 	"ze_surf_froyo_v2"
 	{
 		"chi"		"滑翔大冒险"
+		"credit"		"1000"
 	}
 	"ze_l0v0l_a7_csgo4"
 	{
@@ -1647,6 +1649,7 @@
 	"ze_grau_a01_0"
 	{
 		"chi"		"创世Epro"
+		"credit"		"1500"
 	}
 	"ze_thriller_escape_p"
 	{
@@ -1782,7 +1785,8 @@
 	}
 	"ze_grau_a01_10"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"创世E"
+		"credit"		"1500"
 	}
 	"ze_doorhug_and_solo_v52329324_d"
 	{
