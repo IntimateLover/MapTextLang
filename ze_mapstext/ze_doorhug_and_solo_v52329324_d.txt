@@ -306,4 +306,12 @@
 	{
 		"chi"		"**好吧,大概15秒后就能守住你的屁股了**"
 	}
+	"**The BOSS was picked up by a zombie**"
+	{
+		"chi"		"** **"
+	}
+	"**This shit seems to be dead!** **Run to the final path**"
+	{
+		"chi"		"** **"
+	}
 }

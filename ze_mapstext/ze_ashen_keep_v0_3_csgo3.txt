@@ -2,147 +2,214 @@
 {
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"*** 重启游戏以防崩溃 *** 本图已禁用传送指令 ***"
+		"chi"		"** **"
 	}
 	"*** STAGE I ***"
 	{
-		"chi"		"*** 关卡 I ***"
+		"chi"		"** **"
 	}
 	"*** WARMUP - 50 SECONDS LEFT ***"
 	{
-		"chi"		"*** 热身 - 50秒后结束 ***"
+		"chi"		"** **"
 	}
 	"*** WARMUP - 40 SECONDS LEFT ***"
 	{
-		"chi"		"*** 热身 - 40秒后结束 ***"
+		"chi"		"** **"
 	}
 	"*** WARMUP - 30 SECONDS LEFT ***"
 	{
-		"chi"		"*** 热身 - 30秒后结束 ***"
+		"chi"		"** **"
 	}
 	"*** WARMUP - 20 SECONDS LEFT ***"
 	{
-		"chi"		"*** 热身 - 20秒后结束 ***"
+		"chi"		"** **"
 	}
 	"*** Lightning Orb has been acquired ***"
 	{
-		"chi"		"*** 雷电球已被拾取 ***"
+		"chi"		"** **"
 	}
 	"*** Glacial Orb has been acquired ***"
 	{
-		"chi"		"*** 冰霜球已被拾取 ***"
+		"chi"		"** **"
 	}
 	"*** WARMUP - 10 SECONDS LEFT ***"
 	{
-		"chi"		"*** 热身 - 10秒后结束 ***"
+		"chi"		"** **"
 	}
 	"*** WARMUP OVER - RESTARTING ROUND ***"
 	{
-		"chi"		"*** 热身结束 - 重置回合 ***"
+		"chi"		"** **"
 	}
 	"*** Divine Orb has been acquired ***"
 	{
-		"chi"		"*** 神圣球已被拾取 ***"
+		"chi"		"** **"
 	}
 	"*** Portcullis opening in 30 seconds ***"
 	{
-		"chi"		"*** 闸门将在 30 秒后开启 ***"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
-		"chi"		"*** 还剩 5 秒 ***"
+		"chi"		"** **"
 	}
 	"*** Spawn area teleport activating in 5 seconds ***"
 	{
-		"chi"		"*** 5 秒后向前推进出生点 ***"
+		"chi"		"** **"
 	}
 	"*** Abyssal Orb has been acquired ***"
 	{
-		"chi"		"*** 虚空球已被拾取 ***"
+		"chi"		"** **"
 	}
 	"*** Gust Orb has been acquired ***"
 	{
-	        "chi"		"*** 狂风球已被拾取 ***"
+		"chi"		"** **"
 	}
 	"*** Inner gate opening in 10 seconds ***"
 	{
-		"chi"		"*** 大门将在 10 秒后开启 ***"
-		"DoorCountDown"		"10"
+		"chi"		"** **"
 	}
 	"*** Bridge area teleport activating in 5 seconds ***"
 	{
-		"chi"		"*** 将在 5 秒后向前推进出生点 ***"
+		"chi"		"** **"
 	}
 	"*** Burning Orb has been acquired ***"
 	{
-		"chi"		"*** 燃烧球已被拾取 ***"
+		"chi"		"** **"
 	}
 	"*** Door opening in 45 seconds ***"
 	{
-		"chi"		"*** 大门将在 45 秒后打开 ***"
-		"DoorCountDown"		"45"
+		"chi"		"** **"
 	}
 	"*** Doors opening in 45 seconds ***"
 	{
-		"chi"		"*** 门将在 45 秒后打开 ***"
-		"DoorCountDown"		"45"
+		"chi"		"** **"
 	}
 	"*** Total destruction in 45 seconds ***"
 	{
-		"chi"		"*** 毁灭将在 45 秒后降临 ***"
-		"DoorCountDown"		"45"
+		"chi"		"** **"
 	}
 	"*** Castle area teleport activating in 5 seconds ***"
 	{
-		"chi"		"*** 将在 5 秒后向前推进出生点 ***"
+		"chi"		"** **"
 	}
 	"*** Round failed! Zombies have reached the objective! ***"
 	{
-		"chi"		"*** 关卡失败 - 僵尸抵达终点!***"
+		"chi"		"** **"
 	}
 	"*** Stage completed! ***"
 	{
-		"chi"		"*** 关卡挑战成功! 进入下一关卡!*** 地图翻译 by 色狼领袖 ***"
+		"chi"		"** **"
 	}
 	"*** STAGE II ***"
 	{
-		"chi"		"*** 关卡 II ***"
+		"chi"		"** **"
 	}
 	"*** Outer gate opening in 10 seconds ***"
 	{
-		"chi"		"*** 僵尸大门将在 10 秒后打开 ***"
+		"chi"		"** **"
 	}
 	"*** Chapel lift leaving in 30 seconds ***"
 	{
-		"chi"		"*** 塔楼电梯将在 30 秒后上升 ***"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"*** Windows breaking in 45 seconds ***"
 	{
-		"chi"		"*** 窗户将在 45 秒后破裂 ***"
-		"DoorCountDown"		"45"
+		"chi"		"** **"
 	}
 	"*** Doors closing in 45 seconds ***"
 	{
-		"chi"		"*** 塔楼门将在 45 秒后关闭 ***"
-		"DoorCountDown"		"45"
+		"chi"		"** **"
 	}
 	"*** Library lift leaving in 30 seconds ***"
 	{
-		"chi"		"*** 图书馆电梯将在 30 秒后离开 ***"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"*** The tomb has been reached ***"
 	{
-		"chi"		"*** 已到达墓地 ***"
+		"chi"		"** **"
 	}
 	"*** Defend the 4 statues for 45 seconds ***"
 	{
-		"chi"		"*** 守护四根雕像 45 秒 ***"
+		"chi"		"** **"
 	}
 	"*** Total destruction in 30 seconds ***"
 	{
-		"chi"		"*** 毁灭将在 30 秒后降临 ***"
+		"chi"		"** **"
+	}
+	"*** Total destruction in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Kill any remaining zombies ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE III ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Inner gate lever is stuck ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Find another way! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors opening in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fountain opening in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tower lifts activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tower lifts leaving in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend the tower for 60 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Prepare to jump! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** JUMP! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE IV (ZM) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 minutes left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 minute left ***"
+	{
+		"chi"		"** **"
 	}
 }

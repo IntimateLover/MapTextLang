@@ -16,7 +16,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Map By Nostar ***"
+	"*** Map by Nostar ***"
 	{
 		"chi"		"** **"
 	}
@@ -116,7 +116,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** HOLD 25 SECONDS ***"
+	"*** Hold 25 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -192,7 +192,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** DOOR OPEN IN 10 SECONDS ***"
+	"*** Door open in 10 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -265,6 +265,17 @@
 		"chi"		"** **"
 	}
 	"*** FINAL STAGE IN DEVELOPMENT  ***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_precache_particles particlesmg_medusa.pcf"
+		}
+	}
+	"*** KILL REMAINING ZOMBIES ***"
 	{
 		"chi"		"** **"
 	}

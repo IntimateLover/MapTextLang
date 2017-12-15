@@ -84,4 +84,20 @@
 	{
 		"syncvalue"		"92802"
 	}
+	"**It will break in 70 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**It will break in 80 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend this teleporter**"
+	{
+		"chi"		"** **"
+	}
+	"**For 50 seconds**"
+	{
+		"chi"		"** **"
+	}
 }

@@ -64,7 +64,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Defend 25 seconds ***"
+	"*** DEFEND 25 SECONDS ***"
 	{
 		"chi"		"** **"
 	}
@@ -81,6 +81,10 @@
 		"chi"		"** **"
 	}
 	"*** YOU FAILED.. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU DID IT!! ***"
 	{
 		"chi"		"** **"
 	}

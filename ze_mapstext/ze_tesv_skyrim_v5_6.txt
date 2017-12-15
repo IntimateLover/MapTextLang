@@ -130,6 +130,7 @@
 	">> Defend the bridge until door opens! <<"
 	{
 		"chi"		"**守住桥直到大门打开**"
+		"DoorCountdown"		"30"
 	}
 	">> Dragon has been spotted outside Whiterun! <<"
 	{
@@ -406,6 +407,10 @@
 		"chi"		"**奥杜因准备杀掉我们了！！！**"
 	}
 	">> Admin Pressed Kill All button! <<"
+	{
+		"chi"		"** **"
+	}
+	">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
 	{
 		"chi"		"** **"
 	}

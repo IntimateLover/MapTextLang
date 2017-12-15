@@ -372,4 +372,23 @@
 	{
 		"chi"		"** **"
 	}
+	"father"
+	{
+		"chi"		"** **"
+	}
+	"dick me"
+	{
+		"chi"		"** **"
+	}
+	"***IT IS OGRE NOW BITCHES***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+	}
 }
