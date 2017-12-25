@@ -1380,4 +1380,8 @@
 			"cvar"		"sm_molotov_limit 5"
 		}
 	}
+	"***LUFFAREN HAS ENTERED THE GAME***"
+	{
+		"chi"		"** **"
+	}
 }

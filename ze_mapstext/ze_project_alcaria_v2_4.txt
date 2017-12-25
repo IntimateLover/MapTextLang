@@ -207,7 +207,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -402,6 +402,14 @@
 		"chi"		"** **"
 	}
 	"### TO SHORT THE CIRCUIT OF THE ELEVATOR ###"
+	{
+		"chi"		"** **"
+	}
+	"### THE ELEVATOR ELECTRIC BOX IS BROKEN ###"
+	{
+		"chi"		"** **"
+	}
+	"### ELEVATOR WILL AUTOMATICLY LEAVING IN 10 SECONDS ###"
 	{
 		"chi"		"** **"
 	}

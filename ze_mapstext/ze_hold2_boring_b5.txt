@@ -2,12 +2,12 @@
 {
 	"** Door 1# will be opened in 90 seconds ! **"
 	{
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 		"chi"		"**一号大门将于90秒后打开**"
 	}
 	"** Door 2# will be opened in 90 seconds ! **"
 	{
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 		"chi"		"**2号大门将于90秒后打开**"
 	}
 	"** Zombie Buff : INVIS **"
@@ -24,17 +24,17 @@
 	}
 	"** Door 3# will be opened in 90 seconds ! **"
 	{
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 		"chi"		"**3号大门将于90秒后打开**"
 	}
 	"** Door 4# will be opened in 90 seconds ! **"
 	{
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 		"chi"		"**4号大门将于90秒后打开**"
 	}
 	"** Hold here 20s ! **"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Its very boring and very hard , but end is funny .**"
 	{
@@ -119,7 +119,7 @@
 	"** Door 7# will be opened in 90 seconds ! **"
 	{
 		"chi"		"**7号大门将于90秒后打开**"
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 	}
 	"** Door 5# will be opened in 60 seconds ! **"
 	{
@@ -144,12 +144,12 @@
 	"** Door 5# will be opened in 90 seconds ! **"
 	{
 		"chi"		"**5号大门将于90秒后打开**"
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 	}
 	"** Door 6# will be opened in 90 seconds ! **"
 	{
 		"chi"		"**6号大门将于90秒后打开**"
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 	}
 	"** Door 6# will be opened in 30 seconds ! **"
 	{
@@ -232,6 +232,10 @@
 		"chi"		"** **"
 	}
 	"** Sound Playing - Warmregard **"
+	{
+		"chi"		"** **"
+	}
+	"** Sound Playing - Badguys **"
 	{
 		"chi"		"** **"
 	}

@@ -1,0 +1,556 @@
+"Console_T"
+{
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身回合**"
+	}
+	"**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
+	{
+		"chi"		"**特别感谢：Kaesar Batnik_Refsmd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
+	}
+	"**Map Ported By ClariceTang**"
+	{
+		"chi"		"**地图移植：ClariceTang**"
+	}
+	"**ZE_FFXII_FEYWOOD**"
+	{
+		"chi"		"**最终幻想12:幻妖之森**"
+	}
+	"**MAP BY HaRyDe & Headshooter.SC**"
+	{
+		"chi"		"**地图制作: HaRyDe & Headshooter.SC 地图翻译:蓬莱山帅比♪**"
+	}
+	"**MAP START**"
+	{
+		"chi"		"**地图加载**"
+	}
+	"**CHOCHOBO SIDEQUEST STRATED**"
+	{
+		"chi"		"**陆行鸟支线任务启动**"
+	}
+	"**Welcome to Garland airship**"
+	{
+		"chi"		"**欢迎来到加兰多飞艇**"
+	}
+	"**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**"
+	{
+		"chi"		"**收集300GIL来开启陆行鸟商店**"
+	}
+	"**The airship is flying near Feywood. Search for some of items and get ready to set out**"
+	{
+		"chi"		"**飞艇正在接近幻妖之森附近,在飞艇上寻找一些道具-准备着陆**"
+	}
+	"**The teleporter to Feywood will be active in 30 seconds**"
+	{
+		"chi"		"**通往幻妖之森的传送将在30秒后启动**"
+		"DoorCountdown"		"30"
+	}
+	"**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
+	{
+		"chi"		"**一位玩家拿起了补给**"
+	}
+	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**GET INTO THE TELEPORTER**"
+	{
+		"chi"		"**进入传送点**"
+	}
+	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE GATE WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"**大门20秒后打开**"
+		"DoorCountdown"		"20"
+	}
+	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
+	{
+		"chi"		"**传送将在10秒后激活**"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了黑洞-Lv.1**"
+	}
+	"**DEFEND THE GROUND FOR 30 SECONDS**"
+	{
+		"chi"		"**在这里守住30秒**"
+		"DoorCountdown"		"30"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了冰-Lv.1**"
+	}
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"**大门20秒后打开**"
+		"DoorCountdown"		"20"
+	}
+	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了风-Lv.1**"
+	}
+	"**Cactus found. The player who did it got 1 level**"
+	{
+		"chi"		"**有一位玩家找到了仙人掌-找到的玩家神器等级+1**"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**THIS IS A DRAGON**WE MUST KILL HIM**"
+	{
+		"chi"		"**是一条龙-必须要杀了它**"
+	}
+	"** Nades do more damage **"
+	{
+		"chi"		"**手雷能造成更多伤害**"
+	}
+	"**THE DRAGON USED POISON**"
+	{
+		"chi"		"** **"
+	}
+	"**THE DRAGON USED WIND**"
+	{
+		"chi"		"**巨龙使用了风**"
+	}
+	"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
+	{
+		"chi"		"**巨龙开始吸收攻击-一颗子弹恢复10HP**"
+	}
+	"**THE DRAGON IS FLYING AWAY**GOOD WORK**"
+	{
+		"chi"		"**巨龙飞走了-干的漂亮**"
+	}
+	"**THE ROCK WILL EXPLODE IN 5 SECONDS**"
+	{
+		"chi"		"**堵路巨石将在5秒后被清除**"
+	}
+	"**THE WAY IS OPENED**"
+	{
+		"chi"		"**道路开放**"
+	}
+	"**THE TOMB GATES WILL OPEN IN 10 SECONDS**"
+	{
+		"chi"		"**墓穴大门将在10秒后打开**"
+	}
+	"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
+	{
+		"chi"		"**墓穴大门将在20秒后关闭**"
+		"DoorCountdown"		"25"
+	}
+	"**THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
+	{
+		"chi"		"**墓穴大门将在5秒后关闭**"
+	}
+	"** GOOD JOB [YOU WON LEVEL 1] **"
+	{
+		"chi"		"**干的漂亮-第一关通过**"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"15"
+	}
+	"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"**THE GATES ARE OPENING**"
+	{
+		"chi"		"**大门打开了**"
+	}
+	"**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**"
+	{
+		"chi"		"**你需要打碎左右两边的水晶才能打开大门**"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	{
+		"chi"		"**一位玩家拿起了电-Lv.1**"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+	{
+		"chi"		"**一位玩家拿起了奶-Lv.2**"
+	}
+	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"**THE GATES WILL OPEN IN 5 SECONDS**"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	"**OH NO! THIS IS A CHAOS**"
+	{
+		"chi"		"**哦不！是轮回王**"
+	}
+	"**CHAOS HAS CAST FIRAGA**"
+	{
+		"chi"		"**轮回王使用了火**"
+	}
+	"**CHAOS HAS CAST DARKAGA**"
+	{
+		"chi"		"**轮回王使用了黑洞**"
+	}
+	"**CHAOS HAS CAST TORNADO**"
+	{
+		"chi"		"**轮回王使用了风**"
+	}
+	"**CHAOS HAS CAST THUNDAGA**"
+	{
+		"chi"		"**轮回王使用了电**"
+	}
+	"**CHAOS HAS CAST BLIZZAGA**"
+	{
+		"chi"		"**轮回王使用了冰**"
+	}
+	"**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**"
+	{
+		"chi"		"**轮回王使用了神圣攻击-远离它**"
+	}
+	"**WE HAVE DEFEATED CHAOS**"
+	{
+		"chi"		"**我们打败了轮回王**"
+	}
+	"**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**"
+	{
+		"chi"		"**现在是时候离开这里了**"
+	}
+	"**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"35"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"**THE AIR SHIP IS LEAVING...**"
+	{
+		"chi"		"**飞艇已离开**"
+	}
+	"** GOOD JOB [YOU WON LEVEL 2] **"
+	{
+		"chi"		"**干的漂亮-你通过了第二关**"
+	}
+	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
+	{
+		"chi"		"**传送点将在15秒后激活**"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"chi"		"**一位玩家拿起了奶-Lv.3**"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	{
+		"chi"		"**一位玩家拿起了冰-Lv.3**"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**"
+	{
+		"chi"		"**你正在进入歌尔摩大森林-祝你好运**"
+	}
+	"**YOU WILL ENTER IN 5 SECONDS**"
+	{
+		"chi"		"**你将在5秒后进入**"
+	}
+	"**THE WAY WILL OPEN IN 25 SECONDS**"
+	{
+		"chi"		"**屏障将在25秒后关闭**"
+		"DoorCountdown"		"25"
+	}
+	"**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
+	{
+		"chi"		"**屏障将在25秒后关闭**"
+		"DoorCountdown"		"25"
+	}
+	"**..WHAT IS IT?!**"
+	{
+		"chi"		"**那是什么!?**"
+	}
+	"**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**"
+	{
+		"chi"		"**在僵尸把我们变成他们的同类前杀掉这条龙**"
+	}
+	"**WATCH OUT FOR THE STRONG WIND**"
+	{
+		"chi"		"**当心大风**"
+	}
+	"**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**"
+	{
+		"chi"		"**干得好-进入前面的小房子防守一段时间**"
+	}
+	"**THE GATES WILL CLOSE IN 25 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"25"
+	}
+	"**THE GATES ARE CLOSING**"
+	{
+		"chi"		"**闸门已关闭**"
+	}
+	"** GOOD JOB [YOU WON LEVEL 3] **"
+	{
+		"chi"		"**干的漂亮-你通过了第三关**"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"25"
+	}
+	"**FALL BACK**10 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**CHUCHULAINN HAS HEALED 150 HP**"
+	{
+		"chi"		"**不净王恢复了150HP**"
+	}
+	"**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**"
+	{
+		"chi"		"**BOSS已被击败-现在准备离开这个地方**"
+	}
+	"**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THE LAST GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"** GOOD JOB [YOU WON LEVEL 4] **"
+	{
+		"chi"		"** **"
+	}
+	"**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	{
+		"chi"		"**一位玩家拿起了黑洞-Lv.3**"
+	}
+	"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**THE GATES WILL OPEN IN 10 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**HOLD HERE FOR 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+	{
+		"chi"		"**一位玩家拿起了电-Lv.3**"
+	}
+	"**THE FENCES WILL OPEN SOON**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"**Good luck...**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU WILL ENTER THE ARENA IN 10 SECONDS****"
+	{
+		"chi"		"** **"
+	}
+	"**Nades do more damage**"
+	{
+		"chi"		"** **"
+	}
+	"**ZODIARK READIES SHIELD(BULLETS AND NADES DONT DAMAGE HIM)**"
+	{
+		"chi"		"**戒律王使用了无敌-子弹和神器无法对它造成伤害**"
+	}
+	"**ZODIARK READIES DARK. USE HEAL IF NESSESARY**"
+	{
+		"chi"		"**戒律王使用了暗黑攻击-在必要时使用奶神器**"
+	}
+	"**ZODIARK READIES FLARE**"
+	{
+		"chi"		"**戒律王使用了炽热射线**"
+	}
+	"***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
+	{
+		"chi"		"**戒律王使用了暗黑射线-远离它**"
+	}
+	"**THE BOSS IS DAMAGED BUT NOW HES THE MOST DANGEROUS**"
+	{
+		"chi"		"**戒律王受到了重创-但他现在非常危险**"
+	}
+	"**KILL HIM FASTER**"
+	{
+		"chi"		"** **"
+	}
+	"**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
+	{
+		"chi"		"**戒律王使用了终极-你们将在15秒后全部死亡**"
+		"DoorCountdown"		"15"
+	}
+	"**NADES ARENT DAMAGE HIM NOW**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**"
+	{
+		"chi"		"**你击败了BOSS-现在准备离开这个地方**"
+	}
+	"**THE END GATES WILL OPEN IN 50 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"chi"		"**一位玩家拿起了风Lv.3**"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	{
+		"chi"		"**一位玩家拿起了火-Lv.3**"
+	}
+	"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
+	{
+		"chi"		"** **"
+	}
+	"**DEFEND THIS PLACE FOR 15 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**GO GO GO!!**"
+	{
+		"chi"		"** **"
+	}
+	"**WE KILLED HIM. GO TO THE END OF THE ROAD***"
+	{
+		"chi"		"** **"
+	}
+	"**THE DRAGON USED FIRE**"
+	{
+		"chi"		"**巨龙使用了火**"
+	}
+	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**THE DRAGON HAS CAST DARKAGA**"
+	{
+		"chi"		"**巨龙使用了黑洞**"
+	}
+	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**CHUCHULAINN HAS USED SHIELD(YOU CANT USE ITEMS FOR 10 SEC)**"
+	{
+		"chi"		"** **"
+	}
+	"**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
+	{
+		"chi"		"**僵尸出笼-你失败了**"
+	}
+	"**THE DRAGON HAS CAST POISON**"
+	{
+		"chi"		"**巨龙使用了剧毒**"
+	}
+	"**CONGRATILATIONS YOU FINISHED CHOCOBO SIDEQUEST**"
+	{
+		"chi"		"** **"
+	}
+	"**CHOCOBO SHOP IS OPENED FOREVER HAVE A GOOD RIDE!**"
+	{
+		"chi"		"** **"
+	}
+	"**Human chocobo has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie chocobo has been picked up**"
+	{
+		"chi"		"** **"
+	}
+}
