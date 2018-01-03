@@ -1,97 +1,45 @@
 "Console_T"
 {
-	"MAP BY GEORGE"
-	{
-		"chi"		"** **"
-	}
-	"STAGE 1 - HYPER SPACE CUBE"
-	{
-		"chi"		"** **"
-	}
-	"THANKS TO LUFFAREN"
-	{
-		"chi"		"** **"
-	}
-	"THIS MAP IS IN ALPHA. THERE ARE ONLY TWO STAGES BUILT CURRENTLY."
-	{
-		"chi"		"** **"
-	}
 	"DOOR OPENS IN 35 SECONDS"
 	{
-		"chi"		"**门还有35秒开启**"
 		"DoorCountdown"		"35"
-	}
-	"ELEVATOR WILL RISE IN 15 SECONDS"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"15"
+		"chi"		"**门还有35秒开启**"
 	}
 	"DOOR WILL OPEN IN 25 SECONDS"
 	{
-		"chi"		"** **"
 		"DoorCountdown"		"25"
 	}
 	"THE DOOR WILL OPEN IN 30 SECONDS"
 	{
-		"chi"		"** **"
 		"DoorCountdown"		"30"
 	}
 	"THE DOOR WILL OPEN IN 20 SECONDS"
 	{
-		"chi"		"** **"
 		"DoorCountdown"		"20"
 	}
 	"A WAY WILL OPEN IN 15 SECONDS"
 	{
-		"chi"		"** **"
 		"DoorCountdown"		"15"
 	}
 	"A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
 	{
-		"chi"		"**两边的路25秒后开启，保持防御**"
 		"DoorCountdown"		"25"
+		"chi"		"**两边的路25秒后开启，保持防御**"
 	}
-	"THE DOORS WILL OPEN IN 30 SECONDS"
+	"ELEVATOR WILL RISE IN 30 SECONDS"
 	{
-		"chi"		"** **"
 		"DoorCountdown"		"30"
 	}
 	"THE NEXT DOORS WILL OPEN IN 15 SECONDS"
 	{
-		"chi"		"** **"
 		"DoorCountdown"		"15"
 	}
-	"ELEVATOR WILL RISE IN 30 SECONDS"
+	"ELEVATOR WILL RISE IN 15 SECONDS"
 	{
-		"chi"		"** **"
+		"DoorCountdown"		"15"
+	}
+	"THE DOORS WILL OPEN IN 30 SECONDS"
+	{
 		"DoorCountdown"		"30"
-	}
-	"STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
-	{
-		"chi"		"** **"
-	}
-	"A WAY WILL OPEN IN 40 SECONDS!"
-	{
-		"chi"		"** **"
-	}
-	"KEEP HOLDING! 15 MORE SECONDS!"
-	{
-		"chi"		"** **"
-	}
-	"THE WAY WILL OPEN IN 20 SECONDS!"
-	{
-		"chi"		"** **"
-	}
-	"THE ELEVATOR WILL RISE IN 30 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"THE DOORS WILL OPEN IN 25 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"RESIST FOR 30 MORE SECONDS!"
-	{
-		"chi"		"** **"
 	}
 }

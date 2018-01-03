@@ -2,27 +2,27 @@
 {
 	"** Defend 30 seconds until the guards open the hallway. **"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"chi"		"**守住这里-直到守卫打开走廊通道**"
 	}
 	"** The first door will open in 10 seconds **"
 	{
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 		"chi"		"**第一扇大门10秒后打开**"
 	}
 	"** The second door will open in 15 seconds **"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 		"chi"		"**下一扇大门15秒后打开**"
 	}
 	"** Cover here till the boxes explode **"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"chi"		"**箱子爆炸前守住这里**"
 	}
 	"** Bomb planted - hold 30 seconds **"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"chi"		"**守住30秒-直到石头爆炸**"
 	}
 	"** MAP BY SLAYERDRAGON & NOCTALI **"
@@ -100,7 +100,7 @@
 	"** Teleporters will be ready in 20 seconds ! **"
 	{
 		"chi"		"**传送器将在20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Teleporters will be ready in 5 seconds ! **"
 	{
@@ -109,17 +109,17 @@
 	"** Gates will open in 15 seconds **"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** The arena will open in 20 seconds **"
 	{
 		"chi"		"**竞技场大门将在20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Boss Fight in 10s **"
 	{
 		"chi"		"**BOSS感知了我们的到来**它将觉醒与10秒后**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Boss Fight in 5s **"
 	{
@@ -140,7 +140,7 @@
 	"** The final gate will open in 40 seconds **"
 	{
 		"chi"		"**最后大门将于40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"** The final gate will open in 5 seconds **"
 	{

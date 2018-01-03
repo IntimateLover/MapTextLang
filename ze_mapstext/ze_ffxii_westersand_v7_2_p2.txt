@@ -1,0 +1,198 @@
+"Console_T"
+{
+	"[NORMAL MODE]"
+	{
+		"chi"		"** [正常（NORMAL）模式] **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"** 地图制作 by SLAYERDRAGON 地图翻译 by 色狼领袖 **"
+	}
+	"** Defend untill the guards open the airport. **"
+	{
+		"chi"		"** 等待守卫打开机场 **"
+	}
+	"** Airport opened. **"
+	{
+		"chi"		"** 机场开启 **（最好有人断后）"
+	}
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"chi"		"** 防守 25 秒直到守卫打开走廊 **"
+		"DoorCountdown"		"25"
+	}
+	"** 5 Seconds left **"
+	{
+		"chi"		"** 还有 5 秒 **"
+	}
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"chi"		"** 守住这里，守卫将会打开登机门！ **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"chi"		"** 有玩家学会了  火魔法 **（范围减速）"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"chi"		"** 有玩家学会了  风魔法 **（MAKO的3级风）"
+	}
+	"** Cover here till the rock explodes **"
+	{
+		"chi"		"** 守住这里直到岩石爆炸 **（不要贴着岩石）"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"chi"		"** 有玩家学会了  水魔法 **（范围减速）"
+	}
+	"** The elevator will leave in 20 seconds **"
+	{
+		"chi"		"** 电梯将在 20 秒后离开 **"
+		"DoorCountdown"		"20"
+	}
+	"** The elevator will leave in 5 seconds **"
+	{
+		"chi"		"** 电梯将在 5 秒后离开 **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"chi"		"** 第一扇门将在 10 秒后打开 **"
+		"DoorCountdown"		"10"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"chi"		"** 第一扇门将在 15 秒后打开 **"
+		"DoorCountdown"		"15"
+	}
+	"** Keep defending!! **"
+	{
+		"chi"		"** 继续防守！！ **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"** 有玩家学会了  电魔法 **（范围减速）"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"chi"		"** 注意躲避火焰新星 **（或者用水来浇灭火）"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"chi"		"** 用水来浇灭火 **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"chi"		"** 有玩家学会了  治愈魔法 **（范围加血）"
+	}
+	"** METEOR INBOUND **"
+	{
+		"chi"		"** 注意躲避陨石 **（或者用电来打碎陨石）"
+	}
+	"** USE ELECTRO TO  BREAK IT **"
+	{
+		"chi"		"** 用电来打碎陨石 **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"chi"		"** 龙被击败了 **"
+	}
+	"** Nades do a lot of damage ** "
+	{
+		"chi"		"** 手雷可以对龙造成巨大伤害 **"
+	}
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"chi"		"** 坚持 10 秒直到岩石爆炸 **"
+		"DoorCountdown"		"10"
+	}
+	"** Go to the end of the road! **"
+	{
+		"chi"		"** 走到路的尽头！**"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 50 秒 **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 40 秒 **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 30 秒 **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 20 秒 **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 10 秒 **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 5 秒 **"
+	}
+	"** Congratulations - u won [NORMAL] **"
+	{
+		"chi"		"** 祝贺 - 你们战胜了[正常（NORMAL）] **"
+	}
+	"[HARD MODE]"
+	{
+		"chi"		"** [困难（HARD）模式] **"
+	}
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"chi"		"** 坚守 20 秒直到岩石爆炸 **"
+		"DoorCountdown"		"20"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"chi"		"** 逃生剩余时间 60 秒 **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"chi"		"** 有玩家学会了  土魔法 **"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"chi"		"** 释放僵尸 **"
+	}
+	"** A player has learned Holy magick. **"
+	{
+		"chi"		"** 有玩家学会了  秒杀魔法 **（蓄力是20秒）"
+	}
+	"** Congratulations - u won [HARD] **"
+	{
+		"chi"		"** 祝贺 - 你们战胜了[困难（HARD）] **"
+	}
+	"[EXTREME MODE]"
+	{
+		"chi"		"** [极限（EXTREME）模式]**"
+	}
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"chi"		"** 坚守 30 秒直到岩石爆炸 **"
+		"DoorCountdown"		"30"
+	}
+	"** Nades do a lot of damage **"
+	{
+		"chi"		"** **"
+	}
+	"** 70 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won [EXTREME] **"
+	{
+		"chi"		"** **"
+	}
+	"[EPIC MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** U have failed... **"
+	{
+		"chi"		"** **"
+	}
+}

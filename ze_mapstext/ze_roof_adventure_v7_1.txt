@@ -1265,4 +1265,40 @@
 	{
 		"chi"		"** **"
 	}
+	"***Rock monster uses lightning!(crouch)***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Laser]***"
+	{
+		"chi"		"** **"
+	}
+	"***Laser***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Surf]***"
+	{
+		"chi"		"** **"
+	}
+	"***Surf***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Wind]***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind***"
+	{
+		"chi"		"** **"
+	}
+	"***Choice begins in 20s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Choose a stage!***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -129,7 +129,7 @@
 	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
 	{
 		"chi"		"**我们曾经梦想别处-一个更为温和的地方-我们至此却会后悔的地方 **"
-		"DoorCountDown"		"22"
+		"DoorCountDown"  "22"
 	}
 	"** Ticking for not much longer and then... ...will we see your face again? **"
 	{
@@ -170,7 +170,7 @@
 	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
 	{
 		"chi"		"**蓝色：藏在玻璃碎片之后的脸，迷失在浓雾中...你在何方？ **"
-		"DoorCountDown"		"10"
+		"DoorCountDown" "10"
 	}
 	"** What do those forged smiles mean to the free men? **"
 	{
@@ -211,21 +211,21 @@
 	"** Up or down -- does it matter? It all ends up being the same... **"
 	{
 		"chi"		"**向上或者向下-有何关系呢？终究殊途同归 **"
-		"DoorCountDown"		"10"
+		"DoorCountDown" "10"
 	}
 	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
 	{
 		"chi"		"**注意过来和你胡闹的小怪 **"
-		"command"		"sm_clearbosshp"
+		"command" "sm_clearbosshp"
 	}
 	"** Lasciate ogne speranza, o voi chintrate. **"
 	{
-		"chi"		"**放弃所有的希望，你们谁将进入。 **"
+		"chi"		"**放弃所有的希望，你们谁将进入。 **" 
 	}
 	"** The tide shall turn as we see a little man crashing through a window... **"
 	{
 		"chi"		"**当我们看见一个小人从窗户中冲出的时候...时局将会逆转 **"
-		"command"		"sm_clearbosshp"
+		"command" "sm_clearbosshp"
 	}
 	"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
 	{
@@ -341,9 +341,5 @@
 	"** ...these words that lie forever, never turned to strokes by hand... **"
 	{
 		"chi"		"**这些永恒沉睡的言语，却无法成为紧握手中的根根画笔 **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
 	}
 }

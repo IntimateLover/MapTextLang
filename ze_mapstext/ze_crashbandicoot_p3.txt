@@ -7,7 +7,7 @@
 	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***GO!GO!GO!***"
 	{

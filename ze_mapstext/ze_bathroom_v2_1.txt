@@ -1,0 +1,159 @@
+"Console_T"
+{
+	"Map made by Puklica & Cuniczek"
+	{
+		"chi"		"**地图作者: Puklica和Cuniczek**"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"chi"		"** 第一关**"
+	}
+	"Sponge builder has been picked up."
+	{
+		"chi"		"**海绵墙被捡起**"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"We'll have to roll down the toilet paper to safely climb down."
+	{
+		"chi"		"**我们要放下厕纸让我们下去**"
+	}
+	"Toilet paper is rolled down. Fall back!"
+	{
+		"chi"		"**厕纸放下去了，赶紧跑路！**"
+	}
+	"Hold for 15 seconds."
+	{
+		"chi"		"**守住15秒**"
+	}
+	"Mouse trap has been picked up."
+	{
+		"chi"		"**捕鼠器被捡起**"
+	}
+	"Resist for 25 seconds."
+	{
+		"chi"		"**坚持25秒！**"
+	}
+	"Resist for 20 seconds."
+	{
+		"chi"		"**坚持20秒！**"
+	}
+	"Hold here until something happens!"
+	{
+		"chi"		"**守住这儿直到触发开关！**"
+	}
+	"The path is blocked. Fall back!"
+	{
+		"chi"		"**通道已经打开！赶紧撤退！**"
+	}
+	"You have won first level!"
+	{
+		"chi"		"** 你赢下了第一关**"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"chi"		"**第二关 **"
+	}
+	"Resist until the wall breaks."
+	{
+		"chi"		"**守到墙碎掉**"
+	}
+	"Fall back!"
+	{
+		"chi"		"** 撤退**"
+	}
+	"Resist until the ceiling breaks."
+	{
+		"chi"		"**守卫直到天花板裂开**"
+	}
+	"We'll have to jump outside and walk across the mirror."
+	{
+		"chi"		"**我们需要跳出去，从镜子穿过**"
+	}
+	"Hold on for a few seconds."
+	{
+		"chi"		"**再守一会儿**"
+	}
+	"Wait until the wall breaks."
+	{
+		"chi"		"**守到墙体碎掉**"
+	}
+	"Seems like there is no way to escape."
+	{
+		"chi"		"**看起来无路可逃了！**"
+	}
+	"That's it! Break the shelf support."
+	{
+		"chi"		"**找到出路了！打碎架子的支撑点！**"
+	}
+	"There is no way around."
+	{
+		"chi"		"**四周没有路了！**"
+	}
+	"We'll have to enter the boiler. Resist!"
+	{
+		"chi"		"**我们需要进入热水器！再守一下！**"
+	}
+	"We can enter through that hole! Fall back!"
+	{
+		"chi"		"**我们能穿个那个洞了！撤退！**"
+	}
+	"The sponge has been defeated! Run!"
+	{
+		"chi"		"** 海绵已被打败！跑!**"
+	}
+	"Final doors are going to close in 30 seconds! Resist!"
+	{
+		"chi"		"**最后一道门30秒后关闭!守住! **"
+	}
+	"Kill all zombies inside!"
+	{
+		"chi"		"**杀死门外所有僵尸 **"
+	}
+	"You have won the map! Congratulations!"
+	{
+		"chi"		"**你完成了这个地图!恭喜! **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** 不要试图走捷径,它会把你传送回去**"
+	}
+	"Well have to roll down the toilet paper to safely climb down."
+	{
+		"chi"		"** **"
+	}
+	"Toilet paper has been rolled down. Fall back!"
+	{
+		"chi"		"** **"
+	}
+	"We can use the hairdryer to reach the shelf!"
+	{
+		"chi"		"** **"
+	}
+	"The path has been cleared."
+	{
+		"chi"		"** **"
+	}
+	"We have to clear the soap out of the way to be able to climb up."
+	{
+		"chi"		"** **"
+	}
+	"Well have to jump outside and walk across the mirror."
+	{
+		"chi"		"** **"
+	}
+	"Well have to enter the boiler. Resist!"
+	{
+		"chi"		"** **"
+	}
+	"The Rubber Duck has been defeated."
+	{
+		"chi"		"** **"
+	}
+}

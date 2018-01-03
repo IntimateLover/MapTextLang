@@ -234,16 +234,16 @@
 	{
 		"chi"		"**警告：还剩120秒**"
 	}
-	"** 30 seconds left **"
+	"** 30 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩30秒**"
 	}
-	"** 20 seconds left **"
+	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩20秒**"
 		"DoorCountdown"		"20"
 	}
-	"** 10 seconds left **"
+	"** 10 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩10秒**"
 	}
@@ -257,7 +257,7 @@
 	}
 	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
 	{
-		"chi"		"**当前难度：极限II（YEK=BAN)**"
+		"chi"		"**当前难度：极限II**"
 	}
 	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
 	{
@@ -385,6 +385,7 @@
 	"** Side DOOR OPENS IN 10 s **"
 	{
 		"chi"		"**侧门10秒后打开**"
+		"DoorCountdown"		"10"
 	}
 	"**Bahamut has escaped ! ** Go Go! **"
 	{
@@ -397,5 +398,18 @@
 	"** Human Will Ignore Fall Damage In 30 Seconds **"
 	{
 		"chi"		"**人类将免疫30秒的摔落伤害**"
+		"DoorCountdown"		"30"
+	}
+	"** A player has adquired Mini HEAL MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了小奶**"
+	}
+	"**No Fake Laser & High Laser Can Not Crouchjump Over it**"
+	{
+		"chi"		"**注意：本局没有假刀-高刀不能大跳**"
+	}
+	"WARNING! BAHAMUT IS CASTING ULTIMA ** INTERRUPT HIM BEFORE HE KILL US ALL!!! **"
+	{
+		"chi"		"** **"
 	}
 }

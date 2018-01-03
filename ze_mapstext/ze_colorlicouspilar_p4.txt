@@ -3,12 +3,12 @@
 	"***Defend for 20secs***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Prefinal Hold 50secs***"
 	{
 		"chi"		"**守住50秒**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
 	{
@@ -50,5 +50,8 @@
 	{
 		"chi"		"**人类大门将在15秒后打开 **"
 	}
-
+	"sync_version"
+	{
+		"syncvalue"		"84707"
+	}
 }

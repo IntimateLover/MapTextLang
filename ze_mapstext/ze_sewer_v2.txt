@@ -1,0 +1,158 @@
+"Console_T"
+{
+        "Map by: Night Fury"
+        {
+                "chi"                "** 地图作者：Night Fury 翻译：肉丸 **"
+        }
+        "Ramp door closing in 50 seconds! Hold off the infection."
+        {
+                "chi"                "** 1号大门 将于 50秒 后关闭！ 抵御性饥渴僵尸爆菊 **"
+        }
+        "Zombies will be here soon! Get through the sewer activate the bomb at the stash and get out."
+        {
+                "chi"                "** 有着性爱思考的僵尸很快冲向了人类 赶快通过下水道 激活 红星引爆器 逃到陆地上. **"
+        }
+        "Hallway door is being opened, hallway door will close in 40 seconds! Hold off the infection."
+        {
+                "chi"                "** 2号大门 将于 40秒 后关闭！ 抵御性饥渴僵尸爆菊 **"
+        }
+        "Ramp door is closing in 10 seconds!"
+        {
+                "chi"                "** 1号大门 将于 10秒后 关闭 **"
+        }
+        "Hallway door is closing in 10 seconds!"
+        {
+                "chi"                "** 2号大门 将于 10秒后 关闭 **"
+        }
+        "Ramp door is closing!"
+        {
+                "chi"                "** 1号大门 已关闭 **"
+        }
+        "Hallway door is closing!"
+        {
+                "chi"                "** 2号大门 已关闭 **"
+        }
+        "Ramp door will open again in 20 seconds!"
+        {
+                "chi"                "** 1号大门 将于 20秒 后重新打开 请注意饥渴的僵尸 **"
+        }
+        "Hallway door will open again in 20 seconds!"
+        {
+                "chi"                "** 2号大门 将于 20秒 后重新打开 请注意饥渴的僵尸 **"
+        }
+        "Ramp back door is opening!"
+        {
+                "chi"                "** 1号大门 已开启 **"
+        }
+        "Secondary hallway door is opening!"
+        {
+                "chi"                "** 2号大门 已开启 **"
+        }
+        "Zombies have gotten past the hallway defend point! Zombie gate being deployed. Gate will open in 20 seconds."
+        {
+                "chi"                "** 1号大门 僵尸 性爱の栏 已部署 20秒 后开启 **"
+        }
+        "Bridge will break, and the bridge door will open in 55 seconds! Hold the infection off."
+        {
+                "chi"                "** 箱子 和 卷帘门 将于55秒 破坏\开启 抵御性饥渴僵尸 **"
+        }
+        "Bridge door will open in 10 seconds!"
+        {
+                "chi"                "** 卷帘门 将于 10秒后 打开 别特么怂 接着刷钱 **"
+        }
+        "Bridge door is opening and the bridge has broken!"
+        {
+                "chi"                "** 卷帘门 已开启 一个人触发就行了 接着刷钱啊 小婊砸 **"
+        }
+        "Bridge box will break in 30 seconds!"
+        {
+                "chi"                "** 堵在断桥上的傻缺箱子 将于30秒后 瞬间爆炸 **"
+        }
+        "Stash door opening and stash zombie gate closing in 45 seconds! Hold off the infection."
+        {
+                "chi"                "** 下一个 性爱の栏 与 卷帘门 开启 于 45秒 后开启 请注意时间 及时撤退 **"
+                "DoorCountdown"                "45"
+        }
+        "Bridge box has broken!"
+        {
+                "chi"                "** 傻缺箱子 已瞬间爆炸 **"
+        }
+        "Stash zombie gate closing in 10 seconds!"
+        {
+                "chi"                "** 性爱の栏 于10秒 后关闭 请速撤 **"
+        }
+        "Stash zombie gate closing!"
+        {
+                "chi"                "** 性爱の栏 已启动 **"
+        }
+        "Zombies have gotten past the hallway defend point! Zombie gate being deployed. Gate will open in 20 seconds."
+        {
+                "chi"                "** 2号大门 性爱の栏 已部署 20秒 后开启 **"
+        }
+        "Stash zombie gate opening again in 25 seconds, stash door is opening! "
+        {
+                "chi"                "** 性爱の栏 将于25秒 再次打开（为什么又要说个再？） **"
+        }
+        "Teleporting all players that are behind, afk, or delaying to the stash room in 60 seconds!"
+        {
+                "chi"                "** 60秒后 传送 性功能障碍挂机 与 腿短跑得慢基佬僵尸 传送到下个传送点 **"
+        }
+        "tash zombie gate is opening!"
+        {
+                "chi"                "** 抵御性爱僵尸的 性爱の栏 已经开启 **"
+        }
+        "Elevator starting up in 45 seconds! Hold off the infection."
+        {
+                "chi"                "** 王の电梯 于 45秒 后启动 请注意饥渴的僵尸 **"
+                "DoorCountdown"                "45"
+        }
+        "Elevator starting up in 10 seconds!"
+        {
+                "chi"                "** 王の电梯 于 10秒 后启动 请注意饥渴的僵尸 **"
+        }
+        "Elevator moving!"
+        {
+                "chi"                "** 王の电梯 启动 **"
+        }
+        "Side ladder will be usable in 30 seconds!"
+        {
+                "chi"                "** 侧股 楼梯 将于 30秒后 可以上♂下♂爬动 **"
+        }
+        "Final door is opening! Final door will close in 50 seconds. Hold off the infection."
+        {
+                "chi"                "** 最终鬼畜卷帘门 将于 30秒 后关闭 请抵御饥渴的僵尸 **"
+        }
+        "Side ladder is now usable!"
+        {
+                "chi"                "** 侧股 楼梯 可以上♂下♂爬动 **"
+        }
+        "Final door is closing in 10 seconds!"
+        {
+                "chi"                "** 最终鬼畜卷帘门 将于 10秒 后关闭 赶快进来！ **"
+        }
+        "Final door is closing!"
+        {
+                "chi"                "** 最终鬼畜卷帘门 已经关闭 **"
+        }
+        "Final backdoor is opening!"
+        {
+                "chi"                "** 最最终鬼畜卷帘门 开启 **"
+        }
+        "Final back door closing in 5 seconds!"
+        {
+                "chi"                "** 最最终鬼畜卷帘门 5秒 后关闭 赶快进去 **"
+                "DoorCountdown"                "5"
+        }
+        "Bomb exploding in 5 seconds!"
+        {
+                "chi"                "** 基佬退散GTX 690 将于 5秒后 清理基佬僵尸 **"
+        }
+        "Final back door is closing!"
+        {
+                "chi"                "** 最最终鬼畜卷帘门 已关闭 **"
+        }
+        "Remaining humans and zombies will be killed in 10 seconds!"
+        {
+                "chi"                "** 由于僵尸也在里面 污染了大气 10秒后 所有人都得死 **"
+        }
+}

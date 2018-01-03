@@ -2,42 +2,43 @@
 {
 	"** The gate will open in 35 seconds **"
 	{
-		"chi"		"**大门35秒后打开 **"
+		"chi"		"** **"
+		"DoorCountdown"		"35"
 	}
 	"** Get Ready **"
 	{
-		"chi"		"**准备好，各位！ **"
+		"chi"		"** **"
 	}
 	"** Run! **"
 	{
-		"chi"		"**撤！ **"
+		"chi"		"** **"
 	}
 	"** Looks like the Van is broken **"
 	{
-		"chi"		"**这面包车看上去坏了 **"
+		"chi"		"** **"
 	}
 	"** Generator override enabled **"
 	{
-		"chi"		"**发生器重启启用 **"
+		"chi"		"** **"
 	}
 	"** Power has been lost to Jurassic Park **"
 	{
-		"chi"		"**能量开始流失向侏罗纪公园 **"
+		"chi"		"** **"
 	}
 	"** Call the mainland - Tell them to send the damn helicopter! **"
 	{
-		"chi"		"**叫军队。。tmd送来直升机救援我们！ **"
+		"chi"		"** **"
 	}
 	"** SECURE THE AREA **"
 	{
-		"chi"		"**支援这片地区 **"
+		"chi"		"** **"
 	}
 	"** Get ready to move! **"
 	{
-		"chi"		"**准备开始离开 **"
+		"chi"		"** **"
 	}
 	"** Nerve gas released **"
 	{
-		"chi"		"**释放毒气 **"
+		"chi"		"** **"
 	}
 }

@@ -11,12 +11,12 @@
 	"***START ELEVATOR 15 SEC***"
 	{
 		"chi"		"**电梯将在15秒后下降 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***ELEVATOR UP 14 SEC***"
 	{
 		"chi"		"**电梯将在14秒后上升 **"
-		"DoorCountDown"		"14"
+		"DoorCountdown"		"14"
 	}
 	"***GENERATOR DESACTIVED***"
 	{
@@ -41,7 +41,7 @@
 	"***START TRAIN 20 SEC ***"
 	{
 		"chi"		"**火车将在20秒后发动 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** START TRAIN 10 SEC ***"
 	{
@@ -50,12 +50,12 @@
 	"***START ELEVATOR 25 SEC***"
 	{
 		"chi"		"**电梯将在25秒后启动 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
 		"chi"		"**神经毒气将在40秒后释放 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"The server is about to close the update ,Please update your game"
 	{

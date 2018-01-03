@@ -1,0 +1,187 @@
+"Console_T"
+{
+        "*** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***"
+        {
+                "chi"                "咸鱼们，你们在玩最简单的难度！"
+        }
+        "*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
+        {
+                "chi"                "对地图有什么意见或者报告BUG可在steam找我，ID --> JackBauer123"
+        }
+        "*** Created by Jack Bauer ***"
+        {
+                "chi"                "作者：Jack Bauer翻译：superjond"
+        }
+        "*** Escape! ***"
+        {
+                "chi"                "跑跑跑！"
+        }
+        "*** You Must Wait For Your Team ***"
+        {
+                "chi"                "先等等你的队友"
+        }
+        "*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
+        {
+                "chi"                "神器：木板，左右键控制高低，左右键一起按下钉木板"
+        }
+        "*** The Train Will Leave in 5 seconds ***"
+        {
+                "chi"                "缆车5秒后离开"
+        }
+        "*** Level B Door Opens in 25 Seconds ***"
+        {
+                "chi"                "B门25秒后打开"
+        }
+        "*** Level B Door Opens in 15 Seconds ***"
+        {
+                "chi"                "B门15秒后打开"
+        }
+        "*** Zombies Has Reached The Checkpoint ***"
+        {
+                "chi"                "僵尸传送至检查点"
+        }
+        "*** Level B Door Opens in 5 Seconds ***"
+        {
+                "chi"                "B门5秒后打开"
+        }
+        "*** Press RIGHT MOUSE BUTTON to freeze the water with this gun!! ***"
+        {
+                "chi"                "神器：冰冻枪，准星对准水按下右键使水结冰"
+        }
+        "*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
+        {
+                "chi"                "神器：秒杀枪，按住左键充能，右键发射，秒杀一条直线上的僵尸或坦克"
+        }
+        "*** THE MOVING CHECKPOINT WILL GO TO THE SPACE AREA IN 15 SECONDS!! ***"
+        {
+                "chi"                "15秒后移动出生点出现"
+        }
+        "*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
+        {
+                "chi"                "防守直到传送门打开"
+        }
+        "*** THE PORTAL IS OPEN!!! GO!!!! ***"
+        {
+                "chi"                "传送门开了，跳！"
+        }
+        "*** THAT BIG X ON THE RIGHT IS A SECRET PATH THAT ONLY THE ICE GUN HOLDER CAN GO! ***"
+        {
+                "chi"                "右边标记区域只有冰冻枪使用者才可到达"
+        }
+        "*** Exit Door Opens in 15 Seconds ***"
+        {
+                "chi"                "出口在15秒后打开"
+        }
+        "*** Exit Door Opens in 5 Seconds ***"
+        {
+                "chi"                "出口在5秒后打开"
+        }
+        "*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
+        {
+                "chi"                "这部电梯被诅咒了，非洲人请带上多个欧洲人上电梯才有可能活下来"
+        }
+        "*** The Lake Water Got Contaminated ***"
+        {
+                "chi"                "河水已被污染"
+        }
+        "*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
+        {
+                "chi"                "打破蓝桶扮演坦克"
+        }
+        "*** Eletric Fence Disabled ***"
+        {
+                "chi"                "通电围墙断电"
+        }
+        "*** BREAK THE BRIDGE LADDER TO HOLD THE ZOMBIES!!!! ***"
+        {
+                "chi"                "打破梯子拖延僵尸"
+        }
+        "*** The Helicopter is coming ***"
+        {
+                "chi"                "直升鸡来了！"
+        }
+        "*** Rescue ETA in 1 minute ***"
+        {
+                "chi"                "1分钟后直升鸡将飞走"
+        }
+        "*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***"
+        {
+                "chi"                "梯子不会再被打破了，快走！"
+        }
+        "*** CASTLE DOOR IS CLOSING IN 5 SECONDS ***"
+        {
+                "chi"                "城堡门5秒后关闭"
+        }
+        "*** Detonation in 3 Seconds ***"
+        {
+                "chi"                "爆破3秒后进行（按下爆破按钮者可操控机枪）"
+        }
+        "*** The Helicopter Will Depart in 30 seconds ***"
+        {
+                "chi"                "30秒后直升鸡将飞走"
+        }
+        "*** The Helicopter Will Depart in 20 seconds ***"
+        {
+                "chi"                "20秒后直升鸡将飞走"
+        }
+        "*** The Helicopter Will Depart in 10 seconds ***"
+        {
+                "chi"                "10秒后直升鸡将飞走"
+        }
+        "*** The Helicopter Will Depart in 5 seconds ***"
+        {
+                "chi"                "5秒后直升鸡将飞走"
+        }
+        "*** The Helicopter is Departing ***"
+        {
+                "chi"                "直升鸡起飞啦"
+        }
+        "*** Rocket in 10 seconds ***"
+        {
+                "chi"                "10秒后核爆"
+        }
+        "*** Rocket in 5 seconds ***"
+        {
+                "chi"                "5秒后核爆"
+        }
+        "*** Rocket Launched ***"
+        {
+                "chi"                "booooooooooooom"
+        }
+        "*** YOU ARE PLAYING ON MEDIUM DIFFICULTY!! KIDS!! ***"
+        {
+                "chi"                "第一关已破，难度上升！"
+        }
+        "*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
+        {
+                "chi"                "神器：击退枪，按下右键击退面前的僵尸或坦克"
+        }
+        "*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+        {
+                "chi"                "冰冻枪使用者还有60秒被传送"
+        }
+        "*** THE ICE GUN HOLDER HAS 10 MORE SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
+        {
+                "chi"                "冰冻枪使用者还有10秒被传送"
+        }
+        "*** Boat Leaving in 5 Seconds ***"
+        {
+                "chi"                "冲锋舟5秒后开启"
+        }
+        "*** YOU HAVE TO GO TO THE HOUSE THIS TIME!! ***"
+        {
+                "chi"                "这次走右边的房子"
+        }
+        "*** YOU ARE PLAYING ON HARD DIFFICULTY GUYS!! ***"
+        {
+                "chi"                "第二关已破，难度上升"
+        }
+        "*** JUMP ON THE CEILING TO HOLD ON IT! ***"
+        {
+                "chi"                "跳上屋顶！"
+        }
+        "*** THE TANK WILL AUTO DIE IN 60 SECONDS IF ITS NOT KILLED BY THE HUMANS!!! ***"
+        {
+                "chi"                "60后秒坦克会自杀如果它不是被人类所杀"
+        }
+}

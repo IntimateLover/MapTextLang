@@ -16,16 +16,4 @@
 	{
 		"chi"		"**巨龙已死，逃离这个地方**"
 	}
-	"** Defend here so the guards will open the gates to the city! **"
-	{
-		"DoorCountdown"		"20"
-	}
-	"** Teleporter will be ready in 20 seconds! **"
-	{
-		"DoorCountdown"		"20"
-	}
-	"** Defend here for 30 seconds **"
-	{
-		"DoorCountdown"		"30"
-	}
 }

@@ -3,6 +3,7 @@
 	"*** WATER ENTRIES WILL BREAK IN 40 SECONDS ***"
 	{
 		"chi"		"**污水处理通道入口在40秒后打开**"
+		"DoorCountdown"		"40"
 	}
 	"*** ENTRIES OPENING IN 5 SECONDS ***"
 	{
@@ -15,6 +16,7 @@
 	"*** BULKHEAD DOORS OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**隔离大门在25秒后打开**"
+		"DoorCountdown"		"25"
 	}
 	"*** BULKHEAD DOORS OPENING IN 5 SECONDS ***"
 	{
@@ -39,6 +41,7 @@
 	"*** VENT OPENING BREAKING IN 25 SECONDS ***"
 	{
 		"chi"		"**通风口在25秒后打开**"
+		"DoorCountdown"		"25"
 	}
 	"*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***"
 	{
@@ -47,6 +50,7 @@
 	"*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***"
 	{
 		"chi"		"**电梯在30秒后启动，挡住僵尸**"
+		"DoorCountdown"		"30"
 	}
 	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
 	{
@@ -76,6 +80,7 @@
 	"*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***"
 	{
 		"chi"		"**有毒化学物在40秒后投（不要贴边）**"
+		"DoorCountdown"		"40"
 	}
 	"*** HOLD OFF THE ZOMBIES! ***"
 	{

@@ -1,0 +1,293 @@
+"Console_T"
+{
+	"***CURRENT DIFFICULT--- EASY***"
+	{
+		"chi"		"** 当前难度 --- 简单 **"
+	}
+	"*** MAP MADE BY DJ-KAGALERA***"
+	{
+		"chi"		"** 地图制作 by DJ-KAGALERA 地图翻译 by 色狼领袖**"
+	}
+	"***ZONE 2 BREAL IN 5s***"
+	{
+		"chi"		"** 区域[ 2 ]将在 5 秒后打开 **"
+	}
+	"***THX TO***"
+	{
+		"chi"		"** 感谢以下人员： **"
+	}
+	"***------------------->KAEMON***"
+	{
+		"chi"		"** ------------------->KAEMON **"
+	}
+	"***ZONE 1 BREAK IN 5***"
+	{
+		"chi"		"** 区域[ 1 ]将在 5 秒后打开 **"
+	}
+	"***------------------->LEGREM***"
+	{
+		"chi"		"** ------------------->LEGREM **"
+	}
+	"***------------------->LUFFAREN***"
+	{
+		"chi"		"** ------------------->LUFFAREN **"
+	}
+	"***ELY'S PUSHER HAS BEEN PICKED UP***"
+	{
+		"chi"		"** 圣光已经被拾取 **"
+	}
+	"***ZONE B1 DOOR OPENING***"
+	{
+		"chi"		"** 区域[ B1 ]大门开启 **"
+	}
+	"***TOLYANSTER'S MINIGUN HAS BEEN PICKED UP***"
+	{
+		"chi"		"** 格林机关枪已经被拾取 **"
+	}
+	"***DOOR OPENS IN 30 SECONDS***"
+	{
+		"chi"		"** 大门将在 30 秒后开启 **"
+                "DoorCountdown"                "30"
+	}
+	"**5 SECONDS***"
+	{
+		"chi"		"** 还有 5 秒 **"
+	}
+	"***ELEVATOR STARTS IN 30s***"
+	{
+		"chi"		"** 电梯将在 30 秒后启动 **"
+                "DoorCountdown"                "30"
+	}
+	"***10 SECONDS***"
+	{
+		"chi"		"** 还有 10 秒 **"
+	}
+	"***5 SECONDS***"
+	{
+		"chi"		"** 还有 5 秒 **"
+	}
+	"***ELEVATOR LEAVING***"
+	{
+		"chi"		"** 电梯离开 **"
+	}
+	"***DJ-KAGALERA'S FLAMETHROWER HAS BEEN PICKED UP***"
+	{
+		"chi"		"** 火焰喷射器已经被拾取 **"
+	}
+	"***WALL BREAKS IN 15s***"
+	{
+		"chi"		"** 墙壁将在 15 秒后破碎 **"
+                "DoorCountdown"                "15"
+	}
+	"***FALL BACK!***"
+	{
+		"chi"		"** 撤退!  **"
+	}
+	"***FALL BACK!!***"
+	{
+		"chi"		"** 撤退!! **"
+	}
+	"***FALL BACK!!!***"
+	{
+		"chi"		"** 撤退!!! **"
+	}
+	"***FALL BACK!!!!***"
+	{
+		"chi"		"** 撤退!!!! **"
+	}
+	"**WALL BREAKS IN 10s***"
+	{
+		"chi"		"** 墙壁将在 10 秒后破碎 **"
+                "DoorCountdown"                "10"
+	}
+	"***?MILIO WAS HERE***"
+	{
+		"chi"		"** 守住这里 **"
+	}
+	"***MOVE!!**"
+	{
+		"chi"		"** 撤退!! **"
+	}
+	"***DOOR OPENING IN 5s***"
+	{
+		"chi"		"** 门将在 5 秒后开启 **"
+	}
+	"***DOOR OPENS IN 20s***"
+	{
+		"chi"		"** 门将在 20 秒后开启 **"
+                "DoorCountdown"                "20"
+	}
+	"***5 SECONDS!***"
+	{
+		"chi"		"** 还有 5 秒! **"
+	}
+	"***FALL BACK!!!!!!***"
+	{
+		"chi"		"** 撤退!!!!!! **"
+	}
+	"***Fall Back***"
+	{
+		"chi"		"** 撤退 **"
+	}
+	"***REGROUP!! DOOR OPEN IN 15s!***"
+	{
+		"chi"		"** 重新整合！！ 坚守 15 秒！ **"
+                "DoorCountdown"                "15"
+	}
+	"***!!COME BACK NOW!!  !!WE HAVEN'T MUCH TIME!!***"
+	{
+		"chi"		"**！！赶快撤退！！ ！！我们没有太多的时间了！！ **"
+	}
+	"***ELEVATOR LEFT IN 20 SECONS***"
+	{
+		"chi"		"** 电梯将在 20 秒后离开 **"
+                "DoorCountdown"                "20"
+	}
+	"***3 SECONS***"
+	{
+		"chi"		"** 还有[ 3 ]秒 **"
+	}
+	"***2 SECONS***"
+	{
+		"chi"		"** 还有[ 2 ]秒 **"
+	}
+	"***1 SECONS***"
+	{
+		"chi"		"** 还有[ 1 ]秒 **"
+	}
+	"***AGM MISSLE ON 20s***"
+	{
+		"chi"		"** 还有 20 秒！**"
+	}
+	"***AGM MISSLE ON 5s!!!!!!***"
+	{
+		"chi"		"** 还有[ 5 ]秒!!!!!! **"
+	}
+	"***AGM MISSLE ON 4s!!!!!!!!!!!!!!***"
+	{
+		"chi"		"** 还有[ 4 ]秒!!!!!!!!!!!!!! **"
+	}
+	"***AGM MISSLE ON 3s!!!!!!!!!!!!!!***"
+	{
+		"chi"		"** 还有[ 3 ]秒!!!!!!!!!!!!!! **"
+	}
+	"***AGM MISSLE ON 2s!!!!!!!!!!!!!!!!!!!!!!***"
+	{
+		"chi"		"** 还有[ 2 ]秒!!!!!!!!!!!!!!!!!!!!!! **"
+	}
+	"***AGM MISSLE ON 1s!!!!!!!!!!!!!!!!!!!!!!!!!!***"
+	{
+		"chi"		"** 还有[ 1 ]秒!!!!!!!!!!!!!!!!!!!!!!!!!! **"
+	}
+	"***WELL DONE!!***"
+	{
+		"chi"		"** 干的漂亮 **"
+	}
+	"***GO STRAIGHT!!!!***"
+	{
+		"chi"		"** 直直地往前走！！不要再去左边！！ **"
+	}
+	"***RAGEMOD ON!!***
+"
+	{
+		"chi"		"** Boss怒了 **"
+	}
+	"***FAST!!! GET ON THE TRAIN!!!!***"
+	{
+		"chi"		"** 撤退！！快上火车！！！ **"
+	}
+	"***TRAIN MOVES ON 10 SECONDS***"
+	{
+		"chi"		"** 火车将在 10 秒后驶离 **"
+                "DoorCountdown"                "10"
+	}
+	"***KILL THE CHOPPER OR WE ARE LOST***"
+	{
+		"chi"		"** 打掉火车尾部的直升机，否则的话我们将死路一条 **"
+	}
+	"***YOU DID IT!!!! YOU WON HARD MODE!!!***"
+	{
+		"chi"		"** 你做到了！！！你征服了困难难度！！！ **（漂亮！恭喜通关！）"
+	}
+	"***MOVING TO HARD!***"
+	{
+		"chi"		"** 提升至困难难度 **"
+	}
+	"***MISSILES INBOUND***"
+	{
+		"chi"		"** 导弹准备完毕 **"
+	}
+	"***35 SECONDS FOR IMPACT***"
+	{
+		"chi"		"** 导弹将在 35 秒后发射 **（守住左右两边）"
+                "DoorCountdown"                "35"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"chi"		"** 地图移植 by Et3rnity 地图翻译 by 色狼领袖 **"
+	}
+	"***HELICOPTER IS NEAR FALL BACK!!!***"
+	{
+		"chi"		"** 直升机正在靠近!!! **"
+	}
+	"***10 SECONDS!!!***"
+	{
+		"chi"		"** 直升机将在 10 秒后离开!!! **"
+	}
+	"***THE HELICOPTER IS HERE!!!***"
+	{
+		"chi"		"** 直升机抵达!!! **"
+	}
+	"***EASY MODE COMPLETE***"
+	{
+		"chi"		"** 简单难度挑战成功 **"
+	}
+	"***MOVING TO NORMAL***"
+	{
+		"chi"		"** 提升至正常难度 **"
+	}
+	"***CURRENT DIFFICULT---NORMAL***"
+	{
+		"chi"		"** 当前难度 --- 正常 **"
+	}
+	"***25 SECONDS***"
+	{
+		"chi"		"** 守住小门 25 秒！！ **"
+	}
+	"***FALL BACK!!! WE ARE SAFE!***"
+	{
+		"chi"		"** 撤退！现在我们是安全的！ **"
+	}
+	"***WAIT...***"
+	{
+		"chi"		"** 等待... **"
+	}
+	"***DAFUQ IS THAT?!***"
+	{
+		"chi"		"** 这尼玛是什么鬼??!！ **"
+	}
+	"***ANYWAY SHOOT IT!!!!***"
+	{
+		"chi"		"** 不管是什么鬼，打倒它!!!! **"
+	}
+	"***AGM MISSLE WILL KILL US ON 100s***"
+	{
+		"chi"		"** 空对地导弹将会在 100 秒以后做掉我们！**"
+	}
+	"***AGM MISSLE ON 50s***"
+	{
+		"chi"		"** 还有 50 秒！ **"
+	}
+	"***YOU KILL HIM!!!***"
+	{
+		"chi"		"** 你成功做掉了它！！！**"
+	}
+	"***NOW GO TO THE UNDERGROUND***"
+	{
+		"chi"		"** 现在去地下 **"
+	}
+	"***LEFT!!!!!!***"
+	{
+		"chi"		"** 往左边走!!!!!!**（跳过箱子回头守到门关）"
+	}
+}

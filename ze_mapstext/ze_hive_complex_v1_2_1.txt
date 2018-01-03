@@ -75,6 +75,7 @@
 	"***Door open in 20 seconds***"
 	{
 		"chi"		"**门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"*** Door open in 15 seconds ***"
 	{
@@ -95,6 +96,7 @@
 	"*** Elevators door open in 30 seconds ***"
 	{
 		"chi"		"**电梯门将在30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	"*** 15 seconds ***"
 	{
@@ -203,6 +205,7 @@
 	"*** Helicopters rescue coming in 60 seconds ***"
 	{
 		"chi"		"**直升机将在60秒后到达 **"
+		"DoorCountdown"		"60"
 	}
 	"*** 30 seconds left!! Resist or die !!! ***"
 	{

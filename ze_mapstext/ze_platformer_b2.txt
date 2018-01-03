@@ -35,7 +35,7 @@
 	"Safehouse doors closing in 30 seconds."
 	{
 		"chi"		"**安全屋大门将在30秒后关闭 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"Safehouse doors closing in 20 seconds."
 	{
@@ -68,5 +68,9 @@
 	"***CURRENT DIFFICULTY IS NORMAL***"
 	{
 		"chi"		"**难度等级 正常 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

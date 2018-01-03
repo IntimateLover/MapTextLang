@@ -7,7 +7,7 @@
 	"**The gates will open in 20 seconds**"
 	{
 		"chi"		"**门20秒后开启**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
@@ -28,7 +28,7 @@
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
@@ -37,12 +37,12 @@
 	"**The gates will open in 15 seconds**"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"**The gates will open in 25 seconds**"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	{
@@ -55,12 +55,12 @@
 	"**The random way will open in 25 seconds**"
 	{
 		"chi"		"**随机道路将在25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The arena entrance will open in 25 seconds**"
 	{
 		"chi"		"**竞技场入口将在25秒后开放**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The Hashmel is defeated!**"
 	{
@@ -69,12 +69,12 @@
 	"**Defend this way for 25 seconds**"
 	{
 		"chi"		"**守住这里25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The final gates will open in 20 seconds**"
 	{
 		"chi"		"**最后的大门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Hydro is dead! Run to to the platform!**"
 	{
@@ -107,7 +107,7 @@
 	"**The door will open in 25 seconds**"
 	{
 		"chi"		"**大门25秒后开启**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Hold here for 10 seconds**"
 	{
@@ -124,7 +124,7 @@
 	"**Oh no the sword dissapeared..We will back there next time..**"
 	{
 		"chi"		"**哦不！宝剑！我们下次还会来的**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	{
@@ -137,7 +137,7 @@
 	"**The final gates will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Is this over...or not?...**"
 	{
@@ -162,7 +162,7 @@
 	"**Both ways will open in 25 seconds**"
 	{
 		"chi"		"**两条道路将在25秒后全部开启**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	{

@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"Hold zombies"
+	{
+		"chi"		"抵御住这些僵尸"
+	}
+	"Last defend ! Hold on !"
+	{
+		"chi"		"最后的防守点，守住这里！"
+	}
+	"Defend this spot"
+	{
+		"chi"		"守住这个门"
+	}
+	"Defend few seconds"
+	{
+		"chi"		"** **"
+	}
+	"Path will open in few seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Hold them a bit !!!"
+	{
+		"chi"		"** **"
+	}
+	"Path is open ! Fall Back, Run !!"
+	{
+		"chi"		"** **"
+	}
+	"map by benz!n"
+	{
+		"chi"		"** **"
+	}
+}

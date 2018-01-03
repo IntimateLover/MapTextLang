@@ -2,241 +2,241 @@
 {
 	"** DOOR #1 OPENING IN 30 SECONDS **"
 	{
-		"chi"		"**1号门将于30秒后打开 **"
-		"DoorCountDown" "30"
+		"chi"		"** **"
+		"DoorCountDown"		"30"
 	}
 	"** DOOR #1 OPENING IN 20 SECONDS **"
 	{
-		"chi"		"**1号门将于20秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #1 OPENING IN 10 SECONDS **"
 	{
-		"chi"		"**1号门将于10秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #1 OPENING IN 5 SECONDS **"
 	{
-		"chi"		"**1号门将于5秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #2 OPENING IN 50 SECONDS **"
 	{
-		"chi"		"**2号门将于50秒后打开 **"
-		"DoorCountDown" "50"
+		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"** TELEPORT #1 ACTIVATE IN 10 SECONDS **"
 	{
-		"chi"		"**传送点1#10秒后激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #2 OPENING IN 40 SECONDS **"
 	{
-		"chi"		"**2号门将于40秒后打开 **"
+		"chi"		"** **"
 	}
 	"** TELEPORT #1 ON **"
 	{
-		"chi"		"**传送点1已激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #2 OPENING IN 30 SECONDS **"
 	{
-		"chi"		"**2号门将于30秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #2 OPENING IN 20 SECONDS **"
 	{
-		"chi"		"**2号门将于20秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #2 OPENING IN 10 SECONDS **"
 	{
-		"chi"		"**2号门将于10秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #2 OPENING IN 5 SECONDS **"
 	{
-		"chi"		"**2号门将于5秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #3 OPENING IN 50 SECONDS **"
 	{
-		"chi"		"**3号门将于50秒后打开 **"
-		"DoorCountDown" "50"
+		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"** TELEPORT #2 ACTIVATE IN 10 SECONDS **"
 	{
-		"chi"		"**传送点2#10秒后激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #3 OPENING IN 40 SECONDS **"
 	{
-		"chi"		"**3号门将于40秒后打开 **"
+		"chi"		"** **"
 	}
 	"** TELEPORT #2 ON **"
 	{
-		"chi"		"**传送点2已激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #3 OPENING IN 30 SECONDS **"
 	{
-		"chi"		"**3号门将于30秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #3 OPENING IN 20 SECONDS **"
 	{
-		"chi"		"**3号门将于20秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #3 OPENING IN 10 SECONDS **"
 	{
-		"chi"		"**3号门将于10秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #3 OPENING IN 5 SECONDS **"
 	{
-		"chi"		"**3号门将于5秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #4 OPENING IN 50 SECONDS **"
 	{
-		"chi"		"**4号门将于50秒后打开 **"
-		"DoorCountDown" "50"
+		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"** TELEPORT #3 ACTIVATE IN 10 SECONDS **"
 	{
-		"chi"		"**传送点3#10秒后激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #4 OPENING IN 40 SECONDS **"
 	{
-		"chi"		"**4号门将于40秒后打开 **"
+		"chi"		"** **"
 	}
 	"** TELEPORT #3 ON **"
 	{
-		"chi"		"**传送点3已激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #4 OPENING IN 30 SECONDS **"
 	{
-		"chi"		"**4号门将于30秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #4 OPENING IN 20 SECONDS **"
 	{
-		"chi"		"**4号门将于20秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #4 OPENING IN 10 SECONDS **"
 	{
-		"chi"		"**4号门将于10秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #4 OPENING IN 5 SECONDS **"
 	{
-		"chi"		"**4号门将于5秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #5 OPENING IN 50 SECONDS **"
 	{
-		"chi"		"**5号门将于50秒后打开 **"
-		"DoorCountDown" "50"
+		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"** TELEPORT #4 ACTIVATE IN 10 SECONDS **"
 	{
-		"chi"		"**传送点4#10秒后激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #5 OPENING IN 40 SECONDS **"
 	{
-		"chi"		"**5号门将于40秒后打开 **"
+		"chi"		"** **"
 	}
 	"** TELEPORT #4 ON **"
 	{
-		"chi"		"**传送点4已激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #5 OPENING IN 30 SECONDS **"
 	{
-		"chi"		"**5号门将于30秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #5 OPENING IN 20 SECONDS **"
 	{
-		"chi"		"**5号门将于20秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #5 OPENING IN 10 SECONDS **"
 	{
-		"chi"		"**5号门将于10秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #5 OPENING IN 5 SECONDS **"
 	{
-		"chi"		"**5号门将于5秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #6 OPENING IN 50 SECONDS **"
 	{
-		"chi"		"**6号门将于50秒后打开 **"
-		"DoorCountDown" "50"
+		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"** TELEPORT #5 ACTIVATE IN 10 SECONDS **"
 	{
-		"chi"		"**传送点5#10秒后激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #6 OPENING IN 40 SECONDS **"
 	{
-		"chi"		"**6号门将于40秒后打开 **"
+		"chi"		"** **"
 	}
 	"** TELEPORT #5 ON **"
 	{
-		"chi"		"**传送点5已激活 **"
+		"chi"		"** **"
 	}
 	"** DOOR #6 OPENING IN 30 SECONDS **"
 	{
-		"chi"		"**6号门将于30秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #6 OPENING IN 20 SECONDS **"
 	{
-		"chi"		"**6号门将于20秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #6 OPENING IN 10 SECONDS **"
 	{
-		"chi"		"**6号门将于10秒后打开 **"
+		"chi"		"** **"
 	}
 	"** DOOR #6 OPENING IN 5 SECONDS **"
 	{
-		"chi"		"**6号门将于5秒后打开 **"
+		"chi"		"** **"
 	}
 	"** THIS IS THE FINAL BATTLE. HOLD OFF THE ZOMBIES FOR 50 SECONDS. **"
 	{
-		"chi"		"**这是最后的战斗.守住僵尸50秒 **"
-		"DoorCountDown" "50"
+		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"** TELEPORT #6 ACTIVATE IN 10 SECONDS **"
 	{
-		"chi"		"**传送点6#10秒后激活 **"
+		"chi"		"** **"
 	}
 	"** COVER !!! 40 SECONDS LEFT !!! **"
 	{
-		"chi"		"**守住！！还剩40秒 **"
+		"chi"		"** **"
 	}
 	"** TELEPORT #6 ON **"
 	{
-		"chi"		"**传送点6已激活 **"
+		"chi"		"** **"
 	}
 	"** COVER !!! 30 SECONDS LEFT !!! **"
 	{
-		"chi"		"**守住！！还剩30秒 **"
+		"chi"		"** **"
 	}
 	"** COVER !!! 20 SECONDS LEFT !!! **"
 	{
-		"chi"		"**守住！！还剩20秒 **"
+		"chi"		"** **"
 	}
 	"** COVER !!! 10 SECONDS LEFT !!! **"
 	{
-		"chi"		"**守住！！还剩10秒 **"
+		"chi"		"** **"
 	}
 	"** COVER !!! 5 SECONDS LEFT !!! **"
 	{
-		"chi"		"**守住！！还剩5秒 **"
+		"chi"		"** **"
 	}
 	"** THE GHOST DEMON APPEAR !!! **"
 	{
-		"chi"		"**幽灵恶魔出现！！ **"
+		"chi"		"** **"
 	}
 	"** SHOOT !!! **"
 	{
-		"chi"		"**射击！！！ **"
+		"chi"		"** **"
 	}
 	"** UNLIMITED AMMO ON **"
 	{
-		"chi"		"**无限弹药：开启 **"
+		"chi"		"** **"
 	}
 	"** HUMANS COULD NOT DEFEAT THE GHOST DEMON. VICTORY BELONGS TO THE ZOMBIES **"
 	{
-		"chi"		"**人类无法打败幽灵恶魔.胜利属于僵尸 **"
+		"chi"		"** **"
 	}
 	"** FREE KILL - 15 SECONDS **"
 	{
-		"chi"		"**15秒后撤退 **"
+		"chi"		"** **"
 	}
 	"** THE HUMANS HAVE DEFEATED THE GHOST DEMON. THEY ARE VICTORIOUS. **"
 	{
-		"chi"		"**人类打败了幽灵恶魔.他们胜利了 **"
+		"chi"		"** **"
 	}
 }

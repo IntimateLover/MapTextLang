@@ -1,0 +1,138 @@
+"Console_T"
+{
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"chi"		"难度:简单"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"chi"		"音乐设置完毕"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"chi"		"任务:上飞机"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"chi"		"35秒后开门"
+		"DoorCountdown"		"35"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"chi"		"10秒后开门"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"chi"		"守住20秒"
+		"DoorCountdown"		"20"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"chi"		"守住25秒"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"chi"		"还剩10秒"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"chi"		"飞机20秒后离开"
+		"DoorCountdown"		"20"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"chi"		"飞机10秒后离开"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"chi"		"飞机走了！丢冰丢冰！"
+	}
+	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"chi"		"服装盒被成功运送！干得好！"
+	}
+	"4"
+	{
+		"chi"		"4"
+	}
+	"3 "
+	{
+		"chi"		"3"
+	}
+	"2 "
+	{
+		"chi"		"2"
+	}
+	"1"
+	{
+		"chi"		"1"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"chi"		"难度:普通"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"chi"		"任务:收集1个服装盒"
+	}
+	"<<< HOLD HERE WHILE SOME CT'S GET THE SUITCASE >>>"
+	{
+		"chi"		"守住这里直到玩家拿到服装盒"
+	}
+	"<<< STAND ON THE PRESSURE PAD TO OPEN DOOR >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< MORE HUMANS INCREASE SPEED OF DOOR >>>"
+	{
+		"chi"		"站在按压板上开门"
+	}
+	"<<< SUITCASE COLLECTED! RUN! >>>"
+	{
+		"chi"		"服装盒被收集！跑！！！"
+	}
+	"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+	{
+		"chi"		"僵尸上了飞机！你们输了！"
+	}
+	"<<< DIFFICULTY LEVEL : HARD >>>"
+	{
+		"chi"		"难度:困难"
+	}
+	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	{
+		"chi"		"任务:收集2个服装盒"
+	}
+	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	{
+		"chi"		"僵尸速度更快而且血更多了！"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
+}

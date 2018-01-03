@@ -210,6 +210,6 @@
 	}
 	"***THE CAVES WILL COLLAPSE IN 20 SECONDS***"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 }

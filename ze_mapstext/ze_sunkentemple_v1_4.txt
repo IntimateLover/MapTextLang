@@ -2,134 +2,35 @@
 {
 	">>> Gates will open in 35 seconds <<<"
 	{
+		"DoorCountdown"		"35"
 		"chi"		">>>闸门将在35秒后打开<<<"
-	}
-	">>> Heal has been picked <<<"
-	{
-		"chi"		">>>奶已被拾起<<<"
-	}
-	">>> Gates will open in 5 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Wall has been picked <<<"
-	{
-		"chi"		">>>墙已被拾起<<<"
-	}
-	">>> GATE IS OPENING <<<"
-	{
-		"chi"		"** **"
 	}
 	">>> Zombies will teleport in 20 seconds <<<"
 	{
-		"chi"		"** **"
-	}
-	">>> Gate will open in 10 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Zombies teleport in 15 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Wall ready <<<"
-	{
-		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	">>> Gate will open in 30 seconds <<<"
 	{
-		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
-	">>> Heal ready <<<"
+	">>> Gate will open in 45 seconds <<<"
 	{
-		"chi"		"** **"
-	}
-	">>> Gate will open in 5 seconds <<<"
-	{
-		"chi"		"** **"
+		"DoorCountdown"		"45"
 	}
 	">>> Lower gate will open in 40 seconds <<<"
 	{
-		"chi"		"** **"
-	}
-	">>> Lower gate will open in 10 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Upper gate will open in 15 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> FIND ANOTHER WAY  FAST <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Try shooting the walls <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Zombies teleport in 10 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> GROUND TREMOR <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> GOBLIN CHARGE <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Magtheridons Sideslash <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> ORC CHARGE <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> DEATH TRAP <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Magtheridons Slash <<<"
-	{
-		"chi"		"** **"
+		"DoorCountdown"		"40"
 	}
 	">>> Push has been picked <<<"
 	{
 		"chi"		">>>push已被拾起<<<"
 	}
-	">>> Push ready <<<"
+	">>> Wall has been picked <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>墙已被拾起<<<"
 	}
-	">>> Magtheridon is dead <<<"
+	">>> Heal has been picked <<<"
 	{
-		"chi"		"** **"
-	}
-	">>> Gate will open in 45 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Final door will close in 20 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Final door will close in 5 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Map made by Ripsaw <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Thanks to Luffaren for making the Lever model <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Thanks to Syoudous & Enviolinador for the help  tips"
-	{
-		"chi"		"** **"
+		"chi"		">>>奶已被拾起<<<"
 	}
 }

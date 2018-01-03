@@ -3,6 +3,7 @@
 	"**The door will open in 45 seconds. Cover!!**"
 	{
 		"chi"		"**门会在45秒后打开，守住这里！**"
+		"DoorCountdown"		"45"
 	}
 	"**Door is open 10 sec**"
 	{
@@ -11,6 +12,7 @@
 	"**Elevator is leaving in 25s**"
 	{
 		"chi"		"**电梯在25秒后离开！**"
+		"DoorCountdown"		"25"
 	}
 	"**Elevator is leaving in 5s**"
 	{
@@ -19,6 +21,7 @@
 	"**Boats will arrive in 30 seconds**"
 	{
 		"chi"		"**小船在30秒后到达**"
+		"DoorCountdown"		"30"
 	}
 	"** Boss Fight in 10s **"
 	{
@@ -35,6 +38,7 @@
 	"**The door will open in 30 seconds. Cover!!**"
 	{
 		"chi"		"**门会在30秒后打开，守住！**"
+		"DoorCountdown"		"30"
 	}
 	"** Boss is dead - Escape ! **"
 	{
@@ -47,5 +51,6 @@
 	">>>Respawn wall break in 20 sec<<<"
 	{
 		"chi"		"**重生墙在20秒后破碎**"
+		"DoorCountdown"		"20"
 	}
 }

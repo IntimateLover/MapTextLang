@@ -31,7 +31,7 @@
 	"*** Level B Door Opens in 25 Seconds ***"
 	{
 		"chi"		"**B层大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** Level B Door Opens in 15 Seconds ***"
 	{
@@ -72,7 +72,7 @@
 	"*** Exit Door Opens in 15 Seconds ***"
 	{
 		"chi"		"**出口15秒后开启**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Exit Door Opens in 5 Seconds ***"
 	{
@@ -121,7 +121,7 @@
 	"*** The Helicopter Will Depart in 30 seconds ***"
 	{
 		"chi"		"**直升机30秒后起飞**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** The Helicopter Will Depart in 20 seconds ***"
 	{
@@ -193,7 +193,7 @@
 	"*** THE TANK WILL AUTO DIE IN 60 SECONDS IF ITS NOT KILLED BY THE HUMANS!!! ***"
 	{
 		"chi"		"**60秒内未被人类击杀的话坦克将被自动处死！**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"***  ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
 	{
@@ -219,7 +219,7 @@
 	{
 		"chi"		"** **"
 	}
-	"The server is about to close the update ,Please update your game"
+	"*** ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
 	{
 		"chi"		"** **"
 	}

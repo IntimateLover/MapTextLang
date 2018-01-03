@@ -1,0 +1,325 @@
+"Console_T"
+{
+	"*** Map by Nostar ***"
+	{
+		"chi"		"**地图作者：Nostar 汉化：比那名居天子**"
+	}
+	"*** Port by Et3rnity ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Thank you so much to Noctali  Cuniczek  Moltard  and all Pidaras ***"
+	{
+		"chi"		"**鸣谢：Noctali、Cuniczek、Moltard以及全体玩这张图的基佬们**"
+	}
+	"*** Good luck and Lets Rock ! ***"
+	{
+		"chi"		"**祝你好运！让我们HIGH起来！**"
+	}
+	"*** Admoun please Minas Tirith nextmap or ban or flute ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL 1 : KILL THE PYRAMIGAY ***"
+	{
+		"chi"		"**第一关：杀死PYRAMIGAY**"
+	}
+	"*** ze_Pidaras_v1_4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pidaras Freezer has been picked ***"
+	{
+		"chi"		"**<基佬的冰冻枪>已被拾取**"
+	}
+	"*** Pidaras Shotgun pickep up ! Only 35 shots ! ***"
+	{
+		"chi"		"**<基佬的散弹枪>已被拾取，仅有35发子弹**"
+	}
+	"*** GANDALF DONT LIKE DOOR HUGGER ***"
+	{
+		"chi"		"**甘道夫并不喜欢贴门党**"
+	}
+	"*** BECAUSE HES A FUCKING RACIST ***"
+	{
+		"chi"		"**因为他是艹蛋的种族主义者**"
+	}
+	"*** Pidaras Heal  Unlimited Ammo has been picked ***"
+	{
+		"chi"		"**<基佬的奶/弹药>已被拾取**"
+	}
+	"*** Pidaras flamethrower has been picked ***"
+	{
+		"chi"		"**<基佬的喷火器>已被拾取**"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"**大门25秒后开启**"
+		"DoorCountdown"		"25"
+	}
+	"*** Door open in 10 seconds ***"
+	{
+		"chi"		"**大门10秒后开启**"
+		"DoorCountdown"		"10"
+	}
+	"*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***"
+	{
+		"chi"		"**死基佬们，门开了，走起！！！**"
+	}
+	"*** AFK TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**AFK玩家10秒后传送**"
+	}
+	"*** EXPLOSION IN 15 SECONDS PIDARAS ***"
+	{
+		"chi"		"**C4将于15秒后爆破，基佬们**"
+		"DoorCountdown"		"15"
+	}
+	"***Bahatard is dead ! Run fucking idiot !***"
+	{
+		"chi"		"**巴哈姆特被我们艹死了，基佬们，上火车！**"
+	}
+	"***The pidaras train move in 10 seconds***"
+	{
+		"chi"		"**<基佬搭乘过的火车>10秒后开走**"
+		"DoorCountdown"		"10"
+	}
+	"*** Zombies will be teleported in 10 seconds ! Run to the gate ! ***"
+	{
+		"chi"		"**僵尸10秒后传送，快点在传送门前集合！**"
+	}
+	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
+	{
+		"chi"		"**<通向基佬世界的大门>将在15秒后打开，继续防守！**"
+		"DoorCountdown"		"15"
+	}
+	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
+	{
+		"chi"		"**大门已经打开！基佬们做好牺牲的准备了吗？**"
+	}
+	"*** OMFG !!! This is.. this is..... THIS IS THE WORLD OF GFL !!! ***"
+	{
+		"chi"		"**欢迎来到<搞基极乐世界>！！！**"
+	}
+	"*** Cover 20 seconds on this big ASS fucking racist ***"
+	{
+		"chi"		"**<大丁丁>正在帮我们把屁股艹开，防守20秒**"
+		"DoorCountdown"		"20"
+	}
+	"*** ZM teleport in 3 seconds ***"
+	{
+		"chi"		"**僵尸3秒后传送**"
+	}
+	"*** The gay horses move in 5 seconds ***"
+	{
+		"chi"		"**<放荡的马车>5秒后离开**"
+		"DoorCountdown"		"5"
+	}
+	"*** OMFG SHOOT THIS FUCKING PYRAMIGAY ***"
+	{
+		"chi"		"**射击<PYRAMIGAY>**"
+	}
+	"*** WARNING THESE HORSES ARE BITCHES ! ***"
+	{
+		"chi"		"**警告：这些马是碧池**"
+	}
+	"*** Stay cover here guys while waiting for the bridge ***"
+	{
+		"chi"		"**在等待桥架起的时候，防守僵尸！**"
+	}
+	"*** Find the pidaras key to open the door ***"
+	{
+		"chi"		"**寻找<基佬的钥匙>来开启这扇门**"
+	}
+	"*** The pidaras key was found ! ***"
+	{
+		"chi"		"**<基佬的钥匙>已经找到**"
+	}
+	"*** FALL BACK FUCKING RETARD ***"
+	{
+		"chi"		"**撤退！**"
+	}
+	"*** PORTAL OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"**入口20秒后开启**"
+		"DoorCountdown"		"20"
+	}
+	"*** TELEPORT AFK IN 5 SECONDS ***"
+	{
+		"chi"		"**AFK玩家5秒后传送**"
+	}
+	"*** GO GO GO PIDARAS ! ***"
+	{
+		"chi"		"**GO GO GO！基佬们！**"
+	}
+	"*** RUN TO THE RED DOOR FUCKING NIGGA ***"
+	{
+		"chi"		"**基佬们，在红色大门前集合**"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**僵尸5秒后传送**"
+	}
+	"***  RED DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"**红色大门将在25秒后开启**"
+		"DoorCountdown"		"25"
+	}
+	"*** GOGOGO FUCKING PIDARAS !!! ***"
+	{
+		"chi"		"**门开了，基佬们！！**"
+	}
+	"*** OK... GUYS... ITS TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMEE !!!!! ***"
+	{
+		"chi"		"**很好，基佬们...现在...！！！！！！！！！！！！**"
+	}
+	"*** ZOMBIE TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**僵尸5秒后传送**"
+	}
+	"** Boss Fight in 20s **"
+	{
+		"chi"		"**<屌大无脑的BOSS>将在20秒后苏醒...**"
+		"ico"		"icon_fire"
+	}
+	"*** Its time guys ! fight for mother RUSSIA ! ***"
+	{
+		"chi"		"**是时候了！为了你妈而战斗！！**"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"**<屌大无脑的BOSS>将在10秒后苏醒...**"
+		"ico"		"icon_fire"
+	}
+	"*** OMFG SHOOT THIS FUCKING KID !!! ***"
+	{
+		"chi"		"**他醒了！干死这屌大的玩意！！**"
+		"ico"		"icon_fire"
+	}
+	"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
+	{
+		"chi"		"**<屌大无脑的BOSS>释放了精♂流♂成♂河！！不停的跳！！**"
+		"ico"		"icon_fire"
+	}
+	"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
+	{
+		"chi"		"**<屌大无脑的BOSS>使用了大屌枪！！蹲下以躲避！！**"
+		"ico"		"icon_fire"
+	}
+	"*** MESHLEM USE GANDALF PUTATIMA !!! DONT STAY IN THE MIDDLE ! ***"
+	{
+		"chi"		"**<屌大无脑的BOSS>召唤了搞基的甘道夫！！远离中间！！**"
+		"ico"		"icon_fire"
+	}
+	"*** MESHLEM USE FLAMING FART ***"
+	{
+		"chi"		"**<屌大无脑的BOSS>释放了火焰攻击！！（随机半场）**"
+		"ico"		"icon_fire"
+	}
+	"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
+	{
+		"chi"		"**<屌大无脑的BOSS>释放了跳♂绳大法！！跳起来！！**"
+		"ico"		"icon_fire"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"*** GLASS BREAK IN 5 SECONDS ! ***"
+	{
+		"chi"		"**玻璃5秒后破碎**"
+	}
+	"*** OH MY GOD ! THIS IS BOMEC ! ***"
+	{
+		"chi"		"**噢艹！是BOMEC！**"
+	}
+	"*** Minigun has been picked"
+	{
+		"chi"		"**<加特林>已被拾取**"
+	}
+	"*** OK FUCKING FAGGOT STAY COVER HERE 20 SECONDS ***"
+	{
+		"chi"		"**很好..基佬们，守住20秒..**"
+		"DoorCountdown"		"20"
+	}
+	"*** OMFG ! ITS FAGGET TIME ! LETS ROCK ! ***"
+	{
+		"chi"		"**搞基时间到~~！！！HIGH起来！！！**"
+	}
+	"*** OMFG ! SHOOT ROSHI ! IM SCARED !!! ***"
+	{
+		"chi"		"**喔！是龟仙人！射他！（边跳刀边开枪打）**"
+	}
+	"*** COVER ! ***"
+	{
+		"chi"		"**掩护！**"
+	}
+	"*** OMFG ! Youre alive ! RUN TO THE DICK ! ***"
+	{
+		"chi"		"**哦艹，你活下来了，跑向大屌末端**"
+	}
+	"*** COVER WHILE WAITING FOR THE EJACULATION ! ***"
+	{
+		"chi"		"**大屌正在蓄力！继续防守僵尸！**"
+	}
+	"*** OMFG PENETRATION INCOMING ! GOGOGO ! ***"
+	{
+		"chi"		"**喔~~~喷出来了！GO GO GO！**"
+	}
+	"*** OMFG YOU DID IT ! NICE JOB FUCKING RETARD ! ***"
+	{
+		"chi"		"**你做到了，你保护了你的下一代**"
+	}
+	"*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO SCREEN FUCKING RETARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Thx for playing ***"
+	{
+		"chi"		"**感谢对本图的支持**"
+	}
+	"*** LEVEL 2 : FLYING COCK ***"
+	{
+		"chi"		"**第二关：飞翔的大屌**"
+	}
+	"*** Pidaras Giant Dick move in 15 seconds ***"
+	{
+		"chi"		"**<基佬的巨屌>将在15秒后离开**"
+		"DoorCountdown"		"15"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**AFK玩家5秒后传送**"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"*** COVER ON THE LEFT SIDE ! ***"
+	{
+		"chi"		"**防守左边的僵尸**"
+		"ico"		"icon_fire"
+	}
+	"*** COVER ON THE RIGHT SIDE ! ***"
+	{
+		"chi"		"**防守右边的僵尸**"
+		"ico"		"icon_fire"
+	}
+	"*** Shoot this asshole ! ***"
+	{
+		"chi"		"**射击这个混蛋**"
+		"ico"		"icon_fire"
+	}
+	"*** Stupid zombie are teleport in 5 seconds ***"
+	{
+		"chi"		"**蠢比僵尸5秒后传送**"
+	}
+	"[ITEMS] Shotgun is empty !"
+	{
+		"chi"		"**<基佬的散弹枪>已经空了**"
+	}
+}

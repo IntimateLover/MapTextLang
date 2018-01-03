@@ -60,9 +60,9 @@
 	}
 	"** Hold zombies for 15 seconds **"
 	{
-		"chi"		"**防守15秒**"
+		"chi"		"**防守15秒**" "**守住最后的净土**"
 	}
-	"** KILL THE REMAINING ZOMBIES! **"
+	"** Kill the remaining zombies! **"
 	{
 		"chi"		"**解决掉安全房中剩下的僵尸**"
 	}
@@ -113,7 +113,7 @@
 	}
 	"** Elevator leaves in 5 seconds **"
 	{
-		"chi"		"**电梯5秒后上升**"
+		"chi"		"**电梯5秒后上升**" "**守住最后的净土**"
 	}
 	"** YOU WON STAGE 2 **"
 	{
@@ -134,7 +134,7 @@
 	}
 	"** YOU WON STAGE 3 **"
 	{
-		"chi"		"**你拿下了第三关 **"
+		"chi"		"**你拿下了第三关 **" "**守住最后的净土**"
 	}
 	"** LEVEL 4 **"
 	{
@@ -237,18 +237,6 @@
 		"chi"		"** **"
 	}
 	"*** Hes dead. Run. ***"
-	{
-		"chi"		"** **"
-	}
-	">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds."
-	{
-		"chi"		"** **"
-	}
-	">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
-	{
-		"chi"		"** **"
-	}
-	">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
 	{
 		"chi"		"** **"
 	}

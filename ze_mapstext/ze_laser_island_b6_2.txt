@@ -15,7 +15,7 @@
 	"** jian chi 30 miao , hen kuai jiu kai men le **"
 	{
 		"chi"		"**坚持30秒.门很快就会打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** jiang shi dao bei jian qi le **"
 	{
@@ -32,7 +32,7 @@
 	"** hai you yi dao men ,15 miao hou zha kai ta **"
 	{
 		"chi"		"**还有一道门.15秒后炸开它 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** qiang bei na qi le **"
 	{
@@ -65,7 +65,7 @@
 	"** 25 miao hou da kai shi yan shi da men **"
 	{
 		"chi"		"**25秒后打开实验室大门 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">> feng bei na qi le <<"
 	{
@@ -78,7 +78,7 @@
 	"** zhe tie men 15 miao hou jiu hui kai **"
 	{
 		"chi"		"**这铁门15秒后就会开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** ok lets gogogogogo **"
 	{
@@ -87,12 +87,12 @@
 	"** dian ti ji huo le ,shou zhu 15 miao **"
 	{
 		"chi"		"**电梯已被激活.守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** wo men hui zai 60 miao hou zha diao zhe dui shi tou **"
 	{
 		"chi"		"**我们会在60秒后炸掉这堆石头 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"** jiang shi du bei na qi le **"
 	{
@@ -113,7 +113,7 @@
 	"** fei ji 30 miao hou li kai !!! **"
 	{
 		"chi"		"**飞机30秒后离开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** jiang shi jia su bei na qi le **"
 	{
@@ -146,7 +146,7 @@
 	"** you shui ! 30 miao hou kai fang shui lu **"
 	{
 		"chi"		"**有水！30秒后开放水路 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** shui lu kai le , kuai pao **"
 	{
@@ -155,7 +155,7 @@
 	"** dian ti jiang zai 60 miao hou li kai **"
 	{
 		"chi"		"**电梯将在60秒后离开 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"** zui hou 10 miao **"
 	{
@@ -164,7 +164,7 @@
 	"** dao yu 60 miao hou he bao ! **"
 	{
 		"chi"		"**岛屿60秒后核爆 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"** kuai pao dao chuan shang **"
 	{
@@ -202,50 +202,6 @@
 	{
 		"chi"		"** **"
 	}
-	"** ADMIN : pu tong nan du **"
-	{
-		"chi"		"** **"
-	}
-	"** ADMIN : kun nan nan du **"
-	{
-		"chi"		"** **"
-	}
-	"** nan du : kun nan **"
-	{
-		"chi"		"** **"
-	}
-	"** zhe ge fang xiang you ling yi tiao chu lu **"
-	{
-		"chi"		"** **"
-	}
-	"** kuai gen shang , bao hu hao chuan zhi **"
-	{
-		"chi"		"** **"
-	}
-	"** hao da yi kuai shi tou **"
-	{
-		"chi"		"** **"
-	}
-	"** zhun bei bao po , wo men shang shan ! **"
-	{
-		"chi"		"** **"
-	}
-	"** lu shang de zhang ai wu hen duo **"
-	{
-		"chi"		"** **"
-	}
-	"** kuai su qing li diao , qian mian jiu shi shan ding le  **"
-	{
-		"chi"		"** **"
-	}
-	"** tao li dao yu de da men jiu zai yan qian **"
-	{
-		"chi"		"** **"
-	}
-	"** jian chi zhu , wo men hen kuai jiu ke yi li kai le **"
-	{
-		"chi"		"** **"
-	}
 	"** you yi kuai shi tou dang zhu le qu lu **"
 	{
 		"chi"		"** **"
@@ -259,26 +215,6 @@
 		"chi"		"** **"
 	}
 	"** kuai pao ! **"
-	{
-		"chi"		"** **"
-	}
-	"** ni wan cheng le pu tong nan du **"
-	{
-		"chi"		"** **"
-	}
-	"** kuai wang xia tiao !!! **"
-	{
-		"chi"		"** **"
-	}
-	"** pao xiang da hai ! **"
-	{
-		"chi"		"** **"
-	}
-	"** ni tiao li le tiao dao dao ... **"
-	{
-		"chi"		"** **"
-	}
-	"** gan xie ni de shi wan **"
 	{
 		"chi"		"** **"
 	}

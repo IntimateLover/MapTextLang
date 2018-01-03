@@ -222,7 +222,7 @@
 	}
 	">>MAP BY TENSHI<<"
 	{
-		"chi"		"**地图制作：TENSHI 地图翻译：蓬莱山帅比♪ **"
+		"chi"		">>>地图制作：TENSHI 地图翻译：IntimateLover<<<"
 	}
 	"**Zombie has picked up <Stealth>**"
 	{
@@ -467,5 +467,16 @@
 	">>ZOMBIES GET ON , YOUR FAILED<<"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 4"
+		}
+		"1"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
 	}
 }

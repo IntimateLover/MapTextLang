@@ -1,0 +1,115 @@
+"Console_T"
+{
+	"* * Break the iron planks to enter the doors! * *"
+	{
+		"chi"		"**打破钢板**"
+	}
+	"* * * Zombie Shield Activated in 20 Seconds!"
+	{
+		"chi"		"**僵尸隔离系统在20秒后开启**"
+	}
+	"* * * The Gate Door Will Open in 5 Seconds! * * *"
+	{
+		"chi"		"**大门在5秒后开启**"
+	}
+	"* * Zombie Shield Activated! * *"
+	{
+		"chi"		"**僵尸隔离系统已开启**"
+	}
+	"* * * Zombie Shield Disable in 20 Seconds! * * *"
+	{
+		"chi"		"**僵尸隔离系统在20秒后关闭**"
+	}
+	"* * * Zombie Shield Disabled! * * *"
+	{
+		"chi"		"**僵尸隔离系统已关闭**"
+	}
+	"* * * The Water is Electric so dont swim! * * *"
+	{
+		"chi"		"**水已通电，切勿接触**"
+	}
+	"* * * Get on the Train! * * *"
+	{
+		"chi"		"**快到火车里**"
+	}
+	"* * * Train is leaving in 10 seconds! * * *"
+	{
+		"chi"		"**火车在10秒后离开**"
+	}
+	"* * The Electric Water will be disabled in 30 seconds! * *"
+	{
+		"chi"		"**水在30秒后停止通电**"
+	}
+	"* * * Get up on the rescue spot! * * *"
+	{
+		"chi"		"**前往救援点**"
+	}
+	"* * Press the Button to charge the Teleport! * * *"
+	{
+		"chi"		"**按下按钮以开启传送**"
+	}
+	"* * * Teleport is Charged in 20 Seconds! * * *"
+	{
+		"chi"		"**传送在20秒后打开**"
+	}
+	"* * * Electric Water is Disabled * * *"
+	{
+		"chi"		"**电力已关闭，水已安全**"
+	}
+	"* * * Break the DOOR to Enter! * * *"
+	{
+		"chi"		"**打破门！**"
+	}
+	"* * * Run to the Safe Room! * * *"
+	{
+		"chi"		"**快进安全室**"
+	}
+	"* * * LAST DOOR CLOSING IN 20 SECONDS! * * *"
+	{
+		"chi"		"**最后一道门在20秒后关闭**"
+	}
+	"* * * Zombie Nervegas Activated in 10 Seconds! * * *"
+	{
+		"chi"		"**10秒后核弹到来**"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"chi"		"**地图由Et3rnity移植&dy2084翻译**"
+	}
+	"IDEA: Sienest?j?"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"** **"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+}

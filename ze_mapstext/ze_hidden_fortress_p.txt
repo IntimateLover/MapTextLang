@@ -4,13 +4,15 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"5"
 	}
 	"*** Nuke in 30 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"*** Nuke in 20 seconds ***"
 	{
@@ -20,11 +22,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Humans have escaped! ***"
+	"*** Humans have failed to escape! ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Humans have failed to escape! ***"
+	"*** Humans have escaped! ***"
 	{
 		"chi"		"** **"
 	}

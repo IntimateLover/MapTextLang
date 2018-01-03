@@ -44,7 +44,7 @@
 	{
 		"chi"		"**10秒后传送在出生点的挂机玩家 **"
 	}
-	"** 20 SECONDS LEFT **"
+	"** 20 seconds left **"
 	{
 		"chi"		"** 还剩20秒**"
 		"DoorCountDown"		"20"
@@ -58,7 +58,7 @@
 	{
 		"chi"		"**清理在出生点的挂机玩家 **"
 	}
-	"** 10 SECONDS LEFT **"
+	"** 10 seconds left **"
 	{
 		"chi"		"**还剩10秒 **"
 	}
@@ -414,6 +414,134 @@
 		"chi"		"** **"
 	}
 	"***YOU NEED TO DEFEND THE TOWN 1MIN***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 45s***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 30s***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 15s***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO HAS BEEN KILLED BY ZOMBIES***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS NOW CANT PROTECT THE VILLAGE***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Admin Room Abuse ! Next Difficulty : Extrem ***"
+	{
+		"chi"		"** **"
+	}
+	"***Admin Room Abuse ! Kill all players ***"
+	{
+		"chi"		"** **"
+	}
+	"***!!! CURRENT DIFFICULTY EXTREM !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Naruto is fighting Sasuke! Go find and help him!***"
+	{
+		"chi"		"** **"
+	}
+	"***35 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***45 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***40 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO IS FIGHTING AGAINST SASUKE***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***"
+	{
+		"chi"		"** **"
+	}
+	"***SASUKE IS PREPARING HIS ATTACK! WATCH OUT!***"
+	{
+		"chi"		"** **"
+	}
+	"***SASUKE HAS CLONED HIMSELF***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL ALL CLONES BEFORE THEY ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***USE YOUR GRENADE TO DO MORE DAMAGE***"
+	{
+		"chi"		"** **"
+	}
+	"***SASUKE SUCCEEDED HIS ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***WE DONT HAVE THE RIGHT TO MAKE ANOTHER ERROR***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT !!! YOU DEFEATED SASUKE***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU BEAT EXTREME DIFFICULTY***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU CAN CHOOSE THE NEXT DIFFICULTY***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY : NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS SUCCEFULLY DEFEND KONOHA***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL ALL ZOMBIE SURVIVOR***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY  EXTREM***"
 	{
 		"chi"		"** **"
 	}

@@ -2,78 +2,78 @@
 {
 	"MAP MADE BY GARGANTUA"
 	{
-		"chi"		"**地图制作：GARGANTUA **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
 	{
-		"chi"		"**1号逃生电梯30秒到达 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 1 ARRIVED ++"
 	{
-		"chi"		"**1号逃生电梯已到达 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
 	{
-		"chi"		"**2号逃生电梯30秒到达  **"
+		"chi"		"** **"
 	}
 	"++ LIFT DOOR 1 OPENING UP ++"
 	{
-		"chi"		"**1号电梯大门开启 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
 	{
-		"chi"		"**1号逃生电梯30秒到达 **"
+		"chi"		"** **"
 	}
 	"++ SECRET LIFT IS LEAVING!! ++"
 	{
-		"chi"		"**秘密电梯正在离开！！ **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
 	{
-		"chi"		"**1号逃生电梯15秒到达 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 2 ARRIVED ++"
 	{
-		"chi"		"**2号逃生电梯已到达 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
 	{
-		"chi"		"**1号逃生电梯5秒到达**"
+		"chi"		"** **"
 	}
 	"++ LIFT DOOR 2 OPENING UP ++"
 	{
-		"chi"		"**2号电梯大门开启 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
 	{
-		"chi"		"**2号逃生电梯30秒到达 **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
 	{
-		"chi"		"**2号逃生电梯15秒到达 **"
+		"chi"		"** **"
 	}
 	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
 	{
-		"chi"		"**毒瓦斯已投放！ **"
+		"chi"		"** **"
 	}
 	"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
 	{
-		"chi"		"**30秒到达安全点：利恰纳！！ **"
+		"chi"		"** **"
 	}
 	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
 	{
-		"chi"		"**2号逃生电梯将在5秒后离开 **"
+		"chi"		"** **"
 	}
 	"++ TOXIC MINE GAS IN AIR !! ++"
 	{
-		"chi"		"**空气中有毒瓦斯 **"
+		"chi"		"** **"
 	}
 	"++ GARGANTUAS BOAT LEAVING IN 3 SECONDS ++"
 	{
-		"chi"		"**船将在3秒后离开 **"
+		"chi"		"** **"
 	}
 	"++ GARGANTUAS BOAT IS LEAVING!! ++"
 	{
-		"chi"		"**船离开了 **"
+		"chi"		"** **"
 	}
 }

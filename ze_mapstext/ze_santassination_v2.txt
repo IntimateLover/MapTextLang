@@ -132,6 +132,7 @@
 	"***LASER SHUTDOWN IN 20 SECONDS***"
 	{
 		"chi"		"**还有20s**"
+		"DoorCountdown"		"20"
 	}
 	"***LASER SHUTDOWN IN 5 SECONDS***"
 	{

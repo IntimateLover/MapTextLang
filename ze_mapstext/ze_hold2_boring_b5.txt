@@ -239,4 +239,11 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"tjs_enalbe 0"
+		}
+	}
 }

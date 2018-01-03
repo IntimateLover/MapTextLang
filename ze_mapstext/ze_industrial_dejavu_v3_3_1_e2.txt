@@ -23,14 +23,17 @@
 	"*** Door opens in 20 seconds! ***"
 	{
 		"chi"		"**门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"*** Resist for 30 seconds! ***"
 	{
 		"chi"		"**防守30秒 **"
+		"DoorCountdown"		"30"
 	}
 	"*** Resist for 10 more seconds! ***"
 	{
 		"chi"		"**防守10秒 **"
+		"DoorCountdown"		"10"
 	}
 	"*** GO! GO! GO! MOVE OUT! ***"
 	{
@@ -39,6 +42,7 @@
 	"*** Hold the house for 24 seconds! ***"
 	{
 		"chi"		"**防守小屋24秒 **"
+		"DoorCountdown"		"24"
 	}
 	"*** Windows that don't have a wooden plank are breakable! ***"
 	{
@@ -79,6 +83,7 @@
 	"*** HOLD! The bunker will seal in 15 seconds! ***"
 	{
 		"chi"		"**防御!地堡大门将在15秒后关闭 **"
+		"DoorCountdown"		"15"
 	}
 	"*** We did it! Moving on to the NORMAL mode! ***"
 	{
@@ -91,6 +96,7 @@
 	"*** Strangely near door opens in 12 seconds. ***"
 	{
 		"chi"		"**大门将在12后打开 **"
+		"DoorCountdown"		"12"
 	}
 	"*** CURRENT MODE: NORMAL ***"
 	{
@@ -143,6 +149,7 @@
 	"*** Helicopter comes in 30 seconds. ***"
 	{
 		"chi"		"**直升飞机将在30秒后到达 **"
+		"DoorCountdown"		"30"
 	}
 	"***Evacuate!!!***"
 	{
@@ -155,6 +162,7 @@
 	"*** Boat leaves in 40 seconds. ***"
 	{
 		"chi"		"**船将在40秒后离开 **"
+		"DoorCountdown"		"40"
 	}
 	"*** RESIST!!! 10 SECONDS!!!. ***"
 	{

@@ -1,0 +1,119 @@
+"Console_T"
+{
+	"### WELCOME TO : HIDDEN TEMPLE ##"
+	{
+		"chi"		"**欢迎来到：秘密神殿 **"
+	}
+	"### MAP CREATED BY NARAKA ###"
+	{
+		"chi"		"**地图制作：NARAKA 地图翻译：蓬莱山帅比♪**"
+	}
+	"### SPECIAL THANKS : SHUFEN ###"
+	{
+		"chi"		"**特别感谢:SHUFEN **"
+	}
+	"### GATES OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**门将在30秒后开启.请等待 **"
+		"DoorCountDown" "30"
+	}
+	"### 10 SECOND REMAINING ###"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"### GATES OPEN ###"
+	{
+		"chi"		"**门已开启 **"
+	}
+	"### DEFEND UNTIL GATES CLOSED ###"
+	{
+		"chi"		"**守住.直到我们把门关闭 **"
+	}
+	"### GATES ARE CLOSING ###"
+	{
+		"chi"		"**门已关闭 **"
+	}
+	"### HOLD THIS AREA FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住这个地方30秒 **"
+		"DoorCountDown" "30"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"### FALL BACK NOW !!! ###"
+	{
+		"chi"		"**现在撤退！！！ **"
+	}
+	"### GATE OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大门将在30秒后打开.守住他们 **"
+		"DoorCountDown" "30"
+	}
+	"### YOU NEED TO CROSS BACK ###"
+	{
+		"chi"		"**你需要回头 **"
+	}
+	"### PILLARS GONNA BREAK SOON ###"
+	{
+		"chi"		"**柱子很快就会断裂 **"
+	}
+	"### GATE IS OPENING ###"
+	{
+		"chi"		"**大门已经打开 **"
+	}
+	"### HOLD THIS AREA ###"
+	{
+		"chi"		"**守住这个区域 **"
+	}
+	"### GATE OPEN !! FALL BACK NOW ###"
+	{
+		"chi"		"**门已经打开！！现在撤退 **"
+	}
+	"### HOLD THIS HALL UNTIL GATE OPEN ###"
+	{
+		"chi"		"**守住这个大厅，直到我们把门打开 **"
+	}
+	"### GATE IS OPENING SOON !! ###"
+	{
+		"chi"		"**继续守住！！门很快就开了！ **"
+	}
+	"### HOLD A BIT MORE ###"
+	{
+		"chi"		"**再多守一会 **"
+	}
+	"### PRESS THE LAST LEVER ###"
+	{
+		"chi"		"**赶紧按下最后一个杠杆 **"
+	}
+	"### AND COME BACK BEFORE IT COLLAPSE ###"
+	{
+		"chi"		"**在它崩溃前赶回来 **"
+	}
+	"### HOLD THESE LADDERS ###"
+	{
+		"chi"		"**守住这些梯子 **"
+	}
+	"### UNTIL FINAL GATES OPEN ###"
+	{
+		"chi"		"**直到我们把最后的门打开 **"
+	}
+	"### FINAL GATES OPEN IN 60 SECONDS ###"
+	{
+		"chi"		"**在60秒后打开最后的门 **"
+		"DoorCountDown" "60"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩30秒 **"
+	}
+	"### FINAL GATES IS OPENING FALL BACK ###"
+	{
+		"chi"		"**最后的门已经打开！！ **"
+	}
+	"### HOLD UNTIL THE GATES CLOSED ###"
+	{
+		"chi"		"**守住！！.我们会在最短的时间内把大门关闭 **"
+	}
+}

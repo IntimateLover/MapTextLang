@@ -1,6 +1,6 @@
 "Console_T"
 {
-	">> Map by Taskuvaras <<"
+	">> Map by TaskuVaras <<"
 	{
 		"chi"		"**地图制作：Taskuvaras 地图完整翻译：银月筱瑶 **"
 	}
@@ -90,7 +90,7 @@
 	{
 		"chi"		"**[2/10]二号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
-	"*** HOLD FOR 30 SECONDS ***"
+	"*** HOLD FOR 30 seconds ***"
 	{
 		"chi"		"**坚守这里30秒**"
 		"DoorCountdown"		"30"
@@ -167,7 +167,7 @@
 		"DoorCountdown"		"20"
 		"ico"		"icon_tip"
 	}
-	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
 	{
 		"chi"		"**电梯将会在10秒后离开**"
 	}
@@ -491,7 +491,7 @@
 	{
 		"chi"		"**剩余50秒**"
 	}
-	">> 5 SECONDS LEFT <<"
+	">> 5 seconds left <<"
 	{
 		"chi"		"**剩余5秒**"
 	}

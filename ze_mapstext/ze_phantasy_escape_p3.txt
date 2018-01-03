@@ -2,148 +2,143 @@
 {
 	"** WARNING - THE APOCALYPSE IS COMING! GET TO THE HOLY PYRAMIDE **"
 	{
-		"chi"		"**警告-天启！到达神圣的金字塔 **"
+		"chi"		"** **"
 	}
 	"** Map created by Bratmaxe the Retro-Progger **"
 	{
-		"chi"		"**地图制作：Bratmaxe the Retro-Progger 地图翻译：蓬莱山帅比♪ **"
+		"chi"		"** **"
 	}
 	">The metal gate has been reached - RESIST 20 SECONDS until it opens<"
 	{
-		"chi"		"**已到达金属门-守住20秒，直到它打开 **"
-		"DoorCountDown" "20"
+		"chi"		"** **"
 	}
 	">The metal gate has been reached - RESIST 15 SECONDS until it opens<"
 	{
-		"chi"		"**已到达金属门-守住15秒，直到它打开 **"
+		"chi"		"** **"
 	}
 	">The metal gate has been reached - RESIST 5 SECONDS until it opens<"
 	{
-		"chi"		"**已到达金属门-守住5秒，直到它打开 **"
+		"chi"		"** **"
 	}
 	">Hurry Up! One of the flying bathtubs is leaving in 3 Seconds<"
 	{
-		"chi"		"**快点！水龙将在3秒后离开河流 **"
+		"chi"		"** **"
 	}
 	">Hurry Up! One of the flying bathtubs is leaving in 5 Seconds<"
 	{
-		"chi"		"**快点！水龙将在5秒后离开河流 **"
+		"chi"		"** **"
 	}
 	"** The water dragon has been reached. It says it needs some time to warm up the water. RESIST 35 Seconds! **"
 	{
-		"chi"		"**水龙已经到达.它说它需要一些时间来加热水.守住35秒！ **"
-		"DoorCountDown" "35"
+		"chi"		"** **"
 	}
 	"** First AFK Teleport in 20 seconds! ***"
 	{
-		"chi"		"**第一个AFK传送将在20秒后启动! **"
+		"chi"		"** **"
 	}
 	"** The Dragon says it needs some time to warm up the water. RESIST 20 Seconds! **"
 	{
-		"chi"		"**龙说,它需要一些时间来加热水.守住20秒! **"
+		"chi"		"** **"
 	}
 	"** RESIST 10 Seconds! **"
 	{
-		"chi"		"**守住10秒 **"
+		"chi"		"** **"
 	}
 	"** THE DRAGON WILL HELP YOU PASSING THE LAKE - ITS LEAVING IN 15 Seconds! **"
 	{
-		"chi"		"**龙将帮助你通过湖面-它将在15秒后离开！ **"
+		"chi"		"** **"
 	}
 	"** The Dragon has left. Another lightbridge will be activated in 12 Seconds **"
 	{
-		"chi"		"**龙已经离开了.另一个光桥将在12秒内激活 **"
+		"chi"		"** **"
 	}
 	"** Lightbridge 2 activated **"
 	{
-		"chi"		"**光桥2已激活 **"
+		"chi"		"** **"
 	}
 	"** Second AFK teleport in 20 seconds! **"
 	{
-		"chi"		"**第二个AFK传送点将在20秒后启动！ **"
+		"chi"		"** **"
 	}
 	"** The electric barricade will disappear in 30 seconds **"
 	{
-		"chi"		"**电路障将在30秒后消失 **"
-		"DoorCountDown" "30"
+		"chi"		"** **"
 	}
 	"** The electric barricade will disappear in 20 seconds **"
 	{
-		"chi"		"**电路障将在20秒后消失 **"
+		"chi"		"** **"
 	}
 	"** The electric barricade will disappear in 5 seconds **"
 	{
-		"chi"		"**电路障将在5秒后消失 **"
+		"chi"		"** **"
 	}
 	"** Hurry up - get to the little river **"
 	{
-		"chi"		"**快点到小河边 **"
+		"chi"		"** **"
 	}
 	"**Boat is leaving in 15 Sec. **"
 	{
-		"chi"		"**船将在15秒后离开. **"
-		"DoorCountDown" "15"
+		"chi"		"** **"
 	}
 	"**Boat is leaving in 10 Sec. **"
 	{
-		"chi"		"**船将在10秒后离开. **"
+		"chi"		"** **"
 	}
 	"**Boat is leaving in 5 Sec. **"
 	{
-		"chi"		"**船将在5秒后离开. **"
+		"chi"		"** **"
 	}
 	"**Boat is leaving now **"
 	{
-		"chi"		"**船离开了 **"
+		"chi"		"** **"
 	}
 	"**Teleport will be activated in 15 seconds**"
 	{
-		"chi"		"**传送将在15秒钟后激活 **"
+		"chi"		"** **"
 	}
 	"** Finale AFK teleport in 30 seconds! **"
 	{
-		"chi"		"**第三个AFK传送将在30秒后启动！ **"
+		"chi"		"** **"
 	}
 	"** The holy pyramide has been reached! RESIST 75 Seconds **"
 	{
-		"chi"		"**已到达神圣的金字塔！守住75秒 **"
-		"DoorCountDown" "75"
+		"chi"		"** **"
 	}
 	"** Defend the top of the holy pyramid. They must not breach the white outline! **"
 	{
-		"chi"		"**保卫神圣金字塔的顶部.不能让他们破坏白色的东西！ **"
+		"chi"		"** **"
 	}
 	"** If they reach the top we have no chance of escaping. Dont let it happen! **"
 	{
-		"chi"		"**如果他们到达山顶，我们就没有逃跑的机会.不要让这样的事情发生！ **"
+		"chi"		"** **"
 	}
 	"** The holy pyramide has been reached! RESIST 60 Seconds **"
 	{
-		"chi"		"**神圣的金字塔已经达到！守住60秒 **"
+		"chi"		"** **"
 	}
 	"** The holy pyramide has been reached! RESIST 35 seconds **"
 	{
-		"chi"		"**神圣的金字塔已经达到！守住35秒 **"
+		"chi"		"** **"
 	}
 	"** The holy pyramide has been reached! RESIST 25 seconds **"
 	{
-		"chi"		"**神圣的金字塔已经达到！守住25秒 **"
+		"chi"		"** **"
 	}
 	"** The holy pyramide has been reached! RESIST 15 seconds **"
 	{
-		"chi"		"**神圣的金字塔已经达到！守住15秒 **"
+		"chi"		"** **"
 	}
 	"** The holy pyramide has been reached! RESIST 5 seconds **"
 	{
-		"chi"		"**神圣的金字塔已经达到！守住5秒 **"
+		"chi"		"** **"
 	}
 	"** THE WORLD IS GONNA END - NOW ITS TOO LATE TO ESCAPE **"
 	{
-		"chi"		"**世界末日-现在太晚了 **"
+		"chi"		"** **"
 	}
 	"**Gondola is leaving in 15 Seconds**"
 	{
-		"chi"		"**船在15秒后离开 **"
+		"chi"		"** **"
 	}
 	"**Gondola is leaving in 5 Seconds**"
 	{
@@ -151,27 +146,26 @@
 	}
 	"** Gondola is leaving right now **"
 	{
-		"chi"		"**船马上就要开了 **"
+		"chi"		"** **"
 	}
 	"** Lightbridge activates in 7 seconds **"
 	{
-		"chi"		"**光桥7秒后激活 **"
+		"chi"		"** **"
 	}
 	"**Teleport enabled in 10 Seconds**"
 	{
-		"chi"		"**10秒后传送 **"
+		"chi"		"** **"
 	}
 	"** The upper tunnel has been reached - RESIST 25 Seconds **"
 	{
-		"chi"		"**上层隧道已到达-守住25秒 **"
-		"DoorCountDown" "25"
+		"chi"		"** **"
 	}
 	"** Zombies have compromised the holy pyramid! **"
 	{
-		"chi"		"**僵尸破坏了神圣金字塔！ **"
+		"chi"		"** **"
 	}
 	"** THE WORLD ENDS WITH A ZOMBIE INFESTATION! **"
 	{
-		"chi"		"**世界上最后一个人已被僵尸感染 **"
+		"chi"		"** **"
 	}
 }

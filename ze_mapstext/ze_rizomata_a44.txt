@@ -119,4 +119,15 @@
 		"chi"		"**钻石星尘（跑到四周水下躲避攻击） **"
 		"ico"		"icon_fire"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
+	}
 }

@@ -15,9 +15,113 @@
 		"DoorCountdown"		"30"
 		"chi"		"**Diddlery将在30秒后开始**"
 	}
-	"*You are stuck inside Turtle Reactions Computer - Try to escape this place*"
+	"***WARMUP***"
 	{
-		"chi"		"**你被困在海龟反应计算机里 - 尝试逃离这个地方**"
+		"chi"		"**热身**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	{
+		"chi"		"**Diddlery将在60后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
+	{
+		"chi"		"**Diddlery将在20秒后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***"
+	{
+		"chi"		"**Diddlery将在10秒后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***"
+	{
+		"chi"		"**Diddlery将在5秒后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***"
+	{
+		"chi"		"**Diddlery将在4秒后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***"
+	{
+		"chi"		"**Diddlery将在3秒后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***"
+	{
+		"chi"		"**Diddlery将在2秒后开始**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
+	{
+		"chi"		"**Diddlery将在1秒后开始**"
+	}
+	"***HAPPY DIDDLING***"
+	{
+		"chi"		"**快乐的Diddling**"
+	}
+	"defend"
+	{
+		"chi"		"**守住**"
+	}
+	"*boss fight imminent*"
+	{
+		"chi"		"**Boss战即将开始**"
+	}
+	"<== All soldiers get out the ship and forward!"
+	{
+		"chi"		">>>现在所有的士兵下船，前进！<<<"
+	}
+	"<== Get the bomb from the side! ==>"
+	{
+		"chi"		">>>从旁边拿到炸弹！<<<"
+	}
+	"<== Get 6 !  ==>"
+	{
+		"chi"		">>>拿到6个<<<"
+	}
+	"<== Get 4 !  ==>"
+	{
+		"chi"		">>>拿到4个<<<"
+	}
+	"<== Get 5 !  ==>"
+	{
+		"chi"		">>>拿到5个<<<"
+	}
+	"<== Get 1 !  ==>"
+	{
+		"chi"		">>>拿到1个<<<"
+	}
+	"<== Get 2 !  ==>"
+	{
+		"chi"		">>>拿到2个<<<"
+	}
+	"<== Get 3 !  ==>"
+	{
+		"chi"		">>>拿到3个<<<"
+	}
+	"<== Bomb explosion in 30second ==>"
+	{
+		"chi"		">>>炸弹在30秒后爆炸<<<"
+	}
+	"<== Bomb explosionin 15 second ==>"
+	{
+		"chi"		">>>炸弹在15秒后爆炸<<<"
+	}
+	"<== Bomb explosion in 10 second ==>"
+	{
+		"chi"		">>>炸弹在10秒后爆炸<<<"
+	}
+	"<== soldier can climb up in 30 second ==>"
+	{
+		"chi"		">>>你们要在30秒后爬上去<<<"
+	}
+	"<== Defend this area 60 second ==>"
+	{
+		"chi"		">>>守住这个区域60秒<<<"
+	}
+	"<== Way Path released ==>"
+	{
+		"chi"		">>>道路开放<<<"
+	}
+	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
+	{
+		"chi"		"** **"
 	}
 	"***HURRY, BEFORE WEEBLAND INVADES US***"
 	{
@@ -31,9 +135,165 @@
 	{
 		"chi"		"**火把也可以用来点燃房子**"
 	}
+	"***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
+	{
+		"chi"		"**僵尸将在15秒后传送**"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:30 MINUTES)***"
+	{
+		"chi"		"**如果你花费的时间太长(2分30秒)，你就会被传送**"
+	}
+	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
+	{
+		"chi"		"**烧掉所有的房子，并把5个WEEBS杀死**"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
+	{
+		"chi"		"**僵尸将在5后传送**"
+	}
+	"***ZOMBIES ARE TELEPORTING***"
+	{
+		"chi"		"**僵尸已传送**"
+	}
+	"***TPING IN 10 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TPING IN 5 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TPING IN 4 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TPING IN 3 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TPING IN 2 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TPING IN 1 SEC***"
+	{
+		"chi"		"** **"
+	}
+	"***Poof*"
+	{
+		"chi"		"** **"
+	}
+	"*You are stuck inside Turtle Reactions Computer - Try to escape this place*"
+	{
+		"chi"		"**你被困在海龟反应计算机里 - 尝试逃离这个地方**"
+	}
+	"*get in the hole*"
+	{
+		"chi"		"**进入洞中**"
+	}
+	"oooh... look at those cute digletts"
+	{
+		"chi"		"**噢哦哦...看看这些可爱的地鼠**"
+	}
+	"defend here untill the wall breaks"
+	{
+		"chi"		"**守住这里直到墙碎**"
+	}
+	"hold 20sec"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"go..."
+	{
+		"chi"		"**走...**"
+	}
+	"shoot the floor"
+	{
+		"chi"		"**射击地板**"
+	}
+	"!!shoot the zombies to the side!!"
+	{
+		"chi"		"**！！把这些僵尸打到一边去！！**"
+	}
+	"hold here"
+	{
+		"chi"		"**守住这里**"
+	}
+	"***FIND YOUR LOVE***"
+	{
+		"chi"		"**惊喜你的爱**"
+	}
+	"GIT OUT OF MI HOUUUUUSE"
+	{
+		"chi"		"**Git离开了我的房子**"
+	}
+	"***SURPRISE YOUR LOVE***"
+	{
+		"chi"		"**给予你的爱**"
+	}
+	"***BLESS YOUR LOVE***"
+	{
+		"chi"		"**祝福你的爱**"
+	}
+	"***FEED YOUR LOVE***"
+	{
+		"chi"		"**喂养你的爱**"
+	}
+	"***SACRIFICE YOUR LOVE***"
+	{
+		"chi"		"**赞美你的爱**"
+	}
+	"***ESCAPE YOUR LOVE***"
+	{
+		"chi"		"**逃避你的爱**"
+	}
+	"<== Get to the heil! ==>"
+	{
+		"chi"		">>>到达地狱！<<<"
+	}
+	"<== Zombie already go though this area! fall back! ==>"
+	{
+		"chi"		">>>僵尸已经进入这片区域！撤退！<<<"
+	}
+	"<==Get in the heilcopter and out in 45s ==>"
+	{
+		"chi"		">>>进入直升机守住45秒<<<"
+	}
+	"<==heilcopter fly out in 30s ==>"
+	{
+		"chi"		">>>直升机在30秒后离开<<<"
+	}
+	"*Defend here for 20 seconds*"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"*Tiki 1 Broken - There are 2 more tikis to find*"
+	{
+		"chi"		"**Tiki 1被打破-还有另外两个**"
+	}
+	"*FALL BACK*"
+	{
+		"chi"		"**撤退**"
+	}
+	"*Elevator Activating in 10 seconds*"
+	{
+		"chi"		"**电梯10秒后激活**"
+	}
+	"*Elevator activated*"
+	{
+		"chi"		"**电梯已激活**"
+	}
 	"*Push the little red cube :)*"
 	{
 		"chi"		"**按下红色的按钮**"
+	}
+	"*Wall 2 breaks in 40 seconds*"
+	{
+		"chi"		"**2号墙在40秒后破碎**"
 	}
 	"*Do you hear that?*"
 	{
@@ -43,13 +303,29 @@
 	{
 		"chi"		"**好像离我们非常近**"
 	}
+	"*Last Stand - Defend for 40 seconds*"
+	{
+		"chi"		"**最后的地方-守住40秒**"
+	}
+	"*Tiki 2 Broken*"
+	{
+		"chi"		"**Tiki 2号已经被破坏了**"
+	}
 	"*Looks like this is the way out of the computer!*"
 	{
 		"chi"		"**看来走这条路可以离开这里！**"
 	}
+	"***FAREWELL YOUR LOVE***"
+	{
+		"chi"		"**告别你的爱**"
+	}
 	"*Gates closing in 5 seconds*"
 	{
 		"chi"		"**Gates五秒后关闭**"
+	}
+	"i love you"
+	{
+		"chi"		"**我爱你**"
 	}
 	"*Gates closing*"
 	{
@@ -79,6 +355,10 @@
 	{
 		"chi"		"**地狱..？我以为我们离开了乌龟反应计算机**"
 	}
+	"*Defend for 20 seconds*"
+	{
+		"chi"		"**守住20秒**"
+	}
 	"*Do you hear that again..?*"
 	{
 		"chi"		"**你又听到那个了吗..？**"
@@ -86,86 +366,6 @@
 	"***I will help***"
 	{
 		"chi"		"**我会帮忙的**"
-	}
-	"***FIND YOUR LOVE***"
-	{
-		"chi"		"**惊喜你的爱**"
-	}
-	"***SURPRISE YOUR LOVE***"
-	{
-		"chi"		"**给予你的爱**"
-	}
-	"***BLESS YOUR LOVE***"
-	{
-		"chi"		"**祝福你的爱**"
-	}
-	"***FEED YOUR LOVE***"
-	{
-		"chi"		"**喂养你的爱**"
-	}
-	"***SACRIFICE YOUR LOVE***"
-	{
-		"chi"		"**赞美你的爱**"
-	}
-	"<== All soldiers get out the ship and forward!"
-	{
-		"chi"		">>>现在所有的士兵下船，前进！<<<"
-	}
-	"<== Get the bomb from the side! ==>"
-	{
-		"chi"		">>>从旁边拿到炸弹！<<<"
-	}
-	"<== Bomb explosion in 30second ==>"
-	{
-		"chi"		">>>炸弹在30秒后爆炸<<<"
-	}
-	"<== soldier can climb up in 30 second ==>"
-	{
-		"chi"		">>>你们要在30秒后爬上去<<<"
-	}
-	"<== Defend this area 60 second ==>"
-	{
-		"chi"		">>>守住这个区域60秒<<<"
-	}
-	"*boss fight imminent*"
-	{
-		"chi"		"**Boss战即将开始**"
-	}
-	"<== Way Path released ==>"
-	{
-		"chi"		">>>道路开放<<<"
-	}
-	"*get in the hole*"
-	{
-		"chi"		"**进入洞中**"
-	}
-	"<== Zombie already go though this area! fall back! ==>"
-	{
-		"chi"		">>>僵尸已经进入这片区域！撤退！<<<"
-	}
-	"<== Get to the heil! ==>"
-	{
-		"chi"		">>>到达地狱！<<<"
-	}
-	"oooh... look at those cute digletts"
-	{
-		"chi"		"**噢哦哦...看看这些可爱的地鼠**"
-	}
-	"defend here untill the wall breaks"
-	{
-		"chi"		"**守住这里直到墙碎**"
-	}
-	"<==Get in the heilcopter and out in 45s ==>"
-	{
-		"chi"		">>>进入直升机守住45秒<<<"
-	}
-	"shoot the floor"
-	{
-		"chi"		"**射击地板**"
-	}
-	"!!shoot the zombies to the side!!"
-	{
-		"chi"		"**！！把这些僵尸打到一边去！！**"
 	}
 	"*Push attack*"
 	{
@@ -322,10 +522,6 @@
 	"*Demon Turtle casts Water Blast*"
 	{
 		"chi"		"**恶魔龟使用了水爆**"
-	}
-	"*Tiki 2 Broken*"
-	{
-		"chi"		"**Tiki 2号已经被破坏了**"
 	}
 	"*Demon Turtle seems to be angrier*"
 	{
@@ -865,10 +1061,6 @@
 	{
 		"chi"		"**小心潮湿的卵巢**"
 	}
-	"*Tiki 1 Broken - There are 2 more tikis to find*"
-	{
-		"chi"		"**Tiki 1被打破-还有另外两个**"
-	}
 	"*Tiki 3 Broken*"
 	{
 		"chi"		"**Tiki 3被打破**"
@@ -885,14 +1077,6 @@
 	{
 		"chi"		"**爸爸，噢，爸爸，舔我的乳头**"
 	}
-	"GIT OUT OF MI HOUUUUUSE"
-	{
-		"chi"		"**Git离开了我的房子**"
-	}
-	"i love you"
-	{
-		"chi"		"**我爱你**"
-	}
 	"*Pull attack*"
 	{
 		"chi"		"**拉拽攻击**"
@@ -900,18 +1084,6 @@
 	"***TELEPORTING OUT IN 4 MINUTES***"
 	{
 		"chi"		"**传送4分钟后开始**"
-	}
-	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
-	{
-		"chi"		"**烧掉所有的房子，并把5个WEEBS杀死**"
-	}
-	"***ESCAPE YOUR LOVE***"
-	{
-		"chi"		"**逃避你的爱**"
-	}
-	"***FAREWELL YOUR LOVE***"
-	{
-		"chi"		"**告别你的爱**"
 	}
 	"***Since you are doing so well, i figure that i should make it harder for you***"
 	{
@@ -925,10 +1097,6 @@
 	{
 		"chi"		"**因为我是一只顽皮的小乌龟..rowr XD**"
 	}
-	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:30 MINUTES)***"
-	{
-		"chi"		"**如果你花费的时间太长(2分30秒)，你就会被传送**"
-	}
 	"***HOLD THEM OFF FOR A LONG TIME***"
 	{
 		"chi"		"**拖延它们很长一段时间**"
@@ -937,149 +1105,17 @@
 	{
 		"chi"		"**服务器即将关闭，请关闭你的游戏**"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
-	{
-		"chi"		"**Diddlery将在20秒后开始**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***"
-	{
-		"chi"		"**Diddlery将在10秒后开始**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***"
-	{
-		"chi"		"**Diddlery将在5秒后开始**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***"
-	{
-		"chi"		"**Diddlery将在4秒后开始**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***"
-	{
-		"chi"		"**Diddlery将在3秒后开始**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***"
-	{
-		"chi"		"**Diddlery将在2秒后开始**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
-	{
-		"chi"		"**Diddlery将在1秒后开始**"
-	}
-	"***HAPPY DIDDLING***"
-	{
-		"chi"		"**快乐的Diddling**"
-	}
-	"*Defend here for 20 seconds*"
-	{
-		"chi"		"**守住20秒**"
-	}
-	"***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
-	{
-		"chi"		"**僵尸将在15秒后传送**"
-	}
 	"***TELEPORTING IN 5 MINUTES***"
 	{
 		"chi"		"**五分钟传送**"
-	}
-	"***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
-	{
-		"chi"		"**僵尸将在10秒后传送**"
-	}
-	"***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
-	{
-		"chi"		"**僵尸将在5后传送**"
-	}
-	"***ZOMBIES ARE TELEPORTING***"
-	{
-		"chi"		"**僵尸已传送**"
-	}
-	"*FALL BACK*"
-	{
-		"chi"		"**撤退**"
-	}
-	"*Elevator Activating in 10 seconds*"
-	{
-		"chi"		"**电梯10秒后激活**"
-	}
-	"*Elevator activated*"
-	{
-		"chi"		"**电梯已激活**"
-	}
-	"*Wall 2 breaks in 40 seconds*"
-	{
-		"chi"		"**2号墙在40秒后破碎**"
-	}
-	"*Last Stand - Defend for 40 seconds*"
-	{
-		"chi"		"**最后的地方-守住40秒**"
-	}
-	"*Defend for 20 seconds*"
-	{
-		"chi"		"**守住20秒**"
-	}
-	"***WARMUP***"
-	{
-		"chi"		"**热身**"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
-	{
-		"chi"		"**Diddlery将在60后开始**"
 	}
 	"*Defend here for 30 seconds*"
 	{
 		"chi"		"**守住30秒**"
 	}
-	"defend"
-	{
-		"chi"		"**守住**"
-	}
-	"<== Get 2 !  ==>"
-	{
-		"chi"		">>>拿到2个<<<"
-	}
-	"<== Get 3 !  ==>"
-	{
-		"chi"		">>>拿到3个<<<"
-	}
-	"<== Get 5 !  ==>"
-	{
-		"chi"		">>>拿到5个<<<"
-	}
-	"<== Get 4 !  ==>"
-	{
-		"chi"		">>>拿到4个<<<"
-	}
-	"<== Get 6 !  ==>"
-	{
-		"chi"		">>>拿到6个<<<"
-	}
-	"<== Get 1 !  ==>"
-	{
-		"chi"		">>>拿到1个<<<"
-	}
-	"<== Bomb explosionin 15 second ==>"
-	{
-		"chi"		">>>炸弹在15秒后爆炸<<<"
-	}
-	"<== Bomb explosion in 10 second ==>"
-	{
-		"chi"		">>>炸弹在10秒后爆炸<<<"
-	}
 	"hold for 10 seconds"
 	{
 		"chi"		"**守住10秒**"
-	}
-	"hold 20sec"
-	{
-		"chi"		"**守住20秒**"
-	}
-	"go..."
-	{
-		"chi"		"**走...**"
-	}
-	"<==heilcopter fly out in 30s ==>"
-	{
-		"chi"		">>>直升机在30秒后离开<<<"
 	}
 	"<==heilcopter fly out in 15s ==>"
 	{
@@ -1092,10 +1128,6 @@
 	"<==heilcopter fly out now! ==>"
 	{
 		"chi"		">>>直升机已离开<<<"
-	}
-	"hold here"
-	{
-		"chi"		"**守住这里**"
 	}
 	"go in"
 	{

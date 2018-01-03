@@ -42,6 +42,7 @@
 	"<< DEFEND FOR 15 SEC >>"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"<< 5 SECONDS  >>"
 	{

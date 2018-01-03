@@ -1,0 +1,23 @@
+"Console_T"
+{
+	">>> Left Door opening in 10 seconds<<< "
+	{
+		"chi"		"** **"
+	}
+	">>> right Door opening in 10 seconds<<< "
+	{
+		"chi"		"** **"
+	}
+	">>> hold this level for 40 seconds untill the gate oppens<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> take wise when useing the TNT, no friendly fire<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>lift is opening in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+}

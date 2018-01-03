@@ -35,7 +35,7 @@
 	"** Cover 5 seconds **"
 	{
 		"chi"		"**掩护5秒 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"** SPIDERZOMBIE INCOMING **"
 	{
@@ -44,7 +44,7 @@
 	"** Cover 30 seconds **"
 	{
 		"chi"		"**掩护30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** Prison door will open in 5 seconds **"
 	{
@@ -58,12 +58,12 @@
 	"** Cover 25 seconds **"
 	{
 		"chi"		"**掩护25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** Cover 30 seconds until the gate opens **"
 	{
 		"chi"		"**掩护30秒直到大门打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** Cover 5 more seconds **"
 	{
@@ -128,7 +128,7 @@
 	"** DOOR WILL OPEN IN 15 SECS **"
 	{
 		"chi"		"**大门将在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** DOOR WILL OPEN IN 5 SECS **"
 	{
@@ -137,7 +137,7 @@
 	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
 	{
 		"chi"		"**在学校大门打开之前守住学校花园30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** 5 MORE SECONDS **"
 	{
@@ -146,7 +146,7 @@
 	"** DEFEND 20 SECONDS **"
 	{
 		"chi"		"**保护20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** [STORY] Oh no! Its a trap! Slenderman betrayed us! **"
 	{
@@ -167,7 +167,7 @@
 	"** THE EXIT WILL OPEN IN 40 SECS **"
 	{
 		"chi"		"**出口大门将在40秒后打开 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"** SLENDERZOMBIE -FIRE- WOKE UP **"
 	{
@@ -184,7 +184,7 @@
 	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
 	{
 		"chi"		"**直升机将在10秒后离开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Congratulations - you won STAGE 2 **"
 	{
@@ -334,7 +334,7 @@
 	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
 	{
 		"chi"		"**我们埋好炸弹了，别让僵尸靠近炸弹30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** All drains have been closed - Water is lowering **"
 	{
@@ -355,7 +355,7 @@
 	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
 	{
 		"chi"		"**还有5秒直到我们打开第二个门 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"** GO GO GO **"
 	{
@@ -372,7 +372,7 @@
 	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"**电梯10秒内上升 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
 	{
@@ -389,7 +389,7 @@
 	"** 5 MORE SECONDS! **"
 	{
 		"chi"		"**还有5秒 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"** YOU FINALLY FOUND ME **"
 	{
@@ -507,7 +507,7 @@
 	"** NUKE in 180 seconds **"
 	{
 		"chi"		"**180秒后核爆 **"
-		"DoorCountDown"		"180"
+		"DoorCountdown"		"180"
 	}
 	"** NUKE in 150 seconds **"
 	{
@@ -568,5 +568,49 @@
 	"** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **"
 	{
 		"chi"		"**[提示]赢两场开启疯狂模式 **"
+	}
+	"** Congratulations - you won SURVIVAL 2 **"
+	{
+		"chi"		"** **"
+	}
+	"** [SURVIVAL] ROUND 3 **"
+	{
+		"chi"		"** **"
+	}
+	"** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** INVADERS MUST DIE !! **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - you won SURVIVAL 3 **"
+	{
+		"chi"		"** **"
+	}
+	"** [DIFFICULTY] FINAL MADNESS MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** NO SPAWN PROTECTION **"
+	{
+		"chi"		"** **"
+	}
+	"** FINAL MADNESS MODE TRY 13 **"
+	{
+		"chi"		"** **"
+	}
+	"** FINAL MADNESS MODE TRY 23 **"
+	{
+		"chi"		"** **"
+	}
+	"** FINAL MADNESS MODE TRY 33 **"
+	{
+		"chi"		"** **"
+	}
+	"** IF YOU FAIL THIS ROUND > RETURN TO FUN 3 MODE **"
+	{
+		"chi"		"** **"
 	}
 }

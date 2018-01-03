@@ -1,0 +1,216 @@
+"Console_T"
+{
+	"-=[ Welcome to Zombie Games ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Round starting in 10 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Starting game: Obstacle Race ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ You have 1 minute to reach the end ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ You have 40 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ You have 20 more seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Hurry, 10 seconds left ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 5 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 4 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 3 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 2 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 1 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Select your first game ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Autopick in 1 minute ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Hard Mode :: CT"
+	{
+		"T == 1 ]=-"
+		{
+			"chi"		"** **"
+		}
+		"T > 1 < 2 ]=-"
+		{
+			"chi"		"** **"
+		}
+	}
+	"-=[ Starting game: Slingshot ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Hard Mode ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Survive 60 Seconds... ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ It's time for the final minigame ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Starting game: The Trap ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Survive 90 Seconds... ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ You have 30 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Fallback up the ladders ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Activating Trap ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Humans Win ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Killing zombies in 5 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Normal Mode :: CT"
+	{
+		"T > 2 < 4 ]=-"
+		{
+			"chi"		"** **"
+		}
+	}
+	"-=[ Starting game: Frogger ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Collect the gems in 45 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ All Gems have been collected ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Make your way to the highway ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Zombies are free ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Middle Exit opening in 30 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Doors opening in 5 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Hold for 30 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Finishing in 5 ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Extreme Mode :: CT"
+	{
+		"T < 1 ]=-"
+		{
+			"chi"		"** **"
+		}
+	}
+	"-=[ Starting game: Deathrun ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Extreme Mode ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Hold for 90 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Lavapit activating in 5 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 1 more minute ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Zombie spawn advanced ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ 30 more seconds... ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Finishing in 5... ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Starting game: Obstacle ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Here come the zombies ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ You have 60 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Zombie spawn has advanced ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Normal Mode ]=-"
+	{
+		"chi"		"** **"
+	}
+}

@@ -71,6 +71,7 @@
 	"@ **Final Bunker Doors Closing in 1 minute**"
 	{
 		"chi"		"**距离最后的舱门关闭还有 1 分钟**"
+		"DoorCountdown"		"60"
 	}
 	"@ **10 seconds until the MIWOMD detonate colapsing everything!**"
 	{

@@ -68,6 +68,7 @@
 	"<< Nuke has been launched!! 20 seconds until explosion >>"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"20"
 	}
 	"<< Map by Lup4n` >>"
 	{

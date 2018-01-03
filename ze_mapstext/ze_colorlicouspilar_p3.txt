@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"***Defend for 20secs***"
+	{
+		"chi"                "**守住20秒**"
+	}
+	"***Prefinal Hold 50secs***"
+	{
+		"chi"                "**守住50秒**"
+	}
+	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
+	{
+		"chi"                "**全体僵尸传送，守住这三个地方**"
+	}
+	"***Wait some more secs***"
+	{
+		"chi"                "**多等几秒**"
+	}
+	"***Btw. Unlimited ammo time :3***"
+	{
+		"chi"                "**现在无限子弹了:3**"
+	}
+}

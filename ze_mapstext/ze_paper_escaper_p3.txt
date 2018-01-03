@@ -1,0 +1,715 @@
+"Console_T"
+{
+	"*** Current level: NORMAL  *** Escape: VERYBAD CORP. LABS ***"
+	{
+		"chi"		"** **"
+	}
+	"*Doors opening in 7 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Exit door is not working.*"
+	{
+		"chi"		"** **"
+	}
+	"*Choose one way and evade from the zombies.*"
+	{
+		"chi"		"** **"
+	}
+	"*Follow the signs in the floor.*"
+	{
+		"chi"		"** **"
+	}
+	"*WARNING: WEAPON SPAMMING WILL BE PUNISHED.*"
+	{
+		"chi"		"** **"
+	}
+	"*Hallway door opening in 10 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Water deposit door opening in 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Water deposit door broken. Go though the vents!*"
+	{
+		"chi"		"** **"
+	}
+	"*Garage door opening in 38 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Garage Door is opening. RETREAT!*"
+	{
+		"chi"		"** **"
+	}
+	"*The truck will leave in 15 seconds. Resist!*"
+	{
+		"chi"		"** **"
+	}
+	"**Flamethrower has been picked up. Press +Use (E) to activate**"
+	{
+		"chi"		"** **"
+	}
+	"**Fuel lasts about 10 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"*The door has locked! Resist for 30 seconds until it closes.*"
+	{
+		"chi"		"** **"
+	}
+	"**Rocket launcher picked up. Press +USE (E) to activate.**"
+	{
+		"chi"		"** **"
+	}
+	"**It only has one use**"
+	{
+		"chi"		"** **"
+	}
+	"*The door is closing! Use the ladder to go to the roof.*"
+	{
+		"chi"		"** **"
+	}
+	"*Zombies must take the back-exit door.*"
+	{
+		"chi"		"** **"
+	}
+	"*Main lab's doors opening in 5 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"**Rocket launcher charging**"
+	{
+		"chi"		"** **"
+	}
+	"*Escape elevator area opening in 10 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*There's no power! One human must activate it through the vent..*"
+	{
+		"chi"		"** **"
+	}
+	"*Activate the Elevator and open the dock's door.*"
+	{
+		"chi"		"** **"
+	}
+	"*Dock's door opening in 5 seconds..*"
+	{
+		"chi"		"** **"
+	}
+	"*Elevator is coming! Resist until you leave!*"
+	{
+		"chi"		"** **"
+	}
+	"*** JUMP INTO THE ELEVATOR ***"
+	{
+		"chi"		"** **"
+	}
+	"*Defend at Transporter I (1) for 25 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Transporter I leaving in 5 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Transporter II leaving in 5 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Keep the zombies out of this roof so that they are killed!*"
+	{
+		"chi"		"** **"
+	}
+	"*The whole facility explodes in 7 seconds!*"
+	{
+		"chi"		"** **"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NEXT LEVEL IS HARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: HARD  *** Escape: RIVER POWERSTATION ***"
+	{
+		"chi"		"** **"
+	}
+	"** Mojonero's PenisGun has been picked up. **"
+	{
+		"chi"		"** **"
+	}
+	"*Emergency elevator activates in 12 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Leave this building by going to the lab. vault.*"
+	{
+		"chi"		"** **"
+	}
+	"*Vault area opening in 20 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Door opening in 15 seconds. RESIST!*"
+	{
+		"chi"		"** **"
+	}
+	"*The doors are now open. LEAVE!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Powerstation doors opening in 7 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Go inside the powerstation's office!*"
+	{
+		"chi"		"** **"
+	}
+	"*Activate the bridge to enter the engines area*"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND THE ENTRANCE UNTIL THE BRIDGE DEPLOYS ***"
+	{
+		"chi"		"** **"
+	}
+	"*Deploying bridge. Resist untill it's down!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Main reactor reached. Break the glass to go into emergency mode!*"
+	{
+		"chi"		"** **"
+	}
+	"*Calling the escape boat. Resist untill it comes! (30 sec)*"
+	{
+		"chi"		"** **"
+	}
+	"*The boat is here. Get on it!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*** HARD MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NEXT LEVEL IS EXTREME ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	{
+		"chi"		"** **"
+	}
+	"*Resist for 10 seconds. Other people may come!*"
+	{
+		"chi"		"** **"
+	}
+	"*We have waited long enough! RUN!*"
+	{
+		"chi"		"** **"
+	}
+	"*Speed weapon has been picked up. It grants a slight speed boost.*"
+	{
+		"chi"		"** **"
+	}
+	"** Raivb1000 Prototype door has been unlocked! **"
+	{
+		"chi"		"** **"
+	}
+	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	{
+		"chi"		"** **"
+	}
+	"** WARNING: It only has one use and affects zombies and killer robots. **"
+	{
+		"chi"		"** **"
+	}
+	"*The door will open in 20 seconds. Hold and then resist untill it closes.*"
+	{
+		"chi"		"** **"
+	}
+	"*Evil Corp. Headquarters' doors opening in 10 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Doors close in 7 seconds. RESIST!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Elevator leaves in 10 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"** GO! **"
+	{
+		"chi"		"** **"
+	}
+	"*Use the computers to open the door!*"
+	{
+		"chi"		"** **"
+	}
+	"*Security system accesed: opening doors in 5 seconds. RESIST!*"
+	{
+		"chi"		"** **"
+	}
+	"** TIP: He Grenades deal a lot of damage to the robot.**"
+	{
+		"chi"		"** **"
+	}
+	"*Basic defensive mode activated: Laser and Landmines*"
+	{
+		"chi"		"** **"
+	}
+	"*Defensive robot has been defeated.*"
+	{
+		"chi"		"** **"
+	}
+	"*Well done! You stopped the robot's most powerfull attack!*"
+	{
+		"chi"		"** **"
+	}
+	"*Explosion inminent! Find a way out! RUN!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Reloading all offensive modules.*"
+	{
+		"chi"		"** **"
+	}
+	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*Bunker Door opening in 7 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 4 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 3 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 2 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 1 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
+	{
+		"chi"		"** **"
+	}
+	"*Zombies detected on Elevator Nr. 2. Sealing door.*"
+	{
+		"chi"		"** **"
+	}
+	"*We will have to jump to the balconies to escape!*"
+	{
+		"chi"		"** **"
+	}
+	"*Storage door opening in 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*TNT will explode in 7 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Office doors opening in 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Zombies detected on office area. Defense mode activated.*"
+	{
+		"chi"		"** **"
+	}
+	"*Open the bunker door while others defend the spot.*"
+	{
+		"chi"		"** **"
+	}
+	"*Bunker door opening in 10 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Exit door opening in 5 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*The zombies are trying to get on our elevator. Shoot!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Spacesuit has been taken. It lowers gravity by a 20%.*"
+	{
+		"chi"		"** **"
+	}
+	"*Zombies detected on Elevator Nr. 1. Sealing door.*"
+	{
+		"chi"		"** **"
+	}
+	"*Heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES DETECTED: INVALID VICTORY **"
+	{
+		"chi"		"** **"
+	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*Landmine picked up. Jump and press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*Basic offensive mode activated: 'Fist crusher' module loaded*"
+	{
+		"chi"		"** **"
+	}
+	"*Offensive module loaded: Laser meat slasher*"
+	{
+		"chi"		"** **"
+	}
+	"** PLANE ENDING: GET TO THE PAPER PLANE **"
+	{
+		"chi"		"** **"
+	}
+	"*** EXTREME MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
+	{
+		"chi"		"** **"
+	}
+	"* Door is opening in 20 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Trainstation's door is opening!*"
+	{
+		"chi"		"** **"
+	}
+	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
+	{
+		"chi"		"** **"
+	}
+	"* TIP: Some buttons activate when shot. *"
+	{
+		"chi"		"** **"
+	}
+	"*Tornado generator has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 120 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"*Maintenance elevator leaves in 30 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	{
+		"chi"		"** **"
+	}
+	"*Door opening in 5 seconds. RESIST!*"
+	{
+		"chi"		"** **"
+	}
+	"*** MASSACRE MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NEXT LEVEL IS THE END ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
+	{
+		"chi"		"** **"
+	}
+	"** City sewers management plant doors are opening in 20 seconds. RESIST!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** WARNING: FROM THIS POINT YOU WILL ONLY HAVE ONE CHANCE TO WIN.  IF YOU FAIL THE LEVEL WILL REVERT. **"
+	{
+		"chi"		"** **"
+	}
+	"** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND! **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU HAVE BEEN WARNED!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Elevator leaves in 7 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** TIP: Three humans must suicide to keep the THE END level **"
+	{
+		"chi"		"** **"
+	}
+	"* Defend the bridge for 30 seconds until it is blown up!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* Zombies must go through the sewer. *"
+	{
+		"chi"		"** **"
+	}
+	"** The bridge has been blown... RUN!!! **"
+	{
+		"chi"		"** **"
+	}
+	"* Hospital's doors open in 15 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Doors are open... GO!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* Go to the second floor and deactivate the security lock. *"
+	{
+		"chi"		"** **"
+	}
+	"* Security button has been pressed. Doors open in 5 seconds! *"
+	{
+		"chi"		"** **"
+	}
+	"* FIRST FLOOR: Emergencies and stairwayelevator access. *"
+	{
+		"chi"		"** **"
+	}
+	"* The elevator is not working. Find a way to restore the power! *"
+	{
+		"chi"		"** **"
+	}
+	"* Elevator's power restoring... It will leave in 20 seconds *"
+	{
+		"chi"		"** **"
+	}
+	"* GO! GO! GO!*"
+	{
+		"chi"		"** **"
+	}
+	"* SECOND FLOOR: Patients' rooms. *"
+	{
+		"chi"		"** **"
+	}
+	"* Defend this floor for 30 seconds!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
+	{
+		"chi"		"** **"
+	}
+	"* THIRD FLOOR: Pediatry. *"
+	{
+		"chi"		"** **"
+	}
+	"* TIP: Zombies can break the elevators' side vent. *"
+	{
+		"chi"		"** **"
+	}
+	"* FOURTH FLOOR: Emergency generator and Helipad access. *"
+	{
+		"chi"		"** **"
+	}
+	"* TIP: Press the energy control panel to cause an overload in the doors' circuitry. *"
+	{
+		"chi"		"** **"
+	}
+	"* The door is opening in 25 seconds... RESIST! *"
+	{
+		"chi"		"** **"
+	}
+	"* Second door opens in 10 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Helicopter leaves in 50 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Helicopter leaves in 20 seconds. RESIST!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* HELICOPTER LEAVES IN 5 SECONDS!!! GET ON IT!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* WO-HOO!!! NICE JOB PEOPLE!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* YEAH!!! WE DID IT!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* ... *"
+	{
+		"chi"		"** **"
+	}
+	"* Wait... Why isn't it ending...? *"
+	{
+		"chi"		"** **"
+	}
+	"RndPlayer: rtv rtv rtv shit map lol admin change plz"
+	{
+		"chi"		"** **"
+	}
+	"** DID YOU MISS ME? **"
+	{
+		"chi"		"** **"
+	}
+	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
+	{
+		"chi"		"** **"
+	}
+	"* Resist! Door opens in 15 seconds!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* Train area door is opening... RETREAT!*"
+	{
+		"chi"		"** **"
+	}
+	"*** Management office doors opening in 25 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS OPENED! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Someone has to open the train doors. That's our escape route! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Train door opens in 15 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST! The doors will be opening in 10 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold the second cart! We're nearing our escape. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The doors appear to have malfunctioned. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Figure out the cause of it! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors breached... MOVE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST! Only 5 seconds left! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MOVE! The doors will close in 15 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"** WE'RE SAFE! Let's get the train running! **"
+	{
+		"chi"		"** **"
+	}
+	"** ... **"
+	{
+		"chi"		"** **"
+	}
+	"** BEWARE! It's an upgraded offensive XJ-7800 robot! **"
+	{
+		"chi"		"** **"
+	}
+	"** SHOOT IT! **"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest Config]"
+	{
+		"chi"		"** **"
+	}
+	"*Offensive module loaded: Napalm shower module.*"
+	{
+		"chi"		"** **"
+	}
+	"*Last offensive module activated: Plasma cannon module loaded*"
+	{
+		"chi"		"** **"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"chi"		"** **"
+	}
+}

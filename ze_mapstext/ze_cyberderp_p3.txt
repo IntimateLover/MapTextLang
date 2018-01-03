@@ -22,12 +22,12 @@
 	}
 	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"chi"		"**当前阶段：普通路线 **"
+		"chi"		"**当前阶段：电梯路线 **"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
 		"chi"		"**在这里守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"* * 3 seconds left * *"
 	{
@@ -35,8 +35,8 @@
 	}
 	"* * Left route door will open in 20 seconds * *"
 	{
-		"chi"		"**左边路的门会在20秒后打开 **"
-		"DoorCountDown"		"20"
+		"chi"		"**左边路的门会在20秒内打开 **"
+		"DoorCountdown"		"20"
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
 	{
@@ -45,11 +45,11 @@
 	"* * Wait 23 seconds * *"
 	{
 		"chi"		"**等待23秒 **"
-		"DoorCountDown"		"23"
+		"DoorCountdown"		"23"
 	}
 	"* * Press both buttons at the same time * *"
 	{
-		"chi"		"**同时按下两个按钮才能打开门 **"
+		"chi"		"**同时按下两个按钮 **"
 	}
 	"* * * Frost Wave has been picked up * * *"
 	{
@@ -57,28 +57,28 @@
 	}
 	"* * * GO NIGGER DICK * * *"
 	{
-		"chi"		"**你拿到了黑色的迪克.快走 **"
+		"chi"		"**走 黑鬼 迪克 **"
 	}
 	"* * * GO WHITE DICK * * *"
 	{
-		"chi"		"**你拿到了白色的迪克.快走 **"
+		"chi"		"**走 白色的 迪克 **"
 	}
 	"* * * GO CHARIZARD DICK * * *"
 	{
-		"chi"		"**你拿到了红色的迪克.快走 **"
+		"chi"		"**走 喷火龙 迪克 **"
 	}
 	"* * * GO HULK DICK * * *"
 	{
-		"chi"		"**你拿到了巨人迪克.快走 **"
+		"chi"		"**走   巨人 迪克 **"
 	}
 	"* * Door opening in 25 seconds * *"
 	{
 		"chi"		"**门25秒后打开   **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
-		"chi"		"**门将关闭5秒 **"
+		"chi"		"**门关闭5秒 **"
 	}
 	"* * KEEP DEFENDING * *"
 	{
@@ -91,17 +91,17 @@
 	"* * * Starting elevator * * * 20 seconds * * *"
 	{
 		"chi"		"** 20秒后启动电梯 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"* * * The door will open in 15 seconds * * *"
 	{
-		"chi"		"**门将在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"chi"		"**门将在15秒打开 **"
+		"DoorCountdown"		"15"
 	}
 	"* * * Hold 15 seconds * * *"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"* * * 5 seconds left * * *"
 	{
@@ -110,24 +110,24 @@
 	"* * Wait 15 seconds * *"
 	{
 		"chi"		"**等待15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"* * You can pass * *"
 	{
-		"chi"		"**你可以通过这里 **"
+		"chi"		"**你可以通过 **"
 	}
 	"* * * Flame of Udun has been picked up * * *"
 	{
-		"chi"		"**火已被拿起（并无卵用） **"
+		"chi"		"**火已被拿起 **"
 	}
 	"* * 15 seconds until final teleport * *"
 	{
 		"chi"		"**守住15秒，直到最终传送 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"* * Humans must reach the arena or they will be teleported * *"
 	{
-		"chi"		"**人类必须进入竞技场或者僵尸自动传送 **"
+		"chi"		"**人类必须进入竞技场或者他们会自动传送 **"
 		"ico"		"icon_fire"
 	}
 	"* * * IT HAS RUN AWAY * * *"
@@ -141,7 +141,7 @@
 	"* * 25 seconds until this... thing... starts * *"
 	{
 		"chi"		"**守住25秒，直到这个…事情...开始 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"* * Resist! * * It all will end soon * *"
 	{
@@ -158,7 +158,7 @@
 	"* * * Door opening in 12 seconds * * *"
 	{
 		"chi"		"**门12秒后打开 **"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"* * * Door opening in 3 seconds * * *"
 	{
@@ -166,8 +166,8 @@
 	}
 	"* * * The bridge will be enabled in 25 seconds * * *"
 	{
-		"chi"		"**大桥将在25秒后启动 **"
-		"DoorCountDown"		"25"
+		"chi"		"**大桥将在25秒内启用 **"
+		"DoorCountdown"		"25"
 	}
 	"* * * MOVE * * *"
 	{
@@ -176,12 +176,12 @@
 	"* * * Exit door will open in 10 seconds * * *"
 	{
 		"chi"		"**出口门会在10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"* * * Hold this position for 30 seconds * * *"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"* * * 10 seconds left * * *"
 	{
@@ -190,7 +190,7 @@
 	"* * Top door will open in 15 seconds * *"
 	{
 		"chi"		"**门在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"* * Top door will open in 3 seconds * *"
 	{
@@ -199,11 +199,11 @@
 	"* * * Top exit door will open in 13 seconds * * *"
 	{
 		"chi"		"**上出口门将在13秒打开 **"
-		"DoorCountDown"		"13"
+		"DoorCountdown"		"13"
 	}
 	"* * * There must be a way to open that door * * *"
 	{
-		"chi"		"**必须找出打开那扇门的方法 **"
+		"chi"		"**必须有打开那扇门的方式 **"
 	}
 	"* * * Figure it out * * *"
 	{
@@ -231,11 +231,11 @@
 	}
 	"* * * Projectile Deflector has been picked up * * *"
 	{
-		"chi"		"**子弹偏转器已经拿起 **"
+		"chi"		"**弹药偏转器已经拿起 **"
 	}
 	"* * Hacking doors. This may take a few seconds * *"
 	{
-		"chi"		"**密码门.这可能需要几秒钟 **"
+		"chi"		"**黑客门。这可能需要几秒钟 **"
 	}
 	"* * Press the orange button to start the Core * *"
 	{
@@ -248,7 +248,7 @@
 	"> THE CORE WILL BE READY IN 21 SECONDS <"
 	{
 		"chi"		"**核心将在21秒就绪 **"
-		"DoorCountDown"		"21"
+		"DoorCountdown"		"21"
 	}
 	"> CORE READY IN 5 SECONDS <"
 	{
@@ -265,7 +265,7 @@
 	"* * Hold 25 seconds * *"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"* * You have defended long enough * *"
 	{
@@ -282,7 +282,7 @@
 	"* * 20 seconds until the door opens * *"
 	{
 		"chi"		"**20秒钟后打开门 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"(Right) * * * Door opening * * * 8 seconds * * *"
 	{
@@ -315,7 +315,7 @@
 	"* * Final door opening in 20 seconds * *"
 	{
 		"chi"		"**最后一道门20秒秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"* * Final door opening in 5 seconds * *"
 	{
@@ -323,12 +323,12 @@
 	}
 	"* * You have reached the escape zone * *"
 	{
-		"chi"		"**你已经达到逃离区 **"
+		"chi"		"**你已经达到逃避区 **"
 	}
 	"* * Wait 40 seconds until the magic elevator is ready to go * *"
 	{
-		"chi"		"**等待40秒.直到魔法电梯准备就绪 **"
-		"DoorCountDown"		"40"
+		"chi"		"**等待40秒，直到魔术电梯准备就绪 **"
+		"DoorCountdown"		"40"
 	}
 	"* * Only 10 seconds left * * Hold * *"
 	{
@@ -403,10 +403,6 @@
 		"chi"		"**重力：失控 **"
 	}
 	"* * * HASUL COMO HEL MAR HASUL * * *"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

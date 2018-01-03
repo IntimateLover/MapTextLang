@@ -1,28 +1,48 @@
 "Console_T"
 {
-	"***SURF***"
+	"***BHOP***"
 	{
-		"chi"		"**滑翔**"
+		"chi"		"**连跳**"
+	}
+	"***GET TO THE CENTER***"
+	{
+		"chi"		"**进入中心**"
 	}
 	"***THE TWIST WILL BE: ***"
 	{
 		"chi"		"**扭曲开启：**"
 	}
-	"***SPOOKY SHIT***"
+	"***"
 	{
-		"chi"		"**令人毛骨悚然**"
+		"chi"		"** **"
 	}
-	"***BHOP***"
+	"***SUPER SPEED***"
 	{
-		"chi"		"**连跳**"
+		"chi"		"**超级速度**"
+	}
+	"***Defend for 10 seconds***"
+	{
+		"chi"		"**等待10秒**"
+	}
+	"***TRIPPY COLOURS***"
+	{
+		"chi"		"**迷幻色彩**"
+	}
+	"***Surf***"
+	{
+		"chi"		"**滑翔**"
 	}
 	"***EXPLOSIONS***"
 	{
 		"chi"		"**爆炸**"
 	}
-	"***GET TO THE CENTER***"
+	"***DOOR IS OPEN***"
 	{
-		"chi"		"**进入中心**"
+		"chi"		"**大门开了**"
+	}
+	"***SEINFELD***"
+	{
+		"chi"		"**噪音干扰**"
 	}
 	"***ICE SKATING***"
 	{
@@ -33,11 +53,15 @@
 		"chi"		"**等待20秒**"
 		"DoorCountdown"		"20"
 	}
-	"***Defend for 10 seconds***"
+	"***INVERTED CONTROLS***"
 	{
-		"chi"		"**等待10秒**"
+		"chi"		"**反向控制**"
 	}
-	"***Teleport active***"
+	"***SPOOKY SHIT***"
+	{
+		"chi"		"**令人毛骨悚然**"
+	}
+	"***Teleport Active***"
 	{
 		"chi"		"**传送激活**"
 	}
@@ -49,33 +73,13 @@
 	{
 		"chi"		"**强烈的震动**"
 	}
-	"***SUPER SPEED***"
-	{
-		"chi"		"**超级速度**"
-	}
 	"***DRUGGED UP***"
 	{
 		"chi"		"**毒药**"
 	}
-	"***Door is open***"
-	{
-		"chi"		"**大门开了**"
-	}
-	"***INVERTED CONTROLS***"
-	{
-		"chi"		"**反向控制**"
-	}
-	"***TRIPPY COLOURS***"
-	{
-		"chi"		"**迷幻色彩**"
-	}
 	"***ONLY ONE AT A TIME, FUCK OFF***"
 	{
 		"chi"		"**每次只有一个，滚蛋**"
-	}
-	"***SEINFELD***"
-	{
-		"chi"		"**噪音干扰**"
 	}
 	"***THE TRANSGENDER BANANA SWORD HAS BEEN PICKED UP!!!***"
 	{
@@ -95,13 +99,9 @@
 	{
 		"chi"		"**大门20秒后打开**"
 	}
-	"***Door opening in 10 seconds***"
+	"***DOOR OPENING IN 10 SECONDS***"
 	{
 		"chi"		"**大门10秒后打开**"
-	}
-	"***"
-	{
-		"chi"		"** **"
 	}
 	"***LOW GRAVITY***"
 	{

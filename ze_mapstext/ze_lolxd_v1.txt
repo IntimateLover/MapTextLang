@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"***Door opens in 20 seconds***"
+	{
+		"DoorCountdown"		"20"
+	}
+	"***Door opens in 30 seconds***"
+	{
+		"DoorCountdown"		"30"
+	}
+	"***Door opens in 40 seconds***"
+	{
+		"DoorCountdown"		"40"
+	}
+}

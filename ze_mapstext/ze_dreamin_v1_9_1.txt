@@ -4,7 +4,7 @@
 	{
 		"chi"		"**地图制作：Reflelia 地图翻译：蓬莱山帅比♪**"
 	}
-	"***Thanks to shizuru[idea]  uuz[model]***"
+	"***Thanks to Shizuru[idea]  uuz[model]***"
 	{
 		"chi"		"**感谢：shizuru[idea] and uuz[model] **"
 	}
@@ -112,7 +112,7 @@
 		"chi"		"**等待35秒 **"
 		"DoorCountDown"		"35"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**守住20秒 **"
 		"DoorCountDown"		"20"
@@ -174,7 +174,7 @@
 		"chi"		"**大门30秒后打开 **"
 		"DoorCountDown"		"30"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -302,6 +302,10 @@
 		"chi"		"** **"
 	}
 	"***FAILED***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY SET TO [FADE]"
 	{
 		"chi"		"** **"
 	}

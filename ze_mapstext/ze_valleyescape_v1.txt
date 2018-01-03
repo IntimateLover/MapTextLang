@@ -1,0 +1,95 @@
+"Console_T"
+{
+	"<<MAP BY Shinsengumi00>>"
+	{
+		"chi"		"**地图作者：Shinsengumi00，翻译：此用户已删除**"
+	}
+	"<<With Special Thanks to Moo.TheDoctor>>"
+	{
+		"chi"		"**特别鸣谢：Moo.TheDoctor**"
+	}
+	"<<DOOR BREAKS IN 30 SECONDS>>"
+	{
+		"chi"		"**大门30秒后才会开启**"
+	}
+	"<<MINE DETONATION IN 30 SECONDS>>"
+	{
+		"chi"		"**炸弹将于30秒后将墙壁炸毁**"
+	}
+	"<<WALL IS DESTROYED>>"
+	{
+		"chi"		"**墙壁已被炸毁**"
+	}
+	"<<LASERS DISABLING IN 30 SECONDS>>"
+	{
+		"chi"		"**激光将于30秒后失效**"
+	}
+	"<<LASERS ARE DISABLED>>"
+	{
+		"chi"		"**激光已经失效**"
+	}
+	"<<MINES DETONATION IN 20 SECONDS>>"
+	{
+		"chi"		"**炸弹将在20秒后摧毁墙壁**"
+	}
+	"<<SPAWN ADVANCE IN 15 SECONDS>>"
+	{
+		"chi"		"**僵尸传送点将在15秒后前置**"
+	}
+	"<<BOULDERS DETONATION IN 40 SECONDS>>"
+	{
+		"chi"		"**巨石将在40秒后爆炸**"
+	}
+	"<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>"
+	{
+		"chi"		"**僵尸将会被困住5秒**"
+	}
+	"<<HIDDEN DOOR OPENS IN 35 SECONDS>>"
+	{
+		"chi"		"**隐藏门35秒后开启**"
+	}
+	"<<HIDDEN DOOR OPENS IN 5 SECONDS>>"
+	{
+		"chi"		"**隐藏门5秒后开启**"
+	}
+	"<<CLIMB THE STRUCTURE>>"
+	{
+		"chi"		"**爬上这个建筑**"
+	}
+	"<<FINAL SPAWN ADVANCE IN 35 SECONDS>>"
+	{
+		"chi"		"**最后一个传送点35秒后激活**"
+	}
+	"<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
+	{
+		"chi"		"**核爆将于75秒后全面覆盖，守住**"
+	}
+	"<<CHICKENS FLYING AWAY IN 65 SECONDS>>"
+	{
+		"chi"		"**小鸡飞行器将在65秒后起飞**"
+	}
+	"<<CHICKENS FLYING AWAY IN 5 SECONDS>>"
+	{
+		"chi"		"**小鸡飞行器将在5秒后起飞**"
+	}
+	"<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>"
+	{
+		"chi"		"**核爆将在5秒后全面覆盖**"
+	}
+	"<<4>>"
+	{
+		"chi"		"**<<4>>**"
+	}
+	"<<3>>"
+	{
+		"chi"		"**<<3>>**"
+	}
+	"<<2>>"
+	{
+		"chi"		"**<<2>>**"
+	}
+	"<<1>>"
+	{
+		"chi"		"**胜利！**"
+	}
+}

@@ -3,7 +3,7 @@
 	"***Door will open in 30 seconds***"
 	{
 		"chi"		"** 大门将于 30秒 后开启 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***zombies are being held at first doors for 5 seconds***"
 	{
@@ -44,7 +44,7 @@
 	"Blast doors will open in 25 seconds"
 	{
 		"chi"		"** 防爆门将于 25秒 后开启 后面有 12个手雷补给 请进行防守**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***zombies are being held at blast doors for 8 seconds***"
 	{
@@ -53,7 +53,7 @@
 	"***Blast door will close in 30 seconds and nerve gas will be released***"
 	{
 		"chi"		"** 防爆门将于 30秒 后关闭 并放出Nico Poi Duang 神经毒素 请进行防守 翻译：肉丸**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Blast doors will open in 25 seconds***"
 	{
@@ -68,10 +68,6 @@
 		"chi"		"** **"
 	}
 	"***Gas has now been released***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

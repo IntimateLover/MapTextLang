@@ -1,0 +1,110 @@
+"Console_T"
+{
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"**+++地图制作 by GARGANTUA 地图翻译 by 色狼领袖+++ **"
+	}
+	"+++ FIXED BY CISNEROS +++"
+	{
+		"chi"		"**+++最终修正 by FIXED+++**"
+	}
+	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
+	{
+		"chi"		"**+++门于 45 秒后开启。+++**"
+	}
+	"+++ RESIST IN THIS ZONE +++"
+	{
+		"chi"		"**+++抵御僵尸直至僵尸传送！！+++**"
+	}
+	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
+	{
+		"chi"		"**+++门于 25 秒后开启+++。**"
+	}
+	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
+	{
+		"chi"		"**+++门于 5 秒后开启+++。**"
+	}
+	"+++ THE DOOR IS OPEN +++"
+	{
+		"chi"		"**+++门开了！ 快走！跟紧大部队！+++**"
+	}
+	"+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++"
+	{
+		"chi"		"**+++左边的第一道墙于 15 秒后破碎。+++      （注意回头防守僵尸！）**"
+                                "DoorCountdown"                "15"
+	}
+	"+++ THE FIRST WALL IS BROKEN +++"
+	{
+		"chi"		"**+++墙开了！！快进去！！+++（记得触发电梯开关，开关在角落！）**"
+	}
+	"+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++"
+	{
+		"chi"		"**+++电梯于 10 秒后启动。+++**"
+	}
+	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
+	{
+		"chi"		"**+++守住僵尸 100 秒直至传送！！+++   （铁牢笼需要贴紧右边的柱子才能蹲进去！看清楚别人是怎么进去的！）**"
+	}
+	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
+	{
+		"chi"		"**+++保护好你现在所在的这个区域免受僵尸的破点！+++**"
+	}
+	"+++ THE DOOR IS OPENING IN 10 SECONDS  +++"
+	{
+		"chi"		"**+++僵尸还有 10 秒传送！+++**"
+	}
+	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
+	{
+		"chi"		"**+++僵尸还有 17 秒从牢笼释放！+++    （人类推荐过了木桥进去后左拐走水路！）**"
+	}
+	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
+	{
+		"chi"		"**+++坚守 35 秒直至门开！+++**"
+	}
+	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
+	{
+		"chi"		"**+++坚守 35 秒直至墙壁破碎+++！**"
+                "DoorCountdown"                "35"
+	}
+	"+++ THE WALL IS BROKEN +++"
+	{
+		"chi"		"**+++墙壁开了！！快走！+++（开枪打木板！！贴紧墙壁避免被阳光射死！）**"
+	}
+	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
+	{
+		"chi"		"**+++光桥在 20 秒后激活。+++**"
+	}
+	"++ LIGHTBRIDGE ACTIVATED ++"
+	{
+		"chi"		"**+++光桥已激活。+++**"
+	}
+	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"**+++移动圆盘于 5 秒后离开。+++**"
+	}
+	"++ ACTIVATE THE EYE ++"
+	{
+		"chi"		"**激活眼睛！**"
+	}
+	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
+	{
+		"chi"		"**+++在 50 秒后开启最后的逃生门++**"
+                "DoorCountdown"                "50"
+	}
+	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
+	{
+		"chi"		"**+++在 30 秒后开启最后的逃生门+++**"
+	}
+	"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
+	{
+		"chi"		"**+++在 10 秒后开启最后的逃生门+++**"
+	}
+	"++ ESCAPE DOOR IS OPEN!! ++"
+	{
+		"chi"		"**+++最后的逃生门打开了！快进去！回头防守至关门！+++**"
+	}
+	"++ ESCAPE DOORS CLOSING!! ++"
+	{ 
+		"chi"		"**+++最后的逃生门关闭了！ BOOMMMMMMMMMMMM+++**"
+	}
+}

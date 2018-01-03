@@ -91,10 +91,10 @@
 	">>> DESTROY THE TURRETS <<<"
 	{
 		"chi"		"**摧毁炮塔 **"
-		"ico"   "icon_fire"
-		"ico"   "icon_fire"
-		"ico"   "icon_fire"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+		"ico"		"icon_fire"
+		"ico"		"icon_fire"
+		"ico"		"icon_fire"
 	}
 	">>> TURRETS DESTROYED <<<"
 	{
@@ -103,6 +103,7 @@
 	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
 	{
 		"chi"		"**守住GLaDOS的房间25秒 **"
+		"DoorCountdown"		"25"
 	}
 	">>> DOOR IS CLOSING IN 5 SECS <<<"
 	{

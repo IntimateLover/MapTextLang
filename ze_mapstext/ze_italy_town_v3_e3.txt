@@ -112,6 +112,7 @@
 	"++ HOLD! The door will open in 20 seconds!!! ++"
 	{
 		"chi"		"**防守20秒直到大门打开**"
+		"DoorCountdown"		"20"
 	}
 	"++ RESIST! 5 LAST SECONDS!!! ++"
 	{
@@ -124,6 +125,7 @@
 	"+++ Double doors open in 20 seconds +++"
 	{
 		"chi"		"**双扇门20秒后打开**"
+		"DoorCountdown"		"20"
 	}
 	"++ Nuke launched. Impact in 60 seconds ++"
 	{

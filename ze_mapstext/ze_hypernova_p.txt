@@ -24,27 +24,11 @@
 	{
 		"chi"		"** **"
 	}
-	"** Cargo secction upper door opening in 5s**"
-	{
-		"chi"		"** **"
-	}
-	"**Closing gravity tower upper access**"
-	{
-		"chi"		"** **"
-	}
-	"**Crate locking gravity tower access**"
-	{
-		"chi"		"** **"
-	}
-	"**Gravity tower acces breaking crate in 5s**"
-	{
-		"chi"		"** **"
-	}
 	"**Double doors sealing in 15s**"
 	{
 		"chi"		"** **"
 	}
-	"**Cargo lift leaving in 30 s**"
+	"** Cargo secction upper door opening in 5s**"
 	{
 		"chi"		"** **"
 	}
@@ -53,6 +37,42 @@
 		"chi"		"** **"
 	}
 	"**Sealing double doors**"
+	{
+		"chi"		"** **"
+	}
+	"**Closing gravity tower upper access**"
+	{
+		"chi"		"** **"
+	}
+	"**Sealing elevator acces for security**"
+	{
+		"chi"		"** **"
+	}
+	"**Crate locking gravity tower access**"
+	{
+		"chi"		"** **"
+	}
+	"**Door malfunction**"
+	{
+		"chi"		"** **"
+	}
+	"**Generator Elevator leaving in 25 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Generator Elevator leaving 15 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Gravity tower acces breaking crate in 5s**"
+	{
+		"chi"		"** **"
+	}
+	"**Generator Elevator is leaving**"
+	{
+		"chi"		"** **"
+	}
+	"**Cargo lift leaving in 30 s**"
 	{
 		"chi"		"** **"
 	}
@@ -68,19 +88,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**Sealing elevator acces for security**"
-	{
-		"chi"		"** **"
-	}
-	"**Door malfunction**"
-	{
-		"chi"		"** **"
-	}
 	"**Giant Star is in critical situation**"
-	{
-		"chi"		"** **"
-	}
-	"**Generator Elevator leaving in 25 s**"
 	{
 		"chi"		"** **"
 	}
@@ -92,15 +100,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**Generator Elevator leaving 15 s**"
-	{
-		"chi"		"** **"
-	}
 	"**All zombies will get teleported to the infected pod**"
-	{
-		"chi"		"** **"
-	}
-	"**Generator Elevator is leaving**"
 	{
 		"chi"		"** **"
 	}

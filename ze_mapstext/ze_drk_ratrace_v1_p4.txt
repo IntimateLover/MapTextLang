@@ -1,0 +1,96 @@
+"Console_T"
+{
+	">>Welcome to the Ratrace simpletons.<<"
+	{
+		"chi"		"**欢迎来到本地图！地图翻译：觉醒之刃**"
+	}
+	">>Most of you will not survive.<<"
+	{
+		"chi"		"**虽然你们人类之间大多数人将不会活到最后...**"
+	}
+	">>But it's not my problem.<<"
+	{
+		"chi"		"**但那不是我该关心的事...**"
+	}
+	">>WHAT!<<"
+	{
+		"chi"		"**纳尼???**"
+	}
+	">>How did you figure that out?!<<"
+	{
+		"chi"		"**你们他喵的是怎么出来的?**"
+	}
+	">>Fine... Escape... See if I care...<<"
+	{
+		"chi"		"**算了...尽情跑吧...如果我会在意的话**"
+	}
+	">>But... please..... DIE!<<"
+	{
+		"chi"		"**但是...请你们...去死吧!**"
+	}
+	">>Teleporters Charging. Active in 15s.<<"
+	{
+		"chi"		"**传送装置充能中,将在25秒后启动!**"
+	}
+	">>Teleporters active.<<"
+	{
+		"chi"		"**传送器已启动!*"
+	}
+	">>Jump over the zombifiing ooze!<<"
+	{
+		"chi"		"**跳过地上的死亡线!(绿色线条)**"
+	}
+	"Elevator leaving in 20 seconds."
+	{
+		"chi"		"**电梯将在20秒后离开!**"
+		"DoorCountdown"                "20"
+	}
+	"Elevator leaving in 10 seconds."
+	{
+		"chi"		"**电梯将在10秒后离开!**"
+	}
+	"Elevator leaving in 5 seconds."
+	{
+		"chi"		"**电梯将在5秒后离开!**"
+	}
+	"Elevator to the surface leaving in 15 seconds."
+	{
+		"chi"		"**通往地面的电梯将在15秒后离开!**"
+	}
+	"Elevator to the surface leaving in 5 seconds."
+	{
+		"chi"		"**通往地面的电梯将在15秒后离开!(电梯启动后注意往电梯旁的梯子下扔冰冻将僵尸拖住)**"
+	}
+	">>Some sacrifices must be made.<<"
+	{
+		"chi"		"**做出一点点牺牲是很有必要的**"
+	}
+	">>Remember"
+	{
+		"chi"		"**乃们听好了QAQ**"
+	}
+	">>Thanks for playing.<<"
+	{
+		"chi"		"**感谢乃们的游玩OvO!---地图作者语**"
+	}
+	">>Panic room closing in 30 seconds!<<"
+	{
+		"chi"		"**战栗之屋将在30秒后关闭!**"
+	}
+	">>Panic room closing in 15 seconds!<<"
+	{
+		"chi"		"**战栗之屋将在15秒后关闭!**"
+	}
+	">>Panic room closing in 5 seconds!<<"
+	{
+		"chi"		"**战栗之屋将在5秒后关闭!**"
+	}
+	">>Containing personell in 5 seconds!<<"
+	{
+		"chi"		"**杀戮机器将在5秒内准备完毕**"
+	}
+	">>Contained personell you are fired!<<"
+	{
+		"chi"		"**哈哈哈，僵尸们，你们玩儿完了!**"
+	}
+}

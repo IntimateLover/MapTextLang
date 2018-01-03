@@ -15,6 +15,7 @@
 	"** jian chi 30 miao , hen kuai jiu kai men le **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"** jiang shi dao bei jian qi le **"
 	{
@@ -91,6 +92,7 @@
 	"** wo men hui zai 45 miao hou zha diao zhe dui shi tou **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"45"
 	}
 	"** boom , kuai pao ! **"
 	{

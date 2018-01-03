@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"map made by salem"
+	{
+		"chi"		"** **"
+	}
+	"**elevator leaving in 5 sec**"
+	{
+		"chi"		"** **"
+	}
+	"the boat will depart in 10 secs"
+	{
+		"chi"		"** **"
+	}
+	"gate will open in 10 secs"
+	{
+		"chi"		"** **"
+	}
+	"the security door will open in 20 secs"
+	{
+		"chi"		"** **"
+	}
+	"security door has been opened"
+	{
+		"chi"		"** **"
+	}
+	"*** the hazard door will open in 20 secs ***"
+	{
+		"chi"		"** **"
+	}
+}

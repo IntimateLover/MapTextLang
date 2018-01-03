@@ -1,24 +1,8 @@
 "Console_T"
 {
-	"**ZE_JOHNNY_NUKEM**"
-	{
-		"chi"		"** **"
-	}
 	"**Map by Lucky9Two (original autor) Headshooter.SC HaRyDe and autism**"
 	{
 		"chi"		"**地图制作：Lucky9Two (original autor) HeadshooterSC HaRyDe and autism**"
-	}
-	"**We are not giving thanks to Microsoft Edge for models**"
-	{
-		"chi"		"** **"
-	}
-	"**...or to GAF for some cookies**"
-	{
-		"chi"		"** **"
-	}
-	"**...Vanya and Blue Dragon are not thanked aswell**"
-	{
-		"chi"		"** **"
 	}
 	"**[Stage 1 - The Rebellion against the Frog Kingdom]**"
 	{
@@ -44,22 +28,6 @@
 	{
 		"chi"		"**Johnny:但我该怎么做？**"
 	}
-	"**A player has picked up the Ammo-Taco Box**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- This item gives unlimited ammo for 5 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- Can only be used two times and has a 60 second cooldown**"
-	{
-		"chi"		"** **"
-	}
-	"**A player has picked up the Dong Chainsaw**"
-	{
-		"chi"		"** **"
-	}
 	"**A player has picked up the Rainbow Flamethrower**"
 	{
 		"chi"		"**一位玩家拿起喷火器**"
@@ -67,26 +35,6 @@
 	"**TIP -- Flamethrower can last up to 20 seconds**"
 	{
 		"chi"		"**提示:喷火器有20秒的燃料,请合理使用**"
-	}
-	"**A player has picked up a weird Bubble Gun**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- The laser it fires slows down the zombies**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- It has a 55 second cooldown**"
-	{
-		"chi"		"** **"
-	}
-	"**A player has picked up the Pink Elephants. Aww <3**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- These elephants work as explosive mines**"
-	{
-		"chi"		"** **"
 	}
 	"Rayvel *Welcome stranger. How can I help you?*"
 	{
@@ -100,13 +48,13 @@
 	{
 		"chi"		"**约翰尼教授:我需要找到希特勒,让他为他所做的一切付出代价**"
 	}
-	"Rayvel *Huh... you dont hear that everyday...*"
-	{
-		"chi"		"**瑞威尔:我也不知道他在哪里**"
-	}
 	"Rayvel *But I have some information that can help you*"
 	{
 		"chi"		"**瑞威尔:但我有一些消息可以帮助你**"
+	}
+	"Rayvel *Huh... you dont hear that everyday...*"
+	{
+		"chi"		"**瑞威尔:我也不知道他在哪里**"
 	}
 	"Rayvel *Kill the King of the Frogs. His hideout is in that bathtub up ahead*"
 	{
@@ -131,18 +79,6 @@
 	"Johnny *Jesus... in what did I just get myself into?*"
 	{
 		"chi"		"**Johnny：上帝，我刚刚做了什么**"
-	}
-	"**A player has picked up the Mountain Dew (Heal)**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- This item heals you and teammates around you for 5 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- Can only be used twice and has a 10 second cooldown**"
-	{
-		"chi"		"** **"
 	}
 	"**The paper wall will disappear in 30 seconds**"
 	{
@@ -252,163 +188,8 @@
 	{
 		"chi"		"**Johnny：干的漂流，希特勒不再这里，但他跑不了了**"
 	}
-	"**A ladder has appeared - Fall back!**"
-	{
-		"chi"		"** **"
-	}
 	"**The water in the sink will be drained out in 15 seconds**"
 	{
 		"chi"		"**水池里的水将在15喵后排干**"
-	}
-	"**Water has been drained -- Jump down**"
-	{
-		"chi"		"** **"
-	}
-	"**The doors will open in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Move back**"
-	{
-		"chi"		"** **"
-	}
-	"**This is the last paper wall -- it opens in 25 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Fall back now!!**"
-	{
-		"chi"		"** **"
-	}
-	"**Dont let zombies get past the paper wall -- Defend!**"
-	{
-		"chi"		"** **"
-	}
-	"**Keep them off for 5 more seconds!**"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1 Complete!**Moving onto Stage 2**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombies detected -- You failed...**"
-	{
-		"chi"		"** **"
-	}
-	"**[Stage 2 - The Rebellion against the Frog (Lego) Kingdom MK. II]**"
-	{
-		"chi"		"** **"
-	}
-	"**The teleport pad will open in 20 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**The paper wall will disappear in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Fall back!**Rayvel is waiting for you**"
-	{
-		"chi"		"** **"
-	}
-	"**The paper wall will disappear in 25 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"Johnny  *So... do you know where is Hitler hiding?*"
-	{
-		"chi"		"** **"
-	}
-	"Rayvel  *Yeah but we have one issue... to get to him you must first face the Lego King*"
-	{
-		"chi"		"** **"
-	}
-	"Johnny  *Are you kidding me?*"
-	{
-		"chi"		"** **"
-	}
-	"Rayvel  *Does it look like Im joking? Find the Lego King and kill him. Then find a way out of there*"
-	{
-		"chi"		"** **"
-	}
-	"Johnny  *Leave it to me!*"
-	{
-		"chi"		"** **"
-	}
-	"**Move back towards the bed**"
-	{
-		"chi"		"** **"
-	}
-	"**A magical ladder will appear in 20 seconds**Defend until it appears!**"
-	{
-		"chi"		"** **"
-	}
-	"**The ladder has appeared! Get back!**That doesnt look like a ladder though...**"
-	{
-		"chi"		"** **"
-	}
-	"**Keep the zombies off this pillow for 30 seconds!**"
-	{
-		"chi"		"** **"
-	}
-	"**AFK teleport in 5 seconds.**"
-	{
-		"chi"		"** **"
-	}
-	"**TIP -- Mr. Hanky doesnt like humans nor zombies**Stay away from him!**"
-	{
-		"chi"		"** **"
-	}
-	"**The gate to the arena will open in 20 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"Johnny *There he is... he doesnt look as tough as Rayvel made me think*"
-	{
-		"chi"		"** **"
-	}
-	"Johnny *Bring it on then!*"
-	{
-		"chi"		"** **"
-	}
-	"**The gate to the arena is opening... good luck**"
-	{
-		"chi"		"** **"
-	}
-	"Lego King IV  *Hmm.. One more person? The last one I faced was a way tricky.*"
-	{
-		"chi"		"** **"
-	}
-	"Lego King IV  *But you will die for sure here.*"
-	{
-		"chi"		"** **"
-	}
-	"Johnny  *Always wanted to try the fried frogs with a plastic taste..*"
-	{
-		"chi"		"** **"
-	}
-	"**Well. I think we should slay that angry frog**"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_he_limit 4"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_smoke_limit 2"
-		}
-		"2"
-		{
-			"cvar"		"sm_molotov_limit 1"
-		}
-		"3"
-		{
-			"cvar"		"sm_flash_limit   1"
-		}
 	}
 }
