@@ -145,7 +145,7 @@
 
 	"menu_event_Titlestart"
 	{
-		"chi"		"下一回合开启小游戏日"
+		"chi"		"下回合开启小游戏日"
 	}
 
 	"menu_event_Titlevote"
@@ -354,7 +354,7 @@
 
 	"menu_removequeue"
 	{
-		"chi"		"从狱警队列中移除某位玩家"
+		"chi"		"移除狱警队列中某玩家"
 	}
 
 	"menu_endround"
