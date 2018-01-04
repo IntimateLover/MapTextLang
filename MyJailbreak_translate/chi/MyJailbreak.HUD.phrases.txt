@@ -10,32 +10,32 @@
 
 	"hud_planned"
 	{
-		"en"		"Next round:"
+		"en"		"下一回合:"
 	}
 
 	"hud_running"
 	{
-		"en"		"This round:"
+		"en"		"这个回合:"
 	}
 
 	"hud_warden"
 	{
-		"en"		"Warden:"
+		"en"		"当前监狱长:"
 	}
 
 	"hud_nowarden"
 	{
-		"en"		"Currently no warden"
+		"en"		"没有"
 	}
 
 	"hud_guards"
 	{
-		"en"		"Guards:"
+		"en"		"狱警人数:"
 	}
 
 	"hud_prisoner"
 	{
-		"en"		"Prisoner:"
+		"en"		"囚犯人数:"
 	}
 
 	"hud_on"
@@ -50,7 +50,7 @@
 
 	"hud_lastCT"
 	{
-		"en"		"Last Guard:"
+		"en"		"最后一名狱警:"
 	}
 
 }
