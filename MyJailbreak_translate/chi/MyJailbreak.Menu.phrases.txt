@@ -1,0 +1,420 @@
+// Exported from SourceMod Translator
+// Date: 2017-12-31 04:02:42 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/180
+//
+"Phrases"
+{
+
+	"menu_info"
+	{
+		"chi"		"To open the Jailbreak menu, press , or type !menu in chat!"
+	}
+
+	"menu_info_title"
+	{
+		"chi"		"越狱菜单"
+	}
+
+	"menu_countdown"
+	{
+		"chi"		"Begin a Countdown Timer"
+	}
+
+	"menu_opencell"
+	{
+		"chi"		"打开监狱门"
+	}
+
+	"menu_seteventdays"
+	{
+		"chi"		"Set Event Days"
+	}
+
+	"menu_voteeventdays"
+	{
+		"chi"		"Vote For Event Days"
+	}
+
+	"menu_math"
+	{
+		"chi"		"Start a Math Quiz"
+	}
+
+	"menu_guns"
+	{
+		"chi"		"武器菜单"
+	}
+
+	"menu_laser"
+	{
+		"chi"		"Laser Pointer Menu"
+	}
+
+	"menu_noblock"
+	{
+		"chi"		"Toggle NoBlock"
+	}
+
+	"menu_sparks"
+	{
+		"chi"		"Toggle BulletImpact Sparks"
+	}
+
+	"menu_extend"
+	{
+		"chi"		"Extend The Round Time"
+	}
+
+	"menu_ffon"
+	{
+		"chi"		"Enable FF for Ts"
+	}
+
+	"menu_ffoff"
+	{
+		"chi"		"Disable FF for Ts"
+	}
+
+	"menu_randomdead"
+	{
+		"chi"		"Kill a Random Prisoner"
+	}
+
+	"menu_unwarden"
+	{
+		"chi"		"Retire from Warden"
+	}
+
+	"menu_getwarden"
+	{
+		"chi"		"成为监狱长"
+	}
+
+	"menu_joint"
+	{
+		"chi"		"成为囚犯"
+	}
+
+	"menu_check"
+	{
+		"chi"		"Check Rebellers"
+	}
+
+	"menu_lr"
+	{
+		"chi"		"Last Request"
+	}
+
+	"menu_removewarden"
+	{
+		"chi"		"取消监狱长"
+	}
+
+	"menu_setwarden"
+	{
+		"chi"		"Set New Warden"
+	}
+
+	"menu_rules"
+	{
+		"chi"		"Rules"
+	}
+
+	"menu_joinct"
+	{
+		"chi"		"Become a Guard"
+	}
+
+	"menu_guardct"
+	{
+		"chi"		"Join Guard queue (!guard)"
+	}
+
+	"menu_request"
+	{
+		"chi"		"Requests"
+	}
+
+	"menu_votewarden"
+	{
+		"chi"		"Vote To Fire The Warden"
+	}
+
+	"menu_event_Titlestart"
+	{
+		"chi"		"Start Event Next Round"
+	}
+
+	"menu_event_Titlevote"
+	{
+		"chi"		"Vote for an Event Day"
+	}
+
+	"menu_war"
+	{
+		"chi"		"混战"
+	}
+
+	"menu_ffa"
+	{
+		"chi"		"自由日"
+	}
+
+	"menu_zeus"
+	{
+		"chi"		"电击枪对决"
+	}
+
+	"menu_zombie"
+	{
+		"chi"		"僵尸日"
+	}
+
+	"menu_hide"
+	{
+		"chi"		"关灯躲猫猫"
+	}
+
+	"menu_suicidebomber"
+	{
+		"chi"		"苦力怕模式"
+	}
+
+	"menu_catch"
+	{
+		"chi"		"Catch & Freeze"
+	}
+
+	"menu_knifefight"
+	{
+		"chi"		"刀战"
+	}
+
+	"menu_hebattle"
+	{
+		"chi"		"丢雷模式"
+	}
+
+	"menu_cowboy"
+	{
+		"chi"		"牛仔模式"
+	}
+
+	"menu_drunk"
+	{
+		"chi"		"醉酒模式"
+	}
+
+	"menu_torch"
+	{
+		"chi"		"传火"
+	}
+
+	"menu_noscope"
+	{
+		"chi"		"No Scope"
+	}
+
+	"menu_duckhunt"
+	{
+		"chi"		"杀鸡模式"
+	}
+
+	"menu_admin"
+	{
+		"chi"		"管理员菜单"
+	}
+
+	"menu_mute"
+	{
+		"chi"		"Mute Menu"
+	}
+
+	"menu_painter"
+	{
+		"chi"		"Painter Menu"
+	}
+
+	"menu_closecell"
+	{
+		"chi"		"关闭监狱门"
+	}
+
+	"menu_voting"
+	{
+		"chi"		"Vote for an Event Day:"
+	}
+
+	"menu_voteday"
+	{
+		"chi"		"开启事件日投票"
+	}
+
+	"menu_votingwon"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"chi"		"The vote has ended with {2} vote yet. {green}{1} {default}won with {3} votes."
+	}
+
+	"menu_minplayer"
+	{
+		"chi"		"For a Event Day Voting, you must have at least {purple}one Guard, & one Prisoner"
+	}
+
+	"menu_progress"
+	{
+		"#format"	"{1:s}"
+		"chi"		"The event {darkred}{1} {default}is {purple}already in progress!"
+	}
+
+	"menu_wait"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You must wait {purple}{1}{default} more rounds for an Event Day Voting!"
+	}
+
+	"menu_votingdraw"
+	{
+		"chi"		"The vote ended in a 50/50 draw! An Event Day was chosen Randomly!"
+	}
+
+	"menu_disabled"
+	{
+		"chi"		"Event voting is currently {purple}disabled!"
+	}
+
+	"menu_playerfreeday"
+	{
+		"chi"		"给某玩家自由日"
+	}
+
+	"menu_teamgamesmenu"
+	{
+		"chi"		"Team Games - Menu"
+	}
+
+	"menu_teamgamesgames"
+	{
+		"chi"		"Team Games - Games"
+	}
+
+	"menu_undeputy"
+	{
+		"chi"		"Retire From Deputy"
+	}
+
+	"menu_removedeputy"
+	{
+		"chi"		"取消副狱长"
+	}
+
+	"menu_deputybecome"
+	{
+		"chi"		"成为副狱长"
+	}
+
+	"menu_deputyset"
+	{
+		"chi"		"设置你的副狱长"
+	}
+
+	"menu_rebel"
+	{
+		"chi"		"Un/Mark a player as Rebel"
+	}
+
+	"menu_count"
+	{
+		"chi"		"Count Prisoner in sight"
+	}
+
+	"menu_jailshop"
+	{
+		"chi"		"打开监狱门"
+	}
+
+	"menu_orders"
+	{
+		"chi"		"其他"
+	}
+
+	"menu_ghosts"
+	{
+		"chi"		"幽灵模式"
+	}
+
+	"menu_votingcancel"
+	{
+		"#format"	"{1:s}"
+		"chi"		"The voting was canceled, cause EventDay {purple}{1}{default} was already set!"
+	}
+
+	"menu_removequeue"
+	{
+		"chi"		"从狱警队列中移除某位玩家"
+	}
+
+	"menu_endround"
+	{
+		"chi"		"强制结束本回合"
+	}
+
+	"menu_clearqueue"
+	{
+		"chi"		"清空狱警队列"
+	}
+
+	"menu_noevent"
+	{
+		"chi"		"无活动日"
+	}
+
+	"menu_joinspec"
+	{
+		"chi"		"跳观察"
+	}
+
+	"menu_gangs"
+	{
+		"chi"		"Gangs Menu"
+	}
+
+	"menu_teleport"
+	{
+		"chi"		"传送混战模式"
+	}
+
+	"menu_armsrace"
+	{
+		"chi"		"军备竞赛模式"
+	}
+
+	"menu_playerremovefreeday"
+	{
+		"chi"		"取消某位玩家的自由日"
+	}
+
+	"menu_oneinthechamber"
+	{
+		"chi"		"One in the chamber"
+	}
+
+	"menu_nolr"
+	{
+		"chi"		"Toggle withheld Last Request"
+	}
+
+	"menu_dealdamage"
+	{
+		"chi"		"Deal Damage Day"
+	}
+
+	"menu_freeday"
+	{
+		"chi"		"跑图日"
+	}
+
+}

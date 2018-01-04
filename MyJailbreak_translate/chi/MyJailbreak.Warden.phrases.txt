@@ -1,0 +1,1059 @@
+// Exported from SourceMod Translator
+// Date: 2017-12-31 04:02:38 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/178
+//
+"Phrases"
+{
+
+	"warden_tag"
+	{
+		"chi"		"[{green}MyJB.warden{default}]"
+	}
+
+	"warden_new"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{purple}{1}{default} 已经成为了你们的监狱长."
+	}
+
+	"warden_new_nc"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} is now the Warden of this prison."
+	}
+
+	"warden_playerdead"
+	{
+		"chi"		"Only {purple}alive players{default} can become Warden!"
+	}
+
+	"warden_ctsonly"
+	{
+		"chi"		"Only {purple}Counter-Terrorists{default} can become Warden!"
+	}
+
+	"warden_exist"
+	{
+		"#format"	"{1:N}"
+		"chi"		"现在的监狱长是: {purple}{1}{default}."
+	}
+
+	"warden_retire"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{purple}{1}{default} has decided to retire as Warden. You may now choose a new Warden!"
+	}
+
+	"warden_retire_nc"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} has decided to retire as Warden. You may now choose a new Warden!"
+	}
+
+	"warden_notwarden"
+	{
+		"chi"		"You must be the {purple}Warden{default} to use this command!"
+	}
+
+	"warden_dead"
+	{
+		"chi"		"The Warden is now {darkred}dead{default}. You may now choose a new one."
+	}
+
+	"warden_nowarden"
+	{
+		"chi"		"There is no current {purple}Warden{default}. Type {green}!w{default} to become the Warden!"
+	}
+
+	"warden_nowarden_nc"
+	{
+		"chi"		"There is no current Warden. Type !w to become the Warden!"
+	}
+
+	"warden_dead_nc"
+	{
+		"chi"		"The Warden is now dead. You may now choose a new one."
+	}
+
+	"warden_disconnected"
+	{
+		"chi"		"The Warden has {purple}disconnected{default}. You may now choose a new one."
+	}
+
+	"warden_disconnected_nc"
+	{
+		"chi"		"The Warden has disconnected. You may now choose a new one."
+	}
+
+	"warden_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"Admin: {purple}{1}{default} has Fired the Warden: {purple}{2}"
+	}
+
+	"warden_removed_nc"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"Admin: {1} has Fired the Warden: {2}"
+	}
+
+	"warden_noexist"
+	{
+		"chi"		"There is no current{purple} Warden!"
+	}
+
+	"warden_disabled"
+	{
+		"chi"		"Warden is currently {purple}disabled{default}!"
+	}
+
+	"warden_nobecome"
+	{
+		"chi"		"A new Warden will be picked {purple}randomly{default}!"
+	}
+
+	"warden_adminset"
+	{
+		"#format"	"{1:N}"
+		"chi"		"Admin: {purple}{1}{default} set the Warden!"
+	}
+
+	"warden_randomwarden"
+	{
+		"chi"		"A Random Warden has been chosen!"
+	}
+
+	"warden_dooropen"
+	{
+		"chi"		"The Warden has {purple}opened{default} the cells."
+	}
+
+	"warden_doorclose"
+	{
+		"chi"		"The Warden {purple}closed{default} the cells."
+	}
+
+	"warden_openauto"
+	{
+		"chi"		"The cell doors {purple}open automatically!{default}"
+	}
+
+	"warden_opentime"
+	{
+		"chi"		"Now, the {purple}cell doors{default} should be open!"
+	}
+
+	"warden_ffison"
+	{
+		"chi"		"Friendly fire is {purple}enabled!"
+	}
+
+	"warden_ffisoff"
+	{
+		"chi"		"Friendly fire is{purple}disabled!"
+	}
+
+	"warden_voting"
+	{
+		"chi"		"Voting to kick the {purple}Warden{default} is currently disabled!"
+	}
+
+	"warden_countdowncanceled"
+	{
+		"chi"		"The Countdown was {darkred}canceled!"
+	}
+
+	"warden_startcountdown_nc"
+	{
+		"#format"	"{1:i}"
+		"chi"		"Start in {1} seconds!"
+	}
+
+	"warden_stopcountdown_nc"
+	{
+		"#format"	"{1:i}"
+		"chi"		"Stop/End in {1} seconds!"
+	}
+
+	"warden_startcountdown"
+	{
+		"#format"	"{1:i}"
+		"chi"		"Start in {purple}{1}{default} seconds!"
+	}
+
+	"warden_stopcountdown"
+	{
+		"#format"	"{1:i}"
+		"chi"		"Stop in {purple}{1}{default} seconds!"
+	}
+
+	"warden_startcountdownhint"
+	{
+		"chi"		"Attention! The Warden {purple}started a START Countdown!"
+	}
+
+	"warden_startcountdownhint_nc"
+	{
+		"chi"		"Attention! The Warden started a START Countdown!"
+	}
+
+	"warden_startstopcountdownhint"
+	{
+		"chi"		"Attention! The Warden {purple}started a START / STOP Countdown!"
+	}
+
+	"warden_startstopcountdownhint_nc"
+	{
+		"chi"		"Attention! The Warden started a START / STOP Countdown!"
+	}
+
+	"warden_stopcountdownhint"
+	{
+		"chi"		"Attention! The Warden {purple}started a STOP Countdown!"
+	}
+
+	"warden_stopcountdownhint_nc"
+	{
+		"chi"		"Attention! The Warden started a STOP Countdown! Hurry up!"
+	}
+
+	"warden_countdownstart"
+	{
+		"chi"		"{purple}GO! {darkred}START!"
+	}
+
+	"warden_countdownstop"
+	{
+		"chi"		"{purple}STOP! {darkred}END!"
+	}
+
+	"warden_countdownrunning"
+	{
+		"chi"		"A Countdown is {purple}already in progress!"
+	}
+
+	"warden_countdownstart_nc"
+	{
+		"chi"		"GO! START!"
+	}
+
+	"warden_countdownstop_nc"
+	{
+		"chi"		"STOP! END!"
+	}
+
+	"warden_noblockoff"
+	{
+		"chi"		"The Warden toggled {purple}NoBlock off!"
+	}
+
+	"warden_noblockon"
+	{
+		"chi"		"The Warden toggled {purple}NoBlock on!"
+	}
+
+	"warden_need"
+	{
+		"#format"	"{1:i}"
+		"chi"		"{1} votes required to {darkred}Kick The Warden!"
+	}
+
+	"warden_voted"
+	{
+		"chi"		"You have already voted against the current {purple}Warden{default}!"
+	}
+
+	"warden_israndom"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} was Chosen Randomly!"
+	}
+
+	"warden_gunplant"
+	{
+		"#format"	"{1:N},{2:s}"
+		"chi"		"Guard {purple}{1}{default} 丢掉了自己的{green}{2}!"
+	}
+
+	"warden_gunplant_nc"
+	{
+		"#format"	"{1:N},{2:s}"
+		"chi"		"Guard {1} has dropped the weapon {2}!"
+	}
+
+	"warden_noplant"
+	{
+		"chi"		"It's {darkred}forbidden{default} for Guards to drop weapons!"
+	}
+
+	"warden_choose"
+	{
+		"chi"		"Select Player"
+	}
+
+	"warden_remove"
+	{
+		"chi"		"Remove the current Warden?"
+	}
+
+	"warden_laseron"
+	{
+		"chi"		"Laser {purple}is enabled!"
+	}
+
+	"warden_laseroff"
+	{
+		"chi"		"Laser {purple}is disabled"
+	}
+
+	"warden_draweron"
+	{
+		"chi"		"Drawer {purple}enabled"
+	}
+
+	"warden_draweroff"
+	{
+		"chi"		"Drawer {purple}disabled"
+	}
+
+	"warden_drawert"
+	{
+		"chi"		"Toggle Drawer for Terrorists"
+	}
+
+	"warden_tdraweron"
+	{
+		"chi"		"Drawer for Terrorists is {purple}enabled"
+	}
+
+	"warden_tdraweroff"
+	{
+		"chi"		"Drawer for Terrorists is {purple}disabled"
+	}
+
+	"warden_marker_set"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1} Marker Set!"
+	}
+
+	"warden_marker_remove"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1} Marker Removed!"
+	}
+
+	"warden_laser"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1} Laser Pointer is now equipped!"
+	}
+
+	"warden_drawer"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1} Drawer equipt!"
+	}
+
+	"warden_marker_faraway"
+	{
+		"#format"	"{1:s}"
+		"chi"		"Your {1} Marker was removed! You were far away from it."
+	}
+
+	"warden_marker_title"
+	{
+		"chi"		"Marker Color"
+	}
+
+	"warden_laser_title"
+	{
+		"chi"		"Laser Pointer Color"
+	}
+
+	"warden_drawer_title"
+	{
+		"chi"		"Drawer Color"
+	}
+
+	"warden_laser_off"
+	{
+		"chi"		"Disable Laser Pointer"
+	}
+
+	"warden_drawer_off"
+	{
+		"chi"		"Deactivate Drawer"
+	}
+
+	"warden_rainbow"
+	{
+		"chi"		"Rainbow"
+	}
+
+	"warden_red"
+	{
+		"chi"		"Red"
+	}
+
+	"warden_blue"
+	{
+		"chi"		"Blue"
+	}
+
+	"warden_green"
+	{
+		"chi"		"Green"
+	}
+
+	"warden_orange"
+	{
+		"chi"		"Orange"
+	}
+
+	"warden_yellow"
+	{
+		"chi"		"Yellow"
+	}
+
+	"warden_white"
+	{
+		"chi"		"White"
+	}
+
+	"warden_cyan"
+	{
+		"chi"		"Cyan"
+	}
+
+	"warden_magenta"
+	{
+		"chi"		"Magenta"
+	}
+
+	"warden_range"
+	{
+		"chi"		"The Position is out of range!"
+	}
+
+	"warden_wrong"
+	{
+		"chi"		"Something went wrong! Please try again!"
+	}
+
+	"warden_mute"
+	{
+		"#format"	"{1:N},{2:N},{3:i}"
+		"chi"		"{2} was Muted by the Warden {1} for {3} seconds!"
+	}
+
+	"warden_muteend"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"{2} was Muted by the Warden {1} for the rest of the round!"
+	}
+
+	"warden_unmute"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} has been unmuted."
+	}
+
+	"warden_cdmenu_title"
+	{
+		"chi"		"Countdown Menu"
+	}
+
+	"warden_cdmenu_start"
+	{
+		"chi"		"Begin a START Countdown (10 sec)"
+	}
+
+	"warden_cdmenu_stop"
+	{
+		"chi"		"Begin a STOP Countdown (20 sec)"
+	}
+
+	"warden_cdmenu_startstop"
+	{
+		"chi"		"Set a Start/Stop Countdown"
+	}
+
+	"warden_cdmenu_title2"
+	{
+		"chi"		"Time Between Start & Stop"
+	}
+
+	"warden_time_title"
+	{
+		"chi"		"How long?"
+	}
+
+	"warden_allt"
+	{
+		"chi"		"All Prisoners"
+	}
+
+	"warden_roundend"
+	{
+		"chi"		"Until Round End"
+	}
+
+	"warden_15"
+	{
+		"chi"		"15 Seconds"
+	}
+
+	"warden_30"
+	{
+		"chi"		"30 Seconds"
+	}
+
+	"warden_45"
+	{
+		"chi"		"45 Seconds"
+	}
+
+	"warden_60"
+	{
+		"chi"		"1 Minute"
+	}
+
+	"warden_90"
+	{
+		"chi"		"1 Minute 30 seconds"
+	}
+
+	"warden_120"
+	{
+		"chi"		"2 Minutes"
+	}
+
+	"warden_180"
+	{
+		"chi"		"3 Minutes"
+	}
+
+	"warden_300"
+	{
+		"chi"		"5 Minutes"
+	}
+
+	"warden_math_correct"
+	{
+		"#format"	"{1:N},{2:i}"
+		"chi"		"{1} has given a{green} correct answer!{default} The Answer was {purple}{2}!"
+	}
+
+	"warden_math_time"
+	{
+		"#format"	"{1:i}"
+		"chi"		"Time end! No answer. {purple}The Answer was {1}"
+	}
+
+	"warden_startmathquiz"
+	{
+		"chi"		"Attention! The Warden has started a {purple}Math Quiz!"
+	}
+
+	"warden_startmathquiz_nc"
+	{
+		"chi"		"Attention! The Warden has started a Math Quiz!"
+	}
+
+	"warden_sure"
+	{
+		"chi"		"Are you sure?"
+	}
+
+	"warden_yes"
+	{
+		"chi"		"Yes"
+	}
+
+	"warden_no"
+	{
+		"chi"		"No"
+	}
+
+	"warden_minrandom"
+	{
+		"chi"		"There is only one (non-rebeling) Prisoner left!"
+	}
+
+	"warden_nomuted"
+	{
+		"chi"		"There is no muted Prisoner!"
+	}
+
+	"warden_mute_title"
+	{
+		"chi"		"Mute Menu"
+	}
+
+	"warden_menu_mute"
+	{
+		"chi"		"Mute a Prisoner"
+	}
+
+	"warden_menu_unmute"
+	{
+		"chi"		"Unmute a Prisoner"
+	}
+
+	"warden_cuffs"
+	{
+		"chi"		"Use the Taser as Handcuffs!"
+	}
+
+	"warden_cuffson"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"{purple}{1}{default} Arrested {green}{2}{default}!"
+	}
+
+	"warden_cuffsoff"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"{purple}{1}{default} has removed {green}{2}'s{default} Handcuffs."
+	}
+
+	"warden_cuffsgot"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You've only got {green}{1}{default} handcuff(s) left!"
+	}
+
+	"warden_bulletmarkoff"
+	{
+		"chi"		"Bullet Impact Sparks are now {purple}disabled!"
+	}
+
+	"warden_bulletmarkon"
+	{
+		"chi"		"Bullet Impact Sparks are now {purple}enabled!"
+	}
+
+	"warden_extend"
+	{
+		"#format"	"{1:N},{2:i}"
+		"chi"		"The Warden {1} has extended the roundtime by {2} minutes."
+	}
+
+	"warden_backstab"
+	{
+		"chi"		"Backstab protection is now Activated."
+	}
+
+	"warden_extendtimes"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You have already {purple}extended the round {1} times{default} in this round!"
+	}
+
+	"warden_close"
+	{
+		"chi"		"Exit"
+	}
+
+	"warden_gotpaperclip"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You secretly have {1} paperclip(s) in your pocket. Hold +use (E)"
+	}
+
+	"warden_brokepaperclip"
+	{
+		"chi"		"You broke your paperclip!"
+	}
+
+	"warden_unlock"
+	{
+		"chi"		"You lockpicked your way out of your Handcuffs!"
+	}
+
+	"warden_painter"
+	{
+		"#format"	"{1:s}"
+		"chi"		"{1} Painter is now equipped!"
+	}
+
+	"warden_painter_title"
+	{
+		"chi"		"Painter Color"
+	}
+
+	"warden_painter_off"
+	{
+		"chi"		"Deactivate Painter"
+	}
+
+	"warden_painteron"
+	{
+		"chi"		"Painter {purple}is enabled"
+	}
+
+	"warden_painteroff"
+	{
+		"chi"		"Painter {purple}is disabled"
+	}
+
+	"warden_paintert"
+	{
+		"chi"		"Toggle Painter for Prisoners"
+	}
+
+	"warden_tpainteron"
+	{
+		"chi"		"The Painter for Prisoners is {purple}enabled!"
+	}
+
+	"warden_tpainteroff"
+	{
+		"chi"		"The Painter for Prisoners is {purple}disabled!"
+	}
+
+	"warden_disarmed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"{1} was disarmed by {2}."
+	}
+
+	"warden_lostgun"
+	{
+		"chi"		"You've been wounded in the arm! You lost your weapon!"
+	}
+
+	"warden_remaining"
+	{
+		"chi"		"Remaining"
+	}
+
+	"warden_dooropen_unavailable"
+	{
+		"chi"		"{darkred}This map doesn't support remote door opening. {default}You {purple}must manually open the doors!"
+	}
+
+	"warden_doorclose_unavailable"
+	{
+		"chi"		"{darkred}This map doesn't support remote door closing. {default}You {purple}must manually close the doors!"
+	}
+
+	"warden_openauto_unavailable"
+	{
+		"chi"		"{darkred}This map doesn't support automatic door opening. {default}The Warden {purple}must manually open the doors!"
+	}
+
+	"warden_menu_muteall"
+	{
+		"chi"		"Mute all Prisoners"
+	}
+
+	"warden_menu_unmuteall"
+	{
+		"chi"		"Unmute all Prisoners"
+	}
+
+	"warden_votesuccess"
+	{
+		"chi"		"The Voting to {purple}kick the Warden{default} was successful!"
+	}
+
+	"warden_mutedefault"
+	{
+		"chi"		"All Prisoners are muted by default."
+	}
+
+	"warden_rebel_title"
+	{
+		"chi"		"Rebels Menu"
+	}
+
+	"warden_rebel_mark"
+	{
+		"chi"		"Mark a Player as Rebel"
+	}
+
+	"warden_rebel_unmark"
+	{
+		"chi"		"Remove a Player from Rebels"
+	}
+
+	"warden_talkover"
+	{
+		"chi"		"Warden speaks, you have been muted."
+	}
+
+	"warden_info_counter"
+	{
+		"chi"		"Prisoner in sight:"
+	}
+
+	"warden_counter"
+	{
+		"#format"	"{1:i}"
+		"chi"		"There are {1} prisoner in your view"
+	}
+
+	"warden_deputy_playerdead"
+	{
+		"chi"		"Only {purple}alive players{default} can become Deputy!"
+	}
+
+	"warden_deputy_ctsonly"
+	{
+		"chi"		"Only {purple}Counter-Terrorists{default} can become Deputy!"
+	}
+
+	"warden_deputy_exist"
+	{
+		"#format"	"{1:N}"
+		"chi"		"The current Deputy is: {purple}{1}{default}."
+	}
+
+	"warden_deputy_disabled"
+	{
+		"chi"		"Deputy is currently {purple}disabled{default}!"
+	}
+
+	"warden_deputy_nobecome"
+	{
+		"chi"		"You cannot become deputy, the warden must choose you"
+	}
+
+	"warden_deputy_retire"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{purple}{1}{default} has decided to retire as Deputy. You may now choose a new Deputy!"
+	}
+
+	"warden_deputy_retire_nc"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} has decided to retire as Deputy. You may now choose a new Deputy!"
+	}
+
+	"warden_deputy_fired_nc"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"Warden: {1} has Fired the Deputy: {2}"
+	}
+
+	"warden_deputy_fired"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"Warden: {purple}{1}{default} has Fired the Deputy: {purple}{2}"
+	}
+
+	"warden_deputy_dead_nc"
+	{
+		"chi"		"The Deputy is now dead. You may now choose a new one."
+	}
+
+	"warden_deputy_dead"
+	{
+		"chi"		"The Deputy is now {darkred}dead{default}. You may now choose a new one."
+	}
+
+	"warden_deputy_disconnected"
+	{
+		"chi"		"The Deputy has {purple}disconnected{default}. You may now choose a new one."
+	}
+
+	"warden_deputy_disconnected_nc"
+	{
+		"chi"		"The Deputy has disconnected. You may now choose a new one."
+	}
+
+	"warden_deputy_new_nc"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} is now the Deputy of the Warden."
+	}
+
+	"warden_deputy_new"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{purple}{1}{default} is now the Deputy of the Warden."
+	}
+
+	"warden_deputy_set"
+	{
+		"chi"		"You as {purple}Warden{default} can set a Deputy. Type {green}!deputy{default} to set an Deputy!"
+	}
+
+	"warden_deputy_become"
+	{
+		"chi"		"There is no current {purple}Deputy{default}. Type {green}!deputy{default} to become the Deputy!"
+	}
+
+	"warden_picking"
+	{
+		"chi"		"Picking"
+	}
+
+	"warden_pickingaborted"
+	{
+		"chi"		"Picking aborted"
+	}
+
+	"warden_givefreeday"
+	{
+		"chi"		"Give FreeDay to:"
+	}
+
+	"warden_havefreeday"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} has now a FreeDay!"
+	}
+
+	"warden_freeday_title"
+	{
+		"#format"	"{1:N}"
+		"chi"		"Freeday for {1}"
+	}
+
+	"warden_freedaynext"
+	{
+		"chi"		"Next Round"
+	}
+
+	"warden_freedaynow"
+	{
+		"chi"		"This Round"
+	}
+
+	"warden_freedayforyou"
+	{
+		"chi"		"You get a {purple}FreeDay{default} next round"
+	}
+
+	"warden_personalfreeday"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{green}{1}{default} gets a {purple}FreeDay{default} next round"
+	}
+
+	"warden_cooldown"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You have a {purple}warden cooldown{default}. Wait {green}{1}{default} rounds"
+	}
+
+	"warden_limit"
+	{
+		"#format"	"{1:i},{2:i}"
+		"chi"		"You have played {purple}{1} round in a row{default} as warden. Wait {green}{2}{default} rounds"
+	}
+
+	"warden_wait"
+	{
+		"#format"	"{1:i}"
+		"chi"		"As {green}last round warden{default} you have to wait {purple}{1} seconds{default} to become warden again."
+	}
+
+	"warden_deputy_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"Admin: {purple}{1}{default} has Fired the Deputy: {purple}{2}"
+	}
+
+	"warden_deputy_removed_nc"
+	{
+		"#format"	"{1:N},{2:N}"
+		"chi"		"Admin: {1} has Fired the Deputy: {2}"
+	}
+
+	"warden_steamgroup"
+	{
+		"chi"		"Cannot play as warden, you need to join our steamgroup first"
+	}
+
+	"warden_rankme"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You need at least {1} RankMe Points to play as warden"
+	}
+
+	"warden_reputation"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You need at least {1} Reputation Points to play as warden"
+	}
+
+	"warden_stamm"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You need at least {1} Stamm Points to play as warden"
+	}
+
+	"warden_removefreeday"
+	{
+		"chi"		"Remove FreeDay from:"
+	}
+
+	"warden_removefreedayforyou"
+	{
+		"chi"		"Your {purple}FreeDay{default} was removed."
+	}
+
+	"warden_removepersonalfreeday"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{green}{1}s{default} {purple}FreeDay{default} was removed"
+	}
+
+	"warden_noplayer"
+	{
+		"chi"		"No players to choose"
+	}
+
+	"warden_lvlranks"
+	{
+		"#format"	"{1:i}"
+		"chi"		"You need at least Level {1} to play as warden"
+	}
+
+	"warden_mostactive"
+	{
+		"#format"	"{1:s}"
+		"chi"		"You must have played at least {1} to play as a warden."
+	}
+
+	"warden_mostactive_guard"
+	{
+		"#format"	"{1:s}"
+		"chi"		"You must have played at least {1} as guard to play as a warden."
+	}
+
+	"warden_mostactive_terror"
+	{
+		"#format"	"{1:s}"
+		"chi"		"You must have played at least {1} as terror to play as a warden."
+	}
+
+	"warden_novalid"
+	{
+		"chi"		"Could not find a {green}valid non-rebeling{default} prisoner in view."
+	}
+
+	"warden_withhold_lr"
+	{
+		"chi"		"The warden {purple}withholds{default} your last request"
+	}
+
+	"warden_withhold_on"
+	{
+		"chi"		"The warden {purple}withhold{default} the last request"
+	}
+
+	"warden_withhold_off"
+	{
+		"chi"		"The warden {purple}has released{default} the last request"
+	}
+
+}
