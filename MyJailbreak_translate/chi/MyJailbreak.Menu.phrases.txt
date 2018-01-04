@@ -10,7 +10,7 @@
 
 	"menu_info"
 	{
-		"chi"		"To open the Jailbreak menu, press , or type !menu in chat!"
+		"chi"		"要使用越狱菜单, 按 , 或者输入 !menu 到聊天框!"
 	}
 
 	"menu_info_title"
@@ -20,7 +20,7 @@
 
 	"menu_countdown"
 	{
-		"chi"		"Begin a Countdown Timer"
+		"chi"		"开启倒数"
 	}
 
 	"menu_opencell"
@@ -30,17 +30,17 @@
 
 	"menu_seteventdays"
 	{
-		"chi"		"Set Event Days"
+		"chi"		"开启小游戏日"
 	}
 
 	"menu_voteeventdays"
 	{
-		"chi"		"Vote For Event Days"
+		"chi"		"投票开启小游戏日"
 	}
 
 	"menu_math"
 	{
-		"chi"		"Start a Math Quiz"
+		"chi"		"数学测试"
 	}
 
 	"menu_guns"
@@ -50,7 +50,7 @@
 
 	"menu_laser"
 	{
-		"chi"		"Laser Pointer Menu"
+		"chi"		"激光菜单"
 	}
 
 	"menu_noblock"
@@ -65,7 +65,7 @@
 
 	"menu_extend"
 	{
-		"chi"		"Extend The Round Time"
+		"chi"		"延长回合时间"
 	}
 
 	"menu_ffon"
@@ -80,12 +80,12 @@
 
 	"menu_randomdead"
 	{
-		"chi"		"Kill a Random Prisoner"
+		"chi"		"随机杀死一个囚犯"
 	}
 
 	"menu_unwarden"
 	{
-		"chi"		"Retire from Warden"
+		"chi"		"监狱长退休"
 	}
 
 	"menu_getwarden"
@@ -115,27 +115,27 @@
 
 	"menu_setwarden"
 	{
-		"chi"		"Set New Warden"
+		"chi"		"设置新监狱长"
 	}
 
 	"menu_rules"
 	{
-		"chi"		"Rules"
+		"chi"		"规则"
 	}
 
 	"menu_joinct"
 	{
-		"chi"		"Become a Guard"
+		"chi"		"成为狱警"
 	}
 
 	"menu_guardct"
 	{
-		"chi"		"Join Guard queue (!guard)"
+		"chi"		"加入狱警队列"
 	}
 
 	"menu_request"
 	{
-		"chi"		"Requests"
+		"chi"		"请求"
 	}
 
 	"menu_votewarden"
@@ -145,12 +145,12 @@
 
 	"menu_event_Titlestart"
 	{
-		"chi"		"Start Event Next Round"
+		"chi"		"下一回合开启小游戏日"
 	}
 
 	"menu_event_Titlevote"
 	{
-		"chi"		"Vote for an Event Day"
+		"chi"		"投票一个小游戏日"
 	}
 
 	"menu_war"
@@ -185,7 +185,7 @@
 
 	"menu_catch"
 	{
-		"chi"		"Catch & Freeze"
+		"chi"		"警察抓小偷"
 	}
 
 	"menu_knifefight"
@@ -230,12 +230,12 @@
 
 	"menu_mute"
 	{
-		"chi"		"Mute Menu"
+		"chi"		"禁言菜单"
 	}
 
 	"menu_painter"
 	{
-		"chi"		"Painter Menu"
+		"chi"		"画画菜单"
 	}
 
 	"menu_closecell"
@@ -245,12 +245,12 @@
 
 	"menu_voting"
 	{
-		"chi"		"Vote for an Event Day:"
+		"chi"		"投票一个小游戏日:"
 	}
 
 	"menu_voteday"
 	{
-		"chi"		"开启事件日投票"
+		"chi"		"开启小游戏日投票"
 	}
 
 	"menu_votingwon"
@@ -278,12 +278,12 @@
 
 	"menu_votingdraw"
 	{
-		"chi"		"The vote ended in a 50/50 draw! An Event Day was chosen Randomly!"
+		"chi"		"有两个小游戏的票数相同! 系统将随机选择一个小游戏日!"
 	}
 
 	"menu_disabled"
 	{
-		"chi"		"Event voting is currently {purple}disabled!"
+		"chi"		"小游戏日投票目前 {purple}禁用!"
 	}
 
 	"menu_playerfreeday"
@@ -303,7 +303,7 @@
 
 	"menu_undeputy"
 	{
-		"chi"		"Retire From Deputy"
+		"chi"		"副狱长退休"
 	}
 
 	"menu_removedeputy"
@@ -328,7 +328,7 @@
 
 	"menu_count"
 	{
-		"chi"		"Count Prisoner in sight"
+		"chi"		"点囚犯人数"
 	}
 
 	"menu_jailshop"
@@ -379,7 +379,7 @@
 
 	"menu_gangs"
 	{
-		"chi"		"Gangs Menu"
+		"chi"		"帮派菜单"
 	}
 
 	"menu_teleport"
