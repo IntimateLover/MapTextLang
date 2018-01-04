@@ -10,7 +10,7 @@
 
 	"tags_TA"
 	{
-		"chi"		"[Prisoner.Admin]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_T"
@@ -20,7 +20,7 @@
 
 	"tags_CTA"
 	{
-		"chi"		"[Guard.Admin]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_CT"
@@ -30,7 +30,7 @@
 
 	"tags_WA"
 	{
-		"chi"		"[Warden.Admin]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_W"
@@ -40,47 +40,47 @@
 
 	"tags_TVIP1"
 	{
-		"chi"		"[Prisoner.VIP]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_TVIP2"
 	{
-		"chi"		"[Prisoner.sVIP]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_CTVIP1"
 	{
-		"chi"		"[Guard.VIP]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_CTVIP2"
 	{
-		"chi"		"[Guard.sVIP]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_WVIP1"
 	{
-		"chi"		"[Warden.VIP]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_WVIP2"
 	{
-		"chi"		"[Warden.sVIP]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_TOWN"
 	{
-		"chi"		"[Prisoner.Owner]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_CTOWN"
 	{
-		"chi"		"[Guard.Owner]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_WOWN"
 	{
-		"chi"		"[Warden.Owner]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_CT_chat"
@@ -90,22 +90,22 @@
 
 	"tags_CTA_chat"
 	{
-		"chi"		"[Guard.Admin]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_CTOWN_chat"
 	{
-		"chi"		"[Guard.Owner]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_CTVIP1_chat"
 	{
-		"chi"		"[Guard.VIP]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_CTVIP2_chat"
 	{
-		"chi"		"[Guard.sVIP]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_T_chat"
@@ -115,47 +115,47 @@
 
 	"tags_TA_chat"
 	{
-		"chi"		"[Prisoner.Admin]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_TOWN_chat"
 	{
-		"chi"		"[Prisoner.Owner]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_TVIP1_chat"
 	{
-		"chi"		"[Prisoner.VIP]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_TVIP2_chat"
 	{
-		"chi"		"[Prisoner.sVIP]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_W_chat"
 	{
-		"chi"		"[狱长]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_WA_chat"
 	{
-		"chi"		"[Warden.Admin]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_WOWN_chat"
 	{
-		"chi"		"[Warden.Owner]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_WVIP1_chat"
 	{
-		"chi"		"[Warden.VIP]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_WVIP2_chat"
 	{
-		"chi"		"[Warden.sVIP]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_D"
@@ -165,12 +165,12 @@
 
 	"tags_DA"
 	{
-		"chi"		"[Deputy.Admin]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DA_chat"
 	{
-		"chi"		"[Deputy.Admin]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_D_chat"
@@ -180,112 +180,112 @@
 
 	"tags_DOWN"
 	{
-		"chi"		"[Deputy.Owner]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DOWN_chat"
 	{
-		"chi"		"[Deputy.Owner]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DVIP1"
 	{
-		"chi"		"[Deputy.VIP]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DVIP1_chat"
 	{
-		"chi"		"[Deputy.VIP]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DVIP2"
 	{
-		"chi"		"[Deputy.sVIP]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DVIP2_chat"
 	{
-		"chi"		"[Deputy.sVIP]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_TSA"
 	{
-		"chi"		"[Prisoner.SuperAdmin]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_CTSA"
 	{
-		"chi"		"[Guard.SuperAdmin]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_WSA"
 	{
-		"chi"		"[Warden.SuperAdmin]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_TCO"
 	{
-		"chi"		"[Prisoner.CoOwner]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_CTCO"
 	{
-		"chi"		"[Guard.CoOwner]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_WCO"
 	{
-		"chi"		"[Warden.CoOwner]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_CTSA_chat"
 	{
-		"chi"		"[Guard.SuperAdmin]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_CTCO_chat"
 	{
-		"chi"		"[Guard.CoOwner]"
+		"chi"		"[狱警]"
 	}
 
 	"tags_TSA_chat"
 	{
-		"chi"		"[Prisoner.SuperAdmin]"
+		"chi"		"[囚犯]"
 	}
 
 	"tags_WSA_chat"
 	{
-		"chi"		"[Warden.SuperAdmin]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_WCO_chat"
 	{
-		"chi"		"[Warden.CoOwner]"
+		"chi"		"[监狱长]"
 	}
 
 	"tags_DSA"
 	{
-		"chi"		"[Deputy.SuperAdmin]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DSA_chat"
 	{
-		"chi"		"[Deputy.SuperAdmin]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DCO"
 	{
-		"chi"		"[Deputy.CoOwner]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_DCO_chat"
 	{
-		"chi"		"[Deputy.CoOwner]"
+		"chi"		"[副狱长]"
 	}
 
 	"tags_TCO_chat"
 	{
-		"chi"		"[Prisoner.CoOwner]"
+		"chi"		"[囚犯]"
 	}
 
 }
