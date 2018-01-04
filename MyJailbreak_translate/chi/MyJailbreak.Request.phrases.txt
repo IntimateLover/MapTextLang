@@ -16,12 +16,12 @@
 	"request_refusing"
 	{
 		"#format"	"{1:N}"
-		"en"		"{purple}{1} {default}has {purple}refused the game!"
+		"en"		"{purple}{1} {purple}拒绝 {default}这个游戏!"
 	}
 
 	"request_alreadyrefused"
 	{
-		"en"		"You have {purple}already refused the game!"
+		"en"		"你已经 {purple}请求拒绝这个游戏!"
 	}
 
 	"request_refuseallow"
@@ -53,7 +53,7 @@
 
 	"request_alreadycapitulated"
 	{
-		"en"		"You have {purple}already capitulated!"
+		"en"		"你 {purple}已经投降!"
 	}
 
 	"request_knifeback"
@@ -64,28 +64,28 @@
 	"request_accepted"
 	{
 		"#format"	"{1:N},{2:N}"
-		"en"		"{2} has accepted {1}'s request."
+		"en"		"{2} 接受了 {1}'的请求."
 	}
 
 	"request_noaccepted"
 	{
 		"#format"	"{1:N},{2:N}"
-		"en"		"{2} has {purple}not{default} accepted {1}s request."
+		"en"		"{2} {purple}不{default} 接受 {1}的请求."
 	}
 
 	"request_refuser"
 	{
-		"en"		"A Player is Refusing!"
+		"en"		"一名玩家拒绝!"
 	}
 
 	"request_acceptcapitulation"
 	{
-		"en"		"Do you accept The Capitualation?"
+		"en"		"你接受投降请求吗?"
 	}
 
 	"request_acceptheal"
 	{
-		"en"		"Do you accept the Healing?"
+		"en"		"你接受加血请求吗?"
 	}
 
 	"request_health"
@@ -107,12 +107,12 @@
 
 	"request_alreadyhealed"
 	{
-		"en"		"You have already requested a{purple} Healing!"
+		"en"		"你已经发出了{purple} 加血请求!"
 	}
 
 	"request_nodamage"
 	{
-		"en"		"You cannot do {purple}damage after capitulation!"
+		"en"		"你不能在投降后 {purple}造成伤害!"
 	}
 
 	"request_processing"
@@ -134,42 +134,42 @@
 
 	"request_alreadyrepeat"
 	{
-		"en"		"You have already requested a {purple}repeat!"
+		"en"		"你已经要求了狱长 {purple}重复一遍指令!"
 	}
 
 	"request_repeat"
 	{
-		"en"		"A Player is requesting a Repeat!"
+		"en"		"一名玩家要求狱长重复一遍指令!"
 	}
 
 	"request_menu_title"
 	{
-		"en"		"Make a Request"
+		"en"		"发出请求"
 	}
 
 	"request_menu_repeat"
 	{
-		"en"		"Repeat Announcement"
+		"en"		"要求狱长重复一遍命令"
 	}
 
 	"request_menu_refuse"
 	{
-		"en"		"Refuse the Current Game"
+		"en"		"拒绝这个游戏"
 	}
 
 	"request_menu_heal"
 	{
-		"en"		"Request a Healing"
+		"en"		"请求加血"
 	}
 
 	"request_menu_capitulation"
 	{
-		"en"		"Capitulation"
+		"en"		"发出投降请求"
 	}
 
 	"request_menu_freekill"
 	{
-		"en"		"Report Freekill"
+		"en"		"举报乱杀"
 	}
 
 	"request_freekill"
@@ -368,7 +368,7 @@
 
 	"request_close"
 	{
-		"en"		"Exit"
+		"en"		"退出"
 	}
 
 	"request_countdownstop"
