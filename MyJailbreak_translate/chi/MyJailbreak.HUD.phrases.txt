@@ -10,47 +10,47 @@
 
 	"hud_planned"
 	{
-		"en"		"下一回合:"
+		"chi"		"下一回合:"
 	}
 
 	"hud_running"
 	{
-		"en"		"这个回合:"
+		"chi"		"这个回合:"
 	}
 
 	"hud_warden"
 	{
-		"en"		"当前监狱长:"
+		"chi"		"当前监狱长:"
 	}
 
 	"hud_nowarden"
 	{
-		"en"		"没有"
+		"chi"		"没有"
 	}
 
 	"hud_guards"
 	{
-		"en"		"狱警人数:"
+		"chi"		"狱警人数:"
 	}
 
 	"hud_prisoner"
 	{
-		"en"		"囚犯人数:"
+		"chi"		"囚犯人数:"
 	}
 
 	"hud_on"
 	{
-		"en"		"HUD {purple}is enabled!"
+		"chi"		"HUD {purple}is enabled!"
 	}
 
 	"hud_off"
 	{
-		"en"		"HUD {purple}is disabled"
+		"chi"		"HUD {purple}is disabled"
 	}
 
 	"hud_lastCT"
 	{
-		"en"		"最后一名狱警:"
+		"chi"		"最后一名狱警:"
 	}
 
 }
