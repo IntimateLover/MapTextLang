@@ -10,7 +10,7 @@
 
 	"warden_tag"
 	{
-		"chi"		"[{green}MyJB.warden{default}]"
+		"chi"		"[{green}监狱长{default}]"
 	}
 
 	"warden_new"
@@ -22,17 +22,17 @@
 	"warden_new_nc"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} is now the Warden of this prison."
+		"chi"		"{1} 是你们的监狱长."
 	}
 
 	"warden_playerdead"
 	{
-		"chi"		"Only {purple}alive players{default} can become Warden!"
+		"chi"		"只有 {purple}存活的玩家{default} 才能成为监狱长!"
 	}
 
 	"warden_ctsonly"
 	{
-		"chi"		"Only {purple}Counter-Terrorists{default} can become Warden!"
+		"chi"		"只有 {purple}狱警{default} 才能成为监狱长!"
 	}
 
 	"warden_exist"
@@ -44,48 +44,48 @@
 	"warden_retire"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1}{default} has decided to retire as Warden. You may now choose a new Warden!"
+		"chi"		"{purple}{1}{default} 已退休. 你可以输入!w 成为新的监狱长!"
 	}
 
 	"warden_retire_nc"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} has decided to retire as Warden. You may now choose a new Warden!"
+		"chi"		"{1} 已退休. 你可以输入!w 成为新的监狱长!"
 	}
 
 	"warden_notwarden"
 	{
-		"chi"		"You must be the {purple}Warden{default} to use this command!"
+		"chi"		"只有 {purple}监狱长{default} 才能使用这个命令!"
 	}
 
 	"warden_dead"
 	{
-		"chi"		"The Warden is now {darkred}dead{default}. You may now choose a new one."
+		"chi"		"监狱长已经 {darkred}死亡{default}. 你可以输入!w 成为新的监狱长!"
 	}
 
 	"warden_nowarden"
 	{
-		"chi"		"There is no current {purple}Warden{default}. Type {green}!w{default} to become the Warden!"
+		"chi"		"现在没有 {purple}监狱长{default}. 在聊天框输入 {green}!w{default} 成为监狱长!"
 	}
 
 	"warden_nowarden_nc"
 	{
-		"chi"		"There is no current Warden. Type !w to become the Warden!"
+		"chi"		"现在没有监狱长. 在聊天框输入 !w 成为新的监狱长!"
 	}
 
 	"warden_dead_nc"
 	{
-		"chi"		"The Warden is now dead. You may now choose a new one."
+		"chi"		"监狱长已经死亡. 在聊天框输入 !w 成为新的监狱长!"
 	}
 
 	"warden_disconnected"
 	{
-		"chi"		"The Warden has {purple}disconnected{default}. You may now choose a new one."
+		"chi"		"监狱长已 {purple}断开连接{default}. 在聊天框输入 !w 成为新的监狱长."
 	}
 
 	"warden_disconnected_nc"
 	{
-		"chi"		"The Warden has disconnected. You may now choose a new one."
+		"chi"		"监狱长已断开链接. 在聊天框输入 !w 成为新的监狱长."
 	}
 
 	"warden_removed"
@@ -102,7 +102,7 @@
 
 	"warden_noexist"
 	{
-		"chi"		"There is no current{purple} Warden!"
+		"chi"		"现在没有{purple} 监狱长!"
 	}
 
 	"warden_disabled"
@@ -112,13 +112,13 @@
 
 	"warden_nobecome"
 	{
-		"chi"		"A new Warden will be picked {purple}randomly{default}!"
+		"chi"		" {purple}随机{default} 选择一名狱警成为新的监狱长!"
 	}
 
 	"warden_adminset"
 	{
 		"#format"	"{1:N}"
-		"chi"		"Admin: {purple}{1}{default} set the Warden!"
+		"chi"		"管理员: 将 {purple}{1}{default} 设置为监狱长!"
 	}
 
 	"warden_randomwarden"
@@ -128,32 +128,32 @@
 
 	"warden_dooropen"
 	{
-		"chi"		"The Warden has {purple}opened{default} the cells."
+		"chi"		"监狱长 {purple}打开{default} 监狱门."
 	}
 
 	"warden_doorclose"
 	{
-		"chi"		"The Warden {purple}closed{default} the cells."
+		"chi"		"监狱长 {purple}关闭{default} 监狱们."
 	}
 
 	"warden_openauto"
 	{
-		"chi"		"The cell doors {purple}open automatically!{default}"
+		"chi"		"监狱门 {purple}自动开启!{default}"
 	}
 
 	"warden_opentime"
 	{
-		"chi"		"Now, the {purple}cell doors{default} should be open!"
+		"chi"		"现在应该要打开 {purple}监狱门{default} !"
 	}
 
 	"warden_ffison"
 	{
-		"chi"		"Friendly fire is {purple}enabled!"
+		"chi"		"友军伤害 {purple}开启!"
 	}
 
 	"warden_ffisoff"
 	{
-		"chi"		"Friendly fire is{purple}disabled!"
+		"chi"		"友军伤害 {purple}关闭!"
 	}
 
 	"warden_voting"
@@ -258,7 +258,7 @@
 	"warden_need"
 	{
 		"#format"	"{1:i}"
-		"chi"		"{1} votes required to {darkred}Kick The Warden!"
+		"chi"		"{1} 投票 {darkred}踢出监狱长!"
 	}
 
 	"warden_voted"
@@ -275,13 +275,13 @@
 	"warden_gunplant"
 	{
 		"#format"	"{1:N},{2:s}"
-		"chi"		"Guard {purple}{1}{default} 丢掉了自己的{green}{2}!"
+		"chi"		"狱警 {purple}{1}{default} 丢掉了自己的{green}{2}!"
 	}
 
 	"warden_gunplant_nc"
 	{
 		"#format"	"{1:N},{2:s}"
-		"chi"		"Guard {1} has dropped the weapon {2}!"
+		"chi"		"狱警 {1} 丢掉了武器 {2}!"
 	}
 
 	"warden_noplant"
@@ -291,7 +291,7 @@
 
 	"warden_choose"
 	{
-		"chi"		"Select Player"
+		"chi"		"选择玩家"
 	}
 
 	"warden_remove"
@@ -366,12 +366,12 @@
 
 	"warden_marker_title"
 	{
-		"chi"		"Marker Color"
+		"chi"		"标记颜色"
 	}
 
 	"warden_laser_title"
 	{
-		"chi"		"Laser Pointer Color"
+		"chi"		"激光颜色"
 	}
 
 	"warden_drawer_title"
@@ -381,7 +381,7 @@
 
 	"warden_laser_off"
 	{
-		"chi"		"Disable Laser Pointer"
+		"chi"		"关闭激光"
 	}
 
 	"warden_drawer_off"
@@ -391,47 +391,47 @@
 
 	"warden_rainbow"
 	{
-		"chi"		"Rainbow"
+		"chi"		"彩色"
 	}
 
 	"warden_red"
 	{
-		"chi"		"Red"
+		"chi"		"红色"
 	}
 
 	"warden_blue"
 	{
-		"chi"		"Blue"
+		"chi"		"蓝色"
 	}
 
 	"warden_green"
 	{
-		"chi"		"Green"
+		"chi"		"绿色"
 	}
 
 	"warden_orange"
 	{
-		"chi"		"Orange"
+		"chi"		"橙色"
 	}
 
 	"warden_yellow"
 	{
-		"chi"		"Yellow"
+		"chi"		"黄色"
 	}
 
 	"warden_white"
 	{
-		"chi"		"White"
+		"chi"		"白色"
 	}
 
 	"warden_cyan"
 	{
-		"chi"		"Cyan"
+		"chi"		"青色"
 	}
 
 	"warden_magenta"
 	{
-		"chi"		"Magenta"
+		"chi"		"品红色"
 	}
 
 	"warden_range"
@@ -504,42 +504,42 @@
 
 	"warden_15"
 	{
-		"chi"		"15 Seconds"
+		"chi"		"15 秒"
 	}
 
 	"warden_30"
 	{
-		"chi"		"30 Seconds"
+		"chi"		"30 秒"
 	}
 
 	"warden_45"
 	{
-		"chi"		"45 Seconds"
+		"chi"		"45 秒"
 	}
 
 	"warden_60"
 	{
-		"chi"		"1 Minute"
+		"chi"		"1 分钟"
 	}
 
 	"warden_90"
 	{
-		"chi"		"1 Minute 30 seconds"
+		"chi"		"1 分 30 秒"
 	}
 
 	"warden_120"
 	{
-		"chi"		"2 Minutes"
+		"chi"		"2 分钟"
 	}
 
 	"warden_180"
 	{
-		"chi"		"3 Minutes"
+		"chi"		"3 分钟"
 	}
 
 	"warden_300"
 	{
-		"chi"		"5 Minutes"
+		"chi"		"5 分钟"
 	}
 
 	"warden_math_correct"
