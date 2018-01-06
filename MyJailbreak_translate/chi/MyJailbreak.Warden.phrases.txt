@@ -133,7 +133,7 @@
 
 	"warden_doorclose"
 	{
-		"chi"		"监狱长 {purple}关闭{default} 监狱们."
+		"chi"		"监狱长 {purple}关闭{default} 监狱门."
 	}
 
 	"warden_openauto"
@@ -158,12 +158,12 @@
 
 	"warden_voting"
 	{
-		"chi"		"Voting to kick the {purple}Warden{default} is currently disabled!"
+		"chi"		"投票踢出 {purple}监狱长{default} 功能禁用!"
 	}
 
 	"warden_countdowncanceled"
 	{
-		"chi"		"The Countdown was {darkred}canceled!"
+		"chi"		"倒计时被 {darkred}取消!"
 	}
 
 	"warden_startcountdown_nc"
@@ -192,12 +192,12 @@
 
 	"warden_startcountdownhint"
 	{
-		"chi"		"Attention! The Warden {purple}started a START Countdown!"
+		"chi"		"注意! 监狱长 {purple}开启了倒计时!"
 	}
 
 	"warden_startcountdownhint_nc"
 	{
-		"chi"		"Attention! The Warden started a START Countdown!"
+		"chi"		"注意! 监狱长 {purple}开启了倒计时!"
 	}
 
 	"warden_startstopcountdownhint"
@@ -286,7 +286,7 @@
 
 	"warden_noplant"
 	{
-		"chi"		"It's {darkred}forbidden{default} for Guards to drop weapons!"
+		"chi"		"现在 {darkred}禁止{default} 让狱警丢枪!"
 	}
 
 	"warden_choose"
@@ -296,42 +296,42 @@
 
 	"warden_remove"
 	{
-		"chi"		"Remove the current Warden?"
+		"chi"		"移除现在的狱长吗?"
 	}
 
 	"warden_laseron"
 	{
-		"chi"		"Laser {purple}is enabled!"
+		"chi"		"画线功能 {purple}启用!"
 	}
 
 	"warden_laseroff"
 	{
-		"chi"		"Laser {purple}is disabled"
+		"chi"		"画线功能 {purple}禁用"
 	}
 
 	"warden_draweron"
 	{
-		"chi"		"Drawer {purple}enabled"
+		"chi"		"绘画功能 {purple}开启"
 	}
 
 	"warden_draweroff"
 	{
-		"chi"		"Drawer {purple}disabled"
+		"chi"		"绘画功能 {purple}关闭"
 	}
 
 	"warden_drawert"
 	{
-		"chi"		"Toggle Drawer for Terrorists"
+		"chi"		"打开/关闭 囚犯的绘画功能"
 	}
 
 	"warden_tdraweron"
 	{
-		"chi"		"Drawer for Terrorists is {purple}enabled"
+		"chi"		"囚犯的绘画功能 {purple}开启"
 	}
 
 	"warden_tdraweroff"
 	{
-		"chi"		"Drawer for Terrorists is {purple}disabled"
+		"chi"		"囚犯的绘画功能 {purple}关闭"
 	}
 
 	"warden_marker_set"
@@ -371,22 +371,22 @@
 
 	"warden_laser_title"
 	{
-		"chi"		"激光颜色"
+		"chi"		"线条颜色"
 	}
 
 	"warden_drawer_title"
 	{
-		"chi"		"Drawer Color"
+		"chi"		"画笔颜色"
 	}
 
 	"warden_laser_off"
 	{
-		"chi"		"关闭激光"
+		"chi"		"关闭画线功能"
 	}
 
 	"warden_drawer_off"
 	{
-		"chi"		"Deactivate Drawer"
+		"chi"		"关闭绘画功能"
 	}
 
 	"warden_rainbow"
@@ -441,13 +441,13 @@
 
 	"warden_wrong"
 	{
-		"chi"		"Something went wrong! Please try again!"
+		"chi"		"出了些问题,请再试一次!"
 	}
 
 	"warden_mute"
 	{
 		"#format"	"{1:N},{2:N},{3:i}"
-		"chi"		"{2} was Muted by the Warden {1} for {3} seconds!"
+		"chi"		"{2} 被监狱长 {1} 禁声 {3} 秒!"
 	}
 
 	"warden_muteend"
@@ -459,17 +459,17 @@
 	"warden_unmute"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} has been unmuted."
+		"chi"		"{1} 被解除了禁声."
 	}
 
 	"warden_cdmenu_title"
 	{
-		"chi"		"Countdown Menu"
+		"chi"		"倒计时菜单"
 	}
 
 	"warden_cdmenu_start"
 	{
-		"chi"		"Begin a START Countdown (10 sec)"
+		"chi"		"开始倒计时 (10 秒)"
 	}
 
 	"warden_cdmenu_stop"
@@ -545,23 +545,23 @@
 	"warden_math_correct"
 	{
 		"#format"	"{1:N},{2:i}"
-		"chi"		"{1} has given a{green} correct answer!{default} The Answer was {purple}{2}!"
+		"chi"		"{1} {green} 回答正确!{default} 正确答案是 {purple}{2}!"
 	}
 
 	"warden_math_time"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Time end! No answer. {purple}The Answer was {1}"
+		"chi"		"时间结束! 没有人回答正确. {purple}正确答案是 {1}"
 	}
 
 	"warden_startmathquiz"
 	{
-		"chi"		"Attention! The Warden has started a {purple}Math Quiz!"
+		"chi"		"注意! 监狱长开始了 {purple}数学测试!"
 	}
 
 	"warden_startmathquiz_nc"
 	{
-		"chi"		"Attention! The Warden has started a Math Quiz!"
+		"chi"		"注意! 监狱长开始了 {purple}数学测试!"
 	}
 
 	"warden_sure"
@@ -571,12 +571,12 @@
 
 	"warden_yes"
 	{
-		"chi"		"Yes"
+		"chi"		"是"
 	}
 
 	"warden_no"
 	{
-		"chi"		"No"
+		"chi"		"否"
 	}
 
 	"warden_minrandom"
@@ -586,39 +586,39 @@
 
 	"warden_nomuted"
 	{
-		"chi"		"There is no muted Prisoner!"
+		"chi"		"没有被禁言的囚犯!"
 	}
 
 	"warden_mute_title"
 	{
-		"chi"		"Mute Menu"
+		"chi"		"禁声菜单"
 	}
 
 	"warden_menu_mute"
 	{
-		"chi"		"Mute a Prisoner"
+		"chi"		"禁言某位囚犯"
 	}
 
 	"warden_menu_unmute"
 	{
-		"chi"		"Unmute a Prisoner"
+		"chi"		"解除禁言"
 	}
 
 	"warden_cuffs"
 	{
-		"chi"		"Use the Taser as Handcuffs!"
+		"chi"		"使用电击枪作为手铐!"
 	}
 
 	"warden_cuffson"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"{purple}{1}{default} Arrested {green}{2}{default}!"
+		"chi"		"{purple}{1}{default} 逮捕了 {green}{2}{default}!"
 	}
 
 	"warden_cuffsoff"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"{purple}{1}{default} has removed {green}{2}'s{default} Handcuffs."
+		"chi"		"{purple}{1}{default} 解开了 {green}{2}'s{default} 的手铐."
 	}
 
 	"warden_cuffsgot"
@@ -749,22 +749,22 @@
 
 	"warden_menu_muteall"
 	{
-		"chi"		"Mute all Prisoners"
+		"chi"		"禁声所有囚犯"
 	}
 
 	"warden_menu_unmuteall"
 	{
-		"chi"		"Unmute all Prisoners"
+		"chi"		"解除所有囚犯禁声"
 	}
 
 	"warden_votesuccess"
 	{
-		"chi"		"The Voting to {purple}kick the Warden{default} was successful!"
+		"chi"		"投票 {purple}踢出监狱长{default} 成功!"
 	}
 
 	"warden_mutedefault"
 	{
-		"chi"		"All Prisoners are muted by default."
+		"chi"		"设置所有囚犯默认为禁声."
 	}
 
 	"warden_rebel_title"
