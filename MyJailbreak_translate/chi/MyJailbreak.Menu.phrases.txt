@@ -70,12 +70,12 @@
 
 	"menu_ffon"
 	{
-		"chi"		"Enable FF for Ts"
+		"chi"		"开启囚犯友军伤害"
 	}
 
 	"menu_ffoff"
 	{
-		"chi"		"Disable FF for Ts"
+		"chi"		"关闭囚犯友军伤害"
 	}
 
 	"menu_randomdead"
@@ -100,12 +100,12 @@
 
 	"menu_check"
 	{
-		"chi"		"Check Rebellers"
+		"chi"		"查看暴动囚犯"
 	}
 
 	"menu_lr"
 	{
-		"chi"		"Last Request"
+		"chi"		"LR"
 	}
 
 	"menu_removewarden"
@@ -120,7 +120,7 @@
 
 	"menu_rules"
 	{
-		"chi"		"规则"
+		"chi"		"查看规则"
 	}
 
 	"menu_joinct"
@@ -261,19 +261,19 @@
 
 	"menu_minplayer"
 	{
-		"chi"		"For a Event Day Voting, you must have at least {purple}one Guard, & one Prisoner"
+		"chi"		"活动日投票至少需要 {purple}1名狱警和1名匪徒"
 	}
 
 	"menu_progress"
 	{
 		"#format"	"{1:s}"
-		"chi"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"chi"		"{darkred}{1} {default} {purple}已经在进行中了!"
 	}
 
 	"menu_wait"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You must wait {purple}{1}{default} more rounds for an Event Day Voting!"
+		"chi"		"你必须等待 {purple}{1}{default} 回合才能进行小游戏日投票!"
 	}
 
 	"menu_votingdraw"
@@ -293,12 +293,12 @@
 
 	"menu_teamgamesmenu"
 	{
-		"chi"		"Team Games - Menu"
+		"chi"		"团队游戏 - 菜单"
 	}
 
 	"menu_teamgamesgames"
 	{
-		"chi"		"Team Games - Games"
+		"chi"		"团队游戏 - 游戏"
 	}
 
 	"menu_undeputy"
@@ -323,7 +323,7 @@
 
 	"menu_rebel"
 	{
-		"chi"		"Un/Mark a player as Rebel"
+		"chi"		"取消/标记一个暴动囚犯"
 	}
 
 	"menu_count"
@@ -349,7 +349,7 @@
 	"menu_votingcancel"
 	{
 		"#format"	"{1:s}"
-		"chi"		"The voting was canceled, cause EventDay {purple}{1}{default} was already set!"
+		"chi"		"投票被取消, 因为 {purple}{1}{default} 已开启!"
 	}
 
 	"menu_removequeue"
@@ -404,12 +404,12 @@
 
 	"menu_nolr"
 	{
-		"chi"		"Toggle withheld Last Request"
+		"chi"		"禁用LR"
 	}
 
 	"menu_dealdamage"
 	{
-		"chi"		"Deal Damage Day"
+		"chi"		"战斗力PK"
 	}
 
 	"menu_freeday"
