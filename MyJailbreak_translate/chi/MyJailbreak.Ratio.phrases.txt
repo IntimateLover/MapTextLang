@@ -10,28 +10,28 @@
 
 	"ratio_auto"
 	{
-		"en"		"You cannot use auto select to join a team."
+		"en"		"你不能使用自动选择队伍."
 	}
 
 	"ratio_fullqueue"
 	{
 		"#format"	"{1:i}"
-		"en"		"Guards team is full. You are {green}#{1}{default} in the queue."
+		"en"		"狱警人数已满. 你在狱警队列中是 {green}#{1}{default}."
 	}
 
 	"ratio_info_title"
 	{
-		"en"		"Guard Queue:"
+		"en"		"狱警队列:"
 	}
 
 	"ratio_empty"
 	{
-		"en"		"The queue is currently {green}empty{default}."
+		"en"		"狱警队列中 {green}没有人{default}."
 	}
 
 	"ratio_noct"
 	{
-		"en"		"You must be a {green}prisoner{default} to join the queue."
+		"en"		"你必须是 {green}囚犯{default} 才能加入狱警队列."
 	}
 
 	"ratio_find"
@@ -43,7 +43,7 @@
 	"ratio_random"
 	{
 		"#format"	"{1:N}"
-		"en"		"Guard queue is currently empty. {green}{1} {default}was picked as a random new guard."
+		"en"		"狱警队列中没有人. {green}{1} {default}被随机选择成为狱警."
 	}
 
 	"ratio_novalid"
@@ -54,7 +54,7 @@
 	"ratio_number"
 	{
 		"#format"	"{1:i}"
-		"en"		"You are {green}#{1}{default} in the guard queue."
+		"en"		"你在狱警队列中排 {green}第{1}位."
 	}
 
 	"ratio_thxvip"
@@ -70,13 +70,13 @@
 	"ratio_movetot"
 	{
 		"#format"	"{1:N}"
-		"en"		"There are too many Guards. {green}{1}{default} was picked randomly and moved to prisoners."
+		"en"		"狱警人数过多. {green}{1}{default} 被随机选择加入囚犯."
 	}
 
 	"ratio_removed"
 	{
 		"#format"	"{1:N},{2:N}"
-		"en"		"The Admin {1} removed {2} from the Guard queue!"
+		"en"		"管理员 {1} 在狱警队列中移除了 {2} !"
 	}
 
 	"ratio_notonqueue"
@@ -96,37 +96,37 @@
 
 	"ratio_accept_line1"
 	{
-		"en"		"Before you become a guard, you must accept these terms and agreements:"
+		"en"		"在您成为狱警之前,您必须接受这些条款和协议:"
 	}
 
 	"ratio_accept_line2"
 	{
-		"en"		"I confirm that I read & I understand the rules."
+		"en"		"我确认我已经阅读并理解规则."
 	}
 
 	"ratio_accept_line3"
 	{
-		"en"		"I confirm that I have read the CT rules twice!"
+		"en"		"我确认我已经熟悉CT规则!"
 	}
 
 	"ratio_accept_line4"
 	{
-		"en"		"I confirm that I will play fair & follow the server rules."
+		"en"		"我确认我会遵守服务器规则."
 	}
 
 	"ratio_accept_line5"
 	{
-		"en"		"Failiure to comply with the rules will be result in a CT ban."
+		"en"		"不遵守规则会被CTban或者服务器封禁."
 	}
 
 	"ratio_accept"
 	{
-		"en"		"Yes, I accept these terms and agreements."
+		"en"		"是的,我接受."
 	}
 
 	"ratio_notaccept"
 	{
-		"en"		"No, I don't want to become a guard."
+		"en"		"否,我不想当狱警."
 	}
 
 	"ratio_question_title"
@@ -293,12 +293,12 @@
 
 	"ratio_banned_nc"
 	{
-		"en"		"Cannot play on guards because you are CT banned."
+		"en"		"你不能加入狱警,因为你被CTban了."
 	}
 
 	"ratio_clearqueue"
 	{
-		"en"		"The admin has cleared the Guard queue!"
+		"en"		"管理员清空了狱警队列!"
 	}
 
 	"ratio_reputation"
@@ -314,7 +314,7 @@
 
 	"ratio_banned"
 	{
-		"en"		"Cannot play on guards because you are {green}CT{default} banned."
+		"en"		"你不能加入狱警,因为你已经被 {green}CTban."
 	}
 
 	"ratio_rankme"
@@ -325,7 +325,7 @@
 
 	"ratio_close"
 	{
-		"en"		"Exit"
+		"en"		"退出"
 	}
 
 	"ratio_steamrep"
@@ -340,12 +340,12 @@
 
 	"ratio_yes"
 	{
-		"en"		"Yes"
+		"en"		"是"
 	}
 
 	"ratio_no"
 	{
-		"en"		"No"
+		"en"		"否"
 	}
 
 	"ratio_steamgroup"
@@ -361,17 +361,17 @@
 
 	"ratio_hours"
 	{
-		"en"		"hour(s)"
+		"en"		"小时"
 	}
 
 	"ratio_seconds"
 	{
-		"en"		"seconds"
+		"en"		"秒"
 	}
 
 	"ratio_minutes"
 	{
-		"en"		"minute(s)"
+		"en"		"分"
 	}
 
 	"ratio_mostactive"
