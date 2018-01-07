@@ -1,6 +1,6 @@
 // Exported from SourceMod Translator
-// Date: 2017-12-31 04:02:56 UTC
-// Language: English (en)
+// Date: 2018-01-06 03:42:22 UTC
+// Language: Chinese (Simplified) (chi)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/278
@@ -10,185 +10,182 @@
 
 	"armsrace_need"
 	{
-		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Arms Race."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}武装竞赛."
 	}
 
 	"armsrace_voting"
 	{
-		"en"		"Voting for Arms Race is {purple}disabled!"
+		"chi"		"为武装竞赛的投票被禁用!"
 	}
 
 	"armsrace_setbywarden"
 	{
-		"en"		"Set Arms Race by Warden is {purple}disabled!"
+		"chi"		"狱警{purple}不能设置{default}武装竞赛!"
 	}
 
 	"armsrace_setbyadmin"
 	{
-		"en"		"Set Arms Race by Admin is {purple}disabled!"
+		"chi"		"管理员{purple}无法设置{default}武装竞赛!"
 	}
 
 	"armsrace_youwon"
 	{
-		"en"		"{purple}You WON{default} the Arms Race!"
+		"chi"		"你{purple}赢{default}得了武装竞赛!"
 	}
 
 	"armsrace_winner"
 	{
-		"#format"	"{1:N}"
-		"en"		"{purple}{1}{default} won the Arms Race!"
+		"chi"		"{purple}{1}{default} 赢得了武装竞赛!"
 	}
 
 	"armsrace_minplayer"
 	{
-		"en"		"For Arms Race you need at least {purple}one Guard, & one Prisoner!"
+		"chi"		"武装竞赛至少需要{purple}一个狱警和囚犯!"
+	}
+
+	"armsrace_minplayer"
+	{
+		"chi"		"武装竞赛至少需要一个狱警和囚犯!"
 	}
 
 	"armsrace_end"
 	{
-		"en"		"{purple}Arms Race{default} has ended!"
+		"chi"		"{purple}武装竞赛{default} 已经结束!"
 	}
 
 	"armsrace_next"
 	{
-		"en"		"The following round will be: {purple}Arms Race."
+		"chi"		"下一回合: {purple}武装竞赛"
 	}
 
 	"armsrace_next_nc"
 	{
-		"en"		"The following round will be: Arms Race."
+		"chi"		"下一回合: 武装竞赛"
 	}
 
 	"armsrace_rounds"
 	{
-		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"armsrace_start"
 	{
-		"en"		"{purple}Arms Race{default} has begun!"
+		"chi"		"{purple}武装竞赛{default}已经开始!"
 	}
 
 	"armsrace_start_nc"
 	{
-		"en"		"Arms Race has begun!"
+		"chi"		"武装竞赛已经开始!"
 	}
 
 	"armsrace_voted"
 	{
-		"en"		"You have already voted for {purple}Arms Race!"
+		"chi"		"已经给{purple}武装竞赛{default}投票!"
 	}
 
 	"armsrace_progress"
 	{
-		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"armsrace_disabled"
 	{
-		"en"		"Arms Race is currently {purple}disabled!"
+		"chi"		"武装竞赛目前被禁用!"
 	}
 
 	"armsrace_damage_nc"
 	{
-		"#format"	"{1:i}"
-		"en"		"{1} seconds until damage enabled"
+		"chi"		"{1} 秒后无敌状态关闭"
 	}
 
 	"armsrace_info_title"
 	{
-		"en"		"Arms Race Deathmatch is now Activated!"
+		"chi"		"'武装竞赛'已激活!"
 	}
 
 	"armsrace_info_line1"
 	{
-		"en"		"Don't be suprised if you've spawned in the Armory!"
+		"chi"		"你有可能被钦定为 '复活带甲' !"
 	}
 
 	"armsrace_info_line2"
 	{
-		"en"		"Arms Race - Player VS Player - First with golden knife wins!"
+		"chi"		"武装竞赛 - PvP - 第一个使用黄金匕首击杀将获取胜利!"
 	}
 
 	"armsrace_info_line3"
 	{
-		"en"		"Run away during the 'NoDamage' phase!"
+		"chi"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"armsrace_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"chi"		"正常的越狱规则此回合可能不适用!"
 	}
 
 	"armsrace_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"chi"		"上一次请求在此回合禁用!"
 	}
 
 	"armsrace_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"chi"		"所有人都可以在地图找个洞躲起来!"
 	}
 
 	"armsrace_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"RoundOne"
 	{
-		"en"		"Round 1 of 3"
+		"chi"		"第 1 / 3 回合"
 	}
 
 	"RoundTwo"
 	{
-		"en"		"Round 2 of 3"
+		"chi"		"第 2 / 3 回合"
 	}
 
 	"RoundThree"
 	{
-		"en"		"This is the last Arms Race round!"
+		"chi"		"这是最后一轮武装竞赛!"
 	}
 
 	"armsrace_wait"
 	{
-		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"armsrace_name"
 	{
-		"en"		"Arms Race"
+		"chi"		"武装竞赛"
 	}
 
 	"armsrace_downgraded"
 	{
-		"en"		"You were knifed! You get downgraded"
+		"chi"		"你被降级因为被匕首击杀"
 	}
 
 	"armsrace_downgrade"
 	{
-		"#format"	"{1:N}"
-		"en"		"You have downgraded {purple}{1}{default} with knife!"
+		"chi"		"你用匕首击杀了{purple}{1}{default}, 因此他被降级!"
 	}
 
 	"armsrace_levelup"
 	{
-		"#format"	"{1:s}"
-		"en"		"{purple}Level Up!{default} Now you got a {1}!"
+		"chi"		"{purple}升级!{default} 你现在获得了 {1}!"
 	}
 
 	"armsrace_now_nc"
 	{
-		"en"		"Now a Arms Race round begins."
+		"chi"		"新一轮的武装竞赛开始."
 	}
 
 	"armsrace_now"
 	{
-		"en"		"Now a {purple}Arms Race{default} round begins."
+		"chi"		"{purple}武装竞赛{default} 现在开始."
 	}
 
 }

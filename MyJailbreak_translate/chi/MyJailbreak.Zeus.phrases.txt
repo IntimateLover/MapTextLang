@@ -1,6 +1,6 @@
 // Exported from SourceMod Translator
-// Date: 2017-12-31 04:02:52 UTC
-// Language: English (en)
+// Date: 2018-01-06 04:02:52 UTC
+// Language: Chinese (Simplified) (chi)
 // 
 // To view other translations for this plugin, please visit:
 // http://translator.mitchdempsey.com/sourcemod_plugins/189
@@ -10,152 +10,149 @@
 
 	"zeus_need"
 	{
-		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}Zeus Day."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}电击之日."
 	}
 
 	"zeus_rounds"
 	{
-		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"zeus_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"chi"		"一个囚犯苟下来了!"
 	}
 
 	"zeus_voting"
 	{
-		"en"		"Voting for Zeus Day is {purple}disabled!"
+		"chi"		"为电击之日的投票被禁用!"
 	}
 
 	"zeus_setbywarden"
 	{
-		"en"		"Set Zeus Day by Warden is {purple}disabled!"
+		"chi"		"狱警{purple}不能设置{default}电击之日!"
 	}
 
 	"zeus_setbyadmin"
 	{
-		"en"		"Set Zeus Day by Admin is {purple}disabled!"
+		"chi"		"管理员{purple}无法设置{default}电击之日!"
 	}
 
 	"zeus_minplayer"
 	{
-		"en"		"For Zeus Day you need at least {purple}one Guard and one Prisoner!"
+		"chi"		"电击之日至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"zeus_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"chi"		"一名狱警存活!"
 	}
 
 	"zeus_end"
 	{
-		"en"		"{purple}Zeus Day{default} has ended."
+		"chi"		"{purple}电击之日{default} 已结束."
 	}
 
 	"zeus_next"
 	{
-		"en"		"The following round will be: {purple}Zeus Day."
+		"chi"		"下一回合: {purple}电击之日"
 	}
 
 	"zeus_next_nc"
 	{
-		"en"		"The following round will be: Zeus Day."
+		"chi"		"下一回合将是: 电击之日."
 	}
 
 	"zeus_start"
 	{
-		"en"		"{purple}Zeus Day{default} has begun!"
+		"chi"		"{purple}电击之日{default} 已经开始!"
 	}
 
 	"zeus_start_nc"
 	{
-		"en"		"Zeus Day has begun!"
+		"chi"		"电击之日现在开始!"
 	}
 
 	"zeus_voted"
 	{
-		"en"		"You have already voted for {purple}Zeus Day!"
+		"chi"		"已经给{purple}电击之日{default}投票!"
 	}
 
 	"zeus_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"zeus_disabled"
 	{
-		"en"		"Zeus Day is currently {purple}disabled!"
+		"chi"		"电击之日目前被禁用!"
 	}
 
 	"zeus_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"chi"		"下一回合将在{1}回合开始!"
 	}
 
 	"zeus_info_title"
 	{
-		"en"		"Zeus Day is now Activated!"
+		"chi"		"电击之日已激活!"
 	}
 
 	"zeus_info_line1"
 	{
-		"en"		"Zeus Day - Free for All!"
+		"chi"		"电击之日 - 自由死斗!!!"
 	}
 
 	"zeus_info_line2"
 	{
-		"en"		"You only have one shot in your Zeus!"
+		"chi"		"电击枪只有一发!"
 	}
 
 	"zeus_info_line3"
 	{
-		"en"		"When you get a kill, you will be rewarded with another Zeus!"
+		"chi"		"你会获得一把电击枪当你击杀一名玩家!"
 	}
 
 	"zeus_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"chi"		"正常的越狱规则此回合可能不适用!"
 	}
 
 	"zeus_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"chi"		"上一次请求在此回合禁用!"
 	}
 
 	"zeus_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter vents or secrets!"
+		"chi"		"你必须留在主牢房! 不要去管道或者密道躲起来!"
 	}
 
 	"zeus_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"chi"		"不要做杨教授!"
 	}
 
 	"zeus_wait"
 	{
-		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"zeus_name"
 	{
-		"en"		"Zeus Day"
+		"chi"		"电击之日"
 	}
 
 	"zeus_now_nc"
 	{
-		"en"		"Now a Zeus round begins."
+		"chi"		"电击之日现在开始!"
 	}
 
 	"zeus_now"
 	{
-		"en"		"Now a {purple}Zeus{default} round begins."
+		"chi"		"{purple}电击之日{default} 现在开始."
 	}
 
 }
