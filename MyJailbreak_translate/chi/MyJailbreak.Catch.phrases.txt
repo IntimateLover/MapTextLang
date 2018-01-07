@@ -11,190 +11,190 @@
 	"catch_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Catch!"
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}警察抓小偷"
 	}
 
 	"catch_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2} 回合"
 	}
 
 	"catch_twin_nc"
 	{
-		"en"		"The terrorists have escaped!"
+		"en"		"囚犯们成功逃脱并获得了胜利!"
 	}
 
 	"catch_ctwin_nc"
 	{
-		"en"		"All the terrorists have been caught!"
+		"en"		"所有囚犯被捕,狱警获胜!"
 	}
 
 	"catch_end"
 	{
-		"en"		"{purple}Catch{default} has ended."
+		"en"		"{purple}警察抓小偷{default} 游戏结束."
 	}
 
 	"catch_voting"
 	{
-		"en"		"Voting for Catch is currently {purple}disabled!"
+		"en"		"为警察抓小偷的投票被禁用!"
 	}
 
 	"catch_setbywarden"
 	{
-		"en"		"Set Catch by warden is currently {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}武装竞赛!"
 	}
 
 	"catch_setbyadmin"
 	{
-		"en"		"Set Catch by Admin is currently {purple}disabled!"
+		"en"		"管理员{purple}无法设置{default}武装竞赛!"
 	}
 
 	"catch_next"
 	{
-		"en"		"The following round will be: {purple}Catch."
+		"en"		"下一回合: {purple}警察抓小偷."
 	}
 
 	"catch_next_nc"
 	{
-		"en"		"The following round will be: Catch."
+		"en"		下一回合: 警察抓小偷."
 	}
 
 	"catch_start"
 	{
-		"en"		"{purple}Catch{default} has begun!"
+		"en"		"{purple}警察抓小偷{default} 游戏开始!"
 	}
 
 	"catch_start_nc"
 	{
-		"en"		"Catch has Begun!"
+		"en"		"警察抓小偷 游戏开始!"
 	}
 
 	"catch_voted"
 	{
-		"en"		"You have already voted for {purple}Catch!"
+		"en"		"已经给 {purple}警察抓小偷{default}投票!"
 	}
 
 	"catch_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"catch_minplayer"
 	{
-		"en"		"For Catch, you must have at least {purple}one Guard, & one Prisoner"
+		"en"		"警察抓小偷至少需要{purple}一个狱警和囚犯"
 	}
 
 	"catch_sprint"
 	{
-		"en"		"You are now {blue}Sprinting!"
+		"en"		"你现在是 {blue}冲刺状态!"
 	}
 
 	"catch_sprintend"
 	{
 		"#format"	"{1:i}"
-		"en"		"{blue}You're too tired to sprint!{default} Rest for {1} Seconds."
+		"en"		"{blue}你已经筋疲力尽了!{default} 需要休息 {1} 秒才能再次使用冲刺."
 	}
 
 	"catch_sprintagain"
 	{
-		"en"		"You caught your breath. You can {blue}sprint {default}again!"
+		"en"		"你深吸了一口气. 你可以再次使用{blue}冲刺!"
 	}
 
 	"catch_disabled"
 	{
-		"en"		"Catch is {purple}disabled."
+		"en"		"警察抓小偷 {purple}禁用."
 	}
 
 	"catch_info_title"
 	{
-		"en"		"Catch is now activated!"
+		"en"		"警察抓小偷 开始!"
 	}
 
 	"catch_info_line1"
 	{
-		"en"		"The Guards must catch and freeze the Prisoners with their knife."
+		"en"		"狱警需要使用匕首冻结囚犯."
 	}
 
 	"catch_info_line2"
 	{
-		"en"		"Prisoners can unfreeze Other Prisoners. Knife them!"
+		"en"		"囚犯也可以使用匕首解冻队友!"
 	}
 
 	"catch_info_line3"
 	{
-		"en"		"Hold E to sprint!"
+		"en"		"按住E可以冲刺!"
 	}
 
 	"catch_info_line4"
 	{
-		"en"		"No usual Jailbreak rules apply for this round!"
+		"en"		"正常的越狱规则此回合可能不适用!"
 	}
 
 	"catch_info_line5"
 	{
-		"en"		"Last requests are disabled during this round."
+		"en"		"LR在此回合被禁用."
 	}
 
 	"catch_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter vents or secret areas!"
+		"en"		"你必须在地图范围内! 不能进密道!"
 	}
 
 	"catch_info_line7"
 	{
-		"en"		"Server Rules still apply during this round!"
+		"en"		"服务器规则在此回合仍然适用，请勿违反!"
 	}
 
 	"catch_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"catch_unfreeze"
 	{
 		"#format"	"{1:N},{2:N}"
-		"en"		"Prisoner {purple}{1}{default} has unfreezed {blue}{2}!"
+		"en"		"囚犯 {purple}{1}{default} 救走了 {blue}{2}!"
 	}
 
 	"catch_catch"
 	{
 		"#format"	"{1:N},{2:N}"
-		"en"		"Guard {purple}{1}{default} has freezed {blue}{2}{default}!"
+		"en"		"狱警 {purple}{1}{default} 逮捕了 {blue}{2}{default}!"
 	}
 
 	"catch_win"
 	{
-		"en"		"All the prisoners have been {purple}caught!"
+		"en"		"所有囚犯 {purple}被捕!"
 	}
 
 	"catch_name"
 	{
-		"en"		"Catch and Freeze"
+		"en"		"警察抓小偷"
 	}
 
 	"catch_timetounfreeze_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until you will be unfreezed!"
+		"en"		"剩余{1} 秒解除冻结状态!"
 	}
 
 	"catch_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds left to hide!"
+		"en"		"剩余{1} 秒躲藏!"
 	}
 
 	"catch_now_nc"
 	{
-		"en"		"Now a Catch round begins."
+		"en"		"警察抓小偷 开始."
 	}
 
 	"catch_now"
 	{
-		"en"		"Now a {purple}Catch{default} round begins."
+		"en"		"{purple}警察抓小偷{default} 开始."
 	}
 
 }
