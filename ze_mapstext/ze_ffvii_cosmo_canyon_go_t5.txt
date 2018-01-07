@@ -2,497 +2,503 @@
 {
 	"**Map by Headshooter.SC & HaRyDe**"
 	{
-		"chi"		"**地图作者：Headshooter.SC & HaRyDe 地图翻译：IntimateLover**"
+		"chi"		"**åœ°å›¾ä½œè€…ï¼šHeadshooter.SC & HaRyDe åœ°å›¾ç¿»è¯‘ï¼šIntimateLover**"
 	}
 	"**WARMUP ROUND**"
 	{
-		"chi"		"**热身回合**"
+		"chi"		"**çƒ­èº«å›žåˆ**"
 	}
 	"**ZE_FFVII_COSMO_CANYON**"
 	{
-		"chi"		"**最终幻想7：宇宙峡谷**"
+		"chi"		"**æœ€ç»ˆå¹»æƒ³7ï¼šå®‡å®™å³¡è°·**"
 	}
 	"**NORMAL MODE**"
 	{
-		"chi"		"**普通难度**"
+		"chi"		"**æ™®é€šéš¾åº¦**"
 	}
 	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
 	{
-		"chi"		"**[克劳德]嗯？ 好像引擎损坏，我们现在被困在沙漠中间！**"
+		"chi"		"**[å…‹åŠ³å¾·]å—¯ï¼Ÿ å¥½åƒå¼•æ“ŽæŸåï¼Œæˆ‘ä»¬çŽ°åœ¨è¢«å›°åœ¨æ²™æ¼ ä¸­é—´ï¼**"
 	}
 	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
 	{
-		"chi"		"**[Red-XIII]别担心，我知道这个地方，我就是在这里出生的。**"
+		"chi"		"**[Red-XIII]åˆ«æ‹…å¿ƒï¼Œæˆ‘çŸ¥é“è¿™ä¸ªåœ°æ–¹ï¼Œæˆ‘å°±æ˜¯åœ¨è¿™é‡Œå‡ºç”Ÿçš„ã€‚**"
 	}
 	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
 	{
-		"chi"		"**[克劳德]那就意味着我们可以找到工作人员来让我们的船重新工作，对吗？**"
+		"chi"		"**[å…‹åŠ³å¾·]é‚£å°±æ„å‘³ç€æˆ‘ä»¬å¯ä»¥æ‰¾åˆ°å·¥ä½œäººå‘˜æ¥è®©æˆ‘ä»¬çš„èˆ¹é‡æ–°å·¥ä½œï¼Œå¯¹å—ï¼Ÿ**"
 	}
 	"[Red-XIII] There I will give you all the stuff you need."
 	{
-		"chi"		"**[Red-XIII]在那里我会给你所需要的东西**"
+		"chi"		"**[Red-XIII]åœ¨é‚£é‡Œæˆ‘ä¼šç»™ä½ æ‰€éœ€è¦çš„ä¸œè¥¿**"
 	}
 	"[Cloud] No problem. I will wait for you in there.."
 	{
-		"chi"		"**[克劳德]没问题，我在那里等你**"
+		"chi"		"**[å…‹åŠ³å¾·]æ²¡é—®é¢˜ï¼Œæˆ‘åœ¨é‚£é‡Œç­‰ä½ **"
 	}
 	"**Cover here for 5 seconds before we clear this obstacle**"
 	{
-		"chi"		"**箱子将在5秒后爆炸**"
+		"chi"		"**ç®±å­å°†åœ¨5ç§’åŽçˆ†ç‚¸**"
 	}
 	"**We are almost at Cosmo Canyon**"
 	{
-		"chi"		"**我们快到宇宙峡谷了**"
+		"chi"		"**æˆ‘ä»¬å¿«åˆ°å®‡å®™å³¡è°·äº†**"
 	}
 	"**Defend here for 25 seconds until the gates open**"
 	{
-		"chi"		"**在这里守住25秒-直到大门打开**"
+		"chi"		"**åœ¨è¿™é‡Œå®ˆä½25ç§’-ç›´åˆ°å¤§é—¨æ‰“å¼€**"
 		"DoorCountdown"		"25"
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
-		"chi"		"**大门开启-欢迎来到宇宙峡谷**"
+		"chi"		"**å¤§é—¨å¼€å¯-æ¬¢è¿Žæ¥åˆ°å®‡å®™å³¡è°·**"
 	}
 	"**The barman will open the door in 5 seconds**"
 	{
-		"chi"		"**峡谷酒吧大门将在5秒后开启**"
+		"chi"		"**å³¡è°·é…’å§å¤§é—¨å°†åœ¨5ç§’åŽå¼€å¯**"
 	}
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
-		"chi"		"**在我们打开门前你们需要在酒吧里防守僵尸25秒**"
+		"chi"		"**åœ¨æˆ‘ä»¬æ‰“å¼€é—¨å‰ä½ ä»¬éœ€è¦åœ¨é…’å§é‡Œé˜²å®ˆåƒµå°¸25ç§’**"
 		"DoorCountdown"		"25"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"chi"		"**还剩5秒**"
+		"chi"		"**è¿˜å‰©5ç§’**"
 	}
 	"**FALL BACK**"
 	{
-		"chi"		"**撤退**"
+		"chi"		"**æ’¤é€€**"
 	}
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
-		"chi"		"**巨石将在25秒后爆炸**"
+		"chi"		"**å·¨çŸ³å°†åœ¨25ç§’åŽçˆ†ç‚¸**"
 		"DoorCountdown"		"25"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
-		"chi"		"**大门将在25秒后打开**"
+		"chi"		"**å¤§é—¨å°†åœ¨25ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"25"
 	}
 	"**The gates of gi cave will open in 15 seconds**"
 	{
-		"chi"		"**GI洞穴的大门将在15秒后打开**"
+		"chi"		"**GIæ´žç©´çš„å¤§é—¨å°†åœ¨15ç§’åŽæ‰“å¼€**"
 	}
 	"**A player has picked up SLEEP materia**"
 	{
-		"chi"		"**一位玩家拿起了睡**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†ç¡**"
 	}
 	"**Wait until something happens**"
 	{
-		"chi"		"**等到某件事发生**"
+		"chi"		"**ç­‰åˆ°æŸä»¶äº‹å‘ç”Ÿ**"
 	}
 	"**The gi gate will open in 35 seconds**"
 	{
-		"chi"		"**GI大门将在35秒后打开**"
+		"chi"		"**GIå¤§é—¨å°†åœ¨35ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"35"
 	}
 	"[Cloud] Ay.. There you are!"
 	{
-		"chi"		"**[克劳德]啊，这就是!**"
+		"chi"		"**[å…‹åŠ³å¾·]å•Šï¼Œè¿™å°±æ˜¯!**"
 	}
 	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
 	{
-		"chi"		"**[Red-XIII]是的，它们帮了我很多忙，你在找这些东西吗？拿去吧**"
+		"chi"		"**[Red-XIII]æ˜¯çš„ï¼Œå®ƒä»¬å¸®äº†æˆ‘å¾ˆå¤šå¿™ï¼Œä½ åœ¨æ‰¾è¿™äº›ä¸œè¥¿å—ï¼Ÿæ‹¿åŽ»å§**"
 	}
 	"[Cloud] Thanks. But one question.. What did we forget here?"
 	{
-		"chi"		"**[克劳德]谢谢,但我有一个问题,这些东西为什么在这里?**"
+		"chi"		"**[å…‹åŠ³å¾·]è°¢è°¢,ä½†æˆ‘æœ‰ä¸€ä¸ªé—®é¢˜,è¿™äº›ä¸œè¥¿ä¸ºä»€ä¹ˆåœ¨è¿™é‡Œ?**"
 	}
 	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
 	{
-		"chi"		"**[Red-XIII]这是个古老的的精灵洞穴，我的父亲曾在这里与基纳塔克战斗**"
+		"chi"		"**[Red-XIII]è¿™æ˜¯ä¸ªå¤è€çš„çš„ç²¾çµæ´žç©´ï¼Œæˆ‘çš„çˆ¶äº²æ›¾åœ¨è¿™é‡Œä¸ŽåŸºçº³å¡”å…‹æˆ˜æ–—**"
 	}
 	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
 	{
-		"chi"		"**[Red-XIII]为了拯救宇宙峡谷,他牺牲了**"
+		"chi"		"**[Red-XIII]ä¸ºäº†æ‹¯æ•‘å®‡å®™å³¡è°·,ä»–ç‰ºç‰²äº†**"
 	}
 	"[Cloud] Oh what a pity.."
 	{
-		"chi"		"**[克劳德]哦,太可惜了**"
+		"chi"		"**[å…‹åŠ³å¾·]å“¦,å¤ªå¯æƒœäº†**"
 	}
 	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
 	{
-		"chi"		"**[Red-XIII]不要把这个放在心上，因为他死的像个英雄-我希望你们能打败基纳塔克**"
+		"chi"		"**[Red-XIII]ä¸è¦æŠŠè¿™ä¸ªæ”¾åœ¨å¿ƒä¸Šï¼Œå› ä¸ºä»–æ­»çš„åƒä¸ªè‹±é›„-æˆ‘å¸Œæœ›ä½ ä»¬èƒ½æ‰“è´¥åŸºçº³å¡”å…‹**"
 	}
 	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
 	{
-		"chi"		"**[克劳德]好的，祝你好运，当你的事情结束后，我们就回去修理我们的飞船**"
+		"chi"		"**[å…‹åŠ³å¾·]å¥½çš„ï¼Œç¥ä½ å¥½è¿ï¼Œå½“ä½ çš„äº‹æƒ…ç»“æŸåŽï¼Œæˆ‘ä»¬å°±å›žåŽ»ä¿®ç†æˆ‘ä»¬çš„é£žèˆ¹**"
 	}
 	"**GRENADES DO A LOT OF DAMAGE. USE THEM!**"
 	{
-		"chi"		"**手雷能造成更多伤害**"
+		"chi"		"**æ‰‹é›·èƒ½é€ æˆæ›´å¤šä¼¤å®³**"
 	}
 	"**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**"
 	{
-		"chi"		"**你的一些神器可能会对BOSS有伤害**"
+		"chi"		"**ä½ çš„ä¸€äº›ç¥žå™¨å¯èƒ½ä¼šå¯¹BOSSæœ‰ä¼¤å®³**"
 	}
 	"**Gi Nattak has healed 150 hp**"
 	{
-		"chi"		"**基纳塔克恢复了150HP**"
+		"chi"		"**åŸºçº³å¡”å…‹æ¢å¤äº†150HP**"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
-		"chi"		"**基纳塔克召唤了守卫-提防它们**"
+		"chi"		"**åŸºçº³å¡”å…‹å¬å”¤äº†å®ˆå«-æé˜²å®ƒä»¬**"
 	}
 	"**Gi Nattak is using shield**"
 	{
-		"chi"		"**基纳塔克使用了护盾-无敌**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†æŠ¤ç›¾-æ— æ•Œ**"
 	}
 	"**Gi Nattak is using gravity**"
 	{
-		"chi"		"**基纳塔克使用了黑洞-后退**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†é»‘æ´ž-åŽé€€**"
+		"ico"		"icon_fire"
 	}
 	"**Gi Nattak is using aspil**"
 	{
-		"chi"		"**基纳塔克使用了aspil-蹲下**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†aspil-è¹²ä¸‹**"
+		"ico"		"icon_fire"
 	}
 	"**Gi Nattak is using fire**"
 	{
-		"chi"		"**基纳塔克使用了火焰**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†ç«ç„°**"
+		"ico"		"icon_fire"
 	}
 	"**Gi Nattak is using poison**"
 	{
-		"chi"		"**基纳塔克使用了剧毒**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†å‰§æ¯’**"
+		"ico"		"icon_fire"
 	}
 	"**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**"
 	{
-		"chi"		"**基纳塔克正在使用终极-赶紧杀了它**"
+		"chi"		"**åŸºçº³å¡”å…‹æ­£åœ¨ä½¿ç”¨ç»ˆæž-èµ¶ç´§æ€äº†å®ƒ**"
 	}
 	"**Gi Nattack is escaped**"
 	{
-		"chi"		"**基纳塔克逃走了**"
+		"chi"		"**åŸºçº³å¡”å…‹é€ƒèµ°äº†**"
 	}
 	"**Now you can get out of Cave of Gi**"
 	{
-		"chi"		"**准备离开这里**"
+		"chi"		"**å‡†å¤‡ç¦»å¼€è¿™é‡Œ**"
 	}
 	"**Gi Nattak is using silence**"
 	{
-		"chi"		"**基纳塔克使用了沉默**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†æ²‰é»˜**"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
-		"chi"		"**基纳塔克使用火焰新星-站到平台边缘**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨ç«ç„°æ–°æ˜Ÿ-ç«™åˆ°å¹³å°è¾¹ç¼˜**"
 	}
 	"**DOOR OPENS IN 40 SECONDS**"
 	{
-		"chi"		"**大门将在40秒后打开**"
+		"chi"		"**å¤§é—¨å°†åœ¨40ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"40"
 	}
 	"**This is your last hold point**"
 	{
-		"chi"		"**这是你的最后一站**"
+		"chi"		"**è¿™æ˜¯ä½ çš„æœ€åŽä¸€ç«™**"
 	}
 	"**Get on the rocks and hold 25 seconds**"
 	{
-		"chi"		"**去站到岩石上-守住25秒**"
+		"chi"		"**åŽ»ç«™åˆ°å²©çŸ³ä¸Š-å®ˆä½25ç§’**"
 		"DoorCountdown"		"25"
 	}
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
-		"chi"		"**恭喜-不过基纳塔克逃走了，我们下次将打败他**"
+		"chi"		"**æ­å–œ-ä¸è¿‡åŸºçº³å¡”å…‹é€ƒèµ°äº†ï¼Œæˆ‘ä»¬ä¸‹æ¬¡å°†æ‰“è´¥ä»–**"
 	}
 	"**NORMAL mode was beaten. Unlocking HARD mode **"
 	{
-		"chi"		"**普通难度通过-下一难度：困难难度**"
+		"chi"		"**æ™®é€šéš¾åº¦é€šè¿‡-ä¸‹ä¸€éš¾åº¦ï¼šå›°éš¾éš¾åº¦**"
 	}
 	"**HARD MODE**"
 	{
-		"chi"		"**困难难度**"
+		"chi"		"**å›°éš¾éš¾åº¦**"
 	}
 	"**CHEST SIDEQUEST STARTED**"
 	{
-		"chi"		"**宝箱任务启动**"
+		"chi"		"**å®ç®±ä»»åŠ¡å¯åŠ¨**"
 	}
 	"**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK**"
 	{
-		"chi"		"**找到所有宝箱将得到一个特殊神器，将帮助你打败基纳塔克**"
+		"chi"		"**æ‰¾åˆ°æ‰€æœ‰å®ç®±å°†å¾—åˆ°ä¸€ä¸ªç‰¹æ®Šç¥žå™¨ï¼Œå°†å¸®åŠ©ä½ æ‰“è´¥åŸºçº³å¡”å…‹**"
 	}
 	"**The rock will explode in 25 seconds**"
 	{
-		"chi"		"**岩石将在25秒后爆炸**"
+		"chi"		"**å²©çŸ³å°†åœ¨25ç§’åŽçˆ†ç‚¸**"
 		"DoorCountdown"		"25"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
-		"chi"		"**C4好像没法使用-找到另一条道路**"
+		"chi"		"**C4å¥½åƒæ²¡æ³•ä½¿ç”¨-æ‰¾åˆ°å¦ä¸€æ¡é“è·¯**"
 	}
 	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
 	{
-		"chi"		"**[克劳德]以防万一，我会把船开到峡谷的尽头，方便撤离**"
+		"chi"		"**[å…‹åŠ³å¾·]ä»¥é˜²ä¸‡ä¸€ï¼Œæˆ‘ä¼šæŠŠèˆ¹å¼€åˆ°å³¡è°·çš„å°½å¤´ï¼Œæ–¹ä¾¿æ’¤ç¦»**"
 	}
 	"**Gi Nattak is using wind**"
 	{
-		"chi"		"**基纳塔克使用了风-按住W**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨äº†é£Ž-æŒ‰ä½W**"
+		"ico"		"icon_fire"
 	}
 	"[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
 	{
-		"chi"		"**[Red-XIII]嘘，附近有陌生人，小心我们的飞船**"
+		"chi"		"**[Red-XIII]å˜˜ï¼Œé™„è¿‘æœ‰é™Œç”Ÿäººï¼Œå°å¿ƒæˆ‘ä»¬çš„é£žèˆ¹**"
 	}
 	"[Genesis] Due to you I found what I need.. Face your death here.."
 	{
-		"chi"		"**[杰内西斯]因为你,我找到了我需要的东西,现在直面死亡吧**"
+		"chi"		"**[æ°å†…è¥¿æ–¯]å› ä¸ºä½ ,æˆ‘æ‰¾åˆ°äº†æˆ‘éœ€è¦çš„ä¸œè¥¿,çŽ°åœ¨ç›´é¢æ­»äº¡å§**"
 	}
 	"[Cloud] Hurry! Get on the airship! I can not stay for long here!"
 	{
-		"chi"		"**[克劳德]快点,上飞船,我们不能再这里呆太长时间**"
+		"chi"		"**[å…‹åŠ³å¾·]å¿«ç‚¹,ä¸Šé£žèˆ¹,æˆ‘ä»¬ä¸èƒ½å†è¿™é‡Œå‘†å¤ªé•¿æ—¶é—´**"
 	}
 	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
 	{
-		"chi"		"**困难难度通过-下一难度:极限难度**"
+		"chi"		"**å›°éš¾éš¾åº¦é€šè¿‡-ä¸‹ä¸€éš¾åº¦:æžé™éš¾åº¦**"
 	}
 	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
 	{
-		"chi"		"**你必须杀死所有僵尸才能获得胜利**"
+		"chi"		"**ä½ å¿…é¡»æ€æ­»æ‰€æœ‰åƒµå°¸æ‰èƒ½èŽ·å¾—èƒœåˆ©**"
 	}
 	"**EXTREME MODE**"
 	{
-		"chi"		"**极限难度**"
+		"chi"		"**æžé™éš¾åº¦**"
 	}
 	"[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
 	{
-		"chi"		"**[Red-XIII]那家伙居然能召唤巴哈姆特,他在哪得到的这种力量**"
+		"chi"		"**[Red-XIII]é‚£å®¶ä¼™å±…ç„¶èƒ½å¬å”¤å·´å“ˆå§†ç‰¹,ä»–åœ¨å“ªå¾—åˆ°çš„è¿™ç§åŠ›é‡**"
 	}
 	"[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all.."
 	{
-		"chi"		"**[Red-XIII]无论如何，我们必须再次打败基纳塔克**"
+		"chi"		"**[Red-XIII]æ— è®ºå¦‚ä½•ï¼Œæˆ‘ä»¬å¿…é¡»å†æ¬¡æ‰“è´¥åŸºçº³å¡”å…‹**"
 	}
 	"**...Are you surprised?...**"
 	{
-		"chi"		"**你感到惊讶吗?**"
+		"chi"		"**ä½ æ„Ÿåˆ°æƒŠè®¶å—?**"
 	}
 	"**...Didnt you expect me?...**"
 	{
-		"chi"		"**你想念我了没?**"
+		"chi"		"**ä½ æƒ³å¿µæˆ‘äº†æ²¡?**"
 	}
 	"**...Oh okay im disappearing...**"
 	{
-		"chi"		"**哦，好吧，我消失了**"
+		"chi"		"**å“¦ï¼Œå¥½å§ï¼Œæˆ‘æ¶ˆå¤±äº†**"
 	}
 	"[Red-XIII] Cloud do you know that guy?"
 	{
-		"chi"		"**[Red-XIII]克劳德，你认识那个家伙吗?**"
+		"chi"		"**[Red-XIII]å…‹åŠ³å¾·ï¼Œä½ è®¤è¯†é‚£ä¸ªå®¶ä¼™å—?**"
 	}
 	"[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
 	{
-		"chi"		"**[克劳德]他是神罗公司的一级战士，不过他为什么会出现在这里？**"
+		"chi"		"**[å…‹åŠ³å¾·]ä»–æ˜¯ç¥žç½—å…¬å¸çš„ä¸€çº§æˆ˜å£«ï¼Œä¸è¿‡ä»–ä¸ºä»€ä¹ˆä¼šå‡ºçŽ°åœ¨è¿™é‡Œï¼Ÿ**"
 	}
 	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
 	{
-		"chi"		"**[Red-XIII]他可能是为了基纳塔克的灵魂而来-因为他蕴含着巨大的能量**"
+		"chi"		"**[Red-XIII]ä»–å¯èƒ½æ˜¯ä¸ºäº†åŸºçº³å¡”å…‹çš„çµé­‚è€Œæ¥-å› ä¸ºä»–è•´å«ç€å·¨å¤§çš„èƒ½é‡**"
 	}
 	"[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
 	{
-		"chi"		"**[克劳德]什么? 我们需要阻止他,这里有个神罗基地,我们或许可以在那里找到他**"
+		"chi"		"**[å…‹åŠ³å¾·]ä»€ä¹ˆ? æˆ‘ä»¬éœ€è¦é˜»æ­¢ä»–,è¿™é‡Œæœ‰ä¸ªç¥žç½—åŸºåœ°,æˆ‘ä»¬æˆ–è®¸å¯ä»¥åœ¨é‚£é‡Œæ‰¾åˆ°ä»–**"
 	}
 	"**GI NATTAK USES LAVA SUPERATTACK**"
 	{
-		"chi"		"**基纳塔克使用熔岩上升**"
+		"chi"		"**åŸºçº³å¡”å…‹ä½¿ç”¨ç†”å²©ä¸Šå‡**"
+		"ico"		"icon_fire"
 	}
 	"**Get on the rocks to get saved!!!**"
 	{
-		"chi"		"**站到凸起来的石头上保命!!!**"
+		"chi"		"**ç«™åˆ°å‡¸èµ·æ¥çš„çŸ³å¤´ä¸Šä¿å‘½!!!**"
 	}
 	"[Genesis] Huh.. Did not think that you will survive.."
 	{
-		"chi"		"**[杰内西斯]没想到你们竟然还活着**"
+		"chi"		"**[æ°å†…è¥¿æ–¯]æ²¡æƒ³åˆ°ä½ ä»¬ç«Ÿç„¶è¿˜æ´»ç€**"
 	}
 	"[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!"
 	{
-		"chi"		"**[杰内西斯]不过没关系,反正我已经拿到了基纳塔克的灵魂了,我可以实现我的计划了**"
+		"chi"		"**[æ°å†…è¥¿æ–¯]ä¸è¿‡æ²¡å…³ç³»,åæ­£æˆ‘å·²ç»æ‹¿åˆ°äº†åŸºçº³å¡”å…‹çš„çµé­‚äº†,æˆ‘å¯ä»¥å®žçŽ°æˆ‘çš„è®¡åˆ’äº†**"
 	}
 	"[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
 	{
-		"chi"		"**[克劳德]shit，让他跑了，我猜神罗公司会发现峡谷的巴哈存在，我们得消灭他们**"
+		"chi"		"**[å…‹åŠ³å¾·]shitï¼Œè®©ä»–è·‘äº†ï¼Œæˆ‘çŒœç¥žç½—å…¬å¸ä¼šå‘çŽ°å³¡è°·çš„å·´å“ˆå­˜åœ¨ï¼Œæˆ‘ä»¬å¾—æ¶ˆç­ä»–ä»¬**"
 	}
 	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
 	{
-		"chi"		"**极限难度通过-准备迎接最后的挑战**"
+		"chi"		"**æžé™éš¾åº¦é€šè¿‡-å‡†å¤‡è¿ŽæŽ¥æœ€åŽçš„æŒ‘æˆ˜**"
 	}
 	"**RAGE MODE**"
 	{
-		"chi"		"**疯狂难度**"
+		"chi"		"**ç–¯ç‹‚éš¾åº¦**"
 	}
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
-		"chi"		"**箱子将在10秒后爆炸**"
+		"chi"		"**ç®±å­å°†åœ¨10ç§’åŽçˆ†ç‚¸**"
 	}
 	"**The airship to Shinra will arrive in 30 seconds**"
 	{
-		"chi"		"**飞往神罗基地的飞船将在30秒后到达**"
+		"chi"		"**é£žå¾€ç¥žç½—åŸºåœ°çš„é£žèˆ¹å°†åœ¨30ç§’åŽåˆ°è¾¾**"
 		"DoorCountdown"		"30"
 	}
 	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
 	{
-		"chi"		"**[克劳德]坚持，我会把你带到飞船上，然后我们就去神罗基地**"
+		"chi"		"**[å…‹åŠ³å¾·]åšæŒï¼Œæˆ‘ä¼šæŠŠä½ å¸¦åˆ°é£žèˆ¹ä¸Šï¼Œç„¶åŽæˆ‘ä»¬å°±åŽ»ç¥žç½—åŸºåœ°**"
 	}
 	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
 	{
-		"chi"		"**[克劳德]Red-XIII会留在这里帮助重建村庄**"
+		"chi"		"**[å…‹åŠ³å¾·]Red-XIIIä¼šç•™åœ¨è¿™é‡Œå¸®åŠ©é‡å»ºæ‘åº„**"
 	}
 	"**The airship is right here...**"
 	{
-		"chi"		"**飞船来了...**"
+		"chi"		"**é£žèˆ¹æ¥äº†...**"
 	}
 	"**The gates will open in 30 seconds**"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**å¤§é—¨30ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"30"
 	}
 	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
 	{
-		"chi"		"**[克劳德]大家小心，如果杰内西斯真的在这里，那么他可能已经变成杰诺瓦生物了，干掉他们不是一件容易的事**"
+		"chi"		"**[å…‹åŠ³å¾·]å¤§å®¶å°å¿ƒï¼Œå¦‚æžœæ°å†…è¥¿æ–¯çœŸçš„åœ¨è¿™é‡Œï¼Œé‚£ä¹ˆä»–å¯èƒ½å·²ç»å˜æˆæ°è¯ºç“¦ç”Ÿç‰©äº†ï¼Œå¹²æŽ‰ä»–ä»¬ä¸æ˜¯ä¸€ä»¶å®¹æ˜“çš„äº‹**"
 	}
 	"[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become.."
 	{
-		"chi"		"**[克劳德]特别是他可能吸收了基纳塔克的灵魂了，很难想象他会变得多么强大**"
+		"chi"		"**[å…‹åŠ³å¾·]ç‰¹åˆ«æ˜¯ä»–å¯èƒ½å¸æ”¶äº†åŸºçº³å¡”å…‹çš„çµé­‚äº†ï¼Œå¾ˆéš¾æƒ³è±¡ä»–ä¼šå˜å¾—å¤šä¹ˆå¼ºå¤§**"
 	}
 	"**Wait 5 more seconds**"
 	{
-		"chi"		"**等待5秒**"
+		"chi"		"**ç­‰å¾…5ç§’**"
 	}
 	"**Shinra gates will open in 25 seconds**"
 	{
-		"chi"		"**神罗基地大门25秒后打开**"
+		"chi"		"**ç¥žç½—åŸºåœ°å¤§é—¨25ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"25"
 	}
 	"**The gates will open in 15 seconds**"
 	{
-		"chi"		"**大门15秒后打开**"
+		"chi"		"**å¤§é—¨15ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"15"
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
-		"chi"		"**电梯15秒后启动**"
+		"chi"		"**ç”µæ¢¯15ç§’åŽå¯åŠ¨**"
 		"DoorCountdown"		"15"
 	}
 	"**Genesis is defeated. Get back in the elevator**"
 	{
-		"chi"		"**杰内西斯已被击败-现在回到电梯里**"
+		"chi"		"**æ°å†…è¥¿æ–¯å·²è¢«å‡»è´¥-çŽ°åœ¨å›žåˆ°ç”µæ¢¯é‡Œ**"
 	}
 	"[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon."
 	{
-		"chi"		"**[克劳德]真的不相信他会那么容易失败-这个基地很快就会爆炸了,赶紧撤离**"
+		"chi"		"**[å…‹åŠ³å¾·]çœŸçš„ä¸ç›¸ä¿¡ä»–ä¼šé‚£ä¹ˆå®¹æ˜“å¤±è´¥-è¿™ä¸ªåŸºåœ°å¾ˆå¿«å°±ä¼šçˆ†ç‚¸äº†,èµ¶ç´§æ’¤ç¦»**"
 	}
 	"[Cloud] See you on the top evacuation point."
 	{
-		"chi"		"**[克劳德]我们在最顶层的疏散点再见**"
+		"chi"		"**[å…‹åŠ³å¾·]æˆ‘ä»¬åœ¨æœ€é¡¶å±‚çš„ç–æ•£ç‚¹å†è§**"
 	}
 	"**The power is lost. Defend until the emergency generators are on**"
 	{
-		"chi"		"**好像没有电力-在应急发电机启动前守住**"
+		"chi"		"**å¥½åƒæ²¡æœ‰ç”µåŠ›-åœ¨åº”æ€¥å‘ç”µæœºå¯åŠ¨å‰å®ˆä½**"
 	}
 	"**We got the power. The gates will open in 15 seconds**"
 	{
-		"chi"		"**发电机已开启-大门将在15秒后打开**"
+		"chi"		"**å‘ç”µæœºå·²å¼€å¯-å¤§é—¨å°†åœ¨15ç§’åŽæ‰“å¼€**"
 		"DoorCountdown"		"15"
 	}
 	"** Nades do more damage. **"
 	{
-		"chi"		"**手雷能造成更多伤害**"
+		"chi"		"**æ‰‹é›·èƒ½é€ æˆæ›´å¤šä¼¤å®³**"
 	}
 	"**You have beaten Cosmo Canyon!! Congratulations !! **"
 	{
-		"chi"		"**你已经通关了宇宙峡谷-恭喜!**"
+		"chi"		"**ä½ å·²ç»é€šå…³äº†å®‡å®™å³¡è°·-æ­å–œ!**"
 	}
 	"[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon.."
 	{
-		"chi"		"**[克劳德]干的漂亮-这样应该结束了吧,是时候返回宇宙峡谷了**"
+		"chi"		"**[å…‹åŠ³å¾·]å¹²çš„æ¼‚äº®-è¿™æ ·åº”è¯¥ç»“æŸäº†å§,æ˜¯æ—¶å€™è¿”å›žå®‡å®™å³¡è°·äº†**"
 	}
 	"**ZM MODE**"
 	{
-		"chi"		"**感染模式**"
+		"chi"		"**æ„ŸæŸ“æ¨¡å¼**"
 	}
 	"**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**"
 	{
-		"chi"		"**地图通关-找个地方躲藏并守住僵尸**"
+		"chi"		"**åœ°å›¾é€šå…³-æ‰¾ä¸ªåœ°æ–¹èº²è—å¹¶å®ˆä½åƒµå°¸**"
 	}
 	"[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired."
 	{
-		"chi"		"**[Red-XIII]宇宙峡谷基本恢复正常-天文台也需要修理**"
+		"chi"		"**[Red-XIII]å®‡å®™å³¡è°·åŸºæœ¬æ¢å¤æ­£å¸¸-å¤©æ–‡å°ä¹Ÿéœ€è¦ä¿®ç†**"
 	}
 	"[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us."
 	{
-		"chi"		"**[克劳德]这些人能击败杰内西斯和杰诺瓦,我认为帮我们解决了个问题**"
+		"chi"		"**[å…‹åŠ³å¾·]è¿™äº›äººèƒ½å‡»è´¥æ°å†…è¥¿æ–¯å’Œæ°è¯ºç“¦,æˆ‘è®¤ä¸ºå¸®æˆ‘ä»¬è§£å†³äº†ä¸ªé—®é¢˜**"
 	}
 	"[Red-XIII] I cannot find enough words to thank them for all... they did a really good job."
 	{
-		"chi"		"**[Red-XIII]我找不到足够的词来感谢他们所做的一切**"
+		"chi"		"**[Red-XIII]æˆ‘æ‰¾ä¸åˆ°è¶³å¤Ÿçš„è¯æ¥æ„Ÿè°¢ä»–ä»¬æ‰€åšçš„ä¸€åˆ‡**"
 	}
 	"[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do."
 	{
-		"chi"		"**[Red-XIII]听起来不错,我们还需要阻止萨菲罗斯,所以准备上路吧**"
+		"chi"		"**[Red-XIII]å¬èµ·æ¥ä¸é”™,æˆ‘ä»¬è¿˜éœ€è¦é˜»æ­¢è¨è²ç½—æ–¯,æ‰€ä»¥å‡†å¤‡ä¸Šè·¯å§**"
 	}
 	"[Cloud] So lets start from the Temple of the Ancients.."
 	{
-		"chi"		"**[克劳德]所以，让我们从古代种神庙开始吧**"
+		"chi"		"**[å…‹åŠ³å¾·]æ‰€ä»¥ï¼Œè®©æˆ‘ä»¬ä»Žå¤ä»£ç§ç¥žåº™å¼€å§‹å§**"
 	}
 	"**Teleporting humans to the Observatory**"
 	{
-		"chi"		"**传送人类到天文台**"
+		"chi"		"**ä¼ é€äººç±»åˆ°å¤©æ–‡å°**"
 	}
 	"**Defend here for 15 seconds before the platform leaves**"
 	{
-		"chi"		"**在平台上升前守住15秒**"
+		"chi"		"**åœ¨å¹³å°ä¸Šå‡å‰å®ˆä½15ç§’**"
 	}
 	"**The platform is leaving**"
 	{
-		"chi"		"**平台已上升**"
+		"chi"		"**å¹³å°å·²ä¸Šå‡**"
 	}
 	"**WINNERS GONNA CHANGE NEXT STAGE**"
 	{
-		"chi"		"**胜利者将选择下一阶段**"
+		"chi"		"**èƒœåˆ©è€…å°†é€‰æ‹©ä¸‹ä¸€é˜¶æ®µ**"
 	}
 	"**THE WINNERS HAD SELECTED THE MODE**"
 	{
-		"chi"		"**胜利者选择了模式**"
+		"chi"		"**èƒœåˆ©è€…é€‰æ‹©äº†æ¨¡å¼**"
 	}
 	"**A player has picked up WIND materia**"
 	{
-		"chi"		"**一位玩家拿起了风**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†é£Ž**"
 	}
 	"**A player has picked up GRAVITY materia**"
 	{
-		"chi"		"**一位玩家拿起了黑洞**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†é»‘æ´ž**"
 	}
 	"**A player has picked up BIO materia**"
 	{
-		"chi"		"**一位玩家拿起了毒**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†æ¯’**"
 	}
 	"**A player has picked up HEAL materia**"
 	{
-		"chi"		"**一位玩家拿起了奶**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†å¥¶**"
 	}
 	"**A player has picked up ELECTRO materia**"
 	{
-		"chi"		"**一位玩家拿起了电**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†ç”µ**"
 	}
 	"**A player has picked up EARTH materia**"
 	{
-		"chi"		"**一位玩家拿起了土**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†åœŸ**"
 	}
 	"**A player has picked up ULTIMA materia**"
 	{
-		"chi"		"**一位玩家拿起了终极**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†ç»ˆæž**"
 	}
 	"**A player has picked up FIRE materia**"
 	{
-		"chi"		"**一位玩家拿起了火**"
+		"chi"		"**ä¸€ä½çŽ©å®¶æ‹¿èµ·äº†ç«**"
 	}
 	"[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?"
 	{
-		"chi"		"**[Red-XIII]我想我们可以休息一会，然后继续上路，你觉得呢？**"
+		"chi"		"**[Red-XIII]æˆ‘æƒ³æˆ‘ä»¬å¯ä»¥ä¼‘æ¯ä¸€ä¼šï¼Œç„¶åŽç»§ç»­ä¸Šè·¯ï¼Œä½ è§‰å¾—å‘¢ï¼Ÿ**"
 	}
 	"**2 MINUTES LEFT!**"
 	{
@@ -500,27 +506,27 @@
 	}
 	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
 	{
-		"chi"		"**[Red-XIII]当然，但我需要先做点什么，我会在GI洞穴等你**"
+		"chi"		"**[Red-XIII]å½“ç„¶ï¼Œä½†æˆ‘éœ€è¦å…ˆåšç‚¹ä»€ä¹ˆï¼Œæˆ‘ä¼šåœ¨GIæ´žç©´ç­‰ä½ **"
 	}
 	"**Ifrit is defeated! Get on the airship**"
 	{
-		"chi"		"**伊夫里特被击败-快上船**"
+		"chi"		"**ä¼Šå¤«é‡Œç‰¹è¢«å‡»è´¥-å¿«ä¸Šèˆ¹**"
 	}
 	"[Cloud] If you succeed with that then we explode the base with Jenova."
 	{
-		"chi"		"**[克劳德]击败杰内西斯之后，我们就会把基地与杰诺瓦的尸体一起炸掉**"
+		"chi"		"**[å…‹åŠ³å¾·]å‡»è´¥æ°å†…è¥¿æ–¯ä¹‹åŽï¼Œæˆ‘ä»¬å°±ä¼šæŠŠåŸºåœ°ä¸Žæ°è¯ºç“¦çš„å°¸ä½“ä¸€èµ·ç‚¸æŽ‰**"
 	}
 	"**Shiva is defeated!**"
 	{
-		"chi"		"**希瓦被击败**"
+		"chi"		"**å¸Œç“¦è¢«å‡»è´¥**"
 	}
 	"**Ifrit is defeated!**"
 	{
-		"chi"		"**伊夫里特被击败**"
+		"chi"		"**ä¼Šå¤«é‡Œç‰¹è¢«å‡»è´¥**"
 	}
 	"**Jenova is defeated!**"
 	{
-		"chi"		"**杰诺瓦被击败**"
+		"chi"		"**æ°è¯ºç“¦è¢«å‡»è´¥**"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -561,7 +567,7 @@
 	{
 		"chi"		"** **"
 	}
-	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	"[Red-XIII] Hope he will not escape this time… I afraid that we could attract extra attention.."
 	{
 		"chi"		"** **"
 	}
