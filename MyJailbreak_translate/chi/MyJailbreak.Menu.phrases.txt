@@ -165,7 +165,7 @@
 
 	"menu_zeus"
 	{
-		"chi"		"电击枪对决"
+		"chi"		"电击之日"
 	}
 
 	"menu_zombie"
@@ -256,7 +256,7 @@
 	"menu_votingwon"
 	{
 		"#format"	"{1:s},{2:i},{3:i}"
-		"chi"		"The vote has ended with {2} vote yet. {green}{1} {default}won with {3} votes."
+		"chi"		"投票以 {2} 结束. {green}{1} {default}以 {3} 票成为下一个游戏日."
 	}
 
 	"menu_minplayer"
