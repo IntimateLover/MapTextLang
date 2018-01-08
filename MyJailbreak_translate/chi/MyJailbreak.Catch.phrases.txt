@@ -42,12 +42,12 @@
 
 	"catch_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}武装竞赛!"
+		"en"		"监狱长{purple}不能设置{default}警察抓小偷!"
 	}
 
 	"catch_setbyadmin"
 	{
-		"en"		"管理员{purple}无法设置{default}武装竞赛!"
+		"en"		"管理员{purple}无法设置{default}警察抓小偷!"
 	}
 
 	"catch_next"
