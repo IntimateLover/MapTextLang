@@ -205,12 +205,12 @@
 
 	"menu_drunk"
 	{
-		"chi"		"醉酒模式"
+		"chi"		"醉酒日"
 	}
 
 	"menu_torch"
 	{
-		"chi"		"传火"
+		"chi"		"传火日"
 	}
 
 	"menu_noscope"
@@ -220,7 +220,7 @@
 
 	"menu_duckhunt"
 	{
-		"chi"		"杀鸡模式"
+		"chi"		"杀鸡日"
 	}
 
 	"menu_admin"
