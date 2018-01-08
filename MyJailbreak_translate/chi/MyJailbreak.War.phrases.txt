@@ -11,163 +11,163 @@
 	"war_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}混战日."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}混战日."
 	}
 
 	"war_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2} 回合"
 	}
 
 	"war_twin_nc"
 	{
-		"en"		"囚犯获胜!"
+		"chi"		"囚犯获胜!"
 	}
 
 	"war_ctwin_nc"
 	{
-		"en"		"狱警获胜!"
+		"chi"		"狱警获胜!"
 	}
 
 	"war_end"
 	{
-		"en"		"{purple}混战日{default} 已经结束."
+		"chi"		"{purple}混战日{default} 已经结束."
 	}
 
 	"war_next"
 	{
-		"en"		"下一回合: {purple}混战日."
+		"chi"		"下一回合: {purple}混战日."
 	}
 
 	"war_next_nc"
 	{
-		"en"		"下一回合: 混战日."
+		"chi"		"下一回合: 混战日."
 	}
 
 	"war_start"
 	{
-		"en"		" {purple}混战日{default} 已经开始!"
+		"chi"		" {purple}混战日{default} 已经开始!"
 	}
 
 	"war_start_nc"
 	{
-		"en"		"混战日已经开始!"
+		"chi"		"混战日已经开始!"
 	}
 
 	"war_voted"
 	{
-		"en"		"已经给{purple}混战日{default}投票!"
+		"chi"		"已经给{purple}混战日{default}投票!"
 	}
 
 	"war_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {purple}正在进行中!"
 	}
 
 	"war_minplayer"
 	{
-		"en"		"混战日至少需要 {purple}1名狱警和1名囚犯!"
+		"chi"		"混战日至少需要 {purple}1名狱警和1名囚犯!"
 	}
 
 	"war_disabled"
 	{
-		"en"		"混战日目前被 {purple}禁用!"
+		"chi"		"混战日目前被 {purple}禁用!"
 	}
 
 	"war_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后无敌状态关闭!"
+		"chi"		"{1} 秒后无敌状态关闭!"
 	}
 
 	"war_voting"
 	{
-		"en"		"为混战日的投票 {purple}禁用"
+		"chi"		"为混战日的投票 {purple}禁用"
 	}
 
 	"war_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}混战日!"
+		"chi"		"监狱长{purple}不能设置{default}混战日!"
 	}
 
 	"war_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}混战日!"
+		"chi"		"管理员{purple}不能设置{default}混战日!"
 	}
 
 	"war_info_title"
 	{
-		"en"		"混战日 开始!"
+		"chi"		"混战日 开始!"
 	}
 
 	"war_info_line1"
 	{
-		"en"		"如果你被冻结在空中,不要惊讶!"
+		"chi"		"如果你被冻结在空中,不要惊讶!"
 	}
 
 	"war_info_line2"
 	{
-		"en"		"狱警要与囚犯火拼!"
+		"chi"		"狱警要与囚犯火拼!"
 	}
 
 	"war_info_line3"
 	{
-		"en"		"在无敌状态时赶紧跑到安全的地方!"
+		"chi"		"在无敌状态时赶紧跑到安全的地方!"
 	}
 
 	"war_info_line4"
 	{
-		"en"		"部分越狱规则在本局可能不适用!"
+		"chi"		"部分越狱规则在本局可能不适用!"
 	}
 
 	"war_info_line5"
 	{
-		"en"		"LR在本回合被禁用!"
+		"chi"		"LR在本回合被禁用!"
 	}
 
 	"war_info_line6"
 	{
-		"en"		"任何人都能去任何地方,包括密道武器库都可以."
+		"chi"		"任何人都能去任何地方,包括密道武器库都可以."
 	}
 
 	"war_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"war_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"war_timetounfreeze_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后解除冻结状态!"
+		"chi"		"{1} 秒后解除冻结状态!"
 	}
 
 	"war_timetohide_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"剩余{1} 秒躲藏"
+		"chi"		"剩余{1} 秒躲藏"
 	}
 
 	"war_name"
 	{
-		"en"		"混战日"
+		"chi"		"混战日"
 	}
 
 	"war_now_nc"
 	{
-		"en"		"现在混战日开始."
+		"chi"		"现在混战日开始."
 	}
 
 	"war_now"
 	{
-		"en"		"现在 {purple}混战日{default} 开始."
+		"chi"		"现在 {purple}混战日{default} 开始."
 	}
 
 }
