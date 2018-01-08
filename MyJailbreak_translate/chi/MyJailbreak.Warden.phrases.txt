@@ -91,13 +91,13 @@
 	"warden_removed"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"Admin: {purple}{1}{default} has Fired the Warden: {purple}{2}"
+		"chi"		"管理员: {purple}{1}{default} 移除了监狱长: {purple}{2}"
 	}
 
 	"warden_removed_nc"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"Admin: {1} has Fired the Warden: {2}"
+		"chi"		"管理员: {1} 移除了监狱长: {2}"
 	}
 
 	"warden_noexist"
@@ -107,7 +107,7 @@
 
 	"warden_disabled"
 	{
-		"chi"		"Warden is currently {purple}disabled{default}!"
+		"chi"		"监狱长目前 {purple}不可用{default}!"
 	}
 
 	"warden_nobecome"
@@ -123,7 +123,7 @@
 
 	"warden_randomwarden"
 	{
-		"chi"		"A Random Warden has been chosen!"
+		"chi"		"一名监狱长已被随机选择!"
 	}
 
 	"warden_dooropen"
@@ -269,7 +269,7 @@
 	"warden_israndom"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} was Chosen Randomly!"
+		"chi"		"{1} 被随机选择!"
 	}
 
 	"warden_gunplant"
@@ -337,13 +337,13 @@
 	"warden_marker_set"
 	{
 		"#format"	"{1:s}"
-		"chi"		"{1} Marker Set!"
+		"chi"		"{1} 的标记被设置!"
 	}
 
 	"warden_marker_remove"
 	{
 		"#format"	"{1:s}"
-		"chi"		"{1} Marker Removed!"
+		"chi"		"{1} 的标记被移除!"
 	}
 
 	"warden_laser"
@@ -566,7 +566,7 @@
 
 	"warden_sure"
 	{
-		"chi"		"Are you sure?"
+		"chi"		"你确定吗?"
 	}
 
 	"warden_yes"
@@ -581,7 +581,7 @@
 
 	"warden_minrandom"
 	{
-		"chi"		"There is only one (non-rebeling) Prisoner left!"
+		"chi"		"只有一个囚犯!"
 	}
 
 	"warden_nomuted"
@@ -629,18 +629,18 @@
 
 	"warden_bulletmarkoff"
 	{
-		"chi"		"Bullet Impact Sparks are now {purple}disabled!"
+		"chi"		"子弹火花目前 {purple}禁用!"
 	}
 
 	"warden_bulletmarkon"
 	{
-		"chi"		"Bullet Impact Sparks are now {purple}enabled!"
+		"chi"		"子弹火花目前 {purple}启用!"
 	}
 
 	"warden_extend"
 	{
 		"#format"	"{1:N},{2:i}"
-		"chi"		"The Warden {1} has extended the roundtime by {2} minutes."
+		"chi"		"监狱长 {1} 延长这一回合 {2} 分钟."
 	}
 
 	"warden_backstab"
@@ -656,7 +656,7 @@
 
 	"warden_close"
 	{
-		"chi"		"Exit"
+		"chi"		"退出"
 	}
 
 	"warden_gotpaperclip"
@@ -729,22 +729,22 @@
 
 	"warden_remaining"
 	{
-		"chi"		"Remaining"
+		"chi"		"的剩余时间"
 	}
 
 	"warden_dooropen_unavailable"
 	{
-		"chi"		"{darkred}This map doesn't support remote door opening. {default}You {purple}must manually open the doors!"
+		"chi"		"{darkred}这个地图不支持指令开门. {default}你 {purple}必须要去手动开门!"
 	}
 
 	"warden_doorclose_unavailable"
 	{
-		"chi"		"{darkred}This map doesn't support remote door closing. {default}You {purple}must manually close the doors!"
+		"chi"		"{darkred}这个地图不支持指令关门. {default}你 {purple}必须要去手动关门!"
 	}
 
 	"warden_openauto_unavailable"
 	{
-		"chi"		"{darkred}This map doesn't support automatic door opening. {default}The Warden {purple}must manually open the doors!"
+		"chi"		"{darkred}这个地图不支持自动开门. {default}监狱长 {purple}必须要去手动开门!"
 	}
 
 	"warden_menu_muteall"
@@ -774,17 +774,17 @@
 
 	"warden_rebel_mark"
 	{
-		"chi"		"Mark a Player as Rebel"
+		"chi"		"设置一名囚犯的暴动标记"
 	}
 
 	"warden_rebel_unmark"
 	{
-		"chi"		"Remove a Player from Rebels"
+		"chi"		"移除一名囚犯的暴动标记"
 	}
 
 	"warden_talkover"
 	{
-		"chi"		"Warden speaks, you have been muted."
+		"chi"		"监狱长说话时, 请不要卡麦."
 	}
 
 	"warden_info_counter"
@@ -795,99 +795,99 @@
 	"warden_counter"
 	{
 		"#format"	"{1:i}"
-		"chi"		"There are {1} prisoner in your view"
+		"chi"		"这里有 {1} 个囚犯在你的视野范围内"
 	}
 
 	"warden_deputy_playerdead"
 	{
-		"chi"		"Only {purple}alive players{default} can become Deputy!"
+		"chi"		"只有 {purple}存活的玩家{default} 才能成为副狱长!"
 	}
 
 	"warden_deputy_ctsonly"
 	{
-		"chi"		"Only {purple}Counter-Terrorists{default} can become Deputy!"
+		"chi"		"只有 {purple}狱警{default} 才能成为副狱长!"
 	}
 
 	"warden_deputy_exist"
 	{
 		"#format"	"{1:N}"
-		"chi"		"The current Deputy is: {purple}{1}{default}."
+		"chi"		"副狱长是: {purple}{1}{default}."
 	}
 
 	"warden_deputy_disabled"
 	{
-		"chi"		"Deputy is currently {purple}disabled{default}!"
+		"chi"		"副狱长目前被 {purple}禁用{default}!"
 	}
 
 	"warden_deputy_nobecome"
 	{
-		"chi"		"You cannot become deputy, the warden must choose you"
+		"chi"		"你不能成为副狱长, 必须要监狱长选择你才行"
 	}
 
 	"warden_deputy_retire"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1}{default} has decided to retire as Deputy. You may now choose a new Deputy!"
+		"chi"		"{purple}{1}{default} 已经退休. 你现在可以选择一名新的副狱长!"
 	}
 
 	"warden_deputy_retire_nc"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} has decided to retire as Deputy. You may now choose a new Deputy!"
+		"chi"		"{1} 已经退休. 你现在可以选择一名新的副狱长!"
 	}
 
 	"warden_deputy_fired_nc"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"Warden: {1} has Fired the Deputy: {2}"
+		"chi"		"监狱长: {1} 移除了副狱长: {2}"
 	}
 
 	"warden_deputy_fired"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"Warden: {purple}{1}{default} has Fired the Deputy: {purple}{2}"
+		"chi"		"监狱长: {purple}{1}{default} 移除了副狱长: {purple}{2}"
 	}
 
 	"warden_deputy_dead_nc"
 	{
-		"chi"		"The Deputy is now dead. You may now choose a new one."
+		"chi"		"副狱长已经死亡. 你现在可以选择一位新的副狱长."
 	}
 
 	"warden_deputy_dead"
 	{
-		"chi"		"The Deputy is now {darkred}dead{default}. You may now choose a new one."
+		"chi"		"副狱长已经 {darkred}死亡{default}. 你现在可以选择一位新的副狱长."
 	}
 
 	"warden_deputy_disconnected"
 	{
-		"chi"		"The Deputy has {purple}disconnected{default}. You may now choose a new one."
+		"chi"		"副狱长已经 {purple}断开连接{default}. 你现在可以选择一位新的副狱长."
 	}
 
 	"warden_deputy_disconnected_nc"
 	{
-		"chi"		"The Deputy has disconnected. You may now choose a new one."
+		"chi"		"副狱长已经断开连接. 你现在可以选择一位新的副狱长."
 	}
 
 	"warden_deputy_new_nc"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} is now the Deputy of the Warden."
+		"chi"		"{1} 现在是副狱长."
 	}
 
 	"warden_deputy_new"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1}{default} is now the Deputy of the Warden."
+		"chi"		"{purple}{1}{default} 现在是副狱长."
 	}
 
 	"warden_deputy_set"
 	{
-		"chi"		"You as {purple}Warden{default} can set a Deputy. Type {green}!deputy{default} to set an Deputy!"
+		"chi"		"{purple}监狱长{default} 可以设置副狱长. 输入 {green}!deputy{default} 设置一个新的副狱长!"
 	}
 
 	"warden_deputy_become"
 	{
-		"chi"		"There is no current {purple}Deputy{default}. Type {green}!deputy{default} to become the Deputy!"
+		"chi"		"现在没有 {purple}副狱长{default}. 输入 {green}!deputy{default} 成为副狱长!"
 	}
 
 	"warden_picking"
@@ -908,46 +908,46 @@
 	"warden_havefreeday"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} has now a FreeDay!"
+		"chi"		"{1} 今天是自由日!"
 	}
 
 	"warden_freeday_title"
 	{
 		"#format"	"{1:N}"
-		"chi"		"Freeday for {1}"
+		"chi"		"自由日在哪个回合 {1}"
 	}
 
 	"warden_freedaynext"
 	{
-		"chi"		"Next Round"
+		"chi"		"下一回合"
 	}
 
 	"warden_freedaynow"
 	{
-		"chi"		"This Round"
+		"chi"		"这个回合"
 	}
 
 	"warden_freedayforyou"
 	{
-		"chi"		"You get a {purple}FreeDay{default} next round"
+		"chi"		"你在下一回合得到了 {purple}自由日"
 	}
 
 	"warden_personalfreeday"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{green}{1}{default} gets a {purple}FreeDay{default} next round"
+		"chi"		"{green}{1}{default} 在下一回合得到了 {purple}自由日"
 	}
 
 	"warden_cooldown"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You have a {purple}warden cooldown{default}. Wait {green}{1}{default} rounds"
+		"chi"		"监狱长功能{purple}冷却中{default}. 需要等待 {green}{1}{default} 回合才能再次成为监狱长"
 	}
 
 	"warden_limit"
 	{
 		"#format"	"{1:i},{2:i}"
-		"chi"		"You have played {purple}{1} round in a row{default} as warden. Wait {green}{2}{default} rounds"
+		"chi"		"你已经连续成为监狱长 {purple}{1} 回合. 需要等待 {green}{2}{default} 回合才能再次成为监狱长"
 	}
 
 	"warden_wait"
@@ -959,18 +959,18 @@
 	"warden_deputy_removed"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"Admin: {purple}{1}{default} has Fired the Deputy: {purple}{2}"
+		"chi"		"管理员: {purple}{1}{default} 移除了副狱长: {purple}{2}"
 	}
 
 	"warden_deputy_removed_nc"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"Admin: {1} has Fired the Deputy: {2}"
+		"chi"		"管理员: {1} 移除了副狱长: {2}"
 	}
 
 	"warden_steamgroup"
 	{
-		"chi"		"Cannot play as warden, you need to join our steamgroup first"
+		"chi"		"无法成为监狱长, 你先必须加入我们的steam组"
 	}
 
 	"warden_rankme"
@@ -993,23 +993,23 @@
 
 	"warden_removefreeday"
 	{
-		"chi"		"Remove FreeDay from:"
+		"chi"		"取消自由日:"
 	}
 
 	"warden_removefreedayforyou"
 	{
-		"chi"		"Your {purple}FreeDay{default} was removed."
+		"chi"		"你的 {purple}自由日{default} 已被取消."
 	}
 
 	"warden_removepersonalfreeday"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{green}{1}s{default} {purple}FreeDay{default} was removed"
+		"chi"		"{green}{1}{default}的 {purple}自由日{default} 被取消"
 	}
 
 	"warden_noplayer"
 	{
-		"chi"		"No players to choose"
+		"chi"		"没有玩家可以选择"
 	}
 
 	"warden_lvlranks"
