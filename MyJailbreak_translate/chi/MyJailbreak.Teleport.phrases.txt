@@ -11,151 +11,151 @@
 	"teleport_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Teleport War."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}传送混战模式."
 	}
 
 	"teleport_voting"
 	{
-		"en"		"Voting for Teleport War is {purple}disabled!"
+		"en"		"为传送混战模式的投票被禁用!"
 	}
 
 	"teleport_setbywarden"
 	{
-		"en"		"Set Teleport War by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}传送混战模式!"
 	}
 
 	"teleport_setbyadmin"
 	{
-		"en"		"Set Teleport War by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}传送混战模式"
 	}
 
 	"teleport_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一位狱警获胜!"
 	}
 
 	"teleport_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"en"		"一名囚犯获胜!"
 	}
 
 	"teleport_minplayer"
 	{
-		"en"		"For Teleport War you need at least {purple}one Guard, & one Prisoner!"
+		"en"		"传送混战模式至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"teleport_end"
 	{
-		"en"		"{purple}Teleport War{default} has ended!"
+		"en"		"{purple}传送混战模式{default} 游戏结束!"
 	}
 
 	"teleport_next"
 	{
-		"en"		"The following round will be: {purple}Teleport War."
+		"en"		"下一回合: {purple}传送混战模式."
 	}
 
 	"teleport_next_nc"
 	{
-		"en"		"The following round will be: Teleport War."
+		"en"		"下一回合: 传送混战模式."
 	}
 
 	"teleport_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2} 回"
 	}
 
 	"teleport_start"
 	{
-		"en"		"{purple}Teleport War{default} has begun!"
+		"en"		"{purple}传送混战模式{default} 游戏开始!"
 	}
 
 	"teleport_start_nc"
 	{
-		"en"		"Teleport War has begun!"
+		"en"		"传送混战模式 游戏开始!"
 	}
 
 	"teleport_voted"
 	{
-		"en"		"You have already voted for {purple}Teleport War!"
+		"en"		"已经给 {purple}传送混战模式{default}投票!"
 	}
 
 	"teleport_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"teleport_disabled"
 	{
-		"en"		"Teleport War is currently {purple}disabled!"
+		"en"		"传送混战模式 {purple}禁用!"
 	}
 
 	"teleport_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until damage enabled"
+		"en"		"{1} 秒后无敌状态关闭"
 	}
 
 	"teleport_info_title"
 	{
-		"en"		"Teleport War is now Activated!"
+		"en"		"传送混战模式 开始!"
 	}
 
 	"teleport_info_line1"
 	{
-		"en"		"Change postion with your attacker / victim on hit"
+		"en"		"如果你被攻击或者你攻击别人,你的位置会与攻击方或者被攻击方互换"
 	}
 
 	"teleport_info_line2"
 	{
-		"en"		"Teleport War - Player VS Player - The last man standing wins!"
+		"en"		"传送混战模式是个人战，只有活到最后才能吃鸡!"
 	}
 
 	"teleport_info_line3"
 	{
-		"en"		"Run away during the 'NoDamage' phase!"
+		"en"		"在无敌状态时赶紧跑到安全的地方!"
 	}
 
 	"teleport_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则在本回合不适用!"
 	}
 
 	"teleport_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在此回合禁用!"
 	}
 
 	"teleport_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"teleport_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"teleport_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"teleport_name"
 	{
-		"en"		"Teleport War"
+		"en"		"传送混战模式"
 	}
 
 	"teleport_now_nc"
 	{
-		"en"		"Now a teleport round begins."
+		"en"		"现在 传送混战模式 开始."
 	}
 
 	"teleport_now"
 	{
-		"en"		"Now a {purple}teleport{default} round begins."
+		"en"		"现在 {purple}传送混战模式{default} 开始."
 	}
 
 }
