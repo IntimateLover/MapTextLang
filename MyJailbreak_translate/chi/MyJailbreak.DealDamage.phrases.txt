@@ -11,267 +11,267 @@
 	"dealdamage_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}DealDamage."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}战斗力PK."
 	}
 
 	"dealdamage_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}."
+		"en"		"第 {purple}{1}{default} / {purple}{2} 回合."
 	}
 
 	"dealdamage_twin_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"TEAM RED win with {1} HP damage"
+		"en"		"红队以 {1} 的战斗力获得了胜利!"
 	}
 
 	"dealdamage_voting"
 	{
-		"en"		"Voting for Deal Damage Day is {purple}disabled"
+		"en"		"为战斗力PK的投票 {purple}禁用"
 	}
 
 	"dealdamage_setbywarden"
 	{
-		"en"		"Set Deal Damage Day by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}战斗力PK!"
 	}
 
 	"dealdamage_setbyadmin"
 	{
-		"en"		"Set Deal Damage Day by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}战斗力PK!"
 	}
 
 	"dealdamage_ctwin_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"The BLUE TEAM win with {1} HP damage!"
+		"en"		"蓝队以 {1} 的战斗力获得了胜利!"
 	}
 
 	"dealdamage_end"
 	{
-		"en"		"{purple}Deal Damage Day{default} has ended!"
+		"en"		"{purple}战斗力PK{default} 游戏结束!"
 	}
 
 	"dealdamage_next"
 	{
-		"en"		"The following round will be: {purple}Deal Damage Day."
+		"en"		"下一回合: {purple}战斗力PK."
 	}
 
 	"dealdamage_next_nc"
 	{
-		"en"		"The following round will be: Deal Damage Day."
+		"en"		"下一回合: 战斗力PK."
 	}
 
 	"dealdamage_start"
 	{
-		"en"		"{purple}Deal Damage Day{default} has begun!"
+		"en"		"{purple}战斗力PK{default} 开始!"
 	}
 
 	"dealdamage_now_nc"
 	{
-		"en"		"Now a Deal Damage round begins."
+		"en"		"战斗力PK 开始."
 	}
 
 	"dealdamage_now"
 	{
-		"en"		"Now a {purple}Deal Damage{default} round begins."
+		"en"		"现在 {purple}战斗力PK{default} 开始."
 	}
 
 	"dealdamage_start_nc"
 	{
-		"en"		"Deal Damage Day has begun!"
+		"en"		"战斗力PK 开始!"
 	}
 
 	"dealdamage_voted"
 	{
-		"en"		"You have already voted for {purple}Deal Damage Day!"
+		"en"		"已经给{purple}战斗力PK{default}投票!"
 	}
 
 	"dealdamage_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event ({darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {purple}正在进行中!"
 	}
 
 	"dealdamage_disabled"
 	{
-		"en"		"Deal Damage Day is currently {purple}disabled!"
+		"en"		"战斗力PK目前 {purple}禁用!"
 	}
 
 	"dealdamage_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后开始!"
 	}
 
 	"dealdamage_info_title"
 	{
-		"en"		"Deal Damage Day is now Activated"
+		"en"		"战斗力PK 开始"
 	}
 
 	"dealdamage_info_line1"
 	{
-		"en"		"Team BLUE vs Team RED"
+		"en"		"队伍分为两队,红队和蓝队"
 	}
 
 	"dealdamage_info_line2"
 	{
-		"en"		"Deal as much Damage as you can to the opposing team!"
+		"en"		"尽可能的对对方队伍造成更多的伤害!"
 	}
 
 	"dealdamage_info_line3"
 	{
-		"en"		"The team with the most dealt damage wins!"
+		"en"		"造成最多伤害的队伍获胜!"
 	}
 
 	"dealdamage_info_line4"
 	{
-		"en"		"All usual Jailbreak rules are repealed"
+		"en"		"部分越狱规则在本局可能不适用"
 	}
 
 	"dealdamage_info_line5"
 	{
-		"en"		"Last Requests are disabled during this round!"
+		"en"		"LR在本回合被禁用!"
 	}
 
 	"dealdamage_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"dealdamage_info_line7"
 	{
-		"en"		"Dont be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"dealdamage_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"dealdamage_result"
 	{
-		"en"		"Deal Damage Day Results:"
+		"en"		"战斗力数据:"
 	}
 
 	"dealdamage_total"
 	{
 		"#format"	"{1:i}"
-		"en"		"Total Damage: {1} HP"
+		"en"		"总造成伤害: {1} HP"
 	}
 
 	"dealdamage_most"
 	{
 		"#format"	"{1:N},{2:i}"
-		"en"		"Most Damage Dealt: {1} Damage: {2} HP"
+		"en"		"最高伤害: {1} 造成伤害: {2} HP"
 	}
 
 	"dealdamage_ct"
 	{
 		"#format"	"{1:i}"
-		"en"		"BLUE Damage: {1} HP"
+		"en"		"蓝队造成伤害: {1} HP"
 	}
 
 	"dealdamage_t"
 	{
 		"#format"	"{1:i}"
-		"en"		"RED Damage: {1} HP"
+		"en"		"红队造成伤害: {1} HP"
 	}
 
 	"dealdamage_bestct"
 	{
 		"#format"	"{1:N},{2:i}"
-		"en"		"Best BLUE: {1} Damage: {2} HP"
+		"en"		"蓝队最佳队员: {1} 造成伤害: {2} HP"
 	}
 
 	"dealdamage_bestt"
 	{
 		"#format"	"{1:N},{2:i}"
-		"en"		"Best RED: {1} Damage: {2} HP"
+		"en"		"红队最佳队员: {1} 造成伤害: {2} HP"
 	}
 
 	"dealdamage_client"
 	{
 		"#format"	"{1:i}"
-		"en"		"Your Damage: {1} HP"
+		"en"		"你造成的伤害: {1} HP"
 	}
 
 	"dealdamage_ctdealed"
 	{
-		"en"		"BLUE dealt:"
+		"en"		"红队的造成伤害:"
 	}
 
 	"dealdamage_tdealed"
 	{
-		"en"		"RED dealt:"
+		"en"		"蓝队的造成伤害:"
 	}
 
 	"dealdamage_clientdealed"
 	{
-		"en"		"You dealt:"
+		"en"		"你的造成伤害:"
 	}
 
 	"dealdamage_hpdamage"
 	{
-		"en"		"HP damage"
+		"en"		"HP 伤害"
 	}
 
 	"dealdamage_name"
 	{
-		"en"		"Deal Damage Day"
+		"en"		"战斗力PK"
 	}
 
 	"dealdamage_teamblue"
 	{
-		"en"		"You are in {blue}TEAM BLUE"
+		"en"		"你被分配在 {blue}蓝队"
 	}
 
 	"dealdamage_teamred"
 	{
-		"en"		"You are in {darkred}TEAM RED"
+		"en"		"你被分配在 {darkred}红队"
 	}
 
 	"dealdamage_teamblue_nc"
 	{
-		"en"		"You are in TEAM BLUE"
+		"en"		"你被分配在蓝队"
 	}
 
 	"dealdamage_teamred_nc"
 	{
-		"en"		"You are in TEAM RED"
+		"en"		"你被分配在红队"
 	}
 
 	"dealdamage_playerteamblue"
 	{
 		"#format"	"{1:N}"
-		"en"		"{purple}{1}{default} is in {blue}TEAM BLUE"
+		"en"		"{purple}{1}{default} 在 {blue}蓝队"
 	}
 
 	"dealdamage_playerteamred"
 	{
 		"#format"	"{1:N}"
-		"en"		"{purple}{1}{default} is in {darkred}TEAM RED"
+		"en"		"{purple}{1}{default} 在 {darkred}红队"
 	}
 
 	"dealdamage_blue_nc"
 	{
-		"en"		"BLUE"
+		"en"		"蓝队"
 	}
 
 	"dealdamage_red_nc"
 	{
-		"en"		"RED"
+		"en"		"红队"
 	}
 
 	"dealdamage_info_blueteam"
 	{
-		"en"		"You are in TEAM BLUE"
+		"en"		"你被分配在蓝队"
 	}
 
 	"dealdamage_info_redteam"
 	{
-		"en"		"You are in TEAM RED"
+		"en"		"你被分配在红队"
 	}
 
 }
