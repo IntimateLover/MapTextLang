@@ -11,95 +11,95 @@
 	"drunk_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Drunken Day."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}醉酒日."
 	}
 
 	"drunk_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}."
+		"en"		"第 {purple}{1}{default} / {purple}{2} 回合."
 	}
 
 	"drunk_twin_nc"
 	{
-		"en"		"A Prisoner has surrived"
+		"en"		"囚犯获胜"
 	}
 
 	"drunk_voting"
 	{
-		"en"		"Voting for Drunken Day is {purple}disabled!"
+		"en"		"为醉酒日的投票被禁用"
 	}
 
 	"drunk_setbywarden"
 	{
-		"en"		"Set Drunken Day by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}醉酒日!"
 	}
 
 	"drunk_setbyadmin"
 	{
-		"en"		"Set Drunken Day by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}醉酒日!"
 	}
 
 	"drunk_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"狱警获胜!"
 	}
 
 	"drunk_end"
 	{
-		"en"		"{purple}Drunken Day{default} has ended."
+		"en"		"{purple}醉酒日{default} 游戏结束."
 	}
 
 	"drunk_next"
 	{
-		"en"		"The following round will be: {purple}Drunken Day."
+		"en"		"下一回合: {purple}醉酒日."
 	}
 
 	"drunk_next_nc"
 	{
-		"en"		"The following round will be: Drunken Day."
+		"en"		"下一回合: 醉酒日."
 	}
 
 	"drunk_start"
 	{
-		"en"		"{purple}Drunken Day{default} has begun!"
+		"en"		"{purple}醉酒日{default} 游戏开始!"
 	}
 
 	"drunk_start_nc"
 	{
-		"en"		"Drunken Day begun!"
+		"en"		"醉酒日开始!"
 	}
 
 	"drunk_voted"
 	{
-		"en"		"You have already voted for {purple}Drunken Day!"
+		"en"		"已经给 {purple}醉酒日{default}投票!"
 	}
 
 	"drunk_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"drunk_disabled"
 	{
-		"en"		"Drunken Day is currently {purple}disabled!"
+		"en"		"醉酒日 {purple}禁用!"
 	}
 
 	"drunk_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"剩余{1} 秒回合开始!"
 	}
 
 	"drunk_info_title"
 	{
-		"en"		"Drunken Day is now Activated!"
+		"en"		"醉酒日现在开始!"
 	}
 
 	"drunk_info_line1"
 	{
-		"en"		"Drunken Day is now Activated"
+		"en"		"醉酒日现在开始"
 	}
 
 	"drunk_info_line2"
@@ -114,43 +114,43 @@
 
 	"drunk_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"en"		"正常的越狱规则此回合可能不适用!"
 	}
 
 	"drunk_info_line5"
 	{
-		"en"		"Last Requests are disabled during this round!"
+		"en"		"LR在此回合被禁用!"
 	}
 
 	"drunk_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"drunk_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"drunk_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"drunk_name"
 	{
-		"en"		"Drunken Day"
+		"en"		"醉酒日"
 	}
 
 	"drunk_now_nc"
 	{
-		"en"		"Now a drunk round begins."
+		"en"		"醉酒日 开始."
 	}
 
 	"drunk_now"
 	{
-		"en"		"Now a {purple}drunk{default} round begins."
+		"en"		"{purple}醉酒日{default} 开始."
 	}
 
 }
