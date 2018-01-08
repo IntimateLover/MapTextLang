@@ -1,0 +1,608 @@
+// Exported from SourceMod Translator
+// Date: 2018-01-03 21:47:38 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/268
+//
+"Phrases"
+{
+
+	"shop_alive"
+	{
+		"chi"		"You need to be alive to buy items!"
+	}
+
+	"shop_alreadyopen"
+	{
+		"chi"		"The cells are already open."
+	}
+
+	"shop_awp"
+	{
+		"chi"		"You bought: AWP with one shots, know use it!"
+	}
+
+	"shop_bhop"
+	{
+		"chi"		"Now you have BunnyHop, have fun!"
+	}
+
+	"shop_bird"
+	{
+		"chi"		"You are a bird! Toggle fly with '+dropweapon'"
+	}
+
+	"shop_buytime"
+	{
+		"chi"		"The buy time is past. You can buy next round again."
+	}
+
+	"shop_costs"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"Costs: {2} ¢redits. Now, you have {1} ¢redits"
+	}
+
+	"shop_credits"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Yours current ¢redits are: {1}!"
+	}
+
+	"shop_dead"
+	{
+		"chi"		"You need be dead to use this item!"
+	}
+
+	"shop_deagle"
+	{
+		"chi"		"You bought: Deagle with seven shots, know use it!"
+	}
+
+	"shop_disabled"
+	{
+		"chi"		"Jail shop is currently {purple}disabled{default}!"
+	}
+
+	"shop_firegrenade"
+	{
+		"chi"		"You bought: HE that burn the opponent!"
+	}
+
+	"shop_froggyjump"
+	{
+		"chi"		"Now you have Froggy jump!"
+	}
+
+	"shop_fulllive"
+	{
+		"chi"		"You're already on full health!"
+	}
+
+	"shop_get"
+	{
+		"#format"	"{1:d},{2:N}"
+		"chi"		"You can not gift yourself."
+	}
+
+	"shop_getset"
+	{
+		"#format"	"{1:d},{2:N}"
+		"chi"		"Your ¢redits was set to {1} by {2}"
+	}
+
+	"shop_give"
+	{
+		"#format"	"{1:d},{2:N}"
+		"chi"		"Now you have low gravity!"
+	}
+
+	"shop_gravity"
+	{
+		"chi"		"Now you have low gravity!"
+	}
+
+	"shop_heal"
+	{
+		"chi"		"You healed!"
+	}
+
+	"shop_health"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Now you have +{1}HP and kevlar & helm!"
+	}
+
+	"shop_invisible"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Now you're invisible for {1} seconds!"
+	}
+
+	"shop_killedct"
+	{
+		"#format"	"{1:d},{2:d},{3:N}"
+		"chi"		"You get {2} ¢redits for killing the guard {3}. Now you have: {1}¢"
+	}
+
+	"shop_killedt"
+	{
+		"#format"	"{1:d},{2:d},{3:N}"
+		"chi"		"You get {2} ¢redits for killing the prisoner {3}. Now you have: {1}¢"
+	}
+
+	"shop_knife"
+	{
+		"chi"		"You bought: One hit knife!"
+	}
+
+	"shop_lastrequest"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"You get {2} ¢redits for attain the last request. Now you have: {1}¢"
+	}
+
+	"shop_max"
+	{
+		"chi"		"You have already bought this item in this round, wait for the next round to buy again."
+	}
+
+	"shop_maxcredits"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Your ¢redits on shop: {1}, maximum allowed!"
+	}
+
+	"shop_menu_armor"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Armor [{1}¢]"
+	}
+
+	"shop_menu_awp"
+	{
+		"#format"	"{1:d}"
+		"chi"		"AWP with 1 bullet [{1}¢]"
+	}
+
+	"shop_menu_bhop"
+	{
+		"#format"	"{1:d}"
+		"chi"		"BunnyHop [{1}¢]"
+	}
+
+	"shop_menu_bird"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Be a Bird [{1}¢]"
+	}
+
+	"shop_menu_deagle"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Deagle with 1 mag [{1}¢]"
+	}
+
+	"shop_menu_firegrenade"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Napalm HE [{1}¢]"
+	}
+
+	"shop_menu_froggyjump"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Froggy jump [{1}¢]"
+	}
+
+	"shop_menu_gravity"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Low gravity [{1}¢]"
+	}
+
+	"shop_menu_heal"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Heal [{1}¢]"
+	}
+
+	"shop_menu_health"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"+{2}hp and armor [{1}¢]"
+	}
+
+	"shop_menu_invisible"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"Invisible for {2} sec. [{1}¢]"
+	}
+
+	"shop_menu_knife"
+	{
+		"#format"	"{1:d}"
+		"chi"		"One hit knife [{1}¢]"
+	}
+
+	"shop_menu_model"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Guard model [{1}¢]"
+	}
+
+	"shop_menu_molotov"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Molotov + 2 flashs [{1}¢]"
+	}
+
+	"shop_menu_noclip"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"No Clip for {2} sec. [{1}¢]"
+	}
+
+	"shop_menu_nodamage"
+	{
+		"#format"	"{1:d}"
+		"chi"		"No damage for 20 seconds [{1}¢]"
+	}
+
+	"shop_menu_openjail"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Open Jails [{1}¢]"
+	}
+
+	"shop_menu_playercredits"
+	{
+		"chi"		"Players ¢redits on shop:"
+	}
+
+	"shop_menu_player¢redits"
+	{
+		"chi"		"Players ¢redits on shop:"
+	}
+
+	"shop_menu_poisonsmoke"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Poison Smoke [{1}¢]"
+	}
+
+	"shop_menu_revive"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Revive [{1}¢]"
+	}
+
+	"shop_menu_taser"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Taser with 3 Bullets [{1}¢]"
+	}
+
+	"shop_menu_teleportsmoke"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Teleporter Smoke [{1}¢]"
+	}
+
+	"shop_menu_throwingknife"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Throwing one hit knife [{1}¢]"
+	}
+
+	"shop_menu_title"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Jail Shop. You have {1}¢"
+	}
+
+	"shop_menu_vampire"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Vampire [{1}¢]"
+	}
+
+	"shop_menu_wallhack"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Wallhack [{1}¢]"
+	}
+
+	"shop_missingcredits"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"Your ¢redits: {1} (You do not have enough. You need: {2}¢)"
+	}
+
+	"shop_model"
+	{
+		"chi"		"You are now disguised as a guard, be careful!"
+	}
+
+	"shop_molotov"
+	{
+		"chi"		"You bought: Molotov + 2 flashs!"
+	}
+
+	"shop_noclip"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Now you have no clip for {1} seconds!"
+	}
+
+	"shop_noclipend"
+	{
+		"#format"	"{1:N}"
+		"chi"		"NoClip has ended!"
+	}
+
+	"shop_nodamage"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Now you're immortal for {1} seconds!"
+	}
+
+	"shop_onlyt"
+	{
+		"chi"		"This item is only for prisioners!"
+	}
+
+	"shop_opencell"
+	{
+		"chi"		"You opened the jails."
+	}
+
+	"shop_opencellall"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} has opened all jails with shop"
+	}
+
+	"shop_playtime"
+	{
+		"#format"	"{1:d}"
+		"chi"		"You get {1} ¢redits for playing on this server"
+	}
+
+	"shop_poisensmoke"
+	{
+		"chi"		"You bought: Poison Smoke!"
+	}
+
+	"shop_revived"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} has been revived!"
+	}
+
+	"shop_revivehint"
+	{
+		"#format"	"{1:d}"
+		"chi"		"You died, can use !revive for {1} credits!"
+	}
+
+	"shop_set"
+	{
+		"#format"	"{1:d},{2:N}"
+		"chi"		"You set {2} ¢redits to {1}"
+	}
+
+	"shop_tag"
+	{
+		"chi"		"[{green}jail.shop{default}]"
+	}
+
+	"shop_taser"
+	{
+		"chi"		"You bought: Taser with 3 shots, know use it!"
+	}
+
+	"shop_teleportsmoke"
+	{
+		"chi"		"You bought: Teleporter Smoke!"
+	}
+
+	"shop_throwingknife"
+	{
+		"chi"		"You bought: Throwing knife!"
+	}
+
+	"shop_tonly"
+	{
+		"chi"		"Shop only for prisioners!"
+	}
+
+	"shop_unnodamage"
+	{
+		"chi"		"Now you're mortal again!"
+	}
+
+	"shop_vapire"
+	{
+		"chi"		"Now you're a vampire!"
+	}
+
+	"shop_visible"
+	{
+		"chi"		"Now you're visible again!"
+	}
+
+	"shop_wallhack"
+	{
+		"chi"		"Now you have Wallhack!"
+	}
+
+	"shop_welcome"
+	{
+		"chi"		"Type !jailshop to open the shop. Kill/win/play to win ¢redits on shop."
+	}
+
+	"shop_menu_paperclip"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"Get {2} paperclip(s). [{1}¢]"
+	}
+
+	"shop_paperclip"
+	{
+		"#format"	"{1:d}"
+		"chi"		"You bought: {1} paperclip(s) for handcuffs!"
+	}
+
+	"shop_unwallhack"
+	{
+		"chi"		"Wallhack has ended!"
+	}
+
+	"shop_win"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"You get {2} ¢redits for winning the round. Now you have: {1}¢"
+	}
+
+	"shop_giftyourself"
+	{
+		"chi"		"You can not gift yourself."
+	}
+
+	"shop_onlyct"
+	{
+		"chi"		"This item is only for guards!"
+	}
+
+	"shop_saleon"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Sale On! All items on {1}%% discount!"
+	}
+
+	"shop_saleend"
+	{
+		"chi"		"Sale has ended!"
+	}
+
+	"shop_menu_title_sale"
+	{
+		"#format"	"{1:d}"
+		"chi"		"%%SALE%% {1}%% discount!"
+	}
+
+	"shop_randomtp"
+	{
+		"#format"	"{1:N}"
+		"chi"		"You teleported to {1}!"
+	}
+
+	"shop_randomtp_teleported"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} teleported to you!"
+	}
+
+	"shop_menu_randomtp"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Teleport to Random T [{1}¢]"
+	}
+
+	"shop_menu_jetpack"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Jetpack [{1}¢]"
+	}
+
+	"shop_jetpack"
+	{
+		"chi"		"You bought: Jetpack | press CTRL + SPACE (duck+jump)"
+	}
+
+	"shop_menu_jihad"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Jihad Bomb [{1}¢]"
+	}
+
+	"shop_jihad"
+	{
+		"chi"		"You bought: Jihad Bomb | press Mouse1 + E (attack+use)"
+	}
+
+	"shop_menu_door"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Open a door at view [{1}¢]"
+	}
+
+	"shop_door"
+	{
+		"chi"		"You bought: Open a door at view | press E (use) while watching a door"
+	}
+
+	"shop_menu_blackout"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Blackout - darken the map [{1}¢]"
+	}
+
+	"shop_blackout"
+	{
+		"chi"		"You bought: Blackout - Zzztt..."
+	}
+
+	"shop_blackout_all"
+	{
+		"chi"		"We have a critical power outage!"
+	}
+
+	"shop_noclipstuck"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} is stuck with NoClip!"
+	}
+
+	"shop_menu_freeday"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Freeday next round [{1}¢]"
+	}
+
+	"shop_freeday"
+	{
+		"chi"		"You bought: a Freeday for the next round"
+	}
+
+	"shop_randomtp_fail"
+	{
+		"#format"	"{1:d}"
+		"chi"		"There is no alive prisoner to teleport too."
+	}
+
+	"shop_shield"
+	{
+		"chi"		"You bought: a Tactical shield"
+	}
+
+	"shop_menu_shield"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Tactical shield [{1}¢]"
+	}
+
+	"shop_menu_icegrenade"
+	{
+		"#format"	"{1:d}"
+		"chi"		"Ice Grenade [{1}¢]"
+	}
+
+	"shop_icegrenade"
+	{
+		"chi"		"You bought: Ice Grenade"
+	}
+
+}
