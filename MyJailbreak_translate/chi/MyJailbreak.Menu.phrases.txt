@@ -165,7 +165,7 @@
 
 	"menu_zeus"
 	{
-		"chi"		"电击枪对决"
+		"chi"		"电击之日"
 	}
 
 	"menu_zombie"
@@ -205,12 +205,12 @@
 
 	"menu_drunk"
 	{
-		"chi"		"醉酒模式"
+		"chi"		"醉酒日"
 	}
 
 	"menu_torch"
 	{
-		"chi"		"传火"
+		"chi"		"传火日"
 	}
 
 	"menu_noscope"
@@ -220,7 +220,7 @@
 
 	"menu_duckhunt"
 	{
-		"chi"		"杀鸡模式"
+		"chi"		"杀鸡日"
 	}
 
 	"menu_admin"
@@ -256,7 +256,7 @@
 	"menu_votingwon"
 	{
 		"#format"	"{1:s},{2:i},{3:i}"
-		"chi"		"The vote has ended with {2} vote yet. {green}{1} {default}won with {3} votes."
+		"chi"		"投票以 {2} 结束. {green}{1} {default}以 {3} 票成为下一个游戏日."
 	}
 
 	"menu_minplayer"
@@ -333,7 +333,7 @@
 
 	"menu_jailshop"
 	{
-		"chi"		"打开监狱门"
+		"chi"		"打开监狱商店"
 	}
 
 	"menu_orders"

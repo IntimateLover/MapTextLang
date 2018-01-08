@@ -11,161 +11,161 @@
 	"ghosts_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Ghosts."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}幽灵模式."
 	}
 
 	"ghosts_voting"
 	{
-		"en"		"Voting for Ghosts is {purple}disabled!"
+		"en"		"为幽灵模式的投票被禁用!"
 	}
 
 	"ghosts_setbywarden"
 	{
-		"en"		"Set Ghosts by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}幽灵模式!"
 	}
 
 	"ghosts_setbyadmin"
 	{
-		"en"		"Set Ghosts by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}幽灵模式!"
 	}
 
 	"ghosts_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一名狱警获胜!"
 	}
 
 	"ghosts_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"en"		"一名匪徒获胜!"
 	}
 
 	"ghosts_minplayer"
 	{
-		"en"		"For Ghosts you need at least {purple}one Guard, & one Prisoner!"
+		"en"		"幽灵模式至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"ghosts_end"
 	{
-		"en"		"{purple}Ghosts{default} has ended!"
+		"en"		"{purple}幽灵模式{default} 游戏结束!"
 	}
 
 	"ghosts_next"
 	{
-		"en"		"The following round will be: {purple}Ghosts."
+		"en"		"下一回合: {purple}幽灵模式."
 	}
 
 	"ghosts_next_nc"
 	{
-		"en"		"The following round will be: Ghosts."
+		"en"		"下一回合: 幽灵模式."
 	}
 
 	"ghosts_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2} 回合"
 	}
 
 	"ghosts_start"
 	{
-		"en"		"{purple}Ghosts{default} has begun!"
+		"en"		"{purple}幽灵模式{default} 开始!"
 	}
 
 	"ghosts_start_nc"
 	{
-		"en"		"Ghosts has begun!"
+		"en"		"幽灵模式开始!"
 	}
 
 	"ghosts_voted"
 	{
-		"en"		"You have already voted for {purple}Ghosts!"
+		"en"		"已经给 {purple}幽灵模式{default}投票!"
 	}
 
 	"ghosts_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"ghosts_disabled"
 	{
-		"en"		"Ghosts is currently {purple}disabled!"
+		"en"		"幽灵模式 {purple}禁用!"
 	}
 
 	"ghosts_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until damage enabled"
+		"en"		"{1} 秒后无敌状态关闭"
 	}
 
 	"ghosts_info_title"
 	{
-		"en"		"Ghosts War is now Activated!"
+		"en"		"幽灵模式 开始!"
 	}
 
 	"ghosts_info_line1"
 	{
-		"en"		"You are Invisible & Immortal!"
+		"en"		"隐形的时候是无敌状态!"
 	}
 
 	"ghosts_info_line2"
 	{
-		"en"		"Every 10sec. all players become visible & hurtable"
+		"en"		"每过10秒,所有玩家显形并解除无敌状态"
 	}
 
 	"ghosts_info_line3"
 	{
-		"en"		"Free for All - Player VS Player - The last man standing wins!"
+		"en"		"幽灵模式是个人战，只有活到最后才能吃鸡!"
 	}
 
 	"ghosts_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则在本局可能不适用!"
 	}
 
 	"ghosts_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在本回合被禁用!"
 	}
 
 	"ghosts_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"ghosts_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"ghosts_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"ghosts_name"
 	{
-		"en"		"Ghosts War"
+		"en"		"幽灵模式"
 	}
 
 	"ghosts_visible"
 	{
-		"en"		"VISIBLE"
+		"en"		"显形"
 	}
 
 	"ghosts_invisible"
 	{
-		"en"		"INVISIBLE"
+		"en"		"隐身"
 	}
 
 	"ghosts_now_nc"
 	{
-		"en"		"Now a ghosts round begins."
+		"en"		"现在幽灵模式开始."
 	}
 
 	"ghosts_now"
 	{
-		"en"		"Now a {purple}ghosts{default} round begins."
+		"en"		"现在 {purple}幽灵模式{default} 开始."
 	}
 
 }
