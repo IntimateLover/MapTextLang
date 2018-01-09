@@ -37,7 +37,7 @@
 	"ratio_find"
 	{
 		"#format"	"{1:N}"
-		"chi"		"Finding the next guard from queue. {green}{1} {default}is the new guard."
+		"chi"		"在狱警队列中寻找玩家. {green}{1} {default}成为新的狱警."
 	}
 
 	"ratio_random"
@@ -48,7 +48,7 @@
 
 	"ratio_novalid"
 	{
-		"chi"		"Could not find a{green} valid player{default} to switch to guards. Contact an admin."
+		"chi"		"不能找到{green} 有效的玩家{default} 加入狱警. 联系管理员."
 	}
 
 	"ratio_number"
@@ -59,12 +59,12 @@
 
 	"ratio_thxvip"
 	{
-		"chi"		"Thank you for being a {darkred}VIP{default}! You have been moved to the {green}front of the queue!{default}"
+		"chi"		"感谢你成为{darkred}VIP{default}! 你可以排在{green}狱警队列前面!{default}"
 	}
 
 	"ratio_advip"
 	{
-		"chi"		"Get a {darkred}VIP{default} to be automatically moved to the front of the queue."
+		"chi"		"{darkred}VIP{default}可以自动排到狱警队列前面."
 	}
 
 	"ratio_movetot"
@@ -81,17 +81,17 @@
 
 	"ratio_notonqueue"
 	{
-		"chi"		"Your aren't in the guard queue!"
+		"chi"		"你不在狱警队列中!"
 	}
 
 	"ratio_leavedqueue"
 	{
-		"chi"		"You are no longer in the guard queue!"
+		"chi"		"你已经取消排队!"
 	}
 
 	"ratio_accept_title"
 	{
-		"chi"		"Guard Qualifications"
+		"chi"		"成为狱警资格"
 	}
 
 	"ratio_accept_line1"
@@ -131,92 +131,92 @@
 
 	"ratio_question_title"
 	{
-		"chi"		"Please answer the following questions to become a Guard."
+		"chi"		"成为狱警前,请回答以下问题."
 	}
 
 	"ratio_question1_line1"
 	{
-		"chi"		"The Cell Doors are closed, the prisoners are inside!"
+		"chi"		"监狱门是关闭状态, 匪徒都在监狱里面!"
 	}
 
 	"ratio_question1_line2"
 	{
-		"chi"		"What will you do?"
+		"chi"		"你会怎么做?"
 	}
 
 	"ratio_question1_wrong1"
 	{
-		"chi"		"I wait until cells open, and kill'em all!"
+		"chi"		"监狱门一开, 全部干掉!"
 	}
 
 	"ratio_question1_wrong2"
 	{
-		"chi"		"Kill'em one by one until Last Request."
+		"chi"		"杀到他们能LR为止."
 	}
 
 	"ratio_question1_right"
 	{
-		"chi"		"I wait for the warden first announcement."
+		"chi"		"我会等待监狱长的第一条指令."
 	}
 
 	"ratio_question2_line1"
 	{
-		"chi"		"The warden sucks & this round is boring as shit."
+		"chi"		"这一回合监狱长很无聊."
 	}
 
 	"ratio_question2_line2"
 	{
-		"chi"		"Drop your gun and give it to an prisoner to accelerate the round!"
+		"chi"		"把枪丢给囚犯,然后让加速结束此回合!"
 	}
 
 	"ratio_question2_wrong1"
 	{
-		"chi"		"This is a good idea."
+		"chi"		"这太棒了!"
 	}
 
 	"ratio_question2_wrong2"
 	{
-		"chi"		"Never! Just when the prisoner is my mate!"
+		"chi"		"不行! 除非囚犯是我的朋友!"
 	}
 
 	"ratio_question2_right"
 	{
-		"chi"		"Never! Dropping a gun (Gun Planting) is forbidden!"
+		"chi"		"不可以! 丢枪非囚犯是禁止的!"
 	}
 
 	"ratio_question3_line1"
 	{
-		"chi"		"Have you read the server rules?"
+		"chi"		"你已经熟读服务器规则了?"
 	}
 
 	"ratio_question3_line2"
 	{
-		"chi"		"Do you understand the server rules?"
+		"chi"		"你已经明白服务器规则了?"
 	}
 
 	"ratio_question3_wrong1"
 	{
-		"chi"		"Yeah, I read them. I'm not going to follow them."
+		"chi"		"是的, 我看过了. 不过我不会遵守规则的."
 	}
 
 	"ratio_question3_wrong2"
 	{
-		"chi"		"Reading? I'm here to play lol!"
+		"chi"		"这还要读? 不是随便玩吗!"
 	}
 
 	"ratio_question3_right"
 	{
-		"chi"		"Yeah, I read them. I know how to play on this server."
+		"chi"		"是, 我已经阅读过了. 我知道我应该怎么玩."
 	}
 
 	"ratio_question4_line1"
 	{
-		"chi"		"Do you have a working microphone?"
+		"chi"		"你有一个正常而又清晰的麦克风吗?"
 	}
 
 	"ratio_question4_line2"
 	{
-		"chi"		"Do you speak the server language?"
+		"chi"		"你会说标准的普通话吗?"
 	}
 
 	"ratio_question4_wrong1"
@@ -226,69 +226,69 @@
 
 	"ratio_question4_wrong2"
 	{
-		"chi"		"My microphone is broken, I will type the commands."
+		"chi"		"我的麦克风5毛钱买的, 我想做打字狱长."
 	}
 
 	"ratio_question4_right"
 	{
-		"chi"		"I have a working, decent quality microphone."
+		"chi"		"我的麦克风清晰又正常."
 	}
 
 	"ratio_question5_line1"
 	{
-		"chi"		"The Warden has been killed, and you are one of the last guards."
+		"chi"		"监狱长已经死亡, 你是狱警之一."
 	}
 
 	"ratio_question5_line2"
 	{
-		"chi"		"Would you play as Warden?"
+		"chi"		"你会上狱长吗?"
 	}
 
 	"ratio_question5_wrong1"
 	{
-		"chi"		"Better start a freeday..."
+		"chi"		"都自由了,还不跑吗..."
 	}
 
 	"ratio_question5_wrong2"
 	{
-		"chi"		"Kill every prisoner one by one until Last Request."
+		"chi"		"杀囚犯杀到可以LR为止."
 	}
 
 	"ratio_question5_right"
 	{
-		"chi"		"As guard, of course I will have to play as the new Warden."
+		"chi"		"作为狱警, 必须要当狱长."
 	}
 
 	"ratio_cooldown"
 	{
-		"chi"		"You are blocked for missing right answer. Try it next round."
+		"chi"		"你回答错误. 下一回合再次尝试."
 	}
 
 	"ratio_disabled"
 	{
-		"chi"		"Ratio is disabled by Admin"
+		"chi"		"管理员禁用了ratio"
 	}
 
 	"ratio_hasdisabled"
 	{
-		"chi"		"Admin has disabled the Ratio"
+		"chi"		"管理员禁用了ratio"
 	}
 
 	"ratio_hasactivated"
 	{
-		"chi"		"Admin has activated the Ratio. Ratio fix next round."
+		"chi"		"管理员启用了ratio. Ratio 下一回合生效."
 	}
 
 	"ratio_active"
 	{
 		"#format"	"{1:f}"
-		"chi"		"Ratio is active! 1 Guards to {1} Prisoners"
+		"chi"		"Ratio 生效! 一名狱警 to {1} 囚犯"
 	}
 
 	"ratio_stamm"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You need at least {1} Stamm Points to play as a guard"
+		"chi"		"你至少需要 {1} 点才能成为狱警!"
 	}
 
 	"ratio_banned_nc"
@@ -304,12 +304,12 @@
 	"ratio_reputation"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You need at least {1} Reputation Points to play as a guard"
+		"chi"		"你至少需要 {1} 名誉点才能成为狱警"
 	}
 
 	"ratio_remove"
 	{
-		"chi"		"Remove from Queue:"
+		"chi"		"移除队列中的某人:"
 	}
 
 	"ratio_banned"
@@ -320,7 +320,7 @@
 	"ratio_rankme"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You need at least {1} RankMe Points to play as a guard"
+		"chi"		"你至少需要 {1} RankMe 点才能成为狱警"
 	}
 
 	"ratio_close"
@@ -330,12 +330,12 @@
 
 	"ratio_steamrep"
 	{
-		"chi"		"Cannot play on guards because you are a {red}SCAMMER{default}. see steamrep.com"
+		"chi"		"你不能成为狱警,因为你是个{red}骗子{default}. 查看 steamrep.com"
 	}
 
 	"ratio_sure"
 	{
-		"chi"		"Are you sure?"
+		"chi"		"你确定?"
 	}
 
 	"ratio_yes"
@@ -350,13 +350,13 @@
 
 	"ratio_steamgroup"
 	{
-		"chi"		"Cannot play on guards, you need to join our steamgroup first"
+		"chi"		"不能加入狱警, 你首先需要加入我们的steam组"
 	}
 
 	"ratio_lvlranks"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You need at least Level {1} to play as a guard"
+		"chi"		"你需要达到等级 {1} 才能成为狱警"
 	}
 
 	"ratio_hours"
@@ -377,28 +377,28 @@
 	"ratio_mostactive"
 	{
 		"#format"	"{1:s}"
-		"chi"		"You must have played at least {1} to play as a guard."
+		"chi"		"你至少需要玩 {1} 才能成为狱警."
 	}
 
 	"ratio_mostactive_terror"
 	{
 		"#format"	"{1:s}"
-		"chi"		"You must have played at least {1} as terror to play as a guard."
+		"chi"		"你至少需要当 {1} 次囚犯后才能成为狱警."
 	}
 
 	"ratio_guard_enable"
 	{
-		"chi"		"You allow to be picked as random guard when guard queue is empty"
+		"chi"		"当狱警队列为空时,你{red}会{default}被系统随机选择成为狱警"
 	}
 
 	"ratio_guard_disable"
 	{
-		"chi"		"You deny to be picked as random guard when guard queue is empty"
+		"chi"		"当狱警队列为空时,你{red}不会{default}被系统随机选择成为狱警"
 	}
 
 	"ratio_swap_spec"
 	{
-		"chi"		"You was swapped to T Team, since you joined in the guard queue"
+		"chi"		"你加入了囚犯队伍, 因为你加入了狱警队列"
 	}
 
 }
