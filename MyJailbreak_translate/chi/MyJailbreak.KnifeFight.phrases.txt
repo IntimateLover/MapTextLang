@@ -11,151 +11,151 @@
 	"knifefight_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}Knife Fight."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}刀战."
 	}
 
 	"knifefight_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"knifefight_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"en"		"一名囚犯获胜!"
 	}
 
 	"knifefight_voting"
 	{
-		"en"		"Voting for Knife Fight is {purple}disabled!"
+		"en"		"为刀战的投票被禁用!"
 	}
 
 	"knifefight_setbywarden"
 	{
-		"en"		"Set Knife Fight by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}刀战!"
 	}
 
 	"knifefight_setbyadmin"
 	{
-		"en"		"Set Knife Fight by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}刀战!"
 	}
 
 	"knifefight_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一名狱警获胜!"
 	}
 
 	"knifefight_minplayer"
 	{
-		"en"		"For Knife Fight you need at least {purple}one Guard and one Prisoner!"
+		"en"		"刀战至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"knifefight_end"
 	{
-		"en"		"{purple}Knife Fight{default} has ended."
+		"en"		"{purple}刀战{default} 结束."
 	}
 
 	"knifefight_next"
 	{
-		"en"		"The following round will be: {purple}Knife Fight."
+		"en"		"下一回合: {purple}刀战."
 	}
 
 	"knifefight_next_nc"
 	{
-		"en"		"The following round will be: Knife Fight."
+		"en"		"下一回合: 刀战."
 	}
 
 	"knifefight_start"
 	{
-		"en"		"{purple}Knife Fight{default} has begun!"
+		"en"		"{purple}刀战{default} 开始!"
 	}
 
 	"knifefight_start_nc"
 	{
-		"en"		"Knife Fight has begun!"
+		"en"		"刀战 开始!"
 	}
 
 	"knifefight_voted"
 	{
-		"en"		"You have already voted for {purple}Knife Fight"
+		"en"		"已经给{purple}刀战{default}投票t"
 	}
 
 	"knifefight_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"knifefight_disabled"
 	{
-		"en"		"Knife Fight currently {purple}disabled!"
+		"en"		"刀战目前被 {purple}禁用!"
 	}
 
 	"knifefight_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后开始!"
 	}
 
 	"knifefight_info_title"
 	{
-		"en"		"FFA Knife Fight - Free for All is now activated"
+		"en"		"刀战-个人战 开始"
 	}
 
 	"knifefight_info_line1"
 	{
-		"en"		"Do not be surprised if ported to CT Spawn"
+		"en"		"如果你出生在CT出生点,不要惊讶"
 	}
 
 	"knifefight_info_line2"
 	{
-		"en"		"IceSkates, Thirdperson & Low Gravity activatet."
+		"en"		"所有人都是低重力,第三人称视角,并且有溜冰鞋."
 	}
 
 	"knifefight_info_line3"
 	{
-		"en"		"Run away during the 'NoDamage' phase!"
+		"en"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"knifefight_info_line4"
 	{
-		"en"		"All ususal Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则此回合可能不适用!"
 	}
 
 	"knifefight_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在本回合禁用!"
 	}
 
 	"knifefight_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter vents or secret areas!"
+		"en"		"你必须呆在监狱范围内! 不能进入密道!"
 	}
 
 	"knifefight_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"knifefight_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"knifefight_name"
 	{
-		"en"		"Knife Fight"
+		"en"		"刀战"
 	}
 
 	"knifefight_now_nc"
 	{
-		"en"		"Now a knifefight round begins."
+		"en"		"新一轮的刀战 开始."
 	}
 
 	"knifefight_now"
 	{
-		"en"		"Now a {purple}knifefight{default} round begins."
+		"en"		"{purple}刀战{default} 开始."
 	}
 
 }
