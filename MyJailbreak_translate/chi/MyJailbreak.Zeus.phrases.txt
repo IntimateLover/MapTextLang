@@ -20,7 +20,7 @@
 
 	"zeus_twin_nc"
 	{
-		"chi"		"一个囚犯苟下来了!"
+		"chi"		"一个囚犯存活!"
 	}
 
 	"zeus_voting"
@@ -30,7 +30,7 @@
 
 	"zeus_setbywarden"
 	{
-		"chi"		"狱警{purple}不能设置{default}电击之日!"
+		"chi"		"监狱长{purple}不能设置{default}电击之日!"
 	}
 
 	"zeus_setbyadmin"
@@ -102,7 +102,7 @@
 
 	"zeus_info_line1"
 	{
-		"chi"		"电击之日 - 自由死斗!!!"
+		"chi"		"电击之日 - 个人战!!!"
 	}
 
 	"zeus_info_line2"
@@ -117,17 +117,17 @@
 
 	"zeus_info_line4"
 	{
-		"chi"		"正常的越狱规则此回合可能不适用!"
+		"chi"		"部分越狱规则在此回合可能不适用!"
 	}
 
 	"zeus_info_line5"
 	{
-		"chi"		"上一次请求在此回合禁用!"
+		"chi"		"LR在此回合禁用!"
 	}
 
 	"zeus_info_line6"
 	{
-		"chi"		"你必须留在主牢房! 不要去管道或者密道躲起来!"
+		"chi"		"你必须留在监狱范围! 不能进入密道!"
 	}
 
 	"zeus_info_line7"
