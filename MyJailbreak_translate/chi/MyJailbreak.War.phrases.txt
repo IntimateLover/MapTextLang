@@ -162,12 +162,12 @@
 
 	"war_now_nc"
 	{
-		"chi"		"现在混战日开始."
+		"chi"		"新一轮的混战日开始."
 	}
 
 	"war_now"
 	{
-		"chi"		"现在 {purple}混战日{default} 开始."
+		"chi"		"{purple}混战日{default} 开始."
 	}
 
 }
