@@ -11,151 +11,151 @@
 	"noscope_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}No Scope Battle."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}低重力无镜狙击."
 	}
 
 	"noscope_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"noscope_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"en"		"一名囚犯获胜!"
 	}
 
 	"noscope_voting"
 	{
-		"en"		"Voting for No Scope Battle is {purple}disabled!"
+		"en"		"为低重力无镜狙击的投票被禁用!"
 	}
 
 	"noscope_setbywarden"
 	{
-		"en"		"Set No Scope Battle by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}低重力无镜狙击!"
 	}
 
 	"noscope_minplayer"
 	{
-		"en"		"For No Scope Battle you need at least {purple}one Guard & one Prisoner!"
+		"en"		"低重力无镜狙击至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"noscope_setbyadmin"
 	{
-		"en"		"Set No Scope Battle by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}低重力无镜狙击!"
 	}
 
 	"noscope_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一名狱警获胜!"
 	}
 
 	"noscope_end"
 	{
-		"en"		"{purple}No Scope Battle{default} has ended."
+		"en"		"{purple}低重力无镜狙击{default} 结束."
 	}
 
 	"noscope_next"
 	{
-		"en"		"The following round will be: {purple}No Scope Battle."
+		"en"		"下一回合: {purple}低重力无镜狙击."
 	}
 
 	"noscope_next_nc"
 	{
-		"en"		"The following round will be: No Scope Battle."
+		"en"		"下一回合: 低重力无镜狙击."
 	}
 
 	"noscope_start"
 	{
-		"en"		"The {purple}No Scope Battle Battle{default} has begun!"
+		"en"		"{purple}低重力无镜狙击{default} 开始!"
 	}
 
 	"noscope_start_nc"
 	{
-		"en"		"The No Scope Battle Battle has begun!"
+		"en"		"低重力无镜狙击 开始!"
 	}
 
 	"noscope_voted"
 	{
-		"en"		"You have already voted for {purple}No Scope Battle!"
+		"en"		"已经给{purple}低重力无镜狙击{default}投票!"
 	}
 
 	"noscope_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"noscope_disabled"
 	{
-		"en"		"No Scope Battle is currently {purple}disabled!"
+		"en"		"低重力无镜狙击目前被 {purple}禁用!"
 	}
 
 	"noscope_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后开始!"
 	}
 
 	"noscope_info_title"
 	{
-		"en"		"NoScope Battle is now activated"
+		"en"		"低重力无镜狙击 开始"
 	}
 
 	"noscope_info_line1"
 	{
-		"en"		"No Scope Battle - Free for All!"
+		"en"		"低重力无镜狙击 - 个人战!"
 	}
 
 	"noscope_info_line2"
 	{
-		"en"		"Low Gravity is Enabled!"
+		"en"		"所有人都是低重力状态!"
 	}
 
 	"noscope_info_line3"
 	{
-		"en"		"Run away during the 'NoDamage' phase!"
+		"en"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"noscope_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则在本局可能不适用!"
 	}
 
 	"noscope_info_line5"
 	{
-		"en"		"Last Requests are disabled during this round!"
+		"en"		"LR在此回合被禁用!"
 	}
 
 	"noscope_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter Vents or Secrets!"
+		"en"		"你必须留在监狱范围内! 不能进入密道!"
 	}
 
 	"noscope_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"noscope_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"noscope_name"
 	{
-		"en"		"No Scope Battle"
+		"en"		"低重力无镜狙击"
 	}
 
 	"noscope_now_nc"
 	{
-		"en"		"Now a noscope round begins."
+		"en"		"新一轮的低重力无镜狙击开始."
 	}
 
 	"noscope_now"
 	{
-		"en"		"Now a {purple}noscope{default} round begins."
+		"en"		"{purple}低重力无镜狙击{default} 开始."
 	}
 
 }
