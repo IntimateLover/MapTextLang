@@ -11,151 +11,151 @@
 	"cowboy_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Cowboy!"
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}牛仔模式!"
 	}
 
 	"cowboy_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}."
+		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合."
 	}
 
 	"cowboy_twin_nc"
 	{
-		"en"		"A Prisoner has surrived!"
+		"en"		"一名囚犯获胜!"
 	}
 
 	"cowboy_voting"
 	{
-		"en"		"Voting for Cowboy is currently {purple}disabled!"
+		"en"		"为牛仔模式的投票被禁用!"
 	}
 
 	"cowboy_setbywarden"
 	{
-		"en"		"Set Cowboy by warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}牛仔模式!"
 	}
 
 	"cowboy_minplayer"
 	{
-		"en"		"For Cowboy, you must have at least {purple}one Guard, & one Prisoner"
+		"en"		"牛仔模式至少需要{purple}一个狱警和囚犯"
 	}
 
 	"cowboy_setbyadmin"
 	{
-		"en"		"Set Cowboy by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}牛仔模式!"
 	}
 
 	"cowboy_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一名狱警获胜!"
 	}
 
 	"cowboy_end"
 	{
-		"en"		"{purple}Cowboy{default} has ended."
+		"en"		"{purple}牛仔模式{default} 结束."
 	}
 
 	"cowboy_next"
 	{
-		"en"		"The following round will be: {purple}Cowboy."
+		"en"		"下一回合: {purple}牛仔模式."
 	}
 
 	"cowboy_next_nc"
 	{
-		"en"		"The following round will be: Cowboy."
+		"en"		"下一回合: 牛仔模式."
 	}
 
 	"cowboy_start"
 	{
-		"en"		"{purple}Cowboy{default} has begun!"
+		"en"		"{purple}牛仔模式{default} 开始!"
 	}
 
 	"cowboy_start_nc"
 	{
-		"en"		"Cowboy has begun!"
+		"en"		"牛仔模式 开始!"
 	}
 
 	"cowboy_voted"
 	{
-		"en"		"You have already voted for {purple}Cowboy!"
+		"en"		"已经给{purple}牛仔模式{default}投票!"
 	}
 
 	"cowboy_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"cowboy_disabled"
 	{
-		"en"		"Cowboy is currently {purple}disabled!"
+		"en"		"牛仔模式目前被 {purple}禁用!"
 	}
 
 	"cowboy_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后回合开始!"
 	}
 
 	"cowboy_info_line1"
 	{
-		"en"		"Cowboy - Free for all!"
+		"en"		"牛仔模式 - 个人战!"
 	}
 
 	"cowboy_info_line2"
 	{
-		"en"		"Pistol Battle - DM"
+		"en"		"使用双持沙鹰战斗"
 	}
 
 	"cowboy_info_line3"
 	{
-		"en"		"You can move around during the 'NoDamage' phase!"
+		"en"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"cowboy_info_line4"
 	{
-		"en"		"All usual Jailbreak rules do not apply during this round!"
+		"en"		"部分越狱规则在本回合可能不适用!"
 	}
 
 	"cowboy_info_line5"
 	{
-		"en"		"Last requests are disabled during this round!"
+		"en"		"LR在此回合被禁用!"
 	}
 
 	"cowboy_info_line6"
 	{
-		"en"		"Stay in the main jailroom! Don't enter secrets!"
+		"en"		"留在监狱范围内,不能进密道!"
 	}
 
 	"cowboy_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"cowboy_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"cowboy_name"
 	{
-		"en"		"Cowboy"
+		"en"		"牛仔模式"
 	}
 
 	"cowboy_info_title"
 	{
-		"en"		"Cowboy is now Activated!"
+		"en"		"牛仔模式 开始!"
 	}
 
 	"cowboy_now_nc"
 	{
-		"en"		"Now a cowboy round begins."
+		"en"		"新一轮的牛仔模式开始."
 	}
 
 	"cowboy_now"
 	{
-		"en"		"Now a {purple}cowboy{default} round begins."
+		"en"		"{purple}牛仔模式{default} 开始."
 	}
 
 }
