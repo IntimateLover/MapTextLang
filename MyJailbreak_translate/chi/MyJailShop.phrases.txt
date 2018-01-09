@@ -10,74 +10,74 @@
 
 	"shop_alive"
 	{
-		"chi"		"You need to be alive to buy items!"
+		"chi"		"死亡时不能购买物品!"
 	}
 
 	"shop_alreadyopen"
 	{
-		"chi"		"The cells are already open."
+		"chi"		"监狱门已经打开."
 	}
 
 	"shop_awp"
 	{
-		"chi"		"You bought: AWP with one shots, know use it!"
+		"chi"		"你买了: 一发子弹的AWP, 请尽情地使用吧!"
 	}
 
 	"shop_bhop"
 	{
-		"chi"		"Now you have BunnyHop, have fun!"
+		"chi"		"你现在有了连跳能力, 请尽情地使用吧!"
 	}
 
 	"shop_bird"
 	{
-		"chi"		"You are a bird! Toggle fly with '+dropweapon'"
+		"chi"		"你是只鸟! 使用 '丢武器键'切换飞行"
 	}
 
 	"shop_buytime"
 	{
-		"chi"		"The buy time is past. You can buy next round again."
+		"chi"		"购买时间已过. 你可以在下一回合再购买."
 	}
 
 	"shop_costs"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"Costs: {2} ¢redits. Now, you have {1} ¢redits"
+		"chi"		"花费: {2} 点. 现在, 你剩余 {1} 点"
 	}
 
 	"shop_credits"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Yours current ¢redits are: {1}!"
+		"chi"		"你现在的点数是: {1}!"
 	}
 
 	"shop_dead"
 	{
-		"chi"		"You need be dead to use this item!"
+		"chi"		"你必须死亡才能使用此物品!"
 	}
 
 	"shop_deagle"
 	{
-		"chi"		"You bought: Deagle with seven shots, know use it!"
+		"chi"		"你买了: 七发子弹的沙鹰,请尽情地使用吧!"
 	}
 
 	"shop_disabled"
 	{
-		"chi"		"Jail shop is currently {purple}disabled{default}!"
+		"chi"		"监狱商店目前被 {purple}禁用{default}!"
 	}
 
 	"shop_firegrenade"
 	{
-		"chi"		"You bought: HE that burn the opponent!"
+		"chi"		"你买了: 燃烧瓶!"
 	}
 
 	"shop_froggyjump"
 	{
-		"chi"		"Now you have Froggy jump!"
+		"chi"		"你现在有了高跳能力!"
 	}
 
 	"shop_fulllive"
 	{
-		"chi"		"You're already on full health!"
+		"chi"		"你现在回满了血!"
 	}
 
 	"shop_get"
@@ -89,381 +89,381 @@
 	"shop_getset"
 	{
 		"#format"	"{1:d},{2:N}"
-		"chi"		"Your ¢redits was set to {1} by {2}"
+		"chi"		"你的点数被 {2} 设置为 {1}. "
 	}
 
 	"shop_give"
 	{
 		"#format"	"{1:d},{2:N}"
-		"chi"		"Now you have low gravity!"
+		"chi"		"你现在是低重力状态!"
 	}
 
 	"shop_gravity"
 	{
-		"chi"		"Now you have low gravity!"
+		"chi"		"你现在是低重力状态!"
 	}
 
 	"shop_heal"
 	{
-		"chi"		"You healed!"
+		"chi"		"你被治疗!"
 	}
 
 	"shop_health"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Now you have +{1}HP and kevlar & helm!"
+		"chi"		"你现在加了{1}血和头盔带甲!"
 	}
 
 	"shop_invisible"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Now you're invisible for {1} seconds!"
+		"chi"		"你隐身状态剩余 {1} 秒!"
 	}
 
 	"shop_killedct"
 	{
 		"#format"	"{1:d},{2:d},{3:N}"
-		"chi"		"You get {2} ¢redits for killing the guard {3}. Now you have: {1}¢"
+		"chi"		"你杀死狱警得到了 {2} 点 {3}. 现在你有: {1}点"
 	}
 
 	"shop_killedt"
 	{
 		"#format"	"{1:d},{2:d},{3:N}"
-		"chi"		"You get {2} ¢redits for killing the prisoner {3}. Now you have: {1}¢"
+		"chi"		"你杀死囚犯得到了 {2} 点 {3}. 现在你有: {1}¢"
 	}
 
 	"shop_knife"
 	{
-		"chi"		"You bought: One hit knife!"
+		"chi"		"你买了:金刀!"
 	}
 
 	"shop_lastrequest"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"You get {2} ¢redits for attain the last request. Now you have: {1}¢"
+		"chi"		"你活到了LR阶段得到了 {2} 点. 现在你有: {1}¢"
 	}
 
 	"shop_max"
 	{
-		"chi"		"You have already bought this item in this round, wait for the next round to buy again."
+		"chi"		"此物品这个回合你已经购买了,下一回合才能购买 ."
 	}
 
 	"shop_maxcredits"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Your ¢redits on shop: {1}, maximum allowed!"
+		"chi"		"你的点数: {1}, 已达到上限!"
 	}
 
 	"shop_menu_armor"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Armor [{1}¢]"
+		"chi"		"买甲 [{1}点]"
 	}
 
 	"shop_menu_awp"
 	{
 		"#format"	"{1:d}"
-		"chi"		"AWP with 1 bullet [{1}¢]"
+		"chi"		"一发子弹的AWP [{1}点]"
 	}
 
 	"shop_menu_bhop"
 	{
 		"#format"	"{1:d}"
-		"chi"		"BunnyHop [{1}¢]"
+		"chi"		"连跳 [{1}点]"
 	}
 
 	"shop_menu_bird"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Be a Bird [{1}¢]"
+		"chi"		"飞行 [{1}点]"
 	}
 
 	"shop_menu_deagle"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Deagle with 1 mag [{1}¢]"
+		"chi"		"七发子弹的沙鹰 [{1}点]"
 	}
 
 	"shop_menu_firegrenade"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Napalm HE [{1}¢]"
+		"chi"		"燃烧弹 [{1}点]"
 	}
 
 	"shop_menu_froggyjump"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Froggy jump [{1}¢]"
+		"chi"		"高跳 [{1}点]"
 	}
 
 	"shop_menu_gravity"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Low gravity [{1}¢]"
+		"chi"		"低重力 [{1}点]"
 	}
 
 	"shop_menu_heal"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Heal [{1}¢]"
+		"chi"		"加血 [{1}点]"
 	}
 
 	"shop_menu_health"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"+{2}hp and armor [{1}¢]"
+		"chi"		"加{2}血和甲 [{1}点]"
 	}
 
 	"shop_menu_invisible"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"Invisible for {2} sec. [{1}¢]"
+		"chi"		"隐身 {2} 秒. [{1}点]"
 	}
 
 	"shop_menu_knife"
 	{
 		"#format"	"{1:d}"
-		"chi"		"One hit knife [{1}¢]"
+		"chi"		"黄金小刀 [{1}点]"
 	}
 
 	"shop_menu_model"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Guard model [{1}¢]"
+		"chi"		"伪装成狱警 [{1}点]"
 	}
 
 	"shop_menu_molotov"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Molotov + 2 flashs [{1}¢]"
+		"chi"		"燃烧弹 + 2 闪光弹 [{1}点]"
 	}
 
 	"shop_menu_noclip"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"No Clip for {2} sec. [{1}¢]"
+		"chi"		"飞行无敌 {2} 秒. [{1}点]"
 	}
 
 	"shop_menu_nodamage"
 	{
 		"#format"	"{1:d}"
-		"chi"		"No damage for 20 seconds [{1}¢]"
+		"chi"		"无敌 20 秒 [{1}点]"
 	}
 
 	"shop_menu_openjail"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Open Jails [{1}¢]"
+		"chi"		"打开监狱门 [{1}点]"
 	}
 
 	"shop_menu_playercredits"
 	{
-		"chi"		"Players ¢redits on shop:"
+		"chi"		"玩家点数:"
 	}
 
 	"shop_menu_player¢redits"
 	{
-		"chi"		"Players ¢redits on shop:"
+		"chi"		"玩家点数:"
 	}
 
 	"shop_menu_poisonsmoke"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Poison Smoke [{1}¢]"
+		"chi"		"毒烟 [{1}点]"
 	}
 
 	"shop_menu_revive"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Revive [{1}¢]"
+		"chi"		"复活 [{1}点]"
 	}
 
 	"shop_menu_taser"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Taser with 3 Bullets [{1}¢]"
+		"chi"		"三发子弹电击枪 [{1}点]"
 	}
 
 	"shop_menu_teleportsmoke"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Teleporter Smoke [{1}¢]"
+		"chi"		"传送烟雾 [{1}点]"
 	}
 
 	"shop_menu_throwingknife"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Throwing one hit knife [{1}¢]"
+		"chi"		"小李飞刀 [{1}点]"
 	}
 
 	"shop_menu_title"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Jail Shop. You have {1}¢"
+		"chi"		"监狱商店.你有 {1}点"
 	}
 
 	"shop_menu_vampire"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Vampire [{1}¢]"
+		"chi"		"吸血功能 [{1}点]"
 	}
 
 	"shop_menu_wallhack"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Wallhack [{1}¢]"
+		"chi"		"透视 [{1}点]"
 	}
 
 	"shop_missingcredits"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"Your ¢redits: {1} (You do not have enough. You need: {2}¢)"
+		"chi"		"你的点数: {1} (不足以购买此物品. 你需要: {2}点)"
 	}
 
 	"shop_model"
 	{
-		"chi"		"You are now disguised as a guard, be careful!"
+		"chi"		"你现在已经伪装成了狱警,小心点!"
 	}
 
 	"shop_molotov"
 	{
-		"chi"		"You bought: Molotov + 2 flashs!"
+		"chi"		"你购买了: 燃烧瓶 + 2个闪光弹!"
 	}
 
 	"shop_noclip"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Now you have no clip for {1} seconds!"
+		"chi"		"你的飞行无敌状态持续 {1} 秒!"
 	}
 
 	"shop_noclipend"
 	{
 		"#format"	"{1:N}"
-		"chi"		"NoClip has ended!"
+		"chi"		"飞行无敌状态结束!"
 	}
 
 	"shop_nodamage"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Now you're immortal for {1} seconds!"
+		"chi"		"你的无敌状态持续 {1} 秒!"
 	}
 
 	"shop_onlyt"
 	{
-		"chi"		"This item is only for prisioners!"
+		"chi"		"只有囚犯才能购买此物品!"
 	}
 
 	"shop_opencell"
 	{
-		"chi"		"You opened the jails."
+		"chi"		"你打开了监狱门."
 	}
 
 	"shop_opencellall"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} has opened all jails with shop"
+		"chi"		"{1} 打开了监狱门"
 	}
 
 	"shop_playtime"
 	{
 		"#format"	"{1:d}"
-		"chi"		"You get {1} ¢redits for playing on this server"
+		"chi"		"你在服务器上游玩获得了 {1} 点数"
 	}
 
 	"shop_poisensmoke"
 	{
-		"chi"		"You bought: Poison Smoke!"
+		"chi"		"你购买了: 毒烟!"
 	}
 
 	"shop_revived"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} has been revived!"
+		"chi"		"{1} 已经复活!"
 	}
 
 	"shop_revivehint"
 	{
 		"#format"	"{1:d}"
-		"chi"		"You died, can use !revive for {1} credits!"
+		"chi"		"你已经死亡, 可以输入 !revive 复活,需要花费 {1} 点数!"
 	}
 
 	"shop_set"
 	{
 		"#format"	"{1:d},{2:N}"
-		"chi"		"You set {2} ¢redits to {1}"
+		"chi"		"你设置 {2} 点数给了 {1}"
 	}
 
 	"shop_tag"
 	{
-		"chi"		"[{green}jail.shop{default}]"
+		"chi"		"[{green}监狱商店{default}]"
 	}
 
 	"shop_taser"
 	{
-		"chi"		"You bought: Taser with 3 shots, know use it!"
+		"chi"		"你购买了: 三发子弹的电击枪, 现在你就是杨永信!"
 	}
 
 	"shop_teleportsmoke"
 	{
-		"chi"		"You bought: Teleporter Smoke!"
+		"chi"		"你购买了: 传送烟雾!"
 	}
 
 	"shop_throwingknife"
 	{
-		"chi"		"You bought: Throwing knife!"
+		"chi"		"你购买了: 小李飞刀!"
 	}
 
 	"shop_tonly"
 	{
-		"chi"		"Shop only for prisioners!"
+		"chi"		"监狱商店只有囚犯才能使用!"
 	}
 
 	"shop_unnodamage"
 	{
-		"chi"		"Now you're mortal again!"
+		"chi"		"你的无敌状态已经解除!"
 	}
 
 	"shop_vapire"
 	{
-		"chi"		"Now you're a vampire!"
+		"chi"		"你现在有了吸血能力!"
 	}
 
 	"shop_visible"
 	{
-		"chi"		"Now you're visible again!"
+		"chi"		"你的隐身状态已经解除!"
 	}
 
 	"shop_wallhack"
 	{
-		"chi"		"Now you have Wallhack!"
+		"chi"		"现在你有了透视能力!"
 	}
 
 	"shop_welcome"
 	{
-		"chi"		"Type !jailshop to open the shop. Kill/win/play to win ¢redits on shop."
+		"chi"		"在聊天框输入 !jailshop 打开监狱商店. 杀敌/获胜/在服务器游玩 都可以获得点数."
 	}
 
 	"shop_menu_paperclip"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"Get {2} paperclip(s). [{1}¢]"
+		"chi"		"获得 {2} 回形针. [{1}点]"
 	}
 
 	"shop_paperclip"
 	{
 		"#format"	"{1:d}"
-		"chi"		"You bought: {1} paperclip(s) for handcuffs!"
+		"chi"		"你购买了: {1} paperclip(s) for handcuffs!"
 	}
 
 	"shop_unwallhack"
 	{
-		"chi"		"Wallhack has ended!"
+		"chi"		"透视状态已解除!"
 	}
 
 	"shop_win"
 	{
 		"#format"	"{1:d},{2:d}"
-		"chi"		"You get {2} ¢redits for winning the round. Now you have: {1}¢"
+		"chi"		"你在本回合获胜并获得了 {2} 点. 现在你有: {1}点"
 	}
 
 	"shop_giftyourself"
@@ -473,86 +473,86 @@
 
 	"shop_onlyct"
 	{
-		"chi"		"This item is only for guards!"
+		"chi"		"只有狱警才能购买此物品!"
 	}
 
 	"shop_saleon"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Sale On! All items on {1}%% discount!"
+		"chi"		"限时促销开始! 所有物品折扣为 {1}%% !"
 	}
 
 	"shop_saleend"
 	{
-		"chi"		"Sale has ended!"
+		"chi"		"限时促销活动结束!"
 	}
 
 	"shop_menu_title_sale"
 	{
 		"#format"	"{1:d}"
-		"chi"		"%%SALE%% {1}%% discount!"
+		"chi"		"%%限时促销%% {1}%% !"
 	}
 
 	"shop_randomtp"
 	{
 		"#format"	"{1:N}"
-		"chi"		"You teleported to {1}!"
+		"chi"		"你传送到 {1}身边!"
 	}
 
 	"shop_randomtp_teleported"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} teleported to you!"
+		"chi"		"{1} 传送到你身边!"
 	}
 
 	"shop_menu_randomtp"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Teleport to Random T [{1}¢]"
+		"chi"		"传送到某一个队友 [{1}点]"
 	}
 
 	"shop_menu_jetpack"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Jetpack [{1}¢]"
+		"chi"		"飞行背包 [{1}点]"
 	}
 
 	"shop_jetpack"
 	{
-		"chi"		"You bought: Jetpack | press CTRL + SPACE (duck+jump)"
+		"chi"		"你购买了: 飞行背包 | 按 CTRL + SPACE (蹲+跳)"
 	}
 
 	"shop_menu_jihad"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Jihad Bomb [{1}¢]"
+		"chi"		"自爆炸弹 [{1}点]"
 	}
 
 	"shop_jihad"
 	{
-		"chi"		"You bought: Jihad Bomb | press Mouse1 + E (attack+use)"
+		"chi"		"你购买了: 自爆炸弹 | 按 鼠标左键 + E (开枪键+使用键)"
 	}
 
 	"shop_menu_door"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Open a door at view [{1}¢]"
+		"chi"		"打开你面前的一道门 [{1}点]"
 	}
 
 	"shop_door"
 	{
-		"chi"		"You bought: Open a door at view | press E (use) while watching a door"
+		"chi"		"你购买了: 打开你面前的一道门 | 看向门并且按 E (使用键)"
 	}
 
 	"shop_menu_blackout"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Blackout - darken the map [{1}¢]"
+		"chi"		"关地图灯 - 这个地图变暗 [{1}点]"
 	}
 
 	"shop_blackout"
 	{
-		"chi"		"You bought: Blackout - Zzztt..."
+		"chi"		"你购买了: 关地图灯 - Zzztt..."
 	}
 
 	"shop_blackout_all"
@@ -563,46 +563,46 @@
 	"shop_noclipstuck"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} is stuck with NoClip!"
+		"chi"		"{1} 在飞行无敌时卡住了!"
 	}
 
 	"shop_menu_freeday"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Freeday next round [{1}¢]"
+		"chi"		"下一回合自由日 [{1}点]"
 	}
 
 	"shop_freeday"
 	{
-		"chi"		"You bought: a Freeday for the next round"
+		"chi"		"你购买了: 下一回合自由日"
 	}
 
 	"shop_randomtp_fail"
 	{
 		"#format"	"{1:d}"
-		"chi"		"There is no alive prisoner to teleport too."
+		"chi"		"没有存活的匪徒让你传送."
 	}
 
 	"shop_shield"
 	{
-		"chi"		"You bought: a Tactical shield"
+		"chi"		"你购买了: 盾牌"
 	}
 
 	"shop_menu_shield"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Tactical shield [{1}¢]"
+		"chi"		"盾牌 [{1}点]"
 	}
 
 	"shop_menu_icegrenade"
 	{
 		"#format"	"{1:d}"
-		"chi"		"Ice Grenade [{1}¢]"
+		"chi"		"冰冻手雷 [{1}点]"
 	}
 
 	"shop_icegrenade"
 	{
-		"chi"		"You bought: Ice Grenade"
+		"chi"		"你购买了: 冰冻手雷"
 	}
 
 }
