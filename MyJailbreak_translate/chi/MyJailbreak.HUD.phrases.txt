@@ -40,12 +40,12 @@
 
 	"hud_on"
 	{
-		"chi"		"HUD {purple}is enabled!"
+		"chi"		"提示框 {purple}启用!"
 	}
 
 	"hud_off"
 	{
-		"chi"		"HUD {purple}is disabled"
+		"chi"		"提示框 {purple}禁用"
 	}
 
 	"hud_lastCT"
