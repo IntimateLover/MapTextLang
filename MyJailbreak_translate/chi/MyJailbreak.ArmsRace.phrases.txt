@@ -20,7 +20,7 @@
 
 	"armsrace_setbywarden"
 	{
-		"chi"		"狱警{purple}不能设置{default}武装竞赛!"
+		"chi"		"监狱长{purple}不能设置{default}武装竞赛!"
 	}
 
 	"armsrace_setbyadmin"
@@ -120,7 +120,7 @@
 
 	"armsrace_info_line4"
 	{
-		"chi"		"正常的越狱规则此回合可能不适用!"
+		"chi"		"部分越狱规则在此回合可能不适用!"
 	}
 
 	"armsrace_info_line5"
@@ -165,7 +165,7 @@
 
 	"armsrace_downgraded"
 	{
-		"chi"		"你被降级因为被匕首击杀"
+		"chi"		"你因为被匕首击杀而降级"
 	}
 
 	"armsrace_downgrade"
