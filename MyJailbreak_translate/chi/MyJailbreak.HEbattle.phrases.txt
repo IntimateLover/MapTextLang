@@ -11,156 +11,156 @@
 	"hebattle_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}HE Battle."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}丢雷日."
 	}
 
 	"hebattle_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"hebattle_minplayer"
 	{
-		"en"		"For a HE Battle you need at least {purple}one CT"
+		"en"		"丢雷日至少需要 {purple}一名狱警"
 	}
 
 	"hebattle_minplayer"
 	{
-		"en"		"For a HE Battle you need at least {purple}one CT"
+		"en"		"丢雷日至少需要 {purple}一名狱警"
 	}
 
 	"hebattle_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"en"		"一名囚犯获胜!"
 	}
 
 	"hebattle_voting"
 	{
-		"en"		"Voting for HE Battle is {purple}disabled!"
+		"en"		"已经给{purple}丢雷日{default}投票!"
 	}
 
 	"hebattle_setbywarden"
 	{
-		"en"		"Set HE Battle by Warden is {purple}disabled"
+		"en"		"监狱长{purple}不能设置{default}丢雷日"
 	}
 
 	"hebattle_setbyadmin"
 	{
-		"en"		"Set HE Battle by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}丢雷日!"
 	}
 
 	"hebattle_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一名狱警获胜!"
 	}
 
 	"hebattle_end"
 	{
-		"en"		"{purple}HE Battle{default} has ended."
+		"en"		"{purple}丢雷日{default} 结束."
 	}
 
 	"hebattle_next"
 	{
-		"en"		"The following round will be: {purple}HE Battle."
+		"en"		"下一回合: {purple}丢雷日."
 	}
 
 	"hebattle_next_nc"
 	{
-		"en"		"The following round will be: HE Battle"
+		"en"		"下一回合: 丢雷日"
 	}
 
 	"hebattle_start"
 	{
-		"en"		"{purple}HE Battle{default} has begun!"
+		"en"		"{purple}丢雷日{default} 开始!"
 	}
 
 	"hebattle_start_nc"
 	{
-		"en"		"HE Battle has begun!"
+		"en"		"丢雷日 开始!"
 	}
 
 	"hebattle_voted"
 	{
-		"en"		"You have already voted for {purple}HE Battle"
+		"en"		"已经给{purple}丢雷日{default}投票"
 	}
 
 	"hebattle_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"hebattle_disabled"
 	{
-		"en"		"HE Battle is currently {purple}disabled!"
+		"en"		"丢雷日目前被 {purple}禁用!"
 	}
 
 	"hebattle_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后游戏开始!"
 	}
 
 	"hebattle_info_title"
 	{
-		"en"		"HE Battle is now Activated"
+		"en"		"丢雷日 开始"
 	}
 
 	"hebattle_info_line1"
 	{
-		"en"		"FFA HE Battle with Low-Gravity enabled!"
+		"en"		"丢雷日所有人都是低重力状态!"
 	}
 
 	"hebattle_info_line2"
 	{
-		"en"		"Don't be suprised if you've spawned in the Armory!"
+		"en"		"如果出生在武器库,不要惊讶!"
 	}
 
 	"hebattle_info_line3"
 	{
-		"en"		"Damage is disabled until round start!"
+		"en"		"无敌状态解除时游戏开始!"
 	}
 
 	"hebattle_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则此回合可能不适用!"
 	}
 
 	"hebattle_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在本回合被禁用!"
 	}
 
 	"hebattle_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter vents or secret areas!"
+		"en"		"你必须留在监狱范围内!  不能进入密道!"
 	}
 
 	"hebattle_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"hebattle_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"hebattle_name"
 	{
-		"en"		"HE Battle"
+		"en"		"丢雷日"
 	}
 
 	"hebattle_now_nc"
 	{
-		"en"		"Now a hebattle round begins."
+		"en"		"新一轮的丢雷日开始."
 	}
 
 	"hebattle_now"
 	{
-		"en"		"Now a {purple}hebattle{default} round begins."
+		"en"		"{purple}丢雷日{default} 开始."
 	}
 
 }
