@@ -11,142 +11,142 @@
 	"ffa_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"chi"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}FFA."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}自由日."
 	}
 
 	"ffa_voting"
 	{
-		"chi"		"Voting for FFA is {purple}disabled!"
+		"chi"		"为自由日的投票被禁用!"
 	}
 
 	"ffa_setbywarden"
 	{
-		"chi"		"Set FFA by Warden is {purple}disabled!"
+		"chi"		"监狱长{purple}不能设置{default}自由日!"
 	}
 
 	"ffa_setbyadmin"
 	{
-		"chi"		"Set FFA by Admin is {purple}disabled!"
+		"chi"		"管理员{purple}不能设置{default}自由日!"
 	}
 
 	"ffa_ctwin_nc"
 	{
-		"chi"		"A Guard has survived!"
+		"chi"		"一名狱警获胜!"
 	}
 
 	"ffa_twin_nc"
 	{
-		"chi"		"A Prisoner has survived!"
+		"chi"		"一名匪徒获胜!"
 	}
 
 	"ffa_minplayer"
 	{
-		"chi"		"For FFA you need at least {purple}one Guard, & one Prisoner!"
+		"chi"		"自由日至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"ffa_end"
 	{
-		"chi"		"{purple}FFA{default} has ended!"
+		"chi"		"{purple}自由日{default} 结束!"
 	}
 
 	"ffa_next"
 	{
-		"chi"		"The following round will be: {purple}FFA."
+		"chi"		"下一回合: {purple}自由日."
 	}
 
 	"ffa_next_nc"
 	{
-		"chi"		"The following round will be: FFA."
+		"chi"		"下一回合: 自由日."
 	}
 
 	"ffa_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"chi"		"Round {purple}{1}{default} of {purple}{2}"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"ffa_start"
 	{
-		"chi"		"{purple}FFA{default} has begun!"
+		"chi"		"{purple}自由日{default} 开始!"
 	}
 
 	"ffa_start_nc"
 	{
-		"chi"		"FFA has begun!"
+		"chi"		"自由日 开始!"
 	}
 
 	"ffa_voted"
 	{
-		"chi"		"You have already voted for {purple}FFA!"
+		"chi"		"已经给{purple}自由日{default}投票!"
 	}
 
 	"ffa_progress"
 	{
 		"#format"	"{1:s}"
-		"chi"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"ffa_disabled"
 	{
-		"chi"		"FFA is currently {purple}disabled!"
+		"chi"		"自由日目前被 {purple}禁用!"
 	}
 
 	"ffa_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"chi"		"{1} seconds until damage enabled"
+		"chi"		"{1} 秒后无敌状态解除"
 	}
 
 	"ffa_damage_nc"
 	{
 		"#format"	"{1:i}"
-		"chi"		"{1} seconds until damage enabled"
+		"chi"		"{1} 秒后无敌状态解除"
 	}
 
 	"ffa_info_title"
 	{
-		"chi"		"Free for All Deathmatch is now Activated!"
+		"chi"		"自由日现在开始!"
 	}
 
 	"ffa_info_line1"
 	{
-		"chi"		"Don't be suprised if you've spawned in the Armory!"
+		"chi"		"如果你出生在武器库,不要惊讶!"
 	}
 
 	"ffa_info_line2"
 	{
-		"chi"		"Free for All - Player VS Player - The last man standing wins!"
+		"chi"		"自由日是个人战,只有最后一名存活的玩家获得胜利!"
 	}
 
 	"ffa_info_line3"
 	{
-		"chi"		"Run away during the 'NoDamage' phase!"
+		"chi"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"ffa_info_line4"
 	{
-		"chi"		"All usual Jailbreak Rules do not apply during this round!"
+		"chi"		"部分越狱规则在本局可能不适用!"
 	}
 
 	"ffa_info_line5"
 	{
-		"chi"		"Last Request is disabled during this round!"
+		"chi"		"LR在此回合被禁用!"
 	}
 
 	"ffa_info_line6"
 	{
-		"chi"		"Everyone is allowed to go anywhere within the map!"
+		"chi"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"ffa_info_line7"
 	{
-		"chi"		"Don't be an Asshole!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"ffa_wait"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"ffa_name"
@@ -156,12 +156,12 @@
 
 	"ffa_now_nc"
 	{
-		"chi"		"Now a ffa round begins."
+		"chi"		"新一轮的自由日开始."
 	}
 
 	"ffa_now"
 	{
-		"chi"		"Now a {purple}ffa{default} round begins."
+		"chi"		" {purple}自由日{default} 现在开始."
 	}
 
 }
