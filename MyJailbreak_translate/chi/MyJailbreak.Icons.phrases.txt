@@ -10,12 +10,12 @@
 
 	"icons_on"
 	{
-		"en"		"Icons {purple}are enabled!"
+		"en"		"图标 {purple}开启!"
 	}
 
 	"icons_off"
 	{
-		"en"		"Icons {purple}are disabled"
+		"en"		"图标 {purple}关闭"
 	}
 
 }
