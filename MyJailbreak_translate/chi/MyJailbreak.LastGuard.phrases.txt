@@ -11,155 +11,155 @@
 	"lastguard_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}The Last Guard Rule."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}最后一名狱警的规则."
 	}
 
 	"lastguard_twin_nc"
 	{
-		"en"		"The Prisoners have survived!"
+		"en"		"囚犯获胜!"
 	}
 
 	"lastguard_minplayer"
 	{
-		"en"		"For The Last Guard Rule you need at maximum pf {purple}one Guard & minimum 2 Prisoners!"
+		"en"		"最后一名狱警规则至少需要{purple}一个狱警和两个囚犯!"
 	}
 
 	"lastguard_hp"
 	{
 		"#format"	"{1:i},{2:i},{3:N},{4:i}"
-		"en"		"The {purple}{1} Prisoners{default} have a combined total of: {purple}{2} HP{default}. The Last Guard {3} now has: {purple}{4} HP{default}."
+		"en"		"{purple}{1} 囚犯们{default} 的总和为: {purple}{2} HP{default}. 最后一名狱警 {3} 现在有: {purple}{4} HP{default}."
 	}
 
 	"lastguard_setbyadmin"
 	{
-		"en"		"Set Last Guard Rule by Admin is {purple}disabled!"
+		"en"		"管理员{purple}无法设置{default}最后一名狱警规则!"
 	}
 
 	"lastguard_ctwin_nc"
 	{
-		"en"		"Guards win!"
+		"en"		"狱警获胜!"
 	}
 
 	"lastguard_end"
 	{
-		"en"		"The {purple}Last Guard Rule{default} has ended!"
+		"en"		"{purple}最后一名狱警规则{default} 结束!"
 	}
 
 	"lastguard_startnow"
 	{
-		"en"		"Attention! {purple}Last Guard Rule{default} is now Activated!"
+		"en"		"注意! {purple}最后一名狱警规则{default} 现在生效!"
 	}
 
 	"lastguard_startnow_nc"
 	{
-		"en"		"Attention! Last Guard is now Activated!"
+		"en"		"注意! 最后一名狱警规则生效!"
 	}
 
 	"lastguard_start"
 	{
-		"en"		"The {purple}Last Guard Rule{default} has begun!"
+		"en"		"{purple}最后一名狱警规则{default} 开始生效!"
 	}
 
 	"lastguard_lr"
 	{
-		"en"		"A {purple}Last Request{default} is already active! The Last Guard Rule not available!"
+		"en"		"{purple}LR{default}被激活! 最后一名狱警规则被禁用!"
 	}
 
 	"lastguard_start_nc"
 	{
-		"en"		"The Last Guard Rule begun!"
+		"en"		"最后一名狱警规则 开始!"
 	}
 
 	"lastguard_movenow"
 	{
-		"en"		"You can {purple}move now!"
+		"en"		"你现在可以 {purple}移动!"
 	}
 
 	"lastguard_movenow_nc"
 	{
-		"en"		"You can move now!"
+		"en"		"你现在可以移动!"
 	}
 
 	"lastguard_voted"
 	{
-		"en"		"You have already voted for {purple}The Last Guard Rule!"
+		"en"		"已经给{purple}最后一名狱警规则{default}投票!"
 	}
 
 	"lastguard_notalive"
 	{
-		"en"		"You {purple}must be alive{default} to use this command!"
+		"en"		"你必须时 {purple}存活状态{default} 才能使用这条指令!"
 	}
 
 	"lastguard_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress! The Last Guard Rule Rule is disabled!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中! 最后一名狱警规则被禁用!"
 	}
 
 	"lastguard_running"
 	{
-		"en"		"The Last Guard Rule {default}is {purple}already in progress!"
+		"en"		"最后一名狱警规则{default}已经 {purple}生效!"
 	}
 
 	"lastguard_disabled"
 	{
-		"en"		"The Last Guard Rule is currently {purple}disabled!"
+		"en"		"最后一名狱警规则目前被 {purple}禁用!"
 	}
 
 	"lastguard_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后开始!"
 	}
 
 	"lastguard_info_title"
 	{
-		"en"		"Last Guard Rule er aktiveret!"
+		"en"		"最后一名狱警规则 生效!"
 	}
 
 	"lastguard_info_title"
 	{
-		"en"		"Last Guard Rule er aktiveret!"
+		"en"		"最后一名狱警规则 生效!"
 	}
 
 	"lastguard_info_line1"
 	{
-		"en"		"The Last Guard Rule - Prisoners VS Guard."
+		"en"		"最后一名狱警规则 - 囚犯 VS 狱警."
 	}
 
 	"lastguard_info_line4"
 	{
-		"en"		"All usual Jail Rules do not apply during this round!"
+		"en"		"部分越狱规则在本轮可能不适用!"
 	}
 
 	"lastguard_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在此回合被禁用!"
 	}
 
 	"lastguard_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"lastguard_info_line2"
 	{
-		"en"		"All Terrorists are Rebels!"
+		"en"		"所有囚犯都是暴动的!"
 	}
 
 	"lastguard_info_line3"
 	{
-		"en"		"The last Guard has a lot more health!"
+		"en"		"最后一名狱警会获得更多的血量!"
 	}
 
 	"lastguard_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何囚犯都可以到任何地方,狱警不能进入密道和武器库!"
 	}
 
 	"lastguard_close"
 	{
-		"en"		"Exit"
+		"en"		"退出"
 	}
 
 }
