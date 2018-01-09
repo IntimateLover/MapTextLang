@@ -60,7 +60,7 @@
 
 	"menu_sparks"
 	{
-		"chi"		"Toggle BulletImpact Sparks"
+		"chi"		"切换子弹火花状态"
 	}
 
 	"menu_extend"
@@ -140,7 +140,7 @@
 
 	"menu_votewarden"
 	{
-		"chi"		"Vote To Fire The Warden"
+		"chi"		"投票移除监狱长"
 	}
 
 	"menu_event_Titlestart"
@@ -215,7 +215,7 @@
 
 	"menu_noscope"
 	{
-		"chi"		"No Scope"
+		"chi"		"低重力无镜狙击"
 	}
 
 	"menu_duckhunt"
@@ -399,7 +399,7 @@
 
 	"menu_oneinthechamber"
 	{
-		"chi"		"One in the chamber"
+		"chi"		"一击必杀日"
 	}
 
 	"menu_nolr"
