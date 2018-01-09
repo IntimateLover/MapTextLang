@@ -452,7 +452,7 @@
 	"shop_paperclip"
 	{
 		"#format"	"{1:d}"
-		"chi"		"你购买了: {1} paperclip(s) for handcuffs!"
+		"chi"		"你购买了: {1} 解开手铐的回形针!"
 	}
 
 	"shop_unwallhack"
