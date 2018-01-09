@@ -10,13 +10,13 @@
 
 	"request_openrefuse"
 	{
-		"chi"		"The warden has enabled refusals.{purple} Type !refuse to refuse the game!"
+		"chi"		"监狱长开启了拒绝游戏的要求.{purple} 输入 !refuse 来拒绝此游戏!"
 	}
 
 	"request_refusing"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1} {purple}拒绝 {default}这个游戏!"
+		"chi"		"{purple}{1} {purple}拒绝了 {default}这个游戏!"
 	}
 
 	"request_alreadyrefused"
@@ -26,29 +26,29 @@
 
 	"request_refuseallow"
 	{
-		"chi"		"The warden must first {purple}allow refusing by typing !refuse"
+		"chi"		"监狱长必须第一个 {purple}输入 !refuse 来允许囚犯拒绝游戏"
 	}
 
 	"request_notalivect"
 	{
-		"chi"		"You are either dead or a Guard!"
+		"chi"		"你死了或者你是狱警!"
 	}
 
 	"request_fullhp"
 	{
-		"chi"		"Nice try! You're at full health!"
+		"chi"		"不错! 你已经满血了!"
 	}
 
 	"request_refusedtimes"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You have already {purple}refused {1} times{default} during this round!"
+		"chi"		"在本回合你已经 {purple}拒绝了 {1} 次!"
 	}
 
 	"request_capitulation"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1} {default}has {purple}capitulated! {default}Will the Warden accept the request?"
+		"chi"		"{purple}{1} {default}已经 {purple}投降! {default}监狱长会接受吗?"
 	}
 
 	"request_alreadycapitulated"
@@ -58,7 +58,7 @@
 
 	"request_knifeback"
 	{
-		"chi"		"You've been given {purple}your knife back."
+		"chi"		"你已经拿回了 {purple}你的小刀."
 	}
 
 	"request_accepted"
@@ -90,19 +90,19 @@
 
 	"request_health"
 	{
-		"chi"		"You've received a {purple} Healthshot{default}!"
+		"chi"		"你获得了一个 {purple} 加血针{default}!"
 	}
 
 	"request_heal"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1} {default}has requested a {purple}Healing! {default}Will the Warden accept the request?"
+		"chi"		"{purple}{1} {default}请求 {purple}加血! {default}监狱长会接受请求吗?"
 	}
 
 	"request_healtimes"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You have already requested healing{purple}{1} times{default} during this round!"
+		"chi"		"在本回合你已经请求加血{purple}{1} 次!"
 	}
 
 	"request_alreadyhealed"
@@ -117,19 +117,19 @@
 
 	"request_processing"
 	{
-		"chi"		"There is already a {purple}request in processing. Wait a moment!"
+		"chi"		"已经有人发出了 {purple}请求. 请等待!"
 	}
 
 	"request_repeatpls"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1} {default}has requested a {purple}Repeat!{default}"
+		"chi"		"{purple}{1} {default}请求 {purple}狱长重复一遍指令!{default}"
 	}
 
 	"request_repeattimes"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You have already requested a {purple} Repeat {1} times{default} during this round!"
+		"chi"		"你已经要求 {purple} 狱长重复一遍指令 {1} 次 !"
 	}
 
 	"request_alreadyrepeat"
@@ -175,195 +175,195 @@
 	"request_freekill"
 	{
 		"#format"	"{1:N},{2:N},{3:N}"
-		"chi"		"{green}{1}{default} sent a Freekill report of {darkred}{2}{default} to {purple}{3}!"
+		"chi"		"{green}{1}{default}向{purple}{3} 举报被 {darkred}{2}{default} 错杀!"
 	}
 
 	"request_pardonfreekill"
 	{
-		"chi"		"Was that a Freekill?"
+		"chi"		"这是错杀吗?"
 	}
 
 	"request_handlefreekill"
 	{
-		"chi"		"How do you want to handle this freekill?"
+		"chi"		"你想要怎样处理本次错杀?"
 	}
 
 	"request_respawnvictim"
 	{
-		"chi"		"Respawn the Victim"
+		"chi"		"复活"
 	}
 
 	"request_killfreekiller"
 	{
-		"chi"		"Slay the Freekiller"
+		"chi"		"处死错杀狱警"
 	}
 
 	"request_freeday"
 	{
-		"chi"		"Next Round Freeday"
+		"chi"		"下一回合给予自由日"
 	}
 
 	"request_swapfreekiller"
 	{
-		"chi"		"Swap freekiller to Prisoner Team"
+		"chi"		"移动错杀狱警到囚犯队伍"
 	}
 
 	"request_aliveorct"
 	{
-		"chi"		"You are either alive or a Guard!"
+		"chi"		"你是存活状态或者你时狱警!"
 	}
 
 	"request_nokiller"
 	{
-		"chi"		"Sorry, we can't find your killer!"
+		"chi"		"抱歉, 我们找不到错杀狱警!"
 	}
 
 	"request_respawned"
 	{
-		"chi"		"You were respawned!"
+		"chi"		"你已经复活!"
 	}
 
 	"request_respawnedall"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{1} was respawned due a {darkred}Freekill!"
+		"chi"		"{1} 因为被错杀而 {darkred}重生!"
 	}
 
 	"request_killbcfreekill"
 	{
-		"chi"		"You were slain due to a {darkred}Freekill!"
+		"chi"		"你因为错杀他人被 {darkred}处死!"
 	}
 
 	"request_killbcfreekillall"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{green}{1}{default} was slain due to a {darkred}Freekill!"
+		"chi"		"{green}{1}{default} 因为错杀被{darkred}处死!"
 	}
 
 	"request_swapbcfreekill"
 	{
-		"chi"		"You were swaped to the Prisoner's team due to a {darkred}Freekill!"
+		"chi"		"你因为错杀被移动到 {darkred}囚犯队伍!"
 	}
 
 	"request_swapbcfreekillall"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{green}{1}{default} was swaped due to a {darkred}freekill{default} to the Prisoner's team!"
+		"chi"		"{green}{1}{default} 因为 {darkred}错杀{default} 被移动到囚犯队伍!"
 	}
 
 	"request_handlerespawn"
 	{
-		"chi"		"Where do you want the respawn?"
+		"chi"		"你想在哪里重生?"
 	}
 
 	"request_respawnbody"
 	{
-		"chi"		"Respawn on Death Place"
+		"chi"		"重生在死亡点上"
 	}
 
 	"request_respawncell"
 	{
-		"chi"		"Respawn in a Cell"
+		"chi"		"重生在监狱"
 	}
 
 	"request_respawnwarden"
 	{
-		"chi"		"Respawn in Front of the Warden"
+		"chi"		"重生在监狱长面前"
 	}
 
 	"request_freekilltimes"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You have already reported a Freekill {purple}{1}{default} times during this round."
+		"chi"		"在本回合你已经举报错杀 {purple}{1}{default} 次."
 	}
 
 	"request_freedayvictim"
 	{
-		"chi"		"Give Victim next Round Freeday"
+		"chi"		"下一轮给予被错杀者自由日"
 	}
 
 	"request_killreason_title"
 	{
 		"#format"	"{1:N}"
-		"chi"		"You killed {1}???"
+		"chi"		"你杀了 {1}???"
 	}
 
 	"request_killreason_lostgame"
 	{
-		"chi"		"He lost the Game"
+		"chi"		"他在游戏中失败"
 	}
 
 	"request_killreason_rebel"
 	{
-		"chi"		"He was a Rebel"
+		"chi"		"他暴动了"
 	}
 
 	"request_killreason_brokerule"
 	{
-		"chi"		"He broke the Rules"
+		"chi"		"他破坏规则"
 	}
 
 	"request_killreason_notfollow"
 	{
-		"chi"		"He not listen to dictate"
+		"chi"		"他不听监狱长指令"
 	}
 
 	"request_killreason_sry"
 	{
-		"chi"		"My fault, wanna say sorry"
+		"chi"		"我的错,不好意思"
 	}
 
 	"request_killreason_freekill"
 	{
-		"chi"		"I freekilled him"
+		"chi"		"我错杀了他"
 	}
 
 	"request_killreason_lostgame_chat"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} claiming {darkred}{2}{default} lost the Game"
+		"chi"		"狱警 {green}{1}{default} 说因为 {darkred}{2}{default} 他在游戏中失败"
 	}
 
 	"request_killreason_rebel_chat"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} claiming {darkred}{2}{default} was a rebel"
+		"chi"		"狱警 {green}{1}{default} 说因为 {darkred}{2}{default} 他暴动了"
 	}
 
 	"request_killreason_brokerule_chat"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} claiming {darkred}{2}{default} has broke the rules"
+		"chi"		"狱警 {green}{1}{default} 说因为 {darkred}{2}{default} 他破坏规则"
 	}
 
 	"request_killreason_notfollow_chat"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} claiming {darkred}{2}{default} hasn't followed the dictation"
+		"chi"		"狱警 {green}{1}{default} 说因为 {darkred}{2}{default} 他不听监狱长指令"
 	}
 
 	"request_killreason_sry_chat"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} wanna say sorry for mistakly killing {darkred}{2}{default}"
+		"chi"		"狱警 {green}{1}{default} 对于错杀了 {darkred}{2}{default}感到抱歉"
 	}
 
 	"request_killreason_freekill_chat"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} confess a freekill on {darkred}{2}{default}"
+		"chi"		"狱警 {green}{1}{default} 承认错杀了 {darkred}{2}{default}"
 	}
 
 	"request_killreason_noanswer"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"The Guard {green}{1}{default} has no declaration for the kill on {darkred}{2}{default}"
+		"chi"		"狱警 {green}{1}{default} 没说任何关于杀死 {darkred}{2}{default}的原因"
 	}
 
 	"request_capitulated"
 	{
 		"#format"	"{1:N}"
-		"chi"		"{purple}{1} {default}has {purple}capitulated!"
+		"chi"		"{purple}{1} {default}已经 {purple}投降!"
 	}
 
 	"request_close"
@@ -373,24 +373,24 @@
 
 	"request_countdownstop"
 	{
-		"chi"		"{purple}STOP! {darkred}END!"
+		"chi"		"{purple}停止! {darkred}结束!"
 	}
 
 	"request_countdownstop_nc"
 	{
-		"chi"		"STOP! END!"
+		"chi"		"停止! 结束!"
 	}
 
 	"request_stopcountdown_nc"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Stop/End in {1} seconds!"
+		"chi"		"停止/结束  {1} 秒!"
 	}
 
 	"request_stopcountdown"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Stop in {purple}{1}{default} seconds!"
+		"chi"		"在{purple}{1}{default} 秒后停止!"
 	}
 
 }
