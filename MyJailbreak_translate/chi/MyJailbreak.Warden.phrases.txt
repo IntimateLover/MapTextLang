@@ -181,13 +181,13 @@
 	"warden_startcountdown"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Start in {purple}{1}{default} seconds!"
+		"chi"		"还有{purple}{1}{default}秒开始!"
 	}
 
 	"warden_stopcountdown"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Stop in {purple}{1}{default} seconds!"
+		"chi"		"还有{purple}{1}{default}秒停止!"
 	}
 
 	"warden_startcountdownhint"
@@ -197,27 +197,27 @@
 
 	"warden_startcountdownhint_nc"
 	{
-		"chi"		"注意! 监狱长 {purple}开启了倒计时!"
+		"chi"		"注意! 监狱长开启了倒计时!"
 	}
 
 	"warden_startstopcountdownhint"
 	{
-		"chi"		"Attention! The Warden {purple}started a START / STOP Countdown!"
+		"chi"		"注意! 监狱长 {purple}开启了一个倒计时!"
 	}
 
 	"warden_startstopcountdownhint_nc"
 	{
-		"chi"		"Attention! The Warden started a START / STOP Countdown!"
+		"chi"		"注意! 监狱长开启了一个倒计时!"
 	}
 
 	"warden_stopcountdownhint"
 	{
-		"chi"		"Attention! The Warden {purple}started a STOP Countdown!"
+		"chi"		"注意! 监狱长 {purple}开启了结束倒计时!"
 	}
 
 	"warden_stopcountdownhint_nc"
 	{
-		"chi"		"Attention! The Warden started a STOP Countdown! Hurry up!"
+		"chi"		"注意! 监狱长开启了一个结束倒计时! 赶紧限时遵守!"
 	}
 
 	"warden_countdownstart"
@@ -232,7 +232,7 @@
 
 	"warden_countdownrunning"
 	{
-		"chi"		"A Countdown is {purple}already in progress!"
+		"chi"		"一个倒计时 {purple}正在开启!"
 	}
 
 	"warden_countdownstart_nc"
@@ -263,7 +263,7 @@
 
 	"warden_voted"
 	{
-		"chi"		"You have already voted against the current {purple}Warden{default}!"
+		"chi"		"你已经投票移除 {purple}监狱长{default}!"
 	}
 
 	"warden_israndom"
@@ -349,7 +349,7 @@
 	"warden_laser"
 	{
 		"#format"	"{1:s}"
-		"chi"		"{1} Laser Pointer is now equipped!"
+		"chi"		"{1} 激光现在已装备!"
 	}
 
 	"warden_drawer"
@@ -361,7 +361,7 @@
 	"warden_marker_faraway"
 	{
 		"#format"	"{1:s}"
-		"chi"		"Your {1} Marker was removed! You were far away from it."
+		"chi"		"你的 {1} 标记被移除! ."
 	}
 
 	"warden_marker_title"
@@ -436,7 +436,7 @@
 
 	"warden_range"
 	{
-		"chi"		"The Position is out of range!"
+		"chi"		"该位置超出范围!"
 	}
 
 	"warden_wrong"
@@ -453,7 +453,7 @@
 	"warden_muteend"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"{2} was Muted by the Warden {1} for the rest of the round!"
+		"chi"		"{2} 被监狱长 {1} 禁声!"
 	}
 
 	"warden_unmute"
@@ -474,32 +474,32 @@
 
 	"warden_cdmenu_stop"
 	{
-		"chi"		"Begin a STOP Countdown (20 sec)"
+		"chi"		"开始一个 停止倒计时 (20 秒)"
 	}
 
 	"warden_cdmenu_startstop"
 	{
-		"chi"		"Set a Start/Stop Countdown"
+		"chi"		"设置一个 开始/停止 倒计时"
 	}
 
 	"warden_cdmenu_title2"
 	{
-		"chi"		"Time Between Start & Stop"
+		"chi"		"开始到结束的时间"
 	}
 
 	"warden_time_title"
 	{
-		"chi"		"How long?"
+		"chi"		"多久?"
 	}
 
 	"warden_allt"
 	{
-		"chi"		"All Prisoners"
+		"chi"		"全部囚犯"
 	}
 
 	"warden_roundend"
 	{
-		"chi"		"Until Round End"
+		"chi"		"直到回合结束"
 	}
 
 	"warden_15"
@@ -561,7 +561,7 @@
 
 	"warden_startmathquiz_nc"
 	{
-		"chi"		"注意! 监狱长开始了 {purple}数学测试!"
+		"chi"		"注意! 监狱长开始了 数学测试!"
 	}
 
 	"warden_sure"
@@ -624,7 +624,7 @@
 	"warden_cuffsgot"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You've only got {green}{1}{default} handcuff(s) left!"
+		"chi"		"你剩下 {green}{1}{default} 个手铐!"
 	}
 
 	"warden_bulletmarkoff"
@@ -645,13 +645,13 @@
 
 	"warden_backstab"
 	{
-		"chi"		"Backstab protection is now Activated."
+		"chi"		"背刺保护被激活."
 	}
 
 	"warden_extendtimes"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You have already {purple}extended the round {1} times{default} in this round!"
+		"chi"		"你在这回合已经 {purple}延长回合时间 {1} 次{default} !"
 	}
 
 	"warden_close"
@@ -662,69 +662,69 @@
 	"warden_gotpaperclip"
 	{
 		"#format"	"{1:i}"
-		"chi"		"You secretly have {1} paperclip(s) in your pocket. Hold +use (E)"
+		"chi"		"你现在有 {1} 个回形针. 按住E使用"
 	}
 
 	"warden_brokepaperclip"
 	{
-		"chi"		"You broke your paperclip!"
+		"chi"		"你破坏了回形针!"
 	}
 
 	"warden_unlock"
 	{
-		"chi"		"You lockpicked your way out of your Handcuffs!"
+		"chi"		"你撬开了手铐上的锁!"
 	}
 
 	"warden_painter"
 	{
 		"#format"	"{1:s}"
-		"chi"		"{1} Painter is now equipped!"
+		"chi"		"{1} 画笔现在装备!"
 	}
 
 	"warden_painter_title"
 	{
-		"chi"		"Painter Color"
+		"chi"		"画笔颜色"
 	}
 
 	"warden_painter_off"
 	{
-		"chi"		"Deactivate Painter"
+		"chi"		"关闭画笔"
 	}
 
 	"warden_painteron"
 	{
-		"chi"		"Painter {purple}is enabled"
+		"chi"		"画笔 {purple}启用"
 	}
 
 	"warden_painteroff"
 	{
-		"chi"		"Painter {purple}is disabled"
+		"chi"		"画笔 {purple}禁用"
 	}
 
 	"warden_paintert"
 	{
-		"chi"		"Toggle Painter for Prisoners"
+		"chi"		"切换囚犯的画笔开关"
 	}
 
 	"warden_tpainteron"
 	{
-		"chi"		"The Painter for Prisoners is {purple}enabled!"
+		"chi"		"囚犯的画笔被 {purple}启用!"
 	}
 
 	"warden_tpainteroff"
 	{
-		"chi"		"The Painter for Prisoners is {purple}disabled!"
+		"chi"		"囚犯的画笔被 {purple}禁用!"
 	}
 
 	"warden_disarmed"
 	{
 		"#format"	"{1:N},{2:N}"
-		"chi"		"{1} was disarmed by {2}."
+		"chi"		"{1} 被 {2}解除了武装."
 	}
 
 	"warden_lostgun"
 	{
-		"chi"		"You've been wounded in the arm! You lost your weapon!"
+		"chi"		"因为你的手臂受伤,丢失了你的武器!"
 	}
 
 	"warden_remaining"
@@ -769,7 +769,7 @@
 
 	"warden_rebel_title"
 	{
-		"chi"		"Rebels Menu"
+		"chi"		"暴动菜单"
 	}
 
 	"warden_rebel_mark"
@@ -789,7 +789,7 @@
 
 	"warden_info_counter"
 	{
-		"chi"		"Prisoner in sight:"
+		"chi"		"在你视野范围内的囚犯:"
 	}
 
 	"warden_counter"
@@ -902,7 +902,7 @@
 
 	"warden_givefreeday"
 	{
-		"chi"		"Give FreeDay to:"
+		"chi"		"授予自由日给某位玩家:"
 	}
 
 	"warden_havefreeday"
@@ -953,7 +953,7 @@
 	"warden_wait"
 	{
 		"#format"	"{1:i}"
-		"chi"		"As {green}last round warden{default} you have to wait {purple}{1} seconds{default} to become warden again."
+		"chi"		"成为{green}最后一回合的监狱长{default} 你需要等待 {purple}{1} 秒{default} 再次成为监狱长."
 	}
 
 	"warden_deputy_removed"
@@ -1038,22 +1038,22 @@
 
 	"warden_novalid"
 	{
-		"chi"		"Could not find a {green}valid non-rebeling{default} prisoner in view."
+		"chi"		"在视野里不能找到一个 {green}有效的非暴动囚犯{default}."
 	}
 
 	"warden_withhold_lr"
 	{
-		"chi"		"The warden {purple}withholds{default} your last request"
+		"chi"		"监狱长 {purple}拒绝{default} 你的LR"
 	}
 
 	"warden_withhold_on"
 	{
-		"chi"		"The warden {purple}withhold{default} the last request"
+		"chi"		"监狱长 {purple}拒绝{default} LR"
 	}
 
 	"warden_withhold_off"
 	{
-		"chi"		"The warden {purple}has released{default} the last request"
+		"chi"		"监狱长{purple}允许{default} LR"
 	}
 
 }
