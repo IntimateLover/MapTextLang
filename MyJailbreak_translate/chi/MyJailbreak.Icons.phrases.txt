@@ -10,12 +10,12 @@
 
 	"icons_on"
 	{
-		"en"		"图标 {purple}开启!"
+		"chi"		"图标 {purple}开启!"
 	}
 
 	"icons_off"
 	{
-		"en"		"图标 {purple}关闭"
+		"chi"		"图标 {purple}关闭"
 	}
 
 }

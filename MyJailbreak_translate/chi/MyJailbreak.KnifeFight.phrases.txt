@@ -11,151 +11,151 @@
 	"knifefight_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}刀战."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}刀战."
 	}
 
 	"knifefight_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"knifefight_twin_nc"
 	{
-		"en"		"一名囚犯获胜!"
+		"chi"		"一名囚犯获胜!"
 	}
 
 	"knifefight_voting"
 	{
-		"en"		"为刀战的投票被禁用!"
+		"chi"		"为刀战的投票被禁用!"
 	}
 
 	"knifefight_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}刀战!"
+		"chi"		"监狱长{purple}不能设置{default}刀战!"
 	}
 
 	"knifefight_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}刀战!"
+		"chi"		"管理员{purple}不能设置{default}刀战!"
 	}
 
 	"knifefight_ctwin_nc"
 	{
-		"en"		"一名狱警获胜!"
+		"chi"		"一名狱警获胜!"
 	}
 
 	"knifefight_minplayer"
 	{
-		"en"		"刀战至少需要{purple}一个狱警和囚犯!"
+		"chi"		"刀战至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"knifefight_end"
 	{
-		"en"		"{purple}刀战{default} 结束."
+		"chi"		"{purple}刀战{default} 结束."
 	}
 
 	"knifefight_next"
 	{
-		"en"		"下一回合: {purple}刀战."
+		"chi"		"下一回合: {purple}刀战."
 	}
 
 	"knifefight_next_nc"
 	{
-		"en"		"下一回合: 刀战."
+		"chi"		"下一回合: 刀战."
 	}
 
 	"knifefight_start"
 	{
-		"en"		"{purple}刀战{default} 开始!"
+		"chi"		"{purple}刀战{default} 开始!"
 	}
 
 	"knifefight_start_nc"
 	{
-		"en"		"刀战 开始!"
+		"chi"		"刀战 开始!"
 	}
 
 	"knifefight_voted"
 	{
-		"en"		"已经给{purple}刀战{default}投票t"
+		"chi"		"已经给{purple}刀战{default}投票t"
 	}
 
 	"knifefight_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"knifefight_disabled"
 	{
-		"en"		"刀战目前被 {purple}禁用!"
+		"chi"		"刀战目前被 {purple}禁用!"
 	}
 
 	"knifefight_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后开始!"
+		"chi"		"{1} 秒后开始!"
 	}
 
 	"knifefight_info_title"
 	{
-		"en"		"刀战-个人战 开始"
+		"chi"		"刀战-个人战 开始"
 	}
 
 	"knifefight_info_line1"
 	{
-		"en"		"如果你出生在CT出生点,不要惊讶"
+		"chi"		"如果你出生在CT出生点,不要惊讶"
 	}
 
 	"knifefight_info_line2"
 	{
-		"en"		"所有人都是低重力,第三人称视角,并且有溜冰鞋."
+		"chi"		"所有人都是低重力,第三人称视角,并且有溜冰鞋."
 	}
 
 	"knifefight_info_line3"
 	{
-		"en"		"趁着 '无敌' 赶紧苟命!"
+		"chi"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"knifefight_info_line4"
 	{
-		"en"		"部分越狱规则此回合可能不适用!"
+		"chi"		"部分越狱规则此回合可能不适用!"
 	}
 
 	"knifefight_info_line5"
 	{
-		"en"		"LR在本回合禁用!"
+		"chi"		"LR在本回合禁用!"
 	}
 
 	"knifefight_info_line6"
 	{
-		"en"		"你必须呆在监狱范围内! 不能进入密道!"
+		"chi"		"你必须呆在监狱范围内! 不能进入密道!"
 	}
 
 	"knifefight_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"knifefight_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"knifefight_name"
 	{
-		"en"		"刀战"
+		"chi"		"刀战"
 	}
 
 	"knifefight_now_nc"
 	{
-		"en"		"新一轮的刀战 开始."
+		"chi"		"新一轮的刀战 开始."
 	}
 
 	"knifefight_now"
 	{
-		"en"		"{purple}刀战{default} 开始."
+		"chi"		"{purple}刀战{default} 开始."
 	}
 
 }

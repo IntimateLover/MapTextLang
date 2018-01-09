@@ -11,173 +11,173 @@
 	"suicidebomber_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}苦力怕模式."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}苦力怕模式."
 	}
 
 	"suicidebomber_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"suicidebomber_twin_nc"
 	{
-		"en"		"所有狱警都被炸死了!"
+		"chi"		"所有狱警都被炸死了!"
 	}
 
 	"suicidebomber_voting"
 	{
-		"en"		"为苦力怕模式的投票被禁用!"
+		"chi"		"为苦力怕模式的投票被禁用!"
 	}
 
 	"suicidebomber_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}苦力怕模式!"
+		"chi"		"监狱长{purple}不能设置{default}苦力怕模式!"
 	}
 
 	"suicidebomber_minplayer"
 	{
-		"en"		"苦力怕模式至少需要{purple}一个狱警和囚犯!"
+		"chi"		"苦力怕模式至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"suicidebomber_setbyadmin"
 	{
-		"en"		"管理员{purple}无法设置{default}苦力怕模式!"
+		"chi"		"管理员{purple}无法设置{default}苦力怕模式!"
 	}
 
 	"suicidebomber_ctwin_nc"
 	{
-		"en"		"一名狱警获胜!"
+		"chi"		"一名狱警获胜!"
 	}
 
 	"suicidebomber_end"
 	{
-		"en"		"{purple}苦力怕模式{default} 结束."
+		"chi"		"{purple}苦力怕模式{default} 结束."
 	}
 
 	"suicidebomber_next"
 	{
-		"en"		"下一回合: {purple}苦力怕模式."
+		"chi"		"下一回合: {purple}苦力怕模式."
 	}
 
 	"suicidebomber_next_nc"
 	{
-		"en"		"下一回合: 苦力怕模式."
+		"chi"		"下一回合: 苦力怕模式."
 	}
 
 	"suicidebomber_start"
 	{
-		"en"		"{purple}苦力怕模式{default} 开始!"
+		"chi"		"{purple}苦力怕模式{default} 开始!"
 	}
 
 	"suicidebomber_start_nc"
 	{
-		"en"		"苦力怕模式 开始!"
+		"chi"		"苦力怕模式 开始!"
 	}
 
 	"suicidebomber_voted"
 	{
-		"en"		"已经给{purple}苦力怕模式{default}投票!"
+		"chi"		"已经给{purple}苦力怕模式{default}投票!"
 	}
 
 	"suicidebomber_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"suicidebomber_disabled"
 	{
-		"en"		"苦力怕模式目前被 {purple}禁用!"
+		"chi"		"苦力怕模式目前被 {purple}禁用!"
 	}
 
 	"suicidebomber_sprint"
 	{
-		"en"		"你现在是 {blue}冲刺状态!"
+		"chi"		"你现在是 {blue}冲刺状态!"
 	}
 
 	"suicidebomber_sprintend"
 	{
 		"#format"	"{1:i}"
-		"en"		"{blue}你已经筋疲力尽了!{default} 需要休息 {1} 秒才能再次使用冲刺."
+		"chi"		"{blue}你已经筋疲力尽了!{default} 需要休息 {1} 秒才能再次使用冲刺."
 	}
 
 	"suicidebomber_sprintagain"
 	{
-		"en"		"你深吸了一口气. 你可以再次使用{blue}冲刺!"
+		"chi"		"你深吸了一口气. 你可以再次使用{blue}冲刺!"
 	}
 
 	"suicidebomber_timetohide_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"剩余{1} 秒躲藏!"
+		"chi"		"剩余{1} 秒躲藏!"
 	}
 
 	"suicidebomber_timeuntilopen_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后监狱门开启!"
+		"chi"		"{1} 秒后监狱门开启!"
 	}
 
 	"suicidebomber_info_title"
 	{
-		"en"		"苦力怕模式 开始!"
+		"chi"		"苦力怕模式 开始!"
 	}
 
 	"suicidebomber_info_line1"
 	{
-		"en"		"苦力怕无处不在!"
+		"chi"		"苦力怕无处不在!"
 	}
 
 	"suicidebomber_info_line2"
 	{
-		"en"		"囚犯可以按下F键自爆!"
+		"chi"		"囚犯可以按下F键自爆!"
 	}
 
 	"suicidebomber_info_line3"
 	{
-		"en"		"按住E键冲刺!"
+		"chi"		"按住E键冲刺!"
 	}
 
 	"suicidebomber_info_line4"
 	{
-		"en"		"部分越狱规则在此回合可能不适用!"
+		"chi"		"部分越狱规则在此回合可能不适用!"
 	}
 
 	"suicidebomber_info_line5"
 	{
-		"en"		"LR在此回合被禁用!"
+		"chi"		"LR在此回合被禁用!"
 	}
 
 	"suicidebomber_info_line6"
 	{
-		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
+		"chi"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"suicidebomber_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"suicidebomber_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"suicidebomber_name"
 	{
-		"en"		"苦力怕模式"
+		"chi"		"苦力怕模式"
 	}
 
 	"suicidebomber_now_nc"
 	{
-		"en"		"新一轮的苦力怕模式开始."
+		"chi"		"新一轮的苦力怕模式开始."
 	}
 
 	"suicidebomber_now"
 	{
-		"en"		"{purple}苦力怕模式{default} 开始."
+		"chi"		"{purple}苦力怕模式{default} 开始."
 	}
 
 }

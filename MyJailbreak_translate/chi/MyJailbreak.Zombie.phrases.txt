@@ -11,157 +11,157 @@
 	"zombie_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}僵尸日."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}僵尸日."
 	}
 
 	"zombie_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"zombie_voting"
 	{
-		"en"		"为僵尸日的投票被禁用!"
+		"chi"		"为僵尸日的投票被禁用!"
 	}
 
 	"zombie_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}僵尸日!"
+		"chi"		"监狱长{purple}不能设置{default}僵尸日!"
 	}
 
 	"zombie_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}僵尸日!"
+		"chi"		"管理员{purple}不能设置{default}僵尸日!"
 	}
 
 	"zombie_ctwin_nc"
 	{
-		"en"		"僵尸杀死了所有人类!"
+		"chi"		"僵尸杀死了所有人类!"
 	}
 
 	"zombie_twin_nc"
 	{
-		"en"		"人类获胜!"
+		"chi"		"人类获胜!"
 	}
 
 	"zombie_end"
 	{
-		"en"		"{purple}僵尸日{default} 结束."
+		"chi"		"{purple}僵尸日{default} 结束."
 	}
 
 	"zombie_next_nc"
 	{
-		"en"		"下一回合: 僵尸日."
+		"chi"		"下一回合: 僵尸日."
 	}
 
 	"zombie_next"
 	{
-		"en"		"下一回合: {purple}僵尸日."
+		"chi"		"下一回合: {purple}僵尸日."
 	}
 
 	"zombie_start"
 	{
-		"en"		"{purple}僵尸日{default} 开始!"
+		"chi"		"{purple}僵尸日{default} 开始!"
 	}
 
 	"zombie_start_nc"
 	{
-		"en"		"僵尸日 开始!"
+		"chi"		"僵尸日 开始!"
 	}
 
 	"zombie_voted"
 	{
-		"en"		"已经给{purple}僵尸日{default}投票!"
+		"chi"		"已经给{purple}僵尸日{default}投票!"
 	}
 
 	"zombie_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"zombie_minplayer"
 	{
-		"en"		"僵尸日至少需要{purple}一个狱警和囚犯!!"
+		"chi"		"僵尸日至少需要{purple}一个狱警和囚犯!!"
 	}
 
 	"zombie_timeuntilzombie_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"剩余 {1} 秒躲藏!"
+		"chi"		"剩余 {1} 秒躲藏!"
 	}
 
 	"zombie_timetounfreeze_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后解除冻结状态!"
+		"chi"		"{1} 秒后解除冻结状态!"
 	}
 
 	"zombie_info_title"
 	{
-		"en"		"僵尸日 开始!"
+		"chi"		"僵尸日 开始!"
 	}
 
 	"zombie_info_line1"
 	{
-		"en"		"僵尸(狱警) VS 人类(囚犯)!"
+		"chi"		"僵尸(狱警) VS 人类(囚犯)!"
 	}
 
 	"zombie_info_line2"
 	{
-		"en"		"趁着僵尸冻结的时候! 人类快跑!"
+		"chi"		"趁着僵尸冻结的时候! 人类快跑!"
 	}
 
 	"zombie_info_line3"
 	{
-		"en"		"僵尸拥有大量的HP!"
+		"chi"		"僵尸拥有大量的HP!"
 	}
 
 	"zombie_info_line4"
 	{
-		"en"		"部分越狱规则可能在本局不适用!"
+		"chi"		"部分越狱规则可能在本局不适用!"
 	}
 
 	"zombie_info_line5"
 	{
-		"en"		"LR在此回合被禁用!"
+		"chi"		"LR在此回合被禁用!"
 	}
 
 	"zombie_info_line6"
 	{
-		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
+		"chi"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"zombie_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"zombie_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"zombie_disabled"
 	{
-		"en"		"僵尸日目前被 {purple}禁用."
+		"chi"		"僵尸日目前被 {purple}禁用."
 	}
 
 	"zombie_name"
 	{
-		"en"		"僵尸日"
+		"chi"		"僵尸日"
 	}
 
 	"zombie_now_nc"
 	{
-		"en"		"新的一轮僵尸日 开始."
+		"chi"		"新的一轮僵尸日 开始."
 	}
 
 	"zombie_now"
 	{
-		"en"		"{purple}僵尸日{default} 开始."
+		"chi"		"{purple}僵尸日{default} 开始."
 	}
 
 }

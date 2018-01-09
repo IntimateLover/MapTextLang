@@ -11,156 +11,156 @@
 	"hebattle_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}丢雷日."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}丢雷日."
 	}
 
 	"hebattle_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"hebattle_minplayer"
 	{
-		"en"		"丢雷日至少需要 {purple}一名狱警"
+		"chi"		"丢雷日至少需要 {purple}一名狱警"
 	}
 
 	"hebattle_minplayer"
 	{
-		"en"		"丢雷日至少需要 {purple}一名狱警"
+		"chi"		"丢雷日至少需要 {purple}一名狱警"
 	}
 
 	"hebattle_twin_nc"
 	{
-		"en"		"一名囚犯获胜!"
+		"chi"		"一名囚犯获胜!"
 	}
 
 	"hebattle_voting"
 	{
-		"en"		"已经给{purple}丢雷日{default}投票!"
+		"chi"		"已经给{purple}丢雷日{default}投票!"
 	}
 
 	"hebattle_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}丢雷日"
+		"chi"		"监狱长{purple}不能设置{default}丢雷日"
 	}
 
 	"hebattle_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}丢雷日!"
+		"chi"		"管理员{purple}不能设置{default}丢雷日!"
 	}
 
 	"hebattle_ctwin_nc"
 	{
-		"en"		"一名狱警获胜!"
+		"chi"		"一名狱警获胜!"
 	}
 
 	"hebattle_end"
 	{
-		"en"		"{purple}丢雷日{default} 结束."
+		"chi"		"{purple}丢雷日{default} 结束."
 	}
 
 	"hebattle_next"
 	{
-		"en"		"下一回合: {purple}丢雷日."
+		"chi"		"下一回合: {purple}丢雷日."
 	}
 
 	"hebattle_next_nc"
 	{
-		"en"		"下一回合: 丢雷日"
+		"chi"		"下一回合: 丢雷日"
 	}
 
 	"hebattle_start"
 	{
-		"en"		"{purple}丢雷日{default} 开始!"
+		"chi"		"{purple}丢雷日{default} 开始!"
 	}
 
 	"hebattle_start_nc"
 	{
-		"en"		"丢雷日 开始!"
+		"chi"		"丢雷日 开始!"
 	}
 
 	"hebattle_voted"
 	{
-		"en"		"已经给{purple}丢雷日{default}投票"
+		"chi"		"已经给{purple}丢雷日{default}投票"
 	}
 
 	"hebattle_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"hebattle_disabled"
 	{
-		"en"		"丢雷日目前被 {purple}禁用!"
+		"chi"		"丢雷日目前被 {purple}禁用!"
 	}
 
 	"hebattle_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后游戏开始!"
+		"chi"		"{1} 秒后游戏开始!"
 	}
 
 	"hebattle_info_title"
 	{
-		"en"		"丢雷日 开始"
+		"chi"		"丢雷日 开始"
 	}
 
 	"hebattle_info_line1"
 	{
-		"en"		"丢雷日所有人都是低重力状态!"
+		"chi"		"丢雷日所有人都是低重力状态!"
 	}
 
 	"hebattle_info_line2"
 	{
-		"en"		"如果出生在武器库,不要惊讶!"
+		"chi"		"如果出生在武器库,不要惊讶!"
 	}
 
 	"hebattle_info_line3"
 	{
-		"en"		"无敌状态解除时游戏开始!"
+		"chi"		"无敌状态解除时游戏开始!"
 	}
 
 	"hebattle_info_line4"
 	{
-		"en"		"部分越狱规则此回合可能不适用!"
+		"chi"		"部分越狱规则此回合可能不适用!"
 	}
 
 	"hebattle_info_line5"
 	{
-		"en"		"LR在本回合被禁用!"
+		"chi"		"LR在本回合被禁用!"
 	}
 
 	"hebattle_info_line6"
 	{
-		"en"		"你必须留在监狱范围内!  不能进入密道!"
+		"chi"		"你必须留在监狱范围内!  不能进入密道!"
 	}
 
 	"hebattle_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"hebattle_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"hebattle_name"
 	{
-		"en"		"丢雷日"
+		"chi"		"丢雷日"
 	}
 
 	"hebattle_now_nc"
 	{
-		"en"		"新一轮的丢雷日开始."
+		"chi"		"新一轮的丢雷日开始."
 	}
 
 	"hebattle_now"
 	{
-		"en"		"{purple}丢雷日{default} 开始."
+		"chi"		"{purple}丢雷日{default} 开始."
 	}
 
 }

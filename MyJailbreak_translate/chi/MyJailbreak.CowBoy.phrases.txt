@@ -11,151 +11,151 @@
 	"cowboy_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}牛仔模式!"
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}牛仔模式!"
 	}
 
 	"cowboy_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合."
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合."
 	}
 
 	"cowboy_twin_nc"
 	{
-		"en"		"一名囚犯获胜!"
+		"chi"		"一名囚犯获胜!"
 	}
 
 	"cowboy_voting"
 	{
-		"en"		"为牛仔模式的投票被禁用!"
+		"chi"		"为牛仔模式的投票被禁用!"
 	}
 
 	"cowboy_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}牛仔模式!"
+		"chi"		"监狱长{purple}不能设置{default}牛仔模式!"
 	}
 
 	"cowboy_minplayer"
 	{
-		"en"		"牛仔模式至少需要{purple}一个狱警和囚犯"
+		"chi"		"牛仔模式至少需要{purple}一个狱警和囚犯"
 	}
 
 	"cowboy_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}牛仔模式!"
+		"chi"		"管理员{purple}不能设置{default}牛仔模式!"
 	}
 
 	"cowboy_ctwin_nc"
 	{
-		"en"		"一名狱警获胜!"
+		"chi"		"一名狱警获胜!"
 	}
 
 	"cowboy_end"
 	{
-		"en"		"{purple}牛仔模式{default} 结束."
+		"chi"		"{purple}牛仔模式{default} 结束."
 	}
 
 	"cowboy_next"
 	{
-		"en"		"下一回合: {purple}牛仔模式."
+		"chi"		"下一回合: {purple}牛仔模式."
 	}
 
 	"cowboy_next_nc"
 	{
-		"en"		"下一回合: 牛仔模式."
+		"chi"		"下一回合: 牛仔模式."
 	}
 
 	"cowboy_start"
 	{
-		"en"		"{purple}牛仔模式{default} 开始!"
+		"chi"		"{purple}牛仔模式{default} 开始!"
 	}
 
 	"cowboy_start_nc"
 	{
-		"en"		"牛仔模式 开始!"
+		"chi"		"牛仔模式 开始!"
 	}
 
 	"cowboy_voted"
 	{
-		"en"		"已经给{purple}牛仔模式{default}投票!"
+		"chi"		"已经给{purple}牛仔模式{default}投票!"
 	}
 
 	"cowboy_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"cowboy_disabled"
 	{
-		"en"		"牛仔模式目前被 {purple}禁用!"
+		"chi"		"牛仔模式目前被 {purple}禁用!"
 	}
 
 	"cowboy_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后回合开始!"
+		"chi"		"{1} 秒后回合开始!"
 	}
 
 	"cowboy_info_line1"
 	{
-		"en"		"牛仔模式 - 个人战!"
+		"chi"		"牛仔模式 - 个人战!"
 	}
 
 	"cowboy_info_line2"
 	{
-		"en"		"使用双持沙鹰战斗"
+		"chi"		"使用双持沙鹰战斗"
 	}
 
 	"cowboy_info_line3"
 	{
-		"en"		"趁着 '无敌' 赶紧苟命!"
+		"chi"		"趁着 '无敌' 赶紧苟命!"
 	}
 
 	"cowboy_info_line4"
 	{
-		"en"		"部分越狱规则在本回合可能不适用!"
+		"chi"		"部分越狱规则在本回合可能不适用!"
 	}
 
 	"cowboy_info_line5"
 	{
-		"en"		"LR在此回合被禁用!"
+		"chi"		"LR在此回合被禁用!"
 	}
 
 	"cowboy_info_line6"
 	{
-		"en"		"留在监狱范围内,不能进密道!"
+		"chi"		"留在监狱范围内,不能进密道!"
 	}
 
 	"cowboy_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"cowboy_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"cowboy_name"
 	{
-		"en"		"牛仔模式"
+		"chi"		"牛仔模式"
 	}
 
 	"cowboy_info_title"
 	{
-		"en"		"牛仔模式 开始!"
+		"chi"		"牛仔模式 开始!"
 	}
 
 	"cowboy_now_nc"
 	{
-		"en"		"新一轮的牛仔模式开始."
+		"chi"		"新一轮的牛仔模式开始."
 	}
 
 	"cowboy_now"
 	{
-		"en"		"{purple}牛仔模式{default} 开始."
+		"chi"		"{purple}牛仔模式{default} 开始."
 	}
 
 }

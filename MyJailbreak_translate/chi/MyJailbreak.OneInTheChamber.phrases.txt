@@ -11,151 +11,151 @@
 	"oneinthechamber_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}一击必杀日."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}一击必杀日."
 	}
 
 	"oneinthechamber_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"oneinthechamber_twin_nc"
 	{
-		"en"		"一名囚犯获胜!"
+		"chi"		"一名囚犯获胜!"
 	}
 
 	"oneinthechamber_voting"
 	{
-		"en"		"为一击必杀日的投票被禁用!"
+		"chi"		"为一击必杀日的投票被禁用!"
 	}
 
 	"oneinthechamber_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}一击必杀日!"
+		"chi"		"监狱长{purple}不能设置{default}一击必杀日!"
 	}
 
 	"oneinthechamber_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}一击必杀日!"
+		"chi"		"管理员{purple}不能设置{default}一击必杀日!"
 	}
 
 	"oneinthechamber_minplayer"
 	{
-		"en"		"一击必杀日至少需要{purple}一个狱警和囚犯!"
+		"chi"		"一击必杀日至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"oneinthechamber_ctwin_nc"
 	{
-		"en"		"一名狱警获胜!"
+		"chi"		"一名狱警获胜!"
 	}
 
 	"oneinthechamber_end"
 	{
-		"en"		"{purple}一击必杀日{default} 结束."
+		"chi"		"{purple}一击必杀日{default} 结束."
 	}
 
 	"oneinthechamber_next"
 	{
-		"en"		"下一回合: {purple}一击必杀日."
+		"chi"		"下一回合: {purple}一击必杀日."
 	}
 
 	"oneinthechamber_next_nc"
 	{
-		"en"		"下一回合: 一击必杀日."
+		"chi"		"下一回合: 一击必杀日."
 	}
 
 	"oneinthechamber_now_nc"
 	{
-		"en"		"新一轮的一击必杀日开始."
+		"chi"		"新一轮的一击必杀日开始."
 	}
 
 	"oneinthechamber_now"
 	{
-		"en"		"{purple}一击必杀日{default} 开始."
+		"chi"		"{purple}一击必杀日{default} 开始."
 	}
 
 	"oneinthechamber_start"
 	{
-		"en"		"{purple}一击必杀日{default} 开始!"
+		"chi"		"{purple}一击必杀日{default} 开始!"
 	}
 
 	"oneinthechamber_start_nc"
 	{
-		"en"		"一击必杀日 开始!"
+		"chi"		"一击必杀日 开始!"
 	}
 
 	"oneinthechamber_voted"
 	{
-		"en"		"已经给{purple}一击必杀日{default}投票!"
+		"chi"		"已经给{purple}一击必杀日{default}投票!"
 	}
 
 	"oneinthechamber_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"oneinthechamber_disabled"
 	{
-		"en"		"一击必杀日目前被 {purple}禁用!"
+		"chi"		"一击必杀日目前被 {purple}禁用!"
 	}
 
 	"oneinthechamber_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后开始!"
+		"chi"		"{1} 秒后开始!"
 	}
 
 	"oneinthechamber_info_title"
 	{
-		"en"		"一击必杀日 开始!"
+		"chi"		"一击必杀日 开始!"
 	}
 
 	"oneinthechamber_info_line1"
 	{
-		"en"		"一击必杀日 - 个人战!"
+		"chi"		"一击必杀日 - 个人战!"
 	}
 
 	"oneinthechamber_info_line2"
 	{
-		"en"		"你只有一发子弹的沙鹰!"
+		"chi"		"你只有一发子弹的沙鹰!"
 	}
 
 	"oneinthechamber_info_line3"
 	{
-		"en"		"当你击杀一名敌人,你会获得一枚子弹!"
+		"chi"		"当你击杀一名敌人,你会获得一枚子弹!"
 	}
 
 	"oneinthechamber_info_line4"
 	{
-		"en"		"部分越狱规则在本局可能不适用!"
+		"chi"		"部分越狱规则在本局可能不适用!"
 	}
 
 	"oneinthechamber_info_line5"
 	{
-		"en"		"LR在此回合被禁用!"
+		"chi"		"LR在此回合被禁用!"
 	}
 
 	"oneinthechamber_info_line6"
 	{
-		"en"		"你必须留在监狱范围内! 不能进入密道!"
+		"chi"		"你必须留在监狱范围内! 不能进入密道!"
 	}
 
 	"oneinthechamber_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"oneinthechamber_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"oneinthechamber_name"
 	{
-		"en"		"一击必杀日"
+		"chi"		"一击必杀日"
 	}
 
 }

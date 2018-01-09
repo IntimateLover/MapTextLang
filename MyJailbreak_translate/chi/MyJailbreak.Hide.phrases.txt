@@ -11,168 +11,168 @@
 	"hide_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}关灯躲猫猫."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}关灯躲猫猫."
 	}
 
 	"hide_twin_nc"
 	{
-		"en"		"囚犯获胜!"
+		"chi"		"囚犯获胜!"
 	}
 
 	"hide_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
+		"chi"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"hide_ctwin_nc"
 	{
-		"en"		"狱警获胜!"
+		"chi"		"狱警获胜!"
 	}
 
 	"hide_end"
 	{
-		"en"		"{purple}关灯躲猫猫{default} 结束."
+		"chi"		"{purple}关灯躲猫猫{default} 结束."
 	}
 
 	"hide_next_nc"
 	{
-		"en"		"下一回合: 关灯躲猫猫."
+		"chi"		"下一回合: 关灯躲猫猫."
 	}
 
 	"hide_next"
 	{
-		"en"		"下一回合: {purple}关灯躲猫猫."
+		"chi"		"下一回合: {purple}关灯躲猫猫."
 	}
 
 	"hide_start"
 	{
-		"en"		"{purple}关灯躲猫猫{default} 开始!"
+		"chi"		"{purple}关灯躲猫猫{default} 开始!"
 	}
 
 	"hide_start_nc"
 	{
-		"en"		"关灯躲猫猫 开始!"
+		"chi"		"关灯躲猫猫 开始!"
 	}
 
 	"hide_voted"
 	{
-		"en"		"已经给{purple}关灯躲猫猫{default}投票!"
+		"chi"		"已经给{purple}关灯躲猫猫{default}投票!"
 	}
 
 	"hide_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"hide_minplayer"
 	{
-		"en"		"关灯躲猫猫至少需要{purple}一个狱警和囚犯!"
+		"chi"		"关灯躲猫猫至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"hide_disabled"
 	{
-		"en"		"关灯躲猫猫目前被 {purple}禁用!"
+		"chi"		"关灯躲猫猫目前被 {purple}禁用!"
 	}
 
 	"hide_voting"
 	{
-		"en"		"为关灯躲猫猫的投票被禁用!"
+		"chi"		"为关灯躲猫猫的投票被禁用!"
 	}
 
 	"hide_setbyWarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}关灯躲猫猫!"
+		"chi"		"监狱长{purple}不能设置{default}关灯躲猫猫!"
 	}
 
 	"hide_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}关灯躲猫猫!"
+		"chi"		"管理员{purple}不能设置{default}关灯躲猫猫!"
 	}
 
 	"hide_timetohide_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"剩余{1} 秒躲藏!"
+		"chi"		"剩余{1} 秒躲藏!"
 	}
 
 	"hide_timetounfreeze_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后解冻!"
+		"chi"		"{1} 秒后解冻!"
 	}
 
 	"hide_stillta"
 	{
 		"#format"	"{1:i}"
-		"en"		"你还有 {green}{1}{default}个探测雷."
+		"chi"		"你还有 {green}{1}{default}个探测雷."
 	}
 
 	"hide_nota"
 	{
-		"en"		"你 {green}用完了{default} 探测雷!"
+		"chi"		"你 {green}用完了{default} 探测雷!"
 	}
 
 	"hide_info_title"
 	{
-		"en"		"关灯躲猫猫 开始!"
+		"chi"		"关灯躲猫猫 开始!"
 	}
 
 	"hide_info_line1"
 	{
-		"en"		"囚犯一开始有时间可供躲藏!"
+		"chi"		"囚犯一开始有时间可供躲藏!"
 	}
 
 	"hide_info_line2"
 	{
-		"en"		"狱警解冻后，囚犯会被冻结!"
+		"chi"		"狱警解冻后，囚犯会被冻结!"
 	}
 
 	"hide_info_line3"
 	{
-		"en"		"狱警会有探测雷!"
+		"chi"		"狱警会有探测雷!"
 	}
 
 	"hide_info_line4"
 	{
-		"en"		"部分越狱规则此回合可能不适用!"
+		"chi"		"部分越狱规则此回合可能不适用!"
 	}
 
 	"hide_info_line5"
 	{
-		"en"		"LR在本回合被禁用!"
+		"chi"		"LR在本回合被禁用!"
 	}
 
 	"hide_info_line6"
 	{
-		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
+		"chi"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"hide_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"hide_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"hide_name"
 	{
-		"en"		"关灯躲猫猫"
+		"chi"		"关灯躲猫猫"
 	}
 
 	"hide_now_nc"
 	{
-		"en"		"新一轮的关灯躲猫猫开始."
+		"chi"		"新一轮的关灯躲猫猫开始."
 	}
 
 	"hide_now"
 	{
-		"en"		"{purple}关灯躲猫猫{default} 开始."
+		"chi"		"{purple}关灯躲猫猫{default} 开始."
 	}
 
 }

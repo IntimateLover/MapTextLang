@@ -10,125 +10,125 @@
 
 	"freeday_end"
 	{
-		"en"		"{purple}跑图日{default} 结束."
+		"chi"		"{purple}跑图日{default} 结束."
 	}
 
 	"freeday_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}跑图日."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}跑图日."
 	}
 
 	"freeday_next"
 	{
-		"en"		"下一回合: {purple}跑图日."
+		"chi"		"下一回合: {purple}跑图日."
 	}
 
 	"freeday_next_nc"
 	{
-		"en"		"下一回合: 跑图日."
+		"chi"		"下一回合: 跑图日."
 	}
 
 	"freeday_voting"
 	{
-		"en"		"为跑图日的投票被禁用!"
+		"chi"		"为跑图日的投票被禁用!"
 	}
 
 	"freeday_setbywarden"
 	{
-		"en"		"监狱长{purple}不能设置{default}跑图日!"
+		"chi"		"监狱长{purple}不能设置{default}跑图日!"
 	}
 
 	"freeday_setbyadmin"
 	{
-		"en"		"管理员{purple}不能设置{default}跑图日!"
+		"chi"		"管理员{purple}不能设置{default}跑图日!"
 	}
 
 	"freeday_start_nc"
 	{
-		"en"		"跑图日 开始!"
+		"chi"		"跑图日 开始!"
 	}
 
 	"freeday_start"
 	{
-		"en"		"{purple}跑图日{default} 开始!"
+		"chi"		"{purple}跑图日{default} 开始!"
 	}
 
 	"freeday_voted"
 	{
-		"en"		"已经给{purple}跑图日{default}投票!"
+		"chi"		"已经给{purple}跑图日{default}投票!"
 	}
 
 	"freeday_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"freeday_disabled"
 	{
-		"en"		"跑图日目前被 {purple}禁用!"
+		"chi"		"跑图日目前被 {purple}禁用!"
 	}
 
 	"freeday_info_title"
 	{
-		"en"		"今天是跑图日!"
+		"chi"		"今天是跑图日!"
 	}
 
 	"freeday_info_line1"
 	{
-		"en"		"今天是跑图日!"
+		"chi"		"今天是跑图日!"
 	}
 
 	"freeday_info_line2"
 	{
-		"en"		"-----------------------------------"
+		"chi"		"-----------------------------------"
 	}
 
 	"freeday_info_line3"
 	{
-		"en"		"-----------------------------------"
+		"chi"		"-----------------------------------"
 	}
 
 	"freeday_info_line4"
 	{
-		"en"		"部分越狱规则在本回合不适用!"
+		"chi"		"部分越狱规则在本回合不适用!"
 	}
 
 	"freeday_info_line5"
 	{
-		"en"		"LR在此回合禁用!"
+		"chi"		"LR在此回合禁用!"
 	}
 
 	"freeday_info_line6"
 	{
-		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
+		"chi"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"freeday_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"freeday_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"活动日必须等多{purple}{1}{default}回合!"
+		"chi"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"freeday_name"
 	{
-		"en"		"跑图日"
+		"chi"		"跑图日"
 	}
 
 	"freeday_now_nc"
 	{
-		"en"		"新一轮的跑图日开始."
+		"chi"		"新一轮的跑图日开始."
 	}
 
 	"freeday_now"
 	{
-		"en"		"{purple}跑图日{default} 开始."
+		"chi"		"{purple}跑图日{default} 开始."
 	}
 
 }

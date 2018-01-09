@@ -11,155 +11,155 @@
 	"lastguard_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}最后一名狱警的规则."
+		"chi"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}最后一名狱警的规则."
 	}
 
 	"lastguard_twin_nc"
 	{
-		"en"		"囚犯获胜!"
+		"chi"		"囚犯获胜!"
 	}
 
 	"lastguard_minplayer"
 	{
-		"en"		"最后一名狱警规则至少需要{purple}一个狱警和两个囚犯!"
+		"chi"		"最后一名狱警规则至少需要{purple}一个狱警和两个囚犯!"
 	}
 
 	"lastguard_hp"
 	{
 		"#format"	"{1:i},{2:i},{3:N},{4:i}"
-		"en"		"{purple}{1} 囚犯们{default} 的总和为: {purple}{2} HP{default}. 最后一名狱警 {3} 现在有: {purple}{4} HP{default}."
+		"chi"		"{purple}{1} 囚犯们{default} 的总和为: {purple}{2} HP{default}. 最后一名狱警 {3} 现在有: {purple}{4} HP{default}."
 	}
 
 	"lastguard_setbyadmin"
 	{
-		"en"		"管理员{purple}无法设置{default}最后一名狱警规则!"
+		"chi"		"管理员{purple}无法设置{default}最后一名狱警规则!"
 	}
 
 	"lastguard_ctwin_nc"
 	{
-		"en"		"狱警获胜!"
+		"chi"		"狱警获胜!"
 	}
 
 	"lastguard_end"
 	{
-		"en"		"{purple}最后一名狱警规则{default} 结束!"
+		"chi"		"{purple}最后一名狱警规则{default} 结束!"
 	}
 
 	"lastguard_startnow"
 	{
-		"en"		"注意! {purple}最后一名狱警规则{default} 现在生效!"
+		"chi"		"注意! {purple}最后一名狱警规则{default} 现在生效!"
 	}
 
 	"lastguard_startnow_nc"
 	{
-		"en"		"注意! 最后一名狱警规则生效!"
+		"chi"		"注意! 最后一名狱警规则生效!"
 	}
 
 	"lastguard_start"
 	{
-		"en"		"{purple}最后一名狱警规则{default} 开始生效!"
+		"chi"		"{purple}最后一名狱警规则{default} 开始生效!"
 	}
 
 	"lastguard_lr"
 	{
-		"en"		"{purple}LR{default}被激活! 最后一名狱警规则被禁用!"
+		"chi"		"{purple}LR{default}被激活! 最后一名狱警规则被禁用!"
 	}
 
 	"lastguard_start_nc"
 	{
-		"en"		"最后一名狱警规则 开始!"
+		"chi"		"最后一名狱警规则 开始!"
 	}
 
 	"lastguard_movenow"
 	{
-		"en"		"你现在可以 {purple}移动!"
+		"chi"		"你现在可以 {purple}移动!"
 	}
 
 	"lastguard_movenow_nc"
 	{
-		"en"		"你现在可以移动!"
+		"chi"		"你现在可以移动!"
 	}
 
 	"lastguard_voted"
 	{
-		"en"		"已经给{purple}最后一名狱警规则{default}投票!"
+		"chi"		"已经给{purple}最后一名狱警规则{default}投票!"
 	}
 
 	"lastguard_notalive"
 	{
-		"en"		"你必须时 {purple}存活状态{default} 才能使用这条指令!"
+		"chi"		"你必须时 {purple}存活状态{default} 才能使用这条指令!"
 	}
 
 	"lastguard_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"活动 {darkred}{1} {default} {purple}正在进行中! 最后一名狱警规则被禁用!"
+		"chi"		"活动 {darkred}{1} {default} {purple}正在进行中! 最后一名狱警规则被禁用!"
 	}
 
 	"lastguard_running"
 	{
-		"en"		"最后一名狱警规则{default}已经 {purple}生效!"
+		"chi"		"最后一名狱警规则{default}已经 {purple}生效!"
 	}
 
 	"lastguard_disabled"
 	{
-		"en"		"最后一名狱警规则目前被 {purple}禁用!"
+		"chi"		"最后一名狱警规则目前被 {purple}禁用!"
 	}
 
 	"lastguard_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} 秒后开始!"
+		"chi"		"{1} 秒后开始!"
 	}
 
 	"lastguard_info_title"
 	{
-		"en"		"最后一名狱警规则 生效!"
+		"chi"		"最后一名狱警规则 生效!"
 	}
 
 	"lastguard_info_title"
 	{
-		"en"		"最后一名狱警规则 生效!"
+		"chi"		"最后一名狱警规则 生效!"
 	}
 
 	"lastguard_info_line1"
 	{
-		"en"		"最后一名狱警规则 - 囚犯 VS 狱警."
+		"chi"		"最后一名狱警规则 - 囚犯 VS 狱警."
 	}
 
 	"lastguard_info_line4"
 	{
-		"en"		"部分越狱规则在本轮可能不适用!"
+		"chi"		"部分越狱规则在本轮可能不适用!"
 	}
 
 	"lastguard_info_line5"
 	{
-		"en"		"LR在此回合被禁用!"
+		"chi"		"LR在此回合被禁用!"
 	}
 
 	"lastguard_info_line7"
 	{
-		"en"		"不要做一个傻吊!"
+		"chi"		"不要做一个傻吊!"
 	}
 
 	"lastguard_info_line2"
 	{
-		"en"		"所有囚犯都是暴动的!"
+		"chi"		"所有囚犯都是暴动的!"
 	}
 
 	"lastguard_info_line3"
 	{
-		"en"		"最后一名狱警会获得更多的血量!"
+		"chi"		"最后一名狱警会获得更多的血量!"
 	}
 
 	"lastguard_info_line6"
 	{
-		"en"		"任何囚犯都可以到任何地方,狱警不能进入密道和武器库!"
+		"chi"		"任何囚犯都可以到任何地方,狱警不能进入密道和武器库!"
 	}
 
 	"lastguard_close"
 	{
-		"en"		"退出"
+		"chi"		"退出"
 	}
 
 }
