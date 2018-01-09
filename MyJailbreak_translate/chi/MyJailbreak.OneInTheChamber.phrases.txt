@@ -11,151 +11,151 @@
 	"oneinthechamber_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}OneInTheChamber Day."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}一击必杀日."
 	}
 
 	"oneinthechamber_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"oneinthechamber_twin_nc"
 	{
-		"en"		"A Prisoner has survived!"
+		"en"		"一名囚犯获胜!"
 	}
 
 	"oneinthechamber_voting"
 	{
-		"en"		"Voting for OneInTheChamber Day is {purple}disabled!"
+		"en"		"为一击必杀日的投票被禁用!"
 	}
 
 	"oneinthechamber_setbywarden"
 	{
-		"en"		"Set OneInTheChamber Day by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}一击必杀日!"
 	}
 
 	"oneinthechamber_setbyadmin"
 	{
-		"en"		"Set OneInTheChamber Day by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}一击必杀日!"
 	}
 
 	"oneinthechamber_minplayer"
 	{
-		"en"		"For OneInTheChamber Day you need at least {purple}one Guard and one Prisoner!"
+		"en"		"一击必杀日至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"oneinthechamber_ctwin_nc"
 	{
-		"en"		"A Guard has survived!"
+		"en"		"一名狱警获胜!"
 	}
 
 	"oneinthechamber_end"
 	{
-		"en"		"{purple}OneInTheChamber Day{default} has ended."
+		"en"		"{purple}一击必杀日{default} 结束."
 	}
 
 	"oneinthechamber_next"
 	{
-		"en"		"The following round will be: {purple}OneInTheChamber Day."
+		"en"		"下一回合: {purple}一击必杀日."
 	}
 
 	"oneinthechamber_next_nc"
 	{
-		"en"		"The following round will be: OneInTheChamber Day."
+		"en"		"下一回合: 一击必杀日."
 	}
 
 	"oneinthechamber_now_nc"
 	{
-		"en"		"Now a OneInTheChamber round begins."
+		"en"		"新一轮的一击必杀日开始."
 	}
 
 	"oneinthechamber_now"
 	{
-		"en"		"Now a {purple}OneInTheChamber{default} round begins."
+		"en"		"{purple}一击必杀日{default} 开始."
 	}
 
 	"oneinthechamber_start"
 	{
-		"en"		"{purple}OneInTheChamber Day{default} has begun!"
+		"en"		"{purple}一击必杀日{default} 开始!"
 	}
 
 	"oneinthechamber_start_nc"
 	{
-		"en"		"OneInTheChamber Day has begun!"
+		"en"		"一击必杀日 开始!"
 	}
 
 	"oneinthechamber_voted"
 	{
-		"en"		"You have already voted for {purple}OneInTheChamber Day!"
+		"en"		"已经给{purple}一击必杀日{default}投票!"
 	}
 
 	"oneinthechamber_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"oneinthechamber_disabled"
 	{
-		"en"		"OneInTheChamber Day is currently {purple}disabled!"
+		"en"		"一击必杀日目前被 {purple}禁用!"
 	}
 
 	"oneinthechamber_timeuntilstart_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until round start!"
+		"en"		"{1} 秒后开始!"
 	}
 
 	"oneinthechamber_info_title"
 	{
-		"en"		"OneInTheChamber Day is now Activated!"
+		"en"		"一击必杀日 开始!"
 	}
 
 	"oneinthechamber_info_line1"
 	{
-		"en"		"OneInTheChamber Day - Free for All!"
+		"en"		"一击必杀日 - 个人战!"
 	}
 
 	"oneinthechamber_info_line2"
 	{
-		"en"		"You only have one shot in your deagle!"
+		"en"		"你只有一发子弹的沙鹰!"
 	}
 
 	"oneinthechamber_info_line3"
 	{
-		"en"		"When you get a kill, you will be rewarded with another bullet!"
+		"en"		"当你击杀一名敌人,你会获得一枚子弹!"
 	}
 
 	"oneinthechamber_info_line4"
 	{
-		"en"		"All usual Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则在本局可能不适用!"
 	}
 
 	"oneinthechamber_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在此回合被禁用!"
 	}
 
 	"oneinthechamber_info_line6"
 	{
-		"en"		"You must stay in the main Jailroom! Don't enter vents or secrets!"
+		"en"		"你必须留在监狱范围内! 不能进入密道!"
 	}
 
 	"oneinthechamber_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"oneinthechamber_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"oneinthechamber_name"
 	{
-		"en"		"OneInTheChamber Day"
+		"en"		"一击必杀日"
 	}
 
 }
