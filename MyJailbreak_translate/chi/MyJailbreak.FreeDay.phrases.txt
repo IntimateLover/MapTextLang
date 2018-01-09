@@ -10,74 +10,74 @@
 
 	"freeday_end"
 	{
-		"en"		"{purple}Freeday{default} has ended."
+		"en"		"{purple}跑图日{default} 结束."
 	}
 
 	"freeday_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}Freeday."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}跑图日."
 	}
 
 	"freeday_next"
 	{
-		"en"		"The following round will be: {purple}Freeday."
+		"en"		"下一回合: {purple}跑图日."
 	}
 
 	"freeday_next_nc"
 	{
-		"en"		"The following round will be: Freeday."
+		"en"		"下一回合: 跑图日."
 	}
 
 	"freeday_voting"
 	{
-		"en"		"Voting for Freeday is {purple}disabled!"
+		"en"		"为跑图日的投票被禁用!"
 	}
 
 	"freeday_setbywarden"
 	{
-		"en"		"Set Freeday by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}跑图日!"
 	}
 
 	"freeday_setbyadmin"
 	{
-		"en"		"Set Freeday by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}跑图日!"
 	}
 
 	"freeday_start_nc"
 	{
-		"en"		"Freeday has begun!"
+		"en"		"跑图日 开始!"
 	}
 
 	"freeday_start"
 	{
-		"en"		"{purple}Freeday{default} has begun!"
+		"en"		"{purple}跑图日{default} 开始!"
 	}
 
 	"freeday_voted"
 	{
-		"en"		"You have already voted for {purple}Freeday!"
+		"en"		"已经给{purple}跑图日{default}投票!"
 	}
 
 	"freeday_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event {darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"freeday_disabled"
 	{
-		"en"		"Freeday is currently {purple}disabled!"
+		"en"		"跑图日目前被 {purple}禁用!"
 	}
 
 	"freeday_info_title"
 	{
-		"en"		"It's a Freeday!"
+		"en"		"今天是跑图日!"
 	}
 
 	"freeday_info_line1"
 	{
-		"en"		"It's a Freeday!"
+		"en"		"今天是跑图日!"
 	}
 
 	"freeday_info_line2"
@@ -92,43 +92,43 @@
 
 	"freeday_info_line4"
 	{
-		"en"		"All usual Jailbreak rules do not apply during this round!"
+		"en"		"部分越狱规则在本回合不适用!"
 	}
 
 	"freeday_info_line5"
 	{
-		"en"		"Last Requests are disabled during this round!"
+		"en"		"LR在此回合禁用!"
 	}
 
 	"freeday_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"freeday_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"freeday_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"freeday_name"
 	{
-		"en"		"Freeday"
+		"en"		"跑图日"
 	}
 
 	"freeday_now_nc"
 	{
-		"en"		"Now a freeday round begins."
+		"en"		"新一轮的跑图日开始."
 	}
 
 	"freeday_now"
 	{
-		"en"		"Now a {purple}freeday{default} round begins."
+		"en"		"{purple}跑图日{default} 开始."
 	}
 
 }
