@@ -11,168 +11,168 @@
 	"hide_need"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} votes required to play {darkred}Hide in the Dark."
+		"en"		"{purple}{2}{default} 名玩家已经投票. 至少需要 {purple}{1}{default} 票来进行{darkred}关灯躲猫猫."
 	}
 
 	"hide_twin_nc"
 	{
-		"en"		"Hiders win!"
+		"en"		"囚犯获胜!"
 	}
 
 	"hide_rounds"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"Round {purple}{1}{default} of {purple}{2}"
+		"en"		"第 {purple}{1}{default} / {purple}{2}{default} 回合"
 	}
 
 	"hide_ctwin_nc"
 	{
-		"en"		"Seekers win!"
+		"en"		"狱警获胜!"
 	}
 
 	"hide_end"
 	{
-		"en"		"{purple}Hide in the Dark{default} has ended."
+		"en"		"{purple}关灯躲猫猫{default} 结束."
 	}
 
 	"hide_next_nc"
 	{
-		"en"		"The following round will be: Hide in the Dark."
+		"en"		"下一回合: 关灯躲猫猫."
 	}
 
 	"hide_next"
 	{
-		"en"		"The following round will be: {purple}Hide in the Dark."
+		"en"		"下一回合: {purple}关灯躲猫猫."
 	}
 
 	"hide_start"
 	{
-		"en"		"{purple}Hide in the Dark{default} has begun!"
+		"en"		"{purple}关灯躲猫猫{default} 开始!"
 	}
 
 	"hide_start_nc"
 	{
-		"en"		"Hide in the Dark has begun!"
+		"en"		"关灯躲猫猫 开始!"
 	}
 
 	"hide_voted"
 	{
-		"en"		"You have already voted for {purple}Hide in the Dark!"
+		"en"		"已经给{purple}关灯躲猫猫{default}投票!"
 	}
 
 	"hide_progress"
 	{
 		"#format"	"{1:s}"
-		"en"		"The event{darkred}{1} {default}is {purple}already in progress!"
+		"en"		"活动 {darkred}{1} {default} {purple}正在进行中!"
 	}
 
 	"hide_minplayer"
 	{
-		"en"		"For Hide in the Dark you need at least {purple}one Guard and one Prisoner!"
+		"en"		"关灯躲猫猫至少需要{purple}一个狱警和囚犯!"
 	}
 
 	"hide_disabled"
 	{
-		"en"		"Hide in the Dark currently {purple}disabled!"
+		"en"		"关灯躲猫猫目前被 {purple}禁用!"
 	}
 
 	"hide_voting"
 	{
-		"en"		"Voting for Hide in the Dark is {purple}disabled!"
+		"en"		"为关灯躲猫猫的投票被禁用!"
 	}
 
 	"hide_setbyWarden"
 	{
-		"en"		"Set Hide in the Dark by Warden is {purple}disabled!"
+		"en"		"监狱长{purple}不能设置{default}关灯躲猫猫!"
 	}
 
 	"hide_setbyadmin"
 	{
-		"en"		"Set Hide in the Dark by Admin is {purple}disabled!"
+		"en"		"管理员{purple}不能设置{default}关灯躲猫猫!"
 	}
 
 	"hide_timetohide_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds left to hide!"
+		"en"		"剩余{1} 秒躲藏!"
 	}
 
 	"hide_timetounfreeze_nc"
 	{
 		"#format"	"{1:i}"
-		"en"		"{1} seconds until unfreeze!"
+		"en"		"{1} 秒后解冻!"
 	}
 
 	"hide_stillta"
 	{
 		"#format"	"{1:i}"
-		"en"		"You have {green}{1}{default} TAGrenade(s) left."
+		"en"		"你还有 {green}{1}{default}个探测雷."
 	}
 
 	"hide_nota"
 	{
-		"en"		"You've {green}run out{default} of TAGrenades!"
+		"en"		"你 {green}用完了{default} 探测雷!"
 	}
 
 	"hide_info_title"
 	{
-		"en"		"Hide In The Dark is now Activated!"
+		"en"		"关灯躲猫猫 开始!"
 	}
 
 	"hide_info_line1"
 	{
-		"en"		"The Hiders have time to hide at the start of the round!"
+		"en"		"囚犯一开始有时间可供躲藏!"
 	}
 
 	"hide_info_line2"
 	{
-		"en"		"Hiders will be frozen when the Seeker becomes unfreezed!"
+		"en"		"狱警解冻后，囚犯会被冻结!"
 	}
 
 	"hide_info_line3"
 	{
-		"en"		"The Seeker has been given TAGrenades!"
+		"en"		"狱警会有探测雷!"
 	}
 
 	"hide_info_line4"
 	{
-		"en"		"All ususal Jailbreak Rules do not apply during this round!"
+		"en"		"部分越狱规则此回合可能不适用!"
 	}
 
 	"hide_info_line5"
 	{
-		"en"		"Last Request is disabled during this round!"
+		"en"		"LR在本回合被禁用!"
 	}
 
 	"hide_info_line6"
 	{
-		"en"		"Everyone is allowed to go anywhere within the map!"
+		"en"		"任何人都能去任何地方,包括密道武器库都可以!"
 	}
 
 	"hide_info_line7"
 	{
-		"en"		"Don't be an Asshole!"
+		"en"		"不要做一个傻吊!"
 	}
 
 	"hide_wait"
 	{
 		"#format"	"{1:i}"
-		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+		"en"		"活动日必须等多{purple}{1}{default}回合!"
 	}
 
 	"hide_name"
 	{
-		"en"		"Hide in the Dark"
+		"en"		"关灯躲猫猫"
 	}
 
 	"hide_now_nc"
 	{
-		"en"		"Now a hide round begins."
+		"en"		"新一轮的关灯躲猫猫开始."
 	}
 
 	"hide_now"
 	{
-		"en"		"Now a {purple}hide{default} round begins."
+		"en"		"{purple}关灯躲猫猫{default} 开始."
 	}
 
 }
