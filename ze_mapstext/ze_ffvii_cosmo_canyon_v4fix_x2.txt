@@ -283,4 +283,16 @@
 			"cvar"		"sm_spawn_give_armor 1"
 		}
 	}
+	"**Chest Quest completed!**"
+	{
+		"chi"		"** **"
+	}
+	"**The reward is waiting for you...**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Mystery Potion**"
+	{
+		"chi"		"** **"
+	}
 }

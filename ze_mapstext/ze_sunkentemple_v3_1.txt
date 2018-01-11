@@ -160,7 +160,7 @@
 	">>> Drawbridge will open in 15 seconds <<<"
 	{
 		"chi"		"**吊桥在15秒后启动 **"
-		"DoorCountDown" "15"
+		"DoorCountDown"		"15"
 	}
 	">>> Gate will close in 15 seconds <<<"
 	{
@@ -185,10 +185,14 @@
 	">>> Gate will open in 40 seconds <<<"
 	{
 		"chi"		"**大门40秒后开启 **"
-		"DoorCountDown" "40"
+		"DoorCountDown"		"40"
 	}
 	">>> Gate will close in 10 seconds <<<"
 	{
 		"chi"		"**大门10秒后关闭 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

@@ -100,4 +100,83 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Admin switched to Act L6-L7! ***"
+	{
+		"chi"		"** **"
+	}
+	"**Reach the teleporter to meet Leiv**"
+	{
+		"chi"		"** **"
+	}
+	"**Beware of Viz attack!**"
+	{
+		"chi"		"** **"
+	}
+	"**First gates will break in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Second gates will break in 50 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Door will break in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Bridges will break in 40 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"mp_roundtime 15"
+		}
+	}
+	"**Leiv: Heal my warriors and prepare to fight.**"
+	{
+		"chi"		"** **"
+	}
+	"**Leiv: Teleporting everyone in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Destroy Viz Shield!**"
+	{
+		"chi"		"** **"
+	}
+	"**Demonfire**"
+	{
+		"chi"		"** **"
+	}
+	"**Heat Wave**"
+	{
+		"chi"		"** **"
+	}
+	"**Execute**"
+	{
+		"chi"		"** **"
+	}
+	"**Fire Vortex**"
+	{
+		"chi"		"** **"
+	}
+	"**Viz has escaped!**"
+	{
+		"chi"		"** **"
+	}
+	"**Humans teleporting in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Gates will break in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**DESTROY VIZ SHIELD**"
+	{
+		"chi"		"** **"
+	}
 }

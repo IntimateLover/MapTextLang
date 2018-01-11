@@ -1,0 +1,282 @@
+"Console_T"
+{
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"** **"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"** **"
+	}
+	"**Port by isa. Respect for Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to Weed-Lancer for tons of grammar errors fix**"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_FFVII_COSMO_CANYON**"
+	{
+		"chi"		"** **"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**We are near Cosmo Canyon**"
+	{
+		"chi"		"** **"
+	}
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**Welcome to Cosmo Canyon**"
+	{
+		"chi"		"** **"
+	}
+	"**The barman will open the door in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
+	{
+		"chi"		"** **"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**FALL BACK**"
+	{
+		"chi"		"** **"
+	}
+	"**The rock will explode in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"1"
+		{
+			"cvar"		"sm_armor_limit 5"
+		}
+		"2"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"3"
+		{
+			"cvar"		"sm_spawn_give_armor 1"
+		}
+	}
+	"**A player has picked up BIO materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up HEAL materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up FIRE materia**"
+	{
+		"chi"		"** **"
+	}
+	"**The Cave of the GI gates will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait until something happens**"
+	{
+		"chi"		"** **"
+	}
+	"**GI Nattak arena will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Nades do more damage. Use them!**"
+	{
+		"chi"		"** **"
+	}
+	"**Some of the items can affect him. Use them!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using poison**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattck is using silence**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is spawning minions. Watch out for them**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using aspil**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using fire**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattack is dead**"
+	{
+		"chi"		"** **"
+	}
+	"**Now you can get out of Cave of Gi**"
+	{
+		"chi"		"** **"
+	}
+	"**DOOR OPENS IN 35 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"** **"
+	}
+	"**Get to the airship and defend until it leaves**"
+	{
+		"chi"		"** **"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"** **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up GRAVITY materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up ELECTRO materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up ULTIMA materia**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattck is using shield**"
+	{
+		"chi"		"** **"
+	}
+	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
+	{
+		"chi"		"** **"
+	}
+	"**EXTREME MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**...Are you surprised?...**"
+	{
+		"chi"		"** **"
+	}
+	"**...Didnt you expect me?...**"
+	{
+		"chi"		"** **"
+	}
+	"**...Oh okay im disappearing...**"
+	{
+		"chi"		"** **"
+	}
+	"**Ifrit is defeated! Get on the airship**"
+	{
+		"chi"		"** **"
+	}
+	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
+	{
+		"chi"		"** **"
+	}
+	"**RAGE MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**The airship to Shinra will arrive in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The airship is right here...**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Ifrit is defeated. Get back in the elevator**"
+	{
+		"chi"		"** **"
+	}
+	"**The power is lost. Defend until the emergency generators are on**"
+	{
+		"chi"		"** **"
+	}
+	"**We got the power. The gates will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do more damage. **"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up SLEEP materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up EARTH materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up WIND materia**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak has healed 150 hp**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using wind**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using gravity**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is spawning minions. Look on them**"
+	{
+		"chi"		"** **"
+	}
+	"**You are too slow**"
+	{
+		"chi"		"** **"
+	}
+}
