@@ -169,13 +169,13 @@
 	"warden_startcountdown_nc"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Start in {1} seconds!"
+		"chi"		"{1} 秒后开始!"
 	}
 
 	"warden_stopcountdown_nc"
 	{
 		"#format"	"{1:i}"
-		"chi"		"Stop/End in {1} seconds!"
+		"chi"		" {1} 秒后结束!"
 	}
 
 	"warden_startcountdown"
@@ -247,12 +247,12 @@
 
 	"warden_noblockoff"
 	{
-		"chi"		"The Warden toggled {purple}NoBlock off!"
+		"chi"		"监狱长关闭了 {purple}无视体积碰撞!"
 	}
 
 	"warden_noblockon"
 	{
-		"chi"		"The Warden toggled {purple}NoBlock on!"
+		"chi"		"监狱长打开了 {purple}无视体积碰撞!"
 	}
 
 	"warden_need"
