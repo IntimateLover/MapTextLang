@@ -1,0 +1,27 @@
+"Phrases"
+{	
+	"!wr"
+	{
+		"chi"        "{grey}使用 {default}!wr <map> {grey}或 {default}!bwr <bonus> <map> {grey}来查询当前模式的最快纪录."
+	}
+	"!maptop"
+	{
+		"chi"        "{grey}查询当前模式的地图排名，输入{default}!maptop <map>{grey}."
+	}
+	"!avg"
+	{
+		"chi"        "{grey}输入 {default}!avg <map> {grey}查询地图平均完成时间."
+	}
+	"!pc"
+	{
+		"chi"        "{grey}想要查询多少由你打破的地图和BONUS? 输入 {default}!pc <player> {grey}查询!"
+	}
+	"Bonus Commands"
+	{
+		"chi"        "{grey}对于BONUS记录, 你可以使用 {default}!bwr <bonus>{grey}, {default}!bmaptop <bonus>{grey}, 和其他来替代常规指令."
+	}
+	"MVP Stars"
+	{
+		"chi"        "{grey}你的MVP星数代表了你在服务器常规模式下完成PRO记录的地图和BONUS的百分比."
+	}
+}

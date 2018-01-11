@@ -1,0 +1,529 @@
+"Phrases"
+{
+	// General Chat Messages ////////////////////////////////////////////////////////////
+	"Beat Map (NUB)"
+	{
+		// Bill finished in NUB 01:23.45 [Mode]
+		"#format"	"{1:N},{2:s},{3:s}"
+		"chi"		"{lime}{1} {grey}完成地图 {yellow}NUB {default}{2} {grey}[{purple}{3}{grey}]"
+	}
+	"Beat Map (PRO)"
+	{
+		// Bill finished in PRO 01:23.45 [Mode]
+		"#format"	"{1:N},{2:s},{3:s}"
+		"chi"		"{lime}{1} {grey}完成地图 {blue}PRO {default}{2} {grey}[{purple}{3}{grey}]"
+	}
+	"Beat Bonus (NUB)"
+	{
+		// Bill finished Bonus 1 in NUB 01:23.45 [Mode]
+		"#format"	"{1:N},{2:d},{3:s},{4:s}"
+		"chi"		"{lime}{1} {grey}完成 {bluegrey}Bonus {2} {grey}in {yellow}NUB {default}{3} {grey}[{purple}{4}{grey}]"
+	}
+	"Beat Bonus (PRO)"
+	{
+		// Bill finished Bonus 1 in PRO 01:23.45 [Mode]
+		"#format"	"{1:N},{2:d},{3:s},{4:s}"
+		"chi"		"{lime}{1} {grey}完成 {bluegrey}Bonus {2} {grey}in {blue}PRO {default}{3} {grey}[{purple}{4}{grey}]"
+	}
+	"Time Stopped"
+	{
+		"chi"		"{darkred}你已停止计时."
+	}
+	"Time Stopped (Noclipped)"
+	{
+		"chi"		"{darkred}你的计时已经停止因为使用了鬼魂模式."	
+	}
+	"Time Stopped (Goto)"
+	{
+		"chi"		"{darkred}你的计时已经停止因为使用了!goto."
+	}
+	"Time Stopped (Changed Mode)"
+	{
+		"chi"		"{darkred}你的计时已经停止因为你切换了模式."
+	}
+	"Client Connection Message"
+	{
+		// Bill has joined the server.
+		"#format"	"{1:N}"
+		"chi"		"{lime}{1}{grey} 进入了服务器."
+	}
+	"Client Disconnection Message"
+	{
+		// Bill has left the server (Disconnect).
+		"#format"	"{1:N},{2:s}"
+		"chi"		"{lime}{1}{grey} 离开了服务器 ({2})."
+	}
+	"Database Not Connected"
+	{
+		"chi"		"{grey}当前服务器没有连接到 {default}SimpleKZ{grey} 数据库."
+	}
+	"See Console"
+	{
+		"chi"        "{grey}更多指令输出请查看控制台."
+	}
+	"No Players Found"
+	{
+		"chi"        "{darkred}没有找到玩家."
+	}
+	"Spectator List (None)"
+	{
+		"chi"        "{grey}当前没有观察者."
+	}
+	"Spectator List"
+	{
+		// All spectators (3) - Alice, Bob, Charlie
+		"#format"   "{1:d},{2:s}"
+		"chi"        "{grey}观察者 ({default}{1}{grey}) - {2}"
+	}
+	"Target Spectator List (None)"
+	{
+		// No one is spectating Bill right now.
+		"#format"   "{1:N}"
+		"chi"        "{grey}当前没有玩家正在观察{lime}{1}{grey}."
+	}
+	"Target Spectator List"
+	{
+		// Spectating Bill (2) - Alice, Charlie
+		"#format"   "{1:N},{2:d},{3:s}"
+		"chi"        "{grey}观察者 {lime}{1}{grey} ({default}{2}{grey}) - {3}"
+	}
+	
+	
+	// Command Chat Messages ////////////////////////////////////////////////////////////
+	"Must Be Alive"
+	{
+		"chi"		"{darkred}你必须保持存活状态."
+	}
+	"Make Checkpoint"
+	{
+		"chi"		"{grey}存点已保存."
+	}
+	"Can't Checkpoint (Midair)"
+	{
+		"chi"		"{darkred}空中不能存点."
+	}
+	"Can't Checkpoint (Just Landed)"
+	{
+		"chi"		"{darkred}刚落地时不能存点."
+	}
+	"Can't Teleport (No Checkpoints)"
+	{
+		"chi"		"{darkred}不能读点，没有存点."
+	}
+	"Can't Teleport (Map)"
+	{
+		"chi"		"{darkred}当前区域不能读点."
+	}
+	"Can't Prev CP (No Checkpoints)"
+	{
+		"chi"		"{darkred}没有前一个存点."
+	}
+	"Can't Next CP (No Checkpoints)"
+	{
+		"chi"		"{darkred}没有下一个存点."
+	}
+	"Can't Undo (No Teleports)"
+	{
+		"chi"		"{darkred}不能撤销读点因为没有传送点来撤销."
+	}
+	"Can't Undo (TP Was Midair)"
+	{
+		"chi"		"{darkred}不能撤销读点因为空中传送."
+	}
+	"Can't Undo (Just Landed)"
+	{
+		"chi"		"{darkred}不能撤销读点因为你刚落地."
+	}
+	"Can't Pause (Just Resumed)"
+	{
+		"chi"		"{darkred}不能暂停因为你刚解除暂停."
+	}
+	"Can't Pause (Midair)"
+	{
+		"chi"		"{darkred}不能空中暂停."
+	}
+	"Can't Resume (Just Paused)"
+	{
+		"chi"		"{darkred}不能解除暂停因为你刚暂停."
+	}
+	"Stopped Sounds"
+	{
+		"chi"		"{grey}所有声音已停止."
+	}
+	"Goto Success"
+	{
+		// You have teleported to Bill.
+		"#format"	"{1:N}"
+		"chi"		"{grey}你已传送至{lime}{1}{grey}."
+	}
+	"Goto Failure (Not Yourself)"
+	{
+		"chi"		"{darkred}不能以自己为传送目标."
+	}
+	"Goto Failure (Dead)"
+	{
+		"chi"		"{darkred}你选择的目标当前并没存活."
+	}
+	"Spectate Failure (Not Yourself)"
+	{
+		"chi"		"{darkred}不能观察自己."
+	}
+	"Spectate Failure (Dead)"
+	{
+		"chi"		"{darkred}你选择的目标当前并没存活."
+	}
+	"Measure Result"
+	{
+		// Distance - Horizontal: 123.45 (121.11), Vertical: 12.34.
+		"#format"	"{1:.1f},{2:.1f},{3:.1f}"
+		"chi"		"{default}距离{grey} - 横向坐标: {default}{1}{grey} ({default}{2}{grey}), 纵向坐标: {default}{3}{grey}"
+	}
+	"Measure Failure (Points Not Set)"
+	{
+		"chi"		"{darkred}你必须选择两个点来测量距离."
+	}
+	"Measure Failure (Not Aiming at Solid)"
+	{
+		"chi"		"{darkred}选择目标无效!"
+	}
+	"Switched Mode"
+	{
+		// You have switched to the Vanilla mode.
+		"#format"	"{1:s}"
+		"chi"		"{grey}你已切换至{purple}{1} {grey}模式."
+	}
+	"Mode Not Available"
+	{
+		// The Vanilla mode is currently not available.
+		"#format"	"{1:s}"
+		"chi"		"{grey}当前{purple}{1} {grey}模式不可用."
+	}
+	"Set Custom Start Position"
+	{
+		"chi"		"{grey}自定义起点已设置."
+	}
+	"Cleared Custom Start Position"
+	{
+		"chi"		"{grey}自定义起点已清除."
+	}
+	"Invalid Bonus Number"
+	{
+		// 'asdf' is not a valid bonus number.
+		"#format"	"{1:s}"
+		"chi"		"{grey}'{default}{1}{grey}' 不是有效的BONUS编号."
+	}
+	"Player No Longer Valid"
+	{
+		"chi"        "{darkred}你选择的玩家不再有效."
+	}
+	"Please Wait Before Using Command Again"
+	{
+		"chi"        "{grey}请稍后再次使用指令."
+	}
+	"Please Wait Before Using Command"
+	{
+		// Please wait 2.5 seconds before using that command.
+		"#format"   "{1:.1f}"
+		"chi"        "{grey}请等待{default}{1} {grey}秒后使用当前指令."
+	}
+	
+	
+	// Option Change Chat Messages ////////////////////////////////////////////////////////////
+	"Option - Teleport Menu - Disable"
+	{
+		"chi"		"{grey}存点菜单已禁用."
+	}
+	"Option - Teleport Menu - Enable (Simple)"
+	{
+		"chi"		"{grey}存点菜单已启用."
+	}
+	"Option - Teleport Menu - Enable (Advanced)"
+	{
+		"chi"		"{grey}高级存点菜单已启用."
+	}
+	"Option - Show Players - Enable"
+	{
+		"chi"		"{grey}屏蔽其他玩家关闭."
+	}
+	"Option - Show Players - Disable"
+	{
+		"chi"		"{grey}屏蔽其他玩家启用."
+	}
+	"Option - Info Panel - Enable"
+	{
+		"chi"		"{grey}中心面板已启用."
+	}
+	"Option - Info Panel - Disable"
+	{
+		"chi"		"{grey}中心面板已禁用."
+	}
+	"Option - Show Weapon - Enable"
+	{
+		"chi"		"{grey}显示武器."
+	}
+	"Option - Show Weapon - Disable"
+	{
+		"chi"		"{grey}隐藏武器."
+	}
+	"Option - Auto Restart - Enable"
+	{
+		"chi"		"{grey}传送至起点时将开始计时."
+	}
+	"Option - Auto Restart - Disable"
+	{
+		"chi"		"{grey}传送至起点时将不再开始计时."
+	}
+	"Option - Slay On End - Enable"
+	{
+		"chi"		"{grey}完成本次计时后将被处死，这将有助于POV的录制."
+	}
+	"Option - Slay On End - Disable"
+	{
+		"chi"		"{grey}完成本次计时后不再会被处死."
+	}
+	"Option - Help And Tips - Enable"
+	{
+		"chi"        "{grey}你将能查看帮助和提示."
+	}
+	"Option - Help And Tips - Disable"
+	{
+		"chi"        "{grey}你将不再能查看帮助和提示."
+	}
+	
+	
+	// Info Panel Text ////////////////////////////////////////////////////////////
+	"Info Panel Text - Time"
+	{
+		"chi"		"时间"
+	}
+	"Info Panel Text - Stopped"
+	{
+		"chi"		"已停止"
+	}
+	"Info Panel Text - PAUSED"
+	{
+		"chi"		"暂停"
+	}
+	"Info Panel Text - Speed"
+	{
+		"chi"		"速度"
+	}
+	"Info Panel Text - Keys"
+	{
+		"chi"		"按键"
+	}
+	
+	
+	// Teleport Menu ////////////////////////////////////////////////////////////
+	"TP Menu - Checkpoint"
+	{
+		"chi"		"存点"
+	}
+	"TP Menu - Teleport"
+	{
+		"chi"		"读点"
+	}
+	"TP Menu - Prev CP"
+	{
+		"chi"		"前个存点"
+	}
+	"TP Menu - Next CP"
+	{
+		"chi"		"下个存点"
+	}
+	"TP Menu - Undo TP"
+	{
+		"chi"		"撤销读点"
+	}
+	"TP Menu - Pause"
+	{
+		"chi"		"暂停"
+	}
+	"TP Menu - Resume"
+	{
+		"chi"		"恢复"
+	}
+	"TP Menu - Restart"
+	{
+		"chi"		"回到起点"
+	}
+	"TP Menu - Respawn"
+	{
+		"chi"		"重生"
+	}
+	
+	
+	// Mode Menu ////////////////////////////////////////////////////////////
+	"Mode Menu - Title"
+	{
+		"chi"		"更换模式"
+	}
+	
+	
+	// Measure Menu ////////////////////////////////////////////////////////////
+	"Measure Menu - Title"
+	{
+		"chi"		"测量"
+	}
+	"Measure Menu - Point A"
+	{
+		"chi"		"Point A (Green)"
+	}
+	"Measure Menu - Point B"
+	{
+		"chi"		"Point B (Red)"
+	}
+	"Measure Menu - Get Distance"
+	{
+		"chi"		"显示距离"
+	}
+	
+	
+	// Goto Menu ////////////////////////////////////////////////////////////
+	"Goto Menu - Title"
+	{
+		"chi"		"传送至玩家"
+	}
+	
+	
+	// Spec Menu ////////////////////////////////////////////////////////////
+	"Spec Menu - Title"
+	{
+		"chi"		"观察玩家"
+	}
+	
+	
+	// Pistol Menu ////////////////////////////////////////////////////////////
+	"Pistol Menu - Title"
+	{
+		"chi"        "选择手枪"
+	}
+	
+	
+	// Options Menu ////////////////////////////////////////////////////////////
+	"Options Menu - Title"
+	{
+		"chi"		"选项"
+	}
+	"Options Menu - Enabled"
+	{
+		"chi"		"启用"
+	}
+	"Options Menu - Disabled"
+	{
+		"chi"		"停用"
+	}
+	"Options Menu - Top"
+	{
+		"chi"		"上"
+	}
+	"Options Menu - Bottom"
+	{
+		"chi"		"下"
+	}
+	"Options Menu - Bottom"
+	{
+		"chi"		"底部"
+	}
+	"Options Menu - Always"
+	{
+		"chi"		"总是"
+	}
+	"Options Menu - Spectating"
+	{
+		"chi"		"观察中"
+	}
+	"Options Menu - Feet"
+	{
+		"chi"		"脚部"
+	}
+	"Options Menu - Head"
+	{
+		"chi"		"头部"
+	}
+	"Options Menu - Feet and Head"
+	{
+		"chi"		"脚部和头部"
+	}
+	"Options Menu - Ground"
+	{
+		"chi"		"地面"
+	}
+	"Options Menu - Simple"
+	{
+		"chi"		"简单"
+	}
+	"Options Menu - Advanced"
+	{
+		"chi"		"进阶"
+	}
+	"Options Menu - Mode"
+	{
+		"chi"        "模式"
+	}
+	"Options Menu - Teleport Menu"
+	{
+		"chi"		"传送菜单"
+	}
+	"Options Menu - Info Panel"
+	{
+		"chi"		"中心面板"
+	}
+	"Options Menu - Show Players"
+	{
+		"chi"		"显示玩家"
+	}
+	"Options Menu - Show Weapon"
+	{
+		"chi"		"显示武器"
+	}
+	"Options Menu - Show Keys"
+	{
+		"chi"		"显示按键"
+	}
+	"Options Menu - Auto Restart"
+	{
+		"chi"		"自动重新开始"
+	}
+	"Options Menu - Slay On End"
+	{
+		"chi"		"时间结束后处死"
+	}
+	"Options Menu - Pistol"
+	{
+		"chi"		"手枪"
+	}
+	"Options Menu - Checkpoint Messages"
+	{
+		"chi"		"存点信息"
+	}
+	"Options Menu - Checkpoint Sounds"
+	{
+		"chi"		"存点声音"
+	}
+	"Options Menu - Teleport Sounds"
+	{
+		"chi"		"读点声音"
+	}
+	"Options Menu - Error Sounds"
+	{
+		"chi"		"错误声音"
+	}
+	"Options Menu - Timer Text"
+	{
+		"chi"		"时间文本"
+	}
+	"Options Menu - Speed Text"
+	{
+		"chi"		"速度文本"
+	}
+	"Options Menu - Jump Beam"
+	{
+		"chi"		"跳跃光束"
+	}
+	"Options Menu - Help and Tips"
+	{
+		"chi"        "帮助和提示"
+	}
+}
+

@@ -1,0 +1,42 @@
+"Phrases"
+{
+	// General ////////////////////////////////////////////////////////////
+	"Perfs"
+	{
+		"chi"        "同步率"
+	}
+	"Average"
+	{
+		"chi"        "平均特征值"
+	}
+	"Pattern"
+	{
+		"chi"        "特征值"
+	}
+	
+	
+	// Chat Messages ////////////////////////////////////////////////////////////
+	"Antimacro Warning"
+	{
+		"chi"        "{darkred}注意！使用软件，宏，脚本或任何外部辅助协助角色移动是严令禁止的并且会导致自动封禁。"
+	}
+	"Not Enough Bhops"
+	{
+		// Bill has not bhopped enough for a bhop check.
+		"#format"	"{1:N}"
+		"chi"        "{lime}{1} {grey}并没有足够的BHOP数量来进行检测."
+	}
+	"Not Enough Bhops (Self)"
+	{
+		"chi"        "{grey}你并没有足够的BHOP数量来进行检测."
+	}
+	
+	
+	// Console Messages ////////////////////////////////////////////////////////////
+	"Not Enough Bhops (Console)"
+	{
+		// Bill has not bhopped enough for a bhop check. Skipping...
+		"#format"	"{1:N}"
+		"chi"        "{1} 并没有足够的BHOP数量来进行检测. 跳过中..."
+	}
+}

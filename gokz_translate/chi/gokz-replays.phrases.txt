@@ -1,0 +1,42 @@
+"Phrases"
+{	
+	// Chat Messages ////////////////////////////////////////////////////////////
+	"No Replays Found (Map)"
+	{
+		"chi"        "{darkred}当前地图无回放录像."
+	}
+	"No Replays Found (Mode)"
+	{
+		// No Vanilla replays for this map were found.
+		"#format"   "{1:s}"
+		"chi"        "{darkred}没有 {1} 当前地图回放录像."
+	}
+	"No Bots Available"
+	{
+		"chi"		"{darkred}当前无可用回放录像机器人."
+	}
+	
+	
+	// Replay Menu ////////////////////////////////////////////////////////////
+	"Replay Menu - Title"
+	{
+		// Load a Replay
+		//
+		// Map - kz_map
+		// Mode - Vanilla
+		//
+		"#format"	"{1:s},{2:s}"
+		"chi"        "Load a Replay\n \nMap - {1}\nMode - {2}\n "
+	}
+	"Replay Menu (Mode) - Title"
+	{
+		// Load a Replay
+		//
+		// Map - kz_map
+		//
+		// Select a Mode
+		"#format"	"{1:s}"
+		"chi"		"Load a Replay\n \nMap - {1}\n \nSelect a Mode"
+	}
+}
+
