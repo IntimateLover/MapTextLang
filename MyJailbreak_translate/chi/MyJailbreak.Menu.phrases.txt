@@ -55,7 +55,7 @@
 
 	"menu_noblock"
 	{
-		"chi"		"Toggle NoBlock"
+		"chi"		"开/关 人物体积碰撞"
 	}
 
 	"menu_sparks"
