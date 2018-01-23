@@ -19,7 +19,7 @@
 	"<<< Wall breaks in 30 seconds!!! >>>"
 	{
 		"chi"		">>>墙壁30秒后破碎<<<"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"<<< Top stair door is open!!! >>>"
 	{
@@ -60,12 +60,12 @@
 	"<<< Defend for 50 seconds!!! >>>"
 	{
 		"chi"		">>>守住50秒<<<"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"<<< Door opens in 30 seconds!!! >>>"
 	{
 		"chi"		">>>大门30秒后打开<<<"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"<<< Left side door opened!!! >>>"
 	{
@@ -78,12 +78,12 @@
 	"<<< Door opens in 15 seconds!!! >>>"
 	{
 		"chi"		">>>大门15秒后打开<<<"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"<<< Final door closes in 30 seconds!!! >>>"
 	{
 		"chi"		">>>最后大门将在30秒后打开<<<"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"<<< Impact >>>"
 	{
@@ -144,7 +144,7 @@
 	"*** Ship starting in 25 sec ***"
 	{
 		"chi"		"**飞船25秒后离开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** Elevator is starting in 14 sec ***"
 	{
@@ -153,6 +153,6 @@
 	"*** Ship starting in 35 sec ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 }

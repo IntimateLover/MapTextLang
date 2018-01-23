@@ -11,7 +11,7 @@
 	"*** Door is opening in 20secs ***"
 	{
 		"chi"		" *** 门打开于20秒后 ***"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Door is opening in 5secs ***"
 	{
@@ -24,7 +24,7 @@
 	"*** Trains leaving in 30secs***"
 	{
 		"chi"		"*** 矿车30秒后离开  ***"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Trains are leaving  ***"
 	{

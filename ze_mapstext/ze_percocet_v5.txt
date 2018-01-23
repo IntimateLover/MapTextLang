@@ -100,4 +100,15 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 7"
+		}
+	}
 }

@@ -586,7 +586,7 @@
 	}
 	"### ZOMBIES IN COMING !! HOLD THIS PLATFORM FOR 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了，守住这个地方30秒**"
 	}
 	"### TIP: YOU CAN SHOOT ZOMBIE OFF THE PLATFORM ###"
 	{
@@ -618,7 +618,7 @@
 	}
 	"### GOOD LUCK HUMAN !!! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**祝你好运，人类**"
 	}
 	"### Hold here for 30 seconds ###"
 	{
@@ -670,7 +670,8 @@
 	}
 	"### DOOR BREAKS IN 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**门在30秒后碎**"
+		"DoorCountdown"		"30"
 	}
 	"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
 	{
@@ -746,7 +747,7 @@
 	}
 	"### ADMIN HAS SELECTED PART : III ###"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关**"
 	}
 	"### DONT LET ZOMBIES ON THE PLATFORM !!! ###"
 	{

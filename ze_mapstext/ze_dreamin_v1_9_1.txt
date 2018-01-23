@@ -19,22 +19,22 @@
 	"***RESIST FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"***HOLD FOR 15 SECONDS***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***RESIST 20 SECONDS***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***TELEPORT ENABLE IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后传送 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***5 seconds left***"
 	{
@@ -47,7 +47,7 @@
 	"***Elevator rise up in 10 seconds***"
 	{
 		"chi"		"**电梯10秒后上升 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***Break the box***"
 	{
@@ -57,7 +57,7 @@
 	"***Teleport activates in 45 seconds***"
 	{
 		"chi"		"**45秒后激活传送 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"***Wind picked up***"
 	{
@@ -85,7 +85,7 @@
 	"***Final teleport enable in 35 seconds***"
 	{
 		"chi"		"**最后的传送点将在35秒后激活 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***Zombie teleport in 10 seconds***"
 	{
@@ -110,12 +110,12 @@
 	"***RESIST FOR 35 SECONDS***"
 	{
 		"chi"		"**等待35秒 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Zombie picked up Nuke***"
 	{
@@ -135,17 +135,17 @@
 	}
 	"***Hold 35 seconds***"
 	{
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 		"chi"		"**守住35秒 **"
 	}
 	"***Portal open in 30 seconds***"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 		"chi"		"**守住30秒 **"
 	}
 	"***Last elevator start in 30 seconds***"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 		"chi"		"**电梯30秒后离开 **"
 	}
 	"***Wall picked up***"
@@ -167,12 +167,12 @@
 	"***Hold until Door break***"
 	{
 		"chi"		"**守住这里直到门开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Door open in 30 seconds***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***10 seconds left***"
 	{
@@ -219,7 +219,7 @@
 	"***End of Dream in 120 seconds***"
 	{
 		"chi"		"**梦想将在120秒后结束 **"
-		"DoorCountdown"		"120"
+		"DoorCountDown"		"120"
 	}
 	"***End of Dream in 110 seconds***"
 	{

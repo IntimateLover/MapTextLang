@@ -109,7 +109,7 @@
 		"chi"		"**在阶梯处防守40秒**"
 		"DoorCountdown"		"40"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -433,7 +433,7 @@
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -649,6 +649,10 @@
 		"5"
 		{
 			"cvar"		"zr_infect_mzombie_ratio 7"
+		}
+		"6"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
 		}
 	}
 	"The server is about to close the update ,Please update your game"

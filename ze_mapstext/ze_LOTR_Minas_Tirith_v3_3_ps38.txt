@@ -3,6 +3,6 @@
 	"** RESIST 20 SECONDS! **"
 	{
 		"chi"		"**守住23秒**"
-		"DoorCountdown"		"23"
+		"DoorCountDown"		"23"
 	}
 }

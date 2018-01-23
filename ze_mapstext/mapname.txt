@@ -1052,7 +1052,7 @@
 	{
 		"chi"		"雷蒙·斯尼奇历险"
 	}
-	"ze_chicken_ranch_v2_1"
+	"ze_chicken_ranch_v2_2"
 	{
 		"chi"		"小鸡工厂之旅"
 	}
@@ -1300,7 +1300,7 @@
 	{
 		"chi"		"最终幻想12:帕拉米亚"
 	}
-	"ze_roof_adventure_v6_6"
+	"ze_roof_adventure_v7_1"
 	{
 		"chi"		"屋顶大冒险"
 		"credit"		"1000"
@@ -1332,7 +1332,7 @@
 	}
 	"ze_AEPP_Nano_Grid2_b2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"上世纪电子游戏"
 	}
 	"ze_ripsuhdude_v1_6"
 	{
@@ -1429,7 +1429,7 @@
 	}
 	"ze_rizomata_a44"
 	{
-		"chi"		"精灵塔[a44通关后系统设定:ze_rizomata_b43]"
+		"chi"		"精灵塔"
 		"credit"		"1000"
 	}
 	"ze_rizomata_b43"
@@ -1463,7 +1463,7 @@
 		"chi"		"坚守行动"
 		"credit"		"2000"
 	}
-	"ze_pkmn_adventure_v7_5f"
+	"ze_PKMN_Adventure_v8_2"
 	{
 		"chi"		"神奇宝贝冒险之旅"
 		"credit"		"700"
@@ -1502,7 +1502,7 @@
 	{
 		"chi"		"宠物小精灵冒险之旅"
 	}
-	"ze_S_A_M_a27"
+	"ze_S_A_M_a30"
 	{
 		"chi"		"剑与魔法"
 		"credit"		"500"
@@ -1532,11 +1532,11 @@
 	{
 		"chi"		"悬浮的城市"
 	}
-	"ze_project_alcaria_v2_4"
+	"ze_project_alcaria_v3"
 	{
 		"chi"		"阿尔卡利亚项目"
 	}
-	"ze_gris_v1_11f5"
+	"ze_gris_v1_13"
 	{
 		"chi"		"创世E B1F"
 	}
@@ -1569,7 +1569,7 @@
 	"ze_paranoid_rezurrection_v11_9_th10"
 	{
 		"chi"		"游乐园：重装上阵"
-		"credit"		"20000"
+		"credit"		"2000"
 	}
 	"ze_parkers_pit_b8_ps4"
 	{
@@ -1620,11 +1620,11 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_c17"
+	"ze_deadcore_c18"
 	{
 		"chi"		"死亡核心"
 	}
-	"ze_surf_froyo_v2"
+	"ze_surf_froyo_v2_1"
 	{
 		"chi"		"滑翔大冒险"
 	}
@@ -1636,11 +1636,11 @@
 	{
 		"chi"		"欺骗"
 	}
-	"ze_sky_temples_v2_1"
+	"ze_sky_temples_v3"
 	{
 		"chi"		"天空神庙v1_4"
 	}
-	"ze_sky_temples_v2_1"
+	"ze_sky_temples_v3"
 	{
 		"chi"		"天空神庙"
 	}
@@ -1664,7 +1664,7 @@
 	{
 		"chi"		"火焰神庙"
 	}
-	"ze_pizzatime_v4"
+	"ze_pizzatime_v9"
 	{
 		"chi"		"披萨时间"
 	}
@@ -1678,7 +1678,7 @@
 	}
 	"ze_whothefuckiam_v2_4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"我是哪个"
 	}
 	"ze_Death_Valley_b2"
 	{
@@ -1722,9 +1722,9 @@
 	}
 	"ze_licciana_escape_zrgbr_b3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"陷阱跳刀岛3"
 	}
-	"ze_vietnam_p2"
+	"ze_vietnam_p3"
 	{
 		"chi"		"越南丛林大冒险2"
 	}
@@ -1740,7 +1740,7 @@
 	{
 		"chi"		"神船逃亡"
 	}
-	"ze_FFXII_Ridorana_Cataract_B4_ps3"
+	"ze_ffxii_ridorana_cataract_b4_ps8"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1780,11 +1780,11 @@
 	{
 		"chi"		"蘑菇森林3"
 	}
-	"ze_grau_a01_10"
+	"ze_grau_a03_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"灰白"
 	}
-	"ze_doorhug_and_solo_v52329324_d"
+	"ze_doorhug_and_solo_v5_2_csgo"
 	{
 		"chi"		"贴门就能搜楼"
 	}
@@ -1794,13 +1794,153 @@
 	}
 	"ze_ccc_floator_mislands_timantetrix_v2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"混搭传说第一季"
 	}
 	"ze_greece_escape_p"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_military_escape_p2"
+	{
+		"chi"		"军备逃亡"
+	}
+	"ze_ffxii_feywood_b3_1_t1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_grau_a03_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_ridorana_cataract_b4_ps8"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_heostime_escape_v1"
+	{
+		"chi"		"风暴英雄Logo房间"
+	}
+	"ze_ccc_azteclsd_v1"
+	{
+		"chi"		"混搭传说第二季"
+	}
+	"ze_L_The_Lower_v1_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_skill_escape_v08"
+	{
+		"chi"		"各凭本事"
+	}
+	"ze_asiangirl_mm11el4nu4cp2io1yv7_beta5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_hold2_boring_b5"
+	{
+		"chi"		"学会断后"
+	}
+	"ze_hold2_boring_b5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_forius_just_run_p"
+	{
+		"chi"		"别打油桶！！！"
+	}
+	"ze_johnny_nukem_b8_1_csgo2"
+	{
+		"chi"		"米奇♂妙妙屋"
+	}
+	"ze_L_The_Medium_v1_6"
+	{
+		"chi"		"艾罗之城第二部"
+	}
+	"ze_L_The_Lower_v1_8f"
+	{
+		"chi"		"艾罗之城第一部"
+	}
+	"ze_drakelord_castle_b3"
+	{
+		"chi"		"龙爵的移动城堡"
+	}
+	"ze_serpentis_temple_b3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_paramina_rift_v1_4_csgo3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_lotr_minas_tirith_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_zakum"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_feywood_b3_1_x3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_roof_adventure_v7_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_feywood_b3_1_e2_2"
+	{
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_feywood_b3_1_x4"
+	{
+		"chi"		"最终幻想12：幻妖之森"
+	}
+	"ze_ffvii_cosmo_canyon_go_t5"
+	{
+		"chi"		"最终幻想7：宇宙峡谷"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+	}
+	"ze_L_The_Lower_v1_7"
+	{
+		"chi"		"艾罗之城第一部"
+	}
+	"ze_PKMN_Adventure_v8_t5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffvii_cosmo_canyon_v4fix_x2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffvii_cosmo_canyon_v1_1_csgo"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_pizzatime_v9"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ice_cavern_va4"
+	{
+		"chi"		"冰雪大山洞"
+	}
+	"ze_facility_escape_b2_c1"
+	{
+		"chi"		"拿头逃生"
+	}
+	"ze_mlgsurf_v1_1"
+	{
+		"chi"		"吗拉个滑翔"
+	}
+	"ze_S_A_M_a30"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_mlgsurf_v1_1"
 	{
 		"chi"		"此地图暂无译名"
 	}

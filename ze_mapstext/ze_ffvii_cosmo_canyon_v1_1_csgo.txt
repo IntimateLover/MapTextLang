@@ -1,0 +1,345 @@
+"Console_T"
+{
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图制作:Headshooter.SC & HaRyDe 地图翻译:IntimateLover**"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身回合**"
+	}
+	"**Port by isa. Respect for Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图移植:isa 尊重Headshooter.SC & HaRyDe**"
+	}
+	"**Thanks to Weed-Lancer for tons of grammar errors fix**"
+	{
+		"chi"		"**感谢Weed-Lancer修正语法错误**"
+	}
+	"**ZE_FFVII_COSMO_CANYON**"
+	{
+		"chi"		"**最终幻想7:宇宙峡谷**"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"**普通模式**"
+	}
+	"**We are near Cosmo Canyon**"
+	{
+		"chi"		"**我们即将抵达宇宙峡谷**"
+	}
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
+	{
+		"chi"		"**大门20秒后开启**"
+		"DoorCountdown"		"20"
+	}
+	"**Welcome to Cosmo Canyon**"
+	{
+		"chi"		"**欢迎来到宇宙峡谷**"
+	}
+	"**The barman will open the door in 5 seconds**"
+	{
+		"chi"		"**酒吧大门5秒后开启**"
+	}
+	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
+	{
+		"chi"		"**在我打开酒吧后门前你们需要守住僵尸25秒**"
+		"DoorCountdown"		"25"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**FALL BACK**"
+	{
+		"chi"		"**撤退**"
+	}
+	"**The rock will explode in 25 seconds**"
+	{
+		"chi"		"**岩石25秒后爆炸**"
+		"DoorCountdown"		"25"
+	}
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	{
+		"chi"		"**大门25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"1"
+		{
+			"cvar"		"sm_armor_limit 5"
+		}
+		"2"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"3"
+		{
+			"cvar"		"sm_spawn_give_armor 1"
+		}
+	}
+	"**A player has picked up BIO materia**"
+	{
+		"chi"		"**一位玩家拿起了毒**"
+	}
+	"**A player has picked up HEAL materia**"
+	{
+		"chi"		"**一位玩家拿起了奶**"
+	}
+	"**A player has picked up FIRE materia**"
+	{
+		"chi"		"**一位玩家拿起了火**"
+	}
+	"**The Cave of the GI gates will open in 15 seconds**"
+	{
+		"chi"		"**GI大门15秒后开启**"
+		"DoorCountdown"		"15"
+	}
+	"**Wait until something happens**"
+	{
+		"chi"		"**好像有什么事情要发生**"
+	}
+	"**GI Nattak arena will open in 30 seconds**"
+	{
+		"chi"		"**基纳塔克竞技场将在30秒后开放**"
+		"DoorCountdown"		"30"
+	}
+	"**Nades do more damage. Use them!**"
+	{
+		"chi"		"**手雷能造成更多伤害**"
+	}
+	"**Some of the items can affect him. Use them!**"
+	{
+		"chi"		"**某些神器可以对BOSS造成伤害-使用它们**"
+	}
+	"**Gi Nattak is using poison**"
+	{
+		"chi"		"**基纳塔克使用了剧毒**"
+	}
+	"**Gi Nattck is using silence**"
+	{
+		"chi"		"**基纳塔克使用沉默-神器一段时间内无法使用**"
+	}
+	"**Gi Nattak is spawning minions. Watch out for them**"
+	{
+		"chi"		"**基纳塔克召唤了守卫-提防它们**"
+	}
+	"**Gi Nattak is using aspil**"
+	{
+		"chi"		"**基纳塔克使用了Aspil-蹲下**"
+	}
+	"**Gi Nattak is using fire**"
+	{
+		"chi"		"**基纳塔克使用了火**"
+	}
+	"**Gi Nattack is dead**"
+	{
+		"chi"		"**基纳塔克已击败**"
+	}
+	"**Now you can get out of Cave of Gi**"
+	{
+		"chi"		"**是时候离开GI洞穴了**"
+	}
+	"**DOOR OPENS IN 35 SECONDS**"
+	{
+		"chi"		"**大门35秒后打开**"
+		"DoorCountdown"		"35"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"**还剩10秒**"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"**这是你的最后一站**"
+	}
+	"**Get to the airship and defend until it leaves**"
+	{
+		"chi"		"**去飞船那里守住,直到飞船离开**"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"**普通模式通过-准备挑战困难模式**"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"**困难模式**"
+	}
+	"**A player has picked up GRAVITY materia**"
+	{
+		"chi"		"**一位玩家拿起了黑洞**"
+	}
+	"**A player has picked up ELECTRO materia**"
+	{
+		"chi"		"**一位玩家拿起了电**"
+	}
+	"**A player has picked up ULTIMA materia**"
+	{
+		"chi"		"**一位玩家拿起了终极**"
+	}
+	"**Gi Nattck is using shield**"
+	{
+		"chi"		"**基纳塔克使用了护盾-子弹和手雷无法造成伤害**"
+	}
+	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
+	{
+		"chi"		"**困难模式通过-准备挑战极限模式**"
+	}
+	"**EXTREME MODE**"
+	{
+		"chi"		"**极限模式**"
+	}
+	"**...Are you surprised?...**"
+	{
+		"chi"		"**你惊讶了没?**"
+	}
+	"**...Didnt you expect me?...**"
+	{
+		"chi"		"**你想念我了没?**"
+	}
+	"**...Oh okay im disappearing...**"
+	{
+		"chi"		"**好吧,我消失了....**"
+	}
+	"**Ifrit is defeated! Get on the airship**"
+	{
+		"chi"		"**伊弗里特被击败-快上飞船**"
+	}
+	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
+	{
+		"chi"		"**极限模式通过-准备决一死战**"
+	}
+	"**RAGE MODE**"
+	{
+		"chi"		"**狂暴模式**"
+	}
+	"**The airship to Shinra will arrive in 25 seconds**"
+	{
+		"chi"		"**去往神罗基地的飞船25秒后到达**"
+		"DoorCountdown"		"25"
+	}
+	"**The airship is right here...**"
+	{
+		"chi"		"**飞船来了...**"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后开启**"
+		"DoorCountdown"		"15"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"**电梯15秒后离开**"
+		"DoorCountdown"		"15"
+	}
+	"**Ifrit is defeated. Get back in the elevator**"
+	{
+		"chi"		"**伊弗里特被击败-返回电梯**"
+	}
+	"**The power is lost. Defend until the emergency generators are on**"
+	{
+		"chi"		"**似乎没有电力-在应急发电机启动前守住**"
+	}
+	"**We got the power. The gates will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后开启**"
+		"DoorCountdown"		"15"
+	}
+	"** Nades do more damage. **"
+	{
+		"chi"		"**手雷能造成更多伤害**"
+	}
+	"**A player has picked up SLEEP materia**"
+	{
+		"chi"		"**一位玩家拿起了睡**"
+	}
+	"**A player has picked up EARTH materia**"
+	{
+		"chi"		"**一位玩家拿起了土**"
+	}
+	"**A player has picked up WIND materia**"
+	{
+		"chi"		"**一位玩家拿起了风**"
+	}
+	"**Gi Nattak has healed 150 hp**"
+	{
+		"chi"		"**基纳塔克恢复了150HP**"
+	}
+	"**Gi Nattak is using wind**"
+	{
+		"chi"		"**基纳塔克使用了风-按住W抵抗**"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"**你必须杀死所有僵尸才能获得胜利**"
+	}
+	"**Gi Nattak is using gravity**"
+	{
+		"chi"		"**基纳塔克使用了黑洞-按住S往后退**"
+	}
+	"**Gi Nattak is spawning minions. Look on them**"
+	{
+		"chi"		"**基纳塔克召唤了守卫-提防它们**"
+	}
+	"**You are too slow**"
+	{
+		"chi"		"**你太慢了**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"72389"
+	}
+	"**You have beaten Cosmo Canyon!! Congratulations !! **"
+	{
+		"chi"		"** **"
+	}
+	"**ZM MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**The map is beaten. Find your place and defend it**"
+	{
+		"chi"		"** **"
+	}
+	"**3 MINUTES LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**2 MINUTES LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie cactus has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"**1 MINUTES LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**30 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**15 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattack is using ultima. Shoot him faster**"
+	{
+		"chi"		"** **"
+	}
+	"**GI NATTAK USES LAVA SUPERATTACK**"
+	{
+		"chi"		"** **"
+	}
+	"**Get on the rocks to get saved!!!**"
+	{
+		"chi"		"** **"
+	}
+}

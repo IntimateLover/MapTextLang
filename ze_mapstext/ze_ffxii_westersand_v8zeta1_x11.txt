@@ -1,0 +1,149 @@
+"Console_T"
+{
+	"** Defend 30 seconds until the guards open the hallway. **"
+	{
+		"DoorCountDown"		"30"
+		"chi"		"**守住这里-直到守卫打开走廊通道**"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"DoorCountDown"		"10"
+		"chi"		"**第一扇大门10秒后打开**"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"DoorCountDown"		"15"
+		"chi"		"**下一扇大门15秒后打开**"
+	}
+	"** Cover here till the boxes explode **"
+	{
+		"DoorCountDown"		"25"
+		"chi"		"**箱子爆炸前守住这里**"
+	}
+	"** Bomb planted - hold 30 seconds **"
+	{
+		"DoorCountDown"		"30"
+		"chi"		"**守住30秒-直到石头爆炸**"
+	}
+	"** MAP BY SLAYERDRAGON & NOCTALI **"
+	{
+		"chi"		"**地图作者：SlayerDragon & Noctali 地图移植：银月筱瑶 地图翻译：蓬莱山帅比♪**"
+	}
+	"** Be aware of fake donations - groups and profiles ! **"
+	{
+		"chi"		"**注意假的捐助渠道-以及假的Steam组和主页**"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"**[困难难度]-前往巨龙栖息之地**"
+	}
+	"** Defend until the guards open the airport. **"
+	{
+		"chi"		"**守住这里-直到守卫打开机场大门**"
+	}
+	"** Airport opened. **"
+	{
+		"chi"		"**机场开放**"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"chi"		"**一位玩家捡起了岩石法杖**"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"chi"		"**一位玩家捡起了火焰法杖**"
+	}
+	"** Defend here so the guards will open the gates to the city ! **"
+	{
+		"chi"		"**守住这里-直到守卫打开通往城市的大门**"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"**一位玩家捡起了雷电法杖**"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"chi"		"**一位玩家捡起了补给法杖**"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"chi"		"**一位玩家捡起了飓风法杖**"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"chi"		"**一位玩家捡起了水花法杖**"
+	}
+	"** Keep defending!! **"
+	{
+		"chi"		"**守住！！！**"
+	}
+	"** The dragon has been defeated **"
+	{
+		"chi"		"**巨龙已击败-逃出这里**"
+	}
+	"** 10 more seconds until explosion **"
+	{
+		"chi"		"**石头10秒后爆炸**"
+	}
+	"** Go to the end of the road ! **"
+	{
+		"chi"		"**跑到路的尽头！！！**"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"chi"		"**僵尸已逃脱**"
+	}
+	"** [EPIC MODE] **"
+	{
+		"chi"		"**[史诗难度]-探索利维坦战舰**"
+	}
+	"** Teleporters will be ready in 20 seconds ! **"
+	{
+		"chi"		"**传送器将在20秒后打开**"
+		"DoorCountDown"		"20"
+	}
+	"** Teleporters will be ready in 5 seconds ! **"
+	{
+		"chi"		"**传送器将在5秒后打开**"
+	}
+	"** Gates will open in 15 seconds **"
+	{
+		"chi"		"**大门15秒后打开**"
+		"DoorCountDown"		"15"
+	}
+	"** The arena will open in 20 seconds **"
+	{
+		"chi"		"**竞技场大门将在20秒后打开**"
+		"DoorCountDown"		"20"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"**BOSS感知了我们的到来**它将觉醒与10秒后**"
+		"DoorCountDown"		"10"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"chi"		"**BOSS感知了我们的到来**它将觉醒与5秒后**"
+	}
+	"** Nades do more damage (2s) **"
+	{
+		"chi"		"**手雷能造成更多伤害[2秒]**"
+	}
+	"** The guardians are defeated - Escape ! **"
+	{
+		"chi"		"**守护者已击败-逃出这个地方**"
+	}
+	"** ZOMBIE JAIL OPEN ! **"
+	{
+		"chi"		"**僵尸出笼**"
+	}
+	"** The final gate will open in 40 seconds **"
+	{
+		"chi"		"**最后大门将于40秒后打开**"
+		"DoorCountDown"		"40"
+	}
+	"** The final gate will open in 5 seconds **"
+	{
+		"chi"		"**最后大门将在5秒后打开**"
+	}
+}

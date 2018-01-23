@@ -11,7 +11,7 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***5 seconds to go***"
 	{
@@ -36,7 +36,7 @@
 	"***chopper leaving in 40 seconds***"
 	{
 		"chi"		"**直升机在40秒后离开 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***GET TO THE CHOPPER!!***"
 	{
@@ -69,7 +69,7 @@
 	"*** boat leaving in 30 seconds***"
 	{
 		"chi"		"**船将在30秒后离开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** GET TO THE BOAT***"
 	{

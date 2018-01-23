@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"***25s Left Before Teleport***"
+	{
+		"DoorCountDown"		"25"
+	}
+	"***HOLD FOR 25s***"
+	{
+		"DoorCountDown"		"25"
+	}
+	"***DOOR OPENS IN 25s***"
+	{
+		"DoorCountDown"		"25"
+	}
+	"***TELEPORT ACTIVATES IN 25s***"
+	{
+		"DoorCountDown"		"25"
+	}
+	"***TELEPORT ACTIVE IN 20s***"
+	{
+		"DoorCountDown"		"20"
+	}
+	"***Doors Open In 40s***"
+	{
+		"DoorCountDown"		"40"
+	}
+	"***Hold For 20s***"
+	{
+		"DoorCountDown"		"20"
+	}
+	"***Teleport Active In 25s***"
+	{
+		"DoorCountDown"		"25"
+	}
+}

@@ -3,7 +3,7 @@
 	"**Chapter L from Cytus**"
 	{
 		"chi"		"**第一章<<音乐世界>>**"
-		"DoorCountdown"		"106"
+		"DoorCountDown"		"106"
 	}
 	"**Map by Lv. 100 Crobat**"
 	{
@@ -20,7 +20,7 @@
 	"**Big door destroyed, go on!**"
 	{
 		"chi"		"**大门已被破坏,快进去!**"
-		"DoorCountdown"		"76"
+		"DoorCountDown"		"76"
 	}
 	"**Sidewalls destroyed!**"
 	{

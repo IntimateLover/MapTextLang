@@ -11,7 +11,7 @@
 	"***Truck leaving in 10 seconds***"
 	{
 		"chi"		"**卡车将在10秒后离开!**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***Activate Substation Power***"
 	{
@@ -28,7 +28,7 @@
 	"***Door opening in 20 seconds***"
 	{
 		"chi"		"**门将在20秒后开启**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Get Into The Hotel***"
 	{
@@ -53,7 +53,7 @@
 	"*** Fire door 2 opens in 20 seconds***"
 	{
 		"chi"		"**消防门[2]将在20秒后关闭**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Zombies Teleporting Forwards in 30 Seconds***"
 	{
@@ -62,7 +62,7 @@
 	"*** Fire door 3 opens in 20 seconds***"
 	{
 		"chi"		"**消防门[3]将在20秒后关闭**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Hold Untill Chopper Arrives***"
 	{
@@ -107,12 +107,12 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**防守30秒!**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"Detonation in 30 Seconds"
 	{
 		"chi"		"**30秒后爆炸!**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"Detonation in 10 Seconds"
 	{
@@ -181,7 +181,7 @@
 	"***Chopper Leaves in 50 Seconds***"
 	{
 		"chi"		"**直升机将在50秒后起飞**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***Nuke In 70 Seconds***"
 	{

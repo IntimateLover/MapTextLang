@@ -31,7 +31,7 @@
 	"***THE ELEVATOR STARTS IN 30 SECONDS***"
 	{
 		"chi"		"** 电梯将于30秒后启动**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***10 seconds left***"
 	{
@@ -104,7 +104,7 @@
 	"***THE PODS ARE LEAVING IN 2 MINUTES***"
 	{
 		"chi"		"**飞船2分钟后起飞**"
-		"DoorCountdown"		"120"
+		"DoorCountDown"		"120"
 	}
 	"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
 	{

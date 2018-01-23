@@ -51,7 +51,7 @@
 	"***DEFEND FOR 20 SECONDS***"
 	{
 		"chi"		"**等待20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***INVERTED CONTROLS***"
 	{
@@ -88,12 +88,12 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**等待30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Door opening in 20 seconds***"
 	{

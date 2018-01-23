@@ -547,7 +547,7 @@
 	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**最后的传送点30秒后激活**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -608,7 +608,7 @@
 	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
 	{
 		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 		"ico"		"icon_fire"
 	}
 	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
@@ -879,7 +879,7 @@
 	"*** Star road will active in 20 seconds ***"
 	{
 		"chi"		"**星路将在20秒后启动 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Star road will active in 5 seconds ***"
 	{

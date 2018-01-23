@@ -135,7 +135,7 @@
 	"*** The elevator will rise in 30 seconds ***"
 	{
 		"chi"		"**电梯30秒后会升起**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** The elevator will rise in 10 seconds ***"
 	{
@@ -184,7 +184,7 @@
 	"*** Our fall is opening in 15 seconds ***"
 	{
 		"chi"		"**我们的降落时间是15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Our fall opens in 5 seconds ***"
 	{
@@ -273,7 +273,7 @@
 	"*** Hold for 45 seconds ***"
 	{
 		"chi"		"**守住45秒**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"sync_version"
 	{
@@ -281,7 +281,7 @@
 	}
 	"*** Ensure their safety and defend the area for 30 seconds ***"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** ze_blocky_mess ***"
 	{

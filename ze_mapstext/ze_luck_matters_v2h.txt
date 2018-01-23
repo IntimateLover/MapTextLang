@@ -3,7 +3,7 @@
 	"***PLATFORM WILL RISE IN 30s***"
 	{
 		"chi"		"**平台将在30秒后上升 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***PLATFORM WILL RISE IN 5s***"
 	{
@@ -20,7 +20,7 @@
 	"***DOOR OPENS IN 30s***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door is open***"
 	{
@@ -29,7 +29,7 @@
 	"***HOLD HERE FOR 25s***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***5s LEFT***"
 	{
@@ -38,7 +38,7 @@
 	"***TELEPORT ACTIVATES IN 30s***"
 	{
 		"chi"		"**传送30秒后激活 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***TELEPORT ACTIVATED***"
 	{
@@ -52,16 +52,16 @@
 	"***HOLD FOR 30s***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退 **"
 	}
 	"***HOLD FOR 35s***"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***SURVIVE***"
 	{
@@ -107,12 +107,12 @@
 	"***DOOR OPENS IN 25s***"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***TELEPORT ACTIVATES IN 25s***"
 	{
 		"chi"		"**传送25秒后激活**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***TELEPORT ACTIVATES IN 5s***"
 	{
@@ -145,7 +145,7 @@
 	"***TELEPORT ACTIVE IN 20s***"
 	{
 		"chi"		"**传送20秒后激活**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***TELEPORT ACTIVE IN 5s***"
 	{
@@ -158,12 +158,12 @@
 	"***Hold For 20s***"
 	{
 		"chi"		"**守住这里20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Teleport Active In 25s***"
 	{
 		"chi"		"**传送25秒后激活**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Teleport Active***"
 	{
@@ -172,7 +172,7 @@
 	"***Doors Open In 40s***"
 	{
 		"chi"		"**大门40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***AFK TP IN 25s***"
 	{
@@ -189,7 +189,7 @@
 	"***25s Left Before Teleport***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***5s Left Before Teleport***"
 	{
@@ -222,7 +222,7 @@
 	"***HOLD FOR 25s***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Freeze Item Picked Up***"
 	{
@@ -297,6 +297,10 @@
 		"chi"		"** **"
 	}
 	"***Run To The Diamond In The Middle***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

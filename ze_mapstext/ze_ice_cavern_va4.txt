@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"<<< Cavern door opens in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Outside door closes in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ice breaking in 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ice breaks in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gate opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gastly Wind >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gates open in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Crystals break in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Bar door opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+}
