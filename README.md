@@ -16,7 +16,7 @@
 
 7:仓库管理人员 如果所有服务器同步已完成 可以清空 update_xxxx 文件所有内容 【为了同步保险起见 至少修改版本后保留 72小时】
 
-有关生效时间  stripper 和 翻译必须 ->下次换图
+有关生效时间  stripper 和 翻译 必须等到 下次换图
 
 Entwatch 可以通过OP 使用 sm_entwatch_reload 即可生效.
 
