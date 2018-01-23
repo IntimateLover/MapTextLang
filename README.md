@@ -1,19 +1,16 @@
-不正确的 Entwatch filtername 可导致神器无法使用 请务必认真核对
+游戏中自动更新方法:
 
-文本翻译=
+1:更新/添加修改/你想要的 通过创建pull request请求.
+2:https://github.com/MapTextLang/MapTextLang 在你想要更新的类别添加地图名称 比如 我更新了entwatch
 
-翻译不得超100字节.(50个中文 或者 100个英文字母数字)
-使用英文标点符号为1个字节 如(, . !) 推荐!
-使用中文标点符号为2个字节 如(，。！) 不建议使用中文标点符号..
-==
+那么修改 update_entwatch.txt 增加地图往下面一行添加地图.
 
-entwatch 翻译:
-=====对参数属性不了解 不得修改任何参数==========
-shortname 不得超7个字符 (4个文字 7个字母或数字)
-hasfiltername "false" (在不了解情况下不得修改)
-filtername "" (在不了解情况下不得修改)
-===============
-多出的内容服务器不显示.
+3.修改版本号码 https://github.com/MapTextLang/MapTextLang/blob/master/git_version.txt 将原有数字+1 比如原来1000 改成 1001
+
+5.等待仓库管理员合并请求
+
+6:等待同步更新 系统自动 24小时/次 或者 请求OP 或 有权限用户输入 sm_git_update 在控制台
+
 
 禁止事项
 =====================================
@@ -22,4 +19,3 @@ filtername "" (在不了解情况下不得修改)
 ３．禁止修改地图主语句　如	"*** The Train Will Leave in 5 seconds ***"
 ４．禁止换行
 =====================================
-
