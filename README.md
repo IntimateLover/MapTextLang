@@ -9,9 +9,9 @@
 
 3.修改版本号码 https://github.com/MapTextLang/MapTextLang/blob/master/git_version.txt 将原有数字+1 比如原来1000 改成 1001
 
-5.等待仓库管理员合并请求
+5.等待仓库管理员合并请求 如果需要手动同步 步骤6 请合并后等待5分钟 因为有git缓存.
 
-6:等待同步更新 系统自动 24小时/次 或者 请求OP 或 有权限用户输入 sm_git_update 在控制台
+6:等待同步更新 系统自动 24小时/次 或者 请求OP 或 有权限用户输入 sm_git_update 在控制台 
 
 
 禁止事项
