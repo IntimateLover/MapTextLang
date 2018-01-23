@@ -1,4 +1,6 @@
-游戏中自动更新方法:
+这是X社区ZE地图翻译 / Entwatch / stripper 或者其他翻译仓库
+
+游戏中自动同步方法:
 
 1:更新/添加修改/你想要的 通过创建pull request请求.
 2:https://github.com/MapTextLang/MapTextLang 在你想要更新的类别添加地图名称 比如 我更新了entwatch
