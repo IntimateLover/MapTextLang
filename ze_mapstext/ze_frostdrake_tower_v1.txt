@@ -211,4 +211,30 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 8"
+		}
+		"1"
+		{
+			"cvar"		"sm_smoke_limit 4"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 3"
+		}
+		"3"
+		{
+			"cvar"		"sm_flash_limit   0"
+		}
+		"4"
+		{
+			"cvar"		"sm_taggrenade_limit 1"
+		}
+		"5"
+		{
+			"cvar"		"sm_decoy_limit 1"
+		}
 }
