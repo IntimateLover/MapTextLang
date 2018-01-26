@@ -102,27 +102,22 @@
 	"** EXPLOSION IN 145 SECONDS **"
 	{
 		"chi"		"**警告：炸弹将于145秒后爆炸**"
-		"DoorCountdown"		"0"
 	}
 	"**  110 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩110秒**"
-		"DoorCountdown"		"0"
 	}
 	"**  100 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩100秒**"
-		"DoorCountdown"		"0"
 	}
 	"**  90 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩90秒**"
-		"DoorCountdown"		"0"
 	}
 	"**  80 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩80秒**"
-		"DoorCountdown"		"10"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
@@ -193,7 +188,6 @@
 	"** EXPLOSION IN 120 SECONDS **"
 	{
 		"chi"		"**警告：炸弹将于120秒后爆炸**"
-		"DoorCountdown"		"0"
 	}
 	"**  10 SECONDS LEFT **"
 	{
@@ -234,7 +228,6 @@
 	"** EXPLOSION IN 130 SECONDS **"
 	{
 		"chi"		"**警告：炸弹将于130秒后爆炸**"
-		"DoorCountdown"		"1"
 	}
 	"**  120 SECONDS LEFT **"
 	{
@@ -441,7 +434,8 @@
 	}
 	"** DOOR OPENS IN 35 S **"
 	{
-		"chi"		"** **"
+		"chi"		"** 大门将在35S后打开 **"
+		"DoorCountdown"		"35"
 	}
 	"** Go to the control room and try to open it earlier **"
 	{
