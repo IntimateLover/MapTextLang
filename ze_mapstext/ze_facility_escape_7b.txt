@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"map made by Amx"
+	{
+		"chi"		"** **"
+	}
+	"The generator seems to be overheating."
+	{
+		"chi"		"** **"
+	}
+	"Check generator room..."
+	{
+		"chi"		"** **"
+	}
+	"Generator system restored !"
+	{
+		"chi"		"** **"
+	}
+	"The elevator will go up in 25 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the elevator will go up in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Circuit breakers must be frozen.."
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"27105"
+	}
+}

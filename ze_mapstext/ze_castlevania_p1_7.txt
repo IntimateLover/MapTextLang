@@ -109,7 +109,7 @@
 		"chi"		"**在阶梯处防守40秒**"
 		"DoorCountdown"		"40"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -433,7 +433,7 @@
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"**还剩10秒**"
 	}

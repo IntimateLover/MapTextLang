@@ -1379,6 +1379,10 @@
 		{
 			"cvar"		"sm_molotov_limit 5"
 		}
+		"5"
+		{
+			"cvar"		"sm_decoy_limit 2"
+		}
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
 	{

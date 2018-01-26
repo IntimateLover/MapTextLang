@@ -24,7 +24,15 @@
 	{
 		"chi"		"** **"
 	}
+	"<<< Replenish >>>"
+	{
+		"chi"		"** **"
+	}
 	"<<< Gastly Wind >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Killzone >>>"
 	{
 		"chi"		"** **"
 	}
@@ -39,5 +47,60 @@
 	"<<< Bar door opens in 30 seconds! >>>"
 	{
 		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Bridge appearing in 5 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Icicles break in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Blade stopping! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gate opens in 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Last hold! Hold for 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ladder on side of platform has been broken watch out!!!"
+	{
+		"chi"		"** **"
+	}
+	"<<< 25 more seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 10"
+		}
+		"1"
+		{
+			"cvar"		"sm_smoke_limit 7"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 6"
+		}
 	}
 }
