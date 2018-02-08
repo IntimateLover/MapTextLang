@@ -164,12 +164,12 @@
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"**热离子光束 **"
+		"chi"		"**热离子光束（远离红色区域） **"
 		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"
 	{
-		"chi"		"**天堂陨落 **"
+		"chi"		"**天堂陨落(看天上不要被砸到) **"
 		"ico"		"icon_fire"
 	}
 	"*** Cauterize***"
@@ -179,7 +179,7 @@
 	}
 	"*** Flare ***"
 	{
-		"chi"		"**火 **"
+		"chi"		"**火（往右边，走跳上箱子） **"
 		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
@@ -319,7 +319,7 @@
 	}
 	"***Heavens Fall***"
 	{
-		"chi"		"**天堂陨落 **"
+		"chi"		"**天堂陨落（看天上，不要被砸到） **"
 		"ico"		"icon_fire"
 	}
 	"***Earth Shaker***"
@@ -375,7 +375,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼 **"
+		"chi"		"**暴风之翼（往平台后面走） **"
 		"ico"		"icon_fire"
 	}
 	"*** Level:Savage ***"
