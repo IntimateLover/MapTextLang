@@ -76,22 +76,27 @@
 	"#Boss used Zombie Teleporter#"
 	{
 		"chi"		"**BOSS将僵尸放了出来**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Ice#"
 	{
 		"chi"		"**BOSS使用了冰**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Cocoball#"
 	{
 		"chi"		"**BOSS使用了天坠黑球**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Rotating Blade#"
 	{
 		"chi"		"**BOSS使用了旋转刀片**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Fire#"
 	{
 		"chi"		"**BOSS使用了火**"
+		"ico"             "icon_interact"
 	}
 	"#Teleport enable in 120sec..#"
 	{
@@ -191,10 +196,12 @@
 	"#Boss used fire !#"
 	{
 		"chi"		"**BOSS使用了火**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Blade !#"
 	{
 		"chi"		"**BOSS使用了刀片**"
+		"ico"             "icon_interact"
 	}
 	"#Defend untill teleporter enable..#"
 	{
@@ -293,14 +300,17 @@
 	"#Boss used Jumper#"
 	{
 		"chi"		"**BOSS使用了跳跃攻击_(:з」∠)_**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Wind#"
 	{
 		"chi"		"**BOSS使用了风**"
+		"ico"             "icon_interact"
 	}
 	"#Boss used Blizzard !#"
 	{
 		"chi"		"**BOSS使用了暴雪**"
+		"ico"             "icon_interact"
 	}
 	"# FAILED #"
 	{
