@@ -80,4 +80,8 @@
 	{
 		"chi"		"** 管理员可使用穿墙指令进入管理室**"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

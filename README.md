@@ -1,4 +1,6 @@
-这是X社区ZE地图翻译 / Entwatch / stripper 或者其他翻译仓库
+这是X社区 地图翻译 / Entwatch / stripper mapcfg(地图参数) 或者其他翻译仓库
+支持性【地图翻译/stripper/mapcfg 支持所有类型服务器】
+只要对应服务器具备相应地图就会同步.否则无动作
 
 游戏中自动同步方法:
 

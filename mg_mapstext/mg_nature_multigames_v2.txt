@@ -112,4 +112,12 @@
 	{
 		"chi"		"**T进球**"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"***You Have 20 Seconds to Get to the End"
+	{
+		"chi"		"** **"
+	}
 }
