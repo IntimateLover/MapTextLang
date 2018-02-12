@@ -26,6 +26,12 @@
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
+	"ze_FFVII_Mako_Reactor_V6_B08_PS1"
+	{
+		"chi"		"ze_FFVII_Mako_Reactor_V6_B08_PS1"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+	}
 	"ze_Hell_Escape_p2"
 	{
 		"chi"		"地狱逃亡"
@@ -622,7 +628,7 @@
 		"chi"		"废弃燃料惊魂"
 		"credit"		"400"
 	}
-	"ze_lila_panic_escape_v2"
+	"ze_lila_panic_escape_v3"
 	{
 		"chi"		"里拉惊魂V2"
 		"credit"		"600"
@@ -1502,7 +1508,7 @@
 	{
 		"chi"		"宠物小精灵冒险之旅"
 	}
-	"ze_S_A_M_a30"
+	"ze_S_A_M_a33"
 	{
 		"chi"		"剑与魔法"
 		"credit"		"500"
@@ -1545,7 +1551,7 @@
 		"chi"		"沙尘暴"
 		"credit"		"1000"
 	}
-	"ze_bioshock_v6_2_csgo4"
+	"ze_bioshock_v6_2_csgo6"
 	{
 		"chi"		"生化奇兵"
 		"credit"		"700"
@@ -1620,7 +1626,7 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_c18"
+	"ze_deadcore_v1_1"
 	{
 		"chi"		"死亡核心"
 	}
@@ -1848,7 +1854,7 @@
 	{
 		"chi"		"别打油桶！！！"
 	}
-	"ze_johnny_nukem_b8_1_csgo2"
+	"ze_johnny_nukem_b8_1_csgo3"
 	{
 		"chi"		"米奇♂妙妙屋"
 	}
@@ -1898,7 +1904,7 @@
 	{
 		"chi"		"最终幻想12：幻妖之森"
 	}
-	"ze_ffvii_cosmo_canyon_go_t5"
+	"ze_ffvii_cosmo_canyon_go_t6"
 	{
 		"chi"		"最终幻想7：宇宙峡谷"
 		"onlyadmin"		"1"
@@ -1928,7 +1934,7 @@
 	{
 		"chi"		"冰雪大山洞"
 	}
-	"ze_facility_escape_b2_c1"
+	"ze_facility_escape_7b"
 	{
 		"chi"		"拿头逃生"
 	}
@@ -1936,11 +1942,41 @@
 	{
 		"chi"		"吗拉个滑翔"
 	}
-	"ze_S_A_M_a30"
+	"ze_S_A_M_a33"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_mlgsurf_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_copy_escape_a02_05"
+	{
+		"chi"		"复制三合一"
+	}
+	"ze_trials_v1_3a"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_supershitshow_b4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_luck_matters_v3b"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_dark_souls_ptd_v0_4_csgo"
+	{
+		"chi"		"此地图暂无译名"
+		"onlyadmin"		"1"
+		"onlynominate"		"1"
+	}
+	"ze_ffvii_cosmo_canyon_v1beta_ps5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_S_A_M_a30"
 	{
 		"chi"		"此地图暂无译名"
 	}
