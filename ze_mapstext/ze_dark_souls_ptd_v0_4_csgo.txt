@@ -14,7 +14,7 @@
 	}
 	"**Tip 3 **All the items have limited ammount of uses but have low cooldown time**"
 	{
-		"chi"		"**提示3：所有的神器都是次数的，但CD很短**"
+		"chi"		"**提示3：所有的神器都有使用次数，但CD很短**"
 	}
 	"**Tip 4 **You can refill the item charges by using Ash Estus Flask**"
 	{
@@ -22,7 +22,7 @@
 	}
 	"**Tip 5 **Some items can be used on bosses**"
 	{
-		"chi"		"**提示5：有一些神器在BOSS附近，请仔细寻找**"
+		"chi"		"**提示5：有一些神器对BOSS有效**"
 	}
 	"**Tip 6 **The Green Blossom will help you with dodging boulders and axes**"
 	{
@@ -30,19 +30,19 @@
 	}
 	"**Tip 7 **Watch out for hidden traps when you are in Sens Fortress**"
 	{
-		"chi"		"**提示7：在城堡里要小心陷阱**"
+		"chi"		"**提示7：在塞恩古堡里要小心陷阱**"
 	}
 	"**Tip 8 **There are illisionary walls that can have hidden items in. To destroy them press E near those walls**"
 	{
-		"chi"		"**提示8：在地图有些虚幻的墙，要激活它只需在附近按下E**"
+		"chi"		"**提示8：在地图有些虚幻的墙，要移除它只需在附近按下E**"
 	}
 	"**Tip 9 **There are Fire Keeper Souls being spread on the map. If you get all of them you can power up your bonfires**"
 	{
-		"chi"		"**提示9：在地图上有守护者的灵魂在游荡，如果你得到所有灵魂，你就可以激活你的篝火**"
+		"chi"		"**提示9：在地图上分布着防火女的灵魂，如果你得到所有灵魂，你就可以强化你的篝火回复量与你的血量**"
 	}
 	"**Tip 10 **You can find out the item class you have by the color of the parchment on your picture**"
 	{
-		"chi"		"**提示10：你可以通过羊皮纸上的图案来看你的神器具有什么效果**"
+		"chi"		"**提示10：你可以通过拾取神器时的提示看你的神器具有什么效果**"
 	}
 	"**Tip 11 **Never rush and hurry. If you do not know the map just stay cover and defend with your teamates**"
 	{
@@ -87,15 +87,15 @@
 	}
 	"**The Stray Demon was defeated**"
 	{
-		"chi"		"**流浪恶魔已被击败**"
+		"chi"		"**不死院恶魔已被击败**"
 	}
 	"**The Stray Demon was keeping an eye for no one undead leaves the prison..**"
 	{
-		"chi"		"**没有人关注流浪恶魔，它的灵魂已离开监狱**"
+		"chi"		"**不死院恶魔一直以来都看守着不死院，不让任何不死人离开这里**"
 	}
 	"**..Only the Old Witch had the right to take away the undead to Sens Fortress for their experiments. But there were exceptions.**"
 	{
-		"chi"		"**..只有老巫婆才有权带走城堡内的灵魂，但也有例外...**"
+		"chi"		"**..只有Old Witch才有权带走不死院的灵魂到塞恩古堡去用作她们的实验，但也有例外...**"
 	}
 	"**A player has picked up Great Heavy Soul Arrow**"
 	{
@@ -124,7 +124,7 @@
 	}
 	"**The Sens Fortress gates will open in 30 seconds**"
 	{
-		"chi"		"**古堡大门将在30秒后打开**"
+		"chi"		"**塞恩古堡大门将在30秒后打开**"
 		"DoorCountdown"		"30"
 	}
 	"**A player has picked up Green Blossom**"
@@ -141,8 +141,8 @@
 	}
 	"**Well done**The gate will open in 10 seconds**"
 	{
-		"chi"		"**干得好-大门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"chi"		"**干得好-大门将在10秒后打开**"
+		"DoorCountdown"		"10"
 	}
 	"**A player has picked up White Dragon Breath**"
 	{
@@ -154,19 +154,19 @@
 	}
 	"**A player has picked up Wrath of The Gods**"
 	{
-		"chi"		"**一位玩家拿起了神之怒**"
+		"chi"		"**一位玩家拿起了神怒**"
 	}
 	"**The Old Witch is defeated**"
 	{
-		"chi"		"**老巫婆被打败了**"
+		"chi"		"**Old Witch被打败了**"
 	}
 	"**At the request of Gwyndolin the Old Witch was selecting the most powerful undead that can keep the flame in price of their lives...**"
 	{
-		"chi"		"**在Gwyndolin的请求下，老巫婆选择了最强大的不死生物，以维持生命的火焰**"
+		"chi"		"**在葛温德林的请求下，Old Witch选择最强大的不死人，用他们生命的代价来维持火焰**"
 	}
 	"**...But one day the Witch completely lost her mind and began to experiment on the undead.**"
 	{
-		"chi"		"**但是有一天，女巫完全失去了理智，开始对亡灵进行实验。**"
+		"chi"		"**但是有一天，Old Witch完全失去了理智，开始对不死人进行实验。**"
 	}
 	"**ALL THE BOULDERS ARE DISABLED***"
 	{
@@ -212,11 +212,11 @@
 	}
 	"**The Iron Golem is defeated. Get to the middle of arena**"
 	{
-		"chi"		"**铁魔像被击败-快到舞台中央**"
+		"chi"		"**钢铁巨偶被击败-快到平台中央**"
 	}
 	"**The Iron Golem was created by the gods to protect Anor Londo from the undead and other demons appeared with a mysterious mist..**"
 	{
-		"chi"		"**铁魔像是由众神创造出来，用来保护Anor Londo**"
+		"chi"		"**钢铁巨偶是由众神创造出来，用来保护亚诺尔隆德**"
 	}
 	"**..He killed many heroes on the way to the City of the Gods.**"
 	{
@@ -237,35 +237,35 @@
 	}
 	"**Ornstein and Gwyndolin are dead**"
 	{
-		"chi"		"**Ornstein和Gwyndolin已经死了**"
+		"chi"		"**翁斯坦和葛温德林已经死了**"
 	}
 	"**..Ornstein and Gwyndolin were good friends from the childhood... **"
 	{
-		"chi"		"**Ornstein和Gwyndolin是童年时期的好朋友**"
+		"chi"		"**翁斯坦和葛温德林是童年时期的好朋友**"
 	}
 	"**...And when Gwyn sacrificed himself in the first flame..**"
 	{
-		"chi"		"**当Gwyn牺牲了自己的火焰**"
+		"chi"		"**当葛温牺牲了自己来延续初火的燃烧**"
 	}
 	"**..Ornstein promised to protect her all the time. Who knows. Was that a friendship or something more..**"
 	{
-		"chi"		"**Ornstein承诺要一直保护她，谁知道那是友谊还是别的什么**"
+		"chi"		"**翁斯坦承诺要一直保护她，谁知道那是友谊还是别的什么**"
 	}
 	"**Flame ember was selected...All pyromancy items get one more use next round**"
 	{
-		"chi"		"**火焰灰烬为所有的火类神器增加更多的使用次数**"
+		"chi"		"**火焰灰烬被选中...下一回合所有的咒术神器增加了一次使用次数**"
 	}
 	"**Choose your way of ending**You are close...**"
 	{
-		"chi"		"**选择一条道路结束你的旅程**"
+		"chi"		"**选择一条道路结束你的旅程..**"
 	}
 	"**To confirm your choice just stay near the way you wish to continue..**"
 	{
-		"chi"		"** **"
+		"chi"		"**你只需要呆在你想选择的道路附近就可以确定你的选择..**"
 	}
 	"**We got this**Wait until the first flame burns up**"
 	{
-		"chi"		"**我们要等到第一次火焰燃烧起来**"
+		"chi"		"**我们要等到初火燃烧起来**"
 	}
 	"**Defend 30 more seconds**"
 	{
@@ -285,11 +285,11 @@
 	}
 	"**Magic ember was selected...All sorcery items get one more use next round**"
 	{
-		"chi"		"**魔法余烬为所有的神器增加更多的使用次数**"
+		"chi"		"**魔法余烬被选中...下一回合所有的魔法增加一次使用次数**"
 	}
 	"**Dark ending is beginning...**"
 	{
-		"chi"		"**黑暗的结束也是开始.....**"
+		"chi"		"** **"
 	}
 	"**The Gargoyle is dead. You are very close..**"
 	{
@@ -297,11 +297,11 @@
 	}
 	"**..You started the Dark Era. The Era of Humans..**"
 	{
-		"chi"		"**你开启了黑暗时代，人类时代**"
+		"chi"		"**你开启了黑暗时代，人类的时代**"
 	}
 	"**..But you did not get rid of the curse..**"
 	{
-		"chi"		"**但你没有摆脱诅咒..**"
+		"chi"		"**但你仍然没有摆脱诅咒..**"
 	}
 	"** There are zombies at the end point ** The round is failed.**"
 	{
@@ -344,11 +344,11 @@
 	}
 	"**Divine ember was selected...All miracles items get one more use next round**"
 	{
-		"chi"		"**神圣的灰烬被选中……所有奇迹类神器可以在下一轮获得更多的使用次数**"
+		"chi"		"**圣职余烬被选中...下一回合所有奇迹可以增加一次使用次数**"
 	}
 	"**Flame ending is beginning...**"
 	{
-		"chi"		"**火焰的结束也是开始......**"
+		"chi"		"**传火结局开始...**"
 	}
 	"**...You got rid of the curse of the Undead. But you continued Era of the Gods...**"
 	{
@@ -356,23 +356,23 @@
 	}
 	"**Find all the Dark Orbs to open the way to the Lord of Cinder**"
 	{
-		"chi"		"**找到所有的黑眼，打开通往灰烬之主的道路**"
+		"chi"		"**找到所有的黑眼，打开通往薪王的道路**"
 	}
 	"**Dark ember was selected...All hexes items get one more use next round**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗灰烬被选中...**"
 	}
 	"**A player has picked up Black Flame**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸拿起了黑燄**"
 	}
 	"**The way to the Lord of Cinder is unlocked...**"
 	{
-		"chi"		"** **"
+		"chi"		"**通往薪王的道路已经打开**"
 	}
 	"**..The Lord of Cinder is waiting for you if you want...**"
 	{
-		"chi"		"** **"
+		"chi"		"**薪王正在等待你们的到来**"
 	}
 	"**The Usurpation of Fire ending is beginning...**"
 	{
@@ -380,26 +380,26 @@
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯15秒后离开**"
 	}
 	"**Gwyn Lord of Cinder is dead...**"
 	{
-		"chi"		"** **"
+		"chi"		"**薪王葛温死亡...**"
 	}
 	"**After the fall of the Oolacile. Betrayal of his advisers and the disappearance of four kings...**"
 	{
-		"chi"		"** **"
+		"chi"		"**在乌拉席露被深渊侵蚀之后，小隆德四王也背叛了他...**"
 	}
 	"**...Gwyn realized that the abyss is right around him. Then he gathered his last strength...**"
 	{
-		"chi"		"** **"
+		"chi"		"**...葛温意识到了深渊就围绕在他的周围，于是他聚集起他最后的力量...**"
 	}
 	"**...He ordered Gwyndolin to seal the passage to the First Flame...**"
 	{
-		"chi"		"** **"
+		"chi"		"**...他命令葛温德林封闭通往初火的道路...**"
 	}
 	"**...Gwyn knew that only the Dark Lord will be able to reach him... and the First flame...**"
 	{
-		"chi"		"** **"
+		"chi"		"**...葛温知道只有Dark Lord可以到达他这里...同时初火最终也会...**"
 	}
 }
