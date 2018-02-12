@@ -451,7 +451,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Defend for 20 seconds***"
+	"***DEFEND FOR 20 SECONDS***"
 	{
 		"chi"		"** **"
 	}
@@ -459,7 +459,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
@@ -591,7 +591,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***ITEM FAILED - HOT PIZZA***"
+	"***PICKED UP - FAST PIZZA STAFF***"
 	{
 		"chi"		"** **"
 	}
@@ -599,7 +599,23 @@
 	{
 		"chi"		"** **"
 	}
-	"***PICKED UP - FAST PIZZA STAFF***"
+	"***THE LAVA WILL RISE IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE LAVA IS RISING***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU ARE GREAT PIZZA BOYS***"
+	{
+		"chi"		"** **"
+	}
+	"***BARREL PARTY***"
+	{
+		"chi"		"** **"
+	}
+	"***EAT YOUR MEAT***"
 	{
 		"chi"		"** **"
 	}
@@ -608,10 +624,6 @@
 		"chi"		"** **"
 	}
 	"***ITEM USED - FAST PIZZA***"
-	{
-		"chi"		"** **"
-	}
-	"***BARREL PARTY***"
 	{
 		"chi"		"** **"
 	}

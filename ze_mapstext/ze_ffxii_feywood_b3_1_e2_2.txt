@@ -3,7 +3,7 @@
 	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
 		"chi"		"**守住这里15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**WE KILLED HIM. GO TO THE END OF THE ROAD***"
 	{
@@ -12,7 +12,7 @@
 	"**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
 	{
 		"chi"		"**这个地方将在15秒后爆炸-守住这里**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**OH NO... THIS IS CHOCOBO**"
 	{
@@ -20,102 +20,102 @@
 	}
 	"**DEFEND THE GROUND FOR 30 SECONDS**"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"chi"		"**守住这里30秒**"
 	}
 	"**The teleporter to Feywood will be active in 30 seconds**"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"chi"		"**传送将在30秒后激活**"
 	}
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**大门将在20秒后打开**"
 	}
-	"**THE GATES WILL OPEN IN 20 SECONDS**"
+	"**The gates will open in 20 seconds**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**大门将在20秒后打开**"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**墓穴大门将在25秒后关闭**"
 	}
 	"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 		"chi"		"**巨石将在15秒后爆炸**"
 	}
 	"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**墓穴大门将在20秒后打开**"
 	}
 	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**干的漂亮-大门20秒后打开**"
 	}
 	"**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**离开墓穴的大门将在20秒后打开**"
 	}
 	"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
 	{
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 		"chi"		"**飞艇将在35秒后离开-守住这里**"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 		"chi"		"**传送将在15秒后启动**"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"chi"		"**道路将在25秒后开放**"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"chi"		"**前进的路将在25秒后开放-继续防守**"
 	}
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"chi"		"**闸门将在25秒后关闭**"
 	}
-	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	"**The gates will open in 25 seconds**"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"chi"		"**大门将在25秒后打开**"
 	}
 	"**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 		"chi"		"**大门将在15秒后打开-继续防守**"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**传送将在20秒后激活**"
 	}
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**守住这里20秒**"
 	}
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 		"chi"		"**魔晶石矿井入口将在20秒后打开**"
 	}
 	"**THE END GATES WILL OPEN IN 50 SECONDS**"
 	{
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 		"chi"		"**最后大门将在50秒后开启**"
 	}
 	"**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
@@ -444,5 +444,149 @@
 	"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
 	{
 		"chi"		"**最后大门将在10秒后开启-准备决一死战**"
+	}
+	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**NADES ARENT DAMAGE HIM NOW**"
+	{
+		"chi"		"** **"
+	}
+	"(allahu-akbar)"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**Cactus found. The player who did it got 1 level**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS HAS CAST BLIZZAGA**"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS HAS CAST TORNADO**"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS HAS CAST THUNDAGA**"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS HAS CAST FIRAGA**"
+	{
+		"chi"		"** **"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**CHUCHULAINN HAS USED SHIELD(YOU CANT USE ITEMS FOR 10 SEC)**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBE CAGE OPEN**YOU HAVE FAILED**"
+	{
+		"chi"		"** **"
+	}
+	"**GO GO GO!!**"
+	{
+		"chi"		"** **"
+	}
+	"** CONGRATILATIONS!!! [YOU WON LEVEL 5] **"
+	{
+		"chi"		"** **"
+	}
+	"**WE HAVE A EPIC SOLO WINNER!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THE MAP IS BEATEN. ZOMBIE ROUNDS**"
+	{
+		"chi"		"** **"
+	}
+	"**THE TELEPORTER TO RABANASTRA IS OPENED**"
+	{
+		"chi"		"** **"
+	}
+	"**TRY TO SURVIVE WITHOUT ANY ITEMS**"
+	{
+		"chi"		"** **"
+	}
+	"**RELAX AND JUST ENJOY THE MUSIC)**"
+	{
+		"chi"		"** **"
+	}
+	"**4 MINUTES LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**3 MINUTES LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**2 MINUTES LEFT!**"
+	{
+		"chi"		"** **"
 	}
 }

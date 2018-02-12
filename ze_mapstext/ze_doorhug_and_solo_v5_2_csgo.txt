@@ -316,6 +316,10 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"2565"
+		"syncvalue"		"83498"
+	}
+	"**The player who took the boss seems to be left** **So get to the end**"
+	{
+		"chi"		"** **"
 	}
 }

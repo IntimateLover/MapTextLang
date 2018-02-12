@@ -112,7 +112,7 @@
 	{
 		"chi"		"**守住25秒 **"
 	}
-	"*** Door Opens in 15 seconds ***"
+	"*** Door opens in 15 seconds ***"
 	{
 		"chi"		"**门将在15秒后打开 **"
 	}
@@ -131,5 +131,17 @@
 	"*** Door opens in 10 seconds ! ***"
 	{
 		"chi"		"**门将在10秒后打开 **"
+	}
+	"*** Admin pressed Stage1 button ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Admin pressed Stage2 button ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Admin pressed Ex button ***"
+	{
+		"chi"		"** **"
 	}
 }
