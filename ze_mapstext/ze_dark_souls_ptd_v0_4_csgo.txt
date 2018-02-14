@@ -289,7 +289,7 @@
 	}
 	"**Dark ending is beginning...**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗之王结局开始... **"
 	}
 	"**The Gargoyle is dead. You are very close..**"
 	{
@@ -360,7 +360,7 @@
 	}
 	"**Dark ember was selected...All hexes items get one more use next round**"
 	{
-		"chi"		"**黑暗灰烬被选中...**"
+		"chi"		"**黑暗灰烬被选中...下一回合所有魔法可以增加一次使用次数**"
 	}
 	"**A player has picked up Black Flame**"
 	{
@@ -376,7 +376,7 @@
 	}
 	"**The Usurpation of Fire ending is beginning...**"
 	{
-		"chi"		"** **"
+		"chi"		"**初火掠夺战开始... **"
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
