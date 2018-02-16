@@ -109,7 +109,7 @@
 		"chi"		"**电梯5秒后离开 **"
 		"DoorCountdown"		"5"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**坚持20秒 **"
 		"DoorCountdown"		"20"
@@ -266,18 +266,6 @@
 		"chi"		"**僵尸上来了你失败了!**"
 	}
 	"*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***"
-	{
-		"chi"		"** **"
-	}
-	"910 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"1010 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"Boss Battle Easier"
 	{
 		"chi"		"** **"
 	}

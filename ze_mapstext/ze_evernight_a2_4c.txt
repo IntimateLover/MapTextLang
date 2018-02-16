@@ -31,7 +31,7 @@
 	"**Hold 25 seconds**"
 	{
 		"chi"		"**坚守25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**WE SMASHED THE ENERGY CRYSTAL,HOLD THE POSITION FOR 30 SECONDS TILL THE PARCLOSE DISAPPEAR**"
 	{
@@ -44,7 +44,7 @@
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 45 SECONDS TILL THE C4 EXPLODE**"
 	{
 		"chi"		"**C4已安置，等待45秒后C4爆炸**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"**WE MUST HURRY UP,THE SOUND OF EXPLOSION MAYBE HAS CARRY FOR WHERE HE IS**"
 	{
@@ -60,22 +60,22 @@
 	"**C4 HAS BEEN PLANTED,COVER HERE FOR 20 SECONDS TILL THE C4 EXPLODE**"
 	{
 		"chi"		"**C4将在20秒后爆炸 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Hold 15 seconds**"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**WERE TRYING TO BREAK THE WALL,HOLD 20 SECONDS**"
 	{
 		"chi"		"**我们试图打破墙壁.守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**HOLD 30 SECONDS TILL THE DOOR OPEN**"
 	{
 		"chi"		"**守住30秒.直到门打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**NADE CAN DO A LOT OF DAMAGE**"
 	{
@@ -84,7 +84,7 @@
 	"**HOLD 60 SECONDS**"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"**DIFFICULTY:NORMAL**"
 	{
@@ -225,7 +225,7 @@
 	"**DOOR OPENS IN 10 SECONDS**"
 	{
 		"chi"		"**大门将在10秒后开启 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**IT SEEMS WE HAVE TO ACTIVATE THE TWO CRYSTALS AT THE BOTH SIDES TO OPEN THE GATE**"
 	{
@@ -234,7 +234,7 @@
 	"**GOOD JOB,THE GATE WILL BE OPENED IN 30 SECONDS**"
 	{
 		"chi"		"**干得漂亮，大门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**THE SIDE DOOR OPENS IN 10 SECONDS**"
 	{
@@ -247,17 +247,17 @@
 	"**THE FIRST WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第一道隐形墙将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**THE SECOND WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第二道隐形墙将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**THE LAST WALL WILL BE BROKEN IN 15 SECONDS**"
 	{
 		"chi"		"**第三道隐形墙将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**DONT HURRY TO LEAVE,HOLD ON A LITTLE LONGER TO COVER OUR TEAMMATES WHO IN THE SIDE WAY**"
 	{
@@ -402,7 +402,7 @@
 	"**Hold 30 seconds**"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**GRAVITY**"
 	{
@@ -449,7 +449,7 @@
 	"**THE AUTONOMOUS DEFENSE SYSTEM IS CASTING ITS LAST ATTACK!WE MUST HURRY UP!**"
 	{
 		"chi"		"**自律型防卫系统正在准备它的最后一击！我们必须抓紧最后的机会了！ **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**GET BACK TO THE BOTH SIDES!IT IS COMING!**"
 	{
@@ -502,7 +502,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"16103"
+		"syncvalue"		"40723"
 	}
 	"**After three day of tracking Basil**"
 	{
@@ -591,5 +591,262 @@
 	"**Our magicks has been more skillful after this battle**"
 	{
 		"chi"		"**这场战斗后我们使用魔法将更加熟练**"
+	}
+	"**lets get the Glimmer Fragment before Basil does**"
+	{
+		"chi"		"** **"
+	}
+	"**The exit of the suqare is closed**"
+	{
+		"chi"		"** **"
+	}
+	"**Try to find a way to open the gate**"
+	{
+		"chi"		"** **"
+	}
+	"**The crystal has beem smashed**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold for a while till the gate open**"
+	{
+		"chi"		"** **"
+	}
+	"**Now get down to the ropeway platform**"
+	{
+		"chi"		"** **"
+	}
+	"**Hang up your slide hook**"
+	{
+		"chi"		"** **"
+	}
+	"**Well set out when everyone is ready**"
+	{
+		"chi"		"** **"
+	}
+	"**The way to the temple is blocked**"
+	{
+		"chi"		"** **"
+	}
+	"**Get ready for your C4 bomb**"
+	{
+		"chi"		"** **"
+	}
+	"**C4 has been planted**"
+	{
+		"chi"		"** **"
+	}
+	"**Get back!C4 is about to explode!**"
+	{
+		"chi"		"** **"
+	}
+	"**Cover here till we open the gate**"
+	{
+		"chi"		"** **"
+	}
+	"**Thats the Evernight Temple**"
+	{
+		"chi"		"** **"
+	}
+	"**Lets get into it**"
+	{
+		"chi"		"** **"
+	}
+	"Seems some bugs follow me."
+	{
+		"chi"		"** **"
+	}
+	"**That it Basil!Wait...with Gradyrat?**"
+	{
+		"chi"		"** **"
+	}
+	"**Sh*t!we have been found!shot it!shot it!**"
+	{
+		"chi"		"** **"
+	}
+	"**Its an image of Basil...**"
+	{
+		"chi"		"** **"
+	}
+	"**We have to hurry up,lets move**"
+	{
+		"chi"		"** **"
+	}
+	"**The instrument shows that *the fragment is over our heads**"
+	{
+		"chi"		"** **"
+	}
+	"**We have to use the main lift to go up,but it seems that the main lift is without power**"
+	{
+		"chi"		"** **"
+	}
+	"**Lets go to the inner part of the temple to find two main power cores and make them work**"
+	{
+		"chi"		"** **"
+	}
+	"**First go to right**"
+	{
+		"chi"		"** **"
+	}
+	"**In order to prevent invaders**"
+	{
+		"chi"		"** **"
+	}
+	"**therere many seal doors**"
+	{
+		"chi"		"** **"
+	}
+	"**Nicely done**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold the position till the gate open**"
+	{
+		"chi"		"** **"
+	}
+	"**Therere two invisible walls**"
+	{
+		"chi"		"** **"
+	}
+	"**try to find a way to break through**"
+	{
+		"chi"		"** **"
+	}
+	"**Unlocking the first seal...**"
+	{
+		"chi"		"** **"
+	}
+	"**Unlocking the second seal...**"
+	{
+		"chi"		"** **"
+	}
+	"**The core must be...wait**"
+	{
+		"chi"		"** **"
+	}
+	"**there is something has been wakened!**"
+	{
+		"chi"		"** **"
+	}
+	"Im the watcher of the temple"
+	{
+		"chi"		"** **"
+	}
+	"and the keeper of the Glimmer Fragment"
+	{
+		"chi"		"** **"
+	}
+	"You,the greedy thieves of humankind"
+	{
+		"chi"		"** **"
+	}
+	"Now face me and feel my wrath!"
+	{
+		"chi"		"** **"
+	}
+	"**Its the watcher system of the temple!**"
+	{
+		"chi"		"** **"
+	}
+	"**Ready for battle!**"
+	{
+		"chi"		"** **"
+	}
+	"**The crystal has been smashed**"
+	{
+		"chi"		"** **"
+	}
+	"**The instrument shows that the fragment is over our heads**"
+	{
+		"chi"		"** **"
+	}
+	"**Make it stop before it kill us all!**"
+	{
+		"chi"		"** **"
+	}
+	"**Static Shock - crouch **"
+	{
+		"chi"		"** **"
+	}
+	"**The watcher is absorbing other additional cores!**"
+	{
+		"chi"		"** **"
+	}
+	"**get close to the middle of field**"
+	{
+		"chi"		"** **"
+	}
+	"**Celestial Smash - Go side**"
+	{
+		"chi"		"** **"
+	}
+	"**Ember Tornado**"
+	{
+		"chi"		"** **"
+	}
+	"**Absolute Vacuum**"
+	{
+		"chi"		"** **"
+	}
+	"**Blizzard**"
+	{
+		"chi"		"** **"
+	}
+	"**Warning!**"
+	{
+		"chi"		"** **"
+	}
+	"**Power is nearly to critical value!**"
+	{
+		"chi"		"** **"
+	}
+	"**He is casting his last attack!**"
+	{
+		"chi"		"** **"
+	}
+	"**Its our last chance!**"
+	{
+		"chi"		"** **"
+	}
+	"**Frostnova - Go side**"
+	{
+		"chi"		"** **"
+	}
+	"**Chaosbreak**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"4"
+	}
+	"**Meltdown - Silence human magick for 30 seconds (except for the Light Magick)**"
+	{
+		"chi"		"** **"
+	}
+	"**Lightning Storm**"
+	{
+		"chi"		"** **"
+	}
+	"**Aurora Shield - The Watcher is transform the damage we have done to it into healing,use the Thunder Magick to smash the shield**"
+	{
+		"chi"		"** **"
+	}
+	"**Flare - Use the Ice Magick to neutralize the effect**"
+	{
+		"chi"		"**火焰燃烧-使用冰魔法进行中和**"
+	}
+	"**We defeat it**"
+	{
+		"chi"		"** **"
+	}
+	"**Our magick become more stronger after this battle**"
+	{
+		"chi"		"** **"
+	}
+	"**Just hold for a while,we need a little time to light up the core**"
+	{
+		"chi"		"** **"
+	}
+	"**We have lit up the core successfully,keep defending till the core lift move upwards**"
+	{
+		"chi"		"** **"
 	}
 }

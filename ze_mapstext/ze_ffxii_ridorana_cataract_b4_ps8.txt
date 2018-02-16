@@ -12,7 +12,7 @@
 	{
 		"chi"		"**最终幻想12：里多拉纳大瀑布**"
 	}
-	"**The gates will open in 20 seconds**"
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**石制大门20秒后打开**"
 		"DoorCountdown"		"20"
@@ -50,7 +50,7 @@
 	{
 		"chi"		"**铁门将在15秒后打开**"
 	}
-	"**The gates will open in 25 seconds**"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**石制大门25秒后打开**"
 		"DoorCountdown"		"25"
@@ -356,14 +356,14 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"55527"
+		"syncvalue"		"48302"
 	}
 	"**The arena entrance will open in 30 seconds**"
 	{
 		"chi"		"**竞技场大门将在30秒后打开**"
 		"DoorCountdown"		"30"
 	}
-	"**You have failed**"
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

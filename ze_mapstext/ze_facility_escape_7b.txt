@@ -28,8 +28,112 @@
 	{
 		"chi"		"** **"
 	}
+	"18 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"28 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"38 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"48 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"58 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"68 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"78 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"88 circuit breaker works again"
+	{
+		"chi"		"** **"
+	}
+	"Door will open soon !"
+	{
+		"chi"		"** **"
+	}
+	"Not enough fuel to move the platform..."
+	{
+		"chi"		"** **"
+	}
+	"17 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"27 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"37 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"47 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"57 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"67 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"77 Gaz can !"
+	{
+		"chi"		"** **"
+	}
+	"All Gas Can was  found !"
+	{
+		"chi"		"** **"
+	}
+	"The platform is coming..."
+	{
+		"chi"		"** **"
+	}
+	"The platform will move in 5 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Hmm... the ceiling does not look stabile..."
+	{
+		"chi"		"** **"
+	}
+	"The chopper is coming..."
+	{
+		"chi"		"** **"
+	}
+	"The chopper will leave in 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Zombies detected !!!!!"
+	{
+		"chi"		"** **"
+	}
+	"Mission Failed !!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
 	"sync_version"
 	{
-		"syncvalue"		"27105"
+		"syncvalue"		"80890"
+	}
+	"map by Amx"
+	{
+		"chi"		"** **"
 	}
 }

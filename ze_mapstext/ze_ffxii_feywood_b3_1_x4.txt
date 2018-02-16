@@ -87,7 +87,7 @@
 	{
 		"chi"		"**一位玩家拿起了冰-Lv.1**"
 	}
-	"**THE GATES WILL OPEN IN 20 SECONDS**"
+	"**The gates will open in 20 seconds**"
 	{
 		"chi"		"**大门20秒后打开**"
 		"DoorCountDown"		"20"
@@ -338,7 +338,7 @@
 	{
 		"chi"		"**一位玩家拿起了冰-Lv.2**"
 	}
-	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	"**The gates will open in 25 seconds**"
 	{
 		"chi"		"**大门将在25秒后打开**"
 		"DoorCountDown"		"25"
@@ -593,6 +593,62 @@
 		"chi"		"** **"
 	}
 	"**WE HAVE A EPIC SOLO WINNER!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THE MAP IS BEATEN. ZOMBIE ROUNDS**"
+	{
+		"chi"		"** **"
+	}
+	"**THE TELEPORTER TO RABANASTRA IS OPENED**"
+	{
+		"chi"		"** **"
+	}
+	"**TRY TO SURVIVE WITHOUT ANY ITEMS**"
+	{
+		"chi"		"** **"
+	}
+	"**RELAX AND JUST ENJOY THE MUSIC)**"
+	{
+		"chi"		"** **"
+	}
+	"**4 MINUTES LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**3 MINUTES LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**2 MINUTES LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**1 MINUTE LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**30 SECONDS LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**15 SECONDS LEFT!**"
+	{
+		"chi"		"** **"
+	}
+	"**5 SECONDS LEFT!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THANK YOU FOR PLAYING THE MAP**"
+	{
+		"chi"		"** **"
+	}
+	"**MAP RESET**"
+	{
+		"chi"		"** **"
+	}
+	"**OH NO... THIS IS CHOCOBO**"
 	{
 		"chi"		"** **"
 	}

@@ -82,7 +82,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"93849"
+		"syncvalue"		"39911"
 	}
 	"**[Admin]STAGE 2**"
 	{
@@ -483,8 +483,108 @@
 	{
 		"chi"		"** **"
 	}
+	">>AND FIND THE CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>WE NEED IT<<"
+	{
+		"chi"		"** **"
+	}
+	"**You found the crystal!!!**"
+	{
+		"chi"		"** **"
+	}
+	">>YOU PLACED THE CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>SOMETHING FORTHCOMING<<"
+	{
+		"chi"		"** **"
+	}
+	">>VOID DOOR APPEAR IN 30 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>VOID DOOR APPEARED<<"
+	{
+		"chi"		"** **"
+	}
+	">>DEFENCE 20 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>WAIT 5 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<"
+	{
+		"chi"		"** **"
+	}
+	">>OH!ITS SHADOW GUARD<<"
+	{
+		"chi"		"** **"
+	}
+	">>KILL HIM!!!<<"
+	{
+		"chi"		"** **"
+	}
 	">>KILL THE REMAINING ZOMBIES<<"
 	{
 		"chi"		">>>杀死剩余的僵尸<<<"
+	}
+	"**Stage 5 has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 4 has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	">>USE <Tornado> TO DISPEL SHADOW TWINE<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE LIFT DOOR HAS OPENED<<"
+	{
+		"chi"		"** **"
+	}
+	">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>SHOOT IT!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>WE DEFEAT HIM<<"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL IS INJECTING ENERGY<<"
+	{
+		"chi"		"** **"
+	}
+	">>WE WILL BE ABLE TO LEAVE SOON<<"
+	{
+		"chi"		"** **"
+	}
+	">>ZOMBIES GET ON<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOUR FAILED<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU CAN NOT BREAK IT<<"
+	{
+		"chi"		"** **"
+	}
+	">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<"
+	{
+		"chi"		"** **"
 	}
 }

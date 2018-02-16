@@ -51,7 +51,7 @@
 	"***DEFEND FOR 20 SECONDS***"
 	{
 		"chi"		"**等待20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***INVERTED CONTROLS***"
 	{
@@ -88,12 +88,12 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**等待30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door opening in 20 seconds***"
 	{
@@ -104,6 +104,10 @@
 		"chi"		"**大门10秒后打开**"
 	}
 	"***LOW GRAVITY***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

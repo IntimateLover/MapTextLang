@@ -1,0 +1,59 @@
+"Console_T"
+{
+	"the door will open in 15s"
+	{
+		"chi"		"** **"
+	}
+	"the door will open in 30s"
+	{
+		"chi"		"** **"
+	}
+	"The elevator starts in 10 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Go to another elevator."
+	{
+		"chi"		"** **"
+	}
+	"holy on elevator star in 10s"
+	{
+		"chi"		"** **"
+	}
+	"Turn on the switch and start the elevator."
+	{
+		"chi"		"** **"
+	}
+	"Get back to the elevator and start with 30S."
+	{
+		"chi"		"** **"
+	}
+	"寻找开�? 让电梯继续运�?��"
+	{
+		"chi"		"** **"
+	}
+	"we get it elevator starts in 30S get out the elevator"
+	{
+		"chi"		"** **"
+	}
+	"We need to hold on to the waiting elevator"
+	{
+		"chi"		"** **"
+	}
+	"不要碰水 打破白色板子 蹲进这个狭小的空间里"
+	{
+		"chi"		"** **"
+	}
+	"红色光源好像有什么东�? 去看看吧"
+	{
+		"chi"		"** **"
+	}
+	"小心地板会碎"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"48098"
+	}
+}

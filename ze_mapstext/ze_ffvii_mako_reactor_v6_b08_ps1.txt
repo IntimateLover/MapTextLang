@@ -1,5 +1,44 @@
 "Console_T"
 {
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_armor_limit 4"
+		}
+		"1"
+		{
+			"cvar"		"sm_he_limit 6"
+		}
+		"2"
+		{
+			"cvar"		"sm_smoke_limit 2"
+		}
+		"3"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"4"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
+		"5"
+		{
+			"cvar"		"zr_class_modify zombies knockback 7"
+		}
+		"7"
+		{
+			"cvar"		"zr_infect_spawntime_min 16"
+		}
+		"8"
+		{
+			"cvar"		"zr_infect_spawntime_max 16"
+		}
+		"9"
+		{
+			"cvar"		"sm_g_cv_money 16000"
+		}
+	}
 	"<<< EASY >>>"
 	{
 		"chi"		">>>简单难度<<<"
@@ -36,10 +75,6 @@
 	{
 		"chi"		"**毒已被拿起**"
 	}
-	"** AQUA Materia has been found. **"
-	{
-		"chi"		"** **"
-	}
 	"** ULTIMA Materia has been found. **"
 	{
 		"chi"		"**终极已被拿起**"
@@ -58,7 +93,7 @@
 	}
 	"** Round failed! Zombies have reached the objective! **"
 	{
-		"chi"		"**本关失败-僵尸已逃脱**"
+		"chi"		"**本关失败-僵尸已到达目标点**"
 	}
 	"** HEAL Materia has been found. **"
 	{
@@ -159,48 +194,5 @@
 	"** Congratulations! You have beaten [EXTREME] **"
 	{
 		"chi"		"**恭喜你-极限难度已破**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_armor_limit 4"
-		}
-		"1"
-		{
-			"cvar"		"sm_he_limit 6"
-		}
-		"2"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"3"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
-		"5"
-		{
-			"cvar"		"zr_class_modify zombies knockback 7"
-		}
-		"6"
-		{
-			"cvar"		"zr_infect_spawntime_min 16"
-		}
-		"7"
-		{
-			"cvar"		"zr_infect_spawntime_max 16"
-		}
-		"8"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"9"
-		{
-			"cvar"		"sm_g_cv_money 16000"
-		}
 	}
 }

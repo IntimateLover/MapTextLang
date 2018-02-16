@@ -60,6 +60,7 @@
 	"** A player has learned Heal magick. **"
 	{
 		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
+		"DoorCountDown"		"-1"
 	}
 	"** Keep defending!! **"
 	{

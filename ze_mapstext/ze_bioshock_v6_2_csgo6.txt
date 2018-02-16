@@ -1094,7 +1094,7 @@ Cooldo"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"9620"
+		"syncvalue"		"30453"
 	}
 	">>Its your chance. Kill the Songbird<<"
 	{
@@ -1105,6 +1105,10 @@ Cooldo"
 		"chi"		"** **"
 	}
 	">>>Thank you for playing<<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}
