@@ -1,189 +1,148 @@
 "Console_T"
 {
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"*** 重启游戏以防崩溃 *** 本图已禁用传送指令 ***"
+	}
 	"*** STAGE I ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 关卡 I ***"
 	}
 	"*** WARMUP - 50 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 热身 - 50秒后结束 ***"
 	}
 	"*** WARMUP - 40 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 热身 - 40秒后结束 ***"
 	}
 	"*** WARMUP - 30 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
-	}
-	"*** Abyssal Orb has been acquired ***"
-	{
-		"chi"		"** **"
+		"chi"		"*** 热身 - 30秒后结束 ***"
 	}
 	"*** WARMUP - 20 SECONDS LEFT ***"
 	{
-		"chi"		"** **"
-	}
-	"*** WARMUP - 10 SECONDS LEFT ***"
-	{
-		"chi"		"** **"
-	}
-	"*** WARMUP OVER - RESTARTING ROUND ***"
-	{
-		"chi"		"** **"
+		"chi"		"*** 热身 - 20秒后结束 ***"
 	}
 	"*** Lightning Orb has been acquired ***"
 	{
-		"chi"		"** **"
-	}
-	"*** Portcullis opening in 30 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"30"
-	}
-	"*** 5 seconds left ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Spawn area teleport activating in 5 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Divine Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Inner gate opening in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Bridge area teleport activating in 5 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Door opening in 45 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"45"
-	}
-	"*** Doors opening in 45 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"45"
-	}
-	"*** Round failed! Zombies have reached the objective! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Burning Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Gust Orb has been acquired ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Total destruction in 45 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"45"
+		"chi"		"*** 雷电球已被拾取 ***"
 	}
 	"*** Glacial Orb has been acquired ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 冰霜球已被拾取 ***"
+	}
+	"*** WARMUP - 10 SECONDS LEFT ***"
+	{
+		"chi"		"*** 热身 - 10秒后结束 ***"
+	}
+	"*** WARMUP OVER - RESTARTING ROUND ***"
+	{
+		"chi"		"*** 热身结束 - 重置回合 ***"
+	}
+	"*** Divine Orb has been acquired ***"
+	{
+		"chi"		"*** 神圣球已被拾取 ***"
+	}
+	"*** Portcullis opening in 30 seconds ***"
+	{
+		"chi"		"*** 闸门将在 30 秒后开启 ***"
+		"DoorCountDown"		"30"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"*** 还剩 5 秒 ***"
+	}
+	"*** Spawn area teleport activating in 5 seconds ***"
+	{
+		"chi"		"*** 5 秒后向前推进出生点 ***"
+	}
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"chi"		"*** 虚空球已被拾取 ***"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+	        "chi"		"*** 狂风球已被拾取 ***"
+	}
+	"*** Inner gate opening in 10 seconds ***"
+	{
+		"chi"		"*** 大门将在 10 秒后开启 ***"
+		"DoorCountDown"		"10"
+	}
+	"*** Bridge area teleport activating in 5 seconds ***"
+	{
+		"chi"		"*** 将在 5 秒后向前推进出生点 ***"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"chi"		"*** 燃烧球已被拾取 ***"
+	}
+	"*** Door opening in 45 seconds ***"
+	{
+		"chi"		"*** 大门将在 45 秒后打开 ***"
+		"DoorCountDown"		"45"
+	}
+	"*** Doors opening in 45 seconds ***"
+	{
+		"chi"		"*** 门将在 45 秒后打开 ***"
+		"DoorCountDown"		"45"
+	}
+	"*** Total destruction in 45 seconds ***"
+	{
+		"chi"		"*** 毁灭将在 45 秒后降临 ***"
+		"DoorCountDown"		"45"
 	}
 	"*** Castle area teleport activating in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 将在 5 秒后向前推进出生点 ***"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"chi"		"*** 关卡失败 - 僵尸抵达终点!***"
 	}
 	"*** Stage completed! ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 关卡挑战成功! 进入下一关卡!*** 地图翻译 by 色狼领袖 ***"
 	}
 	"*** STAGE II ***"
 	{
-		"chi"		"** **"
-	}
-	"*** Chapel lift leaving in 30 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"30"
-	}
-	"*** Windows breaking in 45 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"45"
-	}
-	"*** Doors closing in 45 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"45"
+		"chi"		"*** 关卡 II ***"
 	}
 	"*** Outer gate opening in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 僵尸大门将在 10 秒后打开 ***"
+	}
+	"*** Chapel lift leaving in 30 seconds ***"
+	{
+		"chi"		"*** 塔楼电梯将在 30 秒后上升 ***"
+		"DoorCountDown"		"30"
+	}
+	"*** Windows breaking in 45 seconds ***"
+	{
+		"chi"		"*** 窗户将在 45 秒后破裂 ***"
+		"DoorCountDown"		"45"
+	}
+	"*** Doors closing in 45 seconds ***"
+	{
+		"chi"		"*** 塔楼门将在 45 秒后关闭 ***"
+		"DoorCountDown"		"45"
 	}
 	"*** Library lift leaving in 30 seconds ***"
 	{
-		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"chi"		"*** 图书馆电梯将在 30 秒后离开 ***"
+		"DoorCountDown"		"30"
 	}
 	"*** The tomb has been reached ***"
 	{
-		"chi"		"** **"
+		"chi"		"*** 已到达墓地 ***"
 	}
 	"*** Defend the 4 statues for 45 seconds ***"
 	{
-		"chi"		"** **"
-		"DoorCountdown"		"45"
+		"chi"		"*** 守护四根雕像 45 秒 ***"
 	}
 	"*** Total destruction in 30 seconds ***"
 	{
-		"chi"		"** **"
-	}
-	"*** Total destruction in 5 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Kill any remaining zombies ***"
-	{
-		"chi"		"** **"
-	}
-	"*** STAGE III ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Inner gate lever is stuck ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Find another way! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Doors opening in 30 seconds ***"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"30"
-	}
-	"*** Fountain opening in 20 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Tower lifts activated ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Tower lifts leaving in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Defend the tower for 60 seconds! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 30 seconds left ***"
-	{
-		"chi"		"** **"
+		"chi"		"*** 毁灭将在 30 秒后降临 ***"
 	}
 }
