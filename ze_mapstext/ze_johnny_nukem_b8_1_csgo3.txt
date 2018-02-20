@@ -62,7 +62,7 @@
 	}
 	"**A player has picked up the Rainbow Flamethrower**"
 	{
-		"chi"		"**一位玩家拾起了喷火器**"
+		"chi"		"**一位玩家拾起了彩虹喷火器（无彩色说明燃料耗尽）**"
 	}
 	"**TIP -- Flamethrower can last up to 20 seconds**"
 	{
@@ -166,7 +166,7 @@
 	}
 	"**Defend the zombies off until something happens**"
 	{
-		"chi"		"**守住僵尸-直到道路出现**"
+		"chi"		"**守住僵尸，直到道路出现**"
 	}
 	"**Looks like that ship can move - Defend until it comes for us**"
 	{
@@ -174,7 +174,7 @@
 	}
 	"Rayvel *Well done! The King of Frogs is right there in that arena*"
 	{
-		"chi"		"**瑞威尔：做得好！青蛙之王就在那竞技场里**"
+		"chi"		"**瑞威尔：做得好！青蛙国王就在那竞技场里**"
 	}
 	"Rayvel *Just be warned... He is a very dangerous foe!*"
 	{
@@ -242,19 +242,19 @@
 	}
 	"Rayvel *Johnny! I got the teleporter working!*"
 	{
-		"chi"		"**瑞威尔：强尼,我得让传送器工作**"
+		"chi"		"**瑞威尔：强尼,我正在修理传送器**"
 	}
 	"Rayvel *The teleporter to the Kingdom of Steroids is functional!*"
 	{
-		"chi"		"**瑞威尔：传送至乐高王国的传送器被使用了**"
+		"chi"		"**瑞威尔：传送至乐高王国的传送器被修好了**"
 	}
 	"Johnny *Nice. Hitler wasnt in here... But that bastard is not escaping. Not anymore...*"
 	{
-		"chi"		"**强尼：好，但是希特勒不在这里，但他跑不了了**"
+		"chi"		"**强尼：好，但是希特勒不在这里，不过他跑不了了**"
 	}
 	"**A ladder has appeared - Fall back!**"
 	{
-		"chi"		"**道路可以走了-撤退！**"
+		"chi"		"**梯子可以走了-撤退！**"
 	}
 	"**The water in the sink will be drained out in 15 seconds**"
 	{
@@ -541,7 +541,7 @@
 	}
 	"Johnny *Thanks but... let me ask you something first. Why are you helping me?*"
 	{
-		"chi"		"**强尼：谢谢但是...先让我问你点事。为什么要帮助我？**"
+		"chi"		"**强尼：谢谢，但是...先让我问你点事.为什么要帮助我？**"
 	}
 	"Rayvel *Its a long story. But Ive done so many things in my life that Im not happy about*"
 	{
@@ -553,7 +553,7 @@
 	}
 	"Johnny *Youve been of great help to me. Were it not for you Id still be dealing with frogs*"
 	{
-		"chi"		"**强尼：你切是帮了我很多.如果没遇到你我可能还在和那只青蛙打交道**"
+		"chi"		"**强尼：你的确帮了我很多.如果没遇到你我可能还在和那只青蛙打交道**"
 	}
 	"Rayvel *Im glad I could help you. Lets finish this once and for all and go after Hitler!*"
 	{
@@ -597,7 +597,7 @@
 	}
 	"Hitler *And with this in our hands. Rayvel and I will conquer your world!*"
 	{
-		"chi"		"**希特勒：然后到了我们手中.我和瑞威尔将要统治你们的世界！**"
+		"chi"		"**希特勒：于是Intel到了我们手中.我和瑞威尔将要统治你们的世界！**"
 	}
 	"Johnny *Over my dead body you fucking Nazis!*"
 	{
@@ -637,7 +637,7 @@
 	}
 	"Professor *Johnny. Oh I am finally able to contact you. What is happening?*"
 	{
-		"chi"		"**教授：强尼.哦我终于联系上了你.发生啥事？**"
+		"chi"		"**教授：强尼.哦，我终于联系上了你.发生啥事？**"
 	}
 	"Johnny *Rayvel betrayed us. He was working with Hitler all along and I fell for his trap*"
 	{
@@ -645,11 +645,11 @@
 	}
 	"Professor *You dense motherfucker. Only someone like you would trust a piece of paper*"
 	{
-		"chi"		"**教授：你真他娘的傻.只有你这样的蠢蛋才相信一个纸片人**"
+		"chi"		"**教授：你真他娘的傻.只有你这样的蠢蛋才h会相信一个纸片人**"
 	}
 	"Johnny *How about you tell me how to get out of here instead of bitching at me?*"
 	{
-		"chi"		"**强尼：你能不能把教训我的经历放在怎么让我出去的问题上？**"
+		"chi"		"**强尼：你能不能把教训我的精力放在怎么让我出去的问题上？**"
 	}
 	"Professor *I should just let you die in there. But then who will save our world?*"
 	{
@@ -661,7 +661,7 @@
 	}
 	"Johnny *Alright. Once I get out of here Ill tell you anything you want to know*"
 	{
-		"chi"		"**强尼：耗吧.我到那的时候我会告诉你所有你想知道的事情**"
+		"chi"		"**强尼：好吧.到那的时候我会告诉你所有你想知道的事情**"
 	}
 	"Professor *You can be damn sure Ill ask you a lot of questions*"
 	{
@@ -669,11 +669,11 @@
 	}
 	"Professor *Like how thanks to you a piece of paper will destroy our world*"
 	{
-		"chi"		"**教授：像是为什么一个纸片人想要摧毁世界**"
+		"chi"		"**教授：比如说为什么一个纸片人能够摧毁世界**"
 	}
 	"**Theres nowhere to go... Keep the zombies off until something happens!**"
 	{
-		"chi"		"**这里没有路了...守住僵尸知道什么事情发生！**"
+		"chi"		"**这里没有路了...守住僵尸直到什么事情发生！**"
 	}
 	"**A bridge has appeared!**Move back!**"
 	{
@@ -721,11 +721,11 @@
 	}
 	"**The Headshooter & HaRyDes company wishes you a happy flight**"
 	{
-		"chi"		"**Headshooter & HaRyDes 公司祝您飞行愉快**"
+		"chi"		"**Headshooter & HaRyDes公司祝您飞行愉快**"
 	}
 	"**And recommends you stay in the front of the helicopter to ensure your safety**"
 	{
-		"chi"		"**推荐您在飞机前排确保您的安全**"
+		"chi"		"**推荐您在飞机前排以确保您的安全**"
 	}
 	"**Any and every accident will be handled by Glacius&Vanya Co.**"
 	{
