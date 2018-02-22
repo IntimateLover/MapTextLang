@@ -2,13 +2,11 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
-		"command"		"zr_class_modify humans health 300"
 		"chi"		"**距离岩石墙碎裂还有15秒**"
 		"DoorCountdown"		"15"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
-		"command"		"zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
 	"***FALL BACK***"
@@ -1359,17 +1357,13 @@
 	}
 	"MapGlobal_ConVars"
 	{
-		"0"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
 		"1"
 		{
 			"cvar"		"sm_flash_limit 1"
 		}
 		"2"
 		{
-			"cvar"		"sm_he_limit 6"
+			"cvar"		"sm_he_limit 10"
 		}
 		"3"
 		{
@@ -1381,7 +1375,7 @@
 		}
 		"5"
 		{
-			"cvar"		"sm_decoy_limit 2"
+			"cvar"		"sm_decoy_limit 1"
 		}
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
