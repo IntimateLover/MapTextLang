@@ -1,3 +1,4 @@
+mp_timelimit 60
 sm_molotov_limit "5"
 sm_smoke_limit "3"
 sm_decoy_limit "1"
