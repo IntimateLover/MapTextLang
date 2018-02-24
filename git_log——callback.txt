@@ -1,3 +1,4 @@
+//此日志结果表示 服务器更新正常与否判断识别.
 L 02/25/2018 - 01:07:46: [git_sync.smx] Remove File addons/sourcemod/data/git/mapcfg/ze_dark_souls_ptd_v0_4_csgo.cfg
 L 02/25/2018 - 01:07:46: [git_sync.smx] Download URL->https://raw.githubusercontent.com/MapTextLang/MapTextLang/master/mapcfg/ze_dark_souls_ptd_v0_4_csgo.cfg Put:addons/sourcemod/data/git/mapcfg/ze_dark_souls_ptd_v0_4_csgo.cfg
 L 02/25/2018 - 01:07:46: [git_sync.smx] Remove File addons/sourcemod/data/git/mapcfg/ze_slender_escape_rc2.cfg
