@@ -158,7 +158,6 @@
 	"*** Stage 1 Completed! ***"
 	{
 		"chi"		"**关卡一完成 **"
-		"command"	"sm_aei_hammerid 14215 disable"
 	}
 	"*** Stay away from the teleporter as it activates. ***"
 	{
@@ -192,7 +191,6 @@
 	"*** Temple doors will open in 10 seconds. ***"
 	{
 		"chi"		"**还有10秒 **"
-		"command"	"sm_aei_hammerid 70287 enable"
 	}
 	"*** Temple doors will open in 5 seconds. ***"
 	{
