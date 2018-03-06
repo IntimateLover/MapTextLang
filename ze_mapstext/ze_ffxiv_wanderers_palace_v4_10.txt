@@ -498,7 +498,7 @@
 	"*** Level:Ultimate ***"
 	{
 		"chi"		"**当前关卡：天神 **"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100004 use"
 	}
 	"*** This mode is Secret mode ***"
 	{
