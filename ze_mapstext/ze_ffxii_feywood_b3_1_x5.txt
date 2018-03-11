@@ -562,7 +562,7 @@
 	}
 	"**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**"
 	{
-		"chi"		"** **"
+		"chi"		"**这是最后的机会**手雷和子弹能造成200%的伤害 **"
 	}
 	"(allahu-akbar)"
 	{
@@ -574,82 +574,82 @@
 	}
 	"**YOU HAVE FAILED**"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了 **"
 	}
 	"**ZOMBE CAGE OPEN**YOU HAVE FAILED**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸出笼**你失败了 **"
 	}
 	"**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**这个地方15秒后开放-守住这里 **"
 	}
 	"**ZOMBIES HAVE ESCAPED**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸已逃脱 **"
 	}
 	"** CONGRATILATIONS!!! [YOU WON LEVEL 5] **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜-你已征服幻妖之森 **"
 	}
 	"**WE HAVE A EPIC SOLO WINNER!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们有一个SOLO玩家 **"
 	}
 	"**THE MAP IS BEATEN. ZOMBIE ROUNDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图通关-僵尸感染 **"
 	}
 	"**THE TELEPORTER TO RABANASTRA IS OPENED**"
 	{
-		"chi"		"** **"
+		"chi"		"**通往RABANASTRA的传送已开启 **"
 	}
 	"**TRY TO SURVIVE WITHOUT ANY ITEMS**"
 	{
-		"chi"		"** **"
+		"chi"		"**试着在没有神器的情况下生存下去"
 	}
 	"**RELAX AND JUST ENJOY THE MUSIC)**"
 	{
-		"chi"		"** **"
+		"chi"		"**放松，享受音乐吧 **"
 	}
 	"**4 MINUTES LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩240秒**"
 	}
 	"**3 MINUTES LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩180秒**"
 	}
 	"**2 MINUTES LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩120秒 **"
 	}
 	"**1 MINUTE LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩60秒 **"
 	}
 	"**30 SECONDS LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"**15 SECONDS LEFT!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩15秒 **"
 	}
 	"**5 SECONDS LEFT!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"**THANK YOU FOR PLAYING THE MAP**"
 	{
-		"chi"		"** **"
+		"chi"		"**谢谢你游玩本地图 **"
 	}
 	"**MAP RESET**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图重置 **"
 	}
 	"**OH NO... THIS IS CHOCOBO**"
 	{
-		"chi"		"** **"
+		"chi"		"**哦不...是陆行鸟 **"
 	}
 }
