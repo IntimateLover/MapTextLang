@@ -194,6 +194,8 @@
 	"***5 seconds***"
 	{
 		"chi"		"** **"
+		"command"		"ent_fire lv2_last_laser_case pickrandom"
+		"command"		"ent_fire gravity enabl*"
 	}
 	"***Gravity ON***"
 	{
@@ -218,8 +220,7 @@
 	"*** Level:Extreme ***"
 	{
 		"chi"		"**本关难度：困难 **"
-		"command"		"sm_aei_hammerid 100004 use"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100005 use"
 	}
 	"*** 35 seconds to activate Nymian device ***"
 	{
@@ -383,8 +384,7 @@
 	"*** Level:Savage ***"
 	{
 		"chi"		"**当前关卡：史诗 **"
-		"command"		"sm_aei_hammerid 100004 use"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100005 use"
 	}
 	"***Holm gang zombie incoming...***"
 	{
