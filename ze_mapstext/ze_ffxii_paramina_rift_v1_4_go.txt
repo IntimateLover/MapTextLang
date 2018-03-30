@@ -1347,10 +1347,6 @@
 		{
 			"cvar"		"sm_he_limit 7"
 		}
-		"4"
-		{
-			"cvar"		"sm_flash_limit   1"
-		}
 		"6"
 		{
 			"cvar"		"hook_boss_money_min 10"
