@@ -1351,13 +1351,9 @@
 		{
 			"cvar"		"sm_flash_limit   1"
 		}
-		"5"
-		{
-			"cvar"		"sm_flash_push  1"
-		}
 		"6"
 		{
-			"cvar"		"hook_boss_money_min 35"
+			"cvar"		"hook_boss_money_min 10"
 		}
 	}
 }
