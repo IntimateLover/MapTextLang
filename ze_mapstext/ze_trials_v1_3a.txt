@@ -7,4 +7,144 @@
 			"cvar"		"sm_cvar sm_nofalldamage 1"
 		}
 	}
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 40 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door_opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Wall used! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Fence opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Secret level 1 button pressed! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door opens in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Doors open in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Bridge breaks in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ramming Bolts >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Spinning Pushing Bolts >>>"
+	{
+		"chi"		">>>旋转激光<<<"
+	}
+	"<<< Ominous Wind >>>"
+	{
+		"chi"		">>>不祥之风<<<"
+	}
+	"<<< Ultra Beam >>>"
+	{
+		"chi"		">>>超能射线<<<"
+	}
+	"<<< Zombies teleport in 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< You got the sky scroll! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Defend for 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Defend for 10 more seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 1 Complete! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 25 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 2 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door closing in 25 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Wand used! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Castle gate opens in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Boxes break in 35 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Box break in 35 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleported to top! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Light activates in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 2 Complete! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 3 >>>"
+	{
+		"chi"		"** **"
+	}
 }

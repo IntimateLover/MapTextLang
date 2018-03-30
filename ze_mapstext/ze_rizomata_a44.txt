@@ -129,5 +129,21 @@
 		{
 			"cvar"		"zr_poison_enabled  0"
 		}
+		"1"
+		{
+			"cvar"		"sm_g_cv_money 15000"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"3"
+		{
+			"cvar"		"sm_he_limit 8"
+		}
+		"4"
+		{
+			"cvar"		"sm_molotov_limit 3"
+		}
 	}
 }

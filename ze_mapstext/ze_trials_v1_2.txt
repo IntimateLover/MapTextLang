@@ -1,0 +1,206 @@
+"Console_T"
+{
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+	}
+	"sync_version"
+	{
+		"syncvalue"		"78793"
+	}
+	"<<< Zombies teleport in 40 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Wall has been picked up! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Wall used! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door_opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Fence opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door opens in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Doors open in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Bridge breaks in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ultra Beam >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ominous Wind >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 25 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ramming Bolts >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Spinning Pushing Bolts >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< You got the sky scroll! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Defend for 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Defend for 10 more seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 1 Complete! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 2 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Wand has been picked up! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Wand used! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door closing in 25 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Castle gate opens in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Boxes break in 35 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Box break in 35 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleported to top! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Light activates in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 2 Complete! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 3 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heal has been picked up! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Elevator leaves in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heal used! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door opens in 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Elevator leaves in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Pillar >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Blades >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Electric Cut >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Falling Sky >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Light Beam >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Almighty Pull >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 3 Complete! >>>"
+	{
+		"chi"		"** **"
+	}
+}

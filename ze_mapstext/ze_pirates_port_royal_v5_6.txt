@@ -15,7 +15,7 @@
 	">>> GATE OPEN IN 20 SEC <<<"
 	{
 		"chi"		"** 20秒后开门 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">>> GATE OPENING <<<"
 	{
@@ -24,7 +24,7 @@
 	">>> GATE CLOSES IN 5 SEC <<<"
 	{
 		"chi"		"** 5秒后关门，进门守住 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>> GATE CLOSING <<<"
 	{
@@ -33,7 +33,7 @@
 	">>> DEFEND VILLAGE FOR 40 SEC! <<<"
 	{
 		"chi"		"** 守住村庄40秒 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"--*** BUBBLES picked up ***--"
 	{
@@ -46,7 +46,7 @@
 	">>> REMAINING 10 SEC <<<"
 	{
 		"chi"		"** 剩余10秒 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	">>> RUN! <<<"
 	{
@@ -59,7 +59,7 @@
 	">>> DOORS CLOSE IN 25 SEC <<<"
 	{
 		"chi"		"** 门将于25秒关闭 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"--*** SWORD picked up ***--"
 	{
@@ -68,12 +68,12 @@
 	">>> DOORS CLOSE IN 5 SEC <<<"
 	{
 		"chi"		"** 5秒后关闭门 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>> HORSES LEAVING IN 10 SEC <<<"
 	{
 		"chi"		"** 马匹停留10秒后出发 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***ACTIVATE 4 CANNONS***"
 	{
@@ -82,7 +82,7 @@
 	">>> GATE IS CLOSING IN 18 SEC <<<"
 	{
 		"chi"		"** 门将于18秒后关闭 **"
-		"DoorCountDown"		"18"
+		"DoorCountdown"		"18"
 	}
 	">>> ALL CANNONS ACTIVATED <<<"
 	{
@@ -111,12 +111,12 @@
 	">>> YOU HAVE TO DEFEND A BLACK PEARL 45 SEC! <<<"
 	{
 		"chi"		"** 你必须防卫黑珍珠号45秒！**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	">>> LAST 10 SEC REMAINING <<<"
 	{
 		"chi"		"** 剩余最后10秒 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
 	{
@@ -129,22 +129,22 @@
 	">>> DOORS CLOSE IN 20 SEC <<<"
 	{
 		"chi"		"** 大门20秒后开启 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">>> DOORS CLOSE IN 10 SEC <<<"
 	{
 		"chi"		"** 大门10秒后开启 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	">>> GATE IS CLOSING IN 25 SEC <<<"
 	{
 		"chi"		"** 门将于25秒后关闭 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">>> GATE IS CLOSING IN 5 SEC <<<"
 	{
 		"chi"		"** 门将于5秒后关闭 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"(CT) >>>--SHOOT CANNON--<<<"
 	{
@@ -165,7 +165,7 @@
 	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
 	{
 		"chi"		"** 庇护所的入口将于30秒开放 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">>> SHELTER OPENING <<<"
 	{
@@ -174,7 +174,7 @@
 	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
 	{
 		"chi"		"** 岛屿将于25秒后摧毁 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">>> REMAINING 5 SEC <<<"
 	{
@@ -199,7 +199,7 @@
 	">>> DOOR OPEN IN 10 SEC <<<"
 	{
 		"chi"		"** 门将于10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	">>> DOOR OPEN IN 5 SEC <<<"
 	{
@@ -208,7 +208,7 @@
 	">>> HOLD FOR 15 SEC <<<"
 	{
 		"chi"		"** 守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	">>> HOLD E ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
@@ -225,7 +225,7 @@
 	">>> DOORS OPEN IN 25 sec <<<"
 	{
 		"chi"		"** 门将于25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">>> DOORS OPEN IN 5 sec <<<"
 	{
@@ -234,7 +234,7 @@
 	">>> DOORS CLOSE IN 15 sec <<<"
 	{
 		"chi"		"** 门将于15秒后关闭 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	">>> DOOR OPEN! RUN!!! <<<"
 	{
@@ -255,7 +255,7 @@
 	">>> HOLD ZOMBIES FOR 20 sec <<<"
 	{
 		"chi"		"** 守住僵尸20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
 	{
@@ -278,7 +278,7 @@
 	">>> HOLD THE CELLAR FOR 25 SEC <<<"
 	{
 		"chi"		"** 守住酒窖25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">>> CELLAR OPENING IN 5 SEC <<<"
 	{
@@ -299,7 +299,7 @@
 	">>> DOORS OPEN IN 30 SEC <<<"
 	{
 		"chi"		"** 大门30秒后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">>> GET DOWN FROM WOOD PLATFORM TO FIGHT BARBOSSA <<<"
 	{
@@ -308,7 +308,7 @@
 	">>> BARBOSSA IS COMING IN 5 SEC <<<"
 	{
 		"chi"		"** 巴博萨5秒内进入 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>> IT'S BARBOSSA. KILL HIM! <<<"
 	{
@@ -322,7 +322,7 @@
 	">>> DOORS OPEN IN 20 SEC <<<"
 	{
 		"chi"		"** 门将于20后开启 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
 	{
@@ -335,7 +335,7 @@
 	">>> HOLD FOR 35 SEC <<<"
 	{
 		"chi"		"** 守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	">>> IT'S KRAKEN. KILL HIM! <<<"
 	{
@@ -388,12 +388,12 @@
 	">>> GATE OPENS IN 20 SEC <<<"
 	{
 		"chi"		"** 门在20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
 	{
 		"chi"		"** 防守村庄40秒 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	">>> GATE IS OPENING <<<"
 	{
@@ -434,7 +434,7 @@
 	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
 	{
 		"chi"		"**保护黑珍珠45秒！ **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	">>> LAST 10 SECONDS REMAINING <<<"
 	{
@@ -471,7 +471,7 @@
 	">>> DOOR OPENS IN 25 sec <<<"
 	{
 		"chi"		"** 门25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">>> DOOR CLOSES IN 15 sec <<<"
 	{
@@ -567,22 +567,22 @@
 	">>> HOLD THE CELLAR FOR 30 SEC <<<"
 	{
 		"chi"		">>>在内殿守住30秒<<<"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">>> HOLD FOR 25 SEC <<<"
 	{
 		"chi"		">>>守住25秒<<<"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">>> HOLD FOR 40 SEC <<<"
 	{
 		"chi"		">>>守住40秒<<<"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	">>> HOLD <<<"
 	{
 		"chi"		">>>守住<<<"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
@@ -648,7 +648,7 @@
 	">>> HOLD FOR 45 SEC <<<"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	">>> KRAKEN GOD! <<<"
 	{
@@ -669,5 +669,12 @@
 	">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
 	{
 		"chi"		"**海妖之神用波浪清理道路 **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_armor_limit 2"
+		}
 	}
 }

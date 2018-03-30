@@ -19,7 +19,7 @@
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
 		"chi"		"**防守25秒，直到守卫开放道路**"
-		"DoorCountDown"		"25"
+		"DoorCountDown"		"0"
 	}
 	"** A player has learned Wind magick. **"
 	{
@@ -28,6 +28,7 @@
 	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒**"
+		"DoorCountDown"		"0"
 	}
 	"** Defend here so the guards will open the gates to the city! **"
 	{
@@ -36,13 +37,13 @@
 	}
 	"** Cover here till the rock explodes **"
 	{
-		"chi"		"**守住这里直到前方石头爆炸**"
-		"DoorCountDown"		"25"
+		"chi"		"**守住25秒-直到石头爆炸**"
+		"DoorCountDown"		"0"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开!**"
-		"DoorCountDown"		"20"
+		"DoorCountDown"		"0"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
@@ -51,11 +52,12 @@
 	"** The first door will open in 10 seconds **"
 	{
 		"chi"		"**第一道门将在10秒后打开**"
-		"DoorCountDown"		"10"
+		"DoorCountDown"		"0"
 	}
 	"** The second door will open in 15 seconds **"
 	{
 		"chi"		"**第二道门将在15秒后打开**"
+		"DoorCountDown"		"0"
 	}
 	"** A player has learned Heal magick. **"
 	{
@@ -73,6 +75,7 @@
 	"** METEOR INBOUND **"
 	{
 		"chi"		"**陨石将至**"
+		"DoorCountDown"		"5"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
@@ -113,7 +116,7 @@
 	"** Cover 20 seconds till the rock explodes **"
 	{
 		"chi"		"**防守20秒直到石头爆炸**"
-		"DoorCountDown"		"20"
+		"DoorCountDown"		"0"
 	}
 	"** A player has learned Fire magick. **"
 	{
@@ -126,6 +129,7 @@
 	"** FIRE NOVA INBOUND **"
 	{
 		"chi"		"**大火来袭**"
+		"DoorCountDown"		"5"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
@@ -142,7 +146,7 @@
 	"** Cover 30 seconds till the rock explodes **"
 	{
 		"chi"		"**防守30秒直到石头爆炸**"
-		"DoorCountDown"		"30"
+		"DoorCountDown"		"0"
 	}
 	"** 70 SECS REMAINING **"
 	{
@@ -187,7 +191,7 @@
 	"** Teleporter will be ready in 20 seconds! **"
 	{
 		"chi"		"**20秒后开启传送**"
-		"DoorCountDown"		"20"
+		"DoorCountDown"		"0"
 	}
 	"** Teleporter will be ready in 5 seconds! **"
 	{
@@ -224,7 +228,7 @@
 	"** Defend here for 30 seconds **"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountDown"		"0"
 	}
 	"** The airship reactors are going to explode!! **"
 	{
@@ -319,6 +323,10 @@
 		"chi"		"** **"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"[WINNER] Selected [EXTREME MODE] for next round"
 	{
 		"chi"		"** **"
 	}

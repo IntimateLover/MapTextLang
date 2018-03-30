@@ -1,0 +1,90 @@
+"Console_T"
+{
+	"*** map by DJ_tusla ***"
+	{
+		"chi"		"** **"
+	}
+	"*** survive in 60 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** teleported zombie ***"
+	{
+		"chi"		"** **"
+	}
+	"*** defense zombie 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** defense middle bridge ***"
+	{
+		"chi"		"** **"
+	}
+	"*** teleported zombies ***"
+	{
+		"chi"		"** **"
+	}
+	"*** defense 40 seconds ****"
+	{
+		"chi"		"** **"
+	}
+	"*** holy shit!!!! monika is coming!!!!!!!!!!!!!!!!!!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** just monika... ***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"86225"
+	}
+	"*** human win ***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+	}
+	"*** zombie teleport in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** defense zombie 50 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** defense 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ear raping in 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ear raping in 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ear raping in 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ear raping in 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ear raping in 1 ***"
+	{
+		"chi"		"** **"
+	}
+}

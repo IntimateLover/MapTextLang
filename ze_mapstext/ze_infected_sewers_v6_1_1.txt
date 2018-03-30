@@ -40,7 +40,7 @@
 	{
 		"chi"		"**阿顿之火被拾起**"
 	}
-	"*** DOOR OPENING IN 30 SECONDS ***"
+	"*** Door opening in 30 seconds ***"
 	{
 		"chi"		"**大门将在30秒后开启**"
 		"DoorCountDown"		"30"
@@ -88,11 +88,11 @@
 	{
 		"chi"		"**继续前进！**"
 	}
-	"*** DOOR OPENING IN 5 SECONDS ***"
+	"*** Door opening in 5 seconds ***"
 	{
 		"chi"		"**门将在5秒后打开**"
 	}
-	"*** DOOR OPENING IN 20 SECONDS ***"
+	"*** Door opening in 20 seconds ***"
 	{
 		"chi"		"**门将在20秒后打开**"
 		"DoorCountDown"		"20"
@@ -309,6 +309,10 @@
 		"chi"		"** **"
 	}
 	"*** RESTARTING NORMAL DIFFICULTY ***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

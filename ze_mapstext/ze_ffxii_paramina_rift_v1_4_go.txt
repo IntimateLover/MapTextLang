@@ -19,6 +19,7 @@
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
 		"chi"		"**支线任务：找到财宝达到500GIL即可在第二章开启药水奖励！**"
+		"DoorCountDown"		"-1"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
@@ -27,6 +28,7 @@
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
 		"chi"		"**解锁药水一共需要获得500GIL**"
+		"DoorCountDown"		"-1"
 	}
 	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
 	{
@@ -35,7 +37,7 @@
 	"** GATE OPENS IN 15 SECONDS **"
 	{
 		"chi"		"**大门15秒后打开！**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** GATE OPENS IN 5 SECONDS **"
 	{
@@ -48,7 +50,7 @@
 	"** GATES OPEN IN 30 SECONDS **"
 	{
 		"chi"		"**大门30秒后打开！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** Player has learned CURE (heal lvl1) **"
 	{
@@ -61,7 +63,7 @@
 	"** HOLD 25 SECONDS **"
 	{
 		"chi"		"**守住25秒！**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** DESTROY ALL ENEMY TOWERS BY SHOOTING THE CRYSTALS ON TOP OF THEM => REWARD - POTIONS IN STAGE 2"
 	{
@@ -98,7 +100,7 @@
 	"** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **"
 	{
 		"chi"		"**守住20秒！大门将随机打开！**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** HOLD 5 MORE SECONDS **"
 	{
@@ -156,7 +158,7 @@
 	{
 		"chi"		"**还剩15秒！**"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"**还剩5秒！**"
 	}
@@ -175,7 +177,7 @@
 	"** HOLD THE ENTRANCE FOR 30 SECONDS **"
 	{
 		"chi"		"**守住通道30秒！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** THIS IS THE END OF THE FIRST STAGE **"
 	{
@@ -188,7 +190,7 @@
 	"** HOLD THE ENTRANCE FOR 20 SECONDS **"
 	{
 		"chi"		"**守住通道20秒！**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Player has learned AEROGA (wind lvl3) **"
 	{
@@ -281,7 +283,7 @@
 	"** .. HOLD 10 MORE SECONDS **"
 	{
 		"chi"		"**继续防守10秒！**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** A WAY HAS BEEN OPENED **"
 	{
@@ -310,7 +312,7 @@
 	"** COVER AND WAIT FOR SOMETHING TO HAPPEN **"
 	{
 		"chi"		"**在这儿坚守，似乎将有什么事情会发生....**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** THE SWORD WILL OPEN THE WAY SOON **"
 	{
@@ -327,7 +329,7 @@
 	"** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **"
 	{
 		"chi"		"**修練の広間将在30秒后开放！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** Player has learned POISONA (damage lvl4) **"
 	{
@@ -344,7 +346,7 @@
 	"** DOOR WILL OPEN IN 25 SECONDS **"
 	{
 		"chi"		"**大门将在25秒后打开！**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** 5 MORE SECONDS TILL DOOR OPENS **"
 	{
@@ -361,12 +363,12 @@
 	"** BUTTON PRESSED - HOLD 20 SECONDS **"
 	{
 		"chi"		"**按钮已经按下，防守20秒！**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** GATE WILL OPEN IN 25 SECONDS **"
 	{
 		"chi"		"**大门25秒后打开！**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** Nades do a lot of damage **"
 	{
@@ -435,7 +437,7 @@
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
 		"chi"		"**还有15秒极寒冲击就要到来！**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"60 '. STAGGER"
 	{
@@ -480,7 +482,7 @@
 	"** BULLETSNADES DOES 200 '. DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
 		"chi"		"**15秒内子弹手雷造成双倍伤害！**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Player has learned CURA (heal lvl4) **"
 	{
@@ -497,7 +499,7 @@
 	"** ELEVATOR WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**升降梯30秒后离开！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** The esper MATEUS has been summoned **"
 	{
@@ -514,7 +516,7 @@
 	"** DEFEND 25 SECONDS **"
 	{
 		"chi"		"**防守25秒！**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"13 '. STAGGER"
 	{
@@ -655,12 +657,12 @@
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
 		"chi"		"**障碍物2号20秒后移动**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
 	{
 		"chi"		"**防守30秒！大门马上打开！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** BOSS SPAWNED SOME MINIONS **"
 	{
@@ -681,7 +683,7 @@
 	"** DOOR WILL OPEN IN 30 SECONDS **"
 	{
 		"chi"		"**大门30秒后打开！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** TREASURE +120 GIL FOUND **"
 	{
@@ -1326,5 +1328,36 @@
 	"** [ STAGE 2] STILSHRINE OF MIRIAM **"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"1"
+		{
+			"cvar"		"sm_spawn_give_armor 1"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"3"
+		{
+			"cvar"		"sm_he_limit 7"
+		}
+		"4"
+		{
+			"cvar"		"sm_flash_limit   1"
+		}
+		"5"
+		{
+			"cvar"		"sm_flash_push  1"
+		}
+		"6"
+		{
+			"cvar"		"hook_boss_money_min 35"
+		}
 	}
 }

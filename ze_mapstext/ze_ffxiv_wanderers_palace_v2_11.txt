@@ -255,6 +255,7 @@
 	"***Recast 60s***"
 	{
 		"chi"		"**冷却60秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Black Mage Flare***"
 	{
@@ -263,6 +264,7 @@
 	"***Recast 45s***"
 	{
 		"chi"		"**冷却45秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Paladin Shild Oath"
 	{
@@ -271,6 +273,7 @@
 	"***Recast 70s***"
 	{
 		"chi"		"**冷却70秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***Wait for 30 seconds***"
 	{
@@ -284,6 +287,7 @@
 	"***Recast 90s***"
 	{
 		"chi"		"**冷却90秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -367,6 +371,7 @@
 	"***A player picked up White Mage Benediction***"
 	{
 		"chi"		"**一位玩家拾取了天之祝福（治疗），90秒冷却**"
+		"DoorCountDown"		"-1"
 	}
 	"***Bahamut Prime appeared***"
 	{
@@ -380,6 +385,7 @@
 	{
 		"chi"		"**死亡循环（此技能只在开场使用一次，250血满甲状态可以抵挡技能）**"
 		"ico"		"icon_fire"
+		"DoorCountDown"		"-1"
 	}
 	"*** 3 ***"
 	{
@@ -456,6 +462,7 @@
 	"***Recast 55s***"
 	{
 		"chi"		"**冷却时间55秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
@@ -464,6 +471,7 @@
 	"***Recast 80s***"
 	{
 		"chi"		"**冷却80秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***Level:Savage set***"
 	{

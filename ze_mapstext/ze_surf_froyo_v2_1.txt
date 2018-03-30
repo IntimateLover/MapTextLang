@@ -38,7 +38,7 @@
 	}
 	"***Well!If the count of travellers is less than half,all zombies will be teleported in 60s!***"
 	{
-		"chi"		"**好！如果玩家数量不到一半，僵尸就会晚传送60秒！ **"
+		"chi"		"**如果人类数量不到一半，僵尸就会在60秒后传送**"
 	}
 	"***Hold for 80s!***"
 	{
@@ -817,6 +817,6 @@
 	}
 	"***Map Made By Color!***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Color 地图翻译：IntimateLover**"
 	}
 }

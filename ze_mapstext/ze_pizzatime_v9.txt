@@ -459,7 +459,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -636,6 +636,10 @@
 		"chi"		"** **"
 	}
 	"***YOU ARE THE TRUE PIZZA MASTERS***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM FAILED - HOT PIZZA***"
 	{
 		"chi"		"** **"
 	}

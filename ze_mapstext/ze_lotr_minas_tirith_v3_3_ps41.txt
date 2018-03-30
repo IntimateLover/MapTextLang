@@ -441,4 +441,23 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_molotov_limit 0"
+		}
+		"1"
+		{
+			"cvar"		"sm_armor_limit 3"
+		}
+		"2"
+		{
+			"cvar"		"zr_ztele_max_zombie 10"
+		}
+		"3"
+		{
+			"cvar"		"zr_ztele_max_human 0"
+		}
+	}
 }

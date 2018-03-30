@@ -23,7 +23,7 @@
 	"**Elevator 2 Leaving in 60 seconds**"
 	{
 		"chi"		"**二号电梯60秒后离开**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"**Elevator 1 Leaving in 5 seconds**"
 	{
@@ -80,7 +80,7 @@
 	"**Helicopter will leave in 60 seconds**"
 	{
 		"chi"		"**滴滴滴！直升机60秒后起飞**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"**Helicopter will leave in 30 seconds**"
 	{
@@ -177,5 +177,9 @@
 	"*** Zombie Stopper has been picked up. ***"
 	{
 		"chi"		"**一只僵尸捡到了 障碍**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

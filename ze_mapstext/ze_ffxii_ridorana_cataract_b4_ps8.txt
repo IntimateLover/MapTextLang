@@ -313,6 +313,14 @@
 		{
 			"cvar"		"sm_g_cv_money 8000"
 		}
+		"6"
+		{
+			"cvar"		"zr_greneffect_napalm_he_duration 5"
+		}
+		"7"
+		{
+			"cvar"		"sm_tagging_time 2"
+		}
 	}
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
 	{
@@ -364,6 +372,10 @@
 		"DoorCountdown"		"30"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"**You have failed**"
 	{
 		"chi"		"** **"
 	}
