@@ -254,7 +254,7 @@
 	}
 	"**A player has picked up EARTH materia**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了土 **"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -285,14 +285,14 @@
 	}
 	"**Chest Quest completed!**"
 	{
-		"chi"		"** **"
+		"chi"		"**支线任务已完成 **"
 	}
 	"**The reward is waiting for you...**"
 	{
-		"chi"		"** **"
+		"chi"		"**奖励正在山洞内等着你... **"
 	}
 	"**A player has picked up Mystery Potion**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了凤之尾 **"
 	}
 }
