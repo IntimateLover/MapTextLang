@@ -538,6 +538,8 @@
 		"chi"		"** **"
 	}
 	"***KILL ALL ZOMBIE SURVIVOR***"
+	"command"  "zr_class_modify zombies health_regen_amount 10“
+
 	{
 		"chi"		"** **"
 	}
