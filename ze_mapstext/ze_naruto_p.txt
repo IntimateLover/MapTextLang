@@ -547,6 +547,6 @@
 	"***NEXT DIFFICULTY  EXTREM***"
 	{
 		"chi"		"** **"
-		"command"  "zr_class_modify zombies health_regen_amount 300“
+		"command"  "zr_class_modify zombies health_regen_amount 100“
 	}
 }
