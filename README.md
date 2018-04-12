@@ -30,7 +30,8 @@ Entwatch 可以通过OP 使用 sm_entwatch_reload 即可生效.
 sm_block_command 想要拦截参数关键词
 sm_block_command zr_infect_spawntime 就可以禁止掉地图修改尸变时间
 
-
+用法演示:
+https://github.com/MapTextLang/MapTextLang/blob/master/mapcfg/ze_grau_a03_4.cfg#L15-L17
 
 
 翻译文件禁止事项
