@@ -573,6 +573,18 @@
 		{
 			"cvar"		"hook_boss_money_min 9"
 		}
+		"10"
+		{
+			"cvar"		"zr_greneffect_napalm_he_duration 4"
+		}
+		"11"
+		{
+			"cvar"		"sm_stamina_burncost 0.7"
+		}
+		"12"
+		{
+			"cvar"		"sm_stamina_burncost 0.8"
+		}
 	}
 	"**Zombie Confuse has been picked up**"
 	{

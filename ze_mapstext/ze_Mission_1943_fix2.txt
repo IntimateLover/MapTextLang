@@ -1,0 +1,82 @@
+"Console_T"
+{
+	"**Map made by BinBow**"
+	{
+		"chi"		"** **"
+	}
+	"***1st zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
+	"***2nd zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
+	"***3rd zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
+	"***Run!***"
+	{
+		"chi"		"** **"
+	}
+	"***4th zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
+	"***Come inside***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 20 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Dont stop defense! Lets door hug for trigger.***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_lockroundtime 50"
+		}
+		"1"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"2"
+		{
+			"cvar"		"sm_smoke_limit 1"
+		}
+		"3"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+	}
+	"sync_version"
+	{
+		"syncvalue"		"48414"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"**Open**"
+	{
+		"chi"		"** **"
+	}
+	"*** Do not over defense ***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep defending at 40sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep defending***"
+	{
+		"chi"		"** **"
+	}
+}

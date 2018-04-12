@@ -75,6 +75,7 @@
 	"**The Cave of the GI gates will open in 15 seconds**"
 	{
 		"chi"		"**GI大门将在15秒后打开**"
+		"DoorCountdown"		"15"
 	}
 	"**Wait until something happens**"
 	{
@@ -111,6 +112,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP**"
+		"DoorCountdown"		"-1"
 	}
 	"**Gi Nattak is using fire**"
 	{
@@ -256,7 +258,6 @@
 	{
 		"chi"		"**一位玩家拿起了土 **"
 	}
-
 	"**Chest Quest completed!**"
 	{
 		"chi"		"**支线任务已完成 **"
@@ -268,5 +269,36 @@
 	"**A player has picked up Mystery Potion**"
 	{
 		"chi"		"**一位玩家拿起了凤之尾 **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"mp_timelimit 65"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar 13000"
+		}
+		"2"
+		{
+			"cvar"		"zr_infect_spawntime_min 25"
+		}
+		"3"
+		{
+			"cvar"		"zr_infect_spawntime_max 25"
+		}
+		"4"
+		{
+			"cvar"		"sm_zeusweapons_hegrenade 0"
+		}
+		"5"
+		{
+			"cvar"		"sm_zeusweapons_hegrenade 1"
+		}
+		"6"
+		{
+			"cvar"		"sm_taggrenade_limit 0"
+		}
 	}
 }

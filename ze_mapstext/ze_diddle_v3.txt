@@ -678,7 +678,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -1101,7 +1101,7 @@
 	{
 		"chi"		"**DIDDLE DICK被击败了**"
 	}
-	"***Defend for 10 seconds***"
+	"***DEFEND FOR 10 SECONDS***"
 	{
 		"chi"		"** **"
 	}
@@ -1379,7 +1379,7 @@
 	}
 	"<==Get in the helicopter and out in 80s ==>"
 	{
-		"chi"		"** **"
+		"chi"		">>><==进入直升机防守80秒==><<<"
 	}
 	"<==helicopter fly out in 30s ==>"
 	{
@@ -1395,7 +1395,7 @@
 	}
 	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
 	{
-		"chi"		"** **"
+		"chi"		"****如果你花太长时间（2：20内）你将会被传送出去****"
 	}
 	"hold 15sec"
 	{
@@ -1403,7 +1403,7 @@
 	}
 	"<<<ZOMBIE TP TO BOSS>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>><< 一只僵尸已传送至BOSS脚下>><<<"
 	}
 	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
 	{
@@ -1411,7 +1411,7 @@
 	}
 	"BUILD A LADDER ||-----||"
 	{
-		"chi"		"** **"
+		"chi"		"****造一条梯子****"
 	}
 	"MapGlobal_ConVars"
 	{
