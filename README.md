@@ -35,7 +35,7 @@ https://github.com/MapTextLang/MapTextLang/blob/master/mapcfg/ze_grau_a03_4.cfg#
 
 捕捉地图在做什么命令？
 使用
-sm_showmapcmd 开关捕捉
+sm_showmapcmd 开关捕捉 信息输出到控制台
 
 
 
