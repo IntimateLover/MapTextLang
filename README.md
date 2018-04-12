@@ -24,13 +24,12 @@ Entwatch 可以通过OP 使用 sm_entwatch_reload 即可生效.
 
 
 //地图修改服务器参数/或指令拦截
+
 地图参数拦截功能
+
 sm_block_command 想要拦截参数关键词
 sm_block_command zr_infect_spawntime 就可以禁止掉地图修改尸变时间
 
-//例如 某些地图禁止跳跃距离的话.解除方法
-sm_block_command zr_class_modify all jump_distance
-sm_block_command zr_antibhop_limit
 
 
 
