@@ -33,8 +33,14 @@ sm_block_command zr_infect_spawntime 就可以禁止掉地图修改尸变时间
 用法演示:
 https://github.com/MapTextLang/MapTextLang/blob/master/mapcfg/ze_grau_a03_4.cfg#L15-L17
 
-在mapcfg中添加 mapcommandblock_enable 0 则不会阻挡地图操作命令（默认 1） 此CVAR安全锁定 只能由配置文件修改
+
 默认拦截有关 "STEAM_" 所有关键词
+在mapcfg中添加 mapcommandblock_enable 0 则不会阻挡地图操作命令（默认 1） 此CVAR安全锁定 只能由配置文件修改
+
+但即使地图有白名单参数 也拒绝 kick ban操作 此屏蔽强制执行
+
+
+
 通过 sm_block_command "增加想要的参数命令关键词"
 
 捕捉地图在做什么命令？
