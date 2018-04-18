@@ -1,6 +1,6 @@
 "mapname"
 {
-	"ze_30_seconds__b21_p2"
+	"ze_30_seconds__b21_p2" //地图文件准确名称 不带BSP
 	{
 		"chi"		"生死30秒" //地图中文名
 		"credit"		"400" //地图指定预定积分
