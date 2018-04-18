@@ -28,7 +28,7 @@
 	}
 	"ze_FFVII_Mako_Reactor_V6_B08_Ps7"
 	{
-		"chi"		"ze_FFVII_Mako_Reactor_V6_B08_PS1"
+		"chi"		"ze_FFVII_Mako_Reactor_V6_B08_PS7"
 		"onlyadmin"		"1"
 		"onlynominate"		"1"
 	}
@@ -630,7 +630,7 @@
 	}
 	"ze_lila_panic_escape_v3"
 	{
-		"chi"		"里拉惊魂V2"
+		"chi"		"里拉逃亡v3"
 		"credit"		"600"
 	}
 	"ze_magala_castle_b3"
@@ -862,13 +862,15 @@
 	"ze_santassination_v3"
 	{
 		"chi"		"狮子王"
-		"credit"		"1500"
+		"lastplayed"		"1514037692"
+		"CanNominateInterval"		"345600"
+		"credit"		"1000"
 	}
 	"ze_tilex_escape_e5"
 	{
 		"chi"		"跳刀e5"
 	}
-	"ze_haunted_lab_escape_p2"
+	"ze_haunted_lab_escape_p3"
 	{
 		"chi"		"闹鬼实验室"
 		"credit"		"400"
@@ -911,9 +913,12 @@
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
 		"chi"		"最终幻想7：魔光炉"
-		"onlyadmin"		"1"
-		"onlynominate"		"1"
+		"credit"		"1000"
+		"lastplayed"		"1514037692"
+		"CanNominateInterval"		"345600"
+		"AllowNominateTime" "17|18|19|20|21|22|23"
 	}
+	
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
 		"chi"		"工业循环"
@@ -1032,7 +1037,7 @@
 		"chi"		"乐高大逃亡：噩梦陷阱"
 		"credit"		"800"
 	}
-	"ze_stalker_ultimate_v4_6"
+	"ze_stalker_ultimate_v1"
 	{
 		"chi"		"切尔诺贝利核电站"
 		"credit"		"800"
@@ -1211,7 +1216,7 @@
 		"chi"		"魔毯"
 		"onlynominate"		"1"
 	}
-	"ze_mountain_escape_snow_v5_4"
+	"ze_mountain_escape_snow_v5_8"
 	{
 		"chi"		"爬雪山"
 		"credit"		"1000"
@@ -1626,7 +1631,7 @@
 	{
 		"chi"		"跳刀列车v2_12"
 	}
-	"ze_deadcore_v1_2"
+	"ze_deadcore_v1_3"
 	{
 		"chi"		"死亡核心"
 	}
@@ -1834,7 +1839,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_skill_escape_v08"
+	"ze_skill_escape_v09"
 	{
 		"chi"		"各凭本事"
 	}
@@ -1854,7 +1859,7 @@
 	{
 		"chi"		"别打油桶！！！"
 	}
-	"ze_johnny_nukem_b8_1_csgo3"
+	"ze_johnny_nukem_b8_1_csgo4"
 	{
 		"chi"		"米奇♂妙妙屋"
 	}
@@ -1962,11 +1967,11 @@
 	{
 		"chi"		"多模式爬雪山"
 	}
-	"ze_luck_matters_v3f"
+	"ze_luck_matters_v3x"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_dark_souls_ptd_v0_4_csgo1"
+	"ze_dark_souls_ptd_v0_4_csgo2"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1990,11 +1995,11 @@
 	{
 		"chi"		"灰白"
 	}
-	"ze_evernight_a3_2"
+	"ze_evernight_a3_4"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_bloodstrike_escape_v1"
+	"ze_bloodstrike_escape_v2"
 	{
 		"chi"		"血战逃生"
 	}
@@ -2006,13 +2011,13 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_luck_matters_v3f"
+	"ze_luck_matters_v3x"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_Pipeline_escape_beta6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"蹲下大冒险"
 	}
 	"ze_trials_v1_1"
 	{
@@ -2042,11 +2047,11 @@
 	{
 		"chi"		"鱼图1"
 	}
-	"ze_ep2_plant_a3_1"
+	"ze_Ep2_Plant_b1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"基地平台逃亡之旅"
 	}
-	"ze_luck_matters_v3f"
+	"ze_luck_matters_v3x"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -2068,7 +2073,7 @@
 	}
 	"ze_trials_v1_4"
 	{
-		"chi"		"试炼"
+		"chi"		"天国审判"
 	}
 	"ze_alien_vs_predator_v6go"
 	{
@@ -2078,7 +2083,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_biohazard2_sewer_r3_004"
+	"ze_biohazard2_sewer_r4_004"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -2092,25 +2097,13 @@
 	}
 	"ze_eternal_void_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"永恒空间"
 	}
-	"ze_Mission_1943"
+	"ze_Mission_1943_fix2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"任务：1943"
 	}
-	"ze_biohazard2_sewer_r3_004"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_Pipeline_escape_beta6"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_stalker_ultimate_v4_6"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_biohazard2_sewer_r3_004"
+	"ze_biohazard2_sewer_r4_004"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -2118,7 +2111,99 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_serpentis_temple_v1_1_csgo1"
+	"ze_stalker_ultimate_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_biohazard2_sewer_r4_004"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Pipeline_escape_beta6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_serpentis_temple_csgo1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Hiems_facilities_v2_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_horizon_sky_escape_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_highest_to_lowest_v1_1"
+	{
+		"chi"		"高楼逃脱"
+	}
+	"ze_bloodstrike_escape_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_new_crazy_escape_b1"
+	{
+		"chi"		"新疯狂逃亡"
+	}
+	"ze_rush_B_v1_3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_best_korea_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Hiems_facilities_v3fix2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_onahole_b2_3"
+	{
+		"chi"		"在洞里"
+	}
+	"ze_ffxii_paramina_rift_csgo1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tyranny_v5beta_csgo5_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_FFVII_Cosmo_Canyon_v4fix_ps4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_FFVII_Cosmo_Canyon_v4fix_ps4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_JurassicPark_Escape_p2"
+	{
+		"chi"		"侏罗纪公园2"
+	}
+	"ze_serpentis_temple_csgo1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_chaos_b3"
+	{
+		"chi"		"混沌迷宫"
+	}
+	"ze_new_crazy_escape_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_serpentis_temple_csgo1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_new_crazy_escape_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_JurassicPark_p3"
 	{
 		"chi"		"此地图暂无译名"
 	}
