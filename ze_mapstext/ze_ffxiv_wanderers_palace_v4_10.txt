@@ -381,6 +381,8 @@
 	"*** Level:Savage ***"
 	{
 		"chi"		"**当前关卡：史诗 **"
+		"command"		"sm_aei_hammerid 100004 use"
+		"command"		"sm_aei_hammerid 100003 use"
 	}
 	"***Holm gang zombie incoming...***"
 	{
