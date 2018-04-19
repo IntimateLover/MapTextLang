@@ -2,6 +2,15 @@
 支持性【地图翻译/stripper/mapcfg 支持所有类型服务器】
 只要对应服务器具备相应地图就会同步.否则无动作
 
+mapcfg ->地图参数
+mappool->地图池控制系统
+entwatch->神器显示配置
+ze_mapstext->ZE地图翻译
+
+
+
+
+
 游戏中自动同步方法:
 
 1:更新/添加修改/你想要的 通过创建pull request请求.
