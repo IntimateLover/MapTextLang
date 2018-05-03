@@ -1,51 +1,12 @@
 "Console_T"
 {
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_armor_limit 4"
-		}
-		"1"
-		{
-			"cvar"		"sm_he_limit 6"
-		}
-		"2"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"3"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
-		"5"
-		{
-			"cvar"		"zr_class_modify zombies knockback 7"
-		}
-		"7"
-		{
-			"cvar"		"zr_infect_spawntime_min 16"
-		}
-		"8"
-		{
-			"cvar"		"zr_infect_spawntime_max 16"
-		}
-		"9"
-		{
-			"cvar"		"sm_g_cv_money 16000"
-		}
-	}
 	"<<< EASY >>>"
 	{
-		"chi"		">>>简单难度<<<"
+		"chi"		">>>简单<<<"
 	}
 	"** MIMIC Materia has been found. **"
 	{
-		"chi"		"**复制已被拿起**"
+		"chi"		"**模仿-模仿上一个使用的神器**"
 	}
 	"< CITY DOOR OPENS IN 30 SECONDS >"
 	{
@@ -57,27 +18,28 @@
 	}
 	"** ICE Materia has been found. **"
 	{
-		"chi"		"**冰已被拿起**"
+		"chi"		"**冰冻-范围内僵尸无法移动**"
 	}
 	"** WIND Materia has been found. **"
 	{
-		"chi"		"**风已被拿起**"
+		"chi"		"**飓风-形成暴风眼保护你们**"
 	}
 	"** EARTH Materia has been found. **"
 	{
-		"chi"		"**土已被拿起**"
+		"chi"		"**土墙-生成土墙阻挡僵尸**"
 	}
 	"** BARRIER Materia has been found. **"
 	{
-		"chi"		"**盾已被拿起**"
+		"chi"		"**护盾-生成护盾阻挡僵尸**"
 	}
 	"** BIO Materia has been found. **"
 	{
-		"chi"		"**毒已被拿起**"
+		"chi"		"**剧毒-碰到的僵尸造成减速和迷幻作用**"
 	}
 	"** ULTIMA Materia has been found. **"
 	{
-		"chi"		"**终极已被拿起**"
+		"chi"		"**终极-使用后20秒后清理所在范围内的僵尸**"
+		"DoorCountDown"		"-1"
 	}
 	"** Congratulations! You have beaten [EASY] **"
 	{
@@ -85,7 +47,7 @@
 	}
 	"<<< NORMAL >>>"
 	{
-		"chi"		">>>普通难度<<<"
+		"chi"		">>>普通<<<"
 	}
 	"< CARGO LIFT STARTS IN 5 SECONDS >"
 	{
@@ -97,7 +59,7 @@
 	}
 	"** HEAL Materia has been found. **"
 	{
-		"chi"		"**治疗已被拿起**"
+		"chi"		"**治疗-范围内的人类恢复血量**"
 	}
 	"** Congratulations! You have beaten [NORMAL] **"
 	{
@@ -105,7 +67,7 @@
 	}
 	"<<< HARD >>>"
 	{
-		"chi"		">>>困难难度<<<"
+		"chi"		">>>困难<<<"
 	}
 	"< I understand that youve been looking for me. >"
 	{
@@ -113,7 +75,7 @@
 	}
 	"< Only the chosen may survive! >"
 	{
-		"chi"		">>>只有被选中的人才能生存下来<<<"
+		"chi"		">>>只有被选中的才能存活<<<"
 	}
 	"< Say goodbye! >"
 	{
@@ -137,15 +99,15 @@
 	}
 	"<<< INSANE >>>"
 	{
-		"chi"		">>>疯狂难度<<<"
+		"chi"		">>>疯狂<<<"
 	}
 	"< Ill see you again. >"
 	{
-		"chi"		">>>我会再次见到你<<<"
+		"chi"		">>>我们还会再见面<<<"
 	}
 	"** GRAVITY Materia has been found. **"
 	{
-		"chi"		"**黑洞已被拿起**"
+		"chi"		"**黑洞-黑洞将会吸引僵尸**"
 	}
 	"< Too late for laments! >"
 	{
@@ -157,7 +119,7 @@
 	}
 	"** FIRE Materia has been found. **"
 	{
-		"chi"		"**火已被拿起**"
+		"chi"		"**火焰-将会生成火焰减缓僵尸速度**"
 	}
 	"** Congratulations! You have beaten [INSANE] **"
 	{
@@ -173,7 +135,7 @@
 	}
 	"** ELECTRO Materia has been found. **"
 	{
-		"chi"		"**电已被拿起**"
+		"chi"		"**雷电-生成雷电减慢僵尸速度**"
 	}
 	"** An administrator has set [EXTREME] for next round! **"
 	{
@@ -181,18 +143,22 @@
 	}
 	"<<< EXTREME >>>"
 	{
-		"chi"		">>>极限难度<<<"
+		"chi"		">>>极限<<<"
 	}
 	"< Impressive! >"
 	{
-		"chi"		">>>令人印象深刻!<<<"
+		"chi"		">>>做的不错-不过你以为这样就结束了？<<<"
 	}
 	"< Dodge this! >"
 	{
-		"chi"		">>>躲开这个!<<<"
+		"chi"		">>>你能躲过去吗<<<"
 	}
 	"** Congratulations! You have beaten [EXTREME] **"
 	{
 		"chi"		"**恭喜你-极限难度已破**"
+	}
+	"** AQUA Materia has been found. **"
+	{
+		"chi"		"**水-僵尸将无法通过**"
 	}
 }

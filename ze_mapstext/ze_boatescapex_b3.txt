@@ -1,0 +1,257 @@
+"Console_T"
+{
+	"*** Zombie Stopper has been picked up. ***"
+	{
+		"chi"		"**【僵尸】暂停者已被拾取**"
+	}
+	"*** FINAL SECOND BOAT IS LEAVING SOON! ***"
+	{
+		"chi"		"**逃生船只2已经启动**"
+		"DoorCountDown"		"-1"
+	}
+	"*** FINAL SECOND BOAT IS LEAVING! GET IN!!! ***"
+	{
+		"chi"		"**逃生船只2即将离开，赶紧上船**"
+		"DoorCountDown"		"-1"
+	}
+	"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
+	{
+		"DoorCountDown"		"-1"
+	}
+	"*** Final first boat is leaving! Get in!!!***"
+	{
+		"DoorCountDown"		"-1"
+	}
+	"** All aircraft are heavily damaged from the nuke! **"
+	{
+		"chi"		"**航天器正在受到核弹伤害**"
+	}
+	"*** A BOAT MUST ARRIVE AT THE ISLAND BEFORE THE NUKE CAN GO OFF! ***"
+	{
+		"chi"		"**一搜船必须在核爆之前到达**"
+	}
+	"*** Rescue air balloons inbound! ***"
+	{
+		"chi"		"**营救热气球入站**"
+	}
+	"** Interdimensional wooden vortex has been acquired. **"
+	{
+		"chi"		"**【人类】墙体制造器已经拾取**"
+	}
+	"*** ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: REVERSE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Second boat has reached the final dock. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** First boat has reached the final dock. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Make your way from the end to start! Run! Zombies are coming! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Remember to trigger a boat or face your doom! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Its still BOAT ESCAPE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE_BOATESCAPEX ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A mode is being randomly chosen... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: CHICKEN HELL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The chickens are electrifying! Run! Dont stand still! ***"
+	{
+		"chi"		"** **"
+	}
+	"**Saruman staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: VIP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A VIP will be chosen momentarily. If the VIP dies you will all face a white room. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Second boat is preparing to leave the dock. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE VIP HAS BEEN CHOSEN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Protect him as he makes his way to the end. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The VIP is on the move. Consider defending and helping him reach the end or face death! ***"
+	{
+		"chi"		"** **"
+	}
+	"*Spacesuit has been taken. It lowers gravity by a 60%.*"
+	{
+		"chi"		"** **"
+	}
+	"** Secret italian pomodoro seeds have been acquired. **"
+	{
+		"chi"		"** **"
+	}
+	"*** First boat is preparing to leave the dock. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie boss has been discovered. ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Flamethrower has been picked up. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie Rage has been picked up. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Drunk view for zombies in 3 secs... ***"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"*** AIRSHIPS UNLOCKED! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Long pathway to open in 30 secs! ***"
+	{
+		"chi"		"** **"
+	}
+	"** Explosive kamikaze bum-bum has been acquired! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie summoner has been picked. ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie jumper has been picked. ****"
+	{
+		"chi"		"** **"
+	}
+	"*** LONG PATH OPEN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: TORNADO ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You may want to actually avoid the tornados. ***"
+	{
+		"chi"		"** **"
+	}
+	"** Trainer has been picked. **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombie silhouetting kit has been acquired! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Rescue boats inbound! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND UNTIL THE BOATS ARRIVE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL FIRST BOAT IS LEAVING! GET IN!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Disk has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shield has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"** HE Maker has been picked. **"
+	{
+		"chi"		"** **"
+	}
+	"*** NUKE INBOUND! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 45 SECONDS TO GET TO THE SAFETY ZONE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Drunk view for humans in 3 secs... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: WALLS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The walls have eyes. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Jumping humans in 3 secs... ***"
+	{
+		"chi"		"** **"
+	}
+	"Sponge builder has been picked up."
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: EXPLOSIVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Raining cannonballs from the sky! Try to avoid them at all costs! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Freeze Ring has been picked up. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Upper tram leaving in 10 secs. ***"
+	{
+		"chi"		"** **"
+	}
+	"** AIRSHIPS ARE GOING DOWN! **"
+	{
+		"chi"		"** **"
+	}
+}

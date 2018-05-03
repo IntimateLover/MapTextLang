@@ -25,7 +25,7 @@
 	{
 		"chi"		"** 一位玩家拾起了飓风权杖 **"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还有5秒**"
 	}
@@ -153,7 +153,7 @@
 	{
 		"chi"		"**第五关**"
 	}
-	"** 10 SECONDS LEFT **"
+	"** 10 seconds left **"
 	{
 		"chi"		"**还有10秒**"
 		"DoorCountDown"		"10"

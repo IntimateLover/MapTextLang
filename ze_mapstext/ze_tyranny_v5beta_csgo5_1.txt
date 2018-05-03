@@ -184,4 +184,32 @@
 	{
 		"chi"		"** **"
 	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TROLL IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TROLL IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS DRAGON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
 }

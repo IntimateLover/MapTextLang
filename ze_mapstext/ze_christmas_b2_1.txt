@@ -36,7 +36,7 @@
 		"chi"		"**雪橇在5秒后离开 **"
 		"DoorCountDown"		"5"
 	}
-	"***Elevator leaving in 20 seconds***"
+	"***ELEVATOR LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**电梯20秒后离开 **"
 		"DoorCountDown"		"20"
@@ -109,7 +109,7 @@
 		"chi"		"**电梯5秒后离开 **"
 		"DoorCountDown"		"5"
 	}
-	"***HOLD FOR 20 SECONDS***"
+	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"**坚持20秒 **"
 		"DoorCountDown"		"20"
@@ -232,7 +232,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Defend for 10 seconds***"
+	"***DEFEND FOR 10 SECONDS***"
 	{
 		"chi"		"**防守10秒 **"
 		"DoorCountDown"		"10"

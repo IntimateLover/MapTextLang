@@ -26,7 +26,7 @@
 	}
 	"<<< Wall has been picked up! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>墙神器已被捡起<<<"
 	}
 	"<<< Door_opens in 30 seconds! >>>"
 	{
@@ -34,7 +34,7 @@
 	}
 	"<<< Walk backwards and press"
 	{
-		"chi"		"** **"
+		"chi"		">>>往后走<<<"
 	}
 	"<<< Zombie has speed! >>>"
 	{
@@ -62,7 +62,7 @@
 	}
 	"<<< Wall used! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>使用了墙<<<"
 	}
 	"<<< Bridge breaks in 10 seconds! >>>"
 	{

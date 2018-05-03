@@ -279,4 +279,11 @@
 	{
 		"chi"		"**蜂巢将在25秒后爆炸 **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"snd_disable_legacy_audio_cache 1"
+		}
+	}
 }

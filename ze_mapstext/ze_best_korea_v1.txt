@@ -244,7 +244,7 @@
 	{
 		"chi"		"**坚守5秒**"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退！撤退！撤退！**"
 	}
@@ -746,5 +746,49 @@
 		{
 			"cvar"		"sm_cvar sm_nofalldamage 1"
 		}
+	}
+	"***CASTLE PIECE ADDED (16)***"
+	{
+		"chi"		"** **"
+	}
+	"***CASTLE PIECE ADDED (26)***"
+	{
+		"chi"		"** **"
+	}
+	"***CASTLE PIECE ADDED (36)***"
+	{
+		"chi"		"** **"
+	}
+	"***CASTLE PIECE ADDED (46)***"
+	{
+		"chi"		"** **"
+	}
+	"***CASTLE PIECE ADDED (56)***"
+	{
+		"chi"		"** **"
+	}
+	"***CASTLE PIECE ADDED (66)***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CASTLE HAS BEEN COMPLETED!***"
+	{
+		"chi"		"** **"
+	}
+	"***JUMP THE SORROWS AWAY, MY CHILDREN***"
+	{
+		"chi"		"** **"
+	}
+	"***BONUS: each jump damages all gravestones***"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 3 WON***"
+	{
+		"chi"		"** **"
+	}
+	"***THATS ALL FOR NOW - MORE STAGES TO COME***"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,115 +1,223 @@
 "Console_T"
 {
-	"***Map made by W...***"
+	"***Dont Trust The White Lasers***"
 	{
-		"chi"		"** **"
+		"chi"		"*****不要相信白色的激光*****"
 	}
-	"***Platform Will Rise in 30s***"
+	"***PLATFORM WILL RISE IN 30s***"
 	{
-		"chi"		"** **"
+		"chi"		"**平台30秒后上升**"
 	}
 	"***Platform Will Rise in10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**平台10秒后上升**"
 	}
-	"***Platform Will Rise in 5s***"
+	"***PLATFORM WILL RISE IN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**平台5秒后上升**"
 	}
-	"***Platform is Rising***"
+	"***PLATFORM IS RISING***"
 	{
-		"chi"		"** **"
+		"chi"		"**平台现在上升**"
 	}
 	"***Push Item Picked Up***"
 	{
-		"chi"		"** **"
+		"chi"		"**PUSH被捡起来**"
 	}
 	"***Wall Item Picked Up***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙被捡起来**"
 	}
-	"***Door Opens In 5s***"
+	"***DOOR OPENS IN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后打开**"
 	}
-	"***Door Opens In 25s***"
+	"***DOOR OPENS IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后打开**"
 	}
-	"***Door Is Open***"
+	"***DOOR IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门现在打开**"
 	}
-	"***Teleport Activates in 30s***"
+	"***TELEPORT ACTIVATES IN 30s***"
 	{
-		"chi"		"** **"
-	}
-	"***Freeze Item Picked Up***"
-	{
-		"chi"		"** **"
+		"chi"		"**30秒后激活传送**"
 	}
 	"***Teleport Activates in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送10秒后激活**"
 	}
-	"***Teleport Activates in 5s***"
+	"***Freeze Item Picked Up***"
 	{
-		"chi"		"** **"
+		"chi"		"**冰被捡起来**"
+	}
+	"***TELEPORT ACTIVATES IN 5s***"
+	{
+		"chi"		"**传送5秒后激活**"
 	}
 	"***Defend Both Sides***"
 	{
-		"chi"		"** **"
+		"chi"		"**两边都需要守住**"
 	}
 	"***Paths open in 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**路在25秒后打开**"
 	}
 	"***Paths Open in 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**路在5秒后打开**"
 	}
 	"***Paths are Open***"
 	{
-		"chi"		"** **"
+		"chi"		"**路已经打开**"
 	}
-	"***Teleport Activates in 25s***"
+	"***Lasers Incoming***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光刀来袭**"
 	}
-	"***Teleport Activated***"
+	"***TELEPORT ACTIVATES IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送25秒后激活**"
 	}
-	"***Dodge The Lasers***"
+	"***TELEPORT ACTIVATED***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送已激活**"
+	}
+	"***DODGE THE LASERS***"
+	{
+		"chi"		"**躲避激光刀**"
 	}
 	"***Hold For 20s***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒**"
 	}
-	"***5s Left***"
+	"***5s LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守多5秒**"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！**"
 	}
-	"***Survive***"
+	"***SURVIVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**各凭本事活下来**"
 	}
-	"***3***"
+	"***CONGRATS!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜方块精英**"
 	}
-	"***2***"
+	"***Trigger Left & Right Platforms***"
 	{
-		"chi"		"** **"
+		"chi"		"**触发左右两边的平台**"
 	}
-	"***1***"
+	"***Then Trigger Middle Platform***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在去触发中间的平台**"
+	}
+	"***Survive 25s more***"
+	{
+		"chi"		"**生存多25秒**"
+	}
+	"***Teleport Active In 25s***"
+	{
+		"chi"		"**传送25秒后激活**"
+	}
+	"***Teleport Active***"
+	{
+		"chi"		"**传送现在激活**"
+	}
+	"***Doors Open In 35s***"
+	{
+		"chi"		"**大门35秒后打开**"
+	}
+	"***AFK Teleport in 25s***"
+	{
+		"chi"		"**AFK玩家25秒后传送**"
+	}
+	"***AFK TELEPORT IN 5s***"
+	{
+		"chi"		"**AFK玩家5秒后传送**"
+	}
+	"***Doors Open In 5s***"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	"***Go Left and Right***"
+	{
+		"chi"		"**左右两边都需要去人**"
+	}
+	"***Defend Sides Until TP***"
+	{
+		"chi"		"**在传送之前死守住**"
+	}
+	"***25s Left Before Teleport***"
+	{
+		"chi"		"**25秒后传送**"
+	}
+	"***5s Left Before Teleport***"
+	{
+		"chi"		"**5秒后传送**"
+	}
+	"***Few Go Down Middle For Trigger***"
+	{
+		"chi"		"**来些人去下面触发**"
+	}
+	"***HOLD FOR 30s***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"***Teleport in 15s***"
+	{
+		"chi"		"**15秒后传送**"
+	}
+	"***Tower 1 Triggered***"
+	{
+		"chi"		"**1号塔已经触发**"
+	}
+	"***Tower 2 Triggered***"
+	{
+		"chi"		"**2号塔已经触发**"
+	}
+	"***Teleport in 25s***"
+	{
+		"chi"		"**25秒后传送**"
+	}
+	"***Teleport in 5s***"
+	{
+		"chi"		"**5秒后传送**"
+	}
+	"***Survive!!!***"
+	{
+		"chi"		"**各凭本事存活下来**"
+	}
+	"***Run To The Diamond In The Middle***"
+	{
+		"chi"		"**跑到平台中间**"
+	}
+	"***Path opens in 15s***"
+	{
+		"chi"		"**路在15秒打开**"
+	}
+	"***HOLD FOR 25s***"
+	{
+		"chi"		"**坚守25秒**"
+	}
+	"***Hold for 5s***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"***Defend10s***"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"***Path opens in 20s***"
+	{
+		"chi"		"**路在20秒后打开**"
+	}
+	"***Map made by W...***"
+	{
+		"chi"		"**Map made by W**"
 	}
 }

@@ -659,4 +659,11 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_zeusweapons_decoy 0"
+		}
+	}
 }

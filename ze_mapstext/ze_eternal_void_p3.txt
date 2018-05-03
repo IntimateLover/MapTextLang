@@ -64,4 +64,11 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
+	}
 }

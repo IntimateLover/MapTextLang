@@ -206,4 +206,19 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_he_limit 4"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_g_cv_money 8888"
+		}
+		"2"
+		{
+			"cvar"		"sm_cvar sm_molotov_limit 2"
+		}
+	}
 }

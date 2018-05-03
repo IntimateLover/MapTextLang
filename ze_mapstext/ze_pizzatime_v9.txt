@@ -390,6 +390,10 @@
 		{
 			"cvar"		"sm_cvar sm_nofalldamage 1"
 		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_zr_repeat_kill 0"
+		}
 	}
 	"***A PIZZA POLE HAS BEEN PISSED ON***"
 	{

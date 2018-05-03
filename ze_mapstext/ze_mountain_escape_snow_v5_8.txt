@@ -103,7 +103,7 @@
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
 		"chi"		"**15秒之后每个人都将死亡 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"75 . STAGGER"
 	{
@@ -226,7 +226,7 @@
 	"***30 seconds left***"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Jump portal opened***"
 	{
@@ -283,7 +283,7 @@
 	"***Teleport Enable in 50 seconds***"
 	{
 		"chi"		"**50秒后激活传送点 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"[Music] Xi - Anima"
 	{
@@ -348,7 +348,7 @@
 	"***Teleport back activates in 50 seconds***"
 	{
 		"chi"		"**50秒后激活传送 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***Go Back to teleport place***"
 	{
@@ -409,12 +409,12 @@
 	"***TELEPORT ACTIATING IN 30 SECONDS***"
 	{
 		"chi"		"**传送30秒后激活 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Way to Mysterious Room Open in 30 seconds***"
 	{
 		"chi"		"**神秘的房间将在30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***MATEUS HEALED 300 POINTS***"
 	{
@@ -463,7 +463,7 @@
 	"***Teleport back activate in 20 seconds***"
 	{
 		"chi"		"**传送点20秒后重新激活 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***ADMIN CHANGED MODE [NORMAL]***"
 	{
@@ -542,6 +542,30 @@
 		"chi"		"** **"
 	}
 	"[MUSIC] Cosmo@RunawayP - Oceanus"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Tobu - Higher"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Pendulum - Vulture"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] WAiKURO - Androgynos"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Polysha - Ultimate Weapon pt. 2"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] An - TearVid"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Jump***"
 	{
 		"chi"		"** **"
 	}

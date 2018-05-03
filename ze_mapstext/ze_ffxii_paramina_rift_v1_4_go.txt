@@ -93,7 +93,7 @@
 	{
 		"chi"		"**2/5水晶塔已被破坏**"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒！**"
 	}
@@ -158,7 +158,7 @@
 	{
 		"chi"		"**还剩15秒！**"
 	}
-	"** 5 more seconds **"
+	"** 5 MORE SECONDS **"
 	{
 		"chi"		"**还剩5秒！**"
 	}
@@ -1349,7 +1349,11 @@
 		}
 		"6"
 		{
-			"cvar"		"hook_boss_money_min 10"
+			"cvar"		"zr_greneffect_napalm_he_duration 2"
+		}
+		"5"
+		{
+			"cvar"		"zr_greneffect_napalm_he_duration 0.5"
 		}
 	}
 }
