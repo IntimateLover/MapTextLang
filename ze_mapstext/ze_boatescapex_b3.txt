@@ -16,10 +16,12 @@
 	}
 	"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
 	{
+		"chi"		"**逃生船只1已经启动**"
 		"DoorCountDown"		"-1"
 	}
 	"*** Final first boat is leaving! Get in!!!***"
 	{
+		"chi"		"**逃生船只1即将离开，赶紧上船**"
 		"DoorCountDown"		"-1"
 	}
 	"** All aircraft are heavily damaged from the nuke! **"
@@ -40,31 +42,31 @@
 	}
 	"*** ... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**选择中...**"
 	}
 	"*** MODE: REVERSE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模式：返回**"
 	}
 	"*** Second boat has reached the final dock. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二只船已经到达码头**"
 	}
 	"*** First boat has reached the final dock. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一只船已经到达码头**"
 	}
 	"*** Make your way from the end to start! Run! Zombies are coming! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】你将要从终点跑回起点！开始吧！小心僵尸！**"
 	}
 	"*** Remember to trigger a boat or face your doom! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】赶紧启动船只吧否则你将成为僵尸的4积分**"
 	}
 	"*** Its still BOAT ESCAPE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**随机关卡版船只大逃亡**"
 	}
 	"*** ZE_BOATESCAPEX ***"
 	{
@@ -72,186 +74,186 @@
 	}
 	"*** A mode is being randomly chosen... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一个模式正在随机选择**"
 	}
 	"*** MODE: CHICKEN HELL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模式：小鸡地狱**"
 	}
 	"*** The chickens are electrifying! Run! Dont stand still! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这些鸡带着电！快跑！别站着不动！**"
 	}
 	"**Saruman staff has been picked!**"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】萨鲁曼的权杖已经被拾取**"
 	}
 	"*** MODE: VIP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模式：欧皇**"
 	}
 	"*** A VIP will be chosen momentarily. If the VIP dies you will all face a white room. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】如果欧皇死亡的话，你将被传送到百色房间接受你的命运**"
 	}
 	"*** Second boat is preparing to leave the dock. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二只船即将离开**"
 	}
 	"*** THE VIP HAS BEEN CHOSEN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】欧皇出现**"
 	}
 	"*** Protect him as he makes his way to the end. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】赶紧保护欧皇去终点吧**"
 	}
 	"*** The VIP is on the move. Consider defending and helping him reach the end or face death! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】欧皇开始移动了，保护他或者成为僵尸4积分**"
 	}
 	"*Spacesuit has been taken. It lowers gravity by a 60%.*"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】宇航服已经拾取，效果：拾取者重力降低60%**"
 	}
 	"** Secret italian pomodoro seeds have been acquired. **"
 	{
-		"chi"		"** **"
+		"chi"		"**秘密的番茄种子已经获得**"
 	}
 	"*** First boat is preparing to leave the dock. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一只船即将离开**"
 	}
 	"*** Zombie boss has been discovered. ****"
 	{
-		"chi"		"** **"
+		"chi"		"**【僵尸】boss已经被发现**"
 	}
 	"*** Flamethrower has been picked up. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】火焰喷射器已经拾取**"
 	}
 	"*** Zombie Rage has been picked up. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【僵尸】怒气已经被拾取**"
 	}
 	"*** Drunk view for zombies in 3 secs... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【僵尸】醉倒3秒**"
 	}
 	"**Gandalf staff has been picked!**"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】甘道夫权杖已经被拾取**"
 	}
 	"*** AIRSHIPS UNLOCKED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船已经解锁**"
 	}
 	"*** Long pathway to open in 30 secs! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**长通道还有30秒开启**"
 	}
 	"** Explosive kamikaze bum-bum has been acquired! **"
 	{
-		"chi"		"** **"
+		"chi"		"**神风爆炸已经被取走**"
 	}
 	"*** Zombie summoner has been picked. ****"
 	{
-		"chi"		"** **"
+		"chi"		"**【僵尸】召唤者已经被拾取**"
 	}
 	"*** Zombie jumper has been picked. ****"
 	{
-		"chi"		"** **"
+		"chi"		"**【僵尸】跳跳乐已经被拾取**"
 	}
 	"*** LONG PATH OPEN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**长通道开启**"
 	}
 	"*** MODE: TORNADO ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模式：风暴之路**"
 	}
 	"*** You may want to actually avoid the tornados. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须躲开那些旋风**"
 	}
 	"** Trainer has been picked. **"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】驯兽师已经被拾取（也许有误）**"
 	}
 	"** Zombie silhouetting kit has been acquired! **"
 	{
-		"chi"		"** **"
+		"chi"		"**【僵尸】剪影已经被拾取**"
 	}
 	"*** Rescue boats inbound! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**救生艇进港**"
 	}
 	"*** DEFEND UNTIL THE BOATS ARRIVE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守到船只到达**"
 	}
 	"*** FINAL FIRST BOAT IS LEAVING! GET IN!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一只船正在离开！赶紧上船！！**"
 	}
 	"*** Disk has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】飞盘已经被拾取**"
 	}
 	"*** Shield has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】屏障已经被拾取**"
 	}
 	"** HE Maker has been picked. **"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】手雷制造者已经被拾取**"
 	}
 	"*** NUKE INBOUND! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹抵达**"
 	}
 	"*** 45 SECONDS TO GET TO THE SAFETY ZONE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒内赶紧进安全屋**"
 	}
 	"*** Drunk view for humans in 3 secs... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】醉倒3秒**"
 	}
 	"*** MODE: WALLS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模式：多墙**"
 	}
 	"*** The walls have eyes. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**路上有狠多的墙**"
 	}
 	"*** Jumping humans in 3 secs... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】自动跳跃3秒**"
 	}
 	"Sponge builder has been picked up."
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】海绵生成器已经被拾取**"
 	}
 	"*** MODE: EXPLOSIVE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**模式：天谴**"
 	}
 	"*** Raining cannonballs from the sky! Try to avoid them at all costs! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心天上的炮弹！尽量远离这些炮弹爆炸！！**"
 	}
 	"*** Freeze Ring has been picked up. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**【人类】冰冻环已经被拾取**"
 	}
 	"*** Upper tram leaving in 10 secs. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**上轨电车10秒后离开**"
 	}
 	"** AIRSHIPS ARE GOING DOWN! **"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船正在运行**"
 	}
 }
