@@ -1,0 +1,26 @@
+modify:
+{
+	match:
+	{
+		"targetname" "lvl5_nuke"
+		"classname" "trigger_hurt"
+	}
+	replace:
+	{
+		"damage" "999999"
+		"damagecap" "999999"
+	}
+}
+modify:
+{
+	match:
+	{
+		"targetname" "zm_nuke"
+		"classname" "trigger_hurt"
+	}
+	replace:
+	{
+		"damage" "999999"
+		"damagecap" "999999"
+	}
+}
