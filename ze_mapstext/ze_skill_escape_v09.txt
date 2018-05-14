@@ -42,7 +42,7 @@
 	"<< DEFEND FOR 15 SEC >>"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"<< 5 SECONDS  >>"
 	{
@@ -206,7 +206,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"20253"
+		"syncvalue"		"71240"
 	}
 	"<< Welcome to SKILL ESCAPE by acme>>"
 	{
@@ -225,22 +225,6 @@
 		"chi"		"** **"
 	}
 	"<< ZOMBIE TP >>"
-	{
-		"chi"		"** **"
-	}
-	"<< ROTORS STOPPING IN 15 SEC >>"
-	{
-		"chi"		"** **"
-	}
-	"<< DOOR BREAKING IN 15 SEC >>"
-	{
-		"chi"		"** **"
-	}
-	"<< DOOR BREAKING IN 5 SEC >>"
-	{
-		"chi"		"** **"
-	}
-	"<< OR YOU WILL GET DAMAGE >>"
 	{
 		"chi"		"** **"
 	}

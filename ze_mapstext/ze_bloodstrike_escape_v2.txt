@@ -208,4 +208,16 @@
 	{
 		"chi"		"** **"
 	}
+	"**zombies will teleport in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**kill them!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**you finished the map**"
+	{
+		"chi"		"** **"
+	}
 }

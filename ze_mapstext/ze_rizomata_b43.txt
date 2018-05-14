@@ -9,7 +9,7 @@
 		"chi"		"**守住20秒 **"
 		"DoorCountDown"		"20"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -161,6 +161,10 @@
 		"5"
 		{
 			"cvar"		"sm_cvar sm_g_cv_money 15000"
+		}
+		"6"
+		{
+			"cvar"		"sm_decoy_limit 1"
 		}
 	}
 }

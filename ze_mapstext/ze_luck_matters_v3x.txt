@@ -92,7 +92,7 @@
 	{
 		"chi"		"**坚守多5秒**"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退！**"
 	}
@@ -240,15 +240,11 @@
 		}
 		"1"
 		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-		"2"
-		{
 			"cvar"		"sm_cash #447 50000"
 		}
 	}
 	"sync_version"
 	{
-		"syncvalue"		"64026"
+		"syncvalue"		"78391"
 	}
 }

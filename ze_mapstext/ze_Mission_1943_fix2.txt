@@ -1,41 +1,5 @@
 "Console_T"
 {
-	"**Map made by BinBow**"
-	{
-		"chi"		"** **"
-	}
-	"***1st zombie teleport at 10second***"
-	{
-		"chi"		"** **"
-	}
-	"***2nd zombie teleport at 10second***"
-	{
-		"chi"		"** **"
-	}
-	"***3rd zombie teleport at 10second***"
-	{
-		"chi"		"** **"
-	}
-	"***Run!***"
-	{
-		"chi"		"** **"
-	}
-	"***4th zombie teleport at 10second***"
-	{
-		"chi"		"** **"
-	}
-	"***Come inside***"
-	{
-		"chi"		"** **"
-	}
-	"***Defend for 20 seconds.***"
-	{
-		"chi"		"** **"
-	}
-	"***Dont stop defense! Lets door hug for trigger.***"
-	{
-		"chi"		"** **"
-	}
 	"MapGlobal_ConVars"
 	{
 		"0"
@@ -57,9 +21,9 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"48414"
+		"syncvalue"		"68595"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"*** Door opens in 20 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -67,11 +31,47 @@
 	{
 		"chi"		"** **"
 	}
+	"***1st zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Binbow**"
+	{
+		"chi"		"** **"
+	}
+	"***2nd zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
+	"***3rd zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
 	"*** Do not over defense ***"
 	{
 		"chi"		"** **"
 	}
+	"***RUN!***"
+	{
+		"chi"		"** **"
+	}
+	"***4th zombie teleport at 10second***"
+	{
+		"chi"		"** **"
+	}
 	"***Keep defending at 40sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Come inside***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 20 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Dont stop defense! Lets door hug for trigger.***"
 	{
 		"chi"		"** **"
 	}
@@ -84,6 +84,26 @@
 		"chi"		"** **"
 	}
 	"***OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 30 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Get in the army tank!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Panzer vor!***"
+	{
+		"chi"		"** **"
+	}
+	"***Do not fall and go side land ***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie can teleport and attack human***"
 	{
 		"chi"		"** **"
 	}

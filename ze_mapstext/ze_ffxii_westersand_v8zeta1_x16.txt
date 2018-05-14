@@ -33,7 +33,7 @@
 		"chi"		"**守住30秒-直到守卫打开走廊通道**"
 		"DoorCountDown"		"30"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 seconds left **"
 	{
 		"chi"		"**还剩5秒**"
 	}

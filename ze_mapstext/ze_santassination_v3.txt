@@ -2,14 +2,16 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
+		"command"		"zr_class_modify humans health 300"
 		"chi"		"**距离岩石墙碎裂还有15秒**"
 		"DoorCountdown"		"15"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
+		"command"		"zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -31,7 +33,7 @@
 	}
 	"***SANTA CLAUS WILL PAY FOR HIS DEEDS***"
 	{
-		"chi"		"**不作死就不会死啊**"
+		"chi"		"**圣诞老人将会为他的行为付出代价（不做死就不会死呀：（**"
 	}
 	"***PROLOGUE COMPLETE***"
 	{
@@ -77,7 +79,7 @@
 	}
 	"***INCEST***"
 	{
-		"chi"		"** **"
+		"chi"		"**乱X （`w`）**"
 	}
 	"***WINCEST***"
 	{
@@ -177,7 +179,7 @@
 	}
 	"***ACT 1 COMPLETE***"
 	{
-		"chi"		"**场景1完成**"
+		"chi"		"**章节1完成**"
 	}
 	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
@@ -222,7 +224,7 @@
 	}
 	"U WOT M8"
 	{
-		"chi"		"** **"
+		"chi"		"**你怎么了！老伙计？**"
 	}
 	"***PLAYER PICKED UP ITEM - SPEEDER***"
 	{
@@ -380,7 +382,7 @@
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
-		"chi"		"** **"
+		"chi"		"**墨西哥人民更喜欢称它为——闪亮的墨西哥煎饼**"
 	}
 	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
 	{
@@ -458,7 +460,7 @@
 	}
 	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
 	{
-		"chi"		"**很高兴**"
+		"chi"		"**巴比伦宝宝对你的帮助很满意**"
 	}
 	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
 	{
@@ -718,7 +720,7 @@
 	}
 	"***YOU HAVE DEFEATED SANTA***"
 	{
-		"chi"		"**你打败了SANTA**"
+		"chi"		"**你打败了圣诞老人**"
 	}
 	"***FOR NOW... IT SEEMS***"
 	{
@@ -767,11 +769,11 @@
 	}
 	"*** - BIG SANTA - ***"
 	{
-		"chi"		"**大SANTA**"
+		"chi"		"**这是大圣诞老人！**"
 	}
 	"***YOU HAVE DEFEATED SANTA CLAUS***"
 	{
-		"chi"		"**你打败了大SANTA**"
+		"chi"		"**我们打败了圣诞老人克劳斯！**"
 	}
 	"***MUFASAS DEATH HAS BEEN AVENGED***"
 	{
@@ -1357,13 +1359,17 @@
 	}
 	"MapGlobal_ConVars"
 	{
+		"0"
+		{
+			"cvar"		"sm_decoy_limit 1"
+		}
 		"1"
 		{
 			"cvar"		"sm_flash_limit 1"
 		}
 		"2"
 		{
-			"cvar"		"sm_he_limit 10"
+			"cvar"		"sm_he_limit 6"
 		}
 		"3"
 		{
@@ -1375,7 +1381,19 @@
 		}
 		"5"
 		{
-			"cvar"		"sm_decoy_limit 1"
+			"cvar"		"sm_decoy_limit 2"
+		}
+		"6"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+		"7"
+		{
+			"cvar"		"sm_smoke_limit 2"
+		}
+		"8"
+		{
+			"cvar"		"sm_g_cv_money 16000"
 		}
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"

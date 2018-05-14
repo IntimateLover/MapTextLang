@@ -2,43 +2,46 @@
 {
 	"** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **"
 	{
-		"chi"		"** **"
+		"chi"		"**托特莫·罗卡（Totemo Roka）就座落于前方，并且，那里还有神圣之城图腾卡（Totghul Ka）**"
 	}
 	"** Swim to the shore! We must reach the top! **"
 	{
-		"chi"		"** **"
+		"chi"		"**游到海岸上！我们必须到达它的顶部**"
 	}
 	"** We have finally reached the Karuga archipelago... **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们终于到达了卡鲁加群岛（Karuga archipelago）。**"
 	}
 	"** Something moved upon touching the gem... **"
 	{
-		"chi"		"** **"
+		"chi"		"**你碰到了奇怪的东西，它开始移动了**"
+		"DoorCountdown"		"25"
 	}
 	"** A relay of sorts seems to be moving in the back -- wait for something to happen! **"
 	{
-		"chi"		"** **"
+		"chi"		"**各种各样的东西似乎在后面移动——请等待有什么事情即将发生！**"
 	}
 	"** The way is clear! We must reach the top of Totemo Roka! **"
 	{
-		"chi"		"** **"
+		"chi"		"**道路已经被清除了！我们必须到达罗卡（ Totemo Roka）的顶部！**"
 	}
 	"** We gotta hold our ground over here! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须坚守住我们阵地！**"
+		"DoorCountdown"		"20"
 	}
 	"** This platform seems like some sort of lift -- do not let anything through!**"
 	{
-		"chi"		"** **"
+		"chi"		"**这个平台看起来像是某种可以移动电梯——不要让任何东西通过!**"
 	}
 	"** Some sort of contraption is rising! Do not let them reach us! **"
 	{
-		"chi"		"** **"
+		"chi"		"**某种奇怪的装置正在上升，不要让他们靠近我们**"
 	}
 	"** The temple seems to rely on elevators upon elevators... **"
 	{
-		"chi"		"** **"
+		"chi"		"**这座古庙似乎依靠着电梯继续上升**"
+		"DoorCountdown"		"30"
 	}
 	"** Keep it up! We cannot afford to have them break through! **"
 	{
@@ -47,6 +50,7 @@
 	"** We reached the first sacred seal! The path should clear soon! **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"27"
 	}
 	"** The temple may become far more ruthless from this point on... **"
 	{
@@ -54,7 +58,8 @@
 	}
 	"** HURRY BACK! The volcano is about to explode! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑~!火山要爆发惹！！！**"
+		"DoorCountdown"		"32"
 	}
 	"** We must get to the top! **"
 	{
@@ -67,14 +72,17 @@
 	"** It shouldnt be hard to reach the summit! **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"0"
 	}
 	"** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"25"
 	}
 	"** One more push! HOLD IT! **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"18"
 	}
 	"** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **"
 	{
@@ -95,6 +103,7 @@
 	"** This is the third seal! The gates will open soon! **"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"50"
 	}
 	"** First the entrance will fold, then the inner plaza will show itself to us! **"
 	{
@@ -135,5 +144,24 @@
 	"** We cracked the last seal! Our escape pod should be here soon! **"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"2"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"3"
+		{
+			"cvar"		"sm_smoke_limit 2"
+		}
 	}
 }

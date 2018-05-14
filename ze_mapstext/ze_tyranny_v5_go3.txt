@@ -551,7 +551,7 @@
 	">>> 2 MINUTES LEFT <<<"
 	{
 		"z"		"chi"
-		"chi"		"** **"
+		"chi"		">>>还有2分钟<<<"
 	}
 	">>> 1 MINUTES LEFT <<<"
 	{
@@ -615,19 +615,19 @@
 	}
 	"*** Defeat the boss within 20 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要在20秒之内解决这个BOSS**"
 	}
 	"*** Defeat the boss within 10 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒**"
 	}
 	"*** failed to defeat the boss ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了 gg my friend (XwX)**"
 	}
 	">>> ADMIN CHANGED TO STAGE 6 <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>管理员将关卡设置为了第六关<<<"
 	}
 	"MapGlobal_ConVars"
 	{

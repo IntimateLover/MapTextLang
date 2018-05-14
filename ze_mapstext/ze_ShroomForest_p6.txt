@@ -187,7 +187,7 @@
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
-		"chi"		"**一位玩家拿起了6个地雷 **"
+		"chi"		">>>一位玩家拿起了地雷<<<"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{

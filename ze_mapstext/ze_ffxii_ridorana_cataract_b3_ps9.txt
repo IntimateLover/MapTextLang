@@ -1,28 +1,28 @@
 "Console_T"
 {
-	"**THE GATES WILL OPEN IN 20 SECONDS**"
+	"**The gates will open in 20 seconds**"
 	{
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 		"chi"		"**石制大门20秒后打开**"
 	}
 	"**The gates will open in 30 seconds**"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 		"chi"		"**石制大门30秒后打开**"
 	}
-	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	"**The gates will open in 25 seconds**"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 		"chi"		"**石制大门25秒后打开**"
 	}
 	"**The random way will open in 25 seconds**"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 		"chi"		"**一条随机通道将在25秒后打开**"
 	}
 	"**The arena entrance will open in 25 seconds**"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 		"chi"		"**竞技场大门将在25秒后开启**"
 	}
 	"**The gates will open in 15 seconds**"
@@ -48,12 +48,12 @@
 	"**The final gates will open in 20 seconds**"
 	{
 		"chi"		"**最后大门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Defend this way for 25 seconds**"
 	{
 		"chi"		"**坚守25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Hydro is dead! Run to to the platform!**"
 	{
@@ -74,7 +74,7 @@
 	"**The door will open in 25 seconds**"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Hold here for 10 seconds**"
 	{
@@ -83,12 +83,12 @@
 	"**Wait before the airflow starts**"
 	{
 		"chi"		"**在气流出现前请等待**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**The arena gates will open in 20 seconds**"
 	{
 		"chi"		"**竞技场大门将在20秒后开启**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Oh no the sword dissapeared..We will back there next time..**"
 	{
@@ -101,7 +101,7 @@
 	"**The final gates will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
@@ -299,31 +299,15 @@
 	{
 		"chi"		"** **"
 	}
-	"**ERROR FREEZE LEVEL**(SET FREEZE LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR HEAL LEVEL**(SET HEAL LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR WIND LEVEL**(SET WIND LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR FIRE LEVEL**(SET FIRE LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	"**ERROR DARK LEVEL**(SET DARK LEVEL 1)**"
 	{
 		"chi"		"** **"
 	}
 	"**ERROR ELECTRO LEVEL**(SET ELECTRO LEVEL 1)**"
+	{
+		"chi"		"** **"
+	}
+	"**ERROR HEAL LEVEL**(SET HEAL LEVEL 1)**"
 	{
 		"chi"		"** **"
 	}

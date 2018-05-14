@@ -228,11 +228,11 @@
 	{
 		"chi"		"**炸弹已安放**"
 	}
-	"***DEFEND FOR 40 SECONDS***"
+	"***Defend for 40 seconds***"
 	{
 		"chi"		"**坚守40秒**"
 	}
-	"***DEFEND FOR 30 SECONDS***"
+	"***Defend for 30 seconds***"
 	{
 		"chi"		"**坚守30秒**"
 	}
@@ -788,6 +788,14 @@
 		"chi"		"** **"
 	}
 	"***THATS ALL FOR NOW - MORE STAGES TO COME***"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ROOM - STAGE 2***"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ROOM - KILL ALL***"
 	{
 		"chi"		"** **"
 	}

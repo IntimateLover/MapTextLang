@@ -156,14 +156,6 @@
 	{
 		"chi"		"** **"
 	}
-	"### NO BHOP OR JUMP YOU RETARDED !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### JUST WHOLE W OHH !! I MEAN HOLD W ###"
-	{
-		"chi"		"** **"
-	}
 	"### ZOMBIES ARE ALMOST AT THE CENTER ###"
 	{
 		"chi"		"** **"
@@ -222,6 +214,18 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"39557"
+		"syncvalue"		"85785"
+	}
+	"### NO BHOP OR JUMP YOU RETARDED !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### JUST WHOLE W OHH !! I MEAN HOLD W ###"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

@@ -54,7 +54,7 @@
 	}
 	"**TIP -- Can only be used two times and has a 60 second cooldown**"
 	{
-		"chi"		"**且仅能使用两次，60秒冷却**"
+		"chi"		"**弹药只能使用两次，冷却时间六十秒**"
 	}
 	"**A player has picked up the Dong Chainsaw**"
 	{
@@ -66,7 +66,7 @@
 	}
 	"**TIP -- Flamethrower can last up to 20 seconds**"
 	{
-		"chi"		"**喷火器有20秒的燃料,请合理使用**"
+		"chi"		"**喷火器有二十秒的燃料，请合理使用**"
 	}
 	"**A player has picked up a weird Bubble Gun**"
 	{
@@ -74,12 +74,11 @@
 	}
 	"**TIP -- The laser it fires slows down the zombies**"
 	{
-		"chi"		"**激光类效果，能够点燃并减速僵尸**"
+		"chi"		"**激光神器持续七秒,触碰减速僵尸一秒**"
 	}
 	"**TIP -- It has a 55 second cooldown**"
 	{
-		"chi"		"**该物品有55秒冷却时间**"
-		"DoorCountdown"		"-1"
+		"chi"		"**该物品有五十五秒冷却时间**"
 	}
 	"**A player has picked up the Pink Elephants. Aww <3**"
 	{
@@ -87,7 +86,7 @@
 	}
 	"**TIP -- These elephants work as explosive mines**"
 	{
-		"chi"		"**这些大象能够充当地雷使用**"
+		"chi"		"**大象地雷共五个,持续减速僵尸**"
 	}
 	"Rayvel *Welcome stranger. How can I help you?*"
 	{
@@ -139,8 +138,7 @@
 	}
 	"**TIP -- This item heals you and teammates around you for 5 seconds**"
 	{
-		"chi"		"**该物品能够提供五秒钟的范围类治疗(200血)**"
-		"DoorCountdown"		"-1"
+		"chi"		"**奶神器能在五秒内能回复两百血并且免疫感染**"
 	}
 	"**TIP -- Can only be used twice and has a 10 second cooldown**"
 	{
@@ -424,10 +422,14 @@
 		{
 			"cvar"		"sm_g_cv_money 6666"
 		}
+		"7"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
 	}
 	"sync_version"
 	{
-		"syncvalue"		"62994"
+		"syncvalue"		"40715"
 	}
 	"Johnny *You frogs are quite weak... huh? Whats this?*"
 	{
@@ -509,7 +511,7 @@
 	{
 		"chi"		"**[关卡3 - 瑞威尔的背叛]**"
 	}
-	"**Defend this place for 15 seconds**"
+	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
 		"chi"		"**守住这里15秒**"
 	}

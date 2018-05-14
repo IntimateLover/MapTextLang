@@ -248,7 +248,7 @@
 		"chi"		"**警告：还剩120秒**"
 		"DoorCountDown"		"-1"
 	}
-	"** 30 SECONDS LEFT **"
+	"** 30 seconds left **"
 	{
 		"chi"		"**警告：还剩30秒**"
 		"DoorCountDown"		"-1"
@@ -498,6 +498,10 @@
 		"8"
 		{
 			"cvar"		"sm_zeusweapons_decoy 0"
+		}
+		"9"
+		{
+			"cvar"		"sv_airaccelerate 12"
 		}
 	}
 	"**No Fake Laser & High Laser Cant Crouchjump Over it**"

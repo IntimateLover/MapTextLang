@@ -36,7 +36,7 @@
 	{
 		"chi"		"**我们即将到达宇宙峡谷**"
 	}
-	"**The gates will open in 20 seconds**"
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
 	}
@@ -281,6 +281,10 @@
 		"6"
 		{
 			"cvar"		"sm_zeusweapons_hegrenade 2"
+		}
+		"8"
+		{
+			"cvar"		"sm_zeusweapons_smoke 0"
 		}
 		"7"
 		{

@@ -337,7 +337,7 @@
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
 	{
 		"chi"		"**获得道具 - 全部人类回到250血**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[MUSIC] BLOODHOUND GANG - The Bad Touch"
 	{
@@ -515,6 +515,6 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"49229"
+		"syncvalue"		"32587"
 	}
 }
