@@ -2,95 +2,83 @@
 {
 	"<--Map Made By Color-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Map is in Early Access-->"
-	{
-		"chi"		"** **"
+		"chi"		"**地图作者&翻译:[酸奶]**"
 	}
 	"<--Warm Up Time-->"
 	{
-		"chi"		"** **"
+		"chi"		"**热身时间**"
 	}
 	"<--A human has picked Beam Ball-->"
 	{
-		"chi"		"** **"
+		"chi"		"**一名人类捡起了光束法球**"
 	}
 	"<--A zombie has picked Dark Ball-->"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸捡起了黑暗法球**"
 	}
 	"<--A human has picked Snowstorm Ball-->"
 	{
-		"chi"		"** **"
+		"chi"		"**一名人类捡起了暴风雪法球**"
 	}
 	"<--Hold for 60s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守60秒**"
 	}
 	"<--5s left-->"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余5秒**"
 	}
 	"<--Wait for 15s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**等待15秒**"
 	}
 	"<--Wait for 60s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**等待60秒**"
 	}
 	"<--Hold for 15s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒**"
 	}
 	"<--Wait for 45s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**等待45秒**"
 	}
 	"<--Wait for 30s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**等待30秒**"
 	}
 	"<--A zombie has picked Alacrity Ball-->"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸捡起了迅捷法球**"
 	}
 	"<--A zombie has picked Health Ball-->"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸捡起了治愈法球**"
 	}
 	"<--A human has picked Fire Ball-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Hold for 120s-->"
-	{
-		"chi"		"** **"
+		"chi"		"**一名人类捡起了火焰法球**"
 	}
 	"<--Hold for last 30s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守最后30秒**"
 	}
 	"<--4s left-->"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余4秒**"
 	}
 	"<--3s left-->"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余3秒**"
 	}
 	"<--2s left-->"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余2秒**"
 	}
 	"<--1s left-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Unlock Next Chapter-->"
-	{
-		"chi"		"** **"
+		"chi"		"**剩余1秒**"
 	}
 	"sync_version"
 	{
@@ -98,54 +86,38 @@
 	}
 	"<--Wood door will break in 40s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在40秒后碎裂**"
 	}
 	"<--Wood door will break in 5s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在5秒后碎裂**"
 	}
 	"<--Wood door will break in 60s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在60秒后碎裂**"
 	}
 	"<--Wood door will break in 30s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在30秒后碎裂**"
 	}
 	"<--Wood door will break in 45s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在45秒后碎裂**"
 	}
 	"<--Touch 2 beams-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Wait for 75s-->"
-	{
-		"chi"		"** **"
+		"chi"		"**触碰2个光束**"
 	}
 	"<--Hold for last 45s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守最后45秒**"
 	}
 	"<--Zombies are in the room-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Chapter Failed-->"
-	{
-		"chi"		"** **"
+		"chi"		"**僵尸在房间里**"
 	}
 	"<--A human has picked Dog Knight-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Thanks For Playing Early Version-->"
-	{
-		"chi"		"** **"
-	}
-	"<--More Chapters Would Be Added in Later Version-->"
-	{
-		"chi"		"** **"
+		"chi"		"**一名人类捡起了高达**"
 	}
 }
