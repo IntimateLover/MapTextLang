@@ -17,8 +17,14 @@ map pool 就是地图池控制系统
 
 其他参数 
 "minclient" "32" //限制这个地图服务器大于32人才可以预定 或 出现
+
+
 "onlynominate" "1" //限制这个地图只能预定 地图池禁止随机出现.
 "onlyadmin" "1" // 进行OP权限预定 适用于不稳定 容易崩溃 测试的地图.
+
+onlyadmin 请和 onlynominate 一起使用 [防止出现在地图池]
+
+ 
 
 
 请不要忘记更新 update_mappool.txt 列表
