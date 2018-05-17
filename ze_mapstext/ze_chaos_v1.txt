@@ -8,45 +8,33 @@
 	{
 		"chi"		"**热身时间**"
 	}
+	"<--A human has picked Dog Knight-->"
+	{
+		"chi"		"**一名人类捡起了高达**"
+	}
 	"<--A human has picked Beam Ball-->"
 	{
 		"chi"		"**一名人类捡起了光束法球**"
-	}
-	"<--A zombie has picked Dark Ball-->"
-	{
-		"chi"		"**一名僵尸捡起了黑暗法球**"
 	}
 	"<--A human has picked Snowstorm Ball-->"
 	{
 		"chi"		"**一名人类捡起了暴风雪法球**"
 	}
-	"<--Hold for 60s-->"
+	"<--A human has picked Fire Ball-->"
 	{
-		"chi"		"**坚守60秒**"
+		"chi"		"**一名人类捡起了火焰法球**"
 	}
-	"<--5s left-->"
+	"<--A human has picked Water Ball-->"
 	{
-		"chi"		"**剩余5秒**"
+		"chi"		"**一名人类捡起了冰水法球**"
 	}
-	"<--Wait for 15s-->"
+	"<--A human has picked Lightning Ball-->"
 	{
-		"chi"		"**等待15秒**"
+		"chi"		"**一名人类捡起了闪电法球**"
 	}
-	"<--Wait for 60s-->"
+	"<--A zombie has picked Dark Ball-->"
 	{
-		"chi"		"**等待60秒**"
-	}
-	"<--Hold for 15s-->"
-	{
-		"chi"		"**坚守15秒**"
-	}
-	"<--Wait for 45s-->"
-	{
-		"chi"		"**等待45秒**"
-	}
-	"<--Wait for 30s-->"
-	{
-		"chi"		"**等待30秒**"
+		"chi"		"**一名僵尸捡起了黑暗法球**"
 	}
 	"<--A zombie has picked Alacrity Ball-->"
 	{
@@ -56,13 +44,61 @@
 	{
 		"chi"		"**一名僵尸捡起了治愈法球**"
 	}
-	"<--A human has picked Fire Ball-->"
+	"<--A zombie has picked Poison Ball-->"
 	{
-		"chi"		"**一名人类捡起了火焰法球**"
+		"chi"		"**一名僵尸捡起了毒素法球**"
+	}
+	"<--Hold for 60s-->"
+	{
+		"chi"		"**坚守60秒**"
+	}
+	"<--Hold for 15s-->"
+	{
+		"chi"		"**坚守15秒**"
+	}
+	"<--Hold for 35s-->"
+	{
+		"chi"		"**坚守35秒**"
 	}
 	"<--Hold for last 30s-->"
 	{
 		"chi"		"**坚守最后30秒**"
+	}
+	"<--Hold for last 45s-->"
+	{
+		"chi"		"**坚守最后45秒**"
+	}
+	"<--Wait for 10s-->"
+	{
+		"chi"		"**等待10秒**"
+	}
+	"<--Wait for 15s-->"
+	{
+		"chi"		"**等待15秒**"
+	}
+	"<--Wait for 60s-->"
+	{
+		"chi"		"**等待60秒**"
+	}
+	"<--Wait for 45s-->"
+	{
+		"chi"		"**等待45秒**"
+	}
+	"<--Wait for 30s-->"
+	{
+		"chi"		"**等待30秒**"
+	}
+	"<--Wait for 35s-->"
+	{
+		"chi"		"**等待35秒**"
+	}
+	"<--Wait for 50s-->"
+	{
+		"chi"		"**等待50秒**"
+	}
+	"<--5s left-->"
+	{
+		"chi"		"**剩余5秒**"
 	}
 	"<--4s left-->"
 	{
@@ -108,16 +144,20 @@
 	{
 		"chi"		"**触碰2个光束**"
 	}
-	"<--Hold for last 45s-->"
-	{
-		"chi"		"**坚守最后45秒**"
-	}
 	"<--Zombies are in the room-->"
 	{
 		"chi"		"**僵尸在房间里**"
 	}
-	"<--A human has picked Dog Knight-->"
+	"<--Shoot zombies into the water-->"
 	{
-		"chi"		"**一名人类捡起了高达**"
+		"chi"		"**把僵尸射进水中**"
+	}
+	"<--Failed-->"
+	{
+		"chi"		"**失败**"
+	}
+	"<--Collect 3 glow balls-->"
+	{
+		"chi"		"**收集3个光球**"
 	}
 }
