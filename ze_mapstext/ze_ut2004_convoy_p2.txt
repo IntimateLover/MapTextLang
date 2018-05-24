@@ -246,7 +246,7 @@
 	{
 		"0"
 		{
-			"cvar"		"zr_class_modify zombies knockback 6"
+			"cvar"		"zr_class_modify zombies knockback 4.5"
 		}
 	}
 }
