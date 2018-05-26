@@ -2,38 +2,38 @@
 {
 	"**Map made by BinBow**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：BinBow**"
 	}
 	"***1st zombie teleport at 10second***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一部分的僵尸将在10秒内传送**"
 	}
 	"***2nd zombie teleport at 10second***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二部分的僵尸将在10秒内传送**"
 	}
 	"***3rd zombie teleport at 10second***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三部分的僵尸将在10秒内传送**"
 	}
 	"***Run!***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑！**"
 	}
 	"***4th zombie teleport at 10second***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四部分的僵尸将在10秒内传送**"
 	}
 	"***Come inside***"
 	{
-		"chi"		"** **"
+		"chi"		"**都进来**"
 	}
 	"***Defend for 20 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒**"
 	}
 	"***Dont stop defense! Lets door hug for trigger.***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要停下防守！快点按下门的开关**"
 	}
 }
