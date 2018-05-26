@@ -242,11 +242,4 @@
 	{
 		"chi"		"**回到新手难度 **"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"zr_class_modify zombies knockback 4.5"
-		}
-	}
 }
