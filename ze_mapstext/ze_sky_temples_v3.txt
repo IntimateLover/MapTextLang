@@ -2,96 +2,95 @@
 {
 	"<<< Map made by Jllaneras >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** Jllaneras制作**"
 	}
 	"<<< Run to first box and defend! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 跑到第一个箱子并防守**"
 	}
 	"<<< Fall back and keep defending! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 撤退。。。然后守住**"
 	}
 	"<<< Almost there keep defending! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 快到了，坚持住**"
 	}
 	"<<< Get behind last pillars for teleport! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**跑到最后一个柱子并等待传送 **"
 	}
 	"*** Rush to door! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 快去贴门！**"
 	}
 	"*** Defend until second door opens! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 防守到第二个门打开**"
 	}
 	"*** Defend until third door opens! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 防守到第三个门打开**"
 	}
 	"*** Defend inside until door closes! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 在里面守到门关**"
 	}
 	"<<< Get inside next temple and defend! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 跑到神庙里防守**"
 	}
 	"<<< Climb the ladder! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 爬梯子！**"
 	}
 	"<<< Fan has been turned off! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 风扇已经关闭**"
 	}
 	"<<< Defend for 30 more seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 防守30秒**"
 	}
 	"<<< Break the fence and get in the water! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 打碎栅栏然后跳到水里**"
 	}
 	"<<< Back up and defend! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 撤退后防守**"
 	}
 	"<<< Defend for 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 坚守30秒**"
 	}
 	"<<< Fall back! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 撤退！！！**"
 	}
 	"<<< Watch the water up ahead! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 注意水里面**"
 	}
 	"<<< Defend for 25 more seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 防守25秒**"
 	}
 	"<<< Defend for 15 more seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 防守15秒**"
 	}
 	"<<< Defend at top of stairs for 35 seconds! >>>"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"35"
+		"chi"		"** 守住楼梯35秒**"
 	}
 	"<<< Climb!!! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 快爬**"
 	}
 	"<<< Stay back against wall! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 贴着墙**"
 	}
 	"<<< Bulvian The Almighty >>>"
 	{
@@ -103,7 +102,7 @@
 	}
 	"<<< Fire Spin >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>旋火<<<"
 	}
 	"<<< Breakout >>>"
 	{
@@ -123,23 +122,23 @@
 	}
 	"<<< Level 1 >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"<<< Level 1 Complete! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成**"
 	}
 	"<<< Level 2 >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	"<<< Stay and defend bottom! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住下面**"
 	}
 	"<<< Gate broken get in for tp! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 门开了，快去吃传送**"
 	}
 	"<<< Incinerate >>>"
 	{
@@ -160,31 +159,31 @@
 	}
 	"<<< Level 2 complete! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关完成**"
 	}
 	"<<< Level 3 >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关**"
 	}
 	"<<< Button activated! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮已激活**"
 	}
 	"<<< Defend for 15 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒**"
 	}
 	"<<< Button pressed defend for 10 more seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 按钮按下坚守多10秒钟**"
 	}
 	"<<< Button pressed defend for 10 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 按钮按下坚守10秒钟**"
 	}
 	"<<< Level 3 Complete! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关完成**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{

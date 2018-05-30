@@ -9,56 +9,55 @@
 	}
 	"<< Welcome to SKILL ESCAPE by acmeme>>"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到各凭本事大逃亡 by acmeme**"
 	}
 	"<< STAGE 1: JUST A TRIM>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 第一关: 先Trim波人类**"
 	}
 	"<< DEFEND YOUR TEAMMATES >>"
 	{
-		"chi"		"** **"
+		"chi"		"**防住你的队友**"
 	}
 	"<< DEFEND, DONT EDGE >>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住, 不要贴边**"
 	}
 	"<< 5 SECONDS >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩下 5秒钟**"
 	}
 	"<< BOOST ENABLED >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 加速已开启**"
 	}
 	"<< DEFEND FOR 30 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒**"
 	}
 	"<< STAY ON THE TOP BOX AND DEFEND  >>"
 	{
-		"chi"		"** **"
+		"chi"		"**站在箱子上并守住**"
 	}
 	"<< DEFEND FOR 15 SEC >>"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"15"
+		"chi"		"** 坚守15秒**"
 	}
 	"<< 5 SECONDS  >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩下 5秒钟**"
 	}
 	"<< DOOR OPENING, JUMP >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 门开了，快跳**"
 	}
 	"<< ZOMBIE TP IN 5 SECONDS >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸5秒钟后传送**"
 	}
 	"<< CLOSING DOOR IN 25 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 25秒后门关**"
 	}
 	"<< MEME WILL HELP YOU, HEAL!!! >>"
 	{
@@ -66,111 +65,111 @@
 	}
 	"<< 10 SECONDS >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩下10秒钟**"
 	}
 	"<< STAGE 1: COMPLETED >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 第一关完成**"
 	}
 	"<< STAGE 2: EASY  >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 第二关：简单**"
 	}
 	"<< STAGE 2: EASY >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 第二关：简单**"
 	}
 	"<< DEFEND YOUR TEAMMATES FOR 40 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 防守你的队友40秒**"
 	}
 	"<< BREAKING EMERGENCY GLASS IN 15 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 紧急安全玻璃15秒后碎**"
 	}
 	"<< PLATFORM LEAVING IN 25 SEC, DEFEND >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 守住平台25秒**"
 	}
 	"<< ZOMBIE SHORTCUT OPENED >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸捷径打开**"
 	}
 	"<< ZOMBIES TAKE THE LADDER >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸快去爬梯子**"
 	}
 	"<< PLATFORM LEAVING IN 10 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 平台10秒钟后离开**"
 	}
 	"<< PLATFORM LEAVING IN 5 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 平台5秒钟后离开**"
 	}
 	"<< STAGE 2 COMPLETED >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关完成**"
 	}
 	"<< STAGE 3: MEDIUM >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关：中等**"
 	}
 	"<< JUMP >>"
 	{
-		"chi"		"** **"
+		"chi"		"**跳！**"
 	}
 	"<< ZOMBIE TP in 5 SEC!  >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒钟后传送**"
 	}
 	"<< ROTOR STOPPING IN 5 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"**转子 5秒钟后停止运行 **"
 	}
 	"<< DOOR OPENING IN 15 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 门在15秒后打开**"
 	}
 	"<< DOOR OPENING IN 5 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 门在 5秒后打开**"
 	}
 	"<< DEFEND ON THE TOP FOR 35 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 坚守35秒**"
 	}
 	"<< DEFEND FOR 15 SEC>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 坚守15秒**"
 	}
 	"<< GLASS BREAKING IN 5 SEC>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 玻璃 5秒钟后碎**"
 	}
 	"<< FOLLOW THE RULES!>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 遵守规则!**"
 	}
 	"<< ZOMBIE TP in 5 SEC>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒钟后传送**"
 	}
 	"<< STAGE 3 COMPLETED >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关完成**"
 	}
 	"<< STAGE 4: HARD: CLIMB THE MEME TOWER >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关：困难 - 爬塔**"
 	}
 	"<< ZOMBIE TP in 20 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸20秒钟后传送**"
 	}
 	"<< ROTORS STOPPING IN 10 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"**转子10秒钟后停止运行**"
 	}
 	"<< 30 SEC LEFT TO REACH THE TOP >>"
 	{
@@ -178,15 +177,15 @@
 	}
 	"<< MEMES TOWER REACHED >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 到达塔**"
 	}
 	"<< STAY ON THE GREY PLATFORMS >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 站在灰色的平台上**"
 	}
 	"<< CONGRATULATIONS....>>"
 	{
-		"chi"		"** **"
+		"chi"		"** 恭喜。。。**"
 	}
 	"<< PLEASE MEME.... >>"
 	{
@@ -194,11 +193,11 @@
 	}
 	"<< CONGRATULATIONS >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 恭喜。。。**"
 	}
 	"<< YOU ARE THE TRUE ESCAPERS >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 你是真的逃亡者**"
 	}
 	"<< MAP MADE BY ACME - THANKS TO MAPEADORES COMMUNITY AND TRLG >>"
 	{
@@ -214,18 +213,18 @@
 	}
 	"<< TOUCH RING LIFE IF YOU < 100HP >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 满血的碰一下那个环**"
 	}
 	"<< JUMP IN THE WATER >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 跳进水里**"
 	}
 	"<< ZOMBIE TP in 30 SEC >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸30秒后传送**"
 	}
 	"<< ZOMBIE TP >>"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸传送**"
 	}
 }
