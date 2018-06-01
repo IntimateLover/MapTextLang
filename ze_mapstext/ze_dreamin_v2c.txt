@@ -319,11 +319,11 @@
 	}
 	"***Zombie picked up Ice***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸冰冻被捡起**"
 	}
 	"***Zombie picked up Heal***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸奶被捡起**"
 	}
 	"***DIFFICULTY SET TO [DREAM]"
 	{
@@ -368,5 +368,16 @@
 	"***Ende***"
 	{
 		"chi"		"** **"
+	}
+	"***Resist 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_g_cv_money 8500"
+		}
 	}
 }

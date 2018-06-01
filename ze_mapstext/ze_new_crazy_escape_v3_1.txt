@@ -60,7 +60,7 @@
 	{
 		"chi"		"** **"
 	}
-	"### HOLD HERE FOR 30 SECONDS ###"
+	"### Hold here for 30 seconds ###"
 	{
 		"chi"		"** **"
 	}
@@ -156,6 +156,14 @@
 	{
 		"chi"		"** **"
 	}
+	"### NO BHOP OR JUMP YOU RETARDED !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### JUST WHOLE W OHH !! I MEAN HOLD W ###"
+	{
+		"chi"		"** **"
+	}
 	"### ZOMBIES ARE ALMOST AT THE CENTER ###"
 	{
 		"chi"		"** **"
@@ -214,17 +222,13 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"85785"
-	}
-	"### NO BHOP OR JUMP YOU RETARDED !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### JUST WHOLE W OHH !! I MEAN HOLD W ###"
-	{
-		"chi"		"** **"
+		"syncvalue"		"39557"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"### THE HOLY PLATFORMS IS GOING DOWN !! ###"
 	{
 		"chi"		"** **"
 	}

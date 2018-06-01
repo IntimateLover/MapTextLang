@@ -1,5 +1,41 @@
 "Console_T"
 {
+	"**Map made by BinBow**"
+	{
+		"chi"		"** **"
+	}
+	"***1st zombie teleport at 10second***"
+	{
+		"chi"		"**第一个僵尸传送点10秒后激活**"
+	}
+	"***2nd zombie teleport at 10second***"
+	{
+		"chi"		"**第二个僵尸传送点10秒后激活**"
+	}
+	"***3rd zombie teleport at 10second***"
+	{
+		"chi"		"**第三个僵尸传送点10秒后激活**"
+	}
+	"***Run!***"
+	{
+		"chi"		"**快跑！**"
+	}
+	"***4th zombie teleport at 10second***"
+	{
+		"chi"		"**第四个僵尸传送点10秒后激活**"
+	}
+	"***Come inside***"
+	{
+		"chi"		"**快进去！**"
+	}
+	"***Defend for 20 seconds.***"
+	{
+		"chi"		"**守住，20秒后门开**"
+	}
+	"***Dont stop defense! Lets door hug for trigger.***"
+	{
+		"chi"		"**开枪刷僵尸，别贴门**"
+	}
 	"MapGlobal_ConVars"
 	{
 		"0"
@@ -18,78 +54,50 @@
 		{
 			"cvar"		"sm_molotov_limit 2"
 		}
+		"4"
+		{
+			"cvar"		"sm_molotov_limit 4"
+		}
+		"5"
+		{
+			"cvar"		"sm_smoke_limit 2"
+		}
 	}
 	"sync_version"
 	{
-		"syncvalue"		"68595"
+		"syncvalue"		"48414"
 	}
-	"*** Door opens in 20 seconds ***"
+	"*** Door Opens in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后门开**"
 	}
 	"**Open**"
 	{
-		"chi"		"** **"
-	}
-	"***1st zombie teleport at 10second***"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Binbow**"
-	{
-		"chi"		"** **"
-	}
-	"***2nd zombie teleport at 10second***"
-	{
-		"chi"		"** **"
-	}
-	"***3rd zombie teleport at 10second***"
-	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"*** Do not over defense ***"
 	{
-		"chi"		"** **"
-	}
-	"***RUN!***"
-	{
-		"chi"		"** **"
-	}
-	"***4th zombie teleport at 10second***"
-	{
-		"chi"		"** **"
+		"chi"		"**开枪守住，别划水**"
 	}
 	"***Keep defending at 40sec***"
 	{
-		"chi"		"** **"
-	}
-	"***Come inside***"
-	{
-		"chi"		"** **"
-	}
-	"***Defend for 20 seconds.***"
-	{
-		"chi"		"** **"
-	}
-	"***Dont stop defense! Lets door hug for trigger.***"
-	{
-		"chi"		"** **"
+		"chi"		"**守住40秒**"
 	}
 	"***Keep defending***"
 	{
-		"chi"		"** **"
+		"chi"		"**开枪守住**"
 	}
 	"***Defend for 45 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒**"
 	}
 	"***OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"***Defend for 30 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒**"
 	}
 	"***Get in the army tank!!***"
 	{
@@ -104,6 +112,62 @@
 		"chi"		"** **"
 	}
 	"***Zombie can teleport and attack human***"
+	{
+		"chi"		"** **"
+	}
+	"***Left side zombie teleport on ***"
+	{
+		"chi"		"** **"
+	}
+	"***We can escape at this aircraft***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep defending 1min***"
+	{
+		"chi"		"**守住60秒**"
+	}
+	"*** take off aircraft in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fall back!***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Shoot!***"
+	{
+		"chi"		"** **"
+	}
+	"***Final defense for 25 second***"
+	{
+		"chi"		"** **"
+	}
+	"*1943 Mission complete*"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

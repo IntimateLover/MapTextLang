@@ -164,7 +164,7 @@
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"**热离子光束 **"
+		"chi"		"**热离子光束（远离脚下的红色区域）**"
 		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"

@@ -12,7 +12,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Stage 1 ***"
+	"*** STAGE 1 ***"
 	{
 		"chi"		"** **"
 	}
@@ -255,5 +255,12 @@
 	"*** Zombie teleport soon !!! ***"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_lockroundtime 60"
+		}
 	}
 }

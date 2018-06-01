@@ -8,11 +8,19 @@
 	{
 		"chi"		"** **"
 	}
-	"<--Hold for 60s-->"
+	"<--A human has picked Water Ball-->"
 	{
 		"chi"		"** **"
 	}
-	"<--A human has picked Water Ball-->"
+	"<--A human has picked Fire Ball-->"
+	{
+		"chi"		"** **"
+	}
+	"<--A human has picked Lightning Ball-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Hold for 60s-->"
 	{
 		"chi"		"** **"
 	}
@@ -33,6 +41,94 @@
 		"chi"		"** **"
 	}
 	"<--Wait for 45s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Hold for last 30s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--4s left-->"
+	{
+		"chi"		"** **"
+	}
+	"<--3s left-->"
+	{
+		"chi"		"** **"
+	}
+	"<--2s left-->"
+	{
+		"chi"		"** **"
+	}
+	"<--1s left-->"
+	{
+		"chi"		"** **"
+	}
+	"<--A human has picked Dog Knight-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wood door will break in 40s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wood door will break in 5s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wood door will break in 60s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--A human has picked Snowstorm Ball-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wood door will break in 30s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wood door will break in 45s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Touch 2 beams-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wait for 50s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Hold for last 45s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--A zombie has picked Health Ball-->"
+	{
+		"chi"		"** **"
+	}
+	"<--A zombie has picked Poison Ball-->"
+	{
+		"chi"		"** **"
+	}
+	"<--A zombie has picked Alacrity Ball-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wait for 20s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Collect 3 glow balls-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wait for 60s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Wait for 10s-->"
 	{
 		"chi"		"** **"
 	}

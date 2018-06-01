@@ -2,7 +2,7 @@
 {
 	"<<< Map by Jllaneras >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>地图作者：JLLaneras<<<"
 	}
 	"<<< Trial 1 >>>"
 	{
@@ -10,7 +10,7 @@
 	}
 	"<<< Door opens in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门将在30秒后开放<<<"
 	}
 	"sync_version"
 	{
@@ -18,7 +18,7 @@
 	}
 	"<<< Zombies teleport in 40 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将在40秒后进行传送<<<"
 	}
 	"<<< Press"
 	{
@@ -30,7 +30,7 @@
 	}
 	"<<< Door_opens in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>黄门将在30秒后打开<<<"
 	}
 	"<<< Walk backwards and press"
 	{
@@ -38,27 +38,27 @@
 	}
 	"<<< Zombie has speed! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸捡起了加速<<<"
 	}
 	"<<< Fence opens in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>铁栅栏30秒后开放<<<"
 	}
 	"<<< Zombie used speed! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸使用了加速<<<"
 	}
 	"<<< Zombies teleport in 25 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将在二十五秒后进行传送<<<"
 	}
 	"<<< Door opens in 45 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门将在45秒后打开<<<"
 	}
 	"<<< Doors open in 15 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门将在15秒后开放<<<"
 	}
 	"<<< Wall used! >>>"
 	{
@@ -66,7 +66,7 @@
 	}
 	"<<< Bridge breaks in 10 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>10秒后桥将会断裂<<<"
 	}
 	"<<< Zombies teleport in 10 seconds! >>>"
 	{
@@ -98,11 +98,11 @@
 	}
 	"<<< Defend for 20 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住这里20秒<<<"
 	}
 	"<<< Defend for 10 more seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>多守个10秒<<<"
 	}
 	"<<< Trial 1 Complete! >>>"
 	{
@@ -114,19 +114,19 @@
 	}
 	"<<< Wand has been picked up! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>韦天魔术棒已被捡起（按E可PUSH僵尸，什么?你竟然想Push队友？）<<<"
 	}
 	"<<< Door closing in 25 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门25秒后关闭<<<"
 	}
 	"<<< Wand used! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>韦天魔术棒使用!<<<"
 	}
 	"<<< Castle gate opens in 45 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>白色城堡的大门将在45秒后为您开放<<<"
 	}
 	"<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
 	{
@@ -134,11 +134,11 @@
 	}
 	"<<< Boxes break in 35 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>箱子堆35秒后碎裂<<<"
 	}
 	"<<< Box break in 35 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>箱子35秒后碎裂<<<"
 	}
 	"<<< Zombies teleport in 30 seconds! >>>"
 	{
@@ -150,7 +150,7 @@
 	}
 	"<<< Light activates in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>传送圣光将在30秒后将你传送离开这被僵尸污染的城堡<<<"
 	}
 	"<<< Trial 2 Complete! >>>"
 	{
@@ -162,19 +162,19 @@
 	}
 	"<<< Heal has been picked up! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>治疗圣光被捡起<<<"
 	}
 	"<<< Elevator leaves in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>极其简单的黑色电梯30秒后上升<<<"
 	}
 	"<<< Heal used! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>愿圣光永远加护着你<<<"
 	}
 	"<<< Door opens in 20 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>白色墙壁20秒后打开（Tips:门开后前面3个彩色坑需要你提前3个身位跳过去）<<<"
 	}
 	"<<< Elevator leaves in 45 seconds! >>>"
 	{
@@ -234,5 +234,9 @@
 		{
 			"cvar"		"sm_g_cv_money 10000"
 		}
+	}
+	"<<< Secret level 1 button pressed! >>>"
+	{
+		"chi"		"** **"
 	}
 }

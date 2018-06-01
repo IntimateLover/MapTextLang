@@ -7,22 +7,22 @@
 	"*** FINAL SECOND BOAT IS LEAVING SOON! ***"
 	{
 		"chi"		"**逃生船只2已经启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** FINAL SECOND BOAT IS LEAVING! GET IN!!! ***"
 	{
 		"chi"		"**逃生船只2即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
 	{
 		"chi"		"**逃生船只1已经启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Final first boat is leaving! Get in!!!***"
 	{
 		"chi"		"**逃生船只1即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** All aircraft are heavily damaged from the nuke! **"
 	{
@@ -178,7 +178,7 @@
 	}
 	"** Trainer has been picked. **"
 	{
-		"chi"		"**【人类】驯兽师已经被拾取（也许有误）**"
+		"chi"		"**飞行练习器已经启动**"
 	}
 	"** Zombie silhouetting kit has been acquired! **"
 	{
@@ -255,5 +255,81 @@
 	"** AIRSHIPS ARE GOING DOWN! **"
 	{
 		"chi"		"**飞船正在运行**"
+	}
+	"*** MODE: GOAL ***"
+	{
+		"chi"		"**模式：足球**"
+	}
+	"*** Two giant soccer balls have appeared. Shoot them and break down walls! ***"
+	{
+		"chi"		"**有2个足球，射击推动它们破坏墙壁（有2个后面的墙分别需要船只 直升机破坏）**"
+	}
+	"*** MODE: NORMAL ***"
+	{
+		"chi"		"**模式：普通**"
+	}
+	"*** Generic! ***"
+	{
+		"chi"		"**正常路线，赶紧捡起神器玩玩吧（不要卖人）**"
+	}
+	"*** Invulnerability for humans in 3 secs... ***"
+	{
+		"chi"		"**人类无敌3秒（原单词刀枪不入）**"
+	}
+	"*** MODE: DARKNESS ***"
+	{
+		"chi"		"**模式：瘦长鬼影**"
+	}
+	"*** ITS DARK! Be sure not to meet any unfriendly folks along the way! ***"
+	{
+		"chi"		"**好黑呀，希望别遇到不友善的人**"
+	}
+	"*** MODE: DEPRESSION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** There will be no help for you. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: WINTER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ITS FREEZING! ITS COLD! The water has been frozen! Use the fire to warm yourselves and get to the end! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Its wise to take the alternative path than the main one as the water is frozen and you have no boats! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Slippery ground in 3 secs... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: VIETNAM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Get out of the jungle! Theres traps all over! Watch your step! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fast speed for humans in 3 secs... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Invert controls in 3 seconds... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MODE: CLASSIC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** No frills & no thrills. Its you against the zombies! ***"
+	{
+		"chi"		"** **"
 	}
 }

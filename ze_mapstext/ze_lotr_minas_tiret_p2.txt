@@ -15,7 +15,7 @@
 	"**Gate will open in 35 seconds**"
 	{
 		"chi"		"**大门将在35秒后打开 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"**The Gate will open in 5 seconds!**"
 	{
@@ -32,7 +32,7 @@
 	"**Gates opening in 30 seconds!**"
 	{
 		"chi"		"**门在30秒后打开！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**Gates opening!**"
 	{
@@ -41,7 +41,7 @@
 	"**Resist 45s!**"
 	{
 		"chi"		"**防守45秒！ **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"**The ring has been picked!**"
 	{
@@ -66,7 +66,7 @@
 	"**Well get the gate open soon! Gate will be destroyed in 30 seconds!**"
 	{
 		"chi"		"**很快大门就会打开！大门将在30秒后被摧毁！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**Gandalf staff has been picked!**"
 	{
@@ -87,7 +87,7 @@
 	"**Gate in throne-room opens in 90 seconds!**"
 	{
 		"chi"		"**大殿的大门在90秒后打开！ **"
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 	}
 	"**Impact will arrive soon**"
 	{
@@ -104,7 +104,7 @@
 	"**Door closes in 15 seconds!**"
 	{
 		"chi"		"**门将在15秒后关闭！ **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***MAP BY Limon. [Russian]***"
 	{

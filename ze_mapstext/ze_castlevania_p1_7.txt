@@ -109,7 +109,7 @@
 		"chi"		"**在阶梯处防守40秒**"
 		"DoorCountdown"		"40"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -320,6 +320,7 @@
 	"***HOLD THEM BACK FOR 60 SECONDS***"
 	{
 		"chi"		"**守住60秒**"
+		"DoorCountdown"		"60"
 	}
 	"***TIP - DEFEND AND SLOW THE ZOMBIES DOWN ALONG THE WAY***"
 	{
@@ -433,7 +434,7 @@
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -517,7 +518,7 @@
 	{
 		"chi"		"**找到出路**"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**守住20秒**"
 		"DoorCountdown"		"20"
@@ -622,7 +623,8 @@
 	}
 	"***THE ELEVATOR WILL ASCEND IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将会在30秒后上升**"
+		"DoorCountdown"		"30"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -656,6 +658,10 @@
 		}
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ROOM - KILL ALL***"
 	{
 		"chi"		"** **"
 	}

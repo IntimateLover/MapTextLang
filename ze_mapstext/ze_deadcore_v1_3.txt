@@ -7,7 +7,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 20 SECONDS LEFT ***"
 	{
@@ -20,25 +20,25 @@
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"57989"
+		"syncvalue"		"68335"
 	}
 	"*** Hold 40 seconds ***"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** 30 seconds left ***"
 	{
@@ -87,7 +87,7 @@
 	"*** Hold 10 seconds ***"
 	{
 		"chi"		"**守住10秒**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** Hold 5 seconds ***"
 	{
@@ -95,7 +95,7 @@
 	}
 	"*** 100 ***"
 	{
-		"DoorCountdown"		"100"
+		"DoorCountDown"		"100"
 	}
 	"*** 90 ***"
 	{
@@ -198,6 +198,30 @@
 		"13"
 		{
 			"cvar"		"sm_cvar sm_g_cv_money 13000"
+		}
+		"14"
+		{
+			"cvar"		"zr_class_modify zombies knockback 5.8"
+		}
+		"15"
+		{
+			"cvar"		"zr_class_modify zombies knockback 5.2"
+		}
+		"16"
+		{
+			"cvar"		"zr_class_modify zombies knockback 5.5"
+		}
+		"17"
+		{
+			"cvar"		"sm_tagging_time 1.7"
+		}
+		"18"
+		{
+			"cvar"		"sm_tagging_penalty 24"
+		}
+		"19"
+		{
+			"cvar"		"zr_class_modify zombies knockback 5"
 		}
 	}
 }

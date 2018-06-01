@@ -11,7 +11,7 @@
 	"**ZE_FFVII_COSMO_CANYON**"
 	{
 		"chi"		"**最终幻想7:宇宙峡谷**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**NORMAL MODE**"
 	{
@@ -48,7 +48,7 @@
 	"**Defend here for 25 seconds until the gates open**"
 	{
 		"chi"		"**25秒后大门开启**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
@@ -61,7 +61,7 @@
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
 		"chi"		"**在我打开酒吧后门前你们需要守住僵尸25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**5 SECONDS LEFT**"
 	{
@@ -74,17 +74,17 @@
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
 		"chi"		"**巨石将在25秒后爆炸**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The gates of gi cave will open in 15 seconds**"
 	{
 		"chi"		"**GI大门将在15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**A player has picked up SLEEP materia**"
 	{
@@ -97,7 +97,7 @@
 	"**The gi gate will open in 35 seconds**"
 	{
 		"chi"		"**基纳塔克竞技场将在35秒后开放**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"[Cloud] Ay.. There you are!"
 	{
@@ -142,7 +142,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
@@ -195,7 +195,7 @@
 	"**DOOR OPENS IN 40 SECONDS**"
 	{
 		"chi"		"**大门40秒后开启**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**This is your last hold point**"
 	{
@@ -204,7 +204,7 @@
 	"**Get on the rocks and hold 25 seconds**"
 	{
 		"chi"		"**站到石头上守住25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
@@ -229,7 +229,7 @@
 	"**The rock will explode in 25 seconds**"
 	{
 		"chi"		"**岩石将在25秒后爆炸**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
@@ -340,7 +340,7 @@
 	"**The airship to Shinra will arrive in 30 seconds**"
 	{
 		"chi"		"**飞船将在30秒后到达**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
 	{
@@ -357,7 +357,7 @@
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
 	{
@@ -374,17 +374,17 @@
 	"**Shinra gates will open in 25 seconds**"
 	{
 		"chi"		"**神罗基地大门将在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The gates will open in 15 seconds**"
 	{
 		"chi"		"**大门将在15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
 		"chi"		"**电梯将在15秒后离开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**Genesis is defeated. Get back in the elevator**"
 	{
@@ -405,7 +405,7 @@
 	"**We got the power. The gates will open in 15 seconds**"
 	{
 		"chi"		"**大门15秒后开启**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Nades do more damage. **"
 	{
@@ -505,7 +505,7 @@
 	}
 	"**2 MINUTES LEFT!**"
 	{
-		"DoorCountDown"		"120"
+		"DoorCountdown"		"120"
 	}
 	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
 	{

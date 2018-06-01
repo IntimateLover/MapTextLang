@@ -75,7 +75,7 @@
 	"**The Cave of the GI gates will open in 15 seconds**"
 	{
 		"chi"		"**GI大门将在15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**Wait until something happens**"
 	{
@@ -112,7 +112,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Gi Nattak is using fire**"
 	{

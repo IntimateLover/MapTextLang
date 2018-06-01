@@ -2,6 +2,6 @@
 {
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 }

@@ -39,7 +39,7 @@
 	"** ULTIMA Materia has been found. **"
 	{
 		"chi"		"**终极-使用后20秒后清理所在范围内的僵尸**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Congratulations! You have beaten [EASY] **"
 	{

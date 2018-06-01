@@ -2,10 +2,10 @@
 {
 	"**TIP -- It has a 55 second cooldown**"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**TIP -- This item heals you and teammates around you for 5 seconds**"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 }

@@ -30,23 +30,24 @@
 	}
 	">>> STAGE 1 <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第一章<<<"
 	}
 	">>> ENTRANCE DOOR OPENING <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>探险之门正在开启<<<"
 	}
 	">>> HOLD 25 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住25秒<<<"
 	}
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>所有挂机的玩家将在15秒后传送<<<"
+		"DoorCountdown"		"-1"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住20秒<<<"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
@@ -54,39 +55,39 @@
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>有一名玩家捡起了风神器<<<"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住这里10秒<<<"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住这里5秒<<<"
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>有一名玩家捡起了火<<<"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住这里15秒<<<"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>有一名玩家捡起了冰<<<"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>巨型蜘蛛正在召唤……<<<"
 	}
 	">>> SPIDER USED POISON <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>巨型蜘蛛释放了猛毒<<<"
 	}
 	">>> SPIDER IS DEFEATED <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>巨型蜘蛛被我们击杀了<<<"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
@@ -94,7 +95,7 @@
 	}
 	">>> DOOR CLOSING <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门正在关闭<<<"
 	}
 	">>> STAGE 1 COMPLETED <<<"
 	{
@@ -209,6 +210,238 @@
 		"chi"		"** **"
 	}
 	">>> DRAGON USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ADMIN CHANGED TO STAGE 4 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED KILLER. GO SIDE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED ICE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE OPENING IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 40 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BRIDGE IS BROKEN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ALL ZM ITEMS IS DISABLED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS BALROG <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS ESCAPED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 5 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> AFK TELEPORT IN 3 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BREAK STATUE TO GET ITEM <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> NOOB TRASHED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USE LASER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED SHIELD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS DEFEATED KEEP RUNNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 45 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SHOOT GARGANTUA <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 5 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 6 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SURVIVE 4 MINUTES <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 3 MINUTES LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 2 MINUTES LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 1 MINUTES LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 30 SECONDS LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 20 SECONDS LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 SECONDS LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 4 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 3 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 2 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 1 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTED TO CASTLE GET OUT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 6 COMPLETED <<<"
 	{
 		"chi"		"** **"
 	}

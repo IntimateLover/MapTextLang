@@ -76,19 +76,19 @@
 	{
 		"chi"		"** **"
 	}
-	"nuke coming in 30s"
-	{
-		"chi"		"** **"
-	}
-	"nuke coming in 10s"
-	{
-		"chi"		"** **"
-	}
 	"stage2_library_door1 open in 30s"
 	{
 		"chi"		"** **"
 	}
 	"15s left"
+	{
+		"chi"		"** **"
+	}
+	"nuke coming in 30s"
+	{
+		"chi"		"** **"
+	}
+	"nuke coming in 10s"
 	{
 		"chi"		"** **"
 	}
@@ -101,6 +101,18 @@
 		"chi"		"** **"
 	}
 	"20s left"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"59721"
+	}
+	"door will open in 30s"
+	{
+		"chi"		"** **"
+	}
+	"door will open in 15s"
 	{
 		"chi"		"** **"
 	}
@@ -124,19 +136,11 @@
 	{
 		"chi"		"** **"
 	}
+	"someone should go to the toilet"
+	{
+		"chi"		"** **"
+	}
 	"west_door and crate will break in 20s"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"58899"
-	}
-	"door will open in 30s"
-	{
-		"chi"		"** **"
-	}
-	"door will open in 15s"
 	{
 		"chi"		"** **"
 	}

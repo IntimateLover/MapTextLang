@@ -3,7 +3,7 @@
 	"****Spawn will open up within 20 seconds****"
 	{
 		"chi"		"** 出生点将在 20 秒后开放 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"****We need to get off this island before the Zombie Infestation takes the whole Island****"
 	{
@@ -16,7 +16,7 @@
 	"****Boat will be leaving in 10 seconds****"
 	{
 		"chi"		"** 船将在 10 秒内离开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"****There must be a way to get off this Island****"
 	{
@@ -41,7 +41,7 @@
 	"****Defend the front walls****"
 	{
 		"chi"		"** 守住围墙 ** 本计时器仅供参考 **"
-		"DoorCountdown"		"110"
+		"DoorCountDown"		"110"
 	}
 	"****Dont retreat unless told****"
 	{
@@ -70,5 +70,16 @@
 	"****Retreat to the balloon! Hurry!****"
 	{
 		"chi"		"** 快退到热气球里！快！** 最后的机会 **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_infect_spawntime_min 18"
+		}
+		"1"
+		{
+			"cvar"		"zr_infect_spawntime_max 20"
+		}
 	}
 }

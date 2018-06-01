@@ -11,7 +11,7 @@
 		"command"		"zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -724,7 +724,7 @@
 	}
 	"***FOR NOW... IT SEEMS***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在，它可能……**"
 	}
 	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
 	{

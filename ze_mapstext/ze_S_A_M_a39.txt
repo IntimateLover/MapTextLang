@@ -502,6 +502,10 @@
 		{
 			"cvar"		"zr_poison_enabled  0"
 		}
+		"8"
+		{
+			"cvar"		"mp_timelimit 40"
+		}
 	}
 	">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
 	{
@@ -708,6 +712,34 @@
 		"chi"		"** **"
 	}
 	">>CONGRATULATION!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU FOUND A CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>ITEM:ASUNA CAN USE SUPERATTACK NOW<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU HAVE DESTROYED ALL THE CRYSTALS<<"
+	{
+		"chi"		"** **"
+	}
+	">>SOMETHING WILL HAPPEN<<"
+	{
+		"chi"		"** **"
+	}
+	">>RUN OUT OF HERE!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>GET ON THE AIRSHIP!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE AIRSHIP LEAVING IN 5 SEC<<"
 	{
 		"chi"		"** **"
 	}

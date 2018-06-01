@@ -11,7 +11,7 @@
 	"### HUMAN WILL BE TELEPORT IN 20 SECONDS ###"
 	{
 		"chi"		"**人类将在20秒后传送 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"### 10 SECONDS ###"
 	{
@@ -20,7 +20,7 @@
 	"### HIDE AND HOLD FOR 1:15 MINUTE ###"
 	{
 		"chi"		"**防守这里1:15分钟 **"
-		"DoorCountDown"		"75"
+		"DoorCountdown"		"75"
 	}
 	"### THE GREEN LIGHT ZONES ARE THE MOST SAFEST PLACE ###"
 	{
@@ -29,7 +29,7 @@
 	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
 		"chi"		"**僵尸将在30秒后传送 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### 5 SECONDS ###"
 	{
@@ -42,7 +42,7 @@
 	"### 30 SECONDS ###"
 	{
 		"chi"		"**还有30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### TELEPORT IS COMING IN 5 SECONDS ###"
 	{
@@ -59,7 +59,7 @@
 	"### WARNING *** TOWER IS GONNA EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**警告!离高塔炸毁还有30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### HOLD HERE AND DEFEND 2 SIDES ###"
 	{
@@ -68,7 +68,7 @@
 	"### FOR 50 SECONDS ###"
 	{
 		"chi"		"**还有50秒 **"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"### ZOMIES HAVE BEEN ARRIVED ###"
 	{
@@ -117,7 +117,7 @@
 	"### HOLD FOR 40 SECONDS ###"
 	{
 		"chi"		"**防御这里40秒 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"### CROSS THE BRIDGE IN 20 SECONDS ###"
 	{
@@ -194,7 +194,7 @@
 	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
 	{
 		"chi"		"**防守这里1分钟 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"### SLIPKNOT - CUSTER IS NOW PLAYING ###"
 	{
@@ -402,7 +402,7 @@
 	}
 	"### MAKE YOUR WAY TO THE OTHER SIDE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**请确认另一条路上没有僵尸（别忘了丢高爆和燃烧护菊）**"
 	}
 	"### WHILE DEFENDING AGAINST ZOMBIES ###"
 	{
@@ -486,7 +486,7 @@
 	}
 	"### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###"
 	{
-		"chi"		"** **"
+		"chi"		"**当所有人都在这里的时候，NARAKA将会重生**"
 	}
 	"### IN 10 SECONDS ###"
 	{
@@ -566,7 +566,7 @@
 	}
 	"### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###"
 	{
-		"chi"		"**你让僵尸去看电视了，所以你失去了，新手 **"
+		"chi"		"**僵尸接触电视了，所以你输了，新手**"
 	}
 	"### BRIDGE BREAKS IN 50 SECONDS ###"
 	{
@@ -582,7 +582,7 @@
 	}
 	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里等个5秒钟然后与僵尸一起赛跑**"
 	}
 	"### ZOMBIES IN COMING !! HOLD THIS PLATFORM FOR 30 SECONDS ###"
 	{
@@ -590,7 +590,7 @@
 	}
 	"### TIP: YOU CAN SHOOT ZOMBIE OFF THE PLATFORM ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以将僵尸射下平台**"
 	}
 	"### TIP: DEFEND 3 WAYS PLEASE THATS ALL ###"
 	{
@@ -610,7 +610,7 @@
 	}
 	"### ZOMBIES CAN TRY TO BREAK THAT THING TO ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸可以尝试着抓破一些东西来给人类增加难度 ：）**"
 	}
 	"### ACTIVATE SPINNING THING !! IF THIS THING BREAKS ###"
 	{
@@ -622,15 +622,15 @@
 	}
 	"### Hold here for 30 seconds ###"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里30秒**"
 	}
 	"### THE WALL IS BROKEN NOW CLIMB ###"
 	{
-		"chi"		"** **"
+		"chi"		"**墙现在碎了，你可以爬上去了**"
 	}
 	"### ZOMBIES PLEASE KINDLY WAIT FOR A SEC ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸们请耐心的等待一些时间**"
 	}
 	"### AND WATCH SOME TRIMS RELAXX !!! ###"
 	{
@@ -638,7 +638,7 @@
 	}
 	"### HUMAN DONT DELAY U GONNA FACE UR DESTINY SOON ###"
 	{
-		"chi"		"** **"
+		"chi"		"**人类别放松，，你们即将面对一些毁灭性的东西到来**"
 	}
 	"### THANK YOU FOR YOUR PATIENT NOW GO !! ###"
 	{
@@ -646,7 +646,7 @@
 	}
 	"### YOU SEE THAT TRUMPS WALL !! SHOOT ITTT ###"
 	{
-		"chi"		"** **"
+		"chi"		"**看到前面那个特朗普墙了吗？开枪把他打碎**"
 	}
 	"### FOR ZOMBIE: FENCES BREAK IN 15 SECONDS  ###"
 	{
@@ -670,8 +670,8 @@
 	}
 	"### DOOR BREAKS IN 30 SECONDS ###"
 	{
-		"chi"		"**门在30秒后碎**"
-		"DoorCountDown"		"30"
+		"chi"		"**大门将会在30S后开放**"
+		"DoorCountdown"		"30"
 	}
 	"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
 	{
@@ -683,7 +683,7 @@
 	}
 	"### NARAKA UNLEASHES HIS POWER ###"
 	{
-		"chi"		"** **"
+		"chi"		"**NARAKA释放了他的神秘力量！（提示：本服务器技能提示正确，例如让按W，那么就是按住W）**"
 	}
 	"### PRESS S PLEASE THANK YOU ###"
 	{
@@ -703,7 +703,7 @@
 	}
 	"### YOU THINK YOU ARE PRO LASER DODGER ? U MAD ? ###"
 	{
-		"chi"		"**你是跳刀大婶吗？你疯了？**"
+		"chi"		"**你是跳刀大神吗？我怀疑你疯了**"
 	}
 	"### YOU CAN BE SURE ###"
 	{
@@ -715,7 +715,7 @@
 	}
 	"### YOUR DEATH INCOMINGG SHOOT AND NADE HIM ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你如果不开枪射击他或者用手雷砸他的话你离死期不远了**"
 	}
 	"### ZOMBIES WAIT FOR THE PLATFORM APPEAR IN 10 SECONDS ###"
 	{
