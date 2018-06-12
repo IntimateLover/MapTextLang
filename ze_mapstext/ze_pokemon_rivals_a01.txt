@@ -84,7 +84,7 @@
 	{
 		"chi"		"** **"
 	}
-	"10 seconds!"
+	"10 SECONDS!"
 	{
 		"chi"		"** **"
 	}
@@ -197,6 +197,26 @@
 		"chi"		"** **"
 	}
 	"BLASTOISEs attack missed!"
+	{
+		"chi"		"** **"
+	}
+	"MACHAMP fainted!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANS are out of usable POKEMON!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANS blacked out!"
+	{
+		"chi"		"** **"
+	}
+	"MACHAMP used FOCUS ENERGY!"
+	{
+		"chi"		"** **"
+	}
+	"MACHAMPS CRIT. Chance rose!"
 	{
 		"chi"		"** **"
 	}

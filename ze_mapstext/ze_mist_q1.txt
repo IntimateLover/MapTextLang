@@ -1,0 +1,18 @@
+"Console_T"
+{
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 8"
+		}
+		"1"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"2"
+		{
+			"cvar"		"sm_He_limit 5"
+		}
+	}
+}

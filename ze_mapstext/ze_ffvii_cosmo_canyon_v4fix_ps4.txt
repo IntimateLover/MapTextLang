@@ -300,6 +300,10 @@
 		{
 			"cvar"		"sm_taggrenade_limit 0"
 		}
+		"7"
+		{
+			"cvar"		"zr_poison_enabled 0"
+		}
 	}
 	"**Port by Shimelar**"
 	{
