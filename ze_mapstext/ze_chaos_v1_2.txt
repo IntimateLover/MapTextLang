@@ -173,10 +173,26 @@
 	}
 	"<--Wood door will break in 35s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在35秒后碎裂**"
 	}
 	"<--Hold for 40s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守40秒**"
+	}
+	"<--What...it's a dragon-->"
+	{
+		"chi"		"**那是什么...它是龙**"
+	}
+	"<--It comes...-->"
+	{
+		"chi"		"**它来了...**"
+	}
+	"<--Grenade can damage dragon-->"
+	{
+		"chi"		"**手雷能够对龙造成伤害**"
+	}
+	"<--Balls can damage dragon except beam ball-->"
+	{
+		"chi"		"**除了光束法球外，其余法球能够对龙造成伤害**"
 	}
 }
