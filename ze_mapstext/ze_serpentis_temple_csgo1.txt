@@ -593,6 +593,18 @@
 		{
 			"cvar"		"sm_cvar sm_nofalldamage 1"
 		}
+		"8"
+		{
+			"cvar"		"sm_set_convar sm_cvar sm_nofalldamage 1"
+		}
+		"9"
+		{
+			"cvar"		"sm_Cvar  sm_flashlight_enabled 1"
+		}
+		"10"
+		{
+			"cvar"		"sm_cvar sm_flashlight_enabled 1"
+		}
 	}
 	"The Edge Of The Platform Will Be Dangerous Except Nuke(In Order To Limit The Area To Hexagonal Field)"
 	{

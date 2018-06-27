@@ -538,15 +538,28 @@
 		"chi"		"** **"
 	}
 	"***KILL ALL ZOMBIE SURVIVOR***"
-	
-
 	{
 		"chi"		"** **"
-		"command"  "zr_class_modify zombies health_regen_amount 1“
+		"command"		"zr_class_modify zombies health_regen_amount 1“
+	}
+	"
+		"***NEXT"		"DIFFICULTY"
+		"EXTREM***"		"
+	{
+		"
+		"chi"		"		"
+		"**"		"**"
+		"
+		"		"command"
+		"  "		"zr_class_modify"
+		"zombies"		"health_regen_amount"
 	}
 	"***NEXT DIFFICULTY  EXTREM***"
 	{
 		"chi"		"** **"
-		"command"  "zr_class_modify zombies health_regen_amount 100“
+	}
+	"***NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE***"
+	{
+		"chi"		"** **"
 	}
 }

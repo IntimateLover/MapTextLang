@@ -252,4 +252,27 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 4"
+		}
+		"1"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+	}
+	"### LIFE SEEKER HAS ARRIVED ###"
+	{
+		"chi"		"** **"
+	}
+	"### NARAKA HAS DISAPPEAR !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### NARAKA IS BACK ###"
+	{
+		"chi"		"** **"
+	}
 }

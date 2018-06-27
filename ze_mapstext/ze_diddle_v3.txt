@@ -1415,6 +1415,10 @@
 	}
 	"MapGlobal_ConVars"
 	{
+		"0"
+		{
+			"cvar"		"sm_molotov_limit 3"
+		}
 	}
 	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
 	{

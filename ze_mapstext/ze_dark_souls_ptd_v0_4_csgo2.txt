@@ -76,10 +76,10 @@
 	{
 		"chi"		"**一位僵尸拿起了毒雾**"
 	}
-	"**The gates will open in 25 seconds**"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门25秒后开启**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A player has picked up Lightning Spear**"
 	{
@@ -113,10 +113,10 @@
 	{
 		"chi"		"**一位玩家拿起了追踪者**"
 	}
-	"**The gates will open in 20 seconds**"
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**A player has picked up Chaos Storm**"
 	{
@@ -125,7 +125,7 @@
 	"**The Sens Fortress gates will open in 30 seconds**"
 	{
 		"chi"		"**塞恩古堡大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**A player has picked up Green Blossom**"
 	{
@@ -142,7 +142,7 @@
 	"**Well done**The gate will open in 10 seconds**"
 	{
 		"chi"		"**干得好-大门将在10秒后打开**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**A player has picked up White Dragon Breath**"
 	{
@@ -179,12 +179,12 @@
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**The gate will open in 20 seconds***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**A player has picked up Soothing Sunlight**"
 	{
@@ -233,7 +233,7 @@
 	"**Get in the room and defend it! the door will close in 25 seconds**"
 	{
 		"chi"		"**进入房间防守-门将在25秒后关闭**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Ornstein and Gwyndolin are dead**"
 	{
@@ -329,9 +329,53 @@
 		{
 			"cvar"		"zr_poison_enabled  0"
 		}
+		"5"
+		{
+			"cvar"		"sm_tagging_time 3"
+		}
 		"6"
 		{
+			"cvar"		"sm_tagging_penalty 20"
+		}
+		"7"
+		{
 			"cvar"		"sm_stamina_burncost 0.6"
+		}
+		"8"
+		{
+			"cvar"		"sm_cvar sm_g_cv_money 14000"
+		}
+		"9"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"10"
+		{
+			"cvar"		"sm_smoke_limit 2"
+		}
+		"11"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"12"
+		{
+			"cvar"		"zr_class_modify zombies knockback 8"
+		}
+		"13"
+		{
+			"cvar"		"zr_greneffect_napalm_he_duration 5"
+		}
+		"14"
+		{
+			"cvar"		"sm_stamina_burncost 0.5"
+		}
+		"15"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+		"16"
+		{
+			"cvar"		"sm_Cvar sm_nofalldamage 1"
 		}
 	}
 	"**A player has picked up Ashen Estus Flask**"
@@ -404,6 +448,6 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"70062"
+		"syncvalue"		"10362"
 	}
 }

@@ -11,7 +11,7 @@
 		"command"		"zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
-	"***FALL BACK***"
+	"***Fall Back***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -83,7 +83,7 @@
 	}
 	"***WINCEST***"
 	{
-		"chi"		"** **"
+		"chi"		"**温切斯特**"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
 	{

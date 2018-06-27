@@ -14,14 +14,14 @@
 	}
 	"ZE Sunlight"
 	{
-		"chi"		"** **"
+		"chi"		"**ZE 日光**"
 	}
 	"*** Defend for 30 seconds! ***"
 	{
 		"chi"		"**防守30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"**还有5秒 **"
 	}
@@ -32,7 +32,7 @@
 	"*** Lift is leaving in 30 seconds ***"
 	{
 		"chi"		"**电梯将在30秒后升起 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Defend for 20 seconds! ***"
 	{
@@ -41,7 +41,7 @@
 	"*** Nuke in 1 minute ***"
 	{
 		"chi"		"**核爆将在1分钟后到达 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"*** Final door is opening in 10 seconds ***"
 	{
@@ -70,7 +70,7 @@
 	"*** Defend for 35 seconds! ***"
 	{
 		"chi"		"**防御35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"*** Orange Launcher has been acquired ***"
 	{
@@ -114,7 +114,7 @@
 	}
 	"[Warmup] Wait for others players to join"
 	{
-		"chi"		"** **"
+		"chi"		"**[热身时间]请等待其他玩家加入**"
 	}
 	"*** Zombies have been teleported. Prepare to charge! ***"
 	{

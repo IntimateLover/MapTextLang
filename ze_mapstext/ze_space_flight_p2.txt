@@ -76,4 +76,12 @@
 	{
 		"syncvalue"		"10283"
 	}
+	"Hold here until someone activates bomb !"
+	{
+		"chi"		"** **"
+	}
+	"Activate nuke glowing yellow !"
+	{
+		"chi"		"** **"
+	}
 }

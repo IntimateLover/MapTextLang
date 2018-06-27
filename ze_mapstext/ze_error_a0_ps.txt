@@ -1,0 +1,59 @@
+"Console_T"
+{
+	">> ZE_ERROR <<"
+	{
+		"chi"		"** **"
+	}
+	">>ERROR<<"
+	{
+		"chi"		"** **"
+	}
+	">>3<<"
+	{
+		"chi"		"** **"
+	}
+	">>2<<"
+	{
+		"chi"		"** **"
+	}
+	">>1<<"
+	{
+		"chi"		"** **"
+	}
+	">> RESIST HERE 25 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> 15 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> MISSION: DEJAB? <<"
+	{
+		"chi"		"** **"
+	}
+	"** Opening door... wait**"
+	{
+		"chi"		"** **"
+	}
+	">> RESIST 30 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> GO GO <<"
+	{
+		"chi"		"** **"
+	}
+	">> RESIST 40 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> RESIST HERE <<"
+	{
+		"chi"		"** **"
+	}
+}
