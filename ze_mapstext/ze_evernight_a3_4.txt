@@ -526,7 +526,7 @@
 	}
 	"**A player learn the Thunderblast(Thunder magick Lv.1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家学会了闪电轰爆(电魔法 Lv.1)**"
 	}
 	"**A player learn the Baptism(Light magick Lv.1)**"
 	{
@@ -614,7 +614,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"63525"
+		"syncvalue"		"65536"
 	}
 	"**ze_evernight**"
 	{
@@ -704,15 +704,11 @@
 	{
 		"chi"		"** **"
 	}
-	"**A player learn the Air Lash (Wind Magick Lv.1)**"
+	"**A player learn the Shadowbound (Shadow Magick Lv.1)**"
 	{
 		"chi"		"** **"
 	}
-	"**A player learn the Frostbite (Ice Magick Lv.1)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Shadowbound (Shadow Magick Lv.2)**"
+	"**A player learn the Thunderblast (Thunder Magick Lv.2)**"
 	{
 		"chi"		"** **"
 	}
@@ -724,7 +720,23 @@
 	{
 		"chi"		"** **"
 	}
-	"**A player learn the Arcbreak (Thunder Magick Lv.4)**"
+	"**A player learn the Frost Burst (Ice Magick Lv.4)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Thunderblast (Thunder Magick Lv.1)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Baptism (Light Magick Lv.2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Storm Surge (Wind Magick Lv.3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Shadowbound (Shadow Magick Lv.2)**"
 	{
 		"chi"		"** **"
 	}
@@ -736,43 +748,11 @@
 	{
 		"chi"		"** **"
 	}
-	"**A player learn the Thunderblast (Thunder Magick Lv.2)**"
+	"**A player learn the Frostbite (Ice Magick Lv.1)**"
 	{
 		"chi"		"** **"
 	}
-	"**A player learn the Arcbreak (Thunder Magick Lv.3)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Air Lash (Wind Magick Lv.2)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Frost Burst (Ice Magick Lv.4)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Storm Surge (Wind Magick Lv.3)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Thunderblast (Thunder Magick Lv.1)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Fiends Grip (Shadow Magick Lv.5)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Flameshot (Fire Magick Lv.2)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Baptism (Light Magick Lv.2)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Shadowbound (Shadow Magick Lv.1)**"
+	"**A player learn the Air Lash (Wind Magick Lv.1)**"
 	{
 		"chi"		"** **"
 	}
@@ -780,7 +760,39 @@
 	{
 		"chi"		"** **"
 	}
-	"**A player learn the Mega Pressure (Shadow Magick Lv.3)**"
+	"**A player learn the Frost Burst (Ice Magick Lv.3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Fiends Grip (Shadow Magick Lv.5)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Helltide (Fire Magick Lv.5)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Flameshot (Fire Magick Lv.2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Arcbreak (Thunder Magick Lv.3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Brilliant Circle (Light Magick Lv.3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Mega Pressure (Shadow Magick Lv.4)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Dragons Breath (Fire Magick Lv.4)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Atmosphere Turbulence (Wind Magick Lv.5)**"
 	{
 		"chi"		"** **"
 	}
@@ -788,7 +800,35 @@
 	{
 		"chi"		"** **"
 	}
+	"**A player learn the Air Lash (Wind Magick Lv.2)**"
+	{
+		"chi"		"** **"
+	}
 	"**A player learn the Divine Aegis (Light Magick Lv.5)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Frostbite (Ice Magick Lv.2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Storm Surge (Wind Magick Lv.4)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Mega Pressure (Shadow Magick Lv.3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Brilliant Circle (Light Magick Lv.4)**"
+	{
+		"chi"		"** **"
+	}
+	"**A player learn the Arcbreak (Thunder Magick Lv.4)**"
+	{
+		"chi"		"** **"
+	}
+	"**Atomsphere Vortex - Disable the motion of Gradyrat for 10 seconds**"
 	{
 		"chi"		"** **"
 	}

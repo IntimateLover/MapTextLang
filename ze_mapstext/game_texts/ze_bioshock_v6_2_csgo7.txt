@@ -1,0 +1,686 @@
+"Console_GameText"
+{
+	"Introduction"
+	{
+		"chi"		"**介绍**"
+	}
+	"ze_bioshock
+by DormantLemon"
+	{
+		"chi"		"** **"
+	}
+	"0m 59s"
+	{
+		"chi"		"** **"
+	}
+	"0m 58s"
+	{
+		"chi"		"** **"
+	}
+	"0m 57s"
+	{
+		"chi"		"** **"
+	}
+	"0m 56s"
+	{
+		"chi"		"** **"
+	}
+	"0m 55s"
+	{
+		"chi"		"** **"
+	}
+	"0m 54s"
+	{
+		"chi"		"** **"
+	}
+	"0m 53s"
+	{
+		"chi"		"** **"
+	}
+	"0m 52s"
+	{
+		"chi"		"** **"
+	}
+	"0m 51s"
+	{
+		"chi"		"** **"
+	}
+	"0m 50s"
+	{
+		"chi"		"** **"
+	}
+	"0m 49s"
+	{
+		"chi"		"** **"
+	}
+	"0m 48s"
+	{
+		"chi"		"** **"
+	}
+	"0m 47s"
+	{
+		"chi"		"** **"
+	}
+	"0m 46s"
+	{
+		"chi"		"** **"
+	}
+	"0m 45s"
+	{
+		"chi"		"** **"
+	}
+	"0m 44s"
+	{
+		"chi"		"** **"
+	}
+	"0m 43s"
+	{
+		"chi"		"** **"
+	}
+	"0m 42s"
+	{
+		"chi"		"** **"
+	}
+	"0m 41s"
+	{
+		"chi"		"** **"
+	}
+	"0m 40s"
+	{
+		"chi"		"** **"
+	}
+	"0m 39s"
+	{
+		"chi"		"** **"
+	}
+	"0m 38s"
+	{
+		"chi"		"** **"
+	}
+	"0m 37s"
+	{
+		"chi"		"** **"
+	}
+	"0m 36s"
+	{
+		"chi"		"** **"
+	}
+	"0m 35s"
+	{
+		"chi"		"** **"
+	}
+	"0m 34s"
+	{
+		"chi"		"** **"
+	}
+	"0m 33s"
+	{
+		"chi"		"** **"
+	}
+	"0m 32s"
+	{
+		"chi"		"** **"
+	}
+	"0m 31s"
+	{
+		"chi"		"** **"
+	}
+	"0m 30s"
+	{
+		"chi"		"** **"
+	}
+	"0m 29s"
+	{
+		"chi"		"** **"
+	}
+	"0m 28s"
+	{
+		"chi"		"** **"
+	}
+	"0m 27s"
+	{
+		"chi"		"** **"
+	}
+	"0m 26s"
+	{
+		"chi"		"** **"
+	}
+	"0m 25s"
+	{
+		"chi"		"** **"
+	}
+	"0m 24s"
+	{
+		"chi"		"** **"
+	}
+	"0m 23s"
+	{
+		"chi"		"** **"
+	}
+	"0m 22s"
+	{
+		"chi"		"** **"
+	}
+	"0m 21s"
+	{
+		"chi"		"** **"
+	}
+	"0m 20s"
+	{
+		"chi"		"** **"
+	}
+	"0m 19s"
+	{
+		"chi"		"** **"
+	}
+	"0m 18s"
+	{
+		"chi"		"** **"
+	}
+	"0m 17s"
+	{
+		"chi"		"** **"
+	}
+	"0m 16s"
+	{
+		"chi"		"** **"
+	}
+	"0m 15s"
+	{
+		"chi"		"** **"
+	}
+	"0m 14s"
+	{
+		"chi"		"** **"
+	}
+	"0m 13s"
+	{
+		"chi"		"** **"
+	}
+	"0m 12s"
+	{
+		"chi"		"** **"
+	}
+	"0m 11s"
+	{
+		"chi"		"** **"
+	}
+	"0m 10s"
+	{
+		"chi"		"** **"
+	}
+	"0m 09s"
+	{
+		"chi"		"** **"
+	}
+	"0m 08s"
+	{
+		"chi"		"** **"
+	}
+	"0m 07s"
+	{
+		"chi"		"** **"
+	}
+	"0m 06s"
+	{
+		"chi"		"** **"
+	}
+	"0m 05s"
+	{
+		"chi"		"** **"
+	}
+	"0m 04s"
+	{
+		"chi"		"** **"
+	}
+	"0m 03s"
+	{
+		"chi"		"** **"
+	}
+	"0m 02s"
+	{
+		"chi"		"** **"
+	}
+	"0m 01s"
+	{
+		"chi"		"** **"
+	}
+	"Chapter 1 - Welcome to Rapture"
+	{
+		"chi"		"**第一章-欢迎到来 **"
+	}
+	"Difficulty - Hard"
+	{
+		"chi"		"**难度-困难 **"
+	}
+	"Wait for Bathysphere arrival"
+	{
+		"chi"		"**等待潜水装置的到来 **"
+	}
+	"Bathysphere is docking..."
+	{
+		"chi"		"**潜水装置对接… **"
+	}
+	"Get in the Bathysphere"
+	{
+		"chi"		"**进入潜水装置 **"
+	}
+	"Tonic Static Shell
+Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
+Activation: Contact with a splicer"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Incinerate
+Effect: Ignite splicers with a fireball! 
+Duration: 7 Secs
+Uses: 8(Easy)  5(Hard)
+Cooldown: 5 Secs"
+	{
+		"chi"		"焚化质粒
+效果：点燃一个火球！
+持续时间：7秒
+使用次数：8次（简单难度）5次（困难难度）
+冷却时间：5秒"
+	}
+	"Plasmid: Gravity Well
+Effect: Drag your enemies into a pit! 
+Duration: 5 Secs 
+Uses: 5(Easy)  3(Hard)
+Cooldown: 18 Secs"
+	{
+		"chi"		"重力质粒
+效果:把僵尸吸到一起!
+持续时间:5秒
+使用次数:5次(简单难度)3次(困难难度)
+冷却时间:18秒"
+	}
+	"Hold the Atrium"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Electro Bolt
+Effect: Stun splicers with a bolt of electricity!
+Duration: 4 Secs 
+Uses: 6(Easy)  4(Hard)
+Cooldown: 11 Secs"
+	{
+		"chi"		"闪电质粒
+效果:眩晕并伤害僵尸!
+持续时间:4秒
+使用次数:6次(简单难度)4次（困难难度）
+冷却时间:11秒"
+	}
+	"Difficulty - Easy"
+	{
+		"chi"		"**难度-简单 **"
+	}
+	"Plasmid: Winter Blast
+Effect: Freeze your enemies! 
+Duration: 3 Secs 
+Uses: 5(Hard)  3(Easy)
+Cooldown: 13 Secs"
+	{
+		"chi"		"速冻质粒
+效果:冻结僵尸!
+持续时间:3秒
+使用次数:5次(简单难度)3次(困难难度)
+冷却时间:13秒"
+	}
+	"Hold until security door releases"
+	{
+		"chi"		"**守住.直到安全门开启 **"
+	}
+	"Wait for the elevator's arrival"
+	{
+		"chi"		"**等待电梯的到来 **"
+	}
+	"Tonic Flash Flare
+Effect: Your flesh is glowing. Blind the enemies when you die! 
+Activation: Contact with a splicer"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Sonic Boom
+Effect: Blast splicers away with an airwave!
+Duration: 2 Secs
+Uses: 8(Easy)  5(Hard)
+Cooldown: 10 Secs"
+	{
+		"chi"		"音爆质粒
+效果:爆炸将会伤害僵尸并产生冲击波!
+持续时间:2秒
+使用次数:8次(简单难度)5次(困难难度)
+冷却时间:10秒"
+	}
+	"Elevator 1 is leaving"
+	{
+		"chi"		"**电梯1离开 **"
+	}
+	"Hold until the security door releases"
+	{
+		"chi"		"**守住.直到安全门开启 **"
+	}
+	"Rapture Metro is inbound"
+	{
+		"chi"		"**地铁进站了 **"
+	}
+	"Board and defend the Rapture Metro"
+	{
+		"chi"		"**进入地铁并守住 **"
+	}
+	"Chapter 2 - Siren Alley & Fort Frolic"
+	{
+		"chi"		"**第二章-Siren Alley & Fort Frolic **"
+	}
+	"Wait for Siren Alley doors to unlock"
+	{
+		"chi"		"**等待Siren Alley大门解锁 **"
+	}
+	"Hide or hold until the exit has drained"
+	{
+		"chi"		"**生存或守住-直到出口打开 **"
+	}
+	"1m 23s"
+	{
+		"chi"		"** **"
+	}
+	"1m 22s"
+	{
+		"chi"		"** **"
+	}
+	"1m 21s"
+	{
+		"chi"		"** **"
+	}
+	"1m 20s"
+	{
+		"chi"		"** **"
+	}
+	"1m 19s"
+	{
+		"chi"		"** **"
+	}
+	"1m 18s"
+	{
+		"chi"		"** **"
+	}
+	"1m 17s"
+	{
+		"chi"		"** **"
+	}
+	"1m 16s"
+	{
+		"chi"		"** **"
+	}
+	"1m 15s"
+	{
+		"chi"		"** **"
+	}
+	"1m 14s"
+	{
+		"chi"		"** **"
+	}
+	"1m 13s"
+	{
+		"chi"		"** **"
+	}
+	"1m 12s"
+	{
+		"chi"		"** **"
+	}
+	"1m 11s"
+	{
+		"chi"		"** **"
+	}
+	"1m 10s"
+	{
+		"chi"		"** **"
+	}
+	"1m 09s"
+	{
+		"chi"		"** **"
+	}
+	"1m 08s"
+	{
+		"chi"		"** **"
+	}
+	"1m 07s"
+	{
+		"chi"		"** **"
+	}
+	"1m 06s"
+	{
+		"chi"		"** **"
+	}
+	"1m 05s"
+	{
+		"chi"		"** **"
+	}
+	"1m 04s"
+	{
+		"chi"		"** **"
+	}
+	"1m 03s"
+	{
+		"chi"		"** **"
+	}
+	"1m 02s"
+	{
+		"chi"		"** **"
+	}
+	"1m 01s"
+	{
+		"chi"		"** **"
+	}
+	"1m 00s"
+	{
+		"chi"		"** **"
+	}
+	"Hold the Decompression Chamber"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"Defend until Cohen opens the doors"
+	{
+		"chi"		"**直到Cohen打开大门 **"
+	}
+	"Hold the doorway"
+	{
+		"chi"		"**守住门口 **"
+	}
+	"Plasmid: Insect Swarm
+Effect: Harm splicers with a swarm of bees
+Uses: 5(Easy)  3(Hard) 
+Cooldown: 10 Secs"
+	{
+		"chi"		"蜂群质粒
+效果：产生一大群蜜蜂伤害僵尸
+使用次数：5次（简单难度）3次（困难难度）
+冷却时间：10秒 **"
+	}
+	"Defeat Sander Cohen"
+	{
+		"chi"		"**击败Sander Cohen **"
+	}
+	"Stairs are open"
+	{
+		"chi"		"**楼梯已开放 **"
+	}
+	"Wait for Poseidon Plaza to unfreeze"
+	{
+		"chi"		"**等待海神广场解冻 **"
+	}
+	"Defend while the door unfreezes"
+	{
+		"chi"		"**守住.直到大门解冻 **"
+	}
+	"Defend Jasmine Jolie's room"
+	{
+		"chi"		"**守住Jasmine Jolie's的房间 **"
+	}
+	"Chapter 3 - Arcadia"
+	{
+		"chi"		"**第3章 - 阿卡迪亚 **"
+	}
+	"Hold the balcony"
+	{
+		"chi"		"**守住阳台 **"
+	}
+	"Hold Julie Langford's Garden"
+	{
+		"chi"		"**守住朱莉兰福德的花园 **"
+	}
+	"Wait for Hydroponics Drainage to empty"
+	{
+		"chi"		"**等待水排干净 **"
+	}
+	"Hold until the security door unlocks"
+	{
+		"chi"		"**直到安全门解锁 **"
+	}
+	"Detonate and destroy the tunnel"
+	{
+		"chi"		"**引爆，摧毁隧道 **"
+	}
+	"Splicers must not make it past the marker"
+	{
+		"chi"		"**不能让僵尸过去 **"
+	}
+	"ze_bioshock
+by DormantLemon"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Incinerate
+Effect: Ignite splicers with a fireball! 
+Duration: 7 Secs
+Uses: 8(Easy)  5(Hard)
+Cooldo"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Electro Bolt
+Effect: Stun splicers with a bolt of electricity!
+Duration: 4 Secs 
+Uses: 6(Easy)  4(H"
+	{
+		"chi"		"** **"
+	}
+	"Tonic Flash Flare
+Effect: Your flesh is glowing. Blind the enemies when you die! 
+Activation: Contact with a"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Gravity Well
+Effect: Drag your enemies into a pit! 
+Duration: 5 Secs 
+Uses: 5(Easy)  3(Hard)
+Cooldo"
+	{
+		"chi"		"** **"
+	}
+	"Tonic Static Shell
+Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
+Activation: C"
+	{
+		"chi"		"** **"
+	}
+	"Wait for the elevators arrival"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Sonic Boom
+Effect: Blast splicers away with an airwave!
+Duration: 2 Secs
+Uses: 8(Easy)  5(Hard)
+Coo"
+	{
+		"chi"		"** **"
+	}
+	"Call the Rapture Metro"
+	{
+		"chi"		"** **"
+	}
+	"Wait for arrival of Rapture Metro"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Winter Blast
+Effect: Freeze your enemies! 
+Duration: 3 Secs 
+Uses: 5(Hard)  3(Easy)
+Cooldown: 13 Se"
+	{
+		"chi"		"** **"
+	}
+	"Defend Jasmine Jolies room"
+	{
+		"chi"		"** **"
+	}
+	"Hold Julie Langfords Garden"
+	{
+		"chi"		"** **"
+	}
+	"Chapter 4 - Hephaestus"
+	{
+		"chi"		"** **"
+	}
+	"Hepahestus security checks in progress..."
+	{
+		"chi"		"** **"
+	}
+	"Wait for Hephaestus entrance to open"
+	{
+		"chi"		"** **"
+	}
+	"Inner doors opening..."
+	{
+		"chi"		"** **"
+	}
+	"Wait for Trophy Room access"
+	{
+		"chi"		"** **"
+	}
+	"Defend the Trophy Room Doors"
+	{
+		"chi"		"** **"
+	}
+	"Wait for elevator tower doors to open"
+	{
+		"chi"		"** **"
+	}
+	"Evaporate the flood water"
+	{
+		"chi"		"** **"
+	}
+	"Elevator is leaving"
+	{
+		"chi"		"** **"
+	}
+	"Kill the Patriot"
+	{
+		"chi"		"** **"
+	}
+	"Wait for rail access"
+	{
+		"chi"		"** **"
+	}
+	"You must wait for the islands to align"
+	{
+		"chi"		"** **"
+	}
+	"Wait for garden access"
+	{
+		"chi"		"** **"
+	}
+	"Service must conclude before you may enter the church"
+	{
+		"chi"		"** **"
+	}
+	"Elizabeth is searching for a tear"
+	{
+		"chi"		"** **"
+	}
+}
