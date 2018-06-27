@@ -17,7 +17,7 @@
 ---
 1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).
 
-2. 当您提交Pull Request后 在论坛会显示事件 https://bbs.93x.net/plugin.php?id=xnet_events:xnet_events 应该会显示事件 如果没有显示 可能没有成功 请加上一些无用注释 如//再提交一次 (和原不同即可)
+2. 当您提交Pull Request后 在论坛会 [显示事件](https://bbs.93x.net/plugin.php?id=xnet_events:xnet_events). 应该会显示事件 如果没有显示 可能没有成功 请加上一些无用注释 如//再提交一次 和原不同即可)
 
 3. 游戏服务器会每隔24小时 自动检测修改并同步 op / mapper可以输入 !git_update 强行同步
 
