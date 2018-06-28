@@ -21,7 +21,7 @@
 
 3. 游戏服务器会每隔24小时 自动检测修改并同步 op / mapper可以输入 !git_update 强行同步 【请不要在 修改后的 10分钟内输入 否则无法拉到新数据 因为缓存】
 
-![Image text](http://bd.93x.net/maptexthook/imagebuild.php)
+版本会自动变化以让游戏服务器检测 [GIT版本查看地址](http://bd.93x.net/maptexthook/git_version.txt) 审核 / 修改 / 添加 后会自动变化
 
 
 ## 地图修改服务器参数/或指令拦截
