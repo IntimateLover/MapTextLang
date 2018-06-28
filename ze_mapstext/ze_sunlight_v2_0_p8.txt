@@ -14,14 +14,14 @@
 	}
 	"ZE Sunlight"
 	{
-		"chi"		"**ZE 日光**"
+		"chi"		"** **"
 	}
 	"*** Defend for 30 seconds! ***"
 	{
 		"chi"		"**防守30秒 **"
 		"DoorCountdown"		"30"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**还有5秒 **"
 	}
@@ -114,7 +114,7 @@
 	}
 	"[Warmup] Wait for others players to join"
 	{
-		"chi"		"**[热身时间]请等待其他玩家加入**"
+		"chi"		"** **"
 	}
 	"*** Zombies have been teleported. Prepare to charge! ***"
 	{

@@ -47,11 +47,11 @@
 	}
 	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
 	{
-		"chi"		"**拿起火把，烧死所有的日漫痴！！！ ：）**"
+		"chi"		"**拿起火把，烧死所有WEEBS**"
 	}
 	"***HURRY, BEFORE WEEBLAND INVADES US***"
 	{
-		"chi"		"**快点，在日漫痴乐园杀死我们所有人之前！**"
+		"chi"		"**快点，赶在Weebland杀死我们之前**"
 	}
 	"***THE TORCHES BURNS AND PUSHES ZOMBIES***"
 	{
@@ -120,15 +120,15 @@
 	}
 	"*Looks like this is the way out of the computer!*"
 	{
-		"chi"		"**看来这是一条离开这台电脑的道路**"
+		"chi"		"**看来走这条路可以离开这里！**"
 	}
 	"*Gates closing in 5 seconds*"
 	{
-		"chi"		"**大门将在5秒后关闭**"
+		"chi"		"**Gates五秒后关闭**"
 	}
 	"*Gates closing*"
 	{
-		"chi"		"**大门关闭中……**"
+		"chi"		"**Gates已关闭**"
 	}
 	"*Initializing Escape Program Sequence*"
 	{
@@ -184,7 +184,7 @@
 	}
 	"***FIND YOUR LOVE***"
 	{
-		"chi"		"**发现你的爱**"
+		"chi"		"**惊喜你的爱**"
 	}
 	"***SURPRISE YOUR LOVE***"
 	{
@@ -525,15 +525,15 @@
 	}
 	"*Demon Turtle casts Spears*"
 	{
-		"chi"		"**恶魔龟扔出了Spears（小心桥上）**"
+		"chi"		"**恶魔龟扔出了Spears**"
 	}
 	"*Demon Turtle casts Chill*"
 	{
-		"chi"		"**魔龟使用了寒冰（远离平台）**"
+		"chi"		"**恶魔龟使用了寒冰**"
 	}
 	"*Demon Turtle casts Water Blast*"
 	{
-		"chi"		"**恶魔龟使用了水爆（远离中间平台）**"
+		"chi"		"**恶魔龟使用了水爆**"
 	}
 	"*Tiki 2 Broken*"
 	{
@@ -545,23 +545,23 @@
 	}
 	"*Demon 7{{2 casts ERROR#*"
 	{
-		"chi"		"**恶魔龟使用了 ERROR （不用管）**"
+		"chi"		"**恶魔7{{2使用了ERROR#**"
 	}
 	"*Demon Turtle casts 29--"
 	{
-		"chi"		"**恶魔龟使用了casts 29 （往前面平台跳，过会跳回来）**"
+		"chi"		"** **"
 	}
 	"*Demon Turtle 7_) Launch2.0.exe*"
 	{
-		"chi"		"**恶魔龟使用了 跳刀 2.0 （听到刀声后一跳一蹲）**"
+		"chi"		"**恶魔7{{使用了#launch 2.0**"
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
-		"chi"		"**恶魔龟使用了图片攻击（中间平台的躲避图片）**"
+		"chi"		"**恶魔龟使用了图片攻击**"
 	}
 	"*Demon Turtle casts Launch*"
 	{
-		"chi"		"**恶魔龟使用了 Launch（蹲下）**"
+		"chi"		"**恶魔龟使用了Launch**"
 	}
 	"*Something is happening..*"
 	{
@@ -607,7 +607,7 @@
 	{
 		"chi"		"**已购买-守护者**"
 	}
-	"***DEFEND FOR 20 SECONDS***"
+	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
 		"DoorCountdown"		"20"
@@ -626,9 +626,9 @@
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"**5秒时间剩余**"
+		"chi"		"** **"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -648,7 +648,7 @@
 	{
 		"chi"		"**比Daddy要强大**"
 	}
-	"***Defend for 40 seconds***"
+	"***DEFEND FOR 40 SECONDS***"
 	{
 		"chi"		"**守住40秒**"
 		"DoorCountdown"		"40"
@@ -667,18 +667,18 @@
 	}
 	"***DEFEND FOR 60 SECONDS***"
 	{
-		"chi"		"**守住这里60秒**"
+		"chi"		"**守住60秒**"
 		"DoorCountdown"		"60"
 	}
-	"***30 seconds left***"
+	"***30 SECONDS LEFT***"
 	{
-		"chi"		"**30秒剩余时间**"
+		"chi"		"** **"
 	}
 	"***15 SECONDS LEFT***"
 	{
-		"chi"		"**15秒剩余时间**"
+		"chi"		"** **"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
@@ -721,7 +721,7 @@
 	}
 	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
 	{
-		"chi"		"**VAGINA平均每天跑7-8公里**"
+		"chi"		"**Vagina每天平均跑78平方米**"
 	}
 	"***A VAGINA INCLUDES CHILD SUPPORT***"
 	{
@@ -805,7 +805,7 @@
 	}
 	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
 	{
-		"chi"		"**VAGINA让好人重获新生**"
+		"chi"		"**Vagina给生活带来美好的人生**"
 	}
 	"***A VAGINA GIVES BIRTH TO BAD PEOPLE***"
 	{
@@ -817,11 +817,11 @@
 	}
 	"***A VAGINA CANNOT JUMP WITHOUT LEG FRIENDS***"
 	{
-		"chi"		"**VAGINA没有双腿不能跳**"
+		"chi"		"**Vagina不能跳**"
 	}
 	"***A VAGINA USUALLY CAUSES SMOKING***"
 	{
-		"chi"		"**VAGINA通常导致周围烟雾缭绕**"
+		"chi"		"**Vagina通常导致吸烟**"
 	}
 	"***A VAGINA WANTS TO SPIT YOU OUT***"
 	{
@@ -833,11 +833,11 @@
 	}
 	"***NOW GO OUT THERE AND DIDDLE EACH OTHER***"
 	{
-		"chi"		"**现在离开这里，欺骗每一个人**"
+		"chi"		"**现在开始和任何一个**"
 	}
 	"***DADDY IS PROUD OF YOU***"
 	{
-		"chi"		"**爸爸为你感到自豪**"
+		"chi"		"**Daddy为你祝福**"
 	}
 	"**jizz attack left**"
 	{
@@ -951,7 +951,7 @@
 	}
 	"***LOVE ISNT ALWAYS ON TIME***"
 	{
-		"chi"		"**爱并不永远在线**"
+		"chi"		"**爱永远在一起**"
 	}
 	"***OH NO***"
 	{
@@ -1007,7 +1007,7 @@
 	}
 	"***THE ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"chi"		"**电梯将会在10秒后离开**"
+		"chi"		"** **"
 	}
 	"***THE ELEVATOR LEAVES IN 5 SECONDS***"
 	{
@@ -1023,7 +1023,7 @@
 	}
 	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"**中间的门将会在5秒后打开**"
+		"chi"		"** **"
 	}
 	"***THE MIDDLE GATE IS DIDDLED***"
 	{
@@ -1031,7 +1031,7 @@
 	}
 	"***THE TOWER GATE IS OPENING IN 10 SECONDS***"
 	{
-		"chi"		"**塔门将在10秒后为我们打开**"
+		"chi"		"** **"
 	}
 	"***THE TOWER GATE IS OPENING IN 5 SECONDS***"
 	{
@@ -1101,7 +1101,7 @@
 	{
 		"chi"		"**DIDDLE DICK被击败了**"
 	}
-	"***DEFEND FOR 10 SECONDS***"
+	"***Defend for 10 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -1153,7 +1153,7 @@
 	{
 		"chi"		"**已购买-推力枪**"
 	}
-	"***Resetting the map***"
+	"***RESETTING THE MAP***"
 	{
 		"chi"		"**重置地图**"
 	}
@@ -1247,7 +1247,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"5626"
+		"syncvalue"		"82646"
 	}
 	"zombie ladder is open"
 	{
@@ -1331,21 +1331,21 @@
 	}
 	"*****ROUND END*****"
 	{
-		"chi"		"**回合结束，QAQ**"
+		"chi"		"** **"
 	}
 	"<== You must find the bomb to open the way"
 	{
-		"chi"		">>>==你必须寻找 炸弹 用来打开道路==<<<"
+		"chi"		"** **"
 	}
-	"<== Wait 25 second to go to heilcopter==>"
+	"defend for 30 sec"
 	{
 		"chi"		"** **"
 	}
 	"***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***"
 	{
-		"chi"		"**-没有足够的人类-处死以保存时间-**"
+		"chi"		"** **"
 	}
-	"defend for 30 sec"
+	"<== Wait 25 second to go to heilcopter==>"
 	{
 		"chi"		"** **"
 	}
@@ -1367,19 +1367,27 @@
 	}
 	"***ZOMBIES REACHED ELEVATOR - YOURE DEAD***"
 	{
-		"chi"		"**僵尸抵达了电梯——你完了 XwX**"
-	}
-	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
-	{
 		"chi"		"** **"
 	}
 	"***DEFEND FOR 50 SECONDS***"
 	{
 		"chi"		"** **"
 	}
+	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
+	{
+		"chi"		"** **"
+	}
+	"hold 15sec"
+	{
+		"chi"		"** **"
+	}
 	"<==Get in the helicopter and out in 80s ==>"
 	{
-		"chi"		">>><==进入直升机防守80秒==><<<"
+		"chi"		"** **"
 	}
 	"<==helicopter fly out in 30s ==>"
 	{
@@ -1393,34 +1401,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
-	{
-		"chi"		"****如果你花太长时间（2：20内）你将会被传送出去****"
-	}
-	"hold 15sec"
-	{
-		"chi"		"** **"
-	}
 	"<<<ZOMBIE TP TO BOSS>>>"
 	{
-		"chi"		">>><< 一只僵尸已传送至BOSS脚下>><<<"
-	}
-	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
-	{
 		"chi"		"** **"
 	}
-	"BUILD A LADDER ||-----||"
-	{
-		"chi"		"****造一条梯子****"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_molotov_limit 3"
-		}
-	}
-	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
+	"***YOU TOOK TOO LONG - RELEASING ZOMBIES***"
 	{
 		"chi"		"** **"
 	}

@@ -7,16 +7,16 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -35,13 +35,13 @@
 	"*** Hold 50 seconds ***"
 	{
 		"chi"		"**守住50秒 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"*** DOWNBURST ***"
 	{
 		"chi"		"**下爆气流（倒计时结束按住W）**"
 		"ico"		"icon_fire"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** UPDRAFT ***"
 	{
@@ -51,7 +51,7 @@
 	"*** Hold 10 seconds ***"
 	{
 		"chi"		"**守住10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** FLAME RADIATION ***"
 	{
@@ -141,30 +141,6 @@
 		"0"
 		{
 			"cvar"		"zr_poison_enabled 0"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar sm_molotov_limit 2"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar sm_decoy_limit 1"
-		}
-		"4"
-		{
-			"cvar"		"sm_g_cv_money 15000"
-		}
-		"5"
-		{
-			"cvar"		"sm_cvar sm_g_cv_money 15000"
-		}
-		"6"
-		{
-			"cvar"		"sm_decoy_limit 1"
 		}
 	}
 }

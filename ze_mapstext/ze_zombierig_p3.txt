@@ -6,12 +6,12 @@
 	}
 	"<<MAP BY TaskuVaras>>"
 	{
-		"chi"		">>>地图作者：TaskuVaras 地图翻译:IntimateLover<<<"
+		"chi"		"**地图制作：TaskuVaras 地图翻译：蓬莱山帅比♪**"
 	}
-	"***Defend for 30 seconds***"
+	"***defend for 30 seconds***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***5 seconds to go***"
 	{
@@ -36,7 +36,7 @@
 	"***chopper leaving in 40 seconds***"
 	{
 		"chi"		"**直升机在40秒后离开 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***GET TO THE CHOPPER!!***"
 	{
@@ -69,7 +69,7 @@
 	"*** boat leaving in 30 seconds***"
 	{
 		"chi"		"**船将在30秒后离开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** GET TO THE BOAT***"
 	{

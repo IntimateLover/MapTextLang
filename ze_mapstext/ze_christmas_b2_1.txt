@@ -3,7 +3,7 @@
 	"***Elevator doors closing in 5 seconds***"
 	{
 		"chi"		"**电梯门5秒后关闭 **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Hold for 5 seconds***"
 	{
@@ -12,12 +12,12 @@
 	"***Hold for 10 seconds***"
 	{
 		"chi"		"**坚持10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***Doors closing in 30 seconds***"
 	{
 		"chi"		"**门30秒后关闭 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***ZOMBIES IN SAFE ZONE!!!***"
 	{
@@ -34,12 +34,12 @@
 	"**Sleigh leaving in 5 seconds**"
 	{
 		"chi"		"**雪橇在5秒后离开 **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
-	"***ELEVATOR LEAVING IN 20 SECONDS***"
+	"***Elevator leaving in 20 seconds***"
 	{
 		"chi"		"**电梯20秒后离开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***5 seconds left***"
 	{
@@ -48,7 +48,7 @@
 	"***Station Doors will open in 10 seconds***"
 	{
 		"chi"		"**车站门会在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***Station Doors are open***"
 	{
@@ -74,10 +74,10 @@
 	{
 		"chi"		"**它很快就要爆炸了 **"
 	}
-	"***HOLD FOR 15 SECONDS***"
+	"***Hold for 15 seconds***"
 	{
 		"chi"		"**坚持15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"**Level completed**"
 	{
@@ -87,10 +87,10 @@
 	{
 		"chi"		"**>> 第三关 << **"
 	}
-	"***DEFEND FOR 20 SECONDS***"
+	"***Defend for 20 seconds***"
 	{
 		"chi"		"**防守20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
@@ -107,12 +107,12 @@
 	"***Elevator leaving in 5 seconds***"
 	{
 		"chi"		"**电梯5秒后离开 **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
-	"***HOLD FOR 20 SECONDS***"
+	"***Hold for 20 seconds***"
 	{
 		"chi"		"**坚持20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Hold for 5seconds***"
 	{
@@ -125,12 +125,12 @@
 	"***Elevator doors closing in 10 seconds***"
 	{
 		"chi"		"**电梯门10秒后关闭 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Sleigh leaving in 20 seconds**"
 	{
 		"chi"		"**雪橇在20秒后离开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Sleigh leaving in 10 seconds**"
 	{
@@ -159,7 +159,7 @@
 	"***Exit Door will open in 20 seconds***"
 	{
 		"chi"		"**出口门会在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Exit Door will open in 10 seconds***"
 	{
@@ -176,7 +176,7 @@
 	"***Hold for 30 seconds***"
 	{
 		"chi"		"**坚持30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"710 Cat Found"
 	{
@@ -188,7 +188,7 @@
 	}
 	">> Map by Taskuvaras  Fixed with Moltard <<"
 	{
-		"chi"		">>>地图制作：Taskuvaras 地图修复：Moltard  地图翻译：IntimateLover<<<"
+		"chi"		"**>> 地图制作：Taskuvaras 地图修复：Moltard 地图翻译：蓬莱山帅比♪ **"
 	}
 	">> LEVEL: 1 <<"
 	{
@@ -201,12 +201,12 @@
 	"***Door opening in 20 seconds***"
 	{
 		"chi"		"**门20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Hold here for 10 seconds***"
 	{
 		"chi"		"**在这里守住10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"110 Cat Found"
 	{
@@ -232,10 +232,10 @@
 	{
 		"chi"		"** **"
 	}
-	"***DEFEND FOR 10 SECONDS***"
+	"***Defend for 10 seconds***"
 	{
 		"chi"		"**防守10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	">> ZOMBIES INSIDE THE ELEVATOR <<"
 	{

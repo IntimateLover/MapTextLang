@@ -198,31 +198,4 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Current survivors has won the contest ! ***"
-	{
-		"chi"		"** **"
-	}
-	"Remember to provide a screenshotdemoproof of your win"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_he_limit 4"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_g_cv_money 8888"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar sm_molotov_limit 2"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar mp_timelimit 60"
-		}
-	}
 }

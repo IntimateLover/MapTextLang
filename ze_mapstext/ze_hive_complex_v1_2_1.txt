@@ -277,17 +277,6 @@
 	}
 	"*** Hive complex will explode in 5 seconds ***"
 	{
-		"chi"		"**蜂巢将在5秒后爆炸**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"snd_disable_legacy_audio_cache 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_g_cv_money 6000"
-		}
+		"chi"		"**蜂巢将在25秒后爆炸 **"
 	}
 }

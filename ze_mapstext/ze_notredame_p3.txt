@@ -20,7 +20,7 @@
 	"###Gutter Gate Will Open in 30 Seconds...Survive###"
 	{
 		"chi"		"### 排水沟将在 30 秒后打开...防守住！不要贴边！ ###"
-
+		"DoorCountdown"		"30"
 	}
 	"###Gutter Gate Open...Run!###"
 	{

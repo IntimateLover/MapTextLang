@@ -523,7 +523,7 @@
 	{
 		"chi"		"**EXORATH正在充能[终极湮没]**"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩下5秒**"
 	}
@@ -796,39 +796,11 @@
 	{
 		"chi"		"** **"
 	}
-	"** EXTREME MODE FAILED **"
+	"** EXTREME MODE COMPLETE **"
 	{
 		"chi"		"** **"
 	}
 	"** BONUS ACTIVE ** RELOADING EXTREME MODE **"
-	{
-		"chi"		"** **"
-	}
-	"** GODMODE SELECTED **"
-	{
-		"chi"		"** **"
-	}
-	"** IMPOSSIBLE MODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
-	{
-		"chi"		"** **"
-	}
-	"** MASSIVE NUKE INCOMMING **"
-	{
-		"chi"		"** **"
-	}
-	"** 3 **"
-	{
-		"chi"		"** **"
-	}
-	"** 2 **"
-	{
-		"chi"		"** **"
-	}
-	"** 1 **"
-	{
-		"chi"		"** **"
-	}
-	"** EASY MODE SELECTED **"
 	{
 		"chi"		"** **"
 	}

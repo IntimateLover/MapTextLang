@@ -897,7 +897,7 @@
 	{
 		"chi"		"**等待发生什么事情**"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -1047,7 +1047,7 @@
 	}
 	"*** FLYING CHANCE ***"
 	{
-		"chi"		"**飞跃**"
+		"chi"		"** **"
 	}
 	"*** ESC STORM ***"
 	{
@@ -1127,7 +1127,7 @@
 	}
 	"*** Screen trigger ***"
 	{
-		"chi"		"**触发屏幕**"
+		"chi"		"** **"
 	}
 	"*** TIME UP !! Someone go to the goal !! ***"
 	{
@@ -2407,10 +2407,6 @@
 		"chi"		"** **"
 	}
 	"Girl CLOUD :?? My machine is strong from wind!! that cant effect me !!"
-	{
-		"chi"		"** **"
-	}
-	"CLOUD FATHER : I will do the my best..."
 	{
 		"chi"		"** **"
 	}

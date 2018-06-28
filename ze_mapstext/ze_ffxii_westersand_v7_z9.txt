@@ -19,31 +19,30 @@
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
 		"chi"		"**防守25秒，直到守卫开放道路**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"25"
 	}
 	"** A player has learned Wind magick. **"
 	{
 		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
 	}
-	"** 5 seconds left **"
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**还剩5秒**"
-		"DoorCountdown"		"0"
 	}
 	"** Defend here so the guards will open the gates to the city! **"
 	{
 		"chi"		"**守住这里，直到守卫开放前往城市的道路**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Cover here till the rock explodes **"
 	{
-		"chi"		"**守住25秒-直到石头爆炸**"
-		"DoorCountdown"		"0"
+		"chi"		"**守住这里直到前方石头爆炸**"
+		"DoorCountDown"		"25"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开!**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"20"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
@@ -52,17 +51,15 @@
 	"** The first door will open in 10 seconds **"
 	{
 		"chi"		"**第一道门将在10秒后打开**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"10"
 	}
 	"** The second door will open in 15 seconds **"
 	{
 		"chi"		"**第二道门将在15秒后打开**"
-		"DoorCountdown"		"0"
 	}
 	"** A player has learned Heal magick. **"
 	{
 		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
-		"DoorCountdown"		"-1"
 	}
 	"** Keep defending!! **"
 	{
@@ -75,7 +72,6 @@
 	"** METEOR INBOUND **"
 	{
 		"chi"		"**陨石将至**"
-		"DoorCountdown"		"5"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
@@ -116,7 +112,7 @@
 	"** Cover 20 seconds till the rock explodes **"
 	{
 		"chi"		"**防守20秒直到石头爆炸**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"20"
 	}
 	"** A player has learned Fire magick. **"
 	{
@@ -129,7 +125,6 @@
 	"** FIRE NOVA INBOUND **"
 	{
 		"chi"		"**大火来袭**"
-		"DoorCountdown"		"5"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
@@ -146,7 +141,7 @@
 	"** Cover 30 seconds till the rock explodes **"
 	{
 		"chi"		"**防守30秒直到石头爆炸**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"30"
 	}
 	"** 70 SECS REMAINING **"
 	{
@@ -191,7 +186,7 @@
 	"** Teleporter will be ready in 20 seconds! **"
 	{
 		"chi"		"**20秒后开启传送**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"20"
 	}
 	"** Teleporter will be ready in 5 seconds! **"
 	{
@@ -228,7 +223,7 @@
 	"** Defend here for 30 seconds **"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"30"
 	}
 	"** The airship reactors are going to explode!! **"
 	{
@@ -250,7 +245,7 @@
 	{
 		"chi"		"**上帝难度[GOD]**"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"** **"
 	}
@@ -264,7 +259,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"30102"
+		"syncvalue"		"6958"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
@@ -277,61 +272,5 @@
 	"** The dragon has been defeated! GOGOGO **"
 	{
 		"chi"		"**巨龙已死，逃离这个地方**"
-	}
-	"[3 WINS IN A ROW] Easteregg unlocked!"
-	{
-		"chi"		"** **"
-	}
-	"** Congratulations - You won [GODMODE] **"
-	{
-		"chi"		"** **"
-	}
-	"** THANKS FOR PLAYING **"
-	{
-		"chi"		"** **"
-	}
-	"[ZOMBIE MODE]"
-	{
-		"chi"		"** **"
-	}
-	"** NUKE IN 80 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
-	{
-		"chi"		"** **"
-	}
-	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
-	{
-		"chi"		"** **"
-	}
-	"** ZOMBIES RELEASED IN 2 SECS **"
-	{
-		"chi"		"** **"
-	}
-	"** NUKE IN 20 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"[WINNER] Selected [GOD MODE] for next round"
-	{
-		"chi"		"** **"
-	}
-	"[WINNER] Selected [HARD MODE] for next round"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"[WINNER] Selected [EXTREME MODE] for next round"
-	{
-		"chi"		"** **"
-	}
-	"[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds."
-	{
-		"chi"		"** **"
 	}
 }

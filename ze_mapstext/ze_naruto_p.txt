@@ -44,21 +44,21 @@
 	{
 		"chi"		"**10秒后传送在出生点的挂机玩家 **"
 	}
-	"** 20 seconds left **"
+	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"** 还剩20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
 		"chi"		"**洞穴的路将于20秒内开放！ **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
 		"chi"		"**清理在出生点的挂机玩家 **"
 	}
-	"** 10 seconds left **"
+	"** 10 SECONDS LEFT **"
 	{
 		"chi"		"**还剩10秒 **"
 	}
@@ -66,7 +66,7 @@
 	{
 		"chi"		"**洞穴的路将在10秒内开放！ **"
 	}
-	"** 5 Seconds left **"
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -89,7 +89,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -126,7 +126,7 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒内打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Door will open in 5 seconds **"
 	{
@@ -135,7 +135,7 @@
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要坚守小镇45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -271,7 +271,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"86421"
+		"syncvalue"		"21312"
 	}
 	"***!!! THIS IS A WARMUP ROUND !!!***"
 	{
@@ -309,7 +309,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
@@ -361,6 +361,10 @@
 	{
 		"chi"		"** **"
 	}
+	"*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
+	{
+		"chi"		"** **"
+	}
 	"***25 SECONDS LEFT***"
 	{
 		"chi"		"** **"
@@ -374,10 +378,6 @@
 		"chi"		"** **"
 	}
 	"***DOOR WILL OPEN IN 15 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
 	{
 		"chi"		"** **"
 	}
@@ -425,15 +425,15 @@
 	{
 		"chi"		"** **"
 	}
-	"***DEFEND AGAIN 15s***"
-	{
-		"chi"		"** **"
-	}
 	"***NARUTO HAS BEEN KILLED BY ZOMBIES***"
 	{
 		"chi"		"** **"
 	}
 	"***HUMANS NOW CANT PROTECT THE VILLAGE***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND AGAIN 15s***"
 	{
 		"chi"		"** **"
 	}
@@ -445,94 +445,6 @@
 	{
 		"chi"		"** **"
 	}
-	"***Admin Room Abuse ! Next Difficulty : Extrem ***"
-	{
-		"chi"		"** **"
-	}
-	"***Admin Room Abuse ! Kill all players ***"
-	{
-		"chi"		"** **"
-	}
-	"***!!! CURRENT DIFFICULTY EXTREM !!!***"
-	{
-		"chi"		"** **"
-	}
-	"***Naruto is fighting Sasuke! Go find and help him!***"
-	{
-		"chi"		"** **"
-	}
-	"***35 SECONDS LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***45 SECONDS LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***40 SECOND LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***NARUTO IS FIGHTING AGAINST SASUKE***"
-	{
-		"chi"		"** **"
-	}
-	"***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***"
-	{
-		"chi"		"** **"
-	}
-	"***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***"
-	{
-		"chi"		"** **"
-	}
-	"***SASUKE IS PREPARING HIS ATTACK! WATCH OUT!***"
-	{
-		"chi"		"** **"
-	}
-	"***SASUKE HAS CLONED HIMSELF***"
-	{
-		"chi"		"** **"
-	}
-	"***KILL ALL CLONES BEFORE THEY ATTACK***"
-	{
-		"chi"		"** **"
-	}
-	"***USE YOUR GRENADE TO DO MORE DAMAGE***"
-	{
-		"chi"		"** **"
-	}
-	"***SASUKE SUCCEEDED HIS ATTACK***"
-	{
-		"chi"		"** **"
-	}
-	"***WE DONT HAVE THE RIGHT TO MAKE ANOTHER ERROR***"
-	{
-		"chi"		"** **"
-	}
-	"***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***"
-	{
-		"chi"		"** **"
-	}
-	"***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***"
-	{
-		"chi"		"** **"
-	}
-	"***YOU DID IT !!! YOU DEFEATED SASUKE***"
-	{
-		"chi"		"** **"
-	}
-	"***YOU BEAT EXTREME DIFFICULTY***"
-	{
-		"chi"		"** **"
-	}
-	"***YOU CAN CHOOSE THE NEXT DIFFICULTY***"
-	{
-		"chi"		"** **"
-	}
-	"***NEXT DIFFICULTY : NORMAL ***"
-	{
-		"chi"		"** **"
-	}
 	"***HUMANS SUCCEFULLY DEFEND KONOHA***"
 	{
 		"chi"		"** **"
@@ -540,25 +452,8 @@
 	"***KILL ALL ZOMBIE SURVIVOR***"
 	{
 		"chi"		"** **"
-		"command"		"zr_class_modify zombies health_regen_amount 1“
-	}
-	"
-		"***NEXT"		"DIFFICULTY"
-		"EXTREM***"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-		"		"command"
-		"  "		"zr_class_modify"
-		"zombies"		"health_regen_amount"
 	}
 	"***NEXT DIFFICULTY  EXTREM***"
-	{
-		"chi"		"** **"
-	}
-	"***NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE***"
 	{
 		"chi"		"** **"
 	}

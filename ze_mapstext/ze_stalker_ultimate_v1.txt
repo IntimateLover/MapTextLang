@@ -10,7 +10,7 @@
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to LonllY POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"**地图制作：gleb_erilov(HeadshooterSC) 地图翻译：IntimateLover 特别感谢：LonllY POMKA Said Z-O-M-B-I-E的各位**"
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪  特别感谢：LonllY POMKA Said Z-O-M-B-I-E的各位 **"
 	}
 	"Type in console mat_colorcorrection 1 for dynamic effects!!"
 	{
@@ -97,7 +97,7 @@
 	"Hold this position for 10 seconds!!"
 	{
 		"chi"		"**守住这里10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
@@ -106,7 +106,7 @@
 	"Survive for 70 seconds"
 	{
 		"chi"		"**生存70秒 **"
-		"DoorCountdown"		"70"
+		"DoorCountDown"		"70"
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
@@ -127,7 +127,7 @@
 	"**Hold the place for 25 seconds**"
 	{
 		"chi"		"**守住这个位置25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"***Break the spheres to escape***"
 	{
@@ -168,17 +168,17 @@
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
 		"chi"		"**等待门打开（10秒） **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**The door wil open in 10 seconds**"
 	{
 		"chi"		"**门会在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Hold this way for 10 seconds**"
 	{
 		"chi"		"**守住这里10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Its dead. Good job**"
 	{
@@ -228,7 +228,7 @@
 	"**Hold here for 25 seconds**"
 	{
 		"chi"		"**在这里守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**And then go to the pool**"
 	{
@@ -284,7 +284,7 @@
 	"**PREPARE TO MOVE IN 10 SECONDS!**"
 	{
 		"chi"		"**准备在10秒后撤退 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**GO!!**GO!!**GO!!**"
 	{
@@ -368,165 +368,5 @@
 	"**FAIL DETECTED**GLITCH WIN PROTECTION IS ON**"
 	{
 		"chi"		"** **"
-	}
-	"**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**"
-	{
-		"chi"		"** **"
-	}
-	"**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**"
-	{
-		"chi"		"** **"
-	}
-	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
-	{
-		"chi"		"** **"
-	}
-	"**15 SECONDS LEFT**"
-	{
-		"chi"		"** **"
-	}
-	"**5 SECONDS LEFT**"
-	{
-		"chi"		"** **"
-	}
-	"**STAGE 1 is beaten. Moving on STAGE 2**"
-	{
-		"chi"		"** **"
-	}
-	"**STAGE 2**POLTERGEIST FIGHT"
-	{
-		"chi"		"** **"
-	}
-	"Map by Headshooter.SC  Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
-	{
-		"chi"		"** **"
-	}
-	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**"
-	{
-		"chi"		"** **"
-	}
-	"**A player picked up fireball(FIRE)**"
-	{
-		"chi"		"** **"
-	}
-	"**A player picked up meatchunk(PUSHERGRAVITY on STAGE 3 4 5)**"
-	{
-		"chi"		"** **"
-	}
-	"**Lab door 2 will open in 13 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**A player picked up flash(ELECTROULTIMA on STAGE 3 4 5)**"
-	{
-		"chi"		"** **"
-	}
-	"**Lab door 1 will open in 11 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Lab door 2 will open for zombies in 18 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Lab door 1 will open for zombies in 18 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombie shield is activated. You have 15 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**A player picked up a piece of flesh(WIND)**"
-	{
-		"chi"		"** **"
-	}
-	"***The control panel seems without power. Maybe using the lever will help***"
-	{
-		"chi"		"** **"
-	}
-	"**The gates will open in 30 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"***Seems that works. Try to use the control panel to open the gates***"
-	{
-		"chi"		"** **"
-	}
-	"**Zombie shield is disabled**"
-	{
-		"chi"		"** **"
-	}
-	"**Hold this position for 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Hold for 5 seconds before the gates open**"
-	{
-		"chi"		"** **"
-	}
-	"**Wait for others for 5 more seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Hold 25 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Hurry! Fall back to the right side!!**"
-	{
-		"chi"		"** **"
-	}
-	"**This is the last hold point**Hold them 25 seconds until door closes**"
-	{
-		"chi"		"** **"
-	}
-	"**There are zombies in. The level is failed.**"
-	{
-		"chi"		"** **"
-	}
-	"**STAGE 3**ROAD TO PRIPYAT"
-	{
-		"chi"		"** **"
-	}
-	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**"
-	{
-		"chi"		"** **"
-	}
-	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**"
-	{
-		"chi"		"** **"
-	}
-	"**We got a bomb. But whats this?**"
-	{
-		"chi"		"** **"
-	}
-	"**The bomb is planted. Wait until the debris break**"
-	{
-		"chi"		"** **"
-	}
-	"**Bloodsucker was picked up**"
-	{
-		"chi"		"** **"
-	}
-	"**STAGE 1**ROAD TO CHERNOBYL"
-	{
-		"chi"		"** **"
-	}
-	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**"
-	{
-		"chi"		"** **"
-	}
-	"**Survive for 70 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"64314"
 	}
 }
