@@ -2,19 +2,19 @@
 {
 	"Act I:Initial Contact"
 	{
-		"chi"		"** **"
+		"chi"		"**第一幕：初次接触 **"
 	}
 	"Difficulty:Normal"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：普通 **"
 	}
 	"Location:Frostwind Valley"
 	{
-		"chi"		"** **"
+		"chi"		"**位置：寒风峡谷 **"
 	}
 	"Hold 25 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
 	}
 	">>24<<"
 	{
@@ -22,7 +22,7 @@
 	}
 	"SQUARE ENTRANCE"
 	{
-		"chi"		"** **"
+		"chi"		"**广场入口 **"
 	}
 	">>23<<"
 	{
@@ -118,31 +118,31 @@
 	}
 	"The exit of the suqare is closed"
 	{
-		"chi"		"** **"
+		"chi"		"**广场出口已关闭 **"
 	}
 	"Try to find a way to open the gate"
 	{
-		"chi"		"** **"
+		"chi"		"**试着找到一种方法来打开出口 **"
 	}
 	"The crystal has beem smashed"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶已破碎 **"
 	}
 	"SQUARE EXIT"
 	{
-		"chi"		"** **"
+		"chi"		"**广场出口 **"
 	}
 	"Hold for a while till the gate open"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里-知道大门打开 **"
 	}
 	"Now get down to the ropeway platform"
 	{
-		"chi"		"** **"
+		"chi"		"**现在去到索道平台 **"
 	}
 	"Hang up your slide hook"
 	{
-		"chi"		"** **"
+		"chi"		"**准备去到对面平台 **"
 	}
 	">>29<<"
 	{
@@ -150,11 +150,11 @@
 	}
 	"ROPEWAY"
 	{
-		"chi"		"** **"
+		"chi"		"**索道 **"
 	}
 	"Well set out when everyone is ready"
 	{
-		"chi"		"** **"
+		"chi"		"**当所有人准备好了后就出发 **"
 	}
 	">>28<<"
 	{
@@ -174,35 +174,35 @@
 	}
 	"The way to the temple is blocked"
 	{
-		"chi"		"** **"
+		"chi"		"**去往神殿的路已被封锁 **"
 	}
 	"Get ready for your C4 bomb"
 	{
-		"chi"		"** **"
+		"chi"		"**准备好C4炸弹 **"
 	}
 	"C4 has been planted"
 	{
-		"chi"		"** **"
+		"chi"		"**C4已安放 **"
 	}
 	"LARGE ROCKS"
 	{
-		"chi"		"** **"
+		"chi"		"**大岩石 **"
 	}
 	"Get back!C4 is about to explode!"
 	{
-		"chi"		"** **"
+		"chi"		"**后退-C4即将爆炸 **"
 	}
 	"Cover here till we open the gate"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里-知道大门打开 **"
 	}
 	"SQUARE GATE"
 	{
-		"chi"		"** **"
+		"chi"		"**广场大门 **"
 	}
 	"Thats the Evernight Temple"
 	{
-		"chi"		"** **"
+		"chi"		"**这里就是永夜神殿 **"
 	}
 	">>99<<"
 	{
@@ -210,11 +210,11 @@
 	}
 	"EVERNIGHT TEMPLE"
 	{
-		"chi"		"** **"
+		"chi"		"**永夜神殿 **"
 	}
 	"Lets get into it"
 	{
-		"chi"		"** **"
+		"chi"		"**准备进入 **"
 	}
 	">>98<<"
 	{
@@ -250,7 +250,7 @@
 	}
 	"Whats thata big cloud of smoke"
 	{
-		"chi"		"** **"
+		"chi"		"**那是什么-一片烟雾？ **"
 	}
 	">>90<<"
 	{
@@ -274,7 +274,7 @@
 	}
 	"Itt coming to us!shot it!shot it!"
 	{
-		"chi"		"** **"
+		"chi"		"**他过来了-开枪！ **"
 	}
 	">>85<<"
 	{
@@ -338,7 +338,7 @@
 	}
 	"Its an image of Basil..."
 	{
-		"chi"		"** **"
+		"chi"		"**这是巴塞勒的影像 **"
 	}
 	">>70<<"
 	{
@@ -350,7 +350,7 @@
 	}
 	"now he must know were here..."
 	{
-		"chi"		"** **"
+		"chi"		"**现在他已经知道这里发生了什么 **"
 	}
 	">>68<<"
 	{
@@ -362,7 +362,7 @@
 	}
 	"We have to hurry up,lets move"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须抓紧行动 **"
 	}
 	">>66<<"
 	{
