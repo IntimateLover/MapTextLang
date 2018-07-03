@@ -180,7 +180,7 @@
 	}
 	"Ummm, maybe she wouldnt beat up the teachers ..."
 	{
-		"chi"		"**嗯，或许她不能战胜老师**"
+		"chi"		"**嗯，也许她不会打老师... **"
 	}
 	"Shes too cool to ever hurt an innocent person !"
 	{
@@ -659,7 +659,7 @@
 		"chi"		"**守住30秒 **"
 		"DoorCountdown"		"30"
 	}
-	"*** 20 SECONDS LEFT ***"
+	"*** 20 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -673,7 +673,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"72361"
+		"syncvalue"		"40201"
 	}
 	"If you were standing just a LITTLE bit to the left ... !"
 	{
@@ -684,10 +684,6 @@
 		"chi"		"** **"
 	}
 	"Youre gonna have to try a little harder than THAT !"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

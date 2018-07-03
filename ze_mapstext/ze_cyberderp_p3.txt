@@ -27,7 +27,7 @@
 	"* * Hold here for 20 seconds * *"
 	{
 		"chi"		"**在这里守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"* * 3 seconds left * *"
 	{
@@ -36,7 +36,7 @@
 	"* * Left route door will open in 20 seconds * *"
 	{
 		"chi"		"**左边路的门会在20秒内打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
 	{
@@ -45,7 +45,7 @@
 	"* * Wait 23 seconds * *"
 	{
 		"chi"		"**等待23秒 **"
-		"DoorCountdown"		"23"
+		"DoorCountDown"		"23"
 	}
 	"* * Press both buttons at the same time * *"
 	{
@@ -74,7 +74,7 @@
 	"* * Door opening in 25 seconds * *"
 	{
 		"chi"		"**门25秒后打开   **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
@@ -91,17 +91,17 @@
 	"* * * Starting elevator * * * 20 seconds * * *"
 	{
 		"chi"		"** 20秒后启动电梯 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"* * * The door will open in 15 seconds * * *"
 	{
 		"chi"		"**门将在15秒打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"* * * Hold 15 seconds * * *"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"* * * 5 seconds left * * *"
 	{
@@ -110,7 +110,7 @@
 	"* * Wait 15 seconds * *"
 	{
 		"chi"		"**等待15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"* * You can pass * *"
 	{
@@ -123,7 +123,7 @@
 	"* * 15 seconds until final teleport * *"
 	{
 		"chi"		"**守住15秒，直到最终传送 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"* * Humans must reach the arena or they will be teleported * *"
 	{
@@ -141,7 +141,7 @@
 	"* * 25 seconds until this... thing... starts * *"
 	{
 		"chi"		"**守住25秒，直到这个…事情...开始 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"* * Resist! * * It all will end soon * *"
 	{
@@ -158,7 +158,7 @@
 	"* * * Door opening in 12 seconds * * *"
 	{
 		"chi"		"**门12秒后打开 **"
-		"DoorCountdown"		"12"
+		"DoorCountDown"		"12"
 	}
 	"* * * Door opening in 3 seconds * * *"
 	{
@@ -167,7 +167,7 @@
 	"* * * The bridge will be enabled in 25 seconds * * *"
 	{
 		"chi"		"**大桥将在25秒内启用 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"* * * MOVE * * *"
 	{
@@ -176,12 +176,12 @@
 	"* * * Exit door will open in 10 seconds * * *"
 	{
 		"chi"		"**出口门会在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"* * * Hold this position for 30 seconds * * *"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"* * * 10 seconds left * * *"
 	{
@@ -190,7 +190,7 @@
 	"* * Top door will open in 15 seconds * *"
 	{
 		"chi"		"**门在15秒后打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"* * Top door will open in 3 seconds * *"
 	{
@@ -199,7 +199,7 @@
 	"* * * Top exit door will open in 13 seconds * * *"
 	{
 		"chi"		"**上出口门将在13秒打开 **"
-		"DoorCountdown"		"13"
+		"DoorCountDown"		"13"
 	}
 	"* * * There must be a way to open that door * * *"
 	{
@@ -248,7 +248,7 @@
 	"> THE CORE WILL BE READY IN 21 SECONDS <"
 	{
 		"chi"		"**核心将在21秒就绪 **"
-		"DoorCountdown"		"21"
+		"DoorCountDown"		"21"
 	}
 	"> CORE READY IN 5 SECONDS <"
 	{
@@ -265,7 +265,7 @@
 	"* * Hold 25 seconds * *"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"* * You have defended long enough * *"
 	{
@@ -282,7 +282,7 @@
 	"* * 20 seconds until the door opens * *"
 	{
 		"chi"		"**20秒钟后打开门 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"(Right) * * * Door opening * * * 8 seconds * * *"
 	{
@@ -315,7 +315,7 @@
 	"* * Final door opening in 20 seconds * *"
 	{
 		"chi"		"**最后一道门20秒秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"* * Final door opening in 5 seconds * *"
 	{
@@ -328,7 +328,7 @@
 	"* * Wait 40 seconds until the magic elevator is ready to go * *"
 	{
 		"chi"		"**等待40秒，直到魔术电梯准备就绪 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"* * Only 10 seconds left * * Hold * *"
 	{
@@ -406,7 +406,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**Enviolinadors Buttgun has been found**"
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

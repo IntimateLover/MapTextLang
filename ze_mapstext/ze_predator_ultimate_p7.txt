@@ -23,9 +23,9 @@
 	"***HOLD FOR 50 SECONDS***"
 	{
 		"chi"		"** 坚守 50 秒 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"** 准备撤退 **"
 	}
@@ -104,7 +104,7 @@
 	"***Hold for 30 seconds***"
 	{
 		"chi"		"** 守住 30 秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
@@ -113,7 +113,7 @@
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
 		"chi"		"** 守住 40 秒 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
@@ -130,7 +130,6 @@
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
 		"chi"		"** 有玩家拿起了高斯狙击枪 **（巨量伤害足以秒杀母体僵尸，冷却时间非常长，可用次数无限次）"
-		"DoorCountdown"		"-1"
 	}
 	"***FIRST AID PICKED UP***"
 	{
@@ -140,7 +139,7 @@
 	{
 		"chi"		"** 有玩家拿起了异形样本 **（就地点燃后形成火焰场，僵尸进入就被点燃+减速，可用次数1次）"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** 10 秒 **"
 	}
@@ -199,12 +198,10 @@
 	"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	{
 		"chi"		"** 有玩家拿起了榴弹发射器 **（以一定角度发射榴弹，僵尸被击中后会被点燃，可用次数15次）"
-		"DoorCountdown"		"-1"
 	}
 	"***PLAYER PICKED UP AMMO DISPENSER***"
 	{
 		"chi"		"** 有玩家拿起了弹药箱 **（以使用者为中心的一定距离内所有人类弹药无限，持续时间10s，可用次数1次）"
-		"DoorCountdown"		"-1"
 	}
 	"***PLAYER PICKED UP PUSH GUN***"
 	{
@@ -214,10 +211,10 @@
 	{
 		"chi"		"** 有玩家拿起了米尼冈重机枪 **（按E不放可连续开火，但是如果开火时间过长枪口会冒烟，冒烟后就得等一段时间，没有弹药限制）"
 	}
-	"***Hold 30 seconds***"
+	"***HOLD 30 SECONDS***"
 	{
 		"chi"		"** 坚守 30 秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***5***"
 	{
@@ -279,10 +276,10 @@
 	{
 		"chi"		"** 激活 C4 **"
 	}
-	"***HOLD FOR 20 SECONDS***"
+	"***Hold for 20 seconds***"
 	{
 		"chi"		"** 守住 20 秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***ITS THE PREDATOR!***"
 	{
@@ -302,7 +299,7 @@
 	}
 	"***HOLD ON TO YOUR HELMETS!***"
 	{
-		"chi"		"** 抓紧你的头盔! 准备起飞!**"
+		"chi"		"** 抓紧你的头盔! **"
 	}
 	"***YOU KILLED THE PREDATOR***"
 	{
@@ -351,7 +348,7 @@
 	"***HOLD THIS AREA FOR 20 SECONDS***"
 	{
 		"chi"		"** 守住这个区域 20 秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***15 SECONDS LEFT***"
 	{
@@ -444,11 +441,11 @@
 	}
 	"***MAP BY --- PER30010  LUFFAREN***"
 	{
-		"chi"		"** 地图制作 by --- PER30010 / LUFFAREN  地图翻译 by 色狼领袖 **"
+		"chi"		"** **"
 	}
 	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
 	{
-		"chi"		"** 你们是极限的僵尸逃跑大师 **"
+		"chi"		"** **"
 	}
 	"***IT LOOKS LIKE ITS PREPARING FOR ANOTHER GROUNDSTOMP***"
 	{
@@ -480,14 +477,14 @@
 	}
 	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	{
-		"chi"		"** 有僵尸进入了直升机 **"
+		"chi"		"** **"
 	}
 	"***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***"
 	{
-		"chi"		"** 管理员修改了地图难度 **"
+		"chi"		"** **"
 	}
 	"***NUKE BUTTON PRESSED***"
 	{
-		"chi"		"** 核弹爆炸 **"
+		"chi"		"** **"
 	}
 }

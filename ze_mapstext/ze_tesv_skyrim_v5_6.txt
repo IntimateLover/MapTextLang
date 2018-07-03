@@ -410,15 +410,4 @@
 	{
 		"chi"		"** **"
 	}
-	">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_decoy_limit 0"
-		}
-	}
 }

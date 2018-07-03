@@ -2,16 +2,15 @@
 {
 	"** ZE FFXII PARAMINA RIFT **"
 	{
-		"chi"		"**最终幻想12：帕拉米纳峡谷**"
-		"DoorCountdown"		"-1"
+		"chi"		"**最终幻想12：帕拉米亚峡谷**"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
-		"chi"		"**第①章：帕拉米纳峡谷**"
+		"chi"		"**第①章：ミリアム峡谷 **"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
-		"chi"		"**第①章：通过帕拉米纳峡谷并找到米利暗遗迹的位置**"
+		"chi"		"**第①章：通往ミリアム遺跡的路**"
 	}
 	"** [DIFFICULTY] NORMAL **"
 	{
@@ -20,7 +19,6 @@
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
 		"chi"		"**支线任务：找到财宝达到500GIL即可在第二章开启药水奖励！**"
-		"DoorCountdown"		"-1"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
@@ -29,7 +27,6 @@
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
 		"chi"		"**解锁药水一共需要获得500GIL**"
-		"DoorCountdown"		"-1"
 	}
 	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
 	{
@@ -94,7 +91,7 @@
 	{
 		"chi"		"**2/5水晶塔已被破坏**"
 	}
-	"** 5 seconds left **"
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**还剩5秒！**"
 	}
@@ -165,11 +162,11 @@
 	}
 	"** IT SEEMS THAT THE ENTRANCE TO THE SHRINE IS BLOCKED BY ICE PIKES **"
 	{
-		"chi"		"**看样子遗迹的大门被冰川堵住了**"
+		"chi"		"**看样子通道被冰川堵住了**"
 	}
 	"** YOU COULD USE FIRE TO MELT IT FASTER.. **"
 	{
-		"chi"		"**你们可以使用火来让冰川融化的快些**"
+		"chi"		"**你们可以使用火来让冰块融化的快些**"
 	}
 	"** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **"
 	{
@@ -263,11 +260,11 @@
 	}
 	"Stage 2 - Find the hidden treasures and defeat the Esper Mateus in Stilshrine of Miriam.."
 	{
-		"chi"		"**第二章：在米利暗遗迹中找到隐藏的宝藏并击败<召喚獸—MATEUS 背徳の皇帝>**"
+		"chi"		"**第二章：找到隐藏的宝藏并击败<召喚獸—MATEUS 背徳の皇帝>**"
 	}
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
-		"chi"		"**第二章：米利暗遗迹**"
+		"chi"		"**第二章：ミリアム遺跡**"
 	}
 	"** Player has acquired a SPEED-POTION **"
 	{
@@ -325,11 +322,11 @@
 	}
 	"** Player has acquired a AMMO-POTION **"
 	{
-		"chi"		"**玩家得到了弹药支援（9秒）！**"
+		"chi"		"**玩家得到了弹药支援（10秒）！**"
 	}
 	"** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **"
 	{
-		"chi"		"**修練の広間将在30秒后开放！**"
+		"chi"		"**神秘房间将在30秒后打开！**"
 		"DoorCountdown"		"30"
 	}
 	"** Player has learned POISONA (damage lvl4) **"
@@ -338,7 +335,7 @@
 	}
 	"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
 	{
-		"chi"		"**修練の広間还有5秒开启！**"
+		"chi"		"**神秘房间还有5秒开启！**"
 	}
 	"0 '. STAGGER"
 	{
@@ -478,12 +475,12 @@
 	}
 	"** BOSS HAS BEEN STAGGERED **"
 	{
-		"chi"		"**玛偍乌斯进入虚弱状态！！**"
+		"chi"		"**BOSS进入虚弱状态！**"
 	}
 	"** BULLETSNADES DOES 200 '. DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
-		"chi"		"**15秒内子弹手雷造成双倍伤害！**"
-		"DoorCountdown"		"15"
+		"chi"		"**10秒内子弹手雷造成双倍伤害！**"
+		"DoorCountdown"		"10"
 	}
 	"** Player has learned CURA (heal lvl4) **"
 	{
@@ -629,7 +626,7 @@
 	}
 	"** The esper MATEUS is killed in action **"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>召唤失败**"
+		"chi"		"**召唤被取消**"
 	}
 	"** YOU FOUND A WAY TO OPEN THE GATE **"
 	{
@@ -637,7 +634,7 @@
 	}
 	"** SHOULDNT BE TOO LONG TILL IT OPENS.. **"
 	{
-		"chi"		"**应该不用多久就会打开**"
+		"chi"		"**不用多久就应该会打开**"
 	}
 	"** TREASURE +64 GIL FOUND **"
 	{
@@ -675,7 +672,7 @@
 	}
 	"** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **"
 	{
-		"chi"		"**我们要往下跳才能逃离这遗迹**"
+		"chi"		"**我们要往下跳才能逃离这**"
 	}
 	"** OH GOD ITS MATEUS! SHOOT IT! **"
 	{
@@ -720,7 +717,7 @@
 	}
 	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>已经死了!快逃到树林里去**"
+		"chi"		"**它已经死了!快逃到树林里去**"
 	}
 	"** END OF THE LINE **"
 	{
@@ -828,7 +825,7 @@
 	}
 	"** BULLETSNADES DOES 200 . DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
-		"chi"		"**15秒内手雷和子弹造成双倍伤害**"
+		"chi"		"**皇帝进入虚弱状态 10秒内手雷和子弹造成双倍伤害**"
 	}
 	"58 . STAGGER"
 	{
@@ -1016,19 +1013,19 @@
 	}
 	"** STAGGERED (DONE) **"
 	{
-		"chi"		"**BOSS虚弱已结束**"
+		"chi"		"**BOSS虚弱中(结束)**"
 	}
 	"** YOU KILLED MATEUS **"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>已被击杀**"
+		"chi"		"** **"
 	}
 	"The esper MATEUS has been summoned"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>应召唤而来**"
+		"chi"		"** **"
 	}
 	"The esper MATEUS is killed in action"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>召唤失败**"
+		"chi"		"** **"
 	}
 	"** Player has learned POISON -- Level 1 **"
 	{
@@ -1052,11 +1049,11 @@
 	}
 	"** YOU DEFEATED MATEUS **"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>已被击败**"
+		"chi"		"** **"
 	}
 	"** MATEUS TRICKED US! ITS A FAKE ESPER! **"
 	{
-		"chi"		"**它欺骗了我们！！那个召唤水晶是假的！！！**"
+		"chi"		"**它欺骗了我们！！那个皇帝是假的！！！**"
 	}
 	"** Player has learned GRAVITY -- Level 5 **"
 	{
@@ -1092,7 +1089,7 @@
 	}
 	"** BARRIER 2 OPENS IN 20 SECS **"
 	{
-		"chi"		"**障碍2号20秒后打开！**"
+		"chi"		"** **"
 	}
 	"** Player has learned CURE -- Level 2 **"
 	{
@@ -1321,40 +1318,5 @@
 	"** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **"
 	{
 		"chi"		"** **"
-	}
-	"** [ STAGE 2 ] STILSHRINE OF MIRIAM **"
-	{
-		"chi"		"** **"
-	}
-	"** [ STAGE 2] STILSHRINE OF MIRIAM **"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"1"
-		{
-			"cvar"		"sm_spawn_give_armor 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"3"
-		{
-			"cvar"		"sm_he_limit 7"
-		}
-		"6"
-		{
-			"cvar"		"zr_greneffect_napalm_he_duration 2"
-		}
-		"5"
-		{
-			"cvar"		"zr_greneffect_napalm_he_duration 0.5"
-		}
 	}
 }

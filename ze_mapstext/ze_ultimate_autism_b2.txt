@@ -1,67 +1,43 @@
 "Console_T"
 {
-	"***BHOP***"
+	"***SURF***"
 	{
-		"chi"		"**连跳**"
-	}
-	"***GET TO THE CENTER***"
-	{
-		"chi"		"**进入中心**"
+		"chi"		"**滑翔**"
 	}
 	"***THE TWIST WILL BE: ***"
 	{
 		"chi"		"**扭曲开启：**"
 	}
-	"***"
+	"***SPOOKY SHIT***"
 	{
-		"chi"		"** **"
+		"chi"		"**令人毛骨悚然**"
 	}
-	"***SUPER SPEED***"
+	"***BHOP***"
 	{
-		"chi"		"**超级速度**"
-	}
-	"***Defend for 10 seconds***"
-	{
-		"chi"		"**等待10秒**"
-	}
-	"***TRIPPY COLOURS***"
-	{
-		"chi"		"**迷幻色彩**"
-	}
-	"***Surf***"
-	{
-		"chi"		"**滑翔**"
+		"chi"		"**连跳**"
 	}
 	"***EXPLOSIONS***"
 	{
 		"chi"		"**爆炸**"
 	}
-	"***DOOR IS OPEN***"
+	"***GET TO THE CENTER***"
 	{
-		"chi"		"**大门开了**"
-	}
-	"***SEINFELD***"
-	{
-		"chi"		"**噪音干扰**"
+		"chi"		"**进入中心**"
 	}
 	"***ICE SKATING***"
 	{
 		"chi"		"**滑冰**"
 	}
-	"***DEFEND FOR 20 SECONDS***"
+	"***Defend for 20 seconds***"
 	{
 		"chi"		"**等待20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
-	"***INVERTED CONTROLS***"
+	"***Defend for 10 seconds***"
 	{
-		"chi"		"**反向控制**"
+		"chi"		"**等待10秒**"
 	}
-	"***SPOOKY SHIT***"
-	{
-		"chi"		"**令人毛骨悚然**"
-	}
-	"***Teleport Active***"
+	"***Teleport active***"
 	{
 		"chi"		"**传送激活**"
 	}
@@ -73,13 +49,33 @@
 	{
 		"chi"		"**强烈的震动**"
 	}
+	"***SUPER SPEED***"
+	{
+		"chi"		"**超级速度**"
+	}
 	"***DRUGGED UP***"
 	{
 		"chi"		"**毒药**"
 	}
+	"***DOOR IS OPEN***"
+	{
+		"chi"		"**大门开了**"
+	}
+	"***INVERTED CONTROLS***"
+	{
+		"chi"		"**反向控制**"
+	}
+	"***TRIPPY COLOURS***"
+	{
+		"chi"		"**迷幻色彩**"
+	}
 	"***ONLY ONE AT A TIME, FUCK OFF***"
 	{
 		"chi"		"**每次只有一个，滚蛋**"
+	}
+	"***SEINFELD***"
+	{
+		"chi"		"**噪音干扰**"
 	}
 	"***THE TRANSGENDER BANANA SWORD HAS BEEN PICKED UP!!!***"
 	{
@@ -88,12 +84,12 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**等待30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Door opening in 20 seconds***"
 	{
@@ -103,11 +99,11 @@
 	{
 		"chi"		"**大门10秒后打开**"
 	}
-	"***LOW GRAVITY***"
+	"***"
 	{
 		"chi"		"** **"
 	}
-	"The server is about to close the update ,Please update your game"
+	"***LOW GRAVITY***"
 	{
 		"chi"		"** **"
 	}

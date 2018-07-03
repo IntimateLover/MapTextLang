@@ -82,6 +82,10 @@
 		{
 			"cvar"		"sm_He_limit 5"
 		}
+		"4"
+		{
+			"cvar"		"sm_cvar zr_poison_enabled  0"
+		}
 	}
 	"*** 10 ***"
 	{
@@ -130,5 +134,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"82442"
+	}
+	"*** You have failed to slay the dragon in time! ***"
+	{
+		"chi"		"** **"
 	}
 }

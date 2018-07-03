@@ -172,4 +172,24 @@
 	{
 		"chi"		"** **"
 	}
+	"dont forget wash your hand!"
+	{
+		"chi"		"** **"
+	}
+	"roofdoor break in 15s"
+	{
+		"chi"		"** **"
+	}
+	"east_castle_door open in 10s"
+	{
+		"chi"		"** **"
+	}
+	"door start to close in 20s"
+	{
+		"chi"		"** **"
+	}
+	"door start to close in 5s"
+	{
+		"chi"		"** **"
+	}
 }

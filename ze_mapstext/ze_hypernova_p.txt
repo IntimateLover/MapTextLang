@@ -1,5 +1,9 @@
 "Console_T"
 {
+	"**Giant red star is unstable**"
+	{
+		"chi"		"** **"
+	}
 	"**Go to the top of the station and find scape pods**"
 	{
 		"chi"		"** **"
@@ -16,19 +20,23 @@
 	{
 		"chi"		"** **"
 	}
-	"**Giant red star is unstable**"
-	{
-		"chi"		"** **"
-	}
 	"** Cargo secction upper door opening in 15s**"
 	{
 		"chi"		"** **"
 	}
-	"**Double doors sealing in 15s**"
+	"** Cargo secction upper door opening in 5s**"
 	{
 		"chi"		"** **"
 	}
-	"** Cargo secction upper door opening in 5s**"
+	"**Closing gravity tower upper access**"
+	{
+		"chi"		"** **"
+	}
+	"**Crate locking gravity tower access**"
+	{
+		"chi"		"** **"
+	}
+	"**Double doors sealing in 15s**"
 	{
 		"chi"		"** **"
 	}
@@ -37,22 +45,6 @@
 		"chi"		"** **"
 	}
 	"**Sealing double doors**"
-	{
-		"chi"		"** **"
-	}
-	"**Closing gravity tower upper access**"
-	{
-		"chi"		"** **"
-	}
-	"**Sealing elevator acces for security**"
-	{
-		"chi"		"** **"
-	}
-	"**Crate locking gravity tower access**"
-	{
-		"chi"		"** **"
-	}
-	"**Door malfunction**"
 	{
 		"chi"		"** **"
 	}
@@ -69,6 +61,14 @@
 		"chi"		"** **"
 	}
 	"**Generator Elevator is leaving**"
+	{
+		"chi"		"** **"
+	}
+	"**Sealing elevator acces for security**"
+	{
+		"chi"		"** **"
+	}
+	"**Door malfunction**"
 	{
 		"chi"		"** **"
 	}
@@ -165,18 +165,6 @@
 		"chi"		"** **"
 	}
 	"**Rear section leaving the structure**"
-	{
-		"chi"		"** **"
-	}
-	"**Central section sealing in 15 s**"
-	{
-		"chi"		"** **"
-	}
-	"**Central section sealing in 5 s**"
-	{
-		"chi"		"** **"
-	}
-	"**Central section leaving the structure**"
 	{
 		"chi"		"** **"
 	}

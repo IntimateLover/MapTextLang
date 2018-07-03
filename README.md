@@ -17,23 +17,11 @@
 ---
 1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).
 
-2. 在你想要更新的类别添加地图名称 
+2. 当您提交Pull Request后 在管理通过后 在论坛会 [显示事件](https://bbs.93x.net/plugin.php?id=xnet_events:xnet_events). 应该会显示事件 如果没有显示 可能没有成功 请加上一些无用注释 如//再提交一次 和原不同即可)
 
-    比如 我更新了entwatch 那么修改 `update_entwatch.txt` 增加地图往下面一行添加地图. 比如 `ze_fapescape_p5` 不要删除原有内容 如果这个地图已经存在 直接修改版本号码 步骤3
+3. 游戏服务器会每隔24小时 自动检测修改并同步 op / mapper可以输入 !git_update 强行同步 【请不要在 修改后的 10分钟内输入 否则无法拉到新数据 因为缓存】
 
-3. 修改版本号码 `https://github.com/MapTextLang/MapTextLang/blob/master/git_version.txt` 将原有数字+1 比如原来1000 改成 1001
-
-5. 等待仓库管理员合并请求 如果需要手动同步 步骤6 请合并后等待5分钟 因为有git缓存.
-
-6. 等待同步更新 系统自动 24小时/次 或者 请求OP 或 有权限用户输入 `sm_git_update` 在控制台 
-
-7. 仓库管理人员 如果所有服务器同步已完成 可以清空 update_xxxx 文件所有内容 【为了同步保险起见 至少修改版本后保留 72小时】
-
-
-有关生效时间  stripper 和 翻译 必须等到 下次换图
-
-Entwatch 可以通过OP 使用 `sm_entwatch_reload` 即可生效.
-
+版本会自动变化以让游戏服务器检测 [GIT版本查看地址](http://bd.93x.net/maptexthook/git_version.txt) （触发 合并审核 / 修改 / 添加 事件后会自动修改 +1）
 
 ## 地图修改服务器参数/或指令拦截
 ---

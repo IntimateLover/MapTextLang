@@ -29,7 +29,7 @@
 	}
 	"*** Door opens in 25 seconds ***"
 	{
-		"chi"		"**大门将在25秒后开启**"
+		"chi"		"** **"
 		"DoorCountdown"		"25"
 	}
 	"*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***"

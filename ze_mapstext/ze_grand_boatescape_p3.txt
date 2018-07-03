@@ -2,84 +2,70 @@
 {
 	"****Spawn will open up within 20 seconds****"
 	{
-		"chi"		"** 出生点将在 20 秒后开放 **"
-		"DoorCountDown"		"20"
+		"chi"		"** **"
 	}
 	"****We need to get off this island before the Zombie Infestation takes the whole Island****"
 	{
-		"chi"		"** 我们需要在僵尸感染整个岛屿之前离开这个岛 **"
+		"chi"		"** **"
 	}
 	"****Created By GrandOp****"
 	{
-		"chi"		"** 地图制作 by By GrandOp** 地图翻译 by 色狼领袖 **"
+		"chi"		"** **"
 	}
 	"****Boat will be leaving in 10 seconds****"
 	{
-		"chi"		"** 船将在 10 秒内离开 **"
-		"DoorCountDown"		"10"
+		"chi"		"** **"
 	}
 	"****There must be a way to get off this Island****"
 	{
-		"chi"		"** 必须寻找一个离开岛屿的办法 **"
+		"chi"		"** **"
 	}
 	"****We need to escape the blazing sun that will destroy this island****"
 	{
-		"chi"		"** 那颗炙热的太阳会摧毁这座岛屿 **"
+		"chi"		"** **"
 	}
 	"****It will kill this virus for good****"
 	{
-		"chi"		"** 它会消灭岛上所有的生物 **"
+		"chi"		"** **"
 	}
 	"****The distant island ahead of us should be safe from it****"
 	{
-		"chi"		"** 我们前面那座遥远的岛屿应该是安全的 **"
+		"chi"		"** **"
 	}
 	"****Tram will be leaving in 5 seconds****"
 	{
-		"chi"		"** 电车将在 5 秒后离开 **"
+		"chi"		"** **"
 	}
 	"****Defend the front walls****"
 	{
-		"chi"		"** 守住围墙 ** 本计时器仅供参考 **"
-		"DoorCountDown"		"110"
+		"chi"		"** **"
 	}
 	"****Dont retreat unless told****"
 	{
-		"chi"		"** 不要退 就是干 **"
+		"chi"		"** **"
 	}
 	"****Rocket is ready to go!****"
 	{
-		"chi"		"** 飞船即将出发！ ** 做船就不要站外面 **"
+		"chi"		"** **"
 	}
 	"****Retreat to the rocket or wait for the balloon!****"
 	{
-		"chi"		"** 撤退到飞船内或者继续等待热气球 **"
+		"chi"		"** **"
 	}
 	"**** The rails down the water path have been broken! ****"
 	{
-		"chi"		"** 水下的铁栅栏已被破坏！ **"
+		"chi"		"** **"
 	}
 	"**** Dont let zombies into the balloon! ****"
 	{
-		"chi"		"** 不要让僵尸进到热气球里！ **"
+		"chi"		"** **"
 	}
 	"****Hot air balloon is ready to go!****"
 	{
-		"chi"		"** 热气球准备出发！ **"
+		"chi"		"** **"
 	}
 	"****Retreat to the balloon! Hurry!****"
 	{
-		"chi"		"** 快退到热气球里！快！** 最后的机会 **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"zr_infect_spawntime_min 18"
-		}
-		"1"
-		{
-			"cvar"		"zr_infect_spawntime_max 20"
-		}
+		"chi"		"** **"
 	}
 }

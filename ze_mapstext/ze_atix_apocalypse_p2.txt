@@ -16,11 +16,4 @@
 	{
 		"chi"		"**本关路线：卡车 **"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_flash_limit   1"
-		}
-	}
 }

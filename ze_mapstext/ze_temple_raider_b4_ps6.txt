@@ -14,7 +14,7 @@
 	}
 	"Fight your way to the temple and escape!"
 	{
-		"chi"		"**找到通往神庙的道路然后逃离这里**"
+		"chi"		"**摧毁神庙然后逃离**"
 	}
 	"Warmup Round - 10 sec"
 	{
@@ -26,7 +26,7 @@
 	}
 	"Hold 30 sec"
 	{
-		"chi"		"**防守30秒**"
+		"chi"		"**防守25秒**"
 	}
 	"Warmup Round - End"
 	{
@@ -39,16 +39,16 @@
 	"Hold 25 sec"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** HEALTH KIT ACQUIRED - 50s cooldown **"
 	{
-		"chi"		"**治疗被拾取-五十秒冷却**"
+		"chi"		"**治疗被获取-50秒冷却**"
 	}
 	"Hold 15 sec"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Health Kit Ready!!! **"
 	{
@@ -97,11 +97,11 @@
 	"Hold 32 sec"
 	{
 		"chi"		"**防守32秒**"
-		"DoorCountdown"		"32"
+		"DoorCountDown"		"32"
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
-		"chi"		"**我们找到了宝藏房间**"
+		"chi"		"**我们找到了宝藏放假**"
 	}
 	"** HOLD HERE TILL THE DOOR OPENS **"
 	{
@@ -110,11 +110,11 @@
 	"Hold 17 sec"
 	{
 		"chi"		"**防守17秒**"
-		"DoorCountdown"		"17"
+		"DoorCountDown"		"17"
 	}
 	"** END OF THE LINE - HOLD THE TOP **"
 	{
-		"chi"		"**我们快能离开这神庙了，撑住**"
+		"chi"		"**抵达终点了，撑住**"
 	}
 	"** ESCAPE VIA THE ROPES! **"
 	{
@@ -126,7 +126,7 @@
 	}
 	"** RUN !! THE TUNNEL IS COLLAPSING !! **"
 	{
-		"chi"		"**跑！这个隧道正在崩塌**"
+		"chi"		"**跑！这个隧道要崩溃了**"
 	}
 	"** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
 	{
@@ -154,7 +154,7 @@
 	}
 	"** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
 	{
-		"chi"		"**一枚战术核弹即将爆炸**"
+		"chi"		"** **"
 	}
 	"Bomb exploding in 100 sec"
 	{
@@ -162,7 +162,7 @@
 	}
 	"** GET THERE BEFORE IT DETONATES! **"
 	{
-		"chi"		"**在其引爆前解除核弹**"
+		"chi"		"** **"
 	}
 	"Bomb exploding in 60 sec"
 	{
@@ -175,11 +175,10 @@
 	"Bomb exploding in 10 sec"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"10"
 	}
 	"** HURRY UP!!! **"
 	{
-		"chi"		"**快点!!!**"
+		"chi"		"** **"
 	}
 	"KABOOOM"
 	{
@@ -188,21 +187,5 @@
 	"sync_version"
 	{
 		"syncvalue"		"4006"
-	}
-	"** DOOR OPENS IN 5 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"** BOMB HAS BEEN DEFUSED!! **"
-	{
-		"chi"		"** **"
-	}
-	"** ESCAPE FROM THE ZOMBIES!! **"
-	{
-		"chi"		"** **"
 	}
 }

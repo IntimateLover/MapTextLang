@@ -100,7 +100,7 @@
 	">>>Door close in 5s<<<"
 	{
 		"chi"		"** 5 秒后关门**小心被门夹到脑袋**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>>Teleport initializing<<<"
 	{
@@ -161,14 +161,10 @@
 	}
 	">>>Teleport is Online<<<"
 	{
-		"chi"		"**传送门初始化完毕**"
+		"chi"		"** **"
 	}
 	">>>Get in the Teleport!!!!<<<"
 	{
-		"chi"		"**快进入传送门!!!!**后面那个圆形的机器**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"**即将重置关卡**"
+		"chi"		"** **"
 	}
 }

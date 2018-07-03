@@ -63,7 +63,6 @@
 	">>>Left-Lock closing in 5 seconds<<<"
 	{
 		"chi"		"**左边的大门 5 秒后关闭**腿短的还不快切刀跑。**"
-		"DoorCountdown"		"15"
 	}
 	">>>Right-Lock closing in 5 seconds<<<"
 	{

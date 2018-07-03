@@ -20,7 +20,7 @@
 	{
 		"chi"		"电梯门15秒后打开！"
 	}
-	"DoorCountDown"		"15"
+	"DoorCountdown"		"15"
 	"* Secret room opened! *"
 	{
 		"chi"		"密室门开启！"
@@ -33,7 +33,7 @@
 	{
 		"chi"		"电梯10秒后到达！"
 	}
-	"DoorCountDown"		"10"
+	"DoorCountdown"		"10"
 	"* Elevators departing now! *"
 	{
 		"chi"		"电梯已到达"
@@ -76,7 +76,7 @@
 	}
 	"* Bringing the anti-mass spectrometre to 85 procent... *"
 	{
-		"chi"		"**使反质谱仪达到85％**"
+		"chi"		"这句我不会翻:3"
 	}
 	"* WARNING! High radiation levels! Get away from the field! *"
 	{

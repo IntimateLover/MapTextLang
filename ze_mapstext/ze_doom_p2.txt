@@ -11,7 +11,7 @@
 	"** Door opening in 30 seconds! **"
 	{
 		"chi"		"30秒后开门！"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** Door opening in 10 seconds! **"
 	{
@@ -44,7 +44,7 @@
 	"** Door opening in 25 seconds **"
 	{
 		"chi"		"门将在25秒后打开      "
-		"DoorCountDown"		"                "
+		"DoorCountdown"		"                "
 	}
 	"** Door opening in 10 seconds **"
 	{
@@ -65,7 +65,7 @@
 	"** Exit door opening in 40 seconds! **"
 	{
 		"chi"		"40秒后逃生门打开！"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"Soulsphere recharged!"
 	{
@@ -86,7 +86,7 @@
 	"** Exit door closing in 15 seconds! **"
 	{
 		"chi"		"逃生门15秒后关闭"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Exit door closed! **"
 	{
@@ -123,7 +123,7 @@
 	"** Elevator Leaving in 35 Seconds...**"
 	{
 		"chi"		"**电梯将在35秒后升起 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"** Elevator Leaving in 10 Seconds...**"
 	{
@@ -254,10 +254,6 @@
 		"chi"		"** **"
 	}
 	"Bfg used!"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}
