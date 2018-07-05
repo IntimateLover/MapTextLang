@@ -833,4 +833,11 @@
 	{
 		"chi"		"**一位玩家拾起了一个不可思议的UFO**"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled 0"
+		}
+	}
 }
