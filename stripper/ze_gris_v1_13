@@ -1,0 +1,15 @@
+
+modify:
+{
+	match:
+	{
+		"classname" "logic_auto"
+		"hammerid" "69325"
+	}
+	insert:
+	{
+		"OnMultiNewMap" "cmdCommandzr_class_modify humans health_regen_interval 0.001"
+		"OnMultiNewMap" "cmdCommandzr_class_modify humans health_regen_amount 001"
+			
+	}
+}
