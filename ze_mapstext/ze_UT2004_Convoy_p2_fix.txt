@@ -43,7 +43,7 @@
 	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
 	{
 		"chi"		"**登船平台在35秒后延伸完毕 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"> ROCKET LAUNCHER has been acquired"
 	{
@@ -101,7 +101,7 @@
 	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
 	{
 		"chi"		"**侧门将在45秒后开启！ **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
 	{
@@ -122,7 +122,7 @@
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
 	{
 		"chi"		"**N.E.X.U.S.拖车将在在40秒后打开舱口 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
 	{
@@ -179,7 +179,7 @@
 	">>> EXPLOSION IN 40 SECONDS <<<"
 	{
 		"chi"		"**炸弹将在40秒后爆炸（不要贴门.会被炸死） **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	">>> EXPLOSION IN 20 SECONDS <<<"
 	{
@@ -245,5 +245,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"20088"
+	}
+	"> LIGHTNING RIFLE has been acquired"
+	{
+		"chi"		"** **"
 	}
 }

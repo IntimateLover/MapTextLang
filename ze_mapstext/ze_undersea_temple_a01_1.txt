@@ -1,0 +1,26 @@
+"Console_T"
+{
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_Cvar sm_g_cv_money 10000"
+		}
+		"1"
+		{
+			"cvar"		"sm_Cvar sm_he_limit 6"
+		}
+		"2"
+		{
+			"cvar"		"sm_Cvar sm_smoke_limit 3"
+		}
+		"3"
+		{
+			"cvar"		"sm_Cvar sm_molotov_limit 2"
+		}
+		"4"
+		{
+			"cvar"		"sm_Cvar sm_decoy_limit 2"
+		}
+	}
+}
