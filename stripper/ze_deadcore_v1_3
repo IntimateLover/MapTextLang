@@ -7,7 +7,7 @@ modify:
 	}
 	insert:
 	{
-		"OnMultiNewMap" "cmdCommandzr_class_modify humans health_regen_interval 0.001"
-		"OnMultiNewMap" "cmdCommandzr_class_modify humans health_regen_amount 001"	
+		"OnMultiNewMap" "serverCommandzr_class_modify humans health_regen_interval 0.001"
+		"OnMultiNewMap" "serverCommandzr_class_modify humans health_regen_amount 001"	
 	}
 }
