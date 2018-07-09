@@ -468,65 +468,6 @@
 	{
 		"chi"		"** **"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_he_limit 4"
-		}
-		"1"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"2"
-		{
-			"cvar"		"sm_he_limit 8"
-		}
-		"3"
-		{
-			"cvar"		"sm_molotov_limit 4"
-		}
-		"4"
-		{
-			"cvar"		"sm_smoke_limit 5"
-		}
-		"5"
-		{
-			"cvar"		"sm_g_cv_money 16000"
-		}
-		"6"
-		{
-			"cvar"		"zr_infect_mzombie_ratio 6"
-		}
-		"7"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
-		"8"
-		{
-			"cvar"		"mp_timelimit 40"
-		}
-		"9"
-		{
-			"cvar"		"sm_he_limit 2"
-		}
-		"10"
-		{
-			"cvar"		"sm_smoke_limit 0"
-		}
-		"11"
-		{
-			"cvar"		"sm_molotov_limit 1"
-		}
-		"12"
-		{
-			"cvar"		"zr_class_modify zombies knockback 8"
-		}
-		"13"
-		{
-			"cvar"		"zr_class_modify zombies knockback 6"
-		}
-	}
 	">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
 	{
 		"chi"		"** **"
