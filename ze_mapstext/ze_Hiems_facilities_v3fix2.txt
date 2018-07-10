@@ -20,6 +20,10 @@
 	{
 		"chi"		"** **"
 	}
+	"sync_version"
+	{
+		"syncvalue"		"3031"
+	}
 	"*** Shutter Open ***"
 	{
 		"chi"		"** **"
@@ -108,7 +112,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** DEFEND FOR 30 SECONDS ***"
+	"*** Defend for 30 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -192,10 +196,6 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Zombie teleport soon !!!! ***"
-	{
-		"chi"		"** **"
-	}
 	"*** Defend for  15 sec ***"
 	{
 		"chi"		"** **"
@@ -272,23 +272,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Defend for 35 sec !!! ***"
+	"*** Defend for 40 sec !!! ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Shutter close !!! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Survive for two minutes !!! ***"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"62477"
-	}
-	"*** Defend for 40 sec !!! ***"
 	{
 		"chi"		"** **"
 	}

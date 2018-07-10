@@ -589,10 +589,6 @@
 		{
 			"cvar"		"sm_zeusweapons_decoy 0"
 		}
-		"14"
-		{
-			"cvar"		"zr_class_modify zombies knockback 4.5"
-		}
 	}
 	"**Zombie Confuse has been picked up**"
 	{

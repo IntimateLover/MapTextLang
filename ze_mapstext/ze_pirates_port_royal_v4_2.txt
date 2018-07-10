@@ -11,6 +11,7 @@
 	">>> |LEVEL 1| <<<"
 	{
 		"chi"		"**第[ 1 ]关**"
+		"DoorCountdown"		"-1"
 	}
 	">>> GATE OPEN IN 20 SEC <<<"
 	{
@@ -125,6 +126,7 @@
 	">>> |LEVEL 2| <<<"
 	{
 		"chi"		"** 关卡2！**"
+		"DoorCountdown"		"-1"
 	}
 	">>> DOORS CLOSE IN 20 SEC <<<"
 	{
@@ -195,6 +197,7 @@
 	">>> |LEVEL 3| <<<"
 	{
 		"chi"		"** 关卡3 **"
+		"DoorCountdown"		"-1"
 	}
 	">>> DOOR OPEN IN 10 SEC <<<"
 	{
@@ -264,6 +267,7 @@
 	">>> |LEVEL 4| <<<"
 	{
 		"chi"		"** 关卡4 **"
+		"DoorCountdown"		"-1"
 	}
 	"+++ BARBOSSA picked up +++"
 	{
@@ -328,6 +332,7 @@
 	">>> |LEVEL 5| <<<"
 	{
 		"chi"		"** 关卡5 **"
+		"DoorCountdown"		"-1"
 	}
 	">>> HOLD FOR 35 SEC <<<"
 	{

@@ -1,6 +1,6 @@
 "Console_T"
 {
-	"**level 1**"
+	"**LEVEL 1**"
 	{
 		"chi"		"** **"
 	}
@@ -120,7 +120,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**level 2**"
+	"**Level 2**"
 	{
 		"chi"		"** **"
 	}
@@ -234,5 +234,9 @@
 		{
 			"cvar"		"sm_lockroundtime 20"
 		}
+	}
+	"**Activate Bomb**"
+	{
+		"chi"		"** **"
 	}
 }

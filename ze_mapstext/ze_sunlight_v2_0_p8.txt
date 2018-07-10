@@ -14,7 +14,7 @@
 	}
 	"ZE Sunlight"
 	{
-		"chi"		"** **"
+		"chi"		"**ZE 日光**"
 	}
 	"*** Defend for 30 seconds! ***"
 	{
@@ -38,7 +38,7 @@
 	{
 		"chi"		"**防御20秒 **"
 	}
-	"*** Nuke in 1 minute ***"
+	"*** NUKE IN 1 MINUTE ***"
 	{
 		"chi"		"**核爆将在1分钟后到达 **"
 		"DoorCountdown"		"60"
@@ -103,6 +103,7 @@
 	"*** Nuke in 2 minutes ***"
 	{
 		"chi"		"**核爆将在2分钟后到达 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Stage failed! ***"
 	{
@@ -114,7 +115,7 @@
 	}
 	"[Warmup] Wait for others players to join"
 	{
-		"chi"		"** **"
+		"chi"		"**[热身时间]请等待其他玩家加入**"
 	}
 	"*** Zombies have been teleported. Prepare to charge! ***"
 	{

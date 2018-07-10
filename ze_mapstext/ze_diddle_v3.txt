@@ -47,11 +47,11 @@
 	}
 	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
 	{
-		"chi"		"**拿起火把，烧死所有WEEBS**"
+		"chi"		"**拿起火把，烧死所有的日漫痴！！！ ：）**"
 	}
 	"***HURRY, BEFORE WEEBLAND INVADES US***"
 	{
-		"chi"		"**快点，赶在Weebland杀死我们之前**"
+		"chi"		"**快点，在日漫痴乐园杀死我们所有人之前！**"
 	}
 	"***THE TORCHES BURNS AND PUSHES ZOMBIES***"
 	{
@@ -124,11 +124,11 @@
 	}
 	"*Gates closing in 5 seconds*"
 	{
-		"chi"		"**Gates五秒后关闭**"
+		"chi"		"**大门将在5秒后关闭**"
 	}
 	"*Gates closing*"
 	{
-		"chi"		"**Gates已关闭**"
+		"chi"		"**大门关闭中……**"
 	}
 	"*Initializing Escape Program Sequence*"
 	{
@@ -184,7 +184,7 @@
 	}
 	"***FIND YOUR LOVE***"
 	{
-		"chi"		"**惊喜你的爱**"
+		"chi"		"**发现你的爱**"
 	}
 	"***SURPRISE YOUR LOVE***"
 	{
@@ -626,7 +626,7 @@
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒时间剩余**"
 	}
 	"***FALL BACK***"
 	{
@@ -667,16 +667,16 @@
 	}
 	"***DEFEND FOR 60 SECONDS***"
 	{
-		"chi"		"**守住60秒**"
+		"chi"		"**守住这里60秒**"
 		"DoorCountdown"		"60"
 	}
 	"***30 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒剩余时间**"
 	}
 	"***15 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒剩余时间**"
 	}
 	"***10 SECONDS LEFT***"
 	{
@@ -721,7 +721,7 @@
 	}
 	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
 	{
-		"chi"		"**Vagina每天平均跑78平方米**"
+		"chi"		"**VAGINA平均每天跑7-8公里**"
 	}
 	"***A VAGINA INCLUDES CHILD SUPPORT***"
 	{
@@ -805,7 +805,7 @@
 	}
 	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
 	{
-		"chi"		"**Vagina给生活带来美好的人生**"
+		"chi"		"**VAGINA让好人重获新生**"
 	}
 	"***A VAGINA GIVES BIRTH TO BAD PEOPLE***"
 	{
@@ -817,11 +817,11 @@
 	}
 	"***A VAGINA CANNOT JUMP WITHOUT LEG FRIENDS***"
 	{
-		"chi"		"**Vagina不能跳**"
+		"chi"		"**VAGINA没有双腿不能跳**"
 	}
 	"***A VAGINA USUALLY CAUSES SMOKING***"
 	{
-		"chi"		"**Vagina通常导致吸烟**"
+		"chi"		"**VAGINA通常导致周围烟雾缭绕**"
 	}
 	"***A VAGINA WANTS TO SPIT YOU OUT***"
 	{
@@ -833,11 +833,11 @@
 	}
 	"***NOW GO OUT THERE AND DIDDLE EACH OTHER***"
 	{
-		"chi"		"**现在开始和任何一个**"
+		"chi"		"**现在离开这里，欺骗每一个人**"
 	}
 	"***DADDY IS PROUD OF YOU***"
 	{
-		"chi"		"**Daddy为你祝福**"
+		"chi"		"**爸爸为你感到自豪**"
 	}
 	"**jizz attack left**"
 	{
@@ -951,7 +951,7 @@
 	}
 	"***LOVE ISNT ALWAYS ON TIME***"
 	{
-		"chi"		"**爱永远在一起**"
+		"chi"		"**爱并不永远在线**"
 	}
 	"***OH NO***"
 	{
@@ -1007,7 +1007,7 @@
 	}
 	"***THE ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将会在10秒后离开**"
 	}
 	"***THE ELEVATOR LEAVES IN 5 SECONDS***"
 	{
@@ -1023,7 +1023,7 @@
 	}
 	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**中间的门将会在5秒后打开**"
 	}
 	"***THE MIDDLE GATE IS DIDDLED***"
 	{
@@ -1031,7 +1031,7 @@
 	}
 	"***THE TOWER GATE IS OPENING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔门将在10秒后为我们打开**"
 	}
 	"***THE TOWER GATE IS OPENING IN 5 SECONDS***"
 	{
@@ -1331,7 +1331,7 @@
 	}
 	"*****ROUND END*****"
 	{
-		"chi"		"** **"
+		"chi"		"**回合结束，QAQ**"
 	}
 	"<== You must find the bomb to open the way"
 	{
@@ -1367,7 +1367,7 @@
 	}
 	"***ZOMBIES REACHED ELEVATOR - YOURE DEAD***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抵达了电梯——你完了 XwX**"
 	}
 	"***DEFEND FOR 50 SECONDS***"
 	{
@@ -1379,7 +1379,7 @@
 	}
 	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
 	{
-		"chi"		"** **"
+		"chi"		"****如果你花太长时间（2：20内）你将会被传送出去****"
 	}
 	"hold 15sec"
 	{
@@ -1387,7 +1387,7 @@
 	}
 	"<==Get in the helicopter and out in 80s ==>"
 	{
-		"chi"		"** **"
+		"chi"		">>><==进入直升机防守80秒==><<<"
 	}
 	"<==helicopter fly out in 30s ==>"
 	{
@@ -1408,5 +1408,9 @@
 	"***YOU TOOK TOO LONG - RELEASING ZOMBIES***"
 	{
 		"chi"		"** **"
+	}
+	"BUILD A LADDER ||-----||"
+	{
+		"chi"		"****造一条梯子****"
 	}
 }

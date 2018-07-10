@@ -39,16 +39,16 @@
 	"Hold 25 sec"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** HEALTH KIT ACQUIRED - 50s cooldown **"
 	{
-		"chi"		"**治疗被获取-50秒冷却**"
+		"chi"		"**治疗被拾取-五十秒冷却**"
 	}
 	"Hold 15 sec"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Health Kit Ready!!! **"
 	{
@@ -97,7 +97,7 @@
 	"Hold 32 sec"
 	{
 		"chi"		"**防守32秒**"
-		"DoorCountDown"		"32"
+		"DoorCountdown"		"32"
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
@@ -110,7 +110,7 @@
 	"Hold 17 sec"
 	{
 		"chi"		"**防守17秒**"
-		"DoorCountDown"		"17"
+		"DoorCountdown"		"17"
 	}
 	"** END OF THE LINE - HOLD THE TOP **"
 	{

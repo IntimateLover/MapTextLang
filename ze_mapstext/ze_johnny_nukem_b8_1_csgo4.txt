@@ -79,7 +79,7 @@
 	"**TIP -- It has a 55 second cooldown**"
 	{
 		"chi"		"**该物品有五十五秒冷却时间**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**A player has picked up the Pink Elephants. Aww <3**"
 	{
@@ -140,7 +140,7 @@
 	"**TIP -- This item heals you and teammates around you for 5 seconds**"
 	{
 		"chi"		"**奶神器能在五秒内能回复两百血并且免疫感染**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**TIP -- Can only be used twice and has a 10 second cooldown**"
 	{
@@ -525,7 +525,7 @@
 	{
 		"chi"		"**[关卡3 - 瑞威尔的背叛]**"
 	}
-	"**Defend this place for 15 seconds**"
+	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
 		"chi"		"**守住这里15秒**"
 	}

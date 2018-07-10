@@ -25,7 +25,7 @@
 	{
 		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -36,7 +36,7 @@
 	}
 	"** Cover here till the rock explodes **"
 	{
-		"chi"		"**守住这里直到前方石头爆炸**"
+		"chi"		"**守住25秒-直到石头爆炸**"
 		"DoorCountDown"		"25"
 	}
 	"** The elevator will leave in 20 seconds **"
@@ -60,6 +60,7 @@
 	"** A player has learned Heal magick. **"
 	{
 		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
+		"DoorCountDown"		"-1"
 	}
 	"** Keep defending!! **"
 	{
@@ -72,6 +73,7 @@
 	"** METEOR INBOUND **"
 	{
 		"chi"		"**陨石将至**"
+		"DoorCountDown"		"5"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
@@ -125,6 +127,7 @@
 	"** FIRE NOVA INBOUND **"
 	{
 		"chi"		"**大火来袭**"
+		"DoorCountDown"		"5"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
@@ -272,5 +275,41 @@
 	"** The dragon has been defeated! GOGOGO **"
 	{
 		"chi"		"**巨龙已死，逃离这个地方**"
+	}
+	"[3 WINS IN A ROW] Easteregg unlocked!"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [GODMODE] **"
+	{
+		"chi"		"** **"
+	}
+	"[ZOMBIE MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"[WINNER] Selected [EXTREME MODE] for next round"
+	{
+		"chi"		"** **"
 	}
 }

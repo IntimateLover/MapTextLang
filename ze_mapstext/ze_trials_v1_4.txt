@@ -235,8 +235,4 @@
 			"cvar"		"sm_g_cv_money 10000"
 		}
 	}
-	"<<< Secret level 1 button pressed! >>>"
-	{
-		"chi"		"** **"
-	}
 }

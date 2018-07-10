@@ -4,11 +4,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Map by Airvulpes ***"
+	"*** Mapping help : thas , MutsuNoKami ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Mapping help : thas , MutsuNoKami ***"
+	"*** Map by Airvulpes ***"
 	{
 		"chi"		"** **"
 	}
@@ -20,7 +20,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 20 SECONDS LEFT ***"
+	"*** 20 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -36,11 +36,7 @@
 	{
 		"chi"		"** **"
 	}
-	"!!! KILL ALL ZOMBIES !!!"
-	{
-		"chi"		"** **"
-	}
-	"*** STAGE COMPLETED ***"
+	"*** Stage Completed ***"
 	{
 		"chi"		"** **"
 	}
@@ -68,13 +64,9 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Difficulty: Extreme ***"
-	{
-		"chi"		"** **"
-	}
 	"sync_version"
 	{
-		"syncvalue"		"44836"
+		"syncvalue"		"28245"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -123,7 +115,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
@@ -139,7 +131,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Hold 60 seconds ***"
+	"*** Difficulty: Extreme ***"
 	{
 		"chi"		"** **"
 	}

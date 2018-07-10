@@ -33,7 +33,7 @@
 		"chi"		"**守住30秒-直到守卫打开走廊通道**"
 		"DoorCountdown"		"30"
 	}
-	"** 5 seconds left **"
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -466,13 +466,17 @@
 		{
 			"cvar"		"sm_zeusweapons_hegrenade 2"
 		}
-		"4"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
 		"5"
 		{
+			"cvar"		"sm_tagging_time 3"
+		}
+		"3"
+		{
 			"cvar"		"sm_stamina_burncost 0.7"
+		}
+		"4"
+		{
+			"cvar"		"sm_tagging_penalty 20"
 		}
 	}
 }

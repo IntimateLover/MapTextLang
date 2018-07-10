@@ -16,7 +16,7 @@
 	{
 		"chi"		"**C4已安放**"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -97,17 +97,6 @@
 		"chi"		"**高塔电梯已离开**"
 	}
 	"***KILL THE REMAINING ZOMBIES***"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"mp_timelimit 20"
-		}
-	}
-	"***NO HUMANS MADE IT TO THE END***"
 	{
 		"chi"		"** **"
 	}

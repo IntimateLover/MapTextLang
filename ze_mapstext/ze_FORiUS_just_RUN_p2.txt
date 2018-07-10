@@ -62,7 +62,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"84479"
+		"syncvalue"		"6691"
 	}
 	"**Door to Tunnels opens in 15 seconds!**"
 	{
@@ -72,6 +72,10 @@
 	{
 		"chi"		"**守住25秒**"
 	}
+	"***Wait 40 seconds***"
+	{
+		"chi"		"**卷帘门40秒后打开**"
+	}
 	"***Someone must make a climb!***"
 	{
 		"chi"		"** **"
@@ -79,9 +83,5 @@
 	"***Once someone makes the climb the elevator will be accessible!***"
 	{
 		"chi"		"** **"
-	}
-	"***Wait 40 seconds***"
-	{
-		"chi"		"**卷帘门40秒后打开**"
 	}
 }

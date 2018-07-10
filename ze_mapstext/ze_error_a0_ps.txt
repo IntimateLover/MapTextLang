@@ -22,15 +22,15 @@
 	}
 	">> RESIST HERE 25 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守25秒<<<"
 	}
 	">> 15 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>15秒<<<"
 	}
 	">> 5 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>5秒<<<"
 	}
 	">> MISSION: DEJAB? <<"
 	{
@@ -42,18 +42,18 @@
 	}
 	">> RESIST 30 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守30秒<<<"
 	}
 	">> GO GO <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>溜溜球！！！<<<"
 	}
 	">> RESIST 40 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守40秒<<<"
 	}
 	">> RESIST HERE <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚持住！！！<<<"
 	}
 }

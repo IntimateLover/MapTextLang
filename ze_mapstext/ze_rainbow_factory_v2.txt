@@ -39,10 +39,6 @@
 		}
 		"1"
 		{
-			"cvar"		"sm_cvar sm_he_limit 5"
-		}
-		"2"
-		{
 			"cvar"		"sm_cvar sm_molotov_limit 2"
 		}
 	}

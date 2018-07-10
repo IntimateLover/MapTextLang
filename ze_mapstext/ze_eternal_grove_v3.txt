@@ -60,7 +60,7 @@
 	{
 		"chi"		"**神庙入口大门打开了**"
 	}
-	"***DOOR OPENING IN 30 SECONDS***"
+	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**离门开启还有30秒**"
 	}
@@ -177,15 +177,11 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"86067"
+		"syncvalue"		"75634"
 	}
-	"***TOWER LIFT LEAVING IN 40 SECONDS***"
+	"***GROVE ENTRANCE OPENING IN 40 SECONDS***"
 	{
-		"chi"		"** **"
-	}
-	"***TOWER LIFT LEAVING IN 20 SECONDS***"
-	{
-		"chi"		"** **"
+		"chi"		"**树林入口40秒后开启**"
 	}
 	"***WARMUP - 60 SECONDS LEFT***"
 	{
@@ -199,19 +195,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***GROVE ENTRANCE OPENING IN 40 SECONDS***"
-	{
-		"chi"		"**树林入口40秒后开启**"
-	}
-	"***TEMPLE ENTRANCE OPENING IN 50 SECONDS***"
-	{
-		"chi"		"** **"
-	}
 	"***WARMUP - 10 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
-	"***WARMUP - 5 SECONDS LEFT***"
+	"***TEMPLE ENTRANCE OPENING IN 50 SECONDS***"
 	{
 		"chi"		"** **"
 	}

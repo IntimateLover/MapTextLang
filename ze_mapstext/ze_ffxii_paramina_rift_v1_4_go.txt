@@ -3,6 +3,7 @@
 	"** ZE FFXII PARAMINA RIFT **"
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
+		"DoorCountdown"		"-1"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
@@ -19,6 +20,7 @@
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
 		"chi"		"**支线任务：找到财宝达到500GIL即可在第二章开启药水奖励！**"
+		"DoorCountdown"		"-1"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
@@ -27,6 +29,7 @@
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
 		"chi"		"**解锁药水一共需要获得500GIL**"
+		"DoorCountdown"		"-1"
 	}
 	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
 	{
@@ -156,7 +159,7 @@
 	{
 		"chi"		"**还剩15秒！**"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"**还剩5秒！**"
 	}

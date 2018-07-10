@@ -89,7 +89,7 @@
 	{
 		"chi"		"**一位玩家拿起了冰-Lv.1**"
 	}
-	"**The gates will open in 20 seconds**"
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
 		"DoorCountdown"		"20"
@@ -494,7 +494,7 @@
 	{
 		"chi"		"**最后的大门将在10秒后打开-准备决一死战**"
 	}
-	"**Defend this place for 15 seconds**"
+	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
 		"chi"		"**守住这里15秒**"
 		"DoorCountdown"		"15"
@@ -575,7 +575,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**You have failed**"
+	"**YOU HAVE FAILED**"
 	{
 		"chi"		"**你失败了 **"
 	}
@@ -655,19 +655,19 @@
 	{
 		"chi"		"**哦不...是陆行鸟 **"
 	}
-	"**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**"
-	{
-		"chi"		"** **"
-	}
 	"MapGlobal_ConVars"
 	{
 		"0"
 		{
 			"cvar"		"sm_zeusweapons_decoy 0"
 		}
-		"1"
-		{
-			"cvar"		"zr_poison_enabled 0"
-		}
+	}
+	"**WE HAVE A SOLO WINNER**"
+	{
+		"chi"		"** **"
+	}
+	"**THIS ROUND IS ONLY FOR YOU!**"
+	{
+		"chi"		"** **"
 	}
 }

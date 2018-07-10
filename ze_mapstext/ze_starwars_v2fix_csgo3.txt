@@ -1308,8 +1308,4 @@
 			"cvar"		"sm_tagging_penalty 20"
 		}
 	}
-	"**ADMIN HAS PRESSED KILL ALL BUTTON**"
-	{
-		"chi"		"** **"
-	}
 }
