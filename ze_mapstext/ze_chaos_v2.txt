@@ -160,17 +160,6 @@
 	{
 		"chi"		"**收集3个光球**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_Cvar  sm_spawn_give_armor 1"
-		}
-	}
 	"<--Wood door will break in 35s-->"
 	{
 		"chi"		"**木门将在35秒后碎裂**"
