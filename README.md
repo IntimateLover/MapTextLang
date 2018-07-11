@@ -31,7 +31,7 @@
 `sm_block_command` 想要拦截参数关键词
 `sm_block_command zr_infect_spawntime` 就可以禁止掉地图修改尸变时间
 
-### [用法演示](https://github.com/MapTextLang/MapTextLang/blob/master/mapcfg/ze_grau_a03_4.cfg#L15-L17)
+### [用法演示](https://github.com/MapTextLang/MapTextLang/blob/master/mapcfg/ze_grau_a03_4f.cfg#L15-L17)
 ---
 
 默认拦截有关 "STEAM_" 所有关键词
