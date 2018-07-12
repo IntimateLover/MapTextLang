@@ -112,69 +112,7 @@
 	{
 		"chi"		"**塔旁的电梯将在5秒后启动**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 60"
-		}
-		"1"
-		{
-			"cvar"		"sm_Cvar sm_g_cv_money sm_he_limit 5"
-		}
-		"2"
-		{
-			"cvar"		"sm_molotov_limit 3"
-		}
-		"3"
-		{
-			"cvar"		"sm_Cvar sm_molotov_limit 3"
-		}
-		"4"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"5"
-		{
-			"cvar"		"sm_Cvar sm_g_cv_money 12000"
-		}
-		"6"
-		{
-			"cvar"		"sm_Cvar sm_smoke_limit 2"
-		}
-		"7"
-		{
-			"cvar"		"sm_Cvar  sm_flash_limit 1"
-		}
-		"8"
-		{
-			"cvar"		"sm_Cvar  sm_he_limit 5"
-		}
-		"9"
-		{
-			"cvar"		"sm_Cvar  sm_flash_limit 0"
-		}
-		"10"
-		{
-			"cvar"		"sm_cvar  sm_armor_limit 1"
-		}
-		"11"
-		{
-			"cvar"		"sm_g_cv_money 12000"
-		}
-		"12"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"13"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"14"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-	}
+	
 	"sync_version"
 	{
 		"syncvalue"		"75634"
