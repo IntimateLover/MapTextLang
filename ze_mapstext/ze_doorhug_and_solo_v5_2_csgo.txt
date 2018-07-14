@@ -166,37 +166,6 @@
 	{
 		"chi"		"**2号区域大门40秒后打开**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_smoke_limit 0"
-		}
-		"1"
-		{
-			"cvar"		"zr_ztele_zombie 0"
-		}
-		"2"
-		{
-			"cvar"		"zr_ztele_max_human 0"
-		}
-		"3"
-		{
-			"cvar"		"zr_class_modify zombies health 1000"
-		}
-		"4"
-		{
-			"cvar"		"sm_zeusweapons_smoke 0"
-		}
-		"5"
-		{
-			"cvar"		"sm_zeusweapons_decoy 0"
-		}
-		"6"
-		{
-			"cvar"		"zr_infect_mzombie_ratio 60"
-		}
-	}
 	"**Show those niggers that they should kiss your feets**"
 	{
 		"chi"		"**告诉那些非洲人们,他们应该吻你的脚**"
