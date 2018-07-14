@@ -52,10 +52,12 @@
 4. 禁止换行
 
 ## Entwatch 特殊属性
+<br>
  "damage_boost"     "2.1" //伤害增倍 【承受伤害 * 2.1 从而会增加击退效果】
- 【因为击退和武器伤害是关联的 如果伤害被放大 击退也会被放大 从而不用修改全局击退数值】 这可以在某些地图神器 如【人物性物品】无法被打退的情况. 比如为 (大章鱼ze_pirates_port_royal_v5_6 的 Barbossa船长 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/891be9ec2d52118155d4385582d71e9553e8f757/ze_mapstext/entwatchs/ze_pirates_port_royal_v5_6.cfg#L137) 加强被击退的数值 ) 
+ 【因为击退和武器伤害是关联的 如果伤害被放大 击退也会被放大 从而不用修改全局击退数值】 
+ <br>这可以在某些地图神器 如【人物性物品】无法被打退的情况. 比如为 (大章鱼ze_pirates_port_royal_v5_6 的 Barbossa船长 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/891be9ec2d52118155d4385582d71e9553e8f757/ze_mapstext/entwatchs/ze_pirates_port_royal_v5_6.cfg#L137) 加强被击退的数值 ) 
  
- 使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
+ <br>使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
 
 
 
