@@ -456,27 +456,4 @@
 	{
 		"chi"		"**恭喜-你们有位玩家solo了上帝难度**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_zeusweapons_decoy 0"
-		}
-		"1"
-		{
-			"cvar"		"sm_zeusweapons_hegrenade 2"
-		}
-		"5"
-		{
-			"cvar"		"sm_tagging_time 3"
-		}
-		"3"
-		{
-			"cvar"		"sm_stamina_burncost 0.7"
-		}
-		"4"
-		{
-			"cvar"		"sm_tagging_penalty 20"
-		}
-	}
 }
