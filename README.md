@@ -58,6 +58,3 @@
  <br>这可以在某些地图神器 如【人物性物品】无法被打退的情况. 比如为 (大章鱼ze_pirates_port_royal_v5_6 的 Barbossa船长 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/891be9ec2d52118155d4385582d71e9553e8f757/ze_mapstext/entwatchs/ze_pirates_port_royal_v5_6.cfg#L137) 加强被击退的数值 ) 
  
  <br>使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
-
-
-
