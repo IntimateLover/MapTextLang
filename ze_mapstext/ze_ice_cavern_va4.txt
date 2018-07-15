@@ -62,10 +62,6 @@
 		{
 			"cvar"		"sm_molotov_limit 6"
 		}
-		"3"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
 	}
 	"<<< Zombies teleport in 60 seconds! >>>"
 	{

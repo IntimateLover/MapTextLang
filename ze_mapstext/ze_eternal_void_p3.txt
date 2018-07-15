@@ -1,5 +1,12 @@
 "Console_T"
 {
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
+	}
 	"**** Spawn will open in 25 seconds****"
 	{
 		"chi"		"** **"
@@ -36,10 +43,6 @@
 	{
 		"chi"		"** **"
 	}
-	"****Lift 2 is about to go****"
-	{
-		"chi"		"** **"
-	}
 	"***Get inside the Spire before the Blowout***"
 	{
 		"chi"		"** **"
@@ -48,7 +51,7 @@
 	{
 		"chi"		"** **"
 	}
-	"****Hold your ground! The spire will open soon... You must get in to stay alive!****"
+	"****Lift 1 is about to go****"
 	{
 		"chi"		"** **"
 	}
@@ -60,15 +63,12 @@
 	{
 		"chi"		"** **"
 	}
-	"****Lift 1 is about to go****"
+	"****Hold your ground! The spire will open soon... You must get in to stay alive!****"
 	{
 		"chi"		"** **"
 	}
-	"MapGlobal_ConVars"
+	"****Lift 2 is about to go****"
 	{
-		"0"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
+		"chi"		"** **"
 	}
 }
