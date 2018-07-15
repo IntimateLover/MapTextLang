@@ -57,11 +57,13 @@
  【因为击退和武器伤害是关联的 如果伤害被放大 击退也会被放大 从而不用修改全局击退数值】 
  <br>这可以在某些地图神器 如【人物性物品】无法被打退的情况. 比如为 (大章鱼ze_pirates_port_royal_v5_6 的 Barbossa船长 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/891be9ec2d52118155d4385582d71e9553e8f757/ze_mapstext/entwatchs/ze_pirates_port_royal_v5_6.cfg#L137)
  
- <br>使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
+ <br>上述单个参数 使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
  
  
- 
- 因为模型原因子弹无法穿透到僵尸 所以上述设置无效 需要通过特殊方法来处理.
+ 部分地图会因为模型原因子弹无法穿透到僵尸 所以上述设置无效 需要通过特殊方法来处理.
+ [用法演示]( https://github.com/MapTextLang/MapTextLang/blob/540bc8e9d481e5555b7768e6728b1726bbf98599/ze_mapstext/entwatchs/ze_lotr_minas_tirith_p5.cfg#L234-L241)
+---
+
  
     
  
