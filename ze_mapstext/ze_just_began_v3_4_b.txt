@@ -80,4 +80,28 @@
 	{
 		"syncvalue"		"44122"
 	}
+	"you need hold 30s"
+	{
+		"chi"		"** **"
+	}
+	"hold here 35s"
+	{
+		"chi"		"** **"
+	}
+	"The platform will fly after 60S"
+	{
+		"chi"		"** **"
+	}
+	"we need defend 18s"
+	{
+		"chi"		"** **"
+	}
+	"Mobile platform will rise in 35S"
+	{
+		"chi"		"** **"
+	}
+	"Humans will win after 5S"
+	{
+		"chi"		"** **"
+	}
 }
