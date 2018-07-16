@@ -91,12 +91,13 @@
 	}
 	"**Resist 35 s!**"
 	{
-		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"chi"		"**守住35秒 **"
+		"DoorCountDown"		"35"
 	}
 	"**Final barrier WILL BREAK IN 4 SECONDS**"
 	{
 		"chi"		"**最后一个障碍将在4秒后破碎 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Run! Reach the core!**"
 	{
@@ -112,7 +113,7 @@
 	}
 	"*** Finish mode ** 1 shoot 1 kill!**"
 	{
-		"chi"		"** 完成模式 ** 一枪一死 **"
+		"chi"		"** 完成模式 ** 一枪一个 **"
 	}
 	"**Lift leaving in 7 s**"
 	{
@@ -202,6 +203,7 @@
 	"**Global trigger activated: slippery ground in 5s**"
 	{
 		"chi"		"**全体属性触发：5秒后地面变滑 **"
+		"DoorCountdown"		"-1"
 	}
 	"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
 	{
@@ -210,6 +212,7 @@
 	"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
 	{
 		"chi"		"**人类20秒后迈向胜利** 人类必须去到核心!**"
+		"DoorCountdown"		"-1"
 	}
 	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
 	{
@@ -218,30 +221,37 @@
 	"**Team trigger activated: untouchable ct in 5s (15s)**"
 	{
 		"chi"		"**团队属性触发：5秒后人类人类不可触碰（15秒） **"
+		"DoorCountdown"		"-1"
 	}
 	"**Team trigger activated: fast CT in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后人类速度加快 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Team trigger activated: slow T in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后减速所有僵尸 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Team trigger activated: untouchable zombies in 5s (7s)**"
 	{
 		"chi"		"**团队属性触发：5秒后僵尸不能被攻击 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Global trigger activated: absolute darkness in 5s **"
 	{
 		"chi"		"**全体属性触发：5秒后陷入绝对黑暗 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Team trigger activated: global push to zombies in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后推动所有僵尸 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Global trigger activated: everyone will be teleported to a room int 8s**"
 	{
 		"chi"		"**全体属性触发：8秒后所有人都会被传送到一个房间 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Global trigger activated: low gravity for humans**"
 	{
@@ -250,10 +260,12 @@
 	"**Team trigger activated: fast T in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后僵尸速度加快 **"
+		"DoorCountdown"		"-1"
 	}
 	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
 	{
 		"chi"		"**2个重生点！每平方米更多的人类...和更多僵尸 **"
+		"DoorCountdown"		"-1"
 	}
 	"** Playable area set to MEDIUM **"
 	{
@@ -261,7 +273,7 @@
 	}
 	"** GRAVITY! Low gravity all the round! **"
 	{
-		"chi"		"**重力！本局全体低重力 **"
+		"chi"		"**低重力！本局全体低重力 **"
 	}
 	"** STATIC LABYRINTH! Choose the correct way! **"
 	{
@@ -282,6 +294,7 @@
 	"** ... 8 TREX!! Prepare your weapons! **"
 	{
 		"chi"		"**8个霸王龙！！准备好你的武器！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** And the human weapons will be  ..."
 	{
@@ -310,6 +323,7 @@
 	"** ... 8 BALROGS!!! You are dead **"
 	{
 		"chi"		"**8个炎魔！！！你死定了 **"
+		"DoorCountdown"		"-1"
 	}
 	"** LADDER! Maybe the worst item right now! **"
 	{
@@ -318,14 +332,16 @@
 	"** ... 8 Scary zombies! Your hands will be trembling all round! **"
 	{
 		"chi"		"**8个恐怖僵尸！你的双手在颤抖！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** SINGULARITY GUN! Fuck you gravity! **"
 	{
-		"chi"		"**重力枪！去TMD的重力 **"
+		"chi"		"**黑洞炮！去TMD的黑洞 **"
 	}
 	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
 	{
 		"chi"		"**竞技场大屠杀！这不是一件容易的事！存活2分钟！ **"
+		"DoorCountdown"		"-1"
 	}
 	"**Singularity cannon has been picked up**"
 	{
@@ -440,6 +456,7 @@
 	"**Team trigger activated: zombies health is now 50000**"
 	{
 		"chi"		"**团队属性触发：僵尸50000血 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Slower weapon has been picked**"
 	{
@@ -509,7 +526,7 @@
 	}
 	"** BLACK HOLE! Use it carefully! Remember! Just one use! **"
 	{
-		"chi"		"**黑洞！小心使用！记得!只能使用一次！ **"
+		"chi"		"**传送枪！小心使用！记得!只能使用一次！ **"
 	}
 	"** FACE TO FACE CHALLENGE! **"
 	{
@@ -530,6 +547,7 @@
 	"**Global trigger activated: absolute blind in 5 s**"
 	{
 		"chi"		"**全体属性触发：5秒后致盲 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Finish mode ** Kill all zombies without help!**"
 	{
@@ -562,10 +580,12 @@
 	"** ... 8 Vortigaunts! And no! they are not friendly! **"
 	{
 		"chi"		"**8个弗地岗人！他们并不友好！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
 	{
-		"chi"		"**风枪！我想要8个风枪一起行动！ **"
+		"chi"		"**旋风枪！我想要8个风枪一起行动！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** Vortigaunt has been picked up**"
 	{
@@ -578,6 +598,7 @@
 	"** ... 8 Barnacles zombies! Barnacles are funny! **"
 	{
 		"chi"		"**8个藤壶僵尸！藤壶非常有趣！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** EARENDIL LIGHT! Work in team! And you will win easy **"
 	{
@@ -590,6 +611,7 @@
 	"** ... 8 Zombie Dogs! **"
 	{
 		"chi"		"**8个僵尸狗！ **"
+		"DoorCountdown"		"-1"
 	}
 	"**Pyramid Head is looking for you ... **"
 	{
@@ -631,6 +653,7 @@
 	"** ... 8 huge Crabs! **"
 	{
 		"chi"		"**8个巨大的螃蟹 **"
+		"DoorCountdown"		"-1"
 	}
 	"**BUILDER! Time to build a fortress! **"
 	{
@@ -647,6 +670,7 @@
 	"** ... 8 Stoppers! well... thats easy! **"
 	{
 		"chi"		"**8个僵尸冰！好...这很简单！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** MINIGUN! Counter Terrorist Win! **"
 	{
@@ -700,6 +724,7 @@
 	"** ... 8 TITANS! incoming rape! **"
 	{
 		"chi"		"**8个泰坦 **"
+		"DoorCountdown"		"-1"
 	}
 	"** HEAL WEAPON! Useful ... sometimes **"
 	{
@@ -715,7 +740,8 @@
 	}
 	"** ... 8 Jumpers! Be careful! It is harder than it sounds! **"
 	{
-		"chi"		"**8只跳高僵尸！小心！它听起来比较难！ **"
+		"chi"		"**8只高跳僵尸！小心！它听起来比较难！ **"
+		"DoorCountdown"		"-1"
 	}
 	"**UNLIMITED AMMO! It looks kinda easy! **"
 	{
@@ -743,7 +769,7 @@
 	}
 	"** YOU BREAK THE LASTS BRICKS AT SAME TIME ! ** SELECTING RANDOMLY **"
 	{
-		"chi"		"**你打破了一块模式砖！ **随机选择一个模式 **"
+		"chi"		"**你们同时打破了最后的模式砖！ **随机选择一个模式 **"
 	}
 	"[PLAYING] Bonnie Tyler : I need a Hero"
 	{
@@ -792,10 +818,12 @@
 	"** ... 8 Pyramid Head! Bullets dont do nothing agains them! **"
 	{
 		"chi"		"**8个三角头！子弹对他们没有伤害和击退！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** ... 8 Summoners! Zombies: remember that right click summons a black hole! **"
 	{
 		"chi"		"**8个僵尸召唤师！僵尸：记得右键召唤一个传送阵！ **"
+		"DoorCountdown"		"-1"
 	}
 	"[PLAYING] Serious Sam 2 : Boss fight"
 	{
@@ -836,6 +864,7 @@
 	"** SAW! Remember 300? Maybe you could try something! **"
 	{
 		"chi"		"**电锯！也许你可以试试！ **"
+		"DoorCountdown"		"-1"
 	}
 	"** INVULNERABILITY! I hope you are one of the pickers! **"
 	{
