@@ -1,34 +1,30 @@
-# 正在维护储存库 暂时无法完成自动同步 请稍后编辑.
+# 这里是 X社区 【ZE地图 参数/地图翻译 / stripper / Entwatch 】仓库.
 
-
-
-# 这里是 X社区 【ZE地图 仓库】 参数/地图翻译 / stripper / Entwatch
-
-如果要 设置其他服务器地图参数 [请点这里] (https://github.com/e54385991/GeneralMapcfg)
+如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
 ---
 这是X社区 地图翻译 / Entwatch / stripper mapcfg(地图参数) 或者其他翻译 GIT仓库。
 
 地图翻译/stripper/mapcfg 支持所有类型服务器。
 
-只要对应服务器具备相应地图就会同步本仓库数据，其他服务器不会产生影响。
+只要对应服务器具备相应地图就会同步本仓库数据
 
 ## 目录说明
 ---
 + mapcfg      ->地图参数
 + mappool     ->地图池控制系统
 + entwatch    ->神器显示配置
-+ ze_mapstext ->ZE地图翻译
++ maptext     ->ZE地图翻译
 
-## 游戏中自动同步方法
+## 游戏中自动同步说明
 ---
-1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).
+1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).就是通过编辑文件后创建PR
 
 2. 当您提交Pull Request后 在管理通过后 在论坛会 [显示事件](https://bbs.93x.net/plugin.php?id=xnet_events:xnet_events). 应该会显示事件 如果没有显示 可能没有成功 请加上一些无用注释 如//再提交一次 和原不同即可)
 
 3. 游戏服务器会每隔地图更换 自动检测修改并同步 op / mapper可以输入 !git_update 强行同步 【请不要在 修改后的 10分钟内输入 否则无法拉到新数据 因为缓存】
 
-版本会自动变化以让游戏服务器检测 [GIT版本查看地址](http://bd.93x.net/maptexthook/git_version.txt) （触发 合并审核 / 修改 / 添加 事件后会自动修改 +1 换图后 如果服务器检测到版本不同那么会拉取需要更新的数据）
+版本会自动变化以让游戏服务器检测 [GIT版本查看地址](http://bd.93x.net/maptexthook/git_version.txt) （触发 合并审核 / 修改 / 添加 事件后会自动修改 +1 换图后 如果服务器检测到版本不同那么会尝试自动拉取需要更新的数据）
 
 ## 地图修改服务器参数/或指令拦截
 ---
