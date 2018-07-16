@@ -1,7 +1,0 @@
-"Phrases"
-{	
-	"!jumpstats"
-	{
-		"chi"        "{grey}想过滤有些无用跳跃数据? 输入 {default}!jumpstats{grey}/{default}!js {grey}来更改跳跃数据设置!"
-	}
-}
