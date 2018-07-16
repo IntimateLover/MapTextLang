@@ -1,4 +1,7 @@
-# X社区 地图翻译 / stripper / Entwatch
+# 这里是 X社区 【ZE地图 仓库】 参数/地图翻译 / stripper / Entwatch
+
+如果要 设置其他服务器地图参数 [请点这里] (https://github.com/e54385991/GeneralMapcfg)
+
 ---
 这是X社区 地图翻译 / Entwatch / stripper mapcfg(地图参数) 或者其他翻译 GIT仓库。
 
