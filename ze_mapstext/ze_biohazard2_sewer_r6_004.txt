@@ -2,7 +2,7 @@
 {
 	"**** MAP BY AERIS_004 ****"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：AERIS_004 地图翻译：清新的二哈♪**"
 	}
 	"*** WWW.SUPREME-ELITE.FR ***"
 	{
@@ -10,7 +10,7 @@
 	}
 	"***START ELEVATOR 15 SEC***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在15s后运行 **"
 	}
 	"***ELEVATOR UP 14 SEC***"
 	{
@@ -18,7 +18,7 @@
 	}
 	"*** CATCH GOLD MEDAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**得到金币 **"
 	}
 	"***GENERATOR DESACTIVED***"
 	{
@@ -26,27 +26,27 @@
 	}
 	"***CATCH FUSE***"
 	{
-		"chi"		"** **"
+		"chi"		"**得到保险丝 **"
 	}
 	"***CATCH SILVER MEDAL***"
 	{
-		"chi"		"** **"
+		"chi"		"**得到银币 **"
 	}
 	"*** START TRAIN 20 SEC ***"
 	{
-		"chi"		"** **"
+		"chi"		"**缆车将在20s后运行 **"
 	}
 	"*** START TRAIN 10 SEC ***"
 	{
-		"chi"		"** **"
+		"chi"		"**缆车将在10s后运行 **"
 	}
 	"***START ELEVATOR 25 SEC***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在25s后运行 **"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
-		"chi"		"** **"
+		"chi"		"**沙林毒气将在40s后释放 **"
 	}
 	"sync_version"
 	{
