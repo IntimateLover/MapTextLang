@@ -64,5 +64,5 @@
   <br>上述单个参数 使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
  
  然而部分地图会因为模型原因子弹无法穿透到僵尸 所以上述设置无效 需要通过特殊方法来处理.
- [用法演示]( https://github.com/MapTextLang/MapTextLang/blob/master/ze_mapstext/entwatchs/ze_lotr_minas_tirith_p5.cfg#L234-L242)
+ [用法演示]( https://github.com/MapTextLang/MapTextLang/blob/master/entwatch/ze_lotr_minas_tirith_p5.cfg#L234-L242)
 ----
