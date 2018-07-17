@@ -1,4 +1,4 @@
-# X社区 ZE地图 参数/地图翻译/stripper/Entwatch仓库
+# X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
 
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
@@ -76,5 +76,5 @@
 
 ### 特殊情况
 
-上述单个参数需要保证僵尸会承受到1点伤害，如果模型或者其他原因阻挡了子弹伤害需要使用其他方法。 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/master/entwatch/ze_lotr_minas_tirith_p5.cfg#L234-L242)
+上述单个参数需要保证僵尸会承受到至少1点伤害，如果模型或者其他原因阻挡了子弹伤害需要使用其他方法。 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/master/entwatch/ze_lotr_minas_tirith_p5.cfg#L234-L242)
 
