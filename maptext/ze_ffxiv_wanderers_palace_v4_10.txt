@@ -165,12 +165,12 @@
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"**热离子光束（远离脚下的红色区域）**"
+		"chi"		"**热离子光束 **"
 		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"
 	{
-		"chi"		"**天堂陨落（看天上不要被砸到）**"
+		"chi"		"**天堂陨落 **"
 		"ico"		"icon_fire"
 	}
 	"*** Cauterize***"
@@ -180,7 +180,7 @@
 	}
 	"*** Flare ***"
 	{
-		"chi"		"**火（往右边走跳上箱子）**"
+		"chi"		"**火 **"
 		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
@@ -322,12 +322,12 @@
 	}
 	"***Heavens Fall***"
 	{
-		"chi"		"**天堂陨落（看天上不要被砸到）**"
+		"chi"		"**天堂陨落 **"
 		"ico"		"icon_fire"
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**地震（看前面不要被撞到）**"
+		"chi"		"**地震 **"
 		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime dead***"
@@ -379,7 +379,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼（往平台后方走，出现吸力按住S回头打BOSS）**"
+		"chi"		"**暴风之翼 **"
 		"ico"		"icon_fire"
 	}
 	"*** Level:Savage ***"
@@ -428,7 +428,7 @@
 	}
 	"*** Shadow Flare ***"
 	{
-		"chi"		"**电（蹲下）**"
+		"chi"		"**电 **"
 		"ico"		"icon_fire"
 	}
 	"*** Cauterize ***"
@@ -442,12 +442,12 @@
 	}
 	"*** True Tempest wing ***"
 	{
-		"chi"		"**真暴风之翼 **"
+		"chi"		"**真-暴风之翼 **"
 		"ico"		"icon_fire"
 	}
 	"*** True Heavens fall ***"
 	{
-		"chi"		"**真天堂陨落（看天上不要被砸到）**"
+		"chi"		"**真-天堂陨落 **"
 		"ico"		"icon_fire"
 	}
 	"*** Steam Judge ***"
@@ -531,22 +531,22 @@
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**极天堂陨落（看天上不要被砸到）**"
+		"chi"		"**极-天堂陨落 **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**极暗影耀斑**"
+		"chi"		"**极-暗影耀斑 **"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
-		"chi"		"**极暴风之翼**"
+		"chi"		"**极-暴风之翼**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**极龙车来袭**"
+		"chi"		"**极-龙车来袭 **"
 		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"
@@ -560,7 +560,7 @@
 	}
 	"***Ultimate Akh Morn***"
 	{
-		"chi"		"**极死亡轮回 **"
+		"chi"		"**极-死亡轮回 **"
 	}
 	"*** Ultimate CLEAR ***"
 	{
