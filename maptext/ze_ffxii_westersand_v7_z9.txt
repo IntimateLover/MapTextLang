@@ -7,7 +7,6 @@
 	"[NORMAL MODE]"
 	{
 		"chi"		"**普通难度[NORMAL]**"
-		"command"		"sm_aei_hammerid 257307 use"
 	}
 	"** Defend untill the guards open the airport. **"
 	
@@ -100,6 +99,7 @@
 	"** Congratulations - You won [NORMAL] **"
 	{
 		"chi"		"**恭喜：你已经征服普通难度**"
+		"command"		"sm_aei_hammerid 257307 use"
 	}
 	"[HARD MODE]"
 	{
