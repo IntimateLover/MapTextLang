@@ -396,6 +396,7 @@
 	"***!!! CURRENT DIFFICULTY : HARD !!!***"
 	{
 		"chi"		"** **"
+		"command"  "zr_class_modify zombies health_regen_amount 1"
 	}
 	"***40 SECONDS LEFT***"
 	{
@@ -451,10 +452,11 @@
 	}
 	"***KILL ALL ZOMBIE SURVIVOR***"
 	{
-		"chi"		"** **"          "command"  "zr_class_modify zombies health_regen_amount 1"
+		"chi"		"** **"
+		"command"  "zr_class_modify zombies health_regen_amount 1"
 	}
 	"***NEXT DIFFICULTY  EXTREM***"
 	{
-		"chi"		"** **"          "command"  "zr_class_modify zombies health_regen_amount 300"
+		"chi"		"** **"          
 	}
 }
