@@ -19,7 +19,7 @@
 	}
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
-		"chi"		"**支线任务：找到财宝达到500GIL即可在第二章开启药水奖励！**"
+		"chi"		"**支线任务：找到财宝达到五百GIL即可在第二章开启药水奖励！**"
 		"DoorCountdown"		"-1"
 	}
 	"** MAP BY SLAYERDRAGON **"
@@ -28,12 +28,12 @@
 	}
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
-		"chi"		"**解锁药水一共需要获得500GIL**"
+		"chi"		"**解锁药水一共需要获得五百GIL**"
 		"DoorCountdown"		"-1"
 	}
 	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
 	{
-		"chi"		"**水晶塔已被破坏+35GIL**"
+		"chi"		"**水晶塔已被破坏+三十五GIL**"
 	}
 	"** GATE OPENS IN 15 SECONDS **"
 	{
@@ -325,7 +325,7 @@
 	}
 	"** Player has acquired a AMMO-POTION **"
 	{
-		"chi"		"**玩家得到了弹药支援（10秒）！**"
+		"chi"		"**玩家得到了弹药支援（十秒）！**"
 	}
 	"** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **"
 	{
@@ -605,7 +605,7 @@
 	}
 	"** TREASURE +87 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+87GIL **"
+		"chi"		"**找到宝藏！+八十七GIL **"
 	}
 	"** Player has learned AEROGA (wind lvl4) **"
 	{
@@ -641,7 +641,7 @@
 	}
 	"** TREASURE +64 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+64GIL **"
+		"chi"		"**找到宝藏！+六十四GIL **"
 	}
 	"** CHAOS IS DEFEATED ONCE AND FOR ALL **"
 	{
@@ -688,7 +688,7 @@
 	}
 	"** TREASURE +120 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+120GIL **"
+		"chi"		"**找到宝藏！+一百二十GIL **"
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 2 NORMAL **"
 	{
@@ -696,7 +696,7 @@
 	}
 	"** TREASURE +100 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+100GIL **"
+		"chi"		"**找到宝藏！+一百GIL **"
 	}
 	"** TREASURE +1 GIL FOUND **"
 	{
@@ -704,19 +704,19 @@
 	}
 	"** TREASURE +71 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+71GIL **"
+		"chi"		"**找到宝藏！+七十一GIL **"
 	}
 	"** TREASURE +113 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+113GIL **"
+		"chi"		"**找到宝藏！+一百一十三GIL **"
 	}
 	"** TREASURE +53 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+53GIL**"
+		"chi"		"**找到宝藏！+五十三GIL**"
 	}
 	"** TREASURE +27 GIL FOUND **"
 	{
-		"chi"		"**找到宝藏！+27GIL**"
+		"chi"		"**找到宝藏！+二十七GIL**"
 	}
 	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
 	{
@@ -900,7 +900,7 @@
 	}
 	"35 GIL OBTAINED BY DEACTIVATING A TOWER"
 	{
-		"chi"		"**水晶塔已被破坏+35GIL**"
+		"chi"		"**水晶塔已被破坏+三十五GIL**"
 	}
 	"15 TOWERS DESTROYED!"
 	{
@@ -908,7 +908,7 @@
 	}
 	"TREASURE +100 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+100GIL**"
+		"chi"		"**找到宝藏！+一百GIL**"
 	}
 	"** Player has learned CURE -- Level 1 **"
 	{
@@ -1040,15 +1040,15 @@
 	}
 	"TREASURE +71 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+71GIL**"
+		"chi"		"**找到宝藏！+七十一GIL**"
 	}
 	"TREASURE +53 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+53GIL**"
+		"chi"		"**找到宝藏！+五十三GIL**"
 	}
 	"TREASURE +87 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+87GIL**"
+		"chi"		"**找到宝藏！+八十七GIL**"
 	}
 	"** YOU DEFEATED MATEUS **"
 	{
@@ -1128,7 +1128,7 @@
 	}
 	"TREASURE +64 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+64GIL**"
+		"chi"		"**找到宝藏！+六十四GIL**"
 	}
 	"** Player has learned BLIZZARA -- Level 4 **"
 	{
@@ -1144,7 +1144,7 @@
 	}
 	"TREASURE +27 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+27GIL**"
+		"chi"		"**找到宝藏！+二十七GIL**"
 	}
 	"Warmup Round - 40 Seconds."
 	{
@@ -1312,11 +1312,11 @@
 	}
 	"TREASURE +120 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+120GIL**"
+		"chi"		"**找到宝藏！+一百二十GIL**"
 	}
 	"TREASURE +113 GIL FOUND"
 	{
-		"chi"		"**找到宝藏！+113GIL**"
+		"chi"		"**找到宝藏！+一百一十三GIL**"
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **"
 	{
