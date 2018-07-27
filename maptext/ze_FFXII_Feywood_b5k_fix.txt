@@ -404,7 +404,7 @@
 	}
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
-		"chi"		"**在这里守住30秒 **
+		"chi"		"**在这里守住30秒 **"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	{
@@ -445,11 +445,11 @@
 	}
 	"**ZODIARK READIES FLARE**"
 	{
-		"chi"		"**戒律王使用了炽热射线**"
+		"chi"		"**戒律王使用了死亡射线**"
 	}
 	"***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
 	{
-		"chi"		"**戒律王使用了暗黑射线-远离它**"
+		"chi"		"**戒律王使用了暗影破坏-远离它**"
 	}
 	"**THE BOSS IS DAMAGED BUT NOW HES THE MOST DANGEROUS**"
 	{
@@ -461,8 +461,7 @@
 	}
 	"**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**"
 	{
-		"chi"		"**戒律王使用了终极-你们将在15秒后全部死亡**"
-		"DoorCountdown"		"15"
+		"chi"		"**戒律王使用了最终一击-你们将在15秒后全部死亡**"
 	}
 	"**NADES ARENT DAMAGE HIM NOW**"
 	{
