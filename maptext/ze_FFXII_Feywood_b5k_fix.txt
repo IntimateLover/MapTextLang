@@ -404,8 +404,7 @@
 	}
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
-		"chi"		"**在这里守住20秒**"
-		"DoorCountdown"		"20"
+		"chi"		"**在这里守住30秒 **
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	{
