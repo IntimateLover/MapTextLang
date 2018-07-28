@@ -22,7 +22,7 @@ for /f "delims=" %%i in ('dir *.*/a-d /b /s') do (
     )
 )
 
-cd /d "G:\GITMAPTEXT\MapTextLang"
+cd /d "G:\GitSYNC\MapTextLang"
 git add . && git commit -m autoupdate && git push origin master
 
 
