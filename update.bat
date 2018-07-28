@@ -5,7 +5,7 @@ git pull origin master
 set "sd=F:\CSGOSERVER\csgoserverzev2\csgo\addons\sourcemod\configs\console_t"
 set "dd=G:\GITMAPTEXT\MapTextLang\maptext"
 rem -2前天，-1昨天，0今天
-set d=-1
+set d=0
 for /f %%a in ('mshta VBScript:Execute("NewDate=date+(%d%):FmtDate=right(year(NewDate),4)&right(""0""&month(NewDate),2)&right(""0""&day(NewDate),2):CreateObject(""Scripting.FileSystemObject"").GetStandardStream(1).Write FmtDate:close"^)') do set yd=%%a
 echo;昨天日期为%yd%
 cd /d "%sd%"
