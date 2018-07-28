@@ -1,4 +1,4 @@
-
+cd /d "G:\GitSYNC\MapTextLang"
 git pull origin master
 
 
