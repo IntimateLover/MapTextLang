@@ -1,9 +1,5 @@
 # X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
 
-#本仓库的维护方法
-由于编辑和添加增多 会增加很多缓存垃圾 我们只需等待最新的修改过去24小时后 添加本文件任何注释 编辑理由为 
-"trigger cleanup" 不含引号 即可清理全部缓存垃圾.加快同步效率和速度.
-
 
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
