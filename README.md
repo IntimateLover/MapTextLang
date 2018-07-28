@@ -26,6 +26,9 @@
 ---
 
 ## 游戏中自动同步说明
+### 如果这里文件和服务器文件大小写不匹配 将无法同步成功
+
+
 1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).就是通过编辑文件后创建PR
 
 2. 当您提交Pull Request后 在管理通过后 在论坛会 [显示事件](https://bbs.93x.net/plugin.php?id=xnet_events:xnet_events). 应该会显示事件 如果没有显示 可能没有成功 请加上一些无用注释 如`//`再提交一次 和原不同即可)
