@@ -659,6 +659,10 @@
 		{
 			"cvar"		"sm_zeusweapons_decoy 0"
 		}
+		"1"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
 	}
 	"**WE HAVE A SOLO WINNER**"
 	{

@@ -11,7 +11,7 @@
 	"*** 30 seconds left ***"
 	{
 		"chi"		"**还剩30秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** teleported zombie ***"
 	{

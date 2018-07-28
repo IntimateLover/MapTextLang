@@ -55,7 +55,7 @@
 	"**DOORS OPENING IN 30 SECONDS**"
 	{
 		"chi"		"**门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** A CT reached the second labyrinth wall **"
 	{
@@ -92,7 +92,7 @@
 	"**Resist 35 s!**"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"**Final barrier WILL BREAK IN 4 SECONDS**"
 	{
@@ -154,7 +154,7 @@
 	"** NUKE in 60 seconds **"
 	{
 		"chi"		"**60秒后发射核弹 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"** NUKE IN 40 SECONDS **"
 	{
@@ -374,7 +374,7 @@
 	"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
 	{
 		"chi"		"**按钮将会在65秒后解锁 **"
-		"DoorCountDown"		"65"
+		"DoorCountdown"		"65"
 	}
 	"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
 	{
@@ -443,7 +443,7 @@
 	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
 	{
 		"chi"		"**传送将在25秒后激活 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** Unlimited ammo weapon picked! **"
 	{
@@ -497,7 +497,7 @@
 	"**Resist 35 seconds!**"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"** RUN **"
 	{
@@ -506,7 +506,7 @@
 	"**Hold 20 seconds!**"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**This is your last stand! Defend! The teleporter is getting ready!**"
 	{
@@ -640,7 +640,7 @@
 	"** Metal door will open in 20 seconds! **"
 	{
 		"chi"		"**金属门20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Holy grenade has been picked**"
 	{
@@ -703,7 +703,7 @@
 	"** Portal will open in 30 seconds! **"
 	{
 		"chi"		"**门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** PORTAL IS READY! GO IN! **"
 	{
@@ -883,6 +883,10 @@
 		"chi"		"**地图制作：Hannibal[SPA] 地图修复：Noctali 地图翻译：IntimateLover**"
 	}
 	"** ALL ITEMS MODE ENABLED **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLY GRENADE! Be careful with that weapon! **"
 	{
 		"chi"		"** **"
 	}

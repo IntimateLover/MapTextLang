@@ -2,11 +2,11 @@
 {
 	"*** This is my dream ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是我的梦境**"
 	}
 	"***  You push a button to open this door. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须按下开关来打开这扇门**"
 	}
 	"*** How about you pushing vending machines ***"
 	{
@@ -14,7 +14,7 @@
 	}
 	"*** Loading another world ... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们进入了一个不一样的地方**"
 	}
 	"*** Please select only one and press the button ***"
 	{
@@ -22,15 +22,15 @@
 	}
 	"*** Loading is completed in 20 seconds... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**20s后我们进入**"
 	}
 	"*** Load complete. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**可以走了**"
 	}
 	"*** Shtter Open ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"*** It is 20 seconds until the shutter opens ***"
 	{
@@ -46,7 +46,7 @@
 	}
 	"*** Get in the room. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快进房间里面**"
 	}
 	"*** Shutter Close ***"
 	{
@@ -132,7 +132,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 20 seconds left ***"
+	"*** 20 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
@@ -189,6 +189,26 @@
 		"chi"		"** **"
 	}
 	"*** The exit is in front of you ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The resistance of the last dream comes ... ***"
+	{
+		"chi"		"** **"
+	}
+	"???? : wake up !!! wake up !!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** hear a voice calling you ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Well, its time to wake up from a dream ... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** To the usual morning ... ***"
 	{
 		"chi"		"** **"
 	}

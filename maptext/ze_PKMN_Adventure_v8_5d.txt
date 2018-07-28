@@ -192,7 +192,7 @@
 	{
 		"chi"		"** **"
 	}
-	"10 SECONDS!"
+	"10 seconds!"
 	{
 		"chi"		"** **"
 	}
@@ -294,7 +294,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"74375"
+		"syncvalue"		"39980"
 	}
 	"MIDDLE PATH OPEN"
 	{
@@ -1228,6 +1228,26 @@
 		"chi"		"** **"
 	}
 	"**Level 5 Completed!**"
+	{
+		"chi"		"** **"
+	}
+	"**Whitney: Miltank, use Milk Drink!**"
+	{
+		"chi"		"** **"
+	}
+	"**Miltank has restored 150HP**"
+	{
+		"chi"		"** **"
+	}
+	"Wally: KIRLIA USE TELEPORT"
+	{
+		"chi"		"** **"
+	}
+	"**Falkner: Noctowl, use Whirlwind"
+	{
+		"chi"		"** **"
+	}
+	"**Falkner: Noctowl, use Zen Headbutt!"
 	{
 		"chi"		"** **"
 	}

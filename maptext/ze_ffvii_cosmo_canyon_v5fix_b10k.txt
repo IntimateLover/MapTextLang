@@ -55,7 +55,7 @@
 	"**Defend here for 25 seconds until the gates open**"
 	{
 		"chi"		"**在门开之前守住25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
@@ -64,17 +64,17 @@
 	"**The barman will open the door in 5 seconds**"
 	{
 		"chi"		"**酒吧大门将在5秒后打开**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
 		"chi"		"**僵尸来了 坚守25秒直到酒吧后门打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**5 SECONDS LEFT**"
 	{
 		"chi"		"**还剩最后5秒**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**FALL BACK**"
 	{
@@ -87,7 +87,7 @@
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
 		"chi"		"**岩石将在25秒后爆炸**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A player has picked up EARTH materia**"
 	{
@@ -96,7 +96,7 @@
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A player has picked up FIRE materia**"
 	{
@@ -105,7 +105,7 @@
 	"**The gates of gi cave will open in 15 seconds**"
 	{
 		"chi"		"**开关按下  矿洞大门将在15秒后打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"**A player has picked up SLEEP materia**"
 	{
@@ -122,7 +122,7 @@
 	"**The gi gate will open in 35 seconds**"
 	{
 		"chi"		"**35秒后开门**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"[Cloud] Ay.. There you are!"
 	{
@@ -191,12 +191,12 @@
 	"**DOOR OPENS IN 40 SECONDS**"
 	{
 		"chi"		"**大门40秒后打开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"**10 SECONDS LEFT**"
 	{
 		"chi"		"**还剩10秒**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**This is your last hold point**"
 	{
@@ -205,7 +205,7 @@
 	"**Get on the rocks and hold 25 seconds**"
 	{
 		"chi"		"**快上那块石头还有25秒核爆**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
@@ -329,7 +329,7 @@
 	"**The rock will explode in 25 seconds**"
 	{
 		"chi"		"**炸弹坏了？？？快找找其他路20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
@@ -410,17 +410,17 @@
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
 		"chi"		"**守住这里10秒 直到我们清理完这里的障碍物 不要靠近会爆炸！**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**The airship to Shinra will arrive in 30 seconds**"
 	{
 		"chi"		"**去神罗基地的飞船30秒后到达**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
 	{
 		"chi"		"**克劳德 坚持住！我会带你上飞艇，然后我们会去神罗基地**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
 	{
@@ -433,7 +433,7 @@
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
 	{
@@ -450,17 +450,17 @@
 	"**Wait 5 more seconds**"
 	{
 		"chi"		"**再等5秒**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Shinra gates will open in 25 seconds**"
 	{
 		"chi"		"**神罗基地大门打开了**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The gates will open in 15 seconds**"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
@@ -497,7 +497,7 @@
 	"**We got the power. The gates will open in 15 seconds**"
 	{
 		"chi"		"**OK 我们获得了电力 15秒后大门打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Nades do more damage. **"
 	{
@@ -546,7 +546,7 @@
 	"**2 MINUTES LEFT!**"
 	{
 		"chi"		"**2分钟剩余**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Zombie cactus has been picked up**"
 	{
@@ -555,7 +555,7 @@
 	"**1 MINUTES LEFT!**"
 	{
 		"chi"		"**1分钟剩余**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**30 SECONDS LEFT!**"
 	{

@@ -87,6 +87,7 @@
 	"**T minus 45s for detonation**"
 	{
 		"chi"		"**C4还有45秒爆破**"
+		"DoorCountDown"		"45"
 	}
 	"**T minus 30s for detonation**"
 	{

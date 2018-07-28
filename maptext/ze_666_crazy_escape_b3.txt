@@ -75,12 +75,12 @@
 	"### TEST THIS YOU FOOL !! ###"
 	{
 		"chi"		"**准备跳刀!!!!**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"### NICE TRY YOU FOOL !!! ###"
 	{
 		"chi"		"**真正的跳刀大逃亡!!!!**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"### HOLD HERE FOR 15 SECONDS ###"
 	{

@@ -15,7 +15,7 @@
 	"** RESIST 5 Seconds **"
 	{
 		"chi"		"**还有5秒，坚持住！**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** THE GRAVES ARE MOVING!**"
 	{
@@ -84,17 +84,17 @@
 	"** RESIST 30 SECONDS **"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** RESIST 20 SECONDS **"
 	{
 		"chi"		"**再守20秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** RESIST 10 SECONDS! **"
 	{
 		"chi"		"**还剩10秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** RUN UP THE STAIRS! APOCALYPSE IMMINENT!!!!**"
 	{

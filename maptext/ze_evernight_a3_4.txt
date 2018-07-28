@@ -2,18 +2,18 @@
 {
 	"**Chaosbreak**"
 	{
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 		"chi"		"**星陨-倒计时结束按住W**"
 	}
 	"**Flare - Use the Ice Magick to neutralize the effect**"
 	{
 		"chi"		"**火焰燃烧-使用冰魔法进行中和**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Meltdown - Silence human magick for 30 seconds (except for the Light Magick)**"
 	{
 		"chi"		"**小火-沉默人类神器30秒(奶魔法除外)**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**We need a little time to light the core**"
 	{
@@ -30,17 +30,17 @@
 	"**SIDEWIND**"
 	{
 		"chi"		"**侧风**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Static Shock - crouch **"
 	{
 		"chi"		"**静电冲击-蹲下**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**BURNING FIELD**"
 	{
 		"chi"		"**炽炎领域**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**The watcher is absorbing other additional cores!**"
 	{
@@ -53,7 +53,7 @@
 	"**Lightning Storm**"
 	{
 		"chi"		"**神之惩戒-远离出现雷电的地方**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Warning!**"
 	{
@@ -118,17 +118,17 @@
 	"**Freezing Breath**"
 	{
 		"chi"		"**寒冻之息**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Ember Tornado**"
 	{
 		"chi"		"**火焰龙卷-准备按住W抵抗**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Absolute Vacuum**"
 	{
 		"chi"		"**绝对真空-准备按住S抵抗**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Its our last chance!**"
 	{
@@ -136,7 +136,7 @@
 	}
 	"**Frostnova - Go side**"
 	{
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 		"chi"		"**霜冻新星-去到白线边缘**"
 	}
 	"**Aurora Shield - The Watcher is transform the damage we have done to it into healing,use the Thunder Magick to smash the shield**"
@@ -146,11 +146,11 @@
 	"**Celestial Smash - Go side**"
 	{
 		"chi"		"**天体粉碎-去到白线边缘**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"**Blizzard**"
 	{
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 		"chi"		"**暴风雪**"
 	}
 	"**ACT II COMPLETE**"
@@ -475,12 +475,12 @@
 	"**Poison Cloud**"
 	{
 		"chi"		"**毒云**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Crystal Blast**"
 	{
 		"chi"		"**水晶爆破**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Icicle Prod**"
 	{
@@ -505,12 +505,12 @@
 	"**Dark Subside**"
 	{
 		"chi"		"**黑暗之雨**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Curse of Weakness**"
 	{
 		"chi"		"**虚弱诅咒**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Spitacid**"
 	{

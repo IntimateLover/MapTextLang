@@ -128,4 +128,12 @@
 	{
 		"chi"		"** **"
 	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"** **"
+	}
 }

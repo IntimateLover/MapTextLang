@@ -112,7 +112,6 @@
 	{
 		"chi"		"**塔旁的电梯将在5秒后启动**"
 	}
-	
 	"sync_version"
 	{
 		"syncvalue"		"75634"
@@ -138,6 +137,30 @@
 		"chi"		"** **"
 	}
 	"***TEMPLE ENTRANCE OPENING IN 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WOODEN DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WOODEN DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TOWER LIFT LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS MUST GO AND SLAY THE REMAINING ZOMBIES***"
+	{
+		"chi"		"** **"
+	}
+	"***STAYING BEHIND WILL RESULT IN DEATH***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS BEHIND WILL NOW DIE***"
 	{
 		"chi"		"** **"
 	}
