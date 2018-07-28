@@ -1,1 +1,1 @@
-git add . && git commit -m '¸üĞÂ' && git push origin master
+git add . && git commit -m 'autoupdate' && git push origin master
