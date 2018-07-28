@@ -1,14 +1,13 @@
 cd /d "G:\GitSYNC\MapTextLang"
 git pull origin master
 
-
 @echo off
 set "sd=F:\CSGOSERVER\csgoserverzev2\csgo\addons\sourcemod\configs\console_t"
 set "dd=G:\GitSYNC\MapTextLang\maptext"
-rem -2Ç°Ìì£¬-1×òÌì£¬0½ñÌì
+rem -2å‰å¤©ï¼Œ-1æ˜¨å¤©ï¼Œ0ä»Šå¤©
 set d=-1
 for /f %%a in ('mshta VBScript:Execute("NewDate=date+(%d%):FmtDate=right(year(NewDate),4)&right(""0""&month(NewDate),2)&right(""0""&day(NewDate),2):CreateObject(""Scripting.FileSystemObject"").GetStandardStream(1).Write FmtDate:close"^)') do set yd=%%a
-echo;×òÌìÈÕÆÚÎª%yd%
+echo;æ˜¨å¤©æ—¥æœŸä¸º%yd%
 cd /d "%sd%"
 if not exist "%dd%"  md "%dd%"
 setlocal enabledelayedexpansion
