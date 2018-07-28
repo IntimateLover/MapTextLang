@@ -2,7 +2,7 @@
 {
 	"**WARMUP ROUND**"
 	{
-		"chi"		"**热身回合**"
+		"chi"		"**热身回合 **"
 	}
 	"**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**"
 	{
@@ -652,17 +652,6 @@
 	"**OH NO... THIS IS CHOCOBO**"
 	{
 		"chi"		"**哦不...是陆行鸟 **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_zeusweapons_decoy 0"
-		}
-		"1"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
 	}
 	"**WE HAVE A SOLO WINNER**"
 	{
