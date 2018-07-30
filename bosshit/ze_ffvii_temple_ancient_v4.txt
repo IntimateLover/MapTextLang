@@ -102,4 +102,16 @@
 		"hammerid"		"5842793"
 		"m_iname"		"break_end"
 	}
+	"1697792"
+	{
+		"enable"		"1"
+		"hammerid"		"1697792"
+		"m_iname"		"dragon_hitbox"
+	}
+	"4216243"
+	{
+		"enable"		"0"
+		"hammerid"		"4216243"
+		"m_iname"		"meteor_physbox"
+	}
 }
