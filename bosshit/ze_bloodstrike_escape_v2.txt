@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"391125"
+	{
+		"enable"		"0"
+		"hammerid"		"391125"
+		"m_iname"		"lv2zhangaiwu3"
+	}
+	"392982"
+	{
+		"enable"		"0"
+		"hammerid"		"392982"
+		"m_iname"		"lv2zhangaiwu3"
+	}
+	"362655"
+	{
+		"enable"		"0"
+		"hammerid"		"362655"
+		"m_iname"		"lv2loutidoor"
+	}
+	"280118"
+	{
+		"enable"		"0"
+		"hammerid"		"280118"
+		"m_iname"		"lv2wcmen"
+	}
+	"127518"
+	{
+		"enable"		"0"
+		"hammerid"		"127518"
+		"m_iname"		"fadongjidoor"
+	}
+	"14409"
+	{
+		"enable"		"0"
+		"hammerid"		"14409"
+		"m_iname"		"tiziqiehuan"
+	}
+	"7988"
+	{
+		"enable"		"0"
+		"hammerid"		"7988"
+		"m_iname"		"tiesiwang2"
+	}
+	"8284"
+	{
+		"enable"		"0"
+		"hammerid"		"8284"
+		"m_iname"		"tiesiwang3"
+	}
+}

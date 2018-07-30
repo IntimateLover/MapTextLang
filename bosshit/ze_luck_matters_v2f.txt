@@ -1,215 +1,5 @@
 "BOSSHP"
 {
-	"323870"
-	{
-		"enable"		"0"
-		"hammerid"		"323870"
-		"m_iname"		"BreakableFN1"
-	}
-	"323901"
-	{
-		"enable"		"0"
-		"hammerid"		"323901"
-		"m_iname"		"BreakableBlocks"
-	}
-	"323916"
-	{
-		"enable"		"0"
-		"hammerid"		"323916"
-		"m_iname"		"BreakableBlocks"
-	}
-	"311389"
-	{
-		"enable"		"0"
-		"hammerid"		"311389"
-		"m_iname"		"FinalBreakable2"
-	}
-	"307939"
-	{
-		"enable"		"0"
-		"hammerid"		"307939"
-		"m_iname"		"RotBox"
-	}
-	"283030"
-	{
-		"enable"		"0"
-		"hammerid"		"283030"
-		"m_iname"		"BreakableBlocks"
-	}
-	"283066"
-	{
-		"enable"		"0"
-		"hammerid"		"283066"
-		"m_iname"		"BreakableBlocks"
-	}
-	"146278"
-	{
-		"enable"		"0"
-		"hammerid"		"146278"
-		"m_iname"		"BreakableBlocks"
-	}
-	"136366"
-	{
-		"enable"		"0"
-		"hammerid"		"136366"
-		"m_iname"		"BreakableB1"
-	}
-	"136378"
-	{
-		"enable"		"0"
-		"hammerid"		"136378"
-		"m_iname"		"BreakableB2"
-	}
-	"134652"
-	{
-		"enable"		"0"
-		"hammerid"		"134652"
-		"m_iname"		"FinalBreakable1"
-	}
-	"127022"
-	{
-		"enable"		"0"
-		"hammerid"		"127022"
-		"m_iname"		"BreakableFN1"
-	}
-	"629723"
-	{
-		"enable"		"1"
-		"hammerid"		"629723"
-		"m_iname"		"Area2BossFightBreakable"
-	}
-	"600406"
-	{
-		"enable"		"0"
-		"hammerid"		"600406"
-		"m_iname"		"Area2Brush3"
-	}
-	"574628"
-	{
-		"enable"		"0"
-		"hammerid"		"574628"
-		"m_iname"		"Area1Breakable1"
-	}
-	"574680"
-	{
-		"enable"		"0"
-		"hammerid"		"574680"
-		"m_iname"		"Area1Breakable4"
-	}
-	"574717"
-	{
-		"enable"		"0"
-		"hammerid"		"574717"
-		"m_iname"		"Area1Breakable3"
-	}
-	"574761"
-	{
-		"enable"		"0"
-		"hammerid"		"574761"
-		"m_iname"		"Area1Breakable2"
-	}
-	"536209"
-	{
-		"enable"		"0"
-		"hammerid"		"536209"
-		"m_iname"		"Area1FinalBreak1"
-	}
-	"536216"
-	{
-		"enable"		"0"
-		"hammerid"		"536216"
-		"m_iname"		"Area1FinalBreak2"
-	}
-	"536219"
-	{
-		"enable"		"0"
-		"hammerid"		"536219"
-		"m_iname"		"Area1FinalBreak3"
-	}
-	"536222"
-	{
-		"enable"		"0"
-		"hammerid"		"536222"
-		"m_iname"		"Area1FinalBreak4"
-	}
-	"536225"
-	{
-		"enable"		"0"
-		"hammerid"		"536225"
-		"m_iname"		"Area1FinalBreak5"
-	}
-	"536291"
-	{
-		"enable"		"0"
-		"hammerid"		"536291"
-		"m_iname"		"Area1FinalBreak6"
-	}
-	"536300"
-	{
-		"enable"		"0"
-		"hammerid"		"536300"
-		"m_iname"		"Area1FinalBreak7"
-	}
-	"536303"
-	{
-		"enable"		"0"
-		"hammerid"		"536303"
-		"m_iname"		"Area1FinalBreak8"
-	}
-	"536306"
-	{
-		"enable"		"0"
-		"hammerid"		"536306"
-		"m_iname"		"Area1FinalBreak9"
-	}
-	"536309"
-	{
-		"enable"		"0"
-		"hammerid"		"536309"
-		"m_iname"		"Area1FinalBreak10"
-	}
-	"527911"
-	{
-		"enable"		"0"
-		"hammerid"		"527911"
-		"m_iname"		"Area2Breakable3"
-	}
-	"465920"
-	{
-		"enable"		"0"
-		"hammerid"		"465920"
-		"m_iname"		"Area2Breakable1"
-	}
-	"465929"
-	{
-		"enable"		"0"
-		"hammerid"		"465929"
-		"m_iname"		"Area2Breakable2"
-	}
-	"456966"
-	{
-		"enable"		"0"
-		"hammerid"		"456966"
-		"m_iname"		"Area1Breakable1"
-	}
-	"456987"
-	{
-		"enable"		"0"
-		"hammerid"		"456987"
-		"m_iname"		"Area1Breakable4"
-	}
-	"456991"
-	{
-		"enable"		"0"
-		"hammerid"		"456991"
-		"m_iname"		"Area1Breakable3"
-	}
-	"456995"
-	{
-		"enable"		"0"
-		"hammerid"		"456995"
-		"m_iname"		"Area1Breakable2"
-	}
 	"732895"
 	{
 		"enable"		"0"
@@ -599,5 +389,167 @@
 		"enable"		"1"
 		"hammerid"		"669376"
 		"m_iname"		"Area2BossBreak49"
+	}
+	"629723"
+	{
+		"enable"		"1"
+		"hammerid"		"629723"
+		"m_iname"		"Area2BossFightBreakable"
+	}
+	"600406"
+	{
+		"enable"		"0"
+		"hammerid"		"600406"
+		"m_iname"		"Area2Brush3"
+	}
+	"574628"
+	{
+		"enable"		"0"
+		"hammerid"		"574628"
+		"m_iname"		"Area1Breakable1"
+	}
+	"574680"
+	{
+		"enable"		"0"
+		"hammerid"		"574680"
+		"m_iname"		"Area1Breakable4"
+	}
+	"574717"
+	{
+		"enable"		"0"
+		"hammerid"		"574717"
+		"m_iname"		"Area1Breakable3"
+	}
+	"574761"
+	{
+		"enable"		"0"
+		"hammerid"		"574761"
+		"m_iname"		"Area1Breakable2"
+	}
+	"536209"
+	{
+		"enable"		"0"
+		"hammerid"		"536209"
+		"m_iname"		"Area1FinalBreak1"
+	}
+	"536216"
+	{
+		"enable"		"0"
+		"hammerid"		"536216"
+		"m_iname"		"Area1FinalBreak2"
+	}
+	"536219"
+	{
+		"enable"		"0"
+		"hammerid"		"536219"
+		"m_iname"		"Area1FinalBreak3"
+	}
+	"536222"
+	{
+		"enable"		"0"
+		"hammerid"		"536222"
+		"m_iname"		"Area1FinalBreak4"
+	}
+	"536225"
+	{
+		"enable"		"0"
+		"hammerid"		"536225"
+		"m_iname"		"Area1FinalBreak5"
+	}
+	"536291"
+	{
+		"enable"		"0"
+		"hammerid"		"536291"
+		"m_iname"		"Area1FinalBreak6"
+	}
+	"536300"
+	{
+		"enable"		"0"
+		"hammerid"		"536300"
+		"m_iname"		"Area1FinalBreak7"
+	}
+	"536303"
+	{
+		"enable"		"0"
+		"hammerid"		"536303"
+		"m_iname"		"Area1FinalBreak8"
+	}
+	"536306"
+	{
+		"enable"		"0"
+		"hammerid"		"536306"
+		"m_iname"		"Area1FinalBreak9"
+	}
+	"536309"
+	{
+		"enable"		"0"
+		"hammerid"		"536309"
+		"m_iname"		"Area1FinalBreak10"
+	}
+	"527911"
+	{
+		"enable"		"0"
+		"hammerid"		"527911"
+		"m_iname"		"Area2Breakable3"
+	}
+	"465920"
+	{
+		"enable"		"0"
+		"hammerid"		"465920"
+		"m_iname"		"Area2Breakable1"
+	}
+	"465929"
+	{
+		"enable"		"0"
+		"hammerid"		"465929"
+		"m_iname"		"Area2Breakable2"
+	}
+	"456966"
+	{
+		"enable"		"0"
+		"hammerid"		"456966"
+		"m_iname"		"Area1Breakable1"
+	}
+	"456987"
+	{
+		"enable"		"0"
+		"hammerid"		"456987"
+		"m_iname"		"Area1Breakable4"
+	}
+	"456991"
+	{
+		"enable"		"0"
+		"hammerid"		"456991"
+		"m_iname"		"Area1Breakable3"
+	}
+	"456995"
+	{
+		"enable"		"0"
+		"hammerid"		"456995"
+		"m_iname"		"Area1Breakable2"
+	}
+	"307939"
+	{
+		"enable"		"0"
+		"hammerid"		"307939"
+		"m_iname"		"RotBox"
+	}
+	"136366"
+	{
+		"enable"		"0"
+		"hammerid"		"136366"
+		"m_iname"		"BreakableB1"
+	}
+	"136378"
+	{
+		"enable"		"0"
+		"hammerid"		"136378"
+		"m_iname"		"BreakableB2"
+	}
+	"127022"
+	{
+		"enable"		"0"
+		"hammerid"		"127022"
+		"m_iname"		"BreakableFN1"
 	}
 }

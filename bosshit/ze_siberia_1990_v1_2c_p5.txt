@@ -116,7 +116,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"421180"
-		"m_iname"		"ProxMine&0419"
+		"m_iname"		"ProxMine&8407"
 	}
 	"292846"
 	{
@@ -249,5 +249,227 @@
 		"enable"		"0"
 		"hammerid"		"532070"
 		"m_iname"		"breakend_2"
+	}
+	"535953"
+	{
+		"enable"		"0"
+		"hammerid"		"535953"
+		"m_iname"		"house1_debris"
+	}
+	"535956"
+	{
+		"enable"		"0"
+		"hammerid"		"535956"
+		"m_iname"		"house1_debris"
+	}
+	"535962"
+	{
+		"enable"		"0"
+		"hammerid"		"535962"
+		"m_iname"		"house1_debris"
+	}
+	"535971"
+	{
+		"enable"		"0"
+		"hammerid"		"535971"
+		"m_iname"		"house1_debris"
+	}
+	"535977"
+	{
+		"enable"		"0"
+		"hammerid"		"535977"
+		"m_iname"		"house1_debris"
+	}
+	"535980"
+	{
+		"enable"		"0"
+		"hammerid"		"535980"
+		"m_iname"		"house1_debris"
+	}
+	"535983"
+	{
+		"enable"		"0"
+		"hammerid"		"535983"
+		"m_iname"		"house1_debris"
+	}
+	"535986"
+	{
+		"enable"		"0"
+		"hammerid"		"535986"
+		"m_iname"		"house1_debris"
+	}
+	"535989"
+	{
+		"enable"		"0"
+		"hammerid"		"535989"
+		"m_iname"		"house1_debris"
+	}
+	"535992"
+	{
+		"enable"		"0"
+		"hammerid"		"535992"
+		"m_iname"		"house1_debris"
+	}
+	"535995"
+	{
+		"enable"		"0"
+		"hammerid"		"535995"
+		"m_iname"		"house1_debris"
+	}
+	"535998"
+	{
+		"enable"		"0"
+		"hammerid"		"535998"
+		"m_iname"		"house1_debris"
+	}
+	"536001"
+	{
+		"enable"		"0"
+		"hammerid"		"536001"
+		"m_iname"		"house1_debris"
+	}
+	"536004"
+	{
+		"enable"		"0"
+		"hammerid"		"536004"
+		"m_iname"		"house1_debris"
+	}
+	"536007"
+	{
+		"enable"		"0"
+		"hammerid"		"536007"
+		"m_iname"		"house1_debris"
+	}
+	"536019"
+	{
+		"enable"		"0"
+		"hammerid"		"536019"
+		"m_iname"		"house1_debris"
+	}
+	"536025"
+	{
+		"enable"		"0"
+		"hammerid"		"536025"
+		"m_iname"		"house1_debris"
+	}
+	"536034"
+	{
+		"enable"		"0"
+		"hammerid"		"536034"
+		"m_iname"		"house1_debris"
+	}
+	"536037"
+	{
+		"enable"		"0"
+		"hammerid"		"536037"
+		"m_iname"		"house1_debris"
+	}
+	"536043"
+	{
+		"enable"		"0"
+		"hammerid"		"536043"
+		"m_iname"		"house1_debris"
+	}
+	"536129"
+	{
+		"enable"		"0"
+		"hammerid"		"536129"
+		"m_iname"		"house1_debris"
+	}
+	"536132"
+	{
+		"enable"		"0"
+		"hammerid"		"536132"
+		"m_iname"		"house1_debris"
+	}
+	"536135"
+	{
+		"enable"		"0"
+		"hammerid"		"536135"
+		"m_iname"		"house1_debris"
+	}
+	"536138"
+	{
+		"enable"		"0"
+		"hammerid"		"536138"
+		"m_iname"		"house1_debris"
+	}
+	"536144"
+	{
+		"enable"		"0"
+		"hammerid"		"536144"
+		"m_iname"		"house1_debris"
+	}
+	"536147"
+	{
+		"enable"		"0"
+		"hammerid"		"536147"
+		"m_iname"		"house1_debris"
+	}
+	"536150"
+	{
+		"enable"		"0"
+		"hammerid"		"536150"
+		"m_iname"		"house1_debris"
+	}
+	"536153"
+	{
+		"enable"		"0"
+		"hammerid"		"536153"
+		"m_iname"		"house1_debris"
+	}
+	"536156"
+	{
+		"enable"		"0"
+		"hammerid"		"536156"
+		"m_iname"		"house1_debris"
+	}
+	"536159"
+	{
+		"enable"		"0"
+		"hammerid"		"536159"
+		"m_iname"		"house1_debris"
+	}
+	"536162"
+	{
+		"enable"		"0"
+		"hammerid"		"536162"
+		"m_iname"		"house1_debris"
+	}
+	"536165"
+	{
+		"enable"		"0"
+		"hammerid"		"536165"
+		"m_iname"		"house1_debris"
+	}
+	"536168"
+	{
+		"enable"		"0"
+		"hammerid"		"536168"
+		"m_iname"		"house1_debris"
+	}
+	"536171"
+	{
+		"enable"		"0"
+		"hammerid"		"536171"
+		"m_iname"		"house1_debris"
+	}
+	"536174"
+	{
+		"enable"		"0"
+		"hammerid"		"536174"
+		"m_iname"		"house1_debris"
+	}
+	"536177"
+	{
+		"enable"		"0"
+		"hammerid"		"536177"
+		"m_iname"		"house1_debris"
+	}
+	"536013"
+	{
+		"enable"		"0"
+		"hammerid"		"536013"
+		"m_iname"		"house1_debris"
 	}
 }

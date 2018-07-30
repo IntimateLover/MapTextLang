@@ -112,7 +112,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"4197334"
-		"m_iname"		"breakgelo&6236"
+		"m_iname"		"breakgelo&9511"
 	}
 	"3951260"
 	{
@@ -142,13 +142,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"4197331"
-		"m_iname"		"gelo&6236"
+		"m_iname"		"gelo&9510"
 	}
 	"2899650"
 	{
 		"enable"		"0"
 		"hammerid"		"2899650"
-		"m_iname"		"pedrab&6179"
+		"m_iname"		"pedrab&9513"
 	}
 	"4275450"
 	{
@@ -623,5 +623,11 @@
 		"enable"		"0"
 		"hammerid"		"2758570"
 		"m_iname"		"fugaetirolesabreak"
+	}
+	"3071193"
+	{
+		"enable"		"0"
+		"hammerid"		"3071193"
+		"m_iname"		"fugaeextreme"
 	}
 }

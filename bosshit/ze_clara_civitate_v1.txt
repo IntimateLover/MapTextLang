@@ -1,0 +1,123 @@
+"BOSSHP"
+{
+	"68725"
+	{
+		"enable"		"0"
+		"hammerid"		"68725"
+		"m_iname"		"door08"
+	}
+	"59296"
+	{
+		"enable"		"0"
+		"hammerid"		"59296"
+		"m_iname"		"door07"
+	}
+	"57518"
+	{
+		"enable"		"0"
+		"hammerid"		"57518"
+		"m_iname"		"floor_002"
+	}
+	"44845"
+	{
+		"enable"		"0"
+		"hammerid"		"44845"
+		"m_iname"		"teleport_break_01"
+	}
+	"45036"
+	{
+		"enable"		"0"
+		"hammerid"		"45036"
+		"m_iname"		"teleport_break_02"
+	}
+	"32106"
+	{
+		"enable"		"0"
+		"hammerid"		"32106"
+		"m_iname"		"door05"
+	}
+	"35743"
+	{
+		"enable"		"0"
+		"hammerid"		"35743"
+		"m_iname"		"door06"
+	}
+	"8720"
+	{
+		"enable"		"0"
+		"hammerid"		"8720"
+		"m_iname"		"door01"
+	}
+	"8726"
+	{
+		"enable"		"0"
+		"hammerid"		"8726"
+		"m_iname"		"door01"
+	}
+	"8732"
+	{
+		"enable"		"0"
+		"hammerid"		"8732"
+		"m_iname"		"door01"
+	}
+	"8738"
+	{
+		"enable"		"0"
+		"hammerid"		"8738"
+		"m_iname"		"door01"
+	}
+	"8744"
+	{
+		"enable"		"0"
+		"hammerid"		"8744"
+		"m_iname"		"door01"
+	}
+	"8750"
+	{
+		"enable"		"0"
+		"hammerid"		"8750"
+		"m_iname"		"door01"
+	}
+	"20163"
+	{
+		"enable"		"0"
+		"hammerid"		"20163"
+		"m_iname"		"door02"
+	}
+	"28107"
+	{
+		"enable"		"0"
+		"hammerid"		"28107"
+		"m_iname"		"door03"
+	}
+	"28406"
+	{
+		"enable"		"0"
+		"hammerid"		"28406"
+		"m_iname"		"door03"
+	}
+	"29877"
+	{
+		"enable"		"0"
+		"hammerid"		"29877"
+		"m_iname"		"door04"
+	}
+	"5690"
+	{
+		"enable"		"0"
+		"hammerid"		"5690"
+		"m_iname"		"shcut01"
+	}
+	"7245"
+	{
+		"enable"		"0"
+		"hammerid"		"7245"
+		"m_iname"		"ship"
+	}
+	"8332"
+	{
+		"enable"		"0"
+		"hammerid"		"8332"
+		"m_iname"		"shcut01"
+	}
+}

@@ -980,4 +980,10 @@
 		"hammerid"		"1994251"
 		"m_iname"		"final_boss_phase_two_9&4793"
 	}
+	"1338883"
+	{
+		"enable"		"1"
+		"hammerid"		"1338883"
+		"m_iname"		"stage_2_ex_boss_36"
+	}
 }

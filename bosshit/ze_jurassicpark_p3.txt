@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"97992"
+	{
+		"enable"		"0"
+		"hammerid"		"97992"
+		"m_iname"		"hold_area_1_door"
+	}
+	"721"
+	{
+		"enable"		"0"
+		"hammerid"		"721"
+		"m_iname"		"electric_ladder"
+	}
+}

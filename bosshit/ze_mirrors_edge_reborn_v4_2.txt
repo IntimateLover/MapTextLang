@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"350"
+	{
+		"enable"		"0"
+		"hammerid"		"350"
+		"m_iname"		"mapdoor1"
+	}
+	"793"
+	{
+		"enable"		"0"
+		"hammerid"		"793"
+		"m_iname"		"flamedoor"
+	}
+	"881"
+	{
+		"enable"		"0"
+		"hammerid"		"881"
+		"m_iname"		"admindoor"
+	}
+	"1311"
+	{
+		"enable"		"0"
+		"hammerid"		"1311"
+		"m_iname"		"extremesuitcaseporta"
+	}
+	"42725"
+	{
+		"enable"		"0"
+		"hammerid"		"42725"
+		"m_iname"		"valve_rotate2"
+	}
+}

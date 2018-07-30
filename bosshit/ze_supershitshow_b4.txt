@@ -1,0 +1,225 @@
+"BOSSHP"
+{
+	"146148"
+	{
+		"enable"		"0"
+		"hammerid"		"146148"
+		"m_iname"		"IdiotBoxBreakable"
+	}
+	"9069"
+	{
+		"enable"		"0"
+		"hammerid"		"9069"
+		"m_iname"		"NukePannelBack"
+	}
+	"198099"
+	{
+		"enable"		"0"
+		"hammerid"		"198099"
+		"m_iname"		"Eledoor3"
+	}
+	"158691"
+	{
+		"enable"		"0"
+		"hammerid"		"158691"
+		"m_iname"		"hiss2_fruktkorg"
+	}
+	"80079"
+	{
+		"enable"		"0"
+		"hammerid"		"80079"
+		"m_iname"		"SpawnTeleportWall"
+	}
+	"94972"
+	{
+		"enable"		"1"
+		"hammerid"		"94972"
+		"m_iname"		"BossSlopeBreakable"
+	}
+	"22720"
+	{
+		"enable"		"0"
+		"hammerid"		"22720"
+		"m_iname"		"PathTrapBreakable1"
+	}
+	"23142"
+	{
+		"enable"		"0"
+		"hammerid"		"23142"
+		"m_iname"		"PathTrapBreakable2"
+	}
+	"23339"
+	{
+		"enable"		"0"
+		"hammerid"		"23339"
+		"m_iname"		"PathTrapBreakable3"
+	}
+	"23905"
+	{
+		"enable"		"0"
+		"hammerid"		"23905"
+		"m_iname"		"PathTrapBreakable4"
+	}
+	"24004"
+	{
+		"enable"		"0"
+		"hammerid"		"24004"
+		"m_iname"		"PathTrapBreakable5"
+	}
+	"20491"
+	{
+		"enable"		"0"
+		"hammerid"		"20491"
+		"m_iname"		"ChopperRotator&4213"
+	}
+	"20547"
+	{
+		"enable"		"0"
+		"hammerid"		"20547"
+		"m_iname"		"ChopperNonInputEnts"
+	}
+	"82282"
+	{
+		"enable"		"0"
+		"hammerid"		"82282"
+		"m_iname"		"Ladder&4175"
+	}
+	"82299"
+	{
+		"enable"		"0"
+		"hammerid"		"82299"
+		"m_iname"		"ProjectileFreezerPhysics&4061"
+	}
+	"20891"
+	{
+		"enable"		"0"
+		"hammerid"		"20891"
+		"m_iname"		"BreakableWall"
+	}
+	"153986"
+	{
+		"enable"		"0"
+		"hammerid"		"153986"
+		"m_iname"		"ExtractionWall"
+	}
+	"154007"
+	{
+		"enable"		"0"
+		"hammerid"		"154007"
+		"m_iname"		"ExtractionLadderWall"
+	}
+	"154230"
+	{
+		"enable"		"0"
+		"hammerid"		"154230"
+		"m_iname"		"ExtractionRampBlocker"
+	}
+	"154897"
+	{
+		"enable"		"0"
+		"hammerid"		"154897"
+		"m_iname"		"ExtractionMultiCrouchHold"
+	}
+	"155510"
+	{
+		"enable"		"0"
+		"hammerid"		"155510"
+		"m_iname"		"ExtractionTunnelBlocker"
+	}
+	"155619"
+	{
+		"enable"		"0"
+		"hammerid"		"155619"
+		"m_iname"		"ExtractionGrid"
+	}
+	"27289"
+	{
+		"enable"		"0"
+		"hammerid"		"27289"
+		"m_iname"		"HolyChickenCross_Set"
+	}
+	"82726"
+	{
+		"enable"		"0"
+		"hammerid"		"82726"
+		"m_iname"		"ProjectilePulverizerPhysics&406"
+	}
+	"35519"
+	{
+		"enable"		"0"
+		"hammerid"		"35519"
+		"m_iname"		"GlassBreakable"
+	}
+	"152405"
+	{
+		"enable"		"0"
+		"hammerid"		"152405"
+		"m_iname"		"VipAround"
+	}
+	"82211"
+	{
+		"enable"		"0"
+		"hammerid"		"82211"
+		"m_iname"		"blackhole_assigned"
+	}
+	"82904"
+	{
+		"enable"		"0"
+		"hammerid"		"82904"
+		"m_iname"		"FirePhysicsCore&1655"
+	}
+	"183393"
+	{
+		"enable"		"1"
+		"hammerid"		"183393"
+		"m_iname"		"FaceBossSideWalls&7895"
+	}
+	"144213"
+	{
+		"enable"		"1"
+		"hammerid"		"144213"
+		"m_iname"		"FaceBossBreakable"
+	}
+	"128101"
+	{
+		"enable"		"1"
+		"hammerid"		"128101"
+		"m_iname"		"FaceBossBreakable"
+	}
+	"139169"
+	{
+		"enable"		"0"
+		"hammerid"		"139169"
+		"m_iname"		"HorizontalBloodclotBrush&7901"
+	}
+	"139200"
+	{
+		"enable"		"0"
+		"hammerid"		"139200"
+		"m_iname"		"VerticalBloodclotBrush&7906"
+	}
+	"30033"
+	{
+		"enable"		"0"
+		"hammerid"		"30033"
+		"m_iname"		"HoldathonWalls1"
+	}
+	"30760"
+	{
+		"enable"		"0"
+		"hammerid"		"30760"
+		"m_iname"		"HoldathonWalls2"
+	}
+	"30836"
+	{
+		"enable"		"0"
+		"hammerid"		"30836"
+		"m_iname"		"HoldathonWalls3"
+	}
+	"29565"
+	{
+		"enable"		"0"
+		"hammerid"		"29565"
+		"m_iname"		"OneWayTopOfWorldBreakable"
+	}
+}

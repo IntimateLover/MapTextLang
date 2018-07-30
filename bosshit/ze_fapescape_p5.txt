@@ -146,7 +146,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"4559"
-		"m_iname"		"Cannon_brick&2720"
+		"m_iname"		"Cannon_brick&0759"
 	}
 	"1993"
 	{
@@ -212,7 +212,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1911"
-		"m_iname"		"blockade&2621"
+		"m_iname"		"blockade&1168"
 	}
 	"4533"
 	{
@@ -288,7 +288,7 @@
 	}
 	"2191"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2191"
 		"m_iname"		"retard_physbox"
 	}
@@ -312,7 +312,7 @@
 	}
 	"403923"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"403923"
 		"m_iname"		"rickroll_physbox"
 	}
@@ -603,5 +603,21 @@
 		"enable"		"1"
 		"hammerid"		"404024"
 		"m_iname"		"roboboss_phbox"
+	}
+	"437066"
+	{
+		"enable"		"1"
+		"hammerid"		"437066"
+		"m_iname"		"eye"
+	}
+	"233468"
+	{
+		"enable"		"1"
+	}
+	"233462"
+	{
+		"enable"		"1"
+		"hammerid"		"233462"
+		"m_iname"		"mouth_phbox"
 	}
 }

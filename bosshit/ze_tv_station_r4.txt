@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"95348"
+	{
+		"enable"		"0"
+		"hammerid"		"95348"
+		"m_iname"		"LadderBreakable1"
+	}
+	"95377"
+	{
+		"enable"		"0"
+		"hammerid"		"95377"
+		"m_iname"		"LadderBreakable2"
+	}
+	"60696"
+	{
+		"enable"		"0"
+		"hammerid"		"60696"
+		"m_iname"		"Boat_Gate_Breakable"
+	}
+	"60710"
+	{
+		"enable"		"0"
+		"hammerid"		"60710"
+		"m_iname"		"Boat_Gate_Breakable"
+	}
+	"4601"
+	{
+		"enable"		"0"
+		"hammerid"		"4601"
+		"m_iname"		"bridgegap"
+	}
+	"4609"
+	{
+		"enable"		"0"
+		"hammerid"		"4609"
+		"m_iname"		"tnt"
+	}
+	"4621"
+	{
+		"enable"		"0"
+		"hammerid"		"4621"
+		"m_iname"		"tnt"
+	}
+	"4633"
+	{
+		"enable"		"0"
+		"hammerid"		"4633"
+		"m_iname"		"tnt"
+	}
+}

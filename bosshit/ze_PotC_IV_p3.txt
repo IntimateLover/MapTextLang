@@ -282,4 +282,10 @@
 		"hammerid"		"222027"
 		"m_iname"		"zombi_block2"
 	}
+	"221519"
+	{
+		"enable"		"0"
+		"hammerid"		"221519"
+		"m_iname"		"zm_tukkeet2"
+	}
 }

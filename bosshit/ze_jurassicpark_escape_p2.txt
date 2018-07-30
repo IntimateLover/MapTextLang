@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"346780"
+	{
+		"enable"		"0"
+		"hammerid"		"346780"
+		"m_iname"		"unbreakableegg"
+	}
+	"340209"
+	{
+		"enable"		"0"
+		"hammerid"		"340209"
+		"m_iname"		"boxandplank"
+	}
+	"581"
+	{
+		"enable"		"0"
+		"hammerid"		"581"
+		"m_iname"		"GateGlass"
+	}
+	"656"
+	{
+		"enable"		"0"
+		"hammerid"		"656"
+		"m_iname"		"thebox"
+	}
+	"2108"
+	{
+		"enable"		"0"
+		"hammerid"		"2108"
+		"m_iname"		"unbreakableplank"
+	}
+	"204010"
+	{
+		"enable"		"0"
+		"hammerid"		"204010"
+		"m_iname"		"Bridge"
+	}
+	"204013"
+	{
+		"enable"		"0"
+		"hammerid"		"204013"
+		"m_iname"		"Bridge"
+	}
+	"204016"
+	{
+		"enable"		"0"
+		"hammerid"		"204016"
+		"m_iname"		"Bridge"
+	}
+	"204019"
+	{
+		"enable"		"0"
+		"hammerid"		"204019"
+		"m_iname"		"Bridge"
+	}
+	"204022"
+	{
+		"enable"		"0"
+		"hammerid"		"204022"
+		"m_iname"		"Bridge"
+	}
+	"204025"
+	{
+		"enable"		"0"
+		"hammerid"		"204025"
+		"m_iname"		"Bridge"
+	}
+	"204028"
+	{
+		"enable"		"0"
+		"hammerid"		"204028"
+		"m_iname"		"Bridge"
+	}
+	"268632"
+	{
+		"enable"		"0"
+		"hammerid"		"268632"
+		"m_iname"		"boxandplank"
+	}
+	"270078"
+	{
+		"enable"		"0"
+		"hammerid"		"270078"
+		"m_iname"		"raptorabove"
+	}
+	"270168"
+	{
+		"enable"		"0"
+		"hammerid"		"270168"
+		"m_iname"		"ladder"
+	}
+	"270311"
+	{
+		"enable"		"0"
+		"hammerid"		"270311"
+		"m_iname"		"secretblocker"
+	}
+	"279639"
+	{
+		"enable"		"0"
+		"hammerid"		"279639"
+		"m_iname"		"wirerbreakable"
+	}
+}

@@ -288,4 +288,28 @@
 		"hammerid"		"58245"
 		"m_iname"		"FinalPlank"
 	}
+	"1058421"
+	{
+		"enable"		"1"
+		"hammerid"		"1058421"
+		"m_iname"		"SasukeBoss_Hitbox"
+	}
+	"1058424"
+	{
+		"enable"		"1"
+		"hammerid"		"1058424"
+		"m_iname"		"SasukeBoss_HitboxHE"
+	}
+	"1047584"
+	{
+		"enable"		"1"
+		"hammerid"		"1047584"
+		"m_iname"		"SasukeBossFake_Hitbox&1065"
+	}
+	"1047621"
+	{
+		"enable"		"1"
+		"hammerid"		"1047621"
+		"m_iname"		"SasukeBossFake_HitboxHE&1065"
+	}
 }

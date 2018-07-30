@@ -68,7 +68,7 @@
 	}
 	"1336170"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1336170"
 		"m_iname"		"B3b_Phys"
 	}
@@ -94,11 +94,11 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1287938"
-		"m_iname"		"RockHell_Phys&9175"
+		"m_iname"		"RockHell_Phys&4307"
 	}
 	"1288017"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1288017"
 		"m_iname"		"Part2_Satan_Phys"
 	}
@@ -500,7 +500,7 @@
 	}
 	"1192"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1192"
 		"m_iname"		"Sky_Baby"
 	}
@@ -524,7 +524,7 @@
 	}
 	"1894"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1894"
 		"m_iname"		"Ext3_Grid"
 	}

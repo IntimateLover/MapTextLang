@@ -1,0 +1,147 @@
+"BOSSHP"
+{
+	"257491"
+	{
+		"enable"		"0"
+		"hammerid"		"257491"
+		"m_iname"		"trap_roller"
+	}
+	"258046"
+	{
+		"enable"		"0"
+		"hammerid"		"258046"
+		"m_iname"		"trap_break"
+	}
+	"128399"
+	{
+		"enable"		"0"
+		"hammerid"		"128399"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128405"
+	{
+		"enable"		"0"
+		"hammerid"		"128405"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128411"
+	{
+		"enable"		"0"
+		"hammerid"		"128411"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128564"
+	{
+		"enable"		"0"
+		"hammerid"		"128564"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128570"
+	{
+		"enable"		"0"
+		"hammerid"		"128570"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128576"
+	{
+		"enable"		"0"
+		"hammerid"		"128576"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128686"
+	{
+		"enable"		"0"
+		"hammerid"		"128686"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128692"
+	{
+		"enable"		"0"
+		"hammerid"		"128692"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128698"
+	{
+		"enable"		"0"
+		"hammerid"		"128698"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128706"
+	{
+		"enable"		"0"
+		"hammerid"		"128706"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128712"
+	{
+		"enable"		"0"
+		"hammerid"		"128712"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"128718"
+	{
+		"enable"		"0"
+		"hammerid"		"128718"
+		"m_iname"		"boss_pillarbreak"
+	}
+	"130945"
+	{
+		"enable"		"0"
+		"hammerid"		"130945"
+		"m_iname"		"doorbreak3x"
+	}
+	"49584"
+	{
+		"enable"		"0"
+		"hammerid"		"49584"
+		"m_iname"		"start_break"
+	}
+	"92666"
+	{
+		"enable"		"1"
+		"hammerid"		"92666"
+		"m_iname"		"doorbreak3"
+	}
+	"14891"
+	{
+		"enable"		"0"
+		"hammerid"		"14891"
+		"m_iname"		"i_stonefall_phys&6430"
+	}
+	"19032"
+	{
+		"enable"		"0"
+		"hammerid"		"19032"
+		"m_iname"		"i_stonefall_breakable&6430"
+	}
+	"28947"
+	{
+		"enable"		"0"
+		"hammerid"		"28947"
+		"m_iname"		"i_templeguardian_hp&6097"
+	}
+	"27135"
+	{
+		"enable"		"0"
+		"hammerid"		"27135"
+		"m_iname"		"i_templeguardian_base&6097"
+	}
+	"154084"
+	{
+		"enable"		"0"
+		"hammerid"		"154084"
+		"m_iname"		"i_minotaurgod_nadehp"
+	}
+	"30343"
+	{
+		"enable"		"1"
+		"hammerid"		"30343"
+		"m_iname"		"i_minotaurgod_hp"
+	}
+	"33857"
+	{
+		"enable"		"0"
+		"hammerid"		"33857"
+		"m_iname"		"i_minotaurgod_base"
+	}
+}

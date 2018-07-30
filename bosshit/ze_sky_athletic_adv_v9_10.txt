@@ -646,4 +646,100 @@
 		"hammerid"		"619899"
 		"m_iname"		"kbc_zombie_thewayofdeleting_bre"
 	}
+	"671983"
+	{
+		"enable"		"0"
+		"hammerid"		"671983"
+		"m_iname"		"kbc_zombie_keymeteor_target1&99"
+	}
+	"837134"
+	{
+		"enable"		"0"
+		"hammerid"		"837134"
+		"m_iname"		"CY01physic3"
+	}
+	"835771"
+	{
+		"enable"		"0"
+		"hammerid"		"835771"
+		"m_iname"		"betray_him_begin_target"
+	}
+	"1064781"
+	{
+		"enable"		"1"
+		"hammerid"		"1064781"
+		"m_iname"		"boss_burning_hantei_3"
+	}
+	"1064766"
+	{
+		"enable"		"1"
+		"hammerid"		"1064766"
+		"m_iname"		"boss_cold_hantei_3"
+	}
+	"1126208"
+	{
+		"enable"		"0"
+		"hammerid"		"1126208"
+		"m_iname"		"stage1 phys"
+	}
+	"803217"
+	{
+		"enable"		"0"
+		"hammerid"		"803217"
+		"m_iname"		"stage3 phys"
+	}
+	"742243"
+	{
+		"enable"		"0"
+		"hammerid"		"742243"
+		"m_iname"		"stage1 phys"
+	}
+	"1126036"
+	{
+		"enable"		"0"
+		"hammerid"		"1126036"
+		"m_iname"		"stage1 phys"
+	}
+	"509233"
+	{
+		"enable"		"0"
+		"hammerid"		"509233"
+		"m_iname"		"stage3 phys"
+	}
+	"8391"
+	{
+		"enable"		"0"
+		"hammerid"		"8391"
+		"m_iname"		"stage1 phys"
+	}
+	"8449"
+	{
+		"enable"		"0"
+		"hammerid"		"8449"
+		"m_iname"		"stage2 phys"
+	}
+	"40696"
+	{
+		"enable"		"0"
+		"hammerid"		"40696"
+		"m_iname"		"stage3 phys"
+	}
+	"196068"
+	{
+		"enable"		"0"
+		"hammerid"		"196068"
+		"m_iname"		"stage1 phys"
+	}
+	"207596"
+	{
+		"enable"		"0"
+		"hammerid"		"207596"
+		"m_iname"		"stage1 phys"
+	}
+	"207704"
+	{
+		"enable"		"0"
+		"hammerid"		"207704"
+		"m_iname"		"stage1 phys"
+	}
 }

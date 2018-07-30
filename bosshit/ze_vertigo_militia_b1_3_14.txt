@@ -1,0 +1,63 @@
+"BOSSHP"
+{
+	"20377158"
+	{
+		"enable"		"0"
+		"hammerid"		"20377158"
+		"m_iname"		"tes"
+	}
+	"20191550"
+	{
+		"enable"		"0"
+		"hammerid"		"20191550"
+		"m_iname"		"mil_b_1"
+	}
+	"20191614"
+	{
+		"enable"		"0"
+		"hammerid"		"20191614"
+		"m_iname"		"mil_b_2"
+	}
+	"20191816"
+	{
+		"enable"		"0"
+		"hammerid"		"20191816"
+		"m_iname"		"mil_b_5"
+	}
+	"20136055"
+	{
+		"enable"		"0"
+		"hammerid"		"20136055"
+		"m_iname"		"weathervane.physbox"
+	}
+	"19950986"
+	{
+		"enable"		"0"
+		"hammerid"		"19950986"
+		"m_iname"		"vertigo_block_2"
+	}
+	"19951034"
+	{
+		"enable"		"0"
+		"hammerid"		"19951034"
+		"m_iname"		"vertigo_block_3"
+	}
+	"19942812"
+	{
+		"enable"		"0"
+		"hammerid"		"19942812"
+		"m_iname"		"vertigo_block_1"
+	}
+	"20257661"
+	{
+		"enable"		"0"
+		"hammerid"		"20257661"
+		"m_iname"		"choose_delay"
+	}
+	"20223920"
+	{
+		"enable"		"0"
+		"hammerid"		"20223920"
+		"m_iname"		"choose_block"
+	}
+}

@@ -234,4 +234,10 @@
 		"hammerid"		"39095"
 		"m_iname"		"Tile1"
 	}
+	"468837"
+	{
+		"enable"		"1"
+		"hammerid"		"468837"
+		"m_iname"		"Boss_Mini_Hitbox"
+	}
 }

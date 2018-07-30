@@ -1,0 +1,117 @@
+"BOSSHP"
+{
+	"26396"
+	{
+		"enable"		"1"
+		"hammerid"		"26396"
+		"m_iname"		"boss_cube"
+	}
+	"26428"
+	{
+		"enable"		"1"
+		"hammerid"		"26428"
+		"m_iname"		"boss_cube_hp_breakable"
+	}
+	"27008"
+	{
+		"enable"		"1"
+		"hammerid"		"27008"
+		"m_iname"		"boss_hp_counter00"
+	}
+	"27019"
+	{
+		"enable"		"1"
+		"hammerid"		"27019"
+		"m_iname"		"boss_hp_counter01"
+	}
+	"27024"
+	{
+		"enable"		"1"
+		"hammerid"		"27024"
+		"m_iname"		"boss_hp_counter02"
+	}
+	"27029"
+	{
+		"enable"		"1"
+		"hammerid"		"27029"
+		"m_iname"		"boss_hp_counter03"
+	}
+	"27034"
+	{
+		"enable"		"1"
+		"hammerid"		"27034"
+		"m_iname"		"boss_hp_counter04"
+	}
+	"17226"
+	{
+		"enable"		"0"
+		"hammerid"		"17226"
+		"m_iname"		"chapter1_changer"
+	}
+	"17279"
+	{
+		"enable"		"0"
+		"hammerid"		"17279"
+		"m_iname"		"chapter2_changer"
+	}
+	"16707"
+	{
+		"enable"		"0"
+		"hammerid"		"16707"
+		"m_iname"		"cube04"
+	}
+	"13191"
+	{
+		"enable"		"0"
+		"hammerid"		"13191"
+		"m_iname"		"cube03"
+	}
+	"6915"
+	{
+		"enable"		"0"
+		"hammerid"		"6915"
+		"m_iname"		"breakable01"
+	}
+	"6392"
+	{
+		"enable"		"0"
+		"hammerid"		"6392"
+		"m_iname"		"cube02"
+	}
+	"3911"
+	{
+		"enable"		"0"
+		"hammerid"		"3911"
+		"m_iname"		"movelinear01_blocker"
+	}
+	"3926"
+	{
+		"enable"		"0"
+		"hammerid"		"3926"
+		"m_iname"		"movelinear02_blocker"
+	}
+	"3935"
+	{
+		"enable"		"0"
+		"hammerid"		"3935"
+		"m_iname"		"movelinear01_blocker"
+	}
+	"3950"
+	{
+		"enable"		"0"
+		"hammerid"		"3950"
+		"m_iname"		"movelinear04_blocker"
+	}
+	"4050"
+	{
+		"enable"		"0"
+		"hammerid"		"4050"
+		"m_iname"		"movelinear05_blocker"
+	}
+	"1640"
+	{
+		"enable"		"0"
+		"hammerid"		"1640"
+		"m_iname"		"cube01"
+	}
+}

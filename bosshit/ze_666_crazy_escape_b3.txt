@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"62470"
+	{
+		"enable"		"0"
+		"hammerid"		"62470"
+		"m_iname"		"nrk1_jail_breakable"
+	}
+	"62514"
+	{
+		"enable"		"0"
+		"hammerid"		"62514"
+		"m_iname"		"nrk1_room3_breakable"
+	}
+	"62550"
+	{
+		"enable"		"0"
+		"hammerid"		"62550"
+		"m_iname"		"nrk1_room2_breakable"
+	}
+	"49937"
+	{
+		"enable"		"0"
+		"hammerid"		"49937"
+		"m_iname"		"nrk1_room6_fence"
+	}
+	"29595"
+	{
+		"enable"		"0"
+		"hammerid"		"29595"
+		"m_iname"		"nrk1_room4_statue_break"
+	}
+	"46816"
+	{
+		"enable"		"1"
+		"hammerid"		"46816"
+		"m_iname"		"nrk1_naraka_boss_hitbox"
+	}
+	"46997"
+	{
+		"enable"		"0"
+		"hammerid"		"46997"
+		"m_iname"		"nrk1_naraka_CY01Physic"
+	}
+	"51265"
+	{
+		"enable"		"1"
+		"hammerid"		"51265"
+		"m_iname"		"nrk1_laserboss_2_break"
+	}
+}

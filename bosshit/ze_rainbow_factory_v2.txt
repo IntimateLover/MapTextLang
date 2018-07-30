@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"689162"
+	{
+		"enable"		"0"
+		"hammerid"		"689162"
+		"m_iname"		"level1_physbox"
+	}
+	"689165"
+	{
+		"enable"		"0"
+		"hammerid"		"689165"
+		"m_iname"		"level2_physbox"
+	}
+}

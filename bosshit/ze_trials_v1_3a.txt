@@ -1,0 +1,147 @@
+"BOSSHP"
+{
+	"204886"
+	{
+		"enable"		"1"
+		"hammerid"		"204886"
+		"m_iname"		"Level_2_White_Box_Breakable_2"
+	}
+	"204958"
+	{
+		"enable"		"0"
+		"hammerid"		"204958"
+		"m_iname"		"Level_1_Shrub_Breakable"
+	}
+	"160121"
+	{
+		"enable"		"1"
+		"hammerid"		"160121"
+		"m_iname"		"Level_2_White_Box_Breakable_1"
+	}
+	"163161"
+	{
+		"enable"		"1"
+		"hammerid"		"163161"
+		"m_iname"		"Level_2_White_Box_Breakable_2"
+	}
+	"163181"
+	{
+		"enable"		"1"
+		"hammerid"		"163181"
+		"m_iname"		"Level_2_White_Box_Breakable_3"
+	}
+	"163224"
+	{
+		"enable"		"1"
+		"hammerid"		"163224"
+		"m_iname"		"Level_2_White_Box_Breakable_4"
+	}
+	"163258"
+	{
+		"enable"		"1"
+		"hammerid"		"163258"
+		"m_iname"		"Level_2_White_Box_Breakable_5"
+	}
+	"163281"
+	{
+		"enable"		"1"
+		"hammerid"		"163281"
+		"m_iname"		"Level_2_White_Box_Breakable_6"
+	}
+	"140813"
+	{
+		"enable"		"0"
+		"hammerid"		"140813"
+		"m_iname"		"Level_1_Scroll"
+	}
+	"84540"
+	{
+		"enable"		"1"
+		"hammerid"		"84540"
+		"m_iname"		"Level_1_Boss_Breakable_Protect"
+	}
+	"80303"
+	{
+		"enable"		"1"
+		"hammerid"		"80303"
+		"m_iname"		"Level_1_Boss_Breakable_2"
+	}
+	"80321"
+	{
+		"enable"		"1"
+		"hammerid"		"80321"
+		"m_iname"		"Level_1_Boss_Breakable_3"
+	}
+	"80472"
+	{
+		"enable"		"1"
+		"hammerid"		"80472"
+		"m_iname"		"Level_1_Boss_HBar_Box"
+	}
+	"80500"
+	{
+		"enable"		"1"
+		"hammerid"		"80500"
+		"m_iname"		"Level_1_Boss_HBar_1"
+	}
+	"80508"
+	{
+		"enable"		"1"
+		"hammerid"		"80508"
+		"m_iname"		"Level_1_Boss_HBar_2"
+	}
+	"80516"
+	{
+		"enable"		"1"
+		"hammerid"		"80516"
+		"m_iname"		"Level_1_Boss_HBar_3"
+	}
+	"80853"
+	{
+		"enable"		"0"
+		"hammerid"		"80853"
+		"m_iname"		"Level_1_Final_Bridge"
+	}
+	"73045"
+	{
+		"enable"		"1"
+		"hammerid"		"73045"
+		"m_iname"		"Level_1_Boss_Bridge"
+	}
+	"38195"
+	{
+		"enable"		"1"
+		"hammerid"		"38195"
+		"m_iname"		"Level_1_Boss_Floor"
+	}
+	"38206"
+	{
+		"enable"		"1"
+		"hammerid"		"38206"
+		"m_iname"		"Level_1_Boss_Breakable"
+	}
+	"4969"
+	{
+		"enable"		"0"
+		"hammerid"		"4969"
+		"m_iname"		"Glass_Beginning"
+	}
+	"6654"
+	{
+		"enable"		"0"
+		"hammerid"		"6654"
+		"m_iname"		"Glass_Beginning"
+	}
+	"41482"
+	{
+		"enable"		"0"
+		"hammerid"		"41482"
+		"m_iname"		"Wall"
+	}
+	"80775"
+	{
+		"enable"		"1"
+		"hammerid"		"80775"
+		"m_iname"		"Level_1_Boss_Bridge_2"
+	}
+}

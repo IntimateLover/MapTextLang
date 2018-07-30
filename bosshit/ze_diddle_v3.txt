@@ -14,7 +14,7 @@
 	}
 	"409426"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"409426"
 		"m_iname"		"seal"
 	}
@@ -110,7 +110,7 @@
 	}
 	"253703"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"253703"
 		"m_iname"		"i_npc_hp_1"
 	}
@@ -686,7 +686,7 @@
 	}
 	"312893"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"312893"
 		"m_iname"		"i_vaginaface_hp&1255"
 	}
@@ -920,7 +920,7 @@
 	}
 	"1528539"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1528539"
 		"m_iname"		"i_diddlebaby_phys&2439"
 	}

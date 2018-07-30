@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"2233"
+	{
+		"enable"		"0"
+		"hammerid"		"2233"
+		"m_iname"		"Breakable1"
+	}
+	"8170"
+	{
+		"enable"		"0"
+		"hammerid"		"8170"
+		"m_iname"		"Breakable3"
+	}
+	"10690"
+	{
+		"enable"		"0"
+		"hammerid"		"10690"
+		"m_iname"		"Breakable4"
+	}
+	"12229"
+	{
+		"enable"		"0"
+		"hammerid"		"12229"
+		"m_iname"		"GlassForM249"
+	}
+	"20749"
+	{
+		"enable"		"0"
+		"hammerid"		"20749"
+		"m_iname"		"Breakable5"
+	}
+	"62477"
+	{
+		"enable"		"0"
+		"hammerid"		"62477"
+		"m_iname"		"LadderPropGibs"
+	}
+	"14875"
+	{
+		"enable"		"0"
+		"hammerid"		"14875"
+		"m_iname"		"Vent"
+	}
+	"14897"
+	{
+		"enable"		"0"
+		"hammerid"		"14897"
+		"m_iname"		"Vent"
+	}
+}

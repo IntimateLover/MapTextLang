@@ -1,0 +1,147 @@
+"BOSSHP"
+{
+	"161433"
+	{
+		"enable"		"0"
+		"hammerid"		"161433"
+		"m_iname"		"RopeBridge13_Phys"
+	}
+	"161473"
+	{
+		"enable"		"0"
+		"hammerid"		"161473"
+		"m_iname"		"RopeBridge21_Phys"
+	}
+	"161514"
+	{
+		"enable"		"0"
+		"hammerid"		"161514"
+		"m_iname"		"RopeBridge38_Phys"
+	}
+	"161519"
+	{
+		"enable"		"0"
+		"hammerid"		"161519"
+		"m_iname"		"RopeBridge40_Phys"
+	}
+	"1801"
+	{
+		"enable"		"0"
+		"hammerid"		"1801"
+		"m_iname"		"boxdrop"
+	}
+	"1810"
+	{
+		"enable"		"0"
+		"hammerid"		"1810"
+		"m_iname"		"stairsfloor"
+	}
+	"1869"
+	{
+		"enable"		"0"
+		"hammerid"		"1869"
+		"m_iname"		"Break"
+	}
+	"1894"
+	{
+		"enable"		"0"
+		"hammerid"		"1894"
+		"m_iname"		"Railbreak"
+	}
+	"2177"
+	{
+		"enable"		"0"
+		"hammerid"		"2177"
+		"m_iname"		"woodrock"
+	}
+	"2183"
+	{
+		"enable"		"0"
+		"hammerid"		"2183"
+		"m_iname"		"ceilingrock"
+	}
+	"2241"
+	{
+		"enable"		"0"
+		"hammerid"		"2241"
+		"m_iname"		"tripline_breakable"
+	}
+	"2252"
+	{
+		"enable"		"0"
+		"hammerid"		"2252"
+		"m_iname"		"tripline_breakable2"
+	}
+	"2309"
+	{
+		"enable"		"0"
+		"hammerid"		"2309"
+		"m_iname"		"mine_break2"
+	}
+	"2318"
+	{
+		"enable"		"0"
+		"hammerid"		"2318"
+		"m_iname"		"mine_break1"
+	}
+	"2323"
+	{
+		"enable"		"0"
+		"hammerid"		"2323"
+		"m_iname"		"mine_break3"
+	}
+	"2330"
+	{
+		"enable"		"0"
+		"hammerid"		"2330"
+		"m_iname"		"bridge_4_plank_1"
+	}
+	"2838"
+	{
+		"enable"		"0"
+		"hammerid"		"2838"
+		"m_iname"		"hallway2_wall"
+	}
+	"2928"
+	{
+		"enable"		"0"
+		"hammerid"		"2928"
+		"m_iname"		"endvent1"
+	}
+	"2930"
+	{
+		"enable"		"0"
+		"hammerid"		"2930"
+		"m_iname"		"endvent2"
+	}
+	"3322"
+	{
+		"enable"		"0"
+		"hammerid"		"3322"
+		"m_iname"		"ladderbreak"
+	}
+	"3336"
+	{
+		"enable"		"0"
+		"hammerid"		"3336"
+		"m_iname"		"coptershield1"
+	}
+	"3342"
+	{
+		"enable"		"0"
+		"hammerid"		"3342"
+		"m_iname"		"coptershield2"
+	}
+	"3407"
+	{
+		"enable"		"0"
+		"hammerid"		"3407"
+		"m_iname"		"disko_shield"
+	}
+	"2210"
+	{
+		"enable"		"0"
+		"hammerid"		"2210"
+		"m_iname"		"rollingball1&9036"
+	}
+}

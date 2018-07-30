@@ -120,4 +120,10 @@
 		"hammerid"		"9149"
 		"m_iname"		"break_door2"
 	}
+	"103118"
+	{
+		"enable"		"0"
+		"hammerid"		"103118"
+		"m_iname"		"phys_penis"
+	}
 }

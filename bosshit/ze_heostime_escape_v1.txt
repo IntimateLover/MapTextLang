@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"4939"
+	{
+		"enable"		"0"
+		"hammerid"		"4939"
+		"m_iname"		"brk_1"
+	}
+	"4958"
+	{
+		"enable"		"0"
+		"hammerid"		"4958"
+		"m_iname"		"brk_2"
+	}
+	"5331"
+	{
+		"enable"		"0"
+		"hammerid"		"5331"
+		"m_iname"		"sex"
+	}
+}

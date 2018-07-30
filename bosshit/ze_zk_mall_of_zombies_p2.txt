@@ -138,4 +138,10 @@
 		"hammerid"		"390527"
 		"m_iname"		"blastdoorfence"
 	}
+	"575503"
+	{
+		"enable"		"0"
+		"hammerid"		"575503"
+		"m_iname"		"EndCeiling&2828"
+	}
 }

@@ -134,4 +134,10 @@
 		"hammerid"		"685027"
 		"m_iname"		"Break_when_dies"
 	}
+	"83793"
+	{
+		"enable"		"0"
+		"hammerid"		"83793"
+		"m_iname"		"the_box"
+	}
 }

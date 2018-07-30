@@ -538,13 +538,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1483421"
-		"m_iname"		"jugger_break&7534"
+		"m_iname"		"jugger_break&0412"
 	}
 	"1024467"
 	{
 		"enable"		"0"
 		"hammerid"		"1024467"
-		"m_iname"		"dog_visb2&7536"
+		"m_iname"		"dog_visb2&0448"
 	}
 	"146725"
 	{
@@ -592,7 +592,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"146589"
-		"m_iname"		"teleportar&7573"
+		"m_iname"		"teleportar&0478"
 	}
 	"146705"
 	{

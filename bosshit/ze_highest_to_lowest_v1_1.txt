@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"5987"
+	{
+		"enable"		"0"
+		"hammerid"		"5987"
+		"m_iname"		"break_1"
+	}
+	"6000"
+	{
+		"enable"		"0"
+		"hammerid"		"6000"
+		"m_iname"		"break_2"
+	}
+	"6021"
+	{
+		"enable"		"0"
+		"hammerid"		"6021"
+		"m_iname"		"break_3"
+	}
+	"6039"
+	{
+		"enable"		"0"
+		"hammerid"		"6039"
+		"m_iname"		"break_4"
+	}
+	"6066"
+	{
+		"enable"		"0"
+		"hammerid"		"6066"
+		"m_iname"		"break_5"
+	}
+	"6087"
+	{
+		"enable"		"0"
+		"hammerid"		"6087"
+		"m_iname"		"break_6"
+	}
+}

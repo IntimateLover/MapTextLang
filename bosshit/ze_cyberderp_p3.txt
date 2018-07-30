@@ -206,4 +206,10 @@
 		"hammerid"		"259056"
 		"m_iname"		"boss_hitbox"
 	}
+	"887070"
+	{
+		"enable"		"1"
+		"hammerid"		"887070"
+		"m_iname"		"boss_surprise"
+	}
 }

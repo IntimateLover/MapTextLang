@@ -1,0 +1,147 @@
+"BOSSHP"
+{
+	"2458913"
+	{
+		"enable"		"0"
+		"hammerid"		"2458913"
+		"m_iname"		"Heal_E_Pickup_Block"
+	}
+	"2458599"
+	{
+		"enable"		"0"
+		"hammerid"		"2458599"
+		"m_iname"		"Fire_E_Pickup_Block"
+	}
+	"2458677"
+	{
+		"enable"		"0"
+		"hammerid"		"2458677"
+		"m_iname"		"Electro_E_Pickup_Block"
+	}
+	"27520"
+	{
+		"enable"		"0"
+		"hammerid"		"27520"
+		"m_iname"		"Common_Hold_4_Break"
+	}
+	"2458754"
+	{
+		"enable"		"0"
+		"hammerid"		"2458754"
+		"m_iname"		"Blizzard_E_Pickup_Block"
+	}
+	"2458805"
+	{
+		"enable"		"0"
+		"hammerid"		"2458805"
+		"m_iname"		"Darkaga_E_Pickup_Block"
+	}
+	"2458847"
+	{
+		"enable"		"0"
+		"hammerid"		"2458847"
+		"m_iname"		"Wind_E_Pickup_Block"
+	}
+	"31639"
+	{
+		"enable"		"0"
+		"hammerid"		"31639"
+		"m_iname"		"Famfrit_Phys"
+	}
+	"31662"
+	{
+		"enable"		"1"
+		"hammerid"		"31662"
+		"m_iname"		"Famfrit_Phys_Body"
+	}
+	"32678"
+	{
+		"enable"		"0"
+		"hammerid"		"32678"
+		"m_iname"		"Common_Hold_1_Break"
+	}
+	"32683"
+	{
+		"enable"		"0"
+		"hammerid"		"32683"
+		"m_iname"		"Common_Hold_2_Break"
+	}
+	"34194"
+	{
+		"enable"		"0"
+		"hammerid"		"34194"
+		"m_iname"		"Famfrit_Phys_Body_Fire"
+	}
+	"34197"
+	{
+		"enable"		"0"
+		"hammerid"		"34197"
+		"m_iname"		"Famfrit_Phys_Body_Holy"
+	}
+	"27599"
+	{
+		"enable"		"1"
+		"hammerid"		"27599"
+		"m_iname"		"Hashmel_Hitbox"
+	}
+	"28230"
+	{
+		"enable"		"0"
+		"hammerid"		"28230"
+		"m_iname"		"Hashmel_ZM_Cage"
+	}
+	"2179"
+	{
+		"enable"		"0"
+		"hammerid"		"2179"
+		"m_iname"		"Stage_13_End_Break"
+	}
+	"27552"
+	{
+		"enable"		"0"
+		"hammerid"		"27552"
+		"m_iname"		"Stage_13_Hold_6_Break_1"
+	}
+	"27556"
+	{
+		"enable"		"0"
+		"hammerid"		"27556"
+		"m_iname"		"Stage_13_Hold_6_Break_2"
+	}
+	"28306"
+	{
+		"enable"		"0"
+		"hammerid"		"28306"
+		"m_iname"		"Stage_13_Door_1"
+	}
+	"28319"
+	{
+		"enable"		"1"
+		"hammerid"		"28319"
+		"m_iname"		"Stage_13_End_Boss_Phys"
+	}
+	"31387"
+	{
+		"enable"		"0"
+		"hammerid"		"31387"
+		"m_iname"		"Stage_13_Hold_6_Break_3"
+	}
+	"31391"
+	{
+		"enable"		"0"
+		"hammerid"		"31391"
+		"m_iname"		"Stage_13_Hold_8_Break"
+	}
+	"31397"
+	{
+		"enable"		"0"
+		"hammerid"		"31397"
+		"m_iname"		"Stage_13_After_Hold_2_Break"
+	}
+	"32942"
+	{
+		"enable"		"0"
+		"hammerid"		"32942"
+		"m_iname"		"Stage_13_End_Door"
+	}
+}

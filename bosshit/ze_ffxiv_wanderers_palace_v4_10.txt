@@ -260,7 +260,7 @@
 	}
 	"178521"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"178521"
 		"m_iname"		"bahamut_hp_100_break"
 	}
@@ -272,7 +272,7 @@
 	}
 	"178729"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"178729"
 		"m_iname"		"bahamut_hp_50_break"
 	}
@@ -401,5 +401,17 @@
 		"enable"		"0"
 		"hammerid"		"535053"
 		"m_iname"		"dark_bahamut_wall"
+	}
+	"261794"
+	{
+		"enable"		"1"
+		"hammerid"		"261794"
+		"m_iname"		"true_bahamut_hitbox"
+	}
+	"469411"
+	{
+		"enable"		"1"
+		"hammerid"		"469411"
+		"m_iname"		"odin_hitbox"
 	}
 }

@@ -1062,4 +1062,16 @@
 		"hammerid"		"2131405"
 		"m_iname"		"Lvl8_Cade"
 	}
+	"1822018"
+	{
+		"enable"		"0"
+		"hammerid"		"1822018"
+		"m_iname"		"Lvl8_Things"
+	}
+	"1822048"
+	{
+		"enable"		"0"
+		"hammerid"		"1822048"
+		"m_iname"		"Lvl8_Things"
+	}
 }

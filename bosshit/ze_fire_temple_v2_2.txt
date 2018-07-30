@@ -24,4 +24,70 @@
 		"hammerid"		"14971"
 		"m_iname"		"Breakable_1"
 	}
+	"359609"
+	{
+		"enable"		"0"
+		"hammerid"		"359609"
+		"m_iname"		"NPC1_Protect_3"
+	}
+	"359612"
+	{
+		"enable"		"0"
+		"hammerid"		"359612"
+		"m_iname"		"NPC4"
+	}
+	"359764"
+	{
+		"enable"		"0"
+		"hammerid"		"359764"
+		"m_iname"		"NPC1_Protect_4"
+	}
+	"359767"
+	{
+		"enable"		"0"
+		"hammerid"		"359767"
+		"m_iname"		"NPC5"
+	}
+	"343828"
+	{
+		"enable"		"0"
+		"hammerid"		"343828"
+		"m_iname"		"NPC1_Protect_1"
+	}
+	"343831"
+	{
+		"enable"		"0"
+		"hammerid"		"343831"
+		"m_iname"		"NPC2"
+	}
+	"343966"
+	{
+		"enable"		"0"
+		"hammerid"		"343966"
+		"m_iname"		"NPC1_Protect_2"
+	}
+	"343969"
+	{
+		"enable"		"0"
+		"hammerid"		"343969"
+		"m_iname"		"NPC3"
+	}
+	"328009"
+	{
+		"enable"		"0"
+		"hammerid"		"328009"
+		"m_iname"		"NPC1"
+	}
+	"328056"
+	{
+		"enable"		"0"
+		"hammerid"		"328056"
+		"m_iname"		"NPC1_Protect"
+	}
+	"312225"
+	{
+		"enable"		"0"
+		"hammerid"		"312225"
+		"m_iname"		"Box_Break_1"
+	}
 }

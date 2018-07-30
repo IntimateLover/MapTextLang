@@ -156,4 +156,22 @@
 		"hammerid"		"145789"
 		"m_iname"		"easy_block_down"
 	}
+	"103198"
+	{
+		"enable"		"0"
+		"hammerid"		"103198"
+		"m_iname"		"hard_slope"
+	}
+	"189174"
+	{
+		"enable"		"0"
+		"hammerid"		"189174"
+		"m_iname"		"break_extreme"
+	}
+	"275418"
+	{
+		"enable"		"0"
+		"hammerid"		"275418"
+		"m_iname"		"break_extreme"
+	}
 }

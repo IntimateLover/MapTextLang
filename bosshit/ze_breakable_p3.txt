@@ -2298,4 +2298,28 @@
 		"hammerid"		"51311"
 		"m_iname"		"couloir1-4_cover_break"
 	}
+	"308499"
+	{
+		"enable"		"0"
+		"hammerid"		"308499"
+		"m_iname"		"fin_phys0_1"
+	}
+	"307777"
+	{
+		"enable"		"0"
+		"hammerid"		"307777"
+		"m_iname"		"fin_phys1_1"
+	}
+	"307626"
+	{
+		"enable"		"0"
+		"hammerid"		"307626"
+		"m_iname"		"fin_phys2_1"
+	}
+	"307375"
+	{
+		"enable"		"0"
+		"hammerid"		"307375"
+		"m_iname"		"fin_phys3_1"
+	}
 }

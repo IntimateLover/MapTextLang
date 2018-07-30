@@ -798,4 +798,10 @@
 		"hammerid"		"1635740"
 		"m_iname"		"End_Boss_Armor"
 	}
+	"2582269"
+	{
+		"enable"		"1"
+		"hammerid"		"2582269"
+		"m_iname"		"Boss_Armor_Break"
+	}
 }
