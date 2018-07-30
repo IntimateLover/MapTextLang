@@ -94,7 +94,7 @@
 	}
 	"*** One of the paths is chosen randomly ***"
 	{
-		"chi"		"**随机选择一条道路 **"
+		"chi"		"**将随机选择一条道路 **"
 	}
 	"*** DEFEND FOR 20 SEC ***"
 	{
@@ -118,7 +118,7 @@
 	}
 	"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
 	{
-		"chi"		"**他使用了黑洞-射击陨石 **"
+		"chi"		"**他使用了重力攻击-射击陨石 **"
 	}
 	"*** THE DRAGON HAS BEEN KILLED ***"
 	{
@@ -134,7 +134,7 @@
 	}
 	"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
 	{
-		"chi"		"**他使用了黑洞攻击-移动到边缘区域 **"
+		"chi"		"**他使用了重力攻击-移动到边缘区域 **"
 	}
 	"*** ITS OVER"
 	{
@@ -174,7 +174,7 @@
 	}
 	"*** GO TO THE CAVES TO PICK IT UP ***"
 	{
-		"chi"		"**去洞穴拿起来 **"
+		"chi"		"**从洞穴下去 **"
 	}
 	"*** HI CRYSTAL WAS PICKED UP ***"
 	{
