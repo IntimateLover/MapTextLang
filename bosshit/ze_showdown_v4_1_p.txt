@@ -1,0 +1,57 @@
+"BOSSHP"
+{
+	"10425"
+	{
+		"enable"		"0"
+		"hammerid"		"10425"
+		"m_iname"		"brug1"
+	}
+	"10491"
+	{
+		"enable"		"0"
+		"hammerid"		"10491"
+		"m_iname"		"brug2"
+	}
+	"10465"
+	{
+		"enable"		"0"
+		"hammerid"		"10465"
+		"m_iname"		"breekbaar1"
+	}
+	"10475"
+	{
+		"enable"		"0"
+		"hammerid"		"10475"
+		"m_iname"		"breekbaar2"
+	}
+	"10527"
+	{
+		"enable"		"0"
+		"hammerid"		"10527"
+		"m_iname"		"breekbaar3"
+	}
+	"10541"
+	{
+		"enable"		"0"
+		"hammerid"		"10541"
+		"m_iname"		"breekbaar4"
+	}
+	"10657"
+	{
+		"enable"		"0"
+		"hammerid"		"10657"
+		"m_iname"		"laag1_1"
+	}
+	"10665"
+	{
+		"enable"		"0"
+		"hammerid"		"10665"
+		"m_iname"		"laag2_1"
+	}
+	"10673"
+	{
+		"enable"		"0"
+		"hammerid"		"10673"
+		"m_iname"		"laag3_1"
+	}
+}

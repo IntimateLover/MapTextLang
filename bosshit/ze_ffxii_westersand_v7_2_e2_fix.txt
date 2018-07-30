@@ -1,0 +1,369 @@
+"BOSSHP"
+{
+	"882094"
+	{
+		"enable"		"0"
+		"hammerid"		"882094"
+		"m_iname"		"Staff_Wind_Fix"
+	}
+	"541650"
+	{
+		"enable"		"1"
+		"hammerid"		"541650"
+		"m_iname"		"Boss_Armor_Nade"
+	}
+	"622494"
+	{
+		"enable"		"0"
+		"hammerid"		"622494"
+		"m_iname"		"CY01Physic"
+	}
+	"1115760"
+	{
+		"enable"		"0"
+		"hammerid"		"1115760"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1115783"
+	{
+		"enable"		"0"
+		"hammerid"		"1115783"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1115791"
+	{
+		"enable"		"0"
+		"hammerid"		"1115791"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1115798"
+	{
+		"enable"		"0"
+		"hammerid"		"1115798"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1116368"
+	{
+		"enable"		"0"
+		"hammerid"		"1116368"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1116398"
+	{
+		"enable"		"0"
+		"hammerid"		"1116398"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1116414"
+	{
+		"enable"		"0"
+		"hammerid"		"1116414"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1116422"
+	{
+		"enable"		"0"
+		"hammerid"		"1116422"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1117417"
+	{
+		"enable"		"0"
+		"hammerid"		"1117417"
+		"m_iname"		"ZE_God_City_Breakable"
+	}
+	"1117631"
+	{
+		"enable"		"0"
+		"hammerid"		"1117631"
+		"m_iname"		"ZE_God_City_Breakable2"
+	}
+	"1242603"
+	{
+		"enable"		"0"
+		"hammerid"		"1242603"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1242611"
+	{
+		"enable"		"0"
+		"hammerid"		"1242611"
+		"m_iname"		"ZE_God_Breakable"
+	}
+	"1337305"
+	{
+		"enable"		"0"
+		"hammerid"		"1337305"
+		"m_iname"		"Cloak_Armor_Ashe"
+	}
+	"1337334"
+	{
+		"enable"		"0"
+		"hammerid"		"1337334"
+		"m_iname"		"Cloak_Armor_Vaan"
+	}
+	"1337363"
+	{
+		"enable"		"0"
+		"hammerid"		"1337363"
+		"m_iname"		"Cloak_Armor_Balthier"
+	}
+	"1337388"
+	{
+		"enable"		"0"
+		"hammerid"		"1337388"
+		"m_iname"		"Cloak_Armor_Basch"
+	}
+	"1324452"
+	{
+		"enable"		"1"
+		"hammerid"		"1324452"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324461"
+	{
+		"enable"		"1"
+		"hammerid"		"1324461"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324470"
+	{
+		"enable"		"1"
+		"hammerid"		"1324470"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324473"
+	{
+		"enable"		"1"
+		"hammerid"		"1324473"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324719"
+	{
+		"enable"		"1"
+		"hammerid"		"1324719"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324722"
+	{
+		"enable"		"1"
+		"hammerid"		"1324722"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324725"
+	{
+		"enable"		"1"
+		"hammerid"		"1324725"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324728"
+	{
+		"enable"		"1"
+		"hammerid"		"1324728"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324731"
+	{
+		"enable"		"1"
+		"hammerid"		"1324731"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324734"
+	{
+		"enable"		"1"
+		"hammerid"		"1324734"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324737"
+	{
+		"enable"		"1"
+		"hammerid"		"1324737"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324740"
+	{
+		"enable"		"1"
+		"hammerid"		"1324740"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324743"
+	{
+		"enable"		"1"
+		"hammerid"		"1324743"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"1324746"
+	{
+		"enable"		"1"
+		"hammerid"		"1324746"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"558759"
+	{
+		"enable"		"1"
+		"hammerid"		"558759"
+		"m_iname"		"Airship_Ending_Boss_Physbox"
+	}
+	"641305"
+	{
+		"enable"		"0"
+		"hammerid"		"641305"
+		"m_iname"		"Guard_3_Physbox"
+	}
+	"641272"
+	{
+		"enable"		"0"
+		"hammerid"		"641272"
+		"m_iname"		"Guard_2_Physbox"
+	}
+	"605242"
+	{
+		"enable"		"1"
+		"hammerid"		"605242"
+		"m_iname"		"Guard_1_Physbox"
+	}
+	"70046"
+	{
+		"enable"		"0"
+		"hammerid"		"70046"
+		"m_iname"		"Store_Breakable"
+	}
+	"70057"
+	{
+		"enable"		"0"
+		"hammerid"		"70057"
+		"m_iname"		"Store_Breakable"
+	}
+	"70072"
+	{
+		"enable"		"0"
+		"hammerid"		"70072"
+		"m_iname"		"Store_Breakable"
+	}
+	"70075"
+	{
+		"enable"		"0"
+		"hammerid"		"70075"
+		"m_iname"		"Store_Breakable"
+	}
+	"274137"
+	{
+		"enable"		"0"
+		"hammerid"		"274137"
+		"m_iname"		"ZE_God_Glass_1"
+	}
+	"293783"
+	{
+		"enable"		"0"
+		"hammerid"		"293783"
+		"m_iname"		"ZE_God_Glass_2"
+	}
+	"404367"
+	{
+		"enable"		"0"
+		"hammerid"		"404367"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404372"
+	{
+		"enable"		"0"
+		"hammerid"		"404372"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404377"
+	{
+		"enable"		"0"
+		"hammerid"		"404377"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404382"
+	{
+		"enable"		"0"
+		"hammerid"		"404382"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404387"
+	{
+		"enable"		"0"
+		"hammerid"		"404387"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404407"
+	{
+		"enable"		"0"
+		"hammerid"		"404407"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404424"
+	{
+		"enable"		"0"
+		"hammerid"		"404424"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"404429"
+	{
+		"enable"		"0"
+		"hammerid"		"404429"
+		"m_iname"		"lvl_extreme_break_glass_road"
+	}
+	"698604"
+	{
+		"enable"		"0"
+		"hammerid"		"698604"
+		"m_iname"		"Door_6_Breakable"
+	}
+	"698658"
+	{
+		"enable"		"0"
+		"hammerid"		"698658"
+		"m_iname"		"Door_5_Breakable"
+	}
+	"698727"
+	{
+		"enable"		"0"
+		"hammerid"		"698727"
+		"m_iname"		"Door_4_Breakable"
+	}
+	"1104515"
+	{
+		"enable"		"0"
+		"hammerid"		"1104515"
+		"m_iname"		"Airport_Vent"
+	}
+	"1215032"
+	{
+		"enable"		"0"
+		"hammerid"		"1215032"
+		"m_iname"		"ZE_God_Lavaglass_1"
+	}
+	"1215069"
+	{
+		"enable"		"0"
+		"hammerid"		"1215069"
+		"m_iname"		"ZE_God_Lavaglass_2"
+	}
+	"1217987"
+	{
+		"enable"		"0"
+		"hammerid"		"1217987"
+		"m_iname"		"Has_Ceiling"
+	}
+	"1241319"
+	{
+		"enable"		"0"
+		"hammerid"		"1241319"
+		"m_iname"		"ZE_Hold_2_Breakable"
+	}
+	"1336976"
+	{
+		"enable"		"0"
+		"hammerid"		"1336976"
+		"m_iname"		"Ehe_Dragon_Nade"
+	}
+	"1449090"
+	{
+		"enable"		"0"
+		"hammerid"		"1449090"
+		"m_iname"		"DesertHall_Vents"
+	}
+}

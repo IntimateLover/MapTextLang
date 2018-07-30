@@ -1,0 +1,219 @@
+"BOSSHP"
+{
+	"7003"
+	{
+		"enable"		"0"
+		"hammerid"		"7003"
+		"m_iname"		"lbb"
+	}
+	"7330"
+	{
+		"enable"		"0"
+		"hammerid"		"7330"
+		"m_iname"		"e2tg"
+	}
+	"779876"
+	{
+		"enable"		"0"
+		"hammerid"		"779876"
+		"m_iname"		"row1b"
+	}
+	"779897"
+	{
+		"enable"		"0"
+		"hammerid"		"779897"
+		"m_iname"		"row2b"
+	}
+	"810327"
+	{
+		"enable"		"0"
+		"hammerid"		"810327"
+		"m_iname"		"hgb"
+	}
+	"810359"
+	{
+		"enable"		"0"
+		"hammerid"		"810359"
+		"m_iname"		"hgb"
+	}
+	"949500"
+	{
+		"enable"		"0"
+		"hammerid"		"949500"
+		"m_iname"		"d"
+	}
+	"996378"
+	{
+		"enable"		"0"
+		"hammerid"		"996378"
+		"m_iname"		"lastdor"
+	}
+	"1642156"
+	{
+		"enable"		"0"
+		"hammerid"		"1642156"
+		"m_iname"		"ww1b"
+	}
+	"1642591"
+	{
+		"enable"		"0"
+		"hammerid"		"1642591"
+		"m_iname"		"ww2b"
+	}
+	"1659067"
+	{
+		"enable"		"0"
+		"hammerid"		"1659067"
+		"m_iname"		"ww2b"
+	}
+	"1675278"
+	{
+		"enable"		"0"
+		"hammerid"		"1675278"
+		"m_iname"		"gbb"
+	}
+	"2513665"
+	{
+		"enable"		"0"
+		"hammerid"		"2513665"
+		"m_iname"		"3liftb"
+	}
+	"2514023"
+	{
+		"enable"		"0"
+		"hammerid"		"2514023"
+		"m_iname"		"lift"
+	}
+	"2582573"
+	{
+		"enable"		"0"
+		"hammerid"		"2582573"
+		"m_iname"		"end2b4"
+	}
+	"2582576"
+	{
+		"enable"		"0"
+		"hammerid"		"2582576"
+		"m_iname"		"end2b3"
+	}
+	"2582579"
+	{
+		"enable"		"0"
+		"hammerid"		"2582579"
+		"m_iname"		"end2b2"
+	}
+	"2582582"
+	{
+		"enable"		"0"
+		"hammerid"		"2582582"
+		"m_iname"		"end2b1"
+	}
+	"3724414"
+	{
+		"enable"		"0"
+		"hammerid"		"3724414"
+		"m_iname"		"fmg1"
+	}
+	"3724464"
+	{
+		"enable"		"0"
+		"hammerid"		"3724464"
+		"m_iname"		"gmg1"
+	}
+	"3740267"
+	{
+		"enable"		"0"
+		"hammerid"		"3740267"
+		"m_iname"		"mmg"
+	}
+	"3835049"
+	{
+		"enable"		"0"
+		"hammerid"		"3835049"
+		"m_iname"		"mmg1"
+	}
+	"3504106"
+	{
+		"enable"		"0"
+		"hammerid"		"3504106"
+		"m_iname"		"bssak"
+	}
+	"4583832"
+	{
+		"enable"		"0"
+		"hammerid"		"4583832"
+		"m_iname"		"bssak2"
+	}
+	"4583981"
+	{
+		"enable"		"0"
+		"hammerid"		"4583981"
+		"m_iname"		"bssak3"
+	}
+	"4584002"
+	{
+		"enable"		"0"
+		"hammerid"		"4584002"
+		"m_iname"		"bssak4"
+	}
+	"4584008"
+	{
+		"enable"		"0"
+		"hammerid"		"4584008"
+		"m_iname"		"bssak5"
+	}
+	"4584014"
+	{
+		"enable"		"0"
+		"hammerid"		"4584014"
+		"m_iname"		"bssak6"
+	}
+	"4584020"
+	{
+		"enable"		"0"
+		"hammerid"		"4584020"
+		"m_iname"		"bssak7"
+	}
+	"4584026"
+	{
+		"enable"		"0"
+		"hammerid"		"4584026"
+		"m_iname"		"bssak8"
+	}
+	"4584032"
+	{
+		"enable"		"0"
+		"hammerid"		"4584032"
+		"m_iname"		"bssak9"
+	}
+	"4584038"
+	{
+		"enable"		"0"
+		"hammerid"		"4584038"
+		"m_iname"		"bssak10"
+	}
+	"4584044"
+	{
+		"enable"		"0"
+		"hammerid"		"4584044"
+		"m_iname"		"bssak11"
+	}
+	"4584056"
+	{
+		"enable"		"0"
+		"hammerid"		"4584056"
+		"m_iname"		"bssak12"
+	}
+	"810345"
+	{
+		"enable"		"0"
+		"hammerid"		"810345"
+		"m_iname"		"hgt"
+	}
+	"27616"
+	{
+		"enable"		"0"
+		"hammerid"		"27616"
+		"m_iname"		"hgt"
+	}
+}

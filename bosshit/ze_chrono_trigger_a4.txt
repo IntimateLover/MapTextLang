@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"15576"
+	{
+		"enable"		"1"
+		"hammerid"		"15576"
+		"m_iname"		"l1_boss_shell"
+	}
+	"15594"
+	{
+		"enable"		"1"
+		"hammerid"		"15594"
+		"m_iname"		"l1_boss_breakable"
+	}
+}

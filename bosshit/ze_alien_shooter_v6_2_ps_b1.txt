@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"565"
+	{
+		"enable"		"1"
+		"hammerid"		"565"
+		"m_iname"		"breakboss_lvl1_zm"
+	}
+	"923"
+	{
+		"enable"		"1"
+		"hammerid"		"923"
+		"m_iname"		"Noctali_Boss_Break"
+	}
+	"955"
+	{
+		"enable"		"1"
+		"hammerid"		"955"
+		"m_iname"		"Noctali_Boss_Physbox"
+	}
+	"950"
+	{
+		"enable"		"1"
+		"hammerid"		"950"
+		"m_iname"		"Noctali_Boss_Tar"
+	}
+	"756"
+	{
+		"enable"		"0"
+		"hammerid"		"756"
+		"m_iname"		"physbox"
+	}
+}

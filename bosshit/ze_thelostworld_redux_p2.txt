@@ -1,0 +1,69 @@
+"BOSSHP"
+{
+	"310"
+	{
+		"enable"		"0"
+		"hammerid"		"310"
+		"m_iname"		"schoolbusssssssssssssssheli1"
+	}
+	"1116"
+	{
+		"enable"		"0"
+		"hammerid"		"1116"
+		"m_iname"		"compoundoor"
+	}
+	"1133"
+	{
+		"enable"		"0"
+		"hammerid"		"1133"
+		"m_iname"		"compoundoor2"
+	}
+	"483"
+	{
+		"enable"		"0"
+		"hammerid"		"483"
+		"m_iname"		"bridge"
+	}
+	"592"
+	{
+		"enable"		"0"
+		"hammerid"		"592"
+		"m_iname"		"gatebreak"
+	}
+	"619"
+	{
+		"enable"		"0"
+		"hammerid"		"619"
+		"m_iname"		"laserbreak"
+	}
+	"645"
+	{
+		"enable"		"0"
+		"hammerid"		"645"
+		"m_iname"		"plankbreak"
+	}
+	"651"
+	{
+		"enable"		"0"
+		"hammerid"		"651"
+		"m_iname"		"hedgehogbreak"
+	}
+	"662"
+	{
+		"enable"		"0"
+		"hammerid"		"662"
+		"m_iname"		"hedgehogbreak"
+	}
+	"705"
+	{
+		"enable"		"0"
+		"hammerid"		"705"
+		"m_iname"		"platformbreak"
+	}
+	"913"
+	{
+		"enable"		"0"
+		"hammerid"		"913"
+		"m_iname"		"tylohurt"
+	}
+}

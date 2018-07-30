@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"3937"
+	{
+		"enable"		"0"
+		"hammerid"		"3937"
+		"m_iname"		"breakable_02"
+	}
+	"4037"
+	{
+		"enable"		"0"
+		"hammerid"		"4037"
+		"m_iname"		"breakable_10"
+	}
+	"4217"
+	{
+		"enable"		"0"
+		"hammerid"		"4217"
+		"m_iname"		"breakable_last_door"
+	}
+	"4241"
+	{
+		"enable"		"0"
+		"hammerid"		"4241"
+		"m_iname"		"breakable_tram"
+	}
+	"4249"
+	{
+		"enable"		"0"
+		"hammerid"		"4249"
+		"m_iname"		"breakable_transporter"
+	}
+}

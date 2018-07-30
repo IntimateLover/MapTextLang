@@ -1,0 +1,173 @@
+"BOSSHP"
+{
+	"drzak_strom"
+	{
+		"enable"		"0"
+	}
+	"lod_cast111"
+	{
+		"enable"		"0"
+	}
+	"lod_cast11"
+	{
+		"enable"		"0"
+	}
+	"lod_cast1"
+	{
+		"enable"		"0"
+	}
+	"CY01Physic"
+	{
+		"enable"		"0"
+	}
+	"pirate_hitbox"
+	{
+		"enable"		"1"
+	}
+	"kraken_box"
+	{
+		"enable"		"1"
+	}
+	"final_barbossa_hit"
+	{
+		"enable"		"1"
+	}
+	"barbossa_hit"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic1"
+	{
+		"enable"		"0"
+	}
+	"sud_stred"
+	{
+		"enable"		"0"
+	}
+	"buble_stred"
+	{
+		"enable"		"0"
+	}
+	"sekera_boss"
+	{
+		"enable"		"1"
+	}
+	"sekera2_boss"
+	{
+		"enable"		"1"
+	}
+	"zm_barbossa_hitbox"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4501"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4541"
+	{
+		"enable"		"1"
+	}
+	"k_sud_stred&4568"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4569"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4576"
+	{
+		"enable"		"0"
+	}
+	"zombie_barbossa_stred&4609"
+	{
+		"enable"		"1"
+	}
+	"k_sud_stred&4630"
+	{
+		"enable"		"0"
+	}
+	"zombie_barbossa_stred&4663"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4705"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4723"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4761"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4774"
+	{
+		"enable"		"1"
+	}
+	"k_sud_stred&4795"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4804"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4807"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4808"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4809"
+	{
+		"enable"		"0"
+	}
+	"k_sud_stred&4806"
+	{
+		"enable"		"0"
+	}
+	"boss_dira_zed"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_vchod"
+	{
+		"enable"		"1"
+	}
+	"viko_delo_boss"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4572"
+	{
+		"enable"		"1"
+	}
+	"zombie_barbossa_stred&4590"
+	{
+		"enable"		"1"
+	}
+	"7560818"
+	{
+		"enable"		"1"
+		"hammerid"		"7560818"
+		"m_iname"		"zombie_barbossa_stred&8158"
+	}
+	"138842"
+	{
+		"enable"		"0"
+		"hammerid"		"138842"
+		"m_iname"		"k_sud_stred&8034"
+	}
+	"138288"
+	{
+		"enable"		"1"
+		"hammerid"		"138288"
+		"m_iname"		"kraken_box"
+	}
+}

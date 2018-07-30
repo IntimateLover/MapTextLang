@@ -1,0 +1,111 @@
+"BOSSHP"
+{
+	"2003"
+	{
+		"enable"		"1"
+		"hammerid"		"2003"
+		"m_iname"		"Bossheadfirst"
+	}
+	"2005"
+	{
+		"enable"		"1"
+		"hammerid"		"2005"
+		"m_iname"		"Bossheadsecond"
+	}
+	"2007"
+	{
+		"enable"		"1"
+		"hammerid"		"2007"
+		"m_iname"		"Bossheadbegin"
+	}
+	"2398"
+	{
+		"enable"		"1"
+		"hammerid"		"2398"
+		"m_iname"		"BossHeadfinal"
+	}
+	"26758"
+	{
+		"enable"		"0"
+		"hammerid"		"26758"
+		"m_iname"		"soulsphere_fade3"
+	}
+	"26731"
+	{
+		"enable"		"0"
+		"hammerid"		"26731"
+		"m_iname"		"soulsphere_fade2"
+	}
+	"26794"
+	{
+		"enable"		"0"
+		"hammerid"		"26794"
+		"m_iname"		"soulsphere_fade"
+	}
+	"26725"
+	{
+		"enable"		"0"
+		"hammerid"		"26725"
+		"m_iname"		"berserk_fade"
+	}
+	"26817"
+	{
+		"enable"		"0"
+		"hammerid"		"26817"
+		"m_iname"		"megasphere_fade"
+	}
+	"3196"
+	{
+		"enable"		"1"
+		"hammerid"		"3196"
+		"m_iname"		"ImpHitbox&5377"
+	}
+	"3221"
+	{
+		"enable"		"0"
+		"hammerid"		"3221"
+		"m_iname"		"ImpMovement&5377"
+	}
+	"3122"
+	{
+		"enable"		"1"
+		"hammerid"		"3122"
+		"m_iname"		"LostSoulHitbox&5382"
+	}
+	"3147"
+	{
+		"enable"		"0"
+		"hammerid"		"3147"
+		"m_iname"		"LostSoulMovement&5382"
+	}
+	"3159"
+	{
+		"enable"		"1"
+		"hammerid"		"3159"
+		"m_iname"		"DemonHitbox&0116"
+	}
+	"3184"
+	{
+		"enable"		"0"
+		"hammerid"		"3184"
+		"m_iname"		"DemonMovement&0116"
+	}
+	"3085"
+	{
+		"enable"		"1"
+		"hammerid"		"3085"
+		"m_iname"		"CacoDemonHitbox&0114"
+	}
+	"3110"
+	{
+		"enable"		"0"
+		"hammerid"		"3110"
+		"m_iname"		"CacoDemonMovement&0114"
+	}
+	"2212"
+	{
+		"enable"		"0"
+		"hammerid"		"2212"
+		"m_iname"		"breakfall"
+	}
+}

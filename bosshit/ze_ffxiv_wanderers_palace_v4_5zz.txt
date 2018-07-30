@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"dalamud_hitbox"
+	{
+		"enable"		"1"
+	}
+	"true_bahamut_hitbox"
+	{
+		"enable"		"1"
+	}
+	"odin_hitbox"
+	{
+		"enable"		"1"
+	}
+}

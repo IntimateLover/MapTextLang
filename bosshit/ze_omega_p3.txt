@@ -1,0 +1,47 @@
+"BOSSHP"
+{
+	"hallway1_power"
+	{
+		"enable"		"0"
+	}
+	"boxer"
+	{
+		"enable"		"0"
+	}
+	"41083"
+	{
+		"enable"		"0"
+		"hammerid"		"41083"
+		"m_iname"		"ZombieHand"
+	}
+	"9607"
+	{
+		"enable"		"0"
+		"hammerid"		"9607"
+		"m_iname"		"hallway2_wall"
+	}
+	"9920"
+	{
+		"enable"		"0"
+		"hammerid"		"9920"
+		"m_iname"		"cargo_brokenwall"
+	}
+	"10172"
+	{
+		"enable"		"0"
+		"hammerid"		"10172"
+		"m_iname"		"cartcontrol_brokenwall"
+	}
+	"12067"
+	{
+		"enable"		"0"
+		"hammerid"		"12067"
+		"m_iname"		"tunnel_box_break1"
+	}
+	"12075"
+	{
+		"enable"		"0"
+		"hammerid"		"12075"
+		"m_iname"		"tunnel_ladder_break1"
+	}
+}

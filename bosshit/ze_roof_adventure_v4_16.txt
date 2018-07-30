@@ -1,0 +1,291 @@
+"BOSSHP"
+{
+	"292366"
+	{
+		"enable"		"1"
+		"hammerid"		"292366"
+		"m_iname"		"breakable_boss"
+	}
+	"157007"
+	{
+		"enable"		"1"
+		"hammerid"		"157007"
+		"m_iname"		"rock_boss_breakable"
+	}
+	"49152"
+	{
+		"enable"		"0"
+		"hammerid"		"49152"
+		"m_iname"		"level1_box"
+	}
+	"103641"
+	{
+		"enable"		"1"
+		"hammerid"		"103641"
+		"m_iname"		"boss"
+	}
+	"783002"
+	{
+		"enable"		"0"
+		"hammerid"		"783002"
+		"m_iname"		"randommode_ammo_box"
+	}
+	"773912"
+	{
+		"enable"		"0"
+		"hammerid"		"773912"
+		"m_iname"		"randommode_health_box"
+	}
+	"679741"
+	{
+		"enable"		"0"
+		"hammerid"		"679741"
+		"m_iname"		"randommode_hostage_box"
+	}
+	"675360"
+	{
+		"enable"		"0"
+		"hammerid"		"675360"
+		"m_iname"		"randommode_chicken_box"
+	}
+	"1048539"
+	{
+		"enable"		"0"
+		"hammerid"		"1048539"
+		"m_iname"		"ground"
+	}
+	"943869"
+	{
+		"enable"		"0"
+		"hammerid"		"943869"
+		"m_iname"		"surfmode_break3"
+	}
+	"925428"
+	{
+		"enable"		"0"
+		"hammerid"		"925428"
+		"m_iname"		"surfmode_break2"
+	}
+	"858906"
+	{
+		"enable"		"0"
+		"hammerid"		"858906"
+		"m_iname"		"surfmode_break1"
+	}
+	"725402"
+	{
+		"enable"		"0"
+		"hammerid"		"725402"
+		"m_iname"		"randommode_break"
+	}
+	"640627"
+	{
+		"enable"		"0"
+		"hammerid"		"640627"
+		"m_iname"		"christmasmode_break1"
+	}
+	"583440"
+	{
+		"enable"		"0"
+		"hammerid"		"583440"
+		"m_iname"		"darkmode_break"
+	}
+	"558477"
+	{
+		"enable"		"0"
+		"hammerid"		"558477"
+		"m_iname"		"randommode_breakable1"
+	}
+	"453334"
+	{
+		"enable"		"0"
+		"hammerid"		"453334"
+		"m_iname"		"parkourmode_break"
+	}
+	"325990"
+	{
+		"enable"		"0"
+		"hammerid"		"325990"
+		"m_iname"		"laser_mode_break1"
+	}
+	"292285"
+	{
+		"enable"		"0"
+		"hammerid"		"292285"
+		"m_iname"		"breakable_heal"
+	}
+	"248569"
+	{
+		"enable"		"0"
+		"hammerid"		"248569"
+		"m_iname"		"breakable_10"
+	}
+	"102248"
+	{
+		"enable"		"0"
+		"hammerid"		"102248"
+		"m_iname"		"breakable_0"
+	}
+	"59847"
+	{
+		"enable"		"0"
+		"hammerid"		"59847"
+		"m_iname"		"breakable_8"
+	}
+	"49539"
+	{
+		"enable"		"0"
+		"hammerid"		"49539"
+		"m_iname"		"breakable_9"
+	}
+	"49716"
+	{
+		"enable"		"0"
+		"hammerid"		"49716"
+		"m_iname"		"breakable_7"
+	}
+	"45527"
+	{
+		"enable"		"0"
+		"hammerid"		"45527"
+		"m_iname"		"breakable_fire_1"
+	}
+	"45541"
+	{
+		"enable"		"0"
+		"hammerid"		"45541"
+		"m_iname"		"breakable_fire_2"
+	}
+	"45555"
+	{
+		"enable"		"0"
+		"hammerid"		"45555"
+		"m_iname"		"breakable_fire_3"
+	}
+	"34090"
+	{
+		"enable"		"0"
+		"hammerid"		"34090"
+		"m_iname"		"breakable_4"
+	}
+	"20473"
+	{
+		"enable"		"0"
+		"hammerid"		"20473"
+		"m_iname"		"breakable_last"
+	}
+	"18022"
+	{
+		"enable"		"0"
+		"hammerid"		"18022"
+		"m_iname"		"breakable_6"
+	}
+	"12782"
+	{
+		"enable"		"0"
+		"hammerid"		"12782"
+		"m_iname"		"breakable_2"
+	}
+	"13677"
+	{
+		"enable"		"0"
+		"hammerid"		"13677"
+		"m_iname"		"breakable_3"
+	}
+	"156991"
+	{
+		"enable"		"0"
+		"hammerid"		"156991"
+		"m_iname"		"rock_breakable"
+	}
+	"893236"
+	{
+		"enable"		"0"
+		"hammerid"		"893236"
+		"m_iname"		"surfmode"
+	}
+	"562192"
+	{
+		"enable"		"0"
+		"hammerid"		"562192"
+		"m_iname"		"christmasmode"
+	}
+	"793869"
+	{
+		"enable"		"0"
+		"hammerid"		"793869"
+		"m_iname"		"hardmode"
+	}
+	"729478"
+	{
+		"enable"		"0"
+		"hammerid"		"729478"
+		"m_iname"		"pushmode"
+	}
+	"729527"
+	{
+		"enable"		"0"
+		"hammerid"		"729527"
+		"m_iname"		"gravitymode"
+	}
+	"334866"
+	{
+		"enable"		"0"
+		"hammerid"		"334866"
+		"m_iname"		"lasermode"
+	}
+	"575686"
+	{
+		"enable"		"0"
+		"hammerid"		"575686"
+		"m_iname"		"darkmode"
+	}
+	"545748"
+	{
+		"enable"		"0"
+		"hammerid"		"545748"
+		"m_iname"		"noobmode"
+	}
+	"393306"
+	{
+		"enable"		"0"
+		"hammerid"		"393306"
+		"m_iname"		"parkourmode"
+	}
+	"334843"
+	{
+		"enable"		"0"
+		"hammerid"		"334843"
+		"m_iname"		"zmmode"
+	}
+	"62900"
+	{
+		"enable"		"0"
+		"hammerid"		"62900"
+		"m_iname"		"breakable_1_level4"
+	}
+	"402927"
+	{
+		"enable"		"0"
+		"hammerid"		"402927"
+		"m_iname"		"parkourmode_reduce_arrow"
+	}
+	"524217"
+	{
+		"enable"		"0"
+		"hammerid"		"524217"
+		"m_iname"		"parkourmode_bus_box"
+	}
+	"402835"
+	{
+		"enable"		"0"
+		"hammerid"		"402835"
+		"m_iname"		"parkourmode_speed_arrow"
+	}
+	"406186"
+	{
+		"enable"		"0"
+		"hammerid"		"406186"
+		"m_iname"		"parkourmode_heal"
+	}
+}

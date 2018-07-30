@@ -1,0 +1,61 @@
+"BOSSHP"
+{
+	"electric_ladder"
+	{
+		"enable"		"0"
+	}
+	"172505"
+	{
+		"enable"		"0"
+		"hammerid"		"172505"
+		"m_iname"		"secret_break"
+	}
+	"156777"
+	{
+		"enable"		"0"
+		"hammerid"		"156777"
+		"m_iname"		"WOODTOWER"
+	}
+	"97992"
+	{
+		"enable"		"0"
+		"hammerid"		"97992"
+		"m_iname"		"hold_area_1_door"
+	}
+	"515"
+	{
+		"enable"		"0"
+		"hammerid"		"515"
+		"m_iname"		"door_1"
+	}
+	"522"
+	{
+		"enable"		"0"
+		"hammerid"		"522"
+		"m_iname"		"door_2"
+	}
+	"1372"
+	{
+		"enable"		"0"
+		"hammerid"		"1372"
+		"m_iname"		"gatewall_1"
+	}
+	"1374"
+	{
+		"enable"		"0"
+		"hammerid"		"1374"
+		"m_iname"		"gatewall_2"
+	}
+	"1376"
+	{
+		"enable"		"0"
+		"hammerid"		"1376"
+		"m_iname"		"gatewall_3"
+	}
+	"1378"
+	{
+		"enable"		"0"
+		"hammerid"		"1378"
+		"m_iname"		"gatewall_4"
+	}
+}

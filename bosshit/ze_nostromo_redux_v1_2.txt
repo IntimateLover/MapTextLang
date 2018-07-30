@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"425973"
+	{
+		"enable"		"0"
+		"hammerid"		"425973"
+		"m_iname"		"prod_model"
+	}
+	"331268"
+	{
+		"enable"		"0"
+		"hammerid"		"331268"
+		"m_iname"		"flamethrower_model"
+	}
+	"875283"
+	{
+		"enable"		"0"
+		"hammerid"		"875283"
+		"m_iname"		"vent_break"
+	}
+	"273093"
+	{
+		"enable"		"0"
+		"hammerid"		"273093"
+		"m_iname"		"muthuraccessbreak"
+	}
+	"96965"
+	{
+		"enable"		"0"
+		"hammerid"		"96965"
+		"m_iname"		"vent1grate"
+	}
+}

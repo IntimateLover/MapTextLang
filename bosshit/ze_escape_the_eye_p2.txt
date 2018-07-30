@@ -1,0 +1,141 @@
+"BOSSHP"
+{
+	"1042"
+	{
+		"enable"		"0"
+		"hammerid"		"1042"
+		"m_iname"		"trap_rock_end"
+	}
+	"1163"
+	{
+		"enable"		"0"
+		"hammerid"		"1163"
+		"m_iname"		"rockball1"
+	}
+	"1169"
+	{
+		"enable"		"0"
+		"hammerid"		"1169"
+		"m_iname"		"rockball2"
+	}
+	"1173"
+	{
+		"enable"		"0"
+		"hammerid"		"1173"
+		"m_iname"		"rockball3"
+	}
+	"1177"
+	{
+		"enable"		"0"
+		"hammerid"		"1177"
+		"m_iname"		"rockball4"
+	}
+	"1181"
+	{
+		"enable"		"0"
+		"hammerid"		"1181"
+		"m_iname"		"rockball5"
+	}
+	"1185"
+	{
+		"enable"		"0"
+		"hammerid"		"1185"
+		"m_iname"		"rockball6"
+	}
+	"1189"
+	{
+		"enable"		"0"
+		"hammerid"		"1189"
+		"m_iname"		"rockball7"
+	}
+	"1458332"
+	{
+		"enable"		"0"
+		"hammerid"		"1458332"
+		"m_iname"		"secretlift_1_roof"
+	}
+	"902"
+	{
+		"enable"		"0"
+		"hammerid"		"902"
+		"m_iname"		"secretlift_1_roof"
+	}
+	"960"
+	{
+		"enable"		"0"
+		"hammerid"		"960"
+		"m_iname"		"logtrap_break1"
+	}
+	"962"
+	{
+		"enable"		"0"
+		"hammerid"		"962"
+		"m_iname"		"logtrap_break2"
+	}
+	"967"
+	{
+		"enable"		"0"
+		"hammerid"		"967"
+		"m_iname"		"logtrap_break3"
+	}
+	"969"
+	{
+		"enable"		"0"
+		"hammerid"		"969"
+		"m_iname"		"logtrap_break4"
+	}
+	"1046"
+	{
+		"enable"		"0"
+		"hammerid"		"1046"
+		"m_iname"		"trap_rock_break"
+	}
+	"1196"
+	{
+		"enable"		"0"
+		"hammerid"		"1196"
+		"m_iname"		"eye_rockbreak1"
+	}
+	"1245"
+	{
+		"enable"		"0"
+		"hammerid"		"1245"
+		"m_iname"		"eye_rockbreak2"
+	}
+	"1313"
+	{
+		"enable"		"0"
+		"hammerid"		"1313"
+		"m_iname"		"eye_rockbreak3"
+	}
+	"24388"
+	{
+		"enable"		"0"
+		"hammerid"		"24388"
+		"m_iname"		"muro"
+	}
+	"24580"
+	{
+		"enable"		"0"
+		"hammerid"		"24580"
+		"m_iname"		"murospawn"
+	}
+	"24715"
+	{
+		"enable"		"0"
+		"hammerid"		"24715"
+		"m_iname"		"murospawn2"
+	}
+	"57403"
+	{
+		"enable"		"0"
+		"hammerid"		"57403"
+		"m_iname"		"pushsecret"
+	}
+	"58977"
+	{
+		"enable"		"0"
+		"hammerid"		"58977"
+		"m_iname"		"jailbreak"
+	}
+}

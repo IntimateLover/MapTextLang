@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"72905"
+	{
+		"enable"		"0"
+		"hammerid"		"72905"
+		"m_iname"		"break_1"
+	}
+	"72973"
+	{
+		"enable"		"0"
+		"hammerid"		"72973"
+		"m_iname"		"break_2"
+	}
+	"54919"
+	{
+		"enable"		"0"
+		"hammerid"		"54919"
+		"m_iname"		"level_9_go"
+	}
+	"57163"
+	{
+		"enable"		"0"
+		"hammerid"		"57163"
+		"m_iname"		"level_10_go"
+	}
+	"23192"
+	{
+		"enable"		"0"
+		"hammerid"		"23192"
+		"m_iname"		"level_6_go"
+	}
+	"3149"
+	{
+		"enable"		"0"
+		"hammerid"		"3149"
+		"m_iname"		"level_2_go"
+	}
+}

@@ -1,0 +1,123 @@
+"BOSSHP"
+{
+	"21924"
+	{
+		"enable"		"0"
+		"hammerid"		"21924"
+		"m_iname"		"metal Mesh"
+	}
+	"21933"
+	{
+		"enable"		"0"
+		"hammerid"		"21933"
+		"m_iname"		"metal Mesh"
+	}
+	"21949"
+	{
+		"enable"		"0"
+		"hammerid"		"21949"
+		"m_iname"		"metal Mesh"
+	}
+	"22076"
+	{
+		"enable"		"0"
+		"hammerid"		"22076"
+		"m_iname"		"metal Mesh"
+	}
+	"22079"
+	{
+		"enable"		"0"
+		"hammerid"		"22079"
+		"m_iname"		"metal Mesh"
+	}
+	"22082"
+	{
+		"enable"		"0"
+		"hammerid"		"22082"
+		"m_iname"		"metal Mesh"
+	}
+	"2889"
+	{
+		"enable"		"0"
+		"hammerid"		"2889"
+		"m_iname"		"metal Mesh"
+	}
+	"2893"
+	{
+		"enable"		"0"
+		"hammerid"		"2893"
+		"m_iname"		"zombiedoor3"
+	}
+	"2919"
+	{
+		"enable"		"0"
+		"hammerid"		"2919"
+		"m_iname"		"unbreakable"
+	}
+	"2955"
+	{
+		"enable"		"0"
+		"hammerid"		"2955"
+		"m_iname"		"unbreakable"
+	}
+	"2957"
+	{
+		"enable"		"0"
+		"hammerid"		"2957"
+		"m_iname"		"unbreakable"
+	}
+	"2978"
+	{
+		"enable"		"0"
+		"hammerid"		"2978"
+		"m_iname"		"zombiedoor2"
+	}
+	"3082"
+	{
+		"enable"		"0"
+		"hammerid"		"3082"
+		"m_iname"		"unbreakable"
+	}
+	"3138"
+	{
+		"enable"		"0"
+		"hammerid"		"3138"
+		"m_iname"		"ladder"
+	}
+	"3140"
+	{
+		"enable"		"0"
+		"hammerid"		"3140"
+		"m_iname"		"unbreakable"
+	}
+	"3243"
+	{
+		"enable"		"0"
+		"hammerid"		"3243"
+		"m_iname"		"rope"
+	}
+	"3248"
+	{
+		"enable"		"0"
+		"hammerid"		"3248"
+		"m_iname"		"rope"
+	}
+	"3311"
+	{
+		"enable"		"0"
+		"hammerid"		"3311"
+		"m_iname"		"rope"
+	}
+	"3313"
+	{
+		"enable"		"0"
+		"hammerid"		"3313"
+		"m_iname"		"rope"
+	}
+	"3315"
+	{
+		"enable"		"0"
+		"hammerid"		"3315"
+		"m_iname"		"crate"
+	}
+}

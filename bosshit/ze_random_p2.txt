@@ -1,0 +1,31 @@
+"BOSSHP"
+{
+	"Ice"
+	{
+		"enable"		"0"
+	}
+	"Ice1"
+	{
+		"enable"		"0"
+	}
+	"Ice2"
+	{
+		"enable"		"0"
+	}
+	"BP"
+	{
+		"enable"		"0"
+	}
+	"BB"
+	{
+		"enable"		"0"
+	}
+	"VP"
+	{
+		"enable"		"0"
+	}
+	"QX"
+	{
+		"enable"		"0"
+	}
+}

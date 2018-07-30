@@ -1,0 +1,399 @@
+"BOSSHP"
+{
+	"52040"
+	{
+		"enable"		"0"
+		"hammerid"		"52040"
+		"m_iname"		"Troll_Phys"
+	}
+	"49848"
+	{
+		"enable"		"1"
+		"hammerid"		"49848"
+		"m_iname"		"Troll_hitbox"
+	}
+	"49877"
+	{
+		"enable"		"0"
+		"hammerid"		"49877"
+		"m_iname"		"Troll_phys_nade"
+	}
+	"325675"
+	{
+		"enable"		"1"
+		"hammerid"		"325675"
+		"m_iname"		"lvl2_boss_light_box"
+	}
+	"325795"
+	{
+		"enable"		"1"
+		"hammerid"		"325795"
+		"m_iname"		"lvl2_boss_fire_box"
+	}
+	"325819"
+	{
+		"enable"		"1"
+		"hammerid"		"325819"
+		"m_iname"		"lvl2_boss_dark_box"
+	}
+	"325843"
+	{
+		"enable"		"1"
+		"hammerid"		"325843"
+		"m_iname"		"lvl2_boss_ice_box"
+	}
+	"325870"
+	{
+		"enable"		"1"
+		"hammerid"		"325870"
+		"m_iname"		"lvl2_boss_box"
+	}
+	"295419"
+	{
+		"enable"		"0"
+		"hammerid"		"295419"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295515"
+	{
+		"enable"		"0"
+		"hammerid"		"295515"
+		"m_iname"		"lvl2_mazedoor4"
+	}
+	"280522"
+	{
+		"enable"		"0"
+		"hammerid"		"280522"
+		"m_iname"		"lvl2_mazedoor3"
+	}
+	"170512"
+	{
+		"enable"		"0"
+		"hammerid"		"170512"
+		"m_iname"		"lvl2_palacebreak_L"
+	}
+	"170466"
+	{
+		"enable"		"0"
+		"hammerid"		"170466"
+		"m_iname"		"lvl2_palacebreak_R"
+	}
+	"100587"
+	{
+		"enable"		"0"
+		"hammerid"		"100587"
+		"m_iname"		"earth_model"
+	}
+	"648688"
+	{
+		"enable"		"0"
+		"hammerid"		"648688"
+		"m_iname"		"icedr_reflex_box"
+	}
+	"610742"
+	{
+		"enable"		"1"
+		"hammerid"		"610742"
+		"m_iname"		"icedr_hitbox"
+	}
+	"581049"
+	{
+		"enable"		"0"
+		"hammerid"		"581049"
+		"m_iname"		"icedr_phys"
+	}
+	"677308"
+	{
+		"enable"		"0"
+		"hammerid"		"677308"
+		"m_iname"		"lvl3_plt_1"
+	}
+	"569340"
+	{
+		"enable"		"0"
+		"hammerid"		"569340"
+		"m_iname"		"lvl3_plt_1"
+	}
+	"640891"
+	{
+		"enable"		"0"
+		"hammerid"		"640891"
+		"m_iname"		"zshield_box"
+	}
+	"641494"
+	{
+		"enable"		"0"
+		"hammerid"		"641494"
+		"m_iname"		"zshield_box2"
+	}
+	"544287"
+	{
+		"enable"		"0"
+		"hammerid"		"544287"
+		"m_iname"		"lvl3_hum_box"
+	}
+	"475333"
+	{
+		"enable"		"0"
+		"hammerid"		"475333"
+		"m_iname"		"lvl3_hole"
+	}
+	"466767"
+	{
+		"enable"		"0"
+		"hammerid"		"466767"
+		"m_iname"		"lvl3_bridge2_fall1"
+	}
+	"466770"
+	{
+		"enable"		"0"
+		"hammerid"		"466770"
+		"m_iname"		"lvl3_bridge2_fall2"
+	}
+	"466773"
+	{
+		"enable"		"0"
+		"hammerid"		"466773"
+		"m_iname"		"lvl3_bridge2_fall4"
+	}
+	"466776"
+	{
+		"enable"		"0"
+		"hammerid"		"466776"
+		"m_iname"		"lvl3_bridge2_fall5"
+	}
+	"466779"
+	{
+		"enable"		"0"
+		"hammerid"		"466779"
+		"m_iname"		"lvl3_bridge2_fall6"
+	}
+	"466782"
+	{
+		"enable"		"0"
+		"hammerid"		"466782"
+		"m_iname"		"lvl3_bridge2_fall7"
+	}
+	"466785"
+	{
+		"enable"		"0"
+		"hammerid"		"466785"
+		"m_iname"		"lvl3_bridge2_fall8"
+	}
+	"466788"
+	{
+		"enable"		"0"
+		"hammerid"		"466788"
+		"m_iname"		"lvl3_bridge2_fall9"
+	}
+	"466791"
+	{
+		"enable"		"0"
+		"hammerid"		"466791"
+		"m_iname"		"lvl3_bridge2_fall10"
+	}
+	"466794"
+	{
+		"enable"		"0"
+		"hammerid"		"466794"
+		"m_iname"		"lvl3_bridge2_fall11"
+	}
+	"466797"
+	{
+		"enable"		"0"
+		"hammerid"		"466797"
+		"m_iname"		"lvl3_bridge2_fall12"
+	}
+	"466800"
+	{
+		"enable"		"0"
+		"hammerid"		"466800"
+		"m_iname"		"lvl3_bridge2_fall13"
+	}
+	"466803"
+	{
+		"enable"		"0"
+		"hammerid"		"466803"
+		"m_iname"		"lvl3_bridge2_fall14"
+	}
+	"466806"
+	{
+		"enable"		"0"
+		"hammerid"		"466806"
+		"m_iname"		"lvl3_bridge2_fall15"
+	}
+	"466809"
+	{
+		"enable"		"0"
+		"hammerid"		"466809"
+		"m_iname"		"lvl3_bridge2_fall17"
+	}
+	"466812"
+	{
+		"enable"		"0"
+		"hammerid"		"466812"
+		"m_iname"		"lvl3_bridge2_fall18"
+	}
+	"466815"
+	{
+		"enable"		"0"
+		"hammerid"		"466815"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466818"
+	{
+		"enable"		"0"
+		"hammerid"		"466818"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466821"
+	{
+		"enable"		"0"
+		"hammerid"		"466821"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466824"
+	{
+		"enable"		"0"
+		"hammerid"		"466824"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466827"
+	{
+		"enable"		"0"
+		"hammerid"		"466827"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"468550"
+	{
+		"enable"		"0"
+		"hammerid"		"468550"
+		"m_iname"		"lvl3_bridge1_fall18"
+	}
+	"468553"
+	{
+		"enable"		"0"
+		"hammerid"		"468553"
+		"m_iname"		"lvl3_bridge1_fall17"
+	}
+	"468556"
+	{
+		"enable"		"0"
+		"hammerid"		"468556"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468559"
+	{
+		"enable"		"0"
+		"hammerid"		"468559"
+		"m_iname"		"lvl3_bridge1_fall15"
+	}
+	"468562"
+	{
+		"enable"		"0"
+		"hammerid"		"468562"
+		"m_iname"		"lvl3_bridge1_fall14"
+	}
+	"468565"
+	{
+		"enable"		"0"
+		"hammerid"		"468565"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468568"
+	{
+		"enable"		"0"
+		"hammerid"		"468568"
+		"m_iname"		"lvl3_bridge1_fall13"
+	}
+	"468571"
+	{
+		"enable"		"0"
+		"hammerid"		"468571"
+		"m_iname"		"lvl3_bridge1_fall12"
+	}
+	"468574"
+	{
+		"enable"		"0"
+		"hammerid"		"468574"
+		"m_iname"		"lvl3_bridge1_fall11"
+	}
+	"468577"
+	{
+		"enable"		"0"
+		"hammerid"		"468577"
+		"m_iname"		"lvl3_bridge1_fall10"
+	}
+	"468580"
+	{
+		"enable"		"0"
+		"hammerid"		"468580"
+		"m_iname"		"lvl3_bridge1_fall1"
+	}
+	"468583"
+	{
+		"enable"		"0"
+		"hammerid"		"468583"
+		"m_iname"		"lvl3_bridge1_fall9"
+	}
+	"468586"
+	{
+		"enable"		"0"
+		"hammerid"		"468586"
+		"m_iname"		"lvl3_bridge1_fall8"
+	}
+	"468589"
+	{
+		"enable"		"0"
+		"hammerid"		"468589"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468592"
+	{
+		"enable"		"0"
+		"hammerid"		"468592"
+		"m_iname"		"lvl3_bridge1_fall6"
+	}
+	"468595"
+	{
+		"enable"		"0"
+		"hammerid"		"468595"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468598"
+	{
+		"enable"		"0"
+		"hammerid"		"468598"
+		"m_iname"		"lvl3_bridge1_fall5"
+	}
+	"468601"
+	{
+		"enable"		"0"
+		"hammerid"		"468601"
+		"m_iname"		"lvl3_bridge1_fall4"
+	}
+	"468604"
+	{
+		"enable"		"0"
+		"hammerid"		"468604"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468607"
+	{
+		"enable"		"0"
+		"hammerid"		"468607"
+		"m_iname"		"lvl3_bridge1_fall2"
+	}
+	"433155"
+	{
+		"enable"		"0"
+		"hammerid"		"433155"
+		"m_iname"		"lvl3_icerock"
+	}
+	"588060"
+	{
+		"enable"		"0"
+		"hammerid"		"588060"
+		"m_iname"		"icedr_coagulation_box"
+	}
+}

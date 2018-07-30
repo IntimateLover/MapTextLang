@@ -1,0 +1,59 @@
+"BOSSHP"
+{
+	"Giratina"
+	{
+		"enable"		"1"
+	}
+	"HelioBoss"
+	{
+		"enable"		"1"
+	}
+	"CrobatCyrus"
+	{
+		"enable"		"1"
+	}
+	"Weavile"
+	{
+		"enable"		"1"
+	}
+	"honchkrow"
+	{
+		"enable"		"1"
+	}
+	"186208"
+	{
+		"enable"		"1"
+		"hammerid"		"186208"
+		"m_iname"		"wallyfinalbossblocker"
+	}
+	"95659"
+	{
+		"enable"		"1"
+		"hammerid"		"95659"
+		"m_iname"		"regiiceboss"
+	}
+	"78021"
+	{
+		"enable"		"1"
+		"hammerid"		"78021"
+		"m_iname"		"bossfightbridge"
+	}
+	"186069"
+	{
+		"enable"		"1"
+		"hammerid"		"186069"
+		"m_iname"		"WallyFinalboss"
+	}
+	"186107"
+	{
+		"enable"		"1"
+		"hammerid"		"186107"
+		"m_iname"		"CrobatFinalboss"
+	}
+	"344939"
+	{
+		"enable"		"1"
+		"hammerid"		"344939"
+		"m_iname"		"HelioBoss"
+	}
+}

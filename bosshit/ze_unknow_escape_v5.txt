@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"105355"
+	{
+		"enable"		"0"
+		"hammerid"		"105355"
+		"m_iname"		"tb_1"
+	}
+	"99913"
+	{
+		"enable"		"0"
+		"hammerid"		"99913"
+		"m_iname"		"b_2"
+	}
+	"7758"
+	{
+		"enable"		"0"
+		"hammerid"		"7758"
+		"m_iname"		"concret_door_1"
+	}
+}

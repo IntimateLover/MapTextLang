@@ -1,0 +1,129 @@
+"BOSSHP"
+{
+	"25644"
+	{
+		"enable"		"0"
+		"hammerid"		"25644"
+		"m_iname"		"debris_1"
+	}
+	"25656"
+	{
+		"enable"		"0"
+		"hammerid"		"25656"
+		"m_iname"		"debris_1"
+	}
+	"25667"
+	{
+		"enable"		"0"
+		"hammerid"		"25667"
+		"m_iname"		"debris_1"
+	}
+	"25688"
+	{
+		"enable"		"0"
+		"hammerid"		"25688"
+		"m_iname"		"debris_1"
+	}
+	"26505"
+	{
+		"enable"		"0"
+		"hammerid"		"26505"
+		"m_iname"		"debris_1"
+	}
+	"26514"
+	{
+		"enable"		"0"
+		"hammerid"		"26514"
+		"m_iname"		"debris_1"
+	}
+	"26519"
+	{
+		"enable"		"0"
+		"hammerid"		"26519"
+		"m_iname"		"debris_1"
+	}
+	"26525"
+	{
+		"enable"		"0"
+		"hammerid"		"26525"
+		"m_iname"		"debris_1"
+	}
+	"26633"
+	{
+		"enable"		"0"
+		"hammerid"		"26633"
+		"m_iname"		"debris_1"
+	}
+	"391941"
+	{
+		"enable"		"0"
+		"hammerid"		"391941"
+		"m_iname"		"EndBreak"
+	}
+	"331320"
+	{
+		"enable"		"0"
+		"hammerid"		"331320"
+		"m_iname"		"BreakHold_01"
+	}
+	"331381"
+	{
+		"enable"		"0"
+		"hammerid"		"331381"
+		"m_iname"		"BreakHold_01"
+	}
+	"331390"
+	{
+		"enable"		"0"
+		"hammerid"		"331390"
+		"m_iname"		"BreakHold_02"
+	}
+	"20116"
+	{
+		"enable"		"0"
+		"hammerid"		"20116"
+		"m_iname"		"vent_breakable"
+	}
+	"25648"
+	{
+		"enable"		"0"
+		"hammerid"		"25648"
+		"m_iname"		"hallway_break"
+	}
+	"25652"
+	{
+		"enable"		"0"
+		"hammerid"		"25652"
+		"m_iname"		"hallway_break"
+	}
+	"25663"
+	{
+		"enable"		"0"
+		"hammerid"		"25663"
+		"m_iname"		"hallway_break"
+	}
+	"25679"
+	{
+		"enable"		"0"
+		"hammerid"		"25679"
+		"m_iname"		"hallway_break"
+	}
+	"28883"
+	{
+		"enable"		"0"
+		"hammerid"		"28883"
+		"m_iname"		"break_floor"
+	}
+	"37149"
+	{
+		"enable"		"0"
+		"hammerid"		"37149"
+		"m_iname"		"vent_breakable_2"
+	}
+	"212132"
+	{
+		"enable"		"0"
+		"hammerid"		"212132"
+		"m_iname"		"vent_breakable_3"
+	}
+}

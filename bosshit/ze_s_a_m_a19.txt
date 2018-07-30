@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"648688"
+	{
+		"enable"		"0"
+		"hammerid"		"648688"
+		"m_iname"		"icedr_reflex_box"
+	}
+	"610742"
+	{
+		"enable"		"1"
+		"hammerid"		"610742"
+		"m_iname"		"icedr_hitbox"
+	}
+	"640891"
+	{
+		"enable"		"0"
+		"hammerid"		"640891"
+		"m_iname"		"zshield_box"
+	}
+	"641494"
+	{
+		"enable"		"0"
+		"hammerid"		"641494"
+		"m_iname"		"zshield_box2"
+	}
+	"581049"
+	{
+		"enable"		"0"
+		"hammerid"		"581049"
+		"m_iname"		"icedr_phys"
+	}
+	"52040"
+	{
+		"enable"		"0"
+		"hammerid"		"52040"
+		"m_iname"		"Troll_Phys"
+	}
+	"49848"
+	{
+		"enable"		"1"
+		"hammerid"		"49848"
+		"m_iname"		"Troll_hitbox"
+	}
+	"49877"
+	{
+		"enable"		"0"
+		"hammerid"		"49877"
+		"m_iname"		"Troll_phys_nade"
+	}
+}

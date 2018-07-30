@@ -1,0 +1,369 @@
+"BOSSHP"
+{
+	"1201798"
+	{
+		"enable"		"0"
+		"hammerid"		"1201798"
+		"m_iname"		"finale_lbox"
+	}
+	"1201802"
+	{
+		"enable"		"0"
+		"hammerid"		"1201802"
+		"m_iname"		"finale_hborg"
+	}
+	"1151222"
+	{
+		"enable"		"0"
+		"hammerid"		"1151222"
+		"m_iname"		"shopgate"
+	}
+	"423841"
+	{
+		"enable"		"0"
+		"hammerid"		"423841"
+		"m_iname"		"dd_hp"
+	}
+	"409426"
+	{
+		"enable"		"0"
+		"hammerid"		"409426"
+		"m_iname"		"seal"
+	}
+	"392363"
+	{
+		"enable"		"0"
+		"hammerid"		"392363"
+		"m_iname"		"extra_break1"
+	}
+	"388133"
+	{
+		"enable"		"0"
+		"hammerid"		"388133"
+		"m_iname"		"finale_vaginahold_1"
+	}
+	"388170"
+	{
+		"enable"		"0"
+		"hammerid"		"388170"
+		"m_iname"		"finale_vaginahold_2"
+	}
+	"388200"
+	{
+		"enable"		"0"
+		"hammerid"		"388200"
+		"m_iname"		"finale_vaginahold_3"
+	}
+	"388227"
+	{
+		"enable"		"0"
+		"hammerid"		"388227"
+		"m_iname"		"finale_vaginahold_4"
+	}
+	"388242"
+	{
+		"enable"		"0"
+		"hammerid"		"388242"
+		"m_iname"		"finale_vaginahold_5"
+	}
+	"378806"
+	{
+		"enable"		"0"
+		"hammerid"		"378806"
+		"m_iname"		"extra_ladderbreakend"
+	}
+	"361086"
+	{
+		"enable"		"0"
+		"hammerid"		"361086"
+		"m_iname"		"extra_endbreak"
+	}
+	"354812"
+	{
+		"enable"		"0"
+		"hammerid"		"354812"
+		"m_iname"		"extra_ladderbreakpre"
+	}
+	"347378"
+	{
+		"enable"		"0"
+		"hammerid"		"347378"
+		"m_iname"		"extra_elevatorbreak"
+	}
+	"350848"
+	{
+		"enable"		"0"
+		"hammerid"		"350848"
+		"m_iname"		"extra_ladderbreakpre"
+	}
+	"316392"
+	{
+		"enable"		"0"
+		"hammerid"		"316392"
+		"m_iname"		"extra_zcagebreak"
+	}
+	"285387"
+	{
+		"enable"		"0"
+		"hammerid"		"285387"
+		"m_iname"		"finale_zcagehold2"
+	}
+	"263974"
+	{
+		"enable"		"0"
+		"hammerid"		"263974"
+		"m_iname"		"finale_zcagehold"
+	}
+	"253696"
+	{
+		"enable"		"0"
+		"hammerid"		"253696"
+		"m_iname"		"npc_base_1"
+	}
+	"253703"
+	{
+		"enable"		"0"
+		"hammerid"		"253703"
+		"m_iname"		"i_npc_hp_1"
+	}
+	"222409"
+	{
+		"enable"		"0"
+		"hammerid"		"222409"
+		"m_iname"		"finale_zcage"
+	}
+	"180939"
+	{
+		"enable"		"1"
+		"hammerid"		"180939"
+		"m_iname"		"finale_bossenterbreak"
+	}
+	"146461"
+	{
+		"enable"		"0"
+		"hammerid"		"146461"
+		"m_iname"		"finale_breakladder3"
+	}
+	"146468"
+	{
+		"enable"		"0"
+		"hammerid"		"146468"
+		"m_iname"		"finale_breakladder3"
+	}
+	"135047"
+	{
+		"enable"		"1"
+		"hammerid"		"135047"
+		"m_iname"		"v_shitbreak"
+	}
+	"75432"
+	{
+		"enable"		"0"
+		"hammerid"		"75432"
+		"m_iname"		"finale_breakladder2"
+	}
+	"47545"
+	{
+		"enable"		"0"
+		"hammerid"		"47545"
+		"m_iname"		"finale_breakladder1"
+	}
+	"583227"
+	{
+		"enable"		"0"
+		"hammerid"		"583227"
+		"m_iname"		"TurtleBreakable2"
+	}
+	"583289"
+	{
+		"enable"		"0"
+		"hammerid"		"583289"
+		"m_iname"		"TurtleBreakable1"
+	}
+	"583300"
+	{
+		"enable"		"0"
+		"hammerid"		"583300"
+		"m_iname"		"TurtleBreakable4"
+	}
+	"583303"
+	{
+		"enable"		"0"
+		"hammerid"		"583303"
+		"m_iname"		"TurtleBreakable3"
+	}
+	"584975"
+	{
+		"enable"		"0"
+		"hammerid"		"584975"
+		"m_iname"		"TurtleBreakable19"
+	}
+	"584978"
+	{
+		"enable"		"0"
+		"hammerid"		"584978"
+		"m_iname"		"TurtleBreakable19"
+	}
+	"584981"
+	{
+		"enable"		"0"
+		"hammerid"		"584981"
+		"m_iname"		"TurtleBreakable19"
+	}
+	"585277"
+	{
+		"enable"		"0"
+		"hammerid"		"585277"
+		"m_iname"		"TurtleSecret1"
+	}
+	"585284"
+	{
+		"enable"		"0"
+		"hammerid"		"585284"
+		"m_iname"		"TurtleSecret2"
+	}
+	"585287"
+	{
+		"enable"		"0"
+		"hammerid"		"585287"
+		"m_iname"		"TurtleSecret3"
+	}
+	"585408"
+	{
+		"enable"		"0"
+		"hammerid"		"585408"
+		"m_iname"		"TurtleBreakable13"
+	}
+	"585785"
+	{
+		"enable"		"0"
+		"hammerid"		"585785"
+		"m_iname"		"TurtleBreakable8"
+	}
+	"585794"
+	{
+		"enable"		"0"
+		"hammerid"		"585794"
+		"m_iname"		"TurtleBreakable9"
+	}
+	"585797"
+	{
+		"enable"		"0"
+		"hammerid"		"585797"
+		"m_iname"		"TurtleBreakable9"
+	}
+	"585940"
+	{
+		"enable"		"0"
+		"hammerid"		"585940"
+		"m_iname"		"TurtleBreakable7"
+	}
+	"585978"
+	{
+		"enable"		"0"
+		"hammerid"		"585978"
+		"m_iname"		"TurtleBreakable6"
+	}
+	"585990"
+	{
+		"enable"		"0"
+		"hammerid"		"585990"
+		"m_iname"		"TurtleBreakable5"
+	}
+	"590327"
+	{
+		"enable"		"0"
+		"hammerid"		"590327"
+		"m_iname"		"luff_c_break"
+	}
+	"590349"
+	{
+		"enable"		"0"
+		"hammerid"		"590349"
+		"m_iname"		"luff_c_break2"
+	}
+	"590375"
+	{
+		"enable"		"0"
+		"hammerid"		"590375"
+		"m_iname"		"luff_c_break3"
+	}
+	"590412"
+	{
+		"enable"		"0"
+		"hammerid"		"590412"
+		"m_iname"		"luff_door4"
+	}
+	"590444"
+	{
+		"enable"		"0"
+		"hammerid"		"590444"
+		"m_iname"		"X69Xluff_door1"
+	}
+	"590447"
+	{
+		"enable"		"0"
+		"hammerid"		"590447"
+		"m_iname"		"X69Xluff_door2"
+	}
+	"590456"
+	{
+		"enable"		"0"
+		"hammerid"		"590456"
+		"m_iname"		"X69Xluff_endbreak"
+	}
+	"590450"
+	{
+		"enable"		"0"
+		"hammerid"		"590450"
+		"m_iname"		"X69Xluff_door3"
+	}
+	"688344"
+	{
+		"enable"		"0"
+		"hammerid"		"688344"
+		"m_iname"		"hichbreakable1"
+	}
+	"688347"
+	{
+		"enable"		"0"
+		"hammerid"		"688347"
+		"m_iname"		"hichbreakable2"
+	}
+	"688350"
+	{
+		"enable"		"0"
+		"hammerid"		"688350"
+		"m_iname"		"hichbreakable3"
+	}
+	"688353"
+	{
+		"enable"		"0"
+		"hammerid"		"688353"
+		"m_iname"		"hichbreakable4"
+	}
+	"688356"
+	{
+		"enable"		"0"
+		"hammerid"		"688356"
+		"m_iname"		"hichbreakable5"
+	}
+	"688047"
+	{
+		"enable"		"0"
+		"hammerid"		"688047"
+		"m_iname"		"X69Xhichhouse"
+	}
+	"688106"
+	{
+		"enable"		"0"
+		"hammerid"		"688106"
+		"m_iname"		"X69Xhichtorchwood&2528"
+	}
+	"585302"
+	{
+		"enable"		"0"
+		"hammerid"		"585302"
+		"m_iname"		"X69XTurtleBreakable18"
+	}
+}

@@ -1,0 +1,93 @@
+"BOSSHP"
+{
+	"200857"
+	{
+		"enable"		"0"
+		"hammerid"		"200857"
+		"m_iname"		"pod_a"
+	}
+	"174568"
+	{
+		"enable"		"0"
+		"hammerid"		"174568"
+		"m_iname"		"rock_wall_physdrop"
+	}
+	"113001"
+	{
+		"enable"		"0"
+		"hammerid"		"113001"
+		"m_iname"		"heli_physbox"
+	}
+	"88966"
+	{
+		"enable"		"0"
+		"hammerid"		"88966"
+		"m_iname"		"nazgul_ragdoll_phys"
+	}
+	"89014"
+	{
+		"enable"		"0"
+		"hammerid"		"89014"
+		"m_iname"		"vidanazgul"
+	}
+	"89020"
+	{
+		"enable"		"0"
+		"hammerid"		"89020"
+		"m_iname"		"vidanazgul2"
+	}
+	"5961"
+	{
+		"enable"		"0"
+		"hammerid"		"5961"
+		"m_iname"		"pod_b"
+	}
+	"5748"
+	{
+		"enable"		"1"
+		"hammerid"		"5748"
+		"m_iname"		"Alaser_hitbox_3"
+	}
+	"5864"
+	{
+		"enable"		"1"
+		"hammerid"		"5864"
+		"m_iname"		"Blaser_hitbox_3"
+	}
+	"5727"
+	{
+		"enable"		"1"
+		"hammerid"		"5727"
+		"m_iname"		"Alaser_hitbox_2"
+	}
+	"5706"
+	{
+		"enable"		"1"
+		"hammerid"		"5706"
+		"m_iname"		"Alaser_hitbox_01"
+	}
+	"5769"
+	{
+		"enable"		"1"
+		"hammerid"		"5769"
+		"m_iname"		"Alaser_hitbox_4"
+	}
+	"5822"
+	{
+		"enable"		"1"
+		"hammerid"		"5822"
+		"m_iname"		"Blaser_hitbox_01"
+	}
+	"5885"
+	{
+		"enable"		"1"
+		"hammerid"		"5885"
+		"m_iname"		"Blaser_hitbox_4"
+	}
+	"5843"
+	{
+		"enable"		"1"
+		"hammerid"		"5843"
+		"m_iname"		"Blaser_hitbox_2"
+	}
+}

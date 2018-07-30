@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"188250"
+	{
+		"enable"		"1"
+		"hammerid"		"188250"
+		"m_iname"		"Troll_hitbox"
+	}
+	"188323"
+	{
+		"enable"		"0"
+		"hammerid"		"188323"
+		"m_iname"		"Troll_phys_nade"
+	}
+	"179710"
+	{
+		"enable"		"0"
+		"hammerid"		"179710"
+		"m_iname"		"Troll_Phys"
+	}
+	"187628"
+	{
+		"enable"		"0"
+		"hammerid"		"187628"
+		"m_iname"		"gravity_phybox"
+	}
+}

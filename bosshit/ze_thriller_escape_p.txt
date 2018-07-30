@@ -1,0 +1,75 @@
+"BOSSHP"
+{
+	"10327"
+	{
+		"enable"		"0"
+		"hammerid"		"10327"
+		"m_iname"		"W"
+	}
+	"10413"
+	{
+		"enable"		"0"
+		"hammerid"		"10413"
+		"m_iname"		"TM"
+	}
+	"13219"
+	{
+		"enable"		"0"
+		"hammerid"		"13219"
+		"m_iname"		"Fence"
+	}
+	"13265"
+	{
+		"enable"		"0"
+		"hammerid"		"13265"
+		"m_iname"		"TombDoorBreakable"
+	}
+	"13273"
+	{
+		"enable"		"0"
+		"hammerid"		"13273"
+		"m_iname"		"TombDoorBreakable"
+	}
+	"13610"
+	{
+		"enable"		"0"
+		"hammerid"		"13610"
+		"m_iname"		"Fence2"
+	}
+	"13630"
+	{
+		"enable"		"0"
+		"hammerid"		"13630"
+		"m_iname"		"D1"
+	}
+	"13647"
+	{
+		"enable"		"0"
+		"hammerid"		"13647"
+		"m_iname"		"D"
+	}
+	"13727"
+	{
+		"enable"		"0"
+		"hammerid"		"13727"
+		"m_iname"		"SpB2"
+	}
+	"13735"
+	{
+		"enable"		"0"
+		"hammerid"		"13735"
+		"m_iname"		"SpB1"
+	}
+	"14255"
+	{
+		"enable"		"0"
+		"hammerid"		"14255"
+		"m_iname"		"BC"
+	}
+	"14263"
+	{
+		"enable"		"0"
+		"hammerid"		"14263"
+		"m_iname"		"DD"
+	}
+}

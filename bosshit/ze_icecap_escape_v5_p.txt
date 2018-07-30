@@ -1,0 +1,11 @@
+"BOSSHP"
+{
+	"Bridge"
+	{
+		"enable"		"0"
+	}
+	"Bridge2"
+	{
+		"enable"		"0"
+	}
+}

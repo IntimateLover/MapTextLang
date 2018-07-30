@@ -1,0 +1,427 @@
+"BOSSHP"
+{
+	"ChessPiece3"
+	{
+		"enable"		"1"
+	}
+	"ChessPiece4"
+	{
+		"enable"		"1"
+	}
+	"ChessPiece1"
+	{
+		"enable"		"1"
+	}
+	"ChessPiece2"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3076"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3077"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3078"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3079"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3080"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3081"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3082"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3083"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3084"
+	{
+		"enable"		"1"
+	}
+	"KingGondolaBedSheet"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3399"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3400"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3401"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3402"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3403"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3404"
+	{
+		"enable"		"1"
+	}
+	"Boss_Mini_Hitbox"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3631"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3632"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3633"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3634"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3635"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3636"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3637"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3638"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3639"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3640"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3641"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3642"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3822"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3823"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3824"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3825"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3826"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3827"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3828"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3829"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3830"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3831"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&3832"
+	{
+		"enable"		"1"
+	}
+	"EyeBoss&0204"
+	{
+		"enable"		"1"
+	}
+	"EyeBoss&0228"
+	{
+		"enable"		"1"
+	}
+	"EyeBoss&0227"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0252"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0255"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0253"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0254"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0256"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0257"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0258"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0259"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0260"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0261"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0267"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0297"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0324"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0331"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0333"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0341"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0347"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0350"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0369"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0370"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0371"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0372"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0373"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0374"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0375"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0376"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0377"
+	{
+		"enable"		"1"
+	}
+	"NPC_Standard_Phys&0378"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0759"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0940"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0821"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0941"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0853"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0764"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0773"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0889"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0915"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0942"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0937"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0936"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0938"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0939"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0943"
+	{
+		"enable"		"1"
+	}
+	"Burger_Fire&0945"
+	{
+		"enable"		"1"
+	}
+	"124050"
+	{
+		"enable"		"1"
+		"hammerid"		"124050"
+		"m_iname"		"EyeBoss&7257"
+	}
+	"136911"
+	{
+		"enable"		"1"
+		"hammerid"		"136911"
+		"m_iname"		"EyeBossSpecialHitbox&7257"
+	}
+	"346300"
+	{
+		"enable"		"0"
+		"hammerid"		"346300"
+		"m_iname"		"NPC_Standard_Phys&6990"
+	}
+	"127952"
+	{
+		"enable"		"1"
+		"hammerid"		"127952"
+		"m_iname"		"EyeAreaZombieGlass"
+	}
+	"568972"
+	{
+		"enable"		"0"
+		"hammerid"		"568972"
+		"m_iname"		"Burger_Fire&5582"
+	}
+	"667358"
+	{
+		"enable"		"0"
+		"hammerid"		"667358"
+		"m_iname"		"ChessPiece3"
+	}
+	"667424"
+	{
+		"enable"		"0"
+		"hammerid"		"667424"
+		"m_iname"		"ChessPiece4"
+	}
+	"568984"
+	{
+		"enable"		"0"
+		"hammerid"		"568984"
+		"m_iname"		"KingGondolaBedSheet"
+	}
+	"449605"
+	{
+		"enable"		"0"
+		"hammerid"		"449605"
+		"m_iname"		"ChessPiece1"
+	}
+	"449762"
+	{
+		"enable"		"0"
+		"hammerid"		"449762"
+		"m_iname"		"ChessPiece2"
+	}
+}

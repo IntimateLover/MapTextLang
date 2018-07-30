@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"126365"
+	{
+		"enable"		"0"
+		"hammerid"		"126365"
+		"m_iname"		"wood_br_1"
+	}
+	"122585"
+	{
+		"enable"		"0"
+		"hammerid"		"122585"
+		"m_iname"		"wb_2"
+	}
+	"118419"
+	{
+		"enable"		"0"
+		"hammerid"		"118419"
+		"m_iname"		"door1"
+	}
+	"118472"
+	{
+		"enable"		"0"
+		"hammerid"		"118472"
+		"m_iname"		"bw_1b"
+	}
+	"114508"
+	{
+		"enable"		"0"
+		"hammerid"		"114508"
+		"m_iname"		"bw_1"
+	}
+	"54292"
+	{
+		"enable"		"0"
+		"hammerid"		"54292"
+		"m_iname"		"way_block1"
+	}
+}

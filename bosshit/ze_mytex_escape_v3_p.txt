@@ -1,0 +1,93 @@
+"BOSSHP"
+{
+	"8176"
+	{
+		"enable"		"0"
+		"hammerid"		"8176"
+		"m_iname"		"Block2"
+	}
+	"8143"
+	{
+		"enable"		"0"
+		"hammerid"		"8143"
+		"m_iname"		"Dach"
+	}
+	"8159"
+	{
+		"enable"		"0"
+		"hammerid"		"8159"
+		"m_iname"		"Dach"
+	}
+	"8593"
+	{
+		"enable"		"0"
+		"hammerid"		"8593"
+		"m_iname"		"Block1"
+	}
+	"9022"
+	{
+		"enable"		"0"
+		"hammerid"		"9022"
+		"m_iname"		"Bridge1c"
+	}
+	"9153"
+	{
+		"enable"		"0"
+		"hammerid"		"9153"
+		"m_iname"		"Bridge1a"
+	}
+	"9247"
+	{
+		"enable"		"0"
+		"hammerid"		"9247"
+		"m_iname"		"Bridge1b"
+	}
+	"9394"
+	{
+		"enable"		"0"
+		"hammerid"		"9394"
+		"m_iname"		"Bridge1d"
+	}
+	"10141"
+	{
+		"enable"		"0"
+		"hammerid"		"10141"
+		"m_iname"		"Wand2"
+	}
+	"10155"
+	{
+		"enable"		"0"
+		"hammerid"		"10155"
+		"m_iname"		"Wand2"
+	}
+	"10169"
+	{
+		"enable"		"0"
+		"hammerid"		"10169"
+		"m_iname"		"Wand2b"
+	}
+	"10738"
+	{
+		"enable"		"0"
+		"hammerid"		"10738"
+		"m_iname"		"Endbr?cke"
+	}
+	"11360"
+	{
+		"enable"		"0"
+		"hammerid"		"11360"
+		"m_iname"		"Wandbreak"
+	}
+	"11371"
+	{
+		"enable"		"0"
+		"hammerid"		"11371"
+		"m_iname"		"Weg"
+	}
+	"11666"
+	{
+		"enable"		"0"
+		"hammerid"		"11666"
+		"m_iname"		"Endboxs"
+	}
+}

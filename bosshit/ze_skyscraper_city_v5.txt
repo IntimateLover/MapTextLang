@@ -1,0 +1,59 @@
+"BOSSHP"
+{
+	"falling bridge"
+	{
+		"enable"		"0"
+	}
+	"ladder_phy"
+	{
+		"enable"		"0"
+	}
+	"379590"
+	{
+		"enable"		"0"
+		"hammerid"		"379590"
+		"m_iname"		"zombie_glass_wall"
+	}
+	"575922"
+	{
+		"enable"		"0"
+		"hammerid"		"575922"
+		"m_iname"		"secret_door1"
+	}
+	"575937"
+	{
+		"enable"		"0"
+		"hammerid"		"575937"
+		"m_iname"		"secret_door2"
+	}
+	"607751"
+	{
+		"enable"		"0"
+		"hammerid"		"607751"
+		"m_iname"		"stair_parts"
+	}
+	"619648"
+	{
+		"enable"		"0"
+		"hammerid"		"619648"
+		"m_iname"		"door_secrert1"
+	}
+	"620905"
+	{
+		"enable"		"0"
+		"hammerid"		"620905"
+		"m_iname"		"door_secrert2"
+	}
+	"9962"
+	{
+		"enable"		"0"
+		"hammerid"		"9962"
+		"m_iname"		"falling bridge"
+	}
+	"614668"
+	{
+		"enable"		"0"
+		"hammerid"		"614668"
+		"m_iname"		"ladder_phy"
+	}
+}

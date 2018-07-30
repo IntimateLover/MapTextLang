@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"49179"
+	{
+		"enable"		"0"
+		"hammerid"		"49179"
+		"m_iname"		"Breakable_3"
+	}
+	"49791"
+	{
+		"enable"		"0"
+		"hammerid"		"49791"
+		"m_iname"		"Breakable_4"
+	}
+	"22848"
+	{
+		"enable"		"0"
+		"hammerid"		"22848"
+		"m_iname"		"Breakable_2"
+	}
+	"14971"
+	{
+		"enable"		"0"
+		"hammerid"		"14971"
+		"m_iname"		"Breakable_1"
+	}
+}

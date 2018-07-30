@@ -1,0 +1,219 @@
+"BOSSHP"
+{
+	"154317"
+	{
+		"enable"		"0"
+		"hammerid"		"154317"
+		"m_iname"		"Route_44_Rockwall"
+	}
+	"154349"
+	{
+		"enable"		"0"
+		"hammerid"		"154349"
+		"m_iname"		"Route_44_Ramps"
+	}
+	"131969"
+	{
+		"enable"		"0"
+		"hammerid"		"131969"
+		"m_iname"		"Mahogany_Gym_Ice"
+	}
+	"132001"
+	{
+		"enable"		"0"
+		"hammerid"		"132001"
+		"m_iname"		"Mahogany_Gym_Platform1"
+	}
+	"132017"
+	{
+		"enable"		"0"
+		"hammerid"		"132017"
+		"m_iname"		"Mahogany_Gym_Platform2"
+	}
+	"132020"
+	{
+		"enable"		"0"
+		"hammerid"		"132020"
+		"m_iname"		"Mahogany_Gym_Platform3"
+	}
+	"132023"
+	{
+		"enable"		"0"
+		"hammerid"		"132023"
+		"m_iname"		"Mahogany_Gym_Platform8"
+	}
+	"132026"
+	{
+		"enable"		"0"
+		"hammerid"		"132026"
+		"m_iname"		"Mahogany_Gym_Platform7"
+	}
+	"132029"
+	{
+		"enable"		"0"
+		"hammerid"		"132029"
+		"m_iname"		"Mahogany_Gym_Platform4"
+	}
+	"132032"
+	{
+		"enable"		"0"
+		"hammerid"		"132032"
+		"m_iname"		"Mahogany_Gym_Platform9"
+	}
+	"132035"
+	{
+		"enable"		"0"
+		"hammerid"		"132035"
+		"m_iname"		"Mahogany_Gym_Platform6"
+	}
+	"132038"
+	{
+		"enable"		"0"
+		"hammerid"		"132038"
+		"m_iname"		"Mahogany_Gym_Platform5"
+	}
+	"132041"
+	{
+		"enable"		"0"
+		"hammerid"		"132041"
+		"m_iname"		"Mahogany_Gym_Platform10"
+	}
+	"123758"
+	{
+		"enable"		"0"
+		"hammerid"		"123758"
+		"m_iname"		"mt.mortar_wall"
+	}
+	"72177"
+	{
+		"enable"		"0"
+		"hammerid"		"72177"
+		"m_iname"		"Level2_Abra"
+	}
+	"72194"
+	{
+		"enable"		"0"
+		"hammerid"		"72194"
+		"m_iname"		"Level2_AbraWall"
+	}
+	"60912"
+	{
+		"enable"		"0"
+		"hammerid"		"60912"
+		"m_iname"		"Level2_Route35_ZcageBreak"
+	}
+	"56642"
+	{
+		"enable"		"0"
+		"hammerid"		"56642"
+		"m_iname"		"AdminRoom_Level2_Phsybox"
+	}
+	"53523"
+	{
+		"enable"		"0"
+		"hammerid"		"53523"
+		"m_iname"		"AdminRoom_Level1_Phsybox"
+	}
+	"11730"
+	{
+		"enable"		"0"
+		"hammerid"		"11730"
+		"m_iname"		"Union_Cave_Rocks"
+	}
+	"11734"
+	{
+		"enable"		"0"
+		"hammerid"		"11734"
+		"m_iname"		"Union_Cave_Rocks"
+	}
+	"11738"
+	{
+		"enable"		"0"
+		"hammerid"		"11738"
+		"m_iname"		"Union_Cave_Rocks"
+	}
+	"11868"
+	{
+		"enable"		"0"
+		"hammerid"		"11868"
+		"m_iname"		"Route_32_Cage"
+	}
+	"11888"
+	{
+		"enable"		"0"
+		"hammerid"		"11888"
+		"m_iname"		"VioletCity_Treeblock_Azalea"
+	}
+	"14368"
+	{
+		"enable"		"0"
+		"hammerid"		"14368"
+		"m_iname"		"VioletCity_Gym_ZCage_break"
+	}
+	"2421"
+	{
+		"enable"		"0"
+		"hammerid"		"2421"
+		"m_iname"		"Level1_cherrygrove_blocker"
+	}
+	"3334"
+	{
+		"enable"		"0"
+		"hammerid"		"3334"
+		"m_iname"		"Level1_VioletGym_Bridge"
+	}
+	"3293"
+	{
+		"enable"		"0"
+		"hammerid"		"3293"
+		"m_iname"		"Level1_Noctowl"
+	}
+	"3306"
+	{
+		"enable"		"0"
+		"hammerid"		"3306"
+		"m_iname"		"Level1_Pidgeot"
+	}
+	"18113"
+	{
+		"enable"		"0"
+		"hammerid"		"18113"
+		"m_iname"		"Scyther1"
+	}
+	"18168"
+	{
+		"enable"		"0"
+		"hammerid"		"18168"
+		"m_iname"		"Lv1_Ariados"
+	}
+	"18138"
+	{
+		"enable"		"0"
+		"hammerid"		"18138"
+		"m_iname"		"Scyther2"
+	}
+	"40433"
+	{
+		"enable"		"0"
+		"hammerid"		"40433"
+		"m_iname"		"Miltank"
+	}
+	"38125"
+	{
+		"enable"		"0"
+		"hammerid"		"38125"
+		"m_iname"		"GoldenRodGym_NoEscape"
+	}
+	"91623"
+	{
+		"enable"		"0"
+		"hammerid"		"91623"
+		"m_iname"		"ecruteakgym_bridge"
+	}
+	"95232"
+	{
+		"enable"		"0"
+		"hammerid"		"95232"
+		"m_iname"		"Gengar"
+	}
+}

@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"37984"
+	{
+		"enable"		"0"
+		"hammerid"		"37984"
+		"m_iname"		"qiang_boom8"
+	}
+	"31754"
+	{
+		"enable"		"0"
+		"hammerid"		"31754"
+		"m_iname"		"qiang_boom6"
+	}
+	"31842"
+	{
+		"enable"		"0"
+		"hammerid"		"31842"
+		"m_iname"		"qiang_boom3"
+	}
+	"32821"
+	{
+		"enable"		"0"
+		"hammerid"		"32821"
+		"m_iname"		"qiang_boom7"
+	}
+	"14661"
+	{
+		"enable"		"0"
+		"hammerid"		"14661"
+		"m_iname"		"qiang_boom4"
+	}
+	"14715"
+	{
+		"enable"		"0"
+		"hammerid"		"14715"
+		"m_iname"		"qiang_boom5"
+	}
+	"9860"
+	{
+		"enable"		"0"
+		"hammerid"		"9860"
+		"m_iname"		"qiang_boom1"
+	}
+	"9914"
+	{
+		"enable"		"0"
+		"hammerid"		"9914"
+		"m_iname"		"qiang_boom2"
+	}
+}

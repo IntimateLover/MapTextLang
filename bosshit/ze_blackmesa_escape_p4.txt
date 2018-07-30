@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"6519"
+	{
+		"enable"		"0"
+		"hammerid"		"6519"
+		"m_iname"		"crate1"
+	}
+	"6604"
+	{
+		"enable"		"0"
+		"hammerid"		"6604"
+		"m_iname"		"stairs_metalgrid"
+	}
+	"7069"
+	{
+		"enable"		"0"
+		"hammerid"		"7069"
+		"m_iname"		"lockers_door3"
+	}
+}

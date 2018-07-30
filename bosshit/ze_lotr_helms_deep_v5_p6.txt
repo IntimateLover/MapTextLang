@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"bloques_muralla_1"
+	{
+		"enable"		"0"
+	}
+	"bloques_muralla"
+	{
+		"enable"		"0"
+	}
+	"bloques_muralla_3"
+	{
+		"enable"		"0"
+	}
+	"bloques_muralla_2"
+	{
+		"enable"		"0"
+	}
+	"antorchaf"
+	{
+		"enable"		"0"
+	}
+	"escalera_grande"
+	{
+		"enable"		"0"
+	}
+}

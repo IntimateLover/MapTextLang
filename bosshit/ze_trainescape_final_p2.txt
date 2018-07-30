@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"37656"
+	{
+		"enable"		"0"
+		"hammerid"		"37656"
+		"m_iname"		"Teleport_Window"
+	}
+	"37685"
+	{
+		"enable"		"0"
+		"hammerid"		"37685"
+		"m_iname"		"Teleport_Door"
+	}
+	"6744"
+	{
+		"enable"		"0"
+		"hammerid"		"6744"
+		"m_iname"		"streets_crate_1"
+	}
+	"6761"
+	{
+		"enable"		"0"
+		"hammerid"		"6761"
+		"m_iname"		"streets_crate_2"
+	}
+	"7320"
+	{
+		"enable"		"0"
+		"hammerid"		"7320"
+		"m_iname"		"trainstation_crates_1"
+	}
+	"7335"
+	{
+		"enable"		"0"
+		"hammerid"		"7335"
+		"m_iname"		"trainstation_crates_2"
+	}
+}

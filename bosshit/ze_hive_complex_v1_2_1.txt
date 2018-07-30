@@ -1,0 +1,111 @@
+"BOSSHP"
+{
+	"954918"
+	{
+		"enable"		"0"
+		"hammerid"		"954918"
+		"m_iname"		"break_1"
+	}
+	"954929"
+	{
+		"enable"		"0"
+		"hammerid"		"954929"
+		"m_iname"		"break_2"
+	}
+	"954940"
+	{
+		"enable"		"0"
+		"hammerid"		"954940"
+		"m_iname"		"break_3"
+	}
+	"954951"
+	{
+		"enable"		"0"
+		"hammerid"		"954951"
+		"m_iname"		"break_4"
+	}
+	"891716"
+	{
+		"enable"		"0"
+		"hammerid"		"891716"
+		"m_iname"		"trappe 2"
+	}
+	"892009"
+	{
+		"enable"		"0"
+		"hammerid"		"892009"
+		"m_iname"		"trappe 3"
+	}
+	"892225"
+	{
+		"enable"		"0"
+		"hammerid"		"892225"
+		"m_iname"		"trappe 4"
+	}
+	"892276"
+	{
+		"enable"		"0"
+		"hammerid"		"892276"
+		"m_iname"		"trappe 5"
+	}
+	"845852"
+	{
+		"enable"		"0"
+		"hammerid"		"845852"
+		"m_iname"		"trappe"
+	}
+	"627159"
+	{
+		"enable"		"0"
+		"hammerid"		"627159"
+		"m_iname"		"block"
+	}
+	"627221"
+	{
+		"enable"		"0"
+		"hammerid"		"627221"
+		"m_iname"		"block 1"
+	}
+	"520237"
+	{
+		"enable"		"0"
+		"hammerid"		"520237"
+		"m_iname"		"break 3"
+	}
+	"520243"
+	{
+		"enable"		"0"
+		"hammerid"		"520243"
+		"m_iname"		"break 2"
+	}
+	"520291"
+	{
+		"enable"		"0"
+		"hammerid"		"520291"
+		"m_iname"		"break 1"
+	}
+	"520297"
+	{
+		"enable"		"0"
+		"hammerid"		"520297"
+		"m_iname"		"Break"
+	}
+	"410607"
+	{
+		"enable"		"0"
+		"hammerid"		"410607"
+		"m_iname"		"trappe 1"
+	}
+	"193111"
+	{
+		"enable"		"0"
+		"hammerid"		"193111"
+		"m_iname"		"venti"
+	}
+	"21384"
+	{
+		"enable"		"0"
+		"hammerid"		"21384"
+		"m_iname"		"porte manoir"
+	}
+}

@@ -1,0 +1,93 @@
+"BOSSHP"
+{
+	"1868052"
+	{
+		"enable"		"0"
+		"hammerid"		"1868052"
+		"m_iname"		"PenisGunBrush"
+	}
+	"1300977"
+	{
+		"enable"		"1"
+		"hammerid"		"1300977"
+		"m_iname"		"NPCHitbox&4309"
+	}
+	"2331545"
+	{
+		"enable"		"0"
+		"hammerid"		"2331545"
+		"m_iname"		"ElevatorChickenPhy&4263"
+	}
+	"1489443"
+	{
+		"enable"		"0"
+		"hammerid"		"1489443"
+		"m_iname"		"Landmine_Brush&0323"
+	}
+	"1489839"
+	{
+		"enable"		"0"
+		"hammerid"		"1489839"
+		"m_iname"		"ChickenLauncher_Rocket_Physbox&"
+	}
+	"2146701"
+	{
+		"enable"		"0"
+		"hammerid"		"2146701"
+		"m_iname"		"FasterAccessGrate"
+	}
+	"1607915"
+	{
+		"enable"		"0"
+		"hammerid"		"1607915"
+		"m_iname"		"ChickenLauncherDoorFirstStage"
+	}
+	"1608184"
+	{
+		"enable"		"0"
+		"hammerid"		"1608184"
+		"m_iname"		"ChickenLauncherGrateSecondStage"
+	}
+	"1392585"
+	{
+		"enable"		"0"
+		"hammerid"		"1392585"
+		"m_iname"		"BottomElevatorGrate"
+	}
+	"1135799"
+	{
+		"enable"		"0"
+		"hammerid"		"1135799"
+		"m_iname"		"ElevatorBottomGrate"
+	}
+	"1135920"
+	{
+		"enable"		"0"
+		"hammerid"		"1135920"
+		"m_iname"		"ElevatorTopGrate"
+	}
+	"923187"
+	{
+		"enable"		"0"
+		"hammerid"		"923187"
+		"m_iname"		"TopGrate"
+	}
+	"923203"
+	{
+		"enable"		"0"
+		"hammerid"		"923203"
+		"m_iname"		"BottomGrate"
+	}
+	"302515"
+	{
+		"enable"		"0"
+		"hammerid"		"302515"
+		"m_iname"		"UnderwayGrate"
+	}
+	"128500"
+	{
+		"enable"		"0"
+		"hammerid"		"128500"
+		"m_iname"		"ChickenOpener"
+	}
+}

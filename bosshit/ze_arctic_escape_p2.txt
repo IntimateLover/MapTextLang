@@ -1,0 +1,111 @@
+"BOSSHP"
+{
+	"744"
+	{
+		"enable"		"0"
+		"hammerid"		"744"
+		"m_iname"		"SpawnRock2"
+	}
+	"807"
+	{
+		"enable"		"0"
+		"hammerid"		"807"
+		"m_iname"		"SpawnRock3"
+	}
+	"810"
+	{
+		"enable"		"0"
+		"hammerid"		"810"
+		"m_iname"		"SpawnRock4"
+	}
+	"939"
+	{
+		"enable"		"0"
+		"hammerid"		"939"
+		"m_iname"		"SpawnRock7"
+	}
+	"942"
+	{
+		"enable"		"0"
+		"hammerid"		"942"
+		"m_iname"		"SpawnRock8"
+	}
+	"1367"
+	{
+		"enable"		"0"
+		"hammerid"		"1367"
+		"m_iname"		"func_physbox_snowball_1"
+	}
+	"1379"
+	{
+		"enable"		"0"
+		"hammerid"		"1379"
+		"m_iname"		"func_physbox_snowball_2"
+	}
+	"5367"
+	{
+		"enable"		"0"
+		"hammerid"		"5367"
+		"m_iname"		"func_physbox_snowball_4"
+	}
+	"6145"
+	{
+		"enable"		"0"
+		"hammerid"		"6145"
+		"m_iname"		"func_physbox_snowball_6"
+	}
+	"6194"
+	{
+		"enable"		"0"
+		"hammerid"		"6194"
+		"m_iname"		"func_physbox_snowball_3"
+	}
+	"8058"
+	{
+		"enable"		"0"
+		"hammerid"		"8058"
+		"m_iname"		"func_physbox_snowball_5"
+	}
+	"741"
+	{
+		"enable"		"0"
+		"hammerid"		"741"
+		"m_iname"		"StartRock1"
+	}
+	"129013"
+	{
+		"enable"		"0"
+		"hammerid"		"129013"
+		"m_iname"		"SpawnRock6"
+	}
+	"129016"
+	{
+		"enable"		"0"
+		"hammerid"		"129016"
+		"m_iname"		"SpawnRock5"
+	}
+	"11199"
+	{
+		"enable"		"0"
+		"hammerid"		"11199"
+		"m_iname"		"func_breakable_snowball_5"
+	}
+	"11307"
+	{
+		"enable"		"0"
+		"hammerid"		"11307"
+		"m_iname"		"func_breakable_snowball_4"
+	}
+	"11540"
+	{
+		"enable"		"0"
+		"hammerid"		"11540"
+		"m_iname"		"func_breakable_snowball_6"
+	}
+	"16011"
+	{
+		"enable"		"0"
+		"hammerid"		"16011"
+		"m_iname"		"func_breakable_snowball_3"
+	}
+}

@@ -1,0 +1,253 @@
+"BOSSHP"
+{
+	"ProxMine&9754"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9755"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9756"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9757"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9758"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9759"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9760"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9761"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9762"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9763"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9764"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9765"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9767"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9768"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9771"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9772"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9773"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9774"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9775"
+	{
+		"enable"		"0"
+	}
+	"house1_debris"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9777"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9778"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9780"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9781"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9782"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9784"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9786"
+	{
+		"enable"		"0"
+	}
+	"ProxMine&9787"
+	{
+		"enable"		"0"
+	}
+	"421180"
+	{
+		"enable"		"0"
+		"hammerid"		"421180"
+		"m_iname"		"ProxMine&0419"
+	}
+	"292846"
+	{
+		"enable"		"1"
+		"hammerid"		"292846"
+		"m_iname"		"breakableshits"
+	}
+	"292873"
+	{
+		"enable"		"0"
+		"hammerid"		"292873"
+		"m_iname"		"house1stuff"
+	}
+	"292881"
+	{
+		"enable"		"0"
+		"hammerid"		"292881"
+		"m_iname"		"house1stuff"
+	}
+	"277501"
+	{
+		"enable"		"0"
+		"hammerid"		"277501"
+		"m_iname"		"Hold2ZombieDoor"
+	}
+	"160217"
+	{
+		"enable"		"0"
+		"hammerid"		"160217"
+		"m_iname"		"Hold2SpawnBlockedDoor"
+	}
+	"154684"
+	{
+		"enable"		"0"
+		"hammerid"		"154684"
+		"m_iname"		"Hold9Vent1"
+	}
+	"154693"
+	{
+		"enable"		"0"
+		"hammerid"		"154693"
+		"m_iname"		"Hold9Vent2"
+	}
+	"151999"
+	{
+		"enable"		"0"
+		"hammerid"		"151999"
+		"m_iname"		"Hold7Fence"
+	}
+	"147720"
+	{
+		"enable"		"0"
+		"hammerid"		"147720"
+		"m_iname"		"Hold2InvisWall2"
+	}
+	"147785"
+	{
+		"enable"		"0"
+		"hammerid"		"147785"
+		"m_iname"		"Hold2InvisWall3"
+	}
+	"145733"
+	{
+		"enable"		"0"
+		"hammerid"		"145733"
+		"m_iname"		"Hold2InvisWall1"
+	}
+	"123959"
+	{
+		"enable"		"1"
+		"hammerid"		"123959"
+		"m_iname"		"breakableshits"
+	}
+	"123972"
+	{
+		"enable"		"1"
+		"hammerid"		"123972"
+		"m_iname"		"breakableshits"
+	}
+	"124487"
+	{
+		"enable"		"0"
+		"hammerid"		"124487"
+		"m_iname"		"anothermode_crap"
+	}
+	"124495"
+	{
+		"enable"		"0"
+		"hammerid"		"124495"
+		"m_iname"		"anothermode_crap"
+	}
+	"124505"
+	{
+		"enable"		"0"
+		"hammerid"		"124505"
+		"m_iname"		"anothermode_crap"
+	}
+	"105600"
+	{
+		"enable"		"0"
+		"hammerid"		"105600"
+		"m_iname"		"house3stuff2"
+	}
+	"105608"
+	{
+		"enable"		"0"
+		"hammerid"		"105608"
+		"m_iname"		"house3stuff2"
+	}
+	"104522"
+	{
+		"enable"		"1"
+		"hammerid"		"104522"
+		"m_iname"		"breakableshits"
+	}
+	"104530"
+	{
+		"enable"		"1"
+		"hammerid"		"104530"
+		"m_iname"		"breakableshits"
+	}
+	"532051"
+	{
+		"enable"		"0"
+		"hammerid"		"532051"
+		"m_iname"		"breakend_1"
+	}
+	"532070"
+	{
+		"enable"		"0"
+		"hammerid"		"532070"
+		"m_iname"		"breakend_2"
+	}
+}

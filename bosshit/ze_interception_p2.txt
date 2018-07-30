@@ -1,0 +1,45 @@
+"BOSSHP"
+{
+	"59636"
+	{
+		"enable"		"0"
+		"hammerid"		"59636"
+		"m_iname"		"1_c_break"
+	}
+	"59640"
+	{
+		"enable"		"0"
+		"hammerid"		"59640"
+		"m_iname"		"1_c_break"
+	}
+	"59644"
+	{
+		"enable"		"0"
+		"hammerid"		"59644"
+		"m_iname"		"1_c_break"
+	}
+	"106494"
+	{
+		"enable"		"0"
+		"hammerid"		"106494"
+		"m_iname"		"sewer_break"
+	}
+	"170465"
+	{
+		"enable"		"0"
+		"hammerid"		"170465"
+		"m_iname"		"door_11_vent"
+	}
+	"170781"
+	{
+		"enable"		"0"
+		"hammerid"		"170781"
+		"m_iname"		"fence_1_vent"
+	}
+	"196386"
+	{
+		"enable"		"0"
+		"hammerid"		"196386"
+		"m_iname"		"fence_1"
+	}
+}

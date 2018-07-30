@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"28844"
+	{
+		"enable"		"1"
+		"hammerid"		"28844"
+		"m_iname"		"stage1_boss_zmcage"
+	}
+	"95981"
+	{
+		"enable"		"0"
+		"hammerid"		"95981"
+		"m_iname"		"spx_protego_spwnr_dummy"
+	}
+	"95974"
+	{
+		"enable"		"0"
+		"hammerid"		"95974"
+		"m_iname"		"spx_protego_spwnr_prop"
+	}
+	"60593"
+	{
+		"enable"		"1"
+		"hammerid"		"60593"
+		"m_iname"		"map_miniboss_phys"
+	}
+	"60596"
+	{
+		"enable"		"1"
+		"hammerid"		"60596"
+		"m_iname"		"map_miniboss_phys"
+	}
+}

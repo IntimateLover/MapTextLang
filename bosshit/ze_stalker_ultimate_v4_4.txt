@@ -1,0 +1,79 @@
+"BOSSHP"
+{
+	"CY01Physic2"
+	{
+		"enable"		"0"
+	}
+	"CY01Physic1"
+	{
+		"enable"		"0"
+	}
+	"dif_box1"
+	{
+		"enable"		"0"
+	}
+	"dif_box2"
+	{
+		"enable"		"0"
+	}
+	"CY01Physic"
+	{
+		"enable"		"0"
+	}
+	"boss_break"
+	{
+		"enable"		"1"
+	}
+	"boss_nade"
+	{
+		"enable"		"1"
+	}
+	"l3_end_door"
+	{
+		"enable"		"0"
+	}
+	"lab_phys1"
+	{
+		"enable"		"0"
+	}
+	"dif_box3"
+	{
+		"enable"		"0"
+	}
+	"dif_box4"
+	{
+		"enable"		"0"
+	}
+	"boss_break2"
+	{
+		"enable"		"1"
+	}
+	"boss_nade2"
+	{
+		"enable"		"1"
+	}
+	"boss_nade3"
+	{
+		"enable"		"1"
+	}
+	"phys2"
+	{
+		"enable"		"0"
+	}
+	"dif_box"
+	{
+		"enable"		"0"
+	}
+	"phys1_1"
+	{
+		"enable"		"0"
+	}
+	"quest_box"
+	{
+		"enable"		"0"
+	}
+	"boss3_break"
+	{
+		"enable"		"1"
+	}
+}

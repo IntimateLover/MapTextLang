@@ -1,0 +1,81 @@
+"BOSSHP"
+{
+	"716"
+	{
+		"enable"		"0"
+		"hammerid"		"716"
+		"m_iname"		"spawn_ovet2"
+	}
+	"2043"
+	{
+		"enable"		"0"
+		"hammerid"		"2043"
+		"m_iname"		"objective1_red"
+	}
+	"2386"
+	{
+		"enable"		"0"
+		"hammerid"		"2386"
+		"m_iname"		"objective1_ovi"
+	}
+	"2431"
+	{
+		"enable"		"0"
+		"hammerid"		"2431"
+		"m_iname"		"objective1_ovi"
+	}
+	"7897"
+	{
+		"enable"		"0"
+		"hammerid"		"7897"
+		"m_iname"		"zombihakki1"
+	}
+	"7978"
+	{
+		"enable"		"0"
+		"hammerid"		"7978"
+		"m_iname"		"puolustus2_ovet"
+	}
+	"7994"
+	{
+		"enable"		"0"
+		"hammerid"		"7994"
+		"m_iname"		"puolustus2_ovet"
+	}
+	"16936"
+	{
+		"enable"		"0"
+		"hammerid"		"16936"
+		"m_iname"		"objective1_red1"
+	}
+	"16955"
+	{
+		"enable"		"0"
+		"hammerid"		"16955"
+		"m_iname"		"objective1_red2"
+	}
+	"16968"
+	{
+		"enable"		"0"
+		"hammerid"		"16968"
+		"m_iname"		"objective1_red3"
+	}
+	"16981"
+	{
+		"enable"		"0"
+		"hammerid"		"16981"
+		"m_iname"		"objective1_red4"
+	}
+	"734"
+	{
+		"enable"		"0"
+		"hammerid"		"734"
+		"m_iname"		"spawn_ovet1"
+	}
+	"5270"
+	{
+		"enable"		"0"
+		"hammerid"		"5270"
+		"m_iname"		"viimeinensilta"
+	}
+}

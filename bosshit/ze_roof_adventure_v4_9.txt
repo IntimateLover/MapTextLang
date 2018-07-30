@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"292366"
+	{
+		"enable"		"1"
+		"hammerid"		"292366"
+		"m_iname"		"breakable_boss"
+	}
+	"49152"
+	{
+		"enable"		"0"
+		"hammerid"		"49152"
+		"m_iname"		"level1_box"
+	}
+	"157007"
+	{
+		"enable"		"1"
+		"hammerid"		"157007"
+		"m_iname"		"rock_boss_breakable"
+	}
+	"103641"
+	{
+		"enable"		"1"
+		"hammerid"		"103641"
+		"m_iname"		"boss"
+	}
+}

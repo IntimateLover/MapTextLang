@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"602429"
+	{
+		"enable"		"0"
+		"hammerid"		"602429"
+		"m_iname"		"floor_123"
+	}
+	"574380"
+	{
+		"enable"		"1"
+		"hammerid"		"574380"
+		"m_iname"		"boss_bridge"
+	}
+	"574383"
+	{
+		"enable"		"1"
+		"hammerid"		"574383"
+		"m_iname"		"boss_bridge"
+	}
+	"574386"
+	{
+		"enable"		"1"
+		"hammerid"		"574386"
+		"m_iname"		"boss_bridge"
+	}
+	"574389"
+	{
+		"enable"		"1"
+		"hammerid"		"574389"
+		"m_iname"		"boss_bridge"
+	}
+	"474057"
+	{
+		"enable"		"1"
+		"hammerid"		"474057"
+		"m_iname"		"Boss_Zombie_Cage"
+	}
+	"390229"
+	{
+		"enable"		"0"
+		"hammerid"		"390229"
+		"m_iname"		"Crystal_Physbox"
+	}
+	"207221"
+	{
+		"enable"		"0"
+		"hammerid"		"207221"
+		"m_iname"		"cy01physic"
+	}
+	"142551"
+	{
+		"enable"		"1"
+		"hammerid"		"142551"
+		"m_iname"		"boss_zwall"
+	}
+	"8440"
+	{
+		"enable"		"0"
+		"hammerid"		"8440"
+		"m_iname"		"heli"
+	}
+	"561633"
+	{
+		"enable"		"0"
+		"hammerid"		"561633"
+		"m_iname"		"aa"
+	}
+	"561628"
+	{
+		"enable"		"0"
+		"hammerid"		"561628"
+		"m_iname"		"deee"
+	}
+	"17571"
+	{
+		"enable"		"0"
+		"hammerid"		"17571"
+		"m_iname"		"helix"
+	}
+	"502556"
+	{
+		"enable"		"0"
+		"hammerid"		"502556"
+		"m_iname"		"physboxRocket&0300"
+	}
+	"292970"
+	{
+		"enable"		"0"
+		"hammerid"		"292970"
+		"m_iname"		"jump_portal"
+	}
+	"54855"
+	{
+		"enable"		"1"
+		"hammerid"		"54855"
+		"m_iname"		"boss_target"
+	}
+	"565197"
+	{
+		"enable"		"0"
+		"hammerid"		"565197"
+		"m_iname"		"prop_mine"
+	}
+}

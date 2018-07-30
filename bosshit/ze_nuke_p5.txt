@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"188250"
+	{
+		"enable"		"0"
+		"hammerid"		"188250"
+		"m_iname"		"azkena"
+	}
+	"3323"
+	{
+		"enable"		"0"
+		"hammerid"		"3323"
+		"m_iname"		"porte4"
+	}
+	"3329"
+	{
+		"enable"		"0"
+		"hammerid"		"3329"
+		"m_iname"		"porte5"
+	}
+	"3378"
+	{
+		"enable"		"0"
+		"hammerid"		"3378"
+		"m_iname"		"murfinal"
+	}
+	"3429"
+	{
+		"enable"		"0"
+		"hammerid"		"3429"
+		"m_iname"		"piege1"
+	}
+	"3432"
+	{
+		"enable"		"0"
+		"hammerid"		"3432"
+		"m_iname"		"piege2"
+	}
+	"3434"
+	{
+		"enable"		"0"
+		"hammerid"		"3434"
+		"m_iname"		"piege3"
+	}
+	"3436"
+	{
+		"enable"		"0"
+		"hammerid"		"3436"
+		"m_iname"		"piege4"
+	}
+	"3438"
+	{
+		"enable"		"0"
+		"hammerid"		"3438"
+		"m_iname"		"piege5"
+	}
+	"3440"
+	{
+		"enable"		"0"
+		"hammerid"		"3440"
+		"m_iname"		"piege6"
+	}
+	"3442"
+	{
+		"enable"		"0"
+		"hammerid"		"3442"
+		"m_iname"		"piege7"
+	}
+	"3481"
+	{
+		"enable"		"0"
+		"hammerid"		"3481"
+		"m_iname"		"echelle grande salle"
+	}
+	"3494"
+	{
+		"enable"		"0"
+		"hammerid"		"3494"
+		"m_iname"		"porte raccourci"
+	}
+	"3522"
+	{
+		"enable"		"0"
+		"hammerid"		"3522"
+		"m_iname"		"box1"
+	}
+	"3526"
+	{
+		"enable"		"0"
+		"hammerid"		"3526"
+		"m_iname"		"caja3"
+	}
+	"24908"
+	{
+		"enable"		"0"
+		"hammerid"		"24908"
+		"m_iname"		"murofinal"
+	}
+	"31444"
+	{
+		"enable"		"0"
+		"hammerid"		"31444"
+		"m_iname"		"putapuerta"
+	}
+}

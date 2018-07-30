@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"2602"
+	{
+		"enable"		"0"
+		"hammerid"		"2602"
+		"m_iname"		"Catwalk_1"
+	}
+	"3861"
+	{
+		"enable"		"0"
+		"hammerid"		"3861"
+		"m_iname"		"wallbreak1"
+	}
+}

@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"367812"
+	{
+		"enable"		"0"
+		"hammerid"		"367812"
+		"m_iname"		"ZombieHand"
+	}
+	"2249"
+	{
+		"enable"		"0"
+		"hammerid"		"2249"
+		"m_iname"		"FloorFall1"
+	}
+	"294042"
+	{
+		"enable"		"0"
+		"hammerid"		"294042"
+		"m_iname"		"zombieglass"
+	}
+	"294095"
+	{
+		"enable"		"0"
+		"hammerid"		"294095"
+		"m_iname"		"zombieglass"
+	}
+	"302279"
+	{
+		"enable"		"0"
+		"hammerid"		"302279"
+		"m_iname"		"cakesign"
+	}
+	"309084"
+	{
+		"enable"		"0"
+		"hammerid"		"309084"
+		"m_iname"		"fakemetal"
+	}
+}

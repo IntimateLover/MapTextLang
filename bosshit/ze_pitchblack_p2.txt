@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"26036"
+	{
+		"enable"		"0"
+		"hammerid"		"26036"
+		"m_iname"		"boulderrocks"
+	}
+	"1050"
+	{
+		"enable"		"0"
+		"hammerid"		"1050"
+		"m_iname"		"IDontListen"
+	}
+	"1052"
+	{
+		"enable"		"0"
+		"hammerid"		"1052"
+		"m_iname"		"IDontListen"
+	}
+	"1054"
+	{
+		"enable"		"0"
+		"hammerid"		"1054"
+		"m_iname"		"IDontListen"
+	}
+	"1056"
+	{
+		"enable"		"0"
+		"hammerid"		"1056"
+		"m_iname"		"IDontListen"
+	}
+	"1058"
+	{
+		"enable"		"0"
+		"hammerid"		"1058"
+		"m_iname"		"IDontListen"
+	}
+	"1060"
+	{
+		"enable"		"0"
+		"hammerid"		"1060"
+		"m_iname"		"IDontListen"
+	}
+	"1186"
+	{
+		"enable"		"0"
+		"hammerid"		"1186"
+		"m_iname"		"waterfloor"
+	}
+	"1188"
+	{
+		"enable"		"0"
+		"hammerid"		"1188"
+		"m_iname"		"gratefall"
+	}
+	"1208"
+	{
+		"enable"		"0"
+		"hammerid"		"1208"
+		"m_iname"		"outsidedoor"
+	}
+	"1632"
+	{
+		"enable"		"0"
+		"hammerid"		"1632"
+		"m_iname"		"IDontListen"
+	}
+	"1634"
+	{
+		"enable"		"0"
+		"hammerid"		"1634"
+		"m_iname"		"IDontListen"
+	}
+	"1636"
+	{
+		"enable"		"0"
+		"hammerid"		"1636"
+		"m_iname"		"IDontListen"
+	}
+	"1638"
+	{
+		"enable"		"0"
+		"hammerid"		"1638"
+		"m_iname"		"IDontListen"
+	}
+	"1640"
+	{
+		"enable"		"0"
+		"hammerid"		"1640"
+		"m_iname"		"IDontListen"
+	}
+	"1642"
+	{
+		"enable"		"0"
+		"hammerid"		"1642"
+		"m_iname"		"IDontListen"
+	}
+	"1650"
+	{
+		"enable"		"0"
+		"hammerid"		"1650"
+		"m_iname"		"crateblock"
+	}
+}

@@ -1,0 +1,183 @@
+"BOSSHP"
+{
+	"1774223"
+	{
+		"enable"		"0"
+		"hammerid"		"1774223"
+		"m_iname"		"cristal sparge"
+	}
+	"1763820"
+	{
+		"enable"		"1"
+		"hammerid"		"1763820"
+		"m_iname"		"protect boss"
+	}
+	"1742134"
+	{
+		"enable"		"1"
+		"hammerid"		"1742134"
+		"m_iname"		"boss_break"
+	}
+	"1742173"
+	{
+		"enable"		"1"
+		"hammerid"		"1742173"
+		"m_iname"		"boss_break"
+	}
+	"1742201"
+	{
+		"enable"		"1"
+		"hammerid"		"1742201"
+		"m_iname"		"boss_break"
+	}
+	"1742210"
+	{
+		"enable"		"1"
+		"hammerid"		"1742210"
+		"m_iname"		"boss_break"
+	}
+	"1602782"
+	{
+		"enable"		"1"
+		"hammerid"		"1602782"
+		"m_iname"		"boss_nade"
+	}
+	"1602800"
+	{
+		"enable"		"0"
+		"hammerid"		"1602800"
+		"m_iname"		"CY01Physic"
+	}
+	"1587518"
+	{
+		"enable"		"1"
+		"hammerid"		"1587518"
+		"m_iname"		"sol_boss_1"
+	}
+	"1587638"
+	{
+		"enable"		"1"
+		"hammerid"		"1587638"
+		"m_iname"		"sol_boss_1"
+	}
+	"800181"
+	{
+		"enable"		"0"
+		"hammerid"		"800181"
+		"m_iname"		"break7"
+	}
+	"800189"
+	{
+		"enable"		"0"
+		"hammerid"		"800189"
+		"m_iname"		"break8"
+	}
+	"800197"
+	{
+		"enable"		"0"
+		"hammerid"		"800197"
+		"m_iname"		"break9"
+	}
+	"800205"
+	{
+		"enable"		"0"
+		"hammerid"		"800205"
+		"m_iname"		"break4"
+	}
+	"800213"
+	{
+		"enable"		"0"
+		"hammerid"		"800213"
+		"m_iname"		"break5"
+	}
+	"800221"
+	{
+		"enable"		"0"
+		"hammerid"		"800221"
+		"m_iname"		"break6"
+	}
+	"800229"
+	{
+		"enable"		"0"
+		"hammerid"		"800229"
+		"m_iname"		"break1"
+	}
+	"800237"
+	{
+		"enable"		"0"
+		"hammerid"		"800237"
+		"m_iname"		"break2"
+	}
+	"800245"
+	{
+		"enable"		"0"
+		"hammerid"		"800245"
+		"m_iname"		"break3"
+	}
+	"725211"
+	{
+		"enable"		"1"
+		"hammerid"		"725211"
+		"m_iname"		"sol_boss_1"
+	}
+	"943954"
+	{
+		"enable"		"1"
+		"hammerid"		"943954"
+		"m_iname"		"sol_boss_1"
+	}
+	"1373277"
+	{
+		"enable"		"0"
+		"hammerid"		"1373277"
+		"m_iname"		"bahamut_bullet"
+	}
+	"102613"
+	{
+		"enable"		"0"
+		"hammerid"		"102613"
+		"m_iname"		"C4_06_Ground"
+	}
+	"126070"
+	{
+		"enable"		"0"
+		"hammerid"		"126070"
+		"m_iname"		"npc_bahamut_physbox"
+	}
+	"294116"
+	{
+		"enable"		"0"
+		"hammerid"		"294116"
+		"m_iname"		"troll_face_physbox"
+	}
+	"241883"
+	{
+		"enable"		"0"
+		"hammerid"		"241883"
+		"m_iname"		"glass_rainbow"
+	}
+	"277641"
+	{
+		"enable"		"0"
+		"hammerid"		"277641"
+		"m_iname"		"wallgay_1"
+	}
+	"277649"
+	{
+		"enable"		"0"
+		"hammerid"		"277649"
+		"m_iname"		"wallgay_2"
+	}
+	"277657"
+	{
+		"enable"		"0"
+		"hammerid"		"277657"
+		"m_iname"		"wallgay_3"
+	}
+	"234692"
+	{
+		"enable"		"0"
+		"hammerid"		"234692"
+		"m_iname"		"jugg_physbox"
+	}
+}

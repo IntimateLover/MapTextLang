@@ -1,0 +1,123 @@
+"BOSSHP"
+{
+	"146112"
+	{
+		"enable"		"0"
+		"hammerid"		"146112"
+		"m_iname"		"plank"
+	}
+	"146590"
+	{
+		"enable"		"0"
+		"hammerid"		"146590"
+		"m_iname"		"plank2"
+	}
+	"146683"
+	{
+		"enable"		"0"
+		"hammerid"		"146683"
+		"m_iname"		"plank3"
+	}
+	"146719"
+	{
+		"enable"		"0"
+		"hammerid"		"146719"
+		"m_iname"		"plank4"
+	}
+	"147155"
+	{
+		"enable"		"0"
+		"hammerid"		"147155"
+		"m_iname"		"plank5"
+	}
+	"147184"
+	{
+		"enable"		"0"
+		"hammerid"		"147184"
+		"m_iname"		"plank8"
+	}
+	"147175"
+	{
+		"enable"		"0"
+		"hammerid"		"147175"
+		"m_iname"		"plank7"
+	}
+	"147166"
+	{
+		"enable"		"0"
+		"hammerid"		"147166"
+		"m_iname"		"plank6"
+	}
+	"497611"
+	{
+		"enable"		"0"
+		"hammerid"		"497611"
+		"m_iname"		"plank12"
+	}
+	"497620"
+	{
+		"enable"		"0"
+		"hammerid"		"497620"
+		"m_iname"		"plank11"
+	}
+	"497629"
+	{
+		"enable"		"0"
+		"hammerid"		"497629"
+		"m_iname"		"plank10"
+	}
+	"497638"
+	{
+		"enable"		"0"
+		"hammerid"		"497638"
+		"m_iname"		"plank9"
+	}
+	"151705"
+	{
+		"enable"		"0"
+		"hammerid"		"151705"
+		"m_iname"		"overpassbreak"
+	}
+	"152637"
+	{
+		"enable"		"0"
+		"hammerid"		"152637"
+		"m_iname"		"marketbreak"
+	}
+	"305461"
+	{
+		"enable"		"0"
+		"hammerid"		"305461"
+		"m_iname"		"washtubbreak"
+	}
+	"312288"
+	{
+		"enable"		"0"
+		"hammerid"		"312288"
+		"m_iname"		"BreakOvertime"
+	}
+	"312954"
+	{
+		"enable"		"0"
+		"hammerid"		"312954"
+		"m_iname"		"dockbreak"
+	}
+	"313613"
+	{
+		"enable"		"0"
+		"hammerid"		"313613"
+		"m_iname"		"secretbreak"
+	}
+	"431995"
+	{
+		"enable"		"0"
+		"hammerid"		"431995"
+		"m_iname"		"gondolabreak"
+	}
+	"152399"
+	{
+		"enable"		"0"
+		"hammerid"		"152399"
+		"m_iname"		"lift2break"
+	}
+}

@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"7561"
+	{
+		"enable"		"0"
+		"hammerid"		"7561"
+		"m_iname"		"sable"
+	}
+	"53426"
+	{
+		"enable"		"0"
+		"hammerid"		"53426"
+		"m_iname"		"puertarompecasa"
+	}
+	"54748"
+	{
+		"enable"		"0"
+		"hammerid"		"54748"
+		"m_iname"		"puertarompebalcon"
+	}
+}

@@ -1,0 +1,57 @@
+"BOSSHP"
+{
+	"2203"
+	{
+		"enable"		"0"
+		"hammerid"		"2203"
+		"m_iname"		"break_1"
+	}
+	"27876"
+	{
+		"enable"		"0"
+		"hammerid"		"27876"
+		"m_iname"		"plank_break_easy_normal"
+	}
+	"38944"
+	{
+		"enable"		"0"
+		"hammerid"		"38944"
+		"m_iname"		"wall_defense2"
+	}
+	"55605"
+	{
+		"enable"		"0"
+		"hammerid"		"55605"
+		"m_iname"		"tramway_brush_tank"
+	}
+	"151383"
+	{
+		"enable"		"0"
+		"hammerid"		"151383"
+		"m_iname"		"plank_break"
+	}
+	"163575"
+	{
+		"enable"		"0"
+		"hammerid"		"163575"
+		"m_iname"		"plank_break_d_2"
+	}
+	"163921"
+	{
+		"enable"		"0"
+		"hammerid"		"163921"
+		"m_iname"		"plank_break_d_4"
+	}
+	"163509"
+	{
+		"enable"		"0"
+		"hammerid"		"163509"
+		"m_iname"		"plank_break_d_1"
+	}
+	"234176"
+	{
+		"enable"		"0"
+		"hammerid"		"234176"
+		"m_iname"		"bridge_floor_break"
+	}
+}

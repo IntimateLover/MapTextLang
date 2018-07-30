@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"116804"
+	{
+		"enable"		"0"
+		"hammerid"		"116804"
+		"m_iname"		"ZombieBarricade3"
+	}
+	"112650"
+	{
+		"enable"		"0"
+		"hammerid"		"112650"
+		"m_iname"		"ZombieBarricade1"
+	}
+	"112793"
+	{
+		"enable"		"0"
+		"hammerid"		"112793"
+		"m_iname"		"ZombieBarricade2"
+	}
+	"12378"
+	{
+		"enable"		"0"
+		"hammerid"		"12378"
+		"m_iname"		"fence2breakable"
+	}
+	"13275"
+	{
+		"enable"		"0"
+		"hammerid"		"13275"
+		"m_iname"		"HoldBreak"
+	}
+}

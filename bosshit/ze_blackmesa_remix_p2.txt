@@ -1,0 +1,299 @@
+"BOSSHP"
+{
+	"PhysboxEnd"
+	{
+		"enable"		"0"
+	}
+	"Antlion_Hitbox"
+	{
+		"enable"		"1"
+	}
+	"Gigante_Hitbox"
+	{
+		"enable"		"1"
+	}
+	"BloodSuck_Hitbox"
+	{
+		"enable"		"1"
+	}
+	"AntGuard_Hitbox"
+	{
+		"enable"		"1"
+	}
+	"492917"
+	{
+		"enable"		"0"
+		"hammerid"		"492917"
+		"m_iname"		"Breakable"
+	}
+	"492946"
+	{
+		"enable"		"0"
+		"hammerid"		"492946"
+		"m_iname"		"Breakable"
+	}
+	"861"
+	{
+		"enable"		"0"
+		"hammerid"		"861"
+		"m_iname"		"Breakable"
+	}
+	"1039"
+	{
+		"enable"		"0"
+		"hammerid"		"1039"
+		"m_iname"		"Breakable"
+	}
+	"1063"
+	{
+		"enable"		"0"
+		"hammerid"		"1063"
+		"m_iname"		"BreakableVent"
+	}
+	"1065"
+	{
+		"enable"		"0"
+		"hammerid"		"1065"
+		"m_iname"		"BreakableVent"
+	}
+	"1067"
+	{
+		"enable"		"0"
+		"hammerid"		"1067"
+		"m_iname"		"Breakable"
+	}
+	"1071"
+	{
+		"enable"		"0"
+		"hammerid"		"1071"
+		"m_iname"		"BreakableTubeZMModeLock"
+	}
+	"1077"
+	{
+		"enable"		"0"
+		"hammerid"		"1077"
+		"m_iname"		"crate1"
+	}
+	"1108"
+	{
+		"enable"		"0"
+		"hammerid"		"1108"
+		"m_iname"		"BreakableLockVent"
+	}
+	"1110"
+	{
+		"enable"		"0"
+		"hammerid"		"1110"
+		"m_iname"		"Breakable"
+	}
+	"1112"
+	{
+		"enable"		"0"
+		"hammerid"		"1112"
+		"m_iname"		"Breakable"
+	}
+	"1241"
+	{
+		"enable"		"0"
+		"hammerid"		"1241"
+		"m_iname"		"Breakable"
+	}
+	"1259"
+	{
+		"enable"		"0"
+		"hammerid"		"1259"
+		"m_iname"		"Breakable"
+	}
+	"1422"
+	{
+		"enable"		"0"
+		"hammerid"		"1422"
+		"m_iname"		"Breakable"
+	}
+	"1424"
+	{
+		"enable"		"0"
+		"hammerid"		"1424"
+		"m_iname"		"Breakable"
+	}
+	"4255"
+	{
+		"enable"		"0"
+		"hammerid"		"4255"
+		"m_iname"		"Breakable"
+	}
+	"24580"
+	{
+		"enable"		"0"
+		"hammerid"		"24580"
+		"m_iname"		"BreakableBARRICADESTUFF2KILL"
+	}
+	"51766"
+	{
+		"enable"		"0"
+		"hammerid"		"51766"
+		"m_iname"		"Breakable"
+	}
+	"68018"
+	{
+		"enable"		"0"
+		"hammerid"		"68018"
+		"m_iname"		"CafGlass"
+	}
+	"1331"
+	{
+		"enable"		"0"
+		"hammerid"		"1331"
+		"m_iname"		"Breakable"
+	}
+	"1319"
+	{
+		"enable"		"0"
+		"hammerid"		"1319"
+		"m_iname"		"Breakable"
+	}
+	"5459"
+	{
+		"enable"		"0"
+		"hammerid"		"5459"
+		"m_iname"		"Breakable"
+	}
+	"5294"
+	{
+		"enable"		"0"
+		"hammerid"		"5294"
+		"m_iname"		"ElevCrates"
+	}
+	"1372"
+	{
+		"enable"		"0"
+		"hammerid"		"1372"
+		"m_iname"		"Breakable"
+	}
+	"1327"
+	{
+		"enable"		"0"
+		"hammerid"		"1327"
+		"m_iname"		"Breakable"
+	}
+	"1325"
+	{
+		"enable"		"0"
+		"hammerid"		"1325"
+		"m_iname"		"Breakable"
+	}
+	"1308"
+	{
+		"enable"		"0"
+		"hammerid"		"1308"
+		"m_iname"		"Breakable"
+	}
+	"1301"
+	{
+		"enable"		"0"
+		"hammerid"		"1301"
+		"m_iname"		"Breakable"
+	}
+	"1298"
+	{
+		"enable"		"0"
+		"hammerid"		"1298"
+		"m_iname"		"Breakable"
+	}
+	"1292"
+	{
+		"enable"		"0"
+		"hammerid"		"1292"
+		"m_iname"		"Breakable"
+	}
+	"1096"
+	{
+		"enable"		"0"
+		"hammerid"		"1096"
+		"m_iname"		"stairs_metalgrid"
+	}
+	"1085"
+	{
+		"enable"		"0"
+		"hammerid"		"1085"
+		"m_iname"		"Breakable"
+	}
+	"185779"
+	{
+		"enable"		"0"
+		"hammerid"		"185779"
+		"m_iname"		"BreakCaveFirst"
+	}
+	"198638"
+	{
+		"enable"		"0"
+		"hammerid"		"198638"
+		"m_iname"		"Antlion_Glass"
+	}
+	"204738"
+	{
+		"enable"		"0"
+		"hammerid"		"204738"
+		"m_iname"		"Gigante_Glass"
+	}
+	"206262"
+	{
+		"enable"		"0"
+		"hammerid"		"206262"
+		"m_iname"		"BloodSuck_Glass"
+	}
+	"215802"
+	{
+		"enable"		"0"
+		"hammerid"		"215802"
+		"m_iname"		"CaveNaturalBridge2"
+	}
+	"213116"
+	{
+		"enable"		"0"
+		"hammerid"		"213116"
+		"m_iname"		"CaveNaturalBridge"
+	}
+	"253788"
+	{
+		"enable"		"0"
+		"hammerid"		"253788"
+		"m_iname"		"Breakable"
+	}
+	"266003"
+	{
+		"enable"		"0"
+		"hammerid"		"266003"
+		"m_iname"		"Breakable"
+	}
+	"266034"
+	{
+		"enable"		"0"
+		"hammerid"		"266034"
+		"m_iname"		"Breakable"
+	}
+	"266073"
+	{
+		"enable"		"0"
+		"hammerid"		"266073"
+		"m_iname"		"Breakable"
+	}
+	"371253"
+	{
+		"enable"		"0"
+		"hammerid"		"371253"
+		"m_iname"		"BreakCaveSecond"
+	}
+	"373434"
+	{
+		"enable"		"0"
+		"hammerid"		"373434"
+		"m_iname"		"Pedo_Glass"
+	}
+	"212348"
+	{
+		"enable"		"0"
+		"hammerid"		"212348"
+		"m_iname"		"AntGuard_Glass"
+	}
+}

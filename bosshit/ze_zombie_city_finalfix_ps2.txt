@@ -1,0 +1,141 @@
+"BOSSHP"
+{
+	"1501819"
+	{
+		"enable"		"0"
+		"hammerid"		"1501819"
+		"m_iname"		"Helicop_floor"
+	}
+	"3753"
+	{
+		"enable"		"0"
+		"hammerid"		"3753"
+		"m_iname"		"DHr"
+	}
+	"2904"
+	{
+		"enable"		"0"
+		"hammerid"		"2904"
+		"m_iname"		"secret2_pasage2"
+	}
+	"56450"
+	{
+		"enable"		"0"
+		"hammerid"		"56450"
+		"m_iname"		"teleZombiesAllow"
+	}
+	"3791"
+	{
+		"enable"		"0"
+		"hammerid"		"3791"
+		"m_iname"		"ruelle_planche"
+	}
+	"3085"
+	{
+		"enable"		"0"
+		"hammerid"		"3085"
+		"m_iname"		"choix_entrer"
+	}
+	"3081"
+	{
+		"enable"		"0"
+		"hammerid"		"3081"
+		"m_iname"		"Choix_Rue"
+	}
+	"3072"
+	{
+		"enable"		"0"
+		"hammerid"		"3072"
+		"m_iname"		"interieur_WallBREAk"
+	}
+	"3042"
+	{
+		"enable"		"0"
+		"hammerid"		"3042"
+		"m_iname"		"interieur_poutre"
+	}
+	"3037"
+	{
+		"enable"		"0"
+		"hammerid"		"3037"
+		"m_iname"		"interieur_MaisonBREAK"
+	}
+	"3035"
+	{
+		"enable"		"0"
+		"hammerid"		"3035"
+		"m_iname"		"canon_CIBLE"
+	}
+	"3027"
+	{
+		"enable"		"0"
+		"hammerid"		"3027"
+		"m_iname"		"secret_ruelle_CANON"
+	}
+	"3025"
+	{
+		"enable"		"0"
+		"hammerid"		"3025"
+		"m_iname"		"secret_ruelle_PASCANON"
+	}
+	"3022"
+	{
+		"enable"		"0"
+		"hammerid"		"3022"
+		"m_iname"		"secret_aleatoire_door2_brush"
+	}
+	"2912"
+	{
+		"enable"		"0"
+		"hammerid"		"2912"
+		"m_iname"		"Poutre_droite"
+	}
+	"2910"
+	{
+		"enable"		"0"
+		"hammerid"		"2910"
+		"m_iname"		"Poutre_gauche"
+	}
+	"2902"
+	{
+		"enable"		"0"
+		"hammerid"		"2902"
+		"m_iname"		"secret2_pasage1"
+	}
+	"3819"
+	{
+		"enable"		"0"
+		"hammerid"		"3819"
+		"m_iname"		"ruelle_porte_noWay"
+	}
+	"4066"
+	{
+		"enable"		"0"
+		"hammerid"		"4066"
+		"m_iname"		"Break"
+	}
+	"4444"
+	{
+		"enable"		"0"
+		"hammerid"		"4444"
+		"m_iname"		"avanttrou_break"
+	}
+	"3083"
+	{
+		"enable"		"0"
+		"hammerid"		"3083"
+		"m_iname"		"choix_conduit"
+	}
+	"3209"
+	{
+		"enable"		"0"
+		"hammerid"		"3209"
+		"m_iname"		"sewer_door_alrme"
+	}
+	"229838"
+	{
+		"enable"		"0"
+		"hammerid"		"229838"
+		"m_iname"		"SecretTruckDoor"
+	}
+}

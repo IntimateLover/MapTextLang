@@ -1,0 +1,171 @@
+"BOSSHP"
+{
+	"1526534"
+	{
+		"enable"		"0"
+		"hammerid"		"1526534"
+		"m_iname"		"kill_break"
+	}
+	"1519241"
+	{
+		"enable"		"0"
+		"hammerid"		"1519241"
+		"m_iname"		"tolevel5_break"
+	}
+	"1440662"
+	{
+		"enable"		"0"
+		"hammerid"		"1440662"
+		"m_iname"		"tolevel2_1_break"
+	}
+	"1440707"
+	{
+		"enable"		"0"
+		"hammerid"		"1440707"
+		"m_iname"		"tolevel3_break"
+	}
+	"1440793"
+	{
+		"enable"		"0"
+		"hammerid"		"1440793"
+		"m_iname"		"tolevel3_1_break"
+	}
+	"1440874"
+	{
+		"enable"		"0"
+		"hammerid"		"1440874"
+		"m_iname"		"tolevel4_break"
+	}
+	"1440961"
+	{
+		"enable"		"0"
+		"hammerid"		"1440961"
+		"m_iname"		"tolevel4_1_break"
+	}
+	"1421825"
+	{
+		"enable"		"0"
+		"hammerid"		"1421825"
+		"m_iname"		"tolevel1_break"
+	}
+	"1421850"
+	{
+		"enable"		"0"
+		"hammerid"		"1421850"
+		"m_iname"		"tolevel1_1_break"
+	}
+	"1422110"
+	{
+		"enable"		"0"
+		"hammerid"		"1422110"
+		"m_iname"		"tolevel2_break"
+	}
+	"1336059"
+	{
+		"enable"		"0"
+		"hammerid"		"1336059"
+		"m_iname"		"breakable_2"
+	}
+	"1336271"
+	{
+		"enable"		"0"
+		"hammerid"		"1336271"
+		"m_iname"		"break_level24"
+	}
+	"925428"
+	{
+		"enable"		"0"
+		"hammerid"		"925428"
+		"m_iname"		"surfmode_break2"
+	}
+	"292366"
+	{
+		"enable"		"1"
+		"hammerid"		"292366"
+		"m_iname"		"breakable_boss"
+	}
+	"59847"
+	{
+		"enable"		"0"
+		"hammerid"		"59847"
+		"m_iname"		"breakable_8"
+	}
+	"49539"
+	{
+		"enable"		"0"
+		"hammerid"		"49539"
+		"m_iname"		"breakable_9"
+	}
+	"49716"
+	{
+		"enable"		"0"
+		"hammerid"		"49716"
+		"m_iname"		"breakable_7"
+	}
+	"45527"
+	{
+		"enable"		"0"
+		"hammerid"		"45527"
+		"m_iname"		"breakable_fire_1"
+	}
+	"45541"
+	{
+		"enable"		"0"
+		"hammerid"		"45541"
+		"m_iname"		"breakable_fire_2"
+	}
+	"45555"
+	{
+		"enable"		"0"
+		"hammerid"		"45555"
+		"m_iname"		"breakable_fire_3"
+	}
+	"34090"
+	{
+		"enable"		"0"
+		"hammerid"		"34090"
+		"m_iname"		"breakable_4"
+	}
+	"20473"
+	{
+		"enable"		"0"
+		"hammerid"		"20473"
+		"m_iname"		"breakable_last"
+	}
+	"13677"
+	{
+		"enable"		"0"
+		"hammerid"		"13677"
+		"m_iname"		"breakable_3"
+	}
+	"402835"
+	{
+		"enable"		"0"
+		"hammerid"		"402835"
+		"m_iname"		"parkourmode_speed_arrow"
+	}
+	"402927"
+	{
+		"enable"		"0"
+		"hammerid"		"402927"
+		"m_iname"		"parkourmode_reduce_arrow"
+	}
+	"62900"
+	{
+		"enable"		"0"
+		"hammerid"		"62900"
+		"m_iname"		"breakable_1_level4"
+	}
+	"157007"
+	{
+		"enable"		"1"
+		"hammerid"		"157007"
+		"m_iname"		"rock_boss_breakable"
+	}
+	"156991"
+	{
+		"enable"		"0"
+		"hammerid"		"156991"
+		"m_iname"		"rock_breakable"
+	}
+}

@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"237994"
+	{
+		"enable"		"0"
+		"hammerid"		"237994"
+		"m_iname"		"lv1_break"
+	}
+	"188250"
+	{
+		"enable"		"1"
+		"hammerid"		"188250"
+		"m_iname"		"Troll_hitbox"
+	}
+	"188323"
+	{
+		"enable"		"1"
+		"hammerid"		"188323"
+		"m_iname"		"Troll_phys_nade"
+	}
+	"179710"
+	{
+		"enable"		"0"
+		"hammerid"		"179710"
+		"m_iname"		"Troll_Phys"
+	}
+	"174262"
+	{
+		"enable"		"0"
+		"hammerid"		"174262"
+		"m_iname"		"lv1_crystall"
+	}
+	"101394"
+	{
+		"enable"		"0"
+		"hammerid"		"101394"
+		"m_iname"		"lv1_door2"
+	}
+	"94773"
+	{
+		"enable"		"0"
+		"hammerid"		"94773"
+		"m_iname"		"lv1_metalfence_1"
+	}
+	"96041"
+	{
+		"enable"		"0"
+		"hammerid"		"96041"
+		"m_iname"		"lv1_metalfence_2"
+	}
+	"49408"
+	{
+		"enable"		"0"
+		"hammerid"		"49408"
+		"m_iname"		"lv1_door1"
+	}
+	"187628"
+	{
+		"enable"		"0"
+		"hammerid"		"187628"
+		"m_iname"		"gravity_phybox"
+	}
+	"270061"
+	{
+		"enable"		"0"
+		"hammerid"		"270061"
+		"m_iname"		"zice_mdl"
+	}
+	"103012"
+	{
+		"enable"		"0"
+		"hammerid"		"103012"
+		"m_iname"		"earth_model"
+	}
+	"52040"
+	{
+		"enable"		"0"
+		"hammerid"		"52040"
+		"m_iname"		"Troll_Phys"
+	}
+	"49848"
+	{
+		"enable"		"1"
+		"hammerid"		"49848"
+		"m_iname"		"Troll_hitbox"
+	}
+	"49877"
+	{
+		"enable"		"0"
+		"hammerid"		"49877"
+		"m_iname"		"Troll_phys_nade"
+	}
+	"39117"
+	{
+		"enable"		"0"
+		"hammerid"		"39117"
+		"m_iname"		"zice_mdl"
+	}
+	"100587"
+	{
+		"enable"		"0"
+		"hammerid"		"100587"
+		"m_iname"		"earth_model"
+	}
+}

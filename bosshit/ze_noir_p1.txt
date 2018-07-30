@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"506719"
+	{
+		"enable"		"0"
+		"hammerid"		"506719"
+		"m_iname"		"TrenchPathTeleportBreakable"
+	}
+	"56677"
+	{
+		"enable"		"0"
+		"hammerid"		"56677"
+		"m_iname"		"ElevatorZombiesDoor"
+	}
+	"57003"
+	{
+		"enable"		"0"
+		"hammerid"		"57003"
+		"m_iname"		"ElevatorZombiesDoorTop"
+	}
+	"110816"
+	{
+		"enable"		"0"
+		"hammerid"		"110816"
+		"m_iname"		"ZombieTeleportVent"
+	}
+}

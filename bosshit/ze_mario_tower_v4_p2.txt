@@ -1,0 +1,135 @@
+"BOSSHP"
+{
+	"5439"
+	{
+		"enable"		"0"
+		"hammerid"		"5439"
+		"m_iname"		"skyguysheild"
+	}
+	"6012"
+	{
+		"enable"		"0"
+		"hammerid"		"6012"
+		"m_iname"		"dropblock1"
+	}
+	"6048"
+	{
+		"enable"		"0"
+		"hammerid"		"6048"
+		"m_iname"		"dropblock2"
+	}
+	"6079"
+	{
+		"enable"		"0"
+		"hammerid"		"6079"
+		"m_iname"		"dropblock3"
+	}
+	"6125"
+	{
+		"enable"		"0"
+		"hammerid"		"6125"
+		"m_iname"		"thomptrap"
+	}
+	"6219"
+	{
+		"enable"		"0"
+		"hammerid"		"6219"
+		"m_iname"		"bowser_blocks2"
+	}
+	"6227"
+	{
+		"enable"		"0"
+		"hammerid"		"6227"
+		"m_iname"		"bowser_blocks3"
+	}
+	"6235"
+	{
+		"enable"		"0"
+		"hammerid"		"6235"
+		"m_iname"		"bowser_blocks4"
+	}
+	"6243"
+	{
+		"enable"		"0"
+		"hammerid"		"6243"
+		"m_iname"		"bowser_blocks1"
+	}
+	"5239"
+	{
+		"enable"		"0"
+		"hammerid"		"5239"
+		"m_iname"		"wooden2"
+	}
+	"5255"
+	{
+		"enable"		"0"
+		"hammerid"		"5255"
+		"m_iname"		"chainchompbars"
+	}
+	"5289"
+	{
+		"enable"		"0"
+		"hammerid"		"5289"
+		"m_iname"		"Bridgebreak"
+	}
+	"5327"
+	{
+		"enable"		"0"
+		"hammerid"		"5327"
+		"m_iname"		"wallblock"
+	}
+	"5359"
+	{
+		"enable"		"0"
+		"hammerid"		"5359"
+		"m_iname"		"blockwallA"
+	}
+	"5367"
+	{
+		"enable"		"0"
+		"hammerid"		"5367"
+		"m_iname"		"blockwallB"
+	}
+	"5375"
+	{
+		"enable"		"0"
+		"hammerid"		"5375"
+		"m_iname"		"blockwallC"
+	}
+	"5605"
+	{
+		"enable"		"0"
+		"hammerid"		"5605"
+		"m_iname"		"zombieladder1"
+	}
+	"5613"
+	{
+		"enable"		"0"
+		"hammerid"		"5613"
+		"m_iname"		"zombieladder2"
+	}
+	"6195"
+	{
+		"enable"		"0"
+		"hammerid"		"6195"
+		"m_iname"		"ctplank"
+	}
+	"6420"
+	{
+		"enable"		"0"
+		"hammerid"		"6420"
+		"m_iname"		"wallblock"
+	}
+	"6574"
+	{
+		"enable"		"0"
+		"hammerid"		"6574"
+		"m_iname"		"towertop"
+	}
+	"6622"
+	{
+		"enable"		"0"
+		"hammerid"		"6622"
+		"m_iname"		"ladderblock"
+	}
+}

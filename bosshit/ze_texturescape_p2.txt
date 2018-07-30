@@ -1,0 +1,93 @@
+"BOSSHP"
+{
+	"16804"
+	{
+		"enable"		"0"
+		"hammerid"		"16804"
+		"m_iname"		"HoldHere"
+	}
+	"5217"
+	{
+		"enable"		"0"
+		"hammerid"		"5217"
+		"m_iname"		"trap_01"
+	}
+	"5225"
+	{
+		"enable"		"0"
+		"hammerid"		"5225"
+		"m_iname"		"trap_02"
+	}
+	"5233"
+	{
+		"enable"		"0"
+		"hammerid"		"5233"
+		"m_iname"		"trap_03"
+	}
+	"5241"
+	{
+		"enable"		"0"
+		"hammerid"		"5241"
+		"m_iname"		"trap_04"
+	}
+	"5249"
+	{
+		"enable"		"0"
+		"hammerid"		"5249"
+		"m_iname"		"trap_05"
+	}
+	"5386"
+	{
+		"enable"		"0"
+		"hammerid"		"5386"
+		"m_iname"		"phys_break_02"
+	}
+	"5410"
+	{
+		"enable"		"0"
+		"hammerid"		"5410"
+		"m_iname"		"phys_break_01"
+	}
+	"5822"
+	{
+		"enable"		"0"
+		"hammerid"		"5822"
+		"m_iname"		"trap_phys_01"
+	}
+	"6106"
+	{
+		"enable"		"0"
+		"hammerid"		"6106"
+		"m_iname"		"exp_trap_01"
+	}
+	"6351"
+	{
+		"enable"		"0"
+		"hammerid"		"6351"
+		"m_iname"		"bhop_trap_01"
+	}
+	"6359"
+	{
+		"enable"		"0"
+		"hammerid"		"6359"
+		"m_iname"		"bhop_trap_01"
+	}
+	"6475"
+	{
+		"enable"		"0"
+		"hammerid"		"6475"
+		"m_iname"		"pressure_trap_01"
+	}
+	"6667"
+	{
+		"enable"		"0"
+		"hammerid"		"6667"
+		"m_iname"		"block_trap_01"
+	}
+	"6699"
+	{
+		"enable"		"0"
+		"hammerid"		"6699"
+		"m_iname"		"phys_tarp_01"
+	}
+}

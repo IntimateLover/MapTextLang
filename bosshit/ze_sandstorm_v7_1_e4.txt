@@ -1,0 +1,159 @@
+"BOSSHP"
+{
+	"knf_phy_2"
+	{
+		"enable"		"0"
+	}
+	"knf_phy_3"
+	{
+		"enable"		"0"
+	}
+	"knf_phy_4"
+	{
+		"enable"		"0"
+	}
+	"knf_phy_1"
+	{
+		"enable"		"0"
+	}
+	"CY01Physic"
+	{
+		"enable"		"0"
+	}
+	"garg_hitbox"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic1"
+	{
+		"enable"		"0"
+	}
+	"CY01Physic_5"
+	{
+		"enable"		"0"
+	}
+	"tornado_fix"
+	{
+		"enable"		"0"
+	}
+	"mutant_hitbox"
+	{
+		"enable"		"1"
+	}
+	"grg_hitbox"
+	{
+		"enable"		"1"
+	}
+	"mutant_hitbox1"
+	{
+		"enable"		"1"
+	}
+	"15127792"
+	{
+		"enable"		"0"
+		"hammerid"		"15127792"
+		"m_iname"		"knf_phy_3"
+	}
+	"15127789"
+	{
+		"enable"		"0"
+		"hammerid"		"15127789"
+		"m_iname"		"knf_phy_2"
+	}
+	"15127795"
+	{
+		"enable"		"0"
+		"hammerid"		"15127795"
+		"m_iname"		"knf_phy_4"
+	}
+	"15127798"
+	{
+		"enable"		"0"
+		"hammerid"		"15127798"
+		"m_iname"		"knf_phy_1"
+	}
+	"8388832"
+	{
+		"enable"		"0"
+		"hammerid"		"8388832"
+		"m_iname"		"CY01Physic"
+	}
+	"8774225"
+	{
+		"enable"		"1"
+		"hammerid"		"8774225"
+		"m_iname"		"garg_hitbox"
+	}
+	"9609889"
+	{
+		"enable"		"0"
+		"hammerid"		"9609889"
+		"m_iname"		"CY01Physic1"
+	}
+	"13344494"
+	{
+		"enable"		"0"
+		"hammerid"		"13344494"
+		"m_iname"		"CY01Physic_5"
+	}
+	"11666542"
+	{
+		"enable"		"0"
+		"hammerid"		"11666542"
+		"m_iname"		"tornado_fix"
+	}
+	"8382173"
+	{
+		"enable"		"1"
+		"hammerid"		"8382173"
+		"m_iname"		"mutant_hitbox"
+	}
+	"13344452"
+	{
+		"enable"		"1"
+		"hammerid"		"13344452"
+		"m_iname"		"grg_hitbox"
+	}
+	"9609216"
+	{
+		"enable"		"1"
+		"hammerid"		"9609216"
+		"m_iname"		"mutant_hitbox1"
+	}
+	"9381785"
+	{
+		"enable"		"0"
+		"hammerid"		"9381785"
+		"m_iname"		"br_l1_l4"
+	}
+	"9386222"
+	{
+		"enable"		"0"
+		"hammerid"		"9386222"
+		"m_iname"		"br_l1_l4"
+	}
+	"9443685"
+	{
+		"enable"		"0"
+		"hammerid"		"9443685"
+		"m_iname"		"br_l1_l4"
+	}
+	"9460751"
+	{
+		"enable"		"0"
+		"hammerid"		"9460751"
+		"m_iname"		"br_l1_l4"
+	}
+	"9465322"
+	{
+		"enable"		"0"
+		"hammerid"		"9465322"
+		"m_iname"		"br_l1_l4"
+	}
+	"12797155"
+	{
+		"enable"		"0"
+		"hammerid"		"12797155"
+		"m_iname"		"ph_crystal_ph"
+	}
+}

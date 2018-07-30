@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"1234"
+	{
+		"enable"		"0"
+		"hammerid"		"1234"
+		"m_iname"		"spawntrapbreak"
+	}
+	"1254"
+	{
+		"enable"		"0"
+		"hammerid"		"1254"
+		"m_iname"		"roundrock2"
+	}
+	"1256"
+	{
+		"enable"		"0"
+		"hammerid"		"1256"
+		"m_iname"		"roundrock2_breakbox"
+	}
+	"1269"
+	{
+		"enable"		"0"
+		"hammerid"		"1269"
+		"m_iname"		"roundrock1"
+	}
+	"1271"
+	{
+		"enable"		"0"
+		"hammerid"		"1271"
+		"m_iname"		"roundrock1_breakbox"
+	}
+	"1345"
+	{
+		"enable"		"0"
+		"hammerid"		"1345"
+		"m_iname"		"rock6-breakwood"
+	}
+}
