@@ -22,7 +22,7 @@
 + mappool     ->地图池控制系统
 + entwatch    ->神器显示配置
 + maptext     ->ZE地图翻译
-
++ bosshit     ->打boss是否加钱的配置
 ---
 
 ## 游戏中自动同步说明
@@ -42,11 +42,11 @@
 ---
 ## BOSSHit 说明
 
-	"126" //开头必须是数字 且必须是正确的Hammerid
+	"126" //根必须是hammerid数字 不正确将无法生效 必须是正确的Hammerid !!!
 	{
 		"enable"		"1" //启用
 		"hammerid"		"126" //hammerid 确认
-		"m_iname"		"startway2" //可选 也可以不设置该属性
+		"m_iname"		"startway2" //可选 是否匹配名称 也可以不设置该属性
 	}
 这样就完成了 玩家攻击该Hammerid将获得金钱!
 
