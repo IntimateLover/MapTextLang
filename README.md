@@ -1,3 +1,8 @@
+## 公告 
+2018 07/31 已经自动清理了大量未使用地图 (过期配置文件 BOSSHIT/翻译/参数/entwatch等).
+如果系统清理有错误 请及时补充.https://github.com/MapTextLang/MapTextLang/blob/master/cleanup.txt 清理日志见.
+
+
 # X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
 
 ### 清理同步缓存 仓库维护内容 一般每月一次
