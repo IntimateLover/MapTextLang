@@ -61,7 +61,7 @@
 	}
 	"#Jump push enable in 30seconds..#"
 	{
-		"chi"		"**在30s后跳跃**"
+		"chi"		"**三十秒后跳跃**"
 		"DoorCountDown"		"-1"
 	}
 	"#Last defend 45 seconds for boss..#"

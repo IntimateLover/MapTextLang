@@ -1,323 +1,369 @@
-"Console_T"
+"BOSSHP"
 {
-	"<< map by 御坂 (Misaka) >>"
+	"32913"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"32913"
+		"m_iname"		"final_plat_disable"
 	}
-	"<< this is the beta version >>"
+	"33046"
 	{
-		"chi"		">>>这是公测版本<<<"
+		"enable"		"0"
+		"hammerid"		"33046"
+		"m_iname"		"zombie_waiting_protect"
 	}
-	"<< teleport will be enabled in 20 seconds >>"
+	"17414"
 	{
-		"chi"		">>>20秒后传送<<<"
+		"enable"		"0"
+		"hammerid"		"17414"
+		"m_iname"		"invisable_way_1"
 	}
-	"<< special thanks to all test player >>"
+	"15957"
 	{
-		"chi"		">>>非常感谢所有的公测玩家<<<"
+		"enable"		"0"
+		"hammerid"		"15957"
+		"m_iname"		"20"
 	}
-	"<< teleport will be enabled in 10 seconds >>"
+	"15965"
 	{
-		"chi"		">>>10秒后传送<<<"
+		"enable"		"0"
+		"hammerid"		"15965"
+		"m_iname"		"21"
 	}
-	"<< human teleported >>"
+	"15976"
 	{
-		"chi"		">>>人类传送了<<<"
+		"enable"		"0"
+		"hammerid"		"15976"
+		"m_iname"		"22"
 	}
-	"<< zombie will be teleported soon >>"
+	"15991"
 	{
-		"chi"		">>>僵尸即将被传送<<<"
+		"enable"		"0"
+		"hammerid"		"15991"
+		"m_iname"		"23"
 	}
-	"<< zombie teleported >>"
+	"16002"
 	{
-		"chi"		">>>僵尸被传送了<<<"
+		"enable"		"0"
+		"hammerid"		"16002"
+		"m_iname"		"24"
 	}
-	"<< the way will be able to pass in 25 seconds >>"
+	"16019"
 	{
-		"chi"		">>>25秒后道路打开<<<"
+		"enable"		"0"
+		"hammerid"		"16019"
+		"m_iname"		"25"
 	}
-	"<< 5 more seconds >>"
+	"16030"
 	{
-		"chi"		">>>倒计时5秒<<<"
+		"enable"		"0"
+		"hammerid"		"16030"
+		"m_iname"		"26"
 	}
-	"<< we need to wait the platform for 25 seconds >>"
+	"15679"
 	{
-		"chi"		">>>25秒后平台下降,等待...<<<"
+		"enable"		"0"
+		"hammerid"		"15679"
+		"m_iname"		"1"
 	}
-	"<< the platform will rise in 15 seconds >>"
+	"15688"
 	{
-		"chi"		">>>15秒后平台上升<<<"
+		"enable"		"0"
+		"hammerid"		"15688"
+		"m_iname"		"2"
 	}
-	"<< the wall will disappear in 30 seconds >>"
+	"15696"
 	{
-		"chi"		">>>30秒后就墙碎<<<"
+		"enable"		"0"
+		"hammerid"		"15696"
+		"m_iname"		"3"
 	}
-	"<< we need to find a way to go on >>"
+	"15705"
 	{
-		"chi"		">>>我们需要找到接下来的路<<<"
+		"enable"		"0"
+		"hammerid"		"15705"
+		"m_iname"		"4"
 	}
-	"<< the front wall will disappear in 15 seconds >>"
+	"15714"
 	{
-		"chi"		">>>15秒后墙碎<<<"
+		"enable"		"0"
+		"hammerid"		"15714"
+		"m_iname"		"5"
 	}
-	"<< we can go inside the room in 20 seconds >>"
+	"15726"
 	{
-		"chi"		">>>坚守20秒<<<"
+		"enable"		"0"
+		"hammerid"		"15726"
+		"m_iname"		"6"
 	}
-	"<< defend for 10 seconds >>"
+	"15735"
 	{
-		"chi"		">>>坚守10秒<<<"
+		"enable"		"0"
+		"hammerid"		"15735"
+		"m_iname"		"7"
 	}
-	"<< defend for 20 seconds >>"
+	"15750"
 	{
-		"chi"		">>>坚守20秒<<<"
+		"enable"		"0"
+		"hammerid"		"15750"
+		"m_iname"		"9"
 	}
-	"<< the platform will move in 15 seconds >>"
+	"15761"
 	{
-		"chi"		">>>15秒后平台启动<<<"
+		"enable"		"0"
+		"hammerid"		"15761"
+		"m_iname"		"8"
 	}
-	"<< 5 seconds to move >>"
+	"15769"
 	{
-		"chi"		">>>倒计时5秒<<<"
+		"enable"		"0"
+		"hammerid"		"15769"
+		"m_iname"		"10"
 	}
-	"<< the platform will move again in 10 seconds >>"
+	"15780"
 	{
-		"chi"		">>>10秒后平台上升<<<"
+		"enable"		"0"
+		"hammerid"		"15780"
+		"m_iname"		"11"
 	}
-	"<< boss fight will begin in 10 seconds >>"
+	"15788"
 	{
-		"chi"		">>>10秒后开启BOSS战<<<"
+		"enable"		"0"
+		"hammerid"		"15788"
+		"m_iname"		"12"
 	}
-	"<< defeat the boss or survive for 120 seconds >>"
+	"15799"
 	{
-		"chi"		">>>120秒内存活或者打死BOSS<<<"
+		"enable"		"0"
+		"hammerid"		"15799"
+		"m_iname"		"13"
 	}
-	"<< Fallen Sky >>"
+	"15807"
 	{
-		"chi"		">>>天坠<<<"
+		"enable"		"0"
+		"hammerid"		"15807"
+		"m_iname"		"14"
 	}
-	"<< Giga Drain >>"
+	"15815"
 	{
-		"chi"		">>>2连吸<<<"
+		"enable"		"0"
+		"hammerid"		"15815"
+		"m_iname"		"15"
 	}
-	"<< Dark Wave >>"
+	"15823"
 	{
-		"chi"		">>>暗黑浪潮<<<"
+		"enable"		"0"
+		"hammerid"		"15823"
+		"m_iname"		"16"
 	}
-	"<< Trials of Sword >>"
+	"15831"
 	{
-		"chi"		">>>剑之审判<<<"
+		"enable"		"0"
+		"hammerid"		"15831"
+		"m_iname"		"17"
 	}
-	"<< boss is defeated >>"
+	"15839"
 	{
-		"chi"		">>>BOSS被打败了<<<"
+		"enable"		"0"
+		"hammerid"		"15839"
+		"m_iname"		"18"
 	}
-	"<< a bridge appears >>"
+	"15847"
 	{
-		"chi"		">>>桥出现了<<<"
+		"enable"		"0"
+		"hammerid"		"15847"
+		"m_iname"		"19"
 	}
-	"<< zombie will release in 12 seconds >>"
+	"9520"
 	{
-		"chi"		">>>12秒开尸笼<<<"
+		"enable"		"0"
+		"hammerid"		"9520"
+		"m_iname"		"final_door"
 	}
-	"<< the glass wall will break in 15 seconds >>"
+	"9536"
 	{
-		"chi"		">>>15秒后玻璃墙碎<<<"
+		"enable"		"0"
+		"hammerid"		"9536"
+		"m_iname"		"final_door_2"
 	}
-	"<< we can reach the top in 50 seconds >>"
+	"8662"
 	{
-		"chi"		">>>防守50秒<<<"
+		"enable"		"0"
+		"hammerid"		"8662"
+		"m_iname"		"final_wall"
 	}
-	"<< the final platform will move in 3 seconds >>"
+	"1938"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1938"
+		"m_iname"		"wall1"
 	}
-	"<< wait ...... something may happen ...... >>"
+	"9712"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"9712"
+		"m_iname"		"pillar_break"
 	}
-	"<< Its Misaka !!! >>"
+	"37155"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"37155"
+		"m_iname"		"boss_block"
 	}
-	"<< dodge the laser !!! >>"
+	"19320"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19320"
+		"m_iname"		"final_bridge"
 	}
-	"<< more laser is coming !!! >>"
+	"11472"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"11472"
+		"m_iname"		"boss_misaka"
 	}
-	"<< up and down !!! >>"
+	"82245"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"82245"
+		"m_iname"		"lv2_win_break"
 	}
-	"<< Congratulation !!! >>"
+	"80550"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"80550"
+		"m_iname"		"lv2_zombie_protect"
 	}
-	"<< You have already beaten this map !!! >>"
+	"80675"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"80675"
+		"m_iname"		"lv2_final_wall"
 	}
-	"<< more level will in the future >>"
+	"74478"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"74478"
+		"m_iname"		"ladder"
 	}
-	"<< Mega Push >>"
+	"74491"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"74491"
+		"m_iname"		"ladder"
 	}
-	"sync_version"
+	"73312"
 	{
-		"syncvalue"		"78716"
+		"enable"		"0"
+		"hammerid"		"73312"
+		"m_iname"		"guard_hp"
 	}
-	"<< map by Misaka >>"
+	"71782"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"71782"
+		"m_iname"		"lv2_middle_door"
 	}
-	"<< special thanks to 93x.net and all test players >>"
+	"71809"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"71809"
+		"m_iname"		"lv2_middle_door"
 	}
-	"<< Stage 1 >>"
+	"70620"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"70620"
+		"m_iname"		"lv2_break_1"
 	}
-	"<< defend for 15 seconds >>"
+	"49628"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"49628"
+		"m_iname"		"lv2_wall_2"
 	}
-	"<< defeat the boss >>"
+	"43973"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"43973"
+		"m_iname"		"lv2_wall_1"
 	}
-	"<< Be Careful! You only have 120 seconds to defeat the boss >>"
+	"89986"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"89986"
+		"m_iname"		"final_bridge"
 	}
-	"<< Stage 1 Complete >>"
+	"77740"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"77740"
+		"m_iname"		"lv2_boss_hp_1"
 	}
-	"<< Stage 2 >>"
+	"77725"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"77725"
+		"m_iname"		"lv2_boss_hp_2"
 	}
-	"<< teleport will enable in 20 seconds >>"
+	"77712"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"77712"
+		"m_iname"		"lv2_boss_hp_3"
 	}
-	"<< zombie will teleport in 10 seconds >>"
+	"77699"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"77699"
+		"m_iname"		"lv2_misaka"
 	}
-	"<< the way will be able to pass in 20 seconds >>"
+	"77926"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"77926"
+		"m_iname"		"hp_break_1"
 	}
-	"<< hold for 25 seconds >>"
+	"77940"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"77940"
+		"m_iname"		"hp_break_2"
 	}
-	"<< the teleport will enable in 30 seconds >>"
+	"77948"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"77948"
+		"m_iname"		"hp_break_3"
 	}
-	"<< zombie will come in 5 seconds >>"
+	"80518"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"80518"
+		"m_iname"		"lv2_final_bridge"
 	}
-	"<< we can go into the tower in 45 seconds >>"
+	"167194"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"167194"
+		"m_iname"		"lv2_final_breakable"
 	}
-	"<< hold for 30 seconds >>"
+	"167208"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"167208"
+		"m_iname"		"lv2_final_breakable"
 	}
-	"<< zombie will teleport in 20 seconds >>"
+	"152478"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"152478"
+		"m_iname"		"lv2_final_break"
 	}
-	"<< the guard will disappear in 30 seconds >>"
+	"152518"
 	{
-		"chi"		"** **"
-	}
-	"<< climb to the top and shooting the guard, so that the teleport can be activated >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Be Careful, only shooting the head of the guard may cause damage >>"
-	{
-		"chi"		"** **"
-	}
-	"<< the ladder is able to climb >>"
-	{
-		"chi"		"** **"
-	}
-	"<< teleport will enable in 40 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"<< So we meet the second time >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Let me see what you can do >>"
-	{
-		"chi"		"** **"
-	}
-	"<< To survive from the laser wall !!! >>"
-	{
-		"chi"		"** **"
-	}
-	"<< zombie will release in 5 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"the guard will disappear in 30 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Be Careful the laser from Misaka!!! >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Stage 2 Complete >>"
-	{
-		"chi"		"** **"
-	}
-	"<< the way will be able to pass in 15 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"<< a player has picked up wall >>"
-	{
-		"chi"		"** **"
-	}
-	"<< a player has picked up wind >>"
-	{
-		"chi"		"** **"
-	}
-	"<< we can go into the tower in 35 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"<< zombie will release in 10 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"<< the guard will disappear in 25 seconds >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Its Misaka Again!!! >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Shooting Misaka >>"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"152518"
+		"m_iname"		"final_misaka"
 	}
 }
