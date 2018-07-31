@@ -5,9 +5,7 @@
 
 # X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
 
-### 清理同步缓存 仓库维护内容 一般每月一次
- 编辑 README.md 在尾部 添加任何无用注释内容 
- 编辑原因填写为 "triggercleanup" 即可清理同步缓存 
+
 
 
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
@@ -107,3 +105,7 @@
 ###无用内容
 //triggercleanup
 
+### 仓库维护 一般每月一次
+ 编辑 README.md 在尾部 添加任何无用注释内容 
+ 编辑原因填写为 "triggercleanup" 即可清理同步缓存 
+ 
