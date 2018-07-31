@@ -1,129 +1,337 @@
-"BOSSHP"
+"Console_T"
 {
-	"118639"
+	"**Map by Headshooter.SC & HaRyDe**"
 	{
-		"enable"		"0"
-		"hammerid"		"118639"
-		"m_iname"		"Hold3_Window"
+		"chi"		"** **"
 	}
-	"118643"
+	"**Port by Shimelar**"
 	{
-		"enable"		"0"
-		"hammerid"		"118643"
-		"m_iname"		"House2_Window"
+		"chi"		"**地图移植：Shimelar**"
 	}
-	"196166"
+	"**WARMUP ROUND**"
 	{
-		"enable"		"0"
-		"hammerid"		"196166"
-		"m_iname"		"Hold2_Break"
+		"chi"		"** **"
 	}
-	"196183"
+	"< Map fixed by Lishang >"
 	{
-		"enable"		"0"
-		"hammerid"		"196183"
-		"m_iname"		"Hold2_Break"
+		"chi"		"** **"
 	}
-	"296017"
+	"**Thanks to Weed-Lancer for tons of grammar errors fix**"
 	{
-		"enable"		"0"
-		"hammerid"		"296017"
-		"m_iname"		"Hold2_Break"
+		"chi"		"**感谢Weed-Lance帮助修正语法错误**"
 	}
-	"362730"
+	"**ZE_FFVII_COSMO_CANYON**"
 	{
-		"enable"		"0"
-		"hammerid"		"362730"
-		"m_iname"		"Cosmo_Bar_Glasses"
+		"chi"		"** **"
 	}
-	"386481"
+	"**A player has picked up BOMB summon**"
 	{
-		"enable"		"0"
-		"hammerid"		"386481"
-		"m_iname"		"lvl3_Break"
+		"chi"		"** **"
 	}
-	"399345"
+	"**NORMAL MODE**"
 	{
-		"enable"		"0"
-		"hammerid"		"399345"
-		"m_iname"		"Hold3_Grate"
+		"chi"		"** **"
 	}
-	"517352"
+	"**Cover here for 5 seconds before we clear this obstacle**"
 	{
-		"enable"		"0"
-		"hammerid"		"517352"
-		"m_iname"		"Rock2"
+		"chi"		"** **"
 	}
-	"641260"
+	"**We are near Cosmo Canyon**"
 	{
-		"enable"		"0"
-		"hammerid"		"641260"
-		"m_iname"		"Rock2"
+		"chi"		"**我们即将到达宇宙峡谷**"
 	}
-	"869251"
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"869251"
-		"m_iname"		"Spawn_Glass"
+		"chi"		"**大门20秒后打开**"
 	}
-	"869254"
+	"**Welcome to Cosmo Canyon**"
 	{
-		"enable"		"0"
-		"hammerid"		"869254"
-		"m_iname"		"Spawn_Glass"
+		"chi"		"**欢迎来到宇宙峡谷**"
 	}
-	"869257"
+	"**A player has picked up HEAL materia**"
 	{
-		"enable"		"0"
-		"hammerid"		"869257"
-		"m_iname"		"Spawn_Glass"
+		"chi"		"**一位玩家拿起了奶**"
 	}
-	"999694"
+	"**The barman will open the door in 5 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"999694"
-		"m_iname"		"Cosmo_Bar_Door"
+		"chi"		"**酒吧大门5秒后打开**"
 	}
-	"2404811"
+	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
-		"enable"		"0"
-		"hammerid"		"2404811"
-		"m_iname"		"Hold4_Break"
+		"chi"		"**在我打开酒吧后门前你们需要守住25秒**"
 	}
-	"2803238"
+	"**5 SECONDS LEFT**"
 	{
-		"enable"		"0"
-		"hammerid"		"2803238"
-		"m_iname"		"Rage_End_Airship_Break"
+		"chi"		"**还剩5秒**"
 	}
-	"200564"
+	"**FALL BACK**"
 	{
-		"enable"		"0"
-		"hammerid"		"200564"
-		"m_iname"		"Hold7_Break"
+		"chi"		"**撤退**"
 	}
-	"1883942"
+	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"1883942"
-		"m_iname"		"Hold5_lvl1_Bridge"
+		"chi"		"** **"
 	}
-	"1883980"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"1883980"
-		"m_iname"		"Hold5_lvl1_Bridge_Plank2"
+		"chi"		"** **"
 	}
-	"1883983"
+	"**The Cave of the GI gates will open in 15 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"1883983"
-		"m_iname"		"Hold5_lvl1_Bridge_Plank1"
+		"chi"		"** **"
+		"DoorCountDown"		"15"
 	}
-	"2769044"
+	"**Wait until something happens**"
 	{
-		"enable"		"0"
-		"hammerid"		"2769044"
-		"m_iname"		"Spawn_Shop_Wall"
+		"chi"		"** **"
+	}
+	"**A player has picked up WIND materia**"
+	{
+		"chi"		"**一位玩家拿起了风**"
+	}
+	"**GI Nattak arena will open in 35 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Nades do more damage. Use them!**"
+	{
+		"chi"		"** **"
+	}
+	"**Some of the items can affect him. Use them!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using poison**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattck is using silence**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using Nova Attack**Get out of middle**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is spawning minions. Watch out for them**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using wind**"
+	{
+		"chi"		"**基纳塔克使用了风-对着平台中间按W**"
+	}
+	"**Gi Nattck is using shield**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using aspil**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up GRAVITY materia**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up EARTH materia**"
+	{
+		"chi"		"**一位玩家拿起了土**"
+	}
+	"**A player has picked up BIO materia**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using gravity**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak has healed 150 hp**"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"-1"
+	}
+	"**Gi Nattak is using fire**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattack is dead**"
+	{
+		"chi"		"** **"
+	}
+	"**Now you can get out of Cave of Gi**"
+	{
+		"chi"		"** **"
+	}
+	"**DOOR OPENS IN 35 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"** **"
+	}
+	"**Get on the rocks and hold 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up SLEEP materia**"
+	{
+		"chi"		"**一位玩家拿起了睡**"
+	}
+	"**A player has picked up ELECTRO materia**"
+	{
+		"chi"		"** **"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"** **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up CACTUAR summon**"
+	{
+		"chi"		"** **"
+	}
+	"**CHEST SIDEQUEST STARTED**"
+	{
+		"chi"		"** **"
+	}
+	"**GET ALL THE GOLDEN CHESTS TO GET ADVANTAGE IN THE END**"
+	{
+		"chi"		"** **"
+	}
+	"**The rock will explode in 25 seconds**"
+	{
+		"chi"		"**岩石25秒后爆炸**"
+	}
+	"**The detonator seems to be broken**Go another way**"
+	{
+		"chi"		"** **"
+	}
+	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
+	{
+		"chi"		"**极限模式已通过-准备迎接你们的命运**"
+	}
+	"**RAGE MODE**"
+	{
+		"chi"		"**狂暴模式**"
+	}
+	"**Cover here for 10 seconds before we clear this obstacle**"
+	{
+		"chi"		"**我将在10秒后清除障碍**"
+	}
+	"**The airship to Shinra will arrive in 25 seconds**"
+	{
+		"chi"		"**飞船将在25秒后来接我们**"
+	}
+	"**The airship is right here...**"
+	{
+		"chi"		"**飞船来了...**"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	"**Wait 5 more seconds**"
+	{
+		"chi"		"**等待5秒**"
+	}
+	"**Shinra gates will open in 20 seconds**"
+	{
+		"chi"		"**基地大门20秒后打开**"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"**电梯15秒后离开**"
+	}
+	"**Ifrit is defeated. Get back in the elevator**"
+	{
+		"chi"		"**火之圣兽已击败-返回电梯**"
+	}
+	"**The power is lost. Defend until the emergency generators are on**"
+	{
+		"chi"		"**电源好像被破坏了-守到备用发电机启动**"
+	}
+	"**We got the power. The gates will open in 15 seconds**"
+	{
+		"chi"		"**发电机已启动-守住15秒**"
+	}
+	"** Nades do more damage. **"
+	{
+		"chi"		"**手雷能造成更多伤害**"
+	}
+	"**You have beaten Cosmo Canyon!! Congratulations !! **"
+	{
+		"chi"		"**你已经通关宇宙峡谷-恭喜你**"
+	}
+	"**ZM MODE**"
+	{
+		"chi"		"**僵尸感染**"
+	}
+	"**The map is beaten. Find your place and defend it**"
+	{
+		"chi"		"**你已经通关宇宙峡谷-现在找到一个地方防守**"
+	}
+	"**Teleporting humans to the Observatory**"
+	{
+		"chi"		"**传送所有人类至天文台**"
+	}
+	"**Defend here for 15 seconds before the platform leaves**"
+	{
+		"chi"		"**守住15秒-直到平台上升**"
+	}
+	"**The platform is leaving**"
+	{
+		"chi"		"**平台已上升**"
+	}
+	"**WINNERS GONNA CHANGE NEXT STAGE**"
+	{
+		"chi"		"**胜利者将具有选择下一回合难度的权利**"
+	}
+	"**THE WINNERS HAD SELECTED THE MODE**"
+	{
+		"chi"		"**胜利者已选择下一难度**"
+	}
+	"**A player has picked up FIRE materia**"
+	{
+		"chi"		"**一位玩家拿起了火**"
+	}
+	"**2 MINUTES LEFT!**"
+	{
+		"chi"		"**还剩2分钟**"
+	}
+	"**1 MINUTES LEFT!**"
+	{
+		"chi"		"**还剩1分钟**"
+	}
+	"**30 SECONDS LEFT!**"
+	{
+		"chi"		"**还剩30秒**"
+	}
+	"**15 SECONDS LEFT!**"
+	{
+		"chi"		"**还剩15秒**"
+	}
+	"**GI NATTAK USES LAVA SUPERATTACK**"
+	{
+		"chi"		"**基纳塔克使用了熔岩上升**"
+	}
+	"**Get on the rocks to get saved!!!**"
+	{
+		"chi"		"**快跑到突起的石头上保命**"
 	}
 }

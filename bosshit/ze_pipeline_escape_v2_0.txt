@@ -1,423 +1,59 @@
-"BOSSHP"
+"Console_T"
 {
-	"878918"
+	"**English translations : GUC admin WILD  **"
 	{
-		"enable"		"0"
-		"hammerid"		"878918"
-		"m_iname"		"breakxxx"
+		"chi"		"** **"
 	}
-	"845203"
+	"**stage1**"
 	{
-		"enable"		"0"
-		"hammerid"		"845203"
-		"m_iname"		"laser_break1"
+		"chi"		"** **"
 	}
-	"845228"
+	"**map by:一条会翻身的鱼**"
 	{
-		"enable"		"0"
-		"hammerid"		"845228"
-		"m_iname"		"laser_break2"
+		"chi"		"** **"
 	}
-	"845252"
+	"**非常感谢:酸奶**"
 	{
-		"enable"		"0"
-		"hammerid"		"845252"
-		"m_iname"		"laser_break3"
+		"chi"		"** **"
 	}
-	"845273"
+	"the door will open in 15s"
 	{
-		"enable"		"0"
-		"hammerid"		"845273"
-		"m_iname"		"laser_break4"
+		"chi"		"** **"
 	}
-	"845288"
+	"**wall break 10s**"
 	{
-		"enable"		"0"
-		"hammerid"		"845288"
-		"m_iname"		"laser_break5"
+		"chi"		"** **"
 	}
-	"845315"
+	"the door will open in 30s"
 	{
-		"enable"		"0"
-		"hammerid"		"845315"
-		"m_iname"		"laser_break6"
+		"chi"		"** **"
 	}
-	"845354"
+	"The elevator starts in 20 seconds."
 	{
-		"enable"		"0"
-		"hammerid"		"845354"
-		"m_iname"		"laser_break7"
+		"chi"		"** **"
 	}
-	"845380"
+	"**a player pick up sb elite**"
 	{
-		"enable"		"0"
-		"hammerid"		"845380"
-		"m_iname"		"laser_break8"
+		"chi"		"** **"
 	}
-	"845406"
+	"**a player pick up ice**"
 	{
-		"enable"		"0"
-		"hammerid"		"845406"
-		"m_iname"		"laser_break9"
+		"chi"		"** **"
 	}
-	"845424"
+	"Go to another elevator."
 	{
-		"enable"		"0"
-		"hammerid"		"845424"
-		"m_iname"		"laser_break10"
+		"chi"		"** **"
 	}
-	"804868"
+	"holy on elevator star in 10s"
 	{
-		"enable"		"0"
-		"hammerid"		"804868"
-		"m_iname"		"wall1-5"
+		"chi"		"** **"
 	}
-	"804944"
+	"**Press the button to start elevator**"
 	{
-		"enable"		"0"
-		"hammerid"		"804944"
-		"m_iname"		"wall1-6"
+		"chi"		"** **"
 	}
-	"804950"
+	"**GET BACK TO THE ELEVATOR FAST !!!! Starts in 30S**"
 	{
-		"enable"		"0"
-		"hammerid"		"804950"
-		"m_iname"		"wall1-7"
-	}
-	"801146"
-	{
-		"enable"		"0"
-		"hammerid"		"801146"
-		"m_iname"		"zmbreak1-1"
-	}
-	"781048"
-	{
-		"enable"		"0"
-		"hammerid"		"781048"
-		"m_iname"		"zmbreak1-6"
-	}
-	"762899"
-	{
-		"enable"		"0"
-		"hammerid"		"762899"
-		"m_iname"		"diantiwall"
-	}
-	"762915"
-	{
-		"enable"		"0"
-		"hammerid"		"762915"
-		"m_iname"		"diantiwall"
-	}
-	"776305"
-	{
-		"enable"		"0"
-		"hammerid"		"776305"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776330"
-	{
-		"enable"		"0"
-		"hammerid"		"776330"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776342"
-	{
-		"enable"		"0"
-		"hammerid"		"776342"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776354"
-	{
-		"enable"		"0"
-		"hammerid"		"776354"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776363"
-	{
-		"enable"		"0"
-		"hammerid"		"776363"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776381"
-	{
-		"enable"		"0"
-		"hammerid"		"776381"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776390"
-	{
-		"enable"		"0"
-		"hammerid"		"776390"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776396"
-	{
-		"enable"		"0"
-		"hammerid"		"776396"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776408"
-	{
-		"enable"		"0"
-		"hammerid"		"776408"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776414"
-	{
-		"enable"		"0"
-		"hammerid"		"776414"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776420"
-	{
-		"enable"		"0"
-		"hammerid"		"776420"
-		"m_iname"		"zmbreak1-1"
-	}
-	"776438"
-	{
-		"enable"		"0"
-		"hammerid"		"776438"
-		"m_iname"		"zmbreak1-4"
-	}
-	"776571"
-	{
-		"enable"		"0"
-		"hammerid"		"776571"
-		"m_iname"		"zmbreak1-2"
-	}
-	"776588"
-	{
-		"enable"		"0"
-		"hammerid"		"776588"
-		"m_iname"		"zmbreak1-5"
-	}
-	"776841"
-	{
-		"enable"		"0"
-		"hammerid"		"776841"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776944"
-	{
-		"enable"		"0"
-		"hammerid"		"776944"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776953"
-	{
-		"enable"		"0"
-		"hammerid"		"776953"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776959"
-	{
-		"enable"		"0"
-		"hammerid"		"776959"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776965"
-	{
-		"enable"		"0"
-		"hammerid"		"776965"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776977"
-	{
-		"enable"		"0"
-		"hammerid"		"776977"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776986"
-	{
-		"enable"		"0"
-		"hammerid"		"776986"
-		"m_iname"		"zmbreak1-3"
-	}
-	"776992"
-	{
-		"enable"		"0"
-		"hammerid"		"776992"
-		"m_iname"		"zmbreak1-3"
-	}
-	"758949"
-	{
-		"enable"		"0"
-		"hammerid"		"758949"
-		"m_iname"		"diantiwall"
-	}
-	"759752"
-	{
-		"enable"		"0"
-		"hammerid"		"759752"
-		"m_iname"		"wall1xx"
-	}
-	"734834"
-	{
-		"enable"		"0"
-		"hammerid"		"734834"
-		"m_iname"		"lv2break2-2"
-	}
-	"735025"
-	{
-		"enable"		"0"
-		"hammerid"		"735025"
-		"m_iname"		"lv2toggle1-2"
-	}
-	"732854"
-	{
-		"enable"		"0"
-		"hammerid"		"732854"
-		"m_iname"		"lv2break1-1"
-	}
-	"732914"
-	{
-		"enable"		"0"
-		"hammerid"		"732914"
-		"m_iname"		"lv2break1-2"
-	}
-	"732934"
-	{
-		"enable"		"0"
-		"hammerid"		"732934"
-		"m_iname"		"lv2break1-3"
-	}
-	"732973"
-	{
-		"enable"		"0"
-		"hammerid"		"732973"
-		"m_iname"		"lv2break1-4"
-	}
-	"733050"
-	{
-		"enable"		"0"
-		"hammerid"		"733050"
-		"m_iname"		"lv2break1-5"
-	}
-	"733103"
-	{
-		"enable"		"0"
-		"hammerid"		"733103"
-		"m_iname"		"lv2break1-7"
-	}
-	"733106"
-	{
-		"enable"		"0"
-		"hammerid"		"733106"
-		"m_iname"		"lv2break1-6"
-	}
-	"733382"
-	{
-		"enable"		"0"
-		"hammerid"		"733382"
-		"m_iname"		"lv2break2-1"
-	}
-	"552920"
-	{
-		"enable"		"0"
-		"hammerid"		"552920"
-		"m_iname"		"lv2break2-3"
-	}
-	"498500"
-	{
-		"enable"		"0"
-		"hammerid"		"498500"
-		"m_iname"		"wall2-1"
-	}
-	"498600"
-	{
-		"enable"		"0"
-		"hammerid"		"498600"
-		"m_iname"		"wall7"
-	}
-	"498645"
-	{
-		"enable"		"0"
-		"hammerid"		"498645"
-		"m_iname"		"wall2-2"
-	}
-	"498698"
-	{
-		"enable"		"0"
-		"hammerid"		"498698"
-		"m_iname"		"wall1-1"
-	}
-	"498728"
-	{
-		"enable"		"0"
-		"hammerid"		"498728"
-		"m_iname"		"wall1-2"
-	}
-	"498767"
-	{
-		"enable"		"0"
-		"hammerid"		"498767"
-		"m_iname"		"wall1-3"
-	}
-	"498806"
-	{
-		"enable"		"0"
-		"hammerid"		"498806"
-		"m_iname"		"wall1-4"
-	}
-	"486809"
-	{
-		"enable"		"0"
-		"hammerid"		"486809"
-		"m_iname"		"wall4-1"
-	}
-	"488893"
-	{
-		"enable"		"0"
-		"hammerid"		"488893"
-		"m_iname"		"break3"
-	}
-	"482624"
-	{
-		"enable"		"0"
-		"hammerid"		"482624"
-		"m_iname"		"break1"
-	}
-	"482638"
-	{
-		"enable"		"0"
-		"hammerid"		"482638"
-		"m_iname"		"break2"
-	}
-	"477644"
-	{
-		"enable"		"0"
-		"hammerid"		"477644"
-		"m_iname"		"wallxx"
-	}
-	"478399"
-	{
-		"enable"		"0"
-		"hammerid"		"478399"
-		"m_iname"		"wallxxx"
-	}
-	"473779"
-	{
-		"enable"		"0"
-		"hammerid"		"473779"
-		"m_iname"		"wall8"
-	}
-	"467352"
-	{
-		"enable"		"0"
-		"hammerid"		"467352"
-		"m_iname"		"wall1"
-	}
-	"48449"
-	{
-		"enable"		"0"
-		"hammerid"		"48449"
-		"m_iname"		"lv2break0-1"
-	}
-	"48468"
-	{
-		"enable"		"0"
-		"hammerid"		"48468"
-		"m_iname"		"lv2break0-1"
+		"chi"		"** **"
 	}
 }

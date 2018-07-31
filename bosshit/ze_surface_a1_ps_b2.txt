@@ -1,33 +1,85 @@
-"BOSSHP"
+"Console_T"
 {
-	"13940"
+	"Map by user1.1"
 	{
-		"enable"		"0"
-		"hammerid"		"13940"
-		"m_iname"		"breack_zm_1"
+		"chi"		"**地图制作：user1.1 地图翻译：蓬莱山帅比♪ **"
 	}
-	"37749"
+	"Objectif !"
 	{
-		"enable"		"0"
-		"hammerid"		"37749"
-		"m_iname"		"break_elevator_2"
+		"chi"		"**目标 **"
 	}
-	"46806"
+	"Find your way and reach the surface !!"
 	{
-		"enable"		"0"
-		"hammerid"		"46806"
-		"m_iname"		"breack_way_2"
+		"chi"		"**找到去往地面的路 **"
 	}
-	"90050"
+	"Elevator will start in 25 seconds !!"
 	{
-		"enable"		"0"
-		"hammerid"		"90050"
-		"m_iname"		"breack_train_1"
+		"chi"		"**电梯25秒后启动 **"
+		"DoorCountDown" "25"
 	}
-	"94906"
+	"Elevator will start in 5 seconds !"
 	{
-		"enable"		"0"
-		"hammerid"		"94906"
-		"m_iname"		"breack_train_2"
+		"chi"		"**电梯5秒后启动 **"
+	}
+	"Door will open in 35 seconds !!"
+	{
+		"chi"		"**大门35秒后打开 **"
+		"DoorCountDown" "35"
+	}
+	"Door will open in 10 seconds !!"
+	{
+		"chi"		"**大门10秒后打开 **"
+	}
+	"Door will open in 15 seconds !"
+	{
+		"chi"		"**大门15秒后打开 **"
+	}
+	"Door will open in 5 seconds !!"
+	{
+		"chi"		"**大门5秒后打开 **"
+	}
+	"Elevator will start in 45 seconds !!"
+	{
+		"chi"		"**电梯45秒后启动 **"
+		"DoorCountDown" "45"
+	}
+	"Elevator will start in 15 seconds !"
+	{
+		"chi"		"**电梯15秒后启动 **"
+	}
+	"Door will open in 25 seconds !"
+	{
+		"chi"		"**大门25秒后打开 **"
+		"DoorCountDown" "25"
+	}
+	"Door will open in 20 seconds !"
+	{
+		"chi"		"**大门20秒后打开 **"
+	}
+	"A path will open in 15 seconds !"
+	{
+		"chi"		"**道路15秒后开启 **"
+	}
+	"Zm will teleport in 5 seconds !!!"
+	{
+		"chi"		"**僵尸5秒后传送 **"
+	}
+	"Train will start in 40 seconds !"
+	{
+		"chi"		"**火车40秒后启动 **"
+		"DoorCountDown" "40"
+	}
+	"Train will start in 10 seconds !!"
+	{
+		"chi"		"**火车10秒后启动 **"
+	}
+	"Elevator will start in 40 seconds !"
+	{
+		"chi"		"**电梯40秒后启动 **"
+		"DoorCountDown" "40"
+	}
+	"Elevator will start in 10 seconds !"
+	{
+		"chi"		"**电梯10秒后启动 **"
 	}
 }

@@ -1,51 +1,51 @@
-"BOSSHP"
+"Console_T"
 {
-	"349198"
+	"** Ape Escape : Pumped & Primed **"
 	{
-		"enable"		"0"
-		"hammerid"		"349198"
-		"m_iname"		"Wall1_1"
+		"chi"		"** **"
 	}
-	"349240"
+	"** Nano Grid2 12 **"
 	{
-		"enable"		"0"
-		"hammerid"		"349240"
-		"m_iname"		"Wall1_2"
+		"chi"		"** **"
 	}
-	"349279"
+	"** Map by ryo **"
 	{
-		"enable"		"0"
-		"hammerid"		"349279"
-		"m_iname"		"Wall1_3"
+		"chi"		"** **"
 	}
-	"349321"
+	"** 10 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"349321"
-		"m_iname"		"Wall1_4"
+		"chi"		"** **"
 	}
-	"350300"
+	"** 25 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"350300"
-		"m_iname"		"Gear_Glass"
+		"chi"		"** **"
 	}
-	"331813"
+	"** 5 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"331813"
-		"m_iname"		"Gear_Dmg"
+		"chi"		"** **"
 	}
-	"173711"
+	"** 15 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"173711"
-		"m_iname"		"Breakable"
+		"chi"		"** **"
 	}
-	"359397"
+	"** 20 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"359397"
-		"m_iname"		"DoubleJump_phys&6081"
+		"chi"		"** **"
+	}
+	"** 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Nano Grid2 22 **"
+	{
+		"chi"		"** **"
+	}
+	"** 45 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMANS WIN **"
+	{
+		"chi"		"** **"
 	}
 }

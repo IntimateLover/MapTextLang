@@ -1,453 +1,149 @@
-"BOSSHP"
+"Console_T"
 {
-	"591130"
+	"** MAP BY Limon. [Russian] **"
 	{
-		"enable"		"0"
-		"hammerid"		"591130"
-		"m_iname"		"brushbast"
+		"chi"		"**地图制作：Limon [Russian] 地图翻译：IntimateLover**"
 	}
-	"591163"
+	"**Your mission: dont let zombies capture all city**"
 	{
-		"enable"		"0"
-		"hammerid"		"591163"
-		"m_iname"		"brushbast2"
+		"chi"		"**你的任务：不要让僵尸占领城市 **"
 	}
-	"369277"
+	"**Welcome to Minas Tirith - City of Kings**"
 	{
-		"enable"		"0"
-		"hammerid"		"369277"
-		"m_iname"		"j2"
+		"chi"		"**欢迎来到米纳斯提力斯-城市之王 **"
 	}
-	"369287"
+	"**Gate will open in 35 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"369287"
-		"m_iname"		"j5"
+		"chi"		"**大门将在35秒后打开 **"
+		"DoorCountDown"		"35"
 	}
-	"369297"
+	"**The Gate will open in 5 seconds!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369297"
-		"m_iname"		"j3"
+		"chi"		"**大门将在5秒后打开！ **"
 	}
-	"369300"
+	"**Gate is now open!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369300"
-		"m_iname"		"j1"
+		"chi"		"**门开了！ **"
 	}
-	"369303"
+	"**You must reach the palace on a next tier**"
 	{
-		"enable"		"0"
-		"hammerid"		"369303"
-		"m_iname"		"f1"
+		"chi"		"**你必须到达宫殿下一层 **"
 	}
-	"369306"
+	"**Gates opening in 30 seconds!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369306"
-		"m_iname"		"f5"
+		"chi"		"**门在30秒后打开！ **"
+		"DoorCountDown"		"30"
 	}
-	"369319"
+	"**Gates opening!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369319"
-		"m_iname"		"f2"
+		"chi"		"**门开了！ **"
 	}
-	"369322"
+	"**Resist 45s!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369322"
-		"m_iname"		"f4"
+		"chi"		"**防守45秒！ **"
+		"DoorCountDown"		"45"
 	}
-	"369330"
+	"**The ring has been picked!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369330"
-		"m_iname"		"f3"
+		"chi"		"**魔戒已被拿起！ **"
 	}
-	"369333"
+	"***RUUUN***"
 	{
-		"enable"		"0"
-		"hammerid"		"369333"
-		"m_iname"		"j4"
+		"chi"		"**跑！！ **"
 	}
-	"369336"
+	"**RUUUN**"
 	{
-		"enable"		"0"
-		"hammerid"		"369336"
-		"m_iname"		"f7"
+		"chi"		"**跑！！ **"
 	}
-	"369346"
+	"*RUUUN*"
 	{
-		"enable"		"0"
-		"hammerid"		"369346"
-		"m_iname"		"f6"
+		"chi"		"**跑！！ **"
 	}
-	"369355"
+	"**Gate up ahead appears closed! Defend until we can break it down.**"
 	{
-		"enable"		"0"
-		"hammerid"		"369355"
-		"m_iname"		"j8"
+		"chi"		"**正前方的门是关的！守住！直到我们把它打开！ **"
 	}
-	"369364"
+	"**Well get the gate open soon! Gate will be destroyed in 30 seconds!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369364"
-		"m_iname"		"j7"
+		"chi"		"**很快大门就会打开！大门将在30秒后被摧毁！ **"
+		"DoorCountDown"		"30"
 	}
-	"369374"
+	"**Gandalf staff has been picked!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369374"
-		"m_iname"		"8"
+		"chi"		"**甘道夫法杖已被拾取**"
 	}
-	"369389"
+	"**RUN TO THE TOP!!!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369389"
-		"m_iname"		"3"
+		"chi"		"**跑到最上面！！！ **"
 	}
-	"369392"
+	"**Another gate is closed ahead! This one isnt sturdy...**"
 	{
-		"enable"		"0"
-		"hammerid"		"369392"
-		"m_iname"		"9"
+		"chi"		"**另一个大门是关闭的！这边一个不坚固… **"
 	}
-	"369402"
+	"**SHOOT IT DOWN!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369402"
-		"m_iname"		"2"
+		"chi"		"**把它打掉！ **"
 	}
-	"369405"
+	"**Gate in throne-room opens in 90 seconds!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369405"
-		"m_iname"		"1"
+		"chi"		"**大殿的大门在90秒后打开！ **"
+		"DoorCountDown"		"90"
 	}
-	"369408"
+	"**Impact will arrive soon**"
 	{
-		"enable"		"0"
-		"hammerid"		"369408"
-		"m_iname"		"4"
+		"chi"		"**核弹就快要发射了 **"
 	}
-	"369411"
+	"**The GATE OPEN in 5s!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369411"
-		"m_iname"		"bo5"
+		"chi"		"**门将在5秒后打开！ **"
 	}
-	"369414"
+	"**Gate is opened!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369414"
-		"m_iname"		"6"
+		"chi"		"**门开了 **"
 	}
-	"369417"
+	"**Door closes in 15 seconds!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369417"
-		"m_iname"		"10"
+		"chi"		"**门将在15秒后关闭！ **"
+		"DoorCountDown"		"15"
 	}
-	"369430"
+	"***MAP BY Limon. [Russian]***"
 	{
-		"enable"		"0"
-		"hammerid"		"369430"
-		"m_iname"		"bo2"
+		"chi"		"**地图制作：Limon. [Russian] 地图翻译：蓬莱山帅比♪**"
 	}
-	"369433"
+	"**Thanks for materials and ideas to Hannibal [SPA] (Rafuron)**"
 	{
-		"enable"		"0"
-		"hammerid"		"369433"
-		"m_iname"		"bo3"
+		"chi"		"**特别感谢Hannibal [SPA] (Rafuron)提供的材料和想法 **"
 	}
-	"369436"
+	"**Explosion in 5 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"369436"
-		"m_iname"		"bo4"
+		"chi"		"**5秒后爆炸 **"
 	}
-	"369439"
+	"**4 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"369439"
-		"m_iname"		"boo7"
+		"chi"		"** **"
 	}
-	"369442"
+	"**3 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"369442"
-		"m_iname"		"bo5"
+		"chi"		"** **"
 	}
-	"369445"
+	"**2 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"369445"
-		"m_iname"		"bo6"
+		"chi"		"** **"
 	}
-	"369448"
+	"**1 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"369448"
-		"m_iname"		"bo1"
+		"chi"		"** **"
 	}
-	"369451"
+	"**!EXPLOSION!**"
 	{
-		"enable"		"0"
-		"hammerid"		"369451"
-		"m_iname"		"bo8"
+		"chi"		"**爆炸！ **"
 	}
-	"373296"
+	"**The tower is destroyed**"
 	{
-		"enable"		"0"
-		"hammerid"		"373296"
-		"m_iname"		"M1"
+		"chi"		"**这座塔被摧毁了 **"
 	}
-	"373302"
+	"**Map by Limon.**"
 	{
-		"enable"		"0"
-		"hammerid"		"373302"
-		"m_iname"		"M2"
-	}
-	"373308"
-	{
-		"enable"		"0"
-		"hammerid"		"373308"
-		"m_iname"		"M3"
-	}
-	"373318"
-	{
-		"enable"		"0"
-		"hammerid"		"373318"
-		"m_iname"		"M4"
-	}
-	"373376"
-	{
-		"enable"		"0"
-		"hammerid"		"373376"
-		"m_iname"		"M5"
-	}
-	"373404"
-	{
-		"enable"		"0"
-		"hammerid"		"373404"
-		"m_iname"		"M6"
-	}
-	"373421"
-	{
-		"enable"		"0"
-		"hammerid"		"373421"
-		"m_iname"		"bo1"
-	}
-	"606092"
-	{
-		"enable"		"0"
-		"hammerid"		"606092"
-		"m_iname"		"Hold"
-	}
-	"606177"
-	{
-		"enable"		"0"
-		"hammerid"		"606177"
-		"m_iname"		"Hold2"
-	}
-	"599111"
-	{
-		"enable"		"0"
-		"hammerid"		"599111"
-		"m_iname"		"SpawnDoor"
-	}
-	"511502"
-	{
-		"enable"		"0"
-		"hammerid"		"511502"
-		"m_iname"		"break1"
-	}
-	"511528"
-	{
-		"enable"		"0"
-		"hammerid"		"511528"
-		"m_iname"		"break1"
-	}
-	"3339"
-	{
-		"enable"		"0"
-		"hammerid"		"3339"
-		"m_iname"		"door2"
-	}
-	"327259"
-	{
-		"enable"		"0"
-		"hammerid"		"327259"
-		"m_iname"		"SpawnDoor"
-	}
-	"327262"
-	{
-		"enable"		"0"
-		"hammerid"		"327262"
-		"m_iname"		"SpawnDoor"
-	}
-	"327265"
-	{
-		"enable"		"0"
-		"hammerid"		"327265"
-		"m_iname"		"SpawnDoor"
-	}
-	"327268"
-	{
-		"enable"		"0"
-		"hammerid"		"327268"
-		"m_iname"		"SpawnDoor"
-	}
-	"327271"
-	{
-		"enable"		"0"
-		"hammerid"		"327271"
-		"m_iname"		"SpawnDoor"
-	}
-	"327274"
-	{
-		"enable"		"0"
-		"hammerid"		"327274"
-		"m_iname"		"SpawnDoor"
-	}
-	"327277"
-	{
-		"enable"		"0"
-		"hammerid"		"327277"
-		"m_iname"		"SpawnDoor"
-	}
-	"327280"
-	{
-		"enable"		"0"
-		"hammerid"		"327280"
-		"m_iname"		"SpawnDoor"
-	}
-	"327283"
-	{
-		"enable"		"0"
-		"hammerid"		"327283"
-		"m_iname"		"SpawnDoor"
-	}
-	"327286"
-	{
-		"enable"		"0"
-		"hammerid"		"327286"
-		"m_iname"		"SpawnDoor"
-	}
-	"327292"
-	{
-		"enable"		"0"
-		"hammerid"		"327292"
-		"m_iname"		"SpawnDoor"
-	}
-	"327295"
-	{
-		"enable"		"0"
-		"hammerid"		"327295"
-		"m_iname"		"SpawnDoor"
-	}
-	"327298"
-	{
-		"enable"		"0"
-		"hammerid"		"327298"
-		"m_iname"		"SpawnDoor"
-	}
-	"327301"
-	{
-		"enable"		"0"
-		"hammerid"		"327301"
-		"m_iname"		"SpawnDoor"
-	}
-	"327304"
-	{
-		"enable"		"0"
-		"hammerid"		"327304"
-		"m_iname"		"SpawnDoor"
-	}
-	"327307"
-	{
-		"enable"		"0"
-		"hammerid"		"327307"
-		"m_iname"		"SpawnDoor"
-	}
-	"327310"
-	{
-		"enable"		"0"
-		"hammerid"		"327310"
-		"m_iname"		"SpawnDoor"
-	}
-	"327313"
-	{
-		"enable"		"0"
-		"hammerid"		"327313"
-		"m_iname"		"SpawnDoor"
-	}
-	"327316"
-	{
-		"enable"		"0"
-		"hammerid"		"327316"
-		"m_iname"		"SpawnDoor"
-	}
-	"327319"
-	{
-		"enable"		"0"
-		"hammerid"		"327319"
-		"m_iname"		"SpawnDoor"
-	}
-	"327322"
-	{
-		"enable"		"0"
-		"hammerid"		"327322"
-		"m_iname"		"SpawnDoor"
-	}
-	"327325"
-	{
-		"enable"		"0"
-		"hammerid"		"327325"
-		"m_iname"		"SpawnDoor"
-	}
-	"327331"
-	{
-		"enable"		"0"
-		"hammerid"		"327331"
-		"m_iname"		"SpawnDoor"
-	}
-	"362118"
-	{
-		"enable"		"0"
-		"hammerid"		"362118"
-		"m_iname"		"break444"
-	}
-	"369188"
-	{
-		"enable"		"0"
-		"hammerid"		"369188"
-		"m_iname"		"tower4"
-	}
-	"369240"
-	{
-		"enable"		"0"
-		"hammerid"		"369240"
-		"m_iname"		"tower3"
-	}
-	"373953"
-	{
-		"enable"		"0"
-		"hammerid"		"373953"
-		"m_iname"		"box2"
-	}
-	"396940"
-	{
-		"enable"		"0"
-		"hammerid"		"396940"
-		"m_iname"		"box33"
-	}
-	"18300"
-	{
-		"enable"		"0"
-		"hammerid"		"18300"
-		"m_iname"		"EndBreak"
+		"chi"		"** **"
 	}
 }

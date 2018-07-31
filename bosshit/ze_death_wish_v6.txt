@@ -1,39 +1,78 @@
-"BOSSHP"
+"Console_T"
 {
-	"126365"
+	"<< key card is fixed !!! >>"
 	{
-		"enable"		"0"
-		"hammerid"		"126365"
-		"m_iname"		"wood_br_1"
+		"chi"		"** 钥匙卡已固定 请按下 **"
 	}
-	"122585"
+	"<< fence will open in few seconds >>"
 	{
-		"enable"		"0"
-		"hammerid"		"122585"
-		"m_iname"		"wb_2"
+		"chi"		"** 栅栏将在几秒钟内打开 **"
 	}
-	"118419"
+	"<< fend off zombies !!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"118419"
-		"m_iname"		"door1"
+		"chi"		"** 抵御僵尸！ **"
 	}
-	"118472"
+	"<< fence will open in 5 seconds >>"
 	{
-		"enable"		"0"
-		"hammerid"		"118472"
-		"m_iname"		"bw_1b"
+		"chi"		"** 栅栏将在 5秒 后打开 请注意撤退 **"
+		"DoorCountdown"		"5"
 	}
-	"114508"
+	"<< Door wiill open soon >>"
 	{
-		"enable"		"0"
-		"hammerid"		"114508"
-		"m_iname"		"bw_1"
+		"chi"		"** 大门还有很久开放 **"
 	}
-	"54292"
+	"<< defend against the horde >>"
 	{
-		"enable"		"0"
-		"hammerid"		"54292"
-		"m_iname"		"way_block1"
+		"chi"		"** 请抵御僵尸 **"
+	}
+	"<< Door is open >>"
+	{
+		"chi"		"** 大门已开 **"
+	}
+	"<< Fall Back !! >>"
+	{
+		"chi"		"** 丢雷撤退 别恋战 **"
+	}
+	"<< defend until teleport is ready >>>"
+	{
+		"chi"		"** 请坚守到传送门开启 **"
+	}
+	"< 5 seconds to escape >>"
+	{
+		"chi"		"** 传送门将于 5秒 后开启 加油！~ **"
+		"DoorCountdown"		"5"
+	}
+	"<< access to highway in few seconds >>"
+	{
+		"chi"		"** 高速公路 集装箱 将在不久后消失 **"
+	}
+	"<< defend this spot >>"
+	{
+		"chi"		"** 请抵御僵尸 听从老司机安排 **"
+	}
+	"<< nuke has been launched !!! >>>"
+	{
+		"chi"		"** GTX690 战术核显卡 已经开启 **"
+	}
+	"<< defend till !!! >>"
+	{
+		"chi"		"** 请抵御僵尸 坚持到瞬间爆炸 **"
+	}
+	"<< you will be safe in 5 seconds !!! >>"
+	{
+		"chi"		"** GTX690 战术核显卡 将在5秒后 瞬间爆炸 **"
+	}
+	"<< Map made by Lup4n` >>"
+	{
+		"chi"		"** 地图作者：Lup4n` 翻译：肉丸 **"
+	}
+	"<< 5 seconds to escape >>"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"5"
+	}
+	"<< nuke has been launched !!! >>"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,393 +1,812 @@
-"BOSSHP"
+"Console_T"
 {
-	"284158"
+	"### MAP CREATED BY '' NARAKA (A.K.A SHIKA) '' ###"
 	{
-		"enable"		"0"
-		"hammerid"		"284158"
-		"m_iname"		"nrk2_scary_break"
+		"chi"		"**作者 NARAKA (A.K.A SHIKA) 翻译 BAKA_Miku **"
 	}
-	"226551"
+	"### WELCOME TO CRAZY ESCAPE ###"
 	{
-		"enable"		"1"
-		"hammerid"		"226551"
-		"m_iname"		"naraka_hitbox"
+		"chi"		"**欢迎来到疯狂逃跑 **"
 	}
-	"227302"
+	"### HUMAN WILL BE TELEPORT IN 20 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"227302"
-		"m_iname"		"CY01Physic"
+		"chi"		"**人类将在20秒后传送 **"
+		"DoorCountDown"		"20"
 	}
-	"227392"
+	"### 10 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"227392"
-		"m_iname"		"nrk2_naraka_box"
+		"chi"		"**还有10秒 **"
 	}
-	"224192"
+	"### HIDE AND HOLD FOR 1:15 MINUTE ###"
 	{
-		"enable"		"0"
-		"hammerid"		"224192"
-		"m_iname"		"nrk2_crosses_breakable"
+		"chi"		"**防守这里1:15分钟 **"
+		"DoorCountDown"		"75"
 	}
-	"222085"
+	"### THE GREEN LIGHT ZONES ARE THE MOST SAFEST PLACE ###"
 	{
-		"enable"		"0"
-		"hammerid"		"222085"
-		"m_iname"		"nrk2_room5_gate"
+		"chi"		"** 绿灯亮起的地方是最安全的地方**"
 	}
-	"218994"
+	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"218994"
-		"m_iname"		"nrk2_room2_breakable_tr"
+		"chi"		"**僵尸将在30秒后传送 **"
+		"DoorCountDown"		"30"
 	}
-	"219005"
+	"### 5 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219005"
-		"m_iname"		"nrk2_room2_breakable_cts"
+		"chi"		"**还有5秒 **"
 	}
-	"219089"
+	"### ZOMBIES ARRIVED !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219089"
-		"m_iname"		"nrk2_room2_breakable_door"
+		"chi"		"**僵尸到达 **"
 	}
-	"219172"
+	"### 30 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219172"
-		"m_iname"		"nrk2_room3_cts_fence"
+		"chi"		"**还有30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"219183"
+	"### TELEPORT IS COMING IN 5 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219183"
-		"m_iname"		"nrk2_room3_tr_fence"
+		"chi"		"**离传送还有5秒 **"
 	}
-	"219492"
+	"### GET TO THE TOP OF THE TOWER ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219492"
-		"m_iname"		"nrk2_room2_breakable_middle"
+		"chi"		"**登上塔顶!!! **"
 	}
-	"219509"
+	"### THE TOWER IS GONNA EXPLODE !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219509"
-		"m_iname"		"nrk2_room4_breakable_middle"
+		"chi"		"**高塔将要爆炸了! **"
 	}
-	"219525"
+	"### WARNING *** TOWER IS GONNA EXPLODE IN 30 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219525"
-		"m_iname"		"nrk2_room4_breakable_cts"
+		"chi"		"**警告!离高塔炸毁还有30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"219536"
+	"### HOLD HERE AND DEFEND 2 SIDES ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219536"
-		"m_iname"		"nrk2_room4_breakable_tr"
+		"chi"		"**防守这里 **"
 	}
-	"219594"
+	"### FOR 50 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219594"
-		"m_iname"		"nrk2_room4_breakable_door"
+		"chi"		"**还有50秒 **"
+		"DoorCountDown"		"50"
 	}
-	"220018"
+	"### ZOMIES HAVE BEEN ARRIVED ###"
 	{
-		"enable"		"1"
-		"hammerid"		"220018"
-		"m_iname"		"nrk2_boss_breakable_door"
+		"chi"		"**僵尸已经到达 **"
 	}
-	"214099"
+	"### 20 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"214099"
-		"m_iname"		"nrk1_tower_breakable"
+		"chi"		"**还有20秒 **"
 	}
-	"202966"
+	"### TOWER EXPLODES IN 10 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"202966"
-		"m_iname"		"nrk1_room4_concrete_2"
+		"chi"		"**离高塔炸毁还有10秒 **"
 	}
-	"203079"
+	"### KAABOOOMMMMM ###"
 	{
-		"enable"		"1"
-		"hammerid"		"203079"
-		"m_iname"		"nrk1_boss_wall"
+		"chi"		"**booooooom shakalaka~~~~ **"
 	}
-	"201411"
+	"### STAY IN THE GREEN LIGHT TO TELEPORT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"201411"
-		"m_iname"		"nrk1_room4_concrete_1"
+		"chi"		"**待在绿光里以便于传送 **"
 	}
-	"196189"
+	"### OTHERWISE YOU WILL BE TELEPORT TO JAIL ###"
 	{
-		"enable"		"0"
-		"hammerid"		"196189"
-		"m_iname"		"nrk1_room3_breakable"
+		"chi"		"**否则你将被传送至监狱 **"
 	}
-	"196222"
+	"### WAIT HERE TO RACE WITH ZOMBIES IN 15 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"196222"
-		"m_iname"		"nrk1_room4_gate_cts"
+		"chi"		"**离人尸竞赛还有15秒 **"
 	}
-	"196233"
+	"### ZOMBIES WILL BE TELEPORT TO JAIL IN 2 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"196233"
-		"m_iname"		"nrk1_room4_gate_tr"
+		"chi"		"**离僵尸传送还有2秒 **"
 	}
-	"196392"
+	"### HUMANS BEWARE OF TRAPS !!! ###"
 	{
-		"enable"		"1"
-		"hammerid"		"196392"
-		"m_iname"		"BossCage2"
+		"chi"		"**人类当心陷阱!!! **"
 	}
-	"196726"
+	"### ZOMBIES'S GATE BREAKS IN 20 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"196726"
-		"m_iname"		"nrk1_final_bridge"
+		"chi"		"**僵尸墙将在20秒后打开 **"
 	}
-	"175374"
+	"### ZOMBIES ARE COMING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"175374"
-		"m_iname"		"nrk1_zombie_fence"
+		"chi"		"**僵尸来了! **"
 	}
-	"173451"
+	"### HOLD FOR 40 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"173451"
-		"m_iname"		"nrk1_room4_breakable"
+		"chi"		"**防御这里40秒 **"
+		"DoorCountDown"		"40"
 	}
-	"98576"
+	"### CROSS THE BRIDGE IN 20 SECONDS ###"
 	{
-		"enable"		"1"
-		"hammerid"		"98576"
-		"m_iname"		"nrk1_boss_ducts"
+		"chi"		"**在20秒内穿过大桥 **"
 	}
-	"79091"
+	"### DONT DELAY OR FACE PUNISHMENT !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"79091"
-		"m_iname"		"RedLine"
+		"chi"		"**快点！！你们时间不多了！！ **"
 	}
-	"74466"
+	"### HUMANS AND ZOMBIES THAT NOT IN GREEN LIGHT ZONE ###"
 	{
-		"enable"		"1"
-		"hammerid"		"74466"
-		"m_iname"		"BossCage"
+		"chi"		"**人类和僵尸不在绿光里 **"
 	}
-	"534477"
+	"### WILL BE TELEPORT TO JAIL ###"
 	{
-		"enable"		"0"
-		"hammerid"		"534477"
-		"m_iname"		"nrk3_room3_jaildoor_break"
+		"chi"		"**将被传送到监狱 **"
 	}
-	"509679"
+	"### 5 SECONDS UNTL THE NEXT TELEPORT COMES ###"
 	{
-		"enable"		"0"
-		"hammerid"		"509679"
-		"m_iname"		"nrk3_room3_breakwall_2"
+		"chi"		"**离下一次传送还有5秒 **"
 	}
-	"493058"
+	"### WHEN YOU SEE SINNER ON THE CROSS JUST SHOOT IT !!###"
 	{
-		"enable"		"0"
-		"hammerid"		"493058"
-		"m_iname"		"nrk2_room4_button_break"
+		"chi"		"**向堕落之人射击!!! **"
 	}
-	"484686"
+	"### SOMEONE TURNS ON THE RADIO !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"484686"
-		"m_iname"		"nrk3_room3_breakwall"
+		"chi"		"**有人打开了收音机 **"
 	}
-	"443798"
+	"### SLIPKNOT - KILLPOP IS PLAYING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"443798"
-		"m_iname"		"nrk3_room4_zombie_breakable"
+		"chi"		"** **"
 	}
-	"413973"
+	"### SINNER IS COMING IN 10 SECONDS ###"
 	{
-		"enable"		"1"
-		"hammerid"		"413973"
-		"m_iname"		"naraka_ultimate_hitbox"
+		"chi"		"**堕落之人将在10秒后到达 **"
 	}
-	"397105"
+	"### DONT CROSS THE RED LINE THERE IS NOT A HOLY AREA ###"
 	{
-		"enable"		"1"
-		"hammerid"		"397105"
-		"m_iname"		"nrk3_boss_platform_break"
+		"chi"		"**不要越过红线 **"
 	}
-	"388403"
+	"### ARCHITECTS - BROKEN CROSS IS PLAYING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"388403"
-		"m_iname"		"naraka4_cross"
+		"chi"		"**建筑师-十字架破碎了 **"
 	}
-	"388509"
+	"### THAT IS A SINNER KILL HIM ###"
 	{
-		"enable"		"1"
-		"hammerid"		"388509"
-		"m_iname"		"naraka_hitbox2"
+		"chi"		"**它是罪恶的人 杀死他! **"
 	}
-	"389012"
+	"### BEFORE HE RELEASES THOSE ZOMBIES IN 1:30 MINTUES ###"
 	{
-		"enable"		"0"
-		"hammerid"		"389012"
-		"m_iname"		"naraka_protection"
+		"chi"		"**堕落之人将在90秒后解放僵尸 **"
 	}
-	"369972"
+	"### SINNER : YOUR SINS GONNA HURT YOU !! FACE IT ##"
 	{
-		"enable"		"0"
-		"hammerid"		"369972"
-		"m_iname"		"nrk3_room5_break_button_right"
+		"chi"		"**堕落之人:你的罪过会让你堕落! **"
 	}
-	"370012"
+	"### DEFEND 2 DUCTS ZOMBIES CAN COME IN FROM DUCTS !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"370012"
-		"m_iname"		"nrk3_room5_break_button_left"
+		"chi"		"**注意防守两侧管道 **"
 	}
-	"366563"
+	"## SINNER WILL RELEASES ZOMBIES IN 60 SECONDS ##"
 	{
-		"enable"		"0"
-		"hammerid"		"366563"
-		"m_iname"		"nrk3_room4_breakable_wall2"
+		"chi"		"**堕落之人在60秒后将解放僵尸 **"
 	}
-	"366759"
+	"### SINNER IS DEAD ###"
 	{
-		"enable"		"0"
-		"hammerid"		"366759"
-		"m_iname"		"nrk3_room5_breakable_cts"
+		"chi"		"**堕落之人已经死亡 **"
 	}
-	"366768"
+	"### HUMAN WILL BE TELEPORT THE THE FINAL DESTINATION IN 10 SECONDS##"
 	{
-		"enable"		"0"
-		"hammerid"		"366768"
-		"m_iname"		"nrk3_room5_breakable_tr"
+		"chi"		"**离传送至最后的目的地还有10秒 **"
 	}
-	"359723"
+	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
 	{
-		"enable"		"0"
-		"hammerid"		"359723"
-		"m_iname"		"nrk3_room4_breakable_fence_cts"
+		"chi"		"**防守这里1分钟 **"
+		"DoorCountDown"		"60"
 	}
-	"359734"
+	"### SLIPKNOT - CUSTER IS NOW PLAYING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"359734"
-		"m_iname"		"nrk3_room4_breakable_fence_tr"
+		"chi"		"** **"
 	}
-	"356469"
+	"### BRIDGES ARE GOING TO BREAK BEFORE ZOMBIES TELEPORT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"356469"
-		"m_iname"		"nrk3_room2_breakable_cts"
+		"chi"		"**桥面将在僵尸传送前碎裂 **"
 	}
-	"356484"
+	"### ZOMBIES COMING IN 20 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"356484"
-		"m_iname"		"nrk3_room2_breakable_tr"
+		"chi"		"**离僵尸到达还有20秒 **"
 	}
-	"356507"
+	"### ZOMBIES ARRIVED ###"
 	{
-		"enable"		"0"
-		"hammerid"		"356507"
-		"m_iname"		"nrk3_room2_breakable_door"
+		"chi"		"**僵尸到达 **"
 	}
-	"357269"
+	"### CONGRATULATION YOU MADE IT !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"357269"
-		"m_iname"		"nrk3_room4_breakable_wall"
+		"chi"		"**恭喜你 过关 **"
 	}
-	"350712"
+	"### MAP CREATED BY  NARAKA (A.K.A SHIKA)  ###"
 	{
-		"enable"		"0"
-		"hammerid"		"350712"
-		"m_iname"		"nrk3_breakable"
+		"chi"		"**作者 NARAKA (A.K.A SHIKA) 翻译 BAKA_Miku **"
 	}
-	"313309"
+	"### ZOMBIESS GATE BREAKS IN 20 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"313309"
-		"m_iname"		"nrk3_room2_button_break"
+		"chi"		"**僵尸门20秒后开启 **"
 	}
-	"231953"
+	"### PART I :: CRAZY ESCAPE ::"
 	{
-		"enable"		"0"
-		"hammerid"		"231953"
-		"m_iname"		"nrk2_final_2_buttons2"
+		"chi"		"**第一部分：疯狂 **"
 	}
-	"231989"
+	"### MAP CREATED BY NARAKA  ###"
 	{
-		"enable"		"0"
-		"hammerid"		"231989"
-		"m_iname"		"nrk2_final_2_buttons"
+		"chi"		"**作者 NARAKA **"
 	}
-	"219064"
+	"### SPECIAL THANKS : Moltard ###"
 	{
-		"enable"		"0"
-		"hammerid"		"219064"
-		"m_iname"		"nrk2_room2_button_break"
+		"chi"		"**特别感谢：moltard **"
 	}
-	"169853"
+	"### GRAMMAR CORRECTION BY: ###"
 	{
-		"enable"		"0"
-		"hammerid"		"169853"
-		"m_iname"		"nrk_button_break"
+		"chi"		"**语法校正： **"
 	}
-	"169862"
+	"### [GFL] : reduct [SMALL LOAN] ###"
 	{
-		"enable"		"0"
-		"hammerid"		"169862"
-		"m_iname"		"nrk1_room3_button_break"
+		"chi"		"** **"
 	}
-	"169877"
+	"### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"169877"
-		"m_iname"		"nrk1_room4_button_break"
+		"chi"		"**人类将在20秒后传送 **"
 	}
-	"169883"
+	"### 10 SECONDS REMAINING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"169883"
-		"m_iname"		"nrk2_room3_button_break"
+		"chi"		"**还有10秒 **"
 	}
-	"555421"
+	"### HIDE AND HOLD FOR 75 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"555421"
-		"m_iname"		"nrk4_room1_break_tr"
+		"chi"		"**守住这里75秒 **"
 	}
-	"555871"
+	"### ZOMBIES WILL BE TELEPORTED SOON ###"
 	{
-		"enable"		"0"
-		"hammerid"		"555871"
-		"m_iname"		"nrk4_room1_break_cts"
+		"chi"		"**僵尸很快就会传送 **"
 	}
-	"581303"
+	"### ZOMBIES ARE HERE !! ###"
 	{
-		"enable"		"0"
-		"hammerid"		"581303"
-		"m_iname"		"nrk3_room3_breakwall_3"
+		"chi"		"**僵尸来了 **"
 	}
-	"573023"
+	"### 30 SECONDS REMAINING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"573023"
-		"m_iname"		"nrk3_breakable_room_gang"
+		"chi"		"**守住30秒 **"
+	}
+	"### TELEPORT INCOMING IN 5 SECONDS ###"
+	{
+		"chi"		"**5秒后传送 **"
+	}
+	"### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###"
+	{
+		"chi"		"**僵尸30秒后将被传送 **"
+	}
+	"### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###"
+	{
+		"chi"		"**警告：高塔将在30秒后爆炸 **"
+	}
+	"### HOLD HERE AND SHOOT MADAFAKA ###"
+	{
+		"chi"		"**在这里射击MADAFAKA **"
+	}
+	"### 50 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩50秒 **"
+	}
+	"### TOWER WILL EXPLODE IN 10 SECONDS ###"
+	{
+		"chi"		"**高塔将在10秒后爆炸 **"
+	}
+	"### STAY IN THE GREEN LIGHT FOR TELEPORT ###"
+	{
+		"chi"		"**呆在绿色光里等待传送 **"
+	}
+	"### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###"
+	{
+		"chi"		"**否则你会被传送到监狱 **"
+	}
+	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 15 SECONDS ###"
+	{
+		"chi"		"**在这里等待15秒后与僵尸比赛 **"
+	}
+	"### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###"
+	{
+		"chi"		"**僵尸已经到了！！！ **"
+	}
+	"### DONT DELAY OR BE PUNISHED ###"
+	{
+		"chi"		"**不要拖延时间不然你们会被惩罚 **"
+	}
+	"### 20 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩20秒 **"
+	}
+	"### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###"
+	{
+		"chi"		"**人类和僵尸不在绿光里 **"
+	}
+	"### WILL BE TELEPORTED TO BOSS JAIL ###"
+	{
+		"chi"		"**将传送BOSS进监狱 **"
+	}
+	"### 5 SECONDS UNTL THE NEXT TELEPORT ###"
+	{
+		"chi"		"**离下一次传送还有5秒 **"
+	}
+	"### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###"
+	{
+		"chi"		"**堕落之人出现在十字架上 **"
+	}
+	"### SINNER INCOMING IN 10 SECONDS ###"
+	{
+		"chi"		"**堕落之人10秒后出现 **"
+	}
+	"### DONT CROSS THE RED LINE, IT IS NOT A HOLY AREA ###"
+	{
+		"chi"		"**不要越过红线，它不是一个神圣的领域 **"
+	}
+	"### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###"
+	{
+		"chi"		"**堕落之人将在90秒后解放僵尸 **"
+	}
+	"### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###"
+	{
+		"chi"		"**堕落之人:你的罪过会让你堕落! **"
+	}
+	"### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###"
+	{
+		"chi"		"**注意防守两侧管道 **"
+	}
+	"### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###"
+	{
+		"chi"		"**堕落之人在60秒后将解放僵尸 **"
+	}
+	"### HUMANS WILL BE TELEPORTED TO THE FINAL DESTINATION IN 10 SECONDS ##"
+	{
+		"chi"		"**离传送至最后的目的地还有10秒 **"
+	}
+	"### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###"
+	{
+		"chi"		"**桥面将在僵尸传送前碎裂 **"
+	}
+	"### ZOMBIES INCOMING IN 10 SECONDS ###"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"### DONT LET ZOMBIES TOUCH THE TV OR YOU WILL LOSE ###"
+	{
+		"chi"		"**不要让僵尸接触电视否则你会输 **"
+	}
+	"### ZOMBIES HAVE ARRIVED ###"
+	{
+		"chi"		"**僵尸已经到了 **"
+	}
+	"### TELEPORT IN 10 SECONDS ###"
+	{
+		"chi"		"**在10秒后传送 **"
+	}
+	"### STAGE COMPLETED ###"
+	{
+		"chi"		"**通关 **"
+	}
+	"### PART II : CRAZIER ESCAPE ###"
+	{
+		"chi"		"**第二部分：疯狂逃跑 **"
+	}
+	"### TELEPORT INCOMING IN 20 SECONDS ###"
+	{
+		"chi"		"**传送将在20秒后启动 **"
+	}
+	"### RUN TO THE OTHER SIDE  ###"
+	{
+		"chi"		"**跑向另一边 **"
+	}
+	"### AND SHOOT THOSE ZOMBIES  ###"
+	{
+		"chi"		"**射击僵尸 **"
+	}
+	"### MAKE YOUR WAY TO THE OTHER SIDE ###"
+	{
+		"chi"		"**请确认另一条路上没有僵尸（别忘了丢高爆和燃烧护菊）**"
+	}
+	"### WHILE DEFENDING AGAINST ZOMBIES ###"
+	{
+		"chi"		"**同时防御僵尸 **"
+	}
+	"### HUMANS, DO NOT DELAY ###"
+	{
+		"chi"		"**人类，不要耽误 **"
+	}
+	"### PRESS THE BUTTON ON THE OTHER SIDE ###"
+	{
+		"chi"		"**按下另一边的按钮 **"
+	}
+	"### YOU HAVE 90 SECONDS BEFORE ###"
+	{
+		"chi"		"**你有90秒的时间 **"
+	}
+	"### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###"
+	{
+		"chi"		"**人类与僵尸会自动传送 **"
+	}
+	"### HOLD AND DEFEND FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住30秒 **"
+	}
+	"### WAIT UNTIL THE DOOR OPENS ###"
+	{
+		"chi"		"**等到门打开 **"
+	}
+	"### 10 SECONDS REMAININGS ###"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"### TELEPORTING THE REST IN 5 SECONDS ###"
+	{
+		"chi"		"**利用传送休息5秒 **"
+	}
+	"### TIP: DONT TOUCH THE CAUTION PILLARS ###"
+	{
+		"chi"		"** **"
+	}
+	"### THEY WILL TELEPORT YOU BACKK LOL ###"
+	{
+		"chi"		"**他们会将你传送！笨蛋！ **"
+	}
+	"### ZOMBIES WAIT FOR 10 SECONDS ###"
+	{
+		"chi"		"**僵尸等待10秒 **"
+	}
+	"### STAY IN THE GREEN LIGHT ZONE ###"
+	{
+		"chi"		"**呆在绿光里 **"
+	}
+	"### TELEPORT INCOMING IN 30 SECONDS ###"
+	{
+		"chi"		"**30秒后传送 **"
+	}
+	"### HUMANS NOT IN THE GREEN LIGHT ZONE ###"
+	{
+		"chi"		"**人类没有在绿灯区 **"
+	}
+	"### WILL BE TELEPORTED WITH ZOMBIES ###"
+	{
+		"chi"		"**将与僵尸一起传送 **"
+	}
+	"### WAIT HERE FOR A BIT ###"
+	{
+		"chi"		"**在这儿等一会儿 **"
+	}
+	"### BE READY IN 5 SECONDS ###"
+	{
+		"chi"		"**在5秒钟内准备好 **"
+	}
+	"### HOLD HERE AND SHOOT FOR 30 SECONDS ###"
+	{
+		"chi"		"**在这里守住30秒 **"
+	}
+	"### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###"
+	{
+		"chi"		"**不要拖延，否则你会被传送到僵尸那边 **"
+	}
+	"### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###"
+	{
+		"chi"		"**当所有人都在这里的时候，NARAKA将会重生**"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"chi"		"**剩余10秒**"
+	}
+	"### MADUDU FAKA MADAFAKAA HUEHUE ###"
+	{
+		"chi"		"** **"
+	}
+	"### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###"
+	{
+		"chi"		"**墙会消失，NARAKA WILL来了 **"
+	}
+	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
+	{
+		"chi"		"**你们还有2分钟时间 **"
+	}
+	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
+	{
+		"chi"		"**地狱将释放僵尸 **"
+	}
+	">>> HES DEAD. DEFEND UNTIL DOOR BREAKS <<<"
+	{
+		"chi"		"**他死了，守到门开 **"
+	}
+	"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
+	{
+		"chi"		"**所有僵尸和人类都在BOSS区域 **"
+	}
+	"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
+	{
+		"chi"		"**将被传送到最终目的地 **"
+	}
+	"### IN 15 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### LEFT BUTTON HAS BEEN PRESSED ###"
+	{
+		"chi"		"**左边按钮被按下 **"
+	}
+	"### BOTH BUTTONS ACTIVATED ###"
+	{
+		"chi"		"**激活两个按钮 **"
+	}
+	"### RIGHT BUTTON HAS BEEN PRESSED ###"
+	{
+		"chi"		"**右边按钮被按下 **"
+	}
+	"### BRIDGE BREAKS IN 60 SECONDS ###"
+	{
+		"chi"		"**桥将在60秒后断裂 **"
+	}
+	"### DEFEND YOU NOOBS ###"
+	{
+		"chi"		"**保护你自己，新手 **"
+	}
+	"### STAGE FAILED, YOU NOOBS ###"
+	{
+		"chi"		"**关卡失败了，你们这群新手 **"
+	}
+	"### ONE OF GFL ADMINS SAID TO ME ###"
+	{
+		"chi"		"**一个GFL管理员对我说 **"
+	}
+	"### IT WOULD BE GREAT IF YOU CAN ADD THE LASER ###"
+	{
+		"chi"		"**如果你能加上跳刀就更好了**"
+	}
+	"### AT THE END OF YOUR MAP : HMM OKIEEE ^^ ###"
+	{
+		"chi"		"**在你地图快要结束的时候：嗯 OK **"
+	}
+	"### CONGRATULATIONS! YOUVE BEATEN THE MAP ###"
+	{
+		"chi"		"**祝贺你!你打败了地图 **"
+	}
+	"### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###"
+	{
+		"chi"		"**僵尸接触电视了，所以你输了，新手**"
+	}
+	"### BRIDGE BREAKS IN 50 SECONDS ###"
+	{
+		"chi"		"**桥将在50秒后断裂 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"52408"
+	}
+	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###"
+	{
+		"chi"		"**在这里等个5秒钟然后与僵尸一起赛跑**"
+	}
+	"### ZOMBIES IN COMING !! HOLD THIS PLATFORM FOR 30 SECONDS ###"
+	{
+		"chi"		"**僵尸来了，守住这个地方30秒**"
+	}
+	"### TIP: YOU CAN SHOOT ZOMBIE OFF THE PLATFORM ###"
+	{
+		"chi"		"** **"
+	}
+	"### TIP: DEFEND 3 WAYS PLEASE THATS ALL ###"
+	{
+		"chi"		"** **"
+	}
+	"### TIP: JUST DONT EDGE U RETARD !! OR U WILL GET AIDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### TELEPORT INCOMING IN 10 SECONDS !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### LOOK UP AND YOU KNOW THAT PLATFORM GONNA TRIM US HARD ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES CAN TRY TO BREAK THAT THING TO ###"
+	{
+		"chi"		"**僵尸可以尝试着抓破一些东西来给人类增加难度 ：）**"
+	}
+	"### ACTIVATE SPINNING THING !! IF THIS THING BREAKS ###"
+	{
+		"chi"		"** **"
+	}
+	"### GOOD LUCK HUMAN !!! ###"
+	{
+		"chi"		"**祝你好运，人类**"
+	}
+	"### HOLD HERE FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住这里30秒**"
+	}
+	"### THE WALL IS BROKEN NOW CLIMB ###"
+	{
+		"chi"		"**墙现在碎了，你可以爬上去了**"
+	}
+	"### ZOMBIES PLEASE KINDLY WAIT FOR A SEC ###"
+	{
+		"chi"		"**僵尸们请耐心的等待一些时间**"
+	}
+	"### AND WATCH SOME TRIMS RELAXX !!! ###"
+	{
+		"chi"		"** **"
+	}
+	"### HUMAN DONT DELAY U GONNA FACE UR DESTINY SOON ###"
+	{
+		"chi"		"**人类别放松，，你们即将面对一些毁灭性的东西到来**"
+	}
+	"### THANK YOU FOR YOUR PATIENT NOW GO !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### YOU SEE THAT TRUMPS WALL !! SHOOT ITTT ###"
+	{
+		"chi"		"**看到前面那个特朗普墙了吗？开枪把他打碎**"
+	}
+	"### FOR ZOMBIE: FENCES BREAK IN 15 SECONDS  ###"
+	{
+		"chi"		"** **"
+	}
+	"### FOR HUMAN: FENCES BREAK IN 10 SECONDS  ###"
+	{
+		"chi"		"** **"
+	}
+	"### SHOOT THESE 2 BUTTONS PLEASE ###"
+	{
+		"chi"		"** **"
+	}
+	"### OH MY WALL U REFUGEE U GONNA PAY FOR IT !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### BOTH BUTTONS DESTROYED ###"
+	{
+		"chi"		"** **"
+	}
+	"### DOOR BREAKS IN 30 SECONDS ###"
+	{
+		"chi"		"**大门将会在30S后开放**"
+		"DoorCountDown"		"30"
+	}
+	"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### TELEPORTING THE REST OF MAP IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NARAKA UNLEASHES HIS POWER ###"
+	{
+		"chi"		"**NARAKA释放了他的神秘力量！（提示：本服务器技能提示正确，例如让按W，那么就是按住W）**"
+	}
+	"### PRESS S PLEASE THANK YOU ###"
+	{
+		"chi"		"**请按住W谢谢**"
+	}
+	"### PRESS W PLEASE THANKS YOU ###"
+	{
+		"chi"		"**请按住S谢谢**"
+	}
+	"### JUMP PLEASE THANK YOU ###"
+	{
+		"chi"		"**请蹲谢谢**"
+	}
+	"### PLEASE LOOK DOWN THANK YOU ###"
+	{
+		"chi"		"**请往上看谢谢**"
+	}
+	"### YOU THINK YOU ARE PRO LASER DODGER ? U MAD ? ###"
+	{
+		"chi"		"**你是跳刀大神吗？我怀疑你疯了**"
+	}
+	"### YOU CAN BE SURE ###"
+	{
+		"chi"		"** **"
+	}
+	"### ILL BE BACK AGAIN ###"
+	{
+		"chi"		"** **"
+	}
+	"### YOUR DEATH INCOMINGG SHOOT AND NADE HIM ###"
+	{
+		"chi"		"**你如果不开枪射击他或者用手雷砸他的话你离死期不远了**"
+	}
+	"### ZOMBIES WAIT FOR THE PLATFORM APPEAR IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 3 ###"
+	{
+		"chi"		"** **"
+	}
+	"### 2 ###"
+	{
+		"chi"		"** **"
+	}
+	"### 1 ###"
+	{
+		"chi"		"** **"
+	}
+	"### HOLD THIS LAST POSTION FOR 30 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### GOOD JOB BUT THIS NOT THE END ###"
+	{
+		"chi"		"** **"
+	}
+	"### NOW PREPARE TO FACE YOUR INEVITABLE DEATH  ###"
+	{
+		"chi"		"**现在准备面对你不可避免的死亡**"
+	}
+	"### ADMIN HAS SELECTED PART : III ###"
+	{
+		"chi"		"**管理员选择了第三关**"
+	}
+	"### DONT LET ZOMBIES ON THE PLATFORM !!! ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED PART : II ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED NUKE TO RESTART THE ROUND ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 4 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### NUKE IN 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @al Update"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @all Update"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @all Updasay sm_kick @all Upsay sm_kick @al Upsay sm_kick @al Update"
+	{
+		"chi"		"** **"
+	}
+	"### Thanks to ACME who found the bug here! ###"
+	{
+		"chi"		"** **"
+	}
+	"### FOR ZOMBIE: FENCES BREAK IN 10 SECONDS  ###"
+	{
+		"chi"		"** **"
+	}
+	"### FOR HUMAN: FENCES BREAK IN 5 SECONDS  ###"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

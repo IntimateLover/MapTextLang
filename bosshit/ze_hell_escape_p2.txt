@@ -1,141 +1,107 @@
-"BOSSHP"
+"Console_T"
 {
-	"339346"
+	"** !!! Visit: www.dreist-multigaming.com !!!** "
 	{
-		"enable"		"0"
-		"hammerid"		"339346"
-		"m_iname"		"GlassEnd_01"
+		"chi"		"**访问www.dreist-multigaming.com 翻译：觉醒之刃**"
 	}
-	"339381"
+	"** ESCAPE FROM HELL!! Get to to the magic Graves **"
 	{
-		"enable"		"0"
-		"hammerid"		"339381"
-		"m_iname"		"GlassEnd_01b"
+		"chi"		"**逃离地狱吧！去魔法坟墓那里！**"
 	}
-	"339415"
+	"** The Graves have been reached - RESIST 20 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"339415"
-		"m_iname"		"GlassEnd_02"
+		"chi"		"**人类已抵达坟墓，坚守20秒！**"
 	}
-	"339449"
+	"** RESIST 5 Seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"339449"
-		"m_iname"		"GlassEnd_02b"
+		"chi"		"**还有5秒，坚持住！**"
+		"DoorCountDown"		"-1"
 	}
-	"339530"
+	"** THE GRAVES ARE MOVING!**"
 	{
-		"enable"		"0"
-		"hammerid"		"339530"
-		"m_iname"		"GlassEnd_03"
+		"chi"		"**坟墓正在移动！**"
 	}
-	"339564"
+	"** Wait a little until the 2nd Way spawns**"
 	{
-		"enable"		"0"
-		"hammerid"		"339564"
-		"m_iname"		"GlassEnd_03b"
+		"chi"		"**在第二条路出现请等待一会儿**"
 	}
-	"339629"
+	"** ZOMBIES DETECTED! The Grave is slowing down!**"
 	{
-		"enable"		"0"
-		"hammerid"		"339629"
-		"m_iname"		"GlassEnd_04"
+		"chi"		"**僵尸来了！坟墓移动速度下降！**"
 	}
-	"339670"
+	"** ZOMBIES ARE COMING! **"
 	{
-		"enable"		"0"
-		"hammerid"		"339670"
-		"m_iname"		"GlassEnd_04b"
+		"chi"		"**僵尸来了！**"
 	}
-	"303990"
+	"** The Lab has been reached - resist 30 Seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"303990"
-		"m_iname"		"zombiesign"
+		"chi"		"**人类已抵达实验室，坚守30秒！**"
 	}
-	"202440"
+	"** RESIST 10 Seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"202440"
-		"m_iname"		"GlassEnd_05"
+		"chi"		"**还有10秒，坚持住！**"
 	}
-	"96684"
+	"**GET TO THE CHUTE - Door opens again in 15 Seconds ** "
 	{
-		"enable"		"0"
-		"hammerid"		"96684"
-		"m_iname"		"Church Break"
+		"chi"		"**到斜道那里去！门将在15秒后再次开启！**"
 	}
-	"114907"
+	"** GET ON TOP OF THE OILRIG AND WAIT FOR THE CHOPPER **"
 	{
-		"enable"		"0"
-		"hammerid"		"114907"
-		"m_iname"		"huey_thing"
+		"chi"		"**在石油钻台的顶部等待直升机的到来！**"
 	}
-	"114915"
+	"** ZOMBIES ARE COMING!**"
 	{
-		"enable"		"0"
-		"hammerid"		"114915"
-		"m_iname"		"huey_thing"
+		"chi"		"**僵尸来了！**"
 	}
-	"114923"
+	"** GET ON TOP OF THE OILRIG AND DEFEND IT**"
 	{
-		"enable"		"0"
-		"hammerid"		"114923"
-		"m_iname"		"huey_thing"
+		"chi"		"**在石油钻台的顶部防守！**"
 	}
-	"114927"
+	"** CHOPPER IS COMING**"
 	{
-		"enable"		"0"
-		"hammerid"		"114927"
-		"m_iname"		"huey_thing"
+		"chi"		"**直升机来了，注意扔雷断后！**"
 	}
-	"114931"
+	"** THE OCEAN CAN NOW BE CROSSED**"
 	{
-		"enable"		"0"
-		"hammerid"		"114931"
-		"m_iname"		"huey_thing"
+		"chi"		"**现在可以越过海水了！**"
 	}
-	"114944"
+	"** GET TO THE HOLY CHURCH - DEFEND LEVEL 2**"
 	{
-		"enable"		"0"
-		"hammerid"		"114944"
-		"m_iname"		"huey_thing"
+		"chi"		"**快到神圣教堂去！到2楼防守僵尸！**"
 	}
-	"115284"
+	"** !!! Visit: www.dreist-multigaming.com !!!**"
 	{
-		"enable"		"0"
-		"hammerid"		"115284"
-		"m_iname"		"huey_thing"
+		"chi"		"** **"
 	}
-	"115341"
+	"**GET TO THE CHUTE - Door opens again in 15 Seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"115341"
-		"m_iname"		"huey_thing"
+		"chi"		"**快沿着实验室后方的通道到石油钻台去，僵尸屏障网15秒后打开**"
 	}
-	"115428"
+	"** DEFEND LEVEL 2 FOR 60 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"115428"
-		"m_iname"		"huey_thing"
+		"chi"		"**防守教堂二楼60秒**"
 	}
-	"115460"
+	"** RESIST 30 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"115460"
-		"m_iname"		"huey_thing"
+		"chi"		"**守住30秒**"
+		"DoorCountDown"		"-1"
 	}
-	"121664"
+	"** RESIST 20 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"121664"
-		"m_iname"		"Blockade Church"
+		"chi"		"**再守20秒**"
+		"DoorCountDown"		"-1"
 	}
-	"167066"
+	"** RESIST 10 SECONDS! **"
 	{
-		"enable"		"0"
-		"hammerid"		"167066"
-		"m_iname"		"Crates"
+		"chi"		"**还剩10秒**"
+		"DoorCountDown"		"-1"
+	}
+	"** RUN UP THE STAIRS! APOCALYPSE IMMINENT!!!!**"
+	{
+		"chi"		"**教堂二楼的门已经打开，快沿着旋转楼梯到教堂楼顶去！**"
+	}
+	"** ZOMBIES CAN NOW CLIMB UP FROM THE BOTTOM LEVEL! **"
+	{
+		"chi"		"**教堂1楼的空气墙已消失，僵尸可以通过了**"
 	}
 }

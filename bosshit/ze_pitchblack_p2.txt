@@ -1,105 +1,66 @@
-"BOSSHP"
+"Console_T"
 {
-	"26036"
+	"***Door 1B opens in 10s***"
 	{
-		"enable"		"0"
-		"hammerid"		"26036"
-		"m_iname"		"boulderrocks"
+		"chi"		"** 1B 大门 10 秒后开启 **"
 	}
-	"1050"
+	"*** Defend for 30s. ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1050"
-		"m_iname"		"IDontListen"
+		"chi"		"** 防守 30 秒 **"
+		"DoorCountdown"		"30"
 	}
-	"1052"
+	"***You must reach the skiff to escape the planet!! stay near the flares to help avoid being picked off***"
 	{
-		"enable"		"0"
-		"hammerid"		"1052"
-		"m_iname"		"IDontListen"
+		"chi"		"** 你们必须乘坐飞船离开这个星球！！地上的绿光可以阻挠僵尸前进！**"
 	}
-	"1054"
+	"***Outpost Door opens in 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"1054"
-		"m_iname"		"IDontListen"
+		"chi"		"** 大门将在 20 秒后开启 **"
+		"DoorCountdown"		"20"
 	}
-	"1056"
+	"*** Hold here for 30s ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1056"
-		"m_iname"		"IDontListen"
+		"chi"		"** 坚守 30 秒 **"
+		"DoorCountdown"		"30"
 	}
-	"1058"
+	"***Cowards board the skiff... HEROS STAY BEHIND TO FIGHT TO THE DEATH :D!!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"1058"
-		"m_iname"		"IDontListen"
+		"chi"		"** 懦夫上船…英雄留下来战斗到死 :D !!!**（色狼领袖：装逼大侠你们这能忍 XD ？？）"
 	}
-	"1060"
+	"***Skiff leaves in 60s!!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"1060"
-		"m_iname"		"IDontListen"
+		"chi"		"** 飞船将在 60 秒后离开！！！**"
 	}
-	"1186"
+	"***30s Remaining!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"1186"
-		"m_iname"		"waterfloor"
+		"chi"		"** 剩余 30 秒！！**"
 	}
-	"1188"
+	"***10s Remaining!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"1188"
-		"m_iname"		"gratefall"
+		"chi"		"** 剩余 10 秒！！**"
 	}
-	"1208"
+	"***Make room and remain still while in Skiff!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"1208"
-		"m_iname"		"outsidedoor"
+		"chi"		"** 坐稳咯！飞船即将起飞！！！**"
 	}
-	"1632"
+	"***Top Door opens in 10s***"
 	{
-		"enable"		"0"
-		"hammerid"		"1632"
-		"m_iname"		"IDontListen"
+		"chi"		"** 顶部大门将在 10 秒后打开 **"
 	}
-	"1634"
+	"***Door 1A opens in 10s***"
 	{
-		"enable"		"0"
-		"hammerid"		"1634"
-		"m_iname"		"IDontListen"
+		"chi"		"** 1A 大门 10 秒后开启 **"
 	}
-	"1636"
+	"***Door 2A opens in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"1636"
-		"m_iname"		"IDontListen"
+		"chi"		"** 2A 大门 5 秒后开启 **"
 	}
-	"1638"
+	"***Door 2B opens in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"1638"
-		"m_iname"		"IDontListen"
+		"chi"		"** 2B 大门 5 秒后开启 **"
 	}
-	"1640"
+	"***Zombies detected in mines!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"1640"
-		"m_iname"		"IDontListen"
-	}
-	"1642"
-	{
-		"enable"		"0"
-		"hammerid"		"1642"
-		"m_iname"		"IDontListen"
-	}
-	"1650"
-	{
-		"enable"		"0"
-		"hammerid"		"1650"
-		"m_iname"		"crateblock"
+		"chi"		"** 矿洞检测到僵尸 **"
 	}
 }

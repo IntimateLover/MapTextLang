@@ -1,475 +1,178 @@
-"BOSSHP"
+"Console_T"
 {
-	"ProxMine&9754"
+	"Warping all players to Siberia in 15 seconds."
 	{
-		"enable"		"0"
+		"chi"		"**15秒 后传送玩家至 steam冬日特卖 西伯利亚**"
+		"DoorCountdown"		"15"
 	}
-	"ProxMine&9755"
+	"Objective. Find and destroy the source of the outbreak."
 	{
-		"enable"		"0"
+		"chi"		"**任务:找到并摧毁steam临时（丧）工（尸）的源头 初期翻译：EVANGELION 后期翻译修改：肉丸**"
 	}
-	"ProxMine&9756"
+	"Overriding security breach 30 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**还有 30秒 后边大门打开**"
+		"DoorCountdown"		"30"
 	}
-	"ProxMine&9757"
+	"Proximity mine obtained!"
 	{
-		"enable"		"0"
+		"chi"		"**共产主义之雷GET**"
 	}
-	"ProxMine&9758"
+	"The promixity mine can be used every 24 seconds."
 	{
-		"enable"		"0"
+		"chi"		"**提莫 每 24秒 能种 共产主义之雷 1次**"
 	}
-	"ProxMine&9759"
+	"10 seconds left"
 	{
-		"enable"		"0"
+		"chi"		"**还有10秒!**"
 	}
-	"ProxMine&9760"
+	"Door is now open. Get inside the dam!"
 	{
-		"enable"		"0"
+		"chi"		"**门开了!进入steam 内（水）部（坝）!**"
 	}
-	"ProxMine&9761"
+	"Dam door closing in 10 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**内（水）部（坝）大门将在 10秒后关闭**"
+		"DoorCountdown"		"10"
 	}
-	"ProxMine&9762"
+	"Zombie spawns are advancing in 20 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**临时（丧）工（尸）将会在20秒后赶上!**"
 	}
-	"ProxMine&9763"
+	"Reducing steam pressure 10 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**steam 冬日打（压）折（压） 持续 10秒！ **"
+		"DoorCountdown"		"10"
 	}
-	"ProxMine&9764"
+	"Steam pressure at 66%"
 	{
-		"enable"		"0"
+		"chi"		"**steam 冬日特卖 66%折扣 快去按 2号阀门**"
 	}
-	"ProxMine&9765"
+	"Steam pressure at 33%"
 	{
-		"enable"		"0"
+		"chi"		"**steam 冬日特卖 33%折扣 快去按 3号阀门**"
 	}
-	"ProxMine&9767"
+	"Steam pressure at 0%"
 	{
-		"enable"		"0"
+		"chi"		"**steam 冬日特卖 0%折扣 快冲出大门 买买买**"
 	}
-	"ProxMine&9768"
+	"Zombie spawns advancing in 15 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**临时（丧）工（尸）将会在15秒后赶上!**"
 	}
-	"ProxMine&9771"
+	"Dam door opening in 20 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**真理门将在20秒后开启!**"
+		"DoorCountdown"		"20"
 	}
-	"ProxMine&9772"
+	"Dam door closing in 5 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**门将在5秒后关闭!**"
 	}
-	"ProxMine&9773"
+	"Push gun obtained!"
 	{
-		"enable"		"0"
+		"chi"		"**噗嘘淦 拿到**"
 	}
-	"ProxMine&9774"
+	"The push gun can be used every 45 seconds."
 	{
-		"enable"		"0"
+		"chi"		"**每 45秒 可以用一次 噗嘘淦 记得看情况射临时（丧）工（尸）哦**"
 	}
-	"ProxMine&9775"
+	"Door opening in 20 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**门将在20秒后开启**"
+		"DoorCountdown"		"20"
 	}
-	"house1_debris"
+	"Door opening in 10 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**门将在10秒后开启**"
 	}
-	"ProxMine&9777"
+	"Door closing in 10 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**门将在10秒后关闭**"
 	}
-	"ProxMine&9778"
+	"Zombie spawns advancing in 25 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**临时（丧）工（尸）将会在25秒后赶上!**"
 	}
-	"ProxMine&9780"
+	"Door opening in 30 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**门将在30秒后开启**"
+		"DoorCountdown"		"30"
 	}
-	"ProxMine&9781"
+	"Arming C4 in 30 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**安装GTX690战术核C4 预计30秒（淦你大爷的 匹配这么久 T早灭队了）**"
+		"DoorCountdown"		"30"
 	}
-	"ProxMine&9782"
+	"C4 armed in 10 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**还有10秒**"
 	}
-	"ProxMine&9784"
+	"C4 in now armed"
 	{
-		"enable"		"0"
+		"chi"		"**安放GTX690战术核C4成功**"
 	}
-	"ProxMine&9786"
+	"New objective. Reach the top of the dam for extraction"
 	{
-		"enable"		"0"
+		"chi"		"**新任务:到达水坝的顶部领打折卷**"
 	}
-	"ProxMine&9787"
+	"Zombie spawn advancing in 15 seconds"
 	{
-		"enable"		"0"
+		"chi"		"**临时（丧）工（尸）将会在15秒后赶上!**"
 	}
-	"421180"
+	"Elevator doors opening in 20 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"421180"
-		"m_iname"		"ProxMine&8407"
+		"chi"		"**steam员工电梯将在20秒后开启!**"
+		"DoorCountdown"		"20"
 	}
-	"292846"
+	"Elevator doors closing in 10 seconds"
 	{
-		"enable"		"1"
-		"hammerid"		"292846"
-		"m_iname"		"breakableshits"
+		"chi"		"**steam员工电梯将在10秒后关闭!**"
 	}
-	"292873"
+	"Time portal will open in 50 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"292873"
-		"m_iname"		"house1stuff"
+		"chi"		"**后宫沃兹高阶法师肉丸 59.99美元传送门 将在50秒 后启动!**"
+		"DoorCountdown"		"50"
 	}
-	"292881"
+	"Zombie spawn advancing in 10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"292881"
-		"m_iname"		"house1stuff"
+		"chi"		"**僵尸将会在10秒后赶上!**"
 	}
-	"277501"
+	"TIP: Zombies can pass through our portal."
 	{
-		"enable"		"0"
-		"hammerid"		"277501"
-		"m_iname"		"Hold2ZombieDoor"
+		"chi"		"**提示:临时（丧）工（尸）可以通过我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
 	}
-	"160217"
+	"TIP: It would be wise to stay and defend a bit until the explosion occurs."
 	{
-		"enable"		"0"
-		"hammerid"		"160217"
-		"m_iname"		"Hold2SpawnBlockedDoor"
+		"chi"		"**提示:在炸毁steam西伯利亚总部前 丢诱饵什么的 别吝啬美元了 买买买 不买不是人**"
 	}
-	"154684"
+	"30 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"154684"
-		"m_iname"		"Hold9Vent1"
+		"chi"		"**30秒**"
+		"DoorCountdown"		"30"
 	}
-	"154693"
+	"10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"154693"
-		"m_iname"		"Hold9Vent2"
+		"chi"		"**10秒**"
 	}
-	"151999"
+	"C4 exploding in 10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"151999"
-		"m_iname"		"Hold7Fence"
+		"chi"		"**GTX690战术核C4将在 10秒 后爆炸!**"
 	}
-	"147720"
+	"An infected got through our portal! Push them back!"
 	{
-		"enable"		"0"
-		"hammerid"		"147720"
-		"m_iname"		"Hold2InvisWall2"
+		"chi"		"**一个临时（丧）工（尸）正在通过后宫沃兹高阶法师肉丸 59.99美元传送萌，把它们送回总部**"
 	}
-	"147785"
+	"An infected has passed through our portal."
 	{
-		"enable"		"0"
-		"hammerid"		"147785"
-		"m_iname"		"Hold2InvisWall3"
+		"chi"		"**一个临时（丧）工（尸）已经通过了我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
 	}
-	"145733"
+	"-Hardcore Mode-"
 	{
-		"enable"		"0"
-		"hammerid"		"145733"
-		"m_iname"		"Hold2InvisWall1"
+		"chi"		"** **"
 	}
-	"123959"
+	"You have less than 15 seconds to whipe out the remaining infected or face death!"
 	{
-		"enable"		"1"
-		"hammerid"		"123959"
-		"m_iname"		"breakableshits"
-	}
-	"123972"
-	{
-		"enable"		"1"
-		"hammerid"		"123972"
-		"m_iname"		"breakableshits"
-	}
-	"124487"
-	{
-		"enable"		"0"
-		"hammerid"		"124487"
-		"m_iname"		"anothermode_crap"
-	}
-	"124495"
-	{
-		"enable"		"0"
-		"hammerid"		"124495"
-		"m_iname"		"anothermode_crap"
-	}
-	"124505"
-	{
-		"enable"		"0"
-		"hammerid"		"124505"
-		"m_iname"		"anothermode_crap"
-	}
-	"105600"
-	{
-		"enable"		"0"
-		"hammerid"		"105600"
-		"m_iname"		"house3stuff2"
-	}
-	"105608"
-	{
-		"enable"		"0"
-		"hammerid"		"105608"
-		"m_iname"		"house3stuff2"
-	}
-	"104522"
-	{
-		"enable"		"1"
-		"hammerid"		"104522"
-		"m_iname"		"breakableshits"
-	}
-	"104530"
-	{
-		"enable"		"1"
-		"hammerid"		"104530"
-		"m_iname"		"breakableshits"
-	}
-	"532051"
-	{
-		"enable"		"0"
-		"hammerid"		"532051"
-		"m_iname"		"breakend_1"
-	}
-	"532070"
-	{
-		"enable"		"0"
-		"hammerid"		"532070"
-		"m_iname"		"breakend_2"
-	}
-	"535953"
-	{
-		"enable"		"0"
-		"hammerid"		"535953"
-		"m_iname"		"house1_debris"
-	}
-	"535956"
-	{
-		"enable"		"0"
-		"hammerid"		"535956"
-		"m_iname"		"house1_debris"
-	}
-	"535962"
-	{
-		"enable"		"0"
-		"hammerid"		"535962"
-		"m_iname"		"house1_debris"
-	}
-	"535971"
-	{
-		"enable"		"0"
-		"hammerid"		"535971"
-		"m_iname"		"house1_debris"
-	}
-	"535977"
-	{
-		"enable"		"0"
-		"hammerid"		"535977"
-		"m_iname"		"house1_debris"
-	}
-	"535980"
-	{
-		"enable"		"0"
-		"hammerid"		"535980"
-		"m_iname"		"house1_debris"
-	}
-	"535983"
-	{
-		"enable"		"0"
-		"hammerid"		"535983"
-		"m_iname"		"house1_debris"
-	}
-	"535986"
-	{
-		"enable"		"0"
-		"hammerid"		"535986"
-		"m_iname"		"house1_debris"
-	}
-	"535989"
-	{
-		"enable"		"0"
-		"hammerid"		"535989"
-		"m_iname"		"house1_debris"
-	}
-	"535992"
-	{
-		"enable"		"0"
-		"hammerid"		"535992"
-		"m_iname"		"house1_debris"
-	}
-	"535995"
-	{
-		"enable"		"0"
-		"hammerid"		"535995"
-		"m_iname"		"house1_debris"
-	}
-	"535998"
-	{
-		"enable"		"0"
-		"hammerid"		"535998"
-		"m_iname"		"house1_debris"
-	}
-	"536001"
-	{
-		"enable"		"0"
-		"hammerid"		"536001"
-		"m_iname"		"house1_debris"
-	}
-	"536004"
-	{
-		"enable"		"0"
-		"hammerid"		"536004"
-		"m_iname"		"house1_debris"
-	}
-	"536007"
-	{
-		"enable"		"0"
-		"hammerid"		"536007"
-		"m_iname"		"house1_debris"
-	}
-	"536019"
-	{
-		"enable"		"0"
-		"hammerid"		"536019"
-		"m_iname"		"house1_debris"
-	}
-	"536025"
-	{
-		"enable"		"0"
-		"hammerid"		"536025"
-		"m_iname"		"house1_debris"
-	}
-	"536034"
-	{
-		"enable"		"0"
-		"hammerid"		"536034"
-		"m_iname"		"house1_debris"
-	}
-	"536037"
-	{
-		"enable"		"0"
-		"hammerid"		"536037"
-		"m_iname"		"house1_debris"
-	}
-	"536043"
-	{
-		"enable"		"0"
-		"hammerid"		"536043"
-		"m_iname"		"house1_debris"
-	}
-	"536129"
-	{
-		"enable"		"0"
-		"hammerid"		"536129"
-		"m_iname"		"house1_debris"
-	}
-	"536132"
-	{
-		"enable"		"0"
-		"hammerid"		"536132"
-		"m_iname"		"house1_debris"
-	}
-	"536135"
-	{
-		"enable"		"0"
-		"hammerid"		"536135"
-		"m_iname"		"house1_debris"
-	}
-	"536138"
-	{
-		"enable"		"0"
-		"hammerid"		"536138"
-		"m_iname"		"house1_debris"
-	}
-	"536144"
-	{
-		"enable"		"0"
-		"hammerid"		"536144"
-		"m_iname"		"house1_debris"
-	}
-	"536147"
-	{
-		"enable"		"0"
-		"hammerid"		"536147"
-		"m_iname"		"house1_debris"
-	}
-	"536150"
-	{
-		"enable"		"0"
-		"hammerid"		"536150"
-		"m_iname"		"house1_debris"
-	}
-	"536153"
-	{
-		"enable"		"0"
-		"hammerid"		"536153"
-		"m_iname"		"house1_debris"
-	}
-	"536156"
-	{
-		"enable"		"0"
-		"hammerid"		"536156"
-		"m_iname"		"house1_debris"
-	}
-	"536159"
-	{
-		"enable"		"0"
-		"hammerid"		"536159"
-		"m_iname"		"house1_debris"
-	}
-	"536162"
-	{
-		"enable"		"0"
-		"hammerid"		"536162"
-		"m_iname"		"house1_debris"
-	}
-	"536165"
-	{
-		"enable"		"0"
-		"hammerid"		"536165"
-		"m_iname"		"house1_debris"
-	}
-	"536168"
-	{
-		"enable"		"0"
-		"hammerid"		"536168"
-		"m_iname"		"house1_debris"
-	}
-	"536171"
-	{
-		"enable"		"0"
-		"hammerid"		"536171"
-		"m_iname"		"house1_debris"
-	}
-	"536174"
-	{
-		"enable"		"0"
-		"hammerid"		"536174"
-		"m_iname"		"house1_debris"
-	}
-	"536177"
-	{
-		"enable"		"0"
-		"hammerid"		"536177"
-		"m_iname"		"house1_debris"
-	}
-	"536013"
-	{
-		"enable"		"0"
-		"hammerid"		"536013"
-		"m_iname"		"house1_debris"
+		"chi"		"** **"
 	}
 }

@@ -1,171 +1,99 @@
-"BOSSHP"
+"Console_T"
 {
-	"304197"
+	"***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
 	{
-		"enable"		"0"
-		"hammerid"		"304197"
-		"m_iname"		"metroid_glass"
+		"chi"		"指挥官:听好了水兵们，最后的银河战士将在Zebes星的某个地方出现"
 	}
-	"269783"
+	"***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
 	{
-		"enable"		"0"
-		"hammerid"		"269783"
-		"m_iname"		"ground_kraid"
+		"chi"		"Xenosaj指挥官的命令很明确:找到他，取回或者销毁他"
 	}
-	"185939"
+	"***Head for the abandoned bunker north of your location.  Start searching there.***"
 	{
-		"enable"		"0"
-		"hammerid"		"185939"
-		"m_iname"		"mb_glass"
+		"chi"		"首先去你们北面的废弃地堡找找看！"
 	}
-	"107322"
+	"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
 	{
-		"enable"		"0"
-		"hammerid"		"107322"
-		"m_iname"		"bunker_front"
+		"chi"		"地堡门10秒后关闭！"
 	}
-	"105885"
+	"***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
 	{
-		"enable"		"0"
-		"hammerid"		"105885"
-		"m_iname"		"stair_sides"
+		"chi"		"小心激光！"
 	}
-	"100026"
+	"***There's a hidden exit in the back, hold them off while I try to open it.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100026"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"后面有隐藏出口！守到门开！"
 	}
-	"100037"
+	"***The exit's clear, get out of there!***"
 	{
-		"enable"		"0"
-		"hammerid"		"100037"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"门开了！快进去！"
 	}
-	"100048"
+	"***I don't know where that teleporter will take you, but it's better than staying here!***"
 	{
-		"enable"		"0"
-		"hammerid"		"100048"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"进入传送装置！"
 	}
-	"100056"
+	"***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100056"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"距离你被烤焦还有大约1分钟"
 	}
-	"100067"
+	"***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100067"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"传送点在顶端！利用大桥或者钩爪上去！"
 	}
-	"100078"
+	"***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100078"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"基地:入侵者警告"
 	}
-	"100151"
+	"***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100151"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"基地:主脑防御装置启动，还有10秒室内净化"
 	}
-	"100154"
+	"***Quick--shoot out the glass surrounding Mother Brain!***"
 	{
-		"enable"		"0"
-		"hammerid"		"100154"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"快射击主脑的玻璃周边！"
 	}
-	"100157"
+	"***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100157"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"基地:系统鼓掌，启动二号系统"
 	}
-	"100160"
+	"***Commander Xenosajs orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100160"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"** **"
 	}
-	"100163"
+	"***Hostile movement detected south of your position.  Im sealing the bunker doors in 10 seconds, get in or get left behind!***"
 	{
-		"enable"		"0"
-		"hammerid"		"100163"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"** **"
 	}
-	"100166"
+	"***Ive managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridleys firebeam!***"
 	{
-		"enable"		"0"
-		"hammerid"		"100166"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"** **"
 	}
-	"100168"
+	"***Theres a hidden exit in the back, hold them off while I try to open it.***"
 	{
-		"enable"		"0"
-		"hammerid"		"100168"
-		"m_iname"		"bunker_side_doors"
+		"chi"		"** **"
 	}
-	"62146"
+	"***The exits clear, get out of there!***"
 	{
-		"enable"		"0"
-		"hammerid"		"62146"
-		"m_iname"		"left_window_frame"
+		"chi"		"** **"
 	}
-	"62163"
+	"***I dont know where that teleporter will take you, but its better than staying here!***"
 	{
-		"enable"		"0"
-		"hammerid"		"62163"
-		"m_iname"		"right_window_frame"
+		"chi"		"** **"
 	}
-	"12777"
+	"***Welcome to Zebes version of hell--Norfair.  Youve got maybe a minute before the heat overwhelms you.***"
 	{
-		"enable"		"0"
-		"hammerid"		"12777"
-		"m_iname"		"bunker_glass"
+		"chi"		"** **"
 	}
-	"13497"
+	"***Theres a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13497"
-		"m_iname"		"bunker_escape_wall"
+		"chi"		"** **"
 	}
-	"15306"
+	"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
 	{
-		"enable"		"0"
-		"hammerid"		"15306"
-		"m_iname"		"bunker_roof"
+		"chi"		"** **"
 	}
-	"15628"
+	"***The exits clear, get the hell out of there.  Youve got maybe ten seconds before the zombies can follow.***"
 	{
-		"enable"		"0"
-		"hammerid"		"15628"
-		"m_iname"		"bunker_roof_middle"
-	}
-	"15639"
-	{
-		"enable"		"0"
-		"hammerid"		"15639"
-		"m_iname"		"bunker_roof_sw"
-	}
-	"15653"
-	{
-		"enable"		"0"
-		"hammerid"		"15653"
-		"m_iname"		"bunker_roof_nw"
-	}
-	"15667"
-	{
-		"enable"		"0"
-		"hammerid"		"15667"
-		"m_iname"		"bunker_roof_ne"
-	}
-	"15681"
-	{
-		"enable"		"0"
-		"hammerid"		"15681"
-		"m_iname"		"bunker_roof_se"
+		"chi"		"** **"
 	}
 }

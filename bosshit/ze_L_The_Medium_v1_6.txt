@@ -1,249 +1,198 @@
-"BOSSHP"
+"Console_T"
 {
-	"436392"
+	"**Defend until the bridge spawns**"
 	{
-		"enable"		"0"
-		"hammerid"		"436392"
-		"m_iname"		"boxes2"
+		"chi"		"** **"
 	}
-	"423582"
+	"**Defend until the castle garden doors breaks**"
 	{
-		"enable"		"0"
-		"hammerid"		"423582"
-		"m_iname"		"boxes1"
+		"chi"		"** **"
 	}
-	"410620"
+	"***Gods Fire has been claimed***"
 	{
-		"enable"		"0"
-		"hammerid"		"410620"
-		"m_iname"		"L4_Glass"
+		"chi"		"** **"
 	}
-	"173191"
+	"***Recharge: 80 seconds.***"
 	{
-		"enable"		"0"
-		"hammerid"		"173191"
-		"m_iname"		"L4_CastleInGate"
+		"chi"		"** **"
 	}
-	"344887"
+	"**Defend until the castle doors break**"
 	{
-		"enable"		"0"
-		"hammerid"		"344887"
-		"m_iname"		"L7_FinalGates"
+		"chi"		"** **"
 	}
-	"346053"
+	"**Defend the 1st floor until the teleporter activates**"
 	{
-		"enable"		"0"
-		"hammerid"		"346053"
-		"m_iname"		"L7_VizLasersFinalBarrier"
+		"chi"		"** **"
 	}
-	"346078"
+	"**Start falling back**"
 	{
-		"enable"		"0"
-		"hammerid"		"346078"
-		"m_iname"		"1"
+		"chi"		"** **"
 	}
-	"346098"
+	"**Defend this spot for 20 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"346098"
-		"m_iname"		"2"
+		"chi"		"** **"
 	}
-	"347396"
+	"**JUMP**"
 	{
-		"enable"		"0"
-		"hammerid"		"347396"
-		"m_iname"		"3"
+		"chi"		"** **"
 	}
-	"272222"
+	"**Its Viz!**"
 	{
-		"enable"		"1"
-		"hammerid"		"272222"
-		"m_iname"		"L7_VizBossBreakable"
+		"chi"		"** **"
 	}
-	"272281"
+	"**Viz: Die fools..**"
 	{
-		"enable"		"1"
-		"hammerid"		"272281"
-		"m_iname"		"L7_VizBossBlock1"
+		"chi"		"** **"
 	}
-	"272284"
+	"**Viz is escaping, go after him**"
 	{
-		"enable"		"1"
-		"hammerid"		"272284"
-		"m_iname"		"L7_VizBossBlock2"
+		"chi"		"** **"
 	}
-	"272287"
+	"**Viz: Be prepared..**"
 	{
-		"enable"		"1"
-		"hammerid"		"272287"
-		"m_iname"		"L7_VizBossBlock3"
+		"chi"		"** **"
 	}
-	"272290"
+	"**GET READY TO DODGE LASERS"
 	{
-		"enable"		"1"
-		"hammerid"		"272290"
-		"m_iname"		"L7_VizBossBlock4"
+		"chi"		"** **"
 	}
-	"264710"
+	"**3**"
 	{
-		"enable"		"0"
-		"hammerid"		"264710"
-		"m_iname"		"L6_Boxes"
+		"chi"		"** **"
 	}
-	"260597"
+	"**2**"
 	{
-		"enable"		"0"
-		"hammerid"		"260597"
-		"m_iname"		"L6_LasersBarrier"
+		"chi"		"** **"
 	}
-	"251009"
+	"**1**"
 	{
-		"enable"		"0"
-		"hammerid"		"251009"
-		"m_iname"		"L6_MetalGatesFront"
+		"chi"		"** **"
 	}
-	"251024"
+	"**CHASE VIZ!**"
 	{
-		"enable"		"0"
-		"hammerid"		"251024"
-		"m_iname"		"L6_MetalGatesBack"
+		"chi"		"** **"
 	}
-	"251526"
+	"**Take the left path**"
 	{
-		"enable"		"0"
-		"hammerid"		"251526"
-		"m_iname"		"L6_Bridges"
+		"chi"		"** **"
 	}
-	"237221"
+	"**Final platforms will break in 110 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"237221"
-		"m_iname"		"L6_Door1"
+		"chi"		"** **"
 	}
-	"217175"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"217175"
-		"m_iname"		"L4_BoxBarricade"
+		"syncvalue"		"92802"
 	}
-	"203860"
+	"**It will break in 70 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"203860"
-		"m_iname"		"L5_FinalBridge"
+		"chi"		"** **"
 	}
-	"203895"
+	"**It will break in 80 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"203895"
-		"m_iname"		"L5_FinalPlatform"
+		"chi"		"** **"
 	}
-	"193521"
+	"**Defend this teleporter**"
 	{
-		"enable"		"0"
-		"hammerid"		"193521"
-		"m_iname"		"l5castlebridge"
+		"chi"		"** **"
 	}
-	"187292"
+	"**For 50 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"187292"
-		"m_iname"		"L5_LakeBridge"
+		"chi"		"** **"
 	}
-	"187538"
+	"*** Admin switched to Act L6-L7! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"187538"
-		"m_iname"		"L5_Cage"
+		"chi"		"** **"
 	}
-	"165195"
+	"**Reach the teleporter to meet Leiv**"
 	{
-		"enable"		"0"
-		"hammerid"		"165195"
-		"m_iname"		"L4_to_L5_Barrier"
+		"chi"		"** **"
 	}
-	"130118"
+	"**Beware of Viz attack!**"
 	{
-		"enable"		"0"
-		"hammerid"		"130118"
-		"m_iname"		"L5_FinalBox"
+		"chi"		"** **"
 	}
-	"69781"
+	"**First gates will break in 30 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"69781"
-		"m_iname"		"AdminRoom_Level1_Phsybox"
+		"chi"		"** **"
 	}
-	"69807"
+	"**Second gates will break in 50 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"69807"
-		"m_iname"		"AdminRoom_Level2_Phsybox"
+		"chi"		"** **"
 	}
-	"173162"
+	"**Door will break in 20 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"173162"
-		"m_iname"		"L4_CastleOutGate"
+		"chi"		"** **"
 	}
-	"184406"
+	"**Bridges will break in 40 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"184406"
-		"m_iname"		"L4_SpawnBridge"
+		"chi"		"** **"
 	}
-	"410664"
+	"MapGlobal_ConVars"
 	{
-		"enable"		"0"
-		"hammerid"		"410664"
-		"m_iname"		"L4_Ladders"
+		"0"
+		{
+			"cvar"		"mp_roundtime 15"
+		}
 	}
-	"410673"
+	"**Leiv: Heal my warriors and prepare to fight.**"
 	{
-		"enable"		"0"
-		"hammerid"		"410673"
-		"m_iname"		"L4_Ladders"
+		"chi"		"** **"
 	}
-	"410677"
+	"**Leiv: Teleporting everyone in 10 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"410677"
-		"m_iname"		"L4_Ladders"
+		"chi"		"** **"
 	}
-	"410681"
+	"**Destroy Viz Shield!**"
 	{
-		"enable"		"0"
-		"hammerid"		"410681"
-		"m_iname"		"L4_Ladders"
+		"chi"		"** **"
 	}
-	"410685"
+	"**Demonfire**"
 	{
-		"enable"		"0"
-		"hammerid"		"410685"
-		"m_iname"		"L4_Ladders"
+		"chi"		"** **"
 	}
-	"196851"
+	"**Heat Wave**"
 	{
-		"enable"		"0"
-		"hammerid"		"196851"
-		"m_iname"		"L5_VizLaserWall"
+		"chi"		"** **"
 	}
-	"196858"
+	"**Execute**"
 	{
-		"enable"		"0"
-		"hammerid"		"196858"
-		"m_iname"		"L5_VizLaserWall"
+		"chi"		"** **"
 	}
-	"267046"
+	"**Fire Vortex**"
 	{
-		"enable"		"1"
-		"hammerid"		"267046"
-		"m_iname"		"L7_BossBridges"
+		"chi"		"** **"
 	}
-	"347154"
+	"**Viz has escaped!**"
 	{
-		"enable"		"0"
-		"hammerid"		"347154"
-		"m_iname"		"L7_VizFinalBreakable"
+		"chi"		"** **"
+	}
+	"**Humans teleporting in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Gates will break in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**DESTROY VIZ SHIELD**"
+	{
+		"chi"		"** **"
+	}
+	"**STAGE FAILED**"
+	{
+		"chi"		"** **"
+	}
+	"**GET SAFE**"
+	{
+		"chi"		"** **"
+	}
+	"**HE ESCAPED**"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

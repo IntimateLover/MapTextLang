@@ -1,297 +1,572 @@
-"BOSSHP"
+"Console_T"
 {
-	"430731"
+	"***Special thanks to: Leks***"
 	{
-		"enable"		"0"
-		"hammerid"		"430731"
-		"m_iname"		"break_2_3"
+		"chi"		"** **"
 	}
-	"393897"
+	"***Level: The Maze***"
 	{
-		"enable"		"1"
-		"hammerid"		"393897"
-		"m_iname"		"boss_Hades"
+		"chi"		"**admin**"
 	}
-	"396261"
+	"***Welcome***"
 	{
-		"enable"		"0"
-		"hammerid"		"396261"
-		"m_iname"		"hp_break_100"
+		"chi"		"** **"
 	}
-	"396278"
+	"***Map made by Qahnaarin***"
 	{
-		"enable"		"0"
-		"hammerid"		"396278"
-		"m_iname"		"hp_break_75"
+		"chi"		"** **"
 	}
-	"396289"
+	"***Special thanks to: Luffaren***"
 	{
-		"enable"		"0"
-		"hammerid"		"396289"
-		"m_iname"		"hp_break_50"
+		"chi"		"** **"
 	}
-	"396300"
+	"***Door will open in 40s***"
 	{
-		"enable"		"0"
-		"hammerid"		"396300"
-		"m_iname"		"hp_break_25"
+		"chi"		"**40秒后开门**"
 	}
-	"381461"
+	"***Door will open in 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"381461"
-		"m_iname"		"break_bridge"
+		"chi"		"**20秒后开门**"
 	}
-	"382464"
+	"***Door will open in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"382464"
-		"m_iname"		"break_3_3"
+		"chi"		"**5秒后开门**"
 	}
-	"382499"
+	"***The door will open in 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"382499"
-		"m_iname"		"break_floor"
+		"chi"		"**20秒后开门**"
 	}
-	"383069"
+	"***The door will open in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"383069"
-		"m_iname"		"stone_break"
+		"chi"		"**5秒后开门**"
 	}
-	"383315"
+	"**Door is opening***"
 	{
-		"enable"		"0"
-		"hammerid"		"383315"
-		"m_iname"		"fence_break"
+		"chi"		"**门开了**"
 	}
-	"383399"
+	"***All pillars have been activated***"
 	{
-		"enable"		"0"
-		"hammerid"		"383399"
-		"m_iname"		"break_3_5"
+		"chi"		"**所有柱子被触发**"
 	}
-	"383463"
+	"***Teleporter will activate in 40s***"
 	{
-		"enable"		"0"
-		"hammerid"		"383463"
-		"m_iname"		"break_3_6"
+		"chi"		"**40秒后触发传送**"
 	}
-	"376642"
+	"***Teleporter will activate in 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"376642"
-		"m_iname"		"door_3_1"
+		"chi"		"**20秒后触发传送**"
 	}
-	"376661"
+	"***Teleporter will activate in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"376661"
-		"m_iname"		"door_3_2"
+		"chi"		"**5秒后触发传送**"
 	}
-	"365501"
+	"***Teleporter activated***"
 	{
-		"enable"		"0"
-		"hammerid"		"365501"
-		"m_iname"		"door_3_4"
+		"chi"		"**传送!!!**"
 	}
-	"355741"
+	"***Bridge ready in 30s***"
 	{
-		"enable"		"0"
-		"hammerid"		"355741"
-		"m_iname"		"break_1_3"
+		"chi"		"**30秒后桥打开**"
 	}
-	"356028"
+	"***The bridge will lower down soon, keep defending***"
 	{
-		"enable"		"0"
-		"hammerid"		"356028"
-		"m_iname"		"break_1_4"
+		"chi"		"** **"
 	}
-	"275812"
+	"***Bridge ready in 15s***"
 	{
-		"enable"		"0"
-		"hammerid"		"275812"
-		"m_iname"		"break_1_2"
+		"chi"		"**15秒后桥打开**"
 	}
-	"5332"
+	"***FALL BACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"5332"
-		"m_iname"		"break_2_2"
+		"chi"		"**溜溜球!!!**"
 	}
-	"5438"
+	"***Button 2 is triggered***"
 	{
-		"enable"		"0"
-		"hammerid"		"5438"
-		"m_iname"		"bridge_door_2"
+		"chi"		"**按钮2被触发**"
 	}
-	"5441"
+	"***Button 1 is triggered***"
 	{
-		"enable"		"0"
-		"hammerid"		"5441"
-		"m_iname"		"bridge_door_2"
+		"chi"		"**按钮1被触发**"
 	}
-	"5444"
+	"***All buttons are pressed***"
 	{
-		"enable"		"0"
-		"hammerid"		"5444"
-		"m_iname"		"bridge_door_1"
+		"chi"		"**所有按钮已经触发**"
 	}
-	"5447"
+	"***The door will open in 30s***"
 	{
-		"enable"		"0"
-		"hammerid"		"5447"
-		"m_iname"		"bridge_door_1"
+		"chi"		"**30秒后开门**"
 	}
-	"5455"
+	"***The door will open in 15s***"
 	{
-		"enable"		"0"
-		"hammerid"		"5455"
-		"m_iname"		"wall_break_3"
+		"chi"		"**15秒后开门**"
 	}
-	"5686"
+	"***Door is opening***"
 	{
-		"enable"		"0"
-		"hammerid"		"5686"
-		"m_iname"		"break_2_1"
+		"chi"		"**门开了**"
 	}
-	"5694"
+	"***WELCOME TO THE MAZE***"
 	{
-		"enable"		"0"
-		"hammerid"		"5694"
-		"m_iname"		"Level_2_6_1"
+		"chi"		"**欢迎来到迷宫**"
 	}
-	"5697"
+	"***Find the button to open the door***"
 	{
-		"enable"		"0"
-		"hammerid"		"5697"
-		"m_iname"		"Level_2_6_2"
+		"chi"		"**寻找打开大门的按钮**"
 	}
-	"5700"
+	"***You found the button***"
 	{
-		"enable"		"0"
-		"hammerid"		"5700"
-		"m_iname"		"Level_2_8"
+		"chi"		"**你们找到了按钮**"
 	}
-	"5706"
+	"***The door will open in 10s***"
 	{
-		"enable"		"0"
-		"hammerid"		"5706"
-		"m_iname"		"Level_2_10"
+		"chi"		"**10秒后开门**"
 	}
-	"5876"
+	"***Waiting for something to happen...***"
 	{
-		"enable"		"0"
-		"hammerid"		"5876"
-		"m_iname"		"clip_2_5"
+		"chi"		"**耐心等待......**"
 	}
-	"5934"
+	"***The secret door is opening***"
 	{
-		"enable"		"0"
-		"hammerid"		"5934"
-		"m_iname"		"hidden_2"
+		"chi"		"**秘道被打开了**"
 	}
-	"5937"
+	"***A garden?**"
 	{
-		"enable"		"0"
-		"hammerid"		"5937"
-		"m_iname"		"hidden_1"
+		"chi"		"**一个花园???**"
 	}
-	"5956"
+	"***Hmmm?***"
 	{
-		"enable"		"0"
-		"hammerid"		"5956"
-		"m_iname"		"clip_2_6"
+		"chi"		"**真的假的???**"
 	}
-	"5970"
+	"***Teleporter activate in 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"5970"
-		"m_iname"		"ladder_2_1"
+		"chi"		"**20秒后传送**"
 	}
-	"6494"
+	"***Resist 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"6494"
-		"m_iname"		"brush_1_1"
+		"chi"		"**坚守20秒**"
 	}
-	"6563"
+	"***Door opened***"
 	{
-		"enable"		"0"
-		"hammerid"		"6563"
-		"m_iname"		"break_1_1"
+		"chi"		"**门开了**"
 	}
-	"7197"
+	"***Resist 30s***"
 	{
-		"enable"		"0"
-		"hammerid"		"7197"
-		"m_iname"		"bridge_door_1"
+		"chi"		"**坚守30秒**"
 	}
-	"7203"
+	"***Door is opened***"
 	{
-		"enable"		"0"
-		"hammerid"		"7203"
-		"m_iname"		"bridge_door_2"
+		"chi"		"**门开了**"
 	}
-	"7215"
+	"***Defend the last platform for 45s***"
 	{
-		"enable"		"0"
-		"hammerid"		"7215"
-		"m_iname"		"Level_2_6"
+		"chi"		"**在最后的平台坚守45秒**"
 	}
-	"8363"
+	"***ZM on the last platform!!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"8363"
-		"m_iname"		"castle_break"
+		"chi"		"**最后的ZM!!!**"
 	}
-	"8443"
+	"***YOU FAILED***"
 	{
-		"enable"		"0"
-		"hammerid"		"8443"
-		"m_iname"		"Floor_break_2_1"
+		"chi"		"**你们输了!!!**"
 	}
-	"8482"
+	"***Other platforms break in 20s***"
 	{
-		"enable"		"0"
-		"hammerid"		"8482"
-		"m_iname"		"Stage1_final_break"
+		"chi"		"**20秒后平台碎裂**"
 	}
-	"9564"
+	"***Other platforms break in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"9564"
-		"m_iname"		"wall_break_1"
+		"chi"		"**5秒后平台碎裂**"
 	}
-	"9567"
+	"***Path to the truth will open in 5s***"
 	{
-		"enable"		"0"
-		"hammerid"		"9567"
-		"m_iname"		"wall_break_2"
+		"chi"		"**5秒后开启真正的道路**"
 	}
-	"9831"
+	"***Only the chosen one can live***"
 	{
-		"enable"		"0"
-		"hammerid"		"9831"
-		"m_iname"		"break_3_2"
+		"chi"		"**只有天选之人才能活下来**"
+		"DoorCountDown"		"10"
 	}
-	"9841"
+	"***You are too weak***"
 	{
-		"enable"		"0"
-		"hammerid"		"9841"
-		"m_iname"		"break_3_1"
+		"chi"		"**你们太弱了!!!**"
+		"DoorCountDown"		"8"
 	}
-	"396349"
+	"***Lets do a test***"
 	{
-		"enable"		"1"
-		"hammerid"		"396349"
-		"m_iname"		"boss_bridge"
+		"chi"		"**让我们试一试吧!!!!**"
+		"DoorCountDown"		"7"
 	}
-	"524309"
+	"***Show me your strength***"
 	{
-		"enable"		"0"
-		"hammerid"		"524309"
-		"m_iname"		"break_3_7"
+		"chi"		"**让我看看你们到底几斤几两**"
+		"DoorCountDown"		"5"
+	}
+	"***Beware***"
+	{
+		"chi"		"**目视前方**"
+		"DoorCountDown"		"3"
+	}
+	"***Congratulation!!!!***"
+	{
+		"chi"		"**恭喜!!!**"
+	}
+	"***Level: The Maze completed***"
+	{
+		"chi"		"** **"
+	}
+	"***Level: The Underground activated***"
+	{
+		"chi"		"** **"
+	}
+	"***Level: The Underground***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep holding***"
+	{
+		"chi"		"**坚持住!!!**"
+	}
+	"***The floor break, jump into the hole***"
+	{
+		"chi"		"**地板碎了,跳入洞口**"
+	}
+	"***The brige will open in 20s***"
+	{
+		"chi"		"**20秒后桥被打开**"
+	}
+	"***The bridge will open in 5s***"
+	{
+		"chi"		"**5秒后桥被打开**"
+	}
+	"***The door will open in 40s***"
+	{
+		"chi"		"**40秒后开门**"
+	}
+	"***Door will open in 25s***"
+	{
+		"chi"		"**40秒后开门**"
+	}
+	"***I see Doorhugger...***"
+	{
+		"chi"		"**我看见了贴门划刀的**"
+	}
+	"***Doorhugger please defend...***"
+	{
+		"chi"		"**贴门的请开枪**"
+	}
+	"***Or you will die...***"
+	{
+		"chi"		"**或则请立刻去世**"
+	}
+	"***I have to do this....***"
+	{
+		"chi"		"**我不能袖手旁观**"
+	}
+	"***Rest in Peace...***"
+	{
+		"chi"		"**安息吧**"
+	}
+	"***There is a hidden door!!!***"
+	{
+		"chi"		"**这里有一个秘道**"
+	}
+	"***Go to the hidden path!!!***"
+	{
+		"chi"		"**进入秘道!!!**"
+	}
+	"***The door is opened***"
+	{
+		"chi"		"**门开了**"
+	}
+	"***Resist 5s***"
+	{
+		"chi"		"**坚持5秒**"
+	}
+	"***The path is cleared***"
+	{
+		"chi"		"**通道开启**"
+	}
+	"***Shoot the wall to go outside! Hurry !!!***"
+	{
+		"chi"		"**快点打碎这个墙!!!**"
+	}
+	"***Shoot the wall to go inside***"
+	{
+		"chi"		"**打碎墙出去**"
+	}
+	"***Final escape door open in 10s***"
+	{
+		"chi"		"**10秒打开最后的安全出口**"
+	}
+	"***The platform is leaving in 25s***"
+	{
+		"chi"		"**25秒后平台起飞**"
+	}
+	"***The platform is leaving in 5s***"
+	{
+		"chi"		"**5秒后平台起飞**"
+	}
+	"***Congratulations!!!***"
+	{
+		"chi"		"**恭喜!!!**"
+	}
+	"***You won Level: The Underground***"
+	{
+		"chi"		"** **"
+	}
+	"***Level: The Necromanteion activated***"
+	{
+		"chi"		"** **"
+	}
+	"***Level: The Necromanteion***"
+	{
+		"chi"		"** **"
+	}
+	"***The door is locked. Find a way to unlock it***"
+	{
+		"chi"		"**门锁上了,寻找方法解锁**"
+	}
+	"***Door will open in 45s***"
+	{
+		"chi"		"**45秒后开门**"
+	}
+	"***Door will open in 10s***"
+	{
+		"chi"		"**10秒后开门**"
+	}
+	"***Elevator leaving in 15s***"
+	{
+		"chi"		"**15秒后电梯上升**"
+	}
+	"***Elevator leaving in 5s***"
+	{
+		"chi"		"**5秒后电梯上升**"
+	}
+	"***Teleporter will be activated in 20s***"
+	{
+		"chi"		"**20秒后触发传送**"
+	}
+	"***Teleporter will be activated in 10s***"
+	{
+		"chi"		"**10秒后触发传送**"
+	}
+	"***The bridge will be activated in 15s***"
+	{
+		"chi"		"**15秒后启动桥**"
+	}
+	"***The bridge will be activated in 5s***"
+	{
+		"chi"		"**5秒后启动桥**"
+	}
+	"***The bridge is activated***"
+	{
+		"chi"		"**桥开始启动**"
+	}
+	"***The portal will activate in 60***"
+	{
+		"chi"		"**60秒后入口打开**"
+	}
+	"***The portal will activate in 20s***"
+	{
+		"chi"		"**20秒后入口打开**"
+	}
+	"***The portal will activate in 5s***"
+	{
+		"chi"		"**5秒后入口打开**"
+	}
+	"***The portal is activated***"
+	{
+		"chi"		"**入口被开启**"
+	}
+	"***The door will open in 25s***"
+	{
+		"chi"		"**25秒后开门**"
+	}
+	"***JUMP DOWN***"
+	{
+		"chi"		"**往下跳!!!**"
+	}
+	"***The ceiling will break in 15s***"
+	{
+		"chi"		"**15秒后开门**"
+	}
+	"***The ceiling is broken***"
+	{
+		"chi"		"**门开了**"
+	}
+	"***Shoot the floor!!!***"
+	{
+		"chi"		"**打碎地板!!!!**"
+	}
+	"***The bridge is going up***"
+	{
+		"chi"		"**桥开始上升**"
+	}
+	"***The bridge is coming up***"
+	{
+		"chi"		"**桥来了**"
+	}
+	"***The elevators are leaving in 40s***"
+	{
+		"chi"		"**40秒后电梯上升**"
+	}
+	"***The elevators are leaving in 15s***"
+	{
+		"chi"		"**15秒后电梯一上升**"
+	}
+	"***The elevators are leaving in 5s***"
+	{
+		"chi"		"**5秒后电梯上身**"
+	}
+	"***The gates will break in 20s***"
+	{
+		"chi"		"**20秒后开门**"
+	}
+	"***The gates will break in 5s***"
+	{
+		"chi"		"**5秒后开门**"
+	}
+	"***The door will break in 15s***"
+	{
+		"chi"		"**15秒后开门**"
+	}
+	"***What is happening?***"
+	{
+		"chi"		"**耐心等待**"
+	}
+	"***Looks like something gonna happen...***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait...what...***"
+	{
+		"chi"		"** **"
+	}
+	"***Ahhhhhhhhhhhhhh***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME MORTALS***"
+	{
+		"chi"		"** **"
+	}
+	"***FACE THE JUDGEMENT***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE 2 MINS TO DEFEAT ME***"
+	{
+		"chi"		"**2分钟倒计时**"
+	}
+	"***SUPERNOVA***"
+	{
+		"chi"		"**超新星**"
+		"DoorCountDown"		"2"
+	}
+	"***SERVANTS***"
+	{
+		"chi"		"**尸笼**"
+		"DoorCountDown"		"2"
+	}
+	"***SABER***"
+	{
+		"chi"		"**利刃**"
+		"DoorCountDown"		"2"
+	}
+	"***BLACK HOLE***"
+	{
+		"chi"		"**黑洞**"
+		"DoorCountDown"		"2"
+	}
+	"***DEATH LIGHT***"
+	{
+		"chi"		"**死亡光线**"
+		"DoorCountDown"		"2"
+	}
+	"***You take too much of time!!!***"
+	{
+		"chi"		"**超时了**"
+	}
+	"***You failed!!!***"
+	{
+		"chi"		"**你们输了**"
+	}
+	"***You defeated me....***"
+	{
+		"chi"		"**你防守住了我**"
+	}
+	"***But Im not dead yet.....***"
+	{
+		"chi"		"**但是我没有死**"
+	}
+	"***I know I will see you in the future......***"
+	{
+		"chi"		"**我们在不久的将来会面的**"
+	}
+	"***LEAVE NOW***"
+	{
+		"chi"		"**溜溜球**"
+	}
+	"***Hold them for 2 minutess***"
+	{
+		"chi"		"**坚守2分钟**"
+	}
+	"***ZOMBIE REACHED THE FINAL ESCAPE ROOM***"
+	{
+		"chi"		"**僵尸进入最后的逃生房**"
+	}
+	"**1 minute left, keep holding***"
+	{
+		"chi"		"**倒计时1分钟**"
+	}
+	"***Admin button is pressed !!!***"
+	{
+		"chi"		"**admin按钮被按下**"
+	}
+	"***30s left***"
+	{
+		"chi"		"**倒计时30秒**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"31603"
+	}
+	"***Hold them for 1 minute***"
+	{
+		"chi"		"**坚守1分钟**"
+	}
+	"***15s left***"
+	{
+		"chi"		"**倒计时15秒**"
+	}
+	"***5s LEFT***"
+	{
+		"chi"		"**倒计时5秒**"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"2"
+		{
+			"cvar"		"sm_cvar sm_he_limit 5"
+		}
+		"3"
+		{
+			"cvar"		"sm_cvar   sm_molotov_limit 2"
+		}
+		"4"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+	}
+	"***The portal will activate in 70***"
+	{
+		"chi"		"** **"
 	}
 }

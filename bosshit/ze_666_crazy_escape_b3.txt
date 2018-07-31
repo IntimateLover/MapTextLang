@@ -1,51 +1,89 @@
-"BOSSHP"
+"Console_T"
 {
-	"62470"
+	"### HOLD THE FOUNTAIN FOR 30 SECONDS ##"
 	{
-		"enable"		"0"
-		"hammerid"		"62470"
-		"m_iname"		"nrk1_jail_breakable"
+		"chi"		"**在喷泉前守住30秒**"
 	}
-	"62514"
+	"### 10 SECONDS REMAINING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"62514"
-		"m_iname"		"nrk1_room3_breakable"
+		"chi"		"**倒计时10秒**"
 	}
-	"62550"
+	"### STAY IN THE FOUNTAIN FOR TELEPORT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"62550"
-		"m_iname"		"nrk1_room2_breakable"
+		"chi"		"**站在喷泉上等待传送**"
 	}
-	"49937"
+	"### HIDE HERE FOR 60 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"49937"
-		"m_iname"		"nrk1_room6_fence"
+		"chi"		"**找地方苟住60秒**"
 	}
-	"29595"
+	"### ZOMBIES ARE INCOMING IN 5 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"29595"
-		"m_iname"		"nrk1_room4_statue_break"
+		"chi"		"**僵尸5秒后来袭**"
 	}
-	"46816"
+	"### 30 SECONDS REMAINING ###"
 	{
-		"enable"		"1"
-		"hammerid"		"46816"
-		"m_iname"		"nrk1_naraka_boss_hitbox"
+		"chi"		"**倒计时30秒**"
 	}
-	"46997"
+	"### ZOMBIES ARE INCOMING IN 5 SECONDS"
 	{
-		"enable"		"0"
-		"hammerid"		"46997"
-		"m_iname"		"nrk1_naraka_CY01Physic"
+		"chi"		"**僵尸5秒后来袭**"
 	}
-	"51265"
+	"### TELEPORT INCOMING IN 30 SECONDS ###"
 	{
-		"enable"		"1"
-		"hammerid"		"51265"
-		"m_iname"		"nrk1_laserboss_2_break"
+		"chi"		"**30秒后大传送**"
+	}
+	"### HELL BRIDGE SPAWNS IN 5 SECONDS"
+	{
+		"chi"		"**地狱之桥5秒后出现**"
+	}
+	"### DESTROY THE STATUE ###"
+	{
+		"chi"		"**打碎雕像**"
+	}
+	"### HOLD HERE FOR 30 SECONDS ###"
+	{
+		"chi"		"**在这里守住30秒**"
+	}
+	"### 10 SECONDS REMAININGS ###"
+	{
+		"chi"		"**倒计时10秒**"
+	}
+	"### TELEPORT INCOMING IN 30 SECONDS"
+	{
+		"chi"		"**30秒后大传送**"
+	}
+	">>> KILL HIM BEFORE HE KILLS YOU  <<<"
+	{
+		"chi"		">>>最快速度打死BOSS<<<"
+	}
+	"### DEFEND VENTS IN 10 SECONDS ###"
+	{
+		"chi"		"**守住通风口!!!**"
+	}
+	"### NARAKA HAS DISAPPEAR !! ###"
+	{
+		"chi"		"**BOSS消失了!!!**"
+	}
+	"### SHHHHHHH ... NARAKA ###"
+	{
+		"chi"		"**BOSS出现了!!!!**"
+	}
+	">>> HES DEAD. DEFEND UNTIL TELEPORT <<<"
+	{
+		"chi"		">>>BOSS死了.守住直到人类被传送<<<"
+	}
+	"### TEST THIS YOU FOOL !! ###"
+	{
+		"chi"		"**准备跳刀!!!!**"
+		"DoorCountDown"		"-1"
+	}
+	"### NICE TRY YOU FOOL !!! ###"
+	{
+		"chi"		"**真正的跳刀大逃亡!!!!**"
+		"DoorCountDown"		"-1"
+	}
+	"### HOLD HERE FOR 15 SECONDS ###"
+	{
+		"chi"		"**守住最后的15秒!!!胜利就在眼前!!!**"
 	}
 }

@@ -1,105 +1,47 @@
-"BOSSHP"
+"Console_T"
 {
-	"359397"
+	"** Ape Escape : Pumped & Primed **"
 	{
-		"enable"		"0"
-		"hammerid"		"359397"
-		"m_iname"		"DoubleJump_phys&9855"
+		"chi"		"** **"
 	}
-	"349198"
+	"** Nano Grid2 12 **"
 	{
-		"enable"		"0"
-		"hammerid"		"349198"
-		"m_iname"		"Barrier1_1"
+		"chi"		"**地图：纳米网格 **"
 	}
-	"349240"
+	"** Map by ryo **"
 	{
-		"enable"		"0"
-		"hammerid"		"349240"
-		"m_iname"		"Barrier1_2"
+		"chi"		"**地图作者:RYO 翻译：我不信没用户名 **"
 	}
-	"349279"
+	"** 10 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"349279"
-		"m_iname"		"Barrier1_3"
+		"chi"		"**还有10秒 **"
 	}
-	"349321"
+	"** 25 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"349321"
-		"m_iname"		"Barrier1_4"
+		"chi"		"**还有25秒 **"
 	}
-	"350300"
+	"** 5 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"350300"
-		"m_iname"		"Gimmick_Lift_Glass"
+		"chi"		"**还有5秒 **"
 	}
-	"331813"
+	"** 15 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"331813"
-		"m_iname"		"Gimmick_Lift_Damage"
+		"chi"		"**还有15秒 **"
 	}
-	"173711"
+	"** 20 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"173711"
-		"m_iname"		"Breakable1"
+		"chi"		"**还有20秒 **"
 	}
-	"351164"
+	"** 30 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"351164"
-		"m_iname"		"Barrier2_7"
+		"chi"		"**还有30秒 **"
 	}
-	"349439"
+	"** Nano Grid2 22 **"
 	{
-		"enable"		"0"
-		"hammerid"		"349439"
-		"m_iname"		"Barrier2_1"
+		"chi"		"** **"
 	}
-	"349797"
+	"** HUMANS WIN **"
 	{
-		"enable"		"0"
-		"hammerid"		"349797"
-		"m_iname"		"Barrier2_4"
-	}
-	"350138"
-	{
-		"enable"		"0"
-		"hammerid"		"350138"
-		"m_iname"		"Barrier2_6"
-	}
-	"349559"
-	{
-		"enable"		"0"
-		"hammerid"		"349559"
-		"m_iname"		"Barrier2_2"
-	}
-	"349668"
-	{
-		"enable"		"0"
-		"hammerid"		"349668"
-		"m_iname"		"Barrier2_3"
-	}
-	"350000"
-	{
-		"enable"		"0"
-		"hammerid"		"350000"
-		"m_iname"		"Barrier2_5"
-	}
-	"368553"
-	{
-		"enable"		"0"
-		"hammerid"		"368553"
-		"m_iname"		"St2_Zombie1"
-	}
-	"368616"
-	{
-		"enable"		"0"
-		"hammerid"		"368616"
-		"m_iname"		"St2_Zombie2"
+		"chi"		"** **"
 	}
 }

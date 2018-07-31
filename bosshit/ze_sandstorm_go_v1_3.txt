@@ -1,207 +1,340 @@
-"BOSSHP"
+"Console_T"
 {
-	"15127789"
+	">>> WARMUP ROUND <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"15127789"
-		"m_iname"		"knf_phy_2"
+		"chi"		"**热身局**"
 	}
-	"15127792"
+	">>*** MAP BY STK ***<<"
 	{
-		"enable"		"0"
-		"hammerid"		"15127792"
-		"m_iname"		"knf_phy_3"
+		"chi"		"**地图作者：STK**"
 	}
-	"15127795"
+	"** LEVEL 1 **"
 	{
-		"enable"		"0"
-		"hammerid"		"15127795"
-		"m_iname"		"knf_phy_4"
+		"chi"		"**第1关**"
 	}
-	"15127798"
+	"** A player has picked up Fire Staff **"
 	{
-		"enable"		"0"
-		"hammerid"		"15127798"
-		"m_iname"		"knf_phy_1"
+		"chi"		"**一位玩家拾起了烈焰权杖**"
 	}
-	"8388832"
+	"** The doors will open in 20 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"8388832"
-		"m_iname"		"CY01Physic"
+		"chi"		"**大门20秒后打开**"
+		"DoorCountDown"		"20"
 	}
-	"8774225"
+	"** A player has picked up Tornado Staff **"
 	{
-		"enable"		"1"
-		"hammerid"		"8774225"
-		"m_iname"		"garg_hitbox"
+		"chi"		"** 一位玩家拾起了飓风权杖 **"
 	}
-	"9609889"
+	"** 5 Seconds left **"
 	{
-		"enable"		"0"
-		"hammerid"		"9609889"
-		"m_iname"		"CY01Physic1"
+		"chi"		"**还有5秒**"
 	}
-	"13344494"
+	"** FALL BACK **"
 	{
-		"enable"		"0"
-		"hammerid"		"13344494"
-		"m_iname"		"CY01Physic_5"
+		"chi"		"**撤**"
 	}
-	"11666542"
+	"** A player has picked up Earth Staff **"
 	{
-		"enable"		"0"
-		"hammerid"		"11666542"
-		"m_iname"		"tornado_fix"
+		"chi"		"**一位玩家拾起了大地权杖**"
 	}
-	"8382173"
+	"** The door will open in 25 seconds **"
 	{
-		"enable"		"1"
-		"hammerid"		"8382173"
-		"m_iname"		"mutant_hitbox"
+		"chi"		"**门将25秒后打开**"
+		"DoorCountDown"		"25"
 	}
-	"13344452"
+	"** A player has picked up Quicksand Staff **"
 	{
-		"enable"		"1"
-		"hammerid"		"13344452"
-		"m_iname"		"grg_hitbox"
+		"chi"		"**一位玩家拾起了流沙权杖**"
 	}
-	"9609216"
+	"** The doors will open in 15 seconds **"
 	{
-		"enable"		"1"
-		"hammerid"		"9609216"
-		"m_iname"		"mutant_hitbox1"
+		"chi"		"**门15后打开**"
 	}
-	"9381785"
+	"** Bomb explodes in 10 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"9381785"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**C4炸药10秒后爆炸**"
 	}
-	"9386222"
+	"** Hold zombies for 15 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"9386222"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**防守15秒**"
 	}
-	"9443685"
+	"** KILL THE REMAINING ZOMBIES! **"
 	{
-		"enable"		"0"
-		"hammerid"		"9443685"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**解决掉安全房中剩下的僵尸**"
 	}
-	"9460751"
+	"*** YOU WON STAGE 1 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"9460751"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**你拿下了第一关**"
 	}
-	"9465322"
+	"** LEVEL 2 **"
 	{
-		"enable"		"0"
-		"hammerid"		"9465322"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**第二关**"
 	}
-	"12797155"
+	"** A player has picked up Heal Staff **"
 	{
-		"enable"		"0"
-		"hammerid"		"12797155"
-		"m_iname"		"ph_crystal_ph"
+		"chi"		"** 一位玩家拾起治愈权杖 **"
 	}
-	"8396672"
+	"** A player has picked up SandStorm Staff **"
 	{
-		"enable"		"0"
-		"hammerid"		"8396672"
-		"m_iname"		"door_hhh"
+		"chi"		"** 一位玩家拾起沙尘暴 **"
 	}
-	"9399546"
+	"** Teleport will open in 15 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"9399546"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**传送器15秒后打开**"
 	}
-	"9399557"
+	"** Kill him or he kills you!!! **"
 	{
-		"enable"		"0"
-		"hammerid"		"9399557"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**爆它菊或者被它爆**"
 	}
-	"9425434"
+	"*** Grenades do more damage. ***"
 	{
-		"enable"		"0"
-		"hammerid"		"9425434"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**手雷能有效输出**"
 	}
-	"9425438"
+	"*** He's dead. Run. ***"
 	{
-		"enable"		"0"
-		"hammerid"		"9425438"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**boss死啦，快跑**"
 	}
-	"9425448"
+	"** The doors will open on 15 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"9425448"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**15秒后门将打开**"
+		"DoorCountDown"		"15"
 	}
-	"9469803"
+	"** Press on the 4 obelisks to open the door **"
 	{
-		"enable"		"0"
-		"hammerid"		"9469803"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**按下4座方尖碑启动电梯**"
 	}
-	"9474530"
+	"** The doors will open in 10 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"9474530"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**门10秒后打开**"
 	}
-	"9474533"
+	"** Elevator leaves in 5 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"9474533"
-		"m_iname"		"br_l1_l4"
+		"chi"		"**电梯5秒后上升**"
 	}
-	"8616970"
+	"** YOU WON STAGE 2 **"
 	{
-		"enable"		"0"
-		"hammerid"		"8616970"
-		"m_iname"		"zm_jail_wall"
+		"chi"		"**干的漂亮，你拿下了第二关**"
 	}
-	"8819612"
+	"** LEVEL 3 **"
 	{
-		"enable"		"0"
-		"hammerid"		"8819612"
-		"m_iname"		"elevator_door"
+		"chi"		"**第三关**"
 	}
-	"8742763"
+	"** Hold for 15 seconds. **"
 	{
-		"enable"		"0"
-		"hammerid"		"8742763"
-		"m_iname"		"br_end_l3"
+		"chi"		"**守住15秒**"
+		"DoorCountDown"		"15"
 	}
-	"16417864"
+	"** Hold Zombies for 10 seconds **"
 	{
-		"enable"		"1"
-		"hammerid"		"16417864"
-		"m_iname"		"sss5_l_laser_hitbox"
+		"chi"		"**防御10秒**"
 	}
-	"14011554"
+	"** YOU WON STAGE 3 **"
 	{
-		"enable"		"0"
-		"hammerid"		"14011554"
-		"m_iname"		"sss5_brr"
+		"chi"		"**你拿下了第三关 **"
 	}
-	"13181602"
+	"** LEVEL 4 **"
 	{
-		"enable"		"0"
-		"hammerid"		"13181602"
-		"m_iname"		"stg5_box_box2"
+		"chi"		"**第四关**"
 	}
-	"13238690"
+	"*** Grenades do more damage. (8 SECONDS)***"
 	{
-		"enable"		"0"
-		"hammerid"		"13238690"
-		"m_iname"		"stg5_box_box"
+		"chi"		"**手雷能造成巨大伤害（8秒）**"
+		"DoorCountDown"		"8"
+	}
+	"*** YOU WON STAGE 4 ***"
+	{
+		"chi"		"** 第四关通关，不久我们就要离开这了**"
+	}
+	"** Run into the center and break the crystal!!! **"
+	{
+		"chi"		"**打破中间的水晶**"
+	}
+	"** LEVEL 5 **"
+	{
+		"chi"		"**第五关**"
+	}
+	"** 10 seconds left **"
+	{
+		"chi"		"**还有10秒**"
+		"DoorCountDown"		"10"
+	}
+	"** Teleport will open in 15 seconds. **"
+	{
+		"chi"		"**传送器15秒后启动**"
+		"DoorCountDown"		"15"
+	}
+	"** 5 seconds left. **"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"chi"		"**守住20秒**"
+		"DoorCountDown"		"20"
+	}
+	"*** Grenades do more damage (4 SECONDS). ***"
+	{
+		"chi"		"**手雷能造成巨额伤害（4秒）**"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"chi"		"**不要靠近平台的边缘**"
+	}
+	"*** YOU WON STAGE 5 ***"
+	{
+		"chi"		"**您是征服了这张地图的大师，第五关突破！**"
+	}
+	"** Humans have become immortal!!! **"
+	{
+		"chi"		"**人类无敌**"
+	}
+	"** Zombies have 1 HP! **"
+	{
+		"chi"		"**尽情刷分吧QWQ**"
+	}
+	"** Victory in 230 seconds. **"
+	{
+		"chi"		"**230秒后人类胜利**"
+	}
+	"** LEVEL ZM **"
+	{
+		"chi"		"**ZM关**"
+	}
+	"** Victory in 200 seconds. **"
+	{
+		"chi"		"**200秒后人类胜利 **"
+		"DoorCountDown"		"200"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"chi"		"** 150秒后人类胜利 **"
+	}
+	"** Victory in 100 seconds. **"
+	{
+		"chi"		"** 100秒后人类胜利 **"
+	}
+	"** Victory in 50 seconds. **"
+	{
+		"chi"		"** 50秒后人类胜利 **"
+	}
+	"** Victory in 10 seconds. **"
+	{
+		"chi"		"** 10秒后人类胜利 **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"**重生墙20秒后打破**"
+	}
+	"** LEVEL GAME END **"
+	{
+		"chi"		"**结束游戏 **"
+	}
+	"*** Hes dead. Run. ***"
+	{
+		"chi"		"**它死了.跑 **"
+	}
+	">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds."
+	{
+		"chi"		"**管理员选择了ZM关.5秒后杀死所有人 **"
+	}
+	">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
+	{
+		"chi"		"**管理员选择了第五关.5秒后杀死所有人 **"
+	}
+	">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
+	{
+		"chi"		"**管理员选择了第四关.5秒后杀死所有人 **"
+	}
+	">> STAGE 1 <<"
+	{
+		"chi"		"**第一关 **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"chi"		"**大门25秒后开启 **"
+		"DoorCountDown"		"25"
+	}
+	"** The door will open in 30 seconds **"
+	{
+		"chi"		"**大门30秒后开启 **"
+		"DoorCountDown"		"30"
+	}
+	"** Bomb explodes in 20 seconds **"
+	{
+		"chi"		"**炸弹在20秒后爆炸 **"
+		"DoorCountDown"		"20"
+	}
+	">> STAGE 2 <<"
+	{
+		"chi"		"**第二关 **"
+	}
+	"** Teleport will open in 20 seconds **"
+	{
+		"chi"		"**传送将在20秒后开启 **"
+		"DoorCountDown"		"20"
+	}
+	"** Elevator leaves in 20 seconds **"
+	{
+		"chi"		"**电梯将在20秒后离开 **"
+		"DoorCountDown"		"20"
+	}
+	">> STAGE 3 <<"
+	{
+		"chi"		"**第三关 **"
+	}
+	">> STAGE 4 <<"
+	{
+		"chi"		"**第四关 **"
+	}
+	"** Meteorite arrives in 17 seconds. **"
+	{
+		"chi"		"**陨石17秒后到达 **"
+		"DoorCountDown"		"20"
+	}
+	">> STAGE 5 <<"
+	{
+		"chi"		"**第五关 **"
+	}
+	"** Teleport will open in 20 seconds. **"
+	{
+		"chi"		"**传送点20秒后激活 **"
+		"DoorCountDown"		"20"
+	}
+	"** Teleport will open on 10 seconds **"
+	{
+		"chi"		"**传送点10秒后激活 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"25926"
+	}
+	"|||||YOU LOSE|||||"
+	{
+		"chi"		"**你赢了 **"
+	}
+	"** NOW YOU DIE! **"
+	{
+		"chi"		"**现在你已经死了 **"
+	}
+	"** Hold for 10 seconds. **"
+	{
+		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
+	}
+	">> ZM ROUND <<"
+	{
+		"chi"		"**ZM关 **"
+	}
+	">> VICTORY <<"
+	{
+		"chi"		"**胜利 **"
+	}
+	">>*** THANKS FOR PLAYING! ***<<"
+	{
+		"chi"		"**感谢您的参与！ **"
+	}
+	"**Old Version**"
+	{
+		"chi"		"** **"
 	}
 }

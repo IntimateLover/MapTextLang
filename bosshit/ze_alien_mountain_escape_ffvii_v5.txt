@@ -1,153 +1,158 @@
-"BOSSHP"
+"Console_T"
 {
-	"28538"
+	"<<< Map made by Jllaneras >>>"
 	{
-		"enable"		"1"
-		"hammerid"		"28538"
-		"m_iname"		"Boss_Health"
+		"chi"		">>>地图制作：Jllaneras 地图翻译：蓬莱山帅比♪<<<"
 	}
-	"19029"
+	"<<< Button 2 unlocked!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"19029"
-		"m_iname"		"crystal_2"
+		"chi"		">>>按钮2解锁<<<"
 	}
-	"14514"
+	"<<< Zomnbies teleport in 24 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"14514"
-		"m_iname"		"crystal_1"
+		"chi"		">>>僵尸将在24秒后传送<<<"
 	}
-	"14690"
+	"<<< Doors open in 15 sconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"14690"
-		"m_iname"		"Wall_Break_1"
+		"chi"		">>>大门15秒后打开<<<"
 	}
-	"14798"
+	"<<< Wall breaks in 30 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"14798"
-		"m_iname"		"Button_Break_1"
+		"chi"		">>>墙壁30秒后破碎<<<"
+		"DoorCountDown"		"30"
 	}
-	"16361"
+	"<<< Top stair door is open!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"16361"
-		"m_iname"		"Bahamut_clip2"
+		"chi"		">>>上层楼梯门已打开<<<"
 	}
-	"15218"
+	"<<< Zombies teleport in 25 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"15218"
-		"m_iname"		"Bahamut_clip"
+		"chi"		">>>僵尸将在25秒后传送<<<"
 	}
-	"6522"
+	"<<< Second button unlocked!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6522"
-		"m_iname"		"brigde 1"
+		"chi"		">>>第二个按钮解锁<<<"
 	}
-	"6530"
+	"<<< Third button unlocked!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6530"
-		"m_iname"		"brigde 1"
+		"chi"		">>>第三个按钮解锁<<<"
 	}
-	"6540"
+	"<<< Defend for 40 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6540"
-		"m_iname"		"brigde 1"
+		"chi"		">>>守住40秒<<<"
 	}
-	"6547"
+	"<<< Defend for 30 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6547"
-		"m_iname"		"brigde 1"
+		"chi"		">>>守住30秒<<<"
 	}
-	"6554"
+	"<<< Zombies teleport in 10 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6554"
-		"m_iname"		"brigde 1"
+		"chi"		">>>僵尸10秒后传送<<<"
 	}
-	"6564"
+	"<<< Right door opens in 60 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6564"
-		"m_iname"		"brigde 1"
+		"chi"		">>>右边大门60秒后打开<<<"
 	}
-	"6572"
+	"<<< Train activated. Leaving in 10 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6572"
-		"m_iname"		"brigde 1"
+		"chi"		">>>列车已激活.将在10秒后离开<<<"
 	}
-	"6580"
+	"<<< Defend for 50 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6580"
-		"m_iname"		"brigde 1"
+		"chi"		">>>守住50秒<<<"
+		"DoorCountDown"		"50"
 	}
-	"6588"
+	"<<< Door opens in 30 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6588"
-		"m_iname"		"brigde 1"
+		"chi"		">>>大门30秒后打开<<<"
+		"DoorCountDown"		"30"
 	}
-	"6596"
+	"<<< Left side door opened!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6596"
-		"m_iname"		"most"
+		"chi"		">>>左边大门已打开<<<"
 	}
-	"6604"
+	"<<< Defend for 20 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6604"
-		"m_iname"		"brigde 1"
+		"chi"		">>>守住20秒<<<"
 	}
-	"6869"
+	"<<< Door opens in 15 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"6869"
-		"m_iname"		"barrel holders 2"
+		"chi"		">>>大门15秒后打开<<<"
+		"DoorCountDown"		"15"
 	}
-	"7031"
+	"<<< Final door closes in 30 seconds!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"7031"
-		"m_iname"		"Siena"
+		"chi"		">>>最后大门将在30秒后打开<<<"
+		"DoorCountDown"		"30"
 	}
-	"7297"
+	"<<< Impact >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"7297"
-		"m_iname"		"luzta"
+		"chi"		">>>冲击<<<"
 	}
-	"7309"
+	"<<< Almighty Push!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"7309"
-		"m_iname"		"luzta"
+		"chi"		">>>全方位推力<<<"
 	}
-	"7321"
+	"<<< Sprout >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"7321"
-		"m_iname"		"luzta"
+		"chi"		"** **"
 	}
-	"7333"
+	"<<< Freeze >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"7333"
-		"m_iname"		"luzta"
+		"chi"		">>>冰冻<<<"
 	}
-	"7345"
+	"<<< MAP COMPLETE!!! >>>"
 	{
-		"enable"		"0"
-		"hammerid"		"7345"
-		"m_iname"		"vartai"
+		"chi"		">>>地图通关<<<"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"20805"
+	}
+	"<<< 20 seconds left to kill boss!!! >>>"
+	{
+		"chi"		">>>你们还剩下20秒的时间来杀掉BOSS<<<"
+	}
+	"<<< 10 seconds left to kill boss!!! >>>"
+	{
+		"chi"		">>>你们还剩下10秒时间来杀掉BOSS<<<"
+	}
+	"<<< CT NUKE!!! >>>"
+	{
+		"chi"		">>>人类即将死亡<<<"
+	}
+	"*** Alien Moutain Escape - Final Fantasy Version ***"
+	{
+		"chi"		"**外星人高山逃亡-最终幻想版**"
+	}
+	"*** Map remake by simsen ***"
+	{
+		"chi"		"**地图修改：simsen**"
+	}
+	"*** For ZE server ggeasy.pl ***"
+	{
+		"chi"		"**服务器：ggeasypl**"
+	}
+	"*** Elevator is starting in 10 sec ***"
+	{
+		"chi"		"**电梯将在10秒后离开**"
+	}
+	"*** Tram is starting in 5 sec ***"
+	{
+		"chi"		"**电车5秒后离开**"
+	}
+	"*** Ship starting in 25 sec ***"
+	{
+		"chi"		"**飞船25秒后离开**"
+		"DoorCountDown"		"25"
+	}
+	"*** Elevator is starting in 14 sec ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ship starting in 35 sec ***"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"35"
 	}
 }

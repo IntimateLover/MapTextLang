@@ -1,345 +1,203 @@
-"BOSSHP"
+"Console_T"
 {
-	"142787"
+	"***Map by Reflelia***"
 	{
-		"enable"		"0"
-		"hammerid"		"142787"
-		"m_iname"		"middle_metalgate"
+		"chi"		"** **"
 	}
-	"142808"
+	"***Particle Effect by Airvulpes***"
 	{
-		"enable"		"0"
-		"hammerid"		"142808"
-		"m_iname"		"middle_metalgate"
+		"chi"		"** **"
 	}
-	"135155"
+	"***Thanks to Shizuru[idea]  uuz[model]***"
 	{
-		"enable"		"1"
-		"hammerid"		"135155"
-		"m_iname"		"st2_hitbox_grenade"
+		"chi"		"** **"
 	}
-	"135370"
+	"***CURRENT LEVEL - FADE***"
 	{
-		"enable"		"1"
-		"hammerid"		"135370"
-		"m_iname"		"st2_hitbox"
+		"chi"		"**当前关卡：梦初始的地方**"
 	}
-	"123106"
+	"***Zombie picked up Nuke***"
 	{
-		"enable"		"0"
-		"hammerid"		"123106"
-		"m_iname"		"elevator_upgate"
+		"chi"		"** **"
 	}
-	"107701"
+	"***Freezer picked up***"
 	{
-		"enable"		"0"
-		"hammerid"		"107701"
-		"m_iname"		"metal_up_gate"
+		"chi"		"** **"
 	}
-	"107733"
+	"***Zombie picked up Heal***"
 	{
-		"enable"		"0"
-		"hammerid"		"107733"
-		"m_iname"		"elevator_break"
+		"chi"		"**僵尸奶被捡起**"
 	}
-	"90125"
+	"***Zombie picked up Gravity***"
 	{
-		"enable"		"0"
-		"hammerid"		"90125"
-		"m_iname"		"st2_sg2"
+		"chi"		"** **"
 	}
-	"90236"
+	"***Zombie picked up Ice***"
 	{
-		"enable"		"0"
-		"hammerid"		"90236"
-		"m_iname"		"st2_sg2"
+		"chi"		"**僵尸冰冻被捡起**"
 	}
-	"88447"
+	"***Gravity Casted***"
 	{
-		"enable"		"0"
-		"hammerid"		"88447"
-		"m_iname"		"st2_2gate"
+		"chi"		"**重力吸引**"
 	}
-	"84612"
+	"***Wind Casted***"
 	{
-		"enable"		"0"
-		"hammerid"		"84612"
-		"m_iname"		"elevator_break"
+		"chi"		"**向外风暴**"
 	}
-	"81928"
+	"***Thruster Casted***"
 	{
-		"enable"		"0"
-		"hammerid"		"81928"
-		"m_iname"		"second_wall"
+		"chi"		"**地球上投**"
 	}
-	"81955"
+	"***Danger Field***"
 	{
-		"enable"		"0"
-		"hammerid"		"81955"
-		"m_iname"		"second_wall"
+		"chi"		"**地狱红光之兆**"
 	}
-	"81961"
+	"***Laser***"
 	{
-		"enable"		"0"
-		"hammerid"		"81961"
-		"m_iname"		"second_wall"
+		"chi"		"**四周剑狱之阵**"
 	}
-	"81966"
+	"***Spread out***"
 	{
-		"enable"		"0"
-		"hammerid"		"81966"
-		"m_iname"		"first_wall"
+		"chi"		"**像素爆发倾泻**"
 	}
-	"81984"
+	"***RESIST FOR 35 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"81984"
-		"m_iname"		"third_wall"
+		"chi"		"** **"
 	}
-	"82023"
+	"***Wind picked up***"
 	{
-		"enable"		"0"
-		"hammerid"		"82023"
-		"m_iname"		"third_wall"
+		"chi"		"** **"
 	}
-	"82292"
+	"***Hold for 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"82292"
-		"m_iname"		"st2_sg1"
+		"chi"		"** **"
 	}
-	"80841"
+	"***RESIST 25 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"80841"
-		"m_iname"		"first_wall"
+		"chi"		"** **"
 	}
-	"51117"
+	"***TELEPORT ENABLE IN 30 SECONDS***"
 	{
-		"enable"		"1"
-		"hammerid"		"51117"
-		"m_iname"		"boss_target"
+		"chi"		"** **"
 	}
-	"23593"
+	"***Recovery picked up***"
 	{
-		"enable"		"0"
-		"hammerid"		"23593"
-		"m_iname"		"enter_wall"
+		"chi"		"** **"
 	}
-	"3667"
+	"***Elevator rise up in 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"3667"
-		"m_iname"		"break_floor"
+		"chi"		"** **"
 	}
-	"3892"
+	"***Snow picked up***"
 	{
-		"enable"		"0"
-		"hammerid"		"3892"
-		"m_iname"		"final_bridge"
+		"chi"		"** **"
 	}
-	"3991"
+	"***Break the box***"
 	{
-		"enable"		"1"
-		"hammerid"		"3991"
-		"m_iname"		"boss_target2"
+		"chi"		"** **"
 	}
-	"4837"
+	"***Teleport activates in 45 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"4837"
-		"m_iname"		"final_break"
+		"chi"		"** **"
 	}
-	"11327"
+	"***Ice Casted***"
 	{
-		"enable"		"0"
-		"hammerid"		"11327"
-		"m_iname"		"CY01Physic"
+		"chi"		"** **"
 	}
-	"11414"
+	"***Go Back to teleport place***"
 	{
-		"enable"		"1"
-		"hammerid"		"11414"
-		"m_iname"		"boss_zwall"
+		"chi"		"** **"
 	}
-	"11435"
+	"***Final teleport enable in 35 seconds***"
 	{
-		"enable"		"1"
-		"hammerid"		"11435"
-		"m_iname"		"boss_target"
+		"chi"		"** **"
 	}
-	"19287"
+	"***Zombie teleport in 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"19287"
-		"m_iname"		"pl_physics&0348"
+		"chi"		"** **"
 	}
-	"19312"
+	"***5 seconds left***"
 	{
-		"enable"		"1"
-		"hammerid"		"19312"
-		"m_iname"		"pl_hitbox"
+		"chi"		"** **"
 	}
-	"153452"
+	"***RUN!***"
 	{
-		"enable"		"0"
-		"hammerid"		"153452"
-		"m_iname"		"z_way_1"
+		"chi"		"** **"
 	}
-	"163088"
+	"***ESCAPE***"
 	{
-		"enable"		"0"
-		"hammerid"		"163088"
-		"m_iname"		"prop_wall&0351"
+		"chi"		"** **"
 	}
-	"153483"
+	"***CURRENT LEVEL - DREAM***"
 	{
-		"enable"		"0"
-		"hammerid"		"153483"
-		"m_iname"		"z_way_4"
+		"chi"		"**当前关卡：白日做梦**"
 	}
-	"197800"
+	"***HOLD 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"197800"
-		"m_iname"		"up_doors"
+		"chi"		"** **"
 	}
-	"197822"
+	"***Resist 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"197822"
-		"m_iname"		"up_doors"
+		"chi"		"** **"
 	}
-	"11257"
+	"***HOLD UNTIL GATE OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"11257"
-		"m_iname"		"stage1_floor"
+		"chi"		"** **"
 	}
-	"153327"
+	"***Portal open in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"153327"
-		"m_iname"		"z_way_3"
+		"chi"		"** **"
 	}
-	"153373"
+	"***Hold until Door break***"
 	{
-		"enable"		"0"
-		"hammerid"		"153373"
-		"m_iname"		"z_way_2"
+		"chi"		"** **"
 	}
-	"258521"
+	"***Door open in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"258521"
-		"m_iname"		"stage1_floor"
+		"chi"		"** **"
 	}
-	"469836"
+	"***10 SECONDS LEFT***"
 	{
-		"enable"		"1"
-		"hammerid"		"469836"
-		"m_iname"		"final_hitbox"
+		"chi"		"** **"
 	}
-	"425790"
+	"***Last elevator start in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"425790"
-		"m_iname"		"st3_zwall"
+		"chi"		"** **"
 	}
-	"385785"
+	"***For Upper***"
 	{
-		"enable"		"0"
-		"hammerid"		"385785"
-		"m_iname"		"st3_door_6"
+		"chi"		"**正义从天而降**"
 	}
-	"385843"
+	"***CURRENT LEVEL - 3-***"
 	{
-		"enable"		"0"
-		"hammerid"		"385843"
-		"m_iname"		"st3_door_7"
+		"chi"		"** **"
 	}
-	"381344"
+	"***First Door Break in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"381344"
-		"m_iname"		"st3_door_2"
+		"chi"		"** **"
 	}
-	"381430"
+	"***Door Break in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"381430"
-		"m_iname"		"st3_door_3"
+		"chi"		"** **"
 	}
-	"381487"
+	"***Bridge opening...***"
 	{
-		"enable"		"0"
-		"hammerid"		"381487"
-		"m_iname"		"st3_door_4"
+		"chi"		"** **"
 	}
-	"381535"
+	"***Door open in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"381535"
-		"m_iname"		"st3_door_5"
+		"chi"		"** **"
 	}
-	"381908"
+	"***Door break in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"381908"
-		"m_iname"		"st3_door_4"
+		"chi"		"** **"
 	}
-	"378223"
+	"***Reflection Casted***"
 	{
-		"enable"		"0"
-		"hammerid"		"378223"
-		"m_iname"		"st3_door_1"
+		"chi"		"** **"
 	}
-	"363785"
+	"***Failed***"
 	{
-		"enable"		"1"
-		"hammerid"		"363785"
-		"m_iname"		"st3_hitbox"
-	}
-	"364541"
-	{
-		"enable"		"0"
-		"hammerid"		"364541"
-		"m_iname"		"rotate_main"
-	}
-	"364557"
-	{
-		"enable"		"0"
-		"hammerid"		"364557"
-		"m_iname"		"stable_main"
-	}
-	"364622"
-	{
-		"enable"		"0"
-		"hammerid"		"364622"
-		"m_iname"		"heal_main"
-	}
-	"276846"
-	{
-		"enable"		"0"
-		"hammerid"		"276846"
-		"m_iname"		"inv_wall"
-	}
-	"337167"
-	{
-		"enable"		"0"
-		"hammerid"		"337167"
-		"m_iname"		"upper_break"
-	}
-	"364633"
-	{
-		"enable"		"0"
-		"hammerid"		"364633"
-		"m_iname"		"push_main&0452"
-	}
-	"363763"
-	{
-		"enable"		"0"
-		"hammerid"		"363763"
-		"m_iname"		"explo_unit&0272"
+		"chi"		"**梦醒了，你失败了**"
 	}
 }

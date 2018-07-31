@@ -1,417 +1,582 @@
-"BOSSHP"
+"Console_T"
 {
-	"dalamud_hitbox"
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
 	{
-		"enable"		"1"
+		"chi"		"**地图帮助：[Airvulpes][Kune][thas][Rukly][Shufen]**"
 	}
-	"true_bahamut_hitbox"
+	"*** Map made by Altima ***"
 	{
-		"enable"		"1"
+		"chi"		"**地图制作：Altima  地图翻译：IntimateLover**"
 	}
-	"odin_hitbox"
+	"*** ze_ffxiv_wanderers_palace ***"
 	{
-		"enable"		"1"
+		"chi"		"**最终幻想14：流浪者宫殿 **"
+		"DoorCountDown"		"-1"
 	}
-	"562461"
+	"*** Level:Normal ***"
 	{
-		"enable"		"0"
-		"hammerid"		"562461"
-		"m_iname"		"road_break"
+		"chi"		"**关卡：简单 **"
 	}
-	"67544"
+	"*** HINT: Activate Nymian Device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"67544"
-		"m_iname"		"fence_1"
+		"chi"		"**任务：激活尼姆装置 **"
 	}
-	"493898"
+	"*** 15 seconds to activate Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"493898"
-		"m_iname"		"ult_break_1"
+		"chi"		"**任务完成：尼姆装置已激活-等待15秒 **"
+		"DoorCountDown"		"15"
 	}
-	"468831"
+	"*** 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"468831"
-		"m_iname"		"ult_break_1"
+		"chi"		"**5秒剩余**"
 	}
-	"121315"
+	"*** 30 seconds to Activate Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"121315"
-		"m_iname"		"lv3_wall"
+		"chi"		"**尼姆装置已激活-等待30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"444013"
+	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
 	{
-		"enable"		"0"
-		"hammerid"		"444013"
-		"m_iname"		"ul_trim1_break"
+		"chi"		"**恩奇都将于15秒后出现-未到达目标的玩家将被传送 **"
 	}
-	"401506"
+	"*** Enkidu appeared ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401506"
-		"m_iname"		"holm_break"
+		"chi"		"**恩奇都已出现 **"
 	}
-	"401871"
+	"*** Shoot to Enkidu ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401871"
-		"m_iname"		"ul_1"
+		"chi"		"**射击恩奇都 **"
 	}
-	"401900"
+	"*** Enkidu dead ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401900"
-		"m_iname"		"ul_trigger_1"
+		"chi"		"**恩奇都已死亡 **"
 	}
-	"401919"
+	"*** 25 seconds to Activate Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401919"
-		"m_iname"		"ul_trigger_1"
+		"chi"		"**尼姆装置已激活-等待25秒 **"
+		"DoorCountDown"		"25"
 	}
-	"401922"
+	"*** 10 seconds  ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401922"
-		"m_iname"		"ul_1"
+		"chi"		"**10秒剩余**"
 	}
-	"401937"
+	"*** Look for all of Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401937"
-		"m_iname"		"ul_trigger_1"
+		"chi"		"**寻找所有的尼姆装置 **"
 	}
-	"401940"
+	"*** Nymian device 1 activated ***"
 	{
-		"enable"		"0"
-		"hammerid"		"401940"
-		"m_iname"		"ul_1"
+		"chi"		"**1号尼姆装置已被激活 **"
+		"ico"		"icon_fire"
 	}
-	"384565"
+	"*** Nymian device 2 activated ***"
 	{
-		"enable"		"0"
-		"hammerid"		"384565"
-		"m_iname"		"n1"
+		"chi"		"**2号尼姆装置已被激活 **"
+		"ico"		"icon_fire"
 	}
-	"384580"
+	"*** Nymian device 3 activated ***"
 	{
-		"enable"		"0"
-		"hammerid"		"384580"
-		"m_iname"		"n1"
+		"chi"		"**3号尼姆装置已被激活 **"
+		"ico"		"icon_fire"
 	}
-	"367402"
+	"*** Nymian device 4 activated ***"
 	{
-		"enable"		"0"
-		"hammerid"		"367402"
-		"m_iname"		"lv4_break"
+		"chi"		"**4号尼姆装置已被激活 **"
+		"ico"		"icon_fire"
 	}
-	"367490"
+	"*** ALL Nymian device Activated ***"
 	{
-		"enable"		"0"
-		"hammerid"		"367490"
-		"m_iname"		"lv4_glass_1"
+		"chi"		"**所有的尼姆装置已激活 **"
 	}
-	"229546"
+	"*** 5 seconds to Activate Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"229546"
-		"m_iname"		"stage_4_guard"
+		"chi"		"**尼姆装置已被激活-等待5秒 **"
 	}
-	"199522"
+	"*** Normal Clear!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"199522"
-		"m_iname"		"ladder"
+		"chi"		"**宝剑锋从磨砺出,梅花香自苦寒来（关卡通过） **"
 	}
-	"199538"
+	"*** Next Level Hard ***"
 	{
-		"enable"		"0"
-		"hammerid"		"199538"
-		"m_iname"		"ladder"
+		"chi"		"**下一难度：普通 **"
 	}
-	"199552"
+	"*** Level:Hard ***"
 	{
-		"enable"		"0"
-		"hammerid"		"199552"
-		"m_iname"		"bahamut_elevator_break"
+		"chi"		"**关卡：普通 **"
 	}
-	"178529"
+	"***A player picked up Summoner Shadow Flare***"
 	{
-		"enable"		"0"
-		"hammerid"		"178529"
-		"m_iname"		"hp_100"
+		"chi"		"**一位玩家拿起了暗影耀斑 **"
 	}
-	"178532"
+	"***Recast 60s***"
 	{
-		"enable"		"0"
-		"hammerid"		"178532"
-		"m_iname"		"hp_75"
+		"chi"		"**CD：60秒 **"
 	}
-	"178535"
+	"***A player picked up Black Mage Flare***"
 	{
-		"enable"		"0"
-		"hammerid"		"178535"
-		"m_iname"		"hp_50"
+		"chi"		"**一个玩家拿起了黑魔耀斑 **"
 	}
-	"178538"
+	"***Recast 55s***"
 	{
-		"enable"		"0"
-		"hammerid"		"178538"
-		"m_iname"		"hp_25"
+		"chi"		"**CD：55秒 **"
 	}
-	"157314"
+	"*** 15 seconds to leave Tonberrys ***"
 	{
-		"enable"		"0"
-		"hammerid"		"157314"
-		"m_iname"		"rocks_1"
+		"chi"		"**冬贝利们15秒后离开 **"
 	}
-	"100438"
+	"*** 20 seconds to activate Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"100438"
-		"m_iname"		"lv2_clear_break"
+		"chi"		"**尼姆装置已被激活-等待20秒 **"
+		"DoorCountDown"		"20"
 	}
-	"92617"
+	"*** 30 seconds to Open Road ***"
 	{
-		"enable"		"0"
-		"hammerid"		"92617"
-		"m_iname"		"hard_wall"
+		"chi"		"**30秒后道路开放 **"
+		"DoorCountDown"		"30"
 	}
-	"81661"
+	"***A player picked up Mount Night Mare***"
 	{
-		"enable"		"0"
-		"hammerid"		"81661"
-		"m_iname"		"lv1_crate"
+		"chi"		"**一位玩家拿起了梦魇坐骑 **"
 	}
-	"67591"
+	"***Recast 50s***"
 	{
-		"enable"		"0"
-		"hammerid"		"67591"
-		"m_iname"		"break_box_1"
+		"chi"		"**CD：50秒 **"
 	}
-	"67663"
+	"*** 30 seconds to Activate Nymian device  ***"
 	{
-		"enable"		"0"
-		"hammerid"		"67663"
-		"m_iname"		"fence_2"
+		"chi"		"**尼姆装置已被激活-等待30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"67697"
+	"*** 10 seconds   ***"
 	{
-		"enable"		"0"
-		"hammerid"		"67697"
-		"m_iname"		"br_1"
+		"chi"		"** **"
 	}
-	"67784"
+	"*** Location: The Navel ***"
 	{
-		"enable"		"0"
-		"hammerid"		"67784"
-		"m_iname"		"invi_break_1"
+		"chi"		"**地点：地下宫殿 **"
 	}
-	"67817"
+	"*** Behemoth King Appeared ***"
 	{
-		"enable"		"0"
-		"hammerid"		"67817"
-		"m_iname"		"clip_1"
+		"chi"		"**巨兽王出现了**"
 	}
-	"67832"
+	"*** Shoot him ***"
 	{
-		"enable"		"1"
-		"hammerid"		"67832"
-		"m_iname"		"enkidu_hitbox"
+		"chi"		"**杀了它 **"
 	}
-	"80494"
+	"*** Land Slide ***"
 	{
-		"enable"		"0"
-		"hammerid"		"80494"
-		"m_iname"		"fence__3"
+		"chi"		"**热离子光束（远离脚下的红色区域）**"
+		"ico"		"icon_fire"
 	}
-	"122260"
+	"*** Heavens Fall ***"
 	{
-		"enable"		"0"
-		"hammerid"		"122260"
-		"m_iname"		"nightmare_block"
+		"chi"		"**天堂陨落（看天上不要被砸到）**"
+		"ico"		"icon_fire"
 	}
-	"94219"
+	"*** Cauterize***"
 	{
-		"enable"		"0"
-		"hammerid"		"94219"
-		"m_iname"		"behemoth_king_hp1"
+		"chi"		"**冲击 **"
+		"ico"		"icon_fire"
 	}
-	"94241"
+	"*** Flare ***"
 	{
-		"enable"		"0"
-		"hammerid"		"94241"
-		"m_iname"		"behemoth_king_hp2"
+		"chi"		"**火（往右边走跳上箱子）**"
+		"ico"		"icon_fire"
 	}
-	"94256"
+	"*** Behemoth King dead ***"
 	{
-		"enable"		"0"
-		"hammerid"		"94256"
-		"m_iname"		"behemoth_king_hp3"
+		"chi"		"**巨兽王死了**"
 	}
-	"122364"
+	"***45 seconds to HARD CLEAR***"
 	{
-		"enable"		"0"
-		"hammerid"		"122364"
-		"m_iname"		"shield_break"
+		"chi"		"**守住45秒 **"
+		"DoorCountDown"		"45"
 	}
-	"178521"
+	"***5 seconds***"
 	{
-		"enable"		"1"
-		"hammerid"		"178521"
-		"m_iname"		"bahamut_hp_100_break"
+		"chi"		"** **"
 	}
-	"178518"
+	"***Gravity ON***"
 	{
-		"enable"		"1"
-		"hammerid"		"178518"
-		"m_iname"		"bahamut_hp_75_break"
+		"chi"		"**低重力开启 **"
 	}
-	"178729"
+	"***HARD CLEAR***"
 	{
-		"enable"		"1"
-		"hammerid"		"178729"
-		"m_iname"		"bahamut_hp_50_break"
+		"chi"		"**博观而约取,厚积而薄发（关卡通过） **"
 	}
-	"178726"
+	"***Texture Support by fujione***"
 	{
-		"enable"		"0"
-		"hammerid"		"178726"
-		"m_iname"		"bahamut_hp_25_break"
+		"chi"		"**纹理帮助：fujione **"
 	}
-	"193835"
+	"***Map made by Altima***"
 	{
-		"enable"		"0"
-		"hammerid"		"193835"
-		"m_iname"		"nael_guard"
+		"chi"		"**地图制作：Altima 地图翻译：IntimateLover **"
 	}
-	"193820"
+	"***Next Level Extreme***"
 	{
-		"enable"		"1"
-		"hammerid"		"193820"
-		"m_iname"		"lv3_nael_hitbox"
+		"chi"		"**下一难度：困难 **"
 	}
-	"194090"
+	"*** Level:Extreme ***"
 	{
-		"enable"		"0"
-		"hammerid"		"194090"
-		"m_iname"		"lv3_last_guard"
+		"chi"		"**本关难度：困难 **"
+		"command"		"sm_aei_hammerid 100003 use"
 	}
-	"178545"
+	"*** 35 seconds to activate Nymian device ***"
 	{
-		"enable"		"0"
-		"hammerid"		"178545"
-		"m_iname"		"ads_atack1_break"
+		"chi"		"**尼姆装置已被激活.等待35秒 **"
+		"DoorCountDown"		"35"
+		"command"		"sm_aei_hammerid 100004 use"
 	}
-	"178551"
+	"*** 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"178551"
-		"m_iname"		"ads_atack_brush1"
+		"chi"		"** **"
 	}
-	"178560"
+	"*** Chase the ADS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"178560"
-		"m_iname"		"ads_atack2_break"
+		"chi"		"**追上ADS **"
+		"ico"		"icon_fire"
 	}
-	"178554"
+	"*** 30 seconds to Open Door ***"
 	{
-		"enable"		"0"
-		"hammerid"		"178554"
-		"m_iname"		"ads_atack_brush2"
+		"chi"		"**大门30秒后激活 **"
+		"DoorCountDown"		"30"
 	}
-	"367515"
+	"*** 45 seconds to Break Rocks ***"
 	{
-		"enable"		"0"
-		"hammerid"		"367515"
-		"m_iname"		"lv4_glass_2"
+		"chi"		"**45秒后墙体破碎 **"
+		"DoorCountDown"		"45"
 	}
-	"367436"
+	"***A player picked up Limit Break***"
 	{
-		"enable"		"0"
-		"hammerid"		"367436"
-		"m_iname"		"wood_1"
+		"chi"		"**一位玩家拿起了极限突破**"
 	}
-	"175597"
+	"*** once only ***"
 	{
-		"enable"		"0"
-		"hammerid"		"175597"
-		"m_iname"		"ads_6"
+		"chi"		"**只有一次.请不要EZWIN **"
 	}
-	"172570"
+	"***Bahamut Prime appeared***"
 	{
-		"enable"		"0"
-		"hammerid"		"172570"
-		"m_iname"		"ads_6"
+		"chi"		"**巴哈姆特之灵已出现 **"
 	}
-	"411164"
+	"***Bahamut Prime is Casting now***"
 	{
-		"enable"		"0"
-		"hammerid"		"411164"
-		"m_iname"		"hp_100_true"
+		"chi"		"**射击巴哈姆特 **"
 	}
-	"411158"
+	"***Akh Morn***"
 	{
-		"enable"		"0"
-		"hammerid"		"411158"
-		"m_iname"		"hp_75_true"
+		"chi"		"**死亡轮回 **"
 	}
-	"411161"
+	"*** 3 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"411161"
-		"m_iname"		"hp_50_true"
+		"chi"		"** **"
 	}
-	"411155"
+	"*** 2 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"411155"
-		"m_iname"		"hp_25_true"
+		"chi"		"** **"
 	}
-	"510115"
+	"*** 1 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"510115"
-		"m_iname"		"odin_guard"
+		"chi"		"** **"
 	}
-	"477597"
+	"***ADS Attack***"
 	{
-		"enable"		"0"
-		"hammerid"		"477597"
-		"m_iname"		"lv4_last_guard"
+		"chi"		"**ADS攻击**"
+		"ico"		"icon_fire"
 	}
-	"249486"
+	"*** Model :Dakotec ***"
 	{
-		"enable"		"1"
-		"hammerid"		"249486"
-		"m_iname"		"dalamud_hitbox"
+		"chi"		"**模型：Dakotec **"
 	}
-	"401973"
+	"***A player picked up Bird Armys Paeon***"
 	{
-		"enable"		"0"
-		"hammerid"		"401973"
-		"m_iname"		"ulti_ads"
+		"chi"		"**一位玩家拿起了军神之歌 **"
 	}
-	"535053"
+	"***Recast 90s***"
 	{
-		"enable"		"0"
-		"hammerid"		"535053"
-		"m_iname"		"dark_bahamut_wall"
+		"chi"		"**CD:90秒 **"
 	}
-	"261794"
+	"***A player picked up Paladin Shield Oath"
 	{
-		"enable"		"1"
-		"hammerid"		"261794"
-		"m_iname"		"true_bahamut_hitbox"
+		"chi"		"**使用流沙时勿投掷高爆火瓶**"
+		"DoorCountDown"		"5"
 	}
-	"469411"
+	"***Recast 80s***"
 	{
-		"enable"		"1"
-		"hammerid"		"469411"
-		"m_iname"		"odin_hitbox"
+		"chi"		"**CD：80秒 **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"chi"		"**一位玩家拿起了天赐祝福 **"
+	}
+	"*** Recast 150s ***"
+	{
+		"chi"		"**CD：150秒 **"
+	}
+	"***Flare***"
+	{
+		"chi"		"**龙之吐息 **"
+		"ico"		"icon_fire"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"chi"		"**射击两边的ADS并防御僵尸 **"
+	}
+	"***Heavens Fall***"
+	{
+		"chi"		"**天堂陨落（看天上不要被砸到）**"
+		"ico"		"icon_fire"
+	}
+	"***Earth Shaker***"
+	{
+		"chi"		"**地震（看前面不要被撞到）**"
+		"ico"		"icon_fire"
+	}
+	"***Bahamut Prime dead***"
+	{
+		"chi"		"**巴哈姆特灵体已受伤 **"
+	}
+	"*** 15 seconds to activate Elevator ***"
+	{
+		"chi"		"**电梯15秒后离开 **"
+		"DoorCountDown"		"15"
+	}
+	"*** 30 seconds to Open Wall ***"
+	{
+		"chi"		"**墙壁30秒后破碎 **"
+		"DoorCountDown"		"30"
+	}
+	"*** Dont Touch Water ***"
+	{
+		"chi"		"**不要下水 **"
+	}
+	"*** Water is Death Zone ***"
+	{
+		"chi"		"**水里有毒 **"
+	}
+	"*** Nael Van Dahrnus Appeared ***"
+	{
+		"chi"		"**宫殿守卫出现 **"
+	}
+	"*** Kill HER ***"
+	{
+		"chi"		"**杀了他 **"
+	}
+	"*** Dead ***"
+	{
+		"chi"		"**宫殿守卫死亡 **"
+	}
+	"*** Extreme CLEAR ***"
+	{
+		"chi"		"**万里不惜死，一朝得成功（关卡通过） **"
+	}
+	"*** Next Level Savage ***"
+	{
+		"chi"		"**下一难度：史诗 **"
+		"command"		"sm_aei_hammerid 100003 use"
+	}
+	"*** Human Killer ON ***"
+	{
+		"chi"		"**人类杀手开启 **"
+	}
+	"***Tempest Wing***"
+	{
+		"chi"		"**暴风之翼（往平台后方走，出现吸力按住S回头打BOSS）**"
+		"ico"		"icon_fire"
+	}
+	"*** Level:Savage ***"
+	{
+		"chi"		"**当前关卡：史诗 **"
+		"command"		"sm_aei_hammerid 100003 use"
+	}
+	"***Holm gang zombie incoming...***"
+	{
+		"chi"		"**僵尸定身已被拿起... **"
+	}
+	"*** Recast 95s ***"
+	{
+		"chi"		"**CD：95秒 **"
+	}
+	"*** 30 seconds to Break Fence ***"
+	{
+		"chi"		"**铁网30秒后破碎 **"
+		"DoorCountDown"		"30"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"***Location: The Ragnarok ***"
+	{
+		"chi"		"**地点：诸神的黄昏 **"
+	}
+	"*** Defend 45 seconds ***"
+	{
+		"chi"		"**防守45秒 **"
+		"DoorCountDown"		"45"
+	}
+	"*** ADS ATTACK ***"
+	{
+		"chi"		"**射击ADS **"
+	}
+	"*** Dalamud appeared ***"
+	{
+		"chi"		"**杜拉姆出现 **"
+	}
+	"*** Dalamud the last boss ***"
+	{
+		"chi"		"**杜拉姆是最后一个BOSS**"
+	}
+	"*** Shadow Flare ***"
+	{
+		"chi"		"**电（蹲下）**"
+		"ico"		"icon_fire"
+	}
+	"*** Cauterize ***"
+	{
+		"chi"		"**龙车来袭 **"
+		"ico"		"icon_fire"
+	}
+	"*** True Bahamut appeared ***"
+	{
+		"chi"		"**真巴哈姆特出现 **"
+	}
+	"*** True Tempest wing ***"
+	{
+		"chi"		"**真-暴风之翼 **"
+		"ico"		"icon_fire"
+	}
+	"*** True Heavens fall ***"
+	{
+		"chi"		"**真天堂陨落（看天上不要被砸到）**"
+		"ico"		"icon_fire"
+	}
+	"*** Steam Judge ***"
+	{
+		"chi"		"**蒸汽制裁 **"
+		"ico"		"icon_fire"
+	}
+	"*** Sentence to death ***"
+	{
+		"chi"		"**死亡裁决 **"
+	}
+	"*** True Bahamut dead ***"
+	{
+		"chi"		"**真巴哈姆特死亡 **"
+	}
+	"*** 45 seconds to Open Wall ***"
+	{
+		"chi"		"**墙壁45秒后破碎 **"
+		"DoorCountDown"		"45"
+	}
+	"*** Odin Appeared ***"
+	{
+		"chi"		"**奥丁出现了 **"
+	}
+	"*** Kill Odin ***"
+	{
+		"chi"		"**杀了奥丁 **"
+	}
+	"*** Savage CLEAR ***"
+	{
+		"chi"		"**意气成功日，春风起絮天（关卡通过） **"
+	}
+	"*** Winners are Heroes of Light ***"
+	{
+		"chi"		"**获胜者是光之英雄 **"
+	}
+	"*** TOO LATE ***"
+	{
+		"chi"		"**太慢了 **"
+	}
+	"*** Ultimate mode incoming.... ***"
+	{
+		"chi"		"**终极关卡导入中 **"
+	}
+	"*** ze_ffxiv_wanderers_palace...? ***"
+	{
+		"chi"		"**最终幻想14：流浪者宫殿 **"
+	}
+	"*** Level:Ultimate ***"
+	{
+		"chi"		"**当前关卡：天神 **"
+		"command"		"sm_aei_hammerid 100003 use"
+	}
+	"*** This mode is Secret mode ***"
+	{
+		"chi"		"**这是个隐藏模式 **"
+	}
+	"*** Chances are once only ***"
+	{
+		"chi"		"**机会只有一次 **"
+	}
+	"*** Level set .... Next Level Normal ***"
+	{
+		"chi"		"**关卡设置...下一关卡：普通 **"
+	}
+	"*** Random Item breaker Activate... ***"
+	{
+		"chi"		"**随机神器消失模式：开启 **"
+	}
+	"*** You have passed through the first phase ***"
+	{
+		"chi"		"**你已经通过了第一阶段（正在存档中） **"
+	}
+	"*** Level set....Next Level Ultimate ***"
+	{
+		"chi"		"**关卡设置...下一关卡：天神 **"
+	}
+	"*** Night Mare***"
+	{
+		"chi"		"**梦魇坐骑 **"
+	}
+	"*** Ultimate Heavens fall ***"
+	{
+		"chi"		"**极天堂陨落（看天上不要被砸到）**"
+		"ico"		"icon_fire"
+	}
+	"*** Ultimate Shadow Flare ***"
+	{
+		"chi"		"**极-暗影耀斑 **"
+		"ico"		"icon_fire"
+	}
+	"*** Ultimate Tempest wing ***"
+	{
+		"chi"		"**极-暴风之翼**"
+		"ico"		"icon_fire"
+	}
+	"*** Ultimate Cauterize ***"
+	{
+		"chi"		"**极-龙车来袭 **"
+		"ico"		"icon_fire"
+	}
+	"*** Shield Oath ***"
+	{
+		"chi"		"**忠义之盾 **"
+	}
+	"*** Dark Bahamut is blocking the road ***"
+	{
+		"chi"		"**暗黑巴哈姆特挡住了道路**"
+		"ico"		"icon_fire"
+	}
+	"***Ultimate Akh Morn***"
+	{
+		"chi"		"**极-死亡轮回 **"
+	}
+	"*** Ultimate CLEAR ***"
+	{
+		"chi"		"**塞月未落成功回，腰鼓横笛如春雷（关卡通过） **"
+	}
+	"*** Armys Paeon ***"
+	{
+		"chi"		"**军神之歌 **"
+	}
+	"*** ADMIN BUTTON Level Ultimate ***"
+	{
+		"chi"		"**管理员把关卡调至天神难度 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"**服务器即将关闭,请更新你的游戏 **"
 	}
 }

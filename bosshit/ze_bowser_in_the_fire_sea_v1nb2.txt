@@ -1,129 +1,311 @@
-"BOSSHP"
+"Console_T"
 {
-	"111198"
+	"*** original : Super mario 64 Bowser in the fire sea ***"
 	{
-		"enable"		"1"
-		"hammerid"		"111198"
-		"m_iname"		"boss_phys"
+		"chi"		"**原文：超级马里奥64库巴在火海 **"
 	}
-	"128643"
+	"*** WARNING : This map was ported from CS:S ***"
 	{
-		"enable"		"1"
-		"hammerid"		"128643"
-		"m_iname"		"hard_boss_kill_wall"
+		"chi"		"**警告:这张地图从CS:S移植 **"
 	}
-	"148752"
+	"*** NOBOSS   NO ITEM   ***"
 	{
-		"enable"		"1"
-		"hammerid"		"148752"
-		"m_iname"		"boss_defence_wall"
+		"chi"		"**没有BOSS 没有神器 **"
 	}
-	"237731"
+	"*** It become simply map... ***"
 	{
-		"enable"		"0"
-		"hammerid"		"237731"
-		"m_iname"		"ins_color_lift_item_phys"
+		"chi"		"**它变成了简单的地图… **"
 	}
-	"7114"
+	"*** map created by thas ***"
 	{
-		"enable"		"0"
-		"hammerid"		"7114"
-		"m_iname"		"ladder block1"
+		"chi"		"**地图制作：thas 地图翻译：蓬莱山帅比♪ **"
 	}
-	"34237"
+	"*** creating particle helped by Airvulpes ***"
 	{
-		"enable"		"0"
-		"hammerid"		"34237"
-		"m_iname"		"floor2-3"
+		"chi"		"**粒子创建：Airvulpes **"
 	}
-	"34433"
+	"*** LIFT LEAVES IN 15 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"34433"
-		"m_iname"		"ladder block1"
+		"chi"		"**电梯在15秒后离开 **"
+		"DoorCountDown"		"15"
 	}
-	"34465"
+	"*** LIFT LEAVES IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"34465"
-		"m_iname"		"floor3_hurt_point_defence_wall"
+		"chi"		"**电梯在5秒后离开 **"
 	}
-	"248252"
+	"*** Wall will become can climb in 40 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"248252"
-		"m_iname"		"ins_final_blue_road_clip"
+		"chi"		"**后面的墙壁40秒后可以攀爬 **"
+		"DoorCountDown"		"40"
 	}
-	"260992"
+	"*** STUCK TELEPORT IS ENABLED ***"
 	{
-		"enable"		"0"
-		"hammerid"		"260992"
-		"m_iname"		"ins_kill_clip"
+		"chi"		"**启用了僵尸传送 **"
 	}
-	"261042"
+	"*** STUCKER HURRY TO RUN ***"
 	{
-		"enable"		"0"
-		"hammerid"		"261042"
-		"m_iname"		"zm_kill_wall"
+		"chi"		"**STUCKER快跑 **"
 	}
-	"261219"
+	"*** DEFEND FOR 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"261219"
-		"m_iname"		"3f_clip"
+		"chi"		"**防守5秒 **"
 	}
-	"314933"
+	"*** GO!! GO!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"314933"
-		"m_iname"		"3f_clip"
+		"chi"		"**走！！ 走！！ **"
 	}
-	"319182"
+	"*** YOU CAN CLIMB THE WALL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"319182"
-		"m_iname"		"skip_protect1"
+		"chi"		"**你可以爬到墙上 **"
 	}
-	"319218"
+	"*** LIFT WILL RISE IN 20 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"319218"
-		"m_iname"		"skip_protect1-2"
+		"chi"		"**电梯将在20秒后上升 **"
+		"DoorCountDown"		"20"
 	}
-	"322905"
+	"*** LIFT WILL RISE IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"322905"
-		"m_iname"		"skip_protect2-2"
+		"chi"		"**电梯将在5秒后上升 **"
 	}
-	"322908"
+	"*** DEFEND FOR 30 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"322908"
-		"m_iname"		"skip_protect2"
+		"chi"		"**防守30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"342654"
+	"*** GO !! GO !! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"342654"
-		"m_iname"		"skip_protect3"
+		"chi"		"**走 ！！ 走 ！！ **"
 	}
-	"343700"
+	"*** NORMAL MODE COMPLETED ***"
 	{
-		"enable"		"0"
-		"hammerid"		"343700"
-		"m_iname"		"zm_kill_wall"
+		"chi"		"**普通模式完成 **"
 	}
-	"366872"
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
 	{
-		"enable"		"0"
-		"hammerid"		"366872"
-		"m_iname"		"skip_protect1"
+		"chi"		"**经测试服务器：樱花[CS：S]，藏[CS：GO] **"
 	}
-	"366899"
+	"*** A PERSON PICKED UP THE COLOR LIFT ***"
 	{
-		"enable"		"0"
-		"hammerid"		"366899"
-		"m_iname"		"skip_protect2"
+		"chi"		"**一位玩家拿起彩色升降机 **"
+	}
+	"*** IF YOU LOST IT ***"
+	{
+		"chi"		"**如果你失去了它 **"
+	}
+	"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
+	{
+		"chi"		"**我们就不能逃离火海! ! ! **"
+	}
+	"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
+	{
+		"chi"		"**长按选择器.一定不能死！！！ **"
+	}
+	"*** WARNING : This map was ported from CS:S ***"
+	{
+		"chi"		"**警告:这张地图从CS:S移植 **"
+	}
+	"*** NOBOSS   NO ITEM   ***"
+	{
+		"chi"		"** 没有BOSS 没有神器 **"
+	}
+	"*** It become simply map... ***"
+	{
+		"chi"		"**它成为简单的地图…… **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"**地图制作：thas 地图翻译：蓬莱山帅比♪ **"
+	}
+	"*** creating particle helped by Airvulpes ***"
+	{
+		"chi"		"**粒子创建：Airvulpes **"
+	}
+	"*** LIFT LEAVES IN 15 SECONDS ***"
+	{
+		"chi"		"**电梯在15秒后离开 **"
+		"DoorCountDown"		"15"
+	}
+	"*** LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯在5秒后离开 **"
+	}
+	"*** Wall will become can climb in 40 SECONDS ***"
+	{
+		"chi"		"**后面的墙壁40秒后可以攀爬 **"
+		"DoorCountDown"		"40"
+	}
+	"*** STUCK TELEPORT IS ENABLED ***"
+	{
+		"chi"		"**启用了僵尸传送 **"
+	}
+	"*** STUCKER HURRY TO RUN ***"
+	{
+		"chi"		"**快走 **"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"chi"		"**防守5秒 **"
+	}
+	"*** GO GO !! ***"
+	{
+		"chi"		"**走 走！！ **"
+	}
+	"*** YOU CAN CLIMB THE WALL ***"
+	{
+		"chi"		"**你可以爬到墙上 **"
+	}
+	"*** LIFT WILL RISE IN 20 SECONDS ***"
+	{
+		"chi"		"**电梯将在20秒后上升 **"
+		"DoorCountDown"		"20"
+	}
+	"*** LIFT WILL RISE IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯将在5秒后上升 **"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"chi"		"**防守30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"*** GO !! GO !! ***"
+	{
+		"chi"		"**走！！走！！ **"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"chi"		"**正常模式完成 **"
+	}
+	"*** DIFFICULTY: INSANE ***"
+	{
+		"chi"		"**难度：疯狂 **"
+	}
+	"*** LOOK AT THE SKY !! ***"
+	{
+		"chi"		"**看看天空! ! **"
+	}
+	"*** THIS IS THE PURPLE LIGHT !! ***"
+	{
+		"chi"		"**这是紫色的光! ! **"
+	}
+	"*** IT WILL INCREASE BOWSERS SOME ABILITIES... ***"
+	{
+		"chi"		"**它会为Bowser增加一些技能... **"
+	}
+	"*** ZOMBIES LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"chi"		"**僵尸电梯在5秒后上升 **"
+	}
+	"*** THREE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	{
+		"chi"		"**需要三个人按电梯按钮 **"
+		"ico"		"icon_fire"
+	}
+	"*** HOLD THEM !! ***"
+	{
+		"chi"		"**守住他们！！ **"
+	}
+	"*** NICE JOB !! ALL BUTTON ARE PRESSED BY HUMANS ***"
+	{
+		"chi"		"**干的不错！！人类按下所有按钮 **"
+	}
+	"*** LIFT WILL LEAVE IN 30 SECONDS ***"
+	{
+		"chi"		"**电梯将在30秒后上升 **"
+		"DoorCountDown"		"30"
+	}
+	"*** LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯将在5秒后上升 **"
+	}
+	"*** DONT GO !!!!!!! ***"
+	{
+		"chi"		"**不要走！！！！！！！ **"
+	}
+	"*** TELEPORTER IS NOT ACTIVATING !!!! ***"
+	{
+		"chi"		"**传送点不会激活！！！ **"
+	}
+	"*** ACTIVATING.... YOU MUST DEFENCE FOR 30 SECONDS !!! ***"
+	{
+		"chi"		"**激活了....你必须防守30秒！！！ **"
+		"DoorCountDown"		"30"
+	}
+	"*** TELEPORTER WILL ACTIVE IN 5 SECONDS... ***"
+	{
+		"chi"		"**传送点将在5秒后激活 **"
+	}
+	"*** GO !! GO !! YOU CAN TELEPORT NOW !! ***"
+	{
+		"chi"		"**走！！走！！你现在可以进入传送点！！ **"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO !! BOWSER IS GETTING POWER FROM PURPLE LIGHT !! ***"
+	{
+		"chi"		"**哦不！从紫色的光那里！BOWSER得到了一些力量！！ **"
+	}
+	"*** BOWSER IS POWERED UP !! BE CAREFUL !! ***"
+	{
+		"chi"		"**BOWSER把水槽那里通上电了！！小心！！ **"
+		"ico"		"icon_fire"
+	}
+	"*** RED LIGHT COMPLETED ***"
+	{
+		"chi"		"**红灯亮！已完成 **"
+	}
+	"*** POWER STAR APPEARD ***"
+	{
+		"chi"		"**动力之星出现 **"
+	}
+	"*** A PLAYER HAS PICKED UP THE POWER STAR ***"
+	{
+		"chi"		"**一名玩家拿起动力之星 **"
+	}
+	"*** DIFFICULTY: HARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT WILL RISE IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOWSER IS APPERED !!! SHOOT HIM !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE KILLED BOWSER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PORTAL IS APPEARED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET IN TO THE PORTAL OF MIDDLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES WILL COME IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COLOR LIFT WILL LEAVE IN 40 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POTISION !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COLOR LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HARD MODE COMPLETED ***"
+	{
+		"chi"		"** **"
 	}
 }

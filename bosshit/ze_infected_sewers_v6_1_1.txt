@@ -1,241 +1,315 @@
-"BOSSHP"
+"Console_T"
 {
-	"locurah1"
+	"*** MAP MADE BY KAGALERA ***"
 	{
-		"enable"		"0"
+		"chi"		"**地图作者：KAGALERA**"
 	}
-	"2521587"
+	"*** FIXED BY SKULLZ AND LEV ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2521587"
-		"m_iname"		"bossbullets"
+		"chi"		"**地图修复：SKULLZ和LEV 地图翻译：浅见执羽**"
 	}
-	"1973197"
+	"*** WARMUP ROUND ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1973197"
-		"m_iname"		"laserbream&6015"
+		"chi"		"**热身回合**"
 	}
-	"163118"
+	"*** STARTING THE MAP ***"
 	{
-		"enable"		"0"
-		"hammerid"		"163118"
-		"m_iname"		"locurah1"
+		"chi"		"**地图正式开始**"
 	}
-	"3475750"
+	"*** MAP MADE BY KAGALERA***"
 	{
-		"enable"		"0"
-		"hammerid"		"3475750"
-		"m_iname"		"wall_01"
+		"chi"		"**地图作者：KAGALERA**"
 	}
-	"1931"
+	"*** MUSIC VOLUME CAN BE ADJUSTED IN THE SOUND SETTINGS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1931"
-		"m_iname"		"puertarota2"
+		"chi"		"**地图音乐大小能够在游戏音频设置中调节**"
 	}
-	"2064"
+	"*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2064"
-		"m_iname"		"rock down floor"
+		"chi"		"**A5与C2大门将在5秒后打开**"
 	}
-	"2152"
+	"*** CURRENT DIFFICULTY --- EASY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2152"
-		"m_iname"		"venti41"
+		"chi"		"**当前难度：简单**"
 	}
-	"2154"
+	"*** ELYS PUSHER HAS BEEN PICKED UP ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2154"
-		"m_iname"		"zmventi"
+		"chi"		"**艾利的推力器被拾起**"
 	}
-	"2358"
+	"*** FLAME OF UDUN HAS BEEN PICKED UP ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2358"
-		"m_iname"		"venti5"
+		"chi"		"**阿顿之火被拾起**"
 	}
-	"2360"
+	"*** DOOR OPENING IN 30 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2360"
-		"m_iname"		"venti51"
+		"chi"		"**大门将在30秒后开启**"
+		"DoorCountDown"		"30"
 	}
-	"2501"
+	"*** DOOR OPENING IN 10 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2501"
-		"m_iname"		"vent2"
+		"chi"		"**大门将在10秒后开启**"
 	}
-	"2503"
+	"*** 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2503"
-		"m_iname"		"vent21"
+		"chi"		"**还剩5秒**"
 	}
-	"117206"
+	"*** ELEVATOR LEAVES IN 30 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"117206"
-		"m_iname"		"vent68"
+		"chi"		"**电梯将在30秒后离开**"
+		"DoorCountDown"		"30"
 	}
-	"117190"
+	"*** 10 seconds left ***"
 	{
-		"enable"		"0"
-		"hammerid"		"117190"
-		"m_iname"		"vent6"
+		"chi"		"**还剩10秒**"
 	}
-	"156051"
+	"*** 5 seconds left ***"
 	{
-		"enable"		"0"
-		"hammerid"		"156051"
-		"m_iname"		"muroroto"
+		"chi"		"**还剩5秒**"
 	}
-	"263375"
+	"*** ELEVATOR IS LEAVING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"263375"
-		"m_iname"		"dificil12"
+		"chi"		"**电梯离开**"
 	}
-	"263413"
+	"*** WALL BREAKS IN 20 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"263413"
-		"m_iname"		"dificil12"
+		"chi"		"**墙将在20秒后破碎**"
+		"DoorCountDown"		"20"
 	}
-	"269388"
+	"*** FALL BACK! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"269388"
-		"m_iname"		"dificil12"
+		"chi"		"**撤退！**"
 	}
-	"270369"
+	"*** WALL BREAKS IN 15 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"270369"
-		"m_iname"		"paso"
+		"chi"		"**墙将在15秒后破碎**"
+		"DoorCountDown"		"15"
 	}
-	"701364"
+	"*** MOVE!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"701364"
-		"m_iname"		"elevatr_break"
+		"chi"		"**继续前进！**"
 	}
-	"1002151"
+	"*** DOOR OPENING IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1002151"
-		"m_iname"		"nigdoor"
+		"chi"		"**门将在5秒后打开**"
 	}
-	"1226286"
+	"*** DOOR OPENING IN 20 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1226286"
-		"m_iname"		"helitroll_1"
+		"chi"		"**门将在20秒后打开**"
+		"DoorCountDown"		"20"
 	}
-	"1226289"
+	"*** FALL BACK!!!!!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1226289"
-		"m_iname"		"helitroll_2"
+		"chi"		"**撤退！！！**"
 	}
-	"1226292"
+	"*** HOLD YOUR POSITIONS!! GATES WILL OPEN IN 25 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1226292"
-		"m_iname"		"parentar_paths_breakable_1"
+		"chi"		"**坚守阵地！大门将在25秒后开启**"
+		"DoorCountDown"		"25"
 	}
-	"1226295"
+	"*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1226295"
-		"m_iname"		"parentar_paths_breakable_2"
+		"chi"		"**我们已经呼叫撤离接应了！在这栋建筑的顶部重新部署防御！**"
 	}
-	"1226298"
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1226298"
-		"m_iname"		"parentar_paths_breakable_3"
+		"chi"		"**电梯将在20秒后离开**"
+		"DoorCountDown"		"20"
 	}
-	"1226301"
+	"*** 3 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1226301"
-		"m_iname"		"parentar_paths_breakable_4"
+		"chi"		"**3...**"
 	}
-	"2067"
+	"*** 2 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2067"
-		"m_iname"		"rock down floor1"
+		"chi"		"**2...**"
 	}
-	"156388"
+	"*** 1 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"156388"
-		"m_iname"		"muro2"
+		"chi"		"**1...**"
 	}
-	"270275"
+	"*** MISSILES INBOUND ***"
 	{
-		"enable"		"0"
-		"hammerid"		"270275"
-		"m_iname"		"dificil10"
+		"chi"		"**导弹已升空**"
 	}
-	"1961365"
+	"*** 35 SECONDS FOR IMPACT ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1961365"
-		"m_iname"		"laserb1"
+		"chi"		"**导弹打击将在35秒后抵达**"
 	}
-	"1961369"
+	"*** HELICOPTER IS NEAR FALL BACK!!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1961369"
-		"m_iname"		"laserb2"
+		"chi"		"**直升机来啦赶紧TM上来！**"
 	}
-	"1962024"
+	"*** 10 SECONDS!!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1962024"
-		"m_iname"		"laserb3"
+		"chi"		"**最后10秒！**"
 	}
-	"1962037"
+	"*** THE HELICOPTER IS HERE!!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1962037"
-		"m_iname"		"laserb4"
+		"chi"		"**直升机来啦啦啦啦啦啦！**"
 	}
-	"1962042"
+	"*** EASY DIFFICULTY COMPLETE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1962042"
-		"m_iname"		"laserb5"
+		"chi"		"**简单难度完成**"
 	}
-	"1962046"
+	"*** MOVING ON TO NORMAL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1962046"
-		"m_iname"		"laserb6"
+		"chi"		"**调整至普通难度**"
 	}
-	"3233415"
+	"*** CURRENT DIFFICULTY --- NORMAL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3233415"
-		"m_iname"		"romp"
+		"chi"		"**当前难度：普通**"
 	}
-	"2244"
+	"*** ZOMBIES ESCAPED! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2244"
-		"m_iname"		"barroteszona3"
+		"chi"		"** 僵尸们从导弹打击下逃脱了！**"
 	}
-	"2256"
+	"*** RESTARTING EASY DIFFICULTY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2256"
-		"m_iname"		"barroteszona1"
+		"chi"		"**重新开始简单难度**"
+	}
+	"*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
+	{
+		"chi"		"**坚守25秒！别把那些僵尸放出来！**"
+		"DoorCountDown"		"25"
+	}
+	"*** FALL BACK!!! WE ARE SAFE! ***"
+	{
+		"chi"		"**撤退！我们安全了！**"
+	}
+	"*** WAIT... ***"
+	{
+		"chi"		"**等等...**"
+	}
+	"*** DAFUQ IS THAT?! ***"
+	{
+		"chi"		"**那TM又是什么鬼？！**"
+	}
+	"*** ANYWAY SHOOT IT!!!! ***"
+	{
+		"chi"		"**不管那么多了赶紧朝它开火！！！**"
+	}
+	"*** AGM MISSILE HAS BEEN DEPLOYED ***"
+	{
+		"chi"		"**AGM导弹已被部署**"
+	}
+	"*** AGM MISSILE WILL KILL US IN 100 SECONDS ***"
+	{
+		"chi"		"**AGM导弹将在将在100秒后把我们全部炸飞**"
+	}
+	"*** AGM MISSILE IN 50 SECONDS ***"
+	{
+		"chi"		"**AGM导弹还有50秒就到了快打啊啊啊...**"
+	}
+	"*** AGM MISSILE IN 20 SECONDS ***"
+	{
+		"chi"		"**还有20秒快打啊啊啊...**"
+	}
+	"*** AGM MISSILE IN 10 SECONDS ***"
+	{
+		"chi"		"**最后10秒啦啦啦啦啦...**"
+	}
+	"*** AGM MISSILE IN 5s!!!!!! ***"
+	{
+		"chi"		"**最后5秒我还不想死啊啊啊！**"
+	}
+	"*** AGM MISSILE IN 4s!!!!!!!!!!!!!! ***"
+	{
+		"chi"		"**最后4秒了啊啊啊啊！！**"
+	}
+	"*** AGM MISSILE IN 3s!!!!!!!!!!!!!! ***"
+	{
+		"chi"		"**卧槽最后3秒了啊啊啊啊！！！**"
+	}
+	"*** AGM MISSILE IN 2s!!!!!!!!!!!!!!!!!!!!!! ***"
+	{
+		"chi"		"**最后2秒了要死了呀呀呀呀！！！！**"
+	}
+	"*** AGM MISSILE IN 1s!!!!!!!!!!!!!!!!!!!!!!!!!! ***"
+	{
+		"chi"		"**最后1秒了真的要死了啊啊啊啊！！！！！**"
+	}
+	"*** REGROUP OUTSIDE NOW!! WE DONT HAVE MUCH TIME!! ***"
+	{
+		"chi"		"**快在外面重新部署防御！没有多少时间留给我们浪费了！**"
+	}
+	"*** SPIDER TANK HAS BEEN DESTROYED!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO INTO THE TRAIN STATION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING IN 35 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NORMAL DIFFICULTY COMPLETE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MOVING ON TO HARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT DIFFICULTY --- HAAAAAAARD!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NADES DO MORE DAMAGE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RAGEMODE ON!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WATCH OUT FOR ELECTRICITY WAVES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEEP MOVING FORWARD!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE LAST TRAIN IS COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU DID IT!!!! YOU WON ALL DIFFICULTIES!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP RESET ACTIVATED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HARD DIFFICULTY SET ON ADMIN ROOM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOOM BAM BOP BATTA BOP BOOP POW ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES IN THE BUNKER!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESTARTING NORMAL DIFFICULTY ***"
+	{
+		"chi"		"** **"
 	}
 }

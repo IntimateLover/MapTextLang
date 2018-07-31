@@ -1,291 +1,416 @@
-"BOSSHP"
+"Console_T"
 {
-	"2329445"
+	"### WARMUP - 50 SECONDS LEFT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2329445"
-		"m_iname"		"nrk2_rock"
+		"chi"		"** **"
 	}
-	"2329771"
+	"### WARMUP - 40 SECONDS LEFT ###"
 	{
-		"enable"		"1"
-		"hammerid"		"2329771"
-		"m_iname"		"nrk2_boss_tower"
+		"chi"		"** **"
 	}
-	"2225098"
+	"### WARMUP - 30 SECONDS LEFT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2225098"
-		"m_iname"		"nrk2_vent5_breakable"
+		"chi"		"** **"
 	}
-	"2122282"
+	"### WARMUP - 20 SECONDS LEFT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2122282"
-		"m_iname"		"nrk2_vent3_breakable"
+		"chi"		"** **"
 	}
-	"1778369"
+	"III PLAYER HAS PICKED UP MEDIC KIT III"
 	{
-		"enable"		"1"
-		"hammerid"		"1778369"
-		"m_iname"		"naraka_hitbox2"
+		"chi"		"**一位玩家拿起医疗包 **"
 	}
-	"1778391"
+	"### WARMUP - 10 SECONDS LEFT ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1778391"
-		"m_iname"		"CY01Physic"
+		"chi"		"** **"
 	}
-	"1778523"
+	"### WARMUP OVER - RESTARTING ROUND ###"
 	{
-		"enable"		"1"
-		"hammerid"		"1778523"
-		"m_iname"		"boss_tar"
+		"chi"		"** **"
 	}
-	"1694726"
+	"### HOLD HERE FOR A BIT ###"
 	{
-		"enable"		"1"
-		"hammerid"		"1694726"
-		"m_iname"		"nrk3_boss_timeup_roof"
+		"chi"		"**在这里等一会 **"
 	}
-	"1641969"
+	"III SARIN GAS HAS PICKED UP BY ZOMBIE III"
 	{
-		"enable"		"1"
-		"hammerid"		"1641969"
-		"m_iname"		"naraka_hitbox"
+		"chi"		"**一位僵尸拿起了沙林毒气 **"
 	}
-	"1616942"
+	"III MINI-NUKE HAS PICKED UP BY ZOMBIE III"
 	{
-		"enable"		"0"
-		"hammerid"		"1616942"
-		"m_iname"		"nrk2_jail_breakable2"
+		"chi"		"**一位僵尸拿起了迷你核弹 **"
 	}
-	"1555741"
+	"### SUICIDE VEST ACTIVES IN 5 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1555741"
-		"m_iname"		"nrk3_breakable_1"
+		"chi"		"**核弹5秒后启动 **"
 	}
-	"1508091"
+	"### ALLAH AKBARRRR ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1508091"
-		"m_iname"		"nrk3_breakable_ex"
+		"chi"		"**真主至上 **"
 	}
-	"1463853"
+	"III PLAYER HAS PICKED UP FLAMETHROWER III"
 	{
-		"enable"		"0"
-		"hammerid"		"1463853"
-		"m_iname"		"nrk3_breakable_4"
+		"chi"		"**一位玩家拿起喷火器 **"
 	}
-	"1236334"
+	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1236334"
-		"m_iname"		"nrk1_final_breakable"
+		"chi"		"**你们有两分钟的时间击毙BOSS **"
 	}
-	"1222067"
+	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1222067"
-		"m_iname"		"nrk3_sewerdoor_breakable"
+		"chi"		"**时间结束后NARAKA将不会被杀死并释放僵尸 **"
 	}
-	"1076197"
+	"### RANDOM FREEZING WIND SKILL CASTING  93 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1076197"
-		"m_iname"		"nrk3_sewerwall_breakable"
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
 	}
-	"954845"
+	"### RANDOM FREEZING WIND SKILL CASTING  33 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"954845"
-		"m_iname"		"nrk3_breakable_5"
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
 	}
-	"954984"
+	"### RANDOM FREEZING WIND SKILL CASTING  81 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"954984"
-		"m_iname"		"nrk3_breakable_6"
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
 	}
-	"955132"
+	"### RANDOM FIRE SKILL CASTING  17 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"955132"
-		"m_iname"		"nrk3_breakable_7"
+		"chi"		"**随机技能-毁灭之火 **"
+		"ico"		"icon_fire"
 	}
-	"930745"
+	"### RANDOM FIRE SKILL CASTING  77 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"930745"
-		"m_iname"		"nrk3_breakable_2"
+		"chi"		"**随机技能-毁灭之火  **"
+		"ico"		"icon_fire"
 	}
-	"930790"
+	"### RANDOM FIRE SKILL CASTING  36 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"930790"
-		"m_iname"		"nrk3_breakable_3"
+		"chi"		"**随机技能-毁灭之火 **"
+		"ico"		"icon_fire"
 	}
-	"689305"
+	"### RANDOM FREEZING WIND SKILL CASTING  29 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"689305"
-		"m_iname"		"nrk2_floor_breakable1"
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
 	}
-	"566132"
+	"### RANDOM COME CLOSER CASTING  68 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"566132"
-		"m_iname"		"nrk2_elevator1_glass"
+		"chi"		"**随机技能-黑洞篡夺 **"
+		"ico"		"icon_fire"
 	}
-	"493192"
+	"### YOU CAN BE SURE ###"
 	{
-		"enable"		"0"
-		"hammerid"		"493192"
-		"m_iname"		"nrk2_jail_breakable1"
+		"chi"		"**你要相信 **"
 	}
-	"1804831"
+	"### ILL BE BACK AGAIN ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1804831"
-		"m_iname"		"nrk_landmines&4322"
+		"chi"		"**我会再次回来 **"
 	}
-	"1872057"
+	"### DEFEND BEHIND THE RAILWAY ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1872057"
-		"m_iname"		"nrk_item_medic_sign"
+		"chi"		"**保护后面的铁路 **"
 	}
-	"1788109"
+	"### HOLD UNTIL THE TRAIN COMES TO BLOCK THE WAY ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1788109"
-		"m_iname"		"CY01Physic1&4331"
+		"chi"		"**直到火车到来挡住道路 **"
 	}
-	"1788130"
+	"### GET AWAY FROM THE RAILWAY ###"
 	{
-		"enable"		"1"
-		"hammerid"		"1788130"
-		"m_iname"		"nrk_miniboss_hitbox&4331"
+		"chi"		"**离开铁路 **"
 	}
-	"1871901"
+	"###  GET BEHIND THE GATES !! TRAIN IS COMING ###"
 	{
-		"enable"		"0"
-		"hammerid"		"1871901"
-		"m_iname"		"nrk_zm_biobomb_logo"
+		"chi"		"**去到门后面！火车来了 **"
 	}
-	"2027175"
+	"### RANDOM FIRE SKILL CASTING  43 ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2027175"
-		"m_iname"		"nrk_item_toxic_sign"
+		"chi"		"**随即技能-毁灭之火 **"
+		"ico"		"icon_fire"
 	}
-	"2735923"
+	"### ADMIN HAS SELECTED STAGE: III ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2735923"
-		"m_iname"		"nrk_landmines&2551"
+		"chi"		"**管理员选择了第三关 **"
 	}
-	"2470463"
+	"### ADMIN HAS SELECTED NUKE TO RESTART THE ROUND ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2470463"
-		"m_iname"		"nrk3_breakable_3"
+		"chi"		"**管理员选择了使用核弹开始新的一局 **"
 	}
-	"2756196"
+	"### NUKE IN 5 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2756196"
-		"m_iname"		"nrk_item_medic_sign"
+		"chi"		"**核弹5秒后发射 **"
 	}
-	"2611981"
+	"### NUKE IN 4 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2611981"
-		"m_iname"		"nrk_item_detector_model"
+		"chi"		"** **"
 	}
-	"3147328"
+	"### NUKE IN 3 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"3147328"
-		"m_iname"		"nrk2_vent5_breakable"
+		"chi"		"** **"
 	}
-	"3397742"
+	"### NUKE IN 2 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"3397742"
-		"m_iname"		"nrk3_breakable_3_ex"
+		"chi"		"** **"
 	}
-	"3342114"
+	"### NUKE IN 1 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"3342114"
-		"m_iname"		"nrk3_breakable_6"
+		"chi"		"** **"
 	}
-	"3342129"
+	"### HOLD UNTIL SEWER PANEL BREAKS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"3342129"
-		"m_iname"		"nrk3_breakable_9"
+		"chi"		"**守住.直到下水道的地面破裂 **"
 	}
-	"3260763"
+	">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"3260763"
-		"m_iname"		"nrk3_elevator2_breakable"
+		"chi"		"**你们有两分钟的时间击毙BOSS **"
 	}
-	"3249113"
+	"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
 	{
-		"enable"		"0"
-		"hammerid"		"3249113"
-		"m_iname"		"nrk3_breakable_3"
+		"chi"		"**时间结束后NARAKA将不会被杀死并释放僵尸 **"
 	}
-	"3233483"
+	"lll NARAKA USES PHYSICAL ATTACK lll"
 	{
-		"enable"		"0"
-		"hammerid"		"3233483"
-		"m_iname"		"nrk3_breakable_8"
+		"chi"		"**NARAKA使用了物理攻击 **"
 	}
-	"2941044"
+	"III NARAKA HAS DROPPED THE LANDMINE III"
 	{
-		"enable"		"0"
-		"hammerid"		"2941044"
-		"m_iname"		"nrk3_breakable_ex2"
+		"chi"		"**NARAKA埋放了地雷 **"
+		"ico"		"icon_fire"
 	}
-	"2919277"
+	"III NARAKA IS USING CHEMTHROWER III"
 	{
-		"enable"		"0"
-		"hammerid"		"2919277"
-		"m_iname"		"nrk3_breakable_4"
+		"chi"		"**NARAKA使用了化学武器 **"
+		"ico"		"icon_fire"
 	}
-	"738835"
+	"III NARAKA HAS SPAWNED HIS GUARDS III"
 	{
-		"enable"		"0"
-		"hammerid"		"738835"
-		"m_iname"		"nrk3_breakable_7"
+		"chi"		"**NARAKA叫醒了他的狗 **"
 	}
-	"2804288"
+	"III NARAKA IS THROWING SARIN BARREL III"
 	{
-		"enable"		"0"
-		"hammerid"		"2804288"
-		"m_iname"		"nrk_item_biobomb_break"
+		"chi"		"**NARAKA投掷了沙林毒气桶 **"
+		"ico"		"icon_fire"
 	}
-	"1685634"
+	">>> HES DEAD. DEFEND UNTIL GATES OPEN <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1685634"
-		"m_iname"		"nrk_sarin_bomb"
+		"chi"		"**他死了。守到门打开 **"
 	}
-	"2678464"
+	"###  ELEVATOR IS LEAVING IN 10 SECONDS ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2678464"
-		"m_iname"		"nrk_item_missile_break"
+		"chi"		"**电梯将在10秒内离开 **"
 	}
-	"3509692"
+	"### ELEVATOR IS HERE GET IN ###"
 	{
-		"enable"		"0"
-		"hammerid"		"3509692"
-		"m_iname"		"nrk2_vent5_breakable"
+		"chi"		"**电梯已离开 **"
+	}
+	"### BRIDGE BREAKS IN 15 SECONDS"
+	{
+		"chi"		"**桥梁15秒后断裂 **"
+		"DoorCountDown"		"15"
+	}
+	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
+	{
+		"chi"		"**希望你们能在这次启示录中幸存 **"
+	}
+	"### RANDOM COME CLOSER CASTING   29 ###"
+	{
+		"chi"		"**随机技能-黑洞篡夺 **"
+		"ico"		"icon_fire"
+	}
+	"### RANDOM FIRE SKILL CASTING  25 ###"
+	{
+		"chi"		"**随机技能-毁灭之火 **"
+		"ico"		"icon_fire"
+	}
+	"### CONGRATULATION YOU WON THE MAP ###"
+	{
+		"chi"		"**恭喜你通关本地图 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"2870"
+	}
+	"### SUICIDE VEST ACTIVES IN 4 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### SUICIDE VEST ACTIVES IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### SUICIDE VEST ACTIVES IN 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### SUICIDE VEST ACTIVES IN 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ALLAHHHH AKBARRRR ###"
+	{
+		"chi"		"** **"
+	}
+	"### SARIN ACTIVES IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### SARIN ACTIVES IN 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### SARIN ACTIVES IN 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### FREEZING WIND SKILL CASTING  93 ###"
+	{
+		"chi"		"**随机技能-冻结之风 **"
+		"ico"		"icon_fire"
+	}
+	"### COME CLOSER CASTING   29 ###"
+	{
+		"chi"		"**随机技能-暗影撺掇 **"
+		"ico"		"icon_fire"
+	}
+	"### FREEZING WIND SKILL CASTING  81 ###"
+	{
+		"chi"		"**随机技能-冻结之风：81**"
+		"ico"		"icon_fire"
+	}
+	"###  FIRE SKILL CASTING  43 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：43**"
+	}
+	"### COME CLOSER CASTING  68 ###"
+	{
+		"chi"		"**随机技能-暗影撺掇：68**"
+		"ico"		"icon_fire"
+	}
+	"### FREEZING WIND SKILL CASTING  29 ###"
+	{
+		"chi"		"**随机技能-冻结之风：29**"
+		"ico"		"icon_fire"
+	}
+	"### FIRE SKILL CASTING  25 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：25**"
+		"ico"		"icon_fire"
+	}
+	">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
+	{
+		"chi"		"**你必须在2分20秒内杀死BOSS **"
+	}
+	"### ACTIVE THE C4 TO DESTROY THE BRIDGE ###"
+	{
+		"chi"		"**C4即将摧毁桥梁-守住 **"
+	}
+	"### FIRE SKILL CASTING  77 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：77**"
+	}
+	"### FIRE SKILL CASTING  36 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：36**"
+	}
+	"### FIRE SKILL CASTING  17 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：17**"
+	}
+	"### FREEZING WIND SKILL CASTING  33 ###"
+	{
+		"chi"		"**随机技能-冻结之风：33**"
+	}
+	"### FIRE SKILL CASTING  63 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：63**"
+	}
+	"### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"III PLAYER HAS PICKED UP MINES DETECTOR III"
+	{
+		"chi"		"** **"
+	}
+	"III ERROR !! MINES DETECTORS CANNOT BE USE III"
+	{
+		"chi"		"** **"
+	}
+	"III PLAYER HAS PICKED UP AMMO BOX III"
+	{
+		"chi"		"** **"
+	}
+	"III PLAYER HAS PICKED UP DEATH COFFIN III"
+	{
+		"chi"		"** **"
+	}
+	"### MISSILES DETONADE IN 20 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### MISSILES DETONADE IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### MISSILES DETONADE IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### FIRE SKILL CASTING  19 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：19**"
+	}
+	"### FIRE SKILL CASTING  79 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：79**"
+	}
+	"### FREEZING WIND SKILL CASTING ###"
+	{
+		"chi"		"**随机技能-冻结之风**"
+	}
+	"###  FIRE SKILL CASTING  73 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：73**"
+	}
+	"### FIRE SKILL CASTING  93 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：93**"
+	}
+	"### COME CLOSER CASTING  55 ###"
+	{
+		"chi"		"**随机技能-暗影撺掇：55**"
+	}
+	"### FIRE SKILL CASTING  13 ###"
+	{
+		"chi"		"**随机技能-毁灭之火：13**"
+	}
+	"III PLAYER HAS PICKED UP BIOBOMB III"
+	{
+		"chi"		"** **"
+	}
+	"### 5 SECONDS TO DETONATION ###"
+	{
+		"chi"		"** **"
+	}
+	"### MISSILES DETONADE IN 15 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES CAN DESTROY THE ELECTIC BOX ###"
+	{
+		"chi"		"** **"
+	}
+	"### TO SHORT THE CIRCUIT OF THE ELEVATOR ###"
+	{
+		"chi"		"** **"
+	}
+	"### THE ELEVATOR ELECTRIC BOX IS BROKEN ###"
+	{
+		"chi"		"** **"
+	}
+	"### ELEVATOR WILL AUTOMATICLY LEAVING IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
 	}
 }

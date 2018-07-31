@@ -1,39 +1,65 @@
-"BOSSHP"
+"Console_T"
 {
-	"181493"
+	"*** MAP by kune ***"
 	{
-		"enable"		"0"
-		"hammerid"		"181493"
-		"m_iname"		"st2_door_45"
+		"chi"		"**地图制作：kune **"
 	}
-	"286963"
+	"*** 20 seconds left ***"
 	{
-		"enable"		"1"
-		"hammerid"		"286963"
-		"m_iname"		"item_boss_boost_st3_kb_hit"
+		"chi"		"**还剩20秒 **"
+		"DoorCountdown"		"20"
 	}
-	"286979"
+	"*** 5 seconds left ***"
 	{
-		"enable"		"1"
-		"hammerid"		"286979"
-		"m_iname"		"item_boss_boost_st3_kb_hit_S"
+		"chi"		"** **"
 	}
-	"340342"
+	"*** 15 seconds left ***"
 	{
-		"enable"		"0"
-		"hammerid"		"340342"
-		"m_iname"		"item3_st2_target1_phys&2699"
+		"chi"		"**还剩15秒 **"
+		"DoorCountdown"		"15"
 	}
-	"339564"
+	"*** 25 seconds left ***"
 	{
-		"enable"		"0"
-		"hammerid"		"339564"
-		"m_iname"		"item2_st2_target1_phys&9815"
+		"chi"		"**还剩25秒 **"
+		"DoorCountdown"		"25"
 	}
-	"338306"
+	"*** 30 seconds left ***"
 	{
-		"enable"		"0"
-		"hammerid"		"338306"
-		"m_iname"		"item1_st2_target1_phys&4795"
+		"chi"		"**还剩30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"*** Hold here ***"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"*** Door closing in 10 seconds ***"
+	{
+		"chi"		"**大门10秒后关闭 **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"83808"
+	}
+	"*** LEVEL2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 40 seconds left ***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"40"
+	}
+	"*** 45 seconds left ***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"45"
+	}
+	"*** TEST ***"
+	{
+		"chi"		"** **"
 	}
 }

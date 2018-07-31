@@ -1,15 +1,46 @@
-"BOSSHP"
+"Console_T"
 {
-	"214751"
+	"MapGlobal_ConVars"
 	{
-		"enable"		"0"
-		"hammerid"		"214751"
-		"m_iname"		"phys_l1"
-	}
-	"214763"
-	{
-		"enable"		"0"
-		"hammerid"		"214763"
-		"m_iname"		"phys_admin_l2"
+		"0"
+		{
+			"cvar"		"sm_Cvar sm_g_cv_money 10000"
+		}
+		"1"
+		{
+			"cvar"		"sm_Cvar sm_he_limit 6"
+		}
+		"2"
+		{
+			"cvar"		"sm_Cvar sm_smoke_limit 3"
+		}
+		"3"
+		{
+			"cvar"		"sm_Cvar sm_molotov_limit 2"
+		}
+		"4"
+		{
+			"cvar"		"sm_Cvar sm_decoy_limit 2"
+		}
+		"5"
+		{
+			"cvar"		"sm_g_cv_money 15000"
+		}
+		"6"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"7"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"8"
+		{
+			"cvar"		"sm_smoke_limit 1"
+		}
+		"9"
+		{
+			"cvar"		"sm_decoy_limit 1"
+		}
 	}
 }

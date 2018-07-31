@@ -1,117 +1,51 @@
-"BOSSHP"
+"Console_T"
 {
-	"148987"
+	"Map created by User1.1"
 	{
-		"enable"		"0"
-		"hammerid"		"148987"
-		"m_iname"		"door_floor_group1"
+		"chi"		"** **"
 	}
-	"141386"
+	"Hold this position for few seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"141386"
-		"m_iname"		"trap4b"
+		"chi"		"** **"
 	}
-	"141736"
+	"The bridge will fully open soon"
 	{
-		"enable"		"0"
-		"hammerid"		"141736"
-		"m_iname"		"trap4c"
+		"chi"		"** **"
 	}
-	"141843"
+	"Access to the elevator in 40 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"141843"
-		"m_iname"		"door_1xa"
+		"chi"		"** **"
 	}
-	"141889"
+	"Access to the elevator in 10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"141889"
-		"m_iname"		"door_roof"
+		"chi"		"** **"
 	}
-	"139565"
+	"The elevator will leave in 25 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"139565"
-		"m_iname"		"trap4a"
+		"chi"		"** **"
 	}
-	"127990"
+	"The elevator will leave in 10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"127990"
-		"m_iname"		"trap3a"
+		"chi"		"** **"
 	}
-	"128206"
+	"The door will open in 40 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"128206"
-		"m_iname"		"trap3b"
+		"chi"		"** **"
 	}
-	"114656"
+	"The door will open in 10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"114656"
-		"m_iname"		"breack_end_2"
+		"chi"		"** **"
 	}
-	"102105"
+	"Massive Teleport 19 seconds !!"
 	{
-		"enable"		"0"
-		"hammerid"		"102105"
-		"m_iname"		"trap_hole_2"
+		"chi"		"** **"
 	}
-	"97230"
+	"Wait until something happen"
 	{
-		"enable"		"0"
-		"hammerid"		"97230"
-		"m_iname"		"trap_hole_1"
+		"chi"		"** **"
 	}
-	"92302"
+	"Massive teleport 16 seconds !!"
 	{
-		"enable"		"0"
-		"hammerid"		"92302"
-		"m_iname"		"trap_2b"
-	}
-	"92459"
-	{
-		"enable"		"0"
-		"hammerid"		"92459"
-		"m_iname"		"trap_2a"
-	}
-	"91753"
-	{
-		"enable"		"0"
-		"hammerid"		"91753"
-		"m_iname"		"trap_1b"
-	}
-	"88411"
-	{
-		"enable"		"0"
-		"hammerid"		"88411"
-		"m_iname"		"trap_1a"
-	}
-	"83921"
-	{
-		"enable"		"0"
-		"hammerid"		"83921"
-		"m_iname"		"door_trap"
-	}
-	"81922"
-	{
-		"enable"		"0"
-		"hammerid"		"81922"
-		"m_iname"		"door_1a"
-	}
-	"34679"
-	{
-		"enable"		"0"
-		"hammerid"		"34679"
-		"m_iname"		"brack_elevator1"
-	}
-	"112829"
-	{
-		"enable"		"0"
-		"hammerid"		"112829"
-		"m_iname"		"breack_end_1"
+		"chi"		"** **"
 	}
 }

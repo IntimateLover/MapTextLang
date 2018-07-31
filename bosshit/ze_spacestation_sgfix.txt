@@ -1,267 +1,43 @@
-"BOSSHP"
+"Console_T"
 {
-	"2389"
+	"Destroy the reactor then get to the escape ships to flee the zombies."
 	{
-		"enable"		"0"
-		"hammerid"		"2389"
-		"m_iname"		"xwing_front"
+		"chi"		"**咸鱼们摧毁了反应堆，进入逃生船逃离僵尸**"
 	}
-	"2447"
+	"***DIFFICULTY --- NORMAL***"
 	{
-		"enable"		"0"
-		"hammerid"		"2447"
-		"m_iname"		"xwing_hinten"
+		"chi"		"**难度---正常**"
 	}
-	"2468"
+	"*** 30 SECONDS UNTIL SHUTTLE AIRLOCKS OPEN ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2468"
-		"m_iname"		"xwing"
+		"chi"		"**防守30秒直到飞船气阀打开**"
 	}
-	"2544"
+	"*** AIRLOCKS OPENING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2544"
-		"m_iname"		"xwing_seitelinks"
+		"chi"		"**气阀室开启！**"
 	}
-	"2548"
+	"*** AIRLOCKS CLOSING IN 10 SECONDS -- EVACUATE IMMEDIATELY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2548"
-		"m_iname"		"xwing_seiterechts"
+		"chi"		"**气阀将在10秒内关闭 -- 迅速撤离！*"
 	}
-	"2611"
+	"*** ESCAPE SHIPS HAVE DEPARTED ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2611"
-		"m_iname"		"xwing_wing4"
+		"chi"		"**逃生船已离开！**"
 	}
-	"2621"
+	"*** Starting up X-Wing***"
 	{
-		"enable"		"0"
-		"hammerid"		"2621"
-		"m_iname"		"xwing_wing3"
+		"chi"		"**启动X翼战机**"
 	}
-	"2631"
+	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2631"
-		"m_iname"		"xwing_Triebwerk4"
+		"chi"		"**准备跑啦！**"
 	}
-	"2649"
+	"### WELCOME TO CRAZY ESCAPE ###"
 	{
-		"enable"		"0"
-		"hammerid"		"2649"
-		"m_iname"		"xwing_Triebwerk3"
+		"chi"		"**欢迎来到疯狂逃跑**"
 	}
-	"2666"
+	"---***This map will mute your sound if you are outside the lunar base***---"
 	{
-		"enable"		"0"
-		"hammerid"		"2666"
-		"m_iname"		"xwing_wing1"
-	}
-	"2676"
-	{
-		"enable"		"0"
-		"hammerid"		"2676"
-		"m_iname"		"xwing_Triebwerk1"
-	}
-	"2693"
-	{
-		"enable"		"0"
-		"hammerid"		"2693"
-		"m_iname"		"xwing_wing2"
-	}
-	"2702"
-	{
-		"enable"		"0"
-		"hammerid"		"2702"
-		"m_iname"		"xwing_Triebwerk2"
-	}
-	"2720"
-	{
-		"enable"		"0"
-		"hammerid"		"2720"
-		"m_iname"		"xwing_dach"
-	}
-	"351555"
-	{
-		"enable"		"0"
-		"hammerid"		"351555"
-		"m_iname"		"ct_spawn_secret_door"
-	}
-	"340357"
-	{
-		"enable"		"0"
-		"hammerid"		"340357"
-		"m_iname"		"Target 3C Break"
-	}
-	"197235"
-	{
-		"enable"		"0"
-		"hammerid"		"197235"
-		"m_iname"		"break-me"
-	}
-	"197887"
-	{
-		"enable"		"0"
-		"hammerid"		"197887"
-		"m_iname"		"break-me"
-	}
-	"190915"
-	{
-		"enable"		"0"
-		"hammerid"		"190915"
-		"m_iname"		"break-me"
-	}
-	"1471"
-	{
-		"enable"		"0"
-		"hammerid"		"1471"
-		"m_iname"		"Ship Tele Door 1"
-	}
-	"1810"
-	{
-		"enable"		"0"
-		"hammerid"		"1810"
-		"m_iname"		"break_glass"
-	}
-	"2143"
-	{
-		"enable"		"0"
-		"hammerid"		"2143"
-		"m_iname"		"Ship Tele Door 2"
-	}
-	"2328"
-	{
-		"enable"		"0"
-		"hammerid"		"2328"
-		"m_iname"		"vent1 illusion"
-	}
-	"2330"
-	{
-		"enable"		"0"
-		"hammerid"		"2330"
-		"m_iname"		"vent1 illusion2"
-	}
-	"2348"
-	{
-		"enable"		"0"
-		"hammerid"		"2348"
-		"m_iname"		"nuclear_core"
-	}
-	"2401"
-	{
-		"enable"		"0"
-		"hammerid"		"2401"
-		"m_iname"		"xwing_Tank"
-	}
-	"3146"
-	{
-		"enable"		"0"
-		"hammerid"		"3146"
-		"m_iname"		"ship_glass"
-	}
-	"3148"
-	{
-		"enable"		"0"
-		"hammerid"		"3148"
-		"m_iname"		"ship_glass"
-	}
-	"3150"
-	{
-		"enable"		"0"
-		"hammerid"		"3150"
-		"m_iname"		"ship_glass"
-	}
-	"3152"
-	{
-		"enable"		"0"
-		"hammerid"		"3152"
-		"m_iname"		"ship_glass"
-	}
-	"3154"
-	{
-		"enable"		"0"
-		"hammerid"		"3154"
-		"m_iname"		"ship_glass"
-	}
-	"3160"
-	{
-		"enable"		"0"
-		"hammerid"		"3160"
-		"m_iname"		"ship_glass"
-	}
-	"3162"
-	{
-		"enable"		"0"
-		"hammerid"		"3162"
-		"m_iname"		"ship_glass"
-	}
-	"3166"
-	{
-		"enable"		"0"
-		"hammerid"		"3166"
-		"m_iname"		"ship_glass"
-	}
-	"3168"
-	{
-		"enable"		"0"
-		"hammerid"		"3168"
-		"m_iname"		"ship_glass"
-	}
-	"3172"
-	{
-		"enable"		"0"
-		"hammerid"		"3172"
-		"m_iname"		"ship_glass"
-	}
-	"3252"
-	{
-		"enable"		"0"
-		"hammerid"		"3252"
-		"m_iname"		"breakable floor1"
-	}
-	"3655"
-	{
-		"enable"		"0"
-		"hammerid"		"3655"
-		"m_iname"		"Special Wall"
-	}
-	"3664"
-	{
-		"enable"		"0"
-		"hammerid"		"3664"
-		"m_iname"		"Vent"
-	}
-	"44889"
-	{
-		"enable"		"0"
-		"hammerid"		"44889"
-		"m_iname"		"ship_glass"
-	}
-	"2728"
-	{
-		"enable"		"0"
-		"hammerid"		"2728"
-		"m_iname"		"xwing_laser1"
-	}
-	"2756"
-	{
-		"enable"		"0"
-		"hammerid"		"2756"
-		"m_iname"		"xwing_laser4"
-	}
-	"2738"
-	{
-		"enable"		"0"
-		"hammerid"		"2738"
-		"m_iname"		"xwing_laser2"
-	}
-	"2748"
-	{
-		"enable"		"0"
-		"hammerid"		"2748"
-		"m_iname"		"xwing_laser3"
+		"chi"		"**如果处在室外你将被静音**"
 	}
 }

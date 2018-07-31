@@ -1,297 +1,263 @@
-"BOSSHP"
+"Console_T"
 {
-	"779593"
+	"**** Map Made by DarkOgre! ****"
 	{
-		"enable"		"0"
-		"hammerid"		"779593"
-		"m_iname"		"PikachuPokeball"
+		"chi"		"**地图制作：DarkOgre! **"
 	}
-	"699334"
+	"** Level 1: Saffron City **"
 	{
-		"enable"		"0"
-		"hammerid"		"699334"
-		"m_iname"		"CharizardFence"
+		"chi"		"**第一关：红花市 **"
 	}
-	"671651"
+	"** Wait the truck get out the way! **"
 	{
-		"enable"		"0"
-		"hammerid"		"671651"
-		"m_iname"		"WaterElevatorRockBreak"
+		"chi"		"**等待卡车移动 **"
 	}
-	"671665"
+	"** A player has adquired Ammo! **"
 	{
-		"enable"		"0"
-		"hammerid"		"671665"
-		"m_iname"		"WaterElevatorRockBreak"
+		"chi"		"**一位玩家拿起了神器：无限弹药！ **"
 	}
-	"612285"
+	"** Computer is processing! **"
 	{
-		"enable"		"0"
-		"hammerid"		"612285"
-		"m_iname"		"CharizardBullets"
+		"chi"		"**计算机正在处理中 **"
 	}
-	"638730"
+	"** A player has adquired Potion! **"
 	{
-		"enable"		"0"
-		"hammerid"		"638730"
-		"m_iname"		"CY01Physic"
+		"chi"		"**一位玩家拿起了神器：医疗 **"
 	}
-	"640038"
+	"** Computer is having a malfunction. Attention keep distance!**"
 	{
-		"enable"		"0"
-		"hammerid"		"640038"
-		"m_iname"		"CharizardGrenades"
+		"chi"		"**电脑出现故障.注意保持距离 **"
 	}
-	"595800"
+	"** Hitmontop: Leave our gym, or else we will destroy you! **"
 	{
-		"enable"		"0"
-		"hammerid"		"595800"
-		"m_iname"		"CharizardFence"
+		"chi"		"**Hitmontop：离开我们的健身房.否则我们将毁灭你 **"
 	}
-	"596294"
+	"** Hold the bedroom for 30 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"596294"
-		"m_iname"		"JailZombiesLevel1"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"541685"
+	"** Blissey is waiting you inside the Mart! **"
 	{
-		"enable"		"0"
-		"hammerid"		"541685"
-		"m_iname"		"PikachuGrenades"
+		"chi"		"**Blissey正在沃尔玛商城中等着你 **"
 	}
-	"541940"
+	"** Dont let the zombies enter the Mart! **"
 	{
-		"enable"		"1"
-		"hammerid"		"541940"
-		"m_iname"		"SigilyphBullets"
+		"chi"		"**不要让僵尸进入沃尔玛 **"
 	}
-	"542104"
+	"** Blissey: Hello friend, Give me 15 seconds to open the gate for you!"
 	{
-		"enable"		"0"
-		"hammerid"		"542104"
-		"m_iname"		"ZapdosBullets"
+		"chi"		"**Blissey：你好朋友.给我15秒.我将为你打开大门！ **"
+		"DoorCountDown"		"15"
 	}
-	"542140"
+	"** A player has adquired Gust! **"
 	{
-		"enable"		"0"
-		"hammerid"		"542140"
-		"m_iname"		"ZapdosGrenades"
+		"chi"		"**一位玩家拿起了神器：狂风！ **"
 	}
-	"542341"
+	"** The path is blocked! What can we do now? **"
 	{
-		"enable"		"1"
-		"hammerid"		"542341"
-		"m_iname"		"FinalBossBullets"
+		"chi"		"**道路被堵住了！我们现在应该怎么办？ **"
 	}
-	"542384"
+	"** What noise is this? OMG Heatrans, hide before they kill you! **"
 	{
-		"enable"		"1"
-		"hammerid"		"542384"
-		"m_iname"		"FinalBossBullets"
+		"chi"		"**这是什么声音?OMG Heatrans.在他炸掉道路前不要站在门后面的道路上 **"
 	}
-	"542408"
+	"** Left Water elevator leaving in 25 seconds! **"
 	{
-		"enable"		"1"
-		"hammerid"		"542408"
-		"m_iname"		"FinalBossBullets"
+		"chi"		"**左边电梯25秒后离开 **"
 	}
-	"542423"
+	"** Right Water elevator leaving in 25 seconds! **"
 	{
-		"enable"		"1"
-		"hammerid"		"542423"
-		"m_iname"		"FinalBossBullets"
+		"chi"		"**右边电梯25秒后离开 **"
 	}
-	"542441"
+	"** Gym door closing in 15 seconds **"
 	{
-		"enable"		"1"
-		"hammerid"		"542441"
-		"m_iname"		"FinalBossGrenades"
+		"chi"		"**健身房的大门15秒后关闭 **"
+		"DoorCountDown"		"15"
 	}
-	"542474"
+	"** Ash: Do you think you can beat me? Dont make me laugh! **"
 	{
-		"enable"		"1"
-		"hammerid"		"542474"
-		"m_iname"		"FinalBossGrenades"
+		"chi"		"**Ash:你认为你能打败我吗？被逗我笑了！ **"
 	}
-	"542486"
+	"** Ash: So... You are my new opponent! **"
 	{
-		"enable"		"1"
-		"hammerid"		"542486"
-		"m_iname"		"FinalBossGrenades"
+		"chi"		"**Ash:所以.你是我的敌人！ **"
 	}
-	"542498"
+	"** Ash: Go Pikachu!!! **"
 	{
-		"enable"		"1"
-		"hammerid"		"542498"
-		"m_iname"		"FinalBossGrenades"
+		"chi"		"**Ash:去吧！皮卡丘！！！**"
 	}
-	"524765"
+	"** Ash: Pikachu use Shock Wave!! **"
 	{
-		"enable"		"0"
-		"hammerid"		"524765"
-		"m_iname"		"JailZombiesLevel2"
+		"chi"		"**Ash:皮卡丘使用冲击波！！ **"
+		"ico"		"icon_fire"
 	}
-	"483423"
+	"** Ash: Pikachu use Thunder!! **"
 	{
-		"enable"		"0"
-		"hammerid"		"483423"
-		"m_iname"		"CY01Physic1"
+		"chi"		"**Ash:皮卡丘使用雷霆！！ **"
+		"ico"		"icon_fire"
 	}
-	"299425"
+	"** Ash: Pikachu... Nooooo! **"
 	{
-		"enable"		"1"
-		"hammerid"		"299425"
-		"m_iname"		"FinalBossBreakRocks"
+		"chi"		"**Ash:皮卡丘...不！！！ **"
 	}
-	"299437"
+	"** Flygon leaving in 15 seconds! **"
 	{
-		"enable"		"1"
-		"hammerid"		"299437"
-		"m_iname"		"FinalBossFenceBreak"
+		"chi"		"**沙漠蜻蜓15秒后离开！ **"
+		"DoorCountDown"		"15"
 	}
-	"299493"
+	"** Zombies detected! **"
 	{
-		"enable"		"1"
-		"hammerid"		"299493"
-		"m_iname"		"FinalBossBreakRocks"
+		"chi"		"**检测到僵尸 **"
 	}
-	"299502"
+	"** Level 2: Syphon Lab **"
 	{
-		"enable"		"1"
-		"hammerid"		"299502"
-		"m_iname"		"FinalBossBreakRocks"
+		"chi"		"**第二关：实验室 **"
 	}
-	"299514"
+	"** Lasers will be disabled in 15 seconds! **"
 	{
-		"enable"		"1"
-		"hammerid"		"299514"
-		"m_iname"		"FinalBossBreakRocks"
+		"chi"		"**激光将在15秒后被停用！ **"
+		"DoorCountDown"		"15"
 	}
-	"282588"
+	"** Blissey: Sorry, but the elevator does not work on this floor! Please take the stairs! **"
 	{
-		"enable"		"0"
-		"hammerid"		"282588"
-		"m_iname"		"VictoryStatuesTopTrigger"
+		"chi"		"**Blissey:对不起，电梯不在这层工作！请走楼梯！ **"
 	}
-	"282616"
+	"** Door will open in 20 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"282616"
-		"m_iname"		"VictoryStatuesBotTrigger"
+		"chi"		"**大门20秒后打开 **"
+		"DoorCountDown"		"20"
 	}
-	"272058"
+	"** Right door will open in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"272058"
-		"m_iname"		"RockBreakCave"
+		"chi"		"**右边门将会在15秒后打开 **"
 	}
-	"272211"
+	"**  Left door will open in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"272211"
-		"m_iname"		"RockBreakCave"
+		"chi"		"**左边门将会在15秒后打开 **"
 	}
-	"272224"
+	"** Teleport will activate in 15 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"272224"
-		"m_iname"		"RockBreakCave"
+		"chi"		"**传送将会在15秒后启动 **"
+		"DoorCountDown"		"15"
 	}
-	"272237"
+	"** Seems like a Sigilyph is bloocking the way! We need to destroy him! **"
 	{
-		"enable"		"0"
-		"hammerid"		"272237"
-		"m_iname"		"RockBreakCave"
+		"chi"		"** **"
 	}
-	"272250"
+	"** Sigilyph is using Psychic Attack! **"
 	{
-		"enable"		"0"
-		"hammerid"		"272250"
-		"m_iname"		"RockBreakCave"
+		"chi"		"** **"
 	}
-	"235329"
+	"** Sigilyph is using Psychic Wave! **"
 	{
-		"enable"		"0"
-		"hammerid"		"235329"
-		"m_iname"		"ArcanineWallTrees"
+		"chi"		"** **"
 	}
-	"236276"
+	"** Teleport is powering up! **"
 	{
-		"enable"		"0"
-		"hammerid"		"236276"
-		"m_iname"		"SnorlaxWall"
+		"chi"		"**传送启动  **"
 	}
-	"160555"
+	"** 5 More seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"160555"
-		"m_iname"		"ZapdosCage"
+		"chi"		"** **"
 	}
-	"135445"
+	"** Zapdos is using Thunder Shock! **"
 	{
-		"enable"		"1"
-		"hammerid"		"135445"
-		"m_iname"		"PikachuBullets"
+		"chi"		"**闪电鸟使用雷电冲击！ **"
 	}
-	"126218"
+	"** Zapdos is using Thunder Bolt! **"
 	{
-		"enable"		"0"
-		"hammerid"		"126218"
-		"m_iname"		"SigilyphWall"
+		"chi"		"**闪电鸟使用雷电！！ **"
 	}
-	"104808"
+	"** Level 3: Victory Road **"
 	{
-		"enable"		"0"
-		"hammerid"		"104808"
-		"m_iname"		"LabFence"
+		"chi"		"**第三关：胜利之路 **"
 	}
-	"95318"
+	"** Wailord leaving in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"95318"
-		"m_iname"		"VoltorbBreakExplode"
+		"chi"		"**吼鲸王15秒后离开 **"
+		"DoorCountDown"		"15"
 	}
-	"89549"
+	"** A player has adquired Bicycle! **"
 	{
-		"enable"		"0"
-		"hammerid"		"89549"
-		"m_iname"		"StorageBlock"
+		"chi"		"**一位玩家拿起了自行车 **"
 	}
-	"71151"
+	"** A player has adquired Pokeball! **"
 	{
-		"enable"		"0"
-		"hammerid"		"71151"
-		"m_iname"		"CityPrison"
+		"chi"		"**一位玩家拿起了精灵球（火神器） **"
 	}
-	"63390"
+	"** Hold for 20 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"63390"
-		"m_iname"		"PokeCenterWall"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
-	"45339"
+	"** Zapdos is using Heal! **"
 	{
-		"enable"		"0"
-		"hammerid"		"45339"
-		"m_iname"		"BedroomDoor"
+		"chi"		"*闪电鸟使用恢复* **"
 	}
-	"577404"
+	"** Zapdos is using Thunder Wave! **"
 	{
-		"enable"		"0"
-		"hammerid"		"577404"
-		"m_iname"		"LevelPhysBox"
+		"chi"		"**闪电鸟使用雷电波！ **"
 	}
-	"577435"
+	"** Hold for 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"577435"
-		"m_iname"		"LevelPhysBox"
+		"chi"		"**守住15秒 **"
 	}
-	"577446"
+	"** Gate will open in 20 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"577446"
-		"m_iname"		"LevelPhysBox"
+		"chi"		"**门将在20秒后打开！ **"
+	}
+	"** Gate will fully oppen in 20 seconds! **"
+	{
+		"chi"		"**门20秒后完全打开 **"
+	}
+	"** Elite Door will open in 25 seconds!! **"
+	{
+		"chi"		"**精英才能进入的门25秒后打开 **"
+		"DoorCountDown"		"25"
+	}
+	"** Elite Door is open! You have 10 seconds to enter!! **"
+	{
+		"chi"		"**精英才能进入的门是开放的！你有10秒的时间进入！！ **"
+	}
+	"** Rival: So you are my rival! Do you think you can beat me? **"
+	{
+		"chi"		"**竞争对手：所以你就是我的对手！你认为你能打败我吗？ **"
+	}
+	"** Rival: Glaceon, Jolteon, Umbreon and Vaporeon lets show them what we are capable of! **"
+	{
+		"chi"		"**竞争对手：Glaceon、Jolteon、Umbreon和Vaporeon展示我们的能力！ **"
+	}
+	"** Glaceon used Blizzard! **"
+	{
+		"chi"		"**Glaceon使用暴雪! **"
+	}
+	"** Umbreon used Confuse Ray! **"
+	{
+		"chi"		"**Umbreon使用迷惑 **"
+	}
+	"** Jolteon used Thunder! **"
+	{
+		"chi"		"**Jolteon使用雷! **"
+	}
+	"** Ash is healing his Pokemons! **"
+	{
+		"chi"		"**Ash治愈了他的精灵 **"
+	}
+	"** Vaporean used surf! **"
+	{
+		"chi"		"**vaporean使用波浪！ **"
+	}
+	"** Rival: Noooooo! You have beat me again, I surrender! **"
+	{
+		"chi"		"**竞争对手：noooooo！你又打败了我，我投降了！ **"
+	}
+	"** ZOMBIE DETECTED IN FINAL ROOM! YOU LOST! **"
+	{
+		"chi"		"**最终房间检测到僵尸！你失败了！ **"
+	}
+	"** Zapdos is Using Zap Cannon! **"
+	{
+		"chi"		"**闪电鸟使用致命一击! **"
 	}
 }

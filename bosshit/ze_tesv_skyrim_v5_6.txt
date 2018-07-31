@@ -1,2325 +1,417 @@
-"BOSSHP"
+"Console_T"
 {
-	"dr_phbox"
+	">> WARMUP ROUND <<"
 	{
-		"enable"		"0"
-		"
+		"chi"		"**热身回合**"
 	}
-	"		"dr_phys"
-		"
+	"*** Map By P'a'ss and Kim ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**地图由P'a'ss和Kim制作**"
 	}
-	"		"doh_phbox"
-		"
+	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**mat_colorcorrection 1（色彩修正） 获得更好的视觉效果**"
 	}
-	"		"mg_phbox"
-		"
+	">>> After winning a round you will get 100 points which equals with 1 level  <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**每赢得一回合你会获得100分来提升一个等级**"
 	}
-	"		"archmage_phbox"
-		"
+	">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**一级皮肤需要100，二级皮肤需要200分，以此类推（另注明火大卫200分，冰大卫300分，风大卫400分）**"
 	}
-	"		"night_phbox"
-		"
+	">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**每局开始之后你会有一些时间去拿皮肤（不要在尸变前拿皮肤）**"
 	}
-	"		"giant_phbox"
-		"
+	">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**拿起皮肤之后，你可以用你的右键或者左键使用皮肤的特殊攻击**"
 	}
-	"		"finalboss_physic"
-		"
+	">>> Shooting the Zombie items in the head will push them back! <<<"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**射击僵尸皮肤的头部会击退他们**"
 	}
-	"		"dung_rocks"
-		"
+	">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**每个皮肤每局只有一个人类能使用**"
 	}
-	"		"st1_dragonphysbox"
-		"
+	">> Stage 1 Helgen <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**第一关：海尔根**"
 	}
-	"		"boss_2_break"
-		"
+	">> City gate closes in 50 seconds <<"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**海尔根堡垒的大门将在50s之后关闭**"
+		"DoorCountDown"		"50"
 	}
-	"		"arrow_phbox&4118"
-		"
+	">> Run for the helgen keep NOW! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**撤回到海尔根堡垒内！**"
 	}
-	"		"arrow_phbox&4212"
-		"
+	">> The dragon is fleeing! Run to the Helgen keep! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**奥杜因逃走了，撤回到海尔根堡垒内防守**"
 	}
-	"		"arrow_phbox&4215"
-		"
+	">> Defend until someone gets the key from the other room! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在这里防守，派一个人去房间里拿钥匙**"
 	}
-	"		"arrow_phbox&4228"
-		"
+	"*** We got the key! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**我们拿到钥匙了！**"
 	}
-	"		"ww_phbox&4232"
-		"
+	"*** Door should open soon! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门应该很快就会打开**"
 	}
-	"		"ww_phbox&4296"
-		"
+	"*** Door opens in 25 seconds! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将会在25s后打开**"
+		"DoorCountDown"		"25"
 	}
-	"		"arrow_phbox&4351"
-		"
+	"*** FALL BACK ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**撤退！！！！**"
 	}
-	"		"arrow_phbox&4355"
-		"
+	"*** Door opens in 30 seconds ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将会在30s之后打开**"
+		"DoorCountDown"		"30"
 	}
-	"		"arrow_phbox&4360"
-		"
+	">> Defend the bridge don't let the zombies on the other side! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在桥上且战且退，别让僵尸到另外一边**"
 	}
-	"		"arrow_phbox&4362"
-		"
+	">> Fall back Now!! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**马上撤回到桥的另一边！！！**"
 	}
-	"		"arrow_phbox&4366"
-		"
+	"*** Stage Completed ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"** **"
 	}
-	"		"arrow_phbox&4381"
-		"
+	">> Stage 2 Whiterun <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**Stage 2 雪漫城**"
 	}
-	"		"ww_phbox&4392"
-		"
+	">> City door opens in 35 seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**城市大门将会在35s后打开**"
+		"DoorCountDown"		"35"
 	}
-	"		"ww_phbox&4393"
-		"
+	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**我们需要告知雪漫城主关于龙的消息！**"
 	}
-	"		"ww_phbox&4493"
-		"
+	">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**我们需要守住平原区40s**"
+		"DoorCountDown"		"40"
 	}
-	"		"arrow_phbox&4526"
-		"
+	">> Fall Back Now! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**撤退！！**"
 	}
-	"		"arrow_phbox&4534"
-		"
+	">> Hold here for 30 seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在这里守住30s**"
+		"DoorCountDown"		"30"
 	}
-	"		"ww_phbox&4539"
-		"
+	">> Hold them back for 25 more seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在这守住25s，门很快就会打开**"
+		"DoorCountDown"		"25"
 	}
-	"		"ww_phbox&4544"
-		"
+	">> Run for the bridge of Dragons Reach!! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在龙到达之前跑到桥那边去！**"
 	}
-	"		"st3_torchphys"
-		"
+	">> Defend the bridge until door opens! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**守住桥直到大门打开**"
+		"DoorCountDown"		"30"
 	}
-	"		"st3_valve"
-		"
+	">> Dragon has been spotted outside Whiterun! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**奥杜因出现在雪漫城外**"
 	}
-	"		"lever_physbox"
-		"
+	">> Exit through the secret door! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**从侧门出去！**"
 	}
-	"		"troll_phbox&4548"
-		"
+	">> IT'S A DRAGON! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**傲娇因出现辣！！！！**"
 	}
-	"		"troll_phbox&4551"
-		"
+	">> SHOOT IT! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**用子弹射他一脸**"
 	}
-	"		"ww_phbox&4550"
-		"
+	">> The dragon is fleeing! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**奥杜因又飞走了**"
 	}
-	"		"ww_phbox&4555"
-		"
+	">> Run towards the tower now! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**跑向前面的塔！**"
 	}
-	"		"ww_phbox&4558"
-		"
+	">> Door Closes in 25 seconds <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将在25s后关闭**"
+		"DoorCountDown"		"25"
 	}
-	"		"ww_phbox&4559"
-		"
+	">> Keep Defending! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**保持防御**"
 	}
-	"		"arrow_phbox&4561"
-		"
+	">> Door Closes in 15 seconds <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将在15s后关闭**"
 	}
-	"		"ww_phbox&4635"
-		"
+	">> Door Closes in 5 seconds <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将在5s后关闭**"
 	}
-	"		"troll_phbox&4643"
-		"
+	">> Stage Completed! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"** **"
 	}
-	"		"arrow_phbox&4644"
-		"
+	">> Stage 3 Road To Dwemer Ruins <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**Stage 3 通往矮人废墟的道路**"
 	}
-	"		"ww_phbox&4646"
-		"
+	"*** Hold the cave for 30 seconds ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在洞穴前守住30s，门很快会打开**"
+		"DoorCountDown"		"30"
 	}
-	"		"arrow_phbox&4649"
-		"
+	"*** Hold the bridges for 30 seconds *** "
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**坚持30s！**"
+		"DoorCountDown"		"30"
 	}
-	"		"arrow_phbox&4652"
-		"
+	"*** There should be a switch for that door somewhere! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**这里应该有一个正确的开关打开门**"
 	}
-	"		"ww_phbox&4660"
-		"
+	"*** You have found the switch! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**正确的开关已经被按下**"
 	}
-	"		"ww_phbox&4661"
-		"
+	"*** Door will open in 25 seconds ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将会在25s后打开**"
+		"DoorCountDown"		"25"
 	}
-	"		"troll_phbox&4662"
-		"
+	"*** Seems like the lever is broken ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**这个拉杆看起来坏了**"
 	}
-	"		"ww_phbox&4686"
-		"
+	"*** Find a way to fix it! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**找到方法修复它（提示：旁边小路）**"
 	}
-	"		"troll_phbox&4689"
-		"
+	"*** Hold for 25 seconds ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在这守住25s**"
+		"DoorCountDown"		"25"
 	}
-	"		"ww_phbox&4713"
-		"
+	"*** Door will open in 30 seconds ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将会在30s之后打开**"
+		"DoorCountDown"		"30"
 	}
-	"		"troll_phbox&4816"
-		"
+	"*** Hold for 45 seconds OR find a way to make it open faster ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在这守住45s或找到一个方法快速开门（提示：找到火炬快速开门）**"
 	}
-	"		"dw_boss_break"
-		"
+	"*** Good job ***"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**干得好**"
 	}
-	"		"valve_rotate2"
-		"
+	"*** The doors will now open a bit faster! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将会提早25s打开**"
 	}
-	"		"dwboss_physbox"
-		"
+	"*** Lever has been pulled! ***"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**拉杆已经被拉下**"
 	}
-	"		"ww_phbox&5183"
-		"
+	"*** Hold for just 25 seconds more! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在这守住25s**"
+		"DoorCountDown"		"25"
 	}
-	"		"troll_phbox&5184"
-		"
+	"*** Stage completed! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"** **"
 	}
-	"		"ww_phbox&5185"
-		"
+	">> Stage 4 Dwemer ruins <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**Stage 4 矮人废墟**"
 	}
-	"		"troll_phbox&5186"
-		"
+	">>> Doors open in 25 seconds <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门将会在25s后打开**"
+		"DoorCountDown"		"25"
 	}
-	"		"ww_phbox&5193"
-		"
+	">> Door Opens in 45 seconds <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门会在45s后打开**"
+		"DoorCountDown"		"45"
 	}
-	"		"ww_phbox&5202"
-		"
+	">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**跳到矮人废墟的藏宝室中找到上古卷轴**"
 	}
-	"		"ww_phbox&5203"
-		"
+	">> Find a way to open the Door! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**想一个办法打开这个门**"
 	}
-	"		"arrow_phbox&5206"
-		"
+	">> Lever has been pressed! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**拉杆已经被拉下**"
 	}
-	"		"troll_phbox&5207"
-		"
+	">> Door Opens In 20 Seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**门会在20s后打开**"
+		"DoorCountDown"		"20"
 	}
-	"		"arrow_phbox&5214"
-		"
+	">> Elevator leaves in 30 seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**电梯将会在30s后离开**"
+		"DoorCountDown"		"30"
 	}
-	"		"ww_phbox&5215"
-		"
+	">> Elevator leaves in 10 seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**电梯将会在10s后离开**"
 	}
-	"		"troll_phbox&5216"
-		"
+	">> Elevator leaves in 5 seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**电梯将会在5s后离开**"
 	}
-	"		"arrow_phbox&5217"
-		"
+	">> Elevator is leaving! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**电梯开走了！！**"
 	}
-	"		"ww_phbox&5220"
-		"
+	">> Elevator leaves in 20 seconds! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**电梯将会在20s后离开**"
+		"DoorCountDown"		"20"
 	}
-	"		"ww_phbox&5221"
-		"
+	"*** THE ELDER SCROLL MADE IT TO THE END ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**上古卷轴保留到了最后**"
 	}
-	"		"ww_phbox&5227"
-		"
+	"*** YOU CAN NOW USE IT ON NEXT STAGE ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**你可以在下一关使用它**"
 	}
-	"		"smalldwboss_physbox"
-		"
+	">> Stage 5 Sovngarde <<"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**Stage 5 松加德殿堂**"
 	}
-	"		"smalldwboss_physbox2"
-		"
+	">> City door opens in 25 seconds! <<"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**城市大门将会在25s后打开**"
+		"DoorCountDown"		"25"
 	}
-	"		"arrow_phbox&5236"
-		"
+	">> HOLD THEM BACK! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**守住这里**"
 	}
-	"		"arrow_phbox&5240"
-		"
+	">> We need to get away from these dragons! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**我们需要摆脱那些该死的飞龙**"
 	}
-	"		"ww_phbox&5241"
-		"
+	">> Go through the house to the sewers! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**穿过这个房子的下水道**"
 	}
-	"		"arrow_phbox&5246"
-		"
+	">> Go through the balcony door! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**从阳台门穿过**"
 	}
-	"		"sovng_boss_break"
-		"
+	">> Kill the Dragonpriest! <<"
 	{
-		"		"enable"
-		"		"		"1"
-		"
+		"chi"		"**快解决这个龙祭祀**"
 	}
-	"		"phbox"
-		"
+	">> We killed the Dragonpriest! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**我们已经解决了龙祭祀**"
 	}
-	"		"troll_phbox&5375"
-		"
+	">> Hold the zombies back until the teleporter activates! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在传送门打开之前守住这些僵尸**"
 	}
-	"		"ww_phbox&5382"
-		"
+	">> The teleporter is working JUMP INTO IT!  <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**传送门已经生效了，快跳入井里**"
 	}
-	"		"troll_phbox&5394"
-		"
+	">> USE THE ELDER SCROLL NOW <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**现在使用上古卷轴！！！！！**"
 	}
-	"		"arrow_phbox&5426"
-		"
+	">>> KILL THE REMAINING ZOMBIES <<<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**杀掉所有进门的僵尸**"
 	}
-	"		"arrow_phbox&5428"
-		"
+	">> Kill The Remaining Zombie! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**杀掉所有进门的僵尸**"
 	}
-	"		"ww_phbox&5434"
-		"
+	"*** Kill the remaining zombies! ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**杀掉所有进门的僵尸**"
 	}
-	"		"ww_phbox&5435"
-		"
+	"*** Map By Pass and Kim ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**地图由Pass和Kim制作**"
 	}
-	"		"troll_phbox&5486"
-		"
+	">> You Have Defeated Alduin <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**你击败了奥杜因**"
 	}
-	"		"troll_phbox&5507"
-		"
+	">> Run for the Mead Hall <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**快跑到米德大厅**"
 	}
-	"		"arrow_phbox&5557"
-		"
+	">> Kill the remaining Zombies! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**杀掉所有进门的僵尸**"
 	}
-	"		"arrow_phbox&5559"
-		"
+	">> Defend the bridge dont let the zombies on the other side! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**在桥上且战且退，别让僵尸到另外一边**"
 	}
-	"		"arrow_phbox&5566"
-		"
+	">> ITS A DRAGON! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**那是龙！**"
 	}
-	"		"ww_phbox&5568"
-		"
+	"*** Hold the bridges for 30 seconds ***"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**守住大桥30秒**"
+		"DoorCountDown"		"30"
 	}
-	"		"ww_phbox&5569"
-		"
+	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**你成功征服了这个地图，恭喜！**"
 	}
-	"		"ww_phbox&5570"
-		"
+	"** MAP BY PASS AND KIM !!! **"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**地图由Pass和Kim制作**"
 	}
-	"		"arrow_phbox&5602"
-		"
+	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"**奥杜因准备杀掉我们了！！！**"
 	}
-	"		"troll_phbox&5653"
-		"
+	">> Admin Pressed Kill All button! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
+		"chi"		"** **"
 	}
-	"		"troll_phbox&5637"
-		"
+	">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
 	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5693"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5695"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5699"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5700"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5702"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5709"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5711"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5720"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5721"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5733"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5735"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5740"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&5800"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&5802"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5833"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5865"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5875"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5877"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5881"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5885"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&5889"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5890"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5895"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5902"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&5983"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6025"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6039"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6043"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6042"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6044"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6041"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6049"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6057"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6062"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6067"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6082"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6087"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6099"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6153"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6155"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6209"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6215"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6231"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6235"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6238"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6241"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6254"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6258"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6334"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6336"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6382"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6389"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6398"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6399"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6401"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6403"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6405"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6406"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6470"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6525"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6542"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6541"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6546"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6613"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"troll_phbox&6625"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6631"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6634"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6641"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6665"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6677"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6679"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6681"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"arrow_phbox&6709"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6710"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-		"
-	}
-	"		"ww_phbox&6712"
-		"
-	{
-		"		"enable"
-		"		"		"0"
-	}
-	"dr_phys"
-	{
-		"enable"		"0"
-	}
-	"doh_phbox"
-	{
-		"enable"		"0"
-	}
-	"mg_phbox"
-	{
-		"enable"		"0"
-	}
-	"archmage_phbox"
-	{
-		"enable"		"0"
-	}
-	"night_phbox"
-	{
-		"enable"		"0"
-	}
-	"giant_phbox"
-	{
-		"enable"		"0"
-	}
-	"finalboss_physic"
-	{
-		"enable"		"0"
-	}
-	"breakable_boss_door"
-	{
-		"enable"		"0"
-	}
-	"dung_rocks"
-	{
-		"enable"		"0"
-	}
-	"st1_dragonphysbox"
-	{
-		"enable"		"0"
-	}
-	"brush_boss"
-	{
-		"enable"		"0"
-	}
-	"boss_2_break"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1546"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&1601"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1798"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&1839"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1851"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&1853"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&1858"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&1861"
-	{
-		"enable"		"0"
-	}
-	"st3_torchphys"
-	{
-		"enable"		"0"
-	}
-	"st3_valve"
-	{
-		"enable"		"0"
-	}
-	"lever_physbox"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1866"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&1865"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1867"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&1872"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1876"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1877"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1881"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&1887"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&2015"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&2017"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&2023"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&2026"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&2472"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&2484"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&2485"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&2487"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&2910"
-	{
-		"enable"		"0"
-	}
-	"dw_boss_break"
-	{
-		"enable"		"1"
-	}
-	"valve_rotate2"
-	{
-		"enable"		"0"
-	}
-	"dwboss_physbox"
-	{
-		"enable"		"1"
-	}
-	"troll_phbox&3000"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&2999"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3001"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3002"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3003"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3009"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3010"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3011"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3014"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3019"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3020"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3021"
-	{
-		"enable"		"0"
-	}
-	"smalldwboss_physbox"
-	{
-		"enable"		"1"
-	}
-	"smalldwboss_physbox2"
-	{
-		"enable"		"1"
-	}
-	"ww_phbox&3024"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3042"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3043"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3045"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3044"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3050"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3057"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3056"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3058"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3065"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3070"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3071"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3072"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3076"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3078"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3081"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3085"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3092"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3091"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3095"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3094"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3102"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3110"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3109"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3115"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3124"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3128"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3134"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3154"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3165"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3172"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3180"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3185"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3193"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3198"
-	{
-		"enable"		"0"
-	}
-	"sovng_boss_break"
-	{
-		"enable"		"1"
-	}
-	"phbox"
-	{
-		"enable"		"0"
-	}
-	"sovng_boss_break2"
-	{
-		"enable"		"1"
-	}
-	"ww_phbox&3306"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3337"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3339"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3343"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3373"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3374"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3375"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3376"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3378"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3379"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3472"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3498"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3499"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3500"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3501"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3565"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3597"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3590"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3620"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3622"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3623"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3624"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3625"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3626"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3627"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3701"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3746"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3748"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3747"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3749"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3826"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3810"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3867"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3869"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3870"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3871"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3872"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3874"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3875"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&3877"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3953"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&3969"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3983"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3997"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&3999"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4000"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4001"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4002"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4004"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&4005"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4007"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4083"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4089"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4130"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4205"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4240"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4252"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4253"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4254"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4317"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4321"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4338"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4371"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4374"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4376"
-	{
-		"enable"		"0"
-	}
-	"arrow_phbox&4378"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4379"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4456"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4476"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4500"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4501"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4507"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4591"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4597"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4629"
-	{
-		"enable"		"0"
-	}
-	"troll_phbox&4631"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4630"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4633"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4634"
-	{
-		"enable"		"0"
-	}
-	"ww_phbox&4635"
-	{
-		"enable"		"0"
-	}
-	"7915"
-	{
-		"enable"		"0"
-		"hammerid"		"7915"
-		"m_iname"		"arrow_phbox&8016"
-	}
-	"1551426"
-	{
-		"enable"		"0"
-		"hammerid"		"1551426"
-		"m_iname"		"ww_phbox&8048"
-	}
-	"1551429"
-	{
-		"enable"		"0"
-		"hammerid"		"1551429"
-		"m_iname"		"ww_phbox&8048"
-	}
-	"1551432"
-	{
-		"enable"		"0"
-		"hammerid"		"1551432"
-		"m_iname"		"ww_phbox&8048"
-	}
-	"1551435"
-	{
-		"enable"		"0"
-		"hammerid"		"1551435"
-		"m_iname"		"ww_phbox&8048"
-	}
-	"1551438"
-	{
-		"enable"		"0"
-		"hammerid"		"1551438"
-		"m_iname"		"ww_phbox&8048"
-	}
-	"1551335"
-	{
-		"enable"		"0"
-		"hammerid"		"1551335"
-		"m_iname"		"troll_phbox&8012"
-	}
-	"1551360"
-	{
-		"enable"		"0"
-		"hammerid"		"1551360"
-		"m_iname"		"troll_phbox&8012"
-	}
-	"1551363"
-	{
-		"enable"		"0"
-		"hammerid"		"1551363"
-		"m_iname"		"troll_phbox&8012"
-	}
-	"1551366"
-	{
-		"enable"		"0"
-		"hammerid"		"1551366"
-		"m_iname"		"troll_phbox&8012"
-	}
-	"1551369"
-	{
-		"enable"		"0"
-		"hammerid"		"1551369"
-		"m_iname"		"troll_phbox&8012"
-	}
-	"2742532"
-	{
-		"enable"		"0"
-		"hammerid"		"2742532"
-		"m_iname"		"dr_phbox"
-	}
-	"6146"
-	{
-		"enable"		"0"
-		"hammerid"		"6146"
-		"m_iname"		"dr_phys"
-	}
-	"6168"
-	{
-		"enable"		"0"
-		"hammerid"		"6168"
-		"m_iname"		"doh_phbox"
-	}
-	"6187"
-	{
-		"enable"		"0"
-		"hammerid"		"6187"
-		"m_iname"		"mg_phbox"
-	}
-	"6278"
-	{
-		"enable"		"0"
-		"hammerid"		"6278"
-		"m_iname"		"archmage_phbox"
-	}
-	"7924"
-	{
-		"enable"		"0"
-		"hammerid"		"7924"
-		"m_iname"		"night_phbox"
-	}
-	"1551332"
-	{
-		"enable"		"0"
-		"hammerid"		"1551332"
-		"m_iname"		"giant_phbox"
-	}
-	"1551441"
-	{
-		"enable"		"0"
-		"hammerid"		"1551441"
-		"m_iname"		"giant_phbox"
-	}
-	"1551444"
-	{
-		"enable"		"0"
-		"hammerid"		"1551444"
-		"m_iname"		"giant_phbox"
-	}
-	"1551447"
-	{
-		"enable"		"0"
-		"hammerid"		"1551447"
-		"m_iname"		"giant_phbox"
-	}
-	"1551450"
-	{
-		"enable"		"0"
-		"hammerid"		"1551450"
-		"m_iname"		"giant_phbox"
-	}
-	"2095613"
-	{
-		"enable"		"1"
-		"hammerid"		"2095613"
-		"m_iname"		"finalboss_physic"
-	}
-	"5866"
-	{
-		"enable"		"1"
-		"hammerid"		"5866"
-		"m_iname"		"breakable_boss_door"
-	}
-	"945343"
-	{
-		"enable"		"0"
-		"hammerid"		"945343"
-		"m_iname"		"dung_rocks"
-	}
-	"945357"
-	{
-		"enable"		"0"
-		"hammerid"		"945357"
-		"m_iname"		"dung_rocks"
-	}
-	"945368"
-	{
-		"enable"		"0"
-		"hammerid"		"945368"
-		"m_iname"		"dung_rocks"
-	}
-	"945379"
-	{
-		"enable"		"0"
-		"hammerid"		"945379"
-		"m_iname"		"dung_rocks"
-	}
-	"2096387"
-	{
-		"enable"		"0"
-		"hammerid"		"2096387"
-		"m_iname"		"st1_dragonphysbox"
-	}
-	"5308"
-	{
-		"enable"		"1"
-		"hammerid"		"5308"
-		"m_iname"		"brush_boss"
-	}
-	"6375"
-	{
-		"enable"		"1"
-		"hammerid"		"6375"
-		"m_iname"		"boss_2_break"
-	}
-	"1766905"
-	{
-		"enable"		"0"
-		"hammerid"		"1766905"
-		"m_iname"		"st3_torchphys"
-	}
-	"1768055"
-	{
-		"enable"		"0"
-		"hammerid"		"1768055"
-		"m_iname"		"st3_valve"
-	}
-	"1768300"
-	{
-		"enable"		"0"
-		"hammerid"		"1768300"
-		"m_iname"		"lever_physbox"
-	}
-	"6510"
-	{
-		"enable"		"1"
-		"hammerid"		"6510"
-		"m_iname"		"dw_boss_break"
-	}
-	"7002"
-	{
-		"enable"		"0"
-		"hammerid"		"7002"
-		"m_iname"		"valve_rotate2"
-	}
-	"258078"
-	{
-		"enable"		"1"
-		"hammerid"		"258078"
-		"m_iname"		"dwboss_physbox"
-	}
-	"258586"
-	{
-		"enable"		"1"
-		"hammerid"		"258586"
-		"m_iname"		"smalldwboss_physbox"
-	}
-	"258583"
-	{
-		"enable"		"1"
-		"hammerid"		"258583"
-		"m_iname"		"smalldwboss_physbox2"
-	}
-	"5101"
-	{
-		"enable"		"1"
-		"hammerid"		"5101"
-		"m_iname"		"sovng_boss_break"
-	}
-	"5888"
-	{
-		"enable"		"0"
-		"hammerid"		"5888"
-		"m_iname"		"phbox"
-	}
-	"7331"
-	{
-		"enable"		"1"
-		"hammerid"		"7331"
-		"m_iname"		"sovng_boss_break2"
-	}
-	"2558136"
-	{
-		"enable"		"0"
-		"hammerid"		"2558136"
-		"m_iname"		"stage1_break"
-	}
-	"580375"
-	{
-		"enable"		"0"
-		"hammerid"		"580375"
-		"m_iname"		"wr_brk_8"
-	}
-	"581902"
-	{
-		"enable"		"0"
-		"hammerid"		"581902"
-		"m_iname"		"wr_brk_9"
-	}
-	"611964"
-	{
-		"enable"		"0"
-		"hammerid"		"611964"
-		"m_iname"		"breakable_zombie_hold1"
-	}
-	"831731"
-	{
-		"enable"		"0"
-		"hammerid"		"831731"
-		"m_iname"		"dung_break2"
-	}
-	"832176"
-	{
-		"enable"		"0"
-		"hammerid"		"832176"
-		"m_iname"		"dung_break3"
-	}
-	"917291"
-	{
-		"enable"		"0"
-		"hammerid"		"917291"
-		"m_iname"		"dung_break"
-	}
-	"924918"
-	{
-		"enable"		"0"
-		"hammerid"		"924918"
-		"m_iname"		"draw_br"
-	}
-	"925365"
-	{
-		"enable"		"0"
-		"hammerid"		"925365"
-		"m_iname"		"dung_break4"
-	}
-	"2993916"
-	{
-		"enable"		"0"
-		"hammerid"		"2993916"
-		"m_iname"		"wr_brk7"
-	}
-	"5333"
-	{
-		"enable"		"0"
-		"hammerid"		"5333"
-		"m_iname"		"dreach_break2"
-	}
-	"5399"
-	{
-		"enable"		"0"
-		"hammerid"		"5399"
-		"m_iname"		"wr_brk_5"
-	}
-	"5416"
-	{
-		"enable"		"0"
-		"hammerid"		"5416"
-		"m_iname"		"wr_sovng_t_break"
-	}
-	"5561"
-	{
-		"enable"		"0"
-		"hammerid"		"5561"
-		"m_iname"		"uusbreak"
-	}
-	"5563"
-	{
-		"enable"		"0"
-		"hammerid"		"5563"
-		"m_iname"		"uusbreak2"
-	}
-	"6851"
-	{
-		"enable"		"0"
-		"hammerid"		"6851"
-		"m_iname"		"boost"
-	}
-	"6898"
-	{
-		"enable"		"0"
-		"hammerid"		"6898"
-		"m_iname"		"wr_shortcut_tog2"
-	}
-	"7575"
-	{
-		"enable"		"0"
-		"hammerid"		"7575"
-		"m_iname"		"wr_brkdown"
-	}
-	"7577"
-	{
-		"enable"		"0"
-		"hammerid"		"7577"
-		"m_iname"		"stage_5_break2"
-	}
-	"7825"
-	{
-		"enable"		"0"
-		"hammerid"		"7825"
-		"m_iname"		"b_brk"
-	}
-	"5267"
-	{
-		"enable"		"0"
-		"hammerid"		"5267"
-		"m_iname"		"wr_brk_2"
-	}
-	"1768892"
-	{
-		"enable"		"0"
-		"hammerid"		"1768892"
-		"m_iname"		"st3_breakable"
-	}
-	"7033"
-	{
-		"enable"		"0"
-		"hammerid"		"7033"
-		"m_iname"		"stage_4_trap2"
-	}
-	"7271"
-	{
-		"enable"		"0"
-		"hammerid"		"7271"
-		"m_iname"		"dw_movebreak"
-	}
-	"6357"
-	{
-		"enable"		"0"
-		"hammerid"		"6357"
-		"m_iname"		"end_break"
-	}
-	"7800"
-	{
-		"enable"		"0"
-		"hammerid"		"7800"
-		"m_iname"		"wr_sewer_brk"
-	}
-	"324710"
-	{
-		"enable"		"0"
-		"hammerid"		"324710"
-		"m_iname"		"wr_brk_3"
+		"chi"		"** **"
 	}
 }

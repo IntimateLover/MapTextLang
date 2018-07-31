@@ -1,45 +1,96 @@
-"BOSSHP"
+"Console_T"
 {
-	"57884"
+	"[MAP INFO] The gate will open in 20 seconds! *****"
 	{
-		"enable"		"0"
-		"hammerid"		"57884"
-		"m_iname"		"break_metal_gate"
+		"chi"		"**20秒后开门**"
 	}
-	"46963"
+	"[MAP INFO] *** The gate has opened, move on! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"46963"
-		"m_iname"		"Break_Spawn_Block"
+		"chi"		"**溜了,门开了**"
 	}
-	"43820"
+	"[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"43820"
-		"m_iname"		"metal_wall_passage"
+		"chi"		"**坚守25秒直到平台碎裂**"
 	}
-	"40944"
+	"[MAP INFO] *** Get in the hole! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"40944"
-		"m_iname"		"Break_Passage"
+		"chi"		"**跳入洞穴**"
 	}
-	"35434"
+	"[MAP INFO] The gate is slowly opening, hold this area! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"35434"
-		"m_iname"		"Break_zom_cage"
+		"chi"		"**坚守!门开得很慢!**"
+		"DoorCountDown"		"40"
 	}
-	"16741"
+	"[MAP INFO] *** Hold here for 25 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"16741"
-		"m_iname"		"Break_Room_Platform_1"
+		"chi"		"**坚守25秒**"
 	}
-	"879"
+	"[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"879"
-		"m_iname"		"Break_First_Gate"
+		"chi"		"**C4已经触发，坚守30秒**"
+		"DoorCountDown"		"30"
+	}
+	"[MAP INFO] ** The metal wall will break down in 20 seconds! ***"
+	{
+		"chi"		"**20秒后门碎**"
+	}
+	"[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***"
+	{
+		"chi"		"**坚守直到大门打开,必须有人按下开关**"
+	}
+	"[MAP INFO] *** Button has been pressed, hold area until gate opens! ***"
+	{
+		"chi"		"**按钮被按下,等待大门打开**"
+	}
+	"[MAP INFO] *** This map has been created by FuTuRe ***"
+	{
+		"chi"		"** **"
+	}
+	"[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***"
+	{
+		"chi"		"** **"
+	}
+	"[MAP INFO] *** Gate has opened up, move move move! ***"
+	{
+		"chi"		"**门开了,溜溜溜**"
+	}
+	"[MAP INFO] *** Keep this area until we get sent to the next world! ***"
+	{
+		"chi"		"**防守直到我们被传送**"
+	}
+	"[MAP INFO] *** Zombies get sent to the new world in 10 seconds!***"
+	{
+		"chi"		"**10秒后僵尸传送**"
+	}
+	"[MAP INFO] *** Zombies get sent to the new world in 5 seconds!***"
+	{
+		"chi"		"**5秒后僵尸传送**"
+	}
+	"*** HUMANS MUST KILL ZOMBIES WITHIN 60 SECS OR KNIFE IT OUT! ***"
+	{
+		"chi"		"**60秒内杀死所有僵尸**"
+	}
+	"*** HUMANS MUST KILL ZOMBIES WITHIN 30 SECS OR KNIFE IT OUT! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS MUST KILL ZOMBIES WITHIN 15 SECS OR KNIFE IT OUT! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS MUST KILL ZOMBIES WITHIN 5 SECS OR KNIFE IT OUT! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS HAVE BEEN WARNED, KNIFE ONLY MODE HAS BEEN ENABLED, GOODLUCK! ***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
 	}
 }

@@ -1,57 +1,59 @@
-"BOSSHP"
+"Console_T"
 {
-	"10425"
+	"**First doors will open in 10 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10425"
-		"m_iname"		"brug1"
+		"chi"		"**10秒钟后开门**"
 	}
-	"10491"
+	"**First doors will open in 3 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10491"
-		"m_iname"		"brug2"
+		"chi"		"**3秒钟后开门**"
 	}
-	"10465"
+	"**Second door will open in 15 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10465"
-		"m_iname"		"breekbaar1"
+		"chi"		"**第二道门15秒后开门**"
 	}
-	"10475"
+	"**Door 3 will open in 10 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10475"
-		"m_iname"		"breekbaar2"
+		"chi"		"**3号门10秒后开门**"
 	}
-	"10527"
+	"**AFK-players have been killed**"
 	{
-		"enable"		"0"
-		"hammerid"		"10527"
-		"m_iname"		"breekbaar3"
+		"chi"		"** **"
 	}
-	"10541"
+	"**Door 4 will open in 20 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10541"
-		"m_iname"		"breekbaar4"
+		"chi"		"**4号门20秒后开门**"
 	}
-	"10657"
+	"**Door 5 will open in 10 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10657"
-		"m_iname"		"laag1_1"
+		"chi"		"**5号门10秒后开门**"
 	}
-	"10665"
+	"**Final door will open in 10 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10665"
-		"m_iname"		"laag2_1"
+		"chi"		"**最后车门10秒后开门**"
 	}
-	"10673"
+	"**Emergency sequence activated. Death will come in 60 sec.**"
 	{
-		"enable"		"0"
-		"hammerid"		"10673"
-		"m_iname"		"laag3_1"
+		"chi"		"**紧急情况!60秒后核爆!**"
+	}
+	"**Death will come in 45 sec.**"
+	{
+		"chi"		"**45秒后核爆！**"
+	}
+	"**Death will come in 30 sec.**"
+	{
+		"chi"		"**30秒后核爆！**"
+	}
+	"**Death will come in 20 sec.**"
+	{
+		"chi"		"**20秒后核爆！**"
+	}
+	"**Death will come in 10 sec.**"
+	{
+		"chi"		"**10秒后核爆！**"
+	}
+	"**Death will come in 5 sec.**"
+	{
+		"chi"		"**5秒后核爆！**"
 	}
 }

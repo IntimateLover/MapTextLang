@@ -1,345 +1,61 @@
-"BOSSHP"
+"Console_T"
 {
-	"65596"
+	"*** NUCLEAR CORE UNSTABLE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"65596"
-		"m_iname"		"bridge"
+		"chi"		"** 四路泰坦核心不稳定 **"
 	}
-	"17172"
+	"***SHOOT THE BUTTON***"
 	{
-		"enable"		"0"
-		"hammerid"		"17172"
-		"m_iname"		"anticampwall01"
+		"chi"		"** 按下右侧玻璃内按钮能让水升高 **"
 	}
-	"17180"
+	"*** WATER CART LEAVING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"17180"
-		"m_iname"		"sidewall02"
+		"chi"		"** 电车之狼号 将于 5秒后 开启 **"
+		"DoorCountDown"		"5"
 	}
-	"17183"
+	"***** HOLD THIS POSITION *****"
 	{
-		"enable"		"0"
-		"hammerid"		"17183"
-		"m_iname"		"sidewall01"
+		"chi"		"** 请坚守到电梯门开启 **"
 	}
-	"1850"
+	"*** ELEVATOR 1 & 2 OPENING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1850"
-		"m_iname"		"water_window_1"
+		"chi"		"** 1 & 2 号 电梯 已开起 丢雷后撤 **"
 	}
-	"1852"
+	"*** RESCUE ZONE - RED SMOKE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1852"
-		"m_iname"		"water_window_2"
+		"chi"		"** 速到 红烟处的救援区 **"
 	}
-	"1922"
+	"*** USE RADIO ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1922"
-		"m_iname"		"crate_break"
+		"chi"		"** 按下红星引（无）爆（线）器（电） **"
 	}
-	"1924"
+	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1924"
-		"m_iname"		"crate_break"
+		"chi"		"** 四路泰坦爆炸程序将于 60秒 后自毁 **"
+		"DoorCountDown"		"60"
 	}
-	"1926"
+	"*** MAP BY JB_GAMBLE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1926"
-		"m_iname"		"crate_break"
+		"chi"		"** 地图作者：JB_GAMBLE 丧病翻译：肉丸 **"
 	}
-	"2069"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"2069"
-		"m_iname"		"second_lift_1_ladder_wall"
+		"syncvalue"		"29244"
 	}
-	"2072"
+	"*** HOLD HERE! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2072"
-		"m_iname"		"second_lift_2_ladder_wall"
+		"chi"		"**守住这里**"
 	}
-	"2193"
+	"*** 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2193"
-		"m_iname"		"ele_9_ladder_wall"
+		"chi"		"**5秒剩余**"
 	}
-	"2195"
+	"*** FALL BACK ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2195"
-		"m_iname"		"ele_8_ladder_wall"
+		"chi"		"**撤退！！！**"
 	}
-	"2629"
+	"*** MAP CRASH FIXED BY 5UNZ ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2629"
-		"m_iname"		"part_2"
-	}
-	"2631"
-	{
-		"enable"		"0"
-		"hammerid"		"2631"
-		"m_iname"		"part_3"
-	}
-	"2633"
-	{
-		"enable"		"0"
-		"hammerid"		"2633"
-		"m_iname"		"part_4"
-	}
-	"2635"
-	{
-		"enable"		"0"
-		"hammerid"		"2635"
-		"m_iname"		"part_1"
-	}
-	"2916"
-	{
-		"enable"		"0"
-		"hammerid"		"2916"
-		"m_iname"		"left_elevator_boxs"
-	}
-	"2919"
-	{
-		"enable"		"0"
-		"hammerid"		"2919"
-		"m_iname"		"right_elevator_boxs"
-	}
-	"2922"
-	{
-		"enable"		"0"
-		"hammerid"		"2922"
-		"m_iname"		"miss_elevator_boxs"
-	}
-	"2924"
-	{
-		"enable"		"0"
-		"hammerid"		"2924"
-		"m_iname"		"miss_elevator_box_2"
-	}
-	"2926"
-	{
-		"enable"		"0"
-		"hammerid"		"2926"
-		"m_iname"		"miss_elevator_box_3"
-	}
-	"3011"
-	{
-		"enable"		"0"
-		"hammerid"		"3011"
-		"m_iname"		"sidewall02"
-	}
-	"3013"
-	{
-		"enable"		"0"
-		"hammerid"		"3013"
-		"m_iname"		"sidewall01"
-	}
-	"3015"
-	{
-		"enable"		"0"
-		"hammerid"		"3015"
-		"m_iname"		"anticampwall01"
-	}
-	"3043"
-	{
-		"enable"		"0"
-		"hammerid"		"3043"
-		"m_iname"		"pit_run_1"
-	}
-	"3052"
-	{
-		"enable"		"0"
-		"hammerid"		"3052"
-		"m_iname"		"pit_run_2"
-	}
-	"8139"
-	{
-		"enable"		"0"
-		"hammerid"		"8139"
-		"m_iname"		"sidewall03"
-	}
-	"8141"
-	{
-		"enable"		"0"
-		"hammerid"		"8141"
-		"m_iname"		"sidewall04"
-	}
-	"8242"
-	{
-		"enable"		"0"
-		"hammerid"		"8242"
-		"m_iname"		"crate_break"
-	}
-	"8244"
-	{
-		"enable"		"0"
-		"hammerid"		"8244"
-		"m_iname"		"crate_break"
-	}
-	"8246"
-	{
-		"enable"		"0"
-		"hammerid"		"8246"
-		"m_iname"		"crate_break"
-	}
-	"8514"
-	{
-		"enable"		"0"
-		"hammerid"		"8514"
-		"m_iname"		"second_lift_1_ladder_wall"
-	}
-	"8517"
-	{
-		"enable"		"0"
-		"hammerid"		"8517"
-		"m_iname"		"second_lift_2_ladder_wall"
-	}
-	"8693"
-	{
-		"enable"		"0"
-		"hammerid"		"8693"
-		"m_iname"		"ele_9_ladder_wall"
-	}
-	"8695"
-	{
-		"enable"		"0"
-		"hammerid"		"8695"
-		"m_iname"		"ele_8_ladder_wall"
-	}
-	"9526"
-	{
-		"enable"		"0"
-		"hammerid"		"9526"
-		"m_iname"		"anticampwall02"
-	}
-	"56364"
-	{
-		"enable"		"0"
-		"hammerid"		"56364"
-		"m_iname"		"part_2"
-	}
-	"56534"
-	{
-		"enable"		"0"
-		"hammerid"		"56534"
-		"m_iname"		"part_3"
-	}
-	"56559"
-	{
-		"enable"		"0"
-		"hammerid"		"56559"
-		"m_iname"		"part_4"
-	}
-	"56595"
-	{
-		"enable"		"0"
-		"hammerid"		"56595"
-		"m_iname"		"part_1"
-	}
-	"99042"
-	{
-		"enable"		"0"
-		"hammerid"		"99042"
-		"m_iname"		"left_elevator_boxs"
-	}
-	"99065"
-	{
-		"enable"		"0"
-		"hammerid"		"99065"
-		"m_iname"		"right_elevator_boxs"
-	}
-	"99406"
-	{
-		"enable"		"0"
-		"hammerid"		"99406"
-		"m_iname"		"EndBreak2"
-	}
-	"99436"
-	{
-		"enable"		"0"
-		"hammerid"		"99436"
-		"m_iname"		"EndBreak1"
-	}
-	"8151"
-	{
-		"enable"		"0"
-		"hammerid"		"8151"
-		"m_iname"		"sidewall02"
-	}
-	"8153"
-	{
-		"enable"		"0"
-		"hammerid"		"8153"
-		"m_iname"		"sidewall01"
-	}
-	"9522"
-	{
-		"enable"		"0"
-		"hammerid"		"9522"
-		"m_iname"		"anticampwall01"
-	}
-	"132843"
-	{
-		"enable"		"0"
-		"hammerid"		"132843"
-		"m_iname"		"pit_run_1"
-	}
-	"132966"
-	{
-		"enable"		"0"
-		"hammerid"		"132966"
-		"m_iname"		"pit_run_2"
-	}
-	"138561"
-	{
-		"enable"		"0"
-		"hammerid"		"138561"
-		"m_iname"		"ele_3_ladder_cage"
-	}
-	"142958"
-	{
-		"enable"		"0"
-		"hammerid"		"142958"
-		"m_iname"		"ele_2_ladder_cage"
-	}
-	"142966"
-	{
-		"enable"		"0"
-		"hammerid"		"142966"
-		"m_iname"		"ele_1_ladder_cage"
-	}
-	"142998"
-	{
-		"enable"		"0"
-		"hammerid"		"142998"
-		"m_iname"		"ele_5_ladder_cage"
-	}
-	"143010"
-	{
-		"enable"		"0"
-		"hammerid"		"143010"
-		"m_iname"		"ele_4_ladder_cage"
-	}
-	"166690"
-	{
-		"enable"		"0"
-		"hammerid"		"166690"
-		"m_iname"		"r_boards"
-	}
-	"166734"
-	{
-		"enable"		"0"
-		"hammerid"		"166734"
-		"m_iname"		"r_boards_break"
+		"chi"		"** **"
 	}
 }

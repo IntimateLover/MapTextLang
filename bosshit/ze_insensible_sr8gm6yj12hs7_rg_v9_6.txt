@@ -1,891 +1,983 @@
-"BOSSHP"
+"Console_T"
 {
-	"438362"
+	"<== Map made by qazlll456 [Hong Kong]==>"
 	{
-		"enable"		"0"
-		"hammerid"		"438362"
-		"m_iname"		"item_yellowbtnmodel4"
+		"chi"		"**地图制作：qazlll456 [Hong Kong] **"
 	}
-	"438743"
+	"<== Also Thank [Syoudous] for helping testing the map ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"438743"
-		"m_iname"		"item1_yellowspeedmodel1"
+		"chi"		"**感谢： [Syoudous] 帮助测试地图 **"
 	}
-	"439017"
+	"<== Get up the top and active the teleport ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"439017"
-		"m_iname"		"item_yellow_pushmodel3"
+		"chi"		"**爬上去，启动传送 **"
 	}
-	"439023"
+	"<== Human protection in 3 second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"439023"
-		"m_iname"		"item_yellow_pushmodel2"
+		"chi"		"**启动人类保护（3秒） **"
 	}
-	"439029"
+	"<== Box will broke in 30second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"439029"
-		"m_iname"		"item_yellow_pushmodel1"
+		"chi"		"**箱子30秒后破碎 **"
 	}
-	"439038"
+	"<== Box will broke in 15second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"439038"
-		"m_iname"		"item_yellowbtnmodel3"
+		"chi"		"**箱子15秒后破碎 **"
 	}
-	"435535"
+	"<== Box will broke in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"435535"
-		"m_iname"		"coverstarttower"
+		"chi"		"**箱子5秒后破碎 **"
 	}
-	"414365"
+	"<== Information you need to know: ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"414365"
-		"m_iname"		"RedSignalsNight"
+		"chi"		"**你需要知道的信息: **"
 	}
-	"414369"
+	"<== Remember touch the door to open it ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"414369"
-		"m_iname"		"YellowSignalsNight"
+		"chi"		"**记得贴到门打开它 **"
 	}
-	"414373"
+	"<== If you teleport in black area, Run to red area ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"414373"
-		"m_iname"		"GreenSignalsNight"
+		"chi"		"**如果你在黑色区域传送，请跑到红色区域 **"
 	}
-	"411656"
+	"<== The rainbow subway are line like : ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"411656"
-		"m_iname"		"item1_yellowmodel3"
+		"chi"		"**彩虹地铁线路如下: **"
 	}
-	"405152"
+	"<== Black > Red > Orange > Yellow > Green > Teal > Blue > Purple > white ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405152"
-		"m_iname"		"item1_yellowbtnmodel3green"
+		"chi"		"**黑色>红色>橙色>黄色>绿色>青色>蓝色>紫色>白色 **"
 	}
-	"405155"
+	"<== There is 9 area in there, your target is white==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405155"
-		"m_iname"		"item1_yellowbtnmodel3"
+		"chi"		"**那里有9个区域，你的目标是去到白色区域 **"
 	}
-	"405166"
+	"<==orange area door will open in 15second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405166"
-		"m_iname"		"item1_yellowbtnmodel2"
+		"chi"		"**15秒后橙色区域的门会打开 **"
 	}
-	"405169"
+	"<== Area clear in 3 second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405169"
-		"m_iname"		"item1_yellowbtnmodel2green"
+		"chi"		"** **"
 	}
-	"405180"
+	"<== Try to live longer , It not metter skill, It talk about luck ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405180"
-		"m_iname"		"item1_yellowbtnmodel1"
+		"chi"		"**尝试存活下来，这无关技巧，只看运气 **"
 	}
-	"405184"
+	"<==red area door will open in 10second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405184"
-		"m_iname"		"item1_yellowmodel1"
+		"chi"		"**10秒后红色区域的门会打开 **"
 	}
-	"405193"
+	"<==orange area door will open in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"405193"
-		"m_iname"		"item1_yellowmodel2"
+		"chi"		"**5秒后橙色区域的门会打开 **"
 	}
-	"402638"
+	"<==teal area door will open in 30second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"402638"
-		"m_iname"		"item_bluemodle"
+		"chi"		"**30秒后青色区域的门会打开 **"
 	}
-	"394613"
+	"<==purple area door will open in 40second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"394613"
-		"m_iname"		"area1helpwoodenpath"
+		"chi"		"**40秒后紫色区域的门会打开 **"
 	}
-	"394676"
+	"<==blue area door will open in 35second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"394676"
-		"m_iname"		"area4singalsgate1"
+		"chi"		"**35秒后蓝色区域的门会打开 **"
 	}
-	"394705"
+	"<==teal area door will open in 5second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"394705"
-		"m_iname"		"area4singalsgate2"
+		"chi"		"**5秒后青色区域的门会打开 **"
 	}
-	"394708"
+	"<== yellow item zombie push in 5s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"394708"
-		"m_iname"		"area4singalsgate3"
+		"chi"		"**黄色物品推动僵尸5秒 **"
 	}
-	"394728"
+	"<== non-person open yellow door system active==>"
 	{
-		"enable"		"0"
-		"hammerid"		"394728"
-		"m_iname"		"area4singalsgate4"
+		"chi"		"** **"
 	}
-	"391415"
+	"<==purple area door will open in 10second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"391415"
-		"m_iname"		"officesheild"
+		"chi"		"**10秒后紫色区域的门会打开 **"
 	}
-	"388144"
+	"<== non-person open green door system active==>"
 	{
-		"enable"		"0"
-		"hammerid"		"388144"
-		"m_iname"		"3areagate1"
+		"chi"		"** **"
 	}
-	"388827"
+	"<== non-person open teal door system active==>"
 	{
-		"enable"		"0"
-		"hammerid"		"388827"
-		"m_iname"		"3areagate2"
+		"chi"		"** **"
 	}
-	"388871"
+	"<==blue area door will open in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"388871"
-		"m_iname"		"3areagate3"
+		"chi"		"**5秒后蓝色区域的门会打开 **"
 	}
-	"385014"
+	"<== Teleport active in 25second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"385014"
-		"m_iname"		"awpitemwall2"
+		"chi"		"**传送25秒后启动 **"
 	}
-	"385025"
+	"<==green area door will open in 25second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"385025"
-		"m_iname"		"awpitemwall1"
+		"chi"		"**25秒后绿色区域的门会打开 **"
 	}
-	"380584"
+	"<==yellow area door will open in 20second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"380584"
-		"m_iname"		"3areagate1pc"
+		"chi"		"**20秒后黄色区域的门会打开 **"
 	}
-	"380899"
+	"<==yellow area door will open in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"380899"
-		"m_iname"		"3areagate3pc"
+		"chi"		"**5秒后黄色区域的门会打开 **"
 	}
-	"380970"
+	"<==green area door will open in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"380970"
-		"m_iname"		"3areagate2pc"
+		"chi"		"**5秒后绿色区域的门会打开 **"
 	}
-	"357249"
+	"<== non-person open blue door system active==>"
 	{
-		"enable"		"0"
-		"hammerid"		"357249"
-		"m_iname"		"2areatblock"
+		"chi"		"** **"
 	}
-	"346049"
+	"<== non-person purple open door system active==>"
 	{
-		"enable"		"0"
-		"hammerid"		"346049"
-		"m_iname"		"2areadoor1"
+		"chi"		"** **"
 	}
-	"343195"
+	"<== Teleport active in 15second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"343195"
-		"m_iname"		"awpitem1shield"
+		"chi"		"**传送15秒后启动 **"
 	}
-	"333497"
+	"<== Teleport active in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"333497"
-		"m_iname"		"RedSignalsNight"
+		"chi"		"**传送5秒后启动 **"
 	}
-	"333501"
+	"<== Get inside and go press the button on the wall!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"333501"
-		"m_iname"		"YellowSignalsNight"
+		"chi"		"**去里面按墙上的按钮！ **"
 	}
-	"333505"
+	"<== Everyone not longer in subway in 10 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"333505"
-		"m_iname"		"GreenSignalsNight"
+		"chi"		"**10秒内，所有人都不要呆在地铁里 **"
 	}
-	"333640"
+	"<== Lab entrance will be open in 5s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"333640"
-		"m_iname"		"RedSignalsNight"
+		"chi"		"**实验室入口将在5秒后开启 **"
 	}
-	"333644"
+	"<==First door take 5 second to open ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"333644"
-		"m_iname"		"YellowSignalsNight"
+		"chi"		"**第一扇门5秒后打开 **"
 	}
-	"333648"
+	"<==second door take 10 second to open ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"333648"
-		"m_iname"		"GreenSignalsNight"
+		"chi"		"**第二扇门10秒后打开 **"
 	}
-	"330663"
+	"<==Exit teleport can be use in 30s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"330663"
-		"m_iname"		"3areacastledoor"
+		"chi"		"**通往出口的传送将在30秒后激活 **"
 	}
-	"322753"
+	"<==Lab Weapon charge 0% ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"322753"
-		"m_iname"		"RedSignalsNight"
+		"chi"		"**实验室武器充电中：0% **"
 	}
-	"322783"
+	"<==Exit teleport can be use in 15s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"322783"
-		"m_iname"		"YellowSignalsNight"
+		"chi"		"**通往出口的传送将在15秒后激活 **"
 	}
-	"322820"
+	"<==Shield for Awp item it will not broke ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"322820"
-		"m_iname"		"GreenSignalsNight"
+		"chi"		"** **"
 	}
-	"323348"
+	"<==yellow item human area speed buff in 5 second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"323348"
-		"m_iname"		"3areawallcannon"
+		"chi"		"** **"
 	}
-	"308996"
+	"<==Exit teleport can be use in 5s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"308996"
-		"m_iname"		"redcave"
+		"chi"		"**通往出口的传送将在5秒后激活 **"
 	}
-	"291107"
+	"<== Zombie teleport inside in 10 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"291107"
-		"m_iname"		"fristareawall1"
+		"chi"		"**僵尸10秒后传送 **"
 	}
-	"283037"
+	"<==Everyone should go together and break the gate downstaris==>"
 	{
-		"enable"		"0"
-		"hammerid"		"283037"
-		"m_iname"		"fristareawall2"
+		"chi"		"**所有人都到一起，打破大门 **"
 	}
-	"284266"
+	"<== Defend this area 10 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"284266"
-		"m_iname"		"item_awp3model2"
+		"chi"		"**守住这个地方10秒钟 **"
 	}
-	"284283"
+	"<== Defend the bridge , dont go!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"284283"
-		"m_iname"		"item_awp3model1"
+		"chi"		"**守住桥，不要走！ **"
 	}
-	"265727"
+	"<== teleport active in 30 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265727"
-		"m_iname"		"startwall11"
+		"chi"		"**传送30秒后启动 **"
 	}
-	"265737"
+	"<==Lab Weapon is ready to charge  ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265737"
-		"m_iname"		"startwall12"
+		"chi"		"**实验室武器准备充电 **"
 	}
-	"265753"
+	"<==Lab Weapon charge 25% ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265753"
-		"m_iname"		"startwall13"
+		"chi"		"**实验室武器充电中：25% **"
 	}
-	"265761"
+	"<==Lab Weapon charge 50% ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265761"
-		"m_iname"		"startwall14"
+		"chi"		"**实验室武器充电中：50% **"
 	}
-	"265865"
+	"<==Lab Weapon charge 75% ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265865"
-		"m_iname"		"startwall21"
+		"chi"		"**实验室武器充电中：75% **"
 	}
-	"265879"
+	"<==Lab Weapon charge 90% ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265879"
-		"m_iname"		"startwall23"
+		"chi"		"**实验室武器充电中：90% **"
 	}
-	"265888"
+	"<==Lab Weapon has been disable ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265888"
-		"m_iname"		"startwall24"
+		"chi"		"**实验室武器已禁用 **"
 	}
-	"265902"
+	"<== teleport active in 15 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"265902"
-		"m_iname"		"startwall22"
+		"chi"		"**传送15秒后启动 **"
 	}
-	"250492"
+	"<== teleport active in 5 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250492"
-		"m_iname"		"purpledoor"
+		"chi"		"**传送5秒后启动 **"
 	}
-	"250544"
+	"<== Zombie after 10 second will teleport to this area ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250544"
-		"m_iname"		"bluedoor"
+		"chi"		"**僵尸10秒后将传送到这个区域 **"
 	}
-	"250578"
+	"<==When zombie come in this area, human will fall down to the water and no teleport for fall down ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250578"
-		"m_iname"		"tealdoor"
+		"chi"		"**当僵尸来到这个区域时，人类将会掉到水里，而且没有任何传送传送 **"
 	}
-	"250594"
+	"<==You may need to press something? ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250594"
-		"m_iname"		"greendoor"
+		"chi"		"**你可能需要按下什么东西？ **"
 	}
-	"250604"
+	"<== Door open in 20s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250604"
-		"m_iname"		"yellowdoor"
+		"chi"		"**大门20秒后打开 **"
 	}
-	"250626"
+	"<==Wooden help path will clear in 5second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250626"
-		"m_iname"		"orangedoor"
+		"chi"		"**木制道路将在5秒后清除 **"
 	}
-	"250644"
+	"<== Get in the dugout and defend==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250644"
-		"m_iname"		"reddoor"
+		"chi"		"**进入战壕防守 **"
 	}
-	"250708"
+	"<== Incorrect input ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"250708"
-		"m_iname"		"graydoor"
+		"chi"		"**错误输入 **"
 	}
-	"240509"
+	"<== somthing coming in 5 secoud ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"240509"
-		"m_iname"		"magicdef"
+		"chi"		"**有5秒的时间 **"
 	}
-	"233820"
+	"<== human need to stay inside to get teleport out side this area ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"233820"
-		"m_iname"		"rainbowgunalf"
+		"chi"		"**人类需要呆在里面，在这片区域内进行传送 **"
 	}
-	"235771"
+	"<== Teleport active in 90s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"235771"
-		"m_iname"		"greencave"
+		"chi"		"**传送90秒后启动 **"
 	}
-	"235792"
+	"<== Welcome to the non-bhop area! ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"235792"
-		"m_iname"		"yellowcave"
+		"chi"		"**欢迎来到不能连跳的区域 **"
 	}
-	"235802"
+	"<== Get in the centre by the green path ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"235802"
-		"m_iname"		"orangecave"
+		"chi"		"**通过绿色路径进入中心 **"
 	}
-	"225380"
+	"<== Fall down to the red plcae will teleport to start ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"225380"
-		"m_iname"		"item_571_pushmodel"
+		"chi"		"**掉到红色区域将会被传送 **"
 	}
-	"222559"
+	"<== the escape teleport only in the certre place ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222559"
-		"m_iname"		"4_breakable2"
+		"chi"		"**逃生传送只在中心位置 **"
 	}
-	"222592"
+	"<==  You can shoot the photo on the wall to able to jump or all path release==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222592"
-		"m_iname"		"4_breakable5"
+		"chi"		"** **"
 	}
-	"222595"
+	"<== Teleport active in 60s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222595"
-		"m_iname"		"4_breakable9"
+		"chi"		"**传送60秒后启动 **"
 	}
-	"222601"
+	"<== Teleport active in 30s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222601"
-		"m_iname"		"4_breakable10"
+		"chi"		"**传送30秒后启动 **"
 	}
-	"222604"
+	"<== Teleport active in 15s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222604"
-		"m_iname"		"4_breakable3"
+		"chi"		"**传送15秒后启动 **"
 	}
-	"222610"
+	"<== Teleport active in 5s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222610"
-		"m_iname"		"4_breakable4"
+		"chi"		"**传送5秒后启动 **"
 	}
-	"222613"
+	"<== Zombie teleport to next area in 10s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222613"
-		"m_iname"		"4_breakable8"
+		"chi"		"**僵尸10秒后传送到下个区域 **"
 	}
-	"222616"
+	"<==Human defend castle  Zombie attack castle ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222616"
-		"m_iname"		"4_breakable7"
+		"chi"		"**人类防御城.堡僵尸攻击城堡 **"
 	}
-	"222625"
+	"<==Three signals night on top of the gate, each signals night represents a door==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222625"
-		"m_iname"		"4_breakable1"
+		"chi"		"**门上有三个信号灯，每个信号灯代表一扇门 **"
 	}
-	"222628"
+	"<==Human need to survive 1min30s start from zombie get out base==>"
 	{
-		"enable"		"0"
-		"hammerid"		"222628"
-		"m_iname"		"4_breakable6"
+		"chi"		"**人类需要生存1分30秒，从僵尸开始走出基地开始计算 **"
 	}
-	"218400"
+	"<==Human are not able to break the gate by anyway ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"218400"
-		"m_iname"		"item_purplemodle2"
+		"chi"		"**人类无论如何也不能打破大门 **"
 	}
-	"189761"
+	"<== 3 min counter start by now!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"189761"
-		"m_iname"		"stlastdoor"
+		"chi"		"**现在从3分钟开始计数! **"
 	}
-	"191345"
+	"<== Zombie already outside base==>"
 	{
-		"enable"		"0"
-		"hammerid"		"191345"
-		"m_iname"		"item_negevmodel1"
+		"chi"		"**僵尸已经在基地外面了 **"
 	}
-	"176906"
+	"<== Building door open in 1 min left==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176906"
-		"m_iname"		"startcolo3"
+		"chi"		"**1分钟左右开门 **"
 	}
-	"176921"
+	"<==You can take Awp item after 3 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176921"
-		"m_iname"		"startcolo6"
+		"chi"		"**你可以在三秒钟后使用Awp **"
 	}
-	"176924"
+	"<==Yellow UI self destruct in 5 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176924"
-		"m_iname"		"startcolo9"
+		"chi"		"**黄色UI5秒后自毁 **"
 	}
-	"176927"
+	"<== Human get teleport to next area in : 2m 30s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176927"
-		"m_iname"		"startcolo8"
+		"chi"		"**人类将传送到下个区域:2m30s **"
 	}
-	"176930"
+	"<==Zombie pass the gate! ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176930"
-		"m_iname"		"startcolo5"
+		"chi"		"**僵尸进入大门！ **"
 	}
-	"176933"
+	"<==protection of the office will broke in 45second ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176933"
-		"m_iname"		"startcolo2"
+		"chi"		"**办公室的保护措施将在45秒后关闭 **"
 	}
-	"176945"
+	"<==You do something good to human ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176945"
-		"m_iname"		"startcolo7"
+		"chi"		"**你为人类做了好事 **"
 	}
-	"176948"
+	"<== Human get teleport to next area in : 2m 0s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176948"
-		"m_iname"		"startcolo4"
+		"chi"		"**人类将传送到下个区域：2m0s **"
 	}
-	"176951"
+	"<== Human get teleport to next area in : 1m 30s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"176951"
-		"m_iname"		"startcolo1"
+		"chi"		"**人类将传送到下个区域：1m30s **"
 	}
-	"165710"
+	"<== Human get teleport to next area in : 1m 0s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165710"
-		"m_iname"		"stbr1"
+		"chi"		"**人类将传送到下个区域：1m0s **"
 	}
-	"165727"
+	"<== Human get teleport to next area in : 0m 30s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165727"
-		"m_iname"		"stbr2"
+		"chi"		"**人类将传送到下个区域：0m30s **"
 	}
-	"165731"
+	"<== Human get teleport to next area in : 0m 10s ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165731"
-		"m_iname"		"stbr3"
+		"chi"		"**人类将传送到下个区域：0m10s **"
 	}
-	"165735"
+	"<==Line1 : Warm up==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165735"
-		"m_iname"		"stbr4"
+		"chi"		"**一号线：热身 **"
 	}
-	"165739"
+	"<== When you get on next line, you need wait 3 second to open the door ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165739"
-		"m_iname"		"stbr5"
+		"chi"		"**当你下一行的时候，你需要等3秒才能开门 **"
 	}
-	"165743"
+	"<== You need to keep go to next area untill you get exit on up place ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165743"
-		"m_iname"		"stbr6"
+		"chi"		"**你需要一直走到下一个地方，直到你离开 **"
 	}
-	"165747"
+	"<==Line2 : Hurt area==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165747"
-		"m_iname"		"stbr7"
+		"chi"		"**二号线：伤害区域 **"
 	}
-	"165751"
+	"<==Line3 : Obstacle race - Left and Right==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165751"
-		"m_iname"		"stbr8"
+		"chi"		"**三号线：障碍赛 - 左和右 **"
 	}
-	"165755"
+	"<==Line4 : Obstacle race - Color==>"
 	{
-		"enable"		"0"
-		"hammerid"		"165755"
-		"m_iname"		"stbr9"
+		"chi"		"**四号线：障碍赛 - 颜色 **"
 	}
-	"154531"
+	"<==shoot this 9 block to clear the path ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"154531"
-		"m_iname"		"item_awp1model"
+		"chi"		"**射击这9个障碍清除道路 **"
 	}
-	"149330"
+	"<==Line5 : Obstacle race - Jump==>"
 	{
-		"enable"		"0"
-		"hammerid"		"149330"
-		"m_iname"		"item_greenmodle"
+		"chi"		"**五号线：障碍赛 - 跳 **"
 	}
-	"140517"
+	"<==Line6 : Push==>"
 	{
-		"enable"		"0"
-		"hammerid"		"140517"
-		"m_iname"		"item_purplemodle1"
+		"chi"		"**六号线：推力 **"
 	}
-	"127065"
+	"<==Line7 : Surf==>"
 	{
-		"enable"		"0"
-		"hammerid"		"127065"
-		"m_iname"		"item_redmodle"
+		"chi"		"**七号线：滑翔 **"
 	}
-	"127142"
+	"<==Line8 : Mechanism ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"127142"
-		"m_iname"		"item_orangemodle"
+		"chi"		"**八号线：障碍 **"
 	}
-	"127397"
+	"<==Someone arrive the last area ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"127397"
-		"m_iname"		"item_tealmodle"
+		"chi"		"**某人到达最后一个区域 **"
 	}
-	"114169"
+	"<== all area will teleport all human and zombie to last area ==>"
 	{
-		"enable"		"1"
-		"hammerid"		"114169"
-		"m_iname"		"Boss4"
+		"chi"		"**将传送所有区域的人类和僵尸至最后区域 **"
 	}
-	"114276"
+	"<== human tele in 5s  zombie tele in 20s ==>"
 	{
-		"enable"		"1"
-		"hammerid"		"114276"
-		"m_iname"		"Boss3"
+		"chi"		"**人类5秒后传送-僵尸20秒后传送 **"
 	}
-	"114309"
+	"<== zombie tele in 5s ==>"
 	{
-		"enable"		"1"
-		"hammerid"		"114309"
-		"m_iname"		"Boss2"
+		"chi"		"**僵尸5秒后传送 **"
 	}
-	"114318"
+	"<==Welcome , Finally , someone arrive the top  ==>"
 	{
-		"enable"		"1"
-		"hammerid"		"114318"
-		"m_iname"		"Boss1"
+		"chi"		"**欢迎，最后，有人到达顶端 **"
 	}
-	"67346"
+	"<==Right now , i want to thank my friend for giving me suggestion  ==>"
 	{
-		"enable"		"1"
-		"hammerid"		"67346"
-		"m_iname"		"Boss5"
+		"chi"		"**现在，我要感谢我的朋友给我的建议 **"
 	}
-	"42517"
+	"<==Without them, this map are not able to play ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"42517"
-		"m_iname"		"door4"
+		"chi"		"**没有他们，这张地图不能玩 **"
 	}
-	"42529"
+	"<== Also, thank syoudous for test my map so many time ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"42529"
-		"m_iname"		"door3"
+		"chi"		"**另外，感谢syoudous测试我的地图这么多次 **"
 	}
-	"42543"
+	"<== type [thank syoudous] in the chat please! ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"42543"
-		"m_iname"		"door2"
+		"chi"		"**在聊天栏中输入[谢谢syoudous]！ **"
 	}
-	"615799"
+	"<== Thank Hichatu , Unorth ,zolix,  Luffaren , wan==>"
 	{
-		"enable"		"0"
-		"hammerid"		"615799"
-		"m_iname"		"zitem_sns4_spear"
+		"chi"		"**感谢Hichatu，Unorth，zolix，luffaren，wan **"
 	}
-	"615856"
+	"<== Am i missing something to say? ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"615856"
-		"m_iname"		"zitem_sns5_spear"
+		"chi"		"**我有什么要说的吗？ **"
 	}
-	"615892"
+	"<== Someone triggered the information ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"615892"
-		"m_iname"		"zitem_sns6_spear"
+		"chi"		"**有人触发信息 **"
 	}
-	"615924"
+	"<== Path way release in 20s or you break it! ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"615924"
-		"m_iname"		"zitem_sns7_spear"
+		"chi"		"** **"
 	}
-	"597159"
+	"<== Go Go Go!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"597159"
-		"m_iname"		"item_purplemodle2"
+		"chi"		"**跑！！！ **"
 	}
-	"597165"
+	"<== Jump down to the water and enjoy your victory==>"
 	{
-		"enable"		"0"
-		"hammerid"		"597165"
-		"m_iname"		"item_purplemodle2"
+		"chi"		"**跳到水中，享受你的胜利 **"
 	}
-	"597171"
+	"<== This 10 second is the time for watching those photo on the wall, hope you guy enjoy it==>"
 	{
-		"enable"		"0"
-		"hammerid"		"597171"
-		"m_iname"		"item_purplemodle2"
+		"chi"		"**这10秒是看墙上那些照片的时间，希望你能喜欢 **"
 	}
-	"597361"
+	"<== By the way, thank you all playing, have fun!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"597361"
-		"m_iname"		"zitem_sns1_spear"
+		"chi"		"**顺便说一句，谢谢大家玩，玩得开心！ **"
 	}
-	"597521"
+	"<== The map without boss fight becaues i dont have enough skill to create it==>"
 	{
-		"enable"		"0"
-		"hammerid"		"597521"
-		"m_iname"		"zitem_sns2_spear"
+		"chi"		"**地图上没有打BOSS是因为我没有足够的能力去制作它 **"
 	}
-	"597533"
+	"<== human will win in 20 second==>"
 	{
-		"enable"		"0"
-		"hammerid"		"597533"
-		"m_iname"		"zitem_sns3_spear"
+		"chi"		"**人类20秒后胜利 **"
 	}
-	"583456"
+	"<== You win!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"583456"
-		"m_iname"		"hurttower2"
+		"chi"		"**你赢了 **"
 	}
-	"542006"
+	"<== Something Wrong, oh my god, meme boss coming!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"542006"
-		"m_iname"		"hurttower3"
+		"chi"		"**不对，哦我的天啊，BOSS来了 **"
 	}
-	"542121"
+	"<== Human have 10 more second to escape==>"
 	{
-		"enable"		"0"
-		"hammerid"		"542121"
-		"m_iname"		"hurttower4"
+		"chi"		"**人类有10秒的时间逃跑 **"
 	}
-	"542288"
+	"<== You have 5 min to kill==>"
 	{
-		"enable"		"0"
-		"hammerid"		"542288"
-		"m_iname"		"hurttower0"
+		"chi"		"**你有5分钟来杀死它 **"
 	}
-	"538025"
+	"<== Shoot the meme Lord!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"538025"
-		"m_iname"		"hurttower1"
+		"chi"		"**射击BOSS **"
 	}
-	"517488"
+	"<== When the Symphony stop , you lose! ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"517488"
-		"m_iname"		"castlefight_Fexit1"
+		"chi"		"**当交响乐停止时，你就输了！ **"
 	}
-	"517496"
+	"<== Meme lord kill human in 3 way==>"
 	{
-		"enable"		"0"
-		"hammerid"		"517496"
-		"m_iname"		"castlefight_Fexit"
+		"chi"		"**Meme lord用三种方法杀死人类 **"
 	}
-	"511720"
+	"<== Meme Box !==>"
 	{
-		"enable"		"0"
-		"hammerid"		"511720"
-		"m_iname"		"castlefight_guntower1"
+		"chi"		"**Meme盒子 **"
 	}
-	"511736"
+	"<== [Centre] Long ready time ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"511736"
-		"m_iname"		"castlefight_guntower2"
+		"chi"		"**[中心]准备时间很长 **"
 	}
-	"512632"
+	"<== [Centre] short ready twice ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"512632"
-		"m_iname"		"castlefight_guntower3"
+		"chi"		"** **"
 	}
-	"512862"
+	"<== Pro Here!!!! ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"512862"
-		"m_iname"		"castlefight_guntower4"
+		"chi"		"**Pro在这里！！！！ **"
 	}
-	"512878"
+	"<== Gandalf Incoming!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"512878"
-		"m_iname"		"castlefight_guntower5"
+		"chi"		"**甘道夫来袭！ **"
 	}
-	"512910"
+	"<== Right one warm up==>"
 	{
-		"enable"		"0"
-		"hammerid"		"512910"
-		"m_iname"		"castlefight_guntower6"
+		"chi"		"** **"
 	}
-	"492673"
+	"<== Neo Gonna Attack!==>"
 	{
-		"enable"		"0"
-		"hammerid"		"492673"
-		"m_iname"		"minecraftexitdoor"
+		"chi"		"** **"
 	}
-	"633536"
+	"<== Odd number  ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"633536"
-		"m_iname"		"4_breakable0"
+		"chi"		"**单数 **"
 	}
-	"633554"
+	"<== They come so slow==>"
 	{
-		"enable"		"0"
-		"hammerid"		"633554"
-		"m_iname"		"4_breakable01"
+		"chi"		"**他们如此缓慢 **"
 	}
-	"633563"
+	"<== They come at the same time  ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"633563"
-		"m_iname"		"4_breakable02"
+		"chi"		"**他们同时到来 **"
 	}
-	"633616"
+	"<== (3*2) and (366) ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"633616"
-		"m_iname"		"4_breakable21"
+		"chi"		"** **"
 	}
-	"654031"
+	"<== [Side] Long ready time ==>"
 	{
-		"enable"		"0"
-		"hammerid"		"654031"
-		"m_iname"		"2areatblock"
+		"chi"		"**[侧]长时间准备 **"
+	}
+	"<== Left one warm up==>"
+	{
+		"chi"		"** **"
+	}
+	"<== They come so fast!==>"
+	{
+		"chi"		"**他们来得如此之快！ **"
+	}
+	"<== even number  ==>"
+	{
+		"chi"		"**偶数 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"99405"
+	}
+	"<== Get up the base and escape this place==>"
+	{
+		"chi"		"**站起来逃离这个地方 **"
+	}
+	"<== Current Level : ultimate super most extreme easy==>"
+	{
+		"chi"		"**当前关卡:终极超级容易 **"
+	}
+	"<== One and only one level, hope you guys enjoy it==>"
+	{
+		"chi"		"**只有一关，希望你们喜欢它 **"
+	}
+	"<== Map play time around 18-25min==>"
+	{
+		"chi"		"**地图游戏时间：18-25分钟 **"
+	}
+	"<== The most recent version is in Mapeadores ==>"
+	{
+		"chi"		"**最新的版本是Mapeadores **"
+	}
+	"<== Do not reach the top of this column==>"
+	{
+		"chi"		"**不要上到顶端 **"
+	}
+	"<== Current background music: johnson lee + justin lo - way out (uu1r1)==>"
+	{
+		"chi"		"**背景音乐：johnson lee + justin lo - way out (uu1r1) **"
+	}
+	"<== This base is doing something secret experiment ==>"
+	{
+		"chi"		"**这个基地正在做一些秘密实验 **"
+	}
+	"<== You need to find the way out and get out this base ==>"
+	{
+		"chi"		"**你需要找到出路，走出这个基地 **"
+	}
+	"<== You entered helicopter field, the helicopter may active in 30 second==>"
+	{
+		"chi"		"**你进入了直升机里，直升机可能在30秒后启动 **"
+	}
+	"<= The helicopter may active in 15 second==>"
+	{
+		"chi"		"**直升机可能在15秒后启动 **"
+	}
+	"<= The helicopter may active in 5 second==>"
+	{
+		"chi"		"**直升机可能在5秒后启动 **"
+	}
+	"<= the helicopter has stopped suddenly ==>"
+	{
+		"chi"		"**直升机突然停了下来 **"
+	}
+	"<== Current background music: taiwan_song richie jen look over here, girl ==>"
+	{
+		"chi"		"**背景音乐：taiwan_song richie jen look over here, girl **"
+	}
+	"<== You can get in the secret experiment place in 30 second ==>"
+	{
+		"chi"		"**30秒后进入秘密实验场所 **"
+	}
+	"<== Secret experiment can be enter in 15 second ==>"
+	{
+		"chi"		"**15秒后进入秘密实验场所 **"
+	}
+	"<== Secret experiment can be enter in 5 second ==>"
+	{
+		"chi"		"**5秒后进入秘密实验场所 **"
+	}
+	"<== Zombie teleport up place in 5 second==>"
+	{
+		"chi"		"**僵尸5秒后传送 **"
+	}
+	"<== Teleport exit can be use in 20s ==>"
+	{
+		"chi"		"**出口传送将在20秒后启动 **"
+	}
+	"<== Teleport exit can be use in 5s ==>"
+	{
+		"chi"		"**出口传送将在5秒后启动 **"
+	}
+	"<== Jump inside ! ==>"
+	{
+		"chi"		"**往里跳！ **"
+	}
+	"<== First area will clear in 3 second==>"
+	{
+		"chi"		"**第一区域将在3秒清除 **"
+	}
+	"<==Lab Weapon will kill all zombie in front of it ==>"
+	{
+		"chi"		"**实验室武器将杀死前面的所有僵尸 **"
+	}
+	"<==Shoot !!==>"
+	{
+		"chi"		"**射击！！ **"
+	}
+	"<== Current background music:  simon & garfunkel-the sound of silence==>"
+	{
+		"chi"		"**背景音乐：simon & garfunkel-the sound of silence **"
+	}
+	"<== teleport active in 45 second==>"
+	{
+		"chi"		"**传送45秒后启动 **"
+	}
+	"<== Zombie on attack positon in 5 second==>"
+	{
+		"chi"		"**5秒内，僵尸攻击positon **"
+	}
+	"<== Get in the dugout and defend totall 1 min==>"
+	{
+		"chi"		"**进入防护网，守住1分钟 **"
+	}
+	"<== Current background music:  steven ma - mk1yp8 ==>"
+	{
+		"chi"		"**背景音乐：steven ma - mk1yp8  **"
+	}
+	"<== Teleport will active when you arrive blue area ==>"
+	{
+		"chi"		"**当你到达蓝色区域传送就会启动 **"
+	}
+	"<== Current background music : Ellie Goulding - Love Me Like You Do ==>"
+	{
+		"chi"		"**背景音乐：Ellie Goulding - Love Me Like You Do **"
+	}
+	"<== Human teleport active in 20s ==>"
+	{
+		"chi"		"**人类传送20秒后启动 **"
+	}
+	"<== yellow item zombie push now available==>"
+	{
+		"chi"		"**黄色神器僵尸推现在可以使用 **"
+	}
+	"<== Forward! clear the path way and defend your self!==>"
+	{
+		"chi"		"**前进！清理道路并捍卫你自己 **"
+	}
+	"<== Current background music : Otto Knows - Million Voices ==>"
+	{
+		"chi"		"**背景音乐：Ellie Goulding - Love Me Like You Do **"
+	}
+	"<== You should worry those gun tower in your path way==>"
+	{
+		"chi"		"**你应该担心你道路上的那些炮塔 **"
+	}
+	"<== Gate take 5 second to open ==>"
+	{
+		"chi"		"**门5秒后打开 **"
+	}
+	"<== Do something to go! ==>"
+	{
+		"chi"		"**做些什么去！ **"
+	}
+	"<== Invisable wall will be gone in 20 second==>"
+	{
+		"chi"		"**隐形墙将在20秒后消失 **"
+	}
+	"<== Door will open in 5 second ==>"
+	{
+		"chi"		"**大门5秒后打开 **"
+	}
+	"<== You need to defend this area to wait something coming==>"
+	{
+		"chi"		"**你需要守住这片区域，等待一些事情发生 **"
+	}
+	"<== Someone said : hi i am something, i helping you to get you out ==>"
+	{
+		"chi"		"**某人说：嗨，你好,我的东西，我帮助你让你离开 **"
+	}
+	"<== Something said : but it might take me a little while ==>"
+	{
+		"chi"		"**某人说：但可能要花一点时间 **"
+	}
+	"<== Something said : so do you want me to tell you a story? ==>"
+	{
+		"chi"		"**某人说：你想让我给你讲个故事吗？ **"
+	}
+	"<== Something said : Theres this emperor, and he asks the shepherds boy ==>"
+	{
+		"chi"		"**某人说：有个皇帝，他问牧羊的男孩 **"
+	}
+	"<== Something said : how many seconds in eternity? ==>"
+	{
+		"chi"		"**某人说：永恒有多少秒？ **"
+	}
+	"<== Something said : And the shepherds boy says ==>"
+	{
+		"chi"		"**某人说：和牧羊人的男孩说 **"
+	}
+	"<== Something said :Theres this mountain of pure diamond. ==>"
+	{
+		"chi"		"**某人说：这里有座纯净的钻石矿 **"
+	}
+	"<== Something said : It takes an hour to climb it and an hour to go around it ==>"
+	{
+		"chi"		"**某人说：爬上它需要一个小时，绕着它走需要一个小时 **"
+	}
+	"<== Something said : and every hundred years a little bird comes==>"
+	{
+		"chi"		"**某人说：每一百年就有一只小鸟来 **"
+	}
+	"<== Something said : and sharpens its beak on the diamond mountain.==>"
+	{
+		"chi"		"**某人说：在钻石山上磨嘴 **"
+	}
+	"<== Something said : And when the entire mountain is chiseled away==>"
+	{
+		"chi"		"**某人说：当整个山被凿去 **"
+	}
+	"<== Something said : the first second of eternity will have passed==>"
+	{
+		"chi"		"**某人说：永恒的第一秒会过去 **"
+	}
+	"<== Something said : You may think thats a hell of a long time==>"
+	{
+		"chi"		"**某人说：你可能认为这时间太长了 **"
+	}
+	"<== Something said : Personally, I think thats a hell of a bird.==>"
+	{
+		"chi"		"**某人说：就个人而言，我认为这是鸟的地狱 **"
+	}
+	"<== Something said : You can go now!.==>"
+	{
+		"chi"		"**某人说：你现在可以走了！ **"
+	}
+	"<==Human are not able to break the gate in anyway ==>"
+	{
+		"chi"		"**人类无论如何也无法打破大门 **"
+	}
+	"<== Green place add human hp to 250 ==>"
+	{
+		"chi"		"**绿色区域会给人类HP加到250 **"
+	}
+	"<== 2 min counter start by now!==>"
+	{
+		"chi"		"**2分钟计数器开始现在！ **"
+	}
+	"<== Current background music : (2x fast forward time)Eason Chan - ai2op2ss1jb9 ==>"
+	{
+		"chi"		"**背景音乐：(2x fast forward time)Eason Chan - ai2op2ss1jb9 **"
+	}
+	"<==Zombie pass the Wall! ==>"
+	{
+		"chi"		"**僵尸通过墙！ **"
+	}
+	"<== Human get teleport to next area in : 0m 15s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Human get teleport to next area in : 0m 5s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== yellow item human area speed buff now available==>"
+	{
+		"chi"		"**黄色神器加速BUFF现在可以使用 **"
+	}
+	"<==Lab Weapon Fire now!!! ==>"
+	{
+		"chi"		"**现在实验室武器射击！！ **"
+	}
+	"<== Almost all  ==>"
+	{
+		"chi"		"**几乎全部 **"
+	}
+	"<== [Side] Short ready time ==>"
+	{
+		"chi"		"**[侧]准备时间短 **"
+	}
+	"<== meme lord die, all meme gonna gone ==>"
+	{
+		"chi"		"**BOSS死了.所有的东西都会消失 **"
+	}
+	"<== OMG! Laser coming!==>"
+	{
+		"chi"		"**OMG！激光来了！ **"
+	}
+	"<== You really win this map!==>"
+	{
+		"chi"		"**你真的赢了这张地图！ **"
+	}
+	"<== Get out the certre==>"
+	{
+		"chi"		"**走出中心 **"
+	}
+	"<== Now shoot the zombie!==>"
+	{
+		"chi"		"**现在射击僵尸！ **"
+	}
+	"<== At the end, i would like to thank all fd help me to make the map better! ==>"
+	{
+		"chi"		"**最后，我要感谢所有的fd帮助我把地图做得更好! **"
+	}
+	"<== Thank syoudous, hichatu , unorth, Luffaren ==>"
+	{
+		"chi"		"**感谢：syoudous，hichatu，unorth，luffaren **"
+	}
+	"<== Symphony stop in 10 second ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== 5 second left, say goodbye please ==>"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"<== The most recent version is in [ Mapeadores sever ] ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== You should not stand here==>"
+	{
+		"chi"		"** **"
+	}
+	"<== How about shoot that wooden door? ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Current background music:cherry ngan - flash(ao4fu1)==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Noob down!==>"
+	{
+		"chi"		"** **"
+	}
+	"<==second door is opening ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Current background music:ashita hareru kana - proposal daisakusen==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Zombie will be teleport to attack position in 5 second==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Invisable wall will be gone in 10 second==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Something said : There�s this emperor, and he asks the shepherd�s boy ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Something said : And the shepherd�s boy says ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Something said :�There�s this mountain of pure diamond. ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Something said : You may think that�s a hell of a long time==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Something said : Personally, I think that�s a hell of a bird.==>"
+	{
+		"chi"		"** **"
+	}
+	"<== You pressed big friendly red button==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Current background music:snubbe teckentolkar i melodifestivalenn==>"
+	{
+		"chi"		"** **"
 	}
 }

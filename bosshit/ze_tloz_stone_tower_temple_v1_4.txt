@@ -1,93 +1,135 @@
-"BOSSHP"
+"Console_T"
 {
-	"2154843"
+	"*** Map by : Airvulpes ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2154843"
-		"m_iname"		"b_target"
+		"chi"		"**地图作者:Airvulpes **"
 	}
-	"2259108"
+	"*** Door opens in 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2259108"
-		"m_iname"		"majoras_physbox"
+		"chi"		"**大门10秒之后打开**"
 	}
-	"1775557"
+	"*** Door opening in 5 seconds !***"
 	{
-		"enable"		"0"
-		"hammerid"		"1775557"
-		"m_iname"		"CY01Physic"
+		"chi"		"**大门5秒之后打开**"
 	}
-	"1775595"
+	"*** Resist 30 seconds ! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1775595"
-		"m_iname"		"garo_colli"
+		"chi"		"**坚持30秒！**"
+		"DoorCountdown"		"30"
 	}
-	"2154853"
+	"***BUTTON PRESSED***"
 	{
-		"enable"		"1"
-		"hammerid"		"2154853"
-		"m_iname"		"b_righthandtarget"
+		"chi"		"**按钮已经按下！**"
 	}
-	"2154857"
+	"*** Wall Opens in 30 seconds! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2154857"
-		"m_iname"		"b_lefthandtarget"
+		"chi"		"**墙壁30秒后移动！**"
+		"DoorCountdown"		"30"
 	}
-	"1999542"
+	"*** Wall Opening ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1999542"
-		"m_iname"		"breakgate1_3"
+		"chi"		"**墙壁移开了！**"
 	}
-	"1973839"
+	"*** HOLD 30 seconds ! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1973839"
-		"m_iname"		"1_sunswitch2"
+		"chi"		"**防守30秒！**"
 	}
-	"1976510"
+	"*** Resist 10 seconds ! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1976510"
-		"m_iname"		"1_sunblock"
+		"chi"		"**坚持10秒！**"
 	}
-	"1834199"
+	"*** Door Opens in 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1834199"
-		"m_iname"		"1_sunswitch1"
+		"chi"		"**大门5秒后打开！**"
 	}
-	"1321692"
+	"*** Hold 40 seconds ! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1321692"
-		"m_iname"		"breakgate1_1"
+		"chi"		"**守住40秒！**"
+		"DoorCountdown"		"40"
 	}
-	"1344149"
+	"---Feedback:noojeff@gmail.com---"
 	{
-		"enable"		"0"
-		"hammerid"		"1344149"
-		"m_iname"		"breakgate1_2"
+		"chi"		"** **"
 	}
-	"1730496"
+	"---Special Thank To:HZM654321 and JackBauer123---"
 	{
-		"enable"		"0"
-		"hammerid"		"1730496"
-		"m_iname"		"breakable1_1"
+		"chi"		"** **"
 	}
-	"1747477"
+	"*** Human beat red emblem !! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1747477"
-		"m_iname"		"breakable1_13"
+		"chi"		"**人类攻击红色标志 **"
 	}
-	"2253720"
+	"*** HOLD ON ! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2253720"
-		"m_iname"		"nukegara_breakable&0071"
+		"chi"		"**守住 **"
+	}
+	"*** Entrance Door will close in 1 minutes ! ***"
+	{
+		"chi"		"**入口将在一分钟之后打开！**"
+		"DoorCountdown"		"60"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"**杀死所有僵尸 **"
+	}
+	"*** Stage Completed ***"
+	{
+		"chi"		"**阶段完成 **"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** Wall opens in 30 seconds ! ***"
+	{
+		"chi"		"**墙将在30秒后打开 **"
+	}
+	"*** Door opens in 20 seconds ! ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** Hold here ***"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"*** Door opening in 20 seconds ! ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** Resist 20 seconds ! ***"
+	{
+		"chi"		"**防守20秒 **"
+	}
+	"*** Superior door opens in 30 seconds ! ***"
+	{
+		"chi"		"**门将在30秒后打开 **"
+	}
+	"*** HOLD 20 seconds ! ***"
+	{
+		"chi"		"**守住20秒 **"
+	}
+	"*** Hold 25 seconds ! ***"
+	{
+		"chi"		"**守住25秒 **"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"*** Wall opens in 20 seconds ! ***"
+	{
+		"chi"		"**墙将在20秒后打开 **"
+	}
+	"*** Door opens in 15 seconds ! ***"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"*** Door opening in 10 seconds ! ***"
+	{
+		"chi"		"**门将在10秒后打开 **"
+	}
+	"*** Door opens in 10 seconds ! ***"
+	{
+		"chi"		"**门将在10秒后打开 **"
 	}
 }

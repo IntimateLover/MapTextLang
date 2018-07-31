@@ -1,147 +1,62 @@
-"BOSSHP"
+"Console_T"
 {
-	"1875668"
+	"**** MAP BY AERIS_004 ****"
 	{
-		"enable"		"0"
-		"hammerid"		"1875668"
-		"m_iname"		"grateTrap"
+		"chi"		"**地图制作：AERIS_004 地图翻译：清新的二哈♪**"
 	}
-	"1839715"
+	"*** WWW.SUPREME-ELITE.FR ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1839715"
-		"m_iname"		"trainHitbox"
+		"chi"		"** **"
 	}
-	"1799041"
+	"***START ELEVATOR 15 SEC***"
 	{
-		"enable"		"0"
-		"hammerid"		"1799041"
-		"m_iname"		"outDoor"
+		"chi"		"**电梯将在15s后运行 **"
 	}
-	"1267195"
+	"***ELEVATOR UP 14 SEC***"
 	{
-		"enable"		"0"
-		"hammerid"		"1267195"
-		"m_iname"		"TrainGlass"
+		"chi"		"** **"
 	}
-	"1267206"
+	"*** CATCH GOLD MEDAL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1267206"
-		"m_iname"		"TrainGlass2"
+		"chi"		"**得到金币 **"
 	}
-	"1267211"
+	"***GENERATOR DESACTIVED***"
 	{
-		"enable"		"0"
-		"hammerid"		"1267211"
-		"m_iname"		"TrainGlass3"
+		"chi"		"** **"
 	}
-	"1267216"
+	"***CATCH FUSE***"
 	{
-		"enable"		"0"
-		"hammerid"		"1267216"
-		"m_iname"		"TrainGlass4"
+		"chi"		"**得到保险丝 **"
 	}
-	"1267221"
+	"***CATCH SILVER MEDAL***"
 	{
-		"enable"		"0"
-		"hammerid"		"1267221"
-		"m_iname"		"TrainGlass5"
+		"chi"		"**得到银币 **"
 	}
-	"239970"
+	"*** START TRAIN 20 SEC ***"
 	{
-		"enable"		"0"
-		"hammerid"		"239970"
-		"m_iname"		"door_03"
+		"chi"		"**缆车将在20s后运行 **"
 	}
-	"459842"
+	"*** START TRAIN 10 SEC ***"
 	{
-		"enable"		"0"
-		"hammerid"		"459842"
-		"m_iname"		"piege_1"
+		"chi"		"**缆车将在10s后运行 **"
 	}
-	"483523"
+	"***START ELEVATOR 25 SEC***"
 	{
-		"enable"		"0"
-		"hammerid"		"483523"
-		"m_iname"		"breck_1"
+		"chi"		"**电梯将在25s后运行 **"
 	}
-	"1998575"
+	"*** GAS ACTIVATED 40 SEC ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1998575"
-		"m_iname"		"elevatorCollision"
+		"chi"		"**沙林毒气将在40s后释放 **"
 	}
-	"1923206"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"1923206"
-		"m_iname"		"doorCollision"
+		"syncvalue"		"91927"
 	}
-	"1923214"
+	"MapGlobal_ConVars"
 	{
-		"enable"		"0"
-		"hammerid"		"1923214"
-		"m_iname"		"doorCollision"
-	}
-	"1923219"
-	{
-		"enable"		"0"
-		"hammerid"		"1923219"
-		"m_iname"		"doorCollision"
-	}
-	"1923224"
-	{
-		"enable"		"0"
-		"hammerid"		"1923224"
-		"m_iname"		"doorCollision"
-	}
-	"2144863"
-	{
-		"enable"		"0"
-		"hammerid"		"2144863"
-		"m_iname"		"TrainGlassCollision"
-	}
-	"2145047"
-	{
-		"enable"		"0"
-		"hammerid"		"2145047"
-		"m_iname"		"TrainGlassCollisionBreakable"
-	}
-	"2145053"
-	{
-		"enable"		"0"
-		"hammerid"		"2145053"
-		"m_iname"		"TrainGlassCollisionBreakable"
-	}
-	"2145059"
-	{
-		"enable"		"0"
-		"hammerid"		"2145059"
-		"m_iname"		"TrainGlassCollisionBreakable"
-	}
-	"2145065"
-	{
-		"enable"		"0"
-		"hammerid"		"2145065"
-		"m_iname"		"TrainGlassCollisionBreakable"
-	}
-	"2145074"
-	{
-		"enable"		"0"
-		"hammerid"		"2145074"
-		"m_iname"		"TrainGlassCollisionBreakable"
-	}
-	"855157"
-	{
-		"enable"		"0"
-		"hammerid"		"855157"
-		"m_iname"		"TrainCollision"
-	}
-	"865835"
-	{
-		"enable"		"0"
-		"hammerid"		"865835"
-		"m_iname"		"ElevatorCollision"
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
 	}
 }

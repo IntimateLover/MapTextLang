@@ -1,237 +1,268 @@
-"BOSSHP"
+"Console_T"
 {
-	"63503"
+	"***LEVER GOING UP IN 5 SECONDS***"
 	{
-		"enable"		"1"
-		"hammerid"		"63503"
-		"m_iname"		"break_bosshold"
+		"chi"		"**平台5秒内上升 **"
 	}
-	"18444"
+	"***MAP BY - LUFFAREN***"
 	{
-		"enable"		"1"
-		"hammerid"		"18444"
-		"m_iname"		"boss_nadedetect"
+		"chi"		"**地图制作:LUFFAREN 地图翻译:不清新的木心♪ **"
 	}
-	"18515"
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
-		"enable"		"1"
-		"hammerid"		"18515"
-		"m_iname"		"boss_phys2"
+		"chi"		"**不要尝试跳近路-它会把你传送回去的 **"
+		"ico"   "icon_fire"
 	}
-	"63826"
+	"***FOLLOW THE ARROWS TO AVOID DEAD ENDS***"
 	{
-		"enable"		"1"
-		"hammerid"		"63826"
-		"m_iname"		"boss_break_cage"
+		"chi"		"**跟着箭头走，以避免死胡同 **"
+		"ico"   "icon_fire"
 	}
-	"22914"
+	"***DOOR OPENING IN 10 SECONDS***"
 	{
-		"enable"		"1"
-		"hammerid"		"22914"
-		"m_iname"		"boss_break"
+		"chi"		"**大门在10秒内打开 **"
 	}
-	"218310"
+	"***DOOR IS OPEN - FALL BACK***"
 	{
-		"enable"		"1"
-		"hammerid"		"218310"
-		"m_iname"		"boss_phys"
+		"chi"		"**大门已打开，快走 **"
 	}
-	"204011"
+	"***THE PEANUT BUTTER HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"204011"
-		"m_iname"		"i_item_visual7&5932"
+		"chi"		"**花生酱已被捡起(范围内减速) **"
 	}
-	"18489"
+	"***INCOMING TOAST - BOTH CHAMBERS***"
 	{
-		"enable"		"0"
-		"hammerid"		"18489"
-		"m_iname"		"i_phys1&0939"
+		"chi"		"**插入烤面包-两个房间  **"
 	}
-	"204094"
+	"***A TOASTER HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"204094"
-		"m_iname"		"i_item_visual6&5989"
+		"chi"		"**烤面包已被捡起(击中定身) **"
 	}
-	"204176"
+	"***DOOR OPENING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"204176"
-		"m_iname"		"i_item_visual1&1156"
+		"chi"		"**大门5秒内开启 **"
 	}
-	"62312"
+	"***DOOR IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"62312"
-		"m_iname"		"break_toast_rightside"
+		"chi"		"**大门已打开 **"
 	}
-	"62492"
+	"***LOCATE AND PRESS ALL FIVE BUTTONS***"
 	{
-		"enable"		"0"
-		"hammerid"		"62492"
-		"m_iname"		"break_toast_leftside"
+		"chi"		"**按下5个按钮 **"
 	}
-	"53780"
+	"***BUTTON PRESSED***"
 	{
-		"enable"		"0"
-		"hammerid"		"53780"
-		"m_iname"		"blocker_r"
+		"chi"		"**按钮已按下 **"
 	}
-	"53798"
+	"***INITIATE THE TOASTER***"
 	{
-		"enable"		"0"
-		"hammerid"		"53798"
-		"m_iname"		"blocker_s"
+		"chi"		"**启动烤箱 **"
 	}
-	"53813"
+	"***A JALAPENO HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"53813"
-		"m_iname"		"blocker_q"
+		"chi"		"**牛角已被捡起(小喷火器) **"
 	}
-	"53876"
+	"***INCOMING TOAST - RIGHT CHAMBER***"
 	{
-		"enable"		"0"
-		"hammerid"		"53876"
-		"m_iname"		"blocker_g"
+		"chi"		"**插入烤面包-右边 **"
 	}
-	"53927"
+	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"53927"
-		"m_iname"		"blocker_f"
+		"chi"		"**电梯10秒后离开 **"
 	}
-	"34866"
+	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"34866"
-		"m_iname"		"blocker_j"
+		"chi"		"**电梯5秒后离开 **"
 	}
-	"81291"
+	"***ELEVATOR IS LEAVING IN 4 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"81291"
-		"m_iname"		"break_mideneding"
+		"chi"		"**电梯4秒后离开 **"
 	}
-	"81978"
+	"***ELEVATOR IS LEAVING IN 3 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"81978"
-		"m_iname"		"elevator_ladderbreak"
+		"chi"		"**电梯3秒后离开 **"
 	}
-	"64773"
+	"***ELEVATOR IS LEAVING IN 2 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"64773"
-		"m_iname"		"core_break_cage"
+		"chi"		"**电梯2秒后离开 **"
 	}
-	"65114"
+	"***LAGEVATOR IS LEAVING IN 1 SECOND***"
 	{
-		"enable"		"0"
-		"hammerid"		"65114"
-		"m_iname"		"core_break_blocker"
+		"chi"		"**电梯1秒后离开 **"
 	}
-	"65657"
+	"***ELEVATOR IS LEAVING***"
 	{
-		"enable"		"0"
-		"hammerid"		"65657"
-		"m_iname"		"start_break_stairs"
+		"chi"		"**电梯已离开 **"
 	}
-	"53757"
+	"***Door opening in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"53757"
-		"m_iname"		"blocker_l"
+		"chi"		"**大门在20内打开**"
+		"DoorCountDown" "20"
 	}
-	"53849"
+	"***A METAL ASS HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"53849"
-		"m_iname"		"blocker_e"
+		"chi"		"**金属屁屁已被捡起(小推力枪) **"
 	}
-	"53867"
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***"
 	{
-		"enable"		"0"
-		"hammerid"		"53867"
-		"m_iname"		"blocker_d"
+		"chi"		"**烤面包机将要烤面包3分钟（3分钟后爆炸)**"
+		"DoorCountDown" "180"
 	}
-	"53891"
+	"***THIS PLACE IS FALLING APART***"
 	{
-		"enable"		"0"
-		"hammerid"		"53891"
-		"m_iname"		"blocker_p"
+		"chi"		"**这个地方正在坠落并且分离 **"
 	}
-	"53903"
+	"***YOU MUST HURRY***"
 	{
-		"enable"		"0"
-		"hammerid"		"53903"
-		"m_iname"		"blocker_o"
+		"chi"		"**你必须快点 **"
 	}
-	"24644"
+	"***REMOVING DEBRIS - 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"24644"
-		"m_iname"		"elevator_breakable"
+		"chi"		"**清除障碍-5秒 **"
 	}
-	"17876"
+	"***DEBRIS REMOVED - FALL BACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"17876"
-		"m_iname"		"start_break_ladder"
+		"chi"		"**障碍清除-快走 **"
 	}
-	"62545"
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 2 MINUTES***"
 	{
-		"enable"		"0"
-		"hammerid"		"62545"
-		"m_iname"		"blocker_i"
+		"chi"		"**烤面包机将要烤面包2分钟 **"
 	}
-	"53661"
+	"***ELEVATOR IS LEAVING IN 1 SECOND***"
 	{
-		"enable"		"0"
-		"hammerid"		"53661"
-		"m_iname"		"blocker_a"
+		"chi"		"**电梯1秒后离开 **"
 	}
-	"63074"
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***"
 	{
-		"enable"		"0"
-		"hammerid"		"63074"
-		"m_iname"		"blocker_n"
+		"chi"		"**烤面包机将要烤面包1分钟 **"
 	}
-	"53676"
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"53676"
-		"m_iname"		"blocker_h"
+		"chi"		"**烤面包机将要烤面包30秒 **"
 	}
-	"53724"
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"53724"
-		"m_iname"		"blocker_k"
+		"chi"		"**烤面包机将要烤面包20秒 **"
 	}
-	"53562"
+	"***SOME SOUR MILK HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"53562"
-		"m_iname"		"blocker_c"
+		"chi"		"**酸牛奶已被捡起(小炸药桶) **"
 	}
-	"53589"
+	"***YUUCK***"
 	{
-		"enable"		"0"
-		"hammerid"		"53589"
-		"m_iname"		"blocker_b"
+		"chi"		"**啊啊啊啊 **"
 	}
-	"53730"
+	"***INCOMING TOAST - LEFT CHAMBER***"
 	{
-		"enable"		"0"
-		"hammerid"		"53730"
-		"m_iname"		"blocker_m"
+		"chi"		"**插入烤面包-左边 **"
 	}
-	"18464"
+	"***SOMETHING IS BLOCKING THE LEVER***"
 	{
-		"enable"		"0"
-		"hammerid"		"18464"
-		"m_iname"		"i_phys2&5730"
+		"chi"		"**有东西挡住了平台杠杆 **"
+	}
+	"***BREAK THE BLOCKING METAL PIECE UNDERNEATH***"
+	{
+		"chi"		"** 破坏下面的金属片状物**"
+		"ico"   "icon_fire"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"**你做到了 **"
+	}
+	"***HOLD THEM OFF UNTIL THE LEVER IS ALL THE WAY DOWN***"
+	{
+		"chi"		"**阻止他们，直到平台杠杆下滑 **"
+	}
+	"***THE TOASTER HAS BEEN TURNED ON***"
+	{
+		"chi"		"**烤面包机已被打开 **"
+	}
+	"***ESCAPE THE TOASTER***"
+	{
+		"chi"		"**逃离烤面包机(原路返回） **"
+	}
+	"***GET OUT OF THE TOASTER***"
+	{
+		"chi"		"**逃离烤面包机 **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST!***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN FOR IT***"
+	{
+		"chi"		"** 运行它**"
+	}
+	"***THE STAIRS ARE BROKEN***"
+	{
+		"chi"		"**楼梯被破坏了 **"
+	}
+	"***GET UP ALL THE WAY TO THE MIDDLE SECTION ON TOP***"
+	{
+		"chi"		"**走这条路去顶部的中端 **"
+	}
+	"***HOLD THERE FOR AS LONG AS POSSIBLE BEFORE JUMPING ON THE TOASTER***"
+	{
+		"chi"		"**尽可能的守住这里 **"
+	}
+	"***FLY OUT WITH THE TOAST OR DIE***"
+	{
+		"chi"		"**飞出烤面包机或者死亡 **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 10 SECONDS***"
+	{
+		"chi"		"**烤面包机10秒内烤土司面包 **"
+	}
+	"***GET OUT OF THERE***"
+	{
+		"chi"		"**离开那里 **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***"
+	{
+		"chi"		"**烤面包机5秒内烤土司面包 **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***"
+	{
+		"chi"		"**烤面包机4秒内烤土司面包 **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***"
+	{
+		"chi"		"**烤面包机3秒内烤土司面包**"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***"
+	{
+		"chi"		"**烤面包机2秒内烤土司面包 **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***"
+	{
+		"chi"		"**烤面包机1秒内烤土司面包 **"
+	}
+	"***THE TOASTER IS TOASTING TOAST***"
+	{
+		"chi"		"**烤面包机正在烤土司面包 **"
+	}
+	"***GET TOASTED!***"
+	{
+		"chi"		"**拿到烤面包! **"
+	}
+	"***YOU MADE IT***"
+	{
+		"chi"		"**你做到了 **"
+	}
+	"***YOU COMPLETED THE MISSION - AND ESCAPED THE TOASTER***"
+	{
+		"chi"		"**你完成了任务-逃离了烤面包机 **"
+	}
+	"***WAIT A SECOND...***"
+	{
+		"chi"		"**等一会 **"
+	}
+	"***ITS NICOLAS CAGE!***"
+	{
+		"chi"		"** **"
+	}
+	"***UR***"
+	{
+		"chi"		"** **"
 	}
 }

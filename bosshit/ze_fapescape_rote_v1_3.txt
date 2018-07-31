@@ -1,989 +1,450 @@
-"BOSSHP"
+"Console_T"
 {
-	"sal6"
+	"*** Level 1 ***"
 	{
-		"enable"		"0"
+		"chi"		"**[关卡1] -- 翻译：银月筱瑶**"
 	}
-	"item_push5"
+	"* Turning music on *"
 	{
-		"enable"		"0"
+		"chi"		"**开始播放音乐**"
 	}
-	"item_heal4"
+	"*** Player has picked up Pipe bombs ***"
 	{
-		"enable"		"0"
+		"chi"		"**一位玩家拾起了神器：引信地雷**"
 	}
-	"stage2_kappaface"
+	"*** It has 5 uses ***"
 	{
-		"enable"		"0"
+		"chi"		"**地雷只有五个，请不要EZWIN**"
 	}
-	"stage1_boss_phys2"
+	"*** Player has picked up EyeTech Cannon ***"
 	{
-		"enable"		"1"
+		"chi"		"**一位玩家拾起了神器：能量手炮**"
 	}
-	"stage1_boss_phys"
+	"*** It has unlimited uses ***"
 	{
-		"enable"		"1"
+		"chi"		"**它可以被使用无数次**"
 	}
-	"sal4"
+	"*** Player has picked up Lego Maker ***"
 	{
-		"enable"		"0"
+		"chi"		"**一位玩家拾起了神器：乐高墙**"
 	}
-	"st4"
+	"*** It has 10 uses ***"
 	{
-		"enable"		"0"
+		"chi"		"**它可以被使用10次**"
 	}
-	"sal1"
+	"*** Player has picked up PushGun ***"
 	{
-		"enable"		"0"
+		"chi"		"**一位玩家拾起了神器：推力枪**"
 	}
-	"sal2"
+	"*** Player has picked up Heal ***"
 	{
-		"enable"		"0"
+		"chi"		"**一位玩家拾起了神器：奶**"
 	}
-	"sal3"
+	"*** It has 1 use ***"
 	{
-		"enable"		"0"
+		"chi"		"**奥利奥只能用一次，请不要偷吃**"
 	}
-	"2856399"
+	"*** Player has picked up Ammo Box ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2856399"
-		"m_iname"		"ft1&1227"
+		"chi"		"**一位玩家拾起了神器：弹药箱**"
 	}
-	"3405074"
+	"*** Player has picked up Electro gun ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3405074"
-		"m_iname"		"stage1_exbossvents"
+		"chi"		"**一位玩家拾起了神器：电枪**"
 	}
-	"3405134"
+	"*** It has fuel for 10 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3405134"
-		"m_iname"		"stage1_bossbreak1"
+		"chi"		"**电枪有10秒的燃料，最好用来装逼**"
 	}
-	"450680"
+	"*** Player has picked up EyeTech Launcher ***"
 	{
-		"enable"		"1"
-		"hammerid"		"450680"
-		"m_iname"		"first_boss_physic"
+		"chi"		"**一位玩家拾起了神器：榴弹炮**"
 	}
-	"326695"
+	"** Turning on:... **"
 	{
-		"enable"		"0"
-		"hammerid"		"326695"
-		"m_iname"		"item_pipephys&1029"
+		"chi"		"**正在播放：...**"
 	}
-	"3295874"
+	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
 	{
-		"enable"		"0"
-		"hammerid"		"3295874"
-		"m_iname"		"sal5"
+		"chi"		"**注意：[天谴模式]开启**"
 	}
-	"325978"
+	"*** Level 3 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"325978"
-		"m_iname"		"item_blockade4&1177"
+		"chi"		"**[关卡3] -- 翻译：银月筱瑶**"
 	}
-	"483243"
+	"*** Player has picked up Flamethrower ***"
 	{
-		"enable"		"0"
-		"hammerid"		"483243"
-		"m_iname"		"pencil_ammo&1222"
+		"chi"		"**一位玩家拾起了神器：喷火器**"
 	}
-	"3232557"
+	"*** Doors open in 35 Seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3232557"
-		"m_iname"		"stage2_extbreak2"
+		"chi"		"**大门将会在35秒后打开**"
+		"DoorCountdown"		"35"
 	}
-	"463780"
+	"*** Doors open in 25 Seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"463780"
-		"m_iname"		"2nd_boss_physic"
+		"chi"		"**大门将会在25秒后打开**"
 	}
-	"91999"
+	"*** Doors open in 10 Seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"91999"
-		"m_iname"		"stage2_lever1"
+		"chi"		"**大门将会在10秒后打开**"
 	}
-	"161253"
+	"*** Doors are opening ***"
 	{
-		"enable"		"0"
-		"hammerid"		"161253"
-		"m_iname"		"stage2_extbreak1"
+		"chi"		"**门开辣，快跑**"
 	}
-	"473065"
+	"*** Bridge activates in 30 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"473065"
-		"m_iname"		"stage2_normal_bossphys1"
+		"chi"		"**能量桥将会在30秒后启动**"
+		"DoorCountdown"		"30"
 	}
-	"1048579"
+	"*** Bridge activates in 15 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1048579"
-		"m_iname"		"stage2_normal_bossphys2"
+		"chi"		"**能量桥将会在15秒后启动**"
 	}
-	"325743"
+	"*** Hold until the path is cleared ***"
 	{
-		"enable"		"0"
-		"hammerid"		"325743"
-		"m_iname"		"item_bullet1&1043"
+		"chi"		"**守住这里直到门开**"
 	}
-	"3406025"
+	"*** FALL BACK NOW!! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3406025"
-		"m_iname"		"stage3_normalboss_entrance"
+		"chi"		"**快跑**"
 	}
-	"1563045"
+	"*** Door opens in 25 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1563045"
-		"m_iname"		"stage_3_normal_boss_47"
+		"chi"		"**门将会在25秒后打开**"
+		"DoorCountdown"		"25"
 	}
-	"1566790"
+	"*** Door opens in 10 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1566790"
-		"m_iname"		"stage_3_normal_boss_24"
+		"chi"		"**门将会在10秒后打开**"
 	}
-	"1568068"
+	"*** Door is Opening ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1568068"
-		"m_iname"		"stage_3_normal_boss_29"
+		"chi"		"**门开辣**"
 	}
-	"1256875"
+	"*** Door should open quickly ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1256875"
-		"m_iname"		"3rd_boss_physic"
+		"chi"		"**门很快就会开了**"
 	}
-	"326720"
+	"*** Keep holding ***"
 	{
-		"enable"		"0"
-		"hammerid"		"326720"
-		"m_iname"		"item_cannonshoot_1&2070"
+		"chi"		"**再守一会**"
 	}
-	"1568909"
+	"*** Hold them back for 10 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1568909"
-		"m_iname"		"stage_3_normal_boss_31&1624"
+		"chi"		"**帮队友掩护！门10秒后就开**"
+		"DoorCountdown"		"10"
 	}
-	"1519947"
+	"*** FALL BACK ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1519947"
-		"m_iname"		"stage_1_ex_boss_34"
+		"chi"		"**快跑**"
 	}
-	"1473618"
+	"*** Hold them back for a few more seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1473618"
-		"m_iname"		"stage_1_ex_boss_1"
+		"chi"		"**回头掩护队友，门15秒后打开**"
+		"DoorCountdown"		"15"
 	}
-	"1474384"
+	"*** Just a little bit more! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1474384"
-		"m_iname"		"stage_1_ex_boss_11"
+		"chi"		"**再守一小会，就一小会**"
 	}
-	"1337095"
+	"*** Keep holding them back! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1337095"
-		"m_iname"		"BossRollingCrap&2143"
+		"chi"		"**守住，别让僵尸过来**"
 	}
-	"1339053"
+	"*** FALL BACK! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1339053"
-		"m_iname"		"stage_2_ex_boss_14"
+		"chi"		"**快TM跑！**"
 	}
-	"1344131"
+	"*** This is the final hold point! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1344131"
-		"m_iname"		"stage_2_ex_boss_52"
+		"chi"		"**这里是最后的守点了**"
 	}
-	"1339046"
+	"*** Hold them back for final 20 seconds! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1339046"
-		"m_iname"		"stage_2_ex_boss_9&7695"
+		"chi"		"**守住这里20秒**"
+		"DoorCountdown"		"20"
 	}
-	"3107249"
+	"*** 10 seconds left ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3107249"
-		"m_iname"		"final_boss_brk_1"
+		"chi"		"**还剩下10秒**"
 	}
-	"3107281"
+	"*** Zombie at the end ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3107281"
-		"m_iname"		"final_boss_brk_2"
+		"chi"		"**僵尸突破了守点**"
 	}
-	"3107309"
+	"*** YOU FAIL! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3107309"
-		"m_iname"		"final_boss_brk_4"
+		"chi"		"**人类失败**"
 	}
-	"3107323"
+	"*** Elevator leaves in 25 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3107323"
-		"m_iname"		"final_boss_brk_5"
+		"chi"		"**电梯将会在25秒后离开**"
+		"DoorCountdown"		"25"
 	}
-	"3107337"
+	"*** Elevator leaves in 15 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3107337"
-		"m_iname"		"final_boss_brk_6"
+		"chi"		"**电梯将会在15秒后离开**"
 	}
-	"3107295"
+	"*** Elevator leaves in 5 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"3107295"
-		"m_iname"		"final_boss_brk_3"
+		"chi"		"**电梯将会在5秒后离开**"
 	}
-	"2384888"
+	"*** Level Completed! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2384888"
-		"m_iname"		"final_boss_phase_three_46"
+		"chi"		"**关卡完成**"
 	}
-	"2221008"
+	"*** Level 2 ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2221008"
-		"m_iname"		"final_boss_door2"
+		"chi"		"**[关卡2] -- 翻译：银月筱瑶**"
 	}
-	"1994213"
+	"*** Doors open in 30 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1994213"
-		"m_iname"		"final_boss_phase_two_1"
+		"chi"		"**双大门将会在30秒后开启**"
+		"DoorCountdown"		"30"
 	}
-	"1994229"
+	"*** Press both buttons at the same time to open the door! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1994229"
-		"m_iname"		"final_boss_phase_two_34"
+		"chi"		"**同时按下两个按钮来开门**"
 	}
-	"1761394"
+	"*** Buttons pressed! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1761394"
-		"m_iname"		"final_boss_phase_one_34"
+		"chi"		"**成功**"
 	}
-	"1734955"
+	"*** Door opens in 30 seconds! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1734955"
-		"m_iname"		"final_boss_phase_one_14"
+		"chi"		"**大门将会在30秒后打开**"
+		"DoorCountdown"		"30"
 	}
-	"1717063"
+	"*** FALL BACK ****"
 	{
-		"enable"		"1"
-		"hammerid"		"1717063"
-		"m_iname"		"final_boss_phase_one_1"
+		"chi"		"**快跑**"
 	}
-	"1413284"
+	"*** Hold until the path opens ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1413284"
-		"m_iname"		"final_boss_pad"
+		"chi"		"**守住这里直到路开**"
+		"DoorCountdown"		"25"
 	}
-	"2638156"
+	"*** Final door opens in 25 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2638156"
-		"m_iname"		"ext_ship_2"
+		"chi"		"**最后的大门将会在25秒后打开**"
+		"DoorCountdown"		"25"
 	}
-	"1730172"
+	"*** Almost at the end.. ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1730172"
-		"m_iname"		"4th_boss_physic"
+		"chi"		"**已经到达最后的地方了...**"
 	}
-	"1947581"
+	"*** Doors should open soon ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1947581"
-		"m_iname"		"BossRollingCrap2&8311"
+		"chi"		"**门很快就会开**"
+		"DoorCountdown"		"30"
 	}
-	"2019641"
+	"*** 15 seconds left ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2019641"
-		"m_iname"		"smalldwboss_physbox&8162"
+		"chi"		"**还有15秒，顶住**"
 	}
-	"2018175"
+	"*** THIS IS THE FINAL HOLD ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2018175"
-		"m_iname"		"final_boss_phase_two_24"
+		"chi"		"**这里是最终的守点**"
 	}
-	"2374937"
+	"*** Hold for 30 seconds! ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2374937"
-		"m_iname"		"final_boss_phase_three_13&8223"
+		"chi"		"**守住这里30秒**"
+		"DoorCountdown"		"30"
 	}
-	"3577694"
+	"*** 20 more seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577694"
-		"m_iname"		"end_exp5"
+		"chi"		"**守住这里20秒**"
 	}
-	"3577705"
+	"*** 10 more seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577705"
-		"m_iname"		"end_exp5"
+		"chi"		"**守住这里10秒**"
 	}
-	"3577713"
+	"*** Door opens in 25 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577713"
-		"m_iname"		"end_exp5"
+		"chi"		"**门将会在25秒后打开**"
+		"DoorCountdown"		"25"
 	}
-	"3577721"
+	"*** Doors are opening in 25 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577721"
-		"m_iname"		"end_exp5"
+		"chi"		"**门将会在25秒后打开**"
+		"DoorCountdown"		"25"
 	}
-	"3577729"
+	"*** RESIST ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577729"
-		"m_iname"		"end_exp5"
+		"chi"		"**守住僵尸**"
 	}
-	"3577737"
+	"*** Doors are opening in 15 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577737"
-		"m_iname"		"end_exp5"
+		"chi"		"**门将会在15秒后打开**"
 	}
-	"3577745"
+	"*** Doors are opening in 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577745"
-		"m_iname"		"end_exp5"
+		"chi"		"**门将会在5秒后打开***"
 	}
-	"3577753"
+	"*** Hold a bit more! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577753"
-		"m_iname"		"end_exp5"
+		"chi"		"**再守一会**"
 	}
-	"3577797"
+	"*** Path will open shortly! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577797"
-		"m_iname"		"end_exp5"
+		"chi"		"**门很快就会开**"
 	}
-	"3577803"
+	"*** Hold this position for awhile! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577803"
-		"m_iname"		"end_exp5"
+		"chi"		"**守一会这里**"
+		"DoorCountdown"		"25"
 	}
-	"3577809"
+	"*** Doors are opening! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577809"
-		"m_iname"		"end_exp5"
+		"chi"		"**门开辣**"
 	}
-	"3577815"
+	"*** Keep holding until the doors close! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577815"
-		"m_iname"		"end_exp5"
+		"chi"		"**守住这里直到门关**"
 	}
-	"3577821"
+	"*** Elevator descends in 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577821"
-		"m_iname"		"end_exp4"
+		"chi"		"**电梯将会在20秒后下降**"
 	}
-	"3577827"
+	"*** HOLD THEM BACK  ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577827"
-		"m_iname"		"end_exp4"
+		"chi"		"**守住这里！**"
 	}
-	"3577833"
+	"*** One final hold! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577833"
-		"m_iname"		"end_exp4"
+		"chi"		"**最后的守点！**"
 	}
-	"3577839"
+	"*** That thing? should leave soon! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577839"
-		"m_iname"		"end_exp4"
+		"chi"		"**这玩意很快就离开了**"
 	}
-	"3577761"
+	"*** THE BOSS IS USING HIS ULTIMATE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577761"
-		"m_iname"		"end_exp3"
+		"chi"		"**BOSS准备放终极了**"
 	}
-	"3577768"
+	"*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577768"
-		"m_iname"		"end_exp3"
+		"chi"		"**在BOSS杀掉我们之前，赶紧打死他**"
 	}
-	"3577845"
+	"*** Elevators leave in 25 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577845"
-		"m_iname"		"end_exp3"
+		"chi"		"**电梯将会在25秒后离开**"
+		"DoorCountdown"		"25"
+		"ico"		"icon_tip"
 	}
-	"3577864"
+	"*** Elevators leave in 15 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577864"
-		"m_iname"		"end_exp3"
+		"chi"		"**电梯将会在15秒后离开**"
 	}
-	"3577877"
+	"*** Elevators leave in 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577877"
-		"m_iname"		"end_exp3"
+		"chi"		"**电梯将会在5秒后离开**"
 	}
-	"3577852"
+	"*** Keep holding! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577852"
-		"m_iname"		"end_exp2"
+		"chi"		"**继续防守**"
 	}
-	"3577858"
+	"*** THE BOSS IS DEAD ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577858"
-		"m_iname"		"end_exp2"
+		"chi"		"**BOSS死了**"
 	}
-	"3577871"
+	"*** WAIT ITS DEAD RIGHT? ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577871"
-		"m_iname"		"end_exp2"
+		"chi"		"**等会，它真的死了？**"
 	}
-	"3577884"
+	"*** LOOKS LIKE THE PLATFORM IS BREAKING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577884"
-		"m_iname"		"end_exp2"
+		"chi"		"**看起来平台正在崩溃**"
 	}
-	"3577691"
+	"*** GET IN THE MIDDLE NOW!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577691"
-		"m_iname"		"end_exp1"
+		"chi"		"**快跑到中间，快！！**"
 	}
-	"3577702"
+	"*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577702"
-		"m_iname"		"end_exp1"
+		"chi"		"**现在它真的死了吧？**"
 	}
-	"3577783"
+	"*** THE EVIL EYE IS DEAD ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577783"
-		"m_iname"		"end_exp1"
+		"chi"		"**恶魔之眼已经死亡**"
 	}
-	"3577786"
+	"*** NOW IS THE TIME TO ESCAPE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577786"
-		"m_iname"		"end_exp1"
+		"chi"		"**现在是逃跑的时候了**"
 	}
-	"3577890"
+	"*** Hold this position for 25 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577890"
-		"m_iname"		"end_exp1"
+		"chi"		"**守住这个点25秒**"
+		"DoorCountdown"		"25"
 	}
-	"3577901"
+	"*** Hold this position for 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577901"
-		"m_iname"		"end_exp1"
+		"chi"		"**守住这个点20秒**"
 	}
-	"3577912"
+	"*** That thing? Leaves in 45 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577912"
-		"m_iname"		"end_exp1"
+		"chi"		"**这玩意45秒后就离开，顶住僵尸**"
+		"DoorCountdown"		"45"
+		"ico"		"icon_tip"
 	}
-	"3577771"
+	"*** 20 SECONDS LEFT ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3577771"
-		"m_iname"		"end_exp6"
+		"chi"		"**还剩下20秒**"
 	}
-	"1564527"
+	"*** 5 seconds left ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1564527"
-		"m_iname"		"stage_3_normal_boss_9"
+		"chi"		"**最后的5秒了**"
 	}
-	"326160"
+	"*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"326160"
-		"m_iname"		"item_push5"
+		"chi"		"**恭喜你，你TM打通了这张地图**"
 	}
-	"325902"
+	"*** 10 more seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"325902"
-		"m_iname"		"item_heal4"
+		"chi"		"**还剩下10秒**"
 	}
-	"2792626"
+	"*** Heli leaves in 30 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2792626"
-		"m_iname"		"stage2_kappaface"
+		"chi"		"**直升机将会在30秒后离开**"
+		"DoorCountdown"		"30"
+		"ico"		"icon_tip"
 	}
-	"1604622"
+	"*** Heli leaves in 15 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1604622"
-		"m_iname"		"stage1_boss_phys2"
+		"chi"		"**直升机将会在15秒后离开**"
 	}
-	"473297"
+	"*** Heli leaves in 5 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"473297"
-		"m_iname"		"stage1_boss_phys"
+		"chi"		"**直升机将会在5秒后离开**"
 	}
-	"2855749"
+	"*** ZOMBIE ON BOARD YOU FAIL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2855749"
-		"m_iname"		"st4"
+		"chi"		"**僵尸上来啦，你输啦**"
 	}
-	"2855789"
+	"*** ZOMBIES ON BOARD YOU FAIL! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2855789"
-		"m_iname"		"st4"
+		"chi"		"**僵尸上来啦，你输啦**"
 	}
-	"3295868"
+	"*** It has 8 uses ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3295868"
-		"m_iname"		"sal3"
+		"chi"		"** **"
 	}
-	"3295852"
+	"*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3295852"
-		"m_iname"		"sal1"
+		"chi"		"**你的所有伤害会被boss吸收并转化为血量ヾ(･ω･`｡)**"
 	}
-	"3295877"
+	"*** DONT SHOOT HIM ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3295877"
-		"m_iname"		"sal6"
+		"chi"		"**别打它~(>_<。)＼**"
 	}
-	"3295871"
+	"*** Hold this position for 30 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"3295871"
-		"m_iname"		"sal4"
+		"chi"		"**坚守30秒**"
 	}
-	"3295865"
+	"The server is about to close the update ,Please update your game"
 	{
-		"enable"		"0"
-		"hammerid"		"3295865"
-		"m_iname"		"sal2"
-	}
-	"127109"
-	{
-		"enable"		"0"
-		"hammerid"		"127109"
-		"m_iname"		"st8"
-	}
-	"3404795"
-	{
-		"enable"		"0"
-		"hammerid"		"3404795"
-		"m_iname"		"stage2_break1"
-	}
-	"3404839"
-	{
-		"enable"		"0"
-		"hammerid"		"3404839"
-		"m_iname"		"stage3_break"
-	}
-	"3404898"
-	{
-		"enable"		"0"
-		"hammerid"		"3404898"
-		"m_iname"		"ext_breakstage1_1"
-	}
-	"3405182"
-	{
-		"enable"		"0"
-		"hammerid"		"3405182"
-		"m_iname"		"stage1_break3"
-	}
-	"3405242"
-	{
-		"enable"		"0"
-		"hammerid"		"3405242"
-		"m_iname"		"stage1_lastvent"
-	}
-	"3405331"
-	{
-		"enable"		"0"
-		"hammerid"		"3405331"
-		"m_iname"		"stage1_winbridge"
-	}
-	"3405336"
-	{
-		"enable"		"0"
-		"hammerid"		"3405336"
-		"m_iname"		"stage1_4lastbridge"
-	}
-	"3405633"
-	{
-		"enable"		"0"
-		"hammerid"		"3405633"
-		"m_iname"		"stage1_trap1"
-	}
-	"3295021"
-	{
-		"enable"		"0"
-		"hammerid"		"3295021"
-		"m_iname"		"se6"
-	}
-	"349163"
-	{
-		"enable"		"0"
-		"hammerid"		"349163"
-		"m_iname"		"stage1_break2"
-	}
-	"758453"
-	{
-		"enable"		"0"
-		"hammerid"		"758453"
-		"m_iname"		"stage3_break4"
-	}
-	"2856988"
-	{
-		"enable"		"0"
-		"hammerid"		"2856988"
-		"m_iname"		"stage1_break4"
-	}
-	"2857053"
-	{
-		"enable"		"0"
-		"hammerid"		"2857053"
-		"m_iname"		"stage1_break4"
-	}
-	"2787792"
-	{
-		"enable"		"0"
-		"hammerid"		"2787792"
-		"m_iname"		"stage1_break4"
-	}
-	"3189515"
-	{
-		"enable"		"0"
-		"hammerid"		"3189515"
-		"m_iname"		"ext_break"
-	}
-	"3189890"
-	{
-		"enable"		"0"
-		"hammerid"		"3189890"
-		"m_iname"		"ext_break"
-	}
-	"1314358"
-	{
-		"enable"		"0"
-		"hammerid"		"1314358"
-		"m_iname"		"ext_break"
-	}
-	"30945"
-	{
-		"enable"		"0"
-		"hammerid"		"30945"
-		"m_iname"		"ext_break"
-	}
-	"39242"
-	{
-		"enable"		"0"
-		"hammerid"		"39242"
-		"m_iname"		"ext_break"
-	}
-	"265327"
-	{
-		"enable"		"0"
-		"hammerid"		"265327"
-		"m_iname"		"ext_break"
-	}
-	"265334"
-	{
-		"enable"		"0"
-		"hammerid"		"265334"
-		"m_iname"		"ext_break"
-	}
-	"350319"
-	{
-		"enable"		"0"
-		"hammerid"		"350319"
-		"m_iname"		"ext_break"
-	}
-	"384124"
-	{
-		"enable"		"0"
-		"hammerid"		"384124"
-		"m_iname"		"ext_break"
-	}
-	"396589"
-	{
-		"enable"		"0"
-		"hammerid"		"396589"
-		"m_iname"		"ext_break"
-	}
-	"409055"
-	{
-		"enable"		"0"
-		"hammerid"		"409055"
-		"m_iname"		"ext_break"
-	}
-	"693407"
-	{
-		"enable"		"0"
-		"hammerid"		"693407"
-		"m_iname"		"ext_break"
-	}
-	"712411"
-	{
-		"enable"		"0"
-		"hammerid"		"712411"
-		"m_iname"		"ext_break"
-	}
-	"2832590"
-	{
-		"enable"		"0"
-		"hammerid"		"2832590"
-		"m_iname"		"tr2"
-	}
-	"2832485"
-	{
-		"enable"		"0"
-		"hammerid"		"2832485"
-		"m_iname"		"tr1"
-	}
-	"3406556"
-	{
-		"enable"		"0"
-		"hammerid"		"3406556"
-		"m_iname"		"stage2_break8"
-	}
-	"3404732"
-	{
-		"enable"		"0"
-		"hammerid"		"3404732"
-		"m_iname"		"stage1_break1"
-	}
-	"3406492"
-	{
-		"enable"		"0"
-		"hammerid"		"3406492"
-		"m_iname"		"stage2_break9"
-	}
-	"2834728"
-	{
-		"enable"		"0"
-		"hammerid"		"2834728"
-		"m_iname"		"stage2_break10"
-	}
-	"160446"
-	{
-		"enable"		"0"
-		"hammerid"		"160446"
-		"m_iname"		"stage2_break6"
-	}
-	"86161"
-	{
-		"enable"		"0"
-		"hammerid"		"86161"
-		"m_iname"		"stage2_door1"
-	}
-	"3190682"
-	{
-		"enable"		"0"
-		"hammerid"		"3190682"
-		"m_iname"		"stage2_break"
-	}
-	"2855091"
-	{
-		"enable"		"0"
-		"hammerid"		"2855091"
-		"m_iname"		"stage2_break"
-	}
-	"2855338"
-	{
-		"enable"		"0"
-		"hammerid"		"2855338"
-		"m_iname"		"stage2_break"
-	}
-	"87544"
-	{
-		"enable"		"0"
-		"hammerid"		"87544"
-		"m_iname"		"stage2_break"
-	}
-	"214963"
-	{
-		"enable"		"0"
-		"hammerid"		"214963"
-		"m_iname"		"stage2_break"
-	}
-	"218188"
-	{
-		"enable"		"0"
-		"hammerid"		"218188"
-		"m_iname"		"stage2_break"
-	}
-	"3404466"
-	{
-		"enable"		"0"
-		"hammerid"		"3404466"
-		"m_iname"		"stage3_trap4_1"
-	}
-	"3404527"
-	{
-		"enable"		"0"
-		"hammerid"		"3404527"
-		"m_iname"		"stage3_trap3_1"
-	}
-	"1255791"
-	{
-		"enable"		"0"
-		"hammerid"		"1255791"
-		"m_iname"		"br2"
-	}
-	"2766712"
-	{
-		"enable"		"0"
-		"hammerid"		"2766712"
-		"m_iname"		"br3"
-	}
-	"3404331"
-	{
-		"enable"		"0"
-		"hammerid"		"3404331"
-		"m_iname"		"stage3_break2"
-	}
-	"3406065"
-	{
-		"enable"		"0"
-		"hammerid"		"3406065"
-		"m_iname"		"stage3_train_2"
-	}
-	"2857484"
-	{
-		"enable"		"0"
-		"hammerid"		"2857484"
-		"m_iname"		"lt1"
-	}
-	"1558783"
-	{
-		"enable"		"0"
-		"hammerid"		"1558783"
-		"m_iname"		"stage_3_heli2"
-	}
-	"3252660"
-	{
-		"enable"		"0"
-		"hammerid"		"3252660"
-		"m_iname"		"stage_3_break3"
-	}
-	"3252673"
-	{
-		"enable"		"0"
-		"hammerid"		"3252673"
-		"m_iname"		"stage_3_break3"
-	}
-	"3253108"
-	{
-		"enable"		"0"
-		"hammerid"		"3253108"
-		"m_iname"		"stage_3_break3"
-	}
-	"2879487"
-	{
-		"enable"		"0"
-		"hammerid"		"2879487"
-		"m_iname"		"stage_3_break3"
-	}
-	"2879710"
-	{
-		"enable"		"0"
-		"hammerid"		"2879710"
-		"m_iname"		"stage_3_break3"
-	}
-	"2786979"
-	{
-		"enable"		"0"
-		"hammerid"		"2786979"
-		"m_iname"		"stage_3_break3"
-	}
-	"2786998"
-	{
-		"enable"		"0"
-		"hammerid"		"2786998"
-		"m_iname"		"stage_3_break3"
-	}
-	"3405449"
-	{
-		"enable"		"0"
-		"hammerid"		"3405449"
-		"m_iname"		"stage1_4lastbridge_extreme"
-	}
-	"3405452"
-	{
-		"enable"		"0"
-		"hammerid"		"3405452"
-		"m_iname"		"stage1_winbridge_extreme"
-	}
-	"2857508"
-	{
-		"enable"		"0"
-		"hammerid"		"2857508"
-		"m_iname"		"lt2"
-	}
-	"1994251"
-	{
-		"enable"		"1"
-		"hammerid"		"1994251"
-		"m_iname"		"final_boss_phase_two_9&4793"
-	}
-	"1338883"
-	{
-		"enable"		"1"
-		"hammerid"		"1338883"
-		"m_iname"		"stage_2_ex_boss_36"
+		"chi"		"** **"
 	}
 }

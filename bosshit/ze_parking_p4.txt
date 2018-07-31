@@ -1,285 +1,235 @@
-"BOSSHP"
+"Console_T"
 {
-	"106888"
+	">>You are the last survivors of the zombie infection<<"
 	{
-		"enable"		"0"
-		"hammerid"		"106888"
-		"m_iname"		"level2_etage9_plafond_phys"
+		"chi"		"**在这次的僵尸感染中你是最后的生存者**"
 	}
-	"130200"
+	">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
 	{
-		"enable"		"0"
-		"hammerid"		"130200"
-		"m_iname"		"level2_etage12_phys"
+		"chi"		"**军队的最后的消息是邀请我们撤离到城市中间的停车场**"
 	}
-	"263707"
+	">>But they won't wait for long time !<<"
 	{
-		"enable"		"0"
-		"hammerid"		"263707"
-		"m_iname"		"level3_etage19_phys4"
+		"chi"		"**但他们不会等我们很久**"
 	}
-	"266263"
+	">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"266263"
-		"m_iname"		"level3_etage19_phys1"
+		"chi"		"**第一关 撤离点：电梯**"
 	}
-	"268728"
+	">>Let's go ! but be carefull ! there are still some zombies around us<<"
 	{
-		"enable"		"0"
-		"hammerid"		"268728"
-		"m_iname"		"level3_etage19_phys2"
+		"chi"		"**我们走!但要小心!这里还是会有僵尸在附近**"
 	}
-	"269552"
+	">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"269552"
-		"m_iname"		"level3_etage19_phys3"
+		"chi"		"**金匕首=可以拿特别的神器**"
 	}
-	"472225"
+	">>>MAP BY LeGrem<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"472225"
-		"m_iname"		"lance_grenade_grenade_phys&4868"
+		"chi"		"**地图作者：LeGrem 翻译:minde**"
 	}
-	"962793"
+	">>>Thx to JorisCeoen for help with models<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"962793"
-		"m_iname"		"electro_phys"
+		"chi"		"** 感谢 JorisCeoen帮忙做模型**"
 	}
-	"47360"
+	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
 	{
-		"enable"		"0"
-		"hammerid"		"47360"
-		"m_iname"		"level2_brk_escalier1"
+		"chi"		"**守30秒直到C4爆炸**"
+		"DoorCountdown"		"30"
 	}
-	"66595"
+	">> RETURN TO COVER THE DOOR <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"66595"
-		"m_iname"		"level1_etage1_mur"
+		"chi"		"** 回去关上门**"
 	}
-	"98190"
+	">>PREPARE TO RUN IN 5 SECONDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"98190"
-		"m_iname"		"level3_brk_escalier1"
+		"chi"		"**5秒后跑人**"
 	}
-	"105099"
+	">>RUN<<"
 	{
-		"enable"		"0"
-		"hammerid"		"105099"
-		"m_iname"		"level2_etage9_plafond"
+		"chi"		"**跑**"
 	}
-	"108412"
+	">>FLOOR UNSTABLE ! TAKE CARE !<<"
 	{
-		"enable"		"0"
-		"hammerid"		"108412"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**地板会碎!小心!**"
 	}
-	"133140"
+	">>TAKE THE ELEVATORS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"133140"
-		"m_iname"		"level2_etage12_break"
+		"chi"		"**上电梯**"
 	}
-	"152591"
+	">>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"152591"
-		"m_iname"		"level2_etage13_break"
+		"chi"		"**电梯30秒后开门**"
 	}
-	"155949"
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"155949"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**你到达了最后一个守点 下回合是第二关**"
 	}
-	"157163"
+	">>AFK TELEPORT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"157163"
-		"m_iname"		"level2_etage13_trappe"
+		"chi"		"**挂机传送**"
 	}
-	"184107"
+	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"184107"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**电梯开门了 15秒后关门**"
+		"DoorCountdown"		"15"
 	}
-	"253511"
+	">>ELEVATORS LEAVING !<<"
 	{
-		"enable"		"0"
-		"hammerid"		"253511"
-		"m_iname"		"level3_toit_break1"
+		"chi"		"**电梯走了**"
 	}
-	"253535"
+	">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"253535"
-		"m_iname"		"level3_toit_break2"
+		"chi"		"**人类胜利 获得使用特别神器的权利**"
 	}
-	"263793"
+	">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"263793"
-		"m_iname"		"level3_etage19_break4"
+		"chi"		"**第二关:撤离点:街道**"
 	}
-	"266172"
+	">>>>Minigun has been picked<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"266172"
-		"m_iname"		"level3_etage19_break1"
+		"chi"		"**加特林被拿了**"
 	}
-	"268637"
+	">>>>Only 15 Proxi Mines<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"268637"
-		"m_iname"		"level3_etage19_break2"
+		"chi"		"**只有15个地雷**"
 	}
-	"269461"
+	">>>>Proxi Mine has been picked<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"269461"
-		"m_iname"		"level3_etage19_break3"
+		"chi"		"**地雷被拿**"
 	}
-	"332059"
+	">>>>Flamethrower has been picked<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"332059"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**喷火器被拿**"
 	}
-	"332918"
+	">>>>Grenade Launcher has been picked<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"332918"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**榴弹发射器被拿**"
 	}
-	"331986"
+	">>ZOMBIES TAKE THE STAIRS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"331986"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**僵尸走楼梯**"
 	}
-	"570745"
+	">>ELEVATOR LEAVING IN 5 SECONDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"570745"
-		"m_iname"		"level2_etage9_brk_bug"
+		"chi"		"**电梯5秒后关门**"
 	}
-	"582148"
+	">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
 	{
-		"enable"		"0"
-		"hammerid"		"582148"
-		"m_iname"		"level3_etage19_phys1_brk"
+		"chi"		"**跑到指挥帐篷去来启动核弹**"
 	}
-	"582164"
+	">>COVER THE EVACUATION AREA 45 SECONDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"582164"
-		"m_iname"		"level3_etage19_phys2_brk"
+		"chi"		"**守住撤离区45秒**"
+		"DoorCountdown"		"45"
 	}
-	"582257"
+	">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
 	{
-		"enable"		"0"
-		"hammerid"		"582257"
-		"m_iname"		"level3_etage19_phys3_brk"
+		"chi"		"**不能给僵尸突破最后的箱子**"
 	}
-	"582269"
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"582269"
-		"m_iname"		"level3_etage19_phys4_brk"
+		"chi"		"**你到达了最后一个守点 下一回合是第3关**"
 	}
-	"583295"
+	">>EXPLOSION IN 5 SECONDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"583295"
-		"m_iname"		"level2_etage12_phys_brk"
+		"chi"		"**5秒后核弹爆炸**"
 	}
-	"620342"
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"620342"
-		"m_iname"		"xtrem_break_a_casser"
+		"chi"		"**不能拿特别神器了!!僵尸进来电梯了!!**"
 	}
-	"822211"
+	">>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"822211"
-		"m_iname"		"level2_break_etage2"
+		"chi"		"**第三关:撤离点:天台**"
 	}
-	"1378146"
+	">>COVER UNTIL CHOPPER ARRIVE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378146"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**守到直升机来**"
 	}
-	"1378436"
+	">>THIS IS THE LAST CHOPPER<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378436"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**这是最后的直升机**"
 	}
-	"1378626"
+	">>YOU ARE THE LAST SURVIVORS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378626"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**你是最后的生存者**"
 	}
-	"1378701"
+	">>EVERYONE HAVE BEEN EVACUATED<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378701"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**所有人都撤离了**"
 	}
-	"1378894"
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378894"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**你到达了最后一个守点 下回合回到第一关**"
 	}
-	"1378921"
+	">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378921"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**极限模式将会在下一回合启动**"
 	}
-	"1378985"
+	">>CHOPPER ON WAY<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378985"
-		"m_iname"		"xtrem_props_supp"
+		"chi"		"**直升机来了**"
 	}
-	"822207"
+	">>CHOPPER LEAVING IN 15 SECONDS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"822207"
-		"m_iname"		"level1_break_etage2"
+		"chi"		"**直升机15秒后离开**"
+		"DoorCountdown"		"15"
 	}
-	"193565"
+	">>5 SECONDS LEFT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"193565"
-		"m_iname"		"level3_brk_escaliertoit"
+		"chi"		"**还有5秒**"
 	}
-	"1378459"
+	">>>EXTREME MODE ACTIVATED<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378459"
-		"m_iname"		"xtrem_props_add"
+		"chi"		"**启动极限模式**"
 	}
-	"1378850"
+	">>>>Only one use<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378850"
-		"m_iname"		"xtrem_props_add"
+		"chi"		"**只能用一次**"
 	}
-	"1378955"
+	">>>>UAV has been picked<<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1378955"
-		"m_iname"		"xtrem_props_add"
+		"chi"		"**无人驾驶飞行器被捡起**"
+	}
+	">>UAV Launched<<"
+	{
+		"chi"		"**发射无人驾驶飞行器**"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
+	{
+		"chi"		"**不能拿特别神器了!!僵尸进来了撤离区**"
+	}
+	">>>>Ammo Dispenser has been picked<<<<"
+	{
+		"chi"		"**无限子弹被拿起**"
+	}
+	">>>RESTART AT NORMAL LEVEL 1<<<"
+	{
+		"chi"		"**下一关将会回到正常的第一关**"
+	}
+	">>But they wont wait for long time !<<"
+	{
+		"chi"		"**但他们不会等我们很久**"
+	}
+	">>Lets go ! but be carefull ! there are still some zombies around us<<"
+	{
+		"chi"		"**走起!但要小心!这里还是有僵尸在附近**"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
+	{
+		"chi"		"**不能拿特别神器了!僵尸进来直升机了**"
+	}
+	">>>>Only one Shot - 10s of loading<<<<"
+	{
+		"chi"		"**就一发！10秒后才会发射**"
+	}
+	">>>>Electro Gun has been picked<<<<"
+	{
+		"chi"		"**电击枪被捡起**"
+	}
+	">>>>Electro Gun shoot in 10s<<<<"
+	{
+		"chi"		"**电击枪10秒后发射**"
 	}
 }

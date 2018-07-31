@@ -1,27 +1,179 @@
-"BOSSHP"
+"Console_T"
 {
-	"73243"
+	"** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **"
 	{
-		"enable"		"0"
-		"hammerid"		"73243"
-		"m_iname"		"AfterCliffordGateway"
+		"chi"		"**托特莫·罗卡（Totemo Roka）就座落于前方，并且，那里还有神圣之城图腾卡（Totghul Ka）**"
 	}
-	"74070"
+	"** Swim to the shore! We must reach the top! **"
 	{
-		"enable"		"0"
-		"hammerid"		"74070"
-		"m_iname"		"BackyardPathway"
+		"chi"		"**游到海岸上！我们必须到达它的顶部**"
 	}
-	"66754"
+	"** We have finally reached the Karuga archipelago... **"
 	{
-		"enable"		"0"
-		"hammerid"		"66754"
-		"m_iname"		"FinalStairsTrigger"
+		"chi"		"**我们终于到达了卡鲁加群岛（Karuga archipelago）。**"
 	}
-	"42160"
+	"** Something moved upon touching the gem... **"
 	{
-		"enable"		"0"
-		"hammerid"		"42160"
-		"m_iname"		"InWallBreakable"
+		"chi"		"**你碰到了奇怪的东西，它开始移动了**"
+		"DoorCountdown"		"25"
+	}
+	"** A relay of sorts seems to be moving in the back -- wait for something to happen! **"
+	{
+		"chi"		"**各种各样的东西似乎在后面移动——请等待有什么事情即将发生！**"
+	}
+	"** The way is clear! We must reach the top of Totemo Roka! **"
+	{
+		"chi"		"**道路已经被清除了！我们必须到达罗卡（ Totemo Roka）的顶部！**"
+	}
+	"** We gotta hold our ground over here! **"
+	{
+		"chi"		"**我们必须坚守住我们阵地！**"
+		"DoorCountdown"		"20"
+	}
+	"** This platform seems like some sort of lift -- do not let anything through!**"
+	{
+		"chi"		"**这个平台看起来像是某种可以移动电梯——不要让任何东西通过!**"
+	}
+	"** Some sort of contraption is rising! Do not let them reach us! **"
+	{
+		"chi"		"**某种奇怪的装置正在上升，不要让他们靠近我们**"
+	}
+	"** The temple seems to rely on elevators upon elevators... **"
+	{
+		"chi"		"**这座古庙似乎依靠着电梯继续上升**"
+		"DoorCountdown"		"30"
+	}
+	"** Keep it up! We cannot afford to have them break through! **"
+	{
+		"chi"		"** **"
+	}
+	"** We reached the first sacred seal! The path should clear soon! **"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"27"
+	}
+	"** The temple may become far more ruthless from this point on... **"
+	{
+		"chi"		"** **"
+	}
+	"** HURRY BACK! The volcano is about to explode! **"
+	{
+		"chi"		"**快跑~!火山要爆发惹！！！**"
+		"DoorCountdown"		"32"
+	}
+	"** We must get to the top! **"
+	{
+		"chi"		"** **"
+	}
+	"** We are very close! Keep it up for the last bit! **"
+	{
+		"chi"		"** **"
+	}
+	"** It shouldnt be hard to reach the summit! **"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"0"
+	}
+	"** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"25"
+	}
+	"** One more push! HOLD IT! **"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"18"
+	}
+	"** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **"
+	{
+		"chi"		"** **"
+	}
+	"** The legend was true! A bridge slashes through the waters of an everblue sea! JUMP! **"
+	{
+		"chi"		"** **"
+	}
+	"** The gem only produced a faint sound, as if the effect was to be felt far away... **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to find a way into the walled temple! Move it! **"
+	{
+		"chi"		"** **"
+	}
+	"** This is the third seal! The gates will open soon! **"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"50"
+	}
+	"** First the entrance will fold, then the inner plaza will show itself to us! **"
+	{
+		"chi"		"** **"
+	}
+	"** MOVE IT! THEY ARE EVERYWHERE! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold your ground! The inner court is behind these doors, waiting for us! **"
+	{
+		"chi"		"** **"
+	}
+	"** Cmon get inside! We have to unlock the energy of the last gems before the volcano blows up! **"
+	{
+		"chi"		"** **"
+	}
+	"** YES! The final seal is right there! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! WE ARE ABOUT TO GO! **"
+	{
+		"chi"		"** **"
+	}
+	"** A secret passageway is opening! **"
+	{
+		"chi"		"** **"
+	}
+	"** This is our chance to break free from the Totema Curse! **"
+	{
+		"chi"		"** **"
+	}
+	"** Touch the gem at the helm -- there cant be much time left! **"
+	{
+		"chi"		"** **"
+	}
+	"** We cracked the last seal! Our escape pod should be here soon! **"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"2"
+		{
+			"cvar"		"sm_he_limit 5"
+		}
+		"3"
+		{
+			"cvar"		"sm_smoke_limit 2"
+		}
+	}
+	"sync_version"
+	{
+		"syncvalue"		"6328"
+	}
+	"** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU ARE DONE! **"
+	{
+		"chi"		"** **"
 	}
 }

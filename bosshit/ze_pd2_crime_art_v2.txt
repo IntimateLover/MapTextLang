@@ -1,159 +1,101 @@
-"BOSSHP"
+"Console_T"
 {
-	"220127"
+	"** MAP MADE BY DARKOGRE AND PATRAO! **"
 	{
-		"enable"		"1"
-		"hammerid"		"220127"
-		"m_iname"		"NPC_Police4_HitBox"
+		"chi"		"**地图作者：DARKOGRE和PATRAD,地图翻译：此用户已删除**"
 	}
-	"220414"
+	"** USE THE COMPUTERS TO OPEN THE DOOR **"
 	{
-		"enable"		"1"
-		"hammerid"		"220414"
-		"m_iname"		"NPC_Police5_HitBox"
+		"chi"		"**使用电脑以打开大门**"
 	}
-	"221216"
+	"** DOOR OPENS IN 20 SECONDS **"
 	{
-		"enable"		"1"
-		"hammerid"		"221216"
-		"m_iname"		"Gun_HitBox"
+		"chi"		"**大门20s后开启**"
+		"DoorCountDown"		"20"
 	}
-	"216049"
+	"** TURN THE LASERS OFF **"
 	{
-		"enable"		"1"
-		"hammerid"		"216049"
-		"m_iname"		"NPC_Police_HitBox"
+		"chi"		"**关闭激光**"
 	}
-	"216172"
+	"** BATHROOM DOOR OPENS IN 15 SECONDS **"
 	{
-		"enable"		"1"
-		"hammerid"		"216172"
-		"m_iname"		"NPC_Police2_HitBox"
+		"chi"		"**浴室门15秒后开启**"
+		"DoorCountDown"		"15"
 	}
-	"216390"
+	"** GO TO THE BATHROOM **"
 	{
-		"enable"		"1"
-		"hammerid"		"216390"
-		"m_iname"		"NPC_Police3_HitBox"
+		"chi"		"**冲向浴室撤离**"
 	}
-	"208351"
+	"** DOOR IS OPEN **"
 	{
-		"enable"		"0"
-		"hammerid"		"208351"
-		"m_iname"		"FenceTruck"
+		"chi"		"**门开了！**"
 	}
-	"131162"
+	"** Truck leaving in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"131162"
-		"m_iname"		"endfence"
+		"chi"		"**卡车还有15s才开**"
+		"DoorCountDown"		"15"
 	}
-	"131271"
+	"** The police wants to stop you! **"
 	{
-		"enable"		"0"
-		"hammerid"		"131271"
-		"m_iname"		"cagedoor"
+		"chi"		"**条子们想抓住我们！小心**"
 	}
-	"131367"
+	"** Shoot them! **"
 	{
-		"enable"		"0"
-		"hammerid"		"131367"
-		"m_iname"		"firstfloorwindows"
+		"chi"		"**向他们射精，哦不，射击！**"
 	}
-	"131384"
+	"** The Elevator will leave in 10 seconds. Don't miss it! **"
 	{
-		"enable"		"0"
-		"hammerid"		"131384"
-		"m_iname"		"kitchendoor"
+		"chi"		"**电梯10s后启动，别错过了！**"
 	}
-	"131394"
+	"** HOLD 40 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"131394"
-		"m_iname"		"bedroomwindow"
+		"chi"		"**死守40s!别划水了咸鱼们！**"
+		"DoorCountDown"		"40"
 	}
-	"131397"
+	"** 5 SECONDS LEFT  **"
 	{
-		"enable"		"0"
-		"hammerid"		"131397"
-		"m_iname"		"staircasefenceroof"
+		"chi"		"**还剩5秒！准备撤离**"
 	}
-	"131401"
+	"** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
 	{
-		"enable"		"0"
-		"hammerid"		"131401"
-		"m_iname"		"halltooffice"
+		"chi"		"**守住厨房！别让傻逼条子们进来！**"
 	}
-	"131404"
+	"** DOOR IS OPENING **"
 	{
-		"enable"		"0"
-		"hammerid"		"131404"
-		"m_iname"		"roffhouse"
+		"chi"		"**卧室的大门已开启，我们可以进去搞基了！**"
 	}
-	"131479"
+	"** HOLD THE BEDROOM **"
 	{
-		"enable"		"0"
-		"hammerid"		"131479"
-		"m_iname"		"staircasefence1"
+		"chi"		"**守住罪恶的卧室！**"
 	}
-	"84837"
+	"** MAKE YOUR WAY TO THE OFFICE **"
 	{
-		"enable"		"0"
-		"hammerid"		"84837"
-		"m_iname"		"RopeWall4"
+		"chi"		"**找到去办公室的路**"
 	}
-	"68810"
+	"** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **"
 	{
-		"enable"		"0"
-		"hammerid"		"68810"
-		"m_iname"		"doorB"
+		"chi"		"**办公室的路貌似在你的右边**"
 	}
-	"68861"
+	"** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **"
 	{
-		"enable"		"0"
-		"hammerid"		"68861"
-		"m_iname"		"doorC"
+		"chi"		"**使用电脑以打开去屋顶的门**"
 	}
-	"70211"
+	"** 30 SECONDS TO UNLOCK THE DOOR **"
 	{
-		"enable"		"0"
-		"hammerid"		"70211"
-		"m_iname"		"RopeWall1"
+		"chi"		"**还有30s才开启去楼顶的门**"
+		"DoorCountDown"		"30"
 	}
-	"70239"
+	"** GET IN THE CHOPPA! **"
 	{
-		"enable"		"0"
-		"hammerid"		"70239"
-		"m_iname"		"RopeWall2"
+		"chi"		"**冲向直升机，payday time!**"
 	}
-	"70266"
+	"** The Elevator will leave in 10 seconds. Dont miss it! **"
 	{
-		"enable"		"0"
-		"hammerid"		"70266"
-		"m_iname"		"RopeWall3"
+		"chi"		"**电梯还有10秒离开，别错过了**"
+		"DoorCountDown"		"10"
 	}
-	"70357"
+	"** HOLD THE KITCHEN! DONT LET ZOMBIES IN! **"
 	{
-		"enable"		"0"
-		"hammerid"		"70357"
-		"m_iname"		"DoorInicial1"
-	}
-	"65675"
-	{
-		"enable"		"0"
-		"hammerid"		"65675"
-		"m_iname"		"GlassInicial"
-	}
-	"42771"
-	{
-		"enable"		"0"
-		"hammerid"		"42771"
-		"m_iname"		"doorA"
-	}
-	"70313"
-	{
-		"enable"		"0"
-		"hammerid"		"70313"
-		"m_iname"		"DoorInicial2"
+		"chi"		"**守住厨房，别让僵尸进来**"
 	}
 }

@@ -1,1077 +1,897 @@
-"BOSSHP"
+"Console_T"
 {
-	"920747"
+	">> Map by Taskuvaras <<"
 	{
-		"enable"		"0"
-		"hammerid"		"920747"
-		"m_iname"		"Ext2_Pika"
+		"chi"		"**地图作者:TaskuVaras 原翻译:水墨涟漪踏无痕**"
 	}
-	"623466"
+	">> Fixed by Moltard <<"
 	{
-		"enable"		"0"
-		"hammerid"		"623466"
-		"m_iname"		"Ditto_Phys"
+		"chi"		"**Moltard完善 后期翻译补充:冰花丶**"
 	}
-	"623405"
+	"[Special Thanks to: Muro#[A] FT]"
 	{
-		"enable"		"0"
-		"hammerid"		"623405"
-		"m_iname"		"Bulba_Phys"
+		"chi"		"**特别感谢:Muro#[A] FT **"
 	}
-	"623441"
+	">> WARMUP ROUND <<"
 	{
-		"enable"		"0"
-		"hammerid"		"623441"
-		"m_iname"		"Charmander_Phys"
+		"chi"		"**热身赛 **"
 	}
-	"623392"
+	">> 40 SECONDS LEFT <<"
 	{
-		"enable"		"0"
-		"hammerid"		"623392"
-		"m_iname"		"Squirtle_Phys"
+		"chi"		"**剩下40秒 **"
 	}
-	"623821"
+	">> 30 SECONDS LEFT <<"
 	{
-		"enable"		"0"
-		"hammerid"		"623821"
-		"m_iname"		"Pikachu_Phys"
+		"chi"		"**剩下30秒 **"
 	}
-	"623469"
+	">> 20 SECONDS LEFT <<"
 	{
-		"enable"		"0"
-		"hammerid"		"623469"
-		"m_iname"		"Ghastly_Phys"
+		"chi"		"**剩下20秒 **"
 	}
-	"1707467"
+	">> 10 SECONDS LEFT <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1707467"
-		"m_iname"		"Ext3_D_Phys"
+		"chi"		"**剩下10秒 **"
 	}
-	"2172082"
+	">> WARMUP ROUND END <<"
 	{
-		"enable"		"1"
-		"hammerid"		"2172082"
-		"m_iname"		"Ext3_SatanBody"
+		"chi"		"**热身赛结束 **"
 	}
-	"1895077"
+	">> IDEA: Sienestaja <<"
 	{
-		"enable"		"1"
-		"hammerid"		"1895077"
-		"m_iname"		"Lvl7_Boss_Phys"
+		"chi"		"** **"
 	}
-	"174100"
+	"[Load ShroomForest Config]"
 	{
-		"enable"		"0"
-		"hammerid"		"174100"
-		"m_iname"		"Wall_2"
+		"chi"		"**载入蘑菇森林地图配置 **"
 	}
-	"174176"
+	">> LEVEL: FLAT GRASS <<"
 	{
-		"enable"		"0"
-		"hammerid"		"174176"
-		"m_iname"		"Wall_1"
+		"chi"		"**关卡:平坦的草地 **"
 	}
-	"475321"
+	"*** WAIT TILL THAT WALL BREAKS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"475321"
-		"m_iname"		"SkyNormal"
+		"chi"		"**等待墙壁破碎 **"
 	}
-	"879510"
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"879510"
-		"m_iname"		"Level_Bar"
+		"chi"		"**墙碎了,跑!!!!!!! **"
 	}
-	"1159169"
+	">> PLAYER HAS PICKED UP ICE <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1159169"
-		"m_iname"		"Ground_3"
+		"chi"		"**一位玩家拿起了冰 **"
 	}
-	"2148665"
+	">> PLAYER HAS PICKED UP FIRE <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2148665"
-		"m_iname"		"TreeShr1"
+		"chi"		"**一位玩家拿起了火 **"
 	}
-	"1827910"
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1827910"
-		"m_iname"		"WarmupCredits"
+		"chi"		"**等待炸弹将木板炸毁 **"
 	}
-	"19120"
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"19120"
-		"m_iname"		"Lvl1_B1_Phys1"
+		"chi"		"**木板碎了,跑!!!!!!! **"
 	}
-	"20886"
+	"*** Leaf 1 leaving in 7 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"20886"
-		"m_iname"		"Lvl1_Sign_L"
+		"chi"		"**第一片叶子将在7秒后离开 **"
+		"DoorCountDown"		"7"
 	}
-	"173975"
+	"*** Leaf 2 leaving in 7 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"173975"
-		"m_iname"		"Lvl1_Brick"
+		"chi"		"**第二片叶子将在7秒后离开 **"
 	}
-	"181787"
+	">> HOLD FOR 30 seconds <<"
 	{
-		"enable"		"0"
-		"hammerid"		"181787"
-		"m_iname"		"Lvl1_Ladder"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"267260"
+	">> 5 more seconds <<"
 	{
-		"enable"		"0"
-		"hammerid"		"267260"
-		"m_iname"		"Lvl1_Cage_Z"
+		"chi"		"**还有5秒 **"
 	}
-	"394282"
+	">> GO! GO! GO! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"394282"
-		"m_iname"		"Lvl1_ExtBreakable"
+		"chi"		"**跑,跑,跑 **"
 	}
-	"449618"
+	"*** OH NO Its an EVIL BUTTERFLY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"449618"
-		"m_iname"		"Lvl1_Door"
+		"chi"		"**哦,不.它是一只邪恶的蝴蝶 **"
 	}
-	"449627"
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"449627"
-		"m_iname"		"Lvl1_Door"
+		"chi"		"**在太晚之前,杀死它!! **"
 	}
-	"806002"
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"806002"
-		"m_iname"		"Lvl1_Tunnel_Wood"
+		"chi"		"**蝴蝶死了,救援来了 **"
 	}
-	"806092"
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
 	{
-		"enable"		"0"
-		"hammerid"		"806092"
-		"m_iname"		"Lvl1_Tunnel_Wood"
+		"chi"		"**蝴蝶将在10秒后离开 **"
+		"DoorCountDown"		"10"
 	}
-	"837190"
+	">> LEVEL COMPLETED!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"837190"
-		"m_iname"		"Lvl1_Sign_L"
+		"chi"		"**关卡完成 **"
 	}
-	"837542"
+	">> LEVEL: BIG TREE <<"
 	{
-		"enable"		"0"
-		"hammerid"		"837542"
-		"m_iname"		"Lvl1_ExtBreakable"
+		"chi"		"**关卡:大树 **"
 	}
-	"848223"
+	"*** HOLD FOR 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"848223"
-		"m_iname"		"Lvl1_ExtBreakable"
+		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
 	}
-	"984220"
+	"*** HOLD FOR 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"984220"
-		"m_iname"		"Lvl1_Tunnel_Wood"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
-	"984452"
+	"*** HOLD FOR 40 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"984452"
-		"m_iname"		"Lvl1_ExtBreakable"
+		"chi"		"**守住40秒 **"
+		"DoorCountDown"		"40"
 	}
-	"394638"
+	"*** HOLD FOR 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"394638"
-		"m_iname"		"Lvl1_ExtBreakable"
+		"chi"		"**守住5秒 **"
+		"DoorCountDown"		"5"
 	}
-	"174134"
+	"*** GO GO GO!!!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"174134"
-		"m_iname"		"Wall_1-3"
+		"chi"		"**跑,跑,跑 **"
 	}
-	"44455"
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"44455"
-		"m_iname"		"Lvl2_Ground"
+		"chi"		"**电梯将在20秒后离开 **"
+		"DoorCountDown"		"20"
 	}
-	"53270"
+	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"53270"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**电梯将在10秒后离开 **"
 	}
-	"53279"
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"53279"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**电梯将在5秒后离开 **"
 	}
-	"53781"
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"53781"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**这是一只愤怒的皮卡丘,射它!! **"
 	}
-	"86323"
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
 	{
-		"enable"		"1"
-		"hammerid"		"86323"
-		"m_iname"		"Lvl2_Boss_Phys"
+		"chi"		"**人类下电梯或者等待你的惩罚带来 **"
 	}
-	"182988"
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"182988"
-		"m_iname"		"Lvl2_Grid4"
+		"chi"		"**皮卡丘正在使用十万伏特,快点继续攻击!!!!!! **"
 	}
-	"234948"
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"234948"
-		"m_iname"		"Lvl2_Sky"
+		"chi"		"**皮卡丘死了,跑向救援蝴蝶 **"
 	}
-	"449485"
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
 	{
-		"enable"		"0"
-		"hammerid"		"449485"
-		"m_iname"		"Lvl2_Grid2"
+		"chi"		"**蝴蝶将在15秒后离开 **"
+		"DoorCountDown"		"15"
 	}
-	"449527"
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"449527"
-		"m_iname"		"Lvl2_Grid1"
+		"chi"		"**僵尸上来了,关卡失败 **"
 	}
-	"67562"
+	">> PLAYER HAS PICKED UP HEAL <<"
 	{
-		"enable"		"0"
-		"hammerid"		"67562"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**一位玩家拿起了奶 **"
 	}
-	"67575"
+	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
-		"enable"		"0"
-		"hammerid"		"67575"
-		"m_iname"		"Lvl2_Door"
+		"chi"		">>>一位玩家拿起了地雷<<<"
 	}
-	"67593"
+	">> PLAYER HAS PICKED UP EARTH <<"
 	{
-		"enable"		"0"
-		"hammerid"		"67593"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**一位玩家拿起了土(墙) **"
 	}
-	"67415"
+	">> ALL 6 MINES USED <<"
 	{
-		"enable"		"0"
-		"hammerid"		"67415"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**所有地雷已经用尽 **"
 	}
-	"67428"
+	">> LEVEL: HELL <<"
 	{
-		"enable"		"0"
-		"hammerid"		"67428"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**关卡:地狱 **"
 	}
-	"67446"
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
-		"enable"		"0"
-		"hammerid"		"67446"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**一位玩家拿起了无限弹药 **"
 	}
-	"65584"
+	"*** HOLD FOR 30 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"65584"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"65597"
+	"*** DOOR IS OPEN! RUUUN! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"65597"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**门开了,跑!!!! **"
 	}
-	"65615"
+	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
-		"enable"		"0"
-		"hammerid"		"65615"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**一位玩家拿起了重力 **"
 	}
-	"66778"
+	">> SECRET IS NOW OPEN <<"
 	{
-		"enable"		"0"
-		"hammerid"		"66778"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**密码已经解开 **"
 	}
-	"66791"
+	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
 	{
-		"enable"		"0"
-		"hammerid"		"66791"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**一位玩家拿起了终极武器 神器:终极 效果:范围秒杀僵尸 **"
 	}
-	"66809"
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
 	{
-		"enable"		"0"
-		"hammerid"		"66809"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**我们需要找到一把钥匙打开这扇被锁住的门 **"
 	}
-	"513267"
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
 	{
-		"enable"		"0"
-		"hammerid"		"513267"
-		"m_iname"		"Lvl2_ExtBreakable"
+		"chi"		"**也许在那些房间的箱子里面 **"
 	}
-	"524535"
+	"*** PLAYER FOUND A KEY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"524535"
-		"m_iname"		"Lvl2_Elevator2_Wall"
+		"chi"		"**一位玩家找到了钥匙 **"
 	}
-	"525744"
+	"*** OH NO!! ITS SATAN!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"525744"
-		"m_iname"		"Lvl2_Elevator2_Wall"
+		"chi"		"**哦,天啊!是撒旦 **"
 	}
-	"590420"
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"590420"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**攻击他,或者被他把你永久奴隶 **"
 	}
-	"590430"
+	"*** THROW GRENADES TO KILL IT EASIER ***"
 	{
-		"enable"		"0"
-		"hammerid"		"590430"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**扔手榴弹容易杀死他 **"
 	}
-	"590440"
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"590440"
-		"m_iname"		"Lvl2_Door"
+		"chi"		"**撒旦受伤了,你可以自由的离开地狱了 **"
 	}
-	"590502"
+	">> WAIT FOR 10 SECONDS <<"
 	{
-		"enable"		"0"
-		"hammerid"		"590502"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590512"
-	{
-		"enable"		"0"
-		"hammerid"		"590512"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590522"
-	{
-		"enable"		"0"
-		"hammerid"		"590522"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590638"
-	{
-		"enable"		"0"
-		"hammerid"		"590638"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590648"
-	{
-		"enable"		"0"
-		"hammerid"		"590648"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590658"
-	{
-		"enable"		"0"
-		"hammerid"		"590658"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590788"
-	{
-		"enable"		"0"
-		"hammerid"		"590788"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590798"
-	{
-		"enable"		"0"
-		"hammerid"		"590798"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590808"
-	{
-		"enable"		"0"
-		"hammerid"		"590808"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590822"
-	{
-		"enable"		"0"
-		"hammerid"		"590822"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590832"
-	{
-		"enable"		"0"
-		"hammerid"		"590832"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590842"
-	{
-		"enable"		"0"
-		"hammerid"		"590842"
-		"m_iname"		"Lvl2_Door"
-	}
-	"590996"
-	{
-		"enable"		"0"
-		"hammerid"		"590996"
-		"m_iname"		"Lvl2_Door"
-	}
-	"591006"
-	{
-		"enable"		"0"
-		"hammerid"		"591006"
-		"m_iname"		"Lvl2_Door"
-	}
-	"591016"
-	{
-		"enable"		"0"
-		"hammerid"		"591016"
-		"m_iname"		"Lvl2_Door"
-	}
-	"760071"
-	{
-		"enable"		"0"
-		"hammerid"		"760071"
-		"m_iname"		"Lvl2_ExtBreakable"
-	}
-	"802463"
-	{
-		"enable"		"0"
-		"hammerid"		"802463"
-		"m_iname"		"Lvl2_Door"
-	}
-	"802477"
-	{
-		"enable"		"0"
-		"hammerid"		"802477"
-		"m_iname"		"Lvl2_Door"
-	}
-	"802487"
-	{
-		"enable"		"0"
-		"hammerid"		"802487"
-		"m_iname"		"Lvl2_Door"
-	}
-	"802599"
-	{
-		"enable"		"0"
-		"hammerid"		"802599"
-		"m_iname"		"Lvl2_Door"
-	}
-	"802613"
-	{
-		"enable"		"0"
-		"hammerid"		"802613"
-		"m_iname"		"Lvl2_Door"
-	}
-	"802623"
-	{
-		"enable"		"0"
-		"hammerid"		"802623"
-		"m_iname"		"Lvl2_Door"
-	}
-	"2114963"
-	{
-		"enable"		"0"
-		"hammerid"		"2114963"
-		"m_iname"		"Lvl2_Grid3"
-	}
-	"804805"
-	{
-		"enable"		"0"
-		"hammerid"		"804805"
-		"m_iname"		"Hell_Hakki"
-	}
-	"20131"
-	{
-		"enable"		"0"
-		"hammerid"		"20131"
-		"m_iname"		"Lvl3_Door1"
-	}
-	"25675"
-	{
-		"enable"		"0"
-		"hammerid"		"25675"
-		"m_iname"		"Lvl3_Devil"
-	}
-	"39345"
-	{
-		"enable"		"0"
-		"hammerid"		"39345"
-		"m_iname"		"Lvl3_Devil"
-	}
-	"41613"
-	{
-		"enable"		"0"
-		"hammerid"		"41613"
-		"m_iname"		"Lvl3_Ground2"
-	}
-	"41637"
-	{
-		"enable"		"0"
-		"hammerid"		"41637"
-		"m_iname"		"Lvl3_Ground1"
-	}
-	"41651"
-	{
-		"enable"		"0"
-		"hammerid"		"41651"
-		"m_iname"		"Lvl3_Ground3"
-	}
-	"41666"
-	{
-		"enable"		"0"
-		"hammerid"		"41666"
-		"m_iname"		"Lvl3_Ground4"
-	}
-	"41674"
-	{
-		"enable"		"0"
-		"hammerid"		"41674"
-		"m_iname"		"Lvl3_Ground0"
-	}
-	"41686"
-	{
-		"enable"		"0"
-		"hammerid"		"41686"
-		"m_iname"		"Lvl3_Ground0"
-	}
-	"41697"
-	{
-		"enable"		"0"
-		"hammerid"		"41697"
-		"m_iname"		"Lvl3_Ground5"
-	}
-	"373455"
-	{
-		"enable"		"0"
-		"hammerid"		"373455"
-		"m_iname"		"Lvl3_SideDoors"
-	}
-	"373486"
-	{
-		"enable"		"0"
-		"hammerid"		"373486"
-		"m_iname"		"Lvl3_SideDoors"
-	}
-	"373808"
-	{
-		"enable"		"0"
-		"hammerid"		"373808"
-		"m_iname"		"Lvl3_SideDoors"
-	}
-	"373840"
-	{
-		"enable"		"0"
-		"hammerid"		"373840"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"373880"
-	{
-		"enable"		"0"
-		"hammerid"		"373880"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"373898"
-	{
-		"enable"		"0"
-		"hammerid"		"373898"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"373934"
-	{
-		"enable"		"0"
-		"hammerid"		"373934"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"373952"
-	{
-		"enable"		"0"
-		"hammerid"		"373952"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374034"
-	{
-		"enable"		"0"
-		"hammerid"		"374034"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374130"
-	{
-		"enable"		"0"
-		"hammerid"		"374130"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374149"
-	{
-		"enable"		"0"
-		"hammerid"		"374149"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374168"
-	{
-		"enable"		"0"
-		"hammerid"		"374168"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374188"
-	{
-		"enable"		"0"
-		"hammerid"		"374188"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374207"
-	{
-		"enable"		"0"
-		"hammerid"		"374207"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374226"
-	{
-		"enable"		"0"
-		"hammerid"		"374226"
-		"m_iname"		"Lvl3_SideBoxes"
-	}
-	"374849"
-	{
-		"enable"		"0"
-		"hammerid"		"374849"
-		"m_iname"		"Lvl3_Door3_Lock"
-	}
-	"376842"
-	{
-		"enable"		"0"
-		"hammerid"		"376842"
-		"m_iname"		"Lvl3_SideDoors"
-	}
-	"378091"
+		"chi"		"**等待10秒 **"
+		"DoorCountDown"		"10"
+		">> LEVEL COMPLETED <<"
+		{
+			"chi"		"**关卡完成 **"
+		}
+		">> EXTREME MODE ADDED <<"
+		{
+			"chi"		"**EX关卡加入 **"
+		}
+		">> BOSSES ON LEVEL II <<"
+		{
+			"chi"		"**2级BOSS **"
+		}
+		"*** HOLD FOR ABOUT 30 SECONDS ***"
+		{
+			"chi"		"**守住30秒 **"
+			"DoorCountDown"		"30"
+		}
+		"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+		{
+			"chi"		"**同时按下两个按钮 **"
+		}
+		"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+		{
+			"chi"		"**努力防守10秒 **"
+			"DoorCountDown"		"10"
+		}
+		">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+		{
+			"chi"		"**一只愤怒的皮卡丘阻挡了这条路 **"
+		}
+		">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+		{
+			"chi"		"**鬼斯出现了,攻击他 **"
+		}
+		">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+		{
+			"chi"		"**鬼斯正在使用变换!!!! **"
+		}
+		">> BUTTERFLY LEAVING IN 30 seconds <<"
+		{
+			"chi"		"**蝴蝶将在30秒后离开 **"
+			"DoorCountDown"		"30"
+		}
+		">> DITTO IS USING SEED ATTACK <<"
+		{
+			"chi"		"**妙蛙种子使用了种子攻击 **"
+		}
+		">> DITTO IS USING FLAMETHROWER <<"
+		{
+			"chi"		"**喷火龙正在使用喷火 **"
+		}
+		">> PLAYER HAS PICKED UP WIND <<"
+		{
+			"chi"		"**一位玩家拿起了风 **"
+		}
+		"*** OH NO!! ITS DRAGON!! ***"
+		{
+			"chi"		"**哦,天啊!!一条龙!! **"
+		}
+		"*** SHOOT IT BEFORE ITS TOO LATE ***"
+		{
+			"chi"		"**在太晚之前杀死它 **"
+		}
+		"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+		{
+			"chi"		"**龙受伤了,你可以自由的离开地狱了 **"
+		}
+		">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+		{
+			"chi"		"**守住你的村庄30秒 **"
+			"DoorCountDown"		"30"
+		}
+		">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
+		{
+			"chi"		"**僵尸进来了,关卡失败 **"
+		}
+		">> You have succesfully saved Shroomforest <<"
+		{
+			"chi"		"**你成功的拯救了蘑菇森林 **"
+		}
+		">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+		{
+			"chi"		"**控制室解锁了新的关卡 **"
+		}
+		">> LEVEL: CHOOSING LEVEL <<"
+		{
+			"chi"		"**关卡:选择关卡 **"
+		}
+		"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+		{
+			"chi"		"**人类到达传送控制室 **"
+		}
+		"*** YOU CAN CHOOSE LEVEL AND MODE ***"
+		{
+			"chi"		"**你可以选择关卡和模式 **"
+		}
+		"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+		{
+			"chi"		"**直到核弹爆炸,你还有60秒的时间来完成 **"
+		}
+		">> PLAYER HAS CHOSEN: HELL EXTREME <<"
+		{
+			"chi"		"**一位玩家选择了:地狱EX **"
+		}
+		"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		{
+			"chi"		"**直到核弹爆炸,你还有45秒的时间来完成 **"
+			"DoorCountDown"		"40"
+		}
+		">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+		{
+			"chi"		"**一位玩家选择了:新的开始 **"
+		}
+		">> NUKE INCOMING IN 5 SECONDS <<"
+		{
+			"chi"		"**核弹将在5秒后到达 **"
+			"DoorCountDown"		"5"
+		}
+		">> LEVEL: A NEW BEGINNING <<"
+		{
+			"chi"		"**关卡:新的开始 **"
+		}
+		"*** THE ELEVATOR WILL FALL DOWN !!! ***"
+		{
+			"chi"		"**电梯掉下去了!!!! **"
+		}
+		"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
+		{
+			"chi"		"**出去,否则你将被困在这里 **"
+		}
+		">> IT LOOK LIKE A NEW PLACE ... <<"
+		{
+			"chi"		"**这里看起来像一个新的地方 **"
+		}
+		">> A WILD PIKACHU IS WAITING FOR US !! <<"
+		{
+			"chi"		"**一只野生的皮卡丘在等着我们 **"
+		}
+		">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
+		{
+			"chi"		"**人类走出电梯准备战斗 **"
+		}
+		"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
+		{
+			"chi"		"**皮卡丘将要倒下,远离它 **"
+		}
+		"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
+		{
+			"chi"		"**这个地方将会是我们新的村庄 **"
+		}
+		"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
+		{
+			"chi"		"**寻找一个方法来关闭电梯门 **"
+		}
+		"*** DONT LET ANY ZOMBIE ENTER !! ***"
+		{
+			"chi"		"**不要让僵尸进来!!! **"
+		}
+		">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
+		{
+			"chi"		"**检测到僵尸,关卡失败 **"
+		}
+		">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
+		{
+			"chi"		"**一位玩家拿起了齿轮 **"
+		}
+		">> GOOD JOB <<"
+		{
+			"chi"		"**好样的 **"
+		}
+		">> THE GRID SHOULD START TO CLOSE <<"
+		{
+			"chi"		"**系统正在关闭 **"
+		}
+		">> You have succefully saved our new village <<"
+		{
+			"chi"		"**你成功拯救了我们新的村庄 **"
+		}
+		"[Load Shroom End Config]"
+		{
+			"chi"		"**载入蘑菇森林结束配置 **"
+		}
+		">> Congratulation ! <<"
+		{
+			"chi"		"**恭喜 **"
+		}
+		">> You beat the map ! <<"
+		{
+			"chi"		"**你打爆了这个地图 **"
+		}
+		">> Play ShroomForest2 to continue the adventure <<"
+		{
+			"chi"		"**继续蘑菇森林2的冒险 **"
+		}
+		">> Feel free to visit the spawn <<"
+		{
+			"chi"		"** **"
+		}
+		">> Quick ZM Mod <<"
+		{
+			"chi"		"** **"
+		}
+		">> Zombies will spawn soon <<"
+		{
+			"chi"		"** **"
+		}
+		">> Survive 1 minute <<"
+		{
+			"chi"		"**生存1分钟 **"
+			"DoorCountDown"		"60"
+		}
+		">> If you change level via admin room <<"
+		{
+			"chi"		"**如果你想改变关卡请到控制室 **"
+		}
+		">> Be sure to press Nuke Button <<"
+		{
+			"chi"		"**确保一定要按下核爆按钮 **"
+		}
+		">> DITTO IS USING WATER... SOMETHING <<"
+		{
+			"chi"		"**杰尼龟正在使用水或者一些别的什么 **"
+		}
+		">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+		{
+			"chi"		"**皮卡丘正在使用十万伏特游到安全的位置 **"
+		}
+		">> DITTO IS USING SOMETHING... FUNNY? <<"
+		{
+			"chi"		"**DITTO正在使用一些东西...好笑吗?? **"
+		}
+		">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+		{
+			"chi"		"**野生的DITTO被打败了,跑!!!!! **"
+		}
+		"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		{
+			"chi"		"**直到核爆,你还有30秒 **"
+			"DoorCountDown"		"30"
+		}
+		">> 5 SECONDS LEFT <<"
+		{
+			"chi"		"**剩余5秒 **"
+		}
+		"*** SATAN IS PREPARING TO ATTACK ***"
+		{
+			"chi"		"**撒旦正在准备攻击 **"
+		}
+		"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		{
+			"chi"		"**直到核爆,你还有15秒 **"
+		}
+		"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		{
+			"chi"		"**直到核爆,你还有10秒 **"
+		}
+		">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
+		{
+			"chi"		"**一位玩家选择了:大树EX **"
+		}
+		">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
+		{
+			"chi"		"**一位玩家选择了:平坦的草地EX **"
+		}
+		"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		{
+			"chi"		"**直到核爆,你还有5秒 **"
+		}
+		"*** SATAN IS ATTACKING ***"
+		{
+			"chi"		"**撒旦正在攻击 **"
+		}
+		">> PLAYER HAS CHOSEN: HELL NORMAL <<"
+		{
+			"chi"		"**一位玩家选择了:普通难度,地狱 **"
+		}
+		">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
+		{
+			"chi"		"**一位玩家选择了:普通难度,大树 **"
+		}
+		">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
+		{
+			"chi"		"**一位玩家选择了:普通难度,平坦的草地 **"
+		}
+		"*** KEEP SHOOTING ***"
+		{
+			"chi"		"**继续射击 **"
+		}
+		">> NOBODY SURVIVED!! LEVEL FAILED!! <<"
+		{
+			"chi"		"**>>无人存活！！本关失败！！<< **"
+		}
+		">> DITTO LEAF ARE DESTROYED <<"
+		{
+			"chi"		"**>>DITTO LEAF被破坏 <<**"
+		}
+		">> BUT ITS NOT VERY EFFECTIVE ! <<"
+		{
+			"chi"		"**>>但它不会那么容易死! << **"
+		}
+	}
+	">> Map ported by 單純 <<"
+	{
+		"chi"		">>>地图移植：单纯 地图翻译：水墨涟漪踏无痕<<<"
+	}
+	">> BUT IT FAILED!!!! <<"
+	{
+		"chi"		"**>> 可是它失败了! ! ! !  <<**"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		"**>>一名玩家拿起风<< **"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"chi"		"**撒旦正准备攻击 **"
+	}
+	"*** SATAN IS ATTACKING ***"
+	{
+		"chi"		"**撒旦正在攻击 **"
+	}
+	"*** KEEP SHOOTING ***"
+	{
+		"chi"		"**继续射击 **"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"chi"		"**>>本关完成.进入下一关 << **"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"**>> 极限模式已加入 << **"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"chi"		"**>> 二级的BOSS << **"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"chi"		"**守住大约30秒 **"
+	}
+	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	{
+		"chi"		"**去同时按下两个按钮 **"
+	}
+	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	{
+		"chi"		"**准备防守10秒 **"
+	}
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	{
+		"chi"		"**>>鬼斯出现了,攻击他！！！ << **"
+	}
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	{
+		"chi"		">>>BOSS正在使用变换<<<"
+	}
+	">> DITTO IS USING SEED ATTACK <<"
+	{
+		"chi"		"**妙蛙种子使用了种子攻击 **"
+	}
+	">> DITTO IS USING FLAMETHROWER <<"
+	{
+		"chi"		"**喷火龙正在使用喷火 **"
+	}
+	">> DITTO IS USING WATER... SOMETHING <<"
 	{
-		"enable"		"0"
-		"hammerid"		"378091"
-		"m_iname"		"Lvl3_Grid2"
+		"chi"		"**杰尼龟使用了水…什么东西 **"
 	}
-	"440315"
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
 	{
-		"enable"		"0"
-		"hammerid"		"440315"
-		"m_iname"		"Lvl3_Devil"
+		"chi"		"**皮卡丘使用了电.快游到安全地带 **"
 	}
-	"458370"
+	">> DITTO IS USING SOMETHING... FUNNY? <<"
 	{
-		"enable"		"0"
-		"hammerid"		"458370"
-		"m_iname"		"Lvl3_Ground_All"
+		"chi"		"**DITTO正在使用一些东西...好笑吗?? **"
 	}
-	"500826"
+	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"500826"
-		"m_iname"		"Lvl3_Door1"
+		"chi"		">>>DITTO被打败了，不会跳刀的回头守住电梯口<<<"
 	}
-	"500844"
+	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"500844"
-		"m_iname"		"Lvl3_Door1"
+		"chi"		"**一只愤怒的皮卡丘阻挡了这条路 **"
 	}
-	"561494"
+	">> BUTTERFLY LEAVING IN 30 seconds <<"
 	{
-		"enable"		"0"
-		"hammerid"		"561494"
-		"m_iname"		"Lvl3_ExtBreakable"
+		"chi"		"**蝴蝶将在30秒后离开 **"
+		"DoorCountDown"		"30"
 	}
-	"837814"
+	"*** OH NO!! ITS DRAGON!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"837814"
-		"m_iname"		"Lvl3_Pillar"
+		"chi"		"**哦,天啊!!一条龙!! **"
 	}
-	"1159454"
+	"*** SHOOT IT BEFORE ITS TOO LATE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1159454"
-		"m_iname"		"Lvl3_ExtBreakable"
+		"chi"		"**在太晚之前杀死它 **"
 	}
-	"1159557"
+	"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1159557"
-		"m_iname"		"Lvl3_Devil"
+		"chi"		"**龙受伤了,你可以自由的离开地狱了 **"
 	}
-	"41522"
+	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
 	{
-		"enable"		"1"
-		"hammerid"		"41522"
-		"m_iname"		"Satan_Boss_Phys"
+		"chi"		"**守住你的村庄30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"804146"
+	">> You have succesfully saved Shroomforest <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804146"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**你成功的拯救了蘑菇森林 **"
 	}
-	"804271"
+	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804271"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**控制室解锁了新的关卡 **"
 	}
-	"804295"
+	">> LEVEL: CHOOSING LEVEL <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804295"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**关卡:选择关卡 **"
 	}
-	"804318"
+	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
 	{
-		"enable"		"0"
-		"hammerid"		"804318"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**人类到达控制室 **"
 	}
-	"804321"
+	"*** YOU CAN CHOOSE LEVEL AND MODE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"804321"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**你可以选择关卡和模式 **"
 	}
-	"804324"
+	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"enable"		"0"
-		"hammerid"		"804324"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**直到核弹爆炸,你还有60秒的时间来完成 **"
 	}
-	"805077"
+	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"enable"		"0"
-		"hammerid"		"805077"
-		"m_iname"		"Hell_Rock1"
+		"chi"		"**直到核弹爆炸,你还有45秒的时间来完成 **"
+		"DoorCountDown"		"45"
 	}
-	"804161"
+	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804161"
-		"m_iname"		"Hell_Rock2"
+		"chi"		"**一位玩家选择了:新的开始 **"
 	}
-	"804283"
+	">> NUKE INCOMING IN 5 SECONDS <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804283"
-		"m_iname"		"Hell_Rock2"
+		"chi"		"**核弹将在5秒后到达 **"
 	}
-	"804292"
+	">> LEVEL: A NEW BEGINNING <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804292"
-		"m_iname"		"Hell_Rock2"
+		"chi"		"**关卡:新的开始 **"
 	}
-	"804327"
+	"*** THE ELEVATOR WILL FALL DOWN !!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"804327"
-		"m_iname"		"Hell_Rock2"
+		"chi"		"**电梯掉下去了!!!! **"
 	}
-	"805083"
+	"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"805083"
-		"m_iname"		"Hell_Rock2"
+		"chi"		"**快点进去，否则你将被困在这里**"
 	}
-	"804181"
+	">> IT LOOK LIKE A NEW PLACE ... <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804181"
-		"m_iname"		"Hell_Rock3"
+		"chi"		"**这里看起来像一个新的地方  **"
 	}
-	"804274"
+	">> A WILD PIKACHU IS WAITING FOR US !! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804274"
-		"m_iname"		"Hell_Rock3"
+		"chi"		"**一只野生的皮卡丘在等着我们 **"
 	}
-	"804289"
+	">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"804289"
-		"m_iname"		"Hell_Rock3"
+		"chi"		"**人类走出电梯准备战斗 **"
 	}
-	"804330"
+	"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
 	{
-		"enable"		"0"
-		"hammerid"		"804330"
-		"m_iname"		"Hell_Rock3"
+		"chi"		"**皮卡丘将要倒下,远离它 **"
 	}
-	"805095"
+	"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"805095"
-		"m_iname"		"Hell_Rock3"
+		"chi"		"**这个地方将会是我们新的村庄 **"
 	}
-	"525394"
+	"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"525394"
-		"m_iname"		"Ext1_Snail_Tunnel"
+		"chi"		"**寻找一个方法来关闭电梯门 **"
 	}
-	"475410"
+	"*** DONT LET ANY ZOMBIE ENTER !! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"475410"
-		"m_iname"		"Lvl1_B1_Phys2"
+		"chi"		"**不要让僵尸进来!!! **"
 	}
-	"512841"
+	">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
 	{
-		"enable"		"0"
-		"hammerid"		"512841"
-		"m_iname"		"Ext2_Breakable"
+		"chi"		"**一位玩家拿起了齿轮 **"
 	}
-	"920669"
+	">> GOOD JOB <<"
 	{
-		"enable"		"0"
-		"hammerid"		"920669"
-		"m_iname"		"Ext2_Breakable2"
+		"chi"		"**好样的 **"
 	}
-	"805169"
+	">> THE GRID SHOULD START TO CLOSE <<"
 	{
-		"enable"		"0"
-		"hammerid"		"805169"
-		"m_iname"		"Lvl1_Sign_R"
+		"chi"		"**系统正在关闭 **"
 	}
-	"837183"
+	">> You have succefully saved our new village <<"
 	{
-		"enable"		"0"
-		"hammerid"		"837183"
-		"m_iname"		"Lvl1_Sign_R"
+		"chi"		"**你成功拯救了我们新的村庄 **"
 	}
-	"394790"
+	">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"394790"
-		"m_iname"		"Ext3_Breakable"
+		"chi"		"**检测到僵尸！！本关失败！！ **"
 	}
-	"394846"
+	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
 	{
-		"enable"		"0"
-		"hammerid"		"394846"
-		"m_iname"		"Ext3_Breakable"
+		"chi"		"**玩家选择了EX3极限地狱**"
 	}
-	"394893"
+	">> Congratulation ! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"394893"
-		"m_iname"		"Ext3_Breakable"
+		"chi"		"**祝贺你**"
 	}
-	"501648"
+	">> You beat the map ! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"501648"
-		"m_iname"		"Ext3_Breakable"
+		"chi"		"**你已经通过了地图**"
 	}
-	"561505"
+	">> Play ShroomForest2 to continue the adventure <<"
 	{
-		"enable"		"0"
-		"hammerid"		"561505"
-		"m_iname"		"Ext3_Breakable"
+		"chi"		"**游玩蘑菇森林2继续你的冒险！！！**"
 	}
-	"1171717"
+	">> Feel free to visit the spawn <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1171717"
-		"m_iname"		"Ext3_Breakable"
+		"chi"		"**去参观出生点**"
 	}
-	"1415576"
+	">> Quick ZM Mode <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1415576"
-		"m_iname"		"Button_Level7_Text"
+		"chi"		"**快速ZM模式**"
 	}
-	"501546"
+	">> Zombies will spawn soon <<"
 	{
-		"enable"		"0"
-		"hammerid"		"501546"
-		"m_iname"		"BabySun"
+		"chi"		"**僵尸即将出现**"
 	}
-	"1825561"
+	">> Survive 1 minute <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1825561"
-		"m_iname"		"Lvl7_Elevator_Grid2"
+		"chi"		"**生存一分钟**"
 	}
-	"1822078"
+	">> 5 SECONDS LEFT <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822078"
-		"m_iname"		"Doors"
+		"chi"		"**5秒剩余**"
 	}
-	"1822081"
+	">> If you change level via admin room <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822081"
-		"m_iname"		"Doors"
+		"chi"		"**当你在调关房间选择好了关卡**"
 	}
-	"1822090"
+	">> Be sure to press Nuke Button <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822090"
-		"m_iname"		"Doors"
+		"chi"		"**确认后按下核爆按钮**"
 	}
-	"1822093"
+	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822093"
-		"m_iname"		"Doors"
+		"chi"		"**玩家选择了:LV2大树**"
 	}
-	"1822102"
+	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822102"
-		"m_iname"		"Doors"
+		"chi"		"**5秒后重新开始关卡**"
 	}
-	"2122607"
+	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2122607"
-		"m_iname"		"TreesShr2"
+		"chi"		"**你还剩下30秒按下核爆按钮**"
 	}
-	"1822234"
+	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1822234"
-		"m_iname"		"Pika_Dead"
+		"chi"		"**诶诶诶 还剩下15秒按下**"
 	}
-	"1976175"
+	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1976175"
-		"m_iname"		"Pika_DeadWall"
+		"chi"		"**剩下10秒了 你怎么还不按下按钮捏**"
 	}
-	"1821978"
+	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1821978"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**剩下5秒了 快点按下！！**"
 	}
-	"1821998"
+	">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1821998"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**检测到僵尸 关卡失败 **"
 	}
-	"1822008"
+	">> DITTO LEAF ARE DESTROYED <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822008"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**妙蛙种子的叶子已被FFF团神器烧毁**"
 	}
-	"1822028"
+	">> BUT ITS NOT VERY EFFECTIVE ! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822028"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**FFF神器烧掉了叶子所以这个攻击看起来并没有什么卵用**"
 	}
-	"1822038"
+	">> NOBODY SURVIVED!! LEVEL FAILED!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822038"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**无人生存 关卡失败**"
 	}
-	"1822058"
+	">> AND ITS NOT VERY EFFECTIVE!!!! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822058"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**而且它并不是非常有效**"
 	}
-	"1824789"
+	">> You have successfully saved our new village <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1824789"
-		"m_iname"		"Lvl8_Elevator"
+		"chi"		"**你已经成功拯救了我们的新蘑菇村**"
 	}
-	"1828855"
+	">> Quick ZM Mod <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1828855"
-		"m_iname"		"Lvl8_Grid"
+		"chi"		"**快速ZM关卡**"
 	}
-	"1909576"
+	">> Find a place to hold and survive 1 minute and 30 seconds! <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1909576"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"**寻找一个地方生存90秒**"
 	}
-	"2131390"
+	">> Map will reset after this current round <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2131390"
-		"m_iname"		"Lvl8_Cade"
+		"chi"		"**关卡重新开始**"
 	}
-	"2131393"
+	">> 60 seconds left <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2131393"
-		"m_iname"		"Lvl8_Cade"
+		"chi"		"** 60秒剩余 保护好你的菊花**"
 	}
-	"2131396"
+	">> DITTO ATTACK IS STOPPED FEW SEC <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2131396"
-		"m_iname"		"Lvl8_Cade"
+		"chi"		"** 干得漂亮 重力搞掉了鬼斯的攻击 但是鬼斯即将在数秒后重新攻击**"
 	}
-	"2131399"
+	">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2131399"
-		"m_iname"		"Lvl8_Cade"
+		"chi"		">>>玩家选择了 极限大树EX2<<<"
 	}
-	"2131402"
+	">> PLAYER HAS CHOSEN: HELL NORMAL <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2131402"
-		"m_iname"		"Lvl8_Cade"
+		"chi"		"** **"
 	}
-	"2131405"
+	">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
 	{
-		"enable"		"0"
-		"hammerid"		"2131405"
-		"m_iname"		"Lvl8_Cade"
+		"chi"		"** **"
 	}
-	"1822018"
+	"The server is about to close the update ,Please update your game"
 	{
-		"enable"		"0"
-		"hammerid"		"1822018"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"** **"
 	}
-	"1822048"
+	">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
 	{
-		"enable"		"0"
-		"hammerid"		"1822048"
-		"m_iname"		"Lvl8_Things"
+		"chi"		"** **"
 	}
 }

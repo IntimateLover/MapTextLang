@@ -1,345 +1,224 @@
-"BOSSHP"
+"Console_T"
 {
-	"812"
+	"***MAP BY thegregster101***"
 	{
-		"enable"		"0"
-		"hammerid"		"812"
-		"m_iname"		"rock05"
+		"chi"		"**地图制作 by thegregster101 地图翻译 by 色狼领袖**"
 	}
-	"814"
+	"***YOU ARE PLAYING ze_minecraft_v1_1***"
 	{
-		"enable"		"0"
-		"hammerid"		"814"
-		"m_iname"		"rock02"
+		"chi"		"**你现在正在玩的是ze_minecraft_v1_1 **"
 	}
-	"816"
+	"***STONE DOOR OPENING***"
 	{
-		"enable"		"0"
-		"hammerid"		"816"
-		"m_iname"		"rock03"
+		"chi"		"**石头门开启！**"
 	}
-	"818"
+	"***BOAT LEAVES IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"818"
-		"m_iname"		"rock01"
+		"chi"		"**船将在 20 秒后离开。**"
+		"DoorCountdown"		"20"
 	}
-	"820"
+	"***BOAT LEAVES IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"820"
-		"m_iname"		"rock04"
+		"chi"		"**船将在 10 秒后离开。**"
 	}
-	"4220"
+	"***PATH BLOCKERS BREAK IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"4220"
-		"m_iname"		"bolder01"
+		"chi"		"**空气墙将在 5 秒后消失。**"
 	}
-	"4242"
+	"***TNT EXPLODING IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"4242"
-		"m_iname"		"bolder03"
+		"chi"		"**TNT将在 30 秒后爆炸。**"
+		"DoorCountdown"		"30"
 	}
-	"4253"
+	"***HOLD THE CAVE!!!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"4253"
-		"m_iname"		"bolder02"
+		"chi"		"**山洞里很危险！尤其要小心滚石！**"
 	}
-	"4286"
+	"***TNT EXPLODING IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"4286"
-		"m_iname"		"bolder04"
+		"chi"		"**TNT将在 20 秒后爆炸。**"
 	}
-	"4301"
+	"***TNT EXPLODING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"4301"
-		"m_iname"		"bolder05"
+		"chi"		"**TNT将在 10 秒后爆炸。**"
 	}
-	"4319"
+	"***TNT EXPLODING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"4319"
-		"m_iname"		"bolder06"
+		"chi"		"**TNT将在 5 秒后爆炸。**"
 	}
-	"24646"
+	"***GOGO.. GET TO THE SLIP GATE***"
 	{
-		"enable"		"0"
-		"hammerid"		"24646"
-		"m_iname"		"creeperhead"
+		"chi"		"**GOGO..进入传送门！**"
 	}
-	"35801"
+	"***AFK TELE TO CAGE IN 15 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"35801"
-		"m_iname"		"bow01"
+		"chi"		"**挂机的玩家将在 15 秒后关进牢笼**"
 	}
-	"62343"
+	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"62343"
-		"m_iname"		"hugebolder01"
+		"chi"		"**南瓜头被捡起来了。**"
 	}
-	"62358"
+	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"62358"
-		"m_iname"		"hugebolder02"
+		"chi"		"**僵尸等待 20 秒传送**"
 	}
-	"62372"
+	"***DOOR OPENING IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"62372"
-		"m_iname"		"hugebolder03"
+		"chi"		"**大门在 15 秒后开启。**"
+		"DoorCountdown"		"15"
 	}
-	"62386"
+	"***DOOR OPENING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"62386"
-		"m_iname"		"hugebolder04"
+		"chi"		"**大门在 10 秒后开启。**"
 	}
-	"66837"
+	"***DOOR OPENING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"66837"
-		"m_iname"		"hugebolder05"
+		"chi"		"**大门在 5 秒后开启。**"
 	}
-	"73090"
+	"***DOOR OPEN... RUN!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"73090"
-		"m_iname"		"creeperhead"
+		"chi"		"**门开了！撤！撤退！！**"
 	}
-	"89626"
+	"***DEFEND THE CASTLE DOORS***"
 	{
-		"enable"		"0"
-		"hammerid"		"89626"
-		"m_iname"		"creeperhead"
+		"chi"		"**守住城门！不要让僵尸靠近！**"
 	}
-	"128017"
+	"***GO GO.. GET TO THE MINE!***"
 	{
-		"enable"		"0"
-		"hammerid"		"128017"
-		"m_iname"		"bridblock"
+		"chi"		"**GO GO ..下矿坑！**"
 	}
-	"139969"
+	"***TROLL FACE HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"139969"
-		"m_iname"		"treehead"
+		"chi"		"**吸引仇恨的头被捡起来了。**开启嘲讽模式**"
 	}
-	"144726"
+	"***YOU BE TROLL'IN***"
 	{
-		"enable"		"0"
-		"hammerid"		"144726"
-		"m_iname"		"bridblock"
+		"chi"		"**你正在吸引仇恨**"
 	}
-	"144729"
+	"***DEFEND FOR 35 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"144729"
-		"m_iname"		"bridblock"
+		"chi"		"**防守 35 秒直至矿车抵达。**"
+                "DoorCountdown"		"35"
 	}
-	"810"
+	"***MINE CARTS ARRIVE IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"810"
-		"m_iname"		"rocks01holder"
+		"chi"		"**矿车将在 30 秒后抵达。**"
 	}
-	"1411"
+	"***MINE CARTS ARRIVE IN 25 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"1411"
-		"m_iname"		"zombieblocker1"
+		"chi"		"**矿车将在 25 秒后抵达。**"
 	}
-	"12117"
+	"***MINE CARTS ARRIVE IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"12117"
-		"m_iname"		"zombieplankfilter"
+		"chi"		"**矿车将在 20 秒后抵达。**"
 	}
-	"13015"
+	"***MINE CARTS ARRIVE IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"13015"
-		"m_iname"		"tntvisableblock"
+		"chi"		"**矿车将在 15 秒后抵达。**"
 	}
-	"13400"
+	"***MINE CARTS ARRIVE IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"13400"
-		"m_iname"		"tntwall"
+		"chi"		"**矿车将在 10 秒后抵达。**"
 	}
-	"25403"
+	"***MINE CARTS ARRIVE IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"25403"
-		"m_iname"		"buttoncover1"
+		"chi"		"**矿车将在 5 秒后抵达。**"
 	}
-	"33705"
+	"***GET ON TOP OF THE MINE CARTS***"
 	{
-		"enable"		"0"
-		"hammerid"		"33705"
-		"m_iname"		"nocampingdoor01"
+		"chi"		"**该上车了伙计们！快上车！**"
 	}
-	"34698"
+	"***BUNKER HAS BEEN REACHED***"
 	{
-		"enable"		"0"
-		"hammerid"		"34698"
-		"m_iname"		"buttoncover2"
+		"chi"		"**已经到达防核爆小屋。**"
 	}
-	"47662"
+	"***BUNKER DOOR OPENING IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"47662"
-		"m_iname"		"railwayblocker1"
+		"chi"		"**防核爆小屋的门将于 20 秒后开启。**"
+		"DoorCountdown"		"20"
 	}
-	"47709"
+	"***DEFEND THE RAILWAY TRACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"47709"
-		"m_iname"		"railwayblocker2"
+		"chi"		"**守住这条轨道**此处应有诱饵弹**"
 	}
-	"62335"
+	"***BUNKER DOOR OPENING IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"62335"
-		"m_iname"		"largrockholder1"
+		"chi"		"**防核爆小屋的门将于 15 秒后开启。**"
 	}
-	"66876"
+	"***BUNKER DOOR OPENING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"66876"
-		"m_iname"		"largrockholder2"
+		"chi"		"**防核爆小屋的门将于 10 秒后开启。**"
 	}
-	"69794"
+	"***BUNKER DOOR OPENING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"69794"
-		"m_iname"		"step1"
+		"chi"		"**防核爆小屋的门将于 5 秒后开启。**"
 	}
-	"69817"
+	"***BUNKER DOOR OPEN!***"
 	{
-		"enable"		"0"
-		"hammerid"		"69817"
-		"m_iname"		"step2"
+		"chi"		"**防核爆小屋的门开了！快进去防守！**"
 	}
-	"69874"
+	"***GET INSIDE THE BUNKER***"
 	{
-		"enable"		"0"
-		"hammerid"		"69874"
-		"m_iname"		"step3"
+		"chi"		"**快进去防守！**"
 	}
-	"69888"
+	"***BUNKER DOOR CLOSING***"
 	{
-		"enable"		"0"
-		"hammerid"		"69888"
-		"m_iname"		"step4"
+		"chi"		"**屋门关闭。**"
 	}
-	"69905"
+	"***NUKE LAUNCHED! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"69905"
-		"m_iname"		"step5"
+		"chi"		"**核武器发射!**"
 	}
-	"69923"
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
 	{
-		"enable"		"0"
-		"hammerid"		"69923"
-		"m_iname"		"step6"
+		"chi"		"**打造钻石剑所需要的材料已收集完毕。**"
 	}
-	"79110"
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
 	{
-		"enable"		"0"
-		"hammerid"		"79110"
-		"m_iname"		"zombieplankfilter2"
+		"chi"		"**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
 	}
-	"79279"
+	"***THIS WILL CRAFT THE SWORD*** "
 	{
-		"enable"		"0"
-		"hammerid"		"79279"
-		"m_iname"		"voltblock"
+		"chi"		"**钻石剑已经被成功打造。**"
 	}
-	"102315"
+	"***THE SWORD HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"102315"
-		"m_iname"		"blueblock"
+		"chi"		"**钻石剑被拾起。**击退**"
 	}
-	"126364"
+	"***SWORD READY***"
 	{
-		"enable"		"0"
-		"hammerid"		"126364"
-		"m_iname"		"cagedoor"
+		"chi"		"**钻石剑CD恢复完毕。**"
 	}
-	"127932"
+	"***CREEPER HEAD HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"127932"
-		"m_iname"		"blockholder"
+		"chi"		"**苦力怕的头被捡起来了。**"
 	}
-	"137075"
+	"***THE BOW HAS BEEN PICKED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"137075"
-		"m_iname"		"stepup"
+		"chi"		"**弓箭被拾起。**高伤害**"
 	}
-	"138414"
+	"***YOU BE TROLLIN***"
 	{
-		"enable"		"0"
-		"hammerid"		"138414"
-		"m_iname"		"buttoncover3"
+		"chi"		"**仇恨不断吸引中**"
 	}
-	"34807"
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
 	{
-		"enable"		"0"
-		"hammerid"		"34807"
-		"m_iname"		"bluegate"
+		"chi"		"**打造钻石剑所需要的材料已收集完毕。**"
 	}
-	"144425"
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
 	{
-		"enable"		"0"
-		"hammerid"		"144425"
-		"m_iname"		"bridbreakable"
+		"chi"		"**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
 	}
-	"136904"
+	"***THIS WILL CRAFT THE SWORD***"
 	{
-		"enable"		"0"
-		"hammerid"		"136904"
-		"m_iname"		"proladder"
+		"chi"		"**钻石剑已经被成功打造。**"
 	}
-	"136889"
+	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
 	{
-		"enable"		"0"
-		"hammerid"		"136889"
-		"m_iname"		"problocker"
+		"chi"		"**检测到木船上存在僵尸**"
 	}
-	"170979"
+	"***BOAT SELF DESTRUCT!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"170979"
-		"m_iname"		"floorbreak"
-	}
-	"208401"
-	{
-		"enable"		"0"
-		"hammerid"		"208401"
-		"m_iname"		"pillerandblocker"
-	}
-	"219872"
-	{
-		"enable"		"0"
-		"hammerid"		"219872"
-		"m_iname"		"zombieblocker2"
-	}
-	"224371"
-	{
-		"enable"		"0"
-		"hammerid"		"224371"
-		"m_iname"		"pronebreaker"
+		"chi"		"**木船自毁装置启动**笑看各位孙杨附体**"
 	}
 }

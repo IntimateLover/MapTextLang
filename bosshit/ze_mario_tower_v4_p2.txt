@@ -1,135 +1,77 @@
-"BOSSHP"
+"Console_T"
 {
-	"5439"
+	"*** Angry sun and chainchomps hate AFKS"
 	{
-		"enable"		"0"
-		"hammerid"		"5439"
-		"m_iname"		"skyguysheild"
+		"chi"		"** 处理AFKS挂机人员 **"
 	}
-	"6012"
+	"*** Right Ladder Wall opens in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6012"
-		"m_iname"		"dropblock1"
+		"chi"		"** 右侧墙梯 将于 5秒 后开启 **"
 	}
-	"6048"
+	"*** Middle Wall opens in 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6048"
-		"m_iname"		"dropblock2"
+		"chi"		"** 中侧墙梯 将于 10秒 后开启 **"
 	}
-	"6079"
+	"*** Left Ladder wall opens in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6079"
-		"m_iname"		"dropblock3"
+		"chi"		"** 左侧墙梯 将于 5秒 后开启 **"
 	}
-	"6125"
+	"***BlockWall Breaks in 30 seconds!***"
 	{
-		"enable"		"0"
-		"hammerid"		"6125"
-		"m_iname"		"thomptrap"
+		"chi"		"** 两侧门墙 将于 30秒 后开启 注意防守 **"
+		"DoorCountDown"		"30"
 	}
-	"6219"
+	"***BlockWall is open***"
 	{
-		"enable"		"0"
-		"hammerid"		"6219"
-		"m_iname"		"bowser_blocks2"
+		"chi"		"** 两侧门墙 已开启 请注意菊花 **"
 	}
-	"6227"
+	"*** Thomp will open in 20 seconds!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"6227"
-		"m_iname"		"bowser_blocks3"
+		"chi"		"** Thomp墙 将于 20秒后 开启 请注意防守 **"
+		"DoorCountDown"		"20"
 	}
-	"6235"
+	"*** Star Door opens in 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6235"
-		"m_iname"		"bowser_blocks4"
+		"chi"		"** 大门 将于 20秒后 开启 请注意防守 **"
+		"DoorCountDown"		"20"
 	}
-	"6243"
+	"*** Star Door opens in 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6243"
-		"m_iname"		"bowser_blocks1"
+		"chi"		"** 大门 将于 20秒后 开启 请注意防守 **"
 	}
-	"5239"
+	"*** Star Door open ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5239"
-		"m_iname"		"wooden2"
+		"chi"		"** 大门已开 请速撤 **"
 	}
-	"5255"
+	"*** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5255"
-		"m_iname"		"chainchompbars"
+		"chi"		"** 90秒后 愤怒的比利太阳 将燃烧世界 **"
 	}
-	"5289"
+	" *** Clouds will raise in 30 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5289"
-		"m_iname"		"Bridgebreak"
+		"chi"		"** 云升起 还有 30秒 请注意防守 **"
+		"DoorCountDown"		"30"
 	}
-	"5327"
+	"*** Clouds will raise in 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5327"
-		"m_iname"		"wallblock"
+		"chi"		"** 云升起 还有 10秒 请注意防守 **"
 	}
-	"5359"
+	"*** Get to the top of the tower before it is too late!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5359"
-		"m_iname"		"blockwallA"
+		"chi"		"** 你身法太差了 为时已晚 **"
 	}
-	"5367"
+	"*** Scorch in 30 seconds!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"5367"
-		"m_iname"		"blockwallB"
+		"chi"		"** FFF燃烧大地之术 施法时间还有 30秒 翻译：肉丸 **"
+		"DoorCountDown"		"30"
 	}
-	"5375"
+	"*** Bowser and his minions are attacking!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5375"
-		"m_iname"		"blockwallC"
+		"chi"		"** **"
 	}
-	"5605"
+	"*** Clouds will raise in 30 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5605"
-		"m_iname"		"zombieladder1"
-	}
-	"5613"
-	{
-		"enable"		"0"
-		"hammerid"		"5613"
-		"m_iname"		"zombieladder2"
-	}
-	"6195"
-	{
-		"enable"		"0"
-		"hammerid"		"6195"
-		"m_iname"		"ctplank"
-	}
-	"6420"
-	{
-		"enable"		"0"
-		"hammerid"		"6420"
-		"m_iname"		"wallblock"
-	}
-	"6574"
-	{
-		"enable"		"0"
-		"hammerid"		"6574"
-		"m_iname"		"towertop"
-	}
-	"6622"
-	{
-		"enable"		"0"
-		"hammerid"		"6622"
-		"m_iname"		"ladderblock"
+		"chi"		"**云还有30秒升起**"
+		"DoorCountDown"		"30"
 	}
 }

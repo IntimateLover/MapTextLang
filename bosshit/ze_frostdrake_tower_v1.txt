@@ -1,193 +1,210 @@
-"BOSSHP"
+"Console_T"
 {
-	"drake_hp"
+	"***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***"
 	{
-		"enable"		"1"
+		"chi"		"**去按下三个机关来开门(咸鱼们不要掉队了)**"
 	}
-	"543276"
+	"***FALL BACK TOWARDS THE TOWER***"
 	{
-		"enable"		"0"
-		"hammerid"		"543276"
-		"m_iname"		"drake_hp"
+		"chi"		"**撤退到塔里**"
 	}
-	"543687"
+	"***ONE LEVER HAS BEEN PRESSED***"
 	{
-		"enable"		"0"
-		"hammerid"		"543687"
-		"m_iname"		"break_final_end"
+		"chi"		"**已经按了[ 1 ]个机关**"
 	}
-	"543762"
+	"***NOW FIND THE FINAL LEVER***"
 	{
-		"enable"		"0"
-		"hammerid"		"543762"
-		"m_iname"		"break_final_zcage"
+		"chi"		"**现在去找最后[ 1 ]个机关**"
 	}
-	"516398"
+	"***BOTH LEVERS HAVE BEEN PRESSED***"
 	{
-		"enable"		"0"
-		"hammerid"		"516398"
-		"m_iname"		"break_final1"
+		"chi"		"**已经按了二个机关**"
 	}
-	"516435"
+	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"516435"
-		"m_iname"		"break_final2"
+		"chi"		"**30秒后开门**"
+		"DoorCountdown"		"30"
 	}
-	"516439"
+	"***THE GATE IS OPENING***"
 	{
-		"enable"		"0"
-		"hammerid"		"516439"
-		"m_iname"		"break_final3"
+		"chi"		"**门开辣!**"
 	}
-	"472251"
+	"***FALL BACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"472251"
-		"m_iname"		"break_voodo2end"
+		"chi"		"**撤退!**"
 	}
-	"457552"
+	"***THE ELEVATOR IS LEAVING IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"457552"
-		"m_iname"		"break_voodo2cage"
+		"chi"		"**电梯15秒后离开**"
 	}
-	"448317"
+	"***THE ELEVATOR IS LEAVING***"
 	{
-		"enable"		"0"
-		"hammerid"		"448317"
-		"m_iname"		"break_voodo2end"
+		"chi"		"**电梯走辣**"
 	}
-	"448389"
+	"***THE GATE WILL OPEN IN 60 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"448389"
-		"m_iname"		"break_voodo2end"
+		"chi"		"**60秒后开门**"
+		"DoorCountdown"		"60"
 	}
-	"448529"
+	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"448529"
-		"m_iname"		"break_final_start"
+		"chi"		"**去找一个人多的好地方守到门开**"
 	}
-	"435171"
+	"***10 SECONDS LEFT***"
 	{
-		"enable"		"0"
-		"hammerid"		"435171"
-		"m_iname"		"toweglassbrek"
+		"chi"		"**还有10秒**"
 	}
-	"438073"
+	"***THE GATE IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"438073"
-		"m_iname"		"break_voodo2"
+		"chi"		"**门开辣!**"
 	}
-	"426748"
+	"***HOLD HERE UNTIL THE DOORS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"426748"
-		"m_iname"		"bigelevator_break1"
+		"chi"		"**守到门开!**"
 	}
-	"426830"
+	"***THE GATE WILL OPEN IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"426830"
-		"m_iname"		"bigelevator_break2"
+		"chi"		"**10秒后开门**"
 	}
-	"426866"
+	"***THE OUTER GATE WILL OPEN IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"426866"
-		"m_iname"		"bigelevator_break3"
+		"chi"		"**外面的门10秒后开**"
 	}
-	"426902"
+	"***THE OUTER GATE IS OPENING***"
 	{
-		"enable"		"0"
-		"hammerid"		"426902"
-		"m_iname"		"bigelevator_break4"
+		"chi"		"**门开辣!**"
 	}
-	"415794"
+	"***HOLD FOR 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"415794"
-		"m_iname"		"towerbreakbrigdeblahblag"
+		"chi"		"**坚守20秒**"
 	}
-	"399791"
+	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"399791"
-		"m_iname"		"break_voodo1zcage"
+		"chi"		"**电梯10秒後离开**"
 	}
-	"383182"
+	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"383182"
-		"m_iname"		"break_prevoodo2"
+		"chi"		"**电梯5秒后离开**"
 	}
-	"364932"
+	"***ELEVATOR IS LEAVING***"
 	{
-		"enable"		"0"
-		"hammerid"		"364932"
-		"m_iname"		"break_towertower"
+		"chi"		"**电梯走辣**"
 	}
-	"356140"
+	"***THE GATES WILL OPEN IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"356140"
-		"m_iname"		"break_upperdingle"
+		"chi"		"**10秒后开门**"
 	}
-	"344830"
+	"***THE TOWER GATE WILL OPEN IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"344830"
-		"m_iname"		"break_uppergate"
+		"chi"		"**15秒后开门**"
 	}
-	"337557"
+	"***THE TOWER GATE IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"337557"
-		"m_iname"		"break_voodo2"
+		"chi"		"**门开辣!**"
 	}
-	"337789"
+	"***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"337789"
-		"m_iname"		"break_blabla"
+		"chi"		"**20秒后开门**"
 	}
-	"326689"
+	"***THE UPPER TOWER GATE IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"326689"
-		"m_iname"		"break_bigelevatorend"
+		"chi"		"**门开辣!**"
 	}
-	"319764"
+	"***THE GATE WILL OPEN IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"319764"
-		"m_iname"		"break_firstelevator"
+		"chi"		"**15秒后开门**"
 	}
-	"305336"
+	"***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"305336"
-		"m_iname"		"break_towerfirstvoodo"
+		"chi"		"**找一个人多的好地方守60秒**"
 	}
-	"259763"
+	"***CLIMB THE TOWER***"
 	{
-		"enable"		"0"
-		"hammerid"		"259763"
-		"m_iname"		"break_blabla2"
+		"chi"		"**快爬上去**"
 	}
-	"220457"
+	"***HOLD FOR 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"220457"
-		"m_iname"		"break_smallbridge"
+		"chi"		"**坚守15秒**"
 	}
-	"102257"
+	"***FALL BACK TOWARDS THE TOP***"
 	{
-		"enable"		"0"
-		"hammerid"		"102257"
-		"m_iname"		"break_bigbridge"
+		"chi"		"**去塔顶!**"
+	}
+	"***IT'S COMING***"
+	{
+		"chi"		"**它来了!!**"
+	}
+	"***PREPARE YOURSELF***"
+	{
+		"chi"		"**同志们准备好**"
+	}
+	"***THE ZOMBIE CAGE IS OPEN***"
+	{
+		"chi"		"**僵尸笼開了!**"
+	}
+	"***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***"
+	{
+		"chi"		"**去拖住僵尸直到你们搞死冰龙**"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"**你们做到了!**"
+	}
+	"*** YOU HAVE SLAYED ANCHELION***"
+	{
+		"chi"		"**你们搞死了冰龙**"
+	}
+	"*** THE CURSE IS BROKEN***"
+	{
+		"chi"		"**诅咒被打破辣**"
+	}
+	"***ESCAPE TOWARDS THE END***"
+	{
+		"chi"		"**现在逃跑吧**"
+	}
+	"***JUMP***"
+	{
+		"chi"		"**信仰之跃!**"
+	}
+	"***YOU WON***"
+	{
+		"chi"		"**你贏了**"
+	}
+	"***MAP MADE BY LUFFAREN***"
+	{
+		"chi"		"**地图制作:LUFFAREN 黄仁勋翻译**"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"chi"		"**感谢游玩**"
+	}
+	"***THE FIRST LEVER HAS BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SECOND LEVER HAS BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***ONE MORE TO GO...***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL LEVERS HAVE BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE GATES ARE OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"30"
+	}
+	"***THE GATES ARE OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS COMING***"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,789 +1,754 @@
-"BOSSHP"
+"Console_T"
 {
-	"52040"
+	"**Map by Tenshi**"
 	{
-		"enable"		"0"
-		"hammerid"		"52040"
-		"m_iname"		"Troll_Phys"
+		"chi"		"**地图制作：Tenshi 地图翻译：蓬莱山帅比♪ **"
 	}
-	"49848"
+	"**Player has picked up <Ultima Magic>**"
 	{
-		"enable"		"1"
-		"hammerid"		"49848"
-		"m_iname"		"Troll_hitbox"
+		"chi"		"**一位玩家从不知名的地区拿到了终极魔导书 **"
 	}
-	"49877"
+	"**Player has picked up <Trace>**"
 	{
-		"enable"		"0"
-		"hammerid"		"49877"
-		"m_iname"		"Troll_phys_nade"
+		"chi"		"**一位玩家从不知名地区拿到复制魔导书**"
 	}
-	"325675"
+	"**Player has picked up <Water Magic>**"
 	{
-		"enable"		"1"
-		"hammerid"		"325675"
-		"m_iname"		"lvl2_boss_light_box"
+		"chi"		"**一位玩家从不知名的地区拿到了漂浮魔导书 **"
 	}
-	"325795"
+	"**Player has picked up <Teleport Crystal>**"
 	{
-		"enable"		"1"
-		"hammerid"		"325795"
-		"m_iname"		"lvl2_boss_fire_box"
+		"chi"		"**一位玩家从不知名的地区拿到了传送水晶 **"
 	}
-	"325819"
+	"**NUKE IN 10 SEC**"
 	{
-		"enable"		"1"
-		"hammerid"		"325819"
-		"m_iname"		"lvl2_boss_dark_box"
+		"chi"		"**核弹10秒到来 **"
 	}
-	"325843"
+	"**NOW USE THE TELEPORT CRYSTAL**"
 	{
-		"enable"		"1"
-		"hammerid"		"325843"
-		"m_iname"		"lvl2_boss_ice_box"
+		"chi"		"**现在使用传送水晶 **"
 	}
-	"325870"
+	"**3**"
 	{
-		"enable"		"1"
-		"hammerid"		"325870"
-		"m_iname"		"lvl2_boss_box"
+		"chi"		"** **"
 	}
-	"295419"
+	"**2**"
 	{
-		"enable"		"0"
-		"hammerid"		"295419"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295515"
+	"**1**"
 	{
-		"enable"		"0"
-		"hammerid"		"295515"
-		"m_iname"		"lvl2_mazedoor4"
+		"chi"		"** **"
 	}
-	"280522"
+	"**Mystery man : Ive studied the crystals you brought back last time**"
 	{
-		"enable"		"0"
-		"hammerid"		"280522"
-		"m_iname"		"lvl2_mazedoor3"
+		"chi"		"**神秘人：我研究了上次你带回的水晶。 **"
 	}
-	"170512"
+	"**Mystery man : Get into the palace , theres a great mystery under it**"
 	{
-		"enable"		"0"
-		"hammerid"		"170512"
-		"m_iname"		"lvl2_palacebreak_L"
+		"chi"		"**神秘人：进入宫殿，在宫殿下面有一个巨大的秘密. **"
 	}
-	"170466"
+	"**Player has picked up <Gravity Magic>**"
 	{
-		"enable"		"0"
-		"hammerid"		"170466"
-		"m_iname"		"lvl2_palacebreak_R"
+		"chi"		"**一位玩家从不知名的地区拿到了黑洞魔导书 **"
 	}
-	"100587"
+	"**Player has picked up <Heal Magic>**"
 	{
-		"enable"		"0"
-		"hammerid"		"100587"
-		"m_iname"		"earth_model"
+		"chi"		"**一位玩家从不知名的地区拿到了治愈魔导书 **"
 	}
-	"648688"
+	"**Player has picked up <Earth Magic>**"
 	{
-		"enable"		"0"
-		"hammerid"		"648688"
-		"m_iname"		"icedr_reflex_box"
+		"chi"		"**一位玩家从不知名的地区拿到了石墙魔导书 **"
 	}
-	"610742"
+	"**Player has picked up <Tornado Magic>**"
 	{
-		"enable"		"1"
-		"hammerid"		"610742"
-		"m_iname"		"icedr_hitbox"
+		"chi"		"**一位玩家从不知名的地区拿到了风暴魔导书 **"
 	}
-	"581049"
+	"**Player has picked up <Lightning Magic>**"
 	{
-		"enable"		"0"
-		"hammerid"		"581049"
-		"m_iname"		"icedr_phys"
+		"chi"		"**一位玩家从不知名的地区拿到了雷电魔导书 **"
 	}
-	"677308"
+	"<WIND>"
 	{
-		"enable"		"0"
-		"hammerid"		"677308"
-		"m_iname"		"lvl3_plt_1"
+		"chi"		"**风 **"
 	}
-	"569340"
+	"**Barlog : Impotent things , go die**"
 	{
-		"enable"		"0"
-		"hammerid"		"569340"
-		"m_iname"		"lvl3_plt_1"
+		"chi"		"**巴洛格：无能的东西，去死 **"
 	}
-	"640891"
+	"**YOUR FAILED**"
 	{
-		"enable"		"0"
-		"hammerid"		"640891"
-		"m_iname"		"zshield_box"
+		"chi"		"**你失败了 **"
 	}
-	"641494"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"641494"
-		"m_iname"		"zshield_box2"
+		"syncvalue"		"25162"
 	}
-	"544287"
+	"**[Admin]STAGE 2**"
 	{
-		"enable"		"0"
-		"hammerid"		"544287"
-		"m_iname"		"lvl3_hum_box"
+		"chi"		"**管理员选择了第二关 **"
 	}
-	"475333"
+	"**[Admin]STAGE 1**"
 	{
-		"enable"		"0"
-		"hammerid"		"475333"
-		"m_iname"		"lvl3_hole"
+		"chi"		"**管理员选择了第一关 **"
 	}
-	"466767"
+	"**Zombie has picked up <Gravity>**"
 	{
-		"enable"		"0"
-		"hammerid"		"466767"
-		"m_iname"		"lvl3_bridge2_fall1"
+		"chi"		"**一位僵尸从不知名的地区学会了黑洞魔法 **"
 	}
-	"466770"
+	"**THANKS FOR PLAYING**"
 	{
-		"enable"		"0"
-		"hammerid"		"466770"
-		"m_iname"		"lvl3_bridge2_fall2"
+		"chi"		"**感谢你的参与 **"
 	}
-	"466773"
+	">>STAGE 1 COMPLETE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466773"
-		"m_iname"		"lvl3_bridge2_fall4"
+		"chi"		"**第一关通过 **"
 	}
-	"466776"
+	"**Zombie has picked up <Ice>**"
 	{
-		"enable"		"0"
-		"hammerid"		"466776"
-		"m_iname"		"lvl3_bridge2_fall5"
+		"chi"		"**一位僵尸从不知名的地区学会了冰冻魔法 **"
 	}
-	"466779"
+	"**NADE DO MORE DAMAGE**"
 	{
-		"enable"		"0"
-		"hammerid"		"466779"
-		"m_iname"		"lvl3_bridge2_fall6"
+		"chi"		"**手雷能造成更多伤害 **"
 	}
-	"466782"
+	"**Balrog : Impotent things , go die**"
 	{
-		"enable"		"0"
-		"hammerid"		"466782"
-		"m_iname"		"lvl3_bridge2_fall7"
+		"chi"		"**巴洛格：无能的东西，去死 **"
 	}
-	"466785"
+	">>STAGE 2 COMPLETE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466785"
-		"m_iname"		"lvl3_bridge2_fall8"
+		"chi"		"**第二关通过 **"
 	}
-	"466788"
+	">>STAGE 3 WILL COME SOON<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466788"
-		"m_iname"		"lvl3_bridge2_fall9"
+		"chi"		"**第三关即将到来 **"
 	}
-	"466791"
+	">>THANKS FOR PLAYING<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466791"
-		"m_iname"		"lvl3_bridge2_fall10"
+		"chi"		"**感谢你的参与 **"
 	}
-	"466794"
+	">>MAZEDOOR OPENING IN 30 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466794"
-		"m_iname"		"lvl3_bridge2_fall11"
+		"chi"		"**迷宫大门30秒后开启 **"
 	}
-	"466797"
+	">>ACTIVATE THE CRYSTAL TOWER AND...<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466797"
-		"m_iname"		"lvl3_bridge2_fall12"
+		"chi"		"**激活水晶塔和... **"
 	}
-	"466800"
+	">>BREAK THE INVERTED CRYSTAL TOWER<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466800"
-		"m_iname"		"lvl3_bridge2_fall13"
+		"chi"		"**打碎倒置的水晶塔 **"
 	}
-	"466803"
+	">>DOOR OPENING IN 15 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466803"
-		"m_iname"		"lvl3_bridge2_fall14"
+		"chi"		"**大门15秒后打开 **"
 	}
-	"466806"
+	">>GATE OPENING IN 15 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466806"
-		"m_iname"		"lvl3_bridge2_fall15"
+		"chi"		"**15秒后开门 **"
 	}
-	"466809"
+	">>HOLD 45 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466809"
-		"m_iname"		"lvl3_bridge2_fall17"
+		"chi"		"**守住45秒 **"
 	}
-	"466812"
+	">>DOOR OPENING IN 25 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466812"
-		"m_iname"		"lvl3_bridge2_fall18"
+		"chi"		"**大门25秒后打开 **"
 	}
-	"466815"
+	">>OUTDOOR OPENING IN 25 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466815"
-		"m_iname"		"lvl3_bridge2_fall"
+		"chi"		"**出口25秒后开启 **"
 	}
-	"466818"
+	">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466818"
-		"m_iname"		"lvl3_bridge2_fall"
+		"chi"		"**看来原来的路被堵住了 **"
 	}
-	"466821"
+	">>TAKE THE OPPOSITE DIRECTION<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466821"
-		"m_iname"		"lvl3_bridge2_fall"
+		"chi"		"**往相反的方向走 **"
 	}
-	"466824"
+	">>TRIGGER THE MECHANISMS ON THE WALL<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466824"
-		"m_iname"		"lvl3_bridge2_fall"
+		"chi"		"**触发墙上的装置 **"
 	}
-	"466827"
+	">>WAIT FOR 10 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"466827"
-		"m_iname"		"lvl3_bridge2_fall"
+		"chi"		"**等待10秒 **"
 	}
-	"468550"
+	">>ACTIVATE FOUR TOWERS<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468550"
-		"m_iname"		"lvl3_bridge1_fall18"
+		"chi"		"**激活四座塔 **"
 	}
-	"468553"
+	">>ALL THE CRYSTAL ACTIVATED , WAIT 25 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468553"
-		"m_iname"		"lvl3_bridge1_fall17"
+		"chi"		"**激活完毕.等待25秒 **"
 	}
-	"468556"
+	">>WAITING THE PLATFORM APPEAR<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468556"
-		"m_iname"		"lvl3_bridge1_fall"
+		"chi"		"**等待平台上升 **"
 	}
-	"468559"
+	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468559"
-		"m_iname"		"lvl3_bridge1_fall15"
+		"chi"		"**它看起来像是一道门.守住25秒 **"
 	}
-	"468562"
+	">>THIS DOOR BREAKING IN 25 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468562"
-		"m_iname"		"lvl3_bridge1_fall14"
+		"chi"		"**这道门25秒后破碎 **"
 	}
-	"468565"
+	">>THE DOOR BREAKING IN 45 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468565"
-		"m_iname"		"lvl3_bridge1_fall"
+		"chi"		"**这道门45秒后破碎 **"
 	}
-	"468568"
+	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468568"
-		"m_iname"		"lvl3_bridge1_fall13"
+		"chi"		"**平台25秒后上升 **"
 	}
-	"468571"
+	">>ELEVATOR LEAVES IN 20 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468571"
-		"m_iname"		"lvl3_bridge1_fall12"
+		"chi"		"**电梯20秒后离开 **"
 	}
-	"468574"
+	">>GET OUT OF HERE QUICKLY<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468574"
-		"m_iname"		"lvl3_bridge1_fall11"
+		"chi"		"**快离开这里 **"
 	}
-	"468577"
+	">>IT SEEMS CONTAIN A BIG ENERGY<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468577"
-		"m_iname"		"lvl3_bridge1_fall10"
+		"chi"		"**它似乎蕴藏着巨大的能量 **"
 	}
-	"468580"
+	">>KEEP DEFENCE , DONT LET THEM OUT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468580"
-		"m_iname"		"lvl3_bridge1_fall1"
+		"chi"		"**守住.别让僵尸出去 **"
 	}
-	"468583"
+	">>MAP BY TENSHI<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468583"
-		"m_iname"		"lvl3_bridge1_fall9"
+		"chi"		">>>地图制作：TENSHI 地图翻译：IntimateLover<<<"
 	}
-	"468586"
+	"**Zombie has picked up <Stealth>**"
 	{
-		"enable"		"0"
-		"hammerid"		"468586"
-		"m_iname"		"lvl3_bridge1_fall8"
+		"chi"		"**一位僵尸从不知名的地区学会了隐身魔法 **"
 	}
-	"468589"
+	"**Zombie has picked up <Shield>**"
 	{
-		"enable"		"0"
-		"hammerid"		"468589"
-		"m_iname"		"lvl3_bridge1_fall"
+		"chi"		"**一位僵尸从不知名的地区学会了护盾魔法 **"
 	}
-	"468592"
+	">>NUKE IN 10 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468592"
-		"m_iname"		"lvl3_bridge1_fall6"
+		"chi"		"**核弹10秒后到来 **"
 	}
-	"468595"
+	">>NOW USE THE TELEPORT CRYSTAL<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468595"
-		"m_iname"		"lvl3_bridge1_fall"
+		"chi"		"**现在使用传送水晶 **"
 	}
-	"468598"
+	">>3<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468598"
-		"m_iname"		"lvl3_bridge1_fall5"
+		"chi"		"** **"
 	}
-	"468601"
+	">>2<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468601"
-		"m_iname"		"lvl3_bridge1_fall4"
+		"chi"		"** **"
 	}
-	"468604"
+	">>1<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468604"
-		"m_iname"		"lvl3_bridge1_fall"
+		"chi"		"** **"
 	}
-	"468607"
+	">>A VOICE : Ive studied the crystals you brought back last time<<"
 	{
-		"enable"		"0"
-		"hammerid"		"468607"
-		"m_iname"		"lvl3_bridge1_fall2"
+		"chi"		"**一个神秘的声音：我研究了你上次带回来的水晶 **"
 	}
-	"433155"
+	">>A VOICE : Get into the palace , theres a great mystery under it<<"
 	{
-		"enable"		"0"
-		"hammerid"		"433155"
-		"m_iname"		"lvl3_icerock_air"
+		"chi"		"**一个神秘的声音：进入宫殿，在它的下面有一个巨大的秘密. **"
 	}
-	"588060"
+	">>NADE DO MORE DAMAGE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"588060"
-		"m_iname"		"icedr_coagulation_box"
+		"chi"		"**手雷能造成更多伤害 **"
 	}
-	"1190135"
+	"**[Admin]Stage 3**"
 	{
-		"enable"		"0"
-		"hammerid"		"1190135"
-		"m_iname"		"kirito_phys"
+		"chi"		"**管理员选择了第三关 **"
 	}
-	"1125916"
+	">>TELEPORT ACTIVATED IN 30 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1125916"
-		"m_iname"		"Troll_Phys"
+		"chi"		"**传送30秒后激活 **"
 	}
-	"1047757"
+	">>ROCK BREAKING IN 25 SEC<<"
 	{
-		"enable"		"1"
-		"hammerid"		"1047757"
-		"m_iname"		"bal_hitbox"
+		"chi"		"**石头25秒后破碎 **"
 	}
-	"1022010"
+	">>ROCK BREAKING IN 15 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1022010"
-		"m_iname"		"bal_phys"
+		"chi"		"**石头15秒后破碎 **"
 	}
-	"1090210"
+	">>KEEP DEFENCE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1090210"
-		"m_iname"		"lvl4_break2"
+		"chi"		"**守住 **"
 	}
-	"1163438"
+	">>SURVIVE 40 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1163438"
-		"m_iname"		"lvl4_laser_phy"
+		"chi"		"**生存40秒 **"
 	}
-	"975663"
+	">>JUMP!!!<<"
 	{
-		"enable"		"0"
-		"hammerid"		"975663"
-		"m_iname"		"lvl4_road_phy1"
+		"chi"		"**跳！！！ **"
 	}
-	"975671"
+	">>RUN BACK TO THE STELA<<"
 	{
-		"enable"		"0"
-		"hammerid"		"975671"
-		"m_iname"		"lvl4_road_phy1"
+		"chi"		"**跑回石碑 **"
 	}
-	"975705"
+	">>GO TO ACTIVATE STELA<<"
 	{
-		"enable"		"0"
-		"hammerid"		"975705"
-		"m_iname"		"lvl4_road_phy1"
+		"chi"		"**去激活石碑 **"
 	}
-	"975727"
+	">>STELA ACTIVATED IN 20 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"975727"
-		"m_iname"		"lvl4_pillar_1"
+		"chi"		"**石碑20秒后激活 **"
 	}
-	"976565"
+	">>WAIT,IT LOOKS LIKE SOMETHING WRONG WITH STELA<<"
 	{
-		"enable"		"0"
-		"hammerid"		"976565"
-		"m_iname"		"lvl4_pillar_2"
+		"chi"		"**等等，石碑好像出了什么问题 **"
 	}
-	"976595"
+	">>IT SEEMS TO BE CONTROLLED BY A POWER<<"
 	{
-		"enable"		"0"
-		"hammerid"		"976595"
-		"m_iname"		"lvl4_road_phy2"
+		"chi"		"**它似乎是由一种力量控制的 **"
 	}
-	"975681"
+	">>ITS ICE DRAGON<<"
 	{
-		"enable"		"0"
-		"hammerid"		"975681"
-		"m_iname"		"lvl4_road_phy1"
+		"chi"		"**一只冰龙 **"
 	}
-	"975693"
+	">>KILL IT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"975693"
-		"m_iname"		"lvl4_road_phy1"
+		"chi"		"**杀了它 **"
 	}
-	"976549"
+	">>WE DEFEAT IT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"976549"
-		"m_iname"		"lvl4_road_phy2"
+		"chi"		"**我们战胜了它 **"
 	}
-	"976576"
+	">>STAGE 3 COMPLETE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"976576"
-		"m_iname"		"lvl4_road_phy2"
+		"chi"		"**第三关通过 **"
 	}
-	"976606"
+	">>WAITING FOR STAGE 4<<"
 	{
-		"enable"		"0"
-		"hammerid"		"976606"
-		"m_iname"		"lvl4_road_phy2"
+		"chi"		"**第四关即将到来 **"
 	}
-	"976611"
+	">>STAGE FAILED<<"
 	{
-		"enable"		"0"
-		"hammerid"		"976611"
-		"m_iname"		"lvl4_road_phy2"
+		"chi"		"**关卡失败 **"
 	}
-	"977180"
+	">>TOWN GATE CLOSING IN 40 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"977180"
-		"m_iname"		"lvl4_phy3"
+		"chi"		"**城门40秒后关闭 **"
 	}
-	"926012"
+	">>HOLD!!!<<"
 	{
-		"enable"		"0"
-		"hammerid"		"926012"
-		"m_iname"		"lvl4_break1"
+		"chi"		"**守住 **"
 	}
-	"1072506"
+	">>DONT LET THEM IN<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1072506"
-		"m_iname"		"bal_meteorite"
+		"chi"		"**别让他们进来 **"
 	}
-	"1063662"
+	">>BALROG IS ATTACKING<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1063662"
-		"m_iname"		"bal_shell"
+		"chi"		"**炎魔袭击 **"
 	}
-	"1063670"
+	">>DONT GET IN WATER<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1063670"
-		"m_iname"		"bal_shell"
+		"chi"		"**不要下水 **"
 	}
-	"1063678"
+	">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1063678"
-		"m_iname"		"bal_shell"
+		"chi"		"**这里被神秘的力量封印了 **"
 	}
-	"1063686"
+	"The server is about to close the update ,Please update your game"
 	{
-		"enable"		"0"
-		"hammerid"		"1063686"
-		"m_iname"		"bal_shell"
+		"chi"		"**服务器即将关闭，请立即下线更新你的游戏**"
 	}
-	"1172667"
+	"**test1**"
 	{
-		"enable"		"1"
-		"hammerid"		"1172667"
-		"m_iname"		"lvl4_boss2_hitbox"
+		"chi"		"** **"
 	}
-	"1967488"
+	"**tes2t1**"
 	{
-		"enable"		"1"
-		"hammerid"		"1967488"
-		"m_iname"		"stage5_boss"
+		"chi"		"** **"
 	}
-	"2070427"
+	">>If you hava some suggestions,leaving a message at my personal profile.<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2070427"
-		"m_iname"		"lvl5_break_8"
+		"chi"		"**如果你有一些建议，请在我的个人资料上留言**"
 	}
-	"2044622"
+	">>http:"
 	{
-		"enable"		"1"
-		"hammerid"		"2044622"
-		"m_iname"		"lvl5_boss_hitbox"
+		"chi"		"** **"
 	}
-	"1796032"
+	">>GET OUT OF HERE!!!<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1796032"
-		"m_iname"		"lvl5_break_6"
+		"chi"		"**离开这里！！！ **"
 	}
-	"1796046"
+	">>GO TO BIG CRYSTAL TOWER<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1796046"
-		"m_iname"		"lvl5_break_7"
+		"chi"		"**前往大型水晶塔 **"
 	}
-	"1773786"
+	">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1773786"
-		"m_iname"		"lvl5_break_1"
+		"chi"		"**激活两个水晶并守住僵尸 **"
 	}
-	"1786324"
+	">>THEN ACTIVATE THE RED ONE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1786324"
-		"m_iname"		"lvl5_break_5"
+		"chi"		"** **"
 	}
-	"1774092"
+	">>THE HELLGATE OPENING IN 30 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1774092"
-		"m_iname"		"lvl5_break_2"
+		"chi"		"**地狱之门在30秒后打开 **"
 	}
-	"1740629"
+	">>DOOR OPENING IN 20 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1740629"
-		"m_iname"		"lvl5_break_3"
+		"chi"		"**大门20秒后打开 **"
 	}
-	"1967090"
+	">>HOLD 30 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1967090"
-		"m_iname"		"castle_curse_phys"
+		"chi"		"**守住30秒 **"
 	}
-	"2056304"
+	">>HOLD 20 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2056304"
-		"m_iname"		"guard_phybox&0904"
+		"chi"		"**守住20秒 **"
 	}
-	"2044359"
+	">>GET ON THE MIDDLE STONE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2044359"
-		"m_iname"		"castle_grab_shield"
+		"chi"		"**站在中间的石头上 **"
 	}
-	"2118527"
+	">>STAGE 4 COMPLETE<<"
 	{
-		"enable"		"1"
-		"hammerid"		"2118527"
-		"m_iname"		"darklaser_hitbox_2"
+		"chi"		"**第四关通过 **"
 	}
-	"2118481"
+	">>Special Thanks: uuz , nano ,thas<<"
 	{
-		"enable"		"1"
-		"hammerid"		"2118481"
-		"m_iname"		"darklaser_hitbox_1"
+		"chi"		"**特别感谢:UUZ.nano.thas **"
 	}
-	"2071215"
+	">>HOLD 15 SEC<<"
 	{
-		"enable"		"1"
-		"hammerid"		"2071215"
-		"m_iname"		"laserboss_phybox"
+		"chi"		"**守住15秒 **"
 	}
-	"2071285"
+	">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<"
 	{
-		"enable"		"1"
-		"hammerid"		"2071285"
-		"m_iname"		"laserboss_nadebox"
+		"chi"		"**你得到了传送晶体。它能带我们回去 **"
 	}
-	"2071959"
+	">>TELEPORT IN 2 SEC<<"
 	{
-		"enable"		"1"
-		"hammerid"		"2071959"
-		"m_iname"		"finalboss_phybox"
+		"chi"		">>>将在2秒后进行传送<<<"
 	}
-	"2143925"
+	">>TELEPORT IN 1 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2143925"
-		"m_iname"		"earth_airwall"
+		"chi"		"** **"
 	}
-	"2143950"
+	"**[Admin]STAGE 4**"
 	{
-		"enable"		"0"
-		"hammerid"		"2143950"
-		"m_iname"		"earth_airwall_2"
+		"chi"		"** **"
 	}
-	"2143002"
+	">>BALROG USED SOLAR FUSION,ONLY USE <LIGHTNING> CAN RESIST IT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2143002"
-		"m_iname"		"lvl5_break_9"
+		"chi"		"**炎魔使用了阳离子融合.使用神器<闪电>可以抵消 **"
 	}
-	"2143215"
+	"**Are you sure?**"
 	{
-		"enable"		"0"
-		"hammerid"		"2143215"
-		"m_iname"		"lvl5_break_9"
+		"chi"		"**你确定吗？ **"
 	}
-	"2479014"
+	">>steamcommunity.comidlnskrkj<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2479014"
-		"m_iname"		"asuna_phys"
+		"chi"		"** **"
 	}
-	"2333942"
+	">>IS THAT YOUR CHOICE???<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2333942"
-		"m_iname"		"lvl5_break_11"
+		"chi"		"**这就是你的选择吗???**"
 	}
-	"2143172"
+	">>SHOOT THE CRYSTAL!!!<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2143172"
-		"m_iname"		"lvl5_break_11"
+		"chi"		"**向那个水晶射击**"
 	}
-	"2143178"
+	">>ZOMBIES GET ON , YOUR FAILED<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2143178"
-		"m_iname"		"lvl5_break_10"
+		"chi"		"** **"
 	}
-	"2143750"
+	">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2143750"
-		"m_iname"		"lvl5_break_10"
+		"chi"		"** **"
 	}
-	"2567700"
+	">>AND FIND THE CRYSTAL<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2567700"
-		"m_iname"		"cry_egg"
+		"chi"		"** **"
 	}
-	"2580445"
+	">>WE NEED IT<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2580445"
-		"m_iname"		"crystal_phys"
+		"chi"		"** **"
 	}
-	"1708927"
+	"**You found the crystal!!!**"
 	{
-		"enable"		"0"
-		"hammerid"		"1708927"
-		"m_iname"		"crystal_phys"
+		"chi"		"** **"
 	}
-	"2554772"
+	">>YOU PLACED THE CRYSTAL<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2554772"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295315"
+	">>SOMETHING FORTHCOMING<<"
 	{
-		"enable"		"0"
-		"hammerid"		"295315"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295330"
+	">>VOID DOOR APPEAR IN 30 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"295330"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295355"
+	">>VOID DOOR APPEARED<<"
 	{
-		"enable"		"0"
-		"hammerid"		"295355"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295376"
+	">>DEFENCE 20 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"295376"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295397"
+	">>WAIT 5 SEC<<"
 	{
-		"enable"		"0"
-		"hammerid"		"295397"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"295408"
+	">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<"
 	{
-		"enable"		"0"
-		"hammerid"		"295408"
-		"m_iname"		"lvl2_crystal"
+		"chi"		"** **"
 	}
-	"2321818"
+	">>OH!ITS SHADOW GUARD<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2321818"
-		"m_iname"		"debris_lv2"
+		"chi"		"** **"
 	}
-	"2321848"
+	">>KILL HIM!!!<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2321848"
-		"m_iname"		"debris_lv2"
+		"chi"		"** **"
 	}
-	"2321868"
+	">>KILL THE REMAINING ZOMBIES<<"
 	{
-		"enable"		"0"
-		"hammerid"		"2321868"
-		"m_iname"		"debris_lv2"
+		"chi"		">>>杀死剩余的僵尸<<<"
+	}
+	"**Stage 5 has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 4 has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	">>USE <Tornado> TO DISPEL SHADOW TWINE<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE LIFT DOOR HAS OPENED<<"
+	{
+		"chi"		"** **"
+	}
+	">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>SHOOT IT!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>WE DEFEAT HIM<<"
+	{
+		"chi"		"** **"
+	}
+	">>CRYSTAL IS INJECTING ENERGY<<"
+	{
+		"chi"		"** **"
+	}
+	">>WE WILL BE ABLE TO LEAVE SOON<<"
+	{
+		"chi"		"** **"
+	}
+	">>ZOMBIES GET ON<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOUR FAILED<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU CAN NOT BREAK IT<<"
+	{
+		"chi"		"** **"
+	}
+	">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<"
+	{
+		"chi"		"** **"
+	}
+	"<<SHADOW TWINE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<TORRENT>>"
+	{
+		"chi"		"** **"
+	}
+	"<<HEALTH GRABBING>>"
+	{
+		"chi"		"** **"
+	}
+	"<<SHADOW BLADE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<ANGER SHIELD>>"
+	{
+		"chi"		"** **"
+	}
+	">>WAIT 6 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>WHAT IS THIS?<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT INITIATES ATTACKS<<"
+	{
+		"chi"		"** **"
+	}
+	">>BREAK IT!!!<<"
+	{
+		"chi"		"** **"
+	}
+	"<<FLARE>>"
+	{
+		"chi"		"** **"
+	}
+	"<<COLLAPSAR>>"
+	{
+		"chi"		"** **"
+	}
+	">>WE HAVE DESTROYED IT<<"
+	{
+		"chi"		"** **"
+	}
+	">>FLEE HERE!!!RUN BACK!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE DOOR WILL OPEN RANDOMLY<<"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Zero Magic>**"
+	{
+		"chi"		"** **"
+	}
+	">>THE RIGHT DOOR HAS OPENED<<"
+	{
+		"chi"		">>>右边的门打开了<<<"
+	}
+	"**It looks like an ominous thing**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 3 has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	">>THE DOOR BREAKING IN 20 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Zero Magic>,[Cant be traced]**"
+	{
+		"chi"		"** **"
+	}
+	">>THE DOOR BREAKING IN 30 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>BECAUSE OF THE DISAPPEARANCE OF THE BALROGS POWER, <Ultima>HAS LOST EFFICACY!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>STAGE 5 COMPLETE<<"
+	{
+		"chi"		"** 第五关完成 **"
+	}
+	">>YOU HAVE CONQUERED THIS MAP<<"
+	{
+		"chi"		"** **"
+	}
+	">>CONGRATULATION!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU FOUND A CRYSTAL<<"
+	{
+		"chi"		"** **"
+	}
+	">>ITEM:ASUNA CAN USE SUPERATTACK NOW<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU HAVE DESTROYED ALL THE CRYSTALS<<"
+	{
+		"chi"		"** **"
+	}
+	">>SOMETHING WILL HAPPEN<<"
+	{
+		"chi"		"** **"
+	}
+	">>RUN OUT OF HERE!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>GET ON THE AIRSHIP!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE AIRSHIP LEAVING IN 5 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1 has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	"**You think you are invincible???**"
+	{
+		"chi"		"** **"
+	}
+	"**You are wrong**"
+	{
+		"chi"		"** **"
+	}
+	"**Just a joke,have fun!!!**"
+	{
+		"chi"		"** **"
+	}
+	">>180 SEC REMAINING<<"
+	{
+		"chi"		"** **"
+	}
+	">>120 SEC REMAINING<<"
+	{
+		"chi"		"** **"
+	}
+	">>60 SEC REMAINING<<"
+	{
+		"chi"		"** **"
+	}
+	">>10 SEC REMAINING<<"
+	{
+		"chi"		"** **"
+	}
+	"**ZM has been chosen**"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_molotov_limit 2"
+		}
+		"1"
+		{
+			"cvar"		"sm_he_limit 4"
+		}
 	}
 }

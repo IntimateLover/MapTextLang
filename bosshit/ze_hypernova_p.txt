@@ -1,81 +1,171 @@
-"BOSSHP"
+"Console_T"
 {
-	"2269346"
+	"**Giant red star is unstable**"
 	{
-		"enable"		"0"
-		"hammerid"		"2269346"
-		"m_iname"		"Puerta8dync"
+		"chi"		"** **"
 	}
-	"2257976"
+	"**Go to the top of the station and find scape pods**"
 	{
-		"enable"		"0"
-		"hammerid"		"2257976"
-		"m_iname"		"Puerta5dync"
+		"chi"		"** **"
 	}
-	"2178411"
+	"**Map by Eddie**"
 	{
-		"enable"		"0"
-		"hammerid"		"2178411"
-		"m_iname"		"FakeColl"
+		"chi"		"** **"
 	}
-	"2182139"
+	"**Special thanks to Kaemon and Hannibal (SPA)**"
 	{
-		"enable"		"0"
-		"hammerid"		"2182139"
-		"m_iname"		"FakeColl"
+		"chi"		"** **"
 	}
-	"634820"
+	"**And also thanks to i3D Community and Supreme Elite Community**"
 	{
-		"enable"		"0"
-		"hammerid"		"634820"
-		"m_iname"		"Barricrota"
+		"chi"		"** **"
 	}
-	"1053650"
+	"** Cargo secction upper door opening in 15s**"
 	{
-		"enable"		"0"
-		"hammerid"		"1053650"
-		"m_iname"		"Nex"
+		"chi"		"** **"
 	}
-	"1143395"
+	"** Cargo secction upper door opening in 5s**"
 	{
-		"enable"		"0"
-		"hammerid"		"1143395"
-		"m_iname"		"MFP2"
+		"chi"		"** **"
 	}
-	"1143871"
+	"**Closing gravity tower upper access**"
 	{
-		"enable"		"0"
-		"hammerid"		"1143871"
-		"m_iname"		"MFP2"
+		"chi"		"** **"
 	}
-	"1143969"
+	"**Crate locking gravity tower access**"
 	{
-		"enable"		"0"
-		"hammerid"		"1143969"
-		"m_iname"		"MFP2"
+		"chi"		"** **"
 	}
-	"1143972"
+	"**Double doors sealing in 15s**"
 	{
-		"enable"		"0"
-		"hammerid"		"1143972"
-		"m_iname"		"MFP2"
+		"chi"		"** **"
 	}
-	"1769449"
+	"**Double doors sealing in 5s**"
 	{
-		"enable"		"0"
-		"hammerid"		"1769449"
-		"m_iname"		"Caja_gbreak"
+		"chi"		"** **"
 	}
-	"2144752"
+	"**Sealing double doors**"
 	{
-		"enable"		"0"
-		"hammerid"		"2144752"
-		"m_iname"		"MFP2"
+		"chi"		"** **"
 	}
-	"2144780"
+	"**Generator Elevator leaving in 25 s**"
 	{
-		"enable"		"0"
-		"hammerid"		"2144780"
-		"m_iname"		"MFP2"
+		"chi"		"** **"
+	}
+	"**Generator Elevator leaving 15 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Gravity tower acces breaking crate in 5s**"
+	{
+		"chi"		"** **"
+	}
+	"**Generator Elevator is leaving**"
+	{
+		"chi"		"** **"
+	}
+	"**Sealing elevator acces for security**"
+	{
+		"chi"		"** **"
+	}
+	"**Door malfunction**"
+	{
+		"chi"		"** **"
+	}
+	"**Cargo lift leaving in 30 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Pods will departure in 2 minutes**"
+	{
+		"chi"		"** **"
+	}
+	"**Cargo lift leaving in 15 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Cargo lift leaving in 5 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Giant Star is in critical situation**"
+	{
+		"chi"		"** **"
+	}
+	"**You should cover both escape pods**"
+	{
+		"chi"		"** **"
+	}
+	"**Do not allow zombies to infect pods**"
+	{
+		"chi"		"** **"
+	}
+	"**All zombies will get teleported to the infected pod**"
+	{
+		"chi"		"** **"
+	}
+	"**Pods wil departure in 1 minute**"
+	{
+		"chi"		"** **"
+	}
+	"**Pod access door will close in 20 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Pod access door will close in 10 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Pod access door will close in 5 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Pods are leaving the platform**"
+	{
+		"chi"		"** **"
+	}
+	"**Pods are leaving the dangerous area**"
+	{
+		"chi"		"** **"
+	}
+	"**The star has exploded**"
+	{
+		"chi"		"** **"
+	}
+	"**Station will not resist the explosion**"
+	{
+		"chi"		"** **"
+	}
+	"**What the hell...**"
+	{
+		"chi"		"** **"
+	}
+	"**A blackhole!**"
+	{
+		"chi"		"** **"
+	}
+	"**Push zombies at the rear section of each pod**"
+	{
+		"chi"		"** **"
+	}
+	"**Sections will separate from the pod and will fall to the blackhole**"
+	{
+		"chi"		"** **"
+	}
+	"**Rear section sealing in 15 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Gravity of the blackhole is very strong**"
+	{
+		"chi"		"** **"
+	}
+	"**Rear section sealing in 5 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Rear section leaving the structure**"
+	{
+		"chi"		"** **"
 	}
 }

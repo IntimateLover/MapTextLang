@@ -1,93 +1,127 @@
-"BOSSHP"
+"Console_T"
 {
-	"66832"
+	"** Scrap metal chopper flying out in 7 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"66832"
-		"m_iname"		"EndCaveBlowupWall"
+		"chi"		"**废金属飞机将在7s后起飞 **"
 	}
-	"67640"
+	"** Top left door opening in 20 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"67640"
-		"m_iname"		"LadderThingMineShaft"
+		"chi"		"**顶部左侧大门将在20s后打开 **"
 	}
-	"58571"
+	"** Top right door opening in 20 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"58571"
-		"m_iname"		"MissileLauncherRock"
+		"chi"		"**顶部右侧大门将在20s后打开 **"
 	}
-	"59621"
+	"** Cave C4 planted! **"
 	{
-		"enable"		"0"
-		"hammerid"		"59621"
-		"m_iname"		"EndingChopperGlass"
+		"chi"		"**洞穴C4已安置**"
 	}
-	"59624"
+	"** Hidden warehouse door opening in 30 seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"59624"
-		"m_iname"		"EndingChopperShell"
+		"chi"		"**仓库门将在30s后打开 **"
 	}
-	"34307"
+	"** Factory front door opening in 30 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"34307"
-		"m_iname"		"ScrapChopperShell"
+		"chi"		"**工厂大门将在30s后打开 **"
 	}
-	"35608"
+	"** Back door opening in 30 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"35608"
-		"m_iname"		"ScrapChopperGlass"
+		"chi"		"**后门将在30s后打开 **"
 	}
-	"26555"
+	"** Left boat leaving in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"26555"
-		"m_iname"		"SlidePathOpen"
+		"chi"		"**左边小船15s后离开 **"
 	}
-	"21343"
+	"** Right boat leaving in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"21343"
-		"m_iname"		"DamMetalDoor"
+		"chi"		"**右边小船15s后离开 **"
 	}
-	"18811"
+	"** Mine shaft door opening in 35 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"18811"
-		"m_iname"		"FridgeBreakable"
+		"chi"		"**矿井将在35s后打开 **"
 	}
-	"19577"
+	"** Platform D will leave in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"19577"
-		"m_iname"		"FridgeDoor"
+		"chi"		"**平台D 15s后离开 **"
 	}
-	"17587"
+	"** Platform A will leave in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"17587"
-		"m_iname"		"CaveBlowupWall"
+		"chi"		"**平台A 15s后离开 **"
 	}
-	"39764"
+	"** Drawbridge opening in 20 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"39764"
-		"m_iname"		"MissilePhysbox&0440"
+		"chi"		"**吊桥在20s后开放 **"
 	}
-	"77153"
+	"** Down under door opening in 25 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"77153"
-		"m_iname"		"HiddenCannonPath"
+		"chi"		"**下方门将在25s后开启 **"
 	}
-	"73996"
+	"** Platform B will leave in 15 seconds! **"
 	{
-		"enable"		"0"
-		"hammerid"		"73996"
-		"m_iname"		"CliffBlowUpWall"
+		"chi"		"**平台B 将在15s后离开 **"
+	}
+	"** Platform C will leave in 15 seconds! **"
+	{
+		"chi"		"**平台C 将在15s后离开 **"
+	}
+	"** The A-Team has been contacted! **"
+	{
+		"chi"		"**我们联系上了二哈特攻队~‵O‵~！ **"
+	}
+	"** Help is on the way! Survive until the chopper is here! **"
+	{
+		"chi"		"**援助即将抵达！在直升飞机来之前活下去！ **"
+	}
+	"** Hop on the chopper! We are leaving this forsaken place! **"
+	{
+		"chi"		"**快上飞机！赶紧离开这个该死的地方！ **"
+	}
+	"** A hidden missile launcher appeared! **"
+	{
+		"chi"		"**我们发现了一个隐藏起来的导弹发射器！ **"
+	}
+	"** Destination reached! Get in the bunker! **"
+	{
+		"chi"		"**目标达成！进入碉堡！ **"
+	}
+	"** Push the remaining zombies out of the bunker! **"
+	{
+		"chi"		"**别让僵尸冲进碉堡！ **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"65761"
+	}
+	"** Someone damned the dam! **"
+	{
+		"chi"		"**有人摧毁了大坝！ **"
+	}
+	"** Watch out! Its gonna blow! **"
+	{
+		"chi"		"**小心！马上就要爆炸了！ **"
+	}
+	"** Top left door opening in 25 seconds! **"
+	{
+		"chi"		"**顶部左侧大门将在25s后打开 **"
+	}
+	"** Factory front door opening in 35 seconds! **"
+	{
+		"chi"		"**工厂大门将在35s后打开 **"
+	}
+	"** Back door opening in 45 seconds! **"
+	{
+		"chi"		"**后门将在45s后打开 **"
+	}
+	"** Top right door opening in 10 seconds! **"
+	{
+		"chi"		"**顶部右侧大门将在10s后打开 **"
+	}
+	"** What are you expecting to open? **"
+	{
+		"chi"		"**你希望打开什么？ **"
 	}
 }
+//eXX
+
+
+

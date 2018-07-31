@@ -1,243 +1,110 @@
-"BOSSHP"
+"Console_T"
 {
-	"54219"
+	"***SURF***"
 	{
-		"enable"		"0"
-		"hammerid"		"54219"
-		"m_iname"		"secret_physbox"
+		"chi"		"**滑翔**"
 	}
-	"43226"
+	"***THE TWIST WILL BE: ***"
 	{
-		"enable"		"0"
-		"hammerid"		"43226"
-		"m_iname"		"end_cage_break"
+		"chi"		"**扭曲开启：**"
 	}
-	"36443"
+	"***SPOOKY SHIT***"
 	{
-		"enable"		"0"
-		"hammerid"		"36443"
-		"m_iname"		"hich_breakable"
+		"chi"		"**令人毛骨悚然**"
 	}
-	"5553"
+	"***BHOP***"
 	{
-		"enable"		"0"
-		"hammerid"		"5553"
-		"m_iname"		"gameselection_bhop"
+		"chi"		"**连跳**"
 	}
-	"5537"
+	"***EXPLOSIONS***"
 	{
-		"enable"		"0"
-		"hammerid"		"5537"
-		"m_iname"		"gameselection_race"
+		"chi"		"**爆炸**"
 	}
-	"5545"
+	"***GET TO THE CENTER***"
 	{
-		"enable"		"0"
-		"hammerid"		"5545"
-		"m_iname"		"gameselection_surf"
+		"chi"		"**进入中心**"
 	}
-	"5549"
+	"***ICE SKATING***"
 	{
-		"enable"		"0"
-		"hammerid"		"5549"
-		"m_iname"		"gameselection_couchescape"
+		"chi"		"**滑冰**"
 	}
-	"5557"
+	"***Defend for 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"5557"
-		"m_iname"		"gameselection_deathrun"
+		"chi"		"**等待20秒**"
+		"DoorCountDown"		"20"
 	}
-	"6248"
+	"***Defend for 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6248"
-		"m_iname"		"gameselection_bhop"
+		"chi"		"**等待10秒**"
 	}
-	"6242"
+	"***Teleport active***"
 	{
-		"enable"		"0"
-		"hammerid"		"6242"
-		"m_iname"		"gameselection_deathrun"
+		"chi"		"**传送激活**"
 	}
-	"6245"
+	"***Regular ending chosen, activating in 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6245"
-		"m_iname"		"gameselection_couchescape"
+		"chi"		"**选择结束，在10秒后开始**"
 	}
-	"6254"
+	"***INTENSE SHAKING***"
 	{
-		"enable"		"0"
-		"hammerid"		"6254"
-		"m_iname"		"gameselection_surf"
+		"chi"		"**强烈的震动**"
 	}
-	"6360"
+	"***SUPER SPEED***"
 	{
-		"enable"		"0"
-		"hammerid"		"6360"
-		"m_iname"		"gameselection_bhop"
+		"chi"		"**超级速度**"
 	}
-	"6266"
+	"***DRUGGED UP***"
 	{
-		"enable"		"0"
-		"hammerid"		"6266"
-		"m_iname"		"gameselection_race"
+		"chi"		"**毒药**"
 	}
-	"6354"
+	"***DOOR IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"6354"
-		"m_iname"		"gameselection_deathrun"
+		"chi"		"**大门开了**"
 	}
-	"6357"
+	"***INVERTED CONTROLS***"
 	{
-		"enable"		"0"
-		"hammerid"		"6357"
-		"m_iname"		"gameselection_couchescape"
+		"chi"		"**反向控制**"
 	}
-	"6366"
+	"***TRIPPY COLOURS***"
 	{
-		"enable"		"0"
-		"hammerid"		"6366"
-		"m_iname"		"gameselection_surf"
+		"chi"		"**迷幻色彩**"
 	}
-	"6388"
+	"***ONLY ONE AT A TIME, FUCK OFF***"
 	{
-		"enable"		"0"
-		"hammerid"		"6388"
-		"m_iname"		"gameselection_bhop"
+		"chi"		"**每次只有一个，滚蛋**"
 	}
-	"6378"
+	"***SEINFELD***"
 	{
-		"enable"		"0"
-		"hammerid"		"6378"
-		"m_iname"		"gameselection_race"
+		"chi"		"**噪音干扰**"
 	}
-	"6382"
+	"***THE TRANSGENDER BANANA SWORD HAS BEEN PICKED UP!!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"6382"
-		"m_iname"		"gameselection_deathrun"
+		"chi"		"**香蕉剑已经被捡起来了!!**"
 	}
-	"6385"
+	"***Defend for 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6385"
-		"m_iname"		"gameselection_couchescape"
+		"chi"		"**等待30秒**"
+		"DoorCountDown"		"30"
 	}
-	"6394"
+	"***Door opening in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6394"
-		"m_iname"		"gameselection_surf"
+		"chi"		"**大门30秒后打开**"
+		"DoorCountDown"		"30"
 	}
-	"6406"
+	"***Door opening in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"6406"
-		"m_iname"		"gameselection_race"
+		"chi"		"**大门20秒后打开**"
 	}
-	"4720"
+	"***DOOR OPENING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"4720"
-		"m_iname"		"spawn_zmcage_break"
+		"chi"		"**大门10秒后打开**"
 	}
-	"5533"
+	"***"
 	{
-		"enable"		"0"
-		"hammerid"		"5533"
-		"m_iname"		"gameselection_knivesonly"
+		"chi"		"** **"
 	}
-	"5541"
+	"***LOW GRAVITY***"
 	{
-		"enable"		"0"
-		"hammerid"		"5541"
-		"m_iname"		"gameselection_pacman"
-	}
-	"6251"
-	{
-		"enable"		"0"
-		"hammerid"		"6251"
-		"m_iname"		"gameselection_pacman"
-	}
-	"6263"
-	{
-		"enable"		"0"
-		"hammerid"		"6263"
-		"m_iname"		"gameselection_knivesonly"
-	}
-	"6363"
-	{
-		"enable"		"0"
-		"hammerid"		"6363"
-		"m_iname"		"gameselection_pacman"
-	}
-	"6375"
-	{
-		"enable"		"0"
-		"hammerid"		"6375"
-		"m_iname"		"gameselection_knivesonly"
-	}
-	"6391"
-	{
-		"enable"		"0"
-		"hammerid"		"6391"
-		"m_iname"		"gameselection_pacman"
-	}
-	"6403"
-	{
-		"enable"		"0"
-		"hammerid"		"6403"
-		"m_iname"		"gameselection_knivesonly"
-	}
-	"5565"
-	{
-		"enable"		"0"
-		"hammerid"		"5565"
-		"m_iname"		"gameselection_secret"
-	}
-	"6260"
-	{
-		"enable"		"0"
-		"hammerid"		"6260"
-		"m_iname"		"gameselection_secret"
-	}
-	"6372"
-	{
-		"enable"		"0"
-		"hammerid"		"6372"
-		"m_iname"		"gameselection_secret"
-	}
-	"6400"
-	{
-		"enable"		"0"
-		"hammerid"		"6400"
-		"m_iname"		"gameselection_secret"
-	}
-	"5561"
-	{
-		"enable"		"0"
-		"hammerid"		"5561"
-		"m_iname"		"gameselection_zombiemod"
-	}
-	"6257"
-	{
-		"enable"		"0"
-		"hammerid"		"6257"
-		"m_iname"		"gameselection_zombiemod"
-	}
-	"6369"
-	{
-		"enable"		"0"
-		"hammerid"		"6369"
-		"m_iname"		"gameselection_zombiemod"
-	}
-	"6397"
-	{
-		"enable"		"0"
-		"hammerid"		"6397"
-		"m_iname"		"gameselection_zombiemod"
+		"chi"		"** **"
 	}
 }

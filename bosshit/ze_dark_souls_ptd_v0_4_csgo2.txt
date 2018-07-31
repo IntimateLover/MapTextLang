@@ -1,315 +1,382 @@
-"BOSSHP"
+"Console_T"
 {
-	"8047"
+	"**Special thanks to Soft Serve and aNex**"
 	{
-		"enable"		"1"
-		"hammerid"		"8047"
-		"m_iname"		"Golem_Phys_Body"
+		"chi"		"**特别感谢： Soft Serve和aNex**"
 	}
-	"1452799"
+	"**Tip 1** There are only global teleports on the map and only to the bonfires. So you can defend any spot for very long time.**"
 	{
-		"enable"		"1"
-		"hammerid"		"1452799"
-		"m_iname"		"Ornstein_Phys_Body"
+		"chi"		"**提示1 :在地图上只有篝火处才会传送AFK玩家，所以你可以防守一个地点很长时间**"
 	}
-	"31386"
+	"**Tip 2 **If you saw a long chain you can climb on it**"
 	{
-		"enable"		"1"
-		"hammerid"		"31386"
-		"m_iname"		"Gwyndolin_Phys_Body"
+		"chi"		"**提示2：如果你看到一条锁链,你可以爬上去**"
 	}
-	"1170467"
+	"**Tip 3 **All the items have limited ammount of uses but have low cooldown time**"
 	{
-		"enable"		"0"
-		"hammerid"		"1170467"
-		"m_iname"		"Item_WOTG_Phys"
+		"chi"		"**提示3：所有的神器都有使用次数，但CD很短**"
 	}
-	"31215"
+	"**Tip 4 **You can refill the item charges by using Ash Estus Flask**"
 	{
-		"enable"		"0"
-		"hammerid"		"31215"
-		"m_iname"		"Gwyndolin_Phys"
+		"chi"		"**提示4：你可以使用原素灰瓶补充神器的使用次数**"
 	}
-	"109361"
+	"**Tip 5 **Some items can be used on bosses**"
 	{
-		"enable"		"0"
-		"hammerid"		"109361"
-		"m_iname"		"End1_Physbox"
+		"chi"		"**提示5：有一些神器对BOSS有效**"
 	}
-	"528167"
+	"**Tip 6 **The Green Blossom will help you with dodging boulders and axes**"
 	{
-		"enable"		"0"
-		"hammerid"		"528167"
-		"m_iname"		"Asylum_Demon_Phys"
+		"chi"		"**提示6：绿花草将帮助你避开巨石和斧头**"
 	}
-	"540028"
+	"**Tip 7 **Watch out for hidden traps when you are in Sens Fortress**"
 	{
-		"enable"		"1"
-		"hammerid"		"540028"
-		"m_iname"		"Asylum_Demon_Hitbox"
+		"chi"		"**提示7：在塞恩古堡里要小心陷阱**"
 	}
-	"879880"
+	"**Tip 8 **There are illisionary walls that can have hidden items in. To destroy them press E near those walls**"
 	{
-		"enable"		"0"
-		"hammerid"		"879880"
-		"m_iname"		"End1_Physbox_2"
+		"chi"		"**提示8：在地图有些虚幻的墙，要移除它只需在附近按下E**"
 	}
-	"1199545"
+	"**Tip 9 **There are Fire Keeper Souls being spread on the map. If you get all of them you can power up your bonfires**"
 	{
-		"enable"		"0"
-		"hammerid"		"1199545"
-		"m_iname"		"Hold11_Ladder"
+		"chi"		"**提示9：在地图上分布着防火女的灵魂，如果你得到所有灵魂，你就可以强化你的篝火回复量与你的血量**"
 	}
-	"1423652"
+	"**Tip 10 **You can find out the item class you have by the color of the parchment on your picture**"
 	{
-		"enable"		"0"
-		"hammerid"		"1423652"
-		"m_iname"		"Ornstein_Bone"
+		"chi"		"**提示10：你可以通过拾取神器时的提示看你的神器具有什么效果**"
 	}
-	"1452768"
+	"**Tip 11 **Never rush and hurry. If you do not know the map just stay cover and defend with your teamates**"
 	{
-		"enable"		"0"
-		"hammerid"		"1452768"
-		"m_iname"		"Ornstein_Phys"
+		"chi"		"**提示11：不要那么快撤退，如果你不知道地图怎么走，那就去和你的队友断后**"
 	}
-	"6188"
+	"**ZE_DARK_SOULS**"
 	{
-		"enable"		"0"
-		"hammerid"		"6188"
-		"m_iname"		"Axes_Small_4_90_Phys"
+		"chi"		"**黑暗之魂**"
 	}
-	"6118"
+	"**Map by Headshooter.SC  HaRyDe and Batnik_Ref.smd**"
 	{
-		"enable"		"0"
-		"hammerid"		"6118"
-		"m_iname"		"Axes_Small_3_90_Phys"
+		"chi"		"**地图制作：Headshooter.SC HaRyDe & Batnik_Ref.smd 地图翻译：IntimateLover**"
 	}
-	"6167"
+	"**A player has picked up Toxic Mist**"
 	{
-		"enable"		"0"
-		"hammerid"		"6167"
-		"m_iname"		"Axes_Small_2_90_Phys"
+		"chi"		"**一位僵尸拿起了猛毒雾**"
 	}
-	"6139"
+	"**A player has picked up Power Within**"
 	{
-		"enable"		"0"
-		"hammerid"		"6139"
-		"m_iname"		"Axes_Small_1_90_Phys"
+		"chi"		"**一位僵尸拿起了内在潜力**"
 	}
-	"6042"
+	"**The gates will open in 15 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"6042"
-		"m_iname"		"Axes_Huge_5_Phys"
+		"chi"		"**大门15秒后开启**"
 	}
-	"6028"
+	"**THE GATES WILL OPEN IN 10 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"6028"
-		"m_iname"		"Axes_Huge_4_Phys"
+		"chi"		"**门将在10秒后打开**"
 	}
-	"6000"
+	"**A player has picked up Poison Mist**"
 	{
-		"enable"		"0"
-		"hammerid"		"6000"
-		"m_iname"		"Axes_Huge_3_Phys"
+		"chi"		"**一位僵尸拿起了毒雾**"
 	}
-	"5986"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"5986"
-		"m_iname"		"Axes_Huge_2_Phys"
+		"chi"		"**大门25秒后开启**"
+		"DoorCountDown"		"25"
 	}
-	"5958"
+	"**A player has picked up Lightning Spear**"
 	{
-		"enable"		"0"
-		"hammerid"		"5958"
-		"m_iname"		"Axes_Huge_1_Phys"
+		"chi"		"**一位玩家拿起了阳光之枪**"
 	}
-	"854003"
+	"**The Stray Demon was defeated**"
 	{
-		"enable"		"0"
-		"hammerid"		"854003"
-		"m_iname"		"Boulder_Phys&4712"
+		"chi"		"**不死院恶魔已被击败**"
 	}
-	"5942"
+	"**The Stray Demon was keeping an eye for no one undead leaves the prison..**"
 	{
-		"enable"		"0"
-		"hammerid"		"5942"
-		"m_iname"		"Boulder_2_Phys&4711"
+		"chi"		"**不死院恶魔一直以来都看守着不死院，不让任何不死人离开这里**"
 	}
-	"6969"
+	"**..Only the Old Witch had the right to take away the undead to Sens Fortress for their experiments. But there were exceptions.**"
 	{
-		"enable"		"0"
-		"hammerid"		"6969"
-		"m_iname"		"Broadhead_Phys"
+		"chi"		"**..只有Old Witch才有权带走不死院的灵魂到塞恩古堡去用作她们的实验，但也有例外...**"
 	}
-	"6603"
+	"**A player has picked up Great Heavy Soul Arrow**"
 	{
-		"enable"		"1"
-		"hammerid"		"6603"
-		"m_iname"		"Broadhead_Phys_Body"
+		"chi"		"**一位玩家拿起了强力灵魂巨箭**"
 	}
-	"6387"
+	"**The elevator is on the way. Defend for some time**"
 	{
-		"enable"		"0"
-		"hammerid"		"6387"
-		"m_iname"		"Axes_Small_3_Phys"
+		"chi"		"**电梯正在路上-请防守一段时间**"
 	}
-	"6345"
+	"**Get in the elevator**"
 	{
-		"enable"		"0"
-		"hammerid"		"6345"
-		"m_iname"		"Axes_Small_1_Phys"
+		"chi"		"**快上电梯**"
 	}
-	"6366"
+	"**A player has picked up Darkstorm**"
 	{
-		"enable"		"0"
-		"hammerid"		"6366"
-		"m_iname"		"Axes_Small_2_Phys"
+		"chi"		"**一位玩家拿起了追踪者**"
 	}
-	"6335"
+	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"6335"
-		"m_iname"		"Axes_Small_11_90_Phys"
+		"chi"		"**大门20秒后打开**"
+		"DoorCountDown"		"20"
 	}
-	"6314"
+	"**A player has picked up Chaos Storm**"
 	{
-		"enable"		"0"
-		"hammerid"		"6314"
-		"m_iname"		"Axes_Small_10_90_Phys"
+		"chi"		"**一位玩家拿起了混沌风暴**"
 	}
-	"6284"
+	"**The Sens Fortress gates will open in 30 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"6284"
-		"m_iname"		"Axes_Small_9_90_Phys"
+		"chi"		"**塞恩古堡大门将在30秒后打开**"
+		"DoorCountDown"		"30"
 	}
-	"6272"
+	"**A player has picked up Green Blossom**"
 	{
-		"enable"		"0"
-		"hammerid"		"6272"
-		"m_iname"		"Axes_Small_8_90_Phys"
+		"chi"		"**一位玩家拿起了绿花草**"
 	}
-	"6242"
+	"**THE GATES WILL OPEN IN 5 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"6242"
-		"m_iname"		"Axes_Small_7_90_Phys"
+		"chi"		"**大门5秒后打开**"
 	}
-	"6230"
+	"**WATCH OUT FOR BOULDERS!**"
 	{
-		"enable"		"0"
-		"hammerid"		"6230"
-		"m_iname"		"Axes_Small_6_90_Phys"
+		"chi"		"**小心巨石!**"
 	}
-	"6211"
+	"**Well done**The gate will open in 10 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"6211"
-		"m_iname"		"Axes_Small_5_90_Phys"
+		"chi"		"**干得好-大门将在10秒后打开**"
+		"DoorCountDown"		"10"
 	}
-	"880696"
+	"**A player has picked up White Dragon Breath**"
 	{
-		"enable"		"0"
-		"hammerid"		"880696"
-		"m_iname"		"Axes_Small_12_Phys"
+		"chi"		"**一位玩家拿起了白龙吐息**"
 	}
-	"880677"
+	"**The gate will open in 10 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"880677"
-		"m_iname"		"Axes_Small_11_Phys"
+		"chi"		"**大门10秒后开启**"
 	}
-	"880658"
+	"**A player has picked up Wrath of The Gods**"
 	{
-		"enable"		"0"
-		"hammerid"		"880658"
-		"m_iname"		"Axes_Small_10_Phys"
+		"chi"		"**一位玩家拿起了神怒**"
 	}
-	"880549"
+	"**The Old Witch is defeated**"
 	{
-		"enable"		"0"
-		"hammerid"		"880549"
-		"m_iname"		"Axes_Small_9_Phys"
+		"chi"		"**Old Witch被打败了**"
 	}
-	"880532"
+	"**At the request of Gwyndolin the Old Witch was selecting the most powerful undead that can keep the flame in price of their lives...**"
 	{
-		"enable"		"0"
-		"hammerid"		"880532"
-		"m_iname"		"Axes_Small_8_Phys"
+		"chi"		"**在葛温德林的请求下，Old Witch选择最强大的不死人，用他们生命的代价来维持火焰**"
 	}
-	"880465"
+	"**...But one day the Witch completely lost her mind and began to experiment on the undead.**"
 	{
-		"enable"		"0"
-		"hammerid"		"880465"
-		"m_iname"		"Axes_Small_7_Phys"
+		"chi"		"**但是有一天，Old Witch完全失去了理智，开始对不死人进行实验。**"
 	}
-	"880448"
+	"**ALL THE BOULDERS ARE DISABLED***"
 	{
-		"enable"		"0"
-		"hammerid"		"880448"
-		"m_iname"		"Axes_Small_6_Phys"
+		"chi"		"**所有的巨石都被关掉了**"
 	}
-	"880423"
+	"**A player has picked up Hidden Body**"
 	{
-		"enable"		"0"
-		"hammerid"		"880423"
-		"m_iname"		"Axes_Small_5_Phys"
+		"chi"		"**一位玩家拿起了隐形身躯**"
 	}
-	"880406"
+	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"880406"
-		"m_iname"		"Axes_Small_4_Phys"
+		"chi"		"**大门20秒后打开**"
+		"DoorCountDown"		"20"
 	}
-	"8016"
+	"**The gate will open in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"8016"
-		"m_iname"		"Golem_Phys"
+		"chi"		"**大门20秒后打开**"
+		"DoorCountDown"		"20"
 	}
-	"1453519"
+	"**A player has picked up Soothing Sunlight**"
 	{
-		"enable"		"0"
-		"hammerid"		"1453519"
-		"m_iname"		"Golem_Columns"
+		"chi"		"**一位玩家拿起了阳光疗愈**"
 	}
-	"1453729"
+	"**All the levers are activated**"
 	{
-		"enable"		"0"
-		"hammerid"		"1453729"
-		"m_iname"		"Golem_Columns"
+		"chi"		"**所有的按钮被激活**"
 	}
-	"1453756"
+	"**Get ready to fall back**The gate will open in 10 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"1453756"
-		"m_iname"		"Golem_Columns"
+		"chi"		"**准备撤退- 门将在15秒后打开**"
 	}
-	"1606382"
+	"**The gate will open in 15 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"1606382"
-		"m_iname"		"Meteor_Phys"
+		"chi"		"**大门15秒后打开**"
 	}
-	"1805710"
+	"**A player has picked up Dark Orb**"
 	{
-		"enable"		"0"
-		"hammerid"		"1805710"
-		"m_iname"		"Gargoyle_phys"
+		"chi"		"**一位玩家拿起了暗之球**"
 	}
-	"1297740"
+	"**Wait 10 more seconds before the gate open**"
 	{
-		"enable"		"0"
-		"hammerid"		"1297740"
-		"m_iname"		"Gwyn_Phys_Body"
+		"chi"		"**在门开前守住5秒**"
 	}
-	"1297751"
+	"**The Iron Golem is defeated. Get to the middle of arena**"
 	{
-		"enable"		"0"
-		"hammerid"		"1297751"
-		"m_iname"		"Gwyn_Phys"
+		"chi"		"**钢铁巨偶被击败-快到平台中央**"
+	}
+	"**The Iron Golem was created by the gods to protect Anor Londo from the undead and other demons appeared with a mysterious mist..**"
+	{
+		"chi"		"**钢铁巨偶是由众神创造出来，用来保护亚诺尔隆德**"
+	}
+	"**..He killed many heroes on the way to the City of the Gods.**"
+	{
+		"chi"		"**在去众神之城的路上，他杀死了许多英雄**"
+	}
+	"**The gate will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	"**You got this**The final door will open in 30 seconds**"
+	{
+		"chi"		"**最后一扇门将在30秒后打开**"
+	}
+	"**Get in the room and defend it! the door will close in 25 seconds**"
+	{
+		"chi"		"**进入房间防守-门将在25秒后关闭**"
+		"DoorCountDown"		"25"
+	}
+	"**Ornstein and Gwyndolin are dead**"
+	{
+		"chi"		"**翁斯坦和葛温德林已经死了**"
+	}
+	"**..Ornstein and Gwyndolin were good friends from the childhood... **"
+	{
+		"chi"		"**翁斯坦和葛温德林是童年时期的好朋友**"
+	}
+	"**...And when Gwyn sacrificed himself in the first flame..**"
+	{
+		"chi"		"**当葛温牺牲了自己来延续初火的燃烧**"
+	}
+	"**..Ornstein promised to protect her all the time. Who knows. Was that a friendship or something more..**"
+	{
+		"chi"		"**翁斯坦承诺要一直保护她，谁知道那是友谊还是别的什么**"
+	}
+	"**Flame ember was selected...All pyromancy items get one more use next round**"
+	{
+		"chi"		"**火焰灰烬被选中...下一回合所有的咒术神器增加了一次使用次数**"
+	}
+	"**Choose your way of ending**You are close...**"
+	{
+		"chi"		"**选择一条道路结束你的旅程..**"
+	}
+	"**To confirm your choice just stay near the way you wish to continue..**"
+	{
+		"chi"		"**你只需要呆在你想选择的道路附近就可以确定你的选择..**"
+	}
+	"**We got this**Wait until the first flame burns up**"
+	{
+		"chi"		"**我们要等到初火燃烧起来**"
+	}
+	"**Defend 30 more seconds**"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"**Well done**Wait 15 more seconds till the gate opens**"
+	{
+		"chi"		"**再守15秒-直到门打开**"
+	}
+	"**Prepare to fight to death..**"
+	{
+		"chi"		"**准备决一死战**"
+	}
+	"**You will be punished a little if you try to greaf with weapons..**"
+	{
+		"chi"		"**如果你试图用武器攻击-那么你就会受到惩罚**"
+	}
+	"**Magic ember was selected...All sorcery items get one more use next round**"
+	{
+		"chi"		"**魔法余烬被选中...下一回合所有的魔法增加一次使用次数**"
+	}
+	"**Dark ending is beginning...**"
+	{
+		"chi"		"**黑暗之王结局开始... **"
+	}
+	"**The Gargoyle is dead. You are very close..**"
+	{
+		"chi"		"**Gargoyle已死-你非常接近胜利**"
+	}
+	"**..You started the Dark Era. The Era of Humans..**"
+	{
+		"chi"		"**你开启了黑暗时代，人类的时代**"
+	}
+	"**..But you did not get rid of the curse..**"
+	{
+		"chi"		"**但你仍然没有摆脱诅咒..**"
+	}
+	"** There are zombies at the end point ** The round is failed.**"
+	{
+		"chi"		"**有僵尸在终点-回合失败**"
+	}
+	"**A player has picked up Ashen Estus Flask**"
+	{
+		"chi"		"**一位玩家拿起了原素灰瓶**"
+	}
+	"**A player has picked up Estus Flask**"
+	{
+		"chi"		"**一位玩家拿起了原素瓶**"
+	}
+	"**Divine ember was selected...All miracles items get one more use next round**"
+	{
+		"chi"		"**圣职余烬被选中...下一回合所有奇迹可以增加一次使用次数**"
+	}
+	"**Flame ending is beginning...**"
+	{
+		"chi"		"**传火结局开始...**"
+	}
+	"**...You got rid of the curse of the Undead. But you continued Era of the Gods...**"
+	{
+		"chi"		"**...你摆脱了诅咒,但是你延续了众神时代...**"
+	}
+	"**Find all the Dark Orbs to open the way to the Lord of Cinder**"
+	{
+		"chi"		"**找到所有的黑眼，打开通往薪王的道路**"
+	}
+	"**Dark ember was selected...All hexes items get one more use next round**"
+	{
+		"chi"		"**黑暗灰烬被选中...下一回合所有魔法可以增加一次使用次数**"
+	}
+	"**A player has picked up Black Flame**"
+	{
+		"chi"		"**一位僵尸拿起了黑燄**"
+	}
+	"**The way to the Lord of Cinder is unlocked...**"
+	{
+		"chi"		"**通往薪王的道路已经打开**"
+	}
+	"**..The Lord of Cinder is waiting for you if you want...**"
+	{
+		"chi"		"**薪王正在等待你们的到来**"
+	}
+	"**The Usurpation of Fire ending is beginning...**"
+	{
+		"chi"		"**初火掠夺战开始... **"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"**电梯15秒后离开**"
+	}
+	"**Gwyn Lord of Cinder is dead...**"
+	{
+		"chi"		"**薪王葛温死亡...**"
+	}
+	"**After the fall of the Oolacile. Betrayal of his advisers and the disappearance of four kings...**"
+	{
+		"chi"		"**在乌拉席露被深渊侵蚀之后，小隆德四王也背叛了他...**"
+	}
+	"**...Gwyn realized that the abyss is right around him. Then he gathered his last strength...**"
+	{
+		"chi"		"**...葛温意识到了深渊就围绕在他的周围，于是他聚集起他最后的力量...**"
+	}
+	"**...He ordered Gwyndolin to seal the passage to the First Flame...**"
+	{
+		"chi"		"**...他命令葛温德林封闭通往初火的道路...**"
+	}
+	"**...Gwyn knew that only the Dark Lord will be able to reach him... and the First flame...**"
+	{
+		"chi"		"**...葛温知道只有Dark Lord可以到达他这里...同时初火最终也会...**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"10362"
 	}
 }

@@ -1,129 +1,88 @@
-"BOSSHP"
+"Console_T"
 {
-	"11965"
+	"After a long trip to mars you finally land but something strange has happend..."
 	{
-		"enable"		"0"
-		"hammerid"		"11965"
-		"m_iname"		"func_physbox1"
+		"chi"		"**在经历了漫长的太空飞行后你终于来到了火星，但是这里发生了有些奇怪的事**"
 	}
-	"12917"
+	"Map made by Xquality."
 	{
-		"enable"		"0"
-		"hammerid"		"12917"
-		"m_iname"		"wall break trap"
+		"chi"		"**地图制作:Xquality 地图翻译:觉醒之刃**"
 	}
-	"12925"
+	"Mini airlock opening in 5."
 	{
-		"enable"		"0"
-		"hammerid"		"12925"
-		"m_iname"		"wall break trap"
+		"chi"		"**迷你气闸门将在5秒后开启**"
 	}
-	"12935"
+	"Security airlock closing."
 	{
-		"enable"		"0"
-		"hammerid"		"12935"
-		"m_iname"		"wall break trap"
+		"chi"		"**安保大门已关闭**"
 	}
-	"12943"
+	"Power generator Offline."
 	{
-		"enable"		"0"
-		"hammerid"		"12943"
-		"m_iname"		"wall break trap"
+		"chi"		"**发电机离线!**"
 	}
-	"12952"
+	"Power generator waiting for restart."
 	{
-		"enable"		"0"
-		"hammerid"		"12952"
-		"m_iname"		"wall break trap"
+		"chi"		"**发电机等待重启中!**"
 	}
-	"12961"
+	"Elivator coming back."
 	{
-		"enable"		"0"
-		"hammerid"		"12961"
-		"m_iname"		"wall break trap"
+		"chi"		"**电梯回来了**"
 	}
-	"12971"
+	"Airlock opening in 20 secs."
 	{
-		"enable"		"0"
-		"hammerid"		"12971"
-		"m_iname"		"wall break trap"
+		"chi"		"**气闸门将在20秒后开启**"
 	}
-	"12621"
+	"Power Generator Online."
 	{
-		"enable"		"0"
-		"hammerid"		"12621"
-		"m_iname"		"alien fall wall"
+		"chi"		"**发电机恢复工作!**"
 	}
-	"13049"
+	"Airlock opening in 15 secs."
 	{
-		"enable"		"0"
-		"hammerid"		"13049"
-		"m_iname"		"end glass"
+		"chi"		"**气闸门将在15秒后开启**"
 	}
-	"13056"
+	"Airlock opening in 10 secs."
 	{
-		"enable"		"0"
-		"hammerid"		"13056"
-		"m_iname"		"end glass"
+		"chi"		"**气闸门将在10秒后开启**"
 	}
-	"13063"
+	"Airlock opening in 5 secs."
 	{
-		"enable"		"0"
-		"hammerid"		"13063"
-		"m_iname"		"end glass"
+		"chi"		"**气闸门将在5秒后开启**"
 	}
-	"13071"
+	"Airlock opening."
 	{
-		"enable"		"0"
-		"hammerid"		"13071"
-		"m_iname"		"end glass"
+		"chi"		"**气闸门打开了!**"
 	}
-	"13079"
+	"Pole doors closing."
 	{
-		"enable"		"0"
-		"hammerid"		"13079"
-		"m_iname"		"end glass"
+		"chi"		"**大门正在关闭**"
 	}
-	"13086"
+	"Bunker closing in 40 secs"
 	{
-		"enable"		"0"
-		"hammerid"		"13086"
-		"m_iname"		"end glass"
+		"chi"		"**碉堡将在40秒后关闭**"
 	}
-	"14021"
+	"Bunker closing in 30 secs"
 	{
-		"enable"		"0"
-		"hammerid"		"14021"
-		"m_iname"		"end glass"
+		"chi"		"**碉堡将在30秒后关闭**"
 	}
-	"14499"
+	"Bunker closing in 20 secs"
 	{
-		"enable"		"0"
-		"hammerid"		"14499"
-		"m_iname"		"end glass"
+		"chi"		"**碉堡将在20秒后关闭**"
 	}
-	"14521"
+	"Bunker closing in 10 secs"
 	{
-		"enable"		"0"
-		"hammerid"		"14521"
-		"m_iname"		"glass"
+		"chi"		"**碉堡将在10秒后关闭**"
 	}
-	"14603"
+	"Bunker closing in 5 secs"
 	{
-		"enable"		"0"
-		"hammerid"		"14603"
-		"m_iname"		"end glass"
+		"chi"		"**碉堡将在5秒后关闭**"
 	}
-	"14873"
+	"Marslab self-destructing in..."
 	{
-		"enable"		"0"
-		"hammerid"		"14873"
-		"m_iname"		"end glass"
+		"chi"		"**火星实验室即将自毁...**"
 	}
-	"14960"
+	"Bunker Secure."
 	{
-		"enable"		"0"
-		"hammerid"		"14960"
-		"m_iname"		"end glass"
+		"chi"		"**碉堡安全了!**"
 	}
+
 }

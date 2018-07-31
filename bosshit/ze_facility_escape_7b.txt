@@ -1,291 +1,139 @@
-"BOSSHP"
+"Console_T"
 {
-	"1371891"
+	"map made by Amx"
 	{
-		"enable"		"0"
-		"hammerid"		"1371891"
-		"m_iname"		"break_first_lift_001"
+		"chi"		"** **"
 	}
-	"1289565"
+	"The generator seems to be overheating."
 	{
-		"enable"		"0"
-		"hammerid"		"1289565"
-		"m_iname"		"breack_tel_zm_001"
+		"chi"		"** **"
 	}
-	"1279877"
+	"Check generator room..."
 	{
-		"enable"		"0"
-		"hammerid"		"1279877"
-		"m_iname"		"block_ladder_a"
+		"chi"		"** **"
 	}
-	"1279972"
+	"Generator system restored !"
 	{
-		"enable"		"0"
-		"hammerid"		"1279972"
-		"m_iname"		"block_ladder_b"
+		"chi"		"** **"
 	}
-	"1198912"
+	"The elevator will go up in 25 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"1198912"
-		"m_iname"		"d_e_3"
+		"chi"		"** **"
 	}
-	"1198933"
+	"the elevator will go up in 10 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"1198933"
-		"m_iname"		"d_e_4"
+		"chi"		"** **"
 	}
-	"1035307"
+	"Circuit breakers must be frozen.."
 	{
-		"enable"		"0"
-		"hammerid"		"1035307"
-		"m_iname"		"window_spot_001"
+		"chi"		"** **"
 	}
-	"1009153"
+	"18 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"1009153"
-		"m_iname"		"d_e_1"
+		"chi"		"** **"
 	}
-	"1009173"
+	"28 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"1009173"
-		"m_iname"		"d_e_2"
+		"chi"		"** **"
 	}
-	"930788"
+	"38 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"930788"
-		"m_iname"		"door_end_001"
+		"chi"		"** **"
 	}
-	"904692"
+	"48 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"904692"
-		"m_iname"		"jail_zm_002"
+		"chi"		"** **"
 	}
-	"904793"
+	"58 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"904793"
-		"m_iname"		"jail_zm_003"
+		"chi"		"** **"
 	}
-	"904883"
+	"68 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"904883"
-		"m_iname"		"jail_zm_004"
+		"chi"		"** **"
 	}
-	"896189"
+	"78 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"896189"
-		"m_iname"		"jail_zm_001"
+		"chi"		"** **"
 	}
-	"868564"
+	"88 circuit breaker works again"
 	{
-		"enable"		"0"
-		"hammerid"		"868564"
-		"m_iname"		"ice_restart_lift_002"
+		"chi"		"** **"
 	}
-	"869079"
+	"Door will open soon !"
 	{
-		"enable"		"0"
-		"hammerid"		"869079"
-		"m_iname"		"ice_restart_lift_003"
+		"chi"		"** **"
 	}
-	"869720"
+	"Not enough fuel to move the platform..."
 	{
-		"enable"		"0"
-		"hammerid"		"869720"
-		"m_iname"		"ice_restart_lift_004"
+		"chi"		"** **"
 	}
-	"851501"
+	"17 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"851501"
-		"m_iname"		"ice_restart_lift_001"
+		"chi"		"** **"
 	}
-	"352214"
+	"27 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"352214"
-		"m_iname"		"i"
+		"chi"		"** **"
 	}
-	"352281"
+	"37 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"352281"
-		"m_iname"		"j"
+		"chi"		"** **"
 	}
-	"352370"
+	"47 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"352370"
-		"m_iname"		"k"
+		"chi"		"** **"
 	}
-	"352382"
+	"57 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"352382"
-		"m_iname"		"l"
+		"chi"		"** **"
 	}
-	"352533"
+	"67 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"352533"
-		"m_iname"		"m"
+		"chi"		"** **"
 	}
-	"352635"
+	"77 Gaz can !"
 	{
-		"enable"		"0"
-		"hammerid"		"352635"
-		"m_iname"		"n"
+		"chi"		"** **"
 	}
-	"352685"
+	"All Gas Can was  found !"
 	{
-		"enable"		"0"
-		"hammerid"		"352685"
-		"m_iname"		"o"
+		"chi"		"** **"
 	}
-	"352729"
+	"The platform is coming..."
 	{
-		"enable"		"0"
-		"hammerid"		"352729"
-		"m_iname"		"p"
+		"chi"		"** **"
 	}
-	"352797"
+	"The platform will move in 5 seconds !"
 	{
-		"enable"		"0"
-		"hammerid"		"352797"
-		"m_iname"		"q"
+		"chi"		"** **"
 	}
-	"352866"
+	"Hmm... the ceiling does not look stabile..."
 	{
-		"enable"		"0"
-		"hammerid"		"352866"
-		"m_iname"		"r"
+		"chi"		"** **"
 	}
-	"346189"
+	"The chopper is coming..."
 	{
-		"enable"		"0"
-		"hammerid"		"346189"
-		"m_iname"		"a"
+		"chi"		"** **"
 	}
-	"346223"
+	"The chopper will leave in 20 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"346223"
-		"m_iname"		"b"
+		"chi"		"** **"
 	}
-	"346365"
+	"Zombies detected !!!!!"
 	{
-		"enable"		"0"
-		"hammerid"		"346365"
-		"m_iname"		"c"
+		"chi"		"** **"
 	}
-	"346447"
+	"Mission Failed !!!!!!!!!!!!"
 	{
-		"enable"		"0"
-		"hammerid"		"346447"
-		"m_iname"		"d"
+		"chi"		"** **"
 	}
-	"346593"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"346593"
-		"m_iname"		"e"
+		"syncvalue"		"80890"
 	}
-	"346676"
+	"map by Amx"
 	{
-		"enable"		"0"
-		"hammerid"		"346676"
-		"m_iname"		"f"
-	}
-	"346750"
-	{
-		"enable"		"0"
-		"hammerid"		"346750"
-		"m_iname"		"g"
-	}
-	"346795"
-	{
-		"enable"		"0"
-		"hammerid"		"346795"
-		"m_iname"		"h"
-	}
-	"327003"
-	{
-		"enable"		"0"
-		"hammerid"		"327003"
-		"m_iname"		"block_ladder_01"
-	}
-	"161140"
-	{
-		"enable"		"0"
-		"hammerid"		"161140"
-		"m_iname"		"ice_disjoncteur_01_a"
-	}
-	"161223"
-	{
-		"enable"		"0"
-		"hammerid"		"161223"
-		"m_iname"		"ice_disjoncteur_01_b"
-	}
-	"161289"
-	{
-		"enable"		"0"
-		"hammerid"		"161289"
-		"m_iname"		"ice_disjoncteur_01_c"
-	}
-	"161413"
-	{
-		"enable"		"0"
-		"hammerid"		"161413"
-		"m_iname"		"ice_disjoncteur_01_d"
-	}
-	"157019"
-	{
-		"enable"		"0"
-		"hammerid"		"157019"
-		"m_iname"		"ice_disjoncteur_01"
-	}
-	"157073"
-	{
-		"enable"		"0"
-		"hammerid"		"157073"
-		"m_iname"		"ice_disjoncteur_02"
-	}
-	"157295"
-	{
-		"enable"		"0"
-		"hammerid"		"157295"
-		"m_iname"		"ice_disjoncteur_03"
-	}
-	"157370"
-	{
-		"enable"		"0"
-		"hammerid"		"157370"
-		"m_iname"		"ice_disjoncteur_04"
-	}
-	"157577"
-	{
-		"enable"		"0"
-		"hammerid"		"157577"
-		"m_iname"		"ice_disjoncteur_fin"
-	}
-	"130330"
-	{
-		"enable"		"0"
-		"hammerid"		"130330"
-		"m_iname"		"breakable_elevator_left_001"
-	}
-	"130453"
-	{
-		"enable"		"0"
-		"hammerid"		"130453"
-		"m_iname"		"breakable_elevator_right_02"
+		"chi"		"** **"
 	}
 }

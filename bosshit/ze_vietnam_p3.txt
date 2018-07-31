@@ -1,75 +1,43 @@
-"BOSSHP"
+"Console_T"
 {
-	"322778"
+	">Door will break in 30 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"322778"
-		"m_iname"		"FirstHoldCrouch"
+		"chi"		"** **"
 	}
-	"322786"
+	">Wing will break in 30 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"322786"
-		"m_iname"		"FirstHoldCrouch"
+		"chi"		"** **"
 	}
-	"322794"
+	">Wing will break in 10 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"322794"
-		"m_iname"		"FirstHoldCrouch"
+		"chi"		"** **"
 	}
-	"322802"
+	">Bars will break in 30 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"322802"
-		"m_iname"		"FirstHoldCrouch"
+		"chi"		"** **"
 	}
-	"30498"
+	">Boat leaving in 60 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"30498"
-		"m_iname"		"river_door"
+		"chi"		"** **"
 	}
-	"31311"
+	">Get in the boat!!!<"
 	{
-		"enable"		"0"
-		"hammerid"		"31311"
-		"m_iname"		"plane_door"
+		"chi"		"** **"
 	}
-	"31524"
+	"> Use the console to launch nuke <"
 	{
-		"enable"		"0"
-		"hammerid"		"31524"
-		"m_iname"		"river2_planks"
+		"chi"		"** **"
 	}
-	"31970"
+	"> NUKE exploding in 50 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"31970"
-		"m_iname"		"river2_bars"
+		"chi"		"** **"
 	}
-	"35216"
+	"> NUKE exploding in 10 sec<"
 	{
-		"enable"		"0"
-		"hammerid"		"35216"
-		"m_iname"		"cave_doors"
+		"chi"		"** **"
 	}
-	"35225"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"35225"
-		"m_iname"		"cave_doors"
-	}
-	"68587"
-	{
-		"enable"		"0"
-		"hammerid"		"68587"
-		"m_iname"		"end_gate"
-	}
-	"31250"
-	{
-		"enable"		"0"
-		"hammerid"		"31250"
-		"m_iname"		"plane_wing"
+		"syncvalue"		"54656"
 	}
 }

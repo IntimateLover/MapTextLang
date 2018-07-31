@@ -1,279 +1,211 @@
-"BOSSHP"
+"Console_T"
 {
-	"338260"
+	"** MAP MADE BY PATRAO **"
 	{
-		"enable"		"1"
-		"hammerid"		"338260"
-		"m_iname"		"portalboss1"
+		"chi"		"**地图由PATRAO制作&Dy2084翻译**"
 	}
-	"45154"
+	"** SPECIAL THANKS TO ENVIOLINADOR **"
 	{
-		"enable"		"1"
-		"hammerid"		"45154"
-		"m_iname"		"ColorBoss"
+		"chi"		"**特别感谢：ENVIOLINADOR**"
 	}
-	"101698"
+	"** WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER **"
 	{
-		"enable"		"1"
-		"hammerid"		"101698"
-		"m_iname"		"hideboss1"
+		"chi"		"**菜B爬梯子走中间的玻璃路，想装B的爬墙**"
 	}
-	"313149"
+	"** HOLD FOR 30 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"313149"
-		"m_iname"		"Coolr"
+		"chi"		"**防守30秒**"
 	}
-	"67321"
+	"** HOLD THIS AREA FOR 60 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"67321"
-		"m_iname"		"cade"
+		"chi"		"**防守这个地方60秒**"
 	}
-	"4615"
+	"** Cool'R Gun has been picked up. Press +USE (E) to activate. **"
 	{
-		"enable"		"0"
-		"hammerid"		"4615"
-		"m_iname"		"paredes3"
+		"chi"		"**“冰冻枪”被捡起。按E使用**"
 	}
-	"4624"
+	"** It has a 75 seconds cooldown. **"
 	{
-		"enable"		"0"
-		"hammerid"		"4624"
-		"m_iname"		"paredes3"
+		"chi"		"**“冰冻枪”冷却时间为75秒**"
 	}
-	"4706"
+	"** 5 SECONDS LEFT **"
 	{
-		"enable"		"0"
-		"hammerid"		"4706"
-		"m_iname"		"paredes4"
+		"chi"		"**还有5秒**"
 	}
-	"4886"
+	"** CHOOSE ONE PORTAL**"
 	{
-		"enable"		"0"
-		"hammerid"		"4886"
-		"m_iname"		"ladder1"
+		"chi"		"**绿色传送门容易防守，想装B的走红色**"
 	}
-	"4052"
+	"** HOLD THIS AREA FOR 30 SECONDS! **"
 	{
-		"enable"		"0"
-		"hammerid"		"4052"
-		"m_iname"		"parede2"
+		"chi"		"**防守这个地方30秒**"
 	}
-	"32747"
+	"** 5 more seconds **"
 	{
-		"enable"		"0"
-		"hammerid"		"32747"
-		"m_iname"		"portarolantes1"
+		"chi"		"**再守5秒**"
 	}
-	"33175"
+	"** HOLD THIS AREA FOR 33 SECONDS! **"
 	{
-		"enable"		"0"
-		"hammerid"		"33175"
-		"m_iname"		"escadas5"
+		"chi"		"**防守这个地方33秒**"
 	}
-	"34422"
+	"** TELEPORT CHARGING ** "
 	{
-		"enable"		"0"
-		"hammerid"		"34422"
-		"m_iname"		"blocos1"
+		"chi"		"**传送门充能中**"
 	}
-	"37709"
+	"HOLD ZOMBIES UNTILL IT IS FULLY CHARGED "
 	{
-		"enable"		"0"
-		"hammerid"		"37709"
-		"m_iname"		"coberto1"
+		"chi"		"**抵挡僵尸进攻直到传送门充能完毕**"
 	}
-	"37728"
+	"** BUILDER HAS BEEN PICKED UP! **"
 	{
-		"enable"		"0"
-		"hammerid"		"37728"
-		"m_iname"		"coberto1"
+		"chi"		"**“墙”被捡起了，可以按E使用**"
 	}
-	"37868"
+	"** 25 % CHARGED **"
 	{
-		"enable"		"0"
-		"hammerid"		"37868"
-		"m_iname"		"parede5"
+		"chi"		"**已充能25% **"
 	}
-	"38503"
+	"** USE IT WELL! IT CAN ONLY BE USED 5 TIMES **"
 	{
-		"enable"		"0"
-		"hammerid"		"38503"
-		"m_iname"		"destroi1"
+		"chi"		"**好好利用“墙”，它只能被使用五次**"
 	}
-	"39239"
+	"** 50 % CHARGED **"
 	{
-		"enable"		"0"
-		"hammerid"		"39239"
-		"m_iname"		"vidroB"
+		"chi"		"**已充能50 %**"
 	}
-	"39251"
+	"** 75% CHARGED **"
 	{
-		"enable"		"0"
-		"hammerid"		"39251"
-		"m_iname"		"vidroB"
+		"chi"		"**已充能75%**"
 	}
-	"4916"
+	"** 100 %! GO GO GO!!! **"
 	{
-		"enable"		"0"
-		"hammerid"		"4916"
-		"m_iname"		"parede5"
+		"chi"		"**已充能完毕！走起！**"
 	}
-	"39604"
+	"** HOLD THIS AREA FOR 50 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"39604"
-		"m_iname"		"escadas51"
+		"chi"		"**防守这个地方50秒**"
 	}
-	"39740"
+	"** SHOOT ZOMBIES OUT UNTILL LADDER BREAKS **"
 	{
-		"enable"		"0"
-		"hammerid"		"39740"
-		"m_iname"		"escadaB1"
+		"chi"		"**抵挡僵尸的进攻！直到僵尸梯子损坏为止！**"
 	}
-	"93705"
+	"** HOLD ZOMBIES FOR 50 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"93705"
-		"m_iname"		"patrao1"
+		"chi"		"**坚守阵地50秒！**"
+		"DoorCountDown"		"50"
 	}
-	"94063"
+	"** ZOMBIES: CLIMB THE STAIRS! **"
 	{
-		"enable"		"0"
-		"hammerid"		"94063"
-		"m_iname"		"trap1"
+		"chi"		"**僵尸快爬楼梯上去！**"
 	}
-	"103519"
+	"** The giant colored man-god salutes you... as you will on his domain! **"
 	{
-		"enable"		"0"
-		"hammerid"		"103519"
-		"m_iname"		"vidrosspawn"
+		"chi"		"**啊！我们被小丑GANK了，快解决他！**"
 	}
-	"103638"
+	"** Throw all your nades! **"
 	{
-		"enable"		"0"
-		"hammerid"		"103638"
-		"m_iname"		"patrao1"
+		"chi"		"**手雷能对BOSS造成极大伤害，扔出你的手雷！**"
 	}
-	"117572"
+	"** He's going to annihilate us in 10 seconds... SHOOT!!!**"
 	{
-		"enable"		"0"
-		"hammerid"		"117572"
-		"m_iname"		"door2"
+		"chi"		"**在10秒内消灭BOSS！不然我们就完蛋了！**"
 	}
-	"117605"
+	"** HE HAS LOADED HIS WEAPON!!! WE ARE DEAD!!!**"
 	{
-		"enable"		"0"
-		"hammerid"		"117605"
-		"m_iname"		"door3"
+		"chi"		"**我们完蛋了！**"
 	}
-	"118217"
+	"** HOLD THIS AREA FOR 30 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"118217"
-		"m_iname"		"patha2"
+		"chi"		"**守住这个地方30秒**"
 	}
-	"118470"
+	"** NUKE BUTTON UNLOCKED! **"
 	{
-		"enable"		"0"
-		"hammerid"		"118470"
-		"m_iname"		"patha2b"
+		"chi"		"**核弹启动按钮已解锁**"
 	}
-	"120523"
+	"** NUKE ACTIVATED **"
 	{
-		"enable"		"0"
-		"hammerid"		"120523"
-		"m_iname"		"pathb1"
+		"chi"		"**核弹已启动**"
 	}
-	"120574"
+	"** 5 **"
 	{
-		"enable"		"0"
-		"hammerid"		"120574"
-		"m_iname"		"pathb3"
+		"chi"		"**5**"
 	}
-	"120764"
+	"** 4 **"
 	{
-		"enable"		"0"
-		"hammerid"		"120764"
-		"m_iname"		"pathb4"
+		"chi"		"**4**"
 	}
-	"120841"
+	"** 3 **"
 	{
-		"enable"		"0"
-		"hammerid"		"120841"
-		"m_iname"		"pathb5"
+		"chi"		"**3**"
 	}
-	"120968"
+	"** 2 **"
 	{
-		"enable"		"0"
-		"hammerid"		"120968"
-		"m_iname"		"end1stage1"
+		"chi"		"**2**"
 	}
-	"120401"
+	"** 1 **"
 	{
-		"enable"		"0"
-		"hammerid"		"120401"
-		"m_iname"		"patha2b"
+		"chi"		"**1**"
 	}
-	"117536"
+	"** HOLD ZOMBIES FOR 45 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"117536"
-		"m_iname"		"door1"
+		"chi"		"**抵挡僵尸进攻45秒**"
 	}
-	"129412"
+	"** WALL BREAKING IN 5 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"129412"
-		"m_iname"		"vidrosspawn"
+		"chi"		"**墙在5秒后崩塌**"
 	}
-	"129448"
+	"** HOLD THIS PLATFORM FOR 37 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"129448"
-		"m_iname"		"vidrosspawn"
+		"chi"		"**守住这个平台37秒**"
+		"DoorCountDown"		"37"
 	}
-	"129640"
+	"** HOLD FOR 25 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"129640"
-		"m_iname"		"vidrosspawn"
+		"chi"		"**防守25秒**"
+		"DoorCountDown"		"25"
 	}
-	"117996"
+	"** HOLD ZOMBIES FOR 30 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"117996"
-		"m_iname"		"end1a"
+		"chi"		"**抵挡僵尸进攻30秒**"
 	}
-	"140557"
+	"** ELEVATOR LEAVING IN 30 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"140557"
-		"m_iname"		"vidrosspawn"
+		"chi"		"**电梯在30秒后离开**"
 	}
-	"140572"
+	"** ELEVATOR LEAVING IN 5 SECONDS **"
 	{
-		"enable"		"0"
-		"hammerid"		"140572"
-		"m_iname"		"vidrosspawn"
+		"chi"		"**电梯在5秒后离开！**"
+		"DoorCountDown"		"5"
 	}
-	"155358"
+	"** CoolR Gun has been picked up. Press +USE (E) to activate. **"
 	{
-		"enable"		"0"
-		"hammerid"		"155358"
-		"m_iname"		"vidrosspawn"
+		"chi"		"** **"
 	}
-	"155479"
+	"** TELEPORT CHARGING **"
 	{
-		"enable"		"0"
-		"hammerid"		"155479"
-		"m_iname"		"blocos1"
+		"chi"		"** **"
 	}
-	"158202"
+	"HOLD ZOMBIES UNTILL IT IS FULLY CHARGED"
 	{
-		"enable"		"0"
-		"hammerid"		"158202"
-		"m_iname"		"wallhold1"
+		"chi"		"** **"
+	}
+	"** Hes going to annihilate us in 10 seconds... SHOOT!!!**"
+	{
+		"chi"		"** **"
+	}
+	"** THE COLORED MAN-GOD IS DEAD!!! GET ON TOP OF THE BLUE AREA! **"
+	{
+		"chi"		"** **"
+	}
+	"** ONLY 5 SECONDS LEFT! GO!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU DID IT!!! **"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,363 +1,1115 @@
-"BOSSHP"
+"Console_GameText"
 {
-	"5003443"
+	"Introduction"
 	{
-		"enable"		"0"
-		"hammerid"		"5003443"
-		"m_iname"		"plasmid_upgrader_electro"
+		"chi"		"**介绍 **"
 	}
-	"4736726"
+	"ze_bioshock
+by DormantLemon"
 	{
-		"enable"		"0"
-		"hammerid"		"4736726"
-		"m_iname"		"secret_airship_item"
+		"chi"		"**地图作者：DormantLemon **"
 	}
-	"4736716"
+	"0m 59s"
 	{
-		"enable"		"0"
-		"hammerid"		"4736716"
-		"m_iname"		"secret_cage_item"
+		"chi"		"**0分59秒 **"
 	}
-	"2922"
+	"0m 58s"
 	{
-		"enable"		"0"
-		"hammerid"		"2922"
-		"m_iname"		"welcome_entrance_late_ladder_bl"
+		"chi"		"**0分58秒 **"
 	}
-	"4736721"
+	"0m 57s"
 	{
-		"enable"		"0"
-		"hammerid"		"4736721"
-		"m_iname"		"secret_bird_item"
+		"chi"		"**0分57秒 **"
 	}
-	"4903952"
+	"0m 56s"
 	{
-		"enable"		"0"
-		"hammerid"		"4903952"
-		"m_iname"		"secret_vox_item"
+		"chi"		"**0分56秒 **"
 	}
-	"5062650"
+	"0m 55s"
 	{
-		"enable"		"0"
-		"hammerid"		"5062650"
-		"m_iname"		"plasmid_upgrader_cyclone"
+		"chi"		"**0分55秒 **"
 	}
-	"5061595"
+	"0m 54s"
 	{
-		"enable"		"0"
-		"hammerid"		"5061595"
-		"m_iname"		"plasmid_upgrader_incinerate"
+		"chi"		"**0分54秒 **"
 	}
-	"5063382"
+	"0m 53s"
 	{
-		"enable"		"0"
-		"hammerid"		"5063382"
-		"m_iname"		"plasmid_upgrader_gravity"
+		"chi"		"**0分53秒 **"
 	}
-	"5082256"
+	"0m 52s"
 	{
-		"enable"		"0"
-		"hammerid"		"5082256"
-		"m_iname"		"plasmid_upgrader_frost"
+		"chi"		"**0分52秒 **"
 	}
-	"7943"
+	"0m 51s"
 	{
-		"enable"		"0"
-		"hammerid"		"7943"
-		"m_iname"		"siren_alley_cage"
+		"chi"		"**0分51秒 **"
 	}
-	"5318014"
+	"0m 50s"
 	{
-		"enable"		"0"
-		"hammerid"		"5318014"
-		"m_iname"		"plasmid_upgrader_insect"
+		"chi"		"**0分50秒 **"
 	}
-	"25476"
+	"0m 49s"
 	{
-		"enable"		"0"
-		"hammerid"		"25476"
-		"m_iname"		"bouncer_zombie_block"
+		"chi"		"**0分49秒 **"
 	}
-	"2535712"
+	"0m 48s"
 	{
-		"enable"		"0"
-		"hammerid"		"2535712"
-		"m_iname"		"spawn_big_daddy_wall"
+		"chi"		"**0分48秒 **"
 	}
-	"5197366"
+	"0m 47s"
 	{
-		"enable"		"0"
-		"hammerid"		"5197366"
-		"m_iname"		"perma_end_tunnel_4"
+		"chi"		"**0分47秒 **"
 	}
-	"5197415"
+	"0m 46s"
 	{
-		"enable"		"0"
-		"hammerid"		"5197415"
-		"m_iname"		"perma_end_tunnel_2"
+		"chi"		"**0分46秒 **"
 	}
-	"5197442"
+	"0m 45s"
 	{
-		"enable"		"0"
-		"hammerid"		"5197442"
-		"m_iname"		"perma_end_tunnel_1"
+		"chi"		"**0分45秒 **"
 	}
-	"5940323"
+	"0m 44s"
 	{
-		"enable"		"1"
-		"hammerid"		"5940323"
-		"m_iname"		"cutscene_welcome_boss_wall"
+		"chi"		"**0分44秒 **"
 	}
-	"6060866"
+	"0m 43s"
 	{
-		"enable"		"0"
-		"hammerid"		"6060866"
-		"m_iname"		"cutscene_welcome_boss_separator"
+		"chi"		"**0分43秒 **"
 	}
-	"6304055"
+	"0m 42s"
 	{
-		"enable"		"0"
-		"hammerid"		"6304055"
-		"m_iname"		"skybox_rapture_buildings"
+		"chi"		"**0分42秒 **"
 	}
-	"6988570"
+	"0m 41s"
 	{
-		"enable"		"0"
-		"hammerid"		"6988570"
-		"m_iname"		"skybox_rapture_buildings"
+		"chi"		"**0分41秒 **"
 	}
-	"6303992"
+	"0m 40s"
 	{
-		"enable"		"0"
-		"hammerid"		"6303992"
-		"m_iname"		"skybox_rapture_buildings"
+		"chi"		"**0分40秒 **"
 	}
-	"7073460"
+	"0m 39s"
 	{
-		"enable"		"1"
-		"hammerid"		"7073460"
-		"m_iname"		"fontaine_1_hitbox"
+		"chi"		"**0分39秒 **"
 	}
-	"7513844"
+	"0m 38s"
 	{
-		"enable"		"1"
-		"hammerid"		"7513844"
-		"m_iname"		"welcome_alt_boss_wall"
+		"chi"		"**0分38秒 **"
 	}
-	"8801688"
+	"0m 37s"
 	{
-		"enable"		"1"
-		"hammerid"		"8801688"
-		"m_iname"		"songbird_hitbox_head"
+		"chi"		"**0分37秒 **"
 	}
-	"9082874"
+	"0m 36s"
 	{
-		"enable"		"0"
-		"hammerid"		"9082874"
-		"m_iname"		"HARD_ONLY_ENTITY"
+		"chi"		"**0分36秒 **"
 	}
-	"9193483"
+	"0m 35s"
 	{
-		"enable"		"0"
-		"hammerid"		"9193483"
-		"m_iname"		"perma_end_tunnel_3"
+		"chi"		"**0分35秒 **"
 	}
-	"9369769"
+	"0m 34s"
 	{
-		"enable"		"0"
-		"hammerid"		"9369769"
-		"m_iname"		"hepahestus_wall"
+		"chi"		"**0分34秒 **"
 	}
-	"9478979"
+	"0m 33s"
 	{
-		"enable"		"0"
-		"hammerid"		"9478979"
-		"m_iname"		"skybox_rapture_buildings"
+		"chi"		"**0分33秒 **"
 	}
-	"9567074"
+	"0m 32s"
 	{
-		"enable"		"0"
-		"hammerid"		"9567074"
-		"m_iname"		"skybox_skysphere_bottom"
+		"chi"		"**0分32秒 **"
 	}
-	"5857169"
+	"0m 31s"
 	{
-		"enable"		"1"
-		"hammerid"		"5857169"
-		"m_iname"		"turret_rocket_hitbox"
+		"chi"		"**0分31秒 **"
 	}
-	"5858415"
+	"0m 30s"
 	{
-		"enable"		"1"
-		"hammerid"		"5858415"
-		"m_iname"		"turret_machinegun_hitbox"
+		"chi"		"**0分30秒 **"
 	}
-	"2391178"
+	"0m 29s"
 	{
-		"enable"		"0"
-		"hammerid"		"2391178"
-		"m_iname"		"EASY_ONLY_ENTITY"
+		"chi"		"**0分29秒 **"
 	}
-	"7556132"
+	"0m 28s"
 	{
-		"enable"		"0"
-		"hammerid"		"7556132"
-		"m_iname"		"EASY_ONLY_ENTITY"
+		"chi"		"**0分28秒 **"
 	}
-	"7753547"
+	"0m 27s"
 	{
-		"enable"		"0"
-		"hammerid"		"7753547"
-		"m_iname"		"EASY_ONLY_ENTITY"
+		"chi"		"**0分27秒 **"
 	}
-	"5858318"
+	"0m 26s"
 	{
-		"enable"		"1"
-		"hammerid"		"5858318"
-		"m_iname"		"turret_flamethrower_hitbox"
+		"chi"		"**0分26秒 **"
 	}
-	"5691201"
+	"0m 25s"
 	{
-		"enable"		"0"
-		"hammerid"		"5691201"
-		"m_iname"		"bouncer_physbox"
+		"chi"		"**0分25秒 **"
 	}
-	"6060950"
+	"0m 24s"
 	{
-		"enable"		"1"
-		"hammerid"		"6060950"
-		"m_iname"		"bouncer_physbox_hp"
+		"chi"		"**0分24秒 **"
 	}
-	"4162589"
+	"0m 23s"
 	{
-		"enable"		"0"
-		"hammerid"		"4162589"
-		"m_iname"		"frolic_zombie_cage"
+		"chi"		"**0分23秒 **"
 	}
-	"4162632"
+	"0m 22s"
 	{
-		"enable"		"0"
-		"hammerid"		"4162632"
-		"m_iname"		"frolic_cohen_stair_blocker"
+		"chi"		"**0分22秒 **"
 	}
-	"9304259"
+	"0m 21s"
 	{
-		"enable"		"0"
-		"hammerid"		"9304259"
-		"m_iname"		"frolic_alt_end_wall"
+		"chi"		"**0分21秒 **"
 	}
-	"6000793"
+	"0m 20s"
 	{
-		"enable"		"0"
-		"hammerid"		"6000793"
-		"m_iname"		"arcadia_exit_door"
+		"chi"		"**0分20秒 **"
 	}
-	"4032579"
+	"0m 19s"
 	{
-		"enable"		"0"
-		"hammerid"		"4032579"
-		"m_iname"		"columbia_patriot_health"
+		"chi"		"**0分19秒 **"
 	}
-	"6692393"
+	"0m 18s"
 	{
-		"enable"		"1"
-		"hammerid"		"6692393"
-		"m_iname"		"hephaestus_boss_cage_door"
+		"chi"		"**0分18秒 **"
 	}
-	"8609319"
+	"0m 17s"
 	{
-		"enable"		"1"
-		"hammerid"		"8609319"
-		"m_iname"		"columbia_alt_boss_exit_breakabl"
+		"chi"		"**0分17秒 **"
 	}
-	"8844631"
+	"0m 16s"
 	{
-		"enable"		"0"
-		"hammerid"		"8844631"
-		"m_iname"		"columbia_alt_exit_breakable_cag"
+		"chi"		"**0分16秒 **"
 	}
-	"8910514"
+	"0m 15s"
 	{
-		"enable"		"1"
-		"hammerid"		"8910514"
-		"m_iname"		"columbia_lighthouse_hitbox"
+		"chi"		"**0分15秒 **"
 	}
-	"9676013"
+	"0m 14s"
 	{
-		"enable"		"0"
-		"hammerid"		"9676013"
-		"m_iname"		"plasmid_gravity_physbox_1&6761"
+		"chi"		"**0分14秒 **"
 	}
-	"7927262"
+	"0m 13s"
 	{
-		"enable"		"0"
-		"hammerid"		"7927262"
-		"m_iname"		"frolic_poseidon_block_stairs"
+		"chi"		"**0分13秒 **"
 	}
-	"8082390"
+	"0m 12s"
 	{
-		"enable"		"0"
-		"hammerid"		"8082390"
-		"m_iname"		"welcome_alt_atrium_wall"
+		"chi"		"**0分12秒 **"
 	}
-	"8194752"
+	"0m 11s"
 	{
-		"enable"		"0"
-		"hammerid"		"8194752"
-		"m_iname"		"arcadia_alt_wall"
+		"chi"		"**0分11秒 **"
 	}
-	"4201246"
+	"0m 10s"
 	{
-		"enable"		"1"
-		"hammerid"		"4201246"
-		"m_iname"		"cohen_hitbox"
+		"chi"		"**0分10秒 **"
 	}
-	"7072628"
+	"0m 09s"
 	{
-		"enable"		"0"
-		"hammerid"		"7072628"
-		"m_iname"		"fontaine_2_breakable"
+		"chi"		"**0分09秒 **"
 	}
-	"9676032"
+	"0m 08s"
 	{
-		"enable"		"0"
-		"hammerid"		"9676032"
-		"m_iname"		"plasmid_gravity_physbox_3"
+		"chi"		"**0分08秒 **"
 	}
-	"10235857"
+	"0m 07s"
 	{
-		"enable"		"0"
-		"hammerid"		"10235857"
-		"m_iname"		"plasmid_upgrader_gravity"
+		"chi"		"**0分07秒 **"
 	}
-	"10235907"
+	"0m 06s"
 	{
-		"enable"		"0"
-		"hammerid"		"10235907"
-		"m_iname"		"plasmid_upgrader_frost"
+		"chi"		"**0分06秒 **"
 	}
-	"10235788"
+	"0m 05s"
 	{
-		"enable"		"0"
-		"hammerid"		"10235788"
-		"m_iname"		"plasmid_upgrader_cyclone"
+		"chi"		"**0分05秒 **"
 	}
-	"10235605"
+	"0m 04s"
 	{
-		"enable"		"0"
-		"hammerid"		"10235605"
-		"m_iname"		"plasmid_upgrader_electro"
+		"chi"		"**0分04秒 **"
 	}
-	"10235740"
+	"0m 03s"
 	{
-		"enable"		"0"
-		"hammerid"		"10235740"
-		"m_iname"		"plasmid_upgrader_incinerate"
+		"chi"		"**0分03秒 **"
 	}
-	"9676029"
+	"0m 02s"
 	{
-		"enable"		"0"
-		"hammerid"		"9676029"
-		"m_iname"		"plasmid_gravity_physbox_2&3600"
+		"chi"		"**0分02秒 **"
+	}
+	"0m 01s"
+	{
+		"chi"		"**0分01秒 **"
+	}
+	"Chapter 1 - Welcome to Rapture"
+	{
+		"chi"		"**第一章-欢迎到来 **"
+	}
+	"Difficulty - Hard"
+	{
+		"chi"		"**难度-困难 **"
+	}
+	"Wait for Bathysphere arrival"
+	{
+		"chi"		"**等待潜水装置的到来 **"
+	}
+	"Bathysphere is docking..."
+	{
+		"chi"		"**潜水装置对接… **"
+	}
+	"Get in the Bathysphere"
+	{
+		"chi"		"**进入潜水装置 **"
+	}
+	"Tonic Static Shell
+Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
+Activation: Contact with a splicer"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Incinerate
+Effect: Ignite splicers with a fireball! 
+Duration: 7 Secs
+Uses: 8(Easy)  5(Hard)
+Cooldown: 5 Secs"
+	{
+		"chi"		"焚化质粒
+++效果：点燃一个火球！
+++持续时间：7秒
+++使用次数：8次（简单难度）5次（困难难度）
+++冷却时间：5秒"
+	}
+	"Plasmid: Gravity Well
+Effect: Drag your enemies into a pit! 
+Duration: 5 Secs 
+Uses: 5(Easy)  3(Hard)
+Cooldown: 18 Secs"
+	{
+		"chi"		"重力质粒
+++效果:把僵尸吸到一起!
+++持续时间:5秒
+++使用次数:5次(简单难度)3次(困难难度)
+++冷却时间:18秒"
+	}
+	"Hold the Atrium"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Electro Bolt
+Effect: Stun splicers with a bolt of electricity!
+Duration: 4 Secs 
+Uses: 6(Easy)  4(Hard)
+Cooldown: 11 Secs"
+	{
+		"chi"		"闪电质粒
+++效果:眩晕并伤害僵尸!
+++持续时间:4秒
+++使用次数:6次(简单难度)4次（困难难度）
+++冷却时间:11秒"
+	}
+	"Difficulty - Easy"
+	{
+		"chi"		"**难度-简单 **"
+	}
+	"Plasmid: Winter Blast
+Effect: Freeze your enemies! 
+Duration: 3 Secs 
+Uses: 5(Hard)  3(Easy)
+Cooldown: 13 Secs"
+	{
+		"chi"		"速冻质粒
+++效果:冻结僵尸!
+++持续时间:3秒
+++使用次数:5次(简单难度)3次(困难难度)
+++冷却时间:13秒"
+	}
+	"Hold until security door releases"
+	{
+		"chi"		"**守住.直到安全门开启 **"
+	}
+	"Wait for the elevator's arrival"
+	{
+		"chi"		"**等待电梯的到来 **"
+	}
+	"Tonic Flash Flare
+Effect: Your flesh is glowing. Blind the enemies when you die! 
+Activation: Contact with a splicer"
+	{
+		"chi"		"** **"
+	}
+	"Plasmid: Sonic Boom
+Effect: Blast splicers away with an airwave!
+Duration: 2 Secs
+Uses: 8(Easy)  5(Hard)
+Cooldown: 10 Secs"
+	{
+		"chi"		"音爆质粒
+++效果:爆炸将会伤害僵尸并产生冲击波!
+++持续时间:2秒
+++使用次数:8次(简单难度)5次(困难难度)
+++冷却时间:10秒"
+	}
+	"Elevator 1 is leaving"
+	{
+		"chi"		"**电梯1离开 **"
+	}
+	"Hold until the security door releases"
+	{
+		"chi"		"**守住.直到安全门开启 **"
+	}
+	"Rapture Metro is inbound"
+	{
+		"chi"		"**地铁进站了 **"
+	}
+	"Board and defend the Rapture Metro"
+	{
+		"chi"		"**进入地铁并守住 **"
+	}
+	"Chapter 2 - Siren Alley & Fort Frolic"
+	{
+		"chi"		"**第二章-Siren Alley & Fort Frolic **"
+	}
+	"Wait for Siren Alley doors to unlock"
+	{
+		"chi"		"**等待Siren Alley大门解锁 **"
+	}
+	"Hide or hold until the exit has drained"
+	{
+		"chi"		"**生存或守住-直到出口打开 **"
+	}
+	"1m 23s"
+	{
+		"chi"		"**1分23秒 **"
+	}
+	"1m 22s"
+	{
+		"chi"		"**1分22秒 **"
+	}
+	"1m 21s"
+	{
+		"chi"		"**1分21秒 **"
+	}
+	"1m 20s"
+	{
+		"chi"		"**1分20秒 **"
+	}
+	"1m 19s"
+	{
+		"chi"		"**1分19秒 **"
+	}
+	"1m 18s"
+	{
+		"chi"		"**1分18秒 **"
+	}
+	"1m 17s"
+	{
+		"chi"		"**1分17秒 **"
+	}
+	"1m 16s"
+	{
+		"chi"		"**1分16秒 **"
+	}
+	"1m 15s"
+	{
+		"chi"		"**1分15秒 **"
+	}
+	"1m 14s"
+	{
+		"chi"		"**1分14秒 **"
+	}
+	"1m 13s"
+	{
+		"chi"		"**1分13秒 **"
+	}
+	"1m 12s"
+	{
+		"chi"		"**1分12秒 **"
+	}
+	"1m 11s"
+	{
+		"chi"		"**1分11秒 **"
+	}
+	"1m 10s"
+	{
+		"chi"		"**1分10秒 **"
+	}
+	"1m 09s"
+	{
+		"chi"		"**1分09秒 **"
+	}
+	"1m 08s"
+	{
+		"chi"		"**1分08秒 **"
+	}
+	"1m 07s"
+	{
+		"chi"		"**1分07秒 **"
+	}
+	"1m 06s"
+	{
+		"chi"		"**1分06秒 **"
+	}
+	"1m 05s"
+	{
+		"chi"		"**1分05秒 **"
+	}
+	"1m 04s"
+	{
+		"chi"		"**1分04秒 **"
+	}
+	"1m 03s"
+	{
+		"chi"		"**1分03秒 **"
+	}
+	"1m 02s"
+	{
+		"chi"		"**1分02秒 **"
+	}
+	"1m 01s"
+	{
+		"chi"		"**1分01秒 **"
+	}
+	"1m 00s"
+	{
+		"chi"		"**1分00秒 **"
+	}
+	"Hold the Decompression Chamber"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"Defend until Cohen opens the doors"
+	{
+		"chi"		"**直到Cohen打开大门 **"
+	}
+	"Hold the doorway"
+	{
+		"chi"		"**守住门口 **"
+	}
+	"Plasmid: Insect Swarm
+Effect: Harm splicers with a swarm of bees
+Uses: 5(Easy)  3(Hard) 
+Cooldown: 10 Secs"
+	{
+		"chi"		"蜂群质粒
+++效果：产生一大群蜜蜂伤害僵尸
+++使用次数：5次（简单难度）3次（困难难度）
+++冷却时间：10秒 **"
+	}
+	"Defeat Sander Cohen"
+	{
+		"chi"		"**击败Sander Cohen **"
+	}
+	"Stairs are open"
+	{
+		"chi"		"**楼梯已开放 **"
+	}
+	"Wait for Poseidon Plaza to unfreeze"
+	{
+		"chi"		"**等待海神广场解冻 **"
+	}
+	"Defend while the door unfreezes"
+	{
+		"chi"		"**守住.直到大门解冻 **"
+	}
+	"Defend Jasmine Jolie's room"
+	{
+		"chi"		"**守住Jasmine Jolie's的房间 **"
+	}
+	"Chapter 3 - Arcadia"
+	{
+		"chi"		"**第3章 - 阿卡迪亚 **"
+	}
+	"Hold the balcony"
+	{
+		"chi"		"**守住阳台 **"
+	}
+	"Hold Julie Langford's Garden"
+	{
+		"chi"		"**守住朱莉兰福德的花园 **"
+	}
+	"Wait for Hydroponics Drainage to empty"
+	{
+		"chi"		"**等待水排干净 **"
+	}
+	"Hold until the security door unlocks"
+	{
+		"chi"		"**直到安全门解锁 **"
+	}
+	"Detonate and destroy the tunnel"
+	{
+		"chi"		"**引爆，摧毁隧道 **"
+	}
+	"Splicers must not make it past the marker"
+	{
+		"chi"		"**不能让僵尸过去 **"
+	}
+	"ze_bioshock
+by DormantLemon"
+	{
+		"chi"		"**地图作者：DormantLemon **"
+	}
+	"Plasmid: Incinerate
+Effect: Ignite splicers with a fireball! 
+Duration: 7 Secs
+Uses: 8(Easy)  5(Hard)
+Cooldo"
+	{
+		"chi"		"**焚化质粒
+++效果：点燃一个火球！
+++持续时间：7秒
+++使用次数：8次（简单难度）5次（困难难度）
+++冷却时间：5秒 **"
+	}
+	"Plasmid: Electro Bolt
+Effect: Stun splicers with a bolt of electricity!
+Duration: 4 Secs 
+Uses: 6(Easy)  4(H"
+	{
+		"chi"		"**闪电质粒
+++效果:眩晕并伤害僵尸!
+++持续时间:4秒
+++使用次数:6次(简单难度)4次（困难难度）
+++冷却时间:11秒 **"
+	}
+	"Tonic Flash Flare
+Effect: Your flesh is glowing. Blind the enemies when you die! 
+Activation: Contact with a"
+	{
+		"chi"		"**补给闪光弹
+效果:你的肉体在发光,当你死时，把敌人闪瞎
+激活方法：接触**"
+	}
+	"Plasmid: Gravity Well
+Effect: Drag your enemies into a pit! 
+Duration: 5 Secs 
+Uses: 5(Easy)  3(Hard)
+Cooldo"
+	{
+		"chi"		"**
+		重力质粒
+++效果:把僵尸吸到一起!
+++持续时间:5秒
+++使用次数:5次(简单难度)3次(困难难度)
+++冷却时间:18秒 **"
+	}
+	">>ze_bioshock<<"
+	{
+		"chi"		"**ze_bioshock **"
+	}
+	">>Map by DormantLemon<<"
+	{
+		"chi"		"**地图作者：DormantLemon **"
+	}
+	">>Introduction<<"
+	{
+		"chi"		"**介绍 **"
+	}
+	">>>Warmup ends in 60 seconds<<<"
+	{
+		"chi"		"**热身回合60秒后结束 **"
+	}
+	">>Current Difficulty: Hard<<"
+	{
+		"chi"		"**当前难度：困难 **"
+	}
+	">>TIP #1: Big Daddy is immensely strong. Dont let him get close<<"
+	{
+		"chi"		"**提示1：Daddy非常强大.要不让他靠近你们 **"
+	}
+	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
+	{
+		"chi"		"**提示2:通关失败会使地图更容易，不要放弃! **"
+	}
+	">>TIP #3: Plasmids are limited use. Keep count!<<"
+	{
+		"chi"		"**提示3：质粒的使用受到限制,酌情使用！ **"
+	}
+	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
+	{
+		"chi"		"**提示4：在人民站台升级你的质粒，升级是永久性的，请谨慎选择！ **"
+	}
+	">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
+	{
+		"chi"		"**提示5:小妹妹可以收获尸体来给予队友基因强化，搜索尸体！ **"
+	}
+	">>TIP #6: Gene Tonics take effect on death. Dont die in vain!<<"
+	{
+		"chi"		"**提示6：基因强化在死亡时生效，不要白白牺牲！ **"
+	}
+	">>TIP #7: Lost health? Visit a health station to recover it!<<"
+	{
+		"chi"		"**提示7：HP减少了？你可以去加血站恢复它！ **"
+	}
+	">>>Introduction Complete<<<"
+	{
+		"chi"		"**介绍完成 **"
+	}
+	">>Chapter 1 - Welcome to Rapture<<"
+	{
+		"chi"		"**第一章-欢迎来到Rapture **"
+	}
+	">>Wait for Bathysphere arrival - 25s<<"
+	{
+		"chi"		"**等待潜水装置到来-25秒 **"
+	}
+	">>Bathysphere is docking...<<"
+	{
+		"chi"		"**潜水装置对接... **"
+	}
+	">>Get in the Bathysphere - 12s<<"
+	{
+		"chi"		"**进入潜水装置-12秒 **"
+	}
+	"***Plasmid obtained: Winter Blast***"
+	{
+		"chi"		"**质粒拾取：寒冬 **"
+	}
+	">>Hold the Atrium - 22s<<"
+	{
+		"chi"		"**守住中庭-22秒 **"
+	}
+	"***Plasmid obtained: Gravity Well***"
+	{
+		"chi"		"**质粒拾取：重力 **"
+	}
+	">>>A Little Sister has been spotted nearby<<<"
+	{
+		"chi"		"**附近有个小妹妹 **"
+	}
+	">>>The Big Daddy is lurking<<<"
+	{
+		"chi"		"**Daddy正潜伏着 **"
+	}
+	">>Current Difficulty: Easy<<"
+	{
+		"chi"		"**当前难度：简单 **"
+	}
+	"***Plasmid obtained: Sonic Boom***"
+	{
+		"chi"		"**质粒拾取：音爆 **"
+	}
+	">>Door is open<<"
+	{
+		"chi"		"**大门打开 **"
+	}
+	">>Hold until secuity door releases - 15s<<"
+	{
+		"chi"		"**守到安全门开启-15秒 **"
+	}
+	">>Wait for the elevators arrival<<"
+	{
+		"chi"		"**等待电梯到达 **"
+	}
+	"***Plasmid obtained: Insect Swarm***"
+	{
+		"chi"		"**质粒拾取：虫群 **"
+	}
+	"*AFK teleport in 5s*"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+	}
+	">>SECRET: Found the Bird Token<<"
+	{
+		"chi"		"**隐藏物品：发现鸟的牌子 **"
+	}
+	">>Elevator 1 leaving - 5s<<"
+	{
+		"chi"		"**1号电梯离开-5秒 **"
+	}
+	">>Elevator 2 leaving - 5s<<"
+	{
+		"chi"		"**2号电梯离开-5秒 **"
+	}
+	"***Plasmid obtained: Incinerate***"
+	{
+		"chi"		"**质粒拾取：焚烧 **"
+	}
+	">>Hold until the security door releases<<"
+	{
+		"chi"		"**守到安全门开启 **"
+	}
+	"***Plasmid obtained: Electro Bolt***"
+	{
+		"chi"		"**质粒拾取：闪电 **"
+	}
+	"Thats a Little Sister. Looks like shes alone..."
+	{
+		"chi"		"** **"
+	}
+	">>Board and defend the Rapture Metro<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Chapter complete<<<"
+	{
+		"chi"		"**第一章通过 **"
+	}
+	">>Chapter 2 - Fort Frolic<<"
+	{
+		"chi"		"**第二章-生化奇兵 **"
+	}
+	">>Wait for Siren Alley doors to open - 15s<<"
+	{
+		"chi"		"**等待塞壬胡同大门-15秒 **"
+	}
+	">>SECRET: Found the Cage Token<<"
+	{
+		"chi"		"**秘密:找到笼子的标志 **"
+	}
+	"*Splicers have been blocked for 8 seconds*"
+	{
+		"chi"		"**Splicers被封锁8秒 **"
+	}
+	"*Splicers have been blocked for 6 seconds*"
+	{
+		"chi"		"**Splicers被封锁6秒 **"
+	}
+	">>Hide or hold until the exit has drained - 84s<<"
+	{
+		"chi"		"**躲藏或者守住直到出口打开-84秒 **"
+	}
+	"*Splicers have been blocked for 4 seconds*"
+	{
+		"chi"		"**Splicers被封锁4秒 **"
+	}
+	"*Splicers have been blocked for 2 seconds*"
+	{
+		"chi"		"**Splicers被封锁2秒 **"
+	}
+	"*Splicers have been freed!*"
+	{
+		"chi"		"**Splicers已被释放 **"
+	}
+	">>Hold the Decompression Chamber<<"
+	{
+		"chi"		"**守住减压室 **"
+	}
+	">>Defend until Cohen opens the doors - 20s<<"
+	{
+		"chi"		"**守住.直到Cohen打开门-20秒 **"
+	}
+	">>Hold the doorway - 5s<<"
+	{
+		"chi"		"**守住门口-5秒 **"
+	}
+	">>Go up the stairs<<"
+	{
+		"chi"		"**上楼 **"
+	}
+	">>Wait for Poseidon Plaza to unfreeze<<"
+	{
+		"chi"		"**等待海神广场解冻 **"
+	}
+	">>Defend while the door unfreezes - 20s<<"
+	{
+		"chi"		"**守到门解冻-20秒 **"
+	}
+	">>Defend Jasmine Jolies room - 60s<<"
+	{
+		"chi"		"**守住Jasmine Jolie的房间-60秒 **"
+	}
+	">>Chapter 3 - Arcadia<<"
+	{
+		"chi"		"**第三章-阿卡迪亚 **"
+	}
+	">>Hold the Balcony<<"
+	{
+		"chi"		"**守住阳台 **"
+	}
+	">>Hold Julie Langfords Garden<<"
+	{
+		"chi"		"**守住朱莉·朗格弗德的花园 **"
+	}
+	">>Wait for corridor to drain...<<"
+	{
+		"chi"		"**等待走廊排完水… **"
+	}
+	">>Hold until the security door unlocks<<"
+	{
+		"chi"		"**守到安全门打开 **"
+	}
+	">>Detonate and Destroy the tunnel<<"
+	{
+		"chi"		"**引爆并摧毁隧道 **"
+	}
+	">>Splicers must not make it past the marker<<"
+	{
+		"chi"		"**Splicers不能超过标记 **"
+	}
+	">>Chapter 4 - Hephaestus<<"
+	{
+		"chi"		"**第四章-赫菲斯托斯 **"
+	}
+	">>Hephaestus security checks in progress.. - 15s<<"
+	{
+		"chi"		"**赫菲斯托斯安全检查正在进行-15秒 **"
+	}
+	">>Wait for Hephaestus to open - 15s<<"
+	{
+		"chi"		"**等待赫菲斯托斯大门打开 **"
+	}
+	">>Hephaestus is open<<"
+	{
+		"chi"		"**赫菲斯托斯大门开启 **"
+	}
+	">>Wait for Trophy Room access - 35s<<"
+	{
+		"chi"		"**等待Trophy Room大门打开-35秒 **"
+	}
+	">>AFK Teleport in 5s<<"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+	}
+	">>Evaporate the flood water<<"
+	{
+		"chi"		"** **"
+	}
+	">>Elevator is leaving - 5s<<"
+	{
+		"chi"		"**电梯离开-5秒 **"
+	}
+	">>Laser incoming<<"
+	{
+		"chi"		"**激光来袭 **"
+	}
+	">>Elevator will be leaving soon<<"
+	{
+		"chi"		"**电梯马上就要开了 **"
+	}
+	"*AFK teleport in 3s*"
+	{
+		"chi"		"**挂机玩家3秒后传送 **"
+	}
+	">>>Bathysphere door opens in 20 seconds<<<"
+	{
+		"chi"		"**潜水装置的门20秒后打开 **"
+	}
+	">>Defend the Bathysphere - 40s<<"
+	{
+		"chi"		"**等待潜水装置到来-40秒 **"
+	}
+	">>Chapter Completed<<"
+	{
+		"chi"		"**关卡通过 **"
+	}
+	">>>Find the secrets for the true ending<<<"
+	{
+		"chi"		"**寻找开启真实结局的秘密 **"
+	}
+	">>>Bad ending obtained!<<<"
+	{
+		"chi"		"**获得坏结局！ **"
+	}
+	">>Campaign Completed<<"
+	{
+		"chi"		"**地图完成 **"
+	}
+	">>Thank you for playing. Try 1999 mode for a true challenge<<"
+	{
+		"chi"		"**谢谢你的玩耍，尝试挑战1999年模式 **"
+	}
+	">>Extra Chapter - 1999<<"
+	{
+		"chi"		"**额外章节-1999 **"
+	}
+	">>1999 is a special mode<<"
+	{
+		"chi"		"**1999是一种特殊的模式 **"
+	}
+	">>Its long and difficult<<"
+	{
+		"chi"		"**漫长而艰难的 **"
+	}
+	">>Enjoy it<<"
+	{
+		"chi"		"**享受它 **"
+	}
+	">>There are 2 ways to go. Someone must take the upper path<<"
+	{
+		"chi"		"**有2条路可以走，必须有人走上这条路。 **"
+	}
+	">>They must go and open the lower door from behind<<"
+	{
+		"chi"		"**他们必须从后面打开下面的门 **"
+	}
+	">>Wait for access to Fort Frolic<<"
+	{
+		"chi"		"**等待进入Fort Frolic **"
+	}
+	">>Wait for access to the Bathysphere - 35s<<"
+	{
+		"chi"		"**等待进入潜水装置-35秒 **"
+	}
+	">>Hold the Wineries - 25s<<"
+	{
+		"chi"		"**守住葡萄酒厂-25秒 **"
+	}
+	"*AFK teleport in 5s"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+	}
+	">>Kill the Patriot<<"
+	{
+		"chi"		"**杀了Patriot **"
+	}
+	">>>A Patriot is awake. Kill it!<<<"
+	{
+		"chi"		"**一个Patriot醒了，杀了它！ **"
+	}
+	">>Wait for rail access - 15s<<"
+	{
+		"chi"		"**等待火车进入-15秒 **"
+	}
+	">>>Jump onto the rail!<<<"
+	{
+		"chi"		"**跳上火车! **"
+	}
+	">>Wait for the security door to open - 20s<<"
+	{
+		"chi"		"**等待安全门打开-20秒 **"
+	}
+	">>Defend while the door opens - 50s<<"
+	{
+		"chi"		"**守到门开-50秒 **"
+	}
+	"***Plasmid upgraded: Sonic Boom 2***"
+	{
+		"chi"		"**质粒升级：音爆2 **"
+	}
+	"***Plasmid upgraded: Incinerate 2***"
+	{
+		"chi"		"**质粒升级：焚烧2 **"
+	}
+	"***Plasmid upgraded: Insect Swarm 2***"
+	{
+		"chi"		"**质粒升级：虫群2 **"
+	}
+	"***Plasmid upgraded: Electro Bolt 2***"
+	{
+		"chi"		"**质粒升级：闪电2 **"
+	}
+	"***Plasmid upgraded: Winter Blast 2***"
+	{
+		"chi"		"**质粒升级：寒冬2 **"
+	}
+	"***Plasmid upgraded: Gravity Well 2***"
+	{
+		"chi"		"**质粒升级：重力2 **"
+	}
+	"*ADMIN Room: Plasmids set to max level*"
+	{
+		"chi"		"**管理员房间：质粒已升到最高级 **"
+	}
+	"***Plasmid upgraded: Sonic Boom 3***"
+	{
+		"chi"		"**质粒升级：音爆3 **"
+	}
+	"***Plasmid upgraded: Incinerate 3***"
+	{
+		"chi"		"**质粒升级：焚烧3 **"
+	}
+	"***Plasmid upgraded: Insect Swarm 3***"
+	{
+		"chi"		"** **"
+	}
+	"***Plasmid upgraded: Electro Bolt 3***"
+	{
+		"chi"		"**质粒升级：虫群3 **"
+	}
+	"***Plasmid upgraded: Winter Blast 3***"
+	{
+		"chi"		"**质粒升级：寒冬3 **"
+	}
+	"***Plasmid upgraded: Gravity Well 3***"
+	{
+		"chi"		"**质粒升级：重力3 **"
+	}
+	">>SECRET: Found the Airship Token<<"
+	{
+		"chi"		"**秘密：发现飞艇令牌 **"
+	}
+	">>Wait for the arrival of Rapture Metro<<"
+	{
+		"chi"		"**等待Rapture的地铁到来 **"
+	}
+	">>Defend until the doors close - 15s<<"
+	{
+		"chi"		"**守到门关-15秒 **"
+	}
+	">>Tip: The Songbird is vulnerable only to headshots. Remember this<<"
+	{
+		"chi"		"**提示:鸣禽只会受到头部的攻击，记住这个提示 **"
+	}
+	">>Wait for garden access - 20s<<"
+	{
+		"chi"		"**等待进入花园-20秒 **"
+	}
+	">>Service must end before you may enter - 25s<<"
+	{
+		"chi"		"**必须在服务结束前进入-25秒 **"
+	}
+	">>Elizabeth is searching for a tear - 50s<<"
+	{
+		"chi"		"**伊丽莎白正在寻找一个50多岁的女人. **"
+	}
+	">>>ELIZABETH: This is it! Defend the boat!<<<"
+	{
+		"chi"		"**伊丽莎白：就是这个！守住船！ **"
+	}
+	">>>Elizabeth cant control the tear! Teleport in 5 seconds<<<"
+	{
+		"chi"		"**伊丽莎白无法控制眼泪!在5秒后传送 **"
+	}
+	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
+	{
+		"chi"		"**伊丽莎白：船！上船 **"
+	}
+	">>>Chapter failed<<<"
+	{
+		"chi"		"**关卡失败 **"
+	}
+	">>SECRET: Found the Vox Populi Token<<"
+	{
+		"chi"		"**秘密：找到Vox Populi令牌 **"
+	}
+	">>>All emblems obtained<<<"
+	{
+		"chi"		"**获得所有徽章 **"
+	}
+	">>You must wait for the islands to align - 30s<<"
+	{
+		"chi"		"**你必须等待岛屿对齐-30秒 **"
+	}
+	">>>CONGRATULATIONS!<<<"
+	{
+		"chi"		"**祝贺你! **"
+	}
+	">>>TRUE ENDING OBTAINED<<<"
+	{
+		"chi"		"**真的结束了 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"48543"
+	}
+	">>Its your chance. Kill the Songbird<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Congratulations<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Thank you for playing<<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

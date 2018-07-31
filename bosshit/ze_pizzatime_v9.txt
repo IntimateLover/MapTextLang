@@ -1,255 +1,650 @@
-"BOSSHP"
+"Console_T"
 {
-	"94453"
+	"***THE PIZZA IS AGGRESSIVE***"
 	{
-		"enable"		"0"
-		"hammerid"		"94453"
-		"m_iname"		"pizzaball_phys&0199"
+		"chi"		"**pizza具有侵略性**"
 	}
-	"113577"
+	"***PISS CART LEAVING IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"113577"
-		"m_iname"		"afdsf5"
+		"chi"		"**小车15秒后离开**"
 	}
-	"102017"
+	"***FRENCH MAN ELEVATOR UPPENING UP SOON OR SOMETHING***"
 	{
-		"enable"		"0"
-		"hammerid"		"102017"
-		"m_iname"		"frenchpath ladder aa4"
+		"chi"		"**电梯很快就会启动**"
 	}
-	"102188"
+	"***OPENING LOWER DOOR***"
 	{
-		"enable"		"0"
-		"hammerid"		"102188"
-		"m_iname"		"facepath_6"
+		"chi"		"**下面的门开了**"
 	}
-	"96424"
+	"***SHREK WELCOMES YOU***"
 	{
-		"enable"		"0"
-		"hammerid"		"96424"
-		"m_iname"		"facepath_4"
+		"chi"		"**史莱克欢迎你**"
 	}
-	"97360"
+	"***OPENING UPPER DOOR***"
 	{
-		"enable"		"0"
-		"hammerid"		"97360"
-		"m_iname"		"facepath_3"
+		"chi"		"**上面的门开了**"
 	}
-	"97366"
+	"***WELCOME TO PIZZA PALACE***"
 	{
-		"enable"		"0"
-		"hammerid"		"97366"
-		"m_iname"		"facepath_2"
+		"chi"		"**欢迎来到披萨宫**"
 	}
-	"97369"
+	"***DOORS WILL OPEN ONCE THE PIZZA ROLLER ARRIVES***"
 	{
-		"enable"		"0"
-		"hammerid"		"97369"
-		"m_iname"		"facepath_1"
+		"chi"		"**一旦披萨到达，门就会打开**"
 	}
-	"97384"
+	"***WELCOME TO THE PALACE ELEVATOR***"
 	{
-		"enable"		"0"
-		"hammerid"		"97384"
-		"m_iname"		"facepath_5"
+		"chi"		"**欢迎来到宫殿电梯**"
 	}
-	"78952"
+	"***I AM FRANCE AND WILL AWAIT YOUR COMMAND***"
 	{
-		"enable"		"0"
-		"hammerid"		"78952"
-		"m_iname"		"frenchpath ladder aa3"
+		"chi"		"**我是法国人，将等候你的命令**"
 	}
-	"79336"
+	"***WE SHALL LEAVE MOMENTARILY***"
 	{
-		"enable"		"0"
-		"hammerid"		"79336"
-		"m_iname"		"trap_cliffrope_break"
+		"chi"		"**我们将暂时离开**"
 	}
-	"79941"
+	"***PALACE ELEVATOR IS LEAVING IN A FEW SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"79941"
-		"m_iname"		"frenchpath ladder aa2"
+		"chi"		"**几秒钟后，宫殿电梯就会离开**"
 	}
-	"74305"
+	"***PALACE ELEVATOR IS LEAVING***"
 	{
-		"enable"		"0"
-		"hammerid"		"74305"
-		"m_iname"		"gsgewgwe"
+		"chi"		"**宫殿电梯离开**"
 	}
-	"77362"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"77362"
-		"m_iname"		"frenchpath ladder aa2"
+		"syncvalue"		"13234"
 	}
-	"65955"
+	"===[ MAP MADE BY LUFFAREN ]==="
 	{
-		"enable"		"0"
-		"hammerid"		"65955"
-		"m_iname"		"frenchpath ladder aa1"
+		"chi"		"** **"
 	}
-	"58075"
+	"***IT IS PIZZATIME FOLKS***"
 	{
-		"enable"		"0"
-		"hammerid"		"58075"
-		"m_iname"		"palace_ladderbreak3"
+		"chi"		"** **"
 	}
-	"51343"
+	"***PIZZA ROLLER LEAVING IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"51343"
-		"m_iname"		"palace_glassshrek2"
+		"chi"		"** **"
 	}
-	"51482"
+	"***WELCOME TO PIZZA LAND***"
 	{
-		"enable"		"0"
-		"hammerid"		"51482"
-		"m_iname"		"palace_glassshrek"
+		"chi"		"** **"
 	}
-	"46195"
+	"***MAMA KOWAMA 2017***"
 	{
-		"enable"		"0"
-		"hammerid"		"46195"
-		"m_iname"		"palace_ladderbreak2"
+		"chi"		"** **"
 	}
-	"37404"
+	"***PISS CART LEAVING IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"37404"
-		"m_iname"		"palace_glass"
+		"chi"		"** **"
 	}
-	"38356"
+	"***PISS CART LEAVING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"38356"
-		"m_iname"		"palace_ladderbreak"
+		"chi"		"** **"
 	}
-	"29141"
+	"***PIZZA ROLLER LEAVING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"29141"
-		"m_iname"		"rocket_glass"
+		"chi"		"** **"
 	}
-	"25090"
+	"***PICKED UP - ULTIMATE STAFF***"
 	{
-		"enable"		"0"
-		"hammerid"		"25090"
-		"m_iname"		"cannon_break"
+		"chi"		"** **"
 	}
-	"25635"
+	"***PICKED UP - EARTH STAFF***"
 	{
-		"enable"		"0"
-		"hammerid"		"25635"
-		"m_iname"		"cannon_death"
+		"chi"		"** **"
 	}
-	"21846"
+	"***PIZZA SURF IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"21846"
-		"m_iname"		"secretpath_break1"
+		"chi"		"** **"
 	}
-	"21900"
+	"***PIZZA SURF OPENING IN 15 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"21900"
-		"m_iname"		"secretpath_break2"
+		"chi"		"** **"
 	}
-	"23044"
+	"***PIZZA SPACE LIFTOFF IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"23044"
-		"m_iname"		"frenchpath ladder aa"
+		"chi"		"** **"
 	}
-	"6308"
+	"***PIZZA SPACE LIFTOFF IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"6308"
-		"m_iname"		"aidscartend"
+		"chi"		"** **"
 	}
-	"130004"
+	"***OPENING BACK DOOR (sexy mama)***"
 	{
-		"enable"		"0"
-		"hammerid"		"130004"
-		"m_iname"		"aids"
+		"chi"		"** **"
 	}
-	"130217"
+	"***PIZZA SPACE LIFTOFF IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"130217"
-		"m_iname"		"aids"
+		"chi"		"** **"
 	}
-	"130310"
+	"***PIZZA SPACE LIFTOFF IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"130310"
-		"m_iname"		"aids"
+		"chi"		"** **"
 	}
-	"127815"
+	"***PIZZA SPACE LIFTOFF BABY***"
 	{
-		"enable"		"0"
-		"hammerid"		"127815"
-		"m_iname"		"gadgadg"
+		"chi"		"** **"
 	}
-	"149634"
+	"***ABORT MISSION***"
 	{
-		"enable"		"0"
-		"hammerid"		"149634"
-		"m_iname"		"palacebreakholders"
+		"chi"		"** **"
 	}
-	"149640"
+	"***EXPLOSION IMMINENT***"
 	{
-		"enable"		"0"
-		"hammerid"		"149640"
-		"m_iname"		"palacebreakholders"
+		"chi"		"** **"
 	}
-	"149654"
+	"***PIZZA ROLLER NEEDS TO TAKE A REST FOR 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"149654"
-		"m_iname"		"palacebreakholders"
+		"chi"		"** **"
 	}
-	"149658"
+	"***THE FRENCH ARE COMING***"
 	{
-		"enable"		"0"
-		"hammerid"		"149658"
-		"m_iname"		"palacebreakholders"
+		"chi"		"** **"
 	}
-	"149698"
+	"***PICKED UP - FLAME STAFF***"
 	{
-		"enable"		"0"
-		"hammerid"		"149698"
-		"m_iname"		"palacebreakholders"
+		"chi"		"** **"
 	}
-	"150245"
+	"***RESPECT THE TRAFFIC RULES***"
 	{
-		"enable"		"0"
-		"hammerid"		"150245"
-		"m_iname"		"aids"
+		"chi"		"** **"
 	}
-	"222832"
+	"***OR GET IMPALED BY CARS***"
 	{
-		"enable"		"0"
-		"hammerid"		"222832"
-		"m_iname"		"bingo"
+		"chi"		"** **"
 	}
-	"204481"
+	"***ACTION CAR DELUXE***"
 	{
-		"enable"		"1"
-		"hammerid"		"204481"
-		"m_iname"		"boss_ep_hp"
+		"chi"		"** **"
 	}
-	"204546"
+	"***PICKED UP - SPEED STAFF***"
 	{
-		"enable"		"1"
-		"hammerid"		"204546"
-		"m_iname"		"boss_jar_hp"
+		"chi"		"** **"
 	}
-	"188334"
+	"***GOOD BOYS WILL SURVIVE***"
 	{
-		"enable"		"0"
-		"hammerid"		"188334"
-		"m_iname"		"rock_wall&0376"
+		"chi"		"** **"
+	}
+	"***DO NOT GET COMFY***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLLER IS ROLLING ONCE AGAIN***"
+	{
+		"chi"		"** **"
+	}
+	"***ADIOS EL GRANDE PIZZA PALACE***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO ITS AN EVIL PIZZA BABY***"
+	{
+		"chi"		"** **"
+	}
+	"***TOO MANY ZOMBIES - ENABLING LOWGRAV FOR HUMANS***"
+	{
+		"chi"		"** **"
+	}
+	"***FRENCH SNAKEMAN WILL SURRENDER IN A WHILE***"
+	{
+		"chi"		"** **"
+	}
+	"***OH BABY THE DYNAMITE IS GOING TO BLOW***"
+	{
+		"chi"		"** **"
+	}
+	"***WATCH OUT FOR TOWERS IN YOUR VICINITY***"
+	{
+		"chi"		"** **"
+	}
+	"***SAY ADIOS TO PISS PALACE SOON***"
+	{
+		"chi"		"** **"
+	}
+	"***DODGE THE PIZZA SPINNERS***"
+	{
+		"chi"		"** **"
+	}
+	"***IF YOU DIE NOW YOU WILL BE DEAD***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU ARE HERO GOOD JOB***"
+	{
+		"chi"		"** **"
+	}
+	"***BABY IS DEAD PEACE IS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GATE TO VOLCANIC PIZZA ISLAND IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***WE ARE ALMOST THERE, I CAN SMELL THE BURNT PIZZA CRUST***"
+	{
+		"chi"		"** **"
+	}
+	"***ARE YOU 18 YEARS OLD?  MMHHHHMM YUMMY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FATES OF THE FACE PATHS SHALL OPEN THEMSELVES***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FATE OF THE FOUR CHILDREN IS DEATH***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR RIGHT HAND IS SLOWER***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR LEFT HAND IS LONGER***"
+	{
+		"chi"		"** **"
+	}
+	"***TAKE YOUR FATE IN YOUR FACE***"
+	{
+		"chi"		"** **"
+	}
+	"***MAKE SURE THAT YOUR DECISION PAYS OFF***"
+	{
+		"chi"		"** **"
+	}
+	"***GOOD LUCK, I LOVE YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FIRST FATE HAS BEEN FACED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SECOND FATE HAS BEEN SHOWN TO THE WORLD***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR THIRD REICH FATE IS OFFENSIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FATED FIFTH CHILD WILL ENJOY HERSELF***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL CHILDREN HAVE BEEN RELEASED***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU CAN BECOME AN ADULT BY DOING NOTHING***"
+	{
+		"chi"		"** **"
+	}
+	"***CLIMB YOUR WAY TO CHAOS, FIND YOUR TRUE SELF***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLLER NEEDS TO TAKE A REST***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR A WHILE***"
+	{
+		"chi"		"** **"
+	}
+	"***WE SHALL HEAD FOR PIZZA VOLCANO SOON***"
+	{
+		"chi"		"** **"
+	}
+	"***SOME THINGS MIGHT LEAVE SOONER OR LATER***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS A WORLD FILLED WITH EXCITEMENT, BABY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FRENCH HELICOPTERS ARE SUICIDAL***"
+	{
+		"chi"		"** **"
+	}
+	"***THEY MIGHT BE FASTER THOUGH***"
+	{
+		"chi"		"** **"
+	}
+	"***JUMP OFF OR DIE***"
+	{
+		"chi"		"** **"
+	}
+	"***KAMIKAAAAZEEEEE***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA PARTY IN 25 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA PARTY IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA PARTY IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA PARTY!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***THANK YOU FOR PLAYING A THING***"
+	{
+		"chi"		"** **"
+	}
+	"***DADDY IS PROUD OF YOU PIZZA BOYS***"
+	{
+		"chi"		"** **"
+	}
+	"***IF ZOMBIES ARE STILL ALIVE, FIGHT IT OUT***"
+	{
+		"chi"		"** **"
+	}
+	"***VOLCANO IS GOING BOOBLY IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***VOLCANO IS GOING BOOBLY***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU NEED TO KILL THEM BEFORE THE VOLCANO GOES BOOBLY***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"father"
+	{
+		"chi"		"** **"
+	}
+	"dick me"
+	{
+		"chi"		"** **"
+	}
+	"***IT IS OGRE NOW BITCHES***"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_zr_repeat_kill 0"
+		}
+	}
+	"***A PIZZA POLE HAS BEEN PISSED ON***"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE WON > GOING TO EXTRA CHEESE MODE***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL PIZZA POLES ARE PISSED***"
+	{
+		"chi"		"** **"
+	}
+	"***PREPARE FOR SOMETHING SPECIAL***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR HEALTH WILL GET REDUCED IF YOURE LATE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS WILL ARRIVE IN 1 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS IS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***HASSAN CHOP***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***15 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***10 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***EAT YOUR JAR JAR MEAT***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLL***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DONE IT!***"
+	{
+		"chi"		"** **"
+	}
+	"***JARJAR BINKS IS DEAD!***"
+	{
+		"chi"		"** **"
+	}
+	"***PREPARE TO DEFEND FOR 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA LIFT IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA LIFT IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO PIZZA HEAVEN***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS PRETTY BRIGHT HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WALK THE PATH OF PINEAPPLE PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 1 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***GOOD BYE MY GREAT PIZZA BOYS***"
+	{
+		"chi"		"** **"
+	}
+	"***I WILL CHEW FOR YOUR SAKE***"
+	{
+		"chi"		"** **"
+	}
+	"***I WILL NEVER LOVE YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM FAILED - ROCK PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM FAILED - DEATH PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - HOT PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - ROCK PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - DEATH PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - ROCK PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - HOT PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - FAST PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - DEATH PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***THE LAVA WILL RISE IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE LAVA IS RISING***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU ARE GREAT PIZZA BOYS***"
+	{
+		"chi"		"** **"
+	}
+	"***BARREL PARTY***"
+	{
+		"chi"		"** **"
+	}
+	"***EAT YOUR MEAT***"
+	{
+		"chi"		"** **"
+	}
+	"***THE EVIL PIZZA IS DEAD!***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - FAST PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL PINEAPPLE LEAVES IN 60 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND WITH ALL YOUR MIGHT***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU ARE THE TRUE PIZZA MASTERS***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM FAILED - HOT PIZZA***"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,141 +1,139 @@
-"BOSSHP"
+"Console_T"
 {
-	"23428"
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"23428"
-		"m_iname"		"door17_2"
+		"chi"		"** **"
 	}
-	"23437"
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"23437"
-		"m_iname"		"door18_2"
+		"chi"		"** **"
 	}
-	"23445"
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"23445"
-		"m_iname"		"door19_2"
+		"chi"		"** **"
 	}
-	"24774"
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"24774"
-		"m_iname"		"door27_2"
+		"chi"		"** **"
 	}
-	"451443"
+	">>> WARMUP ROUND END <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"451443"
-		"m_iname"		"door1_1"
+		"chi"		"** **"
 	}
-	"471546"
+	">>> STAGE 1 : GARDEN MODE<<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471546"
-		"m_iname"		"door2_1"
+		"chi"		"** **"
 	}
-	"471611"
+	">>> HOLD 20 SECONDS <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471611"
-		"m_iname"		"door3_1"
+		"chi"		"** **"
 	}
-	"471697"
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471697"
-		"m_iname"		"door4_1"
+		"chi"		"** **"
 	}
-	"471722"
+	">>> ROUTE2 : HOLD 20 SECONDS <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471722"
-		"m_iname"		"door5_1"
+		"chi"		"** **"
 	}
-	"471813"
+	">>> ROUTE1 : HOLD 20 SECONDS <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471813"
-		"m_iname"		"door6_1"
+		"chi"		"** **"
 	}
-	"471873"
+	">>> ROUTE3 : HOLD 15 SECONDS <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471873"
-		"m_iname"		"door7_1"
+		"chi"		"** **"
 	}
-	"471909"
+	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"471909"
-		"m_iname"		"door8_1"
+		"chi"		"** **"
 	}
-	"753675"
+	">>> PLAYER HAS PICKED UP WIND <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"753675"
-		"m_iname"		"door23"
+		"chi"		"** **"
 	}
-	"860916"
+	">>> HOLD 25 SECONDS <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"860916"
-		"m_iname"		"bosslvl2_glass"
+		"chi"		"** **"
 	}
-	"242603"
+	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"242603"
-		"m_iname"		"bosslvl1_hit"
+		"chi"		"** **"
 	}
-	"1231402"
+	">>> HOLD 10 SECONDS <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"1231402"
-		"m_iname"		"bosslvl1_wall2"
+		"chi"		"** **"
 	}
-	"1051987"
+	">>> HOLD 15 SECONDS <<<"
 	{
-		"enable"		"0"
-		"hammerid"		"1051987"
-		"m_iname"		"l0v0l_brush"
+		"chi"		"** **"
 	}
-	"71726"
+	">>> BOSS IS COMING <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"71726"
-		"m_iname"		"bosslvl3_hit"
+		"chi"		"** **"
 	}
-	"71735"
+	">>> BOSS WAS DEFEATED <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"71735"
-		"m_iname"		"bosslvl3_phy"
+		"chi"		"** **"
 	}
-	"1045507"
+	">>> STAGE 1 COMPLETED <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"1045507"
-		"m_iname"		"bosslvl3_end_hit"
+		"chi"		"** **"
 	}
-	"563787"
+	">>> STAGE 2 : FOREST MODE<<<"
 	{
-		"enable"		"1"
-		"hammerid"		"563787"
-		"m_iname"		"bosslvl6_end3_bridge"
+		"chi"		"** **"
 	}
-	"961341"
+	">>> PLAYER HAS PICKED UP POISON <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"961341"
-		"m_iname"		"bosslvl2_hit"
+		"chi"		"** **"
 	}
-	"963033"
+	">>> HOLD 35 SECONDS <<<"
 	{
-		"enable"		"1"
-		"hammerid"		"963033"
-		"m_iname"		"bosslvl2_phy"
+		"chi"		"** **"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 3 : FACILITY MODE<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP BEAM <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WATCH OUT FOR TAEPODONG ATTACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOSS IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BARRIER BREAK IN 60 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,351 +1,287 @@
-"BOSSHP"
+"Console_T"
 {
-	"189764"
+	"**Chapter L from Cytus**"
 	{
-		"enable"		"0"
-		"hammerid"		"189764"
-		"m_iname"		"L3_AntiExploit"
+		"chi"		"** **"
 	}
-	"139624"
+	"**Map by Lv. 100 Crobat**"
 	{
-		"enable"		"1"
-		"hammerid"		"139624"
-		"m_iname"		"AdminRoom_LevelBoss_Phsybox"
+		"chi"		"** **"
 	}
-	"115968"
+	"**Survive inside the fort gate destroys**"
 	{
-		"enable"		"0"
-		"hammerid"		"115968"
-		"m_iname"		"L2_WallMathBreak"
+		"chi"		"** **"
 	}
-	"108989"
+	"**Zombies teleported inside the cage**"
 	{
-		"enable"		"0"
-		"hammerid"		"108989"
-		"m_iname"		"L3_HeavenPalaceDoor"
+		"chi"		"** **"
 	}
-	"109015"
+	"**Big door destroyed, go on!**"
 	{
-		"enable"		"0"
-		"hammerid"		"109015"
-		"m_iname"		"L2_MetalGates"
+		"chi"		"** **"
 	}
-	"69781"
+	"**Sidewalls destroyed!**"
 	{
-		"enable"		"0"
-		"hammerid"		"69781"
-		"m_iname"		"AdminRoom_Level1_Phsybox"
+		"chi"		"** **"
 	}
-	"69807"
+	"**Fortress gate destroyed**"
 	{
-		"enable"		"0"
-		"hammerid"		"69807"
-		"m_iname"		"AdminRoom_Level2_Phsybox"
+		"chi"		"** **"
 	}
-	"63835"
+	"**Defend the bridge**"
 	{
-		"enable"		"0"
-		"hammerid"		"63835"
-		"m_iname"		"L3_HeavenPlatforms"
+		"chi"		"** **"
 	}
-	"50397"
+	"**Get ready for laser**"
 	{
-		"enable"		"0"
-		"hammerid"		"50397"
-		"m_iname"		"L3_FactionGates"
+		"chi"		"** **"
 	}
-	"12973"
+	"**3**"
 	{
-		"enable"		"0"
-		"hammerid"		"12973"
-		"m_iname"		"L2_Standby"
+		"chi"		"** **"
 	}
-	"13023"
+	"**2**"
 	{
-		"enable"		"0"
-		"hammerid"		"13023"
-		"m_iname"		"L2_StandbyZ"
+		"chi"		"** **"
 	}
-	"13036"
+	"**1**"
 	{
-		"enable"		"0"
-		"hammerid"		"13036"
-		"m_iname"		"L2_StandbyZ"
+		"chi"		"** **"
 	}
-	"13774"
+	"**Viz: Get inside the fort**"
 	{
-		"enable"		"0"
-		"hammerid"		"13774"
-		"m_iname"		"L2_WallBreak1"
+		"chi"		"** **"
 	}
-	"13825"
+	"**Viz: The possesion ritual must not be interrupted!**"
 	{
-		"enable"		"0"
-		"hammerid"		"13825"
-		"m_iname"		"L2_WallBreak2"
+		"chi"		"** **"
 	}
-	"10730"
+	"**If a zombie touches the ritual circle, its over**"
 	{
-		"enable"		"0"
-		"hammerid"		"10730"
-		"m_iname"		"L2_WallBreak3"
+		"chi"		"** **"
 	}
-	"4925"
+	"**Viz: Go to the sides of the castle, we will get attacked from there**"
 	{
-		"enable"		"0"
-		"hammerid"		"4925"
-		"m_iname"		"L1_FortressGate"
+		"chi"		"** **"
 	}
-	"4946"
+	"**Viz: Ill block the main gate with rocks in 10 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"4946"
-		"m_iname"		"L1_FortressBridge"
+		"chi"		"** **"
 	}
-	"4268"
+	"**Viz: It begins..**"
 	{
-		"enable"		"0"
-		"hammerid"		"4268"
-		"m_iname"		"L1_Sidewall2"
+		"chi"		"** **"
 	}
-	"4276"
+	"**Defend the castle until the 4 blue flames are channeled**"
 	{
-		"enable"		"0"
-		"hammerid"		"4276"
-		"m_iname"		"L1_Sidewall1"
+		"chi"		"** **"
 	}
-	"1704"
+	"***Gods Fire has been claimed***"
 	{
-		"enable"		"0"
-		"hammerid"		"1704"
-		"m_iname"		"L1_ZombieCage"
+		"chi"		"** **"
 	}
-	"1724"
+	"***Recharge: 80 seconds.***"
 	{
-		"enable"		"0"
-		"hammerid"		"1724"
-		"m_iname"		"L1_BigSpawnDoor"
+		"chi"		"** **"
 	}
-	"625"
+	"**ZOMBIES REACHED VIZ CASTLE!**"
 	{
-		"enable"		"0"
-		"hammerid"		"625"
-		"m_iname"		"L1_HouseWindow"
+		"chi"		"** **"
 	}
-	"800"
+	"**Viz: Start falling back**"
 	{
-		"enable"		"0"
-		"hammerid"		"800"
-		"m_iname"		"L1_HouseWindow"
+		"chi"		"** **"
 	}
-	"8711"
+	"**ZOMBIES IN CIRCLE**"
 	{
-		"enable"		"0"
-		"hammerid"		"8711"
-		"m_iname"		"L2_Rocks"
+		"chi"		"** **"
 	}
-	"131442"
+	"**HUMANS LOSE**"
 	{
-		"enable"		"1"
-		"hammerid"		"131442"
-		"m_iname"		"L_Boss_ZombiePlatforms"
+		"chi"		"** **"
 	}
-	"513723"
+	"**Viz: GET BACK TO THE RITUAL CIRCLE!**"
 	{
-		"enable"		"0"
-		"hammerid"		"513723"
-		"m_iname"		"L7_WallBreak"
+		"chi"		"** **"
 	}
-	"483027"
+	"**Viz: Ritual is completed, defend the circle**"
 	{
-		"enable"		"0"
-		"hammerid"		"483027"
-		"m_iname"		"L5_CastleCoreBreakable"
+		"chi"		"** **"
 	}
-	"410620"
+	"**JUMP**"
 	{
-		"enable"		"0"
-		"hammerid"		"410620"
-		"m_iname"		"L4_Glass"
+		"chi"		"** **"
 	}
-	"344887"
+	"**Choose a faction**"
 	{
-		"enable"		"0"
-		"hammerid"		"344887"
-		"m_iname"		"L7_FinalGates"
+		"chi"		"** **"
 	}
-	"346053"
+	"**Science represents as red, full arsenal of weapons (buyzone)**"
 	{
-		"enable"		"0"
-		"hammerid"		"346053"
-		"m_iname"		"L7_VizLasersFinalBarrier"
+		"chi"		"** **"
 	}
-	"346078"
+	"**Religion represents as blue, only pistols, but gods power**"
 	{
-		"enable"		"0"
-		"hammerid"		"346078"
-		"m_iname"		"1"
+		"chi"		"** **"
 	}
-	"346098"
+	"**To reach heaven easier, we need humans on both factions**"
 	{
-		"enable"		"0"
-		"hammerid"		"346098"
-		"m_iname"		"2"
+		"chi"		"** **"
 	}
-	"347396"
+	"**Each faction needs to defend the Entrance from zombies**"
 	{
-		"enable"		"0"
-		"hammerid"		"347396"
-		"m_iname"		"3"
+		"chi"		"** **"
 	}
-	"272222"
+	"**Zombies reached the Science Entrance**"
 	{
-		"enable"		"1"
-		"hammerid"		"272222"
-		"m_iname"		"L7_VizBossBreakable"
+		"chi"		"** **"
 	}
-	"272281"
+	"**Zombies reached the Religion Entrance**"
 	{
-		"enable"		"1"
-		"hammerid"		"272281"
-		"m_iname"		"L7_VizBossBlock1"
+		"chi"		"** **"
 	}
-	"272284"
+	"**Start falling back to the Entrance**"
 	{
-		"enable"		"1"
-		"hammerid"		"272284"
-		"m_iname"		"L7_VizBossBlock2"
+		"chi"		"** **"
 	}
-	"272287"
+	"**If zombies reach the boxes is over**"
 	{
-		"enable"		"1"
-		"hammerid"		"272287"
-		"m_iname"		"L7_VizBossBlock3"
+		"chi"		"** **"
 	}
-	"272290"
+	"**We must defend the city gates**"
 	{
-		"enable"		"1"
-		"hammerid"		"272290"
-		"m_iname"		"L7_VizBossBlock4"
+		"chi"		"** **"
 	}
-	"264710"
+	"**Get on the ritual platform**"
 	{
-		"enable"		"0"
-		"hammerid"		"264710"
-		"m_iname"		"L6_Boxes"
+		"chi"		"** **"
 	}
-	"251009"
+	"**Viz: Lets see if you can take the Lower Test**"
 	{
-		"enable"		"0"
-		"hammerid"		"251009"
-		"m_iname"		"L6_MetalGatesFront"
+		"chi"		"** **"
 	}
-	"251024"
+	"**You dont have to shoot Viz, just survive**"
 	{
-		"enable"		"0"
-		"hammerid"		"251024"
-		"m_iname"		"L6_MetalGatesBack"
+		"chi"		"** **"
 	}
-	"251526"
+	"**Crouch and defend!**"
 	{
-		"enable"		"0"
-		"hammerid"		"251526"
-		"m_iname"		"L6_Bridges"
+		"chi"		"** **"
 	}
-	"237221"
+	"**Get ready to jump**"
 	{
-		"enable"		"0"
-		"hammerid"		"237221"
-		"m_iname"		"L6_Door1"
+		"chi"		"** **"
 	}
-	"217175"
+	"**Ready to defend**"
 	{
-		"enable"		"0"
-		"hammerid"		"217175"
-		"m_iname"		"L4_BoxBarricade"
+		"chi"		"** **"
 	}
-	"203860"
+	"**Viz: You survived the 1st round**"
 	{
-		"enable"		"0"
-		"hammerid"		"203860"
-		"m_iname"		"L5_FinalBridge"
+		"chi"		"** **"
 	}
-	"203895"
+	"**Viz: Lets travel through your memories...**"
 	{
-		"enable"		"0"
-		"hammerid"		"203895"
-		"m_iname"		"L5_FinalPlatform"
+		"chi"		"** **"
 	}
-	"193521"
+	"**Viz: ..and live them once again**"
 	{
-		"enable"		"0"
-		"hammerid"		"193521"
-		"m_iname"		"l5castlebridge"
+		"chi"		"** **"
 	}
-	"187292"
+	"**Humans defend the circle**"
 	{
-		"enable"		"0"
-		"hammerid"		"187292"
-		"m_iname"		"L5_LakeBridge"
+		"chi"		"** **"
 	}
-	"187538"
+	"**Viz: You survived round 2**"
 	{
-		"enable"		"0"
-		"hammerid"		"187538"
-		"m_iname"		"L5_Cage"
+		"chi"		"** **"
 	}
-	"173162"
+	"**Viz: Survive this final round**"
 	{
-		"enable"		"0"
-		"hammerid"		"173162"
-		"m_iname"		"L4_CastleOutGate"
+		"chi"		"** **"
 	}
-	"173191"
+	"**Get ready to dodge lasers!**"
 	{
-		"enable"		"0"
-		"hammerid"		"173191"
-		"m_iname"		"L4_CastleInGate"
+		"chi"		"** **"
 	}
-	"165195"
+	"**Viz: Test passed**"
 	{
-		"enable"		"0"
-		"hammerid"		"165195"
-		"m_iname"		"L4_to_L5_Barrier"
+		"chi"		"** **"
 	}
-	"130118"
+	"**Humans win!**"
 	{
-		"enable"		"0"
-		"hammerid"		"130118"
-		"m_iname"		"L5_FinalBox"
+		"chi"		"** **"
 	}
-	"184406"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"184406"
-		"m_iname"		"L4_SpawnBridge"
+		"syncvalue"		"2363"
 	}
-	"410681"
+	"**Science represents as red**"
 	{
-		"enable"		"0"
-		"hammerid"		"410681"
-		"m_iname"		"L4_Ladders"
+		"chi"		"** **"
 	}
-	"410685"
+	"**Religion represents as blue**"
 	{
-		"enable"		"0"
-		"hammerid"		"410685"
-		"m_iname"		"L4_Ladders"
+		"chi"		"** **"
 	}
-	"267046"
+	"**Weapons are given when you choose your faction**"
 	{
-		"enable"		"1"
-		"hammerid"		"267046"
-		"m_iname"		"L7_BossBridges"
+		"chi"		"** **"
 	}
-	"347154"
+	"**Door will break in 30 seconds**"
 	{
-		"enable"		"0"
-		"hammerid"		"347154"
-		"m_iname"		"L7_VizFinalBreakable"
+		"chi"		"** **"
+	}
+	"**Centriata City gate destroyed**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend until the bridge spawns**"
+	{
+		"chi"		"** **"
+	}
+	"**Castle Outdoors will break in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Door is broken, fall back**"
+	{
+		"chi"		"** **"
+	}
+	"**Castle lower doors will break in 60 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**10 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold! Teleporter will be activated soon**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleport activates in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Booster will be activated soon**"
+	{
+		"chi"		"** **"
+	}
+	"**Booster will activate in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Booster activated, JUMP!**"
+	{
+		"chi"		"** **"
+	}
+	"**Its VIZ! **"
+	{
+		"chi"		"** **"
+	}
+	"**Lets go to the teleporter, we need to shoot the core**"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,243 +1,664 @@
-"BOSSHP"
+"Console_T"
 {
-	"1176421"
+	"***STAGE 1 -- THE SHIP***"
 	{
-		"enable"		"0"
-		"hammerid"		"1176421"
-		"m_iname"		"s3_chapeldoorbreak"
+		"chi"		"**阶段一-遭遇海怪**"
 	}
-	"110434"
+	"***ENEMY INCOMING***"
 	{
-		"enable"		"1"
-		"hammerid"		"110434"
-		"m_iname"		"boss_phys_32_1"
+		"chi"		"**敌船来袭**"
 	}
-	"110443"
+	"***MAN THE CANNONS***"
 	{
-		"enable"		"1"
-		"hammerid"		"110443"
-		"m_iname"		"boss_phys_32_2"
+		"chi"		"**需要人类进入船舱进行炮击**"
 	}
-	"110452"
+	"***BRING THEM DOWN***"
 	{
-		"enable"		"1"
-		"hammerid"		"110452"
-		"m_iname"		"boss_phys_32_3"
+		"chi"		"**拿下他们**"
 	}
-	"110461"
+	"***BAD WEATHER IS COMING***"
 	{
-		"enable"		"1"
-		"hammerid"		"110461"
-		"m_iname"		"boss_phys_32_4"
+		"chi"		"**糟糕！我们遇上了坏天气**"
 	}
-	"110470"
+	"***WE ARE SURROUNDED BY DARKNESS***"
 	{
-		"enable"		"1"
-		"hammerid"		"110470"
-		"m_iname"		"boss_phys_64_5"
+		"chi"		"**我们被黑暗包围了**"
 	}
-	"110479"
+	"***KILL THE SEAMONSTER***"
 	{
-		"enable"		"1"
-		"hammerid"		"110479"
-		"m_iname"		"boss_phys_64_4"
+		"chi"		"**杀死海怪**"
 	}
-	"110488"
+	"***YOUR BULLETS WONT REACH IT***"
 	{
-		"enable"		"1"
-		"hammerid"		"110488"
-		"m_iname"		"boss_phys_64_3"
+		"chi"		"**该死！我们不能命中他的本体**"
 	}
-	"110497"
+	"***SHOOT THE TENTACLES***"
 	{
-		"enable"		"1"
-		"hammerid"		"110497"
-		"m_iname"		"boss_phys_64_2"
+		"chi"		"**射击海怪伸出来的触手**"
 	}
-	"110506"
+	"***WE DID IT***"
 	{
-		"enable"		"1"
-		"hammerid"		"110506"
-		"m_iname"		"boss_phys_64_1"
+		"chi"		"**海怪死了**"
 	}
-	"110512"
+	"***WERE SAVED***"
 	{
-		"enable"		"1"
-		"hammerid"		"110512"
-		"m_iname"		"boss_phys_128_1"
+		"chi"		"**得..得救了**"
 	}
-	"110617"
+	"***LUFFAREN PROUDLY PRESENTS...***"
 	{
-		"enable"		"1"
-		"hammerid"		"110617"
-		"m_iname"		"boss_phys_nade"
+		"chi"		"**luffaren自豪的介绍**"
 	}
-	"110676"
+	"***ZE_CASTLEVANIA***"
 	{
-		"enable"		"1"
-		"hammerid"		"110676"
-		"m_iname"		"boss_phys"
+		"chi"		"**恶魔城：整装待发**"
 	}
-	"120347"
+	"***PREPARE FOR AN EPIC JOURNEY***"
 	{
-		"enable"		"1"
-		"hammerid"		"120347"
-		"m_iname"		"boss_phys_512_1"
+		"chi"		"**准备开始一次史诗般的旅行**"
 	}
-	"120483"
+	"***STAGE COMPLETE***"
 	{
-		"enable"		"1"
-		"hammerid"		"120483"
-		"m_iname"		"boss_phys_spider"
+		"chi"		"**阶段完成**"
 	}
-	"747588"
+	"***MOVING ON TO...***"
 	{
-		"enable"		"1"
-		"hammerid"		"747588"
-		"m_iname"		"boss_phys_512_2"
+		"chi"		"**继续...**"
 	}
-	"747840"
+	"***STAGE 2 -- THE TOWN***"
 	{
-		"enable"		"1"
-		"hammerid"		"747840"
-		"m_iname"		"boss_phys_128_2"
+		"chi"		"**阶段二-无人小镇**"
 	}
-	"747900"
+	"***THE FIRE IS OBSTRUCTING YOUR PATH***"
 	{
-		"enable"		"1"
-		"hammerid"		"747900"
-		"m_iname"		"boss_phys_128_5"
+		"chi"		"**大火挡住了我们的道路**"
 	}
-	"747894"
+	"***HOLD OUT UNTIL ITS EXTINGUISHED***"
 	{
-		"enable"		"1"
-		"hammerid"		"747894"
-		"m_iname"		"boss_phys_128_4"
+		"chi"		"**守住，给我们争取到扑灭火焰的时间**"
 	}
-	"747888"
+	"***OPENING GATE***"
 	{
-		"enable"		"1"
-		"hammerid"		"747888"
-		"m_iname"		"boss_phys_128_3"
+		"chi"		"**大门正在开启**"
 	}
-	"795018"
+	"***THE FIRE IS OUT***"
 	{
-		"enable"		"0"
-		"hammerid"		"795018"
-		"m_iname"		"s1_boat_human_zladder"
+		"chi"		"**火被扑灭了**"
 	}
-	"111317"
+	"***THE GATE IS OPEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"111317"
-		"m_iname"		"g_zombiecage_teleblocker"
+		"chi"		"**大门打开**"
 	}
-	"576506"
+	"***MOVE IT***"
 	{
-		"enable"		"0"
-		"hammerid"		"576506"
-		"m_iname"		"s6_snowbreak"
+		"chi"		"**前进**"
 	}
-	"584508"
+	"***THE TOWN IS UNDER ATTACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"584508"
-		"m_iname"		"s6_chapel_breakwall"
+		"chi"		"**城镇正在遭到攻击**"
 	}
-	"724697"
+	"***HOLD OUT AS LONG AS POSSIBLE***"
 	{
-		"enable"		"0"
-		"hammerid"		"724697"
-		"m_iname"		"s6_kaemon_is_a_slacker"
+		"chi"		"**能守多久是多久**"
 	}
-	"113391"
+	"***SAVE YOURSELVES SOME TIME BY HOLDING THEM BACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"113391"
-		"m_iname"		"npc_phys&7557"
+		"chi"		"**尽可能断后，可以为你们争取大把时间**"
 	}
-	"112929"
+	"***DEFEND THE STAIRS FOR 40 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"112929"
-		"m_iname"		"i_cannonfire_phys&4352"
+		"chi"		"**在阶梯处防守40秒**"
+		"DoorCountDown"		"40"
 	}
-	"113713"
+	"***Fall back***"
 	{
-		"enable"		"0"
-		"hammerid"		"113713"
-		"m_iname"		"i_magic_phys&3182"
+		"chi"		"**撤退**"
 	}
-	"112974"
+	"***THE DEBRIS IS BLOCKING YOUR PATH***"
 	{
-		"enable"		"1"
-		"hammerid"		"112974"
-		"m_iname"		"i_seamtent_detector"
+		"chi"		"**碎石挡住了我们的去路**"
 	}
-	"119672"
+	"***SPAM E ON IT TO REMOVE IT***"
 	{
-		"enable"		"0"
-		"hammerid"		"119672"
-		"m_iname"		"g_metalbreak"
+		"chi"		"**在面前按E可以清理道路**"
 	}
-	"112365"
+	"***THE MORE PEOPLE CLEARING IT THE FASTER IT WILL TAKE***"
 	{
-		"enable"		"0"
-		"hammerid"		"112365"
-		"m_iname"		"i_boar_detect&4690"
+		"chi"		"**人越多清理的速度越快**"
 	}
-	"119657"
+	"***YOU MADE IT TO THE TOWN ENTRANCE***"
 	{
-		"enable"		"0"
-		"hammerid"		"119657"
-		"m_iname"		"g_woodbreak"
+		"chi"		"**你已成功到达城镇大门**"
 	}
-	"120107"
+	"***HOLD THE ZOMBIES BACK FOR A WHILE***"
 	{
-		"enable"		"0"
-		"hammerid"		"120107"
-		"m_iname"		"s6ladderblock2"
+		"chi"		"**不要让僵尸到达这里**"
 	}
-	"119687"
+	"***WATCH OUT***"
 	{
-		"enable"		"0"
-		"hammerid"		"119687"
-		"m_iname"		"g_block128"
+		"chi"		"**当心**"
 	}
-	"119022"
+	"***TIP - STAY AND HOLD BEHIND THE TOWER***"
 	{
-		"enable"		"0"
-		"hammerid"		"119022"
-		"m_iname"		"g_plankbreak"
+		"chi"		"**提示-侧路的瞭望塔即将倒塌**"
 	}
-	"631841"
+	"***ADMIN ROOM - STAGE 2 SET***"
 	{
-		"enable"		"0"
-		"hammerid"		"631841"
-		"m_iname"		"woodbreakdoortrigger_top"
+		"chi"		"**调关房 - 阶段二**"
 	}
-	"631849"
+	"***THE OGRE HAS BEEN SLAIN***"
 	{
-		"enable"		"0"
-		"hammerid"		"631849"
-		"m_iname"		"g_woodbreakdoor"
+		"chi"		"**食人魔已被击杀**"
 	}
-	"110127"
+	"***GET ON THE BOARS***"
 	{
-		"enable"		"0"
-		"hammerid"		"110127"
-		"m_iname"		"i_magic_phys1&7276"
+		"chi"		"**爬到野猪背上**"
 	}
-	"116802"
+	"***HURRY***"
 	{
-		"enable"		"0"
-		"hammerid"		"116802"
-		"m_iname"		"i_tr_logstand_break"
+		"chi"		"**赶快**"
 	}
-	"114576"
+	"***THEY ARE AFTER US***"
 	{
-		"enable"		"0"
-		"hammerid"		"114576"
-		"m_iname"		"i_thunderspawner_phys&0903"
+		"chi"		"**它们在追我们**"
+	}
+	"***HOLD THEM BACK WHILE AVOIDING OBSTACLES***"
+	{
+		"chi"		"**守住它们-并躲避障碍物**"
+	}
+	"***WATCH OUT AHEAD***"
+	{
+		"chi"		"**小心前方!**"
+	}
+	"***KILL ANY REMAINING ENEMIES***"
+	{
+		"chi"		"**杀死剩下的敌人**"
+	}
+	"***STAGE 3 -- THE FOREST***"
+	{
+		"chi"		"**阶段三-恐怖森林**"
+	}
+	"***MAKE YOUR WAY THROUGH THE FOREST***"
+	{
+		"chi"		"**找到可以穿过森林的道路**"
+	}
+	"***HOLD THIS AREA - GATHER EVERYBODY UP***"
+	{
+		"chi"		"**守住这里-等到大家集合**"
+	}
+	"***TIP -- DO NOT RUN INSTANTLY TO THE HOLD***"
+	{
+		"chi"		"**提示-不要立即前往据点**"
+	}
+	"***TIP -- PUSH THEM BACK AS YOU FALL BACK - SLOW THEM DOWN***"
+	{
+		"chi"		"**提示-撤退时不要忘记的你身后追赶着什么**"
+	}
+	"***MOVE FURTHER INTO THE FOREST***"
+	{
+		"chi"		"**准备深入森林**"
+	}
+	"***HOLD YOUR GROUND HERE FOR A WHILE***"
+	{
+		"chi"		"**在这里稍等一会**"
+	}
+	"***TIP -- MAKE SURE TO HOLD BOTH THE TOP AND BOTTOM***"
+	{
+		"chi"		"**提示-两条道路都要有人去防守**"
+	}
+	"***MIND THE PARALLELL PATH IF ZOMBIFIED***"
+	{
+		"chi"		"**当你变成僵尸时-注意找一下第二条道路**"
+	}
+	"***GET INSIDE THE TOWER THROUGH THE CHAPEL***"
+	{
+		"chi"		"**通过教堂进入高塔**"
+	}
+	"***DEFEND THE CHAPEL***"
+	{
+		"chi"		"**守住教堂**"
+	}
+	"***SLOW THE ZOMBIES DOWN***"
+	{
+		"chi"		"**拖住僵尸-给我们争取时间**"
+	}
+	"***THE CHAPEL TOWER IS OPEN***"
+	{
+		"chi"		"**教堂高塔大门已打开**"
+	}
+	"***YOU HAVE INFILTRATED THE TOWER***"
+	{
+		"chi"		"**你已成功进入高塔**"
+	}
+	"***MAKE YOUR WAY TO THE TOP***"
+	{
+		"chi"		"**想办法到达高塔顶部**"
+	}
+	"***SOMEONE NEEDS TO GET THE TNT IN ORDER TO BLOW UP THE GATE***"
+	{
+		"chi"		"**需要有人拿到TNT炸开大门**"
+	}
+	"***TIP -- LET ONE PLAYER CLIMB FOR IT AS THE REST HOLDS THE ZOMBIES OFF***"
+	{
+		"chi"		"**提示-让一位玩家爬上去拿TNT,其余玩家守住僵尸**"
+	}
+	"***TIP -- YOU CAN ALSO BREAK THE GATE USING NORMAL ITEMS***"
+	{
+		"chi"		"**提示-你也可以用其余东西打开大门**"
+	}
+	"***TIP -- ...HOWEVER IT WILL TAKE ALOT LONGER***"
+	{
+		"chi"		"**提示-但那会花费更多的时间**"
+	}
+	"***CLIMB TOWARDS THE TOP***"
+	{
+		"chi"		"**爬到顶部**"
+	}
+	"***PROVE YOUR WORTH***"
+	{
+		"chi"		"**证明你的价值**"
+	}
+	"***CLIMB THE RUBBLE TO GET INSIDE***"
+	{
+		"chi"		"**通过残破建筑留下的瓦砾进入里面**"
+	}
+	"***GOOD LUCK***"
+	{
+		"chi"		"**祝你好运**"
+	}
+	"***MEET YOUR ADVERSARIES...***"
+	{
+		"chi"		"**那是你的对手**"
+	}
+	"***SLOGRA AND GAIBON***"
+	{
+		"chi"		"**slogra和gaibon**"
+	}
+	"***DEFEAT SLOGRA***"
+	{
+		"chi"		"**击败slogra**"
+	}
+	"***SLOGRA HAS FALLEN***"
+	{
+		"chi"		"**slogra已倒下**"
+	}
+	"***DEFEAT GAIBON***"
+	{
+		"chi"		"**击败gaibon**"
+	}
+	"***ITS NOT OVER YET***"
+	{
+		"chi"		"**然而这还没有结束**"
+	}
+	"***GAIBON HAS BEEN DEFEATED***"
+	{
+		"chi"		"**gaibon被打败了**"
+	}
+	"***THE TOWER IS COLLAPSING***"
+	{
+		"chi"		"**高塔开始倒塌**"
+	}
+	"***ESCAPE***"
+	{
+		"chi"		"**逃离这个地方**"
+	}
+	"***GO OUT THROUGH THE MAIN GATE***"
+	{
+		"chi"		"**准备从大门处离开**"
+	}
+	"***BEHIND YOU!***"
+	{
+		"chi"		"**在你后面**"
+	}
+	"***Watch out!***"
+	{
+		"chi"		"**小心**"
+	}
+	"***STAGE 4 -- THE SWAMP***"
+	{
+		"chi"		"**阶段四-沼泽怪物**"
+	}
+	"***HOLD THEM BACK FOR 60 SECONDS***"
+	{
+		"chi"		"**守住60秒**"
+		"DoorCountDown"		"60"
+	}
+	"***TIP - DEFEND AND SLOW THE ZOMBIES DOWN ALONG THE WAY***"
+	{
+		"chi"		"**提示-守住并拖慢僵尸的步伐**"
+	}
+	"***TIP - HUGGING THE WALL WONT HELP YOUR TEAM***"
+	{
+		"chi"		"**提示-紧贴着门并不会对你的团队有任何帮助**"
+	}
+	"***YOU GET OVERWHELMED BY A FEELING OF DESPAIR***"
+	{
+		"chi"		"**你被一种绝望的情绪所围绕**"
+	}
+	"***EVERYONE GET IN POSITION***"
+	{
+		"chi"		"**所有人准备就位**"
+	}
+	"***KILL THE SWAMPMONSTER***"
+	{
+		"chi"		"**杀死沼泽怪物**"
+	}
+	"***TIP - NADES WONT EVEN SCRATCH IT***"
+	{
+		"chi"		"**提示-手雷不会对它造成伤害**"
+	}
+	"***THE SWAMPMONSTER HAS BEEN SLAIN***"
+	{
+		"chi"		"**沼泽怪物已死亡**"
+	}
+	"***ESCAPE INTO THE CAVES***"
+	{
+		"chi"		"**进入洞穴**"
+	}
+	"***THE CAVES WILL COLLAPSE IN 20 SECONDS***"
+	{
+		"chi"		"**洞穴20秒后坍塌**"
+		"DoorCountDown"		"20"
+	}
+	"***HOLD THEM OFF***"
+	{
+		"chi"		"**拖住他们**"
+	}
+	"***THE CAVES WILL COLLAPSE IN 5 SECONDS***"
+	{
+		"chi"		"**洞穴5秒后坍塌**"
+	}
+	"***STAGE 5 -- THE CAVES***"
+	{
+		"chi"		"**阶段五-蜘蛛洞穴**"
+	}
+	"***SEEMS LIKE WE LOST THEM***"
+	{
+		"chi"		"**我们似乎赢了**"
+	}
+	"***INCOMING BOARS***"
+	{
+		"chi"		"**僵尸可以通过传送门传送至野猪背**"
+	}
+	"***WOMBO COMBO!***"
+	{
+		"chi"		"**组合技**"
+	}
+	"***WOMBO COMBO ENDED!***"
+	{
+		"chi"		"**组合技结束**"
+	}
+	"***USE THE TNT TO OPEN UP THE BLOCKADE***"
+	{
+		"chi"		"**使用TNT来炸开封锁线**"
+	}
+	"***TIP -- DONT WASTE THE TORCHES***"
+	{
+		"chi"		"**提示-不要浪费火把**"
+	}
+	"***THE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"**电梯30秒后离开**"
+		"DoorCountDown"		"30"
+	}
+	"***TIP -- DEFEND AS EARLY ON AS POSSIBLE***"
+	{
+		"chi"		"**提示-尽可能的在前面防守**"
+	}
+	"***TIP -- DEFENDING THE UPPER SECTION IS CRUCIAL***"
+	{
+		"chi"		"**提示-防守上层是至关重要的**"
+	}
+	"***THE ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"**电梯20秒后离开**"
+		"DoorCountDown"		"20"
+	}
+	"***THE ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"**电梯10秒后离开**"
+	}
+	"***THE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**电梯5秒后离开**"
+	}
+	"***THE ELEVATOR IS LEAVING***"
+	{
+		"chi"		"**电梯已经离开**"
+	}
+	"***HOLD OUT FOR 30 SECONDS***"
+	{
+		"chi"		"**守住30秒**"
+		"DoorCountDown"		"30"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"chi"		"**还剩20秒**"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"**还剩10秒**"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"***THE SPIDER WEB IS SLOWING US DOWN***"
+	{
+		"chi"		"**蜘蛛网让我们的速度骤然下降**"
+	}
+	"***Defend for 20 seconds***"
+	{
+		"chi"		"**守住20秒**"
+		"DoorCountDown"		"20"
+	}
+	"***SOMETHING IS CHASING US***"
+	{
+		"chi"		"**有什么鬼祟的东西在追着我们**"
+	}
+	"***RUN FOR YOUR LIFE***"
+	{
+		"chi"		"**为了你的生命,快跑!!**"
+	}
+	"***STAND YOUR GROUND FOR 20 SECONDS***"
+	{
+		"chi"		"**坚守这个地方20秒**"
+		"DoorCountDown"		"20"
+	}
+	"***ITS COMING***"
+	{
+		"chi"		"**它来了**"
+	}
+	"***KILL THE SPIDER QUEEN***"
+	{
+		"chi"		"**杀死蜘蛛女王**"
+	}
+	"***THE SPIDER QUEEN HAS BEEN SLAIN***"
+	{
+		"chi"		"**蜘蛛女王已被杀死**"
+	}
+	"***ESCAPE TOWARDS THE SURFACE***"
+	{
+		"chi"		"**逃到地面**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 20 SECONDS***"
+	{
+		"chi"		"**电梯将在20秒后上升**"
+		"DoorCountDown"		"20"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 10 SECONDS***"
+	{
+		"chi"		"**电梯将在10秒后离开**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 5 SECONDS***"
+	{
+		"chi"		"**电梯将在5秒后离开**"
+	}
+	"***THE ELEVATOR IS ASCENDING TOWARDS THE SURFACE***"
+	{
+		"chi"		"**电梯正在上升**"
+	}
+	"***STAGE 6 -- THE MOUNTAIN***"
+	{
+		"chi"		"**阶段六-茫茫雪山**"
+	}
+	"***HOLD HERE FOR 15 SECONDS***"
+	{
+		"chi"		"**在这里守住15秒**"
+		"DoorCountDown"		"15"
+	}
+	"***TIP -- A STRONG ENOUGH ITEM COULD BREAK THE SNOW***"
+	{
+		"chi"		"**提示-一件足够坚固的物品可以打破积雪**"
+	}
+	"***WE HAVE AT LAST ARRIVED AT THE CHAPEL***"
+	{
+		"chi"		"**我们终于到达了教堂**"
+	}
+	"***FIND A WAY INSIDE***"
+	{
+		"chi"		"**找到出路**"
+	}
+	"***Hold for 20 seconds***"
+	{
+		"chi"		"**守住20秒**"
+		"DoorCountDown"		"20"
+	}
+	"***STAND BACK***"
+	{
+		"chi"		"**往后退**"
+	}
+	"***ITS A SNOW TITAN***"
+	{
+		"chi"		"**这是一个雪泰坦**"
+	}
+	"***ITS ABOUT TO ATTACK***"
+	{
+		"chi"		"**它即将发起攻击**"
+	}
+	"***FALL BACK TO THE CHAPEL***"
+	{
+		"chi"		"**返回教堂**"
+	}
+	"***HOLD HERE FOR 20 SECONDS***"
+	{
+		"chi"		"**在这里守住20秒**"
+		"DoorCountDown"		"20"
+	}
+	"***THE TITAN IS MOVING***"
+	{
+		"chi"		"**泰坦开始移动**"
+	}
+	"***DEFEND FOR 15 SECONDS***"
+	{
+		"chi"		"**守住15秒**"
+		"DoorCountDown"		"15"
+	}
+	"***HOLD YOUR GROUND HERE***"
+	{
+		"chi"		"**守住你的阵地**"
+	}
+	"***CLIMB TO THE TOP OF THE CHAPEL***"
+	{
+		"chi"		"**爬到教堂的顶部**"
+	}
+	"***DEFEAT THE SNOW TITAN BEFORE IT KILLS US ALL***"
+	{
+		"chi"		"**在泰坦杀了我们之前打败它**"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"**你做到了**"
+	}
+	"***THE SNOW TITANS ATTACK HAS BEEN INTERRUPTED***"
+	{
+		"chi"		"**泰坦的攻击已被中断**"
+	}
+	"***THE SNOW TITAN FELL OFF***"
+	{
+		"chi"		"**泰坦掉下去了**"
+	}
+	"***YOU FAILED***"
+	{
+		"chi"		"**你失败了**"
+	}
+	"***STAGE 7 -- THE ROAD TO CASTLE DRACULA***"
+	{
+		"chi"		"**阶段七-德古拉城堡**"
+	}
+	"***BRIDGE IS LOWERING IN 15 SECONDS***"
+	{
+		"chi"		"**桥在15秒后降下**"
+	}
+	"***...IN THE NEXT VERSION...***"
+	{
+		"chi"		"**...将在下个版本出现..**"
+	}
+	"***ADMIN ROOM - STAGE 5 SET***"
+	{
+		"chi"		"**调关房-阶段五**"
+	}
+	"***ADMIN ROOM - STAGE 4 SET***"
+	{
+		"chi"		"**调关房-阶段四**"
+	}
+	"***ADMIN ROOM - STAGE 3 SET***"
+	{
+		"chi"		"**调关房-阶段三**"
+	}
+	"***ADMIN ROOM - STAGE 1 SET***"
+	{
+		"chi"		"**调关房-阶段一**"
+	}
+	"***ADMIN ROOM - STAGE 6 SET***"
+	{
+		"chi"		"**调关房-阶段六**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"47543"
+	}
+	"***BRIDGE IS LOWERING***"
+	{
+		"chi"		"**桥已降下**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"30"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"1"
+		{
+			"cvar"		"sm_smoke_limit 6"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 5"
+		}
+		"3"
+		{
+			"cvar"		"sm_he_limit 10"
+		}
+		"4"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 8"
+		}
+		"5"
+		{
+			"cvar"		"zr_infect_mzombie_ratio 7"
+		}
+		"6"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

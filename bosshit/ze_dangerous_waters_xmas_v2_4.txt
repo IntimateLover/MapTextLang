@@ -1,213 +1,259 @@
-"BOSSHP"
+"Console_T"
 {
-	"575070"
+	"[***Map made by AttenseFX***]"
 	{
-		"enable"		"0"
-		"hammerid"		"575070"
-		"m_iname"		"bridge 1"
+		"chi"		"**地图制作：AttenseFX 地图翻译:蓬莱山帅比♪ **"
 	}
-	"575389"
+	"***Special Thanks to Sleepy and Neuro Toxin***"
 	{
-		"enable"		"0"
-		"hammerid"		"575389"
-		"m_iname"		"bridge 2"
+		"chi"		"**特别感谢：Sleepy and Neuro Toxin **"
 	}
-	"564748"
+	"***Christmas decoration by Et3rnity***"
 	{
-		"enable"		"0"
-		"hammerid"		"564748"
-		"m_iname"		"wall_breakable"
+		"chi"		"**圣诞装饰：Et3rnity **"
 	}
-	"565127"
+	"***Visit 2unlimited.ro***"
 	{
-		"enable"		"0"
-		"hammerid"		"565127"
-		"m_iname"		"wall_breakable"
+		"chi"		"**访问2unlimited.ro **"
 	}
-	"565131"
+	"***The boat must reach the walls in order to continue***"
 	{
-		"enable"		"0"
-		"hammerid"		"565131"
-		"m_iname"		"wall_breakable"
+		"chi"		"**船必须到达墙壁以便继续前进 **"
 	}
-	"565135"
+	"***Main Boat has left***"
 	{
-		"enable"		"0"
-		"hammerid"		"565135"
-		"m_iname"		"wall_breakable"
+		"chi"		"**主船已离开 **"
 	}
-	"565139"
+	"***Main Lift is leaving in 15 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"565139"
-		"m_iname"		"wall_breakable"
+		"chi"		"**主电梯在15秒后离开 **"
 	}
-	"565143"
+	"***Main Lift has left***"
 	{
-		"enable"		"0"
-		"hammerid"		"565143"
-		"m_iname"		"wall_breakable"
+		"chi"		"**主电梯已离开 **"
 	}
-	"565147"
+	"***Wall has collapsed***"
 	{
-		"enable"		"0"
-		"hammerid"		"565147"
-		"m_iname"		"wall_breakable"
+		"chi"		"**墙已经倒塌 **"
 	}
-	"565151"
+	"***Zombies are blocked for 7 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"565151"
-		"m_iname"		"wall_breakable"
+		"chi"		"**僵尸被封锁7秒 **"
 	}
-	"565155"
+	"__The boats hatch can only be opened from this side__"
 	{
-		"enable"		"0"
-		"hammerid"		"565155"
-		"m_iname"		"wall_breakable"
+		"chi"		"**船的舱口只能从里边打开 **"
 	}
-	"565159"
+	"***Helicopter is leaving in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"565159"
-		"m_iname"		"wall_breakable"
+		"chi"		"**直升机在5秒后离开 **"
 	}
-	"565163"
+	"***Small boat 1 leaving in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"565163"
-		"m_iname"		"wall_breakable"
+		"chi"		"**小船在5秒后离开 **"
 	}
-	"565167"
+	"***Small boat 2 leaving in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"565167"
-		"m_iname"		"wall_breakable"
+		"chi"		"**小船2在5秒后离开 **"
 	}
-	"565171"
+	"***Shoot at the tree or we will crash!***"
 	{
-		"enable"		"0"
-		"hammerid"		"565171"
-		"m_iname"		"wall_breakable"
+		"chi"		"**攻击那颗树，不然我们会坠机~**"
 	}
-	"565223"
+	"***Raft leaving in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"565223"
-		"m_iname"		"wall_breakable"
+		"chi"		"**木筏在5秒后离开 **"
 	}
-	"530305"
+	"=--[Get off the Helicopter and help defend]--="
 	{
-		"enable"		"0"
-		"hammerid"		"530305"
-		"m_iname"		"-Plank 2"
+		"chi"		"**快点下直升机帮助防守**"
 	}
-	"539971"
+	"--------Get out and fight you cowards!--------"
 	{
-		"enable"		"0"
-		"hammerid"		"539971"
-		"m_iname"		"a1"
+		"chi"		"**走出去，守住僵尸 **"
 	}
-	"540085"
+	"***Boat is almost here begin to FALL BACK***"
 	{
-		"enable"		"0"
-		"hammerid"		"540085"
-		"m_iname"		"a2"
+		"chi"		"**船在这里返回 **"
 	}
-	"516679"
+	"***Water after waterfall is very hazardous Instant-death***"
 	{
-		"enable"		"0"
-		"hammerid"		"516679"
-		"m_iname"		"Hidden"
+		"chi"		"**瀑布后的水很危险，水里的人会瞬间死亡 **"
 	}
-	"445192"
+	"*** Oh god, get out. GET OUT OF THE BOAT NOW!"
 	{
-		"enable"		"0"
-		"hammerid"		"445192"
-		"m_iname"		"Wall Breakable 1"
+		"chi"		"**天啊，快点离开船！！！快点！！！**"
 	}
-	"424620"
+	"***Second wall has collapsed***"
 	{
-		"enable"		"0"
-		"hammerid"		"424620"
-		"m_iname"		"Rock Breakable"
+		"chi"		"**第二个墙已经崩溃 **"
 	}
-	"403196"
+	"***Zombies are held for 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"403196"
-		"m_iname"		"Tree 1 Breakable"
+		"chi"		"**僵尸10秒后恢复行动 **"
 	}
-	"304292"
+	"***Washtub 1 will leave in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"304292"
-		"m_iname"		"wall 4"
+		"chi"		"**洗衣盆1，5秒后离开 **"
 	}
-	"202208"
+	"***Washtub 2 will leave in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"202208"
-		"m_iname"		"-Plank"
+		"chi"		"**洗衣盆2，5秒后离开 **"
 	}
-	"131408"
+	"***Washtub 3 will leave in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"131408"
-		"m_iname"		"wall 3"
+		"chi"		"**洗衣盆3，5秒后离开 **"
 	}
-	"129391"
+	"***Washtub 4 will leave in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"129391"
-		"m_iname"		"Wall 2"
+		"chi"		"**洗衣盆4，5秒后离开 **"
 	}
-	"43856"
+	"***Washtub 5 will leave in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"43856"
-		"m_iname"		"Wall 1"
+		"chi"		"**洗衣盆5，5秒后离开 **"
 	}
-	"1109"
+	"***Second Main Lift is leaving in 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"1109"
-		"m_iname"		"Plank 2"
+		"chi"		"**第二主电梯10秒后离开 **"
 	}
-	"732"
+	"***Teleport to other island available in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"732"
-		"m_iname"		"Plank"
+		"chi"		"**20秒后传送僵尸**"
 	}
-	"377999"
+	"***Second Main Lift has left***"
 	{
-		"enable"		"0"
-		"hammerid"		"377999"
-		"m_iname"		"flyingfox_breakable"
+		"chi"		"**第二主电梯已离开 **"
 	}
-	"683114"
+	"***Teleport to other island is now available***"
 	{
-		"enable"		"0"
-		"hammerid"		"683114"
-		"m_iname"		"laser_physbox"
+		"chi"		"**现在可以传送了 **"
 	}
-	"657339"
+	"[Melon]"
 	{
-		"enable"		"1"
-		"hammerid"		"657339"
-		"m_iname"		"boss_nade"
+		"chi"		"** **"
 	}
-	"657345"
+	"***Shoot the rock sticking out of the wall!***"
 	{
-		"enable"		"1"
-		"hammerid"		"657345"
-		"m_iname"		"boss_break"
+		"chi"		"**射击岩石不然我们会坠机！ **"
 	}
-	"657357"
+	"***Hold here for 35 seconds while the boats refuel***"
 	{
-		"enable"		"0"
-		"hammerid"		"657357"
-		"m_iname"		"CY01Physic"
+		"chi"		"**在这里守住35秒，给船加油 **"
+	}
+	"***Teleport past the course is now enabled***"
+	{
+		"chi"		"**传送装置现在启用 **"
+	}
+	"***Zombies are blocked for 10 seconds. get on the boats!***"
+	{
+		"chi"		"**僵尸被阻止10秒。快到船上！ **"
+	}
+	"***Speed Boats are leaving in 8 seconds***"
+	{
+		"chi"		"**快艇在8秒后离开 **"
+	}
+	"***Speed Boats have left***"
+	{
+		"chi"		"**快艇已经离开 **"
+	}
+	"***Hold here for 45 seconds***"
+	{
+		"chi"		"**在这里守住45秒 **"
+	}
+	"***Bunker door open***"
+	{
+		"chi"		"**仓门打开 **"
+	}
+	"***Press the button to activate the nuke!***"
+	{
+		"chi"		"**按下按钮，激活核弹！ **"
+	}
+	"***Nuclear bomb on it's way doors closing in 10 seconds***"
+	{
+		"chi"		"**核弹的门在10秒后关闭 **"
+	}
+	"***Shoot a path through the wall or we will crash!***"
+	{
+		"chi"		"**用子弹射出一条路穿过墙壁不然我们会坠机！ **"
+	}
+	"***Nuclear bomb has been sent***"
+	{
+		"chi"		"**核弹已经发射 **"
+	}
+	"***Detonation in 3***"
+	{
+		"chi"		"**3秒后爆炸 **"
+	}
+	"***2***"
+	{
+		"chi"		"**2 **"
+	}
+	"***1***"
+	{
+		"chi"		"**1 **"
+	}
+	"--------Laser initiating (Crouch!)--------"
+	{
+		"chi"		"**激光启动(克劳奇!) **"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"chi"		"**办公室的路线 **"
+	}
+	"***Nuclear bomb on its way doors closing in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"52238"
+	}
+	"***Dj is here!***"
+	{
+		"chi"		"** **"
+	}
+	"***Wall will break in 30 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***5 sec left***"
+	{
+		"chi"		"** **"
+	}
+	"***Boss fight in 15 sec***"
+	{
+		"chi"		"** **"
+	}
+	"**What is the point?**"
+	{
+		"chi"		"** **"
+	}
+	"**Kill the santa or he will kill you!**"
+	{
+		"chi"		"** **"
+	}
+	"**Goodluck!**"
+	{
+		"chi"		"** **"
+	}
+	"**Santa has been defeated!**"
+	{
+		"chi"		"** **"
+	}
+	"**But you think this is the end?**"
+	{
+		"chi"		"** **"
+	}
+	"**Be ready to dodge the lasers in 5 sec**"
+	{
+		"chi"		"** **"
+	}
+	"**You are alive, i dont bealive this!**"
+	{
+		"chi"		"** **"
+	}
+	"**Runn!**"
+	{
+		"chi"		"** **"
 	}
 }

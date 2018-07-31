@@ -1,183 +1,243 @@
-"BOSSHP"
+"Console_T"
 {
-	"611258"
+	"++ SECRET BOAT WILL VANISH IN 10 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"611258"
-		"m_iname"		"eye_secret_1"
+		"chi"		"** **"
 	}
-	"598658"
+	"++ DIFFICULTY WILL BE CHANGED TO MEDIUM ++"
 	{
-		"enable"		"0"
-		"hammerid"		"598658"
-		"m_iname"		"eye_secret_1_breakable_prot"
+		"chi"		"** **"
 	}
-	"1225564"
+	"++ 5 ++"
 	{
-		"enable"		"0"
-		"hammerid"		"1225564"
-		"m_iname"		"sg_breakable"
+		"chi"		"** **"
 	}
-	"598863"
+	"++ 4 ++"
 	{
-		"enable"		"0"
-		"hammerid"		"598863"
-		"m_iname"		"eye_secret_1_breakable"
+		"chi"		"** **"
 	}
-	"302700"
+	"++ 3 ++"
 	{
-		"enable"		"0"
-		"hammerid"		"302700"
-		"m_iname"		"breakable_3"
+		"chi"		"** **"
 	}
-	"302750"
+	"++ 2 ++"
 	{
-		"enable"		"0"
-		"hammerid"		"302750"
-		"m_iname"		"breakable_7"
+		"chi"		"** **"
 	}
-	"295530"
+	"++ 1 ++"
 	{
-		"enable"		"0"
-		"hammerid"		"295530"
-		"m_iname"		"breakable_2"
+		"chi"		"** **"
 	}
-	"155983"
+	"++ EASY ++"
 	{
-		"enable"		"0"
-		"hammerid"		"155983"
-		"m_iname"		"breakable_1"
+		"chi"		"** **"
 	}
-	"153804"
+	"++ CURRENT DIFFICULTY ++"
 	{
-		"enable"		"0"
-		"hammerid"		"153804"
-		"m_iname"		"breakable_6"
+		"chi"		"** **"
 	}
-	"106391"
+	"MAP MADE BY MR.MUESLI AND GARGANTUA"
 	{
-		"enable"		"0"
-		"hammerid"		"106391"
-		"m_iname"		"breakable_9"
+		"chi"		"** **"
 	}
-	"79947"
+	"++ SECRET BOAT is leaving in 5 seconds ++"
 	{
-		"enable"		"0"
-		"hammerid"		"79947"
-		"m_iname"		"breakable_4"
+		"chi"		"** **"
 	}
-	"78263"
+	"++ SECRET BOAT is leaving!! ++"
 	{
-		"enable"		"0"
-		"hammerid"		"78263"
-		"m_iname"		"breakable_8"
+		"chi"		"** **"
 	}
-	"74787"
+	"++ GATE 1 WILL OPEN IN 35 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"74787"
-		"m_iname"		"wall_1"
+		"chi"		"** **"
 	}
-	"74829"
+	"++ SPAWN TELEPORT ENABLED ++"
 	{
-		"enable"		"0"
-		"hammerid"		"74829"
-		"m_iname"		"breakable_10"
+		"chi"		"** **"
 	}
-	"72938"
+	"++ GATE 1 WILL OPEN IN 20 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"72938"
-		"m_iname"		"breakable_5"
+		"chi"		"** **"
 	}
-	"611184"
+	"++ GATE 1 WILL OPEN IN 10 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"611184"
-		"m_iname"		"eye_secret_2"
+		"chi"		"** **"
 	}
-	"598934"
+	"++ GATE 1 WILL OPEN IN 5 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"598934"
-		"m_iname"		"eye_secret_2_breakable_prot"
+		"chi"		"** **"
 	}
-	"598852"
+	"++ GATE 1 IS NOW OPEN!! ++"
 	{
-		"enable"		"0"
-		"hammerid"		"598852"
-		"m_iname"		"eye_secret_2_breakable"
+		"chi"		"** **"
 	}
-	"611302"
+	"++ GATE 2 WILL OPEN IN 5 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"611302"
-		"m_iname"		"eye_secret_3"
+		"chi"		"** **"
 	}
-	"604069"
+	"++ GATE 2 IS NOW OPEN!! ++"
 	{
-		"enable"		"0"
-		"hammerid"		"604069"
-		"m_iname"		"eye_secret_3_breakable_prot"
+		"chi"		"** **"
 	}
-	"599052"
+	"++ BOATS ARE LEAVING IN 30 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"599052"
-		"m_iname"		"eye_secret_3_breakable_prot"
+		"chi"		"** **"
 	}
-	"599055"
+	"++ BOATS ARE LEAVING IN 15 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"599055"
-		"m_iname"		"eye_secret_3_breakable"
+		"chi"		"** **"
 	}
-	"611363"
+	"++ BOATS ARE LEAVING IN 10 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"611363"
-		"m_iname"		"eye_secret_4"
+		"chi"		"** **"
 	}
-	"604172"
+	"++ BOATS ARE LEAVING!! ++"
 	{
-		"enable"		"0"
-		"hammerid"		"604172"
-		"m_iname"		"eye_secret_4_breakable_prot"
+		"chi"		"** **"
 	}
-	"604143"
+	"++ NUKE IN 10 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"604143"
-		"m_iname"		"eye_secret_4_breakable"
+		"chi"		"** **"
 	}
-	"605746"
+	"++ ZOMBIES REACHED THE ISLAND ++"
 	{
-		"enable"		"0"
-		"hammerid"		"605746"
-		"m_iname"		"eye_final_break"
+		"chi"		"** **"
 	}
-	"735690"
+	"++ LEVEL UP DENIED ++"
 	{
-		"enable"		"0"
-		"hammerid"		"735690"
-		"m_iname"		"sorrento_break_1"
+		"chi"		"** **"
 	}
-	"735704"
+	"++ YOU ADVANCED TO THE NEXT LEVEL ++"
 	{
-		"enable"		"0"
-		"hammerid"		"735704"
-		"m_iname"		"sorrento_break_2"
+		"chi"		"** **"
 	}
-	"87174"
+	"++ MEDIUM ++"
 	{
-		"enable"		"0"
-		"hammerid"		"87174"
-		"m_iname"		"breakable_11"
+		"chi"		"** **"
 	}
-	"687250"
+	"++ GATE 1 WILL OPEN IN 45 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"687250"
-		"m_iname"		"breakable_3_4_5"
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 30 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT is leaving in 8 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 15 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ HARD ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 1 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 60 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 2 WILL OPEN IN 10 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 2 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT is leaving in 12 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"++ INSANE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 3 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 70 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 55 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 40 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT is leaving in 15 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 2 WILL OPEN IN 15 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 4 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ACTIVATE THE EYE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ IMPOSSIBLE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ THE EYE HAS DISAPPEARED ++"
+	{
+		"chi"		"** **"
+	}
+	"++ 1st December 2016 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ OLDSCHOOL BOAT WILL LEAVE IN 8 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 90 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ CONGRATULATIONS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ YOU MASTERED THE HIGHEST LEVEL ++"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT is leaving in 30 seconds ++"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"26472"
+	}
+	"MAP MADE BY GARGANTUA"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
 	}
 }

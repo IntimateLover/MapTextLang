@@ -1,69 +1,72 @@
-"BOSSHP"
+"Console_T"
 {
-	"310"
+	"** THE PLANE IS GOING TO CRASH **"
 	{
-		"enable"		"0"
-		"hammerid"		"310"
-		"m_iname"		"schoolbusssssssssssssssheli1"
+		"chi"		"飞机要炸了！"
 	}
-	"1116"
+	"** BRACE YOURSELVES **"
 	{
-		"enable"		"0"
-		"hammerid"		"1116"
-		"m_iname"		"compoundoor"
+		"chi"		"振作你自己！"
 	}
-	"1133"
+	"** Follow the game trails through the island interior to reach Embryonic Research B. **"
 	{
-		"enable"		"0"
-		"hammerid"		"1133"
-		"m_iname"		"compoundoor2"
+		"chi"		"跟着小径走到岛屿中心以到达初期救援点B"
 	}
-	"483"
+	"** Zodiac departing for island interior. **"
 	{
-		"enable"		"0"
-		"hammerid"		"483"
-		"m_iname"		"bridge"
+		"chi"		"跑去内岛！"
 	}
-	"592"
+	"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
 	{
-		"enable"		"0"
-		"hammerid"		"592"
-		"m_iname"		"gatebreak"
+		"chi"		"桥炸了！快跳！"
 	}
-	"619"
+	"** Push the C4 between the barrels **"
 	{
-		"enable"		"0"
-		"hammerid"		"619"
-		"m_iname"		"laserbreak"
+		"chi"		"把c4放在桶之间"
 	}
-	"645"
+	"**AFK TELE 20 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"645"
-		"m_iname"		"plankbreak"
+		"chi"		"20秒后传送挂机咸鱼"
 	}
-	"651"
+	"**AFK TELE 10 SECONDS**"
 	{
-		"enable"		"0"
-		"hammerid"		"651"
-		"m_iname"		"hedgehogbreak"
+		"chi"		"10秒后传送挂机咸鱼"
 	}
-	"662"
+	"** Raptor nest has been disturbed! **"
 	{
-		"enable"		"0"
-		"hammerid"		"662"
-		"m_iname"		"hedgehogbreak"
+		"chi"		"猛禽巢穴变得不安了！"
 	}
-	"705"
+	"** There's no power. We're screwed! **"
 	{
-		"enable"		"0"
-		"hammerid"		"705"
-		"m_iname"		"platformbreak"
+		"chi"		"这里没有能源！我们被困住了！"
 	}
-	"913"
+	"** Power has been restored to Isla Sorna **"
 	{
-		"enable"		"0"
-		"hammerid"		"913"
-		"m_iname"		"tylohurt"
+		"chi"		"Sorna岛能源已恢复"
+	}
+	"** Satellite link established. Phone access enabled. **"
+	{
+		"chi"		"卫星联络建立，电话接入启用"
+	}
+	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
+	{
+		"chi"		"60秒后救援到达"
+		"DoorCountdown"		"60"
+	}
+	"** Laboratory Security online. Locking in 10 seconds... **"
+	{
+		"chi"		"还有10秒！"
+	}
+	"** C4 planted! **"
+	{
+		"chi"		"** **"
+	}
+	"** Theres no power. Were screwed! **"
+	{
+		"chi"		"** **"
+	}
+	"** Mobile Command Center has crashed **"
+	{
+		"chi"		"** **"
 	}
 }

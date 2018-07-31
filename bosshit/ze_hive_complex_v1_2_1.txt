@@ -1,111 +1,282 @@
-"BOSSHP"
+"Console_T"
 {
-	"954918"
+	"*** Normal way ***"
 	{
-		"enable"		"0"
-		"hammerid"		"954918"
-		"m_iname"		"break_1"
+		"chi"		"**正常路线 翻译:Baka_Miku v.101**"
 	}
-	"954929"
+	"*** Hard way ***"
 	{
-		"enable"		"0"
-		"hammerid"		"954929"
-		"m_iname"		"break_2"
+		"chi"		"**困难路线 翻译:Baka_Miku v.101**"
 	}
-	"954940"
+	"***Break the door for enter in the manor***"
 	{
-		"enable"		"0"
-		"hammerid"		"954940"
-		"m_iname"		"break_3"
+		"chi"		"**打碎木门 **"
 	}
-	"954951"
+	"***Find the elevator to enter in the complex ***"
 	{
-		"enable"		"0"
-		"hammerid"		"954951"
-		"m_iname"		"break_4"
+		"chi"		"**找到电梯以进入蜂巢 **"
 	}
-	"891716"
+	"*** Easy way ***"
 	{
-		"enable"		"0"
-		"hammerid"		"891716"
-		"m_iname"		"trappe 2"
+		"chi"		"**简单路线 翻译:Baka_Miku v.101**"
 	}
-	"892009"
+	"***Door open in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"892009"
-		"m_iname"		"trappe 3"
+		"chi"		"**门将在5秒后打开 **"
 	}
-	"892225"
+	"*** Elevator leave in 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"892225"
-		"m_iname"		"trappe 4"
+		"chi"		"**电梯将在10秒后离开 **"
 	}
-	"892276"
+	"***Train start in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"892276"
-		"m_iname"		"trappe 5"
+		"chi"		"**电车将在20秒后离开 **"
 	}
-	"845852"
+	"***Second trains door open! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"845852"
-		"m_iname"		"trappe"
+		"chi"		"**第二辆车厢门已打开 **"
 	}
-	"627159"
+	"***Train start in 5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"627159"
-		"m_iname"		"block"
+		"chi"		"**电车将在5秒后离开 **"
 	}
-	"627221"
+	"***Train leave***"
 	{
-		"enable"		"0"
-		"hammerid"		"627221"
-		"m_iname"		"block 1"
+		"chi"		"**电车已经离开 **"
 	}
-	"520237"
+	"*** Use control panel to open the door ***"
 	{
-		"enable"		"0"
-		"hammerid"		"520237"
-		"m_iname"		"break 3"
+		"chi"		"**使用控制器以打开大门 **"
 	}
-	"520243"
+	"***Door open in 10 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"520243"
-		"m_iname"		"break 2"
+		"chi"		"**门将在10秒后打开 **"
 	}
-	"520291"
+	"*** Elevator 1 coming in 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"520291"
-		"m_iname"		"break 1"
+		"chi"		"**一号电梯将在10秒后到达 **"
 	}
-	"520297"
+	"*** Door malfunction ***"
 	{
-		"enable"		"0"
-		"hammerid"		"520297"
-		"m_iname"		"Break"
+		"chi"		"**大门故障 **"
 	}
-	"410607"
+	"*** 2nd elevator come in 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"410607"
-		"m_iname"		"trappe 1"
+		"chi"		"**二号电梯将在5秒后到达 **"
 	}
-	"193111"
+	"*** 1st elevator leav in 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"193111"
-		"m_iname"		"venti"
+		"chi"		"**一号电梯将在5秒后离开 **"
 	}
-	"21384"
+	"*** 2nd elevator leave in 5 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"21384"
-		"m_iname"		"porte manoir"
+		"chi"		"**二号电梯将在5秒后离开 **"
+	}
+	"***Door open in 20 seconds***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"*** Door open in 15 seconds ***"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"*** Door is open ***"
+	{
+		"chi"		"**门已经打开 **"
+	}
+	"*** Hold this position the door open soon ***"
+	{
+		"chi"		"**防守!门很快会打开 **"
+	}
+	"*** 5 seconds **"
+	{
+		"chi"		"**5秒! **"
+	}
+	"*** Elevators door open in 30 seconds ***"
+	{
+		"chi"		"**电梯门将在30秒后打开 **"
+		"DoorCountDown"		"30"
+	}
+	"*** 15 seconds ***"
+	{
+		"chi"		"**15秒! **"
+	}
+	"***Elevators door open***"
+	{
+		"chi"		"**电梯门已经打开 **"
+	}
+	"*** 1st elevator leave in 5 seconds ***"
+	{
+		"chi"		"**一号电梯将在5秒后离开 **"
+	}
+	"*** Second elevators door open ***"
+	{
+		"chi"		"**二号电梯门已打开 **"
+	}
+	"*** Red Queen self defens activated ***"
+	{
+		"chi"		"**激光防御系统已激活 **"
+	}
+	"*** Your team is trapped in laser room ***"
+	{
+		"chi"		"**你的队伍被困在了激光房 **"
+	}
+	"*** Load program in computer for save him ***"
+	{
+		"chi"		"**重载系统以拯救他们 **"
+	}
+	"*** Loading program !! Please wait !!! ***"
+	{
+		"chi"		"**正在重载系统 请等待 **"
+	}
+	"*** Progress : 25 % ***"
+	{
+		"chi"		"**进程:25% **"
+	}
+	"*** Progress : 50 % ***"
+	{
+		"chi"		"**进程:50% **"
+	}
+	"*** Progress : 75 % ***"
+	{
+		"chi"		"**进程:75% **"
+	}
+	"*** FATAL ERROR !!! ***"
+	{
+		"chi"		"**错误! **"
+	}
+	"*** Progress : 100 % ***"
+	{
+		"chi"		"**进程:100% **"
+	}
+	"*** SELF DESTRUCTION IMINENT !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Programm loaded !! ***"
+	{
+		"chi"		"**系统已重载 **"
+	}
+	"*** Hurry !!! Use other computer to diactive laser ***"
+	{
+		"chi"		"**快!使用另一个电脑来关闭激光 **"
+	}
+	"*** Exit door openning ***"
+	{
+		"chi"		"**安全门已打开 **"
+	}
+	"*** Run for your life !!! ***"
+	{
+		"chi"		"**跑! **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"**防御20秒 **"
+	}
+	"*** Beware of dog !!! ***"
+	{
+		"chi"		"**当心恶犬! **"
+	}
+	"*** You can kill it !! ***"
+	{
+		"chi"		"**你可以杀死它! **"
+	}
+	"*** 10 seconds ***"
+	{
+		"chi"		"**10秒! **"
+	}
+	"*** GO its open !! ***"
+	{
+		"chi"		"**走!门已打开 **"
+	}
+	"*** Door open in 10 seconds ***"
+	{
+		"chi"		"**门将在10秒后打开 **"
+	}
+	"*** Parking door openning in 10 seconds  ***"
+	{
+		"chi"		"**停车场大门将在10秒后打开 **"
+	}
+	"*** Go in the wood house to call rescue ***"
+	{
+		"chi"		"**进入木房子以呼叫救援 **"
+	}
+	"*** Helicopters rescue coming in 60 seconds ***"
+	{
+		"chi"		"**直升机将在60秒后到达 **"
+		"DoorCountDown"		"60"
+	}
+	"*** 30 seconds left!! Resist or die !!! ***"
+	{
+		"chi"		"**还有30秒! **"
+	}
+	"*** Door openning in 20 seconds ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** HURRY !!! The door cant stay open ***"
+	{
+		"chi"		"**快!门将会关闭 **"
+	}
+	"*** Elevator leave in 20 seconds ***"
+	{
+		"chi"		"**电梯将在20秒后打开 **"
+	}
+	"*** Elevator leave ***"
+	{
+		"chi"		"**电梯已离开 **"
+	}
+	"*** Special thanks for Mapeadores to beta test map ***"
+	{
+		"chi"		"**感谢Mapeadores测试地图 **"
+	}
+	"*** Explosion imminent ***"
+	{
+		"chi"		"**核爆将至 **"
+	}
+	"*** 5 ***"
+	{
+		"chi"		"**5 **"
+	}
+	"*** 4 ***"
+	{
+		"chi"		"**4 **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"**3 **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"**2 **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"**1 **"
+	}
+	"*** Laser off !! Go disable Red Queen !! ***"
+	{
+		"chi"		"**激光已关闭 **"
+	}
+	"*** Helicopters recue incoming ***"
+	{
+		"chi"		"**直升机已到达 **"
+	}
+	"*** Helicopter leave in 10 seconds ***"
+	{
+		"chi"		"**直升机将在10秒后到达 **"
+	}
+	"*** Helicopter leave !! ***"
+	{
+		"chi"		"**直升机已离开 **"
+	}
+	"*** Special thanks for Mapeadores for beta test map ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hive complex will explode in 5 seconds ***"
+	{
+		"chi"		"**蜂巢将在5秒后爆炸**"
 	}
 }

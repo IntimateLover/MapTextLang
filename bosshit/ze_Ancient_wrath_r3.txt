@@ -1,545 +1,332 @@
-"BOSSHP"
+"Console_T"
 {
-	"debrie_physbox_01"
+	"||| WARMUP ROUND |||"
 	{
-		"enable"		"0"
+		"chi"		"**热身回合 **"
 	}
-	"debrie_physbox_05"
+	"||| CHAPTER 1 => RETURN |||"
 	{
-		"enable"		"0"
+		"chi"		"**第1章=>回归 **"
 	}
-	"debrie_physbox_03"
+	"||| HOLD FOR 30 SECONDS |||"
 	{
-		"enable"		"0"
+		"chi"		"**坚持30秒 **"
+		"DoorCountdown"		"30"
 	}
-	"debrie_physbox_02"
+	"||| FALL BACK |||"
 	{
-		"enable"		"0"
+		"chi"		"**撤退 **"
 	}
-	"debrie_physbox_04"
+	"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
 	{
-		"enable"		"0"
+		"chi"		"**同时按两个按钮才能打开门 **"
 	}
-	"debrie_physbox_mini_02"
+	"||| HOLD FOR 20 SECONDS |||"
 	{
-		"enable"		"0"
+		"chi"		"**坚持20秒 **"
+		"DoorCountdown"		"20"
 	}
-	"debrie_physbox_mini_03"
+	"||| ELEVATOR OPENS IN 25 SECONDS |||"
 	{
-		"enable"		"0"
+		"chi"		"**电梯25秒后离开 **"
+		"DoorCountdown"		"25"
 	}
-	"debrie_physbox_mini_05"
+	"||| HOLD FOR 10 SECONDS |||"
 	{
-		"enable"		"0"
+		"chi"		"**坚持10秒 **"
+		"DoorCountdown"		"10"
 	}
-	"debrie_physbox_mini_06"
+	"||| DOOR IS CLOSING |||"
 	{
-		"enable"		"0"
+		"chi"		"**门被关闭 **"
 	}
-	"debrie_physbox_mini_07"
+	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
 	{
-		"enable"		"0"
+		"chi"		"**守住电梯25秒 **"
+		"DoorCountdown"		"25"
 	}
-	"debrie_physbox_mini_09"
+	"||| ZOMBIES TAKE THE STAIRS |||"
 	{
-		"enable"		"0"
+		"chi"		"**僵尸走楼梯 **"
 	}
-	"debrie_physbox_mini_10"
+	"||| RUN BACK OUT THE FACILITY |||"
 	{
-		"enable"		"0"
+		"chi"		"**返回工厂 **"
 	}
-	"debrie_physbox_mini_11"
+	"||| SHOOT THE SECOND DOOR OPEN |||"
 	{
-		"enable"		"0"
+		"chi"		"**射击第二道门 **"
 	}
-	"debrie_physbox_mini_12"
+	"||| ZOMBIE HELICOPTER - WIN DISABLE |||"
 	{
-		"enable"		"0"
+		"chi"		"**僵尸胜利 — 直升机禁用 **"
 	}
-	"debrie_physbox_mini_13"
+	"<Rift gun has been acquired>"
 	{
-		"enable"		"0"
+		"chi"		"**电已被拿起 **"
 	}
-	"debrie_physbox_mini_16"
+	"<Tornado gun has been acquired>"
 	{
-		"enable"		"0"
+		"chi"		"**风已被拿起 **"
 	}
-	"2906225"
+	"<Growth gun has been acquired>"
 	{
-		"enable"		"0"
-		"hammerid"		"2906225"
-		"m_iname"		"CY01Physic"
+		"chi"		"**墙已被拿起 **"
 	}
-	"59251"
+	"<Ammo gun has been acquired>"
 	{
-		"enable"		"0"
-		"hammerid"		"59251"
-		"m_iname"		"Upper_Trap03"
+		"chi"		"**无限子弹已被拿起 **"
 	}
-	"59257"
+	"<Inferno gun has been acquired>"
 	{
-		"enable"		"0"
-		"hammerid"		"59257"
-		"m_iname"		"Upper_Trap_block"
+		"chi"		"**火已被拿起 **"
 	}
-	"59272"
+	"||| CHAPTER 2 => SECURE |||"
 	{
-		"enable"		"0"
-		"hammerid"		"59272"
-		"m_iname"		"Upper_Trap_bridgebreake_01"
+		"chi"		"**第2章=>保密 **"
 	}
-	"59297"
+	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"59297"
-		"m_iname"		"Upper_Trap_crate_move"
+		"chi"		"**传送门和通风管在15秒后激活 **"
+		"DoorCountdown"		"15"
 	}
-	"347447"
+	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"347447"
-		"m_iname"		"boss_3_container"
+		"chi"		"**安全检查站已被禁用 **"
 	}
-	"349869"
+	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
 	{
-		"enable"		"1"
-		"hammerid"		"349869"
-		"m_iname"		"boss_3_exit_break"
+		"chi"		"**第一个安全站已被禁用 **"
 	}
-	"370087"
+	"||| C4 EXPLODE IN 15 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"370087"
-		"m_iname"		"boss_3_energy_1"
+		"chi"		"**C4将在15秒后爆炸（不要贴门）**"
+		"DoorCountdown"		"15"
 	}
-	"370114"
+	"||| C4 EXPLODE IN 5 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"370114"
-		"m_iname"		"boss_3_energy_2"
+		"chi"		"**C4将在5秒后爆炸（不要贴门）**"
+		"DoorCountdown"		"5"
 	}
-	"493720"
+	"||| C4 EXPLODE IN 10 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"493720"
-		"m_iname"		"boss_1_break_brush_5"
+		"chi"		"**C4将在10秒后爆炸（不要贴门）**"
+		"DoorCountdown"		"10"
 	}
-	"495566"
+	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
 	{
-		"enable"		"1"
-		"hammerid"		"495566"
-		"m_iname"		"boss_2_bottom_break"
+		"chi"		"**第二安全站已禁用 **"
 	}
-	"630876"
+	"||| BOTH BUTTONS WERE PRESSED |||"
 	{
-		"enable"		"0"
-		"hammerid"		"630876"
-		"m_iname"		"Upper_Trap_block2"
+		"chi"		"**两个按钮被按下 **"
 	}
-	"632653"
+	"||| BRIDGE EXTEND IN 20 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"632653"
-		"m_iname"		"Upper_Trap2_bridgebreake_01"
+		"chi"		"**桥将在20秒后延伸完毕 **"
+		"DoorCountdown"		"30"
 	}
-	"632785"
+	"||| HOLD FOR 15 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"632785"
-		"m_iname"		"Upper_Trap2_crate_move"
+		"chi"		"**坚持15秒 **"
+		"DoorCountdown"		"15"
 	}
-	"754900"
+	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"754900"
-		"m_iname"		"boss_3_exit_break"
+		"chi"		"**火车将在20秒后离开 **"
+		"DoorCountdown"		"20"
 	}
-	"1135843"
+	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1135843"
-		"m_iname"		"boss_2_door_1_break"
+		"chi"		"**保护下面的火车 **"
 	}
-	"1917991"
+	"||| STAGE 2 FINISHED |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1917991"
-		"m_iname"		"boss_1_zombie_help"
+		"chi"		"**第二关完成 **"
 	}
-	"1919244"
+	"||| CHAPTER 3 => AWAKENING |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1919244"
-		"m_iname"		"boss_1_break_brush_1"
+		"chi"		"**第3章=>觉醒 **"
 	}
-	"1919271"
+	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1919271"
-		"m_iname"		"boss_1_break_brush_3"
+		"chi"		"**电梯25秒后离开 **"
+		"DoorCountdown"		"25"
 	}
-	"1920615"
+	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1920615"
-		"m_iname"		"boss_1_break_brush_4"
+		"chi"		"**电梯5秒后离开 **"
+		"DoorCountdown"		"5"
 	}
-	"1922934"
+	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1922934"
-		"m_iname"		"boss_1_break_brush_2"
+		"chi"		"**电梯10秒后离开 **"
+		"DoorCountdown"		"10"
 	}
-	"1936518"
+	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	{
-		"enable"		"1"
-		"hammerid"		"1936518"
-		"m_iname"		"boss_1_break_brush_6"
+		"chi"		"**射击能量束和防御僵尸 **"
+		"ico"		"icon_fire"
 	}
-	"2746201"
+	"||| SHOOT THE CONTAINER |||"
 	{
-		"enable"		"1"
-		"hammerid"		"2746201"
-		"m_iname"		"boss_1_break_brush_7"
+		"chi"		"**射击容器 **"
+		"ico"		"icon_fire"
 	}
-	"2073012"
+	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"2073012"
-		"m_iname"		"weapon_earth_breakable"
+		"chi"		"**核心将在170秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"1765636"
+	"||| CORE EXPLODES IN 100 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765636"
-		"m_iname"		"debrie_physbox_mini_16"
+		"chi"		"**核心将在100秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"350083"
+	"||| CORE EXPLODES IN 80 SECONDS |||"
 	{
-		"enable"		"1"
+		"chi"		"**核心将在80秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"350084"
+	"||| CORE EXPLODES IN 60 SECONDS |||"
 	{
-		"enable"		"1"
-		"hammerid"		"350084"
-		"m_iname"		"dw_boss"
+		"chi"		"**核心将在60秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"1765177"
+	"||| DOOR OPENS IN 20 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765177"
-		"m_iname"		"debrie_physbox_01"
+		"chi"		"**门20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
-	"1765204"
+	"||| CORE EXPLODES IN 40 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765204"
-		"m_iname"		"debrie_physbox_05"
+		"chi"		"**核心将在40秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"1765212"
+	"||| DOOR IS OPENING |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765212"
-		"m_iname"		"debrie_physbox_03"
+		"chi"		"**门开了 **"
 	}
-	"1765220"
+	"||| CORE EXPLODES IN 20 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765220"
-		"m_iname"		"debrie_physbox_02"
+		"chi"		"**核心将在20秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"1765228"
+	"||| CORE EXPLODES IN 10 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765228"
-		"m_iname"		"debrie_physbox_04"
+		"chi"		"**核心将在10秒后爆炸 **"
+		"ico"		"icon_fire"
 	}
-	"1765386"
+	"||| DOOR IS OPENING|||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765386"
-		"m_iname"		"debrie_physbox_mini_02"
+		"chi"		"**门开了 **"
 	}
-	"1765394"
+	"||| CORE EXPLODES IN 5 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765394"
-		"m_iname"		"debrie_physbox_mini_03"
+		"chi"		"**核心将在5秒后爆炸 **"
 	}
-	"1765410"
+	"||| CORE EXPLODES IN 4 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765410"
-		"m_iname"		"debrie_physbox_mini_05"
+		"chi"		"**核心将在4秒后爆炸 **"
 	}
-	"1765418"
+	"||| CORE EXPLODES IN 3 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765418"
-		"m_iname"		"debrie_physbox_mini_06"
+		"chi"		"**核心将在3秒后爆炸 **"
 	}
-	"1765426"
+	"||| CORE EXPLODES IN 2 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765426"
-		"m_iname"		"debrie_physbox_mini_07"
+		"chi"		"**核心将在2秒后爆炸 **"
 	}
-	"1765449"
+	"||| CORE EXPLODES IN 1 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765449"
-		"m_iname"		"debrie_physbox_mini_09"
+		"chi"		"**核心将在1秒后爆炸 **"
 	}
-	"1765457"
+	"||| HOLD THE BRIDGE |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765457"
-		"m_iname"		"debrie_physbox_mini_10"
+		"chi"		"**守住桥 **"
 	}
-	"1765465"
+	"||| STAGE 3 FINISHED |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765465"
-		"m_iname"		"debrie_physbox_mini_11"
+		"chi"		"**第三关完成 **"
 	}
-	"1765473"
+	"||| CHAPTER 4 => SHOWDOWN |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765473"
-		"m_iname"		"debrie_physbox_mini_12"
+		"chi"		"**第4章=>决胜**"
 	}
-	"1765482"
+	"||| DEFEND THE TOP FOR 30 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"1765482"
-		"m_iname"		"debrie_physbox_mini_13"
+		"chi"		"**防守30秒 **"
+		"DoorCountdown"		"30"
 	}
-	"27537"
+	"||| PREPARE TO FALL BACK |||"
 	{
-		"enable"		"0"
-		"hammerid"		"27537"
-		"m_iname"		"3_floorbreak_stone"
+		"chi"		"**准备后退 **"
 	}
-	"27563"
+	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"27563"
-		"m_iname"		"3_floorbreak_metal"
+		"chi"		"**破坏两个电梯按钮 **"
 	}
-	"31543"
+	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
 	{
-		"enable"		"0"
-		"hammerid"		"31543"
-		"m_iname"		"Elevator1_floor2break"
+		"chi"		"**电梯15秒后离开 **"
+		"DoorCountdown"		"15"
 	}
-	"31597"
+	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
-		"enable"		"0"
-		"hammerid"		"31597"
-		"m_iname"		"Elevator1_bottdoor_left"
+		"chi"		"**！！！警告！！！天花板上有东西掉下来了（快躲避） **"
+		"ico"		"icon_fire"
 	}
-	"42215"
+	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
-		"enable"		"0"
-		"hammerid"		"42215"
-		"m_iname"		"debrie_01"
+		"chi"		"**电力将在25秒内恢复<生存> **"
+		"DoorCountdown"		"25"
 	}
-	"59244"
+	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
 	{
-		"enable"		"0"
-		"hammerid"		"59244"
-		"m_iname"		"Upper_Trap03_bar"
+		"chi"		"**电力恢复...门即将打开 **"
 	}
-	"59262"
+	"||| THE DOORS ARE OPENING |||"
 	{
-		"enable"		"0"
-		"hammerid"		"59262"
-		"m_iname"		"Upper_Trap_floor_breake"
+		"chi"		"**门正在打开 **"
 	}
-	"59294"
+	"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
 	{
-		"enable"		"0"
-		"hammerid"		"59294"
-		"m_iname"		"Upper_Trap_crate1/2"
+		"chi"		"**这种病毒需要待在工厂等待核爆 **"
 	}
-	"156417"
+	"||| YOU FAILED |||"
 	{
-		"enable"		"0"
-		"hammerid"		"156417"
-		"m_iname"		"elevator_breakable"
+		"chi"		"**你失败了 **"
 	}
-	"173802"
+	"||| AIRSTRIKE INCOMING |||"
 	{
-		"enable"		"0"
-		"hammerid"		"173802"
-		"m_iname"		"Egypt_entrance_break"
+		"chi"		"**核爆来袭 **"
 	}
-	"173808"
+	"||| ZOMBIE TRAIN - WIN DISABLE |||"
 	{
-		"enable"		"0"
-		"hammerid"		"173808"
-		"m_iname"		"Egypt_entrance_dynamit"
+		"chi"		"**僵尸胜利 — 火车禁用 **"
 	}
-	"149326"
+	"||| DONT LET THE VIRUS SPREAD |||"
 	{
-		"enable"		"0"
-		"hammerid"		"149326"
-		"m_iname"		"lab_door_breakable"
+		"chi"		"**别让病毒传播出去**"
 	}
-	"136501"
+	"<Stage 4>"
 	{
-		"enable"		"0"
-		"hammerid"		"136501"
-		"m_iname"		"glass_zombiebreak"
+		"chi"		">>>< 第四关 ><<<"
 	}
-	"253208"
+	">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
 	{
-		"enable"		"0"
-		"hammerid"		"253208"
-		"m_iname"		"Spawn_Door_Main_Breakable"
+		"chi"		"** **"
 	}
-	"421476"
+	"||| YOU WIN |||"
 	{
-		"enable"		"0"
-		"hammerid"		"421476"
-		"m_iname"		"Egypt_entrance_pillar_break"
+		"chi"		"**||| 你赢了 |||**"
 	}
-	"444754"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"444754"
-		"m_iname"		"Vent_door_break"
+		"syncvalue"		"78742"
 	}
-	"575306"
+	"*** MAP BY STRUPPI ***"
 	{
-		"enable"		"0"
-		"hammerid"		"575306"
-		"m_iname"		"Cave_breakwall_1"
-	}
-	"576099"
-	{
-		"enable"		"0"
-		"hammerid"		"576099"
-		"m_iname"		"Cave_c4_1"
-	}
-	"576365"
-	{
-		"enable"		"0"
-		"hammerid"		"576365"
-		"m_iname"		"Cave_c4_2"
-	}
-	"576436"
-	{
-		"enable"		"0"
-		"hammerid"		"576436"
-		"m_iname"		"Cave_breakwall_2"
-	}
-	"623700"
-	{
-		"enable"		"0"
-		"hammerid"		"623700"
-		"m_iname"		"Stairs_ladder"
-	}
-	"630601"
-	{
-		"enable"		"0"
-		"hammerid"		"630601"
-		"m_iname"		"secret_breake"
-	}
-	"631394"
-	{
-		"enable"		"0"
-		"hammerid"		"631394"
-		"m_iname"		"Upper_Trap2_floor_breake"
-	}
-	"867185"
-	{
-		"enable"		"0"
-		"hammerid"		"867185"
-		"m_iname"		"Elevator5_vent_break"
-	}
-	"1039889"
-	{
-		"enable"		"0"
-		"hammerid"		"1039889"
-		"m_iname"		"Egypt_entrance_right_break"
-	}
-	"1042066"
-	{
-		"enable"		"0"
-		"hammerid"		"1042066"
-		"m_iname"		"crate_help_1"
-	}
-	"1177574"
-	{
-		"enable"		"0"
-		"hammerid"		"1177574"
-		"m_iname"		"Cargo_break"
-	}
-	"1250588"
-	{
-		"enable"		"0"
-		"hammerid"		"1250588"
-		"m_iname"		"train_grate_break"
-	}
-	"1313383"
-	{
-		"enable"		"0"
-		"hammerid"		"1313383"
-		"m_iname"		"Elevator5_break"
-	}
-	"1459131"
-	{
-		"enable"		"0"
-		"hammerid"		"1459131"
-		"m_iname"		"elevatorButton_break"
-	}
-	"1460437"
-	{
-		"enable"		"0"
-		"hammerid"		"1460437"
-		"m_iname"		"elevatorButton2_break"
-	}
-	"1618735"
-	{
-		"enable"		"0"
-		"hammerid"		"1618735"
-		"m_iname"		"train_break_2"
-	}
-	"1618747"
-	{
-		"enable"		"0"
-		"hammerid"		"1618747"
-		"m_iname"		"train_break_1"
-	}
-	"1632235"
-	{
-		"enable"		"0"
-		"hammerid"		"1632235"
-		"m_iname"		"Bridge_tunnel_break_2"
-	}
-	"58777"
-	{
-		"enable"		"0"
-		"hammerid"		"58777"
-		"m_iname"		"elevatorCollision"
-	}
-	"350073"
-	{
-		"enable"		"0"
-		"hammerid"		"350073"
-		"m_iname"		"CY01Physic"
-	}
-	"399934"
-	{
-		"enable"		"0"
-		"hammerid"		"399934"
-		"m_iname"		"Elevator2Collision"
-	}
-	"399942"
-	{
-		"enable"		"0"
-		"hammerid"		"399942"
-		"m_iname"		"Elevator3Collision"
+		"chi"		"** **"
 	}
 }

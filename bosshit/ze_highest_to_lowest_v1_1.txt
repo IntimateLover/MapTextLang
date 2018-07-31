@@ -1,39 +1,63 @@
-"BOSSHP"
+"Console_T"
 {
-	"5987"
+	"*** map created by thas ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5987"
-		"m_iname"		"break_1"
+		"chi"		"** **"
 	}
-	"6000"
+	"*** You are in the highest building ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6000"
-		"m_iname"		"break_2"
+		"chi"		"**你正位于这座城市最高大楼的屋顶**"
 	}
-	"6021"
+	"*** Try to go to lowest building ! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6021"
-		"m_iname"		"break_3"
+		"chi"		"**尝试到最低的大楼去**"
 	}
-	"6039"
+	"*** ze_highest_to_lowest ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6039"
-		"m_iname"		"break_4"
+		"chi"		"** **"
 	}
-	"6066"
+	"*** Defend for 15 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6066"
-		"m_iname"		"break_5"
+		"chi"		"**守住15秒**"
 	}
-	"6087"
+	"*** Remaining buildings : 6 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"6087"
-		"m_iname"		"break_6"
+		"chi"		"** **"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"*** Remaining buildings : 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Remaining buildings : 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Remaining buildings : 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend for 35 seconds ***"
+	{
+		"chi"		"**守住35秒**"
+	}
+	"*** Remaining buildings : 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Remaining buildings : 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Final Defend ! Defend for 45 seconds ! ***"
+	{
+		"chi"		"**我们已到达最后的守点，防守45秒**"
+	}
+	"*** Humans Win ! ***"
+	{
+		"chi"		"**人类胜利**"
 	}
 }

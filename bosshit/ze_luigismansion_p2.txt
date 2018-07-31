@@ -1,159 +1,93 @@
-"BOSSHP"
+"Console_T"
 {
-	"luigihang"
+	"*** Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ***"
 	{
-		"enable"		"0"
+		"chi"		"** **"
 	}
-	"zombie forest blockA"
+	"*** Hold Off Zombies for 20 seconds ***"
 	{
-		"enable"		"0"
+		"chi"		"**防守僵尸20秒**"
+		"DoorCountdown"		"20"
 	}
-	"zombie forest block"
+	"*** Gate Open!!! ***"
 	{
-		"enable"		"0"
+		"chi"		"**大门开了!!!**"
 	}
-	"95913"
+	"*** All those still in the dark forest will be banished to the pit in 30 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"95913"
-		"m_iname"		"luigihang"
+		"chi"		"**所有在黑暗森林的单位将在30秒后传放逐到地穴**"
 	}
-	"13366"
+	"*** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13366"
-		"m_iname"		"zombie forest blockA"
+		"chi"		"**找到4个隐藏的安全区直到通往塔的道路开启**"
 	}
-	"16145"
+	"*** Safe zone exits will open in 60 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"16145"
-		"m_iname"		"zombie forest block"
+		"chi"		"**安全区通往塔的道路将在60秒后开启**"
+		"DoorCountdown"		"60"
 	}
-	"12530"
+	"*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"12530"
-		"m_iname"		"middlecap"
+		"chi"		"**所有在大厅的单位将在30秒后传放逐到地穴**"
 	}
-	"13155"
+	"*** Destroy the Rouge Luma ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13155"
-		"m_iname"		"breakable_tower"
+		"chi"		"**破坏Rouge Luma(头顶上的星星)**"
 	}
-	"13285"
+	"*** Star Door will open in 35 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13285"
-		"m_iname"		"doorgate"
+		"chi"		"**大门将在35秒后开启**"
 	}
-	"13314"
+	"*** The Haunted Dimension has become unstable ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13314"
-		"m_iname"		"safezonecembreakramps"
+		"chi"		"**鬼屋的结构开始不稳定了**"
 	}
-	"13322"
+	"*** We must escape the mansion before it take us with it! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13322"
-		"m_iname"		"safezonecembreakramps"
+		"chi"		"**我们必须在它警觉之前逃离这个鬼屋**"
 	}
-	"13330"
+	"*** All those in the tower will be banished to the pit in 15 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13330"
-		"m_iname"		"breakramp1"
+		"chi"		"**所有在高塔的单位将在15秒后传放逐到地穴**"
 	}
-	"13358"
+	"*** All those still in the courtyard will be banished to the pit in 30 seconds! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13358"
-		"m_iname"		"cem_shgate"
+		"chi"		"**所有在庭院的单位将在15秒后传放逐到地穴**"
 	}
-	"13392"
+	"*** Bowser has ambushed and cut you all off from the exit! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13392"
-		"m_iname"		"mazebars"
+		"chi"		"**库巴伏击了你们而且断了你们所有的退路**"
 	}
-	"13472"
+	"*** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13472"
-		"m_iname"		"cem_shgate"
+		"chi"		"**守住这个地方等待路易吉来营救你们**"
 	}
-	"13480"
+	"*** Beware of Bowsers Fire Breath! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13480"
-		"m_iname"		"cem_shgate"
+		"chi"		"**库巴吐出了火焰!**"
 	}
-	"13685"
+	"*** Luigi has arrived ***"
 	{
-		"enable"		"0"
-		"hammerid"		"13685"
-		"m_iname"		"tower_stardoor"
+		"chi"		"**路易吉到达**"
 	}
-	"14228"
+	"*** Luigi will now help by lowering the bridge ***"
 	{
-		"enable"		"0"
-		"hammerid"		"14228"
-		"m_iname"		"breakable_bridge"
+		"chi"		"**路易吉现在帮你们把桥降下**"
 	}
-	"14332"
+	"*** Luigi has done it!! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"14332"
-		"m_iname"		"final_first bridgeblock"
+		"chi"		"**路易吉已经把桥降下了!!**"
 	}
-	"14972"
+	"*** Get across the bridge before it breaks! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"14972"
-		"m_iname"		"cem_shgate"
+		"chi"		"**在桥坏之前离开这里!!**"
 	}
-	"15899"
+	"*** GET OUT NOW ***"
 	{
-		"enable"		"0"
-		"hammerid"		"15899"
-		"m_iname"		"barsblocking_pitteleport_toarea"
+		"chi"		"**快离开这个鬼地方!!!!!**"
 	}
-	"15907"
+	"The server is about to close the update ,Please update your game"
 	{
-		"enable"		"0"
-		"hammerid"		"15907"
-		"m_iname"		"barsblocking_pitteleport_toarea"
-	}
-	"15915"
-	{
-		"enable"		"0"
-		"hammerid"		"15915"
-		"m_iname"		"barsblocking_pitteleport_toarea"
-	}
-	"15923"
-	{
-		"enable"		"0"
-		"hammerid"		"15923"
-		"m_iname"		"barsblocking_pitteleport_toarea"
-	}
-	"16050"
-	{
-		"enable"		"0"
-		"hammerid"		"16050"
-		"m_iname"		"doorgate"
-	}
-	"16093"
-	{
-		"enable"		"0"
-		"hammerid"		"16093"
-		"m_iname"		"exitbars"
-	}
-	"16193"
-	{
-		"enable"		"0"
-		"hammerid"		"16193"
-		"m_iname"		"cem_shgate"
+		"chi"		"** **"
 	}
 }

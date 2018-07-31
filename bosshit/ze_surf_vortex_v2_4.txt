@@ -1,195 +1,169 @@
-"BOSSHP"
+"Console_T"
 {
-	"174038"
+	"***READY TO RUN***"
 	{
-		"enable"		"0"
-		"hammerid"		"174038"
-		"m_iname"		"secret_break"
+		"chi"		"**准备跑了 **"
 	}
-	"157616"
+	"***Map by Reflelia***"
 	{
-		"enable"		"0"
-		"hammerid"		"157616"
-		"m_iname"		"ex_kill"
+		"chi"		"**地图制作：Reflelia **"
 	}
-	"140460"
+	"***Teleport activates in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"140460"
-		"m_iname"		"ladderwall"
+		"chi"		"**传送将在20秒后启动**"
 	}
-	"140475"
+	"***3***"
 	{
-		"enable"		"0"
-		"hammerid"		"140475"
-		"m_iname"		"ladderwall"
+		"chi"		"** **"
 	}
-	"125483"
+	"***2***"
 	{
-		"enable"		"0"
-		"hammerid"		"125483"
-		"m_iname"		"secret_p1"
+		"chi"		"** **"
 	}
-	"124743"
+	"***1***"
 	{
-		"enable"		"0"
-		"hammerid"		"124743"
-		"m_iname"		"melonwall"
+		"chi"		"** **"
 	}
-	"107900"
+	"***RUN***"
 	{
-		"enable"		"0"
-		"hammerid"		"107900"
-		"m_iname"		"asdfss"
+		"chi"		"**跑 **"
 	}
-	"65692"
+	"***Resist for 60 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"65692"
-		"m_iname"		"itembox"
+		"chi"		"**守住60秒**"
+		"DoorCountDown"		"60"
 	}
-	"50927"
+	"***Zombies are coming!!***"
 	{
-		"enable"		"0"
-		"hammerid"		"50927"
-		"m_iname"		"zombie_es"
+		"chi"		"**僵尸来了**"
 	}
-	"47427"
+	"***Teleporting all humans...***"
 	{
-		"enable"		"0"
-		"hammerid"		"47427"
-		"m_iname"		"finalglass"
+		"chi"		"**传送所有人类**"
 	}
-	"47457"
+	"***Teleporting all zombies...***"
 	{
-		"enable"		"0"
-		"hammerid"		"47457"
-		"m_iname"		"f.w1"
+		"chi"		"**传送所有僵尸**"
 	}
-	"35628"
+	"***Gravity picked up***"
 	{
-		"enable"		"0"
-		"hammerid"		"35628"
-		"m_iname"		"z_glass"
+		"chi"		"**黑洞已拿起**"
 	}
-	"27236"
+	"***10 seconds left***"
 	{
-		"enable"		"0"
-		"hammerid"		"27236"
-		"m_iname"		"stage6cage11"
+		"chi"		"**还剩10秒 **"
 	}
-	"27297"
+	"***Resist 60 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"27297"
-		"m_iname"		"stage5ca"
+		"chi"		"**守住60秒**"
+		"DoorCountDown"		"60"
 	}
-	"10308"
+	"***Zombies are coming!***"
 	{
-		"enable"		"0"
-		"hammerid"		"10308"
-		"m_iname"		"cage3"
+		"chi"		"**僵尸来了**"
 	}
-	"7550"
+	"***Gravity Used***"
 	{
-		"enable"		"0"
-		"hammerid"		"7550"
-		"m_iname"		"cage3"
+		"chi"		"**黑洞使用了**"
 	}
-	"4784"
+	"***Resist 45 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"4784"
-		"m_iname"		"cage1"
+		"chi"		"**守住45秒**"
+		"DoorCountDown"		"45"
 	}
-	"4819"
+	"***shorcut open***"
 	{
-		"enable"		"0"
-		"hammerid"		"4819"
-		"m_iname"		"cage2"
+		"chi"		"**捷径开了**"
 	}
-	"11592"
+	"***Low Health picked up***"
 	{
-		"enable"		"0"
-		"hammerid"		"11592"
-		"m_iname"		"zombie_es"
+		"chi"		"**低血量被拿起**"
 	}
-	"11604"
+	"***Teleport error***"
 	{
-		"enable"		"0"
-		"hammerid"		"11604"
-		"m_iname"		"finalglass"
+		"chi"		"**传送错误**"
 	}
-	"11607"
+	"***Zombies are coming in 15 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"11607"
-		"m_iname"		"f.w1"
+		"chi"		"**僵尸15秒后到来**"
 	}
-	"9551"
+	"***Try to find button***"
 	{
-		"enable"		"0"
-		"hammerid"		"9551"
-		"m_iname"		"z_glass"
+		"chi"		"**尝试找到按钮**"
 	}
-	"794"
+	"***Teleport error fixed in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"794"
-		"m_iname"		"cage1"
+		"chi"		"**传送错误.30秒后修复**"
+		"DoorCountDown"		"30"
 	}
-	"2324"
+	"***Try to find second button***"
 	{
-		"enable"		"0"
-		"hammerid"		"2324"
-		"m_iname"		"ladderwall"
+		"chi"		"**尝试找到按钮**"
 	}
-	"2327"
+	"***Low Health Used***"
 	{
-		"enable"		"0"
-		"hammerid"		"2327"
-		"m_iname"		"ladderwall"
+		"chi"		"**低血量使用了**"
 	}
-	"2418"
+	"***ZOMBIES ARE COMING***"
 	{
-		"enable"		"0"
-		"hammerid"		"2418"
-		"m_iname"		"asdfss"
+		"chi"		"**僵尸来了**"
 	}
-	"2428"
+	"***Second teleport fixed in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"2428"
-		"m_iname"		"itembox"
+		"chi"		"**传送30秒后启动 **"
+		"DoorCountDown"		"30"
 	}
-	"6005"
+	"***5 seconds left, prepare yourself***"
 	{
-		"enable"		"0"
-		"hammerid"		"6005"
-		"m_iname"		"cage3"
+		"chi"		"**还剩5秒,准备了 **"
 	}
-	"7413"
+	"***Watch out!***"
 	{
-		"enable"		"0"
-		"hammerid"		"7413"
-		"m_iname"		"stage5ca"
+		"chi"		"**当心！ **"
 	}
-	"7783"
+	"***Resist for 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"7783"
-		"m_iname"		"ex_kill"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"7798"
+	"***5 seconds left***"
 	{
-		"enable"		"0"
-		"hammerid"		"7798"
-		"m_iname"		"melonwall"
+		"chi"		"**还剩5秒 **"
 	}
-	"8172"
+	"***Ready for final surf***"
 	{
-		"enable"		"0"
-		"hammerid"		"8172"
-		"m_iname"		"secret_p1"
+		"chi"		"**准备最后的滑翔 **"
+	}
+	"***Watermelon***"
+	{
+		"chi"		"**西瓜 **"
+	}
+	"***Detonation in 3 seconds***"
+	{
+		"chi"		"**3秒后爆炸 **"
+	}
+	"***No Secret Chance***"
+	{
+		"chi"		"** **"
+	}
+	"***Timed Out***"
+	{
+		"chi"		"**超时了 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"11993"
+	}
+	"***Find Another Button***"
+	{
+		"chi"		"** **"
+	}
+	"***5 second left***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

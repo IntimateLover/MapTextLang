@@ -1,45 +1,95 @@
-"BOSSHP"
+"Console_T"
 {
-	"565"
+	"** Welcome to ze_Alien Shooter_v7 **"
 	{
-		"enable"		"1"
-		"hammerid"		"565"
-		"m_iname"		"breakboss_lvl1_zm"
+		"chi"		"** **"
 	}
-	"612"
+	"** Map made DarkRoad **"
 	{
-		"enable"		"0"
-		"hammerid"		"612"
-		"m_iname"		"breakable2"
+		"chi"		"** **"
 	}
-	"27119"
+	"** Special thanks:Moltard & Nostar & Microsoft Edge **"
 	{
-		"enable"		"0"
-		"hammerid"		"27119"
-		"m_iname"		"alien_fence1"
+		"chi"		"** **"
 	}
-	"61114"
+	"** Thanks for the test map: Shiz0 & BalG & Pivovaric & GaGaGa & Yuudachi & Bandit**"
 	{
-		"enable"		"0"
-		"hammerid"		"61114"
-		"m_iname"		"breakable1"
+		"chi"		"** **"
 	}
-	"923"
+	"** Ported by isa **"
 	{
-		"enable"		"1"
-		"hammerid"		"923"
-		"m_iname"		"Noctali_Boss_Break"
+		"chi"		"** **"
 	}
-	"955"
+	"***c4 will explode in 25 seconds***"
 	{
-		"enable"		"1"
-		"hammerid"		"955"
-		"m_iname"		"Noctali_Boss_Physbox"
+		"chi"		"** **"
 	}
-	"756"
+	"The door opens after 45 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"756"
-		"m_iname"		"physbox"
+		"chi"		"** **"
+	}
+	">>>[3]<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>[2]<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>[1]<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The door opens in 35 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The door opens in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door is open<<<"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"chi"		"** **"
+	}
+	">>>The boss died!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The door opens in 20 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The teleporter is activated after 20 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Teleport works!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The helicopter flies to you! hold on!!!<<<"
+	{
+		"chi"		"** **"
+	}
+	"Thank you for playing!"
+	{
+		"chi"		"** **"
+	}
+	">>>Map made : DarkRoad<<<"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"22731"
 	}
 }

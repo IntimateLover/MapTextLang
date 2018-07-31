@@ -1,99 +1,60 @@
-"BOSSHP"
+"Console_T"
 {
-	"14767"
+	"*** USE CONTROL PANEL TO STOP FANS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"14767"
-		"m_iname"		"wait_1_box_stop"
+		"chi"		"**使用控制面板停止风扇!**"
 	}
-	"14796"
+	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"14796"
-		"m_iname"		"wait_3_box_stop"
+		"chi"		"**警告：小心被卷入风扇！！！风扇将会每隔一段时间自动停止然后在次启动，注意把握时机。**"
 	}
-	"15105"
+	"*** WAIT FOR DOOR TO OPEN ***"
 	{
-		"enable"		"0"
-		"hammerid"		"15105"
-		"m_iname"		"wait_3_wall"
+		"chi"		"**等待门开启！  在这之前先防御僵尸直至关门！**"
 	}
-	"15224"
+	"*** SMALL DOORS CLOSING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"15224"
-		"m_iname"		"ladder_break"
+		"chi"		"**小门正在关闭！**"
 	}
-	"15244"
+	"*** USE THE FAN TO PUSH YOU UP ***"
 	{
-		"enable"		"0"
-		"hammerid"		"15244"
-		"m_iname"		"rock_beam"
+		"chi"		"**利用风扇的推力将你自己送到上面的平台去！**"
 	}
-	"15629"
+	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"15629"
-		"m_iname"		"water_door_pro"
+		"chi"		"**警告：铁轨和水中都充满了高压电！**"
 	}
-	"16838"
+	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"16838"
-		"m_iname"		"nuke_roof_break"
+		"chi"		"**卡车的燃料正在准备！请等待 60 秒！**"
+                                "DoorCountdown"                "60"
 	}
-	"16916"
+	"*** DOORS CLOSING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"16916"
-		"m_iname"		"water_pit_break"
+		"chi"		"**闸门正在关闭！！**"
 	}
-	"17014"
+	"*** DOOR MALFUNCTION ***"
 	{
-		"enable"		"0"
-		"hammerid"		"17014"
-		"m_iname"		"water_pit_break_decoy"
+		"chi"		"**闸门发生了故障！！**"
 	}
-	"17022"
+	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"17022"
-		"m_iname"		"water_pit_break_decoy_2"
+		"chi"		"**卡车出发！！**"
 	}
-	"18017"
+	"*** USE RADIO TO LAUNCH NUKE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"18017"
-		"m_iname"		"truck_1_box_1"
+		"chi"		"**使用无线电发射核弹**"
 	}
-	"18025"
+	"*** NUKE IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"18025"
-		"m_iname"		"truck_1_box_2"
+		"chi"		"**核弹将在 5 秒后爆炸！**"
 	}
-	"18033"
+	"***Map Ported By Et3rnity***"
 	{
-		"enable"		"0"
-		"hammerid"		"18033"
-		"m_iname"		"truck_1_box_3"
+		"chi"		"**地图移植 by Et3rnity  地图翻译 by 色狼领袖**"
 	}
-	"18041"
+	"*** MAP BY JB_GAMBLE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"18041"
-		"m_iname"		"truck_2_box_2"
-	}
-	"18049"
-	{
-		"enable"		"0"
-		"hammerid"		"18049"
-		"m_iname"		"truck_2_box_1"
-	}
-	"18057"
-	{
-		"enable"		"0"
-		"hammerid"		"18057"
-		"m_iname"		"truck_2_box_3"
+		"chi"		"**地图制作 by JB_GAMBLE 地图翻译 by 色狼领袖**"
 	}
 }

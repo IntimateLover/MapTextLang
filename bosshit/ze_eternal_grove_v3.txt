@@ -1,147 +1,167 @@
-"BOSSHP"
+"Console_T"
 {
-	"257491"
+	"***GROVE ENTRANCE OPENING IN 50 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"257491"
-		"m_iname"		"trap_roller"
+		"chi"		"**树林入口将在50秒后开启**"
 	}
-	"258046"
+	"***GROVE ENTRANCE OPENING IN 20 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"258046"
-		"m_iname"		"trap_break"
+		"chi"		"**树林入口将在20秒后开启**"
 	}
-	"128399"
+	"***GROVE ENTRANCE OPENING IN 5 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128399"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**树林入口将在5秒后开启**"
 	}
-	"128405"
+	"***GROVE ENTRANCE IS OPENING***"
 	{
-		"enable"		"0"
-		"hammerid"		"128405"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**树林入口已开启**"
 	}
-	"128411"
+	"***WOODEN DOOR WILL OPEN IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128411"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**木门将在30秒后开启**"
 	}
-	"128564"
+	"***WOODEN DOOR WILL OPEN IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128564"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**木门将在10秒后开启**"
 	}
-	"128570"
+	"***WOODEN DOOR IS OPENING***"
 	{
-		"enable"		"0"
-		"hammerid"		"128570"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**木门已打开**"
 	}
-	"128576"
+	"***WOODEN DOOR WILL OPEN IN 40 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128576"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**木门将在40秒后开启**"
 	}
-	"128686"
+	"***TOWER LIFT IS LEAVING***"
 	{
-		"enable"		"0"
-		"hammerid"		"128686"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**电梯已启动**"
 	}
-	"128692"
+	"***TOWER LIFT LEAVING IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128692"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**塔旁的电梯将在30秒后启动**"
 	}
-	"128698"
+	"***WOODEN VINES WILL BREAK IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128698"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**藤蔓将在30秒后消失**"
 	}
-	"128706"
+	"***TEMPLE ENTRANCE OPENING IN 60 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128706"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**神庙入口将在60秒后打开**"
 	}
-	"128712"
+	"***TEMPLE ENTRANCE OPENING IN 30 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128712"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**神庙入口将在30秒后打开**"
 	}
-	"128718"
+	"***TEMPLE ENTRANCE OPENING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"128718"
-		"m_iname"		"boss_pillarbreak"
+		"chi"		"**神庙入口将在10秒后打开**"
 	}
-	"130945"
+	"***TEMPLE ENTRANCE IS OPENING***"
 	{
-		"enable"		"0"
-		"hammerid"		"130945"
-		"m_iname"		"doorbreak3x"
+		"chi"		"**神庙入口大门打开了**"
 	}
-	"49584"
+	"***Door opening in 30 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"49584"
-		"m_iname"		"start_break"
+		"chi"		"**离门开启还有30秒**"
 	}
-	"92666"
+	"***WOODEN DOOR WILL OPEN IN 60 SECONDS***"
 	{
-		"enable"		"1"
-		"hammerid"		"92666"
-		"m_iname"		"doorbreak3"
+		"chi"		"**木门将会在60秒后打开**"
 	}
-	"14891"
+	"***WATCH OUT FOR THE TRAPS***"
 	{
-		"enable"		"0"
-		"hammerid"		"14891"
-		"m_iname"		"i_stonefall_phys&6430"
+		"chi"		"**********小心陷阱！！！！！！！***********"
 	}
-	"19032"
+	"***TOWER LIFT LEAVING IN 50 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"19032"
-		"m_iname"		"i_stonefall_breakable&6430"
+		"chi"		"**塔旁的电梯将在50秒后启动**"
 	}
-	"28947"
+	"***WOODEN VINES WILL BREAK IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"28947"
-		"m_iname"		"i_templeguardian_hp&6097"
+		"chi"		"**藤蔓将在10秒后消失**"
 	}
-	"27135"
+	"***WOODEN VINES ARE BROKEN***"
 	{
-		"enable"		"0"
-		"hammerid"		"27135"
-		"m_iname"		"i_templeguardian_base&6097"
+		"chi"		"**藤蔓已清除**"
 	}
-	"154084"
+	"***DOOR OPENING IN 10 SECONDS***"
 	{
-		"enable"		"0"
-		"hammerid"		"154084"
-		"m_iname"		"i_minotaurgod_nadehp"
+		"chi"		"**离门开启还有10秒**"
 	}
-	"30343"
+	"***DOOR IS OPEN***"
 	{
-		"enable"		"1"
-		"hammerid"		"30343"
-		"m_iname"		"i_minotaurgod_hp"
+		"chi"		"**门打开了**"
 	}
-	"33857"
+	"***Door opening in 20 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"33857"
-		"m_iname"		"i_minotaurgod_base"
+		"chi"		"**离门开启还有20秒**"
+	}
+	"***DOOR OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**离门开启还有5秒**"
+	}
+	"***DOOR OPENING IN 40 SECONDS***"
+	{
+		"chi"		"**离门开启还有40秒**"
+	}
+	"***TOWER LIFT LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"**塔旁的电梯将在10秒后启动**"
+	}
+	"***TOWER LIFT LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**塔旁的电梯将在5秒后启动**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"75634"
+	}
+	"***GROVE ENTRANCE OPENING IN 40 SECONDS***"
+	{
+		"chi"		"**树林入口40秒后开启**"
+	}
+	"***WARMUP - 60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP MODE DISABLED FOR NEXT ROUND***"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP - 30 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP - 10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***TEMPLE ENTRANCE OPENING IN 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WOODEN DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WOODEN DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TOWER LIFT LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS MUST GO AND SLAY THE REMAINING ZOMBIES***"
+	{
+		"chi"		"** **"
+	}
+	"***STAYING BEHIND WILL RESULT IN DEATH***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS BEHIND WILL NOW DIE***"
+	{
+		"chi"		"** **"
 	}
 }

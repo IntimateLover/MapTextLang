@@ -1,21 +1,88 @@
-"BOSSHP"
+"Console_T"
 {
-	"4939"
+	"*** stage 1 fail nade ***"
 	{
-		"enable"		"0"
-		"hammerid"		"4939"
-		"m_iname"		"brk_1"
+		"chi"		"** **"
 	}
-	"4958"
+	"*** 50 seconds open heos ***"
 	{
-		"enable"		"0"
-		"hammerid"		"4958"
-		"m_iname"		"brk_2"
+		"chi"		"** **"
 	}
-	"5331"
+	"*** 30 seconds left ***"
 	{
-		"enable"		"0"
-		"hammerid"		"5331"
-		"m_iname"		"sex"
+		"chi"		"** **"
+		"DoorCountDown"		"30"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** heos opend ***"
+	{
+		"chi"		"** **"
+	}
+	"*** stage 2 maze ***"
+	{
+		"chi"		"** **"
+	}
+	"*** stage 3 jump ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 60 seconds left open heos ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds left open heos ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 secons left open heos ***"
+	{
+		"chi"		"** **"
+	}
+	"*** heos opened ***"
+	{
+		"chi"		"** **"
+	}
+	"*** stage 4 heos ride ***"
+	{
+		"chi"		"** **"
+	}
+	"*** heos moved in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** side heos break in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** final stage heosdem ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 120 seconds left open heos ***"
+	{
+		"chi"		"** **"
+	}
+	"*** side heos broke ****"
+	{
+		"chi"		"** **"
+	}
+	"*** 60 secons left open heos ***"
+	{
+		"chi"		"** **"
+	}
+	"*** last heos open! it closed in 2 seconds!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GG ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map by DJ_tusla ty for playing ***"
+	{
+		"chi"		"** **"
 	}
 }

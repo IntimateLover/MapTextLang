@@ -1,243 +1,248 @@
-"BOSSHP"
+"Console_T"
 {
-	"254343"
+	"*** ze_negative_legacy ***"
 	{
-		"enable"		"1"
-		"hammerid"		"254343"
-		"m_iname"		"boss_tele_break"
+		"chi"		"** **"
 	}
-	"273547"
+	"*** New Data Loading... ***"
 	{
-		"enable"		"0"
-		"hammerid"		"273547"
-		"m_iname"		"ladder_1_1"
+		"chi"		"** **"
 	}
-	"273585"
+	"*** ... ***"
 	{
-		"enable"		"0"
-		"hammerid"		"273585"
-		"m_iname"		"wall_1"
+		"chi"		"** **"
 	}
-	"241925"
+	"*** .. ***"
 	{
-		"enable"		"0"
-		"hammerid"		"241925"
-		"m_iname"		"rock_wall"
+		"chi"		"** **"
 	}
-	"233471"
+	"*** . ***"
 	{
-		"enable"		"0"
-		"hammerid"		"233471"
-		"m_iname"		"door_10"
+		"chi"		"** **"
 	}
-	"233928"
+	"*** Loading Complete !!! STAGE 1***"
 	{
-		"enable"		"0"
-		"hammerid"		"233928"
-		"m_iname"		"aoe_2"
+		"chi"		"**加载完成！！！阶段一**"
 	}
-	"126466"
+	"*** Map made by Altima***"
 	{
-		"enable"		"0"
-		"hammerid"		"126466"
-		"m_iname"		"c4_con"
+		"chi"		"** **"
 	}
-	"128860"
+	"***10 seconds to Open Door***"
 	{
-		"enable"		"0"
-		"hammerid"		"128860"
-		"m_iname"		"fence_1"
+		"chi"		"** **"
 	}
-	"118304"
+	"***30 seconds to extinguishment***"
 	{
-		"enable"		"0"
-		"hammerid"		"118304"
-		"m_iname"		"train_break"
+		"chi"		"** **"
 	}
-	"50609"
+	"***5 seconds***"
 	{
-		"enable"		"0"
-		"hammerid"		"50609"
-		"m_iname"		"zombie_room_wall_1"
+		"chi"		"** **"
 	}
-	"50730"
+	"***15 seconds to Close Door***"
 	{
-		"enable"		"0"
-		"hammerid"		"50730"
-		"m_iname"		"glass_1"
+		"chi"		"** **"
 	}
-	"50776"
+	"***ERROR Security System Activate***"
 	{
-		"enable"		"0"
-		"hammerid"		"50776"
-		"m_iname"		"glass_2"
+		"chi"		"** **"
 	}
-	"50822"
+	"***Unlock Securty Systems***"
 	{
-		"enable"		"0"
-		"hammerid"		"50822"
-		"m_iname"		"glass_3"
+		"chi"		"** **"
 	}
-	"50868"
+	"*** button 5 Unlocked***"
 	{
-		"enable"		"0"
-		"hammerid"		"50868"
-		"m_iname"		"glass_4"
+		"chi"		"** **"
 	}
-	"51101"
+	"*** button 1 Unlocked***"
 	{
-		"enable"		"0"
-		"hammerid"		"51101"
-		"m_iname"		"glass_5"
+		"chi"		"** **"
 	}
-	"26674"
+	"*** button 2 Unlocked***"
 	{
-		"enable"		"0"
-		"hammerid"		"26674"
-		"m_iname"		"door_2"
+		"chi"		"** **"
 	}
-	"233910"
+	"*** button 3 Unlocked***"
 	{
-		"enable"		"0"
-		"hammerid"		"233910"
-		"m_iname"		"aoe_1"
+		"chi"		"** **"
 	}
-	"245432"
+	"*** button 4 Unlocked***"
 	{
-		"enable"		"1"
-		"hammerid"		"245432"
-		"m_iname"		"boss_glass_4"
+		"chi"		"** **"
 	}
-	"245409"
+	"***All Securty System Unlocked***"
 	{
-		"enable"		"1"
-		"hammerid"		"245409"
-		"m_iname"		"boss_glass_3"
+		"chi"		"** **"
 	}
-	"245373"
+	"*** 20 seconds to Open Door ***"
 	{
-		"enable"		"1"
-		"hammerid"		"245373"
-		"m_iname"		"boss_glass_2"
+		"chi"		"** **"
 	}
-	"245353"
+	"*** 10 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"245353"
-		"m_iname"		"boss_glass_1"
+		"chi"		"** **"
 	}
-	"112857"
+	"*** 15 seconds to Explosion Bomb ***"
 	{
-		"enable"		"1"
-		"hammerid"		"112857"
-		"m_iname"		"water_boss_1"
+		"chi"		"** **"
 	}
-	"112999"
+	"*** 5 SECONDS ***"
 	{
-		"enable"		"1"
-		"hammerid"		"112999"
-		"m_iname"		"water_boss_1_break"
+		"chi"		"** **"
 	}
-	"114037"
+	"*** 20 seconds to Door Open ***"
 	{
-		"enable"		"0"
-		"hammerid"		"114037"
-		"m_iname"		"spike1"
+		"chi"		"** **"
 	}
-	"114052"
+	"*** 30 seconds to Activate Lift ***"
 	{
-		"enable"		"0"
-		"hammerid"		"114052"
-		"m_iname"		"spike1"
+		"chi"		"** **"
 	}
-	"113017"
+	"*** Elevator Teleport ON ***"
 	{
-		"enable"		"0"
-		"hammerid"		"113017"
-		"m_iname"		"spike1"
+		"chi"		"** **"
 	}
-	"113031"
+	"*** 35 seconds to Open Door ***"
 	{
-		"enable"		"0"
-		"hammerid"		"113031"
-		"m_iname"		"spike1"
+		"chi"		"** **"
 	}
-	"113049"
+	"***20 seconds to Activate machine***"
 	{
-		"enable"		"0"
-		"hammerid"		"113049"
-		"m_iname"		"spike1"
+		"chi"		"** **"
 	}
-	"113064"
+	"*** Negative Legacy Activate button[12] ***"
 	{
-		"enable"		"0"
-		"hammerid"		"113064"
-		"m_iname"		"spike1"
+		"chi"		"** **"
 	}
-	"247675"
+	"*** 30 seconds to Nuke ***"
 	{
-		"enable"		"1"
-		"hammerid"		"247675"
-		"m_iname"		"water_boss_2_break"
+		"chi"		"** **"
 	}
-	"254608"
+	"*** Save Data Loading... ***"
 	{
-		"enable"		"1"
-		"hammerid"		"254608"
-		"m_iname"		"water_boss_3_break"
+		"chi"		"** **"
 	}
-	"92891"
+	"*** Loading Complete !!! STAGE 2***"
 	{
-		"enable"		"1"
-		"hammerid"		"92891"
-		"m_iname"		"heavy_1_hitbox"
+		"chi"		"** **"
 	}
-	"92894"
+	"*** 10 seconds to Main Door Open ***"
 	{
-		"enable"		"1"
-		"hammerid"		"92894"
-		"m_iname"		"heavy_2_hitbox"
+		"chi"		"** **"
 	}
-	"92664"
+	"*** 20 seconds to Activate Elevator ***"
 	{
-		"enable"		"1"
-		"hammerid"		"92664"
-		"m_iname"		"agony_hitbox_a&6058"
+		"chi"		"** **"
 	}
-	"93056"
+	"*** 20 seconds to box break ***"
 	{
-		"enable"		"0"
-		"hammerid"		"93056"
-		"m_iname"		"train_break"
+		"chi"		"** **"
 	}
-	"98322"
+	"*** 20 seconds to  Open Door ***"
 	{
-		"enable"		"0"
-		"hammerid"		"98322"
-		"m_iname"		"time_up_break"
+		"chi"		"** **"
 	}
-	"76574"
+	"*** 30 seconds to Open Door ***"
 	{
-		"enable"		"0"
-		"hammerid"		"76574"
-		"m_iname"		"break_1"
+		"chi"		"** **"
 	}
-	"76591"
+	"*** 5seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"76591"
-		"m_iname"		"break_2"
+		"chi"		"** **"
 	}
-	"75050"
+	"*** Wait for Rocks break ***"
 	{
-		"enable"		"0"
-		"hammerid"		"75050"
-		"m_iname"		"el_break"
+		"chi"		"** **"
 	}
-	"55623"
+	"*** Negative Legacy Activate button[22] ***"
 	{
-		"enable"		"0"
-		"hammerid"		"55623"
-		"m_iname"		"sky_legacy"
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Activate Negative Legacy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Rocks Broken ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Found intruders ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Negative Legacy Defend System Activated..... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"**2(面对开关右上角) **"
+		"ico"		"icon_fire"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"**1(面对开关左上角) **"
+		"ico"		"icon_fire"
+	}
+	"*** 4 ***"
+	{
+		"chi"		"**4(面对开关右下角) **"
+		"ico"		"icon_fire"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"**3(面对开关左下角) **"
+		"ico"		"icon_fire"
+	}
+	"*** 1 2 3 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Transform ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shoot Head ***"
+	{
+		"chi"		"**射击头部 **"
+	}
+	"*** Negative Legacy Teleporter Activate ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 15 seconds ***"
+	{
+		"chi"		"**守住15秒 **"
+		"DoorCountdown"		"15"
+	}
+	"*** Welcome to Negative Legacy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds to Zombies KILL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 2 CLEAR ***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"96054"
+	}
+	"Special Thanks: Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Test Server: Possession"
+	{
+		"chi"		"** **"
+	}
+	"WARNING!!"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,279 +1,199 @@
-"BOSSHP"
+"Console_T"
 {
-	"70061"
+	"the right stone will break in 10s"
 	{
-		"enable"		"0"
-		"hammerid"		"70061"
-		"m_iname"		"west_cave_stop"
+		"chi"		"** **"
 	}
-	"68359"
+	"the right stone will break in 5s"
 	{
-		"enable"		"0"
-		"hammerid"		"68359"
-		"m_iname"		"yanzheng2"
+		"chi"		"** **"
 	}
-	"68415"
+	"the left stone will break in 10s"
 	{
-		"enable"		"0"
-		"hammerid"		"68415"
-		"m_iname"		"yanzheng1"
+		"chi"		"** **"
 	}
-	"64127"
+	"the left stone will break in 5s"
 	{
-		"enable"		"0"
-		"hammerid"		"64127"
-		"m_iname"		"to_east"
+		"chi"		"** **"
 	}
-	"51793"
+	"door1 will open in 30s"
 	{
-		"enable"		"0"
-		"hammerid"		"51793"
-		"m_iname"		"room_save"
+		"chi"		"** **"
 	}
-	"51946"
+	"door1 will open in 15s"
 	{
-		"enable"		"0"
-		"hammerid"		"51946"
-		"m_iname"		"east_castle_door"
+		"chi"		"** **"
 	}
-	"50257"
+	"5s left"
 	{
-		"enable"		"0"
-		"hammerid"		"50257"
-		"m_iname"		"west_bar_roofdoor"
+		"chi"		"** **"
 	}
-	"48153"
+	"door will open in 10s"
 	{
-		"enable"		"0"
-		"hammerid"		"48153"
-		"m_iname"		"west_door1"
+		"chi"		"** **"
 	}
-	"41488"
+	"door will open in 20s"
 	{
-		"enable"		"0"
-		"hammerid"		"41488"
-		"m_iname"		"wood_trap"
+		"chi"		"** **"
 	}
-	"41507"
+	"15s after,teleport afk,run!"
 	{
-		"enable"		"0"
-		"hammerid"		"41507"
-		"m_iname"		"wood_trap"
+		"chi"		"** **"
 	}
-	"39911"
+	"elevator will open in 20 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"39911"
-		"m_iname"		"room_door_north"
+		"chi"		"** **"
 	}
-	"39945"
+	"10s left"
 	{
-		"enable"		"0"
-		"hammerid"		"39945"
-		"m_iname"		"room_door_west"
+		"chi"		"** **"
 	}
-	"39969"
+	"8s after teleport zombies"
 	{
-		"enable"		"0"
-		"hammerid"		"39969"
-		"m_iname"		"room_door_east"
+		"chi"		"** **"
 	}
-	"40003"
+	"5s later teleport player in maze"
 	{
-		"enable"		"0"
-		"hammerid"		"40003"
-		"m_iname"		"room_door_south"
+		"chi"		"** **"
 	}
-	"37705"
+	"25s later teleport human"
 	{
-		"enable"		"0"
-		"hammerid"		"37705"
-		"m_iname"		"stage2_library_door1"
+		"chi"		"** **"
 	}
-	"37764"
+	"15s later teleport zombies"
 	{
-		"enable"		"0"
-		"hammerid"		"37764"
-		"m_iname"		"stage2_library_door2"
+		"chi"		"** **"
 	}
-	"24236"
+	"oh!lucky boy!find the nuke button!let the nuke come immediately"
 	{
-		"enable"		"0"
-		"hammerid"		"24236"
-		"m_iname"		"stage1_phys"
+		"chi"		"** **"
 	}
-	"22298"
+	"it wont hurt human,defend until the nuke save us!"
 	{
-		"enable"		"0"
-		"hammerid"		"22298"
-		"m_iname"		"stage2_top_door1"
+		"chi"		"** **"
 	}
-	"20523"
+	"nuke coming in 60s"
 	{
-		"enable"		"0"
-		"hammerid"		"20523"
-		"m_iname"		"stage2_phys"
+		"chi"		"** **"
 	}
-	"19770"
+	"stage2_library_door1 open in 30s"
 	{
-		"enable"		"0"
-		"hammerid"		"19770"
-		"m_iname"		"stage1_key1"
+		"chi"		"** **"
 	}
-	"19842"
+	"15s left"
 	{
-		"enable"		"0"
-		"hammerid"		"19842"
-		"m_iname"		"stage1_key2"
+		"chi"		"** **"
 	}
-	"13882"
+	"nuke coming in 30s"
 	{
-		"enable"		"0"
-		"hammerid"		"13882"
-		"m_iname"		"stone_right"
+		"chi"		"** **"
 	}
-	"13900"
+	"nuke coming in 10s"
 	{
-		"enable"		"0"
-		"hammerid"		"13900"
-		"m_iname"		"stone_left"
+		"chi"		"** **"
 	}
-	"13913"
+	"After 10s teleport AFK at current scene"
 	{
-		"enable"		"0"
-		"hammerid"		"13913"
-		"m_iname"		"stone_key"
+		"chi"		"** **"
 	}
-	"13946"
+	"hold 40s for push"
 	{
-		"enable"		"0"
-		"hammerid"		"13946"
-		"m_iname"		"dangban1"
+		"chi"		"** **"
 	}
-	"12599"
+	"20s left"
 	{
-		"enable"		"0"
-		"hammerid"		"12599"
-		"m_iname"		"stage1_door1_2"
+		"chi"		"** **"
 	}
-	"12625"
+	"sync_version"
 	{
-		"enable"		"0"
-		"hammerid"		"12625"
-		"m_iname"		"dangban2_key"
+		"syncvalue"		"20627"
 	}
-	"1933"
+	"door will open in 30s"
 	{
-		"enable"		"0"
-		"hammerid"		"1933"
-		"m_iname"		"stage1_door1"
+		"chi"		"** **"
 	}
-	"4013"
+	"door will open in 15s"
 	{
-		"enable"		"0"
-		"hammerid"		"4013"
-		"m_iname"		"stage1_door2"
+		"chi"		"** **"
 	}
-	"4428"
+	"wood_trap break in 15s"
 	{
-		"enable"		"0"
-		"hammerid"		"4428"
-		"m_iname"		"stage1_tp1_des_wooddoor"
+		"chi"		"** **"
 	}
-	"142250"
+	"after 15s teleport afk"
 	{
-		"enable"		"0"
-		"hammerid"		"142250"
-		"m_iname"		"stage3_scene4_door_extra"
+		"chi"		"** **"
 	}
-	"118715"
+	"wood_2 appear in 15s"
 	{
-		"enable"		"0"
-		"hammerid"		"118715"
-		"m_iname"		"stage3_scene1_tp_door"
+		"chi"		"** **"
 	}
-	"116792"
+	"wood_3 appear in 20s"
 	{
-		"enable"		"0"
-		"hammerid"		"116792"
-		"m_iname"		"stage3_phys"
+		"chi"		"** **"
 	}
-	"116910"
+	"wood_3 10s left,wood_2 5s left"
 	{
-		"enable"		"0"
-		"hammerid"		"116910"
-		"m_iname"		"stage3_scene1_wall"
+		"chi"		"** **"
 	}
-	"109532"
+	"someone should go to the toilet"
 	{
-		"enable"		"0"
-		"hammerid"		"109532"
-		"m_iname"		"stage3_maze_enter"
+		"chi"		"** **"
 	}
-	"109582"
+	"west_door and crate will break in 20s"
 	{
-		"enable"		"0"
-		"hammerid"		"109582"
-		"m_iname"		"stage3_maze_exit1"
+		"chi"		"** **"
 	}
-	"109599"
+	"map by 王司徒又有何作为"
 	{
-		"enable"		"0"
-		"hammerid"		"109599"
-		"m_iname"		"stage3_maze_exit2"
+		"chi"		"** **"
 	}
-	"109613"
+	"steamworkshop search this maps name"
 	{
-		"enable"		"0"
-		"hammerid"		"109613"
-		"m_iname"		"stage3_maze_exit3"
+		"chi"		"** **"
 	}
-	"109838"
+	"bugfeedback and suggestions:please message in workshop"
 	{
-		"enable"		"0"
-		"hammerid"		"109838"
-		"m_iname"		"stage3_maze_nukewall"
+		"chi"		"** **"
 	}
-	"109872"
+	"hold 40s"
 	{
-		"enable"		"0"
-		"hammerid"		"109872"
-		"m_iname"		"stage3_normal_nukewall"
+		"chi"		"** **"
 	}
-	"106242"
+	"hold 20s"
 	{
-		"enable"		"0"
-		"hammerid"		"106242"
-		"m_iname"		"stage3_maze_enter"
+		"chi"		"** **"
 	}
-	"97605"
+	"10s later push happened"
 	{
-		"enable"		"0"
-		"hammerid"		"97605"
-		"m_iname"		"stage3_scene4_door2"
+		"chi"		"** **"
 	}
-	"97622"
+	"door will start to close in 40s"
 	{
-		"enable"		"0"
-		"hammerid"		"97622"
-		"m_iname"		"stage3_scene4_door3"
+		"chi"		"** **"
 	}
-	"97642"
+	"dont forget wash your hand!"
 	{
-		"enable"		"0"
-		"hammerid"		"97642"
-		"m_iname"		"stage3_scene4_barrier1"
+		"chi"		"** **"
 	}
-	"97673"
+	"roofdoor break in 15s"
 	{
-		"enable"		"0"
-		"hammerid"		"97673"
-		"m_iname"		"stage3_scene4_barrier3"
+		"chi"		"** **"
 	}
-	"97696"
+	"east_castle_door open in 10s"
 	{
-		"enable"		"0"
-		"hammerid"		"97696"
-		"m_iname"		"stage3_scene4_barrier2"
+		"chi"		"** **"
+	}
+	"door start to close in 20s"
+	{
+		"chi"		"** **"
+	}
+	"door start to close in 5s"
+	{
+		"chi"		"** **"
+	}
+	"door will break in 15s"
+	{
+		"chi"		"** **"
 	}
 }

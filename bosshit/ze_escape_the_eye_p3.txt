@@ -1,153 +1,142 @@
-"BOSSHP"
+"Console_T"
 {
-	"1042"
+	"+++ FIXED BY CISNEROS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1042"
-		"m_iname"		"trap_rock_end"
+		"chi"		"**修正了CISNEROS **"
 	}
-	"1163"
+	"+++  MAP MADE BY GARGANTUA +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1163"
-		"m_iname"		"rockball1"
+		"chi"		"**地图制作：BY GARGANTUA 地图翻译：蓬莱山帅比♪**"
 	}
-	"1169"
+	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
 	{
-		"enable"		"0"
-		"hammerid"		"1169"
-		"m_iname"		"rockball2"
+		"chi"		"**门将在45秒后打开 **"
+		"DoorCountdown"		"45"
 	}
-	"1173"
+	"+++ RESIST IN THIS ZONE +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1173"
-		"m_iname"		"rockball3"
+		"chi"		"**在这个位置守住 **"
 	}
-	"1177"
+	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1177"
-		"m_iname"		"rockball4"
+		"chi"		"**门将在25秒后打开 **"
+		"DoorCountdown"		"25"
 	}
-	"1181"
+	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1181"
-		"m_iname"		"rockball5"
+		"chi"		"**门将在5秒后打开 **"
 	}
-	"1185"
+	"+++ THE DOOR IS OPEN +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1185"
-		"m_iname"		"rockball6"
+		"chi"		"**门开了 **"
 	}
-	"1189"
+	"+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1189"
-		"m_iname"		"rockball7"
+		"chi"		"**第一面墙在15秒后破碎 **"
 	}
-	"1458332"
+	"+++ THE FIRST WALL IS BROKEN +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1458332"
-		"m_iname"		"secretlift_1_roof"
+		"chi"		"**第一面墙已破碎 **"
 	}
-	"902"
+	"+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"902"
-		"m_iname"		"secretlift_1_roof"
+		"chi"		"**电梯10秒后离开 **"
 	}
-	"960"
+	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
 	{
-		"enable"		"0"
-		"hammerid"		"960"
-		"m_iname"		"logtrap_break1"
+		"chi"		"**门将在100秒后打开 **"
+		"DoorCountdown"		"100"
 	}
-	"962"
+	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
 	{
-		"enable"		"0"
-		"hammerid"		"962"
-		"m_iname"		"logtrap_break2"
+		"chi"		"**准备好!守住这个区域! **"
 	}
-	"967"
+	"+++ THE DOOR IS OPENING IN 10 SECONDS  +++"
 	{
-		"enable"		"0"
-		"hammerid"		"967"
-		"m_iname"		"logtrap_break3"
+		"chi"		"**门在10秒后打开 **"
 	}
-	"969"
+	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"969"
-		"m_iname"		"logtrap_break4"
+		"chi"		"**僵尸在17秒后释放 **"
 	}
-	"1046"
+	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1046"
-		"m_iname"		"trap_rock_break"
+		"chi"		"**墙在35秒后破碎 **"
+		"DoorCountdown"		"35"
 	}
-	"1196"
+	"+++ THE WALL IS BROKEN +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1196"
-		"m_iname"		"eye_rockbreak1"
+		"chi"		"**墙已破碎 **"
 	}
-	"1245"
+	"++ ACTIVATE THE EYE ++"
 	{
-		"enable"		"0"
-		"hammerid"		"1245"
-		"m_iname"		"eye_rockbreak2"
+		"chi"		"**激活EYE **"
 	}
-	"1313"
+	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
 	{
-		"enable"		"0"
-		"hammerid"		"1313"
-		"m_iname"		"eye_rockbreak3"
+		"chi"		"**门将在35秒后打开 **"
+		"DoorCountdown"		"35"
 	}
-	"24388"
+	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"24388"
-		"m_iname"		"muro"
+		"chi"		"**逃生门将在50秒后打开 **"
+		"DoorCountdown"		"50"
 	}
-	"24580"
+	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"24580"
-		"m_iname"		"murospawn"
+		"chi"		"**逃生门将在30秒后打开 **"
 	}
-	"24715"
+	"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"24715"
-		"m_iname"		"murospawn2"
+		"chi"		"**逃生门将在10秒后打开 **"
 	}
-	"57403"
+	"++ ESCAPE DOOR IS OPEN!! ++"
 	{
-		"enable"		"0"
-		"hammerid"		"57403"
-		"m_iname"		"pushsecret"
+		"chi"		"**逃生门已经开了! ! **"
 	}
-	"58977"
+	"++ ESCAPE DOORS CLOSING!! ++"
 	{
-		"enable"		"0"
-		"hammerid"		"58977"
-		"m_iname"		"jailbreak"
+		"chi"		"**逃生门关闭！！ **"
 	}
-	"12313"
+	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
 	{
-		"enable"		"0"
-		"hammerid"		"12313"
-		"m_iname"		"S1"
+		"chi"		"**LIGHTBRIDGE在20秒后激活 **"
+		"DoorCountdown"		"20"
 	}
-	"12320"
+	"++ LIGHTBRIDGE ACTIVATED ++"
 	{
-		"enable"		"0"
-		"hammerid"		"12320"
-		"m_iname"		"S2"
+		"chi"		"**LIGHTBRIDGE已激活 **"
+	}
+	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"**电梯将在5秒后离开 **"
+	}
+	"++ LIGHTBRIDGE DEACTIVATED ++"
+	{
+		"chi"		"**LIGHTBRIDGE已停用 **"
+	}
+	"+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++"
+	{
+		"chi"		"**推力已拿起.按E使用. **"
+	}
+	"+++ 60 SECONDS OF COOLDOWN. +++"
+	{
+		"chi"		"**它有60秒的冷却时间. **"
+	}
+	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
+	{
+		"chi"		"**喷火器已拿起.按E使用. **"
+	}
+	"++ FUEL FOR 10 SECONDS ++"
+	{
+		"chi"		"**它有10秒钟的燃料 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"2256"
+	}
+	"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
+	{
+		"chi"		"** **"
 	}
 }

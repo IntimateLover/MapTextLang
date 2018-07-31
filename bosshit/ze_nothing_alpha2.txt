@@ -1,27 +1,91 @@
-"BOSSHP"
+"Console_T"
 {
-	"1381723"
+	"*** WARNING: This map is alpha version yet! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1381723"
-		"m_iname"		"stage1_Breakable5"
+		"chi"		"** **"
 	}
-	"1101587"
+	"*** STAGE 1 ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1101587"
-		"m_iname"		"stage1_Breakable3"
+		"chi"		"** **"
 	}
-	"1063018"
+	"*** ZE_NOTHING ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1063018"
-		"m_iname"		"stage1_Breakable2"
+		"chi"		"** **"
 	}
-	"904430"
+	"*** Enthusiast help: Reflelia ***"
 	{
-		"enable"		"0"
-		"hammerid"		"904430"
-		"m_iname"		"stage1_Breakable0"
+		"chi"		"** **"
+	}
+	"*** Map by P0P ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Teleport will active 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Temple door open in 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Teleport active in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A player Yellow Circle picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 60 seconds cooldown ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The right door open in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The left door open in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The door open in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The door open in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Last door open in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU FAILED.. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU DID IT!! ***"
+	{
+		"chi"		"** **"
 	}
 }

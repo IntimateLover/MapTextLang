@@ -1,177 +1,174 @@
-"BOSSHP"
+"Console_T"
 {
-	"32419"
+	"## Doors Will Open in 30 Seconds ##"
 	{
-		"enable"		"1"
-		"hammerid"		"32419"
-		"m_iname"		"ReaperBossHealth"
+		"chi"		"**将在 30 秒后打开大门**不要贴边！**"
+		"DoorCountdown"		"30"
 	}
-	"47159"
+	"## Doors Will Open in 10 Seconds ##"
 	{
-		"enable"		"1"
-		"hammerid"		"47159"
-		"m_iname"		"bosscage"
+		"chi"		"**将在 10 秒后打开大门**对僵尸的防御不要松懈！不要贴边！**"
 	}
-	"3498"
+	"## Doors Will Open in 5 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3498"
-		"m_iname"		"RightLadderCover"
+		"chi"		"**将在 5 秒后打开大门**坚持！僵尸即将传送！**"
 	}
-	"3530"
+	"## Doors Open RUN ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3530"
-		"m_iname"		"LeftLadderCover"
+		"chi"		"**大门开启！僵尸已被传送！**"
 	}
-	"3665"
+	"## Lift Leaving in 30 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3665"
-		"m_iname"		"FloorTile1"
+		"chi"		"**电梯 30 秒后启动！**"
+		"DoorCountdown"		"30"
 	}
-	"3675"
+	"## Lift Leaving in 10 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3675"
-		"m_iname"		"FloorTile2"
+		"chi"		"**电梯 10 秒后启动！**"
 	}
-	"3681"
+	"## Lift Leaving in 5 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3681"
-		"m_iname"		"FloorTile3"
+		"chi"		"**电梯 5 秒后启动!**技术不行不要勉强去拿神器！**"
 	}
-	"3687"
+	"## Lift Leaving ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3687"
-		"m_iname"		"FloorTile4"
+		"chi"		"**电梯启动！**"
 	}
-	"3693"
+	"## Careful of the collapsing Floor! ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3693"
-		"m_iname"		"FloorTile5"
+		"chi"		"**小心地板崩裂！！**掩护掉下去的队友！**"
 	}
-	"3699"
+	"## Trap Door Opening in 30 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3699"
-		"m_iname"		"FloorTile6"
+		"chi"		"**地洞将在 30 秒后打开！**踩到淡蓝色地板将会被传送**"
+		"DoorCountdown"		"30"
 	}
-	"3705"
+	"## Trap Door Opening in 10 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3705"
-		"m_iname"		"FloorTile7"
+		"chi"		"**地洞将在 10 秒后打开！**对僵尸的防守不要松懈！**"
 	}
-	"3711"
+	"## Trap Door Opening in 5 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3711"
-		"m_iname"		"FloorTile8"
+		"chi"		"**地洞将在 5 秒后打开！**"
 	}
-	"3717"
+	"## Trap Door OPEN FALL BACK ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3717"
-		"m_iname"		"FloorTile9"
+		"chi"		"**地洞打开了！僵尸被传送！！撤退！**"
 	}
-	"3723"
+	"##Door Opens 40 Seconds##"
 	{
-		"enable"		"0"
-		"hammerid"		"3723"
-		"m_iname"		"FloorTile10"
+		"chi"		"**玻璃墙将在 40 秒后消失！**"
+		"DoorCountdown"		"40"
 	}
-	"3729"
+	"##Each Block will turn red when a zombie is in the corridor##"
 	{
-		"enable"		"0"
-		"hammerid"		"3729"
-		"m_iname"		"FloorTile11"
+		"chi"		"**在红色玻璃墙没消失之前，请先把僵尸控制在走廊上！。**"
 	}
-	"3735"
+	"##Each Block will turn green when the corridor is clear##"
 	{
-		"enable"		"0"
-		"hammerid"		"3735"
-		"m_iname"		"FloorTile12"
+		"chi"		"**在红色玻璃墙消失后，地图将会强制将僵尸控制在走廊上！**"
 	}
-	"3741"
+	"##Zombies can Break the Blocks sooo DEFEND##"
 	{
-		"enable"		"0"
-		"hammerid"		"3741"
-		"m_iname"		"FloorTile13"
+		"chi"		"**僵尸可以打破洞口下面的那一堵墙壁！防守时请远离洞口以免不测！**"
 	}
-	"3747"
+	"##Door Opens 20 Seconds##"
 	{
-		"enable"		"0"
-		"hammerid"		"3747"
-		"m_iname"		"FloorTile14"
+		"chi"		"**玻璃墙将在 20 秒后消失！**"
+		"DoorCountdown"		"20"
 	}
-	"3753"
+	"##Door Opens 10 Seconds##"
 	{
-		"enable"		"0"
-		"hammerid"		"3753"
-		"m_iname"		"FloorTile15"
+		"chi"		"**玻璃墙将在 10 秒后消失！**"
 	}
-	"3759"
+	"##Door Open RUNNN##"
 	{
-		"enable"		"0"
-		"hammerid"		"3759"
-		"m_iname"		"FloorTile16"
+		"chi"		"**玻璃墙消失！！撤退！**僵尸有空气墙挡着放心跑！**"
 	}
-	"3765"
+	"##Door Opening in 25 Seconds Defend!##"
 	{
-		"enable"		"0"
-		"hammerid"		"3765"
-		"m_iname"		"FloorTile17"
+		"chi"		"**大门将于 25 秒后打开！**注意跳跃缺口！**"
+		"DoorCountdown"		"25"
 	}
-	"3771"
+	"##Door Opening in 10 Seconds Defend!##"
 	{
-		"enable"		"0"
-		"hammerid"		"3771"
-		"m_iname"		"FloorTile18"
+		"chi"		"**大门将于 10 秒后打开！**防守僵尸不要让僵尸跳过来!**"
 	}
-	"3777"
+	"##Door Open FALL BACK##"
 	{
-		"enable"		"0"
-		"hammerid"		"3777"
-		"m_iname"		"FloorTile19"
+		"chi"		"**大门开启!**撤退到里面小口防守！！小心密道僵尸！**"
 	}
-	"3783"
+	"## Final Door Opening 40 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3783"
-		"m_iname"		"FloorTile20"
+		"chi"		"**最后的大门将于 40 秒后打开！**"
+		"DoorCountdown"		"40"
 	}
-	"3789"
+	"## HOLD and DEFEND ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3789"
-		"m_iname"		"FloorTile21"
+		"chi"		"**持续防守！保持火力！记得扔手雷！**"
 	}
-	"3795"
+	"## Final Door Opening 20 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"3795"
-		"m_iname"		"FloorTile22"
+		"chi"		"**最后的大门将于 20 秒后打开！**"
 	}
-	"45315"
+	"## Final Door Opening 10 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"45315"
-		"m_iname"		"3DefenceLightTrackerLight1"
+		"chi"		"**最后的大门将于 10 秒后打开！**"
 	}
-	"45341"
+	"## Final Door Opening 5 Seconds ##"
 	{
-		"enable"		"0"
-		"hammerid"		"45341"
-		"m_iname"		"3DefenceLightTrackerLight2"
+		"chi"		"**最后的大门将于 5 秒后打开！**"
 	}
-	"45376"
+	"## Door Open Run ##"
 	{
-		"enable"		"0"
-		"hammerid"		"45376"
-		"m_iname"		"3DefenceLightTrackerLight3"
+		"chi"		"**最后的大门开启！**快进去防守！！火力不要松懈！**"
+	}
+	"## Boss Room Door Closing 10 Seconds ##"
+	{
+		"chi"		"**Boss房间的大门将于 10 秒后关闭！保持火力！**"
+	}
+	"## All Players if not in the boss room will be teleported ##"
+	{
+		"chi"		"**任何玩家如果不处于Boss房间将会被传送！**"
+	}
+	"## Boss Room Door Closing 5 Seconds ##"
+	{
+		"chi"		"**Boss房间的大门将于 5 秒后关闭！**不要站在房间内有红光的区域！**"
+	}
+	"## Boss Room Door Closed...Prepare for BATTLE ##"
+	{
+		"chi"		"**Boss房间的大门关闭！...准备战斗!** 拿出你们的手雷再出闪电时朝闪电丢去！**"
+	}
+	"## REAPER SPLITTER KILL IT ##"
+	{
+		"chi"		"**杀死Boss -- 人头收割机**"
+	}
+	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	{
+		"chi"		"**你们有 120 秒的时间在Boss的房间爆炸前杀死它！**"
+	}
+	"## Reaper Splitter Killed ESCAPE ##"
+	{
+		"chi"		"**杀掉了Boss准备逃脱！**进入闪电！进入闪电后松开 W ，仔细看脚下的路！**"
+	}
+	"## Zombies will be released in 10 Seconds ##"
+	{
+		"chi"		"**僵尸将在 10 秒后解放！**"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** 15 秒后处死Boss房间的所有玩家！** 注意防守僵尸！**"
+	}
+	"## 5 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** 5 秒后处死Boss房间的所有玩家！** 将僵尸打到水下！**"
+	}
+	"## END GAME ##"
+	{
+		"chi"		"**游戏结束！**地图翻译 by 色狼领袖**"
+	}
+	"##You Lost##"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,153 +1,123 @@
-"BOSSHP"
+"Console_T"
 {
-	"21077"
+	"Map made by LuffarenPer30010"
 	{
-		"enable"		"0"
-		"hammerid"		"21077"
-		"m_iname"		"elevatorpath_breakz"
+		"chi"		"** **"
 	}
-	"37054"
+	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37054"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37057"
+	"*** Door opens in 18 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37057"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37060"
+	"--- RESIST 15 SECONDS ---"
 	{
-		"enable"		"0"
-		"hammerid"		"37060"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37063"
+	"--- TRAM LEAVES IN 10 SECONDS ---"
 	{
-		"enable"		"0"
-		"hammerid"		"37063"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37066"
+	"*** Resist 20 seconds in the poolroom ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37066"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37069"
+	"*** Run to the controlroom and press the button ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37069"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37022"
+	"*** Find a spot and resist for 50 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37022"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37016"
+	"*** 5 seconds untill radio scrambler collapses ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37016"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37028"
+	"*** The zombies are trapped for 15 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37028"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"36990"
+	"*** MOVE IT! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"36990"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37004"
+	"*** Resist 20 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37004"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"37010"
+	"*** Resist 15 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"37010"
-		"m_iname"		"phys_1"
+		"chi"		"** **"
 	}
-	"36790"
+	"*** Opening cargo elevator door ***"
 	{
-		"enable"		"0"
-		"hammerid"		"36790"
-		"m_iname"		"break_1"
+		"chi"		"** **"
 	}
-	"97821"
+	"*** Humans are recommended to stay in the elevator***"
 	{
-		"enable"		"0"
-		"hammerid"		"97821"
-		"m_iname"		"break_2"
+		"chi"		"** **"
 	}
-	"102340"
+	"*** Contacting HQ ***"
 	{
-		"enable"		"0"
-		"hammerid"		"102340"
-		"m_iname"		"break_2"
+		"chi"		"** **"
 	}
-	"119183"
+	"*** A helicopter is waiting at the helipad ***"
 	{
-		"enable"		"0"
-		"hammerid"		"119183"
-		"m_iname"		"shaft_break_1"
+		"chi"		"** **"
 	}
-	"119544"
+	"*** GET TO THE CHOPPER! ***"
 	{
-		"enable"		"0"
-		"hammerid"		"119544"
-		"m_iname"		"shaft_break_2"
+		"chi"		"** **"
 	}
-	"739346"
+	"*** HQ will send a nuke at your position ***"
 	{
-		"enable"		"0"
-		"hammerid"		"739346"
-		"m_iname"		"break_7"
+		"chi"		"** **"
 	}
-	"739708"
+	"*** Get away from there A.S.A.P ***"
 	{
-		"enable"		"0"
-		"hammerid"		"739708"
-		"m_iname"		"break_8"
+		"chi"		"** **"
 	}
-	"739843"
+	"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"739843"
-		"m_iname"		"break_9"
+		"chi"		"** **"
 	}
-	"227068"
+	"*** ZOMBIE SHORTCUT TELEPORT ACTIVATES IN 20 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"227068"
-		"m_iname"		"break_3"
+		"chi"		"** **"
 	}
-	"277563"
+	"*** ZOMBIE SHORTCUT TELEPORT ACTIVATED ***"
 	{
-		"enable"		"0"
-		"hammerid"		"277563"
-		"m_iname"		"break_4"
+		"chi"		"** **"
 	}
-	"712626"
+	"*** THIS IS OUR FINAL STAND ***"
 	{
-		"enable"		"0"
-		"hammerid"		"712626"
-		"m_iname"		"phys_2"
+		"chi"		"** **"
 	}
-	"712651"
+	"*** RESIST OR DIE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"712651"
-		"m_iname"		"break_6"
+		"chi"		"** **"
+	}
+	"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	{
+		"chi"		"** **"
+	}
+	"*** Nuke inbound ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds untill explosion ***"
+	{
+		"chi"		"** **"
 	}
 }

@@ -1,75 +1,94 @@
-"BOSSHP"
+"Console_T"
 {
-	"10327"
+	"***Truck leaving in 30secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"10327"
-		"m_iname"		"W"
+		"chi"		"**卡车30秒后离开 **"
 	}
-	"10413"
+	"***Truck leaving in 5secs. Shoot the blockade.***"
 	{
-		"enable"		"0"
-		"hammerid"		"10413"
-		"m_iname"		"TM"
+		"chi"		"**卡车5秒后离开.射击封锁线 **"
 	}
-	"13219"
+	"***Door opening in 25secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13219"
-		"m_iname"		"Fence"
+		"chi"		"**大门25秒后打开 **"
 	}
-	"13265"
+	"***Door 2 opening in 25secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13265"
-		"m_iname"		"TombDoorBreakable"
+		"chi"		"**2号大门25秒后打开 **"
 	}
-	"13273"
+	"***Door 2 open.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13273"
-		"m_iname"		"TombDoorBreakable"
+		"chi"		"**大门2开启 **"
 	}
-	"13610"
+	"***Door open.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13610"
-		"m_iname"		"Fence2"
+		"chi"		"**大门开启 **"
 	}
-	"13630"
+	"***Mausoleum wall will  fall in 50secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13630"
-		"m_iname"		"D1"
+		"chi"		"**教堂墙壁50秒后倒塌 **"
+		"DoorCountDown"		"50"
 	}
-	"13647"
+	"***Mausoleum wall will  fall in 5secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13647"
-		"m_iname"		"D"
+		"chi"		"**教堂墙壁5秒后倒塌 **"
 	}
-	"13727"
+	"***Tomb doors closing in 40secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13727"
-		"m_iname"		"SpB2"
+		"chi"		"**墓室大门40秒后关闭 **"
+		"DoorCountDown"		"40"
 	}
-	"13735"
+	"***Waking Up. Door opening in 60secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"13735"
-		"m_iname"		"SpB1"
+		"chi"		"**大门60秒后打开 **"
+		"DoorCountDown"		"60"
 	}
-	"14255"
+	"***Waking Up. Door opening in 30secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"14255"
-		"m_iname"		"BC"
+		"chi"		"**大门30秒后打开 **"
 	}
-	"14263"
+	"***Waking Up. Door opening in 20secs.***"
 	{
-		"enable"		"0"
-		"hammerid"		"14263"
-		"m_iname"		"DD"
+		"chi"		"**大门20秒后打开 **"
+	}
+	"***Waking Up. Door opening in 10secs.***"
+	{
+		"chi"		"**大门10秒后打开 **"
+	}
+	"***Waking Up. Door open.***"
+	{
+		"chi"		"**大门打开 **"
+	}
+	"***Dream over in 10secs.***"
+	{
+		"chi"		"**梦将在10秒后结束 **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Dream Over.***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

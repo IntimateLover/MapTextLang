@@ -1,207 +1,146 @@
-"BOSSHP"
+"Console_T"
 {
-	"334889"
+	"*** Map by Airvulpes ***"
 	{
-		"enable"		"1"
-		"hammerid"		"334889"
-		"m_iname"		"2_way_bossiso_break"
+		"chi"		"**地图制作：Airvulpes **"
 	}
-	"296804"
+	"*** Hold 20 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"296804"
-		"m_iname"		"2_boss_target"
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
 	}
-	"298271"
+	"*** 5 SECONDS LEFT ***"
 	{
-		"enable"		"1"
-		"hammerid"		"298271"
-		"m_iname"		"2_boss_zombiecage"
+		"chi"		"** **"
 	}
-	"208550"
+	"*** Hold 30 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"208550"
-		"m_iname"		"3_boss_cage"
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
 	}
-	"174758"
+	"*** 10 seconds left ***"
 	{
-		"enable"		"1"
-		"hammerid"		"174758"
-		"m_iname"		"3_boss_target"
+		"chi"		"** **"
 	}
-	"733716"
+	"*** AERIAL BLAST ***"
 	{
-		"enable"		"1"
-		"hammerid"		"733716"
-		"m_iname"		"2_boss_earthenshield"
+		"chi"		"**大气爆发(看清天上出现的刀的位置躲避）**"
+		"ico"		"icon_fire"
 	}
-	"1035732"
+	"*** GUST ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1035732"
-		"m_iname"		"4_boss_target"
+		"chi"		"**狂风（面对绿色的光球按住W键）**"
+		"ico"		"icon_fire"
 	}
-	"1030238"
+	"*** Hold 50 seconds ***"
 	{
-		"enable"		"1"
-		"hammerid"		"1030238"
-		"m_iname"		"4_way_bossiso_break"
+		"chi"		"**守住50秒 **"
+		"DoorCountDown"		"50"
 	}
-	"2937344"
+	"*** DOWNBURST ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2937344"
-		"m_iname"		"death_phys"
+		"chi"		"**下爆气流（倒计时结束按住W）**"
+		"ico"		"icon_fire"
+		"DoorCountDown"		"3"
 	}
-	"2937380"
+	"*** UPDRAFT ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2937380"
-		"m_iname"		"haste_phys"
+		"chi"		"**上升气流（上升后看着下面的位置落地） **"
+		"ico"		"icon_fire"
 	}
-	"2937395"
+	"*** Hold 10 seconds ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2937395"
-		"m_iname"		"curse_phys"
+		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
 	}
-	"2801351"
+	"*** FLAME RADIATION ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2801351"
-		"m_iname"		"5_boss_exaflare_clip"
+		"chi"		"**火焰辐射（躲避BOSS的火焰)**"
+		"ico"		"icon_fire"
 	}
-	"2788869"
+	"*** FIREBALL ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2788869"
-		"m_iname"		"5_boss_exaflare_phys"
+		"chi"		"**大火球(远离BOSS)**"
+		"ico"		"icon_fire"
 	}
-	"2789390"
+	"*** SUN STRIKE ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2789390"
-		"m_iname"		"5_boss_exaflare_phys"
+		"chi"		"**阳炎冲击**"
+		"ico"		"icon_fire"
 	}
-	"2789394"
+	"*** MEGA FLARE ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2789394"
-		"m_iname"		"5_boss_exaflare_phys"
+		"chi"		"**百万耀斑（不要靠近BOSS)**"
+		"ico"		"icon_fire"
 	}
-	"2789700"
+	"*** FLASH OVER ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2789700"
-		"m_iname"		"5_boss_exaflare_phys"
+		"chi"		"**闪燃**"
+		"ico"		"icon_fire"
 	}
-	"2593891"
+	"*** FORGE SPIRITS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2593891"
-		"m_iname"		"5_way_breakable1"
+		"chi"		"**熔炉精灵(看清地上的小火球躲避）**"
+		"ico"		"icon_fire"
 	}
-	"2572828"
+	"*** GIGA FLARE ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2572828"
-		"m_iname"		"5_boss_zombiecage"
+		"chi"		"**十亿耀斑（远离BOSS)**"
+		"ico"		"icon_fire"
 	}
-	"2435207"
+	"*** FRAMBERGE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2435207"
-		"m_iname"		"5_way_door3"
+		"chi"		"**焰形剑（不要被天上的刀刮到）**"
+		"ico"		"icon_fire"
 	}
-	"2435645"
+	"*** TERA FLARE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2435645"
-		"m_iname"		"5_way_door3"
+		"chi"		"**兆亿耀斑（BOSS死亡）**"
+		"ico"		"icon_fire"
 	}
-	"2450194"
+	"*** EXA FLARE ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2450194"
-		"m_iname"		"5_way_door7"
+		"chi"		"**千兆亿耀斑(准备使用奶神器）**"
+		"ico"		"icon_fire"
 	}
-	"2450291"
+	"*** EYE OF THE STORM ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2450291"
-		"m_iname"		"5_way_door8"
+		"chi"		"**暴风之眼**"
 	}
-	"2301708"
+	"*** TORNADO ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2301708"
-		"m_iname"		"5_boss_target"
+		"chi"		"**龙卷风（一直走动直到龙卷风出现）**"
+		"ico"		"icon_fire"
 	}
-	"2334795"
+	"*** CURAGA ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2334795"
-		"m_iname"		"4_boss_target"
+		"chi"		"**超级治疗**"
 	}
-	"2277626"
+	"*** ZOMBIE KILLED PHILIA ***"
 	{
-		"enable"		"1"
-		"hammerid"		"2277626"
-		"m_iname"		"5_boss_physic"
+		"chi"		"**僵尸杀死了大白球**"
 	}
-	"2064353"
+	"*** STAGE FAILED ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2064353"
-		"m_iname"		"4_escape_breaklift2"
+		"chi"		"**本关失败**"
 	}
-	"2064359"
+	"*** HOLY ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2064359"
-		"m_iname"		"4_escape_breaklift1"
+		"chi"		"**神圣**"
 	}
-	"2064413"
+	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"enable"		"0"
-		"hammerid"		"2064413"
-		"m_iname"		"4_escape_breaklift3"
+		"chi"		"**僵尸进入电梯**"
 	}
-	"1895555"
+	"*** LIFT IS LEAVING IN 5 SECONDS ***"
 	{
-		"enable"		"0"
-		"hammerid"		"1895555"
-		"m_iname"		"water_ice"
+		"chi"		"**电梯将在5秒后离开 **"
 	}
-	"590483"
+	"MapGlobal_ConVars"
 	{
-		"enable"		"0"
-		"hammerid"		"590483"
-		"m_iname"		"earth_wall"
-	}
-	"590537"
-	{
-		"enable"		"0"
-		"hammerid"		"590537"
-		"m_iname"		"earth_masterwall"
-	}
-	"909713"
-	{
-		"enable"		"0"
-		"hammerid"		"909713"
-		"m_iname"		"earth_wall2"
-	}
-	"2352921"
-	{
-		"enable"		"1"
-		"hammerid"		"2352921"
-		"m_iname"		"5_boss_forgespirits_phys&5306"
-	}
-	"2824840"
-	{
-		"enable"		"0"
-		"hammerid"		"2824840"
-		"m_iname"		"5_master_target"
+		"0"
+		{
+			"cvar"		"zr_poison_enabled 0"
+		}
 	}
 }

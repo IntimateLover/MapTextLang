@@ -1,75 +1,77 @@
-"BOSSHP"
+"Console_T"
 {
-	"2915258"
+	"Defend until door open"
 	{
-		"enable"		"1"
-		"hammerid"		"2915258"
-		"m_iname"		"hp_boss"
+		"chi"		"**抵御丧尸直到大门打开！**"
 	}
-	"2890786"
+	"Fall Back"
 	{
-		"enable"		"1"
-		"hammerid"		"2890786"
-		"m_iname"		"boss_head"
+		"chi"		"**撤退！**"
 	}
-	"2951815"
+	"<< Defend 30 seconds >>"
 	{
-		"enable"		"0"
-		"hammerid"		"2951815"
-		"m_iname"		"wood_train_1x"
+		"chi"		"**死守阵地30秒**"
 	}
-	"2913312"
+	"<< 30 seconds until door open >>"
 	{
-		"enable"		"0"
-		"hammerid"		"2913312"
-		"m_iname"		"br_zm"
+		"chi"		"**30秒后门将打开！**"
 	}
-	"2915009"
+	"Defend the bridge"
 	{
-		"enable"		"0"
-		"hammerid"		"2915009"
-		"m_iname"		"br_door_fin"
+		"chi"		"**守住这座桥！**"
 	}
-	"2831640"
+	"back off the bridge zombies will be delayed"
 	{
-		"enable"		"0"
-		"hammerid"		"2831640"
-		"m_iname"		"w_br_1"
+		"chi"		"**撤离这座桥！僵尸会被空气墙挡住！**"
 	}
-	"103324"
+	"Door open in 5 seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"103324"
-		"m_iname"		"door_shield"
+		"chi"		"**门将于5秒后打开**"
+		"DoorCountdown"		"5"
 	}
-	"19918"
+	"Door is open"
 	{
-		"enable"		"0"
-		"hammerid"		"19918"
-		"m_iname"		"bb"
+		"chi"		"**门开了！**"
 	}
-	"15914"
+	"Hurry up !! Run !"
 	{
-		"enable"		"0"
-		"hammerid"		"15914"
-		"m_iname"		"blok_1"
+		"chi"		"**快点！撤退！**"
 	}
-	"9234"
+	"defend this spot few seconds"
 	{
-		"enable"		"0"
-		"hammerid"		"9234"
-		"m_iname"		"break_1"
+		"chi"		"**守住这里！！**"
 	}
-	"14482"
+	"Fall Back !!!"
 	{
-		"enable"		"0"
-		"hammerid"		"14482"
-		"m_iname"		"cube_2"
+		"chi"		"**撤退！！**"
 	}
-	"1341"
+	"You are near the goal"
 	{
-		"enable"		"0"
-		"hammerid"		"1341"
-		"m_iname"		"door_1"
+		"chi"		"**你们已经离终点很近了！**"
+	}
+	"<< Cover spot for few seconds >>"
+	{
+		"chi"		"**守住这里！**"
+	}
+	"Teleport to boss room will ready in 5 seconds"
+	{
+		"chi"		"**5秒后将传送至boss房**"
+	}
+	"Teleport ready !"
+	{
+		"chi"		"**传送开始！**"
+	}
+	"boss defeated"
+	{
+		"chi"		"** **"
+	}
+	"<< Nuke has been launched!! 20 seconds until explosion >>"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"<< Map by Lup4n` >>"
+	{
+		"chi"		"** **"
 	}
 }
