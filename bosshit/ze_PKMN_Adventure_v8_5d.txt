@@ -608,4 +608,22 @@
 		"hammerid"		"277070"
 		"m_iname"		"Wally#2Lv5"
 	}
+	"606076"
+	{
+		"enable"		"0"
+		"hammerid"		"606076"
+		"m_iname"		"Arceus_LivingEarth_Bridge"
+	}
+	"606312"
+	{
+		"enable"		"0"
+		"hammerid"		"606312"
+		"m_iname"		"Arceus_Judgement_Breakable"
+	}
+	"727428"
+	{
+		"enable"		"0"
+		"hammerid"		"727428"
+		"m_iname"		"Darkrai_Lv5"
+	}
 }
