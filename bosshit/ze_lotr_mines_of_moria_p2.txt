@@ -1,123 +1,435 @@
-"Console_T"
+"BOSSHP"
 {
-	"**Map by: Hannibal [SPA] (Rafuron)**"
+	"1294"
 	{
-		"chi"		"**地图制作：Hannibal [SPA] (Rafuron)  地图翻译：银月筱瑶**"
+		"enable"		"0"
+		"hammerid"		"1294"
+		"m_iname"		"puentet1"
 	}
-	"**Bring the ring to Khazad-Dum bridge to win easily**"
+	"1301"
 	{
-		"chi"		"**把魔戒带到凯萨督姆大桥让防守变得更容易**"
+		"enable"		"0"
+		"hammerid"		"1301"
+		"m_iname"		"puentecae"
 	}
-	"**The ring has been picked!**"
+	"1310"
 	{
-		"chi"		"**一位玩家捡起了至尊魔戒**"
+		"enable"		"0"
+		"hammerid"		"1310"
+		"m_iname"		"escas"
 	}
-	"**Saruman staff has been picked!**"
+	"1317"
 	{
-		"chi"		"**一位玩家拾起了萨鲁曼法杖（减速僵尸）**"
+		"enable"		"0"
+		"hammerid"		"1317"
+		"m_iname"		"escas2"
 	}
-	"**Humans have reached Balins tomb! Resist 55 s**"
+	"1386"
 	{
-		"chi"		"**人类已经到达巴林的坟墓，防守55秒！**"
+		"enable"		"0"
+		"hammerid"		"1386"
+		"m_iname"		"p6"
 	}
-	"**Balins door closing in 10 s**"
+	"1388"
 	{
-		"chi"		"**坟墓大门将在10秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"1388"
+		"m_iname"		"p4"
 	}
-	"**Zombies have been alerted!**"
+	"1390"
 	{
-		"chi"		"**僵尸已经到来**"
+		"enable"		"0"
+		"hammerid"		"1390"
+		"m_iname"		"p3"
 	}
-	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	"1392"
 	{
-		"chi"		"**炎魔将会在15秒后到达楼梯区域**"
+		"enable"		"0"
+		"hammerid"		"1392"
+		"m_iname"		"p2"
 	}
-	"**Resist 30 s**"
+	"1394"
 	{
-		"chi"		"**坚守30秒**"
+		"enable"		"0"
+		"hammerid"		"1394"
+		"m_iname"		"p1"
 	}
-	"**Resist 15 s**"
+	"1397"
 	{
-		"chi"		"**坚守15秒**"
+		"enable"		"0"
+		"hammerid"		"1397"
+		"m_iname"		"p6"
 	}
-	"**Go to the Khazad-Dum bridge!**"
+	"1914"
 	{
-		"chi"		"**快跑到凯萨督姆大桥！**"
+		"enable"		"0"
+		"hammerid"		"1914"
+		"m_iname"		"coltramp"
 	}
-	"**Gandalf staff has been picked!**"
+	"2007"
 	{
-		"chi"		"**一位玩家拾起了甘道夫法杖（弹飞僵尸，慎用！！！！）**"
+		"enable"		"0"
+		"hammerid"		"2007"
+		"m_iname"		"escakecae"
 	}
-	"**Stay in the circle! Zombies cant go in!**"
+	"2242"
 	{
-		"chi"		"**站在光圈中，僵尸无法突破光圈！**"
+		"enable"		"0"
+		"hammerid"		"2242"
+		"m_iname"		"p7"
 	}
-	"** Protection ring will close in 15 s **"
+	"2244"
 	{
-		"chi"		"**保护光环将会在15秒后熄灭**"
+		"enable"		"0"
+		"hammerid"		"2244"
+		"m_iname"		"p7"
 	}
-	"** ... **"
+	"2448"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2448"
+		"m_iname"		"escaleraphys"
 	}
-	"** Moria is unstable! Run towards the stairs in  **"
+	"66977"
 	{
-		"chi"		"**摩瑞亚正在崩坏！快跑到楼梯那边！**"
+		"enable"		"0"
+		"hammerid"		"66977"
+		"m_iname"		"puentet1"
 	}
-	"**5**"
+	"1141"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1141"
+		"m_iname"		"barreratemporal3"
 	}
-	"**4**"
+	"1189"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1189"
+		"m_iname"		"p24"
 	}
-	"**3**"
+	"1195"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1195"
+		"m_iname"		"p22"
 	}
-	"**2**"
+	"1197"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1197"
+		"m_iname"		"p21"
 	}
-	"**1**"
+	"1199"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1199"
+		"m_iname"		"p23"
 	}
-	"**Go!**"
+	"1211"
 	{
-		"chi"		"**快跑**"
+		"enable"		"0"
+		"hammerid"		"1211"
+		"m_iname"		"p25"
 	}
-	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+	"1213"
 	{
-		"chi"		"**炎魔将会在15秒后到达巴林的墓室区域**"
+		"enable"		"0"
+		"hammerid"		"1213"
+		"m_iname"		"p26"
 	}
-	"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	"1221"
 	{
-		"chi"		"**通往凯萨督姆的门已经打开**"
+		"enable"		"0"
+		"hammerid"		"1221"
+		"m_iname"		"p11"
 	}
-	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+	"1227"
 	{
-		"chi"		"**炎魔将会在15秒后到达巨型楼梯区域**"
+		"enable"		"0"
+		"hammerid"		"1227"
+		"m_iname"		"p13"
 	}
-	"**Gandalf in the middle**"
+	"1229"
 	{
-		"chi"		"**甘道夫站在了凯萨督姆大桥的中间**"
+		"enable"		"0"
+		"hammerid"		"1229"
+		"m_iname"		"p12"
 	}
-	"**Gandalf is dead!**"
+	"1235"
 	{
-		"chi"		"**甘道夫死了……**"
+		"enable"		"0"
+		"hammerid"		"1235"
+		"m_iname"		"p14"
 	}
-	"**Protect Gandalf during 35s! He must break the bridge! **"
+	"1239"
 	{
-		"chi"		"**保护甘道夫35秒，他必须摧毁凯萨督姆大桥！(YOU SHALL NOT PASS!)**"
+		"enable"		"0"
+		"hammerid"		"1239"
+		"m_iname"		"p15"
 	}
-	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	"1241"
 	{
-		"chi"		"**至尊魔戒成功地被带到了凯萨督姆，木桥已被摧毁。**"
+		"enable"		"0"
+		"hammerid"		"1241"
+		"m_iname"		"p16"
 	}
-	"The server is about to close the update ,Please update your game"
+	"1249"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1249"
+		"m_iname"		"pedrolobalin"
+	}
+	"1255"
+	{
+		"enable"		"0"
+		"hammerid"		"1255"
+		"m_iname"		"persecucion"
+	}
+	"1259"
+	{
+		"enable"		"0"
+		"hammerid"		"1259"
+		"m_iname"		"fence"
+	}
+	"1369"
+	{
+		"enable"		"0"
+		"hammerid"		"1369"
+		"m_iname"		"puertakaz"
+	}
+	"1405"
+	{
+		"enable"		"0"
+		"hammerid"		"1405"
+		"m_iname"		"madera"
+	}
+	"1410"
+	{
+		"enable"		"0"
+		"hammerid"		"1410"
+		"m_iname"		"gogokazad"
+	}
+	"1412"
+	{
+		"enable"		"0"
+		"hammerid"		"1412"
+		"m_iname"		"j9"
+	}
+	"1414"
+	{
+		"enable"		"0"
+		"hammerid"		"1414"
+		"m_iname"		"j8"
+	}
+	"1416"
+	{
+		"enable"		"0"
+		"hammerid"		"1416"
+		"m_iname"		"j7"
+	}
+	"1418"
+	{
+		"enable"		"0"
+		"hammerid"		"1418"
+		"m_iname"		"j6"
+	}
+	"1420"
+	{
+		"enable"		"0"
+		"hammerid"		"1420"
+		"m_iname"		"j5"
+	}
+	"1422"
+	{
+		"enable"		"0"
+		"hammerid"		"1422"
+		"m_iname"		"j4"
+	}
+	"1424"
+	{
+		"enable"		"0"
+		"hammerid"		"1424"
+		"m_iname"		"j3"
+	}
+	"1426"
+	{
+		"enable"		"0"
+		"hammerid"		"1426"
+		"m_iname"		"j1"
+	}
+	"1428"
+	{
+		"enable"		"0"
+		"hammerid"		"1428"
+		"m_iname"		"j2"
+	}
+	"1446"
+	{
+		"enable"		"0"
+		"hammerid"		"1446"
+		"m_iname"		"seacabo"
+	}
+	"1480"
+	{
+		"enable"		"0"
+		"hammerid"		"1480"
+		"m_iname"		"control1"
+	}
+	"1482"
+	{
+		"enable"		"0"
+		"hammerid"		"1482"
+		"m_iname"		"control2"
+	}
+	"1522"
+	{
+		"enable"		"0"
+		"hammerid"		"1522"
+		"m_iname"		"gandalfdead"
+	}
+	"1524"
+	{
+		"enable"		"0"
+		"hammerid"		"1524"
+		"m_iname"		"gandalfdead"
+	}
+	"1534"
+	{
+		"enable"		"0"
+		"hammerid"		"1534"
+		"m_iname"		"barreratemporal1"
+	}
+	"1564"
+	{
+		"enable"		"0"
+		"hammerid"		"1564"
+		"m_iname"		"j10"
+	}
+	"1566"
+	{
+		"enable"		"0"
+		"hammerid"		"1566"
+		"m_iname"		"j11"
+	}
+	"1568"
+	{
+		"enable"		"0"
+		"hammerid"		"1568"
+		"m_iname"		"j12"
+	}
+	"1570"
+	{
+		"enable"		"0"
+		"hammerid"		"1570"
+		"m_iname"		"j13"
+	}
+	"1572"
+	{
+		"enable"		"0"
+		"hammerid"		"1572"
+		"m_iname"		"j14"
+	}
+	"1574"
+	{
+		"enable"		"0"
+		"hammerid"		"1574"
+		"m_iname"		"j15"
+	}
+	"1576"
+	{
+		"enable"		"0"
+		"hammerid"		"1576"
+		"m_iname"		"j16"
+	}
+	"1578"
+	{
+		"enable"		"0"
+		"hammerid"		"1578"
+		"m_iname"		"j17"
+	}
+	"1580"
+	{
+		"enable"		"0"
+		"hammerid"		"1580"
+		"m_iname"		"j17"
+	}
+	"1582"
+	{
+		"enable"		"0"
+		"hammerid"		"1582"
+		"m_iname"		"j18"
+	}
+	"1584"
+	{
+		"enable"		"0"
+		"hammerid"		"1584"
+		"m_iname"		"j19"
+	}
+	"1744"
+	{
+		"enable"		"0"
+		"hammerid"		"1744"
+		"m_iname"		"salidabalin"
+	}
+	"1907"
+	{
+		"enable"		"0"
+		"hammerid"		"1907"
+		"m_iname"		"pur"
+	}
+	"2214"
+	{
+		"enable"		"0"
+		"hammerid"		"2214"
+		"m_iname"		"cajas2"
+	}
+	"2222"
+	{
+		"enable"		"0"
+		"hammerid"		"2222"
+		"m_iname"		"cajas3"
+	}
+	"2256"
+	{
+		"enable"		"0"
+		"hammerid"		"2256"
+		"m_iname"		"gandalfst"
+	}
+	"2292"
+	{
+		"enable"		"0"
+		"hammerid"		"2292"
+		"m_iname"		"ssaru"
+	}
+	"2316"
+	{
+		"enable"		"0"
+		"hammerid"		"2316"
+		"m_iname"		"ventaja1"
+	}
+	"2323"
+	{
+		"enable"		"0"
+		"hammerid"		"2323"
+		"m_iname"		"traaa"
+	}
+	"27022"
+	{
+		"enable"		"0"
+		"hammerid"		"27022"
+		"m_iname"		"madera"
+	}
+	"33758"
+	{
+		"enable"		"0"
+		"hammerid"		"33758"
+		"m_iname"		"gandalfdead"
+	}
+	"58619"
+	{
+		"enable"		"0"
+		"hammerid"		"58619"
+		"m_iname"		"barreratemporal2"
 	}
 }

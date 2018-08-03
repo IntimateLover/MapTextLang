@@ -1,759 +1,339 @@
-"Console_T"
+"BOSSHP"
 {
-	"By Onahole"
+	"264927"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"264927"
+		"m_iname"		"boss3_hitbox_health"
 	}
-	"For Ona by Onahole"
+	"265038"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"265038"
+		"m_iname"		"boss_health2"
 	}
-	"In Collaboration with Onahole for Ona by Onahole"
+	"251724"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"251724"
+		"m_iname"		"boss3_stage"
 	}
-	"Welcome to Onahole"
+	"251844"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"251844"
+		"m_iname"		"boss2_stage"
 	}
-	"Onahole TP activating in 15 seconds"
+	"251933"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"251933"
+		"m_iname"		"zm2_wall"
 	}
-	"Onaholes are a mans source of hopes and dreams"
+	"247209"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"247209"
+		"m_iname"		"boss3cover"
 	}
-	"As important as water, as valuable as gold"
+	"243427"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"243427"
+		"m_iname"		"finalboss_bridge"
 	}
-	"Oh man, nuts will be busted tonight"
+	"243467"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"243467"
+		"m_iname"		"boss3_physbox"
 	}
-	"EARTH CHAN!"
+	"244673"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"244673"
+		"m_iname"		"lvl3_zm_wall"
 	}
-	"Hold for 30 seconds"
+	"238068"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"238068"
+		"m_iname"		"boss2_physbox"
 	}
-	"Ok, get the fuck on now, shits open"
+	"238275"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"238275"
+		"m_iname"		"barry_phys1"
 	}
-	"EARTH CHAN IS NOT FLAT"
+	"235620"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"235620"
+		"m_iname"		"zm_floor1"
 	}
-	"hold for like 15 somethin seconds idk lol"
+	"234047"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"234047"
+		"m_iname"		"bob"
 	}
-	"LEAVE"
+	"234054"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"234054"
+		"m_iname"		"Onabox"
 	}
-	"Mmmm baby, look at that"
+	"205148"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"205148"
+		"m_iname"		"cagedoor1"
 	}
-	"Hold for like uh 12 seconds or somethin"
+	"205217"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"205217"
+		"m_iname"		"cagedoor1_1"
 	}
-	"Wait... hold on... gimme a bit"
+	"205262"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"205262"
+		"m_iname"		"cagedoor2_2"
 	}
-	"10 more seconds i swear"
+	"205265"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"205265"
+		"m_iname"		"cagedoor2"
 	}
-	"Eurrghh oh yes... just a little more"
+	"205484"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"205484"
+		"m_iname"		"cagedoor3_3"
 	}
-	"*pant* *pant* 2D women are the best"
+	"205487"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"205487"
+		"m_iname"		"cagedoor3"
 	}
-	"Wait... not yet.. *pant* 5 more seconds i swear"
+	"201253"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"201253"
+		"m_iname"		"shhh"
 	}
-	"IM BOUTTA NUTT!!"
+	"197440"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197440"
+		"m_iname"		"CENSORED"
 	}
-	"EEEUEURURURGHGHHH"
+	"197493"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197493"
+		"m_iname"		"CENSORED"
 	}
-	"Mmm.. anyways... get goin already"
+	"197523"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197523"
+		"m_iname"		"CENSORED"
 	}
-	"OH AND BEWARE OF SHARKS!!!"
+	"197539"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197539"
+		"m_iname"		"CENSORED"
 	}
-	"Uhhhh hold for like 35 seconds or something"
+	"197549"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197549"
+		"m_iname"		"CENSORED"
 	}
-	"AHHH MY LOLI IMOUTO IS CALLING ME"
+	"197580"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197580"
+		"m_iname"		"CENSORED"
 	}
-	"WE GOTTA GET OUTTA THIS FUCKHOLE"
+	"197592"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197592"
+		"m_iname"		"CENSORED"
 	}
-	"it fucking opened"
+	"197595"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197595"
+		"m_iname"		"CENSORED"
 	}
-	"+++BOSS ROOM CLOSING IN 10 SECONDS+++"
+	"197598"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197598"
+		"m_iname"		"CENSORED"
 	}
-	"+++BOSS FIGHT STARTING IN 5 SECONDS+++"
+	"196083"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"196083"
+		"m_iname"		"CENSORED"
 	}
-	"DEFEND FOR 15 SECONDS FOR SOME HARDCORE PORN"
+	"191949"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"191949"
+		"m_iname"		"uhfuk2"
 	}
-	"Did i say porn? i meant CORN"
+	"191994"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"191994"
+		"m_iname"		"uhfuk3"
 	}
-	"LEVEL 1 COMPLETE"
+	"192000"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"192000"
+		"m_iname"		"uhfuk4"
 	}
-	"MOVING ON TO STAGE 2"
+	"192124"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"192124"
+		"m_iname"		"lv3d1"
 	}
-	"Welcome to Lvl 2 of Onahole"
+	"192224"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"192224"
+		"m_iname"		"lv3shortcut1"
 	}
-	"Oh baby here we go again!"
+	"192250"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"192250"
+		"m_iname"		"lv3d4"
 	}
-	"Remember, traps are good"
+	"192407"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"192407"
+		"m_iname"		"ohsekusu"
 	}
-	"Whether its gay or not is irrelevant in 2k18"
+	"189104"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"189104"
+		"m_iname"		"invisboss2"
 	}
-	"Im straight but yo Astolfos kinda thicc tbh"
+	"186219"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"186219"
+		"m_iname"		"hidden"
 	}
-	"Id do it for the culture"
+	"186300"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"186300"
+		"m_iname"		"hidden2"
 	}
-	"Just dont tell my mom"
+	"175423"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"175423"
+		"m_iname"		"uhfuk"
 	}
-	"DOOR OPENS IN 15 SECONDS"
+	"175460"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"175460"
+		"m_iname"		"fuark"
 	}
-	"EAAARRTTHHH CHAAAAANNN!"
+	"161918"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"161918"
+		"m_iname"		"bill"
 	}
-	"PLEDGE TO PROTECC"
+	"164164"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"164164"
+		"m_iname"		"traps_over_girls"
 	}
-	"Door to the Shrine of Earth-chan opens in 30 seconds"
+	"165480"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"165480"
+		"m_iname"		"pussy_machine_broke"
 	}
-	"Please dont forget to recycle"
+	"136718"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"136718"
+		"m_iname"		"earthchan_wall"
 	}
-	"Do not hurt Earth-chan"
+	"47089"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"47089"
+		"m_iname"		"bossshield"
 	}
-	"Protecc her like your life depends on it"
+	"45366"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"45366"
+		"m_iname"		"exit1"
 	}
-	"Welcome to the Shrine of Earth-chan"
+	"45381"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"45381"
+		"m_iname"		"exit2"
 	}
-	"Enjoy your stay"
+	"43695"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"43695"
+		"m_iname"		"door1"
 	}
-	"And remember, take only pictures and leave only footprints!"
+	"43750"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"43750"
+		"m_iname"		"door2"
 	}
-	"Ahhh... isnt that refreshing?"
+	"43816"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"43816"
+		"m_iname"		"door3"
 	}
-	"Seeing the one and only Earth-chan in her shrine?"
+	"165603"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"165603"
+		"m_iname"		"bossbridge"
 	}
-	"And dont worry..."
+	"251972"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"251972"
+		"m_iname"		"zm_finalbridge2"
 	}
-	"I will allow you to leave whenever you like..."
+	"247271"
 	{
-		"chi"		"** **"
-	}
-	"After you commit to a 30 minute prayer to Earth-chan"
-	{
-		"chi"		"** **"
-	}
-	"Im not kidding btw..."
-	{
-		"chi"		"** **"
-	}
-	"Hold for 30 minutes and ill TP you to the next part"
-	{
-		"chi"		"** **"
-	}
-	"SINNER!"
-	{
-		"chi"		"** **"
-	}
-	"YOU HAVE DEFILED EARTH-CHAN"
-	{
-		"chi"		"** **"
-	}
-	"YOU DO NOT BELONG IN THIS HOLY PLACE"
-	{
-		"chi"		"** **"
-	}
-	"GO TO A SINNERS HALL WHERE YOU BELONG"
-	{
-		"chi"		"** **"
-	}
-	"YOU CUNT"
-	{
-		"chi"		"** **"
-	}
-	"Welcome to.. uh.. idfk tbh"
-	{
-		"chi"		"** **"
-	}
-	"i just kinda felt like putting it here and didnt know what to do with it"
-	{
-		"chi"		"** **"
-	}
-	"Hold for 20 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Mmmm check out these dank memes boi"
-	{
-		"chi"		"** **"
-	}
-	"I might aswell recommend you some hentai while ur here"
-	{
-		"chi"		"** **"
-	}
-	"My personal favourite is Fella Hame Lips"
-	{
-		"chi"		"** **"
-	}
-	"Its a compelling story about a college student who bought a sex robot"
-	{
-		"chi"		"** **"
-	}
-	"Another great one is..."
-	{
-		"chi"		"** **"
-	}
-	"Actually nvm... you never know when the FBI is watching..."
-	{
-		"chi"		"** **"
-	}
-	"OK THE DOOR BROKE, NOW LEAVE U SINNERS"
-	{
-		"chi"		"** **"
-	}
-	"WARNING, TRAPS AHEAD"
-	{
-		"chi"		"** **"
-	}
-	"What a beautiful duwang"
-	{
-		"chi"		"** **"
-	}
-	"lol nice"
-	{
-		"chi"		"** **"
-	}
-	"dooor oopen"
-	{
-		"chi"		"** **"
-	}
-	"Teleporter activating in 20 seconds!!"
-	{
-		"chi"		"** **"
-	}
-	"Uhh"
-	{
-		"chi"		"** **"
-	}
-	"AHH THE TELEPORTER ACTIVATED!! GOOO"
-	{
-		"chi"		"** **"
-	}
-	"Hmm.. ive got a bad feeling about this..."
-	{
-		"chi"		"** **"
-	}
-	"Oh look, a button!"
-	{
-		"chi"		"** **"
-	}
-	"What dreaded horrors lie beyond this door?!?"
-	{
-		"chi"		"** **"
-	}
-	"It seems like itll open in 20 seconds"
-	{
-		"chi"		"** **"
-	}
-	"AAAHHHHH"
-	{
-		"chi"		"** **"
-	}
-	"Next door opens in 10 seconds"
-	{
-		"chi"		"** **"
-	}
-	"door open"
-	{
-		"chi"		"** **"
-	}
-	"I know a lot of you dont like that meme"
-	{
-		"chi"		"** **"
-	}
-	"I promise ill make it up to you in the next room"
-	{
-		"chi"		"** **"
-	}
-	"The door will open in 15 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Heh"
-	{
-		"chi"		"** **"
-	}
-	"If you wanna leave just hit that button over there"
-	{
-		"chi"		"** **"
-	}
-	"Ah, i see..."
-	{
-		"chi"		"** **"
-	}
-	"You wanna leave cause u a bitch, ye?"
-	{
-		"chi"		"** **"
-	}
-	"whatever, the door will open in like 18 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Ok, its open, so leave"
-	{
-		"chi"		"** **"
-	}
-	"BOATS LEAVE IN 15 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"Oh?"
-	{
-		"chi"		"** **"
-	}
-	"This sounds interesting..."
-	{
-		"chi"		"** **"
-	}
-	"DEFEND FOR 10 MORE SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"BOSS FIGHT STARTS IN 5 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"4!!!!!"
-	{
-		"chi"		"** **"
-	}
-	"3!!!!!"
-	{
-		"chi"		"** **"
-	}
-	"2!!!!!"
-	{
-		"chi"		"** **"
-	}
-	"1!!!!!"
-	{
-		"chi"		"** **"
-	}
-	"OOHH BABY YOU BEAT IT"
-	{
-		"chi"		"** **"
-	}
-	"LETS GO BACK TO THE NEKO ROOM NOW"
-	{
-		"chi"		"** **"
-	}
-	"BOATS OUTTA JUICE THO SO U GOTTA SWIM"
-	{
-		"chi"		"** **"
-	}
-	"AAHH WE MADE IT"
-	{
-		"chi"		"** **"
-	}
-	"DONT LET ZOMBIES IN OK!"
-	{
-		"chi"		"** **"
-	}
-	"DEFEND FOR 20 SECONDS!!!!!"
-	{
-		"chi"		"** **"
-	}
-	"OHH BABY YOU DID IT!"
-	{
-		"chi"		"** **"
-	}
-	"LEVEL 2 COMPLETE"
-	{
-		"chi"		"** **"
-	}
-	"MOVING ON TO STAGE 3"
-	{
-		"chi"		"** **"
-	}
-	"Welcome to Lvl 3 of Onahole"
-	{
-		"chi"		"** **"
-	}
-	"+++Onahole TP activating in 15 seconds+++"
-	{
-		"chi"		"** **"
-	}
-	"I kinda want a special type of nut though"
-	{
-		"chi"		"** **"
-	}
-	"Like literally squirrel levels of NUT"
-	{
-		"chi"		"** **"
-	}
-	"... not beastiality tho, i mean squirrels cause they like nuts"
-	{
-		"chi"		"** **"
-	}
-	"JUST HOLD FOR A LIL BIT AND WE CAN GOGOO"
-	{
-		"chi"		"** **"
-	}
-	"OH BBY LETS BREAK INTO THIS BITCH"
-	{
-		"chi"		"** **"
-	}
-	"LETS GOOO"
-	{
-		"chi"		"** **"
-	}
-	"Oh yes, theres nothing better than dialogue in hentai!"
-	{
-		"chi"		"** **"
-	}
-	"oh shit the door opened!"
-	{
-		"chi"		"** **"
-	}
-	"maybe we can find more hentai!"
-	{
-		"chi"		"** **"
-	}
-	"OK OK HOLD FOR LIKE 25 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"Oh yesssss what a beautiful room"
-	{
-		"chi"		"** **"
-	}
-	"The world should all just learn to fap,"
-	{
-		"chi"		"** **"
-	}
-	"IN PERFECT HARMONY"
-	{
-		"chi"		"** **"
-	}
-	"That is how we bring about world peace."
-	{
-		"chi"		"** **"
-	}
-	"Or the realization that everyone is perverted with weird fetishes"
-	{
-		"chi"		"** **"
-	}
-	"Like finding out one of your friends actually likes pineapple on pizza"
-	{
-		"chi"		"** **"
-	}
-	"It could ultimately bring upon the end of the world."
-	{
-		"chi"		"** **"
-	}
-	"AAAA FKIN RUUNN"
-	{
-		"chi"		"** **"
-	}
-	"mmmm daddy hold for 15 more seconds"
-	{
-		"chi"		"** **"
-	}
-	"So many doors but only one of em opens"
-	{
-		"chi"		"** **"
-	}
-	"Any of these doors could open randomly so defend!"
-	{
-		"chi"		"** **"
-	}
-	"OwO whats this?"
-	{
-		"chi"		"** **"
-	}
-	"a closed door and a carpet?!?"
-	{
-		"chi"		"** **"
-	}
-	"WHICH ONE DO WE HUG?!?"
-	{
-		"chi"		"** **"
-	}
-	"That floor is appealing, but it might be dirty!"
-	{
-		"chi"		"** **"
-	}
-	"Soo... i guess that..."
-	{
-		"chi"		"** **"
-	}
-	"ITS ALWAYS THE RIGHT OPTION TO CHOOSE THE DOOR!"
-	{
-		"chi"		"** **"
-	}
-	"DOOR OPENS IN 25 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"*pant pant pant*"
-	{
-		"chi"		"** **"
-	}
-	"it was at this exact moment i realized how much of a degenerate i was"
-	{
-		"chi"		"** **"
-	}
-	"im just kidding, ive known for so long"
-	{
-		"chi"		"** **"
-	}
-	"but i did notice that when i pant its almost like i pant...su"
-	{
-		"chi"		"** **"
-	}
-	"IT OPENED!"
-	{
-		"chi"		"** **"
-	}
-	"THE NEXT DOOR WILL OPEN IN ANOTHER 15"
-	{
-		"chi"		"** **"
-	}
-	"OO BBY LOOK AT ALL THIS SHIT"
-	{
-		"chi"		"** **"
-	}
-	"I wonder what would happen if i step into one of these!??"
-	{
-		"chi"		"** **"
-	}
-	"the answer is nothing, cause idk how to do it"
-	{
-		"chi"		"** **"
-	}
-	"Welcome to the little sex dungeon"
-	{
-		"chi"		"** **"
-	}
-	"OHH BABY IT OPENED!"
-	{
-		"chi"		"** **"
-	}
-	"Wed help you get out of here but..."
-	{
-		"chi"		"** **"
-	}
-	"Were currently stuck in these cages"
-	{
-		"chi"		"** **"
-	}
-	"Cause weve been baaaaad bananaass"
-	{
-		"chi"		"** **"
-	}
-	"Oooo yess one cage broken"
-	{
-		"chi"		"** **"
-	}
-	"Haarderr daddy, 2nd cage broken!"
-	{
-		"chi"		"** **"
-	}
-	"OH YESS ALL THREE ARE OPEN"
-	{
-		"chi"		"** **"
-	}
-	"Choose your reward! We can turn on the TP or..."
-	{
-		"chi"		"** **"
-	}
-	"or you can get the SUCCC"
-	{
-		"chi"		"** **"
-	}
-	"oOoH what? you gotta leave? ok.."
-	{
-		"chi"		"** **"
-	}
-	"The TP will activate in 20 seconds"
-	{
-		"chi"		"** **"
-	}
-	"FINAL DOOR OPENS IN 20 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"IT OPENED"
-	{
-		"chi"		"** **"
-	}
-	"OOO BABY U MADE IT TO THE BOSS"
-	{
-		"chi"		"** **"
-	}
-	"THIS BRIDGE IS GONNA FKIN BREAK IN LIKE 15 SECONDS"
-	{
-		"chi"		"** **"
-	}
-	"SO DEFENDDDDDD"
-	{
-		"chi"		"** **"
-	}
-	"BOSS FIGHT IN 5"
-	{
-		"chi"		"** **"
-	}
-	"***4***"
-	{
-		"chi"		"** **"
-	}
-	"***3***"
-	{
-		"chi"		"** **"
-	}
-	"***2***"
-	{
-		"chi"		"** **"
-	}
-	"***1***"
-	{
-		"chi"		"** **"
-	}
-	"SOMEONE JUST GOT SUCCD INTO ITS VAGENE!!"
-	{
-		"chi"		"** **"
-	}
-	"AAAHH U WON QUICK GO NORTH!!!"
-	{
-		"chi"		"** **"
-	}
-	"GOGOGOGOOOO"
-	{
-		"chi"		"** **"
-	}
-	"DEFEND FOR 25 SECONDS!!!"
-	{
-		"chi"		"** **"
-	}
-	"JUST DEFEND BBY AND YOU CAN WIN!"
-	{
-		"chi"		"** **"
-	}
-	"AAAAA CONGRATS U CUNT U WON"
-	{
-		"chi"		"** **"
-	}
-	"BUT THIS ISNT THE END JUST YET!"
-	{
-		"chi"		"** **"
-	}
-	"FULL VERSION CUMMING SOON WITH EXTREME LVLS, NPCS AND LASERS!!!!!"
-	{
-		"chi"		"** **"
-	}
-	"This place is a holy sanctum for Earth-chan"
-	{
-		"chi"		"** **"
-	}
-	"Sinners who would defile Earth-chan do not belong here"
-	{
-		"chi"		"** **"
-	}
-	"So defend Earth-chan from those zombies for 29 more minutes and 29 seconds"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"ADMIN SET - LEVEL 3"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"247271"
+		"m_iname"		"lvl3_end_bridge"
 	}
 }

@@ -1,122 +1,165 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Map by Airvulpes ***"
+	"334889"
 	{
-		"chi"		"**地图制作：Airvulpes**"
+		"enable"		"1"
+		"hammerid"		"334889"
+		"m_iname"		"2_way_bossiso_break"
 	}
-	"*** Hold 30 seconds ***"
+	"296804"
 	{
-		"chi"		"**坚守30秒 **"
-		"DoorCountDown"		"30"
+		"enable"		"1"
+		"hammerid"		"296804"
+		"m_iname"		"2_boss_target"
 	}
-	"*** 10 seconds left ***"
+	"298271"
 	{
-		"chi"		"**10秒剩余**"
+		"enable"		"1"
+		"hammerid"		"298271"
+		"m_iname"		"2_boss_zombiecage"
 	}
-	"*** Hold 20 seconds ***"
+	"208550"
 	{
-		"chi"		"**坚守20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"1"
+		"hammerid"		"208550"
+		"m_iname"		"3_boss_cage"
 	}
-	"*** 5 seconds left ***"
+	"174758"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"174758"
+		"m_iname"		"3_boss_target"
 	}
-	"*** Hold 25 seconds ***"
+	"733716"
 	{
-		"chi"		"**坚守25秒 **"
-		"DoorCountDown"		"25"
+		"enable"		"1"
+		"hammerid"		"733716"
+		"m_iname"		"2_boss_earthenshield"
 	}
-	"*** ZOMBIE GOT INSIDE THE LIFT ***"
+	"1035732"
 	{
-		"chi"		"**僵尸上了电梯 **"
+		"enable"		"1"
+		"hammerid"		"1035732"
+		"m_iname"		"4_boss_target"
 	}
-	"*** STAGE FAILED ***"
+	"1030238"
 	{
-		"chi"		"**关卡失败 **"
+		"enable"		"1"
+		"hammerid"		"1030238"
+		"m_iname"		"4_way_bossiso_break"
 	}
-	"*** EARTH SHOCK ***"
+	"796969"
 	{
-		"chi"		"**大地践踏（地图左右两边出现刀波，先选择一边跳过去然后再跳另一边的刀） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"796969"
+		"m_iname"		"2_wall2"
 	}
-	"*** CRUSTAL MOVEMENT ***"
+	"797005"
 	{
-		"chi"		"**地壳运动（往山的左右两边跳上去，一直按着跳直到跳过去） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"797005"
+		"m_iname"		"2_wall1"
 	}
-	"*** EARTH STOMP ***"
+	"613348"
 	{
-		"chi"		"**大地震击（看头顶躲避石柱） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"613348"
+		"m_iname"		"1_break5"
 	}
-	"*** EARTHEN SHIELD ***"
+	"613462"
 	{
-		"chi"		"**大地之盾 **"
+		"enable"		"0"
+		"hammerid"		"613462"
+		"m_iname"		"1_break6"
 	}
-	"*** QUAKE ***"
+	"605228"
 	{
-		"chi"		"**地震（开奶一直跳） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"605228"
+		"m_iname"		"1_rockbreak1"
 	}
-	"*** LAND SUBSIDENCE ***"
+	"577499"
 	{
-		"chi"		"**地面沉降（地面随机下降，跑到没有下降的地面） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"577499"
+		"m_iname"		"1_break1"
 	}
-	"*** EARTHQUAKE ***"
+	"577630"
 	{
-		"chi"		"**大地震（BOSS死亡） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"577630"
+		"m_iname"		"1_break2"
 	}
-	"*** doors opens 10 seconds ***"
+	"577644"
 	{
-		"chi"		"**大门10秒后打开 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"577644"
+		"m_iname"		"1_break3"
 	}
-	"*** Door opens 25 seconds ***"
+	"577663"
 	{
-		"chi"		"**大门25秒后打开 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"577663"
+		"m_iname"		"1_break4"
 	}
-	"*** Door opens 35 seconds ***"
+	"577748"
 	{
-		"chi"		"**大门35秒后打开 **"
-		"DoorCountDown"		"35"
+		"enable"		"0"
+		"hammerid"		"577748"
+		"m_iname"		"1_rockbreak2"
 	}
-	"*** ICICLE FALL ***"
+	"590483"
 	{
-		"chi"		"**冰瀑（看头顶找缝隙躲过3次攻击） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"590483"
+		"m_iname"		"earth_wall"
 	}
-	"*** TIDAL WAVE ***"
+	"909713"
 	{
-		"chi"		"**海啸（按住W穿过海啸两次，不要按A,D） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"909713"
+		"m_iname"		"earth_wall2"
 	}
-	"*** FREEZING COFFIN ***"
+	"2307067"
 	{
-		"chi"		"**冰之柩（站到平台中间圆盘位置躲避攻击） **"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"2307067"
+		"m_iname"		"2_boss_target"
 	}
-	"*** BLIZZARD ***"
+	"2937344"
 	{
-		"chi"		"**暴风雪（使用奶神器） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"2937344"
+		"m_iname"		"death_phys"
 	}
-	"*** FROZEN WATER ***"
+	"2937380"
 	{
-		"chi"		"**千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管） **"
-		"DoorCountDown"		"7"
+		"enable"		"0"
+		"hammerid"		"2937380"
+		"m_iname"		"haste_phys"
 	}
-	"*** RISING WATER ***"
+	"2937395"
 	{
-		"chi"		"**水面上升（不用管） **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"2937395"
+		"m_iname"		"curse_phys"
 	}
-	"*** DIAMOND DUST ***"
+	"2312918"
 	{
-		"chi"		"**钻石星尘（跑到四周水下躲避攻击） **"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"2312918"
+		"m_iname"		"3_boss_target"
+	}
+	"590537"
+	{
+		"enable"		"0"
+		"hammerid"		"590537"
+		"m_iname"		"earth_masterwall"
+	}
+	"1895555"
+	{
+		"enable"		"0"
+		"hammerid"		"1895555"
+		"m_iname"		"water_ice"
 	}
 }

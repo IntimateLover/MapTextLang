@@ -1,218 +1,291 @@
-"Console_T"
+"BOSSHP"
 {
-	"***BOAT ROUTE***"
+	"3778054"
 	{
-		"chi"		"**|||||小船路线|||||**"
+		"enable"		"0"
+		"hammerid"		"3778054"
+		"m_iname"		"w_nade_w_phys&2691"
 	}
-	"***OFFICE ROUTE***"
+	"306414"
 	{
-		"chi"		"**|||||办公室路线|||||**"
+		"enable"		"0"
+		"hammerid"		"306414"
+		"m_iname"		"flat_windows_normal"
 	}
-	"***DOORS OPENS IN 30 SECONDS***"
+	"306433"
 	{
-		"chi"		"**门将会在30秒后打开**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"306433"
+		"m_iname"		"flat_windows_normal"
 	}
-	"***DOORS OPENS IN 20 SECONDS***"
+	"8625"
 	{
-		"chi"		"**门将会在20秒后打开**"
+		"enable"		"0"
+		"hammerid"		"8625"
+		"m_iname"		"truck_breakables"
 	}
-	"***DOORS OPENS IN 10 SECONDS***"
+	"8822"
 	{
-		"chi"		"**门将会在10秒后打开**"
+		"enable"		"0"
+		"hammerid"		"8822"
+		"m_iname"		"truck_breakables"
 	}
-	"***DOORS OPENS IN 5 SECONDS***"
+	"60778"
 	{
-		"chi"		"**门将会在5秒后打开**"
+		"enable"		"0"
+		"hammerid"		"60778"
+		"m_iname"		"fence_house_way_sign"
 	}
-	"***FALL BACK***"
+	"84401"
 	{
-		"chi"		"**快跑**"
+		"enable"		"0"
+		"hammerid"		"84401"
+		"m_iname"		"zm_breakables"
 	}
-	"***AFK TELE 10 SECONDS***"
+	"127230"
 	{
-		"chi"		"**挂机者10秒后传送**"
+		"enable"		"0"
+		"hammerid"		"127230"
+		"m_iname"		"zombie_door_house"
 	}
-	"***ELEVATOR ON THE WAY***"
+	"139445"
 	{
-		"chi"		"**电梯正在路上**"
+		"enable"		"0"
+		"hammerid"		"139445"
+		"m_iname"		"zombie_door_office"
 	}
-	"***ELEVATOR IS HERE***"
+	"178253"
 	{
-		"chi"		"**电梯来了**"
+		"enable"		"0"
+		"hammerid"		"178253"
+		"m_iname"		"bridge_blocker"
 	}
-	"***HOLD THE WINDOWS***"
+	"144784"
 	{
-		"chi"		"**守住窗户**"
+		"enable"		"0"
+		"hammerid"		"144784"
+		"m_iname"		"zombie_door_wall"
 	}
-	"***HOLD 20 SECONDS***"
+	"218559"
 	{
-		"chi"		"**坚守20秒**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"218559"
+		"m_iname"		"normal_blocker"
 	}
-	"***Hold 10 seconds***"
+	"227678"
 	{
-		"chi"		"**坚守10秒**"
+		"enable"		"0"
+		"hammerid"		"227678"
+		"m_iname"		"spawn_breakers"
 	}
-	"***HOLD 5 SECONDS***"
+	"227682"
 	{
-		"chi"		"**坚守5秒**"
+		"enable"		"0"
+		"hammerid"		"227682"
+		"m_iname"		"spawn_breakers"
 	}
-	"***TRUCKS LEAVE IN 20 SECONDS***"
+	"227686"
 	{
-		"chi"		"**卡车将会在20秒后离开**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"227686"
+		"m_iname"		"spawn_breakers"
 	}
-	"***TRUCKS LEAVE IN 10 SECONDS***"
+	"227690"
 	{
-		"chi"		"**卡车将会在10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"227690"
+		"m_iname"		"spawn_breakers"
 	}
-	"***HUMANS STAY ON THE BLUE TRUCK***"
+	"237121"
 	{
-		"chi"		"**人类呆在蓝色的卡车上！**"
+		"enable"		"0"
+		"hammerid"		"237121"
+		"m_iname"		"subway_breakable"
 	}
-	"***UNDERGROUND ROUTE***"
+	"262687"
 	{
-		"chi"		"**|||||地铁路线|||||**"
+		"enable"		"0"
+		"hammerid"		"262687"
+		"m_iname"		"zombie_vent1"
 	}
-	"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	"306408"
 	{
-		"chi"		"**需要一位老司机进入通风管道开启道路**"
+		"enable"		"0"
+		"hammerid"		"306408"
+		"m_iname"		"flat_windows_hard"
 	}
-	"***GET TO THE SAFETY OF THE WINCHESTER***"
+	"320398"
 	{
-		"chi"		"**获得了神器：温切斯特（强力击退僵尸）**"
+		"enable"		"0"
+		"hammerid"		"320398"
+		"m_iname"		"wooden_door"
 	}
-	"***COVER THE DOOR***"
+	"389169"
 	{
-		"chi"		"**守到门关**"
+		"enable"		"0"
+		"hammerid"		"389169"
+		"m_iname"		"windows_winchester"
 	}
-	"***ESCAPE ROUTE: ROOFTOP***"
+	"389177"
 	{
-		"chi"		"**逃亡路线：屋顶**"
+		"enable"		"0"
+		"hammerid"		"389177"
+		"m_iname"		"windows_winchester"
 	}
-	"***RESTORE THE POWER***"
+	"478728"
 	{
-		"chi"		"**恢复电源**"
+		"enable"		"0"
+		"hammerid"		"478728"
+		"m_iname"		"road_block_1_breakable"
 	}
-	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	"487540"
 	{
-		"chi"		"**注意后门的僵尸！**"
+		"enable"		"0"
+		"hammerid"		"487540"
+		"m_iname"		"flat_door"
 	}
-	"***FALL BACK UPSTAIRS***"
+	"487562"
 	{
-		"chi"		"**撤退！快上楼！**"
+		"enable"		"0"
+		"hammerid"		"487562"
+		"m_iname"		"flat_gate"
 	}
-	"***ENTER THE SEWERS***"
+	"489037"
 	{
-		"chi"		"**进入下水道**"
+		"enable"		"0"
+		"hammerid"		"489037"
+		"m_iname"		"plank_speeds"
 	}
-	"***FLOOD GATE OPENING***"
+	"489250"
 	{
-		"chi"		"**闸门已经开启**"
+		"enable"		"0"
+		"hammerid"		"489250"
+		"m_iname"		"planks_helps"
 	}
-	"***ELEVATOR LEAVING 15 SECONDS***"
+	"489851"
 	{
-		"chi"		"**电梯将会在15秒后离开**"
-		"DoorCountdown"		"15"
+		"enable"		"0"
+		"hammerid"		"489851"
+		"m_iname"		"surprise!"
 	}
-	"***GET GAS FOR THE BOAT***"
+	"568360"
 	{
-		"chi"		"**给船加油**"
+		"enable"		"0"
+		"hammerid"		"568360"
+		"m_iname"		"celler_cover"
 	}
-	"***LOOK IN THE SUPPLY SHED***"
+	"592403"
 	{
-		"chi"		"**注意供应棚**"
+		"enable"		"0"
+		"hammerid"		"592403"
+		"m_iname"		"celler_cover_indoors"
 	}
-	"***GAS CANS HAVE BEEN COLLECTED***"
+	"600450"
 	{
-		"chi"		"**油加满了**"
+		"enable"		"0"
+		"hammerid"		"600450"
+		"m_iname"		"windows_winchester"
 	}
-	"***RUN BACK TO THE BOAT***"
+	"618767"
 	{
-		"chi"		"**快回到船上**"
+		"enable"		"0"
+		"hammerid"		"618767"
+		"m_iname"		"pub_backexit_breakable"
 	}
-	"***BOAT REFUELING***"
+	"644709"
 	{
-		"chi"		"**船正在加油...**"
+		"enable"		"0"
+		"hammerid"		"644709"
+		"m_iname"		"hard_winchester_door"
 	}
-	"***BOAT LEAVES IN 5 SECONDS!***"
+	"685435"
 	{
-		"chi"		"**船5秒后离开！**"
-		"DoorCountdown"		"5"
+		"enable"		"0"
+		"hammerid"		"685435"
+		"m_iname"		"track_blocking_breakable"
 	}
-	"***ZOMBIES TAKE THE BRIDGE***"
+	"695169"
 	{
-		"chi"		"**僵尸拿下了桥！**"
+		"enable"		"0"
+		"hammerid"		"695169"
+		"m_iname"		"NO_kitty"
 	}
-	"***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	"695493"
 	{
-		"chi"		"**需要一位老司机去激活大门**"
+		"enable"		"0"
+		"hammerid"		"695493"
+		"m_iname"		"zombie_blocker_trap"
 	}
-	"***LOCK GATE 1 OPEING***"
+	"805990"
 	{
-		"chi"		"**开启一号大门**"
+		"enable"		"0"
+		"hammerid"		"805990"
+		"m_iname"		"safety"
 	}
-	"***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	"954587"
 	{
-		"chi"		"**需要一位老司机去提高水位**"
+		"enable"		"0"
+		"hammerid"		"954587"
+		"m_iname"		"wood_blockade"
 	}
-	"***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	"989917"
 	{
-		"chi"		"**从管道进入控制室**"
+		"enable"		"0"
+		"hammerid"		"989917"
+		"m_iname"		"stand"
 	}
-	"***GET OUT OF THE BOAT AND HOLD!***"
+	"1079859"
 	{
-		"chi"		"**离开船并防守住僵尸！**"
+		"enable"		"0"
+		"hammerid"		"1079859"
+		"m_iname"		"river_blocker"
 	}
-	"***TRY TO HOLD THE BOXES***"
+	"1209144"
 	{
-		"chi"		"**在箱子后面坚守！**"
+		"enable"		"0"
+		"hammerid"		"1209144"
+		"m_iname"		"lift_guard"
 	}
-	"***WATER LEVELS RISING***"
+	"1209298"
 	{
-		"chi"		"**水位正在上升**"
+		"enable"		"0"
+		"hammerid"		"1209298"
+		"m_iname"		"t_way_underground"
 	}
-	"***LOCK GATE 2 OPEING***"
+	"1219898"
 	{
-		"chi"		"**开启二号大门**"
+		"enable"		"0"
+		"hammerid"		"1219898"
+		"m_iname"		"planks_help_sewer"
 	}
-	"***DOOR OPENS IN 10 SECONDS***"
+	"1220309"
 	{
-		"chi"		"**门将会在10秒后开启**"
-		"DoorCountdown"		"10"
+		"enable"		"0"
+		"hammerid"		"1220309"
+		"m_iname"		"ladder_blocker"
 	}
-	"***DOOR OPENS IN 5 SECONDS***"
+	"1220325"
 	{
-		"chi"		"**门将会在5秒后开启**"
+		"enable"		"0"
+		"hammerid"		"1220325"
+		"m_iname"		"trainline_blocker"
 	}
-	"***ESCAPE ROUTE: CELLAR***"
+	"60684"
 	{
-		"chi"		"**逃亡路线：地窖（吧台）**"
+		"enable"		"0"
+		"hammerid"		"60684"
+		"m_iname"		"fence_boat_way_sign"
 	}
-	"***FALL BACK BEHIND THE BAR***"
+	"237092"
 	{
-		"chi"		"**快撤退进吧台！（僵尸无法跳进，请防守小路）**"
+		"enable"		"0"
+		"hammerid"		"237092"
+		"m_iname"		"bridge_fence"
 	}
-	"***WAIT FOR HATCH TO OPEN***"
+	"1220357"
 	{
-		"chi"		"**守到门开！**"
-	}
-	"***HATCH IS OPEN FALL BACK***"
-	{
-		"chi"		"**门开了，快跑！**"
-	}
-	"***LIFT LEAVING IN 15 SECONDS***"
-	{
-		"chi"		"**电梯15秒后离开**"
-		"DoorCountdown"		"15"
-	}
-	"***LIFT LEAVING IN 5 SECONDS***"
-	{
-		"chi"		"**电梯5秒后离开**"
-	}
-	"***SHOTGUN OUT OF AMMO***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1220357"
+		"m_iname"		"sewer_blocker_blocker"
 	}
 }
