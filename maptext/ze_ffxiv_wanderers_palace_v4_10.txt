@@ -165,12 +165,12 @@
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"**热离子光束（远离脚下的红色区域）**"
+		"chi"		"**热离子光束**"
 		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"
 	{
-		"chi"		"**天堂陨落（看天上不要被砸到）**"
+		"chi"		"**天堂陨落**"
 		"ico"		"icon_fire"
 	}
 	"*** Cauterize***"
@@ -180,7 +180,7 @@
 	}
 	"*** Flare ***"
 	{
-		"chi"		"**火（往右边走跳上箱子）**"
+		"chi"		"**火**"
 		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
@@ -323,12 +323,12 @@
 	}
 	"***Heavens Fall***"
 	{
-		"chi"		"**天堂陨落（看天上不要被砸到）**"
+		"chi"		"**天堂陨落**"
 		"ico"		"icon_fire"
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**地震（看前面不要被撞到）**"
+		"chi"		"**地震**"
 		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime dead***"
@@ -429,7 +429,7 @@
 	}
 	"*** Shadow Flare ***"
 	{
-		"chi"		"**电（蹲下）**"
+		"chi"		"**电**"
 		"ico"		"icon_fire"
 	}
 	"*** Cauterize ***"
@@ -448,7 +448,7 @@
 	}
 	"*** True Heavens fall ***"
 	{
-		"chi"		"**真天堂陨落（看天上不要被砸到）**"
+		"chi"		"**真天堂陨落**"
 		"ico"		"icon_fire"
 	}
 	"*** Steam Judge ***"
@@ -532,7 +532,7 @@
 	}
 	"*** Ultimate Heavens fall ***"
 	{
-		"chi"		"**极天堂陨落（看天上不要被砸到）**"
+		"chi"		"**极天堂陨落**"
 		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
