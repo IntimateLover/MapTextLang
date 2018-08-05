@@ -1,511 +1,399 @@
-"Console_T"
+"BOSSHP"
 {
-	"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
+	"3644"
 	{
-		"chi"		"**地图作者：Hannibal[SPA] (Rafuron) **"
+		"enable"		"1"
+		"hammerid"		"3644"
+		"m_iname"		"bahamutend"
 	}
-	"** Server settings initialized **"
+	"787446"
 	{
-		"chi"		"**初始化服务器设置 **"
+		"enable"		"0"
+		"hammerid"		"787446"
+		"m_iname"		"rocas"
 	}
-	"** Tips and Adjustements: Maese Danielot **"
+	"787449"
 	{
-		"chi"		"**提示和修正：Maese Danielot **"
+		"enable"		"0"
+		"hammerid"		"787449"
+		"m_iname"		"rocas"
 	}
-	"** Optimization and Helping: Kaemon **"
+	"787452"
 	{
-		"chi"		"**优化和帮助：Kaemon **"
+		"enable"		"0"
+		"hammerid"		"787452"
+		"m_iname"		"rocas"
 	}
-	"**CURRENT DIFFICULTY ** >> NORMAL << **"
+	"787455"
 	{
-		"chi"		"**当前难度:普通**"
+		"enable"		"0"
+		"hammerid"		"787455"
+		"m_iname"		"rocas"
 	}
-	"*** MATERIAS AT LVL 1 ***"
+	"787458"
 	{
-		"chi"		"**地图元素等级：LV1**"
+		"enable"		"0"
+		"hammerid"		"787458"
+		"m_iname"		"rocas"
 	}
-	"**Door opening in 10 seconds**"
+	"787461"
 	{
-		"chi"		"**中门将在10S后打开！**"
+		"enable"		"0"
+		"hammerid"		"787461"
+		"m_iname"		"rocas"
 	}
-	"**Superior door opening in 30 seconds**"
+	"2192"
 	{
-		"chi"		"**大门将在30S后开启**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"2192"
+		"m_iname"		"monstruo_fisico"
 	}
-	"** DOOR OPENS IN 5 s **"
+	"2644"
 	{
-		"chi"		"**大门将在5S后打开（神器准备使用）**"
+		"enable"		"0"
+		"hammerid"		"2644"
+		"m_iname"		"piedra3"
 	}
-	"** A player has adquired WIND MATERIA **"
+	"2653"
 	{
-		"chi"		"**一位玩家拾起了风元素**"
+		"enable"		"0"
+		"hammerid"		"2653"
+		"m_iname"		"piedra4"
 	}
-	"** A player has adquired EARTH MATERIA **"
+	"2662"
 	{
-		"chi"		"**一位玩家拾起了土元素**"
+		"enable"		"0"
+		"hammerid"		"2662"
+		"m_iname"		"piedra2"
 	}
-	"**Door is opening in 10 seconds**"
+	"2669"
 	{
-		"chi"		"**门将于10秒后打开**"
+		"enable"		"0"
+		"hammerid"		"2669"
+		"m_iname"		"piedra5"
 	}
-	"**Door is opening in 5**"
+	"2693"
 	{
-		"chi"		"**门将于5秒后打开**"
+		"enable"		"0"
+		"hammerid"		"2693"
+		"m_iname"		"piedra1"
 	}
-	"**Door is open**"
+	"3205"
 	{
-		"chi"		"**门已打开**"
+		"enable"		"0"
+		"hammerid"		"3205"
+		"m_iname"		"rompeme2"
 	}
-	"**Elevator is leaving in 10s**"
+	"3430"
 	{
-		"chi"		"**电梯将在10S后离开**"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"3430"
+		"m_iname"		"cartel"
 	}
-	"** A player has adquired GRAVITY MATERIA **"
+	"3433"
 	{
-		"chi"		"**一位玩家拾起了黑洞元素**"
+		"enable"		"0"
+		"hammerid"		"3433"
+		"m_iname"		"cartel"
 	}
-	"** A player has adquired ICE MATERIA **"
+	"3436"
 	{
-		"chi"		"**一位玩家拾起了冰元素**"
+		"enable"		"0"
+		"hammerid"		"3436"
+		"m_iname"		"cartel"
 	}
-	"** A player has adquired HEAL MATERIA **"
+	"3438"
 	{
-		"chi"		"**一位玩家拾起了奶元素**"
+		"enable"		"0"
+		"hammerid"		"3438"
+		"m_iname"		"cartel"
 	}
-	"** We have reached the core  ...**"
+	"442818"
 	{
-		"chi"		"**我们已到达魔光炉**距BOSS到来前还剩25秒**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"442818"
+		"m_iname"		"pieza_b1"
 	}
-	"** ... Cloud is planting the bomb **"
+	"455436"
 	{
-		"chi"		"**克劳德正在安放炸弹**"
+		"enable"		"0"
+		"hammerid"		"455436"
+		"m_iname"		"tuberia2"
 	}
-	"** Bomb has been planted  **  Run **"
+	"442896"
 	{
-		"chi"		"**炸弹已安装完毕-原路返回**"
+		"enable"		"0"
+		"hammerid"		"442896"
+		"m_iname"		"pieza_b2"
 	}
-	"**Keep shooting ! We dont know what it can do **"
+	"442900"
 	{
-		"chi"		"**BOSS已到来-杀了它**"
+		"enable"		"0"
+		"hammerid"		"442900"
+		"m_iname"		"pieza_b2"
 	}
-	"** The monster is going to attack ! **"
+	"503736"
 	{
-		"chi"		"**BOSS发起了攻击**"
+		"enable"		"0"
+		"hammerid"		"503736"
+		"m_iname"		"Monstruo_Breakable"
 	}
-	"**Its dead ** Go go! Run upstairs ! **"
+	"1599"
 	{
-		"chi"		"**BOSS已死亡-原路返回**"
+		"enable"		"0"
+		"hammerid"		"1599"
+		"m_iname"		"sing_b"
 	}
-	"** EXPLOSION IN 145 SECONDS **"
+	"3276"
 	{
-		"chi"		"**警告：炸弹将于145秒后爆炸**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3276"
+		"m_iname"		"glassT"
 	}
-	"**  110 SECONDS LEFT **"
+	"2353811"
 	{
-		"chi"		"**警告：还剩110秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"2353811"
+		"m_iname"		"medio_breakable"
 	}
-	"**  100 SECONDS LEFT **"
+	"1617"
 	{
-		"chi"		"**警告：还剩100秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"1617"
+		"m_iname"		"VillaDockSupriseSound"
 	}
-	"**  90 SECONDS LEFT **"
+	"1964"
 	{
-		"chi"		"**警告：还剩90秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"1964"
+		"m_iname"		"trap"
 	}
-	"**  80 SECONDS LEFT **"
+	"1966"
 	{
-		"chi"		"**警告：还剩80秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"1966"
+		"m_iname"		"trampilla"
 	}
-	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	"2500"
 	{
-		"chi"		"**大门将在35S后打开-控制室有提前开门的方法，找到它**"
-		"DoorCountDown"		"35"
+		"enable"		"0"
+		"hammerid"		"2500"
+		"m_iname"		"puerta_3"
 	}
-	"**  70 SECONDS LEFT **"
+	"2789"
 	{
-		"chi"		"**警告：还剩70秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"2789"
+		"m_iname"		"cortefatal"
 	}
-	"** Well done! Door is opening in 10 seconds **"
+	"2859"
 	{
-		"chi"		"**干得漂亮-大门将在10S后开启**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"2859"
+		"m_iname"		"rampas"
 	}
-	"**  60 SECONDS LEFT **"
+	"2906"
 	{
-		"chi"		"**警告：还剩60秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"2906"
+		"m_iname"		"puertaxx2"
 	}
-	"**  50 SECONDS LEFT **"
+	"2922"
 	{
-		"chi"		"**警告：还剩50秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"2922"
+		"m_iname"		"medio_breakable"
 	}
-	"**  40 SECONDS LEFT **"
+	"3107"
 	{
-		"chi"		"**警告：还剩40秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3107"
+		"m_iname"		"vent"
 	}
-	"**  30 SECONDS LEFT **"
+	"3233"
 	{
-		"chi"		"**警告：还剩30秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3233"
+		"m_iname"		"pared_ex2"
 	}
-	"**  20 SECONDS LEFT **"
+	"3236"
 	{
-		"chi"		"**警告：还剩20秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3236"
+		"m_iname"		"WarehouseTop"
 	}
-	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
+	"3297"
 	{
-		"chi"		"**恭喜-普通模式已通过**"
+		"enable"		"0"
+		"hammerid"		"3297"
+		"m_iname"		"valvula"
 	}
-	"**CURRENT DIFFICULTY ** >> HARD << **"
+	"3304"
 	{
-		"chi"		"**当前难度：困难**"
+		"enable"		"0"
+		"hammerid"		"3304"
+		"m_iname"		"cristales"
 	}
-	"*** MATERIAS AT LVL 2 ***"
+	"3375"
 	{
-		"chi"		"**地图元素等级：LV2**"
+		"enable"		"0"
+		"hammerid"		"3375"
+		"m_iname"		"barrerasfinal2"
 	}
-	"** A player has adquired ULTIMA MATERIA **"
+	"3420"
 	{
-		"chi"		"**一位玩家拾起了终极元素**"
+		"enable"		"0"
+		"hammerid"		"3420"
+		"m_iname"		"pared_ex2"
 	}
-	"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
+	"3449"
 	{
-		"chi"		"**提示:手雷可以造成大量伤害**"
+		"enable"		"0"
+		"hammerid"		"3449"
+		"m_iname"		"cine"
 	}
-	"** Dont stop shooting ! Dont let him attack !"
+	"3555"
 	{
-		"chi"		"**保持火力-不要让他攻击**"
+		"enable"		"0"
+		"hammerid"		"3555"
+		"m_iname"		"tuberia"
 	}
-	"** Bahamut is in attack position ** Keep firing !! **"
+	"37933"
 	{
-		"chi"		"**巴哈姆特即将发起攻击-射击！**"
+		"enable"		"0"
+		"hammerid"		"37933"
+		"m_iname"		"romper"
 	}
-	"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
+	"3557"
 	{
-		"chi"		"**巴哈姆特已受伤-原路返回**"
+		"enable"		"0"
+		"hammerid"		"3557"
+		"m_iname"		"muro"
 	}
-	"** EXPLOSION IN 120 SECONDS **"
+	"345831"
 	{
-		"chi"		"**警告：炸弹将于120秒后爆炸**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"345831"
+		"m_iname"		"medio_breakable"
 	}
-	"**  10 SECONDS LEFT **"
+	"532321"
 	{
-		"chi"		"**警告：还剩10秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"532321"
+		"m_iname"		"verja_tren"
 	}
-	"** Run! **"
+	"615454"
 	{
-		"chi"		"**快跑！！！快跑！！！**"
+		"enable"		"0"
+		"hammerid"		"615454"
+		"m_iname"		"escal2"
 	}
-	"** A player has adquired ELECTRO MATERIA **"
+	"2544362"
 	{
-		"chi"		"**一位玩家拾起了电元素**"
+		"enable"		"0"
+		"hammerid"		"2544362"
+		"m_iname"		"cowbell2"
 	}
-	"**Nice done! You interrumped Sephiroth s attack**"
+	"3698"
 	{
-		"chi"		"**干得漂亮-你粉碎了萨菲罗斯的阴谋**"
+		"enable"		"0"
+		"hammerid"		"3698"
+		"m_iname"		"cowbell2"
 	}
-	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **"
+	"3703"
 	{
-		"chi"		"**恭喜-困难模式已通过**"
+		"enable"		"0"
+		"hammerid"		"3703"
+		"m_iname"		"cowbell2"
 	}
-	"**CURRENT DIFFICULTY ** >> EXTREME << **"
+	"3705"
 	{
-		"chi"		"**当前难度：极限**"
+		"enable"		"0"
+		"hammerid"		"3705"
+		"m_iname"		"cowbell2"
 	}
-	"*** MATERIAS AT LVL 3 ***"
+	"3709"
 	{
-		"chi"		"**地图元素等级：LV3**"
+		"enable"		"0"
+		"hammerid"		"3709"
+		"m_iname"		"cowbell2"
 	}
-	"** A player has adquired FIRE MATERIA **"
+	"3711"
 	{
-		"chi"		"**一位玩家拾起了火元素**"
+		"enable"		"0"
+		"hammerid"		"3711"
+		"m_iname"		"cowbell2"
 	}
-	"** Door is opening in 7 seconds **"
+	"3729"
 	{
-		"chi"		"**舞台门将在7S后打开**"
+		"enable"		"0"
+		"hammerid"		"3729"
+		"m_iname"		"cowbell2"
 	}
-	"** EXPLOSION IN 130 SECONDS **"
+	"3731"
 	{
-		"chi"		"**警告：炸弹将于130秒后爆炸**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3731"
+		"m_iname"		"cowbell2"
 	}
-	"**  120 SECONDS LEFT **"
+	"3733"
 	{
-		"chi"		"**警告：还剩120秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3733"
+		"m_iname"		"cowbell2"
 	}
-	"** 30 seconds left **"
+	"3735"
 	{
-		"chi"		"**警告：还剩30秒**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"3735"
+		"m_iname"		"cowbell2"
 	}
-	"** 20 seconds left **"
+	"3737"
 	{
-		"chi"		"**警告：还剩20秒**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"3737"
+		"m_iname"		"cowbell2"
 	}
-	"** 10 seconds left **"
+	"3742"
 	{
-		"chi"		"**警告：还剩10秒**"
+		"enable"		"0"
+		"hammerid"		"3742"
+		"m_iname"		"cowbell2"
 	}
-	"** ZOMBIES HAVE INFECTED THE BUNKER **"
+	"3744"
 	{
-		"chi"		"**僵尸已逃脱-你输了**"
+		"enable"		"0"
+		"hammerid"		"3744"
+		"m_iname"		"cowbell2"
 	}
-	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! **"
+	"3746"
 	{
-		"chi"		"**恭喜-极限模式已通过**"
+		"enable"		"0"
+		"hammerid"		"3746"
+		"m_iname"		"cowbell2"
 	}
-	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+	"750574"
 	{
-		"chi"		"**当前难度：极限II**"
+		"enable"		"0"
+		"hammerid"		"750574"
+		"m_iname"		"cowbell2"
 	}
-	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
+	"3739"
 	{
-		"chi"		"**由于难度原因，视觉效果已经开启，控制台输入mat_colorcorrection 0关闭效果**"
+		"enable"		"0"
+		"hammerid"		"3739"
+		"m_iname"		"cowbell2ill"
 	}
-	"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
+	"3666"
 	{
-		"chi"		"**巴哈姆特正在蓄力！保护你自己！！！**"
+		"enable"		"0"
+		"hammerid"		"3666"
+		"m_iname"		"bahamutend1"
 	}
-	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
+	"3749"
 	{
-		"chi"		"**警告：巴哈姆特将在20秒后释放红终-准备使用奶神器**"
-		"DoorCountDown"		"20"
-	}
-	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
-	{
-		"chi"		"**巴哈姆特已死亡-原路返回**"
-	}
-	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
-	{
-		"chi"		"**恭喜-你已征服本神图**"
-	}
-	"** MAP COMPLETED  ** ZM ROUNDS **"
-	{
-		"chi"		"**地图通关-下一关将会是僵尸感染模式**"
-	}
-	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
-	{
-		"chi"		"**僵尸感染-注意，不要按照正常的路线走**"
-	}
-	"** HUMAN VICTORY IN 4 MINUTES **"
-	{
-		"chi"		"**4 MINUTES后核爆！！！**"
-		"DoorCountDown"		"240"
-	}
-	"** HUMAN VICTORY IN 3 MINUTES **"
-	{
-		"chi"		"**3 MINUTES后核爆！！！**"
-	}
-	"** HUMAN VICTORY IN 2 MINUTES **"
-	{
-		"chi"		"**2 MINUTES后核爆！！！**"
-	}
-	"** HUMAN VICTORY IN 1 MINUTES **"
-	{
-		"chi"		"**1 MINUTES后核爆！！！**"
-	}
-	"** HUMAN VICTORY IN 20 SECONDS **"
-	{
-		"chi"		"**20 SECONDS后核爆！！！**"
-	}
-	"** ADMIN PRESSED KILL ALL BUTTON **"
-	{
-		"chi"		"**管理员按下KILL ALL按钮**"
-	}
-	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
-	{
-		"chi"		"**警告：巴哈姆特想要杀了我们**"
-	}
-	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
-	{
-		"chi"		"**警告：巴哈姆特使用了治疗**"
-	}
-	"** BAHAMUT HAS CAST FIRE! **"
-	{
-		"chi"		"**警告：巴哈姆特使用了火焰（往后退）**"
-	}
-	"** BAHAMUT HAS CAST ELECTRO! **"
-	{
-		"chi"		"**警告：巴哈姆特使用了电（跳上栏杆）**"
-	}
-	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
-	{
-		"chi"		"**警告：巴哈姆特将在7秒后毁灭我们**"
-		"DoorCountDown"		"7"
-	}
-	"** BAHAMUT HAS CAST WIND **"
-	{
-		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
-	}
-	"** BAHAMUT HAS CAST GRAVITY **"
-	{
-		"chi"		"**警告：巴哈姆特使用了黑洞（按住S后退）**"
-	}
-	"** BAHAMUT HAS CAST ICE **"
-	{
-		"chi"		"**警告：巴哈姆特使用了冰**"
-	}
-	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
-	{
-		"chi"		"**警告：巴哈姆特使用了土（集火打碎）**"
-	}
-	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
-	{
-		"chi"		"**警告：终极将在10S后爆炸（快丢雷）**"
-	}
-	"** 3 COWBELLS LEFT! **"
-	{
-		"chi"		"** **"
-	}
-	"** 2 COWBELLS LEFT! **"
-	{
-		"chi"		"** **"
-	}
-	"** 1 COWBELLS LEFT!!! **"
-	{
-		"chi"		"** **"
-	}
-	"** NO MORE COWBELL BONUS **"
-	{
-		"chi"		"** **"
-	}
-	"** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
-	{
-		"chi"		"**所有彩蛋已被打碎-巴哈姆特不会释放小型技能**"
-	}
-	"WARNING! BAHAMUT IS CASTING ULTIMA ** SHOOT HIM BEFORE HE KILL US ALL!!! **"
-	{
-		"chi"		"**警告：巴哈姆特释放了红终-在他把我们杀掉之前杀死他**"
-	}
-	"** Superior Door Is Locked ** Find Another Way To Go **"
-	{
-		"chi"		"**大门已锁-尝试找到另一条路**"
-	}
-	"** Side DOOR OPENS IN 10 s **"
-	{
-		"chi"		"**侧门10秒后打开**"
-		"DoorCountDown"		"10"
-	}
-	"**Bahamut has escaped ! ** Go Go! **"
-	{
-		"chi"		"**巴哈姆特已死亡-快跑**"
-	}
-	"** Elevator Is Running Out A Problem! ** Find Another Way To Go **"
-	{
-		"chi"		"**电梯似乎被人动过手脚-找一找有没有其他的路**"
-	}
-	"** Human Will Ignore Fall Damage In 30 Seconds **"
-	{
-		"chi"		"**人类将免疫30秒的摔落伤害**"
-		"DoorCountDown"		"30"
-	}
-	"** A player has adquired Mini HEAL MATERIA **"
-	{
-		"chi"		"**一位玩家拿起了小奶**"
-	}
-	"**No Fake Laser & High Laser Can Not Crouchjump Over it**"
-	{
-		"chi"		"**注意：本局没有假刀-高刀不能大跳**"
-		"DoorCountDown"		"-1"
-	}
-	"WARNING! BAHAMUT IS CASTING ULTIMA ** INTERRUPT HIM BEFORE HE KILL US ALL!!! **"
-	{
-		"chi"		"**警告:巴哈姆特正在使用终极魔法-在它把我们杀掉前杀掉它**"
-	}
-	"**Elevator Is Running Out A Problem! ** Hold Until We Find A Way To Go**"
-	{
-		"chi"		"**警告：电梯受不明影响无法使用-在我们找到另一条路前守住**"
-	}
-	"** Stay Away From The Elevator! **"
-	{
-		"chi"		"**远离电梯**"
-	}
-	"** Human Will Ignore Fall Damage In 12 Seconds! **"
-	{
-		"chi"		"**人类将免疫12秒的摔落伤害**"
-		"DoorCountDown"		"12"
-	}
-	"** CURRENT DIFFICULTY ** >> EXTREME III << **"
-	{
-		"chi"		"** **"
-	}
-	"** HELLZ VERSION **"
-	{
-		"chi"		"** **"
-	}
-	"** DOOR OPENS IN 35 S **"
-	{
-		"chi"		"**最后大门将于35秒后打开**"
-	}
-	"** Go to the control room and try to open it earlier **"
-	{
-		"chi"		"** **"
-	}
-	"** CURRENT DIFFICULTY ** >> EXTREME II SPECIAL << **"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"zr_infect_spawntime_min 30"
-		}
-		"1"
-		{
-			"cvar"		"zr_infect_spawntime_max 30"
-		}
-		"2"
-		{
-			"cvar"		"sm_zeusweapons_smoke 0"
-		}
-		"3"
-		{
-			"cvar"		"sm_zeusweapons_decoy 0"
-		}
-		"4"
-		{
-			"cvar"		"sm_molotov_limit 0"
-		}
-	}
-	"**No Fake Laser & High Laser Cant Crouchjump Over it**"
-	{
-		"chi"		"** **"
-	}
-	"** C4 Planted - Hold 8 seconds **"
-	{
-		"chi"		"**C4已安放-守住8秒钟**"
-	}
-	"** BAHAMUT HAS HEALED 600 HIT POINTS**"
-	{
-		"chi"		"** **"
-	}
-	"** BAHAMUT IS DEFEATED ** KEEP RUNNING **"
-	{
-		"chi"		"** **"
-	}
-	"** ONLY HEAL AND ULTIMA AVAILABLE AT CORE **"
-	{
-		"chi"		"** **"
-	}
-	"** SPECIAL LASERS AT THE END **"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"3749"
+		"m_iname"		"barrera33"
 	}
 }

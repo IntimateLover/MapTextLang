@@ -1,170 +1,147 @@
-"Console_T"
+"BOSSHP"
 {
-	"Map made by LuffarenPer30010"
+	"37054"
 	{
-		"chi"		"**地图制作：LuffarenPer30010  地图翻译：蓬莱山帅比♪**"
+		"enable"		"0"
+		"hammerid"		"37054"
+		"m_iname"		"phys_1"
 	}
-	"*** Door opens in 15 seconds ***"
+	"37057"
 	{
-		"chi"		"**门15秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"37057"
+		"m_iname"		"phys_1"
 	}
-	"--- RESIST 15 SECONDS ---"
+	"37060"
 	{
-		"chi"		"**---守住15秒--- **"
+		"enable"		"0"
+		"hammerid"		"37060"
+		"m_iname"		"phys_1"
 	}
-	"--- TRAM LEAVES IN 10 SECONDS ---"
+	"37063"
 	{
-		"chi"		"**---电车在10秒钟后离开 **"
+		"enable"		"0"
+		"hammerid"		"37063"
+		"m_iname"		"phys_1"
 	}
-	"*** Resist 20 seconds in the poolroom ***"
+	"37066"
 	{
-		"chi"		"**在蓄水室守住20秒 **"
-		"DoorCountDown" "20"
+		"enable"		"0"
+		"hammerid"		"37066"
+		"m_iname"		"phys_1"
 	}
-	"*** Run to the controlroom and press the button ***"
+	"37069"
 	{
-		"chi"		"**跑到控制室并按下按钮 **"
+		"enable"		"0"
+		"hammerid"		"37069"
+		"m_iname"		"phys_1"
 	}
-	"*** Find a spot and resist for 30 seconds ***"
+	"37022"
 	{
-		"chi"		"**找到一个地方，守住30秒 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"37022"
+		"m_iname"		"phys_1"
 	}
-	"*** 5 seconds untill radio scrambler collapses ***"
+	"37016"
 	{
-		"chi"		"**守住5秒直到广播扰频器崩溃 **"
+		"enable"		"0"
+		"hammerid"		"37016"
+		"m_iname"		"phys_1"
 	}
-	"*** The zombies are trapped for 15 seconds ***"
+	"37028"
 	{
-		"chi"		"**僵尸被困住15秒 **"
+		"enable"		"0"
+		"hammerid"		"37028"
+		"m_iname"		"phys_1"
 	}
-	"*** MOVE IT! ***"
+	"36990"
 	{
-		"chi"		"**移动它! **"
+		"enable"		"0"
+		"hammerid"		"36990"
+		"m_iname"		"phys_1"
 	}
-	"*** RESIST 20 SECONDS ***"
+	"37004"
 	{
-	        "chi"		"**守住20秒 **"
-	        "DoorCountDown" "20"
+		"enable"		"0"
+		"hammerid"		"37004"
+		"m_iname"		"phys_1"
 	}
-	"*** RESIST 15 SECONDS ***"
+	"37010"
 	{
-		"chi"		"**守住15秒 **"
-		"DoorCountDown" "15"
+		"enable"		"0"
+		"hammerid"		"37010"
+		"m_iname"		"phys_1"
 	}
-	"*** Opening cargo elevator door ***"
+	"712626"
 	{
-		"chi"		"**打开货舱门 **"
+		"enable"		"0"
+		"hammerid"		"712626"
+		"m_iname"		"phys_2"
 	}
-	"*** Humans are recommended to stay in the elevator***"
+	"36790"
 	{
-		"chi"		"**建议人类待在电梯里 **"
-		"ico"   "icon_alert"
+		"enable"		"0"
+		"hammerid"		"36790"
+		"m_iname"		"break_1"
 	}
-	"*** Contacting HQ ***"
+	"97821"
 	{
-		"chi"		"**联系总部 **"
+		"enable"		"0"
+		"hammerid"		"97821"
+		"m_iname"		"break_2"
 	}
-	"*** A helicopter is waiting at the helipad ***"
+	"102340"
 	{
-		"chi"		"**一架直升机在停机坪等待 **"
+		"enable"		"0"
+		"hammerid"		"102340"
+		"m_iname"		"break_2"
 	}
-	"*** GET TO THE CHOPPER! ***"
+	"119183"
 	{
-		"chi"		"**到达直升机！ **"
+		"enable"		"0"
+		"hammerid"		"119183"
+		"m_iname"		"shaft_break_1"
 	}
-	"*** HQ will send a nuke at your position ***"
+	"119544"
 	{
-		"chi"		"**总部将在你的位置发送核弹 **"
+		"enable"		"0"
+		"hammerid"		"119544"
+		"m_iname"		"shaft_break_2"
 	}
-	"*** Get away from there A.S.A.P ***"
+	"739346"
 	{
-		"chi"		"**从那里脱身A.S.A.P **"
+		"enable"		"0"
+		"hammerid"		"739346"
+		"m_iname"		"break_7"
 	}
-	"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
+	"739708"
 	{
-		"chi"		"**直升机70秒后离开 **"
-		"DoorCountDown" "70"
+		"enable"		"0"
+		"hammerid"		"739708"
+		"m_iname"		"break_8"
 	}
-	"*** THIS IS OUR FINAL STAND ***"
+	"739843"
 	{
-		"chi"		"**这是我们的最后一站 **"
+		"enable"		"0"
+		"hammerid"		"739843"
+		"m_iname"		"break_9"
 	}
-	"*** RESIST OR DIE ***"
+	"227068"
 	{
-		"chi"		"**守住或者死亡 **"
+		"enable"		"0"
+		"hammerid"		"227068"
+		"m_iname"		"break_3"
 	}
-	"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
+	"277563"
 	{
-		"chi"		"**直升机10秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"277563"
+		"m_iname"		"break_4"
 	}
-	"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	"712651"
 	{
-		"chi"		"**---电梯1  10秒后离开--- **"
-	}
-	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
-	{
-		"chi"		"**门在30秒后打开 **"
-		"DoorCountDown" "30"
-	}
-	"*** Nuke inbound ***"
-	{
-		"chi"		"**核武器入境 **"
-	}
-	"*** 10 seconds untill explosion ***"
-	{
-		"chi"		"**10秒后爆炸 **"
-	}
-	"*** Door opens in 18 seconds ***"
-	{
-		"chi"		"**门18秒后打开 **"
-	}
-	"***UNDERGROUND ROUTE***"
-	{
-		"chi"		"**地铁路线 **"
-	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"**难度：正常 **"
-	}
-	"MAP BY: TaskuVaras"
-	{
-		"chi"		"**区域地图：TaskuVaras **"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"**地图由Eugenio *Motanum* Roman 制作**"
-	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"**在eugenio.motanum91或gmail.com联系我 **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"**选择默认难度 **"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"**谢谢（PF）plaguefest，他们的支持 **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"**等待玩家 **"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"**20秒后重置游戏 **"
-	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"**区域地图 - LUFFAREN **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"**不要试图走捷径-它会传送回来 **"
+		"enable"		"0"
+		"hammerid"		"712651"
+		"m_iname"		"break_6"
 	}
 }

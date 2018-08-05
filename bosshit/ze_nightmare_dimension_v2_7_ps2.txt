@@ -1,196 +1,183 @@
-"Console_T"
+"BOSSHP"
 {
-	"|| Map by Alpharadia ||"
+	"271261"
 	{
-		"chi"		"**地图制作：Alpharadia **"
+		"enable"		"1"
+		"hammerid"		"271261"
+		"m_iname"		"boss_life4"
 	}
-	"|| For cZe and Supreme Elite Community ||"
+	"271312"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"271312"
+		"m_iname"		"boss_life3"
 	}
-	"|| Thanks to Tartichevre ||"
+	"269864"
 	{
-		"chi"		"**特别感谢：Tartichevre **"
+		"enable"		"1"
+		"hammerid"		"269864"
+		"m_iname"		"boss_life1"
 	}
-	"|| Thanks to Prechan and Coconutz ||"
+	"269950"
 	{
-		"chi"		"** 特别感谢：Prechan and Coconutz **"
+		"enable"		"1"
+		"hammerid"		"269950"
+		"m_iname"		"boss_life2"
 	}
-	"|| DJ Room Playlist by Zip and Alpharadia ||"
+	"268385"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"268385"
+		"m_iname"		"boss_life_reveal2"
 	}
-	"|| One player must fetch the guide light ||"
+	"268433"
 	{
-		"chi"		"**一位玩家拿到了指路灯 **"
+		"enable"		"1"
+		"hammerid"		"268433"
+		"m_iname"		"boss_life_reveal4"
 	}
-	"|| The other have to cover while waiting for him ||"
+	"268469"
 	{
-		"chi"		"**你们必须要等待他 **"
+		"enable"		"1"
+		"hammerid"		"268469"
+		"m_iname"		"boss_life_reveal3"
 	}
-	"|| The guide has been chosen. Path opening in 10 seconds ||"
+	"8725"
 	{
-		"chi"		"**指路灯选择了道路.道理10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"8725"
+		"m_iname"		"cover_glass1"
 	}
-	"|| 5 Seconds left ||"
+	"14184"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"14184"
+		"m_iname"		"cover2_1"
 	}
-	"|| Run run ! ||"
+	"15208"
 	{
-		"chi"		"**跑 **"
+		"enable"		"0"
+		"hammerid"		"15208"
+		"m_iname"		"cover2_2"
 	}
-	"|| AFK Teleport 1 in 20 seconds ||"
+	"56286"
 	{
-		"chi"		"**挂机玩家20秒后传送 **"
+		"enable"		"1"
+		"hammerid"		"56286"
+		"m_iname"		"boss_wood_cage"
 	}
-	"|| Dodge the lasers ||"
+	"61372"
 	{
-		"chi"		"**躲避激光 **"
+		"enable"		"1"
+		"hammerid"		"61372"
+		"m_iname"		"preboss_cover"
 	}
-	"|| AFK Teleported to Eye area entrance ||"
+	"84133"
 	{
-		"chi"		"**挂机玩家已传送 **"
+		"enable"		"1"
+		"hammerid"		"84133"
+		"m_iname"		"boss_eye_socle"
 	}
-	"|| Cover 10 seconds here until the rock wall breaks ||"
+	"88497"
 	{
-		"chi"		"**在这里守住10秒.直到岩石破碎 **"
+		"enable"		"1"
+		"hammerid"		"88497"
+		"m_iname"		"small_boss_eye_socle"
 	}
-	"|| 3 seconds left ||"
+	"89768"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"89768"
+		"m_iname"		"small_boss_reveal"
 	}
-	"|| Cross the bridge ! ||"
+	"96317"
 	{
-		"chi"		"**穿过大桥 **"
+		"enable"		"1"
+		"hammerid"		"96317"
+		"m_iname"		"small_boss_reveal2"
 	}
-	"|| Bridge breaking in 20 seconds ||"
+	"96320"
 	{
-		"chi"		"**大桥20秒后断裂 **"
-		"DoorCountDown" "20"
+		"enable"		"1"
+		"hammerid"		"96320"
+		"m_iname"		"small_boss_eye_socle2"
 	}
-	"|| Go to the underground sea ! ||"
+	"96504"
 	{
-		"chi"		"**去海底 **"
+		"enable"		"1"
+		"hammerid"		"96504"
+		"m_iname"		"small_boss_reveal3"
 	}
-	"|| Guides Raft is leaving in 5 second. The guide must take it ! ||"
+	"96507"
 	{
-		"chi"		"**木筏5秒后离开.你们必须带着它 **"
+		"enable"		"1"
+		"hammerid"		"96507"
+		"m_iname"		"small_boss_eye_socle3"
 	}
-	"|| Guides Raft is leaving ||"
+	"148160"
 	{
-		"chi"		"**木筏离开 **"
+		"enable"		"0"
+		"hammerid"		"148160"
+		"m_iname"		"spawn_door1"
 	}
-	"|| Boats are leaving in 20 seconds ||"
+	"148179"
 	{
-		"chi"		"**船20秒后离开 **"
-		"DoorCountDown" "20"
+		"enable"		"0"
+		"hammerid"		"148179"
+		"m_iname"		"spawn_door2"
 	}
-	"|| Boats are leaving in 5 seconds ||"
+	"148293"
 	{
-		"chi"		"**船5秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"148293"
+		"m_iname"		"spawn_door4"
 	}
-	"|| Boats are leaving ||"
+	"148296"
 	{
-		"chi"		"**船已离开 **"
+		"enable"		"0"
+		"hammerid"		"148296"
+		"m_iname"		"spawn_door3"
 	}
-	"|| Guide go left in dark tunnel ! ||"
+	"152464"
 	{
-		"chi"		"**拿着指路灯人去左边的隧道 **"
+		"enable"		"0"
+		"hammerid"		"152464"
+		"m_iname"		"level1break"
 	}
-	"|| Hold Use to push the lever down ||"
+	"178942"
 	{
-		"chi"		"**用手拉下杠杆 **"
+		"enable"		"0"
+		"hammerid"		"178942"
+		"m_iname"		"bridge_1"
 	}
-	"|| The path is now lit. Guide go back ! ||"
+	"185786"
 	{
-		"chi"		"**道路已变亮.现在回去 **"
+		"enable"		"0"
+		"hammerid"		"185786"
+		"m_iname"		"socle_eye_rotating4"
 	}
-	"|| Cover here 20 seconds ||"
+	"185858"
 	{
-		"chi"		"**守住20秒 **"
-		"DoorCountDown" "20"
+		"enable"		"0"
+		"hammerid"		"185858"
+		"m_iname"		"socle_eye_rotating2"
 	}
-	"|| Final Door opening in 30 seconds ||"
+	"198405"
 	{
-		"chi"		"**最后的大门30秒后打开 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"198405"
+		"m_iname"		"boats_cover_break"
 	}
-	"|| AFK Teleport 3 in 10 seconds ||"
+	"85805"
 	{
-		"chi"		"**挂机玩家10秒后传送 **"
+		"enable"		"1"
+		"hammerid"		"85805"
+		"m_iname"		"boss_reveal"
 	}
-	"|| AFK Teleported to rock bridge ||"
+	"239818"
 	{
-		"chi"		"**挂机玩家已传送 **"
-	}
-	"|| Final Door opening in 5 seconds ||"
-	{
-		"chi"		"**最终的大门5秒后打开 **"
-	}
-	"|| Final Door opening ||"
-	{
-		"chi"		"**最终大门打开 **"
-	}
-	"|| Go ! Reload your weapons ! ||"
-	{
-		"chi"		"**走！去拿装备 **"
-	}
-	"|| Zombies prepare to take control of the Giant Eye ||"
-	{
-		"chi"		"**僵尸准备控制巨眼 **"
-	}
-	"|| Shoot the red shining Orb ! ||"
-	{
-		"chi"		"**拍摄红色的光 **"
-	}
-	"|| You defeated the boss ! Escape now ! ||"
-	{
-		"chi"		"**你打败了BOSS！现在逃跑！ **"
-	}
-	"|| Portal closing in 30 seconds ||"
-	{
-		"chi"		"**大门30秒后关闭 **"
-		"DoorCountDown" "30"
-	}
-	"|| Portal closing in 5 seconds ||"
-	{
-		"chi"		"**大门5秒后关闭 **"
-	}
-	"|| Portal closing ||"
-	{
-		"chi"		"**大门关闭 **"
-	}
-	"|| Kill Remaining zombies ||"
-	{
-		"chi"		"**杀死剩下的僵尸 **"
-	}
-	"|| Thanks for playing ! ||"
-	{
-		"chi"		"**感谢你的参与！ **"
-	}
-	"|| Berserker has been picked up ||"
-	{
-		"chi"		"** **"
-	}
-	"|| Healer has been picked up ||"
-	{
-		"chi"		"** **"
-	}
-	"|| AFK Teleport 2 in 20 seconds ||"
-	{
-		"chi"		"**挂机玩家20秒后传送 **"
-	}
-	"|| AFK Teleported to the underground sea || ||"
-	{
-		"chi"		"**挂机玩家已传送 **"
-	}
-	"|| Zombie stopper has been picked up ||"
-	{
-		"chi"		"** **"
-	}
-	"|| Zombie shocker has been picked up ||"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"239818"
+		"m_iname"		"guie_path_jump2"
 	}
 }

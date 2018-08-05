@@ -1,242 +1,255 @@
-"Console_T"
+"BOSSHP"
 {
-	"<<< Map by Jllaneras >>>"
+	"359166"
 	{
-		"chi"		">>>地图作者：JLLaneras<<<"
+		"enable"		"1"
+		"hammerid"		"359166"
+		"m_iname"		"Level_3_Boss_Breakable_3_Brush"
 	}
-	"<<< Trial 1 >>>"
+	"359169"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"359169"
+		"m_iname"		"Level_3_Boss_Breakable_2_Brush"
 	}
-	"<<< Door opens in 30 seconds! >>>"
+	"359248"
 	{
-		"chi"		">>>大门将在30秒后开放<<<"
+		"enable"		"1"
+		"hammerid"		"359248"
+		"m_iname"		"Level_3_Boss_Breakable_Brush"
 	}
-	"sync_version"
+	"359251"
 	{
-		"syncvalue"		"4914"
+		"enable"		"1"
+		"hammerid"		"359251"
+		"m_iname"		"Level_3_Boss_Breakable"
 	}
-	"<<< Zombies teleport in 40 seconds! >>>"
+	"359254"
 	{
-		"chi"		">>>僵尸将在40秒后进行传送<<<"
+		"enable"		"1"
+		"hammerid"		"359254"
+		"m_iname"		"Level_3_Boss_Breakable_2"
 	}
-	"<<< Press"
+	"359257"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"359257"
+		"m_iname"		"Level_3_Boss_Breakable_3"
 	}
-	"<<< Wall has been picked up! >>>"
+	"359308"
 	{
-		"chi"		">>>墙神器已被捡起<<<"
+		"enable"		"1"
+		"hammerid"		"359308"
+		"m_iname"		"Level_3_Boss_Breakable_Protect"
 	}
-	"<<< Door_opens in 30 seconds! >>>"
+	"359844"
 	{
-		"chi"		">>>黄门将在30秒后打开<<<"
+		"enable"		"0"
+		"hammerid"		"359844"
+		"m_iname"		"Level_3_Breakable_Climb"
 	}
-	"<<< Walk backwards and press"
+	"359847"
 	{
-		"chi"		">>>往后走<<<"
+		"enable"		"0"
+		"hammerid"		"359847"
+		"m_iname"		"Level_3_Breakable_Climb"
 	}
-	"<<< Zombie has speed! >>>"
+	"359850"
 	{
-		"chi"		">>>僵尸捡起了加速<<<"
+		"enable"		"0"
+		"hammerid"		"359850"
+		"m_iname"		"Level_3_Breakable_Climb"
 	}
-	"<<< Fence opens in 30 seconds! >>>"
+	"368236"
 	{
-		"chi"		">>>铁栅栏30秒后开放<<<"
+		"enable"		"0"
+		"hammerid"		"368236"
+		"m_iname"		"Level_3_EndBreakable"
 	}
-	"<<< Zombie used speed! >>>"
+	"303287"
 	{
-		"chi"		">>>僵尸使用了加速<<<"
+		"enable"		"0"
+		"hammerid"		"303287"
+		"m_iname"		"Level_3_Ladder_Breakable"
 	}
-	"<<< Zombies teleport in 25 seconds! >>>"
+	"303300"
 	{
-		"chi"		">>>僵尸将在二十五秒后进行传送<<<"
+		"enable"		"0"
+		"hammerid"		"303300"
+		"m_iname"		"Level_3_Ladder_Breakable"
 	}
-	"<<< Door opens in 45 seconds! >>>"
+	"303303"
 	{
-		"chi"		">>>大门将在45秒后打开<<<"
+		"enable"		"0"
+		"hammerid"		"303303"
+		"m_iname"		"Level_3_Ladder_Breakable"
 	}
-	"<<< Doors open in 15 seconds! >>>"
+	"303309"
 	{
-		"chi"		">>>大门将在15秒后开放<<<"
+		"enable"		"0"
+		"hammerid"		"303309"
+		"m_iname"		"Level_3_Ladder_Breakable"
 	}
-	"<<< Wall used! >>>"
+	"241086"
 	{
-		"chi"		">>>使用了墙<<<"
+		"enable"		"0"
+		"hammerid"		"241086"
+		"m_iname"		"Main_Room_Level_1_Fence_3_Break"
 	}
-	"<<< Bridge breaks in 10 seconds! >>>"
+	"241117"
 	{
-		"chi"		">>>10秒后桥将会断裂<<<"
+		"enable"		"0"
+		"hammerid"		"241117"
+		"m_iname"		"Main_Room_Level_1_Fence_2_Break"
 	}
-	"<<< Zombies teleport in 10 seconds! >>>"
+	"204886"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"204886"
+		"m_iname"		"Level_2_White_Box_Breakable_2"
 	}
-	"<<< Ultra Beam >>>"
+	"204958"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"204958"
+		"m_iname"		"Level_1_Shrub_Breakable"
 	}
-	"<<< Ominous Wind >>>"
+	"160121"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"160121"
+		"m_iname"		"Level_2_White_Box_Breakable_1"
 	}
-	"<<< Ramming Bolts >>>"
+	"163161"
 	{
-		"chi"		">>>旋转激光<<<"
+		"enable"		"1"
+		"hammerid"		"163161"
+		"m_iname"		"Level_2_White_Box_Breakable_2"
 	}
-	"<<< Spinning Pushing Bolts >>>"
+	"163181"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"163181"
+		"m_iname"		"Level_2_White_Box_Breakable_3"
 	}
-	"<<< Zombies teleport in 20 seconds! >>>"
+	"163224"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"163224"
+		"m_iname"		"Level_2_White_Box_Breakable_4"
 	}
-	"<<< You got the sky scroll! >>>"
+	"163258"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"163258"
+		"m_iname"		"Level_2_White_Box_Breakable_5"
 	}
-	"<<< Defend for 20 seconds! >>>"
+	"163281"
 	{
-		"chi"		">>>守住这里20秒<<<"
+		"enable"		"1"
+		"hammerid"		"163281"
+		"m_iname"		"Level_2_White_Box_Breakable_6"
 	}
-	"<<< Defend for 10 more seconds! >>>"
+	"140813"
 	{
-		"chi"		">>>多守个10秒<<<"
+		"enable"		"0"
+		"hammerid"		"140813"
+		"m_iname"		"Level_1_Scroll"
 	}
-	"<<< Trial 1 Complete! >>>"
+	"84540"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"84540"
+		"m_iname"		"Level_1_Boss_Breakable_Protect"
 	}
-	"<<< Trial 2 >>>"
+	"80303"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"80303"
+		"m_iname"		"Level_1_Boss_Breakable_2"
 	}
-	"<<< Wand has been picked up! >>>"
+	"80321"
 	{
-		"chi"		">>>韦天魔术棒已被捡起（按E可PUSH僵尸，什么?你竟然想Push队友？）<<<"
+		"enable"		"1"
+		"hammerid"		"80321"
+		"m_iname"		"Level_1_Boss_Breakable_3"
 	}
-	"<<< Door closing in 25 seconds! >>>"
+	"80472"
 	{
-		"chi"		">>>大门25秒后关闭<<<"
+		"enable"		"1"
+		"hammerid"		"80472"
+		"m_iname"		"Level_1_Boss_HBar_Box"
 	}
-	"<<< Wand used! >>>"
+	"80500"
 	{
-		"chi"		">>>韦天魔术棒使用!<<<"
+		"enable"		"1"
+		"hammerid"		"80500"
+		"m_iname"		"Level_1_Boss_HBar_1"
 	}
-	"<<< Castle gate opens in 45 seconds! >>>"
+	"80508"
 	{
-		"chi"		">>>白色城堡的大门将在45秒后为您开放<<<"
+		"enable"		"1"
+		"hammerid"		"80508"
+		"m_iname"		"Level_1_Boss_HBar_2"
 	}
-	"<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
+	"80516"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"80516"
+		"m_iname"		"Level_1_Boss_HBar_3"
 	}
-	"<<< Boxes break in 35 seconds! >>>"
+	"80853"
 	{
-		"chi"		">>>箱子堆35秒后碎裂<<<"
+		"enable"		"0"
+		"hammerid"		"80853"
+		"m_iname"		"Level_1_Final_Bridge"
 	}
-	"<<< Box break in 35 seconds! >>>"
+	"73045"
 	{
-		"chi"		">>>箱子35秒后碎裂<<<"
+		"enable"		"1"
+		"hammerid"		"73045"
+		"m_iname"		"Level_1_Boss_Bridge"
 	}
-	"<<< Zombies teleport in 30 seconds! >>>"
+	"38195"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"38195"
+		"m_iname"		"Level_1_Boss_Floor"
 	}
-	"<<< Zombies teleported to top! >>>"
+	"38206"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"38206"
+		"m_iname"		"Level_1_Boss_Breakable"
 	}
-	"<<< Light activates in 30 seconds! >>>"
+	"4969"
 	{
-		"chi"		">>>传送圣光将在30秒后将你传送离开这被僵尸污染的城堡<<<"
+		"enable"		"0"
+		"hammerid"		"4969"
+		"m_iname"		"Glass_Beginning"
 	}
-	"<<< Trial 2 Complete! >>>"
+	"6654"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6654"
+		"m_iname"		"Glass_Beginning"
 	}
-	"<<< Trial 3 >>>"
+	"41482"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"41482"
+		"m_iname"		"Wall"
 	}
-	"<<< Heal has been picked up! >>>"
+	"80775"
 	{
-		"chi"		">>>治疗圣光被捡起<<<"
+		"enable"		"1"
+		"hammerid"		"80775"
+		"m_iname"		"Level_1_Boss_Bridge_2"
 	}
-	"<<< Elevator leaves in 30 seconds! >>>"
+	"391556"
 	{
-		"chi"		">>>极其简单的黑色电梯30秒后上升<<<"
-	}
-	"<<< Heal used! >>>"
-	{
-		"chi"		">>>愿圣光永远加护着你<<<"
-	}
-	"<<< Door opens in 20 seconds! >>>"
-	{
-		"chi"		">>>白色墙壁20秒后打开（Tips:门开后前面3个彩色坑需要你提前3个身位跳过去）<<<"
-	}
-	"<<< Elevator leaves in 45 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Falling Sky >>>"
-	{
-		"chi"		">>>天空坠落<<<"
-	}
-	"<<< Pillar >>>"
-	{
-		"chi"		">>>柱子<<<"
-	}
-	"<<< Blades >>>"
-	{
-		"chi"		">>>跳刀<<<"
-	}
-	"<<< Almighty Pull >>>"
-	{
-		"chi"		">>>吸<<<"
-	}
-	"<<< Electric Cut >>>"
-	{
-		"chi"		">>>激光切割<<<"
-	}
-	"<<< Light Beam >>>"
-	{
-		"chi"		">>>激光束<<<"
-	}
-	"<<< Trial 3 Complete! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies teleport in 15 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_Cvar sm_molotov_limit 2"
-		}
-		"2"
-		{
-			"cvar"		"sm_Cvar sm_he_limit 4"
-		}
-		"3"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-	}
-	"<<< Zombies reached the end. Humans lose! >>>"
-	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"391556"
+		"m_iname"		"Level_3_BossPlatform"
 	}
 }

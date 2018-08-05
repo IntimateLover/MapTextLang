@@ -1,103 +1,117 @@
-"Console_T"
+"BOSSHP"
 {
-	">-Map By TaskuVaras-<"
+	"92194"
 	{
-		"chi"		"**地图由TaskuVaras制作&dy2084翻译**"
+		"enable"		"0"
+		"hammerid"		"92194"
+		"m_iname"		"end_gate"
 	}
-	">-Watch out for traps!!!-<"
+	"314697"
 	{
-		"chi"		"**注意陷阱**"
+		"enable"		"0"
+		"hammerid"		"314697"
+		"m_iname"		"end_gate2"
 	}
-	">- 1 Player needs to get into furnace  -<"
+	"354635"
 	{
-		"chi"		"**我们需要一位玩家进到熔炉里**"
+		"enable"		"0"
+		"hammerid"		"354635"
+		"m_iname"		"pendulum_tera"
 	}
-	">- keep zombies away for 45 seconds  -<"
+	"1074048"
 	{
-		"chi"		"**抵挡僵尸进攻45秒**"
-		"DoorCountdown"		"45"
+		"enable"		"0"
+		"hammerid"		"1074048"
+		"m_iname"		"end_gate2"
 	}
-	">- 5 more seconds  -<"
+	"1214575"
 	{
-		"chi"		"**还有5秒**"
+		"enable"		"0"
+		"hammerid"		"1214575"
+		"m_iname"		"CTDefender_01"
 	}
-	">- furnace door opening in 20 sec  -<"
+	"95971"
 	{
-		"chi"		"**熔炉大门在20秒后开启**"
+		"enable"		"0"
+		"hammerid"		"95971"
+		"m_iname"		"hole_break"
 	}
-	">- Door opening in 30 seconds  -<"
+	"198247"
 	{
-		"chi"		"**门在30秒后开启**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"198247"
+		"m_iname"		"tunnel_floor"
 	}
-	">- nervegas released in spawn area  -<"
+	"210191"
 	{
-		"chi"		"**神经毒气在出生区域释放！**"
+		"enable"		"0"
+		"hammerid"		"210191"
+		"m_iname"		"stairs_block"
 	}
-	">-Elevator coming in 30 sec-<"
+	"321817"
 	{
-		"chi"		"**电梯在30秒后到达**"
-		"DoorCountdown"		"35"
+		"enable"		"0"
+		"hammerid"		"321817"
+		"m_iname"		"reitti2_brushes"
 	}
-	">-Elevator leaving in 7 sec-<"
+	"321849"
 	{
-		"chi"		"**电梯在7秒后离开**"
-		"DoorCountdown"		"7"
+		"enable"		"0"
+		"hammerid"		"321849"
+		"m_iname"		"reitti2_brushes"
 	}
-	">- nervegas released in first traps  -<"
+	"621225"
 	{
-		"chi"		"**神经毒气在第一道陷阱释放！**"
+		"enable"		"0"
+		"hammerid"		"621225"
+		"m_iname"		"glass_box_pipes"
 	}
-	">- keep zombies away for 30 seconds  -<"
+	"658495"
 	{
-		"chi"		"**挡住僵尸30秒**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"658495"
+		"m_iname"		"glass_box_wood"
 	}
-	">- Hold for 40 seconds  -<"
+	"284551"
 	{
-		"chi"		"**坚守40秒**"
-		"DoorCountdown"		"40"
+		"enable"		"0"
+		"hammerid"		"284551"
+		"m_iname"		"exploding_wall_before"
 	}
-	">- nervegas released in elevator area  -<"
+	"1074129"
 	{
-		"chi"		"**神经毒气在电梯区域释放！**"
+		"enable"		"0"
+		"hammerid"		"1074129"
+		"m_iname"		"furnace_otherpath"
 	}
-	">- Keep ZOMBIES away for 60 second -<"
+	"1089232"
 	{
-		"chi"		"**坚守60秒**"
-		"DoorCountdown"		"60"
+		"enable"		"0"
+		"hammerid"		"1089232"
+		"m_iname"		"bridge_end"
 	}
-	">-Door opening in 30 sec-<"
+	"1093598"
 	{
-		"chi"		"**门在30秒后打开**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"1093598"
+		"m_iname"		"reitti2_brushes"
 	}
-	">- generator room exploding in 75 seconds  -<"
+	"320973"
 	{
-		"chi"		"**发电机房在75秒后自爆！**"
+		"enable"		"0"
+		"hammerid"		"320973"
+		"m_iname"		"bars_fix"
 	}
-	">- 30 more seconds  -<"
+	"321861"
 	{
-		"chi"		"**还有30秒**"
+		"enable"		"0"
+		"hammerid"		"321861"
+		"m_iname"		"reitti1_brushes"
 	}
-	">- 10 more seconds  -<"
+	"1074208"
 	{
-		"chi"		"**还有10秒**"
-	}
-	">- bomb shelter opening -<"
-	{
-		"chi"		"**避难所已打开**"
-	}
-	">- shelter door closing!!  -<"
-	{
-		"chi"		"**避难所已关闭！**"
-	}
-	">- nailbombs exploding in 40 seconds  -<"
-	{
-		"chi"		"**钉刺炸弹在40秒后爆炸**"
-	}
-	">- keep zombies inside -<"
-	{
-		"chi"		"**别让僵尸进来**"
+		"enable"		"0"
+		"hammerid"		"1074208"
+		"m_iname"		"reitti1_brushes"
 	}
 }

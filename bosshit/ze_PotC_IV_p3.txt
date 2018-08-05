@@ -1,143 +1,291 @@
-"Console_T"
+"BOSSHP"
 {
-	">>LEVEL: EASY<<"
+	"549836"
 	{
-		"chi"		"**难度：容易 **"
+		"enable"		"0"
+		"hammerid"		"549836"
+		"m_iname"		"silta_dangle_phys"
 	}
-	">>MAP MADE BY TaskuVaras<<"
+	"151790"
 	{
-		"chi"		"**地图制作：TaskuVaras 地图翻译：蓬莱山帅比♪ **"
+		"enable"		"0"
+		"hammerid"		"151790"
+		"m_iname"		"hopea_maljat"
 	}
-	">>Special thanks to: T-Money and Enviolinador<<"
+	"26998"
 	{
-		"chi"		"**特别感谢：T-Money 和 Enviolinador **"
+		"enable"		"0"
+		"hammerid"		"26998"
+		"m_iname"		"majakka_body"
 	}
-	">> 1 player must go to lighthouse and shoot the oil<<"
+	"27042"
 	{
-		"chi"		"**一个玩家必须去灯塔上射击镜面 **"
+		"enable"		"0"
+		"hammerid"		"27042"
+		"m_iname"		"majakka_body"
 	}
-	">> others try to keep zombies in water<<"
+	"27081"
 	{
-		"chi"		"**其他人不要让僵尸上陆地 **"
+		"enable"		"0"
+		"hammerid"		"27081"
+		"m_iname"		"majakka_body"
 	}
-	">> Lighthouse exploding automatically in 30 seconds <<"
+	"27096"
 	{
-		"chi"		"**灯塔在30秒后自动爆炸 **"
+		"enable"		"0"
+		"hammerid"		"27096"
+		"m_iname"		"majakka_body"
 	}
-	">>>LIGHT HAS BEEN TAKEN<<<"
+	"27108"
 	{
-		"chi"		"**已拿到火把 **"
+		"enable"		"0"
+		"hammerid"		"27108"
+		"m_iname"		"majakka_body"
 	}
-	">>>Press USE to fire<<<"
+	"27133"
 	{
-		"chi"		"**按E使用 **"
+		"enable"		"0"
+		"hammerid"		"27133"
+		"m_iname"		"majakka_body"
 	}
-	">> DEFEND FOR 30 SEC<<"
+	"27152"
 	{
-		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"27152"
+		"m_iname"		"majakka_body"
 	}
-	">>  TELEPORTING everyone to jungle<<"
+	"27174"
 	{
-		"chi"		"**即将传送到丛林 **"
+		"enable"		"0"
+		"hammerid"		"27174"
+		"m_iname"		"majakka_body"
 	}
-	">>  5 MORE SECONDS<<"
+	"27255"
 	{
-		"chi"		"**5秒 **"
+		"enable"		"0"
+		"hammerid"		"27255"
+		"m_iname"		"majakka_body"
 	}
-	">> LIGHT CAN BE NOW USED AGAIN<<"
+	"27273"
 	{
-		"chi"		"**火把可以再次使用 **"
+		"enable"		"0"
+		"hammerid"		"27273"
+		"m_iname"		"majakka_body"
 	}
-	">> IMPORTANT!!!!!!!! <<"
+	"27292"
 	{
-		"chi"		"**很重要！！！！！！！！ **"
+		"enable"		"0"
+		"hammerid"		"27292"
+		"m_iname"		"majakka_body"
 	}
-	">> TAKE THE SILVER CHALICES <<"
+	"27323"
 	{
-		"chi"		"**银制酒杯 **"
+		"enable"		"0"
+		"hammerid"		"27323"
+		"m_iname"		"majakka_body"
 	}
-	">>  TELEPORTING everyone to ponce de leon<<"
+	"27338"
 	{
-		"chi"		"**即将传送 **"
+		"enable"		"0"
+		"hammerid"		"27338"
+		"m_iname"		"majakka_body"
 	}
-	">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
+	"27353"
 	{
-		"chi"		"**用酒杯装青春之泉 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"27353"
+		"m_iname"		"majakka_body"
 	}
-	">> SURVIVE FOR 60 SEC<<"
+	"27369"
 	{
-		"chi"		"**存活60秒 **"
-		"DoorCountDown"		"60"
+		"enable"		"0"
+		"hammerid"		"27369"
+		"m_iname"		"majakka_body"
 	}
-	">>  TELEPORTING everyone to fountain of youth<<"
+	"424796"
 	{
-		"chi"		"**即将传送到青春之泉 **"
+		"enable"		"0"
+		"hammerid"		"424796"
+		"m_iname"		"majakka"
 	}
-	">>LEVEL COMPLETED!<<"
+	"3546"
 	{
-		"chi"		"**本关完成 **"
+		"enable"		"0"
+		"hammerid"		"3546"
+		"m_iname"		"stairs"
 	}
-	">>LEVEL: NORMAL<<"
+	"3579"
 	{
-		"chi"		"**关卡：普通 **"
+		"enable"		"0"
+		"hammerid"		"3579"
+		"m_iname"		"stairs"
 	}
-	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
+	"8166"
 	{
-		"chi"		"**已拿起杰克的散弹枪 **"
+		"enable"		"0"
+		"hammerid"		"8166"
+		"m_iname"		"majakka_lasi_break"
 	}
-	">>>REMEMBER ONLY 1 SHOT!<<<"
+	"8710"
 	{
-		"chi"		"**记住！它只有一发子弹 **"
+		"enable"		"0"
+		"hammerid"		"8710"
+		"m_iname"		"majakka"
 	}
-	">>>Press USE to shoot<<<"
+	"29478"
 	{
-		"chi"		"**按E使用 **"
+		"enable"		"0"
+		"hammerid"		"29478"
+		"m_iname"		"majakka_break"
 	}
-	">>LEVEL: HARD<<"
+	"34046"
 	{
-		"chi"		"**难度:困难 **"
+		"enable"		"0"
+		"hammerid"		"34046"
+		"m_iname"		"stairs"
 	}
-	">> YOU FORGOT THE CHALICES<<"
+	"34162"
 	{
-		"chi"		"**你忘了酒杯 **"
+		"enable"		"0"
+		"hammerid"		"34162"
+		"m_iname"		"stairs2"
 	}
-	">> DEFEND FOR 60 SEC<<"
+	"34237"
 	{
-		"chi"		"**守住60秒 **"
-		"DoorCountDown"		"60"
+		"enable"		"0"
+		"hammerid"		"34237"
+		"m_iname"		"stairs3"
 	}
-	">>LEVEL: EXTREME<<"
+	"46495"
 	{
-		"chi"		"**难度：极限 **"
+		"enable"		"0"
+		"hammerid"		"46495"
+		"m_iname"		"majakka_brush"
 	}
-	"sync_version"
+	"53449"
 	{
-		"syncvalue"		"16392"
+		"enable"		"0"
+		"hammerid"		"53449"
+		"m_iname"		"lankku"
 	}
-	">>  5 MORE SECONDS <<"
+	"64861"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"64861"
+		"m_iname"		"reitti2"
 	}
-	">>LEVEL COMPLETED! <<"
+	"70401"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"70401"
+		"m_iname"		"ovi_vesiluola"
 	}
-	">> YOU FORGOT THE CHALICES! <<"
+	"76452"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"76452"
+		"m_iname"		"reitti2_puolustus"
 	}
-	">> NO LEVEL CHANGE ON WIN! <<"
+	"117589"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"117589"
+		"m_iname"		"ponsdeleon_puolustus"
 	}
-	">> DEFEND FOR 60 SEC <<"
+	"197945"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197945"
+		"m_iname"		"zombie_gate"
 	}
-	">>  TELEPORTING everyone to fountain of youth <<"
+	"197959"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"197959"
+		"m_iname"		"zombie_gate2"
+	}
+	"221140"
+	{
+		"enable"		"0"
+		"hammerid"		"221140"
+		"m_iname"		"laiva_portaat2"
+	}
+	"221588"
+	{
+		"enable"		"0"
+		"hammerid"		"221588"
+		"m_iname"		"lankku2"
+	}
+	"332136"
+	{
+		"enable"		"0"
+		"hammerid"		"332136"
+		"m_iname"		"eka_ovi"
+	}
+	"374820"
+	{
+		"enable"		"0"
+		"hammerid"		"374820"
+		"m_iname"		"laiva_sivut"
+	}
+	"328201"
+	{
+		"enable"		"0"
+		"hammerid"		"328201"
+		"m_iname"		"ovi_majakka"
+	}
+	"208771"
+	{
+		"enable"		"0"
+		"hammerid"		"208771"
+		"m_iname"		"luola_block"
+	}
+	"221527"
+	{
+		"enable"		"0"
+		"hammerid"		"221527"
+		"m_iname"		"zm_tukkeet"
+	}
+	"220827"
+	{
+		"enable"		"0"
+		"hammerid"		"220827"
+		"m_iname"		"lauta_alku"
+	}
+	"221112"
+	{
+		"enable"		"0"
+		"hammerid"		"221112"
+		"m_iname"		"laiva_portaat1"
+	}
+	"378552"
+	{
+		"enable"		"0"
+		"hammerid"		"378552"
+		"m_iname"		"hard_planks"
+	}
+	"378561"
+	{
+		"enable"		"0"
+		"hammerid"		"378561"
+		"m_iname"		"hard_planks2"
+	}
+	"221952"
+	{
+		"enable"		"0"
+		"hammerid"		"221952"
+		"m_iname"		"zombi_block1"
+	}
+	"222027"
+	{
+		"enable"		"0"
+		"hammerid"		"222027"
+		"m_iname"		"zombi_block2"
+	}
+	"221519"
+	{
+		"enable"		"0"
+		"hammerid"		"221519"
+		"m_iname"		"zm_tukkeet2"
 	}
 }

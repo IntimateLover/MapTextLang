@@ -1,707 +1,747 @@
-"Console_T"
+"BOSSHP"
 {
-	">> Map by Taskuvaras <<"
+	"1919"
 	{
-		"chi"		"**地图制作：Taskuvaras 地图完整翻译：银月筱瑶 **"
+		"enable"		"1"
+		"hammerid"		"1919"
+		"m_iname"		"Lvl3_Boss_Seat"
 	}
-	">> Finished by Moltard <<"
+	"1201057"
 	{
-		"chi"		"**细节完善：Moltard 后期翻译补充:冰花丶**"
+		"enable"		"0"
+		"hammerid"		"1201057"
+		"m_iname"		"extra_water_phys"
 	}
-	">> WARMUP ROUND <<"
+	"1710"
 	{
-		"chi"		"**热身赛**"
+		"enable"		"0"
+		"hammerid"		"1710"
+		"m_iname"		"B1_Phys"
 	}
-	">> 40 SECONDS LEFT <<"
+	"1648"
 	{
-		"chi"		"**40秒 **"
+		"enable"		"0"
+		"hammerid"		"1648"
+		"m_iname"		"B1_Ghost"
 	}
-	">> 30 SECONDS LEFT <<"
+	"1349567"
 	{
-		"chi"		"**30秒 **"
+		"enable"		"0"
+		"hammerid"		"1349567"
+		"m_iname"		"B2a_Phys"
 	}
-	">> 20 SECONDS LEFT <<"
+	"1565920"
 	{
-		"chi"		"**20秒 **"
+		"enable"		"0"
+		"hammerid"		"1565920"
+		"m_iname"		"B2a_Phys"
 	}
-	">> 10 SECONDS LEFT <<"
+	"766088"
 	{
-		"chi"		"**10秒 **"
+		"enable"		"0"
+		"hammerid"		"766088"
+		"m_iname"		"Lvl3_Butter_C"
 	}
-	">> WARMUP ROUND END <<"
+	"1712"
 	{
-		"chi"		"**热身回合结束 **"
+		"enable"		"0"
+		"hammerid"		"1712"
+		"m_iname"		"B3a_Phys1"
 	}
-	"ShroomForest2"
+	"1336057"
 	{
-		"chi"		"**欢迎来到蘑菇森林2的世界**"
+		"enable"		"0"
+		"hammerid"		"1336057"
+		"m_iname"		"B3a_Phys2"
 	}
-	"[Level1] Find the Groke"
+	"1714"
 	{
-		"chi"		"**[关卡1]找到GROKE**"
+		"enable"		"0"
+		"hammerid"		"1714"
+		"m_iname"		"B3a_Phys3"
 	}
-	">> LEVEL: RAVINE <<"
+	"1335604"
 	{
-		"chi"		"**[关卡1]找到GROKE**"
+		"enable"		"0"
+		"hammerid"		"1335604"
+		"m_iname"		"Lvl2_S_Phys"
 	}
-	"[Warmup] Wait for others players to join"
+	"1336170"
 	{
-		"chi"		"**[热身]等待其他玩家加入 **"
+		"enable"		"0"
+		"hammerid"		"1336170"
+		"m_iname"		"B3b_Phys"
 	}
-	">> PLAYER HAS PICKED UP WATER <<"
+	"1420486"
 	{
-		"chi"		"**一位玩家捡起了神器：水（定点推开僵尸）**"
+		"enable"		"1"
+		"hammerid"		"1420486"
+		"m_iname"		"Ext3_SatanBody"
 	}
-	">> PLAYER HAS PICKED UP GRAVITY <<"
+	"1472545"
 	{
-		"chi"		"**一位玩家捡起了神器：重力（定点减速僵尸）**"
+		"enable"		"0"
+		"hammerid"		"1472545"
+		"m_iname"		"Dragon_Phys"
 	}
-	"110 Ghost Found"
+	"358537"
 	{
-		"chi"		"**[1/10]一号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"358537"
+		"m_iname"		"Dragon_Model"
 	}
-	"*** LEAF LEAVING IN 20 SECONDS ***"
+	"1287938"
 	{
-		"chi"		"**树叶将在20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1287938"
+		"m_iname"		"RockHell_Phys&4307"
 	}
-	">> PLAYER HAS PICKED UP EARTH <<"
+	"1288017"
 	{
-		"chi"		"**一位玩家捡起了神器：墙（升起一道墙，注意距离）**"
+		"enable"		"0"
+		"hammerid"		"1288017"
+		"m_iname"		"Part2_Satan_Phys"
 	}
-	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	"1382504"
 	{
-		"chi"		"**一位玩家捡起了神器：无限弹药（使用后一段时间内弹药无限）**"
+		"enable"		"0"
+		"hammerid"		"1382504"
+		"m_iname"		"Part3_SatanPhys"
 	}
-	">> PLAYER HAS PICKED UP ICE <<"
+	"1388696"
 	{
-		"chi"		"**一位玩家捡起了神器：冰（定点困住僵尸）**"
+		"enable"		"0"
+		"hammerid"		"1388696"
+		"m_iname"		"Part3_SatanBody"
 	}
-	"210 Ghost Found"
+	"2076"
 	{
-		"chi"		"**[2/10]二号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"2076"
+		"m_iname"		"Level_Bar"
 	}
-	"*** HOLD FOR 30 SECONDS ***"
+	"433516"
 	{
-		"chi"		"**坚守这里30秒**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"433516"
+		"m_iname"		"Fence"
 	}
-	"*** 5 MORE SECONDS ***"
+	"745516"
 	{
-		"chi"		"**再守5秒**"
+		"enable"		"0"
+		"hammerid"		"745516"
+		"m_iname"		"Button_ZM"
 	}
-	"*** RUUUN! ***"
+	"1320524"
 	{
-		"chi"		"**快跑**"
+		"enable"		"0"
+		"hammerid"		"1320524"
+		"m_iname"		"Tree1"
 	}
-	"*** DOOR IS OPEN! RUUUN! ***"
+	"1328298"
 	{
-		"chi"		"**门开了，快跑**"
+		"enable"		"0"
+		"hammerid"		"1328298"
+		"m_iname"		"Map_Skybox"
 	}
-	"310 Ghost Found"
+	"1465996"
 	{
-		"chi"		"**[3/10]三号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"1465996"
+		"m_iname"		"Tree2"
 	}
-	">> ITS THE GROKE SHOOT IT !!!!  <<"
+	"979890"
 	{
-		"chi"		"**这是Groke，快击杀他！**"
+		"enable"		"0"
+		"hammerid"		"979890"
+		"m_iname"		"WarmupCredits"
 	}
-	">> THE GROKE IS DEAD <<"
+	"96557"
 	{
-		"chi"		"**Groke死了**"
+		"enable"		"0"
+		"hammerid"		"96557"
+		"m_iname"		"B1_Wall"
 	}
-	">> ESCAPE BY THE LADDER <<"
+	"996994"
 	{
-		"chi"		"**从梯子方向逃离，快**"
+		"enable"		"0"
+		"hammerid"		"996994"
+		"m_iname"		"B1_Clip"
 	}
-	"*** FLY LEAVING IN 15 SECONDS ***"
+	"1541480"
 	{
-		"chi"		"**蝴蝶将会在15秒后离开**"
-		"DoorCountDown"		"15"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1541480"
+		"m_iname"		"B1_Door2"
 	}
-	">> LEVEL COMPLETED !!! <<"
+	"943"
 	{
-		"chi"		"**关卡完成！**"
+		"enable"		"0"
+		"hammerid"		"943"
+		"m_iname"		"Lvl1_Door"
 	}
-	"[Level2] Destroy the TV"
+	"951"
 	{
-		"chi"		"**[关卡2]：摧毁电视**"
+		"enable"		"0"
+		"hammerid"		"951"
+		"m_iname"		"Lvl1_Door"
 	}
-	">> LEVEL: TV <<"
+	"1169"
 	{
-		"chi"		"**[关卡2]：摧毁电视**"
+		"enable"		"0"
+		"hammerid"		"1169"
+		"m_iname"		"Lvl1_Door2"
 	}
-	">> PLAYER HAS PICKED UP 6 MINES <<"
+	"1511"
 	{
-		"chi"		"**一位玩家捡起了神器：地雷（定点限制僵尸，只有六颗**"
+		"enable"		"0"
+		"hammerid"		"1511"
+		"m_iname"		"Lvl1_Wood1"
 	}
-	">> PLAYER HAS PICKED UP WIND <<"
+	"1513"
 	{
-		"chi"		"**一位玩家捡起了神器：风（跟随主人吹走附近僵尸）**"
+		"enable"		"0"
+		"hammerid"		"1513"
+		"m_iname"		"Lvl1_Wood2"
 	}
-	">> PLAYER HAS PICKED UP HEAL <<"
+	"23411"
 	{
-		"chi"		"**一位玩家捡起了神器：奶（跟随主人范围提供血量）**"
+		"enable"		"0"
+		"hammerid"		"23411"
+		"m_iname"		"Lvl1_Breakable"
 	}
-	"110 Painting Found"
+	"673464"
 	{
-		"chi"		"**[1/10]一号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"673464"
+		"m_iname"		"Lvl1_Wood3"
 	}
-	"*** FALL BACK !!! ***"
+	"1143275"
 	{
-		"chi"		"**快跑！！**"
+		"enable"		"0"
+		"hammerid"		"1143275"
+		"m_iname"		"Lvl1_Breakable"
 	}
-	"*** ELEVATOR OPENING IN 20 SECONDS ***"
+	"1625801"
 	{
-		"chi"		"**电梯将会在20秒后打开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1625801"
+		"m_iname"		"Lvl1_Wood1"
 	}
-	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	"713139"
 	{
-		"chi"		"**电梯将会在10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"713139"
+		"m_iname"		"Secret1_Ghost"
 	}
-	"*** FAN STOPPING IN 30 SECONDS ***"
+	"713165"
 	{
-		"chi"		"**风扇将会在30秒后停止转动**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"713165"
+		"m_iname"		"Secret1_Ghost"
 	}
-	"*** FALL BACK ***"
+	"713204"
 	{
-		"chi"		"**快跑**"
+		"enable"		"0"
+		"hammerid"		"713204"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> BREAK THE HEART OF THE TV <<"
+	"713222"
 	{
-		"chi"		"**拆掉那个电视机！**"
+		"enable"		"0"
+		"hammerid"		"713222"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> THE TV HEART IS DESTROYED <<"
+	"713237"
 	{
-		"chi"		"**电视机被拆掉了**"
+		"enable"		"0"
+		"hammerid"		"713237"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> THE BUILDING WILL BLOW UP <<"
+	"713249"
 	{
-		"chi"		"**这里的建筑物将会被炸掉**"
+		"enable"		"0"
+		"hammerid"		"713249"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> ESCAPE BY THE WEB <<"
+	"713276"
 	{
-		"chi"		"**快从蜘蛛网逃离**"
+		"enable"		"0"
+		"hammerid"		"713276"
+		"m_iname"		"Secret1_Ghost"
 	}
-	"*** WEB LEAVING IN 20 SECONDS ***"
+	"713288"
 	{
-		"chi"		"**蜘蛛网将会在20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"713288"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> ALL 6 MINES USED <<"
+	"713344"
 	{
-		"chi"		"**所有的地雷已经被放置**"
+		"enable"		"0"
+		"hammerid"		"713344"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> PLAYER HAS PICKED UP FIRE <<"
+	"1152279"
 	{
-		"chi"		"**一位玩家捡起了神器：火（大范围点燃减速僵尸，慎用防止炸服）**"
+		"enable"		"0"
+		"hammerid"		"1152279"
+		"m_iname"		"Secret1_Ghost"
 	}
-	"210 Painting Found"
+	"1152290"
 	{
-		"chi"		"**[2/10]二号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"1152290"
+		"m_iname"		"Secret1_Ghost"
 	}
-	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
+	"1152298"
 	{
-		"chi"		"**电视机核心正在崩溃，继续拆！！！！**"
+		"enable"		"0"
+		"hammerid"		"1152298"
+		"m_iname"		"Secret1_Ghost"
 	}
-	"310 Painting Found"
+	"1957"
 	{
-		"chi"		"**[3/10]三号绘画被发现**"
+		"enable"		"0"
+		"hammerid"		"1957"
+		"m_iname"		"Lvl2_Grid"
 	}
-	">> LEVEL COMPLETED!! <<"
+	"1959"
 	{
-		"chi"		"**关卡完成！**"
+		"enable"		"0"
+		"hammerid"		"1959"
+		"m_iname"		"Lvl2_Metal1"
 	}
-	"[Level3] Explore the Heaven"
+	"2066"
 	{
-		"chi"		"**[关卡3]探索天堂**"
+		"enable"		"0"
+		"hammerid"		"2066"
+		"m_iname"		"Lvl2_F_Safe"
 	}
-	">> LEVEL: HEAVEN <<"
+	"3729"
 	{
-		"chi"		"**[关卡3]探索天堂**"
+		"enable"		"0"
+		"hammerid"		"3729"
+		"m_iname"		"Lvl2_Metal2"
 	}
-	"110 Angel Found"
+	"1274964"
 	{
-		"chi"		"**[1/10]一号天使被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"1274964"
+		"m_iname"		"Lvl2_Breakable"
 	}
-	"*** CLOUD LEAVING IN 20 SECONDS ***"
+	"1274971"
 	{
-		"chi"		"**云将会在20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1274971"
+		"m_iname"		"Lvl2_Breakable"
 	}
-	"210 Angel Found"
+	"1275679"
 	{
-		"chi"		"**[2/10]二号天使被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"1275679"
+		"m_iname"		"Lvl2_Door"
 	}
-	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
+	"1350808"
 	{
-		"chi"		"**天堂大门将会在25秒后打开**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"1350808"
+		"m_iname"		"Lvl2_L_Grid"
 	}
-	"*** GATE OPENING IN 25 SECONDS ***"
+	"711035"
 	{
-		"chi"		"**大门将会在25秒后打开**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"711035"
+		"m_iname"		"Secret1_Paint"
 	}
-	"*** Doors opening in 30 seconds ***"
+	"711113"
 	{
-		"chi"		"**大门将会在30秒后打开**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"711113"
+		"m_iname"		"Secret1_Paint"
 	}
-	"310 Angel Found"
+	"711180"
 	{
-		"chi"		"**[3/10]三号天使被发现（集齐所有触发可减缓BOSS攻击）**"
+		"enable"		"0"
+		"hammerid"		"711180"
+		"m_iname"		"Secret1_Paint"
 	}
-	">> OH NO!! ITS GOD <<"
+	"711317"
 	{
-		"chi"		"**卧槽！上帝来了！**"
+		"enable"		"0"
+		"hammerid"		"711317"
+		"m_iname"		"Secret1_Paint"
 	}
-	">> GOD HAS BEEN DEFEATED !!! <<"
+	"711341"
 	{
-		"chi"		"**上帝被我们击败了！！！**"
+		"enable"		"0"
+		"hammerid"		"711341"
+		"m_iname"		"Secret1_Paint"
 	}
-	">> RUN TO SAFETY <<"
+	"711419"
 	{
-		"chi"		"**快跑去安全的地方**"
+		"enable"		"0"
+		"hammerid"		"711419"
+		"m_iname"		"Secret1_Paint"
 	}
-	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
+	"711474"
 	{
-		"chi"		"**蝴蝶将会在15秒后离开**"
-		"DoorCountDown"		"15"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"711474"
+		"m_iname"		"Secret1_Paint"
 	}
-	"[Extreme1] Find the Groke"
+	"711490"
 	{
-		"chi"		"**[极限关卡1]：找到Groke**"
+		"enable"		"0"
+		"hammerid"		"711490"
+		"m_iname"		"Secret1_Paint"
 	}
-	">> EXTREME MODE ADDED <<"
+	"711595"
 	{
-		"chi"		"**极限模式开启**"
+		"enable"		"0"
+		"hammerid"		"711595"
+		"m_iname"		"Secret1_Paint"
 	}
-	"*** FLY LEAVING IN 20 SECONDS ***"
+	"1297897"
 	{
-		"chi"		"**蝴蝶将会在20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1297897"
+		"m_iname"		"Secret1_Paint"
 	}
-	"[Extreme2] Kill the TV Monster"
+	"1718"
 	{
-		"chi"		"**[极限关卡2]：击杀电视怪物**"
+		"enable"		"0"
+		"hammerid"		"1718"
+		"m_iname"		"Lvl3_Plank2"
 	}
-	">> OH NO!! ITS FAT SPIDER <<"
+	"587578"
 	{
-		"chi"		"**卧槽！好大一只蜘蛛！**"
+		"enable"		"0"
+		"hammerid"		"587578"
+		"m_iname"		"Lvl3_AngA"
 	}
-	">> FAT SPIDER IS DEAD <<"
+	"686263"
 	{
-		"chi"		"**大蜘蛛死了**"
+		"enable"		"0"
+		"hammerid"		"686263"
+		"m_iname"		"Lvl3_H_Block"
 	}
-	">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<"
+	"707126"
 	{
-		"chi"		"**玩家选择了：极限天堂**"
+		"enable"		"0"
+		"hammerid"		"707126"
+		"m_iname"		"Lvl3_AngB"
 	}
-	">> LEVEL: THE END <<"
+	"837376"
 	{
-		"chi"		"**关卡：最终的道路**"
+		"enable"		"0"
+		"hammerid"		"837376"
+		"m_iname"		"Lvl3_MetalFence"
 	}
-	">> ZOMBIE ITEM AS BEEN PICKED UP <<"
+	"974859"
 	{
-		"chi"		"**僵尸神器已被捡起**"
+		"enable"		"0"
+		"hammerid"		"974859"
+		"m_iname"		"Lvl3_AngA"
 	}
-	">> THE GRID IS CLOSED <<"
+	"712624"
 	{
-		"chi"		"**原来的路已被锁住，传送挂机者**"
+		"enable"		"0"
+		"hammerid"		"712624"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> DEFEND LONGER <<"
+	"712684"
 	{
-		"chi"		"**继续防御**"
+		"enable"		"0"
+		"hammerid"		"712684"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> A CLOUD IS COMING <<"
+	"712766"
 	{
-		"chi"		"**一朵云正在到来**"
+		"enable"		"0"
+		"hammerid"		"712766"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> CLOUD LEAVING IN 10 SECONDS <<"
+	"712811"
 	{
-		"chi"		"**云将会在10秒后离开**"
-		"DoorCountDown"		"10"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"712811"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> ITS SATAN WITH THE ANGELS !!! <<"
+	"712831"
 	{
-		"chi"		"**那是撒旦和天使们！！**"
+		"enable"		"0"
+		"hammerid"		"712831"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> ... HE IS GONE <<"
+	"712856"
 	{
-		"chi"		"**它跑了**"
+		"enable"		"0"
+		"hammerid"		"712856"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<"
+	"712883"
 	{
-		"chi"		"**坚守僵尸直到蝴蝶到来**"
+		"enable"		"0"
+		"hammerid"		"712883"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> BUTTERFLY IS HERE !!! <<"
+	"712928"
 	{
-		"chi"		"**蝴蝶来了！！！**"
+		"enable"		"0"
+		"hammerid"		"712928"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<"
+	"992017"
 	{
-		"chi"		"**蝴蝶将会在20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"992017"
+		"m_iname"		"Secret1_Angel"
 	}
-	"*** WHERE DID SATAN GO... ***"
+	"1192"
 	{
-		"chi"		"**撒旦到底去了哪里...**"
+		"enable"		"0"
+		"hammerid"		"1192"
+		"m_iname"		"Sky_Baby"
 	}
-	"*** THE DRAGON IS BACK FROM HELL !!! ***"
+	"1682860"
 	{
-		"chi"		"**卧槽，地狱龙跑出来了！**"
+		"enable"		"0"
+		"hammerid"		"1682860"
+		"m_iname"		"Item_Shroom_Drug_Phys"
 	}
-	">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<"
+	"712781"
 	{
-		"chi"		"**存活180秒**"
-		"DoorCountDown"		"180"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"712781"
+		"m_iname"		"Secret1_Angel"
 	}
-	">> LEVEL: ZM <<"
+	"837745"
 	{
-		"chi"		"**关卡：感染**"
+		"enable"		"0"
+		"hammerid"		"837745"
+		"m_iname"		"Ext3_Ground"
 	}
-	"[ZM] Save your ass from Zombies"
+	"1894"
 	{
-		"chi"		"**[感染关卡]保护你的菊花防止被僵尸爆掉**"
+		"enable"		"0"
+		"hammerid"		"1894"
+		"m_iname"		"Ext3_Grid"
 	}
-	">> NEXT LEVEL ZM <<"
+	"1003001"
 	{
-		"chi"		"**下一关将会是感染关**"
+		"enable"		"0"
+		"hammerid"		"1003001"
+		"m_iname"		"AngCage"
 	}
-	">> You have succesfully saved Shroomforest world !! <<"
+	"985657"
 	{
-		"chi"		"**你已经成功拯救整个蘑菇森林世界！！**"
+		"enable"		"0"
+		"hammerid"		"985657"
+		"m_iname"		"AngCageGrid"
 	}
-	"Congratulation !!!"
+	"822914"
 	{
-		"chi"		"**恭喜你们，快去发叶子**"
+		"enable"		"0"
+		"hammerid"		"822914"
+		"m_iname"		"Lvl3_Ground"
 	}
-	">> SATAN IS FINALLY DEFEATED !!! <<"
+	"950785"
 	{
-		"chi"		"**撒旦终于被击败了！！**"
+		"enable"		"0"
+		"hammerid"		"950785"
+		"m_iname"		"PlankClip"
 	}
-	">> PORTAL IS CLOSING !!! <<"
+	"1289061"
 	{
-		"chi"		"**传送点已被关闭！！**"
+		"enable"		"0"
+		"hammerid"		"1289061"
+		"m_iname"		"DeadAngel"
 	}
-	">> PORTAL CLOSING IN 5 SECONDS !!! <<"
+	"1289101"
 	{
-		"chi"		"**传送点将会在5秒后被关闭**"
+		"enable"		"0"
+		"hammerid"		"1289101"
+		"m_iname"		"DeadAngel"
 	}
-	">> PORTAL CLOSING IN 10 SECONDS !!! <<"
+	"1289165"
 	{
-		"chi"		"**传送点将会在10秒后被关闭**"
-		"DoorCountDown"		"10"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1289165"
+		"m_iname"		"DeadAngel"
 	}
-	">> DONT LET ZOMBIES GET IN !!! <<"
+	"1373359"
 	{
-		"chi"		"**别让僵尸进来！！**"
+		"enable"		"0"
+		"hammerid"		"1373359"
+		"m_iname"		"DeadAngel"
 	}
-	">> ESCAPE VIA THE PORTAL !!! <<"
+	"1373399"
 	{
-		"chi"		"**快进传送点！**"
+		"enable"		"0"
+		"hammerid"		"1373399"
+		"m_iname"		"DeadAngel"
 	}
-	">> SATAN IS HURT !!! <<"
+	"972939"
 	{
-		"chi"		"**撒旦受伤了！**"
+		"enable"		"0"
+		"hammerid"		"972939"
+		"m_iname"		"Ext3_End_NoFall"
 	}
-	">> NADE DOES MORE DAMAGE <<"
+	"837576"
 	{
-		"chi"		"**高爆手雷可以造成更大伤害**"
+		"enable"		"0"
+		"hammerid"		"837576"
+		"m_iname"		"TheEnd_MetalGrid"
 	}
-	">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<"
+	"837619"
 	{
-		"chi"		"**把它干掉，我们要拯救天使姐姐！！**"
+		"enable"		"0"
+		"hammerid"		"837619"
+		"m_iname"		"TheEnd_MetalGrid"
 	}
-	">> ITS SATAN AGAIN !!! <<"
+	"1289372"
 	{
-		"chi"		"**又是撒旦！！**"
+		"enable"		"0"
+		"hammerid"		"1289372"
+		"m_iname"		"TheEnd_SatanBody"
 	}
-	"*** .... WHAT IS HAPPENING ?? ***"
+	"1307540"
 	{
-		"chi"		"**....发生了什么？？**"
+		"enable"		"0"
+		"hammerid"		"1307540"
+		"m_iname"		"TheEnd_Cage"
 	}
-	"*** NADES DO MORE DAMAGE !!! ***"
+	"1307556"
 	{
-		"chi"		"**高爆手雷可以造成更大伤害**"
+		"enable"		"0"
+		"hammerid"		"1307556"
+		"m_iname"		"TheEnd_Cage_Door"
 	}
-	">> THE DRAGON HAS BEEN DEFEATED !!! <<"
+	"1206681"
 	{
-		"chi"		"**地狱龙被击败了！**"
+		"enable"		"0"
+		"hammerid"		"1206681"
+		"m_iname"		"Part1_SatanBody"
 	}
-	"*** GOOD JOB TEAM !!! ***"
+	"1288325"
 	{
-		"chi"		"**干得漂亮！**"
+		"enable"		"0"
+		"hammerid"		"1288325"
+		"m_iname"		"Hell_Cage2"
 	}
-	"*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***"
+	"1288347"
 	{
-		"chi"		"**我们必须尽快击杀它**"
+		"enable"		"0"
+		"hammerid"		"1288347"
+		"m_iname"		"Hell_Cage1"
 	}
-	">> SECRET MUSIC UNLOCKED <<"
+	"1288364"
 	{
-		"chi"		"**秘密音乐已被解锁**"
+		"enable"		"0"
+		"hammerid"		"1288364"
+		"m_iname"		"Hell_Cage4"
 	}
-	">> FIND THE TELEPORTER TO LEVEL ROOM <<"
+	"1288376"
 	{
-		"chi"		"**去寻找传送点进入调关房**"
+		"enable"		"0"
+		"hammerid"		"1288376"
+		"m_iname"		"Hell_Cage3"
 	}
-	">> PLAYER HAS CHOSEN: THE END <<"
+	"30778"
 	{
-		"chi"		"**玩家选择了：最终的道路**"
+		"enable"		"0"
+		"hammerid"		"30778"
+		"m_iname"		"ZM_BabySun"
 	}
-	">> 150 SECONDS LEFT <<"
+	"433549"
 	{
-		"chi"		"**剩余150秒**"
+		"enable"		"0"
+		"hammerid"		"433549"
+		"m_iname"		"ZM_Ladder"
 	}
-	">> 120 SECONDS LEFT <<"
+	"490741"
 	{
-		"chi"		"**剩余120秒**"
+		"enable"		"0"
+		"hammerid"		"490741"
+		"m_iname"		"ZM_Leaf"
 	}
-	">> 90 SECONDS LEFT <<"
+	"524372"
 	{
-		"chi"		"**剩余90秒**"
+		"enable"		"0"
+		"hammerid"		"524372"
+		"m_iname"		"ZM_Boxes"
 	}
-	">> 70 SECONDS LEFT <<"
+	"821692"
 	{
-		"chi"		"**剩余70秒**"
+		"enable"		"0"
+		"hammerid"		"821692"
+		"m_iname"		"ZM_Cade"
 	}
-	">> 50 SECONDS LEFT <<"
+	"821703"
 	{
-		"chi"		"**剩余50秒**"
+		"enable"		"0"
+		"hammerid"		"821703"
+		"m_iname"		"ZM_Cade"
 	}
-	">> 5 SECONDS LEFT <<"
+	"821713"
 	{
-		"chi"		"**剩余5秒**"
+		"enable"		"0"
+		"hammerid"		"821713"
+		"m_iname"		"ZM_Cade"
 	}
-	"[TheEnd] Eliminate Satan once and for all"
+	"821718"
 	{
-		"chi"		"**干掉撒旦，一劳永逸**"
+		"enable"		"0"
+		"hammerid"		"821718"
+		"m_iname"		"ZM_Cade"
 	}
-	">> 3 WINS IN A ROW !!! <<"
+	"821727"
 	{
-		"chi"		"**连赢三局！！**"
+		"enable"		"0"
+		"hammerid"		"821727"
+		"m_iname"		"ZM_Cade"
 	}
-	">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<"
+	"821735"
 	{
-		"chi"		"**感染关卡的秘密音乐已被解锁**"
+		"enable"		"0"
+		"hammerid"		"821735"
+		"m_iname"		"ZM_Cade"
 	}
-	"*** FLY LEAVING IN 30 SECONDS ***"
+	"821743"
 	{
-		"chi"		"**飞行物将会在30秒后离开**"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"821743"
+		"m_iname"		"ZM_Cade"
 	}
-	"[Extreme3] Save the Angels"
+	"821748"
 	{
-		"chi"		"**[极限关卡3]：拯救天使**"
+		"enable"		"0"
+		"hammerid"		"821748"
+		"m_iname"		"ZM_Cade"
 	}
-	"*** GATE OPENING IN 30 SECONDS ***"
+	"821756"
 	{
-		"chi"		"**大门将会在30秒后打开**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"821756"
+		"m_iname"		"ZM_Cade"
 	}
-	">> FALL BACK <<"
+	"821764"
 	{
-		"chi"		"**快跑！！**"
+		"enable"		"0"
+		"hammerid"		"821764"
+		"m_iname"		"ZM_Cade"
 	}
-	">> OH NO!! ITS FALLEN ANGEL <<"
+	"1321472"
 	{
-		"chi"		"**卧槽！是堕落天使！**"
+		"enable"		"0"
+		"hammerid"		"1321472"
+		"m_iname"		"ZM_Ladder"
 	}
-	">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<"
+	"1350811"
 	{
-		"chi"		"**堕落天使已被击败**"
-	}
-	">> LET THE ANGELS ESCAPE FIRST <<"
-	{
-		"chi"		"**让天使先走，我们继续守住**"
-	}
-	">> CONTINUE TO DEFEND <<"
-	{
-		"chi"		"**防守住**"
-	}
-	">> THE LAST ANGEL IS OUT <<"
-	{
-		"chi"		"**最后一个天使离开了**"
-	}
-	"*** BUTTERFLY LEAVING IN 30 SECONDS ***"
-	{
-		"chi"		"**蝴蝶将会在30秒后离开（蝴蝶将会爆炸，远离蝴蝶）**"
-	}
-	"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
-	{
-		"chi"		"**蝴蝶死了！！！继续防守！！！**"
-	}
-	">> THE ANGELS GOT THE RESCUE PLANK BACK <<"
-	{
-		"chi"		"**天使们拿来了安全板块，快撤**"
-	}
-	">> FALL BACK !!! <<"
-	{
-		"chi"		"**快跑！！！**"
-	}
-	">> THEY WILL TELEPORT US OUT <<"
-	{
-		"chi"		"**他们会把我们送出去...**"
-	}
-	">> IS THIS SATAN WORK.... <<"
-	{
-		"chi"		"**这应该是撒旦的工作...**"
-	}
-	">> TELEPORTING ZOMBIES <<"
-	{
-		"chi"		"**传送僵尸**"
-	}
-	">> WE HAVE TO ESCAPE THIS PLACE <<"
-	{
-		"chi"		"**我们得赶紧逃离这个地方**"
-	}
-	">> CLOUD LEAVING IN 40 SECONDS <<"
-	{
-		"chi"		"**云朵将会在40秒后离开**"
-		"DoorCountDown"		"40"
-		"ico"		"icon_tip"
-	}
-	"410 Painting Found"
-	{
-		"chi"		"**[4/10]四号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"510 Painting Found"
-	{
-		"chi"		"**[5/10]五号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"610 Painting Found"
-	{
-		"chi"		"**[6/10]六号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
-	{
-		"chi"		"**僵尸上到了逃脱载具，关卡失败！**"
-	}
-	"410 Ghost Found"
-	{
-		"chi"		"**[4/10]四号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"510 Ghost Found"
-	{
-		"chi"		"**[5/10]五号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"610 Ghost Found"
-	{
-		"chi"		"**[6/10]六号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"710 Ghost Found"
-	{
-		"chi"		"**[7/10]七号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"810 Ghost Found"
-	{
-		"chi"		"**[8/10]八号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"910 Ghost Found"
-	{
-		"chi"		"**[9/10]九号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"1010 Ghost Found"
-	{
-		"chi"		"**[10/10]十号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
-	}
-	"Boss Attack Delayed"
-	{
-		"chi"		"**BOSS的攻击被延迟了**"
-	}
-	"710 Painting Found"
-	{
-		"chi"		"**[7/10]七号绘画被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"410 Angel Found"
-	{
-		"chi"		"**[4/10]四号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"510 Angel Found"
-	{
-		"chi"		"**[5/10]五号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"610 Angel Found"
-	{
-		"chi"		"**[6/10]六号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"710 Angel Found"
-	{
-		"chi"		"**[7/10]七号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"810 Angel Found"
-	{
-		"chi"		"**[8/10]八号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"910 Angel Found"
-	{
-		"chi"		"**[9/10]九号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"1010 Angel Found"
-	{
-		"chi"		"**[10/10]十号天使被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"810 Painting Found"
-	{
-		"chi"		"**[8/10]八号绘画被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"910 Painting Found"
-	{
-		"chi"		"**[9/10]九号绘画被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	"1010 Painting Found"
-	{
-		"chi"		"**[10/10]十号绘画被发现（集齐所有触发可减缓BOSS攻击） **"
-	}
-	">> Map ported by 單純 <<"
-	{
-		"chi"		"** **"
-	}
-	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
-	{
-		"chi"		"**僵尸神器马勃菌(催泪弹蘑菇)已被拾取 效果:对投掷目标范围内所有玩家造成催泪干扰**"
-	}
-	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
-	{
-		"chi"		"**僵尸神器闪电云已被拾取 作用:刷出一朵云对云正下方人类进行高额雷劈伤害**"
-	}
-	">> PLAYER HAS CHOSEN: RAVINE <<"
-	{
-		"chi"		"**玩家选择了关卡:GROKE与幽灵 LV1**"
-	}
-	">> PLAYER HAS CHOSEN: TV EXTREME <<"
-	{
-		"chi"		"**玩家选择了:电视 LV2**"
-	}
-	">> RESTARTING ROUND IN 5 SECONDS <<"
-	{
-		"chi"		"**关卡5秒后重启**"
-	}
-	">> PLAYER HAS CHOSEN: ZM<<"
-	{
-		"chi"		"**玩家选择了:ZM**"
-	}
-	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
-	{
-		"chi"		"**玩家选择了:极限GROKE EX1**"
-	}
-	">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1350811"
+		"m_iname"		"ZM_Grid"
 	}
 }

@@ -1,151 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	">>MANAGE MUSIC VOLUME IN CSS PARAMETERS<<<"
+	"64179"
 	{
-		"chi"		"音乐音量可在游戏的音频设置里调整"
+		"enable"		"0"
+		"hammerid"		"64179"
+		"m_iname"		"phare_break_escalier"
 	}
-	">>>RUN TO THE CT FLIGHING BOAT<<<<"
+	"98527"
 	{
-		"chi"		"人类快前往你们专属的飞艇"
+		"enable"		"0"
+		"hammerid"		"98527"
+		"m_iname"		"cascade_glass"
 	}
-	">>>FOLLOW THE BLUE LIGHT<<<<"
+	"101209"
 	{
-		"chi"		"就在蓝色灯那边"
+		"enable"		"0"
+		"hammerid"		"101209"
+		"m_iname"		"cascade_break"
 	}
-	">>>MAP BY LeGrem<<<"
+	"117978"
 	{
-		"chi"		"地图制作：LeGrem  汉化：蓝山咖啡"
+		"enable"		"0"
+		"hammerid"		"117978"
+		"m_iname"		"bunker_break2_echelle"
 	}
-	">>>CT FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	"118161"
 	{
-		"chi"		"人类号飞艇将在15秒后离开"
+		"enable"		"0"
+		"hammerid"		"118161"
+		"m_iname"		"bunker_break1_echelle"
 	}
-	">>>ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS<<<"
+	"125580"
 	{
-		"chi"		"僵尸号飞艇将在10秒后离开"
+		"enable"		"0"
+		"hammerid"		"125580"
+		"m_iname"		"bunker_break_zm1"
 	}
-	">>>CT FLIGHING BOAT LEAVING<<<"
+	"125626"
 	{
-		"chi"		"人类号飞艇已离开"
+		"enable"		"0"
+		"hammerid"		"125626"
+		"m_iname"		"bunker_break_zm2"
 	}
-	">>>ZOMBIES FLIGHING BOAT LEAVING<<<"
+	"160072"
 	{
-		"chi"		"僵尸号飞艇已离开"
+		"enable"		"0"
+		"hammerid"		"160072"
+		"m_iname"		"garage_break_echelle"
 	}
-	">>>WAIT C4 EXPLOSION<<<"
+	"161761"
 	{
-		"chi"		"等待C4爆破"
+		"enable"		"0"
+		"hammerid"		"161761"
+		"m_iname"		"garage_break"
 	}
-	">>>20 SECONDS LEFT<<<"
+	"162080"
 	{
-		"chi"		"20秒"
+		"enable"		"0"
+		"hammerid"		"162080"
+		"m_iname"		"garage_break2"
 	}
-	">>>5 seconds left<<<"
+	"293577"
 	{
-		"chi"		"5秒"
+		"enable"		"0"
+		"hammerid"		"293577"
+		"m_iname"		"fin_break_att_zm"
 	}
-	">>>RUN<<<"
+	"294659"
 	{
-		"chi"		"撤退！"
+		"enable"		"0"
+		"hammerid"		"294659"
+		"m_iname"		"garage_break2"
 	}
-	">>> WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE<<<"
+	"345570"
 	{
-		"chi"		"在灯塔顶端等待飞艇到达"
+		"enable"		"0"
+		"hammerid"		"345570"
+		"m_iname"		"fin_break_att_zm"
 	}
-	">>>WAIT THE FLYING BOAT 15 SECONDS<<<"
+	"349868"
 	{
-		"chi"		"等候飞艇15秒"
+		"enable"		"0"
+		"hammerid"		"349868"
+		"m_iname"		"fin_break_40"
 	}
-	">>>FLYING BOAT LEAVING IN 10 SECONDS<<<"
+	"358190"
 	{
-		"chi"		"飞艇将在10秒后离开"
+		"enable"		"0"
+		"hammerid"		"358190"
+		"m_iname"		"bunker_break_etag1"
 	}
-	">>>THE OTHER NEED TO COVER<<<"
+	"372497"
 	{
-		"chi"		"注意僵尸能从窗户进来！"
+		"enable"		"0"
+		"hammerid"		"372497"
+		"m_iname"		"phare_break_escalier"
 	}
-	">>>BREAK THE WOODEN BLOCKER ON TOP<<<"
+	"377732"
 	{
-		"chi"		"打破顶端的木板！"
-	}
-	">>>DOORS CLOSING IN 25 SECONDS<<<"
-	{
-		"chi"		"大门将在25秒后关闭"
-	}
-	">>>DOORS CLOSING IN 5 SECONDS<<<"
-	{
-		"chi"		"大门将在5秒后关闭"
-	}
-	">>>FLYING BOAT WILL LEAVE IN 15 SECONDS<<<"
-	{
-		"chi"		"飞艇将在15秒后离开"
-	}
-	">>>COVER 25 SECONDS<<<"
-	{
-		"chi"		"坚守25秒"
-	}
-	">>>START THE GENERATOR TO OPEN THE DOOR<<<"
-	{
-		"chi"		"启动发动机以将门打开"
-	}
-	">>>FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
-	{
-		"chi"		"飞艇将在15秒后离开"
-	}
-	">>>ACTIVATE THE GENERATOR<<<"
-	{
-		"chi"		"启动发动机！"
-	}
-	">>>DOOR WILL OPEN IN 30 SECONDS<<<"
-	{
-		"chi"		"后门将在30秒后打开。不要贴门！守住！"
-	}
-	">>RUN TO THE LAB<<"
-	{
-		"chi"		"撤到实验室！"
-	}
-	">>>COVER 20 SECONDS<<<"
-	{
-		"chi"		"坚守20秒"
-	}
-	">>>RUN TO THE AIRPORT BUILDING<<<"
-	{
-		"chi"		"到候机大楼去"
-	}
-	">>>COVER 45 SECONDS<<<"
-	{
-		"chi"		"坚守45秒"
-	}
-	">>>OVER 15 CT - DOOR ON 1ST FLOOR IS OPEN<<<"
-	{
-		"chi"		"存活人类超过15人，开启一楼侧门"
-	}
-	">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<"
-	{
-		"chi"		"到控制室激活控制器"
-	}
-	">>>CONTROL PANEL ACTIVATED<<<"
-	{
-		"chi"		"控制器已被激活"
-	}
-	">>>TAKE THE LADDER<<<"
-	{
-		"chi"		"从梯子下到楼下"
-	}
-	">>>RUN TO THE NEXT CONTROL PANEL<<<"
-	{
-		"chi"		"去激活下一个控制器"
-	}
-	">>>RUN TO THE LAST CONTROL PANEL<<<"
-	{
-		"chi"		"激活最后一个控制器"
-	}
-	">>>LIFT LEAVING IN 15 SECONDS<<<"
-	{
-		"chi"		"升降机15秒后离开"
-	}
-	">>>OVER 30 CT - DOOR ON 2ND FLOOR IS OPEN<<<"
-	{
-		"chi"		">>>超过30个人类存活。二楼开启！！！<<<"
+		"enable"		"0"
+		"hammerid"		"377732"
+		"m_iname"		"garage_break_esc"
 	}
 }

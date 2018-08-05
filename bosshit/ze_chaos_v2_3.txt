@@ -1,223 +1,243 @@
-"Console_T"
+"BOSSHP"
 {
-	"<--Map Made By Color-->"
+	"338479"
 	{
-		"chi"		"**地图作者&翻译:[酸奶]**"
+		"enable"		"0"
+		"hammerid"		"338479"
+		"m_iname"		"break_1"
 	}
-	"<--Warm Up Time-->"
+	"389105"
 	{
-		"chi"		"**热身时间**"
+		"enable"		"0"
+		"hammerid"		"389105"
+		"m_iname"		"warmup_box"
 	}
-	"<--A human has picked White Knight-->"
+	"389210"
 	{
-		"chi"		"**一名人类捡起了高达**"
+		"enable"		"0"
+		"hammerid"		"389210"
+		"m_iname"		"break_2"
 	}
-	"<--A human has picked Beam Ball-->"
+	"3538"
 	{
-		"chi"		"**一名人类捡起了光束法球**"
+		"enable"		"0"
+		"hammerid"		"3538"
+		"m_iname"		"door_1"
 	}
-	"<--A human has picked Snowstorm Ball-->"
+	"354456"
 	{
-		"chi"		"**一名人类捡起了暴风雪法球**"
+		"enable"		"0"
+		"hammerid"		"354456"
+		"m_iname"		"knight_break"
 	}
-	"<--A human has picked Fire Ball-->"
+	"354481"
 	{
-		"chi"		"**一名人类捡起了火焰法球**"
+		"enable"		"0"
+		"hammerid"		"354481"
+		"m_iname"		"health_break"
 	}
-	"<--A human has picked Water Ball-->"
+	"116737"
 	{
-		"chi"		"**一名人类捡起了冰水法球**"
+		"enable"		"0"
+		"hammerid"		"116737"
+		"m_iname"		"level1_break_6"
 	}
-	"<--A human has picked Lightning Ball-->"
+	"63490"
 	{
-		"chi"		"**一名人类捡起了闪电法球**"
+		"enable"		"0"
+		"hammerid"		"63490"
+		"m_iname"		"level1_break_4"
 	}
-	"<--A zombie has picked Dark Ball-->"
+	"63493"
 	{
-		"chi"		"**一名僵尸捡起了黑暗法球**"
+		"enable"		"0"
+		"hammerid"		"63493"
+		"m_iname"		"level1_break_5"
 	}
-	"<--A zombie has picked Alacrity Ball-->"
+	"63542"
 	{
-		"chi"		"**一名僵尸捡起了迅捷法球**"
+		"enable"		"0"
+		"hammerid"		"63542"
+		"m_iname"		"level1_break_3"
 	}
-	"<--A zombie has picked Health Ball-->"
+	"63583"
 	{
-		"chi"		"**一名僵尸捡起了治愈法球**"
+		"enable"		"0"
+		"hammerid"		"63583"
+		"m_iname"		"level1_break_1"
 	}
-	"<--A zombie has picked Poison Ball-->"
+	"63586"
 	{
-		"chi"		"**一名僵尸捡起了毒素法球**"
+		"enable"		"0"
+		"hammerid"		"63586"
+		"m_iname"		"level1_break_2"
 	}
-	"<--Hold for 60s-->"
+	"810116"
 	{
-		"chi"		"**坚守60秒**"
+		"enable"		"0"
+		"hammerid"		"810116"
+		"m_iname"		"level1_break_7"
 	}
-	"<--Hold for 15s-->"
+	"116831"
 	{
-		"chi"		"**坚守15秒**"
+		"enable"		"0"
+		"hammerid"		"116831"
+		"m_iname"		"level1_box"
 	}
-	"<--Hold for 35s-->"
+	"304200"
 	{
-		"chi"		"**坚守35秒**"
+		"enable"		"1"
+		"hammerid"		"304200"
+		"m_iname"		"level2_boss_he_box"
 	}
-	"<--Hold for last 30s-->"
+	"266933"
 	{
-		"chi"		"**坚守最后30秒**"
+		"enable"		"0"
+		"hammerid"		"266933"
+		"m_iname"		"level2_break_5"
 	}
-	"<--Hold for last 45s-->"
+	"211015"
 	{
-		"chi"		"**坚守最后45秒**"
+		"enable"		"1"
+		"hammerid"		"211015"
+		"m_iname"		"level2_boss_box"
 	}
-	"<--Wait for 10s-->"
+	"126208"
 	{
-		"chi"		"**等待10秒**"
+		"enable"		"0"
+		"hammerid"		"126208"
+		"m_iname"		"level2_break"
 	}
-	"<--Wait for 15s-->"
+	"116859"
 	{
-		"chi"		"**等待15秒**"
+		"enable"		"0"
+		"hammerid"		"116859"
+		"m_iname"		"level2_box"
 	}
-	"<--Wait for 60s-->"
+	"36726"
 	{
-		"chi"		"**等待60秒**"
+		"enable"		"0"
+		"hammerid"		"36726"
+		"m_iname"		"level2_break_3"
 	}
-	"<--Wait for 45s-->"
+	"34960"
 	{
-		"chi"		"**等待45秒**"
+		"enable"		"0"
+		"hammerid"		"34960"
+		"m_iname"		"level2_break_2"
 	}
-	"<--Wait for 30s-->"
+	"35725"
 	{
-		"chi"		"**等待30秒**"
+		"enable"		"0"
+		"hammerid"		"35725"
+		"m_iname"		"level2_break_6"
 	}
-	"<--Wait for 35s-->"
+	"23373"
 	{
-		"chi"		"**等待35秒**"
+		"enable"		"0"
+		"hammerid"		"23373"
+		"m_iname"		"level2_break_4"
 	}
-	"<--Wait for 50s-->"
+	"22056"
 	{
-		"chi"		"**等待50秒**"
+		"enable"		"0"
+		"hammerid"		"22056"
+		"m_iname"		"level2_break_1"
 	}
-	"<--5s left-->"
+	"672611"
 	{
-		"chi"		"**剩余5秒**"
+		"enable"		"0"
+		"hammerid"		"672611"
+		"m_iname"		"level3_break_11"
 	}
-	"<--4s left-->"
+	"667122"
 	{
-		"chi"		"**剩余4秒**"
+		"enable"		"0"
+		"hammerid"		"667122"
+		"m_iname"		"level3_break_10"
 	}
-	"<--3s left-->"
+	"655413"
 	{
-		"chi"		"**剩余3秒**"
+		"enable"		"0"
+		"hammerid"		"655413"
+		"m_iname"		"level3_waha_box_1"
 	}
-	"<--2s left-->"
+	"598591"
 	{
-		"chi"		"**剩余2秒**"
+		"enable"		"0"
+		"hammerid"		"598591"
+		"m_iname"		"level3_break_5"
 	}
-	"<--1s left-->"
+	"588290"
 	{
-		"chi"		"**剩余1秒**"
+		"enable"		"0"
+		"hammerid"		"588290"
+		"m_iname"		"level3_break_3"
 	}
-	"sync_version"
+	"588336"
 	{
-		"syncvalue"		"10115"
+		"enable"		"0"
+		"hammerid"		"588336"
+		"m_iname"		"level3_box"
 	}
-	"<--Wood door will break in 40s-->"
+	"582966"
 	{
-		"chi"		"**木门将在40秒后碎裂**"
+		"enable"		"0"
+		"hammerid"		"582966"
+		"m_iname"		"level3_break_1"
 	}
-	"<--Wood door will break in 5s-->"
+	"655420"
 	{
-		"chi"		"**木门将在5秒后碎裂**"
+		"enable"		"0"
+		"hammerid"		"655420"
+		"m_iname"		"level3_waha_box_2"
 	}
-	"<--Wood door will break in 60s-->"
+	"644440"
 	{
-		"chi"		"**木门将在60秒后碎裂**"
+		"enable"		"0"
+		"hammerid"		"644440"
+		"m_iname"		"level3_break_9"
 	}
-	"<--Wood door will break in 30s-->"
+	"627832"
 	{
-		"chi"		"**木门将在30秒后碎裂**"
+		"enable"		"0"
+		"hammerid"		"627832"
+		"m_iname"		"level3_break_7"
 	}
-	"<--Wood door will break in 45s-->"
+	"621285"
 	{
-		"chi"		"**木门将在45秒后碎裂**"
+		"enable"		"0"
+		"hammerid"		"621285"
+		"m_iname"		"level3_break_8"
 	}
-	"<--Touch 2 beams-->"
+	"604949"
 	{
-		"chi"		"**触碰2个光束**"
+		"enable"		"0"
+		"hammerid"		"604949"
+		"m_iname"		"level3_break_6"
 	}
-	"<--Zombies are in the room-->"
+	"598533"
 	{
-		"chi"		"**僵尸在房间里**"
+		"enable"		"0"
+		"hammerid"		"598533"
+		"m_iname"		"level3_break_4"
 	}
-	"<--Shoot zombies into the water-->"
+	"583050"
 	{
-		"chi"		"**把僵尸射进水中**"
+		"enable"		"0"
+		"hammerid"		"583050"
+		"m_iname"		"level3_break_2"
 	}
-	"<--Failed-->"
+	"1013210"
 	{
-		"chi"		"**失败**"
+		"enable"		"0"
+		"hammerid"		"1013210"
+		"m_iname"		"level2_break_7"
 	}
-	"<--Collect 3 glow balls-->"
+	"393917"
 	{
-		"chi"		"**收集3个光球**"
-	}
-	"<--Wood door will break in 35s-->"
-	{
-		"chi"		"**木门将在35秒后碎裂**"
-	}
-	"<--Hold for 40s-->"
-	{
-		"chi"		"**坚守40秒**"
-	}
-	"<--What...it's a dragon-->"
-	{
-		"chi"		"**那是什么...它是龙**"
-	}
-	"<--It comes...-->"
-	{
-		"chi"		"**它来了...**"
-	}
-	"<--Grenade can damage dragon-->"
-	{
-		"chi"		"**手雷能够对龙造成伤害**"
-	}
-	"<--Balls can damage dragon except beam ball-->"
-	{
-		"chi"		"**除了光束法球外，其余法球能够对龙造成伤害**"
-	}
-	"<--Dragon uses black hole-->"
-	{
-		"chi"		"**龙释放黑洞**"
-	}
-	"<--Dragon uses fire-->"
-	{
-		"chi"		"**龙释放火焰**"
-	}
-	"<--Dragon uses meteor-->"
-	{
-		"chi"		"**龙释放陨石**"
-	}
-	"<--A human has picked White Knight-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Wood door will break in 15s-->"
-	{
-		"chi"		"** **"
-	}
-	"<--What...its a dragon-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Hold for last 25s-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Wait for 20s-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Wait for 40s-->"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"393917"
+		"m_iname"		"wk_box"
 	}
 }

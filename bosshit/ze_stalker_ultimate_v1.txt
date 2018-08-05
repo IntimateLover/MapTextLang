@@ -1,372 +1,369 @@
-"Console_T"
+"BOSSHP"
 {
-	"**This is a map based on the game STALKER**"
+	"750088"
 	{
-		"chi"		"**这是根据游戏（潜行者）制作的地图 **"
+		"enable"		"1"
+		"hammerid"		"750088"
+		"m_iname"		"boss_nade"
 	}
-	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
+	"822003"
 	{
-		"chi"		"**这不是简单的地图.它需要很好的技巧和良好的团队 **"
+		"enable"		"0"
+		"hammerid"		"822003"
+		"m_iname"		"phys2"
 	}
-	"Map by gleb_erilov(Headshooter.SC) Special thanks to LonllY POMKA Said Z-O-M-B-I-E"
+	"1342"
 	{
-		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪  特别感谢：LonllY POMKA Said Z-O-M-B-I-E的各位 **"
+		"enable"		"0"
+		"hammerid"		"1342"
+		"m_iname"		"dif_box1"
 	}
-	"Type in console mat_colorcorrection 1 for dynamic effects!!"
+	"1376"
 	{
-		"chi"		"**关闭和开启动态效果在控制台输入mat_colorcorrection 1！！ **"
+		"enable"		"0"
+		"hammerid"		"1376"
+		"m_iname"		"dif_box2"
 	}
-	"A player picked up meatchunk"
+	"359795"
 	{
-		"chi"		"**一名玩家拿起神器：meatchunk(诱引) **"
+		"enable"		"0"
+		"hammerid"		"359795"
+		"m_iname"		"l3_break"
 	}
-	"Zombie shield is activated. You have 15 seconds."
+	"750448"
 	{
-		"chi"		"**僵尸空气墙被激活.你有15秒逃离 **"
+		"enable"		"0"
+		"hammerid"		"750448"
+		"m_iname"		"CY01Physic"
 	}
-	"A player picked up spikeball"
+	"750102"
 	{
-		"chi"		"**一名玩家拿起神器：spikeball（奶） **"
+		"enable"		"1"
+		"hammerid"		"750102"
+		"m_iname"		"boss_break"
 	}
-	"A player picked up fireball"
+	"762933"
 	{
-		"chi"		"**一名玩家拿起神器：fireball（火） **"
+		"enable"		"1"
+		"hammerid"		"762933"
+		"m_iname"		"boss3_break"
 	}
-	"A player picked up a piece of flesh"
+	"763356"
 	{
-		"chi"		"**一名玩家拿起神器：flesh（风） **"
+		"enable"		"0"
+		"hammerid"		"763356"
+		"m_iname"		"l3_end_door"
 	}
-	"A player picked up flash"
+	"763359"
 	{
-		"chi"		"**一名玩家拿起神器：flash（电） **"
+		"enable"		"0"
+		"hammerid"		"763359"
+		"m_iname"		"l3_end_door"
 	}
-	"A player picked up nightstar"
+	"763362"
 	{
-		"chi"		"**一名玩家拿起神器nightstar（减速） **"
+		"enable"		"0"
+		"hammerid"		"763362"
+		"m_iname"		"l3_end_door"
 	}
-	"Lab door 1 will open in 11 seconds"
+	"763365"
 	{
-		"chi"		"**实验室门1将在11秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"763365"
+		"m_iname"		"l3_end_door"
 	}
-	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	"763368"
 	{
-		"chi"		"**电梯1将在4秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"763368"
+		"m_iname"		"l3_end_door"
 	}
-	"Lab door 1 will open for zombies in 18 seconds"
+	"763371"
 	{
-		"chi"		"**实验门1将在18秒后为僵尸打开 **"
+		"enable"		"0"
+		"hammerid"		"763371"
+		"m_iname"		"l3_end_door"
 	}
-	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
+	"763415"
 	{
-		"chi"		"**如果你想打开门就必须要打开电力（电力开关在墙上，请仔细寻找）! ! ! **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"763415"
+		"m_iname"		"lab_phys1"
 	}
-	"The gate 1 will open in 30 seconds"
+	"763421"
 	{
-		"chi"		"**门1将在30秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"763421"
+		"m_iname"		"lab_phys1"
 	}
-	"The gate 2 will open in 30 seconds"
+	"763424"
 	{
-		"chi"		"**门2将在30秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"763424"
+		"m_iname"		"lab_phys1"
 	}
-	"***The electricity in on. You can push the panels to open the gates***"
+	"821876"
 	{
-		"chi"		"**现在已经有了电力.你可以按下按钮打开两边的门 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"821876"
+		"m_iname"		"CY01Physic2"
 	}
-	"Zombie shield is disabled."
+	"965866"
 	{
-		"chi"		"**僵尸空气墙处于关闭状态 **"
+		"enable"		"0"
+		"hammerid"		"965866"
+		"m_iname"		"dif_box3"
 	}
-	"Lab door 2 will open in 13 seconds"
+	"965869"
 	{
-		"chi"		"**实验室门2将在13秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"965869"
+		"m_iname"		"dif_box4"
 	}
-	"Lab door 2 will open for zombies in 18 seconds"
+	"1346233"
 	{
-		"chi"		"**实验门2将在18秒后为僵尸打开 **"
+		"enable"		"1"
+		"hammerid"		"1346233"
+		"m_iname"		"boss2_nade"
 	}
-	"Hold this position for 6 seconds!!"
+	"1346236"
 	{
-		"chi"		"**守住这里，窗子将在6秒后打开 **"
+		"enable"		"1"
+		"hammerid"		"1346236"
+		"m_iname"		"boss2_break"
 	}
-	"The Chernobyl gate will open in 20 seconds."
+	"1688339"
 	{
-		"chi"		"**切尔诺贝利核电站的大门将在20秒后开启 **"
+		"enable"		"1"
+		"hammerid"		"1688339"
+		"m_iname"		"boss3_break"
 	}
-	"Hold this position for 10 seconds!!"
+	"1730646"
 	{
-		"chi"		"**守住这里10秒 **"
-		"DoorCountDown"		"10"
+		"enable"		"1"
+		"hammerid"		"1730646"
+		"m_iname"		"boss_break2"
 	}
-	"Zombie sheld is activated for 30 seconds!!"
+	"1730649"
 	{
-		"chi"		"**僵尸被空气墙阻拦30秒 **"
+		"enable"		"1"
+		"hammerid"		"1730649"
+		"m_iname"		"boss_nade2"
 	}
-	"Survive for 70 seconds"
+	"1730718"
 	{
-		"chi"		"**生存70秒 **"
-		"DoorCountDown"		"70"
+		"enable"		"1"
+		"hammerid"		"1730718"
+		"m_iname"		"boss_nade3"
 	}
-	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
+	"1384"
 	{
-		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
+		"enable"		"0"
+		"hammerid"		"1384"
+		"m_iname"		"dif_box"
 	}
-	"**You win the round!!You unlock the hard mode.**"
+	"208011"
 	{
-		"chi"		"**你赢了这一轮!!你解锁了困难模式。 **"
+		"enable"		"0"
+		"hammerid"		"208011"
+		"m_iname"		"phys1_1"
 	}
-	"**AUTO-SLAYER ENABLED**"
+	"208426"
 	{
-		"chi"		"**第二关：auto-slayer启用 **"
+		"enable"		"0"
+		"hammerid"		"208426"
+		"m_iname"		"phys1_1"
 	}
-	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	"1762654"
 	{
-		"chi"		"**电梯2将在9秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"1762654"
+		"m_iname"		"quest_box"
 	}
-	"**Hold the place for 25 seconds**"
+	"750066"
 	{
-		"chi"		"**守住这个位置25秒 **"
-		"DoorCountDown"		"25"
+		"enable"		"1"
+		"hammerid"		"750066"
+		"m_iname"		"boss_tar"
 	}
-	"***Break the spheres to escape***"
+	"821859"
 	{
-		"chi"		"**赶紧打破中间所有的玻璃圆柱然后逃走 **"
+		"enable"		"1"
+		"hammerid"		"821859"
+		"m_iname"		"boss_tar2"
 	}
-	"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	"679"
 	{
-		"chi"		"**哦，不，是谁？我们必须杀死它！ **"
+		"enable"		"0"
+		"hammerid"		"679"
+		"m_iname"		"door3"
 	}
-	"**There are zombies in bunker. The level is failed.**"
+	"805"
 	{
-		"chi"		"**有僵尸在.本关失败 **"
+		"enable"		"0"
+		"hammerid"		"805"
+		"m_iname"		"f_b1"
 	}
-	"**You did it!! You have completed stage 2!!**"
+	"1077"
 	{
-		"chi"		"**你做到了！你已经通过了第二关！！  **"
+		"enable"		"0"
+		"hammerid"		"1077"
+		"m_iname"		"f_bre1"
 	}
-	"**now is the time to see something new**"
+	"1200"
 	{
-		"chi"		"**现在是时候看到新的东西了 **"
+		"enable"		"0"
+		"hammerid"		"1200"
+		"m_iname"		"f_bre1"
 	}
-	"Bloodsucker is watching you..."
+	"1203"
 	{
-		"chi"		"**吸血鬼在注视着你...... **"
+		"enable"		"0"
+		"hammerid"		"1203"
+		"m_iname"		"f_bre1"
 	}
-	"**Bloodsucker have been defeated**"
+	"1206"
 	{
-		"chi"		"**吸血鬼被打败了 **"
+		"enable"		"0"
+		"hammerid"		"1206"
+		"m_iname"		"f_bre1"
 	}
-	"**Your items got more power**"
+	"1396"
 	{
-		"chi"		"**你可以使用更高级的神器 **"
+		"enable"		"0"
+		"hammerid"		"1396"
+		"m_iname"		"f_bre4"
 	}
-	"**Wait until the debris break**"
+	"60257"
 	{
-		"chi"		"**等到前面的废墟爆炸 **"
+		"enable"		"0"
+		"hammerid"		"60257"
+		"m_iname"		"break1"
 	}
-	"**OPENING THE GATES (10 SECONDS)**"
+	"61448"
 	{
-		"chi"		"**等待门打开（10秒） **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"61448"
+		"m_iname"		"break2"
 	}
-	"**The door wil open in 10 seconds**"
+	"155463"
 	{
-		"chi"		"**门会在10秒后打开 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"155463"
+		"m_iname"		"metal"
 	}
-	"**Hold this way for 10 seconds**"
+	"155490"
 	{
-		"chi"		"**守住这里10秒 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"155490"
+		"m_iname"		"metal2"
 	}
-	"**Its dead. Good job**"
+	"155512"
 	{
-		"chi"		"**它死了，干得好 **"
+		"enable"		"0"
+		"hammerid"		"155512"
+		"m_iname"		"metal3"
 	}
-	"**1 PLAYER have to go to the command room to take documents**"
+	"155527"
 	{
-		"chi"		"**1名玩家必须到指挥室去拿证件 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"155527"
+		"m_iname"		"metal4"
 	}
-	"**The documents are here!**We are too close!**"
+	"189088"
 	{
-		"chi"		"**文件在这里！**它离我们太接近了！ **"
+		"enable"		"0"
+		"hammerid"		"189088"
+		"m_iname"		"gate1"
 	}
-	"**Defend a bit**The door will explode in a few seconds!**"
+	"198484"
 	{
-		"chi"		"**守住这里**门会在几秒钟后爆炸！ **"
+		"enable"		"0"
+		"hammerid"		"198484"
+		"m_iname"		"spheres"
 	}
-	"**RUN RUN RUN!!!**"
+	"198487"
 	{
-		"chi"		"**跑跑跑！！ **"
+		"enable"		"0"
+		"hammerid"		"198487"
+		"m_iname"		"spheres"
 	}
-	"**Good job!! You won stage 3!! New area opened!**"
+	"198490"
 	{
-		"chi"		"**干得好!你赢了第三关！解锁新地区！ **"
+		"enable"		"0"
+		"hammerid"		"198490"
+		"m_iname"		"spheres"
 	}
-	"**GO INTO THE TELEPORTER***"
+	"198493"
 	{
-		"chi"		"**进入传送点 **"
+		"enable"		"0"
+		"hammerid"		"198493"
+		"m_iname"		"spheres"
 	}
-	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	"198496"
 	{
-		"chi"		"**你有时间去寻找一些隐藏的神器 **"
+		"enable"		"0"
+		"hammerid"		"198496"
+		"m_iname"		"spheres"
 	}
-	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	"198499"
 	{
-		"chi"		"**然后撤退，等待空气墙打开 **"
+		"enable"		"0"
+		"hammerid"		"198499"
+		"m_iname"		"spheres"
 	}
-	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	"199441"
 	{
-		"chi"		"**所有AFK玩家和走的慢的玩家被传送 **"
+		"enable"		"0"
+		"hammerid"		"199441"
+		"m_iname"		"level2_end1"
 	}
-	"**NOW WE ARE READY TO GO**"
+	"231173"
 	{
-		"chi"		"**现在我们已经准备好 **"
+		"enable"		"0"
+		"hammerid"		"231173"
+		"m_iname"		"level2_cage"
 	}
-	"**Hold here for 25 seconds**"
+	"274777"
 	{
-		"chi"		"**在这里守住25秒 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"274777"
+		"m_iname"		"level3_debris"
 	}
-	"**And then go to the pool**"
+	"285636"
 	{
-		"chi"		"**然后去游泳池 **"
+		"enable"		"0"
+		"hammerid"		"285636"
+		"m_iname"		"l3_ladder"
 	}
-	"**..We founded something unusial..**"
+	"650803"
 	{
-		"chi"		"**..我们发现了一些不寻常的.. **"
+		"enable"		"0"
+		"hammerid"		"650803"
+		"m_iname"		"f_bre2"
 	}
-	"**.. Is it a new anomaly?!..**"
+	"650835"
 	{
-		"chi"		"**.. 它是一个新的物种吗？!.. **"
+		"enable"		"0"
+		"hammerid"		"650835"
+		"m_iname"		"l2_unlock"
 	}
-	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	"821994"
 	{
-		"chi"		"**BOSS控制了你的大脑！！这个地方不是真实的！！ **"
+		"enable"		"0"
+		"hammerid"		"821994"
+		"m_iname"		"l4_break1"
 	}
-	"**You have defeated controller!!! Good job**"
+	"1376065"
 	{
-		"chi"		"**你打败了BOSS！ 做得好 **"
+		"enable"		"0"
+		"hammerid"		"1376065"
+		"m_iname"		"l4_break2"
 	}
-	"**Now go away to the coast**"
+	"1761290"
 	{
-		"chi"		"**现在去海岸  **"
-		"ico"		"icon_fire"
-	}
-	"**The blowout is comming**"
-	{
-		"chi"		"**核反应堆开始不稳定 **"
-	}
-	"**Prepare for ultimate survival. Fight for your life!!**"
-	{
-		"chi"		"**拼尽全力存活下来 **"
-		"ico"		"icon_fire"
-	}
-	"**FIREBALL GOT MAXIMUM POWER**"
-	{
-		"chi"		"**火球升级到最高级 **"
-		"ico"		"icon_fire"
-	}
-	"**YOU DID IT!!!**GOOD LUCK!!**"
-	{
-		"chi"		"**你做到了！！！**祝你好运！ **"
-	}
-	"**Prepare to FIGHT**"
-	{
-		"chi"		"**准备战斗 **"
-	}
-	"**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**"
-	{
-		"chi"		"**所有神器升级到最高级**在必要时使用 **"
-	}
-	"**PREPARE TO MOVE IN 10 SECONDS!**"
-	{
-		"chi"		"**准备在10秒后撤退 **"
-		"DoorCountDown"		"10"
-	}
-	"**GO!!**GO!!**GO!!**"
-	{
-		"chi"		"**走！！**走！！**走！！ **"
-	}
-	"**DONT LET HIM TO FAIL US!!**"
-	{
-		"chi"		"**不要让它失败！！ **"
-	}
-	"**PLAY AS YOU CAN**"
-	{
-		"chi"		"**发挥你的技术 **"
-	}
-	"**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
-	{
-		"chi"		"**你很接近胜利**继续守住  **"
-	}
-	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
-	{
-		"chi"		"**又是这家伙！！他想杀死我们！你可以开枪！！！ **"
-	}
-	"**HE IS DEAD!!NICE WORK!!**"
-	{
-		"chi"		"**他死了!!干得好！！ **"
-	}
-	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
-	{
-		"chi"		"**你征服了本地图！你是真正的潜行者！！！ **"
-	}
-	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
-	{
-		"chi"		"**任务完成 **"
-	}
-	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
-	{
-		"chi"		"**奖励**在这个阶段你可以使用更高级的神器 **"
-	}
-	"**SPIKEBALL GOT MAXIMUM POWER**"
-	{
-		"chi"		"**奶升级到最高级 **"
-	}
-	"***THE BOSS HAS MAXIMUM HP***"
-	{
-		"chi"		"**BOSS的生命值得到提升 **"
-	}
-	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
-	{
-		"chi"		"**风升级到最高级 **"
-		"ico"		"icon_fire"
-	}
-	"**NIGHTSTAR GOT MAXIMUM POWER**"
-	{
-		"chi"		"**减速升级到最高级 **"
-		"ico"		"icon_fire"
-	}
-	"**FLASH GOT MAXIMUM POWER**"
-	{
-		"chi"		"**电升级到最高级 **"
-		"ico"		"icon_fire"
-	}
-	"**YOU HAVE FAILED**"
-	{
-		"chi"		"**你已经失败了 **"
-	}
-	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
-	{
-		"chi"		"**管理员把关卡调至第五关 **"
-	}
-	"You are too slow..."
-	{
-		"chi"		"**你太慢了… **"
-	}
-	"**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**"
-	{
-		"chi"		"** **"
-	}
-	"**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
-	{
-		"chi"		"** **"
-	}
-	"**FAIL DETECTED**GLITCH WIN PROTECTION IS ON**"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1761290"
+		"m_iname"		"l3_end_break"
 	}
 }

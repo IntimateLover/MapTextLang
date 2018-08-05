@@ -1,52 +1,39 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Make your way to train station and leave the city. ***"
+	"37656"
 	{
-		"chi"		"跑去火车站离开这城市！"
+		"enable"		"0"
+		"hammerid"		"37656"
+		"m_iname"		"Teleport_Window"
 	}
-	"*** Heli is leaving in one minute. ***"
+	"37685"
 	{
-		"chi"		"直升机60秒后离开"
+		"enable"		"0"
+		"hammerid"		"37685"
+		"m_iname"		"Teleport_Door"
 	}
-	"*** Trains are leaving in one minute. ***"
+	"6744"
 	{
-		"chi"		"火车60秒后离开"
+		"enable"		"0"
+		"hammerid"		"6744"
+		"m_iname"		"streets_crate_1"
 	}
-	"*** Heli is leaving in 30s. ***"
+	"6761"
 	{
-		"chi"		"直升机30秒后离开"
+		"enable"		"0"
+		"hammerid"		"6761"
+		"m_iname"		"streets_crate_2"
 	}
-	"*** Trains are leaving in 30s. ***"
+	"7320"
 	{
-		"chi"		"火车30秒后离开"
+		"enable"		"0"
+		"hammerid"		"7320"
+		"m_iname"		"trainstation_crates_1"
 	}
-	"*** Heli is leaving!!! ***"
+	"7335"
 	{
-		"chi"		"直升机走了！"
-	}
-	"*** Trains are leaving!!! ***"
-	{
-		"chi"		"火车开动！"
-	}
-	"*** Nuke will be launched in 30s. ***"
-	{
-		"chi"		"核弹30秒后发射"
-		"DoorCountdown"		"30"
-	}
-	"*** Generator room will open in 8s. ***"
-	{
-		"chi"		"发电站房间8秒后开启"
-	}
-	".. Train station gate open in 5 seconds!!"
-	{
-		"chi"		"火车站大门5秒后开启"
-	}
-	"*** Generator room will close in 2s. ***"
-	{
-		"chi"		"发电站房间2秒后开启"
-	}
-	".. Train station gate close in 10 seconds!!"
-	{
-		"chi"		"火车站大门10秒后关闭！关闭！咸鱼快跑！"
+		"enable"		"0"
+		"hammerid"		"7335"
+		"m_iname"		"trainstation_crates_2"
 	}
 }

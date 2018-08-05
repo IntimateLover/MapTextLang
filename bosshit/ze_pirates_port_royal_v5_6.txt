@@ -1,673 +1,401 @@
-"Console_T"
+"BOSSHP"
 {
-	"Map made by Puklica"
+	"sekera_boss"
 	{
-		"chi"		"** 地图制作：Puklica 括号内容均属提醒-来自恶意卖萌的Yuki琥珀---细节补充：玲-莎花 **"
+		"enable"		"1"
 	}
-	"Thank JorisCeoen fix model"
+	"sekera2_boss"
 	{
-		"chi"		"** 感谢JorisCeoen修复模型 **"
+		"enable"		"1"
 	}
-	">>> |LEVEL 1| <<<"
+	"7560818"
 	{
-		"chi"		"**第[ 1 ]关**"
+		"enable"		"1"
+		"hammerid"		"7560818"
+		"m_iname"		"zombie_barbossa_stred&2598"
 	}
-	">>> GATE OPEN IN 20 SEC <<<"
+	"138842"
 	{
-		"chi"		"** 20秒后开门 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"138842"
+		"m_iname"		"k_sud_stred&2780"
 	}
-	">>> GATE OPENING <<<"
+	"138288"
 	{
-		"chi"		"** 大门开启中 **"
+		"enable"		"1"
+		"hammerid"		"138288"
+		"m_iname"		"kraken_box"
 	}
-	">>> GATE CLOSES IN 5 SEC <<<"
+	"13444509"
 	{
-		"chi"		"** 5秒后关门，进门守住 **"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"13444509"
+		"m_iname"		"drzak_strom"
 	}
-	">>> GATE CLOSING <<<"
+	"13076468"
 	{
-		"chi"		"** 大门关闭中 **"
+		"enable"		"0"
+		"hammerid"		"13076468"
+		"m_iname"		"lod_cast111"
 	}
-	">>> DEFEND VILLAGE FOR 40 SEC! <<<"
+	"12972913"
 	{
-		"chi"		"** 守住村庄40秒 **"
-		"DoorCountDown"		"40"
+		"enable"		"0"
+		"hammerid"		"12972913"
+		"m_iname"		"lod_cast11"
 	}
-	"--*** BUBBLES picked up ***--"
+	"12973112"
 	{
-		"chi"		"** 已拾取泡沫(使僵尸失重并减速)泡泡可接巴博萨的球!**"
+		"enable"		"0"
+		"hammerid"		"12973112"
+		"m_iname"		"lod_cast1"
 	}
-	"--*** WALL picked up ***--"
+	"3144"
 	{
-		"chi"		"** 已拾取墙(生成一堵障碍薄墙)墙可挡住巴博萨的球!**"
+		"enable"		"1"
+		"hammerid"		"3144"
+		"m_iname"		"boss_dira_zed"
 	}
-	">>> REMAINING 10 SEC <<<"
+	"3839"
 	{
-		"chi"		"** 剩余10秒 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"3839"
+		"m_iname"		"CY01Physic"
 	}
-	">>> RUN! <<<"
+	"3858"
 	{
-		"chi"		"** 跑 **"
+		"enable"		"1"
+		"hammerid"		"3858"
+		"m_iname"		"pirate_hitbox"
 	}
-	"--*** BARREL picked up ***--"
+	"581999"
 	{
-		"chi"		"** 已拾取桶(放置数秒后爆炸产生火焰持续减速僵尸) **"
+		"enable"		"1"
+		"hammerid"		"581999"
+		"m_iname"		"final_barbossa_hit"
 	}
-	">>> DOORS CLOSE IN 25 SEC <<<"
+	"1656315"
 	{
-		"chi"		"** 门将于25秒关闭 **"
-		"DoorCountDown"		"25"
+		"enable"		"1"
+		"hammerid"		"1656315"
+		"m_iname"		"barbossa_hit"
 	}
-	"--*** SWORD picked up ***--"
+	"1656357"
 	{
-		"chi"		"** 已拾取剑(使用后面前形成一堵扇形空气墙阻止僵尸) **"
+		"enable"		"0"
+		"hammerid"		"1656357"
+		"m_iname"		"CY01Physic1"
 	}
-	">>> DOORS CLOSE IN 5 SEC <<<"
+	"7749332"
 	{
-		"chi"		"** 5秒后关闭门 **"
-		"DoorCountDown"		"5"
+		"enable"		"1"
+		"hammerid"		"7749332"
+		"m_iname"		"zombie_barbossa_vchod"
 	}
-	">>> HORSES LEAVING IN 10 SEC <<<"
+	"3498222"
 	{
-		"chi"		"** 马匹停留10秒后出发 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"3498222"
+		"m_iname"		"sud_stred"
 	}
-	"***ACTIVATE 4 CANNONS***"
+	"3498401"
 	{
-		"chi"		"** 启动四门大炮(上楼点燃大炮)**"
+		"enable"		"0"
+		"hammerid"		"3498401"
+		"m_iname"		"buble_stred"
 	}
-	">>> GATE IS CLOSING IN 18 SEC <<<"
+	"3084"
 	{
-		"chi"		"** 门将于18秒后关闭 **"
-		"DoorCountDown"		"18"
+		"enable"		"1"
+		"hammerid"		"3084"
+		"m_iname"		"viko_delo_boss"
 	}
-	">>> ALL CANNONS ACTIVATED <<<"
+	"8159082"
 	{
-		"chi"		"** 所有大炮已激活 **"
+		"enable"		"1"
+		"hammerid"		"8159082"
+		"m_iname"		"zm_barbossa_hitbox"
 	}
-	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	"8159070"
 	{
-		"chi"		"** 等待射中黑珍珠号**"
+		"enable"		"1"
+		"hammerid"		"8159070"
+		"m_iname"		"zm_barbossa_hitbox"
 	}
-	">>> GATE IS CLOSING! <<<"
+	"8159074"
 	{
-		"chi"		"** 门正在关闭!**"
+		"enable"		"1"
+		"hammerid"		"8159074"
+		"m_iname"		"zm_barbossa_hitbox"
 	}
-	">>> RUN TO THE PRISON! <<<"
+	"8159078"
 	{
-		"chi"		"** 跑向监狱!**"
+		"enable"		"1"
+		"hammerid"		"8159078"
+		"m_iname"		"zm_barbossa_hitbox"
 	}
-	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	"13070881"
 	{
-		"chi"		"** 守住监狱!! 拯救杰克船长 **"
+		"enable"		"0"
+		"hammerid"		"13070881"
+		"m_iname"		"break1"
 	}
-	">>> RUN TO THE BLACK PEARL <<<"
+	"12972812"
 	{
-		"chi"		"** 跑向黑珍珠 **"
+		"enable"		"0"
+		"hammerid"		"12972812"
+		"m_iname"		"kraken_zabradli"
 	}
-	">>> YOU HAVE TO DEFEND A BLACK PEARL 45 SEC! <<<"
+	"12972817"
 	{
-		"chi"		"** 你必须防卫黑珍珠号45秒！**"
-		"DoorCountDown"		"45"
+		"enable"		"0"
+		"hammerid"		"12972817"
+		"m_iname"		"kraken_lastkus"
 	}
-	">>> LAST 10 SEC REMAINING <<<"
+	"11545160"
 	{
-		"chi"		"** 剩余最后10秒 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"11545160"
+		"m_iname"		"dvere_zm_podvodopadem"
 	}
-	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	"10809406"
 	{
-		"chi"		"** 你已成功通关关卡1，现在进入关卡2**"
+		"enable"		"0"
+		"hammerid"		"10809406"
+		"m_iname"		"dvere_uperly"
 	}
-	">>> |LEVEL 2| <<<"
+	"10117689"
 	{
-		"chi"		"** 关卡2！**"
+		"enable"		"0"
+		"hammerid"		"10117689"
+		"m_iname"		"level_4_jailzm_dira"
 	}
-	">>> DOORS CLOSE IN 20 SEC <<<"
+	"9738377"
 	{
-		"chi"		"** 大门20秒后开启 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"9738377"
+		"m_iname"		"kusss"
 	}
-	">>> DOORS CLOSE IN 10 SEC <<<"
+	"3194"
 	{
-		"chi"		"** 大门10秒后开启 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"3194"
+		"m_iname"		"dira_delo_strela1"
 	}
-	">>> GATE IS CLOSING IN 25 SEC <<<"
+	"4181"
 	{
-		"chi"		"** 门将于25秒后关闭 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"4181"
+		"m_iname"		"zatarasa_predvesnici"
 	}
-	">>> GATE IS CLOSING IN 5 SEC <<<"
+	"4262"
 	{
-		"chi"		"** 门将于5秒后关闭 **"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"4262"
+		"m_iname"		"mapa3_klodi_dvere"
 	}
-	"(CT) >>>--SHOOT CANNON--<<<"
+	"4434"
 	{
-		"chi"		"** (人类)射击破坏大炮 **"
+		"enable"		"0"
+		"hammerid"		"4434"
+		"m_iname"		"mapa3_dira"
 	}
-	"(ZOMBIE) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	"854674"
 	{
-		"chi"		"**(僵尸)站在大炮旁推动大炮 **"
+		"enable"		"0"
+		"hammerid"		"854674"
+		"m_iname"		"b8"
 	}
-	">>> CANNON HAS BEEN DESTROYED <<<"
+	"854678"
 	{
-		"chi"		"** 大炮已被破坏 **"
+		"enable"		"0"
+		"hammerid"		"854678"
+		"m_iname"		"b11"
 	}
-	">>> RUN TO THE ISLAND <<<"
+	"854682"
 	{
-		"chi"		"** 跑向小岛(神器请拖延时间掩护队友) **"
+		"enable"		"0"
+		"hammerid"		"854682"
+		"m_iname"		"b4"
 	}
-	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	"854694"
 	{
-		"chi"		"** 庇护所的入口将于30秒开放 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"854694"
+		"m_iname"		"b3"
 	}
-	">>> SHELTER OPENING <<<"
+	"854702"
 	{
-		"chi"		"** 庇护所开启中 **"
+		"enable"		"0"
+		"hammerid"		"854702"
+		"m_iname"		"b9"
 	}
-	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	"900244"
 	{
-		"chi"		"** 岛屿将于25秒后摧毁 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"900244"
+		"m_iname"		"b7"
 	}
-	">>> REMAINING 5 SEC <<<"
+	"900256"
 	{
-		"chi"		"** 剩余5秒 **"
+		"enable"		"0"
+		"hammerid"		"900256"
+		"m_iname"		"b5"
 	}
-	">>> SHELTER CLOSING <<<"
+	"900270"
 	{
-		"chi"		"** 庇护所关门中 **"
+		"enable"		"0"
+		"hammerid"		"900270"
+		"m_iname"		"b10"
 	}
-	"> HUMANS ARE INVUNERABLE < ** kill all zombies in the shelter **"
+	"2806512"
 	{
-		"chi"		"** 人类是无敌的 杀死所有在庇护所的僵尸 **"
+		"enable"		"0"
+		"hammerid"		"2806512"
+		"m_iname"		"b12"
 	}
-	"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	"2806515"
 	{
-		"chi"		"** 你已成功征♂服关卡2.现在继♂续关卡3 **"
+		"enable"		"0"
+		"hammerid"		"2806515"
+		"m_iname"		"b2"
 	}
-	">>> |LEVEL 3| <<<"
+	"2806554"
 	{
-		"chi"		"** 关卡3 **"
+		"enable"		"0"
+		"hammerid"		"2806554"
+		"m_iname"		"b1"
 	}
-	">>> DOOR OPEN IN 10 SEC <<<"
+	"2806677"
 	{
-		"chi"		"** 门将于10秒后打开 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"2806677"
+		"m_iname"		"b6"
 	}
-	">>> DOOR OPEN IN 5 SEC <<<"
+	"4126"
 	{
-		"chi"		"** 门将于5秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"4126"
+		"m_iname"		"dvere_mapa3"
 	}
-	">>> HOLD FOR 15 SEC <<<"
+	"6288689"
 	{
-		"chi"		"** 守住15秒 **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"6288689"
+		"m_iname"		"bb_cestazm"
 	}
-	">>> HOLD E ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
+	"6687154"
 	{
-		"chi"		"** 对着木轮按住E以降下桥(多利用神器防御僵尸)**"
+		"enable"		"0"
+		"hammerid"		"6687154"
+		"m_iname"		"meda_kus"
 	}
-	">>> BRIDGE IS DOWN. RUN! <<<"
+	"4064"
 	{
-		"chi"		"** 桥降下来了.快跑 **"
+		"enable"		"0"
+		"hammerid"		"4064"
+		"m_iname"		"vchod_2mapa"
 	}
-	">>> GET ONTO THE SHIP <<<"
+	"3819359"
 	{
-		"chi"		"** 跑到船上防守 **"
+		"enable"		"0"
+		"hammerid"		"3819359"
+		"m_iname"		"dvere_mapa333"
 	}
-	">>> DOORS OPEN IN 25 sec <<<"
+	"3819398"
 	{
-		"chi"		"** 门将于25秒后打开 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"3819398"
+		"m_iname"		"dvere_mapa333"
 	}
-	">>> DOORS OPEN IN 5 sec <<<"
+	"2867"
 	{
-		"chi"		"** 门将于5秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"2867"
+		"m_iname"		"dverekdelu"
 	}
-	">>> DOORS CLOSE IN 15 sec <<<"
+	"5231902"
 	{
-		"chi"		"** 门将于15秒后关闭 **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"5231902"
+		"m_iname"		"vezeni_bedny"
 	}
-	">>> DOOR OPEN! RUN!!! <<<"
+	"12107311"
 	{
-		"chi"		"** 门开了!快跑!!**"
+		"enable"		"0"
+		"hammerid"		"12107311"
+		"m_iname"		"zed"
 	}
-	">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	"4123"
 	{
-		"chi"		"** 这是一个海盗!在他杀死你之前杀掉他 **"
+		"enable"		"0"
+		"hammerid"		"4123"
+		"m_iname"		"zed_mapa3"
 	}
-	">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	"3864"
 	{
-		"chi"		"** 手雷会对他造成很多伤害.快丢雷x母 **"
+		"enable"		"0"
+		"hammerid"		"3864"
+		"m_iname"		"pirate_konec_break"
 	}
-	">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	"3889"
 	{
-		"chi"		"** 他死了.跑到藏宝室保住你们的性命 **"
+		"enable"		"0"
+		"hammerid"		"3889"
+		"m_iname"		"pirate_zmmrize"
 	}
-	">>> HOLD ZOMBIES FOR 20 sec <<<"
+	"4456"
 	{
-		"chi"		"** 守住僵尸20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"4456"
+		"m_iname"		"jail_mapa_zm"
 	}
-	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	"4215"
 	{
-		"chi"		"** 你已经攻♂破关卡3.现在进入关卡4 **"
-		"command"		"zr_noarmor 1"
+		"enable"		"0"
+		"hammerid"		"4215"
+		"m_iname"		"mapa3_schody_break"
 	}
-	">>> |LEVEL 4| <<<"
+	"14215358"
 	{
-		"command"		"sm_armor_limit 1"
-		"chi"		"** 关卡4 **"
+		"enable"		"1"
+		"hammerid"		"14215358"
+		"m_iname"		"boss_barbossa_stred&4295"
 	}
-	"+++ BARBOSSA picked up +++"
+	"14730558"
 	{
-		"chi"		"**拾取巴博萨，不想被炸死的回头拖BOSS**"
+		"enable"		"0"
+		"hammerid"		"14730558"
+		"m_iname"		"koule_hradba"
 	}
-	"*** MEDALLION picked up ***"
+	"14730634"
 	{
-		"chi"		"**拾取勋章（可对BOSS和僵尸造成大量伤害）（千万别让萌狗蛋拿）（严禁勋章传送点加炸药桶）**"
+		"enable"		"1"
+		"hammerid"		"14730634"
+		"m_iname"		"zombie_barbossa_koule"
 	}
-	">>> HOLD THE CELLAR FOR 25 SEC <<<"
+	"14730594"
 	{
-		"chi"		"** 守住酒窖25秒 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"14730594"
+		"m_iname"		"koule1"
 	}
-	">>> CELLAR OPENING IN 5 SEC <<<"
+	"14730500"
 	{
-		"chi"		"** 酒窖5秒后开门**"
+		"enable"		"0"
+		"hammerid"		"14730500"
+		"m_iname"		"phys"
 	}
-	">>> RUN FROM THE ZOMBIES! <<<"
+	"8758195"
 	{
-		"chi"		"** 逃离僵尸! **"
+		"enable"		"1"
+		"hammerid"		"8758195"
+		"m_iname"		"sekera_boss"
 	}
-	"--*** HEAL picked up***--"
+	"8758408"
 	{
-		"chi"		"** 拾取医疗 **"
-	}
-	">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
-	{
-		"chi"		"** 尽可能长时间得防守僵尸 **"
-	}
-	">>> DOORS OPEN IN 30 SEC <<<"
-	{
-		"chi"		"** 大门30秒后开启**"
-		"DoorCountDown"		"30"
-	}
-	">>> GET DOWN FROM WOOD PLATFORM TO FIGHT BARBOSSA <<<"
-	{
-		"chi"		"** 下到木平台下面击打巴博萨(准备手雷,远离楼梯口站中间) **"
-	}
-	">>> BARBOSSA IS COMING IN 5 SEC <<<"
-	{
-		"chi"		"** 巴博萨5秒内进入 **"
-		"DoorCountDown"		"5"
-	}
-	">>> IT'S BARBOSSA. KILL HIM! <<<"
-	{
-		"chi"		"** 是巴博萨.杀了他! **"
-	}
-	">>> HE HAS DISAPPEARED. RUN! <<<"
-	{
-		"chi"		"** 他消失了.快跑! **"
-		"ico"		"icon_fire"
-	}
-	">>> DOORS OPEN IN 20 SEC <<<"
-	{
-		"chi"		"** 门将于20后开启 **"
-		"DoorCountDown"		"20"
-	}
-	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
-	{
-		"chi"		"** 你通过了关卡4.进入关卡5下饺子吧 **"
-	}
-	">>> |LEVEL 5| <<<"
-	{
-		"chi"		"** 关卡5 **"
-	}
-	">>> HOLD FOR 35 SEC <<<"
-	{
-		"chi"		"** 守住35秒 **"
-		"DoorCountDown"		"35"
-	}
-	">>> IT'S KRAKEN. KILL HIM! <<<"
-	{
-		"chi"		"** 是北欧海怪KRAKEN. 杀了它! **"
-	}
-	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
-	{
-		"chi"		"** 手雷和道具(神器)能对它造成大量伤害.利用它们 **"
-	}
-	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
-	{
-		"chi"		"**海怪对你使用了噗噗泡沫~~啊噗噗**"
-	}
-	"||| KRAKEN HAS USED VORTEX |||"
-	{
-		"chi"		"** 海怪对你使用了涡旋 (切刀往后跑，或者使用墙) **"
-	}
-	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
-	{
-		"chi"		"** 海怪已对你扔出了桶 别弯腰捡 继续打他 (注意躲避，别被烧到别被卡到) **"
-	}
-	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
-	{
-		"chi"		"** 海怪已对你扔出了桶 别弯腰捡 继续打他 (注意躲避，别被烧到别被卡到) **"
-	}
-	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
-	{
-		"chi"		"** 海怪对你使用了浪潮(别让他把你推下去，快跑向他按住W) **"
-	}
-	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
-	{
-		"chi"		"** 海怪死了.跳上木筏去往小岛 **"
-	}
-	">>> RUN TO THE CAVE <<<"
-	{
-		"chi"		"** 跑向洞穴并守住洞穴门口(会打巴博萨会跳刀的进去，其他人山洞口防守) **"
-	}
-	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
-	{
-		"chi"		"** 又是巴博萨.这次不能让他活着! **"
-	}
-	"*** LAST MEDALLION picked up ***"
-	{
-		"chi"		"** 拾取最后的奖章,请放入宝箱内 **"
-	}
-	"Thanks to JorisCeoen for fixing models"
-	{
-		"chi"		"** 感谢JorisCeoen修复模型 **"
-	}
-	">>> GATE OPENS IN 20 SEC <<<"
-	{
-		"chi"		"** 门在20秒后打开 **"
-		"DoorCountDown"		"20"
-	}
-	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
-	{
-		"chi"		"** 防守村庄40秒 **"
-		"DoorCountDown"		"40"
-	}
-	">>> GATE IS OPENING <<<"
-	{
-		"chi"		"** 门已开启 **"
-	}
-	">>> GATE CLOSES IN 5 SEC <<<"
-	{
-		"chi"		"**门5秒后关闭"
-	}
-	">>> GATE IS CLOSING <<<"
-	{
-		"chi"		"** 已关闭大门 **"
-	}
-	">>> 10 SECONDS REMAINING <<<"
-	{
-		"chi"		"**10秒剩余 **"
-	}
-	"--*** SWORD picked up ***--"
-	{
-		"chi"		"** 大保健拾取 **"
-	}
-	">>> DOOR CLOSES IN 25 SEC <<<"
-	{
-		"chi"		">>>门将在25秒后关闭<<<"
-	}
-	">>> DOOR CLOSES IN 5 SEC <<<"
-	{
-		"chi"		"** 门5秒后关闭**"
-	}
-	"***ACTIVATE ALL CANNONS***"
-	{
-		"chi"		"** 激活所有大炮**"
-	}
-	">>> GATE CLOSES IN 18 SEC <<<"
-	{
-		"chi"		"**18秒 门将关闭 **"
-	}
-	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
-	{
-		"chi"		"**保护黑珍珠45秒！ **"
-		"DoorCountDown"		"45"
-	}
-	">>> LAST 10 SECONDS REMAINING <<<"
-	{
-		"chi"		"**最后10秒 **"
-	}
-	">>> DOOR CLOSES IN 20 SEC <<<"
-	{
-		"chi"		"** 20秒 门将关闭**"
-	}
-	">>> DOOR CLOSES IN 10 SEC <<<"
-	{
-		"chi"		"** 10秒 门将关闭 **"
-	}
-	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
-	{
-		"chi"		"** 站在大炮旁边推动它 **"
-	}
-	">>> 5 SEC REMAINING <<<"
-	{
-		"chi"		"**剩余5秒 **"
-	}
-	">>> DOOR OPENS IN 10 SEC <<<"
-	{
-		"chi"		"** 门10秒后打开 **"
-	}
-	">>> DOOR OPENS IN 5 sec <<<"
-	{
-		"chi"		"** 门5秒后打开 **"
-	}
-	">>> STAY ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
-	{
-		"chi"		"**转动木轮来降下桥**"
-	}
-	">>> DOOR OPENS IN 25 sec <<<"
-	{
-		"chi"		"** 门25秒后打开 **"
-		"DoorCountDown"		"25"
-	}
-	">>> DOOR CLOSES IN 15 sec <<<"
-	{
-		"chi"		"** 15秒后门将关闭 **"
-	}
-	">>> DOOR IS OPEN! RUN!!! <<<"
-	{
-		"chi"		">>>门开了！大家快跑！<<<"
-	}
-	">>> RUN AWAY FROM THE ZOMBIES! <<<"
-	{
-		"chi"		"**  从僵尸群中逃跑！**"
-	}
-	">>> DOOR OPENS IN 30 SEC <<<"
-	{
-		"chi"		"**   门将在30秒后打开 **"
-	}
-	">>> GET DOWN FROM WOODEN PLATFORM TO FIGHT BARBOSSA <<<"
-	{
-		"chi"		"**从木制平台下去来对抗巴博萨**"
-	}
-	">>> DOOR OPENS IN 20 SEC <<<"
-	{
-		"chi"		"** 门将在20秒后打开 **"
-	}
-	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
-	{
-		"chi"		"**最后一个大英帝国的勋章已被放入宝箱**"
-		"ico"		"icon_fire"
-	}
-	">>> BARBOSSA IS DEAD <<<"
-	{
-		"chi"		"** 他死了 **"
-	}
-	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<< "
-	{
-		"chi"		"** 你成功通关了 你是个真正的海盗！ **"
-	}
-	"!!! KILL ALL ZOMBIES !!!"
-	{
-		"chi"		"** 杀死所有僵尸 **"
-	}
-	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
-	{
-		"chi"		"** 人类现在是无敌的 杀死所有僵尸在避难所! **"
-	}
-	">>> ITS BARBOSSA. KILL HIM! <<<"
-	{
-		"chi"		"**是巴博萨，杀了他**"
-		"ico"		"icon_fire"
-	}
-	">>> ITS KRAKEN. KILL HIM! <<<"
-	{
-		"chi"		"** 是北欧海怪KRAKEN. 杀了它! **"
-		"ico"		"icon_fire"
-	}
-	">>> ITS A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
-	{
-		"chi"		"**他是一个海盗，在他杀死你之前快杀了他**"
-		"ico"		"icon_fire"
-	}
-	">>> HES DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
-	{
-		"chi"		"**他已经死了，跑向宝藏库来挽救你的命**"
-		"ico"		"icon_fire"
-	}
-	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<"
-	{
-		"chi"		"**KRAKEN已经死了，跳上木筏**"
-		"ico"		"icon_fire"
-	}
-	">>> ITS BARBOSSA AGAIN. DONT LET HIM SURVIVE!  <<<"
-	{
-		"chi"		"**又是巴博萨，别让他活着**"
-		"ico"		"icon_fire"
-	}
-	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<<"
-	{
-		"chi"		"**你已经征服了本地图，你是一个真正的海盗**"
-	}
-	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
-	{
-		"chi"		"** **"
-	}
-	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
-	{
-		"chi"		"** **"
-	}
-	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
-	{
-		"chi"		">>>等待轮盘转动完毕将吊桥放下<<<"
-	}
-	">>> HOLD THE CELLAR FOR 30 SEC <<<"
-	{
-		"chi"		">>>在内殿守住30秒<<<"
-		"DoorCountDown"		"30"
-	}
-	">>> HOLD FOR 25 SEC <<<"
-	{
-		"chi"		">>>守住25秒<<<"
-		"DoorCountDown"		"25"
-	}
-	">>> HOLD FOR 40 SEC <<<"
-	{
-		"chi"		">>>守住40秒<<<"
-		"DoorCountDown"		"40"
-	}
-	">>> HOLD <<<"
-	{
-		"chi"		">>>守住<<<"
-		"DoorCountDown"		"40"
-	}
-	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
-	{
-		"chi"		"**大章鱼并不想理你，并向你扔了一只自爆僵尸**"
-		"ico"		"icon_fire"
-	}
-	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
-	{
-		"chi"		"** **"
-	}
-	"|Admin Room|***Admin has changed difficulty to-LEVEL 3 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** BARREL picked up ***"
-	{
-		"chi"		"**桶拾取**"
-	}
-	"*** WALL picked up ***"
-	{
-		"chi"		"**墙拾取**"
-	}
-	"*** SWORD picked up ***"
-	{
-		"chi"		"**剑拾取**"
-	}
-	"*** BUBBLES picked up ***"
-	{
-		"chi"		"**泡泡拾取**"
-	}
-	"*** HEAL picked up***"
-	{
-		"chi"		"**奶拾取**"
-	}
-	"|Admin Room|***Admin has changed difficulty to LEVEL 1 ***"
-	{
-		"chi"		"** **"
-	}
-	">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<<"
-	{
-		"chi"		"**你通关了地图.但打的是只简单难度的海怪 **"
-	}
-	">>> |LEVEL 5 KRAKEN GOD!| <<<"
-	{
-		"chi"		"**五级海怪 **"
-	}
-	">>> KRAKEN GOD - RTV TIME! <<<"
-	{
-		"chi"		"**海妖之神-RTV吧 **"
-	}
-	">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<<"
-	{
-		"chi"		"**你杀了海妖之神-通关地图，了不起。 **"
-	}
-	">>> YOU ARE A REAL PIRATE! <<<"
-	{
-		"chi"		"**你是个真正的海盗！ **"
-	}
-	"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
-	{
-		"chi"		"** **"
-	}
-	">>> HOLD FOR 45 SEC <<<"
-	{
-		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
-	}
-	">>> KRAKEN GOD! <<<"
-	{
-		"chi"		"**海妖之神 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"58641"
-	}
-	">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<"
-	{
-		"chi"		"**海妖使用波浪清理道路 **"
-	}
-	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***"
-	{
-		"chi"		"** **"
-	}
-	">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
-	{
-		"chi"		"**海妖之神用波浪清理道路 **"
+		"enable"		"1"
+		"hammerid"		"8758408"
+		"m_iname"		"sekera2_boss"
 	}
 }

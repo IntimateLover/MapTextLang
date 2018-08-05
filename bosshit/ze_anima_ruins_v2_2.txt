@@ -1,151 +1,63 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Turtle Reactions - Anima Ruins***"
+	"29082"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"29082"
+		"m_iname"		"breakable7"
 	}
-	"***Stage 1 - Ruins***"
+	"30540"
 	{
-		"chi"		"**第一关 **"
+		"enable"		"0"
+		"hammerid"		"30540"
+		"m_iname"		"breakable6"
 	}
-	"*Gate 2 will open in 30 sec*"
+	"30999"
 	{
-		"chi"		"**大门2将在30秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"30999"
+		"m_iname"		"breakable5"
 	}
-	"*Gate 2 Opening*"
+	"31002"
 	{
-		"chi"		"**大门2开了 **"
+		"enable"		"0"
+		"hammerid"		"31002"
+		"m_iname"		"breakable5"
 	}
-	"*Defend here for 20 seconds*"
+	"33918"
 	{
-		"chi"		"**在这里守住20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"33918"
+		"m_iname"		"breakable4"
 	}
-	"*10 Seconds to prepare before zombies released*"
+	"34026"
 	{
-		"chi"		"**僵尸10秒后释放 **"
+		"enable"		"0"
+		"hammerid"		"34026"
+		"m_iname"		"breakable1"
 	}
-	"*Survive for 60 seconds, Good Luck*"
+	"34048"
 	{
-		"chi"		"**生存60秒-祝你好运 **"
-		"DoorCountDown"		"60"
+		"enable"		"0"
+		"hammerid"		"34048"
+		"m_iname"		"breakable2"
 	}
-	"*FALL BACK*"
+	"75013"
 	{
-		"chi"		"**撤退 **"
+		"enable"		"0"
+		"hammerid"		"75013"
+		"m_iname"		"animahp1"
 	}
-	"*Zombies released in 20 seconds - Get Ready*"
+	"30126"
 	{
-		"chi"		"**僵尸20秒后释放 **"
+		"enable"		"0"
+		"hammerid"		"30126"
+		"m_iname"		"animahp2"
 	}
-	"*Defend up here for 40 seconds*"
+	"98126"
 	{
-		"chi"		"**在这里守住40秒 **"
-		"DoorCountDown"		"40"
-	}
-	"*RUN! Zombies released in 15 seconds*"
-	{
-		"chi"		"**跑！僵尸15秒后释放 **"
-	}
-	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
-	{
-		"chi"		"**守住30秒-不要让僵尸过来 **"
-		"DoorCountDown"		"30"
-	}
-	"***Stage 2 - Within the Ruin***"
-	{
-		"chi"		"**第二关 **"
-	}
-	"*Defend for 20 seconds*"
-	{
-		"chi"		"**守住20秒 **"
-	}
-	"*Defend here for 30 seconds*"
-	{
-		"chi"		"**在这里守住30秒 **"
-		"DoorCountDown"		"30"
-	}
-	"*Zombies released in 12 seconds*"
-	{
-		"chi"		"**僵尸12秒后释放 **"
-	}
-	"*LASERS AHEAD*"
-	{
-		"chi"		"** **"
-	}
-	"*Gate 1 will open in 30 sec*"
-	{
-		"chi"		"**大门1将在30秒后开启 **"
-	}
-	"*Gate 1 Opening*"
-	{
-		"chi"		"**大门1已打开 **"
-	}
-	"*Zombies got through - FAIL ROUND*"
-	{
-		"chi"		"**僵尸通过-本关失败 **"
-	}
-	"*Jump down in the middle*"
-	{
-		"chi"		"**跳到中间 **"
-	}
-	"***ANIMA HAS AWAKEN - GIVE IT ALL YOU HAVE***"
-	{
-		"chi"		"**Anima已经苏醒-用你的所有武器杀了它 **"
-	}
-	"*Anima uses LASER*"
-	{
-		"chi"		"**Anima使用了激光 **"
-		"ico"		"icon_fire"
-	}
-	"*Anima uses COLLAPSE*"
-	{
-		"chi"		"**Anima使用了塌陷 **"
-		"ico"		"icon_fire"
-	}
-	"*Anima uses PAIN*"
-	{
-		"chi"		"**Anima使用了疼痛 **"
-		"ico"		"icon_fire"
-	}
-	"*Half of Animas HP remains*"
-	{
-		"chi"		"**Animas还有一半的HP **"
-	}
-	"*Anima uses FORCE*"
-	{
-		"chi"		"**Anima使用了推力 **"
-		"ico"		"icon_fire"
-	}
-	"*Anima uses DEMISE*"
-	{
-		"chi"		"**Anima使用了消亡 **"
-		"ico"		"icon_fire"
-	}
-	"*Anima uses Gods Spear*"
-	{
-		"chi"		"**Anima使用了神矛 **"
-		"ico"		"icon_fire"
-	}
-	"*Anima uses Crystal*"
-	{
-		"chi"		"**Anima使用了水晶 **"
-		"ico"		"icon_fire"
-	}
-	"*Defend for 30 seconds*"
-	{
-		"chi"		"** **"
-	}
-	"*Beat Anima in 3 Mins*"
-	{
-		"chi"		"** **"
-	}
-	"*10 SECONDS REMAINING*"
-	{
-		"chi"		"** **"
-	}
-	"*Anima uses OBLIVIONS END*"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"98126"
+		"m_iname"		"Gods Spear HP"
 	}
 }

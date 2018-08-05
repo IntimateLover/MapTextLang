@@ -1,57 +1,69 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Defend for 20secs***"
+	"13648"
 	{
-		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"13648"
+		"m_iname"		"DestroyMe"
 	}
-	"***Prefinal Hold 50secs***"
+	"13665"
 	{
-		"chi"		"**守住50秒**"
-		"DoorCountDown"		"50"
+		"enable"		"0"
+		"hammerid"		"13665"
+		"m_iname"		"DestroyMe"
 	}
-	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
+	"13673"
 	{
-		"chi"		"**全体僵尸传送，守住这三个地方**"
+		"enable"		"0"
+		"hammerid"		"13673"
+		"m_iname"		"DestroyMe"
 	}
-	"***Wait some more secs***"
+	"13681"
 	{
-		"chi"		"**多等几秒**"
+		"enable"		"0"
+		"hammerid"		"13681"
+		"m_iname"		"DestroyMe"
 	}
-	"***Btw. Unlimited ammo time :3***"
+	"13689"
 	{
-		"chi"		"**现在无限子弹了:3**"
+		"enable"		"0"
+		"hammerid"		"13689"
+		"m_iname"		"DestroyMe"
 	}
-	"***Zombies teleporting in 15 secs. Get ready.***"
+	"5566"
 	{
-		"chi"		"**僵尸将在15后传送,准备**"
+		"enable"		"0"
+		"hammerid"		"5566"
+		"m_iname"		"Break"
 	}
-	"***Zombies teleporting in 10 secs!***"
+	"5603"
 	{
-		"chi"		"**僵尸将在10秒后传送**"
+		"enable"		"0"
+		"hammerid"		"5603"
+		"m_iname"		"break2"
 	}
-	"***Zombies teleporting in 5 secs!!!***"
+	"5657"
 	{
-		"chi"		"**僵尸将在5秒后传送 **"
+		"enable"		"0"
+		"hammerid"		"5657"
+		"m_iname"		"break3"
 	}
-	"***RUUUUUUUUUN!!!***"
+	"5696"
 	{
-		"chi"		"**跑!!!!!!!!!! **"
+		"enable"		"0"
+		"hammerid"		"5696"
+		"m_iname"		"breakblock"
 	}
-	"***RUN INTO THE HOLE!***"
+	"5792"
 	{
-		"chi"		"**跑向洞 **"
+		"enable"		"0"
+		"hammerid"		"5792"
+		"m_iname"		"break4"
 	}
-	"***Map by Taskuvaras***"
+	"5825"
 	{
-		"chi"		"**地图作者:askuvaras **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"**人类大门将在15秒后打开 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"84707"
+		"enable"		"0"
+		"hammerid"		"5825"
+		"m_iname"		"break5"
 	}
 }

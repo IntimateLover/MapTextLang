@@ -1,79 +1,147 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Right Route Door 1 Opens in 7 seconds ***"
+	"161433"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"161433"
+		"m_iname"		"RopeBridge13_Phys"
 	}
-	"*** Left Route Door 1 Opens in 10 seconds ***"
+	"161473"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"161473"
+		"m_iname"		"RopeBridge21_Phys"
 	}
-	"*** Rocks Unstable! ***"
+	"161514"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"161514"
+		"m_iname"		"RopeBridge38_Phys"
 	}
-	"** Boats will arrive in 30 seconds **"
+	"161519"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"161519"
+		"m_iname"		"RopeBridge40_Phys"
 	}
-	"***ESCAPE BOAT 1 leaving in 10 seconds***"
+	"1801"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1801"
+		"m_iname"		"boxdrop"
 	}
-	"***ESCAPE BOAT 1 has escaped!***"
+	"1810"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1810"
+		"m_iname"		"stairsfloor"
 	}
-	"***ESCAPE BOAT 2 leaving in 10 seconds***"
+	"1869"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1869"
+		"m_iname"		"Break"
 	}
-	"** Ladder to cannons open **"
+	"1894"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1894"
+		"m_iname"		"Railbreak"
 	}
-	"***ESCAPE BOAT 2 has escaped!***"
+	"2177"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2177"
+		"m_iname"		"woodrock"
 	}
-	"*** To use launchers press button and hold space bar down ***"
+	"2183"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2183"
+		"m_iname"		"ceilingrock"
 	}
-	"***Safe house door will open in 15 sec***"
+	"2241"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2241"
+		"m_iname"		"tripline_breakable"
 	}
-	"***Safe house door is now open***"
+	"2252"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2252"
+		"m_iname"		"tripline_breakable2"
 	}
-	"***ZODIAC leaving in 10 seconds***"
+	"2309"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2309"
+		"m_iname"		"mine_break2"
 	}
-	"***ZODIAC has escaped!***"
+	"2318"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2318"
+		"m_iname"		"mine_break1"
 	}
-	"*** Rocket detonation in 60 Seconds ***"
+	"2323"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2323"
+		"m_iname"		"mine_break3"
 	}
-	"*** Rocket detonation in 30 Seconds ***"
+	"2330"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2330"
+		"m_iname"		"bridge_4_plank_1"
 	}
-	"***ESCAPE LIFT leaving in 10 seconds***"
+	"2838"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2838"
+		"m_iname"		"hallway2_wall"
 	}
-	"***CHOPPER leaving in 15 seconds***"
+	"2928"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2928"
+		"m_iname"		"endvent1"
 	}
-	"***CHOPPER is leaving***"
+	"2930"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2930"
+		"m_iname"		"endvent2"
+	}
+	"3322"
+	{
+		"enable"		"0"
+		"hammerid"		"3322"
+		"m_iname"		"ladderbreak"
+	}
+	"3336"
+	{
+		"enable"		"0"
+		"hammerid"		"3336"
+		"m_iname"		"coptershield1"
+	}
+	"3342"
+	{
+		"enable"		"0"
+		"hammerid"		"3342"
+		"m_iname"		"coptershield2"
+	}
+	"3407"
+	{
+		"enable"		"0"
+		"hammerid"		"3407"
+		"m_iname"		"disko_shield"
+	}
+	"2210"
+	{
+		"enable"		"0"
+		"hammerid"		"2210"
+		"m_iname"		"rollingball1&9036"
 	}
 }

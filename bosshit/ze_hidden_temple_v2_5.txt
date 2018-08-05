@@ -1,301 +1,291 @@
-"Console_T"
+"BOSSHP"
 {
-	"### STAGE : HUMAN ###"
+	"1032387"
 	{
-		"chi"		"**阶段:人类 **"
+		"enable"		"0"
+		"hammerid"		"1032387"
+		"m_iname"		"ht1_door_hall_break"
 	}
-	"### WELCOME TO : HIDDEN TEMPLE ##"
+	"1033377"
 	{
-		"chi"		"**欢迎来到:隐秘神庙 **"
+		"enable"		"0"
+		"hammerid"		"1033377"
+		"m_iname"		"ht2_z3_right_break"
 	}
-	"### MAP CREATED BY NARAKA ###"
+	"1033404"
 	{
-		"chi"		"**地图制作:NARAKA 地图翻译:不清新的木心♪ **"
+		"enable"		"0"
+		"hammerid"		"1033404"
+		"m_iname"		"ht2_z3_left_break"
 	}
-	"### GATES OPEN IN 30 SECONDS ###"
+	"1033432"
 	{
-		"chi"		"**大门30秒内打开 **"
+		"enable"		"0"
+		"hammerid"		"1033432"
+		"m_iname"		"ht2_z2_break"
 	}
-	"### 10 SECOND REMAINING ###"
+	"910870"
 	{
-		"chi"		"**还剩10秒 **"
+		"enable"		"0"
+		"hammerid"		"910870"
+		"m_iname"		"ht1_barrel_rope"
 	}
-	"### DEFEND UNTIL GATES CLOSED ###"
+	"881147"
 	{
-		"chi"		"**守到大门关闭 **"
+		"enable"		"0"
+		"hammerid"		"881147"
+		"m_iname"		"ht1_wall_breakable"
 	}
-	"### HOLD THIS AREA FOR 30 SECONDS ###"
+	"664825"
 	{
-		"chi"		"**守住这个区域30秒 **"
+		"enable"		"0"
+		"hammerid"		"664825"
+		"m_iname"		"CY01Physic"
 	}
-	"### 10 SECONDS REMAINING ###"
+	"665123"
 	{
-		"chi"		"**还剩10秒 **"
-		"DoorCountDown"		"10"
+		"enable"		"1"
+		"hammerid"		"665123"
+		"m_iname"		"naraka_hitbox"
 	}
-	"### FALL BACK NOW !!! ###"
+	"635807"
 	{
-		"chi"		"**现在撤退!!! **"
+		"enable"		"0"
+		"hammerid"		"635807"
+		"m_iname"		"ht2_cross"
 	}
-	"### GATE OPEN IN 30 SECONDS ###"
+	"533443"
 	{
-		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"533443"
+		"m_iname"		"ht2_level"
 	}
-	"### YOU NEED TO CROSS BACK ###"
+	"528041"
 	{
-		"chi"		"**你需要原路返回 **"
+		"enable"		"0"
+		"hammerid"		"528041"
+		"m_iname"		"ht2_a_1_break"
 	}
-	"### PILLARS GONNA BREAK SOON ###"
+	"528052"
 	{
-		"chi"		"**柱子马上就会倒塌 **"
+		"enable"		"0"
+		"hammerid"		"528052"
+		"m_iname"		"ht2_b_1_break"
 	}
-	"### GATE IS OPENING ###"
+	"528063"
 	{
-		"chi"		"**大门已开启 **"
+		"enable"		"0"
+		"hammerid"		"528063"
+		"m_iname"		"ht2_b_2_break"
 	}
-	"### LIGHT THESE BARRELS AND WAIT ###"
+	"528075"
 	{
-		"chi"		"**点燃这些木桶并且等待 **"
+		"enable"		"0"
+		"hammerid"		"528075"
+		"m_iname"		"ht2_c_break"
 	}
-	"### BARRELS EXPLODE IN 30 SECONDS ###"
+	"528089"
 	{
-		"chi"		"**木桶在30秒后爆炸 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"528089"
+		"m_iname"		"ht2_e_break"
 	}
-	"### DONT STAY CLOSE TO THESE BARRELS ###"
+	"528094"
 	{
-		"chi"		"**远离木桶(小心被炸死) **"
+		"enable"		"0"
+		"hammerid"		"528094"
+		"m_iname"		"ht2_d_break"
 	}
-	"### FALL BACKK !! ###"
+	"528185"
 	{
-		"chi"		"**快走!! **"
+		"enable"		"0"
+		"hammerid"		"528185"
+		"m_iname"		"ht2_f_break"
 	}
-	"### DEFEND BOTH DOORS ###"
+	"528197"
 	{
-		"chi"		"**守住这两扇门 **"
+		"enable"		"0"
+		"hammerid"		"528197"
+		"m_iname"		"ht2_g_break"
 	}
-	"### WHILE SOMEONE GOES ACTIVED LEVER ###"
+	"528252"
 	{
-		"chi"		"**一个人去启动开关 **"
+		"enable"		"0"
+		"hammerid"		"528252"
+		"m_iname"		"ht2_h_break"
 	}
-	"### HOLD THIS HALL UNTIL GATE OPEN ###"
+	"528266"
 	{
-		"chi"		"**守住这个大厅直到大门开启 **"
+		"enable"		"0"
+		"hammerid"		"528266"
+		"m_iname"		"ht2_i_break"
 	}
-	"### PRESS THE LAST LEVER ###"
+	"528290"
 	{
-		"chi"		"**按最后一个开关 **"
+		"enable"		"0"
+		"hammerid"		"528290"
+		"m_iname"		"ht2_k_break"
 	}
-	"### HOLD THESE LADDERS ###"
+	"528322"
 	{
-		"chi"		"**守住这些梯子 **"
+		"enable"		"0"
+		"hammerid"		"528322"
+		"m_iname"		"ht2_n_break"
 	}
-	"### UNTIL FINAL GATES OPEN ###"
+	"528337"
 	{
-		"chi"		"**直到最后大门打开 **"
+		"enable"		"0"
+		"hammerid"		"528337"
+		"m_iname"		"ht2_o_break"
 	}
-	"### FINAL GATES OPEN IN 40 SECONDS ###"
+	"528351"
 	{
-		"chi"		"**最后大门将在40秒内打开**"
+		"enable"		"0"
+		"hammerid"		"528351"
+		"m_iname"		"ht2_p_break"
 	}
-	"### 30 SECONDS REMAINING ###"
+	"528377"
 	{
-		"chi"		"**还剩30秒 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"528377"
+		"m_iname"		"ht2_r_break"
 	}
-	"### FINAL GATES IS OPENING FALL BACK ###"
+	"528405"
 	{
-		"chi"		"**最后大门已打开,快走 **"
+		"enable"		"0"
+		"hammerid"		"528405"
+		"m_iname"		"ht2_s_break"
 	}
-	"### HOLD UNTIL THE GATES CLOSED ###"
+	"528419"
 	{
-		"chi"		"**守住，直到大门关闭 **"
+		"enable"		"0"
+		"hammerid"		"528419"
+		"m_iname"		"ht2_t_break"
 	}
-	"### STAGE COMPLETED ###"
+	"528431"
 	{
-		"chi"		"**闯关成功 **"
+		"enable"		"0"
+		"hammerid"		"528431"
+		"m_iname"		"ht2_u_break"
 	}
-	"### STAGE : HELL (NARAKA) ###"
+	"528463"
 	{
-		"chi"		"**阶段:地狱(NARAKA) **"
+		"enable"		"0"
+		"hammerid"		"528463"
+		"m_iname"		"ht_v_break"
 	}
-	"### LEFT GATES OPEN ###"
+	"528491"
 	{
-		"chi"		"**左边大门开启 **"
+		"enable"		"0"
+		"hammerid"		"528491"
+		"m_iname"		"ht2_v_break"
 	}
-	"### DEFEND HERE ###"
+	"528818"
 	{
-		"chi"		"**守住这里 **"
+		"enable"		"0"
+		"hammerid"		"528818"
+		"m_iname"		"ht2_w_break"
 	}
-	"### 2 LEVERS NEED TO ACTIVE TO OPEN THE DOOR ###"
+	"528829"
 	{
-		"chi"		"**这个门需要开启两个开关才能打开 **"
+		"enable"		"0"
+		"hammerid"		"528829"
+		"m_iname"		"ht2_x_break"
 	}
-	"### RIGHT LEVER ACTIVATED ###"
+	"528840"
 	{
-		"chi"		"**右边机关已激活 **"
+		"enable"		"0"
+		"hammerid"		"528840"
+		"m_iname"		"ht2_y_break"
 	}
-	"### LEFT LEVER ACTIVATED ###"
+	"528851"
 	{
-		"chi"		"**左边开关已激活 **"
+		"enable"		"0"
+		"hammerid"		"528851"
+		"m_iname"		"ht2_z_break"
 	}
-	"### ZOMBIES ARE COMING FOR LEFT SIDE ###"
+	"528953"
 	{
-		"chi"		"**僵尸可以从左侧过来 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"528953"
+		"m_iname"		"ht2_z4_right_break"
 	}
-	"### ALL 2 LEVERS ACTIVATED ###"
+	"528969"
 	{
-		"chi"		"**所有开关已激活 **"
+		"enable"		"0"
+		"hammerid"		"528969"
+		"m_iname"		"ht2_z4_left_break"
 	}
-	"### GATE OPEN !! FALL BACK NOW ###"
+	"528980"
 	{
-		"chi"		"**大门已打开!!快走 **"
+		"enable"		"0"
+		"hammerid"		"528980"
+		"m_iname"		"ht2_z5_break"
 	}
-	"### HOLD FOR 30 SECONDS ###"
+	"523668"
 	{
-		"chi"		"**坚持30秒 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"523668"
+		"m_iname"		"ht2_lever1_break"
 	}
-	"## HOLD HERE FOR A BIT ###"
+	"523866"
 	{
-		"chi"		"**在这里守一会 **"
+		"enable"		"0"
+		"hammerid"		"523866"
+		"m_iname"		"ht2_lever2_break"
 	}
-	"### DEFEND BOTH SIDES ###"
+	"267850"
 	{
-		"chi"		"**守住两侧 **"
+		"enable"		"0"
+		"hammerid"		"267850"
+		"m_iname"		"pillars_break"
 	}
-	"### CRATES CANNOT HOLD ZOMBIES ANYMORE ###"
+	"140001"
 	{
-		"chi"		"**木箱没办法再抵御僵尸了 **"
+		"enable"		"0"
+		"hammerid"		"140001"
+		"m_iname"		"ht_dont_delay_break"
 	}
-	"### DEFEND THIS HALL WAY ###"
+	"114715"
 	{
-		"chi"		"**守住这个地方 **"
+		"enable"		"0"
+		"hammerid"		"114715"
+		"m_iname"		"pillars_junk"
 	}
-	"### STAGE FAILED ###"
+	"114954"
 	{
-		"chi"		"**闯关失败 **"
+		"enable"		"0"
+		"hammerid"		"114954"
+		"m_iname"		"tg_door_zone_3"
 	}
-	"### ACTIVE 2 LEVERS TO OPEN GATES ###"
+	"101651"
 	{
-		"chi"		"**激活两个开关来开启大门 **"
+		"enable"		"0"
+		"hammerid"		"101651"
+		"m_iname"		"door_break_2"
 	}
-	"### HOLD HERE UNTIL GATES OPEN ###"
+	"101751"
 	{
-		"chi"		"**守住这里，直到大门开启 **"
+		"enable"		"0"
+		"hammerid"		"101751"
+		"m_iname"		"door_break_1"
 	}
-	"### HOLD FOR 15 SECONDS ###"
+	"101772"
 	{
-		"chi"		"**坚持15秒 **"
+		"enable"		"0"
+		"hammerid"		"101772"
+		"m_iname"		"door_break_3"
 	}
-	"### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
+	"101895"
 	{
-		"chi"		"**地狱恶魔不死并且释放僵尸 **"
+		"enable"		"0"
+		"hammerid"		"101895"
+		"m_iname"		"door_break_4"
 	}
-	">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<"
+	"1092196"
 	{
-		"chi"		"**在那之前你们一共有2分钟的时间 **"
-	}
-	"lll NARAKA IS CASTING DEATH BREATH lll"
-	{
-		"chi"		"**地狱恶魔正在铸造死亡的气(保持移动，远离BOSS会往外推，靠近BOSS往内吸) **"
-		"ico"		"icon_fire"
-	}
-	"lll NARAKA IS USING PHYSICAL ATTACK lll"
-	{
-		"chi"		"**地狱恶魔正在使用物理攻击 **"
-	}
-	"lll NARAKA IS CASTING LIFESTEALER lll"
-	{
-		"chi"		"**地狱恶魔正在铸成生命窃取者(造成伤害) **"
-	}
-	"### RIGHT GATES OPEN ###"
-	{
-		"chi"		"**右边大门已打开 **"
-	}
-	">>> HES DEAD. DEFEND UNTIL GATES OPEN <<<"
-	{
-		"chi"		"**他死了，守住直到门打开 **"
-	}
-	"### ACTIVE THE LEVER TO OPEN GATES ###"
-	{
-		"chi"		"**激活开关 **"
-	}
-	"### HOLD BOTH SIDES FOR 30 SECONDS ###"
-	{
-		"chi"		"**守住两边30秒 **"
-		"DoorCountDown"		"30"
-	}
-	"### LEAVE THE ROOM OR DEAD ###"
-	{
-		"chi"		"**离开这个房间或死亡 **"
-	}
-	"### HOLD THIS HALL FOR A BIT ###"
-	{
-		"chi"		"**在这个大厅守一会(门碎马上走) **"
-		"ico"		"icon_fire"
-	}
-	"### SHOOT THE CROSS IN THE MIDDLE ROOM ###"
-	{
-		"chi"		"**射击中间房间的十字架 **"
-		"ico"		"icon_fire"
-	}
-	"### TO OPEN CHURCH GATES ###"
-	{
-		"chi"		"**打开教堂大门 **"
-	}
-	"### CHURCH GATES OPEN IN 15 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### 5 SECOND REMAINING ###"
-	{
-		"chi"		"** **"
-	}
-	"### CHURCH GATES CLOSED IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### CONGRATULATION YOU WON THE MAP ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARMUP - 50 SECONDS LEFT ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARMUP - 40 SECONDS LEFT ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARMUP - 30 SECONDS LEFT ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARMUP - 20 SECONDS LEFT ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARMUP - 10 SECONDS LEFT ###"
-	{
-		"chi"		"** **"
-	}
-	"### WARMUP OVER - RESTARTING ROUND ###"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"97929"
-	}
-	"### KILL THE REMAINING ZOMBIES ###"
-	{
-		"chi"		"** **"
-	}
-	"### HOLD BOTH SIDES FOR 20 SECONDS ###"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1092196"
+		"m_iname"		"ht2_break_tr"
 	}
 }

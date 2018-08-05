@@ -1,487 +1,969 @@
-"Console_T"
+"BOSSHP"
 {
-	">> Special Thanks to nano <<"
+	"95047"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95047"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> Thanks to Unloze and GFLClan.ru <<"
+	"95057"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95057"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> WARMUP ROUND <<"
+	"95067"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95067"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> 40 SECONDS LEFT <<"
+	"95439"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95439"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> Map by TaskuVaras and Moltard <<"
+	"95459"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95459"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> 30 SECONDS LEFT <<"
+	"95509"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95509"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> 20 SECONDS LEFT <<"
+	"95519"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95519"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> 10 SECONDS LEFT <<"
+	"95529"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95529"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> WARMUP ROUND END <<"
+	"95544"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95544"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> LEVEL: DEAD TREE <<"
+	"95554"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95554"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP WATER <<"
+	"95564"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95564"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** DOOR OPENING IN 20 SECONDS ***"
+	"95775"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95775"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** Door is open!!! ***"
+	"95785"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95785"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** DOOR OPENING IN 30 SECONDS ***"
+	"95795"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95795"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** DOOR OPENING IN 5 SECONDS ***"
+	"95898"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95898"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** Door is open! RUN!! ***"
+	"95908"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95908"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP GRAVITY <<"
+	"95918"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95918"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP HEAL <<"
+	"95968"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95968"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** DEFEND FOR 30 SECONDS ***"
+	"95978"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95978"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> OH NO!! ITS THE KNIGHT <<"
+	"95988"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95988"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> THE KNIGHT HAS BEEN DEFEATED !!! <<"
+	"248540"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248540"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** Castle Gate is opening ***"
+	"248550"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248550"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** GATE OPENING IN 25 SECONDS ***"
+	"248560"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248560"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** Gate opening in 5 seconds ***"
+	"248680"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248680"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP EARTH <<"
+	"248690"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248690"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	"248700"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248700"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> THE LADDER IS BROKEN <<"
+	"248890"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248890"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> FIND 1 RUNG TO FIX IT <<"
+	"248900"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248900"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> A PLAYER HAS FOUND A LADDER RUNG <<"
+	"248910"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248910"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> DEFEND WHILE WE REPAIR THE LADDER <<"
+	"249861"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"249861"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> THE LADDER IS FIXED ! <<"
+	"249871"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"249871"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP ICE <<"
+	"249881"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"249881"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> WE CAN REPAIR THE LADDER <<"
+	"250036"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"250036"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> DEFEND ! <<"
+	"250046"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"250046"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP ELECTRO <<"
+	"250056"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"250056"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PLAYER HAS PICKED UP FIRE <<"
+	"250141"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"250141"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> RUN !!!! <<"
+	"250151"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"250151"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	"*** RESCUE DRAGON LEAVING IN 15 SECONDS ***"
+	"250161"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"250161"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> LEVEL COMPLETED!! <<"
+	"29337"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"29337"
+		"m_iname"		"Door_1"
 	}
-	">> LEVEL: CAVES <<"
+	"194748"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"194748"
+		"m_iname"		"Wall_1-2"
 	}
-	"*** Defend until the path is clear ***"
+	"315225"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"315225"
+		"m_iname"		"Spawn_Elevator_Doors2"
 	}
-	">> PLAYER HAS PICKED UP 6 MINES <<"
+	"315382"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"315382"
+		"m_iname"		"Spawn_Elevator_Doors"
 	}
-	"*** The path is open! RUN!! ***"
+	"315427"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"315427"
+		"m_iname"		"Spawn_Elevator_Doors3"
 	}
-	"*** Defend for 20 seconds ***"
+	"315731"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"315731"
+		"m_iname"		"Spawn_Wall"
 	}
-	"*** DEFEND FOR 5 SECONDS ***"
+	"431610"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"431610"
+		"m_iname"		"Level_Bar"
 	}
-	">> OH NO!! ITS THE SPOOKY SCARY SKELETONS <<"
+	"622030"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"622030"
+		"m_iname"		"Spawn_Elevator_Break"
 	}
-	">> KILL THEM BEFORE ITS TOO LATE <<"
+	"975291"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"975291"
+		"m_iname"		"Wall_2"
 	}
-	">> ALL 6 MINES USED <<"
+	"1010467"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1010467"
+		"m_iname"		"Credit_Warmup"
 	}
-	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
+	"1010470"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1010470"
+		"m_iname"		"Credit_Warmup"
 	}
-	"*** PLAYER FOUND A KEY ***"
+	"248262"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"248262"
+		"m_iname"		"Spawn_Grid"
 	}
-	">> PLAYER HAS PICKED UP WIND <<"
+	"5236"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5236"
+		"m_iname"		"Lvl1_DoorWood"
 	}
-	"*** THE WAY IS OPEN! RUUUN! ***"
+	"5249"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5249"
+		"m_iname"		"Lvl1_DoorWood"
 	}
-	"*** LIFT LEAVING IN 15 seconds ***"
+	"5639"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5639"
+		"m_iname"		"Lvl1_DoorWood"
 	}
-	"*** LIFT LEAVING IN 5 seconds ***"
+	"10819"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10819"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	">> LEVEL: POKEBALL <<"
+	"10829"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10829"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	"10839"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10839"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	"10921"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10921"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<"
+	"10931"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10931"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<"
+	"10941"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10941"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** Tunnel opening in 20 seconds ***"
+	"18400"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18400"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	">> PLAYER HAS PICKED UP DITTO POKEBALL <<"
+	"18414"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18414"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** Tunnel opening in 5 seconds ***"
+	"18424"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18424"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<"
+	"18468"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18468"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** Guard House opening in 30 seconds ***"
+	"18482"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18482"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** Guard House opening in 5 seconds ***"
+	"18492"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18492"
+		"m_iname"		"Lvl1_DoorWood2"
 	}
-	"*** Gym opening in 20 seconds ***"
+	"26698"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"26698"
+		"m_iname"		"Lvl1_Gate"
 	}
-	"*** Gym opening in 5 seconds ***"
+	"29324"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"29324"
+		"m_iname"		"Lvl1_DoorWood"
 	}
-	"*** RUN INTO THE GYM !!!! ***"
+	"29708"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"29708"
+		"m_iname"		"Lvl1_Grid1"
 	}
-	"*** YOU WOKE UP SNORLAX ***"
+	"468502"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"468502"
+		"m_iname"		"Lvl1_Wood1"
 	}
-	"*** IT ATTACKED IN A GRUMPY RAGE !!! ***"
+	"468513"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"468513"
+		"m_iname"		"Lvl1_Wood2"
 	}
-	"*** SNORLAX IS MAKING US SLEEPY ***"
+	"470553"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"470553"
+		"m_iname"		"Lvl1_Boss_Gate"
 	}
-	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
+	"471460"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"471460"
+		"m_iname"		"Lvl1_End_Break"
 	}
-	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
+	"471521"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"471521"
+		"m_iname"		"Lvl1_Boss_Clip_Zombie"
 	}
-	"*** SHOOT BEFORE ITS TOO LATE ***"
+	"510542"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"510542"
+		"m_iname"		"Lvl1_Boss_Grid_Zombie"
 	}
-	"*** SNORLAX USED HYPERBEAM ***"
+	"890359"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890359"
+		"m_iname"		"Lvl1_Boss_Clip_CT"
 	}
-	"*** SNORLAX USED REST ***"
+	"890646"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890646"
+		"m_iname"		"Lvl1_Boss_Platform"
 	}
-	"*** ESCAPE WHILE HE IS ASLEEP ***"
+	"890656"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890656"
+		"m_iname"		"Lvl1_Boss_Break"
 	}
-	"*** ELEVATOR LEAVING IN 30 seconds ***"
+	"1125060"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1125060"
+		"m_iname"		"Lvl1_Wood3"
 	}
-	">> EXTREME MODE ADDED <<"
+	"1145790"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1145790"
+		"m_iname"		"Lvl1_ChainShortcut"
 	}
-	">> 2 MORE RUNGS TO FIND <<"
+	"890420"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890420"
+		"m_iname"		"Knight_Boss_Physbox"
 	}
-	">> 1 MORE RUNG TO FIND <<"
+	"890482"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890482"
+		"m_iname"		"Knight_Boss_Break"
 	}
-	">> ALL THE RUNGS ARE FOUND <<"
+	"890486"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890486"
+		"m_iname"		"Knight_Boss_Break"
 	}
-	"*** RESCUE DRAGON LEAVING IN 30 SECONDS ***"
+	"890489"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890489"
+		"m_iname"		"Knight_Boss_Break"
 	}
-	">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<"
+	"890492"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"890492"
+		"m_iname"		"Knight_Boss_Break"
 	}
-	">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<"
+	"519739"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"519739"
+		"m_iname"		"LadderRung&8010"
 	}
-	"*** ITS SUPER EFFECTIVE !!! ***"
+	"90287"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"90287"
+		"m_iname"		"Lvl2_Grid1"
 	}
-	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	"236445"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"236445"
+		"m_iname"		"Lvl2_WebDoor_Lock"
 	}
-	"*** LIFT LEAVING IN 30 seconds ***"
+	"480231"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"480231"
+		"m_iname"		"Lvl2_WebDoor"
 	}
-	"*** THE LIFT IS BROKEN ! ***"
+	"507951"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"507951"
+		"m_iname"		"Lvl2_Wall_Spider"
 	}
-	"*** WE HAVE TO GO DEEPER INTO THE CAVE ***"
+	"842806"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"842806"
+		"m_iname"		"Lvl2_GridBoss"
 	}
-	"*** HOLD WHILE WE OPEN THE WAY ***"
+	"1127087"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1127087"
+		"m_iname"		"Lvl2_DeadEnd"
 	}
-	">> ITS A DEAD END !! <<"
+	"842826"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"842826"
+		"m_iname"		"Skeleton_Boss_Phys1"
 	}
-	">> THE MOLE WILL HELP US GET OUT <<"
+	"842829"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"842829"
+		"m_iname"		"Skeleton_Boss_Phys2"
 	}
-	">> DEFEND WHILE THE MOLE IS DIGGING <<"
+	"842832"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"842832"
+		"m_iname"		"Skeleton_Boss_Phys3"
 	}
-	">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<"
+	"554166"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"554166"
+		"m_iname"		"Spider_Break1"
 	}
-	">> THE MOLE IS COMING BACK ! WATCH OUT !! <<"
+	"554233"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"554233"
+		"m_iname"		"Spider_Break2"
 	}
-	"*** ZOMBIES TAKE THE SIDEWAY ***"
+	"554246"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"554246"
+		"m_iname"		"Spider_Break3"
 	}
-	"*** ELEVATOR IS STUCK ***"
+	"554259"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"554259"
+		"m_iname"		"Spider_Break4"
 	}
-	"*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***"
+	"554272"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"554272"
+		"m_iname"		"Spider_Break5"
 	}
-	"*** NICE JOB!!! ***"
+	"554292"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"554292"
+		"m_iname"		"Spider_Break6"
 	}
-	">> POKEMON WONT FOLLOW YOU IN THIS CAVE <<"
+	"81391"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"81391"
+		"m_iname"		"Lvl3_WoodDoor"
 	}
-	"*** Doors opening in 30 seconds ***"
+	"81401"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"81401"
+		"m_iname"		"Lvl3_WoodDoor"
 	}
-	"*** Doors opening in 5 seconds ***"
+	"81411"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"81411"
+		"m_iname"		"Lvl3_WoodDoor"
 	}
-	"*** Doors are open! RUN!! ***"
+	"81289"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"81289"
+		"m_iname"		"Lvl3_WoodDoor"
 	}
-	">> ITS A SHINY PIKACHU !!! <<"
+	"81299"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"81299"
+		"m_iname"		"Lvl3_WoodDoor"
 	}
-	">> CATCH HIM. HE IS OUR WAY OUT !!! <<"
+	"81309"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"81309"
+		"m_iname"		"Lvl3_WoodDoor"
 	}
-	">> A POKEBALL HAS BEEN PICKED UP <<"
+	"612458"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"612458"
+		"m_iname"		"Lvl3_SecretDitto"
 	}
-	">> SHINY PIKACHU HAS BEEN PICKED UP <<"
+	"2323225"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2323225"
+		"m_iname"		"Lvl3_Rock1"
 	}
-	">> TAKE THE POKEBALL <<"
+	"2323231"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2323231"
+		"m_iname"		"Lvl3_Rock2"
 	}
-	">> WE CAN LEAVE THIS WORLD NOW <<"
+	"2323299"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2323299"
+		"m_iname"		"Lvl3_RockShortcut"
 	}
-	">> THE CLOCK IS A TIME MACHINE !!! <<"
+	"2324277"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2324277"
+		"m_iname"		"Lvl3_RockExt3"
 	}
-	">> PUT THE SHINY PIKACHU INSIDE IT <<"
+	"2323545"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"2323545"
+		"m_iname"		"Snorlax_Boss_Phys"
 	}
-	">> ENTER IN THE CLOCK FROM THE BACK <<"
+	"2323704"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"2323704"
+		"m_iname"		"Snorlax_Boss_Clip"
 	}
-	">> FIND 3 RUNGS TO FIX IT <<"
+	"95449"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95449"
+		"m_iname"		"Spawn_WoodDoor"
 	}
-	">> PUT SHINY PIKACHU IN THE CLOCK <<"
+	"1291301"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1291301"
+		"m_iname"		"Lvl7_WoodDoor"
 	}
-	">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<"
+	"1291310"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1291310"
+		"m_iname"		"Lvl7_WoodDoor"
 	}
-	">> STAY ON THE BOOK <<"
+	"1292576"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1292576"
+		"m_iname"		"Lvl7_Wood1"
 	}
-	">> IT SHOULD BE SAFER <<"
+	"1292585"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1292585"
+		"m_iname"		"Lvl7_WoodDoor"
 	}
-	">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<"
+	"1292728"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1292728"
+		"m_iname"		"Lvl7_Grid1"
 	}
-	">> YOU TOOK TOO LONG !! <<"
+	"1292738"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1292738"
+		"m_iname"		"Lvl7_Grid2"
 	}
-	">> PIKACHU CAUGHT HIMSELF !! <<"
+	"1293425"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1293425"
+		"m_iname"		"Lvl7_Wall1"
+	}
+	"2260436"
+	{
+		"enable"		"1"
+		"hammerid"		"2260436"
+		"m_iname"		"Lvl7_Boss_Grid2"
+	}
+	"2260439"
+	{
+		"enable"		"1"
+		"hammerid"		"2260439"
+		"m_iname"		"Lvl7_Boss_Grid2"
+	}
+	"1573503"
+	{
+		"enable"		"0"
+		"hammerid"		"1573503"
+		"m_iname"		"Shr0_Skybox_Stuff"
+	}
+	"1708997"
+	{
+		"enable"		"0"
+		"hammerid"		"1708997"
+		"m_iname"		"Shr0_Skybox_Stuff"
+	}
+	"1164359"
+	{
+		"enable"		"0"
+		"hammerid"		"1164359"
+		"m_iname"		"Mole_Clip2"
+	}
+	"1164362"
+	{
+		"enable"		"0"
+		"hammerid"		"1164362"
+		"m_iname"		"Mole_Clip"
+	}
+	"1164365"
+	{
+		"enable"		"0"
+		"hammerid"		"1164365"
+		"m_iname"		"Mole_Hands_Model"
+	}
+	"1123675"
+	{
+		"enable"		"0"
+		"hammerid"		"1123675"
+		"m_iname"		"Ext3_Elevator_Clip"
+	}
+	"1126178"
+	{
+		"enable"		"0"
+		"hammerid"		"1126178"
+		"m_iname"		"Ext3_Wood1"
+	}
+	"2324329"
+	{
+		"enable"		"0"
+		"hammerid"		"2324329"
+		"m_iname"		"Ext3_Grid1"
+	}
+	"2324332"
+	{
+		"enable"		"0"
+		"hammerid"		"2324332"
+		"m_iname"		"Ext3_Grid1"
+	}
+	"2324335"
+	{
+		"enable"		"0"
+		"hammerid"		"2324335"
+		"m_iname"		"Ext3_Grid2"
+	}
+	"2324403"
+	{
+		"enable"		"0"
+		"hammerid"		"2324403"
+		"m_iname"		"Ext3_Pikachu_Physbox"
+	}
+	"2324412"
+	{
+		"enable"		"0"
+		"hammerid"		"2324412"
+		"m_iname"		"Ext3_Pikachu_HeadPhys"
+	}
+	"2096199"
+	{
+		"enable"		"0"
+		"hammerid"		"2096199"
+		"m_iname"		"Item_Pokeball_Physbox&7753"
+	}
+	"1229242"
+	{
+		"enable"		"0"
+		"hammerid"		"1229242"
+		"m_iname"		"House_ClockBreak"
+	}
+	"2307724"
+	{
+		"enable"		"0"
+		"hammerid"		"2307724"
+		"m_iname"		"House_ClockBattery_Break"
+	}
+	"2307786"
+	{
+		"enable"		"0"
+		"hammerid"		"2307786"
+		"m_iname"		"House_ClockBattery_Break"
+	}
+	"1874518"
+	{
+		"enable"		"0"
+		"hammerid"		"1874518"
+		"m_iname"		"TankAmmo_Phys&8093"
+	}
+	"1832797"
+	{
+		"enable"		"1"
+		"hammerid"		"1832797"
+		"m_iname"		"Hitler_Boss_Phys"
+	}
+	"1985462"
+	{
+		"enable"		"1"
+		"hammerid"		"1985462"
+		"m_iname"		"Hitler_Boss_Tank1_Break"
+	}
+	"1985656"
+	{
+		"enable"		"1"
+		"hammerid"		"1985656"
+		"m_iname"		"Hitler_Boss_Tank2_Break"
+	}
+	"2274266"
+	{
+		"enable"		"1"
+		"hammerid"		"2274266"
+		"m_iname"		"Hitler_Boss_SatanBody"
+	}
+	"2273363"
+	{
+		"enable"		"0"
+		"hammerid"		"2273363"
+		"m_iname"		"Hell_Platform1"
+	}
+	"2273369"
+	{
+		"enable"		"0"
+		"hammerid"		"2273369"
+		"m_iname"		"Hell_Platform2"
+	}
+	"2260510"
+	{
+		"enable"		"1"
+		"hammerid"		"2260510"
+		"m_iname"		"Satan_Boss_Physbox"
+	}
+	"2260513"
+	{
+		"enable"		"1"
+		"hammerid"		"2260513"
+		"m_iname"		"Satan_Boss_Break"
+	}
+	"2274871"
+	{
+		"enable"		"0"
+		"hammerid"		"2274871"
+		"m_iname"		"Satan_Laser_Phys"
+	}
+	"2274615"
+	{
+		"enable"		"0"
+		"hammerid"		"2274615"
+		"m_iname"		"MinionNpc_Movement&8130"
+	}
+	"2274495"
+	{
+		"enable"		"0"
+		"hammerid"		"2274495"
+		"m_iname"		"Attack_Electro_Phys&8035"
+	}
+	"1572568"
+	{
+		"enable"		"0"
+		"hammerid"		"1572568"
+		"m_iname"		"Shr1_Skybox_Stuff"
+	}
+	"1572579"
+	{
+		"enable"		"0"
+		"hammerid"		"1572579"
+		"m_iname"		"Shr1_Skybox_Stuff"
+	}
+	"1572586"
+	{
+		"enable"		"0"
+		"hammerid"		"1572586"
+		"m_iname"		"Shr1_Skybox_Stuff"
+	}
+	"2275348"
+	{
+		"enable"		"0"
+		"hammerid"		"2275348"
+		"m_iname"		"Shr1_Door"
+	}
+	"2275357"
+	{
+		"enable"		"0"
+		"hammerid"		"2275357"
+		"m_iname"		"Shr1_Door"
+	}
+	"2275366"
+	{
+		"enable"		"0"
+		"hammerid"		"2275366"
+		"m_iname"		"Shr1_Door"
+	}
+	"2275375"
+	{
+		"enable"		"0"
+		"hammerid"		"2275375"
+		"m_iname"		"Shr1_Door"
+	}
+	"2274603"
+	{
+		"enable"		"0"
+		"hammerid"		"2274603"
+		"m_iname"		"Attack_Mines_Phys&2215"
+	}
+	"2274577"
+	{
+		"enable"		"0"
+		"hammerid"		"2274577"
+		"m_iname"		"Attack_Ice_Phys&9245"
+	}
+	"2096270"
+	{
+		"enable"		"0"
+		"hammerid"		"2096270"
+		"m_iname"		"Item_Masterball_Physbox"
 	}
 }

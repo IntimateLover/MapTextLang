@@ -1,222 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"<!!!> MAP BY JB_GAMBLE <!!!>"
+	"331447"
 	{
-		"chi"		"**地图制作：JB_GAMBLE 地图翻译：蓬莱山帅比♪ **"
+		"enable"		"0"
+		"hammerid"		"331447"
+		"m_iname"		"2waybl"
 	}
-	"<!!!> COLD MOUNTAIN <!!!>"
+	"391875"
 	{
-		"chi"		"**雪山 **"
+		"enable"		"0"
+		"hammerid"		"391875"
+		"m_iname"		"fd"
 	}
-	"<!!!> THE COLD HURTS <!!!>"
+	"463830"
 	{
-		"chi"		"**冻伤 **"
+		"enable"		"0"
+		"hammerid"		"463830"
+		"m_iname"		"zs"
 	}
-	"<!!!> WARMTH HEALS <!!!>"
+	"464958"
 	{
-		"chi"		"**篝火处可以治愈你们 **"
+		"enable"		"0"
+		"hammerid"		"464958"
+		"m_iname"		"f4"
 	}
-	"<!!!> CALL HELICOPTER <!!!>"
+	"1334364"
 	{
-		"chi"		"**呼叫直升机 **"
+		"enable"		"0"
+		"hammerid"		"1334364"
+		"m_iname"		"e1"
 	}
-	"<!!!> USE THE RADIO <!!!>"
+	"1822732"
 	{
-		"chi"		"**使用无线电 **"
+		"enable"		"0"
+		"hammerid"		"1822732"
+		"m_iname"		"cs_r1dr"
 	}
-	"<!!!> IN THE OPEN CONTAINER <!!!>"
+	"1826543"
 	{
-		"chi"		"**在打开的集装箱里 **"
+		"enable"		"0"
+		"hammerid"		"1826543"
+		"m_iname"		"h1_barr"
 	}
-	"<!!!> WAIT FOR HELICOPTER <!!!>"
+	"1826546"
 	{
-		"chi"		"**等待直升机 **"
+		"enable"		"0"
+		"hammerid"		"1826546"
+		"m_iname"		"h1_barr"
 	}
-	"<!!!> FALL BACK TO HELICOPTER <!!!>"
+	"2319426"
 	{
-		"chi"		"**去直升机里面 **"
+		"enable"		"0"
+		"hammerid"		"2319426"
+		"m_iname"		"g"
 	}
-	"<!!!> HELICOPTER LEAVING <!!!>"
+	"2694483"
 	{
-		"chi"		"**直升机离开了 **"
+		"enable"		"0"
+		"hammerid"		"2694483"
+		"m_iname"		"hds"
 	}
-	"<!!!> HUMANS WIN <!!!>"
+	"2694507"
 	{
-		"chi"		"**人类胜利 **"
+		"enable"		"0"
+		"hammerid"		"2694507"
+		"m_iname"		"hds"
 	}
-	"<!!!> CITY STREETS <!!!>"
+	"3361927"
 	{
-		"chi"		"**城市街道 **"
+		"enable"		"0"
+		"hammerid"		"3361927"
+		"m_iname"		"WoodGibs&2646"
 	}
-	"<!!!> PART 1 <!!!>"
+	"3266433"
 	{
-		"chi"		"**第一部分 **"
+		"enable"		"0"
+		"hammerid"		"3266433"
+		"m_iname"		"WoodGibs&2646"
 	}
-	"<!!!> HOLD HERE! <!!!>"
+	"1772635"
 	{
-		"chi"		"**守住这里 **"
+		"enable"		"0"
+		"hammerid"		"1772635"
+		"m_iname"		"cb_lb1"
 	}
-	"<!!!> 5 SECONDS! <!!!>"
+	"463856"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"463856"
+		"m_iname"		"2wd"
 	}
-	"<!!!> FALL BACK | GO! GO! <!!!>"
+	"1334367"
 	{
-		"chi"		"**撤退，快走 **"
+		"enable"		"0"
+		"hammerid"		"1334367"
+		"m_iname"		"e2"
 	}
-	"<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>"
+	"1772649"
 	{
-		"chi"		"**检测到僵尸.你失败了 **"
-	}
-	"<!!!> HOLD HERE <!!!>"
-	{
-		"chi"		"**守住这里 **"
-	}
-	"<!!!> FINAL HOLD <!!!>"
-	{
-		"chi"		"**守住最后一个地方 **"
-	}
-	"<!!!> GET ON LIFT <!!!>"
-	{
-		"chi"		"**上电梯 **"
-	}
-	"<!!!> CITY BUILDING <!!!>"
-	{
-		"chi"		"**城市建筑物 **"
-	}
-	"<!!!> EASY MODE <!!!>"
-	{
-		"chi"		"**简单模式 **"
-	}
-	"<!!!> 5 SECONDS <!!!>"
-	{
-		"chi"		"** **"
-	}
-	"<!!!> FALL BACK <!!!>"
-	{
-		"chi"		"**撤退 **"
-	}
-	"<!!!> POWER OFF <!!!>"
-	{
-		"chi"		"**关闭电源 **"
-	}
-	"<!!!> DOOR OPENING <!!!>"
-	{
-		"chi"		"**门开了 **"
-	}
-	"<!!!> FAN 1 SHUTDOWN - 30 SECONDS <!!!>"
-	{
-		"chi"		"**风扇1-30秒后关闭 **"
-		"DoorCountdown"		"30"
-	}
-	"<!!!> FAN 1 HAS SHUTDOWN <!!!>"
-	{
-		"chi"		"**风扇1已关闭 **"
-	}
-	"<!!!> FALL BACK  <!!!>"
-	{
-		"chi"		"**撤退 **"
-	}
-	"<!!!> FAN 2 SHUTDOWN - 10 SECONDS <!!!>"
-	{
-		"chi"		"**风扇2-10秒后关闭 **"
-	}
-	"<!!!> FAN 2 HAS SHUTDOWN <!!!>"
-	{
-		"chi"		"**风扇2已关闭 **"
-	}
-	"<!!!> JUMP DOWN <!!!>"
-	{
-		"chi"		"**跳下去 **"
-	}
-	"<!!!> MEDIUM DAMAGE ROUND <!!!>"
-	{
-		"chi"		"**普通模式 **"
-	}
-	"<!!!> ZOMBIES DETECTED <!!!>"
-	{
-		"chi"		"**检测到僵尸 **"
-	}
-	"<!!!> YOU FAIL <!!!>"
-	{
-		"chi"		"**你失败了 **"
-	}
-	"<!!!> PART 2 <!!!>"
-	{
-		"chi"		"**第二部分 **"
-	}
-	"<!!!> STRAIGHT AHEAD! TO TRAIN TRACKS! <!!!>"
-	{
-		"chi"		"**直走！ 火车轨道！ **"
-	}
-	"<!!!> KEEP DEFENDING !! <!!!>"
-	{
-		"chi"		"**守住这里 **"
-	}
-	"<!!!> 1ST DOOR CLOSING <!!!>"
-	{
-		"chi"		"**1号门关闭 **"
-	}
-	"<!!!> 2ND DOOR CLOSING <!!!>"
-	{
-		"chi"		"**2号门关闭 **"
-	}
-	"<!!!> HUMAMS WIN <!!!>"
-	{
-		"chi"		"**人类胜利 **"
-	}
-	"<!!!> CITY STREETS COMPLETE <!!!>"
-	{
-		"chi"		"**城市街道完成 **"
-	}
-	"<!!!> NORMAL MODE <!!!>"
-	{
-		"chi"		"**普通模式 **"
-	}
-	"<!!!> FAN 2 SHUTDOWN - 20 SECONDS <!!!>"
-	{
-		"chi"		"**风扇2-20秒后关闭 **"
-		"DoorCountdown"		"20"
-	}
-	"<!!!> HIGH DAMAGE ROUND <!!!>"
-	{
-		"chi"		"**本关冻伤具有高伤害 **"
-	}
-	"<!!!> HARD MODE <!!!>"
-	{
-		"chi"		"**困难模式 **"
-	}
-	"<!!!> DOOR OPEN <!!!>"
-	{
-		"chi"		"**门开了！ **"
-	}
-	"<!!!> FAN 2 SHUTDOWN - 30 SECONDS <!!!>"
-	{
-		"chi"		"**风扇2-30秒后关闭 **"
-		"DoorCountdown"		"30"
-	}
-	"<!!!> CITY BUILDING COMPLETE <!!!>"
-	{
-		"chi"		"**城市建筑完成 **"
-	}
-	"<!!!> IMPOSSIBLE DAMAGE ROUND <!!!>"
-	{
-		"chi"		"**不可能过的一关 **"
-	}
-	"<!!!> HIGH DAMAGE - LOW HEAL <!!!>"
-	{
-		"chi"		"**高伤害-低治疗 **"
-	}
-	"<!!!> MAP COMPLETE <!!!>"
-	{
-		"chi"		"**地图通关 **"
-	}
-	"<!!!> LOW DAMAGE ROUND <!!!>"
-	{
-		"chi"		"**低伤害的一关 **"
-	}
-	"<!!!> ZOMBIES DETECTED | YOU FAIL <!!!>"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1772649"
+		"m_iname"		"cb_lb2"
 	}
 }

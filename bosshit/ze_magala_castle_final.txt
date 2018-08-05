@@ -1,99 +1,129 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Map created by Cisneros***"
+	"222904"
 	{
-		"chi"		"**地图制作：Cisneros 地图翻译:Vocaloid-60**"
+		"enable"		"0"
+		"hammerid"		"222904"
+		"m_iname"		"finalwall"
 	}
-	"***The door will open in 5 seconds***"
+	"216367"
 	{
-		"chi"		"** 门会在5秒后打开**"
+		"enable"		"0"
+		"hammerid"		"216367"
+		"m_iname"		"breakdoor4"
 	}
-	"***Objetive: survive escaping the castle***"
+	"216409"
 	{
-		"chi"		"**目的：活着逃出城堡**"
+		"enable"		"0"
+		"hammerid"		"216409"
+		"m_iname"		"breakdoor5"
 	}
-	"***Hold the door until the door open***"
+	"217021"
 	{
-		"chi"		"**守住这扇门直到它打开！**"
+		"enable"		"0"
+		"hammerid"		"217021"
+		"m_iname"		"breakdoor6"
 	}
-	"***The door will open soon***"
+	"201246"
 	{
-		"chi"		"**门马上就要开了！**"
+		"enable"		"0"
+		"hammerid"		"201246"
+		"m_iname"		"way2"
 	}
-	"***Hold this position, the elevators leaves soon***"
+	"95433"
 	{
-		"chi"		"**守住这里！电梯马上就离开了**"
+		"enable"		"0"
+		"hammerid"		"95433"
+		"m_iname"		"doorpiscis"
 	}
-	"***Hold this position***"
+	"80649"
 	{
-		"chi"		"**坚守这里！**"
+		"enable"		"0"
+		"hammerid"		"80649"
+		"m_iname"		"breakdoor3"
 	}
-	"***Defend a little bit more***"
+	"80734"
 	{
-		"chi"		"**再守一小会**"
+		"enable"		"0"
+		"hammerid"		"80734"
+		"m_iname"		"glassbreak"
 	}
-	"***The door will open in 45 seconds***"
+	"63965"
 	{
-		"chi"		"**门会在45秒后打开**"
+		"enable"		"0"
+		"hammerid"		"63965"
+		"m_iname"		"doorwater2"
 	}
-	"***The door will open in 15 seconds***"
+	"60816"
 	{
-		"chi"		"**门会在15秒后打开**"
+		"enable"		"0"
+		"hammerid"		"60816"
+		"m_iname"		"doorwater1"
 	}
-	"***Hold this position for 15 seconds***"
+	"57251"
 	{
-		"chi"		"**守住这里15秒！**"
+		"enable"		"0"
+		"hammerid"		"57251"
+		"m_iname"		"doorafueras"
 	}
-	"***Hold this position for 20 seconds***"
+	"52489"
 	{
-		"chi"		"**守住这里20秒！**"
+		"enable"		"0"
+		"hammerid"		"52489"
+		"m_iname"		"doorpasillo"
 	}
-	"***RUN!!!***"
+	"44635"
 	{
-		"chi"		"**快跑！**"
+		"enable"		"0"
+		"hammerid"		"44635"
+		"m_iname"		"trap1"
 	}
-	"***Shoot door!!!***"
+	"44738"
 	{
-		"chi"		"**打碎那扇门！**"
+		"enable"		"0"
+		"hammerid"		"44738"
+		"m_iname"		"trap2"
 	}
-	"***RUN!!***"
+	"44906"
 	{
-		"chi"		"**快撤！**"
+		"enable"		"0"
+		"hammerid"		"44906"
+		"m_iname"		"doorterraza"
 	}
-	"***The boat leave in 35 seconds***"
+	"35498"
 	{
-		"chi"		"**船会在35秒后离开**"
+		"enable"		"0"
+		"hammerid"		"35498"
+		"m_iname"		"breakdoor2"
 	}
-	"***The boat is here!!, defend a little bit more***"
+	"26770"
 	{
-		"chi"		"**船在这里！再守一小会！**"
+		"enable"		"0"
+		"hammerid"		"26770"
+		"m_iname"		"elevatorwallbreak"
 	}
-	"*** The door will open in 25 seconds ***"
+	"26785"
 	{
-		"chi"		"**门会在25秒后打开！**"
+		"enable"		"0"
+		"hammerid"		"26785"
+		"m_iname"		"elevatorwallbreak"
 	}
-	"*** Hold this position ***"
+	"12242"
 	{
-		"chi"		"**守住这里！**"
+		"enable"		"0"
+		"hammerid"		"12242"
+		"m_iname"		"spawndoor"
 	}
-	"*** The door will open soon***"
+	"12255"
 	{
-		"chi"		"**门马上就开了！**"
+		"enable"		"0"
+		"hammerid"		"12255"
+		"m_iname"		"breakdoor1"
 	}
-	"*** Defend a little bit more! ***"
+	"80680"
 	{
-		"chi"		"**再守一小会！**"
-	}
-	"*** The door will open in 5 seconds ***"
-	{
-		"chi"		"**门会在5秒后打开！**"
-	}
-	"*** The elevator will leave in 35 seconds ***"
-	{
-		"chi"		"**电梯将在35秒后离开！**"
-	}
-	"*** Defend the ladder 15 seconds ***"
-	{
-		"chi"		"**守住梯子15秒**"
+		"enable"		"0"
+		"hammerid"		"80680"
+		"m_iname"		"way1"
 	}
 }

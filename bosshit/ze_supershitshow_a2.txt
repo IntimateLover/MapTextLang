@@ -282,4 +282,58 @@
 		"hammerid"		"360270"
 		"m_iname"		"CastleDefenseTowers"
 	}
+	"273335"
+	{
+		"enable"		"0"
+		"hammerid"		"273335"
+		"m_iname"		"george_cades_toilet_box&3471"
+	}
+	"273329"
+	{
+		"enable"		"0"
+		"hammerid"		"273329"
+		"m_iname"		"george_cades_shelf_box&3480"
+	}
+	"273398"
+	{
+		"enable"		"0"
+		"hammerid"		"273398"
+		"m_iname"		"george_cades_vendy_box&3483"
+	}
+	"273332"
+	{
+		"enable"		"0"
+		"hammerid"		"273332"
+		"m_iname"		"george_cades_sandbag_box&3487"
+	}
+	"273338"
+	{
+		"enable"		"0"
+		"hammerid"		"273338"
+		"m_iname"		"george_cades_haybale_box&3492"
+	}
+	"273326"
+	{
+		"enable"		"0"
+		"hammerid"		"273326"
+		"m_iname"		"george_cades_bench_box&3495"
+	}
+	"273723"
+	{
+		"enable"		"0"
+		"hammerid"		"273723"
+		"m_iname"		"RockBarricadePhys&3600"
+	}
+	"200904"
+	{
+		"enable"		"0"
+		"hammerid"		"200904"
+		"m_iname"		"MissilePhysbox&3627"
+	}
+	"281426"
+	{
+		"enable"		"0"
+		"hammerid"		"281426"
+		"m_iname"		"SpitPhys&1379"
+	}
 }

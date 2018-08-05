@@ -1,603 +1,219 @@
-"Console_T"
+"BOSSHP"
 {
-	"**ZE PKMN HGSS - v2**"
+	"154317"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"154317"
+		"m_iname"		"Route_44_Rockwall"
 	}
-	"**Map by Lv. 100 Crobat**"
+	"154349"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"154349"
+		"m_iname"		"Route_44_Ramps"
 	}
-	"**Stage: Level 1**"
+	"131969"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"131969"
+		"m_iname"		"Mahogany_Gym_Ice"
 	}
-	"**Go to Violet City, and defeat Falkner**"
+	"132001"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132001"
+		"m_iname"		"Mahogany_Gym_Platform1"
 	}
-	"**PATH IS BLOCKED, HOLD FOR 30 SECONDS**"
+	"132017"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132017"
+		"m_iname"		"Mahogany_Gym_Platform2"
 	}
-	"**10 SECONDS**"
+	"132020"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132020"
+		"m_iname"		"Mahogany_Gym_Platform3"
 	}
-	"**ROCK DESTROYED, GO TO VIOLET CITY**"
+	"132023"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132023"
+		"m_iname"		"Mahogany_Gym_Platform8"
 	}
-	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 25 SECONDS**"
+	"132026"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132026"
+		"m_iname"		"Mahogany_Gym_Platform7"
 	}
-	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 10 SECONDS**"
+	"132029"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132029"
+		"m_iname"		"Mahogany_Gym_Platform4"
 	}
-	"**GO TO VIOLET CITY**"
+	"132032"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132032"
+		"m_iname"		"Mahogany_Gym_Platform9"
 	}
-	"**Welcome to Violet City**"
+	"132035"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132035"
+		"m_iname"		"Mahogany_Gym_Platform6"
 	}
-	"**Head to the Gym**"
+	"132038"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132038"
+		"m_iname"		"Mahogany_Gym_Platform5"
 	}
-	"**Teleport will be enabled in 15 seconds"
+	"132041"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"132041"
+		"m_iname"		"Mahogany_Gym_Platform10"
 	}
-	"**Falkner: Hello challengers..."
+	"123758"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"123758"
+		"m_iname"		"mt.mortar_wall"
 	}
-	"**Falkner: Im Falkner, The Violet Pokemon Gym leader!**"
+	"72177"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"72177"
+		"m_iname"		"Level2_Abra"
 	}
-	"**Falkner: People say you can clip flying-type Pokemons wings with a jolt of electricity... **"
+	"72194"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"72194"
+		"m_iname"		"Level2_AbraWall"
 	}
-	"**Falkner: I wont allow such insult to bird Pokemon.**"
+	"60912"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"60912"
+		"m_iname"		"Level2_Route35_ZcageBreak"
 	}
-	"**Falkner: Ill show you the real power of the magnificent bird Pokemon!**"
+	"56642"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"56642"
+		"m_iname"		"AdminRoom_Level2_Phsybox"
 	}
-	"**Gym Leader Falkner wants to fight!**"
+	"53523"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53523"
+		"m_iname"		"AdminRoom_Level1_Phsybox"
 	}
-	"**Falkner: Go Noctowl!**"
+	"11730"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"11730"
+		"m_iname"		"Union_Cave_Rocks"
 	}
-	"**NO COWARDS ALLOWED**"
+	"11734"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"11734"
+		"m_iname"		"Union_Cave_Rocks"
 	}
-	"**TELEPORTER WILL BREAK IN 5 SECONDS**"
+	"11738"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"11738"
+		"m_iname"		"Union_Cave_Rocks"
 	}
-	"**Falkner: Noctowl, use Whirlwind"
+	"11868"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"11868"
+		"m_iname"		"Route_32_Cage"
 	}
-	"**Falkner: Noctowl, Roost!"
+	"11888"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"11888"
+		"m_iname"		"VioletCity_Treeblock_Azalea"
 	}
-	"**Noctowl has fainted!**"
+	"14368"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"14368"
+		"m_iname"		"VioletCity_Gym_ZCage_break"
 	}
-	"**Falkner: Noctowl, get back.**"
+	"2421"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2421"
+		"m_iname"		"Level1_cherrygrove_blocker"
 	}
-	"**Falkner: Go, Pidgeot!"
+	"3334"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"3334"
+		"m_iname"		"Level1_VioletGym_Bridge"
 	}
-	"**Falkner: Pidgeot, use Whirlwind**"
+	"3293"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"3293"
+		"m_iname"		"Level1_Noctowl"
 	}
-	"Falkner: **Pidgeot, Brave Bird!**"
+	"3306"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"3306"
+		"m_iname"		"Level1_Pidgeot"
 	}
-	"**Falkner: Pidgeot, Roost!"
+	"18113"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18113"
+		"m_iname"		"Scyther1"
 	}
-	"**Pidgeot has fainted!**"
+	"18168"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18168"
+		"m_iname"		"Lv1_Ariados"
 	}
-	"**Falkner: Pidgeot, get back!**"
+	"18138"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18138"
+		"m_iname"		"Scyther2"
 	}
-	"**Falkner: Well, I didnt expected that...**"
+	"40433"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"40433"
+		"m_iname"		"Miltank"
 	}
-	"**Falkner: As a token of your victory, take the Zehpyr Badge**"
+	"38125"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"38125"
+		"m_iname"		"GoldenRodGym_NoEscape"
 	}
-	"**Falkner: The Zephyr Badge will allow you to Cut the tree path down violet city**"
+	"91623"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"91623"
+		"m_iname"		"ecruteakgym_bridge"
 	}
-	"**Falkner: Take the teleporter and go to Azalea Town**"
+	"95232"
 	{
-		"chi"		"** **"
-	}
-	"**Falkner: Bugsy is waiting for you there**"
-	{
-		"chi"		"** **"
-	}
-	"**We dont have the HM-Rock Smash**"
-	{
-		"chi"		"** **"
-	}
-	"**Defend here for 35 Seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Defend here for 10 Seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombies trapped**"
-	{
-		"chi"		"** **"
-	}
-	"**GO INSIDE OF UNION CAVE**"
-	{
-		"chi"		"** **"
-	}
-	"**Welcome to Azalea Town**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to the Gym**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Let me demonstrate what Ive learned from my studies.**"
-	{
-		"chi"		"** **"
-	}
-	"**Gym Leader Bugsy wants to fight!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Go, Scyther!**"
-	{
-		"chi"		"** **"
-	}
-	"**HUMANS OUTSIDE AZALEA GYM WILL BE TELEPORTED TO THE ZCAGE IN 5 SECONDS!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Scyther, use U-turn!"
-	{
-		"chi"		"** **"
-	}
-	"**Scyther has returned to Bugsy!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Go, Ariados!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Ariados, use Spider Web!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Ariados, use Sludge!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Get back Ariados!"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Scyther, use Fury Cutter!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Scyhter, get back!**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: I was beaten, I admit defeat.**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Here, take the Hive Badge.**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: I suggest you to go to Golden Rod City**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to Golden Rod City**"
-	{
-		"chi"		"** **"
-	}
-	"**If you wish, go to the PKMN Center, you need healing**"
-	{
-		"chi"		"** **"
-	}
-	"**Then go to the Illex Forest**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombies tping in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Illex Forest exit is unavaible.**"
-	{
-		"chi"		"** **"
-	}
-	"**Defend for 60 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Defend for 30 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Falkner: Noctowl, use Zen Headbutt!"
-	{
-		"chi"		"** **"
-	}
-	"**Defend for 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to Goldenrod City!**"
-	{
-		"chi"		"** **"
-	}
-	"**Welcome to GoldenRod City**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Hi! Im Whitney!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: You want to battle?**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Im warning you, Im good!**"
-	{
-		"chi"		"** **"
-	}
-	"**Gym Leader Whitney wants to fight!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Go, Miltank!**"
-	{
-		"chi"		"** **"
-	}
-	"**PLAYERS NOT INSIDE THE BATTLE FIELD WILL TP IN 10 SECONDS**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: Im Bugsy! I never lose when it comes to Bug-type Pokémon.**"
-	{
-		"chi"		"** **"
-	}
-	"**Bugsy: My research is going to make me an authority on Bug-type Pokémon!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Everyone was into Pokémon, so I got into it, too!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Miltank, use Milk Drink!**"
-	{
-		"chi"		"** **"
-	}
-	"**Miltank has restored health**"
-	{
-		"chi"		"** **"
-	}
-	"**Miltank has fainted.**"
-	{
-		"chi"		"** **"
-	}
-	"**Youve defeated Gym Leader Whitney!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Waaaah! Waaaah!"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: ...**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Miltank, use Attract!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Sniff.. Oh yeah the badge!**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Here, take the Plain Badge**"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Miltank, use Body Slam!**"
-	{
-		"chi"		"** **"
-	}
-	"**Level 1 Completed!**"
-	{
-		"chi"		"** **"
-	}
-	"*** Admin switched Level to 2! ***"
-	{
-		"chi"		"** **"
-	}
-	"**Its a wild Abra!**"
-	{
-		"chi"		"** **"
-	}
-	"**Hes scared and looks he will teleport out**"
-	{
-		"chi"		"** **"
-	}
-	"**He will mass teleport everyone in the white area in 50 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Abra will massteleport in 20 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Abra will massteleport in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Abra massteleported**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombie destroyed the wall!**"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"**Whitney: Miltank, use Rollout!**"
-	{
-		"chi"		"** **"
-	}
-	"**Adventure continues on Level 2!**"
-	{
-		"chi"		"** **"
-	}
-	"**Level 2**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to Ecruteak City**"
-	{
-		"chi"		"** **"
-	}
-	"**And defeat Morty**"
-	{
-		"chi"		"** **"
-	}
-	"**PROTIP: ON LOW HP**"
-	{
-		"chi"		"** **"
-	}
-	"**WALK NEAR A PKMN CENTER DOOR**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to the west security building**"
-	{
-		"chi"		"** **"
-	}
-	"**It will be avaible in 60 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Security Building path enabled in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to Ecruteak City!**"
-	{
-		"chi"		"** **"
-	}
-	"**Route 36 path will be avaible in 40 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Route 36 path will be avaible in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"** Keep going!**"
-	{
-		"chi"		"** **"
-	}
-	"**Ecruteak City path will be avaible in 45 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**The path to the front leads to Violet City**"
-	{
-		"chi"		"** **"
-	}
-	"**We should go left, to Ecruteak City**"
-	{
-		"chi"		"** **"
-	}
-	"**Ecruteak City path will be avaible in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Welcome to Ecruteak City**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to the Gym at the most left**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Its good of you to have come. Here in Ecruteak, Pokemon have long been revered.**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Its said that a rainbow-hued Pokemon will come down to appear before a truly powerful Trainer.**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: I believed that tale, so I have secretly trained here all my life.**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: I believe that person is me! Youre going to help me reach that level!**"
-	{
-		"chi"		"** **"
-	}
-	"**Gym Leader Morty wants to fight!**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Go, Gengar!**"
-	{
-		"chi"		"** **"
-	}
-	"**HUMANS NOT INSIDE THE BATTLEFIEL WILL TELEPORT IN 3 SECONDS**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Gengar, use Toxic Cloud!**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Gengar, use Shadow Ball!**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Gengar, use Thunderbolt!**"
-	{
-		"chi"		"** **"
-	}
-	"**Gengar has fainted**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: I got outplayed**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: Congratulations, heres the Fog Badge**"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: The next gym is to the east gate, go to Mahogany Town**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to the most East Gate!**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombies will get inside the city in 5 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**The wall will break in 60 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Hmm, thin ice, be careful**"
-	{
-		"chi"		"** **"
-	}
-	"**The wall will break in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Go to Mahogany Town!**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: I, too, have seen and suffered much in my life.**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: Pokemon have many experiences in their lives, just like we do.**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: Since I am your elder, let me show you what I mean.**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: I, Pryce - the Winter Trainer - shall demonstrate my power!**"
-	{
-		"chi"		"** **"
-	}
-	"**Gym Leader Pryce wants to fight!**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: Go, Piloswine!**"
-	{
-		"chi"		"** **"
-	}
-	"**People not inside Magohany Gym will TP in 5 seconds!**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: Piloswine, use Shatter!**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: Piloswine, use Blizzard!**"
-	{
-		"chi"		"** **"
-	}
-	"**Pryce: Piloswine, use Ice Shards!"
-	{
-		"chi"		"** **"
-	}
-	"**Morty: As a result, I can now see what others cannot. I see a shadow of the person who will make the Pokémon appear**"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"95232"
+		"m_iname"		"Gengar"
 	}
 }

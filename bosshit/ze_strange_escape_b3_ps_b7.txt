@@ -1,63 +1,129 @@
-"Console_T"
+"BOSSHP"
 {
-	"<!!!> MAP BY JB_GAMBLE <!!!>"
+	"847558"
 	{
-		"chi"		"**地图作者：JB_GAMBLE 翻译：我不信没用户名 **"
+		"enable"		"0"
+		"hammerid"		"847558"
+		"m_iname"		"chop_footing"
 	}
-	"<!!!> HOLD HERE 25 SECONDS <!!!>"
+	"106470"
 	{
-		"chi"		"**守住这里25秒 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"106470"
+		"m_iname"		"round2_gratb"
 	}
-	"<!!!> 5 SECONDS <!!!>"
+	"268632"
 	{
-		"chi"		"**还有5秒 **"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"268632"
+		"m_iname"		"round1_1holdr"
 	}
-	"<!!!> FALL BACK! GO! GO! <!!!>"
+	"268912"
 	{
-		"chi"		"**撤退！！！ **"
+		"enable"		"0"
+		"hammerid"		"268912"
+		"m_iname"		"round1_3holdr"
 	}
-	"<!!!> HOLD HERE 20 SECONDS <!!!>"
+	"269011"
 	{
-		"chi"		"**守住这里20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"269011"
+		"m_iname"		"round1_holdr4"
 	}
-	"<!!!> HOLD HERE <!!!>"
+	"269100"
 	{
-		"chi"		"**守住这里！！！ **"
+		"enable"		"0"
+		"hammerid"		"269100"
+		"m_iname"		"round2_blodr"
 	}
-	"<!!!> GET ON CHOPPER! GO! GO! <!!!>"
+	"269593"
 	{
-		"chi"		"**快上飞机，快！！！ **"
+		"enable"		"0"
+		"hammerid"		"269593"
+		"m_iname"		"blo3"
 	}
-	"<!!!> Helicopter will rise after 3 seconds <!!!>"
+	"410896"
 	{
-		"chi"		"**直升机将在3秒后起飞 **"
+		"enable"		"0"
+		"hammerid"		"410896"
+		"m_iname"		"r2_housedr"
 	}
-	"<!!!> HUMANS WIN <!!!>"
+	"411680"
 	{
-		"chi"		"**人类获胜 **"
+		"enable"		"0"
+		"hammerid"		"411680"
+		"m_iname"		"r2hotdor"
 	}
-	"<!!!> KABOOM <!!!>"
+	"424110"
 	{
-		"chi"		"**BOOM！ **"
+		"enable"		"0"
+		"hammerid"		"424110"
+		"m_iname"		"aff"
 	}
-	"<!!!> HOLD HERE 15 SECONDS <!!!>"
+	"731303"
 	{
-		"chi"		"**守住这里15秒 **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"731303"
+		"m_iname"		"gh67"
 	}
-	"<!!!> TELEPORT OPEN <!!!>"
+	"766885"
 	{
-		"chi"		"**传送开启 **"
+		"enable"		"0"
+		"hammerid"		"766885"
+		"m_iname"		"round2_winds"
 	}
-	"<!!!> ZOMBIES ON CHOPPER | YOU FAILED <!!!>"
+	"768043"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"768043"
+		"m_iname"		"aff2"
 	}
-	"<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>"
+	"768588"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"768588"
+		"m_iname"		"r2g55"
+	}
+	"106473"
+	{
+		"enable"		"0"
+		"hammerid"		"106473"
+		"m_iname"		"round1_gratb"
+	}
+	"410874"
+	{
+		"enable"		"0"
+		"hammerid"		"410874"
+		"m_iname"		"r1_housedr"
+	}
+	"411994"
+	{
+		"enable"		"0"
+		"hammerid"		"411994"
+		"m_iname"		"round2_3holdr"
+	}
+	"412199"
+	{
+		"enable"		"0"
+		"hammerid"		"412199"
+		"m_iname"		"round2_6holdr"
+	}
+	"766896"
+	{
+		"enable"		"0"
+		"hammerid"		"766896"
+		"m_iname"		"round1_winds"
+	}
+	"803563"
+	{
+		"enable"		"0"
+		"hammerid"		"803563"
+		"m_iname"		"aff22"
+	}
+	"803590"
+	{
+		"enable"		"0"
+		"hammerid"		"803590"
+		"m_iname"		"aff22"
 	}
 }

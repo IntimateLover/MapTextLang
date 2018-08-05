@@ -1,639 +1,407 @@
-"Console_T"
+"BOSSHP"
 {
-	">>> Map created by Moray <<<"
+	"CY01Physiclvl4"
 	{
-		"chi"		"**地图制作：Moray 汉化：一只恶意卖萌的夕雨**"
+		"enable"		"0"
 	}
-	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	"bosslvl1_hit"
 	{
-		"chi"		"**挂机玩家10秒后传送**"
+		"enable"		"1"
 	}
-	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	"CY01Physic"
 	{
-		"chi"		"**挂机玩家5秒后传送**"
+		"enable"		"0"
 	}
-	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	"bosslvl2_hit"
 	{
-		"chi"		"**传送点在20秒后激活**"
-		"DoorCountDown"		"20"
+		"enable"		"1"
 	}
-	">>> DRAGON USED WATER. GO FOWARD <<<"
+	"bosslvl2_end_hit"
 	{
-		"chi"		"**巨龙施放了浊液喷射，快往前跑！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
 	}
-	">>> DRAGON USED FIRE. GO SIDE <<<"
+	"bosslvl3_hit"
 	{
-		"chi"		"**巨龙施放了焚烧烈焰，迅速往两边躲闪！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
 	}
-	">>> DRAGON IS COMING AGAIN <<<"
+	"bosslvl3_end_dragon_hit"
 	{
-		"chi"		"**前面那是...巨龙又回来了！把它打回到天上去！**"
+		"enable"		"1"
 	}
-	"**Jetstream Sam has been defeated!**"
+	"boss_breaklvl4"
 	{
-		"chi"		"**Jetstream Sam被击败！**"
+		"enable"		"1"
 	}
-	">>> BREAK STATUE TO GET ITEM <<<"
+	"bosslvl5_end_hit"
 	{
-		" "		" "
-		" "		"chi"
+		"enable"		"1"
 	}
-	">>> NOOB TRASHED <<<"
+	"bosslvl5_hit"
 	{
-		"chi"		">>>Enemy down~<<<"
+		"enable"		"1"
 	}
-	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
+	"bosslvl5_garg_hit"
 	{
-		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
-		"ico"		"icon_fire"
+		"enable"		"1"
 	}
-	">>> HOLD 45 SECONDS <<<"
+	"687276"
 	{
-		"chi"		"**坚守45秒**"
-		"DoorCountDown"		"45"
+		"enable"		"1"
+		"hammerid"		"687276"
+		"m_iname"		"bosslvl3_door"
 	}
-	">>> SHOOT GARGANTUA <<<"
+	"793073"
 	{
-		"chi"		"**我们不是已经击杀了它吗！没时间思考了快开火！那就再让它死一次！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"793073"
+		"m_iname"		"bosslvl5_end_door"
 	}
-	">>> ALL ZM ITEMS IS LOCKED <<<"
+	"3038767"
 	{
-		"chi"		"**所有僵尸神器已被封锁，安心跳刀吧伙计**"
+		"enable"		"0"
+		"hammerid"		"3038767"
+		"m_iname"		"CY01Physiclvl4"
 	}
-	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	"475768"
 	{
-		"chi"		"**热身还有30秒**"
+		"enable"		"1"
+		"hammerid"		"475768"
+		"m_iname"		"bosslvl1_hit"
 	}
-	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	"531303"
 	{
-		"chi"		"**热身还有20秒**"
+		"enable"		"1"
+		"hammerid"		"531303"
+		"m_iname"		"bosslvl5_laser_hit"
 	}
-	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	"2142238"
 	{
-		"chi"		"**热身还有10秒**"
+		"enable"		"0"
+		"hammerid"		"2142238"
+		"m_iname"		"door10_1"
 	}
-	">>> WARMUP ROUND END <<<"
+	"591556"
 	{
-		"chi"		"**热身结束**"
+		"enable"		"0"
+		"hammerid"		"591556"
+		"m_iname"		"door_3_1"
 	}
-	">>> STAGE 1 <<<"
+	"591601"
 	{
-		"chi"		"**第一关**"
+		"enable"		"0"
+		"hammerid"		"591601"
+		"m_iname"		"door_4_1"
 	}
-	">>> ENTRANCE DOOR OPENING <<<"
+	"592443"
 	{
-		"chi"		"**入口大门开启中**"
+		"enable"		"0"
+		"hammerid"		"592443"
+		"m_iname"		"door_5_1"
 	}
-	">>> HOLD 25 SECONDS <<<"
+	"592492"
 	{
-		"chi"		"**坚守25秒直至左方大门打开**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"592492"
+		"m_iname"		"door_6"
 	}
-	">>> HOLD 20 SECONDS <<<"
+	"610687"
 	{
-		"chi"		"**坚守20秒**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"610687"
+		"m_iname"		"door_7_1"
 	}
-	">>> PLAYER HAS PICKED UP PUSH <<<"
+	"610890"
 	{
-		"chi"		"**一名玩家玩家拾取了飓风权杖**"
+		"enable"		"0"
+		"hammerid"		"610890"
+		"m_iname"		"door9_1"
 	}
-	">>> HOLD 10 SECONDS <<<"
+	"611258"
 	{
-		"chi"		"**坚守10秒**"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"611258"
+		"m_iname"		"door_11_1"
 	}
-	">>> HOLD 5 SECONDS <<<"
+	"611295"
 	{
-		"chi"		"**坚守5秒**"
+		"enable"		"0"
+		"hammerid"		"611295"
+		"m_iname"		"door_12_1"
 	}
-	">>> PLAYER HAS PICKED UP HEAL <<<"
+	"629561"
 	{
-		"chi"		"**一名玩家拾取了治疗权杖**"
+		"enable"		"0"
+		"hammerid"		"629561"
+		"m_iname"		"door_13_1"
 	}
-	">>> HOLD 15 SECONDS <<<"
+	"668030"
 	{
-		"chi"		"**坚守15秒**"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"668030"
+		"m_iname"		"door14_1"
 	}
-	">>> SPIDER IS COMING <<<"
+	"668100"
 	{
-		"chi"		"**毒蛛出现在了倒塌的书架上**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"668100"
+		"m_iname"		"door_15_1"
 	}
-	">>> DOOR CLOSING <<<"
+	"668168"
 	{
-		"chi"		"**大门关闭**"
+		"enable"		"0"
+		"hammerid"		"668168"
+		"m_iname"		"door_16_1"
 	}
-	">>> SPIDER USED POISON. HURRY <<<"
+	"686780"
 	{
-		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"686780"
+		"m_iname"		"door_18_1"
 	}
-	">>> LEVEL COMPLETED <<<"
+	"686840"
 	{
-		"chi"		"**关卡完成**"
+		"enable"		"0"
+		"hammerid"		"686840"
+		"m_iname"		"door_19_1"
 	}
-	">>> STAGE 2 <<<"
+	"687044"
 	{
-		"chi"		"**第二关**"
+		"enable"		"0"
+		"hammerid"		"687044"
+		"m_iname"		"door_20_1"
 	}
-	">>> GO RIGHT <<<"
+	"687300"
 	{
-		"chi"		"**跑向右边铁门**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"687300"
+		"m_iname"		"door_21_1"
 	}
-	">>> PLAYER HAS PICKED UP ICE <<<"
+	"687336"
 	{
-		"chi"		"**一名玩家拾取了急冻权杖**"
+		"enable"		"0"
+		"hammerid"		"687336"
+		"m_iname"		"door_22_1"
 	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	"706397"
 	{
-		"chi"		"**热身还有40秒**"
+		"enable"		"0"
+		"hammerid"		"706397"
+		"m_iname"		"elevator_1_3"
 	}
-	">>> PLAYER HAS PICKED UP FIRE <<<"
+	"706436"
 	{
-		"chi"		"**一名玩家拾取了烈焰权杖**"
+		"enable"		"0"
+		"hammerid"		"706436"
+		"m_iname"		"door_28_1"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	"772461"
 	{
-		"chi"		"**一名僵尸学会了巫蛊回复**"
+		"enable"		"0"
+		"hammerid"		"772461"
+		"m_iname"		"door_30_1"
 	}
-	">>> SPIDER IS DEAD <<<"
+	"772507"
 	{
-		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"772507"
+		"m_iname"		"door_31_1"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	"772568"
 	{
-		"chi"		"**一名僵尸学会了引燃**"
+		"enable"		"0"
+		"hammerid"		"772568"
+		"m_iname"		"door_32_1"
 	}
-	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	"772593"
 	{
-		"chi"		"**一名玩家拾取了闪电权杖**"
+		"enable"		"0"
+		"hammerid"		"772593"
+		"m_iname"		"door_33_1"
 	}
-	">>> PLAYER HAS PICKED UP AMMO <<<"
+	"772648"
 	{
-		"chi"		"**一名玩家拾取了补给权杖**"
+		"enable"		"0"
+		"hammerid"		"772648"
+		"m_iname"		"door_34_1"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	"772806"
 	{
-		"chi"		"**一名僵尸学会了腐蚀剧毒**"
+		"enable"		"0"
+		"hammerid"		"772806"
+		"m_iname"		"door_35_1"
 	}
-	">>> TROLL IS COMING <<<"
+	"793149"
 	{
-		"chi"		"**那是一只来意不善的食人魔！**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"793149"
+		"m_iname"		"door_36_1"
 	}
-	">>> TROLL IS DEAD <<<"
+	"1662194"
 	{
-		"chi"		"**我们击败了这只食人魔**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"1662194"
+		"m_iname"		"lvl5_itemshield"
 	}
-	">>> ITS DRAGON <<<"
+	"1662230"
 	{
-		"chi"		"**那只巨龙挡住了我们的去路！我们得尝试击退它！**"
+		"enable"		"1"
+		"hammerid"		"1662230"
+		"m_iname"		"lvl5_shield_hit"
 	}
-	">>> DRAGON IS HURT <<<"
+	"1662249"
 	{
-		"chi"		"**巨龙负伤逃离了**"
+		"enable"		"1"
+		"hammerid"		"1662249"
+		"m_iname"		"lvl5_shield_hit"
 	}
-	">>> STAGE 3 <<<"
+	"2205144"
 	{
-		"chi"		"**第三关**"
+		"enable"		"0"
+		"hammerid"		"2205144"
+		"m_iname"		"door_38_1"
 	}
-	">>> HOLD 30 SECONDS <<<"
+	"2567022"
 	{
-		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"2567022"
+		"m_iname"		"door39_2"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+	"2649723"
 	{
-		"chi"		"**一名僵尸学会了视线扰乱**"
+		"enable"		"0"
+		"hammerid"		"2649723"
+		"m_iname"		"start_zheal_gate"
 	}
-	">>> PLAYER HAS PICKED UP KILLER <<<"
+	"2999293"
 	{
-		"chi"		"**一名玩家拾取了灭杀权杖**"
+		"enable"		"0"
+		"hammerid"		"2999293"
+		"m_iname"		"CY01Physic"
 	}
-	">>> DRAGON IS COMING <<<"
+	"488481"
 	{
-		"chi"		"**我们找的就是这只巨龙！击败它！**"
+		"enable"		"1"
+		"hammerid"		"488481"
+		"m_iname"		"bosslvl2_hit"
 	}
-	">>> DRAGON USED GRAVITY <<<"
+	"532668"
 	{
-		"chi"		"**巨龙施放了重力攫取，抵抗它的吸力别被吸进它脚下的火场里了！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"532668"
+		"m_iname"		"bosslvl2_end_hit"
 	}
-	">>> GATE OPENING IN 5 SECONDS <<<"
+	"477130"
 	{
-		"chi"		"**大门5秒后开启**"
+		"enable"		"1"
+		"hammerid"		"477130"
+		"m_iname"		"bosslvl3_hit"
 	}
-	">>> HOLD 35 SECONDS <<<"
+	"522338"
 	{
-		"chi"		"**坚守35秒**"
-		"DoorCountDown"		"35"
+		"enable"		"1"
+		"hammerid"		"522338"
+		"m_iname"		"bosslvl3_end_dragon_hit"
 	}
-	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
+	"3038755"
 	{
-		"chi"		"**还有5秒，别被落下了！**"
+		"enable"		"1"
+		"hammerid"		"3038755"
+		"m_iname"		"boss_breaklvl4"
 	}
-	">>> RUN <<<"
+	"515406"
 	{
-		"chi"		"**快跑！**"
+		"enable"		"1"
+		"hammerid"		"515406"
+		"m_iname"		"bosslvl5_end_hit"
 	}
-	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
+	"507880"
 	{
-		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"507880"
+		"m_iname"		"bosslvl5_hit"
 	}
-	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	"2673872"
 	{
-		"chi"		"**一名玩家拾取了树篱权杖**"
+		"enable"		"1"
+		"hammerid"		"2673872"
+		"m_iname"		"bosslvl5_garg_hit"
 	}
-	">>> FAIL ROUND <<<"
+	"1029037"
 	{
-		"chi"		"**回合失败**"
+		"enable"		"1"
+		"hammerid"		"1029037"
+		"m_iname"		"bosslvl3_door_4"
 	}
-	">>> DRAGON USED POISON <<<"
+	"2729071"
 	{
-		"chi"		"**巨龙施放了腐蚀剧毒**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"2729071"
+		"m_iname"		"door34_2"
 	}
-	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
+	"2828242"
 	{
-		"chi"		"**巨龙负伤逃离了！快跑进传送点进行最后的防守！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"2828242"
+		"m_iname"		"bosslvl3_end_garg_path_9_model"
 	}
-	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
+	"3171992"
 	{
-		"chi"		"**传送点10秒后激活**"
-		"DoorCountDown"		"10"
+		"enable"		"1"
+		"hammerid"		"3171992"
+		"m_iname"		"bosslvl3_door_1"
 	}
-	">>> STAGE 4 <<<"
+	"3172036"
 	{
-		"chi"		"**第四关**"
+		"enable"		"1"
+		"hammerid"		"3172036"
+		"m_iname"		"bosslvl3_door"
 	}
-	">>> GARGANTUA IS COMING <<<"
+	"3539294"
 	{
-		"chi"		"**那是巨人！这次我们一定要在这击败它！**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"3539294"
+		"m_iname"		"lvl6_enddoor2"
 	}
-	">>> GARGANTUA USED KILLER. GO SIDE <<<"
+	"3539332"
 	{
-		"chi"		"**巨人施放了灭杀法阵！快跑向法阵无法影响到的广场边缘！**"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"7"
+		"enable"		"0"
+		"hammerid"		"3539332"
+		"m_iname"		"lvl6_enddoor1"
 	}
-	">>> GARGANTUA USED PUSH <<<"
+	"4305740"
 	{
-		"chi"		"**巨人施放了灼热龙卷！小心点别踏进广场边缘的凶猛火场里了！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"4305740"
+		"m_iname"		"bosslvl4_phy"
 	}
-	">>> GARGANTUA USED POISON <<<"
+	"1613115"
 	{
-		"chi"		"**巨人施放了腐蚀剧毒！小心堆积在广场边缘的致命毒素！**"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"1613115"
+		"m_iname"		"bosslvl4_hit"
 	}
-	">>> GARGANTUA USED FIRE <<<"
+	"3510457"
 	{
-		"chi"		"**巨人施放了焚烧烈焰！远离它！**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"3510457"
+		"m_iname"		"doorexp3"
 	}
-	">>> GARGANTUA USED ICE <<<"
+	"3510495"
 	{
-		"chi"		"**巨人施放了凛冽寒冰！**"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"3510495"
+		"m_iname"		"doorexp4"
 	}
-	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	"3544235"
 	{
-		"chi"		"**一名僵尸学会了重力攫取**"
+		"enable"		"1"
+		"hammerid"		"3544235"
+		"m_iname"		"bosslvl6_hit"
 	}
-	">>> GARGANTUA IS DEAD <<<"
+	"4285353"
 	{
-		"chi"		"**它应该不会再站起来了...我们走吧**"
-	}
-	">>> GATE OPENING IN 10 SECONDS <<<"
-	{
-		"chi"		"**大门10秒后开启**"
-		"DoorCountDown"		"10"
-	}
-	">>> HOLD 40 SECONDS <<<"
-	{
-		"chi"		"**坚守40秒**"
-		"DoorCountDown"		"40"
-	}
-	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
-	{
-		"chi"		"**一名僵尸学会了幽灵行走**"
-	}
-	">>> HOLD 15 SECONDS<<<"
-	{
-		"chi"		"**坚守15秒直至我们把大桥炸毁**"
-		"DoorCountDown"		"15"
-	}
-	">>> BRIDGE IS BROKEN <<<"
-	{
-		" "		" "
-		" "		"chi"
-	}
-	">>> ITS BALROG <<<"
-	{
-		"chi"		"**那只炎魔就是暴君么？小心！**"
-	}
-	">>> BALROG IS ESCAPED <<<"
-	{
-		"chi"		"**它跑了！**"
-	}
-	">>> STAGE 5 <<<"
-	{
-		"chi"		"**第五关**"
-	}
-	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
-	{
-		"chi"		"**一名僵尸学会了最终灭杀**"
-	}
-	">>> PLAYER HAS PICKED UP GRAVITY <<<"
-	{
-		"chi"		"**一名玩家拾取了重力权杖**"
-	}
-	">>> BALROG IS COMING <<<"
-	{
-		"chi"		">>>那只炎魔就是最后的暴君了！就让它终结在此吧！<<<"
-	}
-	">>> BALROG USED KILLER. GO BACK <<<"
-	{
-		"chi"		">>>炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
-	}
-	">>> BALROG IS HURT <<<"
-	{
-		"chi"		"**炎魔负伤逃离了！我们得追上去！**"
-	}
-	">>> TELEPORTING ... <<<"
-	{
-		"chi"		"**传送中… **"
-	}
-	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
-	{
-		"chi"		"**巨龙倒下了.继续前进！**"
-	}
-	">>> BALROG IS BACK <<<"
-	{
-		"chi"		"**这次你再也跑不掉了！**"
-	}
-	">>> BALROG IS DEAD <<<"
-	{
-		"chi"		"**我们击倒了暴君！欢呼胜利吧！**"
-	}
-	">>> BALROG USED FIRE <<<"
-	{
-		"chi"		">>>炎魔释放了焚烧烈焰，往没有被点燃的那个半场跑！<<<"
-		"ico"		"icon_fire"
-	}
-	">>> BALROG HEALED 150HP <<<"
-	{
-		"chi"		">>>炎魔回复了150HP<<<"
-	}
-	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
-	{
-		"chi"		">>>小心炎魔那毁灭性的二连切割！快蹲下！别被它削掉你的脑袋了！<<<"
-		"ico"		"icon_fire"
-	}
-	">>> BALROG USED GRAVITY <<<"
-	{
-		"chi"		">>>炎魔施放了重力攫取，抵抗它的吸力！<<<"
-		"ico"		"icon_fire"
-	}
-	">>> BALROG USED POISON <<<"
-	{
-		"chi"		">>>炎魔施放了腐蚀剧毒，左右躲开致命的毒云！<<<"
-		"ico"		"icon_fire"
-	}
-	">>> BALROG USED PUSH <<<"
-	{
-		"chi"		">>>炎魔施放了呼啸狂风，小心点别被推下平台了！<<<"
-		"ico"		"icon_fire"
-	}
-	">>> ADMIN CHANGED TO STAGE 5 <<<"
-	{
-		"chi"		"**管理员将关卡调至第五关**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"29848"
-	}
-	">>> Map by Moray <<<"
-	{
-		"chi"		"**地图由Moray制作，一只恶意卖萌的夕雨负责汉化**"
-	}
-	">>> Thanks to nano (Help & Ideas) <<<"
-	{
-		"chi"		"**感谢nano提供的帮助和创意**"
-	}
-	">>> SPIDER USED POISON <<<"
-	{
-		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
-	}
-	">>> SPIDER IS DEFEATED <<<"
-	{
-		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
-	}
-	">>> STAGE 1 COMPLETED <<<"
-	{
-		"chi"		"**第一关完成**"
-	}
-	">>> TROLL IS DEFEATED <<<"
-	{
-		"chi"		"**我们击败了这只食人魔！**"
-	}
-	">>> ADMIN CHANGED TO STAGE 3 <<<"
-	{
-		"chi"		"**管理员将关卡调至第三关**"
-	}
-	">>> ADMIN PRESSED KILL ALL BUTTON <<<"
-	{
-		"chi"		"**管理员按下了杀死所有人按钮**"
-	}
-	">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<"
-	{
-		"chi"		"**一名僵尸学会了视线扰乱**"
-	}
-	">>> DRAGON USED PUSH <<<"
-	{
-		"chi"		"**巨龙施放了呼啸狂风！**"
-	}
-	">>> DRAGON USED FIRE <<<"
-	{
-		"chi"		"**巨龙施放了焚烧烈焰！**"
-	}
-	">>> DRAGON USED WATER <<<"
-	{
-		"chi"		"**巨龙施放了浊液喷射！**"
-	}
-	">>> DRAGON IS DEFEATED <<<"
-	{
-		"chi"		"**我们击败了巨龙！现在撤离这里！**"
-	}
-	">>> GARGANTUA IS COMING KEEP RUNNING <<<"
-	{
-		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"
-	}
-	">>> SHOOT DRAGON <<<"
-	{
-		"chi"		"**前面那是...巨龙又回来了！把它打回到天上去！**"
-	}
-	">>> STAGE 3 COMPLETED <<<"
-	{
-		"chi"		"**第三关完成**"
-	}
-	">>> GARGANTUA IS DEFEATED <<<"
-	{
-		"chi"		"**它应该不会再站起来了...我们走吧**"
-	}
-	">>> ALL ZM ITEMS IS DISABLED <<<"
-	{
-		"chi"		"**所有僵尸神器已被锁定**"
-	}
-	">>> STAGE 4 COMPLETED <<<"
-	{
-		"chi"		"**第四关完成**"
-	}
-	">>> AFK TELEPORT IN 3 SECONDS <<<"
-	{
-		"chi"		"**挂机玩家3秒后传送**"
-	}
-	">>> BALROG USE LASER <<<"
-	{
-		"chi"		"**保持蹲下别被削掉脑袋了！小心炎魔挥出的二连死亡切割！**"
-	}
-	">>> BALROG USED HEAL <<<"
-	{
-		"chi"		"**炎魔施放了了回复**"
-	}
-	">>> BALROG USED KILLER <<<"
-	{
-		"chi"		">>>炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
-	}
-	">>> BALROG USED SHIELD <<<"
-	{
-		"chi"		">>>炎魔施放了魔力吸收<<<"
-	}
-	">>> BALROG IS DEFEATED <<<"
-	{
-		"chi"		"**我们击败了炎魔！**"
-	}
-	">>> DRAGON IS DEFEATED KEEP RUNNING <<<"
-	{
-		"chi"		"**巨龙倒下了！继续前进！**"
-	}
-	">>> STAGE 5 COMPLETED <<<"
-	{
-		"chi"		"**第五关完成**"
-	}
-	">>> STAGE 6 <<<"
-	{
-		"chi"		"**第六关（ZM模式）**"
-	}
-	">>> SURVIVE 4 MINUTES <<<"
-	{
-		"chi"		"**想尽办法在4分钟内活下来**"
-	}
-	">>> 3 MINUTES LEFT <<<"
-	{
-		"chi"		"**还有3分钟**"
-	}
-	">>> 2 MINUTES LEFT <<<"
-	{
-		"z"		"chi"
-		"chi"		">>>还有2分钟<<<"
-	}
-	">>> 1 MINUTES LEFT <<<"
-	{
-		"chi"		"**最后1分钟**"
-	}
-	">>> 30 SECONDS LEFT <<<"
-	{
-		"chi"		"**最后30秒**"
-	}
-	">>> 20 SECONDS LEFT <<<"
-	{
-		"chi"		"**最后20秒**"
-	}
-	">>> 10 SECONDS LEFT <<<"
-	{
-		"chi"		"**最后10秒**"
-	}
-	">>> 5 <<<"
-	{
-		"chi"		"**5...**"
-	}
-	">>> 4 <<<"
-	{
-		"chi"		"**4...**"
-	}
-	">>> 3 <<<"
-	{
-		"chi"		"**3...**"
-	}
-	">>> 2 <<<"
-	{
-		"chi"		"**2...**"
-	}
-	">>> 1 <<<"
-	{
-		"chi"		"**1...**"
-	}
-	">>> TELEPORTED TO CASTLE GET OUT<<<"
-	{
-		"chi"		"**传送至城堡内**"
-	}
-	">>> STAGE 6 COMPLETED <<<"
-	{
-		"chi"		"**第六关完成**"
-	}
-	">>> STAGE 2 COMPLETED <<<"
-	{
-		"chi"		"**第二关完成**"
-	}
-	">>> ADMIN CHANGED TO STAGE 4 <<<"
-	{
-		"chi"		"*管理员将关卡调至第四关**"
-	}
-	">>> GARGANTUA USED GRAVITY <<<"
-	{
-		"chi"		"**巨人施放了终极攫取！抵抗它的吸力别被吸它他脚下去了！**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"*** Defeat the boss within 20 seconds! ***"
-	{
-		"chi"		"**我们需要在20秒之内解决这个BOSS**"
-	}
-	"*** Defeat the boss within 10 seconds! ***"
-	{
-		"chi"		"**还有10秒**"
-	}
-	"*** failed to defeat the boss ***"
-	{
-		"chi"		"**你失败了 gg my friend (XwX)**"
-	}
-	">>> ADMIN CHANGED TO STAGE 6 <<<"
-	{
-		"chi"		">>>管理员将关卡设置为了第六关<<<"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_armor_limit 2"
-		}
+		"enable"		"0"
+		"hammerid"		"4285353"
+		"m_iname"		"CY01Physic"
 	}
 }

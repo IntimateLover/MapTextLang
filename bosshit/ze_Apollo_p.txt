@@ -1,82 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Tram Leaving Momentarily***"
+	"6992"
 	{
-		"chi"		"**列车即将离开**"
+		"enable"		"0"
+		"hammerid"		"6992"
+		"m_iname"		"FallingMetal1"
 	}
-	"***Airlock Door Opening In 20 Seconds***"
+	"7000"
 	{
-		"chi"		"**气阀舱门在20秒后打开**"
+		"enable"		"0"
+		"hammerid"		"7000"
+		"m_iname"		"FallingMetal4"
 	}
-	"***Outdoor Tram Starting in 25 Seconds***"
+	"7008"
 	{
-		"chi"		"**露天列车在25秒后离开**"
+		"enable"		"0"
+		"hammerid"		"7008"
+		"m_iname"		"FallingMetal3"
 	}
-	"***Outdoor Tram Starting in 10 Seconds***"
+	"7016"
 	{
-		"chi"		"**露天列车在10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"7016"
+		"m_iname"		"FallingMetal5"
 	}
-	"***Outdoor Tram Starting in 5 Seconds***"
+	"7024"
 	{
-		"chi"		"**露天列车在5秒后离开**"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"7024"
+		"m_iname"		"FallingMetal2"
 	}
-	"***Rocket Lift Leaving In 10 Seconds***"
+	"7032"
 	{
-		"chi"		"**火箭电梯在10秒后离开**"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"7032"
+		"m_iname"		"FallingMetal6"
 	}
-	"<Rocket Launch In 30 Seconds>"
+	"15536"
 	{
-		"chi"		"**火箭在30秒后启动**"
+		"enable"		"0"
+		"hammerid"		"15536"
+		"m_iname"		"Rocket_Ladder_Guard"
 	}
-	"<Rocket Launch In 20 Seconds>"
+	"6664"
 	{
-		"chi"		"**火箭在20秒后启动**"
+		"enable"		"0"
+		"hammerid"		"6664"
+		"m_iname"		"Rocket_Ladder_Guard"
 	}
-	"<Rocket Launch In 10 Seconds>"
+	"97189"
 	{
-		"chi"		"**火箭在10秒后启动**"
+		"enable"		"0"
+		"hammerid"		"97189"
+		"m_iname"		"Ladder2"
 	}
-	"<Rocket Launch In 5 Seconds>"
+	"97210"
 	{
-		"chi"		"**火箭在5秒后启动**"
+		"enable"		"0"
+		"hammerid"		"97210"
+		"m_iname"		"Ladder1"
 	}
-	"<<ROCKET LAUNCHING>>"
+	"6601"
 	{
-		"chi"		"**火箭已启动**"
+		"enable"		"0"
+		"hammerid"		"6601"
+		"m_iname"		"Rocket_Ladder_Guard"
 	}
-	"<<<Map by Thatguyoverthere>>>"
+	"6929"
 	{
-		"chi"		"**地图由Thatguyoverthere制作**"
+		"enable"		"0"
+		"hammerid"		"6929"
+		"m_iname"		"FallingMetal1"
 	}
-	"<<<Map ported by Et3rnity>>>"
+	"6937"
 	{
-		"chi"		"**地图由Et3rnity移植&dy2084翻译**"
+		"enable"		"0"
+		"hammerid"		"6937"
+		"m_iname"		"FallingMetal4"
 	}
-	"***Aux Door Opening In 30 Seconds***"
+	"6945"
 	{
-		"chi"		"**副门在30秒后打开**"
+		"enable"		"0"
+		"hammerid"		"6945"
+		"m_iname"		"FallingMetal3"
 	}
-	"sync_version"
+	"6953"
 	{
-		"syncvalue"		"92124"
+		"enable"		"0"
+		"hammerid"		"6953"
+		"m_iname"		"FallingMetal5"
 	}
-	"***Outdoor Tram Starting in 45 Seconds***"
+	"6961"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6961"
+		"m_iname"		"FallingMetal2"
 	}
-	"***Outdoor Tram Starting in 30 Seconds***"
+	"6969"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6969"
+		"m_iname"		"FallingMetal6"
 	}
-	"***Rocket Lift Leaving In 20 Seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Zombies can now climb on the side of the rocket lift***"
-	{
-		"chi"		"** **"
-	}
-
 }

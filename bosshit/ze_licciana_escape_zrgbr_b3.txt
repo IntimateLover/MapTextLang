@@ -1,67 +1,129 @@
-"Console_T"
+"BOSSHP"
 {
-	"MAP BY GARGANTUA AND EDITED BY FANZACK AND CHUCK FROM ZRAGE"
+	"128972"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"128972"
+		"m_iname"		"wall_bt_zm"
 	}
-	"LEVEL: EASY"
+	"103006"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"103006"
+		"m_iname"		"haru_hitbox"
 	}
-	"+++ THE BOAT IS LEAVING +++"
+	"103011"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"103011"
+		"m_iname"		"haru_body"
 	}
-	"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	"103020"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"103020"
+		"m_iname"		"haru_ass"
 	}
-	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	"103147"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"103147"
+		"m_iname"		"boss_zombie_floor"
 	}
-	"++ ESCAPE LIFT 1 ARRIVED ++"
+	"39649"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"39649"
+		"m_iname"		"break_floor"
 	}
-	"++ LIFT DOOR 1 OPENING UP ++"
+	"39801"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"39801"
+		"m_iname"		"break_floor"
 	}
-	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	"7380"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"7380"
+		"m_iname"		"spawntrapbreak"
 	}
-	"++ ESCAPE LIFT 2 ARRIVED ++"
+	"7524"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"7524"
+		"m_iname"		"roundrock2"
 	}
-	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	"7590"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"7590"
+		"m_iname"		"roundrock2_breakbox"
 	}
-	"++ LIFT DOOR 2 OPENING UP ++"
+	"7709"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"7709"
+		"m_iname"		"roundrock1"
 	}
-	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	"7775"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"7775"
+		"m_iname"		"roundrock1_breakbox"
 	}
-	"+++ YOU LOST +++"
+	"7783"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"7783"
+		"m_iname"		"break_door4"
 	}
-	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	"8032"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8032"
+		"m_iname"		"break_door5"
 	}
-	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	"8040"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8040"
+		"m_iname"		"break_door1"
 	}
-	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	"8093"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8093"
+		"m_iname"		"rock6-breakwood"
+	}
+	"8446"
+	{
+		"enable"		"0"
+		"hammerid"		"8446"
+		"m_iname"		"break_door3"
+	}
+	"8882"
+	{
+		"enable"		"0"
+		"hammerid"		"8882"
+		"m_iname"		"break_floor"
+	}
+	"8898"
+	{
+		"enable"		"0"
+		"hammerid"		"8898"
+		"m_iname"		"break_floor"
+	}
+	"9149"
+	{
+		"enable"		"0"
+		"hammerid"		"9149"
+		"m_iname"		"break_door2"
+	}
+	"103118"
+	{
+		"enable"		"0"
+		"hammerid"		"103118"
+		"m_iname"		"phys_penis"
 	}
 }

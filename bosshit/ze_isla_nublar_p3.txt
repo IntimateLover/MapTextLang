@@ -1,220 +1,309 @@
-"Console_T"
+"BOSSHP"
 {
-	"***CURRENT DIFFICULTY IS NORMAL***"
+	"2421120"
 	{
-		"chi"		"**当前难度 正常 翻译BAKA_Miku **"
+		"enable"		"0"
+		"hammerid"		"2421120"
+		"m_iname"		"trexphys"
 	}
-	"***RESTORE THE POWER!***"
+	"1057812"
 	{
-		"chi"		"**重新启动能源![请不要贴门] **"
+		"enable"		"0"
+		"hammerid"		"1057812"
+		"m_iname"		"trexphys"
 	}
-	"***HOLD THIS POSITION!***"
+	"689316"
 	{
-		"chi"		"**守住这个地方 **"
+		"enable"		"0"
+		"hammerid"		"689316"
+		"m_iname"		"trexwallsmash"
 	}
-	"***POWER RESTORING IN 15 SECONDS***"
+	"1419941"
 	{
-		"chi"		"**能源将在15秒后恢复 **"
+		"enable"		"0"
+		"hammerid"		"1419941"
+		"m_iname"		"beam2"
 	}
-	"***POWER RESTORING IN 10 SECONDS***"
+	"689337"
 	{
-		"chi"		"**能源将在10秒后恢复 **"
+		"enable"		"0"
+		"hammerid"		"689337"
+		"m_iname"		"trexwallsmash"
 	}
-	"***POWER RESTORING IN 5 SECONDS***"
+	"1419904"
 	{
-		"chi"		"**能源将在5秒后恢复 **"
+		"enable"		"0"
+		"hammerid"		"1419904"
+		"m_iname"		"rocktrap1"
 	}
-	"***TELEPORTING ALL TO GENERATOR CATWALK***"
+	"689341"
 	{
-		"chi"		"**僵尸将会传送 **"
+		"enable"		"0"
+		"hammerid"		"689341"
+		"m_iname"		"trexwallsmash"
 	}
-	"***POWER HAS BEEN RESTORED***"
+	"689355"
 	{
-		"chi"		"**能源恢复 **"
+		"enable"		"0"
+		"hammerid"		"689355"
+		"m_iname"		"trexwallsmash"
 	}
-	"***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
+	"689321"
 	{
-		"chi"		"**僵尸被困住了 赶紧跑路吧 **"
+		"enable"		"0"
+		"hammerid"		"689321"
+		"m_iname"		"trexwallsmash"
 	}
-	"***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
+	"1419913"
 	{
-		"chi"		"**门将在60秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"1419913"
+		"m_iname"		"rocktrap1"
 	}
-	"***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
+	"1419919"
 	{
-		"chi"		"**门将在30秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"1419919"
+		"m_iname"		"rocktrap1"
 	}
-	"***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
+	"1419922"
 	{
-		"chi"		"**门将在15秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"1419922"
+		"m_iname"		"rocktrap1"
 	}
-	"***MULDOON'S SHOTGUN HAS BEEN FOUND***"
+	"1419925"
 	{
-		"chi"		"**霰弹枪已被拾起 按'E'来击退僵尸 **"
+		"enable"		"0"
+		"hammerid"		"1419925"
+		"m_iname"		"beam1"
 	}
-	"***GO TO THE CONTROL ROOM***"
+	"1419907"
 	{
-		"chi"		"**进入控制室 **"
+		"enable"		"0"
+		"hammerid"		"1419907"
+		"m_iname"		"rocktrap1"
 	}
-	"***SHOTGUN OUT OF AMMO***"
+	"689325"
 	{
-		"chi"		"**霰弹枪没子弹了 **"
+		"enable"		"0"
+		"hammerid"		"689325"
+		"m_iname"		"trexwallsmash"
 	}
-	"***GET INTO THE TRUCK***"
+	"2112046"
 	{
-		"chi"		"**进入卡车 **"
+		"enable"		"0"
+		"hammerid"		"2112046"
+		"m_iname"		"doorh"
 	}
-	"***GET OUT THE TRUCK AND GO TO THE HATCH***"
+	"1857175"
 	{
-		"chi"		"**离开卡车 进入通道 **"
+		"enable"		"0"
+		"hammerid"		"1857175"
+		"m_iname"		"metalfence"
 	}
-	"***LIFT IS COMING***"
+	"502809"
 	{
-		"chi"		"**电梯正在上升 **"
+		"enable"		"0"
+		"hammerid"		"502809"
+		"m_iname"		"ventbreakable2"
 	}
-	"***HOLD THIS POSTION***"
+	"612917"
 	{
-		"chi"		"**守住这个地方! **"
+		"enable"		"0"
+		"hammerid"		"612917"
+		"m_iname"		"glassround"
 	}
-	"***LIFT IS HERE!***"
+	"673179"
 	{
-		"chi"		"**电梯已到达 **"
+		"enable"		"0"
+		"hammerid"		"673179"
+		"m_iname"		"ventbreakable3"
 	}
-	"***FALL BACK***"
+	"673196"
 	{
-		"chi"		"**撤退!!! **"
+		"enable"		"0"
+		"hammerid"		"673196"
+		"m_iname"		"differcultie/hard/extreme gate"
 	}
-	"***DOOR WILL OPEN IN 20 SECONDS***"
+	"474108"
 	{
-		"chi"		"**门将在20秒后打开 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"474108"
+		"m_iname"		"ventbreakable1"
 	}
-	"***DOOR WILL OPEN IN 10 SECONDS***"
+	"423317"
 	{
-		"chi"		"**门将在10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"423317"
+		"m_iname"		"secretblockerwood"
 	}
-	"***FALL BACK!!!***"
+	"351476"
 	{
-		"chi"		"**撤退! **"
+		"enable"		"0"
+		"hammerid"		"351476"
+		"m_iname"		"fencebreakable"
 	}
-	"***CT WIN!***"
+	"1009806"
 	{
-		"chi"		"**人类胜利 **"
+		"enable"		"0"
+		"hammerid"		"1009806"
+		"m_iname"		"glasswindow01"
 	}
-	"***MOVING ON TO HARD MODE***"
+	"1419901"
 	{
-		"chi"		"**下一关难度等级 困难 **"
+		"enable"		"0"
+		"hammerid"		"1419901"
+		"m_iname"		"trapfloor1"
 	}
-	"***CURRENT DIFFICULTY IS HARD***"
+	"1419910"
 	{
-		"chi"		"**当前难度 困难 **"
+		"enable"		"0"
+		"hammerid"		"1419910"
+		"m_iname"		"trapfloor2"
 	}
-	"***USE GENERATOR TO ENABLE POWER TO BUTTON***"
+	"1419916"
 	{
-		"chi"		"**打开发电机的开关 **"
+		"enable"		"0"
+		"hammerid"		"1419916"
+		"m_iname"		"trapfloor3"
 	}
-	"***THE BUTTON WILL CLOSE THE GATES***"
+	"1419934"
 	{
-		"chi"		"**门将关闭 **"
+		"enable"		"0"
+		"hammerid"		"1419934"
+		"m_iname"		"zombieladderscover"
 	}
-	"***GO GO PLANT THE C4***"
+	"1420009"
 	{
-		"chi"		"**去安放c4[对着集装箱按E] **"
+		"enable"		"1"
+		"hammerid"		"1420009"
+		"m_iname"		"fallingshit1"
 	}
-	"***ON THE DOOR TO THE CONTAINER***"
+	"1420012"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"1420012"
+		"m_iname"		"fallingshit2"
 	}
-	"***PRESS USE ON THE CONTAINER DOOR***"
+	"1420015"
 	{
-		"chi"		"**记得拿汽油桶!!!! **"
+		"enable"		"1"
+		"hammerid"		"1420015"
+		"m_iname"		"fallingshit3"
 	}
-	"***GAS CANS HAVE BEEN COLLECTED***"
+	"1420021"
 	{
-		"chi"		"**汽油桶已被拾起 **"
+		"enable"		"1"
+		"hammerid"		"1420021"
+		"m_iname"		"fallingshit3"
 	}
-	"***RUN BACK TO THE BOAT***"
+	"1420024"
 	{
-		"chi"		"**跑回快艇上 **"
+		"enable"		"1"
+		"hammerid"		"1420024"
+		"m_iname"		"fallingshit2"
 	}
-	"***BOAT REFUELING***"
+	"1420027"
 	{
-		"chi"		"**正在给快艇添加燃料 **"
+		"enable"		"1"
+		"hammerid"		"1420027"
+		"m_iname"		"fallingshit3"
 	}
-	"***MOVING ON TO EXTREME MODE***"
+	"1080770"
 	{
-		"chi"		"**下一关难度等级 极限 **"
+		"enable"		"0"
+		"hammerid"		"1080770"
+		"m_iname"		"mainblocker"
 	}
-	"***CURRENT DIFFICULTY IS EXTREME***"
+	"502214"
 	{
-		"chi"		"**当前难度 极限 **"
+		"enable"		"0"
+		"hammerid"		"502214"
+		"m_iname"		"ladderstopper"
 	}
-	"***LOOK OUT!!! ITS A T-REX***"
+	"1009792"
 	{
-		"chi"		"**快看!它是T-REX **"
+		"enable"		"0"
+		"hammerid"		"1009792"
+		"m_iname"		"glasswindow01"
 	}
-	"***KILL IT!***"
+	"976452"
 	{
-		"chi"		"**杀死他 **"
+		"enable"		"0"
+		"hammerid"		"976452"
+		"m_iname"		"truckextremepathbreak"
 	}
-	"***FOLLOW THE ELECTRIC PATH***"
+	"946028"
 	{
-		"chi"		"**跟随电力轨道前进 **"
+		"enable"		"0"
+		"hammerid"		"946028"
+		"m_iname"		"holdthispostion"
 	}
-	"***CLIMB THE ROCKS!***"
+	"844886"
 	{
-		"chi"		"**爬上岩石 **"
+		"enable"		"0"
+		"hammerid"		"844886"
+		"m_iname"		"boatplank"
 	}
-	"***GROUND DOORS WILL OPEN IN 15 SECONDS***"
+	"716733"
 	{
-		"chi"		"**地面大门将在15秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"716733"
+		"m_iname"		"trexbattleblocker01"
 	}
-	"***GROUND DOORS WILL OPEN IN 10 SECONDS***"
+	"681788"
 	{
-		"chi"		"**地面大门将在10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"681788"
+		"m_iname"		"topblockerclip"
 	}
-	"***GROUND DOORS WILL OPEN IN 5 SECONDS***"
+	"921954"
 	{
-		"chi"		"**地面大门将在5秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"921954"
+		"m_iname"		"containerdoor"
 	}
-	"***GROUND DOORS ARE OPEN***"
+	"953593"
 	{
-		"chi"		"**地面大门已打开 **"
+		"enable"		"0"
+		"hammerid"		"953593"
+		"m_iname"		"visoutsidehardmod"
 	}
-	"***ITS FALLING DOWN!!!***"
+	"681759"
 	{
-		"chi"		"**跳进去!!! **"
+		"enable"		"0"
+		"hammerid"		"681759"
+		"m_iname"		"topboxblocker"
 	}
-	"***HOLD THE DOOR UNTIL IT OPENS!***"
+	"706622"
 	{
-		"chi"		"**防御!直到大门打开 **"
+		"enable"		"0"
+		"hammerid"		"706622"
+		"m_iname"		"planksct"
 	}
-	"***YOU WON!!!!***"
+	"1945305"
 	{
-		"chi"		"**你赢了! **"
+		"enable"		"0"
+		"hammerid"		"1945305"
+		"m_iname"		"shortcutnormal1"
 	}
-	"***YOU WON!!!***"
+	"1952761"
 	{
-		"chi"		"**你赢了! **"
+		"enable"		"0"
+		"hammerid"		"1952761"
+		"m_iname"		"shortcutstairs"
 	}
-	"***THANKS FOR PLAYING : )***"
+	"121537"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"121537"
+		"m_iname"		"holddoor01"
 	}
-	"***MAP RESET***"
+	"673219"
 	{
-		"chi"		"**地图重置 **"
-	}
-	"***ZOMBIE DETECTED***"
-	{
-		"chi"		"**已检测到僵尸 **"
-	}
-	"***MULDOONS SHOTGUN HAS BEEN FOUND***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"673219"
+		"m_iname"		"differcultie normal gate"
 	}
 }

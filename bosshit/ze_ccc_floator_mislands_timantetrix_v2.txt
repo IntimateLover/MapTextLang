@@ -1,107 +1,147 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** ATTENTION Silo Doors Open in 1 Minutes ***"
+	"210932"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"210932"
+		"m_iname"		"train_breakable"
 	}
-	"*** Bridge Activated ***"
+	"211741"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211741"
+		"m_iname"		"stonebridge_1"
 	}
-	"*** ATTENTION Silo Doors Open in 30 Seconds***"
+	"211744"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211744"
+		"m_iname"		"stonebridge_2"
 	}
-	"*** ATTENTION Silo Doors Opening***"
+	"211747"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211747"
+		"m_iname"		"stonebridge_3"
 	}
-	"***Teleporter will be fully charged in 20secs!***"
+	"211750"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211750"
+		"m_iname"		"stonebridge_4"
 	}
-	"***Teleporter ERROR!***"
+	"211753"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211753"
+		"m_iname"		"stonebridge_5"
 	}
-	"* * * Hold this door untill Steve does something * * *"
+	"211756"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211756"
+		"m_iname"		"stonebridge_6"
 	}
-	"* * * Hold this position for 30 seconds * * *"
+	"211759"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211759"
+		"m_iname"		"stonebridge_7"
 	}
-	"* * * 10 seconds left * * *"
+	"211762"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211762"
+		"m_iname"		"stonebridge_8"
 	}
-	"**Stay in the circle! Zombies cant go in!**"
+	"211765"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211765"
+		"m_iname"		"stonebridge_9"
 	}
-	"** ... **"
+	"211768"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211768"
+		"m_iname"		"stonebridge_10"
 	}
-	"** Moria is unstable! Run towards the stairs in  **"
+	"211771"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211771"
+		"m_iname"		"stonebridge_11"
 	}
-	"**5**"
+	"211774"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211774"
+		"m_iname"		"stonebridge_12"
 	}
-	"**4**"
+	"211777"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211777"
+		"m_iname"		"stonebridge_13"
 	}
-	"**3**"
+	"211874"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211874"
+		"m_iname"		"stonebridge_14"
 	}
-	"**2**"
+	"211997"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"211997"
+		"m_iname"		"Catwalk_1"
 	}
-	"**1**"
+	"212177"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"212177"
+		"m_iname"		"stonebridge_15"
 	}
-	"**Go!**"
+	"212187"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"212187"
+		"m_iname"		"stonebridge_16"
 	}
-	"***boat leaves in 8 seconds***"
+	"212197"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"212197"
+		"m_iname"		"stonebridge_17"
 	}
-	"*** boat has taken off***"
+	"212207"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"212207"
+		"m_iname"		"stonebridge_18"
 	}
-	"** C4 planted! **"
+	"206157"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"206157"
+		"m_iname"		"puentet1"
 	}
-	"** Antenna activated. Searching for master satellite... **"
+	"207450"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"207450"
+		"m_iname"		"mako_wait_break"
 	}
-	"** Master satellite connected. Nuke launched.**"
+	"207541"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"207541"
+		"m_iname"		"mako_wait_break"
 	}
-	"** DEFEND THIS PLACE FOR 60 SECONDS! **"
+	"125032"
 	{
-		"chi"		"** **"
-	}
-	"**Balrog coming to TEMPLE ROOFS in 15s**"
-	{
-		"chi"		"** **"
-	}
-	"** DOORS UNLOCKED ** RETREAT ! **"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"125032"
+		"m_iname"		"cyber_cyberspace_exit_breakable"
 	}
 }

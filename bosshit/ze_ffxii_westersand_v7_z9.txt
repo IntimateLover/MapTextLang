@@ -1,317 +1,429 @@
-"Console_T"
+"BOSSHP"
 {
-	"** MAP BY SLAYERDRAGON **"
+	"2290927"
 	{
-		"chi"		"**作者：SLAYERDRAGON**"
+		"enable"		"0"
+		"hammerid"		"2290927"
+		"m_iname"		"Cloak_Armor_Vaan"
 	}
-	"[NORMAL MODE]"
+	"2290947"
 	{
-		"chi"		"**普通难度[NORMAL]**"
+		"enable"		"0"
+		"hammerid"		"2290947"
+		"m_iname"		"Cloak_Armor_Balthier"
 	}
-	"** Defend untill the guards open the airport. **"
+	"2290967"
 	{
-	
-		"chi"		"**坚守至守卫将机场开放**"
+		"enable"		"0"
+		"hammerid"		"2290967"
+		"m_iname"		"Cloak_Armor_Basch"
 	}
-	"** Airport opened. **"
+	"2101788"
 	{
-		"chi"		"**机场开放**"
+		"enable"		"0"
+		"hammerid"		"2101788"
+		"m_iname"		"Cloak_Armor_Ashe"
 	}
-	"** Defend 25 seconds untill the guards open the hallway. **"
+	"1693205"
 	{
-		"chi"		"**防守25秒，直到守卫开放道路**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"1693205"
+		"m_iname"		"Ehe_Dragon_Break"
 	}
-	"** A player has learned Wind magick. **"
+	"1658582"
 	{
-		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
+		"enable"		"1"
+		"hammerid"		"1658582"
+		"m_iname"		"Boss_Break"
 	}
-	"** 5 Seconds left **"
+	"882094"
 	{
-		"chi"		"**还剩5秒**"
+		"enable"		"0"
+		"hammerid"		"882094"
+		"m_iname"		"Staff_Wind_Fix"
 	}
-	"** Defend here so the guards will open the gates to the city! **"
+	"70046"
 	{
-		"chi"		"**守住这里，直到守卫开放前往城市的道路**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"70046"
+		"m_iname"		"Store_Breakable"
 	}
-	"** Cover here till the rock explodes **"
+	"70057"
 	{
-		"chi"		"**守住25秒-直到石头爆炸**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"70057"
+		"m_iname"		"Store_Breakable"
 	}
-	"** The elevator will leave in 20 seconds **"
+	"70072"
 	{
-		"chi"		"**电梯将在20秒后离开!**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"70072"
+		"m_iname"		"Store_Breakable"
 	}
-	"** The elevator will leave in 5 seconds **"
+	"70075"
 	{
-		"chi"		"**电梯将在5秒后离开!**"
+		"enable"		"0"
+		"hammerid"		"70075"
+		"m_iname"		"Store_Breakable"
 	}
-	"** The first door will open in 10 seconds **"
+	"274137"
 	{
-		"chi"		"**第一道门将在10秒后打开**"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"274137"
+		"m_iname"		"ZE_God_Glass_1"
 	}
-	"** The second door will open in 15 seconds **"
+	"293783"
 	{
-		"chi"		"**第二道门将在15秒后打开**"
+		"enable"		"0"
+		"hammerid"		"293783"
+		"m_iname"		"ZE_God_Glass_2"
 	}
-	"** A player has learned Heal magick. **"
+	"404367"
 	{
-		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"404367"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** Keep defending!! **"
+	"404372"
 	{
-		"chi"		"**继续防守！！！**"
+		"enable"		"0"
+		"hammerid"		"404372"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** Nades do more damage **"
+	"404377"
 	{
-		"chi"		"**手雷可以造成大量伤害**"
+		"enable"		"0"
+		"hammerid"		"404377"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** METEOR INBOUND **"
+	"404382"
 	{
-		"chi"		"**陨石将至**"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"404382"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** USE ELECTRO TO  BREAK IT **"
+	"404387"
 	{
-		"chi"		"**使用闪电击碎陨石，或向两侧躲避**"
+		"enable"		"0"
+		"hammerid"		"404387"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** The dragon has been defeated **"
+	"404407"
 	{
-		"chi"		"**龙已经被打败了**"
+		"enable"		"0"
+		"hammerid"		"404407"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** Cover 10 seconds till the rock explodes **"
+	"404424"
 	{
-		"chi"		"**防守10秒直到石头炸开**"
+		"enable"		"0"
+		"hammerid"		"404424"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** Go to the end of the road! **"
+	"404429"
 	{
-		"chi"		"**向路的尽头前进**"
+		"enable"		"0"
+		"hammerid"		"404429"
+		"m_iname"		"lvl_extreme_break_glass_road"
 	}
-	"** 50 SECS REMAINING **"
+	"622494"
 	{
-		"chi"		"**还有50秒**"
+		"enable"		"0"
+		"hammerid"		"622494"
+		"m_iname"		"CY01Physic"
 	}
-	"** Congratulations - You won [NORMAL] **"
+	"698604"
 	{
-		"chi"		"**恭喜：你已经征服普通难度**"
-		"command"		"sm_aei_hammerid 257307 use"
+		"enable"		"0"
+		"hammerid"		"698604"
+		"m_iname"		"Door_6_Breakable"
 	}
-	"[HARD MODE]"
+	"698658"
 	{
-		"chi"		"**困难难度[HARD]**"
+		"enable"		"0"
+		"hammerid"		"698658"
+		"m_iname"		"Door_5_Breakable"
 	}
-	"** A player has learned Holy magick. **"
+	"698727"
 	{
-		"chi"		"**一位玩家捡起了神圣权杖（尘归尘，土归土）**"
+		"enable"		"0"
+		"hammerid"		"698727"
+		"m_iname"		"Door_4_Breakable"
 	}
-	"** A player has learned Earth magick. **"
+	"1104515"
 	{
-		"chi"		"**一位玩家捡起了大地权杖（向前方释放一层岩石用以防御）**"
+		"enable"		"0"
+		"hammerid"		"1104515"
+		"m_iname"		"Airport_Vent"
 	}
-	"** Cover 20 seconds till the rock explodes **"
+	"1115760"
 	{
-		"chi"		"**防守20秒直到石头爆炸**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"1115760"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** A player has learned Fire magick. **"
+	"1115783"
 	{
-		"chi"		"**一位玩家捡起了烈焰权杖（所到之处，寸草不生）**"
+		"enable"		"0"
+		"hammerid"		"1115783"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** A player has learned Water magick. **"
+	"1115791"
 	{
-		"chi"		"**一名玩家捡起了水花权杖**"
+		"enable"		"0"
+		"hammerid"		"1115791"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** FIRE NOVA INBOUND **"
+	"1115798"
 	{
-		"chi"		"**大火来袭**"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"1115798"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** USE WATER TO DODGE IT  **"
+	"1116368"
 	{
-		"chi"		"**使用水来解决或用奶来抵抗**"
+		"enable"		"0"
+		"hammerid"		"1116368"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** Congratulations - You won [HARD] **"
+	"1116398"
 	{
-		"chi"		"**恭喜：你已经征服了困难难度**"
+		"enable"		"0"
+		"hammerid"		"1116398"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"[EXTREME MODE]"
+	"1116414"
 	{
-		"chi"		"**极限难度[EXTREME]**"
+		"enable"		"0"
+		"hammerid"		"1116414"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** Cover 30 seconds till the rock explodes **"
+	"1116422"
 	{
-		"chi"		"**防守30秒直到石头爆炸**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"1116422"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** 70 SECS REMAINING **"
+	"1117417"
 	{
-		"chi"		"**还有70秒**"
+		"enable"		"0"
+		"hammerid"		"1117417"
+		"m_iname"		"ZE_God_City_Breakable"
 	}
-	"** 40 SECS REMAINING **"
+	"1117631"
 	{
-		"chi"		"**还有40秒**"
+		"enable"		"0"
+		"hammerid"		"1117631"
+		"m_iname"		"ZE_God_City_Breakable2"
 	}
-	"** 30 SECS REMAINING **"
+	"1215032"
 	{
-		"chi"		"**还有30秒**"
+		"enable"		"0"
+		"hammerid"		"1215032"
+		"m_iname"		"ZE_God_Lavaglass_1"
 	}
-	"** 20 SECS REMAINING **"
+	"1215069"
 	{
-		"chi"		"**还有20秒**"
+		"enable"		"0"
+		"hammerid"		"1215069"
+		"m_iname"		"ZE_God_Lavaglass_2"
 	}
-	"** 10 SECS REMAINING **"
+	"1217987"
 	{
-		"chi"		"**还有10秒**"
+		"enable"		"0"
+		"hammerid"		"1217987"
+		"m_iname"		"Has_Ceiling"
 	}
-	"** 5 SECS REMAINING **"
+	"1241319"
 	{
-		"chi"		"**还有5秒**"
+		"enable"		"0"
+		"hammerid"		"1241319"
+		"m_iname"		"ZE_Hold_2_Breakable"
 	}
-	"** 60 SECS REMAINING **"
+	"1242603"
 	{
-		"chi"		"**还有60秒**"
+		"enable"		"0"
+		"hammerid"		"1242603"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds."
+	"1242611"
 	{
-		"chi"		"**已选择极限关卡 5秒后重新开始**"
+		"enable"		"0"
+		"hammerid"		"1242611"
+		"m_iname"		"ZE_God_Breakable"
 	}
-	"** Congratulations - You won [EXTREME] **"
+	"1449090"
 	{
-		"chi"		"**恭喜：你已经征服了极限难度[EXTREME]**"
+		"enable"		"0"
+		"hammerid"		"1449090"
+		"m_iname"		"DesertHall_Vents"
 	}
-	"[EPIC MODE]"
+	"2064280"
 	{
-		"chi"		"**史诗难度[EPIC]**"
+		"enable"		"1"
+		"hammerid"		"2064280"
+		"m_iname"		"Guard_1_Physbox"
 	}
-	"** Teleporter will be ready in 20 seconds! **"
+	"1324452"
 	{
-		"chi"		"**20秒后开启传送**"
-		"DoorCountDown"		"20"
+		"enable"		"1"
+		"hammerid"		"1324452"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Teleporter will be ready in 5 seconds! **"
+	"1324461"
 	{
-		"chi"		"**5秒后开启传送**"
+		"enable"		"1"
+		"hammerid"		"1324461"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Door will open in 5 seconds **"
+	"1324470"
 	{
-		"chi"		"**大门五秒后开启**"
+		"enable"		"1"
+		"hammerid"		"1324470"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Second door will open in 10 seconds **"
+	"1324473"
 	{
-		"chi"		"**第二道门10秒后开启**"
+		"enable"		"1"
+		"hammerid"		"1324473"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Hold 10 more seconds!! **"
+	"1324719"
 	{
-		"chi"		"**坚守10秒等待大门关闭**"
+		"enable"		"1"
+		"hammerid"		"1324719"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** The guardians are dead!! Run back to the entrance!! **"
+	"1324722"
 	{
-		"chi"		"**守护者已被击败从入口处返回**"
+		"enable"		"1"
+		"hammerid"		"1324722"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** The healer is down!! **"
+	"1324725"
 	{
-		"chi"		"**医疗卫兵已倒下**"
+		"enable"		"1"
+		"hammerid"		"1324725"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** The battlemage is down!! **"
+	"1324728"
 	{
-		"chi"		"**战斗法师已倒下**"
+		"enable"		"1"
+		"hammerid"		"1324728"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** ZM JAIL OPEN **"
+	"1324731"
 	{
-		"chi"		"**僵尸出笼！！！**"
+		"enable"		"1"
+		"hammerid"		"1324731"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Defend here for 30 seconds **"
+	"1324734"
 	{
-		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+		"enable"		"1"
+		"hammerid"		"1324734"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** The airship reactors are going to explode!! **"
+	"1324737"
 	{
-		"chi"		"**空艇的反应堆即将爆炸**"
+		"enable"		"1"
+		"hammerid"		"1324737"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	"1324740"
 	{
-		"chi"		"**轮回王开启了死墙，你们要加油！！**"
+		"enable"		"1"
+		"hammerid"		"1324740"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Chaos has been defeated - RUN !!!!! **"
+	"1324743"
 	{
-		"chi"		"**你们已经击败轮回王！—跑！！！**"
+		"enable"		"1"
+		"hammerid"		"1324743"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"** Congratulations - You won [EPIC] **"
+	"1324746"
 	{
-		"chi"		"**恭喜：你已经征服了史诗难度**"
+		"enable"		"1"
+		"hammerid"		"1324746"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
-	"[GOD MODE]"
+	"896682"
 	{
-		"chi"		"**上帝难度[GOD]**"
+		"enable"		"0"
+		"hammerid"		"896682"
+		"m_iname"		"Ehe_Guardian_Nade"
 	}
-	"** 5 more seconds **"
+	"2064274"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2064274"
+		"m_iname"		"Ehe_Guard_Break"
 	}
-	"** A player has learned Electro magick. **"
+	"2101463"
 	{
-		"chi"		"**一位玩家捡起了雷电权杖（雷电将会制裁它们）**"
+		"enable"		"0"
+		"hammerid"		"2101463"
+		"m_iname"		"Guard_1_Physbox_Nade"
 	}
-	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	"558759"
 	{
-		"chi"		"**已选择天神难度，5秒后重新开始**"
+		"enable"		"0"
+		"hammerid"		"558759"
+		"m_iname"		"Airship_Ending_Boss_Physbox"
 	}
-	"sync_version"
+	"641305"
 	{
-		"syncvalue"		"6958"
+		"enable"		"0"
+		"hammerid"		"641305"
+		"m_iname"		"Guard_3_Physbox"
 	}
-	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	"641272"
 	{
-		"chi"		"**已选择史诗难度，5秒后重新开始**"
+		"enable"		"0"
+		"hammerid"		"641272"
+		"m_iname"		"Guard_2_Physbox"
 	}
-	"** Zombies Have Escaped **"
+	"670929"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"670929"
+		"m_iname"		"Airship_Glassdoor2"
 	}
-	"** The dragon has been defeated! GOGOGO **"
+	"670935"
 	{
-		"chi"		"**巨龙已死，逃离这个地方**"
+		"enable"		"0"
+		"hammerid"		"670935"
+		"m_iname"		"Airship_Glassdoor2"
 	}
-	"[3 WINS IN A ROW] Easteregg unlocked!"
+	"740120"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"740120"
+		"m_iname"		"Airship_Ending_Plate_Break"
 	}
-	"** Congratulations - You won [GODMODE] **"
+	"1447433"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1447433"
+		"m_iname"		"Airship_Vent1"
 	}
-	"[ZOMBIE MODE]"
+	"1447469"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1447469"
+		"m_iname"		"Airship_Vent2"
 	}
-	"** NUKE IN 80 SECONDS **"
+	"1449914"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1449914"
+		"m_iname"		"Airship_Vent1_x"
 	}
-	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	"1449973"
 	{
-		"chi"		"** **"
-	}
-	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
-	{
-		"chi"		"** **"
-	}
-	"** ZOMBIES RELEASED IN 2 SECS **"
-	{
-		"chi"		"** **"
-	}
-	"** NUKE IN 20 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"[WINNER] Selected [EXTREME MODE] for next round"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1449973"
+		"m_iname"		"Airship_Vent2_x"
 	}
 }

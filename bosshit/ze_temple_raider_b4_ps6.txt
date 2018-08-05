@@ -1,195 +1,807 @@
-"Console_T"
+"BOSSHP"
 {
-	"** ZE TEMPLE RAIDER **"
+	"1325046"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"1325046"
+		"m_iname"		"S_Boss_Box"
 	}
-	"** MAP BY SLAYERDRAGON **"
+	"2254713"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2254713"
+		"m_iname"		"Block_Zm_Before_Cavern_1"
 	}
-	"The world is falling apart!"
+	"2254721"
 	{
-		"chi"		"**这个世界正在崩坏**"
+		"enable"		"0"
+		"hammerid"		"2254721"
+		"m_iname"		"Block_Zm_Before_Cavern_5"
 	}
-	"Fight your way to the temple and escape!"
+	"2254725"
 	{
-		"chi"		"**摧毁神庙然后逃离**"
+		"enable"		"0"
+		"hammerid"		"2254725"
+		"m_iname"		"Block_Zm_Before_Cavern_4"
 	}
-	"Warmup Round - 10 sec"
+	"2254733"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2254733"
+		"m_iname"		"Block_Zm_Before_Cavern_3"
 	}
-	"** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **"
+	"2254737"
 	{
-		"chi"		"**守住这个地方直到门开启**"
+		"enable"		"0"
+		"hammerid"		"2254737"
+		"m_iname"		"Block_Zm_Before_Cavern_7"
 	}
-	"Hold 30 sec"
+	"2254746"
 	{
-		"chi"		"**防守25秒**"
+		"enable"		"0"
+		"hammerid"		"2254746"
+		"m_iname"		"Block_Zm_Before_Cavern_6"
 	}
-	"Warmup Round - End"
+	"2254750"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2254750"
+		"m_iname"		"Block_Zm_Before_Cavern_9"
 	}
-	"Hold 5 sec"
+	"2254755"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2254755"
+		"m_iname"		"Block_Zm_Before_Cavern_8"
 	}
-	"Hold 25 sec"
+	"1125930"
 	{
-		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"1125930"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** HEALTH KIT ACQUIRED - 50s cooldown **"
+	"1125934"
 	{
-		"chi"		"**治疗被拾取-五十秒冷却**"
+		"enable"		"0"
+		"hammerid"		"1125934"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Hold 15 sec"
+	"1125938"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"1125938"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** Health Kit Ready!!! **"
+	"1125942"
 	{
-		"chi"		"**治疗冷却完毕**"
+		"enable"		"0"
+		"hammerid"		"1125942"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** SHOOT THE CRATES TO OPEN A WAY **"
+	"1125946"
 	{
-		"chi"		"**射击箱子直到着火**"
+		"enable"		"0"
+		"hammerid"		"1125946"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** HOLD THE TEMPLE ENTRANCE **"
+	"1125950"
 	{
-		"chi"		"**守住这个神庙入口**"
+		"enable"		"0"
+		"hammerid"		"1125950"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** DOOR OPENS IN 5 SEC **"
+	"1125954"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1125954"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Hold 10 sec"
+	"1125958"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1125958"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Hold 20 sec"
+	"1125962"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1125962"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** FALL BACK **"
+	"1125966"
 	{
-		"chi"		"**撤退**"
+		"enable"		"0"
+		"hammerid"		"1125966"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Prepare to fight !"
+	"1125970"
 	{
-		"chi"		"**准备战斗**"
+		"enable"		"0"
+		"hammerid"		"1125970"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** THE DRAGON IS CHARGING FOR A SUPERATTACK **"
+	"1125974"
 	{
-		"chi"		"**龙在为超级攻击充能**"
+		"enable"		"0"
+		"hammerid"		"1125974"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** USE THE CATAPULTS ON BOTH SIDES TO STAGGER HIM **"
+	"1125978"
 	{
-		"chi"		"**使用两边弩箭使他趔趄**"
+		"enable"		"0"
+		"hammerid"		"1125978"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** THE DRAGON IS CHARGING FOR HIS FINAL ATTACK **"
+	"1125982"
 	{
-		"chi"		"**龙在为最终攻击充能**"
+		"enable"		"0"
+		"hammerid"		"1125982"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Hold 32 sec"
+	"1125986"
 	{
-		"chi"		"**防守32秒**"
-		"DoorCountDown"		"32"
+		"enable"		"0"
+		"hammerid"		"1125986"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** WE FOUND THE TREASURE ROOM! **"
+	"1125992"
 	{
-		"chi"		"**我们找到了宝藏放假**"
+		"enable"		"0"
+		"hammerid"		"1125992"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** HOLD HERE TILL THE DOOR OPENS **"
+	"1126002"
 	{
-		"chi"		"**守住这个地方直到门开**"
+		"enable"		"0"
+		"hammerid"		"1126002"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Hold 17 sec"
+	"1126006"
 	{
-		"chi"		"**防守17秒**"
-		"DoorCountDown"		"17"
+		"enable"		"0"
+		"hammerid"		"1126006"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** END OF THE LINE - HOLD THE TOP **"
+	"1147369"
 	{
-		"chi"		"**抵达终点了，撑住**"
+		"enable"		"0"
+		"hammerid"		"1147369"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** ESCAPE VIA THE ROPES! **"
+	"1147373"
 	{
-		"chi"		"**用绳索滑下去**"
+		"enable"		"0"
+		"hammerid"		"1147373"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** KEEP DEFENDING TILL WE FIND A WAY OUT **"
+	"1147377"
 	{
-		"chi"		"**保持防守直到我们找到出路**"
+		"enable"		"0"
+		"hammerid"		"1147377"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** RUN !! THE TUNNEL IS COLLAPSING !! **"
+	"1147381"
 	{
-		"chi"		"**跑！这个隧道要崩溃了**"
+		"enable"		"0"
+		"hammerid"		"1147381"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
+	"1147385"
 	{
-		"chi"		"**防守到最后的大门开启**"
+		"enable"		"0"
+		"hammerid"		"1147385"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** KEEP DEFENDING TILL THE LAST GATE OPENS **"
+	"1147393"
 	{
-		"chi"		"**继续防守到最后的大门开启***"
+		"enable"		"0"
+		"hammerid"		"1147393"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** THIS IS THE END - DEFEND TILL WE SECURED THIS POSITION! **"
+	"1147397"
 	{
-		"chi"		"**这就是终点了，守住我们这个位置**"
+		"enable"		"0"
+		"hammerid"		"1147397"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** DESTROY THE INVADERS - unlimited ammo enabled **"
+	"1147423"
 	{
-		"chi"		"**摧毁入侵者-无限子弹开启**"
+		"enable"		"0"
+		"hammerid"		"1147423"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** SHIP ESCAPED **"
+	"1147427"
 	{
-		"chi"		"**飞船逃离**"
+		"enable"		"0"
+		"hammerid"		"1147427"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** Zombies Have Escaped **"
+	"1147431"
 	{
-		"chi"		"**僵尸胜利**"
+		"enable"		"0"
+		"hammerid"		"1147431"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
+	"1147435"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1147435"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"Bomb exploding in 100 sec"
+	"1147439"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1147439"
+		"m_iname"		"Fuking_Building_To_Cut_1"
 	}
-	"** GET THERE BEFORE IT DETONATES! **"
+	"1180134"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180134"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"Bomb exploding in 60 sec"
+	"1180137"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180137"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"Bomb exploding in 30 sec"
+	"1180142"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180142"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"Bomb exploding in 10 sec"
+	"1180215"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180215"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"** HURRY UP!!! **"
+	"1180217"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180217"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"KABOOOM"
+	"1180221"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180221"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"sync_version"
+	"1180225"
 	{
-		"syncvalue"		"4006"
+		"enable"		"0"
+		"hammerid"		"1180225"
+		"m_iname"		"Fuking_Building_To_Cut_2"
 	}
-	"** DOOR OPENS IN 5 SECONDS **"
+	"1180229"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1180229"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180234"
+	{
+		"enable"		"0"
+		"hammerid"		"1180234"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180237"
+	{
+		"enable"		"0"
+		"hammerid"		"1180237"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180242"
+	{
+		"enable"		"0"
+		"hammerid"		"1180242"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180246"
+	{
+		"enable"		"0"
+		"hammerid"		"1180246"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180256"
+	{
+		"enable"		"0"
+		"hammerid"		"1180256"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180262"
+	{
+		"enable"		"0"
+		"hammerid"		"1180262"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180272"
+	{
+		"enable"		"0"
+		"hammerid"		"1180272"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180282"
+	{
+		"enable"		"0"
+		"hammerid"		"1180282"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180297"
+	{
+		"enable"		"0"
+		"hammerid"		"1180297"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180303"
+	{
+		"enable"		"0"
+		"hammerid"		"1180303"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180308"
+	{
+		"enable"		"0"
+		"hammerid"		"1180308"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180339"
+	{
+		"enable"		"0"
+		"hammerid"		"1180339"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1180343"
+	{
+		"enable"		"0"
+		"hammerid"		"1180343"
+		"m_iname"		"Fuking_Building_To_Cut_2"
+	}
+	"1202806"
+	{
+		"enable"		"0"
+		"hammerid"		"1202806"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202810"
+	{
+		"enable"		"0"
+		"hammerid"		"1202810"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202814"
+	{
+		"enable"		"0"
+		"hammerid"		"1202814"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202818"
+	{
+		"enable"		"0"
+		"hammerid"		"1202818"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202948"
+	{
+		"enable"		"0"
+		"hammerid"		"1202948"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202953"
+	{
+		"enable"		"0"
+		"hammerid"		"1202953"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202957"
+	{
+		"enable"		"0"
+		"hammerid"		"1202957"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202961"
+	{
+		"enable"		"0"
+		"hammerid"		"1202961"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202965"
+	{
+		"enable"		"0"
+		"hammerid"		"1202965"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202969"
+	{
+		"enable"		"0"
+		"hammerid"		"1202969"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202973"
+	{
+		"enable"		"0"
+		"hammerid"		"1202973"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202977"
+	{
+		"enable"		"0"
+		"hammerid"		"1202977"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202981"
+	{
+		"enable"		"0"
+		"hammerid"		"1202981"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202985"
+	{
+		"enable"		"0"
+		"hammerid"		"1202985"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202989"
+	{
+		"enable"		"0"
+		"hammerid"		"1202989"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202993"
+	{
+		"enable"		"0"
+		"hammerid"		"1202993"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1202998"
+	{
+		"enable"		"0"
+		"hammerid"		"1202998"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1203002"
+	{
+		"enable"		"0"
+		"hammerid"		"1203002"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1203006"
+	{
+		"enable"		"0"
+		"hammerid"		"1203006"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1203175"
+	{
+		"enable"		"0"
+		"hammerid"		"1203175"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1222633"
+	{
+		"enable"		"0"
+		"hammerid"		"1222633"
+		"m_iname"		"Fuking_Building_To_Cut_1_Bullsh"
+	}
+	"1222737"
+	{
+		"enable"		"0"
+		"hammerid"		"1222737"
+		"m_iname"		"Fuking_Building_To_Cut_1_Bullsh"
+	}
+	"1249623"
+	{
+		"enable"		"0"
+		"hammerid"		"1249623"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1249628"
+	{
+		"enable"		"0"
+		"hammerid"		"1249628"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1249633"
+	{
+		"enable"		"0"
+		"hammerid"		"1249633"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1249638"
+	{
+		"enable"		"0"
+		"hammerid"		"1249638"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250607"
+	{
+		"enable"		"0"
+		"hammerid"		"1250607"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250615"
+	{
+		"enable"		"0"
+		"hammerid"		"1250615"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250622"
+	{
+		"enable"		"0"
+		"hammerid"		"1250622"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250628"
+	{
+		"enable"		"0"
+		"hammerid"		"1250628"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250634"
+	{
+		"enable"		"0"
+		"hammerid"		"1250634"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250647"
+	{
+		"enable"		"0"
+		"hammerid"		"1250647"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250651"
+	{
+		"enable"		"0"
+		"hammerid"		"1250651"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250659"
+	{
+		"enable"		"0"
+		"hammerid"		"1250659"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250667"
+	{
+		"enable"		"0"
+		"hammerid"		"1250667"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250670"
+	{
+		"enable"		"0"
+		"hammerid"		"1250670"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250674"
+	{
+		"enable"		"0"
+		"hammerid"		"1250674"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250680"
+	{
+		"enable"		"0"
+		"hammerid"		"1250680"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250685"
+	{
+		"enable"		"0"
+		"hammerid"		"1250685"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250696"
+	{
+		"enable"		"0"
+		"hammerid"		"1250696"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1250703"
+	{
+		"enable"		"0"
+		"hammerid"		"1250703"
+		"m_iname"		"Fuking_Building_To_Cut_4"
+	}
+	"1269802"
+	{
+		"enable"		"0"
+		"hammerid"		"1269802"
+		"m_iname"		"Fuking_Building_To_Cut_4_Bullsh"
+	}
+	"1269830"
+	{
+		"enable"		"0"
+		"hammerid"		"1269830"
+		"m_iname"		"Fuking_Building_To_Cut_4_Bullsh"
+	}
+	"1281329"
+	{
+		"enable"		"0"
+		"hammerid"		"1281329"
+		"m_iname"		"Fuking_Building_To_Cut_2_Bullsh"
+	}
+	"1180150"
+	{
+		"enable"		"0"
+		"hammerid"		"1180150"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1180162"
+	{
+		"enable"		"0"
+		"hammerid"		"1180162"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1180176"
+	{
+		"enable"		"0"
+		"hammerid"		"1180176"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1180189"
+	{
+		"enable"		"0"
+		"hammerid"		"1180189"
+		"m_iname"		"Fuking_Building_To_Cut_3"
+	}
+	"1300824"
+	{
+		"enable"		"1"
+		"hammerid"		"1300824"
+		"m_iname"		"Boss_Armor_Break"
+	}
+	"1761962"
+	{
+		"enable"		"0"
+		"hammerid"		"1761962"
+		"m_iname"		"Tornado_Physbox&2406"
+	}
+	"12108"
+	{
+		"enable"		"0"
+		"hammerid"		"12108"
+		"m_iname"		"Spawn_Vent"
+	}
+	"47320"
+	{
+		"enable"		"0"
+		"hammerid"		"47320"
+		"m_iname"		"B_Window1"
+	}
+	"47933"
+	{
+		"enable"		"0"
+		"hammerid"		"47933"
+		"m_iname"		"B_Vent1"
+	}
+	"85483"
+	{
+		"enable"		"0"
+		"hammerid"		"85483"
+		"m_iname"		"B_Breaklog"
+	}
+	"85511"
+	{
+		"enable"		"0"
+		"hammerid"		"85511"
+		"m_iname"		"B_Breaklog"
+	}
+	"85944"
+	{
+		"enable"		"0"
+		"hammerid"		"85944"
+		"m_iname"		"B_Wooddoor"
+	}
+	"97426"
+	{
+		"enable"		"0"
+		"hammerid"		"97426"
+		"m_iname"		"B_Breakwall"
+	}
+	"97458"
+	{
+		"enable"		"0"
+		"hammerid"		"97458"
+		"m_iname"		"B_Breakwall"
+	}
+	"97466"
+	{
+		"enable"		"0"
+		"hammerid"		"97466"
+		"m_iname"		"B_Breakwall"
+	}
+	"97471"
+	{
+		"enable"		"0"
+		"hammerid"		"97471"
+		"m_iname"		"B_Breakwall"
+	}
+	"97476"
+	{
+		"enable"		"0"
+		"hammerid"		"97476"
+		"m_iname"		"B_Breakwall"
+	}
+	"97481"
+	{
+		"enable"		"0"
+		"hammerid"		"97481"
+		"m_iname"		"B_Breakwall"
+	}
+	"97486"
+	{
+		"enable"		"0"
+		"hammerid"		"97486"
+		"m_iname"		"B_Breakwall"
+	}
+	"97501"
+	{
+		"enable"		"0"
+		"hammerid"		"97501"
+		"m_iname"		"B_Breakwall"
+	}
+	"97509"
+	{
+		"enable"		"0"
+		"hammerid"		"97509"
+		"m_iname"		"B_Breakwall"
+	}
+	"97537"
+	{
+		"enable"		"0"
+		"hammerid"		"97537"
+		"m_iname"		"B_Breakwall"
+	}
+	"261327"
+	{
+		"enable"		"0"
+		"hammerid"		"261327"
+		"m_iname"		"E_Sewerbreak"
+	}
+	"992583"
+	{
+		"enable"		"0"
+		"hammerid"		"992583"
+		"m_iname"		"B_Grid_Breakable"
+	}
+	"1974086"
+	{
+		"enable"		"0"
+		"hammerid"		"1974086"
+		"m_iname"		"Minigun_Vent"
+	}
+	"563425"
+	{
+		"enable"		"0"
+		"hammerid"		"563425"
+		"m_iname"		"Spear_Left_Wall"
+	}
+	"563479"
+	{
+		"enable"		"0"
+		"hammerid"		"563479"
+		"m_iname"		"Spear_Right_Wall"
+	}
+	"757825"
+	{
+		"enable"		"0"
+		"hammerid"		"757825"
+		"m_iname"		"E_Door0"
+	}
+	"1635740"
+	{
+		"enable"		"1"
+		"hammerid"		"1635740"
+		"m_iname"		"End_Boss_Armor"
+	}
+	"2582269"
+	{
+		"enable"		"1"
+		"hammerid"		"2582269"
+		"m_iname"		"Boss_Armor_Break"
 	}
 }

@@ -1,87 +1,69 @@
-"Console_T"
+"BOSSHP"
 {
-	"You forgot to destroy the electric box !"
+	"672856"
 	{
-		"chi"		"** 你忘记摧毁电箱**"
+		"enable"		"0"
+		"hammerid"		"672856"
+		"m_iname"		"EndBreak"
 	}
-	"Go back and shoot the part of the gaspipe above the electric box to destroy it !"
+	"672873"
 	{
-		"chi"		"**回去射击电箱上方的燃气管道部分，将其摧毁**"
+		"enable"		"0"
+		"hammerid"		"672873"
+		"m_iname"		"EndBreak"
 	}
-	"Starting Evacuation Plan !"
+	"662823"
 	{
-		"chi"		"**开启逃脱计划！ **"
+		"enable"		"0"
+		"hammerid"		"662823"
+		"m_iname"		"Zombieblock03"
 	}
-	"First shuttle departing in 2 minutes !"
+	"16889"
 	{
-		"chi"		"**第一艘船120秒后离开**"
+		"enable"		"0"
+		"hammerid"		"16889"
+		"m_iname"		"Breakable01"
 	}
-	"Second shuttle departing in 2 minutes and 45 seconds !"
+	"47369"
 	{
-		"chi"		"**第二艘船165秒后离开**"
+		"enable"		"0"
+		"hammerid"		"47369"
+		"m_iname"		"Crane01LightLiftMode"
 	}
-	"First shuttle departing in 1 minute !"
+	"47375"
 	{
-		"chi"		"**第一艘船60秒后离开**"
+		"enable"		"0"
+		"hammerid"		"47375"
+		"m_iname"		"Crane01LightMoveMode"
 	}
-	"First shuttle departing in 30 seconds !"
+	"47381"
 	{
-		"chi"		"**第一艘船30秒后离开**"
+		"enable"		"0"
+		"hammerid"		"47381"
+		"m_iname"		"Crane01LightMagnetON"
 	}
-	"Second shuttle departing in 1 minute !"
+	"47387"
 	{
-		"chi"		"**第二艘船60秒后离开**"
+		"enable"		"0"
+		"hammerid"		"47387"
+		"m_iname"		"Crane01LightMagnetOFF"
 	}
-	"First shuttle departing in 10 seconds !"
+	"298575"
 	{
-		"chi"		"**第一艘船10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"298575"
+		"m_iname"		"Zombieblock03"
 	}
-	"Second shuttle departing in 30 seconds !"
+	"115216"
 	{
-		"chi"		"**第二艘船30秒后离开**"
+		"enable"		"0"
+		"hammerid"		"115216"
+		"m_iname"		"Zombieblock02"
 	}
-	"Second shuttle departing in 10 seconds !"
+	"115205"
 	{
-		"chi"		"**第二艘船10秒后离开**"
-	}
-	"Find the nuke and activate it !"
-	{
-		"chi"		"**找到并激活核弹**"
-	}
-	"Nuclear Bomb has been activated !"
-	{
-		"chi"		"** 核弹已激活**"
-	}
-	"3 minutes remaining till explosion !"
-	{
-		"chi"		"**离爆炸还有180秒 **"
-	}
-	"Fall back ! There are zombies jumping out of the vents !"
-	{
-		"chi"		"** 撤退，僵尸从通风管道跳下来了**"
-	}
-	"2 minutes remaining till explosion !"
-	{
-		"chi"		"**离爆炸还有120秒**"
-	}
-	"1 minute remaining till explosion !"
-	{
-		"chi"		"**离爆炸还有60秒**"
-	}
-	"30 seconds remaining till explosion !"
-	{
-		"chi"		"**离爆炸还有30秒**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"10283"
-	}
-	"Hold here until someone activates bomb !"
-	{
-		"chi"		"** **"
-	}
-	"Activate nuke glowing yellow !"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"115205"
+		"m_iname"		"Zombieblock01"
 	}
 }

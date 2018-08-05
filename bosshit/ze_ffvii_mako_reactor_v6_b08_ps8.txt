@@ -1,203 +1,363 @@
-"Console_T"
+"BOSSHP"
 {
-	"<<< EASY >>>"
+	"2475007"
 	{
-		"chi"		">>>简单<<<"
+		"enable"		"1"
+		"hammerid"		"2475007"
+		"m_iname"		"Boss_Scorpion_Breakable"
 	}
-	"** MIMIC Materia has been found. **"
+	"2923480"
 	{
-		"chi"		"**模仿-模仿上一个使用的神器**"
+		"enable"		"0"
+		"hammerid"		"2923480"
+		"m_iname"		"Zombie_Train_Visible"
 	}
-	"< CITY DOOR OPENS IN 30 SECONDS >"
+	"129470"
 	{
-		"chi"		">>>大门30秒后开启<<<"
+		"enable"		"0"
+		"hammerid"		"129470"
+		"m_iname"		"Wall_Teleport_Breakable"
 	}
-	"< CITY DOOR OPENS IN 5 SECONDS >"
+	"485040"
 	{
-		"chi"		">>>大门5秒后开启<<<"
+		"enable"		"0"
+		"hammerid"		"485040"
+		"m_iname"		"Breakable_Vent_01"
 	}
-	"** ICE Materia has been found. **"
+	"703605"
 	{
-		"chi"		"**冰冻-范围内僵尸无法移动**"
+		"enable"		"0"
+		"hammerid"		"703605"
+		"m_iname"		"Breakable_Vent_02"
 	}
-	"** WIND Materia has been found. **"
+	"704997"
 	{
-		"chi"		"**飓风-形成暴风眼保护你们**"
+		"enable"		"0"
+		"hammerid"		"704997"
+		"m_iname"		"Breakable_Vent_02"
 	}
-	"** EARTH Materia has been found. **"
+	"1766715"
 	{
-		"chi"		"**土墙-生成土墙阻挡僵尸**"
+		"enable"		"0"
+		"hammerid"		"1766715"
+		"m_iname"		"Cowbell_Nanaki"
 	}
-	"** BARRIER Materia has been found. **"
+	"1766734"
 	{
-		"chi"		"**护盾-生成护盾阻挡僵尸**"
+		"enable"		"0"
+		"hammerid"		"1766734"
+		"m_iname"		"Cowbell_Cloud"
 	}
-	"** BIO Materia has been found. **"
+	"1766739"
 	{
-		"chi"		"**剧毒-碰到的僵尸造成减速和迷幻作用**"
+		"enable"		"0"
+		"hammerid"		"1766739"
+		"m_iname"		"Cowbell_CaitSith"
 	}
-	"** ULTIMA Materia has been found. **"
+	"1766744"
 	{
-		"chi"		"**终极-使用后20秒后清理所在范围内的僵尸**"
-		"DoorCountdown"		"-1"
+		"enable"		"0"
+		"hammerid"		"1766744"
+		"m_iname"		"Cowbell_Barrett"
 	}
-	"** Congratulations! You have beaten [EASY] **"
+	"1783409"
 	{
-		"chi"		"**恭喜你-简单难度已破**"
+		"enable"		"0"
+		"hammerid"		"1783409"
+		"m_iname"		"Cowbell_Vincent"
 	}
-	"<<< NORMAL >>>"
+	"1783412"
 	{
-		"chi"		">>>普通<<<"
+		"enable"		"0"
+		"hammerid"		"1783412"
+		"m_iname"		"Cowbell_Sephiroth"
 	}
-	"< CARGO LIFT STARTS IN 5 SECONDS >"
+	"1783415"
 	{
-		"chi"		">>>升降机5秒后启动<<<"
+		"enable"		"0"
+		"hammerid"		"1783415"
+		"m_iname"		"Cowbell_Cid"
 	}
-	"** Round failed! Zombies have reached the objective! **"
+	"1783418"
 	{
-		"chi"		"**本关失败-僵尸已到达目标点**"
+		"enable"		"0"
+		"hammerid"		"1783418"
+		"m_iname"		"Cowbell_Aeris"
 	}
-	"** HEAL Materia has been found. **"
+	"1783439"
 	{
-		"chi"		"**治疗-范围内的人类恢复血量**"
+		"enable"		"0"
+		"hammerid"		"1783439"
+		"m_iname"		"Cowbell_Yuffie"
 	}
-	"** Congratulations! You have beaten [NORMAL] **"
+	"1783442"
 	{
-		"chi"		"**恭喜你-普通难度已破**"
+		"enable"		"0"
+		"hammerid"		"1783442"
+		"m_iname"		"Cowbell_Tifa"
 	}
-	"<<< HARD >>>"
+	"1818951"
 	{
-		"chi"		">>>困难<<<"
+		"enable"		"0"
+		"hammerid"		"1818951"
+		"m_iname"		"Cowbell_Bahamut"
 	}
-	"< I understand that youve been looking for me. >"
+	"1818959"
 	{
-		"chi"		">>>我知道你一直在找我<<<"
+		"enable"		"0"
+		"hammerid"		"1818959"
+		"m_iname"		"Cowbell_Chocobo"
 	}
-	"< Only the chosen may survive! >"
+	"1967584"
 	{
-		"chi"		">>>只有被选中的才能存活<<<"
+		"enable"		"0"
+		"hammerid"		"1967584"
+		"m_iname"		"Cowbell_Kaemon"
 	}
-	"< Say goodbye! >"
+	"1967592"
 	{
-		"chi"		">>>说再见吧!<<<"
+		"enable"		"0"
+		"hammerid"		"1967592"
+		"m_iname"		"Cowbell_X"
 	}
-	"< Slow! >"
+	"1967600"
 	{
-		"chi"		">>>太慢了<<<"
+		"enable"		"0"
+		"hammerid"		"1967600"
+		"m_iname"		"Cowbell_Y"
 	}
-	"** An administrator has set [INSANE] for next round! **"
+	"1967608"
 	{
-		"chi"		"**管理员把下一关设置为[疯狂难度]**"
+		"enable"		"0"
+		"hammerid"		"1967608"
+		"m_iname"		"Cowbell_Z"
 	}
-	"** ADMIN PRESSED KILL ALL BUTTON **"
+	"2267918"
 	{
-		"chi"		"**管理员按下了KILL ALL按钮**"
+		"enable"		"0"
+		"hammerid"		"2267918"
+		"m_iname"		"Sephiroth_Bridge_Pipe"
 	}
-	"** PREPARE TO DIE **"
+	"2479157"
 	{
-		"chi"		"**你要死了**"
+		"enable"		"0"
+		"hammerid"		"2479157"
+		"m_iname"		"City_Hold_Plank"
 	}
-	"<<< INSANE >>>"
+	"2498278"
 	{
-		"chi"		">>>疯狂<<<"
+		"enable"		"0"
+		"hammerid"		"2498278"
+		"m_iname"		"City_Hold_Hole_A"
 	}
-	"< Ill see you again. >"
+	"2498301"
 	{
-		"chi"		">>>我们还会再见面<<<"
+		"enable"		"0"
+		"hammerid"		"2498301"
+		"m_iname"		"City_Hold_Hole_C"
 	}
-	"** GRAVITY Materia has been found. **"
+	"2652168"
 	{
-		"chi"		"**黑洞-黑洞将会吸引僵尸**"
+		"enable"		"0"
+		"hammerid"		"2652168"
+		"m_iname"		"Wall_Hold_Ladder_Cover"
 	}
-	"< Too late for laments! >"
+	"2652465"
 	{
-		"chi"		">>>可惜太晚了!<<<"
+		"enable"		"0"
+		"hammerid"		"2652465"
+		"m_iname"		"City_Hold_Breakable"
 	}
-	"< Ive been... Defeated? >"
+	"2652707"
 	{
-		"chi"		">>>我失败了吗?<<<"
+		"enable"		"0"
+		"hammerid"		"2652707"
+		"m_iname"		"City_Hold_Disco_Crate_Long"
 	}
-	"** FIRE Materia has been found. **"
+	"2730653"
 	{
-		"chi"		"**火焰-将会生成火焰减缓僵尸速度**"
+		"enable"		"0"
+		"hammerid"		"2730653"
+		"m_iname"		"Climb_Breakable_Plank"
 	}
-	"** Congratulations! You have beaten [INSANE] **"
+	"2853195"
 	{
-		"chi"		"**恭喜你-疯狂难度已破**"
+		"enable"		"1"
+		"hammerid"		"2853195"
+		"m_iname"		"Boss_Nades_Hitbox"
 	}
-	"< ZOMBIE MODE >"
+	"2939404"
 	{
-		"chi"		">>>僵尸感染<<<"
+		"enable"		"0"
+		"hammerid"		"2939404"
+		"m_iname"		"City_Vent_Breakable_1"
 	}
-	"< TRY TO SURVIVE IN THE CITY AREA >"
+	"3178181"
 	{
-		"chi"		">>>试着在城市里生存<<<"
+		"enable"		"0"
+		"hammerid"		"3178181"
+		"m_iname"		"City_Woodhouse_Breakable"
 	}
-	"** ELECTRO Materia has been found. **"
+	"3307285"
 	{
-		"chi"		"**雷电-生成雷电减慢僵尸速度**"
+		"enable"		"0"
+		"hammerid"		"3307285"
+		"m_iname"		"Final_Room_Vent"
 	}
-	"** An administrator has set [EXTREME] for next round! **"
+	"2612230"
 	{
-		"chi"		"**管理员把下一关设置为[极限难度]**"
+		"enable"		"0"
+		"hammerid"		"2612230"
+		"m_iname"		"Elevator_Breakable_Ceiling"
 	}
-	"<<< EXTREME >>>"
+	"2612233"
 	{
-		"chi"		">>>极限<<<"
+		"enable"		"0"
+		"hammerid"		"2612233"
+		"m_iname"		"Elevator_Breakable_Floor"
 	}
-	"< Impressive! >"
+	"4063755"
 	{
-		"chi"		">>>做的不错-不过你以为这样就结束了？<<<"
+		"enable"		"0"
+		"hammerid"		"4063755"
+		"m_iname"		"Broken_Bunker_Breakable"
 	}
-	"< Dodge this! >"
+	"4065271"
 	{
-		"chi"		">>>你能躲过去吗<<<"
+		"enable"		"0"
+		"hammerid"		"4065271"
+		"m_iname"		"Final_Room_Valve"
 	}
-	"** Congratulations! You have beaten [EXTREME] **"
+	"5028806"
 	{
-		"chi"		"**恭喜你-极限难度已破**"
+		"enable"		"0"
+		"hammerid"		"5028806"
+		"m_iname"		"Bahamut_Ojo_Phys"
 	}
-	"** An administrator has set [EASY] for next round! **"
+	"5028892"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5028892"
+		"m_iname"		"Bahamut_Body_Phys"
 	}
-	"** AQUA Materia has been found. **"
+	"5095195"
 	{
-		"chi"		"**水-僵尸将无法通过**"
+		"enable"		"0"
+		"hammerid"		"5095195"
+		"m_iname"		"SG_attachment_eye"
 	}
-	"** Congratulations! You have beaten [HARD] **"
+	"5095198"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5095198"
+		"m_iname"		"SG_attachment_antena"
 	}
-	"** Zombies detected! You lose! **"
+	"5095201"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5095201"
+		"m_iname"		"SG_attachment_detail"
 	}
-	"sync_version"
+	"5095204"
 	{
-		"syncvalue"		"92068"
+		"enable"		"0"
+		"hammerid"		"5095204"
+		"m_iname"		"SG_attachment_tail"
 	}
-	"MapGlobal_ConVars"
+	"5095207"
 	{
-		"4"
-		{
-			"cvar"		"sm_g_cv_money 13000"
-		}
-		"5"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"8"
-		{
-			"cvar"		"sm_stamina_burncost 0.5"
-		}
-		"9"
-		{
-			"cvar"		"sm_tagging_penalty 25"
-		}
-		"10"
-		{
-			"cvar"		"sm_tagging_time 2.5"
-		}
+		"enable"		"0"
+		"hammerid"		"5095207"
+		"m_iname"		"SG_attachment_gun_right"
+	}
+	"5095210"
+	{
+		"enable"		"0"
+		"hammerid"		"5095210"
+		"m_iname"		"SG_attachment_gun_left"
+	}
+	"5257026"
+	{
+		"enable"		"0"
+		"hammerid"		"5257026"
+		"m_iname"		"Zombie_Jail_Door"
+	}
+	"5342126"
+	{
+		"enable"		"0"
+		"hammerid"		"5342126"
+		"m_iname"		"Zombie_Jail_Door_Topview"
+	}
+	"2863559"
+	{
+		"enable"		"0"
+		"hammerid"		"2863559"
+		"m_iname"		"lufflaser_lasertarget"
+	}
+	"4473461"
+	{
+		"enable"		"0"
+		"hammerid"		"4473461"
+		"m_iname"		"i_ghost_mtarget&0285"
+	}
+	"3653695"
+	{
+		"enable"		"0"
+		"hammerid"		"3653695"
+		"m_iname"		"Sephiroth_Bridge_Breakable"
+	}
+	"3809630"
+	{
+		"enable"		"0"
+		"hammerid"		"3809630"
+		"m_iname"		"Impulse_Target_A&0680"
+	}
+	"3809633"
+	{
+		"enable"		"0"
+		"hammerid"		"3809633"
+		"m_iname"		"Impulse_Target_B&0680"
+	}
+	"3809636"
+	{
+		"enable"		"0"
+		"hammerid"		"3809636"
+		"m_iname"		"Impulse_Target_D&0680"
+	}
+	"3809639"
+	{
+		"enable"		"0"
+		"hammerid"		"3809639"
+		"m_iname"		"Impulse_Target_C&0680"
+	}
+	"3770028"
+	{
+		"enable"		"1"
+		"hammerid"		"3770028"
+		"m_iname"		"Boss_Bahamut_Breakable"
+	}
+	"5029181"
+	{
+		"enable"		"0"
+		"hammerid"		"5029181"
+		"m_iname"		"Baha_Mat_Barrier_Breakable"
+	}
+	"5028627"
+	{
+		"enable"		"0"
+		"hammerid"		"5028627"
+		"m_iname"		"Baha_Mat_Laser_Target"
+	}
+	"3655561"
+	{
+		"enable"		"0"
+		"hammerid"		"3655561"
+		"m_iname"		"Sephiroth_Final_Breakable"
+	}
+	"3994669"
+	{
+		"enable"		"0"
+		"hammerid"		"3994669"
+		"m_iname"		"Final_Fulgor_Breakable"
 	}
 }

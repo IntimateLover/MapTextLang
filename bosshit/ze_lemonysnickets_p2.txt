@@ -1,170 +1,225 @@
-"Console_T"
+"BOSSHP"
 {
-	"*Map created by Snake*"
+	"198524"
 	{
-		"chi"		"**地图制作：Snake 地图翻译:IntimateLover**"
+		"enable"		"0"
+		"hammerid"		"198524"
+		"m_iname"		"breakshort"
 	}
-	"*Defend Inside for 45s!*"
+	"189477"
 	{
-		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"enable"		"0"
+		"hammerid"		"189477"
+		"m_iname"		"bo_3"
 	}
-	"*5 Seconds Left!*"
+	"17626"
 	{
-		"chi"		"**还剩5秒 **"
+		"enable"		"0"
+		"hammerid"		"17626"
+		"m_iname"		"breakable 3"
 	}
-	"*Hold here for 30s!*"
+	"17633"
 	{
-		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"17633"
+		"m_iname"		"breakable1"
 	}
-	"*10 seconds left!*"
+	"36907"
 	{
-		"chi"		"**还剩10秒 **"
+		"enable"		"0"
+		"hammerid"		"36907"
+		"m_iname"		"zombie_breakwall"
 	}
-	"*Defend here for 15 sec*"
+	"45249"
 	{
-		"chi"		"**在这里守住15秒 **"
+		"enable"		"0"
+		"hammerid"		"45249"
+		"m_iname"		"window_break"
 	}
-	"*Hold for another 5s!*"
+	"52100"
 	{
-		"chi"		"**守住另一个道路5秒 **"
+		"enable"		"0"
+		"hammerid"		"52100"
+		"m_iname"		"gate_door"
 	}
-	"*Someone has to get inside to open the doors*"
+	"83510"
 	{
-		"chi"		"**要有人进去打开门 **"
+		"enable"		"0"
+		"hammerid"		"83510"
+		"m_iname"		"breakable2"
 	}
-	"*Zombies have crawled through the window!*"
+	"88968"
 	{
-		"chi"		"**僵尸从窗户钻了进去！ **"
+		"enable"		"0"
+		"hammerid"		"88968"
+		"m_iname"		"boat_break"
 	}
-	"*Castle Doors open in 15s!*"
+	"124377"
 	{
-		"chi"		"**城堡大门在15秒后打开！ **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"124377"
+		"m_iname"		"bo_1"
 	}
-	"*Castle Doors Open!*"
+	"126968"
 	{
-		"chi"		"**城堡大门开了！ **"
+		"enable"		"0"
+		"hammerid"		"126968"
+		"m_iname"		"bo_3"
 	}
-	"*Portal is Charging*"
+	"127329"
 	{
-		"chi"		"**门需要充电才能打开 **"
+		"enable"		"0"
+		"hammerid"		"127329"
+		"m_iname"		"bo_2"
 	}
-	"*Portal 25 percent charged*"
+	"70814"
 	{
-		"chi"		"**已充电25%！ **"
+		"enable"		"0"
+		"hammerid"		"70814"
+		"m_iname"		"BreakWood"
 	}
-	"*Portal 50 percent charged!*"
+	"70887"
 	{
-		"chi"		"**已充电50%！ **"
+		"enable"		"0"
+		"hammerid"		"70887"
+		"m_iname"		"EndGlass"
 	}
-	"*Portal 75 percent charged!!*"
+	"70898"
 	{
-		"chi"		"**已充电75% ！**"
+		"enable"		"0"
+		"hammerid"		"70898"
+		"m_iname"		"EndGlass"
 	}
-	"*Portal 100 percent charged!*"
+	"70907"
 	{
-		"chi"		"**充电完成！ **"
+		"enable"		"0"
+		"hammerid"		"70907"
+		"m_iname"		"EndGlass"
 	}
-	"*Jump into the middle of the portal!*"
+	"70920"
 	{
-		"chi"		"**快进门！ **"
+		"enable"		"0"
+		"hammerid"		"70920"
+		"m_iname"		"EndGlass"
 	}
-	"*Gate will open soon defend!*"
+	"70928"
 	{
-		"chi"		"**守住！门很快就会打开！ **"
+		"enable"		"0"
+		"hammerid"		"70928"
+		"m_iname"		"EndGlass"
 	}
-	"*Zombie boat door broken!*"
+	"78256"
 	{
-		"chi"		"**船仓的门碎了！僵尸快去坐船！ **"
+		"enable"		"0"
+		"hammerid"		"78256"
+		"m_iname"		"T3"
 	}
-	"*Zombie boat leaving in 10s*"
+	"78375"
 	{
-		"chi"		"**僵尸船在10秒后离开！ **"
+		"enable"		"0"
+		"hammerid"		"78375"
+		"m_iname"		"T4"
 	}
-	"*Zombie boat is leaving!*"
+	"65530"
 	{
-		"chi"		"**僵尸船已离开！ **"
+		"enable"		"0"
+		"hammerid"		"65530"
+		"m_iname"		"T1"
 	}
-	"*Back Gate Open*"
+	"65586"
 	{
-		"chi"		"**后面的门开了 **"
+		"enable"		"0"
+		"hammerid"		"65586"
+		"m_iname"		"T2"
 	}
-	"*Hold here!*"
+	"548"
 	{
-		"chi"		"**在这里守住！ **"
+		"enable"		"0"
+		"hammerid"		"548"
+		"m_iname"		"breakable1"
 	}
-	"*Gates are open!*"
+	"550"
 	{
-		"chi"		"**城门开了！ **"
+		"enable"		"0"
+		"hammerid"		"550"
+		"m_iname"		"breakable1"
 	}
-	"*Nuke in 30 sec!*"
+	"616"
 	{
-		"chi"		"**核弹在30秒后发射！ **"
+		"enable"		"0"
+		"hammerid"		"616"
+		"m_iname"		"TopWindows"
 	}
-	"*Nuke in 10 sec!*"
+	"634"
 	{
-		"chi"		"**核弹在10秒后发射！ **"
+		"enable"		"0"
+		"hammerid"		"634"
+		"m_iname"		"TopWindows"
 	}
-	"*Map ported by Et3rnity*"
+	"638"
 	{
-		"chi"		"**地图移植：Et3rnity **"
+		"enable"		"0"
+		"hammerid"		"638"
+		"m_iname"		"zombie_breakwall"
 	}
-	"*Kill all remaining zombies!*"
+	"660"
 	{
-		"chi"		"**杀死所有剩余的僵尸！ **"
+		"enable"		"0"
+		"hammerid"		"660"
+		"m_iname"		"window_break"
 	}
-	"sync_version"
+	"674"
 	{
-		"syncvalue"		"57246"
+		"enable"		"0"
+		"hammerid"		"674"
+		"m_iname"		"gate_door"
 	}
-	"*Defend here for 30 seconds*"
+	"700"
 	{
-		"chi"		"**守住这里30秒**"
+		"enable"		"0"
+		"hammerid"		"700"
+		"m_iname"		"rocket_glass"
 	}
-	"*Hold for another 10s!*"
+	"705"
 	{
-		"chi"		"**在多守10秒**"
+		"enable"		"0"
+		"hammerid"		"705"
+		"m_iname"		"EndWindow"
 	}
-	"*5s left! Get ready to run!*"
+	"722"
 	{
-		"chi"		"**还剩5秒，准备撤退**"
+		"enable"		"0"
+		"hammerid"		"722"
+		"m_iname"		"breakable2"
 	}
-	"*Hold here for 65 s*"
+	"744"
 	{
-		"chi"		"**守住这里65秒**"
+		"enable"		"0"
+		"hammerid"		"744"
+		"m_iname"		"boat_break"
 	}
-	"*5 Seconds left*"
+	"845"
 	{
-		"chi"		"**还剩5秒**"
+		"enable"		"0"
+		"hammerid"		"845"
+		"m_iname"		"bo_1"
 	}
-	"*Gate will open in 55 seconds!*"
+	"867"
 	{
-		"chi"		"**大门将会在55秒后打开**"
+		"enable"		"0"
+		"hammerid"		"867"
+		"m_iname"		"bo_3"
 	}
-	"*Gate will open in 20 seconds!*"
+	"872"
 	{
-		"chi"		"**大门将会在20秒后打开**"
+		"enable"		"0"
+		"hammerid"		"872"
+		"m_iname"		"bo_2"
 	}
-	"*Rocket Launched!*"
+	"5261"
 	{
-		"chi"		"**火箭发射！**"
-	}
-	"*5 seconds until gate opens!!*"
-	{
-		"chi"		"**守住5秒直到大门打开**"
-	}
-	"*Survive another 30 seconds!*"
-	{
-		"chi"		"**在这里生存30秒**"
-	}
-	"*Hold here for 35s!*"
-	{
-		"chi"		"** **"
-	}
-	"*Youre taking too long!*"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5261"
+		"m_iname"		"Breakable_1"
 	}
 }

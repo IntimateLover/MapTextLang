@@ -1,242 +1,97 @@
-"Console_T"
+"BOSSHP"
 {
-	"**LEVEL 1**"
+	"1312644"
 	{
-		"chi"		"**第一关 **"
+		"enable"		"0"
+		"hammerid"		"1312644"
+		"m_iname"		"roc1"
 	}
-	"**Map By Batnik_Reference.smd and ShotT **"
+	"1312751"
 	{
-		"chi"		"**地图制作：Batnik_Reference.smd&ShotT  地图翻译：清新的二哈♪ **"
+		"enable"		"0"
+		"hammerid"		"1312751"
+		"m_iname"		"breakteleport"
 	}
-	"**Use 2 button**"
+	"2864858"
 	{
-		"chi"		"**按下两个开关 **"
+		"enable"		"0"
+		"hammerid"		"2864858"
+		"m_iname"		"krax"
 	}
-	"**button1 on**"
+	"7482551"
 	{
-		"chi"		"**1号开关已按 **"
+		"enable"		"0"
+		"hammerid"		"7482551"
+		"m_iname"		"padonal1"
 	}
-	"**Weapon activation a push gun works in 20 seconds**"
+	"7210893"
 	{
-		"chi"		"**推力枪可在20s后激活使用 **"
+		"enable"		"0"
+		"hammerid"		"7210893"
+		"m_iname"		"krugalien1"
 	}
-	"**The weapon is unblocked**"
+	"8504173"
 	{
-		"chi"		"**武器解锁 **"
+		"enable"		"0"
+		"hammerid"		"8504173"
+		"m_iname"		"metal1"
 	}
-	"**button2 on**"
+	"8487472"
 	{
-		"chi"		"**2号开关已按 **"
+		"enable"		"0"
+		"hammerid"		"8487472"
+		"m_iname"		"metal1a"
 	}
-	"**Open Door 5sec**"
+	"10319575"
 	{
-		"chi"		"**5s后门开 **"
+		"enable"		"0"
+		"hammerid"		"10319575"
+		"m_iname"		"Edge_Physbox2b"
 	}
-	"**Hold 25 sec**"
+	"10288131"
 	{
-		"chi"		"**坚守25s **"
+		"enable"		"0"
+		"hammerid"		"10288131"
+		"m_iname"		"Edge_Tar"
 	}
-	"**Open door**"
+	"10287989"
 	{
-		"chi"		"**门开了 **"
+		"enable"		"1"
+		"hammerid"		"10287989"
+		"m_iname"		"Noctali_Boss_Break"
 	}
-	"**Teleporting Zombi 25 sec**"
+	"10287992"
 	{
-		"chi"		"**僵尸将在25s后传送 **"
+		"enable"		"0"
+		"hammerid"		"10287992"
+		"m_iname"		"Edge_Physbox"
 	}
-	"**Open a tomb pressing E=use**"
+	"8504615"
 	{
-		"chi"		"**按E打开坟墓 **"
+		"enable"		"0"
+		"hammerid"		"8504615"
+		"m_iname"		"breakpredalien"
 	}
-	"**Teleporting Zombi 17 sec**"
+	"4160392"
 	{
-		"chi"		"**僵尸将在17s后传送 **"
+		"enable"		"1"
+		"hammerid"		"4160392"
+		"m_iname"		"kuba2"
 	}
-	"**Activate the gold weapon of the Predator while pressing E=use**"
+	"8158415"
 	{
-		"chi"		"**按E键拿走铁血战士的金色武器 **"
+		"enable"		"0"
+		"hammerid"		"8158415"
+		"m_iname"		"padals1"
 	}
-	"**CT activated the gold weapon**"
+	"10374952"
 	{
-		"chi"		"**我们拿到了武器 **"
+		"enable"		"0"
+		"hammerid"		"10374952"
+		"m_iname"		"Edge_Physbox3b"
 	}
-	"**Teleporting Zombi**"
+	"8404615"
 	{
-		"chi"		"**僵尸传送 **"
-	}
-	"**Run Run**"
-	{
-		"chi"		"**快跑！快跑！ **"
-	}
-	"**Predator**"
-	{
-		"chi"		"**他是铁血战士！ **"
-	}
-	"**Teleporting Zombi 9sec**"
-	{
-		"chi"		"**僵尸将在9s后传送 **"
-	}
-	"**defense 15 sec**"
-	{
-		"chi"		"**坚守15s **"
-	}
-	"**Teleporting Zombi 11sec**"
-	{
-		"chi"		"**僵尸将在11s后传送 **"
-	}
-	"**Wait 13 seconds and the scene of murder of the Predator will start working**"
-	{
-		"chi"		"**保持警惕，看看四周，情况有些不对。 **"
-	}
-	"**Xenomorph Alien Attacks the Predator**"
-	{
-		"chi"		"**异形偷袭了铁血战士 **"
-	}
-	"**alien IS DEAD**"
-	{
-		"chi"		"**异形死了 **"
-	}
-	"**predalien IS DEAD**"
-	{
-		"chi"		"**它死了 **"
-	}
-	"**Hold 20 sec**"
-	{
-		"chi"		"**坚守20s **"
-	}
-	"**Activate the gold weapon of the Predator and the Predator will take away the weapon and wont kill you**"
-	{
-		"chi"		"**激活铁血战士的武器，铁血战士会拿走它但是不会伤害你 **"
-	}
-	"**Open door 10 sec**"
-	{
-		"chi"		"**10s后门开 **"
-	}
-	"**Lock Gun**"
-	{
-		"chi"		"**武器锁定 **"
-	}
-	"**Human Win**"
-	{
-		"chi"		"**人类胜利 **"
-	}
-	"**Level 2**"
-	{
-		"chi"		"**第二关 **"
-	}
-	"**The Alien Queen attacks 2 Predators**"
-	{
-		"chi"		"**异形皇后正在追杀两个铁血战士！ **"
-	}
-	"**Hold 15s**"
-	{
-		"chi"		"**坚守15s **"
-	}
-	"**Hold 23s**"
-	{
-		"chi"		"**坚守23s **"
-	}
-	"**Teleporting Zombi 5sec**"
-	{
-		"chi"		"**僵尸将在5s后传送 **"
-	}
-	"**Run**"
-	{
-		"chi"		"**快跑！ **"
-	}
-	"**defenc**"
-	{
-		"chi"		"**回头开枪 **"
-	}
-	"**Find a bomb which kills at emergence of the Predator**"
-	{
-		"chi"		"**快去找一个可以秒杀铁血战士的装置 **"
-	}
-	"**Reprogramming of the program of the weapon of the Predator**"
-	{
-		"chi"		"**这是一个重组的专门对付铁血战士的武器 **"
-	}
-	"**To activate a bomb when the Predator will appear on the arena**"
-	{
-		"chi"		"**在铁血战士附近可以激活装置 **"
-	}
-	"**use only in case of fight with a predator**"
-	{
-		"chi"		"**装置只对铁血战士有效果 **"
-	}
-	"**Close Door**"
-	{
-		"chi"		"**大门关闭 **"
-	}
-	"**Teleporting Zombi 6sec**"
-	{
-		"chi"		"**僵尸将在6s后传送 **"
-	}
-	"**defenc 25sec**"
-	{
-		"chi"		"**坚守25s **"
-	}
-	"**defenc 20sec**"
-	{
-		"chi"		"**坚守20s **"
-	}
-	"**teleport 5sec**"
-	{
-		"chi"		"**5s后传送 **"
-	}
-	"**Alien spawn 10sec**"
-	{
-		"chi"		"**第一只小异形10s后进入战斗 **"
-	}
-	"**2 Alien spawn 8sec**"
-	{
-		"chi"		"**第二只小异形8s后进入战斗**"
-	}
-	"**In 17 seconds the Predator will die**"
-	{
-		"chi"		"**装置17s后激活 **"
-	}
-	"**In 8 seconds the Predator will die**"
-	{
-		"chi"		"**还有8s **"
-	}
-	"**In 4 seconds the Predator will die**"
-	{
-		"chi"		"**还剩4s **"
-	}
-	"**In 2 seconds the Predator will die**"
-	{
-		"chi"		"**最后2s **"
-	}
-	"**Predator IS DEAD**"
-	{
-		"chi"		"**铁血战士死了 **"
-	}
-	"**The door will be closed in 1min 40 seconds**"
-	{
-		"chi"		"**大门将在1m40s后关闭 **"
-	}
-	"**The door will be closed in 60 seconds**"
-	{
-		"chi"		"**大门将在60s后关闭 **"
-	}
-	"**The door will be closed in 15 seconds**"
-	{
-		"chi"		"**大门将在15s后关闭 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"36895"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 20"
-		}
-	}
-	"**Activate Bomb**"
-	{
-		"chi"		"**开启装置 **"
+		"enable"		"1"
 	}
 }

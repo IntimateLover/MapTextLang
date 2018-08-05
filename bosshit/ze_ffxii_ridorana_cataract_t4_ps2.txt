@@ -1,426 +1,363 @@
-"Console_T"
+"BOSSHP"
 {
-	"**Map by Headshooter.SC & HaRyDe**"
+	"31662"
 	{
-		"chi"		"**地图制作：Headshooter.SC & HaRyDe 地图翻译：IntimateLover**"
+		"enable"		"1"
+		"hammerid"		"31662"
+		"m_iname"		"Famfrit_Phys_Body"
 	}
-	"**WARMUP ROUND**"
+	"32493"
 	{
-		"chi"		"**热身回合**"
+		"enable"		"1"
+		"hammerid"		"32493"
+		"m_iname"		"Stage_2_End_Dragon_Phys"
 	}
-	"**ZE_FFXII_RIDORANA_CATARACT**"
+	"31639"
 	{
-		"chi"		"**最终幻想12：里多拉纳大瀑布**"
+		"enable"		"1"
+		"hammerid"		"31639"
+		"m_iname"		"Famfrit_Phys"
 	}
-	"**The gates will open in 20 seconds**"
+	"27599"
 	{
-		"chi"		"**石制大门20秒后打开**"
-		"DoorCountdown"		"20"
+		"enable"		"1"
+		"hammerid"		"27599"
+		"m_iname"		"Hashmel_Hitbox"
 	}
-	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
+	"27520"
 	{
-		"chi"		"**一位僵尸学会了火魔法（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"27520"
+		"m_iname"		"Common_Hold_4_Break"
 	}
-	"**NORMAL MODE**"
+	"28230"
 	{
-		"chi"		"**普通模式**"
+		"enable"		"0"
+		"hammerid"		"28230"
+		"m_iname"		"Hashmel_ZM_Cage"
 	}
-	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	"32678"
 	{
-		"chi"		"**一位玩家拿起了雷电法杖（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"32678"
+		"m_iname"		"Common_Hold_1_Break"
 	}
-	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+	"32683"
 	{
-		"chi"		"**一位僵尸学会了秒杀魔法（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"32683"
+		"m_iname"		"Common_Hold_2_Break"
 	}
-	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+	"34194"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"34194"
+		"m_iname"		"Famfrit_Phys_Body_Fire"
 	}
-	"**The gates will open in 30 seconds**"
+	"34197"
 	{
-		"chi"		"**石制大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"34197"
+		"m_iname"		"Famfrit_Phys_Body_Holy"
 	}
-	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	"2179"
 	{
-		"chi"		"**一位玩家拿起了黑洞法杖（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"2179"
+		"m_iname"		"Stage_13_End_Break"
 	}
-	"**The gates will open in 15 seconds**"
+	"27552"
 	{
-		"chi"		"**铁门将在15秒后打开**"
+		"enable"		"0"
+		"hammerid"		"27552"
+		"m_iname"		"Stage_13_Hold_6_Break_1"
 	}
-	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	"27556"
 	{
-		"chi"		"**石制大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"27556"
+		"m_iname"		"Stage_13_Hold_6_Break_2"
 	}
-	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+	"28306"
 	{
-		"chi"		"**一位玩家拿起了治疗法杖（等级:1）**"
+		"enable"		"0"
+		"hammerid"		"28306"
+		"m_iname"		"Stage_13_Door_1"
 	}
-	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	"28319"
 	{
-		"chi"		"**一位玩家拿起了冰冻法杖（等级：1）**"
+		"enable"		"1"
+		"hammerid"		"28319"
+		"m_iname"		"Stage_13_End_Boss_Phys"
 	}
-	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+	"31387"
 	{
-		"chi"		"**一位玩家拿起了火焰法杖（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"31387"
+		"m_iname"		"Stage_13_Hold_6_Break_3"
 	}
-	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
+	"31391"
 	{
-		"chi"		"**一位玩家拿起了飓风法杖（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"31391"
+		"m_iname"		"Stage_13_Hold_8_Break"
 	}
-	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
+	"31397"
 	{
-		"chi"		"**一位僵尸学会了治疗魔法（等级：1）**"
+		"enable"		"0"
+		"hammerid"		"31397"
+		"m_iname"		"Stage_13_After_Hold_2_Break"
 	}
-	"**The random way will open in 25 seconds**"
+	"32942"
 	{
-		"chi"		"**一条随机通道将在25秒后打开**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"32942"
+		"m_iname"		"Stage_13_End_Door"
 	}
-	"**The arena entrance will open in 25 seconds**"
+	"429355"
 	{
-		"chi"		"**竞技场大门将在25秒后开启**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"429355"
+		"m_iname"		"End_Debris2"
 	}
-	"**The Hashmel is defeated!**"
+	"429376"
 	{
-		"chi"		"**统治者哈修马利姆已死-逃出这里**"
+		"enable"		"0"
+		"hammerid"		"429376"
+		"m_iname"		"End_Debris2"
 	}
-	"**Defend this way for 25 seconds**"
+	"429394"
 	{
-		"chi"		"**坚守25秒**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"429394"
+		"m_iname"		"End_Debris2"
 	}
-	"**The final gates will open in 20 seconds**"
+	"430712"
 	{
-		"chi"		"**最后大门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"430712"
+		"m_iname"		"End_Debris2"
 	}
-	"**Hydro is dead! Run to to the platform!**"
+	"430721"
 	{
-		"chi"		"**亥伊多已死-跑上平台**"
+		"enable"		"0"
+		"hammerid"		"430721"
+		"m_iname"		"End_Debris2"
 	}
-	"** You have beaten NORMAL MODE! Congratulations! **"
+	"31360"
 	{
-		"chi"		"**你通过了普通模式！恭喜你！**"
+		"enable"		"0"
+		"hammerid"		"31360"
+		"m_iname"		"Stage_24_Hold_4_Break_2"
 	}
-	"**HARD MODE**"
+	"31364"
 	{
-		"chi"		"**困难模式**"
+		"enable"		"0"
+		"hammerid"		"31364"
+		"m_iname"		"Stage_24_Hold_4_Break_1"
 	}
-	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	"31374"
 	{
-		"chi"		"**一位僵尸学会了秒杀魔法（等级：2）**"
+		"enable"		"0"
+		"hammerid"		"31374"
+		"m_iname"		"Stage_24_After_Hold_1_Move"
 	}
-	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	"31380"
 	{
-		"chi"		"**一位玩家拿起了黑洞法杖（等级：2）**"
+		"enable"		"0"
+		"hammerid"		"31380"
+		"m_iname"		"Stage_24_After_Hold_2_Move"
 	}
-	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
+	"31401"
 	{
-		"chi"		"**一位僵尸学会了治疗魔法（等级：2）**"
+		"enable"		"0"
+		"hammerid"		"31401"
+		"m_iname"		"Stage_24_Hold_2_Break"
 	}
-	"**The Hydro is defeated** **Keep running**"
+	"31405"
 	{
-		"chi"		"**亥伊多已死 ** 继续跑**"
+		"enable"		"0"
+		"hammerid"		"31405"
+		"m_iname"		"Stage_24_Hold_2_Break_1"
 	}
-	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+	"31408"
 	{
-		"chi"		"**一位玩家拿起了治疗法杖（等级:2）**"
+		"enable"		"0"
+		"hammerid"		"31408"
+		"m_iname"		"Stage_24_Hold_3_Break"
 	}
-	"**The door will open in 25 seconds**"
+	"32210"
 	{
-		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"32210"
+		"m_iname"		"Stage_24_End_Clip"
 	}
-	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	"32269"
 	{
-		"chi"		"**一位玩家拿起了冰冻法杖（等级：2）**"
+		"enable"		"0"
+		"hammerid"		"32269"
+		"m_iname"		"Stage_24_End_Famfrit_Phys"
 	}
-	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+	"33824"
 	{
-		"chi"		"**一位玩家拿起了飓风法杖（等级：2）**"
+		"enable"		"1"
+		"hammerid"		"33824"
+		"m_iname"		"Stage_24_Boss_Gate_Fence"
 	}
-	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+	"32490"
 	{
-		"chi"		"**一位玩家拿起了火焰法杖（等级：2）**"
+		"enable"		"1"
+		"hammerid"		"32490"
+		"m_iname"		"Stage_2_End_Boss_Phys"
 	}
-	"**Hold here for 10 seconds**"
+	"429083"
 	{
-		"chi"		"**守住这里10秒**"
+		"enable"		"0"
+		"hammerid"		"429083"
+		"m_iname"		"End_Debris"
 	}
-	"**Wait before the airflow starts**"
+	"429110"
 	{
-		"chi"		"**在气流出现前请等待**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"429110"
+		"m_iname"		"End_Debris"
 	}
-	"**The arena gates will open in 20 seconds**"
+	"429140"
 	{
-		"chi"		"**竞技场大门将在20秒后开启**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"429140"
+		"m_iname"		"End_Debris"
 	}
-	"**Oh no the sword dissapeared..We will back there next time..**"
+	"429186"
 	{
-		"chi"		"**不！终极之剑消失了，我们下次还会再来的..**"
+		"enable"		"0"
+		"hammerid"		"429186"
+		"m_iname"		"End_Debris"
 	}
-	"**Famfrit is defeated! Now get ready to escape this place..**"
+	"429325"
 	{
-		"chi"		"**暗黑之云珐姆弗里特被击败-现在准备离开这个地方**"
+		"enable"		"0"
+		"hammerid"		"429325"
+		"m_iname"		"End_Debris"
 	}
-	"**The final gates will open in 30 seconds**"
+	"429331"
 	{
-		"chi"		"**最后的大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"429331"
+		"m_iname"		"End_Debris"
 	}
-	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	"429340"
 	{
-		"chi"		"**一位玩家拿起了雷电法杖（等级：2）**"
+		"enable"		"0"
+		"hammerid"		"429340"
+		"m_iname"		"End_Debris"
 	}
-	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	"32770"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"32770"
+		"m_iname"		"Meteor_Phys&6441"
 	}
-	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
+	"36176"
 	{
-		"chi"		"**一位僵尸学会了火魔法（等级：2）**"
+		"enable"		"0"
+		"hammerid"		"36176"
+		"m_iname"		"Fat_Nigger_Phys"
 	}
-	"**Is this over...or not?...**"
+	"5105280"
 	{
-		"chi"		"**已经结束了吗？**"
+		"enable"		"0"
+		"hammerid"		"5105280"
+		"m_iname"		"Heal_E_Pickup_Block"
 	}
-	"** You have beaten HARD MODE! Congratulations! **"
+	"5105098"
 	{
-		"chi"		"**你通过了困难难度!!!准备好挑战极限难度了吗？**"
+		"enable"		"0"
+		"hammerid"		"5105098"
+		"m_iname"		"Fire_E_Pickup_Block"
 	}
-	"**EXTREME MODE**"
+	"5105137"
 	{
-		"chi"		"**极限模式**"
+		"enable"		"0"
+		"hammerid"		"5105137"
+		"m_iname"		"Electro_E_Pickup_Block"
 	}
-	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	"5105182"
 	{
-		"chi"		"**一位玩家拿起了冰冻法杖（等级：3）**"
+		"enable"		"0"
+		"hammerid"		"5105182"
+		"m_iname"		"Blizzard_E_Pickup_Block"
 	}
-	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
+	"5105224"
 	{
-		"chi"		"**一位僵尸学会了火魔法（等级：3）**"
+		"enable"		"0"
+		"hammerid"		"5105224"
+		"m_iname"		"Darkaga_E_Pickup_Block"
 	}
-	"**Both ways will open in 25 seconds**"
+	"5105252"
 	{
-		"chi"		"**两条道路将在25秒后全部开启**"
+		"enable"		"0"
+		"hammerid"		"5105252"
+		"m_iname"		"Wind_E_Pickup_Block"
 	}
-	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+	"3626133"
 	{
-		"chi"		"**一位玩家拿起了雷电法杖（等级：3）**"
+		"enable"		"1"
+		"hammerid"		"3626133"
+		"m_iname"		"Zalera_Hitbox"
 	}
-	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	"3914866"
 	{
-		"chi"		"**你必须杀死所有僵尸才能胜利**"
+		"enable"		"0"
+		"hammerid"		"3914866"
+		"m_iname"		"Famfrit_Phys_Body_Holy"
 	}
-	"** You have beaten EXTREME MODE! Congratulations! **"
+	"3915101"
 	{
-		"chi"		"**你通过了极限难度!!!准备好挑战疯狂难度了吗？**"
+		"enable"		"0"
+		"hammerid"		"3915101"
+		"m_iname"		"Famfrit_Phys_Body_Fire"
 	}
-	"**CHAOS MODE**"
+	"3321436"
 	{
-		"chi"		"**疯狂模式**"
+		"enable"		"0"
+		"hammerid"		"3321436"
+		"m_iname"		"Stage_1_Hold_3_Crystall_2"
 	}
-	"**The Pharos is under attack!**"
+	"3322752"
 	{
-		"chi"		"**有东西挡住了我们的去路**"
+		"enable"		"0"
+		"hammerid"		"3322752"
+		"m_iname"		"Stage_1_Hold_3_Crystall_1"
 	}
-	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	"3586584"
 	{
-		"chi"		"**一位玩家拿起了黑洞法杖（等级：3）**"
+		"enable"		"0"
+		"hammerid"		"3586584"
+		"m_iname"		"Stage_1_Hold_1_Break"
 	}
-	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	"5105035"
 	{
-		"chi"		"**一位玩家拿起了火焰法杖（等级：3）**"
+		"enable"		"0"
+		"hammerid"		"5105035"
+		"m_iname"		"Berserk_E_Pickup_Block"
 	}
-	"**Someone is trying to interfere us**"
+	"2315582"
 	{
-		"chi"		"**有人在试图干扰我们**"
+		"enable"		"0"
+		"hammerid"		"2315582"
+		"m_iname"		"Stage_34_Boxes"
 	}
-	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	"2315627"
 	{
-		"chi"		"**一位玩家拿起了飓风法杖（等级：3）**"
+		"enable"		"0"
+		"hammerid"		"2315627"
+		"m_iname"		"Stage_34_Boxes"
 	}
-	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
+	"34214"
 	{
-		"chi"		"**一位玩家拿起了终极之剑**"
-	}
-	"**Gabranth has stolen the crystal. We need to stop him**"
-	{
-		"chi"		"**伽布拉斯偷走了水晶，我们需要阻止他**"
-	}
-	"**The guard is dead! Run to to the platform!**"
-	{
-		"chi"		"**卫兵死了！跑到平台上！**"
-	}
-	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
-	{
-		"chi"		"**一位玩家拿起了治疗法杖（等级：3）**"
-	}
-	"**The Zargabaath is down**"
-	{
-		"chi"		"**裁判长扎尔伽巴斯已力竭**"
-	}
-	"**The Bergan is down**"
-	{
-		"chi"		"**裁判长贝甘已力竭**"
-	}
-	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
-	{
-		"chi"		"**管理员通过调关房变更了地图难度**"
-	}
-	"**ADMIN PRESSED KILL ALL BUTTON**"
-	{
-		"chi"		"**管理员按下杀死所有人按钮**"
-	}
-	"**You are too slow..**"
-	{
-		"chi"		"**你太慢了..**"
-	}
-	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
-	{
-		"chi"		"**一位僵尸学会了黑洞魔法（等级:3）**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"2"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"3"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_armor_limit 4"
-		}
-		"6"
-		{
-			"cvar"		"zr_greneffect_napalm_he_duration 5"
-		}
-		"7"
-		{
-			"cvar"		"sm_tagging_time 2"
-		}
-		"10"
-		{
-			"cvar"		"zr_poison_enabled 0"
-		}
-		"8"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"9"
-		{
-			"cvar"		"mp_timelimit 65"
-		}
-	}
-	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
-	{
-		"chi"		"**一位僵尸学会了黑洞魔法（等级：3）**"
-	}
-	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
-	{
-		"chi"		"**一位僵尸学会了治疗魔法（等级：3）**"
-	}
-	"Zombie cage will be broken after 20 seconds"
-	{
-		"chi"		"**僵尸20秒后破笼而出**"
-	}
-	"**You are late..**"
-	{
-		"chi"		"**你来的太晚了**"
-	}
-	"**ERROR FREEZE LEVEL**(SET FREEZE LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR WIND LEVEL**(SET WIND LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR ELECTRO LEVEL**(SET ELECTRO LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR HEAL LEVEL**(SET HEAL LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR FIRE LEVEL**(SET FIRE LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"**ERROR DARK LEVEL**(SET DARK LEVEL 1)**"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"31574"
-	}
-	"**The arena entrance will open in 30 seconds**"
-	{
-		"chi"		"**竞技场大门将在30秒后打开**"
-		"DoorCountdown"		"30"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"**You have failed**"
-	{
-		"chi"		"**你失败了**"
-	}
-	"** You have beaten CHAOS MODE! Congratulations you beat the map! **"
-	{
-		"chi"		"** **"
-	}
-	"**Ported by isa**"
-	{
-		"chi"		"** **"
-	}
-	"**Hold here for 20 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Hold here for 15 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**To activate the gates you need to break the crystals in the side rooms**"
-	{
-		"chi"		"** **"
-	}
-	"**12 crystals broken**"
-	{
-		"chi"		"** **"
-	}
-	"**You got it! The gates will open in 20 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**The Zalera is defeated!**"
-	{
-		"chi"		"** **"
-	}
-	"**The end gates will close in 20 seconds. Keep defending!**"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"34214"
+		"m_iname"		"Stage_4_End_Guard_Phys"
 	}
 }

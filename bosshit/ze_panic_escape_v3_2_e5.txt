@@ -1,39 +1,123 @@
-"Console_T"
+"BOSSHP"
 {
-	"***1***"
+	"22581"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"22581"
+		"m_iname"		"final_block"
 	}
-	"Map made by xXhamadryadesXx"
+	"18497"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"18497"
+		"m_iname"		"bladewall"
 	}
-	"***Modified by Reflelia***"
+	"9547"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"9547"
+		"m_iname"		"break1"
 	}
-	"***2***"
+	"9964"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"9964"
+		"m_iname"		"break1"
 	}
-	"***3***"
+	"740"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"740"
+		"m_iname"		"break1"
 	}
-	"***4***"
+	"743"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"743"
+		"m_iname"		"break1"
 	}
-	"***5***"
+	"746"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"746"
+		"m_iname"		"break1"
 	}
-	"***COMPLETE!***"
+	"749"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"749"
+		"m_iname"		"break1"
 	}
-	"sync_version"
+	"752"
 	{
-		"syncvalue"		"51873"
+		"enable"		"0"
+		"hammerid"		"752"
+		"m_iname"		"break1"
+	}
+	"776"
+	{
+		"enable"		"0"
+		"hammerid"		"776"
+		"m_iname"		"break1"
+	}
+	"779"
+	{
+		"enable"		"0"
+		"hammerid"		"779"
+		"m_iname"		"break1"
+	}
+	"782"
+	{
+		"enable"		"0"
+		"hammerid"		"782"
+		"m_iname"		"break1"
+	}
+	"785"
+	{
+		"enable"		"0"
+		"hammerid"		"785"
+		"m_iname"		"break1"
+	}
+	"788"
+	{
+		"enable"		"0"
+		"hammerid"		"788"
+		"m_iname"		"break1"
+	}
+	"791"
+	{
+		"enable"		"0"
+		"hammerid"		"791"
+		"m_iname"		"break1"
+	}
+	"794"
+	{
+		"enable"		"0"
+		"hammerid"		"794"
+		"m_iname"		"break1"
+	}
+	"797"
+	{
+		"enable"		"0"
+		"hammerid"		"797"
+		"m_iname"		"break1"
+	}
+	"800"
+	{
+		"enable"		"0"
+		"hammerid"		"800"
+		"m_iname"		"break1"
+	}
+	"18529"
+	{
+		"enable"		"0"
+		"hammerid"		"18529"
+		"m_iname"		"bladewall2"
+	}
+	"22625"
+	{
+		"enable"		"0"
+		"hammerid"		"22625"
+		"m_iname"		"final_bblock"
 	}
 }

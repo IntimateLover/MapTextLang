@@ -1,342 +1,623 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Level 1 ***"
+	"boss"
 	{
-		"chi"		"第[ 1 ]关 "
+		"enable"		"1"
 	}
-	"* Turning music on *"
+	"boss_nade"
 	{
-		"chi"		"BGM开启"
+		"enable"		"1"
 	}
-	"*** Player has picked up Ammo Box ***"
+	"Cannon"
 	{
-		"chi"		"一位玩家捡起弹药箱"
+		"enable"		"1"
 	}
-	"*** Player has picked up Flamethrower ***"
+	"ammo_model"
 	{
-		"chi"		"一位玩家捡起喷火器"
+		"enable"		"0"
 	}
-	"*** Gate opening ***"
+	"lego_buttonprop"
 	{
-		"chi"		"大门已开"
+		"enable"		"1"
 	}
-	"*** Door opens in 35 seconds ***"
+	"heal_kit"
 	{
-		"chi"		"门将35秒后打开"
-		"DoorCountDown"		"35"
+		"enable"		"0"
 	}
-	"*** Door opens in 25 seconds ***"
+	"mine_carry"
 	{
-		"chi"		"门将25秒后打开"
+		"enable"		"0"
 	}
-	"*** 10 seconds left ***"
+	"kim2"
 	{
-		"chi"		"还剩10秒"
+		"enable"		"1"
 	}
-	"*** Door is Opening ***"
+	"pass2"
 	{
-		"chi"		"门开了"
+		"enable"		"1"
 	}
-	"*** Door Opening in 25 seconds! ***"
+	"Pushgun"
 	{
-		"chi"		"门将25秒后打开"
-		"DoorCountDown"		"25"
+		"enable"		"0"
 	}
-	"*** FALL BACK ***"
+	"rickroll_physbox"
 	{
-		"chi"		"快跑！！！"
+		"enable"		"1"
 	}
-	">>> Hold for 15 seconds! <<<"
+	"ubercannon_box"
 	{
-		"chi"		"守住15秒"
+		"enable"		"1"
 	}
-	">>> Hold for a bit more! <<<"
+	"uber_colorbutton"
 	{
-		"chi"		"再守多一会"
+		"enable"		"1"
 	}
-	"*** Teleporter Activates in 20 Seconds ***"
+	"mouth_phbox"
 	{
-		"chi"		"传送门20秒后开启"
-		"DoorCountDown"		"20"
+		"enable"		"1"
 	}
-	"*** Door opens in 30 seconds ***"
+	"robophbox"
 	{
-		"chi"		"门30秒后开启"
+		"enable"		"1"
 	}
-	"*** OH NOOES ***"
+	"mouth_nade"
 	{
-		"chi"		"卧槽"
+		"enable"		"1"
 	}
-	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+	"roboboss_nade"
 	{
-		"chi"		"快把boss杀了"
+		"enable"		"1"
 	}
-	"*** Player has picked up HandCannon ***"
+	"roboboss_phbox"
 	{
-		"chi"		"一位玩家捡起加农炮"
+		"enable"		"1"
 	}
-	"*** Player has picked up Lego Maker ***"
+	"CY01Physic3"
 	{
-		"chi"		"一位玩家捡起墙"
+		"enable"		"1"
 	}
-	"*** Player has picked up Explosive Mines ***"
+	"CY01Physic"
 	{
-		"chi"		"一位玩家捡起地雷"
+		"enable"		"1"
 	}
-	"*** Player has picked up Grenade Maker ***"
+	"CY01Physic2"
 	{
-		"chi"		"一位玩家捡起手雷盒"
+		"enable"		"1"
 	}
-	"*** Player has picked up Heal ***"
+	"flame_phbox"
 	{
-		"chi"		"一位玩家捡起治疗"
+		"enable"		"0"
 	}
-	"*** Player has picked up PushGun ***"
+	"retard_physbox"
 	{
-		"chi"		"一位玩家捡起驱逐枪"
+		"enable"		"1"
 	}
-	"*** RICK ASTLEY IS DEAD ***"
+	"retard_physbox2"
 	{
-		"chi"		"boss死了"
+		"enable"		"1"
 	}
-	"*** Hold here for 20 seconds ***"
+	"eye"
 	{
-		"chi"		"守住这20秒"
+		"enable"		"1"
 	}
-	"*** Hold 20 second for victory! ***"
+	"2391"
 	{
-		"chi"		"离胜利还有20秒"
+		"enable"		"0"
+		"hammerid"		"2391"
+		"m_iname"		"bridge_break3"
 	}
-	"*** Level Completed ***"
+	"2716"
 	{
-		"chi"		"第一关完成"
+		"enable"		"1"
+		"hammerid"		"2716"
+		"m_iname"		"boss_break"
 	}
-	"*** Level 2 ***"
+	"2739"
 	{
-		"chi"		"第二关"
+		"enable"		"1"
+		"hammerid"		"2739"
+		"m_iname"		"boss_z_wall"
 	}
-	">>> Hold until the path is cleared! <<<"
+	"3047"
 	{
-		"chi"		"僵尸传送点要提前了快跑！"
+		"enable"		"1"
+		"hammerid"		"3047"
+		"m_iname"		"boss_3_entry_break"
 	}
-	">>> GO GO GO <<<"
+	"3136"
 	{
-		"chi"		"跑跑跑！！！"
+		"enable"		"1"
+		"hammerid"		"3136"
+		"m_iname"		"boss_3_exitbreak"
 	}
-	"*** Defend for 25 seconds ***"
+	"4244"
 	{
-		"chi"		"防守25秒"
+		"enable"		"1"
+		"hammerid"		"4244"
+		"m_iname"		"level3bossbreak"
 	}
-	">>> Hold until the door opens! <<<"
+	"73443"
 	{
-		"chi"		"守住直到门打开"
+		"enable"		"1"
+		"hammerid"		"73443"
+		"m_iname"		"boss_win_break"
 	}
-	"*** Right Door Opens in 10 seconds ***"
+	"4559"
 	{
-		"chi"		"右边的门10秒后打开"
+		"enable"		"0"
+		"hammerid"		"4559"
+		"m_iname"		"Cannon_brick&0759"
 	}
-	"*** Left Door Opens in 10 seconds ***"
+	"1993"
 	{
-		"chi"		"左边的门10秒后打开"
+		"enable"		"1"
+		"hammerid"		"1993"
+		"m_iname"		"boss_phbox"
 	}
-	"*** Success! ***"
+	"3138"
 	{
-		"chi"		"成功！！！"
+		"enable"		"1"
+		"hammerid"		"3138"
+		"m_iname"		"boss3_break1"
 	}
-	"*** Doors open in 30 seconds ***"
+	"3140"
 	{
-		"chi"		"大门30秒后打开"
-		"DoorCountDown"		"30"
+		"enable"		"1"
+		"hammerid"		"3140"
+		"m_iname"		"boss3_break2"
 	}
-	"*** The Boss is dead! ***"
+	"4423"
 	{
-		"chi"		"boss死了！！"
+		"enable"		"1"
+		"hammerid"		"4423"
+		"m_iname"		"boss3_break1"
 	}
-	">>> Hold The Zombies Until Door Opens <<<"
+	"23192"
 	{
-		"chi"		"守住这里直到门开"
+		"enable"		"0"
+		"hammerid"		"23192"
+		"m_iname"		"mine_phbox&2489"
 	}
-	"*** Elevator is Leaving in 20 seconds ***"
+	"4589"
 	{
-		"chi"		"电梯20秒后离开"
+		"enable"		"0"
+		"hammerid"		"4589"
+		"m_iname"		"retard_bomb&2620"
 	}
-	"*** Level 3 ***"
+	"2080"
 	{
-		"chi"		"第三关"
+		"enable"		"1"
+		"hammerid"		"2080"
+		"m_iname"		"BossRollingCrap&8132"
 	}
-	">>> Hold until the path is clear! <<<"
+	"251161"
 	{
-		"chi"		"僵尸要传送啦，快跑！！！"
+		"enable"		"0"
+		"hammerid"		"251161"
+		"m_iname"		"legodebris&6321"
 	}
-	"*** Ladders open in 30 seconds ***"
+	"435693"
 	{
-		"chi"		"梯子30秒后出现"
+		"enable"		"1"
+		"hammerid"		"435693"
+		"m_iname"		"eyeboss_physic"
 	}
-	"*** HOLD Until the path is clear ***"
+	"592951"
 	{
-		"chi"		"僵尸要传送啦，快跑！！！"
+		"enable"		"1"
+		"hammerid"		"592951"
+		"m_iname"		"eyebossnade"
 	}
-	"*** GO GO GO ***"
+	"1911"
 	{
-		"chi"		"跑跑跑！！！"
+		"enable"		"0"
+		"hammerid"		"1911"
+		"m_iname"		"blockade&1168"
 	}
-	"*** Door opens in 10 seconds ***"
+	"4533"
 	{
-		"chi"		"门10秒后开启"
+		"enable"		"0"
+		"hammerid"		"4533"
+		"m_iname"		"Cannon"
 	}
-	"*** Hold here for 30 seconds ***"
+	"1980"
 	{
-		"chi"		"守住这里30秒"
+		"enable"		"0"
+		"hammerid"		"1980"
+		"m_iname"		"CY01Physic3"
 	}
-	"*** Door Opens in 5 seconds ***"
+	"2599"
 	{
-		"chi"		"门还有5秒打开"
+		"enable"		"1"
+		"hammerid"		"2599"
+		"m_iname"		"boss"
 	}
-	"*** Door Opens in 4 seconds ***"
+	"2407"
 	{
-		"chi"		"门还有4秒打开"
+		"enable"		"1"
+		"hammerid"		"2407"
+		"m_iname"		"boss_nade"
 	}
-	"*** Door Opens in 3 seconds ***"
+	"4510"
 	{
-		"chi"		"门还有3秒打开"
+		"enable"		"0"
+		"hammerid"		"4510"
+		"m_iname"		"ammo_model"
 	}
-	"*** Door Opens in 2 seconds ***"
+	"24427"
 	{
-		"chi"		"门还有2秒打开"
+		"enable"		"0"
+		"hammerid"		"24427"
+		"m_iname"		"lego_buttonprop"
 	}
-	"*** Door Opens in 1 second ***"
+	"4633"
 	{
-		"chi"		"门还有1秒打开"
+		"enable"		"0"
+		"hammerid"		"4633"
+		"m_iname"		"heal_kit"
 	}
-	"*** The Ship Thingy is Destroyed! ***"
+	"23669"
 	{
-		"chi"		"boss已被击败"
+		"enable"		"0"
+		"hammerid"		"23669"
+		"m_iname"		"mine_carry"
 	}
-	"*** Defend for 25 seconds! ***"
+	"1927"
 	{
-		"chi"		"守住这里25秒"
+		"enable"		"0"
+		"hammerid"		"1927"
+		"m_iname"		"flame_phbox"
 	}
-	"*** Tram Leaves in 35 seconds ***"
+	"1684"
 	{
-		"chi"		"缆车35秒后离开"
-		"DoorCountDown"		"35"
+		"enable"		"0"
+		"hammerid"		"1684"
+		"m_iname"		"CY01Physic"
 	}
-	"*** You got both items to the end ***"
+	"1863"
 	{
-		"chi"		"你们把这两样东西带来了"
+		"enable"		"0"
+		"hammerid"		"1863"
+		"m_iname"		"CY01Physic2"
 	}
-	"*** Defending Will be easier Now! ***"
+	"1896"
 	{
-		"chi"		"防守就会更简单点"
+		"enable"		"0"
+		"hammerid"		"1896"
+		"m_iname"		"Pushgun"
 	}
-	"*** 15 seconds left ***"
+	"2191"
 	{
-		"chi"		"离胜利只有15秒了！"
+		"enable"		"1"
+		"hammerid"		"2191"
+		"m_iname"		"retard_physbox"
 	}
-	"*** 5 seconds left ***"
+	"2875"
 	{
-		"chi"		"离胜利只有5秒了！"
+		"enable"		"0"
+		"hammerid"		"2875"
+		"m_iname"		"kim2"
 	}
-	"*** Tram is leaving ***"
+	"2887"
 	{
-		"chi"		"缆车开走了"
+		"enable"		"0"
+		"hammerid"		"2887"
+		"m_iname"		"pass2"
 	}
-	"** Turning on:... **"
+	"163813"
 	{
-		"chi"		"开启模式："
+		"enable"		"0"
+		"hammerid"		"163813"
+		"m_iname"		"retard_physbox2"
 	}
-	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+	"403923"
 	{
-		"chi"		"天谴模式"
+		"enable"		"1"
+		"hammerid"		"403923"
+		"m_iname"		"rickroll_physbox"
 	}
-	"*** Door Opening in 30 seconds! ***"
+	"25251"
 	{
-		"chi"		"门将于30秒后打开"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"25251"
+		"m_iname"		"ubercannon_box"
 	}
-	"*** OH NO ITS AN EVIL ROBO BOSS ***"
+	"37163"
 	{
-		"chi"		"卧槽这是什么鬼"
+		"enable"		"0"
+		"hammerid"		"37163"
+		"m_iname"		"uber_colorbutton"
 	}
-	"*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***"
+	"815871"
 	{
-		"chi"		"开枪打他，不要划水！"
+		"enable"		"0"
+		"hammerid"		"815871"
+		"m_iname"		"SpawnBreak"
 	}
-	"*** YOU HAVE DEFEATED THE ROBO BOSS ***"
+	"815891"
 	{
-		"chi"		"你打败了BOSS"
+		"enable"		"0"
+		"hammerid"		"815891"
+		"m_iname"		"SpawnBreak"
 	}
-	"*** TIME TO RUN NOW ***"
+	"2508"
 	{
-		"chi"		"是时候跑路了"
+		"enable"		"0"
+		"hammerid"		"2508"
+		"m_iname"		"BreakableWhore"
 	}
-	"*** Ladders open in 25 seconds ***"
+	"1689"
 	{
-		"chi"		"梯子25秒后出现"
+		"enable"		"0"
+		"hammerid"		"1689"
+		"m_iname"		"break2"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"1698"
 	{
-		"chi"		"门于20秒后开放"
+		"enable"		"0"
+		"hammerid"		"1698"
+		"m_iname"		"Break1First"
 	}
-	"*** Hold here for 25 seconds ***"
+	"1705"
 	{
-		"chi"		"守住这里25秒"
+		"enable"		"0"
+		"hammerid"		"1705"
+		"m_iname"		"Break3"
 	}
-	">>> THE EVIL EYE IS DEAD <<<"
+	"1714"
 	{
-		"chi"		"邪恶之眼已死"
+		"enable"		"0"
+		"hammerid"		"1714"
+		"m_iname"		"break5"
 	}
-	">>> NOW IS THE TIME TO ESCAPE FROM THIS FORSAKEN PLACE <<<"
+	"1723"
 	{
-		"chi"		"逃离这个鬼地方"
+		"enable"		"0"
+		"hammerid"		"1723"
+		"m_iname"		"Break4"
 	}
-	"*** Tram Leaves in 45 seconds ***"
+	"1732"
 	{
-		"chi"		"缆车45秒后离开"
-		"DoorCountDown"		"45"
+		"enable"		"0"
+		"hammerid"		"1732"
+		"m_iname"		"break7"
 	}
-	"*** 25 seconds left ***"
+	"1741"
 	{
-		"chi"		"还有25秒"
+		"enable"		"0"
+		"hammerid"		"1741"
+		"m_iname"		"break6"
 	}
-	"*** Zombie at the end YOU FAIL ***"
+	"1750"
 	{
-		"chi"		"**僵尸到达了最后 你输了**"
+		"enable"		"0"
+		"hammerid"		"1750"
+		"m_iname"		"break9"
 	}
-	"*** Zombie in elevator You Fail ***"
+	"1759"
 	{
-		"chi"		"**僵尸进去了电梯 你输了 **"
+		"enable"		"0"
+		"hammerid"		"1759"
+		"m_iname"		"break8"
 	}
-	"*** Nice Job You Have Beaten FapEscape! ***"
+	"1768"
 	{
-		"chi"		"**很好 你打败了FapEscape **"
+		"enable"		"0"
+		"hammerid"		"1768"
+		"m_iname"		"break11"
 	}
-	"*** ZM ***"
+	"1777"
 	{
-		"chi"		"**ZM模式**"
+		"enable"		"0"
+		"hammerid"		"1777"
+		"m_iname"		"break10"
 	}
-	"*** Survive for 3 Minutes ***"
+	"1786"
 	{
-		"chi"		"**生存3分钟**"
+		"enable"		"0"
+		"hammerid"		"1786"
+		"m_iname"		"break12"
 	}
-	"*** Zombie on the tram ***"
+	"1795"
 	{
-		"chi"		"**僵尸在缆车上了**"
+		"enable"		"0"
+		"hammerid"		"1795"
+		"m_iname"		"break14"
 	}
-	"*** YOU FAIL ***"
+	"1804"
 	{
-		"chi"		"**你输了**"
+		"enable"		"0"
+		"hammerid"		"1804"
+		"m_iname"		"break13"
 	}
-	"*** YOU SUCK ***"
+	"1813"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1813"
+		"m_iname"		"break15"
 	}
-	"*** OH NO.. ***"
+	"1820"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1820"
+		"m_iname"		"break17"
 	}
-	"The server is about to close the update ,Please update your game"
+	"1830"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1830"
+		"m_iname"		"break16"
+	}
+	"1839"
+	{
+		"enable"		"0"
+		"hammerid"		"1839"
+		"m_iname"		"break18Last"
+	}
+	"2442"
+	{
+		"enable"		"0"
+		"hammerid"		"2442"
+		"m_iname"		"breaktheend"
+	}
+	"2446"
+	{
+		"enable"		"0"
+		"hammerid"		"2446"
+		"m_iname"		"breaktheendbefore"
+	}
+	"2681"
+	{
+		"enable"		"0"
+		"hammerid"		"2681"
+		"m_iname"		"stage1_break"
+	}
+	"2785"
+	{
+		"enable"		"0"
+		"hammerid"		"2785"
+		"m_iname"		"end_break1"
+	}
+	"2817"
+	{
+		"enable"		"0"
+		"hammerid"		"2817"
+		"m_iname"		"end_break2"
+	}
+	"2966"
+	{
+		"enable"		"0"
+		"hammerid"		"2966"
+		"m_iname"		"end_break3"
+	}
+	"2990"
+	{
+		"enable"		"0"
+		"hammerid"		"2990"
+		"m_iname"		"break_tyng1"
+	}
+	"3110"
+	{
+		"enable"		"0"
+		"hammerid"		"3110"
+		"m_iname"		"stage_3_cage_break"
+	}
+	"3355"
+	{
+		"enable"		"0"
+		"hammerid"		"3355"
+		"m_iname"		"stage_3_blockbraek"
+	}
+	"3357"
+	{
+		"enable"		"0"
+		"hammerid"		"3357"
+		"m_iname"		"stage_1_linearbreak1"
+	}
+	"3361"
+	{
+		"enable"		"0"
+		"hammerid"		"3361"
+		"m_iname"		"stage_1_linearbreak2"
+	}
+	"3405"
+	{
+		"enable"		"0"
+		"hammerid"		"3405"
+		"m_iname"		"stage_2_breakhold"
+	}
+	"3518"
+	{
+		"enable"		"0"
+		"hammerid"		"3518"
+		"m_iname"		"stage_3_blockbraek2"
+	}
+	"3770"
+	{
+		"enable"		"0"
+		"hammerid"		"3770"
+		"m_iname"		"stage_2_endbreak"
+	}
+	"4247"
+	{
+		"enable"		"0"
+		"hammerid"		"4247"
+		"m_iname"		"break_stage_3_1"
+	}
+	"4296"
+	{
+		"enable"		"0"
+		"hammerid"		"4296"
+		"m_iname"		"lvl1_vents"
+	}
+	"4505"
+	{
+		"enable"		"0"
+		"hammerid"		"4505"
+		"m_iname"		"stage3normalbreak"
+	}
+	"425502"
+	{
+		"enable"		"0"
+		"hammerid"		"425502"
+		"m_iname"		"banana_secret1"
+	}
+	"414006"
+	{
+		"enable"		"0"
+		"hammerid"		"414006"
+		"m_iname"		"uber_breakpath2"
+	}
+	"2624"
+	{
+		"enable"		"0"
+		"hammerid"		"2624"
+		"m_iname"		"BreakableWhore2"
+	}
+	"2657"
+	{
+		"enable"		"0"
+		"hammerid"		"2657"
+		"m_iname"		"BreakableWhore3"
+	}
+	"112378"
+	{
+		"enable"		"0"
+		"hammerid"		"112378"
+		"m_iname"		"uber_breakpath"
+	}
+	"326991"
+	{
+		"enable"		"0"
+		"hammerid"		"326991"
+		"m_iname"		"robophbox"
+	}
+	"329997"
+	{
+		"enable"		"1"
+		"hammerid"		"329997"
+		"m_iname"		"roboboss_nade"
+	}
+	"404024"
+	{
+		"enable"		"1"
+		"hammerid"		"404024"
+		"m_iname"		"roboboss_phbox"
+	}
+	"437066"
+	{
+		"enable"		"1"
+		"hammerid"		"437066"
+		"m_iname"		"eye"
+	}
+	"233468"
+	{
+		"enable"		"1"
+	}
+	"233462"
+	{
+		"enable"		"1"
+		"hammerid"		"233462"
+		"m_iname"		"mouth_phbox"
 	}
 }

@@ -1,35 +1,91 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Nuclear Launch Detected ***"
+	"auto2"
 	{
-		"chi"		"**核爆开始 **"
+		"enable"		"0"
 	}
-	"*** 45 SECONDS UNTIL IMPACT ***"
+	"Braumschiff"
 	{
-		"chi"		"**核爆将在45秒后开始 **"
+		"enable"		"0"
 	}
-	"*** PROCEED TO A SAFE ZONE IMMEDIATELY ***"
+	"Braumschiff1"
 	{
-		"chi"		"**立刻进入安全小屋 **"
+		"enable"		"0"
 	}
-	"*** THERE ARE THREE BUNKERS IN THE MAP TO SURVIVE THE NUKE ***"
+	"auto1"
 	{
-		"chi"		"**这张地图中有三间小屋可以免疫核爆打击 **"
+		"enable"		"0"
 	}
-	"*** 20 SECONDS UNTIL IMPACT ***"
+	"81056"
 	{
-		"chi"		"**核爆将在20秒后开始 **"
+		"enable"		"0"
+		"hammerid"		"81056"
+		"m_iname"		"Shell Box"
 	}
-	"*** TEN SECONDS UNTIL IMPACT ***"
+	"80046"
 	{
-		"chi"		"**核爆将在10秒后开始 **"
+		"enable"		"1"
+		"hammerid"		"80046"
+		"m_iname"		"Blaser_hitbox_2&2200"
 	}
-	"*** Radiation Dispersed ***"
+	"80034"
 	{
-		"chi"		"**核爆消失 [zm开始] **"
+		"enable"		"1"
+		"hammerid"		"80034"
+		"m_iname"		"Blaser_hitbox_01&2197"
 	}
-	"*** Survive for the time remaining or hunt the zombies ***"
+	"80088"
 	{
-		"chi"		"**在剩余的时间里活下来或者杀掉僵尸 **"
+		"enable"		"1"
+		"hammerid"		"80088"
+		"m_iname"		"Blaser_hitbox_4&2201"
+	}
+	"80085"
+	{
+		"enable"		"1"
+		"hammerid"		"80085"
+		"m_iname"		"Blaser_hitbox_3&2198"
+	}
+	"81501"
+	{
+		"enable"		"0"
+		"hammerid"		"81501"
+		"m_iname"		"BreakDoor"
+	}
+	"81581"
+	{
+		"enable"		"0"
+		"hammerid"		"81581"
+		"m_iname"		"Exploding Wall"
+	}
+	"81675"
+	{
+		"enable"		"0"
+		"hammerid"		"81675"
+		"m_iname"		"Hatch"
+	}
+	"274721"
+	{
+		"enable"		"0"
+		"hammerid"		"274721"
+		"m_iname"		"auto2"
+	}
+	"79858"
+	{
+		"enable"		"0"
+		"hammerid"		"79858"
+		"m_iname"		"Braumschiff"
+	}
+	"80156"
+	{
+		"enable"		"0"
+		"hammerid"		"80156"
+		"m_iname"		"Braumschiff1"
+	}
+	"81221"
+	{
+		"enable"		"0"
+		"hammerid"		"81221"
+		"m_iname"		"auto1"
 	}
 }

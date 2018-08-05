@@ -1,111 +1,231 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Doors will break in 20 secounds***"
+	"83734"
 	{
-		"chi"		"**门将在20秒后打开**"
+		"enable"		"0"
+		"hammerid"		"83734"
+		"m_iname"		"ruin2"
 	}
-	"***We must get into the Other its is where the god heart lies***"
+	"83796"
 	{
-		"chi"		"**去神的心脏的所在地**"
+		"enable"		"0"
+		"hammerid"		"83796"
+		"m_iname"		"ruin2"
 	}
-	"***We can get into the Other by takeing the portal outside these doors***"
+	"99963"
 	{
-		"chi"		"**可以通过传送门到达**"
+		"enable"		"0"
+		"hammerid"		"99963"
+		"m_iname"		"ruin4"
 	}
-	"****Map created by GrandOp****"
+	"14915"
 	{
-		"chi"		"**地图由GrandOP制作&dy2084翻译**"
+		"enable"		"0"
+		"hammerid"		"14915"
+		"m_iname"		"gate1"
 	}
-	"***Find the next portal and jump into it***"
+	"11151"
 	{
-		"chi"		"**跳进传送门中**"
+		"enable"		"0"
+		"hammerid"		"11151"
+		"m_iname"		"gate1"
 	}
-	"****Zombie burner gun will set all zombies close by on fire****"
+	"29828"
 	{
-		"chi"		"**喷火器将会点燃所有靠近的僵尸**"
+		"enable"		"0"
+		"hammerid"		"29828"
+		"m_iname"		"spawn_door"
 	}
-	"***Dont stay here for too long!***"
+	"29845"
 	{
-		"chi"		"**别在这儿待太久**"
+		"enable"		"0"
+		"hammerid"		"29845"
+		"m_iname"		"spawn_door"
 	}
-	"***Wind!***"
+	"29853"
 	{
-		"chi"		"**狂风袭来！**"
+		"enable"		"0"
+		"hammerid"		"29853"
+		"m_iname"		"spawn_door"
 	}
-	"***Metal fence will be destroyed in 14 secounds***"
+	"68902"
 	{
-		"chi"		"**铁栅栏在14秒后打开**"
+		"enable"		"0"
+		"hammerid"		"68902"
+		"m_iname"		"trap_floor1"
 	}
-	"****Zombie burner will reset in 40 secounds****"
+	"73804"
 	{
-		"chi"		"**喷火器在40后冷却完毕**"
+		"enable"		"0"
+		"hammerid"		"73804"
+		"m_iname"		"shield"
 	}
-	"****Zombies close by will burn!****"
+	"113711"
 	{
-		"chi"		"**附近的僵尸会被点燃**"
+		"enable"		"0"
+		"hammerid"		"113711"
+		"m_iname"		"blocker_1"
 	}
-	"***Metal wall is down!***"
+	"113971"
 	{
-		"chi"		"** 铁墙已倒塌**"
+		"enable"		"0"
+		"hammerid"		"113971"
+		"m_iname"		"b1"
 	}
-	"***Destroy the crystals and wait for the bridge to appear***"
+	"115060"
 	{
-		"chi"		"**摧毁水晶并等待桥梁出现**"
+		"enable"		"0"
+		"hammerid"		"115060"
+		"m_iname"		"vents1"
 	}
-	"***Bridge has been atevated***"
+	"115076"
 	{
-		"chi"		"**桥梁已架起**"
+		"enable"		"0"
+		"hammerid"		"115076"
+		"m_iname"		"vents1"
 	}
-	"***A chunk of floor is breaking off! we can ride it to the other side!***"
+	"123148"
 	{
-		"chi"		"**地板正在崩塌，穿过这里**"
+		"enable"		"0"
+		"hammerid"		"123148"
+		"m_iname"		"bb_1"
 	}
-	"***Destroy the crystals to enable the bridge***"
+	"123176"
 	{
-		"chi"		"**摧毁水晶以启动桥梁**"
+		"enable"		"0"
+		"hammerid"		"123176"
+		"m_iname"		"bb_3"
 	}
-	"***Defend your self untill the gate opens***"
+	"123179"
 	{
-		"chi"		"**防守直到大门打开**"
+		"enable"		"0"
+		"hammerid"		"123179"
+		"m_iname"		"bb_2"
 	}
-	"***The gate is opening!***"
+	"115079"
 	{
-		"chi"		"**大门已打开**"
+		"enable"		"0"
+		"hammerid"		"115079"
+		"m_iname"		"vents1"
 	}
-	"***You have made it to the Citadel***"
+	"115088"
 	{
-		"chi"		"**你已成功到达心之要塞**"
+		"enable"		"0"
+		"hammerid"		"115088"
+		"m_iname"		"vents1"
 	}
-	"***Destroy the crystals powering the God's heart***"
+	"125656"
 	{
-		"chi"		"**摧毁给神之心脏供能的水晶**"
+		"enable"		"0"
+		"hammerid"		"125656"
+		"m_iname"		"vents1"
 	}
-	"***Run back to the portal!***"
+	"125659"
 	{
-		"chi"		"**回到传送门**"
+		"enable"		"0"
+		"hammerid"		"125659"
+		"m_iname"		"vents1"
 	}
-	"***You got 60 secounds to get out of the Other***"
+	"125662"
 	{
-		"chi"		"**你有60秒时间逃出界外**"
+		"enable"		"0"
+		"hammerid"		"125662"
+		"m_iname"		"vents1"
 	}
-	"***The Other is going to hell! Make sure your  inside the saferoom when it blows***"
+	"125665"
 	{
-		"chi"		"**界外正在崩塌，确保你在安全室内**"
+		"enable"		"0"
+		"hammerid"		"125665"
+		"m_iname"		"vents1"
 	}
-	"***Got 15 secounds to get inside the safe room!***"
+	"117477"
 	{
-		"chi"		"**还有15秒时间进入安全室**"
+		"enable"		"0"
+		"hammerid"		"117477"
+		"m_iname"		"spawn_gate"
 	}
-	"***Safe room door is closeing***"
+	"117480"
 	{
-		"chi"		"**安全室已关闭**"
+		"enable"		"0"
+		"hammerid"		"117480"
+		"m_iname"		"spawn_gate"
 	}
-	"****Zombie burner gunHuman healer gun****"
+	"117483"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"117483"
+		"m_iname"		"spawn_gate"
 	}
-	"***Destroy the crystals powering the Gods heart***"
+	"41190"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"41190"
+		"m_iname"		"bridge1"
+	}
+	"79160"
+	{
+		"enable"		"0"
+		"hammerid"		"79160"
+		"m_iname"		"ruin1"
+	}
+	"79208"
+	{
+		"enable"		"0"
+		"hammerid"		"79208"
+		"m_iname"		"ruin1"
+	}
+	"79216"
+	{
+		"enable"		"0"
+		"hammerid"		"79216"
+		"m_iname"		"ruin1"
+	}
+	"79224"
+	{
+		"enable"		"0"
+		"hammerid"		"79224"
+		"m_iname"		"ruin1"
+	}
+	"79232"
+	{
+		"enable"		"0"
+		"hammerid"		"79232"
+		"m_iname"		"ruin1"
+	}
+	"79240"
+	{
+		"enable"		"0"
+		"hammerid"		"79240"
+		"m_iname"		"ruin1"
+	}
+	"79247"
+	{
+		"enable"		"0"
+		"hammerid"		"79247"
+		"m_iname"		"ruin1"
+	}
+	"79250"
+	{
+		"enable"		"0"
+		"hammerid"		"79250"
+		"m_iname"		"ruin1"
+	}
+	"79280"
+	{
+		"enable"		"0"
+		"hammerid"		"79280"
+		"m_iname"		"ruin1"
+	}
+	"79295"
+	{
+		"enable"		"0"
+		"hammerid"		"79295"
+		"m_iname"		"ruin1"
+	}
+	"79325"
+	{
+		"enable"		"0"
+		"hammerid"		"79325"
+		"m_iname"		"ruin1"
 	}
 }

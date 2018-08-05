@@ -1,74 +1,465 @@
-"Console_T"
+"BOSSHP"
 {
-	"MapGlobal_ConVars"
+	"239175"
 	{
-		"0"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
+		"enable"		"0"
+		"hammerid"		"239175"
+		"m_iname"		"Lift_A_Top_Breakable"
 	}
-	"**** Spawn will open in 25 seconds****"
+	"239240"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"239240"
+		"m_iname"		"Lift_A_Sides_Breakable"
 	}
-	"****Map Created By GrandOp****"
+	"239258"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"239258"
+		"m_iname"		"Lift_B_Top_Breakable"
 	}
-	"****Get to the center and get on the lift!****"
+	"239263"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"239263"
+		"m_iname"		"Lift_B_Sides_Breakable"
 	}
-	"****Lift will leave in 30 seconds!****"
+	"63215"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"63215"
+		"m_iname"		"door1"
 	}
-	"***The Void. Made By GrandOp****"
+	"123061"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"123061"
+		"m_iname"		"lift_ladder1"
 	}
-	"***Gate closing in 10 seconds***"
+	"136931"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"136931"
+		"m_iname"		"sand_trap1"
 	}
-	"***Hold for 45 seconds***"
+	"136965"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"136965"
+		"m_iname"		"sand_trap1"
 	}
-	"***Gate is open!***"
+	"137089"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"137089"
+		"m_iname"		"door1"
 	}
-	"***Climb to the top of the Spire!***"
+	"137097"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"137097"
+		"m_iname"		"door1"
 	}
-	"***Get inside the Spire before the Blowout***"
+	"159914"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"159914"
+		"m_iname"		"ice_break1"
 	}
-	"***Everything going to die Outside the Spire!***"
+	"123017"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"123017"
+		"m_iname"		"lift_ladder1"
 	}
-	"****Lift 1 is about to go****"
+	"121310"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"121310"
+		"m_iname"		"lift_ladder_break1"
 	}
-	"****The Ice Guarding the Spire is Gone****"
+	"122366"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"122366"
+		"m_iname"		"lift_ladder_break1"
 	}
-	"***Its going to blow!***"
+	"122486"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"122486"
+		"m_iname"		"lift_ladder_break2"
 	}
-	"****Hold your ground! The spire will open soon... You must get in to stay alive!****"
+	"145345"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"145345"
+		"m_iname"		"lift_ladder1"
 	}
-	"****Lift 2 is about to go****"
+	"140185"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"140185"
+		"m_iname"		"lift_ladder_break4"
+	}
+	"140181"
+	{
+		"enable"		"0"
+		"hammerid"		"140181"
+		"m_iname"		"lift_ladder_break3"
+	}
+	"163774"
+	{
+		"enable"		"0"
+		"hammerid"		"163774"
+		"m_iname"		"lift_ladder_break3"
+	}
+	"22947"
+	{
+		"enable"		"0"
+		"hammerid"		"22947"
+		"m_iname"		"b1"
+	}
+	"22963"
+	{
+		"enable"		"0"
+		"hammerid"		"22963"
+		"m_iname"		"b1"
+	}
+	"22996"
+	{
+		"enable"		"0"
+		"hammerid"		"22996"
+		"m_iname"		"b1"
+	}
+	"203003"
+	{
+		"enable"		"0"
+		"hammerid"		"203003"
+		"m_iname"		"b1"
+	}
+	"203153"
+	{
+		"enable"		"0"
+		"hammerid"		"203153"
+		"m_iname"		"b1"
+	}
+	"203159"
+	{
+		"enable"		"0"
+		"hammerid"		"203159"
+		"m_iname"		"b1"
+	}
+	"203162"
+	{
+		"enable"		"0"
+		"hammerid"		"203162"
+		"m_iname"		"b1"
+	}
+	"133458"
+	{
+		"enable"		"0"
+		"hammerid"		"133458"
+		"m_iname"		"gate_break26"
+	}
+	"133443"
+	{
+		"enable"		"0"
+		"hammerid"		"133443"
+		"m_iname"		"gate_break25"
+	}
+	"133277"
+	{
+		"enable"		"0"
+		"hammerid"		"133277"
+		"m_iname"		"gate_break23"
+	}
+	"133262"
+	{
+		"enable"		"0"
+		"hammerid"		"133262"
+		"m_iname"		"gate_break22"
+	}
+	"133247"
+	{
+		"enable"		"0"
+		"hammerid"		"133247"
+		"m_iname"		"gate_break21"
+	}
+	"133232"
+	{
+		"enable"		"0"
+		"hammerid"		"133232"
+		"m_iname"		"gate_break20"
+	}
+	"133217"
+	{
+		"enable"		"0"
+		"hammerid"		"133217"
+		"m_iname"		"gate_break19"
+	}
+	"133202"
+	{
+		"enable"		"0"
+		"hammerid"		"133202"
+		"m_iname"		"gate_break18"
+	}
+	"133006"
+	{
+		"enable"		"0"
+		"hammerid"		"133006"
+		"m_iname"		"gate_break17"
+	}
+	"132991"
+	{
+		"enable"		"0"
+		"hammerid"		"132991"
+		"m_iname"		"gate_break16"
+	}
+	"132976"
+	{
+		"enable"		"0"
+		"hammerid"		"132976"
+		"m_iname"		"gate_break15"
+	}
+	"132961"
+	{
+		"enable"		"0"
+		"hammerid"		"132961"
+		"m_iname"		"gate_break14"
+	}
+	"132946"
+	{
+		"enable"		"0"
+		"hammerid"		"132946"
+		"m_iname"		"gate_break13"
+	}
+	"132765"
+	{
+		"enable"		"0"
+		"hammerid"		"132765"
+		"m_iname"		"gate_break12"
+	}
+	"132750"
+	{
+		"enable"		"0"
+		"hammerid"		"132750"
+		"m_iname"		"gate_break11"
+	}
+	"132735"
+	{
+		"enable"		"0"
+		"hammerid"		"132735"
+		"m_iname"		"gate_break10"
+	}
+	"132720"
+	{
+		"enable"		"0"
+		"hammerid"		"132720"
+		"m_iname"		"gate_break9"
+	}
+	"132705"
+	{
+		"enable"		"0"
+		"hammerid"		"132705"
+		"m_iname"		"gate_break8"
+	}
+	"132690"
+	{
+		"enable"		"0"
+		"hammerid"		"132690"
+		"m_iname"		"gate_break7"
+	}
+	"132539"
+	{
+		"enable"		"0"
+		"hammerid"		"132539"
+		"m_iname"		"gate_break6"
+	}
+	"132524"
+	{
+		"enable"		"0"
+		"hammerid"		"132524"
+		"m_iname"		"gate_break5"
+	}
+	"132509"
+	{
+		"enable"		"0"
+		"hammerid"		"132509"
+		"m_iname"		"gate_break4"
+	}
+	"131872"
+	{
+		"enable"		"0"
+		"hammerid"		"131872"
+		"m_iname"		"gate_break3"
+	}
+	"131826"
+	{
+		"enable"		"0"
+		"hammerid"		"131826"
+		"m_iname"		"gate_break2"
+	}
+	"130280"
+	{
+		"enable"		"0"
+		"hammerid"		"130280"
+		"m_iname"		"gate_break1"
+	}
+	"128625"
+	{
+		"enable"		"0"
+		"hammerid"		"128625"
+		"m_iname"		"gate_wall"
+	}
+	"132723"
+	{
+		"enable"		"0"
+		"hammerid"		"132723"
+		"m_iname"		"gate_p_break9"
+	}
+	"132708"
+	{
+		"enable"		"0"
+		"hammerid"		"132708"
+		"m_iname"		"gate_p_break8"
+	}
+	"132693"
+	{
+		"enable"		"0"
+		"hammerid"		"132693"
+		"m_iname"		"gate_p_break7"
+	}
+	"132542"
+	{
+		"enable"		"0"
+		"hammerid"		"132542"
+		"m_iname"		"gate_p_break6"
+	}
+	"132527"
+	{
+		"enable"		"0"
+		"hammerid"		"132527"
+		"m_iname"		"gate_p_break5"
+	}
+	"132512"
+	{
+		"enable"		"0"
+		"hammerid"		"132512"
+		"m_iname"		"gate_p_break4"
+	}
+	"131875"
+	{
+		"enable"		"0"
+		"hammerid"		"131875"
+		"m_iname"		"gate_p_break3"
+	}
+	"133461"
+	{
+		"enable"		"0"
+		"hammerid"		"133461"
+		"m_iname"		"gate_p_break26"
+	}
+	"133446"
+	{
+		"enable"		"0"
+		"hammerid"		"133446"
+		"m_iname"		"gate_p_break25"
+	}
+	"133280"
+	{
+		"enable"		"0"
+		"hammerid"		"133280"
+		"m_iname"		"gate_p_break23"
+	}
+	"133265"
+	{
+		"enable"		"0"
+		"hammerid"		"133265"
+		"m_iname"		"gate_p_break22"
+	}
+	"133250"
+	{
+		"enable"		"0"
+		"hammerid"		"133250"
+		"m_iname"		"gate_p_break21"
+	}
+	"133235"
+	{
+		"enable"		"0"
+		"hammerid"		"133235"
+		"m_iname"		"gate_p_break20"
+	}
+	"131829"
+	{
+		"enable"		"0"
+		"hammerid"		"131829"
+		"m_iname"		"gate_p_break2"
+	}
+	"133220"
+	{
+		"enable"		"0"
+		"hammerid"		"133220"
+		"m_iname"		"gate_p_break19"
+	}
+	"133205"
+	{
+		"enable"		"0"
+		"hammerid"		"133205"
+		"m_iname"		"gate_p_break18"
+	}
+	"133009"
+	{
+		"enable"		"0"
+		"hammerid"		"133009"
+		"m_iname"		"gate_p_break17"
+	}
+	"132994"
+	{
+		"enable"		"0"
+		"hammerid"		"132994"
+		"m_iname"		"gate_p_break16"
+	}
+	"132979"
+	{
+		"enable"		"0"
+		"hammerid"		"132979"
+		"m_iname"		"gate_p_break15"
+	}
+	"132964"
+	{
+		"enable"		"0"
+		"hammerid"		"132964"
+		"m_iname"		"gate_p_break14"
+	}
+	"132949"
+	{
+		"enable"		"0"
+		"hammerid"		"132949"
+		"m_iname"		"gate_p_break13"
+	}
+	"132768"
+	{
+		"enable"		"0"
+		"hammerid"		"132768"
+		"m_iname"		"gate_p_break12"
+	}
+	"132753"
+	{
+		"enable"		"0"
+		"hammerid"		"132753"
+		"m_iname"		"gate_p_break11"
+	}
+	"132738"
+	{
+		"enable"		"0"
+		"hammerid"		"132738"
+		"m_iname"		"gate_p_break10"
+	}
+	"130283"
+	{
+		"enable"		"0"
+		"hammerid"		"130283"
+		"m_iname"		"gate_p_break1"
 	}
 }

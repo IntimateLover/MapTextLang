@@ -1,162 +1,159 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Door opens in 20 seconds***"
+	"204121"
 	{
-		"chi"		"**门将在20内打开**"
+		"enable"		"0"
+		"hammerid"		"204121"
+		"m_iname"		"break1"
 	}
-	"***This map is so fucking bad, just RTV the shit out of this***"
+	"204156"
 	{
-		"chi"		"**这张地图简直太辣鸡了，赶快RTV换掉这张翔一样的地图吧**"
+		"enable"		"0"
+		"hammerid"		"204156"
+		"m_iname"		"break2"
 	}
-	"***Door opens in 10 seconds***"
+	"204215"
 	{
-		"chi"		"**门将在10秒内打开**"
+		"enable"		"0"
+		"hammerid"		"204215"
+		"m_iname"		"break3"
 	}
-	"***Door opens in 5 seconds***"
+	"204250"
 	{
-		"chi"		"**门将在5秒内打开**"
+		"enable"		"0"
+		"hammerid"		"204250"
+		"m_iname"		"break4"
 	}
-	"***Door is open***"
+	"204273"
 	{
-		"chi"		"**门已被打开**"
+		"enable"		"0"
+		"hammerid"		"204273"
+		"m_iname"		"break5"
 	}
-	"***I am ashamed the mapper has uploaded this map***"
+	"171709"
 	{
-		"chi"		"**我为我上传了这张地图感到羞耻**"
+		"enable"		"1"
+		"hammerid"		"171709"
+		"m_iname"		"bossenddoor"
 	}
-	"***What even is this hold? The mapper has no skill I tell you***"
+	"162483"
 	{
-		"chi"		"**什么时候该防守？作者没法告诉你们**"
+		"enable"		"1"
+		"hammerid"		"162483"
+		"m_iname"		"bosshp"
 	}
-	"***Door opens in 30 seconds***"
+	"162647"
 	{
-		"chi"		"**门将在30秒内打开**"
+		"enable"		"1"
+		"hammerid"		"162647"
+		"m_iname"		"bosscage"
 	}
-	"***Here, have some crates***"
+	"162785"
 	{
-		"chi"		"**嘿，这里有些箱子**"
+		"enable"		"0"
+		"hammerid"		"162785"
+		"m_iname"		"endbreak2"
 	}
-	"***Door opens in 15 seconds***"
+	"144291"
 	{
-		"chi"		"**门将在15秒内打开**"
+		"enable"		"0"
+		"hammerid"		"144291"
+		"m_iname"		"lvl2pushdoor"
 	}
-	"***I am not even going to give you a countdown on this one***"
+	"147395"
 	{
-		"chi"		"**我甚至不想告诉你倒计时还有多少**"
+		"enable"		"0"
+		"hammerid"		"147395"
+		"m_iname"		"lvl2door1"
 	}
-	"***If you can beat this hold, you might be better than GFL***"
+	"139319"
 	{
-		"chi"		"**如果你能守住这里的话，你的运气简直爆表了**"	}
-	"***I am joking, youre worse***"
-	{
-		"chi"		"**我开玩笑的，你别担心**"
+		"enable"		"0"
+		"hammerid"		"139319"
+		"m_iname"		"1"
 	}
-	"***Please, just RTV this shitty map, you are just wasting your time and others***"
+	"139326"
 	{
-		"chi"		"**拜托了，快点RTV换了这张辣鸡地图，你不会想在这浪费时间的**"
+		"enable"		"0"
+		"hammerid"		"139326"
+		"m_iname"		"2"
 	}
-	"***Door opens in 40 seconds***"
+	"134302"
 	{
-		"chi"		"**门将在40秒内打开**"
+		"enable"		"0"
+		"hammerid"		"134302"
+		"m_iname"		"door2"
 	}
-	"***I lied***"
+	"134366"
 	{
-		"chi"		"**我撒谎了**"
+		"enable"		"0"
+		"hammerid"		"134366"
+		"m_iname"		"endbreak"
 	}
-	"***Some lasers for those Final Fantasy fags out there***"
+	"128704"
 	{
-		"chi"		"**一些来自最终幻想的跳刀能让你在这里退缩**"
+		"enable"		"0"
+		"hammerid"		"128704"
+		"m_iname"		"door1"
 	}
-	"***Doorhug and die, you fucks***"
+	"117044"
 	{
-		"chi"		"**门开了或者死，你个辣鸡**"
+		"enable"		"0"
+		"hammerid"		"117044"
+		"m_iname"		"door1"
 	}
-	"***Another pointless hold, its like the mapper run out of ideas and decided to draw the layout when he was taking a shit***"
+	"117069"
 	{
-		"chi"		"**又一个无意义的防守，就像是地图作者没有点子时，做出翔一样的决定**"
+		"enable"		"0"
+		"hammerid"		"117069"
+		"m_iname"		"door2"
 	}
-	"***The British cunt mapper was too lasy to put more coundowns in, so fuck him, unskilled brexit fag***"
+	"117092"
 	{
-		"chi"		"**英国的讨厌鬼作者实在是太懒了，总喜欢拖延，去踏马的，就像时脱欧一样辛苦**"
+		"enable"		"0"
+		"hammerid"		"117092"
+		"m_iname"		"door3"
 	}
-	"***Ding Ding***"
+	"117115"
 	{
-		"chi"		"**叮咚**"
+		"enable"		"0"
+		"hammerid"		"117115"
+		"m_iname"		"door4"
 	}
-	"***Facts time!***"
+	"117218"
 	{
-		"chi"		"**真相的时间**"
+		"enable"		"0"
+		"hammerid"		"117218"
+		"m_iname"		"door5"
 	}
-	"***Did you know that you guys are absolutely retarded for not RTVing this map yet?***"
+	"117249"
 	{
-		"chi"		"**你知道你们这些家伙总是不知道RTV换图吗？**"
+		"enable"		"0"
+		"hammerid"		"117249"
+		"m_iname"		"door6"
 	}
-	"***I have nothing to say at this point, Im going to sleep, good night***"
+	"117405"
 	{
-		"chi"		"**我在这个点没什么想说的，我睡了，晚安**"
+		"enable"		"0"
+		"hammerid"		"117405"
+		"m_iname"		"door7"
 	}
-	"*There was supposed to be a boss here, but the mapper has no skill what so fucking ever*"
+	"117460"
 	{
-		"chi"		"**这里假设有个boss在这里，但是作者技术不过关不会搞，所以踏马不存在的**"
+		"enable"		"0"
+		"hammerid"		"117460"
+		"m_iname"		"door8"
 	}
-	"***Instead, heres another pointless fucking laser***"
+	"117506"
 	{
-		"chi"		"**相反，这里又有踏马的跳刀**"
+		"enable"		"0"
+		"hammerid"		"117506"
+		"m_iname"		"door9"
 	}
-	"***Door opens in 10 secs"
+	"117541"
 	{
-		"chi"		"**门还有10秒打开**"
-	}
-	"***You failed, nice one noobs***"
-	{
-		"chi"		"**你失败了，干得好菜鸟**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"**服务器可以关了，把你的游戏删了吧**"
-	}
-	"***Good job, you won***"
-	{
-		"chi"		"**干得不错，你赢了**"
-	}
-	"***Oh, youve came back? Well done***"
-	{
-		"chi"		"**噢，你居然翻盘了？很厉害嘛**"
-	}
-	"***Door opens in 10 seconds"
-	{
-		"chi"		"**门还有10秒打开**"
-	}
-	"***Yeah boi get some of that dank music going***"
-	{
-		"chi"		"**你可以停一下，放点黑暗风格的音乐**"
-	}
-	"***Youve got 3 minutes to kill this cancer thing***"
-	{
-		"chi"		"**你有3分钟来改正这些不好的习惯**"
-	}
-	"***LASER***"
-	{
-		"chi"		"**跳刀**"
-	}
-	"***Boss Heals 250HP***"
-	{
-		"chi"		"**boss有250的血量**"
-	}
-	"***SLAYER***"
-	{
-		"chi"		"**凶手**"
-	}
-	"***PULLER***"
-	{
-		"chi"		"**推力者**"
-	}
-	"***KAPPA***"
-	{
-		"chi"		"**卡帕**"
-	}
-	"***Good job, you won, resetting to LEVEL 1***"
-	{
-		"chi"		"**干得好，你赢了，重新回到第一关**"
+		"enable"		"0"
+		"hammerid"		"117541"
+		"m_iname"		"door10"
 	}
 }

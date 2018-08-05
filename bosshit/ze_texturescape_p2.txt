@@ -1,53 +1,93 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Platforms will begin rising in 15 seconds! ***"
+	"16804"
 	{
-		"chi"		"**平台将在 15 秒后上升！**"
-		"DoorCountdown"		"15"
+		"enable"		"0"
+		"hammerid"		"16804"
+		"m_iname"		"HoldHere"
 	}
-	"*** Get in the center! ***"
+	"5217"
 	{
-		"chi"		"**往中间靠拢！**"
+		"enable"		"0"
+		"hammerid"		"5217"
+		"m_iname"		"trap_01"
 	}
-	"*** Get going before the platform breaks! Hurry! ***"
+	"5225"
 	{
-		"chi"		"**在平台消失前离开平台！快！**"
+		"enable"		"0"
+		"hammerid"		"5225"
+		"m_iname"		"trap_02"
 	}
-	"*** Wall breaks in 20 seconds. ***"
+	"5233"
 	{
-		"chi"		"**墙壁将在 20 秒后破碎！**"
+		"enable"		"0"
+		"hammerid"		"5233"
+		"m_iname"		"trap_03"
 	}
-	"*** Move! ***"
+	"5241"
 	{
-		"chi"		"**前进！！！**"
+		"enable"		"0"
+		"hammerid"		"5241"
+		"m_iname"		"trap_04"
 	}
-	"*** Slowpoke teleport in 15 seconds.***"
+	"5249"
 	{
-		"chi"		"**僵尸将在 15 秒后传送！**"
+		"enable"		"0"
+		"hammerid"		"5249"
+		"m_iname"		"trap_05"
 	}
-	"*** Second teleport in 20 seconds! Don't stay behind. ***"
+	"5386"
 	{
-		"chi"		"**僵尸的第二次传送将在 20 秒后！不要停留在这里！**"
+		"enable"		"0"
+		"hammerid"		"5386"
+		"m_iname"		"phys_break_02"
 	}
-	"*** Final glass window will open in 50 seconds... ***"
+	"5410"
 	{
-		"chi"		"**最后的玻璃墙将于 50 秒后打开！**防守僵尸！**"
-		"DoorCountdown"		"50"
+		"enable"		"0"
+		"hammerid"		"5410"
+		"m_iname"		"phys_break_01"
 	}
-	"*** Glass window is opening in 15 seconds. ***"
+	"5822"
 	{
-		"chi"		"**最后的玻璃墙将于 15 秒后打开！**手雷不要停！**"
+		"enable"		"0"
+		"hammerid"		"5822"
+		"m_iname"		"trap_phys_01"
 	}
-	"*** Glass window is opening in 5 seconds! Get ready! ***"
+	"6106"
 	{
-		"chi"		"**最后的玻璃墙将于 5 秒后打开！**准备好！**"
+		"enable"		"0"
+		"hammerid"		"6106"
+		"m_iname"		"exp_trap_01"
 	}
-	"*** Deadly gas launched! 10 seconds until glass door is sealed! ***"
+	"6351"
 	{
-		"chi"		"**喷出致命的毒气！坚持 10 秒直至玻璃门封闭！**地图翻译 by 色狼领袖**"
+		"enable"		"0"
+		"hammerid"		"6351"
+		"m_iname"		"bhop_trap_01"
 	}
-	"*** Second teleport in 20 seconds! Dont stay behind. ***"
+	"6359"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6359"
+		"m_iname"		"bhop_trap_01"
+	}
+	"6475"
+	{
+		"enable"		"0"
+		"hammerid"		"6475"
+		"m_iname"		"pressure_trap_01"
+	}
+	"6667"
+	{
+		"enable"		"0"
+		"hammerid"		"6667"
+		"m_iname"		"block_trap_01"
+	}
+	"6699"
+	{
+		"enable"		"0"
+		"hammerid"		"6699"
+		"m_iname"		"phys_tarp_01"
 	}
 }

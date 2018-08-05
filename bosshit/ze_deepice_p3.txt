@@ -1,91 +1,139 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Co-Mapper: starbucks ***"
+	"break2"
 	{
-		"chi"		"**移植作者 starbucks 翻译BAKA_Miku  **"
+		"enable"		"0"
 	}
-	"*** STEAMGAMERS.COM ***"
+	"SeagullHealth&1811"
 	{
-		"chi"		"** **"
+		"enable"		"0"
 	}
-	"*** Mapper: yardy ***"
+	"SeagullAlign&1811"
 	{
-		"chi"		"**作者 yardy **"
+		"enable"		"0"
 	}
-	"*** Lift 2 is leaving soon ***"
+	"SeagullHealth&1812"
 	{
-		"chi"		"**2号电梯将要启动 **"
+		"enable"		"0"
 	}
-	"*** Door is being fixed defend yourself ***"
+	"SeagullAlign&1812"
 	{
-		"chi"		"**防御!这扇门会很快被修好 **"
+		"enable"		"0"
 	}
-	"*** ALIEN shield has been activated ***"
+	"SeagullHealth&1813"
 	{
-		"chi"		"** **"
+		"enable"		"0"
 	}
-	"*** Alienshield disabled ***"
+	"SeagullAlign&1813"
 	{
-		"chi"		"** **"
+		"enable"		"0"
 	}
-	"*** Train is leaving soon ***"
+	"SeagullHealth&1814"
 	{
-		"chi"		"**火车将要启动 **"
+		"enable"		"0"
 	}
-	"*** Defend the area until train leaves ***"
+	"SeagullAlign&1814"
 	{
-		"chi"		"**防守这里直到火车启动 **"
+		"enable"		"0"
 	}
-	"*** Train departing ***"
+	"SeagullHealth&1815"
 	{
-		"chi"		"**火车启动 **"
+		"enable"		"0"
 	}
-	"*** Oh my god jump off the train before it squeezes you ***"
+	"SeagullAlign&1815"
 	{
-		"chi"		"**快跳车!别让火车压死你![路线是大坝方向] **"
+		"enable"		"0"
 	}
-	"*** Gate opens soon defend yourself ***"
+	"SeagullHealth&1816"
 	{
-		"chi"		"**防御!大门会很快打开 **"
+		"enable"		"0"
 	}
-	"*** Hold back the ALIENS while calling the chopper ***"
+	"SeagullAlign&1816"
 	{
-		"chi"		"**防守这里直到直升机到达 **"
+		"enable"		"0"
 	}
-	"*** Second gate stuck ***"
+	"SeagullHealth&1817"
 	{
-		"chi"		"**第二扇门卡住了 **"
+		"enable"		"0"
 	}
-	"*** Defend yourself until we get it open ***"
+	"SeagullAlign&1817"
 	{
-		"chi"		"**防御!直到大门打开 **"
+		"enable"		"0"
 	}
-	"*** Sea Hawk arrival soon ***"
+	"SeagullHealth&1818"
 	{
-		"chi"		"**直升机将很快到达 **"
+		"enable"		"0"
 	}
-	"*** Alien Reactor Overload 50% ***"
+	"SeagullAlign&1818"
 	{
-		"chi"		"**外星人反应堆负载50% **"
+		"enable"		"0"
 	}
-	"*** Sea Hawk arrival immediately ***"
+	"SeagullHealth&1819"
 	{
-		"chi"		"**直升机马上到达 **"
+		"enable"		"0"
 	}
-	"*** Alien Reactor Overload 100% ***"
+	"SeagullAlign&1819"
 	{
-		"chi"		"**外星人反应堆负载100% **"
+		"enable"		"0"
 	}
-	"*** TO BE CONTINUED ***"
+	"SeagullHealth&1820"
 	{
-		"chi"		"** **"
+		"enable"		"0"
 	}
-	"*** Lift 1 is leaving soon ***"
+	"SeagullAlign&1820"
 	{
-		"chi"		"**1号电梯将要启动 **"
+		"enable"		"0"
 	}
-	"The server is about to close the update ,Please update your game"
+	"SeagullHealth&1821"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+	}
+	"SeagullAlign&1821"
+	{
+		"enable"		"0"
+	}
+	"SeagullHealth&1822"
+	{
+		"enable"		"0"
+	}
+	"SeagullAlign&1822"
+	{
+		"enable"		"0"
+	}
+	"SeagullHealth&1823"
+	{
+		"enable"		"0"
+	}
+	"SeagullAlign&1823"
+	{
+		"enable"		"0"
+	}
+	"SeagullHealth&1824"
+	{
+		"enable"		"0"
+	}
+	"SeagullAlign&1824"
+	{
+		"enable"		"0"
+	}
+	"SeagullHealth&1825"
+	{
+		"enable"		"0"
+	}
+	"SeagullAlign&1825"
+	{
+		"enable"		"0"
+	}
+	"416084"
+	{
+		"enable"		"0"
+		"hammerid"		"416084"
+		"m_iname"		"SeagullHealth&2806"
+	}
+	"307971"
+	{
+		"enable"		"0"
+		"hammerid"		"307971"
+		"m_iname"		"SeagullAlign&2806"
 	}
 }

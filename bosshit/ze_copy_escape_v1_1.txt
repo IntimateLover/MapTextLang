@@ -1,418 +1,201 @@
-"Console_T"
+"BOSSHP"
 {
-	"#ze_copy_escape_alpha#"
+	"393853"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"393853"
+		"m_iname"		"rotating03"
 	}
-	"#Mapper - sweetS  Special Thanks - Reflelia , Airvulpes , p0p , kune#"
+	"393894"
 	{
-		"chi"		"**地图作者-sweetS 特别感谢-Reflelia,Airvulpes,p0p,kune 翻译:Ayan♪**"
+		"enable"		"0"
+		"hammerid"		"393894"
+		"m_iname"		"rotating05"
 	}
-	"#Map Idea - ze_gris , ze_dreamin , ze_ffxii_westersand#"
+	"393898"
 	{
-		"chi"		"**地图创意-ze_gris,ze_dreamin,ze_ffxii_westersand**"
+		"enable"		"0"
+		"hammerid"		"393898"
+		"m_iname"		"rotating04"
 	}
-	"#Thanks to help me , and playing this map.. Enjoy! #"
+	"393902"
 	{
-		"chi"		"**感谢大家帮助我，请大家享受这张图的乐趣吧**"
+		"enable"		"0"
+		"hammerid"		"393902"
+		"m_iname"		"rotating06"
 	}
-	"#Open way in 30sec..#"
+	"353658"
 	{
-		"chi"		"**30s路开**"
+		"enable"		"0"
+		"hammerid"		"353658"
+		"m_iname"		"ZM_changer"
 	}
-	"#Player picked up heal item#"
+	"267392"
 	{
-		"chi"		"**一名玩家捡起了治疗**"
+		"enable"		"0"
+		"hammerid"		"267392"
+		"m_iname"		"breakable04"
 	}
-	"#Open ways in 30sec..#"
+	"209094"
 	{
-		"chi"		"**30s路开**"
+		"enable"		"0"
+		"hammerid"		"209094"
+		"m_iname"		"breakable03"
 	}
-	"#FALL BACK#"
+	"170791"
 	{
-		"chi"		"**撤退**"
+		"enable"		"0"
+		"hammerid"		"170791"
+		"m_iname"		"elevator00_break"
 	}
-	"#Player picked up fire item#"
+	"152933"
 	{
-		"chi"		"**一名玩家捡起了火**"
+		"enable"		"0"
+		"hammerid"		"152933"
+		"m_iname"		"elevator00_break"
 	}
-	"#Floor break in 15sec..#"
+	"145865"
 	{
-		"chi"		"**15s地板破碎**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"145865"
+		"m_iname"		"breakable02"
 	}
-	"#Door open in 45sec..#"
+	"130864"
 	{
-		"chi"		"**45s门开**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"130864"
+		"m_iname"		"chapter3_changer"
 	}
-	"#Teleport will enable in 5sec..#"
+	"26396"
 	{
-		"chi"		"**5s后传送**"
+		"enable"		"1"
+		"hammerid"		"26396"
+		"m_iname"		"boss_cube"
 	}
-	"#Player picked up wind item#"
+	"26428"
 	{
-		"chi"		"**一名玩家捡起了风**"
+		"enable"		"1"
+		"hammerid"		"26428"
+		"m_iname"		"boss_cube_hp_breakable"
 	}
-	"#You won difficulty Gris..#"
+	"27008"
 	{
-		"chi"		"**你在困难的Gris获胜了**"
+		"enable"		"1"
+		"hammerid"		"27008"
+		"m_iname"		"boss_hp_counter00"
 	}
-	"#Jump push enable in 30seconds..#"
+	"27019"
 	{
-		"chi"		"**三十秒后跳跃**"
-		"DoorCountDown"		"-1"
+		"enable"		"1"
+		"hammerid"		"27019"
+		"m_iname"		"boss_hp_counter01"
 	}
-	"#Last defend 45 seconds for boss..#"
+	"27024"
 	{
-		"chi"		"**守住45s 准备打BOSS**"
-		"DoorCountDown"		"-1"
+		"enable"		"1"
+		"hammerid"		"27024"
+		"m_iname"		"boss_hp_counter02"
 	}
-	"#Kill That !.. Nade do more damage.. #"
+	"27029"
 	{
-		"chi"		"**杀死他!Nade会造成更多的伤害！**"
+		"enable"		"1"
+		"hammerid"		"27029"
+		"m_iname"		"boss_hp_counter03"
 	}
-	"#Boss used Zombie Teleporter#"
+	"27034"
 	{
-		"chi"		"**BOSS将僵尸放了出来**"
-		"ico"		"icon_interact"
+		"enable"		"1"
+		"hammerid"		"27034"
+		"m_iname"		"boss_hp_counter04"
 	}
-	"#Boss used Ice#"
+	"17226"
 	{
-		"chi"		"**BOSS使用了冰**"
-		"ico"		"icon_interact"
+		"enable"		"0"
+		"hammerid"		"17226"
+		"m_iname"		"chapter1_changer"
 	}
-	"#Boss used Cocoball#"
+	"17279"
 	{
-		"chi"		"**BOSS使用了天坠黑球**"
-		"ico"		"icon_interact"
+		"enable"		"0"
+		"hammerid"		"17279"
+		"m_iname"		"chapter2_changer"
 	}
-	"#Boss used Rotating Blade#"
+	"13191"
 	{
-		"chi"		"**BOSS使用了旋转刀片**"
-		"ico"		"icon_interact"
+		"enable"		"0"
+		"hammerid"		"13191"
+		"m_iname"		"cube03"
 	}
-	"#Boss used Fire#"
+	"6915"
 	{
-		"chi"		"**BOSS使用了火**"
-		"ico"		"icon_interact"
+		"enable"		"0"
+		"hammerid"		"6915"
+		"m_iname"		"breakable01"
 	}
-	"#Teleport enable in 120sec..#"
+	"6392"
 	{
-		"chi"		"**可能在120s后传送...**"
+		"enable"		"0"
+		"hammerid"		"6392"
+		"m_iname"		"cube02"
 	}
-	"#Teleport enable in 90sec..#"
+	"3911"
 	{
-		"chi"		"**可能在90s后传送**"
+		"enable"		"0"
+		"hammerid"		"3911"
+		"m_iname"		"movelinear01_blocker"
 	}
-	"#Teleport enable in 60sec..#"
+	"3926"
 	{
-		"chi"		"**60s后传送**"
+		"enable"		"0"
+		"hammerid"		"3926"
+		"m_iname"		"movelinear02_blocker"
 	}
-	"#Teleport enable in 30sec..#"
+	"3935"
 	{
-		"chi"		"**30s后传送**"
+		"enable"		"0"
+		"hammerid"		"3935"
+		"m_iname"		"movelinear01_blocker"
 	}
-	"#Teleport enable in 5sec..#"
+	"3950"
 	{
-		"chi"		"**5s后传送**"
+		"enable"		"0"
+		"hammerid"		"3950"
+		"m_iname"		"movelinear04_blocker"
 	}
-	"#Explode Dreamin in 45sec.. defend !#"
+	"4050"
 	{
-		"chi"		"**45s后核爆！捍卫你的梦想！**"
+		"enable"		"0"
+		"hammerid"		"4050"
+		"m_iname"		"movelinear05_blocker"
 	}
-	"#What the fuck..!? Bomb was not worked.. wait some more time.. !#"
+	"208717"
 	{
-		"chi"		"**什么鬼？！没有正常运作？！再等一会儿时间！**"
+		"enable"		"0"
+		"hammerid"		"208717"
+		"m_iname"		"pl_physics&0903"
 	}
-	"#Explode Deamin in 10sec..#"
+	"208693"
 	{
-		"chi"		"**10s爆炸！捍卫梦想！**"
+		"enable"		"1"
+		"hammerid"		"208693"
+		"m_iname"		"pl_hitbox"
 	}
-	"#You won difficulty Dreamin..#"
+	"546774"
 	{
-		"chi"		"**你在困难dreamin中获胜了！**"
+		"enable"		"0"
+		"hammerid"		"546774"
+		"m_iname"		"st3_breakable"
 	}
-	"#Elevator leave in 30 secounds left..#"
+	"551600"
 	{
-		"chi"		"**电梯将在30s后离开**"
+		"enable"		"0"
+		"hammerid"		"551600"
+		"m_iname"		"st3_breakable"
 	}
-	"***Zombie picked up Nuke***"
+	"435440"
 	{
-		"chi"		"**僵尸获得了秒杀**"
-	}
-	"#Elevator leave in 5 secounds left..#"
-	{
-		"chi"		"**电梯将在5s后离开**"
-	}
-	"#Teleport enable in 30 seconds.. DEFEND !!#"
-	{
-		"chi"		"**将在30s后传送！守住！**"
-		"DoorCountDown"		"-1"
-	}
-	"#Dont let zombies touch tower..#"
-	{
-		"chi"		"**别让僵尸碰到塔**"
-	}
-	"#Teleport enable in 5 secounds left#"
-	{
-		"chi"		"**将在5s后传送**"
-	}
-	"#Defend until wall break#"
-	{
-		"chi"		"**守住等到墙爆炸！**"
-	}
-	"#Door will open in 15 seconds..#"
-	{
-		"chi"		"**门将会在15s后打开**"
-		"DoorCountDown"		"-1"
-	}
-	"#ELEVATOR LEAVE IN 25 SECOUNDS#"
-	{
-		"chi"		"**电梯将在25s后离开**"
-	}
-	"#ELEVATOR LEAVE IN 10 SECOUNDS#"
-	{
-		"chi"		"**电梯在10s后离开**"
-	}
-	"#Defend 15 seconds#"
-	{
-		"chi"		"**守住15s**"
-		"DoorCountDown"		"-1"
-	}
-	"#Nade do more Damage..#"
-	{
-		"chi"		"**Nade会造成更多伤害..**"
-	}
-	"#Boss preparing skill...#"
-	{
-		"chi"		"**BOSS准备技能中**"
-	}
-	"#Boss used Heal !#"
-	{
-		"chi"		"**BOSS使用了治疗**"
-	}
-	"#Boss used fire !#"
-	{
-		"chi"		"**BOSS使用了火**"
-		"ico"		"icon_interact"
-	}
-	"#Boss used Blade !#"
-	{
-		"chi"		"**BOSS使用了刀片**"
-		"ico"		"icon_interact"
-	}
-	"#Defend untill teleporter enable..#"
-	{
-		"chi"		"**守住!坚持到传送!**"
-	}
-	"#40 seconds left#"
-	{
-		"chi"		"**40s后离开**"
-		"DoorCountDown"		"-1"
-	}
-	"#Teleporter enable in 5 seconds#"
-	{
-		"chi"		"**5s后传送**"
-		"DoorCountDown"		"-1"
-	}
-	"#This is last defend..! Defend for Win!#"
-	{
-		"chi"		"**这是最后的守点！守住就赢了！**"
-	}
-	"#70 seconds left#"
-	{
-		"chi"		"**70s后离开**"
-		"DoorCountDown"		"-1"
-	}
-	"#Guardians will protect you..#"
-	{
-		"chi"		"**守护者会保护你**"
-	}
-	"#60 seconds left#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#50 seconds left#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#Player picked up ice item#"
-	{
-		"chi"		"**一名玩家捡起了冰**"
-	}
-	"#30 seconds left#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#20 seconds left#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#10 seconds left#"
-	{
-		"chi"		"**10s后离开**"
-		"DoorCountDown"		"-1"
-	}
-	"#You won difficulty Westersand..#"
-	{
-		"chi"		"**你在困难的Westersand中获胜了**"
-	}
-	"#Human victory in 240 seconds..#"
-	{
-		"chi"		"**人类在240s后获胜**"
-	}
-	"***Zombie picked up Gravity***"
-	{
-		"chi"		"**僵尸捡起了黑洞**"
-	}
-	"#180 Seconds Left..#"
-	{
-		"chi"		"**180s后离开**"
-	}
-	"#120 Seconds Left..#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#60 Seconds Left..#"
-	{
-		"chi"		"**60s后离开**"
-		"DoorCountDown"		"-1"
-	}
-	"#Difficulty set on Gris..#"
-	{
-		"chi"		"** **"
-	}
-	"#ADMIN# Pressed Restart Round Button"
-	{
-		"chi"		"** **"
-	}
-	"#Difficulty set on Dreamin..#"
-	{
-		"chi"		"** **"
-	}
-	"#Boss used Jumper#"
-	{
-		"chi"		"**BOSS使用了跳跃攻击_(:з」∠)_**"
-		"ico"		"icon_interact"
-	}
-	"#Boss used Wind#"
-	{
-		"chi"		"**BOSS使用了风**"
-		"ico"		"icon_interact"
-	}
-	"#Boss used Blizzard !#"
-	{
-		"chi"		"**BOSS使用了暴雪**"
-		"ico"		"icon_interact"
-	}
-	"# FAILED #"
-	{
-		"chi"		"**失败...._(:з」∠)_**"
-	}
-	"#Boss used Tempest Wing !#"
-	{
-		"chi"		"** **"
-	}
-	"#30 Seconds Left..#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#15 Seconds Left..#"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#    5    #"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#    4    #"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#    3    #"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#    2    #"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#    1    #"
-	{
-		"chi"		"** **"
-		"DoorCountDown"		"-1"
-	}
-	"#Thanks to ZombieDen, Rss Server#"
-	{
-		"chi"		"** **"
-	}
-	"#Explode Dreamin in 10sec..#"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"94798"
-	}
-	"#Mapper - sweetS  Special Thanks - Reflelia , Airvulpes , p0p , kune  Particle - Airvulpes#"
-	{
-		"chi"		"** **"
-	}
-	"***Zombie picked up Zombie Heal***"
-	{
-		"chi"		"** **"
-	}
-	"***Zombie picked up RailGun***"
-	{
-		"chi"		"** **"
-	}
-	"#Player picked up Earth item#"
-	{
-		"chi"		"** **"
-	}
-	"#Now you infinite ammo... defend#"
-	{
-		"chi"		"** **"
-	}
-	"#Bridge will break.. Fall Back !#"
-	{
-		"chi"		"** **"
-	}
-	"#ze_copy_escape#"
-	{
-		"chi"		"** **"
-	}
-	"#Thank you for helping me and playing this map.. Enjoy#"
-	{
-		"chi"		"** **"
-	}
-	"#Passage opens in 30 seconds#"
-	{
-		"chi"		"** **"
-	}
-	"#Floor breaks in 15 seconds#"
-	{
-		"chi"		"** **"
-	}
-	"#Door opens in 45 seconds#"
-	{
-		"chi"		"** **"
-	}
-	"#Teleport activates in 5 seconds#"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"435440"
+		"m_iname"		"breakable04"
 	}
 }

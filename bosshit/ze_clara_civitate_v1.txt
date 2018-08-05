@@ -1,59 +1,123 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Defend for 20 sec ***"
+	"68725"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"68725"
+		"m_iname"		"door08"
 	}
-	"*** Defend for 30 sec ***"
+	"59296"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"59296"
+		"m_iname"		"door07"
 	}
-	"*** Now we can pass the shortcut route ***"
+	"57518"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"57518"
+		"m_iname"		"floor_002"
 	}
-	"*** AFK Teleport is about 7 seconds ***"
+	"44845"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"44845"
+		"m_iname"		"teleport_break_01"
 	}
-	"*** Defend for 35 sec ***"
+	"45036"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"45036"
+		"m_iname"		"teleport_break_02"
 	}
-	"*** Here is a little longer defense !!! ***"
+	"32106"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"32106"
+		"m_iname"		"door05"
 	}
-	"*** Good luck and keep it !!! ***"
+	"35743"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"35743"
+		"m_iname"		"door06"
 	}
-	"*** Defend for 25 sec ***"
+	"8720"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8720"
+		"m_iname"		"door01"
 	}
-	"*** Defend for 40 sec ***"
+	"8726"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8726"
+		"m_iname"		"door01"
 	}
-	"*** Last defend !!!  ***"
+	"8732"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8732"
+		"m_iname"		"door01"
 	}
-	"*** AFK teleport soon ***"
+	"8738"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8738"
+		"m_iname"		"door01"
 	}
-	"*** Doors close soon  ***"
+	"8744"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8744"
+		"m_iname"		"door01"
 	}
-	"*** Doors close !!!  ***"
+	"8750"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8750"
+		"m_iname"		"door01"
 	}
-	"*** Nuke  ***"
+	"20163"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20163"
+		"m_iname"		"door02"
+	}
+	"28107"
+	{
+		"enable"		"0"
+		"hammerid"		"28107"
+		"m_iname"		"door03"
+	}
+	"28406"
+	{
+		"enable"		"0"
+		"hammerid"		"28406"
+		"m_iname"		"door03"
+	}
+	"29877"
+	{
+		"enable"		"0"
+		"hammerid"		"29877"
+		"m_iname"		"door04"
+	}
+	"5690"
+	{
+		"enable"		"0"
+		"hammerid"		"5690"
+		"m_iname"		"shcut01"
+	}
+	"7245"
+	{
+		"enable"		"0"
+		"hammerid"		"7245"
+		"m_iname"		"ship"
+	}
+	"8332"
+	{
+		"enable"		"0"
+		"hammerid"		"8332"
+		"m_iname"		"shcut01"
 	}
 }

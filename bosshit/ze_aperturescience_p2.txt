@@ -1,228 +1,175 @@
-"Console_T"
+"BOSSHP"
 {
-	"--Welcome to the Aperture Science Center--"
+	"Physbox1"
 	{
-		"chi"		"欢迎来到光圈科技中心（原地尸变所以记得脚底丢冰啊！）"
+		"enable"		"0"
 	}
-	"--Map made by Eugenio **Motanum** Roman--"
+	"G part 1"
 	{
-		"chi"		"地图作者：Eugenio **Motanum** Roman "
+		"enable"		"0"
 	}
-	"--Sponsored by ]HeLL[ Clan--"
+	"G part 2"
 	{
-		"chi"		"赞助者：]HeLL[ Clan  翻译by楯山文乃"
+		"enable"		"0"
 	}
-	"**Hint: Crouch to go over the glass**"
+	"G part 3"
 	{
-		"chi"		"提示：蹲下来穿过玻璃"
+		"enable"		"0"
 	}
-	"--Are you sure you want to kill the Weighted Companion Cube?--"
+	"G part 5"
 	{
-		"chi"		"你确定要干掉Weighted Companion Cube？"
+		"enable"		"0"
 	}
-	"--Survive 30 seconds!--"
+	"G part 4"
 	{
-		"chi"		"生存30S！"
-		"DoorCountDown"		"30"
+		"enable"		"0"
 	}
-	"--YES____      NO_____--"
+	"Physbox2"
 	{
-		"chi"		"是还是否？"
+		"enable"		"0"
 	}
-	"--YES _X_--"
+	"turret 1"
 	{
-		"chi"		"是"
+		"enable"		"0"
 	}
-	"--That was a quick answer! Patience is a virtue--"
+	"turret 2"
 	{
-		"chi"		"回答的真干脆！要知道耐心也是一种美德"
+		"enable"		"0"
 	}
-	"--What is the rush? Did the Companion Cube said something bad?--"
+	"turret 3"
 	{
-		"chi"		"这冲击是怎么回事？同伴方块提到什么坏事了么？"
+		"enable"		"0"
 	}
-	"--We are trying to escape from zombies! And we adore the companion cube--"
+	"2483"
 	{
-		"chi"		"我们正试图从僵尸群中逃脱！并且我们挚爱同伴方块（什么鬼啊_(:зゝ∠)_"
+		"enable"		"0"
+		"hammerid"		"2483"
+		"m_iname"		"Physbox1"
 	}
-	"--You love an inanimate object! How silly!--"
+	"2524"
 	{
-		"chi"		"你爱的不过是个无生命体！这太蠢了- -"
+		"enable"		"0"
+		"hammerid"		"2524"
+		"m_iname"		"G part 1"
 	}
-	"--But for the last time are you extremely sure you want this?--"
+	"2526"
 	{
-		"chi"		"最后一次确认你真的想要这个吗？"
+		"enable"		"0"
+		"hammerid"		"2526"
+		"m_iname"		"G part 2"
 	}
-	"--If thats what you REALLY want--"
+	"2528"
 	{
-		"chi"		"如果那是你真的真的很想要的"
+		"enable"		"0"
+		"hammerid"		"2528"
+		"m_iname"		"G part 3"
 	}
-	"--5--"
+	"2530"
 	{
-		"chi"		"5S"
+		"enable"		"0"
+		"hammerid"		"2530"
+		"m_iname"		"G part 5"
 	}
-	"--4--"
+	"2532"
 	{
-		"chi"		"4S"
+		"enable"		"0"
+		"hammerid"		"2532"
+		"m_iname"		"G part 4"
 	}
-	"--3--"
+	"2722"
 	{
-		"chi"		"3S"
+		"enable"		"0"
+		"hammerid"		"2722"
+		"m_iname"		"Physbox2"
 	}
-	"--2--"
+	"3464"
 	{
-		"chi"		"2S"
+		"enable"		"0"
+		"hammerid"		"3464"
+		"m_iname"		"turret 1"
 	}
-	"--1--"
+	"3493"
 	{
-		"chi"		"1S"
+		"enable"		"0"
+		"hammerid"		"3493"
+		"m_iname"		"turret 2"
 	}
-	"--Doors are open you horrible people--"
+	"3634"
 	{
-		"chi"		"鱼唇的人类啊，门开啦"
+		"enable"		"0"
+		"hammerid"		"3634"
+		"m_iname"		"turret 3"
 	}
-	"--Doors clossing in 5--"
+	"2423"
 	{
-		"chi"		"5秒后关门"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"2423"
+		"m_iname"		"Break1"
 	}
-	"--Doors closed--"
+	"2477"
 	{
-		"chi"		"门关上了"
+		"enable"		"0"
+		"hammerid"		"2477"
+		"m_iname"		"Break2"
 	}
-	"--Doors will reopen in 15 seconds--"
+	"2745"
 	{
-		"chi"		"门会在15秒后再次打开"
+		"enable"		"0"
+		"hammerid"		"2745"
+		"m_iname"		"Zladder 1"
 	}
-	"--**HINT: Crouch to clear the orange sphere!**--"
+	"2750"
 	{
-		"chi"		"提示：蹲下躲避橙色球体"
+		"enable"		"0"
+		"hammerid"		"2750"
+		"m_iname"		"Zladder 2"
 	}
-	"--Congratulations--"
+	"2752"
 	{
-		"chi"		"恭喜！！！"
+		"enable"		"0"
+		"hammerid"		"2752"
+		"m_iname"		"Zladder 3"
 	}
-	"--Cake will follow up shortly--"
+	"2756"
 	{
-		"chi"		"蛋糕会马上跟进"
+		"enable"		"0"
+		"hammerid"		"2756"
+		"m_iname"		"Zladder 4"
 	}
-	"--Office doors open in 20 seconds--"
+	"3279"
 	{
-		"chi"		"办公室的门将会在20秒后打开"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"3279"
+		"m_iname"		"Zbreak 1"
 	}
-	"--Hold this position from any zombies--"
+	"3281"
 	{
-		"chi"		"坚守阵地！"
+		"enable"		"0"
+		"hammerid"		"3281"
+		"m_iname"		"Zbreak 2"
 	}
-	"--Office doors close in 5--"
+	"3288"
 	{
-		"chi"		"办公室的门将会在5秒后打开"
+		"enable"		"0"
+		"hammerid"		"3288"
+		"m_iname"		"break3"
 	}
-	"--Office doors will reopen in 20 seconds--"
+	"3343"
 	{
-		"chi"		"办公室的门将会在20秒后再次打开"
+		"enable"		"0"
+		"hammerid"		"3343"
+		"m_iname"		"break3"
 	}
-	"--Office doors are now closed--"
+	"3345"
 	{
-		"chi"		"办公室的门现在关上了"
+		"enable"		"0"
+		"hammerid"		"3345"
+		"m_iname"		"break3"
 	}
-	"--Cutting the cake in 5--"
+	"3368"
 	{
-		"chi"		"5秒后开始切蛋糕"
-	}
-	"--Cake is being Cut! You are too late--"
-	{
-		"chi"		"蛋糕被切啦！你们太慢了"
-	}
-	"--Office doors are now Open--"
-	{
-		"chi"		"办公室门现在打开了"
-	}
-	"--Fighting GLaDOS--"
-	{
-		"chi"		"和 GLaDOS 战斗"
-	}
-	"--Protect yourself from the zombies for 60 seconds!--"
-	{
-		"chi"		"坚守僵尸60秒"
-		"DoorCountDown"		"60"
-	}
-	"--Zombie teleport in 25 secs!--"
-	{
-		"chi"		"僵尸将在25秒后传送"
-	}
-	"--GLaDOS is exploding! Take cover!--"
-	{
-		"chi"		"GLaDOS要爆炸了！解决它！"
-	}
-	"--Lift doors open in 10 seconds!--"
-	{
-		"chi"		"逃生电梯的门将在10秒后打开"
-	}
-	"--Escape lift doors closing in 10 seconds--"
-	{
-		"chi"		"逃生电梯的门将在10秒后关闭"
-	}
-	"--Lift has now left Aperture Science--"
-	{
-		"chi"		"电梯现在已经逃离光圈科技"
-	}
-	"--We hope you have enjoyed your stay at Aperture Science!--"
-	{
-		"chi"		"希望你在光圈科技玩的愉快！"
-	}
-	"--Thanks for Playing!--"
-	{
-		"chi"		"感谢大家"
-	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		">>关卡：正常<<"
-	}
-	"MAP BY: TaskuVaras"
-	{
-		"chi"		"地图作者：TaskuVaras"
-	}
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		">>关卡：不是很难<<"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"地图作者：BillSmauz"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"地图作者：Taskuvaras"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"人类大门将在15秒后打开"
-		"DoorCountDown"		"15"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"当前难度：正常"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"地图作者：Airvulpes"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"这张图由LUFFAREN在一天之内完成"
-	}
-	"test"
-	{
-		"chi"		"** **"
-	}
-	"tessay test"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"3368"
+		"m_iname"		"break3"
 	}
 }

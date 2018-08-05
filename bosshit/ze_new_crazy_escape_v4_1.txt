@@ -1,318 +1,267 @@
-"Console_T"
+"BOSSHP"
 {
-	"### TOUCH ALL 4 STATUES TO ACTIVATE TELEPORT ###"
+	"143760"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"143760"
+		"m_iname"		"nrk1_room4ex_door"
 	}
-	"### TELEPORT ALL HUMAN IN 20 SECONDS ###"
+	"143948"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"143948"
+		"m_iname"		"nrk1_room4ex_fencebreak"
 	}
-	"### CLIMB TO THE TOP OF THE PYRAMID ###"
+	"143994"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"143994"
+		"m_iname"		"nrk1_room4ex_zombie"
 	}
-	"### ZOMBIES INCOMING IN 5 SECONDS ###"
+	"143998"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"143998"
+		"m_iname"		"nrk1_room4ex_human"
 	}
-	"### HOLD THIS PYRAMID FOR 60 SECONDS ###"
+	"144382"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"144382"
+		"m_iname"		"nrk1_room4ex_trap_1"
 	}
-	"### HOLD THIS PYRAMID FOR 30 SECONDS ###"
+	"144392"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"144392"
+		"m_iname"		"nrk1_room4ex_trap_2"
 	}
-	"### STAY AT THE TOP OF PYRAMID FOR TELEPORT !! ###"
+	"144401"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"144401"
+		"m_iname"		"nrk1_room4ex_trap_3"
 	}
-	"### TELEPORT IN 5 SECONDS ###"
+	"122181"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"122181"
+		"m_iname"		"nrk1_room3_breakable"
 	}
-	"### CLIMB TO THE TOP OF TOWER BEFORE IT COLLAPSE ###"
+	"58792"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"58792"
+		"m_iname"		"nrk1_boss_hitbox"
 	}
-	"### ZOMBIES INCOMING IN 15 SECONDS ###"
+	"59111"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"59111"
+		"m_iname"		"nrk1_CY01Physic"
 	}
-	"### GET ON TOP HERE TELEPORT IN  30 SECONDS ###"
+	"53442"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53442"
+		"m_iname"		"nrk1_room4_breakable_1"
 	}
-	"### 10 MORE SECONDS QUICKK !!! ###"
+	"53453"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53453"
+		"m_iname"		"nrk1_room4_breakable_2"
 	}
-	"### ZOMBIES FENCE BREAKS IN 10 SECONDS ###"
+	"53482"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53482"
+		"m_iname"		"nrk1_room4_glass_1"
 	}
-	"### HUMANS FENCE BREAKS IN 5 SECONDS ###"
+	"53496"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53496"
+		"m_iname"		"nrk1_room4_glass_2"
 	}
-	"### JUST !! RUNNNNNN LOL !!! ###"
+	"53507"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53507"
+		"m_iname"		"nrk1_room4_glass_3"
 	}
-	"### HOLD HERE FOR 30 SECONDS ###"
+	"53518"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53518"
+		"m_iname"		"nrk1_room4_glass_4"
 	}
-	"### 10 SECONDS REMAINING ###"
+	"53530"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53530"
+		"m_iname"		"nrk1_room4_glass_5"
 	}
-	"### THERE ARE TRAPS SOO BEWARE !! ###"
+	"53542"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53542"
+		"m_iname"		"nrk1_room4_glass_6"
 	}
-	"### HUMAN NEEDS TO PRESS ALL THE BUTTON ###"
+	"53690"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"53690"
+		"m_iname"		"nrk1_room4_doorbreak"
 	}
-	"### TO BREAK THE TELEPORT DOOR ###"
+	"54005"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"54005"
+		"m_iname"		"nrk1_statue_1"
 	}
-	"### ZOMBIES FENCE BREAK IN 10 SECONDS ###"
+	"54033"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"54033"
+		"m_iname"		"nrk1_statue_2"
 	}
-	"### ALL BUTTONS HAVE BEEN PRESSED ###"
+	"54048"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"54048"
+		"m_iname"		"nrk1_statue_3"
 	}
-	"### CROSS THE PLATFORM BEFORE IT DISAPPEARS !! ###"
+	"54057"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"54057"
+		"m_iname"		"nrk1_statue_4"
 	}
-	"### PREPARE FOR BATTLE !! ###"
+	"38902"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"38902"
+		"m_iname"		"nrk_spawnglass_break"
 	}
-	"### FEEL MY LOVE ###"
+	"212327"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"212327"
+		"m_iname"		"nrk2_room6_dontdelay"
 	}
-	"### FEEL MY PAIN ###"
+	"153101"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"153101"
+		"m_iname"		"nrk2_room3ex_breakable_floor"
 	}
-	"### THIS IS NOT THE END !! ###"
+	"149302"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"149302"
+		"m_iname"		"nrk2_room3ex_breakable"
 	}
-	"### HOLD UNTIL SOMETHING HAPPENS ###"
+	"149464"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"149464"
+		"m_iname"		"nrk2_room3ex_breakable_tr"
 	}
-	"### DEFEND 4 STATUES FOR 60 SECONDS!! ###"
+	"149483"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"149483"
+		"m_iname"		"nrk2_room3ex_breakable_cts"
 	}
-	"### DONT LET ZOMBIES DESTROY ONE OF THE STATUE !! ###"
+	"149514"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"149514"
+		"m_iname"		"nrk2_room3ex_breakable_wall"
 	}
-	"### 10 MORE SECONDS KEEP HOLDING ###"
+	"149558"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"149558"
+		"m_iname"		"nrk2_room3ex_breakable_door"
 	}
-	"### HUMAN DOOR BREAKS IN 5 SECONDS ###"
+	"89557"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"89557"
+		"m_iname"		"nrk2_room4_cage_3"
 	}
-	"### ZOMBIES DOOR BREAKS IN 10 SECONDS"
+	"90096"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"90096"
+		"m_iname"		"nrk2_room3_break_1"
 	}
-	"### REACH THE OTHER SIDE TO PROCEED THE NEXT PART !! ###"
+	"90109"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"90109"
+		"m_iname"		"nrk2_room3_break_2"
 	}
-	"### PRESS THOSE 2 BUTTONS TO BREAK THE DOOR ###"
+	"86402"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"86402"
+		"m_iname"		"nrk2_room4_cage_2"
 	}
-	"### SHORT CUT IS OPEN BECARE FUL !! ###"
+	"86413"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"86413"
+		"m_iname"		"nrk2_room4_cage_1"
 	}
-	"### TELEPORT THE REST IN 5 SECONDS ###"
+	"82833"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"82833"
+		"m_iname"		"nrk2_room2_fence"
 	}
-	"### THIS IS RAT RACE !! REACH THE CENTER BEFORE ZOMBIE ###"
+	"83986"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"83986"
+		"m_iname"		"nrk2_room2_doorbreak_1"
 	}
-	"### RAT RACE IN 5 SECONDS !! AND NO BHOP PLEASE ###"
+	"84000"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"84000"
+		"m_iname"		"nrk2_room2_doorbreak_2"
 	}
-	"### NO BHOP OR JUMP YOU RETARDED !! ###"
+	"37078"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"37078"
+		"m_iname"		"nrk2_room2_doorbreak_3"
 	}
-	"### JUST WHOLE W OHH !! I MEAN HOLD W ###"
+	"125364"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"125364"
+		"m_iname"		"nrk2_naraka_box"
 	}
-	"### ZOMBIES ARE ALMOST AT THE CENTER ###"
+	"242536"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"242536"
+		"m_iname"		"nrk2_room6_dontdelay"
 	}
-	"### HOLD THE FOUNTAIN FOR 40 SECONDS ###"
+	"237083"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"237083"
+		"m_iname"		"nrk2_room3ex_secret_break"
 	}
-	"### QUICK HUMANN YOU DONT WANT TO LOSE RIGHT ? ###"
+	"242741"
 	{
-		"chi"		"** **"
-	}
-	"### DISABLE NO BHOP OR JUMP IN 5 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### TELEPORT INCOMING IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### JUST STAY ALIVE ###"
-	{
-		"chi"		"** **"
-	}
-	"### THANKS TO LUFFAREN FOR TIPS ! ###"
-	{
-		"chi"		"** **"
-	}
-	"### THE PLATFORM IS MOVING DOWN ###"
-	{
-		"chi"		"** **"
-	}
-	"### WHEN IT REACHES THE GROUND PRESS IT !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### THIS IS IT !!! THIS IS THE TT T T RRR UUU T HHH ###"
-	{
-		"chi"		"** **"
-	}
-	"### IM JOKING LOL FIND THE WAY TO ESCAPE THIS JUNGLE ###"
-	{
-		"chi"		"** **"
-	}
-	"### BRIDGE DISAPPEAR IN 10 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### NARAKA WILL BE APPEAR IN 30 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### YOU CAN BE SURE ILL BE BACK ###"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"69968"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"### THE HOLY PLATFORMS IS GOING DOWN !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES INCOMING IN 20 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### GET ON TOP HERE TELEPORT IN  40 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_g_cv_money 8500"
-		}
-		"1"
-		{
-			"cvar"		"sm_Cvar sm_g_cv_money 8500"
-		}
-		"2"
-		{
-			"cvar"		"sm_Cvar     sm_he_limit 4"
-		}
-		"3"
-		{
-			"cvar"		"sm_Cvar   sm_molotov_limit 2"
-		}
-	}
-	"### PLATFORM IS GOING DOWN IN 5 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### PLATFORM IS GOING DOWN IN 4 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### PLATFORM IS GOING DOWN IN 3 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### PLATFORM IS GOING DOWN IN 2 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### PLATFORM IS GOING DOWN IN 1 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### RAT RACE IN 5 SECONDS !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### NO BHOP PLEASE OR FAKING JUMPING ###"
-	{
-		"chi"		"** **"
-	}
-	"### I SAID NO BHOP OR JUMP YOU FAKING RETARD ###"
-	{
-		"chi"		"** **"
-	}
-	"### ZOMBIES FENCE BREAKS IN 20 SECONDS ###"
-	{
-		"chi"		"** **"
-	}
-	"### SECRET PLATFORM HAS BEEN ACTIVATED ###"
-	{
-		"chi"		"** **"
-	}
-	"### DOORHUGGERS WILL GET A SURPRISE  ###"
-	{
-		"chi"		"** **"
-	}
-	"### IDEA FROM: Luffaren ###"
-	{
-		"chi"		"** **"
-	}
-	"### YOU ARE TOO SLOW SOO LIKE A TURTLEE !! ###"
-	{
-		"chi"		"** **"
-	}
-	"### THE PATHWAY HAS BEEN BLOCKED GOODBYE !! ###"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"242741"
+		"m_iname"		"nrk2_naraka_box"
 	}
 }

@@ -1,343 +1,231 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** ... ***"
+	"2623"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2623"
+		"m_iname"		"AstroHelmet&3427"
 	}
-	"*** MODE: VIP ***"
+	"3019"
 	{
-		"chi"		"**模式：欧皇**"
+		"enable"		"0"
+		"hammerid"		"3019"
+		"m_iname"		"CouchBreakable_Reverse"
 	}
-	"*** A VIP will be chosen momentarily. If the VIP dies you will all face a white room. ***"
+	"3027"
 	{
-		"chi"		"**如果欧皇死掉的话人类即将被传送到小黑屋接受命运**"
+		"enable"		"0"
+		"hammerid"		"3027"
+		"m_iname"		"CouchBreakable_Reverse"
 	}
-	"*** ZE_BOATESCAPEX ***"
+	"3216"
 	{
-		"chi"		"**ze_BoatEscapeX_b3 超级船只大逃亡 翻译：冰花丶**"
+		"enable"		"0"
+		"hammerid"		"3216"
+		"m_iname"		"rock_wall"
 	}
-	"*** A mode is being randomly chosen... ***"
+	"3224"
 	{
-		"chi"		"**正在随机选择一个模式**"
+		"enable"		"0"
+		"hammerid"		"3224"
+		"m_iname"		"rock_wall3"
 	}
-	"*** MODE: CLASSIC ***"
+	"3248"
 	{
-		"chi"		"**模式：经典**"
+		"enable"		"0"
+		"hammerid"		"3248"
+		"m_iname"		"rock_wall2_reversebreak"
 	}
-	"*** No frills & no thrills. Its you against the zombies! ***"
+	"357798"
 	{
-		"chi"		"**没有任何东西帮助你守住僵尸**"
+		"enable"		"0"
+		"hammerid"		"357798"
+		"m_iname"		"MysteryContainer&3421"
 	}
-	"*** Second boat is preparing to leave the dock. ***"
+	"108408"
 	{
-		"chi"		"**第二只船准备离开码头**"
+		"enable"		"0"
+		"hammerid"		"108408"
+		"m_iname"		"Araumschiff&3386"
 	}
-	"*** First boat is preparing to leave the dock. ***"
+	"130334"
 	{
-		"chi"		"**第一只船准备离开码头**"
+		"enable"		"0"
+		"hammerid"		"130334"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** AIRSHIPS UNLOCKED! ***"
+	"130337"
 	{
-		"chi"		"**飞艇已经解锁**"
+		"enable"		"0"
+		"hammerid"		"130337"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** MODE: EXPLOSIVE ***"
+	"130340"
 	{
-		"chi"		"**模式：天谴**"
+		"enable"		"0"
+		"hammerid"		"130340"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Raining cannonballs from the sky! Try to avoid them at all costs! ***"
+	"130343"
 	{
-		"chi"		"**将从天上掉下炮弹！小心别被炸到**"
+		"enable"		"0"
+		"hammerid"		"130343"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"Sponge builder has been picked up."
+	"130346"
 	{
-		"chi"		"**【人类】海绵生成器已被拾取**"
+		"enable"		"0"
+		"hammerid"		"130346"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Zombie boss has been discovered. ****"
+	"130349"
 	{
-		"chi"		"**【僵尸】老大已被发现**"
+		"enable"		"0"
+		"hammerid"		"130349"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"** Zombie silhouetting kit has been acquired! **"
+	"130352"
 	{
-		"chi"		"**【僵尸】轮廓工具包已被拾取**"
+		"enable"		"0"
+		"hammerid"		"130352"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*Spacesuit has been taken. It lowers gravity by a 60%.*"
+	"130355"
 	{
-		"chi"		"**【人类】宇航服已被捡起 降低拾取者重力60%**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"130355"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Long pathway to open in 30 secs! ***"
+	"130358"
 	{
-		"chi"		"**长通道还有30秒开启**"
+		"enable"		"0"
+		"hammerid"		"130358"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Zombie jumper has been picked. ****"
+	"130361"
 	{
-		"chi"		"**【僵尸】跳跃者已被拾取**"
+		"enable"		"0"
+		"hammerid"		"130361"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** LONG PATH OPEN! ***"
+	"130364"
 	{
-		"chi"		"**长通道开启**"
+		"enable"		"0"
+		"hammerid"		"130364"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** First boat has reached the final dock. ***"
+	"130367"
 	{
-		"chi"		"**第一艘船已经到达码头**"
+		"enable"		"0"
+		"hammerid"		"130367"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Second boat has reached the final dock. ***"
+	"130370"
 	{
-		"chi"		"**第二艘船已经到达码头**"
+		"enable"		"0"
+		"hammerid"		"130370"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Zombie summoner has been picked. ****"
+	"130373"
 	{
-		"chi"		"**【僵尸】召唤已被拾取**"
+		"enable"		"0"
+		"hammerid"		"130373"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Zombie Rage has been picked up. ***"
+	"130376"
 	{
-		"chi"		"**【僵尸】暴怒已经拾取**"
+		"enable"		"0"
+		"hammerid"		"130376"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Rescue boats inbound! ***"
+	"130379"
 	{
-		"chi"		"**已呼叫救援船只**"
+		"enable"		"0"
+		"hammerid"		"130379"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** Zombie Stopper has been picked up. ***"
+	"130382"
 	{
-		"chi"		"**【僵尸】暂停者已被拾取**"
+		"enable"		"0"
+		"hammerid"		"130382"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** DEFEND UNTIL THE BOATS ARRIVE! ***"
+	"130385"
 	{
-		"chi"		"**守到船只到达**"
+		"enable"		"0"
+		"hammerid"		"130385"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
+	"130388"
 	{
-		"chi"		"**逃生船只1已经启动**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"130388"
+		"m_iname"		"WoodenBoards&3363"
 	}
-	"*** FINAL SECOND BOAT IS LEAVING SOON! ***"
+	"5796"
 	{
-		"chi"		"**逃生船只2已经启动**"
-		"DoorCountDown"		"-1"
+		"enable"		"1"
+		"hammerid"		"5796"
+		"m_iname"		"Alaser_hitbox_4&2282"
 	}
-	"*** FINAL SECOND BOAT IS LEAVING! GET IN!!! ***"
+	"117483"
 	{
-		"chi"		"**逃生船只2即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"117483"
+		"m_iname"		"Landmine_Brush&2992"
 	}
-	"*** FINAL FIRST BOAT IS LEAVING! GET IN!!! ***"
+	"284186"
 	{
-		"chi"		"**逃生船只1即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"284186"
+		"m_iname"		"ReverseBreakable"
 	}
-	"*** NUKE INBOUND! ***"
+	"197429"
 	{
-		"chi"		"**核弹按钮已经按下**"
+		"enable"		"0"
+		"hammerid"		"197429"
+		"m_iname"		"VIPPhys"
 	}
-	"*** MODE: CHICKEN HELL ***"
+	"412390"
 	{
-		"chi"		"**模式：小鸡地狱**"
+		"enable"		"0"
+		"hammerid"		"412390"
+		"m_iname"		"SoccerBallWall"
 	}
-	"*** The chickens are electrifying! Run! Dont stand still! ***"
+	"412584"
 	{
-		"chi"		"**这些鸡带着电！快跑！别站着不动**"
+		"enable"		"0"
+		"hammerid"		"412584"
+		"m_iname"		"SoccerBallWall"
 	}
-	"** Interdimensional wooden vortex has been acquired. **"
+	"415977"
 	{
-		"chi"		"**【人类】墙体制造器已经拾取**"
+		"enable"		"0"
+		"hammerid"		"415977"
+		"m_iname"		"SoccerBallWall"
 	}
-	"*** Flamethrower has been picked up. ***"
+	"416100"
 	{
-		"chi"		"**【人类】火焰喷射器已被捡起**"
+		"enable"		"0"
+		"hammerid"		"416100"
+		"m_iname"		"SoccerBallWall"
 	}
-	"*** Freeze Ring has been picked up. ***"
+	"416202"
 	{
-		"chi"		"**【人类】冷冻环已被拾取**"
+		"enable"		"0"
+		"hammerid"		"416202"
+		"m_iname"		"SoccerBallWall"
 	}
-	"**Gandalf staff has been picked!**"
+	"407288"
 	{
-		"chi"		"**【人类】甘道夫权杖已经拾取**"
+		"enable"		"0"
+		"hammerid"		"407288"
+		"m_iname"		"SoccerBallWall"
 	}
-	"*** Disk has been picked. ***"
+	"191469"
 	{
-		"chi"		"**【人类】飞盘已被拾取**"
-	}
-	"*** MODE: REVERSE ***"
-	{
-		"chi"		"**模式：返回**"
-	}
-	"*** Make your way from the end to start! Run! Zombies are coming! ***"
-	{
-		"chi"		"**你将要从终点跑回起点！开始吧！小心僵尸**"
-	}
-	"*** Final first boat is leaving! Get in!!!***"
-	{
-		"chi"		"**逃生船只1即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
-	}
-	"** Explosive kamikaze bum-bum has been acquired! **"
-	{
-		"chi"		"**【僵尸】神风敢死队（自爆兵）已经拾取**"
-	}
-	"** HE Maker has been picked. **"
-	{
-		"chi"		"**【人类】手雷制造器已被拾取**"
-	}
-	"*** Shield has been picked. ***"
-	{
-		"chi"		"**【人类】屏障已被拾取**"
-	}
-	"** Secret italian pomodoro seeds have been acquired. **"
-	{
-		"chi"		"**秘密的意大利番茄已经被发现**"
-	}
-	"*** Upper tram leaving in 10 secs. ***"
-	{
-		"chi"		"**电车还有10秒离开**"
-	}
-	"*** 45 SECONDS TO GET TO THE SAFETY ZONE ***"
-	{
-		"chi"		"** **"
-	}
-	"*** MODE: DEPRESSION ***"
-	{
-		"chi"		"**模式：绝望**"
-	}
-	"*** There will be no help for you. ***"
-	{
-		"chi"		"**这对你没有任何帮助**"
-	}
-	"*** MODE: VIETNAM ***"
-	{
-		"chi"		"**模式：越南丛林**"
-	}
-	"*** Get out of the jungle! Theres traps all over! Watch your step! ***"
-	{
-		"chi"		"**我们要离开丛林-这里好像有陷阱，小心脚下**"
-	}
-	"*** MODE: WINTER ***"
-	{
-		"chi"		"**模式:暴风雪**"
-	}
-	"*** ITS FREEZING! ITS COLD! The water has been frozen! Use the fire to warm yourselves and get to the end! ***"
-	{
-		"chi"		"**好冷啊,好冷啊，水已经被冻住了-使用篝火来回复血量，然后去到终点!**"
-	}
-	"*** Its wise to take the alternative path than the main one as the water is frozen and you have no boats! ***"
-	{
-		"chi"		"**将有替代的道路而且河面结冰所以你没有任何船只**"
-	}
-	"*** MODE: SPACE ***"
-	{
-		"chi"		"**模式：低重力**"
-	}
-	"*** MODE: TORNADO ***"
-	{
-		"chi"		"**模式：风暴之路**"
-	}
-	"*** MODE: WALLS ***"
-	{
-		"chi"		"**模式：多墙**"
-	}
-	"*** MODE: NORMAL ***"
-	{
-		"chi"		"**模式：普通**"
-	}
-	"*** MODE: LAVA ***"
-	{
-		"chi"		"**模式：熔岩上升**"
-	}
-	"*** Gravity is near gone! Watch for flying zombies! ***"
-	{
-		"chi"		"**地心引力消失了！小心那些飞着的僵尸**"
-	}
-	"*** You may want to actually avoid the tornados. ***"
-	{
-		"chi"		"**你必须躲开那些旋风**"
-	}
-	"*** The walls have eyes. ***"
-	{
-		"chi"		"**路上有墙**"
-	}
-	"*** Generic! ***"
-	{
-		"chi"		"**正常路线，赶紧捡起神器玩玩吧（不要卖人）**"
-	}
-	"*** The lava is slowly rising! Make a run for it!!! Dont dare swim! ***"
-	{
-		"chi"		"**熔岩会慢慢上升！快跑！不要游泳**"
-	}
-	"*** MODE: DARKNESS ***"
-	{
-		"chi"		"**模式：瘦长鬼影**"
-	}
-	"*** ITS DARK! Be sure not to meet any unfriendly folks along the way! ***"
-	{
-		"chi"		"**好黑呀，希望别遇到不友善的人**"
-	}
-	"*** MODE: GOAL ***"
-	{
-		"chi"		"**模式：足球**"
-	}
-	"*** Two giant soccer balls have appeared. Shoot them and break down walls! ***"
-	{
-		"chi"		"**有2个足球，射击推动它们破坏墙壁（有2个后面的墙分别需要船只 直升机破坏）**"
-	}
-	"*** Remember to trigger a boat or face your doom! ***"
-	{
-		"chi"		"**赶紧启动船只否则成为僵尸的4积分吧**"
-		"DoorCountDown"		"-1"
-	}
-	"*** THE VIP HAS BEEN CHOSEN! ***"
-	{
-		"chi"		"**欧皇出现**"
-	}
-	"*** Protect him as he makes his way to the end. ***"
-	{
-		"chi"		"**【人类】保护欧皇到达终点**"
-	}
-	"*** The VIP is on the move. Consider defending and helping him reach the end or face death! ***"
-	{
-		"chi"		"**VIP在移动了，继续保护他或者成为僵尸的4积分**"
-		"DoorCountDown"		"-1"
-	}
-	"** All aircraft are heavily damaged from the nuke! **"
-	{
-		"chi"		"**航天器正在受到核弹伤害**"
-	}
-	"*** A BOAT MUST ARRIVE AT THE ISLAND BEFORE THE NUKE CAN GO OFF! ***"
-	{
-		"chi"		"**一搜船必须在核爆之前到达**"
-	}
-	"*** Rescue air balloons inbound! ***"
-	{
-		"chi"		"**营救热气球入站**"
-	}
-	"*** Its still BOAT ESCAPE! ***"
-	{
-		"chi"		"**也就个坐船逃亡，只不过有许多有趣的娱乐关**"
-	}
-	"**Saruman staff has been picked!**"
-	{
-		"chi"		"**【人类】萨鲁曼的权杖已经拾取**"
-	}
-	"** Trainer has been picked. **"
-	{
-		"chi"		"**飞行练习器已经启动**"
-	}
-	"*** DEFEND UNTIL THE BALLOONS ARRIVE! ***"
-	{
-		"chi"		"**守到热气球到达**"
-	}
-	"*** The air balloons will take us to a different island. ***"
-	{
-		"chi"		"**热气球即将带我们去另一座岛**"
-	}
-	"*** THE BOATS & BUNKER HAVE BEEN COMPROMISED BY THE LAVA! ***"
-	{
-		"chi"		"**船和地堡已经被熔岩淹没**"
-	}
-	"*** Invulnerability for humans in 3 secs... ***"
-	{
-		"chi"		"**人类无敌3秒（原单词刀枪不入）**"
-	}
-	"** AIRSHIPS ARE GOING DOWN! **"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"191469"
+		"m_iname"		"TornadoPhys&1205"
 	}
 }

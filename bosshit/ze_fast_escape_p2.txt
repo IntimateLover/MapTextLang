@@ -1,91 +1,81 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Map by Taskuvaras***"
+	"716"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"716"
+		"m_iname"		"spawn_ovet2"
 	}
-	"***Human door opening in 15s***"
+	"2043"
 	{
-		"chi"		"**在 15 秒后人类的大门打开。**"
+		"enable"		"0"
+		"hammerid"		"2043"
+		"m_iname"		"objective1_red"
 	}
-	"***Survive for 1.5 min***"
+	"2386"
 	{
-		"chi"		"**防守 150 秒！这是一个很轻松的活！**"
+		"enable"		"0"
+		"hammerid"		"2386"
+		"m_iname"		"objective1_ovi"
 	}
-	"***Zombie door opening in 8 sec***"
+	"2431"
 	{
-		"chi"		"**僵尸的门将在 8 秒后打开。**"
+		"enable"		"0"
+		"hammerid"		"2431"
+		"m_iname"		"objective1_ovi"
 	}
-	"***Survive for 1 min***"
+	"7897"
 	{
-		"chi"		"**防守 60 秒！ 不要贴边！不要装逼！**"
+		"enable"		"0"
+		"hammerid"		"7897"
+		"m_iname"		"zombihakki1"
 	}
-	"***Survive for 30 sec***"
+	"7978"
 	{
-		"chi"		"**防守 30 秒！ 不要贴边！不要装逼！**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"7978"
+		"m_iname"		"puolustus2_ovet"
 	}
-	"***Elevator door opening!!!***"
+	"7994"
 	{
-		"chi"		"**电梯门打开了！！GO GO GO!**"
+		"enable"		"0"
+		"hammerid"		"7994"
+		"m_iname"		"puolustus2_ovet"
 	}
-	"***Zombies locked to cage***"
+	"16936"
 	{
-		"chi"		"**僵尸被关进笼子里了！趁现在快跑！**"
+		"enable"		"0"
+		"hammerid"		"16936"
+		"m_iname"		"objective1_red1"
 	}
-	"***Elevator leaving in 10 sec***"
+	"16955"
 	{
-		"chi"		"**电梯将在 10 秒后启动！**"
+		"enable"		"0"
+		"hammerid"		"16955"
+		"m_iname"		"objective1_red2"
 	}
-	"***Break all red block to continue***"
+	"16968"
 	{
-		"chi"		"**打碎中间所有在移动的红色方块！ 对僵尸的防守不要松懈！**"
+		"enable"		"0"
+		"hammerid"		"16968"
+		"m_iname"		"objective1_red3"
 	}
-	"***Great job... hold for 15 sec***"
+	"16981"
 	{
-		"chi"		"**干得了漂亮！！红色方块已被全部打碎！再防守 15 秒！**"
-		"DoorCountdown"		"15"
+		"enable"		"0"
+		"hammerid"		"16981"
+		"m_iname"		"objective1_red4"
 	}
-	"***GOGOGO!!!***"
+	"734"
 	{
-		"chi"		"**GO GO GO! 扔雷撤退！记得跳跃断口！**"
+		"enable"		"0"
+		"hammerid"		"734"
+		"m_iname"		"spawn_ovet1"
 	}
-	"***Hold for 30 sec***"
+	"5270"
 	{
-		"chi"		"**守住 30 秒！ 僵尸无法跨越绿色的地板！**"
-		"DoorCountdown"		"30"
-	}
-	"***Hold for 5 sec***"
-	{
-		"chi"		"**还有 5 秒！ 虽然有空气墙，但还是记得扔雷撤退！**"
-	}
-	"***Break 7 red targets to continue***"
-	{
-		"chi"		"**继续打碎 7 个红色的方块！**"
-	}
-	"***Good... Now climb on the towers and wait for rescue***"
-	{
-		"chi"		"**漂亮！！现在爬上楼梯等待救援！注意僵尸！手雷不要停！**"
-	}
-	"***wait 10 sec***"
-	{
-		"chi"		"**等待 10 秒**"
-		"DoorCountdown"		"10"
-	}
-	"***Rescue is here... Jump on!!!***"
-	{
-		"chi"		"**救援的板子已经出来了！快跳上去！小心僵尸！**"
-	}
-	"***Adjust the volume in your music settings or via snd_musicvolume***"
-	{
-		"chi"		"** **"
-	}
-	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5270"
+		"m_iname"		"viimeinensilta"
 	}
 }

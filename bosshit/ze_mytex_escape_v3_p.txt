@@ -1,87 +1,93 @@
-"Console_T"
+"BOSSHP"
 {
-	"*Map by Neox*"
+	"8176"
 	{
-		"chi"		"** 地图制作 by Neox 地图翻译 by 色狼领袖 **"
+		"enable"		"0"
+		"hammerid"		"8176"
+		"m_iname"		"Block2"
 	}
-	"*Thanks to Fuu and FreeZe :P *"
+	"8143"
 	{
-		"chi"		"** 感谢 Fuu和FreeZe :P **"
+		"enable"		"0"
+		"hammerid"		"8143"
+		"m_iname"		"Dach"
 	}
-	"*Startdoor C is opening in 10 seconds!*"
+	"8159"
 	{
-		"chi"		"** 出生点 C 区大门 10 秒后开启！ **"
+		"enable"		"0"
+		"hammerid"		"8159"
+		"m_iname"		"Dach"
 	}
-	"*Elevator is leaving in 5 seconds!*"
+	"8593"
 	{
-		"chi"		"** 电梯将在 5 秒后离开！ **"
+		"enable"		"0"
+		"hammerid"		"8593"
+		"m_iname"		"Block1"
 	}
-	"*Bridge is breaking in 30 seconds!*"
+	"9022"
 	{
-		"chi"		"** 石桥将在 30 秒后坍塌！ **"
+		"enable"		"0"
+		"hammerid"		"9022"
+		"m_iname"		"Bridge1c"
 	}
-	"*Bridge is breaking in 10 seconds!*"
+	"9153"
 	{
-		"chi"		"** 石桥将在 10 秒后坍塌！ **"
+		"enable"		"0"
+		"hammerid"		"9153"
+		"m_iname"		"Bridge1a"
 	}
-	"*Gate is opening!*"
+	"9247"
 	{
-		"chi"		"** 闸门开启！ **"
+		"enable"		"0"
+		"hammerid"		"9247"
+		"m_iname"		"Bridge1b"
 	}
-	"*Tram is leaving in 12 seconds!*"
+	"9394"
 	{
-		"chi"		"** 电车将在 12 秒后离开！ **"
-                "DoorCountdown"                "12"
+		"enable"		"0"
+		"hammerid"		"9394"
+		"m_iname"		"Bridge1d"
 	}
-	"*AFK teleport in 10 seconds!*"
+	"10141"
 	{
-		"chi"		"** 挂机的玩家将在 10 秒后传送！ **"
+		"enable"		"0"
+		"hammerid"		"10141"
+		"m_iname"		"Wand2"
 	}
-	"*Right Gate is opening in 15 seconds!*"
+	"10155"
 	{
-		"chi"		"** 右边的闸门将在 15 秒后开启！ **"
-                "DoorCountdown"                "15"
+		"enable"		"0"
+		"hammerid"		"10155"
+		"m_iname"		"Wand2"
 	}
-	"*Left Gate is opening in 15 seconds!*"
+	"10169"
 	{
-		"chi"		"** 左边的闸门将在 15 秒后开启！ **"
+		"enable"		"0"
+		"hammerid"		"10169"
+		"m_iname"		"Wand2b"
 	}
-	"*Right Gate is opening!*"
+	"10738"
 	{
-		"chi"		"** 右边的闸门开启！ **"
+		"enable"		"0"
+		"hammerid"		"10738"
+		"m_iname"		"Endbr?cke"
 	}
-	"*Left Gate is opening!*"
+	"11360"
 	{
-		"chi"		"** 左边的闸门开启！ **"
+		"enable"		"0"
+		"hammerid"		"11360"
+		"m_iname"		"Wandbreak"
 	}
-	"*Bigdoor is opening in 30 seconds!*"
+	"11371"
 	{
-		"chi"		"** 大门将于 30 秒后打开！ **"
-                "DoorCountdown"                "32"
+		"enable"		"0"
+		"hammerid"		"11371"
+		"m_iname"		"Weg"
 	}
-	"*Bigdoor is opening in 10 seconds!*"
+	"11666"
 	{
-		"chi"		"**  大门将于 10 秒后打开！**（不要急着贴门，大门开启还需要一段时间）"
-	}
-	"*Bigdoor is opening!*"
-	{
-		"chi"		"** 大门开启！** （不要急着贴门，大门开启还需要一段时间）"
-	}
-	"*Finaldoor is opening in 15 seconds!"
-	{
-		"chi"		"** 最后的逃生门将在 15 秒后打开！ **(守到闪白光)"
-	}
-	"*Finaldoor is opening!"
-	{
-		"chi"		"** 最后的逃生门开启！ **"
-	}
-	"*Light in 30 seconds!*"
-	{
-		"chi"		"** 桥梁将在 30 秒后断裂！ **"
-                "DoorCountdown"                "30"
-	}
-	"*Light in 10 seconds!*"
-	{
-		"chi"		"** 桥梁将在 10 秒后断裂！ **"
+		"enable"		"0"
+		"hammerid"		"11666"
+		"m_iname"		"Endboxs"
 	}
 }

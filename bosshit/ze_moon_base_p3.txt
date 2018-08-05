@@ -1,75 +1,129 @@
-"Console_T"
+"BOSSHP"
 {
-	"---***This map will mute your sound if you are outside the lunar base***---"
+	"25644"
 	{
-		"chi"		"**如果你在月球基地外面，初中物理课本告诉过我们：声音不会在真空中传播！**"
+		"enable"		"0"
+		"hammerid"		"25644"
+		"m_iname"		"debris_1"
 	}
-	"***Defend for 30 seconds!***"
+	"25656"
 	{
-		"chi"		"**防守 30 秒！                色狼领袖：“不会蹲跳的同学不要慌张，可以尝试按住 shift + 蹲键 然后再跳。**"
+		"enable"		"0"
+		"hammerid"		"25656"
+		"m_iname"		"debris_1"
 	}
-	"***10 seconds!***"
+	"25667"
 	{
-		"chi"		"**还有 10 秒！                色狼领袖：“还没跳进来的同学抓紧时间，把空格跳跃改成滚轮跳跃会使你更轻松的蹲跳过去。”**"
+		"enable"		"0"
+		"hammerid"		"25667"
+		"m_iname"		"debris_1"
 	}
-	"***Defense 1 is Open again***"
+	"25688"
 	{
-		"chi"		"**朝下一个防守点进发！**"
+		"enable"		"0"
+		"hammerid"		"25688"
+		"m_iname"		"debris_1"
 	}
-	"***Defend for 45 seconds!***"
+	"26505"
 	{
-		"chi"		"***防守 45 秒！**"
+		"enable"		"0"
+		"hammerid"		"26505"
+		"m_iname"		"debris_1"
 	}
-	"***15 seconds!***"
+	"26514"
 	{
-		"chi"		"**还有 15 秒！**"
+		"enable"		"0"
+		"hammerid"		"26514"
+		"m_iname"		"debris_1"
 	}
-	"***Get to the Lunar Vehicle!***"
+	"26519"
 	{
-		"chi"		"**快上月球车！**"
+		"enable"		"0"
+		"hammerid"		"26519"
+		"m_iname"		"debris_1"
 	}
-	"***Lunar vehicle leaves in 10!***"
+	"26525"
 	{
-		"chi"		"**距离月球车离开还有 10 秒！**"
+		"enable"		"0"
+		"hammerid"		"26525"
+		"m_iname"		"debris_1"
 	}
-	"***Defence 2 is Open again***"
+	"26633"
 	{
-		"chi"		"**朝下一防守点进发！**"
+		"enable"		"0"
+		"hammerid"		"26633"
+		"m_iname"		"debris_1"
 	}
-	"***Lunar vehicle is leaving!***"
+	"391941"
 	{
-		"chi"		"**月球车出发咯!               色狼领袖：“看见朝鲜国国旗记得跳离月球车！”**"
+		"enable"		"0"
+		"hammerid"		"391941"
+		"m_iname"		"EndBreak"
 	}
-	"**Space Ship leaves in 90 seconds!**"
+	"331320"
 	{
-		"chi"		"**距离太空船离开时间还有 90 秒！**"
+		"enable"		"0"
+		"hammerid"		"331320"
+		"m_iname"		"BreakHold_01"
 	}
-	"**Just 60 more seconds!**"
+	"331381"
 	{
-		"chi"		"**距离太空船离开时间还有 60 秒！**"
+		"enable"		"0"
+		"hammerid"		"331381"
+		"m_iname"		"BreakHold_01"
 	}
-	"**Just 30 more seconds!**"
+	"331390"
 	{
-		"chi"		"**距离太空船离开时间还有 30 秒！**"
+		"enable"		"0"
+		"hammerid"		"331390"
+		"m_iname"		"BreakHold_02"
 	}
-	"**15 seconds left!**"
+	"20116"
 	{
-		"chi"		"**距离太空船离开时间还有 15 秒！**"
+		"enable"		"0"
+		"hammerid"		"20116"
+		"m_iname"		"vent_breakable"
 	}
-	"**Blast Doors have been override!**"
+	"25648"
 	{
-		"chi"		"**太空船门已经关闭！**"
+		"enable"		"0"
+		"hammerid"		"25648"
+		"m_iname"		"hallway_break"
 	}
-	"**Spaceship is leaving now!**"
+	"25652"
 	{
-		"chi"		"**太空船现在正在离开！**"
+		"enable"		"0"
+		"hammerid"		"25652"
+		"m_iname"		"hallway_break"
 	}
-	"***Keep Running!***"
+	"25663"
 	{
-		"chi"		"**继续向前冲！**"
+		"enable"		"0"
+		"hammerid"		"25663"
+		"m_iname"		"hallway_break"
 	}
-	"***Do not look back!***"
+	"25679"
 	{
-		"chi"		"**不要回头！**"
+		"enable"		"0"
+		"hammerid"		"25679"
+		"m_iname"		"hallway_break"
+	}
+	"28883"
+	{
+		"enable"		"0"
+		"hammerid"		"28883"
+		"m_iname"		"break_floor"
+	}
+	"37149"
+	{
+		"enable"		"0"
+		"hammerid"		"37149"
+		"m_iname"		"vent_breakable_2"
+	}
+	"212132"
+	{
+		"enable"		"0"
+		"hammerid"		"212132"
+		"m_iname"		"vent_breakable_3"
 	}
 }

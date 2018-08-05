@@ -1,390 +1,1377 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** CURRENT STAGE IS 1: Overworld ***"
+	"cave1_phys"
 	{
-		"chi"		"** 关卡 1 ：上界 **"
+		"enable"		"0"
 	}
-	"*** DEFEND 25 SECONDS ***"
+	"CY01Physic"
 	{
-		"chi"		"** 坚守 25 秒 **"
-		"DoorCountdown"		"25"
+		"enable"		"0"
 	}
-	"*** 5 SECONDS REMAINING ***"
+	"redtorch_phys"
 	{
-		"chi"		"** 还有 5 秒 **"
+		"enable"		"0"
 	}
-	"*** FALL BACK ***"
+	"bow_arrow"
 	{
-		"chi"		"** 撤退 **"
+		"enable"		"0"
 	}
-	"*** MINECARTS LEAVING IN 25 SEC ***"
+	"nether_bossphys&9364"
 	{
-		"chi"		"** 矿车将在 25 秒后离开 **"
-		"DoorCountdown"		"25"
+		"enable"		"1"
 	}
-	"*** MINECARTS LEAVING IN 10 SEC ***"
+	"nether_bossphys&9368"
 	{
-		"chi"		"** 矿车将在 10 秒后离开 **"
+		"enable"		"1"
 	}
-	"*** GET INTO MINECARTS ***"
+	"nether_bossphys&9372"
 	{
-		"chi"		"** 搭乘矿车 **"
+		"enable"		"1"
 	}
-	"***HOLD CASTLE 35 SEC***"
+	"nether_bossphys&9371"
 	{
-		"chi"		"** 守卫城堡 35 秒 **"
+		"enable"		"1"
 	}
-	"*** 5 SEC REMAINING ***"
+	"nether_bossphys&9373"
 	{
-		"chi"		"** 还剩 5 秒 **"
+		"enable"		"1"
 	}
-	"***FALL BACK***"
+	"nether_bossphys&9386"
 	{
-		"chi"		"** 撤退 **"
+		"enable"		"1"
 	}
-	"*** BOATS LEAVING IN 15 SEC ***"
+	"nether_bossphys&9379"
 	{
-		"chi"		"** 船只将在 15 秒后离开 **"
+		"enable"		"1"
 	}
-	"*** FALL BACK INTO BOATS ***"
+	"nether_bossphys&9389"
 	{
-		"chi"		"** 快上船防守 **"
+		"enable"		"1"
 	}
-	"*** TNT EXPLODING IN 20 SEC ***"
+	"nether_bossphys&9388"
 	{
-		"chi"		"** TNT将在 20 秒后爆炸 **"
-		"DoorCountdown"		"20"
+		"enable"		"1"
 	}
-	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
+	"nether_bossphys&9387"
 	{
-		"chi"		"** 拿起稿子挖取（破坏）黑曜石来创造地狱门 **（在没有出现BUG的情况下拿稿子的玩家站在黑曜石上 5 秒左右可以破坏黑曜石）"
+		"enable"		"1"
 	}
-	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
+	"nether_bossphys&9390"
 	{
-		"chi"		"** 撤退！地狱门将在 5 秒后激活 **"
-		"DoorCountdown"		"5"
+		"enable"		"1"
 	}
-	"*** BUNKER IS CLOSING IN 15 SEC ***"
+	"nether_bossphys&9423"
 	{
-		"chi"		"** 碉堡将在 15 秒后关闭 **"
-		"DoorCountdown"		"15"
+		"enable"		"1"
 	}
-	"*** BUNKER IS CLOSING ***"
+	"nether_bossphys&9426"
 	{
-		"chi"		"** 碉堡关闭 **"
+		"enable"		"1"
 	}
-	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	"nether_bossphys&9434"
 	{
-		"chi"		"** 人类胜利！进入关卡 2 **（有点本事）"
+		"enable"		"1"
 	}
-	"*** CURRENT STAGE IS 2: The Nether ***"
+	"nether_bossphys&9435"
 	{
-		"chi"		"** 关卡 2 ：下界 **"
+		"enable"		"1"
 	}
-	"*** WALL BREAKS IN 15 SEC ***"
+	"nether_bossphys&9430"
 	{
-		"chi"		"** 墙壁将在 15 秒后破碎 **"
-		"DoorCountdown"		"15"
+		"enable"		"1"
 	}
-	"*** RESIST 15 SECONDS ***"
+	"nether_bossphys&9436"
 	{
-		"chi"		"** 防守 15 秒 **"
-		"DoorCountdown"		"15"
+		"enable"		"1"
 	}
-	"*** RESIST 10 SECONDS ***"
+	"nether_bossphys&9475"
 	{
-		"chi"		"** 防守 10 秒 **"
-		"DoorCountdown"		"10"
+		"enable"		"1"
 	}
-	"***RESIST 20 SECONDS***"
+	"nether_bossphys&9486"
 	{
-		"chi"		"** 防守 20 秒 **"
-		"DoorCountdown"		"20"
+		"enable"		"1"
 	}
-	"***5 SECONDS REMAINING***"
+	"nether_bossphys&9478"
 	{
-		"chi"		"** 还剩 5 秒 **"
+		"enable"		"1"
 	}
-	"*** RESIST 20 SECONDS ***"
+	"nether_bossphys&9482"
 	{
-		"chi"		"** 防守 20 秒 **"
-		"DoorCountdown"		"20"
+		"enable"		"1"
 	}
-	"*** RESIST 25 SECONDS ***"
+	"nether_bossphys&9485"
 	{
-		"chi"		"** 防守 25 秒 **"
-		"DoorCountdown"		"25"
+		"enable"		"1"
 	}
-	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
+	"nether_bossphys&9487"
 	{
-		"chi"		"** 守住地狱城堡 30 秒 **"
-		"DoorCountdown"		"30"
+		"enable"		"1"
 	}
-	"*** EVERYONE GET INSIDE! ***"
+	"nether_bossphys&9492"
 	{
-		"chi"		"** 所有人都进去！进去防守！ **"
+		"enable"		"1"
 	}
-	"*** GHAST HAS BEEN DEFEATED ***"
+	"item_fire_phys&9508"
 	{
-		"chi"		"** 恶魂被击败了 **"
+		"enable"		"0"
 	}
-	"*** ESCAPE FROM THE NETHER!!! ***"
+	"item_fire_phys&9509"
 	{
-		"chi"		"** 逃出地狱！！！ **"
+		"enable"		"0"
 	}
-	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
+	"item_fire_phys&9510"
 	{
-		"chi"		"** 要想激活地狱门需要 燧石&铁 来制作打火石**"
+		"enable"		"0"
 	}
-	"*** 40 SECONDS REMAINING ***"
+	"item_fire_phys&9511"
 	{
-		"chi"		"** 剩余 40 秒 **（加油）"
-		"DoorCountdown"		"40"
+		"enable"		"0"
 	}
-	"*** 30 SECONDS REMAINING ***"
+	"item_fire_phys&9513"
 	{
-		"chi"		"** 剩余 30 秒 **（能拖尽量拖）"
+		"enable"		"0"
 	}
-	"*** STEEL HAS BEEN PICKED UP ***"
+	"item_fire_phys&9514"
 	{
-		"chi"		"** 材料铁已被拾取 **"
+		"enable"		"0"
 	}
-	"*** 20 SECONDS REMAINING ***"
+	"item_fire_phys&9515"
 	{
-		"chi"		"** 剩余 20 秒 **"
-                "DoorCountdown"                "20"
+		"enable"		"0"
 	}
-	"*** 10 SECONDS REMAINING ***"
+	"item_fire_phys&9517"
 	{
-		"chi"		"** 剩余 10 秒 **"
+		"enable"		"0"
 	}
-	"*** FLINT HAS BEEN PICKED UP ***"
+	"item_fire_phys&9516"
 	{
-		"chi"		"** 材料燧石被拾取 **"
+		"enable"		"0"
 	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
+	"item_fire_phys&9518"
 	{
-		"chi"		"**  关卡 1 ：上界 **"
+		"enable"		"0"
 	}
-	"Map made by Cuniczek"
+	"item_fire_phys&9519"
 	{
-		"chi"		"** 地图制作 by Cuniczek 地图翻译 by 色狼领袖 **"
+		"enable"		"0"
 	}
-	"Thanks to Enviolinador & Kaesar"
+	"item_fire_phys&9520"
 	{
-		"chi"		"**  感谢：Enviolinador 和 Kaesar **"
+		"enable"		"0"
 	}
-	"*** DEFEND 25 SECONDS ***"
+	"item_fire_phys&9521"
 	{
-		"chi"		"*** 坚守 25 秒 ***"
-		"DoorCountdown"		"25"
+		"enable"		"0"
 	}
-	"*** WALLS BREAK IN 15 SEC ***"
+	"item_fire_phys&9522"
 	{
-		"chi"		"*** 墙壁将在 15 秒后破碎 ***"
-		"DoorCountdown"		"15"
+		"enable"		"0"
 	}
-	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
+	"item_fire_phys&9524"
 	{
-		"chi"		"*** 人类胜利！进入关卡 3 ***（牛B牛B）"
+		"enable"		"0"
 	}
-	"*** CURRENT STAGE IS 3: Jungle ***"
+	"item_fire_phys&9525"
 	{
-		"chi"		"** 关卡 3 ：丛林 **"
+		"enable"		"0"
 	}
-	"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
+	"item_fire_phys&9526"
 	{
-		"chi"		"** 你们必须站到所有的压力板上来打开这个门 **（压力板就是地上个方形地板）"
+		"enable"		"0"
 	}
-	"*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***"
+	"item_fire_phys&9528"
 	{
-		"chi"		"** 干的漂亮！现在去按下 2 个杠杆来打开下一个门 **（注意防守僵尸）"
+		"enable"		"0"
 	}
-	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
+	"item_fire_phys&9531"
 	{
-		"chi"		"** 干的漂亮！墙壁将在 30 秒后破裂，在这之前继续蹂躏僵尸！ **(门开以后，新手推荐下楼右拐！）"
-		"DoorCountdown"		"30"
+		"enable"		"0"
 	}
-	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
+	"item_fire_phys&9530"
 	{
-		"chi"		"** 下个门将在 20 秒后打开 **
-                "
-		"DoorCountdown"		"                "
+		"enable"		"0"
 	}
-	"*** FIND A WAY TO OPEN THIS DOOR ***"
+	"item_fire_phys&9532"
 	{
-		"chi"		"** 寻找一种打开这个门的办法 **（打烂大门左右两边铁块正对着的墙壁，丢手枪拿火把，将红石火把丢在铁块上，最好3个全拿走）"
+		"enable"		"0"
 	}
-	"*** THIS SHOULD WORK ***"
+	"item_fire_phys&9533"
 	{
-		"chi"		"** 石门正在打开 **（可以不用在放红石火把了）"
+		"enable"		"0"
 	}
-	"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
+	"item_fire_phys&9535"
 	{
-		"chi"		"** 找到红石火把，继续将它们放在铁块上 **（不要尝试去拿平台上的那手枪，因为地板会塌）"
+		"enable"		"0"
 	}
-	"*** Door is Opening ***"
+	"item_fire_phys&9537"
 	{
-		"chi"		"** 大门开启 **"
+		"enable"		"0"
 	}
-	"*** NICELY DONE! ***"
+	"item_fire_phys&9536"
 	{
-		"chi"		"** 干的漂亮 **"
+		"enable"		"0"
 	}
-	"*** DOOR OPENS IN 20 SEC ***"
+	"item_fire_phys&9538"
 	{
-		"chi"		"** 大门将在 20 秒后开启 **"
-		"DoorCountdown"		"20"
+		"enable"		"0"
 	}
-	"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
+	"item_fire_phys&9539"
 	{
-		"chi"		"** 防守 40 秒！或者同时按下 2 边的按钮！**（另外一个按钮在管道里）"
+		"enable"		"0"
 	}
-	"*** FALL BACK DOOR IS OPENING ***"
+	"item_fire_phys&9540"
 	{
-		"chi"		"** 撤退！逃生路线已经开启！**"
+		"enable"		"0"
 	}
-	"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
+	"item_fire_phys&9541"
 	{
-		"chi"		"** 解开谜题！或者防守 30 秒！ **（熄灭所有的红石火把，其他开关不要动）"
+		"enable"		"0"
 	}
-	"*** MOVE ON! NEXT DOOR IS OPENING ***"
+	"item_fire_phys&9542"
 	{
-		"chi"		"** 撤退！下一个门已经打开！**"
+		"enable"		"0"
 	}
-	"Yes! We have found it! The Eyes of Ender. Now we can find Stronghold."
+	"item_fire_phys&9544"
 	{
-		"chi"		"** 漂亮！我们得到了末影之眼.这下我们可以找到要塞了！**"
+		"enable"		"0"
 	}
-	"*** GET ON TOP OF THE TEMPLE AND RESIST 60 SECONDS ***"
+	"item_fire_phys&9543"
 	{
-		"chi"		"** 逃到神庙的顶部并防守僵尸 60 秒 **"
+		"enable"		"0"
 	}
-	"*** 50 SECONDS REMAINING ***"
+	"item_fire_phys&9545"
 	{
-		"chi"		"** 还剩余 50 秒 **"
+		"enable"		"0"
 	}
-	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
+	"item_fire_phys&9546"
 	{
-		"chi"		"** 人类胜利！进入关卡 4 **（神已经无法阻止你们了！）"
+		"enable"		"0"
 	}
-	"*** CURRENT STAGE IS 4: The End ***"
+	"item_fire_phys&9547"
 	{
-		"chi"		"** 关卡 4 ：末地 **"
+		"enable"		"0"
 	}
-	"*** THROW EYE OF ENDER BY USING IT ***"
+	"item_fire_phys&9548"
 	{
-		"chi"		"** 快使用末影之眼！**（在神庙外面左边的地上寻找一颗末影之眼并对它按 E 使用，否则空气墙不会消失！）"
+		"enable"		"0"
 	}
-	"We must follow the eye of ender to locate Stronghold!"
+	"item_fire_phys&9549"
 	{
-		"chi"		"** 我们要顺着末影之眼的指引，寻找并进入要塞！**"
+		"enable"		"0"
 	}
-	"*** RUN INTO DESERT AND RESIST FOR A WHILE ***"
+	"item_fire_phys&9550"
 	{
-		"chi"		"** 进入沙漠并防守一段时间 **（上山丘防守）"
+		"enable"		"0"
 	}
-	"Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house."
+	"item_fire_phys&9551"
 	{
-		"chi"		"** 末影之眼落入了海洋！我们最好去探索下那间简陋的西班牙式房子 **"
+		"enable"		"0"
 	}
-	"*** RUN INTO HOUSE ***"
+	"item_fire_phys&9556"
 	{
-		"chi"		"** 进入那个小屋 **（小屋3楼需要防守）"
+		"enable"		"0"
 	}
-	"*** RESIST FOR 30 SECONDS ***"
+	"item_fire_phys&9557"
 	{
-		"chi"		"** 防守 30 秒 **（逃生路线在1楼）"
-		"DoorCountdown"		"30"
+		"enable"		"0"
 	}
-	"*** FALL BACK 5 SECONDS REMAINING ***"
+	"item_fire_phys&9558"
 	{
-		"chi"		"** 还有 5 秒！**"
+		"enable"		"0"
 	}
-	"*** GO INTO UNDERGROUND ***"
+	"item_fire_phys&9559"
 	{
-		"chi"		"** 进入地下 **"
+		"enable"		"0"
 	}
-	"*** PORTAL IS ACTIVATING IN 35 SECONDS ***"
+	"item_fire_phys&9561"
 	{
-		"chi"		"** 通往末地的传送门将在 35 秒后激活 **（跳到岩浆里就出不来！死定了！）"
+		"enable"		"0"
 	}
-	"*** WE DID IT! WE ARE IN THE END! NOW... WE HAVE TO BREAK CRYSTALS AND... FIGHT... THE DRAGON ***"
+	"item_fire_phys&9564"
 	{
-		"chi"		"** 我们做到了！我们现在就在末地！现在...我们必须打破所有末影水晶...然后...战胜末影龙！**"
+		"enable"		"0"
 	}
-	"*** ALL CRYSTALS ARE BROKEN ***"
+	"item_fire_phys&9583"
 	{
-		"chi"		"** 所有末影水晶被破坏了！**"
+		"enable"		"0"
 	}
-	"*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***"
+	"item_fire_phys&9584"
 	{
-		"chi"		"** 现在我们不得不战胜末影龙**"
+		"enable"		"0"
 	}
-	"*** THE DRAGON IS DEAD ***"
+	"item_fire_phys&9585"
 	{
-		"chi"		"** 末影龙已经死亡 **"
+		"enable"		"0"
 	}
-	"*** JUMP INTO THE PORTAL ***"
+	"item_fire_phys&9586"
 	{
-		"chi"		"** 跳进传送门！**（不停的跳！）"
+		"enable"		"0"
 	}
-	"*** RUN!! WE MUST ESCAPE!!! ***"
+	"item_fire_phys&9587"
 	{
-		"chi"		"** 撤退！我们现在必须逃走！**"
+		"enable"		"0"
 	}
-	"*** WE SHOULD HOLD THIS ROOM AS LONG AS POSSIBLE ***"
+	"item_fire_phys&9588"
 	{
-		"chi"		"** 我们应该尽可能长时间的守住这个位置！**（最后一个防守点了！火力全开！）"
+		"enable"		"0"
 	}
-	"He's watching you..."
+	"item_fire_phys&9590"
 	{
-		"chi"		"** 他在看着你...**（Herobrine出没）"
+		"enable"		"0"
 	}
-	"*** HEROBRINE! KILL HIM! ***"
+	"item_fire_phys&9592"
 	{
-		"chi"		"** 是Herobrine！快杀了他！**"
+		"enable"		"0"
 	}
-	"*** HE'S RUNNING AWAY! ***"
+	"item_fire_phys&9595"
 	{
-		"chi"		"** Herobrine正在逃跑！**"
+		"enable"		"0"
 	}
-	"*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***"
+	"item_fire_phys&9594"
 	{
-		"chi"		"** 祝贺你们成功通关本地图！**（legendary！！！）"
+		"enable"		"0"
 	}
-	"*** KILL ZOMBIES INSIDE!  ***"
+	"item_fire_phys&9597"
 	{
-		"chi"		"** 杀死里面的僵尸！**"
+		"enable"		"0"
 	}
-	"*** Thanks for playing! ***"
+	"item_fire_phys&9598"
 	{
-		"chi"		"** 感谢您的体验 **"
+		"enable"		"0"
 	}
-	"*** RESIST 30 SECONDS ***"
+	"item_fire_phys&9600"
 	{
-		"chi"		"** 抵抗 30 秒 **"
-                "DoorCountdown"                "30"
+		"enable"		"0"
 	}
-	"*** KILL ZOMBIES ON TOP!  ***"
+	"item_fire_phys&9601"
 	{
-		"chi"		"** 开枪打僵尸不要停！ **"
+		"enable"		"0"
 	}
-	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
+	"item_fire_phys&9603"
 	{
-		"chi"		"** 干得漂亮！下一道门将在 5 秒后打开 **"
-                "DoorCountdown"                "5"
+		"enable"		"0"
 	}
-	"Hes watching you..."
+	"item_fire_phys&9607"
 	{
-		"chi"		"** 他正在看着你...**"
+		"enable"		"0"
 	}
-	"*** HES RUNNING AWAY! ***"
+	"item_fire_phys&9606"
 	{
-		"chi"		"** 他正在逃跑！ **"
+		"enable"		"0"
 	}
-	"*** Map made by Cuniczek ***"
+	"item_fire_phys&9609"
 	{
-		"chi"		"** 地图制作 by Cuniczek 地图翻译 by 色狼领袖 **"
+		"enable"		"0"
+	}
+	"item_fire_phys&9611"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9612"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9614"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9616"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9618"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9619"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9621"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9622"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9625"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9628"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9627"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9630"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9631"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9633"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9635"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9634"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9637"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9639"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9654"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9658"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9659"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9661"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9660"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9662"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9663"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9666"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9665"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9667"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9668"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9669"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9670"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9672"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9671"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9675"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9678"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9677"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9679"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9682"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9683"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9684"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9681"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9685"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9688"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9686"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9687"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9689"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9691"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9693"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9695"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9694"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9697"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9699"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9700"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9701"
+	{
+		"enable"		"0"
+	}
+	"item_block_phys&9702"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9705"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9704"
+	{
+		"enable"		"0"
+	}
+	"end_bossphys&9707"
+	{
+		"enable"		"1"
+	}
+	"item_fire_phys&9709"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9715"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9708"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9712"
+	{
+		"enable"		"0"
+	}
+	"end_bossphys&9710"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9711"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9714"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9724"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9722"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9716"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9717"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9718"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9719"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9720"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9721"
+	{
+		"enable"		"1"
+	}
+	"end_bossphys&9723"
+	{
+		"enable"		"1"
+	}
+	"item_fire_phys&9727"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9726"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9729"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9730"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9733"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9732"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9734"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9735"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9737"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9738"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9740"
+	{
+		"enable"		"0"
+	}
+	"item_fire_phys&9741"
+	{
+		"enable"		"0"
+	}
+	"1317967"
+	{
+		"enable"		"1"
+		"hammerid"		"1317967"
+		"m_iname"		"end_bosshitbox"
+	}
+	"1504915"
+	{
+		"enable"		"1"
+		"hammerid"		"1504915"
+		"m_iname"		"nether_boss_hitbox"
+	}
+	"603987"
+	{
+		"enable"		"1"
+		"hammerid"		"603987"
+		"m_iname"		"nether_bossphys&3308"
+	}
+	"948185"
+	{
+		"enable"		"0"
+		"hammerid"		"948185"
+		"m_iname"		"item_fire_phys&5526"
+	}
+	"948271"
+	{
+		"enable"		"0"
+		"hammerid"		"948271"
+		"m_iname"		"item_block_phys&5497"
+	}
+	"953180"
+	{
+		"enable"		"1"
+		"hammerid"		"953180"
+		"m_iname"		"end_bossphys&5513"
+	}
+	"19904"
+	{
+		"enable"		"0"
+		"hammerid"		"19904"
+		"m_iname"		"cave1_break4"
+	}
+	"73306"
+	{
+		"enable"		"0"
+		"hammerid"		"73306"
+		"m_iname"		"castle_break"
+	}
+	"82694"
+	{
+		"enable"		"0"
+		"hammerid"		"82694"
+		"m_iname"		"castle_break"
+	}
+	"94505"
+	{
+		"enable"		"0"
+		"hammerid"		"94505"
+		"m_iname"		"river_wood_break2"
+	}
+	"94528"
+	{
+		"enable"		"0"
+		"hammerid"		"94528"
+		"m_iname"		"river_wood_break1"
+	}
+	"94618"
+	{
+		"enable"		"0"
+		"hammerid"		"94618"
+		"m_iname"		"river_wood_break4"
+	}
+	"94621"
+	{
+		"enable"		"0"
+		"hammerid"		"94621"
+		"m_iname"		"river_wood_break3"
+	}
+	"94636"
+	{
+		"enable"		"0"
+		"hammerid"		"94636"
+		"m_iname"		"river_wood_break6"
+	}
+	"94639"
+	{
+		"enable"		"0"
+		"hammerid"		"94639"
+		"m_iname"		"river_wood_break5"
+	}
+	"106013"
+	{
+		"enable"		"0"
+		"hammerid"		"106013"
+		"m_iname"		"cave2_break1"
+	}
+	"111896"
+	{
+		"enable"		"0"
+		"hammerid"		"111896"
+		"m_iname"		"cave2_tnt_break1"
+	}
+	"115166"
+	{
+		"enable"		"0"
+		"hammerid"		"115166"
+		"m_iname"		"cave2_break3"
+	}
+	"120651"
+	{
+		"enable"		"0"
+		"hammerid"		"120651"
+		"m_iname"		"cave2_obs1"
+	}
+	"121120"
+	{
+		"enable"		"0"
+		"hammerid"		"121120"
+		"m_iname"		"cave2_obs2"
+	}
+	"123937"
+	{
+		"enable"		"0"
+		"hammerid"		"123937"
+		"m_iname"		"cave2_obs3"
+	}
+	"126294"
+	{
+		"enable"		"0"
+		"hammerid"		"126294"
+		"m_iname"		"cave2_obs4"
+	}
+	"134096"
+	{
+		"enable"		"0"
+		"hammerid"		"134096"
+		"m_iname"		"cave2_obs5"
+	}
+	"134110"
+	{
+		"enable"		"0"
+		"hammerid"		"134110"
+		"m_iname"		"cave2_obs6"
+	}
+	"135334"
+	{
+		"enable"		"0"
+		"hammerid"		"135334"
+		"m_iname"		"cave2_obs7"
+	}
+	"135404"
+	{
+		"enable"		"0"
+		"hammerid"		"135404"
+		"m_iname"		"cave2_obs8"
+	}
+	"156862"
+	{
+		"enable"		"0"
+		"hammerid"		"156862"
+		"m_iname"		"castle_break3"
+	}
+	"165787"
+	{
+		"enable"		"0"
+		"hammerid"		"165787"
+		"m_iname"		"nether_break1"
+	}
+	"165833"
+	{
+		"enable"		"0"
+		"hammerid"		"165833"
+		"m_iname"		"nether_break2"
+	}
+	"166457"
+	{
+		"enable"		"0"
+		"hammerid"		"166457"
+		"m_iname"		"nether_break7"
+	}
+	"187528"
+	{
+		"enable"		"0"
+		"hammerid"		"187528"
+		"m_iname"		"castle_break2"
+	}
+	"193471"
+	{
+		"enable"		"0"
+		"hammerid"		"193471"
+		"m_iname"		"castle_break"
+	}
+	"199179"
+	{
+		"enable"		"0"
+		"hammerid"		"199179"
+		"m_iname"		"cave1_break"
+	}
+	"208213"
+	{
+		"enable"		"0"
+		"hammerid"		"208213"
+		"m_iname"		"nether_break4"
+	}
+	"515312"
+	{
+		"enable"		"0"
+		"hammerid"		"515312"
+		"m_iname"		"nether_fortressbreak"
+	}
+	"593546"
+	{
+		"enable"		"0"
+		"hammerid"		"593546"
+		"m_iname"		"nether_break3"
+	}
+	"593648"
+	{
+		"enable"		"0"
+		"hammerid"		"593648"
+		"m_iname"		"nether_break6"
+	}
+	"619016"
+	{
+		"enable"		"0"
+		"hammerid"		"619016"
+		"m_iname"		"jungletemp_break2"
+	}
+	"621006"
+	{
+		"enable"		"0"
+		"hammerid"		"621006"
+		"m_iname"		"jungletemp_break3"
+	}
+	"629057"
+	{
+		"enable"		"0"
+		"hammerid"		"629057"
+		"m_iname"		"nether_break01"
+	}
+	"629110"
+	{
+		"enable"		"0"
+		"hammerid"		"629110"
+		"m_iname"		"nether_break02"
+	}
+	"629197"
+	{
+		"enable"		"0"
+		"hammerid"		"629197"
+		"m_iname"		"nether_break03"
+	}
+	"761920"
+	{
+		"enable"		"0"
+		"hammerid"		"761920"
+		"m_iname"		"nether_break04"
+	}
+	"774918"
+	{
+		"enable"		"0"
+		"hammerid"		"774918"
+		"m_iname"		"jungletemp_break4"
+	}
+	"817466"
+	{
+		"enable"		"0"
+		"hammerid"		"817466"
+		"m_iname"		"house_break"
+	}
+	"850772"
+	{
+		"enable"		"0"
+		"hammerid"		"850772"
+		"m_iname"		"stronghold_patha_break1"
+	}
+	"850786"
+	{
+		"enable"		"0"
+		"hammerid"		"850786"
+		"m_iname"		"stronghold_pathb_break1"
+	}
+	"850806"
+	{
+		"enable"		"0"
+		"hammerid"		"850806"
+		"m_iname"		"stronghold_pathb_break2"
+	}
+	"850828"
+	{
+		"enable"		"0"
+		"hammerid"		"850828"
+		"m_iname"		"stronghold_pathb_break3"
+	}
+	"850897"
+	{
+		"enable"		"0"
+		"hammerid"		"850897"
+		"m_iname"		"stronghold_patha_break2"
+	}
+	"850938"
+	{
+		"enable"		"0"
+		"hammerid"		"850938"
+		"m_iname"		"stronghold_patha_break3"
+	}
+	"851093"
+	{
+		"enable"		"0"
+		"hammerid"		"851093"
+		"m_iname"		"stronghold_pathb_break4"
+	}
+	"858618"
+	{
+		"enable"		"0"
+		"hammerid"		"858618"
+		"m_iname"		"cave3_break"
+	}
+	"858652"
+	{
+		"enable"		"0"
+		"hammerid"		"858652"
+		"m_iname"		"cave3_break2"
+	}
+	"903408"
+	{
+		"enable"		"0"
+		"hammerid"		"903408"
+		"m_iname"		"river_break"
+	}
+	"1368978"
+	{
+		"enable"		"0"
+		"hammerid"		"1368978"
+		"m_iname"		"jungletemp_break5"
+	}
+	"1413724"
+	{
+		"enable"		"0"
+		"hammerid"		"1413724"
+		"m_iname"		"jungletemp_break6"
+	}
+	"1413771"
+	{
+		"enable"		"0"
+		"hammerid"		"1413771"
+		"m_iname"		"jungletemp_break7"
+	}
+	"1414161"
+	{
+		"enable"		"0"
+		"hammerid"		"1414161"
+		"m_iname"		"cave1_break5"
+	}
+	"1414232"
+	{
+		"enable"		"0"
+		"hammerid"		"1414232"
+		"m_iname"		"cave1_break2"
+	}
+	"1531434"
+	{
+		"enable"		"0"
+		"hammerid"		"1531434"
+		"m_iname"		"nether_break8"
+	}
+	"856008"
+	{
+		"enable"		"0"
+		"hammerid"		"856008"
+		"m_iname"		"house_break2"
+	}
+	"1585135"
+	{
+		"enable"		"0"
+		"hammerid"		"1585135"
+		"m_iname"		"cave1_break2"
+	}
+	"1820030"
+	{
+		"enable"		"0"
+		"hammerid"		"1820030"
+		"m_iname"		"stronghold_final_break"
+	}
+	"1832706"
+	{
+		"enable"		"0"
+		"hammerid"		"1832706"
+		"m_iname"		"stronghold_final_break"
+	}
+	"1872007"
+	{
+		"enable"		"0"
+		"hammerid"		"1872007"
+		"m_iname"		"temple_break1"
+	}
+	"1872071"
+	{
+		"enable"		"0"
+		"hammerid"		"1872071"
+		"m_iname"		"temple_break2"
+	}
+	"1872079"
+	{
+		"enable"		"0"
+		"hammerid"		"1872079"
+		"m_iname"		"temple_break3"
+	}
+	"1872093"
+	{
+		"enable"		"0"
+		"hammerid"		"1872093"
+		"m_iname"		"temple_break4"
+	}
+	"1872110"
+	{
+		"enable"		"0"
+		"hammerid"		"1872110"
+		"m_iname"		"temple_break5"
+	}
+	"1872124"
+	{
+		"enable"		"0"
+		"hammerid"		"1872124"
+		"m_iname"		"temple_break6"
+	}
+	"1912907"
+	{
+		"enable"		"0"
+		"hammerid"		"1912907"
+		"m_iname"		"temple_break7"
+	}
+	"1912925"
+	{
+		"enable"		"0"
+		"hammerid"		"1912925"
+		"m_iname"		"temple_break7"
+	}
+	"1927551"
+	{
+		"enable"		"0"
+		"hammerid"		"1927551"
+		"m_iname"		"temple_break8"
+	}
+	"1927572"
+	{
+		"enable"		"0"
+		"hammerid"		"1927572"
+		"m_iname"		"temple_break8"
+	}
+	"1928102"
+	{
+		"enable"		"0"
+		"hammerid"		"1928102"
+		"m_iname"		"jungletemp_break8"
+	}
+	"1962504"
+	{
+		"enable"		"0"
+		"hammerid"		"1962504"
+		"m_iname"		"jungletemp_break8"
+	}
+	"2145365"
+	{
+		"enable"		"0"
+		"hammerid"		"2145365"
+		"m_iname"		"jungletemp_break9"
+	}
+	"2145392"
+	{
+		"enable"		"0"
+		"hammerid"		"2145392"
+		"m_iname"		"jungletemp_break10"
+	}
+	"2229062"
+	{
+		"enable"		"0"
+		"hammerid"		"2229062"
+		"m_iname"		"river_break2"
+	}
+	"19152"
+	{
+		"enable"		"0"
+		"hammerid"		"19152"
+		"m_iname"		"stage1_random"
+	}
+	"19232"
+	{
+		"enable"		"0"
+		"hammerid"		"19232"
+		"m_iname"		"stage1_random"
+	}
+	"19261"
+	{
+		"enable"		"0"
+		"hammerid"		"19261"
+		"m_iname"		"stage1_random"
+	}
+	"1427425"
+	{
+		"enable"		"0"
+		"hammerid"		"1427425"
+		"m_iname"		"stage1_random"
+	}
+	"762482"
+	{
+		"enable"		"0"
+		"hammerid"		"762482"
+		"m_iname"		"stage2_random"
+	}
+	"1636986"
+	{
+		"enable"		"0"
+		"hammerid"		"1636986"
+		"m_iname"		"stage3_random"
+	}
+	"1636994"
+	{
+		"enable"		"0"
+		"hammerid"		"1636994"
+		"m_iname"		"stage3_random"
+	}
+	"1637002"
+	{
+		"enable"		"0"
+		"hammerid"		"1637002"
+		"m_iname"		"stage3_random"
+	}
+	"1637033"
+	{
+		"enable"		"0"
+		"hammerid"		"1637033"
+		"m_iname"		"stage3_random"
+	}
+	"1681226"
+	{
+		"enable"		"0"
+		"hammerid"		"1681226"
+		"m_iname"		"stage3_random"
+	}
+	"1681240"
+	{
+		"enable"		"0"
+		"hammerid"		"1681240"
+		"m_iname"		"stage3_random"
+	}
+	"1681246"
+	{
+		"enable"		"0"
+		"hammerid"		"1681246"
+		"m_iname"		"stage3_random"
+	}
+	"1681252"
+	{
+		"enable"		"0"
+		"hammerid"		"1681252"
+		"m_iname"		"stage3_random"
+	}
+	"1928236"
+	{
+		"enable"		"0"
+		"hammerid"		"1928236"
+		"m_iname"		"stage3_random"
+	}
+	"1962803"
+	{
+		"enable"		"0"
+		"hammerid"		"1962803"
+		"m_iname"		"stage3_random"
+	}
+	"2107132"
+	{
+		"enable"		"0"
+		"hammerid"		"2107132"
+		"m_iname"		"stage3_random"
+	}
+	"2107158"
+	{
+		"enable"		"0"
+		"hammerid"		"2107158"
+		"m_iname"		"stage3_random"
+	}
+	"1859297"
+	{
+		"enable"		"1"
+		"hammerid"		"1859297"
+		"m_iname"		"stronghold_final_hitbox"
+	}
+	"199147"
+	{
+		"enable"		"0"
+		"hammerid"		"199147"
+		"m_iname"		"cave1_phys"
+	}
+	"1331253"
+	{
+		"enable"		"0"
+		"hammerid"		"1331253"
+		"m_iname"		"CY01Physic"
+	}
+	"1927875"
+	{
+		"enable"		"0"
+		"hammerid"		"1927875"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927918"
+	{
+		"enable"		"0"
+		"hammerid"		"1927918"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927922"
+	{
+		"enable"		"0"
+		"hammerid"		"1927922"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927980"
+	{
+		"enable"		"0"
+		"hammerid"		"1927980"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927984"
+	{
+		"enable"		"0"
+		"hammerid"		"1927984"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927988"
+	{
+		"enable"		"0"
+		"hammerid"		"1927988"
+		"m_iname"		"redtorch_phys"
+	}
+	"1941051"
+	{
+		"enable"		"0"
+		"hammerid"		"1941051"
+		"m_iname"		"redtorch_phys"
+	}
+	"1941055"
+	{
+		"enable"		"0"
+		"hammerid"		"1941055"
+		"m_iname"		"redtorch_phys"
+	}
+	"1941059"
+	{
+		"enable"		"0"
+		"hammerid"		"1941059"
+		"m_iname"		"redtorch_phys"
+	}
+	"1657999"
+	{
+		"enable"		"0"
+		"hammerid"		"1657999"
+		"m_iname"		"bow_arrow"
+	}
+	"1832743"
+	{
+		"enable"		"0"
+		"hammerid"		"1832743"
+		"m_iname"		"stronghold_final_break2"
 	}
 }

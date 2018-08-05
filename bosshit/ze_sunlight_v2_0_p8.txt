@@ -1,184 +1,411 @@
-"Console_T"
+"BOSSHP"
 {
-	"Created by Soft Serve"
+	"803987"
 	{
-		"chi"		"**作者 Soft Serve 翻译 BAKA_Miku**"
+		"enable"		"1"
+		"hammerid"		"803987"
+		"m_iname"		"br_afterboss2"
 	}
-	"Map ported by www.dashijie.es"
+	"804001"
 	{
-		"chi"		"**Rules of _p**"
+		"enable"		"1"
+		"hammerid"		"804001"
+		"m_iname"		"br_afterboss1"
 	}
-	"*** STAGE I ***"
+	"503076"
 	{
-		"chi"		"**第一关 **"
+		"enable"		"1"
+		"hammerid"		"503076"
+		"m_iname"		"pb_boss_ceiling1"
 	}
-	"ZE Sunlight"
+	"503157"
 	{
-		"chi"		"**ZE 日光**"
+		"enable"		"1"
+		"hammerid"		"503157"
+		"m_iname"		"pb_boss_ceiling2"
 	}
-	"*** Defend for 30 seconds! ***"
+	"503166"
 	{
-		"chi"		"**防守30秒 **"
-		"DoorCountDown"		"30"
+		"enable"		"1"
+		"hammerid"		"503166"
+		"m_iname"		"pb_boss_ceiling3"
 	}
-	"*** 5 seconds left ***"
+	"503194"
 	{
-		"chi"		"**还有5秒 **"
+		"enable"		"1"
+		"hammerid"		"503194"
+		"m_iname"		"pb_boss_ceiling4"
 	}
-	"*** Eye of the Storm has been acquired ***"
+	"503216"
 	{
-		"chi"		"**暴风之眼已被拾起[召唤一个跟随玩家的暴风] 按'E'使用 **"
+		"enable"		"1"
+		"hammerid"		"503216"
+		"m_iname"		"pb_boss_ceiling5"
 	}
-	"*** Lift is leaving in 30 seconds ***"
+	"503258"
 	{
-		"chi"		"**电梯将在30秒后升起 **"
-		"DoorCountDown"		"30"
+		"enable"		"1"
+		"hammerid"		"503258"
+		"m_iname"		"pb_boss_ceiling6"
 	}
-	"*** Defend for 20 seconds! ***"
+	"503266"
 	{
-		"chi"		"**防御20秒 **"
+		"enable"		"1"
+		"hammerid"		"503266"
+		"m_iname"		"pb_boss_ceiling7"
 	}
-	"*** NUKE IN 1 MINUTE ***"
+	"501741"
 	{
-		"chi"		"**核爆将在1分钟后到达 **"
-		"DoorCountDown"		"60"
+		"enable"		"1"
+		"hammerid"		"501741"
+		"m_iname"		"boss_physbox"
 	}
-	"*** Final door is opening in 10 seconds ***"
+	"823827"
 	{
-		"chi"		"**最后的大门将在10秒后打开 **"
+		"enable"		"1"
+		"hammerid"		"823827"
+		"m_iname"		"boss_physbox_hegrenade"
 	}
-	"*** Nuke in 10 seconds ***"
+	"738011"
 	{
-		"chi"		"**核弹将在10秒后到达 **"
+		"enable"		"1"
+		"hammerid"		"738011"
+		"m_iname"		"br_boss_crystal"
 	}
-	"*** Melon Launcher has been acquired ***"
+	"19073"
 	{
-		"chi"		"**西瓜发射器已被拾起 按'E'使用**"
+		"enable"		"0"
+		"hammerid"		"19073"
+		"m_iname"		"br_smallroom_grate"
 	}
-	"*** Stage completed! ***"
+	"95276"
 	{
-		"chi"		"**过关 **"
+		"enable"		"0"
+		"hammerid"		"95276"
+		"m_iname"		"br_liftbeams"
 	}
-	"*** STAGE II ***"
+	"112427"
 	{
-		"chi"		"**第二关 **"
+		"enable"		"0"
+		"hammerid"		"112427"
+		"m_iname"		"br_mainhall_mid"
 	}
-	"*** Defend for 25 seconds! ***"
+	"112503"
 	{
-		"chi"		"**防御25秒 **"
+		"enable"		"0"
+		"hammerid"		"112503"
+		"m_iname"		"br_afterlift"
 	}
-	"*** Defend for 35 seconds! ***"
+	"124884"
 	{
-		"chi"		"**防御35秒 **"
-		"DoorCountDown"		"35"
+		"enable"		"0"
+		"hammerid"		"124884"
+		"m_iname"		"br_mainhall_left"
 	}
-	"*** Orange Launcher has been acquired ***"
+	"131609"
 	{
-		"chi"		"**橘子发射器已被拾起 按'E'使用**"
+		"enable"		"0"
+		"hammerid"		"131609"
+		"m_iname"		"br_torafters1"
 	}
-	"*** Defend while one person calls the lift! ***"
+	"131622"
 	{
-		"chi"		"**防守这里直到一个玩家打开电梯的开关 **"
+		"enable"		"0"
+		"hammerid"		"131622"
+		"m_iname"		"br_library"
 	}
-	"*** Lift is leaving in 10 seconds ***"
+	"141294"
 	{
-		"chi"		"**电梯将在10秒后上升 **"
+		"enable"		"0"
+		"hammerid"		"141294"
+		"m_iname"		"br_dine_exit"
 	}
-	"*** STAGE III ***"
+	"143157"
 	{
-		"chi"		"**第三关 **"
+		"enable"		"0"
+		"hammerid"		"143157"
+		"m_iname"		"br_afterbridge"
 	}
-	"*** Sacrificial Orb has been acquired ***"
+	"143208"
 	{
-		"chi"		"**献祭宝珠已被拾起  按'E'使用**"
+		"enable"		"0"
+		"hammerid"		"143208"
+		"m_iname"		"br_aftersewer"
 	}
-	"*** Defend for 45 seconds! ***"
+	"143482"
 	{
-		"chi"		"**防御这里45秒 **"
+		"enable"		"0"
+		"hammerid"		"143482"
+		"m_iname"		"br_torafters"
 	}
-	"*** Water is rising in 10 seconds ***"
+	"143584"
 	{
-		"chi"		"**水面将在10秒后上升 **"
+		"enable"		"0"
+		"hammerid"		"143584"
+		"m_iname"		"br_rafters"
 	}
-	"*** Nuke in 2 minutes ***"
+	"153242"
 	{
-		"chi"		"**核爆将在2分钟后到达 **"
-		"DoorCountDown"		"-1"
+		"enable"		"0"
+		"hammerid"		"153242"
+		"m_iname"		"br_mainhall_right"
 	}
-	"*** Stage failed! ***"
+	"154426"
 	{
-		"chi"		"**任务失败 **"
+		"enable"		"0"
+		"hammerid"		"154426"
+		"m_iname"		"br_stairs_bottomdoor"
 	}
-	"[Load ShroomForest2 Config]"
+	"175894"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"175894"
+		"m_iname"		"br_statuehall"
 	}
-	"[Warmup] Wait for others players to join"
+	"175930"
 	{
-		"chi"		"**[热身时间]请等待其他玩家加入**"
+		"enable"		"0"
+		"hammerid"		"175930"
+		"m_iname"		"br_stairs_topdoor"
 	}
-	"*** Zombies have been teleported. Prepare to charge! ***"
+	"177325"
 	{
-		"chi"		"**僵尸已被传送 准备向前冲[请不要贴住风神器] **"
+		"enable"		"0"
+		"hammerid"		"177325"
+		"m_iname"		"br_backinside"
 	}
-	"*** STAGE IV ***"
+	"177363"
 	{
-		"chi"		"**第五关 **"
+		"enable"		"0"
+		"hammerid"		"177363"
+		"m_iname"		"br_stairs_bottomdoor"
 	}
-	"*** Top door is breaking in 20 seconds ***"
+	"200128"
 	{
-		"chi"		"**大门将在20秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"200128"
+		"m_iname"		"br_garden"
 	}
-	"*** Bottom door is breaking in 10 seconds ***"
+	"264369"
 	{
-		"chi"		"**底门将在10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"264369"
+		"m_iname"		"br_sewer"
 	}
-	"*** Defend for 60 seconds! ***"
+	"271433"
 	{
-		"chi"		"**防御60秒 **"
+		"enable"		"0"
+		"hammerid"		"271433"
+		"m_iname"		"br_pipesdoor"
 	}
-	"*** The dragon has been defeated. Keep defending the bridge! ***"
+	"291655"
 	{
-		"chi"		"**血龙已被击败 防御大桥! **"
+		"enable"		"0"
+		"hammerid"		"291655"
+		"m_iname"		"br_sewer_toprison"
 	}
-	"*** STAGE V ***"
+	"299200"
 	{
-		"chi"		"**第五关 **"
+		"enable"		"0"
+		"hammerid"		"299200"
+		"m_iname"		"br_prisondoor"
 	}
-	"*** Teleporting humans in 10 seconds ***"
+	"331360"
 	{
-		"chi"		"**人类将在10秒后传送 **"
+		"enable"		"0"
+		"hammerid"		"331360"
+		"m_iname"		"br_mainhall_stairs"
 	}
-	"*** Defend all 3 statues. Do not let zombies near! ***"
+	"346964"
 	{
-		"chi"		"**防御3个雕塑 不要让僵尸接近它! **"
+		"enable"		"0"
+		"hammerid"		"346964"
+		"m_iname"		"br_3way"
 	}
-	"*** Teleporting zombies in 10 seconds ***"
+	"346992"
 	{
-		"chi"		"**僵尸将在10秒后传送 **"
+		"enable"		"0"
+		"hammerid"		"346992"
+		"m_iname"		"br_3way_final_mid"
 	}
-	"*** 3 minutes left ***"
+	"347016"
 	{
-		"chi"		"**还有3分钟 **"
+		"enable"		"0"
+		"hammerid"		"347016"
+		"m_iname"		"br_3way_final_sides"
 	}
-	"*** 2 minutes left ***"
+	"347025"
 	{
-		"chi"		"**还有2分钟 **"
+		"enable"		"0"
+		"hammerid"		"347025"
+		"m_iname"		"br_3way_final_sides"
 	}
-	"*** 1 minute left ***"
+	"347670"
 	{
-		"chi"		"**还有1分钟 **"
+		"enable"		"0"
+		"hammerid"		"347670"
+		"m_iname"		"br_3way_bridge_sides_pillars"
 	}
-	"*** 10 seconds left ***"
+	"347700"
 	{
-		"chi"		"**还有10秒 **"
+		"enable"		"0"
+		"hammerid"		"347700"
+		"m_iname"		"br_3way_bridge_sides_pillars"
 	}
-	"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
+	"347730"
 	{
-		"chi"		"**恭喜您!您已成功通关ZE_SUNLIGHT **"
+		"enable"		"0"
+		"hammerid"		"347730"
+		"m_iname"		"br_3way_bridge_sides_pillars"
 	}
-	"The server is about to close the update ,Please update your game"
+	"347787"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"347787"
+		"m_iname"		"br_3way_bridge_sides_pillars"
+	}
+	"347792"
+	{
+		"enable"		"0"
+		"hammerid"		"347792"
+		"m_iname"		"br_3way_bridge_sides_pillars"
+	}
+	"347797"
+	{
+		"enable"		"0"
+		"hammerid"		"347797"
+		"m_iname"		"br_3way_bridge_sides_pillars"
+	}
+	"347848"
+	{
+		"enable"		"0"
+		"hammerid"		"347848"
+		"m_iname"		"br_3way_bridge_mid_pillars"
+	}
+	"347893"
+	{
+		"enable"		"0"
+		"hammerid"		"347893"
+		"m_iname"		"br_3way_bridge_mid_pillars"
+	}
+	"347928"
+	{
+		"enable"		"0"
+		"hammerid"		"347928"
+		"m_iname"		"br_3way_bridge_mid_pillars"
+	}
+	"347977"
+	{
+		"enable"		"0"
+		"hammerid"		"347977"
+		"m_iname"		"br_3way_bridge_mid"
+	}
+	"348001"
+	{
+		"enable"		"0"
+		"hammerid"		"348001"
+		"m_iname"		"br_3way_bridge_sides"
+	}
+	"348018"
+	{
+		"enable"		"0"
+		"hammerid"		"348018"
+		"m_iname"		"br_3way_bridge_sides"
+	}
+	"474625"
+	{
+		"enable"		"0"
+		"hammerid"		"474625"
+		"m_iname"		"br_breakablecell"
+	}
+	"492085"
+	{
+		"enable"		"0"
+		"hammerid"		"492085"
+		"m_iname"		"br_dragon"
+	}
+	"580575"
+	{
+		"enable"		"0"
+		"hammerid"		"580575"
+		"m_iname"		"br_cavern1"
+	}
+	"580592"
+	{
+		"enable"		"0"
+		"hammerid"		"580592"
+		"m_iname"		"br_cavern2"
+	}
+	"580606"
+	{
+		"enable"		"0"
+		"hammerid"		"580606"
+		"m_iname"		"br_cavern3"
+	}
+	"580617"
+	{
+		"enable"		"0"
+		"hammerid"		"580617"
+		"m_iname"		"br_cavern3"
+	}
+	"747548"
+	{
+		"enable"		"0"
+		"hammerid"		"747548"
+		"m_iname"		"br_aftersewer"
+	}
+	"768678"
+	{
+		"enable"		"0"
+		"hammerid"		"768678"
+		"m_iname"		"br_crouchgrate"
+	}
+	"768977"
+	{
+		"enable"		"0"
+		"hammerid"		"768977"
+		"m_iname"		"br_cellar"
+	}
+	"769108"
+	{
+		"enable"		"0"
+		"hammerid"		"769108"
+		"m_iname"		"br_cellar2"
+	}
+	"781094"
+	{
+		"enable"		"0"
+		"hammerid"		"781094"
+		"m_iname"		"br_abovesewer"
+	}
+	"781198"
+	{
+		"enable"		"0"
+		"hammerid"		"781198"
+		"m_iname"		"br_abovesewer2"
+	}
+	"782573"
+	{
+		"enable"		"0"
+		"hammerid"		"782573"
+		"m_iname"		"br_abovesewer2"
+	}
+	"575821"
+	{
+		"enable"		"0"
+		"hammerid"		"575821"
+		"m_iname"		"br_stage5statue1"
+	}
+	"575859"
+	{
+		"enable"		"0"
+		"hammerid"		"575859"
+		"m_iname"		"br_stage5statue2"
+	}
+	"575958"
+	{
+		"enable"		"0"
+		"hammerid"		"575958"
+		"m_iname"		"br_stage5statue3"
 	}
 }

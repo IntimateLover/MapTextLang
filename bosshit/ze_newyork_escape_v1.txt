@@ -1,102 +1,81 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Welcome in New York City Zombie Escape ***"
+	"592744"
 	{
-		"chi"		"**欢迎来到到纽约市僵尸逃亡 **"
+		"enable"		"0"
+		"hammerid"		"592744"
+		"m_iname"		"Wood"
 	}
-	"*** Map by ziomekYOYO ***"
+	"592756"
 	{
-		"chi"		"**地图制作：ziomekYOYO 地图翻译：蓬莱山帅比♪ **"
+		"enable"		"0"
+		"hammerid"		"592756"
+		"m_iname"		"Wood"
 	}
-	"*** It seems that the helicopter is damaged ***"
+	"592777"
 	{
-		"chi"		"**看来这架直升机已经坏了 **"
+		"enable"		"0"
+		"hammerid"		"592777"
+		"m_iname"		"Wood"
 	}
-	"*** You have to go down to the subway ***"
+	"592780"
 	{
-		"chi"		"**你必须去地铁站 **"
+		"enable"		"0"
+		"hammerid"		"592780"
+		"m_iname"		"Wood"
 	}
-	"*** Hold this position for a few seconds... ***"
+	"309966"
 	{
-		"chi"		"**守住这里几秒钟... **"
+		"enable"		"0"
+		"hammerid"		"309966"
+		"m_iname"		"Wood"
 	}
-	"*** Train doors will open in 30 sec ***"
+	"309979"
 	{
-		"chi"		"**列车车门将在30秒后打开 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"309979"
+		"m_iname"		"Wood"
 	}
-	"*** Train doors are Open ! ***"
+	"309997"
 	{
-		"chi"		"**门开了 **"
+		"enable"		"0"
+		"hammerid"		"309997"
+		"m_iname"		"Wood"
 	}
-	"*** You need to Activate C4 !!! ***"
+	"310009"
 	{
-		"chi"		"**你需要激活C4！！！ **"
+		"enable"		"0"
+		"hammerid"		"310009"
+		"m_iname"		"Wood"
 	}
-	"*** C4 Explode in 30 sec ***"
+	"310045"
 	{
-		"chi"		"**C4将在30秒后爆炸 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"310045"
+		"m_iname"		"Wood"
 	}
-	"*** C4 Explode in 20 sec ***"
+	"310048"
 	{
-		"chi"		"**C4将在20秒后爆炸 **"
+		"enable"		"0"
+		"hammerid"		"310048"
+		"m_iname"		"Wood"
 	}
-	"*** C4 Explode in 10 sec ***"
+	"310051"
 	{
-		"chi"		"**C4将在10秒后爆炸 **"
+		"enable"		"0"
+		"hammerid"		"310051"
+		"m_iname"		"Wood"
 	}
-	"*** C4 Explode in 5 sec ***"
+	"310054"
 	{
-		"chi"		"**C4将在5秒后爆炸 **"
+		"enable"		"0"
+		"hammerid"		"310054"
+		"m_iname"		"Wood"
 	}
-	"*** 4... ***"
+	"554514"
 	{
-		"chi"		"** **"
-	}
-	"*** 3...  ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 2... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 1... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** The door will open for 30 sec ***"
-	{
-		"chi"		"**门将在30秒后打开 **"
-		"DoorCountDown" "30"
-	}
-	"*** Doors are Open ***"
-	{
-		"chi"		"**门开了 **"
-	}
-	"*** You need stay close to the elevator doors to open it... ***"
-	{
-		"chi"		"**你需要靠近电梯门并打开它… **"
-	}
-	"*** Damn this shit is heavy.... ***"
-	{
-		"chi"		"**该死的.这太重了... **"
-	}
-	"*** Almost done.... ***"
-	{
-		"chi"		"**差不多了吧… **"
-	}
-	"*** Run to the Roof !!! ***"
-	{
-		"chi"		"**跑到屋顶去！！！ **"
-	}
-	"*** Get to the Choppa !!! ***"
-	{
-		"chi"		"**到达Choppa !!! **"
-	}
-	"*** The elevator is broken go upstairs ***"
-	{
-		"chi"		"**电梯坏了！上楼！！ **"
+		"enable"		"0"
+		"hammerid"		"554514"
+		"m_iname"		"C4Wall"
 	}
 }

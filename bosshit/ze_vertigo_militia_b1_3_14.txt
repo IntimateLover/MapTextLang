@@ -1,87 +1,63 @@
-"Console_T"
+"BOSSHP"
 {
-	"** Map by kune **"
+	"20377158"
 	{
-		"chi"		"**地图制作：kune 地图翻译：清新的二哈♪ **"
+		"enable"		"0"
+		"hammerid"		"20377158"
+		"m_iname"		"tes"
 	}
-	"** Original map by Chris Auty and Andrew Aumann**"
+	"20191550"
 	{
-		"chi"		"**地图原创作者：Chris Auty&Andrew Aumann **"
+		"enable"		"0"
+		"hammerid"		"20191550"
+		"m_iname"		"mil_b_1"
 	}
-	"** 30 seconds left **"
+	"20191614"
 	{
-		"chi"		"**30s **"
+		"enable"		"0"
+		"hammerid"		"20191614"
+		"m_iname"		"mil_b_2"
 	}
-	"** 25 seconds left **"
+	"20191816"
 	{
-		"chi"		"**25s **"
+		"enable"		"0"
+		"hammerid"		"20191816"
+		"m_iname"		"mil_b_5"
 	}
-	"** 15 seconds left **"
+	"20136055"
 	{
-		"chi"		"**15s **"
+		"enable"		"0"
+		"hammerid"		"20136055"
+		"m_iname"		"weathervane.physbox"
 	}
-	"** 20 seconds left **"
+	"19950986"
 	{
-		"chi"		"**20s **"
+		"enable"		"0"
+		"hammerid"		"19950986"
+		"m_iname"		"vertigo_block_2"
 	}
-	"** Hold here **"
+	"19951034"
 	{
-		"chi"		"**守住这里 **"
+		"enable"		"0"
+		"hammerid"		"19951034"
+		"m_iname"		"vertigo_block_3"
 	}
-	"** Get to the chopper **"
+	"19942812"
 	{
-		"chi"		"**快上直升机 **"
+		"enable"		"0"
+		"hammerid"		"19942812"
+		"m_iname"		"vertigo_block_1"
 	}
-	"** 25 seconds left *"
+	"20257661"
 	{
-		"chi"		"**25s **"
+		"enable"		"0"
+		"hammerid"		"20257661"
+		"m_iname"		"choose_delay"
 	}
-	"** Get on the elevator **"
+	"20223920"
 	{
-		"chi"		"**快上电梯 **"
-	}
-	"** 5 seconds left **"
-	{
-		"chi"		"**5s **"
-	}
-	"** 4 seconds left **"
-	{
-		"chi"		"**4s **"
-	}
-	"** 3 seconds left **"
-	{
-		"chi"		"**3s **"
-	}
-	"** 2 seconds left **"
-	{
-		"chi"		"**2s **"
-	}
-	"** 1 seconds left **"
-	{
-		"chi"		"**1s **"
-	}
-	"** 10 seconds left **"
-	{
-		"chi"		"**10s **"
-	}
-	"** 9 seconds left **"
-	{
-		"chi"		"**9s **"
-	}
-	"** 8 seconds left **"
-	{
-		"chi"		"**8s **"
-	}
-	"** 7 seconds left **"
-	{
-		"chi"		"**7s **"
-	}
-	"** FAILED **"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20223920"
+		"m_iname"		"choose_block"
 	}
 }

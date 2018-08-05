@@ -1,530 +1,525 @@
-"Console_T"
+"BOSSHP"
 {
-	"**have fun**"
+	"734834"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"734834"
+		"m_iname"		"lv2break2-2"
 	}
-	"**This map is made by a noob**"
+	"732854"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"732854"
+		"m_iname"		"lv2break1-1"
 	}
-	"the door will open in 15s"
+	"732914"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"732914"
+		"m_iname"		"lv2break1-2"
 	}
-	"the door will open in 30s"
+	"732934"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"732934"
+		"m_iname"		"lv2break1-3"
 	}
-	"The elevator starts in 10 seconds."
+	"732973"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"732973"
+		"m_iname"		"lv2break1-4"
 	}
-	"Go to another elevator."
+	"733050"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"733050"
+		"m_iname"		"lv2break1-5"
 	}
-	"holy on elevator star in 10s"
+	"733103"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"733103"
+		"m_iname"		"lv2break1-7"
 	}
-	"快去启动电梯"
+	"733106"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"733106"
+		"m_iname"		"lv2break1-6"
 	}
-	"快回�?电梯还有30S启动"
+	"733382"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"733382"
+		"m_iname"		"lv2break2-1"
 	}
-	"寻找开�? 让电梯继续运�?��"
+	"552920"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"552920"
+		"m_iname"		"lv2break2-3"
 	}
-	"我们做到�?快回到电梯上 电梯还有30S启动"
+	"503925"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"503925"
+		"m_iname"		"surf1-1"
 	}
-	"我们需要守到电梯重新启�?0S"
+	"503936"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"503936"
+		"m_iname"		"surf1-2"
 	}
-	"不要碰水 打破白色板子 蹲进这个狭小的空间里"
+	"503950"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"503950"
+		"m_iname"		"surf1-3"
 	}
-	"红色光源好像有什么东�? 去看看吧"
+	"503961"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"503961"
+		"m_iname"		"surf1-4"
 	}
-	"小心地板会碎"
+	"503969"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"503969"
+		"m_iname"		"surf1-5"
 	}
-	"光墙还有30S消失  守住这里"
+	"503986"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"503986"
+		"m_iname"		"surf1-6"
 	}
-	"守住 光墙马上消失"
+	"504002"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504002"
+		"m_iname"		"surf1-7"
 	}
-	"光墙30S后消�?"
+	"504020"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504020"
+		"m_iname"		"surf1-8"
 	}
-	"守住 这里应该会有路的"
+	"504031"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504031"
+		"m_iname"		"surf1-9"
 	}
-	"25后最后一道光墙消�?"
+	"504042"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504042"
+		"m_iname"		"surf1-10"
 	}
-	"守到传�? 马上就要到最后了"
+	"504053"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504053"
+		"m_iname"		"surf1-11"
 	}
-	"跳刀来啦 注意�?"
+	"504070"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504070"
+		"m_iname"		"surf1-12"
 	}
-	"你只需要走到红色地板你就安全了，只需要走两步（笑�?"
+	"504091"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504091"
+		"m_iname"		"surf1-13"
 	}
-	"sync_version"
+	"504106"
 	{
-		"syncvalue"		"76996"
+		"enable"		"0"
+		"hammerid"		"504106"
+		"m_iname"		"surf1-14"
 	}
-	"MapGlobal_ConVars"
+	"504120"
 	{
-		"0"
-		{
-			"cvar"		"sm_cvar zr_poison_enabled  0"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_flashlight_enabled 0"
-		}
-		"2"
-		{
-			"cvar"		"sm_flashlight_enabled 0"
-		}
-		"3"
-		{
-			"cvar"		"sm_flashlight_enabled 1"
-		}
+		"enable"		"0"
+		"hammerid"		"504120"
+		"m_iname"		"surf1-15"
 	}
-	"**stage1**"
+	"504137"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504137"
+		"m_iname"		"surf1-16"
 	}
-	"我们需要守到电梯重新启�30S"
+	"504155"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"504155"
+		"m_iname"		"surf1-17"
 	}
-	"电梯还有30S启动  坚持=solo"
+	"498500"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498500"
+		"m_iname"		"wall2-1"
 	}
-	"*Life or death!!!!*"
+	"498600"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498600"
+		"m_iname"		"wall7"
 	}
-	"你做到了"
+	"498645"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498645"
+		"m_iname"		"wall2-2"
 	}
-	"**human win **"
+	"498698"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498698"
+		"m_iname"		"wall1-1"
 	}
-	"**stage2**"
+	"498728"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498728"
+		"m_iname"		"wall1-2"
 	}
-	"**光墙还有30S破碎**"
+	"498767"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498767"
+		"m_iname"		"wall1-3"
 	}
-	"**光墙还有40S破碎**"
+	"498806"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"498806"
+		"m_iname"		"wall1-4"
 	}
-	"**电梯还有15S启动**"
+	"491160"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"491160"
+		"m_iname"		"last break"
 	}
-	"**光墙还有20S破碎**"
+	"486809"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"486809"
+		"m_iname"		"wall4-1"
 	}
-	"**还有25S启动机关**"
+	"488893"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"488893"
+		"m_iname"		"break3"
 	}
-	"**这里怎么都是�? 我们需要找到离开的方�**"
+	"482624"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"482624"
+		"m_iname"		"break1"
 	}
-	"**赶快打碎这堵�?我们要被淹死�**"
+	"482638"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"482638"
+		"m_iname"		"break2"
 	}
-	"**这个基地里面应该有潜水服 赶快寻找 时间不多�**"
+	"477644"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"477644"
+		"m_iname"		"wallxx"
 	}
-	"**我需�?0S来打开这个柜子**"
+	"478399"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"478399"
+		"m_iname"		"wallxxx"
 	}
-	"**我们找到了离开的方法但是需�?0S来打开�?**"
+	"473779"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"473779"
+		"m_iname"		"wall8"
 	}
-	"**�?总算安全�?赶快寻找离开这里的方�?**"
+	"467352"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"467352"
+		"m_iname"		"wall1"
 	}
-	"**这个管道应该有一个地方可以打碎的**"
+	"735025"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"735025"
+		"m_iname"		"lv2toggle1-2"
 	}
-	"**墙还�30S破碎**"
+	"784304"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"784304"
+		"m_iname"		"lastbreak"
 	}
-	"**墙还�50S消失**"
+	"781048"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"781048"
+		"m_iname"		"zmbreak1-6"
 	}
-	"**墙还�40S消失**"
+	"762899"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"762899"
+		"m_iname"		"diantiwall"
 	}
-	"**a player pick up ice**"
+	"762915"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"762915"
+		"m_iname"		"diantiwall"
 	}
-	"电梯还有35S启动  坚持=solo"
+	"776305"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776305"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**Thank you for play**"
+	"776330"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776330"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**我们找到了离开的方法但是需�30S来打开�?**"
+	"776342"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776342"
+		"m_iname"		"zmbreak1-1"
 	}
-	"The elevator starts in 20 seconds."
+	"776354"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776354"
+		"m_iname"		"zmbreak1-1"
 	}
-	"hold 30s��"
+	"776363"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776363"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**all kill**"
+	"776381"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776381"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**stage:hold**"
+	"776390"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776390"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**in stage:hold you just life**"
+	"776396"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776396"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**hold 230s**"
+	"776408"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776408"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**zombie teleport in 10s**"
+	"776414"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776414"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**40s teleport**"
+	"776420"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776420"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**僵尸都在头上 小心**"
+	"776438"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776438"
+		"m_iname"		"zmbreak1-4"
 	}
-	"**地图制作：一条会翻身的鱼**"
+	"776571"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776571"
+		"m_iname"		"zmbreak1-2"
 	}
-	"**非常感谢:酸奶**"
+	"776588"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776588"
+		"m_iname"		"zmbreak1-5"
 	}
-	"快回�?电梯还有45S启动"
+	"776841"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776841"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**English translations : GUC admin WILD  **"
+	"776944"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776944"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**map by:一条会翻身的鱼**"
+	"776953"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776953"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**wall break 10s**"
+	"776959"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776959"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**Press the button to start elevator**"
+	"776965"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776965"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**GET BACK TO THE ELEVATOR FAST !!!! Starts in 45S**"
+	"776977"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776977"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**DEFEND elevator for 30S until it starts**"
+	"776986"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776986"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**What does the red light source look like?**"
+	"776992"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"776992"
+		"m_iname"		"zmbreak1-3"
 	}
-	"**be careful that the floor will break**"
+	"758949"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"758949"
+		"m_iname"		"diantiwall"
 	}
-	"**Crouch wall will break in 30S**"
+	"759752"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"759752"
+		"m_iname"		"wall1xx"
 	}
-	"**light  wall will break, EXTRA DEFEND!!!!**"
+	"804868"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"804868"
+		"m_iname"		"wall1-5"
 	}
-	"**Will the light wall break after 30S**"
+	"804944"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"804944"
+		"m_iname"		"wall1-6"
 	}
-	"**HOLD here!!!! A path should open��**"
+	"804950"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"804950"
+		"m_iname"		"wall1-7"
 	}
-	"**final wall will break after 25S **"
+	"801146"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"801146"
+		"m_iname"		"zmbreak1-1"
 	}
-	"**we need defend 25s !!!**"
+	"845203"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845203"
+		"m_iname"		"laser_break1"
 	}
-	"**LASERS! WATCH OUT!**"
+	"845228"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845228"
+		"m_iname"		"laser_break2"
 	}
-	"**You just have to go to the elevator and you are safe!Just two steps away.��. (XD) **"
+	"845252"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845252"
+		"m_iname"		"laser_break3"
 	}
-	"**DEFEND  elevator for 20S , SOLO incoming!!!**"
+	"845273"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845273"
+		"m_iname"		"laser_break4"
 	}
-	"*ACG Im coming.!!!!*"
+	"845288"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845288"
+		"m_iname"		"laser_break5"
 	}
-	"**you get it**"
+	"845315"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845315"
+		"m_iname"		"laser_break6"
 	}
-	"** ** stage HOLD : HARDEXTRA defend like Paleta ****"
+	"845354"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845354"
+		"m_iname"		"laser_break7"
 	}
-	"**Light wall breaks in 30S **"
+	"845380"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845380"
+		"m_iname"		"laser_break8"
 	}
-	"**Light wall breaks in 40S **"
+	"845406"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845406"
+		"m_iname"		"laser_break9"
 	}
-	"**Elevator starts in 15 seconds**"
+	"845424"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"845424"
+		"m_iname"		"laser_break10"
 	}
-	"**Light wall breaks in 20S **"
+	"878918"
 	{
-		"chi"		"** **"
-	}
-	"** The way will close in 25S**"
-	{
-		"chi"		"** **"
-	}
-	"**Whats happening here? We need to find the way to leave **"
-	{
-		"chi"		"** **"
-	}
-	"** Break this up quickly **"
-	{
-		"chi"		"** **"
-	}
-	"** were drowning **"
-	{
-		"chi"		"** **"
-	}
-	"**There should be diving suits in this base��.**"
-	{
-		"chi"		"** **"
-	}
-	"**WE  need  10S to open this locker**"
-	{
-		"chi"		"** **"
-	}
-	"**The wetsuit was taken.Lets hurry and get out of here.**"
-	{
-		"chi"		"** **"
-	}
-	"**** We found the way to escape but it needs 40S to open? ****"
-	{
-		"chi"		"** **"
-	}
-	"**This pipeline should have a place that breaks**"
-	{
-		"chi"		"** **"
-	}
-	"**wall breaks in 30S**"
-	{
-		"chi"		"** **"
-	}
-	"**wall disappears in 50S**"
-	{
-		"chi"		"** **"
-	}
-	"**wall disappears in 40S**"
-	{
-		"chi"		"** **"
-	}
-	"** don��t panic, SHOOT wall!! **"
-	{
-		"chi"		"** **"
-	}
-	"**last door 20s open**"
-	{
-		"chi"		"** **"
-	}
-	"**Elevator starts in 30 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Zombies be careful**"
-	{
-		"chi"		"** **"
-	}
-	"**laser laser!!!**"
-	{
-		"chi"		"** **"
-	}
-	"**double laser coming!!!**"
-	{
-		"chi"		"** **"
-	}
-	"**GET BACK TO THE ELEVATOR FAST !!!! Starts in 30S**"
-	{
-		"chi"		"** **"
-	}
-	"hold 30s"
-	{
-		"chi"		"** **"
-	}
-	"**DEFEND  elevator for 45S , SOLO incoming!!!**"
-	{
-		"chi"		"** **"
-	}
-	"**stage:laser**"
-	{
-		"chi"		"** **"
-	}
-	"** ** OK You need RTV because you cant get through this level.**"
-	{
-		"chi"		"** **"
-	}
-	"**RTV PLS !!!!!!**"
-	{
-		"chi"		"** **"
-	}
-	"**level 1 laser 10 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 2 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 3 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 4 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 5 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 6 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 7 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 8 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 9 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 10 laser 15 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**level 11 laser 20 seconds later**"
-	{
-		"chi"		"** **"
-	}
-	"**good luck**"
-	{
-		"chi"		"** **"
-	}
-	"**Will the light wall break after 25S**"
-	{
-		"chi"		"** **"
-	}
-	"**DEFEND  elevator for 30S , SOLO incoming!!!**"
-	{
-		"chi"		"** **"
-	}
-	"**a player pick up wind**"
-	{
-		"chi"		"** **"
-	}
-	"**wall disappears in 30S**"
-	{
-		"chi"		"** **"
-	}
-	"**last door 10s open**"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"878918"
+		"m_iname"		"breakxxx"
 	}
 }

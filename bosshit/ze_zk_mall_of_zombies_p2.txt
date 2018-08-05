@@ -1,80 +1,147 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Map created by dAllas ***"
+	"264559"
 	{
-		"chi"		"**地图制作：dAllas 地图翻译：蓬莱山帅比♪ **"
+		"enable"		"0"
+		"hammerid"		"264559"
+		"m_iname"		"Trainglass"
 	}
-	"*** TIPS and HELP from Kim [pF] and Mikey-Muse  ***"
+	"264562"
 	{
-		"chi"		"**感谢：from Kim [pF] Mikey-Muse的帮助和提示 **"
+		"enable"		"0"
+		"hammerid"		"264562"
+		"m_iname"		"Trainglass"
 	}
-	"*** The backend door will open in 30 seconds ***"
+	"264565"
 	{
-		"chi"		"**后台门会在30秒后打开 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"264565"
+		"m_iname"		"Trainglass"
 	}
-	"*** Elevator is activated ***"
+	"264568"
 	{
-		"chi"		"**电梯已激活 **"
+		"enable"		"0"
+		"hammerid"		"264568"
+		"m_iname"		"Trainglass"
 	}
-	"*** Elevator doors opens in 30 sec ***"
+	"264571"
 	{
-		"chi"		"**电梯门在30秒后打开 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"264571"
+		"m_iname"		"Trainglass"
 	}
-	"*** Elevator doors closes in 15 seconds ***"
+	"264574"
 	{
-		"chi"		"**电梯门在15秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"264574"
+		"m_iname"		"Trainglass"
 	}
-	"*** Stair grid is now accessible ***"
+	"264577"
 	{
-		"chi"		"**楼梯现在可以攀爬 **"
+		"enable"		"0"
+		"hammerid"		"264577"
+		"m_iname"		"Trainglass"
 	}
-	"*** The blast door will close after 30 seconds ***"
+	"264580"
 	{
-		"chi"		"**防爆门将在30秒后关闭 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"264580"
+		"m_iname"		"Trainglass"
 	}
-	"*** The fence will break when the door is fully closed! ***"
+	"264593"
 	{
-		"chi"		"**当门完全关闭时.栅栏会开 **"
+		"enable"		"0"
+		"hammerid"		"264593"
+		"m_iname"		"Trainglass"
 	}
-	"*** The TNT will blow in 40 seconds ***"
+	"264596"
 	{
-		"chi"		"**TNT将在40秒后爆炸 **"
-		"DoorCountDown" "40"
+		"enable"		"0"
+		"hammerid"		"264596"
+		"m_iname"		"Trainglass"
 	}
-	"*** 3 ***"
+	"264599"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"264599"
+		"m_iname"		"Trainglass"
 	}
-	"*** 2 ***"
+	"264602"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"264602"
+		"m_iname"		"Trainglass"
 	}
-	"*** 1 ***"
+	"264605"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"264605"
+		"m_iname"		"Trainglass"
 	}
-	"*** BOOM ***"
+	"264608"
 	{
-		"chi"		"**爆炸 **"
+		"enable"		"0"
+		"hammerid"		"264608"
+		"m_iname"		"Trainglass"
 	}
-	"*** GO GO GO ***"
+	"94755"
 	{
-		"chi"		"**走！ **"
+		"enable"		"0"
+		"hammerid"		"94755"
+		"m_iname"		"glass1"
 	}
-	"*** Last elevator is leaving in 15 seconds ***"
+	"94764"
 	{
-		"chi"		"**最后的电梯将在15秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"94764"
+		"m_iname"		"glass1"
 	}
-	"*** Ladder grid will break in 10 seconds ***"
+	"203714"
 	{
-		"chi"		"**梯子将在10秒可以攀爬 **"
+		"enable"		"0"
+		"hammerid"		"203714"
+		"m_iname"		"stairs"
 	}
-	"*** The Train will leave in 30 seconds ***"
+	"280181"
 	{
-		"chi"		"**火车将在30秒后离开 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"280181"
+		"m_iname"		"woodwall"
+	}
+	"280199"
+	{
+		"enable"		"0"
+		"hammerid"		"280199"
+		"m_iname"		"tnt1"
+	}
+	"280243"
+	{
+		"enable"		"0"
+		"hammerid"		"280243"
+		"m_iname"		"tntbox"
+	}
+	"285434"
+	{
+		"enable"		"0"
+		"hammerid"		"285434"
+		"m_iname"		"ladderfence"
+	}
+	"310424"
+	{
+		"enable"		"0"
+		"hammerid"		"310424"
+		"m_iname"		"vent"
+	}
+	"390527"
+	{
+		"enable"		"0"
+		"hammerid"		"390527"
+		"m_iname"		"blastdoorfence"
+	}
+	"575503"
+	{
+		"enable"		"0"
+		"hammerid"		"575503"
+		"m_iname"		"EndCeiling&2828"
 	}
 }

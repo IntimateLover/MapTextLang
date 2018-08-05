@@ -1,215 +1,231 @@
-"Console_T"
+"BOSSHP"
 {
-	"The server is about to close the update ,Please update your game"
+	"75896"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"75896"
+		"m_iname"		"br_chapelwindows"
 	}
-	"*** STAGE I ***"
+	"75917"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"75917"
+		"m_iname"		"br_chapelwindows"
 	}
-	"*** WARMUP - 50 SECONDS LEFT ***"
+	"75923"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"75923"
+		"m_iname"		"br_chapelwindows"
 	}
-	"*** WARMUP - 40 SECONDS LEFT ***"
+	"75932"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"75932"
+		"m_iname"		"br_chapelwindows"
 	}
-	"*** WARMUP - 30 SECONDS LEFT ***"
+	"311084"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"311084"
+		"m_iname"		"br_chapelliftshortcut"
 	}
-	"*** Lightning Orb has been acquired ***"
+	"496136"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"496136"
+		"m_iname"		"br_towerfloor"
 	}
-	"*** WARMUP - 20 SECONDS LEFT ***"
+	"681871"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"681871"
+		"m_iname"		"br_archiveshortcut"
 	}
-	"*** WARMUP - 10 SECONDS LEFT ***"
+	"685910"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"685910"
+		"m_iname"		"br_frombridgepuzzle"
 	}
-	"*** Gust Orb has been acquired ***"
+	"685952"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"685952"
+		"m_iname"		"br_fromarchive"
 	}
-	"*** WARMUP OVER - RESTARTING ROUND ***"
+	"685973"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"685973"
+		"m_iname"		"br_outsideshortcut1"
 	}
-	"*** Portcullis opening in 30 seconds ***"
+	"686206"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"686206"
+		"m_iname"		"br_tobeam"
 	}
-	"*** Glacial Orb has been acquired ***"
+	"686244"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"686244"
+		"m_iname"		"br_upperlevel"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"686280"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"686280"
+		"m_iname"		"br_climbshortcut"
 	}
-	"*** Spawn area teleport activating in 5 seconds ***"
+	"687447"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687447"
+		"m_iname"		"br_windowshortcut"
 	}
-	"*** Burning Orb has been acquired ***"
+	"687555"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687555"
+		"m_iname"		"br_chapelpath"
 	}
-	"*** Inner gate opening in 10 seconds ***"
+	"687615"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687615"
+		"m_iname"		"br_chapelentrance"
 	}
-	"*** Bridge area teleport activating in 5 seconds ***"
+	"687642"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687642"
+		"m_iname"		"br_chapelentrance"
 	}
-	"*** Door opening in 45 seconds ***"
+	"687645"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687645"
+		"m_iname"		"br_chapelentrance"
 	}
-	"*** Round failed! Zombies have reached the objective! ***"
+	"687782"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687782"
+		"m_iname"		"br_chapeltower"
 	}
-	"*** Divine Orb has been acquired ***"
+	"691540"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"691540"
+		"m_iname"		"br_tombentrance"
 	}
-	"*** Abyssal Orb has been acquired ***"
+	"826758"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"826758"
+		"m_iname"		"br_upperlevel"
 	}
-	"*** Doors opening in 45 seconds ***"
+	"836419"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"836419"
+		"m_iname"		"br_chapelshortcut"
 	}
-	"*** Total destruction in 45 seconds ***"
+	"836708"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"836708"
+		"m_iname"		"br_chapelshortcut"
 	}
-	"*** Castle area teleport activating in 5 seconds ***"
+	"948487"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"948487"
+		"m_iname"		"br_portcullis_alt"
 	}
-	"*** Stage completed! ***"
+	"1074246"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1074246"
+		"m_iname"		"br_ladderblocker1"
 	}
-	"*** STAGE II ***"
+	"1191461"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1191461"
+		"m_iname"		"br_archiveshortcut"
 	}
-	"*** Outer gate opening in 10 seconds ***"
+	"1239961"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1239961"
+		"m_iname"		"br_mainstairblocker"
 	}
-	"*** Chapel lift leaving in 30 seconds ***"
+	"1240030"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1240030"
+		"m_iname"		"br_mainstairblocker"
 	}
-	"*** Windows breaking in 45 seconds ***"
+	"1240038"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1240038"
+		"m_iname"		"br_mainstairblocker"
 	}
-	"*** Doors closing in 45 seconds ***"
+	"1266456"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1266456"
+		"m_iname"		"br_upperlevel"
 	}
-	"*** Library lift leaving in 30 seconds ***"
+	"1295735"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1295735"
+		"m_iname"		"br_stairs"
 	}
-	"*** The tomb has been reached ***"
+	"1295763"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1295763"
+		"m_iname"		"br_stairs"
 	}
-	"*** Defend the 4 statues for 45 seconds ***"
+	"1295777"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1295777"
+		"m_iname"		"br_stairs"
 	}
-	"*** Total destruction in 30 seconds ***"
+	"1295791"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1295791"
+		"m_iname"		"br_stairs"
 	}
-	"*** Total destruction in 5 seconds ***"
+	"310108"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"310108"
+		"m_iname"		"br_outergateshortcut"
 	}
-	"*** Kill any remaining zombies ***"
+	"310133"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"310133"
+		"m_iname"		"br_innergateshortcut"
 	}
-	"*** STAGE III ***"
+	"687585"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"687585"
+		"m_iname"		"br_sideroofspath"
 	}
-	"*** Inner gate lever is stuck ***"
+	"1236340"
 	{
-		"chi"		"** **"
-	}
-	"*** Find another way! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Doors opening in 30 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Fountain opening in 20 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Tower lifts activated ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Tower lifts leaving in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Defend the tower for 60 seconds! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 30 seconds left ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Prepare to jump! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** JUMP! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** STAGE IV (ZM) ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 5 minutes left ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 4 minutes left ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 3 minutes left ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 2 minutes left ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 1 minute left ***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1236340"
+		"m_iname"		"br_outergateshortcut"
 	}
 }

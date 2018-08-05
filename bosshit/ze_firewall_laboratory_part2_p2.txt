@@ -1,91 +1,501 @@
-"Console_T"
+"BOSSHP"
 {
-	"Break the doors to exit the laboratory."
+	"57703"
 	{
-		"chi"		"把门打破才以逃离实验室（汉化：蓝山咖啡）"
+		"enable"		"0"
+		"hammerid"		"57703"
+		"m_iname"		"Letters"
 	}
-	"Cable Car leaving in 7 seconds..."
+	"57717"
 	{
-		"chi"		"缆车将在7秒后离开"
+		"enable"		"0"
+		"hammerid"		"57717"
+		"m_iname"		"Letters"
 	}
-	"Pole-Rider machine leaving in 9 seconds..."
+	"57733"
 	{
-		"chi"		"吊车将在9秒后离开"
+		"enable"		"0"
+		"hammerid"		"57733"
+		"m_iname"		"Letters"
 	}
-	"Boat leaving in 6 seconds!"
+	"58830"
 	{
-		"chi"		"船将在6秒后离开"
+		"enable"		"0"
+		"hammerid"		"58830"
+		"m_iname"		"Letters"
 	}
-	"Truck leaving in 15 seconds!"
+	"58847"
 	{
-		"chi"		"卡车将在15秒后离开"
+		"enable"		"0"
+		"hammerid"		"58847"
+		"m_iname"		"Letters"
 	}
-	"Station doors will open in 25 seconds."
+	"58860"
 	{
-		"chi"		"车站门将在25秒后打开"
+		"enable"		"0"
+		"hammerid"		"58860"
+		"m_iname"		"Letters"
 	}
-	"Zombie outbreak has been detected."
+	"58871"
 	{
-		"chi"		"侦测到僵尸疫情"
+		"enable"		"0"
+		"hammerid"		"58871"
+		"m_iname"		"Letters"
 	}
-	"Emergency protection barriers activated."
+	"58888"
 	{
-		"chi"		"启动应急防护屏障"
+		"enable"		"0"
+		"hammerid"		"58888"
+		"m_iname"		"Letters"
 	}
-	"Station doors have opened!"
+	"58906"
 	{
-		"chi"		"车站大门已打开"
+		"enable"		"0"
+		"hammerid"		"58906"
+		"m_iname"		"Letters"
 	}
-	"The gates will open in 25 seconds."
+	"58919"
 	{
-		"chi"		"进站口将在25秒后打开"
+		"enable"		"0"
+		"hammerid"		"58919"
+		"m_iname"		"Letters"
 	}
-	"Hold out the zombies at the ticket gates!"
+	"58933"
 	{
-		"chi"		"在检票口守住僵尸！"
+		"enable"		"0"
+		"hammerid"		"58933"
+		"m_iname"		"Letters"
 	}
-	"The teleporters at the spawn area are now working!"
+	"58943"
 	{
-		"chi"		"复活的僵尸现在可以使用出生点的传送器"
+		"enable"		"0"
+		"hammerid"		"58943"
+		"m_iname"		"Letters"
 	}
-	"Activate the emergency button!!!"
+	"58955"
 	{
-		"chi"		"按下求救按钮！"
+		"enable"		"0"
+		"hammerid"		"58955"
+		"m_iname"		"Letters"
 	}
-	"Emergency button has been activated! Emergency doors closing..."
+	"58972"
 	{
-		"chi"		"收到求救信号！启动防护门（蓝山咖啡：如果要用箱子阻挡僵尸，就不要丢高爆！）"
+		"enable"		"0"
+		"hammerid"		"58972"
+		"m_iname"		"Letters"
 	}
-	"Train arriving in approximately 35 seconds..."
+	"59395"
 	{
-		"chi"		"逃亡列车将在35秒后到达"
+		"enable"		"0"
+		"hammerid"		"59395"
+		"m_iname"		"Letters"
 	}
-	"Train arriving in approximately 20 seconds..."
+	"67261"
 	{
-		"chi"		"距离列车到达还有20秒"
+		"enable"		"0"
+		"hammerid"		"67261"
+		"m_iname"		"Letters"
 	}
-	"The train has arrived and will leave in 10 seconds!"
+	"67335"
 	{
-		"chi"		"列车已到达，并将在10秒后离开"
+		"enable"		"0"
+		"hammerid"		"67335"
+		"m_iname"		"Letters"
 	}
-	"Train arriving at nuclear station..."
+	"173953"
 	{
-		"chi"		"列车即将到达核能站"
+		"enable"		"0"
+		"hammerid"		"173953"
+		"m_iname"		"woodenBoxes"
 	}
-	"Beware of zombies coming from the back!"
+	"173956"
 	{
-		"chi"		"当心僵尸追尾！"
+		"enable"		"0"
+		"hammerid"		"173956"
+		"m_iname"		"woodenBoxes"
 	}
-	"Missile Doors 1 Opening..."
+	"173959"
 	{
-		"chi"		"第一核爆物准备"
+		"enable"		"0"
+		"hammerid"		"173959"
+		"m_iname"		"woodenBoxes"
 	}
-	"Missile Doors 2 Opening..."
+	"173962"
 	{
-		"chi"		"第二核爆物准备"
+		"enable"		"0"
+		"hammerid"		"173962"
+		"m_iname"		"woodenBoxes"
 	}
-	"Nuclear missile has been launched!!!"
+	"174088"
 	{
-		"chi"		"核爆开始！"
+		"enable"		"0"
+		"hammerid"		"174088"
+		"m_iname"		"woodenBoxes"
+	}
+	"174712"
+	{
+		"enable"		"0"
+		"hammerid"		"174712"
+		"m_iname"		"woodenBoxes"
+	}
+	"174715"
+	{
+		"enable"		"0"
+		"hammerid"		"174715"
+		"m_iname"		"woodenBoxes"
+	}
+	"174718"
+	{
+		"enable"		"0"
+		"hammerid"		"174718"
+		"m_iname"		"woodenBoxes"
+	}
+	"174721"
+	{
+		"enable"		"0"
+		"hammerid"		"174721"
+		"m_iname"		"woodenBoxes"
+	}
+	"174724"
+	{
+		"enable"		"0"
+		"hammerid"		"174724"
+		"m_iname"		"woodenBoxes"
+	}
+	"175528"
+	{
+		"enable"		"0"
+		"hammerid"		"175528"
+		"m_iname"		"woodenBoxes"
+	}
+	"175531"
+	{
+		"enable"		"0"
+		"hammerid"		"175531"
+		"m_iname"		"woodenBoxes"
+	}
+	"175534"
+	{
+		"enable"		"0"
+		"hammerid"		"175534"
+		"m_iname"		"woodenBoxes"
+	}
+	"175537"
+	{
+		"enable"		"0"
+		"hammerid"		"175537"
+		"m_iname"		"woodenBoxes"
+	}
+	"175540"
+	{
+		"enable"		"0"
+		"hammerid"		"175540"
+		"m_iname"		"woodenBoxes"
+	}
+	"175648"
+	{
+		"enable"		"0"
+		"hammerid"		"175648"
+		"m_iname"		"woodenBoxes"
+	}
+	"175651"
+	{
+		"enable"		"0"
+		"hammerid"		"175651"
+		"m_iname"		"woodenBoxes"
+	}
+	"175654"
+	{
+		"enable"		"0"
+		"hammerid"		"175654"
+		"m_iname"		"woodenBoxes"
+	}
+	"175660"
+	{
+		"enable"		"0"
+		"hammerid"		"175660"
+		"m_iname"		"woodenBoxes"
+	}
+	"175663"
+	{
+		"enable"		"0"
+		"hammerid"		"175663"
+		"m_iname"		"woodenBoxes"
+	}
+	"176140"
+	{
+		"enable"		"0"
+		"hammerid"		"176140"
+		"m_iname"		"woodenBoxes"
+	}
+	"176143"
+	{
+		"enable"		"0"
+		"hammerid"		"176143"
+		"m_iname"		"woodenBoxes"
+	}
+	"176146"
+	{
+		"enable"		"0"
+		"hammerid"		"176146"
+		"m_iname"		"woodenBoxes"
+	}
+	"176149"
+	{
+		"enable"		"0"
+		"hammerid"		"176149"
+		"m_iname"		"woodenBoxes"
+	}
+	"176152"
+	{
+		"enable"		"0"
+		"hammerid"		"176152"
+		"m_iname"		"woodenBoxes"
+	}
+	"176260"
+	{
+		"enable"		"0"
+		"hammerid"		"176260"
+		"m_iname"		"woodenBoxes"
+	}
+	"176263"
+	{
+		"enable"		"0"
+		"hammerid"		"176263"
+		"m_iname"		"woodenBoxes"
+	}
+	"176266"
+	{
+		"enable"		"0"
+		"hammerid"		"176266"
+		"m_iname"		"woodenBoxes"
+	}
+	"176272"
+	{
+		"enable"		"0"
+		"hammerid"		"176272"
+		"m_iname"		"woodenBoxes"
+	}
+	"176275"
+	{
+		"enable"		"0"
+		"hammerid"		"176275"
+		"m_iname"		"woodenBoxes"
+	}
+	"176752"
+	{
+		"enable"		"0"
+		"hammerid"		"176752"
+		"m_iname"		"woodenBoxes"
+	}
+	"176755"
+	{
+		"enable"		"0"
+		"hammerid"		"176755"
+		"m_iname"		"woodenBoxes"
+	}
+	"176758"
+	{
+		"enable"		"0"
+		"hammerid"		"176758"
+		"m_iname"		"woodenBoxes"
+	}
+	"176761"
+	{
+		"enable"		"0"
+		"hammerid"		"176761"
+		"m_iname"		"woodenBoxes"
+	}
+	"176764"
+	{
+		"enable"		"0"
+		"hammerid"		"176764"
+		"m_iname"		"woodenBoxes"
+	}
+	"176872"
+	{
+		"enable"		"0"
+		"hammerid"		"176872"
+		"m_iname"		"woodenBoxes"
+	}
+	"176875"
+	{
+		"enable"		"0"
+		"hammerid"		"176875"
+		"m_iname"		"woodenBoxes"
+	}
+	"176878"
+	{
+		"enable"		"0"
+		"hammerid"		"176878"
+		"m_iname"		"woodenBoxes"
+	}
+	"176884"
+	{
+		"enable"		"0"
+		"hammerid"		"176884"
+		"m_iname"		"woodenBoxes"
+	}
+	"176887"
+	{
+		"enable"		"0"
+		"hammerid"		"176887"
+		"m_iname"		"woodenBoxes"
+	}
+	"177364"
+	{
+		"enable"		"0"
+		"hammerid"		"177364"
+		"m_iname"		"woodenBoxes"
+	}
+	"177367"
+	{
+		"enable"		"0"
+		"hammerid"		"177367"
+		"m_iname"		"woodenBoxes"
+	}
+	"177370"
+	{
+		"enable"		"0"
+		"hammerid"		"177370"
+		"m_iname"		"woodenBoxes"
+	}
+	"177373"
+	{
+		"enable"		"0"
+		"hammerid"		"177373"
+		"m_iname"		"woodenBoxes"
+	}
+	"177376"
+	{
+		"enable"		"0"
+		"hammerid"		"177376"
+		"m_iname"		"woodenBoxes"
+	}
+	"177484"
+	{
+		"enable"		"0"
+		"hammerid"		"177484"
+		"m_iname"		"woodenBoxes"
+	}
+	"177487"
+	{
+		"enable"		"0"
+		"hammerid"		"177487"
+		"m_iname"		"woodenBoxes"
+	}
+	"177490"
+	{
+		"enable"		"0"
+		"hammerid"		"177490"
+		"m_iname"		"woodenBoxes"
+	}
+	"177496"
+	{
+		"enable"		"0"
+		"hammerid"		"177496"
+		"m_iname"		"woodenBoxes"
+	}
+	"177499"
+	{
+		"enable"		"0"
+		"hammerid"		"177499"
+		"m_iname"		"woodenBoxes"
+	}
+	"339113"
+	{
+		"enable"		"0"
+		"hammerid"		"339113"
+		"m_iname"		"woodenBoxes"
+	}
+	"339121"
+	{
+		"enable"		"0"
+		"hammerid"		"339121"
+		"m_iname"		"woodenBoxes"
+	}
+	"339129"
+	{
+		"enable"		"0"
+		"hammerid"		"339129"
+		"m_iname"		"woodenBoxes"
+	}
+	"382946"
+	{
+		"enable"		"0"
+		"hammerid"		"382946"
+		"m_iname"		"credits"
+	}
+	"554571"
+	{
+		"enable"		"0"
+		"hammerid"		"554571"
+		"m_iname"		"secretPassage"
+	}
+	"554596"
+	{
+		"enable"		"0"
+		"hammerid"		"554596"
+		"m_iname"		"secretPassage"
+	}
+	"561373"
+	{
+		"enable"		"0"
+		"hammerid"		"561373"
+		"m_iname"		"labdoor1"
+	}
+	"561421"
+	{
+		"enable"		"0"
+		"hammerid"		"561421"
+		"m_iname"		"labdoor2"
+	}
+	"561510"
+	{
+		"enable"		"0"
+		"hammerid"		"561510"
+		"m_iname"		"labdoor3"
+	}
+	"561513"
+	{
+		"enable"		"0"
+		"hammerid"		"561513"
+		"m_iname"		"labdoor4"
+	}
+	"561528"
+	{
+		"enable"		"0"
+		"hammerid"		"561528"
+		"m_iname"		"labdoor5"
+	}
+	"561531"
+	{
+		"enable"		"0"
+		"hammerid"		"561531"
+		"m_iname"		"labdoor6"
+	}
+	"584557"
+	{
+		"enable"		"0"
+		"hammerid"		"584557"
+		"m_iname"		"glassPhys"
+	}
+	"584580"
+	{
+		"enable"		"0"
+		"hammerid"		"584580"
+		"m_iname"		"glassPhys"
+	}
+	"594002"
+	{
+		"enable"		"0"
+		"hammerid"		"594002"
+		"m_iname"		"woodenBoxes"
+	}
+	"594384"
+	{
+		"enable"		"0"
+		"hammerid"		"594384"
+		"m_iname"		"gateMetalPhys"
 	}
 }

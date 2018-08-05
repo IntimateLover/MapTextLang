@@ -1,103 +1,135 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Stage : Folkvang ***"
+	"464323"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"464323"
+		"m_iname"		"ds_ornstein_hp"
 	}
-	"*** Mapping help : thas , MutsuNoKami ***"
+	"1357515"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1357515"
+		"m_iname"		"stage_phys"
 	}
-	"*** Map by Airvulpes ***"
+	"1357544"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1357544"
+		"m_iname"		"stage_phys"
 	}
-	"*** Hold 50 seconds ***"
+	"1357547"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1357547"
+		"m_iname"		"stage_phys"
 	}
-	"*** 30 seconds left ***"
+	"1093562"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1093562"
+		"m_iname"		"ds_way_breakablegate_l"
 	}
-	"*** 20 seconds left ***"
+	"1093605"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1093605"
+		"m_iname"		"ds_way_breakablegate_r"
 	}
-	"*** 10 seconds left ***"
+	"931257"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931257"
+		"m_iname"		"ds_way_break1"
 	}
-	"*** Hold 15 seconds ***"
+	"931329"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931329"
+		"m_iname"		"ds_way_break2"
 	}
-	"*** Hold 20 seconds ***"
+	"931411"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931411"
+		"m_iname"		"ds_way_break3"
 	}
-	"*** Stage Completed ***"
+	"931422"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931422"
+		"m_iname"		"ds_way_break4"
 	}
-	"*** Stage : Lordran ***"
+	"931467"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931467"
+		"m_iname"		"ds_way_break5"
 	}
-	"*** Difficulty: Normal ***"
+	"931509"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931509"
+		"m_iname"		"ds_way_break6"
 	}
-	"*** Hold 100 seconds ***"
+	"931525"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931525"
+		"m_iname"		"ds_way_break6"
 	}
-	"*** 50 seconds left ***"
+	"931553"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931553"
+		"m_iname"		"ds_way_break7"
 	}
-	"*** Hold 40 seconds ***"
+	"931570"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931570"
+		"m_iname"		"ds_way_break7"
 	}
-	"*** Hold 30 seconds ***"
+	"931662"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"931662"
+		"m_iname"		"ds_way_break9"
 	}
-	"sync_version"
+	"931721"
 	{
-		"syncvalue"		"28245"
+		"enable"		"0"
+		"hammerid"		"931721"
+		"m_iname"		"ds_way_break8"
 	}
-	"*** Survive 300 seconds ***"
+	"506283"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"506283"
+		"m_iname"		"ds_ornstein_hgtrigger"
 	}
-	"*** 200 seconds left ***"
+	"464425"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"464425"
+		"m_iname"		"ds_ornstein_phys"
 	}
-	"*** 100 seconds left ***"
+	"265947"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"265947"
+		"m_iname"		"ds_smough_hp"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"265953"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"265953"
+		"m_iname"		"ds_smough_hgtrigger"
 	}
-	"*** Upper door opens in 30 seconds ***"
+	"265956"
 	{
-		"chi"		"** **"
-	}
-	"*** Upper door opens in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Hold 35 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Difficulty: Extreme ***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"265956"
+		"m_iname"		"ds_smough_phys"
 	}
 }

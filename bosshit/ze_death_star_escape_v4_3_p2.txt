@@ -1,108 +1,211 @@
-"Console_T"
+"BOSSHP"
 {
-	"Testers: Fuu Belafarinrod Senne Teddy"
+	"trap_wallbreak"
 	{
-		"chi"		"**测试人员：Fuu Belafarinrod Senne Teddy**"
+		"enable"		"0"
 	}
-	">>>Zombies detected ! Try to escape from Death-Star<<<"
+	"left_pb"
 	{
-		"chi"		"**发现僵尸！我们要试图逃离死星！**记得对门按 E 开。**"
+		"enable"		"0"
 	}
-	">>>Map created by FreeZe<<<"
+	"left_pb_05"
 	{
-		"chi"		"**地图制作 by FreeZe 地图翻译 by 色狼领袖**"
+		"enable"		"0"
 	}
-	">>>Right-Elevator leaving in 10 seconds<<<"
+	"left_pb_02"
 	{
-		"chi"		"**右边的电梯 10 秒后离开。**"
+		"enable"		"0"
 	}
-	">>>Left-Elevator unlocked<<<"
+	"left_pb_04"
 	{
-		"chi"		"**左边的电梯解锁。**"
+		"enable"		"0"
 	}
-	">>>60 seconds until vacuum in Spawn Sections<<<"
+	"left_pb_03"
 	{
-		"chi"		"** 60 秒后将开启首个传送点并传送僵尸**"
+		"enable"		"0"
 	}
-	">>>Left-Elevator leaving in 10 seconds<<<"
+	"left_pb_01"
 	{
-		"chi"		"**左边的电梯 10 秒后离开。**"
+		"enable"		"0"
 	}
-	">>>Door opening in 10 seconds<<<"
+	"physbox_01"
 	{
-		"chi"		"**距离门开启还有 8 秒。**"
+		"enable"		"0"
 	}
-	">>>Lightbridge deactivating in 8 sec<<<"
+	"physbox_02"
 	{
-		"chi"		"**光桥 8 秒后消失。**"
+		"enable"		"0"
 	}
-	">>>DOOR OPENING IN 5 SECONDS<<<"
+	"physbox_03"
 	{
-		"chi"		"**距离大门开启还有 5 秒。**"
+		"enable"		"0"
 	}
-	">>>30 seconds until vacuum<<<"
+	"587756"
 	{
-		"chi"		"** 30 秒后将开启首个传送点并传送僵尸**"
+		"enable"		"0"
+		"hammerid"		"587756"
+		"m_iname"		"b_01"
 	}
-	">>>Hold the cantina 25 seconds<<<"
+	"619326"
 	{
-		"chi"		"**防守酒吧 25 秒直至关门。**"
+		"enable"		"0"
+		"hammerid"		"619326"
+		"m_iname"		"breakable_02"
 	}
-	">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
+	"773517"
 	{
-		"chi"		"** 10 秒后将开启首个传送点并传送僵尸**"
+		"enable"		"0"
+		"hammerid"		"773517"
+		"m_iname"		"b_04"
 	}
-	">>>Generator section losing air...vacuum in 10 seconds"
+	"773538"
 	{
-		"chi"		"** 10 秒后开启第二个传送点并传送僵尸**"
+		"enable"		"0"
+		"hammerid"		"773538"
+		"m_iname"		"breakable_06"
 	}
-	">>>10 seconds left<<<"
+	"773553"
 	{
-		"chi"		"** 10 秒**"
+		"enable"		"0"
+		"hammerid"		"773553"
+		"m_iname"		"breakable_04"
 	}
-	">>>Left-Lock closing in 5 seconds<<<"
+	"773559"
 	{
-		"chi"		"**左边的大门 5 秒后关闭**腿短的还不快切刀跑。**"
+		"enable"		"0"
+		"hammerid"		"773559"
+		"m_iname"		"breakable_05"
 	}
-	">>>Right-Lock closing in 5 seconds<<<"
+	"773565"
 	{
-		"chi"		"**右边的大门 5 秒后关闭**后面的玩家请迅速切刀跑。**"
+		"enable"		"0"
+		"hammerid"		"773565"
+		"m_iname"		"breakable_07"
 	}
-	">>>Inner areas being cleaned in 10 seconds<<<"
+	"773579"
 	{
-		"chi"		"** 10 秒后开启第三个传送点并传送僵尸 **"
+		"enable"		"0"
+		"hammerid"		"773579"
+		"m_iname"		"vent_01"
 	}
-	">>>HOLD THE LOCK 30 SECONDS<<<"
+	"975004"
 	{
-		"chi"		"**守住 30 秒！**"
+		"enable"		"0"
+		"hammerid"		"975004"
+		"m_iname"		"b_08"
 	}
-	">>>Lambda-shuttle departing in 15 seconds<<<"
+	"1499704"
 	{
-		"chi"		"**λ穿梭机将于 15 秒后起飞**"
-		"DoorCountdown"		"15"
+		"enable"		"0"
+		"hammerid"		"1499704"
+		"m_iname"		"b_02"
 	}
-	">>>!3!<<<"
+	"1499726"
 	{
-		"chi"		"**!3!**"
+		"enable"		"0"
+		"hammerid"		"1499726"
+		"m_iname"		"b_03"
 	}
-	">>>!2!<<<"
+	"1533234"
 	{
-		"chi"		"**!2!**"
+		"enable"		"0"
+		"hammerid"		"1533234"
+		"m_iname"		"b_06"
 	}
-	">>>!1!<<<"
+	"1551523"
 	{
-		"chi"		"**!1!**"
+		"enable"		"0"
+		"hammerid"		"1551523"
+		"m_iname"		"b_05"
 	}
-	">>>RAMP CLOSING<<<"
+	"635647"
 	{
-		"chi"		"**入口关闭**站地板上小心你的脚**"
+		"enable"		"0"
+		"hammerid"		"635647"
+		"m_iname"		"trap_wallbreak"
 	}
-	">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
+	"635652"
 	{
-		"chi"		"**死星将于 5 秒后爆炸！**"
+		"enable"		"0"
+		"hammerid"		"635652"
+		"m_iname"		"trap_wallbreak"
 	}
-	">>>May the force be with you!<<<"
+	"635657"
 	{
-		"chi"		"**愿上帝与你同在！**"
+		"enable"		"0"
+		"hammerid"		"635657"
+		"m_iname"		"trap_wallbreak"
+	}
+	"635662"
+	{
+		"enable"		"0"
+		"hammerid"		"635662"
+		"m_iname"		"trap_wallbreak"
+	}
+	"638932"
+	{
+		"enable"		"0"
+		"hammerid"		"638932"
+		"m_iname"		"left_pb"
+	}
+	"638937"
+	{
+		"enable"		"0"
+		"hammerid"		"638937"
+		"m_iname"		"left_pb"
+	}
+	"638942"
+	{
+		"enable"		"0"
+		"hammerid"		"638942"
+		"m_iname"		"left_pb"
+	}
+	"641962"
+	{
+		"enable"		"0"
+		"hammerid"		"641962"
+		"m_iname"		"left_pb_05"
+	}
+	"642047"
+	{
+		"enable"		"0"
+		"hammerid"		"642047"
+		"m_iname"		"left_pb_02"
+	}
+	"642074"
+	{
+		"enable"		"0"
+		"hammerid"		"642074"
+		"m_iname"		"left_pb_04"
+	}
+	"642101"
+	{
+		"enable"		"0"
+		"hammerid"		"642101"
+		"m_iname"		"left_pb_03"
+	}
+	"642112"
+	{
+		"enable"		"0"
+		"hammerid"		"642112"
+		"m_iname"		"left_pb_01"
+	}
+	"746513"
+	{
+		"enable"		"0"
+		"hammerid"		"746513"
+		"m_iname"		"physbox_01"
+	}
+	"746585"
+	{
+		"enable"		"0"
+		"hammerid"		"746585"
+		"m_iname"		"physbox_02"
+	}
+	"1240772"
+	{
+		"enable"		"0"
+		"hammerid"		"1240772"
+		"m_iname"		"physbox_03"
 	}
 }

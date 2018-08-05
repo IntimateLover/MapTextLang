@@ -1,272 +1,195 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Elevator doors closing in 5 seconds***"
+	"507920"
 	{
-		"chi"		"**电梯门5秒后关闭 **"
-		"DoorCountDown"		"5"
+		"enable"		"1"
+		"hammerid"		"507920"
+		"m_iname"		"Grid_Boss1"
 	}
-	"***Hold for 5 seconds***"
+	"87463"
 	{
-		"chi"		"**坚持5秒 **"
+		"enable"		"1"
+		"hammerid"		"87463"
+		"m_iname"		"Boss1_Door"
 	}
-	"***Hold for 10 seconds***"
+	"254629"
 	{
-		"chi"		"**坚持10秒 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"254629"
+		"m_iname"		"Santa_GiantPhys"
 	}
-	"***Doors closing in 30 seconds***"
+	"453619"
 	{
-		"chi"		"**门30秒后关闭 **"
-		"DoorCountDown"		"30"
+		"enable"		"1"
+		"hammerid"		"453619"
+		"m_iname"		"Boss2_Phys"
 	}
-	"***ZOMBIES IN SAFE ZONE!!!***"
+	"454439"
 	{
-		"chi"		"**僵尸在安全区！！！ **"
+		"enable"		"1"
+		"hammerid"		"454439"
+		"m_iname"		"Boss2_Grid"
 	}
-	"***KILL THEM TO COMPLETE LEVEL***"
+	"483712"
 	{
-		"chi"		"**杀死他们完成本关 **"
+		"enable"		"0"
+		"hammerid"		"483712"
+		"m_iname"		"Cat_Breakable"
 	}
-	">> LEVEL: 2 <<"
+	"1132192"
 	{
-		"chi"		"**>> 第二关 << **"
+		"enable"		"0"
+		"hammerid"		"1132192"
+		"m_iname"		"door_lvl1_2"
 	}
-	"**Sleigh leaving in 5 seconds**"
+	"173750"
 	{
-		"chi"		"**雪橇在5秒后离开 **"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"173750"
+		"m_iname"		"ElevatorVent"
 	}
-	"***Elevator leaving in 20 seconds***"
+	"189777"
 	{
-		"chi"		"**电梯20秒后离开 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"189777"
+		"m_iname"		"ElevatorMetal"
 	}
-	"***5 seconds left***"
+	"304187"
 	{
-		"chi"		"**还剩5秒 **"
+		"enable"		"0"
+		"hammerid"		"304187"
+		"m_iname"		"Door2_Lvl3"
 	}
-	"***Station Doors will open in 10 seconds***"
+	"832318"
 	{
-		"chi"		"**车站门会在10秒后打开 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"832318"
+		"m_iname"		"Glass_Lvl2"
 	}
-	"***Station Doors are open***"
+	"28555"
 	{
-		"chi"		"**车站门是开的 **"
+		"enable"		"0"
+		"hammerid"		"28555"
+		"m_iname"		"Lvl1_Wall1"
 	}
-	"***The train is blocking the path***"
+	"123910"
 	{
-		"chi"		"**火车挡住了去路 **"
+		"enable"		"0"
+		"hammerid"		"123910"
+		"m_iname"		"Lvl1_Vent"
 	}
-	"***We need to blow it up***"
+	"148244"
 	{
-		"chi"		"**我们需要将其炸毁 **"
+		"enable"		"0"
+		"hammerid"		"148244"
+		"m_iname"		"Lvl1_Fan_Glass"
 	}
-	"***Plant the c4 on each side of the train by pressing E ***"
+	"148252"
 	{
-		"chi"		"**在火车两边的按E放置C4 **"
+		"enable"		"0"
+		"hammerid"		"148252"
+		"m_iname"		"Lvl1_Fan_Glass"
 	}
-	"***C4 is planted***"
+	"190425"
 	{
-		"chi"		"**C4已安装 **"
+		"enable"		"0"
+		"hammerid"		"190425"
+		"m_iname"		"Lvl1_Door_2_3"
 	}
-	"***It should explode soon***"
+	"206214"
 	{
-		"chi"		"**它很快就要爆炸了 **"
+		"enable"		"0"
+		"hammerid"		"206214"
+		"m_iname"		"Lvl1_Gift"
 	}
-	"***Hold for 15 seconds***"
+	"634025"
 	{
-		"chi"		"**坚持15秒 **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"634025"
+		"m_iname"		"Lvl1_Fan_Grid"
 	}
-	"**Level completed**"
+	"805671"
 	{
-		"chi"		"**完成本关 **"
+		"enable"		"0"
+		"hammerid"		"805671"
+		"m_iname"		"Lvl1_Elevator_Cade"
 	}
-	">> LEVEL: 3 <<"
+	"806252"
 	{
-		"chi"		"**>> 第三关 << **"
+		"enable"		"0"
+		"hammerid"		"806252"
+		"m_iname"		"Lvl1_Plank"
 	}
-	"***Defend for 20 seconds***"
+	"838183"
 	{
-		"chi"		"**防守20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"838183"
+		"m_iname"		"Lvl1_Stuff_Ext"
 	}
-	">> PLAYER HAS PICKED UP HEAL <<"
+	"402404"
 	{
-		"chi"		"**>> 玩家已经拿起治疗 << **"
+		"enable"		"0"
+		"hammerid"		"402404"
+		"m_iname"		"Ladder_Lvl2-3"
 	}
-	"***DOOR IS OPEN! GET INSIDE!!***"
+	"244463"
 	{
-		"chi"		"**门是开的！进去！！ **"
+		"enable"		"0"
+		"hammerid"		"244463"
+		"m_iname"		"Lvl2_House_Door1"
 	}
-	">> CROSS THE ACID POOL <<"
+	"250787"
 	{
-		"chi"		"**>> 穿过酸池 << **"
+		"enable"		"0"
+		"hammerid"		"250787"
+		"m_iname"		"Lvl2_House_Roof"
 	}
-	"***Elevator leaving in 5 seconds***"
+	"343007"
 	{
-		"chi"		"**电梯5秒后离开 **"
-		"DoorCountDown"		"5"
+		"enable"		"0"
+		"hammerid"		"343007"
+		"m_iname"		"Lvl2_Stuff"
 	}
-	"***Hold for 20 seconds***"
+	"120388"
 	{
-		"chi"		"**坚持20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"120388"
+		"m_iname"		"Lvl2_House_Ground"
 	}
-	"***Hold for 5seconds***"
+	"483148"
 	{
-		"chi"		"**坚持5秒 **"
+		"enable"		"0"
+		"hammerid"		"483148"
+		"m_iname"		"Lvl2_House_Door2"
 	}
-	">>NYAN CAT ADDED<<"
+	"382550"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"382550"
+		"m_iname"		"Lvl3_Breakable1"
 	}
-	"***Elevator doors closing in 10 seconds***"
+	"956140"
 	{
-		"chi"		"**电梯门10秒后关闭 **"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"956140"
+		"m_iname"		"Lvl3_Train"
 	}
-	"**Sleigh leaving in 20 seconds**"
+	"1070621"
 	{
-		"chi"		"**雪橇在20秒后离开 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"1070621"
+		"m_iname"		"Lvl3_Clip"
 	}
-	"**Sleigh leaving in 10 seconds**"
+	"383176"
 	{
-		"chi"		"**雪橇在10秒后离开 **"
+		"enable"		"1"
+		"hammerid"		"383176"
+		"m_iname"		"Boss3_Vent"
 	}
-	"***Defend until we open the gate***"
+	"383838"
 	{
-		"chi"		"**守住！直到我们打开大门 **"
-	}
-	"***The door is open***"
-	{
-		"chi"		"**门开了 **"
-	}
-	"***THE GATES ARE CLOSED***"
-	{
-		"chi"		"**大门已经关上 **"
-	}
-	"***1 PLAYER HAS TO GO TO PRESS THE BUTTON***"
-	{
-		"chi"		"**1名玩家必须去按按钮 **"
-	}
-	"510 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"***Exit Door will open in 20 seconds***"
-	{
-		"chi"		"**出口门会在20秒后打开 **"
-		"DoorCountDown"		"20"
-	}
-	"***Exit Door will open in 10 seconds***"
-	{
-		"chi"		"**出口门会在10秒后打开 **"
-	}
-	"***Exit Door is open***"
-	{
-		"chi"		"**出口门开了 **"
-	}
-	"610 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"***Hold for 30 seconds***"
-	{
-		"chi"		"**坚持30秒 **"
-		"DoorCountDown"		"30"
-	}
-	"710 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"***Defend few seconds***"
-	{
-		"chi"		"**守住几秒钟 **"
-	}
-	">> Map by Taskuvaras  Fixed with Moltard <<"
-	{
-		"chi"		">>>地图制作：Taskuvaras 地图修复：Moltard  地图翻译：IntimateLover<<<"
-	}
-	">> LEVEL: 1 <<"
-	{
-		"chi"		"**>> 第一关 << **"
-	}
-	">> PLAYER HAS PICKED UP GRAVITY <<"
-	{
-		"chi"		"**>> 玩家已拿起重力 << **"
-	}
-	"***Door opening in 20 seconds***"
-	{
-		"chi"		"**门20秒后打开 **"
-		"DoorCountDown"		"20"
-	}
-	"***Hold here for 10 seconds***"
-	{
-		"chi"		"**在这里守住10秒 **"
-		"DoorCountDown"		"10"
-	}
-	"110 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"***The train is stuck and wont start***"
-	{
-		"chi"		"**火车被卡住了，无法启动 **"
-	}
-	"***Take the left path***"
-	{
-		"chi"		"**走左边的道路 **"
-	}
-	"210 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"310 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"410 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	"***Defend for 10 seconds***"
-	{
-		"chi"		"**防守10秒 **"
-		"DoorCountDown"		"10"
-	}
-	">> ZOMBIES INSIDE THE ELEVATOR <<"
-	{
-		"chi"		"**僵尸在电梯里面 **"
-	}
-	">> LEVEL FAILED <<"
-	{
-		"chi"		"**>> 本关失败 << **"
-	}
-	"810 Cat Found"
-	{
-		"chi"		"** **"
-	}
-	">> You beat the map <<"
-	{
-		"chi"		"**你已经打败了这个地图**"
-	}
-	">> Congratulation <<"
-	{
-		"chi"		"**恭喜你**"
-	}
-	">> Map will reset <<"
-	{
-		"chi"		"**地图将重置RTV吧**"
-	}
-	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
-	{
-		"chi"		"**僵尸上来了你失败了!**"
-	}
-	"*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"383838"
+		"m_iname"		"SubZero_Phys"
 	}
 }

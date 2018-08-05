@@ -1,112 +1,333 @@
-"Console_T"
+"BOSSHP"
 {
-	">>LEVEL 1<<"
+	"153783"
 	{
-		"chi"		"**第一关 **"
+		"enable"		"0"
+		"hammerid"		"153783"
+		"m_iname"		"lankku1"
 	}
-	"***HOLD FOR 20 seconds***"
+	"153952"
 	{
-		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"153952"
+		"m_iname"		"lankku2"
 	}
-	"***GO!GO!GO!***"
+	"186684"
 	{
-		"chi"		"**走！走！走！ **"
+		"enable"		"0"
+		"hammerid"		"186684"
+		"m_iname"		"tnt1&7782"
 	}
-	"*** SHOOT THE WALL ***"
+	"186669"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"186669"
+		"m_iname"		"nitro&7753"
 	}
-	"***HOLD FOR 30 seconds***"
+	"153996"
 	{
-		"chi"		"**守住30秒 **"
+		"enable"		"0"
+		"hammerid"		"153996"
+		"m_iname"		"lankku3"
 	}
-	"***HOLD FOR 10 seconds***"
+	"218045"
 	{
-		"chi"		"**守住10秒 **"
+		"enable"		"0"
+		"hammerid"		"218045"
+		"m_iname"		"phys"
 	}
-	"LEVEL COMPLETED!!"
+	"301517"
 	{
-		"chi"		"**恭喜完成第一关 **"
+		"enable"		"0"
+		"hammerid"		"301517"
+		"m_iname"		"phys"
 	}
-	"***ZOMBIES INSIDE!!!***"
+	"314961"
 	{
-		"chi"		"**僵尸在里面！！！ **"
+		"enable"		"1"
+		"hammerid"		"314961"
+		"m_iname"		"boss2_floor"
 	}
-	">>LEVEL 2<<"
+	"369416"
 	{
-		"chi"		"**第二关 **"
+		"enable"		"1"
+		"hammerid"		"369416"
+		"m_iname"		"boss2_end_wall"
 	}
-	"***GO!***"
+	"410844"
 	{
-		"chi"		"**走！ **"
+		"enable"		"1"
+		"hammerid"		"410844"
+		"m_iname"		"boss2_end_wall2"
 	}
-	"***STAY ON GLOWING AREA OR...***"
+	"217604"
 	{
-		"chi"		"**呆在发光的区域或… **"
+		"enable"		"0"
+		"hammerid"		"217604"
+		"m_iname"		"phys"
 	}
-	"***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***"
+	"217607"
 	{
-		"chi"		"**当气球开始移动时，你会死的 **"
+		"enable"		"0"
+		"hammerid"		"217607"
+		"m_iname"		"phys"
 	}
-	"***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***"
+	"217733"
 	{
-		"chi"		"**子弹不会对它造成伤害 **"
+		"enable"		"0"
+		"hammerid"		"217733"
+		"m_iname"		"phys"
 	}
-	"***TRY TO KILL IT WITH SOMETHING ELSE***"
+	"218042"
 	{
-		"chi"		"**试着用其他东西杀死它 **"
+		"enable"		"0"
+		"hammerid"		"218042"
+		"m_iname"		"phys"
 	}
-	">>LEVEL 3<<"
+	"267508"
 	{
-		"chi"		"**第三关 **"
+		"enable"		"0"
+		"hammerid"		"267508"
+		"m_iname"		"phys"
 	}
-	"***DEFEND FOR 10 SECONDS!!***"
+	"252447"
 	{
-		"chi"		"**守住10秒钟！！！ **"
+		"enable"		"0"
+		"hammerid"		"252447"
+		"m_iname"		"green_phys"
 	}
-	"*** GET OFF THE ELEVATOR!!!***"
+	"369981"
 	{
-		"chi"		"**离开电梯! ! ! **"
+		"enable"		"0"
+		"hammerid"		"369981"
+		"m_iname"		"ukauka_phys"
 	}
-	"*** OH NO! ITS UKA UKA!!!***"
+	"315251"
 	{
-		"chi"		"**哦，不！它的UKA UKA！！！ **"
+		"enable"		"0"
+		"hammerid"		"315251"
+		"m_iname"		"tnt2&6218"
 	}
-	"*** KILL IT BEFORE IT DOES SOMETHING***"
+	"162158"
 	{
-		"chi"		"**在做某事之前杀了它 **"
+		"enable"		"0"
+		"hammerid"		"162158"
+		"m_iname"		"tynnyri1&9812"
 	}
-	"*** UKA UKA IS DEFEATED! RUN TO SAFETY!***"
+	"186565"
 	{
-		"chi"		"**UKA UKA被击败!跑到安全的地方! **"
+		"enable"		"0"
+		"hammerid"		"186565"
+		"m_iname"		"normi_box"
 	}
-	">>LEVEL 1 Extreme<<"
+	"569892"
 	{
-		"chi"		"**EX1 **"
+		"enable"		"0"
+		"hammerid"		"569892"
+		"m_iname"		"ZombieSpawnBarricade"
 	}
-	"*** Defend both sides***"
+	"570621"
 	{
-		"chi"		"**保卫双方 **"
+		"enable"		"0"
+		"hammerid"		"570621"
+		"m_iname"		"HumanSpawnBarricade"
 	}
-	">>LEVEL 2 Extreme<<"
+	"574449"
 	{
-		"chi"		"**EX2 **"
+		"enable"		"0"
+		"hammerid"		"574449"
+		"m_iname"		"HumanSpawnBarricade"
 	}
-	">>LEVEL 3 Extreme<<"
+	"574457"
 	{
-		"chi"		"**EX3 **"
+		"enable"		"0"
+		"hammerid"		"574457"
+		"m_iname"		"ZombieSpawnBarricade"
 	}
-	"***BOAT ROUTE***"
+	"65470"
 	{
-		"chi"		"**船的航线 **"
+		"enable"		"0"
+		"hammerid"		"65470"
+		"m_iname"		"extreme2_break"
 	}
-	">> PLAYER HAS CHOSEN LEVEL EXTREME 3<<"
+	"186652"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"186652"
+		"m_iname"		"pomppu_box1&7756"
 	}
-	">> NUKE LAUNCHED<<"
+	"121802"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"121802"
+		"m_iname"		"extreme2_break2"
+	}
+	"158167"
+	{
+		"enable"		"0"
+		"hammerid"		"158167"
+		"m_iname"		"silta_puolustus"
+	}
+	"160689"
+	{
+		"enable"		"0"
+		"hammerid"		"160689"
+		"m_iname"		"ovi_silta"
+	}
+	"218260"
+	{
+		"enable"		"0"
+		"hammerid"		"218260"
+		"m_iname"		"taulu1"
+	}
+	"241279"
+	{
+		"enable"		"0"
+		"hammerid"		"241279"
+		"m_iname"		"extreme2_break2"
+	}
+	"241387"
+	{
+		"enable"		"0"
+		"hammerid"		"241387"
+		"m_iname"		"extreme2_break2"
+	}
+	"248599"
+	{
+		"enable"		"0"
+		"hammerid"		"248599"
+		"m_iname"		"normi_puolustus"
+	}
+	"302222"
+	{
+		"enable"		"0"
+		"hammerid"		"302222"
+		"m_iname"		"medieval_puolustus"
+	}
+	"307329"
+	{
+		"enable"		"0"
+		"hammerid"		"307329"
+		"m_iname"		"door_egypt"
+	}
+	"314380"
+	{
+		"enable"		"0"
+		"hammerid"		"314380"
+		"m_iname"		"india_puolustus"
+	}
+	"347070"
+	{
+		"enable"		"0"
+		"hammerid"		"347070"
+		"m_iname"		"lvl3_seina"
+	}
+	"425351"
+	{
+		"enable"		"0"
+		"hammerid"		"425351"
+		"m_iname"		"lvl3_extreme_break2"
+	}
+	"425389"
+	{
+		"enable"		"0"
+		"hammerid"		"425389"
+		"m_iname"		"lvl3_extreme_break"
+	}
+	"425401"
+	{
+		"enable"		"0"
+		"hammerid"		"425401"
+		"m_iname"		"lvl3_extreme_break2"
+	}
+	"186753"
+	{
+		"enable"		"0"
+		"hammerid"		"186753"
+		"m_iname"		"kysymys_box"
+	}
+	"218386"
+	{
+		"enable"		"0"
+		"hammerid"		"218386"
+		"m_iname"		"toxic_breakable1"
+	}
+	"218469"
+	{
+		"enable"		"0"
+		"hammerid"		"218469"
+		"m_iname"		"toxic_breakable1"
+	}
+	"201052"
+	{
+		"enable"		"0"
+		"hammerid"		"201052"
+		"m_iname"		"puoulustusbox1"
+	}
+	"211456"
+	{
+		"enable"		"0"
+		"hammerid"		"211456"
+		"m_iname"		"puoulustusbox1"
+	}
+	"211459"
+	{
+		"enable"		"0"
+		"hammerid"		"211459"
+		"m_iname"		"puoulustusbox1"
+	}
+	"186746"
+	{
+		"enable"		"0"
+		"hammerid"		"186746"
+		"m_iname"		"kysymys_box2"
+	}
+	"218439"
+	{
+		"enable"		"0"
+		"hammerid"		"218439"
+		"m_iname"		"toxic_breakable2"
+	}
+	"218463"
+	{
+		"enable"		"0"
+		"hammerid"		"218463"
+		"m_iname"		"toxic_breakable2"
+	}
+	"16479"
+	{
+		"enable"		"0"
+		"hammerid"		"16479"
+		"m_iname"		"extreme_puolustus1"
+	}
+	"218282"
+	{
+		"enable"		"0"
+		"hammerid"		"218282"
+		"m_iname"		"taulu2"
+	}
+	"186965"
+	{
+		"enable"		"0"
+		"hammerid"		"186965"
+		"m_iname"		"metalli_box"
+	}
+	"226570"
+	{
+		"enable"		"0"
+		"hammerid"		"226570"
+		"m_iname"		"ilmalaiva_laidat"
+	}
+	"346886"
+	{
+		"enable"		"0"
+		"hammerid"		"346886"
+		"m_iname"		"lvl3_seina1"
+	}
+	"453490"
+	{
+		"enable"		"0"
+		"hammerid"		"453490"
+		"m_iname"		"lvl3_seina2"
 	}
 }

@@ -1,59 +1,47 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Cargo Door Opens in 10 Seconds***"
+	"hallway1_power"
 	{
-		"chi"		"**货舱门在十秒后打开**"
+		"enable"		"0"
 	}
-	"***Testlab Door3 Opens in 5 Seconds***"
+	"boxer"
 	{
-		"chi"		"**实验室3号门在5秒后打开**"
+		"enable"		"0"
 	}
-	"***Bridge Activated***"
+	"41083"
 	{
-		"chi"		"**桥激活了**"
+		"enable"		"0"
+		"hammerid"		"41083"
+		"m_iname"		"ZombieHand"
 	}
-	"***Main Testlab Door Opens in 10 Seconds***"
+	"9607"
 	{
-		"chi"		"**10秒后打开实验室主门**"
+		"enable"		"0"
+		"hammerid"		"9607"
+		"m_iname"		"hallway2_wall"
 	}
-	"***Bridge Deactivated***"
+	"9920"
 	{
-		"chi"		"**桥失效了**"
+		"enable"		"0"
+		"hammerid"		"9920"
+		"m_iname"		"cargo_brokenwall"
 	}
-	"***CartControl Door Opens in 5 Seconds***"
+	"10172"
 	{
-		"chi"		"**车的控制门在5秒后打开（WTF）**"
+		"enable"		"0"
+		"hammerid"		"10172"
+		"m_iname"		"cartcontrol_brokenwall"
 	}
-	"***Cart Control Door closes in 5 Seconds***"
+	"12067"
 	{
-		"chi"		"**车的控制门在5秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"12067"
+		"m_iname"		"tunnel_box_break1"
 	}
-	"***Rail Cart leaves in 5 seconds***"
+	"12075"
 	{
-		"chi"		"**轨道车在5秒后离开**"
-	}
-	"***Water Flow 5 Seconds***"
-	{
-		"chi"		"**水流动5秒**"
-	}
-	"***Refinery hatches opening***"
-	{
-		"chi"		"**炼油厂的舱口打开了**"
-	}
-	"***Error Overflow dangerous chemicals detected***"
-	{
-		"chi"		"**检测到错误 危险化学品溢出**"
-	}
-	"***Tram Tunnel Door opens in 1 Minute***"
-	{
-		"chi"		"**电车隧道门在60秒后开启**"
-	}
-	"***Tram Starts in 5 Seconds***"
-	{
-		"chi"		"**电车在5秒后开动！**"
-	}
-	"***Testlab Door2 Opens in 5 Seconds***"
-	{
-		"chi"		"**实验室2号门在5秒后开启**"
+		"enable"		"0"
+		"hammerid"		"12075"
+		"m_iname"		"tunnel_ladder_break1"
 	}
 }

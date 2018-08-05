@@ -1,116 +1,219 @@
-"Console_T"
+"BOSSHP"
 {
-	">>>Map created by FreeZe<<<"
+	"1852"
 	{
-		"chi"		"**本地图由FreeZe制作，翻译:此用户已删除**"
+		"enable"		"0"
+		"hammerid"		"1852"
+		"m_iname"		"breakable_20"
 	}
-	">>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
+	"1898"
 	{
-		"chi"		"**向黑珍珠号迈去吧**"
+		"enable"		"0"
+		"hammerid"		"1898"
+		"m_iname"		"breakable_18"
 	}
-	"Thanks to Belafarinrod Fuu and Kaemon!"
+	"1909"
 	{
-		"chi"		"感谢Belafarinrod Fuu和Kaemon"
+		"enable"		"0"
+		"hammerid"		"1909"
+		"m_iname"		"breakable_10"
 	}
-	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
+	"1926"
 	{
-		"chi"		"**神器：杰克的手枪，已被玩家获取**"
+		"enable"		"0"
+		"hammerid"		"1926"
+		"m_iname"		"breakable_11"
 	}
-	">>>Cool Down 60 secs<<<"
+	"1938"
 	{
-		"chi"		"**手枪有六十秒的冷却时间**"
+		"enable"		"0"
+		"hammerid"		"1938"
+		"m_iname"		"breakable_13"
 	}
-	">>>Press USE to shoot<<<"
+	"1944"
 	{
-		"chi"		"**按下E使用，作用:大范围击退僵尸**"
+		"enable"		"0"
+		"hammerid"		"1944"
+		"m_iname"		"breakable_15"
 	}
-	">>> HOLD 30 SECONDS <<<"
+	"1949"
 	{
-		"chi"		"**防守这个地方30秒**"
+		"enable"		"0"
+		"hammerid"		"1949"
+		"m_iname"		"breakable_16"
 	}
-	">>> 5 SECONDS LEFT <<<"
+	"2121"
 	{
-		"chi"		"**还剩下五秒！准备撤**"
+		"enable"		"0"
+		"hammerid"		"2121"
+		"m_iname"		"breakable_21"
 	}
-	">>> RUUUN <<<"
+	"2165"
 	{
-		"chi"		"快！快跑！"
+		"enable"		"0"
+		"hammerid"		"2165"
+		"m_iname"		"breakable_09"
 	}
-	">>>10 seconds until 1st hold zone gets teleported<<<"
+	"2197"
 	{
-		"chi"		"**还有10s传送挂机玩家**"
+		"enable"		"0"
+		"hammerid"		"2197"
+		"m_iname"		"randomtree_02"
 	}
-	">>>PISTOL-SHOT CHARGING<<<"
+	"2215"
 	{
-		"chi"		"**手枪正在发射中**"
+		"enable"		"0"
+		"hammerid"		"2215"
+		"m_iname"		"cave_r1"
 	}
-	">>>>Pistol ready in 60 s<<<<"
+	"2219"
 	{
-		"chi"		"**手枪将于60秒后可再次使用**"
+		"enable"		"0"
+		"hammerid"		"2219"
+		"m_iname"		"cave_r2"
 	}
-	">>> HOLD THE MILL 30 SECONDS <<<"
+	"2229"
 	{
-		"chi"		"**守住这个磨坊30秒**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"2229"
+		"m_iname"		"cave_r1"
 	}
-	">>>>Pistol ready in 30 s<<<<"
+	"2471"
 	{
-		"chi"		"**手枪将于30秒后可再次使用**"
+		"enable"		"0"
+		"hammerid"		"2471"
+		"m_iname"		"Break"
 	}
-	">>> JUMP ONTO THE WHEEL <<<"
+	"2515"
 	{
-		"chi"		"跳到转轮上去"
+		"enable"		"0"
+		"hammerid"		"2515"
+		"m_iname"		"breakable_19"
 	}
-	">>>>Pistol ready in 5 s<<<<"
+	"2521"
 	{
-		"chi"		"**手枪将于五秒后可再次使用**"
+		"enable"		"0"
+		"hammerid"		"2521"
+		"m_iname"		"breakable_17"
 	}
-	">>>>PISTOL READY<<<<"
+	"2577"
 	{
-		"chi"		"**手枪可以再次使用**"
+		"enable"		"0"
+		"hammerid"		"2577"
+		"m_iname"		"b_01"
 	}
-	">>>GET ONTO THE BLACK PEARL<<<"
+	"2150"
 	{
-		"chi"		"**登上黑珍珠号，准备抛锚远航吧**"
+		"enable"		"0"
+		"hammerid"		"2150"
+		"m_iname"		"randomtree_02"
 	}
-	">>>Jungle gettting teleported in 10 seconds<<<"
+	"2225"
 	{
-		"chi"		"**还有10s传送挂机玩家**"
+		"enable"		"0"
+		"hammerid"		"2225"
+		"m_iname"		"cave_l3"
 	}
-	">>>Pearl has been reached<<<"
+	"2231"
 	{
-		"chi"		"**黑珍珠号已经到达**"
+		"enable"		"0"
+		"hammerid"		"2231"
+		"m_iname"		"cave_r2"
 	}
-	">>>Cannons charging. 60 seconds left<<<"
+	"2237"
 	{
-		"chi"		"**坚持60s就会胜利**"
+		"enable"		"0"
+		"hammerid"		"2237"
+		"m_iname"		"cave_l3"
 	}
-	">>>15 seconds left<<<"
+	"2693"
 	{
-		"chi"		"**还剩下15秒**"
+		"enable"		"0"
+		"hammerid"		"2693"
+		"m_iname"		"barrel"
 	}
-	">>>Defend 30 seconds<<<"
+	"2695"
 	{
-		"chi"		"坚守30秒"
+		"enable"		"0"
+		"hammerid"		"2695"
+		"m_iname"		"234"
 	}
-	">>>5 seconds left<<<"
+	"33287"
 	{
-		"chi"		"还剩下五秒"
+		"enable"		"0"
+		"hammerid"		"33287"
+		"m_iname"		"breakable12"
 	}
-	">>>RUUUUUN<<<"
+	"33485"
 	{
-		"chi"		"快！快跑！"
+		"enable"		"0"
+		"hammerid"		"33485"
+		"m_iname"		"shipentranceone"
 	}
-	">>>CANNONS SHOOTING<<<"
+	"33506"
 	{
-		"chi"		"**火炮开火，胜利！随着杰克船长远航吧！**"
+		"enable"		"0"
+		"hammerid"		"33506"
+		"m_iname"		"shipentranceonetwo"
 	}
-	">>>NUB<<<"
+	"33530"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"33530"
+		"m_iname"		"shipentranceonethree"
 	}
-	"The server is about to close the update ,Please update your game"
+	"33950"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"33950"
+		"m_iname"		"newbhepler"
+	}
+	"2152"
+	{
+		"enable"		"0"
+		"hammerid"		"2152"
+		"m_iname"		"randomtree_01"
+	}
+	"2194"
+	{
+		"enable"		"0"
+		"hammerid"		"2194"
+		"m_iname"		"randomtree_01"
+	}
+	"2233"
+	{
+		"enable"		"0"
+		"hammerid"		"2233"
+		"m_iname"		"cave_l2"
+	}
+	"2221"
+	{
+		"enable"		"0"
+		"hammerid"		"2221"
+		"m_iname"		"cave_l2"
+	}
+	"2217"
+	{
+		"enable"		"0"
+		"hammerid"		"2217"
+		"m_iname"		"cave_l1"
+	}
+	"2223"
+	{
+		"enable"		"0"
+		"hammerid"		"2223"
+		"m_iname"		"cave_r3"
+	}
+	"2227"
+	{
+		"enable"		"0"
+		"hammerid"		"2227"
+		"m_iname"		"cave_l1"
+	}
+	"2235"
+	{
+		"enable"		"0"
+		"hammerid"		"2235"
+		"m_iname"		"cave_r3"
 	}
 }

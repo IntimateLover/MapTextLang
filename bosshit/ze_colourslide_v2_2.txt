@@ -1,151 +1,237 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** MODE: NORMAL ***"
+	"213349"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"213349"
+		"m_iname"		"wallwall_break"
 	}
-	"*** MODE: FOG ***"
+	"204268"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"204268"
+		"m_iname"		"obstacle4_0"
 	}
-	"*** FOG IS THICK ***"
+	"204271"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"204271"
+		"m_iname"		"obstacle4_1"
 	}
-	"*** MODE: DRUGS ***"
+	"204274"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"204274"
+		"m_iname"		"obstacle4_2"
 	}
-	"*** PLAYERS ARE HIGH ***"
+	"204277"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"204277"
+		"m_iname"		"obstacle4_3"
 	}
-	"**ZOMBIES ARE HELD BACK FOR 5 SECONDS.**"
+	"204280"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"204280"
+		"m_iname"		"obstacle4_4"
 	}
-	"*** MODE: LOW GRAVITY ***"
+	"147944"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"147944"
+		"m_iname"		"func_breakable29"
 	}
-	"*** MODE: TRIPLE CRIPPLE ***"
+	"1282"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1282"
+		"m_iname"		"func_breakable1"
 	}
-	"*** ... AND ... ***"
+	"1288"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1288"
+		"m_iname"		"func_breakable3"
 	}
-	"*** PLAYERS ARE NORMAL ***"
+	"1294"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1294"
+		"m_iname"		"func_breakable5"
 	}
-	"*** ... AAAAAND ... ***"
+	"1300"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1300"
+		"m_iname"		"func_breakable8"
 	}
-	"*** FRICTION IS OFF ***"
+	"1306"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1306"
+		"m_iname"		"func_breakable9"
 	}
-	"*** PLAYERS ARE RABIDS ***"
+	"1312"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1312"
+		"m_iname"		"func_breakable12"
 	}
-	"**A PLAYER HAS REACHED THE FIRST HOLD**"
+	"1318"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1318"
+		"m_iname"		"func_breakable13"
 	}
-	"**HOLD FOR 30 SECONDS**"
+	"1324"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1324"
+		"m_iname"		"func_breakable16"
 	}
-	"**DOORS OPEN FALL BACK**"
+	"1330"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1330"
+		"m_iname"		"func_breakable17"
 	}
-	"**AFKS TELEPORTED**"
+	"1336"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1336"
+		"m_iname"		"func_breakable20"
 	}
-	"*** MODE: DISTRACTION ***"
+	"1342"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1342"
+		"m_iname"		"func_breakable21"
 	}
-	"**A PLAYER HAS REACHED THE SECOND HOLD**"
+	"1348"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1348"
+		"m_iname"		"func_breakable24"
 	}
-	"*** MODE: GOTTA GO FAST ***"
+	"1354"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1354"
+		"m_iname"		"func_breakable25"
 	}
-	"*** PLAYERS ARE CHUBBY ***"
+	"1360"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1360"
+		"m_iname"		"func_breakable28"
 	}
-	"*** MODE: REVERSE CONTROLS ***"
+	"19473"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19473"
+		"m_iname"		"obstacle0_1"
 	}
-	"*** MODE: DOUBLE TROUBLE ***"
+	"19560"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19560"
+		"m_iname"		"obstacle0_0"
 	}
-	"*** PLAYERS ARE FAST ***"
+	"19611"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19611"
+		"m_iname"		"obstacle0_2"
 	}
-	"*** FRICTION IS SET LOW ***"
+	"20442"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20442"
+		"m_iname"		"obstacle3_0"
 	}
-	"*** PLAYERS ARE SLOW ***"
+	"20451"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20451"
+		"m_iname"		"obstacle3_3"
 	}
-	"**A PLAYER HAS REACHED THE END**"
+	"20464"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20464"
+		"m_iname"		"obstacle3_1"
 	}
-	"**DEFEND FOR 30 SECONDS TILL GOD HAS SPOKEN **"
+	"20476"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20476"
+		"m_iname"		"obstacle3_2"
 	}
-	"**ZOMBIES GOT IN, YOU LOSE**"
+	"22112"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"22112"
+		"m_iname"		"obstacle5_5"
 	}
-	"**CONGRATULATIONS YOU BEAT THE MAP **"
+	"23631"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"23631"
+		"m_iname"		"obstacle4_0"
 	}
-	"*** PLAYERS ARE SPEEDY ***"
+	"23731"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"23731"
+		"m_iname"		"obstacle4_1"
 	}
-	"*** FRICTION IS NEGATIVE ***"
+	"23755"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"23755"
+		"m_iname"		"obstacle4_2"
 	}
-	"*** MODE: FRICTION ***"
+	"23773"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"23773"
+		"m_iname"		"obstacle4_3"
 	}
-	"*** FRICTION IS SET VERY LOW ***"
+	"23785"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"23785"
+		"m_iname"		"obstacle4_4"
 	}
-	"*** NO CHANGES TO FRICTION ***"
+	"22046"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"22046"
+		"m_iname"		"obstacle5_2"
 	}
-	"*** FRICTION IS SET SLIGHTLY LOW ***"
+	"22094"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"22094"
+		"m_iname"		"obstacle5_4"
 	}
-	"*** PLAYERS ARE QUICK ***"
+	"22076"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"22076"
+		"m_iname"		"obstacle5_3"
+	}
+	"21964"
+	{
+		"enable"		"0"
+		"hammerid"		"21964"
+		"m_iname"		"obstacle5_0"
+	}
+	"22016"
+	{
+		"enable"		"0"
+		"hammerid"		"22016"
+		"m_iname"		"obstacle5_1"
 	}
 }

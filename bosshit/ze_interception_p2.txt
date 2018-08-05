@@ -1,123 +1,45 @@
-"Console_T"
+"BOSSHP"
 {
-	"***SEWER OPENING IN 20 SECONDS***"
+	"59636"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"59636"
+		"m_iname"		"1_c_break"
 	}
-	"***SEWER OPENING IN 5 SECONDS***"
+	"59640"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"59640"
+		"m_iname"		"1_c_break"
 	}
-	"***COMPLEX GATE OPENING IN 20 SECONDS***"
+	"59644"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"59644"
+		"m_iname"		"1_c_break"
 	}
-	"***COMPLEX GATE OPENING IN 5 SECONDS***"
+	"106494"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"106494"
+		"m_iname"		"sewer_break"
 	}
-	"***OPENING BLASTDOOR TO INNER COMPLEX***"
+	"170465"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"170465"
+		"m_iname"		"door_11_vent"
 	}
-	"***DOOR IS OPENING IN 15 SECONDS***"
+	"170781"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"170781"
+		"m_iname"		"fence_1_vent"
 	}
-	"***DOOR IS OPENING IN 5 SECONDS***"
+	"196386"
 	{
-		"chi"		"** **"
-	}
-	"***HACKING SECURITY BLASTDOOR...***"
-	{
-		"chi"		"** **"
-	}
-	"***ESTIMATED TIME IS 20 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***HACKING 100% COMPLETE***"
-	{
-		"chi"		"** **"
-	}
-	"***SECURITY BLASTDOOR IS OPEN***"
-	{
-		"chi"		"** **"
-	}
-	"***Fall Back***"
-	{
-		"chi"		"** **"
-	}
-	"***FENCE OPENING IN 15 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***FENCE OPENING IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DOOR IS OPENING IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DUAL DOORS ARE OPENING IN 30 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DUAL DOORS ARE OPENING IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DUAL DOORS ARE OPENING IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***DUAL DOORS ARE OPENING***"
-	{
-		"chi"		"** **"
-	}
-	"***ELEVATOR LEAVING IN 20 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ELEVATOR LEAVING IN 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Elevator leaving in 5 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***OPENING FINAL DOOR***"
-	{
-		"chi"		"** **"
-	}
-	"***FINAL DOOR IS CLOSING***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"196386"
+		"m_iname"		"fence_1"
 	}
 }

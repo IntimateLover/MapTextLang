@@ -1,210 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
+	"45585"
 	{
-		"chi"		"**我是你们的指挥官，也许有时候你们觉得我很怪，想不被僵尸挊死就动起来，小伙子/姑娘们！地图翻译：觉醒之刃**"
+		"enable"		"0"
+		"hammerid"		"45585"
+		"m_iname"		"missile12"
 	}
-	"*-'Maybe there's something here we can use'-*"
+	"45610"
 	{
-		"chi"		"**也许这里有点有用的东西（部分人下楼梯开门，其余人继续守门）**"
+		"enable"		"0"
+		"hammerid"		"45610"
+		"m_iname"		"missile13"
 	}
-	"*-'An airlock? That's strange. I don't remember them having these.'-*"
+	"45635"
 	{
-		"chi"		"**一个气闸门？这太奇怪了，我不记得他们有这些玩意儿，你们城里人真会玩**"
+		"enable"		"0"
+		"hammerid"		"45635"
+		"m_iname"		"missile14"
 	}
-	"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
+	"45660"
 	{
-		"chi"		"**气闸门出现故障！正在尝试修理，大约需要30秒！**"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"45660"
+		"m_iname"		"missile15"
 	}
-	"--Photonic Blade Obtained: 30 seconds cooldown--"
+	"42596"
 	{
-		"chi"		"**光刃已获得，它有30秒的冷却时间！**"
+		"enable"		"0"
+		"hammerid"		"42596"
+		"m_iname"		"missile1"
 	}
-	"--5 seconds--"
+	"43873"
 	{
-		"chi"		"**5秒！（门开以后，请先下来的人帮忙卡门，让断后的人通过。断后的人类下楼梯请小心，自动加速会杀死你们）**"
+		"enable"		"0"
+		"hammerid"		"43873"
+		"m_iname"		"missile2"
 	}
-	"*-'What was that!?'-*"
+	"43898"
 	{
-		"chi"		"**那特么是什么鬼？**"
+		"enable"		"0"
+		"hammerid"		"43898"
+		"m_iname"		"missile3"
 	}
-	"--Door opens in 40 seconds--"
+	"43923"
 	{
-		"chi"		"**门将在40秒后开启**"
+		"enable"		"0"
+		"hammerid"		"43923"
+		"m_iname"		"missile4"
 	}
-	"--Door opens in 5 seconds--"
+	"43948"
 	{
-		"chi"		"**门将在5秒后开启（不要吝惜你的手雷）**"
+		"enable"		"0"
+		"hammerid"		"43948"
+		"m_iname"		"missile5"
 	}
-	"--Zombies held for 10 seconds--"
+	"44651"
 	{
-		"chi"		"**僵尸已被静滞！持续10秒**"
+		"enable"		"0"
+		"hammerid"		"44651"
+		"m_iname"		"missile6"
 	}
-	"*-'A low gravity room.Kinda expected that'-*"
+	"44676"
 	{
-		"chi"		"**一个低重力房间，想想还有点小激动呢(注意不要跳过头)**"
+		"enable"		"0"
+		"hammerid"		"44676"
+		"m_iname"		"missile7"
 	}
-	"*-'Oh look,chemical weapons.More specificly VX '-*"
+	"44773"
 	{
-		"chi"		"**看！一屋子的化学武器！更详细点说，这是VX（神经性毒剂）**"
+		"enable"		"0"
+		"hammerid"		"44773"
+		"m_iname"		"missile8"
 	}
-	"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
+	"44798"
 	{
-		"chi"		"**通风系统已被重新设置至装填设备，大约需要25秒！**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"44798"
+		"m_iname"		"missile9"
 	}
-	"*-'Great.Now plant C4 here and run!'-*"
+	"44823"
 	{
-		"chi"		"**很好！现在，安放C4然后跑路吧！(地上的红色按钮)**"
+		"enable"		"0"
+		"hammerid"		"44823"
+		"m_iname"		"missile10"
 	}
-	"*-'Mmmkay the Excalibre is a key to...'-*"
+	"44848"
 	{
-		"chi"		"**（翻译不能，没关系，不是重要的提示:P）**"
+		"enable"		"0"
+		"hammerid"		"44848"
+		"m_iname"		"missile11"
 	}
-	"*-'Damn.That gateway leads to a pocket dimension with tons of antimatter.'-*"
+	"68748"
 	{
-		"chi"		"**妈蛋，这些指路的玩意儿通往一个充满了大量反物质的超次元口袋**"
+		"enable"		"0"
+		"hammerid"		"68748"
+		"m_iname"		"zombhold"
 	}
-	"*-'Upload the data.'-*"
+	"57365"
 	{
-		"chi"		"**上传数据！**"
-	}
-	"*Uploading.Estimated time of completion: 30 seconds*"
-	{
-		"chi"		"**正在上传中，预计30秒完成**"
-		"DoorCountdown"		"30"
-	}
-	"*Upload 50% complete*"
-	{
-		"chi"		"**完成一半了，坚持住！**"
-	}
-	"*Upload 75% complete*"
-	{
-		"chi"		"**完成四分之三了！**"
-	}
-	"*Upload complete!*"
-	{
-		"chi"		"**上传完成！**"
-	}
-	"*-'It's activating its weapon systems!'-*"
-	{
-		"chi"		"**它的武器系统被激活了！**"
-	}
-	"*-'Shoot the computer!The blue part!'-*"
-	{
-		"chi"		"**朝计算机射击！在它蓝色的部分！(建议站在左右悬崖边)**"
-	}
-	"*Self-destruct sequence activated: 1 minute to detonation.*"
-	{
-		"chi"		"**警告：自毁程序已启动！[1]分钟后自爆！**"
-	}
-	"*-'Halfway there!Keep firing!'-*"
-	{
-		"chi"		"**它撑不了多久了！继续开火！**"
-	}
-	"*Nuclear detonation imminent! 30 seconds remaining.*"
-	{
-		"chi"		"**核弹洗地即将抵达！还剩30秒！**"
-	}
-	"*-'Hurry!To the left'-*"
-	{
-		"chi"		"**快点，去左边！（BOSS打爆后赶紧向左边走，僵尸很快就会被释放，向身后扔雷拖时间）**"
-	}
-	"*Emergency bunker closing in 35 seconds*"
-	{
-		"chi"		"**应急核掩体将在15秒后关闭！(火力压制很重要)**"
-	}
-	"*-'Well,that's convenient.'-*"
-	{
-		"chi"		"**干的漂亮！僵尸不过咸鱼**"
-	}
-	"*5*"
-	{
-		"chi"		"** **"
-	}
-	"*4*"
-	{
-		"chi"		"** **"
-	}
-	"*3*"
-	{
-		"chi"		"** **"
-	}
-	"*2*"
-	{
-		"chi"		"** **"
-	}
-	"*1*"
-	{
-		"chi"		"** **"
-	}
-	"*-This is your slightly eccentric commander speaking, get a move on!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Maybe theres something here we can use-*"
-	{
-		"chi"		"** **"
-	}
-	"*-An airlock? Thats strange. I dont remember them having these.-*"
-	{
-		"chi"		"** **"
-	}
-	"*-What was that!?-*"
-	{
-		"chi"		"** **"
-	}
-	"*-A low gravity room.Kinda expected that-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Oh look,chemical weapons.More specificly VX -*"
-	{
-		"chi"		"** **"
-	}
-	"*-Great.Now plant C4 here and run!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Mmmkay the Excalibre is a key to...-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Damn.That gateway leads to a pocket dimension with tons of antimatter.-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Upload the data.-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Its activating its weapon systems!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Shoot the computer!The blue part!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Halfway there!Keep firing!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Hurry!To the left-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Well,thats convenient.-*"
-	{
-		"chi"		"** **"
-	}
-	"--Map made by:Tgting--"
-	{
-		"chi"		"** **"
-	}
-	"--Music by RageVI and CT--"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"57365"
+		"m_iname"		"glassback"
 	}
 }

@@ -1,48 +1,111 @@
-"Console_T"
+"BOSSHP"
 {
-	"***** Escape Boat 1 Is Leaving In 10 Seconds *****"
+	"744"
 	{
-		"chi"		"** 一号船剩余 10秒 开船 **"
+		"enable"		"0"
+		"hammerid"		"744"
+		"m_iname"		"SpawnRock2"
 	}
-	"***** Escape Boat 2 Is Leaving In 10 Seconds *****"
+	"807"
 	{
-		"chi"		"** 二号船剩余 10秒 开船 **"
+		"enable"		"0"
+		"hammerid"		"807"
+		"m_iname"		"SpawnRock3"
 	}
-	"***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
+	"810"
 	{
-		"chi"		"** 一号缆车剩余 10秒 启动 **"
+		"enable"		"0"
+		"hammerid"		"810"
+		"m_iname"		"SpawnRock4"
 	}
-	"***** Escape Ski Lift 2 Is Leaving In 10 Seconds *****"
+	"939"
 	{
-		"chi"		"** 二号缆车剩余 10秒 启动 **"
+		"enable"		"0"
+		"hammerid"		"939"
+		"m_iname"		"SpawnRock7"
 	}
-	"***** Escape Boat 4 Is Leaving in 10 Seconds *****"
+	"942"
 	{
-		"chi"		"** 四号船剩余 10秒 开船**"
+		"enable"		"0"
+		"hammerid"		"942"
+		"m_iname"		"SpawnRock8"
 	}
-	"***** Escape Boat 3 Is Leaving in 10 Seconds *****"
+	"1367"
 	{
-		"chi"		"** 三号船剩余 10秒 开船 **"
+		"enable"		"0"
+		"hammerid"		"1367"
+		"m_iname"		"func_physbox_snowball_1"
 	}
-	"***** The Oil Rig Has Been Reached *****"
+	"1379"
 	{
-		"chi"		"** 已到达海上石油钻机 **"
+		"enable"		"0"
+		"hammerid"		"1379"
+		"m_iname"		"func_physbox_snowball_2"
 	}
-	"***** Nuke Squad Will Arrive in 90 Seconds *****"
+	"5367"
 	{
-		"chi"		"** 我大天朝核弹剩余 90秒 引爆 请抵御僵尸攻击 **"
-		"DoorCountdown"		"90"
+		"enable"		"0"
+		"hammerid"		"5367"
+		"m_iname"		"func_physbox_snowball_4"
 	}
-	"***** Nuke Squad Is Here *****"
+	"6145"
 	{
-		"chi"		"** 让我们放一首核爆神曲助助兴吧！~ 翻译：肉丸 **"
+		"enable"		"0"
+		"hammerid"		"6145"
+		"m_iname"		"func_physbox_snowball_6"
 	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
+	"6194"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6194"
+		"m_iname"		"func_physbox_snowball_3"
 	}
-	"###Map Made By Mononoke###"
+	"8058"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"8058"
+		"m_iname"		"func_physbox_snowball_5"
+	}
+	"741"
+	{
+		"enable"		"0"
+		"hammerid"		"741"
+		"m_iname"		"StartRock1"
+	}
+	"129013"
+	{
+		"enable"		"0"
+		"hammerid"		"129013"
+		"m_iname"		"SpawnRock6"
+	}
+	"129016"
+	{
+		"enable"		"0"
+		"hammerid"		"129016"
+		"m_iname"		"SpawnRock5"
+	}
+	"11199"
+	{
+		"enable"		"0"
+		"hammerid"		"11199"
+		"m_iname"		"func_breakable_snowball_5"
+	}
+	"11307"
+	{
+		"enable"		"0"
+		"hammerid"		"11307"
+		"m_iname"		"func_breakable_snowball_4"
+	}
+	"11540"
+	{
+		"enable"		"0"
+		"hammerid"		"11540"
+		"m_iname"		"func_breakable_snowball_6"
+	}
+	"16011"
+	{
+		"enable"		"0"
+		"hammerid"		"16011"
+		"m_iname"		"func_breakable_snowball_3"
 	}
 }

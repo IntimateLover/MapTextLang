@@ -1,44 +1,61 @@
-"Console_T"
+"BOSSHP"
 {
-	"** The gate will open in 35 seconds **"
+	"electric_ladder"
 	{
-		"chi"		"**大门35秒后打开**"
-		"DoorCountDown"		"35"
+		"enable"		"0"
 	}
-	"** Get Ready **"
+	"172505"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"172505"
+		"m_iname"		"secret_break"
 	}
-	"** Run! **"
+	"156777"
 	{
-		"chi"		"**跑！**"
+		"enable"		"0"
+		"hammerid"		"156777"
+		"m_iname"		"WOODTOWER"
 	}
-	"** Looks like the Van is broken **"
+	"97992"
 	{
-		"chi"		"**公园内的货车似乎坏掉了！**"
+		"enable"		"0"
+		"hammerid"		"97992"
+		"m_iname"		"hold_area_1_door"
 	}
-	"** Generator override enabled **"
+	"515"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"515"
+		"m_iname"		"door_1"
 	}
-	"** Power has been lost to Jurassic Park **"
+	"522"
 	{
-		"chi"		"**侏罗纪公园的电源已被切断**"
+		"enable"		"0"
+		"hammerid"		"522"
+		"m_iname"		"door_2"
 	}
-	"** Call the mainland - Tell them to send the damn helicopter! **"
+	"1372"
 	{
-		"chi"		"**信号已发送，直升机很快就会抵达！**"
+		"enable"		"0"
+		"hammerid"		"1372"
+		"m_iname"		"gatewall_1"
 	}
-	"** SECURE THE AREA **"
+	"1374"
 	{
-		"chi"		"**守住阵地！**"
+		"enable"		"0"
+		"hammerid"		"1374"
+		"m_iname"		"gatewall_2"
 	}
-	"** Get ready to move! **"
+	"1376"
 	{
-		"chi"		"**直升机即将抵达，丢雷撤退！**"
+		"enable"		"0"
+		"hammerid"		"1376"
+		"m_iname"		"gatewall_3"
 	}
-	"** Nerve gas released **"
+	"1378"
 	{
-		"chi"		"**人类胜利，核爆即将抵达！**"
+		"enable"		"0"
+		"hammerid"		"1378"
+		"m_iname"		"gatewall_4"
 	}
 }

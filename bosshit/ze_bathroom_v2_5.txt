@@ -1,143 +1,171 @@
-"Console_T"
+"BOSSHP"
 {
-	"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
+	"685381"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"685381"
+		"m_iname"		"bojler_break"
 	}
-	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	"665455"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"665455"
+		"m_iname"		"police_phys"
 	}
-	"Map made by Puklica & Cuniczek"
+	"661073"
 	{
-		"chi"		"**地图作者:Puklica & Cuniczek 汉化:比那名居天子**"
+		"enable"		"0"
+		"hammerid"		"661073"
+		"m_iname"		"CY01Physic"
 	}
-	">>> |LEVEL 1| <<<"
+	"580303"
 	{
-		"chi"		"**第一关**"
+		"enable"		"1"
+		"hammerid"		"580303"
+		"m_iname"		"kostka_boss_hitbox"
 	}
-	"Sponge builder has been picked up."
+	"513636"
 	{
-		"chi"		"**海绵块被拾取**"
+		"enable"		"1"
+		"hammerid"		"513636"
+		"m_iname"		"kostka_boss_main_tracker"
 	}
-	"Mouse trap has been picked up."
+	"496824"
 	{
-		"chi"		"**捕鼠夹被拾取**"
+		"enable"		"1"
+		"hammerid"		"496824"
+		"m_iname"		"krokodyl_hitbox"
 	}
-	"Well have to roll down the toilet paper to safely climb down."
+	"512886"
 	{
-		"chi"		"**我们必须等待卷纸降下后才能安全地往下爬**"
+		"enable"		"0"
+		"hammerid"		"512886"
+		"m_iname"		"pasticka_drevo"
 	}
-	"Toilet paper has been rolled down. Fall back!"
+	"512944"
 	{
-		"chi"		"**卷纸已经降到底了，撤退！**"
+		"enable"		"0"
+		"hammerid"		"512944"
+		"m_iname"		"pasticka syr"
 	}
-	"Hold for 15 seconds."
+	"783646"
 	{
-		"chi"		"**防守15秒**"
-		"DoorCountdown"		"15"
+		"enable"		"0"
+		"hammerid"		"783646"
+		"m_iname"		"police_dira2"
 	}
-	"Resist for 25 seconds."
+	"768332"
 	{
-		"chi"		"**防守25秒**"
-		"DoorCountdown"		"25"
+		"enable"		"0"
+		"hammerid"		"768332"
+		"m_iname"		"dvere_prichod_futra"
 	}
-	"Resist for 20 seconds."
+	"766468"
 	{
-		"chi"		"**防守20秒**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"766468"
+		"m_iname"		"dvere_break"
 	}
-	"Hold here until something happens!"
+	"764588"
 	{
-		"chi"		"**守住这里直到发生什么**"
+		"enable"		"0"
+		"hammerid"		"764588"
+		"m_iname"		"zm_jail_break"
 	}
-	"The path is blocked. Fall back!"
+	"695162"
 	{
-		"chi"		"**通道被阻塞了，撤退！**"
+		"enable"		"0"
+		"hammerid"		"695162"
+		"m_iname"		"dira_zed_police"
 	}
-	"The Rubber Duck has been defeated."
+	"695171"
 	{
-		"chi"		"**小黄鸭已经被打败了**"
+		"enable"		"0"
+		"hammerid"		"695171"
+		"m_iname"		"dira_zed_police"
 	}
-	"You have won first level!"
+	"685404"
 	{
-		"chi"		"**你通过了第一关**"
+		"enable"		"0"
+		"hammerid"		"685404"
+		"m_iname"		"bojler_dira"
 	}
-	">>> |LEVEL 2| <<<"
+	"665709"
 	{
-		"chi"		"**第二关**"
+		"enable"		"0"
+		"hammerid"		"665709"
+		"m_iname"		"skrinka_break1"
 	}
-	"Resist until the wall breaks."
+	"649183"
 	{
-		"chi"		"**防守直到墙壁破碎**"
+		"enable"		"0"
+		"hammerid"		"649183"
+		"m_iname"		"zachod_break"
 	}
-	"Fall back!"
+	"616363"
 	{
-		"chi"		"**撤退！**"
+		"enable"		"0"
+		"hammerid"		"616363"
+		"m_iname"		"vana_kostka_break"
 	}
-	"We have to clear the soap out of the way to be able to climb up."
+	"556255"
 	{
-		"chi"		"**我们必须推开肥皂之后才能往上爬**"
+		"enable"		"0"
+		"hammerid"		"556255"
+		"m_iname"		"drzak"
 	}
-	"The path has been cleared."
+	"536421"
 	{
-		"chi"		"**路开了**"
+		"enable"		"0"
+		"hammerid"		"536421"
+		"m_iname"		"dira_skrinka"
 	}
-	"Well have to jump outside and walk across the mirror."
+	"534130"
 	{
-		"chi"		"**我们必须跳出去并且穿过镜子**"
+		"enable"		"0"
+		"hammerid"		"534130"
+		"m_iname"		"dira_vana"
 	}
-	"Hold on for a few seconds."
+	"524915"
 	{
-		"chi"		"**守住一小会**"
+		"enable"		"0"
+		"hammerid"		"524915"
+		"m_iname"		"sprcha_provaz"
 	}
-	"We can use the hairdryer to reach the shelf!"
+	"455534"
 	{
-		"chi"		"**我们可以用吹风机来到达对面的架子**"
+		"enable"		"0"
+		"hammerid"		"455534"
+		"m_iname"		"dira3_skrin"
 	}
-	"Seems like there is no way to escape."
+	"454120"
 	{
-		"chi"		"**前方似乎无路可走了**"
+		"enable"		"0"
+		"hammerid"		"454120"
+		"m_iname"		"dira2_skrin"
 	}
-	"Thats it! Break the shelf support."
+	"394631"
 	{
-		"chi"		"**打破架子的支撑！**"
+		"enable"		"0"
+		"hammerid"		"394631"
+		"m_iname"		"dira_vana"
 	}
-	"We are trapped! Resist!"
+	"666192"
 	{
-		"chi"		"**我们被截住了，防守！**"
+		"enable"		"0"
+		"hammerid"		"666192"
+		"m_iname"		"vana_zebrik"
 	}
-	"Fall back we can walk across the door."
+	"573541"
 	{
-		"chi"		"**我们可以从门上面通过！撤退！**"
+		"enable"		"0"
+		"hammerid"		"573541"
+		"m_iname"		"lvl2_blok_sprcha"
 	}
-	"There is no way around."
+	"630553"
 	{
-		"chi"		"**前方没路了！**"
-	}
-	"Well have to enter the boiler. Resist!"
-	{
-		"chi"		"**我们必须进入锅炉，防守！**"
-	}
-	"We can enter through that hole! Fall back!"
-	{
-		"chi"		"** 我们可以通过这个洞进去，撤退！**"
-	}
-	"The sponge has been defeated! Run!"
-	{
-		"chi"		"**海绵块已经被打败了，快跑！**"
-	}
-	"Final doors are going to close in 30 seconds! Resist!"
-	{
-		"chi"		"**最后的大门将在30秒后关闭，守住僵尸！**"
-		"DoorCountdown"		"30"
-	}
-	"You have won the map! Congratulations!"
-	{
-		"chi"		"**你征服了本地图！恭喜！**"
-	}
-	"Kill all zombies inside!"
-	{
-		"chi"		"**杀死里面所有的僵尸**"
+		"enable"		"0"
+		"hammerid"		"630553"
+		"m_iname"		"level_2_baterie_break"
 	}
 }

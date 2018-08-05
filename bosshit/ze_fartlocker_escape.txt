@@ -1,154 +1,111 @@
-"Console_T"
+"BOSSHP"
 {
-	"***DOOR OPENS IN 40s***"
+	"335884"
 	{
-		"chi"		"**大门40秒后开启**"
-		"DoorCountdown"		"40"
+		"enable"		"0"
+		"hammerid"		"335884"
+		"m_iname"		"Area2Breakable5"
 	}
-	"***VENT IS NOW ACCESSIBLE***"
+	"336170"
 	{
-		"chi"		"**通风管道开启**"
+		"enable"		"0"
+		"hammerid"		"336170"
+		"m_iname"		"Area2Breakable1"
 	}
-	"***DOOR IS OPEN***"
+	"336176"
 	{
-		"chi"		"**大门开启**"
+		"enable"		"0"
+		"hammerid"		"336176"
+		"m_iname"		"Area2Breakable2"
 	}
-	"***DOOR OPENS IN 20s***"
+	"260460"
 	{
-		"chi"		"**大门20秒后开启**"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"260460"
+		"m_iname"		"Area1Door1"
 	}
-	"***TRAM LEAVES IN 3s***"
+	"244713"
 	{
-		"chi"		"**电车3秒后离开**"
+		"enable"		"0"
+		"hammerid"		"244713"
+		"m_iname"		"Area1Vent1"
 	}
-	"***DOOR OPENS IN 15s***"
+	"56586"
 	{
-		"chi"		"**大门15秒后开启**"
-		"DoorCountdown"		"15"
+		"enable"		"0"
+		"hammerid"		"56586"
+		"m_iname"		"Breakable3"
 	}
-	"***ELEVATOR LEAVES IN 40s***"
+	"12123"
 	{
-		"chi"		"**电梯40秒后开启**"
-		"DoorCountdown"		"40"
+		"enable"		"0"
+		"hammerid"		"12123"
+		"m_iname"		"Breakable 2"
 	}
-	"***AFK TELEPORT IN 10s***"
+	"157704"
 	{
-		"chi"		"**挂机者将在10秒后传送**"
+		"enable"		"0"
+		"hammerid"		"157704"
+		"m_iname"		"Area3Breakable6"
 	}
-	"*** ELEVATOR OPENS IN 5s***"
+	"123410"
 	{
-		"chi"		"**电梯5秒后开启**"
+		"enable"		"0"
+		"hammerid"		"123410"
+		"m_iname"		"Area3Breakable5"
 	}
-	"***GET IN THE ELEVATOR***"
+	"119608"
 	{
-		"chi"		"**进到电梯里面**"
+		"enable"		"0"
+		"hammerid"		"119608"
+		"m_iname"		"Area3Breakable4"
 	}
-	"***DOORS OPEN IN 50s***"
+	"108613"
 	{
-		"chi"		"**大门50秒后开启**"
-		"DoorCountdown"		"50"
+		"enable"		"0"
+		"hammerid"		"108613"
+		"m_iname"		"Area3Breakable2"
 	}
-	"***SIDE GATES CLOSE IN 5s***"
+	"108775"
 	{
-		"chi"		"**侧门5秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"108775"
+		"m_iname"		"Area3Breakable3"
 	}
-	"***FINAL GATE CLOSES IN 10s***"
+	"74685"
 	{
-		"chi"		"**最后的门10秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"74685"
+		"m_iname"		"Area2Breakable5"
 	}
-	"***DOORS ARE OPEN***"
+	"66935"
 	{
-		"chi"		"**两边的门开启**"
+		"enable"		"0"
+		"hammerid"		"66935"
+		"m_iname"		"Area2Breakable1"
 	}
-	"***FINAL DOOR OPENS IN 50s***"
+	"66988"
 	{
-		"chi"		"**最后的大门将在50秒后开启**"
-		"DoorCountdown"		"50"
+		"enable"		"0"
+		"hammerid"		"66988"
+		"m_iname"		"Area2Breakable2"
 	}
-	"***AFK TELEPORT IN 10s"
+	"71557"
 	{
-		"chi"		"**挂机者将在10秒后传送**"
+		"enable"		"0"
+		"hammerid"		"71557"
+		"m_iname"		"Area2Breakable3"
 	}
-	"***DOOR OPENS IN 10s***"
+	"71578"
 	{
-		"chi"		"**大门将在10秒后开启**"
+		"enable"		"0"
+		"hammerid"		"71578"
+		"m_iname"		"Area2Breakable4"
 	}
-	"***FALL BACK!!! FINAL DOOR CLOSES IN 10s***"
+	"10198"
 	{
-		"chi"		"**撤退！！！最后的大门10秒后关闭**"
-	}
-	"***ZOMBIES REALEASED IN 10s***"
-	{
-		"chi"		"**僵尸空气墙10秒后消失**"
-	}
-	"***DOOR OPENS IN 50s***"
-	{
-		"chi"		"**大门50秒后开启**"
-		"DoorCountdown"		"50"
-	}
-	"***ZOMBIES RELEASED IN 5s***"
-	{
-		"chi"		"**僵尸空气墙5秒后消失**"
-	}
-	"***DOOR OPENS IN 25s***"
-	{
-		"chi"		"**大门25秒后开启**"
-		"DoorCountdown"		"25"
-	}
-	"***TELEPORTER WILL ACTIVATE IN 50s***"
-	{
-		"chi"		"**传送点在50秒后激活**"
-		"DoorCountdown"		"50"
-	}
-	"***GET READY!!! 5s LEFT***"
-	{
-		"chi"		"**还有5秒！！准备进入传送点！！！**"
-	}
-	"***TELEPORTER IS ACTIVE***"
-	{
-		"chi"		"**传送点已激活**"
-	}
-	"***ZOMBIES RELEASED IN 15s***"
-	{
-		"chi"		"**僵尸空气墙15秒后消失**"
-	}
-	"***WALL WILL BREAK IN 25s***"
-	{
-		"chi"		"**墙于25秒后破碎**"
-	}
-	"***AFK TELEPORT IN 5s***"
-	{
-		"chi"		"**挂机者将在5秒后传送**"
-	}
-	"***NEXT WALL BREAKS IN 25s***"
-	{
-		"chi"		"**下一个墙于25秒后破碎**"
-	}
-	"***TELEPORT WILL ACTIVATE IN 40s***"
-	{
-		"chi"		"**传送点在30秒后激活**"
-		"DoorCountdown"		"30"
-	}
-	"***TELEPORTER IS ENABLED***"
-	{
-		"chi"		"**传送点激活**"
-	}
-	"***HOLD THIS AREA FOR 25s***"
-	{
-		"chi"		"**在这里防守25秒**"
-		"DoorCountdown"		"25"
-	}
-	"***RIP***"
-	{
-		"chi"		"** **"
-	}
-	"***WALL BREAKS IN 30s***"
-	{
-		"chi"		"**墙于30秒后破碎**"
-	}
-	"***SecretTeleporter Activates in 12s***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10198"
+		"m_iname"		"vent1"
 	}
 }

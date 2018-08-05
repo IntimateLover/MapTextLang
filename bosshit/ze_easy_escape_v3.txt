@@ -1,134 +1,51 @@
-"Console_T"
+"BOSSHP"
 {
-	"** Map made by li-ion **"
+	"83366"
 	{
-		"chi"		"**地图制作：li-ion 地图翻译：清新的二哈♪ **"
+		"enable"		"0"
+		"hammerid"		"83366"
+		"m_iname"		"trap1"
 	}
-	"** My first map hope you like it, enjoy **"
+	"83377"
 	{
-		"chi"		"**这是我做的第一张图，希望你能喜欢它 **"
+		"enable"		"0"
+		"hammerid"		"83377"
+		"m_iname"		"trap2"
 	}
-	"** The door will open in 15 sec **"
+	"83388"
 	{
-		"chi"		"**大门将在15s后打开 **"
+		"enable"		"0"
+		"hammerid"		"83388"
+		"m_iname"		"trap3"
 	}
-	"** FALL BACK **"
+	"83394"
 	{
-		"chi"		"**撤退 **"
+		"enable"		"0"
+		"hammerid"		"83394"
+		"m_iname"		"trap4"
 	}
-	"** The teleport will enable in 20 sec **"
+	"83402"
 	{
-		"chi"		"**传送将在20s后激活 **"
+		"enable"		"0"
+		"hammerid"		"83402"
+		"m_iname"		"trap5"
 	}
-	"** Make sure that youre on the block **"
+	"83004"
 	{
-		"chi"		"**确保你站在方块上面 **"
+		"enable"		"0"
+		"hammerid"		"83004"
+		"m_iname"		"trap"
 	}
-	"** The door will open in 30 sec **"
+	"54949"
 	{
-		"chi"		"**大门将在30s后打开 **"
+		"enable"		"0"
+		"hammerid"		"54949"
+		"m_iname"		"door15"
 	}
-	"** Get in side the second room **"
+	"83964"
 	{
-		"chi"		"**快到第二个屋子里来 **"
-	}
-	"** Teleport will enable in 20 sec **"
-	{
-		"chi"		"**传送将在20s后激活 **"
-	}
-	"** The gate will open in 30 sec **"
-	{
-		"chi"		"**门将在30s后打开 **"
-	}
-	"** The zombies are coming **"
-	{
-		"chi"		"**僵尸来了 **"
-	}
-	"** The gate will open in 40 sec **"
-	{
-		"chi"		"**门将在40s后打开 **"
-	}
-	"** PRESS SPACE **"
-	{
-		"chi"		"**按住跳 **"
-	}
-	"** SHOOT THE GLASS **"
-	{
-		"chi"		"**开枪打碎玻璃 **"
-	}
-	"** The teleport will enable in 30 sec **"
-	{
-		"chi"		"**传送将在30s后激活 **"
-	}
-	"** The gate will break in 15 sec"
-	{
-		"chi"		"*15s后门碎*"
-	}
-	"** The doors will open in 25 sec **"
-	{
-		"chi"		"**这扇门会在25s后打开 **"
-	}
-	"** BHOPKZ PLAYERS YOU FAIL ME **"
-	{
-		"chi"		"****"
-	}
-	"** The door will close in 15"
-	{
-		"chi"		"**门将在15s后关闭 **"
-	}
-	"** If surf is not completed in 80 sec the zombies will be released **"
-	{
-		"chi"		"**如果没有人在80s内完成滑翔，人类将全部变成4积分 **"
-	}
-	"** The zombies will be released in 30 sec **"
-	{
-		"chi"		"**僵尸将在30s后释放 **"
-	}
-	"** SURF PLAYERS YOU FAIL ME **"
-	{
-		"chi"		"** **"
-	}
-	"** Teleporting humans **"
-	{
-		"chi"		"**传送人类 **"
-	}
-	"** Teleporting zombies **"
-	{
-		"chi"		"**传送僵尸 **"
-	}
-	"** Defend for 30 second **"
-	{
-		"chi"		"**坚守30s **"
-	}
-	"** THANKS TO EVERYONE WHO HELPED ME MAKE THIS **"
-	{
-		"chi"		"**感谢给予我制作帮助的每个人 **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
-	"** NUKE IN 5 **"
-	{
-		"chi"		"**核爆来袭 **"
-	}
-	"** 4 **"
-	{
-		"chi"		"**4 **"
-	}
-	"** 3 **"
-	{
-		"chi"		"**3 **"
-	}
-	"** 2 **"
-	{
-		"chi"		"**2 **"
-	}
-	"** 1 **"
-	{
-		"chi"		"**1 **"
+		"enable"		"0"
+		"hammerid"		"83964"
+		"m_iname"		"trap"
 	}
 }

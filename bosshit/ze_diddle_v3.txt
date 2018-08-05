@@ -1,1420 +1,963 @@
-"Console_T"
+"BOSSHP"
 {
-	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
+	"1151222"
 	{
-		"chi"		"**Diddlery将在30秒后开始**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"1151222"
+		"m_iname"		"shopgate"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
+	"423841"
 	{
-		"chi"		"**Diddlery将在20秒后开始**"
+		"enable"		"0"
+		"hammerid"		"423841"
+		"m_iname"		"dd_hp"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***"
+	"409426"
 	{
-		"chi"		"**Diddlery将在10秒后开始**"
+		"enable"		"1"
+		"hammerid"		"409426"
+		"m_iname"		"seal"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***"
+	"392363"
 	{
-		"chi"		"**Diddlery将在5秒后开始**"
+		"enable"		"0"
+		"hammerid"		"392363"
+		"m_iname"		"extra_break1"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***"
+	"388133"
 	{
-		"chi"		"**Diddlery将在4秒后开始**"
+		"enable"		"0"
+		"hammerid"		"388133"
+		"m_iname"		"finale_vaginahold_1"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***"
+	"388170"
 	{
-		"chi"		"**Diddlery将在3秒后开始**"
+		"enable"		"0"
+		"hammerid"		"388170"
+		"m_iname"		"finale_vaginahold_2"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***"
+	"388200"
 	{
-		"chi"		"**Diddlery将在2秒后开始**"
+		"enable"		"0"
+		"hammerid"		"388200"
+		"m_iname"		"finale_vaginahold_3"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
+	"388227"
 	{
-		"chi"		"**Diddlery将在1秒后开始**"
+		"enable"		"0"
+		"hammerid"		"388227"
+		"m_iname"		"finale_vaginahold_4"
 	}
-	"***HAPPY DIDDLING***"
+	"388242"
 	{
-		"chi"		"**快乐的Diddling**"
+		"enable"		"0"
+		"hammerid"		"388242"
+		"m_iname"		"finale_vaginahold_5"
 	}
-	"*You are stuck inside Turtle Reactions Computer - Try to escape this place*"
+	"378806"
 	{
-		"chi"		"**你被困在海龟反应计算机里 - 尝试逃离这个地方**"
+		"enable"		"0"
+		"hammerid"		"378806"
+		"m_iname"		"extra_ladderbreakend"
 	}
-	"*Defend here for 20 seconds*"
+	"361086"
 	{
-		"chi"		"**守住20秒**"
+		"enable"		"0"
+		"hammerid"		"361086"
+		"m_iname"		"extra_endbreak"
 	}
-	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
+	"354812"
 	{
-		"chi"		"**拿起火把，烧死所有的日漫痴！！！ ：）**"
+		"enable"		"0"
+		"hammerid"		"354812"
+		"m_iname"		"extra_ladderbreakpre"
 	}
-	"***HURRY, BEFORE WEEBLAND INVADES US***"
+	"347378"
 	{
-		"chi"		"**快点，在日漫痴乐园杀死我们所有人之前！**"
+		"enable"		"0"
+		"hammerid"		"347378"
+		"m_iname"		"extra_elevatorbreak"
 	}
-	"***THE TORCHES BURNS AND PUSHES ZOMBIES***"
+	"350848"
 	{
-		"chi"		"**火把可以灼烧并推开僵尸**"
+		"enable"		"0"
+		"hammerid"		"350848"
+		"m_iname"		"extra_ladderbreakpre"
 	}
-	"***ALSO USE THE TORCHES TO LIGHT HOUSES***"
+	"316392"
 	{
-		"chi"		"**火把也可以用来点燃房子**"
+		"enable"		"0"
+		"hammerid"		"316392"
+		"m_iname"		"extra_zcagebreak"
 	}
-	"***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
+	"285387"
 	{
-		"chi"		"**僵尸将在15秒后传送**"
+		"enable"		"0"
+		"hammerid"		"285387"
+		"m_iname"		"finale_zcagehold2"
 	}
-	"***TELEPORTING IN 5 MINUTES***"
+	"263974"
 	{
-		"chi"		"**五分钟传送**"
+		"enable"		"0"
+		"hammerid"		"263974"
+		"m_iname"		"finale_zcagehold"
 	}
-	"***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
+	"253696"
 	{
-		"chi"		"**僵尸将在10秒后传送**"
+		"enable"		"0"
+		"hammerid"		"253696"
+		"m_iname"		"npc_base_1"
 	}
-	"***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
+	"253703"
 	{
-		"chi"		"**僵尸将在5后传送**"
+		"enable"		"1"
+		"hammerid"		"253703"
+		"m_iname"		"i_npc_hp_1"
 	}
-	"***ZOMBIES ARE TELEPORTING***"
+	"222409"
 	{
-		"chi"		"**僵尸已传送**"
+		"enable"		"0"
+		"hammerid"		"222409"
+		"m_iname"		"finale_zcage"
 	}
-	"*FALL BACK*"
+	"180939"
 	{
-		"chi"		"**撤退**"
+		"enable"		"1"
+		"hammerid"		"180939"
+		"m_iname"		"finale_bossenterbreak"
 	}
-	"*Defend for 30 seconds*"
+	"146461"
 	{
-		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"146461"
+		"m_iname"		"finale_breakladder3"
 	}
-	"*Elevator Activating in 10 seconds*"
+	"146468"
 	{
-		"chi"		"**电梯10秒后激活**"
+		"enable"		"0"
+		"hammerid"		"146468"
+		"m_iname"		"finale_breakladder3"
 	}
-	"*Elevator activated*"
+	"135047"
 	{
-		"chi"		"**电梯已激活**"
+		"enable"		"1"
+		"hammerid"		"135047"
+		"m_iname"		"v_shitbreak"
 	}
-	"*Push the little red cube :)*"
+	"75432"
 	{
-		"chi"		"**按下红色的按钮**"
+		"enable"		"0"
+		"hammerid"		"75432"
+		"m_iname"		"finale_breakladder2"
 	}
-	"*Wall 2 breaks in 40 seconds*"
+	"47545"
 	{
-		"chi"		"**2号墙在40秒后破碎**"
+		"enable"		"0"
+		"hammerid"		"47545"
+		"m_iname"		"finale_breakladder1"
 	}
-	"*Do you hear that?*"
+	"590327"
 	{
-		"chi"		"**你听到了吗？**"
+		"enable"		"0"
+		"hammerid"		"590327"
+		"m_iname"		"luff_c_break"
 	}
-	"*That was a close one!*"
+	"590349"
 	{
-		"chi"		"**好像离我们非常近**"
+		"enable"		"0"
+		"hammerid"		"590349"
+		"m_iname"		"luff_c_break2"
 	}
-	"*Last Stand - Defend for 40 seconds*"
+	"590375"
 	{
-		"chi"		"**最后的地方-守住40秒**"
+		"enable"		"0"
+		"hammerid"		"590375"
+		"m_iname"		"luff_c_break3"
 	}
-	"*Looks like this is the way out of the computer!*"
+	"590412"
 	{
-		"chi"		"**看来走这条路可以离开这里！**"
+		"enable"		"0"
+		"hammerid"		"590412"
+		"m_iname"		"luff_door4"
 	}
-	"*Gates closing in 5 seconds*"
+	"590444"
 	{
-		"chi"		"**大门将在5秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"590444"
+		"m_iname"		"X69Xluff_door1"
 	}
-	"*Gates closing*"
+	"590447"
 	{
-		"chi"		"**大门关闭中……**"
+		"enable"		"0"
+		"hammerid"		"590447"
+		"m_iname"		"X69Xluff_door2"
 	}
-	"*Initializing Escape Program Sequence*"
+	"590456"
 	{
-		"chi"		"**初始化Escape程序序列**"
+		"enable"		"0"
+		"hammerid"		"590456"
+		"m_iname"		"X69Xluff_endbreak"
 	}
-	"*What is this music...?*"
+	"590450"
 	{
-		"chi"		"**这是什么音乐...？**"
+		"enable"		"0"
+		"hammerid"		"590450"
+		"m_iname"		"X69Xluff_door3"
 	}
-	"***Hello there, Im Turtle***"
+	"688344"
 	{
-		"chi"		"**你好，我是一只龟**"
+		"enable"		"0"
+		"hammerid"		"688344"
+		"m_iname"		"hichbreakable1"
 	}
-	"***I came to warn you, something BIG is out there and angry***"
+	"688347"
 	{
-		"chi"		"**我是来警告你的，那边有个很大的东西在生气**"
+		"enable"		"0"
+		"hammerid"		"688347"
+		"m_iname"		"hichbreakable2"
 	}
-	"***But ill be there to help. Bye for now***"
+	"688350"
 	{
-		"chi"		"**但是我会帮助你的.一会见**"
+		"enable"		"0"
+		"hammerid"		"688350"
+		"m_iname"		"hichbreakable3"
 	}
-	"*The hell..? I thought we left Turtle Reactions Computer*"
+	"688353"
 	{
-		"chi"		"**地狱..？我以为我们离开了乌龟反应计算机**"
+		"enable"		"0"
+		"hammerid"		"688353"
+		"m_iname"		"hichbreakable4"
 	}
-	"*Defend for 20 seconds*"
+	"688356"
 	{
-		"chi"		"**守住20秒**"
+		"enable"		"0"
+		"hammerid"		"688356"
+		"m_iname"		"hichbreakable5"
 	}
-	"***WARMUP***"
+	"688047"
 	{
-		"chi"		"**热身**"
+		"enable"		"0"
+		"hammerid"		"688047"
+		"m_iname"		"X69Xhichhouse"
 	}
-	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	"688106"
 	{
-		"chi"		"**Diddlery将在60后开始**"
+		"enable"		"0"
+		"hammerid"		"688106"
+		"m_iname"		"X69Xhichtorchwood&5318"
 	}
-	"*Do you hear that again..?*"
+	"583227"
 	{
-		"chi"		"**你又听到那个了吗..？**"
+		"enable"		"0"
+		"hammerid"		"583227"
+		"m_iname"		"TurtleBreakable2"
 	}
-	"*Defend here for 30 seconds*"
+	"583289"
 	{
-		"chi"		"**守住30秒**"
+		"enable"		"0"
+		"hammerid"		"583289"
+		"m_iname"		"TurtleBreakable1"
 	}
-	"***I will help***"
+	"583300"
 	{
-		"chi"		"**我会帮忙的**"
+		"enable"		"0"
+		"hammerid"		"583300"
+		"m_iname"		"TurtleBreakable4"
 	}
-	"***FUS RO...***"
+	"583303"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"583303"
+		"m_iname"		"TurtleBreakable3"
 	}
-	"***FIND YOUR LOVE***"
+	"584975"
 	{
-		"chi"		"**发现你的爱**"
+		"enable"		"0"
+		"hammerid"		"584975"
+		"m_iname"		"TurtleBreakable19"
 	}
-	"***SURPRISE YOUR LOVE***"
+	"584978"
 	{
-		"chi"		"**给予你的爱**"
+		"enable"		"0"
+		"hammerid"		"584978"
+		"m_iname"		"TurtleBreakable19"
 	}
-	"***BLESS YOUR LOVE***"
+	"584981"
 	{
-		"chi"		"**祝福你的爱**"
+		"enable"		"0"
+		"hammerid"		"584981"
+		"m_iname"		"TurtleBreakable19"
 	}
-	"***FEED YOUR LOVE***"
+	"585277"
 	{
-		"chi"		"**喂养你的爱**"
+		"enable"		"0"
+		"hammerid"		"585277"
+		"m_iname"		"TurtleSecret1"
 	}
-	"*Wall 1 breaks in 40 seconds*"
+	"585284"
 	{
-		"chi"		"**1号墙40秒后破碎**"
-		"DoorCountDown"		"40"
+		"enable"		"0"
+		"hammerid"		"585284"
+		"m_iname"		"TurtleSecret2"
 	}
-	"***SACRIFICE YOUR LOVE***"
+	"585287"
 	{
-		"chi"		"**赞美你的爱**"
+		"enable"		"0"
+		"hammerid"		"585287"
+		"m_iname"		"TurtleSecret3"
 	}
-	"defend"
+	"585408"
 	{
-		"chi"		"**守住**"
+		"enable"		"0"
+		"hammerid"		"585408"
+		"m_iname"		"TurtleBreakable13"
 	}
-	"<== All soldiers get out the ship and forward!"
+	"585785"
 	{
-		"chi"		">>>现在所有的士兵下船，前进！<<<"
+		"enable"		"0"
+		"hammerid"		"585785"
+		"m_iname"		"TurtleBreakable8"
 	}
-	"<== Get the bomb from the side! ==>"
+	"585794"
 	{
-		"chi"		">>>从旁边拿到炸弹！<<<"
+		"enable"		"0"
+		"hammerid"		"585794"
+		"m_iname"		"TurtleBreakable9"
 	}
-	"<== Get 2 !  ==>"
+	"585797"
 	{
-		"chi"		">>>拿到2个<<<"
+		"enable"		"0"
+		"hammerid"		"585797"
+		"m_iname"		"TurtleBreakable9"
 	}
-	"<== Get 3 !  ==>"
+	"585940"
 	{
-		"chi"		">>>拿到3个<<<"
+		"enable"		"0"
+		"hammerid"		"585940"
+		"m_iname"		"TurtleBreakable7"
 	}
-	"<== Get 5 !  ==>"
+	"585978"
 	{
-		"chi"		">>>拿到5个<<<"
+		"enable"		"0"
+		"hammerid"		"585978"
+		"m_iname"		"TurtleBreakable6"
 	}
-	"<== Get 4 !  ==>"
+	"585990"
 	{
-		"chi"		">>>拿到4个<<<"
+		"enable"		"0"
+		"hammerid"		"585990"
+		"m_iname"		"TurtleBreakable5"
 	}
-	"<== Get 6 !  ==>"
+	"963570"
 	{
-		"chi"		">>>拿到6个<<<"
+		"enable"		"1"
+		"hammerid"		"963570"
+		"m_iname"		"Ord_lvl_02_boss_break"
 	}
-	"<== Get 1 !  ==>"
+	"556434"
 	{
-		"chi"		">>>拿到1个<<<"
+		"enable"		"0"
+		"hammerid"		"556434"
+		"m_iname"		"Ord_lvl_01_break_01"
 	}
-	"***TPING IN 10 SECS***"
+	"556580"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"556580"
+		"m_iname"		"Ord_lvl_01_break_04"
 	}
-	"<== Bomb explosion in 30second ==>"
+	"556583"
 	{
-		"chi"		">>>炸弹在30秒后爆炸<<<"
+		"enable"		"0"
+		"hammerid"		"556583"
+		"m_iname"		"Ord_lvl_01_break_02"
 	}
-	"***TPING IN 5 SECS***"
+	"556586"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"556586"
+		"m_iname"		"Ord_lvl_01_break_03"
 	}
-	"***TPING IN 4 SECS***"
+	"558422"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"558422"
+		"m_iname"		"Ord_lvl_01_break_05"
 	}
-	"***TPING IN 3 SECS***"
+	"558898"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"558898"
+		"m_iname"		"Ord_lvl_02_break_03"
 	}
-	"***TPING IN 2 SECS***"
+	"559158"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"559158"
+		"m_iname"		"ord_lvl_01_ladder_break"
 	}
-	"***TPING IN 1 SEC***"
+	"559689"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"559689"
+		"m_iname"		"Ord_lvl_01_boss_break"
 	}
-	"***Poof*"
+	"559701"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"559701"
+		"m_iname"		"Ord_lvl_02_break_01"
 	}
-	"<== Bomb explosionin 15 second ==>"
+	"559752"
 	{
-		"chi"		">>>炸弹在15秒后爆炸<<<"
+		"enable"		"0"
+		"hammerid"		"559752"
+		"m_iname"		"Ord_lvl_02_break_02"
 	}
-	"<== Bomb explosion in 10 second ==>"
+	"557447"
 	{
-		"chi"		">>>炸弹在10秒后爆炸<<<"
+		"enable"		"0"
+		"hammerid"		"557447"
+		"m_iname"		"X69XOrd_main_little_diglett_bre"
 	}
-	"<== soldier can climb up in 30 second ==>"
+	"589398"
 	{
-		"chi"		">>>你们要在30秒后爬上去<<<"
+		"enable"		"0"
+		"hammerid"		"589398"
+		"m_iname"		"X69Xluff_npc_phys2g&5537"
 	}
-	"<== Defend this area 60 second ==>"
+	"589440"
 	{
-		"chi"		">>>守住这个区域60秒<<<"
+		"enable"		"0"
+		"hammerid"		"589440"
+		"m_iname"		"X69Xluff_npc_phys2gg&5537"
 	}
-	"*boss fight imminent*"
+	"980885"
 	{
-		"chi"		"**Boss战即将开始**"
+		"enable"		"0"
+		"hammerid"		"980885"
+		"m_iname"		"qaz_zladder"
 	}
-	"<== Way Path released ==>"
+	"637943"
 	{
-		"chi"		">>>道路开放<<<"
+		"enable"		"0"
+		"hammerid"		"637943"
+		"m_iname"		"qaz_FirstFloor"
 	}
-	"*get in the hole*"
+	"641762"
 	{
-		"chi"		"**进入洞中**"
+		"enable"		"0"
+		"hammerid"		"641762"
+		"m_iname"		"qaz_2ndfl"
 	}
-	"hold for 10 seconds"
+	"566908"
 	{
-		"chi"		"**守住10秒**"
+		"enable"		"0"
+		"hammerid"		"566908"
+		"m_iname"		"qaz_FiestWall(ND)1"
 	}
-	"<== Zombie already go though this area! fall back! ==>"
+	"566938"
 	{
-		"chi"		">>>僵尸已经进入这片区域！撤退！<<<"
+		"enable"		"0"
+		"hammerid"		"566938"
+		"m_iname"		"qaz_BlockBoxCt2"
 	}
-	"<== Get to the heil! ==>"
+	"567363"
 	{
-		"chi"		">>>到达地狱！<<<"
+		"enable"		"0"
+		"hammerid"		"567363"
+		"m_iname"		"qaz_BlockBoxCt3"
 	}
-	"oooh... look at those cute digletts"
+	"567370"
 	{
-		"chi"		"**噢哦哦...看看这些可爱的地鼠**"
+		"enable"		"0"
+		"hammerid"		"567370"
+		"m_iname"		"qaz_BlockBoxCt1"
 	}
-	"defend here untill the wall breaks"
+	"567387"
 	{
-		"chi"		"**守住这里直到墙碎**"
+		"enable"		"0"
+		"hammerid"		"567387"
+		"m_iname"		"qaz_blockBox1"
 	}
-	"hold 20sec"
+	"567395"
 	{
-		"chi"		"**守住20秒**"
+		"enable"		"0"
+		"hammerid"		"567395"
+		"m_iname"		"qaz_blockBox1"
 	}
-	"<==Get in the heilcopter and out in 45s ==>"
+	"567403"
 	{
-		"chi"		">>>进入直升机守住45秒<<<"
+		"enable"		"0"
+		"hammerid"		"567403"
+		"m_iname"		"qaz_blockBox1"
 	}
-	"go..."
+	"559620"
 	{
-		"chi"		"**走...**"
+		"enable"		"0"
+		"hammerid"		"559620"
+		"m_iname"		"X69XOrd_main_mid_diglett_break"
 	}
-	"shoot the floor"
+	"557829"
 	{
-		"chi"		"**射击地板**"
+		"enable"		"0"
+		"hammerid"		"557829"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"<==heilcopter fly out in 30s ==>"
+	"557832"
 	{
-		"chi"		">>>直升机在30秒后离开<<<"
+		"enable"		"0"
+		"hammerid"		"557832"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"<==heilcopter fly out in 15s ==>"
+	"557835"
 	{
-		"chi"		">>>直升机在15秒后离开<<<"
+		"enable"		"0"
+		"hammerid"		"557835"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"<==heilcopter fly out in 5s ==>"
+	"557838"
 	{
-		"chi"		">>>直升机在5秒后离开<<<"
+		"enable"		"0"
+		"hammerid"		"557838"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"!!shoot the zombies to the side!!"
+	"557841"
 	{
-		"chi"		"**！！把这些僵尸打到一边去！！**"
+		"enable"		"0"
+		"hammerid"		"557841"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"<==heilcopter fly out now! ==>"
+	"557844"
 	{
-		"chi"		">>>直升机已离开<<<"
+		"enable"		"0"
+		"hammerid"		"557844"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"hold here"
+	"557847"
 	{
-		"chi"		"**守住这里**"
+		"enable"		"0"
+		"hammerid"		"557847"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"*Push attack*"
+	"557850"
 	{
-		"chi"		"**推力攻击（按住W）**"
+		"enable"		"0"
+		"hammerid"		"557850"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"*ground attack*"
+	"557853"
 	{
-		"chi"		"**地面攻击（注意脚下）**"
+		"enable"		"0"
+		"hammerid"		"557853"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"*The digletts died*"
+	"557856"
 	{
-		"chi"		"**地鼠们死了**"
+		"enable"		"0"
+		"hammerid"		"557856"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"now defend untill the door is fully opened"
+	"557859"
 	{
-		"chi"		"**现在守住这里直到门完全打开**"
+		"enable"		"0"
+		"hammerid"		"557859"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"**kill the diglett**"
+	"557862"
 	{
-		"chi"		"**杀了这个地鼠**"
+		"enable"		"0"
+		"hammerid"		"557862"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"**laser attack**"
+	"557865"
 	{
-		"chi"		"**激光攻击（注意躲避）**"
+		"enable"		"0"
+		"hammerid"		"557865"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"**earthquake**"
+	"557868"
 	{
-		"chi"		"**地震（小心脚下）**"
+		"enable"		"0"
+		"hammerid"		"557868"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"**the diglett is dead**"
+	"557871"
 	{
-		"chi"		"**地鼠死了**"
+		"enable"		"0"
+		"hammerid"		"557871"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"hold this room for 20 sec"
+	"557874"
 	{
-		"chi"		"**守住这个房间20秒**"
+		"enable"		"0"
+		"hammerid"		"557874"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"the main door is stuck"
+	"557877"
 	{
-		"chi"		"**主门被卡住了**"
+		"enable"		"0"
+		"hammerid"		"557877"
+		"m_iname"		"X69XOrd_lvl_01_break_05_close"
 	}
-	"wait until we find another way"
+	"559603"
 	{
-		"chi"		"**守住.直到我们找到其他路**"
+		"enable"		"1"
+		"hammerid"		"559603"
+		"m_iname"		"X69XOrd_main_large_diglett_brea"
 	}
-	"we found a secret entrance"
+	"585302"
 	{
-		"chi"		"**我们发现了一个秘密入口**"
+		"enable"		"0"
+		"hammerid"		"585302"
+		"m_iname"		"X69XTurtleBreakable18"
 	}
-	"go in"
+	"546455"
 	{
-		"chi"		"**我们进去**"
+		"enable"		"1"
+		"hammerid"		"546455"
+		"m_iname"		"blobarm_hp"
 	}
-	"wait for the doors to open"
+	"584940"
 	{
-		"chi"		"**等待这些门打开**"
+		"enable"		"0"
+		"hammerid"		"584940"
+		"m_iname"		"X69XTurtleBreakable20"
 	}
-	"wait for the right door to open"
+	"584943"
 	{
-		"chi"		"**等待正确的门打开**"
+		"enable"		"0"
+		"hammerid"		"584943"
+		"m_iname"		"X69XTurtleBreakable20"
 	}
-	"defend for 50 sec"
+	"584946"
 	{
-		"chi"		"**守住50秒**"
+		"enable"		"0"
+		"hammerid"		"584946"
+		"m_iname"		"X69XTurtleBreakable20"
 	}
-	"wait for the door to open"
+	"585512"
 	{
-		"chi"		"**等待这扇门打开**"
+		"enable"		"1"
+		"hammerid"		"585512"
+		"m_iname"		"X69XTurtleBossHP1"
 	}
-	"defend for 20 sec"
+	"585392"
 	{
-		"chi"		"**守住20秒**"
+		"enable"		"0"
+		"hammerid"		"585392"
+		"m_iname"		"X69XTurtleBreakable12"
 	}
-	"the wall.. quick"
+	"585731"
 	{
-		"chi"		"**这堵墙...快点**"
+		"enable"		"1"
+		"hammerid"		"585731"
+		"m_iname"		"X69XTurtleBossHP2"
 	}
-	"wait for the finall wall to break"
+	"585411"
 	{
-		"chi"		"**等待最后的墙破碎**"
+		"enable"		"0"
+		"hammerid"		"585411"
+		"m_iname"		"X69XTurtleBreakable14"
 	}
-	"defend for 10 sec"
+	"585335"
 	{
-		"chi"		"**守住10秒**"
+		"enable"		"0"
+		"hammerid"		"585335"
+		"m_iname"		"X69XTurtleBreakable16"
 	}
-	"alright lets fight that dicklett"
+	"1010476"
 	{
-		"chi"		"**好吧，让我们射击那个dicklett**"
+		"enable"		"1"
+		"hammerid"		"1010476"
+		"m_iname"		"ITEMX_TurtlePushItem"
 	}
-	"**fart attack**"
+	"1010571"
 	{
-		"chi"		"**放屁攻击**"
+		"enable"		"1"
+		"hammerid"		"1010571"
+		"m_iname"		"ITEMX_TurtlePushItem"
 	}
-	"**jizz attack right**"
+	"1011040"
 	{
-		"chi"		"**精液攻击-右**"
+		"enable"		"0"
+		"hammerid"		"1011040"
+		"m_iname"		"ITEMX_qaz_item_shields3&1101"
 	}
-	"**the dicklett has been killed**"
+	"312893"
 	{
-		"chi"		"**Dicklett已经被杀死了**"
+		"enable"		"1"
+		"hammerid"		"312893"
+		"m_iname"		"i_vaginaface_hp&1255"
 	}
-	"Run towards the back exit"
+	"1010860"
 	{
-		"chi"		"**跑向出口**"
+		"enable"		"0"
+		"hammerid"		"1010860"
+		"m_iname"		"projectile_phys_1&1134"
 	}
-	"defend till the doors been fully opened"
+	"585332"
 	{
-		"chi"		"**守住这里，直到门开**"
+		"enable"		"0"
+		"hammerid"		"585332"
+		"m_iname"		"X69XTurtleBreakable15"
 	}
-	"*Enter the Sand Castle*"
+	"510073"
 	{
-		"chi"		"**进入沙堡**"
+		"enable"		"0"
+		"hammerid"		"510073"
+		"m_iname"		"fetuswall"
 	}
-	"*Last stand - Defend for 30 seconds*"
+	"510083"
 	{
-		"chi"		"**最后的防守点-守住30秒**"
+		"enable"		"0"
+		"hammerid"		"510083"
+		"m_iname"		"fetuswall"
 	}
-	"***Kill the final boss***"
+	"510093"
 	{
-		"chi"		"**杀了最终Boss**"
+		"enable"		"0"
+		"hammerid"		"510093"
+		"m_iname"		"fetuswall"
 	}
-	"*Jump Down*"
+	"510103"
 	{
-		"chi"		"**跳下去**"
+		"enable"		"0"
+		"hammerid"		"510103"
+		"m_iname"		"fetuswall"
 	}
-	"*15 seconds before bridge breaks*"
+	"510113"
 	{
-		"chi"		"**大桥15秒后断裂**"
+		"enable"		"0"
+		"hammerid"		"510113"
+		"m_iname"		"fetuswall"
 	}
-	"***laser attack***"
+	"487391"
 	{
-		"chi"		"**激光攻击（注意躲避）**"
+		"enable"		"0"
+		"hammerid"		"487391"
+		"m_iname"		"fetuswall"
 	}
-	"***earthquake***"
+	"487399"
 	{
-		"chi"		"**地震（小心脚下）**"
+		"enable"		"0"
+		"hammerid"		"487399"
+		"m_iname"		"fetuswall"
 	}
-	"***Hey, doing well i see***"
+	"487403"
 	{
-		"chi"		"**嘿，做得好，我明白了**"
+		"enable"		"0"
+		"hammerid"		"487403"
+		"m_iname"		"fetuswall"
 	}
-	"***I will heal you while you fight the big monster***"
+	"510065"
 	{
-		"chi"		"**我会在你和大怪物战斗的时候治愈你**"
+		"enable"		"0"
+		"hammerid"		"510065"
+		"m_iname"		"fetuswall"
 	}
-	"***Goooodluck***"
+	"510088"
 	{
-		"chi"		"**祝你好运**"
+		"enable"		"0"
+		"hammerid"		"510088"
+		"m_iname"		"fetuswall"
 	}
-	"***Demon Turtle Of Despair has appeared!***"
+	"510098"
 	{
-		"chi"		"**绝望的恶魔龟出现了！**"
+		"enable"		"0"
+		"hammerid"		"510098"
+		"m_iname"		"fetuswall"
 	}
-	"***Turtle heals every 50 seconds***"
+	"510108"
 	{
-		"chi"		"**乌龟每50秒治愈一次**"
+		"enable"		"0"
+		"hammerid"		"510108"
+		"m_iname"		"fetuswall"
 	}
-	"***The digletts have been defeated*** gg"
+	"510212"
 	{
-		"chi"		"**这些地鼠已经被打败了**"
+		"enable"		"0"
+		"hammerid"		"510212"
+		"m_iname"		"fetuswall"
 	}
-	"*Demon Turtle casts Spears*"
+	"487395"
 	{
-		"chi"		"**恶魔龟扔出了Spears**"
+		"enable"		"0"
+		"hammerid"		"487395"
+		"m_iname"		"fetuswall"
 	}
-	"*Demon Turtle casts Chill*"
+	"510078"
 	{
-		"chi"		"**恶魔龟使用了寒冰**"
+		"enable"		"0"
+		"hammerid"		"510078"
+		"m_iname"		"fetuswall"
 	}
-	"*Demon Turtle casts Water Blast*"
+	"473830"
 	{
-		"chi"		"**恶魔龟使用了水爆**"
+		"enable"		"0"
+		"hammerid"		"473830"
+		"m_iname"		"i_debrisblock&1894"
 	}
-	"*Tiki 2 Broken*"
+	"1201798"
 	{
-		"chi"		"**Tiki 2号已经被破坏了**"
+		"enable"		"0"
+		"hammerid"		"1201798"
+		"m_iname"		"finale_lbox"
 	}
-	"*Demon Turtle seems to be angrier*"
+	"1201802"
 	{
-		"chi"		"**恶魔龟似乎更愤怒了**"
+		"enable"		"0"
+		"hammerid"		"1201802"
+		"m_iname"		"finale_hborg"
 	}
-	"*Demon 7{{2 casts ERROR#*"
+	"1239589"
 	{
-		"chi"		"**恶魔7{{2使用了ERROR#**"
+		"enable"		"0"
+		"hammerid"		"1239589"
+		"m_iname"		"Ord_lvl_01_break_04"
 	}
-	"*Demon Turtle casts 29--"
+	"1222613"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1222613"
+		"m_iname"		"ord_surfprotector2"
 	}
-	"*Demon Turtle 7_) Launch2.0.exe*"
+	"556490"
 	{
-		"chi"		"**恶魔7{{使用了#launch 2.0**"
+		"enable"		"0"
+		"hammerid"		"556490"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"*-9).$ casts -Turtle.jpg*"
+	"556493"
 	{
-		"chi"		"**恶魔龟使用了图片攻击**"
+		"enable"		"0"
+		"hammerid"		"556493"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"*Demon Turtle casts Launch*"
+	"556496"
 	{
-		"chi"		"**恶魔龟使用了Launch**"
+		"enable"		"0"
+		"hammerid"		"556496"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"*Something is happening..*"
+	"556499"
 	{
-		"chi"		"**有什么事要发生了..**"
+		"enable"		"0"
+		"hammerid"		"556499"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"***Good Job! You have defeated the virus and now will leave the computer!***"
+	"556502"
 	{
-		"chi"		"**干得漂亮！你已经击败了病毒，现在将离开电脑！**"
+		"enable"		"0"
+		"hammerid"		"556502"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"***I hope you a have a lovely journey back home and...***"
+	"556505"
 	{
-		"chi"		"**我希望你有一个温馨的归程并且...**"
+		"enable"		"0"
+		"hammerid"		"556505"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"***W..wait***"
+	"556508"
 	{
-		"chi"		"**等..等一下**"
+		"enable"		"0"
+		"hammerid"		"556508"
+		"m_iname"		"Ord_floorbreak"
 	}
-	"***WAAAAAAAAAAAAAAAIIIIIIII----***"
+	"1351095"
 	{
-		"chi"		"**等等等等等等等等等等----**"
+		"enable"		"0"
+		"hammerid"		"1351095"
+		"m_iname"		"X68Xhich_zombie_TP"
 	}
-	"***IM RICK HARRISON, AND THIS IS MY PAWN SHOP***"
+	"585268"
 	{
-		"chi"		"**我是Rick Harrison，这是我的商店**"
+		"enable"		"0"
+		"hammerid"		"585268"
+		"m_iname"		"TurtleTikiii"
 	}
-	"***DUE TO HUGE ITEM DEMAND WE CAN ONLY LET ONE PERSON IN AT A TIME***"
+	"585271"
 	{
-		"chi"		"**由于巨大的货物需求，我们只能在一段时间内为一个人服务**"
+		"enable"		"0"
+		"hammerid"		"585271"
+		"m_iname"		"TurtleTikiii"
 	}
-	"***LINE UP AND KEEP HUGGING THE DOOR FOR A CHANCE TO GET INSIDE***"
+	"585274"
 	{
-		"chi"		"**到达并贴着门让我们有机会进去**"
+		"enable"		"0"
+		"hammerid"		"585274"
+		"m_iname"		"TurtleTikiii"
 	}
-	"***IFWHEN YOU GET INSIDE YOULL HAVE 10 SECONDS TO BUY SOMETHING***"
+	"290686"
 	{
-		"chi"		"**如果你进入了里面，你将有10秒钟来购买一些东西**"
+		"enable"		"0"
+		"hammerid"		"290686"
+		"m_iname"		"finale_zcage2"
 	}
-	"***PURCHASED - HEAL***"
+	"585338"
 	{
-		"chi"		"**已购买-治疗**"
+		"enable"		"0"
+		"hammerid"		"585338"
+		"m_iname"		"X69XTurtleBreakable17"
 	}
-	"***PURCHASED - GUARDIAN***"
+	"1351092"
 	{
-		"chi"		"**已购买-守护者**"
+		"enable"		"0"
+		"hammerid"		"1351092"
+		"m_iname"		"X68Xhich_human_TP"
 	}
-	"***Defend for 20 seconds***"
+	"1351098"
 	{
-		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"1351098"
+		"m_iname"		"X68Xhich_human_TP"
 	}
-	"***PURCHASED - BIG GUARDIAN***"
+	"281105"
 	{
-		"chi"		"**已购买-巨型守护者**"
+		"enable"		"0"
+		"hammerid"		"281105"
+		"m_iname"		"finale_killme"
 	}
-	"***SHOP IS SOLD OUT***"
+	"1528539"
 	{
-		"chi"		"**店铺已售空**"
+		"enable"		"1"
+		"hammerid"		"1528539"
+		"m_iname"		"i_diddlebaby_phys&2439"
 	}
-	"***COME IN TO PICK UP LEFTOVERS (IF ANY)***"
+	"1011011"
 	{
-		"chi"		"**进入并捡起剩余物品（如果有的话）**"
+		"enable"		"0"
+		"hammerid"		"1011011"
+		"m_iname"		"ITEMX_qaz_item_shields1&1353"
 	}
-	"***5 seconds left***"
+	"1811224"
 	{
-		"chi"		"**5秒时间剩余**"
+		"enable"		"0"
+		"hammerid"		"1811224"
+		"m_iname"		"qaz_FiestWall1bb"
 	}
-	"***Fall back***"
+	"1811631"
 	{
-		"chi"		"**撤退**"
+		"enable"		"0"
+		"hammerid"		"1811631"
+		"m_iname"		"qaz_heilBridge_ladderforzombie"
 	}
-	"***SHOOT AT THE BASE OF THE ARMS***"
+	"1811835"
 	{
-		"chi"		"**射击Arms的母巢**"
+		"enable"		"0"
+		"hammerid"		"1811835"
+		"m_iname"		"qaz_blockBox1"
 	}
-	"***THIS ELEVATOR WILL LEAVE ONCE THE OTHER PATH HAS BEEN FINISHED***"
+	"1897863"
 	{
-		"chi"		"**这个电梯将在其他道路打开后离开**"
+		"enable"		"0"
+		"hammerid"		"1897863"
+		"m_iname"		"i_mortar_phys&5216"
 	}
-	"***STAND YOUR GROUND UNTIL THEN***"
+	"1010975"
 	{
-		"chi"		"**守住这里**"
-	}
-	"***BE STRONG FOR DADDY***"
-	{
-		"chi"		"**比Daddy要强大**"
-	}
-	"***Defend for 40 seconds***"
-	{
-		"chi"		"**守住40秒**"
-		"DoorCountDown"		"40"
-	}
-	"***ELEVATOR LEAVES IN 10 SECONDS***"
-	{
-		"chi"		"**电梯将在10秒后离开**"
-	}
-	"***ELEVATOR LEAVES IN 5 SECONDS***"
-	{
-		"chi"		"**电梯将在5秒后离开**"
-	}
-	"***ELEVATOR IS LEAVING***"
-	{
-		"chi"		"**电梯已离开**"
-	}
-	"***DEFEND FOR 60 SECONDS***"
-	{
-		"chi"		"**守住这里60秒**"
-		"DoorCountDown"		"60"
-	}
-	"***30 SECONDS LEFT***"
-	{
-		"chi"		"**30秒剩余时间**"
-	}
-	"***15 SECONDS LEFT***"
-	{
-		"chi"		"**15秒剩余时间**"
-	}
-	"***10 SECONDS LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***DEFEND FOR 25 SECONDS***"
-	{
-		"chi"		"**守住25秒**"
-		"DoorCountDown"		"25"
-	}
-	"***JUMP INSIDE THE DOODLE DOODY***"
-	{
-		"chi"		"**准备跳进去**"
-	}
-	"***THE BOOBLE JOOBLE***"
-	{
-		"chi"		"**小宝贝**"
-	}
-	"***THE BABY MACHINE***"
-	{
-		"chi"		"**婴儿床**"
-	}
-	"***WELCOME TO THE VAGINA***"
-	{
-		"chi"		"**欢迎来到Vagina**"
-	}
-	"***A VAGINA IS WELCOMED***"
-	{
-		"chi"		"**Vagina表示欢迎**"
-	}
-	"***A VAGINA IS BOOBLY***"
-	{
-		"chi"		"**Vagina是幼小的**"
-	}
-	"***A VAGINA IS NEAT***"
-	{
-		"chi"		"**Vagina是干净的**"
-	}
-	"***A VAGINA IS GOOD***"
-	{
-		"chi"		"**Vagina是好的**"
-	}
-	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
-	{
-		"chi"		"**VAGINA平均每天跑7-8公里**"
-	}
-	"***A VAGINA INCLUDES CHILD SUPPORT***"
-	{
-		"chi"		"**Vagina包括儿童支持**"
-	}
-	"***A VAGINA IS AFRAID OF CLOWNS***"
-	{
-		"chi"		"**Vagina是非常不幸的**"
-	}
-	"***A VAGINA DOES NOT WANT TO PLAY ANYMORE***"
-	{
-		"chi"		"**Vagina不想再玩了**"
-	}
-	"***A VAGINA IS ALLERGIC TO DICKERY***"
-	{
-		"chi"		"**Vagina是过敏的**"
-	}
-	"***A VAGINA HELPS THE POOR***"
-	{
-		"chi"		"**Vagina帮助穷人**"
-	}
-	"***A VAGINA OPENS FOR YOU***"
-	{
-		"chi"		"**Vagina为你打开**"
-	}
-	"***A VAGINA IS WARM***"
-	{
-		"chi"		"**Vagina是热情的**"
-	}
-	"***A VAGINA IS MUSHY***"
-	{
-		"chi"		"**Vagina是痛苦的**"
-	}
-	"***A VAGINA IS DANGEROUS***"
-	{
-		"chi"		"**Vagina是危险的**"
-	}
-	"***A VAGINA IS FILLED WITH TEETH***"
-	{
-		"chi"		"**Vagina里充满电**"
-	}
-	"***A VAGINA IS IN ALL OF US***"
-	{
-		"chi"		"**我们所有人都在Vagina里**"
-	}
-	"***A VAGINA CALLS TO US***"
-	{
-		"chi"		"**Vagina呼叫我们**"
-	}
-	"***A VAGINA DIDDLES US***"
-	{
-		"chi"		"**Vagina欺骗我们**"
-	}
-	"***A VAGINA DOODLES US***"
-	{
-		"chi"		"**Vagina涂我们**"
-	}
-	"***A VAGINA FOR EVERY SANTA CLAUS***"
-	{
-		"chi"		"**Vagina为了每个圣诞老人**"
-	}
-	"***A VAGINA EATS PIZZA DAILY***"
-	{
-		"chi"		"**Vagina每天吃披萨**"
-	}
-	"***A VAGINA CAN FART***"
-	{
-		"chi"		"**Vagina能放屁**"
-	}
-	"***A VAGINA CAN BE BOUGHT***"
-	{
-		"chi"		"**Vagina可以买**"
-	}
-	"***A VAGINA CAN BE SOLD***"
-	{
-		"chi"		"**Vagina可以卖**"
-	}
-	"***A VAGINA RUNS AROUND THE PRIZE OF 40$***"
-	{
-		"chi"		"**Vagina的价格是40$**"
-	}
-	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
-	{
-		"chi"		"**VAGINA让好人重获新生**"
-	}
-	"***A VAGINA GIVES BIRTH TO BAD PEOPLE***"
-	{
-		"chi"		"**Vagina给生活带来坏的人生**"
-	}
-	"***A VAGINA MUST FOLLOW THE LAWS OF PHYSICS***"
-	{
-		"chi"		"**Vagina必须遵循物理学**"
-	}
-	"***A VAGINA CANNOT JUMP WITHOUT LEG FRIENDS***"
-	{
-		"chi"		"**VAGINA没有双腿不能跳**"
-	}
-	"***A VAGINA USUALLY CAUSES SMOKING***"
-	{
-		"chi"		"**VAGINA通常导致周围烟雾缭绕**"
-	}
-	"***A VAGINA WANTS TO SPIT YOU OUT***"
-	{
-		"chi"		"**Vagina想要你离开**"
-	}
-	"***THANK YOU FOR PARTICIPATING IN THIS SEX-ED CLASS***"
-	{
-		"chi"		"**谢谢你参加这个Sex-Ed课程**"
-	}
-	"***NOW GO OUT THERE AND DIDDLE EACH OTHER***"
-	{
-		"chi"		"**现在离开这里，欺骗每一个人**"
-	}
-	"***DADDY IS PROUD OF YOU***"
-	{
-		"chi"		"**爸爸为你感到自豪**"
-	}
-	"**jizz attack left**"
-	{
-		"chi"		"**精液攻击-左**"
-	}
-	"father"
-	{
-		"chi"		"**爸爸**"
-	}
-	"**stomp attack**"
-	{
-		"chi"		"**踩踏攻击**"
-	}
-	"***GET DIDDLING***"
-	{
-		"chi"		"**得到Diddling**"
-	}
-	"***YA DOODLERS***"
-	{
-		"chi"		"**呀 涂鸦者**"
-	}
-	"***RIP MY POODLE APART***"
-	{
-		"chi"		"**划开我的宝贝**"
-	}
-	"fist me"
-	{
-		"chi"		"**打我**"
-	}
-	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
-	{
-		"chi"		"**这个门将在40秒后打开**"
-		"DoorCountDown"		"40"
-	}
-	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
-	{
-		"chi"		"**这个门将在5秒后打开**"
-	}
-	"***THIS GATE SHALL BE OPENING RIGHT NOW***"
-	{
-		"chi"		"**这个门开了**"
-	}
-	"***FALL BACK, FELLOW HUMANS***"
-	{
-		"chi"		"**撤退，其余人类**"
-	}
-	"***YEE BETTER GET INSIDE, FELLAS***"
-	{
-		"chi"		"**你最好进去，小伙子们**"
-	}
-	"***IF YOU ENJOY THE FEELING OF BEING LEFT OUT...***"
-	{
-		"chi"		"**如果你喜欢当僵尸……**"
-	}
-	"***..THEN DONT GET INSIDE***"
-	{
-		"chi"		"**...那么不要进入里面**"
-	}
-	"***JUST STAY THERE AND CRY***"
-	{
-		"chi"		"**就在那里哭吧**"
-	}
-	"***1 LIKE = ONE PRAYER FOR JEBUS***"
-	{
-		"chi"		"**就像为JEBUS做祈祷一样**"
-	}
-	"***THE FETUS WANTS YOU***"
-	{
-		"chi"		"**胎儿想要你**"
-	}
-	"***THE FETUS NEEDS NUTRITION***"
-	{
-		"chi"		"**胎儿需要营养**"
-	}
-	"***THE FETUS NEEDS YOU***"
-	{
-		"chi"		"**胎儿需要你**"
-	}
-	"***WATCH OUT FOR SINKING PLATFORMS***"
-	{
-		"chi"		"**小心下沉的平台**"
-	}
-	"***HOLD THEM OFF FOR 30 SECONDS***"
-	{
-		"chi"		"**守住他们30秒**"
-		"DoorCountDown"		"30"
-	}
-	"***RUN***"
-	{
-		"chi"		"**跑**"
-	}
-	"***DIDDLE THEM OFF FOR 20 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***GO***"
-	{
-		"chi"		"** **"
-	}
-	"***EARN YOUR DIDDLERY***"
-	{
-		"chi"		"**赢得你的DIDDLERY**"
-	}
-	"***THIS MIGHT BE YOUR FINAL STAND***"
-	{
-		"chi"		"**这可能是你的最后一站了**"
-	}
-	"***HOLD THE LINE***"
-	{
-		"chi"		"**稍等**"
-	}
-	"***LOVE ISNT ALWAYS ON TIME***"
-	{
-		"chi"		"**爱并不永远在线**"
-	}
-	"***OH NO***"
-	{
-		"chi"		"**哦不！**"
-	}
-	"***A POWERFUL MAGICAL SEAL IS BLOCKING YOUR PATH TO VICTORY***"
-	{
-		"chi"		"**强大的魔术屏障阻挡了你的胜利之路**"
-	}
-	"***HOW WILL YOU EVER GET PAST THIS CHALLENGE?***"
-	{
-		"chi"		"**你将怎么通过这个挑战？**"
-	}
-	"***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***"
-	{
-		"chi"		"**你必须找到一个方法来打破这个强大的屏障**"
-	}
-	"***QUICKLY***"
-	{
-		"chi"		"**快一点**"
-	}
-	"***OH NO, THE SEAL IS TOO POWERFUL***"
-	{
-		"chi"		"**哦不，这个屏障太强大了**"
-	}
-	"***WE NEED TO SHOOT IT WITH ALL OUR MIGHT***"
-	{
-		"chi"		"**我们需要全力射击它**"
-	}
-	"***YOU DID IT!***"
-	{
-		"chi"		"**你做到了！**"
-	}
-	"***THE POWERFUL SEAL HAS BEEN BROKEN***"
-	{
-		"chi"		"**这个强大的屏障被打破了**"
-	}
-	"***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***"
-	{
-		"chi"		"**和平将在安哥拉土地上的传播**"
-	}
-	"***THE CHAPEL DOOR WILL OPEN IN 15 SECONDS***"
-	{
-		"chi"		"**教堂大门将在15秒后打开**"
-	}
-	"***THE ELEVATOR LEAVES IN 20 SECONDS***"
-	{
-		"chi"		"**电梯将在20秒后离开**"
-	}
-	"***THE MIDDLE GATE WILL OPEN IN 25 SECONDS***"
-	{
-		"chi"		"**中间的门将在25秒后打开**"
-	}
-	"***THE ELEVATOR LEAVES IN 10 SECONDS***"
-	{
-		"chi"		"**电梯将会在10秒后离开**"
-	}
-	"***THE ELEVATOR LEAVES IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE TOWER GATE IS OPENING IN 30 SECONDS***"
-	{
-		"chi"		"**塔门将在30秒后打开**"
-	}
-	"***THE ELEVATOR IS DIDDLING***"
-	{
-		"chi"		"** **"
-	}
-	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
-	{
-		"chi"		"**中间的门将会在5秒后打开**"
-	}
-	"***THE MIDDLE GATE IS DIDDLED***"
-	{
-		"chi"		"** **"
-	}
-	"***THE TOWER GATE IS OPENING IN 10 SECONDS***"
-	{
-		"chi"		"**塔门将在10秒后为我们打开**"
-	}
-	"***THE TOWER GATE IS OPENING IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE TOWER GATE IS DIDDLED***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS NEAR***"
-	{
-		"chi"		"**快到结局了**"
-	}
-	"***HOLD OUT FOR 30 SECONDS***"
-	{
-		"chi"		"**守住30秒**"
-	}
-	"***STAY STRONG FOR DADDY***"
-	{
-		"chi"		"**为了Daddy，坚持住**"
-	}
-	"***THE END IS COMING IN 20 SECONDS***"
-	{
-		"chi"		"**结局在20秒后到来**"
-	}
-	"***THE END IS COMING IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 4 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 3 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 2 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 1 SECOND***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS NIGH***"
-	{
-		"chi"		"**结局到来了**"
-	}
-	"***OH NO, ITS THE DIDDLE DICK***"
-	{
-		"chi"		"**哦不，这是Diddle Dick**"
-	}
-	"***PREPARE YER ARSEHOLES***"
-	{
-		"chi"		"**准备...**"
-	}
-	"***THE DIDDLERY IS COMING***"
-	{
-		"chi"		"**Diddlery来了**"
-	}
-	"***THE DIDDLE DICK HAS BEEN DEFEATED***"
-	{
-		"chi"		"**DIDDLE DICK被击败了**"
-	}
-	"***Defend for 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***TAKE A LEAP OF FAITH***"
-	{
-		"chi"		"**信仰之跃**"
-	}
-	"***YOU ARE THE ULTIMATE DIDDLERS***"
-	{
-		"chi"		"**你是最终的Diddlers**"
-	}
-	"***MAY THE DOODLING BE WITH YOU***"
-	{
-		"chi"		"**愿你的涂鸦与你同在**"
-	}
-	"***THIS IS A COLLABORATIVE MAP MADE BY:***"
-	{
-		"chi"		"**这是协助地图制作的：**"
-	}
-	"> LUFFAREN"
-	{
-		"chi"		"** **"
-	}
-	"> HICHATU"
-	{
-		"chi"		"** **"
-	}
-	"> TURTLE REACTIONS"
-	{
-		"chi"		"** **"
-	}
-	"> QAZLLL456"
-	{
-		"chi"		"** **"
-	}
-	"> THE ORDIAXER"
-	{
-		"chi"		"** **"
-	}
-	"***THANK YOU FOR PLAYING***"
-	{
-		"chi"		"**感谢你的参与**"
-	}
-	"***PURCHASED - BIG DICK***"
-	{
-		"chi"		"**已购买-大屌**"
-	}
-	"***PURCHASED - DISCO PUSH***"
-	{
-		"chi"		"**已购买-推力枪**"
-	}
-	"***RESETTING THE MAP***"
-	{
-		"chi"		"**重置地图**"
-	}
-	"***SKIPPING DIRECTLY TO FINALE***"
-	{
-		"chi"		"**直接跳到结局**"
-	}
-	"***PURCHASED - SMALL DICK***"
-	{
-		"chi"		"**已购买-小屌**"
-	}
-	"***PURCHASED - LEGENDARY HEAL***"
-	{
-		"chi"		"**已购买-大治疗**"
-	}
-	"***KILL BUTTON PRESSED***"
-	{
-		"chi"		"**唔,你要死了!**"
-	}
-	"***ALL COINS BUTTON PRESSED***"
-	{
-		"chi"		"**集齐所有硬币按钮被按下**"
-	}
-	"|====<YOU HAVE GATHERED ALL THE DIDDLE COINS>====|"
-	{
-		"chi"		">>>你收集到了所有的硬币<<<"
-	}
-	"|====<YOU ARE RICH AND PROUD, AND SHALL THEREFORE REACH GREATER HEIGHTS>====|"
-	{
-		"chi"		">>>你拥有丰富的财富，因此解锁隐藏关卡<<<"
-	}
-	"|====<PREPARE FOR THE ULTIMATE DIDDLING>====|"
-	{
-		"chi"		">>>为最后的Diddling做准备<<<"
-	}
-	"***PURCHASED - LEGENDARY GUARDIAN***"
-	{
-		"chi"		"**已购买-大守护者**"
-	}
-	"***SKIP STAGE - WEEB***"
-	{
-		"chi"		"**跳过关卡-Weeb**"
-	}
-	"***PURCHASED - DIDDLE CANNON***"
-	{
-		"chi"		"**已购买-欺诈者加农炮**"
-	}
-	"***THE DIDDLERY HAS BEEN DONE***"
-	{
-		"chi"		"**Diddlery已经完成了**"
-	}
-	"***HOWEVER, YOU ARE POOR AND SAD INSIDE***"
-	{
-		"chi"		"**然而，你内心却很可怜**"
-	}
-	"***COME BACK WHEN YOU ARE WEALTHIER***"
-	{
-		"chi"		"**回来吧，当你更富有的时候**"
-	}
-	"**jizz attack mid**"
-	{
-		"chi"		"**精液攻击-中间**"
-	}
-	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
-	{
-		"chi"		"**世界上可能至少有50个人喜欢闻猫的气味**"
-	}
-	"why do we even exist"
-	{
-		"chi"		"**为什么我们还存在着**"
-	}
-	"every night when i go to bed i think about the vast universe and how insignificant we are"
-	{
-		"chi"		"**每天晚上睡觉的时候我都会想到浩瀚的宇宙和我们是多么的渺小**"
-	}
-	"***HICHATU CANT MAKE MODELS IN BLENDER***"
-	{
-		"chi"		"**HICHATU不能在搅拌机中制作模型**"
-	}
-	"watch out for soggy ovaries"
-	{
-		"chi"		"**小心潮湿的卵巢**"
-	}
-	"*Tiki 1 Broken - There are 2 more tikis to find*"
-	{
-		"chi"		"**Tiki 1被打破-还有另外两个**"
-	}
-	"*Tiki 3 Broken*"
-	{
-		"chi"		"**Tiki 3被打破**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"82646"
-	}
-	"zombie ladder is open"
-	{
-		"chi"		"**僵尸梯子开放**"
-	}
-	"***YOU TOOK TOO LONG - NUKING HUMANS***"
-	{
-		"chi"		"**你花了太长的时间-核弹杀死了所有人类**"
-	}
-	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
-	{
-		"chi"		"**爸爸，噢，爸爸，舔我的乳头**"
-	}
-	"GIT OUT OF MI HOUUUUUSE"
-	{
-		"chi"		"**Git离开了我的房子**"
-	}
-	"*Pull attack*"
-	{
-		"chi"		"**拉拽攻击**"
-	}
-	"i love you"
-	{
-		"chi"		"**我爱你**"
-	}
-	"***TELEPORTING OUT IN 4 MINUTES***"
-	{
-		"chi"		"**传送4分钟后开始**"
-	}
-	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
-	{
-		"chi"		"**烧掉所有的房子，并把5个WEEBS杀死**"
-	}
-	"***ESCAPE YOUR LOVE***"
-	{
-		"chi"		"**逃避你的爱**"
-	}
-	"***FAREWELL YOUR LOVE***"
-	{
-		"chi"		"**告别你的爱**"
-	}
-	"***Since you are doing so well, i figure that i should make it harder for you***"
-	{
-		"chi"		"**因为你做得很好，我想我应该让你玩更难的**"
-	}
-	"***I will heal the big turtle every now and then***"
-	{
-		"chi"		"**我会时不时的治愈大海龟**"
-	}
-	"***Because i am a naughty little turtle.. rowr XD***"
-	{
-		"chi"		"**因为我是一只顽皮的小乌龟..rowr XD**"
-	}
-	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:30 MINUTES)***"
-	{
-		"chi"		"**如果你花费的时间太长(2分30秒)，你就会被传送**"
-	}
-	"***HOLD THEM OFF FOR A LONG TIME***"
-	{
-		"chi"		"**拖延它们很长一段时间**"
-	}
-	"***SKIP STAGE - SHREK***"
-	{
-		"chi"		"** **"
-	}
-	"***SKIP STAGE - DDAY***"
-	{
-		"chi"		"** **"
-	}
-	"***SKIP STAGE - DIGLETT***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"**服务器即将关闭，请关闭你的游戏**"
-	}
-	"***SKIP STAGE - TURTLE***"
-	{
-		"chi"		"** **"
-	}
-	"*****ROUND END*****"
-	{
-		"chi"		"**回合结束，QAQ**"
-	}
-	"<== You must find the bomb to open the way"
-	{
-		"chi"		"** **"
-	}
-	"defend for 30 sec"
-	{
-		"chi"		"** **"
-	}
-	"***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***"
-	{
-		"chi"		"** **"
-	}
-	"<== Wait 25 second to go to heilcopter==>"
-	{
-		"chi"		"** **"
-	}
-	"***ZOMBIES TELEPORT IN 15 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ZOMBIES TELEPORT IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ZOMBIES TELEPORT IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ZOMBIES TELEPORTING***"
-	{
-		"chi"		"** **"
-	}
-	"***ZOMBIES REACHED ELEVATOR - YOURE DEAD***"
-	{
-		"chi"		"**僵尸抵达了电梯——你完了 XwX**"
-	}
-	"***DEFEND FOR 50 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
-	{
-		"chi"		"** **"
-	}
-	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
-	{
-		"chi"		"****如果你花太长时间（2：20内）你将会被传送出去****"
-	}
-	"hold 15sec"
-	{
-		"chi"		"** **"
-	}
-	"<==Get in the helicopter and out in 80s ==>"
-	{
-		"chi"		">>><==进入直升机防守80秒==><<<"
-	}
-	"<==helicopter fly out in 30s ==>"
-	{
-		"chi"		"** **"
-	}
-	"<==helicopter fly out in 15s ==>"
-	{
-		"chi"		"** **"
-	}
-	"<==helicopter fly out in 5s ==>"
-	{
-		"chi"		"** **"
-	}
-	"<<<ZOMBIE TP TO BOSS>>>"
-	{
-		"chi"		"** **"
-	}
-	"***YOU TOOK TOO LONG - RELEASING ZOMBIES***"
-	{
-		"chi"		"** **"
-	}
-	"BUILD A LADDER ||-----||"
-	{
-		"chi"		"****造一条梯子****"
-	}
-	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1010975"
+		"m_iname"		"ITEMX_qaz_item_shields2&9373"
 	}
 }

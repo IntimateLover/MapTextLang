@@ -1,201 +1,333 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Difficulty : Easy ***"
+	"743184"
 	{
-		"chi"		"难度：简单"
+		"enable"		"0"
+		"hammerid"		"743184"
+		"m_iname"		"stage1_phys"
 	}
-	"For POSSESSION , Respected Sakura"
+	"522161"
 	{
-		"chi"		"For POSSESSION , Respected Sakura"
+		"enable"		"0"
+		"hammerid"		"522161"
+		"m_iname"		"ddr_breakable"
 	}
-	"Map Support : Xquality  SHUFEN"
+	"9678"
 	{
-		"chi"		"地图制作于：Xquality SHUFEN"
+		"enable"		"0"
+		"hammerid"		"9678"
+		"m_iname"		"box 2"
 	}
-	"Map Arranged by Airvulpes"
+	"9686"
 	{
-		"chi"		"地图修改于：Airvulpes"
+		"enable"		"0"
+		"hammerid"		"9686"
+		"m_iname"		"box 3"
 	}
-	"Elivator leaving in: 3"
+	"13186"
 	{
-		"chi"		"**电梯将在 3秒后 上升**"
-		"DoorCountDown"		"3"
+		"enable"		"0"
+		"hammerid"		"13186"
+		"m_iname"		"stage1_phys"
 	}
-	"Remaining 5 seconds !"
+	"15741"
 	{
-		"chi"		"守住5秒！"
+		"enable"		"0"
+		"hammerid"		"15741"
+		"m_iname"		"stage2_phys"
 	}
-	"Door opening in 5 seconds!"
+	"17120"
 	{
-		"chi"		"门在5秒后打开！"
+		"enable"		"0"
+		"hammerid"		"17120"
+		"m_iname"		"stage3_phys"
 	}
-	"Tram leaving in 10 seconds!"
+	"40788"
 	{
-		"chi"		"运输车在10秒后离开"
-		"DoorCountDown"		"10"
+		"enable"		"0"
+		"hammerid"		"40788"
+		"m_iname"		"stage3_breakbrush1"
 	}
-	"Security doors closing in 10."
+	"96711"
 	{
-		"chi"		"安全门在十秒后关闭！"
+		"enable"		"0"
+		"hammerid"		"96711"
+		"m_iname"		"stage4_phys"
 	}
-	"Train leaving in 30 seconds."
+	"178640"
 	{
-		"chi"		"火车在30秒后离开！"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"178640"
+		"m_iname"		"stage5_phys"
 	}
-	"Train leaving in 20 seconds."
+	"373738"
 	{
-		"chi"		"火车在20秒后离开！"
+		"enable"		"0"
+		"hammerid"		"373738"
+		"m_iname"		"last_battle_breakble"
 	}
-	"Train leaving in 10 seconds."
+	"374083"
 	{
-		"chi"		"火车在10秒后离开！"
+		"enable"		"0"
+		"hammerid"		"374083"
+		"m_iname"		"tibo_breakable1_2"
 	}
-	"Train is leaving."
+	"374086"
 	{
-		"chi"		"火车走啦！！！"
+		"enable"		"0"
+		"hammerid"		"374086"
+		"m_iname"		"tibo_breakable1_1"
 	}
-	"Mini train leaving in 5 seconds."
+	"374089"
 	{
-		"chi"		"迷你火车5秒后离开！"
+		"enable"		"0"
+		"hammerid"		"374089"
+		"m_iname"		"tibo_breakable1_3"
 	}
-	"Tracks crashed ahead"
+	"374092"
 	{
-		"chi"		"前方火车坠毁！(快跳车！)"
+		"enable"		"0"
+		"hammerid"		"374092"
+		"m_iname"		"tibo_breakable1_4"
 	}
-	"Incoming nuke!!!"
+	"374167"
 	{
-		"chi"		"即将发生核爆BOOM！"
+		"enable"		"0"
+		"hammerid"		"374167"
+		"m_iname"		"tibo_breakable1_5"
 	}
-	"*** Difficulty : Normal ***"
+	"374170"
 	{
-		"chi"		"难度：一般"
+		"enable"		"0"
+		"hammerid"		"374170"
+		"m_iname"		"tibo_breakable1_6"
 	}
-	"*** Difficulty : Hard ***"
+	"374173"
 	{
-		"chi"		"难度：困难"
+		"enable"		"0"
+		"hammerid"		"374173"
+		"m_iname"		"tibo_breakable1_7"
 	}
-	"Door opening in 15 seconds!"
+	"374176"
 	{
-		"chi"		"门在15秒后打开！"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"374176"
+		"m_iname"		"tibo_breakable1_8"
 	}
-	"Hold 20 seconds !"
+	"374179"
 	{
-		"chi"		"继续防守20秒！"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"374179"
+		"m_iname"		"tibo_breakable1_9"
 	}
-	"Helicopter leaves 20 seconds!"
+	"374182"
 	{
-		"chi"		"直升机在20秒后起飞！"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"374182"
+		"m_iname"		"tibo_breakable1_10"
 	}
-	"remaining 5 seconds!"
+	"374185"
 	{
-		"chi"		"还有5秒！"
+		"enable"		"0"
+		"hammerid"		"374185"
+		"m_iname"		"tibo_breakable1_11"
 	}
-	"*** Difficulty : Extreme ***"
+	"374188"
 	{
-		"chi"		"难度：极限"
+		"enable"		"0"
+		"hammerid"		"374188"
+		"m_iname"		"tibo_breakable1_12"
 	}
-	"Remaining 15 seconds !"
+	"374191"
 	{
-		"chi"		"还有15秒！"
+		"enable"		"0"
+		"hammerid"		"374191"
+		"m_iname"		"tibo_breakable2_1"
 	}
-	"Door opening in 100 seconds!"
+	"374194"
 	{
-		"chi"		"大门在100秒后打开！"
-		"DoorCountDown"		"100"
+		"enable"		"0"
+		"hammerid"		"374194"
+		"m_iname"		"tibo_breakable2_2"
 	}
-	"Remaining 50 seconds!"
+	"374197"
 	{
-		"chi"		"还有50秒！"
+		"enable"		"0"
+		"hammerid"		"374197"
+		"m_iname"		"tibo_breakable2_3"
 	}
-	"Remaining 10 seconds!"
+	"374200"
 	{
-		"chi"		"最后10秒，坚持住！"
+		"enable"		"0"
+		"hammerid"		"374200"
+		"m_iname"		"tibo_breakable2_4"
 	}
-	"*** Difficulty : Insane ***"
+	"374203"
 	{
-		"command"		"zr_infect_spawntime_min 25.0"
-		"command"		"zr_infect_spawntime_max 25.0"
-		"chi"		"难度：超越极限"
-		"force_round_end"		"1"
+		"enable"		"0"
+		"hammerid"		"374203"
+		"m_iname"		"tibo_breakable2_5"
 	}
-	"*** Difficulty : rtv ***"
+	"374206"
 	{
-		"chi"		"难度：RTV吧！愚蠢的人类！"
+		"enable"		"0"
+		"hammerid"		"374206"
+		"m_iname"		"tibo_breakable2_6"
 	}
-	"Door opening in 80 seconds!"
+	"374209"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"374209"
+		"m_iname"		"tibo_breakable2_7"
 	}
-	"Remaining 40 seconds!"
+	"374212"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"374212"
+		"m_iname"		"tibo_breakable2_8"
 	}
-	"Admin pressed rtv button"
+	"374215"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"374215"
+		"m_iname"		"tibo_breakable2_9"
 	}
-	"Admin pressed Insane button"
+	"374218"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"374218"
+		"m_iname"		"tibo_breakable2_10"
 	}
-	"Admin pressed Extreme button"
+	"374221"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"374221"
+		"m_iname"		"tibo_breakable2_11"
 	}
-	"Admin pressed Ex disable button"
+	"374224"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"374224"
+		"m_iname"		"tibo_breakable2_12"
 	}
-	"Admin pressed Ex button"
+	"375804"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"375804"
+		"m_iname"		"lastbosstarget"
 	}
-	"Admin pressed Normal button"
+	"396708"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"396708"
+		"m_iname"		"stage6_phys"
 	}
-	"Admin pressed Easy button"
+	"342210"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"342210"
+		"m_iname"		"stage5_zeus"
 	}
-	"sync_version"
+	"728196"
 	{
-		"syncvalue"		"87347"
+		"enable"		"0"
+		"hammerid"		"728196"
+		"m_iname"		"pain_target1"
 	}
-	"For POSSESSION, Respect to Sakura"
+	"728440"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728440"
+		"m_iname"		"pain_target2"
 	}
-	"Based-map by Xquality"
+	"728461"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728461"
+		"m_iname"		"pain_target3"
 	}
-	"Map Supported by SHUFEN"
+	"728482"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728482"
+		"m_iname"		"pain_target4"
 	}
-	"powered by sakura , possession"
+	"728500"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728500"
+		"m_iname"		"pain_target5"
 	}
-	"Admin pressed Hard button"
+	"728524"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728524"
+		"m_iname"		"pain_target6"
 	}
-	"The server is about to close the update ,Please update your game"
+	"728548"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728548"
+		"m_iname"		"pain_target7"
 	}
-	"This round is not legit win"
+	"728575"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728575"
+		"m_iname"		"pain_target8"
 	}
-	"Admin Pressed Adminroom button"
+	"728626"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"728626"
+		"m_iname"		"pain_target10"
+	}
+	"728659"
+	{
+		"enable"		"0"
+		"hammerid"		"728659"
+		"m_iname"		"pain_target11"
+	}
+	"728686"
+	{
+		"enable"		"0"
+		"hammerid"		"728686"
+		"m_iname"		"pain_target12"
+	}
+	"711282"
+	{
+		"enable"		"0"
+		"hammerid"		"711282"
+		"m_iname"		"pain_target"
+	}
+	"728596"
+	{
+		"enable"		"0"
+		"hammerid"		"728596"
+		"m_iname"		"pain_target9"
+	}
+	"753482"
+	{
+		"enable"		"0"
+		"hammerid"		"753482"
+		"m_iname"		"exdarktarget"
+	}
+	"752374"
+	{
+		"enable"		"0"
+		"hammerid"		"752374"
+		"m_iname"		"exholytarget"
+	}
+	"1003367"
+	{
+		"enable"		"0"
+		"hammerid"		"1003367"
+		"m_iname"		"omanko9_phys"
+	}
+	"754548"
+	{
+		"enable"		"0"
+		"hammerid"		"754548"
+		"m_iname"		"expain_target"
 	}
 }

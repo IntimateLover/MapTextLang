@@ -1,136 +1,195 @@
-"Console_T"
+"BOSSHP"
 {
-	"* * Map by Mojonero * *"
+	"9307"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"9307"
+		"m_iname"		"garr"
 	}
-	"**Shaft 2 will open in 15 seconds**"
+	"10146"
 	{
-		"chi"		"**杆2将在15秒后启动 **"
+		"enable"		"0"
+		"hammerid"		"10146"
+		"m_iname"		"pipe"
 	}
-	"**Door 2 will open in 10 seconds**"
+	"12548"
 	{
-		"chi"		"**第二道大门将在10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"12548"
+		"m_iname"		"radiation"
 	}
-	"**Elevator is activated. Leaving in 12 seconds**"
+	"15942"
 	{
-		"chi"		"**电梯已启动.12秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"15942"
+		"m_iname"		"hhhhhhhhhhh"
 	}
-	"**The swine flu disease will reach the first floor in 10 seconds**"
+	"16103"
 	{
-		"chi"		"**猪流感病会在10后内到达一楼 **"
+		"enable"		"0"
+		"hammerid"		"16103"
+		"m_iname"		"daaaa"
 	}
-	"**The poison waste machines have been activated**"
+	"16111"
 	{
-		"chi"		"**有毒的废弃机器已经被激活 **"
+		"enable"		"0"
+		"hammerid"		"16111"
+		"m_iname"		"daaaa"
 	}
-	"**The elevator door will open in 40 seconds**"
+	"16616"
 	{
-		"chi"		"**电梯门将在40秒后打开 **"
-		"DoorCountDown" "40"
+		"enable"		"0"
+		"hammerid"		"16616"
+		"m_iname"		"daaaa"
 	}
-	"**The elevator door will open in 10 seconds**"
+	"9043"
 	{
-		"chi"		"**电梯门将在10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"9043"
+		"m_iname"		"oh"
 	}
-	"**The elevator door is now open. Closing in 5 seconds**"
+	"9051"
 	{
-		"chi"		"**电梯门已开.5秒后离开 **"
+		"enable"		"0"
+		"hammerid"		"9051"
+		"m_iname"		"oh"
 	}
-	"**The ebola disease will reach the second floor in 10 seconds**"
+	"9059"
 	{
-		"chi"		"**埃博拉疫情将在10秒后到达二楼 **"
+		"enable"		"0"
+		"hammerid"		"9059"
+		"m_iname"		"oh"
 	}
-	"**Final Door will open in 30 seconds**"
+	"9067"
 	{
-		"chi"		"**最后的大门将在30秒后打开 **"
-		"DoorCountDown" "30"
+		"enable"		"0"
+		"hammerid"		"9067"
+		"m_iname"		"oh"
 	}
-	"**The infected have passed the final door!**"
+	"9075"
 	{
-		"chi"		"**僵尸到达-无效胜利 **"
+		"enable"		"0"
+		"hammerid"		"9075"
+		"m_iname"		"oh"
 	}
-	"**Zombies will be teleported in 35 secs!**"
+	"9083"
 	{
-		"chi"		"**僵尸将在35秒后传送 **"
-		"DoorCountDown" "35"
+		"enable"		"0"
+		"hammerid"		"9083"
+		"m_iname"		"oh"
 	}
-	"**Zombies arriving closer in 20 secs!**"
+	"9091"
 	{
-		"chi"		"**僵尸20秒后抵达 **"
+		"enable"		"0"
+		"hammerid"		"9091"
+		"m_iname"		"oh"
 	}
-	"**The bridge is preparing for activation...**"
+	"9790"
 	{
-		"chi"		"**正在激活这座桥... **"
+		"enable"		"0"
+		"hammerid"		"9790"
+		"m_iname"		"after"
 	}
-	"**Door 1 will open in 10 seconds**"
+	"9798"
 	{
-		"chi"		"**第一道门将在10秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"9798"
+		"m_iname"		"after"
 	}
-	"**Shaft 1 will open in 15 seconds**"
+	"9833"
 	{
-		"chi"		"**杆1将在10秒后启动 **"
+		"enable"		"0"
+		"hammerid"		"9833"
+		"m_iname"		"je"
 	}
-	"**The junk machines will start in 3 seconds...**"
+	"10163"
 	{
-		"chi"		"**装废品的机器将在3秒后启动... **"
+		"enable"		"0"
+		"hammerid"		"10163"
+		"m_iname"		"holder"
 	}
-	"**Prevent the infected from crossing the bridge!**"
+	"12511"
 	{
-		"chi"		"**不要让僵尸过桥！ **"
+		"enable"		"0"
+		"hammerid"		"12511"
+		"m_iname"		"damage"
 	}
-	"**Zombies arriving in 5 secs!**"
+	"12660"
 	{
-		"chi"		"**僵尸5秒后打开 **"
+		"enable"		"0"
+		"hammerid"		"12660"
+		"m_iname"		"gbbb"
 	}
-	"**Activated the emergency button...**"
+	"15729"
 	{
-		"chi"		"**启动紧急按钮.... **"
+		"enable"		"0"
+		"hammerid"		"15729"
+		"m_iname"		"br"
 	}
-	"**Preparing fuel. Help will arrive in 40 seconds**"
+	"15794"
 	{
-		"chi"		"**准备燃料.40秒后救援到达 **"
-		"DoorCountDown" "40"
+		"enable"		"0"
+		"hammerid"		"15794"
+		"m_iname"		"br"
 	}
-	"**The teleports are now enabled!**"
+	"15974"
 	{
-		"chi"		"**现在启动传送 **"
+		"enable"		"0"
+		"hammerid"		"15974"
+		"m_iname"		"br"
 	}
-	"**Help will arrive in 20 seconds**"
+	"16037"
 	{
-		"chi"		"**救援20秒后到达 **"
+		"enable"		"0"
+		"hammerid"		"16037"
+		"m_iname"		"sc"
 	}
-	"**Help will arrive in 10 seconds!**"
+	"16643"
 	{
-		"chi"		"**救援10秒后到达 **"
+		"enable"		"0"
+		"hammerid"		"16643"
+		"m_iname"		"boxes"
 	}
-	"**Help has arrived. Departure in 15 seconds**"
+	"16651"
 	{
-		"chi"		"**救援已抵达.15秒后离开 **"
-		"DoorCountDown" "15"
+		"enable"		"0"
+		"hammerid"		"16651"
+		"m_iname"		"boxes"
 	}
-	"** Defend the gates until departure!**"
+	"16938"
 	{
-		"chi"		"**守住大门直到我们离开！ **"
+		"enable"		"0"
+		"hammerid"		"16938"
+		"m_iname"		"boxxy"
 	}
-	"**Departure in 5 seconds**"
+	"17096"
 	{
-		"chi"		"**5秒后离开-装逼的自重 **"
+		"enable"		"0"
+		"hammerid"		"17096"
+		"m_iname"		"boxes"
 	}
-	"**The nukes have been launched!!**"
+	"17104"
 	{
-		"chi"		"**核弹已经启动！！ **"
+		"enable"		"0"
+		"hammerid"		"17104"
+		"m_iname"		"boxes"
 	}
-	"**Map made by: Westsid3r**"
+	"17112"
 	{
-		"chi"		"**地图制作：Westsid3r 地图翻译:蓬莱山帅比♪**"
+		"enable"		"0"
+		"hammerid"		"17112"
+		"m_iname"		"boxes"
 	}
-	"**Closing gates in...**"
+	"17221"
 	{
-		"chi"		"**关闭大门... **"
+		"enable"		"0"
+		"hammerid"		"17221"
+		"m_iname"		"boxes"
 	}
-	"**The machines have now been shut off...**"
+	"17440"
 	{
-		"chi"		"**机器已经被关闭了… **"
+		"enable"		"0"
+		"hammerid"		"17440"
+		"m_iname"		"boxxy"
 	}
 }

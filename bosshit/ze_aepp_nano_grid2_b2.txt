@@ -1,47 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"** Ape Escape : Pumped & Primed **"
+	"359397"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"359397"
+		"m_iname"		"DoubleJump_phys&9855"
 	}
-	"** Nano Grid2 12 **"
+	"349198"
 	{
-		"chi"		"**地图：纳米网格 **"
+		"enable"		"0"
+		"hammerid"		"349198"
+		"m_iname"		"Barrier1_1"
 	}
-	"** Map by ryo **"
+	"349240"
 	{
-		"chi"		"**地图作者:RYO 翻译：我不信没用户名 **"
+		"enable"		"0"
+		"hammerid"		"349240"
+		"m_iname"		"Barrier1_2"
 	}
-	"** 10 seconds **"
+	"349279"
 	{
-		"chi"		"**还有10秒 **"
+		"enable"		"0"
+		"hammerid"		"349279"
+		"m_iname"		"Barrier1_3"
 	}
-	"** 25 seconds **"
+	"349321"
 	{
-		"chi"		"**还有25秒 **"
+		"enable"		"0"
+		"hammerid"		"349321"
+		"m_iname"		"Barrier1_4"
 	}
-	"** 5 seconds **"
+	"350300"
 	{
-		"chi"		"**还有5秒 **"
+		"enable"		"0"
+		"hammerid"		"350300"
+		"m_iname"		"Gimmick_Lift_Glass"
 	}
-	"** 15 seconds **"
+	"331813"
 	{
-		"chi"		"**还有15秒 **"
+		"enable"		"0"
+		"hammerid"		"331813"
+		"m_iname"		"Gimmick_Lift_Damage"
 	}
-	"** 20 seconds **"
+	"173711"
 	{
-		"chi"		"**还有20秒 **"
+		"enable"		"0"
+		"hammerid"		"173711"
+		"m_iname"		"Breakable1"
 	}
-	"** 30 seconds **"
+	"351164"
 	{
-		"chi"		"**还有30秒 **"
+		"enable"		"0"
+		"hammerid"		"351164"
+		"m_iname"		"Barrier2_7"
 	}
-	"** Nano Grid2 22 **"
+	"349439"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"349439"
+		"m_iname"		"Barrier2_1"
 	}
-	"** HUMANS WIN **"
+	"349797"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"349797"
+		"m_iname"		"Barrier2_4"
+	}
+	"350138"
+	{
+		"enable"		"0"
+		"hammerid"		"350138"
+		"m_iname"		"Barrier2_6"
+	}
+	"349559"
+	{
+		"enable"		"0"
+		"hammerid"		"349559"
+		"m_iname"		"Barrier2_2"
+	}
+	"349668"
+	{
+		"enable"		"0"
+		"hammerid"		"349668"
+		"m_iname"		"Barrier2_3"
+	}
+	"350000"
+	{
+		"enable"		"0"
+		"hammerid"		"350000"
+		"m_iname"		"Barrier2_5"
+	}
+	"368553"
+	{
+		"enable"		"0"
+		"hammerid"		"368553"
+		"m_iname"		"St2_Zombie1"
+	}
+	"368616"
+	{
+		"enable"		"0"
+		"hammerid"		"368616"
+		"m_iname"		"St2_Zombie2"
 	}
 }

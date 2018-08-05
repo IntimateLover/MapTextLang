@@ -1,444 +1,561 @@
-"Console_T"
+"BOSSHP"
 {
-	"** Thanks to Kaemon **"
+	"7917650"
 	{
-		"chi"		"**感谢：Kaemon **"
+		"enable"		"0"
+		"hammerid"		"7917650"
+		"m_iname"		"physthas_human_item_goliath_2"
 	}
-	"** MAP BY Hannibal [SPA] (Rafuron) **"
+	"834038"
 	{
-		"chi"		"**地图制作:Hannibal [SPA] (Rafuron) 地图翻译：蓬莱山帅比♪ **"
+		"enable"		"0"
+		"hammerid"		"834038"
+		"m_iname"		"cata2_2"
 	}
-	"** This is the round 0 ** you are playing alone ** wait until more players or suicide **"
+	"834818"
 	{
-		"chi"		"**这是热身回合**你正在独自游戏**等待更多的人或自杀 **"
+		"enable"		"0"
+		"hammerid"		"834818"
+		"m_iname"		"cata1_2"
 	}
-	"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
+	"1397558"
 	{
-		"chi"		"**回合将在几秒后开始 **确认你的神器等级并以此获得相对应的神器**"
+		"enable"		"0"
+		"hammerid"		"1397558"
+		"m_iname"		"item_escalera_6_2"
 	}
-	"** WARMUP ROUND **"
+	"1397583"
 	{
-		"chi"		"**热身回合**"
+		"enable"		"0"
+		"hammerid"		"1397583"
+		"m_iname"		"item_escalera_6"
 	}
-	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **"
+	"1397673"
 	{
-		"chi"		"**热身赛**核弹60秒后发射 **"
+		"enable"		"0"
+		"hammerid"		"1397673"
+		"m_iname"		"item_armor_2_3"
 	}
-	"** Tip 1 : press +use on pickable objects to build barricades **"
+	"1397676"
 	{
-		"chi"		"**提示1：按E键可设置路障 **"
+		"enable"		"0"
+		"hammerid"		"1397676"
+		"m_iname"		"item_armor_2_2"
 	}
-	"** Tip 2 : reach and win the end of a stage to level up **"
+	"1397695"
 	{
-		"chi"		"**提示2：到达并赢得胜利以解锁新关卡 **"
+		"enable"		"0"
+		"hammerid"		"1397695"
+		"m_iname"		"item_armor_1_2"
 	}
-	"** Tip 3 : take items at zombie and human shops in spawn **"
+	"1397702"
 	{
-		"chi"		"**提示3：在僵尸和人类神器点可以拿到神器 **"
+		"enable"		"0"
+		"hammerid"		"1397702"
+		"m_iname"		"item_armor_1_3"
 	}
-	"** Tip 4 : your current level is your score divided by 100 approximately **"
+	"2347146"
 	{
-		"chi"		"**提示4：你目前的神器等级是你的分数除以100 **"
+		"enable"		"0"
+		"hammerid"		"2347146"
+		"m_iname"		"physthas_human_item_horse_8"
 	}
-	"** Tip 5 : barricades health depends on the size and material **"
+	"2347185"
 	{
-		"chi"		"**提示5：路障的坚固程度取决于它的大小和所用的材料 **"
+		"enable"		"0"
+		"hammerid"		"2347185"
+		"m_iname"		"physthas_human_newH_item_horse_"
 	}
-	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
+	"2347582"
 	{
-		"chi"		"**提示6：尽可能长时间的在前面防守**"
+		"enable"		"0"
+		"hammerid"		"2347582"
+		"m_iname"		"physthas_human_item_gandalf_15"
 	}
-	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
+	"2420999"
 	{
-		"chi"		"**提示7：卫兵可以阻拦僵尸，你可以通过他们射击僵尸 **"
+		"enable"		"0"
+		"hammerid"		"2420999"
+		"m_iname"		"physthas_zombie_item_balrog_hp"
 	}
-	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
+	"135745"
 	{
-		"chi"		"**提示8：僵尸的神器中梯子和炸弹是很强大的神器，你必须杀死拿这些神器的僵尸 **"
+		"enable"		"0"
+		"hammerid"		"135745"
+		"m_iname"		"stage_1_door_2"
 	}
-	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
+	"144021"
 	{
-		"chi"		"**提示9：你可以把路障放在卫兵的身边以获得最大的功效 **"
+		"enable"		"0"
+		"hammerid"		"144021"
+		"m_iname"		"puerta1"
 	}
-	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
+	"1267461"
 	{
-		"chi"		"**提示10：骑兵和盾牌有PUSH效果,请小心使用 **"
+		"enable"		"0"
+		"hammerid"		"1267461"
+		"m_iname"		"stage_1_retreat_door_3"
 	}
-	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
+	"1658377"
 	{
-		"chi"		"**热身赛**核弹10秒后发射 **"
+		"enable"		"0"
+		"hammerid"		"1658377"
+		"m_iname"		"stage_3_door11b"
 	}
-	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	"1658399"
 	{
-		"chi"		"**提示11：炎魔的吼叫会治愈并增加附近僵尸的速度 **"
+		"enable"		"0"
+		"hammerid"		"1658399"
+		"m_iname"		"stage_3_door10b2"
 	}
-	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
+	"1734663"
 	{
-		"chi"		"**提示12：第四关WC在第二个塔的顶部（在木坡道后右转） **"
+		"enable"		"0"
+		"hammerid"		"1734663"
+		"m_iname"		"stage_4_door_noborrar2"
 	}
-	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
+	"2028755"
 	{
-		"chi"		"**当前阶段>>第一阶段>>奥斯吉力亚斯之战 **"
+		"enable"		"0"
+		"hammerid"		"2028755"
+		"m_iname"		"stage_3_breakable"
 	}
-	"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
+	"2028776"
 	{
-		"chi"		"**回合已经开始**会启动一个传送门**大规模传送将在20秒后启动 **"
+		"enable"		"0"
+		"hammerid"		"2028776"
+		"m_iname"		"stage_3_breakable2"
 	}
-	"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
+	"3512310"
 	{
-		"chi"		"**船来了**准备防守**"
+		"enable"		"0"
+		"hammerid"		"3512310"
+		"m_iname"		"spawn"
 	}
-	"** RESIST 20 SECONDS! **"
+	"6230569"
 	{
-		"chi"		"**守住20秒！ **"
-		"DoorCountdown"		"20"
+		"enable"		"0"
+		"hammerid"		"6230569"
+		"m_iname"		"physthas_human_item_armor_1_d2"
 	}
-	"** RETREAT !! RIVER ZONE IS LOST **"
+	"6230623"
 	{
-		"chi"		"**撤退！我们丢掉了这个地方 **"
+		"enable"		"0"
+		"hammerid"		"6230623"
+		"m_iname"		"physthas_human_item_armor_2_d2"
 	}
-	"** WATCH OUT! WE ARE UNDER SIEGE **"
+	"6456212"
 	{
-		"chi"		"**当心！我们被包围了 **"
+		"enable"		"0"
+		"hammerid"		"6456212"
+		"m_iname"		"rampas"
 	}
-	"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
+	"7023611"
 	{
-		"chi"		"**骑上马！（对着马按E后不停的按W加速）**"
+		"enable"		"0"
+		"hammerid"		"7023611"
+		"m_iname"		"seguridad"
 	}
-	"** ADMIN PRESSED KILL ALL BUTTON **"
+	"4392144"
 	{
-		"chi"		"**管理员按下了杀死所有人的按钮 **"
+		"enable"		"0"
+		"hammerid"		"4392144"
+		"m_iname"		"stage_1_spawnear"
 	}
-	"** THE WHITE KNIGHT IS READY ROCK THE WORLD**"
+	"4392160"
 	{
-		"chi"		"**白衣骑士已准备战斗 **"
+		"enable"		"0"
+		"hammerid"		"4392160"
+		"m_iname"		"stage_1_spawnear"
 	}
-	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
+	"6855900"
 	{
-		"chi"		"**守住奥斯吉力亚斯！我们不能没有战斗就离开这个地方（30秒） **"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"6855900"
+		"m_iname"		"stage_1_spawnear"
 	}
-	"** OSGILIATH IS LOST ** RETREAT ! **"
+	"1550580"
 	{
-		"chi"		"**奥斯吉力亚斯丢了**撤退！ **"
+		"enable"		"0"
+		"hammerid"		"1550580"
+		"m_iname"		"object_soldier_5_2&6902"
 	}
-	"** DOOR IS OPENING **"
+	"1550597"
 	{
-		"chi"		"**门开了 **"
+		"enable"		"0"
+		"hammerid"		"1550597"
+		"m_iname"		"object_soldier_5_3&6876"
 	}
-	"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
+	"4277732"
 	{
-		"chi"		"**僵尸来了！关上门! **"
+		"enable"		"0"
+		"hammerid"		"4277732"
+		"m_iname"		"barricade_1&6497"
 	}
-	"** DOOR IS CLOSED **"
+	"4277697"
 	{
-		"chi"		"**门关了 **"
+		"enable"		"0"
+		"hammerid"		"4277697"
+		"m_iname"		"barricade_12&6614"
 	}
-	"** STAGE COMPLETED **"
+	"4277725"
 	{
-		"chi"		"**阶段完成 **"
+		"enable"		"0"
+		"hammerid"		"4277725"
+		"m_iname"		"barricade_2&6526"
 	}
-	"** KILL THE REMAINING ZOMBIES! **"
+	"1518679"
 	{
-		"chi"		"**杀死剩余的僵尸 **"
+		"enable"		"0"
+		"hammerid"		"1518679"
+		"m_iname"		"physthas_zombie_item_nazgul_7&6"
 	}
-	"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
+	"1518682"
 	{
-		"chi"		"**当前阶段>>第二阶段>>主大门 **"
+		"enable"		"0"
+		"hammerid"		"1518682"
+		"m_iname"		"physthas_zombie_item_nazgul_7&6"
 	}
-	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	"6484309"
 	{
-		"chi"		"**...暗影与火的怪物即将出现... **"
+		"enable"		"0"
+		"hammerid"		"6484309"
+		"m_iname"		"nazgul_corpse2&6673"
 	}
-	"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
+	"4277722"
 	{
-		"chi"		"**我们失去了对这里的控制！撤退！ **"
+		"enable"		"0"
+		"hammerid"		"4277722"
+		"m_iname"		"barricade_3&3930"
 	}
-	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT**"
+	"5077151"
 	{
-		"chi"		"**有兽人通过了我们的防御 ** 撤退 **"
+		"enable"		"0"
+		"hammerid"		"5077151"
+		"m_iname"		"stage_2_spawnear"
 	}
-	"** WATCH OUT! **"
+	"3155249"
 	{
-		"chi"		"**当心！ **"
+		"enable"		"0"
+		"hammerid"		"3155249"
+		"m_iname"		"stage_2_triggerx"
 	}
-	"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
+	"1582045"
 	{
-		"chi"		"** 攻城塔已经建立 ** 我们失去了城墙 ** 撤退 **"
+		"enable"		"0"
+		"hammerid"		"1582045"
+		"m_iname"		"stage_2_bridge"
 	}
-	"** RETREAT! **"
+	"1582053"
 	{
-		"chi"		"**撤退！ **"
+		"enable"		"0"
+		"hammerid"		"1582053"
+		"m_iname"		"stage_2_bridge"
 	}
-	"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
+	"1744468"
 	{
-		"chi"		"**这是最后一站 ** 战斗到信号出现 **"
+		"enable"		"0"
+		"hammerid"		"1744468"
+		"m_iname"		"stage_2_bridge_5"
 	}
-	"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
+	"1582255"
 	{
-		"chi"		"**使用路障，锁上大门。或者防守60秒！ **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"1582255"
+		"m_iname"		"stage_2_bridge_3"
 	}
-	"** DOOR 2 LOCKED **"
+	"815339"
 	{
-		"chi"		"**大门2关闭 **"
+		"enable"		"0"
+		"hammerid"		"815339"
+		"m_iname"		"stage_2_door_4"
 	}
-	"** DOORS LOCKED **"
+	"1593029"
 	{
-		"chi"		"**大门已全部关闭 **"
+		"enable"		"0"
+		"hammerid"		"1593029"
+		"m_iname"		"stage_2_door_6"
 	}
-	"** DOOR 1 LOCKED **"
+	"1592581"
 	{
-		"chi"		"**大门1关闭 **"
+		"enable"		"0"
+		"hammerid"		"1592581"
+		"m_iname"		"stage_2_door_5"
 	}
-	"**CURRENT STAGE >> PART 3 >> CATAPULTS **"
+	"1550559"
 	{
-		"chi"		"**当前阶段>>第三阶段>>投石车 **"
+		"enable"		"0"
+		"hammerid"		"1550559"
+		"m_iname"		"object_soldier_5&6880"
 	}
-	"** THEY ARE TRYING TO GET IN ** SHOOT! **"
+	"4277627"
 	{
-		"chi"		"**他们正在试图进入**射击！ **"
+		"enable"		"0"
+		"hammerid"		"4277627"
+		"m_iname"		"barricade_15&6812"
 	}
-	"** THEY ARE IN! RETREAT! **"
+	"4277711"
 	{
-		"chi"		"**他们进来了！撤退！ **"
+		"enable"		"0"
+		"hammerid"		"4277711"
+		"m_iname"		"barricade_5&6793"
 	}
-	"** THE LIFT IS LEAVING IN 10 SECONDS **"
+	"4277652"
 	{
-		"chi"		"**电梯10秒后离开 **"
-		"DoorCountdown"		"10"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"4277652"
+		"m_iname"		"barricade_7&5970"
 	}
-	"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
+	"4277682"
 	{
-		"chi"		"**大门紧闭着**必须有人按下开关 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"4277682"
+		"m_iname"		"barricade_10&5883"
 	}
-	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
+	"4277708"
 	{
-		"chi"		"**开关已被按下**门在10秒后打开！ **"
-		"DoorCountdown"		"10"
+		"enable"		"0"
+		"hammerid"		"4277708"
+		"m_iname"		"barricade_6&6082"
 	}
-	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
+	"4277634"
 	{
-		"chi"		"**现在使用投石车继续防守米纳斯 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"4277634"
+		"m_iname"		"barricade_14&6080"
 	}
-	"** Catapult 1 activated **"
+	"4277678"
 	{
-		"chi"		"**一号投石车激活 **"
+		"enable"		"0"
+		"hammerid"		"4277678"
+		"m_iname"		"barricade_9&3603"
 	}
-	"** Catapult 2 activated **"
+	"1614857"
 	{
-		"chi"		"**二号投石车激活 **"
+		"enable"		"0"
+		"hammerid"		"1614857"
+		"m_iname"		"stage_3_door1"
 	}
-	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
+	"1614882"
 	{
-		"chi"		"**好了！金属门10秒后开启 **"
-		"DoorCountdown"		"10"
+		"enable"		"0"
+		"hammerid"		"1614882"
+		"m_iname"		"stage_3_door2"
 	}
-	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
+	"1638218"
 	{
-		"chi"		"**守住建筑，直到平民撤离！ **"
+		"enable"		"0"
+		"hammerid"		"1638218"
+		"m_iname"		"stage_3_door8"
 	}
-	"** DEFEND THIS PLACE FOR 35 SECONDS **"
+	"1550614"
 	{
-		"chi"		"**守住这里35秒 **"
-		"DoorCountdown"		"35"
+		"enable"		"0"
+		"hammerid"		"1550614"
+		"m_iname"		"object_soldier_5_4&5744"
 	}
-	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
+	"834015"
 	{
-		"chi"		"**再等待几秒，可能还有其他的幸存者正在赶来 **"
+		"enable"		"0"
+		"hammerid"		"834015"
+		"m_iname"		"cata2_3"
 	}
-	"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
+	"834018"
 	{
-		"chi"		"**所有人都进来！准备最后的防御 **"
+		"enable"		"0"
+		"hammerid"		"834018"
+		"m_iname"		"cata2_3"
 	}
-	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
+	"834024"
 	{
-		"chi"		"**守住这个地方70秒 **"
-		"DoorCountdown"		"70"
+		"enable"		"0"
+		"hammerid"		"834024"
+		"m_iname"		"cata2_3"
 	}
-	"** THE POSITION IS LOST ** RETREAT **"
+	"834795"
 	{
-		"chi"		"**我们失去了这个位置 ** 撤退 **"
+		"enable"		"0"
+		"hammerid"		"834795"
+		"m_iname"		"cata1_3"
 	}
-	"** DOORS UNLOCKED ** RETREAT ! **"
+	"834798"
 	{
-		"chi"		"**门开了 ** 撤退！ **"
+		"enable"		"0"
+		"hammerid"		"834798"
+		"m_iname"		"cata1_3"
 	}
-	"** STAGE 3 COMPLETED **"
+	"834804"
 	{
-		"chi"		"**第三阶段完成 **"
+		"enable"		"0"
+		"hammerid"		"834804"
+		"m_iname"		"cata1_3"
 	}
-	"** WE HAVE LOST THE POSTION ** FALL BACK **"
+	"1648923"
 	{
-		"chi"		"**我们失去了这个位置 ** 撤退 **"
+		"enable"		"0"
+		"hammerid"		"1648923"
+		"m_iname"		"stage_3_door9"
 	}
-	"** CURRENT STAGE >> PART 4 >> THE LAST STAND **"
+	"834084"
 	{
-		"chi"		"**当前阶段>>第四阶段>>最后一站 **"
+		"enable"		"0"
+		"hammerid"		"834084"
+		"m_iname"		"stage3_cata_sukui"
 	}
-	"** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+	"834864"
 	{
-		"chi"		"**大门将很快打开**等待几秒 **"
+		"enable"		"0"
+		"hammerid"		"834864"
+		"m_iname"		"stage3_cata_sukui"
 	}
-	"** DOORS ARE UNLOCKED NOW **"
+	"5195345"
 	{
-		"chi"		"**门被打开了 **"
+		"enable"		"0"
+		"hammerid"		"5195345"
+		"m_iname"		"stage_3_prop_dynamic"
 	}
-	"** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
+	"5195370"
 	{
-		"chi"		"**（图书馆）**在这里守住！*等待信号！ **"
+		"enable"		"0"
+		"hammerid"		"5195370"
+		"m_iname"		"stage_3_prop_dynamic"
 	}
-	"** FALL BACK! **"
+	"6939756"
 	{
-		"chi"		"**撤退！ **"
+		"enable"		"0"
+		"hammerid"		"6939756"
+		"m_iname"		"stage_3_prop_dynamic"
 	}
-	"** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **"
+	"1627415"
 	{
-		"chi"		"**（地牢）**战斗到信号出现 **"
+		"enable"		"0"
+		"hammerid"		"1627415"
+		"m_iname"		"stage_3_verja"
 	}
-	"** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
+	"869089"
 	{
-		"chi"		"**我们被困住了！为你的生命而战 **"
+		"enable"		"0"
+		"hammerid"		"869089"
+		"m_iname"		"stage_3_door7"
 	}
-	"** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
+	"739239"
 	{
-		"chi"		"**天花板塌了**爬上断墙 **"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"739239"
+		"m_iname"		"stage_3_door3"
 	}
-	"** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **"
+	"5349817"
 	{
-		"chi"		"**我们现在正在前往米纳斯的顶部 ** 守住这里30秒 **"
-		"DoorCountdown"		"30"
+		"enable"		"0"
+		"hammerid"		"5349817"
+		"m_iname"		"item_oil_5&6792"
 	}
-	"** LIFT IS LEAVING IN 10 SECONDS **"
+	"4277645"
 	{
-		"chi"		"**电梯将在10秒后离开 **"
-		"DoorCountdown"		"10"
+		"enable"		"0"
+		"hammerid"		"4277645"
+		"m_iname"		"barricade_13&5605"
 	}
-	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
+	"2028942"
 	{
-		"chi"		"**幽灵军队来了！准备最后的防御！ **"
-		"DoorCountdown"		"150"
-		"ico"		"icon_fire"
+		"enable"		"0"
+		"hammerid"		"2028942"
+		"m_iname"		"stage_4_ladder"
 	}
-	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
+	"8232410"
 	{
-		"chi"		"**如果你们想去米纳斯顶部，那么就必须守住大门 **"
+		"enable"		"0"
+		"hammerid"		"8232410"
+		"m_iname"		"stage_4_prop_dynamic"
 	}
-	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
+	"1660096"
 	{
-		"chi"		"**道路开了 **现在前往米纳斯的顶部** 生存80秒 **"
+		"enable"		"0"
+		"hammerid"		"1660096"
+		"m_iname"		"stage_4_barreras"
 	}
-	"** All humans at bottom part will die in 15 seconds **"
+	"1660143"
 	{
-		"chi"		"**现在还在下面的人类将在15秒后全部死亡**"
+		"enable"		"0"
+		"hammerid"		"1660143"
+		"m_iname"		"stage_4_barreras"
 	}
-	"** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
+	"1660150"
 	{
-		"chi"		"**这是地图的最后一个区域 ** 生存到最后 **"
+		"enable"		"0"
+		"hammerid"		"1660150"
+		"m_iname"		"stage_4_barreras"
 	}
-	"** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **"
+	"1103062"
 	{
-		"chi"		"**阶段四完成 ** 开启极限模式 **"
+		"enable"		"0"
+		"hammerid"		"1103062"
+		"m_iname"		"stage_4_breakable_5"
 	}
-	"** EXTREME MODE : ON **"
+	"1171988"
 	{
-		"chi"		"**极限模式：开启 **"
+		"enable"		"0"
+		"hammerid"		"1171988"
+		"m_iname"		"stage_4_breakable_6_1"
 	}
-	"** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
+	"1693309"
 	{
-		"chi"		"**启动粒子特效校正和蓝颜色校正 **"
+		"enable"		"0"
+		"hammerid"		"1693309"
+		"m_iname"		"stage_4_breakabla_1"
 	}
-	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
+	"1693342"
 	{
-		"chi"		"**所有僵尸的神器都已解锁，但并没有4级 **"
+		"enable"		"0"
+		"hammerid"		"1693342"
+		"m_iname"		"stage_4_breakabla_3"
 	}
-	"** CONSTANT METEOR HAS BEEN ENABLED **"
+	"1704252"
 	{
-		"chi"		"**天谴模式：开启 **"
+		"enable"		"0"
+		"hammerid"		"1704252"
+		"m_iname"		"stage_4_breakable_4"
 	}
-	"** INCREASED NUMBER OF NAZGULS **"
+	"6712764"
 	{
-		"chi"		"** 戒灵的数量增加 **"
+		"enable"		"0"
+		"hammerid"		"6712764"
+		"m_iname"		"stage_4_fix1"
 	}
-	"** ENABLED FAST RESPAWN **"
+	"6712777"
 	{
-		"chi"		"**快速复活模式：开启 **"
+		"enable"		"0"
+		"hammerid"		"6712777"
+		"m_iname"		"stage_4_fix2"
 	}
-	"** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **"
+	"1397649"
 	{
-		"chi"		"**神器等级还是0的玩家将自动获得1个等级 **"
+		"enable"		"0"
+		"hammerid"		"1397649"
+		"m_iname"		"physthas_zombie_troll_hp_2"
 	}
-	"** KILL THE REMAINING ZOMBIES **"
+	"4848875"
 	{
-		"chi"		"**杀死剩余的僵尸 **"
+		"enable"		"0"
+		"hammerid"		"4848875"
+		"m_iname"		"physthas_zombie_troll_hp_23"
 	}
-	"** Tip 13 : Gandalf +You shall not pass!+ is DAWS and White Knight is AADDSWSW **"
+	"1397565"
 	{
-		"chi"		"**提示13：甘道夫的大招释放方式是：DAWDS 高达的大招释放方式是：AADDSWSW**"
+		"enable"		"0"
+		"hammerid"		"1397565"
+		"m_iname"		"item_escalera_s1_2"
 	}
-	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
+	"1397590"
 	{
-		"chi"		"**有兽人通过了我们的防御 ** 撤退 **"
+		"enable"		"0"
+		"hammerid"		"1397590"
+		"m_iname"		"item_escalera_s1"
 	}
-	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
+	"4277618"
 	{
-		"chi"		"** 这是最后的时刻 ** 准备与他们决一死战 **"
-	}
-	"** UNLIMITED AMMO ON **"
-	{
-		"chi"		"**无限弹药：开启 **"
-	}
-	"** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **"
-	{
-		"chi"		"** 你做到了 ** 你赢了最困难的关卡 ** 解锁所有神器 **"
-	}
-	"** FEEL FREE TO RTV THE MAP **"
-	{
-		"chi"		"**你可以随时RTV**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"22173"
-	}
-	"** This is the first round. Wait for more players to restart round or suicide. **"
-	{
-		"chi"		"**这是热身回合，等待更多的人或自杀**"
-	}
-	"** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
-	{
-		"chi"		"**提示3：你目前的神器等级是你的得分除以100**"
-	}
-	"** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
-	{
-		"chi"		"**提示13：甘道夫的大招释放顺序是DAWDS，白衣骑士的大招释放顺序是AADDSWSW**"
-	}
-	"** STARTING AT FIRST LEVEL! **"
-	{
-		"chi"		"**从第一关开始**"
-	}
-	"** RESIST 25 SECONDS! **"
-	{
-		"chi"		"**守住25秒**"
-		"DoorCountdown"		"25"
-	}
-	"** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **"
-	{
-		"chi"		"**热身回合 ** 热身回合将在10秒后结束**"
-	}
-	"** WARMUP ROUND IS OVER! **"
-	{
-		"chi"		"**热身回合已结束**"
-	}
-	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
-	{
-		"chi"		"**所有僵尸皮肤全部解锁，但是并没有5级皮肤**"
-	}
-	"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"4277618"
+		"m_iname"		"barricade_16&6075"
 	}
 }

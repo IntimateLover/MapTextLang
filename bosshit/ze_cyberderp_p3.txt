@@ -1,413 +1,215 @@
-"Console_T"
+"BOSSHP"
 {
-	"* * >>TIP<< ORANGE is a GOOD colour * *"
+	"cyber_elevator_breakable_exit"
 	{
-		"chi"		"**> >提示<<橙色是一种好的颜色 **"
+		"enable"		"0"
 	}
-	"* * * Current phase: CURSED HEXAHEDRON * * *"
+	"boss_hitbox"
 	{
-		"chi"		"**当前阶段：BOSS路线 **"
+		"enable"		"1"
 	}
-	"* * The pedestal will be raising in 25 seconds * *"
+	"317771"
 	{
-		"chi"		"**底座将在25秒内提高 **"
+		"enable"		"1"
+		"hammerid"		"317771"
+		"m_iname"		"cyber_boss_ded"
 	}
-	"* * Map by Mojonero * *"
+	"317819"
 	{
-		"chi"		"**地图制作:Mojonero 地图翻译：蓬莱山帅比♪ **"
+		"enable"		"1"
+		"hammerid"		"317819"
+		"m_iname"		"cyber_boss_ded_zm"
 	}
-	"* * * Current phase: NOT TRAMPOLINES * * *"
+	"221097"
 	{
-		"chi"		"**当前阶段:重力空间 **"
+		"enable"		"1"
+		"hammerid"		"221097"
+		"m_iname"		"Cyber_Preboss_break-floor"
 	}
-	"* * * Current phase: MAGIC IS REAL * * *"
+	"972263"
 	{
-		"chi"		"**当前阶段：电梯路线 **"
+		"enable"		"0"
+		"hammerid"		"972263"
+		"m_iname"		"cyber_spawn_breakable"
 	}
-	"* * Hold here for 20 seconds * *"
+	"972277"
 	{
-		"chi"		"**在这里守住20秒 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"972277"
+		"m_iname"		"cyber_spawn_breakable"
 	}
-	"* * 3 seconds left * *"
+	"865702"
 	{
-		"chi"		"**还剩3秒 **"
+		"enable"		"0"
+		"hammerid"		"865702"
+		"m_iname"		"cyber_spawn_breakable"
 	}
-	"* * Left route door will open in 20 seconds * *"
+	"853577"
 	{
-		"chi"		"**左边路的门会在20秒内打开 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"853577"
+		"m_iname"		"cyber_funsitos_break"
 	}
-	"* * * Aeolus' Spirit has been picked up * * *"
+	"158432"
 	{
-		"chi"		"**风已被拿起 **"
+		"enable"		"0"
+		"hammerid"		"158432"
+		"m_iname"		"Cyber_Core_Exit_Breakable"
 	}
-	"* * Wait 23 seconds * *"
+	"220359"
 	{
-		"chi"		"**等待23秒 **"
-		"DoorCountDown"		"23"
+		"enable"		"0"
+		"hammerid"		"220359"
+		"m_iname"		"cyber_elevator_ducto"
 	}
-	"* * Press both buttons at the same time * *"
+	"408822"
 	{
-		"chi"		"**同时按下两个按钮 **"
+		"enable"		"0"
+		"hammerid"		"408822"
+		"m_iname"		"cyber_pre_escape"
 	}
-	"* * * Frost Wave has been picked up * * *"
+	"492352"
 	{
-		"chi"		"**减速已被拿起 **"
+		"enable"		"0"
+		"hammerid"		"492352"
+		"m_iname"		"cyber_4th_breakable"
 	}
-	"* * * GO NIGGER DICK * * *"
+	"624821"
 	{
-		"chi"		"**走 黑鬼 迪克 **"
+		"enable"		"0"
+		"hammerid"		"624821"
+		"m_iname"		"cyber_3funs_breakable_2"
 	}
-	"* * * GO WHITE DICK * * *"
+	"624834"
 	{
-		"chi"		"**走 白色的 迪克 **"
+		"enable"		"0"
+		"hammerid"		"624834"
+		"m_iname"		"cyber_3funs_breakable_1"
 	}
-	"* * * GO CHARIZARD DICK * * *"
+	"624869"
 	{
-		"chi"		"**走 喷火龙 迪克 **"
+		"enable"		"0"
+		"hammerid"		"624869"
+		"m_iname"		"cyber_3funs_breakable_3"
 	}
-	"* * * GO HULK DICK * * *"
+	"624875"
 	{
-		"chi"		"**走   巨人 迪克 **"
+		"enable"		"0"
+		"hammerid"		"624875"
+		"m_iname"		"cyber_3funs_breakable_4"
 	}
-	"* * Door opening in 25 seconds * *"
+	"655370"
 	{
-		"chi"		"**门25秒后打开   **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"655370"
+		"m_iname"		"homosexo"
 	}
-	"* * Closing door * * 5 seconds left * *"
+	"482550"
 	{
-		"chi"		"**门关闭5秒 **"
+		"enable"		"0"
+		"hammerid"		"482550"
+		"m_iname"		"cyber_treasure_shield_l"
 	}
-	"* * KEEP DEFENDING * *"
+	"482731"
 	{
-		"chi"		"**继续防守 **"
+		"enable"		"0"
+		"hammerid"		"482731"
+		"m_iname"		"cyber_treasure_break_l"
 	}
-	"* * Go to the lower floor * *"
+	"581282"
 	{
-		"chi"		"**去楼下 **"
+		"enable"		"0"
+		"hammerid"		"581282"
+		"m_iname"		"cyber_cyberspace_exit_breakable"
 	}
-	"* * * Starting elevator * * * 20 seconds * * *"
+	"498425"
 	{
-		"chi"		"** 20秒后启动电梯 **"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"498425"
+		"m_iname"		"cyber_sewers_breakable"
 	}
-	"* * * The door will open in 15 seconds * * *"
+	"594166"
 	{
-		"chi"		"**门将在15秒打开 **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"594166"
+		"m_iname"		"cyber_puzzle_exit"
 	}
-	"* * * Hold 15 seconds * * *"
+	"391182"
 	{
-		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"391182"
+		"m_iname"		"cyber_gen_exit"
 	}
-	"* * * 5 seconds left * * *"
+	"403057"
 	{
-		"chi"		"**还剩5秒 **"
+		"enable"		"0"
+		"hammerid"		"403057"
+		"m_iname"		"cyber_final_ele"
 	}
-	"* * Wait 15 seconds * *"
+	"881938"
 	{
-		"chi"		"**等待15秒 **"
-		"DoorCountDown"		"15"
+		"enable"		"1"
+		"hammerid"		"881938"
+		"m_iname"		"cyber_boss_pieces"
 	}
-	"* * You can pass * *"
+	"881954"
 	{
-		"chi"		"**你可以通过 **"
+		"enable"		"1"
+		"hammerid"		"881954"
+		"m_iname"		"cyber_boss_pieces"
 	}
-	"* * * Flame of Udun has been picked up * * *"
+	"881966"
 	{
-		"chi"		"**火已被拿起 **"
+		"enable"		"1"
+		"hammerid"		"881966"
+		"m_iname"		"cyber_boss_pieces"
 	}
-	"* * 15 seconds until final teleport * *"
+	"881973"
 	{
-		"chi"		"**守住15秒，直到最终传送 **"
-		"DoorCountDown"		"15"
+		"enable"		"1"
+		"hammerid"		"881973"
+		"m_iname"		"cyber_boss_pieces"
 	}
-	"* * Humans must reach the arena or they will be teleported * *"
+	"881990"
 	{
-		"chi"		"**人类必须进入竞技场或者他们会自动传送 **"
-		"ico"		"icon_fire"
+		"enable"		"1"
+		"hammerid"		"881990"
+		"m_iname"		"cyber_boss_pieces"
 	}
-	"* * * IT HAS RUN AWAY * * *"
+	"882001"
 	{
-		"chi"		"**它跑了 **"
+		"enable"		"1"
+		"hammerid"		"882001"
+		"m_iname"		"cyber_boss_pieces"
 	}
-	"* * * RUN! * * *"
+	"481117"
 	{
-		"chi"		"**跑！ **"
+		"enable"		"0"
+		"hammerid"		"481117"
+		"m_iname"		"cyber_treasure_shield_s"
 	}
-	"* * 25 seconds until this... thing... starts * *"
+	"481088"
 	{
-		"chi"		"**守住25秒，直到这个…事情...开始 **"
-		"DoorCountDown"		"25"
+		"enable"		"0"
+		"hammerid"		"481088"
+		"m_iname"		"cyber_treasure_break_s"
 	}
-	"* * Resist! * * It all will end soon * *"
+	"224128"
 	{
-		"chi"		"**守住!* *这一切很快就会结束 **"
+		"enable"		"0"
+		"hammerid"		"224128"
+		"m_iname"		"cyber_elevator_breakable_exit"
 	}
-	"* * * Current phase: TOTALLY NEVER SEEN * * *"
+	"259056"
 	{
-		"chi"		"**当前阶段:完全没见过 **"
+		"enable"		"1"
+		"hammerid"		"259056"
+		"m_iname"		"boss_hitbox"
 	}
-	"* * * Wait 7 seconds * * *"
+	"887070"
 	{
-		"chi"		"**等待7秒 **"
-	}
-	"* * * Door opening in 12 seconds * * *"
-	{
-		"chi"		"**门12秒后打开 **"
-		"DoorCountDown"		"12"
-	}
-	"* * * Door opening in 3 seconds * * *"
-	{
-		"chi"		"**门3秒后打开 **"
-	}
-	"* * * The bridge will be enabled in 25 seconds * * *"
-	{
-		"chi"		"**大桥将在25秒内启用 **"
-		"DoorCountDown"		"25"
-	}
-	"* * * MOVE * * *"
-	{
-		"chi"		"**后退 **"
-	}
-	"* * * Exit door will open in 10 seconds * * *"
-	{
-		"chi"		"**出口门会在10秒后打开 **"
-		"DoorCountDown"		"10"
-	}
-	"* * * Hold this position for 30 seconds * * *"
-	{
-		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
-	}
-	"* * * 10 seconds left * * *"
-	{
-		"chi"		"**还剩下10秒 **"
-	}
-	"* * Top door will open in 15 seconds * *"
-	{
-		"chi"		"**门在15秒后打开 **"
-		"DoorCountDown"		"15"
-	}
-	"* * Top door will open in 3 seconds * *"
-	{
-		"chi"		"**门在3秒后打开 **"
-	}
-	"* * * Top exit door will open in 13 seconds * * *"
-	{
-		"chi"		"**上出口门将在13秒打开 **"
-		"DoorCountDown"		"13"
-	}
-	"* * * There must be a way to open that door * * *"
-	{
-		"chi"		"**必须有打开那扇门的方式 **"
-	}
-	"* * * Figure it out * * *"
-	{
-		"chi"		"**找出它 **"
-	}
-	"* * * It's open * * *"
-	{
-		"chi"		"**它开了 **"
-	}
-	"* * * Wait until magic happens * * *"
-	{
-		"chi"		"**等待奇迹发生 **"
-	}
-	"* * * Wait until magic happens * * *"
-	{
-		"chi"		"**等待奇迹发生 **"
-	}
-	"* * * Just a bit more... * * *"
-	{
-		"chi"		"**多守一会... **"
-	}
-	"* * * The Magic Fire has arrived! * * *"
-	{
-		"chi"		"**魔法火焰已经到来！ **"
-	}
-	"* * * Projectile Deflector has been picked up * * *"
-	{
-		"chi"		"**弹药偏转器已经拿起 **"
-	}
-	"* * Hacking doors. This may take a few seconds * *"
-	{
-		"chi"		"**黑客门。这可能需要几秒钟 **"
-	}
-	"* * Press the orange button to start the Core * *"
-	{
-		"chi"		"**按下橙色按钮，启动核心 **"
-	}
-	"> INITIALIZING CORE <"
-	{
-		"chi"		"**初始化核心 **"
-	}
-	"> THE CORE WILL BE READY IN 21 SECONDS <"
-	{
-		"chi"		"**核心将在21秒就绪 **"
-		"DoorCountDown"		"21"
-	}
-	"> CORE READY IN 5 SECONDS <"
-	{
-		"chi"		"**核心在5秒后就绪 **"
-	}
-	"> CORE READY <"
-	{
-		"chi"		"**核心已经就绪 **"
-	}
-	"* * We can move * * FALL BACK * *"
-	{
-		"chi"		"**我们可以移动* *后退 **"
-	}
-	"* * Hold 25 seconds * *"
-	{
-		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
-	}
-	"* * You have defended long enough * *"
-	{
-		"chi"		"**你有足够长的时间守住这里 **"
-	}
-	"* * Keep running * *"
-	{
-		"chi"		"**继续跑 **"
-	}
-	"* * The Core is getting unstable... * *"
-	{
-		"chi"		"**核心越来越不稳定…… **"
-	}
-	"* * 20 seconds until the door opens * *"
-	{
-		"chi"		"**20秒钟后打开门 **"
-		"DoorCountDown"		"20"
-	}
-	"(Right) * * * Door opening * * * 8 seconds * * *"
-	{
-		"chi"		"**(右)边的门8秒后打开 **"
-	}
-	"* * * HOLD FOR 15 SECONDS * * *"
-	{
-		"chi"		"**守住15秒 **"
-	}
-	"* * * ONLY 3 SECONDS LEFT * * *"
-	{
-		"chi"		"**只剩下3秒 **"
-	}
-	"* * BUTTONS PRESSED * *"
-	{
-		"chi"		"**按钮按下 **"
-	}
-	"* * GO GO GO * *"
-	{
-		"chi"		"**走走走 **"
-	}
-	"* * The main door WILL open in 35s... * *"
-	{
-		"chi"		"**大门将在35后打开... **"
-	}
-	"* * ...but this convenient side vent might help * *"
-	{
-		"chi"		"**...但这种方便的侧通风口可能会帮助 **"
-	}
-	"* * Final door opening in 20 seconds * *"
-	{
-		"chi"		"**最后一道门20秒秒后打开 **"
-		"DoorCountDown"		"20"
-	}
-	"* * Final door opening in 5 seconds * *"
-	{
-		"chi"		"**最后一道门5秒后打开 **"
-	}
-	"* * You have reached the escape zone * *"
-	{
-		"chi"		"**你已经达到逃避区 **"
-	}
-	"* * Wait 40 seconds until the magic elevator is ready to go * *"
-	{
-		"chi"		"**等待40秒，直到魔术电梯准备就绪 **"
-		"DoorCountDown"		"40"
-	}
-	"* * Only 10 seconds left * * Hold * *"
-	{
-		"chi"		"**只剩下10秒* * **"
-	}
-	"* * Magic elevator is ready * *"
-	{
-		"chi"		"**神奇的电梯已经准备好了 **"
-	}
-	"* * Zombies got inside * * Learn2hold * *"
-	{
-		"chi"		"**僵尸进入**Learn2hold **"
-	}
-	"(Left) * * * Door opening * * * 8 seconds * * *"
-	{
-		"chi"		"**(左)边的门8秒后打开 **"
-	}
-	"* * * Slightly Cursed Hexahedron has been picked up * * *"
-	{
-		"chi"		"**受诅咒的魔方已经拿起 **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"**纽约马拉松:准备跑! **"
-	}
-	"* * Bottom door will open in 15 seconds * *"
-	{
-		"chi"		"**在15秒内底部的门会打开 **"
-	}
-	"* * Bottom door will open in 3 seconds * *"
-	{
-		"chi"		"**底部门会在3秒内打开 **"
-	}
-	"* * * Bottom exit door will open in 11 seconds * * *"
-	{
-		"chi"		"**在11秒内底部出口门会打开 **"
-	}
-	"* * * IT'S DEAD * * *"
-	{
-		"chi"		"**它死了 **"
-	}
-	"* * * ZOMBIES! nowin4u * * *"
-	{
-		"chi"		"**僵尸！没有胜利 **"
-	}
-	"* * * Aeolus Spirit has been picked up * * *"
-	{
-		"chi"		"**风已被拿起 **"
-	}
-	"* * * Its open * * *"
-	{
-		"chi"		"**它开了 **"
-	}
-	"* * * HOLD THIS POSITION * * *"
-	{
-		"chi"		"**守住这个位置 **"
-	}
-	"* * * ITS DEAD * * *"
-	{
-		"chi"		"**它死了 **"
-	}
-	"* * * WIND: ENABLED * * *"
-	{
-		"chi"		"**风:使用 **"
-	}
-	"* * * GLASSES: OFF * * *"
-	{
-		"chi"		"**模糊：开启 **"
-	}
-	"* * * GRAVITY: IS KILL * * *"
-	{
-		"chi"		"**重力：失控 **"
-	}
-	"* * * HASUL COMO HEL MAR HASUL * * *"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"887070"
+		"m_iname"		"boss_surprise"
 	}
 }

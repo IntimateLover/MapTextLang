@@ -1,201 +1,219 @@
-"Console_T"
+"BOSSHP"
 {
-	">>>MAP BY FREEZE!<<<"
+	"3575"
 	{
-		"chi"		"地图作者:FREEZE 翻译:笨蛋⑨baka"
+		"enable"		"0"
+		"hammerid"		"3575"
+		"m_iname"		"phys_aby"
 	}
-	">>>MAKE YOUR WAY TO THE CONTROL ROOM<<<"
+	"3627"
 	{
-		"chi"		"去控制室！"
+		"enable"		"0"
+		"hammerid"		"3627"
+		"m_iname"		"phys_aby2"
 	}
-	">>>MISSION: ABYDOS<<<"
+	"314634"
 	{
-		"chi"		"关卡:阿比杜斯镇"
+		"enable"		"0"
+		"hammerid"		"314634"
+		"m_iname"		"bomb"
 	}
-	">>>STORAGE DOOR OPENING IN 5 SEC<<<"
+	"3382"
 	{
-		"chi"		"储藏室门5秒后开启"
+		"enable"		"0"
+		"hammerid"		"3382"
+		"m_iname"		"b_01"
 	}
-	"DoorCountdown"		"5"
-	">>>INCOMING WORMHOLE. CLOSE THE IRIS!<<<"
+	"3564"
 	{
-		"chi"		"虫洞警告！关上虹膜！"
+		"enable"		"0"
+		"hammerid"		"3564"
+		"m_iname"		"b_02"
 	}
-	">>>MISSION: ESCAPE FROM STARGATECENTER<<<"
+	"3582"
 	{
-		"chi"		"关卡:逃离星际之门"
+		"enable"		"0"
+		"hammerid"		"3582"
+		"m_iname"		"b_04"
 	}
-	">>>MALP DOOR OPENING IN 10 SEC<<<"
+	"3615"
 	{
-		"chi"		"门10秒后开启"
+		"enable"		"0"
+		"hammerid"		"3615"
+		"m_iname"		"b_06"
 	}
-	"DoorCountdown"		"10"
-	">>>PRESS THE BUTTON<<<"
+	"3673"
 	{
-		"chi"		"咸鱼们快按按钮！"
+		"enable"		"0"
+		"hammerid"		"3673"
+		"m_iname"		"jimmy"
 	}
-	">>>RUN TO THE ELEVATOR<<<"
+	"3718"
 	{
-		"chi"		"进电梯！"
+		"enable"		"0"
+		"hammerid"		"3718"
+		"m_iname"		"b_07"
 	}
-	">>>EVERYONE IN SPAWN AREAS GETTING TELEPORTED<<<"
+	"3722"
 	{
-		"chi"		"所有挂机在出生点的咸鱼均已被传送"
+		"enable"		"0"
+		"hammerid"		"3722"
+		"m_iname"		"b_08"
 	}
-	">>>ZOMBIES: BREAK THE IRIS!<<<"
+	"4606"
 	{
-		"chi"		"僵尸:打破虹膜！"
+		"enable"		"0"
+		"hammerid"		"4606"
+		"m_iname"		"100"
 	}
-	">>>ELEVATOR LEAVING IN 5 SEC<<<"
+	"4608"
 	{
-		"chi"		"电梯5秒后离开"
+		"enable"		"0"
+		"hammerid"		"4608"
+		"m_iname"		"101"
 	}
-	"DoorCountdown"		"5"
-	">>>ZOMBIES: GO UP THE ELEVATOR SHAFT<<<"
+	"4610"
 	{
-		"chi"		"僵尸:上电梯轴！"
+		"enable"		"0"
+		"hammerid"		"4610"
+		"m_iname"		"102"
 	}
-	">>>ACTIVATE THE STARGATE<<<"
+	"4612"
 	{
-		"chi"		"开启星际之门"
+		"enable"		"0"
+		"hammerid"		"4612"
+		"m_iname"		"102"
 	}
-	">>>RUN INTO GATE ROOM<<<"
+	"4614"
 	{
-		"chi"		"快跑！"
+		"enable"		"0"
+		"hammerid"		"4614"
+		"m_iname"		"103"
 	}
-	">>>Map by FreeZe<<<"
+	"4616"
 	{
-		"chi"		"地图作者:Freeze 翻译:笨蛋⑨baka"
+		"enable"		"0"
+		"hammerid"		"4616"
+		"m_iname"		"103"
 	}
-	"Thanks to Fuu Westsider Kaemon Hannibal Sephiroth Senne Teddy and Infinity"
+	"4618"
 	{
-		"chi"		"特别感谢:Fuu Westsider Kaemon Hannibal Sephiroth Senne Teddy和Infinity"
+		"enable"		"0"
+		"hammerid"		"4618"
+		"m_iname"		"105"
 	}
-	">>>Gateroom-doors closing in 5 seconds<<<"
+	"4620"
 	{
-		"chi"		"房门5秒后关闭"
+		"enable"		"0"
+		"hammerid"		"4620"
+		"m_iname"		"104"
 	}
-	">>>LEAVE THE ABYDOS-GATEROOM...FAST!<<<"
+	"4622"
 	{
-		"chi"		"快离开阿比杜斯之门。。快！"
+		"enable"		"0"
+		"hammerid"		"4622"
+		"m_iname"		"109"
 	}
-	">>>FIND THE C4 OUTSIDE<<<"
+	"4624"
 	{
-		"chi"		"去外面找c4！"
+		"enable"		"0"
+		"hammerid"		"4624"
+		"m_iname"		"107"
 	}
-	">>>HOLD THE ENTRANCE UNTIL DOOR B IS OPEN!<<<"
+	"4626"
 	{
-		"chi"		"守住入口直到B门开启！"
+		"enable"		"0"
+		"hammerid"		"4626"
+		"m_iname"		"108"
 	}
-	">>>ZOMBIES INCOMING!<<<"
+	"4628"
 	{
-		"chi"		"僵尸来袭！"
+		"enable"		"0"
+		"hammerid"		"4628"
+		"m_iname"		"106"
 	}
-	">>>C4 has been picked<<<"
+	"4630"
 	{
-		"chi"		"c4已被捡起"
+		"enable"		"0"
+		"hammerid"		"4630"
+		"m_iname"		"110"
 	}
-	">>>BRING THE C4 TO DOOR B<<<"
+	"4632"
 	{
-		"chi"		"带着c4去B门！"
+		"enable"		"0"
+		"hammerid"		"4632"
+		"m_iname"		"111"
 	}
-	">>>C4 has been placed. Hold 10 seconds!<<<"
+	"4634"
 	{
-		"chi"		"C4已安放，守住10秒！"
+		"enable"		"0"
+		"hammerid"		"4634"
+		"m_iname"		"113"
 	}
-	"DoorCountdown"		"10"
-	">>>TEAM FALL BACK<<<"
+	"4636"
 	{
-		"chi"		"全体人员撤退！"
+		"enable"		"0"
+		"hammerid"		"4636"
+		"m_iname"		"112"
 	}
-	">>>DOOR B IS OPEN!<<<"
+	"4638"
 	{
-		"chi"		"B门开了！"
+		"enable"		"0"
+		"hammerid"		"4638"
+		"m_iname"		"114"
 	}
-	">>>FIND THE SECRET STONE TABLETT<<<"
+	"4640"
 	{
-		"chi"		"找到秘密石碑！"
+		"enable"		"0"
+		"hammerid"		"4640"
+		"m_iname"		"114"
 	}
-	">>>ZOMBIES FOUND ANOTHER WAY IN<<<"
+	"4642"
 	{
-		"chi"		"僵尸找到了另一条通路"
+		"enable"		"0"
+		"hammerid"		"4642"
+		"m_iname"		"115"
 	}
-	">>>BIG-DOOR opening in 30 seconds<<<"
+	"4644"
 	{
-		"chi"		"大门30秒后开启"
+		"enable"		"0"
+		"hammerid"		"4644"
+		"m_iname"		"115"
 	}
-	"DoorCountdown"		"30"
-	">>>DOOR OPEN!<<<"
+	"4729"
 	{
-		"chi"		"门开了！"
+		"enable"		"0"
+		"hammerid"		"4729"
+		"m_iname"		"b_09"
 	}
-	">>>Stand on both platforms to open the door<<<"
+	"4807"
 	{
-		"chi"		"同时站在两个平台上以开门"
+		"enable"		"0"
+		"hammerid"		"4807"
+		"m_iname"		"easterbrick"
 	}
-	">>>TAKE THE TABLETT<<<"
+	"4833"
 	{
-		"chi"		"拿起石碑！"
+		"enable"		"0"
+		"hammerid"		"4833"
+		"m_iname"		"b_10"
 	}
-	">>>The tablett has been picked. Activate the rings!<<<"
+	"4843"
 	{
-		"chi"		"石碑已被拿起，启动铃声！"
+		"enable"		"0"
+		"hammerid"		"4843"
+		"m_iname"		"b_11"
 	}
-	">>>10 seconds left<<<"
+	"4861"
 	{
-		"chi"		"还剩10秒！"
+		"enable"		"0"
+		"hammerid"		"4861"
+		"m_iname"		"b_12"
 	}
-	">>>RINGS ACTIVATING IN 5 SECONDS<<<"
+	"4873"
 	{
-		"chi"		"铃声5秒后启动"
+		"enable"		"0"
+		"hammerid"		"4873"
+		"m_iname"		"br_07"
 	}
-	">>>FALL BACK. RUN TO RINGPLATFORM!<<<"
-	{
-		"chi"		"快撤！跑到环形平台上！"
-	}
-	">>>JUMP INTO THE GENERATOR TO OVERHEAT IT<<<"
-	{
-		"chi"		"跳进发电机让它过热!"
-	}
-	">>>HOLD THIS POSITION UNTIL THE GENERATOR OVERHEATED<<<"
-	{
-		"chi"		"守到发电机过热！"
-	}
-	">>>THE GENERATOR IS OVERHEATING. HOLD THE POSITION<<<"
-	{
-		"chi"		"发电机正在过热，守住！"
-	}
-	">>>DONE. RUN FOR YOUR LIFES!<<<"
-	{
-		"chi"		"完成了！快跑小伙子们！要炸辣！"
-	}
-	">>>Door opening in 10 sec<<<"
-	{
-		"chi"		"10秒后开门"
-	}
-	">>>TEAM FALL BACK! THE DOOR IS OPEN<<<"
-	{
-		"chi"		"全体人员撤退！门开了！"
-	}
-	">>>HOLD HERE WHILE OTHERS REPAIR THE ELEVATOR<<<"
-	{
-		"chi"		"守到其他人修好电梯！"
-	}
-	">>>POWER TO THE DOORS RESTORED<<<"
-	{
-		"chi"		"能源恢复"
-	}
-	">>>CALL THE ELEVATOR<<<"
-	{
-		"chi"		"按电梯！"
-	}
-	">>>ELEVATOR ARRIVING IN 15 SECONDS<<<"
-	{
-		"chi"		"电梯15秒后到达！"
-	}
-	">>>RUUUUUUUUUUUUN<<<"
-	{
-		"chi"		"跑！！！！！！"
-	}
-
 }

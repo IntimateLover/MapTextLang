@@ -1,807 +1,519 @@
-"Console_T"
+"BOSSHP"
 {
-	"** WARMUP ROUND **"
+	"4410567"
 	{
-		"chi"		"**热身回合**"
+		"enable"		"1"
+		"hammerid"		"4410567"
+		"m_iname"		"boss_cage_break"
 	}
-	"** SONG PLAYING: RESIDENT EVIL: RETRIBUTION - DRIVE AWAY **"
+	"5334478"
 	{
-		"chi"		"**播放的音乐：RESIDENT EVIL: RETRIBUTION - DRIVE AWAY**"
+		"enable"		"1"
+		"hammerid"		"5334478"
+		"m_iname"		"boss_fan_physbox"
 	}
-	"** STARTING MAP **"
+	"8018691"
 	{
-		"chi"		"**地图开始**"
+		"enable"		"0"
+		"hammerid"		"8018691"
+		"m_iname"		"bombplacer_physbox&7062"
 	}
-	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	"12715826"
 	{
-		"chi"		"**可以关闭您游戏的背景音乐或者snd_musicvolume来关闭背景音乐**"
+		"enable"		"0"
+		"hammerid"		"12715826"
+		"m_iname"		"break_1"
 	}
-	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	"12715833"
 	{
-		"chi"		"**地图作者：PURPZZ   地图重制：Skullz   地图翻译：银月筱瑶**"
+		"enable"		"0"
+		"hammerid"		"12715833"
+		"m_iname"		"break_2"
 	}
-	"** CURRENT: EASY MODE **"
+	"77238"
 	{
-		"chi"		"**关卡：简易模式**"
+		"enable"		"0"
+		"hammerid"		"77238"
+		"m_iname"		"break_3"
 	}
-	"** SONG PLAYING: HYBRID - JUST FOR TODAY **"
+	"80201"
 	{
-		"chi"		"**正在播放的音乐：HYBRID - JUST FOR TODAY**"
+		"enable"		"0"
+		"hammerid"		"80201"
+		"m_iname"		"break_4"
 	}
-	"** DEFEND SECTION A5 UNTIL THE GATE BREAKS **"
+	"533743"
 	{
-		"chi"		"**坚守住A5大门，直到大门打破**"
+		"enable"		"0"
+		"hammerid"		"533743"
+		"m_iname"		"section_d8_break_2"
 	}
-	"** THE GATE IN SECTION A5 WILL BREAK IN 10 SECONDS **"
+	"1225684"
 	{
-		"chi"		"**A5大门将会在10秒后打破**"
+		"enable"		"0"
+		"hammerid"		"1225684"
+		"m_iname"		"section_d8_break_1"
 	}
-	"** THE GATE IN SECTION A5 WILL BREAK IN 5 SECONDS **"
+	"1225876"
 	{
-		"chi"		"**A5大门将会在5秒后打破**"
+		"enable"		"0"
+		"hammerid"		"1225876"
+		"m_iname"		"section_d8_break_3"
 	}
-	"** THE GATE IN SECTION A5 IS BROKEN ** FALL BACK **"
+	"1226041"
 	{
-		"chi"		"**A5大门已被破坏，撤退！**"
+		"enable"		"0"
+		"hammerid"		"1226041"
+		"m_iname"		"map_break_1"
 	}
-	"** TRAM 1 WILL LEAVE IN 30 SECONDS **"
+	"1226051"
 	{
-		"chi"		"**一号电车将会在30秒后离开**"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"1226051"
+		"m_iname"		"map_break_2"
 	}
-	"** EVERYBODY COVER TRAM 1 **"
+	"2823864"
 	{
-		"chi"		"**防守住一号电车**"
+		"enable"		"0"
+		"hammerid"		"2823864"
+		"m_iname"		"break_9"
 	}
-	"** TRAM 1 WILL LEAVE IN 15 SECONDS **"
+	"3265749"
 	{
-		"chi"		"**一号电车将会在15秒后离开**"
+		"enable"		"0"
+		"hammerid"		"3265749"
+		"m_iname"		"break_30"
 	}
-	"** TRAM 1 WILL LEAVE IN 5 SECONDS **"
+	"3265755"
 	{
-		"chi"		"**一号电车将会在5秒后离开**"
+		"enable"		"0"
+		"hammerid"		"3265755"
+		"m_iname"		"break_31"
 	}
-	"** ALL GET IN TRAM 1 **"
+	"3373114"
 	{
-		"chi"		"**所有人都进一号电车，快**"
+		"enable"		"0"
+		"hammerid"		"3373114"
+		"m_iname"		"break_21"
 	}
-	"** COVER SECTION B4 FOR 15 SECONDS **"
+	"4175622"
 	{
-		"chi"		"**防守B4大门15秒**"
+		"enable"		"0"
+		"hammerid"		"4175622"
+		"m_iname"		"break_5"
 	}
-	"** THE GATE IN SECTION B4 WILL BREAK IN 10 SECONDS **"
+	"4175674"
 	{
-		"chi"		"**B4大门将会在10秒后打破**"
+		"enable"		"0"
+		"hammerid"		"4175674"
+		"m_iname"		"break_5"
 	}
-	"** THE GATE IN SECTION B4 WILL BREAK IN 5 SECONDS **"
+	"6963520"
 	{
-		"chi"		"**B4大门将会在5秒后打破**"
+		"enable"		"0"
+		"hammerid"		"6963520"
+		"m_iname"		"break_7"
 	}
-	"** THE ELEVATOR IS LEAVING IN 30 SECONDS **"
+	"6996144"
 	{
-		"chi"		"**电梯将会在30秒后启动**"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"6996144"
+		"m_iname"		"elevator_break"
 	}
-	"** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
+	"6997639"
 	{
-		"chi"		"**电梯将会在20秒后启动**"
+		"enable"		"0"
+		"hammerid"		"6997639"
+		"m_iname"		"elevator_break_bottom"
 	}
-	"** THE ELEVATOR IS LEAVING IN 10 SECONDS **"
+	"6997666"
 	{
-		"chi"		"**电梯将会在10秒后启动**"
+		"enable"		"0"
+		"hammerid"		"6997666"
+		"m_iname"		"elevator_break_bottom"
 	}
-	"** THE ELEVATOR IS LEAVING IN 5 SECONDS **"
+	"7073261"
 	{
-		"chi"		"**电梯将会在5秒后启动**"
+		"enable"		"0"
+		"hammerid"		"7073261"
+		"m_iname"		"section_c3_wall"
 	}
-	"** ALL GET IN ** THE ELEVATOR IS GOING TO LEAVE **"
+	"7847028"
 	{
-		"chi"		"**快进电梯，电梯要走了**"
+		"enable"		"0"
+		"hammerid"		"7847028"
+		"m_iname"		"break_10"
 	}
-	"** ZOMBIES ARE TRAPPED FOR 15 SECONDS **"
+	"10543022"
 	{
-		"chi"		"**僵尸将会被困住15秒，快跑**"
+		"enable"		"0"
+		"hammerid"		"10543022"
+		"m_iname"		"map_break_end"
 	}
-	"** ELEVATOR GENERATOR OFFLINE **"
+	"10674547"
 	{
-		"chi"		"** 电梯发电机停止了工作...**"
+		"enable"		"0"
+		"hammerid"		"10674547"
+		"m_iname"		"tram_zm_break_3"
 	}
-	"** ELEVATOR GENERATOR FAILING **"
+	"10674582"
 	{
-		"chi"		"**电梯发电机损坏了！**"
+		"enable"		"0"
+		"hammerid"		"10674582"
+		"m_iname"		"tram_zm_break_4"
 	}
-	"** SECRET FREEZE MACHINE UNLOCKED **"
+	"11165600"
 	{
-		"chi"		"**冰冻枪解锁，快去拿**"
+		"enable"		"0"
+		"hammerid"		"11165600"
+		"m_iname"		"tram_zm_break_3"
 	}
-	"** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
+	"11165630"
 	{
-		"chi"		"**一位玩家拾起了冰冻枪（减速僵尸）**"
+		"enable"		"0"
+		"hammerid"		"11165630"
+		"m_iname"		"tram_zm_break_4"
 	}
-	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 30 SECONDS **"
+	"11241126"
 	{
-		"chi"		"**D8岩石门将会在30秒后爆破**"
+		"enable"		"0"
+		"hammerid"		"11241126"
+		"m_iname"		"timer_brush_start"
 	}
-	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 20 SECONDS **"
+	"11100079"
 	{
-		"chi"		"**D8岩石门将会在20秒后爆破**"
+		"enable"		"0"
+		"hammerid"		"11100079"
+		"m_iname"		"map_spawn_gates"
 	}
-	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+	"11168837"
 	{
-		"chi"		"**D8岩石门将会在10秒后爆破**"
+		"enable"		"0"
+		"hammerid"		"11168837"
+		"m_iname"		"freezemachine_door_locked"
 	}
-	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+	"11994573"
 	{
-		"chi"		"**D8岩石门将会在5秒后爆破**"
+		"enable"		"0"
+		"hammerid"		"11994573"
+		"m_iname"		"break_8"
 	}
-	"** ROCKY DOOR IN SECTION D8 IS BROKEN ** FALL BACK **"
+	"12508526"
 	{
-		"chi"		"**岩石门已被爆破，快跑**"
+		"enable"		"0"
+		"hammerid"		"12508526"
+		"m_iname"		"secret_breakables"
 	}
-	"** ACTIVATE THE TELEPORTER WITH THE COMPUTER BUTTONS **"
+	"12508556"
 	{
-		"chi"		"**快去计算机那里按按钮激活传送门**"
+		"enable"		"0"
+		"hammerid"		"12508556"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TELEPORTER WILL BE ACTIVATED IN 30 SECONDS **"
+	"12508577"
 	{
-		"chi"		"**传送门将会在30秒后打开**"
+		"enable"		"0"
+		"hammerid"		"12508577"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TELEPORTER WILL BE ACTIVATED IN 20 SECONDS **"
+	"12508583"
 	{
-		"chi"		"**传送门将会在20秒后打开**"
+		"enable"		"0"
+		"hammerid"		"12508583"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TELEPORTER WILL BE ACTIVATED IN 10 SECONDS **"
+	"12508592"
 	{
-		"chi"		"**传送门将会在10秒后打开**"
+		"enable"		"0"
+		"hammerid"		"12508592"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TELEPORTER WILL BE ACTIVATED IN 5 SECONDS **"
+	"12508601"
 	{
-		"chi"		"**传送门将会在5秒后打开**"
+		"enable"		"0"
+		"hammerid"		"12508601"
+		"m_iname"		"secret_breakables"
 	}
-	"** ACTIVATING THE TELEPORTER ** FALL BACK **"
+	"12508607"
 	{
-		"chi"		"**传送门打开了，快跑**"
+		"enable"		"0"
+		"hammerid"		"12508607"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 60 SECONDS **"
+	"12508613"
 	{
-		"chi"		"**火车将在60秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508613"
+		"m_iname"		"secret_breakables"
 	}
-	"** SONG PLAYING: HALO 2 OST VOL. 1 - IN AMBER CLAD **"
+	"12508622"
 	{
-		"chi"		"**正在播放的音乐：HALO 2 OST VOL. 1 - IN AMBER CLAD**"
+		"enable"		"0"
+		"hammerid"		"12508622"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 50 SECONDS **"
+	"12508625"
 	{
-		"chi"		"**火车将在50秒后离开**"
-		"DoorCountDown"		"50"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"12508625"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 40 SECONDS **"
+	"12508637"
 	{
-		"chi"		"**火车将在40秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508637"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 30 SECONDS **"
+	"12508640"
 	{
-		"chi"		"**火车将在30秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508640"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 20 SECONDS **"
+	"12508652"
 	{
-		"chi"		"**火车将在20秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508652"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 10 SECONDS **"
+	"12508655"
 	{
-		"chi"		"**火车将在10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508655"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN WILL LEAVE IN 5 SECONDS **"
+	"12508667"
 	{
-		"chi"		"**火车将在5秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508667"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE TRAIN IS LEAVING NOW ** BE INSIDE **"
+	"12508670"
 	{
-		"chi"		"**没时间解释了，快上车**"
+		"enable"		"0"
+		"hammerid"		"12508670"
+		"m_iname"		"secret_breakables"
 	}
-	"** HUMANS WIN **"
+	"12508682"
 	{
-		"chi"		"**人类获胜**"
+		"enable"		"0"
+		"hammerid"		"12508682"
+		"m_iname"		"secret_breakables"
 	}
-	"** EASY MODE COMPLETE ** HARD MODE UNLOCKED **"
+	"12508685"
 	{
-		"chi"		"**简易难度通关，困难难度解锁**"
+		"enable"		"0"
+		"hammerid"		"12508685"
+		"m_iname"		"secret_breakables"
 	}
-	"** CURRENT: HARD MODE **"
+	"12508697"
 	{
-		"chi"		"**关卡：困难模式**"
+		"enable"		"0"
+		"hammerid"		"12508697"
+		"m_iname"		"secret_breakables"
 	}
-	"** SONG PLAYING: HYBRID - EMPIRE **"
+	"12508700"
 	{
-		"chi"		"**正在播放的音乐：HYBRID - EMPIRE**"
+		"enable"		"0"
+		"hammerid"		"12508700"
+		"m_iname"		"secret_breakables"
 	}
-	"** AMMO BOX HAS BEEN PICKED UP **"
+	"12508712"
 	{
-		"chi"		"**一位玩家拾起了弹药箱（开启后无限弹药）**"
+		"enable"		"0"
+		"hammerid"		"12508712"
+		"m_iname"		"secret_breakables"
 	}
-	"** SLOWMOTION GUN HAS BEEN PICKED UP **"
+	"12508724"
 	{
-		"chi"		"**一位玩家拾起了减速器（开启后范围内减速僵尸）**"
+		"enable"		"0"
+		"hammerid"		"12508724"
+		"m_iname"		"secret_breakables"
 	}
-	"** PUSH GUN HAS BEEN PICKED UP **"
+	"12508730"
 	{
-		"chi"		"**一位玩家拾起了推力枪（跟随主人范围内推开僵尸，慎用）**"
+		"enable"		"0"
+		"hammerid"		"12508730"
+		"m_iname"		"secret_breakables"
 	}
-	"** NADE SPAWNER HAS BEEN PICKED UP **"
+	"12508736"
 	{
-		"chi"		"**一位玩家拾起了手雷堆（产生手雷）**"
+		"enable"		"0"
+		"hammerid"		"12508736"
+		"m_iname"		"secret_breakables"
 	}
-	"** SECRET FLAMETHROWER UNLOCKED **"
+	"12508742"
 	{
-		"chi"		"**喷火器已解锁，快去拿**"
+		"enable"		"0"
+		"hammerid"		"12508742"
+		"m_iname"		"secret_breakables"
 	}
-	"** SECRET FLAMETHROWER HAS BEEN PICKED UP **"
+	"12508745"
 	{
-		"chi"		"**一位玩家拾起了喷火器（喷火减速僵尸，有燃料）**"
+		"enable"		"0"
+		"hammerid"		"12508745"
+		"m_iname"		"secret_breakables"
 	}
-	"** SECRET CONFUSING TOOL UNLOCKED **"
+	"12508754"
 	{
-		"chi"		"**混淆枪已解锁，快去拿**"
+		"enable"		"0"
+		"hammerid"		"12508754"
+		"m_iname"		"secret_breakables"
 	}
-	"** SECRET CONFUSING TOOL HAS BEEN PICKED UP **"
+	"12508760"
 	{
-		"chi"		"**一位玩家拾起了混淆枪（使僵尸失明，有燃料）**"
+		"enable"		"0"
+		"hammerid"		"12508760"
+		"m_iname"		"secret_breakables"
 	}
-	"** BOMB PLACER HAS BEEN PICKED UP **"
+	"12508769"
 	{
-		"chi"		"**一位玩家拾起了地雷（放置地雷）**"
+		"enable"		"0"
+		"hammerid"		"12508769"
+		"m_iname"		"secret_breakables"
 	}
-	"** DEFEND SECTION A3 UNTIL THE GATE BREAKS **"
+	"12508849"
 	{
-		"chi"		"**坚守住A3大门，直到大门打破**"
+		"enable"		"0"
+		"hammerid"		"12508849"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE GATE IN SECTION A3 WILL BREAK IN 10 SECONDS **"
+	"12508858"
 	{
-		"chi"		"**A3大门将会在10秒后打破**"
+		"enable"		"0"
+		"hammerid"		"12508858"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE GATE IN SECTION A3 WILL BREAK IN 5 SECONDS **"
+	"12508861"
 	{
-		"chi"		"**A3大门将会在5秒后打破**"
+		"enable"		"0"
+		"hammerid"		"12508861"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE GATE IN SECTION A3 IS BROKEN ** FALL BACK **"
+	"12508873"
 	{
-		"chi"		"**A3大门已被破坏，撤退**"
+		"enable"		"0"
+		"hammerid"		"12508873"
+		"m_iname"		"secret_breakables"
 	}
-	"** TRAM 2 WILL LEAVE IN 30 SECONDS **"
+	"12508876"
 	{
-		"chi"		"**二号电车将会在30秒后离开**"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
+		"enable"		"0"
+		"hammerid"		"12508876"
+		"m_iname"		"secret_breakables"
 	}
-	"** EVERYBODY COVER TRAM 2 **"
+	"12508888"
 	{
-		"chi"		"**防守住二号电车**"
+		"enable"		"0"
+		"hammerid"		"12508888"
+		"m_iname"		"secret_breakables"
 	}
-	"** TRAM 2 WILL LEAVE IN 15 SECONDS **"
+	"12508899"
 	{
-		"chi"		"**二号电车将会在15秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12508899"
+		"m_iname"		"secret_breakables"
 	}
-	"** TRAM 2 WILL LEAVE IN 5 SECONDS **"
+	"12508908"
 	{
-		"chi"		"**二号电车将会在5秒后离开*"
+		"enable"		"0"
+		"hammerid"		"12508908"
+		"m_iname"		"secret_breakables"
 	}
-	"** ALL GET IN TRAM 2 **"
+	"12508917"
 	{
-		"chi"		"**所有人都进二号电车，快**"
+		"enable"		"0"
+		"hammerid"		"12508917"
+		"m_iname"		"secret_breakables"
 	}
-	"** COVER SECTION B7 FOR 15 SECONDS **"
+	"12508926"
 	{
-		"chi"		"**防守B7大门15秒**"
+		"enable"		"0"
+		"hammerid"		"12508926"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE GATE IN SECTION B7 WILL BREAK IN 10 SECONDS **"
+	"12508935"
 	{
-		"chi"		"**B7大门将会在10秒后打破**"
+		"enable"		"0"
+		"hammerid"		"12508935"
+		"m_iname"		"secret_breakables"
 	}
-	"** THE GATE IN SECTION B7 WILL BREAK IN 5 SECONDS **"
+	"12508944"
 	{
-		"chi"		"**B7大门将会在5秒后打破**"
+		"enable"		"0"
+		"hammerid"		"12508944"
+		"m_iname"		"secret_breakables"
 	}
-	"** ACTIVATING THE TELEPORTER ** GET READY TO FALL BACK **"
+	"8730981"
 	{
-		"chi"		"**激活电梯，准备跑了**"
+		"enable"		"0"
+		"hammerid"		"8730981"
+		"m_iname"		"ventlocker_unlocker"
 	}
-	"** RUN OUTSIDE TO THE PYRAMID **"
+	"11719905"
 	{
-		"chi"		"**快跑到外面的金字塔**"
+		"enable"		"1"
+		"hammerid"		"11719905"
+		"m_iname"		"boss_all_thruster_pusher"
 	}
-	"** SONG PLAYING: E.S. POSTHUMUS - NINEVEH **"
+	"5486643"
 	{
-		"chi"		"**正在播放的音乐：E.S. POSTHUMUS - NINEVEH**"
+		"enable"		"1"
+		"hammerid"		"5486643"
+		"m_iname"		"boss_all_nadecatcher"
 	}
-	"** ZOMBIES ARE TRAPPED FOR 5 SECONDS **"
+	"13149573"
 	{
-		"chi"		"**僵尸被困住5秒钟**"
+		"enable"		"1"
+		"hammerid"		"13149573"
+		"m_iname"		"boss_all_firepoint"
 	}
-	"** ZOMBIES ARE NO LONGER TRAPPED **"
+	"6453344"
 	{
-		"chi"		"**僵尸追尾了！**"
+		"enable"		"1"
+		"hammerid"		"6453344"
+		"m_iname"		"boss_all_trigger_attack_antibul"
 	}
-	"** SAFEBOX BROKEN ** PRESS THE BUTTON TO ACTIVATE THE NUKE **"
+	"9964099"
 	{
-		"chi"		"**安全盒子被打破，赶紧按按钮激活核弹**"
+		"enable"		"1"
+		"hammerid"		"9964099"
+		"m_iname"		"boss_all_minecatcher"
 	}
-	"** NUKE ACTIVATED ** DEFEND THE PYRAMID FOR 40 SECONDS **"
+	"12057728"
 	{
-		"chi"		"**核弹已激活，防守金字塔40秒**"
-		"DoorCountDown"		"40"
-		"ico"		"icon_tip"
+		"enable"		"1"
+		"hammerid"		"12057728"
+		"m_iname"		"boss_extreme_hitpoint"
 	}
-	"** NUKE WILL BE DROPPED IN 30 SECONDS **"
+	"12057803"
 	{
-		"chi"		"**核弹将会在30秒后到来**"
+		"enable"		"1"
+		"hammerid"		"12057803"
+		"m_iname"		"boss_godmode_hitpoint"
 	}
-	"** NUKE WILL BE DROPPED IN 20 SECONDS **"
+	"12057806"
 	{
-		"chi"		"**核弹将会在20秒后到来**"
+		"enable"		"1"
+		"hammerid"		"12057806"
+		"m_iname"		"boss_impossible_hitpoint"
 	}
-	"** NUKE WILL BE DROPPED IN 10 SECONDS **"
+	"11460849"
 	{
-		"chi"		"**核弹将会在10秒后到来**"
+		"enable"		"0"
+		"hammerid"		"11460849"
+		"m_iname"		"map_bonus_vote_gate"
 	}
-	"** NUKE WILL BE DROPPED IN 5 SECONDS **"
+	"7113650"
 	{
-		"chi"		"**核弹将会在5秒后到来**"
+		"enable"		"0"
+		"hammerid"		"7113650"
+		"m_iname"		"zmstop_brush_4"
 	}
-	"** ALL FALL BACK ** PYRAMID DOOR IS CLOSING **"
+	"9301882"
 	{
-		"chi"		"**守住，金字塔要关门了！**"
-	}
-	"** HUMANS WON **"
-	{
-		"chi"		"**人类胜利**"
-	}
-	"** HARD MODE COMPLETE ** EXTREME MODE UNLOCKED **"
-	{
-		"chi"		"**困难难度通关，极限难度解锁**"
-	}
-	"** CURRENT: EXTREME MODE **"
-	{
-		"chi"		"**关卡：极限难度**"
-	}
-	"** SONG PLAYING: HYBRID - DOGSTAR **"
-	{
-		"chi"		"**正在播放的音乐：HYBRID - DOGSTAR**"
-	}
-	"** TRAM 1 AND 2 WILL LEAVE IN 30 SECONDS **"
-	{
-		"chi"		"**一号、二号电车将会在30秒后同时离开**"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
-	}
-	"** EVERYBODY COVER TRAM 1 AND 2 **"
-	{
-		"chi"		"**守住电车，不要让僵尸靠近**"
-	}
-	"** TRAM 1 AND 2 WILL LEAVE IN 15 SECONDS **"
-	{
-		"chi"		"**一号、二号电车将会在15秒后同时离开**"
-	}
-	"** TRAM 1 AND 2 WILL LEAVE IN 5 SECONDS **"
-	{
-		"chi"		"**一号、二号电车将会在5秒后同时离开**"
-	}
-	"** ALL GET IN TRAM 1 OR 2 **"
-	{
-		"chi"		"**所有人进一号或者二号电车（请一起进入）**"
-	}
-	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 15 SECONDS **"
-	{
-		"chi"		"**D8岩石门将会在15秒后爆破**"
-	}
-	"** THE TELEPORTER WILL BE ACTIVATED IN 40 SECONDS **"
-	{
-		"chi"		"**传送门将会在40秒后打开**"
-		"DoorCountDown"		"40"
-	}
-	"** MINI NUKE HAS BEEN PICKED UP **"
-	{
-		"chi"		"**一位玩家拾起了迷你核弹（请听指挥）**"
-	}
-	"** HEALTH BOX HAS BEEN PICKED UP **"
-	{
-		"chi"		"**一位玩家拾起了医疗箱（加血，一次性）**"
-	}
-	"** EXORATH HAS LOCATED YOUR POSITION ** BE PREPARED FOR A FIGHT **"
-	{
-		"chi"		"**EXORATH已经锁定了你们的位置，准备好战斗吧！**"
-	}
-	"** SONG PLAYING: REMORSE CODE - TRANSCEND **"
-	{
-		"chi"		"**正在播放的音乐：REMORSE CODE - TRANSCEND**"
-	}
-	"** THE VENT NEED SOME PROTECTION **"
-	{
-		"chi"		"**需要一些勇士守住通风管道**"
-	}
-	"** 2 MINUTES LEFT BEFORE EXORATH DOES THE ULTIMATE ATTACK **"
-	{
-		"chi"		"**EXORATH将会在两分钟后放大招**"
-	}
-	"** EXORATH HAS LOST THE BATTLE **"
-	{
-		"chi"		"**EXORATH输了这场战斗，准备撤退**"
-	}
-	"** SONG PLAYING: XENOBLADE CHRONICLES - TIME TO FIGHT **"
-	{
-		"chi"		"**正在播放的音乐：XENOBLADE CHRONICLES - TIME TO FIGHT**"
-	}
-	"** DEFEND THE FLYING PLATE UNTIL IT RAISES UP **"
-	{
-		"chi"		"**坚守飞行板块！**"
-	}
-	"** FLYING PLATE WILL RAISE UP IN 40 SECONDS **"
-	{
-		"chi"		"**飞行板块将会在40秒后飞起**"
-		"DoorCountDown"		"40"
-		"ico"		"icon_tip"
-	}
-	"** FLYING PLATE WILL RAISE UP IN 20 SECONDS **"
-	{
-		"chi"		"**飞行板块将会在20秒后飞起**"
-	}
-	"** FLYING PLATE WILL RAISE UP IN 5 SECONDS **"
-	{
-		"chi"		"**飞行板块将会在5秒后飞起**"
-	}
-	"** HUMANS INSIDE THE VENT FAILED ** ZOMBIES SPOTTED **"
-	{
-		"chi"		"**人类没有防守住通风管道，僵尸出来了！**"
-	}
-	"** EXTREME MODE COMPLETE ** GODMODE UNLOCKED **"
-	{
-		"chi"		"**极限难度通关，上帝难度解锁**"
-	}
-	"** ZOMBIES DETECTED IN THE TEMPLE **"
-	{
-		"chi"		"**寺庙里发现了僵尸**"
-	}
-	"** HARD MODE FAILED ** RESTARTING **"
-	{
-		"chi"		"**困难难度失败，再来一局**"
-	}
-	"** CURRENT: GODMODE **"
-	{
-		"chi"		"**关卡：上帝难度**"
-	}
-	"** SONG PLAYING: HYBRID - CHOKE **"
-	{
-		"chi"		"**正在播放的音乐：HYBRID - CHOKE**"
-	}
-	"** EXORATH HAS BECOME STRONGER ** BE PREPARED FOR A FIGHT **"
-	{
-		"chi"		"**EXORATH变得更强大了，准备好战斗吧！**"
-	}
-	"** SONG PLAYING: TWO STEPS FROM HELL - POWER OF DARKNESS **"
-	{
-		"chi"		"**正在播放的音乐：TWO STEPS FROM HELL - POWER OF DARKNESS**"
-	}
-	"** SECRET NUKE HAS BEEN UNLOCKED **"
-	{
-		"chi"		"**秘密核弹已解锁，快去拿**"
-	}
-	"** SECRET NUKE HAS BEEN PICKED UP **"
-	{
-		"chi"		"**一位玩家拾起了秘密核弹（听指挥）**"
-	}
-	"** NO MORE HUMANS LEFT INSIDE THE ARENA ** VENT EXPLODING **"
-	{
-		"chi"		"**没有人类生存在竞技场中，核爆**"
-	}
-	"** RESTARTING MODE **"
-	{
-		"chi"		"**人类输了，再来一次**"
-	}
-	"** ZOMBIES DETECTED IN THE TRAIN **"
-	{
-		"chi"		"**火车上发现僵尸**"
-	}
-	"** EASY MODE FAILED ** RESTARTING **"
-	{
-		"chi"		"**简易难度失败，再来一次**"
-	}
-	"** 30 SECONDS LEFT **"
-	{
-		"chi"		"**还剩下30秒**"
-	}
-	"** 20 SECONDS LEFT **"
-	{
-		"chi"		"**还剩下20秒**"
-	}
-	"** 10 SECONDS LEFT **"
-	{
-		"chi"		"**还剩下10秒**"
-	}
-	"** EXORATH IS CHARGING ANNIHILATION DESTRUCTION **"
-	{
-		"chi"		"**EXORATH正在充能[终极湮没]**"
-	}
-	"** 5 Seconds left **"
-	{
-		"chi"		"**还剩下5秒**"
-	}
-	"** SONG PLAYING: E.S. POSTHUMUS - POMPEII **"
-	{
-		"chi"		"**正在播放的音乐：E.S. POSTHUMUS - POMPEII**"
-	}
-	"** SONG PLAYING: E.S POSTHUMUS - KUVERA **"
-	{
-		"chi"		"**正在播放的音乐：E.S POSTHUMUS - KUVERA**"
-	}
-	"** DEFEND THE PELICAN UNTIL LEAVING **"
-	{
-		"chi"		"**防守这里直到准备撤离**"
-	}
-	"** PELICAN WILL LEAVE IN 50 SECONDS **"
-	{
-		"chi"		"**坚守50秒**"
-		"DoorCountDown"		"50"
-	}
-	"** PELICAN WILL LEAVE IN 30 SECONDS **"
-	{
-		"chi"		"**还剩下30秒，顶住**"
-	}
-	"** PELICAN WILL LEAVE IN 20 SECONDS **"
-	{
-		"chi"		"**还剩下20秒，顶住**"
-	}
-	"** PELICAN WILL LEAVE IN 5 SECONDS **"
-	{
-		"chi"		"**最后5秒，快撤退！快撤退！**"
-	}
-	"** ZOMBIES DETECTED INSIDE AIRPLANE **"
-	{
-		"chi"		"**僵尸突破进了飞机**"
-	}
-	"** GODMODE FAILED ** RESTARTING **"
-	{
-		"chi"		"**上帝模式失败，再来一局**"
-	}
-	"** ONLY ONE LEVER LEFT **"
-	{
-		"chi"		"**还剩下一个操作杆**"
-	}
-	"** ALL LEVERS HAVE BEEN FOUND AND ACTIVATED **"
-	{
-		"chi"		"**所有操作杆已被发现并激活**"
-	}
-	"** EXORATH WILL NOT USE THE ANNIHILATION ATTACK **"
-	{
-		"chi"		"**EXORATH将不会使用[终极湮没]**"
-	}
-	"** SECRET VENTLEVER HAS BEEN PICKED UP **"
-	{
-		"chi"		"**一位玩家拾起了秘密排气杆**"
-	}
-	"** SECRET VENTLEVER HAS BEEN ACTIVATED **"
-	{
-		"chi"		"**秘密排气杆已被激活**"
-	}
-	"** 1 MORE SLOT HAS BEEN UNLOCKED IN THE VENT **"
-	{
-		"chi"		"**通风管道解锁了更多的通道**"
-	}
-	"** ZOMBIES DETECTED ON FLYING PLATE **"
-	{
-		"chi"		"**僵尸突破进了飞行板块**"
-	}
-	"** EXTREME MODE FAILED ** RESTARTING **"
-	{
-		"chi"		"**极限难度失败，再来一局**"
-	}
-	"** GODMODE COMPLETE ** IMPOSSIBLE MODE UNLOCKED **"
-	{
-		"chi"		"**上帝模式完成**完全不可能模式解锁**"
-	}
-	"** CURRENT: IMPOSSIBLE MODE **"
-	{
-		"chi"		"**关卡：完全不可能**"
-	}
-	"** SONG PLAYING: HYBRID - MARRAKECH **"
-	{
-		"chi"		"**正在播放的歌曲：HYBRID-MARRAKECH**"
-	}
-	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 20 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 15 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 10 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 5 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** ALL ROCKY DOORS IN SECTION D8 ARE BROKEN ** FALL BACK **"
-	{
-		"chi"		"** **"
-	}
-	"** EXORATH IS TAKEN HIS FINAL REVENGE ** BE PREPARED FOR A FIGHT **"
-	{
-		"chi"		"**EXORATH开始了他最后的复仇**准备战斗**"
-	}
-	"** SONG PLAYING: DEUS EX OST - SARIF BATTLE THEME **"
-	{
-		"chi"		"** **"
-	}
-	"** SOMETHING WENT WRONG ** ACTIVATING MASSIVE NUKE **"
-	{
-		"chi"		"**有些不对劲**激活核武器**"
-	}
-	"** SONG PLAYING: TWO STEPS FROM HELL - FATAL FURY **"
-	{
-		"chi"		"** **"
-	}
-	"** THE HELICOPTER WILL START IN 35 SECONDS **"
-	{
-		"chi"		"**直升机将于35秒后起飞**"
-	}
-	"** THE HELICOPTER WILL START IN 25 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** THE HELICOPTER WILL START IN 15 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** THE HELICOPTER WILL START IN 10 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** THE HELICOPTER IS ON HIS WAY **"
-	{
-		"chi"		"**直升机正在路上**"
-	}
-	"** THE HELICOPTER IS HERE ** GET IN **"
-	{
-		"chi"		"**直升机到了**快上去**"
-	}
-	"** THE HELICOPTER IS LEAVING IN 5 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** THE HELICOPTER IS LEAVING NOW ** GET IN **"
-	{
-		"chi"		"** **"
-	}
-	"** HUMANS WON ** YOU ROCK **"
-	{
-		"chi"		"** **"
-	}
-	"** ALL LEVELS COMPLETE ** ACTIVATING BONUS **"
-	{
-		"chi"		"**完成所有关卡**激活奖励**"
-	}
-	"** MAP MADE BY PURPZZ ** THANKS FOR PLAYING **"
-	{
-		"chi"		"** **"
-	}
-	"** BONUS MODE **"
-	{
-		"chi"		"** **"
-	}
-	"** SONG PLAYING: HYBRID - KEEP IT IN THE FAMILY **"
-	{
-		"chi"		"** **"
-	}
-	"** GET READY TO VOTE **"
-	{
-		"chi"		"** **"
-	}
-	"** WELCOME TO THE VOTING SECTION **"
-	{
-		"chi"		"** **"
-	}
-	"** STAND ON THE PLATFORM FROM YOUR SELECTED CHOICE **"
-	{
-		"chi"		"** **"
-	}
-	"** THE MODE THAT WINS WILL BE PLAYED UNTIL MAP CHANGE **"
-	{
-		"chi"		"** **"
-	}
-	"** VOTING ENABLED **"
-	{
-		"chi"		"** **"
-	}
-	"** VOTING COMPLETE **"
-	{
-		"chi"		"** **"
-	}
-	"** IMPOSSIBLE MODE SELECTED **"
-	{
-		"chi"		"** **"
-	}
-	"** MASSIVE NUKE IN 30 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** ZR ENABLED **"
-	{
-		"chi"		"** **"
-	}
-	"** MASSIVE NUKE IN 20 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** MASSIVE NUKE IN 10 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** MASSIVE NUKE IN 5 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** IMPOSSIBLE MODE COMPLETE **"
-	{
-		"chi"		"** **"
-	}
-	"** BONUS ACTIVE ** RELOADING IMPOSSIBLE MODE **"
-	{
-		"chi"		"** **"
-	}
-	"** ZOMBIES DETECTED IN HELICOPTER **"
-	{
-		"chi"		"** **"
-	}
-	"** IMPOSSIBLE MODE FAILED ** RESTARTING **"
-	{
-		"chi"		"** **"
-	}
-	"** 3 MORE SLOTS HAVE BEEN UNLOCKED IN THE VENT **"
-	{
-		"chi"		"** **"
-	}
-	"** 2 MORE SLOTS HAVE BEEN UNLOCKED IN THE VENT **"
-	{
-		"chi"		"** **"
-	}
-	"**WALL BREAKING IN 20 SECONDS**"
-	{
-		"chi"		"** **"
-	}
-	"***DOORS OPENING IN 20 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 40 SECONDS **"
-	{
-		"chi"		"** **"
-	}
-	"** EXTREME MODE SELECTED **"
-	{
-		"chi"		"** **"
-	}
-	"** RANDOM SELECTED **"
-	{
-		"chi"		"** **"
-	}
-	"** CHOOSING RANDOM MODE **"
-	{
-		"chi"		"** **"
-	}
-	"** HARD MODE SELECTED **"
-	{
-		"chi"		"** **"
-	}
-	"** EXTREME MODE COMPLETE **"
-	{
-		"chi"		"** **"
-	}
-	"** BONUS ACTIVE ** RELOADING EXTREME MODE **"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"9301882"
+		"m_iname"		"nuke_secret_physbox"
 	}
 }

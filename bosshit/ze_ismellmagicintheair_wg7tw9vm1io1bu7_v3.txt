@@ -1,299 +1,363 @@
-"Console_T"
+"BOSSHP"
 {
-	"<== Map made by qazlll456 [Hong Kong]==>"
+	"233781"
 	{
-		"chi"		">>>地图制作qazlll456【香港】---地图翻译--玲-莎花<<<"
+		"enable"		"0"
+		"hammerid"		"233781"
+		"m_iname"		"Item_glock1model1"
 	}
-	"<== Also Thank [Syoudous] for helping testing the map ==>"
+	"233794"
 	{
-		"chi"		">>>感谢[Syoudous]帮忙测试地图<<<"
+		"enable"		"0"
+		"hammerid"		"233794"
+		"m_iname"		"Item_glock1buttonmodel"
 	}
-	"<== The most recent version is in Mapeadores ==>"
+	"216661"
 	{
-		"chi"		">>>最新的版本Mapeadores<<<"
+		"enable"		"0"
+		"hammerid"		"216661"
+		"m_iname"		"redsign"
 	}
-	"<==This is warm up round==>"
+	"202913"
 	{
-		"chi"		">>>这只是热身<<<"
+		"enable"		"0"
+		"hammerid"		"202913"
+		"m_iname"		"teleportbreak"
 	}
-	"<==Background music is from an HK band, it calls ToNick, Hope you enjoy it. ==>"
+	"202952"
 	{
-		"chi"		">>>背景音乐是来自香港乐队Tonick，希望你喜欢<<<"
+		"enable"		"0"
+		"hammerid"		"202952"
+		"m_iname"		"magicredpoint1"
 	}
-	"<== www.youtube.comwatch?v=sENLQMsYpHE ==>"
+	"202955"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"202955"
+		"m_iname"		"magicredpoint2"
 	}
-	"<== Door will be open in 10 second ==>"
+	"202958"
 	{
-		"chi"		">>>10秒钟后开门<<<"
+		"enable"		"0"
+		"hammerid"		"202958"
+		"m_iname"		"magicredpoint3"
 	}
-	"<== Small boat will start going in 10 second==>"
+	"202961"
 	{
-		"chi"		">>>小船将在10秒钟内开船<<<"
+		"enable"		"0"
+		"hammerid"		"202961"
+		"m_iname"		"magictable"
 	}
-	"<==Warm up round end==>"
+	"203036"
 	{
-		"chi"		">>>热身回合结束<<<"
+		"enable"		"0"
+		"hammerid"		"203036"
+		"m_iname"		"zombiebreak"
 	}
-	"<== We need to go to the war ship!==>"
+	"193109"
 	{
-		"chi"		">>>我们需要去军舰<<<"
+		"enable"		"0"
+		"hammerid"		"193109"
+		"m_iname"		"BoxLv1"
 	}
-	"<==Story need to be discovered==>"
+	"193114"
 	{
-		"chi"		">>>故事需要被发现<<<"
+		"enable"		"0"
+		"hammerid"		"193114"
+		"m_iname"		"BoxLv2"
 	}
-	"<== War Ship will start going in 30 second ==>"
+	"182894"
 	{
-		"chi"		">>>军舰将在30秒钟内开始航行<<<"
+		"enable"		"0"
+		"hammerid"		"182894"
+		"m_iname"		"smallboat1_playerc"
 	}
-	"<== War Ship will start going in 10 second ==>"
+	"182927"
 	{
-		"chi"		">>>军舰将在10秒钟内开始航行<<<"
+		"enable"		"0"
+		"hammerid"		"182927"
+		"m_iname"		"smallboat2_playerc"
 	}
-	"<== There is a big ice hill block our way, Shoot to destory! ==>"
+	"179799"
 	{
-		"chi"		">>>有一个大的冰山挡住了我们的去路，射击摧毁！<<<"
+		"enable"		"0"
+		"hammerid"		"179799"
+		"m_iname"		"leo"
 	}
-	"<== Or wait 1 min let the war ship crash it==>"
+	"179997"
 	{
-		"chi"		">>>或者守住军舰1分钟！<<<"
+		"enable"		"0"
+		"hammerid"		"179997"
+		"m_iname"		"woman"
 	}
-	"<== Big ice hill destoryed ==>"
+	"161091"
 	{
-		"chi"		">>>大冰山已破坏<<<"
+		"enable"		"0"
+		"hammerid"		"161091"
+		"m_iname"		"snig2"
 	}
-	"<== There is a magic table, try to find the way to open it ==>"
+	"161109"
 	{
-		"chi"		">>>有一张神奇的桌子，试着找到打开它的方法<<<"
+		"enable"		"0"
+		"hammerid"		"161109"
+		"m_iname"		"snig1"
 	}
-	"<== You may go now! ==>"
+	"161121"
 	{
-		"chi"		">>>你现在可以走了<<<"
+		"enable"		"0"
+		"hammerid"		"161121"
+		"m_iname"		"snig3"
 	}
-	"<== Wooden boat 4 is to starting go ==>"
+	"161183"
 	{
-		"chi"		">>>4号船要出发了<<<"
+		"enable"		"0"
+		"hammerid"		"161183"
+		"m_iname"		"icehillwall1"
 	}
-	"<== Wooden boat 3 is to starting go ==>"
+	"161197"
 	{
-		"chi"		">>>3号船要出发了<<<"
+		"enable"		"0"
+		"hammerid"		"161197"
+		"m_iname"		"icehillwall2"
 	}
-	"<== Wooden boat 2 is to starting go ==>"
+	"161205"
 	{
-		"chi"		">>>2号船要出发了<<<"
+		"enable"		"0"
+		"hammerid"		"161205"
+		"m_iname"		"icehillwall3"
 	}
-	"<== You need to respect dead people, you should bow==>"
+	"161213"
 	{
-		"chi"		">>>你需要尊重死去的人，你应该鞠躬<<<"
+		"enable"		"0"
+		"hammerid"		"161213"
+		"m_iname"		"icehillwall4"
 	}
-	"<== You made it!, give it a moment==>"
+	"161221"
 	{
-		"chi"		">>>你做到了！它需要一点时间<<<"
+		"enable"		"0"
+		"hammerid"		"161221"
+		"m_iname"		"icehillwall5"
 	}
-	"<==teleport can be enter in 30 second ==>"
+	"161229"
 	{
-		"chi"		">>>传送门可以在30秒内进入<<<"
+		"enable"		"0"
+		"hammerid"		"161229"
+		"m_iname"		"icehillwall6"
 	}
-	"<==teleport can be enter in 15 second ==>"
+	"161237"
 	{
-		"chi"		">>>传送门可以在15秒内进入<<<"
+		"enable"		"0"
+		"hammerid"		"161237"
+		"m_iname"		"icehillwall7"
 	}
-	"<== Wooden boat 1 is to starting go ==>"
+	"161245"
 	{
-		"chi"		">>>1号船要出发了<<<"
+		"enable"		"0"
+		"hammerid"		"161245"
+		"m_iname"		"icehillwall8"
 	}
-	"<==teleport can be enter in 5 second ==>"
+	"161253"
 	{
-		"chi"		">>>传送门可以在5秒内进入<<<"
+		"enable"		"0"
+		"hammerid"		"161253"
+		"m_iname"		"icehillwall9"
 	}
-	"<==teleport actived ==>"
+	"163887"
 	{
-		"chi"		">>>传送点已激活<<<"
+		"enable"		"0"
+		"hammerid"		"163887"
+		"m_iname"		"icehillwall1_pc"
 	}
-	"<== Give me 10 second! ==>"
+	"163914"
 	{
-		"chi"		">>>给我10秒钟<<<"
+		"enable"		"0"
+		"hammerid"		"163914"
+		"m_iname"		"icehillwall2_pc"
 	}
-	"<== spirit is coming to help ==>"
+	"163929"
 	{
-		"chi"		">>>精灵来帮忙了<<<"
+		"enable"		"0"
+		"hammerid"		"163929"
+		"m_iname"		"icehillwall3_pc"
 	}
-	"<== spirit with your side, again ==>"
+	"163969"
 	{
-		"chi"		">>>精灵与你同在<<<"
+		"enable"		"0"
+		"hammerid"		"163969"
+		"m_iname"		"icehillwall4_pc"
 	}
-	"<== Give me another 10 second! ==>"
+	"163990"
 	{
-		"chi"		">>>给我守住10秒<<<"
+		"enable"		"0"
+		"hammerid"		"163990"
+		"m_iname"		"icehillwall5_pc"
 	}
-	"<== Give me final 10 second! ==>"
+	"164008"
 	{
-		"chi"		">>>给我最后10秒<<<"
+		"enable"		"0"
+		"hammerid"		"164008"
+		"m_iname"		"icehillwall6_pc"
 	}
-	"<== Touch the block and wait 5 second==>"
+	"164029"
 	{
-		"chi"		">>>远离触发模块否则会被炸死<<<"
+		"enable"		"0"
+		"hammerid"		"164029"
+		"m_iname"		"icehillwall7_pc"
 	}
-	"<== Et tu, Brute? ==>"
+	"164051"
 	{
-		"chi"		">>>这是外星人？<<<"
+		"enable"		"0"
+		"hammerid"		"164051"
+		"m_iname"		"icehillwall8_pc"
 	}
-	"<== Freedom deserve use life to fight with ==>"
+	"164068"
 	{
-		"chi"		">>>自由值得用生命去奋斗<<<"
+		"enable"		"0"
+		"hammerid"		"164068"
+		"m_iname"		"icehillwall9_pc"
 	}
-	"<== Two hot girl is not with us anymore==>"
+	"156029"
 	{
-		"chi"		">>>福利时间结束<<<"
+		"enable"		"0"
+		"hammerid"		"156029"
+		"m_iname"		"fewsecond gap"
 	}
-	"<== Egg waffle is a spherical egg-based waffle popular in Hong Kong ==>"
+	"144246"
 	{
-		"chi"		">>>这是鸡蛋仔-香港街头小吃<<<"
+		"enable"		"1"
+		"hammerid"		"144246"
+		"m_iname"		"lawlanbosssign"
 	}
-	"<== if a girl doesnt love you, leave, no point to stay anymore ==>"
+	"45829"
 	{
-		"chi"		">>>离开，没必要停留了<<<"
+		"enable"		"0"
+		"hammerid"		"45829"
+		"m_iname"		"firstwaterwall"
 	}
-	"<== Leo is not with us anymore==>"
+	"49039"
 	{
-		"chi"		">>>leo 不再和我们在一起了<<<"
+		"enable"		"0"
+		"hammerid"		"49039"
+		"m_iname"		"magictable1"
 	}
-	"<== Le Comte de Monte-Cristo ==>"
+	"49052"
 	{
-		"chi"		">>>伯爵蒙特卡洛基督山<<<"
+		"enable"		"0"
+		"hammerid"		"49052"
+		"m_iname"		"icewall1"
 	}
-	"<== Manfred von Richthofen ==>"
+	"49076"
 	{
-		"chi"		">>>曼弗雷德-冯-里希特霍芬<<<"
+		"enable"		"0"
+		"hammerid"		"49076"
+		"m_iname"		"magictable1redcube1"
 	}
-	"<== Dog is not human friend, which is his owner weapon ==>"
+	"50379"
 	{
-		"chi"		">>>狗不是人类的朋友！这是他的武器！<<<"
+		"enable"		"0"
+		"hammerid"		"50379"
+		"m_iname"		"magictable2"
 	}
-	"<== I love a girl who doesnt know I exist  ==>"
+	"50382"
 	{
-		"chi"		">>>我爱上一个不知道我存在的女孩<<<"
+		"enable"		"0"
+		"hammerid"		"50382"
+		"m_iname"		"magictable2redcube1"
 	}
-	"<== boss music is coming ==>"
+	"50410"
 	{
-		"chi"		">>>BOSS音乐即将来临<<<"
+		"enable"		"0"
+		"hammerid"		"50410"
+		"m_iname"		"icewall2"
 	}
-	"<== I love doctor who ==>"
+	"50428"
 	{
-		"chi"		">>>我爱医生<<<"
+		"enable"		"0"
+		"hammerid"		"50428"
+		"m_iname"		"icewall3"
 	}
-	"<== I love david tennant ==>"
+	"50450"
 	{
-		"chi"		">>>我爱大卫<<<"
+		"enable"		"0"
+		"hammerid"		"50450"
+		"m_iname"		"magictable3"
 	}
-	"<== The end is coming==>"
+	"50453"
 	{
-		"chi"		">>>即将结束<<<"
+		"enable"		"0"
+		"hammerid"		"50453"
+		"m_iname"		"magictable3redcube1"
 	}
-	"<== story end! ==>"
+	"34396"
 	{
-		"chi"		">>>故事结束<<<"
+		"enable"		"0"
+		"hammerid"		"34396"
+		"m_iname"		"woodenboatmodel1"
 	}
-	"<==Murderer is not the scariest thing, the area make murderer is the scariest thing==>"
+	"34780"
 	{
-		"chi"		">>>凶手不是最可怕的事情，使得凶手成为凶手的事情才是最可怕的<<<"
+		"enable"		"0"
+		"hammerid"		"34780"
+		"m_iname"		"woodenboatmodel2"
 	}
-	"<== R.I.P - Nikola Tesla ==>"
+	"34875"
 	{
-		"chi"		">>>R-I-P 尼古拉特斯拉<<<"
+		"enable"		"0"
+		"hammerid"		"34875"
+		"m_iname"		"woodenboatmodel3"
 	}
-	"<== You made it, you have slayed Law Lan ==>"
+	"35071"
 	{
-		"chi"		">>>你成功杀死了<<<"
+		"enable"		"0"
+		"hammerid"		"35071"
+		"m_iname"		"woodenboatmodel4"
 	}
-	"<== We are free! ==>"
+	"35295"
 	{
-		"chi"		">>>我们自由了!<<<"
+		"enable"		"0"
+		"hammerid"		"35295"
+		"m_iname"		"glassboatmodel1"
 	}
-	"<== Yeah!==>"
+	"24150"
 	{
-		"chi"		">>>太好了<<<"
+		"enable"		"0"
+		"hammerid"		"24150"
+		"m_iname"		"bigicehil1"
 	}
-	"<== Story is already discovered ==>"
+	"20139"
 	{
-		"chi"		">>>故事已经被发现<<<"
+		"enable"		"0"
+		"hammerid"		"20139"
+		"m_iname"		"bigshipmodel"
 	}
-	"<== Relaxing music is coming ==>"
+	"21198"
 	{
-		"chi"		">>>轻松的音乐即将到来<<<"
+		"enable"		"0"
+		"hammerid"		"21198"
+		"m_iname"		"warshipwoodbrige"
 	}
-	"<== Story will not come, enjoy the music ==>"
+	"14429"
 	{
-		"chi"		">>>享受音乐<<<"
+		"enable"		"0"
+		"hammerid"		"14429"
+		"m_iname"		"Spawndoor1"
 	}
-	"<== Eventually, The end will come ==>"
+	"14506"
 	{
-		"chi"		">>>最终的结局<<<"
+		"enable"		"0"
+		"hammerid"		"14506"
+		"m_iname"		"Spawndoor1"
 	}
-	"<== Veni, vidi, vici ==>"
+	"14544"
 	{
-		"chi"		">>>快走！<<<"
+		"enable"		"0"
+		"hammerid"		"14544"
+		"m_iname"		"Spawndoor1"
 	}
-	"<== one piece opening 1st ==>"
+	"193098"
 	{
-		"chi"		">>>one piece opening<<<"
-	}
-	"<== jai guru dev ==>"
-	{
-		"chi"		">>>快走！<<<"
-	}
-	"<== 1 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 2 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 3 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 4 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 5 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 6 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 7 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 8 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 9 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 10 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== 11 ==>"
-	{
-		"chi"		"** **"
-	}
-	"<== Dead is only the beginning , they will rise again just like they were living==>"
-	{
-		"chi"		"** **"
-	}
-	"<== I will not let people know your name, evil one. I will let people forgot you forever ==>"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"193098"
+		"m_iname"		"BoxLv0"
 	}
 }

@@ -1,74 +1,153 @@
-"Console_T"
+"BOSSHP"
 {
-	"<<< Cavern door opens in 45 seconds! >>>"
+	"90173"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"90173"
+		"m_iname"		"Bridge_1"
 	}
-	"<<< Outside door closes in 15 seconds! >>>"
+	"90226"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"90226"
+		"m_iname"		"Icicle_Break"
 	}
-	"<<< Ice breaking in 60 seconds! >>>"
+	"90256"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"90256"
+		"m_iname"		"Bridge_2"
 	}
-	"<<< Zombies teleport in 30 seconds! >>>"
+	"93465"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"93465"
+		"m_iname"		"Break_End"
 	}
-	"<<< Ice breaks in 45 seconds! >>>"
+	"93542"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"93542"
+		"m_iname"		"End_Break_2"
 	}
-	"<<< Gate opens in 30 seconds! >>>"
+	"73243"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"73243"
+		"m_iname"		"Mini_Boss_Breakable"
 	}
-	"<<< Gastly Wind >>>"
+	"75216"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"75216"
+		"m_iname"		"Ice_Break_3"
 	}
-	"<<< Gates open in 10 seconds! >>>"
+	"75384"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"75384"
+		"m_iname"		"Blade_4_Breakable"
 	}
-	"<<< Crystals break in 30 seconds! >>>"
+	"67714"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"67714"
+		"m_iname"		"Blade_3_Breakable"
 	}
-	"<<< Bar door opens in 30 seconds! >>>"
+	"64703"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"64703"
+		"m_iname"		"Blade_2_Breakable"
 	}
-	"<<< Killzone >>>"
+	"43920"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"43920"
+		"m_iname"		"Blade_1_Breakable"
 	}
-	"<<< Replenish >>>"
+	"40552"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"40552"
+		"m_iname"		"Box_2"
 	}
-	"MapGlobal_ConVars"
+	"40568"
 	{
-		"0"
-		{
-			"cvar"		"sm_he_limit 10"
-		}
-		"1"
-		{
-			"cvar"		"sm_smoke_limit 7"
-		}
-		"2"
-		{
-			"cvar"		"sm_molotov_limit 6"
-		}
+		"enable"		"0"
+		"hammerid"		"40568"
+		"m_iname"		"Box_1"
 	}
-	"<<< Zombies teleport in 60 seconds! >>>"
+	"15623"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"15623"
+		"m_iname"		"icicle_2"
 	}
-	"<<< Bridge appearing in 5 seconds! >>>"
+	"15674"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"15674"
+		"m_iname"		"icicle_3"
+	}
+	"12473"
+	{
+		"enable"		"0"
+		"hammerid"		"12473"
+		"m_iname"		"icicle_1"
+	}
+	"1927"
+	{
+		"enable"		"0"
+		"hammerid"		"1927"
+		"m_iname"		"Breakable_1"
+	}
+	"2026"
+	{
+		"enable"		"0"
+		"hammerid"		"2026"
+		"m_iname"		"Ice_Break_1"
+	}
+	"2029"
+	{
+		"enable"		"0"
+		"hammerid"		"2029"
+		"m_iname"		"Ice_Break_1"
+	}
+	"2032"
+	{
+		"enable"		"0"
+		"hammerid"		"2032"
+		"m_iname"		"Ice_Break_1"
+	}
+	"2056"
+	{
+		"enable"		"0"
+		"hammerid"		"2056"
+		"m_iname"		"Ice_Break_1"
+	}
+	"2059"
+	{
+		"enable"		"0"
+		"hammerid"		"2059"
+		"m_iname"		"Ice_Break_1"
+	}
+	"843"
+	{
+		"enable"		"0"
+		"hammerid"		"843"
+		"m_iname"		"Ice_Break_2"
+	}
+	"34144"
+	{
+		"enable"		"0"
+		"hammerid"		"34144"
+		"m_iname"		"Wall"
+	}
+	"55692"
+	{
+		"enable"		"0"
+		"hammerid"		"55692"
+		"m_iname"		"Ice_Bridge_Brush"
 	}
 }

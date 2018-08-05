@@ -1,134 +1,141 @@
-"Console_T"
+"BOSSHP"
 {
-	"-=[ C4 has been armed ]=-"
+	"73230"
 	{
-		"chi"		"C4已被安放"
+		"enable"		"0"
+		"hammerid"		"73230"
+		"m_iname"		"drop_hold_phys"
 	}
-	"-=[ Detonation in 20 seconds ]=-"
+	"18689"
 	{
-		"chi"		"20秒后爆破"
+		"enable"		"0"
+		"hammerid"		"18689"
+		"m_iname"		"start_block_1_physbox"
 	}
-	"DoorCountdown"		"20"
-	"-=[ Detonation in 5 seconds ]=-"
+	"18825"
 	{
-		"chi"		"5秒后爆破"
+		"enable"		"0"
+		"hammerid"		"18825"
+		"m_iname"		"start_block_1_physbox"
 	}
-	"-=[ 4 ]=-"
+	"19202"
 	{
-		"chi"		"4秒"
+		"enable"		"0"
+		"hammerid"		"19202"
+		"m_iname"		"start_block_1_physbox"
 	}
-	"-=[ CLEAR THE FLOOR ]=-"
+	"19504"
 	{
-		"chi"		"咸鱼们守住！"
+		"enable"		"0"
+		"hammerid"		"19504"
+		"m_iname"		"start_block_1_physbox"
 	}
-	"-=[ 2 ]=-"
+	"19537"
 	{
-		"chi"		"2秒"
+		"enable"		"0"
+		"hammerid"		"19537"
+		"m_iname"		"start_block_1_physbox"
 	}
-	"-=[ 1 ]=-"
+	"45914"
 	{
-		"chi"		"1秒，炸了！"
+		"enable"		"0"
+		"hammerid"		"45914"
+		"m_iname"		"lift_hold_breakable_1"
 	}
-	"-=[ Final C4 has been armed ]=-"
+	"45941"
 	{
-		"chi"		"最终的c4已被安放"
+		"enable"		"0"
+		"hammerid"		"45941"
+		"m_iname"		"lift_hold_breakable_1"
 	}
-	"-=[ Zombie spawn has advanced ]=-"
+	"45970"
 	{
-		"chi"		"僵尸重生点更新"
+		"enable"		"0"
+		"hammerid"		"45970"
+		"m_iname"		"lift_hold_breakable_1"
 	}
-	"-=[ Lift starting in 45 seconds ]=-"
+	"28723"
 	{
-		"chi"		"平台45秒后升起"
+		"enable"		"0"
+		"hammerid"		"28723"
+		"m_iname"		"lift_hold_breakable_2"
 	}
-	"-=[ C4 Detonation in 5 seconds... ]=-"
+	"21080"
 	{
-		"chi"		"炸弹5秒后爆炸"
+		"enable"		"0"
+		"hammerid"		"21080"
+		"m_iname"		"start_exit_ladder_wall"
 	}
-	"-=[ Lift starting in 5 seconds ]=-"
+	"18985"
 	{
-		"chi"		"平台5秒后升起"
+		"enable"		"0"
+		"hammerid"		"18985"
+		"m_iname"		"start_block_1_breakable"
 	}
-	"-=[ 3 ]=-"
+	"19038"
 	{
-		"chi"		"3秒"
+		"enable"		"0"
+		"hammerid"		"19038"
+		"m_iname"		"start_block_1_breakable"
 	}
-	"-=[ Air island leaving in 10 seconds ]=-"
+	"19222"
 	{
-		"chi"		"空岛10秒后离开"
+		"enable"		"0"
+		"hammerid"		"19222"
+		"m_iname"		"start_block_1_breakable"
 	}
-	"-=[ Detonation in 25 seconds ]=-"
+	"19273"
 	{
-		"chi"		"25秒后爆破"
+		"enable"		"0"
+		"hammerid"		"19273"
+		"m_iname"		"start_block_1_breakable"
 	}
-	"-=[ Lift leaving in 20 seconds... ]=-"
+	"19487"
 	{
-		"chi"		"平台20秒后升起"
+		"enable"		"0"
+		"hammerid"		"19487"
+		"m_iname"		"start_block_1_breakable"
 	}
-	"-=[ Zombie Spawn Advanced ]=-"
+	"9694"
 	{
-		"chi"		"僵尸重生点更新"
+		"enable"		"0"
+		"hammerid"		"9694"
+		"m_iname"		"start_exit_breakable_1"
 	}
-	"-=[ Lift leaving in 10 seconds... ]=-"
+	"9697"
 	{
-		"chi"		"10秒后升起"
+		"enable"		"0"
+		"hammerid"		"9697"
+		"m_iname"		"start_exit_breakable_2"
 	}
-	"-=[ Lift leaving in 5 seconds... ]=-"
+	"9701"
 	{
-		"chi"		"5秒"
+		"enable"		"0"
+		"hammerid"		"9701"
+		"m_iname"		"start_exit_breakable_3"
 	}
-	"-=[ Boats ready in 90 seconds... ]=-"
+	"8465"
 	{
-		"chi"		"船90秒后离开"
+		"enable"		"0"
+		"hammerid"		"8465"
+		"m_iname"		"start_path_breakable_1"
 	}
-	"DoorCountdown"		"90"
-	"-=[ Command exit opening in 60 seconds ]=-"
+	"8481"
 	{
-		"chi"		"出口60秒后开放"
+		"enable"		"0"
+		"hammerid"		"8481"
+		"m_iname"		"start_path_breakable_2"
 	}
-	"-=[ Heli inbound... ]=-"
+	"8484"
 	{
-		"chi"		"救援来了！"
+		"enable"		"0"
+		"hammerid"		"8484"
+		"m_iname"		"start_path_breakable_3"
 	}
-	"-=[ Boats ready in 60 seconds... ]=-"
+	"55299"
 	{
-		"chi"		"船60秒后就绪"
-	}
-	"-=[ Use C4 to blow your way out!!! ]=-"
-	{
-		"chi"		"用c4炸了挡路的东西！"
-	}
-	"-=[ Detonation in 15 seconds ]=-"
-	{
-		"chi"		"15秒后爆破！"
-	}
-	"-=[ Command exit has opened ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Boats ready in 30 seconds... ]=-"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"30"
-	}
-	"-=[ Boats ready in 10 seconds... ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Boats ready in 5 seconds... ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Boats are ready!!! ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Nuke detonation in 10 seconds ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Nuke detonation in 5 seconds ]=-"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"55299"
+		"m_iname"		"heli_hold_breakable"
 	}
 }

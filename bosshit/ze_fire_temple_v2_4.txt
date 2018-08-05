@@ -1,155 +1,153 @@
-"Console_T"
+"BOSSHP"
 {
-	"<<< Map by Jllaneras >>>"
+	"23566"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"23566"
+		"m_iname"		"Boss_Breakable"
 	}
-	"<<< Ground door opens in 50 seconds >>>"
+	"19329"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19329"
+		"m_iname"		"ZM_Gate_1"
 	}
-	"<<< Ground door opens in 10 seconds >>>"
+	"19340"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19340"
+		"m_iname"		"Marble_Room_Gate"
 	}
-	"<<< The inner wall is broken fall back! >>>"
+	"19577"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"19577"
+		"m_iname"		"Water_Room_ZM_Breakable"
 	}
-	"<<< The outer wall is broken fall back! >>>"
+	"17787"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"17787"
+		"m_iname"		"Underwater_Sphere_Trigger"
 	}
-	"<<< Tomb door opening in 45 seconds >>>"
+	"15296"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"15296"
+		"m_iname"		"Water_Gate_1"
 	}
-	"<<< Zombies teleport in 30 seconds! >>>"
+	"10695"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"10695"
+		"m_iname"		"Fence_Break_1"
 	}
-	"<<< First water gate breaks in 30 seconds! >>>"
+	"5269"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5269"
+		"m_iname"		"Wall_Break_1"
 	}
-	"<<< Zombies teleport in 15 seconds! >>>"
+	"5323"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"5323"
+		"m_iname"		"Wall_Break_2"
 	}
-	"<<< Blue door opens in 15 seconds >>>"
+	"375607"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"375607"
+		"m_iname"		"BR1"
 	}
-	"<<< Zombies teleport in 25 seconds! >>>"
+	"359609"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"359609"
+		"m_iname"		"NPC1_Protect_3"
 	}
-	"<<< Hall door opens in 105 seconds! >>>"
+	"359612"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"359612"
+		"m_iname"		"NPC4"
 	}
-	"<<< Back to main hall! >>>"
+	"359764"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"359764"
+		"m_iname"		"NPC1_Protect_4"
 	}
-	"<<< Hall door opens in 10 seconds! >>>"
+	"359767"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"359767"
+		"m_iname"		"NPC5"
 	}
-	"<<< Last door opens in 70 seconds! >>>"
+	"343828"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"343828"
+		"m_iname"		"NPC1_Protect_1"
 	}
-	"<<< Last door opens in 10 seconds! >>>"
+	"343831"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"343831"
+		"m_iname"		"NPC2"
 	}
-	"<<< Last door_closes in 20 seconds! >>>"
+	"343966"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"343966"
+		"m_iname"		"NPC1_Protect_2"
 	}
-	"<<< Almighty Pull >>>"
+	"343969"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"343969"
+		"m_iname"		"NPC3"
 	}
-	"<<< Incinerate >>>"
+	"328009"
 	{
-		"chi"		">>>火焰<<<"
+		"enable"		"0"
+		"hammerid"		"328009"
+		"m_iname"		"NPC1"
 	}
-	"<<< Congrats you beat the map!!! >>>"
+	"328056"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"328056"
+		"m_iname"		"NPC1_Protect"
 	}
-	"<<< Freeze >>>"
+	"312225"
 	{
-		"chi"		">>>寒冰<<<"
+		"enable"		"0"
+		"hammerid"		"312225"
+		"m_iname"		"Box_Break_1"
 	}
-	"sync_version"
+	"49179"
 	{
-		"syncvalue"		"67839"
+		"enable"		"0"
+		"hammerid"		"49179"
+		"m_iname"		"Breakable_3"
 	}
-	"<<< Tomb door opening >>>"
+	"49791"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"49791"
+		"m_iname"		"Breakable_4"
 	}
-	"<<< Zombies teleport to cage in 25 seconds! >>>"
+	"22848"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"22848"
+		"m_iname"		"Breakable_2"
 	}
-	"<<< Map made by Jllaneras >>>"
+	"14971"
 	{
-		"chi"		"** **"
-	}
-	"<<< Defend for 30 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Box will break in 30 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< SHOOT CRYSTAL!!!! >>>"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"<<< Back gate opening in 15 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies teleport in 40 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Lift leaves in 40 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< 10 seconds left! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies will teleport in 10 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Top door will open in 60 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< SHOOT THE CRYSTAL!!!! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Defend for 90 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< 30 seconds left! >>>"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"14971"
+		"m_iname"		"Breakable_1"
 	}
 }

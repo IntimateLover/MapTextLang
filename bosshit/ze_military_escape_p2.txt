@@ -1,59 +1,141 @@
-"Console_T"
+"BOSSHP"
 {
-	"Map made by Xquality"
+	"12434"
 	{
-		"chi"		"**地图作者:Xquality 翻译:minde**"
+		"enable"		"0"
+		"hammerid"		"12434"
+		"m_iname"		"iron bridge 6"
 	}
-	"Infection system: Online."
+	"12443"
 	{
-		"chi"		"** 感染检测系统已上线**"
+		"enable"		"0"
+		"hammerid"		"12443"
+		"m_iname"		"iron bridge"
 	}
-	"(Base): Helicopter departing after 60 secs."
+	"12451"
 	{
-		"chi"		"**(基地):直升机60秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12451"
+		"m_iname"		"iron bridge"
 	}
-	"(Base): Helicopter departing after 30 secs."
+	"12459"
 	{
-		"chi"		"**(基地):直升机30秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12459"
+		"m_iname"		"iron bridge"
 	}
-	"Preparing scan..."
+	"12467"
 	{
-		"chi"		"**准备扫描**"
+		"enable"		"0"
+		"hammerid"		"12467"
+		"m_iname"		"iron bridge"
 	}
-	"No infection - access granted."
+	"12475"
 	{
-		"chi"		"**没有感染 - 请求通过**"
+		"enable"		"0"
+		"hammerid"		"12475"
+		"m_iname"		"iron bridge"
 	}
-	"(Base): Helicopter departing after 15 secs."
+	"12483"
 	{
-		"chi"		"**(基地):直升机15秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12483"
+		"m_iname"		"iron bridge 4"
 	}
-	"(Base): Helicopter departing after 10 secs."
+	"12491"
 	{
-		"chi"		"**(基地):直升机10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12491"
+		"m_iname"		"iron bridge 5"
 	}
-	"(Base): Helicopter departed."
+	"12499"
 	{
-		"chi"		"**(基地):直升机离开了**"
+		"enable"		"0"
+		"hammerid"		"12499"
+		"m_iname"		"iron bridge"
 	}
-	"Infection detected! locking down."
+	"12507"
 	{
-		"chi"		"**检测到感染! 正在关闭**"
+		"enable"		"0"
+		"hammerid"		"12507"
+		"m_iname"		"iron bridge"
 	}
-	"Door jammed! find another way!"
+	"12515"
 	{
-		"chi"		"**门卡住了! 找另一条路**"
+		"enable"		"0"
+		"hammerid"		"12515"
+		"m_iname"		"iron bridge 3"
 	}
-	"Infection found! access denied."
+	"12523"
 	{
-		"chi"		"**发现感染! 请求拒绝**"
+		"enable"		"0"
+		"hammerid"		"12523"
+		"m_iname"		"iron bridge"
 	}
-	"(Base): Elivator leaving in 3 secs."
+	"12531"
 	{
-		"chi"		"**(基地):电梯3秒后离开**"
+		"enable"		"0"
+		"hammerid"		"12531"
+		"m_iname"		"iron bridge 2"
 	}
-	"(Base): Elivator stuck!"
+	"12539"
 	{
-		"chi"		"**(基地):电梯卡住了**"
+		"enable"		"0"
+		"hammerid"		"12539"
+		"m_iname"		"iron bridge 4"
+	}
+	"12547"
+	{
+		"enable"		"0"
+		"hammerid"		"12547"
+		"m_iname"		"iron bridge"
+	}
+	"12556"
+	{
+		"enable"		"0"
+		"hammerid"		"12556"
+		"m_iname"		"iron bridge"
+	}
+	"12581"
+	{
+		"enable"		"0"
+		"hammerid"		"12581"
+		"m_iname"		"door cut lazer"
+	}
+	"12589"
+	{
+		"enable"		"0"
+		"hammerid"		"12589"
+		"m_iname"		"door cut lazer"
+	}
+	"12597"
+	{
+		"enable"		"0"
+		"hammerid"		"12597"
+		"m_iname"		"door cut lazer"
+	}
+	"12605"
+	{
+		"enable"		"0"
+		"hammerid"		"12605"
+		"m_iname"		"door cut lazer"
+	}
+	"12614"
+	{
+		"enable"		"0"
+		"hammerid"		"12614"
+		"m_iname"		"door cut lazer"
+	}
+	"14260"
+	{
+		"enable"		"0"
+		"hammerid"		"14260"
+		"m_iname"		"break door 1"
+	}
+	"14416"
+	{
+		"enable"		"0"
+		"hammerid"		"14416"
+		"m_iname"		"break door 2"
 	}
 }

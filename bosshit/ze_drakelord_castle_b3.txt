@@ -1,103 +1,285 @@
-"Console_T"
+"BOSSHP"
 {
-	"***GENERATING LAYOUT...***"
+	"72294"
 	{
-		"chi"		"**正在随机生成路线......**"
+		"enable"		"0"
+		"hammerid"		"72294"
+		"m_iname"		"i_builder_roof"
 	}
-	"***MAP BY LUFFAREN***"
+	"31608"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"31608"
+		"m_iname"		"i_builder_bridgeup"
 	}
-	"***BETA VERSION - MORE THINGS TO COME***"
+	"5369"
 	{
-		"chi"		"**当前地图处于测试版,更多的内容很快就会到来**"
+		"enable"		"0"
+		"hammerid"		"5369"
+		"m_iname"		"i_builder_right"
 	}
-	"***BOMB PLANTED***"
+	"1737"
 	{
-		"chi"		"**C4已安放**"
+		"enable"		"0"
+		"hammerid"		"1737"
+		"m_iname"		"i_builder_straight"
 	}
-	"***Fall back***"
+	"1755"
 	{
-		"chi"		"**撤退**"
+		"enable"		"0"
+		"hammerid"		"1755"
+		"m_iname"		"i_builder_left"
 	}
-	"***ZOMBIE TELEPORT AVAILABLE IN 10 SECONDS***"
+	"16817"
 	{
-		"chi"		"**僵尸10秒后传送**"
+		"enable"		"0"
+		"hammerid"		"16817"
+		"m_iname"		"i_builder_straight_wr&0732"
 	}
-	"***ZOMBIE TELEPORT IS AVAILABLE***"
+	"15832"
 	{
-		"chi"		"**僵尸已传送**"
+		"enable"		"0"
+		"hammerid"		"15832"
+		"m_iname"		"i_builder_ladder"
 	}
-	"***(ZOMBIES CAN TP FROM SPAWN, USE !ZTELE)***"
+	"59941"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"59941"
+		"m_iname"		"i_builder_outerfort"
 	}
-	"***FINAL DOOR CLOSING IN 60 SECONDS***"
+	"4491"
 	{
-		"chi"		"**最后的大门60秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"4491"
+		"m_iname"		"i_builder_widehallway"
 	}
-	"***FINAL DOOR CLOSING IN 30 SECONDS***"
+	"31668"
 	{
-		"chi"		"**最后的大门30秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"31668"
+		"m_iname"		"i_builder_bridgesmall"
 	}
-	"***FINAL DOOR CLOSING IN 15 SECONDS***"
+	"3791"
 	{
-		"chi"		"**最后的大门15秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"3791"
+		"m_iname"		"i_builder_room3f"
 	}
-	"***FINAL DOOR CLOSING IN 10 SECONDS***"
+	"8520"
 	{
-		"chi"		"**最后的大门10秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"8520"
+		"m_iname"		"i_builder_room3l"
 	}
-	"***FINAL DOOR CLOSING IN 5 SECONDS***"
+	"8562"
 	{
-		"chi"		"**最后的大门5秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"8562"
+		"m_iname"		"i_builder_room3r"
 	}
-	"***FINAL DOOR CLOSING IN 4 SECONDS***"
+	"16690"
 	{
-		"chi"		"**最后的大门4秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"16690"
+		"m_iname"		"i_builder_straight_wl&0726"
 	}
-	"***FINAL DOOR CLOSING IN 3 SECONDS***"
+	"2271"
 	{
-		"chi"		"**最后的大门3秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"2271"
+		"m_iname"		"i_builder_tjunc"
 	}
-	"***FINAL DOOR CLOSING IN 2 SECONDS***"
+	"33001"
 	{
-		"chi"		"**最后的大门2秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"33001"
+		"m_iname"		"i_builder_outerplatform"
 	}
-	"***FINAL DOOR CLOSING IN 1 SECONDS***"
+	"33931"
 	{
-		"chi"		"**最后的大门1秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"33931"
+		"m_iname"		"i_builder_stairsmall"
 	}
-	"***FINAL DOOR IS CLOSING***"
+	"33016"
 	{
-		"chi"		"**最后的大门已关闭**"
+		"enable"		"0"
+		"hammerid"		"33016"
+		"m_iname"		"i_builder_outerplatformsmall"
 	}
-	"***STAGE COMPLETED***"
+	"39241"
 	{
-		"chi"		"**关卡完成,人类胜利**"
+		"enable"		"0"
+		"hammerid"		"39241"
+		"m_iname"		"i_builder_finalroom"
 	}
-	"sync_version"
+	"17126"
 	{
-		"syncvalue"		"45265"
+		"enable"		"0"
+		"hammerid"		"17126"
+		"m_iname"		"i_builder_stairdown"
 	}
-	"***THE PIZZA IS AGGRESSIVE***"
+	"6543"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6543"
+		"m_iname"		"i_builder_wall"
 	}
-	"***TOWER ELEVATOR LEAVING IN 10 SECONDS***"
+	"81572"
 	{
-		"chi"		"**高塔电梯10秒后离开**"
+		"enable"		"0"
+		"hammerid"		"81572"
+		"m_iname"		"i_builder_outerforttower"
 	}
-	"***TOWER ELEVATOR LEAVING IN 5 SECONDS***"
+	"16623"
 	{
-		"chi"		"**高塔电梯5秒后离开**"
+		"enable"		"0"
+		"hammerid"		"16623"
+		"m_iname"		"i_builder_pillarfallen"
 	}
-	"***TOWER ELEVATOR IS LEAVING***"
+	"9257"
 	{
-		"chi"		"**高塔电梯已离开**"
+		"enable"		"0"
+		"hammerid"		"9257"
+		"m_iname"		"i_builder_box64"
 	}
-	"***KILL THE REMAINING ZOMBIES***"
+	"2862"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"2862"
+		"m_iname"		"i_builder_framenotex"
+	}
+	"84843"
+	{
+		"enable"		"0"
+		"hammerid"		"84843"
+		"m_iname"		"i_builder_hold&0874"
+	}
+	"33740"
+	{
+		"enable"		"0"
+		"hammerid"		"33740"
+		"m_iname"		"i_builder_rooftower"
+	}
+	"9727"
+	{
+		"enable"		"0"
+		"hammerid"		"9727"
+		"m_iname"		"i_builder_vinewall"
+	}
+	"83082"
+	{
+		"enable"		"0"
+		"hammerid"		"83082"
+		"m_iname"		"i_builder_outerforttower_break_"
+	}
+	"83045"
+	{
+		"enable"		"0"
+		"hammerid"		"83045"
+		"m_iname"		"i_builder_outerforttower_break_"
+	}
+	"17267"
+	{
+		"enable"		"0"
+		"hammerid"		"17267"
+		"m_iname"		"i_mine_phys&0859"
+	}
+	"2882"
+	{
+		"enable"		"0"
+		"hammerid"		"2882"
+		"m_iname"		"i_builder_stair"
+	}
+	"37790"
+	{
+		"enable"		"0"
+		"hammerid"		"37790"
+		"m_iname"		"i_builder_3waytower"
+	}
+	"31727"
+	{
+		"enable"		"0"
+		"hammerid"		"31727"
+		"m_iname"		"i_builder_bridge"
+	}
+	"34274"
+	{
+		"enable"		"0"
+		"hammerid"		"34274"
+		"m_iname"		"i_builder_waterrooml"
+	}
+	"83077"
+	{
+		"enable"		"0"
+		"hammerid"		"83077"
+		"m_iname"		"i_builder_outerforttower_break_"
+	}
+	"83087"
+	{
+		"enable"		"0"
+		"hammerid"		"83087"
+		"m_iname"		"i_builder_outerforttower_break_"
+	}
+	"10606"
+	{
+		"enable"		"0"
+		"hammerid"		"10606"
+		"m_iname"		"i_builder_lavaroom"
+	}
+	"89261"
+	{
+		"enable"		"0"
+		"hammerid"		"89261"
+		"m_iname"		"i_builder_bridgesmall"
+	}
+	"103836"
+	{
+		"enable"		"0"
+		"hammerid"		"103836"
+		"m_iname"		"i_builder_crushceiling_breakabl"
+	}
+	"89608"
+	{
+		"enable"		"0"
+		"hammerid"		"89608"
+		"m_iname"		"i_builder_bridgeupsmall"
+	}
+	"44849"
+	{
+		"enable"		"0"
+		"hammerid"		"44849"
+		"m_iname"		"i_builder_clocktower"
+	}
+	"49657"
+	{
+		"enable"		"0"
+		"hammerid"		"49657"
+		"m_iname"		"i_builder_clocktower_ladderbrea"
+	}
+	"59627"
+	{
+		"enable"		"0"
+		"hammerid"		"59627"
+		"m_iname"		"i_builder_fort"
+	}
+	"34634"
+	{
+		"enable"		"0"
+		"hammerid"		"34634"
+		"m_iname"		"i_builder_waterroomr"
+	}
+	"93637"
+	{
+		"enable"		"0"
+		"hammerid"		"93637"
+		"m_iname"		"i_builder_librarywall&3232"
+	}
+	"117986"
+	{
+		"enable"		"0"
+		"hammerid"		"117986"
+		"m_iname"		"i_builder_bladetrap_collision"
 	}
 }

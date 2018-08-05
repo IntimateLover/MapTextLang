@@ -1,144 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"*** Map by Airvulpes ***"
+	"1913615"
 	{
-		"chi"		"**地图制作： Airvulpes 地图翻译：IntimateLover**"
+		"enable"		"0"
+		"hammerid"		"1913615"
+		"m_iname"		"stage_phys"
 	}
-	"*** Hold 30 seconds ***"
+	"1913626"
 	{
-		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+		"enable"		"0"
+		"hammerid"		"1913626"
+		"m_iname"		"stage_phys"
 	}
-	"*** 20 SECONDS LEFT ***"
+	"1913631"
 	{
-		"chi"		"**还剩20秒 **"
+		"enable"		"0"
+		"hammerid"		"1913631"
+		"m_iname"		"stage_phys"
 	}
-	"*** 10 seconds left ***"
+	"1885592"
 	{
-		"chi"		"**还剩10秒 **"
+		"enable"		"1"
+		"hammerid"		"1885592"
+		"m_iname"		"c_crystal_break1"
 	}
-	"*** Hold 15 seconds ***"
+	"745864"
 	{
-		"chi"		"**守住15秒**"
-		"DoorCountDown"		"15"
+		"enable"		"0"
+		"hammerid"		"745864"
+		"m_iname"		"stage_phys"
 	}
-	"*** 5 seconds left ***"
+	"270259"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"270259"
+		"m_iname"		"radiation_target"
 	}
-	"*** Hold 20 seconds ***"
+	"1313659"
 	{
-		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"enable"		"1"
+		"hammerid"		"1313659"
+		"m_iname"		"enemy4_core1&2427"
 	}
-	"sync_version"
+	"1313768"
 	{
-		"syncvalue"		"68335"
+		"enable"		"0"
+		"hammerid"		"1313768"
+		"m_iname"		"enemy4_targetbase1&2427"
 	}
-	"*** Hold 40 seconds ***"
+	"1313771"
 	{
-		"chi"		"**守住40秒**"
-		"DoorCountDown"		"40"
+		"enable"		"0"
+		"hammerid"		"1313771"
+		"m_iname"		"enemy4_target1&2427"
 	}
-	"*** 30 seconds left ***"
+	"1313776"
 	{
-		"chi"		"**还剩30秒 **"
+		"enable"		"0"
+		"hammerid"		"1313776"
+		"m_iname"		"enemy4_targetbase2&2427"
 	}
-	"*** 10 ***"
+	"1313779"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1313779"
+		"m_iname"		"enemy4_target2&2427"
 	}
-	"*** 9 ***"
+	"325192"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"325192"
+		"m_iname"		"enemy2_core1&0172"
 	}
-	"*** 8 ***"
+	"328379"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"328379"
+		"m_iname"		"enemy2_phys1&0172"
 	}
-	"*** 7 ***"
+	"281755"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"281755"
+		"m_iname"		"enemy1_phys1&0166"
 	}
-	"*** 6 ***"
+	"281687"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"281687"
+		"m_iname"		"enemy1_core1&0166"
 	}
-	"*** 5 ***"
+	"337661"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"337661"
+		"m_iname"		"enemy3_core1&0347"
 	}
-	"*** 4 ***"
+	"337845"
 	{
-		"chi"		"** **"
-	}
-	"*** 3 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 2 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 1 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Hold 10 seconds ***"
-	{
-		"chi"		"**守住10秒**"
-		"DoorCountDown"		"10"
-	}
-	"*** Hold 5 seconds ***"
-	{
-		"chi"		"**守住5秒 **"
-	}
-	"*** 100 ***"
-	{
-		"DoorCountDown"		"100"
-	}
-	"*** 90 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 80 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 70 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 60 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 50 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 40 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 30 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 20 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ZOMBIE GOT INSIDE THE LIFT ***"
-	{
-		"chi"		"** **"
-	}
-	"*** STAGE FAILED ***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"337845"
+		"m_iname"		"enemy3_phys1&0347"
 	}
 }

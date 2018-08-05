@@ -1,278 +1,621 @@
-"Console_T"
+"BOSSHP"
 {
-	"***Map made by W...***"
+	"935037"
 	{
-		"chi"		"**Map made by W**"
+		"enable"		"0"
+		"hammerid"		"935037"
+		"m_iname"		"Area2Brush3"
 	}
-	"***PLATFORM WILL RISE IN 30s***"
+	"920049"
 	{
-		"chi"		"**平台30秒后上升**"
+		"enable"		"0"
+		"hammerid"		"920049"
+		"m_iname"		"Area3FinalBreakable1"
 	}
-	"***Platform Will Rise in10s***"
+	"920065"
 	{
-		"chi"		"**平台10秒后上升**"
+		"enable"		"0"
+		"hammerid"		"920065"
+		"m_iname"		"Area3FinalBreakable1"
 	}
-	"***PLATFORM WILL RISE IN 5s***"
+	"899564"
 	{
-		"chi"		"**平台5秒后上升**"
+		"enable"		"0"
+		"hammerid"		"899564"
+		"m_iname"		"Area3Breakable1"
 	}
-	"***PLATFORM IS RISING***"
+	"899576"
 	{
-		"chi"		"**平台现在上升**"
+		"enable"		"0"
+		"hammerid"		"899576"
+		"m_iname"		"Area3Breakable2"
 	}
-	"***Push Item Picked Up***"
+	"899703"
 	{
-		"chi"		"**PUSH被捡起来**"
+		"enable"		"0"
+		"hammerid"		"899703"
+		"m_iname"		"Area3Breakable3"
 	}
-	"***Wall Item Picked Up***"
+	"899897"
 	{
-		"chi"		"**墙被捡起来**"
+		"enable"		"0"
+		"hammerid"		"899897"
+		"m_iname"		"Area3Breakable4"
 	}
-	"***DOOR OPENS IN 5s***"
+	"899917"
 	{
-		"chi"		"**大门5秒后打开**"
+		"enable"		"0"
+		"hammerid"		"899917"
+		"m_iname"		"Area3Breakable5"
 	}
-	"***DOOR OPENS IN 25s***"
+	"899997"
 	{
-		"chi"		"**大门25秒后打开**"
+		"enable"		"0"
+		"hammerid"		"899997"
+		"m_iname"		"Area3Breakable6"
 	}
-	"***DOOR IS OPEN***"
+	"900121"
 	{
-		"chi"		"**大门现在打开**"
+		"enable"		"1"
+		"hammerid"		"900121"
+		"m_iname"		"Area3BossMainBreak"
 	}
-	"***TELEPORT ACTIVATES IN 30s***"
+	"879928"
 	{
-		"chi"		"**30秒后激活传送**"
+		"enable"		"0"
+		"hammerid"		"879928"
+		"m_iname"		"Area1BreakableA1"
 	}
-	"***Freeze Item Picked Up***"
+	"879973"
 	{
-		"chi"		"**冰被捡起来**"
+		"enable"		"0"
+		"hammerid"		"879973"
+		"m_iname"		"Area1BreakableA2"
 	}
-	"***Teleport Activates in 10s***"
+	"852876"
 	{
-		"chi"		"**传送10秒后激活**"
+		"enable"		"0"
+		"hammerid"		"852876"
+		"m_iname"		"Area1BreakableA"
 	}
-	"***TELEPORT ACTIVATES IN 5s***"
+	"852892"
 	{
-		"chi"		"**传送5秒后激活**"
+		"enable"		"0"
+		"hammerid"		"852892"
+		"m_iname"		"Area1BreakableB"
 	}
-	"***Defend Both Sides***"
+	"728960"
 	{
-		"chi"		"**两边都需要守住**"
+		"enable"		"0"
+		"hammerid"		"728960"
+		"m_iname"		"Level2FinalBreakable"
 	}
-	"***Paths open in 25s***"
+	"694324"
 	{
-		"chi"		"**路在25秒后打开**"
+		"enable"		"1"
+		"hammerid"		"694324"
+		"m_iname"		"Area2BossMainBreak"
 	}
-	"***Paths Open in 5s***"
+	"669069"
 	{
-		"chi"		"**路在5秒后打开**"
+		"enable"		"1"
+		"hammerid"		"669069"
+		"m_iname"		"Area2BossBreak4"
 	}
-	"***Paths are Open***"
+	"669083"
 	{
-		"chi"		"**路已经打开**"
+		"enable"		"1"
+		"hammerid"		"669083"
+		"m_iname"		"Area2BossBreak21"
 	}
-	"***TELEPORT ACTIVATES IN 25s***"
+	"669088"
 	{
-		"chi"		"**传送25秒后激活**"
+		"enable"		"1"
+		"hammerid"		"669088"
+		"m_iname"		"Area2BossBreak22"
 	}
-	"***TELEPORT ACTIVATED***"
+	"669093"
 	{
-		"chi"		"**传送已激活**"
+		"enable"		"1"
+		"hammerid"		"669093"
+		"m_iname"		"Area2BossBreak3"
 	}
-	"***DODGE THE LASERS***"
+	"669098"
 	{
-		"chi"		"**躲避激光刀**"
+		"enable"		"1"
+		"hammerid"		"669098"
+		"m_iname"		"Area2BossBreak23"
 	}
-	"***Hold For 20s***"
+	"669103"
 	{
-		"chi"		"**守住20秒**"
+		"enable"		"1"
+		"hammerid"		"669103"
+		"m_iname"		"Area2BossBreak2"
 	}
-	"***5s LEFT***"
+	"669108"
 	{
-		"chi"		"**坚守多5秒**"
+		"enable"		"1"
+		"hammerid"		"669108"
+		"m_iname"		"Area2BossBreak24"
 	}
-	"***FALL BACK***"
+	"669113"
 	{
-		"chi"		"**撤退！**"
+		"enable"		"1"
+		"hammerid"		"669113"
+		"m_iname"		"Area2BossBreak1"
 	}
-	"***SURVIVE***"
+	"669121"
 	{
-		"chi"		"**各凭本事活下来**"
+		"enable"		"1"
+		"hammerid"		"669121"
+		"m_iname"		"Area2BossBreak20"
 	}
-	"***3***"
+	"669126"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669126"
+		"m_iname"		"Area2BossBreak5"
 	}
-	"***2***"
+	"669131"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669131"
+		"m_iname"		"Area2BossBreak6"
 	}
-	"***1***"
+	"669136"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669136"
+		"m_iname"		"Area2BossBreak19"
 	}
-	"***Dont Trust The White Lasers***"
+	"669141"
 	{
-		"chi"		"*****不要相信白色的激光*****"
+		"enable"		"1"
+		"hammerid"		"669141"
+		"m_iname"		"Area2BossBreak7"
 	}
-	"***Lasers Incoming***"
+	"669146"
 	{
-		"chi"		"**激光刀来袭**"
+		"enable"		"1"
+		"hammerid"		"669146"
+		"m_iname"		"Area2BossBreak18"
 	}
-	"***CONGRATS!!!***"
+	"669151"
 	{
-		"chi"		"**恭喜方块精英**"
+		"enable"		"1"
+		"hammerid"		"669151"
+		"m_iname"		"Area2BossBreak8"
 	}
-	"***Trigger Left & Right Platforms***"
+	"669156"
 	{
-		"chi"		"**触发左右两边的平台**"
+		"enable"		"1"
+		"hammerid"		"669156"
+		"m_iname"		"Area2BossBreak17"
 	}
-	"***Then Trigger Middle Platform***"
+	"669161"
 	{
-		"chi"		"**现在去触发中间的平台**"
+		"enable"		"1"
+		"hammerid"		"669161"
+		"m_iname"		"Area2BossBreak16"
 	}
-	"***Survive 25s more***"
+	"669166"
 	{
-		"chi"		"**生存多25秒**"
+		"enable"		"1"
+		"hammerid"		"669166"
+		"m_iname"		"Area2BossBreak9"
 	}
-	"***Teleport Active In 25s***"
+	"669171"
 	{
-		"chi"		"**传送25秒后激活**"
+		"enable"		"1"
+		"hammerid"		"669171"
+		"m_iname"		"Area2BossBreak10"
 	}
-	"***Teleport Active***"
+	"669176"
 	{
-		"chi"		"**传送现在激活**"
+		"enable"		"1"
+		"hammerid"		"669176"
+		"m_iname"		"Area2BossBreak15"
 	}
-	"***Doors Open In 35s***"
+	"669181"
 	{
-		"chi"		"**大门35秒后打开**"
+		"enable"		"1"
+		"hammerid"		"669181"
+		"m_iname"		"Area2BossBreak11"
 	}
-	"***AFK Teleport in 25s***"
+	"669186"
 	{
-		"chi"		"**AFK玩家25秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669186"
+		"m_iname"		"Area2BossBreak14"
 	}
-	"***AFK TELEPORT IN 5s***"
+	"669191"
 	{
-		"chi"		"**AFK玩家5秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669191"
+		"m_iname"		"Area2BossBreak12"
 	}
-	"***Doors Open In 5s***"
+	"669196"
 	{
-		"chi"		"**大门5秒后打开**"
+		"enable"		"1"
+		"hammerid"		"669196"
+		"m_iname"		"Area2BossBreak13"
 	}
-	"***Go Left and Right***"
+	"669201"
 	{
-		"chi"		"**左右两边都需要去人**"
+		"enable"		"1"
+		"hammerid"		"669201"
+		"m_iname"		"Area2BossBreak36"
 	}
-	"***Defend Sides Until TP***"
+	"669206"
 	{
-		"chi"		"**在传送之前死守住**"
+		"enable"		"1"
+		"hammerid"		"669206"
+		"m_iname"		"Area2BossBreak37"
 	}
-	"***25s Left Before Teleport***"
+	"669211"
 	{
-		"chi"		"**25秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669211"
+		"m_iname"		"Area2BossBreak60"
 	}
-	"***5s Left Before Teleport***"
+	"669216"
 	{
-		"chi"		"**5秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669216"
+		"m_iname"		"Area2BossBreak35"
 	}
-	"***Few Go Down Middle For Trigger***"
+	"669221"
 	{
-		"chi"		"**来些人去下面触发**"
+		"enable"		"1"
+		"hammerid"		"669221"
+		"m_iname"		"Area2BossBreak38"
 	}
-	"***HOLD FOR 30s***"
+	"669226"
 	{
-		"chi"		"**守住30秒**"
+		"enable"		"1"
+		"hammerid"		"669226"
+		"m_iname"		"Area2BossBreak59"
 	}
-	"***Teleport in 15s***"
+	"669231"
 	{
-		"chi"		"**15秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669231"
+		"m_iname"		"Area2BossBreak34"
 	}
-	"***Tower 1 Triggered***"
+	"669236"
 	{
-		"chi"		"**1号塔已经触发**"
+		"enable"		"1"
+		"hammerid"		"669236"
+		"m_iname"		"Area2BossBreak39"
 	}
-	"***Tower 2 Triggered***"
+	"669241"
 	{
-		"chi"		"**2号塔已经触发**"
+		"enable"		"1"
+		"hammerid"		"669241"
+		"m_iname"		"Area2BossBreak58"
 	}
-	"***Teleport in 25s***"
+	"669246"
 	{
-		"chi"		"**25秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669246"
+		"m_iname"		"Area2BossBreak33"
 	}
-	"***Teleport in 5s***"
+	"669251"
 	{
-		"chi"		"**5秒后传送**"
+		"enable"		"1"
+		"hammerid"		"669251"
+		"m_iname"		"Area2BossBreak40"
 	}
-	"***Survive!!!***"
+	"669256"
 	{
-		"chi"		"**各凭本事存活下来**"
+		"enable"		"1"
+		"hammerid"		"669256"
+		"m_iname"		"Area2BossBreak57"
 	}
-	"***Run To The Diamond In The Middle***"
+	"669261"
 	{
-		"chi"		"**跑到平台中间**"
+		"enable"		"1"
+		"hammerid"		"669261"
+		"m_iname"		"Area2BossBreak32"
 	}
-	"***Path opens in 15s***"
+	"669266"
 	{
-		"chi"		"**路在15秒打开**"
+		"enable"		"1"
+		"hammerid"		"669266"
+		"m_iname"		"Area2BossBreak41"
 	}
-	"***HOLD FOR 25s***"
+	"669271"
 	{
-		"chi"		"**坚守25秒**"
+		"enable"		"1"
+		"hammerid"		"669271"
+		"m_iname"		"Area2BossBreak56"
 	}
-	"***Hold for 5s***"
+	"669276"
 	{
-		"chi"		"**坚守5秒**"
+		"enable"		"1"
+		"hammerid"		"669276"
+		"m_iname"		"Area2BossBreak31"
 	}
-	"***Defend10s***"
+	"669281"
 	{
-		"chi"		"**坚守10秒**"
+		"enable"		"1"
+		"hammerid"		"669281"
+		"m_iname"		"Area2BossBreak42"
 	}
-	"***Path opens in 20s***"
+	"669286"
 	{
-		"chi"		"**路在20秒后打开**"
+		"enable"		"1"
+		"hammerid"		"669286"
+		"m_iname"		"Area2BossBreak55"
 	}
-	"MapGlobal_ConVars"
+	"669291"
 	{
-		"0"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"1"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_cash #447 50000"
-		}
+		"enable"		"1"
+		"hammerid"		"669291"
+		"m_iname"		"Area2BossBreak30"
 	}
-	"sync_version"
+	"669296"
 	{
-		"syncvalue"		"64026"
+		"enable"		"1"
+		"hammerid"		"669296"
+		"m_iname"		"Area2BossBreak43"
 	}
-	"***AFK Teleport in 10s***"
+	"669301"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669301"
+		"m_iname"		"Area2BossBreak54"
 	}
-	"***Hold For 35s***"
+	"669306"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669306"
+		"m_iname"		"Area2BossBreak29"
 	}
-	"***60s left to trigger towers***"
+	"669311"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669311"
+		"m_iname"		"Area2BossBreak44"
 	}
-	"***Round Failed: Zombie Reached The Top***"
+	"669316"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669316"
+		"m_iname"		"Area2BossBreak53"
 	}
-	"***5s left to trigger towers***"
+	"669321"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669321"
+		"m_iname"		"Area2BossBreak28"
 	}
-	"The server is about to close the update ,Please update your game"
+	"669326"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"669326"
+		"m_iname"		"Area2BossBreak45"
+	}
+	"669331"
+	{
+		"enable"		"1"
+		"hammerid"		"669331"
+		"m_iname"		"Area2BossBreak52"
+	}
+	"669336"
+	{
+		"enable"		"1"
+		"hammerid"		"669336"
+		"m_iname"		"Area2BossBreak27"
+	}
+	"669341"
+	{
+		"enable"		"1"
+		"hammerid"		"669341"
+		"m_iname"		"Area2BossBreak46"
+	}
+	"669346"
+	{
+		"enable"		"1"
+		"hammerid"		"669346"
+		"m_iname"		"Area2BossBreak51"
+	}
+	"669351"
+	{
+		"enable"		"1"
+		"hammerid"		"669351"
+		"m_iname"		"Area2BossBreak26"
+	}
+	"669356"
+	{
+		"enable"		"1"
+		"hammerid"		"669356"
+		"m_iname"		"Area2BossBreak47"
+	}
+	"669361"
+	{
+		"enable"		"1"
+		"hammerid"		"669361"
+		"m_iname"		"Area2BossBreak50"
+	}
+	"669366"
+	{
+		"enable"		"1"
+		"hammerid"		"669366"
+		"m_iname"		"Area2BossBreak25"
+	}
+	"669371"
+	{
+		"enable"		"1"
+		"hammerid"		"669371"
+		"m_iname"		"Area2BossBreak48"
+	}
+	"669376"
+	{
+		"enable"		"1"
+		"hammerid"		"669376"
+		"m_iname"		"Area2BossBreak49"
+	}
+	"629723"
+	{
+		"enable"		"1"
+		"hammerid"		"629723"
+		"m_iname"		"Area2BossFightBreakable"
+	}
+	"574628"
+	{
+		"enable"		"0"
+		"hammerid"		"574628"
+		"m_iname"		"Area1Breakable1"
+	}
+	"574680"
+	{
+		"enable"		"0"
+		"hammerid"		"574680"
+		"m_iname"		"Area1Breakable4"
+	}
+	"574717"
+	{
+		"enable"		"0"
+		"hammerid"		"574717"
+		"m_iname"		"Area1Breakable3"
+	}
+	"574761"
+	{
+		"enable"		"0"
+		"hammerid"		"574761"
+		"m_iname"		"Area1Breakable2"
+	}
+	"536209"
+	{
+		"enable"		"0"
+		"hammerid"		"536209"
+		"m_iname"		"Area1FinalBreak1"
+	}
+	"536216"
+	{
+		"enable"		"0"
+		"hammerid"		"536216"
+		"m_iname"		"Area1FinalBreak2"
+	}
+	"536219"
+	{
+		"enable"		"0"
+		"hammerid"		"536219"
+		"m_iname"		"Area1FinalBreak3"
+	}
+	"536222"
+	{
+		"enable"		"0"
+		"hammerid"		"536222"
+		"m_iname"		"Area1FinalBreak4"
+	}
+	"536225"
+	{
+		"enable"		"0"
+		"hammerid"		"536225"
+		"m_iname"		"Area1FinalBreak5"
+	}
+	"536291"
+	{
+		"enable"		"0"
+		"hammerid"		"536291"
+		"m_iname"		"Area1FinalBreak6"
+	}
+	"536300"
+	{
+		"enable"		"0"
+		"hammerid"		"536300"
+		"m_iname"		"Area1FinalBreak7"
+	}
+	"536303"
+	{
+		"enable"		"0"
+		"hammerid"		"536303"
+		"m_iname"		"Area1FinalBreak8"
+	}
+	"536306"
+	{
+		"enable"		"0"
+		"hammerid"		"536306"
+		"m_iname"		"Area1FinalBreak9"
+	}
+	"536309"
+	{
+		"enable"		"0"
+		"hammerid"		"536309"
+		"m_iname"		"Area1FinalBreak10"
+	}
+	"527911"
+	{
+		"enable"		"0"
+		"hammerid"		"527911"
+		"m_iname"		"Area2Breakable3"
+	}
+	"465920"
+	{
+		"enable"		"0"
+		"hammerid"		"465920"
+		"m_iname"		"Area2Breakable1"
+	}
+	"465929"
+	{
+		"enable"		"0"
+		"hammerid"		"465929"
+		"m_iname"		"Area2breakable2"
+	}
+	"456966"
+	{
+		"enable"		"0"
+		"hammerid"		"456966"
+		"m_iname"		"Area1Breakable1"
+	}
+	"456987"
+	{
+		"enable"		"0"
+		"hammerid"		"456987"
+		"m_iname"		"Area1Breakable4"
+	}
+	"456991"
+	{
+		"enable"		"0"
+		"hammerid"		"456991"
+		"m_iname"		"Area1Breakable3"
+	}
+	"456995"
+	{
+		"enable"		"0"
+		"hammerid"		"456995"
+		"m_iname"		"Area1Breakable2"
+	}
+	"307939"
+	{
+		"enable"		"0"
+		"hammerid"		"307939"
+		"m_iname"		"RotBox"
+	}
+	"136366"
+	{
+		"enable"		"0"
+		"hammerid"		"136366"
+		"m_iname"		"BreakableB1"
+	}
+	"136378"
+	{
+		"enable"		"0"
+		"hammerid"		"136378"
+		"m_iname"		"BreakableB2"
+	}
+	"127022"
+	{
+		"enable"		"0"
+		"hammerid"		"127022"
+		"m_iname"		"BreakableFN1"
+	}
+	"868610"
+	{
+		"enable"		"0"
+		"hammerid"		"868610"
+		"m_iname"		"WallItem_Trigger"
 	}
 }

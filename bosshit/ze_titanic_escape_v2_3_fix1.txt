@@ -1,88 +1,123 @@
-"Console_T"
+"BOSSHP"
 {
-	"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
+	"21924"
 	{
-		"chi"		"**泰坦尼克号正在下沉！你有 5 分钟的时间到达甲板上！**"
+		"enable"		"0"
+		"hammerid"		"21924"
+		"m_iname"		"metal Mesh"
 	}
-	"**Map created by DoomsKnight and Mousey. **"
+	"21933"
 	{
-		"chi"		"**地图制作 by  DoomsKnight和Mousey    地图翻译 by 色狼领袖**"
+		"enable"		"0"
+		"hammerid"		"21933"
+		"m_iname"		"metal Mesh"
 	}
-	"**Elevator 1 is leaving in 5 seconds**"
+	"21949"
 	{
-		"chi"		"**1号小电梯将在 5 秒后启动！**"
+		"enable"		"0"
+		"hammerid"		"21949"
+		"m_iname"		"metal Mesh"
 	}
-	"**Main elevator is leaving in 15 seconds!!**"
+	"22076"
 	{
-		"chi"		"**大电梯将在 15 秒后启动！**"
+		"enable"		"0"
+		"hammerid"		"22076"
+		"m_iname"		"metal Mesh"
 	}
-	"**Main elevator is leaving in 5 seconds!!**"
+	"22079"
 	{
-		"chi"		"**大电梯将在 5 秒后启动！**"
+		"enable"		"0"
+		"hammerid"		"22079"
+		"m_iname"		"metal Mesh"
 	}
-	"**Elevator 2 is leaving in 5 seconds**"
+	"22082"
 	{
-		"chi"		"**2号小电梯将在 5 秒后启动！**"
+		"enable"		"0"
+		"hammerid"		"22082"
+		"m_iname"		"metal Mesh"
 	}
-	"**Final Door will open in 60 seconds**"
+	"2889"
 	{
-		"chi"		"**最后的大门将在 60 秒后打开！**"
+		"enable"		"0"
+		"hammerid"		"2889"
+		"m_iname"		"metal Mesh"
 	}
-	"**Final Door will open in 30 seconds**"
+	"2893"
 	{
-		"chi"		"**最后的大门将在 30 秒后打开！**"
+		"enable"		"0"
+		"hammerid"		"2893"
+		"m_iname"		"zombiedoor3"
 	}
-	"**Main elevator's second doors now unlocked**"
+	"2919"
 	{
-		"chi"		"**现在大电梯解锁另一个方向的出口！**"
+		"enable"		"0"
+		"hammerid"		"2919"
+		"m_iname"		"unbreakable"
 	}
-	"**Final Door will open unlock in 5 seconds**"
+	"2955"
 	{
-		"chi"		"**最后的大门将在 5 秒后打开！**"
-		"DoorCountdown"		"5"
+		"enable"		"0"
+		"hammerid"		"2955"
+		"m_iname"		"unbreakable"
 	}
-	"**The boats will leave in 2 minutes!** "
+	"2957"
 	{
-		"chi"		"**救生船将在 2 分钟后离开！**"
+		"enable"		"0"
+		"hammerid"		"2957"
+		"m_iname"		"unbreakable"
 	}
-	"**Zombies have reached the glass doors!!!**"
+	"2978"
 	{
-		"chi"		"**僵尸已经到达船舱走廊！！ 人类注意！！！**"
+		"enable"		"0"
+		"hammerid"		"2978"
+		"m_iname"		"zombiedoor2"
 	}
-	"**The boats will leave in 1 minute!**"
+	"3082"
 	{
-		"chi"		"**救生船将在 1 分钟后离开！           注意防守僵尸！**"
+		"enable"		"0"
+		"hammerid"		"3082"
+		"m_iname"		"unbreakable"
 	}
-	"**The boats will leave in 30 seconds!**"
+	"3138"
 	{
-		"chi"		"**救生船将在 30 秒后离开！**"
+		"enable"		"0"
+		"hammerid"		"3138"
+		"m_iname"		"ladder"
 	}
-	"**The boats will leave in 10 seconds!**"
+	"3140"
 	{
-		"chi"		"**救生船将在 10 秒后离开！**"
+		"enable"		"0"
+		"hammerid"		"3140"
+		"m_iname"		"unbreakable"
 	}
-	"**The boats have left!!!**"
+	"3243"
 	{
-		"chi"		"**救生船已经离开！  僵尸你们不要追啦！！！**"
+		"enable"		"0"
+		"hammerid"		"3243"
+		"m_iname"		"rope"
 	}
-	"**Slay Zombies....**"
+	"3248"
 	{
-		"chi"		"**正在淹死僵死...**"
+		"enable"		"0"
+		"hammerid"		"3248"
+		"m_iname"		"rope"
 	}
-	"**Lasers will be de-activated in 20 seconds**"
+	"3311"
 	{
-		"chi"		"**激光将在 20 秒后消失！    人类不要触碰激光！**"
+		"enable"		"0"
+		"hammerid"		"3311"
+		"m_iname"		"rope"
 	}
-	"**Lasers will be de-activated in 5 seconds**"
+	"3313"
 	{
-		"chi"		"**激光将在 5 秒后消失！**"
+		"enable"		"0"
+		"hammerid"		"3313"
+		"m_iname"		"rope"
 	}
-	"**Main elevators second doors now unlocked**"
+	"3315"
 	{
-		"chi"		"** **"
-	}
-	"**The boats will leave in 2 minutes!**"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"3315"
+		"m_iname"		"crate"
 	}
 }

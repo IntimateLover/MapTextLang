@@ -1,192 +1,153 @@
-"Console_T"
+"BOSSHP"
 {
-	"<<< Map made by Jllaneras >>>"
+	"833711"
 	{
-		"chi"		"** Jllaneras制作**"
+		"enable"		"0"
+		"hammerid"		"833711"
+		"m_iname"		"Sand_Door_1"
 	}
-	"<<< Run to first box and defend! >>>"
+	"658465"
 	{
-		"chi"		"** 跑到第一个箱子并防守**"
+		"enable"		"0"
+		"hammerid"		"658465"
+		"m_iname"		"Forest_Temple_Trap1"
 	}
-	"<<< Fall back and keep defending! >>>"
+	"659792"
 	{
-		"chi"		"** 撤退。。。然后守住**"
+		"enable"		"0"
+		"hammerid"		"659792"
+		"m_iname"		"Forest_Temple_Trap2"
 	}
-	"<<< Almost there keep defending! >>>"
+	"615877"
 	{
-		"chi"		"** 快到了，坚持住**"
+		"enable"		"0"
+		"hammerid"		"615877"
+		"m_iname"		"Top_Box"
 	}
-	"<<< Get behind last pillars for teleport! >>>"
+	"570196"
 	{
-		"chi"		"**跑到最后一个柱子并等待传送 **"
+		"enable"		"0"
+		"hammerid"		"570196"
+		"m_iname"		"Blade3_Break"
 	}
-	"*** Rush to door! ***"
+	"570343"
 	{
-		"chi"		"** 快去贴门！**"
+		"enable"		"0"
+		"hammerid"		"570343"
+		"m_iname"		"Blade4_Break"
 	}
-	"*** Defend until second door opens! ***"
+	"549589"
 	{
-		"chi"		"** 防守到第二个门打开**"
+		"enable"		"0"
+		"hammerid"		"549589"
+		"m_iname"		"Break_Button"
 	}
-	"*** Defend until third door opens! ***"
+	"227589"
 	{
-		"chi"		"** 防守到第三个门打开**"
+		"enable"		"0"
+		"hammerid"		"227589"
+		"m_iname"		"Blade2_Break"
 	}
-	"*** Defend inside until door closes! ***"
+	"202809"
 	{
-		"chi"		"** 在里面守到门关**"
+		"enable"		"0"
+		"hammerid"		"202809"
+		"m_iname"		"Blade1_Break"
 	}
-	"<<< Get inside next temple and defend! >>>"
+	"70807"
 	{
-		"chi"		"** 跑到神庙里防守**"
+		"enable"		"1"
+		"hammerid"		"70807"
+		"m_iname"		"Boss_Floor_Break"
 	}
-	"<<< Climb the ladder! >>>"
+	"38068"
 	{
-		"chi"		"** 爬梯子！**"
+		"enable"		"0"
+		"hammerid"		"38068"
+		"m_iname"		"Water_Temple_Door2"
 	}
-	"<<< Fan has been turned off! >>>"
+	"39049"
 	{
-		"chi"		"** 风扇已经关闭**"
+		"enable"		"0"
+		"hammerid"		"39049"
+		"m_iname"		"Water_Fence_2"
 	}
-	"<<< Defend for 30 more seconds! >>>"
+	"39341"
 	{
-		"chi"		"** 防守30秒**"
+		"enable"		"0"
+		"hammerid"		"39341"
+		"m_iname"		"Water_Temple_Wall"
 	}
-	"<<< Break the fence and get in the water! >>>"
+	"43649"
 	{
-		"chi"		"** 打碎栅栏然后跳到水里**"
+		"enable"		"0"
+		"hammerid"		"43649"
+		"m_iname"		"Clip_Break"
 	}
-	"<<< Back up and defend! >>>"
+	"35021"
 	{
-		"chi"		"** 撤退后防守**"
+		"enable"		"0"
+		"hammerid"		"35021"
+		"m_iname"		"Water_Temple_Door1"
 	}
-	"<<< Defend for 30 seconds! >>>"
+	"32783"
 	{
-		"chi"		"** 坚守30秒**"
+		"enable"		"0"
+		"hammerid"		"32783"
+		"m_iname"		"Water_Fence"
 	}
-	"<<< Fall back! >>>"
+	"32007"
 	{
-		"chi"		"** 撤退！！！**"
+		"enable"		"0"
+		"hammerid"		"32007"
+		"m_iname"		"Step1"
 	}
-	"<<< Watch the water up ahead! >>>"
+	"29425"
 	{
-		"chi"		"** 注意水里面**"
+		"enable"		"0"
+		"hammerid"		"29425"
+		"m_iname"		"Fence_End"
 	}
-	"<<< Defend for 25 more seconds! >>>"
+	"23511"
 	{
-		"chi"		"** 防守25秒**"
+		"enable"		"0"
+		"hammerid"		"23511"
+		"m_iname"		"Box_1_2"
 	}
-	"<<< Defend for 15 more seconds! >>>"
+	"24002"
 	{
-		"chi"		"** 防守15秒**"
+		"enable"		"0"
+		"hammerid"		"24002"
+		"m_iname"		"2Box_2"
 	}
-	"<<< Defend at top of stairs for 35 seconds! >>>"
+	"18594"
 	{
-		"chi"		"** 守住楼梯35秒**"
+		"enable"		"0"
+		"hammerid"		"18594"
+		"m_iname"		"Box_1"
 	}
-	"<<< Climb!!! >>>"
+	"18608"
 	{
-		"chi"		"** 快爬**"
+		"enable"		"0"
+		"hammerid"		"18608"
+		"m_iname"		"Box_2"
 	}
-	"<<< Stay back against wall! >>>"
+	"18625"
 	{
-		"chi"		"** 贴着墙**"
+		"enable"		"0"
+		"hammerid"		"18625"
+		"m_iname"		"Box_3"
 	}
-	"<<< Bulvian The Almighty >>>"
+	"9763"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"9763"
+		"m_iname"		"Boss_Bulvian"
 	}
-	"<<< Gale >>>"
+	"637264"
 	{
-		"chi"		">>>大风<<<"
-	}
-	"<<< Fire Spin >>>"
-	{
-		"chi"		">>>旋火<<<"
-	}
-	"<<< Breakout >>>"
-	{
-		"chi"		">>>僵尸潮<<<"
-	}
-	"<<< Torment >>>"
-	{
-		"chi"		">>>痛苦<<<"
-	}
-	"<<< Glide >>>"
-	{
-		"chi"		">>>低摩擦<<<"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"80974"
-	}
-	"<<< Level 1 >>>"
-	{
-		"chi"		"**第一关**"
-	}
-	"<<< Level 1 Complete! >>>"
-	{
-		"chi"		"**第一关完成**"
-	}
-	"<<< Level 2 >>>"
-	{
-		"chi"		"**第二关**"
-	}
-	"<<< Stay and defend bottom! >>>"
-	{
-		"chi"		"**守住下面**"
-	}
-	"<<< Gate broken get in for tp! >>>"
-	{
-		"chi"		"** 门开了，快去吃传送**"
-	}
-	"<<< Incinerate >>>"
-	{
-		"chi"		">>>焚烧<<<"
-	}
-	"<<< Defend for 60 seconds! >>>"
-	{
-		"DoorCountDown"		"60"
-		"chi"		"** **"
-	}
-	"<<< Disperse >>>"
-	{
-		"chi"		">>>驱散<<<"
-	}
-	"<<< Frenzy >>>"
-	{
-		"chi"		">>>狂暴<<<"
-	}
-	"<<< Level 2 complete! >>>"
-	{
-		"chi"		"**第二关完成**"
-	}
-	"<<< Level 3 >>>"
-	{
-		"chi"		"**第三关**"
-	}
-	"<<< Button activated! >>>"
-	{
-		"chi"		"**按钮已激活**"
-	}
-	"<<< Defend for 15 seconds! >>>"
-	{
-		"chi"		"**坚守15秒**"
-	}
-	"<<< Button pressed defend for 10 more seconds! >>>"
-	{
-		"chi"		"** 按钮按下坚守多10秒钟**"
-	}
-	"<<< Button pressed defend for 10 seconds! >>>"
-	{
-		"chi"		"** 按钮按下坚守10秒钟**"
-	}
-	"<<< Level 3 Complete! >>>"
-	{
-		"chi"		"**第三关完成**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"637264"
+		"m_iname"		"Wall"
 	}
 }

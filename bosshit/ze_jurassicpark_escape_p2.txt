@@ -1,87 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"***MAKE YOUR WAY TO THE EXTRACTION POINT***"
+	"346780"
 	{
-		"chi"		"**侏罗纪公园的安保系统失效了，想办法离开这里**"
+		"enable"		"0"
+		"hammerid"		"346780"
+		"m_iname"		"unbreakableegg"
 	}
-	"***>>>>MAP By thegregster101<<<<***"
+	"340209"
 	{
-		"chi"		"**地图作者：thegregster101**"
+		"enable"		"0"
+		"hammerid"		"340209"
+		"m_iname"		"boxandplank"
 	}
-	"***TRUCK LEAVING 8 SECONDS***"
+	"581"
 	{
-		"chi"		"**卡车8秒后离开**"
+		"enable"		"0"
+		"hammerid"		"581"
+		"m_iname"		"GateGlass"
 	}
-	"***LOADING BAY GATE CLOSING IN 20 SECONDS***"
+	"656"
 	{
-		"chi"		"**公园入口的大门20秒后关闭**"
+		"enable"		"0"
+		"hammerid"		"656"
+		"m_iname"		"thebox"
 	}
-	"***DEFEND THE LOADING BAY 40 SECONDS***"
+	"2108"
 	{
-		"chi"		"**我们必须守住这里，大门35秒后打开**"
+		"enable"		"0"
+		"hammerid"		"2108"
+		"m_iname"		"unbreakableplank"
 	}
-	"***C4 EXPLOING IN 10 SECONDS***"
+	"204010"
 	{
-		"chi"		"**C4已安放，10秒后爆炸**"
+		"enable"		"0"
+		"hammerid"		"204010"
+		"m_iname"		"Bridge"
 	}
-	"***C4 EXPLODING IN 5 SECONDS***"
+	"204013"
 	{
-		"chi"		"**5秒后C4爆炸**"
+		"enable"		"0"
+		"hammerid"		"204013"
+		"m_iname"		"Bridge"
 	}
-	"***YOU MUST NOW DEFEND THE BOXES***"
+	"204016"
 	{
-		"chi"		"**你必须守住这个箱子，别让僵尸进来**"
+		"enable"		"0"
+		"hammerid"		"204016"
+		"m_iname"		"Bridge"
 	}
-	"***GO GO! GATE IS NOW OPEN!!***"
+	"204019"
 	{
-		"chi"		"**大门打开了，快跑!**"
+		"enable"		"0"
+		"hammerid"		"204019"
+		"m_iname"		"Bridge"
 	}
-	"***DINO TRANSPORTER LEAVING IN 10 SECONDS***"
+	"204022"
 	{
-		"chi"		"**卡车10秒后离开，别掉队了**"
+		"enable"		"0"
+		"hammerid"		"204022"
+		"m_iname"		"Bridge"
 	}
-	"***CALL THE MAIN LAND...... TELL THEM TO SEND THE DAMN HELICOPTERS***"
+	"204025"
 	{
-		"chi"		"**快呼叫直升机，在直升机来之前我们必须守住僵尸**"
+		"enable"		"0"
+		"hammerid"		"204025"
+		"m_iname"		"Bridge"
 	}
-	"***DEFEND THE HELI PAD***"
+	"204028"
 	{
-		"chi"		"**我们必须守住停机坪(注意后方的僵尸)**"
+		"enable"		"0"
+		"hammerid"		"204028"
+		"m_iname"		"Bridge"
 	}
-	"***HELI INBOUND 60 SECONDS***"
+	"268632"
 	{
-		"chi"		"**直升机60秒后抵达**"
+		"enable"		"0"
+		"hammerid"		"268632"
+		"m_iname"		"boxandplank"
 	}
-	"***HELI INBOUND 30 SECONDS***"
+	"270078"
 	{
-		"chi"		"**直升机30秒后抵达**"
+		"enable"		"0"
+		"hammerid"		"270078"
+		"m_iname"		"raptorabove"
 	}
-	"***HELI INBOUND 15 SECONDS***"
+	"270168"
 	{
-		"chi"		"**直升机15秒后抵达**"
+		"enable"		"0"
+		"hammerid"		"270168"
+		"m_iname"		"ladder"
 	}
-	"***HATCHING CENTRE HAS BEEN BROKEN INTO***"
+	"270311"
 	{
-		"chi"		"**恐龙孵化中心已经被入侵了**"
+		"enable"		"0"
+		"hammerid"		"270311"
+		"m_iname"		"secretblocker"
 	}
-	"***HELI INBOUND***"
+	"279639"
 	{
-		"chi"		"**直升机已抵达(别站停机坪中间，小心直升机降落压死你)**"
-	}
-	"***WIPE OUT GAS INBOUND!***"
-	{
-		"chi"		"**人类胜利，核爆即将抵达**"
-	}
-	"***BUTTON OVERIDE ACTIVATED***"
-	{
-		"chi"		"**公园的电力已被关闭**"
-	}
-	"***THE LAST GATES ARE NOW OPEN***"
-	{
-		"chi"		"**停机坪入口的大门已经打开**"
-	}
-	"***LAST GATES CLOSED!***"
-	{
-		"chi"		"**停机坪入口的大门已经关闭**"
+		"enable"		"0"
+		"hammerid"		"279639"
+		"m_iname"		"wirerbreakable"
 	}
 }

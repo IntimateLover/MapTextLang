@@ -1,95 +1,105 @@
-"Console_T"
+"BOSSHP"
 {
-	"Please wait 20 seconds before the door opening"
+	"188250"
 	{
-		"chi"		"**请耐心等待 20 秒**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"188250"
+		"m_iname"		"azkena"
 	}
-	"Welcome ! Map made by Valve and zombified by Obscuri"
+	"3323"
 	{
-		"chi"		"**欢迎！地图原型 by Valve ze化 by Obscuri 地图翻译 by 色狼领袖**"
+		"enable"		"0"
+		"hammerid"		"3323"
+		"m_iname"		"porte4"
 	}
-	"Special thanks to centran and LeGrem"
+	"3329"
 	{
-		"chi"		"**特别感谢 centran 和 LeGrem **"
+		"enable"		"0"
+		"hammerid"		"3329"
+		"m_iname"		"porte5"
 	}
-	"***Fix and port by Epic |cabo| ***"
+	"3378"
 	{
-		"chi"		"**地图修复 by Epic |cabo| **"
+		"enable"		"0"
+		"hammerid"		"3378"
+		"m_iname"		"murfinal"
 	}
-	"***RESIST 30 SECONDS BEHIND THE BOXES***"
+	"3429"
 	{
-		"chi"		"**守住僵尸 30 秒直至传送。**（僵尸传送后建议守卷帘门右边的小门，里面会出僵尸）**"
+		"enable"		"0"
+		"hammerid"		"3429"
+		"m_iname"		"piege1"
 	}
-	"***5 seconds***"
+	"3432"
 	{
-		"chi"		"**还有 5 秒。**"
+		"enable"		"0"
+		"hammerid"		"3432"
+		"m_iname"		"piege2"
 	}
-	"***RESIST 20 SECONDS***"
+	"3434"
 	{
-		"chi"		"**防守僵尸 20 秒。**"
+		"enable"		"0"
+		"hammerid"		"3434"
+		"m_iname"		"piege3"
 	}
-	"***RUN***"
+	"3436"
 	{
-		"chi"		"**走！！！**"
+		"enable"		"0"
+		"hammerid"		"3436"
+		"m_iname"		"piege4"
 	}
-	"10 seconds until the fence break"
+	"3438"
 	{
-		"chi"		"** 10 秒后撤销梯子的铁网！**（小心走廊地板上的坑，最好站在护栏上！）**"
+		"enable"		"0"
+		"hammerid"		"3438"
+		"m_iname"		"piege5"
 	}
-	"***20 SECONDS FOR TELEPORT***"
+	"3440"
 	{
-		"chi"		"**坚守 20 秒直至传送。**"
-		"DoorCountDown"		"20"
+		"enable"		"0"
+		"hammerid"		"3440"
+		"m_iname"		"piege6"
 	}
-	"***5 SECONDS FOR TELEPORT***"
+	"3442"
 	{
-		"chi"		"**距离传送时间还有 5 秒！**"
+		"enable"		"0"
+		"hammerid"		"3442"
+		"m_iname"		"piege7"
 	}
-	"***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
+	"3481"
 	{
-		"chi"		"**僵尸将在 5 秒后传送！**"
+		"enable"		"0"
+		"hammerid"		"3481"
+		"m_iname"		"echelle grande salle"
 	}
-	"Second way open !"
+	"3494"
 	{
-		"chi"		"**第二条路开放！**"
+		"enable"		"0"
+		"hammerid"		"3494"
+		"m_iname"		"porte raccourci"
 	}
-	"***DESTROY THE POWER GENERATORS***"
+	"3522"
 	{
-		"chi"		"**摧毁3台发电机，从左往右依次按顺序。**（其他人在铁网与铁网形成的通道之间尽可能的拖住僵尸）**"
+		"enable"		"0"
+		"hammerid"		"3522"
+		"m_iname"		"box1"
 	}
-	"***1 REMAINING***"
+	"3526"
 	{
-		"chi"		"**还有 1 台发电机未被摧毁。**"
+		"enable"		"0"
+		"hammerid"		"3526"
+		"m_iname"		"caja3"
 	}
-	"*** WELL DONE***"
+	"24908"
 	{
-		"chi"		"**干得漂亮！成功摧毁3台发电机。**"
+		"enable"		"0"
+		"hammerid"		"24908"
+		"m_iname"		"murofinal"
 	}
-	"***HOLD 25 SECONDS***"
+	"31444"
 	{
-		"chi"		"**坚持 25 秒！！！**"
-		"DoorCountDown"		"25"
-	}
-	"Warning! Overloading of reactor."
-	{
-		"chi"		"**警告！核反应堆超负荷！**"
-	}
-	"Explosion of the nuclear plant imminent !"
-	{
-		"chi"		"**核电站爆炸迫在眉睫！**"
-	}
-	"***TRUCK LEAVING IN 20 SECONDS***"
-	{
-		"chi"		"**距卡车离开还有 20 秒！**"
-		"DoorCountDown"		"20"
-	}
-	"Contact me at obscuri@obsmail.tk"
-	{
-		"chi"		"**作者邮箱地址：obscuri@obsmail.tk**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"31444"
+		"m_iname"		"putapuerta"
 	}
 }

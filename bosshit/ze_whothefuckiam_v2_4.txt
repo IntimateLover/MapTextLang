@@ -1,99 +1,27 @@
-"Console_T"
+"BOSSHP"
 {
-	">> Door Opens in 30 Seconds <<"
+	"20846"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"20846"
+		"m_iname"		"glassbreak1"
 	}
-	">> Door opens in 35 seconds <<"
+	"17180"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"17180"
+		"m_iname"		"ladder1"
 	}
-	">> Split into two teams! find the buttons to help the other team escape!! <<"
+	"6315"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"6315"
+		"m_iname"		"breakable1"
 	}
-	">> Vent will break in 40 seconds <<"
+	"65240"
 	{
-		"chi"		"** **"
-	}
-	">> HOLD! Elevator leaves in 30 seconds <<"
-	{
-		"chi"		"** **"
-	}
-	">> AFK TELEPORT ACTIVATES IN 15 SECONDS! <<"
-	{
-		"chi"		"** **"
-	}
-	">> Reinforced Bunker door opens 28 seconds <<"
-	{
-		"chi"		"** **"
-	}
-	">> Vent will break in 35 seconds <<"
-	{
-		"chi"		"** **"
-	}
-	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
-	{
-		"chi"		"** **"
-	}
-	">> MAP COMPLETED, CONGRATULATIONS! <<"
-	{
-		"chi"		"** **"
-	}
-	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"52428"
-	}
-	">> Reinforced Bunker door opens 25 seconds <<"
-	{
-		"chi"		"** **"
-	}
-	">> SECURITY DOOR OPENS IN 15 SECONDS <<"
-	{
-		"chi"		"** **"
-	}
-	">> OUTER BUNKER DOOR OPENS IN 15 SECONDS <<"
-	{
-		"chi"		"** **"
-	}
-	">> HOLD 10 SECONDS WHILST WE GET THIS DOOR CLOSED! <<"
-	{
-		"chi"		"** **"
-	}
-	">> WATCH OUT! DANGER AHEAD! <<"
-	{
-		"chi"		"** **"
-	}
-	">> GOOD JOB! ZOMBIES INCOMING!! <<"
-	{
-		"chi"		"** **"
-	}
-	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
-	{
-		"chi"		"** **"
-	}
-	">> NUKE INBOUND IN 35 SECONDS! <<"
-	{
-		"chi"		"** **"
-	}
-	">>> GET BACK OR GET FUCKED! <<<"
-	{
-		"chi"		"** **"
-	}
-	">> ZOMBIES INCOMING! 10 SECONDS <<"
-	{
-		"chi"		"** **"
-	}
-	">>> EXIT BREAKS IN 20 SECONDS <<<"
-	{
-		"chi"		"** **"
-	}
-	">> NUKE INBOUND IN 45 SECONDS! <<"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"65240"
+		"m_iname"		"lastdoorbreak"
 	}
 }

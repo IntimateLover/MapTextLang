@@ -1,117 +1,111 @@
-"Console_T"
+"BOSSHP"
 {
-	"***DEFEND! The door is locked***"
+	"330542"
 	{
-		"chi"		"**守住僵尸!这里的门锁住了!**"
-		"DoorCountDown"		"35"
+		"enable"		"0"
+		"hammerid"		"330542"
+		"m_iname"		"window"
 	}
-	"***Hold it for a bit more***"
+	"330550"
 	{
-		"chi"		"**再守一会儿**"
+		"enable"		"0"
+		"hammerid"		"330550"
+		"m_iname"		"window"
 	}
-	"***Fall back***"
+	"330680"
 	{
-		"chi"		"**撤退！**"
+		"enable"		"0"
+		"hammerid"		"330680"
+		"m_iname"		"doors"
 	}
-	"***The windows are barricaded off***"
+	"330691"
 	{
-		"chi"		"**窗户被障碍物挡住了**"
-		"DoorCountDown"		"35"
+		"enable"		"0"
+		"hammerid"		"330691"
+		"m_iname"		"doors"
 	}
-	"***Hold this position until we break it***"
+	"331158"
 	{
-		"chi"		"**回头守住僵尸直到我们弄走那些障碍物**"
+		"enable"		"0"
+		"hammerid"		"331158"
+		"m_iname"		"window"
 	}
-	"***Keep it steady***"
+	"331177"
 	{
-		"chi"		"**继续守住**"
+		"enable"		"0"
+		"hammerid"		"331177"
+		"m_iname"		"window"
 	}
-	"***The window barricades are broken through***"
+	"332398"
 	{
-		"chi"		"**窗户上的障碍物已经被移除了**"
+		"enable"		"0"
+		"hammerid"		"332398"
+		"m_iname"		"Floor"
 	}
-	"***RUN!***"
+	"332409"
 	{
-		"chi"		"**快跑！**"
+		"enable"		"0"
+		"hammerid"		"332409"
+		"m_iname"		"Floor"
 	}
-	"***Emergency sequence enabled***"
+	"332417"
 	{
-		"chi"		"**警告！紧急程序已启动！**"
+		"enable"		"0"
+		"hammerid"		"332417"
+		"m_iname"		"Floor"
 	}
-	"***Nerve Gas release inbound***"
+	"332428"
 	{
-		"chi"		"**警告！检测到未知生物！神经毒素即将释放！**"
+		"enable"		"0"
+		"hammerid"		"332428"
+		"m_iname"		"Floor"
 	}
-	"***Nerve Gas release in 90 seconds***"
+	"14442"
 	{
-		"chi"		"**神经毒素90秒后释放**"
+		"enable"		"0"
+		"hammerid"		"14442"
+		"m_iname"		"window"
 	}
-	"***Get to the lab for safety***"
+	"14450"
 	{
-		"chi"		"**地下实验室的门打开了,快下去!**"
+		"enable"		"0"
+		"hammerid"		"14450"
+		"m_iname"		"window"
 	}
-	"***Nerve Gas in 90 seconds***"
+	"14517"
 	{
-		"chi"		"**神经毒素90秒后释放**"
+		"enable"		"0"
+		"hammerid"		"14517"
+		"m_iname"		"Bridgebreak"
 	}
-	"***Nerve Gas in 15 seconds***"
+	"15563"
 	{
-		"chi"		"**神经毒素15秒后释放**"
+		"enable"		"0"
+		"hammerid"		"15563"
+		"m_iname"		"letters"
 	}
-	"***Nerve Gas in 30 seconds***"
+	"15641"
 	{
-		"chi"		"**神经毒素30秒后释放**"
+		"enable"		"0"
+		"hammerid"		"15641"
+		"m_iname"		"letterA"
 	}
-	"***Nerve Gas in 5 seconds***"
+	"15698"
 	{
-		"chi"		"**神经毒素5秒后释放**"
+		"enable"		"0"
+		"hammerid"		"15698"
+		"m_iname"		"letterT"
 	}
-	"***Nerve Gas imminent!!! CLOSE THE DOOR!!!!***"
+	"15748"
 	{
-		"chi"		"**神经毒素已释放！快关上门！**"
+		"enable"		"0"
+		"hammerid"		"15748"
+		"m_iname"		"letterA2"
 	}
-	"***Lockdown sequence enable***"
+	"15805"
 	{
-		"chi"		"**防御系统已启用！**"
-	}
-	"***Downstairs window malfunction***"
-	{
-		"chi"		"**警告！一楼客厅防御系统失效！**"
-	}
-	"***Upstairs window malfunction in dark room***"
-	{
-		"chi"		"**警告！二楼暗室防御系统失效！**"
-	}
-	"***Upstairs window malfunction in both rooms***"
-	{
-		"chi"		"**警告！二楼防御系统完全失效！**"
-	}
-	"***Someone is getting in through the roof***"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"62745"
-	}
-	"***Tram leaving in 15 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Press emergency sequence and set this place on lockdown!***"
-	{
-		"chi"		"** **"
-	}
-	"***Truck leaving in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Tram leaving in 5 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Upstairs window malfunction in lit room***"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"15805"
+		"m_iname"		"letterN"
 	}
 }

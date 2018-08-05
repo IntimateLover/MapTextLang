@@ -1,77 +1,75 @@
-"Console_T"
+"BOSSHP"
 {
-	"Defend until door open"
+	"2915258"
 	{
-		"chi"		"**抵御丧尸直到大门打开！**"
+		"enable"		"1"
+		"hammerid"		"2915258"
+		"m_iname"		"hp_boss"
 	}
-	"Fall Back"
+	"2890786"
 	{
-		"chi"		"**撤退！**"
+		"enable"		"1"
+		"hammerid"		"2890786"
+		"m_iname"		"boss_head"
 	}
-	"<< Defend 30 seconds >>"
+	"2951815"
 	{
-		"chi"		"**死守阵地30秒**"
+		"enable"		"0"
+		"hammerid"		"2951815"
+		"m_iname"		"wood_train_1x"
 	}
-	"<< 30 seconds until door open >>"
+	"2913312"
 	{
-		"chi"		"**30秒后门将打开！**"
+		"enable"		"0"
+		"hammerid"		"2913312"
+		"m_iname"		"br_zm"
 	}
-	"Defend the bridge"
+	"2915009"
 	{
-		"chi"		"**守住这座桥！**"
+		"enable"		"0"
+		"hammerid"		"2915009"
+		"m_iname"		"br_door_fin"
 	}
-	"back off the bridge zombies will be delayed"
+	"2831640"
 	{
-		"chi"		"**撤离这座桥！僵尸会被空气墙挡住！**"
+		"enable"		"0"
+		"hammerid"		"2831640"
+		"m_iname"		"w_br_1"
 	}
-	"Door open in 5 seconds"
+	"103324"
 	{
-		"chi"		"**门将于5秒后打开**"
-		"DoorCountdown"		"5"
+		"enable"		"0"
+		"hammerid"		"103324"
+		"m_iname"		"door_shield"
 	}
-	"Door is open"
+	"19918"
 	{
-		"chi"		"**门开了！**"
+		"enable"		"0"
+		"hammerid"		"19918"
+		"m_iname"		"bb"
 	}
-	"Hurry up !! Run !"
+	"15914"
 	{
-		"chi"		"**快点！撤退！**"
+		"enable"		"0"
+		"hammerid"		"15914"
+		"m_iname"		"blok_1"
 	}
-	"defend this spot few seconds"
+	"9234"
 	{
-		"chi"		"**守住这里！！**"
+		"enable"		"0"
+		"hammerid"		"9234"
+		"m_iname"		"break_1"
 	}
-	"Fall Back !!!"
+	"14482"
 	{
-		"chi"		"**撤退！！**"
+		"enable"		"0"
+		"hammerid"		"14482"
+		"m_iname"		"cube_2"
 	}
-	"You are near the goal"
+	"1341"
 	{
-		"chi"		"**你们已经离终点很近了！**"
-	}
-	"<< Cover spot for few seconds >>"
-	{
-		"chi"		"**守住这里！**"
-	}
-	"Teleport to boss room will ready in 5 seconds"
-	{
-		"chi"		"**5秒后将传送至boss房**"
-	}
-	"Teleport ready !"
-	{
-		"chi"		"**传送开始！**"
-	}
-	"boss defeated"
-	{
-		"chi"		"** **"
-	}
-	"<< Nuke has been launched!! 20 seconds until explosion >>"
-	{
-		"chi"		"** **"
-		"DoorCountdown"		"20"
-	}
-	"<< Map by Lup4n` >>"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"1341"
+		"m_iname"		"door_1"
 	}
 }

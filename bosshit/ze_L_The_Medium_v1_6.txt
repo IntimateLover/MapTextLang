@@ -1,198 +1,249 @@
-"Console_T"
+"BOSSHP"
 {
-	"**Defend until the bridge spawns**"
+	"436392"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"436392"
+		"m_iname"		"boxes2"
 	}
-	"**Defend until the castle garden doors breaks**"
+	"423582"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"423582"
+		"m_iname"		"boxes1"
 	}
-	"***Gods Fire has been claimed***"
+	"410620"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"410620"
+		"m_iname"		"L4_Glass"
 	}
-	"***Recharge: 80 seconds.***"
+	"173191"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"173191"
+		"m_iname"		"L4_CastleInGate"
 	}
-	"**Defend until the castle doors break**"
+	"344887"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"344887"
+		"m_iname"		"L7_FinalGates"
 	}
-	"**Defend the 1st floor until the teleporter activates**"
+	"346053"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"346053"
+		"m_iname"		"L7_VizLasersFinalBarrier"
 	}
-	"**Start falling back**"
+	"346078"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"346078"
+		"m_iname"		"1"
 	}
-	"**Defend this spot for 20 seconds**"
+	"346098"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"346098"
+		"m_iname"		"2"
 	}
-	"**JUMP**"
+	"347396"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"347396"
+		"m_iname"		"3"
 	}
-	"**Its Viz!**"
+	"272222"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"272222"
+		"m_iname"		"L7_VizBossBreakable"
 	}
-	"**Viz: Die fools..**"
+	"272281"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"272281"
+		"m_iname"		"L7_VizBossBlock1"
 	}
-	"**Viz is escaping, go after him**"
+	"272284"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"272284"
+		"m_iname"		"L7_VizBossBlock2"
 	}
-	"**Viz: Be prepared..**"
+	"272287"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"272287"
+		"m_iname"		"L7_VizBossBlock3"
 	}
-	"**GET READY TO DODGE LASERS"
+	"272290"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"272290"
+		"m_iname"		"L7_VizBossBlock4"
 	}
-	"**3**"
+	"264710"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"264710"
+		"m_iname"		"L6_Boxes"
 	}
-	"**2**"
+	"260597"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"260597"
+		"m_iname"		"L6_LasersBarrier"
 	}
-	"**1**"
+	"251009"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"251009"
+		"m_iname"		"L6_MetalGatesFront"
 	}
-	"**CHASE VIZ!**"
+	"251024"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"251024"
+		"m_iname"		"L6_MetalGatesBack"
 	}
-	"**Take the left path**"
+	"251526"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"251526"
+		"m_iname"		"L6_Bridges"
 	}
-	"**Final platforms will break in 110 seconds**"
+	"237221"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"237221"
+		"m_iname"		"L6_Door1"
 	}
-	"sync_version"
+	"217175"
 	{
-		"syncvalue"		"92802"
+		"enable"		"0"
+		"hammerid"		"217175"
+		"m_iname"		"L4_BoxBarricade"
 	}
-	"**It will break in 70 seconds**"
+	"203860"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"203860"
+		"m_iname"		"L5_FinalBridge"
 	}
-	"**It will break in 80 seconds**"
+	"203895"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"203895"
+		"m_iname"		"L5_FinalPlatform"
 	}
-	"**Defend this teleporter**"
+	"193521"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"193521"
+		"m_iname"		"l5castlebridge"
 	}
-	"**For 50 seconds**"
+	"187292"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"187292"
+		"m_iname"		"L5_LakeBridge"
 	}
-	"*** Admin switched to Act L6-L7! ***"
+	"187538"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"187538"
+		"m_iname"		"L5_Cage"
 	}
-	"**Reach the teleporter to meet Leiv**"
+	"165195"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"165195"
+		"m_iname"		"L4_to_L5_Barrier"
 	}
-	"**Beware of Viz attack!**"
+	"130118"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"130118"
+		"m_iname"		"L5_FinalBox"
 	}
-	"**First gates will break in 30 seconds**"
+	"69781"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"69781"
+		"m_iname"		"AdminRoom_Level1_Phsybox"
 	}
-	"**Second gates will break in 50 seconds**"
+	"69807"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"69807"
+		"m_iname"		"AdminRoom_Level2_Phsybox"
 	}
-	"**Door will break in 20 seconds**"
+	"173162"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"173162"
+		"m_iname"		"L4_CastleOutGate"
 	}
-	"**Bridges will break in 40 seconds**"
+	"184406"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"184406"
+		"m_iname"		"L4_SpawnBridge"
 	}
-	"MapGlobal_ConVars"
+	"410664"
 	{
-		"0"
-		{
-			"cvar"		"mp_roundtime 15"
-		}
+		"enable"		"0"
+		"hammerid"		"410664"
+		"m_iname"		"L4_Ladders"
 	}
-	"**Leiv: Heal my warriors and prepare to fight.**"
+	"410673"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"410673"
+		"m_iname"		"L4_Ladders"
 	}
-	"**Leiv: Teleporting everyone in 10 seconds**"
+	"410677"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"410677"
+		"m_iname"		"L4_Ladders"
 	}
-	"**Destroy Viz Shield!**"
+	"410681"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"410681"
+		"m_iname"		"L4_Ladders"
 	}
-	"**Demonfire**"
+	"410685"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"410685"
+		"m_iname"		"L4_Ladders"
 	}
-	"**Heat Wave**"
+	"196851"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"196851"
+		"m_iname"		"L5_VizLaserWall"
 	}
-	"**Execute**"
+	"196858"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"196858"
+		"m_iname"		"L5_VizLaserWall"
 	}
-	"**Fire Vortex**"
+	"267046"
 	{
-		"chi"		"** **"
+		"enable"		"1"
+		"hammerid"		"267046"
+		"m_iname"		"L7_BossBridges"
 	}
-	"**Viz has escaped!**"
+	"347154"
 	{
-		"chi"		"** **"
-	}
-	"**Humans teleporting in 10 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**Gates will break in 20 seconds**"
-	{
-		"chi"		"** **"
-	}
-	"**DESTROY VIZ SHIELD**"
-	{
-		"chi"		"** **"
-	}
-	"**STAGE FAILED**"
-	{
-		"chi"		"** **"
-	}
-	"**GET SAFE**"
-	{
-		"chi"		"** **"
-	}
-	"**HE ESCAPED**"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"347154"
+		"m_iname"		"L7_VizFinalBreakable"
 	}
 }

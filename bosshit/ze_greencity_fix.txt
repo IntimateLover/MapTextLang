@@ -1,7 +1,33 @@
-"Console_T"
+"BOSSHP"
 {
-	"The server is about to close the update ,Please update your game"
+	"164919"
 	{
-		"chi"		"** **"
+		"enable"		"0"
+		"hammerid"		"164919"
+		"m_iname"		"level_7_go"
+	}
+	"145023"
+	{
+		"enable"		"0"
+		"hammerid"		"145023"
+		"m_iname"		"level_3_go_1"
+	}
+	"142282"
+	{
+		"enable"		"0"
+		"hammerid"		"142282"
+		"m_iname"		"level_6_go"
+	}
+	"55775"
+	{
+		"enable"		"0"
+		"hammerid"		"55775"
+		"m_iname"		"level_1_go"
+	}
+	"55796"
+	{
+		"enable"		"0"
+		"hammerid"		"55796"
+		"m_iname"		"level_2_go"
 	}
 }
