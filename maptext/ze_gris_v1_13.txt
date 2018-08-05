@@ -32,4 +32,11 @@
 	{
 		"syncvalue"		"1584"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_Cvar zr_poison_enabled  0"
+		}
+	}
 }
