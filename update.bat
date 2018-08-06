@@ -21,8 +21,6 @@ for /f "delims=" %%i in ('dir *.*/a-d /b /s') do (
     )
 )
 
-
-
 @echo off
 set "sd=F:\CSGOSERVER\csgoserverzev2\csgo\addons\sourcemod\configs\bosshit"
 set "dd=G:\GitSYNC\MapTextLang\bosshit"
@@ -43,13 +41,10 @@ for /f "delims=" %%i in ('dir *.*/a-d /b /s') do (
     )
 )
 
-
 echo; 昨日文件内容复制完毕了...
 cd /d "G:\GitSYNC\MapTextLang"
 echo; 开始Push到Git 提交名称为 "autoupdate"
 
 git add . && git commit -m autoupdate && git push origin master
-
-
 
 exit
