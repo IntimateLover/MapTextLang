@@ -16,27 +16,8 @@
 	{
 		"chi"		"** **"
 	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"sm_kick @all Update"
-	{
-		"chi"		"** **"
-	}
-	"sm_kick @al Update"
-	{
-		"chi"		"** **"
-	}
 	"sync_version"
 	{
 		"syncvalue"		"1584"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_Cvar zr_poison_enabled  0"
-		}
 	}
 }
