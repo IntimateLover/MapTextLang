@@ -1,5 +1,5 @@
 echo;此批处理 按照服务器时间每天凌晨3点自动执行一次 添加到windows计划任务以自动化执行.
-echo;安装 Git 客户端 和 部署Github SSH 秘钥来实现 推送以实现服务器免登陆.
+echo;安装 Git 客户端 和 部署Github SSH 秘钥来实现 推送以实现服务器免登陆Github.
 
 
 cd /d "G:\GitSYNC\MapTextLang"
