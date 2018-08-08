@@ -814,4 +814,10 @@
 		"hammerid"		"65800"
 		"m_iname"		"3lg41"
 	}
+	"46134"
+	{
+		"enable"		"0"
+		"hammerid"		"46134"
+		"m_iname"		"34_meteor_phys"
+	}
 }
