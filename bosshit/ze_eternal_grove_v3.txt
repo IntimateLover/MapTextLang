@@ -144,4 +144,28 @@
 		"hammerid"		"33857"
 		"m_iname"		"i_minotaurgod_base"
 	}
+	"357337"
+	{
+		"enable"		"0"
+		"hammerid"		"357337"
+		"m_iname"		"i_endwall_3&0406"
+	}
+	"357324"
+	{
+		"enable"		"0"
+		"hammerid"		"357324"
+		"m_iname"		"i_endwall_1&0398"
+	}
+	"357319"
+	{
+		"enable"		"0"
+		"hammerid"		"357319"
+		"m_iname"		"i_endwall_2&0408"
+	}
+	"357623"
+	{
+		"enable"		"0"
+		"hammerid"		"357623"
+		"m_iname"		"i_endwall_4&0407"
+	}
 }

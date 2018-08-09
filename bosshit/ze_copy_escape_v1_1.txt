@@ -198,4 +198,46 @@
 		"hammerid"		"435440"
 		"m_iname"		"breakable04"
 	}
+	"868957"
+	{
+		"enable"		"0"
+		"hammerid"		"868957"
+		"m_iname"		"breakable01"
+	}
+	"820758"
+	{
+		"enable"		"0"
+		"hammerid"		"820758"
+		"m_iname"		"elevator00_break"
+	}
+	"777309"
+	{
+		"enable"		"0"
+		"hammerid"		"777309"
+		"m_iname"		"breakable04"
+	}
+	"610960"
+	{
+		"enable"		"1"
+		"hammerid"		"610960"
+		"m_iname"		"st3_boss_holy"
+	}
+	"612235"
+	{
+		"enable"		"1"
+		"hammerid"		"612235"
+		"m_iname"		"st3_boss_slow"
+	}
+	"599125"
+	{
+		"enable"		"1"
+		"hammerid"		"599125"
+		"m_iname"		"st3_boss_wind"
+	}
+	"590358"
+	{
+		"enable"		"1"
+		"hammerid"		"590358"
+		"m_iname"		"st3_boss_blade"
+	}
 }
