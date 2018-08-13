@@ -128,25 +128,6 @@
 	{
 		"chi"		"** **"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"mp_roundtime 15"
-		}
-		"1"
-		{
-			"cvar"		"sm_lockroundtime 20"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar mp_timelimit 20"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar mp_timelimit 30"
-		}
-	}
 	"**Leiv: Heal my warriors and prepare to fight.**"
 	{
 		"chi"		"** **"
