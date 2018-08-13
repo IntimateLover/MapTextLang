@@ -138,6 +138,14 @@
 		{
 			"cvar"		"sm_lockroundtime 20"
 		}
+		"2"
+		{
+			"cvar"		"sm_cvar mp_timelimit 20"
+		}
+		"3"
+		{
+			"cvar"		"sm_cvar mp_timelimit 30"
+		}
 	}
 	"**Leiv: Heal my warriors and prepare to fight.**"
 	{

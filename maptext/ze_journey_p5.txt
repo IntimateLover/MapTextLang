@@ -123,4 +123,19 @@
 	{
 		"syncvalue"		"96199"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_Cvar sm_flash_limit   1"
+		}
+		"1"
+		{
+			"cvar"		"sm_Cvar sm_g_cv_money 10000"
+		}
+		"2"
+		{
+			"cvar"		"sm_Cvar sm_g_cv_money 12000"
+		}
+	}
 }
