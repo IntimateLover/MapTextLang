@@ -188,4 +188,19 @@
 	{
 		"chi"		"** **"
 	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar mp_timelimit 20"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar mp_timelimit 30"
+		}
+		"2"
+		{
+			"cvar"		"sm_lockroundtime 20"
+		}
+	}
 }
