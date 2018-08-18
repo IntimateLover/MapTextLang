@@ -1,142 +1,334 @@
 "Console_T"
 {
-	"Welcome to Pokemon Rivals!"
+	">>WARMUP<<"
 	{
 		"chi"		"** **"
 	}
-	"Map by Onahole"
+	">>THE GAME WILL BEGIN IN 45 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"The next door opens in 15 seconds."
+	">>THE GAME WILL BEGIN IN 40 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"A rock wall?"
+	">>THE GAME WILL BEGIN IN 35 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"Nothing our Machamp cant smash through!"
+	">>THE GAME WILL BEGIN IN 30 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"Hold for 10 seconds."
+	">>THE GAME WILL BEGIN IN 25 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP USE ROCK SMASH!"
+	">>THE GAME WILL BEGIN IN 20 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"Yes! The cave is open!"
+	">>THE GAME WILL BEGIN IN 15 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"Oh man, its dark in here!"
+	">>THE GAME WILL BEGIN IN 10 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"Uh oh, those Digletts look aggressive!"
+	">>THE GAME WILL BEGIN IN 5 SECONDS<<"
 	{
 		"chi"		"** **"
 	}
-	"Oh no, somethings coming!"
+	">>THE GAME WILL BEGIN NOW BEGIN<<"
 	{
 		"chi"		"** **"
 	}
-	"The rocks blocked our path!!"
+	"Level 1: MISTY!"
 	{
 		"chi"		"** **"
 	}
-	"Looks like were gonna have to break it!"
+	"OAK: When I was young, I was a serious POKEMON TRAINER."
 	{
 		"chi"		"** **"
 	}
-	"Hold on for 10 seconds!"
+	"But now, in my old age, I have only these three left."
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP! USE ROCK SMASH!"
+	"You can have one. Go on choose!"
 	{
 		"chi"		"** **"
 	}
-	"The cave exit is blocked!"
+	">>To choose your starter POKEMON<<"
 	{
 		"chi"		"** **"
 	}
-	"Machop still needs to rest before he can use Rock Smash again!"
+	">>Stand on the platform with your desired POKEMONs name on it!<<"
 	{
 		"chi"		"** **"
 	}
-	"Hold for 25 seconds!"
+	"OAK: I see! BULBASAUR is your choice, Its very easy to raise."
 	{
 		"chi"		"** **"
 	}
-	"Looks like hes ready!"
+	"This POKEMON is really quite energetic!"
 	{
 		"chi"		"** **"
 	}
-	"The next door opens in 40 seconds!"
+	"HUMANs received the BULBASAUR from PROF. OAK!"
 	{
 		"chi"		"** **"
 	}
-	"20 seconds till the door opens."
+	">>TRAINER TIPS<<"
 	{
 		"chi"		"** **"
 	}
-	"10 seconds!"
+	">>Catch POKEMON and expand your collection.<<"
 	{
 		"chi"		"** **"
 	}
-	"The door opened! Lets go!"
+	">>For now you only have 1 Pokeball.<<"
 	{
 		"chi"		"** **"
 	}
-	"The door out opens in 20 seconds!"
+	">>Drop a Pokeball on POKEMON marked with a white arrow to catch them!<<"
 	{
 		"chi"		"** **"
 	}
-	"Look at that! Its the ocean!!"
+	"Our adventure begins now!"
 	{
 		"chi"		"** **"
 	}
-	"Hold for 10 seconds!"
+	"The pathway for our adventure will open in 20 seconds!"
 	{
 		"chi"		"** **"
 	}
-	"Hey!!"
+	">>Look out for signposts with arrows!<<"
 	{
 		"chi"		"** **"
 	}
-	"Youve finally arrived."
+	">>They will provide hints on where to go next!<<"
 	{
 		"chi"		"** **"
 	}
-	"Ive been training my Blastoise every day."
+	">>The battle moves of POKEMON are limited by their POWER POINTS, PP<<"
 	{
 		"chi"		"** **"
 	}
-	"And today..."
+	">>To replenish PP, rest your tired POKEMON at a POKEMON CENTER<<"
 	{
 		"chi"		"** **"
 	}
-	"We are going to defeat you!"
+	"Hold for 30 seconds."
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP used FOCUS ENERGY!"
+	"HUMANS have caught MACHOP!"
 	{
 		"chi"		"** **"
 	}
-	"MACHAMPS CRIT. Chance rose!"
+	"OAK: Hm! SQUIRTLE is your choice, Its one worth raising."
 	{
 		"chi"		"** **"
 	}
-	"it didnt actually lmfao idk how id do that atm"
+	"HUMANs received the SQUIRTLE from PROF. OAK!"
 	{
 		"chi"		"** **"
 	}
-	"BLASTOISE used WATERGUN!"
+	">>POKEMON hide in tall grass.<<"
+	{
+		"chi"		"** **"
+	}
+	">>Zigzag through grassy areas to flush them out.<<"
+	{
+		"chi"		"** **"
+	}
+	"A sleeping POKEMON blocks the way!"
+	{
+		"chi"		"** **"
+	}
+	"Hold for 30 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANS have caught HORSEA!"
+	{
+		"chi"		"** **"
+	}
+	">>You cant catch a POKEMON that belongs to someone else.<<"
+	{
+		"chi"		"** **"
+	}
+	"Lets find a different way around!"
+	{
+		"chi"		"** **"
+	}
+	">>Throw POKE BALLS only at wild POKEMON to catch them.<<"
+	{
+		"chi"		"** **"
+	}
+	"The sleeping POKEMON left!"
+	{
+		"chi"		"** **"
+	}
+	"Hold for 15 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Hold for 15 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"MISTY: Hi, youre a new face!"
+	{
+		"chi"		"** **"
+	}
+	"Only those TRAINERS who have a policy about POKEMON can turn pro."
+	{
+		"chi"		"** **"
+	}
+	"What is your approach when you catch and train POKEMON?"
+	{
+		"chi"		"** **"
+	}
+	"My policy is an all-out offensive with WATER-type POKEMON!"
+	{
+		"chi"		"** **"
+	}
+	"Go! STARYU!"
+	{
+		"chi"		"** **"
+	}
+	"Go! BULBASAUR!"
+	{
+		"chi"		"** **"
+	}
+	"BULBASAUR used VINE WHIP!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy STARYU used TACKLE!"
+	{
+		"chi"		"** **"
+	}
+	"BULBSAUR used TACKLE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy STARYU used WATERGUN!"
+	{
+		"chi"		"** **"
+	}
+	"The attack missed..."
+	{
+		"chi"		"** **"
+	}
+	"BULBASAUR used LEECH SEED!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy POKEMON was seeded!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy STARYU used HARDEN!"
+	{
+		"chi"		"** **"
+	}
+	"STARYUs DEFENSE rose!"
+	{
+		"chi"		"** **"
+	}
+	"LEECH SEED saps Enemy POKEMON!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy POKEMON evaded attack!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMON fainted!"
+	{
+		"chi"		"** **"
+	}
+	"ZOMBIES are out of useable POKEMON!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANs defeated MISTY!"
+	{
+		"chi"		"** **"
+	}
+	"MISTY: Wow! Youre too much!"
+	{
+		"chi"		"** **"
+	}
+	"You really beat me!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANs got $800 for winning!"
+	{
+		"chi"		"** **"
+	}
+	"Level 2: BROCK!"
+	{
+		"chi"		"** **"
+	}
+	"OAK: Ah! CHARMANDER is your choice. You should raise it patiently."
+	{
+		"chi"		"** **"
+	}
+	"HUMANs received the CHARMANDER from PROF. OAK!"
+	{
+		"chi"		"** **"
+	}
+	">>You have 1 Pokeball!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Zombies now get 1 Pokeball!<<"
+	{
+		"chi"		"** **"
+	}
+	">>ZOMBIES: Get close to indicated POKEMON and press E to catch them!<<"
+	{
+		"chi"		"** **"
+	}
+	"ZOMBIES have caught WEEDLE!"
+	{
+		"chi"		"** **"
+	}
+	"BROCK: My rock-hard willpower is evident in my POKEMON."
+	{
+		"chi"		"** **"
+	}
+	"My POKEMON are all rock-hard, and have true-grit determination."
+	{
+		"chi"		"** **"
+	}
+	"Fuhaha! Youre going to challenge me knowing that youll lose?"
+	{
+		"chi"		"** **"
+	}
+	"Fine, then! Show me your best!"
+	{
+		"chi"		"** **"
+	}
+	"Go! CHARMANDER!"
+	{
+		"chi"		"** **"
+	}
+	"CHARMANDER used EMBER!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy GEODUDE used ROCK THROW!"
+	{
+		"chi"		"** **"
+	}
+	"Critical hit!"
 	{
 		"chi"		"** **"
 	}
@@ -144,23 +336,39 @@
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP used SUBMISSION!"
+	"CHARMANDER used GROWL!"
 	{
 		"chi"		"** **"
 	}
-	"BLASTOISE used HYDROPUMP!"
+	"Enemys POKEMONs ATTACK fell!"
 	{
 		"chi"		"** **"
 	}
-	"BLASTOISE used WITHDRAW!"
+	"CHARMANDER used SCRATCH!"
 	{
 		"chi"		"** **"
 	}
-	"BLASTOISEs DEFENSE rose!"
+	"HUMANs POKEMON fainted!"
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP used ROCK SMASH!"
+	"Go! MACHOP!"
+	{
+		"chi"		"** **"
+	}
+	"MACHOP used LOW KICK!"
+	{
+		"chi"		"** **"
+	}
+	"Go! WEEDLE!"
+	{
+		"chi"		"** **"
+	}
+	"MACHOP used KARATE CHOP!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy WEEDLE used POISON STING!"
 	{
 		"chi"		"** **"
 	}
@@ -168,60 +376,160 @@
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP fainted!"
+	"Enemy WEEDLE used BUG BITE!"
 	{
 		"chi"		"** **"
 	}
-	"HUMANS are out of usable POKEMON!"
+	"HUMANs defeated BROCK!"
 	{
 		"chi"		"** **"
 	}
-	"HUMANS blacked out!"
+	"BROCK: I took you for granted."
 	{
 		"chi"		"** **"
 	}
-	"MACHAMPs attack missed!"
+	"Congratulations on your victory"
 	{
 		"chi"		"** **"
 	}
-	"BLASTOISEs attack missed!"
+	"Level 3: GARY!"
 	{
 		"chi"		"** **"
 	}
-	"BLASTOISE fainted!"
+	"Alright Zombies, you can pick a starter aswell!"
 	{
 		"chi"		"** **"
 	}
-	"MACHAMP gained 1725 EXP. Points!"
+	">>You have 2 Pokeballs!<<"
 	{
 		"chi"		"** **"
 	}
-	"HUMANS defeated ZOMBIES!"
+	"Zombies did not pick a starter!"
 	{
 		"chi"		"** **"
 	}
-	"GARY: NO! That cant be! You beat my best!"
+	"If youre that indecisive you can just take this one!"
 	{
 		"chi"		"** **"
 	}
-	"Its not fair!"
+	"GARY: Ill take this one, then!"
 	{
 		"chi"		"** **"
 	}
-	"HUMANS got $6435 for winning!"
+	"GARY received the CHARMANDER from PROF. OAK!"
 	{
 		"chi"		"** **"
 	}
-	"CONGRATULATIONS! YOU WIN"
+	">>Zombies now get 2 Pokeballs!<<"
 	{
 		"chi"		"** **"
 	}
-	"FULL VERSION COMING SOON *idk how soon tho*"
+	"HUMANS have caught SPEAROW!"
 	{
 		"chi"		"** **"
 	}
-	"sync_version"
+	"Hold for 25 seconds!"
 	{
-		"syncvalue"		"72726"
+		"chi"		"** **"
+	}
+	"GARY: Hey!"
+	{
+		"chi"		"** **"
+	}
+	"Youve finally arrived."
+	{
+		"chi"		"** **"
+	}
+	"Ive been catching and training my POKEMON!"
+	{
+		"chi"		"** **"
+	}
+	"And now..."
+	{
+		"chi"		"** **"
+	}
+	"We are going to defeat you!"
+	{
+		"chi"		"** **"
+	}
+	"Go! SQUIRTLE!"
+	{
+		"chi"		"** **"
+	}
+	"SQUIRTLE used WATERGUN!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy CHARMANDER used EMBER!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy CHARMANDER used GROWL!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANs POKEMONs ATTACK fell!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy CHARMANDER used SCRATCH!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy MACHOP used KARATE CHOP!"
+	{
+		"chi"		"** **"
+	}
+	"SQUIRTLE used TACKLE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy MACHOP used LOW KICK!"
+	{
+		"chi"		"** **"
+	}
+	"Go! SPEAROW!"
+	{
+		"chi"		"** **"
+	}
+	"SPEAROW used PECK!"
+	{
+		"chi"		"** **"
+	}
+	"Go! DIGLETT!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy DIGLETT used MUD SLAP!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy DIGLETT used SCRATCH!"
+	{
+		"chi"		"** **"
+	}
+	"SPEAROW used LEER!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMONs DEFENSE fell!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANs defeated GARY!"
+	{
+		"chi"		"** **"
+	}
+	"GARY: You.. You beat me?!"
+	{
+		"chi"		"** **"
+	}
+	"Aww! You just lucked out!"
+	{
+		"chi"		"** **"
+	}
+	"HUMANs got $900 for winning!"
+	{
+		"chi"		"** **"
 	}
 }
