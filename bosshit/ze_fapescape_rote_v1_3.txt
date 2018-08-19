@@ -220,37 +220,37 @@
 	}
 	"3107249"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3107249"
 		"m_iname"		"final_boss_brk_1"
 	}
 	"3107281"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3107281"
 		"m_iname"		"final_boss_brk_2"
 	}
 	"3107309"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3107309"
 		"m_iname"		"final_boss_brk_4"
 	}
 	"3107323"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3107323"
 		"m_iname"		"final_boss_brk_5"
 	}
 	"3107337"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3107337"
 		"m_iname"		"final_boss_brk_6"
 	}
 	"3107295"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3107295"
 		"m_iname"		"final_boss_brk_3"
 	}
@@ -262,7 +262,7 @@
 	}
 	"2221008"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"2221008"
 		"m_iname"		"final_boss_door2"
 	}
@@ -274,7 +274,7 @@
 	}
 	"1994229"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1994229"
 		"m_iname"		"final_boss_phase_two_34"
 	}
@@ -286,19 +286,19 @@
 	}
 	"1734955"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1734955"
 		"m_iname"		"final_boss_phase_one_14"
 	}
 	"1717063"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1717063"
 		"m_iname"		"final_boss_phase_one_1"
 	}
 	"1413284"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1413284"
 		"m_iname"		"final_boss_pad"
 	}
