@@ -2,15 +2,15 @@
 {
 	"map by niuroufen"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：牛肉粉 地图翻译：清新的二哈♪ **"
 	}
 	"thanks for you play the map"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢你游玩这张地图 **"
 	}
 	"you need hold 35s"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -18,35 +18,35 @@
 	}
 	"you need hold 25s watch you back"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防守25秒 **"
 	}
 	"Zombie transfer to start the door will open after 20S"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将会在20秒后传送 **"
 	}
 	"You need to defend 25S"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
 	}
 	"You need to defend 20S"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
 	}
 	"Zombie transfer to start"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸传送 **"
 	}
 	"hold here 45S"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里45秒 **"
 	}
 	"we need defend 20S"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
 	}
 	"Platform transfer will be enabled after 20S"
 	{
-		"chi"		"** **"
+		"chi"		"**平台传送将在20秒后启动 **"
 	}
 	"Zombie approaching to open"
 	{
@@ -54,15 +54,15 @@
 	}
 	"The left door will open after 30S"
 	{
-		"chi"		"** **"
+		"chi"		"**左边的门30秒后打开 **"
 	}
 	"The right door will open after 30S"
 	{
-		"chi"		"** **"
+		"chi"		"**右边的门30秒后打开 **"
 	}
 	"The platform will fly after 80S"
 	{
-		"chi"		"** **"
+		"chi"		"**平台将会在80秒后离开 **"
 	}
 	"The zombie is open"
 	{
@@ -70,11 +70,11 @@
 	}
 	"zombie coming in 5s"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后到达战场 **"
 	}
 	"we need defend 25s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守25秒 **"
 	}
 	"sync_version"
 	{
@@ -82,23 +82,23 @@
 	}
 	"you need hold 30s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守30秒 **"
 	}
 	"hold here 35s"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒 **"
 	}
 	"The platform will fly after 60S"
 	{
-		"chi"		"** **"
+		"chi"		"**平台将会在60秒后离开 **"
 	}
 	"we need defend 18s"
 	{
-		"chi"		"** **"
+		"chi"		"**继续坚持18秒 **"
 	}
 	"Mobile platform will rise in 35S"
 	{
-		"chi"		"** **"
+		"chi"		"**移动平台在35秒后上升 **"
 	}
 	"Humans will win after 5S"
 	{
