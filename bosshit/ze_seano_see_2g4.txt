@@ -156,4 +156,10 @@
 		"hammerid"		"209556"
 		"m_iname"		"lv1_phys"
 	}
+	"900869"
+	{
+		"enable"		"1"
+		"hammerid"		"900869"
+		"m_iname"		"lv2_boss_skill3_nade"
+	}
 }
