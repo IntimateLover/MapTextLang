@@ -154,23 +154,23 @@
 	{
 		"enable"		"0"
 		"hammerid"		"113391"
-		"m_iname"		"npc_phys&7557"
+		"m_iname"		"npc_phys&8195"
 	}
 	"112929"
 	{
 		"enable"		"0"
 		"hammerid"		"112929"
-		"m_iname"		"i_cannonfire_phys&4352"
+		"m_iname"		"i_cannonfire_phys&6531"
 	}
 	"113713"
 	{
 		"enable"		"0"
 		"hammerid"		"113713"
-		"m_iname"		"i_magic_phys&3182"
+		"m_iname"		"i_magic_phys&7561"
 	}
 	"112974"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"112974"
 		"m_iname"		"i_seamtent_detector"
 	}
@@ -184,7 +184,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"112365"
-		"m_iname"		"i_boar_detect&4690"
+		"m_iname"		"i_boar_detect&4291"
 	}
 	"119657"
 	{
@@ -226,7 +226,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"110127"
-		"m_iname"		"i_magic_phys1&7276"
+		"m_iname"		"i_magic_phys1&8099"
 	}
 	"116802"
 	{

@@ -235,6 +235,10 @@
 		{
 			"cvar"		"sm_armor_limit 3"
 		}
+		"14"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
 	}
 	"**After three day of tracking Basil**"
 	{

@@ -2,32 +2,32 @@
 {
 	"*** Map by Soft Serve ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Soft Serve 地图翻译：清新的二哈♪ **"
 	}
 	"*** 5 seconds left ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 		"DoorCountdown"		"5"
 	}
 	"*** Nuke in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后核爆 **"
 		"DoorCountdown"		"30"
 	}
 	"*** Nuke in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后核爆 **"
 	}
 	"*** Nuke in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后核爆 **"
 	}
 	"*** Humans have escaped! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类逃走了！ **"
 	}
 	"*** Humans have failed to escape! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类没能逃走！ **"
 	}
 }

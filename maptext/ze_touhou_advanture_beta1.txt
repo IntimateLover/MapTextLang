@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"map by koyomaple"
+	{
+		"chi"		"** **"
+	}
+	"teleport in 20sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 10 sec"
+	{
+		"chi"		"** **"
+	}
+	"door open in 20sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 10sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 15sec"
+	{
+		"chi"		"** **"
+	}
+	"teleport enable in 10sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 30sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 20sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 40sec"
+	{
+		"chi"		"** **"
+	}
+	"teleport in 15sec"
+	{
+		"chi"		"** **"
+	}
+	"hold last 45sec"
+	{
+		"chi"		"** **"
+	}
+}

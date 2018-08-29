@@ -64,7 +64,7 @@
 	}
 	"**Boat will arrive in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**船只将在 30 秒后激活**"
 	}
 	"sync_version"
 	{
@@ -72,7 +72,7 @@
 	}
 	"**Elevator is leaving in 35s**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在 35 秒后离开**"
 	}
 	"*** You took way too long ! ***"
 	{

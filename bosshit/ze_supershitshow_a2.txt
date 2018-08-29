@@ -336,4 +336,10 @@
 		"hammerid"		"281426"
 		"m_iname"		"SpitPhys&1379"
 	}
+	"308621"
+	{
+		"enable"		"0"
+		"hammerid"		"308621"
+		"m_iname"		"SkyArenaKubrick"
+	}
 }

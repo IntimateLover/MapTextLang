@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"95584"
+	{
+		"enable"		"0"
+		"hammerid"		"95584"
+		"m_iname"		"Sonaki_Physbox1"
+	}
+	"95592"
+	{
+		"enable"		"0"
+		"hammerid"		"95592"
+		"m_iname"		"Sonaki_Breakable"
+	}
+	"95687"
+	{
+		"enable"		"0"
+		"hammerid"		"95687"
+		"m_iname"		"Sonaki_Physbox2"
+	}
+	"26481"
+	{
+		"enable"		"0"
+		"hammerid"		"26481"
+		"m_iname"		"window"
+	}
+}

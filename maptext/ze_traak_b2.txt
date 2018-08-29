@@ -140,7 +140,7 @@
 		"
 	}
 	"		"***"
-		"You"		"Fail"
+		"you"		"Fail"
 		"***"		"
 	{
 		"
@@ -197,8 +197,12 @@
 	{
 		"chi"		"**僵尸在船上**"
 	}
-	"*** You Fail ***"
+	"*** YOU FAIL ***"
 	{
 		"chi"		"**你失败了**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

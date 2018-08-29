@@ -128,17 +128,6 @@
 	{
 		"chi"		"** **"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"mp_roundtime 15"
-		}
-		"1"
-		{
-			"cvar"		"sm_lockroundtime 20"
-		}
-	}
 	"**Leiv: Heal my warriors and prepare to fight.**"
 	{
 		"chi"		"** **"
@@ -198,5 +187,20 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar mp_timelimit 20"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar mp_timelimit 30"
+		}
+		"2"
+		{
+			"cvar"		"sm_lockroundtime 20"
+		}
 	}
 }

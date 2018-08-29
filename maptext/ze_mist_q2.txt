@@ -46,7 +46,7 @@
 	}
 	"*** 20 seconds ***"
 	{
-		"chi"		"** 等待 20 秒 **"
+		"chi"		"**地下古墓葬礼传送之门将在20秒后开启大门**"
 	}
 	"*** 120 seconds ***"
 	{
@@ -138,5 +138,9 @@
 	"*** You have failed to slay the dragon in time! ***"
 	{
 		"chi"		"** 你们没有在规定的是时限里杀掉龙! **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }
