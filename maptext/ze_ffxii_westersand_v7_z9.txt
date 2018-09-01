@@ -10,7 +10,6 @@
 	}
 	"** Defend untill the guards open the airport. **"
 	{
-	
 		"chi"		"**坚守至守卫将机场开放**"
 	}
 	"** Airport opened. **"
@@ -311,6 +310,10 @@
 		"chi"		"** **"
 	}
 	"[WINNER] Selected [EXTREME MODE] for next round"
+	{
+		"chi"		"** **"
+	}
+	"** You have failed... **"
 	{
 		"chi"		"** **"
 	}
