@@ -52,7 +52,7 @@
 	{
 		"chi"		"**距离太空船离开时间还有 30 秒！**"
 	}
-	"**15 seconds left!**"
+	"**15 SECONDS LEFT!**"
 	{
 		"chi"		"**距离太空船离开时间还有 15 秒！**"
 	}
@@ -71,5 +71,9 @@
 	"***Do not look back!***"
 	{
 		"chi"		"**不要回头！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }

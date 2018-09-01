@@ -14,7 +14,7 @@
 	}
 	"409426"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"409426"
 		"m_iname"		"seal"
 	}
@@ -110,7 +110,7 @@
 	}
 	"253703"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"253703"
 		"m_iname"		"i_npc_hp_1"
 	}
@@ -244,7 +244,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"688106"
-		"m_iname"		"X69Xhichtorchwood&5318"
+		"m_iname"		"X69Xhichtorchwood&3296"
 	}
 	"583227"
 	{
@@ -424,13 +424,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"589398"
-		"m_iname"		"X69Xluff_npc_phys2g&5537"
+		"m_iname"		"X69Xluff_npc_phys2g&3544"
 	}
 	"589440"
 	{
 		"enable"		"0"
 		"hammerid"		"589440"
-		"m_iname"		"X69Xluff_npc_phys2gg&5537"
+		"m_iname"		"X69Xluff_npc_phys2gg&3544"
 	}
 	"980885"
 	{
@@ -602,7 +602,7 @@
 	}
 	"559603"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"559603"
 		"m_iname"		"X69XOrd_main_large_diglett_brea"
 	}
@@ -614,7 +614,7 @@
 	}
 	"546455"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"546455"
 		"m_iname"		"blobarm_hp"
 	}
@@ -686,15 +686,15 @@
 	}
 	"312893"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"312893"
-		"m_iname"		"i_vaginaface_hp&1255"
+		"m_iname"		"i_vaginaface_hp&6194"
 	}
 	"1010860"
 	{
 		"enable"		"0"
 		"hammerid"		"1010860"
-		"m_iname"		"projectile_phys_1&1134"
+		"m_iname"		"projectile_phys_1&6275"
 	}
 	"585332"
 	{
@@ -796,7 +796,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"473830"
-		"m_iname"		"i_debrisblock&1894"
+		"m_iname"		"i_debrisblock&5797"
 	}
 	"1201798"
 	{
@@ -868,7 +868,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1351095"
-		"m_iname"		"X68Xhich_zombie_TP"
+		"m_iname"		"X68X_blobfire"
 	}
 	"585268"
 	{
@@ -920,9 +920,9 @@
 	}
 	"1528539"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1528539"
-		"m_iname"		"i_diddlebaby_phys&2439"
+		"m_iname"		"i_diddlebaby_phys&6214"
 	}
 	"1011011"
 	{
@@ -952,12 +952,12 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1897863"
-		"m_iname"		"i_mortar_phys&5216"
+		"m_iname"		"i_mortar_phys&3267"
 	}
 	"1010975"
 	{
 		"enable"		"0"
 		"hammerid"		"1010975"
-		"m_iname"		"ITEMX_qaz_item_shields2&9373"
+		"m_iname"		"ITEMX_qaz_item_shields2&6146"
 	}
 }
