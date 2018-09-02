@@ -66,4 +66,10 @@
 		"hammerid"		"653729"
 		"m_iname"		"beams_dynamics2"
 	}
+	"926623"
+	{
+		"enable"		"0"
+		"hammerid"		"926623"
+		"m_iname"		"PreventModel"
+	}
 }
