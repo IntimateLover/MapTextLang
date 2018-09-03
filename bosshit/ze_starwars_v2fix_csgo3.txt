@@ -86,13 +86,13 @@
 	}
 	"1685"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1685"
 		"m_iname"		"Dart_Raven_Phys_Body"
 	}
 	"1954"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1954"
 		"m_iname"		"Dart_Maul_phybox"
 	}

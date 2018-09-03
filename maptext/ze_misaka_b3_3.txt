@@ -512,4 +512,12 @@
 	{
 		"chi"		"** **"
 	}
+	"<< A player has picked up heal >>"
+	{
+		"chi"		"** **"
+	}
+	"<<You only have 25 seconds to get to the end >>"
+	{
+		"chi"		"** **"
+	}
 }
