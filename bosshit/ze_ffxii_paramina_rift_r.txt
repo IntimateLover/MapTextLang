@@ -228,4 +228,16 @@
 		"hammerid"		"1102328"
 		"m_iname"		"Guardian_Nade"
 	}
+	"3216252"
+	{
+		"enable"		"1"
+		"hammerid"		"3216252"
+		"m_iname"		"Boss_Armor_Crystal"
+	}
+	"685385"
+	{
+		"enable"		"1"
+		"hammerid"		"685385"
+		"m_iname"		"Chaos_Physbox"
+	}
 }

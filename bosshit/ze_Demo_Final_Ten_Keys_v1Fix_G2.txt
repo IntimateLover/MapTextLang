@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"1527"
+	{
+		"enable"		"0"
+		"hammerid"		"1527"
+		"m_iname"		"Break_door_stage_1_1"
+	}
+	"1726"
+	{
+		"enable"		"0"
+		"hammerid"		"1726"
+		"m_iname"		"Break_door_stage_1_2"
+	}
+	"1730"
+	{
+		"enable"		"0"
+		"hammerid"		"1730"
+		"m_iname"		"Break_door_stage_1_3"
+	}
+	"1734"
+	{
+		"enable"		"0"
+		"hammerid"		"1734"
+		"m_iname"		"Break_door_stage_1_4"
+	}
+	"1744"
+	{
+		"enable"		"0"
+		"hammerid"		"1744"
+		"m_iname"		"Break_door_stage_1_5"
+	}
+	"1748"
+	{
+		"enable"		"0"
+		"hammerid"		"1748"
+		"m_iname"		"Break_door_stage_1_6"
+	}
+	"1752"
+	{
+		"enable"		"0"
+		"hammerid"		"1752"
+		"m_iname"		"Break_door_stage_1_7"
+	}
+	"1520"
+	{
+		"enable"		"0"
+		"hammerid"		"1520"
+		"m_iname"		"Key_1"
+	}
+}

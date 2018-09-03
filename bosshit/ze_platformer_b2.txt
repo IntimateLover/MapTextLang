@@ -1664,4 +1664,10 @@
 	{
 		"enable"		"0"
 	}
+	"95076"
+	{
+		"enable"		"0"
+		"hammerid"		"95076"
+		"m_iname"		"item_mine_phys&0556"
+	}
 }

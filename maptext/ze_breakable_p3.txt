@@ -84,5 +84,12 @@
 	{
 		"chi"		"**还剩下5秒**"
 	}
-
+	">> BRIDGES BROKEN BEFORE THE COUNTDOWN <<"
+	{
+		"chi"		"** **"
+	}
+	">> ENDING NOW <<"
+	{
+		"chi"		"** **"
+	}
 }
