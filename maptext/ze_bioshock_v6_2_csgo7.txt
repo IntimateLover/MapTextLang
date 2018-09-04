@@ -7,7 +7,7 @@
 	"ze_bioshock
 by DormantLemon"
 	{
-		"chi"		"**地图作者：DormantLemon 翻译文本更正：清新的二哈♪**"
+		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈♪**"
 	}
 	"0m 59s"
 	{
@@ -269,7 +269,9 @@ by DormantLemon"
 Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
 Activation: Contact with a splicer"
 	{
-		"chi"		"**基因强化补给：静电罩 效果：你的身体获得静电罩强化，当你阵亡时，会把小范围敌人定身。 激活方法：触碰僵尸。**"
+		"chi"		"**基因强化补给：静电罩 
+效果：你的身体获得静电罩强化，当你阵亡时，会把小范围敌人定身。 
+激活方法：触碰僵尸。**"
 	}
 	"Plasmid: Incinerate
 Effect: Ignite splicers with a fireball! 
@@ -339,7 +341,9 @@ Cooldown: 13 Secs"
 Effect: Your flesh is glowing. Blind the enemies when you die! 
 Activation: Contact with a splicer"
 	{
-		"chi"		"**基因强化补给：闪光 效果：你的身体获得闪光强化，当你阵亡时，会把敌人闪瞎。 激活方法：触碰僵尸。**"
+		"chi"		"**基因强化补给：闪光 
+效果：你的身体获得闪光强化，当你阵亡时，会把敌人闪瞎。 
+激活方法：触碰僵尸。**"
 	}
 	"Plasmid: Sonic Boom
 Effect: Blast splicers away with an airwave!
@@ -550,7 +554,7 @@ Cooldown: 10 Secs"
 	"ze_bioshock
 by DormantLemon"
 	{
-		"chi"		"**地图作者：DormantLemon 翻译文本更正：清新的二哈♪**"
+		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈♪**"
 	}
 	"Plasmid: Incinerate
 Effect: Ignite splicers with a fireball! 
@@ -600,7 +604,7 @@ Cooldo"
 	}
 	">>Map by DormantLemon<<"
 	{
-		"chi"		"**地图作者：DormantLemon 翻译文本更正：清新的二哈♪**"
+		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈♪**"
 	}
 	">>Introduction<<"
 	{
