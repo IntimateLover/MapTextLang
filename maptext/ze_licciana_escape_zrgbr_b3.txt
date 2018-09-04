@@ -64,4 +64,8 @@
 	{
 		"chi"		"**逃生电梯2在5秒 **"
 	}
+	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
 }
