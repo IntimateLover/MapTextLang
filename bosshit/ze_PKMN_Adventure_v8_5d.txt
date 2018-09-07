@@ -626,4 +626,10 @@
 		"hammerid"		"727428"
 		"m_iname"		"Darkrai_Lv5"
 	}
+	"231898"
+	{
+		"enable"		"0"
+		"hammerid"		"231898"
+		"m_iname"		"groudon_lightscreen"
+	}
 }

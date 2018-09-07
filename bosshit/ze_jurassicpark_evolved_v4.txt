@@ -58,4 +58,10 @@
 		"hammerid"		"1378"
 		"m_iname"		"gatewall_4"
 	}
+	"721"
+	{
+		"enable"		"0"
+		"hammerid"		"721"
+		"m_iname"		"electric_ladder"
+	}
 }

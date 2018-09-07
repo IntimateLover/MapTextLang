@@ -313,7 +313,7 @@
 	}
 	"** wo men xu yao 30 miao de shi jian lai bu shu zha yao**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要30秒的时间来部署炸药**"
 		"DoorCountDown"		"30"
 	}
 	"** fang zi de chu kou you ge mu men , zha diao ta  **"
@@ -355,6 +355,7 @@
 	"** dian ti xu yao 45 miao de shi jian lai ji huo , jian chi zhu **"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"45"
 	}
 	"** si ren dan yao ku yi bei na qi **"
 	{
