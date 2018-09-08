@@ -1,0 +1,119 @@
+"Console_T"
+{
+	"map by koyomaple"
+	{
+		"chi"		"** **"
+	}
+	"teleport in 20sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 10 sec"
+	{
+		"chi"		"** **"
+	}
+	"door open in 20sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 10sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 15sec"
+	{
+		"chi"		"** **"
+	}
+	"teleport enable in 10sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 30sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 20sec"
+	{
+		"chi"		"** **"
+	}
+	"hold 40sec"
+	{
+		"chi"		"** **"
+	}
+	"teleport in 15sec"
+	{
+		"chi"		"** **"
+	}
+	"hold last 45sec"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"17576"
+	}
+	"hold 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"hold last 40sec"
+	{
+		"chi"		"** **"
+	}
+	"this is a test version!"
+	{
+		"chi"		"** **"
+	}
+	"maybe change a lot next time"
+	{
+		"chi"		"** **"
+	}
+	"zombies tp in 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"zombies tp in 30sec"
+	{
+		"chi"		"** **"
+	}
+	"P(ammo) has been picked up"
+	{
+		"chi"		"** **"
+	}
+	"fast way is opened"
+	{
+		"chi"		"** **"
+	}
+	"teleport enable in 15sec"
+	{
+		"chi"		"** **"
+	}
+	"***get inside***"
+	{
+		"chi"		"** **"
+	}
+	"zombies teleport in 15sec"
+	{
+		"chi"		"** **"
+	}
+	"zombies tp in 20sec"
+	{
+		"chi"		"** **"
+	}
+	"**get inside!**"
+	{
+		"chi"		"** **"
+	}
+	"zombies tp in 10sec"
+	{
+		"chi"		"** **"
+	}
+	"survie last 30sec"
+	{
+		"chi"		"** **"
+	}
+	"nuke in 10sec"
+	{
+		"chi"		"** **"
+	}
+}
