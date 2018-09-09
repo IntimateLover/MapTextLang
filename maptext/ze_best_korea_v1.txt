@@ -382,11 +382,11 @@
 	}
 	"***DID DADDY HURT YA?***"
 	{
-		"chi"		"**爸爸受伤了吗？**"
+		"chi"		"**爸爸伤到你了吗？**"
 	}
 	"***WHERE DID DADDY DIDDLE YA?***"
 	{
-		"chi"		"**爸爸在哪里瞎晃？**"
+		"chi"		"**爸爸哪里有欺骗过你？**"
 	}
 	"***GET TO THE MIDDLE***"
 	{
@@ -486,15 +486,15 @@
 	}
 	"***RAM RANCH WILL WELCOME YOU IN 30 SECONDS***"
 	{
-		"chi"		"**公羊牧场的大门30秒后打开**"
+		"chi"		"**基情牧场的大门30秒后打开**"
 	}
 	"***RAM RANCH WILL WELCOME YOU IN 5 SECONDS***"
 	{
-		"chi"		"**公羊牧场的大门5秒后打开**"
+		"chi"		"**基情牧场的大门5秒后打开**"
 	}
 	"***WELCOME TO RAM RANCH***"
 	{
-		"chi"		"**欢迎来到公羊牧场**"
+		"chi"		"**欢迎来到基情牧场**"
 	}
 	"***THE PLACE WHERE MAGIC HAPPENS***"
 	{
@@ -546,7 +546,7 @@
 	}
 	"***SAY ADIOS TO RAM RANCH***"
 	{
-		"chi"		"**和公羊牧场说萨友那啦吧**"
+		"chi"		"**和基情牧场说萨友那啦吧**"
 	}
 	"***HELLO PEASANTS***"
 	{
@@ -554,7 +554,7 @@
 	}
 	"***I HAVE A HARD TIME OPENING UP TO YOU BECAUSE FATHER IS HERE***"
 	{
-		"chi"		"**我畏惧于父上大人不敢和你们说实话**"
+		"chi"		"**父亲在这里我不好向你们敞开大门**"
 	}
 	"***COULD YOU PLEASE HELP ME GET RID OF HIM?***"
 	{
@@ -562,11 +562,11 @@
 	}
 	"***IM SURE ILL BE ABLE TO OPEN UP ONCE HES GONE***"
 	{
-		"chi"		"**等他再次厉害我会和你再讨论这些**"
+		"chi"		"**他一走我保证会立马张开**"
 	}
 	"***I GET SO EMBARRASSED WHEN DADDY IS WATCHING...***"
 	{
-		"chi"		"**我因为爸爸在看着感到非常尴尬...**"
+		"chi"		"**爸爸在看着我的时候我很尴尬...**"
 	}
 	"***DO YOU WANT SOME PRINGLES?***"
 	{
@@ -578,7 +578,7 @@
 	}
 	"***EAT ME DADDY***"
 	{
-		"chi"		"**吃我吧，爸爸**"
+		"chi"		"**爸爸，请享受我**"
 	}
 	"***MISSILE SILO DOOR OPENS IN 60 SECONDS***"
 	{
@@ -734,27 +734,27 @@
 	}
 	"***JUMP THE SORROWS AWAY, MY CHILDREN***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳走那些悲伤，我的孩子**"
 	}
 	"***BONUS: each jump damages all gravestones***"
 	{
-		"chi"		"** **"
+		"chi"		"**额外奖励！每次跳跃对所有墓碑造成伤害**"
 	}
 	"***STAGE 3 WON***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关通过**"
 	}
 	"***THATS ALL FOR NOW - MORE STAGES TO COME***"
 	{
-		"chi"		"** **"
+		"chi"		"**目前就这么多关卡了，以后会出更多。**"
 	}
 	"***ADMIN ROOM - STAGE 2***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员房间。关卡2**"
 	}
 	"***ADMIN ROOM - KILL ALL***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员房间。杀死所有人**"
 	}
 	"MapGlobal_ConVars"
 	{
