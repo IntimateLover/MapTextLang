@@ -676,4 +676,60 @@
 	{
 		"chi"		"** **"
 	}
+	">>The battle moves of POKEMON are limited by their POWER POINTS, PP<<"
+	{
+		"chi"		"** **"
+	}
+	">>To replenish PP, rest your tired POKEMON at a POKEMON CENTER<<"
+	{
+		"chi"		"** **"
+	}
+	"HUMANS have caught PSYDUCK!"
+	{
+		"chi"		"** **"
+	}
+	"PSYDUCK used TAILWHIP"
+	{
+		"chi"		"** **"
+	}
+	"PSYDUCK used CONFUSION!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMON has been confused!"
+	{
+		"chi"		"** **"
+	}
+	"CHARMANDER used GROWL!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMONs ATTACK fell!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMON hurt itself in confusion!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMON snapped out of confusion!"
+	{
+		"chi"		"** **"
+	}
+	"PSYDUCK used SCRATCH!"
+	{
+		"chi"		"** **"
+	}
+	"Go! HORSEA!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy HORSEA used BUBBLE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy HORSEA used WATERGUN!"
+	{
+		"chi"		"** **"
+	}
 }
