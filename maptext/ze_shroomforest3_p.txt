@@ -220,11 +220,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	"*** ELEVATOR LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"** **"
 	}
-	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
 	{
 		"chi"		"** **"
 	}
@@ -481,6 +481,14 @@
 		"chi"		"** **"
 	}
 	">> PIKACHU CAUGHT HIMSELF !! <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES INSIDE THE ELEVATOR <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL FAILED <<"
 	{
 		"chi"		"** **"
 	}
