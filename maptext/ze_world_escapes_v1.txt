@@ -97,4 +97,16 @@
 	{
 		"syncvalue"		"78894"
 	}
+	"[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***"
+	{
+		"chi"		"** **"
+	}
+	"[MAP INFO] *** 5 seconds left until explosion! ***"
+	{
+		"chi"		"** **"
+	}
+	"[MAP INFO] ** The metal wall will break down in 15 seconds! ***"
+	{
+		"chi"		"** **"
+	}
 }
