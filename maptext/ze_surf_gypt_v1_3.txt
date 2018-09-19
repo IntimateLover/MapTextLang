@@ -39,7 +39,7 @@
 	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
 	{
 		"chi"		"**路将在30s后打开，守住岩浆池**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** WALL BREAKS IN 5 SECONDS ***"
 	{
@@ -51,7 +51,7 @@
 	}
 	"*** ZOMBIE TELEPORT IN 16 SECONDS ***"
 	{
-		"chi"		"**僵尸将在13s后传送**"
+		"chi"		"**僵尸将在12s后传送**"
 	}
 	"*** HOLD UNTIL WE GET TELEPORTED ***"
 	{
@@ -132,5 +132,21 @@
 	"sync_version"
 	{
 		"syncvalue"		"20531"
+	}
+	"*** LAST DOOR WILL CLOSE IN 30 SECONDS ***"
+	{
+		"chi"		"**最后的大门将在30s后关闭**"
+	}
+	"*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**箱子侧路将在10s后打开**"
+	}
+	"*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***"
+	{
+		"chi"		"**你可以找到一个地图皮肤（特别感谢 Pompje）**"
+	}
+	"*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
+	{
+		"chi"		"**地图里有3把彩色枪，你可以找到它们**"
 	}
 }
