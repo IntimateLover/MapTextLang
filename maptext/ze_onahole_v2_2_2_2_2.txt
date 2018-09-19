@@ -6,15 +6,15 @@
 	}
 	"For Ona by Onahole"
 	{
-		"chi"		"警告：本地图含有大量性暗示内容，可能并不适合所有人"
+		"chi"		"警告：本地图含有大量裸露及性暗示内容"
 	}
 	"In Collaboration with Onahole for Ona by Onahole"
 	{
-		"chi"		"未满18周岁的玩家请立刻退出游戏"
+		"chi"		"如果您感到不适请退出游戏"
 	}
 	"Welcome to Onahole"
 	{
-		"chi"		"欢迎来到mako杯"
+		"chi"		"欢迎来到马口杯"
 	}
 	"Onahole TP activating in 15 seconds"
 	{
@@ -128,6 +128,10 @@
 	{
 		"chi"		"+++boss战5秒后开始+++"
 	}
+	"U GUYS TOOK TOO LONG!!"
+	{
+		"chi"		"你们花的时间太久了"
+	}
 	"DEFEND FOR 15 SECONDS FOR SOME HARDCORE PORN"
 	{
 		"chi"		"防守15秒来获得一些硬核涩清"
@@ -188,6 +192,10 @@
 	{
 		"chi"		"通往地球酱圣坛的大门30秒后开启"
 	}
+	"Please don't forget to recycle"
+	{
+		"chi"		"请记得要垃圾回收"
+	}
 	"Please dont forget to recycle"
 	{
 		"chi"		"请记得要垃圾回收"
@@ -220,6 +228,10 @@
 	{
 		"chi"		"在圣坛里只有这一个地球酱?"
 	}
+	"And don't worry..."
+	{
+		"chi"		"嗯，不要担心..."
+	}
 	"And dont worry..."
 	{
 		"chi"		"嗯，不要担心..."
@@ -230,7 +242,7 @@
 	}
 	"After you commit to a 30 minute prayer to Earth-chan"
 	{
-		"chi"		"在你对地球酱做出一个长达30分钟的承诺之后"
+		"chi"		"在你对地球酱做出一个长达三十分钟的承诺之后"
 	}
 	"Im not kidding btw..."
 	{
@@ -238,7 +250,7 @@
 	}
 	"Hold for 30 minutes and ill TP you to the next part"
 	{
-		"chi"		"坚持30分钟，我就会把你们传送"
+		"chi"		"坚持三十分钟，我就会把你们传送"
 	}
 	"This place is a holy sanctum for Earth-chan"
 	{
@@ -250,7 +262,7 @@
 	}
 	"So defend Earth-chan from those zombies for 29 more minutes and 29 seconds"
 	{
-		"chi"		"所以， 为了地球酱，请继续防守僵尸29分29秒"
+		"chi"		"所以， 为了地球酱，请继续防守二十九分半钟"
 	}
 	"Sacrifice your worthless lives to Earth-chan and i may consider rewarding you"
 	{
@@ -284,9 +296,21 @@
 	{
 		"chi"		"别担心，你的努力最后都会得到回报"
 	}
+	"Dont worry! Your efforts will be rewarded in the end!"
+	{
+		"chi"		"别担心，你的努力最后都会得到回报"
+	}
 	"Amazing, you're still here huh? "
 	{
 		"chi"		"真是令人惊讶啊，你还在这里啊"
+	}
+	"Amazing, youre still here huh? "
+	{
+		"chi"		"真是令人惊讶啊，你还在这里啊"
+	}
+	"Keep this up and you might become one of Earth-Chans Guardians"
+	{
+	"chi"		"继续坚持下去，你就能成为地球酱的守护者"
 	}
 	"400 seconds in"
 	{
@@ -428,10 +452,6 @@
 	{
 		"chi"		"只是想把它放在这里，并没有什么特别的意思"
 	}
-	"Hold for 20 seconds"
-	{
-		"chi"		"防守20秒"
-	}
 	"Mmmm check out these dank memes boi"
 	{
 		"chi"		"嗯，试试这些冷笑话吧老铁"
@@ -472,10 +492,7 @@
 	{
 		"chi"		"哈哈哈太棒了"
 	}
-	"DOOR OPENS IN 15 SECONDS"
-	{
-		"chi"		"门15秒后开启"
-	}
+
 	"dooor oopen"
 	{
 		"chi"		"门开了"
@@ -620,13 +637,13 @@
 	{
 		"chi"		"哦天哪你打败她了"
 	}
-	"LETS GO BACK TO THE NEKO ROOM NOW"
+	"LETS GO BACK TO THE KEMONOMIMI ROOM NOW"
 	{
-		"chi"		"现在我们返回猫娘房吧"
+		"chi"		"现在我们返回兽耳娘房吧(警告：严禁僵尸利用地图bug，违规7天封禁起步)"
 	}
 	"BOATS OUTTA JUICE THO SO U GOTTA SWIM"
 	{
-		"chi"		"船已经没电了，你们就游回去吧"
+		"chi"		"船已经没电了，你们就游回去吧(警告：严禁僵尸利用地图bug，违规7天封禁起步)"
 	}
 	"AAHH WE MADE IT"
 	{
@@ -760,9 +777,13 @@
 	{
 		"chi"		"地板虽然很吸引人，不过它可能很脏!"
 	}
-	"Soo... i guess that..."
+	"And there's also the fact that...."
 	{
-		"chi"		"所以... 我猜..."
+		"chi"		"此外，有句话说得好，它叫————"
+	}
+	"And theres also the fact that...."
+	{
+		"chi"		"此外，有句话说得好，它叫————"
 	}
 	"ITS ALWAYS THE RIGHT OPTION TO CHOOSE THE DOOR!"
 	{
@@ -798,31 +819,43 @@
 	}
 	"OO BBY LOOK AT ALL THIS SHIT"
 	{
-		"chi"		"哦老铁看这翔一样的东西"
+		"chi"		"哦老铁看这些乱七八糟的东西"
 	}
 	"I wonder what would happen if i step into one of these!??"
 	{
-		"chi"		"我在思考，如果我走上去会发生什么??"
+		"chi"		"我在思考，如果我上去的话会发生什么??"
 	}
 	"the answer is nothing, cause idk how to do it"
 	{
 		"chi"		"什么都不会，因为我不知道怎么做"
 	}
+	"OHH BABY IT OPENED!"
+	{
+		"chi"		"哦老铁它开了!"
+	}
 	"Welcome to the little sex dungeon"
 	{
 		"chi"		"欢迎来到这小小的性地牢"
 	}
-	"OHH BABY IT OPENED!"
+	"We'd help you get out of here but..."
 	{
-		"chi"		"哦老铁它开了!"
+		"chi"		"我们能帮你离开这里，不过..."
 	}
 	"Wed help you get out of here but..."
 	{
 		"chi"		"我们能帮你离开这里，不过..."
 	}
+	"We're currently stuck in these cages"
+	{
+		"chi"		"我们被困在笼子里"
+	}
 	"Were currently stuck in these cages"
 	{
 		"chi"		"我们被困在笼子里"
+	}
+	"Cause we've been baaaaad bananaass"
+	{
+		"chi"		"因为我们都是坏～香蕉～"
 	}
 	"Cause weve been baaaaad bananaass"
 	{
@@ -962,7 +995,7 @@
 	}
 	"IE HUH?"
 	{
-		"chi"		"欢迎来到极限1"
+		"chi"		"比如说？"
 	}
 	"EXTREME ESCAPERS TRUMPS ALL"
 	{
@@ -984,11 +1017,15 @@
 	{
 		"chi"		"门开了，我们进去"
 	}
-	"U GUYS TOOK TOO LONG!!"
+	"ITS OPEN!! LETS GOOO"
 	{
-		"chi"		"你花了太长时间了"
+		"chi"		"门开了，我们进去"
 	}
 	"IT'S NOT OVER YET!"
+	{
+		"chi"		"还没结束呢!"
+	}
+	"ITS NOT OVER YET!"
 	{
 		"chi"		"还没结束呢!"
 	}
@@ -999,10 +1036,6 @@
 	"GOOD JOB SHIT LORDS"
 	{
 		"chi"		"干的漂亮啊"
-	}
-	"DEFEND FOR 15 SECONDS!"
-	{
-		"chi"		"防守15秒"
 	}
 	"EXTREME 1 COMPLETE"
 	{
@@ -1074,11 +1107,23 @@
 	}
 	"PUUUSHHHH"
 	{
-		"chi"		"X进去！（推）"
+		"chi"		"X进去（二次推）"
 	}
 	"PULL OUT PULL OUT!!!!"
 	{
-		"chi"		"拔出来！！！（吸）"
+		"chi"		"拔出来（二次吸）"
+	}
+	"ZOMBIES ARE COMING!"
+	{
+		"chi"		"僵尸来了"
+	}
+	"U OUTTA TIME BITCH"
+	{
+		"chi"		"你们用光了时间！"
+	}
+	"GOODBYE"
+	{
+		"chi"		"再见！"
 	}
 	"GOOD SHIT BUT THERES ONE MORE ATTACK!"
 	{
@@ -1122,11 +1167,11 @@
 	}
 	"before you even ask.. the title is:"
 	{
-		"chi"		"在你开口问之前... 标题是："
+		"chi"		"（18X bgm警告）在你开口问之前... 标题是："
 	}
 	"Oide yo! Mizuryuu Kei Land Episode 1"
 	{
-		"chi"		"（你知道去哪里找的）"
+		"chi"		"XXXXXXX已和谐XXXXXXXX"
 	}
 	"So dont go messaging me for it."
 	{
@@ -1139,10 +1184,6 @@
 	"The next door opens in 20 seconds"
 	{
 		"chi"		"下一扇门20秒后开"
-	}
-	"The TP will activate in 10 seconds"
-	{
-		"chi"		"传送会在10秒后激活"
 	}
 	"BAHAMUT IS CASTING"
 	{
@@ -1168,9 +1209,21 @@
 	{
 		"chi"		"巴哈姆特使用了风"
 	}
+	"BAHAMUT HAS CASTED FIRE"
+	{
+		"chi"		"巴哈姆特使用了火"
+	}
 	"**Bahamut has been defeated! ** Go Go! Run Upstairs!**"
 	{
 		"chi"		"巴哈姆特被打败了！快跑！上楼！"
+	}
+	"Nice lampshade loser"
+	{
+		"chi"		"漂亮的灯罩，但是没有用"
+	}
+	"PA PA TU TU TU TU TU WA WA"
+	{
+		"chi"		"灯罩被使用了，它发出了奇怪的光芒"
 	}
 	"**Elevator is leaving in 10 seconds**"
 	{
