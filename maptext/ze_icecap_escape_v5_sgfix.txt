@@ -75,7 +75,7 @@
 	"***Gate opening in 75secs.***"
 	{
 		"chi"		"**大门75秒后打开**"
-		"DoorCountdown"		"75"
+		"DoorCountDown"		"75"
 	}
 	"***Gate opening in 30secs.***"
 	{
