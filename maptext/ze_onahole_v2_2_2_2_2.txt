@@ -1,12 +1,12 @@
-"Console_T"
+T"Console_T"
 {
 	"By Onahole"
 	{
-		"chi"		"作者 洞洞 汉化 橙喵（很正经的"
+		"chi"		"作者Onahole 汉化 橙喵(很正经的)"
 	}
 	"For Ona by Onahole"
 	{
-		"chi"		"警告：本地图含有大量裸露及性暗示内容"
+		"chi"		"警告：本地图含有大量性暗示内容"
 	}
 	"In Collaboration with Onahole for Ona by Onahole"
 	{
@@ -14,7 +14,7 @@
 	}
 	"Welcome to Onahole"
 	{
-		"chi"		"欢迎来到马口杯"
+		"chi"		"欢迎来到飞光杯"
 	}
 	"Onahole TP activating in 15 seconds"
 	{
@@ -22,7 +22,7 @@
 	}
 	"Onaholes are a mans source of hopes and dreams"
 	{
-		"chi"		"洞洞是男孩子们梦想和希望的来源"
+		"chi"		"飞光杯是男孩子们幻想和希冀的来源"
 	}
 	"As important as water, as valuable as gold"
 	{
@@ -30,7 +30,7 @@
 	}
 	"Oh man, nuts will be busted tonight"
 	{
-		"chi"		"噢老哥, 今晚就让你虚脱"
+		"chi"		"今晚，飞光杯就会让你彻底虚脱"
 	}
 	"EARTH CHAN!"
 	{
@@ -42,7 +42,7 @@
 	}
 	"Ok, get the fuck on now, shits open"
 	{
-		"chi"		"好的，接着前tm的进吧，她开了"
+		"chi"		"好的，接着前进吧，路开了"
 	}
 	"EARTH CHAN IS NOT FLAT"
 	{
@@ -51,6 +51,7 @@
 	"hold for like 15 somethin seconds idk lol"
 	{
 		"chi"		"防守大概15秒吧哈哈"
+		"DoorCountdown"		"15"
 	}
 	"LEAVE"
 	{
@@ -78,19 +79,20 @@
 	}
 	"*pant* *pant* 2D women are the best"
 	{
-		"chi"		"*砰* *砰* H图最棒了"
+		"chi"		"*啊* *啊* 2D老婆最棒了"
 	}
 	"Wait... not yet.. *pant* 5 more seconds i swear"
 	{
-		"chi"		"等等... 还没好.. *砰* 我发誓只要再来5秒"
+		"chi"		"等等... 还没好.. *啊～* 我发誓只要再来5秒"
+		"DoorCountdown"		"5"
 	}
 	"IM BOUTTA NUTT!!"
 	{
-		"chi"		"马上就X了!!"
+		"chi"		"马上就好了!!"
 	}
 	"EEEUEURURURGHGHHH"
 	{
-		"chi"		"呃啊啊啊啊啊"
+		"chi"		"啊啊啊啊啊～～～"
 	}
 	"Mmm.. anyways... get goin already"
 	{
@@ -103,6 +105,7 @@
 	"Uhhhh hold for like 35 seconds or something"
 	{
 		"chi"		"嗯防守大概35秒"
+		"DoorCountdown"		"35"
 	}
 	"ZOMBIE LADDER OPEN!"
 	{
@@ -110,11 +113,11 @@
 	}
 	"AHHH MY LOLI IMOUTO IS CALLING ME"
 	{
-		"chi"		"啊我的萝莉妹妹正在叫我"
+		"chi"		"我可爱的妹妹正在叫我"
 	}
 	"WE GOTTA GET OUTTA THIS FUCKHOLE"
 	{
-		"chi"		"我们得赶快离开这个烦人的洞"
+		"chi"		"我们得赶快离开这个恐怖的地方"
 	}
 	"it fucking opened"
 	{
@@ -123,6 +126,7 @@
 	"+++BOSS ROOM CLOSING IN 10 SECONDS+++"
 	{
 		"chi"		"+++boss房门10秒后关闭+++"
+		"DoorCountdown"		"10"
 	}
 	"+++BOSS FIGHT STARTING IN 5 SECONDS+++"
 	{
@@ -130,47 +134,48 @@
 	}
 	"U GUYS TOOK TOO LONG!!"
 	{
-		"chi"		"你们花的时间太久了"
+		"chi"		"你们花的时间太久了！尸笼已经开启"
 	}
 	"DEFEND FOR 15 SECONDS FOR SOME HARDCORE PORN"
 	{
-		"chi"		"防守15秒来获得一些硬核涩清"
+		"chi"		"防守15秒，我会给你一些让你觉得硬硬的东西"
+		"DoorCountdown"		"15"
 	}
 	"Did i say porn? i meant CORN"
 	{
-		"chi"		"涩清？你听错了我说的是玉米啦"
+		"chi"		"是玉米啦！你以为是什么奇怪的东西吗？"
 	}
 	"LEVEL 1 COMPLETE"
 	{
-		"chi"		"关卡1结束"
+		"chi"		"关卡一结束"
 	}
 	"MOVING ON TO STAGE 2"
 	{
-		"chi"		"前往关卡2"
+		"chi"		"前往关卡二"
 	}
 	"Welcome to Lvl 2 of Onahole"
 	{
-		"chi"		"欢迎来到关卡2"
+		"chi"		"欢迎来到关卡二（地球圣殿）"
 	}
 	"Oh baby here we go again!"
 	{
-		"chi"		"哦老铁我们又见面了!"
+		"chi"		"哦哥们又是你!"
 	}
 	"Remember, traps are good"
 	{
-		"chi"		"记住一点：陷阱是很好的"
+		"chi"		"记住一点：伪娘是最棒的"
 	}
 	"Whether its gay or not is irrelevant in 2k18"
 	{
-		"chi"		"不管你是不是基佬，在2k18里面都是无关紧要的"
+		"chi"		"不管你是不是基佬，在游戏里面都是无关紧要的"
 	}
 	"Im straight but yo Astolfos kinda thicc tbh"
 	{
-		"chi"		"我很耿直，但说实话，你就像阿斯托尔福那样性感"
+		"chi"		"说实话，兄弟你就像阿斯托尔福那样性感"
 	}
 	"Id do it for the culture"
 	{
-		"chi"		"按文化传统我得这样做"
+		"chi"		"为了伪娘文化，我得这么做"
 	}
 	"Just dont tell my mom"
 	{
@@ -186,19 +191,20 @@
 	}
 	"PLEDGE TO PROTECC"
 	{
-		"chi"		"发誓会保护她"
+		"chi"		"请发誓保护她"
 	}
 	"Door to the Shrine of Earth-chan opens in 30 seconds"
 	{
 		"chi"		"通往地球酱圣坛的大门30秒后开启"
+		"DoorCountdown"		"30"
 	}
 	"Please don't forget to recycle"
 	{
-		"chi"		"请记得要垃圾回收"
+		"chi"		"别忘了垃圾回收"
 	}
 	"Please dont forget to recycle"
 	{
-		"chi"		"请记得要垃圾回收"
+		"chi"		"别忘了垃圾回收"
 	}
 	"Do not hurt Earth-chan"
 	{
@@ -206,7 +212,7 @@
 	}
 	"Protecc her like your life depends on it"
 	{
-		"chi"		"请保护好她，就像你的生命基于她一样"
+		"chi"		"保护好她，因为你的生命依赖她"
 	}
 	"Welcome to the Shrine of Earth-chan"
 	{
@@ -214,11 +220,11 @@
 	}
 	"Enjoy your stay"
 	{
-		"chi"		"请享受这一时刻"
+		"chi"		"请随便看看"
 	}
 	"And remember, take only pictures and leave only footprints!"
 	{
-		"chi"		"记住，只能拍照，不要乱扔垃圾!"
+		"chi"		"另外，拍照可以，请不要弄坏这里!"
 	}
 	"Ahhh... isnt that refreshing?"
 	{
@@ -242,7 +248,7 @@
 	}
 	"After you commit to a 30 minute prayer to Earth-chan"
 	{
-		"chi"		"在你对地球酱做出一个长达三十分钟的承诺之后"
+		"chi"		"那是，在你向地球酱祈祷三十分钟之后"
 	}
 	"Im not kidding btw..."
 	{
@@ -250,7 +256,8 @@
 	}
 	"Hold for 30 minutes and ill TP you to the next part"
 	{
-		"chi"		"坚持三十分钟，我就会把你们传送"
+		"chi"		"坚持三十分钟来前往极限三，或是玷污地球酱前往地狱"
+		"DoorCountdown"		"30"
 	}
 	"This place is a holy sanctum for Earth-chan"
 	{
@@ -286,7 +293,8 @@
 	}
 	"You have hit the 3 minute mark. You are 10 percent done!"
 	{
-		"chi"		"你已经达到三分钟的水平了，你已经完成了百分之十"
+		"chi"		"你已经达到三分钟的水平了，你已经完成了百分之十（下一次是四百秒）"
+		"DoorCountdown"		"220"
 	}
 	"Ahh, doesnt it feel great to praise Earth-Chan in this manner?"
 	{
@@ -315,66 +323,82 @@
 	"400 seconds in"
 	{
 		"chi"		"四百秒过去了"
+		"DoorCountdown"		"100"
 	}
 	"500 seconds in"
 	{
 		"chi"		"五百秒过去了"
+		"DoorCountdown"		"100"
 	}
 	"600 seconds in"
 	{
 		"chi"		"六百秒过去了"
+		"DoorCountdown"		"100"
 	}
 	"700 seconds in"
 	{
 		"chi"		"七百秒过去了"
+		"DoorCountdown"		"100"
 	}
 	"800 seconds in"
 	{
 		"chi"		"八百秒过去了"
+		"DoorCountdown"		"100"
 	}
 	"900 seconds in"
 	{
 		"chi"		"九百秒过去了"
+		"DoorCountdown"		"100"
 	}
 	"1000 seconds in!!!!!!"
 	{
 		"chi"		"一千秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1100 seconds in!!!!!!"
 	{
 		"chi"		"一千一百秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1200 seconds in!!!!!!"
 	{
 		"chi"		"一千二百秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1300 seconds in!!!!!!"
 	{
 		"chi"		"一千三百秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1400 seconds in!!!!!!"
 	{
 		"chi"		"一千四百秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1500 seconds in!!!!!!"
 	{
 		"chi"		"一千五百秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1600 seconds in!!!!!!"
 	{
 		"chi"		"一千六百秒过去了！！！！"
+		"DoorCountdown"		"100"
 	}
 	"1700 seconds in!!!!!!"
 	{
 		"chi"		"一千七百秒过去了！！！！"
+		"DoorCountdown"		"50"
 	}
 	"50 seconds!"
 	{
 		"chi"		"还剩50秒！"
+		"DoorCountdown"		"40"
 	}
 	"10 MORE SECONDS AND YOUR PRAYER WILL BE COMPLETE!"
 	{
 		"chi"		"距离你的祷告成真还有10秒！"
+		"DoorCountdown"		"10"
 	}
 	"STAY STRONG FOR EARTH-CHAN!"
 	{
@@ -418,11 +442,11 @@
 	}
 	"As her newest guardian she asks you to help them!"
 	{
-		"chi"		"她恳求你们——她的新守护者——去帮他们"
+		"chi"		"她恳求你们——她的新守护者——去帮他们！"
 	}
 	"IT IS TIME TO SAVE ADMIN KUN!"
 	{
-		"chi"		"是时候拯救kun管理员了"
+		"chi"		"是时候前往魔机杯了！"
 	}
 	"SINNER!"
 	{
@@ -438,19 +462,19 @@
 	}
 	"GO TO A SINNERS HALL WHERE YOU BELONG"
 	{
-		"chi"		"去你该去的地方——罪人之厅吧"
+		"chi"		"去你该去的地方——地狱吧"
 	}
 	"YOU CUNT"
 	{
-		"chi"		"你个XXX"
+		"chi"		"你这恶魔"
 	}
 	"Welcome to.. uh.. idfk tbh"
 	{
-		"chi"		"欢迎来到... 呃...我也不知道"
+		"chi"		"欢迎来到... 呃...好像不是地狱"
 	}
 	"i just kinda felt like putting it here and didnt know what to do with it"
 	{
-		"chi"		"只是想把它放在这里，并没有什么特别的意思"
+		"chi"		"（语音：你对地球酱犯下了严重的罪行，你有什么要陈述的吗？）"
 	}
 	"Mmmm check out these dank memes boi"
 	{
@@ -458,11 +482,11 @@
 	}
 	"I might aswell recommend you some hentai while ur here"
 	{
-		"chi"		"当你在这里的时候我会给你推荐一些H漫"
+		"chi"		"当你在这里的时候我会给你推荐一些荒满"
 	}
 	"My personal favourite is Fella Hame Lips"
 	{
-		"chi"		"我自己最喜欢的是（你知道去哪里找的）"
+		"chi"		"我喜欢的是******"
 	}
 	"Its a compelling story about a college student who bought a sex robot"
 	{
@@ -474,7 +498,7 @@
 	}
 	"Actually nvm... you never know when the FBI is watching..."
 	{
-		"chi"		"其实呢... 你永远不知道什么时候会被请去喝茶..."
+		"chi"		"你永远不知道什么时候会被网警叫去喝茶..."
 	}
 	"OK THE DOOR BROKE, NOW LEAVE U SINNERS"
 	{
@@ -482,17 +506,16 @@
 	}
 	"WARNING, TRAPS AHEAD"
 	{
-		"chi"		"警告， 前面有陷阱"
+		"chi"		"警告！警告！这里有伪娘！（右侧通常最安全）"
 	}
 	"What a beautiful duwang"
 	{
-		"chi"		"多么美的JoJo啊"
+		"chi"		"哦，多么美丽的JoJo啊"
 	}
 	"lol nice"
 	{
 		"chi"		"哈哈哈太棒了"
 	}
-
 	"dooor oopen"
 	{
 		"chi"		"门开了"
@@ -511,27 +534,29 @@
 	}
 	"Hmm.. ive got a bad feeling about this..."
 	{
-		"chi"		"嗯.. 我有一种不祥的预感..."
+		"chi"		"嗯.. 我觉得这里很不舒服..."
 	}
 	"Oh look, a button!"
 	{
-		"chi"		"看，一个按钮!"
+		"chi"		"有一个按钮!"
 	}
 	"What dreaded horrors lie beyond this door?!?"
 	{
-		"chi"		"这扇门之后又是什么恐怖的东西?!?"
+		"chi"		"在这扇门之后会是什么恐怖的东西?!?"
 	}
 	"It seems like itll open in 20 seconds"
 	{
 		"chi"		"看上去门会在20秒后开"
+		"DoorCountdown"		"20"
 	}
 	"AAAHHHHH"
 	{
-		"chi"		"啊啊啊啊"
+		"chi"		"纳克尔斯：你知道路吗？你不知道路！"
 	}
 	"KILL THE KNUCKLES IN THIS ROOM!!!"
 	{
-		"chi"		"杀死房间里所有的纳克尔斯"
+		"chi"		"杀死房间里所有的纳克尔斯（沙发，树顶，橱柜等位置）"
+		"DoorCountdown"		"10"
 	}
 	"1"
 	{
@@ -552,18 +577,21 @@
 	"Next door opens in 10 seconds"
 	{
 		"chi"		"下一个门10秒后开"
+		"DoorCountdown"		"10"
 	}
 	"ANONE ANONE!"
 	{
-		"chi"		"呐 呐！"
+		"chi"		"啊诺呐～～"
 	}
 	"Hold for 20 seconds please!"
 	{
 		"chi"		"请等待20秒"
+		"DoorCountdown"		"20"
 	}
 	"The door will open in 15 seconds"
 	{
 		"chi"		"门会在15秒后开"
+		"DoorCountdown"		"15"
 	}
 	"Heh"
 	{
@@ -571,7 +599,8 @@
 	}
 	"If you wanna leave just hit that button over there"
 	{
-		"chi"		"如果你想离开就按下哪边的按钮"
+		"chi"		"如果你想离开就 按下 上面的按钮（跳起来按）"
+		"DoorCountdown"		"5"
 	}
 	"Ah, i see..."
 	{
@@ -579,11 +608,12 @@
 	}
 	"You wanna leave cause u a bitch, ye?"
 	{
-		"chi"		"你是个碧X所以你要离开?"
+		"chi"		"你要离开，因为你是个基佬?"
 	}
 	"whatever, the door will open in like 18 seconds"
 	{
 		"chi"		"不管怎样，门18秒后都会开"
+		"DoorCountdown"		"18"
 	}
 	"Ok, its open, so leave"
 	{
@@ -592,6 +622,7 @@
 	"BOATS LEAVE IN 15 SECONDS"
 	{
 		"chi"		"船15秒后离开"
+		"DoorCountdown"		"15"
 	}
 	"Oh?"
 	{
@@ -599,11 +630,12 @@
 	}
 	"This sounds interesting..."
 	{
-		"chi"		"听起来很有趣..."
+		"chi"		"听起来很有趣（会英语的自己听我不翻译了）"
 	}
 	"DEFEND FOR 10 MORE SECONDS"
 	{
 		"chi"		"防守10秒"
+		"DoorCountdown"		"10"
 	}
 	"BOSS FIGHT STARTS IN 5 SECONDS"
 	{
@@ -627,27 +659,28 @@
 	}
 	"You still havent won yet? in 2k18? LUL"
 	{
-		"che"		"你们还没赢吗？在2k18里？嗯"
+		"che"		"你们还没打完boss吗？都在划水吗？"
 	}
 	"better luck next time cunt"
 	{
-		"che"		"那么祝下次好运"
+		"che"		"尸笼开启，祝下次好运"
 	}
 	"OOHH BABY YOU BEAT IT"
 	{
-		"chi"		"哦天哪你打败她了"
+		"chi"		"哦！你打败它了！"
 	}
 	"LETS GO BACK TO THE KEMONOMIMI ROOM NOW"
 	{
-		"chi"		"现在我们返回兽耳娘房吧(警告：严禁僵尸利用地图bug，违规7天封禁起步)"
+		"chi"		"现在我们返回兽耳娘房吧，不过船已经没电了，你们就游回去吧"
 	}
 	"BOATS OUTTA JUICE THO SO U GOTTA SWIM"
 	{
-		"chi"		"船已经没电了，你们就游回去吧(警告：严禁僵尸利用地图bug，违规7天封禁起步)"
+		"chi"		"警告：严禁僵尸利用地图bug，请勿违反服务器规则"
+		"DoorCountdown"		"10"
 	}
 	"AAHH WE MADE IT"
 	{
-		"chi"		"啊我们做到了"
+		"chi"		"我们做到了！"
 	}
 	"DONT LET ZOMBIES IN OK!"
 	{
@@ -656,6 +689,15 @@
 	"DEFEND FOR 20 SECONDS!!!!!"
 	{
 		"chi"		"防守20秒!!!!!"
+		"DoorCountdown"		"20"
+	}
+	"YOU FUCKIN LET ZOMBIES IN!"
+	{
+		"chi"		"天啊你把僵尸放进去了"
+	}
+	"YOU LOSE"
+	{
+		"chi"		"关卡失败！！！！"
 	}
 	"OHH BABY YOU DID IT!"
 	{
@@ -679,15 +721,15 @@
 	}
 	"I kinda want a special type of nut though"
 	{
-		"chi"		"其实我想要一个特别的XX来着"
+		"chi"		"其实我很想要一种特别的钓来着"
 	}
 	"Like literally squirrel levels of NUT"
 	{
-		"chi"		"比如说字面意义上，松鼠一样的"
+		"chi"		"比如说，松鼠一样的"
 	}
 	"... not beastiality tho, i mean squirrels cause they like nuts"
 	{
-		"chi"		"... 不不不，不是兽X而是因为松鼠长得很像XX"
+		"chi"		"... 不不不，不是为了和动物玩，而是因为松鼠长得像钓"
 	}
 	"JUST HOLD FOR A LIL BIT AND WE CAN GOGOO"
 	{
@@ -695,7 +737,7 @@
 	}
 	"OH BBY LETS BREAK INTO THIS BITCH"
 	{
-		"chi"		"老铁让我们来进入这个家伙"
+		"chi"		"让我们来进入这个公寓"
 	}
 	"LETS GOOO"
 	{
@@ -703,7 +745,7 @@
 	}
 	"Oh yes, theres nothing better than dialogue in hentai!"
 	{
-		"chi"		"哦，没什么比H漫里的对话更棒的了!"
+		"chi"		"哦，没什么比荒蛮的对话更棒的了!"
 	}
 	"oh shit the door opened!"
 	{
@@ -711,7 +753,7 @@
 	}
 	"maybe we can find more hentai!"
 	{
-		"chi"		"也许能找到更多H漫画!"
+		"chi"		"也许能找到更多荒蛮!"
 	}
 	"OK OK HOLD FOR LIKE 25 SECONDS"
 	{
@@ -723,27 +765,27 @@
 	}
 	"The world should all just learn to fap,"
 	{
-		"chi"		"全世界都应该学学怎么自X"
+		"chi"		"全世界都应该学学怎么滋味"
 	}
 	"IN PERFECT HARMONY"
 	{
-		"chi"		"在完美的和谐中"
+		"chi"		"在这完美的氛围中"
 	}
 	"Anyone who faps deserves love!"
 	{
-		"chi"		"所有自X的人都值得被关爱"
+		"chi"		"所有滋味的人都值得被关爱"
 	}
 	"Unless you put pineapple on pizza"
 	{
-		"chi"		"除非你把凤梨放在批萨饼上"
+		"chi"		"但是，除非你把凤梨放在批萨饼上"
 	}
 	"i heard pineapple makes your jizz taste good but..."
 	{
-		"chi"		"我听说凤梨会让你的批萨更美味，但是..."
+		"chi"		"听说凤梨会让批萨更美味，但是..."
 	}
 	"PINEAPPLE DOES NOT BELONG ON PIZZA"
 	{
-		"chi"		"凤梨不属于批萨"
+		"chi"		"凤 梨 不 爱 批 萨"
 	}
 	"AAAA FKIN RUUNN"
 	{
@@ -755,7 +797,7 @@
 	}
 	"So many doors but only one of em opens"
 	{
-		"chi"		"门很多不过只有一扇会开"
+		"chi"		"这里的门很多不过只有一扇会开"
 	}
 	"Any of these doors could open randomly so defend!"
 	{
@@ -767,7 +809,7 @@
 	}
 	"a closed door and a carpet?!?"
 	{
-		"chi"		"一扇门和一张地毯?!?"
+		"chi"		"紧闭的门和纯色地毯?!?"
 	}
 	"WHICH ONE DO WE HUG?!?"
 	{
@@ -775,7 +817,7 @@
 	}
 	"That floor is appealing, but it might be dirty!"
 	{
-		"chi"		"地板虽然很吸引人，不过它可能很脏!"
+		"chi"		"地板虽然很漂亮，不过它可能是脏的!"
 	}
 	"And there's also the fact that...."
 	{
@@ -787,7 +829,7 @@
 	}
 	"ITS ALWAYS THE RIGHT OPTION TO CHOOSE THE DOOR!"
 	{
-		"chi"		"选门总是对的!"
+		"chi"		"贴门总是对的!"
 	}
 	"DOOR OPENS IN 25 SECONDS"
 	{
@@ -807,7 +849,7 @@
 	}
 	"but i did notice that when i pant its almost like i pant...su"
 	{
-		"chi"		"不过我确实注意到我X喘的声音很像真的..."
+		"chi"		"不过我确实注意到我角川的声音很像真的..."
 	}
 	"IT OPENED!"
 	{
@@ -819,11 +861,11 @@
 	}
 	"OO BBY LOOK AT ALL THIS SHIT"
 	{
-		"chi"		"哦老铁看这些乱七八糟的东西"
+		"chi"		"天啊，看这些奇奇怪怪的东西"
 	}
 	"I wonder what would happen if i step into one of these!??"
 	{
-		"chi"		"我在思考，如果我上去的话会发生什么??"
+		"chi"		"我在思考，如果我被放上去的话会发生什么??"
 	}
 	"the answer is nothing, cause idk how to do it"
 	{
@@ -835,7 +877,7 @@
 	}
 	"Welcome to the little sex dungeon"
 	{
-		"chi"		"欢迎来到这小小的性地牢"
+		"chi"		"欢迎来到这小小的按摩房"
 	}
 	"We'd help you get out of here but..."
 	{
@@ -847,27 +889,27 @@
 	}
 	"We're currently stuck in these cages"
 	{
-		"chi"		"我们被困在笼子里"
+		"chi"		"现在我们被困在笼子里"
 	}
 	"Were currently stuck in these cages"
 	{
-		"chi"		"我们被困在笼子里"
+		"chi"		"现在我们被困在笼子里"
 	}
 	"Cause we've been baaaaad bananaass"
 	{
-		"chi"		"因为我们都是坏～香蕉～"
+		"chi"		"打碎笼子，放出他们来启动传送"
 	}
 	"Cause weve been baaaaad bananaass"
 	{
-		"chi"		"因为我们都是坏～香蕉～"
+		"chi"		"打碎笼子，放出他们来启动传送"
 	}
 	"Oooo yess one cage broken"
 	{
-		"chi"		"很好一个笼子被打开了"
+		"chi"		"一个笼子被打开了"
 	}
 	"Haarderr daddy, 2nd cage broken!"
 	{
-		"chi"		"第二个笼子被打碎了!"
+		"chi"		"两个笼子被打碎了!"
 	}
 	"OH YESS ALL THREE ARE OPEN"
 	{
@@ -879,19 +921,26 @@
 	}
 	"or you can get the SUCCC"
 	{
-		"chi"		"或者是XX"
+		"chi"		"或者是给你提供按摩服务"
 	}
 	"oOoH what? you gotta leave? ok.."
 	{
-		"chi"		"什么? 你们要走了? 好吧.."
+		"chi"		"你们打算走吗? 好吧.."
 	}
 	"The TP will activate in 10 seconds"
 	{
 		"chi"		"传送会在10秒后启动"
+		"DoorCountdown"		"10"
 	}
 	"FINAL DOOR OPENS IN 20 SECONDS"
 	{
 		"chi"		"最后的大门20秒后开启"
+		"DoorCountdown"		"20"
+	}
+	"THIS BRIDGE IS GONNA FKIN BREAK IN LIKE 15 SECONDS"
+	{
+		"chi"		"这座桥会在15秒后断掉"
+		"DoorCountdown"		"15"
 	}
 	"IT OPENED"
 	{
@@ -927,7 +976,7 @@
 	}
 	"SOMEONE JUST GOT SUCCD INTO ITS VAGENE!!"
 	{
-		"chi"		"有人被她的XX吸进去了!!"
+		"chi"		"有人被她的下面吸进去了!!"
 	}
 	"YOU TOOK TOO FUCKING LONG TO WIN"
 	{
@@ -944,6 +993,7 @@
 	"DEFEND FOR 25 SECONDS!!!"
 	{
 		"chi"		"防守25秒!!!"
+		"DoorCountdown"		"25"
 	}
 	"JUST DEFEND BBY AND YOU CAN WIN!"
 	{
@@ -959,7 +1009,7 @@
 	}
 	"WELCOME TO EX1 OF ONAHOLE"
 	{
-		"chi"		"欢迎来到极限1"
+		"chi"		"欢迎来到极限一（丙烷气）"
 	}
 	"GAAAHH ARE YOU FUCKIN READY?!"
 	{
@@ -971,7 +1021,7 @@
 	}
 	"I SELL PROPANE AND PROPANE ACCESSORIES"
 	{
-		"chi"		"我出售丙烷气和相关设备"
+		"chi"		"我出售丙烷气罐和相关配件"
 	}
 	"EXTREME!!!!!!!!!"
 	{
@@ -983,11 +1033,11 @@
 	}
 	"YEAAA BITCH! KEEP HOLDIN"
 	{
-		"chi"		"哦老铁，接着防守吧"
+		"chi"		"哈哈，接着防守吧"
 	}
 	"ONLY AN EXTREME ESCAPER ELITE CAN MAKE IT THIS FAR!"
 	{
-		"chi"		"只有极限逃跑精英才能坚持到这里"
+		"chi"		"只有极限逃跑精英才能防守这么久"
 	}
 	"XO WHO?"
 	{
@@ -999,15 +1049,15 @@
 	}
 	"EXTREME ESCAPERS TRUMPS ALL"
 	{
-		"chi"		"极限逃跑精英会胜过所有人"
+		"chi"		"会克服所有困难的人，就是极限逃跑精英"
 	}
 	"GAAAA PENDULUM IS THE TRUE MARK OF A GOOD MAP"
 	{
-		"chi"		"记住，记牢时间规律可是神图的基础"
+		"chi"		"没有倒计时提示，也不会影响他们通关的"
 	}
 	"ZOMBIE LADDER OPEN! DEFEND!"
 	{
-		"chi"		"僵尸楼梯开启！防守！"
+		"chi"		"僵尸楼梯开启！回头防守！"
 	}
 	"A new enemy approaches!"
 	{
@@ -1031,7 +1081,7 @@
 	}
 	"SHWING INCOMING!!!"
 	{
-		"chi"		"跳刀来袭"
+		"chi"		"跳刀来袭！"
 	}
 	"GOOD JOB SHIT LORDS"
 	{
@@ -1039,15 +1089,15 @@
 	}
 	"EXTREME 1 COMPLETE"
 	{
-		"chi"		"极限1完成"
+		"chi"		"极限一完成"
 	}
 	"MOVING ON TO EXTREME 2"
 	{
-		"chi"		"前往极限2"
+		"chi"		"前往极限二"
 	}
 	"WELCOME TO EX2 OF ONAHOLE"
 	{
-		"chi"		"前往极限2"
+		"chi"		"欢迎来到极限二（卡祖笛）"
 	}
 	"EXTREME!!!"
 	{
@@ -1107,15 +1157,18 @@
 	}
 	"PUUUSHHHH"
 	{
-		"chi"		"X进去（二次推）"
+		"chi"		"*******推*******"
+		"DoorCountdown"		"5"
 	}
 	"PULL OUT PULL OUT!!!!"
 	{
-		"chi"		"拔出来（二次吸）"
+		"chi"		"*******吸*******"
+		"DoorCountdown"		"5"
 	}
 	"ZOMBIES ARE COMING!"
 	{
-		"chi"		"僵尸来了"
+		"chi"		"僵尸来了，派人防守"
+		"DoorCountdown"		"5"
 	}
 	"U OUTTA TIME BITCH"
 	{
@@ -1135,15 +1188,15 @@
 	}
 	"EXTREME 2 COMPLETE"
 	{
-		"chi"		"极限2完成"
+		"chi"		"极限二完成"
 	}
 	"MOVING ON TO EXTREME 3"
 	{
-		"chi"		"前往极限3"
+		"chi"		"前往极限三"
 	}
 	"WELCOME TO EX3 OF ONAHOLE"
 	{
-		"chi"		"欢迎来到极限3"
+		"chi"		"欢迎来到极限三（魔机炉）"
 	}
 	"Last round we found out that the door doesnt actually open"
 	{
@@ -1159,23 +1212,25 @@
 	}
 	"DEFEND FOR 15 SECONDS!"
 	{
-		"chi"		"防守15秒！"
+		"chi"		"防守15秒！别让僵尸进来！"
+		"DoorCountdown"		"15"
 	}
 	"MINI BOSS FIGHT IN 5 SECONDS"
 	{
-		"chi"		"迷你boss战5秒后开始"
+		"chi"		"迷你boss战5秒后开始（不用打躲技能就行)"
 	}
 	"before you even ask.. the title is:"
 	{
-		"chi"		"（18X bgm警告）在你开口问之前... 标题是："
+		"chi"		"（18X H警告）bgm的车牌是：已和谐"
 	}
 	"Oide yo! Mizuryuu Kei Land Episode 1"
 	{
-		"chi"		"XXXXXXX已和谐XXXXXXXX"
+		"chi"		"如要关闭H音频请输入!dj"
+		"DoorCountdown"		"4"
 	}
 	"So dont go messaging me for it."
 	{
-		"chi"		"所以别再给我发消息了"
+		"chi"		"如果你非要用外放，那我也没办法"
 	}
 	"Oh but anyways, the door opens in 15 seconds"
 	{
@@ -1184,34 +1239,42 @@
 	"The next door opens in 20 seconds"
 	{
 		"chi"		"下一扇门20秒后开"
+		"DoorCountdown"		"20"
 	}
 	"BAHAMUT IS CASTING"
 	{
-		"chi"		"巴哈姆特正在蓄力"
+		"chi"		"警告！巴哈姆特正在蓄力"
+		"DoorCountdown"		"4"
 	}
 	"BAHAMUT HAS CASTED ICE"
 	{
-		"chi"		"巴哈姆特使用了冰"
+		"chi"		"巴哈姆特使用了冰！全场定身！"
+		"DoorCountdown"		"7"
 	}
 	"BAHAMUT HAS CASTED EARTH!"
 	{
-		"chi"		"巴哈姆特使用了土"
+		"chi"		"巴哈姆特使用了土！打掉盒子！"
+		"DoorCountdown"		"7"
 	}
 	"BAHAMUT HAS CASTED ELECTRO"
 	{
-		"chi"		"巴哈姆特使用了电"
+		"chi"		"巴哈姆特使用了电！远离中心！"
+		"DoorCountdown"		"7"
 	}
 	"BAHAMUT HAS CASTED GRAVITY"
 	{
-		"chi"		"巴哈姆特使用了黑洞"
+		"chi"		"巴哈姆特使用了黑洞!小心被吸！"
+		"DoorCountdown"		"7"
 	}
 	"BAHAMUT HAS CASTED WIND"
 	{
-		"chi"		"巴哈姆特使用了风"
+		"chi"		"巴哈姆特使用了风！别被推下去！"
+		"DoorCountdown"		"7"
 	}
 	"BAHAMUT HAS CASTED FIRE"
 	{
-		"chi"		"巴哈姆特使用了火"
+		"chi"		"巴哈姆特使用了火！远离外侧！"
+		"DoorCountdown"		"7"
 	}
 	"**Bahamut has been defeated! ** Go Go! Run Upstairs!**"
 	{
@@ -1219,11 +1282,11 @@
 	}
 	"Nice lampshade loser"
 	{
-		"chi"		"漂亮的灯罩，但是没有用"
+		"chi"		"漂亮的灯罩（假终极）"
 	}
 	"PA PA TU TU TU TU TU WA WA"
 	{
-		"chi"		"灯罩被使用了，它发出了奇怪的光芒"
+		"chi"		"灯罩正在发光！"
 	}
 	"**Elevator is leaving in 10 seconds**"
 	{
@@ -1243,23 +1306,23 @@
 	}
 	"**EXPLODES IN 100 SECONDS**"
 	{
-		"chi"		"100秒后核爆"
+		"chi"		" "
 	}
 	"**EXPLODES IN 90 SECONDS**"
 	{
-		"chi"		"90秒后核爆"
+		"chi"		" "
 	}
 	"**EXPLODES IN 80 SECONDS**"
 	{
-		"chi"		"80秒后核爆"
+		"chi"		" "
 	}
 	"**EXPLODES IN 70 SECONDS**"
 	{
-		"chi"		"70秒后核爆"
+		"chi"		" "
 	}
 	"**EXPLODES IN 60 SECONDS**"
 	{
-		"chi"		"60秒后核爆"
+		"chi"		" "
 	}
 	"**EXPLODES IN 50 SECONDS**"
 	{
@@ -1283,7 +1346,7 @@
 	}
 	"**YOU ARE THE MASTERS OF ONAHOLE REACTOR**"
 	{
-		"chi"		"你是mako杯的大师！"
+		"chi"		"你是魔机炉的大师！"
 	}
 	"**ZOMBIES GOT IN! YOU FAILED**"
 	{
