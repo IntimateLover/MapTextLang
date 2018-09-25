@@ -2,7 +2,7 @@
 {
 	"<--Map Made By Color-->"
 	{
-		"chi"		"**地图作者&翻译:[酸奶]**"
+		"chi"		"**地图作者&翻译：酸奶**"
 	}
 	"<--Warm Up Time-->"
 	{
@@ -31,10 +31,6 @@
 	"<--A human has picked Lightning Ball-->"
 	{
 		"chi"		"**一名人类捡起了闪电法球**"
-	}
-	"<--A zombie has picked Dark Ball-->"
-	{
-		"chi"		"**一名僵尸捡起了黑暗法球**"
 	}
 	"<--A zombie has picked Alacrity Ball-->"
 	{
@@ -218,6 +214,6 @@
 	}
 	"<--A zombie has picked Blackhole Ball-->"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸捡起了黑洞法球**"
 	}
 }
