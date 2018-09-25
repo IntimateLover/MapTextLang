@@ -523,7 +523,7 @@
 	{
 		"chi"		"**EXORATH正在充能[终极湮没]**"
 	}
-	"** 5 Seconds left **"
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**还剩下5秒**"
 	}
@@ -805,6 +805,10 @@
 		"chi"		"** **"
 	}
 	"** EASY MODE SELECTED **"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

@@ -256,13 +256,13 @@
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往后的推力！（准备按住W）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往前的推力！（准备按住S）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Hold for 45s!***"
@@ -300,13 +300,13 @@
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往左的推力！（准备按住D）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往右的推力！（准备按住A）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***A human has picked up unlimited ammo!***"
@@ -404,5 +404,25 @@
 	"***Do not allow zombies to enter the safe room!***"
 	{
 		"chi"		"**不要让僵尸进入安全屋！**"
+	}
+	"***Laser race will begin later!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked up fireball! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Find a place to hold for 45s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"chi"		"** **"
 	}
 }

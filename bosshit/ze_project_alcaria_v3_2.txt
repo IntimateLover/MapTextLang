@@ -288,4 +288,10 @@
 		"hammerid"		"3509692"
 		"m_iname"		"nrk2_vent5_breakable"
 	}
+	"3453934"
+	{
+		"enable"		"0"
+		"hammerid"		"3453934"
+		"m_iname"		"nrk_sarin_bomb"
+	}
 }

@@ -1,4 +1,6 @@
 ## 公告 
+
+#所有管理不得随意通过  stripper 必须经过本机验证是否正常.
 2018 07/31 已经自动清理了大量未使用地图 (过期配置文件 BOSSHIT/翻译/参数/entwatch等).
 如果系统清理有错误 请及时补充.https://github.com/MapTextLang/MapTextLang/blob/master/cleanup.txt 清理日志见.
 
@@ -109,4 +111,4 @@
  编辑 README.md 在尾部 添加任何无用注释内容 
  编辑原因填写为 "triggercleanup" 即可清理同步缓存 
 
-#trigger update5
+#trigger update7

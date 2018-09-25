@@ -233,6 +233,7 @@
 	"*** The doors will now open a bit faster! ***"
 	{
 		"chi"		"**门将会提早25s打开**"
+		"DoorCountDown"		"-1"
 	}
 	"*** Lever has been pulled! ***"
 	{

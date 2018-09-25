@@ -62,13 +62,13 @@
 	}
 	"1335604"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1335604"
 		"m_iname"		"Lvl2_S_Phys"
 	}
 	"1336170"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1336170"
 		"m_iname"		"B3b_Phys"
 	}
