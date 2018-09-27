@@ -60,4 +60,16 @@
 	{
 		"syncvalue"		"7745"
 	}
+	"*** Kill the remaining zombie ***"
+	{
+		"chi"		"**解决掉安全房里的僵尸**"
+	}
+	"*** DEFEND FOR 15 SEC ***"
+	{
+		"chi"		"**防守15s**"
+	}
+	"*** The wooden box in the back will break ***"
+	{
+		"chi"		"**防守这里直到门开**"
+	}
 }
