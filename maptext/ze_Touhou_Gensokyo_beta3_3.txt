@@ -1,0 +1,119 @@
+"Console_T"
+{
+	"map by koyomaple"
+	{
+		"chi"		"**地图制作:koyomaple**"
+	}
+	"teleport in 20sec"
+	{
+		"chi"		"**人类将在20秒后传送**"
+	}
+	"hold 10 sec"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"door open in 20sec"
+	{
+		"chi"		"**红魔馆大门将在20秒后开启**"
+	}
+	"hold 10sec"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"hold 15sec"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"teleport enable in 10sec"
+	{
+		"chi"		"**红魔馆内部传送将在10秒后启动**"
+	}
+	"hold 30sec"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"hold 20sec"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"hold 40sec"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"teleport in 15sec"
+	{
+		"chi"		"**人类将在15秒后传送**"
+	}
+	"hold last 45sec"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"6984"
+	}
+	"hold 30 sec"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"hold last 40sec"
+	{
+		"chi"		"****"
+	}
+	"this is a test version!"
+	{
+		"chi"		"**现在是测试版本**"
+	}
+	"maybe change a lot next time"
+	{
+		"chi"		"**以后的版本可能有很大变化**"
+	}
+	"zombies tp in 30 sec"
+	{
+		"chi"		"**僵尸传送还有30秒**"
+	}
+	"zombies tp in 30sec"
+	{
+		"chi"		"**僵尸传送还有30秒**"
+	}
+	"P(ammo) has been picked up"
+	{
+		"chi"		"**P点（无限弹药）神器被捡起 CD三十秒 持续五秒**"
+	}
+	"fast way is opened"
+	{
+		"chi"		"**僵尸近路已开启**"
+	}
+	"teleport enable in 15sec"
+	{
+		"chi"		"**传送将在15秒后启动**"
+	}
+	"***get inside***"
+	{
+		"chi"		"**赶紧到里面去！**"
+	}
+	"zombies teleport in 15sec"
+	{
+		"chi"		"**僵尸传送还有15秒**"
+	}
+	"zombies tp in 20sec"
+	{
+		"chi"		"**僵尸传送还有20秒**"
+	}
+	"**get inside!**"
+	{
+		"chi"		"**赶紧到里面去！**"
+	}
+	"zombies tp in 10sec"
+	{
+		"chi"		"**僵尸传送还有10秒**"
+	}
+	"survie last 30sec"
+	{
+		"chi"		"**生存最后30秒！即将通关**"
+	}
+	"nuke in 10sec"
+	{
+		"chi"		"**10秒后核爆，本图目前只有一关 更多元素如boss将在以后版本出现_(:3」∠)_**"
+	}
+}

@@ -1670,4 +1670,16 @@
 		"hammerid"		"95076"
 		"m_iname"		"item_mine_phys&0556"
 	}
+	"30177"
+	{
+		"enable"		"0"
+		"hammerid"		"30177"
+		"m_iname"		"block_UPforw2&7210"
+	}
+	"95702"
+	{
+		"enable"		"0"
+		"hammerid"		"95702"
+		"m_iname"		"item_builder_brush&7378"
+	}
 }

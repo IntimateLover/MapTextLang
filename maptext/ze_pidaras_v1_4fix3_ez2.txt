@@ -86,7 +86,8 @@
 	}
 	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
 	{
-		"chi"		"**基佬的传送门15秒后激活！快回头刷分！**"
+		"chi"		"**基佬传送门将在15S后开启！快回头刷僵尸！**"
+		"DoorCountDown"		"22"
 	}
 	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
 	{

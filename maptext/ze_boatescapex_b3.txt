@@ -63,7 +63,7 @@
 	"*Spacesuit has been taken. It lowers gravity by a 60%.*"
 	{
 		"chi"		"**【人类】宇航服已被捡起 降低拾取者重力60%**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Long pathway to open in 30 secs! ***"
 	{
@@ -108,22 +108,22 @@
 	"*** FINAL FIRST BOAT IS LEAVING SOON! ***"
 	{
 		"chi"		"**逃生船只1已经启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** FINAL SECOND BOAT IS LEAVING SOON! ***"
 	{
 		"chi"		"**逃生船只2已经启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** FINAL SECOND BOAT IS LEAVING! GET IN!!! ***"
 	{
 		"chi"		"**逃生船只2即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** FINAL FIRST BOAT IS LEAVING! GET IN!!! ***"
 	{
 		"chi"		"**逃生船只1即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** NUKE INBOUND! ***"
 	{
@@ -168,7 +168,7 @@
 	"*** Final first boat is leaving! Get in!!!***"
 	{
 		"chi"		"**逃生船只1即将离开，赶紧上船**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Explosive kamikaze bum-bum has been acquired! **"
 	{
@@ -281,7 +281,7 @@
 	"*** Remember to trigger a boat or face your doom! ***"
 	{
 		"chi"		"**赶紧启动船只否则成为僵尸的4积分吧**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** THE VIP HAS BEEN CHOSEN! ***"
 	{
@@ -294,7 +294,7 @@
 	"*** The VIP is on the move. Consider defending and helping him reach the end or face death! ***"
 	{
 		"chi"		"**VIP在移动了，继续保护他或者成为僵尸的4积分**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** All aircraft are heavily damaged from the nuke! **"
 	{
@@ -345,6 +345,14 @@
 		"chi"		"** **"
 	}
 	"*** Invisibility for zombies in 3 secs... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Invert controls in 3 seconds... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fast speed for zombies in 3 secs... ***"
 	{
 		"chi"		"** **"
 	}

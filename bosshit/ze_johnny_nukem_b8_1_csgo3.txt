@@ -186,4 +186,58 @@
 		"hammerid"		"593847"
 		"m_iname"		"stage3_Shit_trap"
 	}
+	"448347"
+	{
+		"enable"		"0"
+		"hammerid"		"448347"
+		"m_iname"		"st3_bridge_0"
+	}
+	"448402"
+	{
+		"enable"		"0"
+		"hammerid"		"448402"
+		"m_iname"		"st3_bridge_0_1"
+	}
+	"134495"
+	{
+		"enable"		"0"
+		"hammerid"		"134495"
+		"m_iname"		"Rayven_End_Body"
+	}
+	"135849"
+	{
+		"enable"		"0"
+		"hammerid"		"135849"
+		"m_iname"		"Rayven_End_Detail"
+	}
+	"138423"
+	{
+		"enable"		"1"
+		"hammerid"		"138423"
+		"m_iname"		"Solid_Paper_Hitbox"
+	}
+	"137585"
+	{
+		"enable"		"0"
+		"hammerid"		"137585"
+		"m_iname"		"Solid_Paper_Body"
+	}
+	"963208"
+	{
+		"enable"		"0"
+		"hammerid"		"963208"
+		"m_iname"		"Solid_Paper_Phys"
+	}
+	"126362"
+	{
+		"enable"		"0"
+		"hammerid"		"126362"
+		"m_iname"		"stage3_bridge"
+	}
+	"126462"
+	{
+		"enable"		"0"
+		"hammerid"		"126462"
+		"m_iname"		"stage3_bridge2"
+	}
 }

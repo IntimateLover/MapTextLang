@@ -14,73 +14,73 @@
 	}
 	"128399"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128399"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128405"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128405"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128411"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128411"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128564"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128564"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128570"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128570"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128576"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128576"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128686"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128686"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128692"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128692"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128698"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128698"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128706"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128706"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128712"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128712"
 		"m_iname"		"boss_pillarbreak"
 	}
 	"128718"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"128718"
 		"m_iname"		"boss_pillarbreak"
 	}
@@ -98,7 +98,7 @@
 	}
 	"92666"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"92666"
 		"m_iname"		"doorbreak3"
 	}
@@ -106,25 +106,25 @@
 	{
 		"enable"		"0"
 		"hammerid"		"14891"
-		"m_iname"		"i_stonefall_phys&6430"
+		"m_iname"		"i_stonefall_phys&7372"
 	}
 	"19032"
 	{
 		"enable"		"0"
 		"hammerid"		"19032"
-		"m_iname"		"i_stonefall_breakable&6430"
+		"m_iname"		"i_stonefall_breakable&7372"
 	}
 	"28947"
 	{
 		"enable"		"0"
 		"hammerid"		"28947"
-		"m_iname"		"i_templeguardian_hp&6097"
+		"m_iname"		"i_templeguardian_hp&7362"
 	}
 	"27135"
 	{
 		"enable"		"0"
 		"hammerid"		"27135"
-		"m_iname"		"i_templeguardian_base&6097"
+		"m_iname"		"i_templeguardian_base&7362"
 	}
 	"154084"
 	{
