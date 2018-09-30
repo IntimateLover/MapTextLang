@@ -434,7 +434,7 @@
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -658,6 +658,10 @@
 		}
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ROOM - KILL ALL***"
 	{
 		"chi"		"** **"
 	}
