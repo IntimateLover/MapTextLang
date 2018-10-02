@@ -10,11 +10,11 @@
 	}
 	"**Defend for 45 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守45秒**"
 	}
 	"**10 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**倒计时10秒**"
 	}
 	"**Security building open**"
 	{
@@ -22,15 +22,15 @@
 	}
 	"**Battle Tower doors will open in 60 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**战斗塔60秒后开启**"
 	}
 	"**10 Seconds remaining**"
 	{
-		"chi"		"** **"
+		"chi"		"**等待10秒**"
 	}
 	"**Go inside the Battle Tower**"
 	{
-		"chi"		"** **"
+		"chi"		"**进入战斗塔**"
 	}
 	"**TELEPORTING EVERYONE INSIDE IN 5 SECONDS**"
 	{
@@ -72,29 +72,29 @@
 	{
 		"chi"		"** **"
 	}
-	"**Go to Violet City**"
+	"**GO TO VIOLET CITY**"
 	{
-		"chi"		"** **"
+		"chi"		"**前往紫罗兰之城**"
 	}
 	"**PATH IS BLOCKED, HOLD FOR 30 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**通道被上锁，坚守30秒**"
 	}
 	"**10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**倒计时10秒**"
 	}
 	"**ROCK DESTROYED, GO TO VIOLET CITY**"
 	{
-		"chi"		"** **"
+		"chi"		"**延时被摧毁，进入紫罗兰之城**"
 	}
 	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 40 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**紫罗兰之城的入口40秒后开启**"
 	}
 	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**倒计时10秒**"
 	}
 	"**Welcome to Violet City**"
 	{
@@ -102,11 +102,11 @@
 	}
 	"**Head to the Gym**"
 	{
-		"chi"		"** **"
+		"chi"		"**前往健身房**"
 	}
 	"**Teleport will be enabled in 15 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后传送**"
 	}
 	"**Falkner: Hello challengers..."
 	{
@@ -142,7 +142,7 @@
 	}
 	"**TELEPORTER WILL BREAK IN 5 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送**"
 	}
 	"**Falkner: Noctowl, use Whirlwind"
 	{
@@ -206,13 +206,13 @@
 	}
 	"**Defend here for 90 Seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**防守90秒**"
 	}
 	"**Defend here for 10 Seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10秒**"
 	}
-	"**ZOMBIES TRAPPED**"
+	"**Zombies trapped**"
 	{
 		"chi"		"** **"
 	}
@@ -230,7 +230,7 @@
 	}
 	"**It will open in 15 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后开启**"
 	}
 	"**You can heal by standing near the doors of the PKMN Center**"
 	{
@@ -242,15 +242,15 @@
 	}
 	"**Defend for 60 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守60秒**"
 	}
 	"**Defend for 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**30**"
 	}
 	"**Defend for 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**10**"
 	}
 	"**Go to Goldenrod City!**"
 	{
@@ -530,19 +530,22 @@
 	}
 	"**Groudon used Fissure!**"
 	{
-		"chi"		"** **"
+		"chi"		"**去两边出现的平台**"
+		"DoorCountDown"		"5"
 	}
 	"**Get on the side platforms**"
 	{
-		"chi"		"** **"
+		"chi"		"**去两边平台**"
 	}
 	"**Groudon is rising up platforms!**"
 	{
-		"chi"		"** **"
+		"chi"		"**防守尸笼**"
+		"DoorCountDown"		"5"
 	}
 	"**Groudon used Roar!**"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS方向抵抗推力**"
+		"DoorCountDown"		"5"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
@@ -938,7 +941,8 @@
 	}
 	"Cyrus: Honchkrow use Night Slash"
 	{
-		"chi"		"** **"
+		"chi"		"**跳刀**"
+		"DoorCountDown"		"5"
 	}
 	"DODGE THE SLASHES!"
 	{
@@ -970,7 +974,8 @@
 	}
 	"Cyrus: Crobat, use Cross Venom"
 	{
-		"chi"		"** **"
+		"chi"		"**跳刀**"
+		"DoorCountDown"		"5"
 	}
 	"Crobat has fainted."
 	{
@@ -1042,7 +1047,8 @@
 	}
 	"GIRATINA USED VOID"
 	{
-		"chi"		"** **"
+		"chi"		"**走到平台最前面**"
+		"DoorCountDown"		"5"
 	}
 	"GO TO THE FRONT HURRY"
 	{
@@ -1050,18 +1056,50 @@
 	}
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守尸笼**"
+		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS方向按住W！！！**"
+		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"** **"
+		"chi"		"**上梯子**"
+		"DoorCountDown"		"5"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
 		"chi"		"** **"
+	}
+	"Cyrus: Weavile use Beat Up."
+	{
+		"chi"		"**跳刀**"
+		"DoorCountDown"		"5"
+	}
+	"**Giratina used Dragon Claw**"
+	{
+		"chi"		"**跳刀**"
+		"DoorCountDown"		"5"
+	}
+	"**Arceus used Judgement**"
+	{
+		"chi"		"**头顶黄秋**"
+		"DoorCountDown"		"5"
+	}
+	"**Arceus used Roar of Time**"
+	{
+		"chi"		"**躲避蓝色光束并抵抗推力**"
+	}
+	"**Arceus used Living Earth**"
+	{
+		"chi"		"**防守尸笼**"
+		"DoorCountDown"		"12"
+	}
+	"**Arceus used Spacial Rend**"
+	{
+		"chi"		"**跳刀**"
+		"DoorCountDown"		"5"
 	}
 }
