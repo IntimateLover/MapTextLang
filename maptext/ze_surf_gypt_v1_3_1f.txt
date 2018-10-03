@@ -39,7 +39,7 @@
 	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
 	{
 		"chi"		"**路将在30s后打开，守住岩浆池**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** WALL BREAKS IN 5 SECONDS ***"
 	{
@@ -148,5 +148,13 @@
 	"*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
 	{
 		"chi"		"**地图里有3把彩色枪，你可以找到它们**"
+	}
+	"*** PLAYER HAS PICKED UP RED TRAIL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
+	{
+		"chi"		"** **"
 	}
 }

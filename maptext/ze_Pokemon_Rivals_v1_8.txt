@@ -732,4 +732,28 @@
 	{
 		"chi"		"** **"
 	}
+	">>Look, look!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Look to the left of that post!<<"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMON has been burned!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy POKEMON is hurt by its burn!"
+	{
+		"chi"		"** **"
+	}
+	"ZOMBIES have caught WEEDLE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy GEODUDE used TACKLE!"
+	{
+		"chi"		"** **"
+	}
 }

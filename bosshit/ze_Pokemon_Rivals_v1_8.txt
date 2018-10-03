@@ -894,4 +894,10 @@
 		"hammerid"		"758568"
 		"m_iname"		"pikapika"
 	}
+	"779105"
+	{
+		"enable"		"0"
+		"hammerid"		"779105"
+		"m_iname"		"Burned_zombies"
+	}
 }
