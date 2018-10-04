@@ -151,10 +151,10 @@
 	}
 	"*** PLAYER HAS PICKED UP RED TRAIL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**红色彩线枪已被拾取 **"
 	}
 	"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蓝色彩线枪已被拾取 **"
 	}
 }
