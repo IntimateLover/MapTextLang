@@ -110,46 +110,46 @@
 	}
 	"*** SHIT. THERE IS NO ELECTRICITY TO OPEN THE DOOR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**该死。这里没有足够的电力打开这扇门。 **"
 	}
 	"*** WAIT 10 SEC ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10s **"
 	}
 	"*** ELECTRICITY HAS BEEN RESTORED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电力系统恢复了！ **"
 	}
 	"**THE ELEVATOR WILL LEAVE IN 25 SEC.**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在25s后离开 **"
 	}
 	"**GO TO  THE ELEVATOR **"
 	{
-		"chi"		"** **"
+		"chi"		"**快上电梯 **"
 	}
 	"*** ELEVATOR IS FALLING DOWN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯故障 **"
 	}
 	"**Defend 20sec**"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20s **"
 	}
 	"*** THE CONTROL PANEL IS ACTIVATED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**控制器开关已经按下 **"
 	}
 	"*** JUMP THROUGH THE TELEPORTER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跳进传送器 **"
 	}
 	"**THE DOOR WILL OPEN IN 20 SEC**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在20s后打开 **"
 	}
 	"**GO TO THE BOSS**"
 	{
-		"chi"		"** **"
+		"chi"		"**准备和boss战斗 **"
 	}
 }
