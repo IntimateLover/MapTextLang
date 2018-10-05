@@ -366,4 +366,142 @@
 		"hammerid"		"4277722"
 		"m_iname"		"ph_barricade_3&4226"
 	}
+	"4277711"
+	{
+		"enable"		"0"
+		"hammerid"		"4277711"
+		"m_iname"		"ph_barricade_5&4933"
+	}
+	"4277627"
+	{
+		"enable"		"0"
+		"hammerid"		"4277627"
+		"m_iname"		"ph_barricade_15&2236"
+	}
+	"4277708"
+	{
+		"enable"		"0"
+		"hammerid"		"4277708"
+		"m_iname"		"ph_barricade_6&4964"
+	}
+	"4277682"
+	{
+		"enable"		"0"
+		"hammerid"		"4277682"
+		"m_iname"		"ph_barricade_10&2283"
+	}
+	"12348348"
+	{
+		"enable"		"0"
+		"hammerid"		"12348348"
+		"m_iname"		"prop_explosive_phy&4272"
+	}
+	"4277618"
+	{
+		"enable"		"0"
+		"hammerid"		"4277618"
+		"m_iname"		"ph_barricade_16&4530"
+	}
+	"4277652"
+	{
+		"enable"		"0"
+		"hammerid"		"4277652"
+		"m_iname"		"ph_barricade_7&4176"
+	}
+	"4277634"
+	{
+		"enable"		"0"
+		"hammerid"		"4277634"
+		"m_iname"		"ph_barricade_14&4186"
+	}
+	"1638218"
+	{
+		"enable"		"0"
+		"hammerid"		"1638218"
+		"m_iname"		"stage_3_door8"
+	}
+	"1648923"
+	{
+		"enable"		"0"
+		"hammerid"		"1648923"
+		"m_iname"		"stage_3_door9"
+	}
+	"5195345"
+	{
+		"enable"		"0"
+		"hammerid"		"5195345"
+		"m_iname"		"stage_3_prop_dynamic"
+	}
+	"5195370"
+	{
+		"enable"		"0"
+		"hammerid"		"5195370"
+		"m_iname"		"stage_3_prop_dynamic"
+	}
+	"7629657"
+	{
+		"enable"		"0"
+		"hammerid"		"7629657"
+		"m_iname"		"stage_3_verja"
+	}
+	"869089"
+	{
+		"enable"		"0"
+		"hammerid"		"869089"
+		"m_iname"		"stage_3_door7"
+	}
+	"739239"
+	{
+		"enable"		"0"
+		"hammerid"		"739239"
+		"m_iname"		"stage_3_door3"
+	}
+	"1550614"
+	{
+		"enable"		"0"
+		"hammerid"		"1550614"
+		"m_iname"		"ph_object_soldier_5_4&4829"
+	}
+	"7345712"
+	{
+		"enable"		"0"
+		"hammerid"		"7345712"
+		"m_iname"		"item_escalera_s1"
+	}
+	"7345739"
+	{
+		"enable"		"0"
+		"hammerid"		"7345739"
+		"m_iname"		"item_escalera_s1_2"
+	}
+	"4277645"
+	{
+		"enable"		"0"
+		"hammerid"		"4277645"
+		"m_iname"		"ph_barricade_13&4926"
+	}
+	"7628577"
+	{
+		"enable"		"0"
+		"hammerid"		"7628577"
+		"m_iname"		"ph_stage_4_barreras"
+	}
+	"1660096"
+	{
+		"enable"		"0"
+		"hammerid"		"1660096"
+		"m_iname"		"ph_stage_4_barreras"
+	}
+	"1660150"
+	{
+		"enable"		"0"
+		"hammerid"		"1660150"
+		"m_iname"		"ph_stage_4_barreras"
+	}
+	"6827928"
+	{
+		"enable"		"0"
+		"hammerid"		"6827928"
+		"m_iname"		"balrog_disabled"
+	}
 }

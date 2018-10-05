@@ -16,7 +16,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Well done! Trigger is activated***"
+	"***only book owner can activate this teleporter***"
 	{
 		"chi"		"** **"
 	}
@@ -24,7 +24,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***only book owner can activate this teleporter***"
+	"***Wait for until aircraft arriving!***"
 	{
 		"chi"		"** **"
 	}
@@ -32,15 +32,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Well done!***"
-	{
-		"chi"		"** **"
-	}
-	"***Nuke incoming!***"
-	{
-		"chi"		"** **"
-	}
-	"***Wait for until aircraft arriving!***"
+	"***Well done! Trigger is activated***"
 	{
 		"chi"		"** **"
 	}

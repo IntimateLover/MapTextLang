@@ -35,7 +35,7 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 seconds left ***"
 	{
@@ -112,7 +112,7 @@
 	"*** Hold 40 seconds ***"
 	{
 		"chi"		"**守住40秒 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -657,7 +657,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 20 seconds left ***"
 	{

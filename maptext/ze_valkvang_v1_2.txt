@@ -20,7 +20,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 20 seconds left ***"
+	"*** 20 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
@@ -80,7 +80,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -97,6 +97,14 @@
 		"chi"		"** **"
 	}
 	"*** Difficulty: Extreme ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 60 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
 	{
 		"chi"		"** **"
 	}
