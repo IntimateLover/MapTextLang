@@ -464,4 +464,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** (LIBRARY) ** DOORS ARE UNLOCKED NOW **"
+	{
+		"chi"		"** **"
+	}
+	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
+	{
+		"chi"		"** **"
+	}
 }
