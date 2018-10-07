@@ -84,6 +84,7 @@
 	"||| CHAPTER 2 => SECURE |||"
 	{
 		"chi"		"**第2章=>保密 **"
+		"command"		"sv_airaccelerate 12"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
@@ -139,7 +140,7 @@
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
 		"chi"		"**保护下面的火车 **"
-		"command"		"sv_airaccelerate 52"
+		"command"		"sv_airaccelerate 62"
 	}
 	"||| STAGE 2 FINISHED |||"
 	{
