@@ -139,6 +139,7 @@
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
 		"chi"		"**保护下面的火车 **"
+		"command"		"sv_airaccelerate 52"
 	}
 	"||| STAGE 2 FINISHED |||"
 	{
@@ -147,6 +148,7 @@
 	"||| CHAPTER 3 => AWAKENING |||"
 	{
 		"chi"		"**第3章=>觉醒 **"
+		"command"		"sv_airaccelerate 12"
 	}
 	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
 	{
