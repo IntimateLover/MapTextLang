@@ -72,4 +72,10 @@
 		"hammerid"		"3107847"
 		"m_iname"		"break2"
 	}
+	"2846221"
+	{
+		"enable"		"0"
+		"hammerid"		"2846221"
+		"m_iname"		"physbox_pipechunk1"
+	}
 }
