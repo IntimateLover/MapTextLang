@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountDown"		"-1"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -76,8 +76,8 @@
 	}
 	"** We have reached the core  ...**"
 	{
-		"chi"		"**我们已到达魔光炉**距BOSS到来前还剩25秒**"
-		"DoorCountDown"		"25"
+		"chi"		"**我们已到达魔光炉**"
+		"DoorCountDown"		"-1"
 	}
 	"** ... Cloud is planting the bomb **"
 	{
@@ -127,7 +127,7 @@
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**大门将在35S后打开-控制室有提前开门的方法，找到它**"
-		"DoorCountDown"		"35"
+		"DoorCountDown"		"-1"
 	}
 	"**  70 SECONDS LEFT **"
 	{
@@ -285,7 +285,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告：巴哈姆特将在20秒后释放红终-准备使用奶神器**"
-		"DoorCountDown"		"20"
+		"DoorCountDown"		"-1"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -347,15 +347,15 @@
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
 		"chi"		"**警告：巴哈姆特将在7秒后毁灭我们**"
-		"DoorCountDown"		"7"
+		"DoorCountDown"		"-1"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
-		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
+		"chi"		"**警告：巴哈姆特使用了风**"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
-		"chi"		"**警告：巴哈姆特使用了黑洞（按住S后退）**"
+		"chi"		"**警告：巴哈姆特使用了黑洞**"
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
@@ -363,11 +363,11 @@
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
-		"chi"		"**警告：巴哈姆特使用了土（集火打碎）**"
+		"chi"		"**警告：巴哈姆特使用了土**"
 	}
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
-		"chi"		"**警告：终极将在10S后爆炸（快丢雷）**"
+		"chi"		"**警告：终极将在10S后爆炸**"
 	}
 	"** 3 COWBELLS LEFT! **"
 	{
