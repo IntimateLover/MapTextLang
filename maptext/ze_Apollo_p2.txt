@@ -68,14 +68,14 @@
 	}
 	"***Outdoor Tram Starting in 30 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**电车将在30s后启动 **"
 	}
 	"***Rocket Lift Leaving In 20 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在20s后启动 **"
 	}
 	"***Zombies can now climb on the side of the rocket lift***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸爬上来了 **"
 	}
 }
