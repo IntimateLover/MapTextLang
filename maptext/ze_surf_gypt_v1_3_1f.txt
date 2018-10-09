@@ -39,7 +39,7 @@
 	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
 	{
 		"chi"		"**路将在30s后打开，守住岩浆池**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** WALL BREAKS IN 5 SECONDS ***"
 	{
@@ -156,5 +156,13 @@
 	"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
 	{
 		"chi"		"**蓝色彩线枪已被拾取 **"
+	}
+	"*** SOMEONE HAS PICKED UP [Pompjes Pizza Boye] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYER HAS PICKED UP GREEN TRAIL ***"
+	{
+		"chi"		"** **"
 	}
 }
