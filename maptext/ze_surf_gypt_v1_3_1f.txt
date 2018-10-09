@@ -159,10 +159,10 @@
 	}
 	"*** SOMEONE HAS PICKED UP [Pompjes Pizza Boye] ***"
 	{
-		"chi"		"** **"
+		"chi"		"**皮肤已被拾取 **"
 	}
 	"*** PLAYER HAS PICKED UP GREEN TRAIL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**绿色彩线枪已被拾取 **"
 	}
 }
