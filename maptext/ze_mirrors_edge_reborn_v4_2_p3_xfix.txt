@@ -55,6 +55,7 @@
 	"<<< RUN!!! >>>"
 	{
 		"chi"		">>>快跑！<<<"
+		"command"		"sv_airaccelerate 32"
 	}
 	"<<< Hold For 25 secs >>>"
 	{
@@ -103,6 +104,7 @@
 	"<<< SUITCASE COLLECTED! RUN! >>>"
 	{
 		"chi"		">>>文件拿到了，快溜！<<<"
+		"command"		"sv_airaccelerate 32"
 	}
 	"<<< DIFFICULTY LEVEL : EXTREME >>>"
 	{
