@@ -1682,4 +1682,16 @@
 		"hammerid"		"95702"
 		"m_iname"		"item_builder_brush&7378"
 	}
+	"28105"
+	{
+		"enable"		"0"
+		"hammerid"		"28105"
+		"m_iname"		"block_UPforw1&8405"
+	}
+	"30060"
+	{
+		"enable"		"0"
+		"hammerid"		"30060"
+		"m_iname"		"block_forw2&8489"
+	}
 }

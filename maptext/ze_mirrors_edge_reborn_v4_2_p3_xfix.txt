@@ -194,4 +194,8 @@
 	{
 		"chi"		">>>无限弹药P90按E使用，CD为50s<<<"
 	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"chi"		">>>你可以输入!dj来关闭背景音乐<<<"
+	}
 }
