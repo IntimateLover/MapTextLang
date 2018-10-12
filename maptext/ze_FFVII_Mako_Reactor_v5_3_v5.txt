@@ -35,7 +35,8 @@
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
-		"chi"		"**大门将在5S后打开（神器准备使用）**"
+		"chi"		"**大门将在5S后打开**"
+				"DoorCountDown"		"-1"
 	}
 	"** A player has adquired WIND MATERIA **"
 	{
