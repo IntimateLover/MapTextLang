@@ -151,7 +151,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP **"
-				"DoorCountDown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Gi Nattak is using aspil**"
 	{
