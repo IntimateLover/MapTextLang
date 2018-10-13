@@ -1,0 +1,111 @@
+"BOSSHP"
+{
+	"1165684"
+	{
+		"enable"		"1"
+		"hammerid"		"1165684"
+		"m_iname"		"lv4_boss_room_break"
+	}
+	"1046356"
+	{
+		"enable"		"0"
+		"hammerid"		"1046356"
+		"m_iname"		"lv4_break_1"
+	}
+	"995242"
+	{
+		"enable"		"0"
+		"hammerid"		"995242"
+		"m_iname"		"lv4_tele_inside"
+	}
+	"978114"
+	{
+		"enable"		"0"
+		"hammerid"		"978114"
+		"m_iname"		"lv4_add_board"
+	}
+	"978144"
+	{
+		"enable"		"0"
+		"hammerid"		"978144"
+		"m_iname"		"lv4_add_board"
+	}
+	"978150"
+	{
+		"enable"		"0"
+		"hammerid"		"978150"
+		"m_iname"		"lv4_add_board"
+	}
+	"978154"
+	{
+		"enable"		"0"
+		"hammerid"		"978154"
+		"m_iname"		"lv4_add_board"
+	}
+	"978163"
+	{
+		"enable"		"0"
+		"hammerid"		"978163"
+		"m_iname"		"lv4_add_board"
+	}
+	"978167"
+	{
+		"enable"		"0"
+		"hammerid"		"978167"
+		"m_iname"		"lv4_add_board"
+	}
+	"637561"
+	{
+		"enable"		"0"
+		"hammerid"		"637561"
+		"m_iname"		"lv3_final_human_door"
+	}
+	"637575"
+	{
+		"enable"		"0"
+		"hammerid"		"637575"
+		"m_iname"		"lv3_final_zombie_door"
+	}
+	"637616"
+	{
+		"enable"		"0"
+		"hammerid"		"637616"
+		"m_iname"		"lv3_final_door"
+	}
+	"80550"
+	{
+		"enable"		"0"
+		"hammerid"		"80550"
+		"m_iname"		"lv2_zombie_protect"
+	}
+	"80675"
+	{
+		"enable"		"0"
+		"hammerid"		"80675"
+		"m_iname"		"lv2_final_wall"
+	}
+	"73312"
+	{
+		"enable"		"0"
+		"hammerid"		"73312"
+		"m_iname"		"guard_hp"
+	}
+	"33046"
+	{
+		"enable"		"0"
+		"hammerid"		"33046"
+		"m_iname"		"zombie_waiting_protect"
+	}
+	"17414"
+	{
+		"enable"		"0"
+		"hammerid"		"17414"
+		"m_iname"		"invisable_way_1"
+	}
+	"1130981"
+	{
+		"enable"		"1"
+		"hammerid"		"1130981"
+		"m_iname"		"lv4_defense_boss_break"
+	}
+}

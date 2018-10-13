@@ -534,4 +534,34 @@
 		"hammerid"		"147754"
 		"m_iname"		"door_phy_9"
 	}
+	"148250"
+	{
+		"enable"		"0"
+		"hammerid"		"148250"
+		"m_iname"		"door_phy_10"
+	}
+	"148253"
+	{
+		"enable"		"0"
+		"hammerid"		"148253"
+		"m_iname"		"door_phy_10"
+	}
+	"148256"
+	{
+		"enable"		"0"
+		"hammerid"		"148256"
+		"m_iname"		"door_phy_10"
+	}
+	"148259"
+	{
+		"enable"		"0"
+		"hammerid"		"148259"
+		"m_iname"		"door_phy_10"
+	}
+	"148262"
+	{
+		"enable"		"0"
+		"hammerid"		"148262"
+		"m_iname"		"door_phy_10"
+	}
 }
