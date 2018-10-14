@@ -243,7 +243,7 @@
 	}
 	"***Door will open in 25s***"
 	{
-		"chi"		"**40秒后开门**"
+		"chi"		"**25秒后开门**"
 	}
 	"***I see Doorhugger...***"
 	{
