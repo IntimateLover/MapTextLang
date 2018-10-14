@@ -38,8 +38,8 @@
 	}
 	"***Elevator leaving in 20 seconds***"
 	{
-		"chi"		"**电梯20秒后离开 **"
-		"DoorCountDown"		"20"
+		"chi"		"**电梯15秒后离开 **"
+		"DoorCountDown"		"15"
 	}
 	"***5 seconds left***"
 	{
