@@ -480,4 +480,22 @@
 		"hammerid"		"106731"
 		"m_iname"		"break_door_002"
 	}
+	"148221"
+	{
+		"enable"		"0"
+		"hammerid"		"148221"
+		"m_iname"		"physbox_start1"
+	}
+	"144289"
+	{
+		"enable"		"0"
+		"hammerid"		"144289"
+		"m_iname"		"physbox_heal1"
+	}
+	"144352"
+	{
+		"enable"		"0"
+		"hammerid"		"144352"
+		"m_iname"		"physbox_heal2"
+	}
 }

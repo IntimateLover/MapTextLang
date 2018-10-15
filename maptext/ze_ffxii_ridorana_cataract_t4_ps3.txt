@@ -15,7 +15,7 @@
 	"**The gates will open in 20 seconds**"
 	{
 		"chi"		"**石制大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
@@ -40,7 +40,7 @@
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**石制大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
@@ -50,10 +50,10 @@
 	{
 		"chi"		"**铁门将在15秒后打开**"
 	}
-	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	"**The gates will open in 25 seconds**"
 	{
 		"chi"		"**石制大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
@@ -78,12 +78,12 @@
 	"**The random way will open in 25 seconds**"
 	{
 		"chi"		"**一条随机通道将在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The arena entrance will open in 25 seconds**"
 	{
 		"chi"		"**竞技场大门将在25秒后开启**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The Hashmel is defeated!**"
 	{
@@ -92,12 +92,12 @@
 	"**Defend this way for 25 seconds**"
 	{
 		"chi"		"**坚守25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The final gates will open in 20 seconds**"
 	{
 		"chi"		"**最后大门将在20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Hydro is dead! Run to to the platform!**"
 	{
@@ -134,7 +134,7 @@
 	"**The door will open in 25 seconds**"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
@@ -155,12 +155,12 @@
 	"**Wait before the airflow starts**"
 	{
 		"chi"		"**在气流出现前请等待**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**The arena gates will open in 20 seconds**"
 	{
 		"chi"		"**竞技场大门将在20秒后开启**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Oh no the sword dissapeared..We will back there next time..**"
 	{
@@ -173,7 +173,7 @@
 	"**The final gates will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将在30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
@@ -377,7 +377,7 @@
 	"**The arena entrance will open in 30 seconds**"
 	{
 		"chi"		"**竞技场大门将在30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -420,6 +420,10 @@
 		"chi"		"** **"
 	}
 	"**The end gates will close in 20 seconds. Keep defending!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gabranth is using the power of the crystal and blocking the Legendary Sword**"
 	{
 		"chi"		"** **"
 	}
