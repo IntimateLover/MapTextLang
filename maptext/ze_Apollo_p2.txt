@@ -78,4 +78,12 @@
 	{
 		"chi"		"**僵尸爬上来了 **"
 	}
+	"***Airlock Door Opening In 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Aux Door Opening In 15 Seconds***"
+	{
+		"chi"		"** **"
+	}
 }
