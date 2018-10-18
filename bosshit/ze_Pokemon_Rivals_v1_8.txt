@@ -900,4 +900,10 @@
 		"hammerid"		"779105"
 		"m_iname"		"Burned_zombies"
 	}
+	"778134"
+	{
+		"enable"		"0"
+		"hammerid"		"778134"
+		"m_iname"		"Burned_humans"
+	}
 }
