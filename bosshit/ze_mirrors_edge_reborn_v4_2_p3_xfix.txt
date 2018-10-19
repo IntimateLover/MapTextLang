@@ -36,4 +36,34 @@
 		"hammerid"		"568"
 		"m_iname"		"holdpt3_breakable"
 	}
+	"847"
+	{
+		"enable"		"0"
+		"hammerid"		"847"
+		"m_iname"		"level1prop"
+	}
+	"853"
+	{
+		"enable"		"0"
+		"hammerid"		"853"
+		"m_iname"		"level3prop"
+	}
+	"855"
+	{
+		"enable"		"0"
+		"hammerid"		"855"
+		"m_iname"		"level2prop"
+	}
+	"39830"
+	{
+		"enable"		"0"
+		"hammerid"		"39830"
+		"m_iname"		"break_extrgod1"
+	}
+	"12072"
+	{
+		"enable"		"0"
+		"hammerid"		"12072"
+		"m_iname"		"goddoor"
+	}
 }
