@@ -10,7 +10,7 @@
 	}
 	"**Medkit has been acquired!**"
 	{
-		"chi"		"**医疗包被拿起**"
+		"chi"		"**医疗包被拿起(只能使用一次）**"
 	}
 	"**Weve waited long enough! GO!**"
 	{
