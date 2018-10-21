@@ -31,12 +31,12 @@
 	"**Front doors will be opening in 10 seconds**"
 	{
 		"chi"		"**身后的门将在10秒后打开**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Doors will be opening in 20 seconds. Hold the zombies back!**"
 	{
 		"chi"		"**大门将在20秒后打开，守住僵尸**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Hold here for awhile!**"
 	{
@@ -61,7 +61,7 @@
 	"**Doors will be opening in 10 seconds! Hold the zombies off!**"
 	{
 		"chi"		"**大门将在10秒后打开，守住僵尸**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Wait here for awhile!**"
 	{
@@ -70,17 +70,17 @@
 	"**Elevator is leaving in 10 seconds!**"
 	{
 		"chi"		"**电梯将在10秒后离开**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Lift is leaving in 20 seconds! Hold the zombies back!"
 	{
 		"chi"		"**电梯将在20秒后离开，守住僵尸**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Chopper is leaving in 30 seconds! Resist the zombies for a final time!**"
 	{
 		"chi"		"**直升机将在30秒后离开，在最后时刻抵挡住僵尸大军**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Good job! You won!**"
 	{
@@ -97,7 +97,7 @@
 	"**Both buttons have been pressed! Door opens in 25 seconds!**"
 	{
 		"chi"		"**按钮已经被同时按下，大门将在25秒后开启**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Wait here for awhile! Others may come!**"
 	{
@@ -138,7 +138,7 @@
 	"**Complex door is opening in 25 seconds**"
 	{
 		"chi"		"**复合式大门将在25秒后开启**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Ammo Box has been picked up!**"
 	{

@@ -162,4 +162,34 @@
 		"hammerid"		"59238"
 		"m_iname"		"invisiblewall1"
 	}
+	"299652"
+	{
+		"enable"		"0"
+		"hammerid"		"299652"
+		"m_iname"		"back_pedal_breakable_2"
+	}
+	"302980"
+	{
+		"enable"		"0"
+		"hammerid"		"302980"
+		"m_iname"		"titan_block1_breakable"
+	}
+	"299957"
+	{
+		"enable"		"0"
+		"hammerid"		"299957"
+		"m_iname"		"back_pedal_breakable_3"
+	}
+	"264474"
+	{
+		"enable"		"0"
+		"hammerid"		"264474"
+		"m_iname"		"back_pedal_breakable"
+	}
+	"250912"
+	{
+		"enable"		"0"
+		"hammerid"		"250912"
+		"m_iname"		"unlock"
+	}
 }
