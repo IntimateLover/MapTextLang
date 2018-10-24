@@ -1,0 +1,177 @@
+"BOSSHP"
+{
+	"377856"
+	{
+		"enable"		"0"
+		"hammerid"		"377856"
+		"m_iname"		"Piter laser 2"
+	}
+	"377914"
+	{
+		"enable"		"0"
+		"hammerid"		"377914"
+		"m_iname"		"Last room zombie gate"
+	}
+	"377921"
+	{
+		"enable"		"0"
+		"hammerid"		"377921"
+		"m_iname"		"piter laser 2 wall"
+	}
+	"378768"
+	{
+		"enable"		"0"
+		"hammerid"		"378768"
+		"m_iname"		"last room last floor"
+	}
+	"247529"
+	{
+		"enable"		"0"
+		"hammerid"		"247529"
+		"m_iname"		"Sexy star lvl 2 destory crate"
+	}
+	"247557"
+	{
+		"enable"		"0"
+		"hammerid"		"247557"
+		"m_iname"		"Sexy star lvl 3 destory crate"
+	}
+	"166404"
+	{
+		"enable"		"0"
+		"hammerid"		"166404"
+		"m_iname"		"Russian crate wall 1"
+	}
+	"82910"
+	{
+		"enable"		"1"
+		"hammerid"		"82910"
+		"m_iname"		"Aushwitz boss room jail wall"
+	}
+	"45049"
+	{
+		"enable"		"0"
+		"hammerid"		"45049"
+		"m_iname"		"Shinra base lvl 2 door 7"
+	}
+	"45053"
+	{
+		"enable"		"0"
+		"hammerid"		"45053"
+		"m_iname"		"Shinra base lvl 2 door 8"
+	}
+	"45087"
+	{
+		"enable"		"0"
+		"hammerid"		"45087"
+		"m_iname"		"Shinra base lvl 2 door 9"
+	}
+	"45091"
+	{
+		"enable"		"0"
+		"hammerid"		"45091"
+		"m_iname"		"Shinra base lvl 2 door 10"
+	}
+	"45098"
+	{
+		"enable"		"0"
+		"hammerid"		"45098"
+		"m_iname"		"Shinra base lvl 2 door 11"
+	}
+	"45103"
+	{
+		"enable"		"0"
+		"hammerid"		"45103"
+		"m_iname"		"Shinra base lvl 2 door 12"
+	}
+	"8130"
+	{
+		"enable"		"0"
+		"hammerid"		"8130"
+		"m_iname"		"Sexy star wall 1"
+	}
+	"8138"
+	{
+		"enable"		"0"
+		"hammerid"		"8138"
+		"m_iname"		"Sexy star wall 2"
+	}
+	"8147"
+	{
+		"enable"		"0"
+		"hammerid"		"8147"
+		"m_iname"		"Sexy star wall 3"
+	}
+	"8154"
+	{
+		"enable"		"0"
+		"hammerid"		"8154"
+		"m_iname"		"Sexy star wall 4"
+	}
+	"8165"
+	{
+		"enable"		"0"
+		"hammerid"		"8165"
+		"m_iname"		"Sexy star wall 5"
+	}
+	"8169"
+	{
+		"enable"		"0"
+		"hammerid"		"8169"
+		"m_iname"		"Sexy star wall 7"
+	}
+	"8259"
+	{
+		"enable"		"0"
+		"hammerid"		"8259"
+		"m_iname"		"sexy star wall 6"
+	}
+	"8279"
+	{
+		"enable"		"0"
+		"hammerid"		"8279"
+		"m_iname"		"Star secret wall"
+	}
+	"11617"
+	{
+		"enable"		"0"
+		"hammerid"		"11617"
+		"m_iname"		"camp wall 1"
+	}
+	"11623"
+	{
+		"enable"		"0"
+		"hammerid"		"11623"
+		"m_iname"		"camp wall 3 house"
+	}
+	"11632"
+	{
+		"enable"		"0"
+		"hammerid"		"11632"
+		"m_iname"		"Camp wall 3 outside"
+	}
+	"11635"
+	{
+		"enable"		"0"
+		"hammerid"		"11635"
+		"m_iname"		"camp wall 3 house 2"
+	}
+	"12076"
+	{
+		"enable"		"0"
+		"hammerid"		"12076"
+		"m_iname"		"camp wall 2"
+	}
+	"28449"
+	{
+		"enable"		"0"
+		"hammerid"		"28449"
+		"m_iname"		"Shinra base in wall 1"
+	}
+	"192654"
+	{
+		"enable"		"0"
+		"hammerid"		"192654"
+		"m_iname"		"Sexy star teleport"
+	}
+}
