@@ -192,4 +192,16 @@
 		"hammerid"		"250912"
 		"m_iname"		"unlock"
 	}
+	"78721"
+	{
+		"enable"		"1"
+		"hammerid"		"78721"
+		"m_iname"		"boss1"
+	}
+	"59081"
+	{
+		"enable"		"1"
+		"hammerid"		"59081"
+		"m_iname"		"boss1"
+	}
 }

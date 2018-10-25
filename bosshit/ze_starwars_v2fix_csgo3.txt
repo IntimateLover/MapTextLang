@@ -116,13 +116,13 @@
 	}
 	"830476"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"830476"
 		"m_iname"		"Reactor"
 	}
 	"998909"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"998909"
 		"m_iname"		"Station"
 	}

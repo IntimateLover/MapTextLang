@@ -79,7 +79,7 @@
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门25秒后开启**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**A player has picked up Lightning Spear**"
 	{
@@ -116,7 +116,7 @@
 	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**A player has picked up Chaos Storm**"
 	{
@@ -125,7 +125,7 @@
 	"**The Sens Fortress gates will open in 30 seconds**"
 	{
 		"chi"		"**塞恩古堡大门将在30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**A player has picked up Green Blossom**"
 	{
@@ -142,7 +142,7 @@
 	"**Well done**The gate will open in 10 seconds**"
 	{
 		"chi"		"**干得好-大门将在10秒后打开**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**A player has picked up White Dragon Breath**"
 	{
@@ -179,12 +179,12 @@
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**The gate will open in 20 seconds***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**A player has picked up Soothing Sunlight**"
 	{
@@ -233,7 +233,7 @@
 	"**Get in the room and defend it! the door will close in 25 seconds**"
 	{
 		"chi"		"**进入房间防守-门将在25秒后关闭**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**Ornstein and Gwyndolin are dead**"
 	{
@@ -380,6 +380,10 @@
 		"syncvalue"		"10362"
 	}
 	"**YOU HAVE FAILED**"
+	{
+		"chi"		"** **"
+	}
+	"**You have usurpated the First Flame and became the new Lord of Lordran**"
 	{
 		"chi"		"** **"
 	}
