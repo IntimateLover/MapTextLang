@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&8498"
+		"m_iname"		"ChopperRotator&9029"
 	}
 	"20547"
 	{
@@ -238,25 +238,25 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&8503"
+		"m_iname"		"FlyingRatPhys&8994"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&8511"
+		"m_iname"		"TowerPhys&9002"
 	}
 	"275194"
 	{
 		"enable"		"0"
 		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&8488"
+		"m_iname"		"KleinerPhys&8835"
 	}
 	"282149"
 	{
 		"enable"		"0"
 		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&7"
+		"m_iname"		"ItemZombieMonsterChickenBreak&8"
 	}
 	"303199"
 	{
@@ -286,49 +286,49 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273335"
-		"m_iname"		"george_cades_toilet_box&3471"
+		"m_iname"		"george_cades_toilet_box&8744"
 	}
 	"273329"
 	{
 		"enable"		"0"
 		"hammerid"		"273329"
-		"m_iname"		"george_cades_shelf_box&3480"
+		"m_iname"		"george_cades_shelf_box&8753"
 	}
 	"273398"
 	{
 		"enable"		"0"
 		"hammerid"		"273398"
-		"m_iname"		"george_cades_vendy_box&3483"
+		"m_iname"		"george_cades_vendy_box&8756"
 	}
 	"273332"
 	{
 		"enable"		"0"
 		"hammerid"		"273332"
-		"m_iname"		"george_cades_sandbag_box&3487"
+		"m_iname"		"george_cades_sandbag_box&8760"
 	}
 	"273338"
 	{
 		"enable"		"0"
 		"hammerid"		"273338"
-		"m_iname"		"george_cades_haybale_box&3492"
+		"m_iname"		"george_cades_haybale_box&8765"
 	}
 	"273326"
 	{
 		"enable"		"0"
 		"hammerid"		"273326"
-		"m_iname"		"george_cades_bench_box&3495"
+		"m_iname"		"george_cades_bench_box&8768"
 	}
 	"273723"
 	{
 		"enable"		"0"
 		"hammerid"		"273723"
-		"m_iname"		"RockBarricadePhys&3600"
+		"m_iname"		"RockBarricadePhys&8828"
 	}
 	"200904"
 	{
 		"enable"		"0"
 		"hammerid"		"200904"
-		"m_iname"		"MissilePhysbox&8460"
+		"m_iname"		"MissilePhysbox&8827"
 	}
 	"281426"
 	{
