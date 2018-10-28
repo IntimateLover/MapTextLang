@@ -219,7 +219,7 @@
 	"*** Level:Extreme ***"
 	{
 		"chi"		"**本关难度：困难 **"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100002 use"
 	}
 	"*** 35 seconds to activate Nymian device ***"
 	{
@@ -372,7 +372,7 @@
 	"*** Next Level Savage ***"
 	{
 		"chi"		"**下一难度：史诗 **"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100002 use"
 	}
 	"*** Human Killer ON ***"
 	{
@@ -386,7 +386,7 @@
 	"*** Level:Savage ***"
 	{
 		"chi"		"**当前关卡：史诗 **"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100002 use"
 	}
 	"***Holm gang zombie incoming...***"
 	{
@@ -500,7 +500,7 @@
 	"*** Level:Ultimate ***"
 	{
 		"chi"		"**当前关卡：天神 **"
-		"command"		"sm_aei_hammerid 100003 use"
+		"command"		"sm_aei_hammerid 100002 use"
 	}
 	"*** This mode is Secret mode ***"
 	{
