@@ -32,6 +32,8 @@
 
 ## 游戏中自动同步说明
 ### 如果这里文件和服务器文件大小写不匹配 将无法同步成功 请务必通过论坛查询地图文件名!
+[地图查询] (https://bbs.93x.net/plugin.php?id=xnet_mappost:xnet_map_query).
+
 
 1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).就是通过编辑文件后创建PR
 
