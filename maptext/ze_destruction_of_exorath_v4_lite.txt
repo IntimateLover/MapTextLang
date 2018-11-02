@@ -489,7 +489,7 @@
 	}
 	"** SECRET NUKE HAS BEEN PICKED UP **"
 	{
-		"chi"		"**一位玩家拾起了秘密核弹（听指挥）**"
+		"chi"		"**一位玩家拾起了秘密核弹（只对BOSS有效）**"
 	}
 	"** NO MORE HUMANS LEFT INSIDE THE ARENA ** VENT EXPLODING **"
 	{
