@@ -341,4 +341,16 @@
 	{
 		"syncvalue"		"28297"
 	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattck is using shield**"
+	{
+		"chi"		"** **"
+	}
 }

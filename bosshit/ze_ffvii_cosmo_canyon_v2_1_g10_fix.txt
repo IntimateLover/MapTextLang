@@ -222,4 +222,10 @@
 		"hammerid"		"1046356"
 		"m_iname"		"lvl4_end_boss"
 	}
+	"1885963"
+	{
+		"enable"		"1"
+		"hammerid"		"1885963"
+		"m_iname"		"Rage_Ifrit_Hitbox"
+	}
 }

@@ -96,7 +96,7 @@
 	{
 		"chi"		"**守住25s**"
 	}
-	"**5 seconds left**"
+	"**5 SECONDS LEFT**"
 	{
 		"chi"		"**还剩5s**"
 	}
@@ -179,7 +179,7 @@
 	"**This is the last point wait for the evacuation**"
 	{
 		"chi"		"**到达最后的撤离点..**"
-		"DoorCountdown"		"29"
+		"DoorCountDown"		"29"
 	}
 	"**Congratulations you beat the map! More stages will come soon...**"
 	{
