@@ -1,13 +1,5 @@
 "Console_T"
 {
-	"<< map by 御坂 (Misaka) >>"
-	{
-		"chi"		"** **"
-	}
-	"<< this is the beta version >>"
-	{
-		"chi"		">>>这是公测版本<<<"
-	}
 	"<< teleport will be enabled in 20 seconds >>"
 	{
 		"chi"		">>>20秒后传送<<<"
@@ -50,7 +42,7 @@
 	}
 	"<< the wall will disappear in 30 seconds >>"
 	{
-		"chi"		">>>30秒后就墙碎<<<"
+		"chi"		">>>墙会在30秒后消失<<<"
 	}
 	"<< we need to find a way to go on >>"
 	{
@@ -68,9 +60,9 @@
 	{
 		"chi"		">>>坚守10秒<<<"
 	}
-	"<< defend for 20 seconds >>"
+	"<< defend for 15 seconds >>"
 	{
-		"chi"		">>>坚守20秒<<<"
+		"chi"		">>>坚守15秒<<<"
 	}
 	"<< the platform will move in 15 seconds >>"
 	{
@@ -142,1298 +134,255 @@
 	}
 	"<< dodge the laser !!! >>"
 	{
-		"chi"		"**>>> 躲开镭射 !!! <<<**"
+		"chi"		"**>>> 准备跳刀!!! <<<**"
 	}
 	"<< more laser is coming !!! >>"
 	{
-		"chi"		"**>>> 更多的镭射即将来袭 !!! <<<"
-		"**"		"
-	}
-	"
-		"<<"		"up"
-		"AND"		"down"
-		"!!!"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"上上下下"		"!!!"
-		"<<<**"		"
-	}
-	"
-		"<<"		"Congratulation"
-		"!!!"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"可喜可贺!!!"		"<<<**"
-		"
-	}
-	"		"<<"
-		"you"		"have"
-		"already"		"beaten"
-		"this"		"map"
-		"!!!"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"你已经打通这张图啦"		"!!!"
-		"<<<**"		"
-	}
-	"
-		"<<"		"more"
-		"level"		"will"
-		"in"		"the"
-		"future"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"未来会有更多关卡"		"<<<**"
-		"
-	}
-	"		"<<"
-		"Mega"		"Push"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"超级推力"
-		"<<<**"		"
-	}
-	"
-		"sync_version"		"
-	{
-		"
-		"syncvalue"		"		"
-		"70071"		"
-	}
-	"
-		"<<"		"map"
-		"by"		"Misaka"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"地图作者Misaka"
-		"<<<**"		"
-	}
-	"
-		"<<"		"special"
-		"thanks"		"to"
-		"93x.net"		"and"
-		"all"		"test"
-		"players"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"特别感谢X社区以及所有帮助测试的玩家"		"<<<**"
-		"
-	}
-	"		"<<"
-		"Stage"		"1"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"关卡1"
-		"<<<**"		"
-	}
-	"
-		"<<"		"defend"
-		"for"		"15"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"防守15秒"		"<<<**"
-		"
-	}
-	"		"<<"
-		"defeat"		"the"
-		"boss"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		">>>"		"打败BOSS"
-		"<<<"		"**"
-		"
-	}
-	"		"<<"
-		"Be"		"Careful!"
-		"you"		"only"
-		"have"		"120"
-		"seconds"		"to"
-		"defeat"		"the"
-		"boss"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"当心！你只有120秒来打败BOSS了"		"<<<**"
-		"
-	}
-	"		"<<"
-		"Stage"		"1"
-		"complete"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"关卡1通过"		"<<<"
-		"**"		"
-	}
-	"
-		"<<"		"Stage"
-		"2"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"关卡2"		"<<<"
-		"**"		"
-	}
-	"
-		"<<"		"teleport"
-		"will"		"enable"
-		"in"		"20"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"传送20秒后启动"		"<<<**"
-		"
-	}
-	"		"<<"
-		"zombie"		"will"
-		"teleport"		"in"
-		"10"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"僵尸将在10秒后传送"
-		"<<<**"		"
-	}
-	"
-		"<<"		"the"
-		"way"		"will"
-		"Be"		"able"
-		"to"		"pass"
-		"in"		"20"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"道路在20秒后可以通过"		"<<<**"
-		"
-	}
-	"		"<<"
-		"hold"		"for"
-		"25"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"守住25秒"
-		"<<<**"		"
-	}
-	"
-		"<<"		"the"
-		"teleport"		"will"
-		"enable"		"in"
-		"30"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"传送将在30秒后启动"
-		"<<<**"		"
-	}
-	"
-		"<<"		"zombie"
-		"will"		"come"
-		"in"		"5"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"僵尸将在5秒后来袭"		"<<<**"
-		"
-	}
-	"		"<<"
-		"we"		"can"
-		"go"		"into"
-		"the"		"tower"
-		"in"		"45"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"我们可以在45秒内进入高塔"		"<<<**"
-		"
-	}
-	"		"<<"
-		"hold"		"for"
-		"30"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"守住30秒"
-		"<<<**"		"
-	}
-	"
-		"<<"		"zombie"
-		"will"		"teleport"
-		"in"		"20"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"僵尸将在20秒后传送"		"<<<**"
-		"
-	}
-	"		"<<"
-		"the"		"guard"
-		"will"		"disappear"
-		"in"		"30"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"守卫将在30秒后消失"		"<<<**"
-		"
-	}
-	"		"<<"
-		"climb"		"to"
-		"the"		"top"
-		"AND"		"shooting"
-		"the"		"guard,"
-		"so"		"that"
-		"the"		"teleport"
-		"CAN"		"be"
-		"activated"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"爬到顶端然后射击守卫，这样就能够激活传送"		"<<<**"
-		"
-	}
-	"		"<<"
-		"Be"		"Careful,"
-		"only"		"shooting"
-		"the"		"head"
-		"of"		"the"
-		"guard"		"may"
-		"cause"		"damage"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"当心，只有射击守卫的头才有可能造成伤害"
-		"<<<**"		"
-	}
-	"
-		"<<"		"the"
-		"ladder"		"is"
-		"able"		"to"
-		"climb"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"梯子可以爬了"		"<<<**"
-		"
-	}
-	"		"<<"
-		"teleport"		"will"
-		"enable"		"in"
-		"40"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**>>>"		"传送将在40秒后启动"
-		"<<<**"		"
-	}
-	"
-		"<<"		"So"
-		"we"		"meet"
-		"the"		"second"
-		"time"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"这算是我们第二次见面了"		"<<<**"
-		"
-	}
-	"		"<<"
-		"Let"		"me"
-		"see"		"what"
-		"you"		"can"
-		"do"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"让我看看你的本事"		"<<<**"
-		"
-	}
-	"		"<<"
-		"to"		"survive"
-		"from"		"the"
-		"laser"		"wall"
-		"!!!"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		">>>"		"从镭射墙中活下来"
-		"!!!"		"<<<"
-		"**"		"
-	}
-	"
-		"<<"		"zombie"
-		"will"		"release"
-		"in"		"5"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"僵尸将在5秒后被释放"		"<<<**"
-		"
-	}
-	"		"the"
-		"guard"		"will"
-		"disappear"		"in"
-		"30"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		">>>"
-		"守卫将在30秒后消失"		"<<<"
-		"**"		"
-	}
-	"
-		"<<"		"Be"
-		"Careful"		"the"
-		"laser"		"from"
-		"Misaka!!!"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**>>>"
-		"当心Misaka的镭射!!!"		"<<<**"
-		"
-	}
-	"		"<<"
-		"Stage"		"2"
-		"complete"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"way"		"will"
-		"Be"		"able"
-		"to"		"pass"
-		"in"		"15"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"a"
-		"player"		"has"
-		"picked"		"up"
-		"wall"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"a"
-		"player"		"has"
-		"picked"		"up"
-		"wind"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"we"
-		"CAN"		"go"
-		"into"		"the"
-		"tower"		"in"
-		"35"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"zombie"		"will"
-		"release"		"in"
-		"10"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"the"		"guard"
-		"will"		"disappear"
-		"in"		"25"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"Its"
-		"Misaka"		"Again!!!"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Shooting"		"Misaka"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Stage"		"3"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"the"		"fence"
-		"will"		"disappear"
-		"in"		"20"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"hold"
-		"for"		"15"
-		"seconds"		"until"
-		"the"		"guards"
-		"permit"		"us"
-		"to"		"go"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"wait"		"until"
-		"we"		"know"
-		"which"		"way"
-		"CAN"		"pass"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"the"		"wall"
-		"will"		"break"
-		"in"		"30"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"A"
-		"player"		"has"
-		"got"		"the"
-		"letter"		"I"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"A"		"player"
-		"has"		"got"
-		"the"		"letter"
-		"S"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"wall"		"will"
-		"break"		"in"
-		"20"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Shooting"		"the"
-		"guard"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"The"
-		"wall"		"will"
-		"break"		"in"
-		"35"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"A"		"player"
-		"has"		"got"
-		"the"		"letter"
-		"A"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"A"
-		"player"		"has"
-		"got"		"the"
-		"letter"		"K"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"hold"		"for"
-		"40"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Hunting"		"Instinct"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Absolute"		"Purification"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Flame"		"of"
-		"revenge"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"final"		"door"
-		"will"		"open"
-		"in"		"30"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"hold"
-		"for"		"15"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"Stage"
-		"3"		"Complete"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"try"		"to"
-		"find"		"another"
-		"end"		"of"
-		"Stage"		"3"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"A"		"player"
-		"has"		"got"
-		"the"		"letter"
-		"M"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"door"		"will"
-		"disapper"		"in"
-		"30"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"the"		"door"
-		"will"		"open"
-		"in"		"30"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"defend"
-		"for"		"40"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"glass"		"wall"
-		"will"		"break"
-		"in"		"20"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"platform"		"will"
-		"rise"		"in"
-		"10"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Sign"		"of"
-		"Death"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"Youve"
-		"already"		"got"
-		"all"		"6"
-		"secret"		"letters"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"do"		"you"
-		"think"		"this"
-		"is"		"over?"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"..."		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"Try"
-		"to"		"Get"
-		"to"		"The"
-		"end"		"!!!"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Be"		"careful"
-		"about"		"the"
-		"abnormal"		"gravity"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"AND"		"also"
-		"Be"		"careful"
-		"about"		"the"
-		"wall"		"on"
-		"your"		"back"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"you"		"only"
-		"have"		"10"
-		"seconds"		"to"
-		"get"		"to"
-		"the"		"end"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"5"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"4"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"3"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"2"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"1"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"The"
-		"boss"		"appears"
-		"again"		"!!!"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Shooting"		"it"
-		"AND"		"dodge"
-		"the"		"laser!!>>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"Stage"
-		"3"		"true"
-		"end"		"complete>>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"final"		"level"
-		"will"		"in"
-		"the"		"future"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"A"		"zombie"
-		"has"		"picked"
-		"up"		"hurt"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"Hurt"		"Used"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"you"		"only"
-		"have"		"60"
-		"seconds"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"A"
-		"zombie"		"has"
-		"picked"		"up"
-		"speed"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"zombie"
-		"used"		"speed"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"A"		"player"
-		"has"		"picked"
-		"up"		"heal"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<You"
-		"only"		"have"
-		"25"		"seconds"
-		"to"		"get"
-		"to"		"the"
-		"end"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-	"
-		"<<"		"the"
-		"wall"		"will"
-		"break"		"in"
-		"25"		"seconds"
-		">>"		"
-	{
-		"
-		"chi"		"		"
-		"**"		"**"
-		"
-	}
-	"		"<<"
-		"A"		"player"
-		"has"		"got"
-		"A"		"letter"
-		"A"		">>"
-		"
-	{
-		"		"chi"
-		"		"		"**"
-		"**"		"
-	}
-}
-"
+		"chi"		"**>>> 更多的跳刀即将来袭 !!! <<<"
 	}
 	"<< Stage 1 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>第一关<<<"
 	}
 	"<< map by Misaka >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>地图制作:御坂<<<"
 	}
 	"<< special thanks to 93x.net and all test players >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>特别感谢X社区以及所有测试玩家<<<"
 	}
 	"<< A zombie has picked up speed >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸拿到了加速神器<<<"
 	}
 	"<< defend for 15 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守15秒<<<"
 	}
 	"<< defeat the boss >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>击败boss<<<"
 	}
 	"<< Be Careful! You only have 120 seconds to defeat the boss >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>注意！你只有120秒的时间去击败boss<<<"
 	}
 	"<< zombie used speed >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸加速使用了<<<"
 	}
 	"<< up and down !!! >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>上下刀<<<"
 	}
 	"<< Stage 1 Complete >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>第一关完成<<<"
 	}
 	"<< Stage 2 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>第二关<<<"
 	}
 	"<< a player has picked up wind >>"
 	{
-		"chi"		"** **"
-	}
-	"<< a player has picked up wall >>"
-	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家拾取风神器<<<"
 	}
 	"<< teleport will enable in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>20秒后传送<<<"
 	}
 	"<< A player has picked up heal >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家拾取奶神器<<<"
 	}
 	"<< zombie will teleport in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将会在10秒后传送<<<"
 	}
 	"<< the way will be able to pass in 15 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>15秒后路可以通过<<<"
 	}
 	"<< hold for 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守25秒<<<"
 	}
 	"<< the teleport will enable in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>30秒后传送<<<"
 	}
 	"<< zombie will come in 5 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将会在5秒后到达<<<"
 	}
 	"<< we can go into the tower in 35 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>我们可以在35秒后进入高塔<<<"
 	}
 	"<< hold for 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守30秒<<<"
 	}
 	"<< zombie will teleport in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将会在20秒后传送<<<"
 	}
 	"<< the guard will disappear in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>守卫将在30秒后消失<<<"
 	}
 	"<< climb to the top and shooting the guard, so that the teleport can be activated >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>爬到塔顶并且设计守卫来触发传送<<<"
 	}
 	"<< Be Careful, only shooting the head of the guard may cause damage >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>注意,只有设计守卫的头部才会造成伤害<<<"
 	}
 	"<< teleport will enable in 40 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>40秒后传送<<<"
 	}
 	"<< the ladder is able to climb >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>梯子可以爬了<<<"
 	}
 	"<< So we meet the second time >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>这是我们第二次见面了<<<"
 	}
-	"<< Let me see what you can do >>"
+	"<< Try your best to survive from the attack >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>努力从攻击中生存下来<<<"
 	}
-	"<< To survive from the laser wall !!! >>"
+	"<< To escape this tower!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>来逃离这座高塔!!!<<<"
+	}
+        "<< RIGHT >>"
+	{
+	        "chi"           ">>>按住D<<<"
+	}
+	"<< LEFT >>"
+	{
+	        "chi"           ">>>按住A<<<"
+	}
+	"<< HOLY >>"
+	{
+	        "chi"           ">>>holy(站在两边)<<<"
+	}
+	"<< FORWARD >>"
+	{
+	        "chi"           ">>>按住S<<<"
 	}
 	"<< zombie will release in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将会在10秒后释放<<<"
 	}
 	"<< the guard will disappear in 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>守卫将在25秒后消失<<<"
 	}
 	"<< Its Misaka Again!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>Misaka又一次出现了!<<<"
 	}
 	"<< Shooting Misaka >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>向Misaka射击<<<"
 	}
 	"<<You only have 25 seconds to get to the end >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>你只有25秒的时间<<<"
 	}
 	"<< Stage 2 Complete >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>第二关完成<<<"
 	}
 	"<< Stage 3 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>第三关<<<"
 	}
 	"<< the fence will disappear in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>栅栏将会在20秒后消失<<<"
 	}
 	"<< A player has got the letter M >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家得到了字母M<<<"
 	}
 	"<< hold for 15 seconds until the guards permit us to go >>"
 	{
-		"chi"		"** **"
-	}
-	"<< wait until we know which way can pass >>"
-	{
-		"chi"		"** **"
+		"chi"		">>>坚守15秒直到守卫允许我们通过<<<"
 	}
 	"<< the door will disapper in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>门将会在30秒后消失<<<"
 	}
 	"<< the wall will break in 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>墙会在25秒后碎<<<"
 	}
 	"<< A player has got the letter S >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家得到了字母S<<<"
 	}
 	"<< the wall will break in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>墙会在20秒后碎<<<"
 	}
 	"<< Shooting the guard >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>射击守卫<<<"
 	}
 	"<< The wall will break in 35 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>墙会在35秒之后碎<<<"
 	}
 	"<< A player has got the letter A >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家得到了字母A<<<"
 	}
 	"<< A player has got the letter K >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家得到了字母
 	}
 	"<< hold for 40 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守40秒<<<"
 	}
 	"<< Absolute Purification >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>绝对净化(大转盘)<<<"
 	}
 	"<< Hunting Instinct >>"
 	{
-		"chi"		">>>跳刀<<<"
+		"chi"		">>>狩猎本能(跳刀)<<<"
 	}
 	"<< Sign of Death >>"
 	{
-		"chi"		">>>天坠<<<"
+		"chi"		">>>死亡信号(天坠)<<<"
 	}
 	"<< A player has got the letter I >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家得到了字母I<<<"
 	}
 	"<< the door will open in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>门将会在30秒后开<<<"
 	}
 	"<< defend for 40 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守40秒<<<"
 	}
 	"<< the glass wall will break in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>玻璃墙将会在20秒后碎<<<"
 	}
 	"<< the platform will rise in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>平台将会在10秒后上升<<<"
 	}
 	"<< Flame of Revenge >>"
 	{
@@ -1441,43 +390,43 @@
 	}
 	"<< A player has got a letter A >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一名玩家得到了字母A<<<"
 	}
 	"<< Youve already got all 6 secret letters >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>你已经得到了全部6个隐藏字母<<<"
 	}
 	"<< the final door will open in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>最终的大门将会在30秒后打开<<<"
 	}
 	"<< hold for 15 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守15秒<<<"
 	}
 	"<< Do you think this is over? >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>你认为这就结束了吗<<<"
 	}
 	"<< ... >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>...<<<"
 	}
 	"<< Try to Get to The End !!! >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>尝试走到路的尽头!!!<<<"
 	}
 	"<< Be careful about the abnormal gravity >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>小心低重力<<<"
 	}
 	"<< and also be careful about the wall on your back >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>同时注意身后逐渐逼近的墙<<<"
 	}
 	"<< You only have 10 seconds to get to the end >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>你只有10秒的时间走到最后了<<<"
 	}
 	"<< 5 >>"
 	{
@@ -1501,35 +450,31 @@
 	}
 	"<< The boss appears again !!! >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>boss又一次出现了!!!<<<"
 	}
 	"<< Shooting it and dodge the laser!!>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>跳刀的同时射击boss!!!<<<"
 	}
 	"<< Stage 3 Complete >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>第三关完成<<<"
 	}
 	"<< try to find another end of Stage 3 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>尝试找到另一个结局<<<"
 	}
 	"<< You only have 60 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>你只有60秒的时间<<<"
 	}
 	"<< Stage 3 true end complete>>"
 	{
-		"chi"		"** **"
-	}
-	"<< the final level will in the future >>"
-	{
-		"chi"		"** **"
+		"chi"		">>>第三关真结局完成<<<"
 	}
 	"<< Mega Push >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>超级推力(3连推)<<<"
 	}
 	"sync_version"
 	{
@@ -1537,22 +482,22 @@
 	}
 	"<< special thanks to koyomaple and gneL>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>特别感谢枫哥和冷<<<"
 	}
 	"<< thanks to 93x.net and all test players >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>感谢X社区以及所有测试玩家<<<"
 	}
 	"<< heal used >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>奶使用了<<<"
 	}
 	"<< wait for a moment >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>稍微等一小会<<<"
 	}
 	"<< hold for 55 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>坚守55秒<<<"
 	}
 }
