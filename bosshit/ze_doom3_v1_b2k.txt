@@ -170,4 +170,10 @@
 	{
 		"enable"		"1"
 	}
+	"2087"
+	{
+		"enable"		"0"
+		"hammerid"		"2087"
+		"m_iname"		"physboxRocket&8818"
+	}
 }
