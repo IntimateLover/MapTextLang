@@ -860,4 +860,24 @@
 	{
 		"chi"		"** **"
 	}
+	"Critical hit!"
+	{
+		"chi"		"** **"
+	}
+	"Go! WEEDLE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy WEEDLE used BUG BITE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy WEEDLE used POISON STING!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy BULBSAUR used TACKLE!"
+	{
+		"chi"		"** **"
+	}
 }
