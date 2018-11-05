@@ -2,15 +2,15 @@
 {
 	"** TIP : ESCAPE PATH WILL OPEN BY +USE HANGING LANTERN ON THE WALL **"
 	{
-		"chi"		"** **"
+		"chi"		"**点亮(按e)悬挂在墙壁上的灯笼开启逃亡道路 **"
 	}
 	"** TIP : THERE ARE NO FORCE TELEPORTS **"
 	{
-		"chi"		"** **"
+		"chi"		"**这张地图没有强制传送 **"
 	}
 	"** TIP : IF YOU LATE FOR THE PARTY. FIND AND DIVE LANTERN ON THE GROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你离大部队过远,去寻找地面上的灯笼 **"
 	}
 	"** ZE_ YURILNIER**"
 	{
@@ -18,11 +18,11 @@
 	}
 	"** MAP MADE BY SATOKA **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由SATOKA制作 **"
 	}
 	"** PHASE : FRIGUS **"
 	{
-		"chi"		"** **"
+		"chi"		"**阶段:弗里格斯**"
 	}
 	"** BOTH DOORS OPENING IN 40 SECONDS **"
 	{
@@ -30,7 +30,7 @@
 	}
 	"** TELEPORTER ACTIVATED **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点激活 **"
 	}
 	"** DOORS OPENING IN 45 SECONDS **"
 	{
