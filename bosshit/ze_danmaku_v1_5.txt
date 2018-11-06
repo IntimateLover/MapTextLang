@@ -144,4 +144,46 @@
 		"hammerid"		"1444615"
 		"m_iname"		"random_secret_7"
 	}
+	"1444513"
+	{
+		"enable"		"0"
+		"hammerid"		"1444513"
+		"m_iname"		"random_secret_2"
+	}
+	"925659"
+	{
+		"enable"		"0"
+		"hammerid"		"925659"
+		"m_iname"		"zitem_manipulation_physbox"
+	}
+	"823009"
+	{
+		"enable"		"0"
+		"hammerid"		"823009"
+		"m_iname"		"zitem_ordnance_physbox"
+	}
+	"1167635"
+	{
+		"enable"		"0"
+		"hammerid"		"1167635"
+		"m_iname"		"bulwark"
+	}
+	"221883"
+	{
+		"enable"		"0"
+		"hammerid"		"221883"
+		"m_iname"		"l3_break_item_spawn&8090"
+	}
+	"366858"
+	{
+		"enable"		"0"
+		"hammerid"		"366858"
+		"m_iname"		"l3_eye_of_healing_break_right"
+	}
+	"377244"
+	{
+		"enable"		"0"
+		"hammerid"		"377244"
+		"m_iname"		"l3_eye_of_healing_break_left"
+	}
 }
