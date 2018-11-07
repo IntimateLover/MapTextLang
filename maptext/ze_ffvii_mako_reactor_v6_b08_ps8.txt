@@ -2,102 +2,102 @@
 {
 	"<<< EASY >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：简单**"
 	}
 	"** EARTH Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**土神器已经被拾取**"
 	}
 	"** WIND Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**风神器已经被拾取**"
 	}
 	"** HEAL Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**治疗(奶)神器已经被拾取**"
 	}
 	"< CITY DOOR OPENS IN 30 SECONDS >"
 	{
-		"chi"		"** **"
+		"chi"		"**城市大门还有30秒打开**"
 	}
 	"< CARGO LIFT STARTS IN 5 SECONDS >"
 	{
-		"chi"		"** **"
+		"chi"		"**中门电梯启动剩下5秒**"
 	}
 	"< CITY DOOR OPENS IN 5 SECONDS >"
 	{
-		"chi"		"** **"
+		"chi"		"**城市大门还有5秒打开**"
 	}
 	"** ICE Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**冰神器已经被拾取**"
 	}
 	"** ULTIMA Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**终极神器已经被拾取**"
 	}
 	"** Congratulations! You have beaten [EASY] **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你通过了【简单】难度**"
 	}
 	"<<< NORMAL >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：普通**"
 	}
 	"** BIO Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**剧毒神器已经被拾取**"
 	}
 	"** MIMIC Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**复制神器已经被拾取，复制上一个玩家使用过的神器**"
 	}
 	"** Congratulations! You have beaten [NORMAL] **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你通过了【普通】难度**"
 	}
 	"<<< HARD >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：困难**"
 	}
 	"** ELECTRO Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**电神器已经被拾取**"
 	}
 	"** BARRIER Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**护盾神器已经被拾取**"
 	}
 	"< I understand that youve been looking for me. >"
 	{
-		"chi"		"** **"
+		"chi"		"**我知道你在注视着我**"
 	}
 	"< Only the chosen may survive! >"
 	{
-		"chi"		"** **"
+		"chi"		"**只有被我选中的人，才能幸存**"
 	}
 	"< Say goodbye! >"
 	{
-		"chi"		"** **"
+		"chi"		"**萨菲罗斯使用了Z字漂移斩，不想死的回头打小萨**"
 	}
 	"< Slow! >"
 	{
-		"chi"		"** **"
+		"chi"		"**你没有打败萨菲罗斯，关卡失败**"
 	}
 	"** AQUA Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**水系神器已经被拾取**"
 	}
 	"** Round failed! Zombies have reached the objective! **"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败，僵尸触发了开关**"
 	}
 	"** FIRE Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**火神器已经被拾取**"
 	}
 	"** GRAVITY Materia has been found. **"
 	{
-		"chi"		"** **"
+		"chi"		"**黑洞神器已经被拾取**"
 	}
 }
