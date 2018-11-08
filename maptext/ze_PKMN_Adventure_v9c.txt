@@ -2,11 +2,11 @@
 {
 	"**LEVEL 1**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"**Reach the Battle Tower**"
 	{
-		"chi"		"** **"
+		"chi"		"**到达战斗塔**"
 	}
 	"**Defend for 45 seconds**"
 	{
@@ -18,7 +18,7 @@
 	}
 	"**Security building open**"
 	{
-		"chi"		"** **"
+		"chi"		"**安全房开启了**"
 	}
 	"**Battle Tower doors will open in 60 seconds**"
 	{
@@ -38,7 +38,7 @@
 	}
 	"**Trainer Wally wants to fight**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally想要战斗**"
 	}
 	"**Wally: Go, Kirlia!**"
 	{
@@ -46,15 +46,15 @@
 	}
 	"**Wally: Kirlia, use Shock Wave!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:奇鲁莉安，使用电击波**"
 	}
 	"**We must defeat Kirlia before we die**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须在死之前击败奇鲁莉安**"
 	}
 	"**Kirlia has fainted**"
 	{
-		"chi"		"** **"
+		"chi"		"**奇鲁莉安阵亡了**"
 	}
 	"**Wally: NO! IMPOSSIBLE**"
 	{
@@ -70,7 +70,7 @@
 	}
 	"**Level 2**"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	"**GO TO VIOLET CITY**"
 	{
@@ -146,15 +146,15 @@
 	}
 	"**Falkner: Noctowl, use Whirlwind"
 	{
-		"chi"		"** **"
+		"chi"		"**阿速：猫头夜鹰，使用旋风（远离白色区域）**"
 	}
 	"**Falkner: Noctowl, use Zen Headbutt!"
 	{
-		"chi"		"** **"
+		"chi"		"**阿速：猫头夜鹰，使用思念头槌（左右两边按住W）**"
 	}
 	"**Noctowl has fainted!**"
 	{
-		"chi"		"** **"
+		"chi"		"**猫头夜鹰阵亡了**"
 	}
 	"**Falkner: Noctowl, get back.**"
 	{
@@ -166,15 +166,15 @@
 	}
 	"Falkner: **Pidgeot, Brave Bird!**"
 	{
-		"chi"		"** **"
+		"chi"		"**阿速：比雕，使用勇鸟（中间大跳）”**"
 	}
 	"**Falkner: Pidgeot, use Whirlwind**"
 	{
-		"chi"		"** **"
+		"chi"		"**阿速：比雕，使用旋风（远离白色区域）**"
 	}
 	"**Pidgeot has fainted!**"
 	{
-		"chi"		"** **"
+		"chi"		"**比雕阵亡了**"
 	}
 	"**Falkner: Pidgeot, get back!**"
 	{
@@ -290,7 +290,7 @@
 	}
 	"**Whitney: Miltank, use Rollout!**"
 	{
-		"chi"		"** **"
+		"chi"		"**小茜：大奶罐，使用滚石（躲避石头）**"
 	}
 	"**Whitney: Miltank, use Milk Drink!**"
 	{
@@ -302,7 +302,7 @@
 	}
 	"**Whitney: Miltank, use Attract!**"
 	{
-		"chi"		"** **"
+		"chi"		"**小茜：大奶罐，使用诱惑（左右按住S）**"
 	}
 	"**Whitney: Miltank, use Body Slam!**"
 	{
@@ -310,7 +310,7 @@
 	}
 	"**Miltank has fainted.**"
 	{
-		"chi"		"** **"
+		"chi"		"**大奶罐阵亡了**"
 	}
 	"**Youve defeated Gym Leader Whitney!**"
 	{
@@ -342,7 +342,7 @@
 	}
 	"**Level 3**"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关**"
 	}
 	"WELCOME TO SLATEPORT CITY"
 	{
@@ -354,19 +354,19 @@
 	}
 	"TREES WILL BREAK IN 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒后树消失**"
 	}
 	"***A wild Gastly is comming***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拿到了鬼斯（对人类造成少量伤害）**"
 	}
 	"TREES WILL BREAK IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后树消失**"
 	}
 	"TREES WILL BREAK IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后树小时**"
 	}
 	"ESCAPE FROM SLATEPORT!"
 	{
@@ -378,11 +378,11 @@
 	}
 	"***Player has picked Buizel! (WATER)***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿到了水神器**"
 	}
 	"***Player has picked Chansey! (HEAL)***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿到了奶神器**"
 	}
 	"***Recharge: 80 seconds.***"
 	{
@@ -402,7 +402,7 @@
 	}
 	"***Player has picked Gardevoir! (WALL)***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿到了墙神器**"
 	}
 	"***Recharge: 60 Seconds.**"
 	{
@@ -434,7 +434,7 @@
 	}
 	"PKMN Trainer Wally wants to fight"
 	{
-		"chi"		"** **"
+		"chi"		"**训练师小光想要战斗（请站在斜坡上打boss）**"
 	}
 	"Wally: GO KIRLIA"
 	{
@@ -474,7 +474,7 @@
 	}
 	"**Zombie Ladders Spawned**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸梯子可以爬了**"
 	}
 	"Wally: CROBAT USE TOXIC!"
 	{
@@ -526,7 +526,7 @@
 	}
 	"**SHOOT GROUDON!**"
 	{
-		"chi"		"** **"
+		"chi"		"**射击固拉多**"
 	}
 	"**Groudon used Fissure!**"
 	{
@@ -544,7 +544,7 @@
 	}
 	"**Groudon used Roar!**"
 	{
-		"chi"		"**BOSS方向抵抗推力**"
+		"chi"		"**咆哮（按住）**"
 		"DoorCountDown"		"5"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
@@ -693,7 +693,7 @@
 	}
 	"**Get out of the cave!**"
 	{
-		"chi"		"** **"
+		"chi"		"**从山洞里出来！**"
 	}
 	"**Wally: Good job Gallade lets get back**"
 	{
@@ -741,15 +741,15 @@
 	}
 	"Venus: SKUNTANK, USE TOXIC"
 	{
-		"chi"		"** **"
+		"chi"		"**剧毒（持续掉血）**"
 	}
 	"Ceres: PURUGLY USE AERIAL ACE!"
 	{
-		"chi"		"** **"
+		"chi"		"**燕反（斜刀）**"
 	}
 	"Venus: SKUNTANK, USE NIGHT SLASH!"
 	{
-		"chi"		"** **"
+		"chi"		"**试刀（高低刀）**"
 	}
 	"Venus: Skuntank, return."
 	{
@@ -761,7 +761,7 @@
 	}
 	"Ceres: PURUGLY USE SURPRISE!"
 	{
-		"chi"		"** **"
+		"chi"		"**惊吓（没锤子用）**"
 	}
 	"Ceres: Purugly, get back"
 	{
@@ -873,7 +873,7 @@
 	}
 	"Press the 3 buttons on different islands to continue."
 	{
-		"chi"		"** **"
+		"chi"		"**按下3个处于不同小岛上的按钮来激活路**"
 	}
 	"1ST BARRIER DESTROYED"
 	{
@@ -950,11 +950,11 @@
 	}
 	"Cyrus: Honchkrow use Psychic"
 	{
-		"chi"		"** **"
+		"chi"		"**念力（轻微伤害）**"
 	}
 	"Cyrus: Honchkrow, use Roost!"
 	{
-		"chi"		"** **"
+		"chi"		"**羽休（回血）**"
 	}
 	"Honchkrow has restored 500HP!"
 	{
@@ -970,11 +970,11 @@
 	}
 	"Cyrus: Crobat use Toxic."
 	{
-		"chi"		"** **"
+		"chi"		"**剧毒（持续伤害）**"
 	}
 	"Cyrus: Crobat, use Cross Venom"
 	{
-		"chi"		"**跳刀**"
+		"chi"		"**交叉刀**"
 		"DoorCountDown"		"5"
 	}
 	"Crobat has fainted."
@@ -1047,7 +1047,7 @@
 	}
 	"GIRATINA USED VOID"
 	{
-		"chi"		"**走到平台最前面**"
+		"chi"		"**走到鬼龙正前方**"
 		"DoorCountDown"		"5"
 	}
 	"GO TO THE FRONT HURRY"
@@ -1075,7 +1075,7 @@
 	}
 	"Cyrus: Weavile use Beat Up."
 	{
-		"chi"		"**跳刀**"
+		"chi"		"** **"
 		"DoorCountDown"		"5"
 	}
 	"**Giratina used Dragon Claw**"
@@ -1085,12 +1085,12 @@
 	}
 	"**Arceus used Judgement**"
 	{
-		"chi"		"**头顶黄秋**"
+		"chi"		"**审判(射击头顶橙色的球)**"
 		"DoorCountDown"		"5"
 	}
 	"**Arceus used Roar of Time**"
 	{
-		"chi"		"**躲避蓝色光束并抵抗推力**"
+		"chi"		"**时之咆哮(两个蓝球中间按住W)**"
 	}
 	"**Arceus used Living Earth**"
 	{
@@ -1099,7 +1099,7 @@
 	}
 	"**Arceus used Spacial Rend**"
 	{
-		"chi"		"**跳刀**"
+		"chi"		"**亚空切断(跳刀)**"
 		"DoorCountDown"		"5"
 	}
 }
