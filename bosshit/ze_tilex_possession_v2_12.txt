@@ -314,13 +314,13 @@
 	}
 	"752374"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"752374"
 		"m_iname"		"exholytarget"
 	}
 	"754548"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"754548"
 		"m_iname"		"expain_target"
 	}

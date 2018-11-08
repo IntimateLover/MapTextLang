@@ -240,4 +240,16 @@
 		"hammerid"		"468837"
 		"m_iname"		"Boss_Mini_Hitbox"
 	}
+	"479444"
+	{
+		"enable"		"0"
+		"hammerid"		"479444"
+		"m_iname"		"DestinyBridge"
+	}
+	"479729"
+	{
+		"enable"		"0"
+		"hammerid"		"479729"
+		"m_iname"		"FinalPlatform"
+	}
 }
