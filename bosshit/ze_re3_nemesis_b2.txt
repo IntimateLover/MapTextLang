@@ -84,4 +84,22 @@
 		"hammerid"		"3984892"
 		"m_iname"		"stage3_gaz_door"
 	}
+	"5079219"
+	{
+		"enable"		"0"
+		"hammerid"		"5079219"
+		"m_iname"		"Nemesis_Vent"
+	}
+	"1384285"
+	{
+		"enable"		"0"
+		"hammerid"		"1384285"
+		"m_iname"		"restoran_door"
+	}
+	"3415414"
+	{
+		"enable"		"0"
+		"hammerid"		"3415414"
+		"m_iname"		"gaz_window"
+	}
 }
