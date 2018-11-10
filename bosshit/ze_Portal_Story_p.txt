@@ -30,4 +30,10 @@
 		"hammerid"		"623981"
 		"m_iname"		"NPCTurretBreakable&3491"
 	}
+	"56804"
+	{
+		"enable"		"1"
+		"hammerid"		"56804"
+		"m_iname"		"glados_body"
+	}
 }

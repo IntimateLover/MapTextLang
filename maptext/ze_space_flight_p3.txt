@@ -84,4 +84,16 @@
 	{
 		"chi"		"** **"
 	}
+	"First shuttle departing in 1 minute and 20 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Second shuttle departing in 2 minutes !"
+	{
+		"chi"		"** **"
+	}
+	"You were too late to escape ! The nuke went off !"
+	{
+		"chi"		"** **"
+	}
 }
