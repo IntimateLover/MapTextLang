@@ -7,6 +7,7 @@
 	"**ZE_RE3_NEMESIS**"
 	{
 		"chi"		"**地图制作：RoKu 地图翻译：清新的二哈♪**"
+		"command"		"sv_gravity 800"
 	}
 	"**WARMUP ROUND**"
 	{
@@ -216,6 +217,7 @@
 	"**Train departs in 10 secs**"
 	{
 		"chi"		"**列车将在10s后启动**"
+		"command"		"sv_gravity 1000"
 	}
 	"**The Ending A was completed**"
 	{
