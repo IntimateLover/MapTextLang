@@ -156,4 +156,24 @@
 	{
 		"chi"		"** 选择最后一张地图**"
 	}
+	"* * * Opening bunker doors * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Doors will close in 25 seconds* * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * If zombies get inside either bunker, all humans will be punished! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Doors will close in 5 seconds* * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Last grate breaking in 25 seconds! * * *"
+	{
+		"chi"		"** **"
+	}
 }

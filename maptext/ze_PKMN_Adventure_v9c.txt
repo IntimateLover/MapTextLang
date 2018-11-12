@@ -1102,4 +1102,36 @@
 		"chi"		"**亚空切断(跳刀)**"
 		"DoorCountDown"		"5"
 	}
+	"Cyrus: Crobat use Antonish."
+	{
+		"chi"		"** **"
+	}
+	"GIRATINA HAS FAINTED!"
+	{
+		"chi"		"** **"
+	}
+	"**BACKPEDAL**"
+	{
+		"chi"		"** **"
+	}
+	"**WATCHOUT WITH CROBAT**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBIES TELEPORTED**"
+	{
+		"chi"		"** **"
+	}
+	"**SHOOT CROBAT TO CLEAR THE PATH**"
+	{
+		"chi"		"** **"
+	}
+	"**DODGE THE AERIAL ACES**"
+	{
+		"chi"		"** **"
+	}
+	"Cyrus: Crobat, use Cross Venom."
+	{
+		"chi"		"** **"
+	}
 }

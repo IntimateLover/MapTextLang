@@ -12,4 +12,28 @@
 	{
 		"chi"		"** **"
 	}
+	"30s left"
+	{
+		"chi"		"** **"
+	}
+	"hold 30s"
+	{
+		"chi"		"** **"
+	}
+	"after 20s,teleport AFK"
+	{
+		"chi"		"** **"
+	}
+	"after 40s this will break"
+	{
+		"chi"		"** **"
+	}
+	"10s left"
+	{
+		"chi"		"** **"
+	}
+	"hold 35s"
+	{
+		"chi"		"** **"
+	}
 }

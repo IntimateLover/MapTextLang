@@ -164,7 +164,7 @@
 	}
 	"583084"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"583084"
 		"m_iname"		"Arceus"
 	}
@@ -224,7 +224,7 @@
 	}
 	"384380"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"384380"
 		"m_iname"		"Giratina"
 	}
@@ -302,7 +302,7 @@
 	}
 	"184214"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"184214"
 		"m_iname"		"Groudon"
 	}
@@ -362,7 +362,7 @@
 	}
 	"802521"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"802521"
 		"m_iname"		"Level1_KirliaBreakable"
 	}
@@ -374,19 +374,19 @@
 	}
 	"837706"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"837706"
 		"m_iname"		"Level1_Noctowl"
 	}
 	"837709"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"837709"
 		"m_iname"		"Level1_Pidgeot"
 	}
 	"836667"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"836667"
 		"m_iname"		"Miltank"
 	}
@@ -416,7 +416,7 @@
 	}
 	"909387"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"909387"
 		"m_iname"		"kirlia"
 	}
@@ -428,7 +428,7 @@
 	}
 	"909384"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"909384"
 		"m_iname"		"Crobat"
 	}
@@ -500,13 +500,13 @@
 	}
 	"309863"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"309863"
 		"m_iname"		"Purugly"
 	}
 	"309852"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"309852"
 		"m_iname"		"Skuntank"
 	}
@@ -536,7 +536,7 @@
 	}
 	"353418"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"353418"
 		"m_iname"		"Honchkrow"
 	}
@@ -548,7 +548,7 @@
 	}
 	"353376"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"353376"
 		"m_iname"		"Weavile"
 	}
@@ -571,5 +571,23 @@
 	"353976"
 	{
 		"enable"		"0"
+	}
+	"385417"
+	{
+		"enable"		"0"
+		"hammerid"		"385417"
+		"m_iname"		"giratina_darkforce_ladder"
+	}
+	"385428"
+	{
+		"enable"		"0"
+		"hammerid"		"385428"
+		"m_iname"		"giratina_darkforce_ladder2"
+	}
+	"385492"
+	{
+		"enable"		"0"
+		"hammerid"		"385492"
+		"m_iname"		"darkforce_platform_right"
 	}
 }
