@@ -2,15 +2,15 @@
 {
 	"### MAP   BY WILD BANAN###"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作: WILD BANAN **"
 	}
 	"### BIG THANKS TO J3WDICE,  MOLTARD , SYOUDOUS , DEMON ###"
 	{
-		"chi"		"** **"
+		"chi"		"**特别鸣谢: J3WDICE,  MOLTARD , SYOUDOUS , DEMON**"
 	}
 	"###  TELEPORT IN 1 MINUTE###"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒后传送**"
 	}
 	"### MAP  BY WILD BANAN###"
 	{
@@ -18,11 +18,11 @@
 	}
 	"###  TELEPORT IN 1 MINUTE ###"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒后传送 **"
 	}
 	"<<PLAYER HAS PICKED UP  SHIELD  OF ICE>>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<一位玩家捡起冰盾>> **"
 	}
 	"<<ZOMBIES TELEPORT IN 1O SECONDS>>"
 	{
@@ -66,15 +66,51 @@
 	}
 	"<<DRAGON IS DEAD>>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<龙死了>>**"
 	}
 	"<< MAY THE GUARDIANS PROTECT YOU>>"
 	{
-		"chi"		"** **"
+		"chi"		"** <<愿守护者保护你>>**"
 	}
 	"<< RUN TO THE BLUE TELEPORT>>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<快去蓝色传送门>> **"
+	}
+	"<< DONT LET ZOMBIES GET INSIDE THE TEMPLE>>"
+	{
+		"chi"		"**<<不要让僵尸进入神庙>> **"
+	}
+	"<<ZOMBIES TELEPORT AHEAD!!!! CLIMP UP FAST>>"
+	{
+		"chi"		"**<<僵尸传送提前了!!! 赶快往上爬>> **"
+	}
+	"<<BOSS USED HELL'S FIRE >>"
+	{
+		"chi"		"**<<boss使用地狱之火>> **"
+	}
+	"<<BOSS USED  SHOCKWAVE>>"
+	{
+		"chi"		"**<<boss使用冲击波(按住w)>> **"
+	}
+	"<<BOSS USED PULL>>"
+	{
+		"chi"		"**<<boss使用吸(按住s)>> **"
+	}
+	"<< ZOMBIES TELEPORTED, DEFEND>>"
+	{
+		"chi"		"** <<僵尸传送了,防守>> **"
+	}
+	"<< SHOOT THAT DONAUGHT>>"
+	{
+		"chi"		"**<<开枪射击Donaught>> **"
+	}
+	"**TROLL LASER INCOMNG!!!**"
+	{
+		"chi"		"**巨魔刀来临!! **"
+	}
+	"<<WAIT FOR SOMETING TO HAPPEN, DONT FAP --  STAY ALERT>>"
+	{
+		"chi"		"**<<等待什么事情发生，不要迷恋蛇图 -- 保持警惕>> **"
 	}
 	"sync_version"
 	{
