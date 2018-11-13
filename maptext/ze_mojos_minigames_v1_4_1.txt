@@ -6,7 +6,7 @@
 	}
 	"* * * If you dont complete a map objective you will take 20% of your health as UNHEALABLE DAMAGE - try to play by the rules * * *"
 	{
-		"chi"		"**如果你未完成地图目标.你会受到20%不可恢复的伤害---尽力遵守规则 **"
+		"chi"		"**如果你未完成地图目标.你会受到百分之二十不可恢复的伤害---尽力遵守规则 **"
 	}
 	"* * * BOUNCEBOX!* * *"
 	{
@@ -90,7 +90,7 @@
 	}
 	"* * * DEEP LEARNING!* * *"
 	{
-		"chi"		"** **"
+		"chi"		"**深度学习! **"
 	}
 	"* * * A learning experience from the depths of the land * * *"
 	{
@@ -158,22 +158,42 @@
 	}
 	"* * * Opening bunker doors * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**打开燃料库 **"
 	}
 	"* * * Doors will close in 25 seconds* * *"
 	{
-		"chi"		"** **"
+		"chi"		"**大门在25秒后关闭 **"
 	}
 	"* * * If zombies get inside either bunker, all humans will be punished! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**如果僵尸在任意一个燃料库内，所有人类都会受到惩罚**"
 	}
 	"* * * Doors will close in 5 seconds* * *"
 	{
-		"chi"		"** **"
+		"chi"		"**大门5秒后关闭 **"
 	}
 	"* * * Last grate breaking in 25 seconds! * * *"
 	{
+		"chi"		"**格栅在25秒后破碎! **"
+	}
+	" * * * Time for the mandatory LASERS!* * *"
+	{
+		"chi"		"**跳刀时间! **"
+	}
+	"* * * Humans get x3 HP - if you lose it you die! * * *"
+	{
+		"chi"		"**人类获得三倍血量-如果你失败了你会死亡!**"
+	}
+	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+	{
+		"chi"		"**地图第一轮 - 10秒后重新开始**"
+	}
+	"* * * CMON COLLEGE BOY * * *"
+	{
 		"chi"		"** **"
+	}
+	"* * * BELIEVE * * *"
+	{
+		"chi"		"**相信自己 **"
 	}
 }
