@@ -52,6 +52,10 @@
 	{
 		"chi"		"**再等10秒 **"
 	}
+	"**Way will open in 15 seconds**"
+	{
+		"chi"		"**道路在15秒后开启 **"
+	}
 	"**Sexy star will fly in 10 seconds**"
 	{
 		"chi"		"**性感星星在10秒后飞走 **"
@@ -131,7 +135,7 @@
 	}
 	"**[Commander] Find control panel and switch it on**"
 	{
-		"chi"		"**[指挥官]:找到控制板，打开它 **"
+		"chi"		"**[指挥官]:找到控制台，打开它 **"
 	}
 	"**The final gate will open in 10 seconds**"
 	{
@@ -139,7 +143,7 @@
 	}
 	"**[Commander] Their informant no longer threatens us**"
 	{
-		"chi"		"**[指挥官]:他们的告密者现在对我们没有威胁了 **"
+		"chi"		"**[指挥官]:佐助已死，他们的告密者现在对我们没有威胁了 **"
 	}
 	"**[Commander] Now we can attack their base**"
 	{
@@ -175,7 +179,7 @@
 	}
 	"**[Commander] Find control panel and  turn it on**"
 	{
-		"chi"		"**[指挥官]:找到控制板，打开它 **"
+		"chi"		"**[指挥官]:找到控制台，打开它 **"
 	}
 	"**Piter is using shield**"
 	{
@@ -255,7 +259,7 @@
 	}
 	"**Sasuke crate kage bunshin"
 	{
-		"chi"		"**佐助制造了影分身 **"
+		"chi"		"**佐助召唤了影分身 **"
 	}
 	"**Sasuke is using Chidori Nagashi**"
 	{
@@ -267,7 +271,7 @@
 	}
 	"**[Commander] Find control panel and switch in on**"
 	{
-		"chi"		"**[指挥官]:找到控制板，打开它 **"
+		"chi"		"**[指挥官]:找到控制台，打开它 **"
 	}
 	"**[Commander] We're almost there, Defend!**"
 	{
@@ -280,6 +284,19 @@
 	"**Way will open in 8 seconds**"
 	{
 		"chi"		"**道路在8秒后开启 **"
+		
+	}
+	"**Door will open in 10 seconds**"
+	{
+		"chi"		"**大门10秒后开启 **"
+	}
+	"**Door will open in 10 seconds**"
+	{
+		"chi"		"**大门10秒后开启 **"
+	}
+	"**Door will open in 10 seconds**"
+	{
+		"chi"		"**大门10秒后开启 **"
 	}
 	"**[Commander] Was it successful?**"
 	{
@@ -296,5 +313,90 @@
 	"**[Commander] We have to open the door somehow, defend this room 15 seconds**"
 	{
 		"chi"		"**[指挥官]:我们需要开门，守住这个房间15秒 **"
+	}
+	"**[Commander] Remember left door, left door!**"
+	{
+		"chi"		"**[指挥官]:记住是左边的门，左边的门!**"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**传送在20秒后开启 **"
+	}
+	"**Way will open in 20 seconds**"
+	{
+		"chi"		"**道路在20秒后开启 **"
+	}
+	"**Door will open in 10 seconds**"
+	{
+		"chi"		"**大门在10秒后开启 **"
+	}
+	"**[Commander] We're almost there, Defend!**"
+	{
+		"chi"		"**[指挥官]:我们快到了，防守！ **"
+	}
+	"**Door will open in 15 seconds**"
+	{
+		"chi"		"**大门在15秒后开启**"
+	}
+	"**Way will open in 5 seconds**"
+	{
+		"chi"		"**道路在5秒后开启 **"
+		
+	}
+	"**Wall will break in 10 seconds**"
+	{
+		"chi"		"**墙在10秒后破碎 **"
+	}
+	"**Door will open in 15 seconds**"
+	{
+		"chi"		"**大门在15秒后开启**"
+	}
+	"**Door will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后开启 **"
+	}
+	"**Door will open in 10 seconds**"
+	{
+		"chi"		"**大门在10秒后开启 **"
+	}
+	"**Door will open in 30 seconds**"
+	{
+		"chi"		"**大门在30秒后开启 **"
+	}
+	"**Sasuke is using Chidori**"
+	{
+		"chi"		"**佐助使用了千鸟 **"
+	}
+	"**Way will open in 10 seconds**"
+	{
+		"chi"		"**道路在10秒后开启 **"
+	}
+	"**Way will open in 10 seconds**"
+	{
+		"chi"		"**道路在10秒后开启 **"
+	}
+	"**Way will open in 10 seconds**"
+	{
+		"chi"		"**道路在10秒后开启 **"
+	}
+	"**Way will open in 10 seconds**"
+	{
+		"chi"		"**道路在10秒后开启 **"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**传送在20秒后开启 **"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**传送在20秒后开启 **"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**传送在20秒后开启 **"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**传送在20秒后开启 **"
 	}
 }
