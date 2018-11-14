@@ -74,19 +74,19 @@
 	}
 	"<<< Ultra Beam >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**终极（远离头顶红色区域）**"
 	}
 	"<<< Ominous Wind >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**妖风（面朝boss按住W）**"
 	}
 	"<<< Ramming Bolts >>>"
 	{
-		"chi"		">>>旋转激光<<<"
+		"chi"		">>>旋转激光（跳绳）<<<"
 	}
 	"<<< Spinning Pushing Bolts >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**旋转闪电（中间偏后按住）**"
 	}
 	"<<< Zombies teleport in 20 seconds! >>>"
 	{
@@ -194,11 +194,11 @@
 	}
 	"<<< Almighty Pull >>>"
 	{
-		"chi"		">>>吸<<<"
+		"chi"		">>>侧吸<<<"
 	}
 	"<<< Electric Cut >>>"
 	{
-		"chi"		">>>激光切割<<<"
+		"chi"		">>>激光切割(一跳一蹲)<<<"
 	}
 	"<<< Light Beam >>>"
 	{
