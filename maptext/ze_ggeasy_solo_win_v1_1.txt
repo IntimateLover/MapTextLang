@@ -102,7 +102,7 @@
 	}
 	"**[Commander] Where are we? it's a camp, I think**"
 	{
-		"chi"		"**[指挥官]:我们在哪？我想这是一个营地 **"
+		"chi"		"**[指挥官]:我们在哪?我想这是一个营地 **"
 	}
 	"**[Commander] Thanks to the information obtained**"
 	{
@@ -116,7 +116,7 @@
 	{
 		"chi"		"**[指挥官]:我们要摧毁他们的数据库，做到这点我们需要先找到他们的控制系统然后摧毁它 **"
 	}
-	"**[Commander] so that the piter will have no choice and will show up** "
+	"**[Commander] so that the piter will have no choice and will show up**"
 	{
 		"chi"		"**[指挥官]:皮特最后还是不得不显身 **"
 	}
@@ -290,14 +290,6 @@
 	{
 		"chi"		"**大门10秒后开启 **"
 	}
-	"**Door will open in 10 seconds**"
-	{
-		"chi"		"**大门10秒后开启 **"
-	}
-	"**Door will open in 10 seconds**"
-	{
-		"chi"		"**大门10秒后开启 **"
-	}
 	"**[Commander] Was it successful?**"
 	{
 		"chi"		"**[指挥官]:成功了？ **"
@@ -332,7 +324,7 @@
 	}
 	"**[Commander] We're almost there, Defend!**"
 	{
-		"chi"		"**[指挥官]:我们快到了，防守！ **"
+		"chi"		"**[指挥官]:我们快到了,防守！**"
 	}
 	"**Door will open in 15 seconds**"
 	{
@@ -371,32 +363,14 @@
 	{
 		"chi"		"**道路在10秒后开启 **"
 	}
-	"**Way will open in 10 seconds**"
-	{
-		"chi"		"**道路在10秒后开启 **"
-	}
-	"**Way will open in 10 seconds**"
-	{
-		"chi"		"**道路在10秒后开启 **"
-	}
-	"**Way will open in 10 seconds**"
-	{
-		"chi"		"**道路在10秒后开启 **"
-	}
+	
 	"**Teleport will enable in 20 seconds**"
 	{
 		"chi"		"**传送在20秒后开启 **"
 	}
-	"**Teleport will enable in 20 seconds**"
+	"**Way will open in 25 seconds**"
 	{
-		"chi"		"**传送在20秒后开启 **"
-	}
-	"**Teleport will enable in 20 seconds**"
-	{
-		"chi"		"**传送在20秒后开启 **"
-	}
-	"**Teleport will enable in 20 seconds**"
-	{
-		"chi"		"**传送在20秒后开启 **"
+		"chi"		"**道路在25秒后开启 **"
+		
 	}
 }
