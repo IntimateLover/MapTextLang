@@ -168,4 +168,10 @@
 		"hammerid"		"237334"
 		"m_iname"		"Level3_Sign"
 	}
+	"237302"
+	{
+		"enable"		"0"
+		"hammerid"		"237302"
+		"m_iname"		"Level1_Sign"
+	}
 }
