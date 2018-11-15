@@ -10,7 +10,11 @@
 	}
 	"###  TELEPORT IN 1 MINUTE###"
 	{
-		"chi"		"**60秒后传送**"
+		"chi"		"**六十秒后传送**"
+	}
+	"###  TELEPORT IN 1 MINUTE###"
+	{
+		"chi"		"**六十秒后传送**"
 	}
 	"### MAP  BY WILD BANAN###"
 	{
@@ -18,7 +22,7 @@
 	}
 	"###  TELEPORT IN 1 MINUTE ###"
 	{
-		"chi"		"** 60秒后传送 **"
+		"chi"		"**60秒后传送 **"
 	}
 	"<<PLAYER HAS PICKED UP  SHIELD  OF ICE>>"
 	{
@@ -84,7 +88,7 @@
 	{
 		"chi"		"**<<僵尸传送提前了!!! 赶快往上爬>> **"
 	}
-	"<<BOSS USED HELL'S FIRE >>"
+	"<<BOSS USED HELL'S FIRE >> "
 	{
 		"chi"		"**<<boss使用地狱之火>> **"
 	}
@@ -112,8 +116,36 @@
 	{
 		"chi"		"**<<等待什么事情发生，不要迷恋蛇图 -- 保持警惕>> **"
 	}
+	"<<WALL BREAKS IN 30 SECONDS>>"
+	{
+		"chi"		"**<<墙在三十秒后破碎>> **"
+	}
 	"sync_version"
 	{
 		"syncvalue"		"52828"
+	}
+	"<<BOSS USED  SHOCKWAVE >>"
+	{
+		"chi"		"**<<boss使用冲击波(按住w)>> **"
+	}
+	"<<LASER! LASER!  LASER!>>"
+	{
+		"chi"		"**回头看刀!**"
+	}
+	"###  TELEPORT IN 40 SECONDS###"
+	{
+		"chi"		"**四十秒后传送 **"
+	}
+	"###  TELEPORT IN 40 SECONDS###"
+	{
+		"chi"		"**四十秒后传送 **"
+	}
+	"###  TELEPORT IN 40 SECONDS###"
+	{
+		"chi"		"**40s后传送 **"
+	}
+	"<<FALL BACK FAST>>"
+	{
+		"chi"		"**<<赶快往后退>>**"
 	}
 }
