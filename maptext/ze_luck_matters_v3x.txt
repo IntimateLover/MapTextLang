@@ -103,10 +103,12 @@
 	"***3***"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"-1"
 	}
 	"***2***"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"-1"
 	}
 	"***1***"
 	{
@@ -251,7 +253,7 @@
 	{
 		"syncvalue"		"64026"
 	}
-	"***AFK Teleport in 10s***"
+	"***AFK TELEPORT IN 10s***"
 	{
 		"chi"		"** **"
 	}
