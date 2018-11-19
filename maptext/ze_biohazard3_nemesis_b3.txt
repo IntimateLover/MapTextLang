@@ -222,7 +222,7 @@
 	}
 	"**It remains only to fight off the zombies and we are saved**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸被消灭了，我们得救了... **"
 	}
 	"**A player has picked up the Flamethrower**"
 	{
@@ -262,62 +262,70 @@
 	}
 	"**The Ending A was completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**A结局达成... **"
 	}
 	"**HARD MODE**"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：老兵模式 **"
 	}
 	"**Secret doors now open**"
 	{
-		"chi"		"** **"
+		"chi"		"**枪械库被开启... **"
 	}
 	"**The shotgun has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**已取得霰弹枪 **"
 	}
 	"**HARD mode was beaten. Unlocking STARS mode **"
 	{
-		"chi"		"** **"
+		"chi"		"**老兵模式通关，已解锁佣兵模式... **"
 	}
 	"**S.T.A.R.S MODE**"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：佣兵模式 **"
 	}
 	"**The knife has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**已取得匕首 **"
 	}
 	"**Now press second button**"
 	{
-		"chi"		"** **"
+		"chi"		"**控制器复原... **"
 	}
 	"**Control panel now ON**"
 	{
-		"chi"		"** **"
+		"chi"		"**按下第二个开关... **"
 	}
 	"**Shotgun is out of ammo**"
 	{
-		"chi"		"** **"
+		"chi"		"**霰弹枪子弹用尽 **"
 	}
 	"**The final elevator leaves in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在20s后离开 **"
 	}
 	"**This is the last point wait for the evacuation**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们到达了最后的撤离点... **"
 	}
 	"**Hurry up or die**"
 	{
-		"chi"		"** **"
+		"chi"		"**死或生！ **"
 	}
 	"**Congratulations you beat the map! More stages will come soon...**"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你通关了这张地图！更多关卡即将出炉... **"
 	}
 	"**The Ending B was completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**B结局达成... **"
+	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"chi"		"**调关房：”管理员变更了地图难度“**"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"chi"		"**调关房：“管理员处死了所有人”**"
 	}
 }
