@@ -174,7 +174,7 @@
 	}
 	"**Raccoon Press door will open in 5 seconds**"
 	{
-		"chi"		"**防守5s进入浣熊市管理大楼 **"
+		"chi"		"**二楼办公室大门将在5s后打开 **"
 	}
 	"**The green crystal was picked up**"
 	{
@@ -222,7 +222,7 @@
 	}
 	"**It remains only to fight off the zombies and we are saved**"
 	{
-		"chi"		"**僵尸被消灭了，我们得救了... **"
+		"chi"		"**我们摆脱了僵尸，得救了... **"
 	}
 	"**A player has picked up the Flamethrower**"
 	{
