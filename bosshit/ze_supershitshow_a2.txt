@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&9029"
+		"m_iname"		"ChopperRotator&6372"
 	}
 	"20547"
 	{
@@ -82,7 +82,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82282"
-		"m_iname"		"Ladder&8574"
+		"m_iname"		"Ladder&6272"
 	}
 	"82299"
 	{
@@ -142,7 +142,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82726"
-		"m_iname"		"ProjectilePulverizerPhysics&845"
+		"m_iname"		"ProjectilePulverizerPhysics&639"
 	}
 	"35519"
 	{
@@ -166,7 +166,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82904"
-		"m_iname"		"FirePhysicsCore&8073"
+		"m_iname"		"FirePhysicsCore&6315"
 	}
 	"183393"
 	{
@@ -238,31 +238,31 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&8994"
+		"m_iname"		"FlyingRatPhys&6339"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&9002"
+		"m_iname"		"TowerPhys&6347"
 	}
 	"275194"
 	{
 		"enable"		"0"
 		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&8835"
+		"m_iname"		"KleinerPhys&6323"
 	}
 	"282149"
 	{
 		"enable"		"0"
 		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&8"
+		"m_iname"		"ItemZombieMonsterChickenBreak&6"
 	}
 	"303199"
 	{
 		"enable"		"0"
 		"hammerid"		"303199"
-		"m_iname"		"DoorwayDoor&1005"
+		"m_iname"		"DoorwayDoor&6334"
 	}
 	"313386"
 	{
@@ -328,7 +328,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"200904"
-		"m_iname"		"MissilePhysbox&8827"
+		"m_iname"		"MissilePhysbox&6421"
 	}
 	"281426"
 	{
