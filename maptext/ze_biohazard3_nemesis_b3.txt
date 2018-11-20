@@ -46,7 +46,7 @@
 	}
 	"**The shortest way to the train station is blocked**"
 	{
-		"chi"		"**到达火车站最近的路被堵死了 **"
+		"chi"		"**到达火车站最近的路被堵死了... **"
 	}
 	"**FALL BACK**"
 	{
@@ -110,7 +110,7 @@
 	}
 	"**This is the crystal from the city hall entrance**"
 	{
-		"chi"		"**这是浣熊市通行处的水晶 **"
+		"chi"		"**这是浣熊市通行处的水晶... **"
 	}
 	"**But what is he doing here?**"
 	{
@@ -126,7 +126,7 @@
 	}
 	"**The remote control of the doors was repaired**"
 	{
-		"chi"		"**控制按钮已经修好了 **"
+		"chi"		"**正在修理货运电梯... **"
 	}
 	"**5 SECONDS LEFT**"
 	{
