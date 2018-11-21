@@ -110,7 +110,7 @@
 	}
 	"253703"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"253703"
 		"m_iname"		"i_npc_hp_1"
 	}

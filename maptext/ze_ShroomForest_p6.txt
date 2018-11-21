@@ -51,6 +51,7 @@
 	"*** WAIT TILL THAT WALL BREAKS ***"
 	{
 		"chi"		"**等待墙壁破碎 **"
+		"DoorCountDown"		"30"
 	}
 	"*** WALL IS BROKEN RUUUUUUN!! ***"
 	{

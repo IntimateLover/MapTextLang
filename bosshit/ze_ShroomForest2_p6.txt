@@ -20,7 +20,7 @@
 	}
 	"1648"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1648"
 		"m_iname"		"B1_Ghost"
 	}
@@ -98,7 +98,7 @@
 	}
 	"1288017"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1288017"
 		"m_iname"		"Part2_Satan_Phys"
 	}

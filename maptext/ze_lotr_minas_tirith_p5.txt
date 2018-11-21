@@ -27,22 +27,27 @@
 	"** Tip 1 : press +use on pickable objects to build barricades **"
 	{
 		"chi"		"**提示1：按E键可设置路障 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 2 : reach and win the end of a stage to level up **"
 	{
 		"chi"		"**提示2：到达并赢得胜利以解锁新关卡 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 3 : take items at zombie and human shops in spawn **"
 	{
 		"chi"		"**提示3：在僵尸和人类神器点可以拿到神器 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 4 : your current level is your score divided by 100 approximately **"
 	{
 		"chi"		"**提示4：你目前的神器等级是你的分数除以100 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 5 : barricades health depends on the size and material **"
 	{
 		"chi"		"**提示5：路障的坚固程度取决于它的大小和所用的材料 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
 	{
@@ -51,14 +56,17 @@
 	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
 	{
 		"chi"		"**提示7：卫兵可以阻拦僵尸，你可以通过他们射击僵尸 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
 		"chi"		"**提示8：僵尸的神器中梯子和炸弹是很强大的神器，你必须杀死拿这些神器的僵尸 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
 	{
 		"chi"		"**提示9：你可以把路障放在卫兵的身边以获得最大的功效 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
 	{
@@ -71,10 +79,12 @@
 	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
 	{
 		"chi"		"**提示11：炎魔的吼叫会治愈并增加附近僵尸的速度 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
 	{
 		"chi"		"**提示12：第四关WC在第二个塔的顶部（在木坡道后右转） **"
+		"DoorCountDown"		"-1"
 	}
 	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
 	{

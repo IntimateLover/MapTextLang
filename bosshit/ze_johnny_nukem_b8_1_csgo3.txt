@@ -80,7 +80,7 @@
 	}
 	"593876"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"593876"
 		"m_iname"		"stage1_shit_trap"
 	}
@@ -140,7 +140,7 @@
 	}
 	"779384"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"779384"
 		"m_iname"		"stage2_shit_trap"
 	}
@@ -182,7 +182,7 @@
 	}
 	"593847"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"593847"
 		"m_iname"		"stage3_Shit_trap"
 	}
