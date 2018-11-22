@@ -34,19 +34,19 @@
 	}
 	"**TELEPORTING EVERYONE INSIDE IN 5 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送所有人 **"
 	}
 	"**Trainer Wally wants to fight**"
 	{
-		"chi"		"**Wally想要战斗**"
+		"chi"		"**训练家Wally想要战斗**"
 	}
 	"**Wally: Go, Kirlia!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:上吧,奇鲁莉安! **"
 	}
 	"**Wally: Kirlia, use Shock Wave!**"
 	{
-		"chi"		"**Wally:奇鲁莉安，使用电击波**"
+		"chi"		"**Wally:奇鲁莉安，使用电击波!**"
 	}
 	"**We must defeat Kirlia before we die**"
 	{
@@ -58,15 +58,15 @@
 	}
 	"**Wally: NO! IMPOSSIBLE**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:不可能 **"
 	}
 	"**Wally: I WILL BE BACK!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:我会回来的! **"
 	}
 	"**LEVEL 1 Completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成 **"
 	}
 	"**Level 2**"
 	{
@@ -86,11 +86,11 @@
 	}
 	"**ROCK DESTROYED, GO TO VIOLET CITY**"
 	{
-		"chi"		"**延时被摧毁，进入紫罗兰之城**"
+		"chi"		"**岩石被摧毁，进入紫罗兰市**"
 	}
 	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 40 SECONDS**"
 	{
-		"chi"		"**紫罗兰之城的入口40秒后开启**"
+		"chi"		"**紫罗兰市的入口40秒后开启**"
 	}
 	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 10 SECONDS**"
 	{
@@ -98,11 +98,11 @@
 	}
 	"**Welcome to Violet City**"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到 紫罗兰市 **"
 	}
 	"**Head to the Gym**"
 	{
-		"chi"		"**前往健身房**"
+		"chi"		"**前往道馆**"
 	}
 	"**Teleport will be enabled in 15 seconds"
 	{
@@ -110,31 +110,31 @@
 	}
 	"**Falkner: Hello challengers..."
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:你们好,挑战者 **"
 	}
 	"**Falkner: Im Falkner, The Violet Pokemon Gym leader!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:我是Falkner,紫罗兰市道馆首领 **"
 	}
 	"**Falkner: People say you can clip flying-type Pokemons wings with a jolt of electricity... **"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:人们说你能用电流剪短飞行系神奇宝贝的翅膀... **"
 	}
 	"**Falkner: I wont allow such insult to bird Pokemon.**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:我不允许这样凌辱鸟类神奇宝贝. **"
 	}
 	"**Falkner: Ill show you the real power of the magnificent bird Pokemon!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:我会向你展示伟大的鸟类神奇宝贝的力量! **"
 	}
 	"**Gym Leader Falkner wants to fight!**"
 	{
-		"chi"		"** **"
+		"chi"		"**道馆首领Falkner向你发出挑战! **"
 	}
 	"**Falkner: Go Noctowl!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:上吧,猫头夜鹰! **"
 	}
 	"**NO COWARDS ALLOWED**"
 	{
@@ -158,11 +158,11 @@
 	}
 	"**Falkner: Noctowl, get back.**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:回来吧,猫头夜鹰. **"
 	}
 	"**Falkner: Go, Pidgeot!"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:上吧,比雕! **"
 	}
 	"Falkner: **Pidgeot, Brave Bird!**"
 	{
@@ -178,31 +178,31 @@
 	}
 	"**Falkner: Pidgeot, get back!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:回来吧,比雕! **"
 	}
 	"**Falkner: Well, I didnt expected that...**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:好吧,我没预料到这个结果... **"
 	}
 	"**Falkner: As a token of your victory, take the Zehpyr Badge**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:作为你胜利的奖励,拿上泽普尔徽章 **"
 	}
 	"**Falkner: The Zephyr Badge will allow you to Cut the tree path down violet city**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:泽普尔徽章可以让你砍掉紫罗兰市道路上的树 **"
 	}
 	"**Falkner: Take the teleporter and go to Goldenrod City**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:去传送器那里前往金柱市**"
 	}
 	"**Falkner: Whitney is waiting for you there**"
 	{
-		"chi"		"** **"
+		"chi"		"**Falkner:惠特尼在那里等你们 **"
 	}
 	"**We dont have the HM-Rock Smash**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们没有HM-碎岩术 **"
 	}
 	"**Defend here for 90 Seconds**"
 	{
@@ -214,19 +214,19 @@
 	}
 	"**Zombies trapped**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸被困住了 **"
 	}
 	"**GO INSIDE OF UNION CAVE**"
 	{
-		"chi"		"** **"
+		"chi"		"**快到联合洞穴里面 **"
 	}
 	"**Welcome to Azalea Town**"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到 阿扎莱阿镇**"
 	}
 	"**Head towards the security building**"
 	{
-		"chi"		"** **"
+		"chi"		"**前往安全大楼 **"
 	}
 	"**It will open in 15 seconds"
 	{
@@ -234,11 +234,11 @@
 	}
 	"**You can heal by standing near the doors of the PKMN Center**"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以站在神奇宝贝中心门口回血 **"
 	}
 	"**Illex Forest exit is unavaible.**"
 	{
-		"chi"		"** **"
+		"chi"		"**illex森林出口堵住了 **"
 	}
 	"**Defend for 60 seconds**"
 	{
@@ -254,15 +254,15 @@
 	}
 	"**Go to Goldenrod City!**"
 	{
-		"chi"		"** **"
+		"chi"		"**前往金柱市 **"
 	}
 	"**Welcome to GoldenRod City**"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到 金柱市 **"
 	}
 	"**Whitney: Hi! Im Whitney!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:HI!我是Whitney! **"
 	}
 	"**Whitney: Everyone was into Pok?mon, so I got into it, too!**"
 	{
@@ -270,23 +270,23 @@
 	}
 	"**Whitney: You want to battle?**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:你想跟我战斗? **"
 	}
 	"**Whitney: Im warning you, Im good!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:我警告你,我很厉害! **"
 	}
 	"**Gym Leader Whitney wants to fight!**"
 	{
-		"chi"		"** **"
+		"chi"		"**道馆首领Whitney想要跟你战斗 **"
 	}
 	"**Whitney: Go, Miltank!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:上吧,Whitney! **"
 	}
 	"**PLAYERS NOT INSIDE THE BATTLE FIELD WILL TP IN 10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**不在战斗场中的玩家10秒后传送 **"
 	}
 	"**Whitney: Miltank, use Rollout!**"
 	{
@@ -294,11 +294,11 @@
 	}
 	"**Whitney: Miltank, use Milk Drink!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:大奶罐,使用饮奶! **"
 	}
 	"**Miltank has restored 150HP**"
 	{
-		"chi"		"** **"
+		"chi"		"**大奶罐恢复一百五十HP **"
 	}
 	"**Whitney: Miltank, use Attract!**"
 	{
@@ -306,7 +306,7 @@
 	}
 	"**Whitney: Miltank, use Body Slam!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:大奶罐,使用压制! **"
 	}
 	"**Miltank has fainted.**"
 	{
@@ -314,7 +314,7 @@
 	}
 	"**Youve defeated Gym Leader Whitney!**"
 	{
-		"chi"		"** **"
+		"chi"		"**你打败了道馆首领Whitney! **"
 	}
 	"**Whitney: Waaaah! Waaaah!"
 	{
@@ -326,19 +326,19 @@
 	}
 	"**Whitney: Sniff.. Oh yeah the badge!**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:(吸鼻声)嗯,徽章! **"
 	}
 	"**Whitney: Here, take the Plain Badge**"
 	{
-		"chi"		"** **"
+		"chi"		"**Whitney:这儿,拿上普通徽章 **"
 	}
 	"**Level 2 Completed!**"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关完成! **"
 	}
 	"**Map by Lv. 100 Crobat**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:Lv. 100 Crobat **"
 	}
 	"**Level 3**"
 	{
@@ -346,11 +346,11 @@
 	}
 	"WELCOME TO SLATEPORT CITY"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到 斯莱特波特市**"
 	}
 	"GO TO THE BICYCLE ROAD"
 	{
-		"chi"		"** **"
+		"chi"		"**前往自行车大道 **"
 	}
 	"TREES WILL BREAK IN 60 SECONDS"
 	{
@@ -366,15 +366,15 @@
 	}
 	"TREES WILL BREAK IN 10 SECONDS"
 	{
-		"chi"		"**10秒后树小时**"
+		"chi"		"**10秒后树消失**"
 	}
 	"ESCAPE FROM SLATEPORT!"
 	{
-		"chi"		"** **"
+		"chi"		"**离开斯莱特波特! **"
 	}
 	"GO INSIDE THE HOUSE TO GO TO THE BIKE ROAD"
 	{
-		"chi"		"** **"
+		"chi"		"**进房子里前往自行车道 **"
 	}
 	"***Player has picked Buizel! (WATER)***"
 	{
@@ -394,11 +394,11 @@
 	}
 	"LETS SEE WHICH PATH WILL BE AVAIBLE"
 	{
-		"chi"		"** **"
+		"chi"		"**等待道路打开 **"
 	}
 	"Dont stay here for too long."
 	{
-		"chi"		"** **"
+		"chi"		"**不要在这里停留过久 **"
 	}
 	"***Player has picked Gardevoir! (WALL)***"
 	{
@@ -410,27 +410,27 @@
 	}
 	"MIDDLE PATH OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**中间路开了 **"
 	}
 	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**二号传送在45秒后开启 **"
 	}
 	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**二号传送在10秒后开启 **"
 	}
 	"DEFEND THIS AREA FOR 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这个区域60s**"
 	}
 	"DEFEND THIS AREA FOR 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这个区域30s **"
 	}
 	"DEFEND THIS AREA FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这个区域10s **"
 	}
 	"PKMN Trainer Wally wants to fight"
 	{
@@ -438,39 +438,39 @@
 	}
 	"Wally: GO KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:上吧 奇鲁莉安 **"
 	}
 	"Wally: GO KIRLIA!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:上吧 奇鲁莉安! **"
 	}
 	"Wally: KIRLIA USE SHOCK WAVE!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:奇鲁莉安使用震荡波! **"
 	}
 	"Wally: KIRLIA USE TELEPORT"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:奇鲁莉安使用传送 **"
 	}
 	"RIGHT PATH OPEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**右边路开了 **"
 	}
 	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**三号传送在45秒后开启 **"
 	}
 	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**三号传送在10秒后开启 **"
 	}
 	"Wally: KIRLIA, RETURN!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:回来吧,奇鲁莉安! **"
 	}
 	"Wally: GO CROBAT!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:上吧,叉字蝠! **"
 	}
 	"**Zombie Ladders Spawned**"
 	{
@@ -478,51 +478,51 @@
 	}
 	"Wally: CROBAT USE TOXIC!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:叉字蝠使用毒雾 **"
 	}
 	"LEFT PATH OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**左边路开了 **"
 	}
 	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**一号传送在45秒后开启 **"
 	}
 	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**一号传送在10秒后开启 **"
 	}
 	"Wally: CROBAT, RETURN"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:回来吧,叉字蝠 **"
 	}
 	"**Wally: Ive been defeated again.**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:我又被打败了. **"
 	}
 	"**Wally: Today I couldnt beat you, but next time..**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:今天我输了,但是下次... **"
 	}
 	"**Wally: Next time will be harder.**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:下次我会更加努力的 **"
 	}
 	"DEFEND HERE FOR 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒 **"
 	}
 	"DEFEND HERE FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守10秒 **"
 	}
 	"DEFEND HERE FOR 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守5秒 **"
 	}
 	"Lets take a rest before we continue"
 	{
-		"chi"		"** **"
+		"chi"		"**在我们前进之前稍稍休息一下 **"
 	}
 	"**SHOOT GROUDON!**"
 	{
@@ -544,7 +544,7 @@
 	}
 	"**Groudon used Roar!**"
 	{
-		"chi"		"**咆哮（按住）**"
+		"chi"		"**咆哮（按住w）**"
 		"DoorCountDown"		"5"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
@@ -565,39 +565,39 @@
 	}
 	"GROUDON HAS FAINTED, LETS GO"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多被击败了,我们走 **"
 	}
 	"ITS WALLY!?"
 	{
-		"chi"		"** **"
+		"chi"		"**?是Wally **"
 	}
 	"Wally: ITS NOT OVER YET GUYS."
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:还没结束呢 **"
 	}
 	"Wally: KIRLIA, USE BARRIER!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:奇鲁莉安,使用屏障! **"
 	}
 	"SHOOT KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**射击奇鲁莉安 **"
 	}
 	"Wally: ILL BE BACK!"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:我会回来的! **"
 	}
 	"DEFEND HERE FOR 35 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里35秒 **"
 	}
 	"20 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒! **"
 	}
 	"10 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒! **"
 	}
 	"5"
 	{
@@ -621,75 +621,75 @@
 	}
 	"**ITS PRIMAL GROUDON**"
 	{
-		"chi"		"** **"
+		"chi"		"**这是原始固拉多 **"
 	}
 	"**Primal Groudon used Eruption**"
 	{
-		"chi"		"** **"
+		"chi"		"**原始固拉多使用爆发 **"
 	}
 	"**We have 25 seconds to defeat him**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们只有二十五秒击败它 **"
 	}
 	"**Or we will die**"
 	{
-		"chi"		"** **"
+		"chi"		"**否则我们全将死亡 **"
 	}
 	"**Primal Groudon defeated**"
 	{
-		"chi"		"** **"
+		"chi"		"**原始固拉多被击败 **"
 	}
 	"**Level 3 Completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关完成 **"
 	}
 	"**Level 4**"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关 **"
 	}
 	"**Welcome to the Windworks Valley**"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到 风之谷 **"
 	}
 	"**Activate all 5 fans to energize the teleporter**"
 	{
-		"chi"		"** **"
+		"chi"		"**激活五个风扇开启传送器 **"
 	}
 	"**Anti camp teleport in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送 **"
 	}
 	"**A fan has been activated**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个风扇被激活 **"
 	}
 	"**All fans have been activated**"
 	{
-		"chi"		"** **"
+		"chi"		"**所有风扇被激活 **"
 	}
 	"**Teleporter will activate in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**传送30秒后开启 **"
 	}
 	"**Teleporter will activate in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**传送5秒后开启 **"
 	}
 	"**Rocks will break in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石30秒后被击碎 **"
 	}
 	"**Rocks will break in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石5秒后被击碎 **"
 	}
 	"**Its Wally again**"
 	{
-		"chi"		"** **"
+		"chi"		"**又是Wally **"
 	}
 	"**Wally: Gallade, use Psycho Cut**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:艾路雷朵,使用心切 **"
 	}
 	"**Get out of the cave!**"
 	{
@@ -697,39 +697,39 @@
 	}
 	"**Wally: Good job Gallade lets get back**"
 	{
-		"chi"		"** **"
+		"chi"		"**Wally:好样的,艾路雷朵,我们撤 **"
 	}
 	"**Path clear**"
 	{
-		"chi"		"** **"
+		"chi"		"**通道清理完毕 **"
 	}
 	"**Spear pilar entrance is blocked**"
 	{
-		"chi"		"** **"
+		"chi"		"**Spear pilar入口被堵上了 **"
 	}
 	"**Defend 5 more seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**再多守5秒 **"
 	}
 	"Ceres: Where do you think youre going?"
 	{
-		"chi"		"** **"
+		"chi"		"**Ceres:你们想去哪? **"
 	}
 	"Venus: Our boss is about to complete his plan."
 	{
-		"chi"		"** **"
+		"chi"		"**Venus:我们的boss即将完成他的计划. **"
 	}
 	"Ceres: And we will not let you through!"
 	{
-		"chi"		"** **"
+		"chi"		"**Ceres:我们绝不会让你们通过这里的! **"
 	}
 	"Ceres: GO PURUGLY!"
 	{
-		"chi"		"** **"
+		"chi"		"**Ceres:上吧,东施喵 **"
 	}
 	"Venus: GO SKUNTANK!"
 	{
-		"chi"		"** **"
+		"chi"		"**Venus:上吧,坦克臭鼬 **"
 	}
 	"NO COWARDS ALLOWED!"
 	{
@@ -737,7 +737,7 @@
 	}
 	"IF YOURE AT THE BOTTOM, YOU WILL BE PUNISHED"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你在下面,你会受到惩罚 **"
 	}
 	"Venus: SKUNTANK, USE TOXIC"
 	{
@@ -753,11 +753,11 @@
 	}
 	"Venus: Skuntank, return."
 	{
-		"chi"		"** **"
+		"chi"		"**Venus:回来吧,坦克臭鼬 **"
 	}
 	"Venus: Darn it..."
 	{
-		"chi"		"** **"
+		"chi"		"**Venus:Tmd... **"
 	}
 	"Ceres: PURUGLY USE SURPRISE!"
 	{
@@ -765,115 +765,115 @@
 	}
 	"Ceres: Purugly, get back"
 	{
-		"chi"		"** **"
+		"chi"		"**Ceres:回来吧,东施喵 **"
 	}
 	"Ceres: I shouldve fought alone..."
 	{
-		"chi"		"** **"
+		"chi"		"**Ceres:我应该独自战斗的... **"
 	}
 	"Cyrus: You arrived late."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:你们来迟了 **"
 	}
 	"Cyrus: Everything is ready for the creation of the new world."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:为了新世界的创造,所有事已经准备好了. **"
 	}
 	"Cyrus: Now, all will end. And everything will begin"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:现在,所有都将结束.然后所有事物得到新生 **"
 	}
 	"Cyrus: With this, the Red Chain made from the crystals of the 3 lake Pokemon..."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:有了这个,由三圣菇的晶体制造而成的赤链... **"
 	}
 	"Cyrus: And this, the Red Chain I replicated with technological means.."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:还有这个,我用技术手段复制的赤链.. **"
 	}
 	"Cyrus: With these Red Chains, Ill pry open the portal to another dimension."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:通过这些赤链,我要撬开通往另一个次元的传送门. **"
 	}
 	"Cyrus: I command that you unleash your power for me..."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:我命令你为我释放你的力量... **"
 	}
 	"Cyrus: Dialga, the mythical Pokemon, and master of time..."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:迪奥鲁加,掌管时间的神兽... **"
 	}
 	"Cyrus: and the other..."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:然后另一个... **"
 	}
 	"Cyrus: Palkia the mythical Pokemon, and the master of space and dimensions."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:帕路奇亚,掌管空间和维度的神兽. **"
 	}
 	"Cyrus: Ive waited so long for this moment, DIALGA and PALKIA."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:我为了这一刻等了很久,迪奥鲁加,帕路奇亚. **"
 	}
 	"Cyrus:Shaping this world is a double spiral of time and space."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:这个世界是由时间与空间构成的双螺旋所塑造 **"
 	}
 	"Cyrus: Yes, the very things that you have the ability to control."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:是的,恰好你们有能力去改变它 **"
 	}
 	"Cyrus: You will do my bidding! I will have your abilities as mine!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:你们将受到我的控制!我要让你们的能力为我所用 **"
 	}
 	"Cyrus: With the power I wield, I will create an entirely new world!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:通过我支配到的力量,我要创造一个新世界! **"
 	}
 	"Cyrus: The incomplete and ugly world we have now can dissapear."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:现在,我们这个不完整且丑陋的世界就能消失了. **"
 	}
 	"Cyrus: I am resetting everything to zero. Nothing can remain."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:我要把所有东西重置.没有任何事物能逃过. **"
 	}
 	"Cyrus: It is all for making the ultimate world. A world of complete perfection."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:这一切都是为了创造终极世界.一个完美的世界. **"
 	}
 	"Cyrus: Nothing so vague and incomplete as spirit can remain."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:没有什么像精神一样模糊且不完整的可以留下来 **"
 	}
 	"Cyrus: So theres a Pokemon that can appear from the dark?"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:所以有一只精灵可以在黑暗中出现? **"
 	}
 	"Cyrus: DOESNT MATTER AT ALL!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:这根本不要紧!! **"
 	}
 	"Cyrus: NO ONE WILL INTERFERERERERERE...."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:没有任何人能阻止我.... **"
 	}
 	"A portal to the Distortion World opened, lets go in."
 	{
-		"chi"		"** **"
+		"chi"		"**一个通往扭曲世界的传送门开启,让我们进去吧. **"
 	}
 	"Weve arrived to the Distortion World."
 	{
-		"chi"		"** **"
+		"chi"		"**我们到达了扭曲的世界. **"
 	}
 	"We have to defeat GIRATINA to get everything back to normal."
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须击败骑拉帝纳来让一切回到正常. **"
 	}
 	"Press the 3 buttons on different islands to continue."
 	{
-		"chi"		"**按下3个处于不同小岛上的按钮来激活路**"
+		"chi"		"**按下3个处于不同小岛上的按钮来激活路.**"
 	}
 	"1ST BARRIER DESTROYED"
 	{
@@ -893,23 +893,23 @@
 	}
 	"**Zombiecage breaking in 12 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**尸笼十二秒后开启 **"
 	}
 	"ALL BARRIERS DESTROYED, DEFEND HERE FOR 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的屏障消失，防守60秒 **"
 	}
 	"30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒 **"
 	}
 	"15 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒 **"
 	}
 	"5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"LETS GO!"
 	{
@@ -917,27 +917,27 @@
 	}
 	"Cyrus: I wont let you guys fight that Pokemon of the Shadows."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:我不会让你们和它交手的. **"
 	}
 	"Cyrus: This world is perfect for me."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:这个世界对我来说是完美地. **"
 	}
 	"Dont get too close."
 	{
-		"chi"		"** **"
+		"chi"		"**不要靠太近 **"
 	}
 	"Cyrus want to fight!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日要跟你对战 **"
 	}
 	"Cyrus: GO HONCHKROW"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:上吧,乌鸦头头 **"
 	}
 	"THE MIDDLE PLATFORM WILL BREAK IN 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**中路平台5秒后破碎 **"
 	}
 	"Cyrus: Honchkrow use Night Slash"
 	{
@@ -946,7 +946,7 @@
 	}
 	"DODGE THE SLASHES!"
 	{
-		"chi"		"** **"
+		"chi"		"**躲避刀! **"
 	}
 	"Cyrus: Honchkrow use Psychic"
 	{
@@ -958,15 +958,15 @@
 	}
 	"Honchkrow has restored 500HP!"
 	{
-		"chi"		"** **"
+		"chi"		"**乌鸦头头恢复500HP! **"
 	}
 	"Honchkrow has fainted"
 	{
-		"chi"		"** **"
+		"chi"		"**乌鸦头头被击败了 **"
 	}
 	"Cyrus: Go, Crobat!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:上吧,叉字蝠! **"
 	}
 	"Cyrus: Crobat use Toxic."
 	{
@@ -979,71 +979,71 @@
 	}
 	"Crobat has fainted."
 	{
-		"chi"		"** **"
+		"chi"		"**叉字蝠被击败了. **"
 	}
 	"Cyrus: Go, Weavile"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:上吧,玛狃拉 **"
 	}
 	"Weavile has fainted."
 	{
-		"chi"		"** **"
+		"chi"		"**玛狃拉被击败了. **"
 	}
 	"Cyrus: I wont accept this! This cant be!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:为什么会这样!我不能接受这个结果! **"
 	}
 	"Cyrus: Not after all the sacrifices weve made to get this far!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:在我们做出这么大的牺牲之后! **"
 	}
 	"Cyrus: Was this all a dream to swept away by your reality?!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:这一切都是被你的现实所吞噬的梦想吗? **"
 	}
 	"Cyrus: What of my new world?! What of my new galaxy?!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:我的新世界呢?!我的新银河呢?! **"
 	}
 	"Cyrus: ...."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:.... **"
 	}
 	"Cyrus: Dont think that you can defeat that Pokemon."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:你不要妄想你能击败它. **"
 	}
 	"Cyrus: This bizarre world is none other that the Pokemon itself!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:这个奇异的世界不是什么其他东西,这正是那个神奇宝贝本身! **"
 	}
 	"Cyrus: Defeating it will make this world dissapear!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:打败它会让这个世界消失! **"
 	}
 	"Cyrus: Very well! Do what you will!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:很好!做你想做的! **"
 	}
 	"Cyrus: Rather that repairing the world, youre going to destroy it for me!"
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:与其修补这个世界，不如你帮我毁灭它! **"
 	}
 	"Cyrus: Do it, youll inherit my legacy."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:做吧,你会继承我的遗赠. **"
 	}
 	"WE WILL BATTLE GIRATINA IN 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**我们将在20秒后和骑拉帝纳(鬼龙)交手 **"
 	}
 	"WE WILL BATTLE GIRATINA IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**我们将在10秒后和骑拉帝纳(鬼龙)交手 **"
 	}
 	"SHOOT GIRATINA!"
 	{
-		"chi"		"** **"
+		"chi"		"**射击骑拉帝纳! **"
 	}
 	"GIRATINA USED VOID"
 	{
@@ -1052,7 +1052,7 @@
 	}
 	"GO TO THE FRONT HURRY"
 	{
-		"chi"		"** **"
+		"chi"		"**赶快去前面 **"
 	}
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
@@ -1061,26 +1061,26 @@
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
-		"chi"		"**BOSS方向按住W！！！**"
+		"chi"		"**骑拉帝纳使用怪异旋风(BOSS方向按住W！！)**"
 		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"**上梯子**"
+		"chi"		"**骑拉帝纳使用黑暗力量!(上梯子)**"
 		"DoorCountDown"		"5"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
-		"chi"		"** **"
+		"chi"		"**快点爬上梯子! **"
 	}
 	"Cyrus: Weavile use Beat Up."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:玛狃拉使用毒打. **"
 		"DoorCountDown"		"5"
 	}
 	"**Giratina used Dragon Claw**"
 	{
-		"chi"		"**跳刀**"
+		"chi"		"**骑拉帝纳使用龙之爪(跳刀)**"
 		"DoorCountDown"		"5"
 	}
 	"**Arceus used Judgement**"
@@ -1104,34 +1104,34 @@
 	}
 	"Cyrus: Crobat use Antonish."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠使用惊吓. **"
 	}
 	"GIRATINA HAS FAINTED!"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳被击败了! **"
 	}
 	"**BACKPEDAL**"
 	{
-		"chi"		"** **"
+		"chi"		"**倒踏 **"
 	}
 	"**WATCHOUT WITH CROBAT**"
 	{
-		"chi"		"** **"
+		"chi"		"**注意叉字蝠 **"
 	}
 	"**ZOMBIES TELEPORTED**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸传送 **"
 	}
 	"**SHOOT CROBAT TO CLEAR THE PATH**"
 	{
-		"chi"		"** **"
+		"chi"		"**射击叉字蝠 **"
 	}
 	"**DODGE THE AERIAL ACES**"
 	{
-		"chi"		"** **"
+		"chi"		"**躲避 **"
 	}
 	"Cyrus: Crobat, use Cross Venom."
 	{
-		"chi"		"** **"
+		"chi"		"**赤日:叉字蝠,使用十字毒. **"
 	}
 }
