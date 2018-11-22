@@ -154,6 +154,7 @@
 	"### SINNER IS COMING IN 10 SECONDS ###"
 	{
 		"chi"		"**堕落之人将在10秒后到达 **"
+		"DoorCountDown"		"10"
 	}
 	"### DONT CROSS THE RED LINE THERE IS NOT A HOLY AREA ###"
 	{
