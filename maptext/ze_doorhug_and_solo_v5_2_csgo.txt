@@ -87,6 +87,7 @@
 	"**The wall 1 will open in 50 seconds**"
 	{
 		"chi"		"**1号区域大门50秒后打开**"
+		"DoorCountDown"		"50"
 	}
 	"**FOG MODE** OMG where are lasers?! I cant see them!"
 	{
@@ -95,6 +96,7 @@
 	"**The wall 1 will open in 40 seconds**"
 	{
 		"chi"		"**1号区域大门40秒后打开**"
+		"DoorCountDown"		"40"
 	}
 	"**The final wall will open in 40 seconds**"
 	{

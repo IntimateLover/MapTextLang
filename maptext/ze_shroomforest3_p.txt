@@ -163,6 +163,7 @@
 	"*** Defend until the path is clear ***"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"25"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -220,7 +221,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** ELEVATOR LEAVING IN 20 SECONDS ***"
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"** **"
 	}
