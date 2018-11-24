@@ -455,7 +455,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***DEFEND FOR 20 SECONDS***"
+	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
 	}
@@ -463,7 +463,7 @@
 	{
 		"chi"		"**还剩15秒**"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -646,5 +646,9 @@
 	"***ITEM FAILED - HOT PIZZA***"
 	{
 		"chi"		"**物品失败 - 滚烫披萨**"
+	}
+	"***WAIT GREEN LIGHT 10 SECOND ***"
+	{
+		"chi"		"** **"
 	}
 }

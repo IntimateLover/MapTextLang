@@ -1,0 +1,153 @@
+"BOSSHP"
+{
+	"11820"
+	{
+		"enable"		"0"
+		"hammerid"		"11820"
+		"m_iname"		"f_break2"
+	}
+	"11831"
+	{
+		"enable"		"0"
+		"hammerid"		"11831"
+		"m_iname"		"f_break2"
+	}
+	"12179"
+	{
+		"enable"		"0"
+		"hammerid"		"12179"
+		"m_iname"		"solobreak"
+	}
+	"11244"
+	{
+		"enable"		"0"
+		"hammerid"		"11244"
+		"m_iname"		"f_break1"
+	}
+	"9001"
+	{
+		"enable"		"0"
+		"hammerid"		"9001"
+		"m_iname"		"break1"
+	}
+	"10021"
+	{
+		"enable"		"0"
+		"hammerid"		"10021"
+		"m_iname"		"team_huaji"
+	}
+	"10288"
+	{
+		"enable"		"0"
+		"hammerid"		"10288"
+		"m_iname"		"team_final_break"
+	}
+	"7493"
+	{
+		"enable"		"0"
+		"hammerid"		"7493"
+		"m_iname"		"team_mode_final_door"
+	}
+	"2481"
+	{
+		"enable"		"0"
+		"hammerid"		"2481"
+		"m_iname"		"wall1"
+	}
+	"2512"
+	{
+		"enable"		"0"
+		"hammerid"		"2512"
+		"m_iname"		"wall1"
+	}
+	"2533"
+	{
+		"enable"		"0"
+		"hammerid"		"2533"
+		"m_iname"		"wall2"
+	}
+	"2551"
+	{
+		"enable"		"0"
+		"hammerid"		"2551"
+		"m_iname"		"wall2"
+	}
+	"2666"
+	{
+		"enable"		"0"
+		"hammerid"		"2666"
+		"m_iname"		"dafeibaohu_1"
+	}
+	"3109"
+	{
+		"enable"		"0"
+		"hammerid"		"3109"
+		"m_iname"		"wall3"
+	}
+	"3121"
+	{
+		"enable"		"0"
+		"hammerid"		"3121"
+		"m_iname"		"wall3"
+	}
+	"5811"
+	{
+		"enable"		"0"
+		"hammerid"		"5811"
+		"m_iname"		"8_main"
+	}
+	"5803"
+	{
+		"enable"		"0"
+		"hammerid"		"5803"
+		"m_iname"		"8_8"
+	}
+	"5795"
+	{
+		"enable"		"0"
+		"hammerid"		"5795"
+		"m_iname"		"8_7"
+	}
+	"5787"
+	{
+		"enable"		"0"
+		"hammerid"		"5787"
+		"m_iname"		"8_6"
+	}
+	"5779"
+	{
+		"enable"		"0"
+		"hammerid"		"5779"
+		"m_iname"		"8_5"
+	}
+	"5771"
+	{
+		"enable"		"0"
+		"hammerid"		"5771"
+		"m_iname"		"8_4"
+	}
+	"5763"
+	{
+		"enable"		"0"
+		"hammerid"		"5763"
+		"m_iname"		"8_3"
+	}
+	"5755"
+	{
+		"enable"		"0"
+		"hammerid"		"5755"
+		"m_iname"		"8_2"
+	}
+	"5738"
+	{
+		"enable"		"0"
+		"hammerid"		"5738"
+		"m_iname"		"8_1"
+	}
+	"8115"
+	{
+		"enable"		"0"
+		"hammerid"		"8115"
+		"m_iname"		"huaji"
+	}
+}
