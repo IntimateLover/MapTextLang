@@ -126,4 +126,10 @@
 		"hammerid"		"366899"
 		"m_iname"		"skip_protect2"
 	}
+	"115944"
+	{
+		"enable"		"1"
+		"hammerid"		"115944"
+		"m_iname"		"boss_hp_sub"
+	}
 }
