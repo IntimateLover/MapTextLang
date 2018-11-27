@@ -71,6 +71,7 @@
 	"*** EXPLOSION IN 15 SECONDS PIDARAS ***"
 	{
 		"chi"		"**C4已安放，稍等15秒等我们炸开墙！**"
+		"DoorCountdown"		"15"
 	}
 	"***Bahatard is dead ! Run fucking idiot !***"
 	{
@@ -87,7 +88,7 @@
 	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
 	{
 		"chi"		"**基佬传送门将在15S后开启！快回头刷僵尸！**"
-		"DoorCountDown"		"22"
+		"DoorCountdown"		"22"
 	}
 	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
 	{
