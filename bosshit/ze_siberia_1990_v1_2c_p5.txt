@@ -120,7 +120,7 @@
 	}
 	"292846"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"292846"
 		"m_iname"		"breakableshits"
 	}
@@ -186,13 +186,13 @@
 	}
 	"123959"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"123959"
 		"m_iname"		"breakableshits"
 	}
 	"123972"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"123972"
 		"m_iname"		"breakableshits"
 	}
@@ -228,13 +228,13 @@
 	}
 	"104522"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"104522"
 		"m_iname"		"breakableshits"
 	}
 	"104530"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"104530"
 		"m_iname"		"breakableshits"
 	}
