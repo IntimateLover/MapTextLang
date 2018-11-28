@@ -210,6 +210,7 @@
 	"*It has a 90 seconds cooldown.*"
 	{
 		"chi"		"**它有90秒的冷却时间 **"
+		"DoorCountdown"		"-1"
 	}
 	"*Vault area opening in 20 seconds.*"
 	{
@@ -449,6 +450,7 @@
 	"*It has a 120 seconds cooldown.*"
 	{
 		"chi"		"**它有120秒冷却时间 **"
+		"DoorCountdown"		"-1"
 	}
 	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
 	{

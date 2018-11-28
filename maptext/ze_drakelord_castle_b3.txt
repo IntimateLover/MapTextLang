@@ -16,7 +16,7 @@
 	{
 		"chi"		"**C4已安放**"
 	}
-	"***Fall back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -97,6 +97,10 @@
 		"chi"		"**高塔电梯已离开**"
 	}
 	"***KILL THE REMAINING ZOMBIES***"
+	{
+		"chi"		"** **"
+	}
+	"***NO HUMANS MADE IT TO THE END***"
 	{
 		"chi"		"** **"
 	}

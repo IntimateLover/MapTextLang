@@ -112,14 +112,6 @@
 	{
 		"chi"		"**剩余1秒**"
 	}
-	"sync_version"
-	{
-<<<<<<< HEAD
-		"syncvalue"		"15179"
-=======
-		"syncvalue"		"6257"
->>>>>>> 698f4557232d65fa387ccb8fc3331b714015575e
-	}
 	"<--Wood door will break in 40s-->"
 	{
 		"chi"		"**木门将在40秒后碎裂**"
