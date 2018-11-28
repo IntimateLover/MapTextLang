@@ -392,7 +392,7 @@
 	}
 	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **"
 	{
-		"chi"		"**选择关卡！下一层将很容易！ **"
+		"chi"		"**投票结束！下一关将是简单难度。**"
 	}
 	"** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
 	{
@@ -400,22 +400,26 @@
 	}
 	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **"
 	{
-		"chi"		"**选择关卡！下一阶段将再次投票！ **"
+		"chi"		"**投票结束！下一关仍将是生存选关关卡！**"
 	}
 	"** No level was chosen in time! The next level will be random!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**在规定的时间内没有选择关卡！下一关将是随机关卡！**"
 	}
 	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE TOUGH! **"
 	{
-		"chi"		"** **"
+		"chi"		"**投票结束！下一关将是困难难度！**"
 	}
 	"*** ZOMBIES DETECTED ON BUNKER - INVALID VICTORY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**房间里发现僵尸！无效的胜利！**"
 	}
 	"sync_version"
 	{
 		"syncvalue"		"85303"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **"
+	{
+		"chi"		"**投票结束！下一关将是普通难度！**"
 	}
 }
