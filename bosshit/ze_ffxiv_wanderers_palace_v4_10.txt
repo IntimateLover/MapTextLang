@@ -140,19 +140,19 @@
 	}
 	"178529"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"178529"
 		"m_iname"		"hp_100"
 	}
 	"178532"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"178532"
 		"m_iname"		"hp_75"
 	}
 	"178535"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"178535"
 		"m_iname"		"hp_50"
 	}
@@ -242,7 +242,7 @@
 	}
 	"94241"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"94241"
 		"m_iname"		"behemoth_king_hp2"
 	}
@@ -338,7 +338,7 @@
 	}
 	"175597"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"175597"
 		"m_iname"		"ads_6"
 	}
@@ -350,19 +350,19 @@
 	}
 	"411164"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"411164"
 		"m_iname"		"hp_100_true"
 	}
 	"411158"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"411158"
 		"m_iname"		"hp_75_true"
 	}
 	"411161"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"411161"
 		"m_iname"		"hp_50_true"
 	}
@@ -404,7 +404,7 @@
 	}
 	"261794"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"261794"
 		"m_iname"		"true_bahamut_hitbox"
 	}
