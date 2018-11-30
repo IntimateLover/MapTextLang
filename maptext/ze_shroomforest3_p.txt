@@ -163,7 +163,7 @@
 	"*** Defend until the path is clear ***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{

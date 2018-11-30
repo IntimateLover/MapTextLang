@@ -513,6 +513,7 @@
 	">>> BALROG USE LASER <<<"
 	{
 		"chi"		"**保持蹲下别被削掉脑袋了！小心炎魔挥出的二连死亡切割！**"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG USED HEAL <<<"
 	{

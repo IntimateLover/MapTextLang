@@ -128,7 +128,6 @@
 	{
 		"chi"		"**铁门在5秒后开启 **"
 	}
-	
 	"**[Commander] We must open the gate**"
 	{
 		"chi"		"**[指挥官]:我们需要打开铁门 **"
@@ -239,7 +238,7 @@
 	}
 	"**[Commander] Wait more 10 seconds**"
 	{
-		"chi"		"**[指挥官]:再等10秒 **"
+		"chi"		"**再坚守10S**"
 	}
 	"**[Commander] Already, we have almost succeeded in,  helicopter is waiting, everybody should enter, go**"
 	{
@@ -284,7 +283,6 @@
 	"**Way will open in 8 seconds**"
 	{
 		"chi"		"**道路在8秒后开启 **"
-		
 	}
 	"**Door will open in 10 seconds**"
 	{
@@ -333,7 +331,6 @@
 	"**Way will open in 5 seconds**"
 	{
 		"chi"		"**道路在5秒后开启 **"
-		
 	}
 	"**Wall will break in 10 seconds**"
 	{
@@ -363,7 +360,6 @@
 	{
 		"chi"		"**道路在10秒后开启 **"
 	}
-	
 	"**Teleport will enable in 20 seconds**"
 	{
 		"chi"		"**传送在20秒后开启 **"
@@ -371,6 +367,17 @@
 	"**Way will open in 25 seconds**"
 	{
 		"chi"		"**道路在25秒后开启 **"
-		
+	}
+	"**[Commander] Where are we? its a camp, I think**"
+	{
+		"chi"		"**[指挥官]:我们在哪？我想这里是一个营地。**"
+	}
+	"**[Commander] Were almost there, Defend!**"
+	{
+		"chi"		"**[指挥官]:我们快到了，守住！**"
+	}
+	"**Piter is using Big Eye**"
+	{
+		"chi"		"**皮特使用大眼天坠**"
 	}
 }

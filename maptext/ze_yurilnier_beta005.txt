@@ -26,22 +26,22 @@
 	}
 	"** BOTH DOORS OPENING IN 40 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**两边门将于40秒后打开**"
 	}
 	"** TELEPORTER ACTIVATED **"
 	{
-		"chi"		"**传送点激活 **"
+		"chi"		"**传送已激活**"
 	}
 	"** DOORS OPENING IN 45 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将于45秒后打开**"
 	}
 	"** DOORS OPENING IN 35 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将于35秒后打开**"
 	}
 	"** DOORS OPENING IN 50 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将于50秒后打开**"
 	}
 }

@@ -118,7 +118,7 @@
 	}
 	"960556"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"960556"
 		"m_iname"		"Break_helicopter"
 	}
@@ -130,7 +130,7 @@
 	}
 	"685027"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"685027"
 		"m_iname"		"Break_when_dies"
 	}
@@ -139,5 +139,9 @@
 		"enable"		"0"
 		"hammerid"		"83793"
 		"m_iname"		"the_box"
+	}
+	"1974527"
+	{
+		"enable"		"1"
 	}
 }

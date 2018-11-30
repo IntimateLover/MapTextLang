@@ -58,6 +58,7 @@
 	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
 		"chi"		"**僵尸在17秒后释放 **"
+		"DoorCountdown"		"17"
 	}
 	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
 	{

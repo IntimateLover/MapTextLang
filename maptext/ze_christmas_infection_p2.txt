@@ -44,7 +44,7 @@
 	}
 	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸龙卷风被拾起，按E使用。**"
 	}
 	"** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
 	{
@@ -101,7 +101,7 @@
 	}
 	"** Zombie fog has been picked up. Press +USE (E) to activate **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸迷雾已被拾起，按E释放。**"
 	}
 	"** 5 seconds! RESIST!!! **"
 	{
@@ -421,5 +421,9 @@
 	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **"
 	{
 		"chi"		"**投票结束！下一关将是普通难度！**"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE APOCALYPSE! **"
+	{
+		"chi"		"**投票结束！下一关将是第四关：启示录。**"
 	}
 }

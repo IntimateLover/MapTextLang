@@ -128,7 +128,7 @@
 	{
 		"chi"		"**正在修理货运电梯... **"
 	}
-	"**5 SECONDS LEFT**"
+	"**5 seconds left**"
 	{
 		"chi"		"**等一会... **"
 	}
@@ -174,7 +174,7 @@
 	}
 	"**Raccoon Press door will open in 5 seconds**"
 	{
-		"chi"		"**二楼办公室大门将在5s后打开 **"
+		"chi"		"**二楼办公室大门将在5s后打开**"
 	}
 	"**The green crystal was picked up**"
 	{
@@ -203,6 +203,7 @@
 	"**Defend here until door open**"
 	{
 		"chi"		"**守住这里直到门开... **"
+		"DoorCountdown"		"20"
 	}
 	"**The battery was picked up**"
 	{
@@ -222,7 +223,7 @@
 	}
 	"**It remains only to fight off the zombies and we are saved**"
 	{
-		"chi"		"**我们摆脱了僵尸，得救了... **"
+		"chi"		"**我们摆脱了僵尸，我们得救了...**"
 	}
 	"**A player has picked up the Flamethrower**"
 	{
@@ -242,7 +243,7 @@
 	}
 	"**Door will close in 5 seconds**"
 	{
-		"chi"		"**门将在5s后打开 **"
+		"chi"		"**门将在5秒后关闭**"
 	}
 	"**Nemesis is defeated..Find your way out of the lab**"
 	{

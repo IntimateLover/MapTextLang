@@ -11,7 +11,7 @@
 	"** Door opening in 30 seconds! **"
 	{
 		"chi"		"30秒后开门！"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** Door opening in 10 seconds! **"
 	{
@@ -28,7 +28,7 @@
 	"Soulsphere power has 2 charges and a 120 second cooldown!"
 	{
 		"chi"		"能量装置能使用2次并且拥有120秒冷却CD[将人类血量恢复至150HP]"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"First soulsphere charge used!"
 	{
@@ -45,7 +45,7 @@
 	"** Door opening in 25 seconds **"
 	{
 		"chi"		"门将在25秒后打开      "
-		"DoorCountDown"		"                "
+		"DoorCountdown"		"                "
 	}
 	"** Door opening in 10 seconds **"
 	{
@@ -66,7 +66,7 @@
 	"** Exit door opening in 40 seconds! **"
 	{
 		"chi"		"40秒后逃生门打开！"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"Soulsphere recharged!"
 	{
@@ -87,7 +87,7 @@
 	"** Exit door closing in 15 seconds! **"
 	{
 		"chi"		"逃生门15秒后关闭"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Exit door closed! **"
 	{
@@ -124,7 +124,7 @@
 	"** Elevator Leaving in 35 Seconds...**"
 	{
 		"chi"		"**电梯将在35秒后升起 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"** Elevator Leaving in 10 Seconds...**"
 	{

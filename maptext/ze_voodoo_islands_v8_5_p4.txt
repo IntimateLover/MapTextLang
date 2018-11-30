@@ -44,6 +44,7 @@
 	"*** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***"
 	{
 		"chi"		"在这个岛坚守90秒，90秒后巫师会带你前往天堂之路"
+		"DoorCountdown"		"90"
 	}
 	"***voodoo master has created a force field from preventing you from falling off island***"
 	{
