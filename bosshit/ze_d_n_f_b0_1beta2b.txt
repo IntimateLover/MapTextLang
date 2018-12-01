@@ -228,4 +228,10 @@
 		"hammerid"		"4643"
 		"m_iname"		"lv1_2_boss_break5"
 	}
+	"25616"
+	{
+		"enable"		"0"
+		"hammerid"		"25616"
+		"m_iname"		"Item_Wall"
+	}
 }

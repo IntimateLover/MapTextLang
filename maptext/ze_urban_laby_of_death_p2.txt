@@ -143,7 +143,8 @@
 	}
 	"*** Mines has been picked up. ***"
 	{
-		"chi"		"**一名玩家捡到了 地雷**"
+		"chi"		"**一名玩家捡起了地雷（会炸人类，远离人群使用！）**"
+		"DoorCountdown"		"5"
 	}
 	"*** Mines can be used up to 6 times. ***"
 	{

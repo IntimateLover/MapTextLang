@@ -150,4 +150,22 @@
 		"hammerid"		"8115"
 		"m_iname"		"huaji"
 	}
+	"9100"
+	{
+		"enable"		"0"
+		"hammerid"		"9100"
+		"m_iname"		"haha1"
+	}
+	"9064"
+	{
+		"enable"		"0"
+		"hammerid"		"9064"
+		"m_iname"		"bridge1"
+	}
+	"9117"
+	{
+		"enable"		"0"
+		"hammerid"		"9117"
+		"m_iname"		"haha2"
+	}
 }
