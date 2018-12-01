@@ -2,110 +2,110 @@
 {
 	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"** **"
+		"chi"		"**这是根据游戏（潜行者:切尔诺贝利的阴影）制作的地图 **"
 	}
 	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
 	{
-		"chi"		"** **"
+		"chi"		"**这不是一张简单的图，它需要很好的团队配合才能通关 **"
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：玲-莎花  特别感谢：HaRyDe POMKA Said Z-O-M-B-I-E的各位 **"
 	}
 	"Map Porter By IntimateLover"
 	{
-		"chi"		"** **"
+		"chi"		"**地图移植:IntimateLover **"
 	}
 	"Type in console mat_colorcorrection 1 for dynamic effects!!"
 	{
-		"chi"		"** **"
+		"chi"		"**关闭和开启动态效果在控制台输入mat_colorcorrection 1 **"
 	}
 	"Lab door 2 will open in 13 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**2号实验室将13秒后打开 **"
 	}
 	"A player picked up fireball"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起神器：火 **"
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯2将9秒后离开 **"
 	}
 	"Lab door 2 will open for zombies in 18 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**2号实验室将18秒后为僵尸打开 **"
 	}
 	"Lab door 1 will open in 11 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**1号实验室将11秒后打开 **"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**1号实验室将18秒后为僵尸打开 **"
 	}
 	"A player picked up a piece of flesh"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起神器：风 **"
 	}
 	"Zombie shield is activated. You have 15 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙已被激活你有15秒时间撤退 **"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**1号电梯将在4秒后离开 **"
 	}
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你想打开大门，请去打开电源开关 **"
 	}
 	"***The gate 1 will open in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号门将30秒后打开 **"
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
-		"chi"		"** **"
+		"chi"		"**电源接通了，你可以打开大门开关 **"
 	}
 	"Zombie shield is disabled."
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙已关闭 **"
 	}
 	"Hold this position for 10 seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒!! **"
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**切尔诺贝利的大门将在20秒后打开 **"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将被空气墙阻断30秒 **"
 	}
 	"Survive for 70 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**守住并存活70秒!! **"
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹将50秒后到达，找好掩体并躲好 **"
 	}
 	"**15 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒 **"
 	}
 	"**5 SECONDS LEFT**"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"A player picked up flash"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起神器：电 **"
 	}
 	"A player picked up meatchunk"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拿起神器：诱引 **"
 	}
 }
