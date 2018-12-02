@@ -6,7 +6,7 @@
 	}
 	"teleport in 20sec"
 	{
-		"chi"		"**人类将在20秒后传送**"
+		"chi"		"**20秒后传送,下一站：白玉楼**"
 	}
 	"hold 10 sec"
 	{
@@ -266,7 +266,7 @@
 	}
 	"hold in 45s"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45秒**"
 	}
 	"stay around the tree"
 	{
@@ -298,7 +298,7 @@
 	}
 	"**map by koyomaple**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:koyomaple（枫）**"
 	}
 	"**lines27**"
 	{
@@ -354,7 +354,7 @@
 	}
 	"hold 35 s"
 	{
-		"chi"		"** **"
+		"chi"		"**守住35秒**"
 	}
 	"**lines10**"
 	{
@@ -370,15 +370,15 @@
 	}
 	"**lines13**"
 	{
-		"chi"		"** **"
+		"chi"		"**妖梦：再往前走的话，被幽幽子大人吃掉我也不管的了哦**"
 	}
 	"**lines14**"
 	{
-		"chi"		"** **"
+		"chi"		"**妖梦：上次幽幽子大人差点把我的半灵（麻薯）吃了呜~**"
 	}
 	"**lines15**"
 	{
-		"chi"		"** **"
+		"chi"		"**(>_<)**"
 	}
 	"zombies tel in 15sec"
 	{
@@ -422,7 +422,7 @@
 	}
 	"**thanks for testing and playing**"
 	{
-		"chi"		"**衷心感谢帮忙、测试和游玩，幻想乡将会一步步完善起来**"
+		"chi"		"**非常感谢帮忙、测试和游玩的玩家，幻想乡将会一步步完善起来**"
 	}
 	"**Monster invaded gensokyo,help reimu to clear them  **"
 	{
@@ -446,7 +446,7 @@
 	}
 	"glass will break in 25s"
 	{
-		"chi"		"**魔法阻碍10秒后消失**"
+		"chi"		"**魔法阻碍25秒后消失**"
 	}
 	"zombies teleport in middle in 10sec"
 	{
@@ -458,7 +458,7 @@
 	}
 	"**item P has been picked up**"
 	{
-		"chi"		"**神器：P被玩家拾取**"
+		"chi"		"**神器：《P》被玩家拾取**"
 	}
 	"**tips:unlimit ammo and healing**"
 	{
@@ -470,7 +470,7 @@
 	}
 	"**boss will kill all humans in 200sec**"
 	{
-		"chi"		"**200秒后浊气将侵蚀所有人类**"
+		"chi"		"**200秒后魔物的浊气将侵蚀所有人类**"
 	}
 	"**DEFEND**"
 	{
