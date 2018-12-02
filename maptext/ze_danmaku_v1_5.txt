@@ -88,4 +88,52 @@
 	{
 		"chi"		"** **"
 	}
+	"<< DODGE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< SHIFT >>"
+	{
+		"chi"		"** **"
+	}
+	"<< COSMIC FALL >>"
+	{
+		"chi"		"** **"
+	}
+	"<< INFECTED DETECTED >>"
+	{
+		"chi"		"** **"
+	}
+	">STAGE:EXPERT<"
+	{
+		"chi"		"** **"
+	}
+	"<ZOMBIE HAS PICKED UP:MANIPULATION>"
+	{
+		"chi"		"** **"
+	}
+	">PLAYER HAS PICKED UP:GIST<"
+	{
+		"chi"		"** **"
+	}
+	">PLAYER HAS PICKED UP:HOLY AURA<"
+	{
+		"chi"		"** **"
+	}
+	">PLAYER HAS PICKED UP:PONDER<"
+	{
+		"chi"		"** **"
+	}
+	"<< EYE OF HEALING >>"
+	{
+		"chi"		"** **"
+	}
+	"*Healed*"
+	{
+		"chi"		"** **"
+	}
+	"<< SCRAMBLE >>"
+	{
+		"chi"		"** **"
+	}
 }

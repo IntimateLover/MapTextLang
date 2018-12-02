@@ -112,6 +112,10 @@
 	{
 		"chi"		"**剩余1秒**"
 	}
+	"sync_version"
+	{
+		"syncvalue"		"63676"
+	}
 	"<--Wood door will break in 40s-->"
 	{
 		"chi"		"**木门将在40秒后碎裂**"
@@ -179,14 +183,17 @@
 	"<--Dragon uses black hole-->"
 	{
 		"chi"		"**龙释放黑洞**"
+		"DoorCountdown"		"3"
 	}
 	"<--Dragon uses fire-->"
 	{
 		"chi"		"**龙释放火焰**"
+		"DoorCountdown"		"4"
 	}
 	"<--Dragon uses meteor-->"
 	{
 		"chi"		"**龙释放陨石**"
+		"DoorCountdown"		"3"
 	}
 	"<--Wood door will break in 15s-->"
 	{
