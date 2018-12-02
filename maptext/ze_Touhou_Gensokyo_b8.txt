@@ -258,7 +258,7 @@
 	}
 	"jump!"
 	{
-		"chi"		"** **"
+		"chi"		"**上升气流已启动，赶紧往上跳！**"
 	}
 	"zombies tel in 10sec"
 	{
@@ -270,7 +270,7 @@
 	}
 	"stay around the tree"
 	{
-		"chi"		"** **"
+		"chi"		"**呆在西行妖附近进入传送**"
 	}
 	"hole teleport enable in 25sec"
 	{
@@ -282,7 +282,7 @@
 	}
 	"**models most from MMD**"
 	{
-		"chi"		"** **"
+		"chi"		"**模型大部分来自MMD，感谢制作他们的作者**"
 	}
 	"**thaks for testing and playing**"
 	{
@@ -422,118 +422,118 @@
 	}
 	"**thanks for testing and playing**"
 	{
-		"chi"		"** **"
+		"chi"		"**衷心感谢帮忙、测试和游玩，幻想乡将会一步步完善起来**"
 	}
 	"**Monster invaded gensokyo,help reimu to clear them  **"
 	{
-		"chi"		"** **"
+		"chi"		"**不知从何而来的魔物入侵了幻想乡，帮助灵梦完成巫女工作把他们退治掉吧**"
 	}
 	"**A player contribute and get a powerful item**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家向塞钱箱塞了钱币并得到了灵梦给予的强力道具**"
 	}
 	"door open in 10sec"
 	{
-		"chi"		"** **"
+		"chi"		"**红魔馆大门还有10秒打开，不要惊醒沉睡中的门番哦**"
 	}
 	"**hold 20sec**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒**"
 	}
 	"teleport enable in 30sec"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后启动传送**"
 	}
 	"glass will break in 25s"
 	{
-		"chi"		"** **"
+		"chi"		"**魔法阻碍10秒后消失**"
 	}
 	"zombies teleport in middle in 10sec"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送到图书馆中部**"
 	}
 	"**boss fight in 10sec**"
 	{
-		"chi"		"** **"
+		"chi"		"**距离魔物苏醒还有10秒，在时限内抓紧退治它**"
 	}
 	"**item P has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"**神器：P被玩家拾取**"
 	}
 	"**tips:unlimit ammo and healing**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：站在P点神器周围有十秒无限弹药和回血效果**"
 	}
 	"**map still in testing,would have many bugs**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图还在测试中，会有很多BUG出现。以后版本可能会有很大程度变化**"
 	}
 	"**boss will kill all humans in 200sec**"
 	{
-		"chi"		"** **"
+		"chi"		"**200秒后浊气将侵蚀所有人类**"
 	}
 	"**DEFEND**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：恶魔眷属（远离中间尸笼）**"
 	}
 	"**keep defending in 15s**"
 	{
-		"chi"		"** **"
+		"chi"		"**尸笼关闭倒计时15秒**"
 	}
 	"**FALL**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：光壁陨落（站内圈躲避天坠）**"
 	}
 	"**CRYSTAL**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：冰晶穿刺（看头顶躲避三次下落水晶）**"
 	}
 	"**SHIELD**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：盾之庇护（集火输出打碎护盾）**"
 	}
 	"**DARK**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：暗狱吞噬（寻找场地上三个发光平台逃离黑暗）**"
 	}
 	"**darkdeath in coming after 10sec**"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后处死徘徊在黑暗中的人类**"
 	}
 	"**PUSH**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：震荡冲击（按W应对推力后躲避天坠）**"
 	}
 	"**SHAKE**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：撼地之怒（跳跃三次躲避伤害）**"
 	}
 	"**BEAM**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：电击审判（躲避红色光线）**"
 	}
 	"**CORE**"
 	{
-		"chi"		"** **"
+		"chi"		"**技能：融火核心（蹲下）**"
 	}
 	"**break the core quickly!**"
 	{
-		"chi"		"** **"
+		"chi"		"**尽快打掉boss头上的水晶！**"
 	}
 	"**fire**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机效果：半场点燃**"
 	}
 	"**blind**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机效果：致盲（持续3秒）**"
 	}
 	"**reverse**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机效果：反向（持续5秒）**"
 	}
 	"**laser**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机效果：跳刀（两次高低）**"
 	}
 }
