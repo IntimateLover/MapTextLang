@@ -44,7 +44,7 @@
 	{
 		"chi"		"**10秒后传送在出生点的挂机玩家 **"
 	}
-	"** 20 SECONDS LEFT **"
+	"** 20 seconds left **"
 	{
 		"chi"		"** 还剩20秒**"
 		"DoorCountdown"		"20"
@@ -58,7 +58,7 @@
 	{
 		"chi"		"**清理在出生点的挂机玩家 **"
 	}
-	"** 10 SECONDS LEFT **"
+	"** 10 seconds left **"
 	{
 		"chi"		"**还剩10秒 **"
 	}
@@ -66,7 +66,7 @@
 	{
 		"chi"		"**洞穴的路将在10秒内开放！ **"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -81,6 +81,7 @@
 	"** CITY's AFK TELEPORT IN 10s **"
 	{
 		"chi"		"**城里的挂机玩家将在10秒内传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"** CITY's AFK TELEPORT **"
 	{
@@ -240,6 +241,7 @@
 	"** CITYs AFK TELEPORT IN 10s **"
 	{
 		"chi"		"**城里的挂机玩家将在10秒内传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"** CITYs AFK TELEPORT **"
 	{
@@ -309,7 +311,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -332,6 +334,7 @@
 	"***CITY AFK TELEPORT IN 10s***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"***15 SECOND LEFT***"
 	{
@@ -341,7 +344,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***5 SECOND LEFT***"
+	"***5 second left***"
 	{
 		"chi"		"** **"
 	}

@@ -288,6 +288,7 @@
 	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"45"
 	}
 	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
 	{
