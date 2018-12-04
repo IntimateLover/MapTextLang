@@ -531,7 +531,7 @@
 	"**Groudon used Fissure!**"
 	{
 		"chi"		"**去两边出现的平台**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Get on the side platforms**"
 	{
@@ -540,12 +540,12 @@
 	"**Groudon is rising up platforms!**"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Groudon used Roar!**"
 	{
 		"chi"		"**咆哮（按住w）**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
@@ -595,7 +595,7 @@
 	{
 		"chi"		"**20秒! **"
 	}
-	"10 SECONDS!"
+	"10 seconds!"
 	{
 		"chi"		"**10秒! **"
 	}
@@ -942,7 +942,7 @@
 	"Cyrus: Honchkrow use Night Slash"
 	{
 		"chi"		"**跳刀**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"DODGE THE SLASHES!"
 	{
@@ -975,7 +975,7 @@
 	"Cyrus: Crobat, use Cross Venom"
 	{
 		"chi"		"**交叉刀**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"Crobat has fainted."
 	{
@@ -1048,7 +1048,7 @@
 	"GIRATINA USED VOID"
 	{
 		"chi"		"**走到鬼龙正前方**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"GO TO THE FRONT HURRY"
 	{
@@ -1057,17 +1057,17 @@
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
 		"chi"		"**骑拉帝纳使用怪异旋风(BOSS方向按住W！！)**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
 		"chi"		"**骑拉帝纳使用黑暗力量!(上梯子)**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
@@ -1076,17 +1076,17 @@
 	"Cyrus: Weavile use Beat Up."
 	{
 		"chi"		"**赤日:玛狃拉使用毒打. **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Giratina used Dragon Claw**"
 	{
 		"chi"		"**骑拉帝纳使用龙之爪(跳刀)**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Arceus used Judgement**"
 	{
 		"chi"		"**审判(射击头顶橙色的球)**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Arceus used Roar of Time**"
 	{
@@ -1095,12 +1095,12 @@
 	"**Arceus used Living Earth**"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"**Arceus used Spacial Rend**"
 	{
 		"chi"		"**亚空切断(跳刀)**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"Cyrus: Crobat use Antonish."
 	{
@@ -1133,5 +1133,130 @@
 	"Cyrus: Crobat, use Cross Venom."
 	{
 		"chi"		"**赤日:叉字蝠,使用十字毒. **"
+	}
+	"**Defend until something happens**"
+	{
+		"DoorCountdown"		"33"
+	}
+	"**CROBAT FAINTED, PATH CLEAR**"
+	{
+		"chi"		"** **"
+	}
+	"**DEFEND FOR 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**STAY IN THIS PLATFORM, OR YOU WILL GET PUNISHED**"
+	{
+		"chi"		"** **"
+	}
+	"**Cyrus: You may have defeated the shadow Pokemon**"
+	{
+		"chi"		"** **"
+	}
+	"**Cyrus: Weavile, Night Slash Barrage**"
+	{
+		"chi"		"** **"
+	}
+	"**Cyrus: But you still have to deal with me**"
+	{
+		"chi"		"** **"
+	}
+	"**Cyrus has been defeated**"
+	{
+		"chi"		"** **"
+	}
+	"**LEVEL 4 COMPLETED**"
+	{
+		"chi"		"** **"
+	}
+	"**MAP BY LEVEL 100 CROBAT**"
+	{
+		"chi"		"** **"
+	}
+	"**SPECIAL THANKS: ANTITEAL**"
+	{
+		"chi"		"** **"
+	}
+	"**Level 5**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleporter will be activated in 60 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The ramps to Spear Pilar are gone**"
+	{
+		"chi"		"** **"
+	}
+	"**!?**"
+	{
+		"chi"		"** **"
+	}
+	"**Two portals to the Distortion World surged**"
+	{
+		"chi"		"** **"
+	}
+	"**Thats the Spear Pillar symbol**"
+	{
+		"chi"		"** **"
+	}
+	"**Perhaps it will serve us as a teleporter**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend until the teleport activates**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"**Teleport enabled**"
+	{
+		"chi"		"** **"
+	}
+	"**We will be teleported in 60 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**ITS ARCEUS!**"
+	{
+		"chi"		"** **"
+	}
+	"**Shoot the sphere above of us!**"
+	{
+		"chi"		"** **"
+	}
+	"**Arceus has fainted!**"
+	{
+		"chi"		"** **"
+	}
+	"**HUMANS TELEPORT IN 10 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombies teleport in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend here for 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend here for 5 more seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend for 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend for 5 more seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Its Darkrai!**"
+	{
+		"chi"		"** **"
 	}
 }

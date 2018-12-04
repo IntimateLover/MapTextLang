@@ -1,0 +1,45 @@
+"BOSSHP"
+{
+	"5238"
+	{
+		"enable"		"0"
+		"hammerid"		"5238"
+		"m_iname"		"break2"
+	}
+	"5147"
+	{
+		"enable"		"0"
+		"hammerid"		"5147"
+		"m_iname"		"break1"
+	}
+	"5656"
+	{
+		"enable"		"0"
+		"hammerid"		"5656"
+		"m_iname"		"break3"
+	}
+	"8179"
+	{
+		"enable"		"0"
+		"hammerid"		"8179"
+		"m_iname"		"lastfloor"
+	}
+	"13299"
+	{
+		"enable"		"0"
+		"hammerid"		"13299"
+		"m_iname"		"lastfloor"
+	}
+	"13311"
+	{
+		"enable"		"0"
+		"hammerid"		"13311"
+		"m_iname"		"lastfloor"
+	}
+	"20406"
+	{
+		"enable"		"0"
+		"hammerid"		"20406"
+		"m_iname"		"spawnbreak"
+	}
+}

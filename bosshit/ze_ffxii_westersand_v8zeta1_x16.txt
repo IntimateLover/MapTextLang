@@ -584,37 +584,37 @@
 	}
 	"7618364"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"7618364"
 		"m_iname"		"Espers_Mateus_Physbox"
 	}
 	"7618328"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"7618328"
 		"m_iname"		"Espers_Belias_Physbox"
 	}
 	"7618479"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"7618479"
 		"m_iname"		"Espers_Chaos_Physbox"
 	}
 	"7618559"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"7618559"
 		"m_iname"		"Chaos_Summon_Physbox"
 	}
 	"7618679"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"7618679"
 		"m_iname"		"Mateus_Summon_Physbox"
 	}
 	"7618628"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"7618628"
 		"m_iname"		"Belias_Summon_Physbox"
 	}

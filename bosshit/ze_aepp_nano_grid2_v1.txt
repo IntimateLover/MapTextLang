@@ -48,4 +48,52 @@
 		"hammerid"		"359397"
 		"m_iname"		"DoubleJump_phys&6081"
 	}
+	"349439"
+	{
+		"enable"		"0"
+		"hammerid"		"349439"
+		"m_iname"		"Wall2_1"
+	}
+	"349559"
+	{
+		"enable"		"0"
+		"hammerid"		"349559"
+		"m_iname"		"Wall2_2"
+	}
+	"349668"
+	{
+		"enable"		"0"
+		"hammerid"		"349668"
+		"m_iname"		"Wall2_3"
+	}
+	"349797"
+	{
+		"enable"		"0"
+		"hammerid"		"349797"
+		"m_iname"		"Wall2_4"
+	}
+	"350000"
+	{
+		"enable"		"0"
+		"hammerid"		"350000"
+		"m_iname"		"Wall2_5"
+	}
+	"350138"
+	{
+		"enable"		"0"
+		"hammerid"		"350138"
+		"m_iname"		"Wall2_6"
+	}
+	"368553"
+	{
+		"enable"		"0"
+		"hammerid"		"368553"
+		"m_iname"		"St2_zm1"
+	}
+	"368616"
+	{
+		"enable"		"0"
+		"hammerid"		"368616"
+		"m_iname"		"St2_zm2"
+	}
 }

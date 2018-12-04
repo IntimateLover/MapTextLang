@@ -164,7 +164,7 @@
 	}
 	"583084"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"583084"
 		"m_iname"		"Arceus"
 	}
@@ -224,7 +224,7 @@
 	}
 	"384380"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"384380"
 		"m_iname"		"Giratina"
 	}
@@ -302,7 +302,7 @@
 	}
 	"184214"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"184214"
 		"m_iname"		"Groudon"
 	}
@@ -416,7 +416,7 @@
 	}
 	"909387"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"909387"
 		"m_iname"		"kirlia"
 	}
@@ -428,7 +428,7 @@
 	}
 	"909384"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"909384"
 		"m_iname"		"Crobat"
 	}
@@ -494,19 +494,19 @@
 	}
 	"540217"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"540217"
-		"m_iname"		"Level2_PrimalGroudon_Breakable"
+		"m_iname"		"mt_add"
 	}
 	"309863"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"309863"
 		"m_iname"		"Purugly"
 	}
 	"309852"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"309852"
 		"m_iname"		"Skuntank"
 	}
@@ -589,5 +589,71 @@
 		"enable"		"0"
 		"hammerid"		"385492"
 		"m_iname"		"darkforce_platform_right"
+	}
+	"437145"
+	{
+		"enable"		"0"
+		"hammerid"		"437145"
+		"m_iname"		"HelioFinal"
+	}
+	"437155"
+	{
+		"enable"		"0"
+		"hammerid"		"437155"
+		"m_iname"		"WeavileFinal"
+	}
+	"606076"
+	{
+		"enable"		"0"
+		"hammerid"		"606076"
+		"m_iname"		"Arceus_LivingEarth_Bridge"
+	}
+	"606312"
+	{
+		"enable"		"0"
+		"hammerid"		"606312"
+		"m_iname"		"Arceus_Judgement_Breakable"
+	}
+	"659504"
+	{
+		"enable"		"0"
+		"hammerid"		"659504"
+		"m_iname"		"heliobatlleplatformbreak2"
+	}
+	"659507"
+	{
+		"enable"		"0"
+		"hammerid"		"659507"
+		"m_iname"		"heliobatlleplatformbreak2"
+	}
+	"1211288"
+	{
+		"enable"		"0"
+		"hammerid"		"1211288"
+		"m_iname"		"Level5_FinalLasersPrepPlatform"
+	}
+	"1302090"
+	{
+		"enable"		"0"
+		"hammerid"		"1302090"
+		"m_iname"		"Level5_AntiCampPlatform"
+	}
+	"1256825"
+	{
+		"enable"		"0"
+		"hammerid"		"1256825"
+		"m_iname"		"Level5_FinalLasers_Platform"
+	}
+	"1242046"
+	{
+		"enable"		"0"
+		"hammerid"		"1242046"
+		"m_iname"		"Level5_DarkraiFinalBreak"
+	}
+	"1211251"
+	{
+		"enable"		"0"
+		"hammerid"		"1211251"
+		"m_iname"		"Level5_FinalPlatform"
 	}
 }
