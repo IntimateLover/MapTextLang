@@ -531,7 +531,7 @@
 	"**Groudon used Fissure!**"
 	{
 		"chi"		"**去两边出现的平台**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Get on the side platforms**"
 	{
@@ -540,12 +540,12 @@
 	"**Groudon is rising up platforms!**"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Groudon used Roar!**"
 	{
 		"chi"		"**咆哮（按住w）**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
@@ -942,7 +942,7 @@
 	"Cyrus: Honchkrow use Night Slash"
 	{
 		"chi"		"**跳刀**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"DODGE THE SLASHES!"
 	{
@@ -975,7 +975,7 @@
 	"Cyrus: Crobat, use Cross Venom"
 	{
 		"chi"		"**交叉刀**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"Crobat has fainted."
 	{
@@ -1048,7 +1048,7 @@
 	"GIRATINA USED VOID"
 	{
 		"chi"		"**走到鬼龙正前方**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"GO TO THE FRONT HURRY"
 	{
@@ -1057,17 +1057,17 @@
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
 		"chi"		"**骑拉帝纳使用怪异旋风(BOSS方向按住W！！)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
 		"chi"		"**骑拉帝纳使用黑暗力量!(上梯子)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
@@ -1076,17 +1076,17 @@
 	"Cyrus: Weavile use Beat Up."
 	{
 		"chi"		"**赤日:玛狃拉使用毒打. **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Giratina used Dragon Claw**"
 	{
 		"chi"		"**骑拉帝纳使用龙之爪(跳刀)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Arceus used Judgement**"
 	{
 		"chi"		"**审判(射击头顶橙色的球)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Arceus used Roar of Time**"
 	{
@@ -1095,12 +1095,12 @@
 	"**Arceus used Living Earth**"
 	{
 		"chi"		"**防守尸笼**"
-		"DoorCountdown"		"12"
+		"DoorCountDown"		"12"
 	}
 	"**Arceus used Spacial Rend**"
 	{
 		"chi"		"**亚空切断(跳刀)**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"Cyrus: Crobat use Antonish."
 	{
@@ -1136,7 +1136,7 @@
 	}
 	"**Defend until something happens**"
 	{
-		"DoorCountdown"		"33"
+		"DoorCountDown"		"33"
 	}
 	"**CROBAT FAINTED, PATH CLEAR**"
 	{
@@ -1209,7 +1209,7 @@
 	"**Defend until the teleport activates**"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Teleport enabled**"
 	{
