@@ -396,4 +396,10 @@
 		"hammerid"		"3749"
 		"m_iname"		"barrera33"
 	}
+	"3021"
+	{
+		"enable"		"1"
+		"hammerid"		"3021"
+		"m_iname"		"bahamut"
+	}
 }
