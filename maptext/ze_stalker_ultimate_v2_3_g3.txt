@@ -115,7 +115,7 @@
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
-		"chi"		"**你们赢了，你们解锁了另外一种模式**"
+		"chi"		"**你们赢了，成功解锁下一关**"
 	}
 	"**AUTO-SLAYER ENABLED**"
 	{
@@ -139,7 +139,7 @@
 	}
 	"**now is the time to see something new**"
 	{
-		"chi"		"**现在是时候看到新的东西了**"
+		"chi"		"**现在是时候去发掘新的事物**"
 	}
 	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
 	{
@@ -280,5 +280,21 @@
 	"**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
 	{
 		"chi"		"**离胜利不远了，坚持住！**"
+	}
+	"**Bloodsucker have been defeated**"
+	{
+		"chi"		"**吸血鬼被打败了**"
+	}
+	"**Your items got more power**"
+	{
+		"chi"		"**你可以使用更高级的神器**"
+	}
+	"**Wait until the debris break**"
+	{
+		"chi"		"**等待废墟爆炸（注意左边通道不是路）**"
+	}
+	"**OPENING THE GATES (10 SECONDS)**"
+	{
+		"chi"		"**门将10秒后打开**"
 	}
 }
