@@ -67,22 +67,18 @@
 	"*** Nymian device 1 activated ***"
 	{
 		"chi"		"**1号尼姆装置已被激活 **"
-		"ico"		"icon_fire"
 	}
 	"*** Nymian device 2 activated ***"
 	{
 		"chi"		"**2号尼姆装置已被激活 **"
-		"ico"		"icon_fire"
 	}
 	"*** Nymian device 3 activated ***"
 	{
 		"chi"		"**3号尼姆装置已被激活 **"
-		"ico"		"icon_fire"
 	}
 	"*** Nymian device 4 activated ***"
 	{
 		"chi"		"**4号尼姆装置已被激活 **"
-		"ico"		"icon_fire"
 	}
 	"*** ALL Nymian device Activated ***"
 	{
@@ -166,22 +162,18 @@
 	"*** Land Slide ***"
 	{
 		"chi"		"**热离子光束**"
-		"ico"		"icon_fire"
 	}
 	"*** Heavens Fall ***"
 	{
 		"chi"		"**天堂陨落**"
-		"ico"		"icon_fire"
 	}
 	"*** Cauterize***"
 	{
 		"chi"		"**冲击 **"
-		"ico"		"icon_fire"
 	}
 	"*** Flare ***"
 	{
 		"chi"		"**火**"
-		"ico"		"icon_fire"
 	}
 	"*** Behemoth King dead ***"
 	{
@@ -234,7 +226,6 @@
 	"*** Chase the ADS ***"
 	{
 		"chi"		"**追上ADS **"
-		"ico"		"icon_fire"
 	}
 	"*** 30 seconds to Open Door ***"
 	{
@@ -281,7 +272,6 @@
 	"***ADS Attack***"
 	{
 		"chi"		"**ADS攻击**"
-		"ico"		"icon_fire"
 	}
 	"*** Model :Dakotec ***"
 	{
@@ -315,7 +305,6 @@
 	"***Flare***"
 	{
 		"chi"		"**龙之吐息 **"
-		"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
@@ -324,12 +313,10 @@
 	"***Heavens Fall***"
 	{
 		"chi"		"**天堂陨落**"
-		"ico"		"icon_fire"
 	}
 	"***Earth Shaker***"
 	{
 		"chi"		"**地震**"
-		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime dead***"
 	{
@@ -381,7 +368,6 @@
 	"***Tempest Wing***"
 	{
 		"chi"		"**暴风之翼（往平台后方走，出现吸力按住S回头打BOSS）**"
-		"ico"		"icon_fire"
 	}
 	"*** Level:Savage ***"
 	{
@@ -430,12 +416,10 @@
 	"*** Shadow Flare ***"
 	{
 		"chi"		"**电**"
-		"ico"		"icon_fire"
 	}
 	"*** Cauterize ***"
 	{
 		"chi"		"**龙车来袭 **"
-		"ico"		"icon_fire"
 	}
 	"*** True Bahamut appeared ***"
 	{
@@ -444,17 +428,14 @@
 	"*** True Tempest wing ***"
 	{
 		"chi"		"**真-暴风之翼 **"
-		"ico"		"icon_fire"
 	}
 	"*** True Heavens fall ***"
 	{
 		"chi"		"**真天堂陨落**"
-		"ico"		"icon_fire"
 	}
 	"*** Steam Judge ***"
 	{
 		"chi"		"**蒸汽制裁 **"
-		"ico"		"icon_fire"
 	}
 	"*** Sentence to death ***"
 	{
@@ -533,22 +514,18 @@
 	"*** Ultimate Heavens fall ***"
 	{
 		"chi"		"**极天堂陨落**"
-		"ico"		"icon_fire"
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
 		"chi"		"**极-暗影耀斑 **"
-		"ico"		"icon_fire"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
 		"chi"		"**极-暴风之翼**"
-		"ico"		"icon_fire"
 	}
 	"*** Ultimate Cauterize ***"
 	{
 		"chi"		"**极-龙车来袭 **"
-		"ico"		"icon_fire"
 	}
 	"*** Shield Oath ***"
 	{
@@ -557,7 +534,6 @@
 	"*** Dark Bahamut is blocking the road ***"
 	{
 		"chi"		"**暗黑巴哈姆特挡住了道路**"
-		"ico"		"icon_fire"
 	}
 	"***Ultimate Akh Morn***"
 	{
