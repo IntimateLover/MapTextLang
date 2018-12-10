@@ -696,4 +696,16 @@
 		"hammerid"		"864001"
 		"m_iname"		"CENSORED"
 	}
+	"840348"
+	{
+		"enable"		"0"
+		"hammerid"		"840348"
+		"m_iname"		"ex2shrine_wall"
+	}
+	"468182"
+	{
+		"enable"		"0"
+		"hammerid"		"468182"
+		"m_iname"		"bahamut_earth"
+	}
 }

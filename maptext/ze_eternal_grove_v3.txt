@@ -154,15 +154,15 @@
 	}
 	"***HUMANS MUST GO AND SLAY THE REMAINING ZOMBIES***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类必须冲出去清光剩余的僵尸。**"
 	}
 	"***STAYING BEHIND WILL RESULT IN DEATH***"
 	{
-		"chi"		"** **"
+		"chi"		"**躲在后面桥上的人类将会在一段时间后死亡。**"
 	}
 	"***HUMANS BEHIND WILL NOW DIE***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在，躲在后面的人类即将死亡。**"
 	}
 	"***WARMUP - 5 SECONDS LEFT***"
 	{

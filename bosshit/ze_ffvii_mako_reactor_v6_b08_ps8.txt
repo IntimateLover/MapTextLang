@@ -306,4 +306,52 @@
 		"hammerid"		"3653695"
 		"m_iname"		"Sephiroth_Bridge_Breakable"
 	}
+	"3770028"
+	{
+		"enable"		"1"
+		"hammerid"		"3770028"
+		"m_iname"		"Boss_Bahamut_Breakable"
+	}
+	"3809630"
+	{
+		"enable"		"0"
+		"hammerid"		"3809630"
+		"m_iname"		"Impulse_Target_A&4303"
+	}
+	"3809633"
+	{
+		"enable"		"0"
+		"hammerid"		"3809633"
+		"m_iname"		"Impulse_Target_B&4303"
+	}
+	"3809636"
+	{
+		"enable"		"0"
+		"hammerid"		"3809636"
+		"m_iname"		"Impulse_Target_D&4303"
+	}
+	"3809639"
+	{
+		"enable"		"0"
+		"hammerid"		"3809639"
+		"m_iname"		"Impulse_Target_C&4303"
+	}
+	"3655561"
+	{
+		"enable"		"0"
+		"hammerid"		"3655561"
+		"m_iname"		"Sephiroth_Final_Breakable"
+	}
+	"3994669"
+	{
+		"enable"		"0"
+		"hammerid"		"3994669"
+		"m_iname"		"Final_Fulgor_Breakable"
+	}
+	"5029181"
+	{
+		"enable"		"0"
+		"hammerid"		"5029181"
+		"m_iname"		"Baha_Mat_Barrier_Breakable"
+	}
 }
