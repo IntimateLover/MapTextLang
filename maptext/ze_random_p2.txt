@@ -155,6 +155,7 @@
 	"***Emergency doors closing in 10secs!***"
 	{
 		"chi"		"**应急出口的门将在 10 秒后关闭！**"
+		"DoorCountdown"		"10"
 	}
 	"***Boxcar door opening in 10secs!***"
 	{
@@ -282,7 +283,7 @@
 	"***Zombie will arrive in 10secs!***"
 	{
 		"chi"		"**僵尸将在 10 秒后抵达！**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"-1"
 	}
 	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
 	{
@@ -291,6 +292,7 @@
 	"***Valves unlocked in 35secs!***"
 	{
 		"chi"		"**水阀将在 35 秒后解锁！**"
+		"DoorCountdown"		"35"
 	}
 	"***Shoot the Block!***"
 	{

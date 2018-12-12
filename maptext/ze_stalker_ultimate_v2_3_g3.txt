@@ -297,4 +297,28 @@
 	{
 		"chi"		"**门将10秒后打开**"
 	}
+	"**There are zombies in bunker. The level is failed.**"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS HAS MAXIMUM HP***"
+	{
+		"chi"		"** **"
+	}
+	"**NIGHTSTAR GOT MAXIMUM POWER**"
+	{
+		"chi"		"** **"
+	}
+	"**PREPARE TO MOVE IN 10 SECONDS!**"
+	{
+		"chi"		"** **"
+	}
+	"**GO!!**GO!!**GO!!**"
+	{
+		"chi"		"** **"
+	}
+	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
+	{
+		"chi"		"** **"
+	}
 }
