@@ -14,13 +14,13 @@
 	}
 	"1710"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1710"
 		"m_iname"		"B1_Phys"
 	}
 	"1648"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1648"
 		"m_iname"		"B1_Ghost"
 	}
