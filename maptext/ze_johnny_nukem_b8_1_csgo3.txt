@@ -157,6 +157,7 @@
 	"**Theres no way out... Hold here until something happens!**"
 	{
 		"chi"		"**这里已经是死路了...守住这里直到发生什么事情**"
+		"DoorCountdown"		"20"
 	}
 	"**FALL BACK**"
 	{
@@ -468,6 +469,7 @@
 	"**Defend here until something happens**"
 	{
 		"chi"		"**守住僵尸直到什么东西出现**"
+		"DoorCountdown"		"25"
 	}
 	"**A path has appeared!**Fall back**"
 	{
