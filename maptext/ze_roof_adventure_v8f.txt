@@ -408,22 +408,14 @@
 	}
 	"***Laser race will begin later!***"
 	{
-		"chi"		"** **"
-	}
-	"***A zombie has picked up fireball! ***"
-	{
-		"chi"		"** **"
-	}
-	"***Find a place to hold for 45s! ***"
-	{
-		"chi"		"** **"
+		"chi"		"**跳刀竞赛将要开始！**"
 	}
 	"***Teleport all players in 20s! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有玩家在20秒后传送！**"
 	}
 	"***Zombies will come in 20s!***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有僵尸将在20秒后到来！**"
 	}
 }
