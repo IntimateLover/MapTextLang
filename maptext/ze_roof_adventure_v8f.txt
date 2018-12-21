@@ -1,9 +1,6 @@
 "Console_T"
 {
-	"sync_version"
-	{
-		"syncvalue"		"57742"
-	}
+
 	"***Map Made By Color!***"
 	{
 		"chi"		"**地图作者：酸奶 地图翻译：蓬莱山帅比♪ & 酸奶**"
@@ -408,6 +405,7 @@
 	}
 	"***Laser race will begin later!***"
 	{
+
 		"chi"		"**跳刀竞赛将要开始！**"
 	}
 	"***Teleport all players in 20s! ***"
@@ -417,5 +415,21 @@
 	"***Zombies will come in 20s!***"
 	{
 		"chi"		"**所有僵尸将在20秒后到来！**"
+	}
+	"***A zombie has picked up fireball! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Find a place to hold for 45s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"chi"		"** **"
 	}
 }
