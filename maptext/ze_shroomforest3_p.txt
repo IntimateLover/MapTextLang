@@ -224,7 +224,7 @@
 	}
 	">> LEVEL: POKEBALL <<"
 	{
-		"chi"		"**【LV3/EX3】关卡：宝可梦**
+		"chi"		"**【LV3/EX3】关卡：宝可梦**"
 		"DoorCountdown"		"-1"
 	}
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
