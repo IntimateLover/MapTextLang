@@ -200,6 +200,7 @@
 	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
 	{
 		"chi"		"**骷髅尬舞团已被枪毙**"
+		"DoorCountdown"		"-1"
 	}
 	"*** PLAYER FOUND A KEY ***"
 	{
