@@ -3,12 +3,12 @@
 	"***Defend for 20secs***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Prefinal Hold 50secs***"
 	{
 		"chi"		"**守住50秒**"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
 	{
@@ -53,5 +53,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"84707"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
 	}
 }
