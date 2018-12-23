@@ -164,7 +164,7 @@
 	}
 	"*** Defend until the path is clear ***"
 	{
-		"chi"		"**守到道路清空（双门30秒，EX2洞口25秒）**"
+		"chi"		"**守到道路清空（30秒，EX2蜘蛛或鼹鼠洞20秒）**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -173,12 +173,11 @@
 	}
 	"*** The path is open! RUN!! ***"
 	{
-		"chi"		"**门板碎了，跑**"
+		"chi"		"**道路清空了，丢雷或神器撤退**"
 	}
 	"*** Defend for 20 seconds ***"
 	{
-		"chi"		"**在这个皮卡丘的骨架里面防守**"
-		"DoorCountdown"		"20"
+		"chi"		"**在这个皮卡丘的尸骨里面防守20秒**"
 	}
 	"*** DEFEND FOR 5 SECONDS ***"
 	{
@@ -190,8 +189,7 @@
 	}
 	">> KILL THEM BEFORE ITS TOO LATE <<"
 	{
-		"chi"		"**快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
-		"DoorCountdown"		"85"
+		"chi"		"**75秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
 	}
 	">> ALL 6 MINES USED <<"
 	{
@@ -795,5 +793,9 @@
 	">> THE WORLD WILL FINALLY BE IN PEACE !!! <<"
 	{
 		"chi"		">>世界将会重返和平<<"
+	}
+	">> RESTARTING ROUND IN 5 SECONDS <<"
+	{
+		"chi"		"5秒后全图核爆"
 	}
 }
