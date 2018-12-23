@@ -22,7 +22,8 @@
 	}
 	"* * * Zombie Shield Disable in 20 Seconds! * * *"
 	{
-		"chi"		"**僵尸护盾在20秒后关闭！**"
+		"chi"		"**僵尸护盾在15s后关闭！**"
+		"DoorCountdown"		"15"
 	}
 	"* * * Zombie Shield Disabled! * * *"
 	{
@@ -152,7 +153,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Resetting the map***"
+	"***RESETTING THE MAP***"
 	{
 		"chi"		"** **"
 	}
