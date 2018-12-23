@@ -190,8 +190,7 @@
 	}
 	">> KILL THEM BEFORE ITS TOO LATE <<"
 	{
-		"chi"		"**快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
-		"DoorCountdown"		"85"
+		"chi"		"**75秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
 	}
 	">> ALL 6 MINES USED <<"
 	{
