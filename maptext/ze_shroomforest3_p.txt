@@ -291,12 +291,11 @@
 	}
 	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
 	{
-		"chi"		"**在太迟之前干掉它**"
-		"DoorCountdown"		"45"
+		"chi"		"**在45秒之前干掉它**"
 	}
 	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
 	{
-		"chi"		"**卡比兽即将使用激光束**"
+		"chi"		"**15秒 卡比兽即将使用破坏死光**"
 	}
 	"*** SHOOT BEFORE ITS TOO LATE ***"
 	{
@@ -304,11 +303,11 @@
 	}
 	"*** SNORLAX USED HYPERBEAM ***"
 	{
-		"chi"		"**卡比兽开启了激光束**"
+		"chi"		"**10秒 卡比兽释放了破坏死光**"
 	}
 	"*** SNORLAX USED REST ***"
 	{
-		"chi"		"**卡比兽释放了【休息】**"
+		"chi"		"**卡比兽释放了【休息】ZZZ**"
 	}
 	"*** ESCAPE WHILE HE IS ASLEEP ***"
 	{
