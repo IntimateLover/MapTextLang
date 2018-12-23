@@ -164,7 +164,7 @@
 	}
 	"*** Defend until the path is clear ***"
 	{
-		"chi"		"**守到道路清空（双门30秒，EX2洞口25秒）**"
+		"chi"		"**守到道路清空（30秒，EX2蜘蛛洞20秒鼹鼠洞25秒）**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -177,8 +177,7 @@
 	}
 	"*** Defend for 20 seconds ***"
 	{
-		"chi"		"**在这个皮卡丘的骨架里面防守**"
-		"DoorCountdown"		"20"
+		"chi"		"**在这个皮卡丘的尸骨里面防守20秒**"
 	}
 	"*** DEFEND FOR 5 SECONDS ***"
 	{
