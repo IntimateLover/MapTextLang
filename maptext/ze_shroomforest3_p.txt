@@ -164,7 +164,7 @@
 	}
 	"*** Defend until the path is clear ***"
 	{
-		"chi"		"**守到道路清空（30秒，EX2蜘蛛洞20秒鼹鼠洞25秒）**"
+		"chi"		"**守到道路清空（30秒，EX2蜘蛛或鼹鼠洞20秒）**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
