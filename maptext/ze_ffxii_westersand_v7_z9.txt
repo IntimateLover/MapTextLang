@@ -328,6 +328,7 @@
 	"[WINNER] Selected [GOD MODE] for next round"
 	{
 		"chi"		"** **"
+		"command"		"sm_aei_hammerid 100001 use"
 	}
 	"** Increase Laser Speed For This Round **"
 	{
