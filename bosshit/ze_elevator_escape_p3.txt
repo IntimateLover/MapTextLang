@@ -342,4 +342,10 @@
 		"hammerid"		"166734"
 		"m_iname"		"r_boards_break"
 	}
+	"346954"
+	{
+		"enable"		"0"
+		"hammerid"		"346954"
+		"m_iname"		"RockGibs&6508"
+	}
 }
