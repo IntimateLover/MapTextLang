@@ -283,11 +283,11 @@
 	}
 	"*** IT ATTACKED IN A GRUMPY RAGE !!! ***"
 	{
-		"chi"		"**他现在愤怒了**"
+		"chi"		"**它现在愤怒了**"
 	}
 	"*** SNORLAX IS MAKING US SLEEPY ***"
 	{
-		"chi"		"**卡比兽使用了睡眠**"
+		"chi"		"**卡比兽释放了【催眠之力】**"
 	}
 	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
 	{
@@ -295,7 +295,7 @@
 	}
 	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
 	{
-		"chi"		"**15秒 卡比兽即将使用破坏死光**"
+		"chi"		"**15秒 卡比兽即将使用破坏死光（注意两侧僵尸）**"
 	}
 	"*** SHOOT BEFORE ITS TOO LATE ***"
 	{
@@ -307,7 +307,7 @@
 	}
 	"*** SNORLAX USED REST ***"
 	{
-		"chi"		"**卡比兽释放了【休息】ZZZ**"
+		"chi"		"**卡比兽释放了【自我休息】ZZZ**"
 	}
 	"*** ESCAPE WHILE HE IS ASLEEP ***"
 	{
@@ -399,11 +399,11 @@
 	}
 	"*** ELEVATOR IS STUCK ***"
 	{
-		"chi"		"**电梯卡住了**"
+		"chi"		"**电梯的发电机突然关闭了**"
 	}
 	"*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***"
 	{
-		"chi"		"**能源开关在这层里面，找找看**"
+		"chi"		"**重启发电机的开关在这层里面，找找看**"
 	}
 	"*** NICE JOB!!! ***"
 	{
