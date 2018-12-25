@@ -159,12 +159,12 @@
 	}
 	">> LEVEL: CAVES <<"
 	{
-		"chi"		"**【LV2/EX2】关卡：山洞**"
+		"chi"		"**【LV2/EX2】关卡：地洞**"
 		"DoorCountdown"		"-1"
 	}
 	"*** Defend until the path is clear ***"
 	{
-		"chi"		"**守到道路清空（30秒，EX2蜘蛛或鼹鼠洞20秒）**"
+		"chi"		"**守到道路清空（地洞双门30秒，宝可梦25秒，EX2蜘蛛或鼹鼠洞20秒）**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -181,7 +181,7 @@
 	}
 	"*** DEFEND FOR 5 SECONDS ***"
 	{
-		"chi"		"**5秒剩余**"
+		"chi"		"**在这个皮卡丘的尸骨里面防守5秒，不要让僵尸进来**"
 	}
 	">> OH NO!! ITS THE SPOOKY SCARY SKELETONS <<"
 	{
@@ -197,7 +197,7 @@
 	}
 	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
 	{
-		"chi"		"**骷髅尬舞团已被枪毙**"
+		"chi"		"**骷髅尬舞团已被枪毙，原路返回**"
 		"DoorCountdown"		"-1"
 	}
 	"*** PLAYER FOUND A KEY ***"
@@ -759,7 +759,7 @@
 	}
 	">> PLAYER HAS CHOSEN: CAVES NORMAL <<"
 	{
-		"chi"		"**调关选择了：山洞（LV2）*"
+		"chi"		"**调关选择了：地洞（LV2）*"
 	}
 	">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<"
 	{
@@ -771,7 +771,7 @@
 	}
 	">> PLAYER HAS CHOSEN: CAVES EXTREME <<"
 	{
-		"chi"		"**调关选择了：极限山洞（EX2）**"
+		"chi"		"**调关选择了：极限地洞（EX2）**"
 	}
 	">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<"
 	{
