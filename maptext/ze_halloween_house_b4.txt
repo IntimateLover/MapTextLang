@@ -283,4 +283,8 @@
 	{
 		"chi"		"**房屋大门将在10秒后开启！**"
 	}
+	"** Big Mouse start moving,Push the last button to enable the train quickly"
+	{
+		"chi"		"** **"
+	}
 }

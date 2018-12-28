@@ -93,7 +93,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	"**The gates will open in 25 seconds**"
 	{
 		"chi"		"**大门将在25秒后打开**"
 		"DoorCountdown"		"25"
@@ -166,7 +166,7 @@
 	}
 	"**Gi Nattak is using wind**"
 	{
-		"chi"		"**吉·纳克使用了风想把你推下去（对着它按W）**"
+		"chi"		"**吉·纳克使用了风想把你推下去（对着平台中心按W）**"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
