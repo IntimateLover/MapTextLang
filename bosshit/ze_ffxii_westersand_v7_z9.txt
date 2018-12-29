@@ -374,13 +374,13 @@
 	}
 	"641305"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"641305"
 		"m_iname"		"Guard_3_Physbox"
 	}
 	"641272"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"641272"
 		"m_iname"		"Guard_2_Physbox"
 	}

@@ -1668,13 +1668,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"95076"
-		"m_iname"		"item_mine_phys&0556"
+		"m_iname"		"item_mine_phys&4225"
 	}
 	"30177"
 	{
 		"enable"		"0"
 		"hammerid"		"30177"
-		"m_iname"		"block_UPforw2&7210"
+		"m_iname"		"block"
 	}
 	"95702"
 	{
@@ -1686,12 +1686,252 @@
 	{
 		"enable"		"0"
 		"hammerid"		"28105"
-		"m_iname"		"block_UPforw1&8405"
+		"m_iname"		"block"
 	}
 	"30060"
 	{
 		"enable"		"0"
 		"hammerid"		"30060"
-		"m_iname"		"block_forw2&8489"
+		"m_iname"		"block"
+	}
+	"29217"
+	{
+		"enable"		"0"
+		"hammerid"		"29217"
+		"m_iname"		"block"
+	}
+	"26581"
+	{
+		"enable"		"0"
+		"hammerid"		"26581"
+		"m_iname"		"block"
+	}
+	"28480"
+	{
+		"enable"		"0"
+		"hammerid"		"28480"
+		"m_iname"		"block"
+	}
+	"29791"
+	{
+		"enable"		"0"
+		"hammerid"		"29791"
+		"m_iname"		"block"
+	}
+	"56040"
+	{
+		"enable"		"0"
+		"hammerid"		"56040"
+		"m_iname"		"block"
+	}
+	"69733"
+	{
+		"enable"		"0"
+		"hammerid"		"69733"
+		"m_iname"		"block"
+	}
+	"69807"
+	{
+		"enable"		"0"
+		"hammerid"		"69807"
+		"m_iname"		"block"
+	}
+	"69812"
+	{
+		"enable"		"0"
+		"hammerid"		"69812"
+		"m_iname"		"block"
+	}
+	"69883"
+	{
+		"enable"		"0"
+		"hammerid"		"69883"
+		"m_iname"		"block"
+	}
+	"69886"
+	{
+		"enable"		"0"
+		"hammerid"		"69886"
+		"m_iname"		"block"
+	}
+	"69889"
+	{
+		"enable"		"0"
+		"hammerid"		"69889"
+		"m_iname"		"block"
+	}
+	"69923"
+	{
+		"enable"		"0"
+		"hammerid"		"69923"
+		"m_iname"		"block"
+	}
+	"69926"
+	{
+		"enable"		"0"
+		"hammerid"		"69926"
+		"m_iname"		"block"
+	}
+	"69929"
+	{
+		"enable"		"0"
+		"hammerid"		"69929"
+		"m_iname"		"block"
+	}
+	"69933"
+	{
+		"enable"		"0"
+		"hammerid"		"69933"
+		"m_iname"		"block"
+	}
+	"69939"
+	{
+		"enable"		"0"
+		"hammerid"		"69939"
+		"m_iname"		"block"
+	}
+	"70043"
+	{
+		"enable"		"0"
+		"hammerid"		"70043"
+		"m_iname"		"block"
+	}
+	"70046"
+	{
+		"enable"		"0"
+		"hammerid"		"70046"
+		"m_iname"		"block"
+	}
+	"70049"
+	{
+		"enable"		"0"
+		"hammerid"		"70049"
+		"m_iname"		"block"
+	}
+	"70053"
+	{
+		"enable"		"0"
+		"hammerid"		"70053"
+		"m_iname"		"block"
+	}
+	"70056"
+	{
+		"enable"		"0"
+		"hammerid"		"70056"
+		"m_iname"		"block"
+	}
+	"70059"
+	{
+		"enable"		"0"
+		"hammerid"		"70059"
+		"m_iname"		"block"
+	}
+	"70295"
+	{
+		"enable"		"0"
+		"hammerid"		"70295"
+		"m_iname"		"block"
+	}
+	"70318"
+	{
+		"enable"		"0"
+		"hammerid"		"70318"
+		"m_iname"		"block"
+	}
+	"70321"
+	{
+		"enable"		"0"
+		"hammerid"		"70321"
+		"m_iname"		"block"
+	}
+	"70324"
+	{
+		"enable"		"0"
+		"hammerid"		"70324"
+		"m_iname"		"block"
+	}
+	"70327"
+	{
+		"enable"		"0"
+		"hammerid"		"70327"
+		"m_iname"		"block"
+	}
+	"25708"
+	{
+		"enable"		"0"
+		"hammerid"		"25708"
+		"m_iname"		"block"
+	}
+	"48817"
+	{
+		"enable"		"0"
+		"hammerid"		"48817"
+		"m_iname"		"block"
+	}
+	"83648"
+	{
+		"enable"		"0"
+		"hammerid"		"83648"
+		"m_iname"		"block"
+	}
+	"57609"
+	{
+		"enable"		"0"
+		"hammerid"		"57609"
+		"m_iname"		"block"
+	}
+	"29965"
+	{
+		"enable"		"0"
+		"hammerid"		"29965"
+		"m_iname"		"block"
+	}
+	"49679"
+	{
+		"enable"		"0"
+		"hammerid"		"49679"
+		"m_iname"		"block"
+	}
+	"55983"
+	{
+		"enable"		"0"
+		"hammerid"		"55983"
+		"m_iname"		"block"
+	}
+	"55926"
+	{
+		"enable"		"0"
+		"hammerid"		"55926"
+		"m_iname"		"block"
+	}
+	"55880"
+	{
+		"enable"		"0"
+		"hammerid"		"55880"
+		"m_iname"		"block"
+	}
+	"37834"
+	{
+		"enable"		"0"
+		"hammerid"		"37834"
+		"m_iname"		"block"
+	}
+	"85192"
+	{
+		"enable"		"0"
+		"hammerid"		"85192"
+		"m_iname"		"item_ladder_brush&3919"
+	}
+	"40450"
+	{
+		"enable"		"0"
+		"hammerid"		"40450"
+		"m_iname"		"physboxRocket&4278"
+	}
+	"55755"
+	{
+		"enable"		"0"
+		"hammerid"		"55755"
+		"m_iname"		"block"
 	}
 }

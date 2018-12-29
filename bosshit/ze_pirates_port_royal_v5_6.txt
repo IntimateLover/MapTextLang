@@ -112,25 +112,25 @@
 	}
 	"8159082"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"8159082"
 		"m_iname"		"zm_barbossa_hitbox"
 	}
 	"8159070"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"8159070"
 		"m_iname"		"zm_barbossa_hitbox"
 	}
 	"8159074"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"8159074"
 		"m_iname"		"zm_barbossa_hitbox"
 	}
 	"8159078"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"8159078"
 		"m_iname"		"zm_barbossa_hitbox"
 	}

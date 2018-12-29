@@ -315,22 +315,22 @@
 	"=== RUN FORWARD! PUTIN IS USING PUSH! ==="
 	{
 		"chi"		"**往前走！普金正在使用推力(w)**"
-	        "DoorCountdown"	  "5"
+		"DoorCountdown"		"5"
 	}
 	"=== CROUCH! PUTIN IS THROWING LASERS AT YOU! ==="
 	{
 		"chi"		"**快蹲下！普金即将放出刀片(crouch)**"
-	         "DoorCountdown"	  "5"
+		"DoorCountdown"		"5"
 	}
 	"=== DODGE THE GOPNIKS! ==="
 	{
 		"chi"		"**看前面左右躲! **"
-	         "DoorCountdown"	  "14"
+		"DoorCountdown"		"14"
 	}
 	"=== DESTROY ALL VODKA BOTTLES QUICKLY OR RIP ==="
 	{
 		"chi"		"**快点打碎上方的伏特加酒瓶否则G G**"
-	        "DoorCountdown"	  "5"
+		"DoorCountdown"		"5"
 	}
 	"=== HURRY UP! ==="
 	{
@@ -339,7 +339,7 @@
 	"=== RUN BACK! PUTIN CASTED GRAVITY! ==="
 	{
 		"chi"		"**往后退！普金正在释放黑洞(s)**"
-	        "DoorCountdown"	  "5"
+		"DoorCountdown"		"5"
 	}
 	"*** PUTIN GOT REKT COMRADE!! NOW RUN!! ***"
 	{
@@ -368,5 +368,41 @@
 	"sync_version"
 	{
 		"syncvalue"		"31850"
+	}
+	"*** Shoot off remaining zombies! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Platform leaves in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** [Putin] I am not done with you yet ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT HIM NOW !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** More lasers bois! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** [Putin] YOU DEFEATED ME??! HOW ??! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** [Putin] I will return......one day... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU BEAT LEVEL 3! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RTV in the chat! ***"
+	{
+		"chi"		"** **"
 	}
 }

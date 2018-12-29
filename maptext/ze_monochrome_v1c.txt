@@ -36,4 +36,56 @@
 	{
 		"syncvalue"		"96929"
 	}
+	"***5s left***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 30s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport in 20s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport in 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport in 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***Freeze Item Picked Up***"
+	{
+		"chi"		"** **"
+	}
+	"***Start in 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***Start in 3s***"
+	{
+		"chi"		"** **"
+	}
+	"***Start in 2s***"
+	{
+		"chi"		"** **"
+	}
+	"***Start in 1s***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies TP to middle in 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks for playing***"
+	{
+		"chi"		"** **"
+	}
 }
