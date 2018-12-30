@@ -1,5 +1,6 @@
 cvarLists：
 
+##########################################################购买类###############################
 #禁止购买AWP和禁用AWP效果
 1 允许 0 禁止
 zr_grenlauncher_enable 1
@@ -20,6 +21,65 @@ sm_ngv_price "2500"
 //0 代表禁止购买
 sm_snowball_price "2000"
 
+
+
+手雷和金钱控制
+sm_g_cv_money "6000" //出生金钱.
+
+sm_armor_limit "1" 【允许购买护甲次数】
+sm_decoy_limit "1" 【允许购买黑洞次数】
+sm_flash_limit   "0"  【允许购买加血雷次数】
+sm_flash_push  "0" 【加血雷启用屏障效果】
+sm_he_limit "4" 【允许购买手雷次数】
+sm_smoke_limit "3" 【允许购买冰冻次数】
+sm_molotov_limit "1" 【允许购买燃烧次数】
+sm_spawn_give_armor "0" 【出生赠送100护甲】
+sm_taggrenade_limit "1" 【允许购买泡泡雷次数】
+
+sm_zeusweapons_hegrenade 1 【出生赠送手雷个数】
+sm_zeusweapons_decoy 1【出生赠送冰冻个数】
+##########################################################
+
+
+################ZR类################
+zr_infect_mzombie_ratio "5.5" 【僵尸与人类的比例】
+zr_infect_spawntime_min "13.0" 【尸变时间最少】
+zr_infect_spawntime_max "15.0"【尸变时间最大】
+zr_infect_mzombie_respawn "1"【是否把母体传回原地】 如果为0 则人群中尸变
+zr_ztele_zombie "1" 【允许僵尸进行 !ztele 传送】
+zr_ztele_max_human "1" 【允许人类进行 !ztele 传送 数字为次数 0 = 不允许】
+zr_respawn                1 //开启僵尸死亡后自动重生
+zr_respawn_delay        3 //设置僵尸重生时间 间隔 默认【3】
+
+zr_class_modify 用法演示 zr_class_modify 不仅能够修改僵尸属性还能修改人类属性
+【需要注意的是修改后 下个回合 或者 重生才能生效】
+
+修改属性命令     |目标     |修改类型  |修改数值
+zr_class_modify "zombies" "knockback" "4.5" 【改变僵尸击退数值 服务器默认4.5】
+zr_class_modify "zombies" "health" "2500"【改变僵尸总血量为 2500】
+zr_class_modify "zombies" "health_regen_interval" "0.20" 【改变僵尸回血间隔为 0.20秒】
+zr_class_modify "zombies" "health_regen_amount" "10" 【改变僵尸回血数为10点】
+
+zr_class_modify "zombies" "jump_height" "1.03"【僵尸跳跃高度为1.03】【游戏默认=1.0 服务器默认 = 1.03】
+zr_class_modify "zombies" "jump_distance" "1.05"【僵尸跳跃距离为1.05】【游戏默认=1.0 服务器默认 = 1.05】
+
+zr_class_modify "zombies" "speed" "315"【改变僵尸移动速度 315 【默认人类为300】】
+
+【修改人类也是一样的 zombies 换成 humans】
+zr_class_modify "humans" "health" "300"【改变【人类】总血量为 300】
+
+
+注意【zr_class_modify 修改后无法对现有僵尸立刻生效 可以在僵尸重生/或者变母体之前修改，这样僵尸重生后会有效.】
+
+
+sm_flashlight_enabled 1 【启用或禁用手电筒 同时作用于指挥探照灯】 1 启用 0 禁用
+
+
+//其他
+sm_zr_repeat_kill "1" //客户端因地图世界伤害引起频繁死亡 关闭复活触发.
+【以上所有CVAR 地图END自动还原默认值】,允许地图 point_servercommand 进行修改 
+
+
 #减速效果 （如果和地图减速有所冲突可以切换减速类型）
 
 默认 1
@@ -33,7 +93,6 @@ sm_burn_slow_type "1"
 最小和最大之间 每次攻击BOSS给的金钱数
 hook_boss_money_min 10
 hook_boss_money_max 15
-
 
 ################CSGO################
 "inferno_flame_lifetime" = "7" 燃烧弹持续时间
