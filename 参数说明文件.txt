@@ -1,0 +1,35 @@
+cvarLists：
+
+#禁止购买AWP和禁用AWP效果
+1 允许 0 禁止
+zr_grenlauncher_enable 1
+
+
+#允许购买护甲次数 
+sm_armor_limit "1"
+
+
+#出生给护甲 
+1 允许 0 禁止
+sm_spawn_give_armor "0"
+
+#夜视仪价格:
+sm_ngv_price "2500"
+
+#雪球价格 一次4个 
+//0 代表禁止购买
+sm_snowball_price "2000"
+
+#减速效果 （如果和地图减速有所冲突可以切换减速类型）
+
+默认 1
+1 = m_flLaggedMovementValue
+2 = m_flStamina
+3 = m_flVelocityModifier
+
+sm_burn_slow_type "1"
+
+# BOSS伤害类
+最小和最大之间 每次攻击BOSS给的金钱数
+hook_boss_money_min 10
+hook_boss_money_max 15
