@@ -167,14 +167,17 @@
 	"**Gi Nattak is using wind**"
 	{
 		"chi"		"**吉·纳克使用了风想把你推下去（对着平台中心按W）**"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
 		"chi"		"**吉·纳克使用了火焰新星，快远离场地中心**"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using aspil**"
 	{
 		"chi"		"**吉·纳克使用了**Aspil**灵魂摄取，蹲下躲避**"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
@@ -262,6 +265,7 @@
 	"**Gi Nattak is using gravity**"
 	{
 		"chi"		"**吉·纳克使用了黑洞，按住S抵挡**"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using silence**"
 	{
@@ -270,6 +274,7 @@
 	"**Gi Nattak is using poison**"
 	{
 		"chi"		"**吉·纳克使用了剧毒，小心脚底的绿光毒素**"
+		"DoorCountdown"		"4"
 	}
 	"**Gi Nattak has healed 150 hp**"
 	{

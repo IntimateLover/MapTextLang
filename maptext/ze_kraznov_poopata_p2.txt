@@ -379,7 +379,7 @@
 		"
 	}
 	"		"**"
-		"And"		"now"
+		"AND"		"now"
 		"a"		"final"
 		"leap"		"of"
 		"faith"		"that"
@@ -394,7 +394,7 @@
 		"
 	}
 	"		"**"
-		"And"		"all"
+		"AND"		"all"
 		"this"		"tiresome"
 		"effort"		"for"
 		"a"		"simple"
@@ -471,6 +471,10 @@
 		"chi"		"** **"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"** But beware! Perhaps only accurate faith will let you make it! **"
 	{
 		"chi"		"** **"
 	}

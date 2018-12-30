@@ -2078,7 +2078,7 @@
 	}
 	"2096387"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2096387"
 		"m_iname"		"st1_dragonphysbox"
 	}
@@ -2092,7 +2092,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"6375"
-		"m_iname"		"boss_2_break"
+		"m_iname"		"mt_add"
 	}
 	"1766905"
 	{
