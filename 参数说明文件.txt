@@ -33,3 +33,8 @@ sm_burn_slow_type "1"
 最小和最大之间 每次攻击BOSS给的金钱数
 hook_boss_money_min 10
 hook_boss_money_max 15
+
+
+################CSGO################
+"inferno_flame_lifetime" = "7" 燃烧弹持续时间
+"inferno_max_range" = "150" 燃烧弹范围
