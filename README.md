@@ -110,8 +110,9 @@
 //triggercleanup
 
 ### 仓库维护 一般每月一次
- 编辑 README.md 在尾部 添加任何无用注释内容 
- 编辑原因填写为 "triggercleanup" 即可清理同步缓存 
+ #编辑 README.md 在尾部 添加任何无用注释内容 
+ #编辑原因填写为 "triggercleanup" 即可清理同步缓存 
+ # 如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存 
 
 #trigger update10
 test for web hook
