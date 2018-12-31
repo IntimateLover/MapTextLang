@@ -68,6 +68,7 @@
 	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
 	{
 		"chi"		"**等待炸弹将木板炸毁 **"
+		"DoorCountdown"		"30"
 	}
 	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
 	{
