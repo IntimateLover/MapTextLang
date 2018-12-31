@@ -535,7 +535,7 @@
 	}
 	"*** WAIT TILL BOMBS BREAK THIS BOARD ***"
 	{
-		"chi"		"**守到炸弹炸开木板**"
+		"chi"		"**守到炸弹炸开木板：30**"
 	}
 	"*** BOARD IS BROKEN RUUUUUUN!! ***"
 	{
@@ -588,6 +588,7 @@
 	"-- [ZOMBIES] Find Satans Powers to make him stronger --"
 	{
 		"chi"		"**【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）**"
+				"DoorCountdown"		"-1"
 	}
 	">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<"
 	{
@@ -636,6 +637,7 @@
 	"** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **"
 	{
 		"chi"		"**5个僵尸已经江生命续给了撒旦，赶紧苟起**"
+				"DoorCountdown"		"-1"
 	}
 	">> SATAN IS ESCAPING !! <<"
 	{
@@ -668,10 +670,11 @@
 	">> BE CAREFUL <<"
 	{
 		"chi"		"**小心它的突然袭击[剑气斩（跳刀）准备，第一刀出现在僵尸方向，准备好高爆]**"
+				"DoorCountdown"		"-1"
 	}
 	">> DEFEND UNTIL SOMETHING HAPPENS <<"
 	{
-		"chi"		"**守到某个事情发生**"
+		"chi"		"**守到数字版消失**"
 	}
 	">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<"
 	{
@@ -751,7 +754,7 @@
 	}
 	">> Good Ending <<"
 	{
-		"chi"		">>好结局<<"
+		"chi"		">>完美结局<<"
 	}
 	">> Thanks for being part of this incredible adventure <<"
 	{
@@ -796,5 +799,13 @@
 	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
 		"chi"		"5秒后全图核爆"
+	}
+	">> NOBODY ESCAPED!! LEVEL FAILED!! <<"
+	{
+		"chi"		"没人逃出？那就GG咯"
+	}
+	">> SATAN ABSORB NADES TO HEAL HIMSELF <<"
+	{
+		"chi"		"撒旦现在对高爆吸血了，别再丢了"
 	}
 }
