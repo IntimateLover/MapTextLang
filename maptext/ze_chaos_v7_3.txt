@@ -1,3 +1,4 @@
+//更新一下
 "Console_T"
 {
 	"<--Map Made By Color-->"
@@ -218,5 +219,9 @@
 	"<--A zombie has picked Blackhole Ball-->"
 	{
 		"chi"		"**一名僵尸捡起了黑洞法球**"
+	}
+	"<--A human has picked Health Ball-->"
+	{
+		"chi"		"**一名人类捡起了治愈法球**"
 	}
 }
