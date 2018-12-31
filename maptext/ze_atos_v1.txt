@@ -1,3 +1,4 @@
+//更新一下
 "Console_T"
 {
 	"<--Map Made By Color-->"
@@ -8,13 +9,13 @@
 	{
 		"chi"		"**建议在控制台输入<mat_monitorgamma 1.8>**"
 	}
-	"<--Early Access Version-->"
+	"<--Last Trip Finished-->"
 	{
-		"chi"		"**抢鲜体验版本**"
+		"chi"		"**最后的旅途已完成**"
 	}
-	"<--More Trips Are In Progress-->"
+	"<--Find a place to hold-->"
 	{
-		"chi"		"**更多旅途正在制作中**"
+		"chi"		"**找个地方守住**"
 	}
 	"<--Find and use wall item to spawn a road-->"
 	{
@@ -95,6 +96,14 @@
 	"<--Elevator will start in 30s-->"
 	{
 		"chi"		"**电梯将在30秒后启动**"
+	}
+	"<--Hold for 180s-->"
+	{
+		"chi"		"**坚守180秒**"
+	}
+	"<--Unbelievable!You finish the trip-->"
+	{
+		"chi"		"**不敢相信！你完成了旅途**"
 	}
 	"sync_version"
 	{
