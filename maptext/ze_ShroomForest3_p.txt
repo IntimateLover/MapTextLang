@@ -811,4 +811,8 @@
 	{
 		"chi"		">>这是个错误的关卡系统<<"
 	}
+	">> THE MASTERBALL HAS BEEN PICKED UP <<"
+	{
+		"chi"		">>大师球已被拾取<<"
+	}
 }
