@@ -164,7 +164,7 @@
 	}
 	"*** Defend until the path is clear ***"
 	{
-		"chi"		"**守到道路清空（地洞双门30秒，宝可梦25秒，EX2蜘蛛或鼹鼠洞20秒）**"
+		"chi"		"**守到蜘蛛网清除：30**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -189,16 +189,16 @@
 	}
 	">> KILL THEM BEFORE ITS TOO LATE <<"
 	{
-		"chi"		"**75秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
+		"chi"		"**85秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
 	}
 	">> ALL 6 MINES USED <<"
 	{
 		"chi"		"**6个地雷都被用完了**"
+                "DoorCountdown"		"-1"
 	}
 	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
 	{
 		"chi"		"**骷髅尬舞团已被枪毙，原路返回**"
-		"DoorCountdown"		"-1"
 	}
 	"*** PLAYER FOUND A KEY ***"
 	{
