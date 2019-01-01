@@ -107,9 +107,9 @@
 	"***DEFEND THE STAIRS FOR 40 SECONDS***"
 	{
 		"chi"		"**在阶梯处防守40秒**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
-	"***Fall back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -320,7 +320,7 @@
 	"***HOLD THEM BACK FOR 60 SECONDS***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***TIP - DEFEND AND SLOW THE ZOMBIES DOWN ALONG THE WAY***"
 	{
@@ -357,7 +357,7 @@
 	"***THE CAVES WILL COLLAPSE IN 20 SECONDS***"
 	{
 		"chi"		"**洞穴20秒后坍塌**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***HOLD THEM OFF***"
 	{
@@ -398,7 +398,7 @@
 	"***THE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
 		"chi"		"**电梯30秒后离开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***TIP -- DEFEND AS EARLY ON AS POSSIBLE***"
 	{
@@ -411,7 +411,7 @@
 	"***THE ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**电梯20秒后离开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***THE ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
@@ -428,13 +428,13 @@
 	"***HOLD OUT FOR 30 SECONDS***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***20 SECONDS LEFT***"
 	{
 		"chi"		"**还剩20秒**"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"**还剩10秒**"
 	}
@@ -449,7 +449,7 @@
 	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SOMETHING IS CHASING US***"
 	{
@@ -462,7 +462,7 @@
 	"***STAND YOUR GROUND FOR 20 SECONDS***"
 	{
 		"chi"		"**坚守这个地方20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***ITS COMING***"
 	{
@@ -483,7 +483,7 @@
 	"***THE ELEVATOR WILL ASCEND IN 20 SECONDS***"
 	{
 		"chi"		"**电梯将在20秒后上升**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***THE ELEVATOR WILL ASCEND IN 10 SECONDS***"
 	{
@@ -504,7 +504,7 @@
 	"***HOLD HERE FOR 15 SECONDS***"
 	{
 		"chi"		"**在这里守住15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***TIP -- A STRONG ENOUGH ITEM COULD BREAK THE SNOW***"
 	{
@@ -518,10 +518,10 @@
 	{
 		"chi"		"**找到出路**"
 	}
-	"***Hold for 20 seconds***"
+	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***STAND BACK***"
 	{
@@ -542,7 +542,7 @@
 	"***HOLD HERE FOR 20 SECONDS***"
 	{
 		"chi"		"**在这里守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***THE TITAN IS MOVING***"
 	{
@@ -551,7 +551,7 @@
 	"***DEFEND FOR 15 SECONDS***"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***HOLD YOUR GROUND HERE***"
 	{
@@ -624,7 +624,7 @@
 	"***THE ELEVATOR WILL ASCEND IN 30 SECONDS***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -662,6 +662,10 @@
 		"chi"		"** **"
 	}
 	"***ADMIN ROOM - KILL ALL***"
+	{
+		"chi"		"** **"
+	}
+	"***LUFFAREN HAS ENTERED THE GAME***"
 	{
 		"chi"		"** **"
 	}
