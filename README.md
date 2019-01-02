@@ -1,11 +1,6 @@
 ## 公告 
 
-增加 game_text 翻译 该类文本不自动捕获 按需求使用  
-
-
 # X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
-
-
 
 
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
