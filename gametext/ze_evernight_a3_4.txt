@@ -2,12 +2,7 @@
 {
 	"1"
 	{
-		"TextMatch" "--[ZM]Wind Magick-- 
-[Press E]:Spawn a area around the caster to boost speed of zombies 
->Cooldown:75 Secs  
-
-[Attack 2]:Spawn a windwall around the caster to block bullets 
->Cooldown:75 Secs"
+		"TextMatch" "--[ZM]Wind Magick--"
 		"TextReplace" "--[僵尸]风系魔法-- <br>[大气驱动:E键]:加速你和身边的僵尸<br>冷却时间:75秒 <br>[大气屏障:鼠标右键]:范围内产生空气屏障抵挡人类的子弹<br>冷却时间:75秒"
 	}
 	
@@ -18,14 +13,7 @@
 	}
 	"3"
 	{
-		"TextMatch" "--Flameshot-- 
->Fire Magick Lv.1 
->Cause a lot of damage to zombies during a few secs 
->Damage per second:2000 
->Duration:5 Secs 
->Range:768(Linear) 
->Addition effect:Ignition 
->Cooldown:60 Secs"
+		"TextMatch" ">Fire Magick Lv.1 "
 		"TextReplace" "--烈焰喷射--<br>火焰魔法 Lv.1<br>向前喷射火焰 <br>每秒伤害:2000 <br>持续时间:5秒<br>直线距离:768<br>目标减益:燃烧<br>冷却时间:60秒"
 	}
 }
