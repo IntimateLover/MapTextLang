@@ -1,9 +1,12 @@
+########用 <br> 实现换行########
+
+
 "Console_GameText"
 {
 	"1"
 	{
 		"TextMatch" "热身" //可模糊模式
-		"TextReplace" "被修改的换行<br>热身回合"
+		"TextReplace" "被修改的换热身回合"
 	}
 	
 	"2"
