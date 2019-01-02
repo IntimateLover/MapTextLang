@@ -2,7 +2,12 @@
 {
 	"1"
 	{
-		"TextMatch" "[ZM]Wind Magick" //可模糊模式
+		"TextMatch" "--[ZM]Wind Magick-- 
+[Press E]:Spawn a area around the caster to boost speed of zombies 
+>Cooldown:75 Secs  
+
+[Attack 2]:Spawn a windwall around the caster to block bullets 
+>Cooldown:75 Secs"
 		"TextReplace" "--[僵尸]风系魔法-- <br>[大气驱动:E键]:加速你和身边的僵尸<br>冷却时间:75秒 <br>[大气屏障:鼠标右键]:范围内产生空气屏障抵挡人类的子弹<br>冷却时间:75秒"
 	}
 	
