@@ -1,17 +1,14 @@
 "Console_GameText"
 {
-  "1"
-  {
-  "TextMatch" "热身" //可模糊模式
-  "TextReplace" "被修改的换行<br>热身回合"
-  }
-  
-  "2"
-  {
-  "TextMatch" "文本2" //可模糊模式
-  "TextReplace" "被修改的文本2"
-  }
-  
-  
-  
+	"1"
+	{
+		"TextMatch" "热身" //可模糊模式
+		"TextReplace" "被修改的换行<br>热身回合"
+	}
+	
+	"2"
+	{
+		"TextMatch" "文本2" //可模糊模式
+		"TextReplace" "被修改的文本2"
+	}
 }
