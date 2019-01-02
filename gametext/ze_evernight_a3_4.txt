@@ -18,7 +18,14 @@
 	}
 	"3"
 	{
-		"TextMatch" "Fire Magick Lv.1"
+		"TextMatch" "--Flameshot-- 
+>Fire Magick Lv.1 
+>Cause a lot of damage to zombies during a few secs 
+>Damage per second:2000 
+>Duration:5 Secs 
+>Range:768(Linear) 
+>Addition effect:Ignition 
+>Cooldown:60 Secs"
 		"TextReplace" "--烈焰喷射--<br>火焰魔法 Lv.1<br>向前喷射火焰 <br>每秒伤害:2000 <br>持续时间:5秒<br>直线距离:768<br>目标减益:燃烧<br>冷却时间:60秒"
 	}
 }
