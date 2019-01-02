@@ -1,8 +1,8 @@
 ## 公告 
 
-#所有管理不得随意通过  stripper 必须经过本机验证是否正常.
-2018 07/31 已经自动清理了大量未使用地图 (过期配置文件 BOSSHIT/翻译/参数/entwatch等).
-如果系统清理有错误 请及时补充.https://github.com/MapTextLang/MapTextLang/blob/master/cleanup.txt 清理日志见.
+#没有必要翻译 game_text 实体
+原因1.此实体只能支持 1920*1080 分辨率 
+原因2.英文占1个字符 中文占2个字符 由此会更容易导致 字体被放大.
 
 
 # X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
