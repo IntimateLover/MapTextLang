@@ -2,10 +2,9 @@
 {
 	"1"
 	{
-		"TextMatch" "--[ZM]Wind Magick--"
-		"TextReplace" "--[僵尸]风系魔法-- <br>[大气驱动:E键]:加速你和身边的僵尸<br>冷却时间:75秒 <br>[大气屏障:鼠标右键]:范围内产生空气屏障抵挡人类的子弹<br>冷却时间:75秒"
-	}
-	
+		"TextMatch" "[ZM]Wind Magick"
+		"TextReplace" "--[僵尸]风系魔法--<br>[大气驱动:E键]:加速你和身边的僵尸<br>冷却时间:75秒 <br>[大气屏障:鼠标右键]:范围内产生空气屏障抵挡人类的子弹<br>冷却时间:75秒"
+	}	
 	"2"
 	{
 		"TextMatch" "[ZM]Ice Magick" //可模糊模式
@@ -13,7 +12,12 @@
 	}
 	"3"
 	{
-		"TextMatch" ">Fire Magick Lv.1 "
+		"TextMatch" "Fire Magick Lv.1 "
 		"TextReplace" "--烈焰喷射--<br>火焰魔法 Lv.1<br>向前喷射火焰 <br>每秒伤害:2000 <br>持续时间:5秒<br>直线距离:768<br>目标减益:燃烧<br>冷却时间:60秒"
+	}
+	"ROPEWAY"
+	{
+		"TextMatch" "ROPEWAY"
+		"TextReplace" "索道正在搭建"
 	}
 }
