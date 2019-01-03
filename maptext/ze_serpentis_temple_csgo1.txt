@@ -512,8 +512,8 @@
 	}
 	"*** HELICOPTER MOVE IN 10 SECONDS ! ***"
 	{
-		"chi"		"**直升机20秒后离开 **"
-		"DoorCountDown"		"20"
+		"chi"		"**直升机10秒后离开 **"
+		"DoorCountDown"		"10"
 	}
 	"*** YOU FORGOT THE ARTIFACT ***"
 	{
