@@ -607,4 +607,9 @@
 	{
 		"chi"		"** **"
 	}
+	"**arning：3 blue laser**"
+	{
+		"chi"		"**注意：最后3蓝刀**"
+		"DoorCountdown"		"7"
+	}
 }
