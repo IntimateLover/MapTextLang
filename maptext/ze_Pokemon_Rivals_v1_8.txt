@@ -2,231 +2,24 @@
 {
 	"Welcome to Pokemon Rivals!"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到神奇宝贝大乱斗！**"
 	}
 	"Map by Onahole"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Onahole   翻译：御坂**"
 	}
 	"The next door opens in 15 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**下一扇门将在15s后打开**"
 	}
-	"A rock wall?"
-	{
-		"chi"		"** **"
-	}
-	"Nothing our Machamp cant smash through!"
-	{
-		"chi"		"** **"
-	}
-	"Hold for 10 seconds."
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP USE ROCK SMASH!"
-	{
-		"chi"		"** **"
-	}
-	"Yes! The cave is open!"
-	{
-		"chi"		"** **"
-	}
-	"Oh man, its dark in here!"
-	{
-		"chi"		"** **"
-	}
-	"Uh oh, those Digletts look aggressive!"
-	{
-		"chi"		"** **"
-	}
-	"Oh no, somethings coming!"
-	{
-		"chi"		"** **"
-	}
-	"The rocks blocked our path!!"
-	{
-		"chi"		"** **"
-	}
-	"Looks like were gonna have to break it!"
-	{
-		"chi"		"** **"
-	}
-	"Hold on for 10 seconds!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP! USE ROCK SMASH!"
-	{
-		"chi"		"** **"
-	}
-	"The cave exit is blocked!"
-	{
-		"chi"		"** **"
-	}
-	"Machop still needs to rest before he can use Rock Smash again!"
-	{
-		"chi"		"** **"
-	}
-	"Hold for 25 seconds!"
-	{
-		"chi"		"** **"
-	}
-	"Looks like hes ready!"
-	{
-		"chi"		"** **"
-	}
-	"The next door opens in 40 seconds!"
-	{
-		"chi"		"** **"
-	}
-	"20 seconds till the door opens."
-	{
-		"chi"		"** **"
-	}
-	"10 seconds!"
-	{
-		"chi"		"** **"
-	}
-	"The door opened! Lets go!"
-	{
-		"chi"		"** **"
-	}
-	"The door out opens in 20 seconds!"
-	{
-		"chi"		"** **"
-	}
-	"Look at that! Its the ocean!!"
-	{
-		"chi"		"** **"
-	}
-	"Hold for 10 seconds!"
-	{
-		"chi"		"** **"
-	}
-	"Hey!!"
-	{
-		"chi"		"** **"
-	}
-	"Youve finally arrived."
-	{
-		"chi"		"** **"
-	}
-	"Ive been training my Blastoise every day."
-	{
-		"chi"		"** **"
-	}
-	"And today..."
-	{
-		"chi"		"** **"
-	}
-	"We are going to defeat you!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP used FOCUS ENERGY!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMPS CRIT. Chance rose!"
-	{
-		"chi"		"** **"
-	}
-	"it didnt actually lmfao idk how id do that atm"
-	{
-		"chi"		"** **"
-	}
-	"BLASTOISE used WATERGUN!"
-	{
-		"chi"		"** **"
-	}
-	"Its super effective!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP used SUBMISSION!"
-	{
-		"chi"		"** **"
-	}
-	"BLASTOISE used HYDROPUMP!"
-	{
-		"chi"		"** **"
-	}
-	"BLASTOISE used WITHDRAW!"
-	{
-		"chi"		"** **"
-	}
-	"BLASTOISEs DEFENSE rose!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP used ROCK SMASH!"
-	{
-		"chi"		"** **"
-	}
-	"Its not very effective..."
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP fainted!"
-	{
-		"chi"		"** **"
-	}
-	"HUMANS are out of usable POKEMON!"
-	{
-		"chi"		"** **"
-	}
-	"HUMANS blacked out!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMPs attack missed!"
-	{
-		"chi"		"** **"
-	}
-	"BLASTOISEs attack missed!"
-	{
-		"chi"		"** **"
-	}
-	"BLASTOISE fainted!"
-	{
-		"chi"		"** **"
-	}
-	"MACHAMP gained 1725 EXP. Points!"
-	{
-		"chi"		"** **"
-	}
-	"HUMANS defeated ZOMBIES!"
-	{
-		"chi"		"** **"
-	}
-	"GARY: NO! That cant be! You beat my best!"
-	{
-		"chi"		"** **"
-	}
-	"Its not fair!"
-	{
-		"chi"		"** **"
-	}
-	"HUMANS got $6435 for winning!"
-	{
-		"chi"		"** **"
-	}
-	"CONGRATULATIONS! YOU WIN"
-	{
-		"chi"		"** **"
-	}
-	"FULL VERSION COMING SOON *idk how soon tho*"
-	{
-		"chi"		"** **"
-	}
+
 	"sync_version"
 	{
 		"syncvalue"		"95419"
 	}
 	">>WARMUP<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身局**"
 	}
 	">>THE GAME WILL BEGIN IN 45 SECONDS<<"
 	{
@@ -270,43 +63,43 @@
 	}
 	"Level 1: MISTY!"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关：misty**"
 	}
 	"OAK: When I was young, I was a serious POKEMON TRAINER."
 	{
-		"chi"		"** **"
+		"chi"		"**大木：在我年轻的时候，我是一个严肃的训练师**"
 	}
 	"But now, in my old age, I have only these three left."
 	{
-		"chi"		"** **"
+		"chi"		"**不过现在，我老了。我只剩下这三只了**"
 	}
 	"You can have one. Go on choose!"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以拿一个，来选择吧**"
 	}
 	">>To choose your starter POKEMON<<"
 	{
-		"chi"		"** **"
+		"chi"		"**选一个你的起始精灵！**"
 	}
 	">>Stand on the platform with your desired POKEMONs name on it!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**站在写有你想要的神奇宝贝的名字的板子上！**"
 	}
 	"OAK: I see! BULBASAUR is your choice, Its very easy to raise."
 	{
-		"chi"		"** **"
+		"chi"		"**大木：了解了！你选择的事蒜头王八，它很容易培育**"
 	}
 	"This POKEMON is really quite energetic!"
 	{
-		"chi"		"** **"
+		"chi"		"**这个精灵充满活力**"
 	}
 	"HUMANs received the BULBASAUR from PROF. OAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类从大木博士那里获得了蒜头王八！**"
 	}
 	">>TRAINER TIPS<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 训练家小提示**"
 	}
 	">>Catch POKEMON and expand your collection.<<"
 	{
@@ -314,631 +107,631 @@
 	}
 	">>For now you only have 1 Pokeball.<<"
 	{
-		"chi"		"** **"
+		"chi"		"**现在你只有一个宝贝球**"
 	}
 	">>Drop a Pokeball on POKEMON marked with a white arrow to catch them!<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 将精灵球丢向头上带有白色箭头的神奇宝贝来抓住他们！**"
 	}
 	"Our adventure begins now!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们开始冒险吧！**"
 	}
 	"The pathway for our adventure will open in 20 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们冒险的路将会在20秒后打开**"
 	}
 	">>Look out for signposts with arrows!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**注意带有箭头的路标**"
 	}
 	">>They will provide hints on where to go next!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他们将会提供往哪里走的提示！**"
 	}
 	"Hold for 30 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒**"
 	}
 	"HUMANS have caught MACHOP!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类抓住了腕力！**"
 	}
 	"OAK: Ah! CHARMANDER is your choice. You should raise it patiently."
 	{
-		"chi"		"** **"
+		"chi"		"**大木：哦！你选择了小火龙。你需要耐心的培育它**"
 	}
 	"HUMANs received the CHARMANDER from PROF. OAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类从大木博士那里拿到了小火龙！**"
 	}
 	"A sleeping POKEMON blocks the way!"
 	{
-		"chi"		"** **"
+		"chi"		"** 一个正在睡觉的精灵挡住了路！**"
 	}
 	"Hold for 30 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒！**"
 	}
 	"The sleeping POKEMON left!"
 	{
-		"chi"		"** **"
+		"chi"		"**睡觉的精灵逃跑了！**"
 	}
 	"Hold for 15 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒**"
 	}
 	"Hold for 15 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒！**"
 	}
 	"MISTY: Hi, youre a new face!"
 	{
-		"chi"		"** **"
+		"chi"		"**misty：你好啊！你是一个新面孔！**"
 	}
 	"Only those TRAINERS who have a policy about POKEMON can turn pro."
 	{
-		"chi"		"** **"
+		"chi"		"**只有那些有号的培育政策的训练师才能变得更强**"
 	}
 	"What is your approach when you catch and train POKEMON?"
 	{
-		"chi"		"** **"
+		"chi"		"**当你抓住并训练精灵的时候，你的方法是什么呢？**"
 	}
 	"My policy is an all-out offensive with WATER-type POKEMON!"
 	{
-		"chi"		"** **"
+		"chi"		"**我的方法是：水系神奇宝贝全力进攻！！！**"
 	}
 	"Go! STARYU!"
 	{
-		"chi"		"** **"
+		"chi"		"**上吧，海星星！**"
 	}
 	"Go! CHARMANDER!"
 	{
-		"chi"		"** **"
+		"chi"		"**上吧，小火龙！**"
 	}
 	"Enemy STARYU used WATERGUN!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的海星星使用了水枪**"
 	}
 	"CHARMANDER used EMBER!"
 	{
-		"chi"		"** **"
+		"chi"		"**小火龙使用了火苗**"
 	}
 	"Enemy STARYU used TACKLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的海星星使用了撞击**"
 	}
 	"Go! DIGLETT!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，地鼠！**"
 	}
 	"DIGLETT used MUD SLAP!"
 	{
-		"chi"		"** **"
+		"chi"		"**地鼠使用了淤泥拍打**"
 	}
 	"The attack missed..."
 	{
-		"chi"		"** **"
+		"chi"		"**miss了......**"
 	}
 	"Enemys POKEMON fainted!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的精灵倒下了！**"
 	}
 	"ZOMBIES are out of useable POKEMON!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸没有可用的精灵了！**"
 	}
 	"HUMANs defeated MISTY!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类打败了misty!**"
 	}
 	"MISTY: Wow! Youre too much!"
 	{
-		"chi"		"** **"
+		"chi"		"**misty：天啊！好过分！**"
 	}
 	"You really beat me!"
 	{
-		"chi"		"** **"
+		"chi"		"**你真的打败我了！**"
 	}
 	"HUMANs got $800 for winning!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类因为胜利获得了800元奖金**"
 	}
 	"Level 2: BROCK!"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关：brock**"
 	}
 	"OAK: Hm! SQUIRTLE is your choice, Its one worth raising."
 	{
-		"chi"		"** **"
+		"chi"		"**大木：嗯！你选择了杰尼龟，它很值得培养！**"
 	}
 	"HUMANs received the SQUIRTLE from PROF. OAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类从大木博士那里获得了杰尼龟**"
 	}
 	">>You have 1 Pokeball!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你有一个精灵球！**"
 	}
 	">>POKEMON hide in tall grass.<<"
 	{
-		"chi"		"** **"
+		"chi"		"**神奇宝贝就藏在高的草地里面！**"
 	}
 	">>Zigzag through grassy areas to flush them out.<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 穿过长满草的地方来找到它们！**"
 	}
 	">>Zombies now get 1 Pokeball!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸现在有了一个精灵球**"
 	}
 	">>ZOMBIES: Get close to indicated POKEMON and press E to catch them!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸：靠近神奇宝贝然后按E来抓住他们**"
 	}
 	">>All POKEMON are unique.<<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的神奇宝贝是唯一的**"
 	}
 	">>Even POKEMON of the same POKEMON and level grow at different rates.<<"
 	{
-		"chi"		"** **"
+		"chi"		"**就算是同种精灵也会因为等级的不同而处于不同的水平**"
 	}
 	"ZOMBIES have caught SPEAROW!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抓到了烈雀！**"
 	}
 	"BROCK: My rock-hard willpower is evident in my POKEMON."
 	{
-		"chi"		"** **"
+		"chi"		"**brock：我坚如磐石的意志力在我的精灵里面可以得到证实**"
 	}
 	"My POKEMON are all rock-hard, and have true-grit determination."
 	{
-		"chi"		"** **"
+		"chi"		"**我的精灵意志坚定，并且都有真正的决心**"
 	}
 	"Fuhaha! Youre going to challenge me knowing that youll lose?"
 	{
-		"chi"		"** **"
+		"chi"		"**哈哈哈！你依旧准备打算在明知道自己会输的情况下还要挑战我么？**"
 	}
 	"Fine, then! Show me your best!"
 	{
-		"chi"		"** **"
+		"chi"		"**好的，来吧！想我展示你最强的一面吧！**"
 	}
 	"Go! SQUIRTLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，杰尼龟！**"
 	}
 	"SQUIRTLE used WATERGUN!"
 	{
-		"chi"		"** **"
+		"chi"		"**杰尼龟使用了水枪**"
 	}
 	"Enemy GEODUDE used ROCK THROW!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的小拳石使用了落石**"
 	}
 	"Go! SPEAROW!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，烈雀！**"
 	}
 	"Enemy SPEAROW used PECK!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的烈雀使用了啄击**"
 	}
 	"Enemy SPEAROW used LEER!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方烈雀使用了瞪眼！**"
 	}
 	"HUMANs POKEMONs DEFENSE fell!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝的防御下降了（并无卵用）**"
 	}
 	"SQUIRTLE used TACKLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**杰尼龟使用了撞击**"
 	}
 	"HUMANs defeated BROCK!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类击败了BROCK!**"
 	}
 	"BROCK: I took you for granted."
 	{
-		"chi"		"** **"
+		"chi"		"**BROCK：这是你理所当然获得的胜利**"
 	}
 	"Congratulations on your victory"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你！**"
 	}
 	"Level 3: GARY!"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关：GARY**"
 	}
 	"Alright Zombies, you can pick a starter aswell!"
 	{
-		"chi"		"** **"
+		"chi"		"**好的！僵尸们！你们也可以选一个初始精灵！**"
 	}
 	">>You have 2 Pokeballs!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你有两个精灵球！**"
 	}
 	"GARY: Ill take this one, then!"
 	{
-		"chi"		"** **"
+		"chi"		"**GARY：我准备选择这个！**"
 	}
 	"GARY received the SQUIRTLE from PROF. OAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**GARY从大木博士那里获得了杰尼龟**"
 	}
 	">>Zombies now get 2 Pokeballs!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸现在有两个精灵球了！**"
 	}
 	"HUMANS have caught SPEAROW!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类抓住了烈雀！**"
 	}
 	"ZOMBIES have caught PSYDUCK!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抓到了可达鸭！**"
 	}
 	"GARY: Hey!"
 	{
-		"chi"		"** **"
+		"chi"		"**GARY：嘿！**"
 	}
 	"Ive been catching and training my POKEMON!"
 	{
-		"chi"		"** **"
+		"chi"		"**我已经抓到并训练了我的神奇宝贝**"
 	}
 	"And now..."
 	{
-		"chi"		"** **"
+		"chi"		"**现在......**"
 	}
 	"Go! MACHOP!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，腕力！**"
 	}
 	"Enemy SQUIRTLE used WATERGUN!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的杰尼龟使用了水枪**"
 	}
 	"MACHOP used KARATE CHOP!"
 	{
-		"chi"		"** **"
+		"chi"		"**腕力使用了空手劈**"
 	}
 	"Enemy SQUIRTLE used TACKLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的杰尼龟使用了撞击**"
 	}
 	"HUMANs POKEMON fainted!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝倒下了！**"
 	}
 	"SPEAROW used PECK!"
 	{
-		"chi"		"** **"
+		"chi"		"**烈雀使用了啄击**"
 	}
 	"Go! PSYDUCK!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，可达鸭！**"
 	}
 	"Enemy PSYDUCK used CONFUSION!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的可达鸭使用了念力**"
 	}
 	"HUMANs POKEMON has been confused!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝混乱了！**"
 	}
 	"Humans POKEMON snapped out of confusion!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝不再混乱了！**"
 	}
 	"SPEAROW used LEER!"
 	{
-		"chi"		"** **"
+		"chi"		"**烈雀使用了瞪眼！**"
 	}
 	"Enemys POKEMONs DEFENSE fell!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的神奇宝贝的防御下降了！**"
 	}
 	"CHARMANDER used SCRATCH!"
 	{
-		"chi"		"** **"
+		"chi"		"**小火龙使用了抓**"
 	}
 	"Enemy PSYDUCK used TAILWHIP"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的可达鸭使用了摇尾巴**"
 	}
 	"Enemy DIGLETT used MUD SLAP!"
 	{
-		"chi"		"** **"
+		"chi"		"** 敌方的地鼠使用了淤泥拍击**"
 	}
 	"HUMANs are out of useable POKEMON!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类没有可用的神奇宝贝了！**"
 	}
 	"Lets find a different way around!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们找一个不同的路吧！**"
 	}
 	"HUMANS have caught HORSEA!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类抓到了墨海马**"
 	}
 	"Enemy STARYU used HARDEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的海星星使用了变硬**"
 	}
 	"STARYUs DEFENSE rose!"
 	{
-		"chi"		"** **"
+		"chi"		"**海星星更♂硬♂了**"
 	}
 	"SQUIRTLE used TAILWHIP!"
 	{
-		"chi"		"** **"
+		"chi"		"**杰尼龟使用了摇尾巴**"
 	}
 	">>The battle moves of POKEMON are limited by their POWER POINTS, PP<<"
 	{
-		"chi"		"** **"
+		"chi"		"**神奇宝贝的技能的使用次数受限于他们的pp值**"
 	}
 	">>To replenish PP, rest your tired POKEMON at a POKEMON CENTER<<"
 	{
-		"chi"		"** **"
+		"chi"		"**请到一个神奇宝贝中心去回复你的神奇宝贝的pp值**"
 	}
 	"HUMANS have caught PSYDUCK!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类抓到了可达鸭**"
 	}
 	"PSYDUCK used TAILWHIP"
 	{
-		"chi"		"** **"
+		"chi"		"**可达鸭使用了摇尾巴**"
 	}
 	"PSYDUCK used CONFUSION!"
 	{
-		"chi"		"** **"
+		"chi"		"**可达鸭使用了念力**"
 	}
 	"Enemys POKEMON has been confused!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的神奇宝贝混乱了！**"
 	}
 	"CHARMANDER used GROWL!"
 	{
-		"chi"		"** **"
+		"chi"		"**小火龙使用叫声！**"
 	}
 	"Enemys POKEMONs ATTACK fell!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方神奇宝贝的攻击下降了**"
 	}
 	"Enemys POKEMON hurt itself in confusion!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的神奇宝贝因为混乱攻击了自己！**"
 	}
 	"Enemys POKEMON snapped out of confusion!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方神奇宝贝不再混乱了！**"
 	}
 	"PSYDUCK used SCRATCH!"
 	{
-		"chi"		"** **"
+		"chi"		"**可达鸭使用了抓**"
 	}
 	"Go! HORSEA!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，墨海马！**"
 	}
 	"Enemy HORSEA used BUBBLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的墨海马使用了泡泡**"
 	}
 	"Enemy HORSEA used WATERGUN!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的墨海马使用了水枪**"
 	}
 	">>Look, look!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**看啊！看啊！**"
 	}
 	">>Look to the left of that post!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**看标记的左边！**"
 	}
 	"Enemys POKEMON has been burned!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方神奇宝贝被点燃了！**"
 	}
 	"Enemy POKEMON is hurt by its burn!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方神奇宝贝因为点燃受到了伤害！**"
 	}
 	"ZOMBIES have caught WEEDLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抓住了独角虫**"
 	}
 	"Enemy GEODUDE used TACKLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的小拳石使用了撞击**"
 	}
 	"ZOMBIES have caught DIGLETT!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抓到了地鼠！**"
 	}
 	"GARY received the BULBASAUR from PROF. OAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**GARY从大木博士那里获得了蒜头王八**"
 	}
 	"Go! BULBASAUR!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，蒜头王八！**"
 	}
 	"Enemy BULBASAUR used VINE WHIP!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的蒜头王八使用了藤鞭**"
 	}
 	"Enemy BULBASAUR used LEECH SEED!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的蒜头王八使用了寄生种子**"
 	}
 	"HUMANs POKEMON was seeded!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝被种子寄生了！**"
 	}
 	"LEECH SEED saps Enemy POKEMON!"
 	{
-		"chi"		"** **"
+		"chi"		"**寄生种子从敌方神奇宝贝吸取到了体力**"
 	}
 	"HORSEA used WATERGUN!"
 	{
-		"chi"		"** **"
+		"chi"		"**墨海马使用了水枪**"
 	}
 	"GARY received the CHARMANDER from PROF. OAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**GARY从大木博士那里获得了小火龙**"
 	}
 	"Enemy CHARMANDER used EMBER!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的小火龙使用了火苗**"
 	}
 	"HUMANs POKEMON has been burned!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝被点燃了**"
 	}
 	"HUMAN POKEMON is hurt by its burn!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝因为点燃受到了伤害！**"
 	}
 	"BULBASAUR used LEECH SEED!"
 	{
-		"chi"		"** **"
+		"chi"		"**蒜头王八使用了寄生种子**"
 	}
 	"Enemy POKEMON was seeded!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的神奇宝贝被种子寄生了！**"
 	}
 	"Humans POKEMON hurt itself in confusion!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝因为混乱攻击了自己！**"
 	}
 	"Enemy PSYDUCK used SCRATCH!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的可达鸭使用了抓**"
 	}
 	"BULBASAUR used VINE WHIP!"
 	{
-		"chi"		"** **"
+		"chi"		"**蒜头王八使用了藤鞭**"
 	}
 	"Enemy CHARMANDER used SCRATCH!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的小火龙使用了抓**"
 	}
 	"Enemy POKEMON evaded attack!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的精灵避开了攻击！**"
 	}
 	"Enemy CHARMANDER used GROWL!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的小火龙使用了叫声**"
 	}
 	"HUMANs POKEMONs ATTACK fell!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的神奇宝贝的攻击下降了**"
 	}
 	"HORSEA used BUBBLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**墨海马使用了泡泡**"
 	}
 	"HUMANs defeated GARY!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类击败了GARY**"
 	}
 	"GARY: You.. You beat me?!"
 	{
-		"chi"		"** **"
+		"chi"		"**GARY：你....你竟然打败了我？！**"
 	}
 	"Aww! You just lucked out!"
 	{
-		"chi"		"** **"
+		"chi"		"**不！你只是幸运罢了！**"
 	}
 	"HUMANs got $900 for winning!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类因为胜利获得了900元奖金**"
 	}
 	"Critical hit!"
 	{
-		"chi"		"** **"
+		"chi"		"**命中要害！**"
 	}
 	"Go! WEEDLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**去吧，独角虫！**"
 	}
 	"Enemy WEEDLE used BUG BITE!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的独角虫使用了虫蛀**"
 	}
 	"Enemy WEEDLE used POISON STING!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的独角虫使用了毒针**"
 	}
 	"Enemy BULBSAUR used TACKLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的蒜头王八使用了撞击**"
 	}
 	"HUMANS have caught WEEDLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类抓到了独角虫**"
 	}
 	"BULBSAUR used TACKLE!"
 	{
-		"chi"		"** **"
+		"chi"		"**蒜头王八使用了撞击**"
 	}
 	"ZOMBIES have caught MACHOP!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抓到了腕力**"
 	}
 	"Enemy MACHOP used LOW KICK!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的腕力使用了踢倒**"
 	}
 	"Enemy MACHOP used KARATE CHOP!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的腕力使用了空手劈**"
 	}
 	"Enemy MACHOP used FOCUS ENERGY!"
 	{
-		"chi"		"** **"
+		"chi"		"**敌方的腕力使用了聚气**"
 	}
 	"MACHOPs CRIT, CHANCE rose!"
 	{
-		"chi"		"** **"
+		"chi"		"**腕力命中要害的概率增加了**"
 	}
 	"HUMANs POKEMON has been poisoned!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的精灵中毒了！**"
 	}
 	"HUMAN POKEMON is hurt by poison!"
 	{
-		"chi"		"** **"
+		"chi"		"**人类的精灵因为中毒受到了伤害**"
 	}
 	"Level X: Open World PKMN Battle!"
 	{
-		"chi"		"** **"
+		"chi"		"**第X关：开放世界的神奇宝贝对战！**"
 	}
 	"Once both teams have picked a starter we will begin the countdown!"
 	{
-		"chi"		"** **"
+		"chi"		"**当每个队伍都拿到了初始精灵，我们就开始倒计时吧**"
 	}
 	"Youll have 60 seconds to find your desired POKEMON before the battle begins!"
 	{
-		"chi"		"** **"
+		"chi"		"**在战斗前你有60秒的时间去找到想要的神奇宝贝**"
 	}
 	"Make sure you grab some pokeballs!"
 	{
-		"chi"		"** **"
+		"chi"		"**确保自己拿到了一些精灵球**"
 	}
 	"Dont worry if you dont catch something, youll be given a random pokemon to fill the slot!"
 	{
-		"chi"		"** **"
+		"chi"		"**当你没有抓神奇宝贝的时候，不需要慌，你会得到一个随机的神奇宝贝！**"
 	}
 	"The timer begins now!! You have 60 seconds to catch POKEMON!"
 	{
-		"chi"		"** **"
+		"chi"		"**倒计时开始！你有60秒的时间去抓神奇宝贝！**"
 	}
 	"50 SECONDS LEFT"
 	{
@@ -998,34 +791,10 @@
 	}
 	"THE BATTLE BEGINS!"
 	{
-		"chi"		"** **"
+		"chi"		"**战斗开始！**"
 	}
 	"HUMANs defeated ZOMBIES"
 	{
-		"chi"		"** **"
-	}
-	"Zombies did not pick a starter!"
-	{
-		"chi"		"** **"
-	}
-	"If youre that indecisive you can just take this one!"
-	{
-		"chi"		"** **"
-	}
-	"ZOMBIES have caught HORSEA!"
-	{
-		"chi"		"** **"
-	}
-	">>All POKEMON that appear in battle,<<"
-	{
-		"chi"		"** **"
-	}
-	">>however briefly, earn EXP Points.<<"
-	{
-		"chi"		"** **"
-	}
-	"HUMANS have caught DIGLETT!"
-	{
-		"chi"		"** **"
+		"chi"		"**人类击败了僵尸！**"
 	}
 }
