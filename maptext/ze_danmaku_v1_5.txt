@@ -90,15 +90,15 @@
 	}
 	"<< DODGE >>"
 	{
-		"chi"		"**<<技能：弹幕光球>>**"
+		"chi"		"**<<技能：弹幕光球>> DODGE **"
 	}
 	"<< SHIFT >>"
 	{
-		"chi"		"**<<技能：变化平台>>**"
+		"chi"		"**<<技能：沉降平台>> SHIFT **"
 	}
 	"<< COSMIC FALL >>"
 	{
-		"chi"		"**<<技能：宇宙坠落>>**"
+		"chi"		"**<<技能：宇宙坠落>> COSMIC FALL **"
 	}
 	"<< INFECTED DETECTED >>"
 	{
@@ -126,7 +126,7 @@
 	}
 	"<< EYE OF HEALING >>"
 	{
-		"chi"		"**<<技能：目光治疗>>**"
+		"chi"		"**<<技能：目光治疗>> HEALING **"
 	}
 	"*Healed*"
 	{
@@ -134,7 +134,7 @@
 	}
 	"<< SCRAMBLE >>"
 	{
-		"chi"		"**<<技能：混乱光炮>>**"
+		"chi"		"**<<技能：混乱光炮>> SCRAMBLE **"
 	}
 	">Skematics enabled<"
 	{
@@ -146,10 +146,14 @@
 	}
 	"===DiagramEnabled==="
 	{
-		"chi"		"** **"
+		"chi"		"**图示启用**"
 	}
 	"===Spawning==="
 	{
-		"chi"		"** **"
+		"chi"		"**墙已生成**"
+	}
+	"<< PUSH >>"
+	{
+		"chi"		"**<<技能：光屏风力（站发光平台）>> PUSH **"
 	}
 }
