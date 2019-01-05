@@ -162,18 +162,22 @@
 	"*** Land Slide ***"
 	{
 		"chi"		"**热离子光束**"
+		"DoorCountdown"		"4"
 	}
 	"*** Heavens Fall ***"
 	{
 		"chi"		"**天堂陨落**"
+		"DoorCountdown"		"4"
 	}
 	"*** Cauterize***"
 	{
 		"chi"		"**冲击 **"
+		"DoorCountdown"		"5"
 	}
 	"*** Flare ***"
 	{
 		"chi"		"**火**"
+		"DoorCountdown"		"5"
 	}
 	"*** Behemoth King dead ***"
 	{

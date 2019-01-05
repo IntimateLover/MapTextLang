@@ -15,7 +15,7 @@
 	"A safehouse spawned at spawn."
 	{
 		"chi"		"**一个安全屋在出生点刷新 **"
-		"DoorCountdown"		"8"
+		"DoorCountdown"		"10"
 	}
 	"CT flags can now teleport humans back to spawn."
 	{

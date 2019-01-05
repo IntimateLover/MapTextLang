@@ -147,23 +147,23 @@
 	}
 	"### NUKE IN 5 SECONDS ###"
 	{
-		"chi"		"**核弹5秒后发射 **"
+		"chi"		"**核弹5秒后发射！**"
 	}
 	"### NUKE IN 4 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹4秒后发射！**"
 	}
 	"### NUKE IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹3秒后发射！**"
 	}
 	"### NUKE IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹2秒后发射！**"
 	}
 	"### NUKE IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹1秒后发射！**"
 	}
 	"### HOLD UNTIL SEWER PANEL BREAKS ###"
 	{
@@ -243,19 +243,19 @@
 	}
 	"### SUICIDE VEST ACTIVES IN 4 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸自爆核弹4秒后激活！**"
 	}
 	"### SUICIDE VEST ACTIVES IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸自爆核弹3秒后激活！**"
 	}
 	"### SUICIDE VEST ACTIVES IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸自爆核弹2秒后激活！**"
 	}
 	"### SUICIDE VEST ACTIVES IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸自爆核弹1秒后激活！**"
 	}
 	"### ALLAHHHH AKBARRRR ###"
 	{
@@ -263,15 +263,15 @@
 	}
 	"### SARIN ACTIVES IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒后激活僵尸沙林毒气！**"
 	}
 	"### SARIN ACTIVES IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**2秒后激活僵尸沙林毒气！**"
 	}
 	"### SARIN ACTIVES IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**1秒后激活僵尸沙林毒气！**"
 	}
 	"### FREEZING WIND SKILL CASTING  93 ###"
 	{
@@ -317,6 +317,7 @@
 	">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
 	{
 		"chi"		"**你必须在2分20秒内杀死BOSS **"
+		"DoorCountdown"		"-1"
 	}
 	"### ACTIVE THE C4 TO DESTROY THE BRIDGE ###"
 	{
@@ -369,15 +370,15 @@
 	}
 	"### MISSILES DETONADE IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**终极20秒后激活！**"
 	}
 	"### MISSILES DETONADE IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**终极10秒后激活！**"
 	}
 	"### MISSILES DETONADE IN 5 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**终极5秒后激活！**"
 	}
 	"### FIRE SKILL CASTING  19 ###"
 	{
@@ -419,7 +420,7 @@
 	}
 	"### 5 SECONDS TO DETONATION ###"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后引爆生化炸药！**"
 	}
 	"### MISSILES DETONADE IN 15 SECONDS ###"
 	{
