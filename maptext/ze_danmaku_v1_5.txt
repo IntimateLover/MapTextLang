@@ -2,7 +2,7 @@
 {
 	"*** A new victim has joined us ***"
 	{
-		"chi"		"** **"
+		"chi"		"****"
 	}
 	"*** Calculating Round Data ***"
 	{
@@ -38,7 +38,7 @@
 	}
 	"<STAGE:EASY>"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡等级：简单**"
 	}
 	"*** -1 Human ***"
 	{
@@ -50,7 +50,7 @@
 	}
 	"+<!>+"
 	{
-		"chi"		"** **"
+		"chi"		"**+<!>+触发点已被触发+<!>+**"
 	}
 	"*** No Radios ***"
 	{
@@ -58,7 +58,7 @@
 	}
 	"<ZOMBIE HAS PICKED UP:DEMONIC AURA>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神被拾取：恶魔光环（加速.回血）**"
 	}
 	"sync_version"
 	{
@@ -66,39 +66,39 @@
 	}
 	">>> Round Failed <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败**"
 	}
 	">Map made by J3wDice ~ Midknight<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：J3wdice ~ Midknight 地图翻译：koyomaple**"
 	}
 	">STAGE:HARD<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡等级：困难**"
 	}
 	"<ZOMBIE HAS PICKED UP:ORDNANCE:>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神被拾取：炙热光炮（直线伤害）**"
 	}
 	"Warmup Round"
 	{
-		"chi"		"** **"
+		"chi"		"**热身局**"
 	}
 	"Warmup Round Ending"
 	{
-		"chi"		"** **"
+		"chi"		"**热身结束**"
 	}
 	"<< DODGE >>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<技能：弹幕光球>>**"
 	}
 	"<< SHIFT >>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<技能：变化平台>>**"
 	}
 	"<< COSMIC FALL >>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<技能：宇宙坠落>>**"
 	}
 	"<< INFECTED DETECTED >>"
 	{
@@ -106,35 +106,35 @@
 	}
 	">STAGE:EXPERT<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡等级：专家**"
 	}
 	"<ZOMBIE HAS PICKED UP:MANIPULATION>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神被拾取：生命操控（强制血量五十并且造成直线伤害）**"
 	}
 	">PLAYER HAS PICKED UP:GIST<"
 	{
-		"chi"		"** **"
+		"chi"		"**风神器已被拾取：**"
 	}
 	">PLAYER HAS PICKED UP:HOLY AURA<"
 	{
-		"chi"		"** **"
+		"chi"		"**奶神器已被拾取**"
 	}
 	">PLAYER HAS PICKED UP:PONDER<"
 	{
-		"chi"		"** **"
+		"chi"		"**击飞与减速神器已被拾取**"
 	}
 	"<< EYE OF HEALING >>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<技能：目光治疗>>**"
 	}
 	"*Healed*"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS已被治疗**"
 	}
 	"<< SCRAMBLE >>"
 	{
-		"chi"		"** **"
+		"chi"		"**<<技能：混乱光炮>>**"
 	}
 	">Skematics enabled<"
 	{
@@ -142,7 +142,7 @@
 	}
 	">PLAYER HAS PICKED UP:BULWARK MAKER<"
 	{
-		"chi"		"** **"
+		"chi"		"**墙神器已被拾取**"
 	}
 	"===DiagramEnabled==="
 	{
