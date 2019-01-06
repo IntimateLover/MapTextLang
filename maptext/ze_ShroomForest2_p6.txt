@@ -35,10 +35,12 @@
 	"ShroomForest2"
 	{
 		"chi"		"**欢迎来到蘑菇森林2的世界**"
+		"DoorCountdown"		"-1"
 	}
 	"[Level1] Find the Groke"
 	{
 		"chi"		"**[关卡1]找到GROKE**"
+		"DoorCountdown"		"-1"
 	}
 	">> LEVEL: RAVINE <<"
 	{
@@ -63,7 +65,6 @@
 	"*** LEAF LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**树叶将在20秒后离开**"
-		"DoorCountdown"		"20"
 		"ico"		"icon_tip"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
@@ -85,7 +86,6 @@
 	"*** HOLD FOR 30 SECONDS ***"
 	{
 		"chi"		"**坚守这里30秒**"
-		"DoorCountdown"		"30"
 	}
 	"*** 5 MORE SECONDS ***"
 	{
@@ -118,7 +118,6 @@
 	"*** FLY LEAVING IN 15 SECONDS ***"
 	{
 		"chi"		"**蝴蝶将会在15秒后离开**"
-		"DoorCountdown"		"15"
 		"ico"		"icon_tip"
 	}
 	">> LEVEL COMPLETED !!! <<"
@@ -128,10 +127,12 @@
 	"[Level2] Destroy the TV"
 	{
 		"chi"		"**[关卡2]：摧毁电视**"
+		"DoorCountdown"		"-1"
 	}
 	">> LEVEL: TV <<"
 	{
 		"chi"		"**[关卡2]：摧毁电视**"
+		"DoorCountdown"		"-1"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -156,7 +157,6 @@
 	"*** ELEVATOR OPENING IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯将会在20秒后打开**"
-		"DoorCountdown"		"20"
 		"ico"		"icon_tip"
 	}
 	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
@@ -166,7 +166,6 @@
 	"*** FAN STOPPING IN 30 SECONDS ***"
 	{
 		"chi"		"**风扇将会在30秒后停止转动**"
-		"DoorCountdown"		"30"
 	}
 	"*** FALL BACK ***"
 	{
@@ -191,7 +190,6 @@
 	"*** WEB LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**蜘蛛网将会在20秒后离开**"
-		"DoorCountdown"		"20"
 		"ico"		"icon_tip"
 	}
 	">> ALL 6 MINES USED <<"
@@ -233,7 +231,6 @@
 	"*** CLOUD LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**云将会在20秒后离开**"
-		"DoorCountdown"		"20"
 		"ico"		"icon_tip"
 	}
 	"210 Angel Found"
@@ -243,17 +240,14 @@
 	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**天堂大门将会在25秒后打开**"
-		"DoorCountdown"		"25"
 	}
 	"*** GATE OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**大门将会在25秒后打开**"
-		"DoorCountdown"		"25"
 	}
 	"*** Doors opening in 30 seconds ***"
 	{
 		"chi"		"**大门将会在30秒后打开**"
-		"DoorCountdown"		"30"
 	}
 	"310 Angel Found"
 	{
@@ -274,7 +268,6 @@
 	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
 	{
 		"chi"		"**蝴蝶将会在15秒后离开**"
-		"DoorCountdown"		"15"
 		"ico"		"icon_tip"
 	}
 	"[Extreme1] Find the Groke"
@@ -330,7 +323,6 @@
 	">> CLOUD LEAVING IN 10 SECONDS <<"
 	{
 		"chi"		"**云将会在10秒后离开**"
-		"DoorCountdown"		"10"
 		"ico"		"icon_tip"
 	}
 	">> ITS SATAN WITH THE ANGELS !!! <<"
@@ -352,7 +344,6 @@
 	">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<"
 	{
 		"chi"		"**蝴蝶将会在20秒后离开**"
-		"DoorCountdown"		"20"
 		"ico"		"icon_tip"
 	}
 	"*** WHERE DID SATAN GO... ***"
@@ -366,7 +357,6 @@
 	">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<"
 	{
 		"chi"		"**存活180秒**"
-		"DoorCountdown"		"180"
 		"ico"		"icon_tip"
 	}
 	">> LEVEL: ZM <<"
@@ -404,7 +394,6 @@
 	">> PORTAL CLOSING IN 10 SECONDS !!! <<"
 	{
 		"chi"		"**传送点将会在10秒后被关闭**"
-		"DoorCountdown"		"10"
 		"ico"		"icon_tip"
 	}
 	">> DONT LET ZOMBIES GET IN !!! <<"
@@ -502,7 +491,6 @@
 	"*** FLY LEAVING IN 30 SECONDS ***"
 	{
 		"chi"		"**飞行物将会在30秒后离开**"
-		"DoorCountdown"		"30"
 		"ico"		"icon_tip"
 	}
 	"[Extreme3] Save the Angels"
@@ -512,7 +500,6 @@
 	"*** GATE OPENING IN 30 SECONDS ***"
 	{
 		"chi"		"**大门将会在30秒后打开**"
-		"DoorCountdown"		"30"
 	}
 	">> FALL BACK <<"
 	{
@@ -573,7 +560,6 @@
 	">> CLOUD LEAVING IN 40 SECONDS <<"
 	{
 		"chi"		"**云朵将会在40秒后离开**"
-		"DoorCountdown"		"40"
 		"ico"		"icon_tip"
 	}
 	"410 Painting Found"
@@ -683,10 +669,12 @@
 	">> PLAYER HAS CHOSEN: RAVINE <<"
 	{
 		"chi"		"**玩家选择了关卡:GROKE与幽灵 LV1**"
+		"DoorCountdown"		"-1"
 	}
 	">> PLAYER HAS CHOSEN: TV EXTREME <<"
 	{
 		"chi"		"**玩家选择了:电视 LV2**"
+		"DoorCountdown"		"-1"
 	}
 	">> RESTARTING ROUND IN 5 SECONDS <<"
 	{
@@ -699,13 +687,15 @@
 	">> PLAYER HAS CHOSEN: RAVINE EXTREME <<"
 	{
 		"chi"		"**玩家选择了:极限GROKE EX1**"
+		"DoorCountdown"		"-1"
 	}
 	">> PLAYER HAS CHOSEN: HEAVEN NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>关卡选择：天堂 LV3<<**"
+		"DoorCountdown"		"-1"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**服务器即将关闭更新，请更新你的游戏**"
 	}
 }
