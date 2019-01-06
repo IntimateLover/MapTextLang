@@ -1,0 +1,29 @@
+//倒计时翻译
+modify
+{
+  match:
+  {
+  	"classname" "logic_case"
+    "targetname" "case_text"
+  }
+  delete:
+  {
+  	"OnCase01" "text_seconds_leftSetText     seconds left0-1"
+		"OnCase02" "text_seconds_leftSetText     seconds left0-1"
+    "OnCase03" "text_seconds_leftSetText     seconds left0-1"
+		"OnCase04" "text_seconds_leftSetText     seconds left0-1"
+    "OnCase05" "text_seconds_leftSetText     seconds left0-1"
+		"OnCase06" "text_seconds_leftSetText     seconds left0-1"
+    "OnCase07" "text_seconds_leftSetText     seconds left0-1"
+  }
+  insert:
+  {
+    "OnCase01" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+		"OnCase02" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+    "OnCase03" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+		"OnCase04" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+    "OnCase05" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+		"OnCase06" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+    "OnCase07" "text_seconds_leftSetText     秒剩余（秒の残り seconds left）0-1"
+  }
+}
