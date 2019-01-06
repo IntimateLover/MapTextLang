@@ -459,12 +459,12 @@
 	}
 	"***SUPERNOVA***"
 	{
-		"chi"		"**超新星**"
+		"chi"		"**超新星（按W抵抗推力）**"
 		"DoorCountdown"		"2"
 	}
 	"***SERVANTS***"
 	{
-		"chi"		"**尸笼**"
+		"chi"		"**尸笼（回头防守僵尸）**"
 		"DoorCountdown"		"2"
 	}
 	"***SABER***"
@@ -474,12 +474,12 @@
 	}
 	"***BLACK HOLE***"
 	{
-		"chi"		"**黑洞**"
+		"chi"		"**黑洞（按S抵抗吸力）**"
 		"DoorCountdown"		"2"
 	}
 	"***DEATH LIGHT***"
 	{
-		"chi"		"**死亡光线**"
+		"chi"		"**死亡光线（蹲下躲避刀刃）**"
 		"DoorCountdown"		"2"
 	}
 	"***You take too much of time!!!***"
@@ -611,11 +611,13 @@
 	}
 	"***Lasers!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
+		"DoorCountdown"		"12"
 	}
 	"***Lasers!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
+		"DoorCountdown"		"12"
 	}
 	"***The portal will activate in 70s***"
 	{
