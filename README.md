@@ -102,7 +102,7 @@
 ###无用内容
 //triggercleanup
 //triggercleanup
-
+//triggercleanup 名字上传错误
 ### 仓库维护 一般每月一次
  #编辑 README.md 在尾部 添加任何无用注释内容 
  #编辑原因填写为 "triggercleanup" 即可清理同步缓存 
@@ -113,4 +113,3 @@ test for web hook
 #push trigger update p 1
 triggercleanup 最后维护
 2019年1月1日00:07:27
-//triggercleanup 名字上传错误
