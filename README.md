@@ -112,6 +112,5 @@
 test for web hook
 #push trigger update p 1
 triggercleanup 最后维护
-2019年1月6日13:57:27
-
-
+2019年1月1日00:07:27
+triggercleanup 名字上传错误
