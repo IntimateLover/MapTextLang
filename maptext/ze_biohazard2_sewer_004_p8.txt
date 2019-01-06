@@ -3,6 +3,7 @@
 	"**** MAP BY AERIS_004 ****"
 	{
 		"chi"		"**地图制作：AERIS_004 地图翻译：清新的二哈♪**"
+		"command"		"sv_airaccelerate 12"
 	}
 	"*** WWW.SUPREME-ELITE.FR ***"
 	{
