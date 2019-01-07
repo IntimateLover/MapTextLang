@@ -24,7 +24,7 @@
 	{
 		"chi"		"**守住这个地方直到门开启**"
 	}
-	"Hold 30 sec"
+	"hold 30 sec"
 	{
 		"chi"		"**防守25秒**"
 	}
@@ -39,7 +39,7 @@
 	"Hold 25 sec"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** HEALTH KIT ACQUIRED - 50s cooldown **"
 	{
@@ -48,7 +48,7 @@
 	"Hold 15 sec"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Health Kit Ready!!! **"
 	{
@@ -66,7 +66,7 @@
 	{
 		"chi"		"** **"
 	}
-	"Hold 10 sec"
+	"hold 10 sec"
 	{
 		"chi"		"** **"
 	}
@@ -97,7 +97,7 @@
 	"Hold 32 sec"
 	{
 		"chi"		"**防守32秒**"
-		"DoorCountDown"		"32"
+		"DoorCountdown"		"32"
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
@@ -110,7 +110,7 @@
 	"Hold 17 sec"
 	{
 		"chi"		"**防守17秒**"
-		"DoorCountDown"		"17"
+		"DoorCountdown"		"17"
 	}
 	"** END OF THE LINE - HOLD THE TOP **"
 	{
@@ -189,6 +189,14 @@
 		"syncvalue"		"4006"
 	}
 	"** DOOR OPENS IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** BOMB HAS BEEN DEFUSED!! **"
+	{
+		"chi"		"** **"
+	}
+	"** ESCAPE FROM THE ZOMBIES!! **"
 	{
 		"chi"		"** **"
 	}

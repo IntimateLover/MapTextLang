@@ -136,6 +136,7 @@
 	"*It has a 90 seconds cooldown.*"
 	{
 		"chi"		"**它有90秒的冷却时间 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Go call the rescue!!!***"
 	{
@@ -153,6 +154,7 @@
 	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
 	{
 		"chi"		"**推力枪已拿起.按E.使用.60秒冷却时间。 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Truck 3 is leaving in 5 seconds**"
 	{
@@ -161,6 +163,7 @@
 	"*** Freezegun has been picked up. Press +USE (E) to activate. 60 seconds cooldown."
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**Truck 2 is leaving in 10 seconds**"
 	{
