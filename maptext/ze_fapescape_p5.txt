@@ -14,7 +14,7 @@
 	}
 	"*** Player has picked up Flamethrower ***"
 	{
-		"chi"		"一位玩家捡起喷火器"
+		"chi"		"一位玩家捡起喷火器(可以对evil eyes造成一定量伤害)"
 	}
 	"*** Gate opening ***"
 	{
@@ -73,7 +73,7 @@
 	}
 	"*** Player has picked up HandCannon ***"
 	{
-		"chi"		"一位玩家捡起加农炮"
+		"chi"		"一位玩家捡起加农炮(可以对evil eyes造成大量伤害)"
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
