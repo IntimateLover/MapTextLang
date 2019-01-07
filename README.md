@@ -1,6 +1,10 @@
 ## 公告 
 
-# X社区 CSGO地图参数/地图翻译/stripper/Entwatch 仓库
+# X社区 CSGO地图参数/地图翻译/stripp  PullRequest /Entwatch 仓库
+
+#今日起所有人不得随意改动地图 stripper 必须通过 PullRequest 提交
+
+必须附加标签 NeedTest 用于同步到测试服 并且经过多人评论同一才会合并.
 
 
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
