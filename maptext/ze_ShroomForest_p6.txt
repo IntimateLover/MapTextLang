@@ -882,18 +882,18 @@
 	}
 	">> PLAYER HAS CHOSEN: HELL NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家选择了：地狱 普通**"
 	}
 	">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家选择了：草地：普通**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**服务器即将更新，请更新您的客户端**"
 	}
 	">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家选择了 极限：草地**"
 	}
 }
