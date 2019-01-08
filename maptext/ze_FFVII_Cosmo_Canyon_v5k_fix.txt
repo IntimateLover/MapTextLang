@@ -612,4 +612,8 @@
 		"chi"		"**注意：最后3蓝刀**"
 		"DoorCountdown"		"7"
 	}
+	"**Only 1 blue laser**"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,4 +1,3 @@
-//更新一下
 "Console_T"
 {
 	"<--Map Made By Color-->"
@@ -108,5 +107,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"76790"
+	}
+	"<--Trip Finished-->"
+	{
+		"chi"		"** **"
 	}
 }
