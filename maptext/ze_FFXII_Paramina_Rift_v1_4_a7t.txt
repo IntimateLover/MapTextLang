@@ -1323,7 +1323,8 @@
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **"
 	{
-		"chi"		"** **"
+		"chi"		"**调关房选择了 疯狂1 难度**"
+		"DoorCountDown"	"-1"
 	}
 	"sync_version"
 	{
@@ -1359,7 +1360,7 @@
 	}
 	"** Player has learned BLIZZARA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家习得了暴风雪**"
 	}
 	"** Player has learned FIRAGA **"
 	{
@@ -1383,7 +1384,7 @@
 	}
 	"** Player has learned BLIZZAGA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家习得了暴风雪**"
 	}
 	"** Player has learned FIRA **"
 	{
