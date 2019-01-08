@@ -22,7 +22,7 @@
 	}
 	"**The weapon is unblocked**"
 	{
-		"chi"		"**武器解锁 **"
+		"chi"		"**推力枪解锁 **"
 	}
 	"**button2 on**"
 	{
@@ -86,7 +86,7 @@
 	}
 	"**Wait 13 seconds and the scene of murder of the Predator will start working**"
 	{
-		"chi"		"**保持警惕，看看四周，情况有些不对。 **"
+		"chi"		"**保持警惕，观察四周，情况有些不对。 **"
 	}
 	"**Xenomorph Alien Attacks the Predator**"
 	{
@@ -106,7 +106,7 @@
 	}
 	"**Activate the gold weapon of the Predator and the Predator will take away the weapon and wont kill you**"
 	{
-		"chi"		"**激活铁血战士的武器，铁血战士会拿走它但是不会伤害你 **"
+		"chi"		"**激活铁血战士的武器，铁血战士会拿走它并不会伤害你 **"
 	}
 	"**Open door 10 sec**"
 	{
@@ -114,7 +114,7 @@
 	}
 	"**Lock Gun**"
 	{
-		"chi"		"**武器锁定 **"
+		"chi"		"**推力枪锁定 **"
 	}
 	"**Human Win**"
 	{
@@ -186,15 +186,15 @@
 	}
 	"**Alien spawn 10sec**"
 	{
-		"chi"		"**第一只小异形10s后进入战斗 **"
+		"chi"		"**幼体异形10s后加入战斗 **"
 	}
 	"**2 Alien spawn 8sec**"
 	{
-		"chi"		"**第二只小异形8s后进入战斗**"
+		"chi"		"**幼体异形8s后加入战斗**"
 	}
 	"**In 17 seconds the Predator will die**"
 	{
-		"chi"		"**装置17s后激活 **"
+		"chi"		"**装置在17s后激活 **"
 	}
 	"**In 8 seconds the Predator will die**"
 	{
@@ -214,15 +214,15 @@
 	}
 	"**The door will be closed in 1min 40 seconds**"
 	{
-		"chi"		"**大门将在1m40s后关闭 **"
+		"chi"		"**出口将在1m40s后关闭 **"
 	}
 	"**The door will be closed in 60 seconds**"
 	{
-		"chi"		"**大门将在60s后关闭 **"
+		"chi"		"**出口将在60s后关闭 **"
 	}
 	"**The door will be closed in 15 seconds**"
 	{
-		"chi"		"**大门将在15s后关闭 **"
+		"chi"		"**出口将在15s后关闭 **"
 	}
 	"sync_version"
 	{
