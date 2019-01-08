@@ -2,15 +2,11 @@
 
 # X社区 CSGO地图参数/地图翻译/Stripper的审核  PullRequest /Entwatch 仓库
 
-#今日起所有人不得随意改动地图 stripper 自己的地图作者免测试除外 其他地图必须通过 PullRequest 提交
+# 严格Stripper的审核 必须经过PR部署测试服 完整测试后才可以放到正式服
 
 必须附加lable标签 【需要测试】 用于同步到测试服 并且经过严格测试后再下方评论才会合并.
 
 ![严格Stripper的审核](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/stripper.jpg)
-
-
-
-
 
 
 
