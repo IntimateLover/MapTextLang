@@ -3,12 +3,10 @@
 	"***Defend for 20secs***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
 	}
 	"***Prefinal Hold 50secs***"
 	{
 		"chi"		"**守住50秒**"
-		"DoorCountdown"		"50"
 	}
 	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
 	{
@@ -16,11 +14,11 @@
 	}
 	"***Wait some more secs***"
 	{
-		"chi"		"**多等几秒**"
+		"chi"		"**稍微在这里等待一会**"
 	}
 	"***Btw. Unlimited ammo time :3***"
 	{
-		"chi"		"**现在无限子弹了:3**"
+		"chi"		"**现在无限子弹了:3秒**"
 	}
 	"***Zombies teleporting in 15 secs. Get ready.***"
 	{
@@ -56,6 +54,6 @@
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**服务器即将更新，请自行重启游戏**"
 	}
 }
