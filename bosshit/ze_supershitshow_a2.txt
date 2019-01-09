@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&6372"
+		"m_iname"		"ChopperRotator&5608"
 	}
 	"20547"
 	{
@@ -88,7 +88,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82299"
-		"m_iname"		"ProjectileFreezerPhysics&8183"
+		"m_iname"		"ProjectileFreezerPhysics&5614"
 	}
 	"20891"
 	{
@@ -142,7 +142,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82726"
-		"m_iname"		"ProjectilePulverizerPhysics&639"
+		"m_iname"		"ProjectilePulverizerPhysics&515"
 	}
 	"35519"
 	{
@@ -166,7 +166,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82904"
-		"m_iname"		"FirePhysicsCore&6315"
+		"m_iname"		"FirePhysicsCore&5264"
 	}
 	"183393"
 	{
@@ -238,25 +238,25 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&6339"
+		"m_iname"		"FlyingRatPhys&5572"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&6347"
+		"m_iname"		"TowerPhys&5581"
 	}
 	"275194"
 	{
 		"enable"		"0"
 		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&6323"
+		"m_iname"		"KleinerPhys&5127"
 	}
 	"282149"
 	{
 		"enable"		"0"
 		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&6"
+		"m_iname"		"ItemZombieMonsterChickenBreak&5"
 	}
 	"303199"
 	{
@@ -286,49 +286,49 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273335"
-		"m_iname"		"george_cades_toilet_box&8744"
+		"m_iname"		"george_cades_toilet_box&5280"
 	}
 	"273329"
 	{
 		"enable"		"0"
 		"hammerid"		"273329"
-		"m_iname"		"george_cades_shelf_box&8753"
+		"m_iname"		"george_cades_shelf_box&5291"
 	}
 	"273398"
 	{
 		"enable"		"0"
 		"hammerid"		"273398"
-		"m_iname"		"george_cades_vendy_box&8756"
+		"m_iname"		"george_cades_vendy_box&5294"
 	}
 	"273332"
 	{
 		"enable"		"0"
 		"hammerid"		"273332"
-		"m_iname"		"george_cades_sandbag_box&8760"
+		"m_iname"		"george_cades_sandbag_box&5298"
 	}
 	"273338"
 	{
 		"enable"		"0"
 		"hammerid"		"273338"
-		"m_iname"		"george_cades_haybale_box&8765"
+		"m_iname"		"george_cades_haybale_box&5304"
 	}
 	"273326"
 	{
 		"enable"		"0"
 		"hammerid"		"273326"
-		"m_iname"		"george_cades_bench_box&8768"
+		"m_iname"		"george_cades_bench_box&5306"
 	}
 	"273723"
 	{
 		"enable"		"0"
 		"hammerid"		"273723"
-		"m_iname"		"RockBarricadePhys&8828"
+		"m_iname"		"RockBarricadePhys&5367"
 	}
 	"200904"
 	{
 		"enable"		"0"
 		"hammerid"		"200904"
-		"m_iname"		"MissilePhysbox&6421"
+		"m_iname"		"MissilePhysbox&5420"
 	}
 	"281426"
 	{
