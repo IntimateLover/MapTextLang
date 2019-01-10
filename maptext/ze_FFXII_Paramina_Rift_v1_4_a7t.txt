@@ -1324,7 +1324,7 @@
 	"** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **"
 	{
 		"chi"		"**调关房选择了 疯狂1 难度**"
-		"DoorCountDown"	"-1"
+		"DoorCountdown"		"-1"
 	}
 	"sync_version"
 	{
@@ -1391,6 +1391,46 @@
 		"chi"		"** **"
 	}
 	"** Player has learned AEROGA **"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned BLIZZAGA(ICE MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURA (HEAL MAGICK LV.4)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FLARE (POISON MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRE (FIRE MAGICK LV.2)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISANA (POISON MAGICK LV.3)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned BLIZZARD (ICE MAGICK LV.2)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned BLIZZARA (ICE MAGICK LV.3)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned AEROGA (WIND MAGICK LV.3)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRE (FIRE MAGICK LV.1)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURE (HEAL MAGICK LV.2)**"
 	{
 		"chi"		"** **"
 	}
