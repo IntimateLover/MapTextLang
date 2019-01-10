@@ -299,7 +299,6 @@
 	"** MAP COMPLETED  ** ZM ROUNDS **"
 	{
 		"chi"		"**地图通关-下一关将会是僵尸感染模式**"
-		"command"		"sm_aei_hammerid 986 use"
 	}
 	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
 	{
