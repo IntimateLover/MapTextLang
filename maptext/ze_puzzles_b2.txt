@@ -8,9 +8,9 @@
 	{
 		"chi"		"**小伙子们！让我们一起进行迷宫求生**"
 	}
-	"<--Below are Game Tips-->"
+	"<--This is A Relaxed Map!Below are Game Tips-->"
 	{
-		"chi"		"**以下是一些游戏提示**"
+		"chi"		"**这是一张娱乐图！以下是一些游戏提示**"
 	}
 	"<--You can Choose A Skill before Game Starts-->"
 	{
@@ -75,5 +75,29 @@
 	"<--WINNER WINNER CHICKEN DINNER-->"
 	{
 		"chi"		"**大吉大利，晚上吃鸡**"
+	}
+	"<--CHOOSE A SKILL(SPEED OR SHIELD)-->"
+	{
+		"chi"		"**选择一个技能(加速或防抓)**"
+	}
+	"<--No One Found the Little House-->"
+	{
+		"chi"		"**没有人找到小屋**"
+	}
+	"<--Someone Has Found the Little House-->"
+	{
+		"chi"		"**有人找到了小屋**"
+	}
+	"<--GAME WILL END IN 5S-->"
+	{
+		"chi"		"**游戏将在5秒后结束**"
+	}
+	"<--Choose A Door Until You Find the Little House-->"
+	{
+		"chi"		"**选择一扇门直到你找到小屋**"
+	}
+	"<--Who am I, where am I-->"
+	{
+		"chi"		"**我是谁？我在哪？**"
 	}
 }
