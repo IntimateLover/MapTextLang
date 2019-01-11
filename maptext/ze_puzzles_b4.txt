@@ -1,0 +1,195 @@
+"Console_T"
+{
+	"<--Map Made By Color-->"
+	{
+		"chi"		"**地图作者&翻译：酸奶**"
+	}
+	"<--Boys!Let's Play Puzzles Royale-->"
+	{
+		"chi"		"**小伙子们！让我们一起进行迷宫求生**"
+	}
+	"<--This is A Relaxed Map!Below are Game Tips-->"
+	{
+		"chi"		"**这是一张娱乐图！以下是一些游戏提示**"
+	}
+	"<--You can Choose A Skill before Game Starts-->"
+	{
+		"chi"		"**在游戏开始前你能够选择一个技能**"
+	}
+	"<--You Need Choose A Door after Game Starts-->"
+	{
+		"chi"		"**在游戏开始后你需要选择一扇门**"
+	}
+	"<--Until You Find the Little House-->"
+	{
+		"chi"		"**直到你找到了小屋**"
+	}
+	"<--Enter the Little House and You will Win-->"
+	{
+		"chi"		"**进入小屋你将吃鸡**"
+	}
+	"<--Zombies and Humans Both can be Winners-->"
+	{
+		"chi"		"**僵尸和人类都可以吃鸡**"
+	}
+	"<--But if Zombies are in the Little House,They are Winners-->"
+	{
+		"chi"		"**但如果僵尸在小屋里，只有他们才能吃鸡**"
+	}
+	"<--Winners can Get 1000 Scores-->"
+	{
+		"chi"		"**吃鸡者可以获得1000分**"
+	}
+	"<--Winners' Names will be at the Top of the Tab-List-->"
+	{
+		"chi"		"**吃鸡者的名字将显示在Tab面板的前面**"
+	}
+	"<--Remember You Have 600s to Find the Little House-->"
+	{
+		"chi"		"**记住你有10分钟来寻找小屋**"
+	}
+	"<--Enjoy Yourselves-->"
+	{
+		"chi"		"**祝你玩的开心**"
+	}
+	"<--ACTIVATE MUSIC BOX IN 5S-->"
+	{
+		"chi"		"**音乐盒将在5秒后激活**"
+	}
+	"<--ACTIVATE MUSIC BOX IN 4S-->"
+	{
+		"chi"		"**音乐盒将在4秒后激活**"
+	}
+	"<--ACTIVATE MUSIC BOX IN 3S-->"
+	{
+		"chi"		"**音乐盒将在3秒后激活**"
+	}
+	"<--ACTIVATE MUSIC BOX IN 2S-->"
+	{
+		"chi"		"**音乐盒将在2秒后激活**"
+	}
+	"<--ACTIVATE MUSIC BOX IN 1S-->"
+	{
+		"chi"		"**音乐盒将在1秒后激活**"
+	}
+	"<--WINNER WINNER CHICKEN DINNER-->"
+	{
+		"chi"		"**大吉大利，晚上吃鸡**"
+	}
+	"<--CHOOSE A SKILL(SPEED OR SHIELD)-->"
+	{
+		"chi"		"**选择一个技能(加速或防抓)**"
+	}
+	"<--No One Found the Little House-->"
+	{
+		"chi"		"**没有人找到小屋**"
+	}
+	"<--Someone Has Found the Little House-->"
+	{
+		"chi"		"**有人找到了小屋**"
+	}
+	"<--GAME WILL END IN 5S-->"
+	{
+		"chi"		"**游戏将在5秒后结束**"
+	}
+	"<--Choose A Door Until You Find the Little House-->"
+	{
+		"chi"		"**选择一扇门直到你找到小屋**"
+	}
+	"<--Who am I, where am I-->"
+	{
+		"chi"		"**我是谁？我在哪？**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"71411"
+	}
+	"<--Boys!Lets play puzzles royale-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Initialize modes...->"
+	{
+		"chi"		"** **"
+	}
+	"<--Red Light->"
+	{
+		"chi"		"** **"
+	}
+	"<--Red Light mode tips-->"
+	{
+		"chi"		"** **"
+	}
+	"<--First you must survive for 200s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Then a red light will appear-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Zombies must go to the red light-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Humans must prevent zombies touching the red light-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Zombies health is very low-->"
+	{
+		"chi"		"** **"
+	}
+	"<--GAME WILL START IN 10S-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Green Light->"
+	{
+		"chi"		"** **"
+	}
+	"<--Green Light mode tips-->"
+	{
+		"chi"		"** **"
+	}
+	"<--First humans must survive for 200s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Then green lights will appear-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Hold the green lights and you will win-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Who am I,Where am I-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Go to the green lights and hold for 40s-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Last 5s left-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Little House->"
+	{
+		"chi"		"** **"
+	}
+	"<--Little House mode tips-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Your goal is find the little house-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Remember you have 360s to find the little house-->"
+	{
+		"chi"		"** **"
+	}
+}
