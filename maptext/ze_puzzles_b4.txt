@@ -4,51 +4,47 @@
 	{
 		"chi"		"**地图作者&翻译：酸奶**"
 	}
-	"<--Boys!Let's Play Puzzles Royale-->"
+	"<--Boys!Let's play puzzles royale-->"
 	{
 		"chi"		"**小伙子们！让我们一起进行迷宫求生**"
 	}
-	"<--This is A Relaxed Map!Below are Game Tips-->"
+	"<--Initialize modes...-->"
 	{
-		"chi"		"**这是一张娱乐图！以下是一些游戏提示**"
+		"chi"		"**初始化模式......**"
 	}
-	"<--You can Choose A Skill before Game Starts-->"
+	"<--Little House mode tips-->"
+	{
+		"chi"		"**小屋模式提示**"
+	}
+	"<--You can choose a skill before game starts-->"
 	{
 		"chi"		"**在游戏开始前你能够选择一个技能**"
 	}
-	"<--You Need Choose A Door after Game Starts-->"
+	"<--Your goal is find the little house-->"
 	{
-		"chi"		"**在游戏开始后你需要选择一扇门**"
+		"chi"		"**你的目标是找到小屋**"
 	}
-	"<--Until You Find the Little House-->"
-	{
-		"chi"		"**直到你找到了小屋**"
-	}
-	"<--Enter the Little House and You will Win-->"
+	"<--Enter the little house and you will win-->"
 	{
 		"chi"		"**进入小屋你将吃鸡**"
 	}
-	"<--Zombies and Humans Both can be Winners-->"
+	"<--Zombies and humans both can be winners-->"
 	{
 		"chi"		"**僵尸和人类都可以吃鸡**"
 	}
-	"<--But if Zombies are in the Little House,They are Winners-->"
+	"<--But if zombies are in the little house,they are winners-->"
 	{
 		"chi"		"**但如果僵尸在小屋里，只有他们才能吃鸡**"
 	}
-	"<--Winners can Get 1000 Scores-->"
+	"<--Winners can get 1000 scores-->"
 	{
 		"chi"		"**吃鸡者可以获得1000分**"
 	}
-	"<--Winners' Names will be at the Top of the Tab-List-->"
+	"<--Remember you have 360s to find the little house-->"
 	{
-		"chi"		"**吃鸡者的名字将显示在Tab面板的前面**"
+		"chi"		"**记住你有6分钟来寻找小屋**"
 	}
-	"<--Remember You Have 600s to Find the Little House-->"
-	{
-		"chi"		"**记住你有10分钟来寻找小屋**"
-	}
-	"<--Enjoy Yourselves-->"
+	"<--Enjoy yourselves-->"
 	{
 		"chi"		"**祝你玩的开心**"
 	}
@@ -80,11 +76,11 @@
 	{
 		"chi"		"**选择一个技能(加速或防抓)**"
 	}
-	"<--No One Found the Little House-->"
+	"<--No one found the little house-->"
 	{
 		"chi"		"**没有人找到小屋**"
 	}
-	"<--Someone Has Found the Little House-->"
+	"<--Someone has found the little house-->"
 	{
 		"chi"		"**有人找到了小屋**"
 	}
@@ -92,104 +88,68 @@
 	{
 		"chi"		"**游戏将在5秒后结束**"
 	}
-	"<--Choose A Door Until You Find the Little House-->"
-	{
-		"chi"		"**选择一扇门直到你找到小屋**"
-	}
-	"<--Who am I, where am I-->"
+	"<--Who am I,Where am I-->"
 	{
 		"chi"		"**我是谁？我在哪？**"
 	}
-	"sync_version"
+	"<--Little House-->"
 	{
-		"syncvalue"		"71411"
+		"chi"		"**小屋**"
 	}
-	"<--Boys!Lets play puzzles royale-->"
+	"<--Green Light-->"
 	{
-		"chi"		"** **"
+		"chi"		"**绿光**"
 	}
-	"<--Initialize modes...->"
+	"<--Red Light-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Red Light->"
-	{
-		"chi"		"** **"
-	}
-	"<--Red Light mode tips-->"
-	{
-		"chi"		"** **"
-	}
-	"<--First you must survive for 200s-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Then a red light will appear-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Zombies must go to the red light-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Humans must prevent zombies touching the red light-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Zombies health is very low-->"
-	{
-		"chi"		"** **"
-	}
-	"<--GAME WILL START IN 10S-->"
-	{
-		"chi"		"** **"
-	}
-	"<--Green Light->"
-	{
-		"chi"		"** **"
+		"chi"		"**红光**"
 	}
 	"<--Green Light mode tips-->"
 	{
-		"chi"		"** **"
+		"chi"		"**绿光模式提示**"
 	}
 	"<--First humans must survive for 200s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**人类首先要生存200秒**"
 	}
 	"<--Then green lights will appear-->"
 	{
-		"chi"		"** **"
+		"chi"		"**然后绿光将会出现**"
 	}
 	"<--Hold the green lights and you will win-->"
 	{
-		"chi"		"** **"
-	}
-	"<--Who am I,Where am I-->"
-	{
-		"chi"		"** **"
+		"chi"		"**守住绿光就能吃鸡**"
 	}
 	"<--Go to the green lights and hold for 40s-->"
 	{
-		"chi"		"** **"
+		"chi"		"**走到绿光那里去并坚守40秒**"
 	}
 	"<--Last 5s left-->"
 	{
-		"chi"		"** **"
+		"chi"		"**最后5秒**"
 	}
-	"<--Little House->"
+	"<--Red Light mode tips-->"
 	{
-		"chi"		"** **"
+		"chi"		"**红光模式提示**"
 	}
-	"<--Little House mode tips-->"
+	"<--Then a red light will appear-->"
 	{
-		"chi"		"** **"
+		"chi"		"**然后一道红光将会出现**"
 	}
-	"<--Your goal is find the little house-->"
+	"<--Zombies must go to the red light-->"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸必须走向红光**"
 	}
-	"<--Remember you have 360s to find the little house-->"
+	"<--Humans must prevent zombies touching the red light-->"
 	{
-		"chi"		"** **"
+		"chi"		"**人类必须阻止僵尸触碰红光**"
+	}
+	"<--Zombie's health is very low-->"
+	{
+		"chi"		"**僵尸将处于低血量状态**"
+	}
+	"<--Go to the red light and wait for 40s-->"
+	{
+		"chi"		"**走到红光那里去并等待40秒**"
 	}
 }
