@@ -125,6 +125,7 @@
 	">>>50%<<<"
 	{
 		"chi"		"**传送门初始化 --- 50% **"
+		"DoorCountdown"		"-1"
 	}
 	">>>Door A Losing power!!!<<<"
 	{
@@ -158,6 +159,7 @@
 	}
 }
 "
+		"DoorCountdown"		"-1"
 	}
 	">>>Teleport is Online<<<"
 	{

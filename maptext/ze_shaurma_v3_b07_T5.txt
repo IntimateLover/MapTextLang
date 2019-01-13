@@ -30,7 +30,7 @@
 	}
 	"*** Map By [CygaPb] RoadRunner ***"
 	{
-		"chi"		"**地图制作:[CygaPb] RoadRunner 地图移植:Tianli **"
+		"chi"		"**地图制作:[CygaPb] RoadRunner 地图移植:Tianli**"
 	}
 	"*** Theyre waiting for us at the door. Get out through the windows at the top! ***"
 	{
@@ -88,7 +88,7 @@
 	{
 		"chi"		"**防守仓库10秒 **"
 	}
-	"*** Fall back! ***"
+	"*** FALL BACK! ***"
 	{
 		"chi"		"**撤退！ **"
 	}
@@ -325,7 +325,7 @@
 	"=== DODGE THE GOPNIKS! ==="
 	{
 		"chi"		"**看前面左右躲! **"
-		"DoorCountdown"		"14"
+		"DoorCountdown"		"12"
 	}
 	"=== DESTROY ALL VODKA BOTTLES QUICKLY OR RIP ==="
 	{

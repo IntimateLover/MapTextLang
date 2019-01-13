@@ -62,7 +62,7 @@
 	{
 		"chi"		"**还剩10秒**"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -75,7 +75,7 @@
 		"chi"		"**墙将在20秒后破碎**"
 		"DoorCountdown"		"20"
 	}
-	"*** Fall back! ***"
+	"*** FALL BACK! ***"
 	{
 		"chi"		"**撤退！**"
 	}

@@ -877,7 +877,7 @@ Cooldo"
 	">>Laser incoming<<"
 	{
 		"chi"		"**准备跳刀！ **"
-		"DoorCountdown"		"3"
+		"DoorCountdown"		"2"
 	}
 	">>Elevator will be leaving soon<<"
 	{

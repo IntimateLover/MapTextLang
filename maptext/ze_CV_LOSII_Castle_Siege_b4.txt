@@ -93,7 +93,7 @@
 	}
 	"***BOSS USED WINGS OF DARKNESS GO FORWARD.***"
 	{
-		"chi"		"**BOSS使用了黑暗之翼（推）。往前走抵抗推力！**"
+		"chi"		"**BOSS使用了黑暗之翼（推）。保持往前走抵抗推力！**"
 		"DoorCountdown"		"5"
 	}
 	"***The vampire lord has been defeated, we can now proced to stop the brotherhoods attack.***"
@@ -111,7 +111,7 @@
 	}
 	"***The titans hand is stuck, he is trying to get it out be he seems to not be able to,HOLD UNTILL HIS POWER RUNS OUT.***"
 	{
-		"chi"		"**泰坦的手卡住了。它正在试图挣脱出来，但是看起来它似乎并做不到。守住直到它的力气耗尽。**"
+		"chi"		"**泰坦的手卡住了。它正在试图挣脱，但是看起来它并做不到。守住直到它的力气耗尽。**"
 	}
 	"***The door is breaking in 15 seconds,HOLD.***"
 	{
@@ -119,7 +119,7 @@
 	}
 	"***The door is going to unlock in 30 seconds.HOLD***"
 	{
-		"chi"		"**门将在30秒后解锁，守住！**"
+		"chi"		"**门将在30秒后解锁。守住！**"
 	}
 	"***PUSH THE DOOR UP.***"
 	{
@@ -157,7 +157,7 @@
 	}
 	"***We can destroy the titanss face and then blow up his core.***"
 	{
-		"chi"		"**我们现在可以去打碎泰坦的脸然后摧毁里面的核心。**"
+		"chi"		"**我们现在可以去打碎泰坦的脸部结构然后摧毁里面的核心。**"
 	}
 	"***WE HAVE DESTROYED THE TITAN, ITS FALLING DOWN HOLD ON.***"
 	{
@@ -181,7 +181,7 @@
 	}
 	"***The half of the castle has fell down with titan, lets find The Paladin of God who was behind this attack.***"
 	{
-		"chi"		"**半个城堡都随着泰坦一起崩塌了。让我们去寻找这次攻击的幕后黑手：上帝的圣骑士。**"
+		"chi"		"**半个城堡都随着泰坦一起崩塌的。让我们去寻找这次攻击的幕后黑手：上帝的圣骑士。**"
 	}
 	"***Break the titans arm it is blocking our way.***"
 	{
@@ -198,11 +198,11 @@
 	"***We found it!! hold while the door opens.***"
 	{
 		"chi"		"**没错，这就是开关！守住直到门开启。**"
-	        "DoorCountdown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***We can get out through small window.***"
 	{
-		"chi"		"**我们能通过这个小窗户出去！**"
+		"chi"		"**我们能通过这个小窗户逃出去！**"
 	}
 	"*Gates are going to open in 30 seconds.***"
 	{
@@ -263,7 +263,7 @@
 	}
 	"***Wait, its The Paladin of God again, prepare for anything he is up to do.***"
 	{
-		"chi"		"**等一下，前面又是圣骑士。小心他的攻击（固定一个高刀，当模型亮起白光蹲下即可）。**"
+		"chi"		"**等一下，前面又是圣骑士。小心他的攻击（固定一个高刀，当模型亮起灯光蹲下即可）。**"
 	}
 	"***Hold for 20 seconds untill the portal opens.***"
 	{
@@ -275,11 +275,11 @@
 	}
 	"***The Gods Paladin broke the barricades around HOLD THEM OFF.***"
 	{
-		"chi"		"**圣骑士把两边的障碍物破坏了，并把中间的大门打开了。防守住僵尸！**"
+		"chi"		"**圣骑士把两边的障碍物破坏了，还把中间的大门打开了。防守住僵尸！**"
 	}
 	"***The Gods Paladin is charging his last attack.***"
 	{
-		"chi"		"**圣骑士准备发动最后的攻击！**"
+		"chi"		"**圣骑士准备发起最后的攻击！**"
 	}
 	"***USE YOUR DRAGON TAILSMAN TO COUNTER HIS ATTACK AND BLOW EVERYONE.***"
 	{
@@ -291,7 +291,7 @@
 	}
 	"***We need to hold off the soldiers on both sides.***"
 	{
-		"chi"		"**我们需要分配人员去防守两边的僵尸。**"
+		"chi"		"**我们需要向两边分配人员去防守两边的僵尸。**"
 	}
 	"***BOSS IS CHARGING FOR LIGHT BOMB.***"
 	{
@@ -300,6 +300,6 @@
 	}
 	"*** Dragon Tailsmen relic has been picked up.***"
 	{
-		"chi"		"**信物：龙之召唤已被拾取。**"
+		"chi"		"**信物龙之召唤已被拾取。**"
 	}
 }

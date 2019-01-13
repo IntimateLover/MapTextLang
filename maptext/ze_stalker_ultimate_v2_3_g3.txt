@@ -68,6 +68,7 @@
 	"***The gate 1 will open in 30 seconds***"
 	{
 		"chi"		"**1号门将30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
@@ -319,6 +320,14 @@
 	}
 	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**又是它！它想杀死我们！！开枪！！！**"
+	}
+	"**HE IS DEAD!!NICE WORK!!**"
+	{
+		"chi"		"**它死了！干得好！！**"
+	}
+	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+	{
+		"chi"		"**你已经征服了本地图，你是真正的潜行者！！！**"
 	}
 }

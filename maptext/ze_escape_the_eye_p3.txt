@@ -123,6 +123,7 @@
 	"+++ 60 SECONDS OF COOLDOWN. +++"
 	{
 		"chi"		"**它有60秒的冷却时间. **"
+		"DoorCountdown"		"-1"
 	}
 	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
 	{
@@ -131,6 +132,7 @@
 	"++ FUEL FOR 10 SECONDS ++"
 	{
 		"chi"		"**它有10秒钟的燃料 **"
+		"DoorCountdown"		"-1"
 	}
 	"sync_version"
 	{

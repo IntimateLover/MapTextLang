@@ -285,6 +285,7 @@
 	}
 	"** Big Mouse start moving,Push the last button to enable the train quickly"
 	{
-		"chi"		"** **"
+		"chi"		"**老鼠要追过来了，快按下最后一下开关来启动火车！**"
+		"DoorCountdown"		"3"
 	}
 }
