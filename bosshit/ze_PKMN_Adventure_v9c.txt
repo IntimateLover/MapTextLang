@@ -656,4 +656,16 @@
 		"hammerid"		"1211251"
 		"m_iname"		"Level5_FinalPlatform"
 	}
+	"1256929"
+	{
+		"enable"		"0"
+		"hammerid"		"1256929"
+		"m_iname"		"Level5_WallyBreak"
+	}
+	"1256940"
+	{
+		"enable"		"0"
+		"hammerid"		"1256940"
+		"m_iname"		"Level5_FinalGallade"
+	}
 }
