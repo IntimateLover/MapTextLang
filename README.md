@@ -8,8 +8,6 @@
 
 ![严格Stripper的审核](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/stripper.jpg)
 
-
-
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
 ---
@@ -31,9 +29,7 @@
 ---
 
 ## 游戏中自动同步说明
-### 如果这里文件和服务器文件大小写不匹配 将无法同步成功 请务必通过论坛查询地图文件名!
-[地图查询] (https://bbs.93x.net/plugin.php?id=xnet_mappost:xnet_map_query).
-
+### 如果这里文件和服务器文件大小写不匹配 将无法同步成功 请务必通过[论坛查询地图](https://bbs.93x.net/plugin.php?id=xnet_mappost:xnet_map_query)文件名!
 
 1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/MapTextLang/MapTextLang/pull/new/master).就是通过编辑文件后创建PR
 
@@ -104,16 +100,47 @@
 
 上述单个参数需要保证僵尸会承受到至少1点伤害，如果模型或者其他原因阻挡了子弹伤害需要使用其他方法。 [用法演示](https://github.com/MapTextLang/MapTextLang/blob/master/entwatch/ze_lotr_minas_tirith_p5.cfg#L234-L242)
 
-
-
-###无用内容
-//triggercleanup
-//triggercleanup
-//triggercleanup 名字上传错误
 ### 仓库维护 一般每月一次
- #编辑 README.md 在尾部 添加任何无用注释内容 
- #编辑原因填写为 "triggercleanup" 即可清理同步缓存 
- # 如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存 
+
+编辑 README.md 在尾部 添加任何无用注释内容
+编辑原因填写为 "triggercleanup" 即可清理同步缓存
+如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存
+
+## Respawn Weapon Related Convar Usage (subject to changes)
+
+### sm_zeusweapons_nade_value
+
+This convar represents ***the total value*** of grenades that can be given to a player. Grenades usually share different values. For example, the value of molotov is 2, and both of hegrenade and decoy have the same value `1`. If this convar was to `2`, the player can choose **1x hegrenade and 1x decoy** or **1x molotov**; since one hegrenade plus one decoy have the total value of 2 and one molotov is 2. By increasing this value along with the maximum number of some grenades, it will result in a decrease in the map difficulty. Default: `2`. If you change this convar, you should always change `sm_zeusweapons_nadecount` to proper value as well.
+
+| Grenade | Value |
+|---------|-------|
+| Flash   | 0     |
+| Molotov | 2     |
+| Smoke   | 5     |
+| HE      | 1     |
+| Decoy   | 1     |
+
+### `sm_zeusweapons_hegrenade` and `sm_zeusweapons_decoy`
+
+All convar like the two above have changed the meaning from "the amount will be given" to "the maximum number can be given".  For example, set `sm_zeusweapons_decoy` to 1, then player can only get 1 decoy at respawn, no matter what value of `sm_zeusweapons_nade_value` is; in other words, these convar has the highest priority in terms of grenade limitation.
+
+#### List of all limitation of convar
+
+| ConVar                   | Default |                                                                              |
+|--------------------------|---------|------------------------------------------------------------------------------|
+| sm_zeusweapons_flash     | 0       |                                                                              |
+| sm_zeusweapons_hegrenade | 2       |                                                                              |
+| sm_zeusweapons_decoy     | 1       |                                                                              |
+| sm_zeusweapons_molotov   | 1       | The maximum allowed number of Molotov is also limited by `sm_molotov_limit`. |
+| sm_zeusweapons_smoke     | 0       |                                                                              |
+
+### sm_zeusweapons_recommend
+
+This convar is used to set the default weapon for the player who is using `Auto` for their starting weapon. It will randomly choose a weapon from this list for giving the weapon to the player. This convar is a string, all weapon should use their entity name, like `weapon_negev`, and split by `,`, no space around it. Default: `weapon_negev,weapon_p90,weapon_bizon`
+
+### sm_zeusweapons_nadecount
+
+Setting this convar will change the default selection of grenades. Like `sm_zeusweapons_recommend`, this is also a list that using `,` as a delimiter; however, the order of elements is matter in this case: `flash,molotov,smoke,he,decoy,0`. The length of this list must be 6 and the last element must be `0`. By default, `0,0,0,1,1,0`, means zero flash, zero motolov, zero smoke, one he, one decoy. All the value is limited by the maximum number of specific grenade. If this convar is invaild, then `0,0,0,1,1,0` will be used instead.  Default: `0,0,0,1,1,0`
 
 #trigger update10
 test for web hook
