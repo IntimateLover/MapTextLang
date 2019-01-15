@@ -134,13 +134,13 @@ All convar like the two above have changed the meaning from "the amount will be 
 | sm_zeusweapons_molotov   | 1       | The maximum allowed number of Molotov is also limited by `sm_molotov_limit`. |
 | sm_zeusweapons_smoke     | 0       |                                                                              |
 
-### sm_zeusweapons_recommand
+### sm_zeusweapons_recommend
 
 This convar is used to set the default weapon for the player who is using `Auto` for their starting weapon. It will randomly choose a weapon from this list for giving the weapon to the player. This convar is a string, all weapon should use their entity name, like `weapon_negev`, and split by `,`, no space around it. Default: `weapon_negev,weapon_p90,weapon_bizon`
 
 ### sm_zeusweapons_nadecount
 
-Setting this convar will change the default selection of grenades. Like `sm_zeusweapons_recommand`, this is also a list that using `,` as a delimiter; however, the order of elements is matter in this case: `flash,molotov,smoke,he,decoy,0`. The length of this list must be 6 and the last element must be `0`. By default, `0,0,0,1,1,0`, means zero flash, zero motolov, zero smoke, one he, one decoy. All the value is limited by the maximum number of specific grenade. If this convar is invaild, then `0,0,0,1,1,0` will be used instead.  Default: `0,0,0,1,1,0`
+Setting this convar will change the default selection of grenades. Like `sm_zeusweapons_recommend`, this is also a list that using `,` as a delimiter; however, the order of elements is matter in this case: `flash,molotov,smoke,he,decoy,0`. The length of this list must be 6 and the last element must be `0`. By default, `0,0,0,1,1,0`, means zero flash, zero motolov, zero smoke, one he, one decoy. All the value is limited by the maximum number of specific grenade. If this convar is invaild, then `0,0,0,1,1,0` will be used instead.  Default: `0,0,0,1,1,0`
 
 #trigger update10
 test for web hook
