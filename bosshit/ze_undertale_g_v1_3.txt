@@ -2,13 +2,13 @@
 {
 	"853279"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"853279"
 		"m_iname"		"woshua_target"
 	}
 	"772316"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"772316"
 		"m_iname"		"kid_target"
 	}
@@ -44,7 +44,7 @@
 	}
 	"684745"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"684745"
 		"m_iname"		"dummy_target"
 	}

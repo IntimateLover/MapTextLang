@@ -952,6 +952,7 @@
 	"** BARRIER 2 OPENS IN 15 SECS **"
 	{
 		"chi"		"**障碍2号15秒后移动**"
+		"DoorCountdown"		"15"
 	}
 	"** Player has learned FIRE -- Level 1 **"
 	{
