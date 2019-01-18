@@ -81,6 +81,10 @@
 	{
 		"chi"		"**守住10s **"
 	}
+	"**Defend here for 20 Seconds**"
+	{
+		"chi"		"**守住20s **"
+	}
 	"**The wrench was picked up**"
 	{
 		"chi"		"**已取得扳手工具 **"
@@ -105,7 +109,7 @@
 	{
 		"chi"		"**已取得蓝色水晶 **"
 	}
-	"**Defend here for 15 seconds**"
+	"**Defend here for 15 Seconds**"
 	{
 		"chi"		"**守住15s **"
 	}
@@ -145,7 +149,7 @@
 	{
 		"chi"		"**门即将打开... **"
 	}
-	"**Nice!Now we need to go back to the closed door**"
+	"**Nice! Now we need to go back to the closed door**"
 	{
 		"chi"		"**很好，现在我们需要回到关闭的门那里 **"
 	}
@@ -230,7 +234,7 @@
 	{
 		"chi"		"**已取得喷火器 **"
 	}
-	"**Oh crap!Someone blew up a tunnel**"
+	"**Oh crap! Someone blew up a tunnel**"
 	{
 		"chi"		"**隧道被炸毁了 **"
 	}
@@ -251,7 +255,7 @@
 		"chi"		"**复仇女神被打败了，寻找撤离路线... **"
 		"command"		"sv_gravity 1000"
 	}
-	"**This is the last point.The train departs in 45 seconds**"
+	"**This is the last point. The train departs in 45 seconds**"
 	{
 		"chi"		"**到达最后的撤离列车，守住45s... **"
 	}
