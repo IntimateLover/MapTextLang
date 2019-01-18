@@ -43,7 +43,7 @@
 	}
 	"**Doors will open in 5 seconds**"
 	{
-		"chi"		"**大门将在5s后打开 **"
+		"chi"		"**监控室大门将在5s后打开 **"
 	}
 	"**The shortest way to the train station is blocked**"
 	{
@@ -63,31 +63,31 @@
 	}
 	"**RPD doors will open in 25 seconds**"
 	{
-		"chi"		"**警察局大门将在5s后打开 **"
-	}
-	"**Second door will open in 25 seconds**"
-	{
 		"chi"		"**警察局大门将在25s后打开 **"
 	}
-	"**Doors will open in 15 seconds**"
+	"**Second door will open in 20 seconds**"
 	{
-		"chi"		"**门将在15s后打开 **"
+		"chi"		"**小巷侧路将在20s后打开 **"
+	}
+	"**Door will open in 15 seconds**"
+	{
+		"chi"		"**小巷门将在15s后打开 **"
 	}
 	"**Doors will open in 10 seconds**"
 	{
-		"chi"		"**门将在10s后打开 **"
+		"chi"		"**小巷门将在10s后打开 **"
 	}
-	"**Defend here for 20 seconds**"
+	"**Defend here for 10 Seconds**"
 	{
-		"chi"		"**守住20s **"
+		"chi"		"**守住10s **"
 	}
 	"**The wrench was picked up**"
 	{
 		"chi"		"**已取得扳手工具 **"
 	}
-	"**Parking doors will open in 20 seconds**"
+	"**Parking doors will open in 15 seconds**"
 	{
-		"chi"		"**停车场小门将在20s后打开 **"
+		"chi"		"**停车场小门将在15s后打开 **"
 	}
 	"**It seems another way blocked**"
 	{
@@ -105,7 +105,7 @@
 	{
 		"chi"		"**已取得蓝色水晶 **"
 	}
-	"**Defend here for 15 sec**"
+	"**Defend here for 15 seconds**"
 	{
 		"chi"		"**守住15s **"
 	}
@@ -141,7 +141,7 @@
 	{
 		"chi"		"**已取得保险丝 **"
 	}
-	"**Exit door will open soon**"
+	"**The exit door will open soon**"
 	{
 		"chi"		"**门即将打开... **"
 	}
@@ -189,7 +189,7 @@
 	{
 		"chi"		"**浣熊市安检通行大门即将打开... **"
 	}
-	"**The lever picked up**"
+	"**The lever was picked up**"
 	{
 		"chi"		"**已取得把手 **"
 	}
