@@ -606,4 +606,46 @@
 		"hammerid"		"195593"
 		"m_iname"		"wooden_wall_phy21"
 	}
+	"140348"
+	{
+		"enable"		"0"
+		"hammerid"		"140348"
+		"m_iname"		"door_phy_6"
+	}
+	"140351"
+	{
+		"enable"		"0"
+		"hammerid"		"140351"
+		"m_iname"		"door_phy_6"
+	}
+	"140354"
+	{
+		"enable"		"0"
+		"hammerid"		"140354"
+		"m_iname"		"door_phy_6"
+	}
+	"140357"
+	{
+		"enable"		"0"
+		"hammerid"		"140357"
+		"m_iname"		"door_phy_6"
+	}
+	"138797"
+	{
+		"enable"		"0"
+		"hammerid"		"138797"
+		"m_iname"		"door_phy_3"
+	}
+	"138800"
+	{
+		"enable"		"0"
+		"hammerid"		"138800"
+		"m_iname"		"door_phy_3"
+	}
+	"138803"
+	{
+		"enable"		"0"
+		"hammerid"		"138803"
+		"m_iname"		"door_phy_3"
+	}
 }
