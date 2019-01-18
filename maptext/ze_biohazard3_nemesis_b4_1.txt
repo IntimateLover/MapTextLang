@@ -45,6 +45,10 @@
 	{
 		"chi"		"**大门将在5s后打开 **"
 	}
+	"**Doors will open in 15 seconds**"
+	{
+		"chi"		"**大门将在15s后打开 **"
+	}
 	"**The shortest way to the train station is blocked**"
 	{
 		"chi"		"**到达火车站最近的路被堵死了... **"
