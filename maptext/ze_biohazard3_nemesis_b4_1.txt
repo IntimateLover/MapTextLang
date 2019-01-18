@@ -7,6 +7,7 @@
 	"**Map by Roku**"
 	{
 		"chi"		"**地图制作：RoKu 地图翻译：清新的二哈♪ **"
+		"command"		"sv_gravity 800"
 	}
 	"**CS GO remake by HaRyDe and Headsh**"
 	{
@@ -112,11 +113,11 @@
 	{
 		"chi"		"**这是浣熊市通行处的水晶... **"
 	}
-	"**But what is he doing here?**"
+	"**But what is that doing here?**"
 	{
 		"chi"		"**但是它怎么会在这里？ **"
 	}
-	"**Looks like this door can be opened with a fuse**"
+	"**Looks like this door can be opened by a fuse**"
 	{
 		"chi"		"**看起来这个门可以用保险丝打开 **"
 	}
@@ -144,11 +145,11 @@
 	{
 		"chi"		"**门即将打开... **"
 	}
-	"**Good now we need to go back to the closed door**"
+	"**Nice!Now we need to go back to the closed door**"
 	{
 		"chi"		"**很好，现在我们需要回到关闭的门那里 **"
 	}
-	"**Fuse activated!! Wait here few seconds**"
+	"**The fuse was activated!! Wait here few seconds**"
 	{
 		"chi"		"**保险丝启动！在这里等几秒钟... **"
 	}
@@ -184,23 +185,23 @@
 	{
 		"chi"		"**好的，现在我们可以通过浣熊市后到达车站 **"
 	}
-	"**The Raccoon City Hall was open soon**"
+	"**The Raccoon City Hall will open soon**"
 	{
 		"chi"		"**浣熊市安检通行大门即将打开... **"
 	}
-	"**The lever was picked up**"
+	"**The lever picked up**"
 	{
 		"chi"		"**已取得把手 **"
 	}
-	"**This is a lever from gaz station**"
+	"**This is a lever from the gaz station**"
 	{
 		"chi"		"**这个把手属于附近的一个加气站 **"
 	}
-	"**Perhaps it is worth looking for a battery there for the train**"
+	"**Perhaps it is worth to look for a battery there for the train**"
 	{
 		"chi"		"**也许我们能在这里找到火车控制器电池 **"
 	}
-	"**Defend here until door open**"
+	"**Defend here until the door opens**"
 	{
 		"chi"		"**守住这里直到门开... **"
 		"DoorCountdown"		"20"
@@ -229,7 +230,7 @@
 	{
 		"chi"		"**已取得喷火器 **"
 	}
-	"**Hell someone blew up a tunnel**"
+	"**Oh crap!Someone blew up a tunnel**"
 	{
 		"chi"		"**隧道被炸毁了 **"
 	}
@@ -248,12 +249,13 @@
 	"**Nemesis is defeated..Find your way out of the lab**"
 	{
 		"chi"		"**复仇女神被打败了，寻找撤离路线... **"
+		"command"		"sv_gravity 1000"
 	}
-	"**This is the last point Train departs in 45 secs**"
+	"**This is the last point.The train departs in 45 seconds**"
 	{
-		"chi"		"**到达最后的撤离列车，守住45... **"
+		"chi"		"**到达最后的撤离列车，守住45s... **"
 	}
-	"**Train departs in 10 secs**"
+	"**The train departs in 10 seconds**"
 	{
 		"chi"		"**列车将在10s后启动 **"
 	}
@@ -269,7 +271,7 @@
 	{
 		"chi"		"**难度：老兵模式 **"
 	}
-	"**Secret doors now open**"
+	"**Secret doors are now open**"
 	{
 		"chi"		"**枪械库被开启... **"
 	}
