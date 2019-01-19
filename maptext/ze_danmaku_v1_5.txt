@@ -156,4 +156,12 @@
 	{
 		"chi"		"**<<技能：光屏风力（站发光平台）>> PUSH **"
 	}
+	">PLAYER HAS PICKED UP:Ultima<"
+	{
+		"chi"		"** **"
+	}
+	"===Ultima 30s==="
+	{
+		"chi"		"** **"
+	}
 }
