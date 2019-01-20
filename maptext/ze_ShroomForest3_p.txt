@@ -194,7 +194,7 @@
 	">> ALL 6 MINES USED <<"
 	{
 		"chi"		"**6个地雷都被用完了**"
-                "DoorCountdown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
 	{
@@ -588,7 +588,7 @@
 	"-- [ZOMBIES] Find Satans Powers to make him stronger --"
 	{
 		"chi"		"**【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）**"
-				"DoorCountdown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<"
 	{
@@ -637,7 +637,7 @@
 	"** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **"
 	{
 		"chi"		"**5个僵尸已经江生命续给了撒旦，赶紧苟起**"
-				"DoorCountdown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">> SATAN IS ESCAPING !! <<"
 	{
@@ -814,5 +814,17 @@
 	">> THE MASTERBALL HAS BEEN PICKED UP <<"
 	{
 		"chi"		">>大师球已被拾取<<"
+	}
+	"*** 岩石将在25秒后清除 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 蜘蛛网将在20秒后清除 ***"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES IN THE SAFE AREA <<"
+	{
+		"chi"		"** **"
 	}
 }

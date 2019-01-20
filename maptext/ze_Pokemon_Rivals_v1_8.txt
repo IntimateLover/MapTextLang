@@ -12,7 +12,6 @@
 	{
 		"chi"		"**下一扇门将在15s后打开**"
 	}
-
 	"sync_version"
 	{
 		"syncvalue"		"95419"
@@ -796,5 +795,41 @@
 	"HUMANs defeated ZOMBIES"
 	{
 		"chi"		"**人类击败了僵尸！**"
+	}
+	"Its super effective!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy DIGLETT used SCRATCH!"
+	{
+		"chi"		"** **"
+	}
+	"ZOMBIES have caught HORSEA!"
+	{
+		"chi"		"** **"
+	}
+	"Hold for 25 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Youve finally arrived."
+	{
+		"chi"		"** **"
+	}
+	"We are going to defeat you!"
+	{
+		"chi"		"** **"
+	}
+	"Its not very effective..."
+	{
+		"chi"		"** **"
+	}
+	"HUMANs blacked out!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy HORSEA used LEER!"
+	{
+		"chi"		"** **"
 	}
 }

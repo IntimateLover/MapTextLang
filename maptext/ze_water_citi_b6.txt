@@ -64,4 +64,28 @@
 	{
 		"syncvalue"		"12744"
 	}
+	"**The obstacle breaks after 45S**"
+	{
+		"chi"		"** **"
+	}
+	"**We need to find items to get into the sewer**"
+	{
+		"chi"		"** **"
+	}
+	"**OK The obstacle has been solved.**"
+	{
+		"chi"		"** **"
+	}
+	"**The hammer has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"**The sewer door opens after 45 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The key has been picked up**"
+	{
+		"chi"		"** **"
+	}
 }
