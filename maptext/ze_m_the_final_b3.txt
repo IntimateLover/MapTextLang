@@ -2,47 +2,47 @@
 {
 	"<< stage 4 >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关**"
 	}
 	"<< map by Misaka >>"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：御坂**"
 	}
 	"<< special thanks to koyomaple and gneL >>"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢枫哥和冷**"
 	}
 	"<< A player has picked up heal >>"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了治疗**"
 	}
 	"<< heal used >>"
 	{
-		"chi"		"** **"
+		"chi"		"**治疗使用了**"
 	}
 	"<< a player has picked up wind >>"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了强风**"
 	}
 	">> A Player has picked up ice <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家拾取了冰**"
 	}
 	"<< A zombie has picked up speed >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拾取了加速**"
 	}
 	"<< zombie pick up gravity >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸拾取了黑洞**"
 	}
 	"<< zombie use gravity >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸黑洞使用了**"
 	}
 	"<< zombie used speed >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸加速使用了**"
 	}
 	"sync_version"
 	{
