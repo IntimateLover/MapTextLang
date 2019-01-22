@@ -1,0 +1,36 @@
+"Console_T"
+{
+	"| PROLOGUE |"
+	{
+		"chi"		"** **"
+	}
+	"| 10 SECONDS |"
+	{
+		"chi"		"** **"
+	}
+	"| 30 SECONDS |"
+	{
+		"chi"		"** **"
+	}
+	"| 20 SECONDS |"
+	{
+		"chi"		"** **"
+	}
+	"| 40 SECONDS |"
+	{
+		"chi"		"** **"
+	}
+	"| PASSAGE 1 |"
+	{
+		"chi"		"** **"
+	}
+	"| +500 |"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"-1"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"61575"
+	}
+}
