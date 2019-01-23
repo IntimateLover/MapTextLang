@@ -612,4 +612,10 @@
 		"hammerid"		"144822"
 		"m_iname"		"ice_g&5780"
 	}
+	"145590"
+	{
+		"enable"		"0"
+		"hammerid"		"145590"
+		"m_iname"		"an_g&4062"
+	}
 }

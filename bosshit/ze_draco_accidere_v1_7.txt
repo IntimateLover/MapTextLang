@@ -114,4 +114,22 @@
 		"hammerid"		"855792"
 		"m_iname"		"wall7"
 	}
+	"4122"
+	{
+		"enable"		"1"
+		"hammerid"		"4122"
+		"m_iname"		"boss"
+	}
+	"816515"
+	{
+		"enable"		"0"
+		"hammerid"		"816515"
+		"m_iname"		"tripleLaserTrigger"
+	}
+	"855595"
+	{
+		"enable"		"0"
+		"hammerid"		"855595"
+		"m_iname"		"death_circle1"
+	}
 }
