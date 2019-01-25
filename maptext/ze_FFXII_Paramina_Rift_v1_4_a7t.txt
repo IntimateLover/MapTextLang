@@ -500,7 +500,6 @@
 	"** Player has acquired the esper MATEUS **"
 	{
 		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>已被拾取**"
-		"command"		"sm_flashlight_enabled 1"
 	}
 	"** ELEVATOR WILL LEAVE IN 30 SECONDS **"
 	{
@@ -1027,7 +1026,8 @@
 	}
 	"** YOU KILLED MATEUS **"
 	{
-		"chi"		"** **"
+		"chi"		"**你打败了皇帝 **"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"The esper MATEUS has been summoned"
 	{
@@ -1059,7 +1059,8 @@
 	}
 	"** YOU DEFEATED MATEUS **"
 	{
-		"chi"		"** **"
+		"chi"		"**你打败了皇帝 **"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"** MATEUS TRICKED US! ITS A FAKE ESPER! **"
 	{
