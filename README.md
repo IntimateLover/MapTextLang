@@ -3,6 +3,10 @@
 # X社区 CSGO地图参数/地图翻译/Stripper的审核  PullRequest /Entwatch 仓库
 
 # 除翻译外 其他类型修改必须填写 Commit 变更内容 标题和详细内容 否则系统不同步.
+![必须填写Commit提交内容](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/B5678.jpg?raw=true)
+如果不填写以上内容 我们系统自动拒绝同步.
+
+
 
 # 严格Stripper的审核 必须经过PR部署测试服 完整测试后才可以放到正式服
 
