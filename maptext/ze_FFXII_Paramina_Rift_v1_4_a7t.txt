@@ -334,7 +334,6 @@
 	{
 		"chi"		"**神秘房间将在30秒后打开！**"
 		"DoorCountdown"		"30"
-		"command"		"sm_flashlight_enabled 0"
 	}
 	"** Player has learned POISONA (damage lvl4) **"
 	{
@@ -343,6 +342,7 @@
 	"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
 	{
 		"chi"		"**神秘房间还有5秒开启！**"
+		"command"		"sm_flashlight_enabled 0"
 	}
 	"0 '. STAGGER"
 	{
