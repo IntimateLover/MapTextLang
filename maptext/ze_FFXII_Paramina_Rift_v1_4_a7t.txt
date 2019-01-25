@@ -4,6 +4,7 @@
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
 		"DoorCountdown"		"-1"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
@@ -333,6 +334,7 @@
 	{
 		"chi"		"**神秘房间将在30秒后打开！**"
 		"DoorCountdown"		"30"
+		"command"		"sm_flashlight_enabled 0"
 	}
 	"** Player has learned POISONA (damage lvl4) **"
 	{
@@ -498,6 +500,7 @@
 	"** Player has acquired the esper MATEUS **"
 	{
 		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>已被拾取**"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"** ELEVATOR WILL LEAVE IN 30 SECONDS **"
 	{
