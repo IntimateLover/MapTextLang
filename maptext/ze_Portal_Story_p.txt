@@ -59,7 +59,7 @@
 	">>> It has a 50 second cooldown and slow zombies down <<<"
 	{
 		"chi"		"**可持续减速一定范围内的僵尸，冷却时间为50秒 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
 	{
@@ -80,6 +80,7 @@
 	">>> It has a 40 Second cooldown and speeds humans up <<<"
 	{
 		"chi"		"**可持续加速一定范围内的人类，冷却时间为40秒 **"
+		"DoorCountDown"		"-1"
 	}
 	">>> HOLD THIS PLACE FOR 35 SECS <<<"
 	{
@@ -104,7 +105,7 @@
 	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
 	{
 		"chi"		"**守住GLaDOS的房间25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	">>> DOOR IS CLOSING IN 5 SECS <<<"
 	{

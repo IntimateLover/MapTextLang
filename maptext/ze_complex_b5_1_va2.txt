@@ -54,7 +54,7 @@
 	}
 	"The lava will spread in this place in 60 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**岩浆将在60s后覆盖这片区域**"
 	}
 	"Massive teleport 15 seconds !!"
 	{
@@ -62,6 +62,6 @@
 	}
 	"The lava will spread in this place in 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**岩浆将在10s后覆盖这里**"
 	}
 }
