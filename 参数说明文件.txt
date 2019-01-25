@@ -17,10 +17,6 @@ sm_spawn_give_armor "0"
 #夜视仪价格:
 sm_ngv_price "2500"
 
-#雪球价格 一次4个 
-//0 代表禁止购买
-sm_snowball_price "2000"
-
 
 
 手雷和金钱控制
