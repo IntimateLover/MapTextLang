@@ -93,7 +93,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**The gates will open in 25 seconds**"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
 		"DoorCountdown"		"25"
@@ -613,6 +613,22 @@
 		"DoorCountdown"		"7"
 	}
 	"**Only 1 blue laser**"
+	{
+		"chi"		"** **"
+	}
+	"**INSANE MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**Tips : Spin lasers on the end**"
+	{
+		"chi"		"** **"
+	}
+	"**Tips : Can not kill Ifrit, Shiva and Jenova**"
+	{
+		"chi"		"** **"
+	}
+	"**This is still beta. Please report when you find a bug. Good luck !**"
 	{
 		"chi"		"** **"
 	}
