@@ -170,7 +170,7 @@
 	}
 	"<--It comes...-->"
 	{
-		"chi"		"**它来了...**"
+		"chi"		"**它lei了...**"
 	}
 	"<--Grenade can damage dragon-->"
 	{
@@ -222,5 +222,9 @@
 	"<--A human has picked Health Ball-->"
 	{
 		"chi"		"**一名人类捡起了治愈法球**"
+	}
+	"<--Shoot waha's head if possible-->"
+	{
+		"chi"		"**尽可能射击瓦哈头部**"
 	}
 }
