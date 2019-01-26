@@ -546,6 +546,10 @@
 	}
 	"**Boss skills are more powerful，be careful**"
 	{
-		"chi"		"** **"
+		"chi"		"**魔物变得更强点了 多加注意**"
+	}
+	"<<jiu deng le !>>"
+	{
+		"chi"		"<<   久   等  了  ! >>"
 	}
 }
