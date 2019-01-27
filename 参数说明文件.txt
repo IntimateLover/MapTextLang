@@ -5,7 +5,7 @@ cvarLists：
 
 # 凡是禁令内容一律禁止调整列表
 mapcommandblock_enable
-mce_extend
+mce_* //所有MCE开头的参数
 mp_timelimit > 180 以上的
 zr_infect_mzombie_ratio > 7 的
 zr_class_modify "zombies" "knockback" > 5 的
