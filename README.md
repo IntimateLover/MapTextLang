@@ -8,9 +8,7 @@
 
 
 
-# 严格Stripper的审核 必须经过PR部署测试服 完整测试后才可以放到正式服
-
-必须附加lable标签 【需要测试】 用于同步到测试服 并且经过严格测试后再下方评论才会合并.
+# 严格Stripper的稳定性审核 在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.
 
 ![严格Stripper的审核](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/stripper.jpg)
 
