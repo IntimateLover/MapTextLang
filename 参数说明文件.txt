@@ -8,7 +8,7 @@ mapcommandblock_enable
 mce_extend
 mp_timelimit > 180 以上的
 zr_infect_mzombie_ratio > 7 的
-
+zr_class_modify "zombies" "knockback" > 5 的
 
 
 
