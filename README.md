@@ -7,9 +7,9 @@
 ![必须填写Commit提交内容](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/B5678.jpg?raw=true)
 如果不填写以上内容 我们系统自动拒绝同步.
 
-# 严格Stripper的稳定性审核 :
-在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.确认确实完毕后只需 不包含之前关键词 此类再 Commit 一次.
-即可同步到正式服
+# 严格Stripper的 (Stripper修改并非安全 可能引起服务器崩溃 因此需测试以免服务器崩溃) :
+在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.确认测试完毕工作正常后 不包含之前关键词 此类再 Commit 一次.
+
 ---
 
 只要对应服务器具备相应地图就会同步本仓库数据
