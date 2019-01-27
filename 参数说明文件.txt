@@ -1,5 +1,20 @@
 cvarLists：
 
+#禁令内容#
+
+# 凡是禁令内容一律禁止调整列表
+mapcommandblock_enable
+mce_extend
+mp_timelimit > 180 以上的
+zr_infect_mzombie_ratio > 7 的
+
+
+
+
+
+
+
+
 ##########################################################购买类###############################
 #禁止购买AWP和禁用AWP效果
 1 允许 0 禁止
