@@ -177,5 +177,67 @@
 	"64739"
 	{
 		"enable"		"1"
+		"hammerid"		"64739"
+		"m_iname"		"Piter"
+	}
+	"192757"
+	{
+		"enable"		"0"
+		"hammerid"		"192757"
+		"m_iname"		"Lego room teleport rainbow"
+	}
+	"2625"
+	{
+		"enable"		"0"
+		"hammerid"		"2625"
+		"m_iname"		"Sasuke hp"
+	}
+	"192817"
+	{
+		"enable"		"0"
+		"hammerid"		"192817"
+		"m_iname"		"auschwitz teleport"
+	}
+	"265020"
+	{
+		"enable"		"0"
+		"hammerid"		"265020"
+		"m_iname"		"Piter laser"
+	}
+	"255060"
+	{
+		"enable"		"0"
+		"hammerid"		"255060"
+		"m_iname"		"Piter laser"
+	}
+	"64977"
+	{
+		"enable"		"0"
+		"hammerid"		"64977"
+		"m_iname"		"Piter shield"
+	}
+	"64915"
+	{
+		"enable"		"0"
+		"hammerid"		"64915"
+		"m_iname"		"Piter shield 2"
+	}
+	"64969"
+	{
+		"enable"		"0"
+		"hammerid"		"64969"
+		"m_iname"		"Piter bridge"
+	}
+	"64847"
+	{
+		"enable"		"0"
+		"hammerid"		"64847"
+		"m_iname"		"Piter mega sword floor"
+	}
+	"105122"
+	{
+		"enable"		"0"
+		"hammerid"		"105122"
+		"m_iname"		"Sasuke middle chidori"
 	}
 }
