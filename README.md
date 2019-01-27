@@ -7,18 +7,10 @@
 ![必须填写Commit提交内容](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/B5678.jpg?raw=true)
 如果不填写以上内容 我们系统自动拒绝同步.
 
-
-
 # 严格Stripper的稳定性审核 :
-在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.
-
-
-
+在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.确认确实完毕后只需 不包含之前关键词 此类再 Commit 一次.
+即可同步到正式服
 ---
-
-这是X社区 地图翻译 / Entwatch / stripper mapcfg(地图参数) 或者其他翻译 GIT仓库。
-
-地图翻译/stripper/mapcfg 支持所有类型服务器。
 
 只要对应服务器具备相应地图就会同步本仓库数据
 
