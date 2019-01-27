@@ -69,8 +69,8 @@
 
 ### [用法演示](https://github.com/MapTextLang/MapTextLang/blob/master/mapcfg/ze_grau_a03_4f.cfg#L15-L17)
 
-默认拦截有关 "STEAM_" 所有关键词
-在mapcfg中添加 `mapcommandblock_enable 0` 则不会阻挡地图操作命令（默认 1） 此CVAR安全锁定 只能由配置文件修改
+默认拦截有关 "STEAM_" 所有关键词 我们不允许对单个客户端特权操作.
+
 
 但即使地图有白名单参数 也拒绝`sm_kick` `sm_ban`等操作。此类指令强制屏蔽。
 
