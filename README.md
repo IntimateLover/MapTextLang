@@ -8,9 +8,8 @@
 
 
 
-# 严格Stripper的稳定性审核 在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.
-
-![严格Stripper的审核](https://github.com/MapTextLang/MapTextLang/blob/master/data_images/stripper.jpg)
+# 严格Stripper的稳定性审核 :
+在 Commit 标题附加内容 test 或 alpha 或 beta 任一关键词 用于同步到测试服上.
 
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
