@@ -4,21 +4,25 @@
 	{
 		"chi"		"**地图作者&翻译：酸奶**"
 	}
-	"<--Recommend input <mat_monitorgamma 1.8> in your console-->"
+	"<--Put on your headphone and enjoy trips-->"
 	{
-		"chi"		"**建议在控制台输入<mat_monitorgamma 1.8>**"
+		"chi"		"**戴上耳机，享受旅行吧**"
 	}
 	"<--Last Trip Finished-->"
 	{
 		"chi"		"**最后的旅途已完成**"
 	}
-	"<--Find a place to hold-->"
-	{
-		"chi"		"**找个地方守住**"
-	}
 	"<--Find and use wall item to spawn a road-->"
 	{
 		"chi"		"**寻找并使用墙神器来造路**"
+	}
+	"<--Find a place and play with your partner-->"
+	{
+		"chi"		"**找个地方和小伙伴一起van**"
+	}
+	"<--Some places can only stay 5 to 15 humans-->"
+	{
+		"chi"		"**某些守点只能待5到15个人**"
 	}
 	"<--Trip 1-->"
 	{
@@ -42,7 +46,7 @@
 	}
 	"<--Zombies are in the room-->"
 	{
-		"chi"		"**僵尸进了房间**"
+		"chi"		"**僵尸进了房间，旅行失败**"
 	}
 	"<--Hold for 30s-->"
 	{
@@ -110,6 +114,6 @@
 	}
 	"<--Trip Finished-->"
 	{
-		"chi"		"** **"
+		"chi"		"**旅行成功**"
 	}
 }
