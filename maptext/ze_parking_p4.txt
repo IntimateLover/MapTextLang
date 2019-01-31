@@ -35,7 +35,7 @@
 	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
 	{
 		"chi"		"**守30秒直到C4爆炸**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> RETURN TO COVER THE DOOR <<<"
 	{
@@ -72,7 +72,7 @@
 	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
 	{
 		"chi"		"**电梯开门了 15秒后关门**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>ELEVATORS LEAVING !<<"
 	{
@@ -93,7 +93,7 @@
 	">>>>Only 15 Proxi Mines<<<<"
 	{
 		"chi"		"**只有15个地雷**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>>Proxi Mine has been picked<<<<"
 	{
@@ -122,7 +122,7 @@
 	">>COVER THE EVACUATION AREA 45 SECONDS<<"
 	{
 		"chi"		"**守住撤离区45秒**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
 	{
@@ -175,7 +175,7 @@
 	">>CHOPPER LEAVING IN 15 SECONDS<<"
 	{
 		"chi"		"**直升机15秒后离开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">>5 SECONDS LEFT<<"
 	{
