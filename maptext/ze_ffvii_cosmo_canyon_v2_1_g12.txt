@@ -151,7 +151,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Gi Nattak is using aspil**"
 	{
@@ -340,5 +340,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"72587"
+	}
+	"**Gi Nattck is using shield**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie cactus has been picked up**"
+	{
+		"chi"		"** **"
 	}
 }

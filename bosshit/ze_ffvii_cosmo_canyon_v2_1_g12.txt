@@ -3,10 +3,14 @@
 	"204187"
 	{
 		"enable"		"1"
+		"hammerid"		"204187"
+		"m_iname"		"Boss_Hitbox"
 	}
 	"935451"
 	{
 		"enable"		"1"
+		"hammerid"		"935451"
+		"m_iname"		"Ifrit_Phys_Body"
 	}
 	"118639"
 	{
@@ -127,5 +131,101 @@
 		"enable"		"0"
 		"hammerid"		"1883983"
 		"m_iname"		"Hold5_lvl1_Bridge_Plank1"
+	}
+	"195552"
+	{
+		"enable"		"0"
+		"hammerid"		"195552"
+		"m_iname"		"Hold5_lvl2_Bridge_Plank1"
+	}
+	"195798"
+	{
+		"enable"		"0"
+		"hammerid"		"195798"
+		"m_iname"		"Hold5_lvl2_Bridge"
+	}
+	"540365"
+	{
+		"enable"		"0"
+		"hammerid"		"540365"
+		"m_iname"		"lvl2_Temp1_Ladder2"
+	}
+	"1902735"
+	{
+		"enable"		"1"
+		"hammerid"		"1902735"
+		"m_iname"		"Chocobo_End_Hitbox"
+	}
+	"650105"
+	{
+		"enable"		"1"
+		"hammerid"		"650105"
+		"m_iname"		"lvl2_Boss_Hitbox"
+	}
+	"195555"
+	{
+		"enable"		"0"
+		"hammerid"		"195555"
+		"m_iname"		"Hold5_lvl3_Bridge_Plank1"
+	}
+	"195623"
+	{
+		"enable"		"0"
+		"hammerid"		"195623"
+		"m_iname"		"Hold5_lvl3_Bridge"
+	}
+	"362543"
+	{
+		"enable"		"0"
+		"hammerid"		"362543"
+		"m_iname"		"lvl3_Temp1_Ladder"
+	}
+	"323045"
+	{
+		"enable"		"0"
+		"hammerid"		"323045"
+		"m_iname"		"Earth"
+	}
+	"934817"
+	{
+		"enable"		"0"
+		"hammerid"		"934817"
+		"m_iname"		"Shinra_Break_1"
+	}
+	"935412"
+	{
+		"enable"		"0"
+		"hammerid"		"935412"
+		"m_iname"		"Shinra_Arena_Vents"
+	}
+	"935834"
+	{
+		"enable"		"0"
+		"hammerid"		"935834"
+		"m_iname"		"Shinra_Arena_ZM_Cage"
+	}
+	"1839983"
+	{
+		"enable"		"0"
+		"hammerid"		"1839983"
+		"m_iname"		"Shinra_Break_2"
+	}
+	"935432"
+	{
+		"enable"		"0"
+		"hammerid"		"935432"
+		"m_iname"		"Ifrit_Phys"
+	}
+	"1046356"
+	{
+		"enable"		"1"
+		"hammerid"		"1046356"
+		"m_iname"		"lvl4_end_boss"
+	}
+	"1885963"
+	{
+		"enable"		"1"
+		"hammerid"		"1885963"
+		"m_iname"		"Rage_Ifrit_Hitbox"
 	}
 }
