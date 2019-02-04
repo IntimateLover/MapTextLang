@@ -7,7 +7,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**坚守30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -16,16 +16,16 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**坚守20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Hold 25 seconds ***"
 	{
 		"chi"		"**坚守25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
@@ -72,17 +72,17 @@
 	"*** doors opens 10 seconds ***"
 	{
 		"chi"		"**大门10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** Door opens 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Door opens 35 seconds ***"
 	{
 		"chi"		"**大门35秒后打开 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"*** ICICLE FALL ***"
 	{
@@ -107,7 +107,7 @@
 	"*** FROZEN WATER ***"
 	{
 		"chi"		"**千里冰封（倒计时结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管） **"
-		"DoorCountDown"		"7"
+		"DoorCountdown"		"7"
 	}
 	"*** RISING WATER ***"
 	{
@@ -118,5 +118,6 @@
 	{
 		"chi"		"**钻石星尘（跑到四周水下躲避攻击） **"
 		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 }
