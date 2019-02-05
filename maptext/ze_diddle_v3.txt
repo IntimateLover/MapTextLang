@@ -93,6 +93,7 @@
 	"*Elevator Activating in 10 seconds*"
 	{
 		"chi"		"**电梯10秒后激活**"
+		"DoorCountDown"		"10"
 	}
 	"*Elevator activated*"
 	{
@@ -105,6 +106,7 @@
 	"*Wall 2 breaks in 40 seconds*"
 	{
 		"chi"		"**2号墙在40秒后破碎**"
+		"DoorCountDown"		"40"
 	}
 	"*Do you hear that?*"
 	{
@@ -125,6 +127,7 @@
 	"*Gates closing in 5 seconds*"
 	{
 		"chi"		"**大门将在5秒后关闭**"
+		"DoorCountDown"		"5"
 	}
 	"*Gates closing*"
 	{
@@ -201,7 +204,7 @@
 	"*Wall 1 breaks in 40 seconds*"
 	{
 		"chi"		"**1号墙40秒后破碎**"
-		"DoorCountDown"		"40"
+		"DoorCountDown"		"-1"
 	}
 	"***SACRIFICE YOUR LOVE***"
 	{

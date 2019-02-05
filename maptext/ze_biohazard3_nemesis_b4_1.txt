@@ -212,7 +212,7 @@
 	"**Defend here until the door opens**"
 	{
 		"chi"		"**守住这里直到门开... **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**The battery was picked up**"
 	{
@@ -342,5 +342,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"22886"
+	}
+	"**ZE_BIOHAZARD3_NEMESIS**"
+	{
+		"chi"		"** **"
 	}
 }
