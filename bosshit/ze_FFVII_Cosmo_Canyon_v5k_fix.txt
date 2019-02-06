@@ -124,13 +124,13 @@
 	{
 		"enable"		"1"
 		"hammerid"		"5490357"
-		"m_iname"		"Boss_Hitbox"
+		"m_iname"		"Nattak"
 	}
 	"935451"
 	{
 		"enable"		"1"
 		"hammerid"		"935451"
-		"m_iname"		"Ifrit_Phys_Body"
+		"m_iname"		"Genesis"
 	}
 	"195552"
 	{
@@ -160,7 +160,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"650105"
-		"m_iname"		"lvl2_Boss_Hitbox"
+		"m_iname"		"Nattak"
 	}
 	"195555"
 	{
@@ -184,7 +184,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"421745"
-		"m_iname"		"lvl3_end_boss"
+		"m_iname"		"Ifrit"
 	}
 	"934817"
 	{
@@ -232,19 +232,19 @@
 	{
 		"enable"		"1"
 		"hammerid"		"4736702"
-		"m_iname"		"Shinra_Ifrit_Phys"
+		"m_iname"		"Ifrit"
 	}
 	"4736714"
 	{
 		"enable"		"1"
 		"hammerid"		"4736714"
-		"m_iname"		"Shinra_Shiva_Phys"
+		"m_iname"		"Shiva"
 	}
 	"4736736"
 	{
 		"enable"		"1"
 		"hammerid"		"4736736"
-		"m_iname"		"Shinra_Jenova_Phys"
+		"m_iname"		"Jenova"
 	}
 	"5909496"
 	{
@@ -256,7 +256,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"2993357"
-		"m_iname"		"lvl4_end_boss"
+		"m_iname"		"Genesis"
 	}
 	"6149052"
 	{
