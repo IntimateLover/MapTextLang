@@ -1,0 +1,57 @@
+"BOSSHP"
+{
+	"278616"
+	{
+		"enable"		"0"
+		"hammerid"		"278616"
+		"m_iname"		"spawn_kartcage"
+	}
+	"56"
+	{
+		"enable"		"0"
+		"hammerid"		"56"
+		"m_iname"		"i_kart_phys&2893"
+	}
+	"38256"
+	{
+		"enable"		"0"
+		"hammerid"		"38256"
+		"m_iname"		"i_item_mushroom_phys&3388"
+	}
+	"42303"
+	{
+		"enable"		"0"
+		"hammerid"		"42303"
+		"m_iname"		"i_item_star_phys&2591"
+	}
+	"23923"
+	{
+		"enable"		"0"
+		"hammerid"		"23923"
+		"m_iname"		"i_item_shellgreen_phys&3401"
+	}
+	"29771"
+	{
+		"enable"		"0"
+		"hammerid"		"29771"
+		"m_iname"		"i_item_banana_phys&3467"
+	}
+	"34657"
+	{
+		"enable"		"0"
+		"hammerid"		"34657"
+		"m_iname"		"i_item_bomb_phys&2967"
+	}
+	"28286"
+	{
+		"enable"		"0"
+		"hammerid"		"28286"
+		"m_iname"		"i_item_shellred_phys&3458"
+	}
+	"306325"
+	{
+		"enable"		"0"
+		"hammerid"		"306325"
+		"m_iname"		"i_item_repair_phys&3469"
+	}
+}
