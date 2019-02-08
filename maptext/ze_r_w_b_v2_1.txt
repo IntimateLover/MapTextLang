@@ -4,4 +4,12 @@
 	{
 		"chi"		"**防守25秒**"
 	}
+	"-- Defend for 15 more seconds --"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"-- Sounds from & Respect to ze_grau_a03_4f --"
+	{
+		"chi"		"**admin**"
+	}
 }
