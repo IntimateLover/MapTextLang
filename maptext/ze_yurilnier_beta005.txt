@@ -44,4 +44,8 @@
 	{
 		"chi"		"**门将于50秒后打开**"
 	}
+	"** DOORS OPENING IN 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
 }
