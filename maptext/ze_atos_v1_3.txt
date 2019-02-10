@@ -22,7 +22,7 @@
 	}
 	"<--Some places can only stay 5 to 15 humans-->"
 	{
-		"chi"		"**某些守点只能待5到15个人，请分散守，全部人集中在一起没意思**"
+		"chi"		"**某些守点只能待5到15个人，请分散守**"
 	}
 	"<--Trip 1-->"
 	{
@@ -115,5 +115,45 @@
 	"<--Trip Finished-->"
 	{
 		"chi"		"**旅行成功**"
+	}
+	"<--DIFFICULTY 1-->"
+	{
+		"chi"		"**难度 1**"
+	}
+	"<--DIFFICULTY 2-->"
+	{
+		"chi"		"**难度 2**"
+	}
+	"<--DIFFICULTY 3-->"
+	{
+		"chi"		"**难度 3**"
+	}
+	"<--DIFFICULTY 4-->"
+	{
+		"chi"		"**难度 4**"
+	}
+	"<--DIFFICULTY 5-->"
+	{
+		"chi"		"**难度 5**"
+	}
+	"<--DIFFICULTY 1 Finished-->"
+	{
+		"chi"		"**难度1完成**"
+	}
+	"<--DIFFICULTY 2 Finished-->"
+	{
+		"chi"		"**难度2完成**"
+	}
+	"<--DIFFICULTY 3 Finished-->"
+	{
+		"chi"		"**难度3完成**"
+	}
+	"<--DIFFICULTY 4 Finished-->"
+	{
+		"chi"		"**难度4完成**"
+	}
+	"<--DIFFICULTY 5 Finished-->"
+	{
+		"chi"		"**难度5完成**"
 	}
 }
