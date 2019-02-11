@@ -59,7 +59,7 @@
 		"chi"		"传送门20秒后开启"
 		"DoorCountdown"		"20"
 	}
-	"*** Door opens in 30 seconds ***"
+	"*** DOOR OPENS IN 30 SECONDS ***"
 	{
 		"chi"		"门30秒后开启"
 	}
@@ -109,7 +109,7 @@
 	}
 	"*** Level Completed ***"
 	{
-		"chi"		"第一关完成"
+		"chi"		"**关卡完成**"
 	}
 	"*** Level 2 ***"
 	{
@@ -234,7 +234,7 @@
 	{
 		"chi"		"离胜利只有15秒了！"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"离胜利只有5秒了！"
 	}
@@ -275,7 +275,7 @@
 	{
 		"chi"		"梯子25秒后出现"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"*** DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"门于20秒后开放"
 	}
