@@ -552,4 +552,28 @@
 	{
 		"chi"		"<<   久   等  了  ! >>"
 	}
+	"**tips:A secret trigger when pressed all words in map,only once**"
+	{
+		"chi"		"** **"
+	}
+	"**tips:shoot the top model can teleport to model room  **"
+	{
+		"chi"		"** **"
+	}
+	"**tips:zombies can press E on alpaca to change model and have 1.2scale speed  **"
+	{
+		"chi"		"** **"
+	}
+	"library teleport enable in 35sec"
+	{
+		"chi"		"** **"
+	}
+	"hold in 37s"
+	{
+		"chi"		"** **"
+	}
+	"**hard boss level enable**"
+	{
+		"chi"		"** **"
+	}
 }
