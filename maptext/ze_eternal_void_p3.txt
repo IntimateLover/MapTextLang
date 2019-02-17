@@ -10,6 +10,8 @@
 	"**** Spawn will open in 25 seconds****"
 	{
 		"chi"		"**25s后开放 **"
+		"command"		"zr_infect_spawntime_max 25"
+		"command"		"zr_infect_spawntime_min 25"
 	}
 	"****Map Created By GrandOp****"
 	{
