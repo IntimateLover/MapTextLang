@@ -69,6 +69,10 @@
 	{
 		"chi"		"**警察局大门将在25s后打开 **"
 	}
+	"**RPD doors will open in 20 seconds**"
+	{
+		"chi"		"**警察局大门将在20s后打开 **"
+	}
 	"**Second door will open in 20 seconds**"
 	{
 		"chi"		"**小巷侧路将在20s后打开 **"
