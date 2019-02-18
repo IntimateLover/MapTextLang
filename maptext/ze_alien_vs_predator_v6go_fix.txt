@@ -215,6 +215,7 @@
 	"**The door will be closed in 1min 40 seconds**"
 	{
 		"chi"		"**出口将在1m40s后关闭 **"
+		"DoorCountdown"		"100"
 	}
 	"**The door will be closed in 60 seconds**"
 	{
