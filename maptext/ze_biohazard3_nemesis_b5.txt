@@ -49,6 +49,10 @@
 	{
 		"chi"		"**大门将在15s后打开 **"
 	}
+	"**Doors will open in 20 seconds**"
+	{
+		"chi"		"**大门将在20s后打开 **"
+	}
 	"**The shortest way to the train station is blocked**"
 	{
 		"chi"		"**到达火车站最近的路被堵死了... **"
@@ -230,9 +234,9 @@
 	{
 		"chi"		"**快跑！ **"
 	}
-	"**The train will depart in 30 seconds**"
+	"**Good!! The train will depart in 20 seconds**"
 	{
-		"chi"		"**火车将在30s后离开 **"
+		"chi"		"**解开谜题！火车将在20s后离开**"
 	}
 	"**It remains only to fight off the zombies and we are saved**"
 	{
@@ -257,6 +261,10 @@
 	"**Door will close in 5 seconds**"
 	{
 		"chi"		"**门将在5秒后关闭**"
+	}
+	"**The Nemesis is now in fury**"
+	{
+		"chi"		"**复仇女神进入暴怒状态了！**"
 	}
 	"**Nemesis is defeated..Find your way out of the lab**"
 	{
