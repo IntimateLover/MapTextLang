@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"1044274"
+	{
+		"enable"		"0"
+		"hammerid"		"1044274"
+		"m_iname"		"vis_meatball"
+	}
+	"214706"
+	{
+		"enable"		"0"
+		"hammerid"		"214706"
+		"m_iname"		"vis_meatloaf"
+	}
+	"1044277"
+	{
+		"enable"		"0"
+		"hammerid"		"1044277"
+		"m_iname"		"ph_meatball&1029"
+	}
+	"214703"
+	{
+		"enable"		"0"
+		"hammerid"		"214703"
+		"m_iname"		"pbox_loaf"
+	}
+}
