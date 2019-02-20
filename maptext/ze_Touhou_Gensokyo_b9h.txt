@@ -370,15 +370,15 @@
 	}
 	"**lines13**"
 	{
-		"chi"		"**妖梦：再往前走的话，被幽幽子大人吃掉我也不管的了哦**"
+		"chi"		"** **"
 	}
 	"**lines14**"
 	{
-		"chi"		"**妖梦：上次幽幽子大人差点把我的半灵（麻薯）吃了呜~**"
+		"chi"		"** **"
 	}
 	"**lines15**"
 	{
-		"chi"		"**(>_<)**"
+		"chi"		"** **"
 	}
 	"zombies tel in 15sec"
 	{
@@ -402,11 +402,11 @@
 	}
 	"hole teleport enable in 30sec"
 	{
-		"chi"		"** **"
+		"chi"		"**洞口传送30秒启动**"
 	}
 	"zombies tp in 15s"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在15秒后传送**"
 	}
 	"**lines19**"
 	{
@@ -542,7 +542,7 @@
 	}
 	"**keep defending in 13s**"
 	{
-		"chi"		"** **"
+		"chi"		"**保持防守13秒**"
 	}
 	"**Boss skills are more powerful，be careful**"
 	{
@@ -554,26 +554,26 @@
 	}
 	"**tips:A secret trigger when pressed all words in map,only once**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：地图上三个字体按钮按下后下局将出现彩蛋，只有一次**"
 	}
 	"**tips:shoot the top model can teleport to model room  **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：射击神社顶部白泽球模型能传送到皮肤房（数量有限）**"
 	}
 	"**tips:zombies can press E on alpaca to change model and have 1.2scale speed  **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：僵尸对着羊驼按E能改变模型并且获得1.2倍移速**"
 	}
 	"library teleport enable in 35sec"
 	{
-		"chi"		"** **"
+		"chi"		"**图书馆传送将在35秒后启动**"
 	}
 	"hold in 37s"
 	{
-		"chi"		"** **"
+		"chi"		"**守住37秒**"
 	}
 	"**hard boss level enable**"
 	{
-		"chi"		"** **"
+		"chi"		"**困难BOSS模式开启**"
 	}
 }
