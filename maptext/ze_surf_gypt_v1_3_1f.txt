@@ -64,6 +64,7 @@
 	"*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
 	{
 		"chi"		"**C4已经激活**"
+		"DoorCountdown"		"55"
 	}
 	"*** ZOMBIE TELEPORT IN 8 SECONDS ***"
 	{
