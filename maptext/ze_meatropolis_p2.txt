@@ -2,11 +2,11 @@
 {
 	"lovingly prepared by soft serve"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由作者soft serve精心准备，地图翻译：koyomaple(枫)**"
 	}
 	"stage 1"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡1**"
 	}
 	"ze_meatropolis"
 	{
@@ -14,7 +14,7 @@
 	}
 	"got the pork familiar"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取神器：浮游炮小猪(自动跟踪射击范围内僵尸)**"
 	}
 	"30"
 	{
@@ -22,7 +22,7 @@
 	}
 	"got the shish kebab"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取神器：大肉串(大范围击退僵尸)**"
 	}
 	"15"
 	{
@@ -34,7 +34,7 @@
 	}
 	"got the meatball"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取神器：肉球（对僵尸造成可观伤害，可无限使用）**"
 	}
 	"45"
 	{
@@ -42,42 +42,42 @@
 	}
 	"got the meatloaf"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取神器：烤肉墙（生成一面墙阻挡僵尸，墙血量为一千，可被枪械打碎）**"
 	}
 	"got the chunky chili"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取神器：辣椒水(对直线范围僵尸造成燃烧和减速)**"
 	}
 	"got the tomato soup (vegetarian option)"
 	{
-		"chi"		"** **"
+		"chi"		"**拾取神器：坩埚素菜汤（对前方小范围僵尸造成强力减速） **"
 	}
 	"nuke in 30"
 	{
-		"chi"		"** **"
+		"chi"		"**旅程结束还有30秒**"
 	}
 	"nuke in 15"
 	{
-		"chi"		"** **"
+		"chi"		"**旅程结束还有15秒**"
 	}
 	"nuke in 5"
 	{
-		"chi"		"** **"
+		"chi"		"**旅程结束还有5秒**"
 	}
 	"kill all remaining zombies"
 	{
-		"chi"		"** **"
+		"chi"		"**刷死剩余偷渡僵尸完成关卡**"
 	}
 	"well meat again"
 	{
-		"chi"		"** **"
+		"chi"		"**好肉又上架了~**"
 	}
 	"stage 2"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡2**"
 	}
 	"meat spinner activated"
 	{
-		"chi"		"** **"
+		"chi"		"**风扇绞肉机启动了！人类注意不要横穿过去。**"
 	}
 }
