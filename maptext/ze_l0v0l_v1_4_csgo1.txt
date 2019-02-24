@@ -2,7 +2,7 @@
 {
 	">>> Map made by Moray <<<"
 	{
-		"chi"		">>>地图由Moray制作<<<"
+		"chi"		">>>地图由Moray制作,Kondik移植<<<"
 	}
 	">>> Special thanks to hobbit <<<"
 	{
@@ -195,5 +195,13 @@
 	">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
 	{
 		"chi"		">>>一位玩家拿起了能释放电场的神奇马桶<<<"
+	}
+	">>> ADMIN CHANGED TO STAGE 2 <<<"
+	{
+		"chi"		">>>ADMIN调至第二关<<<"
+	}
+	">>> ADMIN CHANGED TO STAGE 1 <<<"
+	{
+		"chi"		">>>Admin调至第一关<<<"
 	}
 }

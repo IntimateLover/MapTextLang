@@ -3,7 +3,7 @@
 	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
 	{
 		"chi"		"**Diddlery将在30秒后开始**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
 	{
@@ -88,12 +88,12 @@
 	"*Defend for 30 seconds*"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*Elevator Activating in 10 seconds*"
 	{
 		"chi"		"**电梯10秒后激活**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*Elevator activated*"
 	{
@@ -106,7 +106,7 @@
 	"*Wall 2 breaks in 40 seconds*"
 	{
 		"chi"		"**2号墙在40秒后破碎**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"*Do you hear that?*"
 	{
@@ -127,7 +127,7 @@
 	"*Gates closing in 5 seconds*"
 	{
 		"chi"		"**大门将在5秒后关闭**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"*Gates closing*"
 	{
@@ -204,7 +204,7 @@
 	"*Wall 1 breaks in 40 seconds*"
 	{
 		"chi"		"**1号墙40秒后破碎**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***SACRIFICE YOUR LOVE***"
 	{
@@ -613,7 +613,7 @@
 	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***PURCHASED - BIG GUARDIAN***"
 	{
@@ -631,7 +631,7 @@
 	{
 		"chi"		"**5秒时间剩余**"
 	}
-	"***Fall back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退**"
 	}
@@ -654,7 +654,7 @@
 	"***Defend for 40 seconds***"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***ELEVATOR LEAVES IN 10 SECONDS***"
 	{
@@ -671,7 +671,7 @@
 	"***DEFEND FOR 60 SECONDS***"
 	{
 		"chi"		"**守住这里60秒**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***30 SECONDS LEFT***"
 	{
@@ -688,7 +688,7 @@
 	"***DEFEND FOR 25 SECONDS***"
 	{
 		"chi"		"**守住25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***JUMP INSIDE THE DOODLE DOODY***"
 	{
@@ -873,7 +873,7 @@
 	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
 	{
 		"chi"		"**这个门将在40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
 	{
@@ -926,7 +926,7 @@
 	"***HOLD THEM OFF FOR 30 SECONDS***"
 	{
 		"chi"		"**守住他们30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***RUN***"
 	{
@@ -1417,6 +1417,10 @@
 		"chi"		"****造一条梯子****"
 	}
 	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
+	{
+		"chi"		"** **"
+	}
+	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
 	{
 		"chi"		"** **"
 	}
