@@ -1,5 +1,7 @@
 ## 公告 
 
+# 2019年2月24日 已修复不同步问题
+
 # X社区 CSGO ZE 地图参数/地图翻译/Stripper的审核  PullRequest /Entwatch 仓库
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
