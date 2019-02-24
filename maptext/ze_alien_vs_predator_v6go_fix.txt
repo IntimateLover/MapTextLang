@@ -229,13 +229,6 @@
 	{
 		"syncvalue"		"36895"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 20"
-		}
-	}
 	"**Activate Bomb**"
 	{
 		"chi"		"**开启装置 **"
@@ -245,7 +238,4 @@
 		"chi"		"** **"
 	}
 }
-
-
-#push
 
