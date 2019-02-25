@@ -91,10 +91,12 @@
 	"'***Flamethrower is charging in 3 seconds!***'"
 	{
 		"chi"		"**火焰喷射器将在3秒后充能完毕 **"
+		"DoorCountdown"		"-1"
 	}
 	"'***Flamethrower recharging, 10 seconds!***'"
 	{
 		"chi"		"**火焰喷射器正在重新充能，需要10秒！ **"
+		"DoorCountdown"		"-1"
 	}
 	"'***Flamethrower ready!***'"
 	{
@@ -111,10 +113,12 @@
 	">>>Interface 2037 Ready For Inquiry<<<"
 	{
 		"chi"		"**接口编号2037，已经准备好接受问询 **"
+		"DoorCountdown"		"-1"
 	}
 	">>>Request Clarification: What is Special Order 937?<<<"
 	{
 		"chi"		"**请解释：特别命令No.937是什么意思 **"
+		"DoorCountdown"		"-1"
 	}
 	">>>Priority one. Insure return of organism for analysis.<<<"
 	{
@@ -211,6 +215,7 @@
 	"***Flamethrower recharging, 10 seconds!***"
 	{
 		"chi"		"**火焰喷射器正在重新充能，需要10秒！ **"
+		"DoorCountdown"		"-1"
 	}
 	"***Flamethrower ready!***"
 	{

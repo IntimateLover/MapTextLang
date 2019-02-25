@@ -104,4 +104,56 @@
 	{
 		"syncvalue"		"33843"
 	}
+	"hold for 60 seconds till the door closes!"
+	{
+		"chi"		"** **"
+	}
+	"Act-3 : The Path to the Skyline!"
+	{
+		"chi"		"** **"
+	}
+	"Path opens in a minute!"
+	{
+		"chi"		"** **"
+	}
+	"path opens in 20 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Way opens in 30 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Way opens in 10 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Way is not open????????"
+	{
+		"chi"		"** **"
+	}
+	"Perhaps you should wait a bit more!"
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 20 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Sky Elevator leaves in 1.20 minutes."
+	{
+		"chi"		"** **"
+	}
+	"Sky elevator leaves in 20 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Act-4 : The Skyline!"
+	{
+		"chi"		"** **"
+	}
+	"Path opens in 40 seconds!"
+	{
+		"chi"		"** **"
+	}
 }

@@ -142,4 +142,10 @@
 	{
 		"enable"		"1"
 	}
+	"123971"
+	{
+		"enable"		"0"
+		"hammerid"		"123971"
+		"m_iname"		"Doctor"
+	}
 }

@@ -104,4 +104,32 @@
 	{
 		"syncvalue"		"27267"
 	}
+	"**Side quest, find 9 pallets of money to get extra materia**"
+	{
+		"chi"		"** **"
+	}
+	"**The third palette of money has been found!**"
+	{
+		"chi"		"** **"
+	}
+	"** ULTIMA Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Heal ***"
+	{
+		"chi"		"** **"
+	}
+	"** Note that it can only be used once (heh) **"
+	{
+		"chi"		"** **"
+	}
+	"**The eighth palette of money has been found!**"
+	{
+		"chi"		"** **"
+	}
+	"**The fifth palette of money has been found!**"
+	{
+		"chi"		"** **"
+	}
 }

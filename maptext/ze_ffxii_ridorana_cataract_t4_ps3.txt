@@ -21,6 +21,7 @@
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了火魔法（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**NORMAL MODE**"
 	{
@@ -29,14 +30,17 @@
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了雷电法杖（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了秒杀魔法（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**The gates will open in 30 seconds**"
 	{
@@ -46,6 +50,7 @@
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞法杖（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**The gates will open in 15 seconds**"
 	{
@@ -59,22 +64,27 @@
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了治疗法杖（等级:1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了冰冻法杖（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了火焰法杖（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了飓风法杖（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了治疗魔法（等级：1）**"
+		"DoorCountdown"		"-1"
 	}
 	"**The random way will open in 25 seconds**"
 	{
@@ -115,14 +125,17 @@
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸学会了秒杀魔法（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞法杖（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸学会了治疗魔法（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**The Hydro is defeated** **Keep running**"
 	{
@@ -131,6 +144,7 @@
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了治疗法杖（等级:2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**The door will open in 25 seconds**"
 	{
@@ -140,14 +154,17 @@
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了冰冻法杖（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了飓风法杖（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了火焰法杖（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**Hold here for 10 seconds**"
 	{
