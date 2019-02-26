@@ -832,4 +832,24 @@
 	{
 		"chi"		"** **"
 	}
+	">>You cant catch a POKEMON that belongs to someone else.<<"
+	{
+		"chi"		"** **"
+	}
+	">>Throw POKE BALLS only at wild POKEMON to catch them.<<"
+	{
+		"chi"		"** **"
+	}
+	"HUMANS have caught DIGLETT!"
+	{
+		"chi"		"** **"
+	}
+	"MACHOP used LOW KICK!"
+	{
+		"chi"		"** **"
+	}
+	"MACHOP used FOCUS ENERGY!"
+	{
+		"chi"		"** **"
+	}
 }
