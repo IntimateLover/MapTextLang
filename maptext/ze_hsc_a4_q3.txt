@@ -2,45 +2,45 @@
 {
 	"DOOR OPENS IN 35 SECONDS"
 	{
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 		"chi"		"**门还有35秒开启**"
 	}
 	"DOOR WILL OPEN IN 25 SECONDS"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"THE DOOR WILL OPEN IN 30 SECONDS"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"THE DOOR WILL OPEN IN 20 SECONDS"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"A WAY WILL OPEN IN 15 SECONDS"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
 	{
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 		"chi"		"**两边的路25秒后开启，保持防御**"
 	}
 	"ELEVATOR WILL RISE IN 30 SECONDS"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"THE NEXT DOORS WILL OPEN IN 15 SECONDS"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"ELEVATOR WILL RISE IN 15 SECONDS"
 	{
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"THE DOORS WILL OPEN IN 30 SECONDS"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"MAP BY GEORGE"
 	{
@@ -134,7 +134,7 @@
 	{
 		"chi"		"** **"
 	}
-	"10 SECONDS LEFT"
+	"10 seconds left"
 	{
 		"chi"		"** **"
 	}
@@ -176,5 +176,13 @@
 		{
 			"cvar"		"sm_Cvar sm_he_limit 5"
 		}
+	}
+	"!!! ADMIN HAS SET LEVEL 1 !!!"
+	{
+		"chi"		"** **"
+	}
+	"!!! ADMIN HAS SET LEVEL 3 !!!"
+	{
+		"chi"		"** **"
 	}
 }

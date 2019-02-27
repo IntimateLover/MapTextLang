@@ -120,6 +120,7 @@
 	"<!!!> FAN 2 SHUTDOWN - 10 SECONDS <!!!>"
 	{
 		"chi"		"**风扇2-10秒后关闭 **"
+		"DoorCountdown"		"10"
 	}
 	"<!!!> FAN 2 HAS SHUTDOWN <!!!>"
 	{

@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountdown"		"-1"
+		"DoorCountdown"		"30"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -207,7 +207,7 @@
 		"chi"		"**警告：还剩10秒**"
 		"DoorCountdown"		"-1"
 	}
-	"** Run! **"
+	"** RUN! **"
 	{
 		"chi"		"**快跑！！！快跑！！！**"
 	}

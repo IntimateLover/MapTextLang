@@ -40,6 +40,7 @@
 	"@You have 60 seconds to activate the radio before you all die :)"
 	{
 		"chi"		"**你有60秒的时间去把吊机后面的按钮按下，或者选择死亡(:3」∠)_)**"
+		"DoorCountdown"		"68"
 	}
 	"@ Defend on the helicopter while 1 person goes for the radio on the other end!"
 	{
@@ -52,6 +53,7 @@
 	"@Helicopter leaving in 10 seconds!"
 	{
 		"chi"		"**还有10秒！**"
+		"DoorCountdown"		"10"
 	}
 	"@Humans have to stay alive ANYWHERE on the map to live. Reinforcements will arrive in 45 seconds!"
 	{
