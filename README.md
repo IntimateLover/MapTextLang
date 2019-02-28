@@ -1,6 +1,8 @@
 ## 公告 
 
 # 2019年2月24日 已修复不同步问题
+# 游戏平衡性由地图保证；如果出现极度严重不平衡，可以额外修改参数 一般情况不得额外修改地图参数 所有人员修改参数必须通过PR提交!
+
 
 # X社区 CSGO ZE 地图参数/地图翻译/Stripper的审核  PullRequest /Entwatch 仓库
 如果要设置其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
