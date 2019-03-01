@@ -12,4 +12,88 @@
 	{
 		"chi"		"**admin**"
 	}
+	"-- Mapped by NK.NWBK --"
+	{
+		"chi"		"**地图由NK.NWBK制作**"
+	}
+	"-- BGM: tief=blau, plasma (2015 rework), ロック风アレンジ--"
+	{
+		"chi"		"** **"
+	}
+	"-- Halo picked up --"
+	{
+		"chi"		"**光环被捡起**"
+	}
+	"-- Stage White --"
+	{
+		"chi"		"** **"
+	}
+	"-- Avoid Black --"
+	{
+		"chi"		"**躲避黑块**"
+	}
+	"-- Defend for 30 more seconds --"
+	{
+		"chi"		"**再守30s**"
+	}
+	"-- Survive for 110 more seconds --"
+	{
+		"chi"		"**存活110s**"
+	}
+	"-- Get onto the glass --"
+	{
+		"chi"		"**跳上玻璃**"
+	}
+	"-- Platform rising... --"
+	{
+		"chi"		"**平台正在上升**"
+	}
+	"-- Teleport enable in 7 seconds --"
+	{
+		"chi"		"**7s后传送**"
+	}
+	"-- Defend for 75 more seconds --"
+	{
+		"chi"		"**防守75s**"
+	}
+	"-- In 15 seconds --"
+	{
+		"chi"		"** **"
+	}
+	"-- Break The Cage Before The Song Ends! --"
+	{
+		"chi"		"**歌曲结束之前打碎笼子**"
+	}
+	"-- 4 Directions And Above --"
+	{
+		"chi"		"**躲避四周和上方的板子**"
+	}
+	"50 more seconds..."
+	{
+		"chi"		"**坚持50s**"
+	}
+	"<< Stage White Finished >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ------------ NK.NWBK >>"
+	{
+		"chi"		"** **"
+	}
+	"-- BGM: Xyron - Our Destiny Lies Above Us (Xyron Remix), Kronos, Imprinting --"
+	{
+		"chi"		"** **"
+	}
+	"-- Respect to ze_tilex_possession_v2_12 --"
+	{
+		"chi"		"** **"
+	}
+	"-- Stage Red --"
+	{
+		"chi"		"** **"
+	}
+	"-- Avoid Red --"
+	{
+		"chi"		"** **"
+	}
 }
