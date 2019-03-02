@@ -97,7 +97,7 @@
 	"Hold this position for 10 seconds!!"
 	{
 		"chi"		"**守住这里10秒 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
@@ -106,7 +106,7 @@
 	"Survive for 70 seconds"
 	{
 		"chi"		"**生存70秒 **"
-		"DoorCountDown"		"70"
+		"DoorCountdown"		"70"
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
@@ -127,7 +127,7 @@
 	"**Hold the place for 25 seconds**"
 	{
 		"chi"		"**守住这个位置25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Break the spheres to escape***"
 	{
@@ -168,17 +168,17 @@
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
 		"chi"		"**等待门打开（10秒） **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**The door wil open in 10 seconds**"
 	{
 		"chi"		"**门会在10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**Hold this way for 10 seconds**"
 	{
 		"chi"		"**守住这里10秒 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**Its dead. Good job**"
 	{
@@ -228,7 +228,7 @@
 	"**Hold here for 25 seconds**"
 	{
 		"chi"		"**在这里守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**And then go to the pool**"
 	{
@@ -284,7 +284,7 @@
 	"**PREPARE TO MOVE IN 10 SECONDS!**"
 	{
 		"chi"		"**准备在10秒后撤退 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**GO!!**GO!!**GO!!**"
 	{
@@ -372,5 +372,21 @@
 	"sync_version"
 	{
 		"syncvalue"		"96688"
+	}
+	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
+	{
+		"chi"		"** **"
+	}
+	"Ported by IntimateLover"
+	{
+		"chi"		"** **"
+	}
+	"**15 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**5 seconds left**"
+	{
+		"chi"		"** **"
 	}
 }

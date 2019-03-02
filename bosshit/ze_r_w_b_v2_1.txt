@@ -96,4 +96,52 @@
 		"hammerid"		"57011"
 		"m_iname"		"boss1dec"
 	}
+	"76621"
+	{
+		"enable"		"0"
+		"hammerid"		"76621"
+		"m_iname"		"ldr2_2_1e"
+	}
+	"76644"
+	{
+		"enable"		"0"
+		"hammerid"		"76644"
+		"m_iname"		"ldr2_2_2e"
+	}
+	"76661"
+	{
+		"enable"		"0"
+		"hammerid"		"76661"
+		"m_iname"		"ldr2_2_3e"
+	}
+	"76676"
+	{
+		"enable"		"0"
+		"hammerid"		"76676"
+		"m_iname"		"ldr2_2_4e"
+	}
+	"77427"
+	{
+		"enable"		"0"
+		"hammerid"		"77427"
+		"m_iname"		"ldr2_2_5e"
+	}
+	"213023"
+	{
+		"enable"		"1"
+		"hammerid"		"213023"
+		"m_iname"		"boss2_dec"
+	}
+	"145923"
+	{
+		"enable"		"1"
+		"hammerid"		"145923"
+		"m_iname"		"boss2_bridge_1_e"
+	}
+	"118940"
+	{
+		"enable"		"1"
+		"hammerid"		"118940"
+		"m_iname"		"boss2_platform_down"
+	}
 }

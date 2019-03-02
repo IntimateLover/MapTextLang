@@ -553,7 +553,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"99161"
+		"syncvalue"		"70066"
 	}
 	"**Falkner: Pidgeot, Roost!"
 	{
@@ -1288,6 +1288,14 @@
 		"chi"		"** **"
 	}
 	"**STAGE FAILED**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend here for 60 Seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Whitney: Miltank, use quake!**"
 	{
 		"chi"		"** **"
 	}
