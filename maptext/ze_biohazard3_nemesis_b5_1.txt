@@ -326,6 +326,7 @@
 	"**The final elevator leaves in 20 seconds**"
 	{
 		"chi"		"**电梯将在20s后离开 **"
+		"command"		"sv_gravity 800"
 	}
 	"**This is the last point wait for the evacuation**"
 	{
