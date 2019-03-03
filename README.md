@@ -20,11 +20,11 @@
 
 | 对应目录 | 说明                                                                       |
 |----------|----------------------------------------------------------------------------|
-| mapcfg   | [地图参数](https://github.com/MapTextLang/MapTextLang/参数说明.md)       |
-| mappool  | [地图池控制系统](https://github.com/MapTextLang/MapTextLang/其他修改说明.md) |
-| entwatch | [神器显示配置](https://github.com/MapTextLang/MapTextLang/其他修改说明.md)   |
-| maptext  | [ZE地图翻译](https://github.com/MapTextLang/MapTextLang/其他修改说明.md)     |
-| bosshit  | [BOSS攻击奖励](https://github.com/MapTextLang/MapTextLang/其他修改说明.md)   |
+| mapcfg   | [地图参数](https://github.com/MapTextLang/MapTextLang/blob/master/参数说明.md)       |
+| mappool  | [地图池控制系统](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md) |
+| entwatch | [神器显示配置](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)   |
+| maptext  | [ZE地图翻译](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)     |
+| bosshit  | [BOSS攻击奖励](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)   |
 
 ---
 
