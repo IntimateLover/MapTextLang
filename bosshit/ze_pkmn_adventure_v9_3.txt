@@ -536,19 +536,19 @@
 	}
 	"353418"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"353418"
 		"m_iname"		"Honchkrow"
 	}
 	"353448"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"353448"
 		"m_iname"		"CrobatCyrus"
 	}
 	"353376"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"353376"
 		"m_iname"		"Weavile"
 	}
