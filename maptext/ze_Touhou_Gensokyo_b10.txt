@@ -426,7 +426,7 @@
 	}
 	"**Monster invaded gensokyo,help reimu to clear them  **"
 	{
-		"chi"		"**不知从何而来的魔物入侵了幻想乡，帮助灵梦完成巫女工作把他们退治掉吧**"
+		"chi"		"**对着塞钱箱按E投币开始游戏！！！**"
 	}
 	"**A player contribute and get a powerful item**"
 	{
@@ -470,7 +470,7 @@
 	}
 	"**boss will kill all humans in 200sec**"
 	{
-		"chi"		"**200秒后魔物的浊气将侵蚀所有人类**"
+		"chi"		"**两百秒后魔物的浊气将侵蚀所有人类**"
 	}
 	"**DEFEND**"
 	{
@@ -486,11 +486,11 @@
 	}
 	"**CRYSTAL**"
 	{
-		"chi"		"**技能：冰晶穿刺（看头顶躲避三次下落水晶）**"
+		"chi"		"**技能：冰晶穿刺（看头顶躲避两次下落水晶）**"
 	}
 	"**SHIELD**"
 	{
-		"chi"		"**技能：盾之庇护（集火输出打碎护盾）**"
+		"chi"		"**技能：盾之庇护（反伤，停枪）**"
 	}
 	"**DARK**"
 	{
@@ -522,15 +522,15 @@
 	}
 	"**fire**"
 	{
-		"chi"		"**随机效果：半场点燃**"
+		"chi"		"**随机效果：区域点燃**"
 	}
 	"**blind**"
 	{
-		"chi"		"**随机效果：致盲（持续3秒）**"
+		"chi"		"**随机效果：致盲（持续三秒）**"
 	}
 	"**reverse**"
 	{
-		"chi"		"**随机效果：反向（持续5秒）**"
+		"chi"		"**随机效果：反向（持续五秒）**"
 	}
 	"**laser**"
 	{
@@ -542,7 +542,7 @@
 	}
 	"**keep defending in 13s**"
 	{
-		"chi"		"**保持防守13秒**"
+		"chi"		"**保持防守12秒**"
 	}
 	"**Boss skills are more powerful，be careful**"
 	{
