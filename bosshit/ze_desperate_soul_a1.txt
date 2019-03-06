@@ -84,4 +84,16 @@
 		"hammerid"		"144261"
 		"m_iname"		"Hogg_Move_Phys"
 	}
+	"227005"
+	{
+		"enable"		"0"
+		"hammerid"		"227005"
+		"m_iname"		"Skill_Hogg_Morn_Phys"
+	}
+	"207853"
+	{
+		"enable"		"0"
+		"hammerid"		"207853"
+		"m_iname"		"Skill_Hogg_Pearl_Phys&0297"
+	}
 }

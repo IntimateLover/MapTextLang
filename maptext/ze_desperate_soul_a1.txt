@@ -180,4 +180,48 @@
 	{
 		"chi"		"** **"
 	}
+	"**A zombie has picked up <Heal>**"
+	{
+		"chi"		"** **"
+	}
+	">>Horrid Roar<<"
+	{
+		"chi"		"** **"
+	}
+	">>Akh Morn<<"
+	{
+		"chi"		"** **"
+	}
+	">>Scarlet Whisper<<"
+	{
+		"chi"		"** **"
+	}
+	">>Fiery Wings<<"
+	{
+		"chi"		"** **"
+	}
+	">>Cauterize<<"
+	{
+		"chi"		"** **"
+	}
+	">>Sable Pearl<<"
+	{
+		"chi"		"** **"
+	}
+	">>Anger Roar<<"
+	{
+		"chi"		"** **"
+	}
+	">>Mortal Chorus<<"
+	{
+		"chi"		"** **"
+	}
+	"**Keep defending for 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Get on the Altar Transfer**"
+	{
+		"chi"		"** **"
+	}
 }
