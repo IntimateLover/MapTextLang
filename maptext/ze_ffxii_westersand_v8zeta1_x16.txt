@@ -31,7 +31,7 @@
 	"** Defend 30 seconds until the guards open the hallway. **"
 	{
 		"chi"		"**守住30秒-直到守卫打开走廊通道**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** 5 Seconds left **"
 	{
@@ -48,7 +48,7 @@
 	"** Defend here so the guards will open the gates to the city ! **"
 	{
 		"chi"		"**守住这里-直到守卫打开通往城市的大门**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** [INSANE DIFFICULTY ADDED] **"
 	{
@@ -89,17 +89,17 @@
 	"** Cover here till the boxes explode **"
 	{
 		"chi"		"**障碍物将在25秒后爆破**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** The first door will open in 10 seconds **"
 	{
 		"chi"		"**第一扇大门10秒后打开**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** The second door will open in 15 seconds **"
 	{
 		"chi"		"**下一扇大门15秒后打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Keep defending!! **"
 	{
@@ -130,7 +130,7 @@
 	"** Bomb planted - hold 30 seconds **"
 	{
 		"chi"		"**守住30秒-直到石头爆炸**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** 10 more seconds until explosion **"
 	{
@@ -179,7 +179,7 @@
 	"** Hold 20 seconds until the door opens **"
 	{
 		"chi"		"**20秒后大门打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** 5 SECONDS REMAINING **"
 	{
@@ -188,12 +188,12 @@
 	"** You may enter the tomb in 15 seconds **"
 	{
 		"chi"		"**我们将在15秒后进入王墓**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** The doors will open in 25 seconds **"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** The doors will open in 5 seconds **"
 	{
@@ -202,17 +202,17 @@
 	"** The next door opens in 15 seconds **"
 	{
 		"chi"		"**下一扇大门15秒后打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** A random way will open in 10 seconds **"
 	{
 		"chi"		"**一条随机通道将在10秒后出现**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Boss Fight in 10s **"
 	{
 		"chi"		"**BOSS感知了我们的到来**它将觉醒与10秒后**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Boss Fight in 5s **"
 	{
@@ -239,7 +239,7 @@
 	"** Teleporters will be ready in 20 seconds ! **"
 	{
 		"chi"		"**传送器将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Teleporters will be ready in 5 seconds ! **"
 	{
@@ -248,12 +248,12 @@
 	"** Gates will open in 15 seconds **"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** The arena will open in 20 seconds **"
 	{
 		"chi"		"**竞技场大门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Nades do more damage (2s) **"
 	{
@@ -270,7 +270,7 @@
 	"** The final gate will open in 40 seconds **"
 	{
 		"chi"		"**最后大门将于40秒后打开**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"** The final gate will open in 5 seconds **"
 	{
@@ -367,7 +367,7 @@
 	"** Nades do more damage (8s) **"
 	{
 		"chi"		"**手雷能造成更多伤害[8秒]**"
-		"DoorCountdown"		"8"
+		"DoorCountDown"		"8"
 	}
 	"[ADMIN] Restarting round in 5 seconds."
 	{
@@ -380,7 +380,7 @@
 	"** The main door opens in 25 seconds **"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** The main door opens in 5 seconds **"
 	{
@@ -389,12 +389,12 @@
 	"** Final door opens in 10 seconds! **"
 	{
 		"chi"		"**最后大门10秒后开启**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Teleporter will be ready in 10 seconds ! **"
 	{
 		"chi"		"**传送器将在10秒后启动**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"** Teleporter will be ready in 5 seconds ! **"
 	{
@@ -407,7 +407,7 @@
 	"** Nades do more damage (4s) **"
 	{
 		"chi"		"**手雷能造成更多伤害[4秒]**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"[ADMIN] Selected [ZM MODE] for next round."
 	{

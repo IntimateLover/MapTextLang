@@ -11,7 +11,7 @@
 	"*Gate 2 will open in 30 sec*"
 	{
 		"chi"		"**大门2将在30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*Gate 2 Opening*"
 	{
@@ -20,7 +20,7 @@
 	"*Defend here for 20 seconds*"
 	{
 		"chi"		"**在这里守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*10 Seconds to prepare before zombies released*"
 	{
@@ -29,7 +29,7 @@
 	"*Survive for 60 seconds, Good Luck*"
 	{
 		"chi"		"**生存60秒-祝你好运 **"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"*FALL BACK*"
 	{
@@ -42,7 +42,7 @@
 	"*Defend up here for 40 seconds*"
 	{
 		"chi"		"**在这里守住40秒 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*RUN! Zombies released in 15 seconds*"
 	{
@@ -51,7 +51,7 @@
 	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
 	{
 		"chi"		"**守住30秒-不要让僵尸过来 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Stage 2 - Within the Ruin***"
 	{
@@ -64,7 +64,7 @@
 	"*Defend here for 30 seconds*"
 	{
 		"chi"		"**在这里守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*Zombies released in 12 seconds*"
 	{

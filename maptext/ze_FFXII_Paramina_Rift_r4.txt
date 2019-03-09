@@ -2,14 +2,14 @@
 {
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** BARRIER 1 OPENS IN 15 SECS **"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** BARRIER 1 OPENS IN 20 SECS **"
 	{
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 }

@@ -11,7 +11,7 @@
 	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
 	{
 		"chi"		"**我们似乎困在这里了**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
 	{
@@ -36,7 +36,7 @@
 	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
 	{
 		"chi"		"**门将在5秒后开启！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"** Something spooky seems to be going on that table! **"
 	{
@@ -49,7 +49,7 @@
 	"** The seance is beginning and the spirits are calling... **"
 	{
 		"chi"		"**降神会开始了，开始呼唤鬼神**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"** The spirits marked the 'H' leter... **"
 	{
@@ -110,7 +110,7 @@
 	"** Try to get that old toy going! We must get out of here! **"
 	{
 		"chi"		"**尝试让玩具火车启动!我们必须离开这里!（对着开关按7次才可以启动）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
 	{
@@ -139,7 +139,7 @@
 	"** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **"
 	{
 		"chi"		"**守住这里直到C4爆炸**"
-		"DoorCountdown"		"22"
+		"DoorCountDown"		"22"
 	}
 	"** MOVE! THE DARN THING IS OUT OF THE WAY! **"
 	{
@@ -160,7 +160,7 @@
 	"** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **"
 	{
 		"chi"		"**干的漂亮!煤气停止供应了!我们快可以过去了**"
-		"DoorCountdown"		"12"
+		"DoorCountDown"		"12"
 	}
 	"** The metal is still hot - KEEP RESISTING! **"
 	{
@@ -217,7 +217,7 @@
 	"** WE CANT SEEM TO PROGRESS AHEAD... **"
 	{
 		"chi"		"**我们似乎困在这里了**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** The spirits marked the H leter... **"
 	{
@@ -286,6 +286,6 @@
 	"** Big Mouse start moving,Push the last button to enable the train quickly"
 	{
 		"chi"		"**老鼠要追过来了，快按下最后一下开关来启动火车！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 }

@@ -51,7 +51,7 @@
 	"*** WAIT TILL THAT WALL BREAKS ***"
 	{
 		"chi"		"**等待墙壁破碎 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** WALL IS BROKEN RUUUUUUN!! ***"
 	{
@@ -68,7 +68,7 @@
 	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
 	{
 		"chi"		"**等待炸弹将木板炸毁 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
 	{
@@ -77,7 +77,7 @@
 	"*** Leaf 1 leaving in 7 seconds ***"
 	{
 		"chi"		"**第一片叶子将在7秒后离开 **"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"*** Leaf 2 leaving in 7 seconds ***"
 	{
@@ -86,7 +86,7 @@
 	">> HOLD FOR 30 seconds <<"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> 5 more seconds <<"
 	{
@@ -111,7 +111,7 @@
 	">> BUTTERFLY LEAVING IN 10 seconds <<"
 	{
 		"chi"		"**蝴蝶将在10秒后离开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
@@ -124,22 +124,22 @@
 	"*** HOLD FOR 10 seconds ***"
 	{
 		"chi"		"**守住10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** HOLD FOR 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** HOLD FOR 40 seconds ***"
 	{
 		"chi"		"**守住40秒 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** HOLD FOR 5 seconds ***"
 	{
 		"chi"		"**守住5秒 **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*** GO GO GO!!!! ***"
 	{
@@ -148,7 +148,7 @@
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"**电梯将在20秒后离开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
 	{
@@ -177,7 +177,7 @@
 	">> BUTTERFLY LEAVING IN 15 seconds <<"
 	{
 		"chi"		"**蝴蝶将在15秒后离开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
 	{
@@ -210,7 +210,7 @@
 	"*** HOLD FOR 30 SECONDS ***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** DOOR IS OPEN! RUUUN! ***"
 	{
@@ -259,7 +259,7 @@
 	">> WAIT FOR 10 SECONDS <<"
 	{
 		"chi"		"**等待10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 		">> LEVEL COMPLETED <<"
 		{
 			"chi"		"**关卡完成 **"
@@ -275,7 +275,7 @@
 		"*** HOLD FOR ABOUT 30 SECONDS ***"
 		{
 			"chi"		"**守住30秒 **"
-			"DoorCountdown"		"30"
+			"DoorCountDown"		"30"
 		}
 		"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
 		{
@@ -284,7 +284,7 @@
 		"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
 		{
 			"chi"		"**努力防守10秒 **"
-			"DoorCountdown"		"10"
+			"DoorCountDown"		"10"
 		}
 		">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
 		{
@@ -301,7 +301,7 @@
 		">> BUTTERFLY LEAVING IN 30 seconds <<"
 		{
 			"chi"		"**蝴蝶将在30秒后离开 **"
-			"DoorCountdown"		"30"
+			"DoorCountDown"		"30"
 		}
 		">> DITTO IS USING SEED ATTACK <<"
 		{
@@ -330,7 +330,7 @@
 		">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
 		{
 			"chi"		"**守住你的村庄30秒 **"
-			"DoorCountdown"		"30"
+			"DoorCountDown"		"30"
 		}
 		">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
 		{
@@ -367,7 +367,7 @@
 		"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 		{
 			"chi"		"**直到核弹爆炸,你还有45秒的时间来完成 **"
-			"DoorCountdown"		"40"
+			"DoorCountDown"		"40"
 		}
 		">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
 		{
@@ -376,7 +376,7 @@
 		">> NUKE INCOMING IN 5 SECONDS <<"
 		{
 			"chi"		"**核弹将在5秒后到达 **"
-			"DoorCountdown"		"5"
+			"DoorCountDown"		"5"
 		}
 		">> LEVEL: A NEW BEGINNING <<"
 		{
@@ -469,7 +469,7 @@
 		">> Survive 1 minute <<"
 		{
 			"chi"		"**生存1分钟 **"
-			"DoorCountdown"		"60"
+			"DoorCountDown"		"60"
 		}
 		">> If you change level via admin room <<"
 		{
@@ -498,7 +498,7 @@
 		"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 		{
 			"chi"		"**直到核爆,你还有30秒 **"
-			"DoorCountdown"		"30"
+			"DoorCountDown"		"30"
 		}
 		">> 5 SECONDS LEFT <<"
 		{
@@ -648,7 +648,7 @@
 	">> BUTTERFLY LEAVING IN 30 seconds <<"
 	{
 		"chi"		"**蝴蝶将在30秒后离开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** OH NO!! ITS DRAGON!! ***"
 	{
@@ -665,7 +665,7 @@
 	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
 	{
 		"chi"		"**守住你的村庄30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> You have succesfully saved Shroomforest <<"
 	{
@@ -694,7 +694,7 @@
 	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"chi"		"**直到核弹爆炸,你还有45秒的时间来完成 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
 	{

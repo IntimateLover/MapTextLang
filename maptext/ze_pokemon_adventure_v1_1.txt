@@ -11,7 +11,7 @@
 	"** Wait the truck get out the way! **"
 	{
 		"chi"		"**等待卡车移动 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** A player has adquired Ammo! **"
 	{
@@ -20,7 +20,7 @@
 	"** Computer is processing! **"
 	{
 		"chi"		"**计算机正在处理中 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** A player has adquired Potion! **"
 	{
@@ -37,7 +37,7 @@
 	"** Hold the bedroom for 30 seconds! **"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"** Blissey is waiting you inside the Mart! **"
 	{
@@ -50,7 +50,7 @@
 	"** Blissey: Hello friend, Give me 15 seconds to open the gate for you!"
 	{
 		"chi"		"**Blissey：你好朋友.给我15秒.我将为你打开大门！ **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** A player has adquired Gust! **"
 	{
@@ -59,7 +59,7 @@
 	"** The path is blocked! What can we do now? **"
 	{
 		"chi"		"**道路被堵住了！我们现在应该怎么办？ **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** What noise is this? OMG Heatrans, hide before they kill you! **"
 	{
@@ -76,7 +76,7 @@
 	"** Gym door closing in 15 seconds **"
 	{
 		"chi"		"**健身房的大门15秒后关闭 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Ash: Do you think you can beat me? Dont make me laugh! **"
 	{
@@ -107,7 +107,7 @@
 	"** Flygon leaving in 15 seconds! **"
 	{
 		"chi"		"**沙漠蜻蜓15秒后离开！ **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Zombies detected! **"
 	{
@@ -120,7 +120,7 @@
 	"** Lasers will be disabled in 15 seconds! **"
 	{
 		"chi"		"**激光将在15秒后被停用！ **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Blissey: Sorry, but the elevator does not work on this floor! Please take the stairs! **"
 	{
@@ -129,7 +129,7 @@
 	"** Door will open in 20 seconds! **"
 	{
 		"chi"		"**大门20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Right door will open in 15 seconds! **"
 	{
@@ -142,7 +142,7 @@
 	"** Teleport will activate in 15 seconds **"
 	{
 		"chi"		"**传送将会在15秒后启动 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** Seems like a Sigilyph is bloocking the way! We need to destroy him! **"
 	{
@@ -179,7 +179,7 @@
 	"** Wailord leaving in 15 seconds! **"
 	{
 		"chi"		"**吼鲸王15秒后离开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"** A player has adquired Bicycle! **"
 	{
@@ -192,7 +192,7 @@
 	"** Hold for 20 seconds! **"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"** Zapdos is using Heal! **"
 	{
@@ -217,7 +217,7 @@
 	"** Elite Door will open in 25 seconds!! **"
 	{
 		"chi"		"**精英才能进入的门25秒后打开 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"** Elite Door is open! You have 10 seconds to enter!! **"
 	{

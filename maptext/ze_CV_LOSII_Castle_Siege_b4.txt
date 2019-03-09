@@ -27,7 +27,7 @@
 	"***WE CAN PUSH THE BATTLERAM WITH  FULL POWER***"
 	{
 		"chi"		"**我们现在能够全力推开障碍物（对其按一次E即可）**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***The hall way has been damaged for some reason, we can climb the chains on the left to access the other side.***"
 	{
@@ -84,17 +84,17 @@
 	"***BOSS USED ICE MAGIC GET TO THE BACK.***"
 	{
 		"chi"		"**BOSS使用了寒冰魔法。快往后退！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***BOSS USED FIRE MAGIC GET TO THE SIDES.***"
 	{
 		"chi"		"**BOSS使用了火焰魔法。快往两边散开！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***BOSS USED WINGS OF DARKNESS GO FORWARD.***"
 	{
 		"chi"		"**BOSS使用了黑暗之翼（推）。保持往前走抵抗推力！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***The vampire lord has been defeated, we can now proced to stop the brotherhoods attack.***"
 	{
@@ -107,7 +107,7 @@
 	"***BOSS USED FREEZE MAGIC GET TO THE FRONT.***"
 	{
 		"chi"		"**BOSS使用了冻结魔法。快往前走！**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***The titans hand is stuck, he is trying to get it out be he seems to not be able to,HOLD UNTILL HIS POWER RUNS OUT.***"
 	{
@@ -124,7 +124,7 @@
 	"***PUSH THE DOOR UP.***"
 	{
 		"chi"		"**按E把门推开！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"***Defend for 35 seconds untill the gate opens.***"
 	{
@@ -141,7 +141,7 @@
 	"***Zombie teleport is advancing in 10 seconds"
 	{
 		"chi"		"**僵尸将在10秒后传送！**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***The vampire lord has betrayed us, BOSS FIGHT INCOMING.***"
 	{
@@ -198,7 +198,7 @@
 	"***We found it!! hold while the door opens.***"
 	{
 		"chi"		"**没错，这就是开关！守住直到门开启。**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***We can get out through small window.***"
 	{
@@ -215,12 +215,12 @@
 	"***BOSS IS CHARGING ANGELIC WINTER***"
 	{
 		"chi"		"**BOSS准备使用天使之寒（去两边墙壁）。**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"***BOSS IS CHARGING GROUND BLAST***"
 	{
 		"chi"		"**BOSS准备使用大地爆裂（爬上中间出现的石头或者去左上角右上角的角落）。**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"***BOSS IS USING HIS GROUND ATTACK BLAST***"
 	{
@@ -229,12 +229,12 @@
 	"***BOSS IS CHARGING LIGHT SLASH, PREPARE TO AVOID IT***"
 	{
 		"chi"		"**BOSS准备使用光之刃（1低刀），注意躲避。**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***BOSS IS CHARGING ANGELIC FLAME***"
 	{
 		"chi"		"**BOSS准备使用天使之焰（去中间）。**"
-		"DoorCountdown"		"2"
+		"DoorCountDown"		"2"
 	}
 	"***BOSS IS USING ANGELIC FLAME***"
 	{
@@ -247,7 +247,7 @@
 	"***BOSS IS CHARGING ANGLEIC WINGS ATTACK***"
 	{
 		"chi"		"**BOSS准备使用天使之翼（按S抵抗吸力）。**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"***BOSS IS USING ANGLEIC WINGS ATTACK***"
 	{
@@ -296,7 +296,7 @@
 	"***BOSS IS CHARGING FOR LIGHT BOMB.***"
 	{
 		"chi"		"**BOSS准备使用光之爆炸（保持蹲下）。**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"*** Dragon Tailsmen relic has been picked up.***"
 	{

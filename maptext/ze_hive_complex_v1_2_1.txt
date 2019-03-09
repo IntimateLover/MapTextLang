@@ -75,7 +75,7 @@
 	"***Door open in 20 seconds***"
 	{
 		"chi"		"**门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** Door open in 15 seconds ***"
 	{
@@ -96,7 +96,7 @@
 	"*** Elevators door open in 30 seconds ***"
 	{
 		"chi"		"**电梯门将在30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 15 seconds ***"
 	{
@@ -133,17 +133,17 @@
 	"*** Progress : 25 % ***"
 	{
 		"chi"		"**进程:25% **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** Progress : 50 % ***"
 	{
 		"chi"		"**进程:50% **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** Progress : 75 % ***"
 	{
 		"chi"		"**进程:75% **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** FATAL ERROR !!! ***"
 	{
@@ -152,7 +152,7 @@
 	"*** Progress : 100 % ***"
 	{
 		"chi"		"**进程:100% **"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"*** SELF DESTRUCTION IMINENT !!! ***"
 	{
@@ -209,7 +209,7 @@
 	"*** Helicopters rescue coming in 60 seconds ***"
 	{
 		"chi"		"**直升机将在60秒后到达 **"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"*** 30 seconds left!! Resist or die !!! ***"
 	{

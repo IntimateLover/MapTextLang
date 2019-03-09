@@ -59,7 +59,7 @@
 	"Under 40 people joined this game."
 	{
 		"chi"		"**游戏内人数少于40人**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Easy mode has selected."
 	{
@@ -100,7 +100,7 @@
 	"Over 40 people joined this game."
 	{
 		"chi"		"**游戏内人数超过40人**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Hard mode has selected."
 	{
@@ -121,7 +121,7 @@
 	"***Well done!***"
 	{
 		"chi"		"**干得漂亮！城堡大门即将打开**"
-		"DoorCountdown"		"11"
+		"DoorCountDown"		"11"
 	}
 	"***Survive for 40sec!!***"
 	{

@@ -3,7 +3,7 @@
 	"*** Platforms will begin rising in 15 seconds! ***"
 	{
 		"chi"		"**平台将在 15 秒后上升！**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Get in the center! ***"
 	{
@@ -32,7 +32,7 @@
 	"*** Final glass window will open in 50 seconds... ***"
 	{
 		"chi"		"**最后的玻璃墙将于 50 秒后打开！**防守僵尸！**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"*** Glass window is opening in 15 seconds. ***"
 	{
@@ -45,7 +45,7 @@
 	"*** Deadly gas launched! 10 seconds until glass door is sealed! ***"
 	{
 		"chi"		"**喷出致命的毒气！坚持 10 秒直至玻璃门封闭！**地图翻译 by 色狼领袖**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** Second teleport in 20 seconds! Dont stay behind. ***"
 	{

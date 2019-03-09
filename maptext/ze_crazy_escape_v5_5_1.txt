@@ -11,7 +11,7 @@
 	"### HUMAN WILL BE TELEPORT IN 20 SECONDS ###"
 	{
 		"chi"		"**人类将在20秒后传送 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"### 10 SECONDS ###"
 	{
@@ -20,7 +20,7 @@
 	"### HIDE AND HOLD FOR 1:15 MINUTE ###"
 	{
 		"chi"		"**防守这里1:15分钟 **"
-		"DoorCountdown"		"75"
+		"DoorCountDown"		"75"
 	}
 	"### THE GREEN LIGHT ZONES ARE THE MOST SAFEST PLACE ###"
 	{
@@ -29,7 +29,7 @@
 	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
 		"chi"		"**僵尸将在30秒后传送 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"### 5 SECONDS ###"
 	{
@@ -42,7 +42,7 @@
 	"### 30 SECONDS ###"
 	{
 		"chi"		"**还有30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"### TELEPORT IS COMING IN 5 SECONDS ###"
 	{
@@ -59,7 +59,7 @@
 	"### WARNING *** TOWER IS GONNA EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**警告!离高塔炸毁还有30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"### HOLD HERE AND DEFEND 2 SIDES ###"
 	{
@@ -68,7 +68,7 @@
 	"### FOR 50 SECONDS ###"
 	{
 		"chi"		"**还有50秒 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"### ZOMIES HAVE BEEN ARRIVED ###"
 	{
@@ -117,7 +117,7 @@
 	"### HOLD FOR 40 SECONDS ###"
 	{
 		"chi"		"**防御这里40秒 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"### CROSS THE BRIDGE IN 20 SECONDS ###"
 	{
@@ -154,7 +154,7 @@
 	"### SINNER IS COMING IN 10 SECONDS ###"
 	{
 		"chi"		"**堕落之人将在10秒后到达 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"### DONT CROSS THE RED LINE THERE IS NOT A HOLY AREA ###"
 	{
@@ -195,7 +195,7 @@
 	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
 	{
 		"chi"		"**防守这里1分钟 **"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"### SLIPKNOT - CUSTER IS NOW PLAYING ###"
 	{
@@ -672,7 +672,7 @@
 	"### DOOR BREAKS IN 30 SECONDS ###"
 	{
 		"chi"		"**大门将会在30S后开放**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
 	{

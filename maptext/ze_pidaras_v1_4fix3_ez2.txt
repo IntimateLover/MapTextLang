@@ -31,7 +31,7 @@
 	"*** Pidaras Shotgun pickep up ! Only 35 shots ! ***"
 	{
 		"chi"		"**基佬的散弹枪拾取，它只有35发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** GANDALF DONT LIKE DOOR HUGGER ***"
 	{
@@ -72,7 +72,7 @@
 	"*** EXPLOSION IN 15 SECONDS PIDARAS ***"
 	{
 		"chi"		"**C4已安放，稍等15秒等我们炸开墙！**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***Bahatard is dead ! Run fucking idiot !***"
 	{
@@ -89,7 +89,7 @@
 	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
 	{
 		"chi"		"**基佬传送门将在15S后开启！快回头刷僵尸！**"
-		"DoorCountdown"		"22"
+		"DoorCountDown"		"22"
 	}
 	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
 	{

@@ -11,7 +11,7 @@
 	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
 	{
 		"chi"		"**门将在45秒后打开 **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"+++ RESIST IN THIS ZONE +++"
 	{
@@ -20,7 +20,7 @@
 	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
 	{
 		"chi"		"**门将在25秒后打开 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
 	{
@@ -45,7 +45,7 @@
 	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
 	{
 		"chi"		"**门将在100秒后打开 **"
-		"DoorCountdown"		"100"
+		"DoorCountDown"		"100"
 	}
 	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
 	{
@@ -58,12 +58,12 @@
 	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
 		"chi"		"**僵尸在17秒后释放 **"
-		"DoorCountdown"		"17"
+		"DoorCountDown"		"17"
 	}
 	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
 	{
 		"chi"		"**墙在35秒后破碎 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"+++ THE WALL IS BROKEN +++"
 	{
@@ -76,12 +76,12 @@
 	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
 	{
 		"chi"		"**门将在35秒后打开 **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
 	{
 		"chi"		"**逃生门将在50秒后打开 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
 	{
@@ -102,7 +102,7 @@
 	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
 	{
 		"chi"		"**LIGHTBRIDGE在20秒后激活 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"++ LIGHTBRIDGE ACTIVATED ++"
 	{
@@ -123,7 +123,7 @@
 	"+++ 60 SECONDS OF COOLDOWN. +++"
 	{
 		"chi"		"**它有60秒的冷却时间. **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
 	{
@@ -132,7 +132,7 @@
 	"++ FUEL FOR 10 SECONDS ++"
 	{
 		"chi"		"**它有10秒钟的燃料 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"sync_version"
 	{

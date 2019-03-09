@@ -92,7 +92,7 @@
 	{
 		"chi"		"**坚守多5秒**"
 	}
-	"***FALL BACK***"
+	"***Fall back***"
 	{
 		"chi"		"**撤退！**"
 	}
@@ -103,12 +103,12 @@
 	"***3***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***2***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***1***"
 	{

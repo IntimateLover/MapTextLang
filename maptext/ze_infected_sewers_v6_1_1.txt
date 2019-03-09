@@ -43,7 +43,7 @@
 	"*** DOOR OPENING IN 30 SECONDS ***"
 	{
 		"chi"		"**大门将在30秒后开启**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** DOOR OPENING IN 10 SECONDS ***"
 	{
@@ -56,7 +56,7 @@
 	"*** ELEVATOR LEAVES IN 30 SECONDS ***"
 	{
 		"chi"		"**电梯将在30秒后离开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -73,7 +73,7 @@
 	"*** WALL BREAKS IN 20 SECONDS ***"
 	{
 		"chi"		"**墙将在20秒后破碎**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** FALL BACK! ***"
 	{
@@ -82,7 +82,7 @@
 	"*** WALL BREAKS IN 15 SECONDS ***"
 	{
 		"chi"		"**墙将在15秒后破碎**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** MOVE!! ***"
 	{
@@ -95,7 +95,7 @@
 	"*** DOOR OPENING IN 20 SECONDS ***"
 	{
 		"chi"		"**门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** FALL BACK!!!!!! ***"
 	{
@@ -104,7 +104,7 @@
 	"*** HOLD YOUR POSITIONS!! GATES WILL OPEN IN 25 SECONDS ***"
 	{
 		"chi"		"**坚守阵地！大门将在25秒后开启**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
 	{
@@ -113,7 +113,7 @@
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"**电梯将在20秒后离开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 3 ***"
 	{
@@ -170,7 +170,7 @@
 	"*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
 	{
 		"chi"		"**坚守25秒！别把那些僵尸放出来！**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** FALL BACK!!! WE ARE SAFE! ***"
 	{

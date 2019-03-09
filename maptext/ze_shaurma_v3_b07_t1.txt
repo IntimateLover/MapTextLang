@@ -315,12 +315,12 @@
 	"=== RUN FORWARD! PUTIN IS USING PUSH! ==="
 	{
 		"chi"		"**往前走！普金正在使用推力**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"=== CROUCH! PUTIN IS THROWING LASERS AT YOU! ==="
 	{
 		"chi"		"**快蹲下！普金即将放出刀片**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"=== DODGE THE GOPNIKS! ==="
 	{
@@ -329,7 +329,7 @@
 	"=== DESTROY ALL VODKA BOTTLES QUICKLY OR RIP ==="
 	{
 		"chi"		"**快点打碎上方的伏特加酒瓶否则G G**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"=== HURRY UP! ==="
 	{
@@ -338,7 +338,7 @@
 	"=== RUN BACK! PUTIN CASTED GRAVITY! ==="
 	{
 		"chi"		"**往后退！普金正在释放黑洞**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*** PUTIN GOT REKT COMRADE!! NOW RUN!! ***"
 	{

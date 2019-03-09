@@ -3,7 +3,7 @@
 	"*** original : Super mario 64 Bowser in the fire sea ***"
 	{
 		"chi"		"**原文：超级马里奥64库巴在火海 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** WARNING : This map was ported from CS:S ***"
 	{
@@ -28,7 +28,7 @@
 	"*** LIFT LEAVES IN 15 SECONDS ***"
 	{
 		"chi"		"**电梯在15秒后离开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** LIFT LEAVES IN 5 SECONDS ***"
 	{
@@ -37,7 +37,7 @@
 	"*** Wall will become can climb in 40 SECONDS ***"
 	{
 		"chi"		"**后面的墙壁40秒后可以攀爬 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** STUCK TELEPORT IS ENABLED ***"
 	{
@@ -62,7 +62,7 @@
 	"*** LIFT WILL RISE IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯将在20秒后上升 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** LIFT WILL RISE IN 5 SECONDS ***"
 	{
@@ -71,7 +71,7 @@
 	"*** DEFEND FOR 30 SECONDS ***"
 	{
 		"chi"		"**防守30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** GO !! GO !! ***"
 	{
@@ -124,7 +124,7 @@
 	"*** LIFT LEAVES IN 15 SECONDS ***"
 	{
 		"chi"		"**电梯在15秒后离开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** LIFT LEAVES IN 5 SECONDS ***"
 	{
@@ -133,7 +133,7 @@
 	"*** Wall will become can climb in 40 SECONDS ***"
 	{
 		"chi"		"**后面的墙壁40秒后可以攀爬 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"*** STUCK TELEPORT IS ENABLED ***"
 	{
@@ -158,7 +158,7 @@
 	"*** LIFT WILL RISE IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯将在20秒后上升 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** LIFT WILL RISE IN 5 SECONDS ***"
 	{
@@ -167,7 +167,7 @@
 	"*** DEFEND FOR 30 SECONDS ***"
 	{
 		"chi"		"**防守30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** GO !! GO !! ***"
 	{
@@ -213,7 +213,7 @@
 	"*** LIFT WILL LEAVE IN 30 SECONDS ***"
 	{
 		"chi"		"**电梯将在30秒后上升 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** LIFT WILL LEAVE IN 5 SECONDS ***"
 	{
@@ -230,7 +230,7 @@
 	"*** ACTIVATING.... YOU MUST DEFENCE FOR 30 SECONDS !!! ***"
 	{
 		"chi"		"**激活了....你必须防守30秒！！！ **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** TELEPORTER WILL ACTIVE IN 5 SECONDS... ***"
 	{

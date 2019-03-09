@@ -3,12 +3,12 @@
 	"**Truck 2 is leaving in 30 seconds**"
 	{
 		"chi"		"**车2将在30秒内离开  **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Truck 1 is leaving in 30 seconds**"
 	{
 		"chi"		"**车1将在30秒内离开  **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**Calling US Army....**"
 	{
@@ -37,7 +37,7 @@
 	"**Boat 1 is leaving in 15 seconds**"
 	{
 		"chi"		"**1号船15秒后出发 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Impact in 40 seconds**"
 	{
@@ -58,6 +58,6 @@
 	"**Boat 2 is leaving in 20 seconds**"
 	{
 		"chi"		"**2号船20秒后出发 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 }

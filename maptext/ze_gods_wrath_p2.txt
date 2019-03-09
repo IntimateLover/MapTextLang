@@ -39,7 +39,7 @@
 	"****Zombie burner will reset in 40 secounds****"
 	{
 		"chi"		"**喷火器在40后冷却完毕**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"****Zombies close by will burn!****"
 	{

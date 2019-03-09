@@ -47,7 +47,7 @@
 	"***Neptune will teleport you after 15sec...***"
 	{
 		"chi"		"**Neptune将在15s后将你传送 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"Neptune : FALL BACK ! ! !"
 	{

@@ -55,7 +55,7 @@
 	">> FREEZERAY PICKED UP <<"
 	{
 		"chi"		">>>冰冻神器已被玩家拾起。注意：冷却时间100S左右。<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> FOREST PATH: RESIST 25 SECONDS <<"
 	{

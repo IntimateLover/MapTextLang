@@ -100,7 +100,7 @@
 	">>>Door close in 5s<<<"
 	{
 		"chi"		"** 5 秒后关门**小心被门夹到脑袋**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	">>>Teleport initializing<<<"
 	{
@@ -125,7 +125,7 @@
 	">>>50%<<<"
 	{
 		"chi"		"**传送门初始化 --- 50% **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>Door A Losing power!!!<<<"
 	{
@@ -159,7 +159,7 @@
 	}
 }
 "
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>Teleport is Online<<<"
 	{

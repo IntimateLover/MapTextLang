@@ -51,12 +51,12 @@
 	">>> HOLD THE MILL 30 SECONDS <<<"
 	{
 		"chi"		"**守住这个磨坊30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">>>>Pistol ready in 30 s<<<<"
 	{
 		"chi"		"**手枪将于30秒后可再次使用**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> JUMP ONTO THE WHEEL <<<"
 	{

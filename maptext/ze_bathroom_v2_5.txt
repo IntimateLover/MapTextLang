@@ -35,17 +35,17 @@
 	"Hold for 15 seconds."
 	{
 		"chi"		"**防守15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"Resist for 25 seconds."
 	{
 		"chi"		"**防守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"Resist for 20 seconds."
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"Hold here until something happens!"
 	{
@@ -130,7 +130,7 @@
 	"Final doors are going to close in 30 seconds! Resist!"
 	{
 		"chi"		"**最后的大门将在30秒后关闭，守住僵尸！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"You have won the map! Congratulations!"
 	{

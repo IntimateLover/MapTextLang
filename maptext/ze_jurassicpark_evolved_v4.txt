@@ -3,13 +3,13 @@
 	"** The gate will open in 35 seconds **"
 	{
 		"chi"		"**大门35秒后打开**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"** Get Ready **"
 	{
 		"chi"		"** **"
 	}
-	"** Run! **"
+	"** RUN! **"
 	{
 		"chi"		"**跑！**"
 	}
@@ -28,7 +28,7 @@
 	"** Call the mainland - Tell them to send the damn helicopter! **"
 	{
 		"chi"		"**信号已发送，直升机很快就会抵达！**"
-		"DoorCountdown"		"87"
+		"DoorCountDown"		"87"
 	}
 	"** SECURE THE AREA **"
 	{

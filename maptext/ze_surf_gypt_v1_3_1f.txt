@@ -39,7 +39,7 @@
 	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
 	{
 		"chi"		"**路将在30s后打开，守住岩浆池**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** WALL BREAKS IN 5 SECONDS ***"
 	{
@@ -64,7 +64,7 @@
 	"*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
 	{
 		"chi"		"**C4已经激活**"
-		"DoorCountdown"		"55"
+		"DoorCountDown"		"55"
 	}
 	"*** ZOMBIE TELEPORT IN 8 SECONDS ***"
 	{
@@ -86,7 +86,7 @@
 	{
 		"chi"		"**电梯将在30s后离开**"
 	}
-	"*** ELEVATOR LEAVING IN 20 SECONDS ***"
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"**电梯将在20s后离开**"
 	}
