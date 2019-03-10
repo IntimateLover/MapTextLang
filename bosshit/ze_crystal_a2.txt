@@ -100,4 +100,10 @@
 		"hammerid"		"32718"
 		"m_iname"		"st1_crystal"
 	}
+	"472476"
+	{
+		"enable"		"0"
+		"hammerid"		"472476"
+		"m_iname"		"item_phys_shield1"
+	}
 }

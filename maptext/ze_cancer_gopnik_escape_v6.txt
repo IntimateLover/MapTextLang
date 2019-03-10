@@ -124,4 +124,16 @@
 	{
 		"syncvalue"		"527"
 	}
+	"<<ZOMBIES TELEPORT IN 15 SECONDS>>"
+	{
+		"chi"		"** **"
+	}
+	"<<PLAYER HAS PICKED UP  GOPNIK WALL>>"
+	{
+		"chi"		"** **"
+	}
+	"<<1 TIME USE ONLY >>"
+	{
+		"chi"		"** **"
+	}
 }

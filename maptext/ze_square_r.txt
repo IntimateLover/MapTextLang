@@ -47,7 +47,7 @@
 	"***Neptune will teleport you after 15sec...***"
 	{
 		"chi"		"**Neptune将在15s后将你传送 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"Neptune : FALL BACK ! ! !"
 	{
@@ -104,5 +104,17 @@
 	"***YOU CLEAR THIS MAP...YOU ARE BEST***"
 	{
 		"chi"		"**恭喜你通关了这张地图！ **"
+	}
+	"***Secret processed***"
+	{
+		"chi"		"** **"
+	}
+	"GO AWAY !"
+	{
+		"chi"		"** **"
+	}
+	"*** Fake laser is ON ***"
+	{
+		"chi"		"** **"
 	}
 }

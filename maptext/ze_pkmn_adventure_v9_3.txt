@@ -387,10 +387,12 @@
 	"***Recharge: 80 seconds.***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"***Recharge: 45 seconds.***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"LETS SEE WHICH PATH WILL BE AVAIBLE"
 	{
@@ -407,6 +409,7 @@
 	"***Recharge: 60 Seconds.**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"MIDDLE PATH OPEN"
 	{
@@ -959,6 +962,7 @@
 	"Honchkrow has restored 500HP!"
 	{
 		"chi"		"**乌鸦头头恢复500HP! **"
+		"DoorCountdown"		"-1"
 	}
 	"Honchkrow has fainted"
 	{

@@ -109,6 +109,7 @@
 	">>> HOLD 5 SECONDS <<<"
 	{
 		"chi"		"**坚守5秒**"
+		"DoorCountdown"		"5"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
