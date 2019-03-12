@@ -222,4 +222,10 @@
 		"hammerid"		"3546280"
 		"m_iname"		"lvl5_Door_Phys"
 	}
+	"1082083"
+	{
+		"enable"		"0"
+		"hammerid"		"1082083"
+		"m_iname"		"Poisonball_Move&2331"
+	}
 }
