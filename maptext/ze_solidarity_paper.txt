@@ -96,7 +96,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Door Open in 30 Seconds***"
+	"***Door open in 30 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -109,6 +109,14 @@
 		"chi"		"** **"
 	}
 	"***Cookie Paper Monster Are Using Laser***"
+	{
+		"chi"		"** **"
+	}
+	"***Cookie Paper Monster Are Using Shield***"
+	{
+		"chi"		"** **"
+	}
+	"***Cookie Paper Monster Are Using Magic On Zombie Cage***"
 	{
 		"chi"		"** **"
 	}
