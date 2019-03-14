@@ -318,4 +318,16 @@
 		"hammerid"		"34186"
 		"m_iname"		"dr_start_break"
 	}
+	"34036"
+	{
+		"enable"		"0"
+		"hammerid"		"34036"
+		"m_iname"		"ladder_break"
+	}
+	"26401"
+	{
+		"enable"		"0"
+		"hammerid"		"26401"
+		"m_iname"		"human_trim_break"
+	}
 }
