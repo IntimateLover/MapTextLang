@@ -183,17 +183,17 @@
 	"<--Dragon uses black hole-->"
 	{
 		"chi"		"**龙释放黑洞**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"<--Dragon uses fire-->"
 	{
 		"chi"		"**龙释放火焰**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"<--Dragon uses meteor-->"
 	{
 		"chi"		"**龙释放陨石**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"<--Wood door will break in 15s-->"
 	{
@@ -226,5 +226,9 @@
 	"<--Shoot waha's head if possible-->"
 	{
 		"chi"		"**尽可能射击瓦哈头部**"
+	}
+	"<--Shoot wahas head if possible-->"
+	{
+		"chi"		"** **"
 	}
 }
