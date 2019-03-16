@@ -348,6 +348,7 @@
 	"** di mian shang you shui zi , ying gai you shui lu , xiang ban fa da kai**"
 	{
 		"chi"		"**地面上有水渍，应该有水路，想办法打开**"
+		"DoorCountDown"		"30"
 	}
 	"** shui lu yi jing bei da kai le , kuai pao **"
 	{

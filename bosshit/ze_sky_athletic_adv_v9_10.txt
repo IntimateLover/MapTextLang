@@ -742,4 +742,22 @@
 		"hammerid"		"207704"
 		"m_iname"		"stage1 phys"
 	}
+	"653818"
+	{
+		"enable"		"0"
+		"hammerid"		"653818"
+		"m_iname"		"kbc_zombie_summoningkey_target2"
+	}
+	"653811"
+	{
+		"enable"		"0"
+		"hammerid"		"653811"
+		"m_iname"		"kbc_zombie_summoningkey_target1"
+	}
+	"653827"
+	{
+		"enable"		"0"
+		"hammerid"		"653827"
+		"m_iname"		"kbc_zombie_summoningkey_target3"
+	}
 }
