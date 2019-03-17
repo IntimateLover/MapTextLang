@@ -91,6 +91,7 @@
 	"*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"50"
 	}
 	"*** GOOD JOB, YOU DID IT! ***"
 	{

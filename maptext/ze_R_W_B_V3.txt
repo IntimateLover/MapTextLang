@@ -100,4 +100,32 @@
 	{
 		"syncvalue"		"14005"
 	}
+	"-- Defend For 30 More Seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Teleport In 10 Seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Defend for 20 more Seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Defend For 25 More Seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Defend For 28 Seconds--"
+	{
+		"chi"		"** **"
+	}
+	"Survive For 60 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"--Defend For 60 Seconds--"
+	{
+		"chi"		"** **"
+	}
 }
