@@ -408,4 +408,34 @@
 		"hammerid"		"1047302"
 		"m_iname"		"level3_end_putin_physbox"
 	}
+	"820764"
+	{
+		"enable"		"0"
+		"hammerid"		"820764"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"820767"
+	{
+		"enable"		"0"
+		"hammerid"		"820767"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"820770"
+	{
+		"enable"		"0"
+		"hammerid"		"820770"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"820828"
+	{
+		"enable"		"0"
+		"hammerid"		"820828"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"652443"
+	{
+		"enable"		"0"
+		"hammerid"		"652443"
+		"m_iname"		"train_car_door_2_damage2_bullet"
+	}
 }
