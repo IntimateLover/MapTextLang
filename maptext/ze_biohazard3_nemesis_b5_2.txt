@@ -85,9 +85,9 @@
 	{
 		"chi"		"**小巷门将在15s后打开 **"
 	}
-	"**Doors will open in 10 seconds**"
+	"**Doors will open in 8 seconds**"
 	{
-		"chi"		"**小巷门将在10s后打开 **"
+		"chi"		"**小巷门将在8s后打开 **"
 	}
 	"**Defend here for 10 Seconds**"
 	{
@@ -152,6 +152,10 @@
 	"**The storage door will open soon**"
 	{
 		"chi"		"**储物间小门马上开了... **"
+	}
+	"**Defend until we not find the fuse**"
+	{
+		"chi"		"**守住，直到保险丝拿到 **"
 	}
 	"**The fuse was picked up**"
 	{
@@ -271,9 +275,9 @@
 		"chi"		"**复仇女神被打败了，寻找撤离路线... **"
 		"command"		"sv_gravity 1000"
 	}
-	"**This is the last point. The train departs in 45 seconds**"
+	"**This is the last point. The train departs in 35 seconds**"
 	{
-		"chi"		"**到达最后的撤离列车，守住45s... **"
+		"chi"		"**到达最后的撤离列车，守住35s... **"
 	}
 	"**The train departs in 10 seconds**"
 	{
