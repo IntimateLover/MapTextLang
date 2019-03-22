@@ -57,10 +57,12 @@
 	"***DESTROY THE POWER GENERATORS***"
 	{
 		"chi"		"**摧毁3台发电机，从左往右依次按顺序。**（其他人在铁网与铁网形成的通道之间尽可能的拖住僵尸）**"
+		"DoorCountDown"		"-1"
 	}
 	"***1 REMAINING***"
 	{
 		"chi"		"**还有 1 台发电机未被摧毁。**"
+		"DoorCountDown"		"-1"
 	}
 	"*** WELL DONE***"
 	{
@@ -69,7 +71,7 @@
 	"***HOLD 25 SECONDS***"
 	{
 		"chi"		"**坚持 25 秒！！！**"
-		"DoorCountDown"		"25"
+		"DoorCountDown"		"-1"
 	}
 	"Warning! Overloading of reactor."
 	{
