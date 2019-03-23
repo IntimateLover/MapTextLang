@@ -502,7 +502,7 @@
 	}
 	"<< Reaping Slash >>"
 	{
-		"chi"		"** **"
+		"chi"		"**收割之刃（按住蹲）**"
 	}
 	"<< You only have 30 seconds >>"
 	{
@@ -510,19 +510,19 @@
 	}
 	"<< Why you come here again? >>"
 	{
-		"chi"		"** **"
+		"chi"		"**你为什么又来到了这里？**"
 	}
 	"<< You have already win this map >>"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经获得这张地图的胜利了**"
 	}
 	"<< RTV plz >>"
 	{
-		"chi"		"** **"
+		"chi"		"**快点RTV吧**"
 	}
 	"<< do not hear what I say? >>"
 	{
-		"chi"		"** **"
+		"chi"		"**没听见我说什么吗？**"
 	}
 	"<< RTV!!! >>"
 	{
@@ -530,7 +530,7 @@
 	}
 	"<< Survive for 165 seconds!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**存活165秒！**"
 	}
 	"<< 120 seconds >>"
 	{
@@ -546,10 +546,10 @@
 	}
 	"<< Admin wants to RTV >>"
 	{
-		"chi"		"** **"
+		"chi"		"**admin想要rtv**"
 	}
 	"<< Nuke in 5 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**5s后核爆**"
 	}
 }
