@@ -51,6 +51,6 @@
 
 #trigger update10
 test for web hook
-#push trigger update p 1
+#push trigger update p 2
 triggercleanup 最后维护
 2019年2月24日09:10:27
