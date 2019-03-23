@@ -207,5 +207,7 @@
 	"107845"
 	{
 		"enable"		"1"
+		"hammerid"		"107845"
+		"m_iname"		"boss2"
 	}
 }
