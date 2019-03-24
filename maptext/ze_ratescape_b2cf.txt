@@ -27,6 +27,7 @@
 	"**Defend here until paper wall destory*"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"20"
 	}
 	"**Mine has been picked up!**"
 	{
@@ -43,6 +44,7 @@
 	"**Defend here until something happens...**"
 	{
 		"chi"		"** **"
+		"DoorCountDown"		"22"
 	}
 	"**A bridge has appeared!**Move across!**"
 	{
@@ -91,5 +93,21 @@
 	"**Gate will open in 15 seconds**"
 	{
 		"chi"		"** **"
+	}
+	"**Bomb has been planted**"
+	{
+		"DoorCountDown"		"10"
+	}
+	"**Defend here until something happens**"
+	{
+		"DoorCountDown"		"25"
+	}
+	"**You have been caught by the Meme Police!**"
+	{
+		"DoorCountDown"		"18"
+	}
+	"**Defend here until way will open**"
+	{
+		"DoorCountDown"		"20"
 	}
 }

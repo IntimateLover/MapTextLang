@@ -135,4 +135,8 @@
 	{
 		"syncvalue"		"33703"
 	}
+	"** If surf is not completed in 60 sec the zombies will be released **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -330,4 +330,40 @@
 		"hammerid"		"26401"
 		"m_iname"		"human_trim_break"
 	}
+	"36383"
+	{
+		"enable"		"0"
+		"hammerid"		"36383"
+		"m_iname"		"bt_break"
+	}
+	"36391"
+	{
+		"enable"		"0"
+		"hammerid"		"36391"
+		"m_iname"		"defense_break"
+	}
+	"36396"
+	{
+		"enable"		"0"
+		"hammerid"		"36396"
+		"m_iname"		"frog_break"
+	}
+	"36358"
+	{
+		"enable"		"0"
+		"hammerid"		"36358"
+		"m_iname"		"dr_break"
+	}
+	"36372"
+	{
+		"enable"		"0"
+		"hammerid"		"36372"
+		"m_iname"		"solo_break"
+	}
+	"36377"
+	{
+		"enable"		"0"
+		"hammerid"		"36377"
+		"m_iname"		"team_break"
+	}
 }

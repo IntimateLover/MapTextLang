@@ -140,13 +140,13 @@
 	}
 	"2394095"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2394095"
 		"m_iname"		"Room5_Phys_1"
 	}
 	"2394133"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2394133"
 		"m_iname"		"Room5_Phys_2"
 	}

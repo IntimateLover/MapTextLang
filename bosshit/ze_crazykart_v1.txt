@@ -114,4 +114,40 @@
 		"hammerid"		"410547"
 		"m_iname"		"spawn_floorbreak"
 	}
+	"477663"
+	{
+		"enable"		"0"
+		"hammerid"		"477663"
+		"m_iname"		"finale_omar_break"
+	}
+	"458447"
+	{
+		"enable"		"0"
+		"hammerid"		"458447"
+		"m_iname"		"finale_elevator1_break"
+	}
+	"466857"
+	{
+		"enable"		"0"
+		"hammerid"		"466857"
+		"m_iname"		"finale_elevator2_break"
+	}
+	"448564"
+	{
+		"enable"		"0"
+		"hammerid"		"448564"
+		"m_iname"		"finale_vent1"
+	}
+	"439198"
+	{
+		"enable"		"0"
+		"hammerid"		"439198"
+		"m_iname"		"finale_firstbreakwallaaaa"
+	}
+	"434683"
+	{
+		"enable"		"0"
+		"hammerid"		"434683"
+		"m_iname"		"finale_tunnelwoodblock"
+	}
 }
