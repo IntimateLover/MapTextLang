@@ -24,13 +24,13 @@
 { 
  		"chi"		"**木筏将在25秒离开**" 
  	} 
-"**A path has appeared!**"
+"**A path has appeared!**Fall back** "
 { 
- 		"chi"		"**一条路出现了!**" 
+ 		"chi"		"**一条路出现了!撤退!**" 
  	} 
-"**Fall back**"
+"**Fall Back!**"
 { 
- 		"chi"		"**撤退**" 
+ 		"chi"		"**撤退!**" 
  	} 
  "**Defend here until something happens**"
 { 
@@ -44,6 +44,10 @@
 { 
  		"chi"		"**守住这里直到纸块碎掉**" 
  	}  
+   "**Defend here until paper wall destory **"
+{ 
+ 		"chi"		"**守住这里直到纸墙碎掉**" 
+ 	}  
  "**Teleport will enable in 25 seconds**"
 { 
  		"chi"		"**传送将在25秒内启动**" 
@@ -56,14 +60,10 @@
 { 
  		"chi"		"**传送将在15秒内启动**" 
  	} 
- "**A bridge has appeared!**"
+ "**A bridge has appeared!**Move across!**"
 { 
- 		"chi"		"**一座桥出现了!**" 
- 	} 
-"**Move across!**"
-{ 
- 		"chi"		"**跨过去!**" 
- 	} 
+ 		"chi"		"**一座桥出现了!跨过去!**" 
+ 	}
  "**Defend here until something happens...**"
 { 
  		"chi"		"**守住这里，有事情要发生了...**" 
@@ -340,7 +340,7 @@
 { 
  		"chi"		"**这两座塔看起来很奇怪**" 
  	} 
- "**We're on a collision course!**"
+ "**Were on a collision course!**"
 { 
  		"chi"		"**我们要撞上了!**" 
  	} 
