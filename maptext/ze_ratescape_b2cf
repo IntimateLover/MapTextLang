@@ -1,0 +1,387 @@
+"Console_T" 
+{ 
+"** Super Pink Star?! has been picked up**"
+{ 
+ 		"chi"		"**超级粉红色星? !已被拾起**" 
+ 	} 
+ "**MLG Duck still alive!**"
+{ 
+ 		"chi"		"**MLG鸭还活着!**" 
+ 	} 
+ "**MLG Duck has been defeted!**"
+{ 
+ 		"chi"		"**MLG鸭子被打败了!**" 
+ 	} 
+ "**[Stage 3 - completed]**"
+{ 
+ 		"chi"		"**第三关完成!**" 
+ 	} 
+ "**Congratulations, you beat ratescape!**"
+{ 
+ 		"chi"		"**恭喜，你通关了这张图!**" 
+ 	} 
+ "**Raft will escape in 25 seconds**"
+{ 
+ 		"chi"		"**木筏将在25秒离开**" 
+ 	} 
+"**A path has appeared!**"
+{ 
+ 		"chi"		"**一条路出现了!**" 
+ 	} 
+"**Fall back**"
+{ 
+ 		"chi"		"**撤退**" 
+ 	} 
+ "**Defend here until something happens**"
+{ 
+ 		"chi"		"**守住这里**" 
+ 	} 
+ "**Way will open in 15 seconds**"
+{ 
+ 		"chi"		"**路将在15秒后打开**" 
+ 	}  
+ "**Defend here until paper block will brake **"
+{ 
+ 		"chi"		"**守住这里直到纸块碎掉**" 
+ 	}  
+ "**Teleport will enable in 25 seconds**"
+{ 
+ 		"chi"		"**传送将在25秒内启动**" 
+ 	}  
+ "**Level has been changed by admin**"
+{ 
+ 		"chi"		"**管理员变更了难度**" 
+ 	} 
+ "**Teleport will enable in 15 seconds**"
+{ 
+ 		"chi"		"**传送将在15秒内启动**" 
+ 	} 
+ "**A bridge has appeared!**"
+{ 
+ 		"chi"		"**一座桥出现了!**" 
+ 	} 
+"**Move across!**"
+{ 
+ 		"chi"		"**跨过去!**" 
+ 	} 
+ "**Defend here until something happens...**"
+{ 
+ 		"chi"		"**守住这里，有事情要发生了...**" 
+ 	} 
+ "**Defend here until way will open**"
+{ 
+ 		"chi"		"**守住这里直到路开**" 
+ 	} 
+ "**Paper wall will destory in 10 seconds**"
+{ 
+ 		"chi"		"**纸墙将会在10秒内倒塌**" 
+ 	} 
+ "**Teleport will enable in 20 seconds**"
+{ 
+ 		"chi"		"**传送将在20秒内启动**" 
+ 	}  
+ "**Paper wall will desotry in 15 seconds**"
+{ 
+ 		"chi"		"**纸墙将会在15秒内倒塌**" 
+ 	}  
+ "**Gate will open in 15 seconds**"
+{ 
+ 		"chi"		"**大门将在15秒内打开**" 
+ 	} 
+ "**[Stage 2 - completed]**"
+{ 
+ 		"chi"		"**第二关完成!**" 
+ 	} 
+ "**Defend here until bridge will destroy**"
+{ 
+ 		"chi"		"**守住这里，直到桥梁被摧毁**" 
+ 	} 
+ "**You fail stage**"
+{ 
+ 		"chi"		"**关卡失败!**" 
+ 	} 
+ "**Defend here until paper wall destory**"
+{ 
+ 		"chi"		"**守住这里直到纸墙倒塌**" 
+ 	} 
+ "**Defend here!**"
+{ 
+ 		"chi"		"**守住!**" 
+ 	} 
+ "**Garage of evil factory will open in 25 seconds**"
+{ 
+ 		"chi"		"**邪恶工厂的车库将在25秒内打开**" 
+ 	} 
+ "**Now we can escape from this factory**"
+{ 
+ 		"chi"		"**现在我们可以逃离这个工厂了**" 
+ 	} 
+ "**Bomb has been planted**"
+{ 
+ 		"chi"		"**炸弹已经安放!**" 
+ 	} 
+ "**Way will open in 15 seconds**"
+{ 
+ 		"chi"		"**路将在15秒内打开**" 
+ 	} 
+ "**Way will open in 20 seconds**"
+{ 
+ 		"chi"		"**路将在20秒内打开**" 
+ 	}   
+ "**Helicopter will escape in 30 seconds**"
+{ 
+ 		"chi"		"**直升机将在30秒内离开**" 
+ 	} 
+ "**[Stage 1 - completed]**"
+{ 
+ 		"chi"		"**第一关完成!**" 
+ 	} 
+ "**Teleport will enable in 30 seconds**"
+{ 
+ 		"chi"		"**传送将在30秒内启动**" 
+ 	} 
+ "**MLG duck summoner Super Fast Sonic**"
+{ 
+ 		"chi"		"**MLG鸭子释放了超快音速**" 
+ 	} 
+ "**MLG Duck is using MLG Electro!**"
+{ 
+ 		"chi"		"**MLG鸭子释放了MLG电!**" 
+ 	} 
+ "**MLG Duck ate Doritos and regenerated 350 hp**"
+{ 
+ 		"chi"		"**MLG鸭子吃下了士力架，恢复了350的血量!**" 
+ 	} 
+ "**MLG duck is using Mountain Dew Push*"
+{ 
+ 		"chi"		"**MLG鸭子释放了激浪推**" 
+ 	} 
+ "**MLG Duck summoner illuminati UFO**"
+{ 
+ 		"chi"		"**MLG鸭子召唤了不明飞行物!**" 
+ 	} 
+ "**Boss fight for 10 seconds**"
+{ 
+ 		"chi"		"**BOSS将在10秒内进入战斗**" 
+ 	} 
+ "**MLG Duck has been defeted**"
+{ 
+ 		"chi"		"**MLG鸭子被打败了**" 
+ 	} 
+ "**MLG Duck summoner Diablo Doritos**"
+{ 
+ 		"chi"		"**MLG鸭子释放了爆辣立体脆!**" 
+ 	} 
+ "**We must destroy it, quickly**"
+{ 
+ 		"chi"		"**我们必须尽快摧毁它**" 
+ 	} 
+ "**MLG Duck summoner Flames Doritos**"
+{ 
+ 		"chi"		"**MLG鸭子召唤了微辣立体脆!**" 
+ 	} 
+ "**Dont stay on the middle**"
+{ 
+ 		"chi"		"**不要站在中间**" 
+ 	} 
+ "**MLG Duck summoner Blaze Doritos**"
+{ 
+ 		"chi"		"**MLG鸭子召唤了麻辣立体脆!**" 
+ 	}    
+ "**Lego City gate will open in 20 seconds**"
+{ 
+ 		"chi"		"**乐高城大门将于20秒后开启**" 
+ 	} 
+ "**Evil Factory gate will opnein 20 seconds**"
+{ 
+ 		"chi"		"**邪恶工厂的大门将在20秒内打开**" 
+ 	} 
+ "**Gate will open in 25 seconds**"
+{ 
+ 		"chi"		"**大门将在25秒内打开**" 
+ 	} 
+ "**The way to the Evil Factory will open in 30 seconds**"
+{ 
+ 		"chi"		"**通往邪恶工厂的路将在30秒内打开**" 
+ 	} 
+ "**The Ruthless Four has been defeated**"
+{ 
+ 		"chi"		"**无情四人组被击败了**" 
+ 	} 
+ "**Now we can escape from this empty city**"
+{ 
+ 		"chi"		"**现在我们可以逃离这个空城了**" 
+ 	} 
+ "**Boss fight incoming**"
+{ 
+ 		"chi"		"**即将开始BOSS战**" 
+ 	} 
+ "**Gate will open in 20 seconds**"
+{ 
+ 		"chi"		"**大门将在20秒后打开**" 
+ 	} 
+ "**Defeated The Ruthless Four!**"
+{ 
+ 		"chi"		"**打败无情四人组!**" 
+ 	} 
+ "**Zarabustor has been defeted!**"
+{ 
+ 		"chi"		"**不动骑士被打败了!**" 
+ 	} 
+ "**Infernalist has been defeted!**"
+{ 
+ 		"chi"		"**地狱骑士被打败了!**" 
+ 	} 
+ "**Phantasm has been defeted!**"
+{ 
+ 		"chi"		"**幻影骑士被打败了!**" 
+ 	} 
+ "**Spectulus has been defeted!**"
+{ 
+ 		"chi"		"**幽灵骑士被打败了!**" 
+ 	} 
+ "**F12 Wand has been picked!**"
+{ 
+ 		"chi"		"**F12拐杖已被拾取!**" 
+ 	} 
+ "**You have been caught by the Meme Police!**"
+{ 
+ 		"chi"		"**你被米姆警察抓住了!**" 
+ 	} 
+ "**Hands up!**"
+{ 
+ 		"chi"		"**举起手来!**" 
+ 	} 
+ "**[Stage 1 - Evil Factory]**"
+{ 
+ 		"chi"		"**第一关:邪恶工厂**" 
+ 	} 
+ "**[Stage 2 - Paper City]**"
+{ 
+ 		"chi"		"**第二关:纸城**" 
+ 	} 
+ "**Explore paper city and discover its secrets**"
+{ 
+ 		"chi"		"**探索纸城，找出它的秘密**" 
+ 	} 
+ "**Find and destroy Evil Factory that supplies energy to a Paper City**"
+{ 
+ 		"chi"		"**找到并摧毁为纸城提供能源的邪恶工厂**" 
+ 	} 
+ "**[Stage 3 - Heaven Shelfs ]**"
+{ 
+ 		"chi"		"**第三关:天堂之架**" 
+ 	} 
+ "**Search the shelves and destroy the evil that hides there**"
+{ 
+ 		"chi"		"**搜索书架，消灭隐藏在那里的邪恶事物**" 
+ 	} 
+ "**Teleport will enable in 25 seconds**"
+{ 
+ 		"chi"		"**传送将在25秒内启动**" 
+ 	} 
+ "**Putin Shield has been picked up!**"
+{ 
+ 		"chi"		"**屏蔽盾已被拾取!**" 
+ 	} 
+ "**Mine has been picked up!**"
+{ 
+ 		"chi"		"**地雷已被拾取!**" 
+ 	} 
+ "**Gate will open in 5 seconds**"
+{ 
+ 		"chi"		"**大门将在5秒后打开**" 
+ 	} 
+ "**Speed weapon has been picked up**"
+{ 
+ 		"chi"		"**速度神器已被拾取!**" 
+ 	} 
+ "**Secret speed weapon has been spawned!**"
+{ 
+ 		"chi"		"**隐藏速度武器已经出现!**" 
+ 	} 
+ "**Map by Malgo**"
+{ 
+ 		"chi"		"**地图制作:Malgo 地图翻译:清新的二哈?**" 
+ 	} 
+ "**Ze_Ratescape**"
+{ 
+ 		"chi"		"****" 
+ 	} 
+ "**Special thanks Meyestros for help**"
+{ 
+ 		"chi"		"**特别感谢:Meyestros**" 
+ 	} 
+ "**Door will open in 20 seconds**"
+{ 
+ 		"chi"		"**门将在20秒后打开**" 
+ 	} 
+ "**Way will open in 20 seconds**"
+{ 
+ 		"chi"		"**路将在20秒内打开**" 
+ 	} 
+ "**Destory Iron obstacles**"
+{ 
+ 		"chi"		"**毁坏铁质障碍物**" 
+ 	} 
+ "**Teleport will enable in 25 seconds**"
+{ 
+ 		"chi"		"**传送将在25秒内启动**" 
+ 	} 
+ "**Paper planes will fly in 25 seconds**"
+{ 
+ 		"chi"		"**纸飞机将在25秒内启动**" 
+ 	} 
+ "**Where we fly?**"
+{ 
+ 		"chi"		"**我们要飞往哪里?**" 
+ 	} 
+ "**These two towers look strange**"
+{ 
+ 		"chi"		"**这两座塔看起来很奇怪**" 
+ 	} 
+ "**We're on a collision course!**"
+{ 
+ 		"chi"		"**我们要撞上了!**" 
+ 	} 
+ "**5 seconds remaining**"
+{ 
+ 		"chi"		"**剩余5秒**" 
+ 	} 
+ "**Only CS GO fucking faggot!**"
+{ 
+ 		"chi"		"****" 
+ 	} 
+ "**Saw has been pickied up! **"
+{ 
+ 		"chi"		"**电锯已被拾取!**" 
+ 	} 
+ "** Sword has been picked up! **"
+{ 
+ 		"chi"		"**剑已被拾取!**" 
+ 	} 
+ "** Heal has been picked up**"
+{ 
+ 		"chi"		"**奶已被拾取!**" 
+ 	} 
+ "** MG42 has been picked up**"
+{ 
+ 		"chi"		"**MG42已被拾取!**" 
+ 	} 
+ "** Thunder gun has been picked up**"
+{ 
+ 		"chi"		"**雷霆枪已被拾取!**" 
+ 	} 
+ "**It only has three use**"
+{ 
+ 		"chi"		"**它只能用3次**" 
+ 	} 
+ "** Doritos has been picked up**"
+{ 
+ 		"chi"		"**立体脆已被拾取!**" 
+ 	} 
+ "**Wall will destroy in 15 seconds**"
+{ 
+ 		"chi"		"**墙将在15秒内摧毁**" 
+ 	} 
+}
