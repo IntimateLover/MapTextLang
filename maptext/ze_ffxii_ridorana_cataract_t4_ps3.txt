@@ -146,7 +146,7 @@
 		"chi"		"**一位玩家拿起了治疗法杖（等级:2）**"
 		"DoorCountdown"		"-1"
 	}
-	"**The door will open in 25 seconds**"
+	"**THE DOOR WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门25秒后打开**"
 		"DoorCountdown"		"25"
@@ -196,14 +196,17 @@
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了雷电法杖（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸学会了火魔法（等级：2）**"
+		"DoorCountdown"		"-1"
 	}
 	"**Is this over...or not?...**"
 	{
@@ -220,6 +223,7 @@
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了冰冻法杖（等级：3）**"
+		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
 	{

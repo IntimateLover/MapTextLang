@@ -90,4 +90,22 @@
 		"hammerid"		"472580"
 		"m_iname"		"Mine_Spawn&8578"
 	}
+	"627072"
+	{
+		"enable"		"1"
+		"hammerid"		"627072"
+		"m_iname"		"Mine_attack_boss3"
+	}
+	"628918"
+	{
+		"enable"		"0"
+		"hammerid"		"628918"
+		"m_iname"		"Rocket"
+	}
+	"706367"
+	{
+		"enable"		"1"
+		"hammerid"		"706367"
+		"m_iname"		"Rocket_boss5"
+	}
 }

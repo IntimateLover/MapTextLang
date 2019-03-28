@@ -177,17 +177,67 @@
 	"612039"
 	{
 		"enable"		"1"
+		"hammerid"		"612039"
+		"m_iname"		"Zarabustor model"
 	}
 	"618186"
 	{
 		"enable"		"1"
+		"hammerid"		"618186"
+		"m_iname"		"Infernalist model"
 	}
 	"617980"
 	{
 		"enable"		"1"
+		"hammerid"		"617980"
+		"m_iname"		"Phantasm model"
 	}
 	"604915"
 	{
 		"enable"		"1"
+		"hammerid"		"604915"
+		"m_iname"		"Spectulus model"
+	}
+	"722910"
+	{
+		"enable"		"0"
+		"hammerid"		"722910"
+		"m_iname"		"Genesis func"
+	}
+	"722988"
+	{
+		"enable"		"0"
+		"hammerid"		"722988"
+		"m_iname"		"Iron pussy func"
+	}
+	"723798"
+	{
+		"enable"		"0"
+		"hammerid"		"723798"
+		"m_iname"		"duck glasses"
+	}
+	"723790"
+	{
+		"enable"		"0"
+		"hammerid"		"723790"
+		"m_iname"		"Duck model func"
+	}
+	"888632"
+	{
+		"enable"		"0"
+		"hammerid"		"888632"
+		"m_iname"		"lvl 3 last room bridge template"
+	}
+	"886714"
+	{
+		"enable"		"0"
+		"hammerid"		"886714"
+		"m_iname"		"Last Duck model func"
+	}
+	"886717"
+	{
+		"enable"		"0"
+		"hammerid"		"886717"
+		"m_iname"		"last duck glasses"
 	}
 }
