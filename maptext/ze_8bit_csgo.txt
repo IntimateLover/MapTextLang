@@ -140,31 +140,31 @@
 {  
   		"chi"		"**[ADMIN]为下一轮选择[最终关]。5秒后重新开始。**"  
   	}  
-" ** A player has learned Heal magick. **" 
+"** A player has learned Heal magick. **" 
 {  
   		"chi"		"**一个玩家拾取了奶。**"  
   	}  
-" ** A player has learned Electro magick. **" 
+"** A player has learned Electro magick. **"
 {  
   		"chi"		"**一个玩家拾取了电。**"  
   	}  
-" ** A player has learned Cannon ultimate. **" 
+"** A player has learned Cannon ultimate. **" 
 {  
   		"chi"		"**一个玩家拾取了终极大炮。**"  
   	}  
-" ** A player has learned Stopper magick. **" 
+"** A player has learned Stopper magick. **" 
 {  
   		"chi"		"**一个玩家拾取了静止装置。**"  
   	}  
-" ** A player has learned Mine. **" 
+"** A player has learned Mine. **" 
 {  
   		"chi"		"**一个玩家拾取了地雷。**"  
   	}  
-" ** A player has learned Fire magick. **" 
+"** A player has learned Fire magick. **" 
 {  
   		"chi"		"**一个玩家拾取了火。**"  
   	}  
-" ** A player has learned Ammo. **" 
+"** A player has learned Ammo. **" 
 {  
   		"chi"		"**一个玩家拾取了无限弹药。**"  
   	}  
