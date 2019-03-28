@@ -1,142 +1,142 @@
 "Console_T"  
 {  
-"**THE DOOR OPEN IN 25 SECOND**"
+"THE DOOR OPEN IN 25 SECOND"
 {  
   		"chi"		"**门将在25秒后打开**"  
   	}  
-"**THE DOOR OPEN IN 5 SECOND**"
+"THE DOOR OPEN IN 5 SECOND"
 {  
   		"chi"		"**门将在5秒后打开**"  
   	}  
-"**AFK TELEPORT IN 10 SECOND**"
+"AFK TELEPORT IN 10 SECOND"
 {  
   		"chi"		"**10秒后传送**"  
   	}  
-"**THE ELEVATOR WILL LEAVE IN 30 SECONDS**"
+"THE ELEVATOR WILL LEAVE IN 30 SECONDS"
 {  
   		"chi"		"**电梯将在30秒后离开**"  
   	}  
-"**THE ELEVATOR WILL LEAVE IN 5 SECONDS**"
+"THE ELEVATOR WILL LEAVE IN 5 SECONDS"
 {  
   		"chi"		"**电梯将在5秒后离开**"  
   	}  
-"**THE DOOR WILL OPEN IN 30 SECONDS**"
+"THE DOOR WILL OPEN IN 30 SECONDS"
 {  
   		"chi"		"**门将在30秒后打开**"  
   	}  
-"**THE DOOR WILL OPEN IN 25 SECONDS**"
+"THE DOOR WILL OPEN IN 25 SECONDS"
 {  
   		"chi"		"**门将在25秒后打开**"  
   	}  
-"**THE DOOR WILL OPEN IN 5 SECONDS**"
+"THE DOOR WILL OPEN IN 5 SECONDS"
 {  
   		"chi"		"**门将在5秒后打开**"  
   	}  
-"**THE WALL WILL BREAK IN 20 SECONDS**"
+"THE WALL WILL BREAK IN 20 SECONDS"
 {  
   		"chi"		"**墙将在20秒后破碎**"  
   	}  
-"**THE WALL WILL BREAK IN 5 SECONDS**"
+"THE WALL WILL BREAK IN 5 SECONDS"
 {  
   		"chi"		"**墙将在5秒后破碎**"  
   	}  
-"**LOCKS WILL OPEN IN 25 SECONDS**"
+"LOCKS WILL OPEN IN 25 SECONDS"
 {  
   		"chi"		"**锁将在25秒内打开**"  
   	}  
-"**LOCKS WILL OPEN IN 5 SECONDS**"
+"LOCKS WILL OPEN IN 5 SECONDS"
 {  
   		"chi"		"**锁将在5秒内打开**"  
   	}  
-"**THE LAST DOOR WILL OPEN IN 30 SECONDS**"
+"THE LAST DOOR WILL OPEN IN 30 SECONDS"
 {  
   		"chi"		"**最后的门将在30秒后打开**"  
   	}  
-"**THE LAST DOOR WILL OPEN IN 5 SECONDS**"
+"THE LAST DOOR WILL OPEN IN 5 SECONDS"
 {  
   		"chi"		"**最后的门将在5秒后打开**"  
   	}  
-"**THE PLATFORM WILL BREAK IN 20 SECONDS**"
+"THE PLATFORM WILL BREAK IN 20 SECONDS"
 {  
   		"chi"		"**平台将在20秒后碎裂**"  
   	}  
-"**THE PLATFORM WILL BREAK IN 5 SECONDS**"
+"THE PLATFORM WILL BREAK IN 5 SECONDS"
 {  
   		"chi"		"**平台将在5秒后碎裂**"  
   	}  
-"**MAP BY FRENCHY**"
+"MAP BY FRENCHY"
 {  
   		"chi"		"**地图制作:FRENCHY 地图翻译:清新的二哈♪**"  
   	}   
-"**Special thanks IceStorm for particles**"
+"Special thanks IceStorm for particles"
 {  
   		"chi"		"**特别感谢:IceStorm**"  
   	}  
-"**THE MAIN DOOR OPENS IN 5 SECONDS**"
+"THE MAIN DOOR OPENS IN 5 SECONDS"
 {  
   		"chi"		"**主门5秒后打开**"  
   	}  
-"**THE MAIN DOOR OPENS IN 35 SECONDS**"
+"THE MAIN DOOR OPENS IN 35 SECONDS"
 {  
   		"chi"		"**主门35秒后打开**"  
   	}  
-"**>> Kill THE Remaining Zombie! <<**"
+">> Kill THE Remaining Zombie! <<"
 {  
   		"chi"		"**杀死剩下的僵尸!**"  
   	}  
-"**THE PLATFORM WILL GO IN 5 SECONDS**"
+"THE PLATFORM WILL GO IN 5 SECONDS"
 {  
   		"chi"		"**平台将在5秒后离开**"  
   	}  
-"**THE PLATFORM WILL GO  IN 30 SECONDS**"
+"THE PLATFORM WILL GO  IN 30 SECONDS"
 {  
   		"chi"		"**平台将在30秒后离开**"  
   	}  
-"**THE DOOR WILL OPEN IN 30 SECONDS**"
+"THE DOOR WILL OPEN IN 30 SECONDS"
 {  
   		"chi"		"**门将在30秒后打开**"  
   	}  
-"**THE DOORS WILL OPEN IN 5 SECONDS**"
+"THE DOORS WILL OPEN IN 5 SECONDS"
 {  
   		"chi"		"**门将在5秒后打开**"  
   	}  
-"**THE DOORS WILL OPEN IN 20 SECONDS**"
+"THE DOORS WILL OPEN IN 20 SECONDS"
 {  
   		"chi"		"**门将在20秒后打开**"  
   	}  
-"**THE DOORS WILL OPEN IN 25 SECONDS**"
+"THE DOORS WILL OPEN IN 25 SECONDS"
 {  
   		"chi"		"**门将在25秒后打开**"  
   	}  
-"**THE DOORS WILL OPEN IN 30 SECONDS**"
+"THE DOORS WILL OPEN IN 30 SECONDS"
 {  
   		"chi"		"**门将在30秒后打开**"  
   	}  
-"**[ADMIN] Selected [STAGE 1 NORMAL] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [STAGE 1 NORMAL] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[关卡1:普通]。5秒后重新开始。**"  
   	}  
-"**[ADMIN] Selected [STAGE 2 NORMAL] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [STAGE 2 NORMAL] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[关卡2:普通]。5秒后重新开始。**"  
   	}  
-"**[ADMIN] Selected [STAGE 3 NORMAL] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [STAGE 3 NORMAL] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[关卡3:普通]。5秒后重新开始。**"  
   	}  
-"**[ADMIN] Selected [STAGE 3 EXTREME] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [STAGE 3 EXTREME] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[关卡3:困难]。5秒后重新开始。**"  
   	}  
-"**[ADMIN] Selected [STAGE 2 EXTREME] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [STAGE 2 EXTREME] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[关卡2:困难]。5秒后重新开始。**"  
   	}  
-"**[ADMIN] Selected [STAGE 1 EXTREME] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [STAGE 1 EXTREME] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[关卡1:困难]。5秒后重新开始。**"  
   	}  
-"**[ADMIN] Selected [FINAL STAGE] for next round. Restarting round in 5 SECONDS.**"
+"[ADMIN] Selected [FINAL STAGE] for next round. Restarting round in 5 SECONDS."
 {  
   		"chi"		"**[ADMIN]为下一轮选择[最终关]。5秒后重新开始。**"  
   	}  
@@ -168,15 +168,15 @@
 {  
   		"chi"		"**一个玩家拾取了无限弹药。**"  
   	}  
-"**ONLY DEFEND! TELEPORT ENABLE IN 180 SECOND**"
+"ONLY DEFEND! TELEPORT ENABLE IN 180 SECOND"
 {  
   		"chi"		"**守住180秒!**"  
   	}  
-"**90 SECOND**"
+"90 SECOND"
 {  
   		"chi"		"**90秒**"  
   	}  
-"**30 SECOND**"
+"30 SECOND"
 {  
   		"chi"		"**30秒**"  
   	} 
