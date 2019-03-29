@@ -204,4 +204,8 @@
 	{
 		"chi"		">>>Admin调至第一关<<<"
 	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"** **"
+	}
 }

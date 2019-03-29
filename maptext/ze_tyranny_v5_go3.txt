@@ -7,10 +7,12 @@
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家10秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家5秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
@@ -510,6 +512,7 @@
 	">>> AFK TELEPORT IN 3 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家3秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	">>> BALROG USE LASER <<<"
 	{

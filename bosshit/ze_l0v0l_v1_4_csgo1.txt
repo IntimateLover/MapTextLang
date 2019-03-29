@@ -60,4 +60,106 @@
 		"hammerid"		"49474"
 		"m_iname"		"bosslvl2_glass"
 	}
+	"3642"
+	{
+		"enable"		"0"
+		"hammerid"		"3642"
+		"m_iname"		"door17_2"
+	}
+	"3651"
+	{
+		"enable"		"0"
+		"hammerid"		"3651"
+		"m_iname"		"door18_2"
+	}
+	"3659"
+	{
+		"enable"		"0"
+		"hammerid"		"3659"
+		"m_iname"		"door19_2"
+	}
+	"3740"
+	{
+		"enable"		"0"
+		"hammerid"		"3740"
+		"m_iname"		"door27_2"
+	}
+	"10702"
+	{
+		"enable"		"0"
+		"hammerid"		"10702"
+		"m_iname"		"door1_1"
+	}
+	"10708"
+	{
+		"enable"		"0"
+		"hammerid"		"10708"
+		"m_iname"		"door2_1"
+	}
+	"10716"
+	{
+		"enable"		"0"
+		"hammerid"		"10716"
+		"m_iname"		"door3_1"
+	}
+	"10727"
+	{
+		"enable"		"0"
+		"hammerid"		"10727"
+		"m_iname"		"door4_1"
+	}
+	"10730"
+	{
+		"enable"		"0"
+		"hammerid"		"10730"
+		"m_iname"		"door5_1"
+	}
+	"10741"
+	{
+		"enable"		"0"
+		"hammerid"		"10741"
+		"m_iname"		"door6_1"
+	}
+	"10749"
+	{
+		"enable"		"0"
+		"hammerid"		"10749"
+		"m_iname"		"door7_1"
+	}
+	"10752"
+	{
+		"enable"		"0"
+		"hammerid"		"10752"
+		"m_iname"		"door8_1"
+	}
+	"10806"
+	{
+		"enable"		"0"
+		"hammerid"		"10806"
+		"m_iname"		"door23"
+	}
+	"10825"
+	{
+		"enable"		"1"
+		"hammerid"		"10825"
+		"m_iname"		"bosslvl1_hit"
+	}
+	"10844"
+	{
+		"enable"		"1"
+		"hammerid"		"10844"
+		"m_iname"		"bosslvl1_wall2"
+	}
+	"48359"
+	{
+		"enable"		"1"
+		"hammerid"		"48359"
+		"m_iname"		"bosslvl1_model"
+	}
+	"48428"
+	{
+		"enable"		"1"
+		"hammerid"		"48428"
+		"m_iname"		"bosslvl1_model"
+	}
 }
