@@ -877,7 +877,7 @@ Cooldo"
 	">>Laser incoming<<"
 	{
 		"chi"		"**准备跳刀！ **"
-		"DoorCountDown"		"2"
+		"DoorCountdown"		"2"
 	}
 	">>Elevator will be leaving soon<<"
 	{
@@ -914,7 +914,7 @@ Cooldo"
 	">>Thank you for playing. Try 1999 mode for a true challenge<<"
 	{
 		"chi"		"**谢谢你的玩耍，尝试挑战1999年模式 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">>Extra Chapter - 1999<<"
 	{

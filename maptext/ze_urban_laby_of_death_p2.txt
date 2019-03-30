@@ -7,7 +7,7 @@
 	"*** Invulnerability has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**无敌 的CD为60秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Flamethrower has been picked up. ***"
 	{
@@ -16,7 +16,7 @@
 	"*** Flamethrower lasts about 16 secs and can be toggled. ***"
 	{
 		"chi"		"**喷火器的燃料总共有16秒（喷一口记得关掉）**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Elevator 1 Leaving in 60 seconds**"
 	{
@@ -25,7 +25,7 @@
 	"**Elevator 2 Leaving in 60 seconds**"
 	{
 		"chi"		"**二号电梯60秒后离开**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"**Elevator 1 Leaving in 5 seconds**"
 	{
@@ -54,7 +54,7 @@
 	"*** Zombie Rage has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**加速 有60秒CD**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Sprint has been picked up. ***"
 	{
@@ -63,7 +63,7 @@
 	"*** Sprint has a cooldown of 90 secs. ***"
 	{
 		"chi"		"**冲刺 有90秒CD**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Plant the C4 on the missile launcher**"
 	{
@@ -84,7 +84,7 @@
 	"**Helicopter will leave in 60 seconds**"
 	{
 		"chi"		"**滴滴滴！直升机60秒后起飞**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"**Helicopter will leave in 30 seconds**"
 	{
@@ -101,7 +101,7 @@
 	"*** Ammo Box has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**无限子弹 的CD为60秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Push Gun has been picked up. ***"
 	{
@@ -110,7 +110,7 @@
 	"*** Push Gun has a cooldown of 20 secs. ***"
 	{
 		"chi"		"**推力枪 的CD为20秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Zombie Heal has been picked up. ***"
 	{
@@ -119,7 +119,7 @@
 	"*** Zombie Heal has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**奶 的CD为60秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Computer room will shut down in 60 seconds**"
 	{
@@ -144,12 +144,12 @@
 	"*** Mines has been picked up. ***"
 	{
 		"chi"		"**一名玩家捡起了地雷（会炸人类，远离人群使用！）**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"*** Mines can be used up to 6 times. ***"
 	{
 		"chi"		"**地雷 可以使用6次**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Freeze Ring has been picked up. ***"
 	{
@@ -158,7 +158,7 @@
 	"*** Freeze Ring has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**冰冻陷阱 的CD为60秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
@@ -171,7 +171,7 @@
 	"*** Zombie Sucker has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**吸人器 的CD为60秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** STEAMGAMERS.COM ***"
 	{

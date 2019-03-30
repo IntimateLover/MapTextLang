@@ -183,17 +183,17 @@
 	"<--Dragon uses black hole-->"
 	{
 		"chi"		"**龙释放黑洞**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<--Dragon uses fire-->"
 	{
 		"chi"		"**龙释放火焰**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"<--Dragon uses meteor-->"
 	{
 		"chi"		"**龙释放陨石**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<--Wood door will break in 15s-->"
 	{

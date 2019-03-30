@@ -11,7 +11,7 @@
 	"*** ze_ffxiv_wanderers_palace ***"
 	{
 		"chi"		"**最终幻想14：流浪者宫殿 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Level:Normal ***"
 	{
@@ -24,7 +24,7 @@
 	"*** 15 seconds to activate Nymian device ***"
 	{
 		"chi"		"**任务完成：尼姆装置已激活-等待15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** 5 SECONDS ***"
 	{
@@ -33,7 +33,7 @@
 	"*** 30 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼姆装置已激活-等待30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
 	{
@@ -54,7 +54,7 @@
 	"*** 25 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼姆装置已激活-等待25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** 10 seconds  ***"
 	{
@@ -123,12 +123,12 @@
 	"*** 20 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼姆装置已被激活-等待20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** 30 seconds to Open Road ***"
 	{
 		"chi"		"**30秒后道路开放 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -141,7 +141,7 @@
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
 		"chi"		"**尼姆装置已被激活-等待30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 10 seconds   ***"
 	{
@@ -162,22 +162,22 @@
 	"*** Land Slide ***"
 	{
 		"chi"		"**热离子光束**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"*** Heavens Fall ***"
 	{
 		"chi"		"**天堂陨落**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"*** Cauterize***"
 	{
 		"chi"		"**冲击 **"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"*** Flare ***"
 	{
 		"chi"		"**火**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"*** Behemoth King dead ***"
 	{
@@ -186,7 +186,7 @@
 	"***45 seconds to HARD CLEAR***"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***5 seconds***"
 	{
@@ -220,7 +220,7 @@
 	"*** 35 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼姆装置已被激活.等待35秒 **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 		"command"		"sm_aei_hammerid 100004 use"
 	}
 	"*** 10 seconds ***"
@@ -234,12 +234,12 @@
 	"*** 30 seconds to Open Door ***"
 	{
 		"chi"		"**大门30秒后激活 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 45 seconds to Break Rocks ***"
 	{
 		"chi"		"**45秒后墙体破碎 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***A player picked up Limit Break***"
 	{
@@ -292,7 +292,7 @@
 	"***A player picked up Paladin Shield Oath"
 	{
 		"chi"		"**使用流沙时勿投掷高爆火瓶**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***Recast 80s***"
 	{
@@ -329,12 +329,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**电梯15秒后离开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁30秒后破碎 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Dont Touch Water ***"
 	{
@@ -388,12 +388,12 @@
 	"*** 30 seconds to Break Fence ***"
 	{
 		"chi"		"**铁网30秒后破碎 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Location: The Ragnarok ***"
 	{
@@ -402,7 +402,7 @@
 	"*** Defend 45 seconds ***"
 	{
 		"chi"		"**防守45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*** ADS ATTACK ***"
 	{
@@ -451,7 +451,7 @@
 	"*** 45 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁45秒后破碎 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*** Odin Appeared ***"
 	{

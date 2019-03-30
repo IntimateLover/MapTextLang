@@ -36,7 +36,7 @@
 	{
 		"chi"		"**大门25秒后打开**"
 	}
-	"***DOOR IS OPEN***"
+	"***Door is open***"
 	{
 		"chi"		"**大门现在打开**"
 	}
@@ -103,12 +103,12 @@
 	"***3***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***2***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***1***"
 	{

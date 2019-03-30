@@ -3,7 +3,7 @@
 	"***Truck leaving in 30secs.***"
 	{
 		"chi"		"**卡车30秒后离开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Truck leaving in 5secs. Shoot the blockade.***"
 	{
@@ -12,12 +12,12 @@
 	"***Door opening in 25secs.***"
 	{
 		"chi"		"**大门25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Door 2 opening in 25secs.***"
 	{
 		"chi"		"**2号大门25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***Door 2 open.***"
 	{
@@ -30,7 +30,7 @@
 	"***Mausoleum wall will  fall in 50secs.***"
 	{
 		"chi"		"**教堂墙壁50秒后倒塌 **"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"***Mausoleum wall will  fall in 5secs.***"
 	{
@@ -39,12 +39,12 @@
 	"***Tomb doors closing in 40secs.***"
 	{
 		"chi"		"**墓室大门40秒后关闭 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***Waking Up. Door opening in 60secs.***"
 	{
 		"chi"		"**大门60秒后打开 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***Waking Up. Door opening in 30secs.***"
 	{

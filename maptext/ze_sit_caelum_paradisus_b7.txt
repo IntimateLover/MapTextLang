@@ -127,7 +127,7 @@
 	">>>NOW TIME TO HOLD<<<"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"59"
+		"DoorCountdown"		"59"
 	}
 	">>>DOOR BREAKING IN 45 SECS<<<"
 	{

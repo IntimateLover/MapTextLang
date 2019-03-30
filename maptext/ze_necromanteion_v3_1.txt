@@ -183,27 +183,27 @@
 	"***Only the chosen one can live***"
 	{
 		"chi"		"**只有天选之人才能活下来**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***You are too weak***"
 	{
 		"chi"		"**你们太弱了!!!**"
-		"DoorCountDown"		"8"
+		"DoorCountdown"		"8"
 	}
 	"***Lets do a test***"
 	{
 		"chi"		"**让我们试一试吧!!!!**"
-		"DoorCountDown"		"7"
+		"DoorCountdown"		"7"
 	}
 	"***Show me your strength***"
 	{
 		"chi"		"**让我看看你们到底几斤几两**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***Beware***"
 	{
 		"chi"		"**目视前方**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"***Congratulation!!!!***"
 	{
@@ -460,27 +460,27 @@
 	"***SUPERNOVA***"
 	{
 		"chi"		"**超新星（按W抵抗推力）**"
-		"DoorCountDown"		"2"
+		"DoorCountdown"		"2"
 	}
 	"***SERVANTS***"
 	{
 		"chi"		"**尸笼（回头防守僵尸）**"
-		"DoorCountDown"		"2"
+		"DoorCountdown"		"2"
 	}
 	"***SABER***"
 	{
 		"chi"		"**利刃**"
-		"DoorCountDown"		"2"
+		"DoorCountdown"		"2"
 	}
 	"***BLACK HOLE***"
 	{
 		"chi"		"**黑洞（按S抵抗吸力）**"
-		"DoorCountDown"		"2"
+		"DoorCountdown"		"2"
 	}
 	"***DEATH LIGHT***"
 	{
 		"chi"		"**死亡光线（蹲下躲避刀刃）**"
-		"DoorCountDown"		"2"
+		"DoorCountdown"		"2"
 	}
 	"***You take too much of time!!!***"
 	{
@@ -612,12 +612,12 @@
 	"***Lasers!!!***"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"***Lasers!!!**"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"***The portal will activate in 70s***"
 	{

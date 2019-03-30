@@ -64,49 +64,49 @@
 	{
 		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  33 ###"
 	{
 		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  81 ###"
 	{
 		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FIRE SKILL CASTING  17 ###"
 	{
 		"chi"		"**随机技能-毁灭之火 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FIRE SKILL CASTING  77 ###"
 	{
 		"chi"		"**随机技能-毁灭之火  **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FIRE SKILL CASTING  36 ###"
 	{
 		"chi"		"**随机技能-毁灭之火 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FREEZING WIND SKILL CASTING  29 ###"
 	{
 		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM COME CLOSER CASTING  68 ###"
 	{
 		"chi"		"**随机技能-黑洞篡夺 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### YOU CAN BE SURE ###"
 	{
@@ -215,7 +215,7 @@
 	"### BRIDGE BREAKS IN 15 SECONDS"
 	{
 		"chi"		"**桥梁15秒后断裂 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
 	{
@@ -225,13 +225,13 @@
 	{
 		"chi"		"**随机技能-黑洞篡夺 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### RANDOM FIRE SKILL CASTING  25 ###"
 	{
 		"chi"		"**随机技能-毁灭之火 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### CONGRATULATION YOU WON THE MAP ###"
 	{
@@ -277,47 +277,47 @@
 	{
 		"chi"		"**随机技能-冻结之风 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### COME CLOSER CASTING   29 ###"
 	{
 		"chi"		"**随机技能-暗影撺掇 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FREEZING WIND SKILL CASTING  81 ###"
 	{
 		"chi"		"**随机技能-冻结之风：81**"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"###  FIRE SKILL CASTING  43 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：43**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### COME CLOSER CASTING  68 ###"
 	{
 		"chi"		"**随机技能-暗影撺掇：68**"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FREEZING WIND SKILL CASTING  29 ###"
 	{
 		"chi"		"**随机技能-冻结之风：29**"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  25 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：25**"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
 	{
 		"chi"		"**你必须在2分20秒内杀死BOSS **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"### ACTIVE THE C4 TO DESTROY THE BRIDGE ###"
 	{
@@ -326,27 +326,27 @@
 	"### FIRE SKILL CASTING  77 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：77**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  36 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：36**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  17 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：17**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FREEZING WIND SKILL CASTING  33 ###"
 	{
 		"chi"		"**随机技能-冻结之风：33**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  63 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：63**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
 	{
@@ -383,12 +383,12 @@
 	"### FIRE SKILL CASTING  19 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：19**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  79 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：79**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FREEZING WIND SKILL CASTING ###"
 	{
@@ -397,22 +397,22 @@
 	"###  FIRE SKILL CASTING  73 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：73**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  93 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：93**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### COME CLOSER CASTING  55 ###"
 	{
 		"chi"		"**随机技能-暗影撺掇：55**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"### FIRE SKILL CASTING  13 ###"
 	{
 		"chi"		"**随机技能-毁灭之火：13**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"III PLAYER HAS PICKED UP BIOBOMB III"
 	{

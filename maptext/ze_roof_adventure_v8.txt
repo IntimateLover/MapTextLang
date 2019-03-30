@@ -256,19 +256,19 @@
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往后的推力！（准备按住W）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往前的推力！（准备按住S）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Hold for 45s!***"
 	{
 		"chi"		"**坚守45秒！**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"***Zombies will come in 12s!***"
 	{
@@ -301,13 +301,13 @@
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往左的推力！（准备按住D）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往右的推力！（准备按住A）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"ico"		"icon_fire"
 	}
 	"***A human has picked up unlimited ammo!***"

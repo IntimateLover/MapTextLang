@@ -106,39 +106,39 @@
 	}
 	"hold for 60 seconds till the door closes!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60s,等待门关**"
 	}
 	"Act-3 : The Path to the Skyline!"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关:通向天涯之路**"
 	}
 	"Path opens in a minute!"
 	{
-		"chi"		"** **"
+		"chi"		"**道路60s后打开**"
 	}
 	"path opens in 20 Seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**20s后道路打开**"
 	}
 	"Way opens in 30 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**路在30s后打开**"
 	}
 	"Way opens in 10 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**路在10s后打开**"
 	}
 	"Way is not open????????"
 	{
-		"chi"		"** **"
+		"chi"		"**路为什么不开？**"
 	}
 	"Perhaps you should wait a bit more!"
 	{
-		"chi"		"** **"
+		"chi"		"**或许你要再等会**"
 	}
 	"Door opens in 20 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20s后打开**"
 	}
 	"Sky Elevator leaves in 1.20 minutes."
 	{

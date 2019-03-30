@@ -2,23 +2,23 @@
 {
 	"Lab door 2 will open in 13 seconds"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
-		"DoorCountDown"		"9"
+		"DoorCountdown"		"9"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
-		"DoorCountDown"		"18"
+		"DoorCountdown"		"18"
 	}
 	"Lab door 1 will open in 11 seconds"
 	{
-		"DoorCountDown"		"11"
+		"DoorCountdown"		"11"
 	}
 	"Lab door 2 will open for zombies in 18 seconds"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -218,6 +218,6 @@
 	}
 	"***The gate 1 will open in 30 seconds***"
 	{
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 }

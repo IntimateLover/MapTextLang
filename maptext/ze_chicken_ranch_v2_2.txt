@@ -227,7 +227,7 @@
 	"** RESIST! THE ELEVATOR DOOR WILL BE OPENING SOON! **"
 	{
 		"chi"		"**坚持住，电梯门马上就开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** GET INSIDE! THE ELEVATOR IS LEAVING SOON! **"
 	{
@@ -252,7 +252,7 @@
 	"** The helicopters engines will take a bit to warm up! Dont let them through! **"
 	{
 		"chi"		"**飞机的系统需要一段时间来预热..不要让那些感染者通过这里..**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"** DONT GIVE UP! HOLD IT! **"
 	{

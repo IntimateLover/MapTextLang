@@ -2,10 +2,10 @@
 {
 	"**Defend until something happens**"
 	{
-		"DoorCountDown"		"33"
+		"DoorCountdown"		"33"
 	}
 	"**Defend until the teleport activates**"
 	{
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 }

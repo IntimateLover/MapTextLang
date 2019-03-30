@@ -10,7 +10,7 @@
 	}
 	"-- Sounds from & Respect to ze_grau_a03_4f --"
 	{
-		"chi"		"**admin**"
+		"chi"		"**音乐和设计参考ze_grau_a03_4f**"
 	}
 	"-- Mapped by NK.NWBK --"
 	{
@@ -94,6 +94,34 @@
 	}
 	"-- Avoid Red --"
 	{
-		"chi"		"** **"
+		"chi"		"**躲避红块**"
+	}
+	"-- Defend For 20 More Seconds--"
+	{
+		"chi"		"**继续防守20s**"
+	}
+	"--Teleport In 10 Seconds--"
+	{
+		"chi"		"**10s后传送**"
+	}
+	"--Defend For 25 More Seconds--"
+	{
+		"chi"		"**防守25s**"
+	}
+	"--Defend for 20 more Seconds--"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"--Defend For 28 Seconds--"
+	{
+		"chi"		"**防守28秒**"
+	}
+	"Survive For 60 Seconds"
+	{
+		"chi"		"**存活60秒**"
+	}
+	"--Defend For 60 Seconds--"
+	{
+		"chi"		"**守住60s**"
 	}
 }

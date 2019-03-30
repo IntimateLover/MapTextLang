@@ -55,7 +55,7 @@
 	"**Defend here for 25 seconds until the gates open**"
 	{
 		"chi"		"**在门开之前守住25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
@@ -64,17 +64,17 @@
 	"**The barman will open the door in 5 seconds**"
 	{
 		"chi"		"**酒吧大门将在5秒后打开**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
 		"chi"		"**僵尸来了 坚守25秒直到酒吧后门打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**5 seconds left**"
 	{
 		"chi"		"**还剩最后5秒**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**FALL BACK**"
 	{
@@ -87,7 +87,7 @@
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
 		"chi"		"**岩石将在25秒后爆炸**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**A player has picked up EARTH materia**"
 	{
@@ -96,7 +96,7 @@
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**A player has picked up FIRE materia**"
 	{
@@ -105,7 +105,7 @@
 	"**The gates of gi cave will open in 15 seconds**"
 	{
 		"chi"		"**开关按下  矿洞大门将在15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**A player has picked up SLEEP materia**"
 	{
@@ -122,7 +122,7 @@
 	"**The gi gate will open in 35 seconds**"
 	{
 		"chi"		"**35秒后开门**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"[Cloud] Ay.. There you are!"
 	{
@@ -167,17 +167,17 @@
 	"**Gi Nattak is using wind**"
 	{
 		"chi"		"**吉·纳克使用了风想把你推下去（对着平台中心按W）**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
 		"chi"		"**吉·纳克使用了火焰新星，快远离场地中心**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using aspil**"
 	{
 		"chi"		"**吉·纳克使用了**Aspil**灵魂摄取，蹲下躲避**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
@@ -194,12 +194,12 @@
 	"**DOOR OPENS IN 40 SECONDS**"
 	{
 		"chi"		"**大门40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**10 SECONDS LEFT**"
 	{
 		"chi"		"**还剩10秒**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**This is your last hold point**"
 	{
@@ -208,7 +208,7 @@
 	"**Get on the rocks and hold 25 seconds**"
 	{
 		"chi"		"**快上那块石头还有25秒核爆**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
@@ -265,7 +265,7 @@
 	"**Gi Nattak is using gravity**"
 	{
 		"chi"		"**吉·纳克使用了黑洞，按住S抵挡**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using silence**"
 	{
@@ -274,7 +274,7 @@
 	"**Gi Nattak is using poison**"
 	{
 		"chi"		"**吉·纳克使用了剧毒，小心脚底的绿光毒素**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**Gi Nattak has healed 150 hp**"
 	{
@@ -334,7 +334,7 @@
 	"**The rock will explode in 25 seconds**"
 	{
 		"chi"		"**炸弹坏了？？？快找找其他路20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
@@ -379,12 +379,12 @@
 	"**GI NATTAK USES LAVA SUPERATTACK**"
 	{
 		"chi"		"**吉·纳克使用超级岩浆攻击~（快看左右，后面找石头跳上去）**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**Get on the rocks to get saved!!!**"
 	{
 		"chi"		"**想活下来就赶紧爬上石头**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**"
 	{
@@ -417,17 +417,17 @@
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
 		"chi"		"**守住这里10秒 直到我们清理完这里的障碍物 不要靠近会爆炸！**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**The airship to Shinra will arrive in 30 seconds**"
 	{
 		"chi"		"**去神罗基地的飞船30秒后到达**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
 	{
 		"chi"		"**克劳德 坚持住！我会带你上飞艇，然后我们会去神罗基地**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
 	{
@@ -440,7 +440,7 @@
 	"**The gates will open in 30 seconds**"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
 	{
@@ -457,17 +457,17 @@
 	"**Wait 5 more seconds**"
 	{
 		"chi"		"**再等5秒**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**Shinra gates will open in 25 seconds**"
 	{
 		"chi"		"**神罗基地大门打开了**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The gates will open in 15 seconds**"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
@@ -500,12 +500,12 @@
 	"**The power is lost. Defend until the emergency generators are on**"
 	{
 		"chi"		"**电力系统失效 防守到备用电源启动**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**We got the power. The gates will open in 15 seconds**"
 	{
 		"chi"		"**OK 我们获得了电力 15秒后大门打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Nades do more damage. **"
 	{
@@ -554,7 +554,7 @@
 	"**2 MINUTES LEFT!**"
 	{
 		"chi"		"**2分钟剩余**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Zombie cactus has been picked up**"
 	{
@@ -563,7 +563,7 @@
 	"**1 MINUTES LEFT!**"
 	{
 		"chi"		"**1分钟剩余**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**30 SECONDS LEFT!**"
 	{
@@ -612,7 +612,7 @@
 	"**arning：3 blue laser**"
 	{
 		"chi"		"**注意：最后3蓝刀**"
-		"DoorCountDown"		"7"
+		"DoorCountdown"		"7"
 	}
 	"**Only 1 blue laser**"
 	{

@@ -15,7 +15,7 @@
 	"A safehouse spawned at spawn."
 	{
 		"chi"		"**一个安全屋在出生点刷新 **"
-		"DoorCountDown"		"8"
+		"DoorCountdown"		"8"
 	}
 	"CT flags can now teleport humans back to spawn."
 	{
@@ -36,7 +36,7 @@
 	"Safehouse doors closing in 30 seconds."
 	{
 		"chi"		"**安全屋大门将在30秒后关闭 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"Safehouse doors closing in 20 seconds."
 	{

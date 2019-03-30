@@ -35,7 +35,7 @@
 	"*Water deposit door opening in 15 seconds*"
 	{
 		"chi"		"**蓄水池大门将在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*TNT will explode in 7 seconds.*"
 	{
@@ -52,7 +52,7 @@
 	"*Garage door opening in 38 seconds*"
 	{
 		"chi"		"**车库大门将在38秒后打开 **"
-		"DoorCountDown"		"38"
+		"DoorCountdown"		"38"
 	}
 	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
 	{
@@ -81,7 +81,7 @@
 	"*The truck will leave in 15 seconds. Resist!*"
 	{
 		"chi"		"**卡车将在15秒后离开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*Exit door opening in 5 seconds*"
 	{
@@ -210,7 +210,7 @@
 	"*It has a 90 seconds cooldown.*"
 	{
 		"chi"		"**它有90秒的冷却时间 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*Vault area opening in 20 seconds.*"
 	{
@@ -219,7 +219,7 @@
 	"*Door opening in 15 seconds. RESIST!*"
 	{
 		"chi"		"**门将在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	{
@@ -256,7 +256,7 @@
 	"*Calling the escape boat. Resist untill it comes! (30 sec)*"
 	{
 		"chi"		"**正在呼叫逃生船 防御30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*The boat is here. Get on it!!!*"
 	{
@@ -313,7 +313,7 @@
 	"*Elevator leaves in 10 seconds.*"
 	{
 		"chi"		"**电梯将在10秒后离开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** GO! **"
 	{
@@ -450,7 +450,7 @@
 	"*It has a 120 seconds cooldown.*"
 	{
 		"chi"		"**它有120秒冷却时间 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
 	{
@@ -463,7 +463,7 @@
 	"*Maintenance elevator leaves in 30 seconds*"
 	{
 		"chi"		"**维护电梯将在30秒后离开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
 	{
@@ -600,7 +600,7 @@
 	"* Defend the bridge for 30 seconds until it is blown up!!! *"
 	{
 		"chi"		"**守住大桥直到它炸掉 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"* Zombies must go through the sewer. *"
 	{
@@ -637,7 +637,7 @@
 	"* Elevator's power restoring... It will leave in 20 seconds *"
 	{
 		"chi"		"**电梯电源已重启 电梯将在20秒后上升 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"* GO! GO! GO!*"
 	{
@@ -650,7 +650,7 @@
 	"* Defend this floor for 30 seconds!!! *"
 	{
 		"chi"		"**防御这层楼30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
 	{
@@ -676,17 +676,17 @@
 	"* The door is opening in 25 seconds... RESIST! *"
 	{
 		"chi"		"**门将在25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"* Second door opens in 10 seconds. *"
 	{
 		"chi"		"**第二扇门将在10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"* Helicopter leaves in 50 seconds. *"
 	{
 		"chi"		"**直升机将在50秒后离开 **"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"* Helicopter leaves in 20 seconds. RESIST!!! *"
 	{

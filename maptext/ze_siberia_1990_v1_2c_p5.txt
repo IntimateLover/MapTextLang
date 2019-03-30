@@ -3,7 +3,7 @@
 	"Warping all players to Siberia in 15 seconds."
 	{
 		"chi"		"**15秒 后传送玩家至 steam冬日特卖 西伯利亚**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"Objective. Find and destroy the source of the outbreak."
 	{
@@ -12,7 +12,7 @@
 	"Overriding security breach 30 seconds"
 	{
 		"chi"		"**还有 30秒 后边大门打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"Proximity mine obtained!"
 	{
@@ -21,7 +21,7 @@
 	"The promixity mine can be used every 24 seconds."
 	{
 		"chi"		"**提莫 每 24秒 能种 共产主义之雷 1次**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"10 seconds left"
 	{
@@ -34,7 +34,7 @@
 	"Dam door closing in 10 seconds"
 	{
 		"chi"		"**内（水）部（坝）大门将在 10秒后关闭**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Zombie spawns are advancing in 20 seconds"
 	{
@@ -43,7 +43,7 @@
 	"Reducing steam pressure 10 seconds"
 	{
 		"chi"		"**steam 冬日打（压）折（压） 持续 10秒！ **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Steam pressure at 66%"
 	{
@@ -64,12 +64,12 @@
 	"Dam door opening in 20 seconds"
 	{
 		"chi"		"**真理门将在20秒后开启!**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"Dam door closing in 5 seconds"
 	{
 		"chi"		"**门将在5秒后关闭!**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"Push gun obtained!"
 	{
@@ -78,12 +78,12 @@
 	"The push gun can be used every 45 seconds."
 	{
 		"chi"		"**每 45秒 可以用一次 噗嘘淦 记得看情况射临时（丧）工（尸）哦**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"Door opening in 20 seconds"
 	{
 		"chi"		"**门将在20秒后开启**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"Door opening in 10 seconds"
 	{
@@ -92,7 +92,7 @@
 	"Door closing in 10 seconds"
 	{
 		"chi"		"**门将在10秒后关闭**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Zombie spawns advancing in 25 seconds"
 	{
@@ -101,12 +101,12 @@
 	"Door opening in 30 seconds"
 	{
 		"chi"		"**门将在30秒后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"Arming C4 in 30 seconds"
 	{
 		"chi"		"**安装GTX690战术核C4 预计30秒（淦你大爷的 匹配这么久 T早灭队了）**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"C4 armed in 10 seconds"
 	{
@@ -127,17 +127,17 @@
 	"Elevator doors opening in 20 seconds"
 	{
 		"chi"		"**steam员工电梯将在20秒后开启!**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"Elevator doors closing in 10 seconds"
 	{
 		"chi"		"**steam员工电梯将在10秒后关闭!**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Time portal will open in 50 seconds"
 	{
 		"chi"		"**后宫沃兹高阶法师肉丸 59.99美元传送门 将在50秒 后启动!**"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"Zombie spawn advancing in 10 seconds"
 	{
@@ -154,7 +154,7 @@
 	"30 SECONDS"
 	{
 		"chi"		"**30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"10 seconds"
 	{

@@ -23,7 +23,7 @@
 	"* * * Zombie Shield Disable in 20 Seconds! * * *"
 	{
 		"chi"		"**僵尸护盾在12s后关闭！**"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"* * * Zombie Shield Disabled! * * *"
 	{

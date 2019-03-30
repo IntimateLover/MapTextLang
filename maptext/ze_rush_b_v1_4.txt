@@ -24,7 +24,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** DOOR OPENS IN 30 SECONDS ***"
+	"*** Door opens in 30 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -91,7 +91,7 @@
 	"*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"*** GOOD JOB, YOU DID IT! ***"
 	{
@@ -118,6 +118,30 @@
 		"chi"		"** **"
 	}
 	"*** TRIO WIN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVES IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CRACKING THE CODE OF THE DOOR... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** F%&K, THE PATH IS BLOCKED... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ... WE NEED TO FIND ANOTHER WAY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ONE OF THE DOORS UNLOCK SOON ***"
 	{
 		"chi"		"** **"
 	}

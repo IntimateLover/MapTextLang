@@ -7,7 +7,7 @@
 	"**Rocks breaking in 25 seconds!**"
 	{
 		"chi"		"**石头将在25秒后碎裂**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**Rocks breaking in 10 seconds!**"
 	{
@@ -32,7 +32,7 @@
 	"**Defend for 45 seconds!**"
 	{
 		"chi"		"**防守这里45秒！**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"**25 seconds are left**"
 	{
@@ -61,7 +61,7 @@
 	"**The path will be free in 15 seconds**"
 	{
 		"chi"		"**道路将在15秒后被清理出来**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**5 SECONDS ARE LEFT!**"
 	{
@@ -82,13 +82,13 @@
 	"**Defend for 15 seconds!**"
 	{
 		"chi"		"**坚守这里15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**Defend 5 seconds!**"
 	{
 		"chi"		"**坚守5秒**"
 	}
-	"**Fall back!**"
+	"**Fall Back!**"
 	{
 		"chi"		"**快跑**"
 	}
@@ -104,7 +104,7 @@
 	"**The boat will leave in 30 seconds!**"
 	{
 		"chi"		"**船将在30秒后离开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**If you still got the crystal throw it into the boat**"
 	{
@@ -138,7 +138,7 @@
 	"**The path will be cleared in 35 seconds!**"
 	{
 		"chi"		"**道路将在35秒后清理出来**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"**The path will be cleared in 20 seconds!**"
 	{
@@ -167,7 +167,7 @@
 	"**You pressed the button! The rocks will be removed in 20 seconds!**"
 	{
 		"chi"		"**开关按了，石头将在20秒后被移开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**10 seconds are left**"
 	{
@@ -184,7 +184,7 @@
 	"**The path will be free in 30 seconds!**"
 	{
 		"chi"		"**道路将在30秒后被清理掉**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**Hold for 20 seconds!**"
 	{
@@ -205,7 +205,7 @@
 	"**Defend 30 seconds**"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**Defend 20 seconds!**"
 	{
@@ -230,7 +230,7 @@
 	"**Hold here for 15 seconds!**"
 	{
 		"chi"		"**守住这里15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**5 seconds left!**"
 	{
@@ -248,7 +248,7 @@
 	"**Perharps if you defend with patience for 45 seconds some deus ex machina will happen**"
 	{
 		"chi"		"**也许我们再守45秒，会发生一些能解围的事情**"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"** KEEP IT UP! 30 SECONDS LEFT!**"
 	{
@@ -281,7 +281,7 @@
 	"**Gate opening in 20 seconds**"
 	{
 		"chi"		"**大门将在20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Gate opening in 5 seconds**"
 	{
@@ -302,7 +302,7 @@
 	"**Good job you pressed the lever! The door will open in 30 seconds!**"
 	{
 		"chi"		"**好的，开关已经按下了，大门30秒后打开！**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**15 seconds left!**"
 	{
@@ -311,7 +311,7 @@
 	"**Hold 20 seconds!**"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Hold 10 seconds!**"
 	{
@@ -328,7 +328,7 @@
 	"**The gates of the E%ecutor will open in 40 seconds!**"
 	{
 		"chi"		"**执行者的大门将在40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**The gates of the E%ecutor will open in 25 seconds!!**"
 	{
@@ -358,7 +358,7 @@
 	"**GET BACK!**"
 	{
 		"chi"		"**后退**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**IF YOU DONT STAY IN THE MIDDLE YOUR DEAD**"
 	{
@@ -369,7 +369,7 @@
 	{
 		"chi"		"**往前走**"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"**EVADE THE FIRE**"
 	{
@@ -387,7 +387,7 @@
 	"**THE MINES ARE COLLAPSING YOU GOT 50 SECONDS TO ESCAPE**"
 	{
 		"chi"		"**炸弹已经安放，我们50秒的时间逃离这里**"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"**All wurzel str?ubers have been used!**"
 	{
@@ -428,7 +428,7 @@
 	"**The path will be cleared in 55 seconds**"
 	{
 		"chi"		"**道路将在55秒后被清理**"
-		"DoorCountDown"		"55"
+		"DoorCountdown"		"55"
 	}
 	"**The path will be cleared in 35 seconds**"
 	{
@@ -441,12 +441,12 @@
 	"**The path will be cleared in 13 seconds**"
 	{
 		"chi"		"**道路将在13秒后被清理**"
-		"DoorCountDown"		"13"
+		"DoorCountdown"		"13"
 	}
 	"**Defend the top of the temple for 40 seconds!**"
 	{
 		"chi"		"**坚守神庙顶端40秒**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**20 seconds left!**"
 	{
@@ -455,7 +455,7 @@
 	"**HOLD 20 SECONDS**"
 	{
 		"chi"		"**守住这里20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**ONE HUMAN MUST HEAD UPWARDS TO TRIGGER THE LEVER FOR UNLOCKING THE GATE**"
 	{

@@ -183,7 +183,7 @@
 	"###  30 seconds  ###"
 	{
 		"chi"		"**三十秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"###  20 seconds  ###"
 	{
@@ -220,7 +220,7 @@
 	"### BOSS room door will be closed in 10 Seconds ###"
 	{
 		"chi"		"**boss门十秒后关闭 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"### All Players that are not in the boss room ###"
 	{

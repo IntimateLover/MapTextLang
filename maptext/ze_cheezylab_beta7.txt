@@ -15,7 +15,7 @@
 	"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
 	{
 		"chi"		"**气闸门出现故障！正在尝试修理，大约需要30秒！**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"--Photonic Blade Obtained: 30 seconds cooldown--"
 	{
@@ -52,7 +52,7 @@
 	"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
 	{
 		"chi"		"**通风系统已被重新设置至装填设备，大约需要25秒！**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*-'Great.Now plant C4 here and run!'-*"
 	{
@@ -73,7 +73,7 @@
 	"*Uploading.Estimated time of completion: 30 seconds*"
 	{
 		"chi"		"**正在上传中，预计30秒完成**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*Upload 50% complete*"
 	{
