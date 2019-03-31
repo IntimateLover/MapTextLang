@@ -224,4 +224,12 @@
 	{
 		"chi"		"** **"
 	}
+	"**Player has picked up <Wisp>**"
+	{
+		"chi"		"** **"
+	}
+	">>Dragon Breath<<"
+	{
+		"chi"		"** **"
+	}
 }

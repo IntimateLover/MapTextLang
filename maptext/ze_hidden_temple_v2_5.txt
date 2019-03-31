@@ -31,7 +31,7 @@
 	"### 10 SECONDS REMAINING ###"
 	{
 		"chi"		"**还剩10秒 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"### FALL BACK NOW !!! ###"
 	{
@@ -40,7 +40,7 @@
 	"### GATE OPEN IN 30 SECONDS ###"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### YOU NEED TO CROSS BACK ###"
 	{
@@ -61,7 +61,7 @@
 	"### BARRELS EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**木桶在30秒后爆炸 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### DONT STAY CLOSE TO THESE BARRELS ###"
 	{
@@ -102,7 +102,7 @@
 	"### 30 SECONDS REMAINING ###"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### FINAL GATES IS OPENING FALL BACK ###"
 	{
@@ -156,7 +156,7 @@
 	"### HOLD FOR 30 SECONDS ###"
 	{
 		"chi"		"**坚持30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"## HOLD HERE FOR A BIT ###"
 	{
@@ -226,7 +226,7 @@
 	"### HOLD BOTH SIDES FOR 30 SECONDS ###"
 	{
 		"chi"		"**守住两边30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"### LEAVE THE ROOM OR DEAD ###"
 	{

@@ -402,4 +402,112 @@
 		"hammerid"		"3021"
 		"m_iname"		"bahamut"
 	}
+	"3058"
+	{
+		"enable"		"0"
+		"hammerid"		"3058"
+		"m_iname"		"epick18"
+	}
+	"3060"
+	{
+		"enable"		"0"
+		"hammerid"		"3060"
+		"m_iname"		"epick4"
+	}
+	"3062"
+	{
+		"enable"		"0"
+		"hammerid"		"3062"
+		"m_iname"		"epick6"
+	}
+	"3066"
+	{
+		"enable"		"0"
+		"hammerid"		"3066"
+		"m_iname"		"epick5"
+	}
+	"3068"
+	{
+		"enable"		"0"
+		"hammerid"		"3068"
+		"m_iname"		"epick7"
+	}
+	"3070"
+	{
+		"enable"		"0"
+		"hammerid"		"3070"
+		"m_iname"		"epick17"
+	}
+	"3072"
+	{
+		"enable"		"0"
+		"hammerid"		"3072"
+		"m_iname"		"epick12"
+	}
+	"3076"
+	{
+		"enable"		"0"
+		"hammerid"		"3076"
+		"m_iname"		"epick15"
+	}
+	"3079"
+	{
+		"enable"		"0"
+		"hammerid"		"3079"
+		"m_iname"		"epick13"
+	}
+	"3082"
+	{
+		"enable"		"0"
+		"hammerid"		"3082"
+		"m_iname"		"epick14"
+	}
+	"3185"
+	{
+		"enable"		"0"
+		"hammerid"		"3185"
+		"m_iname"		"epick8"
+	}
+	"3188"
+	{
+		"enable"		"0"
+		"hammerid"		"3188"
+		"m_iname"		"epick11"
+	}
+	"3191"
+	{
+		"enable"		"0"
+		"hammerid"		"3191"
+		"m_iname"		"epick9"
+	}
+	"3193"
+	{
+		"enable"		"0"
+		"hammerid"		"3193"
+		"m_iname"		"epick10"
+	}
+	"3198"
+	{
+		"enable"		"0"
+		"hammerid"		"3198"
+		"m_iname"		"epick1"
+	}
+	"3201"
+	{
+		"enable"		"0"
+		"hammerid"		"3201"
+		"m_iname"		"epick2"
+	}
+	"3219"
+	{
+		"enable"		"0"
+		"hammerid"		"3219"
+		"m_iname"		"epick3"
+	}
+	"3294"
+	{
+		"enable"		"0"
+		"hammerid"		"3294"
+		"m_iname"		"epick16"
+	}
 }
