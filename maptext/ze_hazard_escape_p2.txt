@@ -2,61 +2,14 @@
 {
 	"map made by salem"
 	{
-		"chi"		"**地图制作：salem 地图翻译：觉醒之刃**"
-	}
-	"**elevator leaving in 5 sec**"
-	{
-		"chi"		"**电梯将在5秒后离开**"
-	}
-	"the boat will depart in 10 secs"
-	{
-		"chi"		"**船将在10秒后离开**"
-	}
-	"gate will open in 10 secs"
-	{
-		"chi"		"**闸门将在20秒后开启**"
-	}
-	"the security door will open in 20 secs"
-	{
-		"chi"		"**安全大门将在20秒后开启**"
-	}
-	"security door has been opened"
-	{
-		"chi"		"**安全大门已开启**"
-	}
-	"*** the hazard door will open in 20 secs ***"
-	{
-		"chi"		"**HAZARD之门将在20秒后开启**"
-		"DoorCountdown"		"20"
+		"chi"		"** **"
 	}
 	"the truck will go in 5 secs"
 	{
-		"chi"		"**卡车将在5秒后启动**"
+		"chi"		"** **"
 	}
 	"the door will open in 30 seconds"
 	{
-		"chi"		"**闸门将在30秒后开启**"
-		"DoorCountdown"		"30"
-	}
-	"the final door will open now"
-	{
-		"chi"		"**最后的闸门已开启！**"
-	}
-	"get safely into the bunker and launch the nuke!"
-	{
-		"chi"		"**进入安全掩体并发射GTX TITAN X！**"
-	}
-	"*** the nerve gas will be enabled in 30 Seconds ***"
-	{
-		"chi"		"**神经毒气将在30秒内释放！**"
-		"DoorCountdown"		"30"
-	}
-	"***HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ***"
-	{
-		"chi"		"**坚守住！掩体大门很快就会关闭！**"
-	}
-	"*** the nerve gas will be enabled in 15 Seconds ***"
-	{
-		"chi"		"**神经毒气将在15秒后释放！不要松懈，继续开火！**"
+		"chi"		"** **"
 	}
 }

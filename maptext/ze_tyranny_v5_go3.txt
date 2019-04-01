@@ -401,7 +401,6 @@
 	">>> BALROG HEALED 150HP <<<"
 	{
 		"chi"		">>>炎魔回复了150HP<<<"
-		"DoorCountdown"		"-1"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{

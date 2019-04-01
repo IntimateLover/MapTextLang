@@ -386,15 +386,15 @@
 	}
 	"**Defend here until paper wall destory*"
 	{
-		"chi"		"**守住这里直到纸墙碎掉**"
+		"chi"		"** **"
 	}
 	"**It only has ten use**"
 	{
-		"chi"		"**它只能用10次**"
+		"chi"		"** **"
 	}
 	"**A path has appeared!**Fall back**"
 	{
-		"chi"		"**一条路出现了！跑过去！**"
+		"chi"		"** **"
 	}
 	"**FALL BACK**"
 	{
