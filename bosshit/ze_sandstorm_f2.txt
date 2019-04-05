@@ -117,13 +117,49 @@
 	"8382173"
 	{
 		"enable"		"1"
+		"hammerid"		"8382173"
+		"m_iname"		"mutant_hitbox"
 	}
 	"9609216"
 	{
 		"enable"		"1"
+		"hammerid"		"9609216"
+		"m_iname"		"mutant_hitbox1"
 	}
 	"13344452"
 	{
 		"enable"		"1"
+		"hammerid"		"13344452"
+		"m_iname"		"grg_hitbox"
+	}
+	"8616970"
+	{
+		"enable"		"0"
+		"hammerid"		"8616970"
+		"m_iname"		"zm_jail_wall"
+	}
+	"8819612"
+	{
+		"enable"		"0"
+		"hammerid"		"8819612"
+		"m_iname"		"elevator_door"
+	}
+	"8742763"
+	{
+		"enable"		"0"
+		"hammerid"		"8742763"
+		"m_iname"		"br_end_l3"
+	}
+	"12797155"
+	{
+		"enable"		"0"
+		"hammerid"		"12797155"
+		"m_iname"		"ph_crystal_ph"
+	}
+	"14011554"
+	{
+		"enable"		"0"
+		"hammerid"		"14011554"
+		"m_iname"		"sss5_brr"
 	}
 }
