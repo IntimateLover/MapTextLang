@@ -126,4 +126,16 @@
 		"hammerid"		"11314"
 		"m_iname"		"First_Breakable"
 	}
+	"142414"
+	{
+		"enable"		"0"
+		"hammerid"		"142414"
+		"m_iname"		"Fan_Phys"
+	}
+	"33790"
+	{
+		"enable"		"0"
+		"hammerid"		"33790"
+		"m_iname"		"Level2_Fake_Platform"
+	}
 }

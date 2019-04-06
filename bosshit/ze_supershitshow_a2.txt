@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&7768"
+		"m_iname"		"ChopperRotator&7652"
 	}
 	"20547"
 	{
@@ -82,13 +82,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82282"
-		"m_iname"		"Ladder&7694"
+		"m_iname"		"Ladder&7513"
 	}
 	"82299"
 	{
 		"enable"		"0"
 		"hammerid"		"82299"
-		"m_iname"		"ProjectileFreezerPhysics&5614"
+		"m_iname"		"ProjectileFreezerPhysics&7349"
 	}
 	"20891"
 	{
@@ -142,7 +142,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82726"
-		"m_iname"		"ProjectilePulverizerPhysics&762"
+		"m_iname"		"ProjectilePulverizerPhysics&759"
 	}
 	"35519"
 	{
@@ -166,13 +166,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82904"
-		"m_iname"		"FirePhysicsCore&7637"
+		"m_iname"		"FirePhysicsCore&7410"
 	}
 	"183393"
 	{
 		"enable"		"1"
 		"hammerid"		"183393"
-		"m_iname"		"FaceBossSideWalls&7895"
+		"m_iname"		"FaceBossSideWalls&7419"
 	}
 	"144213"
 	{
@@ -238,31 +238,31 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&7734"
+		"m_iname"		"FlyingRatPhys&7622"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&7743"
+		"m_iname"		"TowerPhys&7630"
 	}
 	"275194"
 	{
 		"enable"		"0"
 		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&7519"
+		"m_iname"		"KleinerPhys&7426"
 	}
 	"282149"
 	{
 		"enable"		"0"
 		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&7"
+		"m_iname"		"ItemZombieMonsterChickenBreak&5"
 	}
 	"303199"
 	{
 		"enable"		"0"
 		"hammerid"		"303199"
-		"m_iname"		"DoorwayDoor&7512"
+		"m_iname"		"DoorwayDoor&7433"
 	}
 	"313386"
 	{
@@ -286,55 +286,55 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273335"
-		"m_iname"		"george_cades_toilet_box&7702"
+		"m_iname"		"george_cades_toilet_box&6668"
 	}
 	"273329"
 	{
 		"enable"		"0"
 		"hammerid"		"273329"
-		"m_iname"		"george_cades_shelf_box&7711"
+		"m_iname"		"george_cades_shelf_box&6677"
 	}
 	"273398"
 	{
 		"enable"		"0"
 		"hammerid"		"273398"
-		"m_iname"		"george_cades_vendy_box&7714"
+		"m_iname"		"george_cades_vendy_box&6679"
 	}
 	"273332"
 	{
 		"enable"		"0"
 		"hammerid"		"273332"
-		"m_iname"		"george_cades_sandbag_box&7718"
+		"m_iname"		"george_cades_sandbag_box&6684"
 	}
 	"273338"
 	{
 		"enable"		"0"
 		"hammerid"		"273338"
-		"m_iname"		"george_cades_haybale_box&7724"
+		"m_iname"		"george_cades_haybale_box&6687"
 	}
 	"273326"
 	{
 		"enable"		"0"
 		"hammerid"		"273326"
-		"m_iname"		"george_cades_bench_box&7726"
+		"m_iname"		"george_cades_bench_box&6692"
 	}
 	"273723"
 	{
 		"enable"		"0"
 		"hammerid"		"273723"
-		"m_iname"		"RockBarricadePhys&7788"
+		"m_iname"		"RockBarricadePhys&6755"
 	}
 	"200904"
 	{
 		"enable"		"0"
 		"hammerid"		"200904"
-		"m_iname"		"MissilePhysbox&7797"
+		"m_iname"		"MissilePhysbox&7663"
 	}
 	"281426"
 	{
 		"enable"		"0"
 		"hammerid"		"281426"
-		"m_iname"		"SpitPhys&1379"
+		"m_iname"		"SpitPhys&6535"
 	}
 	"308621"
 	{
