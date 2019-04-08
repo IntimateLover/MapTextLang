@@ -14,15 +14,15 @@
 	}
 "**Door will open in 30 seconds**"
 {
-		"chi"		"**门将在30秒内打开**"
+		"chi"		"**洞穴大门将在30秒内打开**"
 	}
 "**Door will open in 10 seconds**"
 {
-		"chi"		"**门将在10秒内打开**"
+		"chi"		"**洞穴大门将在10秒内打开**"
 	}
 "**Door will open in 20 seconds**"
 {
-		"chi"		"**门将在20秒内打开**"
+		"chi"		"**洞穴大门将在20秒内打开**"
 	}
 "**Rocks will break in 15 seconds**"
 {
@@ -82,11 +82,11 @@
 	}
 "**It shouldn't be so quiet like what it covers, something must be hiding below.**"
 {
-		"chi"		"**它不应该像它所标现的那样安静，一定有什么东西藏在下面。**"
+		"chi"		"**这个洞穴不像它所表现的那样平常，一定有什么东西藏在下面。**"
 	}
 "**Strange, where can we find that coagent...?**"
 {
-		"chi"		"**奇怪，我们在哪里能找到那个帮手?**"
+		"chi"		"**奇怪，我们能在哪里能找到帮手?**"
 	}
 "**Player has picked up <Mimir>**"
 {
