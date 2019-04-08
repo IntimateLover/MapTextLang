@@ -1,0 +1,87 @@
+"BOSSHP"
+{
+	"252873"
+	{
+		"enable"		"0"
+		"hammerid"		"252873"
+		"m_iname"		"S1_Rock_4"
+	}
+	"166196"
+	{
+		"enable"		"0"
+		"hammerid"		"166196"
+		"m_iname"		"S1_Phy_3"
+	}
+	"170520"
+	{
+		"enable"		"0"
+		"hammerid"		"170520"
+		"m_iname"		"S1_Phy_4"
+	}
+	"172809"
+	{
+		"enable"		"0"
+		"hammerid"		"172809"
+		"m_iname"		"S1_Phy_5"
+	}
+	"173067"
+	{
+		"enable"		"0"
+		"hammerid"		"173067"
+		"m_iname"		"S1_Phy_6"
+	}
+	"141822"
+	{
+		"enable"		"0"
+		"hammerid"		"141822"
+		"m_iname"		"S1_Rock_2"
+	}
+	"39953"
+	{
+		"enable"		"0"
+		"hammerid"		"39953"
+		"m_iname"		"S0_Boat_Cage"
+	}
+	"41249"
+	{
+		"enable"		"1"
+		"hammerid"		"41249"
+		"m_iname"		"S0_Hogg_Hitbox"
+	}
+	"349719"
+	{
+		"enable"		"0"
+		"hammerid"		"349719"
+		"m_iname"		"S2_Rock_6"
+	}
+	"544787"
+	{
+		"enable"		"0"
+		"hammerid"		"544787"
+		"m_iname"		"S2_Stairs_Break"
+	}
+	"563525"
+	{
+		"enable"		"1"
+		"hammerid"		"563525"
+		"m_iname"		"Diablo_Hitbox_2"
+	}
+	"563592"
+	{
+		"enable"		"1"
+		"hammerid"		"563592"
+		"m_iname"		"Diablo_Hitbox_3"
+	}
+	"513712"
+	{
+		"enable"		"0"
+		"hammerid"		"513712"
+		"m_iname"		"Diablo_Move_Phys"
+	}
+	"517962"
+	{
+		"enable"		"1"
+		"hammerid"		"517962"
+		"m_iname"		"Diablo_Hitbox"
+	}
+}

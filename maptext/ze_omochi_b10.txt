@@ -1,59 +1,120 @@
 "Console_T"
 {
-"*** up ***"
-{
+	"*** up ***"
+	{
 		"chi"		"** 按住跳 **"
 	}
-"35..."
-{
+	"35..."
+	{
 		"chi"		"**35秒**"
 	}
-"40..."
-{
+	"40..."
+	{
 		"chi"		"**40秒**"
 	}
-"20..."
-{
+	"20..."
+	{
 		"chi"		"**20秒**"
 	}
-"25...."
-{
+	"25...."
+	{
 		"chi"		"**25秒**"
 	}
-45...."
+	"45...."		"
 {
-		"chi"		"**45秒**"
+		"
+	"chi"		"		"
+	"**45秒**"		"
 	}
-"50...."
+"
+	"50...."		"
 {
-		"chi"		"**50秒**"
+		"
+	"chi"		"		"
+	"**50秒**"		"
 	}
-"<A player picked up POSSESSION>"
+"
+	"<A"		"player"
+	"picked"		"up"
+	"POSSESSION>"		"
 {
-		"chi"		"**一名玩家拿到了彩蛋神器**"
+		"
+	"chi"		"		"
+	"**一名玩家拿到了彩蛋神器**"		"
 	}
-"<Press E key for OMOTINKO>"
+"
+	"<Press"		"E"
+	"key"		"for"
+	"OMOTINKO>"		"
 {
-		"chi"		"**按E可以唱出OMOTINKO**"
+		"
+	"chi"		"		"
+	"**按E可以唱出OMOTINKO**"		"
 	}
-"*** Laser ***"
+"
+	"***"		"Laser"
+	"***"		"
 {
-		"chi"		"**跳刀!**"
+		"
+	"chi"		"		"
+	"**跳刀!**"		"
 	}
-"*** It going end... ***"
+"
+	"***"		"It"
+	"going"		"end..."
+	"***"		"
 {
-		"chi"		"**到达最后的地点...**"
+		"
+	"chi"		"		"
+	"**到达最后的地点...**"		"
 	}
-"*** You won The Winter Contest ***"
+"
+	"***"		"You"
+	"won"		"The"
+	"Winter"		"Contest"
+	"***"		"
 {
-		"chi"		"**你通过了挑战**"
+		"
+	"chi"		"		"
+	"**你通过了挑战**"		"
 	}
-"Map by XXMochi/XXPohmian"
+"
+	"map"		"by"
+	"XXMochi/XXPohmian"		"
 {
-		"chi"		"**地图制作:XXMochi/XXPohmian 地图翻译:清新的二哈**"
+		"
+	"chi"		"		"
+	"**地图制作:XXMochi/XXPohmian"		"地图翻译:清新的二哈**"
+	"
 	}
-">Thanks for Contesting<"
+"		">Thanks"
+	"for"		"Contesting<"
+	"
 {
-		"chi"		"**>感谢测试<**"
+		"		"chi"
+	"		"		"**>感谢测试<**"
+	"Map by XXMochiXXPohmian"
+	{
+		"chi"		"** **"
+	}
+	">Thanks for Contesting<"
+	{
+		"chi"		"** **"
+	}
+	"<A player picked up POSSESSION>"
+	{
+		"chi"		"** **"
+	}
+	"<Press E key for OMOTINKO>"
+	{
+		"chi"		"** **"
+	}
+	"*** Laser ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It going end... ***"
+	{
+		"chi"		"** **"
 	}
 }
