@@ -20,6 +20,7 @@
 	"--Photonic Blade Obtained: 30 seconds cooldown--"
 	{
 		"chi"		"**光刃已获得，它有30秒的冷却时间！**"
+		"DoorCountdown"		"-1"
 	}
 	"--5 seconds--"
 	{
