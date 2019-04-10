@@ -882,4 +882,52 @@
 		"hammerid"		"1573495"
 		"m_iname"		"l1rt4"
 	}
+	"1252906"
+	{
+		"enable"		"0"
+		"hammerid"		"1252906"
+		"m_iname"		"bd168"
+	}
+	"1146783"
+	{
+		"enable"		"0"
+		"hammerid"		"1146783"
+		"m_iname"		"bd49"
+	}
+	"1146780"
+	{
+		"enable"		"0"
+		"hammerid"		"1146780"
+		"m_iname"		"bd48"
+	}
+	"1146777"
+	{
+		"enable"		"0"
+		"hammerid"		"1146777"
+		"m_iname"		"bd47"
+	}
+	"1146771"
+	{
+		"enable"		"0"
+		"hammerid"		"1146771"
+		"m_iname"		"bd45"
+	}
+	"1146765"
+	{
+		"enable"		"0"
+		"hammerid"		"1146765"
+		"m_iname"		"bd43"
+	}
+	"1146768"
+	{
+		"enable"		"0"
+		"hammerid"		"1146768"
+		"m_iname"		"bd44"
+	}
+	"1146774"
+	{
+		"enable"		"0"
+		"hammerid"		"1146774"
+		"m_iname"		"bd46"
+	}
 }
