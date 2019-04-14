@@ -148,4 +148,16 @@
 		"hammerid"		"123971"
 		"m_iname"		"Doctor"
 	}
+	"197094"
+	{
+		"enable"		"0"
+		"hammerid"		"197094"
+		"m_iname"		"SkyGod"
+	}
+	"168721"
+	{
+		"enable"		"1"
+		"hammerid"		"168721"
+		"m_iname"		"SkyGod_Hitbox"
+	}
 }

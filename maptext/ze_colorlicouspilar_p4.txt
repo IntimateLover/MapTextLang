@@ -23,6 +23,7 @@
 	"***Zombies teleporting in 15 secs. Get ready.***"
 	{
 		"chi"		"**僵尸将在15后传送,准备**"
+		"DoorCountdown"		"-1"
 	}
 	"***Zombies teleporting in 10 secs!***"
 	{
