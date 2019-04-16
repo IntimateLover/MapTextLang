@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"44596"
+	{
+		"enable"		"0"
+		"hammerid"		"44596"
+		"m_iname"		"puerta_2_breakable"
+	}
 	"1001"
 	{
 		"enable"		"0"
@@ -216,6 +222,36 @@
 		"hammerid"		"1251"
 		"m_iname"		"f1"
 	}
+	"1313"
+	{
+		"enable"		"0"
+		"hammerid"		"1313"
+		"m_iname"		"xg4"
+	}
+	"1315"
+	{
+		"enable"		"0"
+		"hammerid"		"1315"
+		"m_iname"		"xg3"
+	}
+	"1317"
+	{
+		"enable"		"0"
+		"hammerid"		"1317"
+		"m_iname"		"xg2"
+	}
+	"1319"
+	{
+		"enable"		"0"
+		"hammerid"		"1319"
+		"m_iname"		"xg1"
+	}
+	"1367"
+	{
+		"enable"		"0"
+		"hammerid"		"1367"
+		"m_iname"		"puertax"
+	}
 	"1393"
 	{
 		"enable"		"0"
@@ -233,6 +269,36 @@
 		"enable"		"0"
 		"hammerid"		"1438"
 		"m_iname"		"trahh"
+	}
+	"1459"
+	{
+		"enable"		"0"
+		"hammerid"		"1459"
+		"m_iname"		"barrerafinal"
+	}
+	"1464"
+	{
+		"enable"		"0"
+		"hammerid"		"1464"
+		"m_iname"		"esc1"
+	}
+	"1466"
+	{
+		"enable"		"0"
+		"hammerid"		"1466"
+		"m_iname"		"br3"
+	}
+	"1468"
+	{
+		"enable"		"0"
+		"hammerid"		"1468"
+		"m_iname"		"bf1"
+	}
+	"1470"
+	{
+		"enable"		"0"
+		"hammerid"		"1470"
+		"m_iname"		"b21"
 	}
 	"1472"
 	{
@@ -299,204 +365,6 @@
 		"enable"		"0"
 		"hammerid"		"1494"
 		"m_iname"		"b6"
-	}
-	"1779"
-	{
-		"enable"		"0"
-		"hammerid"		"1779"
-		"m_iname"		"suelokesecae20"
-	}
-	"1781"
-	{
-		"enable"		"0"
-		"hammerid"		"1781"
-		"m_iname"		"suelokesecae18"
-	}
-	"1783"
-	{
-		"enable"		"0"
-		"hammerid"		"1783"
-		"m_iname"		"suelokesecae19"
-	}
-	"1785"
-	{
-		"enable"		"0"
-		"hammerid"		"1785"
-		"m_iname"		"suelokesecae17"
-	}
-	"1787"
-	{
-		"enable"		"0"
-		"hammerid"		"1787"
-		"m_iname"		"suelokesecae16"
-	}
-	"1789"
-	{
-		"enable"		"0"
-		"hammerid"		"1789"
-		"m_iname"		"suelokesecae14"
-	}
-	"1791"
-	{
-		"enable"		"0"
-		"hammerid"		"1791"
-		"m_iname"		"suelokesecae15"
-	}
-	"1793"
-	{
-		"enable"		"0"
-		"hammerid"		"1793"
-		"m_iname"		"suelokesecae13"
-	}
-	"1795"
-	{
-		"enable"		"0"
-		"hammerid"		"1795"
-		"m_iname"		"suelokesecae12"
-	}
-	"1797"
-	{
-		"enable"		"0"
-		"hammerid"		"1797"
-		"m_iname"		"suelokesecae10"
-	}
-	"1799"
-	{
-		"enable"		"0"
-		"hammerid"		"1799"
-		"m_iname"		"suelokesecae7"
-	}
-	"1915"
-	{
-		"enable"		"0"
-		"hammerid"		"1915"
-		"m_iname"		"r5"
-	}
-	"1917"
-	{
-		"enable"		"0"
-		"hammerid"		"1917"
-		"m_iname"		"r4"
-	}
-	"1920"
-	{
-		"enable"		"0"
-		"hammerid"		"1920"
-		"m_iname"		"r3"
-	}
-	"1922"
-	{
-		"enable"		"0"
-		"hammerid"		"1922"
-		"m_iname"		"r1"
-	}
-	"1926"
-	{
-		"enable"		"0"
-		"hammerid"		"1926"
-		"m_iname"		"r2"
-	}
-	"2269"
-	{
-		"enable"		"0"
-		"hammerid"		"2269"
-		"m_iname"		"rocaprotectora"
-	}
-	"2287"
-	{
-		"enable"		"0"
-		"hammerid"		"2287"
-		"m_iname"		"vidanazgul2"
-	}
-	"3625"
-	{
-		"enable"		"0"
-		"hammerid"		"3625"
-		"m_iname"		"r1"
-	}
-	"3647"
-	{
-		"enable"		"0"
-		"hammerid"		"3647"
-		"m_iname"		"r2"
-	}
-	"6027"
-	{
-		"enable"		"0"
-		"hammerid"		"6027"
-		"m_iname"		"r4"
-	}
-	"193746"
-	{
-		"enable"		"0"
-		"hammerid"		"193746"
-		"m_iname"		"ThisKillsTheFrodo"
-	}
-	"44596"
-	{
-		"enable"		"0"
-		"hammerid"		"44596"
-		"m_iname"		"puerta_2_breakable"
-	}
-	"1313"
-	{
-		"enable"		"0"
-		"hammerid"		"1313"
-		"m_iname"		"xg4"
-	}
-	"1315"
-	{
-		"enable"		"0"
-		"hammerid"		"1315"
-		"m_iname"		"xg3"
-	}
-	"1317"
-	{
-		"enable"		"0"
-		"hammerid"		"1317"
-		"m_iname"		"xg2"
-	}
-	"1319"
-	{
-		"enable"		"0"
-		"hammerid"		"1319"
-		"m_iname"		"xg1"
-	}
-	"1367"
-	{
-		"enable"		"0"
-		"hammerid"		"1367"
-		"m_iname"		"puertax"
-	}
-	"1459"
-	{
-		"enable"		"0"
-		"hammerid"		"1459"
-		"m_iname"		"barrerafinal"
-	}
-	"1464"
-	{
-		"enable"		"0"
-		"hammerid"		"1464"
-		"m_iname"		"esc1"
-	}
-	"1466"
-	{
-		"enable"		"0"
-		"hammerid"		"1466"
-		"m_iname"		"br3"
-	}
-	"1468"
-	{
-		"enable"		"0"
-		"hammerid"		"1468"
-		"m_iname"		"bf1"
-	}
-	"1470"
-	{
-		"enable"		"0"
-		"hammerid"		"1470"
-		"m_iname"		"b21"
 	}
 	"1516"
 	{
@@ -570,6 +438,72 @@
 		"hammerid"		"1756"
 		"m_iname"		"bottonpuerta2"
 	}
+	"1779"
+	{
+		"enable"		"0"
+		"hammerid"		"1779"
+		"m_iname"		"suelokesecae20"
+	}
+	"1781"
+	{
+		"enable"		"0"
+		"hammerid"		"1781"
+		"m_iname"		"suelokesecae18"
+	}
+	"1783"
+	{
+		"enable"		"0"
+		"hammerid"		"1783"
+		"m_iname"		"suelokesecae19"
+	}
+	"1785"
+	{
+		"enable"		"0"
+		"hammerid"		"1785"
+		"m_iname"		"suelokesecae17"
+	}
+	"1787"
+	{
+		"enable"		"0"
+		"hammerid"		"1787"
+		"m_iname"		"suelokesecae16"
+	}
+	"1789"
+	{
+		"enable"		"0"
+		"hammerid"		"1789"
+		"m_iname"		"suelokesecae14"
+	}
+	"1791"
+	{
+		"enable"		"0"
+		"hammerid"		"1791"
+		"m_iname"		"suelokesecae15"
+	}
+	"1793"
+	{
+		"enable"		"0"
+		"hammerid"		"1793"
+		"m_iname"		"suelokesecae13"
+	}
+	"1795"
+	{
+		"enable"		"0"
+		"hammerid"		"1795"
+		"m_iname"		"suelokesecae12"
+	}
+	"1797"
+	{
+		"enable"		"0"
+		"hammerid"		"1797"
+		"m_iname"		"suelokesecae10"
+	}
+	"1799"
+	{
+		"enable"		"0"
+		"hammerid"		"1799"
+		"m_iname"		"suelokesecae7"
+	}
 	"1810"
 	{
 		"enable"		"0"
@@ -587,6 +521,36 @@
 		"enable"		"0"
 		"hammerid"		"1912"
 		"m_iname"		"r6"
+	}
+	"1915"
+	{
+		"enable"		"0"
+		"hammerid"		"1915"
+		"m_iname"		"r5"
+	}
+	"1917"
+	{
+		"enable"		"0"
+		"hammerid"		"1917"
+		"m_iname"		"r4"
+	}
+	"1920"
+	{
+		"enable"		"0"
+		"hammerid"		"1920"
+		"m_iname"		"r3"
+	}
+	"1922"
+	{
+		"enable"		"0"
+		"hammerid"		"1922"
+		"m_iname"		"r1"
+	}
+	"1926"
+	{
+		"enable"		"0"
+		"hammerid"		"1926"
+		"m_iname"		"r2"
 	}
 	"1931"
 	{
@@ -630,11 +594,23 @@
 		"hammerid"		"2267"
 		"m_iname"		"cajasx"
 	}
+	"2269"
+	{
+		"enable"		"0"
+		"hammerid"		"2269"
+		"m_iname"		"rocaprotectora"
+	}
 	"2282"
 	{
 		"enable"		"0"
 		"hammerid"		"2282"
 		"m_iname"		"arr"
+	}
+	"2287"
+	{
+		"enable"		"0"
+		"hammerid"		"2287"
+		"m_iname"		"vidanazgul2"
 	}
 	"2306"
 	{
@@ -678,17 +654,29 @@
 		"hammerid"		"2340"
 		"m_iname"		"rampas"
 	}
+	"3625"
+	{
+		"enable"		"0"
+		"hammerid"		"3625"
+		"m_iname"		"r1"
+	}
+	"3647"
+	{
+		"enable"		"0"
+		"hammerid"		"3647"
+		"m_iname"		"r2"
+	}
+	"6027"
+	{
+		"enable"		"0"
+		"hammerid"		"6027"
+		"m_iname"		"r4"
+	}
 	"22609"
 	{
 		"enable"		"0"
 		"hammerid"		"22609"
 		"m_iname"		"cajas"
-	}
-	"2279"
-	{
-		"enable"		"0"
-		"hammerid"		"2279"
-		"m_iname"		"esca1"
 	}
 	"1760"
 	{

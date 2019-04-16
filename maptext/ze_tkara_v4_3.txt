@@ -7,7 +7,7 @@
 	">>> Hold until the City Doors Open! <<<"
 	{
 		"chi"		"** 守住这个地方直到大门开启 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Cover the windows until we find a way out of here ***"
 	{
@@ -36,21 +36,21 @@
 	">>> Door Opens in 15 seconds <<<"
 	{
 		"chi"		"** 大门将在 15 秒后开启 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** Facility door opens in 25 seconds ***"
 	{
 		"chi"		"** 工厂大门将在 25 秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"*** DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"** 门将在 20 秒后开启 **（在前面守住小门）"
 	}
 	"*** Silo doors open in 25 seconds ***"
 	{
 		"chi"		"** 通往发射井的扇形将在 25 秒后打开 **（回头防守！小心管道僵尸）"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** STARTING THE REACTORS... ***"
 	{
@@ -75,7 +75,7 @@
 	"*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
 	{
 		"chi"		"**  控制室大门将会尽快开启 **（撤退是右边的控制室，跟着地上箭头走）"
-		"DoorCountDown"		"32"
+		"DoorCountdown"		"32"
 	}
 	"*** RESIST! ***"
 	{
@@ -92,12 +92,12 @@
 	"*** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
 	{
 		"chi"		"** 火车会在 45 秒后驶离 **（货物区直走到底然后右拐可以上火车，但是不要急着上火车，先在前面防守一波）"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*** THIS PLACE IS GOING TO BLOW UP IN 1 MINUTE ***"
 	{
 		"chi"		"**还有 60 秒这个地方就要被炸飞!**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"*** Both living room windows are broken! ***"
 	{
@@ -110,7 +110,7 @@
 	"*** Door opens in 25 seconds ***"
 	{
 		"chi"		"** 门将在 25 秒后开启 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** Bathroom and kitchen windows are broken! ***"
 	{
@@ -119,7 +119,7 @@
 	"*** ELEVATOR DOORS OPEN IN 30 SECONDS ***"
 	{
 		"chi"		"** 电梯将在 30 后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** DOORS ARE OPENING ***"
 	{
@@ -200,5 +200,17 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"**感谢体验本地图,,祝大家玩得开心.**"
+	}
+	"*** What is this? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** What is happening? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIMES UP ***"
+	{
+		"chi"		"** **"
 	}
 }

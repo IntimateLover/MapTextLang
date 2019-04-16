@@ -547,7 +547,7 @@
 	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**最后的传送点30秒后激活**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -608,7 +608,7 @@
 	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
 	{
 		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 		"ico"		"icon_fire"
 	}
 	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
@@ -683,7 +683,7 @@
 	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
 	{
 		"chi"		"**一位玩家捡起了小奶（恢复到100血）**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"CUTE CLOUD :Hi,humans..."
 	{
@@ -880,7 +880,7 @@
 	"*** Star road will active in 20 seconds ***"
 	{
 		"chi"		"**星路将在20秒后启动 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Star road will active in 5 seconds ***"
 	{
@@ -898,7 +898,7 @@
 	{
 		"chi"		"**等待发生什么事情**"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -2412,6 +2412,94 @@
 		"chi"		"** **"
 	}
 	"CLOUD FATHER : I will do the my best..."
+	{
+		"chi"		"** **"
+	}
+	"*** FIRST Portal will activate in 20 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FIRST Portal will activate in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 Portal will activate in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 Portal will activate in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 Portal will activate in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 Portal will activate in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will activate in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will activate in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will activate in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will activate in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will activate in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will activate in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will activate in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will activate in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will activate in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will activate in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will activate in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will activate in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will activate in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will activate in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will activate in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will activate in 5 SECONDS***"
 	{
 		"chi"		"** **"
 	}

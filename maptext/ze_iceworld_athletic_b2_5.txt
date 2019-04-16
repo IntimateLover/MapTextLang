@@ -71,6 +71,7 @@
 	"<< You can see there are 8 platforms >>"
 	{
 		"chi"		"**你可以看见这里有8个平台**"
+		"DoorCountdown"		"-1"
 	}
 	"<< After a little time, only 1 platform will be safe >>"
 	{
@@ -191,6 +192,7 @@
 	"<< It seems that you are less than 16 guys >>"
 	{
 		"chi"		"**看起来人类的数量少于16个**"
+		"DoorCountdown"		"-1"
 	}
 	"<< OK, I will let you win this game easier >>"
 	{
