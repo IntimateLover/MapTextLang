@@ -2,23 +2,23 @@
 {
 	"***Special thanks to: Leks***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别鸣谢:Leks **"
 	}
 	"***Level: The Maze***"
 	{
-		"chi"		"**admin**"
+		"chi"		"**关卡:迷宫**"
 	}
 	"***Welcome***"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎 **"
 	}
 	"***Map made by Qahnaarin***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作: Qahnaarin**"
 	}
 	"***Special thanks to: Luffaren***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别鸣谢: Luffaren**"
 	}
 	"***Door will open in 40s***"
 	{
@@ -46,7 +46,7 @@
 	}
 	"***All pillars have been activated***"
 	{
-		"chi"		"**所有柱子被触发**"
+		"chi"		"**所有柱子被激活**"
 	}
 	"***Teleporter will activate in 40s***"
 	{
@@ -70,7 +70,7 @@
 	}
 	"***The bridge will lower down soon, keep defending***"
 	{
-		"chi"		"** **"
+		"chi"		"**木桥马上下降,继续防守 **"
 	}
 	"***Bridge ready in 15s***"
 	{
@@ -211,15 +211,15 @@
 	}
 	"***Level: The Maze completed***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:迷宫 完成 **"
 	}
 	"***Level: The Underground activated***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：地底世界 激活 **"
 	}
 	"***Level: The Underground***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：地底世界 **"
 	}
 	"***Keep holding***"
 	{
@@ -251,7 +251,7 @@
 	}
 	"***Doorhugger please defend...***"
 	{
-		"chi"		"**贴门的请开枪**"
+		"chi"		"**贴门的请回去防守**"
 	}
 	"***Or you will die...***"
 	{
@@ -311,15 +311,15 @@
 	}
 	"***You won Level: The Underground***"
 	{
-		"chi"		"** **"
+		"chi"		"**你过了关卡:地底世界 **"
 	}
 	"***Level: The Necromanteion activated***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:希腊神殿激活 **"
 	}
 	"***Level: The Necromanteion***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:希腊神殿 **"
 	}
 	"***The door is locked. Find a way to unlock it***"
 	{
@@ -411,11 +411,11 @@
 	}
 	"***The elevators are leaving in 15s***"
 	{
-		"chi"		"**15秒后电梯一上升**"
+		"chi"		"**15秒后电梯上升**"
 	}
 	"***The elevators are leaving in 5s***"
 	{
-		"chi"		"**5秒后电梯上身**"
+		"chi"		"**5秒后电梯上升**"
 	}
 	"***The gates will break in 20s***"
 	{
@@ -435,27 +435,28 @@
 	}
 	"***Looks like something gonna happen...***"
 	{
-		"chi"		"** **"
+		"chi"		"**看起来有些事要发生了.... **"
 	}
 	"***Wait...what...***"
 	{
-		"chi"		"** **"
+		"chi"		"**等...等一下 **"
 	}
 	"***Ahhhhhhhhhhhhhh***"
 	{
-		"chi"		"** **"
+		"chi"		"**啊哈哈哈哈哈哈哈 **"
 	}
 	"***WELCOME MORTALS***"
 	{
-		"chi"		"** **"
+		"chi"		"**凡人们,欢迎你们来到这里**"
 	}
 	"***FACE THE JUDGEMENT***"
 	{
-		"chi"		"** **"
+		"chi"		"**面对审判吧 **"
 	}
 	"***YOU HAVE 2 MINS TO DEFEAT ME***"
 	{
-		"chi"		"**2分钟倒计时**"
+		"chi"		"**你有2分钟的时间来击败我**"
+		"DoorCountdown"		"-1"
 	}
 	"***SUPERNOVA***"
 	{
@@ -492,11 +493,11 @@
 	}
 	"***You defeated me....***"
 	{
-		"chi"		"**你防守住了我**"
+		"chi"		"**你击败了我**"
 	}
 	"***But Im not dead yet.....***"
 	{
-		"chi"		"**但是我没有死**"
+		"chi"		"**但是我还没有死**"
 	}
 	"***I know I will see you in the future......***"
 	{
@@ -571,15 +572,15 @@
 	}
 	"***Special thanks to: Jllaneras***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别鸣谢: Jllaneras**"
 	}
 	"***Special thanks to: Moltard***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别鸣谢: Moltard**"
 	}
 	"***Special thanks to: Onahole***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别鸣谢: Onahole**"
 	}
 	"***Map by Qahnaarin***"
 	{
@@ -587,15 +588,15 @@
 	}
 	"***Zombie teleport in 20s***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸20s后传送 **"
 	}
 	"***AFK TELEPORT IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**afk的玩家10s后将被传送 **"
 	}
 	"***What is this?***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是什么? **"
 	}
 	"***Zombie Teleport in 10s***"
 	{
@@ -612,12 +613,12 @@
 	"***Lasers!!!***"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
-		"DoorCountdown"		"12"
+		
 	}
 	"***Lasers!!!**"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
-		"DoorCountdown"		"12"
+		
 	}
 	"***The portal will activate in 70s***"
 	{
