@@ -228,4 +228,10 @@
 		"hammerid"		"1082083"
 		"m_iname"		"Poisonball_Move&2331"
 	}
+	"3489142"
+	{
+		"enable"		"1"
+		"hammerid"		"3489142"
+		"m_iname"		"Boss_Cactus_Break"
+	}
 }

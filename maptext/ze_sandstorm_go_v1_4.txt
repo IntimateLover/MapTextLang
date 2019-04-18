@@ -19,7 +19,7 @@
 	"** The doors will open in 20 seconds **"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** A player has picked up Tornado Staff **"
 	{
@@ -40,7 +40,7 @@
 	"** The door will open in 25 seconds **"
 	{
 		"chi"		"**门将25秒后打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** A player has picked up Quicksand Staff **"
 	{
@@ -97,7 +97,7 @@
 	"** The doors will open on 15 seconds **"
 	{
 		"chi"		"**15秒后门将打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Press on the 4 obelisks to open the door **"
 	{
@@ -122,7 +122,7 @@
 	"** Hold for 15 seconds. **"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Hold Zombies for 10 seconds **"
 	{
@@ -139,7 +139,7 @@
 	"*** Grenades do more damage. (8 SECONDS)***"
 	{
 		"chi"		"**手雷能造成巨大伤害（8秒）**"
-		"DoorCountDown"		"8"
+		"DoorCountdown"		"8"
 	}
 	"*** YOU WON STAGE 4 ***"
 	{
@@ -156,12 +156,12 @@
 	"** 10 seconds left **"
 	{
 		"chi"		"**还有10秒**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Teleport will open in 15 seconds. **"
 	{
 		"chi"		"**传送器15秒后启动**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** 5 seconds left. **"
 	{
@@ -170,7 +170,7 @@
 	"** Hold for 20 seconds. **"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Grenades do more damage (4 SECONDS). ***"
 	{
@@ -203,7 +203,7 @@
 	"** Victory in 200 seconds. **"
 	{
 		"chi"		"**200秒后人类胜利 **"
-		"DoorCountDown"		"200"
+		"DoorCountdown"		"200"
 	}
 	"** Victory in 150 seconds. **"
 	{
@@ -252,17 +252,17 @@
 	"** The doors will open in 25 seconds **"
 	{
 		"chi"		"**大门25秒后开启 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** The door will open in 30 seconds **"
 	{
 		"chi"		"**大门30秒后开启 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** Bomb explodes in 20 seconds **"
 	{
 		"chi"		"**炸弹在20秒后爆炸 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">> STAGE 2 <<"
 	{
@@ -271,12 +271,12 @@
 	"** Teleport will open in 20 seconds **"
 	{
 		"chi"		"**传送将在20秒后开启 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Elevator leaves in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">> STAGE 3 <<"
 	{
@@ -289,7 +289,7 @@
 	"** Meteorite arrives in 17 seconds. **"
 	{
 		"chi"		"**陨石20秒后到达 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	">> STAGE 5 <<"
 	{
@@ -298,7 +298,7 @@
 	"** Teleport will open in 20 seconds. **"
 	{
 		"chi"		"**传送点20秒后激活 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Teleport will open on 10 seconds **"
 	{
@@ -319,7 +319,7 @@
 	"** Hold for 10 seconds. **"
 	{
 		"chi"		"**守住10秒 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	">> ZM ROUND <<"
 	{
@@ -334,6 +334,10 @@
 		"chi"		"**感谢您的参与！ **"
 	}
 	"**Old Version**"
+	{
+		"chi"		"** **"
+	}
+	"** AND NOW YOU WILL DIE! **"
 	{
 		"chi"		"** **"
 	}
