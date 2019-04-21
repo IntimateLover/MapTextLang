@@ -496,4 +496,20 @@
 	{
 		"chi"		"**这不是终点 **"
 	}
+	"### ZOMBIES WILL BE RELEASED IN 10 SECONDS"
+	{
+		"chi"		"** **"
+	}
+	"III ZOMBIE HAS PICKED UP SLAVE SPAWNER III"
+	{
+		"chi"		"** **"
+	}
+	"### SUMMONING SLAVE ###"
+	{
+		"chi"		"** **"
+	}
+	"### PATH WILL BE CLEAR IN 30 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
 }
