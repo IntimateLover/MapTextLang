@@ -85,6 +85,7 @@
 	{
 		"chi"		"**第2章=>保密 **"
 		"command"		"sv_airaccelerate 12"
+		"command"               "sm_jump_slowdown_enable 1"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
@@ -140,7 +141,8 @@
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
 		"chi"		"**保护下面的火车 **"
-		"command"		"sv_airaccelerate 150"
+		"command"		"sv_airaccelerate 80"
+		"command"               "sm_jump_slowdown_enable 0"
 	}
 	"||| STAGE 2 FINISHED |||"
 	{
@@ -150,6 +152,7 @@
 	{
 		"chi"		"**第3章=>觉醒 **"
 		"command"		"sv_airaccelerate 12"
+		"command"               "sm_jump_slowdown_enable 1"
 	}
 	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
 	{
