@@ -141,7 +141,7 @@
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
 		"chi"		"**保护下面的火车 **"
-		"command"		"sv_airaccelerate 80"
+		"command"		"sv_airaccelerate 120"
 		"command"               "sm_jump_slowdown_enable 0"
 	}
 	"||| STAGE 2 FINISHED |||"
