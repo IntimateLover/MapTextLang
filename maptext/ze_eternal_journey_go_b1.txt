@@ -1,0 +1,115 @@
+"Console_T"
+{
+">>*** MAP BY STK ***<<"
+{
+		"chi"		"**地图制作:STK 地图翻译:清新的二哈**"
+	}
+"** Hold for 30 seconds **"
+{
+		"chi"		"**守住30秒**"
+	}
+"** 5 seconds left **"
+{
+		"chi"		"**还剩5秒**"
+	}
+"** FALL BACK **"
+{
+		"chi"		"**撤退**"
+	}
+"** Hold for 20 seconds **"
+{
+		"chi"		"**守住20秒**"
+	}
+"** YOU WON STAGE 5 **"
+{
+		"chi"		"**你赢下了第五关**"
+	}
+">>> THANKS FOR PLAYING <<<"
+{
+		"chi"		"**>>> 感谢游玩 <<<**"
+	}
+"** THANKS FOR PLAYING! **"
+{
+		"chi"		"**感谢游玩!**"
+	}
+"** IT'S TIME TO CHOOSE A LEVEL!!! **"
+{
+		"chi"		"**现在是时候选择关卡了!!!**"
+	}
+"** 3 **"
+{
+		"chi"		"**三**"
+	}
+"** 4 **"
+{
+		"chi"		"**四**"
+	}
+"** 1 **"
+{
+		"chi"		"**一**"
+	}
+"** 5 **"
+{
+		"chi"		"**五**"
+	}
+"** 2 **"
+{
+		"chi"		"**二**"
+	}
+"** YOU WON ZM ROUND **"
+{
+		"chi"		"**你赢下了感染关**"
+	}
+"** Victory in 230 seconds. **"
+{
+		"chi"		"**230秒后胜利**"
+	}
+"** Victory in 200 seconds. **"
+{
+		"chi"		"**200秒后胜利**"
+	}
+"** Victory in 150 seconds. **"
+{
+		"chi"		"**150秒后胜利**"
+	}
+"** Victory in 100 seconds. **"
+{
+		"chi"		"**100秒后胜利**"
+	}
+"** Victory in 50 seconds. **"
+{
+		"chi"		"**50秒后胜利**"
+	}
+"** Victory in 10 seconds. **"
+{
+		"chi"		"**10秒后胜利**"
+	}
+"** Victory! **"
+{
+		"chi"		"**人类胜利!!!**"
+	}
+"** A player has picked up Freeze Staff **"
+{
+		"chi"		"**一名玩家捡起了冰冻神器**"
+	}
+"** A player has picked up Heal Staff **"
+{
+		"chi"		"**一名玩家捡起了奶神器**"
+	}
+"** A player has picked up Tornado Staff **"
+{
+		"chi"		"**一名玩家捡起了风神器**"
+	}
+"** A player has picked up Earth Staff **"
+{
+		"chi"		"**一名玩家捡起了土神器**"
+	}
+"*** Shoot on the Crystals!!! ***"
+{
+		"chi"		"**开枪射击水晶!!!**"
+	}
+"** A player has picked up Ultimate Staff **"
+{
+		"chi"		"**一名玩家捡起了终极神器**"
+	}
+}
