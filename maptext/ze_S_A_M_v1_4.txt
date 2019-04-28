@@ -466,51 +466,51 @@
 	}
 	">>ZOMBIES GET ON , YOUR FAILED<<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来了,你输了 **"
 	}
 	">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的水晶被激活,等待10秒 **"
 	}
 	">>AND FIND THE CRYSTAL<<"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找水晶 **"
 	}
 	">>WE NEED IT<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要它 **"
 	}
 	"**You found the crystal!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**你找到了水晶 **"
 	}
 	">>YOU PLACED THE CRYSTAL<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你放置了水晶 **"
 	}
 	">>SOMETHING FORTHCOMING<<"
 	{
-		"chi"		"** **"
+		"chi"		"**某些东西即将来临 **"
 	}
 	">>VOID DOOR APPEAR IN 30 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**虚空之门在30秒后出现 **"
 	}
 	">>VOID DOOR APPEARED<<"
 	{
-		"chi"		"** **"
+		"chi"		"**虚空之门出现了 **"
 	}
 	">>DEFENCE 20 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒 **"
 	}
 	">>WAIT 5 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**等待5秒 **"
 	}
 	">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<"
 	{
-		"chi"		"** **"
+		"chi"		"**看起来有人阻断了我们的去路 **"
 	}
 	">>OH!ITS SHADOW GUARD<<"
 	{
@@ -518,7 +518,7 @@
 	}
 	">>KILL HIM!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了他!!! **"
 	}
 	">>KILL THE REMAINING ZOMBIES<<"
 	{
@@ -526,39 +526,39 @@
 	}
 	"**Stage 5 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第五关 **"
 	}
 	"**Stage 4 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第四关 **"
 	}
 	">>USE <Tornado> TO DISPEL SHADOW TWINE<<"
 	{
-		"chi"		"** **"
+		"chi"		"**使用风暴来驱散暗影缠绕 **"
 	}
 	">>THE LIFT DOOR HAS OPENED<<"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯门已经打开 **"
 	}
 	">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他逃走了!!!虚空之门浮现出来了!!!追上去!!! **"
 	}
 	">>SHOOT IT!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**打掉它!!! **"
 	}
 	">>WE DEFEAT HIM<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们击败了他 **"
 	}
 	">>CRYSTAL IS INJECTING ENERGY<<"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶正在注入能量 **"
 	}
 	">>WE WILL BE ABLE TO LEAVE SOON<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们马上能离开这里了 **"
 	}
 	">>ZOMBIES GET ON<<"
 	{
@@ -566,15 +566,15 @@
 	}
 	">>YOUR FAILED<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你输了 **"
 	}
 	">>YOU CAN NOT BREAK IT<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你们能打破它 **"
 	}
 	">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<"
 	{
-		"chi"		"** **"
+		"chi"		"**炎魔使用太阳融合,使用<电环>来抵挡它 **"
 	}
 	"<<SHADOW TWINE>>"
 	{
@@ -598,11 +598,11 @@
 	}
 	">>WAIT 6 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**等待6s **"
 	}
 	">>WHAT IS THIS?<<"
 	{
-		"chi"		"** **"
+		"chi"		"**这是什么? **"
 	}
 	">>IT INITIATES ATTACKS<<"
 	{
@@ -610,7 +610,7 @@
 	}
 	">>BREAK IT!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**击败它!!! **"
 	}
 	"<<FLARE>>"
 	{
@@ -622,19 +622,19 @@
 	}
 	">>WE HAVE DESTROYED IT<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们已经把它毁掉了 **"
 	}
 	">>FLEE HERE!!!RUN BACK!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**从这里逃离!!!快跑!!! **"
 	}
 	">>THE DOOR WILL OPEN RANDOMLY<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门会随机开启 **"
 	}
 	"**Player has picked up <Zero Magic>**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起<零> **"
 	}
 	">>THE RIGHT DOOR HAS OPENED<<"
 	{
@@ -642,15 +642,15 @@
 	}
 	"**It looks like an ominous thing**"
 	{
-		"chi"		"** **"
+		"chi"		"**这看起来很不详 **"
 	}
 	"**Stage 3 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关 **"
 	}
 	">>THE DOOR BREAKING IN 20 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后破碎 **"
 	}
 	"**Player has picked up <Zero Magic>,[Cant be traced]**"
 	{
@@ -658,11 +658,11 @@
 	}
 	">>THE DOOR BREAKING IN 30 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后破碎 **"
 	}
 	">>BECAUSE OF THE DISAPPEARANCE OF THE BALROGS POWER, <Ultima>HAS LOST EFFICACY!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**随着炎魔力量的消失,终极失去了作用 **"
 	}
 	">>STAGE 5 COMPLETE<<"
 	{
@@ -670,55 +670,55 @@
 	}
 	">>YOU HAVE CONQUERED THIS MAP<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你征服了这张地图 **"
 	}
 	">>CONGRATULATION!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜!!! **"
 	}
 	">>YOU FOUND A CRYSTAL<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你发现了一个水晶 **"
 	}
 	">>ITEM:ASUNA CAN USE SUPERATTACK NOW<<"
 	{
-		"chi"		"** **"
+		"chi"		"**亚丝娜现在可以使用大招了 **"
 	}
 	">>YOU HAVE DESTROYED ALL THE CRYSTALS<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你摧毁了所有水晶 **"
 	}
 	">>SOMETHING WILL HAPPEN<<"
 	{
-		"chi"		"** **"
+		"chi"		"**什么事将发生 **"
 	}
 	">>RUN OUT OF HERE!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**逃离这里 **"
 	}
 	">>GET ON THE AIRSHIP!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**赶紧上浮空艇 **"
 	}
 	">>THE AIRSHIP LEAVING IN 5 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**浮空艇5秒后离开 **"
 	}
 	"**Stage 1 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第一关 **"
 	}
 	"**You think you are invincible???**"
 	{
-		"chi"		"** **"
+		"chi"		"**你认为自己是无敌的吗?? **"
 	}
 	"**You are wrong**"
 	{
-		"chi"		"** **"
+		"chi"		"**你错了 **"
 	}
 	"**Just a joke,have fun!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**开个玩笑而已,祝你玩得愉快!!! **"
 	}
 	">>180 SEC REMAINING<<"
 	{
@@ -738,7 +738,7 @@
 	}
 	"**ZM has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了ZM关 **"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -753,19 +753,19 @@
 	}
 	"**Throw it on the crystal tower!**"
 	{
-		"chi"		"** **"
+		"chi"		"**把它丢到水晶塔那里 **"
 	}
 	">>ACTIVATE TWO SLAB BUTTONS<<"
 	{
-		"chi"		"** **"
+		"chi"		"**触发两个平板开关 **"
 	}
 	">>ONE IS BELOW , ANOTHER IS ABOVE<<"
 	{
-		"chi"		"** **"
+		"chi"		"**一个在上面,一个在下面 **"
 	}
 	">>ACTIVATE THE CRYSTAL TOWER<<"
 	{
-		"chi"		"** **"
+		"chi"		"**激活水晶塔 **"
 	}
 	"<<CHAOSTORM>>"
 	{
@@ -777,11 +777,11 @@
 	}
 	">>ESCAPE HERE!!!RUN BACK!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**逃离这里!!! **"
 	}
 	">>HE WILL LAUNCH DARK SLASH<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他将使用黑暗砍击 **"
 	}
 	"**This version is compiled with HDR. Thanks Vauff for his suggestion.**"
 	{
