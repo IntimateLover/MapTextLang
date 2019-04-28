@@ -252,4 +252,10 @@
 		"hammerid"		"1591671"
 		"m_iname"		"lastlaserbreak"
 	}
+	"1507964"
+	{
+		"enable"		"1"
+		"hammerid"		"1507964"
+		"m_iname"		"boss11"
+	}
 }
