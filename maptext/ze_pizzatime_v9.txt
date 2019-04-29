@@ -235,6 +235,7 @@
 	"***ARE YOU 18 YEARS OLD?  MMHHHHMM YUMMY***"
 	{
 		"chi"		"**你有18岁吗？嗯唔唔唔唔 美味**"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FATES OF THE FACE PATHS SHALL OPEN THEMSELVES***"
 	{
@@ -454,6 +455,7 @@
 	"***HASSAN CHOP***"
 	{
 		"chi"		"**哈桑斧击！（赶紧蹲下，别被削头了！）**"
+		"DoorCountdown"		"4"
 	}
 	"***Defend for 20 seconds***"
 	{
