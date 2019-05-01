@@ -236,4 +236,24 @@
 	{
 		"syncvalue"		"57590"
 	}
+	"** 5 seconds left**"
+	{
+		"chi"		"** **"
+	}
+	"** Hold 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*** Hes dead. Run. ***"
+	{
+		"chi"		"** **"
+	}
+	"** Hold for 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds. ***"
+	{
+		"chi"		"** **"
+	}
 }
