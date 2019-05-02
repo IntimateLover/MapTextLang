@@ -174,7 +174,7 @@
 	}
 	">>> STAGE 3 <<<"
 	{
-		"chi"		"**第一关**"
+		"chi"		"**第三关**"
 	}
 	"[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!"
 	{
@@ -210,7 +210,7 @@
 	}
 	">>> STAGE 4<<<"
 	{
-		"chi"		"**第一关**"
+		"chi"		"**第四关**"
 	}
 	"[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!"
 	{
@@ -222,7 +222,7 @@
 	}
 	">>> STAGE 5<<<"
 	{
-		"chi"		"**第一关**"
+		"chi"		"**第五关**"
 	}
 	"[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!"
 	{
@@ -238,22 +238,22 @@
 	}
 	"** 5 seconds left**"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒**"
 	}
 	"** Hold 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒**"
 	}
 	"*** Hes dead. Run. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**他死了，快跑。**"
 	}
 	"** Hold for 10 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒**"
 	}
 	"*** Hold 20 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒**"
 	}
 }
