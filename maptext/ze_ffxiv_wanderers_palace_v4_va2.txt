@@ -208,7 +208,7 @@
 	{
 		"chi"		"**地图制作：Altima 地图翻译：IntimateLover **"
 	}
-	"***Next Level Extreme***"
+	"***NEXT LEVEL EXTREME***"
 	{
 		"chi"		"**下一难度：困难 **"
 	}
@@ -557,5 +557,9 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"**服务器即将关闭,请更新你的游戏 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"90251"
 	}
 }
