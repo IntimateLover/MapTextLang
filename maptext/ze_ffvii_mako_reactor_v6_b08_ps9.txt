@@ -89,7 +89,7 @@
 	}
 	"** AQUA Materia has been found. **"
 	{
-		"chi"		"**水系神器已经被拾取**"
+		"chi"		"**水神器已经被拾取**"
 	}
 	"** Round failed! Zombies have reached the objective! **"
 	{
@@ -109,7 +109,7 @@
 	}
 	"< Solitude isn't heroism. >"
 	{
-		"chi"		"<孤独不是英雄所愿。>>"
+		"chi"		"<孤独不是英雄所愿>>solo是不存在的！"
 	}
 	"< Ill see you again. >"
 	{
