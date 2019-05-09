@@ -39,7 +39,7 @@
 	}
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸学会了黑洞魔法 **"
 		"DoorCountdown"		"-1"
 	}
 	"**The gates will open in 30 seconds**"
@@ -200,7 +200,7 @@
 	}
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
 	{
-		"chi"		"** **"
+		"chi"		"** 一位僵尸学会了黑洞魔法**"
 		"DoorCountdown"		"-1"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
@@ -428,35 +428,35 @@
 	}
 	"**Hold here for 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里20s**"
 	}
 	"**Hold here for 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里15s **"
 	}
 	"**To activate the gates you need to break the crystals in the side rooms**"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要打碎侧室的水晶来激活大门 **"
 	}
 	"**12 crystals broken**"
 	{
-		"chi"		"** **"
+		"chi"		"**1/2水晶破坏 **"
 	}
 	"**You got it! The gates will open in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了!大门20s后打开 **"
 	}
 	"**The Zalera is defeated!**"
 	{
-		"chi"		"** **"
+		"chi"		"** 你击败了Zalera**"
 	}
 	"**The end gates will close in 20 seconds. Keep defending!**"
 	{
-		"chi"		"** **"
+		"chi"		"**最终大门20s后关闭,守住! **"
 	}
 	"**Gabranth is using the power of the crystal and blocking the Legendary Sword**"
 	{
-		"chi"		"** **"
+		"chi"		"**伽布拉斯使用水晶的能量阻挡我们获取终极之剑 **"
 	}
 	"**Cactus found. The player who did it got 1 level**"
 	{
