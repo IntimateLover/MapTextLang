@@ -95,7 +95,7 @@
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
-		"chi"		"**憭折撠25蝘���**"
+		"chi"		"**大门将在25秒后打开**"
 		"DoorCountdown"		"25"
 	}
 	"**A player has picked up FIRE materia**"
@@ -117,7 +117,7 @@
 	}
 	"**A player has picked up BIO materia**"
 	{
-		"chi"		"****"
+		"chi"		"**一位玩家找到了浮毒元素**"
 	}
 	"**The gi gate will open in 35 seconds**"
 	{
@@ -126,187 +126,185 @@
 	}
 	"[Cloud] Ay.. There you are!"
 	{
-		"chi"		"**�敺� ��臭�隞砍餈�嚗�**"
+		"chi"		"**[克劳德]喂..你在哪！**"
 	}
 	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
 	{
-		"chi"		"**隞賑撣格�鈭之敹� 撖嫣�雿��餈�餈葵銋� 蝞�銝恣鈭�鈭蝏���**"
+		"chi"		"**[赤红13]是的.它帮了我很多忙.你还有什么要问的吗？这些东西给你.**"
 	}
 	"[Cloud] Thanks. But one question.. What did we forget here?"
 	{
-		"chi"		"**�敺� 靚Ｖ� 雿���葵�桅� �賑�亥���隞銋�**"
+		"chi"		"**谢谢.但有一个问题..我们是不是忘了什么？**"
 	}
 	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
 	{
-		"chi"		"**餈敺�隞亙��鈭脣��瑞熙憛�(Gi Nattak)���嗥���葵�方��菟�瘣�**"
+		"chi"		"**[赤红13]这里是古老的基族洞穴..我的父亲以前在这里跟基纳塔克打过架..**"
 	}
 	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
 	{
-		"chi"		"**�鈭脖蛹鈭��摰部靚瑞�脖��芸楛**"
+		"chi"		"**[赤红13]为了拯救宇宙峡谷他牺牲了自己**"
 	}
 	"[Cloud] Oh what a pity.."
 	{
-		"chi"		"**�敺� 憭芸��**"
+		"chi"		"**[克劳德]哦.真可惜..**"
 	}
 	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
 	{
-		"chi"		"**�急�餈辣鈭�唬���銝�隞香敺�銝芾������隞祈�揖�鈭脫瓷�賢蝠摨��剔��芰**"
+		"chi"		"**[赤红13]不要把这个记到心里去.他像英雄一样死去.我希望你们能帮我打败基纳塔克**"
 	}
 	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
 	{
-		"chi"		"**�敺� 蟡�銝頝臬末餈� 敶��揖鈭�-蝥喳� ���颱耨憟賣�隞祉�憌**"
+		"chi"		"**[克劳德]好的.祝你好运.当你打败它后我们就回去修理我们的飞船**"
 	}
 	"**GRENADES DO A LOT OF DAMAGE. USE THEM!**"
 	{
-		"chi"		"**�朽撘嫣���敺之�慾摰喉�**"
+		"chi"		"**手雷能造成更多伤害.尽量多使用它**"
 	}
 	"**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**"
 	{
-		"chi"		"**銝鈭��刻撖運OSS��隡文拿**"
+		"chi"		"**部分神器能对BOSS造成伤害**"
 	}
 	"**Gi Nattak is using wind**"
 	{
-		"chi"		"**�瑞熙�蝙�其�憌���其��鳴�撖寧�撟喳銝剖��嚗�**"
+		"chi"		"**基纳塔克使用了风**"
 		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
-		"chi"		"**�瑞熙�蝙�其��怎�唳�嚗翰餈氖�箏銝剖�**"
-		"DoorCountdown"		"5"
+		"chi"		"**基纳塔克使用了火焰新星-跑到平台边缘躲避**"
 	}
 	"**Gi Nattak is using aspil**"
 	{
-		"chi"		"**�瑞熙�蝙�其�**Aspil**�菟���嚗僕銝熔��**"
-		"DoorCountdown"		"5"
+		"chi"		"**基纳塔克使用了摄魂-蹲下**"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
-		"chi"		"**�瑞熙��支��舐�鈭澈��撠��撠�摰賑**"
+		"chi"		"**基纳塔克召唤了水晶**"
 	}
 	"**Gi Nattack is escaped**"
 	{
-		"chi"		"**�瑞熙��隡日�鈭�**"
+		"chi"		"**基纳塔克逃走了**"
 	}
 	"**Now you can get out of Cave of Gi**"
 	{
-		"chi"		"**�啣雿隞亦氖撘GI瘣庖鈭�**"
+		"chi"		"**现在我们可以离开基族洞穴了**"
 	}
 	"**DOOR OPENS IN 40 SECONDS**"
 	{
-		"chi"		"**憭折40蝘���**"
+		"chi"		"**大门40秒后开启**"
 		"DoorCountdown"		"40"
 	}
 	"**10 SECONDS LEFT**"
 	{
-		"chi"		"**餈10蝘�**"
+		"chi"		"**还剩10秒**"
 		"DoorCountdown"		"10"
 	}
 	"**This is your last hold point**"
 	{
-		"chi"		"**餈雿���銝芸��對�嚗� 摰�貊�30蝘臬� �怨斐颲�**"
+		"chi"		"**这是最后一个守点了**"
 	}
 	"**Get on the rocks and hold 25 seconds**"
 	{
-		"chi"		"**敹思�����喳仍餈�25蝘��**"
+		"chi"		"**跑到石头上防守25秒**"
 		"DoorCountdown"		"25"
 	}
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
-		"chi"		"**�剖�雿��鈭� 雿撮銋� 蝥喳� �鈭� �賑撽砌�撠�甈⊥�韐乩�嚗�**"
+		"chi"		"**[赤红13]恭喜!你做到了..但基纳塔克逃走了..我们一次一定要打败它**"
 	}
 	"**NORMAL mode was beaten. Unlocking HARD mode **"
 	{
-		"chi"		"**�桅摨阡�圈�曉漲閫��**"
+		"chi"		"**普通难度通过-即将进入困难难度**"
 	}
 	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要杀掉所有僵尸才能获得胜利 **"
 	}
 	"**HARD MODE**"
 	{
-		"chi"		"**�圈璅∪�**"
+		"chi"		"**困难难度**"
 	}
 	"**CHEST SIDEQUEST STARTED**"
 	{
-		"chi"		"**�ａ撘憪�**"
+		"chi"		"**开始宝箱探索**"
 	}
 	"**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK**"
 	{
-		"chi"		"**�曉���暺�蝞勗�嚗誑�瑕�銝銝芰畾�buff嚗��鈭�銝�-蝥喳� ����**"
+		"chi"		"**找到所有的黄金宝箱以解锁一个特殊神器.他将帮助你打败基纳塔克**"
 	}
 	"**A player has picked up ELECTRO materia**"
 	{
-		"chi"		"**銝雿摰嗆韏瑚���**"
+		"chi"		"**一位玩家找到了电元素**"
 	}
 	"**Zombie Confuse has been picked up**"
 	{
-		"chi"		"**�萄偶�渡撌脰◤�∟絲**"
+		"chi"		"**僵尸迷惑已被拿起**"
 	}
 	"**A player has picked up GRAVITY materia**"
 	{
-		"chi"		"**銝雿摰嗆韏瑚�暺�**"
+		"chi"		"**一位玩家找到了黑洞元素**"
 	}
 	"**A player has picked up WIND materia**"
 	{
-		"chi"		"**銝雿摰嗆韏瑚�憌�**"
+		"chi"		"**一位玩家找到了暴风元素**"
 	}
 	"**A player has picked up ULTIMA materia**"
 	{
-		"chi"		"**銝雿摰嗆韏瑚�蝏�**"
+		"chi"		"**一位玩家找到了终极元素**"
 	}
 	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
 	{
-		"chi"		"** **"
+		"chi"		"**[赤红13]希望它这次不要再逃了.我怕会引起更多注意**"
 	}
 	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
 	{
-		"chi"		"**�敺� 隞仿銝����撣血撜∟健�偷憭湛��喲�嗅�雿蒂韏�**"
+		"chi"		"**[克劳德]为了以防万一..我会把船开到峡谷尽头来接你..**"
 	}
 	"**Gi Nattak is using gravity**"
 	{
-		"chi"		"**�瑞熙�蝙�其�暺�嚗�雿�菜**"
+		"chi"		"**基纳塔克使用了黑洞-按住S后退**"
 		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using silence**"
 	{
-		"chi"		"**�瑞熙�笆雿蝙�其�瘝�嚗��啣雿��賭蝙�其遙雿��剁�**"
+		"chi"		"**基纳塔克使用了沉默**"
 	}
 	"**Gi Nattak is using poison**"
 	{
-		"chi"		"**�瑞熙�蝙�其��扳�嚗�敹�摨�蝏踹�瘥�**"
+		"chi"		"**基纳塔克使用了剧毒**"
 		"DoorCountdown"		"4"
 	}
 	"**Gi Nattak has healed 150 hp**"
 	{
-		"chi"		"**�瑞熙�蝙�刻�祥���芸楛銝�曆��P**"
+		"chi"		"**基纳塔克恢复了150HP**"
 	}
 	"[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
 	{
-		"chi"		"**�敺� � ��銝芷��犖�券�餈����孵�敹�**"
+		"chi"		"**[克劳德]嘘!有陌生人在我们的飞艇附近..**"
 	}
 	"[Genesis] Due to you I found what I need.. Face your death here.."
 	{
-		"chi"		"**Genesis 雿��憭芸�鈭� �Ｗ笆雿�甇颱滿�改�**"
+		"chi"		"**[杰内西斯]因为你我找到了我需要的..在这里迎接你的死亡吧..**"
 	}
 	"[Cloud] Hurry! Get on the airship! I can not stay for long here!"
 	{
-		"chi"		"**�敺� 敹思��對� ���賢餈�蝑�憭芯�**"
+		"chi"		"**[克劳德]快上飞艇!我们不能在这里呆太长时间!**"
 	}
 	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
 	{
-		"chi"		"**�圈�曉漲� EX璅∪�閫��**"
+		"chi"		"**困难难度通过-准备迎接极限难度**"
 	}
 	"**EXTREME MODE**"
 	{
-		"chi"		"**EX璅∪�**"
+		"chi"		"**极限难度**"
 	}
 	"[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
 	{
-		"chi"		"**��葵鈭箏隞亙�文毀���對�隞��芷��瑕�鈭�蝘���**"
+		"chi"		"**[赤红13]那个人从哪里得到召唤巴哈姆特的力量**"
 	}
 	"[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all.."
 	{
-		"chi"		"**蝞� 銝捏憒��賑閬�銝甈⊥�韐� ��-蝥喳�**"
+		"chi"		"**[赤红13]无论如何我们必须打败基纳塔克..**"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -333,145 +331,145 @@
 	}
 	"**The rock will explode in 25 seconds**"
 	{
-		"chi"		"**�詨撕��嚗�嚗翰�暹�嗡�頝�20蝘�**"
+		"chi"		"**岩石将在25秒后爆炸**"
 		"DoorCountdown"		"20"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
-		"chi"		"**�瑞恣隡潔���-�Ｖ�蝘撘�**"
+		"chi"		"**炸弹好像失效了-找一找有没有其他道路**"
 	}
 	"**...Are you surprised?...**"
 	{
-		"chi"		"**��銝�**"
+		"chi"		"**...你惊讶了没？...**"
 	}
 	"**...Didnt you expect me?...**"
 	{
-		"chi"		"**雿��唳���唬�銋�**"
+		"chi"		"**...你料到我的出现了没？...**"
 	}
 	"**...Oh okay im disappearing...**"
 	{
-		"chi"		"**OK ���∠� 雿�**"
+		"chi"		"**...好吧.我这就消失...**"
 	}
 	"[Red-XIII] Cloud do you know that guy?"
 	{
-		"chi"		"**雿恕霂�銝芯犖銋�**"
+		"chi"		"**[赤红13]克劳德.你认识那个家伙吗？**"
 	}
 	"[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
 	{
-		"chi"		"**�敺� 隞Genesis憿嗅��ㄚ�蛛�雿�隡潔��刻���鈭�銋�**"
+		"chi"		"**[克劳德]他是神罗部队一号特种兵..但是我不知道他为什么会在这里？**"
 	}
 	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
 	{
-		"chi"		"**�航隞�閬�-蝥喳��菟�嚗�銝箏��憭折����**"
+		"chi"		"**[赤红13]可能他需要基纳塔克的灵魂..因为它蕴含着巨大的力量.**"
 	}
 	"[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
 	{
-		"chi"		"**�敺� ���舀餈�餈�銝銝芰�蝵�堆���賑隡��閫���**"
+		"chi"		"**[克劳德]那可太糟糕了..我知道这附近有个神罗基地.我们可能会在那里找到他.**"
 	}
 	"**Gi Nattak is using shield**"
 	{
-		"chi"		"**�瑞熙�蝙�其��斤嚗�其����鈭�**"
+		"chi"		"**基纳塔克使用了护盾**"
 	}
 	"**Gi Nattak is using fire**"
 	{
-		"chi"		"**�瑞熙�蝙�函�唳��**"
+		"chi"		"**基纳塔克使用了火焰**"
 	}
 	"**GI NATTAK USES LAVA SUPERATTACK**"
 	{
-		"chi"		"**�瑞熙�蝙�刻�蝥批痔瘚�誤嚗翰�椰�喉���曄憭渲歲銝嚗�**"
+		"chi"		"**基纳塔克使用了熔岩上升**"
 		"DoorCountdown"		"10"
 	}
 	"**Get on the rocks to get saved!!!**"
 	{
-		"chi"		"**�單暑銝撠梯絮蝝抒銝憭�**"
+		"chi"		"**快跑到突起的石头上！**"
 		"DoorCountdown"		"5"
 	}
 	"**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**"
 	{
-		"chi"		"**�瑞熙�蝙�函��蝘��賑嚗隞���賑銋�撠�閫�**"
+		"chi"		"**基纳塔克使用了终极-快阻止它!**"
 	}
 	"[Genesis] Huh.. Did not think that you will survive.."
 	{
-		"chi"		"**Genesis �� 瘝⊥�唬�撅�賣暑銝**"
+		"chi"		"**[杰内西斯]没想到你竟然能活下来..**"
 	}
 	"[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!"
 	{
-		"chi"		"**Genesis �捏憒�嚗�-蝥喳��擳�冽��鈭��隞亙��唳��恣��嚗�**"
+		"chi"		"**[杰内西斯]算了.反正基纳塔克的灵魂我已经拿到了..有缘再见!**"
 	}
 	"[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
 	{
-		"chi"		"**�敺� �嚗�頝�鈭���蟡��箏隡釣�摰�撜∟健銝�毀���對��嗅��賑敹◆�游�隞�霈∪�**"
+		"chi"		"**[克劳德]考!我想神罗基地应该已经注意到宇宙峡谷中出现的巴哈姆特了..我们即会迎来更多的麻烦**"
 	}
 	"**Ifrit is defeated! Get on the airship**"
 	{
-		"chi"		"**隡井�鋡急�韐乩�嚗翰銝���**"
+		"chi"		"**伊芙利特死了!快上飞船**"
 	}
 	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
 	{
-		"chi"		"**EX璅∪�� �舐�璅∪��臬**"
+		"chi"		"**极限难度通过-即将迎来疯狂难度**"
 	}
 	"**RAGE MODE**"
 	{
-		"chi"		"**�舐�璅∪�**"
+		"chi"		"**疯狂难度**"
 	}
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
-		"chi"		"**摰�餈�10蝘� �游�賑皜�摰������� 銝���隡��賂�**"
+		"chi"		"**守住10秒-我即将引爆炸药**"
 		"DoorCountdown"		"10"
 	}
 	"**The airship to Shinra will arrive in 30 seconds**"
 	{
-		"chi"		"**�餌�蝵�啁�憌30蝘��啗噢**"
+		"chi"		"**飞船将在30秒后到来**"
 		"DoorCountdown"		"30"
 	}
 	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
 	{
-		"chi"		"**�敺� ��雿���撣虫�銝����嗅��賑隡蟡��箏**"
+		"chi"		"**坚持住!我马上就带你们去神罗基地**"
 		"DoorCountdown"		"30"
 	}
 	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
 	{
-		"chi"		"**�嚗ed-XIII 撠��刻���撣桀�遣��**"
+		"chi"		"**[克劳德]赤红13会留在这里帮助重建村庄**"
 	}
 	"**The airship is right here...**"
 	{
-		"chi"		"**憌�唬�**"
+		"chi"		"**飞船来了...**"
 	}
 	"**The gates will open in 30 seconds**"
 	{
-		"chi"		"**憭折30蝘���**"
+		"chi"		"**神罗大门将在30秒后打开**"
 		"DoorCountdown"		"30"
 	}
 	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
 	{
-		"chi"		"**�敺� 隡恣隞砍�敹嚗��enesis���刻�������啗笑�血�賭���隞砌舅銝芸僎�拐犖��嚗���敺�整�**"
+		"chi"		"**[克劳德]小心点!如果杰内西斯真的在这里.那么杰诺瓦可能也会在这里..对付他们两个并不会太容易..**"
 	}
 	"[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become.."
 	{
-		"chi"		"**�敺� 撠文�臬�隞�鈭�-蝥喳��擳���隞���撘箏之�圈隞亦蔭靽～�**"
+		"chi"		"**[克劳德]特别是他还得到了基纳塔克的灵魂..难以想象他会变得多么强大..**"
 	}
 	"[Cloud] If you succeed with that then we explode the base with Jenova."
 	{
-		"chi"		"**�敺� 憒�雿���嚗�隞砍停�冽霂箇(Jenova)�豢�蟡��箏**"
+		"chi"		"**[克劳德]如果你们成功打败杰内西斯.那我们就用杰诺瓦的尸体炸掉基地.**"
 	}
 	"**Wait 5 more seconds**"
 	{
-		"chi"		"**��5蝘�**"
+		"chi"		"**等待5秒**"
 		"DoorCountdown"		"5"
 	}
 	"**Shinra gates will open in 25 seconds**"
 	{
-		"chi"		"**蟡��箏憭折��鈭�**"
+		"chi"		"**神罗基地大门25秒后打开**"
 		"DoorCountdown"		"25"
 	}
 	"**The gates will open in 15 seconds**"
 	{
-		"chi"		"**憭折15蝘���**"
+		"chi"		"**大门15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"**The elevator will leave in 15 seconds**"
 	{
-		"chi"		"**�菜０15蝘�蝳餃�**"
+		"chi"		"**电梯15秒后离开**"
 	}
 	"sync_version"
 	{
@@ -479,95 +477,95 @@
 	}
 	"**Jenova is defeated!**"
 	{
-		"chi"		"**�啗笑�血歇鋡怠韐�**"
+		"chi"		"**杰诺瓦已失去战斗力**"
 	}
 	"**Shiva is defeated!**"
 	{
-		"chi"		"**撣撌脰◤�餉揖**"
+		"chi"		"**希瓦已失去战斗力**"
 	}
 	"**Genesis is defeated. Get back in the elevator**"
 	{
-		"chi"		"**Genesis 鋡急�韐乩� 敹怠��啁璇舫���  瘜冽�銝��璇舀瓷��銋��箏嚗�**"
+		"chi"		"**杰内西斯被打败了-现在返回电梯**"
 	}
 	"[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon."
 	{
-		"chi"		"**�敺� ����敺�瘝⊥����摰寞�鋡急�韐� 銝��捏憒� 蟡��箏撌脩�摰�鈭�**"
+		"chi"		"**[克劳德]真不敢相信他会那么容易被打败..算了.反正基地即将爆炸了.**"
 	}
 	"[Cloud] See you on the top evacuation point."
 	{
-		"chi"		"**�敺瘀����函璇舀�銝蝑�**"
+		"chi"		"**[克劳德]我会在顶层的疏散点等你.**"
 	}
 	"**The power is lost. Defend until the emergency generators are on**"
 	{
-		"chi"		"**�萄�蝟餌�憭望� �脣��啣��函皞��**"
+		"chi"		"**电力好像被切断了-在我们启动应急发电机前守住**"
 		"DoorCountdown"		"15"
 	}
 	"**We got the power. The gates will open in 15 seconds**"
 	{
-		"chi"		"**OK �賑�瑕�鈭�� 15蝘�憭折��**"
+		"chi"		"**电力恢复了-大门15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** Nades do more damage. **"
 	{
-		"chi"		"**��賡�憭折�隡文拿**"
+		"chi"		"**手雷能造成更多伤害**"
 	}
 	"**You have beaten Cosmo Canyon!! Congratulations !! **"
 	{
-		"chi"		"**雿憭批部靚瑚���嚗�**"
+		"chi"		"**你已经称霸宇宙峡谷!!恭喜你!!**"
 	}
 	"[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon.."
 	{
-		"chi"		"**�敺� 撟脣�憟踝�����隞祈��隞砌��單偶�賂�銝�蝡憭批部靚瘀�嚗�**"
+		"chi"		"**[克劳德]干的好!希望我们已经解决了这里的问题-下一站古代种神殿**"
 	}
 	"**ZM MODE**"
 	{
-		"chi"		"**ZM 璅∪�**"
+		"chi"		"**僵尸感染**"
 	}
 	"**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**"
 	{
-		"chi"		"**ZM璅∪� �曆葵�唳瘣颱��亦��唬��� �tv**"
+		"chi"		"**地图通关-现在找个地方防守僵尸**"
 	}
 	"[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired."
 	{
-		"chi"		"**憭批部靚瑕�銝甈⊥憭�敺�亦�摰�**"
+		"chi"		"**[赤红13]宇宙峡谷现在几乎恢复正常.但天文台还需要修理**"
 	}
 	"[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us."
 	{
-		"chi"		"**餈��拙振�揖鈭� Genesis and Jenova ��敺�隞砍葬鈭�隞砌�銝芸之敹�**"
+		"chi"		"**[克劳德]不敢相信这些人能够打败杰内西斯和杰诺瓦.我认为我们应该带上他们.**"
 	}
 	"[Red-XIII] I cannot find enough words to thank them for all... they did a really good job."
 	{
-		"chi"		"**Red-XIII 餈��拙振�揖鈭��摰嗡飽��� ����銋��曆誑閮銵� 撟脩�瞍漁**"
+		"chi"		"**[赤红13]我找不到足够的话来感谢他们...他们干的非常漂亮**"
 	}
 	"[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?"
 	{
-		"chi"		"**雿�閫��賑銝甇Ｘ郊鈭迨 �賑閬�Ｗ笆�啁��梢**"
+		"chi"		"**[赤红13]我们可以在这里休息一下..然后继续旅行..你看如何？**"
 	}
 	"[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do."
 	{
-		"chi"		"**�敺� 霂渡�憟� �賑銝摰��啁 �賑閬�銝甈∪��**"
+		"chi"		"**[克劳德]听起来不错..我们需要继续前进.我们还要阻止萨菲罗斯..所以我们还有很多事情要做.**"
 	}
 	"[Cloud] So lets start from the Temple of the Ancients.."
 	{
-		"chi"		"**�敺� �隞亥悟�賑撠望迨撘憪�楝��**"
+		"chi"		"**[克劳德]下一站-古代种神殿**"
 	}
 	"**2 MINUTES LEFT!**"
 	{
-		"chi"		"**2���拐�**"
+		"chi"		"**还剩两分钟**"
 		"DoorCountdown"		"-1"
 	}
 	"**Zombie cactus has been picked up**"
 	{
-		"chi"		"**�萄偶隞犖�歇鋡急韏�**"
+		"chi"		"**僵尸仙人掌已拿到**"
 	}
 	"**1 MINUTES LEFT!**"
 	{
-		"chi"		"**1���拐�**"
+		"chi"		"**还剩1分钟**"
 		"DoorCountdown"		"-1"
 	}
 	"**30 SECONDS LEFT!**"
 	{
-		"chi"		"**30蝘雿�**"
+		"chi"		"**还剩30秒**"
 	}
 	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
 	{
@@ -579,27 +577,27 @@
 	}
 	"**You are too slow**"
 	{
-		"chi"		"**雿云�Ｖ��萄偶�亥腺雿��∩�**"
+		"chi"		"**你太慢了**"
 	}
 	"**15 seconds left!**"
 	{
-		"chi"		"**15蝘雿�**"
+		"chi"		"**还剩15秒**"
 	}
 	"**Teleporting humans to the Observatory**"
 	{
-		"chi"		"**隡��兢摮犖蝐�**"
+		"chi"		"**将所有人类传送到天文台**"
 	}
 	"**Defend here for 15 seconds before the platform leaves**"
 	{
-		"chi"		"**��15蝘撟喳銝�銋�**"
+		"chi"		"**守住15秒-直到平台上升**"
 	}
 	"**The platform is leaving**"
 	{
-		"chi"		"**撟喳銝�**"
+		"chi"		"**平台上升**"
 	}
 	"**WINNERS GONNA CHANGE NEXT STAGE**"
 	{
-		"chi"		"**��銝葵�曉漲**"
+		"chi"		"**胜利者已选择下一难度**"
 	}
 	"**Map Port by IntimateLover**"
 	{
