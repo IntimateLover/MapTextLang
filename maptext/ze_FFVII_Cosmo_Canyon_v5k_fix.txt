@@ -15,6 +15,7 @@
 	"**ZE_FFVII_COSMO_CANYON**"
 	{
 		"chi"		"**最终幻想7：宇宙峡谷 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Cover here for 5 seconds before we clear this obstacle**"
 	{
@@ -31,6 +32,7 @@
 	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
 	{
 		"chi"		"**[赤红13]不要担心.我知道这个地方.我就是在这里出生的..**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
 	{
@@ -39,10 +41,12 @@
 	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
 	{
 		"chi"		"**[赤红13]没错.但我需要做些事情.我在基族洞穴等你**"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] There I will give you all the stuff you need."
 	{
 		"chi"		"**[赤红13]我会在那里把你需要的东西带给你**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] No problem. I will wait for you in there.."
 	{
@@ -131,6 +135,7 @@
 	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
 	{
 		"chi"		"**[赤红13]是的.它帮了我很多忙.你还有什么要问的吗？这些东西给你.**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Thanks. But one question.. What did we forget here?"
 	{
@@ -139,10 +144,12 @@
 	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
 	{
 		"chi"		"**[赤红13]这里是古老的基族洞穴..我的父亲以前在这里跟基纳塔克打过架..**"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
 	{
 		"chi"		"**[赤红13]为了拯救宇宙峡谷他牺牲了自己**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Oh what a pity.."
 	{
@@ -151,6 +158,7 @@
 	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
 	{
 		"chi"		"**[赤红13]不要把这个记到心里去.他像英雄一样死去.我希望你们能帮我打败基纳塔克**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
 	{
@@ -211,6 +219,7 @@
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
 		"chi"		"**[赤红13]恭喜!你做到了..但基纳塔克逃走了..我们一次一定要打败它**"
+		"DoorCountdown"		"-1"
 	}
 	"**NORMAL mode was beaten. Unlocking HARD mode **"
 	{
@@ -255,6 +264,7 @@
 	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
 	{
 		"chi"		"**[赤红13]希望它这次不要再逃了.我怕会引起更多注意**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
 	{
@@ -301,10 +311,12 @@
 	"[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
 	{
 		"chi"		"**[赤红13]那个人从哪里得到召唤巴哈姆特的力量**"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all.."
 	{
 		"chi"		"**[赤红13]无论如何我们必须打败基纳塔克..**"
+		"DoorCountdown"		"-1"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -353,6 +365,7 @@
 	"[Red-XIII] Cloud do you know that guy?"
 	{
 		"chi"		"**[赤红13]克劳德.你认识那个家伙吗？**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
 	{
@@ -361,6 +374,7 @@
 	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
 	{
 		"chi"		"**[赤红13]可能他需要基纳塔克的灵魂..因为它蕴含着巨大的力量.**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
 	{
@@ -430,6 +444,7 @@
 	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
 	{
 		"chi"		"**[克劳德]赤红13会留在这里帮助重建村庄**"
+		"DoorCountdown"		"-1"
 	}
 	"**The airship is right here...**"
 	{
@@ -528,6 +543,7 @@
 	"[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired."
 	{
 		"chi"		"**[赤红13]宇宙峡谷现在几乎恢复正常.但天文台还需要修理**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us."
 	{
@@ -536,10 +552,12 @@
 	"[Red-XIII] I cannot find enough words to thank them for all... they did a really good job."
 	{
 		"chi"		"**[赤红13]我找不到足够的话来感谢他们...他们干的非常漂亮**"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?"
 	{
 		"chi"		"**[赤红13]我们可以在这里休息一下..然后继续旅行..你看如何？**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do."
 	{
