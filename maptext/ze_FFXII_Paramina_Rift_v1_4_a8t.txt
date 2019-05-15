@@ -3,12 +3,12 @@
 	"** ZE FFXII PARAMINA RIFT **"
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
-		"DoorCountdown"		"-1"
-		"command"		"sm_flashlight_enabled 1"
+		"DoorCountdown"		"-1"		
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
 		"chi"		"**第一章：帕拉米亚大峡谷 **"
+		"command"       "sm_flashlight_enabled 1"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
@@ -269,6 +269,7 @@
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
 		"chi"		"**第二章：米利亚姆神庙**"
+		"command"	"sm_flashlight_enabled 0"
 	}
 	"** Player has acquired a SPEED-POTION **"
 	{
@@ -341,8 +342,7 @@
 	}
 	"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
 	{
-		"chi"		"**神秘房间还有5秒开启！**"
-		"command"		"sm_flashlight_enabled 0"
+		"chi"		"**神秘房间还有5秒开启！**"		
 	}
 	"0 '. STAGGER"
 	{
