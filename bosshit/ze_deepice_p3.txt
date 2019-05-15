@@ -128,12 +128,24 @@
 	{
 		"enable"		"0"
 		"hammerid"		"416084"
-		"m_iname"		"SeagullHealth&2806"
+		"m_iname"		"SeagullHealth&8213"
 	}
 	"307971"
 	{
 		"enable"		"0"
 		"hammerid"		"307971"
-		"m_iname"		"SeagullAlign&2806"
+		"m_iname"		"SeagullAlign&8213"
+	}
+	"410640"
+	{
+		"enable"		"0"
+		"hammerid"		"410640"
+		"m_iname"		"break2"
+	}
+	"134824"
+	{
+		"enable"		"0"
+		"hammerid"		"134824"
+		"m_iname"		"break2"
 	}
 }

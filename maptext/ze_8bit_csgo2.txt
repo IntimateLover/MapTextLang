@@ -226,11 +226,11 @@
 	}
 	"THE DOOR TO THE BOSS WILL OPEN IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**boss房将在30s后打开 **"
 	}
 	"THE DOOR TO THE BOSS WILL OPEN IN 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**boss房将在5s后打开 **"
 	}
 	"THE DOOR TO BOSS WILL OPEN IN 30 SECONDS"
 	{

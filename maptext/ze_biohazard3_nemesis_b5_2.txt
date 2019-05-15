@@ -366,14 +366,14 @@
 	}
 	"**This is the last point. The train departs in 35 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**到达最后的撤离列车，守住35s...**"
 	}
 	"**Doors will open in 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"**The Nemesis ultimate attack is ready ** Watch out**"
 	{
-		"chi"		"** **"
+		"chi"		"**快躲开复仇女神的致命一击!**"
 	}
 }

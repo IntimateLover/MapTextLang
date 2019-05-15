@@ -395,6 +395,7 @@
 	"<< Youve already got all 6 secret letters >>"
 	{
 		"chi"		">>>你已经得到了全部6个隐藏字母<<<"
+		"DoorCountdown"		"-1"
 	}
 	"<< the final door will open in 30 seconds >>"
 	{
@@ -549,6 +550,10 @@
 		"chi"		"** **"
 	}
 	"<< Nuke in 5 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie will release soon >>"
 	{
 		"chi"		"** **"
 	}

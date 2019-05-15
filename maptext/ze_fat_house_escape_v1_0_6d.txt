@@ -7,6 +7,7 @@
 	"*music 8*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**welcome to ze_fat_hours_escape**"
 	{
@@ -31,42 +32,52 @@
 	"*music 1*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 10*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 9*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 4*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 7*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 6*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 11*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 3*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 5*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 2*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"shooting zombies"
 	{
@@ -83,10 +94,12 @@
 	"*music 13*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*music 12*"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**25 seconds open door**"
 	{
@@ -159,6 +172,7 @@
 	"** heal pick up(cd 80s)**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*pick up music gun*"
 	{
