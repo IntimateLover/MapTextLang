@@ -8,11 +8,11 @@
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
-		"chi"		"**第①章：ミリアム峡谷 **"
+		"chi"		"**第一章：帕拉米亚大峡谷 **"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
-		"chi"		"**第①章：通往ミリアム遺跡的路**"
+		"chi"		"**第一章：找到一条通过帕拉米亚大峡谷的道路并找到米利亚姆神庙**"
 	}
 	"** [DIFFICULTY] NORMAL **"
 	{
@@ -25,7 +25,7 @@
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图作者：SLAYERDRAGON 感谢移植：PerfectLaugh**"
+		"chi"		"**地图作者：SLAYERDRAGON 感谢移植者：Koyuki(浅咕咕)**"
 	}
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
@@ -81,7 +81,7 @@
 	}
 	"** Player has learned AERO (wind lvl2) **"
 	{
-		"chi"		"**一位玩家拾取了风之权杖（LV2）**"
+		"chi"		"**一位玩家拾取了狂风权杖（LV2）**"
 	}
 	"** Player has learned POISONA (damage lvl3) **"
 	{
@@ -130,7 +130,7 @@
 	}
 	"** Player has learned AERO (wind lvl1) **"
 	{
-		"chi"		"**一位玩家拾取了风之权杖（LV1）**"
+		"chi"		"**一位玩家拾取了狂风权杖（LV1）**"
 	}
 	"** Player has learned BLIZZARD (ice lvl2) **"
 	{
@@ -170,7 +170,7 @@
 	}
 	"** YOU COULD USE FIRE TO MELT IT FASTER.. **"
 	{
-		"chi"		"**你们可以使用火来让冰块融化的快些**"
+		"chi"		"**你们可以使用烈焰权杖来让冰块融化的快些**"
 	}
 	"** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **"
 	{
@@ -196,7 +196,7 @@
 	}
 	"** Player has learned AEROGA (wind lvl3) **"
 	{
-		"chi"		"**一位玩家拾取了风之权杖（LV3）**"
+		"chi"		"**一位玩家拾取了狂风权杖（LV3）**"
 	}
 	"** Player has learned FIRE (fire lvl2) **"
 	{
@@ -220,11 +220,11 @@
 	}
 	"** Player has learned AEROJA (wind lvl5) **"
 	{
-		"chi"		"**一位玩家拾取了风之权杖（LV5）**"
+		"chi"		"**一位玩家拾取了狂风权杖（LV5）**"
 	}
 	"** Player has learned CURAGA (heal lvl5) **"
 	{
-		"chi"		"**一位玩家拾取了圣愈权杖（LV5）**"
+		"chi"		"**一位玩家拾取了治疗权杖（LV5）**"
 	}
 	"** 45 TOWERS DESTROYED! **"
 	{
@@ -244,7 +244,7 @@
 	}
 	"** Player has learned CURA (heal lvl3) **"
 	{
-		"chi"		"**一位玩家拾取了治愈权杖（LV3）**"
+		"chi"		"**一位玩家拾取了治疗权杖（LV3）**"
 	}
 	"** Player has learned FIRA (fire lvl3) **"
 	{
@@ -264,11 +264,11 @@
 	}
 	"Stage 2 - Find the hidden treasures and defeat the Esper Mateus in Stilshrine of Miriam.."
 	{
-		"chi"		"**第二章：找到隐藏的宝藏并击败<召喚獸—MATEUS 背徳の皇帝>**"
+		"chi"		"**第二章：找到隐藏的宝藏并在米利亚姆神庙中击败<召唤兽—背徳の皇帝 玛提乌斯Mateus>**"
 	}
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
-		"chi"		"**第二章：ミリアム遺跡**"
+		"chi"		"**第二章：米利亚姆神庙**"
 	}
 	"** Player has acquired a SPEED-POTION **"
 	{
@@ -293,7 +293,7 @@
 	}
 	"** Player has acquired a HI-POTION **"
 	{
-		"chi"		"**玩家得到了充足生命药剂！**"
+		"chi"		"**玩家得到了HI生命药剂！**"
 	}
 	"** BARRIER 1 OPENS IN 15 SECS **"
 	{
@@ -359,7 +359,7 @@
 	}
 	"** Player has acquired a HP-POTION **"
 	{
-		"chi"		"**玩家得到了HP药剂！**"
+		"chi"		"**玩家得到了HP生命药剂！**"
 	}
 	"** SOLVE THE BUTTON PUZZLE **"
 	{
@@ -437,7 +437,7 @@
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
-		"chi"		"**<MATEUS 背徳の皇帝>在准备释放最后一击！**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>在准备释放最后一击！**"
 	}
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
@@ -470,7 +470,7 @@
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
-		"chi"		"**<MATEUS 背徳の皇帝>正在释放超强技**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>正在释放超强技**"
 	}
 	"15 '. STAGGER"
 	{
@@ -499,7 +499,7 @@
 	}
 	"** Player has acquired the esper MATEUS **"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>已被拾取**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>已被拾取**"
 	}
 	"** ELEVATOR WILL LEAVE IN 30 SECONDS **"
 	{
@@ -508,7 +508,7 @@
 	}
 	"** The esper MATEUS has been summoned **"
 	{
-		"chi"		"**<召喚獸—MATEUS 背徳の皇帝>应召唤而来**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>应召唤而来**"
 	}
 	"** ELEVATOR WILL LEAVE IN 5 SECONDS **"
 	{
@@ -593,7 +593,7 @@
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
-		"chi"		"**在祭祀召唤之前向他们射击！**"
+		"chi"		"**在祭祀召唤卡奥斯降临之前向他们射击！**"
 	}
 	"** REMEMBER TO HOLD THE ZOMBIES TOO!! **"
 	{
@@ -601,11 +601,11 @@
 	}
 	"** OH NO - THEY SUMMONED CHAOS **"
 	{
-		"chi"		"**OH！不！他们唤醒了<CHAOS 輪廻王カオス> **"
+		"chi"		"**OH！不！他们唤醒了<召唤兽—轮回王 卡奥斯Chaos> **"
 	}
 	"** CHAOS IS CASTING RAINS OF TERROR **"
 	{
-		"chi"		"**<CHAOS 輪廻王カオス>正发动混亂之雨**"
+		"chi"		"**<召唤兽—轮回王 卡奥斯Chaos>正发动混乱之雨**"
 	}
 	"** TREASURE +87 GIL FOUND **"
 	{
@@ -613,7 +613,7 @@
 	}
 	"** Player has learned AEROGA (wind lvl4) **"
 	{
-		"chi"		"**一位玩家拾取了风之权杖（LV4）**"
+		"chi"		"**一位玩家拾取了狂风权杖（LV4）**"
 	}
 	"95 '. STAGGER"
 	{
@@ -633,7 +633,7 @@
 	}
 	"** The esper MATEUS is killed in action **"
 	{
-		"chi"		"**召唤被取消**"
+		"chi"		"**召唤玛提乌斯Mateus的行动被取消了**"
 	}
 	"** YOU FOUND A WAY TO OPEN THE GATE **"
 	{
@@ -649,7 +649,7 @@
 	}
 	"** CHAOS IS DEFEATED ONCE AND FOR ALL **"
 	{
-		"chi"		"**<CHAOS 輪廻王カオス> 已被打败**"
+		"chi"		"**<召唤兽—轮回王 卡奥斯Chaos> 已被打败**"
 	}
 	"** Congratulations - you won STAGE 1 INSANE **"
 	{
@@ -672,7 +672,7 @@
 	}
 	"** BOSS SPAWNED SOME MINIONS **"
 	{
-		"chi"		"**<MATEUS-背德の皇帝>召唤出协战物**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>召唤出协战物**"
 	}
 	"** MAKE A STAND HERE TILL WE FOUND A WAY OUT **"
 	{
@@ -684,7 +684,7 @@
 	}
 	"** OH GOD ITS MATEUS! SHOOT IT! **"
 	{
-		"chi"		"**是<召喚獸—MATEUS 背徳の皇帝>!全力对其射击！**"
+		"chi"		"**是<召唤兽—背徳の皇帝 玛提乌斯Mateus>!在它要消灭我们之前全力杀死它！**"
 	}
 	"** DOOR WILL OPEN IN 30 SECONDS **"
 	{
@@ -697,7 +697,7 @@
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 2 NORMAL **"
 	{
-		"chi"		"**管理员调关至普通难度第二章**"
+		"chi"		"**管理员选择了普通难度第二章**"
 	}
 	"** TREASURE +100 GIL FOUND **"
 	{
@@ -725,15 +725,15 @@
 	}
 	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
 	{
-		"chi"		"**它已经死了!快逃到树林里去**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>已经死了!快逃到树林里去**"
 	}
 	"** END OF THE LINE **"
 	{
-		"chi"		"** **"
+		"chi"		"**一切都结束了！**"
 	}
 	"** Congratulations - you won STAGE 2 INSANE **"
 	{
-		"chi"		"** **"
+		"chi"		"**你在疯狂难度第二章中胜利了！**"
 	}
 	"15 . STAGGER"
 	{
@@ -901,7 +901,7 @@
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 2 INSANE **"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了疯狂难度第二章**"
 	}
 	"35 GIL OBTAINED BY DEACTIVATING A TOWER"
 	{
@@ -1026,7 +1026,7 @@
 	}
 	"** YOU KILLED MATEUS **"
 	{
-		"chi"		"**你打败了皇帝 **"
+		"chi"		"**你打败了<召唤兽—背徳の皇帝 玛提乌斯Mateus>**"
 		"command"		"sm_flashlight_enabled 1"
 	}
 	"The esper MATEUS has been summoned"
@@ -1059,12 +1059,12 @@
 	}
 	"** YOU DEFEATED MATEUS **"
 	{
-		"chi"		"**你打败了皇帝**"
+		"chi"		"**你打败了<召唤兽—背徳の皇帝 玛提乌斯Mateus>**"
 		"command"		"sm_flashlight_enabled 1"
 	}
 	"** MATEUS TRICKED US! ITS A FAKE ESPER! **"
 	{
-		"chi"		"**它欺骗了我们！！那个皇帝是假的！！！**"
+		"chi"		"**<召唤兽—背徳の皇帝 玛提乌斯Mateus>欺骗了我们！！它是假的！！！**"
 	}
 	"** Player has learned GRAVITY -- Level 5 **"
 	{
@@ -1329,7 +1329,7 @@
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **"
 	{
-		"chi"		"**调关房选择了 疯狂1 难度**"
+		"chi"		"**管理员选择了疯狂难度第一章**"
 		"DoorCountdown"		"-1"
 	}
 	"sync_version"
@@ -1342,7 +1342,7 @@
 	}
 	"** Player has learned BLIZZARD **"
 	{
-		"chi"		"**一位玩家习得了暴风雪**"
+		"chi"		"** **"
 	}
 	"** Player has learned FIRE **"
 	{
@@ -1366,7 +1366,7 @@
 	}
 	"** Player has learned BLIZZARA **"
 	{
-		"chi"		"**一位玩家习得了暴风雪**"
+		"chi"		"** **"
 	}
 	"** Player has learned FIRAGA **"
 	{
@@ -1390,7 +1390,7 @@
 	}
 	"** Player has learned BLIZZAGA **"
 	{
-		"chi"		"**一位玩家习得了暴风雪**"
+		"chi"		"** **"
 	}
 	"** Player has learned FIRA **"
 	{
