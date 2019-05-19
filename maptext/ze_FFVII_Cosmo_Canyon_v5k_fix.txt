@@ -130,7 +130,7 @@
 	}
 	"[Cloud] Ay.. There you are!"
 	{
-		"chi"		"**[克劳德]喂..你在哪！**"
+		"chi"		"**[克劳德]这..这就是!**"
 	}
 	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
 	{
@@ -139,7 +139,7 @@
 	}
 	"[Cloud] Thanks. But one question.. What did we forget here?"
 	{
-		"chi"		"**谢谢.但有一个问题..我们是不是忘了什么？**"
+		"chi"		"**谢谢.但有一个问题..我们为什么要来这里？**"
 	}
 	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
 	{
@@ -412,7 +412,7 @@
 	}
 	"[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
 	{
-		"chi"		"**[克劳德]考!我想神罗基地应该已经注意到宇宙峡谷中出现的巴哈姆特了..我们即会迎来更多的麻烦**"
+		"chi"		"**[克劳德]考!我想神罗基地应该已经注意到宇宙峡谷中出现的巴哈姆特了..我们可能会迎来更多的麻烦**"
 	}
 	"**Ifrit is defeated! Get on the airship**"
 	{
