@@ -164,8 +164,7 @@
 	}
 	"*** Defend until the path is clear ***"
 	{
-		"chi"		"**守到蜘蛛网清除：30**"
-		"DoorCountdown"		"-1"
+		"chi"		"**30秒 守到蜘蛛网清除**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
@@ -827,6 +826,6 @@
 	}
 	">> ZOMBIES IN THE SAFE AREA <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达安全区域了**"
 	}
 }
