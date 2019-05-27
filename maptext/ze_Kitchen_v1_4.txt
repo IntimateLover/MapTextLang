@@ -8,7 +8,7 @@
 	{
 		"chi"		"**刷死进来的僵尸！**"
 	}
-	">>> Door closes in 15 sec <<<"
+	">>> DOOR CLOSES IN 15 sec <<<"
 	{
 		"chi"		"**门将在15秒后关闭**"
 	}
@@ -40,7 +40,7 @@
 	{
 		"chi"		"**守住30秒**"
 	}
-	">>> Door opens in 20 sec <<<"
+	">>> DOOR OPENS IN 20 SEC <<<"
 	{
 		"chi"		"**门将在20秒后打开**"
 	}
@@ -76,11 +76,11 @@
 	{
 		"chi"		"**守住50秒**"
 	}
-	">>> Door opens in 30 sec <<<"
+	">>> DOOR OPENS IN 30 SEC <<<"
 	{
 		"chi"		"**门将在30秒后打开**"
 	}
-	">>> Door closes in 20 sec <<<"
+	">>> DOOR CLOSES IN 20 SEC <<<"
 	{
 		"chi"		"**门将在20秒后关闭**"
 	}
@@ -123,5 +123,25 @@
 	"sync_version"
 	{
 		"syncvalue"		"62760"
+	}
+	">>> FALL BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSES IN 5 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Door opens in 5 sec <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Still defend 5 sec <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> The door is open <<<"
+	{
+		"chi"		"** **"
 	}
 }

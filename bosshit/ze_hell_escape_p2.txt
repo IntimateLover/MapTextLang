@@ -138,4 +138,22 @@
 		"hammerid"		"167066"
 		"m_iname"		"Crates"
 	}
+	"152948"
+	{
+		"enable"		"0"
+		"hammerid"		"152948"
+		"m_iname"		"Door Cage 1"
+	}
+	"153003"
+	{
+		"enable"		"0"
+		"hammerid"		"153003"
+		"m_iname"		"Door Cage 1"
+	}
+	"153055"
+	{
+		"enable"		"0"
+		"hammerid"		"153055"
+		"m_iname"		"Door Cage 1"
+	}
 }

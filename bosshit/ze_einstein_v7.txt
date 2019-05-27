@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"296808"
+	{
+		"enable"		"0"
+		"hammerid"		"296808"
+		"m_iname"		"elevator1_button1_spotlight_red"
+	}
+	"73715"
+	{
+		"enable"		"0"
+		"hammerid"		"73715"
+		"m_iname"		"elevator1_button2_spotlight_red"
+	}
+	"319972"
+	{
+		"enable"		"0"
+		"hammerid"		"319972"
+		"m_iname"		"sexy1_physbox&1655"
+	}
+	"319466"
+	{
+		"enable"		"0"
+		"hammerid"		"319466"
+		"m_iname"		"sexy1_wrap&1655"
+	}
+	"1975"
+	{
+		"enable"		"0"
+		"hammerid"		"1975"
+		"m_iname"		"modified_george_cade_sb_physbox"
+	}
+	"311622"
+	{
+		"enable"		"0"
+		"hammerid"		"311622"
+		"m_iname"		"modified_george_cade_sb_wrap&16"
+	}
+}

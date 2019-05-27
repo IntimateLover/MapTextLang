@@ -107,7 +107,7 @@
 		"		"		"**门将会在15秒后打开"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"15"		"
 	}
 	"
@@ -158,7 +158,7 @@
 		"		"		"**障碍物将会在15秒后打破"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"15"		"
 		"
 		"ico"		"		"
@@ -218,7 +218,7 @@
 		"		"		"**障碍物将会在20秒后被爆破"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"20"		"
 		"
 		"ico"		"		"
@@ -256,7 +256,7 @@
 		"		"		"**最后的大门将会在20秒后关闭，坚持住"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"20"		"
 	}
 	"
@@ -357,7 +357,7 @@
 		"		"		"**门将会在20秒后打开"
 		"**"		"
 		"
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"20"		"
 	}
 	"
@@ -865,7 +865,7 @@
 	"**The bridge will open in 15 seconds**"
 	{
 		"chi"		"**路将在15秒后开放 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"A player picked up Force Speed"
 	{
@@ -878,7 +878,7 @@
 	"A player picked up Force Heal"
 	{
 		"chi"		"***一位玩家拾起了神器：治疗原力（定点范围加到300HP） **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**The bridge will open in 5 seconds**"
 	{
@@ -899,7 +899,7 @@
 	"**The doors will open in 15 seconds**"
 	{
 		"chi"		"**门将会在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**The doors will open in 5 seconds**"
 	{
@@ -920,7 +920,7 @@
 	"**Destroy the barricade 15 second**"
 	{
 		"chi"		"**障碍物将会在15秒后打破 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**Destroy the barricade 5 second**"
 	{
@@ -929,7 +929,7 @@
 	"**The palace doors will open in 30 seconds**"
 	{
 		"chi"		"**皇宫大门将会在30秒后打开，坚持住！ **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
@@ -942,12 +942,12 @@
 	"**Destroy the barricade in 20 second**"
 	{
 		"chi"		"**障碍物将会在20秒后被爆破 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Last door will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将会在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**FALL BACK**"
 	{
@@ -956,7 +956,7 @@
 	"**Fall back close door in 20 second**"
 	{
 		"chi"		"**最后的大门将会在20秒后关闭，坚持住 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**Level 1 is complete**"
 	{
@@ -981,12 +981,12 @@
 	"**The doors will open in 30 seconds**"
 	{
 		"chi"		"**门将会在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**The droids will be killed in 30 seconds**"
 	{
 		"chi"		"**机器人将会在30秒后被击溃 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**The droids will be killed in 5 seconds**"
 	{
@@ -1003,22 +1003,22 @@
 	"**The droids will be killed in 20 seconds**"
 	{
 		"chi"		"**机器人将会在20秒后被击溃 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**The droids will be killed in 25 seconds**"
 	{
 		"chi"		"**机器人将会在25秒后被击溃 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**The hangar doors will open in 20 seconds**"
 	{
 		"chi"		"**飞机库大门将会在20秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"A player picked up Force Rage"
 	{
 		"chi"		"**一位玩家拾起了神器：终极原力（定点大范围，20秒后爆炸） **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**The hangar doors will open in 5 seconds**"
 	{
@@ -1051,7 +1051,7 @@
 	"**The bridge will open in 25 seconds**"
 	{
 		"chi"		"**通往大桥的道路将会在25秒后开放  **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"**Fall back! The bridge has closed**"
 	{
@@ -1071,12 +1071,13 @@
 	}
 	"get to the side GET TO THE SIDE"
 	{
-		"chi"		"** **"
+		"chi"		"**快往两边散开！快~**"
+		"DoorCountdown"		"5"
 	}
 	"*The droids will be killed in 20 seconds*"
 	{
 		"chi"		"**机器人将会在20秒后被击溃 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*Droids cover the vicegerent. Capture him!*"
 	{
@@ -1089,12 +1090,12 @@
 	"*The doors will open in 15 seconds*"
 	{
 		"chi"		"**大门将会在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*Fall back door close in 15 second*"
 	{
 		"chi"		"**最后的大门将会在15秒后关闭 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**Darth maul dead**"
 	{
@@ -1119,17 +1120,17 @@
 	"Third door will open in 10 seconds"
 	{
 		"chi"		"**第三道门10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Second door will open in 10 seconds"
 	{
 		"chi"		"**第二道门10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"Last door will open in 40 seconds"
 	{
 		"chi"		"**最后一道门40秒后打开 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"AFK TELEPORT 5 IN SECOND"
 	{
@@ -1138,25 +1139,27 @@
 	"BOSS USE RAGE"
 	{
 		"chi"		"**BOSS使用了原力狂怒，快贴墙 **"
+		"DoorCountdown"		"3"
 	}
 	"BOSS USE SWORD. CROUCH!!!!!!"
 	{
 		"chi"		"**BOSS使用了剑气，快TM蹲下！！ **"
+		"DoorCountdown"		"3"
 	}
 	"**First door will open in 45 seconds**"
 	{
 		"chi"		"**第一扇门将会在45秒后打开 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"Second door will open in 15 seconds"
 	{
 		"chi"		"**第二扇门将会在15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"Third door will open in 30 seconds"
 	{
 		"chi"		"**第三扇门将会在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"**Level 5 is complete**"
 	{
@@ -1193,7 +1196,7 @@
 	"Boss fight in 25 second"
 	{
 		"chi"		"**BOSS战25秒后开始 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"Boss fight in 10 second"
 	{
@@ -1222,7 +1225,7 @@
 	"**The wall will explode in 30 second**"
 	{
 		"chi"		"**墙壁30秒后爆炸 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"The ship will fly away in 35 seconds"
 	{
@@ -1291,7 +1294,7 @@
 	"Run!!! The ship will departs after in 20 second"
 	{
 		"chi"		"**跑！这艘船20秒后离开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"sync_version"
 	{

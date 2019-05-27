@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"<> WARNING: Zombies Teleport in 10 Seconds! <>"
+	{
+		"chi"		"** **"
+	}
+	"<> DANGER: Lava is Rising! <>"
+	{
+		"chi"		"** **"
+	}
+	"<> NOTICE: Button 12 Pressed! <>"
+	{
+		"chi"		"** **"
+	}
+	"<> NOTICE: Defend the Bridge! <>"
+	{
+		"chi"		"** **"
+	}
+	"<> NOTICE: Trigger 2 Buttons for Elevator! <>"
+	{
+		"chi"		"** **"
+	}
+}

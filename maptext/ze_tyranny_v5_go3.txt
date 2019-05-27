@@ -17,7 +17,7 @@
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**传送点在20秒后激活**"
-		"DoorCountdown"		"-1"
+		"DoorCountdown"		"0"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
@@ -54,7 +54,7 @@
 	">>> HOLD 45 SECONDS <<<"
 	{
 		"chi"		"**坚守45秒**"
-		"DoorCountdown"		"45"
+		"DoorCountdown"		"0"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
@@ -92,12 +92,12 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		"**坚守25秒直至左方大门打开**"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"0"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		"**坚守20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
@@ -106,12 +106,12 @@
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**坚守10秒**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
 		"chi"		"**坚守5秒**"
-		"DoorCountdown"		"5"
+		"DoorCountdown"		"0"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
@@ -120,7 +120,7 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		"**坚守15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
@@ -211,7 +211,7 @@
 	">>> HOLD 30 SECONDS <<<"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"0"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
@@ -237,7 +237,7 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		"**坚守35秒**"
-		"DoorCountdown"		"35"
+		"DoorCountdown"		"0"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
@@ -273,7 +273,7 @@
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
 		"chi"		"**传送点10秒后激活**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	">>> STAGE 4 <<<"
 	{
@@ -321,12 +321,12 @@
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
 		"chi"		"**坚守40秒**"
-		"DoorCountdown"		"40"
+		"DoorCountdown"		"0"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
@@ -335,7 +335,7 @@
 	">>> HOLD 15 SECONDS<<<"
 	{
 		"chi"		"**坚守15秒直至我们把大桥炸毁**"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
