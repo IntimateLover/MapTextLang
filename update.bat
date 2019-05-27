@@ -1,17 +1,14 @@
-echo;此批处理 按照服务器时间每天凌晨3点自动执行一次 添加到windows计划任务以自动化执行.
-echo;安装 Git 客户端 和 部署Github SSH 秘钥来实现 推送以实现服务器免登陆Github.
-
-
 cd /d "G:\GitSYNC\MapTextLang"
 git pull origin master
+
 
 @echo off
 set "sd=F:\CSGOSERVER\csgoserverzev2\csgo\addons\sourcemod\configs\console_t"
 set "dd=G:\GitSYNC\MapTextLang\maptext"
-rem -2前天，-1昨天，0今天
+rem -2ǰ�죬-1���죬0����
 set d=-1
 for /f %%a in ('mshta VBScript:Execute("NewDate=date+(%d%):FmtDate=right(year(NewDate),4)&right(""0""&month(NewDate),2)&right(""0""&day(NewDate),2):CreateObject(""Scripting.FileSystemObject"").GetStandardStream(1).Write FmtDate:close"^)') do set yd=%%a
-echo;昨天日期为%yd%
+echo;��������Ϊ%yd%
 cd /d "%sd%"
 if not exist "%dd%"  md "%dd%"
 setlocal enabledelayedexpansion
@@ -24,14 +21,16 @@ for /f "delims=" %%i in ('dir *.*/a-d /b /s') do (
         copy "%%i" "%dd%" /y 2>nul||(attrib -r -s -h "%%i"& copy "%%i" "%dd%" /y >nul)
     )
 )
+
+
 
 @echo off
 set "sd=F:\CSGOSERVER\csgoserverzev2\csgo\addons\sourcemod\configs\bosshit"
 set "dd=G:\GitSYNC\MapTextLang\bosshit"
-rem -2前天，-1昨天，0今天
+rem -2ǰ�죬-1���죬0����
 set d=-1
 for /f %%a in ('mshta VBScript:Execute("NewDate=date+(%d%):FmtDate=right(year(NewDate),4)&right(""0""&month(NewDate),2)&right(""0""&day(NewDate),2):CreateObject(""Scripting.FileSystemObject"").GetStandardStream(1).Write FmtDate:close"^)') do set yd=%%a
-echo;昨天日期为%yd%
+echo;��������Ϊ%yd%
 cd /d "%sd%"
 if not exist "%dd%"  md "%dd%"
 setlocal enabledelayedexpansion
@@ -45,10 +44,12 @@ for /f "delims=" %%i in ('dir *.*/a-d /b /s') do (
     )
 )
 
-echo; 昨日文件内容复制完毕了...
-cd /d "G:\GitSYNC\MapTextLang"
-echo; 开始Push到Git 提交名称为 "autoupdate"
 
+
+
+
+
+cd /d "G:\GitSYNC\MapTextLang"
 git add . && git commit -m autoupdate && git push origin master
 
-exit
+
