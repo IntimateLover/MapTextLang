@@ -488,7 +488,7 @@
 	}
 	"7598431"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"7598431"
 		"m_iname"		"Belias_Break"
 	}
@@ -845,5 +845,215 @@
 		"enable"		"0"
 		"hammerid"		"8060373"
 		"m_iname"		"Staff_Heal_Epicker"
+	}
+	"8792295"
+	{
+		"enable"		"0"
+		"hammerid"		"8792295"
+		"m_iname"		"Staff_Wind_Fix"
+	}
+	"8792754"
+	{
+		"enable"		"0"
+		"hammerid"		"8792754"
+		"m_iname"		"Knife_Shield_Physbox"
+	}
+	"2353085"
+	{
+		"enable"		"0"
+		"hammerid"		"2353085"
+		"m_iname"		"Judge_Nade"
+	}
+	"8857224"
+	{
+		"enable"		"0"
+		"hammerid"		"8857224"
+		"m_iname"		"Airship_End_Breakable4"
+	}
+	"8857227"
+	{
+		"enable"		"0"
+		"hammerid"		"8857227"
+		"m_iname"		"Airship_End_Breakable5"
+	}
+	"8857232"
+	{
+		"enable"		"0"
+		"hammerid"		"8857232"
+		"m_iname"		"Airship_End_Breakable1"
+	}
+	"8857235"
+	{
+		"enable"		"0"
+		"hammerid"		"8857235"
+		"m_iname"		"Airship_End_Breakable3"
+	}
+	"8857238"
+	{
+		"enable"		"0"
+		"hammerid"		"8857238"
+		"m_iname"		"Airship_End_Breakable2"
+	}
+	"8859181"
+	{
+		"enable"		"0"
+		"hammerid"		"8859181"
+		"m_iname"		"Airship_End_Breakable6"
+	}
+	"8859193"
+	{
+		"enable"		"0"
+		"hammerid"		"8859193"
+		"m_iname"		"Airship_End_Breakable7"
+	}
+	"8980284"
+	{
+		"enable"		"1"
+		"hammerid"		"8980284"
+		"m_iname"		"Guard_Boss_Physbox"
+	}
+	"8859205"
+	{
+		"enable"		"1"
+		"hammerid"		"8859205"
+		"m_iname"		"Guard_Boss_Break"
+	}
+	"8857183"
+	{
+		"enable"		"0"
+		"hammerid"		"8857183"
+		"m_iname"		"Chaos_Armor"
+	}
+	"8858030"
+	{
+		"enable"		"0"
+		"hammerid"		"8858030"
+		"m_iname"		"Chaos_Platebreak"
+	}
+	"8858036"
+	{
+		"enable"		"0"
+		"hammerid"		"8858036"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858039"
+	{
+		"enable"		"0"
+		"hammerid"		"8858039"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858042"
+	{
+		"enable"		"0"
+		"hammerid"		"8858042"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858045"
+	{
+		"enable"		"0"
+		"hammerid"		"8858045"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858048"
+	{
+		"enable"		"0"
+		"hammerid"		"8858048"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858051"
+	{
+		"enable"		"0"
+		"hammerid"		"8858051"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858054"
+	{
+		"enable"		"0"
+		"hammerid"		"8858054"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858057"
+	{
+		"enable"		"0"
+		"hammerid"		"8858057"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858060"
+	{
+		"enable"		"0"
+		"hammerid"		"8858060"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858063"
+	{
+		"enable"		"0"
+		"hammerid"		"8858063"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858066"
+	{
+		"enable"		"0"
+		"hammerid"		"8858066"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858069"
+	{
+		"enable"		"0"
+		"hammerid"		"8858069"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858072"
+	{
+		"enable"		"0"
+		"hammerid"		"8858072"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858075"
+	{
+		"enable"		"0"
+		"hammerid"		"8858075"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858078"
+	{
+		"enable"		"0"
+		"hammerid"		"8858078"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858081"
+	{
+		"enable"		"0"
+		"hammerid"		"8858081"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858084"
+	{
+		"enable"		"0"
+		"hammerid"		"8858084"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8858087"
+	{
+		"enable"		"0"
+		"hammerid"		"8858087"
+		"m_iname"		"God_End_Phys_Plat"
+	}
+	"8859211"
+	{
+		"enable"		"0"
+		"hammerid"		"8859211"
+		"m_iname"		"Espers_Mateus_Physbox"
+	}
+	"8859208"
+	{
+		"enable"		"0"
+		"hammerid"		"8859208"
+		"m_iname"		"Espers_Belias_Physbox"
+	}
+	"8859214"
+	{
+		"enable"		"0"
+		"hammerid"		"8859214"
+		"m_iname"		"Espers_Chaos_Physbox"
 	}
 }

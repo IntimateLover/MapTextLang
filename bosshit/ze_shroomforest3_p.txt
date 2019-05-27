@@ -508,7 +508,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"519739"
-		"m_iname"		"LadderRung&8010"
+		"m_iname"		"LadderRung&0205"
 	}
 	"90287"
 	{
@@ -566,37 +566,37 @@
 	}
 	"554166"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"554166"
 		"m_iname"		"Spider_Break1"
 	}
 	"554233"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"554233"
 		"m_iname"		"Spider_Break2"
 	}
 	"554246"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"554246"
 		"m_iname"		"Spider_Break3"
 	}
 	"554259"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"554259"
 		"m_iname"		"Spider_Break4"
 	}
 	"554272"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"554272"
 		"m_iname"		"Spider_Break5"
 	}
 	"554292"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"554292"
 		"m_iname"		"Spider_Break6"
 	}
@@ -814,7 +814,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"2096199"
-		"m_iname"		"Item_Pokeball_Physbox&7753"
+		"m_iname"		"Item_Pokeball_Physbox&0689"
 	}
 	"1229242"
 	{

@@ -798,7 +798,7 @@
 	}
 	"Its super effective!"
 	{
-		"chi"		"** **"
+		"chi"		"**效果拔群**"
 	}
 	"Enemy DIGLETT used SCRATCH!"
 	{
@@ -822,7 +822,7 @@
 	}
 	"Its not very effective..."
 	{
-		"chi"		"** **"
+		"chi"		"**效果一般**"
 	}
 	"HUMANs blacked out!"
 	{
@@ -853,6 +853,22 @@
 		"chi"		"** **"
 	}
 	"Enemy WEEDLE used TACKLE!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy GEODUDE used DEFENSE CURL!"
+	{
+		"chi"		"** **"
+	}
+	"GEODUDEs DEFENSE rose!"
+	{
+		"chi"		"** **"
+	}
+	"Zombies did not pick a starter!"
+	{
+		"chi"		"** **"
+	}
+	"If youre that indecisive you can just take this one!"
 	{
 		"chi"		"** **"
 	}

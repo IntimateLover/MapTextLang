@@ -80,7 +80,7 @@
 	}
 	"120347"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"120347"
 		"m_iname"		"boss_phys_512_1"
 	}
@@ -154,19 +154,19 @@
 	{
 		"enable"		"0"
 		"hammerid"		"113391"
-		"m_iname"		"npc_phys&8195"
+		"m_iname"		"npc_phys&4785"
 	}
 	"112929"
 	{
 		"enable"		"0"
 		"hammerid"		"112929"
-		"m_iname"		"i_cannonfire_phys&6531"
+		"m_iname"		"i_cannonfire_phys&0733"
 	}
 	"113713"
 	{
 		"enable"		"0"
 		"hammerid"		"113713"
-		"m_iname"		"i_magic_phys&7561"
+		"m_iname"		"i_magic_phys&3724"
 	}
 	"112974"
 	{
@@ -184,7 +184,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"112365"
-		"m_iname"		"i_boar_detect&4291"
+		"m_iname"		"i_boar_detect&2893"
 	}
 	"119657"
 	{
@@ -196,7 +196,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"120107"
-		"m_iname"		"s6ladderblock2"
+		"m_iname"		"g_block256"
 	}
 	"119687"
 	{
