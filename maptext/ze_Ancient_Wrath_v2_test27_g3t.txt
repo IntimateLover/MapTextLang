@@ -310,4 +310,8 @@
 	{
 		"syncvalue"		"64621"
 	}
+	"||| ZOMBIE TRAIN - WIN DISABLE |||"
+	{
+		"chi"		"** **"
+	}
 }

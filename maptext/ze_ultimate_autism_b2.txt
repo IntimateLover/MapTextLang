@@ -31,7 +31,7 @@
 	"***Defend for 20 seconds***"
 	{
 		"chi"		"**等待20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Defend for 10 seconds***"
 	{
@@ -84,12 +84,12 @@
 	"***Defend for 30 seconds***"
 	{
 		"chi"		"**等待30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***Door opening in 20 seconds***"
 	{
@@ -104,6 +104,18 @@
 		"chi"		"** **"
 	}
 	"***LOW GRAVITY***"
+	{
+		"chi"		"** **"
+	}
+	"***土豆哥是真的菜(10)***"
+	{
+		"chi"		"** **"
+	}
+	"***土豆哥是真的菜 10 ***"
+	{
+		"chi"		"** **"
+	}
+	"***土豆哥是真的(10)菜 ***"
 	{
 		"chi"		"** **"
 	}
