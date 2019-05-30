@@ -191,26 +191,32 @@
 	"** Dancing Claw - prepare using heal **"
 	{
 		"chi"		"**舞爪 - 使用奶子**"
+		"DoorCountdown"		"3"
 	}
 	"** Divine Tears - crouch **"
 	{
 		"chi"		"**圣泪 - 蹲下**"
+		"DoorCountdown"		"3"
 	}
 	"** Ricochet **"
 	{
 		"chi"		"**冲撞 - 硬抗**"
+		"DoorCountdown"		"3"
 	}
 	"** Vampire - stop shooting **"
 	{
 		"chi"		"**吸血 - 停止射击**"
+		"DoorCountdown"		"3"
 	}
 	"** Swallow - stay back **"
 	{
 		"chi"		"**吞噬 - 往后站**"
+		"DoorCountdown"		"3"
 	}
 	"** Force - stay front **"
 	{
 		"chi"		"**力量 - 往前站**"
+		"DoorCountdown"		"3"
 	}
 	"** You are too late. Boss enrage soon.. **"
 	{

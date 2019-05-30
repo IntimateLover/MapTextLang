@@ -15,6 +15,7 @@
 	"***Recharge: 80 seconds.***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**Defend until the castle doors break**"
 	{
@@ -23,6 +24,7 @@
 	"**Defend the 1st floor until the teleporter activates**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**Start falling back**"
 	{
@@ -103,6 +105,7 @@
 	"*** Admin switched to Act L6-L7! ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"**Reach the teleporter to meet Leiv**"
 	{
@@ -143,18 +146,22 @@
 	"**Demonfire**"
 	{
 		"chi"		"**恶魔之火（原地跳跃减少伤害）**"
+		"DoorCountdown"		"5"
 	}
 	"**Heat Wave**"
 	{
 		"chi"		"**炽热波浪（蹲下）**"
+		"DoorCountdown"		"5"
 	}
 	"**Execute**"
 	{
-		"chi"		"** **"
+		"chi"		"**终极处决（往没有红点的平台移动，红点平台人类会被处死）**"
+		"DoorCountdown"		"6"
 	}
 	"**Fire Vortex**"
 	{
 		"chi"		"**火焰漩涡（按住S后退抵抗吸力）**"
+		"DoorCountdown"		"5"
 	}
 	"**Viz has escaped!**"
 	{
