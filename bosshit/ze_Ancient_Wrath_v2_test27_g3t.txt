@@ -558,4 +558,10 @@
 		"hammerid"		"5758053"
 		"m_iname"		"weapon_earth_breakable"
 	}
+	"350052"
+	{
+		"enable"		"1"
+		"hammerid"		"350052"
+		"m_iname"		"boss_tar"
+	}
 }

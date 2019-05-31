@@ -49,7 +49,7 @@
 	}
 	"** BIO Materia has been found. **"
 	{
-		"chi"		"**剧毒神器已经被拾取**"
+		"chi"		"**毒神器已经被拾取**"
 	}
 	"** MIMIC Materia has been found. **"
 	{
@@ -125,7 +125,7 @@
 	}
 	"< Hmm... I was expecting more... >"
 	{
-		"chi"		"<我期待更多>"
+		"chi"		"<我期待更多...>"
 	}
 	"< Impressive! >"
 	{
@@ -133,7 +133,7 @@
 	}
 	"< Fly! >"
 	{
-		"chi"		"<飞！>"
+		"chi"		"<起飞吧！>站栏杆的都给我死！"
 	}
 	"< Dodge this! >"
 	{
@@ -157,7 +157,7 @@
 	}
 	"** Next difficulty was chosen by an Administrator! **"
 	{
-		"chi"		"**下一关已被选择**"
+		"chi"		"**下一关已被管理员选择**"
 	}
 	"** ADMIN PRESSED KILL ALL BUTTON **"
 	{
@@ -221,7 +221,7 @@
 	}
 	"< TRY TO SURVIVE IN THE CITY AREA >"
 	{
-		"chi"		"<尝试生存到时间结束>OMG!you will solo win!"
+		"chi"		"<尝试生存到时间结束>找个没人知道的地方躲起来吧，solo在等着你呢！"
 	}
 	"** Zombies detected! You lose! **"
 	{
