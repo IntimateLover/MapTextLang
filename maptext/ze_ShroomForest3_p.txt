@@ -512,11 +512,11 @@
 	}
 	">> GO ON THE BOOK ! <<"
 	{
-		"chi"		"**赶紧上书**"
+		"chi"		"**赶紧上到书本上面去，别让僵尸上来，这是最后了**"
 	}
 	">> LEVEL: TIME LOOP <<"
 	{
-		"chi"		"**关卡：时光循环**"
+		"chi"		"**关卡：时光循环（河北省的元首 雾）**"
 	}
 	">> THE TIME MACHINE IS ALMOST READY !!! <<"
 	{
@@ -528,7 +528,7 @@
 	}
 	">> DEFEND FOR 40 SECONDS <<"
 	{
-		"chi"		"**在时空隧道防守40秒**"
+		"chi"		"**在时空隧道防守40秒，目标：河北省**"
 	}
 	">> 5 SECONDS LEFT !!! <<"
 	{
@@ -556,7 +556,7 @@
 	}
 	">> OH NO!! ITS PIKACHU NAZI <<"
 	{
-		"chi"		"**不好，是纳粹皮卡丘**"
+		"chi"		"**不好，是元首皮卡丘**"
 	}
 	">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<"
 	{
@@ -564,11 +564,11 @@
 	}
 	">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
 	{
-		"chi"		"**纳粹皮卡丘释放了闪电**"
+		"chi"		"**元首皮卡丘释放了闪电，渣渣**"
 	}
 	">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<"
 	{
-		"chi"		"**皮卡丘纳粹被击败**"
+		"chi"		"**皮卡丘元首被击败了**"
 	}
 	">> WE WERE TOO LATE !!! <<"
 	{
