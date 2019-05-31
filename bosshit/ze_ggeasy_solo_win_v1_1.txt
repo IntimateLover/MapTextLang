@@ -240,4 +240,10 @@
 		"hammerid"		"105122"
 		"m_iname"		"Sasuke middle chidori"
 	}
+	"105032"
+	{
+		"enable"		"0"
+		"hammerid"		"105032"
+		"m_iname"		"Sasuke edge chidori"
+	}
 }
