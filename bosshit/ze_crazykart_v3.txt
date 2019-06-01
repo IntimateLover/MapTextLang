@@ -162,4 +162,10 @@
 		"hammerid"		"523640"
 		"m_iname"		"i_breakeffect_rock&5694"
 	}
+	"617318"
+	{
+		"enable"		"0"
+		"hammerid"		"617318"
+		"m_iname"		"i_item_bombz_phys&2547"
+	}
 }
