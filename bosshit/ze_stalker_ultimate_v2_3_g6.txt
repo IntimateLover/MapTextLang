@@ -164,7 +164,7 @@
 	}
 	"208011"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"208011"
 		"m_iname"		"phys1_1"
 	}
@@ -380,7 +380,7 @@
 	}
 	"2115405"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2115405"
 		"m_iname"		"phys2"
 	}

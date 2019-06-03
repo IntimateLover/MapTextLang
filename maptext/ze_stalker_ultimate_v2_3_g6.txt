@@ -47,14 +47,17 @@
 	"Lab door 1 will open in 11 seconds"
 	{
 		"chi"		"**实验室门1将在11秒后打开 **"
+		"DoorCountDown"		"-1"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
 		"chi"		"**电梯1将在4秒后离开 **"
+		"DoorCountDown"		"-1"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
 		"chi"		"**实验门1将在18秒后为僵尸打开 **"
+		"DoorCountDown"		"-1"
 	}
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
@@ -64,10 +67,12 @@
 	"The gate 1 will open in 30 seconds"
 	{
 		"chi"		"**门1将在30秒后打开 **"
+		"DoorCountDown"		"30"
 	}
 	"The gate 2 will open in 30 seconds"
 	{
 		"chi"		"**门2将在30秒后打开 **"
+		"DoorCountDown"		"30"
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
@@ -81,23 +86,27 @@
 	"Lab door 2 will open in 13 seconds"
 	{
 		"chi"		"**实验室门2将在13秒后打开 **"
+		"DoorCountDown"		"13"
 	}
 	"Lab door 2 will open for zombies in 18 seconds"
 	{
 		"chi"		"**实验门2将在18秒后为僵尸打开 **"
+		"DoorCountDown"		"-1"
 	}
 	"Hold this position for 6 seconds!!"
 	{
 		"chi"		"**守住这里，窗子将在6秒后打开 **"
+		"DoorCountDown"		"6"
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
 		"chi"		"**切尔诺贝利核电站的大门将在20秒后开启 **"
+		"DoorCountDown"		"20"
 	}
 	"Hold this position for 10 seconds!!"
 	{
 		"chi"		"**守住这里10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
@@ -106,11 +115,12 @@
 	"Survive for 70 seconds"
 	{
 		"chi"		"**生存70秒 **"
-		"DoorCountdown"		"70"
+		"DoorCountDown"		"70"
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
 		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
+		"DoorCountDown"		"50"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -123,11 +133,12 @@
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
 		"chi"		"**电梯2将在9秒后离开 **"
+		"DoorCountDown"		"9"
 	}
 	"**Hold the place for 25 seconds**"
 	{
 		"chi"		"**守住这个位置25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"***Break the spheres to escape***"
 	{
@@ -168,17 +179,17 @@
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
 		"chi"		"**等待门打开（10秒） **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**The door wil open in 10 seconds**"
 	{
 		"chi"		"**门会在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Hold this way for 10 seconds**"
 	{
 		"chi"		"**守住这里10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**Its dead. Good job**"
 	{
@@ -228,7 +239,7 @@
 	"**Hold here for 25 seconds**"
 	{
 		"chi"		"**在这里守住25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**And then go to the pool**"
 	{
@@ -284,7 +295,7 @@
 	"**PREPARE TO MOVE IN 10 SECONDS!**"
 	{
 		"chi"		"**准备在10秒后撤退 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**GO!!**GO!!**GO!!**"
 	{
