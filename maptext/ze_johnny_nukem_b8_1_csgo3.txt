@@ -79,7 +79,7 @@
 	"**TIP -- It has a 55 second cooldown**"
 	{
 		"chi"		"**该物品有五十五秒冷却时间**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**A player has picked up the Pink Elephants. Aww <3**"
 	{
@@ -140,7 +140,7 @@
 	"**TIP -- This item heals you and teammates around you for 5 seconds**"
 	{
 		"chi"		"**奶神器能在五秒内能回复两百血并且免疫感染**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**TIP -- Can only be used twice and has a 10 second cooldown**"
 	{
@@ -725,15 +725,18 @@
 	}
 	"**Teleporter #1 will open in 10 seconds**"
 	{
-		"chi"		"**传送门#1将在10秒后开启**"
+		"chi"		"**一号传送门将在10秒后开启**"
+		"DoorCountdown"		"10"
 	}
 	"**Teleporter #2 will open in 10 seconds**"
 	{
-		"chi"		"**传送门#2将在10秒后开启**"
+		"chi"		"**二号传送门将在10秒后开启**"
+		"DoorCountdown"		"20"
 	}
 	"**The toy chopper will leave in 20 seconds**"
 	{
 		"chi"		"**玩具直升机将在20秒后离开**"
+		"DoorCountdown"		"20"
 	}
 	"**And now a brief message from the H&H Company!**"
 	{
