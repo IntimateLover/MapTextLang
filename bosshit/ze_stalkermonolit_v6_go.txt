@@ -3,6 +3,8 @@
 	"2073745"
 	{
 		"enable"		"1"
+		"hammerid"		"2073745"
+		"m_iname"		"stage_1_modelphybox1"
 	}
 	"628814"
 	{
@@ -15,5 +17,49 @@
 	"629932"
 	{
 		"enable"		"1"
+		"hammerid"		"629932"
+		"m_iname"		"stage_1_box1"
+	}
+	"4660782"
+	{
+		"enable"		"0"
+		"hammerid"		"4660782"
+		"m_iname"		"balka1"
+	}
+	"636098"
+	{
+		"enable"		"0"
+		"hammerid"		"636098"
+		"m_iname"		"glass1"
+	}
+	"632266"
+	{
+		"enable"		"0"
+		"hammerid"		"632266"
+		"m_iname"		"Edge_Physbox"
+	}
+	"632250"
+	{
+		"enable"		"1"
+		"hammerid"		"632250"
+		"m_iname"		"Noctali_Boss_Break"
+	}
+	"624128"
+	{
+		"enable"		"0"
+		"hammerid"		"624128"
+		"m_iname"		"balka1"
+	}
+	"633261"
+	{
+		"enable"		"0"
+		"hammerid"		"633261"
+		"m_iname"		"stage_1_phymonolit1"
+	}
+	"1503005"
+	{
+		"enable"		"0"
+		"hammerid"		"1503005"
+		"m_iname"		"Poisonball_Move&1657"
 	}
 }
