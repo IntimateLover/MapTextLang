@@ -287,6 +287,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
 	{
@@ -450,7 +451,7 @@
 	{
 		"chi"		"**飞船来了...**"
 	}
-	"**The gates will open in 30 seconds**"
+	"**THE GATES WILL OPEN IN 30 SECONDS**"
 	{
 		"chi"		"**神罗大门将在30秒后打开**"
 		"DoorCountdown"		"30"
@@ -477,7 +478,7 @@
 		"chi"		"**神罗基地大门25秒后打开**"
 		"DoorCountdown"		"25"
 	}
-	"**The gates will open in 15 seconds**"
+	"**THE GATES WILL OPEN IN 15 SECONDS**"
 	{
 		"chi"		"**大门15秒后打开**"
 		"DoorCountdown"		"15"
@@ -653,5 +654,9 @@
 	"**Ifrit is defeated!**"
 	{
 		"chi"		"**隡��拍撌脰◤�餉揖**"
+	}
+	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	{
+		"chi"		"** **"
 	}
 }

@@ -182,7 +182,7 @@
 	}
 	"** JUMP! **"
 	{
-		"chi"		"**跳（指按空格）**"
+		"chi"		"**跳!!! (指按住空格)**"
 	}
 	"** Door is opening in 20s **"
 	{
@@ -325,10 +325,12 @@
 	"** Divine Tears **"
 	{
 		"chi"		"**圣神之泪 -80HP**"
+		"DoorCountdown"		"-1"
 	}
 	"** Vampire **"
 	{
 		"chi"		"**吸血反伤 -5HP**"
+		"DoorCountdown"		"-1"
 	}
 	"** Survive 60s **"
 	{
@@ -344,7 +346,7 @@
 	}
 	"** It seems.. left flame, right fruit.. ? **"
 	{
-		"chi"		"** **"
+		"chi"		"**看上去是左边火右边水果?**"
 	}
 	"** Door is opening in 55s **"
 	{
@@ -357,5 +359,9 @@
 	"** Boss enrage! You are too slow! **"
 	{
 		"chi"		"** **"
+	}
+	"** Kill the remaining zombies **"
+	{
+		"chi"		"**击杀剩余的僵尸**"
 	}
 }
