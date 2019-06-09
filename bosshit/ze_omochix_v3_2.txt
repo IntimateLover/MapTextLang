@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"12619"
+	{
+		"enable"		"1"
+		"hammerid"		"12619"
+		"m_iname"		"normal_bossbox"
+	}
+	"30779"
+	{
+		"enable"		"0"
+		"hammerid"		"30779"
+		"m_iname"		"Blue_crystal"
+	}
+	"71727"
+	{
+		"enable"		"1"
+		"hammerid"		"71727"
+		"m_iname"		"extream_whitebox"
+	}
+}
