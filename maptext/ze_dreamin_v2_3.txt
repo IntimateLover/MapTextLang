@@ -215,6 +215,7 @@
 	}
 	"***Reflection casted in 2s*"
 	{
-		"chi"		"** **"
+		"chi"		"**两秒后激活反伤**"
+		"DoorCountdown"		"7"
 	}
 }

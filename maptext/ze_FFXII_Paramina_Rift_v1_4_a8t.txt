@@ -3,12 +3,12 @@
 	"** ZE FFXII PARAMINA RIFT **"
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
-		"DoorCountdown"		"-1"		
+		"DoorCountdown"		"-1"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
 		"chi"		"**第一章：帕拉米亚大峡谷 **"
-		"command"       "sm_flashlight_enabled 1"
+		"command"		"sm_flashlight_enabled 1"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
@@ -269,7 +269,7 @@
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
 		"chi"		"**第二章：米利亚姆神庙**"
-		"command"	"sm_flashlight_enabled 0"
+		"command"		"sm_flashlight_enabled 0"
 	}
 	"** Player has acquired a SPEED-POTION **"
 	{
@@ -342,7 +342,7 @@
 	}
 	"** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **"
 	{
-		"chi"		"**神秘房间还有5秒开启！**"		
+		"chi"		"**神秘房间还有5秒开启！**"
 	}
 	"0 '. STAGGER"
 	{
@@ -1461,6 +1461,50 @@
 		"chi"		"** **"
 	}
 	"** Player has learned AERO (WIND MAGICK LV.2)**"
+	{
+		"chi"		"** **"
+	}
+	"** MAP Ported By Asami**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURE  (HEAL MAGICK LV.1)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISON (POISON MAGICK LV.1)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISON (POISON MAGICK LV.2)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURA (HEAL MAGICK LV.3)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRA (FIRE MAGICK LV.4)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned GRAVITY (WIND MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned BLIZZARA (ICE MAGICK LV.4)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned CURAGA (HEAL MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRAGA (FIRE MAGICK LV.5)**"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned POISANA (POISON MAGICK LV.4)**"
 	{
 		"chi"		"** **"
 	}
