@@ -1,0 +1,87 @@
+"BOSSHP"
+{
+	"745864"
+	{
+		"enable"		"0"
+		"hammerid"		"745864"
+		"m_iname"		"stage_phys"
+	}
+	"270259"
+	{
+		"enable"		"0"
+		"hammerid"		"270259"
+		"m_iname"		"radiation_target"
+	}
+	"325192"
+	{
+		"enable"		"0"
+		"hammerid"		"325192"
+		"m_iname"		"enemy2_core1&6107"
+	}
+	"328379"
+	{
+		"enable"		"0"
+		"hammerid"		"328379"
+		"m_iname"		"enemy2_phys1&6107"
+	}
+	"281755"
+	{
+		"enable"		"0"
+		"hammerid"		"281755"
+		"m_iname"		"enemy1_phys1&6108"
+	}
+	"281687"
+	{
+		"enable"		"0"
+		"hammerid"		"281687"
+		"m_iname"		"enemy1_core1&6108"
+	}
+	"1885592"
+	{
+		"enable"		"0"
+		"hammerid"		"1885592"
+		"m_iname"		"c_crystal_break1"
+	}
+	"337661"
+	{
+		"enable"		"0"
+		"hammerid"		"337661"
+		"m_iname"		"enemy3_core1&6811"
+	}
+	"337845"
+	{
+		"enable"		"0"
+		"hammerid"		"337845"
+		"m_iname"		"enemy3_phys1&6811"
+	}
+	"1313659"
+	{
+		"enable"		"0"
+		"hammerid"		"1313659"
+		"m_iname"		"enemy4_core1&4471"
+	}
+	"1313768"
+	{
+		"enable"		"0"
+		"hammerid"		"1313768"
+		"m_iname"		"enemy4_targetbase1&4467"
+	}
+	"1313771"
+	{
+		"enable"		"0"
+		"hammerid"		"1313771"
+		"m_iname"		"enemy4_target1&4467"
+	}
+	"1313776"
+	{
+		"enable"		"0"
+		"hammerid"		"1313776"
+		"m_iname"		"enemy4_targetbase2&4467"
+	}
+	"1313779"
+	{
+		"enable"		"0"
+		"hammerid"		"1313779"
+		"m_iname"		"enemy4_target2&4467"
+	}
+}
