@@ -215,13 +215,11 @@
 	"*** Level:Extreme ***"
 	{
 		"chi"		"**本关难度：困难 **"
-		"command"		"sm_aei_hammerid 100003 use"
 	}
 	"*** 35 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼姆装置已被激活.等待35秒 **"
 		"DoorCountdown"		"35"
-		"command"		"sm_aei_hammerid 100004 use"
 	}
 	"*** 10 seconds ***"
 	{
@@ -375,7 +373,6 @@
 	"*** Level:Savage ***"
 	{
 		"chi"		"**当前关卡：史诗 **"
-		"command"		"sm_aei_hammerid 100003 use"
 	}
 	"***Holm gang zombie incoming...***"
 	{
@@ -484,7 +481,6 @@
 	"*** Level:Ultimate ***"
 	{
 		"chi"		"**当前关卡：天神 **"
-		"command"		"sm_aei_hammerid 100002 use"
 	}
 	"*** This mode is Secret mode ***"
 	{
