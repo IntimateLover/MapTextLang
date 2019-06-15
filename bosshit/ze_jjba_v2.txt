@@ -1,0 +1,207 @@
+"BOSSHP"
+{
+	"257413"
+	{
+		"enable"		"0"
+		"hammerid"		"257413"
+		"m_iname"		"AAAAAA"
+	}
+	"255367"
+	{
+		"enable"		"0"
+		"hammerid"		"255367"
+		"m_iname"		"Final_Breakable"
+	}
+	"249540"
+	{
+		"enable"		"0"
+		"hammerid"		"249540"
+		"m_iname"		"Door_Door"
+	}
+	"242707"
+	{
+		"enable"		"0"
+		"hammerid"		"242707"
+		"m_iname"		"L3_before_Dio_Breakbles"
+	}
+	"247384"
+	{
+		"enable"		"0"
+		"hammerid"		"247384"
+		"m_iname"		"After_Dio_Breakable"
+	}
+	"233318"
+	{
+		"enable"		"0"
+		"hammerid"		"233318"
+		"m_iname"		"Stage2_First_Door"
+	}
+	"233549"
+	{
+		"enable"		"0"
+		"hammerid"		"233549"
+		"m_iname"		"L2_Second_Door"
+	}
+	"234174"
+	{
+		"enable"		"0"
+		"hammerid"		"234174"
+		"m_iname"		"Nigger_Breakable"
+	}
+	"235045"
+	{
+		"enable"		"0"
+		"hammerid"		"235045"
+		"m_iname"		"L2_Before_NPCFIght_Brick"
+	}
+	"236507"
+	{
+		"enable"		"0"
+		"hammerid"		"236507"
+		"m_iname"		"L2_Ending_Ladder1"
+	}
+	"236624"
+	{
+		"enable"		"0"
+		"hammerid"		"236624"
+		"m_iname"		"L2_Ending_Ladder2"
+	}
+	"229280"
+	{
+		"enable"		"1"
+		"hammerid"		"229280"
+		"m_iname"		"L1_Boss_Bridge"
+	}
+	"229980"
+	{
+		"enable"		"1"
+		"hammerid"		"229980"
+		"m_iname"		"Some_Shitty_Ass_Nigger"
+	}
+	"232036"
+	{
+		"enable"		"0"
+		"hammerid"		"232036"
+		"m_iname"		"L1_Ladder_B1"
+	}
+	"232052"
+	{
+		"enable"		"0"
+		"hammerid"		"232052"
+		"m_iname"		"L1_Ladder_B2"
+	}
+	"212095"
+	{
+		"enable"		"0"
+		"hammerid"		"212095"
+		"m_iname"		"elevator_L_breakable"
+	}
+	"212343"
+	{
+		"enable"		"0"
+		"hammerid"		"212343"
+		"m_iname"		"Stage2_Start"
+	}
+	"212355"
+	{
+		"enable"		"0"
+		"hammerid"		"212355"
+		"m_iname"		"Stage3_Start"
+	}
+	"210523"
+	{
+		"enable"		"1"
+		"hammerid"		"210523"
+		"m_iname"		"Level1_Boss_Jail"
+	}
+	"209082"
+	{
+		"enable"		"0"
+		"hammerid"		"209082"
+		"m_iname"		"L1_D2"
+	}
+	"209094"
+	{
+		"enable"		"0"
+		"hammerid"		"209094"
+		"m_iname"		"L1_D3"
+	}
+	"26643"
+	{
+		"enable"		"0"
+		"hammerid"		"26643"
+		"m_iname"		"Level1_Elevator1_Block"
+	}
+	"225220"
+	{
+		"enable"		"0"
+		"hammerid"		"225220"
+		"m_iname"		"npc_physbox&0678"
+	}
+	"226121"
+	{
+		"enable"		"1"
+		"hammerid"		"226121"
+		"m_iname"		"npc_hitbox"
+	}
+	"229215"
+	{
+		"enable"		"1"
+		"hammerid"		"229215"
+		"m_iname"		"L1_Boss_Cost"
+	}
+	"226996"
+	{
+		"enable"		"0"
+		"hammerid"		"226996"
+		"m_iname"		"SP_npc_physbox&0567"
+	}
+	"227001"
+	{
+		"enable"		"1"
+		"hammerid"		"227001"
+		"m_iname"		"SP_npc_hitbox&0567"
+	}
+	"212329"
+	{
+		"enable"		"0"
+		"hammerid"		"212329"
+		"m_iname"		"Stage1_Start"
+	}
+	"226268"
+	{
+		"enable"		"0"
+		"hammerid"		"226268"
+		"m_iname"		"L2_npc_physbox&0659"
+	}
+	"226273"
+	{
+		"enable"		"1"
+		"hammerid"		"226273"
+		"m_iname"		"L2_npc_hitbox"
+	}
+	"290800"
+	{
+		"enable"		"0"
+		"hammerid"		"290800"
+		"m_iname"		"bp_npc_physbox&0660"
+	}
+	"290806"
+	{
+		"enable"		"1"
+		"hammerid"		"290806"
+		"m_iname"		"bp_npc_hitbox"
+	}
+	"228221"
+	{
+		"enable"		"0"
+		"hammerid"		"228221"
+		"m_iname"		"Dio_npc_physbox&3517"
+	}
+	"228226"
+	{
+		"enable"		"1"
+		"hammerid"		"228226"
+		"m_iname"		"Dio_npc_hitbox&3517"
+	}
+}
