@@ -1,0 +1,135 @@
+"Console_T"
+{
+	"++We can see you out there. Those doors will take about 20 seconds to lower++"
+	{
+		"chi"		"** **"
+	}
+	"++The gate switch will be inside the building++"
+	{
+		"chi"		"** **"
+	}
+	"++The sliding gate is opening++"
+	{
+		"chi"		"** **"
+	}
+	"++That gate will take about half a minute to fully open++"
+	{
+		"chi"		"** **"
+	}
+	"++The sliding gate is open, keep moving forward++"
+	{
+		"chi"		"** **"
+	}
+	"++The big gate is opening- fall back if you are on the walkways++"
+	{
+		"chi"		"** **"
+	}
+	"++Try to find a good chokepoint so some of you can hold while the rest advance++"
+	{
+		"chi"		"** **"
+	}
+	"++Were overriding the gates, should take about 25 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"++The two gates are lowering++"
+	{
+		"chi"		"** **"
+	}
+	"++We see you, were triggering the override++"
+	{
+		"chi"		"** **"
+	}
+	"++Hold the ledge until the door is open++"
+	{
+		"chi"		"** **"
+	}
+	"++Door One will open in 45 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"++Door One will open in 40 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"++Door One will open in 20 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"++Door One opening in 10 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"++Tunnel Door One is opening++"
+	{
+		"chi"		"** **"
+	}
+	"++Tunnel Door Two is opening++"
+	{
+		"chi"		"** **"
+	}
+	"++Tunnel Door Five is Opening++"
+	{
+		"chi"		"** **"
+	}
+	"++We hear you. Were overriding Tunnel Door Six++"
+	{
+		"chi"		"** **"
+	}
+	"++Airstrike hits in 5 seconds++"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"1"
+	{
+		"chi"		"** **"
+	}
+	"++Airstrike has hit. Welcome home++"
+	{
+		"chi"		"** **"
+	}
+	"++Clear out any remaining runners and itll be over++"
+	{
+		"chi"		"** **"
+	}
+	"++Map created by Officer_B++"
+	{
+		"chi"		"** **"
+	}
+	"++The first bridge can now be broken++"
+	{
+		"chi"		"** **"
+	}
+	"++We can see zombies behind you in the train station++"
+	{
+		"chi"		"** **"
+	}
+	"++Dont let them get too far or theyll open new spawn points!++"
+	{
+		"chi"		"** **"
+	}
+	"++The second bridge can now be broken++"
+	{
+		"chi"		"** **"
+	}
+	"++Zombies have made it to the bridge, new spawn opening++"
+	{
+		"chi"		"** **"
+	}
+	"++Cut them off!++"
+	{
+		"chi"		"** **"
+	}
+}

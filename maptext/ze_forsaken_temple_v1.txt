@@ -226,7 +226,7 @@
 	{
 		"chi"		"**BOSS被我们击败了！**"
 	}
-	"** Retreat! **"
+	"** RETREAT! **"
 	{
 		"chi"		"**撤退~~**"
 	}
@@ -360,8 +360,12 @@
 	{
 		"chi"		"** **"
 	}
-	"** Kill the remaining zombies **"
+	"** KILL THE REMAINING ZOMBIES **"
 	{
 		"chi"		"**击杀剩余的僵尸**"
+	}
+	"** GO LEFT **"
+	{
+		"chi"		"** **"
 	}
 }
