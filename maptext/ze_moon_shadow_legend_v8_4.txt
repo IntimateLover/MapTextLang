@@ -224,4 +224,28 @@
 	{
 		"chi"		"** **"
 	}
+	"Congratulations on your victory, EX mode is waiting for you."
+	{
+		"chi"		"** **"
+	}
+	"Warning: zombies open near the road"
+	{
+		"chi"		"** **"
+	}
+	"Warning: trap is activated"
+	{
+		"chi"		"** **"
+	}
+	"Warning: Zombie launches near the road"
+	{
+		"chi"		"** **"
+	}
+	"Part of the air wall has disappeared"
+	{
+		"chi"		"** **"
+	}
+	"This is the last defensive point. It¡¯s life or death. Look at this last 90s."
+	{
+		"chi"		"** **"
+	}
 }
