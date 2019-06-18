@@ -44,7 +44,7 @@
 	}
 	"246196"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"246196"
 		"m_iname"		"Rat_Breakable"
 	}
