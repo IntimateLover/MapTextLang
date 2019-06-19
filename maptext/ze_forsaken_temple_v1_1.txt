@@ -191,32 +191,32 @@
 	"** Dancing Claw - prepare using heal **"
 	{
 		"chi"		"**舞爪 - 使用奶子**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Divine Tears - crouch **"
 	{
 		"chi"		"**圣泪 - 蹲下**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Ricochet **"
 	{
 		"chi"		"**冲撞 - 硬抗**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Vampire - stop shooting **"
 	{
 		"chi"		"**吸血 - 停止射击**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Swallow - stay back **"
 	{
 		"chi"		"**吞噬 - 往后站**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Force - stay front **"
 	{
 		"chi"		"**力量 - 往前站**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** You are too late. Boss enrage soon.. **"
 	{
@@ -325,12 +325,12 @@
 	"** Divine Tears **"
 	{
 		"chi"		"**圣神之泪 -80HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Vampire **"
 	{
 		"chi"		"**吸血反伤 -5HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Survive 60s **"
 	{
@@ -365,6 +365,22 @@
 		"chi"		"**击杀剩余的僵尸**"
 	}
 	"** GO LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** WARM UP - 60 SEC **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss enrage in THREE minutes **"
+	{
+		"chi"		"** **"
+	}
+	"** Incorrect position! The pit will open SLOWER!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Pit is opening in 60s **"
 	{
 		"chi"		"** **"
 	}
