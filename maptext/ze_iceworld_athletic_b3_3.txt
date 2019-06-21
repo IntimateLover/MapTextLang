@@ -71,7 +71,7 @@
 	"<< You can see there are 8 platforms >>"
 	{
 		"chi"		"**你可以看见这里有8个平台**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"<< After a little time, only 1 platform will be safe >>"
 	{
@@ -192,7 +192,7 @@
 	"<< It seems that you are less than 16 guys >>"
 	{
 		"chi"		"**看起来人类的数量少于16个**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"<< OK, I will let you win this game easier >>"
 	{
@@ -319,6 +319,30 @@
 		"chi"		"** **"
 	}
 	"<< You have already win 4 mode!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< defend for 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< OHHHHHH ITS E PICK LEGEND !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You can jump back to go to the button room >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 249 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 150 seconds >>"
 	{
 		"chi"		"** **"
 	}

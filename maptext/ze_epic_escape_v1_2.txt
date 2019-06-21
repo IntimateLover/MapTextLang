@@ -140,4 +140,28 @@
 	{
 		"chi"		"** **"
 	}
+	"** Teleport will enable after 30sec **"
+	{
+		"chi"		"** **"
+	}
+	"** Door will open after 15sec **"
+	{
+		"chi"		"** **"
+	}
+	"** 5sec **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend 30sec **"
+	{
+		"chi"		"** **"
+	}
+	"** Jump **"
+	{
+		"chi"		"** **"
+	}
+	"** Dont jump **"
+	{
+		"chi"		"** **"
+	}
 }
