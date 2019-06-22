@@ -298,12 +298,12 @@
 	}
 	"** BARRIER 1 OPENS IN 15 SECS **"
 	{
-		"chi"		"**障碍1号15秒后打开！**"
+		"chi"		"**障碍一号15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
-		"chi"		"**障碍2号15秒后打开！**"
+		"chi"		"**障碍二号15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** HOLD HERE TILL THE GATE OPENS **"
@@ -657,12 +657,12 @@
 	}
 	"** BARRIER 1 OPENS IN 20 SECS **"
 	{
-		"chi"		"**障碍物1号20秒后移动**"
+		"chi"		"**障碍物一号20秒后移动**"
 		"DoorCountdown"		"20"
 	}
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
-		"chi"		"**障碍物2号20秒后移动**"
+		"chi"		"**障碍物二号20秒后移动**"
 		"DoorCountdown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
@@ -953,7 +953,7 @@
 	}
 	"** BARRIER 2 OPENS IN 15 SECS **"
 	{
-		"chi"		"**障碍2号15秒后移动**"
+		"chi"		"**障碍二号15秒后打开**"
 		"DoorCountdown"		"15"
 	}
 	"** Player has learned FIRE -- Level 1 **"
@@ -1100,7 +1100,7 @@
 	}
 	"** BARRIER 2 OPENS IN 20 SECS **"
 	{
-		"chi"		"**障碍物2号20秒后打开**"
+		"chi"		"**障碍物二号20秒后移动**"
 		"DoorCountdown"		"20"
 	}
 	"** Player has learned CURE -- Level 2 **"

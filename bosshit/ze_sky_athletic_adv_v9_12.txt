@@ -660,7 +660,7 @@
 	}
 	"835771"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"835771"
 		"m_iname"		"betray_him_begin_target"
 	}
