@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"1179292"
+	{
+		"enable"		"1"
+		"hammerid"		"1179292"
+		"m_iname"		"scene4_sea_witch_box"
+	}
 	"331726"
 	{
 		"enable"		"1"
