@@ -1,0 +1,159 @@
+"Console_T"
+{
+	"<--Map Made By Color-->"
+	{
+		"chi"		"**地图作者&翻译：酸奶**"
+	}
+	"<--Put on your headphone and enjoy trips-->"
+	{
+		"chi"		"**戴上耳机，享受旅行吧**"
+	}
+	"<--Last Trip Finished-->"
+	{
+		"chi"		"**最后的旅途已完成**"
+	}
+	"<--Find and use wall item to spawn a road-->"
+	{
+		"chi"		"**寻找并使用墙神器来造路**"
+	}
+	"<--Find a place and play with your partner-->"
+	{
+		"chi"		"**找个地方和小伙伴一起van**"
+	}
+	"<--Some places can only stay 5 to 15 humans-->"
+	{
+		"chi"		"**某些守点只能待5到15个人，请分散守**"
+	}
+	"<--Trip 1-->"
+	{
+		"chi"		"**旅途 1**"
+	}
+	"<--Trip 2-->"
+	{
+		"chi"		"**旅途 2**"
+	}
+	"<--Trip 3-->"
+	{
+		"chi"		"**旅途 3**"
+	}
+	"<--Trip 4-->"
+	{
+		"chi"		"**旅途 4**"
+	}
+	"<--Trip 5-->"
+	{
+		"chi"		"**旅途 5**"
+	}
+	"<--Zombies are in the room-->"
+	{
+		"chi"		"**僵尸进了房间，旅行失败**"
+	}
+	"<--Hold for 30s-->"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"<--Hold for 45s-->"
+	{
+		"chi"		"**坚守45秒**"
+	}
+	"<--Hold for 20s-->"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"<--Hold for 15s-->"
+	{
+		"chi"		"**坚守15秒**"
+	}
+	"<--Hold for 35s-->"
+	{
+		"chi"		"**坚守35秒**"
+	}
+	"<--Hold for 10s-->"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"<--Hold for 25s-->"
+	{
+		"chi"		"**坚守25秒**"
+	}
+	"<--Hold for 40s-->"
+	{
+		"chi"		"**坚守40秒**"
+	}
+	"<--Hold for 60s-->"
+	{
+		"chi"		"**坚守60秒**"
+	}
+	"<--5s left-->"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"<--Paper plane will take off in 30s-->"
+	{
+		"chi"		"**纸飞机将在30秒后起飞**"
+	}
+	"<--Elevator will start in 5s-->"
+	{
+		"chi"		"**电梯将在5秒后启动**"
+	}
+	"<--Elevator will start in 30s-->"
+	{
+		"chi"		"**电梯将在30秒后启动**"
+	}
+	"<--Hold for 180s-->"
+	{
+		"chi"		"**坚守180秒**"
+	}
+	"<--Unbelievable!You finish the trip-->"
+	{
+		"chi"		"**不敢相信！你完成了旅途**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"68492"
+	}
+	"<--Trip Finished-->"
+	{
+		"chi"		"**旅行成功**"
+	}
+	"<--DIFFICULTY 1-->"
+	{
+		"chi"		"**难度 1**"
+	}
+	"<--DIFFICULTY 2-->"
+	{
+		"chi"		"**难度 2**"
+	}
+	"<--DIFFICULTY 3-->"
+	{
+		"chi"		"**难度 3**"
+	}
+	"<--DIFFICULTY 4-->"
+	{
+		"chi"		"**难度 4**"
+	}
+	"<--DIFFICULTY 5-->"
+	{
+		"chi"		"**难度 5**"
+	}
+	"<--DIFFICULTY 1 Finished-->"
+	{
+		"chi"		"**难度1完成**"
+	}
+	"<--DIFFICULTY 2 Finished-->"
+	{
+		"chi"		"**难度2完成**"
+	}
+	"<--DIFFICULTY 3 Finished-->"
+	{
+		"chi"		"**难度3完成**"
+	}
+	"<--DIFFICULTY 4 Finished-->"
+	{
+		"chi"		"**难度4完成**"
+	}
+	"<--DIFFICULTY 5 Finished-->"
+	{
+		"chi"		"**难度5完成**"
+	}
+}
