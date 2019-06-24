@@ -681,6 +681,7 @@
 	"** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **"
 	{
 		"chi"		"**我们要往下跳才能逃离这**"
+		"DoorCountdown"		"30"
 	}
 	"** OH GOD ITS MATEUS! SHOOT IT! **"
 	{
