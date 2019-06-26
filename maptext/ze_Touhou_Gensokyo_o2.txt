@@ -1,0 +1,595 @@
+"Console_T"
+{
+	"map by koyomaple"
+	{
+		"chi"		"**地图制作:koyomaple**"
+	}
+	"teleport in 20sec"
+	{
+		"chi"		"**20秒后传送,下一站：白玉楼**"
+	}
+	"hold 10 sec"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"door open in 20sec"
+	{
+		"chi"		"**红魔馆大门将在20秒后开启**"
+	}
+	"hold 10sec"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"hold 15sec"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"teleport enable in 10sec"
+	{
+		"chi"		"**红魔馆内部传送将在10秒后启动**"
+	}
+	"hold 30sec"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"hold 20sec"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"hold 40sec"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"teleport in 15sec"
+	{
+		"chi"		"**人类将在15秒后传送**"
+	}
+	"hold last 45sec"
+	{
+		"chi"		"**守住45秒**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"15589"
+	}
+	"hold 30 sec"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"hold last 40sec"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"this is a test version!"
+	{
+		"chi"		"**现在是测试版本**"
+	}
+	"maybe change a lot next time"
+	{
+		"chi"		"**以后的版本可能有很大变化**"
+	}
+	"zombies tp in 30 sec"
+	{
+		"chi"		"**僵尸传送还有30秒**"
+	}
+	"zombies tp in 30sec"
+	{
+		"chi"		"**僵尸传送还有30秒**"
+	}
+	"P(ammo) has been picked up"
+	{
+		"chi"		"**P点（无限弹药）神器被捡起 CD三十秒 持续五秒**"
+	}
+	"fast way is opened"
+	{
+		"chi"		"**僵尸近路已开启**"
+	}
+	"teleport enable in 15sec"
+	{
+		"chi"		"**传送将在15秒后启动**"
+	}
+	"***get inside***"
+	{
+		"chi"		"**赶紧到里面去！**"
+	}
+	"zombies teleport in 15sec"
+	{
+		"chi"		"**僵尸传送还有15秒**"
+	}
+	"zombies tp in 20sec"
+	{
+		"chi"		"**僵尸传送还有20秒**"
+	}
+	"**get inside!**"
+	{
+		"chi"		"**赶紧到里面去！**"
+	}
+	"zombies tp in 10sec"
+	{
+		"chi"		"**僵尸传送还有10秒**"
+	}
+	"survie last 30sec"
+	{
+		"chi"		"**生存最后30秒！即将通关**"
+	}
+	"nuke in 10sec"
+	{
+		"chi"		"**10秒后核爆，本图目前只有一关 更多元素如boss将在以后版本出现_(:3」∠)_**"
+	}
+	"teleport enable in 20sec"
+	{
+		"chi"		"**传送将在20秒后启动**"
+	}
+	"***stay in Magic Circle***"
+	{
+		"chi"		"**呆在魔法阵里传送！**"
+	}
+	"zombies teleport in 10sec"
+	{
+		"chi"		"**僵尸传送还有10秒**"
+	}
+	"hold 25sec"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"zombies tp in 15sec"
+	{
+		"chi"		"**僵尸传送还有15秒**"
+	}
+	"hold 45sec"
+	{
+		"chi"		"**守住45秒**"
+	}
+	"zombies will teleport in room in 10sec"
+	{
+		"chi"		"**僵尸将在10秒后传送到房间内部**"
+	}
+	"teleport in 10sec"
+	{
+		"chi"		"**10秒后传送启动**"
+	}
+	"**run to top!!**"
+	{
+		"chi"		"**赶紧跑到红魔馆顶部防守！**"
+	}
+	"zombies tp in 5sec"
+	{
+		"chi"		"**僵尸传送还有5秒**"
+	}
+	"door is behind the bell tower hurry up!"
+	{
+		"chi"		"**路在钟楼背后魔法阵里，快跑起来**"
+	}
+	"color game start in 10sec"
+	{
+		"chi"		"**彩色小游戏还有10秒开始（通关的玩家可以刷分哦）**"
+	}
+	"***Note the color on the board!***"
+	{
+		"chi"		"**注意正面头顶上板子出现的颜色**"
+	}
+	"***And stand on correct color floor!***"
+	{
+		"chi"		"**游戏开始后根据板子指示踩在对应位置地板上（只有三秒反应时间哦）**"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***start***"
+	{
+		"chi"		"** **"
+	}
+	"zombies only have 1 hp during 3sec after 5sec"
+	{
+		"chi"		"**僵尸5秒后传送并且只有1hp！**"
+	}
+	"next round will enable a smallgame"
+	{
+		"chi"		"** **"
+	}
+	"Mapper has changed zombies model"
+	{
+		"chi"		"** **"
+	}
+	"Mapper has changed humans model"
+	{
+		"chi"		"** **"
+	}
+	"***Note the words on the board!***"
+	{
+		"chi"		"** **"
+	}
+	"***And stand on correct words of color floor!***"
+	{
+		"chi"		"** **"
+	}
+	"***green arrow is true and red arrow is opposite***"
+	{
+		"chi"		"** **"
+	}
+	"zombies only have 1 hp during 5sec after 5sec"
+	{
+		"chi"		"** **"
+	}
+	"**survive 30s**"
+	{
+		"chi"		"** **"
+	}
+	"**lines1**"
+	{
+		"chi"		"** **"
+	}
+	"**lines2**"
+	{
+		"chi"		"** **"
+	}
+	"**lines3**"
+	{
+		"chi"		"** **"
+	}
+	"door open in 15sec"
+	{
+		"chi"		"** **"
+	}
+	"the way was blocked,turn right"
+	{
+		"chi"		"** **"
+	}
+	"zombie teleport at middle in 20s"
+	{
+		"chi"		"** **"
+	}
+	"20s"
+	{
+		"chi"		"** **"
+	}
+	"10s"
+	{
+		"chi"		"** **"
+	}
+	"jump!"
+	{
+		"chi"		"**上升气流已启动，赶紧往上跳！**"
+	}
+	"zombies tel in 10sec"
+	{
+		"chi"		"** **"
+	}
+	"hold in 45s"
+	{
+		"chi"		"**守住45秒**"
+	}
+	"stay around the tree"
+	{
+		"chi"		"**呆在西行妖附近进入传送**"
+	}
+	"hole teleport enable in 25sec"
+	{
+		"chi"		"** **"
+	}
+	"zombies tel at next side in 10sec"
+	{
+		"chi"		"** **"
+	}
+	"**models most from MMD**"
+	{
+		"chi"		"**模型大部分来自MMD，感谢制作他们的作者**"
+	}
+	"**thaks for testing and playing**"
+	{
+		"chi"		"** **"
+	}
+	"**boss fight will make in next version**"
+	{
+		"chi"		"** **"
+	}
+	"**zombies will be set low hp in the end,have fun in gensokyo**"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"**地图制作:koyomaple（枫）**"
+	}
+	"**lines27**"
+	{
+		"chi"		"** **"
+	}
+	"**lines28**"
+	{
+		"chi"		"** **"
+	}
+	"**lines29**"
+	{
+		"chi"		"** **"
+	}
+	"**lines22**"
+	{
+		"chi"		"** **"
+	}
+	"**lines23**"
+	{
+		"chi"		"** **"
+	}
+	"**lines24**"
+	{
+		"chi"		"** **"
+	}
+	"**lines4**"
+	{
+		"chi"		"** **"
+	}
+	"**lines5**"
+	{
+		"chi"		"** **"
+	}
+	"**lines6**"
+	{
+		"chi"		"** **"
+	}
+	"glass will break in 24s"
+	{
+		"chi"		"** **"
+	}
+	"**lines7**"
+	{
+		"chi"		"** **"
+	}
+	"**lines8**"
+	{
+		"chi"		"** **"
+	}
+	"**lines9**"
+	{
+		"chi"		"** **"
+	}
+	"hold 35 s"
+	{
+		"chi"		"**守住35秒**"
+	}
+	"**lines10**"
+	{
+		"chi"		"** **"
+	}
+	"**lines11**"
+	{
+		"chi"		"** **"
+	}
+	"**lines12**"
+	{
+		"chi"		"** **"
+	}
+	"**lines13**"
+	{
+		"chi"		"** **"
+	}
+	"**lines14**"
+	{
+		"chi"		"** **"
+	}
+	"**lines15**"
+	{
+		"chi"		"** **"
+	}
+	"zombies tel in 15sec"
+	{
+		"chi"		"** **"
+	}
+	"**front door seems cant pass,try to reach the behind entrance**"
+	{
+		"chi"		"** **"
+	}
+	"**lines16**"
+	{
+		"chi"		"** **"
+	}
+	"**lines17**"
+	{
+		"chi"		"** **"
+	}
+	"**lines18**"
+	{
+		"chi"		"** **"
+	}
+	"hole teleport enable in 30sec"
+	{
+		"chi"		"**洞口传送30秒启动**"
+	}
+	"zombies tp in 15s"
+	{
+		"chi"		"**僵尸将在15秒后传送**"
+	}
+	"**lines19**"
+	{
+		"chi"		"** **"
+	}
+	"**lines20**"
+	{
+		"chi"		"** **"
+	}
+	"**lines21**"
+	{
+		"chi"		"** **"
+	}
+	"**thanks for testing and playing**"
+	{
+		"chi"		"**非常感谢帮忙、测试和游玩的玩家，幻想乡将会一步步完善起来**"
+	}
+	"**Monster invaded gensokyo,help reimu to clear them  **"
+	{
+		"chi"		"**对着塞钱箱按E投币开始游戏！！！**"
+	}
+	"**A player contribute and get a powerful item**"
+	{
+		"chi"		"**一位玩家向塞钱箱塞了钱币并得到了灵梦给予的强力道具**"
+	}
+	"door open in 10sec"
+	{
+		"chi"		"**红魔馆大门还有10秒打开，不要惊醒沉睡中的门番哦**"
+	}
+	"**hold 20sec**"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"teleport enable in 30sec"
+	{
+		"chi"		"**30秒后启动传送**"
+	}
+	"glass will break in 25s"
+	{
+		"chi"		"**魔法阻碍25秒后消失**"
+	}
+	"zombies teleport in middle in 10sec"
+	{
+		"chi"		"**僵尸将在10秒后传送到图书馆中部**"
+	}
+	"**boss fight in 10sec**"
+	{
+		"chi"		"**距离魔物苏醒还有10秒，在时限内抓紧退治它**"
+	}
+	"**item P has been picked up**"
+	{
+		"chi"		"**神器：《P》被玩家拾取**"
+	}
+	"**tips:unlimit ammo and healing**"
+	{
+		"chi"		"**提示：站在P点神器周围有十秒无限弹药和回血效果**"
+	}
+	"**map still in testing,would have many bugs**"
+	{
+		"chi"		"**地图还在测试中，会有很多BUG出现。以后版本可能会有很大程度变化**"
+	}
+	"**boss will kill all humans in 200sec**"
+	{
+		"chi"		"**两百秒后魔物的浊气将侵蚀所有人类**"
+	}
+	"**DEFEND**"
+	{
+		"chi"		"**技能：恶魔眷属（远离中间尸笼）**"
+	}
+	"**keep defending in 15s**"
+	{
+		"chi"		"**尸笼关闭倒计时15秒**"
+	}
+	"**FALL**"
+	{
+		"chi"		"**技能：光壁陨落（站内圈躲避天坠）**"
+	}
+	"**CRYSTAL**"
+	{
+		"chi"		"**技能：冰晶穿刺（看头顶躲避两次下落水晶）**"
+	}
+	"**SHIELD**"
+	{
+		"chi"		"**技能：盾之庇护（反伤，停枪）**"
+	}
+	"**DARK**"
+	{
+		"chi"		"**技能：暗狱吞噬（寻找场地上三个发光平台逃离黑暗）**"
+	}
+	"**darkdeath in coming after 10sec**"
+	{
+		"chi"		"**10秒后处死徘徊在黑暗中的人类**"
+	}
+	"**PUSH**"
+	{
+		"chi"		"**技能：震荡冲击（按W应对推力后躲避天坠）**"
+	}
+	"**SHAKE**"
+	{
+		"chi"		"**技能：撼地之怒（跳跃三次躲避伤害）**"
+	}
+	"**BEAM**"
+	{
+		"chi"		"**技能：电击审判（躲避红色光线）**"
+	}
+	"**CORE**"
+	{
+		"chi"		"**技能：融火核心（蹲下）**"
+	}
+	"**break the core quickly!**"
+	{
+		"chi"		"**尽快打掉boss头上的水晶！**"
+	}
+	"**Fire**"
+	{
+		"chi"		"**随机效果：区域点燃**"
+	}
+	"**blind**"
+	{
+		"chi"		"**随机效果：致盲（持续三秒）**"
+	}
+	"**reverse**"
+	{
+		"chi"		"**随机效果：反向（持续五秒）**"
+	}
+	"**laser**"
+	{
+		"chi"		"**随机效果：跳刀（两次高低）**"
+	}
+	"**keep defending in 10s**"
+	{
+		"chi"		"**尸笼剩余10秒**"
+	}
+	"**keep defending in 13s**"
+	{
+		"chi"		"**保持防守12秒**"
+	}
+	"**Boss skills are more powerful，be careful**"
+	{
+		"chi"		"**魔物变得更强点了 多加注意**"
+	}
+	"<<jiu deng le !>>"
+	{
+		"chi"		"<<   久   等  了  ! >>"
+	}
+	"**tips:A secret trigger when pressed all words in map,only once**"
+	{
+		"chi"		"**提示：地图上三个字体按钮按下后下局将出现彩蛋，只有一次**"
+	}
+	"**tips:shoot the top model can teleport to model room  **"
+	{
+		"chi"		"**提示：射击神社顶部白泽球模型能传送到皮肤房（数量有限）**"
+	}
+	"**tips:zombies can press E on alpaca to change model and have 1.2scale speed  **"
+	{
+		"chi"		"**提示：僵尸对着羊驼按E能改变模型并且获得1.2倍移速**"
+	}
+	"library teleport enable in 35sec"
+	{
+		"chi"		"**图书馆传送将在35秒后启动**"
+	}
+	"hold in 37s"
+	{
+		"chi"		"**守住37秒**"
+	}
+	"**hard boss level enable**"
+	{
+		"chi"		"**困难BOSS模式开启**"
+	}
+	"**tips:A secret trigger when pressed three words in map,only once**"
+	{
+		"chi"		"** **"
+	}
+	"**tips:zombies can press E on alpaca to change model and have little buff **"
+	{
+		"chi"		"** **"
+	}
+	"**tips:humans can type words in chat to play funny sounds,there are 25 to play**"
+	{
+		"chi"		"** **"
+	}
+	"**Added a piano behind,enjoy to make music XD**"
+	{
+		"chi"		"** **"
+	}
+}

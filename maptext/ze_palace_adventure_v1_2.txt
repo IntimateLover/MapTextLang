@@ -14,19 +14,23 @@
 	}
 	"**Wind[Forward]**"
 	{
-		"chi"		"** **"
+		"chi"		"**吸（按住S抵抗）**"
+		"DoorCountdown"		"4"
 	}
 	"**[ice Laser]**"
 	{
-		"chi"		"** **"
+		"chi"		"**冰冻光线**"
+		"DoorCountdown"		"4"
 	}
 	"**Ice Ball**"
 	{
-		"chi"		"** **"
+		"chi"		"**冰冻光球**"
+		"DoorCountdown"		"4"
 	}
 	"**Wind[Backward]**"
 	{
-		"chi"		"** **"
+		"chi"		"**推（按住W抵抗）**"
+		"DoorCountdown"		"4"
 	}
 	"**Zombie Escape**"
 	{
@@ -46,14 +50,41 @@
 	}
 	"**Quake**"
 	{
-		"chi"		"** **"
+		"chi"		"**石板天坠**"
+		"DoorCountdown"		"5"
 	}
 	"**Flame Holy**"
 	{
-		"chi"		"** **"
+		"chi"		"**火焰终极（赶紧跑向四周水下躲避）**"
+		"DoorCountdown"		"5"
 	}
 	"sync_version"
 	{
 		"syncvalue"		"59764"
+	}
+	"**Sword of Wind**"
+	{
+		"chi"		"**剑域**"
+		"DoorCountdown"		"5"
+	}
+	"**Dance of Death**"
+	{
+		"chi"		"**尸笼（四周开两条尸笼路）**"
+		"DoorCountdown"		"5"
+	}
+	"**Burn of Wind**"
+	{
+		"chi"		"**燃烧之风（按W抵抗，小心外场火焰）**"
+		"DoorCountdown"		"5"
+	}
+	"**Wind of Destruction**"
+	{
+		"chi"		"**毁灭之风（按住S抵抗吸力，同时射击平台中间出现的红球）**"
+		"DoorCountdown"		"5"
+	}
+	"**Flame Strike**"
+	{
+		"chi"		"**天火冲击（小心脚下）**"
+		"DoorCountdown"		"5"
 	}
 }

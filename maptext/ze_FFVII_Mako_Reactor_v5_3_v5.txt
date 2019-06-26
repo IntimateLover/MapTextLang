@@ -516,4 +516,8 @@
 		"chi"		"**大门锁住了。请走侧门！**"
 		"DoorCountdown"		"13"
 	}
+	"** Side DOOR OPENS SOON **"
+	{
+		"chi"		"** **"
+	}
 }
