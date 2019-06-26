@@ -7,10 +7,12 @@
 	"||| WARMUP ROUND |||"
 	{
 		"chi"		"**热身回合**"
+		"command"       "sm_jump_slowdown_enable 1"
 	}
 	"||| CHAPTER 1 => RETURN |||"
 	{
 		"chi"		">>>第1章=>回归<<<"
+		"command"       "sm_jump_slowdown_enable 1"
 	}
 	"||| HOLD FOR 30 SECONDS |||"
 	{
@@ -56,6 +58,7 @@
 	{
 		"chi"		">>>第2章=>保密<<<"
 		"DoorCountdown"		"-1"
+		"command"       "sm_jump_slowdown_enable 1"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
@@ -109,6 +112,7 @@
 	{
 		"chi"		">>>第3章=>觉醒<<<"
 		"DoorCountdown"		"-1"
+		"command"       "sm_jump_slowdown_enable 1"
 	}
 	"<Stage 4>"
 	{
@@ -118,6 +122,7 @@
 	{
 		"chi"		">>>第4章=>决胜<<<"
 		"DoorCountdown"		"-1"
+		"command"       "sm_jump_slowdown_enable 1"
 	}
 	"||| HOLD FOR 20 SECONDS |||"
 	{
@@ -183,6 +188,7 @@
 	{
 		"chi"		">>>第5章 =>毁灭<<<"
 		"DoorCountdown"		"-1"
+		"command"       "sm_jump_slowdown_enable 1"
 	}
 	"||| DOOR OPENS IN 30 SECONDS |||"
 	{
@@ -196,6 +202,7 @@
 	{
 		"chi"		">>>第6章=> 恐惧<<<"
 		"DoorCountdown"		"-1"
+		"command"       "sm_jump_slowdown_enable 0"
 	}
 	"||| DEFEND FOR 25 SECONDS |||"
 	{
