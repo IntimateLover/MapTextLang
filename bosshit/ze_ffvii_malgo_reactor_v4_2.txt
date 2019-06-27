@@ -1,0 +1,135 @@
+"BOSSHP"
+{
+	"6670"
+	{
+		"enable"		"0"
+		"hammerid"		"6670"
+		"m_iname"		"blockage elevator 3 func"
+	}
+	"6908"
+	{
+		"enable"		"0"
+		"hammerid"		"6908"
+		"m_iname"		"blockage elevator func"
+	}
+	"64197"
+	{
+		"enable"		"0"
+		"hammerid"		"64197"
+		"m_iname"		"Seph 2 func"
+	}
+	"130848"
+	{
+		"enable"		"0"
+		"hammerid"		"130848"
+		"m_iname"		"Lvl 2 bahamut func"
+	}
+	"130842"
+	{
+		"enable"		"0"
+		"hammerid"		"130842"
+		"m_iname"		"lvl 2 bahamut attack rock func"
+	}
+	"135852"
+	{
+		"enable"		"0"
+		"hammerid"		"135852"
+		"m_iname"		"Zombiden Sephiroth func"
+	}
+	"218111"
+	{
+		"enable"		"0"
+		"hammerid"		"218111"
+		"m_iname"		"lvl 3 seph 6 func"
+	}
+	"461098"
+	{
+		"enable"		"0"
+		"hammerid"		"461098"
+		"m_iname"		"Half floor"
+	}
+	"539574"
+	{
+		"enable"		"0"
+		"hammerid"		"539574"
+		"m_iname"		"ExI Bahamut func"
+	}
+	"757170"
+	{
+		"enable"		"0"
+		"hammerid"		"757170"
+		"m_iname"		"TeddyBearModelButton3"
+	}
+	"757253"
+	{
+		"enable"		"0"
+		"hammerid"		"757253"
+		"m_iname"		"TeddyBearModelButton5"
+	}
+	"556001"
+	{
+		"enable"		"0"
+		"hammerid"		"556001"
+		"m_iname"		"ExII wall 1"
+	}
+	"556024"
+	{
+		"enable"		"0"
+		"hammerid"		"556024"
+		"m_iname"		"ExII wall 1"
+	}
+	"556124"
+	{
+		"enable"		"0"
+		"hammerid"		"556124"
+		"m_iname"		"ExII wall 1"
+	}
+	"560049"
+	{
+		"enable"		"0"
+		"hammerid"		"560049"
+		"m_iname"		"ExII door 1"
+	}
+	"561452"
+	{
+		"enable"		"0"
+		"hammerid"		"561452"
+		"m_iname"		"ExII door 2"
+	}
+	"831877"
+	{
+		"enable"		"0"
+		"hammerid"		"831877"
+		"m_iname"		"ExIITeleportModel1"
+	}
+	"832050"
+	{
+		"enable"		"0"
+		"hammerid"		"832050"
+		"m_iname"		"ExIITeleportModel1"
+	}
+	"832197"
+	{
+		"enable"		"0"
+		"hammerid"		"832197"
+		"m_iname"		"ExIITeleportModel1"
+	}
+	"820807"
+	{
+		"enable"		"0"
+		"hammerid"		"820807"
+		"m_iname"		"ExIITeleportModel1"
+	}
+	"555699"
+	{
+		"enable"		"0"
+		"hammerid"		"555699"
+		"m_iname"		"ExIISephFunc1"
+	}
+	"577015"
+	{
+		"enable"		"0"
+		"hammerid"		"577015"
+		"m_iname"		"ExIISephFunc2"
+	}
+}
