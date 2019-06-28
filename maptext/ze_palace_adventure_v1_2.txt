@@ -87,4 +87,16 @@
 		"chi"		"**天火冲击（小心脚下）**"
 		"DoorCountdown"		"5"
 	}
+	"**Stage2 Complete**"
+	{
+		"chi"		"** **"
+	}
+	"**RTV**"
+	{
+		"chi"		"** **"
+	}
+	"**You Win**"
+	{
+		"chi"		"** **"
+	}
 }
