@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"1179292"
+	{
+		"enable"		"1"
+		"hammerid"		"1179292"
+		"m_iname"		"scene4_sea_witch_box"
+	}
+	"331726"
+	{
+		"enable"		"1"
+		"hammerid"		"331726"
+		"m_iname"		"scene3_boss_box"
+	}
+	"334409"
+	{
+		"enable"		"1"
+		"hammerid"		"334409"
+		"m_iname"		"scene3_boss_he_box"
+	}
+}
