@@ -11,7 +11,7 @@
 	"***DOORS OPENS IN 30 SECONDS***"
 	{
 		"chi"		"**门将会在30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***DOORS OPENS IN 20 SECONDS***"
 	{
@@ -25,7 +25,7 @@
 	{
 		"chi"		"**门将会在5秒后打开**"
 	}
-	"***Fall back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**快跑**"
 	}
@@ -48,7 +48,7 @@
 	"***HOLD 20 SECONDS***"
 	{
 		"chi"		"**坚守20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Hold 10 seconds***"
 	{
@@ -61,7 +61,7 @@
 	"***TRUCKS LEAVE IN 20 SECONDS***"
 	{
 		"chi"		"**卡车将会在20秒后离开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***TRUCKS LEAVE IN 10 SECONDS***"
 	{
@@ -98,6 +98,7 @@
 	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
 	{
 		"chi"		"**注意后门的僵尸！**"
+		"DoorCountdown"		"27"
 	}
 	"***FALL BACK UPSTAIRS***"
 	{
@@ -114,7 +115,7 @@
 	"***ELEVATOR LEAVING 15 SECONDS***"
 	{
 		"chi"		"**电梯将会在15秒后离开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***GET GAS FOR THE BOAT***"
 	{
@@ -139,7 +140,7 @@
 	"***BOAT LEAVES IN 5 SECONDS!***"
 	{
 		"chi"		"**船5秒后离开！**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***ZOMBIES TAKE THE BRIDGE***"
 	{
@@ -180,7 +181,7 @@
 	"***DOOR OPENS IN 10 SECONDS***"
 	{
 		"chi"		"**门将会在10秒后开启**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***DOOR OPENS IN 5 SECONDS***"
 	{
@@ -205,7 +206,7 @@
 	"***LIFT LEAVING IN 15 SECONDS***"
 	{
 		"chi"		"**电梯15秒后离开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***LIFT LEAVING IN 5 SECONDS***"
 	{
