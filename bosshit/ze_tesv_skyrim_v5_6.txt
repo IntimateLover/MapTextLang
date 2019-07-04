@@ -1912,67 +1912,67 @@
 	{
 		"enable"		"0"
 		"hammerid"		"7915"
-		"m_iname"		"arrow_phbox&2222"
+		"m_iname"		"arrow_phbox&6609"
 	}
 	"1551426"
 	{
 		"enable"		"0"
 		"hammerid"		"1551426"
-		"m_iname"		"ww_phbox&2242"
+		"m_iname"		"ww_phbox&6431"
 	}
 	"1551429"
 	{
 		"enable"		"0"
 		"hammerid"		"1551429"
-		"m_iname"		"ww_phbox&2242"
+		"m_iname"		"ww_phbox&6431"
 	}
 	"1551432"
 	{
 		"enable"		"0"
 		"hammerid"		"1551432"
-		"m_iname"		"ww_phbox&2242"
+		"m_iname"		"ww_phbox&6431"
 	}
 	"1551435"
 	{
 		"enable"		"0"
 		"hammerid"		"1551435"
-		"m_iname"		"ww_phbox&2236"
+		"m_iname"		"ww_phbox&6431"
 	}
 	"1551438"
 	{
 		"enable"		"0"
 		"hammerid"		"1551438"
-		"m_iname"		"ww_phbox&2236"
+		"m_iname"		"ww_phbox&6431"
 	}
 	"1551335"
 	{
 		"enable"		"0"
 		"hammerid"		"1551335"
-		"m_iname"		"troll_phbox&2235"
+		"m_iname"		"troll_phbox&6411"
 	}
 	"1551360"
 	{
 		"enable"		"0"
 		"hammerid"		"1551360"
-		"m_iname"		"troll_phbox&2235"
+		"m_iname"		"troll_phbox&6411"
 	}
 	"1551363"
 	{
 		"enable"		"0"
 		"hammerid"		"1551363"
-		"m_iname"		"troll_phbox&2235"
+		"m_iname"		"troll_phbox&6411"
 	}
 	"1551366"
 	{
 		"enable"		"0"
 		"hammerid"		"1551366"
-		"m_iname"		"troll_phbox&2235"
+		"m_iname"		"troll_phbox&6411"
 	}
 	"1551369"
 	{
 		"enable"		"0"
 		"hammerid"		"1551369"
-		"m_iname"		"troll_phbox&2235"
+		"m_iname"		"troll_phbox&6411"
 	}
 	"2742532"
 	{
@@ -2078,7 +2078,7 @@
 	}
 	"2096387"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"2096387"
 		"m_iname"		"st1_dragonphysbox"
 	}
@@ -2092,7 +2092,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"6375"
-		"m_iname"		"mt_add"
+		"m_iname"		"boss_2_break"
 	}
 	"1766905"
 	{
