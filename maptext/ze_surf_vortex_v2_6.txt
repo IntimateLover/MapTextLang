@@ -31,7 +31,7 @@
 	"***Resist for 60 seconds***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountdown"		"60"
+		"DoorCountdown"		"0"
 	}
 	"***Zombies are coming!!***"
 	{
@@ -56,7 +56,7 @@
 	"***Resist 60 seconds***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountdown"		"60"
+		"DoorCountdown"		"0"
 	}
 	"***Zombies are coming!***"
 	{
@@ -69,7 +69,7 @@
 	"***Resist 45 seconds***"
 	{
 		"chi"		"**守住45秒**"
-		"DoorCountdown"		"45"
+		"DoorCountdown"		"0"
 	}
 	"***shorcut open***"
 	{
@@ -94,7 +94,7 @@
 	"***Teleport error fixed in 30 seconds***"
 	{
 		"chi"		"**传送错误.30秒后修复**"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"0"
 	}
 	"***Try to find second button***"
 	{
@@ -111,7 +111,7 @@
 	"***Second teleport fixed in 30 seconds***"
 	{
 		"chi"		"**传送30秒后启动 **"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"0"
 	}
 	"***5 seconds left, prepare yourself***"
 	{
@@ -124,7 +124,7 @@
 	"***Resist for 30 seconds***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"0"
 	}
 	"***5 seconds left***"
 	{

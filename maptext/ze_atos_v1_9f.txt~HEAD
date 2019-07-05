@@ -106,7 +106,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"79054"
+		"syncvalue"		"67005"
 	}
 	"<--Trip finished-->"
 	{
@@ -207,5 +207,17 @@
 	"<--Oh!Fish attacks-->"
 	{
 		"chi"		"**天哪！鱼儿们发起了攻击**"
+	}
+	"<--Damn!Its going to rain-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Its getting dark-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Damn!Its the sea witch-->"
+	{
+		"chi"		"** **"
 	}
 }

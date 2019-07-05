@@ -215,7 +215,7 @@
 	}
 	"***Reflection casted in 2s*"
 	{
-		"chi"		"**激活反伤，持续五秒**"
-		"DoorCountdown"		"7"
+		"chi"		"**两秒后反伤**"
+		"DoorCountdown"		"10"
 	}
 }
