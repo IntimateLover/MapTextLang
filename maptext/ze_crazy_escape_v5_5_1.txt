@@ -29,7 +29,7 @@
 	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
 		"chi"		"**僵尸将在30秒后传送 **"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"-1"
 	}
 	"### 5 SECONDS ###"
 	{
@@ -504,6 +504,7 @@
 	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
 	{
 		"chi"		"**你们还有2分钟时间 **"
+		"DoorCountdown"		"-1"
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
 	{

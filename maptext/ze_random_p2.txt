@@ -8,6 +8,7 @@
 	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
 	{
 		"chi"		"**拖住僵尸，直到你传送1到9随机一张地图！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Teleporting in 20secs!***"
 	{
@@ -173,12 +174,12 @@
 	}
 	"***Elevator 1 coming in 10secs!***"
 	{
-		"chi"		"**1号电梯门将于 10 秒后打开！**"
+		"chi"		"**一号电梯门将于10秒后打开**"
 		"DoorCountdown"		"10"
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
-		"chi"		"**1号电梯门将于 5 秒后关闭！**"
+		"chi"		"**一号电梯门将于5秒后关闭**"
 	}
 	"***Power lost. Shoot the doors!***"
 	{
@@ -448,6 +449,7 @@
 	"***Hold off as the zombies spawn until youre teleport to 1 of the 9 maps!***"
 	{
 		"chi"		"** 拖住僵尸，直到你传送1到9随机一张地图！**"
+		"DoorCountdown"		"-1"
 	}
 	"***CTs have 120secs to escape as the temples curse spreads!***"
 	{
