@@ -2,7 +2,7 @@
 {
 	"<--Map Made By Color-->"
 	{
-		"chi"		"**地图作者&翻译：酸奶**"
+		"chi"		"**地图作者和翻译：酸奶**"
 	}
 	"<--Warm Up Time-->"
 	{
@@ -229,6 +229,6 @@
 	}
 	"<--Shoot wahas head if possible-->"
 	{
-		"chi"		"** **"
+		"chi"		"**尽可能射击瓦哈头部**"
 	}
 }
