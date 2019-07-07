@@ -3,6 +3,7 @@
 	">-Map By TaskuVaras-<"
 	{
 		"chi"		"**地图由TaskuVaras制作&dy2084翻译**"
+		"command"		"sm_locktimelimit 24"
 	}
 	">-Watch out for traps!!!-<"
 	{
