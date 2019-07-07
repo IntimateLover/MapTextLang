@@ -125,7 +125,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** ZOMBIE TELEPORT IN 10 SECONDS ***"
+	"*** Zombie teleport in 10 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -174,6 +174,14 @@
 		"chi"		"** **"
 	}
 	"*** SURVIVE THE LAST HOLD! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CONGRATULATIONS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU [B]EAT THE MAP! ***"
 	{
 		"chi"		"** **"
 	}
