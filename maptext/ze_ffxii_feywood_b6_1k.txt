@@ -344,7 +344,7 @@
 	}
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**闸门将在25秒后关闭**"
 		"DoorCountdown"		"25"
 	}
 	"**THE GATES ARE CLOSING**"
@@ -735,7 +735,7 @@
 	}
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 30 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**魔晶石矿井入口将在30秒后打开**"
 	}
 	"**戒律王使用了终极元素，将在20秒后爆炸**"
 	{

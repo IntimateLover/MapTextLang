@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"Open the door in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Obstacles break in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Transfer the hanger in 35 seconds"
+	{
+		"chi"		"** **"
+	}
+	"30 seconds later the elevator starts"
+	{
+		"chi"		"** **"
+	}
+	"The switch is dead. We have to switch on again."
+	{
+		"chi"		"** **"
+	}
+	"The generator is behind the left"
+	{
+		"chi"		"** **"
+	}
+	"Okay, now we can press the elevator button."
+	{
+		"chi"		"** **"
+	}
+	"The elevator will start in 30 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Oh, no gas leaks. We have to squat through this area."
+	{
+		"chi"		"** **"
+	}
+	"There is a switch at the end to turn off the gas."
+	{
+		"chi"		"** **"
+	}
+	"Hanger Transfer"
+	{
+		"chi"		"** **"
+	}
+	"Open the underground warehouse door in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Close the door after 25 seconds"
+	{
+		"chi"		"** **"
+	}
+	"45 seconds after the knife jump"
+	{
+		"chi"		"** **"
+	}
+	"The right iron plate was opened."
+	{
+		"chi"		"** **"
+	}
+	"The ventilation pipe is closed. Come on."
+	{
+		"chi"		"** **"
+	}
+}
