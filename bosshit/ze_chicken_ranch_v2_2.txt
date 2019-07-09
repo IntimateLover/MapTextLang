@@ -10,13 +10,13 @@
 	{
 		"enable"		"1"
 		"hammerid"		"1300977"
-		"m_iname"		"NPCHitbox&4309"
+		"m_iname"		"NPCHitbox&3030"
 	}
 	"2331545"
 	{
 		"enable"		"0"
 		"hammerid"		"2331545"
-		"m_iname"		"ElevatorChickenPhy&4263"
+		"m_iname"		"ElevatorChickenPhy&2956"
 	}
 	"1489443"
 	{
