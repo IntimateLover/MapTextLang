@@ -740,7 +740,7 @@
 		"ship"		"will"
 		"fly"		"away"
 		"in"		"35"
-		"seconds"		"
+		"SECONDS"		"
 	{
 		"
 		"chi"		"		"
@@ -786,7 +786,7 @@
 		"First"		"door"
 		"will"		"open"
 		"in"		"10"
-		"seconds"		"
+		"SECONDS"		"
 	{
 		"
 		"chi"		"		"
@@ -807,7 +807,7 @@
 		"second"		"door"
 		"will"		"open"
 		"in"		"10"
-		"seconds"		"
+		"SECONDS"		"
 	{
 		"
 		"chi"		"		"
@@ -912,6 +912,7 @@
 	"**The barricade will explode in 10 seconds**"
 	{
 		"chi"		"**障碍物将会在10秒后爆破 **"
+		"DoorCountdown"		"-1"
 	}
 	"**barricade exploded**"
 	{
@@ -934,6 +935,7 @@
 	"AFK TELEPORT IN 5 SECOND"
 	{
 		"chi"		"**挂机者将会在5秒后被传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"**The palace doors will open in 5 seconds**"
 	{
@@ -961,6 +963,7 @@
 	"**Level 1 is complete**"
 	{
 		"chi"		"**关卡1已完成 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Level changes to NORMAL**"
 	{
@@ -999,6 +1002,7 @@
 	"**AFK TELEPORT IN 5 SECOND**"
 	{
 		"chi"		"**挂机者5秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"**The droids will be killed in 20 seconds**"
 	{
@@ -1047,6 +1051,7 @@
 	"**You completed Level 2**"
 	{
 		"chi"		"**关卡2已完成 **"
+		"DoorCountdown"		"-1"
 	}
 	"**The bridge will open in 25 seconds**"
 	{
@@ -1108,6 +1113,7 @@
 	"**You completed Level 3**"
 	{
 		"chi"		"**关卡3已完成 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Admin set Jedi Master MODE in the admin room**"
 	{
@@ -1135,6 +1141,7 @@
 	"AFK TELEPORT 5 IN SECOND"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"BOSS USE RAGE"
 	{
@@ -1164,10 +1171,11 @@
 	"**Level 5 is complete**"
 	{
 		"chi"		"**关卡5已完成 **"
+		"DoorCountdown"		"-1"
 	}
 	"5 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**井旁近路5秒后打开**"
 	}
 	"The ship will departs after in 20 second"
 	{
@@ -1192,6 +1200,7 @@
 	"AFK TELEPORT IN 10 SECOND"
 	{
 		"chi"		"**挂机玩家10秒后传送  **"
+		"DoorCountdown"		"-1"
 	}
 	"Boss fight in 25 second"
 	{
@@ -1238,6 +1247,7 @@
 	"**You completed Level 4**"
 	{
 		"chi"		"**关卡3已完成 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Level changes to EPIC**"
 	{
@@ -1257,7 +1267,7 @@
 	}
 	"RUN!!!! RUN!!!! RUN!!!!!!  The wal willl explode in 15 second"
 	{
-		"chi"		"**跑！wal将在15秒后爆炸 **"
+		"chi"		"**跑！墙将在15秒后爆炸**"
 	}
 	"The magnetic field will destroyed in 30 second"
 	{

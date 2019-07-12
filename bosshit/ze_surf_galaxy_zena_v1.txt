@@ -68,7 +68,7 @@
 	}
 	"84647"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"84647"
 		"m_iname"		"r2d2_func"
 	}
@@ -77,5 +77,35 @@
 		"enable"		"0"
 		"hammerid"		"102084"
 		"m_iname"		"Grievous_model_1_sword"
+	}
+	"107110"
+	{
+		"enable"		"1"
+		"hammerid"		"107110"
+		"m_iname"		"r2d2_func_last_room"
+	}
+	"151794"
+	{
+		"enable"		"1"
+		"hammerid"		"151794"
+		"m_iname"		"Grievous_boss_model_sword"
+	}
+	"151810"
+	{
+		"enable"		"1"
+		"hammerid"		"151810"
+		"m_iname"		"Grievous_boss_model_func"
+	}
+	"114618"
+	{
+		"enable"		"0"
+		"hammerid"		"114618"
+		"m_iname"		"Grievous_model_last_room_sword"
+	}
+	"173142"
+	{
+		"enable"		"0"
+		"hammerid"		"173142"
+		"m_iname"		"Grievous_model_last_room_func"
 	}
 }
