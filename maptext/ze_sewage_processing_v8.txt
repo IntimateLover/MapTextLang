@@ -28,11 +28,11 @@
 	}
 	"*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***"
 	{
-		"chi"		"**1号闸门在15秒后打开**"
+		"chi"		"**一号闸门将在15秒后打开**"
 	}
 	"*** FIRST FLOOD DOOR OPENING NOW ***"
 	{
-		"chi"		"**1号闸门已打开**"
+		"chi"		"**一号闸门一打开**"
 	}
 	"*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***"
 	{

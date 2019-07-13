@@ -7,7 +7,7 @@
 	"*** Hold Off Zombies for 20 seconds ***"
 	{
 		"chi"		"**防守僵尸20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Gate Open!!! ***"
 	{
@@ -19,12 +19,12 @@
 	}
 	"*** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***"
 	{
-		"chi"		"**找到4个隐藏的安全区直到通往塔的道路开启**"
+		"chi"		"**在四个隐藏的安全区选一个防守直到通往塔的道路开启**"
 	}
 	"*** Safe zone exits will open in 60 seconds ***"
 	{
 		"chi"		"**安全区通往塔的道路将在60秒后开启**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
 	{
