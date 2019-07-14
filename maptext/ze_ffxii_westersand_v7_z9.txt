@@ -198,7 +198,7 @@
 	}
 	"** Door will open in 5 seconds **"
 	{
-		"chi"		"**大门五秒后开启**"
+		"chi"		"**大门5秒后开启**"
 	}
 	"** Second door will open in 10 seconds **"
 	{
@@ -317,7 +317,7 @@
 	{
 		"chi"		"** **"
 	}
-	"** THANKS FOR PLAYING **"
+	"** Thanks for playing **"
 	{
 		"chi"		"** **"
 	}

@@ -294,4 +294,16 @@
 		"hammerid"		"9841"
 		"m_iname"		"break_3_1"
 	}
+	"600772"
+	{
+		"enable"		"1"
+		"hammerid"		"600772"
+		"m_iname"		"boss_bridge"
+	}
+	"600778"
+	{
+		"enable"		"1"
+		"hammerid"		"600778"
+		"m_iname"		"boss_bridge"
+	}
 }
