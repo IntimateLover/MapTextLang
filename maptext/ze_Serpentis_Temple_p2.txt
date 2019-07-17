@@ -466,8 +466,7 @@
 	}
 	"*** STAGE 5 LOADED ***"
 	{
-		"chi"		"**第五阶段加载 **(手电筒启用)"
-		"command"		"sm_flashlight_enabled 1"
+		"chi"		"**第五阶段加载**"
 	}
 	"*** STAGE 5 ***"
 	{
@@ -487,7 +486,7 @@
 	}
 	"*** Its the Artefact ! ***"
 	{
-		"chi"		"**她的宝藏 **"
+		"chi"		"**这是她的宝藏 **"
 	}
 	"*** This is the reason we came here ***"
 	{
@@ -549,65 +548,22 @@
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**服务器即将关闭更新，请更新您的游戏 **"
 	}
 	"[ADMIN ROOM] STAGE 4 NEXT ROUND"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员将下一回合设置为第四关 **"
 	}
 	"[ADMIN ROOM] STAGE 5 NEXT ROUND"
 	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_precache_particles particlesmg_medusa.pcf"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_g_cv_money 10000"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar sm_he_limit 6"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar sm_spawn_give_armor 1"
-		}
-		"4"
-		{
-			"cvar"		"sm_g_cv_money 13000"
-		}
-		"5"
-		{
-			"cvar"		"sm_cvar sm_he_limit 8"
-		}
-		"6"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"7"
-		{
-			"cvar"		"sm_set_convar sm_cvar sm_nofalldamage 1"
-		}
-		"8"
-		{
-			"cvar"		"sm_Cvar  sm_flashlight_enabled 1"
-		}
-		"9"
-		{
-			"cvar"		"sm_cvar sm_flashlight_enabled 1"
-		}
+		"chi"		"**管理员将下一回合设置为第五关 **"
 	}
 	"The Edge Of The Platform Will Be Dangerous Except Nuke(In Order To Limit The Area To Hexagonal Field)"
 	{
-		"chi"		"** **"
+		"chi"		"**除了核武器之外，平台的边缘将是危险的（为了将区域限制为六边形区域） **"
 	}
 	"** There May Still Be Some Glitches **"
 	{
-		"chi"		"** **"
+		"chi"		"**可能还有一些故障 **"
 	}
 }
