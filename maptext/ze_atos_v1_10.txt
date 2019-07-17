@@ -244,9 +244,9 @@
 	{
 		"chi"		"**关闭跳刀投票系统**"
 	}
-	"<--Default is 10 lasers-->"
+	"<--Default is 5 lasers-->"
 	{
-		"chi"		"**默认10刀**"
+		"chi"		"**默认5刀**"
 	}
 	"<--Voting results: 3 lasers-->"
 	{
