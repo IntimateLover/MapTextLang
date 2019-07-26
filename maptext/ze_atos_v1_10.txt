@@ -106,7 +106,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"72956"
+		"syncvalue"		"1184"
 	}
 	"<--Trip finished-->"
 	{
@@ -244,9 +244,9 @@
 	{
 		"chi"		"**关闭跳刀投票系统**"
 	}
-	"<--Default is 5 lasers-->"
+	"<--Default is 10 lasers-->"
 	{
-		"chi"		"**默认5刀**"
+		"chi"		"**默认10刀**"
 	}
 	"<--Voting results: 3 lasers-->"
 	{
