@@ -74,7 +74,7 @@
 	}
 	"*** DEFENDNUKE 30s ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒**"
 	}
 	"sync_version"
 	{
@@ -82,7 +82,7 @@
 	}
 	"*** Zombies TP in 5 sec! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送 **"
 	}
 	"The se"
 	{
@@ -90,10 +90,10 @@
 	}
 	"*** Special Thanks Testing: GFL, MAPEADORES, GUC <3 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢测试：GFL & MAPEADORES 地图翻译：清新的二哈♪ **"
 	}
 	">>> NO END, HARD NOW... <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**还没结束，难度增加**"
 	}
 }
