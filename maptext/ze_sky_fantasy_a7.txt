@@ -34,27 +34,29 @@
 	}
 	"<< Pure Fury >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>纯粹之怒（尸笼）<<<"
 	}
 	"<< Rotating Blade >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>旋转之刃<<<"
 	}
 	"<< Ominous Wind >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>妖风（随机方向推力）<<<"
+		"DoorCountdown"		"3"
 	}
 	"<< Creation Shield >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>创世之盾（反伤停枪）<<<"
+		"DoorCountdown"		"3"
 	}
 	"<< Demon Cage >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>恶魔牢笼<<<"
 	}
 	"<< Flash Cannon >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>光栅轨道炮<<<"
 	}
 	"<< A zombie has picked up gravity magic >>"
 	{
@@ -62,19 +64,21 @@
 	}
 	"<< Tri Crystal >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>三重水晶（打碎水晶后根据水晶颜色躲避技能）<<<"
 	}
 	"<< Fallen Sky >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>天坠<<<"
 	}
 	"<< Sinister Omen >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>不祥之兆（站在边缘）<<<"
+		"DoorCountdown"		"3"
 	}
 	"<< Pressure >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>压力（蹲下）<<<"
+		"DoorCountdown"		"3"
 	}
 	"<< This is not the end...... >>"
 	{
@@ -98,14 +102,24 @@
 	}
 	"<< Tornado Blade >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>旋风之刃<<<"
 	}
 	"<< Mirror Coat >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>镜子大衣（反伤停枪，先打四周水晶）<<<"
+		"DoorCountdown"		"3"
 	}
 	"sync_version"
 	{
 		"syncvalue"		"51309"
+	}
+	"<< Earth Power >>"
+	{
+		"chi"		">>>大地之力（站到上升的平台上）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Aurora Veil >>"
+	{
+		"chi"		">>>极光幕<<<"
 	}
 }
