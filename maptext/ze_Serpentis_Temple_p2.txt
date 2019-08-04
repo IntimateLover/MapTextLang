@@ -55,7 +55,7 @@
 	"*** DOOR OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**门20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** HealAmmo Snake has been picked ***"
 	{
@@ -72,12 +72,12 @@
 	"*** DOOR OPEN IN 25 SECONDS ***"
 	{
 		"chi"		"**门25秒后打开 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** TELEPORTATION IN 30 SECONDS ***"
 	{
 		"chi"		"**30秒后传送 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** GO GO GO ! Enter in the second room ! ***"
 	{
@@ -95,7 +95,7 @@
 	"*** The passage will be open in 10 seconds ***"
 	{
 		"chi"		"**该通道将在10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** SHOOT MEDUSA !!! ***"
 	{
@@ -105,7 +105,7 @@
 	"*** DOOR CLOSE IN 5 SECONDS ! COVER ! ***"
 	{
 		"chi"		"**门5秒后关闭 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** NICE JOB ! YOU WON STAGE 1 ! ***"
 	{
@@ -126,7 +126,7 @@
 	"*** Hold 25 seconds ***"
 	{
 		"chi"		"**守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** FALL BACK ***"
 	{
@@ -152,7 +152,7 @@
 	"*** The portal is open in 30 seconds ***"
 	{
 		"chi"		"**门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** PORTAL IS READY ! FALL BACK ! ***"
 	{
@@ -165,17 +165,17 @@
 	"*** DOOR CLOSE IN 10 SECONDS ***"
 	{
 		"chi"		"**大门10秒后关闭 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** GET BACK AND COVER ! EXIT WILL BE OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**回来守住！后退的路20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** COVER ! DOOR CLOSE IN 15 SECONDS ***"
 	{
 		"chi"		"**守住！大门15秒后关闭 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** KILL REMAINING ZOMBIES ***"
 	{
@@ -192,7 +192,7 @@
 	"*** DOOR OPEN IN 15 SCONDS ***"
 	{
 		"chi"		"**门15秒后打开 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** Flames are going to stop in 15 seconds ***"
 	{
@@ -213,7 +213,7 @@
 	"*** Door open in 10 seconds ***"
 	{
 		"chi"		"**门10秒后打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** DOOR OPEN ! FALL BACK ! ***"
 	{
@@ -222,7 +222,7 @@
 	"*** HOLD HERE 25 SECONDS ***"
 	{
 		"chi"		"**在这里守住25秒 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -231,7 +231,7 @@
 	"*** HOLD HERE 15 SECONDS ***"
 	{
 		"chi"		"**在这里守住15秒 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** DOOR OPEN ! ***"
 	{
@@ -240,7 +240,7 @@
 	"*** DOORS CLOSE IN 15 SECONDS ***"
 	{
 		"chi"		"**门15秒后关闭 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** Good job ! STAGE 4 Unlock ***"
 	{
@@ -250,24 +250,24 @@
 	{
 		"chi"		"**第4关 **"
 	}
-	"*** DOOR OPEN IN 5 SECONDS ***"
+	"*** Door open in 5 seconds ***"
 	{
 		"chi"		"**门5秒后打开 **"
 	}
 	"*** FALL BACK IN 15 SECONDS ***"
 	{
 		"chi"		"**15秒后撤退 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** TELEPORT IN 25 SECONDS ***"
 	{
 		"chi"		"**在25秒钟后传送 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** ELEVADOR WILL MOVE IN 15 SECONDS ***"
 	{
 		"chi"		"**升降梯15秒后上升 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** SHOOT BEHIND YOU ! DOOR OPEN IN 10 SECONDS ***"
 	{
@@ -277,7 +277,7 @@
 	{
 		"chi"		"**跑到平台的边缘躲避核弹！核弹10秒后爆炸 **"
 		"ico"		"icon_fire"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** GO INTO THE TELEPORTER IN THE MIDDLE ***"
 	{
@@ -318,7 +318,7 @@
 	"*** DOOR OPEN IN 30 SECONDS ***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** A sacrifice is necessary to open this passage ***"
 	{
@@ -351,7 +351,7 @@
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**大门20秒后打开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** AFK TELE IN 5 SECONDS ***"
 	{
@@ -380,12 +380,12 @@
 	"*** C4 EXPLODE IN 25 SECONDS ***"
 	{
 		"chi"		"**C4将在25秒后爆炸 **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** C4 EXPLODE IN 30 SECONDS ***"
 	{
 		"chi"		"**C4将在30秒后爆炸 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
@@ -398,12 +398,12 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** HOLD HERE 30 SECONDS ***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** YOU WON STAGE 3 ! ***"
 	{
@@ -420,19 +420,19 @@
 	"*** HOLD HERE 20 SECONDS ***"
 	{
 		"chi"		"**守住这里20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** TELEPORT IN 30 SECONDS ***"
 	{
 		"chi"		"**传送30秒后启动 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯20秒后离开 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
-	"*** Door Opens in 15 seconds ***"
+	"*** Door opens in 15 seconds ***"
 	{
 		"chi"		"**大门15秒后打开 **"
 	}
@@ -480,7 +480,7 @@
 	{
 		"chi"		"**跑 **"
 	}
-	"*** DOORS OPEN IN 10 SECONDS ***"
+	"*** Doors open in 10 seconds ***"
 	{
 		"chi"		"**大门10秒后开启 **"
 	}
@@ -503,7 +503,7 @@
 	"*** C4 EXPLODE IN 20 SECONDS ***"
 	{
 		"chi"		"**C4将在20秒后爆炸 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** FALL BACK !!! ***"
 	{
@@ -512,7 +512,7 @@
 	"*** HELICOPTER MOVE IN 10 SECONDS ! ***"
 	{
 		"chi"		"**直升机10秒后离开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** YOU FORGOT THE ARTIFACT ***"
 	{
@@ -565,5 +565,9 @@
 	"** There May Still Be Some Glitches **"
 	{
 		"chi"		"**可能还有一些故障 **"
+	}
+	"*** AFK TELEPORT IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
 	}
 }
