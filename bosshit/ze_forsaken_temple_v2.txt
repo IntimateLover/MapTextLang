@@ -1,0 +1,195 @@
+"BOSSHP"
+{
+	"344251"
+	{
+		"enable"		"1"
+		"hammerid"		"344251"
+		"m_iname"		"boss5"
+	}
+	"344279"
+	{
+		"enable"		"1"
+		"hammerid"		"344279"
+		"m_iname"		"boss5_barrier"
+	}
+	"344880"
+	{
+		"enable"		"1"
+		"hammerid"		"344880"
+		"m_iname"		"stage3_boss5_barrier"
+	}
+	"316577"
+	{
+		"enable"		"1"
+		"hammerid"		"316577"
+		"m_iname"		"boss4"
+	}
+	"317566"
+	{
+		"enable"		"1"
+		"hammerid"		"317566"
+		"m_iname"		"boss4_hitbox"
+	}
+	"310773"
+	{
+		"enable"		"0"
+		"hammerid"		"310773"
+		"m_iname"		"stage2_sacrificial_room_key_loc"
+	}
+	"289626"
+	{
+		"enable"		"1"
+		"hammerid"		"289626"
+		"m_iname"		"boss3"
+	}
+	"236349"
+	{
+		"enable"		"0"
+		"hammerid"		"236349"
+		"m_iname"		"stage2_entrance"
+	}
+	"219222"
+	{
+		"enable"		"0"
+		"hammerid"		"219222"
+		"m_iname"		"stage1_playerclip"
+	}
+	"208709"
+	{
+		"enable"		"1"
+		"hammerid"		"208709"
+		"m_iname"		"boss2_floor_outer"
+	}
+	"208729"
+	{
+		"enable"		"1"
+		"hammerid"		"208729"
+		"m_iname"		"boss2_floor_inner"
+	}
+	"199439"
+	{
+		"enable"		"1"
+		"hammerid"		"199439"
+		"m_iname"		"boss2"
+	}
+	"201399"
+	{
+		"enable"		"1"
+		"hammerid"		"201399"
+		"m_iname"		"boss2_hitbox"
+	}
+	"190875"
+	{
+		"enable"		"1"
+		"hammerid"		"190875"
+		"m_iname"		"stage1_boss1_exit_barrier"
+	}
+	"192431"
+	{
+		"enable"		"0"
+		"hammerid"		"192431"
+		"m_iname"		"stage1_entrance"
+	}
+	"183735"
+	{
+		"enable"		"1"
+		"hammerid"		"183735"
+		"m_iname"		"boss1_hitbox"
+	}
+	"164972"
+	{
+		"enable"		"0"
+		"hammerid"		"164972"
+		"m_iname"		"stage1_pit"
+	}
+	"165148"
+	{
+		"enable"		"0"
+		"hammerid"		"165148"
+		"m_iname"		"stage1_pit_exit"
+	}
+	"81227"
+	{
+		"enable"		"0"
+		"hammerid"		"81227"
+		"m_iname"		"item_earth_rock"
+	}
+	"281334"
+	{
+		"enable"		"1"
+		"hammerid"		"281334"
+		"m_iname"		"boss3_attack_vampire"
+	}
+	"225109"
+	{
+		"enable"		"1"
+		"hammerid"		"225109"
+		"m_iname"		"boss2_attack_vaccum_parent"
+	}
+	"318300"
+	{
+		"enable"		"1"
+		"hammerid"		"318300"
+		"m_iname"		"boss4_attack_vampire"
+	}
+	"472255"
+	{
+		"enable"		"0"
+		"hammerid"		"472255"
+		"m_iname"		"stage3_exp_car_breakable"
+	}
+	"618588"
+	{
+		"enable"		"1"
+		"hammerid"		"618588"
+		"m_iname"		"boss5_enter_trigger"
+	}
+	"610614"
+	{
+		"enable"		"0"
+		"hammerid"		"610614"
+		"m_iname"		"stage3_pit_breakable"
+	}
+	"560087"
+	{
+		"enable"		"0"
+		"hammerid"		"560087"
+		"m_iname"		"stage3_shortcut1_breakable"
+	}
+	"560095"
+	{
+		"enable"		"0"
+		"hammerid"		"560095"
+		"m_iname"		"stage3_shortcut1_breakable"
+	}
+	"551318"
+	{
+		"enable"		"0"
+		"hammerid"		"551318"
+		"m_iname"		"stage3_pit"
+	}
+	"582455"
+	{
+		"enable"		"0"
+		"hammerid"		"582455"
+		"m_iname"		"temple_debris_sm"
+	}
+	"581820"
+	{
+		"enable"		"0"
+		"hammerid"		"581820"
+		"m_iname"		"temple_debris"
+	}
+	"629748"
+	{
+		"enable"		"0"
+		"hammerid"		"629748"
+		"m_iname"		"stage3_pit"
+	}
+	"683025"
+	{
+		"enable"		"0"
+		"hammerid"		"683025"
+		"m_iname"		"item_earth_rock_physbox"
+	}
+}
