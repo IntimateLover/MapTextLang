@@ -137,6 +137,6 @@
 	}
 	"** If surf is not completed in 60 sec the zombies will be released **"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒内如果没人通过滑翔，人类将全部变成4积分**"
 	}
 }

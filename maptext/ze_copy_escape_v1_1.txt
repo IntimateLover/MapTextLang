@@ -3,7 +3,7 @@
 	"#ze_copy_escape_alpha#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Mapper - sweetS  Special Thanks - Reflelia , Airvulpes , p0p , kune#"
 	{
@@ -40,12 +40,12 @@
 	"#Floor break in 15sec..#"
 	{
 		"chi"		"**15s地板破碎**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Door open in 45sec..#"
 	{
 		"chi"		"**45s门开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Teleport will enable in 5sec..#"
 	{
@@ -62,12 +62,12 @@
 	"#Jump push enable in 30seconds..#"
 	{
 		"chi"		"**三十秒后跳跃**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Last defend 45 seconds for boss..#"
 	{
 		"chi"		"**守住45s 准备打BOSS**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Kill That !.. Nade do more damage.. #"
 	{
@@ -149,7 +149,7 @@
 	"#Teleport enable in 30 seconds.. DEFEND !!#"
 	{
 		"chi"		"**将在30s后传送！守住！**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Dont let zombies touch tower..#"
 	{
@@ -166,7 +166,7 @@
 	"#Door will open in 15 seconds..#"
 	{
 		"chi"		"**门将会在15s后打开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#ELEVATOR LEAVE IN 25 SECOUNDS#"
 	{
@@ -179,7 +179,7 @@
 	"#Defend 15 seconds#"
 	{
 		"chi"		"**守住15s**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Nade do more Damage..#"
 	{
@@ -210,12 +210,12 @@
 	"#40 seconds left#"
 	{
 		"chi"		"**40s后离开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Teleporter enable in 5 seconds#"
 	{
 		"chi"		"**5s后传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#This is last defend..! Defend for Win!#"
 	{
@@ -224,7 +224,7 @@
 	"#70 seconds left#"
 	{
 		"chi"		"**70s后离开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Guardians will protect you..#"
 	{
@@ -233,12 +233,12 @@
 	"#60 seconds left#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#50 seconds left#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Player picked up ice item#"
 	{
@@ -247,17 +247,17 @@
 	"#30 seconds left#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#20 seconds left#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#10 seconds left#"
 	{
 		"chi"		"**10s后离开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#You won difficulty Westersand..#"
 	{
@@ -278,12 +278,12 @@
 	"#120 Seconds Left..#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#60 Seconds Left..#"
 	{
 		"chi"		"**60s后离开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Difficulty set on Gris..#"
 	{
@@ -323,37 +323,37 @@
 	"#30 Seconds Left..#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#15 Seconds Left..#"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#    5    #"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#    4    #"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#    3    #"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#    2    #"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#    1    #"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"#Thanks to ZombieDen, Rss Server#"
 	{
@@ -492,6 +492,10 @@
 		"chi"		"** **"
 	}
 	"#Boss used Crystal Rain#"
+	{
+		"chi"		"** **"
+	}
+	"#Boss used Z_Defend !#"
 	{
 		"chi"		"** **"
 	}
