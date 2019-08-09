@@ -114,4 +114,10 @@
 		"hammerid"		"30203"
 		"m_iname"		"zombie_platform1"
 	}
+	"29647"
+	{
+		"enable"		"0"
+		"hammerid"		"29647"
+		"m_iname"		"zombie_platform2"
+	}
 }

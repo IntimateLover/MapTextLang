@@ -4,7 +4,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"37234"
-		"m_iname"		"i_nksoldier_hp&3567"
+		"m_iname"		"i_nksoldier_hp&2342"
 	}
 	"690694"
 	{
@@ -16,7 +16,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"35152"
-		"m_iname"		"i_nksoldier&3567"
+		"m_iname"		"i_nksoldier&2342"
 	}
 	"587592"
 	{
@@ -322,7 +322,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"109744"
-		"m_iname"		"i_mine_phys&3589"
+		"m_iname"		"i_mine_phys&2355"
 	}
 	"17234"
 	{
@@ -334,13 +334,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"456623"
-		"m_iname"		"i_nkbabysoldier&3613"
+		"m_iname"		"i_nkbabysoldier&2373"
 	}
 	"456651"
 	{
 		"enable"		"0"
 		"hammerid"		"456651"
-		"m_iname"		"i_nkbabysoldier_hp&3613"
+		"m_iname"		"i_nkbabysoldier_hp&2373"
 	}
 	"149501"
 	{

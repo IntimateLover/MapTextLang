@@ -427,7 +427,7 @@
 	{
 		"chi"		"**飞船来了...**"
 	}
-	"**The gates will open in 30 seconds**"
+	"**THE GATES WILL OPEN IN 30 SECONDS**"
 	{
 		"chi"		"**神罗大门将在30秒后打开**"
 		"DoorCountdown"		"30"
@@ -454,7 +454,7 @@
 		"chi"		"**神罗基地大门25秒后打开**"
 		"DoorCountdown"		"25"
 	}
-	"**The gates will open in 15 seconds**"
+	"**THE GATES WILL OPEN IN 15 SECONDS**"
 	{
 		"chi"		"**大门15秒后打开**"
 		"DoorCountdown"		"15"
@@ -574,7 +574,7 @@
 	{
 		"chi"		"**你太慢了**"
 	}
-	"**15 SECONDS LEFT!**"
+	"**15 seconds left!**"
 	{
 		"chi"		"**还剩15秒**"
 	}
@@ -601,5 +601,9 @@
 	"**THE WINNERS HAD SELECTED THE MODE**"
 	{
 		"chi"		"**胜利者选择了下一关模式**"
+	}
+	"[Red-XIII] Hope he will not escape this time? I afraid that we could attract extra attention.."
+	{
+		"chi"		"** **"
 	}
 }
