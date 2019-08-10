@@ -144,4 +144,10 @@
 		"hammerid"		"106829"
 		"m_iname"		"AngelFalse_Boss_1_Hitbox"
 	}
+	"279912"
+	{
+		"enable"		"0"
+		"hammerid"		"279912"
+		"m_iname"		"Selentia_Castle_Platforms2"
+	}
 }

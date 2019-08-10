@@ -122,4 +122,12 @@
 	{
 		"chi"		">>>极光幕<<<"
 	}
+	"<< TIPS: Shooting 8 buttons >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up Doom Desire >>"
+	{
+		"chi"		"** **"
+	}
 }
