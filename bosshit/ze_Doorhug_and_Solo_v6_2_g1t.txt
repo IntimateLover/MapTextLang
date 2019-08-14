@@ -72,4 +72,16 @@
 		"hammerid"		"135222"
 		"m_iname"		"Airdrop_Package_Move&0878"
 	}
+	"120625"
+	{
+		"enable"		"0"
+		"hammerid"		"120625"
+		"m_iname"		"item_nazgul_7&3323"
+	}
+	"120641"
+	{
+		"enable"		"0"
+		"hammerid"		"120641"
+		"m_iname"		"item_nazgul_7&3323"
+	}
 }
