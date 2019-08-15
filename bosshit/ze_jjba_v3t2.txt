@@ -348,4 +348,40 @@
 		"hammerid"		"386426"
 		"m_iname"		"Secret_Level_Penis3"
 	}
+	"385103"
+	{
+		"enable"		"0"
+		"hammerid"		"385103"
+		"m_iname"		"Secret_Level_Trigger2"
+	}
+	"576369"
+	{
+		"enable"		"1"
+		"hammerid"		"576369"
+		"m_iname"		"Moving_Secret_Boss_Body"
+	}
+	"601698"
+	{
+		"enable"		"0"
+		"hammerid"		"601698"
+		"m_iname"		"S_M_B"
+	}
+	"670971"
+	{
+		"enable"		"1"
+		"hammerid"		"670971"
+		"m_iname"		"Boss_Body_Phase1"
+	}
+	"670990"
+	{
+		"enable"		"1"
+		"hammerid"		"670990"
+		"m_iname"		"Boss_Body_Phase2"
+	}
+	"650439"
+	{
+		"enable"		"1"
+		"hammerid"		"650439"
+		"m_iname"		"Boss_Mine&5665"
+	}
 }
