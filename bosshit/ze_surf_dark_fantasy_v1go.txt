@@ -174,4 +174,40 @@
 		"hammerid"		"1156965"
 		"m_iname"		"boss_cg_tnt"
 	}
+	"1247789"
+	{
+		"enable"		"1"
+		"hammerid"		"1247789"
+		"m_iname"		"boss_mb_dog_phbox_s&2107"
+	}
+	"1247795"
+	{
+		"enable"		"1"
+		"hammerid"		"1247795"
+		"m_iname"		"boss_mb_dog_phbox_f&2107"
+	}
+	"1214022"
+	{
+		"enable"		"0"
+		"hammerid"		"1214022"
+		"m_iname"		"lvls_castle_cap_pb"
+	}
+	"1218309"
+	{
+		"enable"		"0"
+		"hammerid"		"1218309"
+		"m_iname"		"lvls_castle_cap_blsprite"
+	}
+	"1247839"
+	{
+		"enable"		"1"
+		"hammerid"		"1247839"
+		"m_iname"		"boss_mb_death_phbox_s&2123"
+	}
+	"1247845"
+	{
+		"enable"		"1"
+		"hammerid"		"1247845"
+		"m_iname"		"boss_mb_death_phbox_f&2123"
+	}
 }

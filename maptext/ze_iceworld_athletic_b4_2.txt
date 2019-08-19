@@ -71,7 +71,7 @@
 	"<< You can see there are 8 platforms >>"
 	{
 		"chi"		"**你可以看见这里有8个平台**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< After a little time, only 1 platform will be safe >>"
 	{
@@ -192,7 +192,7 @@
 	"<< It seems that you are less than 16 guys >>"
 	{
 		"chi"		"**看起来人类的数量少于16个**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< OK, I will let you win this game easier >>"
 	{
@@ -345,5 +345,29 @@
 	"<< 150 seconds >>"
 	{
 		"chi"		"** **"
+	}
+	"<< HERO MODE >>"
+	{
+		"chi"		">>>英雄模式<<<"
+	}
+	"<< Shooting the crystal to become the HERO >>"
+	{
+		"chi"		">>>击碎水晶的幸运儿会被选为英雄<<<"
+	}
+	"<< TIPS: HUMAN now are uninfectable and also have no limit ammo >>"
+	{
+		"chi"		">>>提示：英雄拥有无限子弹，且无法被感染<<<"
+	}
+	"<< Do Not Let zombies destroy the crystal >>"
+	{
+		"chi"		">>>不要让僵尸破坏最后的水晶！<<<"
+	}
+	"<< zombie will only have 75 hp in the final 30 seconds >>"
+	{
+		"chi"		">>>僵尸在最后30秒只有75滴血<<<"
+	}
+	"<< Lets start! The Final Five heros!!! >>"
+	{
+		"chi"		">>>开始吧 最后的英雄！<<<"
 	}
 }
