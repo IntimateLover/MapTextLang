@@ -234,11 +234,11 @@
 	}
 	"THE DOOR TO BOSS WILL OPEN IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**boss房门30秒打开**"
 	}
 	"THE DOOR TO BOSS WILL OPEN IN 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**boss房门5秒打开**"
 	}
 	"sync_version"
 	{
