@@ -96,4 +96,64 @@
 		"hammerid"		"1361704"
 		"m_iname"		"Nostar_Boss_Physbox"
 	}
+	"1864593"
+	{
+		"enable"		"0"
+		"hammerid"		"1864593"
+		"m_iname"		"NeoPoisonPhysic&9297"
+	}
+	"1915894"
+	{
+		"enable"		"1"
+		"hammerid"		"1915894"
+		"m_iname"		"mboss_rock_phys1&9486"
+	}
+	"1915891"
+	{
+		"enable"		"1"
+		"hammerid"		"1915891"
+		"m_iname"		"mboss_rock_phys2&9486"
+	}
+	"1915888"
+	{
+		"enable"		"1"
+		"hammerid"		"1915888"
+		"m_iname"		"mboss_rock_phys3&9486"
+	}
+	"1915912"
+	{
+		"enable"		"1"
+		"hammerid"		"1915912"
+		"m_iname"		"mboss_rock_phys4&9486"
+	}
+	"1915906"
+	{
+		"enable"		"1"
+		"hammerid"		"1915906"
+		"m_iname"		"mboss_rock_phys5&9486"
+	}
+	"1915897"
+	{
+		"enable"		"1"
+		"hammerid"		"1915897"
+		"m_iname"		"mboss_rock_phys6&9486"
+	}
+	"1915900"
+	{
+		"enable"		"1"
+		"hammerid"		"1915900"
+		"m_iname"		"mboss_rock_phys7&9486"
+	}
+	"1915903"
+	{
+		"enable"		"1"
+		"hammerid"		"1915903"
+		"m_iname"		"mboss_rock_phys8&9486"
+	}
+	"1915909"
+	{
+		"enable"		"1"
+		"hammerid"		"1915909"
+		"m_iname"		"mboss_rock_phys9&9486"
+	}
 }

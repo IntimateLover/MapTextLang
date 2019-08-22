@@ -19,17 +19,17 @@
 	"< CITY DOOR OPENS IN 30 SECONDS >"
 	{
 		"chi"		"**城市大门还有30秒打开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< CARGO LIFT STARTS IN 5 SECONDS >"
 	{
 		"chi"		"**中门电梯启动剩下5秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< CITY DOOR OPENS IN 5 SECONDS >"
 	{
 		"chi"		"**城市大门还有5秒打开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** ICE Materia has been found. **"
 	{
@@ -230,5 +230,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"94917"
+	}
+	"< CITY DOOR OPENS IN 40 SECONDS >"
+	{
+		"chi"		"** **"
 	}
 }
