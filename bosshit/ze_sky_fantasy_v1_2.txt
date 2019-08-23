@@ -390,4 +390,16 @@
 		"hammerid"		"61130"
 		"m_iname"		"item_copy_wall_wall"
 	}
+	"3035"
+	{
+		"enable"		"0"
+		"hammerid"		"3035"
+		"m_iname"		"blueball_3c_green_break"
+	}
+	"2074"
+	{
+		"enable"		"0"
+		"hammerid"		"2074"
+		"m_iname"		"pball_reflect3_break"
+	}
 }

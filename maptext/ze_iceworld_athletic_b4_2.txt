@@ -370,4 +370,32 @@
 	{
 		"chi"		">>>开始吧 最后的英雄！<<<"
 	}
+	"<< The first save point has been unlocked ! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ONLY HAS 30 seconds to become the HERO >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 180 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 120 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 60 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< FAIL...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Final 30 seconds !!! >>"
+	{
+		"chi"		"** **"
+	}
 }

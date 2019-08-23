@@ -648,4 +648,40 @@
 	{
 		"syncvalue"		"393"
 	}
+	"***Gate will open in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate will open in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate will open in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Afk will be teleported after 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You Found a Seal***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will be teleported after 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Door will open in 15 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate will open in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Afk will be teleported after 15 seconds***"
+	{
+		"chi"		"** **"
+	}
 }
