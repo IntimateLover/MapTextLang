@@ -302,7 +302,7 @@
 	}
 	"***The order | 1-Sword 2-Shield 3-Bow 4-Spear***"
 	{
-		"chi"		"**开门方法| 1剑 2弓 3矛 4盾**"
+		"chi"		"**开门方法| 1剑 2盾 3弓 4矛**"
 	}
 	"***The order | 1-Sword 2-Spear 3-Shield 4-Bow***"
 	{
@@ -314,7 +314,7 @@
 	}
 	"***The order | 1-Bow 2-Sword 3-Spear 4-Shield***"
 	{
-		"chi"		"**开门方法| 1剑 2弓 3矛 4盾**"
+		"chi"		"**开门方法| 1弓 2剑 3矛 4盾**"
 	}
 	"***The order | 1-Bow 2-Shield 3-Sword 4-Spear***"
 	{
@@ -438,7 +438,7 @@
 	}
 	"[Story] Perhaps this passage has remained from the ancient civilization"
 	{
-		"chi"		"**[故事]也许这段话是从古时流传下来的**"
+		"chi"		"**[故事]也许这座地下建筑是在古时建造的**"
 	}
 	"[Story] Suddenly everyone noticed the ghost away"
 	{
@@ -454,7 +454,7 @@
 	}
 	"[Story] One of the people lifted into the air and twice hit the wall"
 	{
-		"chi"		"**[故事]有一个人腾空而起，两次撞到墙上**"
+		"chi"		"**[故事]有一个人被一股未知力量腾空，两次撞到墙上**"
 	}
 	"[Story] These catacombs not only contain traps and mobs but also something more sinister"
 	{
@@ -562,15 +562,15 @@
 	}
 	"***[Boss] Stage 1 completed***"
 	{
-		"chi"		"**[Boss]第一关完成**"
+		"chi"		"**[Boss]第一个被打败**"
 	}
 	"***[Boss] Stage 2 completed***"
 	{
-		"chi"		"**[Boss]第二关完成**"
+		"chi"		"**[Boss]第二个被打败**"
 	}
 	"***[Boss] Stage 3 completed***"
 	{
-		"chi"		"**[Boss]第三关完成**"
+		"chi"		"**[Boss]第三个被打败**"
 	}
 	"***Human will be teleported after 5 seconds***"
 	{
@@ -642,7 +642,7 @@
 	}
 	"***Gate will open in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在5秒后打开**"
 	}
 	"sync_version"
 	{
@@ -650,38 +650,38 @@
 	}
 	"***Gate will open in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"***Gate will open in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开**"
 	}
 	"***Gate will open in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开**"
 	}
 	"***Afk will be teleported after 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送AFK玩家**"
 	}
 	"***You Found a Seal***"
 	{
-		"chi"		"** **"
+		"chi"		"**你找到了封印符咒**"
 	}
 	"***Zombies will be teleported after 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后传送**"
 	}
 	"***Door will open in 15 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开**"
 	}
 	"***Gate will open in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开**"
 	}
 	"***Afk will be teleported after 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后传送AFK玩家**"
 	}
 }
