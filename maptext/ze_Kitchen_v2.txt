@@ -144,4 +144,20 @@
 	{
 		"chi"		"** **"
 	}
+	">>> Door opens in 25 sec <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Wait 40 sec <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> The door will open fully in 5 sec <<<"
+	{
+		"chi"		"** **"
+	}
 }

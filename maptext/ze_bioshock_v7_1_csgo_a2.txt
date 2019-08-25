@@ -2,7 +2,7 @@
 {
 	">>Thank you for playing. Try 1999 mode for a true challenge<<"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 		"chi"		">>>谢谢你的玩耍，尝试挑战1999模式<<<"
 	}
 	">>>Elizabeth cant close the tear! Teleport in 5 seconds<<<"
@@ -59,7 +59,7 @@
 	}
 	">>1999 is a special mode<<"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 		"chi"		">>>1999是一个特殊的关卡<<<"
 	}
 	">>>Warmup ends in 60 seconds<<<"
@@ -69,17 +69,17 @@
 	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
 	{
 		"chi"		">>>提示2:多次通关失败会使地图更容易，不要放弃!<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #3: Plasmids are limited use. Keep count!<<"
 	{
 		"chi"		">>>质粒的使用受到限制,酌情使用！<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
 	{
 		"chi"		">>>在商店升级你的质粒，升级是永久性的，请谨慎选择！<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Big Sister is after you!<<"
 	{
@@ -216,5 +216,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"76706"
+	}
+	">>>Elevator 2 leaves in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>A Little Sister has been spotted nearby<<<"
+	{
+		"chi"		"** **"
 	}
 }

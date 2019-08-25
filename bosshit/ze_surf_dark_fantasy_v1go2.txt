@@ -354,4 +354,22 @@
 		"hammerid"		"1433941"
 		"m_iname"		"lvls_castle_final_boss_phbox"
 	}
+	"1810287"
+	{
+		"enable"		"1"
+		"hammerid"		"1810287"
+		"m_iname"		"boss_charon_phb2"
+	}
+	"1341179"
+	{
+		"enable"		"0"
+		"hammerid"		"1341179"
+		"m_iname"		"lvls_true_final_m1_pb_axe"
+	}
+	"1384711"
+	{
+		"enable"		"1"
+		"hammerid"		"1384711"
+		"m_iname"		"boss_queen_phbox"
+	}
 }
