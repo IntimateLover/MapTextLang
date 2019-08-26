@@ -1,0 +1,39 @@
+"BOSSHP"
+{
+	"1021237"
+	{
+		"enable"		"1"
+		"hammerid"		"1021237"
+		"m_iname"		"Hellz_boss_room_wall"
+	}
+	"959149"
+	{
+		"enable"		"0"
+		"hammerid"		"959149"
+		"m_iname"		"AmmoBox"
+	}
+	"898937"
+	{
+		"enable"		"0"
+		"hammerid"		"898937"
+		"m_iname"		"Glass_1"
+	}
+	"898964"
+	{
+		"enable"		"0"
+		"hammerid"		"898964"
+		"m_iname"		"glass_2"
+	}
+	"6908"
+	{
+		"enable"		"0"
+		"hammerid"		"6908"
+		"m_iname"		"blockage elevator func"
+	}
+	"539574"
+	{
+		"enable"		"0"
+		"hammerid"		"539574"
+		"m_iname"		"ExI Bahamut func"
+	}
+}

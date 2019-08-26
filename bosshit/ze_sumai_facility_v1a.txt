@@ -58,18 +58,18 @@
 	{
 		"enable"		"0"
 		"hammerid"		"324900"
-		"m_iname"		"npc_physbox&6744"
+		"m_iname"		"npc_physbox&7130"
 	}
 	"324875"
 	{
 		"enable"		"1"
 		"hammerid"		"324875"
-		"m_iname"		"boss1_hpbox&6744"
+		"m_iname"		"boss1_hpbox&7130"
 	}
 	"478614"
 	{
 		"enable"		"1"
 		"hammerid"		"478614"
-		"m_iname"		"boss1_grenadehurt&6744"
+		"m_iname"		"boss1_grenadehurt&7130"
 	}
 }

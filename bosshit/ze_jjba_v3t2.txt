@@ -384,4 +384,10 @@
 		"hammerid"		"650439"
 		"m_iname"		"Boss_Mine&5665"
 	}
+	"388601"
+	{
+		"enable"		"1"
+		"hammerid"		"388601"
+		"m_iname"		"L3_Secret_Boss"
+	}
 }
