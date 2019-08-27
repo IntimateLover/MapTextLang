@@ -144,4 +144,88 @@
 	{
 		"syncvalue"		"99405"
 	}
+	"*** Ice element is charging an attack! ***"
+	{
+		"chi"		"** **"
+	}
+	"** Laser barrier will disable in 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"*** Both doors will open in 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Center Hall TP will activate in 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We reached the Main Hall ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This elevator leads to the Space Ship ***"
+	{
+		"chi"		"** **"
+	}
+	"*** But it will take time for it to work ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will rush from any side ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We must defend until the elevator is ready ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will come from the West Path ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ice element program appeared! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ice element is inmune to bullets! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will come from the North Path ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will come from the South Path ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will come from the East Path ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ice element is casting a final attack! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ITS WEAK WHILE CASTING! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT THE ICE PROGRAM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The attack has been interrupted! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator is leaving in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

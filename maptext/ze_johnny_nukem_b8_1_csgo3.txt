@@ -150,7 +150,7 @@
 	{
 		"chi"		"**纸墙将在30秒后消失**"
 	}
-	"**Fall back!**"
+	"**Fall Back!**"
 	{
 		"chi"		"**撤退**"
 	}
@@ -844,5 +844,9 @@
 		{
 			"cvar"		"zr_poison_enabled 0"
 		}
+	}
+	"** There are zombies at the end point ** The round is failed.**"
+	{
+		"chi"		"** **"
 	}
 }
