@@ -36,7 +36,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** Zombie teleport in 10 seconds ***"
+	"*** zombie teleport in 10 seconds ***"
 	{
 		"chi"		"** **"
 	}
@@ -225,6 +225,18 @@
 		"chi"		"** **"
 	}
 	"*** Elevator is leaving in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Crystal destroyed! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Something is happening..***"
+	{
+		"chi"		"** **"
+	}
+	"*** S?ku??o: Exe?ut? G?it?h 82 ***"
 	{
 		"chi"		"** **"
 	}

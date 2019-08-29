@@ -294,4 +294,22 @@
 		"hammerid"		"942433"
 		"m_iname"		"ventilacion_hard"
 	}
+	"448148"
+	{
+		"enable"		"0"
+		"hammerid"		"448148"
+		"m_iname"		"hardbarricada1"
+	}
+	"448193"
+	{
+		"enable"		"0"
+		"hammerid"		"448193"
+		"m_iname"		"hardbarricada1"
+	}
+	"697118"
+	{
+		"enable"		"0"
+		"hammerid"		"697118"
+		"m_iname"		"hardbarricada1"
+	}
 }
