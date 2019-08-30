@@ -35,11 +35,12 @@
 	}
 	"*** Dropship Departure in 30 Seconds ***"
 	{
-		"chi"		"** 船将在30秒后离开 **"
+		"chi"		"**船将在30秒后离开（5S关门）**"
+		"DoorCountdown"		"30"
 	}
 	"*** Dropship Departure in 10 Seconds ***"
 	{
 		"chi"		"** 船将在10秒后离开 **"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"-1"
 	}
 }
