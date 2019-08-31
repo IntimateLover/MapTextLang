@@ -362,7 +362,7 @@
 	}
 	"802521"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"802521"
 		"m_iname"		"Level1_KirliaBreakable"
 	}

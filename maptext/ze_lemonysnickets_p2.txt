@@ -54,18 +54,22 @@
 	"*Portal 25 percent charged*"
 	{
 		"chi"		"**已充电25%！ **"
+		"DoorCountDown"		"-1"
 	}
 	"*Portal 50 percent charged!*"
 	{
 		"chi"		"**已充电50%！ **"
+		"DoorCountDown"		"-1"
 	}
 	"*Portal 75 percent charged!!*"
 	{
 		"chi"		"**已充电75% ！**"
+		"DoorCountDown"		"-1"
 	}
 	"*Portal 100 percent charged!*"
 	{
 		"chi"		"**充电完成！ **"
+		"DoorCountDown"		"-1"
 	}
 	"*Jump into the middle of the portal!*"
 	{

@@ -120,4 +120,60 @@
 	{
 		"syncvalue"		"35333"
 	}
+	">> Open the elevator 30 SECONDS <<"
+	{
+		"chi"		">>>左侧电梯门30S后打开（贴门小心门开夹死）<<<"
+	}
+	">> Open the elevator 10 SECONDS <<"
+	{
+		"chi"		">>>电梯门10S后打开（贴门小心门开夹死）<<<"
+	}
+	">> Repair the shutter 20 SECONDS <<"
+	{
+		"chi"		">>>百叶门20S后打开<<<"
+	}
+	">> Repair the shutter 10 SECONDS <<"
+	{
+		"chi"		">>>百叶门10S后打开<<<"
+	}
+	">> Repair the shutter 30 SECONDS <<"
+	{
+		"chi"		">>>百叶门30S后打开<<<"
+	}
+	">> Watch out TP! 5 SECONDS <<"
+	{
+		"chi"		">>>小心！僵尸5S后传送<<<"
+	}
+	">> Breaking the duct key 20 SECONDS <<"
+	{
+		"chi"		">>>管道窗20S后破碎<<<"
+	}
+	">> Breaking the duct key 10 SECONDS <<"
+	{
+		"chi"		">>>管道窗10S后破碎<<<"
+	}
+	">> Insert the card key [ II ] <<"
+	{
+		"chi"		">>>已插入二号钥匙卡<<<"
+	}
+	">> Insert the card key [ I ] <<"
+	{
+		"chi"		">>>已插入一号钥匙卡<<<"
+	}
+	"Map : ze_deadly_crash"
+	{
+		"chi"		"** **"
+	}
+	">> Open the elevator 40 SECONDS <<"
+	{
+		"chi"		">>>电梯门40S后打开<<<"
+	}
+	">> Oh shit! Zombie inside! <<"
+	{
+		"chi"		">>>哦豁完蛋！僵尸进来了，人类GG<<<"
+	}
+	">> Close the elevator 5 SECONDS <<"
+	{
+		"chi"		">>>电梯门5S后关闭<<<"
+	}
 }
