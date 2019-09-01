@@ -180,4 +180,28 @@
 		"hammerid"		"407417"
 		"m_iname"		"boss2_breakable_1"
 	}
+	"12737"
+	{
+		"enable"		"0"
+		"hammerid"		"12737"
+		"m_iname"		"void_portal_trigger_1_breakable"
+	}
+	"12842"
+	{
+		"enable"		"0"
+		"hammerid"		"12842"
+		"m_iname"		"void_portal_trigger_2_breakable"
+	}
+	"55449"
+	{
+		"enable"		"0"
+		"hammerid"		"55449"
+		"m_iname"		"shortcut1_path_1"
+	}
+	"55600"
+	{
+		"enable"		"0"
+		"hammerid"		"55600"
+		"m_iname"		"chapel_path_1"
+	}
 }

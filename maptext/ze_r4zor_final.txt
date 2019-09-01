@@ -74,7 +74,7 @@
 	}
 	"***Afk teleport 5 second left***"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***www.laming.cz***"
 	{
@@ -90,27 +90,29 @@
 	}
 	"***Go Go Go!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了，快撤退**"
 	}
 	"***Defend 45 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守45秒**"
 	}
 	"***Afk teleport 5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家5秒后传送**"
+		"DoorCountDown"		"-1"
 	}
 	"***Defend 15 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒**"
 	}
 	"***Afk teleport 5second left***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家5秒后传送**"
+		"DoorCountDown"		"-1"
 	}
 	"***GO GO GO***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了，快撤退**"
 	}
 	"***Mnam do piiiici ez win!***"
 	{
