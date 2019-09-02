@@ -290,15 +290,15 @@
 	}
 	">>> AFK Teleport 10 Seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送AFK玩家**"
 	}
 	">>> Dont Delay <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**不要迟疑**"
 	}
 	">>> Zombies Teleport in 10 Seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后僵尸传送**"
 	}
 	"sync_version"
 	{
