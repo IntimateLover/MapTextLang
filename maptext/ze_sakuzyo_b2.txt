@@ -55,7 +55,7 @@
 	"*** Boss room will open in 30 seconds ***"
 	{
 		"chi"		"**30秒后BOSS房门开启**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"*** Doors will close in 10 seconds ***"
 	{
@@ -148,7 +148,7 @@
 	"*** Ice element is charging an attack! ***"
 	{
 		"chi"		"**冰之元素即将发动攻击**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Laser barrier will disable in 30 seconds **"
 	{
@@ -221,7 +221,7 @@
 	"*** SHOOT THE ICE PROGRAM ***"
 	{
 		"chi"		"**快点射击冰之元素，不然我们都要爆炸**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*** The attack has been interrupted! ***"
 	{

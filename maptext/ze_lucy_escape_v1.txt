@@ -2,7 +2,7 @@
 {
 	"***ZOMBIE TELEPORT IN 10 SECONDS"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***LEVEL 1 - THE STOLEN KITTY***"
 	{
@@ -32,10 +32,10 @@
 	{
 		"chi"		"**这扇门似乎有点破旧，它需要一点时间来完全打开**"
 	}
-	"***Zombie teleport in 10 seconds***"
+	"***ZOMBIE TELEPORT IN 10 SECONDS***"
 	{
 		"chi"		"**僵尸将在10秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***ELEVATOR DOORS OPENING IN 30 SECONDS***"
 	{

@@ -1014,4 +1014,22 @@
 		"hammerid"		"73718"
 		"m_iname"		"BeforeStoneBridgeBarrier"
 	}
+	"1342680"
+	{
+		"enable"		"0"
+		"hammerid"		"1342680"
+		"m_iname"		"MiniSpider_North"
+	}
+	"1342390"
+	{
+		"enable"		"0"
+		"hammerid"		"1342390"
+		"m_iname"		"MiniSpider_South"
+	}
+	"1320087"
+	{
+		"enable"		"0"
+		"hammerid"		"1320087"
+		"m_iname"		"MiniSpider_West"
+	}
 }

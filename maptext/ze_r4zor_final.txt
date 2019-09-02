@@ -74,7 +74,7 @@
 	}
 	"***Afk teleport 5 second left***"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***www.laming.cz***"
 	{
@@ -99,7 +99,7 @@
 	"***Afk teleport 5 seconds left***"
 	{
 		"chi"		"**挂机玩家5秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***Defend 15 seconds left***"
 	{
@@ -108,7 +108,7 @@
 	"***Afk teleport 5second left***"
 	{
 		"chi"		"**挂机玩家5秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***GO GO GO***"
 	{

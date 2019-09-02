@@ -19,30 +19,30 @@
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
 		"chi"		"**防守25秒，直到守卫开放道路**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** A player has learned Wind magick. **"
 	{
 		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
 	}
-	"** 5 Seconds left **"
+	"** 5 seconds left **"
 	{
 		"chi"		"**还剩5秒**"
 	}
 	"** Defend here so the guards will open the gates to the city! **"
 	{
 		"chi"		"**守住这里，直到守卫开放前往城市的道路**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Cover here till the rock explodes **"
 	{
 		"chi"		"**守住25秒-直到石头爆炸**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开!**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
@@ -51,7 +51,7 @@
 	"** The first door will open in 10 seconds **"
 	{
 		"chi"		"**第一道门将在10秒后打开**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** The second door will open in 15 seconds **"
 	{
@@ -60,7 +60,7 @@
 	"** A player has learned Heal magick. **"
 	{
 		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Keep defending!! **"
 	{
@@ -73,7 +73,7 @@
 	"** METEOR INBOUND **"
 	{
 		"chi"		"**陨石将至**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
@@ -115,7 +115,7 @@
 	"** Cover 20 seconds till the rock explodes **"
 	{
 		"chi"		"**防守20秒直到石头爆炸**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** A player has learned Fire magick. **"
 	{
@@ -128,7 +128,7 @@
 	"** FIRE NOVA INBOUND **"
 	{
 		"chi"		"**大火来袭**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
@@ -145,7 +145,7 @@
 	"** Cover 30 seconds till the rock explodes **"
 	{
 		"chi"		"**防守30秒直到石头爆炸**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** 70 SECS REMAINING **"
 	{
@@ -190,7 +190,7 @@
 	"** Teleporter will be ready in 20 seconds! **"
 	{
 		"chi"		"**20秒后开启传送**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** Teleporter will be ready in 5 seconds! **"
 	{
@@ -227,7 +227,7 @@
 	"** Defend here for 30 seconds **"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"** The airship reactors are going to explode!! **"
 	{
