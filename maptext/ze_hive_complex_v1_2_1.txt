@@ -75,7 +75,7 @@
 	"***Door open in 20 seconds***"
 	{
 		"chi"		"**门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"*** Door open in 15 seconds ***"
 	{
@@ -96,7 +96,7 @@
 	"*** Elevators door open in 30 seconds ***"
 	{
 		"chi"		"**电梯门将在30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"0"
 	}
 	"*** 15 seconds ***"
 	{
@@ -177,6 +177,7 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**防御20秒 **"
+		"DoorCountdown"		"0"
 	}
 	"*** Beware of dog !!! ***"
 	{
@@ -269,7 +270,7 @@
 	}
 	"*** Helicopter leave in 10 seconds ***"
 	{
-		"chi"		"**直升机将在10秒后到达 **"
+		"chi"		"**直升机将在10秒后离开**"
 	}
 	"*** Helicopter leave !! ***"
 	{

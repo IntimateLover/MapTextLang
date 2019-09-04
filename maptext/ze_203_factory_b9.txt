@@ -34,11 +34,11 @@
 	}
 	"Oh, no gas leaks. We have to squat through this area."
 	{
-		"chi"		"** **"
+		"chi"		"**哦不，毒气泄露了。我们必须蹲着走出这块区域**"
 	}
 	"There is a switch at the end to turn off the gas."
 	{
-		"chi"		"** **"
+		"chi"		"**不过在毒气区域末端有一个开关，能够关闭毒气泄露**"
 	}
 	"Hanger Transfer"
 	{
@@ -62,6 +62,6 @@
 	}
 	"The ventilation pipe is closed. Come on."
 	{
-		"chi"		"** **"
+		"chi"		"**很好，泄露毒气的管道已经被关上了，可以撤退了**"
 	}
 }
