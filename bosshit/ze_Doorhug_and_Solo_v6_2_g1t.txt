@@ -84,4 +84,10 @@
 		"hammerid"		"120641"
 		"m_iname"		"item_nazgul_7&3323"
 	}
+	"128313"
+	{
+		"enable"		"0"
+		"hammerid"		"128313"
+		"m_iname"		"Lava_Mode_Final_Bridges"
+	}
 }

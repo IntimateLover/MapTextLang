@@ -872,4 +872,20 @@
 	{
 		"chi"		"** **"
 	}
+	"WEEDLE used POISON STING!"
+	{
+		"chi"		"** **"
+	}
+	"Enemys POKEMON has been poisoned!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy POKEMON is hurt by poison!"
+	{
+		"chi"		"** **"
+	}
+	"WEEDLE used BUG BITE!"
+	{
+		"chi"		"** **"
+	}
 }

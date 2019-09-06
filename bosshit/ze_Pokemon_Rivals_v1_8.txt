@@ -912,4 +912,10 @@
 		"hammerid"		"778108"
 		"m_iname"		"Poisoned_humans"
 	}
+	"778221"
+	{
+		"enable"		"0"
+		"hammerid"		"778221"
+		"m_iname"		"Poisoned_zombies"
+	}
 }
