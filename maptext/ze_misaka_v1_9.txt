@@ -395,7 +395,7 @@
 	"<< Youve already got all 6 secret letters >>"
 	{
 		"chi"		">>>你已经得到了全部6个隐藏字母<<<"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"<< the final door will open in 30 seconds >>"
 	{
@@ -618,6 +618,10 @@
 		"chi"		"** **"
 	}
 	"<< You only have 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin select INSANE MODE >>"
 	{
 		"chi"		"** **"
 	}
