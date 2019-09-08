@@ -43,12 +43,12 @@
 	"<< Ominous Wind >>"
 	{
 		"chi"		">>>妖风（随机方向推力）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Creation Shield >>"
 	{
 		"chi"		">>>创世之盾（反伤停枪）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Demon Cage >>"
 	{
@@ -73,12 +73,12 @@
 	"<< Sinister Omen >>"
 	{
 		"chi"		">>>不祥之兆（站在边缘）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Pressure >>"
 	{
 		"chi"		">>>压力（蹲下）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< This is not the end...... >>"
 	{
@@ -107,7 +107,7 @@
 	"<< Mirror Coat >>"
 	{
 		"chi"		">>>镜子大衣（反伤停枪，先打四周水晶）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"sync_version"
 	{
@@ -116,7 +116,7 @@
 	"<< Earth Power >>"
 	{
 		"chi"		">>>大地之力（站到上升的平台上）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Aurora Veil >>"
 	{
@@ -131,6 +131,10 @@
 		"chi"		"** **"
 	}
 	"<< A zombie has picked up killer magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie can move in 8 seconds >>"
 	{
 		"chi"		"** **"
 	}
