@@ -96,4 +96,28 @@
 		"hammerid"		"800077"
 		"m_iname"		"lvl3_Boss_Phys"
 	}
+	"1502836"
+	{
+		"enable"		"0"
+		"hammerid"		"1502836"
+		"m_iname"		"lvl5_Beam_4"
+	}
+	"1502862"
+	{
+		"enable"		"0"
+		"hammerid"		"1502862"
+		"m_iname"		"lvl5_Beam_2"
+	}
+	"1502865"
+	{
+		"enable"		"0"
+		"hammerid"		"1502865"
+		"m_iname"		"lvl5_Beam_1"
+	}
+	"1502868"
+	{
+		"enable"		"0"
+		"hammerid"		"1502868"
+		"m_iname"		"lvl5_Beam_3"
+	}
 }

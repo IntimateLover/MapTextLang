@@ -1,0 +1,139 @@
+"Console_T"
+{
+	"< Warmup >"
+	{
+		"chi"		"** **"
+	}
+	"**WARMUP**"
+	{
+		"chi"		"**热身**"
+	}
+	"**ze surf galaxy zena**"
+	{
+		"chi"		"** **"
+	}
+	"**Map by Malgo**"
+	{
+		"chi"		"**地图作者:Malgo 地图翻译:清新的二哈♪**"
+	}
+	"< Chapter I - Curiosity >"
+	{
+		"chi"		">>>第一关<<<"
+	}
+	"**Teleport will enable in 10 seconds**"
+	{
+		"chi"		"**10秒后传送**"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**20秒后传送**"
+	}
+	"**Defend this crystal 35 seconds**"
+	{
+		"chi"		"**守住35秒**"
+	}
+	"**This is last point, run on the ship**"
+	{
+		"chi"		"**快上飞船闪人**"
+	}
+	"**Ship will start in 20 seconds**"
+	{
+		"chi"		"**飞船20秒后离开**"
+	}
+	"**Chapter I - completed**"
+	{
+		"chi"		"**第一关完成**"
+	}
+	"< Chapter II - Rendezvous >"
+	{
+		"chi"		">>>第二关<<<"
+	}
+	"**Teleport will enable in 25 seconds**"
+	{
+		"chi"		"**25秒后传送**"
+	}
+	"**R2-D2 attack, get ready to fight**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 is using gravity**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 did FLIP Barrel Roll and recovered 80 health points**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 is using support Grievous**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 is using support Clone Tropper**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 is using implosion**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 is using paralyse**"
+	{
+		"chi"		"** **"
+	}
+	"**Get out of the middle**"
+	{
+		"chi"		"** **"
+	}
+	"**Stay on the middle**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 died, now we can escape from this galaxy**"
+	{
+		"chi"		"** **"
+	}
+	"**This is last point, defeat R2-D2!**"
+	{
+		"chi"		"** **"
+	}
+	"**R2-D2 died, run!**"
+	{
+		"chi"		"** **"
+	}
+	"**Chapter II - completed**"
+	{
+		"chi"		"** **"
+	}
+	"< Chapter III - Reconciliation >"
+	{
+		"chi"		"** **"
+	}
+	"**Defend this point for 40 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Ship will go for 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Grievous is death**"
+	{
+		"chi"		"** **"
+	}
+	"**Grievous is dead, run!**"
+	{
+		"chi"		"** **"
+	}
+	"**Chapter III - completed**"
+	{
+		"chi"		"** **"
+	}
+	"**Chapter III incoming**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"41320"
+	}
+}

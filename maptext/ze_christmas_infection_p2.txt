@@ -27,11 +27,12 @@
 	"*** The door opens in 30 seconds ***"
 	{
 		"chi"		"**门在30秒后打开 **"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"0"
 	}
 	"*** The door opens in 10 seconds. Hold! ***"
 	{
 		"chi"		"**门在10秒后打开.防御!!! **"
+		"DoorCountdown"		"0"
 	}
 	"*** The door opens in 5 seconds. RESIST!!! ***"
 	{
@@ -40,7 +41,7 @@
 	"** Well done! The door will open in 15 seconds! **"
 	{
 		"chi"		"**干得漂亮!门在15秒后打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
 	{
@@ -57,7 +58,7 @@
 	"*** HOLD! The elevator will leave in 25 seconds! ***"
 	{
 		"chi"		"**电梯将在25秒后升起 **"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"0"
 	}
 	"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
 	{
@@ -66,7 +67,7 @@
 	"*** Hold the bridge! The door opens in 20 seconds! ***"
 	{
 		"chi"		"**防御这座桥!门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"*** Activate one of the control pannels! ***"
 	{
@@ -75,12 +76,12 @@
 	"** Well done! The door opens in 20 seconds. RESIST!!! **"
 	{
 		"chi"		"**门将在20秒后打开 防御! **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"** Hold! The door will open in 25 seconds! **"
 	{
 		"chi"		"**门将在25秒后打开 防御! **"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"0"
 	}
 	"** Only 5 seconds left! RESIST! **"
 	{
@@ -89,7 +90,7 @@
 	"** We have to hold this area for 40 seconds until the doors open! **"
 	{
 		"chi"		"**我们需要防守这里40秒 直到大门打开 **"
-		"DoorCountdown"		"40"
+		"DoorCountdown"		"0"
 	}
 	"** Keep defending! 15 seconds left! **"
 	{
@@ -114,22 +115,22 @@
 	"*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***"
 	{
 		"chi"		"**撤退!离电梯离开还有5秒 **"
-		"DoorCountdown"		"5"
+		"DoorCountdown"		"0"
 	}
 	"** Storage area door opening in 15 seconds. HOLD! **"
 	{
 		"chi"		"**离储存区舱门打开还有15秒 防御! **"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"** Hold a bit! The door will open in 15 seconds! **"
 	{
 		"chi"		"**防御! 门将在15秒后打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"** Hold 10 more seconds! The second doors will open soon!**"
 	{
-		"chi"		"**防御10秒! 第二扇门将在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"chi"		"**防御10秒！第二扇门马上就要打开了！**"
+		"DoorCountdown"		"0"
 	}
 	"** Zombie heal has been picked up. Press +USE (E) to activate.**"
 	{
@@ -146,7 +147,7 @@
 	"** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
 	{
 		"chi"		"**防守圣诞汽艇50秒 **"
-		"DoorCountdown"		"50"
+		"DoorCountdown"		"0"
 	}
 	"** RESIST! 30 SECONDS LEFT!!! **"
 	{
@@ -171,7 +172,7 @@
 	"** We have to hold this area for 60 seconds until the doors open! **"
 	{
 		"chi"		"**我们需要防守这里60秒 直到大门打开 **"
-		"DoorCountdown"		"60"
+		"DoorCountdown"		"0"
 	}
 	"** Keep defending! 30 seconds left! **"
 	{
@@ -188,7 +189,7 @@
 	"** Hold! The door opens in 20 seconds!!! **"
 	{
 		"chi"		"**防御!门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"** KEEP HOLDING! 5 MORE SECONDS!!! **"
 	{
@@ -197,7 +198,7 @@
 	"** Hold a bit! The door will open in 20 seconds! **"
 	{
 		"chi"		"**防御!门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **"
 	{
@@ -214,7 +215,7 @@
 	"** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **"
 	{
 		"chi"		"**离任务将失败还有20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
 	{
@@ -239,7 +240,7 @@
 	"** Resist for 15 seconds! **"
 	{
 		"chi"		"**防御15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"** LAST 5 SECONDS! KEEP HOLDING!!! **"
 	{
@@ -260,7 +261,7 @@
 	"** HOLD! The door is opening in 10 seconds! **"
 	{
 		"chi"		"**防御!门将在10秒后打开 **"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"** Resist! The doors will open in 10 seconds!!! **"
 	{
@@ -269,7 +270,7 @@
 	"** RESIST FOR 20 SECONDS! Help is on the way! **"
 	{
 		"chi"		"**防御20秒!增援已经在路上了 **"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"** Fall back! The hot air balloon is here!!! **"
 	{
@@ -314,12 +315,12 @@
 	"** Systems activated! Doors opening in 10 seconds! **"
 	{
 		"chi"		"**系统激活！门10秒后打开！ **"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"** Hold! The doors will open in 15 seconds! **"
 	{
 		"chi"		"**守住！门将在15秒后打开！ **"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"** The core is being deactivated... **"
 	{

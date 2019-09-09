@@ -150,4 +150,16 @@
 		"hammerid"		"1910989"
 		"m_iname"		"physboxPyramidHead"
 	}
+	"155096"
+	{
+		"enable"		"0"
+		"hammerid"		"155096"
+		"m_iname"		"physboxTornado&0964"
+	}
+	"3554466"
+	{
+		"enable"		"0"
+		"hammerid"		"3554466"
+		"m_iname"		"physboxCube&1297"
+	}
 }

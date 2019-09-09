@@ -15,6 +15,7 @@
 	"***Zombies will be teleported after 15 seconds***"
 	{
 		"chi"		"**僵尸将在15秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	"***Welcome to ze_surf_dark_fantasy***"
 	{
@@ -427,6 +428,7 @@
 	"***Charon can be Cured by 300 HP***"
 	{
 		"chi"		"**它回复了300血**"
+		"DoorCountdown"		"-1"
 	}
 	"[Story] Everyone looked around"
 	{
@@ -535,6 +537,7 @@
 	"***CatGirl can be Cured by 300 HP***"
 	{
 		"chi"		"**猫女回复了300血**"
+		"DoorCountdown"		"-1"
 	}
 	"***CatGirl is using Electro***"
 	{

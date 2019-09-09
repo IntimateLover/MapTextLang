@@ -19,6 +19,7 @@
 	"Magical Piece of shit moves in 40 Seconds!"
 	{
 		"chi"		"**40秒后移动！ **"
+		"DoorCountdown"		"40"
 	}
 	"Magical Piece of shit moves in 20 Seconds!"
 	{
@@ -46,7 +47,7 @@
 	}
 	"Red Spider Door Closes in 20 Second"
 	{
-		"chi"		"**红色蜘蛛大门将在20秒后打开 **"
+		"chi"		"**红色蜘蛛大门将在20秒后关闭**"
 	}
 	"Zombies are coming in sec!"
 	{
@@ -86,7 +87,7 @@
 	}
 	"Zombies are coming in 3 Seconds!"
 	{
-		"chi"		"**僵尸将在3s后到达战场！**"
+		"chi"		"**僵尸将在3秒后到达战场**"
 	}
 	"Hold for 40 Seconds!"
 	{
@@ -107,6 +108,7 @@
 	"Survive Here for 60 Seconds to win"
 	{
 		"chi"		"**保住你的菊花60秒获得胜利！ **"
+		"DoorCountdown"		"60"
 	}
 	"Teleporting Zombies in 20 Seconds!"
 	{
@@ -134,7 +136,8 @@
 	}
 	"Survive Here for 80 Seconds to win"
 	{
-		"chi"		"** **"
+		"chi"		"**保住你的菊花80秒后获得胜利**"
+		"DoorCountdown"		"80"
 	}
 	"###$$$%%%LEVEL 3%%%$$$###"
 	{
@@ -148,7 +151,7 @@
 	{
 		"chi"		"** **"
 	}
-	"10 Seconds left"
+	"10 seconds left"
 	{
 		"chi"		"** **"
 	}

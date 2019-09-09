@@ -56,7 +56,7 @@
 	}
 	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
 	{
-		"chi"		"**僵尸抵达3号电梯 门已封闭 **"
+		"chi"		"**僵尸抵达三号电梯 门已关闭**"
 	}
 	"*Office doors opening in 15 seconds*"
 	{
@@ -64,7 +64,7 @@
 	}
 	"*Zombies detected on Elevator Nr. 1. Sealing door.*"
 	{
-		"chi"		"**僵尸抵达1号电梯 门已封闭 **"
+		"chi"		"**僵尸抵达一号电梯 门已关闭**"
 	}
 	"*Open the bunker door while others defend the spot.*"
 	{
@@ -94,6 +94,7 @@
 	"**Fuel lasts about 10 seconds. **"
 	{
 		"chi"		"**喷火器有10s燃料时间 **"
+		"DoorCountdown"		"-1"
 	}
 	"*The door has locked! Resist for 30 seconds until it closes.*"
 	{
@@ -110,6 +111,7 @@
 	"**It only has one use**"
 	{
 		"chi"		"**只有1发哦 **"
+		"DoorCountdown"		"-1"
 	}
 	"*The door is closing! Use the ladder to go to the roof.*"
 	{
@@ -153,15 +155,15 @@
 	}
 	"*Defend at Transporter I (1) for 25 seconds.*"
 	{
-		"chi"		"**防御1号电梯25秒 **"
+		"chi"		"**防御一号电梯25秒**"
 	}
 	"*Transporter I leaving in 5 seconds.*"
 	{
-		"chi"		"**1号电梯将在5秒后离开 **"
+		"chi"		"**一号电梯将在5秒后离开**"
 	}
 	"*Transporter II leaving in 5 seconds.*"
 	{
-		"chi"		"**2号电梯将在5秒后离开 **"
+		"chi"		"**二号电梯将在5秒后离开**"
 	}
 	"*The zombies are trying to get on our elevator. Shoot!!!*"
 	{
@@ -353,11 +355,12 @@
 	}
 	"*Zombies detected on Elevator Nr. 2. Sealing door.*"
 	{
-		"chi"		"**僵尸抵达2号电梯 门已封闭 **"
+		"chi"		"**僵尸抵达二号电梯 门已关闭**"
 	}
 	"*Spacesuit has been taken. It lowers gravity by a 20%.*"
 	{
 		"chi"		"**重力帽已被拾起 它将降低佩戴者20%的重力 **"
+		"DoorCountdown"		"-1"
 	}
 	"*Defensive robot has been defeated.*"
 	{
@@ -592,6 +595,7 @@
 	"** TIP: Three humans must suicide to keep the THE END level **"
 	{
 		"chi"		"**TIP:3个人类用他们的生命可以将难度保持在'END' **"
+		"DoorCountdown"		"-1"
 	}
 	"** THE PAPER GODS ARE PLEASED WITH YOUR SACRIFICE **"
 	{
@@ -742,7 +746,7 @@
 	}
 	"*Theres no power! One human must activate it through the vent..*"
 	{
-		"chi"		"** **"
+		"chi"		"**没有动力！必须要有人通过左侧的管道去控制室打开电源**"
 	}
 	"*Activate the Elevator and open the docks door.*"
 	{
@@ -774,7 +778,7 @@
 	}
 	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡路线：去河边的地堡里**"
 	}
 	"** Explosion in 30 seconds **"
 	{
