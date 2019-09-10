@@ -119,6 +119,7 @@
 	">>>OVER 15 CT - DOOR ON 1ST FLOOR IS OPEN<<<"
 	{
 		"chi"		"存活人类超过15人，开启一楼侧门"
+		"DoorCountdown"		"-1"
 	}
 	">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<"
 	{
@@ -147,5 +148,6 @@
 	">>>OVER 30 CT - DOOR ON 2ND FLOOR IS OPEN<<<"
 	{
 		"chi"		">>>超过30个人类存活。二楼开启！！！<<<"
+		"DoorCountdown"		"-1"
 	}
 }

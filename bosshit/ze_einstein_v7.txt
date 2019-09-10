@@ -36,4 +36,10 @@
 		"hammerid"		"311622"
 		"m_iname"		"modified_george_cade_sb_wrap&16"
 	}
+	"281901"
+	{
+		"enable"		"0"
+		"hammerid"		"281901"
+		"m_iname"		"FirePhysicsCore&0754"
+	}
 }
