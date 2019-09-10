@@ -45,7 +45,6 @@
 	"**The teleporter to Feywood will be active in 30 seconds**"
 	{
 		"chi"		"**通往幻妖之森的传送将在30秒后启动**"
-		"DoorCountdown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
 	{
@@ -68,7 +67,6 @@
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
@@ -87,7 +85,6 @@
 	"**DEFEND THE GROUND FOR 30 SECONDS**"
 	{
 		"chi"		"**在这里守住30秒**"
-		"DoorCountdown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
@@ -97,7 +94,6 @@
 	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
@@ -159,7 +155,6 @@
 	"**THE TOMB GATES WILL CLOSE IN 25 SECONDS**"
 	{
 		"chi"		"**墓穴大门将在20秒后关闭**"
-		"DoorCountdown"		"20"
 	}
 	"**THE TOMB GATES WILL CLOSE IN 5 SECONDS**"
 	{
@@ -186,12 +181,10 @@
 	"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
 	{
 		"chi"		"**巨石将在15秒后爆炸**"
-		"DoorCountdown"		"15"
 	}
 	"**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**墓穴大门将在20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**THE GATES ARE OPENING**"
 	{
@@ -214,7 +207,6 @@
 	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**干的漂亮-大门20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**THE GATES WILL OPEN IN 5 SECONDS**"
 	{
@@ -259,12 +251,10 @@
 	"**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**我们即将离开墓穴-大门20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**"
 	{
 		"chi"		"**飞艇将在35秒后离开**"
-		"DoorCountdown"		"35"
 	}
 	"**5 seconds left**"
 	{
@@ -286,7 +276,6 @@
 	"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
 	{
 		"chi"		"**传送点将在15秒后激活**"
-		"DoorCountdown"		"15"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
@@ -319,12 +308,10 @@
 	"**THE WAY WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**屏障将在25秒后关闭**"
-		"DoorCountdown"		"25"
 	}
 	"**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**"
 	{
 		"chi"		"**屏障将在25秒后关闭**"
-		"DoorCountdown"		"25"
 	}
 	"**..WHAT IS IT?!**"
 	{
@@ -345,7 +332,6 @@
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
 		"chi"		"**闸门将在25秒后关闭**"
-		"DoorCountdown"		"25"
 	}
 	"**THE GATES ARE CLOSING**"
 	{
@@ -363,7 +349,6 @@
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
-		"DoorCountdown"		"25"
 	}
 	"**FALL BACK**10 SECONDS LEFT**"
 	{
@@ -377,7 +362,6 @@
 	"**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**"
 	{
 		"chi"		"**BOSS已被击败-现在准备离开这个地方**"
-		"DoorCountdown"		"15"
 	}
 	"**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
 	{
@@ -386,12 +370,10 @@
 	"**THE LAST GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**最后一扇大门将在20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
 	{
 		"chi"		"**前往桥的另一端继续防守30秒**"
-		"DoorCountdown"		"30"
 	}
 	"** GOOD JOB [YOU WON LEVEL 4] **"
 	{
@@ -418,7 +400,6 @@
 	"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
 	{
 		"chi"		"**传送将在20秒后启动**"
-		"DoorCountdown"		"20"
 	}
 	"**THE GATES WILL OPEN IN 10 SECONDS**"
 	{
@@ -445,7 +426,6 @@
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**魔晶石矿井入口将在20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"**Good luck...**"
 	{
@@ -498,7 +478,6 @@
 	"**THE END GATES WILL OPEN IN 50 SECONDS**"
 	{
 		"chi"		"**最后的大门将在50秒后打开**"
-		"DoorCountdown"		"50"
 	}
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
 	{
@@ -522,7 +501,6 @@
 	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
 		"chi"		"**守住这里15秒**"
-		"DoorCountdown"		"15"
 	}
 	"**GO GO GO!!**"
 	{
