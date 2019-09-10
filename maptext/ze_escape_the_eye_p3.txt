@@ -11,7 +11,6 @@
 	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
 	{
 		"chi"		"**门将在45秒后打开 **"
-		"DoorCountdown"		"45"
 	}
 	"+++ RESIST IN THIS ZONE +++"
 	{
@@ -20,7 +19,6 @@
 	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
 	{
 		"chi"		"**门将在25秒后打开 **"
-		"DoorCountdown"		"25"
 	}
 	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
 	{
@@ -45,7 +43,6 @@
 	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
 	{
 		"chi"		"**门将在100秒后打开 **"
-		"DoorCountdown"		"100"
 	}
 	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
 	{
@@ -58,12 +55,10 @@
 	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
 		"chi"		"**僵尸在17秒后释放 **"
-		"DoorCountdown"		"17"
 	}
 	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
 	{
 		"chi"		"**墙在35秒后破碎 **"
-		"DoorCountdown"		"35"
 	}
 	"+++ THE WALL IS BROKEN +++"
 	{
@@ -75,13 +70,11 @@
 	}
 	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
 	{
-		"chi"		"**门将在35秒后打开 **"
-		"DoorCountdown"		"35"
+		"chi"		"**门将在30秒后打开(门开后五秒关闭） **"
 	}
 	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
 	{
 		"chi"		"**逃生门将在50秒后打开 **"
-		"DoorCountdown"		"50"
 	}
 	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
 	{
@@ -101,20 +94,21 @@
 	}
 	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
 	{
-		"chi"		"**LIGHTBRIDGE在20秒后激活 **"
-		"DoorCountdown"		"20"
+		"chi"		"**光桥在20秒后激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"++ LIGHTBRIDGE ACTIVATED ++"
 	{
-		"chi"		"**LIGHTBRIDGE已激活 **"
+		"chi"		"**光桥已激活 **"
 	}
 	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
 	{
 		"chi"		"**电梯将在5秒后离开 **"
+		"DoorCountdown"		"-1"
 	}
 	"++ LIGHTBRIDGE DEACTIVATED ++"
 	{
-		"chi"		"**LIGHTBRIDGE已停用 **"
+		"chi"		"**光桥已关闭 **"
 	}
 	"+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++"
 	{
@@ -140,6 +134,7 @@
 	}
 	"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
 	{
-		"chi"		"** **"
+		"chi"		"**光桥在15秒后激活 **"
+		"DoorCountdown"		"-1"
 	}
 }
