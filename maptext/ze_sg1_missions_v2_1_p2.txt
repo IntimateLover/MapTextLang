@@ -16,7 +16,6 @@
 	{
 		"chi"		"储藏室门5秒后开启"
 	}
-	"DoorCountdown"		"5"
 	">>>INCOMING WORMHOLE. CLOSE THE IRIS!<<<"
 	{
 		"chi"		"虫洞警告！关上虹膜！"
@@ -29,7 +28,6 @@
 	{
 		"chi"		"门10秒后开启"
 	}
-	"DoorCountdown"		"10"
 	">>>PRESS THE BUTTON<<<"
 	{
 		"chi"		"咸鱼们快按按钮！"
@@ -50,7 +48,6 @@
 	{
 		"chi"		"电梯5秒后离开"
 	}
-	"DoorCountdown"		"5"
 	">>>ZOMBIES: GO UP THE ELEVATOR SHAFT<<<"
 	{
 		"chi"		"僵尸:上电梯轴！"
@@ -82,6 +79,7 @@
 	">>>FIND THE C4 OUTSIDE<<<"
 	{
 		"chi"		"去外面找c4！"
+		"DoorCountdown"		"-1"
 	}
 	">>>HOLD THE ENTRANCE UNTIL DOOR B IS OPEN!<<<"
 	{
@@ -94,16 +92,18 @@
 	">>>C4 has been picked<<<"
 	{
 		"chi"		"c4已被捡起"
+		"DoorCountdown"		"-1"
 	}
 	">>>BRING THE C4 TO DOOR B<<<"
 	{
 		"chi"		"带着c4去B门！"
+		"DoorCountdown"		"-1"
 	}
 	">>>C4 has been placed. Hold 10 seconds!<<<"
 	{
 		"chi"		"C4已安放，守住10秒！"
-	}
-	"DoorCountdown"		"10"
+		"DoorCountdown"		"10"
+	}	
 	">>>TEAM FALL BACK<<<"
 	{
 		"chi"		"全体人员撤退！"
@@ -124,7 +124,6 @@
 	{
 		"chi"		"大门30秒后开启"
 	}
-	"DoorCountdown"		"30"
 	">>>DOOR OPEN!<<<"
 	{
 		"chi"		"门开了！"
@@ -139,7 +138,7 @@
 	}
 	">>>The tablett has been picked. Activate the rings!<<<"
 	{
-		"chi"		"石碑已被拿起，启动铃声！"
+		"chi"		"石碑已被拿起，启动传送环！"
 	}
 	">>>10 seconds left<<<"
 	{
@@ -147,7 +146,7 @@
 	}
 	">>>RINGS ACTIVATING IN 5 SECONDS<<<"
 	{
-		"chi"		"铃声5秒后启动"
+		"chi"		"传送环5秒后启动"
 	}
 	">>>FALL BACK. RUN TO RINGPLATFORM!<<<"
 	{
