@@ -25,7 +25,7 @@
 	{
 		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
 	}
-	"** 5 seconds left **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -37,7 +37,7 @@
 	"** Cover here till the rock explodes **"
 	{
 		"chi"		"**守住25秒-直到石头爆炸**"
-		"DoorCountdown"		"0"
+		"DoorCountdown"		"25"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{

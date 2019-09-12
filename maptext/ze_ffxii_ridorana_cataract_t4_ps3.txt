@@ -42,7 +42,7 @@
 		"chi"		"**一位僵尸学会了黑洞魔法 **"
 		"DoorCountdown"		"-1"
 	}
-	"**The gates will open in 30 seconds**"
+	"**THE GATES WILL OPEN IN 30 SECONDS**"
 	{
 		"chi"		"**石制大门30秒后打开**"
 		"DoorCountdown"		"30"
@@ -52,7 +52,7 @@
 		"chi"		"**一位玩家拿起了黑洞法杖（等级：1）**"
 		"DoorCountdown"		"-1"
 	}
-	"**The gates will open in 15 seconds**"
+	"**THE GATES WILL OPEN IN 15 SECONDS**"
 	{
 		"chi"		"**铁门将在15秒后打开**"
 	}
@@ -414,7 +414,7 @@
 	{
 		"chi"		"** **"
 	}
-	"**You have failed**"
+	"**YOU HAVE FAILED**"
 	{
 		"chi"		"**你失败了**"
 	}

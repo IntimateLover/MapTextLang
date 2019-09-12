@@ -99,6 +99,7 @@
 	"<< defeat the boss in 130 seconds >>"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"<< Tornado Blade >>"
 	{

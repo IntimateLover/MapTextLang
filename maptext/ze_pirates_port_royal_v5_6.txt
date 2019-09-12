@@ -469,7 +469,7 @@
 	{
 		"chi"		"** 门10秒后打开 **"
 	}
-	">>> DOOR OPENS IN 5 sec <<<"
+	">>> Door opens in 5 sec <<<"
 	{
 		"chi"		"** 门5秒后打开 **"
 	}
@@ -477,7 +477,7 @@
 	{
 		"chi"		"**转动木轮来降下桥**"
 	}
-	">>> DOOR OPENS IN 25 sec <<<"
+	">>> Door opens in 25 sec <<<"
 	{
 		"chi"		"** 门25秒后打开 **"
 		"DoorCountdown"		"0"

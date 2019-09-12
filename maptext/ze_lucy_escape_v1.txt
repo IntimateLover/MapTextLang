@@ -32,7 +32,7 @@
 	{
 		"chi"		"**这扇门似乎有点破旧，它需要一点时间来完全打开**"
 	}
-	"***ZOMBIE TELEPORT IN 10 SECONDS***"
+	"***Zombie teleport in 10 seconds***"
 	{
 		"chi"		"**僵尸将在10秒后传送**"
 		"DoorCountdown"		"-1"

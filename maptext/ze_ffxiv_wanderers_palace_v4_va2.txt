@@ -67,22 +67,27 @@
 	"*** Nymian device 1 activated ***"
 	{
 		"chi"		"**1号尼姆装置已被激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Nymian device 2 activated ***"
 	{
 		"chi"		"**2号尼姆装置已被激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Nymian device 3 activated ***"
 	{
 		"chi"		"**3号尼姆装置已被激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Nymian device 4 activated ***"
 	{
 		"chi"		"**4号尼姆装置已被激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** ALL Nymian device Activated ***"
 	{
 		"chi"		"**所有的尼姆装置已激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** 5 seconds to Activate Nymian device ***"
 	{
@@ -139,6 +144,7 @@
 	"***Recast 50s***"
 	{
 		"chi"		"**CD：50秒 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
@@ -147,7 +153,7 @@
 	}
 	"*** 10 seconds   ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒剩余**"
 	}
 	"*** Location: The Navel ***"
 	{
@@ -192,7 +198,7 @@
 	}
 	"***5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒剩余**"
 	}
 	"***Gravity ON***"
 	{
@@ -225,7 +231,7 @@
 	}
 	"*** 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒剩余**"
 	}
 	"*** Chase the ADS ***"
 	{
@@ -483,6 +489,7 @@
 	"*** ze_ffxiv_wanderers_palace...? ***"
 	{
 		"chi"		"**最终幻想14：流浪者宫殿 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Level:Ultimate ***"
 	{

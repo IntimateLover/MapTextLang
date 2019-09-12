@@ -517,14 +517,17 @@
 	"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
 	{
 		"chi"		"**所有僵尸和人类都在BOSS区域 **"
+		"DoorCountdown"		"-1"
 	}
 	"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
 	{
 		"chi"		"**将被传送到最终目的地 **"
+		"DoorCountdown"		"-1"
 	}
 	"### IN 15 SECONDS ###"
 	{
 		"chi"		"**AFK将在15秒后传送！**"
+		"DoorCountdown"		"15"
 	}
 	"### LEFT BUTTON HAS BEEN PRESSED ###"
 	{

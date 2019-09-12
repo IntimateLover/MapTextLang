@@ -613,10 +613,12 @@
 	"***Lasers!!!***"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
+		"DoorCountdown"		"12"
 	}
 	"***Lasers!!!**"
 	{
 		"chi"		"**注意按钮那边飞来的激光刀（共十刀）**"
+		"DoorCountdown"		"12"
 	}
 	"***The portal will activate in 70s***"
 	{

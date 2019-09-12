@@ -226,7 +226,7 @@
 	{
 		"chi"		"**BOSS被我们击败了！**"
 	}
-	"** Retreat! **"
+	"** RETREAT! **"
 	{
 		"chi"		"**撤退~~**"
 	}
@@ -404,8 +404,12 @@
 	{
 		"chi"		"** **"
 	}
-	"** THANKS FOR PLAYING **"
+	"** Thanks for playing **"
 	{
 		"chi"		"** **"
+	}
+	"** Door will open soon. Hold a bit! **"
+	{
+		"DoorCountdown"		"30"
 	}
 }

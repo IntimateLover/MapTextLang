@@ -17,7 +17,7 @@
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**传送点在20秒后激活**"
-		"DoorCountdown"		"0"
+		"DoorCountdown"		"-1"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
@@ -106,12 +106,12 @@
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**坚守10秒**"
-		"DoorCountdown"		"0"
+		"DoorCountdown"		"10"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
 		"chi"		"**坚守5秒**"
-		"DoorCountdown"		"0"
+		"DoorCountdown"		"5"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{

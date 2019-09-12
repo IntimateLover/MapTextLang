@@ -8,7 +8,7 @@
 	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
 	{
 		"chi"		"**拖住僵尸，直到你传送1到9随机一张地图！**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***Teleporting in 20secs!***"
 	{
@@ -45,7 +45,7 @@
 	"***Door breaking in 10secs!***"
 	{
 		"chi"		"**木门 10 秒后破碎！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
@@ -66,7 +66,7 @@
 	"***Zombie barrier breaking in 20secs get moving!***"
 	{
 		"chi"		"**僵尸将在 20 秒后突破铁门！**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
 	{
@@ -151,22 +151,22 @@
 	"***Cargo door opening in 15secs!***"
 	{
 		"chi"		"**将在 15 秒后打开货舱门！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***Emergency doors closing in 10secs!***"
 	{
 		"chi"		"**应急出口的门将在 10 秒后关闭！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"10"
 	}
 	"***Boxcar door opening in 10secs!***"
 	{
 		"chi"		"**货舱门将于 10 秒后打开！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***Final express door opening in 25secs!***"
 	{
 		"chi"		"**最后的大门将在 25 秒后打开！对僵尸的防守不要松懈！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***LEVEL-- CITY NIGHT ESCAPE***"
 	{
@@ -175,7 +175,7 @@
 	"***Elevator 1 coming in 10secs!***"
 	{
 		"chi"		"**一号电梯门将于10秒后打开**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
@@ -284,7 +284,7 @@
 	"***Zombie will arrive in 10secs!***"
 	{
 		"chi"		"**僵尸将在 10 秒后抵达！**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
 	{
@@ -293,7 +293,7 @@
 	"***Valves unlocked in 35secs!***"
 	{
 		"chi"		"**水阀将在 35 秒后解锁！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"35"
 	}
 	"***Shoot the Block!***"
 	{
@@ -326,7 +326,7 @@
 	"***Defend for 35secs as the Carpet...refuels...?***"
 	{
 		"chi"		"**守卫魔毯 35 秒...加油...？**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***Carpet leaves in 5secs!***"
 	{
@@ -343,7 +343,7 @@
 	"***Hold the sign for 20secs!***"
 	{
 		"chi"		"** 守住这个地方 20 秒！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***FINAL BOSS INCOMING!***"
 	{
@@ -396,7 +396,7 @@
 	"***PORTAL COLLAPSING IN 10secs!! ***"
 	{
 		"chi"		"** 球型传送门将在 10 秒后消失！！**"
-		"DoorCountDown"		"0"
+		"DoorCountdown"		"0"
 	}
 	"***JUMP INTO THE ORB!!***"
 	{
@@ -449,7 +449,7 @@
 	"***Hold off as the zombies spawn until youre teleport to 1 of the 9 maps!***"
 	{
 		"chi"		"** 拖住僵尸，直到你传送1到9随机一张地图！**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***CTs have 120secs to escape as the temples curse spreads!***"
 	{

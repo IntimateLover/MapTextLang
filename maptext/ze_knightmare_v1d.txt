@@ -39,6 +39,7 @@
 	"<Hmm Nothing Just Wait>"
 	{
 		"chi"		"**别死刷了！快走啊 **"
+		"DoorCountdown"		"10"
 	}
 	"<Tp in 20 Second>"
 	{
@@ -82,19 +83,19 @@
 	}
 	"-=?????=-"
 	{
-		"chi"		"**死墙 **"
+		"chi"		"**死墙**"
 	}
 	"-=Laser=-"
 	{
-		"chi"		"**随机跳刀 **"
+		"chi"		"**躲激光（随机一个方向）**"
 	}
 	"-=Holy=-"
 	{
-		"chi"		"**内场天坠 **"
+		"chi"		"**内圈伤害（往外退）**"
 	}
 	"-=Back Holy=-"
 	{
-		"chi"		"**外场天坠 **"
+		"chi"		"**外圈伤害（往内侧移动）**"
 	}
 	"<Yellow Crystal Has Been Defeated For Now >"
 	{
@@ -102,6 +103,6 @@
 	}
 	"<Death>"
 	{
-		"chi"		"**死亡转圈圈 **"
+		"chi"		">>>死亡转圈圈~<<<"
 	}
 }

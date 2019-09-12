@@ -279,7 +279,7 @@
 	{
 		"chi"		"** 激活 C4 **"
 	}
-	"***Hold for 20 seconds***"
+	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"** 守住 20 秒 **"
 		"DoorCountdown"		"20"

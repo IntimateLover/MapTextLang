@@ -11,7 +11,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"bridge"
+		"**THE"		"bridge"
 		"will"		"open"
 		"in"		"15"
 		"seconds**"		"
@@ -59,7 +59,7 @@
 	}
 	"
 		"**Fall"		"back!"
-		"The"		"bridge"
+		"the"		"bridge"
 		"open**"		"
 	{
 		"
@@ -111,7 +111,7 @@
 		"15"		"
 	}
 	"
-		"**The"		"doors"
+		"**THE"		"doors"
 		"will"		"open"
 		"in"		"5"
 		"seconds**"		"
@@ -122,7 +122,7 @@
 	}
 	"
 		"**Fall"		"back!"
-		"The"		"doors"
+		"the"		"doors"
 		"ARE"		"open**"
 		"
 	{
@@ -131,7 +131,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"barricade"
+		"**THE"		"barricade"
 		"will"		"explode"
 		"in"		"10"
 		"seconds**"		"
@@ -150,7 +150,7 @@
 		"
 	}
 	"		"**Destroy"
-		"The"		"barricade"
+		"the"		"barricade"
 		"15"		"second**"
 		"
 	{
@@ -198,7 +198,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"palace"
+		"**THE"		"palace"
 		"doors"		"will"
 		"open"		"in"
 		"5"		"seconds**"
@@ -278,7 +278,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"doors"
+		"**THE"		"doors"
 		"will"		"open"
 		"in"		"3"
 		"seconds**"		"
@@ -290,7 +290,7 @@
 	}
 	"		"**The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"10"
 		"seconds**"		"
 	{
@@ -309,7 +309,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"doors"
+		"**THE"		"doors"
 		"will"		"open"
 		"in"		"30"
 		"seconds**"		"
@@ -324,7 +324,7 @@
 	}
 	"		"**The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"30"
 		"seconds**"		"
 	{
@@ -338,7 +338,7 @@
 	}
 	"		"**The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"5"
 		"seconds**"		"
 	{
@@ -372,7 +372,7 @@
 	}
 	"		"**The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"20"
 		"seconds**"		"
 	{
@@ -389,7 +389,7 @@
 	}
 	"		"**The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"25"
 		"seconds**"		"
 	{
@@ -440,7 +440,7 @@
 		"
 	}
 	"		"**Activate"
-		"The"		"ship**"
+		"the"		"ship**"
 		"
 	{
 		"		"chi"
@@ -458,7 +458,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"ship"
+		"**THE"		"ship"
 		"will"		"move"
 		"in"		"15"
 		"seconds**"		"
@@ -498,7 +498,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"bridge"
+		"**THE"		"bridge"
 		"will"		"open"
 		"in"		"25"
 		"seconds**"		"
@@ -557,7 +557,7 @@
 	}
 	"		"*The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"20"
 		"seconds*"		"
 	{
@@ -578,7 +578,7 @@
 	}
 	"		"*The"
 		"droids"		"will"
-		"be"		"killed"
+		"Be"		"killed"
 		"in"		"5"
 		"seconds*"		"
 	{
@@ -720,7 +720,7 @@
 		"**"		"
 	}
 	"
-		"**The"		"wall"
+		"**THE"		"wall"
 		"will"		"explode"
 		"in"		"30"
 		"second**"		"

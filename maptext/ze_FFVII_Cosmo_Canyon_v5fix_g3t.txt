@@ -287,6 +287,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
 	{
@@ -459,7 +460,7 @@
 		"chi"		"**大门15秒后打开**"
 		"DoorCountdown"		"15"
 	}
-	"**The elevator will leave in 15 seconds**"
+	"**THE ELEVATOR WILL LEAVE IN 15 SECONDS**"
 	{
 		"chi"		"**电梯15秒后离开**"
 	}

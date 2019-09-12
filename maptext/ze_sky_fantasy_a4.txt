@@ -35,7 +35,7 @@
 	"<< Creation Shield >>"
 	{
 		"chi"		">>>创世之盾（反伤，停枪）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Flash Cannon >>"
 	{
@@ -52,7 +52,7 @@
 	"<< Ominous Wind >>"
 	{
 		"chi"		">>>妖风（随机方向推力）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Demon Cage >>"
 	{
@@ -73,7 +73,7 @@
 	"<< Sinister Omen >>"
 	{
 		"chi"		">>>不祥之兆（站在外圈）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< Earth Power >>"
 	{
@@ -90,7 +90,7 @@
 	"<< Mirror Coat >>"
 	{
 		"chi"		">>>镜子大衣（反伤，先击破边缘4个水晶）<<<"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"<< This is not the end...... >>"
 	{

@@ -162,4 +162,28 @@
 		"hammerid"		"3554466"
 		"m_iname"		"physboxCube&1297"
 	}
+	"1839"
+	{
+		"enable"		"0"
+		"hammerid"		"1839"
+		"m_iname"		"train1_health"
+	}
+	"732853"
+	{
+		"enable"		"0"
+		"hammerid"		"732853"
+		"m_iname"		"physboxUFOOffset&4276"
+	}
+	"732864"
+	{
+		"enable"		"0"
+		"hammerid"		"732864"
+		"m_iname"		"physboxUFOTarget1&4276"
+	}
+	"732881"
+	{
+		"enable"		"0"
+		"hammerid"		"732881"
+		"m_iname"		"physboxUFOTargetEnd&4276"
+	}
 }

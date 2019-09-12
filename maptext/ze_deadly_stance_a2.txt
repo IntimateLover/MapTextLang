@@ -116,4 +116,16 @@
 	{
 		"chi"		"** **"
 	}
+	">> Insert the card key [ II ] <<"
+	{
+		"chi"		">>>插入钥匙卡II<<<"
+	}
+	">> Insert the card key [ I ] <<"
+	{
+		"chi"		">>>插入钥匙卡I<<<"
+	}
+	">>  Have a bad feeling about... 10 SECONDS <<"
+	{
+		"chi"		">>>10s后有一个痛苦的感觉（僵尸传送）<<<"
+	}
 }

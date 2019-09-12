@@ -210,7 +210,7 @@
 	{
 		"chi"		"**赞美你的爱**"
 	}
-	"defend"
+	"Defend"
 	{
 		"chi"		"**守住**"
 	}
@@ -673,7 +673,7 @@
 		"chi"		"**守住这里60秒**"
 		"DoorCountdown"		"60"
 	}
-	"***30 SECONDS LEFT***"
+	"***30 seconds left***"
 	{
 		"chi"		"**30秒剩余时间**"
 	}

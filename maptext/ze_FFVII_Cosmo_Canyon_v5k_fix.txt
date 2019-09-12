@@ -95,7 +95,7 @@
 	}
 	"**A player has picked up EARTH materia**"
 	{
-		"chi"		"**一位玩家找到了岩石元素**"
+		"chi"		"**一位玩家捡起了土**"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
@@ -104,7 +104,7 @@
 	}
 	"**A player has picked up FIRE materia**"
 	{
-		"chi"		"**一位玩家找到了火焰元素**"
+		"chi"		"**一位玩家捡起了火**"
 	}
 	"**The gates of gi cave will open in 15 seconds**"
 	{
@@ -174,16 +174,18 @@
 	}
 	"**Gi Nattak is using wind**"
 	{
-		"chi"		"**基纳塔克使用了风**"
+		"chi"		"**吉·纳克使用了风想把你推下去（对着平台中心按W）**"
 		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
 		"chi"		"**基纳塔克使用了火焰新星-跑到平台边缘躲避**"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is using aspil**"
 	{
 		"chi"		"**基纳塔克使用了摄魂-蹲下**"
+		"DoorCountdown"		"5"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
@@ -247,7 +249,7 @@
 	}
 	"**Zombie Confuse has been picked up**"
 	{
-		"chi"		"**僵尸迷惑已被拿起**"
+		"chi"		"**僵尸致盲已被捡起**"
 	}
 	"**A player has picked up GRAVITY materia**"
 	{
@@ -483,7 +485,7 @@
 		"chi"		"**大门15秒后打开**"
 		"DoorCountdown"		"15"
 	}
-	"**The elevator will leave in 15 seconds**"
+	"**THE ELEVATOR WILL LEAVE IN 15 SECONDS**"
 	{
 		"chi"		"**电梯15秒后离开**"
 	}
@@ -493,11 +495,11 @@
 	}
 	"**Jenova is defeated!**"
 	{
-		"chi"		"**杰诺瓦已失去战斗力**"
+		"chi"		"**杰诺瓦已被击败**"
 	}
 	"**Shiva is defeated!**"
 	{
-		"chi"		"**希瓦已失去战斗力**"
+		"chi"		"**希瓦已被击败**"
 	}
 	"**Genesis is defeated. Get back in the elevator**"
 	{
@@ -575,7 +577,7 @@
 	}
 	"**Zombie cactus has been picked up**"
 	{
-		"chi"		"**僵尸仙人掌已拿到**"
+		"chi"		"**僵尸仙人掌已被捡起**"
 	}
 	"**1 MINUTES LEFT!**"
 	{
@@ -633,7 +635,7 @@
 	}
 	"**Only 1 blue laser**"
 	{
-		"chi"		"**�����**"
+		"chi"		"**最后一蓝刀**"
 	}
 	"**INSANE MODE**"
 	{
@@ -653,10 +655,15 @@
 	}
 	"**Ifrit is defeated!**"
 	{
-		"chi"		"**隡��拍撌脰◤�餉揖**"
+		"chi"		"**伊芙利特已被击败**"
 	}
 	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
 	{
 		"chi"		"** **"
+	}
+	"**arning：3 blue laser**"
+	{
+		"chi"		"**注意：最后3蓝刀**"
+		"DoorCountdown"		"7"
 	}
 }

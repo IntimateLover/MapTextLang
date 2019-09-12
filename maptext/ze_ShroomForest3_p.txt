@@ -166,6 +166,7 @@
 	"*** Defend until the path is clear ***"
 	{
 		"chi"		"**30秒 守到蜘蛛网清除**"
+		"DoorCountdown"		"-1"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
