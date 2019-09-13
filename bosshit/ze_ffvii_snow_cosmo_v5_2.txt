@@ -218,25 +218,25 @@
 	}
 	"4736702"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"4736702"
 		"m_iname"		"Shinra_Ifrit_Phys"
 	}
 	"4736714"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"4736714"
 		"m_iname"		"Shinra_Shiva_Phys"
 	}
 	"4736736"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"4736736"
 		"m_iname"		"Shinra_Jenova_Phys"
 	}
 	"935432"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"935432"
 		"m_iname"		"Ifrit_Phys"
 	}

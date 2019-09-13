@@ -31,6 +31,7 @@
 	"*** It has 10 uses ***"
 	{
 		"chi"		"**它可以被使用10次**"
+		"DoorCountdown"		"-1"
 	}
 	"*** Player has picked up PushGun ***"
 	{
@@ -55,6 +56,7 @@
 	"*** It has fuel for 10 seconds ***"
 	{
 		"chi"		"**电枪有10秒的燃料，最好用来装逼**"
+		"DoorCountdown"		"-1"
 	}
 	"*** Player has picked up EyeTech Launcher ***"
 	{
@@ -71,6 +73,7 @@
 	"*** Level 3 ***"
 	{
 		"chi"		"**[关卡3] -- 翻译：银月筱瑶**"
+		"DoorCountdown"		"-1"
 	}
 	"*** Player has picked up Flamethrower ***"
 	{
@@ -183,7 +186,7 @@
 		"chi"		"**电梯将会在25秒后离开**"
 		"DoorCountdown"		"25"
 	}
-	"*** Elevator leaves in 15 seconds ***"
+	"*** ELEVATOR LEAVES IN 15 SECONDS ***"
 	{
 		"chi"		"**电梯将会在15秒后离开**"
 	}
@@ -198,6 +201,7 @@
 	"*** Level 2 ***"
 	{
 		"chi"		"**[关卡2] -- 翻译：银月筱瑶**"
+		"DoorCountdown"		"-1"
 	}
 	"*** Doors open in 30 seconds ***"
 	{
@@ -389,7 +393,7 @@
 		"DoorCountdown"		"45"
 		"ico"		"icon_tip"
 	}
-	"*** 20 SECONDS LEFT ***"
+	"*** 20 seconds left ***"
 	{
 		"chi"		"**还剩下20秒**"
 	}
@@ -430,6 +434,7 @@
 	"*** It has 8 uses ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***"
 	{

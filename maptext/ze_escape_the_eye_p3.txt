@@ -55,6 +55,7 @@
 	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
 		"chi"		"**僵尸在17秒后释放 **"
+		"DoorCountdown"		"17"
 	}
 	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
 	{
@@ -70,7 +71,7 @@
 	}
 	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
 	{
-		"chi"		"**门将在30秒后打开(门开后五秒关闭） **"
+		"chi"		"**门将在30秒后打开(门开后五秒关闭)**"
 	}
 	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
 	{
@@ -134,7 +135,7 @@
 	}
 	"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
 	{
-		"chi"		"**光桥在15秒后激活 **"
+		"chi"		"**光桥将在15秒后激活**"
 		"DoorCountdown"		"-1"
 	}
 }
