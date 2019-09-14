@@ -299,12 +299,10 @@
 	"** BARRIER 1 OPENS IN 15 SECS **"
 	{
 		"chi"		"**障碍一号15秒后打开**"
-		"DoorCountdown"		"15"
 	}
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
 		"chi"		"**障碍二号15秒后打开**"
-		"DoorCountdown"		"15"
 	}
 	"** HOLD HERE TILL THE GATE OPENS **"
 	{
@@ -658,12 +656,10 @@
 	"** BARRIER 1 OPENS IN 20 SECS **"
 	{
 		"chi"		"**障碍物一号20秒后移动**"
-		"DoorCountdown"		"20"
 	}
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
 		"chi"		"**障碍物二号20秒后移动**"
-		"DoorCountdown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
 	{
@@ -834,7 +830,7 @@
 	}
 	"** BULLETSNADES DOES 200 . DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
-		"chi"		"**皇帝进入虚弱状态 10秒内手雷和子弹造成双倍伤害**"
+		"chi"		"**皇帝进入虚弱状态 15秒内手雷和子弹造成双倍伤害**"
 	}
 	"58 . STAGGER"
 	{
@@ -955,7 +951,6 @@
 	"** BARRIER 2 OPENS IN 15 SECS **"
 	{
 		"chi"		"**障碍二号15秒后打开**"
-		"DoorCountdown"		"15"
 	}
 	"** Player has learned FIRE -- Level 1 **"
 	{
@@ -1102,7 +1097,6 @@
 	"** BARRIER 2 OPENS IN 20 SECS **"
 	{
 		"chi"		"**障碍物二号20秒后移动**"
-		"DoorCountdown"		"20"
 	}
 	"** Player has learned CURE -- Level 2 **"
 	{
