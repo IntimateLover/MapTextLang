@@ -3,6 +3,7 @@
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
 		"chi"		"** 关卡 1 ：上界 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
@@ -38,7 +39,7 @@
 	{
 		"chi"		"** 还剩 5 秒 **"
 	}
-	"***FALL BACK***"
+	"***Fall back***"
 	{
 		"chi"		"** 撤退 **"
 	}
@@ -76,10 +77,12 @@
 	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
 	{
 		"chi"		"** 人类胜利！进入关卡 2 **（有点本事）"
+		"DoorCountdown"		"-1"
 	}
 	"*** CURRENT STAGE IS 2: The Nether ***"
 	{
 		"chi"		"** 关卡 2 ：下界 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** WALL BREAKS IN 15 SEC ***"
 	{
@@ -152,7 +155,7 @@
 	"*** 20 SECONDS REMAINING ***"
 	{
 		"chi"		"** 剩余 20 秒 **"
-                "DoorCountdown"                "20"
+		"DoorCountdown"		"20"
 	}
 	"*** 10 SECONDS REMAINING ***"
 	{
@@ -187,10 +190,12 @@
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
 		"chi"		"*** 人类胜利！进入关卡 3 ***（牛B牛B）"
+		"DoorCountdown"		"-1"
 	}
 	"*** CURRENT STAGE IS 3: Jungle ***"
 	{
 		"chi"		"** 关卡 3 ：丛林 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
 	{
@@ -199,6 +204,7 @@
 	"*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***"
 	{
 		"chi"		"** 干的漂亮！现在去按下 2 个杠杆来打开下一个门 **（注意防守僵尸）"
+		"DoorCountdown"		"-1"
 	}
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
@@ -267,10 +273,12 @@
 	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
 	{
 		"chi"		"** 人类胜利！进入关卡 4 **（神已经无法阻止你们了！）"
+		"DoorCountdown"		"-1"
 	}
 	"*** CURRENT STAGE IS 4: The End ***"
 	{
 		"chi"		"** 关卡 4 ：末地 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** THROW EYE OF ENDER BY USING IT ***"
 	{
@@ -364,7 +372,7 @@
 	"*** RESIST 30 SECONDS ***"
 	{
 		"chi"		"** 抵抗 30 秒 **"
-                "DoorCountdown"                "30"
+		"DoorCountdown"		"30"
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
@@ -373,7 +381,7 @@
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
 		"chi"		"** 干得漂亮！下一道门将在 5 秒后打开 **"
-                "DoorCountdown"                "5"
+		"DoorCountdown"		"5"
 	}
 	"Hes watching you..."
 	{

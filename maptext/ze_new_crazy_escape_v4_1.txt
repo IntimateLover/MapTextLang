@@ -179,6 +179,7 @@
 	"### DISABLE NO BHOP OR JUMP IN 5 SECONDS ###"
 	{
 		"chi"		"### 5 秒内不允许跳跃 ###"
+		"DoorCountdown"		"-1"
 	}
 	"### TELEPORT INCOMING IN 10 SECONDS ###"
 	{

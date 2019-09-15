@@ -180,7 +180,7 @@
 	}
 	"*** Zombies will rush from any side ***"
 	{
-		"chi"		"**僵尸将会从四面八方过来**"
+		"chi"		"**僵尸将会从东南西北的随机一个方向进攻**"
 	}
 	"*** We must defend until the elevator is ready ***"
 	{

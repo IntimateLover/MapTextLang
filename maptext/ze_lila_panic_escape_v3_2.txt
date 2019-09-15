@@ -18,7 +18,7 @@
 	}
 	"** 5 MORE SECONDS LEFT **"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还剩5秒**"
 	}
 	"** AMMO GUN - 40 sec cooldown **"
 	{
@@ -58,7 +58,7 @@
 	}
 	"** DEFEND 5 MORE SECONDS **"
 	{
-		"chi"		"**还要防御5秒**"
+		"chi"		"**再守5秒**"
 	}
 	"** SECRET NYAN CAT COMPLETED **"
 	{
@@ -89,7 +89,7 @@
 	}
 	"** DEFEND 10 SECONDS **"
 	{
-		"chi"		"**防御10秒**"
+		"chi"		"**防守10秒**"
 	}
 	"** END OF THE LINE !! **"
 	{

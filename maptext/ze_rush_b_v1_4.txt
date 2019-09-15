@@ -10,39 +10,39 @@
 	}
 	"*** 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余10秒**"
 	}
 	"*** TELEPORT IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送**"
 	}
 	"***DOOR BREAKS IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将在15秒后破碎**"
 	}
 	"*** SECURITY SYSTEM SHUTTING DOWN... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防卫系统正在关闭**"
 	}
 	"*** Door opens in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开**"
 	}
 	"*** ZOMBIES TELEPORT IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒好传送**"
 	}
 	"*** WE DONT HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们没有正确的工具来打开安全防护**"
 	}
 	"*** TIME FOR PLAN [B] ***"
 	{
-		"chi"		"** **"
+		"chi"		"**是时候来安放炸弹了**"
 	}
 	"*** PLANT THE [B]OMB! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**炸弹已安放**"
 	}
 	"*** JUST A TRIM ***"
 	{
@@ -50,19 +50,19 @@
 	}
 	"*** [B]OATS START IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**小船将在5秒好离开**"
 	}
 	"*** DODGE THE LASERS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**躲避激光刀**"
 	}
 	"*** OR GO TO JAIL! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**否则进牢笼**"
 	}
 	"*** SOLO WIN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**仅有一名玩家通过!**"
 	}
 	"*** ZOMBIE ITEM SPAWNED! ***"
 	{

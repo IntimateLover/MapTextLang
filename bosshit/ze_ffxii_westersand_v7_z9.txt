@@ -362,7 +362,7 @@
 	}
 	"2101463"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2101463"
 		"m_iname"		"Guard_1_Physbox_Nade"
 	}
