@@ -248,7 +248,7 @@
 	}
 	"** ADMIN SELECTED STAGE 3 **"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关**"
 	}
 	"** STAGE 3: Escape **"
 	{
@@ -288,7 +288,7 @@
 	}
 	"** ADMIN SELECTED STAGE 2 **"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关**"
 	}
 	"** Vortex **"
 	{
@@ -350,15 +350,15 @@
 	}
 	"** Door is opening in 55s **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在55秒后打开**"
 	}
 	"** Nicely done! You got the correct position! **"
 	{
-		"chi"		"** **"
+		"chi"		"**干得漂亮!两把钥匙放置位置正确**"
 	}
 	"** Boss enrage! You are too slow! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你打得太慢了，BOSS很快被彻底激怒**"
 	}
 	"** KILL THE REMAINING ZOMBIES **"
 	{
@@ -366,126 +366,126 @@
 	}
 	"** GO LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**走左边**"
 	}
 	"** WARM UP - 60 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身 - 60秒**"
 	}
 	"** Boss enrage in THREE minutes **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS将在三分钟后狂暴**"
 	}
 	"** Incorrect position! The pit will open SLOWER!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的摆放位置!洞口将会需要更多的时间打开!!**"
 	}
 	"** Pit is opening in 60s **"
 	{
-		"chi"		"** **"
+		"chi"		"**洞口在60秒后打开**"
 	}
 	"** ADMIN SELECTED ZM MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第四关(生存)**"
 	}
 	"** ZM MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM关(生存)**"
 	}
 	"** Do not follow ZE path! Survive until nuke! **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要当成常规的关卡!只要在核爆前生存下来即可**"
 	}
 	"** ADMIN SELECTED STAGE 1 **"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第一关**"
 	}
 	"** Nuke is incoming **"
 	{
-		"chi"		"** **"
+		"chi"		"**核爆来临**"
 	}
 	"** Thanks for playing **"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩**"
 	}
 	"** WARM UP - 50 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身 - 50秒**"
 	}
 	"** WARM UP - 40 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身 - 40秒**"
 	}
 	"** WARM UP - 30 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身 - 30秒**"
 	}
 	"** WARM UP - 20 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身 - 20秒**"
 	}
 	"** WARM UP - 10 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**热身 - 10秒**"
 	}
 	"** Hint: The pit will open faster if you place key items in correct combination **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：如果钥匙持有者站在正确的平台上洞口能更快速地开启**"
 	}
 	"** Nicely done! You got the correct combination! **"
 	{
-		"chi"		"** **"
+		"chi"		"**干得漂亮!两把钥匙放置位置正确**"
 	}
 	"** Landslide - avoid red platform **"
 	{
-		"chi"		"** **"
+		"chi"		"**横扫大地 - 离开红色区域**"
 	}
 	"** Rock is breaking in 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**岩石将在10秒后破碎**"
 	}
 	"** Survive 35s **"
 	{
-		"chi"		"** **"
+		"chi"		"**生存35秒**"
 	}
 	"** Warning: No zombie teleport hint in this level **"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：这关没有僵尸传送**"
 	}
 	"** Door will open soon. Hold a bit! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门马上就打开。再守一下子!**"
 	}
 	"** KEEP DEFENDING! **"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防守!**"
 	}
 	"** Door is open! Fall back!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了!快后退!**"
 	}
 	"** It seems he dropped something... **"
 	{
-		"chi"		"** **"
+		"chi"		"**看起来他扔掉了什么**"
 	}
 	"** A temple creature has been summoned **"
 	{
-		"chi"		"** **"
+		"chi"		"**一个神殿怪物被召唤了出来**"
 	}
 	"** Helicopter is infected **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸登上飞机**"
 	}
 	"** ROUND FAIL **"
 	{
-		"chi"		"** **"
+		"chi"		"**回合失败**"
 	}
 	"** Incorrect combination! The pit will open SLOWER!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的摆放位置!洞口将会需要更多的时间打开!!**"
 	}
 	"** We are finally leaving this place! YOU WON THE MAP!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们成功地逃离了这个地方!恭喜你通关了本地图**"
 	}
 }
