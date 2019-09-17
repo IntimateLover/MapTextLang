@@ -488,4 +488,58 @@
 	{
 		"chi"		"**我们成功地逃离了这个地方!恭喜你通关了本地图**"
 	}
+	"** Temple door is opening soon **"
+	{
+		"DoorCountDown"		"10"
+	}
+	"** You must defend until the door opens **"
+	{
+		"DoorCountDown"		"20"
+	}
+	"** Fixing the door. Keep defending! **"
+	{
+		"DoorCountDown"		"20"
+	}
+	"** The door will open soon **"
+	{
+		"DoorCountDown"		"25"
+	}
+	"** Swallow **"
+	{
+		"chi"		"**吞噬（按住S）**"
+		"DoorCountDown"		"3"
+	}
+	"** Force **"
+	{
+		"chi"		"**力量（按住W）**"
+		"DoorCountDown"		"3"
+	}
+	"** STAGE 1: Underground **"
+	{
+		"chi"		"** **"
+	}
+	"** Ricochet - jump **"
+	{
+		"chi"		"** **"
+	}
+	"** Kill all weakened zombies **"
+	{
+		"chi"		"** **"
+	}
+	"** STAGE 2: Investigation **"
+	{
+		"chi"		"** **"
+	}
+	"** Pit is opening in 20s **"
+	{
+		"chi"		"** **"
+	}
+	"** Servant - defend zombies from now **"
+	{
+		"chi"		"** **"
+	}
+	"** Find another key item!! **"
+	{
+		"chi"		"** **"
+	}
 }

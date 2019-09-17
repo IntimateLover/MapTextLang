@@ -23,13 +23,13 @@
 	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
 		"chi"		"**30秒后开门**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***THE GATE IS OPENING***"
 	{
 		"chi"		"**门开辣!**"
 	}
-	"***FALL BACK***"
+	"***Fall back***"
 	{
 		"chi"		"**撤退!**"
 	}
@@ -44,7 +44,7 @@
 	"***THE GATE WILL OPEN IN 60 SECONDS***"
 	{
 		"chi"		"**60秒后开门**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
 	{
@@ -180,32 +180,32 @@
 	}
 	"***THE FIRST LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个开关已经按下**"
 	}
 	"***THE SECOND LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个开关已经按下**"
 	}
 	"***ONE MORE TO GO...***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩一个开关**"
 	}
 	"***ALL LEVERS HAVE BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有开关已经全部按下**"
 	}
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"30"
+		"chi"		"**大门将在30秒后打开**"
+		"DoorCountdown"		"30"
 	}
 	"***THE GATES ARE OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门正在打开**"
 	}
 	"***ITS COMING***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心!冰龙来了**"
 	}
 	"MapGlobal_ConVars"
 	{
