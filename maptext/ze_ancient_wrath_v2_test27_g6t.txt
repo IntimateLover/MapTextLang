@@ -208,4 +208,12 @@
 	{
 		"chi"		"** **"
 	}
+	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	{
+		"chi"		"** **"
+	}
+	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	{
+		"chi"		"** **"
+	}
 }
