@@ -72,4 +72,10 @@
 		"hammerid"		"478614"
 		"m_iname"		"boss1_grenadehurt&7130"
 	}
+	"1402132"
+	{
+		"enable"		"0"
+		"hammerid"		"1402132"
+		"m_iname"		"ShooterBody&0690"
+	}
 }

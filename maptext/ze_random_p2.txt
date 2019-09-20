@@ -66,7 +66,7 @@
 	"***Zombie barrier breaking in 20secs get moving!***"
 	{
 		"chi"		"**僵尸将在 20 秒后突破铁门！**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
 	{
@@ -79,6 +79,7 @@
 	"***Hurry under! Zombie block planks breaking in 15secs!***"
 	{
 		"chi"		"**阻拦僵尸的路障将于 15 秒后放下！**"
+		"DoorCountdown"		"-1"
 	}
 	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
 	{
@@ -156,7 +157,7 @@
 	"***Emergency doors closing in 10secs!***"
 	{
 		"chi"		"**应急出口的门将在 10 秒后关闭！**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"***Boxcar door opening in 10secs!***"
 	{
@@ -293,7 +294,7 @@
 	"***Valves unlocked in 35secs!***"
 	{
 		"chi"		"**水阀将在 35 秒后解锁！**"
-		"DoorCountdown"		"35"
+		"DoorCountdown"		"0"
 	}
 	"***Shoot the Block!***"
 	{
