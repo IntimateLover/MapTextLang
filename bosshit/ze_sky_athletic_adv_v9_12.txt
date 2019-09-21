@@ -760,4 +760,10 @@
 		"hammerid"		"653827"
 		"m_iname"		"kbc_zombie_summoningkey_target3"
 	}
+	"785931"
+	{
+		"enable"		"0"
+		"hammerid"		"785931"
+		"m_iname"		"final_crasher_after_phys_break"
+	}
 }

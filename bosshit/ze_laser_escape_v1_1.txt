@@ -174,4 +174,16 @@
 		"hammerid"		"7822"
 		"m_iname"		"ent_break"
 	}
+	"14461"
+	{
+		"enable"		"0"
+		"hammerid"		"14461"
+		"m_iname"		"mi_door_break"
+	}
+	"41756"
+	{
+		"enable"		"0"
+		"hammerid"		"41756"
+		"m_iname"		"insane_laser_break"
+	}
 }
