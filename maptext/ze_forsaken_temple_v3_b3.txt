@@ -288,7 +288,7 @@
 	}
 	"** ADMIN SELECTED STAGE 2 **"
 	{
-		"chi"		"**管理员选择了第三关**"
+		"chi"		"**管理员选择了第二关**"
 	}
 	"** Vortex **"
 	{
@@ -490,18 +490,22 @@
 	}
 	"** Temple door is opening soon **"
 	{
+	        "chi"		"**庙门很快就会打开**"
 		"DoorCountDown"		"10"
 	}
 	"** You must defend until the door opens **"
 	{
+	        "chi"		"**坚守至大门打开**"
 		"DoorCountDown"		"20"
 	}
 	"** Fixing the door. Keep defending! **"
 	{
+	        "chi"		"**修复大门中，继续防守**"
 		"DoorCountDown"		"20"
 	}
 	"** The door will open soon **"
 	{
+		"chi"		"**门很快就会打开**"
 		"DoorCountDown"		"25"
 	}
 	"** Swallow **"
@@ -516,30 +520,31 @@
 	}
 	"** STAGE 1: Underground **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关：地底探险**"
 	}
 	"** Ricochet - jump **"
 	{
-		"chi"		"** **"
+		"chi"		"**奴 - 跳！！**"
+		"DoorCountDown"		"3"
 	}
 	"** Kill all weakened zombies **"
 	{
-		"chi"		"** **"
+		"chi"		"**现在开始僵尸残血，快去刷分吧**"
 	}
 	"** STAGE 2: Investigation **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关：详细调查**"
 	}
 	"** Pit is opening in 20s **"
 	{
-		"chi"		"** **"
+		"chi"		"**洞将在20秒后打开**"
 	}
 	"** Servant - defend zombies from now **"
 	{
-		"chi"		"** **"
+		"chi"		"**奴 - 尸笼从现在一直开启，防守僵尸**"
 	}
 	"** Find another key item!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快去寻找另一个钥匙 **"
 	}
 }
