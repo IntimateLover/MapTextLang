@@ -15,7 +15,7 @@
 	"[Door] 15 seconds [Open]"
 	{
 		"chi"		"**[大门]15秒[打开] **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"[Item] DarkKnight has been picked up"
 	{
@@ -23,22 +23,22 @@
 	}
 	"[Item] Ninja has been picked up"
 	{
-		"chi"		"**[物品]忍者已准备战斗 **"
+		"chi"		"**[物品]忍者已准备战斗--小风(DDWWAA)--小流沙(AADDWW)--搓好技能后右键释放**"
 	}
 	"[Door] 10 seconds [Open]"
 	{
 		"chi"		"**[大门]10秒[打开] **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"[Door] 20 seconds [Open]"
 	{
 		"chi"		"**[大门]20秒[打开] **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"[Door] 25 seconds [Open]"
 	{
 		"chi"		"**[大门]25秒[打开] **"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"0"
 	}
 	"[Message] Next room has Upper side and Lower side."
 	{
@@ -83,7 +83,7 @@
 	"[Door] 15 seconds [Close]"
 	{
 		"chi"		"**[大门]15秒[关闭]**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"[Message] Good Job!"
 	{
@@ -92,7 +92,7 @@
 	"[Door] 18 seconds [Open]"
 	{
 		"chi"		"**[大门]18秒[打开]**"
-		"DoorCountDown"		"18"
+		"DoorCountdown"		"0"
 	}
 	"[Message] AFK players teleported to side floor."
 	{
@@ -101,6 +101,7 @@
 	"[Object] Press 5 Buttons."
 	{
 		"chi"		"**[目标]按下5个按钮**"
+		"DoorCountdown"		"-1"
 	}
 	"[Object] The gates will close When you press button."
 	{
@@ -125,6 +126,6 @@
 	"[Upper Door] 20 seconds [Open]"
 	{
 		"chi"		"**[上面的门]20秒[打开]**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"0"
 	}
 }
