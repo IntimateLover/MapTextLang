@@ -200,7 +200,7 @@
 	}
 	"** Ricochet **"
 	{
-		"chi"		"**冲撞 - 硬抗**"
+		"chi"		"**冲撞 - 硬抗或者看准攻击提前跳跃躲避伤害**"
 		"DoorCountDown"		"3"
 	}
 	"** Vampire - stop shooting **"
@@ -524,7 +524,7 @@
 	}
 	"** Ricochet - jump **"
 	{
-		"chi"		"**奴 - 跳！！**"
+		"chi"		"**冲撞 - 硬抗或者看准攻击提前跳跃躲避伤害！！**"
 		"DoorCountDown"		"3"
 	}
 	"** Kill all weakened zombies **"
