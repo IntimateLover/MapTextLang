@@ -10,7 +10,7 @@
 	}
 	"###  TELEPORT IN 1 MINUTE###"
 	{
-		"chi"		"**六十秒后传送**"
+		"chi"		"**60秒后传送**"
 	}
 	"###  TELEPORT IN 1 MINUTE###"
 	{
@@ -22,7 +22,7 @@
 	}
 	"###  TELEPORT IN 1 MINUTE ###"
 	{
-		"chi"		"**60秒后传送 **"
+		"chi"		"**六十秒后传送**"
 	}
 	"<<PLAYER HAS PICKED UP  SHIELD  OF ICE>>"
 	{

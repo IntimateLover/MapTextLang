@@ -264,4 +264,8 @@
 		"hammerid"		"2459854"
 		"m_iname"		"blockWall2"
 	}
+	"2160036"
+	{
+		"enable"		"1"
+	}
 }

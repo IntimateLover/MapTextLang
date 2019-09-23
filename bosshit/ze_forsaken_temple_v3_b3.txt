@@ -288,4 +288,34 @@
 		"hammerid"		"756121"
 		"m_iname"		"boss2_floor_enter"
 	}
+	"1125579"
+	{
+		"enable"		"1"
+		"hammerid"		"1125579"
+		"m_iname"		"boss3_barrier"
+	}
+	"1155457"
+	{
+		"enable"		"1"
+		"hammerid"		"1155457"
+		"m_iname"		"boss6_hitbox"
+	}
+	"1162965"
+	{
+		"enable"		"1"
+		"hammerid"		"1162965"
+		"m_iname"		"boss6_barrier"
+	}
+	"1162201"
+	{
+		"enable"		"0"
+		"hammerid"		"1162201"
+		"m_iname"		"stage3_retreat_lava"
+	}
+	"1108917"
+	{
+		"enable"		"1"
+		"hammerid"		"1108917"
+		"m_iname"		"boss3_attack_vampire"
+	}
 }
