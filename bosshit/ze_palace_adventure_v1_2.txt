@@ -72,4 +72,10 @@
 		"hammerid"		"490343"
 		"m_iname"		"l2_boss_skill5_phy&1795"
 	}
+	"505358"
+	{
+		"enable"		"1"
+		"hammerid"		"505358"
+		"m_iname"		"l2_boss_skill7_hitbox"
+	}
 }
