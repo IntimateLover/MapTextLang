@@ -51,6 +51,7 @@
 	"<< zombie teleport in 5 seconds >>"
 	{
 		"chi"		"**僵尸将会在5秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	"<< hold for 30 seconds >>"
 	{
@@ -112,6 +113,7 @@
 	"<< zombie will arrive in 5 seconds >>"
 	{
 		"chi"		"**僵尸将会在5秒后到达**"
+		"DoorCountdown"		"-1"
 	}
 	"<< who permit you to press the button? >>"
 	{

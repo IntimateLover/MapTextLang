@@ -242,7 +242,7 @@
 	}
 	"935451"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"935451"
 		"m_iname"		"Ifrit_Phys_Body"
 	}
