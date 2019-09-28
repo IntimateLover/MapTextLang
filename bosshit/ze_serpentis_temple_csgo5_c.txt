@@ -174,4 +174,16 @@
 		"hammerid"		"3326005"
 		"m_iname"		"room2_anti_glitch"
 	}
+	"3104888"
+	{
+		"enable"		"0"
+		"hammerid"		"3104888"
+		"m_iname"		"Spawn_Break"
+	}
+	"3643314"
+	{
+		"enable"		"0"
+		"hammerid"		"3643314"
+		"m_iname"		"Serphibrido_Move_Physbox"
+	}
 }
