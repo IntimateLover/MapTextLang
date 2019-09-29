@@ -1,0 +1,57 @@
+"Console_T"
+{
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"DoorCountdown"		"-1"
+	}
+	">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
+	{
+		"chi"		">>>闪电漩涡激活了！站在什么东西的上面！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
+	{
+		"chi"		">>>闪电龙卷风激活了！蹲下！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> REPAIR SHIELD ENABLED   DONT SHOOT <<<"
+	{
+		"chi"		">>>修理护盾激活！停止射击！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
+	{
+		"chi"		">>>闪电黑洞激活！藏在什么东西的后面！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> FIND C4 TO MAKE PASSAGE <<<"
+	{
+		"chi"		">>>快去找C4!<<<"
+	}
+	">>> C4 EXPLODE IN 10 SECONDS <<<"
+	{
+		"chi"		">>>C4在10秒后爆炸，小心被炸死！<<<"
+	}
+	">>> BOSS USED BEAM <<<"
+	{
+		"chi"		">>>boss使用了激光<<<"
+	}
+	">>> BOSS USED REPAIR SHIELD <<<"
+	{
+		"chi"		">>>boss使用了修复护盾，停枪！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> BOSS USED GRAVITY <<<"
+	{
+		"chi"		">>>boss使用了黑洞！快远离boss!<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> BOSS USED HEAL <<<"
+	{
+		"chi"		">>>boss使用了治疗！<<<"
+	}
+	">>> BOSS USED CLIFF <<<"
+	{
+		"chi"		">>>boss使用了冰之壁<<<"
+	}
+}
