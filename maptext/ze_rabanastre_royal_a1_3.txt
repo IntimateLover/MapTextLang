@@ -23,11 +23,11 @@
 	"< ZE_RABANASTRE_ROYAL >"
 	{
 		"chi"		"**最终幻想12：拉巴纳斯塔王都 **"
+		"DoorCountdown"		"-1"
 	}
 	"< The path will clear in 30 seconds >"
 	{
 		"chi"		"**这条路径将在30秒后被清理出来 **"
-		"DoorCountdown"		"30"
 	}
 	"< A player has acquired Aqua Magick >"
 	{
@@ -40,7 +40,6 @@
 	"< 5 seconds >"
 	{
 		"chi"		"**还剩5秒 **"
-		"DoorCountdown"		"5"
 	}
 	"< A player has acquired Wind Magick >"
 	{
@@ -49,7 +48,6 @@
 	"< The path will clear in 20 seconds >"
 	{
 		"chi"		"**这条路径将在20秒后被清理出来 **"
-		"DoorCountdown"		"20"
 	}
 	"< Zombie Chocobo has been picked up >"
 	{
@@ -62,12 +60,10 @@
 	"< The gate will open in 30 seconds >"
 	{
 		"chi"		"**大门将在30秒后打开 **"
-		"DoorCountdown"		"30"
 	}
 	"< The Aerodrome metal gate will open in 20 seconds >"
 	{
 		"chi"		"**飞空艇机场大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
 	}
 	"< SandMoster has casted Quicksand >"
 	{
@@ -88,7 +84,6 @@
 	"< The gate will open in 20 seconds >"
 	{
 		"chi"		"**大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
 	}
 	"< You have defeated Extreme mode!Congratulations! >"
 	{
@@ -131,11 +126,11 @@
 	"< SandMonster has casted Heal >"
 	{
 		"chi"		"**沙怪使用了治疗(回复300血) **"
+		"DoorCountdown"		"-1"
 	}
 	"< The Airship will leave in 10 seconds.Hurry up! >"
 	{
 		"chi"		"**飞空艇10秒后离开， 赶快点！ **"
-                "DoorCountdown"		"10"
 	}
 	"< The Aerodrome last gate will open in 40 seconds >"
 	{
@@ -158,12 +153,10 @@
 	"< The arena will open in 40 seconds >"
 	{
 		"chi"		"**竞技场将在40秒后开放 **"
-		"DoorCountdown"		"40"
 	}
 	"< Zeromus want casted Bleed to kill us,we must defeated it in 15 seconds >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯想要消灭我们，我们必须在15秒内打败它 **"
-		"DoorCountdown"		"15"
 	}
 	"< Zeromus has casted Shock >"
 	{
@@ -180,7 +173,6 @@
 	"< The fight with Zeromes will begin in 10 seconds >"
 	{
 		"chi"		"**与巨蟹座：断罪之暴君扎罗姆斯的战斗将在10秒后开始 **"
-                "DoorCountdown"		"10"
 	}
 	"< A player has acquired Doom Magick >"
 	{
@@ -193,7 +185,6 @@
 	"< Moogling will teleport humans in 8 seconds >"
 	{
 		"chi"		"**莫古将要在8秒后传送人类，kupo~ **"
-		"DoorCountdown"		"8"
 	}
 	"< Welcome to the Moogling,kupo~ >"
 	{
@@ -243,7 +234,6 @@
 	"< The Lowtown gate will open in 15 seconds >"
 	{
 		"chi"		"**拉巴纳斯塔王都地下区的大门将在15秒后打开 **"
-                "DoorCountdown"		"15"
 	}
 	"sync_version"
 	{
