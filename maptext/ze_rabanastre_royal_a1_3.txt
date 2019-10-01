@@ -143,7 +143,6 @@
 	"< ZM Crystall teleport will enable in 10 seconds >"
 	{
 		"chi"		"**僵尸水晶传送将在10秒内启用 **"
-		"DoorCountdown"		"10"
 	}
 	"< Defend!We almost leave the Lowtown soon! >"
 	{
