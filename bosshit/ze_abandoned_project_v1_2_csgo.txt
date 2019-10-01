@@ -312,4 +312,16 @@
 		"hammerid"		"697118"
 		"m_iname"		"hardbarricada1"
 	}
+	"561826"
+	{
+		"enable"		"0"
+		"hammerid"		"561826"
+		"m_iname"		"1torreta_colision"
+	}
+	"562024"
+	{
+		"enable"		"0"
+		"hammerid"		"562024"
+		"m_iname"		"1torreta_colision_gravedad"
+	}
 }

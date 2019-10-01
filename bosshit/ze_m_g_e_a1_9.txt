@@ -324,4 +324,10 @@
 		"hammerid"		"121937"
 		"m_iname"		"stage2_game_button"
 	}
+	"82991"
+	{
+		"enable"		"0"
+		"hammerid"		"82991"
+		"m_iname"		"stage_1_wall_3_pink"
+	}
 }

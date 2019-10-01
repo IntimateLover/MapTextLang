@@ -8,7 +8,7 @@
 	}
 	"270259"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"270259"
 		"m_iname"		"radiation_target"
 	}
