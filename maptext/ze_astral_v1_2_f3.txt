@@ -68,4 +68,33 @@
 	{
 		"chi"		"**反重力电梯将在15秒后启动**"
 	}
+	"** Get in elevator ! 5 SECONDS  **"
+	{
+		"chi"		"**最后5秒，快上电梯!**"
+	}
+	"** Look up !  **"
+	{
+		"chi"		"**小心头上!**"
+		"DoorCountdown"		"4"
+	}
+	"** NEXT FLOOR **"
+	{
+		"chi"		"**下一层**"
+	}
+	"** Watch out TP ! 10 SECONDS **"
+	{
+		"chi"		"**注意!僵尸将在10秒后传送**"
+	}
+	"** Watch out TP ! 5 SECONDS **"
+	{
+		"chi"		"**注意!僵尸将在5秒后传送**"
+	}
+	"** The stairs come down 30 SECONDS **"
+	{
+		"chi"		"**楼梯将在30秒后下来**"
+	}
+	"** The stairs come down 10 SECONDS **"
+	{
+		"chi"		"**楼梯将在10秒后下来**"
+	}
 }
