@@ -68,16 +68,19 @@
 	"< SandMoster has casted Quicksand >"
 	{
 		"chi"		"**沙怪使用了流沙(注意脚底躲避伤害) **"
+		"DoorCountdown"		"3"
 	}
-	"< SandMoster has casted Sandstorm >"
+	"< SandMonster has casted Sandstorm >"
 	{
-		"chi"		"**沙怪使用了沙尘暴 **"
+		"chi"		"**沙怪使用了沙尘暴(跳起来减少伤害) **"
+		"DoorCountdown"		"5"
 	}
-	"< SandMoster has casted Wind >"
+	"< SandMonster has casted Wind >"
 	{
 		"chi"		"**沙怪使用了狂风(按住W抵抗) **"
+		"DoorCountdown"		"6"
 	}
-	"< SandMoster has been defeated,get back to Rabanastre >"
+	"< SandMonster has been defeated,get back to Rabanastre >"
 	{
 		"chi"		"**沙怪被打败了，返回拉巴纳斯塔王都 **"
 	}
@@ -102,13 +105,14 @@
 	{
 		"chi"		"**一名玩家拾取了雷电魔法 **"
 	}
-	"< SandMoster has casted Shock >"
+	"< SandMonster has casted Shock >"
 	{
 		"chi"		"**沙怪使用了震动(注意前方躲避伤害) **"
 	}
-	"< SandMoster has casted Gravity >"
+	"< SandMonster has casted Gravity >"
 	{
 		"chi"		"**沙怪使用了黑洞(按住S抵抗) **"
+		"DoorCountdown"		"5"
 	}
 	"< You have defeated Hard mode!Congratulations! >"
 	{
@@ -155,11 +159,11 @@
 	}
 	"< Zeromus want casted Bleed to kill us,we must defeated it in 15 seconds >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯想要消灭我们，我们必须在15秒内打败它 **"
+		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯想要逐渐消灭我们，我们必须在15秒内打败它 **"
 	}
 	"< Zeromus has casted Shock >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了震动 **"
+		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了震动(离开中间区域) **"
 	}
 	"< Zeromus has casted Fire >"
 	{
@@ -173,7 +177,7 @@
 	{
 		"chi"		"**与巨蟹座：断罪之暴君扎罗姆斯的战斗将在10秒后开始 **"
 	}
-	"< A player has acquired Doom Magick >"
+	"< A zombie has acquired Doom Magick >"
 	{
 		"chi"		"**一名玩家拾取了死亡宣告魔法 **"
 	}
@@ -192,14 +196,16 @@
 	"< Zeromus has casted Aero >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了狂风(朝中间按W抵抗) **"
+		"DoorCountdown"		"7"
 	}
 	"< Zeromus has been defeated...Let's get out of the arena >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯被击败了...让我们离开竞技场 **"
+		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯被击败了...让我们赶快离开竞技场吧 **"
 	}
 	"< Zeromus has casted Posionrain >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了剧毒(全场伤害) **"
+		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了剧毒(跳起来减少伤害) **"
+		"DoorCountdown"		"6"
 	}
 	"< Zeromus has casted DarkPower!Go to the sunshine in the middle of the arena >"
 	{
@@ -218,17 +224,18 @@
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯保护了他自己(别开枪！！！) **"
 		"DoorCountdown"		"6"
 	}
-	"< Zeroms has casted Reverse >"
+	"< Zeromus has casted Reverse >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了逆转(别开治疗！！！) **"
 	}
 	"< Zeromus has casted Thunder >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了雷电(注意脚底) **"
+		"DoorCountdown"		"4"
 	}
 	"< Zeromus has casted Ice >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了寒冰 **"
+		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了寒冰(定身10秒,平台最外圈躲避) **"
 	}
 	"< The Lowtown gate will open in 15 seconds >"
 	{
