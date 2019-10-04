@@ -48,7 +48,7 @@
 	{
 		"chi"		"**点歌机已被拿起**"
 	}
-	"** DEFEND 20 SECONDS **"
+	"** Defend 20 SECONDS **"
 	{
 		"chi"		"**防御20秒**"
 	}
@@ -87,7 +87,7 @@
 	{
 		"chi"		"**...然后等待救援.**"
 	}
-	"** DEFEND 10 SECONDS **"
+	"** Defend 10 SECONDS **"
 	{
 		"chi"		"**防守10秒**"
 	}

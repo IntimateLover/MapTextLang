@@ -16,6 +16,7 @@
 	"**NORMAL MODE**"
 	{
 		"chi"		"**普通模式**"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
 	{
@@ -24,7 +25,7 @@
 	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
 	{
 		"chi"		"**[赤红13]不要担心.我知道这个地方.我就是在这里出生的..**"
-	        "DoorCountdown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
 	{
@@ -72,7 +73,7 @@
 	{
 		"chi"		"**在僵尸将我们变为他们的同类前防守25秒-我来为你们打开酒馆后门**"
 	}
-	"**5 SECONDS LEFT**"
+	"**5 seconds left**"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -88,7 +89,7 @@
 	{
 		"chi"		"**岩石将在25秒后爆破**"
 	}
-	"**The gates will open in 25 seconds**"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
 	}
@@ -398,7 +399,7 @@
 	{
 		"chi"		"**飞船来了**"
 	}
-	"**The gates will open in 30 seconds**"
+	"**THE GATES WILL OPEN IN 30 SECONDS**"
 	{
 		"chi"		"**神罗大门将在30秒后打开**"
 	}
@@ -422,11 +423,11 @@
 	{
 		"chi"		"**神罗基地大门25秒后打开**"
 	}
-	"**The gates will open in 15 seconds**"
+	"**THE GATES WILL OPEN IN 15 SECONDS**"
 	{
 		"chi"		"**大门15秒后打开**"
 	}
-	"**The elevator will leave in 15 seconds**"
+	"**THE ELEVATOR WILL LEAVE IN 15 SECONDS**"
 	{
 		"chi"		"**电梯15秒后离开**"
 	}
@@ -510,7 +511,7 @@
 	{
 		"chi"		"**还剩30秒**"
 	}
-	"**15 SECONDS LEFT!**"
+	"**15 seconds left!**"
 	{
 		"chi"		"**还剩15秒**"
 	}

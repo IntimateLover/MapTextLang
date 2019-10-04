@@ -143,7 +143,7 @@
 	{
 		"chi"		"**5秒 **"
 	}
-	"** DEFEND 20 SECONDS **"
+	"** Defend 20 SECONDS **"
 	{
 		"chi"		"**保护20秒 **"
 		"DoorCountdown"		"20"

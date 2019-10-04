@@ -3,9 +3,79 @@
 	"1566507"
 	{
 		"enable"		"1"
+		"hammerid"		"1566507"
+		"m_iname"		"bosslvl1_4_hit"
 	}
 	"1395732"
 	{
 		"enable"		"1"
+		"hammerid"		"1395732"
+		"m_iname"		"bosslvl3_hit"
+	}
+	"1318113"
+	{
+		"enable"		"0"
+		"hammerid"		"1318113"
+		"m_iname"		"door46_4"
+	}
+	"1318117"
+	{
+		"enable"		"0"
+		"hammerid"		"1318117"
+		"m_iname"		"door46_4"
+	}
+	"1319225"
+	{
+		"enable"		"0"
+		"hammerid"		"1319225"
+		"m_iname"		"door46_4"
+	}
+	"1407030"
+	{
+		"enable"		"0"
+		"hammerid"		"1407030"
+		"m_iname"		"door53_4"
+	}
+	"2141505"
+	{
+		"enable"		"0"
+		"hammerid"		"2141505"
+		"m_iname"		"lvl3_end_glass"
+	}
+	"2519989"
+	{
+		"enable"		"0"
+		"hammerid"		"2519989"
+		"m_iname"		"stage"
+	}
+	"2522813"
+	{
+		"enable"		"0"
+		"hammerid"		"2522813"
+		"m_iname"		"stage_"
+	}
+	"792730"
+	{
+		"enable"		"0"
+		"hammerid"		"792730"
+		"m_iname"		"door15_3"
+	}
+	"1172247"
+	{
+		"enable"		"0"
+		"hammerid"		"1172247"
+		"m_iname"		"door22_2"
+	}
+	"1186975"
+	{
+		"enable"		"0"
+		"hammerid"		"1186975"
+		"m_iname"		"door7_3"
+	}
+	"1567038"
+	{
+		"enable"		"1"
+		"hammerid"		"1567038"
+		"m_iname"		"bosslvl1_4_phy"
 	}
 }

@@ -303,6 +303,7 @@
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
 		"chi"		"**障碍二号15秒后打开**"
+		"DoorCountdown"		"15"
 	}
 	"** HOLD HERE TILL THE GATE OPENS **"
 	{
@@ -660,6 +661,7 @@
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
 		"chi"		"**障碍物二号20秒后移动**"
+		"DoorCountdown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
 	{
