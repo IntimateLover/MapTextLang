@@ -44,6 +44,7 @@
 	"**Defend here until paper block will brake **"
 	{
 		"chi"		"**守住这里直到纸块碎掉**"
+		"DoorCountdown"		"25"
 	}
 	"**Defend here until paper wall destory **"
 	{
@@ -81,7 +82,7 @@
 	}
 	"**Teleport will enable in 20 seconds**"
 	{
-		"chi"		"**传送将在20秒内启动**"
+		"chi"		"**传送将在15秒内启动**"
 	}
 	"**Paper wall will desotry in 15 seconds**"
 	{
@@ -155,6 +156,7 @@
 	"**MLG Duck ate Doritos and regenerated 350 hp**"
 	{
 		"chi"		"**MLG鸭子吃下了士力架，恢复了350的血量!**"
+		"DoorCountdown"		"-1"
 	}
 	"**MLG duck is using Mountain Dew Push*"
 	{
@@ -166,7 +168,7 @@
 	}
 	"**Boss fight for 10 seconds**"
 	{
-		"chi"		"**BOSS将在10秒内进入战斗**"
+		"chi"		"**10秒后开启BOSS战**"
 	}
 	"**MLG Duck has been defeted**"
 	{
@@ -247,6 +249,7 @@
 	"**F12 Wand has been picked!**"
 	{
 		"chi"		"**F12拐杖已被拾取!**"
+		"DoorCountdown"		"-1"
 	}
 	"**You have been caught by the Meme Police!**"
 	{
@@ -372,6 +375,7 @@
 	"** MG42 has been picked up**"
 	{
 		"chi"		"**MG42已被拾取!**"
+		"DoorCountdown"		"-1"
 	}
 	"** Thunder gun has been picked up**"
 	{
@@ -380,6 +384,7 @@
 	"**It only has three use**"
 	{
 		"chi"		"**它只能用3次**"
+		"DoorCountdown"		"-1"
 	}
 	"** Doritos has been picked up**"
 	{
@@ -397,13 +402,14 @@
 	"**It only has ten use**"
 	{
 		"chi"		"**它只能用10次**"
+		"DoorCountdown"		"-1"
 	}
 	"**A path has appeared!**Fall back**"
 	{
-		"chi"		"**一条路出现了！跑过去！**"
+		"chi"		"**一条路出现了！跑过去**"
 	}
 	"**FALL BACK**"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退**"
 	}
 }
