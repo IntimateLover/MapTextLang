@@ -43,6 +43,7 @@
 	"** Chicken nugget production interrupted! Emergency elevator leaving soon! **"
 	{
 		"chi"		"**wtf?鸡停止了产生！！紧急电梯马上就要离开了！！**"
+		"DoorCountdown"		"15"
 	}
 	"** The chicken has stepped on the energetic relay! HOLD! **"
 	{

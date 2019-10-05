@@ -120,7 +120,7 @@
 	"Well have to enter the boiler. Resist!"
 	{
 		"chi"		"**我们必须进入锅炉，防守！**"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"20"
 	}
 	"We can enter through that hole! Fall back!"
 	{

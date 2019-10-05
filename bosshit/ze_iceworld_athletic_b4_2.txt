@@ -792,4 +792,46 @@
 		"hammerid"		"26702"
 		"m_iname"		"FF_choose_break6"
 	}
+	"1082"
+	{
+		"enable"		"0"
+		"hammerid"		"1082"
+		"m_iname"		"bt_break"
+	}
+	"1085"
+	{
+		"enable"		"0"
+		"hammerid"		"1085"
+		"m_iname"		"defense_break"
+	}
+	"1088"
+	{
+		"enable"		"0"
+		"hammerid"		"1088"
+		"m_iname"		"frog_break"
+	}
+	"1073"
+	{
+		"enable"		"0"
+		"hammerid"		"1073"
+		"m_iname"		"dr_break"
+	}
+	"1076"
+	{
+		"enable"		"0"
+		"hammerid"		"1076"
+		"m_iname"		"solo_break"
+	}
+	"1079"
+	{
+		"enable"		"0"
+		"hammerid"		"1079"
+		"m_iname"		"team_break"
+	}
+	"18240"
+	{
+		"enable"		"0"
+		"hammerid"		"18240"
+		"m_iname"		"FF_break0"
+	}
 }
