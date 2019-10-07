@@ -78,4 +78,52 @@
 		"hammerid"		"1567038"
 		"m_iname"		"bosslvl1_4_phy"
 	}
+	"2976521"
+	{
+		"enable"		"0"
+		"hammerid"		"2976521"
+		"m_iname"		"lift1_12"
+	}
+	"2421048"
+	{
+		"enable"		"0"
+		"hammerid"		"2421048"
+		"m_iname"		"lift1_12"
+	}
+	"1189292"
+	{
+		"enable"		"0"
+		"hammerid"		"1189292"
+		"m_iname"		"door25_4"
+	}
+	"1263936"
+	{
+		"enable"		"0"
+		"hammerid"		"1263936"
+		"m_iname"		"door33_2"
+	}
+	"1715128"
+	{
+		"enable"		"1"
+		"hammerid"		"1715128"
+		"m_iname"		"bosslvl2_5_hit"
+	}
+	"1716109"
+	{
+		"enable"		"1"
+		"hammerid"		"1716109"
+		"m_iname"		"bosslvl2_5_phy"
+	}
+	"1788988"
+	{
+		"enable"		"1"
+		"hammerid"		"1788988"
+		"m_iname"		"bosslvl2_5_wall"
+	}
+	"1788992"
+	{
+		"enable"		"1"
+		"hammerid"		"1788992"
+		"m_iname"		"bosslvl2_5_wall"
+	}
 }

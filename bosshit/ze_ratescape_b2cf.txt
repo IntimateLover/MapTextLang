@@ -200,7 +200,7 @@
 	}
 	"722910"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"722910"
 		"m_iname"		"Genesis func"
 	}
@@ -218,7 +218,7 @@
 	}
 	"723790"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"723790"
 		"m_iname"		"Duck model func"
 	}
@@ -230,7 +230,7 @@
 	}
 	"886714"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"886714"
 		"m_iname"		"Last Duck model func"
 	}
@@ -245,5 +245,9 @@
 		"enable"		"0"
 		"hammerid"		"236972"
 		"m_iname"		"w_thunder_2&8328"
+	}
+	"724245"
+	{
+		"enable"		"1"
 	}
 }

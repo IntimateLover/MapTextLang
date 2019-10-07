@@ -54,4 +54,156 @@
 	{
 		"chi"		">>>boss使用了冰之壁<<<"
 	}
+	">>> PLAYER PICKED HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOSS IS ARRIVED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Map Made by Moray <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Special Thanks : nano <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Map Reboot by Glacius <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 3 - Normal <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORT ACTIVATING IN 25 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED VENOM BEAM CANNON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOTH ELEVATOR LEAVING IN 35 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED BLUE SPARK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ELECTRIC WAVE ENABLED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOSS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND UNTIL RESCUE COMES <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED WIND BLASTER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND MORE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HELICOPTER IS LEAVING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED FLAME BEAM CANNON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 1 - Extreme <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED AMMO <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER PICKED ICY VORTEX <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOSS POWERED UP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOSS IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
 }
