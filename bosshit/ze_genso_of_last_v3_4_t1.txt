@@ -120,4 +120,22 @@
 		"hammerid"		"826074"
 		"m_iname"		"level3_boss_hp"
 	}
+	"355841"
+	{
+		"enable"		"0"
+		"hammerid"		"355841"
+		"m_iname"		"Breakroad1"
+	}
+	"1120425"
+	{
+		"enable"		"0"
+		"hammerid"		"1120425"
+		"m_iname"		"Ancient_Elculous_Health_Break"
+	}
+	"698666"
+	{
+		"enable"		"1"
+		"hammerid"		"698666"
+		"m_iname"		"Reaper_HitPoint"
+	}
 }

@@ -23,7 +23,7 @@
 	"< ZE_RABANASTRE_ROYAL >"
 	{
 		"chi"		"**最终幻想12：拉巴纳斯塔王都 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< The path will clear in 30 seconds >"
 	{
@@ -68,17 +68,17 @@
 	"< SandMoster has casted Quicksand >"
 	{
 		"chi"		"**沙怪使用了流沙(注意脚底躲避伤害) **"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"< SandMonster has casted Sandstorm >"
 	{
 		"chi"		"**沙怪使用了沙尘暴(跳起来减少伤害) **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"< SandMonster has casted Wind >"
 	{
 		"chi"		"**沙怪使用了狂风(按住W抵抗) **"
-		"DoorCountdown"		"6"
+		"DoorCountDown"		"6"
 	}
 	"< SandMonster has been defeated,get back to Rabanastre >"
 	{
@@ -95,7 +95,7 @@
 	"< This is the last defend,hold! >"
 	{
 		"chi"		"**这是最后的防守了，坚持住！ **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"< You must to kill all the zombies to win >"
 	{
@@ -112,7 +112,7 @@
 	"< SandMonster has casted Gravity >"
 	{
 		"chi"		"**沙怪使用了黑洞(按住S抵抗) **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"< You have defeated Hard mode!Congratulations! >"
 	{
@@ -125,12 +125,12 @@
 	"< You are too late... >"
 	{
 		"chi"		"**你太慢了... **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"< SandMonster has casted Heal >"
 	{
 		"chi"		"**沙怪使用了治疗(回复300血) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"< The Airship will leave in 10 seconds.Hurry up! >"
 	{
@@ -151,7 +151,7 @@
 	"< Defend!We almost leave the Lowtown soon! >"
 	{
 		"chi"		"**防守！我们马上就要离开拉巴纳斯塔王都地下区了 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"< The arena will open in 40 seconds >"
 	{
@@ -196,7 +196,7 @@
 	"< Zeromus has casted Aero >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了狂风(朝中间按W抵抗) **"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"< Zeromus has been defeated...Let's get out of the arena >"
 	{
@@ -205,7 +205,7 @@
 	"< Zeromus has casted Posionrain >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了剧毒(跳起来减少伤害) **"
-		"DoorCountdown"		"6"
+		"DoorCountDown"		"6"
 	}
 	"< Zeromus has casted DarkPower!Go to the sunshine in the middle of the arena >"
 	{
@@ -222,7 +222,7 @@
 	"< Zeroms used Reverse to himself >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯保护了他自己(别开枪！！！) **"
-		"DoorCountdown"		"6"
+		"DoorCountDown"		"6"
 	}
 	"< Zeromus has casted Reverse >"
 	{
@@ -231,7 +231,7 @@
 	"< Zeromus has casted Thunder >"
 	{
 		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了雷电(注意脚底) **"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"< Zeromus has casted Ice >"
 	{
@@ -244,5 +244,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"24787"
+	}
+	"< Zeromus has been defeated...Lets get out of the arena >"
+	{
+		"chi"		"** **"
+	}
+	"< ZM Crystall teleport will enable in 5 seconds >"
+	{
+		"chi"		"** **"
 	}
 }

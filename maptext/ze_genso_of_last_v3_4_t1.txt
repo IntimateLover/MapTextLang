@@ -2,7 +2,7 @@
 {
 	"Map Fixed by Rulucy (For 93x Server Stripper)"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** Moving to NORMAL mode ***"
 	{
@@ -35,7 +35,7 @@
 	"***The LeftGate is going to open***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***Hold 25seconds***"
 	{
@@ -44,12 +44,12 @@
 	"***Keep Defending***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***The Gate is going to close. Defend***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***You won Normal Mode***"
 	{
@@ -66,7 +66,7 @@
 	"***The RightGate is going to open***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***Hold 30seconds***"
 	{
@@ -127,7 +127,7 @@
 	"*** The Gates are going to open ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*A player has picked up Ice Magic*"
 	{
@@ -164,7 +164,7 @@
 	"*** Wind ***"
 	{
 		"chi"		"**风（W抵抗）**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** Hand Attack ***"
 	{
@@ -176,7 +176,107 @@
 	}
 	"*** Gravity ***"
 	{
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 		"chi"		"**重力（S抵抗）**"
+	}
+	"< ??? >"
+	{
+		"chi"		"** **"
+	}
+	"***Failed***"
+	{
+		"chi"		"** **"
+	}
+	"*** A zombie picked up Ice Magic ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The vents are going to open ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Golem Ahglan Defeated ***"
+	{
+		"chi"		"** **"
+	}
+	"***You won Soul Mode***"
+	{
+		"chi"		"** **"
+	}
+	"[TheLast Mode]"
+	{
+		"chi"		"** **"
+	}
+	"*** Ancient Elculous Defeated ***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold 20seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Double Hands Stamp ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Escape ***"
+	{
+		"chi"		"** **"
+	}
+	"***The Last gates will open in 190seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** 180seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Open in 10seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 100seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Open in 20seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 50seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
 	}
 }

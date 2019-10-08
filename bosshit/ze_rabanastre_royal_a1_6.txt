@@ -63,5 +63,13 @@
 	"744188"
 	{
 		"enable"		"1"
+		"hammerid"		"744188"
+		"m_iname"		"Zeromus_HP_Breakable"
+	}
+	"1515836"
+	{
+		"enable"		"0"
+		"hammerid"		"1515836"
+		"m_iname"		"Venat_HP_Breakable"
 	}
 }
