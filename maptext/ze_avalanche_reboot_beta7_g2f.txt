@@ -157,6 +157,7 @@
 	">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
 	{
 		"chi"		"**100秒后控制室大门打开 **"
+		"DoorCountdown"		"100"
 	}
 	">>> DEFEND UNTIL RESCUE COMES <<<"
 	{
