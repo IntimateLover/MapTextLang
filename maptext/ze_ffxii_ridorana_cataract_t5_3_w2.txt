@@ -379,27 +379,33 @@
 	}
 	"**ERROR FREEZE LEVEL**(SET FREEZE LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的冰冻法杖等级(设置冰冻等级:1) **"
+		"DoorCountdown"		"-1"
 	}
 	"**ERROR WIND LEVEL**(SET WIND LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的飓风法杖等级(设置飓风等级:1) **"
+		"DoorCountdown"		"-1"
 	}
 	"**ERROR ELECTRO LEVEL**(SET ELECTRO LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的雷电法杖等级(设置雷电等级:1) **"
+		"DoorCountdown"		"-1"
 	}
 	"**ERROR HEAL LEVEL**(SET HEAL LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的治疗法杖等级(设置治疗等级:1) **"
+		"DoorCountdown"		"-1"
 	}
 	"**ERROR FIRE LEVEL**(SET FIRE LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的火焰法杖等级(设置火焰等级:1) **"
+		"DoorCountdown"		"-1"
 	}
 	"**ERROR DARK LEVEL**(SET DARK LEVEL 1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**错误的黑洞法杖等级(设置黑洞等级:1) **"
+		"DoorCountdown"		"-1"
 	}
 	"sync_version"
 	{
@@ -420,7 +426,7 @@
 	}
 	"** You have beaten CHAOS MODE! Congratulations you beat the map! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你打败了疯狂模式！恭喜你通关了地图！ **"
 	}
 	"**Ported by isa**"
 	{
@@ -460,6 +466,6 @@
 	}
 	"**Cactus found. The player who did it got 1 level**"
 	{
-		"chi"		"** **"
+		"chi"		"**找到仙人掌了.找到仙人掌的玩家提升了1级. **"
 	}
 }
