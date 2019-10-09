@@ -280,4 +280,24 @@
 	{
 		"syncvalue"		"32634"
 	}
+	"*** TRI-FACE USED SHIELD DONT SHOOT ***"
+	{
+		"chi"		"** **"
+	}
+	"**Tri Face is healing himself"
+	{
+		"chi"		"** **"
+	}
+	"**HE USES WIND ATTACK! RESIST IT!**"
+	{
+		"chi"		"** **"
+	}
+	"**HE USES GRAVITY ATTACK!BE CAREFUL!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tri Face is going to jump! Move to the edges**"
+	{
+		"chi"		"** **"
+	}
 }

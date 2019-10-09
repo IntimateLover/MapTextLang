@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"***AFK Tp in 5 Seconds***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***AFK Tp in 10 Seconds***"
+	{
+		"DoorCountdown"		"-1"
+	}
+}
