@@ -368,7 +368,7 @@
 	}
 	"5447226"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"5447226"
 		"m_iname"		"Famfrit_Phys_Body"
 	}

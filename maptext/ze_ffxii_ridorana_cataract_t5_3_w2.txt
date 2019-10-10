@@ -11,17 +11,17 @@
 	"**ZE_FFXII_RIDORANA_CATARACT**"
 	{
 		"chi"		"**最终幻想12：里多拉纳大瀑布**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
 		"chi"		"**石制大门20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了火魔法（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**NORMAL MODE**"
 	{
@@ -30,27 +30,27 @@
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了雷电法杖（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了秒杀魔法（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了黑洞魔法 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**THE GATES WILL OPEN IN 30 SECONDS**"
 	{
 		"chi"		"**石制大门30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞法杖（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**THE GATES WILL OPEN IN 15 SECONDS**"
 	{
@@ -59,42 +59,42 @@
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**石制大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了治疗法杖（等级:1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了冰冻法杖（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了火焰法杖（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了飓风法杖（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸学会了治疗魔法（等级：1）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**The random way will open in 25 seconds**"
 	{
 		"chi"		"**一条随机通道将在25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The arena entrance will open in 25 seconds**"
 	{
 		"chi"		"**竞技场大门将在25秒后开启**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The Hashmel is defeated!**"
 	{
@@ -103,12 +103,12 @@
 	"**Defend this way for 25 seconds**"
 	{
 		"chi"		"**坚守25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**The final gates will open in 20 seconds**"
 	{
 		"chi"		"**最后大门将在20秒后打开**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Hydro is dead! Run to to the platform!**"
 	{
@@ -125,17 +125,17 @@
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸学会了秒杀魔法（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞法杖（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸学会了治疗魔法（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**The Hydro is defeated** **Keep running**"
 	{
@@ -144,27 +144,27 @@
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了治疗法杖（等级:2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**THE DOOR WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了冰冻法杖（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了飓风法杖（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了火焰法杖（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Hold here for 10 seconds**"
 	{
@@ -173,12 +173,12 @@
 	"**Wait before the airflow starts**"
 	{
 		"chi"		"**在气流出现前请等待**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**The arena gates will open in 20 seconds**"
 	{
 		"chi"		"**竞技场大门将在20秒后开启**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Oh no the sword dissapeared..We will back there next time..**"
 	{
@@ -191,22 +191,22 @@
 	"**The final gates will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了雷电法杖（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
 	{
 		"chi"		"** 一位僵尸学会了黑洞魔法**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸学会了火魔法（等级：2）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Is this over...or not?...**"
 	{
@@ -223,12 +223,12 @@
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了冰冻法杖（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸学会了火魔法（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Both ways will open in 25 seconds**"
 	{
@@ -237,7 +237,7 @@
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了雷电法杖（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
 	{
@@ -258,12 +258,12 @@
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞法杖（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了火焰法杖（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Someone is trying to interfere us**"
 	{
@@ -272,7 +272,7 @@
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了飓风法杖（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
 	{
@@ -289,7 +289,7 @@
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了治疗法杖（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**The Zargabaath is down**"
 	{
@@ -314,7 +314,7 @@
 	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸学会了黑洞魔法（等级:3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -362,12 +362,12 @@
 	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸学会了黑洞魔法（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸学会了治疗魔法（等级：3）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"Zombie cage will be broken after 20 seconds"
 	{
@@ -380,32 +380,32 @@
 	"**ERROR FREEZE LEVEL**(SET FREEZE LEVEL 1)**"
 	{
 		"chi"		"**错误的冰冻法杖等级(设置冰冻等级:1) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ERROR WIND LEVEL**(SET WIND LEVEL 1)**"
 	{
 		"chi"		"**错误的飓风法杖等级(设置飓风等级:1) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ERROR ELECTRO LEVEL**(SET ELECTRO LEVEL 1)**"
 	{
 		"chi"		"**错误的雷电法杖等级(设置雷电等级:1) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ERROR HEAL LEVEL**(SET HEAL LEVEL 1)**"
 	{
 		"chi"		"**错误的治疗法杖等级(设置治疗等级:1) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ERROR FIRE LEVEL**(SET FIRE LEVEL 1)**"
 	{
 		"chi"		"**错误的火焰法杖等级(设置火焰等级:1) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**ERROR DARK LEVEL**(SET DARK LEVEL 1)**"
 	{
 		"chi"		"**错误的黑洞法杖等级(设置黑洞等级:1) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"sync_version"
 	{
@@ -414,7 +414,7 @@
 	"**The arena entrance will open in 30 seconds**"
 	{
 		"chi"		"**竞技场大门将在30秒后打开**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -447,6 +447,7 @@
 	"**12 crystals broken**"
 	{
 		"chi"		"**1/2水晶破坏 **"
+		"DoorCountDown"		"-1"
 	}
 	"**You got it! The gates will open in 20 seconds**"
 	{
@@ -467,5 +468,6 @@
 	"**Cactus found. The player who did it got 1 level**"
 	{
 		"chi"		"**找到仙人掌了.找到仙人掌的玩家提升了1级. **"
+		"DoorCountDown"		"-1"
 	}
 }
