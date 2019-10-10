@@ -72,7 +72,7 @@
 	}
 	"< SandMonster has casted Sandstorm >"
 	{
-		"chi"		"**沙怪使用了沙尘暴(跳起来减少伤害) **"
+		"chi"		"**沙怪使用了沙尘暴(全屏伤害) **"
 		"DoorCountDown"		"5"
 	}
 	"< SandMonster has casted Wind >"
@@ -144,10 +144,6 @@
 	{
 		"chi"		"**等等...那是谁？ **"
 	}
-	"< ZM Crystall teleport will enable in 10 seconds >"
-	{
-		"chi"		"**僵尸水晶传送将在10秒内启用 **"
-	}
 	"< Defend!We almost leave the Lowtown soon! >"
 	{
 		"chi"		"**防守！我们马上就要离开拉巴纳斯塔王都地下区了 **"
@@ -179,7 +175,7 @@
 	}
 	"< A zombie has acquired Doom Magick >"
 	{
-		"chi"		"**一名玩家拾取了死亡宣告魔法 **"
+		"chi"		"**一名玩家拾取了僵尸神器魔法——死亡宣告 **"
 	}
 	"< Moogling is closed now,kupo~ >"
 	{
@@ -247,10 +243,14 @@
 	}
 	"< Zeromus has been defeated...Lets get out of the arena >"
 	{
-		"chi"		"** **"
+		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯被击败了...让我们赶快离开竞技场吧 **"
 	}
 	"< ZM Crystall teleport will enable in 5 seconds >"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸水晶传送将在5秒后启用 **"
+	}
+	"< A zombie has acquired Bleed Magick >"
+	{
+		"chi"		"**一名玩家拾取了僵尸神器魔法——血鬼术 **"
 	}
 }
