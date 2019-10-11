@@ -2,10 +2,10 @@
 {
 	"***AFK Tp in 5 Seconds***"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***AFK Tp in 10 Seconds***"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 }

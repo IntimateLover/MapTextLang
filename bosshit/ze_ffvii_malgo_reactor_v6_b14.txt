@@ -52,4 +52,70 @@
 	{
 		"enable"		"1"
 	}
+	"857284"
+	{
+		"enable"		"0"
+		"hammerid"		"857284"
+		"m_iname"		"Vent_Door_1"
+	}
+	"857173"
+	{
+		"enable"		"0"
+		"hammerid"		"857173"
+		"m_iname"		"Vent_Door_2"
+	}
+	"857348"
+	{
+		"enable"		"0"
+		"hammerid"		"857348"
+		"m_iname"		"Vent_Door_4"
+	}
+	"857379"
+	{
+		"enable"		"0"
+		"hammerid"		"857379"
+		"m_iname"		"Vent_Door_5"
+	}
+	"680359"
+	{
+		"enable"		"0"
+		"hammerid"		"680359"
+		"m_iname"		"Cosmo_Rail"
+	}
+	"660851"
+	{
+		"enable"		"0"
+		"hammerid"		"660851"
+		"m_iname"		"Kratka"
+	}
+	"661418"
+	{
+		"enable"		"0"
+		"hammerid"		"661418"
+		"m_iname"		"Plac_zabaw_ssie"
+	}
+	"606755"
+	{
+		"enable"		"0"
+		"hammerid"		"606755"
+		"m_iname"		"Cosmo_break_1"
+	}
+	"519617"
+	{
+		"enable"		"0"
+		"hammerid"		"519617"
+		"m_iname"		"Metal_Crate"
+	}
+	"242078"
+	{
+		"enable"		"0"
+		"hammerid"		"242078"
+		"m_iname"		"Final_Fulgor_Breakable"
+	}
+	"68798"
+	{
+		"enable"		"0"
+		"hammerid"		"68798"
+		"m_iname"		"Sephiroth_Final_Breakable"
+	}
 }
