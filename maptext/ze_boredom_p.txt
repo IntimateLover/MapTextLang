@@ -30,7 +30,7 @@
 	}
 	"** ... **"
 	{
-		"chi"		"** **"
+		"chi"		"**...**"
 	}
 	"** Upon leaving the wasteland by the buildingvator you might find dictators... **"
 	{
@@ -246,7 +246,8 @@
 	}
 	"** Explosive kamikaze bum-bum has been acquired! **"
 	{
-		"chi"		"**爆炸性的"神风"炸弹已被获取 **"
+		"chi"		"**爆炸性的"
+		"神风"		"炸弹已被获取 **"
 	}
 	"** NO! THE ASSHOLE OF THE UNIVERSE IS GOING TO SWALLOW US INTO NOT BEING! **"
 	{

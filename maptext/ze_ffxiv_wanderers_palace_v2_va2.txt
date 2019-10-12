@@ -23,7 +23,7 @@
 	"***20 seconds to Activate Nymian Device***"
 	{
 		"chi"		"**20秒后激活尼米安装置**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 5 seconds***"
 	{
@@ -36,12 +36,12 @@
 	"***10 seconds to Activate Nymian Device***"
 	{
 		"chi"		"**10秒后激活尼米安装置**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***Wait for 20 seconds ***"
 	{
 		"chi"		"**防守20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Door opened***"
 	{
@@ -50,7 +50,7 @@
 	"***Door close 10 seconds***"
 	{
 		"chi"		"**门10秒后关闭**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***Enkidu appered***"
 	{
@@ -75,7 +75,7 @@
 	"***15 seconds to Active Nymian Device***"
 	{
 		"chi"		"**15秒后激活尼米安装置**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***Look for RED,YELLOW,GREEN Nymian Devices***"
 	{
@@ -100,12 +100,12 @@
 	"***10 seconds to Active Nymian Device***"
 	{
 		"chi"		"**10秒后激活尼米安装置**"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***20 seconds to Activate Escape Elevator***"
 	{
 		"chi"		"**20秒后电梯启动**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Congratulations***"
 	{
@@ -126,22 +126,22 @@
 	"***Wait for 20 seconds***"
 	{
 		"chi"		"**防守20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Wait for 30 seconds"
 	{
 		"chi"		"**防守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***35 seconds to Activate Nymian Device***"
 	{
 		"chi"		"**35秒后激活尼米安装置**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***Hold this position 35 seconds***"
 	{
 		"chi"		"**防守35秒**"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***Teleporter Activate***"
 	{
@@ -189,7 +189,7 @@
 	"***45 seconds to MAP CLEAR***"
 	{
 		"chi"		"**45秒后通关地图**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"***Human Killer ON***"
 	{
@@ -255,7 +255,7 @@
 	"***Recast 60s***"
 	{
 		"chi"		"**冷却60秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Black Mage Flare***"
 	{
@@ -264,7 +264,7 @@
 	"***Recast 45s***"
 	{
 		"chi"		"**冷却45秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Paladin Shild Oath"
 	{
@@ -273,12 +273,12 @@
 	"***Recast 70s***"
 	{
 		"chi"		"**冷却70秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Wait for 30 seconds***"
 	{
 		"chi"		"**防守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
@@ -287,7 +287,7 @@
 	"***Recast 90s***"
 	{
 		"chi"		"**冷却90秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -296,21 +296,22 @@
 	"***Recast 50s***"
 	{
 		"chi"		"**冷却50秒**"
+		"DoorCountDown"		"-1"
 	}
 	"***30 seconds to Active Nymian Device***"
 	{
 		"chi"		"**30秒后激活尼米安装置**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Hold this position 20 seconds***"
 	{
 		"chi"		"**防守20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Hold this position 60 seconds***"
 	{
 		"chi"		"**防守60秒**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"60"
 	}
 	"***Heavens Fall***"
 	{
@@ -324,12 +325,12 @@
 	"***20 seconds to Active Nymian Device***"
 	{
 		"chi"		"**20秒后激活尼米安装置**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***30 seconds to Activate Escape Elevator***"
 	{
 		"chi"		"**电梯30秒后启动**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Ravana Used Stop***"
 	{
@@ -346,32 +347,32 @@
 	"***Hold this position 40 seconds***"
 	{
 		"chi"		"**防守40秒**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***20 seconds to Activate Elevator"
 	{
 		"chi"		"**电梯20秒后启动**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***30 seconds to Activate Elevator***"
 	{
 		"chi"		"**电梯30秒后启动**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***30 seconds to Break Wall***"
 	{
 		"chi"		"**30秒后墙壁破碎**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***40 seconds to Activate Telepoter"
 	{
 		"chi"		"**传送点40秒后激活**"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***A player picked up White Mage Benediction***"
 	{
 		"chi"		"**一位玩家拾取了天之祝福（治疗），90秒冷却**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Bahamut Prime appeared***"
 	{
@@ -385,7 +386,7 @@
 	{
 		"chi"		"**死亡循环（此技能只在开场使用一次，250血满甲状态可以抵挡技能）**"
 		"ico"		"icon_fire"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** 3 ***"
 	{
@@ -425,7 +426,7 @@
 	"***Hold this position to 15 seconds***"
 	{
 		"chi"		"**防守15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***Jump!***"
 	{
@@ -434,7 +435,7 @@
 	"***The Wanderers Palace Clear to 20 seconds***"
 	{
 		"chi"		"**流浪者宫殿将在20秒后毁灭**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***The Wanderers Palace CLEAR***"
 	{
@@ -462,7 +463,7 @@
 	"***Recast 55s***"
 	{
 		"chi"		"**冷却时间55秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
@@ -471,7 +472,7 @@
 	"***Recast 80s***"
 	{
 		"chi"		"**冷却80秒**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Level:Savage set***"
 	{
@@ -480,7 +481,7 @@
 	"***Hold this position to 30 seconds***"
 	{
 		"chi"		"**防守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***Laser***"
 	{
@@ -537,7 +538,7 @@
 	"***Hold this position to 70 seconds***"
 	{
 		"chi"		"**防守70秒**"
-		"DoorCountdown"		"70"
+		"DoorCountDown"		"70"
 	}
 	"***SECRET CLEAR ALLMODE COMPLETE***"
 	{

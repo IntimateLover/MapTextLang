@@ -300,4 +300,8 @@
 		"hammerid"		"446960"
 		"m_iname"		"HEDetectorTrigger"
 	}
+	"259783"
+	{
+		"enable"		"1"
+	}
 }

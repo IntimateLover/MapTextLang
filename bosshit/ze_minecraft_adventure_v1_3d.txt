@@ -724,25 +724,25 @@
 	{
 		"enable"		"1"
 		"hammerid"		"603987"
-		"m_iname"		"nether_bossphys&2947"
+		"m_iname"		"nether_bossphys&4592"
 	}
 	"948185"
 	{
 		"enable"		"0"
 		"hammerid"		"948185"
-		"m_iname"		"item_fire_phys&2098"
+		"m_iname"		"item_fire_phys&4785"
 	}
 	"948271"
 	{
 		"enable"		"0"
 		"hammerid"		"948271"
-		"m_iname"		"item_block_phys&2082"
+		"m_iname"		"item_block_phys&4782"
 	}
 	"953180"
 	{
 		"enable"		"1"
 		"hammerid"		"953180"
-		"m_iname"		"end_bossphys&2078"
+		"m_iname"		"end_bossphys&4772"
 	}
 	"19904"
 	{

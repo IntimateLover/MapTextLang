@@ -51,7 +51,7 @@
 	"<< zombie teleport in 5 seconds >>"
 	{
 		"chi"		"**僵尸将会在5秒后传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< hold for 30 seconds >>"
 	{
@@ -72,7 +72,7 @@
 	"<< You can see there are 8 platforms >>"
 	{
 		"chi"		"**你可以看见这里有8个平台**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< After a little time, only 1 platform will be safe >>"
 	{
@@ -113,7 +113,7 @@
 	"<< zombie will arrive in 5 seconds >>"
 	{
 		"chi"		"**僵尸将会在5秒后到达**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< who permit you to press the button? >>"
 	{
@@ -194,7 +194,7 @@
 	"<< It seems that you are less than 16 guys >>"
 	{
 		"chi"		"**看起来人类的数量少于16个**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< OK, I will let you win this game easier >>"
 	{
@@ -367,7 +367,7 @@
 	"<< zombie will only have 75 hp in the final 30 seconds >>"
 	{
 		"chi"		">>>僵尸在最后30秒只有75滴血<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< Lets start! The Final Five heros!!! >>"
 	{
@@ -402,6 +402,10 @@
 		"chi"		"** **"
 	}
 	"<< the second save point will be activated in 30 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Random Pick >>"
 	{
 		"chi"		"** **"
 	}

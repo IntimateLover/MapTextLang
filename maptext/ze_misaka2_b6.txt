@@ -3,7 +3,7 @@
 	"<< GIGA DRAIN >>"
 	{
 		"chi"		">>>二连吸<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"<< Trials of Sword lv.1 >>"
 	{
@@ -48,12 +48,12 @@
 	"<< Starfall >>"
 	{
 		"chi"		">>>星之陨落（打头顶光球）<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"<< FALL OF EARTH >>"
 	{
 		"chi"		">>>大地陨落（观察周围鬼火）<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"<< Hunting Instinct >>"
 	{
@@ -206,7 +206,7 @@
 	"<< HOLY >>"
 	{
 		"chi"		">>>终极（快速跳到中间平台上）<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"sync_version"
 	{
@@ -242,11 +242,11 @@
 	}
 	"<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>这个墓碑是用来纪念那位利用bhop脚本获得ze_misaka竞赛优胜的玩家<<<"
 	}
 	"<< R.I.P >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>来都来了 上个香再走吧<<<"
 	}
 	"<< the way will be able to pass in 20 seconds >>"
 	{
