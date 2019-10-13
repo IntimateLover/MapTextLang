@@ -7,7 +7,7 @@
 	"*** Hold Off Zombies for 20 seconds ***"
 	{
 		"chi"		"**防守僵尸20秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"0"
 	}
 	"*** Gate Open!!! ***"
 	{
@@ -24,7 +24,7 @@
 	"*** Safe zone exits will open in 60 seconds ***"
 	{
 		"chi"		"**安全区通往塔的道路将在60秒后开启**"
-		"DoorCountdown"		"60"
+		"DoorCountDown"		"0"
 	}
 	"*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
 	{
@@ -61,6 +61,7 @@
 	"*** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
 	{
 		"chi"		"**守住这个地方等待路易吉来营救你们**"
+		"DoorCountDown"		"60"
 	}
 	"*** Beware of Bowsers Fire Breath! ***"
 	{
@@ -73,6 +74,7 @@
 	"*** Luigi will now help by lowering the bridge ***"
 	{
 		"chi"		"**路易吉现在帮你们把桥降下**"
+		"DoorCountDown"		"58"
 	}
 	"*** Luigi has done it!! ***"
 	{

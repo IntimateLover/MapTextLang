@@ -7,6 +7,7 @@
 	"*** We must get to the small town that is 25km from here. Its the only safe place! ***"
 	{
 		"chi"		"**我们要去的小镇，离这儿25km。这是唯一安全的地方！ **"
+		"DoorCountDown"		"-1"
 	}
 	"*** TIP: One building hides an underground secret train. Stick together and go for it. ***"
 	{
@@ -15,7 +16,7 @@
 	"**Train is leaving in 20 seconds**"
 	{
 		"chi"		"**火车将在20秒后离开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Train is leaving in 10 seconds**"
 	{
@@ -39,21 +40,22 @@
 	}
 	"** Defend bit! Supervivors can come !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**再守一会。门马上开**"
+		"DoorCountDown"		"12"
 	}
 	"***The canon will shoot in 5 seconds!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**大炮将在5秒后开火**"
 	}
 	"***The door will close in 30 seconds***"
 	{
 		"chi"		"**大门30秒后关闭 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***The boat will leave in 20 seconds!!!***"
 	{
 		"chi"		"**船20秒后离开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***The boat will leave in 8 seconds!!!***"
 	{
@@ -74,7 +76,7 @@
 	"***The door will open in 20 seconds!!!***"
 	{
 		"chi"		"**门20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***The door will close in 5 seconds and will open in 15 seconds!!!***"
 	{
@@ -99,11 +101,12 @@
 	"**Fuel lasts about 10 seconds. **"
 	{
 		"chi"		"**燃料持续10秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Cave opens in 20 seconds **"
 	{
 		"chi"		"**洞穴在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"***Calling the nuke... Explosion in 40 seconds***"
 	{
@@ -115,7 +118,7 @@
 	}
 	"**Truck 1 is leaving in 5 seconds**"
 	{
-		"chi"		"**卡车1在5秒后离开 **"
+		"chi"		"**卡车一5秒后离开**"
 	}
 	"*** OFFICE PATH HAS OPENED! ***"
 	{
@@ -136,7 +139,7 @@
 	"*It has a 90 seconds cooldown.*"
 	{
 		"chi"		"**它有90秒的冷却时间 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Go call the rescue!!!***"
 	{
@@ -145,28 +148,29 @@
 	"***The rescue helicopter will arrive in 40 seconds***"
 	{
 		"chi"		"**救援直升机将在40秒后到达 **"
-		"DoorCountdown"		"40"
+		"DoorCountDown"		"40"
 	}
 	"***Evacuate!!!***"
 	{
-		"chi"		"**撤离 **"
+		"chi"		"**飞机要走了，撤离！！**"
+		"DoorCountDown"		"3"
 	}
 	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
 	{
 		"chi"		"**推力枪已拿起.按E.使用.60秒冷却时间。 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Truck 3 is leaving in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**卡车三5秒后离开**"
 	}
 	"*** Freezegun has been picked up. Press +USE (E) to activate. 60 seconds cooldown."
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Truck 2 is leaving in 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**卡车二10秒后离开**"
 	}
 }
