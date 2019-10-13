@@ -45,7 +45,6 @@
 	"***Door breaking in 10secs!***"
 	{
 		"chi"		"**木门 10 秒后破碎！**"
-		"DoorCountdown"		"0"
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
@@ -152,22 +151,18 @@
 	"***Cargo door opening in 15secs!***"
 	{
 		"chi"		"**将在 15 秒后打开货舱门！**"
-		"DoorCountdown"		"0"
 	}
 	"***Emergency doors closing in 10secs!***"
 	{
 		"chi"		"**应急出口的门将在 10 秒后关闭！**"
-		"DoorCountdown"		"0"
 	}
 	"***Boxcar door opening in 10secs!***"
 	{
 		"chi"		"**货舱门将于 10 秒后打开！**"
-		"DoorCountdown"		"0"
 	}
 	"***Final express door opening in 25secs!***"
 	{
 		"chi"		"**最后的大门将在 25 秒后打开！对僵尸的防守不要松懈！**"
-		"DoorCountdown"		"0"
 	}
 	"***LEVEL-- CITY NIGHT ESCAPE***"
 	{
@@ -176,7 +171,6 @@
 	"***Elevator 1 coming in 10secs!***"
 	{
 		"chi"		"**一号电梯门将于10秒后打开**"
-		"DoorCountdown"		"0"
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
@@ -294,7 +288,6 @@
 	"***Valves unlocked in 35secs!***"
 	{
 		"chi"		"**水阀将在 35 秒后解锁！**"
-		"DoorCountdown"		"0"
 	}
 	"***Shoot the Block!***"
 	{
@@ -307,6 +300,7 @@
 	"***C4 set to go off in 25secs!***"
 	{
 		"chi"		"**C4将在 25 秒后引爆！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
 	{
@@ -327,7 +321,6 @@
 	"***Defend for 35secs as the Carpet...refuels...?***"
 	{
 		"chi"		"**守卫魔毯 35 秒...加油...？**"
-		"DoorCountdown"		"0"
 	}
 	"***Carpet leaves in 5secs!***"
 	{
@@ -344,7 +337,6 @@
 	"***Hold the sign for 20secs!***"
 	{
 		"chi"		"** 守住这个地方 20 秒！**"
-		"DoorCountdown"		"0"
 	}
 	"***FINAL BOSS INCOMING!***"
 	{
@@ -364,7 +356,7 @@
 	}
 	"***Final attack will be charged in 60secs!!***"
 	{
-		"chi"		"** Boss最后的攻击将在 60 秒后到来！！**"
+		"chi"		"** 60秒后Boss将发动最后的攻击！！**"
 	}
 	"***Watch out for...barrel...attacks...?***"
 	{
@@ -372,7 +364,7 @@
 	}
 	"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
 	{
-		"chi"		"** Boss已经处于虚弱状态，但是它将在 60 秒后恢复！快给它最后一击！**"
+		"chi"		"** 它已经处于虚弱状态，但是它将在 60 秒后恢复并发动最终攻击！**"
 	}
 	"***CT's will have to jump off and activate the switches!***"
 	{
@@ -381,10 +373,12 @@
 	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
 	{
 		"chi"		"** 激活 4 个机关去结束Boss的老命并开启球型传送门！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Switch 1 Unlocked!***"
 	{
 		"chi"		"**成功激活 1 个机关！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Switch Activated!***"
 	{
@@ -397,7 +391,6 @@
 	"***PORTAL COLLAPSING IN 10secs!! ***"
 	{
 		"chi"		"** 球型传送门将在 10 秒后消失！！**"
-		"DoorCountdown"		"0"
 	}
 	"***JUMP INTO THE ORB!!***"
 	{
