@@ -58,7 +58,7 @@
 	}
 	"-<berak random bridge in 10 seconds>-"
 	{
-		"chi"		"** **"
+		"chi"		">>>10秒后随机断掉一座桥<<<"
 	}
 	"-<defend 30 seconds>-"
 	{
@@ -74,11 +74,11 @@
 	}
 	"-<defend 10 more seconds>-"
 	{
-		"chi"		"** **"
+		"chi"		">>>再防守10秒<<<"
 	}
 	"-<door close in 10 seconds>-"
 	{
-		"chi"		"** **"
+		"chi"		">>>最后的门将在10秒后关闭<<<"
 	}
 	"-<door open>-"
 	{

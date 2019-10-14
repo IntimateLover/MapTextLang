@@ -2,27 +2,27 @@
 {
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
 	{
 		"chi"		">>>闪电漩涡激活了！站在什么东西的上面！<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
 	{
 		"chi"		">>>闪电龙卷风激活了！蹲下！<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	">>> REPAIR SHIELD ENABLED   DONT SHOOT <<<"
 	{
 		"chi"		">>>修理护盾激活！停止射击！<<<"
-		"DoorCountdown"		"8"
+		"DoorCountDown"		"8"
 	}
 	">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
 	{
 		"chi"		">>>闪电黑洞激活！藏在什么东西的后面！<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	">>> FIND C4 TO MAKE PASSAGE <<<"
 	{
@@ -39,12 +39,12 @@
 	">>> BOSS USED REPAIR SHIELD <<<"
 	{
 		"chi"		">>>boss使用了修复护盾，停枪！<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	">>> BOSS USED GRAVITY <<<"
 	{
 		"chi"		">>>boss使用了黑洞！快远离boss!<<<"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	">>> BOSS USED HEAL <<<"
 	{
@@ -157,7 +157,7 @@
 	">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
 	{
 		"chi"		"**100秒后控制室大门打开 **"
-		"DoorCountdown"		"100"
+		"DoorCountDown"		"100"
 	}
 	">>> DEFEND UNTIL RESCUE COMES <<<"
 	{
@@ -206,5 +206,65 @@
 	">>> BOSS IS DEFEATED <<<"
 	{
 		"chi"		"**boss被击败了 **"
+	}
+	">>> 30 Seconds of Warmup Remaining <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Warmup Round! Map starting in 40 seconds. <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 20 Seconds of Warmup Remaining <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 Seconds of Warmup Remaining <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Warmup Ending - Map Starting <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 1 - Normal <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 2 - Normal <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> C4 PICKED UP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 2 - Extreme <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SECURITY DOOR IS CLOSED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GO CONTROL ROOM TO UNLOCK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 5 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> MAP RESTARTING <<<"
+	{
+		"chi"		"** **"
 	}
 }
