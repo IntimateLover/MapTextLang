@@ -1,171 +1,68 @@
 "Console_T"
 {
-	"** Welcome **"
+	"** Dont step on the black circle **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要踩到中间的黑色圈圈**"
 	}
-	"*** Level 1 ***"
+	"** someone need to Jump over the black circle **"
 	{
-		"chi"		"** **"
-	}
-	"** Hope u like this one, enjoy **"
-	{
-		"chi"		"** **"
-	}
-	"** Defend the cristal **"
-	{
-		"chi"		"** **"
-	}
-	"** Teleport will enable in 30 sec **"
-	{
-		"chi"		"** **"
-	}
-	"** If the zombies touch the cristal we all gonna die **"
-	{
-		"chi"		"** **"
-	}
-	"** You failed me **"
-	{
-		"chi"		"** **"
-	}
-	"** 5 sec **"
-	{
-		"chi"		"** **"
-	}
-	"** Defend **"
-	{
-		"chi"		"** **"
-	}
-	"** Someone need to jump in side the rotating circle **"
-	{
-		"chi"		"** **"
-	}
-	"** Door will open in 30 sec **"
-	{
-		"chi"		"** **"
+		"chi"		"**必须要一个人从中间黑色圈圈跳过去触发**"
 	}
 	"** FALL BACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**快撤退！！！**"
+		"DoorCountDown"		"3"
 	}
-	"** Elevator start moving in 25sec **"
+	"** Dont let the zombies touch the crystal **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让僵尸碰到水晶，否则GG**"
 	}
-	"** Teleport will enable in 30 sec**"
+	"*** Level 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
-	"** elevator will start after 20sec **"
+	"** Dont let the zombies touch the crystall **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让僵尸碰到水晶!**"
 	}
-	"** 10 sec more **"
+	"** You failed **"
 	{
-		"chi"		"** **"
+		"chi"		"**GG啦**"
 	}
-	"** Defend for 40 sec **"
+	"** Hope you like this one, enjoy **"
 	{
-		"chi"		"** **"
+		"chi"		"**希望你能喜欢这张地图，好好游玩吧~**"
 	}
-	"** Dont let the zombies touch the cristal **"
+	"** Defend the crystal **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住水晶**"
 	}
-	"** 20 sec **"
+	"** Welcome **"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎~**"
 	}
-	"** 5 sec**"
+	"** Defend **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！！**"
 	}
 	"** nuke in 5 **"
 	{
-		"chi"		"** **"
-	}
-	"** 4 **"
-	{
-		"chi"		"** **"
-	}
-	"** 3 **"
-	{
-		"chi"		"** **"
-	}
-	"** 2 **"
-	{
-		"chi"		"** **"
-	}
-	"** 1 **"
-	{
-		"chi"		"** **"
+		"chi"		"**5秒后核爆**"
 	}
 	"*** Level 2 ***"
 	{
-		"chi"		"** **"
-	}
-	"** Door will open after 30 sec **"
-	{
-		"chi"		"** **"
-	}
-	"** 10sec **"
-	{
-		"chi"		"** **"
-	}
-	"** Door will open after 30sec **"
-	{
-		"chi"		"** **"
-	}
-	"** Door open after 30 sec **"
-	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	"** Zombie will teleport after 10sec **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
-	"** Door will close after 20sec **"
+	"** Jump!! **"
 	{
-		"chi"		"** **"
-	}
-	"** 5sec**"
-	{
-		"chi"		"** **"
-	}
-	"** Shoot the glass on the top **"
-	{
-		"chi"		"** **"
-	}
-	"** Defend until all the glasses broke **"
-	{
-		"chi"		"** **"
-	}
-	"** Teleport will enable after 30sec **"
-	{
-		"chi"		"** **"
-	}
-	"** Door will open after 15sec **"
-	{
-		"chi"		"** **"
-	}
-	"** 5sec **"
-	{
-		"chi"		"** **"
-	}
-	"** Defend 30sec **"
-	{
-		"chi"		"** **"
-	}
-	"** Jump **"
-	{
-		"chi"		"** **"
+		"chi"		"**快跳下去**"
 	}
 	"** Dont jump **"
 	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"52428"
+		"chi"		"**进去之后原地跳刀**"
 	}
 }

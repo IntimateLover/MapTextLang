@@ -23,22 +23,22 @@
 	"** AMMO GUN - 40 sec cooldown **"
 	{
 		"chi"		"**无限弹药---40秒冷却时间**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** Button A1 pressed **"
 	{
 		"chi"		"**A1按钮已被按下**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** Button A2 pressed **"
 	{
 		"chi"		"**A2按钮已被按下**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** Button A3 Pressed **"
 	{
 		"chi"		"**A3按钮已被按下**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** ALL BUTTONS HAVE BEEN PRESSED **"
 	{
@@ -67,17 +67,17 @@
 	"** Button B1 Pressed **"
 	{
 		"chi"		"**B1按钮已被按下**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** Button B3 Pressed **"
 	{
 		"chi"		"**B3按钮已被按下**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** Button B2 Pressed **"
 	{
 		"chi"		"**B2按钮已被按下**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** GO TO THE CENTRAL BUILDING... **"
 	{
@@ -138,12 +138,12 @@
 	"** SECRETS 1 of 5 FOUND **"
 	{
 		"chi"		"**1/5音乐彩蛋触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** FIRE BARREL - 50 sec cooldown **"
 	{
 		"chi"		"**炸药桶--50秒冷却时间[神器等级需求:1]**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** GATE WILL OPEN IN 15 SECONDS **"
 	{
@@ -192,12 +192,12 @@
 	"** SECRETS 2 of 5 FOUND **"
 	{
 		"chi"		"**2/5音乐彩蛋触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** FREEZE BOTTLE - 50 sec cooldown **"
 	{
 		"chi"		"**冰冻桶---50秒冷却时间[神器等级需求:2]**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"[MUSIC] EIFEL 65 - Blue"
 	{
@@ -210,7 +210,7 @@
 	"** SECRETS 3 of 5 FOUND **"
 	{
 		"chi"		"**3/5音乐彩蛋触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** U WON LEVEL 3 (HARD) **"
 	{
@@ -223,7 +223,7 @@
 	"** HEAL GUN - 40 sec cooldown **"
 	{
 		"chi"		"**治疗枪---40秒冷却时间[神器等级需求:3]**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"[MUSIC] CARAMELLDANSEN !!"
 	{
@@ -236,12 +236,12 @@
 	"** ITEM COLLECTED - PEDOBEAR LOST 150 HP **"
 	{
 		"chi"		"**获得道具---BOSS减150血**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
 	{
 		"chi"		"**获得道具---全部人类回到250血**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** U WON LEVEL 4 (BOSS) **"
 	{
@@ -290,7 +290,7 @@
 	"** LASER GUN - 60 sec cooldown **"
 	{
 		"chi"		"**激光墙---60秒冷却时间[神器等级需求:4] 放置一个墙 可以秒杀进入的僵尸**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** U WON LEVEL 6 (BOSS) **"
 	{
@@ -347,7 +347,7 @@
 	"** AFK wall will BREAK in 5 SECONDS **"
 	{
 		"chi"		"**传送点近路铁网将在5秒后破碎 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** 80 SECONDS REMAINING **"
 	{
@@ -420,7 +420,7 @@
 	"** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
 	{
 		"chi"		"**管理员给了每个人5的神器等级!享受吧!**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** ADMIN chose LEVEL 9 for NEXT ROUND **"
 	{
@@ -489,7 +489,7 @@
 	"** SECRETS 4 of 5 FOUND **"
 	{
 		"chi"		"**4/5音乐彩蛋触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"[MUSIC] GUNS n ROSES - Paradise City"
 	{
@@ -502,7 +502,7 @@
 	"** ALL SECRETS HAVE BEEN FOUND... **"
 	{
 		"chi"		"**所有音乐彩蛋(5个)都已被触发**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** ...GRAVITY INBOUND AT THE ENDING !! **"
 	{
@@ -515,5 +515,9 @@
 	"** ...GRAVITY AND DRUGS FOR EVERYONE ! **"
 	{
 		"chi"		"**所有玩家低重力和毒药模式开启**"
+	}
+	"[MUSIC] LINKIN PARK - Numb"
+	{
+		"chi"		"** **"
 	}
 }
