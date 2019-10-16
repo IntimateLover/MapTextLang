@@ -23,7 +23,7 @@
 	"***Incoming laser***"
 	{
 		"chi"		"**小心前方激光刀，准备跳刀**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***Map by Kiriya***"
 	{
@@ -32,5 +32,21 @@
 	"sync_version"
 	{
 		"syncvalue"		"50920"
+	}
+	"***Defend 50 seconds for next level***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie released in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend 40 seconds for final level***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Glass will be break in 5 seconds***"
+	{
+		"chi"		"** **"
 	}
 }

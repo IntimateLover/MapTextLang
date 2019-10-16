@@ -308,4 +308,12 @@
 		"DoorCountdown"		"-1"
 		"chi"		">>>默认是5刀<<<"
 	}
+	"<--Detected zombies->"
+	{
+		"chi"		"** **"
+	}
+	"<--Trip failed->"
+	{
+		"chi"		"** **"
+	}
 }

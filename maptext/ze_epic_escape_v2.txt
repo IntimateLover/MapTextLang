@@ -11,7 +11,7 @@
 	"** FALL BACK **"
 	{
 		"chi"		"**快撤退！！！**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Dont let the zombies touch the crystal **"
 	{
