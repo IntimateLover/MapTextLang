@@ -30,7 +30,7 @@
 	}
 	"*** Zombies teleport in 10 seconds ***"
 	{
-		"chi"		"**僵尸将在10秒好传送**"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	"*** WE DONT HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***"
 	{
@@ -46,7 +46,7 @@
 	}
 	"*** JUST A TRIM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要慌，只是一个小TRIM**"
 	}
 	"*** [B]OATS START IN 5 SECONDS ***"
 	{
@@ -66,68 +66,68 @@
 	}
 	"*** ZOMBIE ITEM SPAWNED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器奖励出现**"
 	}
 	"*** HUMAN ITEM SPAWNED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类奖励神器出现**"
 	}
 	"*** JIHAD ITEM PICKED UP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸自爆神器已被捡起**"
 	}
 	"*** MONEY ITEM PICKED UP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类钱神器已被捡起**"
 	}
 	"*** Door opens in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开**"
 	}
 	"*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**光桥将在10秒后消失**"
 	}
 	"*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光墙将在50秒后解除**"
 		"DoorCountdown"		"50"
 	}
 	"*** GOOD JOB, YOU DID IT! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**漂亮，你通过了挑战**"
 	}
 	"*** [B]RIDGE ACTIVATING IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**光桥将在5秒后再次激活**"
 	}
 	"*** LASERS TURNING OFF IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**激光柱将在20秒后消失**"
 	}
 	"*** YOU FAILED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了！**"
 	}
 	"*** ELEVATOR ARRIVES IN 40 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在40秒后到达**"
 	}
 	"*** DUO WIN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**两位玩家通过挑战**"
 	}
 	"*** TRIO WIN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**三位玩家通过挑战**"
 	}
 	"*** ELEVATOR LEAVES IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在15秒后离开**"
 	}
 	"*** Zombie teleport in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	"*** CRACKING THE CODE OF THE DOOR... ***"
 	{
@@ -135,54 +135,54 @@
 	}
 	"*** F%&K, THE PATH IS BLOCKED... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这什么鬼？路被堵死了**"
 	}
 	"*** ... WE NEED TO FIND ANOTHER WAY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要去找别的出路**"
 	}
 	"*** ONE OF THE DOORS UNLOCK SOON ***"
 	{
-		"chi"		"** **"
+		"chi"		"**将有一扇门随机打开**"
 	}
 	"*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**给我点时间来找到正确的钥匙**"
 	}
 	"*** THIS LOOKS LIKE A DEAD END... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这里看起来像是条死路**"
 	}
 	"*** TRY TO SETUP A PHONE CONNECTION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**尝试建立一个电话链接**"
 	}
 	"*** TELEPHONE DIALING... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**打电话中....**"
 	}
 	"*** ... CONNECTION ESTABLISHED! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**通讯建立成功**"
 	}
 	"*** LOOK UP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**看头顶**"
 	}
 	"*** AND DODGE THE MATRIX CODE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**然后躲避一串串数字条码**"
 	}
 	"*** SURVIVE THE LAST HOLD! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住最后一个点！**"
 	}
 	"*** CONGRATULATIONS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜~~**"
 	}
 	"*** YOU [B]EAT THE MAP! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你通关了本地图**"
 	}
 }

@@ -2,7 +2,7 @@
 {
 	"Map Fixed by Rulucy (For 93x Server Stripper)"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** Moving to NORMAL mode ***"
 	{
@@ -34,8 +34,8 @@
 	}
 	"***The LeftGate is going to open***"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"40"
+		"chi"		"**守住至左侧大门打开**"
+		"DoorCountdown"		"40"
 	}
 	"***Hold 25seconds***"
 	{
@@ -44,12 +44,12 @@
 	"***Keep Defending***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***The Gate is going to close. Defend***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"***You won Normal Mode***"
 	{
@@ -65,8 +65,8 @@
 	}
 	"***The RightGate is going to open***"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"40"
+		"chi"		"**守住至右侧大门打开**"
+		"DoorCountdown"		"40"
 	}
 	"***Hold 30seconds***"
 	{
@@ -126,8 +126,8 @@
 	}
 	"*** The Gates are going to open ***"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"45"
+		"chi"		"**守住至两侧大门打开**"
+		"DoorCountdown"		"45"
 	}
 	"*A player has picked up Ice Magic*"
 	{
@@ -164,7 +164,7 @@
 	"*** Wind ***"
 	{
 		"chi"		"**风（W抵抗）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"*** Hand Attack ***"
 	{
@@ -176,7 +176,7 @@
 	}
 	"*** Gravity ***"
 	{
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 		"chi"		"**重力（S抵抗）**"
 	}
 	"< ??? >"
@@ -276,6 +276,10 @@
 		"chi"		"** **"
 	}
 	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*A player has picked up Ancient Earth Magic*"
 	{
 		"chi"		"** **"
 	}

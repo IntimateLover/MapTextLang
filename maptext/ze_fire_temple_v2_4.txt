@@ -166,26 +166,26 @@
 	}
 	"<<< Back door will open in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>后门将在30秒后打开<<<"
 	}
 	"<<< Zombies teleport in 20 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸将在20秒后传送<<<"
 	}
 	"<<< Cage closing in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>守住30秒至头顶四周墙壁降下(别贴边被夹死)<<<"
 	}
 	"<<< Defend for 45 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守45秒<<<"
 	}
 	"<<< SHOOT THE CRYSTAL!!! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>打碎水晶！！！！<<<"
 	}
 	"<<< Boss fight coming soon! >>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>后续版本更新BOSS(咕咕咕)<<<"
 	}
 }

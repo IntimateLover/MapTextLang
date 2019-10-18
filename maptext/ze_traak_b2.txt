@@ -8,7 +8,7 @@
 	{
 		"chi"		"** 大门将在 30 秒后开启 **（注意：很多时候防守点都是一大一小的两个口子）
                 "
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"0"
 		"30"		"
 	}
 	"
@@ -40,7 +40,7 @@
 		"**"		"正在给电梯供电"
 		"**"		"
                 "
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"25"		"
 	}
 	"
@@ -55,7 +55,7 @@
 		"5"		"秒后离开"
 		"**（电梯出口在后面，左右两边都应该去人，建议右边多去点）"		"
                 "
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"5"		"
 	}
 	"
@@ -93,7 +93,7 @@
 		"30"		"秒后打开"
 		"**"		"
                 "
-		"DoorCountDown"		"		"
+		"DoorCountdown"		"		"
 		"30"		"
 	}
 	"
@@ -165,8 +165,8 @@
 	}
 	"*** Elevator leaves in 5 seconds ***"
 	{
-		"chi"		"** **"
-		"DoorCountDown"		"5"
+		"chi"		"**电梯将在5秒后离开**"
+		"DoorCountdown"		"0"
 	}
 	"*** Door should open soon! ***"
 	{
@@ -179,7 +179,7 @@
 	"*** Warehouse door opens in 30 seconds ***"
 	{
 		"chi"		"**仓库大门30秒后打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"0"
 	}
 	"*** Door is Opening ***"
 	{
