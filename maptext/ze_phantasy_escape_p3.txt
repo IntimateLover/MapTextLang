@@ -40,7 +40,7 @@
 	{
 		"chi"		"**已到达水龙，它需要一些时间预热。坚守20秒**"
 	}
-	"** RESIST 10 Seconds! **"
+	"** RESIST 10 SECONDS! **"
 	{
 		"chi"		"**坚守10秒**"
 	}
@@ -165,6 +165,10 @@
 		"chi"		"** **"
 	}
 	"** THE WORLD ENDS WITH A ZOMBIE INFESTATION! **"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

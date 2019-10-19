@@ -1,0 +1,123 @@
+"Console_T"
+{
+	"<< A player has picked up earth magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up water magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up fantasy crystal >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up heal magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up wind magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up fire magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up holy magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< TIPS: Shooting 8 buttons >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Pure Fury >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Pressure >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Earth Power >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Tri Crystal >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Rotating Blade >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Aurora Veil >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Sinister Omen >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The Contest will continue for 10 days, it will end at 27th Oct >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up gravity magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up heal magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up Doom Desire >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up killer magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fallen Sky >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Demon Cage >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Ominous Wind >>"
+	{
+		"chi"		"** **"
+	}
+	"<< This is not the end...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< It seems that something is awakening >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Keep your fantasy in your mind !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< GOOD LUCK !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< defeat the boss in 130 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Tornado Blade >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Mirror Coat >>"
+	{
+		"chi"		"** **"
+	}
+}
