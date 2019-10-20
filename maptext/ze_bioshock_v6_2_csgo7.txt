@@ -721,10 +721,12 @@ Cooldo"
 	">>Elevator 1 leaving - 5s<<"
 	{
 		"chi"		"**1号电梯离开-5秒 **"
+		"DoorCountDown"		"-1"
 	}
 	">>Elevator 2 leaving - 5s<<"
 	{
 		"chi"		"**2号电梯离开-5秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"***Plasmid obtained: Incinerate***"
 	{
@@ -877,7 +879,7 @@ Cooldo"
 	">>Laser incoming<<"
 	{
 		"chi"		"**准备跳刀！ **"
-		"DoorCountdown"		"2"
+		"DoorCountDown"		"2"
 	}
 	">>Elevator will be leaving soon<<"
 	{
@@ -914,7 +916,7 @@ Cooldo"
 	">>Thank you for playing. Try 1999 mode for a true challenge<<"
 	{
 		"chi"		"**谢谢你的玩耍，尝试挑战1999年模式 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>Extra Chapter - 1999<<"
 	{
