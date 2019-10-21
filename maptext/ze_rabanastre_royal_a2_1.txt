@@ -255,34 +255,36 @@
 	}
 	"< The fight with SandMonster will begin in 10 seconds >"
 	{
-		"chi"		"** **"
+		"chi"		"**与沙怪的战斗将在10秒后开始(还不进来的准备去尸笼吧) **"
 	}
 	"< ZM Mode >"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM模式(找到莫古传送行进行快速传送) **"
 	}
 	"< This map is a test version >"
 	{
-		"chi"		"** **"
+		"chi"		"**这张地图目前是测试版本 **"
 	}
 	"< Actually, I dont know the updates to this map >"
 	{
-		"chi"		"** **"
+		"chi"		"**实际上，我不知道如何更新这张地图 **"
 	}
 	"< But,who fucking care.XD >"
 	{
-		"chi"		"** **"
+		"chi"		"**但是，又会有谁在意呢.XD **"
 	}
 	"< Just listen to the music for relaxing >"
 	{
-		"chi"		"** **"
+		"chi"		"**尽情的放松来听好听的音乐吧 **"
 	}
 	"< 2 minutes >"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩2分钟 **"
+		"DoorCountDown"		"-1"
 	}
 	"< 1 minutes >"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩1分钟 **"
+		"DoorCountDown"		"-1"
 	}
 }
