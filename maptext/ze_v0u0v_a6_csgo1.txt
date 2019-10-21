@@ -376,4 +376,8 @@
 	{
 		"syncvalue"		"43667"
 	}
+	">>> ROUTE 2 : HOLD 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
 }
