@@ -89,6 +89,7 @@
 	"** DOOR IS OPENING **"
 	{
 		"chi"		"** 门打开了 **"
+		"DoorCountdown"		"15"
 	}
 	"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
 	{
@@ -96,7 +97,7 @@
 	}
 	"** STAGE COMPLETED **"
 	{
-		"chi"		"** 阶段已完成 **"
+		"chi"		"** 当前阶段已完成，准备进入下一阶段 **"
 	}
 	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
 	{
@@ -172,6 +173,7 @@
 	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
 	{
 		"chi"		"** 守住建筑，直到平民安全撤离！ **"
+		"DoorCountdown"		"30"
 	}
 	"** DEFEND THIS PLACE FOR 35 SECONDS **"
 	{
@@ -238,24 +240,27 @@
 	}
 	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
 	{
-		"chi"		"** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存80秒 **"
+		"chi"		"** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **"
+		"DoorCountdown"		"-1"
 	}
 	"** All humans at bottom part will die in 15 seconds **"
 	{
 		"chi"		"** 下层的所有人类都会在15秒后死亡 **"
+		"DoorCountdown"		"-1"
 	}
 	"** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
 	{
 		"chi"		"** 这是地图的最后一个防守区域 ** 想办法生存到最后 **"
+		"DoorCountdown"		"-1"
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
-		"chi"		"** 防守主大门，为了继续在米纳斯顶部防守 **"
+		"chi"		"** 防守主大门，为了接下来可以继续到达米纳斯顶部防守 **"
 	}
 	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
 	{
-		"chi"		"** 幽灵军队正在赶来！为最后的防守做好准备 **"
-		"DoorCountdown"		"140"
+		"chi"		"** 幽灵军队正在赶来！为最后的决战做好准备 **"
+		"DoorCountdown"		"150"
 	}
 	"** Thanks to Kaemon **"
 	{
@@ -264,10 +269,12 @@
 	"** Catapult 1 activated **"
 	{
 		"chi"		"** 一号投石机已激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"** Catapult 2 activated **"
 	{
 		"chi"		"** 二号投石机已激活 **"
+		"DoorCountdown"		"-1"
 	}
 	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
 	{
@@ -323,6 +330,7 @@
 	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
 	{
 		"chi"		"** 热身回合 ** 核爆将在10秒后启用 **"
+		"DoorCountdown"		"-1"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
