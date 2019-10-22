@@ -378,11 +378,11 @@
 		"chi"		"**找到仙人掌了.找到仙人掌的玩家提升了1级. **"
 		"DoorCountdown"		"-1"
 	}
-	"**Zombie items have been enabled!**"
+	"** Zombie items have been enabled! **"
 	{
 		"chi"		"**僵尸神器已可以使用 **"
 	}
-	"**Zombie items have been disabled for the duration of the boss fight!**"
+	"** Zombie items have been disabled for the duration of the boss fight! **"
 	{
 		"chi"		"**在与Boss战斗期间，僵尸神器已被禁用！ **"
 	}
@@ -393,13 +393,5 @@
 	"**Oh no the sword disappeared..We will be back there next time..**"
 	{
 		"chi"		"**Oh,no，终极之剑消失了..下次我们还会回到这里的.. **"
-	}
-	"** Zombie items have been disabled for the duration of the boss fight! **"
-	{
-		"chi"		"** **"
-	}
-	"** Zombie items have been enabled! **"
-	{
-		"chi"		"** **"
 	}
 }
