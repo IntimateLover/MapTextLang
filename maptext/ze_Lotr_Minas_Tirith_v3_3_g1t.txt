@@ -186,7 +186,7 @@
 	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
 	{
 		"chi"		"** 再等一下！还有其他的幸存者正在赶来 **"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"27"
 	}
 	"** THE POSITION IS LOST ** RETREAT **"
 	{
@@ -237,6 +237,7 @@
 	"** LIFT IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"** 升降梯将在10秒后离开 **"
+		"DoorCountdown"		"10"
 	}
 	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
 	{
@@ -279,6 +280,7 @@
 	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
 	{
 		"chi"		"** 守住这个地方70秒 **"
+		"DoorCountdown"		"70"
 	}
 	"** DOORS UNLOCKED ** RETREAT ! **"
 	{
@@ -367,7 +369,7 @@
 	}
 	"** WATCH OUT! **"
 	{
-		"chi"		"** 注意投石机的攻击！  **"
+		"chi"		"** 注意投石机的攻击！门开了，快撤退！  **"
 	}
 	"** ADMIN PRESSED KILL ALL BUTTON **"
 	{
