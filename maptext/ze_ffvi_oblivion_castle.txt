@@ -1,0 +1,95 @@
+"Console_T"
+{
+	"Difficulty : Easy"
+	{
+		"chi"		"**当前难度：简单**"
+	}
+	"Metal Breaks in 15 Seconds!"
+	{
+		"chi"		"**铁门将在15秒后破碎**"
+	}
+	"Teleporting Zombies!"
+	{
+		"chi"		"**传送僵尸！**"
+	}
+	"Doors Opening 30 Seconds!"
+	{
+		"chi"		"**门将在30秒后开**"
+	}
+	"Metal Breaks in 20 Seconds"
+	{
+		"chi"		"**铁门将在20秒后开**"
+	}
+	"Doors are Opening!"
+	{
+		"chi"		"**门开了！**"
+	}
+	"Metal Broke"
+	{
+		"chi"		"**铁门碎了**"
+	}
+	"Teleporting Zombies in 10 Seconds!"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"Metal Breaks in 35 Seconds!"
+	{
+		"chi"		"**铁门将在35秒后碎掉**"
+	}
+	"Metal Broke!"
+	{
+		"chi"		"**铁门碎了！**"
+	}
+	"Doors Opening in 15 Seconds!"
+	{
+		"chi"		"**门将在15秒后打开！小心被夹死！**"
+	}
+	"Doors Opening in 20 Seconds!"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+	"Hold for 10 Seconds!"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"Bombs Exploding in 20 Seconds, Hold!"
+	{
+		"chi"		"**炸弹将在20秒后爆炸，坚持一下！**"
+	}
+	"Shot this Glass!"
+	{
+		"chi"		"**射击玻璃！**"
+	}
+	"Doors Opening!"
+	{
+		"chi"		"**门开了！**"
+	}
+	"Teleporting Zombies in 5 Seconds!"
+	{
+		"chi"		"**僵尸将在5秒后传送**"
+	}
+	"Metal Breaks in 15 Seconds"
+	{
+		"chi"		"**铁门将在15秒后碎掉**"
+	}
+	"Ladders Opening in 10 Seconds!"
+	{
+		"chi"		"**梯子将在10秒后打开！**"
+	}
+	"Teleporting Zombies! Fall back!"
+	{
+		"chi"		"**传送僵尸！撤退！**"
+	}
+	"Explosion in 20 Seconds!"
+	{
+		"chi"		"**20秒后爆炸！**"
+	}
+	"Door Opens in 30 seconds!"
+	{
+		"chi"		"**门将在30秒后打开**"
+	}
+	"Door opens in 15 Seconds"
+	{
+		"chi"		"**门将在15秒后打开**"
+	}
+}

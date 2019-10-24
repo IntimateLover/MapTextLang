@@ -55,7 +55,7 @@
 	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
 		"chi"		"**僵尸在17秒后释放 **"
-		"DoorCountdown"		"17"
+		"DoorCountDown"		"17"
 	}
 	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
 	{
@@ -96,7 +96,7 @@
 	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
 	{
 		"chi"		"**光桥在20秒后激活 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"++ LIGHTBRIDGE ACTIVATED ++"
 	{
@@ -105,7 +105,7 @@
 	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
 	{
 		"chi"		"**电梯将在5秒后离开 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"++ LIGHTBRIDGE DEACTIVATED ++"
 	{
@@ -118,7 +118,7 @@
 	"+++ 60 SECONDS OF COOLDOWN. +++"
 	{
 		"chi"		"**它有60秒的冷却时间. **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
 	{
@@ -127,7 +127,7 @@
 	"++ FUEL FOR 10 SECONDS ++"
 	{
 		"chi"		"**它有10秒钟的燃料 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"sync_version"
 	{
@@ -136,6 +136,6 @@
 	"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
 	{
 		"chi"		"**光桥将在15秒后激活**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 }

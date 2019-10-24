@@ -31,7 +31,7 @@
 	"***** Nuke Squad Will Arrive in 90 Seconds *****"
 	{
 		"chi"		"** 我大天朝核弹剩余 90秒 引爆 请抵御僵尸攻击 **"
-		"DoorCountdown"		"90"
+		"DoorCountDown"		"90"
 	}
 	"***** Nuke Squad Is Here *****"
 	{
