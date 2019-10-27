@@ -290,4 +290,16 @@
 		"hammerid"		"4356"
 		"m_iname"		"capstone"
 	}
+	"16959"
+	{
+		"enable"		"0"
+		"hammerid"		"16959"
+		"m_iname"		"aki_piedra2"
+	}
+	"17662"
+	{
+		"enable"		"0"
+		"hammerid"		"17662"
+		"m_iname"		"aki_piedra1"
+	}
 }

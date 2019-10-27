@@ -1,0 +1,99 @@
+"Console_T"
+{
+	"***Map by iXi***"
+	{
+		"chi"		"**地图作者：iXi   翻译：Misaka**"
+	}
+	"***Chapter 1: Escape From Renais***"
+	{
+		"chi"		"**第一章：逃离Renais**"
+	}
+	"***A Player has picked up Shield***"
+	{
+		"chi"		"**一名玩家拾取了护盾**"
+	}
+	"***A Player has picked up Heal***"
+	{
+		"chi"		"**一名玩家拾取了治疗**"
+	}
+	"***Activating Teleporter - Please Hold***"
+	{
+		"chi"		"**正在激活传送，请等待**"
+	}
+	"<<<We must get through this forest and head to Frelia and ask for help from King Hayden>>>"
+	{
+		"chi"		">>>我们必须穿过森林到达Frelia然后向Hayden国王寻求帮助<<<"
+	}
+	"<<<Path is blocked off by Grados spell...Please wait...>>>"
+	{
+		"chi"		">>>路被Grados的技能挡住了，请等待<<<"
+	}
+	"<<<We need to retrieve the 5 sacred stones>>>"
+	{
+		"chi"		">>>我们需要检索5个神圣之石<<<"
+	}
+	"***Defend for 25 sec***"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"***Zombie tp in 15 sec***"
+	{
+		"chi"		"**僵尸将在15秒后传送**"
+	}
+	"<<<Looks like we have found an ancient ruin....there should be 3 monuments that will lead us...>>>"
+	{
+		"chi"		">>>看起来我们找到了一个古老的遗迹，3个遗迹将会引领我们<<<"
+	}
+	"<<<We need to destroy these roots that are draining the power of the tree>>>"
+	{
+		"chi"		">>>我们需要摧毁这些吸收树的能量的根<<<"
+	}
+	"***The way will be opened in 25 sec***"
+	{
+		"chi"		"**路将在25秒后打开**"
+	}
+	"***Tree purified...Enabling teleport***"
+	{
+		"chi"		"**树已经净化了，正在准备传送**"
+	}
+	"<<<Sacred Guardian has appeared>>>"
+	{
+		"chi"		">>>神圣守卫出现了<<<"
+	}
+	"***The Guardian has learned Mega Earthquake (increased damage)***"
+	{
+		"chi"		"**守卫已经学会了超级地震（增加伤害）**"
+	}
+	"***Guardian has revived trees around the arena***"
+	{
+		"chi"		"**守卫复活了竞技场周围的树**"
+	}
+	"<<<Congratulations! Advancing  to next chapter...>>>"
+	{
+		"chi"		">>>恭喜！准备开始下一章节<<<"
+	}
+	"<<<Path is blocked, perhaps we can destroy the crystal...>>>"
+	{
+		"chi"		">>>路被挡住了，也许我们可以摧毁那个水晶<<<"
+	}
+	"<<<These red crystals appear to be some kind of trigger?>>>"
+	{
+		"chi"		">>>看起来这个红色水晶是什么东西的触发？<<<"
+	}
+	"<<<The stone must be in the room>>>"
+	{
+		"chi"		">>>石头一定是在屋子里！<<<"
+	}
+	"***1st crystal is fading"
+	{
+		"DoorCountDown"		"-1"
+	}
+	"***2nd crystal is fading***"
+	{
+		"DoorCountDown"		"-1"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"15087"
+	}
+}
