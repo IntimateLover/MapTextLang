@@ -128,4 +128,16 @@
 	{
 		"syncvalue"		"98514"
 	}
+	">>Door opening in 40 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	">>Door will open in 15 sec<<"
+	{
+		"chi"		"** **"
+	}
+	">>Door opens in 45 seconds<<"
+	{
+		"chi"		"** **"
+	}
 }

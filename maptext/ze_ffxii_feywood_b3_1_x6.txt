@@ -50,10 +50,12 @@
 	"**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
 	{
 		"chi"		"**一位玩家拿起了补给**"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸拿起了秒杀-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**GET INTO THE TELEPORTER**"
 	{
@@ -62,6 +64,7 @@
 	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸拿起了奶-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE GATE WILL OPEN IN 20 SECONDS**"
 	{
@@ -71,6 +74,7 @@
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸拿起了火-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**"
 	{
@@ -80,6 +84,7 @@
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**DEFEND THE GROUND FOR 30 SECONDS**"
 	{
@@ -89,6 +94,7 @@
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了冰-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE GATES WILL OPEN IN 20 SECONDS**"
 	{
@@ -98,10 +104,12 @@
 	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
 	{
 		"chi"		"**一位僵尸拿起了黑洞-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了风-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**Cactus found. The player who did it got 1 level**"
 	{
@@ -110,6 +118,7 @@
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了奶-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**THIS IS A DRAGON**WE MUST KILL HIM**"
 	{
@@ -130,6 +139,7 @@
 	"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
 	{
 		"chi"		"**巨龙开始吸收攻击-一颗子弹恢复10HP**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE DRAGON IS FLYING AWAY**GOOD WORK**"
 	{
@@ -167,10 +177,12 @@
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了火-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了电-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE ROCK WILL EXPLODE IN 15 SECONDS**"
 	{
@@ -193,10 +205,12 @@
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
 	{
 		"chi"		"**一位玩家拿起了电-Lv.1**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了奶-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**"
 	{
@@ -268,6 +282,7 @@
 	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸拿起了奶-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**"
 	{
@@ -277,18 +292,22 @@
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了奶-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了冰-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了火-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**"
 	{
@@ -340,6 +359,7 @@
 	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了冰-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
@@ -385,6 +405,7 @@
 	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸拿起了奶-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
 	{
@@ -393,6 +414,7 @@
 	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了黑洞-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**"
 	{
@@ -411,6 +433,7 @@
 	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了电-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE FENCES WILL OPEN SOON**"
 	{
@@ -419,6 +442,7 @@
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
 	{
 		"chi"		"**一位玩家拿起了风-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**"
 	{
@@ -482,14 +506,17 @@
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸拿起了火-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了风Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
 	{
 		"chi"		"**一位玩家拿起了火-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**"
 	{
@@ -514,11 +541,13 @@
 	}
 	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
 	{
-		"chi"		"**一位僵尸拿起了黑洞-Lv.3**"
+		"chi"		"**一位僵尸拿起了黑洞-lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
 	{
 		"chi"		"**一位僵尸拿起了秒杀-Lv.2**"
+		"DoorCountDown"		"-1"
 	}
 	"**THE DRAGON HAS CAST DARKAGA**"
 	{
@@ -527,6 +556,7 @@
 	"**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸拿起了黑洞-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**CHUCHULAINN HAS USED SHIELD(YOU CANT USE ITEMS FOR 10 SEC)**"
 	{
@@ -539,6 +569,7 @@
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
 	{
 		"chi"		"**一位僵尸拿起了秒杀-Lv.3**"
+		"DoorCountDown"		"-1"
 	}
 	"**ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
 	{
@@ -567,6 +598,7 @@
 	"**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**"
 	{
 		"chi"		"**这是最后的机会**手雷和子弹能造成200%的伤害 **"
+		"DoorCountDown"		"-1"
 	}
 	"(allahu-akbar)"
 	{

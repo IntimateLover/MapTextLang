@@ -2,45 +2,45 @@
 {
 	"DOOR OPENS IN 35 SECONDS"
 	{
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 		"chi"		"**门还有35秒开启**"
 	}
 	"DOOR WILL OPEN IN 25 SECONDS"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"THE DOOR WILL OPEN IN 30 SECONDS"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"THE DOOR WILL OPEN IN 20 SECONDS"
 	{
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"A WAY WILL OPEN IN 15 SECONDS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
 	{
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 		"chi"		"**两边的路25秒后开启，保持防御**"
 	}
 	"ELEVATOR WILL RISE IN 30 SECONDS"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"THE NEXT DOORS WILL OPEN IN 15 SECONDS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"ELEVATOR WILL RISE IN 15 SECONDS"
 	{
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"THE DOORS WILL OPEN IN 30 SECONDS"
 	{
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"MAP BY GEORGE"
 	{
@@ -68,91 +68,92 @@
 	}
 	"STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
 	{
-		"chi"		"** **"
+		"chi"		"**第二阶段 和谐的空间创造**"
 	}
 	"A WAY WILL OPEN IN 40 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**道路40秒后打开**"
 	}
 	"KEEP HOLDING! 15 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防守,还剩15秒**"
 	}
 	"THE WAY WILL OPEN IN 20 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**路在20秒后打开**"
 	}
 	"THE ELEVATOR WILL RISE IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯30秒后上升**"
 	}
 	"THE DOORS WILL OPEN IN 25 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**门在25秒后打开**"
 	}
 	"RESIST FOR 30 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**再坚持30秒**"
 	}
 	"STAGE 3 - HEAVENLY SPACED CONTAINMENT"
 	{
-		"chi"		"** **"
+		"chi"		"**第三阶段 天空隔离空间**"
 	}
 	"TELEPORT ACTIVATES IN 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**离传送还剩20秒**"
 	}
 	"A WAY WILL OPEN IN 35 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**35秒**"
 	}
 	"DOORS OPENING IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后开门**"
 	}
 	"DOORS OPENING IN 25 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒后开门**"
 	}
 	"ELEVATOR RISES IN 15 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后门开**"
 	}
 	"50 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**50秒**"
 	}
 	"40 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒**"
 	}
 	"30 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒**"
 	}
 	"20 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒**"
 	}
 	"10 seconds left"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒**"
 	}
 	"FALL BACK - DOOR IS OPENING"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 门开了**"
+		"DoorCountDown"		"3"
 	}
 	"DOOR OPENS IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**30s后开门**"
 	}
 	"DOOR OPENS IN 15 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后开门**"
 	}
 	"KEEP RESISTING! THE NEXT DOOR OPENS IN 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防守,下个门20秒后打开**"
 	}
 	"MapGlobal_ConVars"
 	{
