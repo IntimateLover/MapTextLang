@@ -251,7 +251,7 @@
 	}
 	"** ZOMBIES DETECTED - INVALID VICTORY! **"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到僵尸！回合失败**"
 	}
 	"** CHAPTER 2 COMPLETED - UNLOCKING CHAPTER 3 **"
 	{

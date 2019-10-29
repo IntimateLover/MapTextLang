@@ -152,6 +152,7 @@
 	"***Complete the surf and you will award 100 scores and a molotov!***"
 	{
 		"chi"		"**完成滑翔的人将会奖励100分和1个燃烧瓶！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Hold the chicken for last 35s!***"
 	{
@@ -252,13 +253,13 @@
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往后的推力！（准备按住W）**"
-		"DoorCountdown"		"3"
+		"DoorCountdown"		"0"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往前的推力！（准备按住S）**"
-		"DoorCountdown"		"3"
+		"DoorCountdown"		"0"
 		"ico"		"icon_fire"
 	}
 	"***Hold for 45s!***"
@@ -273,6 +274,7 @@
 	"***Hold here for 25s or complete last surf!***"
 	{
 		"chi"		"**坚守这里25秒或者完成最后的滑翔！**"
+		"DoorCountdown"		"-1"
 	}
 	"***All zombies will come in 20s!***"
 	{
@@ -297,13 +299,13 @@
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往左的推力！（准备按住D）**"
-		"DoorCountdown"		"3"
+		"DoorCountdown"		"0"
 		"ico"		"icon_fire"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往右的推力！（准备按住A）**"
-		"DoorCountdown"		"3"
+		"DoorCountdown"		"0"
 		"ico"		"icon_fire"
 	}
 	"***A human has picked up unlimited ammo!***"
@@ -404,7 +406,6 @@
 	}
 	"***Laser race will begin later!***"
 	{
-
 		"chi"		"**跳刀竞赛将要开始！**"
 	}
 	"***Teleport all players in 20s! ***"

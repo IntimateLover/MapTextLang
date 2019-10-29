@@ -31,6 +31,7 @@
 	"<<<We need to retrieve the 5 sacred stones>>>"
 	{
 		"chi"		">>>我们需要检索5个神圣之石<<<"
+		"DoorCountdown"		"-1"
 	}
 	"***Defend for 25 sec***"
 	{
@@ -43,6 +44,7 @@
 	"<<<Looks like we have found an ancient ruin....there should be 3 monuments that will lead us...>>>"
 	{
 		"chi"		">>>看起来我们找到了一个古老的遗迹，3个遗迹将会引领我们<<<"
+		"DoorCountdown"		"-1"
 	}
 	"<<<We need to destroy these roots that are draining the power of the tree>>>"
 	{
@@ -86,10 +88,10 @@
 	}
 	"***1st crystal is fading"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***2nd crystal is fading***"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 }
