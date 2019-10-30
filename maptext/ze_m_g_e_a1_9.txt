@@ -157,4 +157,40 @@
 	{
 		"chi"		"** **"
 	}
+	"*stage 2*"
+	{
+		"chi"		"** **"
+	}
+	"*hold there 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"*hold there 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"*hold there 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"*hold here 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*you need alive 120 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*teleport open*"
+	{
+		"chi"		"** **"
+	}
+	"*alive 60seconds or die*"
+	{
+		"chi"		"** **"
+	}
+	"*hold here,every 20 seaonds break color wood*"
+	{
+		"chi"		"** **"
+	}
 }

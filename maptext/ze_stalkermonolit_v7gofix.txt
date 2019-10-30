@@ -32,22 +32,22 @@
 		"chi"		"**第四关 **"
 		"DoorCountdown"		"-1"
 	}
-	"**Level 1**"
+	"**level 1**"
 	{
 		"chi"		"**第一关 **"
 		"DoorCountdown"		"-1"
 	}
-	"**Level 2**"
+	"**level 2**"
 	{
 		"chi"		"**第二关 **"
 		"DoorCountdown"		"-1"
 	}
-	"**Level 3**"
+	"**level 3**"
 	{
 		"chi"		"**第三关 **"
 		"DoorCountdown"		"-1"
 	}
-	"**Level 4**"
+	"**level 4**"
 	{
 		"chi"		"**第四关 **"
 		"DoorCountdown"		"-1"
@@ -75,12 +75,13 @@
 	"**defend 30s**"
 	{
 		"chi"		"**防守30秒 **"
+		"DoorCountdown"		"30"
 	}
 	"**ZM Teleport**"
 	{
 		"chi"		"**僵尸传送 **"
 	}
-	"**Defend 30s**"
+	"**defend 30s**"
 	{
 		"chi"		"**防守30秒 **"
 	}
@@ -91,6 +92,7 @@
 	"**hold the train for 30 sec**"
 	{
 		"chi"		"**防守火车30秒 **"
+		"DoorCountdown"		"30"
 	}
 	"**jump on the train**"
 	{
@@ -99,6 +101,7 @@
 	"**Defend 25s**"
 	{
 		"chi"		"**防守25秒 **"
+		"DoorCountdown"		"25"
 	}
 	"*** lets go ***"
 	{
@@ -146,11 +149,12 @@
 	}
 	"**A player picked up firegun**"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了手枪**"
 	}
 	"**The door will open in 15 seconds**"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"15"
 	}
 	"**shoot the helicopter**"
 	{
@@ -163,10 +167,12 @@
 	"**BTR will leave in 20sec**"
 	{
 		"chi"		"**BTR将在20秒后离开 **"
+		"DoorCountdown"		"20"
 	}
 	"**Door will Close 15 second**"
 	{
 		"chi"		"**大门将在15秒后关闭 **"
+		"DoorCountdown"		"15"
 	}
 	"*** ZM INSIDE KILL HIM ***"
 	{
@@ -196,12 +202,13 @@
 	"**Defend 20 second**"
 	{
 		"chi"		"**防守20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"**Zombie have been teleported**"
 	{
 		"chi"		"**僵尸已经被传送 **"
 	}
-	"**defend 25s**"
+	"**Defend 25s**"
 	{
 		"chi"		"**防守25秒 **"
 	}
@@ -216,10 +223,12 @@
 	"**defend 20s**"
 	{
 		"chi"		"**防守20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"**Helicopter leaving in 25 sec**"
 	{
 		"chi"		"**直升机在25秒后离开 **"
+		"DoorCountdown"		"25"
 	}
 	"**Helicopter is going to the end of train, move on!**"
 	{
@@ -240,6 +249,7 @@
 	"**doors will close in 50sec**"
 	{
 		"chi"		"**大门将在50秒后关闭 **"
+		"DoorCountdown"		"50"
 	}
 	"**doors are closing**"
 	{
@@ -264,14 +274,17 @@
 	"**Elevator 10 second**"
 	{
 		"chi"		"**电梯还有10秒 **"
+		"DoorCountdown"		"10"
 	}
 	"**The door will open in 20 seconds**"
 	{
 		"chi"		"**大门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"**The door will open in 25 seconds**"
 	{
 		"chi"		"**大门将在25秒后打开 **"
+		"DoorCountdown"		"25"
 	}
 	"**Password 8191335**"
 	{
@@ -416,5 +429,9 @@
 	"**Defend 15s**"
 	{
 		"chi"		"**防守15秒 **"
+	}
+	"**Door will Open25s**"
+	{
+		"chi"		"**门将25秒后打开**"
 	}
 }

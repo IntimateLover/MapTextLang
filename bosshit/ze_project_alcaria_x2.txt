@@ -222,4 +222,46 @@
 		"hammerid"		"2804288"
 		"m_iname"		"nrk_item_biobomb_break"
 	}
+	"3711885"
+	{
+		"enable"		"0"
+		"hammerid"		"3711885"
+		"m_iname"		"nrk4_final_breakable"
+	}
+	"1788109"
+	{
+		"enable"		"0"
+		"hammerid"		"1788109"
+		"m_iname"		"nrk_npc_CY01Physic1&3165"
+	}
+	"1788130"
+	{
+		"enable"		"1"
+		"hammerid"		"1788130"
+		"m_iname"		"nrk_npc_hitbox&3165"
+	}
+	"3768478"
+	{
+		"enable"		"1"
+		"hammerid"		"3768478"
+		"m_iname"		"nrk5_boss_CY01Physic"
+	}
+	"3768666"
+	{
+		"enable"		"1"
+		"hammerid"		"3768666"
+		"m_iname"		"nrk5_boss_hitbox"
+	}
+	"3837159"
+	{
+		"enable"		"0"
+		"hammerid"		"3837159"
+		"m_iname"		"nrk3_biobomb_model"
+	}
+	"2678464"
+	{
+		"enable"		"0"
+		"hammerid"		"2678464"
+		"m_iname"		"nrk_item_missile_break"
+	}
 }
