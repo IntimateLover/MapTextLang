@@ -6,7 +6,7 @@
 	}
 	"**models and textures Zombie**"
 	{
-		"chi"		"**僵尸模型和纹理 **"
+		"chi"		"**还有僵尸模型和纹理 **"
 	}
 	"**Map By Batnik_Reference.smd and Microsoft Edge**"
 	{
@@ -109,34 +109,36 @@
 	}
 	"**He is using an energy shield. Destroy 4 generators**"
 	{
-		"chi"		"**他使用了能量盾.破坏4个发生器 **"
+		"chi"		"**他使用了能量盾.破坏四个发生器 **"
+		"DoorCountdown"		"-1"
 	}
 	"**Destroy them first**"
 	{
-		"chi"		"**先破坏它们 **"
+		"chi"		"**第一时间破坏四个发生器 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** CONTROLLER Uses electric field WARNING ***"
 	{
-		"chi"		"**管理者使用电场警告 **"
+		"chi"		"**警告：管理者使用电场，注意躲避 **"
 	}
 	"**2 generator was destroyed**"
 	{
-		"chi"		"**2个发生器被摧毁 **"
+		"chi"		"**第二个发生器被摧毁 **"
 		"DoorCountdown"		"-1"
 	}
 	"**1 generator was destroyed**"
 	{
-		"chi"		"**1个发生器被摧毁 **"
+		"chi"		"**第一个发生器被摧毁 **"
 		"DoorCountdown"		"-1"
 	}
 	"**3 generator was destroyed**"
 	{
-		"chi"		"**3个发生器被摧毁 **"
+		"chi"		"**第三个发生器被摧毁 **"
 		"DoorCountdown"		"-1"
 	}
 	"**4 generator was destroyed**"
 	{
-		"chi"		"**4个发生器被摧毁 **"
+		"chi"		"**第四个发生器被摧毁 **"
 		"DoorCountdown"		"-1"
 	}
 	"**controller ran away**"
@@ -147,13 +149,9 @@
 	{
 		"chi"		"**让我们继续前进 **"
 	}
-	"**A player picked up firegun**"
-	{
-		"chi"		"**一位玩家拿起了手枪**"
-	}
 	"**The door will open in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后打开 **"
 		"DoorCountdown"		"15"
 	}
 	"**shoot the helicopter**"
@@ -166,7 +164,7 @@
 	}
 	"**BTR will leave in 20sec**"
 	{
-		"chi"		"**BTR将在20秒后离开 **"
+		"chi"		"**BTR卡车将在20秒后离开 **"
 		"DoorCountdown"		"20"
 	}
 	"**Door will Close 15 second**"
@@ -180,12 +178,13 @@
 	}
 	"*** NO 1 ZOMBIE INSIDE NICE WIN ***"
 	{
-		"chi"		"**没有一只僵尸在里面不错的胜利 **"
+		"chi"		"**没有一只僵尸在里面，不错的胜利 **"
 		"DoorCountdown"		"-1"
 	}
 	"**2 lasers**"
 	{
-		"chi"		"**注意，有2刀 **"
+		"chi"		"**注意，同时有2刀出现(大跳躲避) **"
+		"DoorCountdown"		"-1"
 	}
 	"**lower laser**"
 	{
@@ -193,11 +192,11 @@
 	}
 	"**upper laser**"
 	{
-		"chi"		"**低刀 **"
+		"chi"		"**高刀(可以大跳不推荐) **"
 	}
 	"**Random Laser Monolit**"
 	{
-		"chi"		"**随机跳刀 **"
+		"chi"		"**注意：准备随机跳刀 **"
 	}
 	"**Defend 20 second**"
 	{
@@ -289,6 +288,7 @@
 	"**Password 8191335**"
 	{
 		"chi"		"**密码 8191335 **"
+		"DoorCountdown"		"5"
 	}
 	"**The door will open in 15 seconds**"
 	{
