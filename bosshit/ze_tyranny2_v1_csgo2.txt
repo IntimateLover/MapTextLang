@@ -1056,4 +1056,10 @@
 		"hammerid"		"6935890"
 		"m_iname"		"s4boss_atk_gravcannon_phy&8681"
 	}
+	"6936867"
+	{
+		"enable"		"1"
+		"hammerid"		"6936867"
+		"m_iname"		"s4boss_atk_crystal_model&8922"
+	}
 }

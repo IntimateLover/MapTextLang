@@ -1134,4 +1134,16 @@
 		"hammerid"		"89311"
 		"m_iname"		"st5_boss_rway"
 	}
+	"189987"
+	{
+		"enable"		"0"
+		"hammerid"		"189987"
+		"m_iname"		"st3_break3"
+	}
+	"77307"
+	{
+		"enable"		"1"
+		"hammerid"		"77307"
+		"m_iname"		"st4_final_boss_break"
+	}
 }

@@ -186,4 +186,22 @@
 		"hammerid"		"41756"
 		"m_iname"		"insane_laser_break"
 	}
+	"101259"
+	{
+		"enable"		"0"
+		"hammerid"		"101259"
+		"m_iname"		"th_target4"
+	}
+	"101425"
+	{
+		"enable"		"1"
+		"hammerid"		"101425"
+		"m_iname"		"boss_fhurt_hitbox"
+	}
+	"100960"
+	{
+		"enable"		"0"
+		"hammerid"		"100960"
+		"m_iname"		"th_target2"
+	}
 }

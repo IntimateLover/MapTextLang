@@ -303,4 +303,22 @@
 		"hammerid"		"27599"
 		"m_iname"		"Hashmel_Hitbox"
 	}
+	"3321436"
+	{
+		"enable"		"0"
+		"hammerid"		"3321436"
+		"m_iname"		"Stage_1_Hold_3_Crystall_2"
+	}
+	"3322752"
+	{
+		"enable"		"0"
+		"hammerid"		"3322752"
+		"m_iname"		"Stage_1_Hold_3_Crystall_1"
+	}
+	"3586584"
+	{
+		"enable"		"0"
+		"hammerid"		"3586584"
+		"m_iname"		"Stage_1_Hold_1_Break"
+	}
 }

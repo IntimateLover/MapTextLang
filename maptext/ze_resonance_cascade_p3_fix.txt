@@ -31,12 +31,12 @@
 	}
 	"* Elevators departing in 10 seconds! *"
 	{
-		"chi"		"电梯10秒后到达！"
+		"chi"		"**电梯10秒后离开**"
 	}
 	"DoorCountdown"		"10"
 	"* Elevators departing now! *"
 	{
-		"chi"		"电梯已到达"
+		"chi"		"**电梯正在下降**"
 	}
 	"* ATTENTION! *"
 	{
