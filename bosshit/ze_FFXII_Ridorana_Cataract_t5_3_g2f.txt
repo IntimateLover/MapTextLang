@@ -15,6 +15,8 @@
 	"32490"
 	{
 		"enable"		"1"
+		"hammerid"		"32490"
+		"m_iname"		"Stage_2_End_Boss_Phys"
 	}
 	"32269"
 	{
@@ -320,5 +322,11 @@
 		"enable"		"0"
 		"hammerid"		"3586584"
 		"m_iname"		"Stage_1_Hold_1_Break"
+	}
+	"32493"
+	{
+		"enable"		"0"
+		"hammerid"		"32493"
+		"m_iname"		"Stage_2_End_Dragon_Phys"
 	}
 }
