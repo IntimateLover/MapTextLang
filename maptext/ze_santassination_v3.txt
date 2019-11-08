@@ -2,7 +2,6 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
-		"command"		"zr_class_modify humans health 300"
 		"chi"		"**距离岩石墙碎裂还有15秒**"
 		"DoorCountDown"		"15"
 	}
@@ -1356,45 +1355,6 @@
 	"***STAGE SET - PROLOGUE***"
 	{
 		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_flash_limit 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_he_limit 6"
-		}
-		"3"
-		{
-			"cvar"		"sm_smoke_limit 3"
-		}
-		"4"
-		{
-			"cvar"		"sm_molotov_limit 5"
-		}
-		"5"
-		{
-			"cvar"		"sm_decoy_limit 2"
-		}
-		"6"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"7"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"8"
-		{
-			"cvar"		"sm_g_cv_money 16000"
-		}
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
 	{
