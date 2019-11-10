@@ -11,12 +11,12 @@
 	"**ZE_FFVII_COSMO_CANYON**"
 	{
 		"chi"		"**最终幻想7：宇宙大峡谷**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**NORMAL MODE**"
 	{
 		"chi"		"**普通模式**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
 	{
@@ -25,7 +25,7 @@
 	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
 	{
 		"chi"		"**[赤红13]不要担心.我知道这个地方.我就是在这里出生的..**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
 	{
@@ -34,12 +34,12 @@
 	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
 	{
 		"chi"		"**[赤红13]没错.但我需要做些事情.我在基族洞穴等你**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] There I will give you all the stuff you need."
 	{
 		"chi"		"**[赤红13]我会在那里把你需要的东西带给你**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] No problem. I will wait for you in there.."
 	{
@@ -112,7 +112,7 @@
 	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
 	{
 		"chi"		"**[赤红13]是的.它帮了我很多忙.你还有什么要问的吗？这些东西给你.**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Thanks. But one question.. What did we forget here?"
 	{
@@ -121,12 +121,12 @@
 	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
 	{
 		"chi"		"**[赤红13]这里是古老的基族洞穴..我的父亲以前在这里跟基纳塔克战斗过..**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
 	{
 		"chi"		"**[赤红13]为了拯救宇宙峡谷他牺牲了自己**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Oh what a pity.."
 	{
@@ -135,7 +135,7 @@
 	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
 	{
 		"chi"		"**[赤红13]不要把这个记到心里去.他像英雄一样死去.我希望你们能帮我打败基纳塔克**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
 	{
@@ -157,7 +157,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**基纳塔克恢复了150HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Gi Nattak is using aspil**"
 	{
@@ -196,7 +196,7 @@
 	"**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**"
 	{
 		"chi"		"**基纳塔克使用了终极-快阻止它!**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 		"ico"		"icon_tip"
 	}
 	"**Gi Nattack is escaped**"
@@ -226,7 +226,7 @@
 	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
 	{
 		"chi"		"**[赤红13]恭喜!你做到了..但基纳塔克逃走了..我们一定要再次打败它**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**NORMAL mode was beaten. Unlocking HARD mode **"
 	{
@@ -263,7 +263,7 @@
 	"[Red-XIII] Hope he will not escape this time? I afraid that we could attract extra attention.."
 	{
 		"chi"		"**[赤红13]希望这次不要再让他逃了.但是我怕会引起更多注意**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
 	{
@@ -292,12 +292,12 @@
 	"[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
 	{
 		"chi"		"**[赤红13]那个人从哪里得到召唤巴哈姆特的力量**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all.."
 	{
 		"chi"		"**[赤红13]无论如何我们必须打败基纳塔克..**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**...Are you surprised?...**"
 	{
@@ -314,7 +314,7 @@
 	"[Red-XIII] Cloud do you know that guy?"
 	{
 		"chi"		"**[赤红13]克劳德.你认识那个家伙吗?**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
 	{
@@ -323,7 +323,7 @@
 	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
 	{
 		"chi"		"**[赤红13]可能他需要基纳塔克的灵魂..因为它蕴含着巨大的力量.**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
 	{
@@ -337,13 +337,13 @@
 	"**GI NATTAK USES LAVA SUPERATTACK**"
 	{
 		"chi"		"**基纳塔克使用了熔岩上升**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 		"ico"		"icon_tip"
 	}
 	"**Get on the rocks to get saved!!!**"
 	{
 		"chi"		"**快跑到突起的石头上!**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 		"ico"		"icon_tip"
 	}
 	"[Genesis] Huh.. Did not think that you will survive.."
@@ -389,7 +389,7 @@
 	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
 	{
 		"chi"		"**[克劳德]赤红13会留在这里帮助重建村庄**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**A player has picked up SLEEP materia**"
 	{
@@ -446,7 +446,7 @@
 	"**The power is lost. Defend until the emergency generators are on**"
 	{
 		"chi"		"**电力好像被切断了-在我们启动应急发电机前守住**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"**We got the power. The gates will open in 15 seconds**"
 	{
@@ -475,7 +475,7 @@
 	"[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired."
 	{
 		"chi"		"**[赤红13]宇宙峡谷现在几乎恢复正常.但天文台还需要修理**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us."
 	{
@@ -484,12 +484,12 @@
 	"[Red-XIII] I cannot find enough words to thank them for all... they did a really good job."
 	{
 		"chi"		"**[赤红13]我找不到足够的话来感谢他们...他们干的非常漂亮**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?"
 	{
 		"chi"		"**[赤红13]我们可以在这里休息一下..然后继续旅行..你看如何?**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do."
 	{
@@ -569,7 +569,7 @@
 	"**The rock will explode in 25 seconds**"
 	{
 		"chi"		"**岩石将在25秒后爆炸（哑弹，请进小屋）**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
@@ -584,6 +584,10 @@
 		"chi"		"**一位玩家找到了电元素**"
 	}
 	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_FFVII_SNOW_CANYON**"
 	{
 		"chi"		"** **"
 	}

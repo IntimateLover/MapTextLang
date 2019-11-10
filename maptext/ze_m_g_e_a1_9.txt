@@ -28,6 +28,7 @@
 	"*hold 40seconds*"
 	{
 		"chi"		"**坚守40秒**"
+		"DoorCountdown"		"40"
 	}
 	"*wait 25s open teleport*"
 	{
