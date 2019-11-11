@@ -1,0 +1,4036 @@
+{
+    "ze_2012_p3": {
+        "name": "ze_2012_p3",
+        "cn_name": "",
+        "default": "ze_2012_p3",
+        "versions": [
+            "ze_2012_p3"
+        ]
+    },
+    "ze_203_Factory_b9": {
+        "name": "ze_203_Factory_b9",
+        "cn_name": "",
+        "default": "ze_203_Factory_b9",
+        "versions": [
+            "ze_203_Factory_b9"
+        ]
+    },
+    "ze_2554_v1": {
+        "name": "ze_2554_v1",
+        "cn_name": "",
+        "default": "ze_2554_v1",
+        "versions": [
+            "ze_2554_v1"
+        ]
+    },
+    "ze_30_seconds__b21_p2": {
+        "name": "ze_30_seconds__b21_p2",
+        "cn_name": "",
+        "default": "ze_30_seconds__b21_p2",
+        "versions": [
+            "ze_30_seconds__b21_p2"
+        ]
+    },
+    "ze_666_crazy_escape_v1_1": {
+        "name": "ze_666_crazy_escape_v1_1",
+        "cn_name": "",
+        "default": "ze_666_crazy_escape_v1_1",
+        "versions": [
+            "ze_666_crazy_escape_v1_1"
+        ]
+    },
+    "ze_8bit_csgo2": {
+        "name": "ze_8bit_csgo2",
+        "cn_name": "",
+        "default": "ze_8bit_csgo3",
+        "versions": [
+            "ze_8bit_csgo2",
+            "ze_8bit_csgo2_fix",
+            "ze_8bit_csgo3"
+        ]
+    },
+    "ze_ATIX_extinction_p2": {
+        "name": "ze_ATIX_extinction_p2",
+        "cn_name": "",
+        "default": "ze_ATIX_extinction_p2",
+        "versions": [
+            "ze_ATIX_extinction_p2"
+        ]
+    },
+    "ze_A_E_S_T_H_E_T_I_C_v1_1": {
+        "name": "ze_A_E_S_T_H_E_T_I_C_v1_1",
+        "cn_name": "",
+        "default": "ze_A_E_S_T_H_E_T_I_C_v1_1",
+        "versions": [
+            "ze_A_E_S_T_H_E_T_I_C_v1_1"
+        ]
+    },
+    "ze_AcuticNotes_v1_2f": {
+        "name": "ze_AcuticNotes_v1_2f",
+        "cn_name": "",
+        "default": "ze_AcuticNotes_v1_2f",
+        "versions": [
+            "ze_AcuticNotes_v1_2f"
+        ]
+    },
+    "ze_Ancient_Wrath_v2_test27_g3t": {
+        "name": "ze_Ancient_Wrath_v2_test27_g3t",
+        "cn_name": "",
+        "default": "ze_ancient_wrath_v2_test27_g5t",
+        "versions": [
+            "ze_Ancient_Wrath_v2_test27_g3t",
+            "ze_Ancient_Wrath_v2_test27_g4t",
+            "ze_Ancient_Wrath_v2_test27_g5f",
+            "ze_Ancient_Wrath_v2_test27_g5t",
+            "ze_Ancient_Wrath_v2_test27_g6t",
+            "ze_ancient_wrath_v2_test27_g3t",
+            "ze_ancient_wrath_v2_test27_g5t"
+        ]
+    },
+    "ze_ApertureScience_p2": {
+        "name": "ze_ApertureScience_p2",
+        "cn_name": "",
+        "default": "ze_ApertureScience_p2",
+        "versions": [
+            "ze_ApertureScience_p2"
+        ]
+    },
+    "ze_Apollo_p2": {
+        "name": "ze_Apollo_p2",
+        "cn_name": "",
+        "default": "ze_Apollo_p2",
+        "versions": [
+            "ze_Apollo_p2"
+        ]
+    },
+    "ze_Avalanche_Reboot_beta7_g2f": {
+        "name": "ze_Avalanche_Reboot_beta7_g2f",
+        "cn_name": "",
+        "default": "ze_Avalanche_Reboot_beta7_g3t",
+        "versions": [
+            "ze_Avalanche_Reboot_beta7_g2f",
+            "ze_Avalanche_Reboot_beta7_g3t"
+        ]
+    },
+    "ze_Bathroom_v2_5": {
+        "name": "ze_Bathroom_v2_5",
+        "cn_name": "",
+        "default": "ze_Bathroom_v2_5",
+        "versions": [
+            "ze_Bathroom_v2_5"
+        ]
+    },
+    "ze_CV_LOSII_Castle_Siege_b4": {
+        "name": "ze_CV_LOSII_Castle_Siege_b4",
+        "cn_name": "",
+        "default": "ze_CV_LOSII_Castle_Siege_b4",
+        "versions": [
+            "ze_CV_LOSII_Castle_Siege_b4"
+        ]
+    },
+    "ze_DOOM_p2": {
+        "name": "ze_DOOM_p2",
+        "cn_name": "",
+        "default": "ze_DOOM_p2",
+        "versions": [
+            "ze_DOOM_p2"
+        ]
+    },
+    "ze_DarkRepulsorPalace_V2_1_4": {
+        "name": "ze_DarkRepulsorPalace_V2_1_4",
+        "cn_name": "",
+        "default": "ze_DarkRepulsorPalace_V2_1_4",
+        "versions": [
+            "ze_DarkRepulsorPalace_V2_1_4"
+        ]
+    },
+    "ze_Death_Valley_b2": {
+        "name": "ze_Death_Valley_b2",
+        "cn_name": "",
+        "default": "ze_Death_Valley_b2",
+        "versions": [
+            "ze_Death_Valley_b2"
+        ]
+    },
+    "ze_Desperate_Soul_a1": {
+        "name": "ze_Desperate_Soul_a1",
+        "cn_name": "",
+        "default": "ze_Desperate_Soul_a3t",
+        "versions": [
+            "ze_Desperate_Soul_a1",
+            "ze_Desperate_Soul_a2t",
+            "ze_Desperate_Soul_a3t"
+        ]
+    },
+    "ze_Doorhug_and_Solo_v6_2_g1t": {
+        "name": "ze_Doorhug_and_Solo_v6_2_g1t",
+        "cn_name": "",
+        "default": "ze_doorhug_and_solo_v5_2_csgo",
+        "versions": [
+            "ze_Doorhug_and_Solo_v6_2_g1t",
+            "ze_doorhug_and_solo_v5_2_csgo"
+        ]
+    },
+    "ze_Ep2_Plant_b1": {
+        "name": "ze_Ep2_Plant_b1",
+        "cn_name": "",
+        "default": "ze_Ep2_Plant_b1",
+        "versions": [
+            "ze_Ep2_Plant_b1"
+        ]
+    },
+    "ze_Escape_Citadel_r2": {
+        "name": "ze_Escape_Citadel_r2",
+        "cn_name": "",
+        "default": "ze_Escape_Citadel_r2",
+        "versions": [
+            "ze_Escape_Citadel_r2"
+        ]
+    },
+    "ze_FFVII_Cosmo_Canyon_v5fix_g1t": {
+        "name": "ze_FFVII_Cosmo_Canyon_v5fix_g1t",
+        "cn_name": "",
+        "default": "ze_FFVII_Cosmo_Canyon_v5fix_g5t",
+        "versions": [
+            "ze_FFVII_Cosmo_Canyon_v5fix_g1t",
+            "ze_FFVII_Cosmo_Canyon_v5fix_g2t",
+            "ze_FFVII_Cosmo_Canyon_v5fix_g3t",
+            "ze_FFVII_Cosmo_Canyon_v5fix_g5t",
+            "ze_ffvii_cosmo_canyon_v2_1_g12",
+            "ze_FFVII_Cosmo_Canyon_v5k_fix"
+        ]
+    },
+    "ze_FFVII_Mako_Reactor_V6_B09k": {
+        "name": "ze_FFVII_Mako_Reactor_V6_B09k",
+        "cn_name": "",
+        "default": "ze_ffvii_mako_reactor_v6_b09k2",
+        "versions": [
+            "ze_FFVII_Mako_Reactor_V6_B09k",
+            "ze_FFVII_Mako_Reactor_v5_3_v5",
+            "ze_ffvii_mako_reactor_v6_b09_b2k",
+            "ze_ffvii_mako_reactor_v6_b09k2"
+        ]
+    },
+    "ze_FFVII_Snow_Cosmo_v5_2": {
+        "name": "ze_FFVII_Snow_Cosmo_v5_2",
+        "cn_name": "",
+        "default": "ze_FFVII_Snow_Cosmo_v5_2",
+        "versions": [
+            "ze_FFVII_Snow_Cosmo_v5_2"
+        ]
+    },
+    "ze_FFXII_Feywood_a2_g6t": {
+        "name": "ze_FFXII_Feywood_a2_g6t",
+        "cn_name": "",
+        "default": "ze_ffxii_feywood_b6_1k",
+        "versions": [
+            "ze_FFXII_Feywood_a2_g6t",
+            "ze_ffxii_feywood_b6_1k"
+        ]
+    },
+    "ze_FFXII_Paramina_Rift_v1_4_a8t": {
+        "name": "ze_FFXII_Paramina_Rift_v1_4_a8t",
+        "cn_name": "",
+        "default": "ze_FFXII_Paramina_Rift_v1_4_a8t",
+        "versions": [
+            "ze_FFXII_Paramina_Rift_v1_4_a8t"
+        ]
+    },
+    "ze_FFXII_Ridorana_Cataract_t5_3_g1f": {
+        "name": "ze_FFXII_Ridorana_Cataract_t5_3_g1f",
+        "cn_name": "",
+        "default": "ze_ffxii_ridorana_cataract_t5_3_w2",
+        "versions": [
+            "ze_FFXII_Ridorana_Cataract_t5_3_g1f",
+            "ze_FFXII_Ridorana_Cataract_t5_3_g1t",
+            "ze_FFXII_Ridorana_Cataract_t5_3_g2f",
+            "ze_FFXII_Ridorana_Cataract_t5_3_g2t",
+            "ze_ffxii_ridorana_cataract_t5_3_g2t",
+            "ze_ffxii_ridorana_cataract_t5_3_w2"
+        ]
+    },
+    "ze_Fat_house_escape_v1_0_6d": {
+        "name": "ze_Fat_house_escape_v1_0_6d",
+        "cn_name": "",
+        "default": "ze_Fat_house_escape_v1_0_6d",
+        "versions": [
+            "ze_Fat_house_escape_v1_0_6d"
+        ]
+    },
+    "ze_Halloween_House_b4": {
+        "name": "ze_Halloween_House_b4",
+        "cn_name": "",
+        "default": "ze_Halloween_House_b4",
+        "versions": [
+            "ze_Halloween_House_b4"
+        ]
+    },
+    "ze_Haste_to_flee_1b": {
+        "name": "ze_Haste_to_flee_1b",
+        "cn_name": "",
+        "default": "ze_Haste_to_flee_1b",
+        "versions": [
+            "ze_Haste_to_flee_1b"
+        ]
+    },
+    "ze_Hell_Escape_p2": {
+        "name": "ze_Hell_Escape_p2",
+        "cn_name": "",
+        "default": "ze_Hell_Escape_p2",
+        "versions": [
+            "ze_Hell_Escape_p2"
+        ]
+    },
+    "ze_Hiems_facilities_v2_1": {
+        "name": "ze_Hiems_facilities_v2_1",
+        "cn_name": "",
+        "default": "ze_Hiems_facilities_v2_1",
+        "versions": [
+            "ze_Hiems_facilities_v2_1"
+        ]
+    },
+    "ze_Island_Escape_p3": {
+        "name": "ze_Island_Escape_p3",
+        "cn_name": "",
+        "default": "ze_Island_Escape_p3",
+        "versions": [
+            "ze_Island_Escape_p3"
+        ]
+    },
+    "ze_JurassicPark_Escape_p2": {
+        "name": "ze_JurassicPark_Escape_p2",
+        "cn_name": "",
+        "default": "ze_JurassicPark_Escape_p2",
+        "versions": [
+            "ze_JurassicPark_Escape_p2"
+        ]
+    },
+    "ze_JurassicPark_p3": {
+        "name": "ze_JurassicPark_p3",
+        "cn_name": "",
+        "default": "ze_JurassicPark_p3",
+        "versions": [
+            "ze_JurassicPark_p3"
+        ]
+    },
+    "ze_Kitchen_v1_2": {
+        "name": "ze_Kitchen_v1_2",
+        "cn_name": "",
+        "default": "ze_Kitchen_v2",
+        "versions": [
+            "ze_Kitchen_v1_2",
+            "ze_Kitchen_v1_4",
+            "ze_Kitchen_v2"
+        ]
+    },
+    "ze_LOTR_Helms_Deep_v5_p6": {
+        "name": "ze_LOTR_Helms_Deep_v5_p6",
+        "cn_name": "",
+        "default": "ze_LOTR_Helms_Deep_v5_p6",
+        "versions": [
+            "ze_LOTR_Helms_Deep_v5_p6"
+        ]
+    },
+    "ze_LOTR_Minas_Tiret_p2": {
+        "name": "ze_LOTR_Minas_Tiret_p2",
+        "cn_name": "",
+        "default": "ze_LOTR_Minas_Tiret_p2",
+        "versions": [
+            "ze_LOTR_Minas_Tiret_p2"
+        ]
+    },
+    "ze_lotr_minas_tirith_p5": {
+        "name": "ze_lotr_minas_tirith_p5",
+        "cn_name": "",
+        "default": "ze_Lotr_Minas_Tirith_v3_3_g1t",
+        "versions": [
+            "ze_lotr_minas_tirith_p5",
+            "ze_Lotr_Minas_Tirith_v3_3_g1t"
+        ]
+    },
+    "ze_LOTR_Mines_of_Moria_p2": {
+        "name": "ze_LOTR_Mines_of_Moria_p2",
+        "cn_name": "",
+        "default": "ze_LOTR_Mines_of_Moria_p2",
+        "versions": [
+            "ze_LOTR_Mines_of_Moria_p2"
+        ]
+    },
+    "ze_LOTR_Mirkwood_v2_5": {
+        "name": "ze_LOTR_Mirkwood_v2_5",
+        "cn_name": "",
+        "default": "ze_LOTR_Mirkwood_v2_5",
+        "versions": [
+            "ze_LOTR_Mirkwood_v2_5"
+        ]
+    },
+    "ze_LOTR_Mount_Doom_p3": {
+        "name": "ze_LOTR_Mount_Doom_p3",
+        "cn_name": "",
+        "default": "ze_LOTR_Mount_Doom_p3",
+        "versions": [
+            "ze_LOTR_Mount_Doom_p3"
+        ]
+    },
+    "ze_L_The_Lower_v1_4": {
+        "name": "ze_L_The_Lower_v1_4",
+        "cn_name": "",
+        "default": "ze_L_The_Lower_v1_4",
+        "versions": [
+            "ze_L_The_Lower_v1_4"
+        ]
+    },
+    "ze_L_The_Medium_v1_6": {
+        "name": "ze_L_The_Medium_v1_6",
+        "cn_name": "",
+        "default": "ze_L_The_Medium_v1_6",
+        "versions": [
+            "ze_L_The_Medium_v1_6"
+        ]
+    },
+    "ze_LuigisMansion_p3": {
+        "name": "ze_LuigisMansion_p3",
+        "cn_name": "",
+        "default": "ze_LuigisMansion_p3",
+        "versions": [
+            "ze_LuigisMansion_p3"
+        ]
+    },
+    "ze_MindTree_v1_4": {
+        "name": "ze_MindTree_v1_4",
+        "cn_name": "",
+        "default": "ze_mindtree_v1_x",
+        "versions": [
+            "ze_MindTree_v1_4",
+            "ze_MindTree_v1_6",
+            "ze_mindtree_v1_2",
+            "ze_mindtree_v1_x"
+        ]
+    },
+    "ze_Mission_1943_fix2": {
+        "name": "ze_Mission_1943_fix2",
+        "cn_name": "",
+        "default": "ze_Mission_1943_fix2",
+        "versions": [
+            "ze_Mission_1943_fix2"
+        ]
+    },
+    "ze_Mixture_3de_v1f2_g1t": {
+        "name": "ze_Mixture_3de_v1f2_g1t",
+        "cn_name": "",
+        "default": "ze_Mixture_3de_v1f2_g1t",
+        "versions": [
+            "ze_Mixture_3de_v1f2_g1t"
+        ]
+    },
+    "ze_NY_marathon_p": {
+        "name": "ze_NY_marathon_p",
+        "cn_name": "",
+        "default": "ze_NY_marathon_p",
+        "versions": [
+            "ze_NY_marathon_p"
+        ]
+    },
+    "ze_Paranoid_Rezurrection_v11_9_ps17": {
+        "name": "ze_Paranoid_Rezurrection_v11_9_ps17",
+        "cn_name": "",
+        "default": "ze_Paranoid_Rezurrection_v11_9_ps17",
+        "versions": [
+            "ze_Paranoid_Rezurrection_v11_9_ps17"
+        ]
+    },
+    "ze_Parking_p4": {
+        "name": "ze_Parking_p4",
+        "cn_name": "",
+        "default": "ze_Parking_p4",
+        "versions": [
+            "ze_Parking_p4"
+        ]
+    },
+    "ze_Pipeline_escape_v2_1": {
+        "name": "ze_Pipeline_escape_v2_1",
+        "cn_name": "",
+        "default": "ze_Pipeline_escape_v2_1",
+        "versions": [
+            "ze_Pipeline_escape_v2_1"
+        ]
+    },
+    "ze_PoR_island_p3": {
+        "name": "ze_PoR_island_p3",
+        "cn_name": "",
+        "default": "ze_PoR_island_p3",
+        "versions": [
+            "ze_PoR_island_p3"
+        ]
+    },
+    "ze_Pokemon_Rivals_v1_8": {
+        "name": "ze_Pokemon_Rivals_v1_8",
+        "cn_name": "",
+        "default": "ze_Pokemon_Rivals_v1_8",
+        "versions": [
+            "ze_Pokemon_Rivals_v1_8"
+        ]
+    },
+    "ze_Portal_Story_p": {
+        "name": "ze_Portal_Story_p",
+        "cn_name": "",
+        "default": "ze_Portal_Story_p",
+        "versions": [
+            "ze_Portal_Story_p"
+        ]
+    },
+    "ze_PotC_IV_p3": {
+        "name": "ze_PotC_IV_p3",
+        "cn_name": "",
+        "default": "ze_PotC_IV_p3",
+        "versions": [
+            "ze_PotC_IV_p3"
+        ]
+    },
+    "ze_PotC_p4": {
+        "name": "ze_PotC_p4",
+        "cn_name": "",
+        "default": "ze_PotC_p4",
+        "versions": [
+            "ze_PotC_p4"
+        ]
+    },
+    "ze_Predator_Ultimate_p7": {
+        "name": "ze_Predator_Ultimate_p7",
+        "cn_name": "",
+        "default": "ze_Predator_Ultimate_p7",
+        "versions": [
+            "ze_Predator_Ultimate_p7"
+        ]
+    },
+    "ze_RTCW_Ominous_Rumors_p4": {
+        "name": "ze_RTCW_Ominous_Rumors_p4",
+        "cn_name": "",
+        "default": "ze_RTCW_Ominous_Rumors_p4",
+        "versions": [
+            "ze_RTCW_Ominous_Rumors_p4"
+        ]
+    },
+    "ze_R_W_B_Final": {
+        "name": "ze_R_W_B_Final",
+        "cn_name": "",
+        "default": "ze_r_w_b_v1",
+        "versions": [
+            "ze_R_W_B_Final",
+            "ze_R_W_B_ulti",
+            "ze_r_w_b_ulti",
+            "ze_r_w_b_v1"
+        ]
+    },
+    "ze_Rabanastre_Royal_a1": {
+        "name": "ze_Rabanastre_Royal_a1",
+        "cn_name": "",
+        "default": "ze_rabanastre_royal_a2t",
+        "versions": [
+            "ze_Rabanastre_Royal_a1",
+            "ze_rabanastre_royal_a1_1",
+            "ze_rabanastre_royal_a1_2",
+            "ze_rabanastre_royal_a1_3",
+            "ze_rabanastre_royal_a1_6",
+            "ze_rabanastre_royal_a1_8",
+            "ze_rabanastre_royal_a1_9",
+            "ze_rabanastre_royal_a2_1",
+            "ze_rabanastre_royal_a2t"
+        ]
+    },
+    "ze_Random_p2": {
+        "name": "ze_Random_p2",
+        "cn_name": "",
+        "default": "ze_Random_p2",
+        "versions": [
+            "ze_Random_p2"
+        ]
+    },
+    "ze_Ratescape_b2cf": {
+        "name": "ze_Ratescape_b2cf",
+        "cn_name": "",
+        "default": "ze_Ratescape_b2cf",
+        "versions": [
+            "ze_Ratescape_b2cf"
+        ]
+    },
+    "ze_ReflectBox_L": {
+        "name": "ze_ReflectBox_L",
+        "cn_name": "",
+        "default": "ze_ReflectBox_L",
+        "versions": [
+            "ze_ReflectBox_L"
+        ]
+    },
+    "ze_Rooftop_Runaway_Extended": {
+        "name": "ze_Rooftop_Runaway_Extended",
+        "cn_name": "",
+        "default": "ze_Rooftop_Runaway_Extended",
+        "versions": [
+            "ze_Rooftop_Runaway_Extended"
+        ]
+    },
+    "ze_SUMAI_facility_v1a": {
+        "name": "ze_SUMAI_facility_v1a",
+        "cn_name": "",
+        "default": "ze_SUMAI_facility_v1a",
+        "versions": [
+            "ze_SUMAI_facility_v1a"
+        ]
+    },
+    "ze_SURVIVORS_p2": {
+        "name": "ze_SURVIVORS_p2",
+        "cn_name": "",
+        "default": "ze_SURVIVORS_p2",
+        "versions": [
+            "ze_SURVIVORS_p2"
+        ]
+    },
+    "ze_S_A_M_v1_4": {
+        "name": "ze_S_A_M_v1_4",
+        "cn_name": "",
+        "default": "ze_S_A_M_v1_4",
+        "versions": [
+            "ze_S_A_M_v1_4"
+        ]
+    },
+    "ze_Serpentis_Temple_p2": {
+        "name": "ze_Serpentis_Temple_p2",
+        "cn_name": "",
+        "default": "ze_serpentis_temple_csgo5",
+        "versions": [
+            "ze_Serpentis_Temple_p2",
+            "ze_serpentis_temple_csgo5"
+        ]
+    },
+    "ze_ShroomForest_p6": {
+        "name": "ze_ShroomForest_p6",
+        "cn_name": "",
+        "default": "ze_ShroomForest_p6",
+        "versions": [
+            "ze_ShroomForest_p6"
+        ]
+    },
+    "ze_ShroomForest2_p6": {
+        "name": "ze_ShroomForest2_p6",
+        "cn_name": "",
+        "default": "ze_ShroomForest2_p6",
+        "versions": [
+            "ze_ShroomForest2_p6"
+        ]
+    },
+    "ze_ShroomForest3_p": {
+        "name": "ze_ShroomForest3_p",
+        "cn_name": "",
+        "default": "ze_ShroomForest3_p",
+        "versions": [
+            "ze_ShroomForest3_p"
+        ]
+    },
+    "ze_Siberia_1990_v1_2c_p5": {
+        "name": "ze_Siberia_1990_v1_2c_p5",
+        "cn_name": "",
+        "default": "ze_Siberia_1990_v1_2c_p5",
+        "versions": [
+            "ze_Siberia_1990_v1_2c_p5"
+        ]
+    },
+    "ze_Sit_Caelum_Paradisus_b7": {
+        "name": "ze_Sit_Caelum_Paradisus_b7",
+        "cn_name": "",
+        "default": "ze_Sit_Caelum_Paradisus_b7fix",
+        "versions": [
+            "ze_Sit_Caelum_Paradisus_b7",
+            "ze_Sit_Caelum_Paradisus_b7fix"
+        ]
+    },
+    "ze_Sit_Caelum_Paradisus_b7fix_02": {
+        "name": "ze_Sit_Caelum_Paradisus_b7fix_02",
+        "cn_name": "",
+        "default": "ze_Sit_Caelum_Paradisus_b7fix_02",
+        "versions": [
+            "ze_Sit_Caelum_Paradisus_b7fix_02"
+        ]
+    },
+    "ze_Stalker_Ultimate_v2_3_g7t": {
+        "name": "ze_Stalker_Ultimate_v2_3_g7t",
+        "cn_name": "",
+        "default": "ze_stalker_ultimate_v2_3_g7t",
+        "versions": [
+            "ze_Stalker_Ultimate_v2_3_g7t",
+            "ze_stalker_ultimate_v2_3_g6",
+            "ze_stalker_ultimate_v2_3_g7t"
+        ]
+    },
+    "ze_Starwars_v2fix1": {
+        "name": "ze_Starwars_v2fix1",
+        "cn_name": "",
+        "default": "ze_Starwars_v2fix3",
+        "versions": [
+            "ze_Starwars_v2fix1",
+            "ze_Starwars_v2fix2",
+            "ze_Starwars_v2fix3"
+        ]
+    },
+    "ze_Super_Metroid_v4": {
+        "name": "ze_Super_Metroid_v4",
+        "cn_name": "",
+        "default": "ze_Super_Metroid_v4",
+        "versions": [
+            "ze_Super_Metroid_v4"
+        ]
+    },
+    "ze_TV_station_r4": {
+        "name": "ze_TV_station_r4",
+        "cn_name": "",
+        "default": "ze_TV_station_r4",
+        "versions": [
+            "ze_TV_station_r4"
+        ]
+    },
+    "ze_Totemo_Roka_v1": {
+        "name": "ze_Totemo_Roka_v1",
+        "cn_name": "",
+        "default": "ze_Totemo_Roka_v1",
+        "versions": [
+            "ze_Totemo_Roka_v1"
+        ]
+    },
+    "ze_Touhou_Gensokyo_b10p": {
+        "name": "ze_Touhou_Gensokyo_b10p",
+        "cn_name": "",
+        "default": "ze_touhou_gensokyo_o4",
+        "versions": [
+            "ze_Touhou_Gensokyo_b10p",
+            "ze_Touhou_Gensokyo_o1",
+            "ze_Touhou_Gensokyo_o2",
+            "ze_Touhou_gensokyo_o3",
+            "ze_touhou_gensokyo_o3",
+            "ze_touhou_gensokyo_o4"
+        ]
+    },
+    "ze_UT2004_Convoy_r5": {
+        "name": "ze_UT2004_Convoy_r5",
+        "cn_name": "",
+        "default": "ze_UT2004_Convoy_r5",
+        "versions": [
+            "ze_UT2004_Convoy_r5"
+        ]
+    },
+    "ze_abandoned_bio_bunker_v1_4": {
+        "name": "ze_abandoned_bio_bunker_v1_4",
+        "cn_name": "",
+        "default": "ze_abandoned_bio_bunker_v1_4",
+        "versions": [
+            "ze_abandoned_bio_bunker_v1_4"
+        ]
+    },
+    "ze_abandoned_industry_alpha": {
+        "name": "ze_abandoned_industry_alpha",
+        "cn_name": "",
+        "default": "ze_abandoned_industry_alpha",
+        "versions": [
+            "ze_abandoned_industry_alpha"
+        ]
+    },
+    "ze_abandoned_project_v1_2_csgo": {
+        "name": "ze_abandoned_project_v1_2_csgo",
+        "cn_name": "",
+        "default": "ze_abandoned_project_v1_2_csgo",
+        "versions": [
+            "ze_abandoned_project_v1_2_csgo"
+        ]
+    },
+    "ze_aepp_nano_grid2_v1": {
+        "name": "ze_aepp_nano_grid2_v1",
+        "cn_name": "",
+        "default": "ze_aepp_nano_grid2_v1",
+        "versions": [
+            "ze_aepp_nano_grid2_v1"
+        ]
+    },
+    "ze_alien_mountain_escape_ffvii_v5": {
+        "name": "ze_alien_mountain_escape_ffvii_v5",
+        "cn_name": "",
+        "default": "ze_alien_mountain_escape_ffvii_v5",
+        "versions": [
+            "ze_alien_mountain_escape_ffvii_v5"
+        ]
+    },
+    "ze_alien_shooter_v7_ps4": {
+        "name": "ze_alien_shooter_v7_ps4",
+        "cn_name": "",
+        "default": "ze_alien_shooter_v7_ps4",
+        "versions": [
+            "ze_alien_shooter_v7_ps4"
+        ]
+    },
+    "ze_alien_vs_predator_v6go_fix": {
+        "name": "ze_alien_vs_predator_v6go_fix",
+        "cn_name": "",
+        "default": "ze_alien_vs_predator_v6go_fix",
+        "versions": [
+            "ze_alien_vs_predator_v6go_fix"
+        ]
+    },
+    "ze_alitur_v3": {
+        "name": "ze_alitur_v3",
+        "cn_name": "",
+        "default": "ze_alitur_v3",
+        "versions": [
+            "ze_alitur_v3"
+        ]
+    },
+    "ze_angelbeats_guild_v1fix_2": {
+        "name": "ze_angelbeats_guild_v1fix_2",
+        "cn_name": "",
+        "default": "ze_angelbeats_guild_v2_1",
+        "versions": [
+            "ze_angelbeats_guild_v1fix_2",
+            "ze_angelbeats_guild_v2",
+            "ze_angelbeats_guild_v2_1"
+        ]
+    },
+    "ze_anima_ruins_v2_2": {
+        "name": "ze_anima_ruins_v2_2",
+        "cn_name": "",
+        "default": "ze_anima_ruins_v2_2",
+        "versions": [
+            "ze_anima_ruins_v2_2"
+        ]
+    },
+    "ze_antartika_b2_csgo": {
+        "name": "ze_antartika_b2_csgo",
+        "cn_name": "",
+        "default": "ze_antartika_b2_csgo",
+        "versions": [
+            "ze_antartika_b2_csgo"
+        ]
+    },
+    "ze_apocatastasis_v1_1": {
+        "name": "ze_apocatastasis_v1_1",
+        "cn_name": "",
+        "default": "ze_apocatastasis_v1_1",
+        "versions": [
+            "ze_apocatastasis_v1_1"
+        ]
+    },
+    "ze_arctic_escape_p2": {
+        "name": "ze_arctic_escape_p2",
+        "cn_name": "",
+        "default": "ze_arctic_escape_p2",
+        "versions": [
+            "ze_arctic_escape_p2"
+        ]
+    },
+    "ze_ardeca_revamp": {
+        "name": "ze_ardeca_revamp",
+        "cn_name": "",
+        "default": "ze_ardeca_revamp",
+        "versions": [
+            "ze_ardeca_revamp"
+        ]
+    },
+    "ze_artika_base_v1_2": {
+        "name": "ze_artika_base_v1_2",
+        "cn_name": "",
+        "default": "ze_artika_base_v1_2",
+        "versions": [
+            "ze_artika_base_v1_2"
+        ]
+    },
+    "ze_ashen_keep_v0_3_csgo4": {
+        "name": "ze_ashen_keep_v0_3_csgo4",
+        "cn_name": "",
+        "default": "ze_ashen_keep_v0_3_csgo4",
+        "versions": [
+            "ze_ashen_keep_v0_3_csgo4"
+        ]
+    },
+    "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5": {
+        "name": "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5",
+        "cn_name": "",
+        "default": "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5",
+        "versions": [
+            "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5"
+        ]
+    },
+    "ze_astral_v1_2_f3": {
+        "name": "ze_astral_v1_2_f3",
+        "cn_name": "",
+        "default": "ze_astral_v1_2_f3",
+        "versions": [
+            "ze_astral_v1_2_f3"
+        ]
+    },
+    "ze_atix_apocalypse_p2": {
+        "name": "ze_atix_apocalypse_p2",
+        "cn_name": "",
+        "default": "ze_atix_apocalypse_p2",
+        "versions": [
+            "ze_atix_apocalypse_p2"
+        ]
+    },
+    "ze_atos_v1_10": {
+        "name": "ze_atos_v1_10",
+        "cn_name": "",
+        "default": "ze_atos_v1_9f",
+        "versions": [
+            "ze_atos_v1_10",
+            "ze_atos_v1_11",
+            "ze_atos_v1_3",
+            "ze_atos_v1_4",
+            "ze_atos_v1_4f",
+            "ze_atos_v1_5",
+            "ze_atos_v1_5f",
+            "ze_atos_v1_6",
+            "ze_atos_v1_6f",
+            "ze_atos_v1_7",
+            "ze_atos_v1_8",
+            "ze_atos_v1_9",
+            "ze_atos_v1_9f"
+        ]
+    },
+    "ze_aztec_temple_go_v2": {
+        "name": "ze_aztec_temple_go_v2",
+        "cn_name": "",
+        "default": "ze_aztec_temple_p2",
+        "versions": [
+            "ze_aztec_temple_go_v2",
+            "ze_aztec_temple_p2"
+        ]
+    },
+    "ze_aztecnoob_p2": {
+        "name": "ze_aztecnoob_p2",
+        "cn_name": "",
+        "default": "ze_aztecnoob_p2",
+        "versions": [
+            "ze_aztecnoob_p2"
+        ]
+    },
+    "ze_barrage_p2": {
+        "name": "ze_barrage_p2",
+        "cn_name": "",
+        "default": "ze_barrage_p2",
+        "versions": [
+            "ze_barrage_p2"
+        ]
+    },
+    "ze_best_korea_v1": {
+        "name": "ze_best_korea_v1",
+        "cn_name": "",
+        "default": "ze_best_korea_v1",
+        "versions": [
+            "ze_best_korea_v1"
+        ]
+    },
+    "ze_bh3rd_v2_b3": {
+        "name": "ze_bh3rd_v2_b3",
+        "cn_name": "",
+        "default": "ze_bh3rd_v2_b3",
+        "versions": [
+            "ze_bh3rd_v2_b3"
+        ]
+    },
+    "ze_biohazard2_rpd_004_p3_fix2": {
+        "name": "ze_biohazard2_rpd_004_p3_fix2",
+        "cn_name": "",
+        "default": "ze_biohazard2_rpd_004_p3_fix2",
+        "versions": [
+            "ze_biohazard2_rpd_004_p3_fix2"
+        ]
+    },
+    "ze_biohazard2_sewer_004_p8": {
+        "name": "ze_biohazard2_sewer_004_p8",
+        "cn_name": "",
+        "default": "ze_biohazard2_sewer_004_p8",
+        "versions": [
+            "ze_biohazard2_sewer_004_p8"
+        ]
+    },
+    "ze_biohazard3_nemesis_b5_2": {
+        "name": "ze_biohazard3_nemesis_b5_2",
+        "cn_name": "",
+        "default": "ze_biohazard3_nemesis_b5_2",
+        "versions": [
+            "ze_biohazard3_nemesis_b5_2"
+        ]
+    },
+    "ze_biohazard_manor_004_p4": {
+        "name": "ze_biohazard_manor_004_p4",
+        "cn_name": "",
+        "default": "ze_biohazard_manor_004_p4",
+        "versions": [
+            "ze_biohazard_manor_004_p4"
+        ]
+    },
+    "ze_biomes_attack_b1_2": {
+        "name": "ze_biomes_attack_b1_2",
+        "cn_name": "",
+        "default": "ze_biomes_attack_b1_2",
+        "versions": [
+            "ze_biomes_attack_b1_2"
+        ]
+    },
+    "ze_bioshock_v6_2_csgo7": {
+        "name": "ze_bioshock_v6_2_csgo7",
+        "cn_name": "",
+        "default": "ze_bioshock_v7_1_csgo_a2",
+        "versions": [
+            "ze_bioshock_v6_2_csgo7",
+            "ze_bioshock_v7_1_csgo_a2"
+        ]
+    },
+    "ze_bisounours_party_p2": {
+        "name": "ze_bisounours_party_p2",
+        "cn_name": "",
+        "default": "ze_bisounours_party_p2",
+        "versions": [
+            "ze_bisounours_party_p2"
+        ]
+    },
+    "ze_blackmesa_escape_p4": {
+        "name": "ze_blackmesa_escape_p4",
+        "cn_name": "",
+        "default": "ze_blackmesa_escape_p4",
+        "versions": [
+            "ze_blackmesa_escape_p4"
+        ]
+    },
+    "ze_blocky_mess_b2": {
+        "name": "ze_blocky_mess_b2",
+        "cn_name": "",
+        "default": "ze_blocky_mess_b2",
+        "versions": [
+            "ze_blocky_mess_b2"
+        ]
+    },
+    "ze_bloodstrike_escape_v2": {
+        "name": "ze_bloodstrike_escape_v2",
+        "cn_name": "",
+        "default": "ze_bloodstrike_escape_v2",
+        "versions": [
+            "ze_bloodstrike_escape_v2"
+        ]
+    },
+    "ze_boacceho_p4": {
+        "name": "ze_boacceho_p4",
+        "cn_name": "",
+        "default": "ze_boacceho_p4",
+        "versions": [
+            "ze_boacceho_p4"
+        ]
+    },
+    "ze_boredom_p": {
+        "name": "ze_boredom_p",
+        "cn_name": "",
+        "default": "ze_boredom_p",
+        "versions": [
+            "ze_boredom_p"
+        ]
+    },
+    "ze_bowser_in_the_fire_sea_v1nb2": {
+        "name": "ze_bowser_in_the_fire_sea_v1nb2",
+        "cn_name": "",
+        "default": "ze_bowser_in_the_fire_sea_v1nb2",
+        "versions": [
+            "ze_bowser_in_the_fire_sea_v1nb2"
+        ]
+    },
+    "ze_bp-infested-prison_p2": {
+        "name": "ze_bp-infested-prison_p2",
+        "cn_name": "",
+        "default": "ze_bp-infested-prison_p2",
+        "versions": [
+            "ze_bp-infested-prison_p2"
+        ]
+    },
+    "ze_breakable_p3": {
+        "name": "ze_breakable_p3",
+        "cn_name": "",
+        "default": "ze_breakable_p3",
+        "versions": [
+            "ze_breakable_p3"
+        ]
+    },
+    "ze_bunker_escape_v1_2": {
+        "name": "ze_bunker_escape_v1_2",
+        "cn_name": "",
+        "default": "ze_bunker_escape_v1_2",
+        "versions": [
+            "ze_bunker_escape_v1_2"
+        ]
+    },
+    "ze_cancer_gopnik_escape_v7": {
+        "name": "ze_cancer_gopnik_escape_v7",
+        "cn_name": "",
+        "default": "ze_cancer_gopnik_escape_v8",
+        "versions": [
+            "ze_cancer_gopnik_escape_v7",
+            "ze_cancer_gopnik_escape_v8"
+        ]
+    },
+    "ze_castlevania_64_v1_3_b3_go": {
+        "name": "ze_castlevania_64_v1_3_b3_go",
+        "cn_name": "",
+        "default": "ze_castlevania_64_v1_3_b3_go",
+        "versions": [
+            "ze_castlevania_64_v1_3_b3_go"
+        ]
+    },
+    "ze_castlevania_p1_7": {
+        "name": "ze_castlevania_p1_7",
+        "cn_name": "",
+        "default": "ze_castlevania_p1_7",
+        "versions": [
+            "ze_castlevania_p1_7"
+        ]
+    },
+    "ze_ccc_floator_mislands_timantetrix_v2": {
+        "name": "ze_ccc_floator_mislands_timantetrix_v2",
+        "cn_name": "",
+        "default": "ze_ccc_floator_mislands_timantetrix_v2",
+        "versions": [
+            "ze_ccc_floator_mislands_timantetrix_v2"
+        ]
+    },
+    "ze_chaos_v7_4f": {
+        "name": "ze_chaos_v7_4f",
+        "cn_name": "",
+        "default": "ze_chaos_v7_4f",
+        "versions": [
+            "ze_chaos_v7_4f"
+        ]
+    },
+    "ze_check_b1_1": {
+        "name": "ze_check_b1_1",
+        "cn_name": "",
+        "default": "ze_check_b1_1",
+        "versions": [
+            "ze_check_b1_1"
+        ]
+    },
+    "ze_cheezylab_beta7": {
+        "name": "ze_cheezylab_beta7",
+        "cn_name": "",
+        "default": "ze_cheezylab_beta7",
+        "versions": [
+            "ze_cheezylab_beta7"
+        ]
+    },
+    "ze_chemical_weapons_depot_v3a": {
+        "name": "ze_chemical_weapons_depot_v3a",
+        "cn_name": "",
+        "default": "ze_chemical_weapons_depot_v3a",
+        "versions": [
+            "ze_chemical_weapons_depot_v3a"
+        ]
+    },
+    "ze_chicken_lords_p": {
+        "name": "ze_chicken_lords_p",
+        "cn_name": "",
+        "default": "ze_chicken_lords_p",
+        "versions": [
+            "ze_chicken_lords_p"
+        ]
+    },
+    "ze_chicken_ranch_v2_2": {
+        "name": "ze_chicken_ranch_v2_2",
+        "cn_name": "",
+        "default": "ze_chicken_ranch_v2_2",
+        "versions": [
+            "ze_chicken_ranch_v2_2"
+        ]
+    },
+    "ze_christmas_b2_1": {
+        "name": "ze_christmas_b2_1",
+        "cn_name": "",
+        "default": "ze_christmas_b2_1",
+        "versions": [
+            "ze_christmas_b2_1"
+        ]
+    },
+    "ze_christmas_infection_p2": {
+        "name": "ze_christmas_infection_p2",
+        "cn_name": "",
+        "default": "ze_christmas_infection_p2",
+        "versions": [
+            "ze_christmas_infection_p2"
+        ]
+    },
+    "ze_chroma_v0_4_csgo5": {
+        "name": "ze_chroma_v0_4_csgo5",
+        "cn_name": "",
+        "default": "ze_chroma_v0_4_csgo5",
+        "versions": [
+            "ze_chroma_v0_4_csgo5"
+        ]
+    },
+    "ze_chrono_trigger_b3_fix5": {
+        "name": "ze_chrono_trigger_b3_fix5",
+        "cn_name": "",
+        "default": "ze_chrono_trigger_b3_fix5",
+        "versions": [
+            "ze_chrono_trigger_b3_fix5"
+        ]
+    },
+    "ze_clara_civitate_v3": {
+        "name": "ze_clara_civitate_v3",
+        "cn_name": "",
+        "default": "ze_clara_civitate_v3",
+        "versions": [
+            "ze_clara_civitate_v3"
+        ]
+    },
+    "ze_color_traps_beta2_4": {
+        "name": "ze_color_traps_beta2_4",
+        "cn_name": "",
+        "default": "ze_color_traps_beta2_4",
+        "versions": [
+            "ze_color_traps_beta2_4"
+        ]
+    },
+    "ze_colorlicouspilar_p4": {
+        "name": "ze_colorlicouspilar_p4",
+        "cn_name": "",
+        "default": "ze_colorlicouspilar_p4",
+        "versions": [
+            "ze_colorlicouspilar_p4"
+        ]
+    },
+    "ze_colourslide_v2_2": {
+        "name": "ze_colourslide_v2_2",
+        "cn_name": "",
+        "default": "ze_colourslide_v2_2",
+        "versions": [
+            "ze_colourslide_v2_2"
+        ]
+    },
+    "ze_complex_b5_1_va2": {
+        "name": "ze_complex_b5_1_va2",
+        "cn_name": "",
+        "default": "ze_complex_b5_1_va2",
+        "versions": [
+            "ze_complex_b5_1_va2"
+        ]
+    },
+    "ze_copy_escape_v1_1": {
+        "name": "ze_copy_escape_v1_1",
+        "cn_name": "",
+        "default": "ze_copy_escape_v1_1",
+        "versions": [
+            "ze_copy_escape_v1_1"
+        ]
+    },
+    "ze_crashbandicoot_p3": {
+        "name": "ze_crashbandicoot_p3",
+        "cn_name": "",
+        "default": "ze_crashbandicoot_p3",
+        "versions": [
+            "ze_crashbandicoot_p3"
+        ]
+    },
+    "ze_crazy_escape_v5_5_1": {
+        "name": "ze_crazy_escape_v5_5_1",
+        "cn_name": "",
+        "default": "ze_crazy_escape_v5_5_1",
+        "versions": [
+            "ze_crazy_escape_v5_5_1"
+        ]
+    },
+    "ze_crazykart_v3": {
+        "name": "ze_crazykart_v3",
+        "cn_name": "",
+        "default": "ze_crazykart_v4",
+        "versions": [
+            "ze_crazykart_v3",
+            "ze_crazykart_v4"
+        ]
+    },
+    "ze_crystal_a2": {
+        "name": "ze_crystal_a2",
+        "cn_name": "",
+        "default": "ze_crystal_a2",
+        "versions": [
+            "ze_crystal_a2"
+        ]
+    },
+    "ze_crystal_escape_v2_final": {
+        "name": "ze_crystal_escape_v2_final",
+        "cn_name": "",
+        "default": "ze_crystal_escape_v2_final",
+        "versions": [
+            "ze_crystal_escape_v2_final"
+        ]
+    },
+    "ze_cursed_ruins_v3": {
+        "name": "ze_cursed_ruins_v3",
+        "cn_name": "",
+        "default": "ze_cursed_ruins_v3",
+        "versions": [
+            "ze_cursed_ruins_v3"
+        ]
+    },
+    "ze_cyberderp_p3": {
+        "name": "ze_cyberderp_p3",
+        "cn_name": "",
+        "default": "ze_cyberderp_p3",
+        "versions": [
+            "ze_cyberderp_p3"
+        ]
+    },
+    "ze_d_n_f_b0_1beta3a": {
+        "name": "ze_d_n_f_b0_1beta3a",
+        "cn_name": "",
+        "default": "ze_d_n_f_b0_1beta3a",
+        "versions": [
+            "ze_d_n_f_b0_1beta3a"
+        ]
+    },
+    "ze_dangerous_waters_xmas_v2_4": {
+        "name": "ze_dangerous_waters_xmas_v2_4",
+        "cn_name": "",
+        "default": "ze_dangerous_waters_xmas_v2_4",
+        "versions": [
+            "ze_dangerous_waters_xmas_v2_4"
+        ]
+    },
+    "ze_danmaku_v1_5": {
+        "name": "ze_danmaku_v1_5",
+        "cn_name": "",
+        "default": "ze_danmaku_v1_5",
+        "versions": [
+            "ze_danmaku_v1_5"
+        ]
+    },
+    "ze_dark_souls_ptd_v0_4_csgo7": {
+        "name": "ze_dark_souls_ptd_v0_4_csgo7",
+        "cn_name": "",
+        "default": "ze_dark_souls_ptd_v0_4_csgo7",
+        "versions": [
+            "ze_dark_souls_ptd_v0_4_csgo7"
+        ]
+    },
+    "ze_deadcore_v1_3": {
+        "name": "ze_deadcore_v1_3",
+        "cn_name": "",
+        "default": "ze_deadcore_v1_3_f",
+        "versions": [
+            "ze_deadcore_v1_3",
+            "ze_deadcore_v1_3_f"
+        ]
+    },
+    "ze_deadly_crash_a1_1_fix": {
+        "name": "ze_deadly_crash_a1_1_fix",
+        "cn_name": "",
+        "default": "ze_deadly_crash_a1_1_fix",
+        "versions": [
+            "ze_deadly_crash_a1_1_fix"
+        ]
+    },
+    "ze_deadly_stance_a2": {
+        "name": "ze_deadly_stance_a2",
+        "cn_name": "",
+        "default": "ze_deadly_stance_a2",
+        "versions": [
+            "ze_deadly_stance_a2"
+        ]
+    },
+    "ze_death_star_escape_v4_3_p2": {
+        "name": "ze_death_star_escape_v4_3_p2",
+        "cn_name": "",
+        "default": "ze_death_star_escape_v4_3_p2",
+        "versions": [
+            "ze_death_star_escape_v4_3_p2"
+        ]
+    },
+    "ze_death_wish_v6": {
+        "name": "ze_death_wish_v6",
+        "cn_name": "",
+        "default": "ze_death_wish_v6",
+        "versions": [
+            "ze_death_wish_v6"
+        ]
+    },
+    "ze_deepice_p3": {
+        "name": "ze_deepice_p3",
+        "cn_name": "",
+        "default": "ze_deepice_p3",
+        "versions": [
+            "ze_deepice_p3"
+        ]
+    },
+    "ze_defensepart_escape_go1": {
+        "name": "ze_defensepart_escape_go1",
+        "cn_name": "",
+        "default": "ze_defensepart_escape_go1",
+        "versions": [
+            "ze_defensepart_escape_go1"
+        ]
+    },
+    "ze_desert_fox_v7_6": {
+        "name": "ze_desert_fox_v7_6",
+        "cn_name": "",
+        "default": "ze_desert_fox_v7_6",
+        "versions": [
+            "ze_desert_fox_v7_6"
+        ]
+    },
+    "ze_destruction_of_exorath_v4_lite": {
+        "name": "ze_destruction_of_exorath_v4_lite",
+        "cn_name": "",
+        "default": "ze_destruction_of_exorath_v4_lite",
+        "versions": [
+            "ze_destruction_of_exorath_v4_lite"
+        ]
+    },
+    "ze_dev_r4a_d_csgo2": {
+        "name": "ze_dev_r4a_d_csgo2",
+        "cn_name": "",
+        "default": "ze_dev_r4a_d_csgo2",
+        "versions": [
+            "ze_dev_r4a_d_csgo2"
+        ]
+    },
+    "ze_diddle_v3": {
+        "name": "ze_diddle_v3",
+        "cn_name": "",
+        "default": "ze_diddle_v3",
+        "versions": [
+            "ze_diddle_v3"
+        ]
+    },
+    "ze_doom3_v1_b3k": {
+        "name": "ze_doom3_v1_b3k",
+        "cn_name": "",
+        "default": "ze_doom3_v1_b4k",
+        "versions": [
+            "ze_doom3_v1_b3k",
+            "ze_doom3_v1_b4k"
+        ]
+    },
+    "ze_draco_accidere_v4_final": {
+        "name": "ze_draco_accidere_v4_final",
+        "cn_name": "",
+        "default": "ze_draco_accidere_v4_final_93x",
+        "versions": [
+            "ze_draco_accidere_v4_final",
+            "ze_draco_accidere_v4_final_93x"
+        ]
+    },
+    "ze_drakelord_castle_b3": {
+        "name": "ze_drakelord_castle_b3",
+        "cn_name": "",
+        "default": "ze_drakelord_castle_b3",
+        "versions": [
+            "ze_drakelord_castle_b3"
+        ]
+    },
+    "ze_dreamin_v2_3": {
+        "name": "ze_dreamin_v2_3",
+        "cn_name": "",
+        "default": "ze_dreamin_v2_3",
+        "versions": [
+            "ze_dreamin_v2_3"
+        ]
+    },
+    "ze_easy_escape_v4": {
+        "name": "ze_easy_escape_v4",
+        "cn_name": "",
+        "default": "ze_easy_escape_v4",
+        "versions": [
+            "ze_easy_escape_v4"
+        ]
+    },
+    "ze_eden_a2": {
+        "name": "ze_eden_a2",
+        "cn_name": "",
+        "default": "ze_eden_a2",
+        "versions": [
+            "ze_eden_a2"
+        ]
+    },
+    "ze_egyptian_b5": {
+        "name": "ze_egyptian_b5",
+        "cn_name": "",
+        "default": "ze_egyptian_b5",
+        "versions": [
+            "ze_egyptian_b5"
+        ]
+    },
+    "ze_einstein_v7": {
+        "name": "ze_einstein_v7",
+        "cn_name": "",
+        "default": "ze_einstein_v7",
+        "versions": [
+            "ze_einstein_v7"
+        ]
+    },
+    "ze_elevator_escape_p3": {
+        "name": "ze_elevator_escape_p3",
+        "cn_name": "",
+        "default": "ze_elevator_escape_p3",
+        "versions": [
+            "ze_elevator_escape_p3"
+        ]
+    },
+    "ze_epic_escape_v1_2": {
+        "name": "ze_epic_escape_v1_2",
+        "cn_name": "",
+        "default": "ze_epic_escape_v2_1",
+        "versions": [
+            "ze_epic_escape_v1_2",
+            "ze_epic_escape_v2",
+            "ze_epic_escape_v2_1"
+        ]
+    },
+    "ze_error_a0_ps": {
+        "name": "ze_error_a0_ps",
+        "cn_name": "",
+        "default": "ze_error_a0_ps",
+        "versions": [
+            "ze_error_a0_ps"
+        ]
+    },
+    "ze_escape_horizon_p2": {
+        "name": "ze_escape_horizon_p2",
+        "cn_name": "",
+        "default": "ze_escape_horizon_p2",
+        "versions": [
+            "ze_escape_horizon_p2"
+        ]
+    },
+    "ze_escape_the_eye_p3": {
+        "name": "ze_escape_the_eye_p3",
+        "cn_name": "",
+        "default": "ze_escape_the_eye_p3",
+        "versions": [
+            "ze_escape_the_eye_p3"
+        ]
+    },
+    "ze_eternal_grove_v3": {
+        "name": "ze_eternal_grove_v3",
+        "cn_name": "",
+        "default": "ze_eternal_void_p3",
+        "versions": [
+            "ze_eternal_grove_v3",
+            "ze_eternal_void_p3"
+        ]
+    },
+    "ze_eternal_journey_go_v1_2": {
+        "name": "ze_eternal_journey_go_v1_2",
+        "cn_name": "",
+        "default": "ze_eternal_journey_go_v1_4",
+        "versions": [
+            "ze_eternal_journey_go_v1_2",
+            "ze_eternal_journey_go_v1_3",
+            "ze_eternal_journey_go_v1_4"
+        ]
+    },
+    "ze_evernight_a3_4": {
+        "name": "ze_evernight_a3_4",
+        "cn_name": "",
+        "default": "ze_evernight_a3_4",
+        "versions": [
+            "ze_evernight_a3_4"
+        ]
+    },
+    "ze_evil_mansion_v1_finalf": {
+        "name": "ze_evil_mansion_v1_finalf",
+        "cn_name": "",
+        "default": "ze_evil_mansion_v1_finalf",
+        "versions": [
+            "ze_evil_mansion_v1_finalf"
+        ]
+    },
+    "ze_exchange_innovation_v1b_n1": {
+        "name": "ze_exchange_innovation_v1b_n1",
+        "cn_name": "",
+        "default": "ze_exchange_innovation_v1b_n1",
+        "versions": [
+            "ze_exchange_innovation_v1b_n1"
+        ]
+    },
+    "ze_extest_01": {
+        "name": "ze_extest_01",
+        "cn_name": "",
+        "default": "ze_extest_01",
+        "versions": [
+            "ze_extest_01"
+        ]
+    },
+    "ze_fapescape_p5": {
+        "name": "ze_fapescape_p5",
+        "cn_name": "",
+        "default": "ze_fapescape_p5",
+        "versions": [
+            "ze_fapescape_p5"
+        ]
+    },
+    "ze_fapescape_rote_v1_3": {
+        "name": "ze_fapescape_rote_v1_3",
+        "cn_name": "",
+        "default": "ze_fapescape_rote_v1_3",
+        "versions": [
+            "ze_fapescape_rote_v1_3"
+        ]
+    },
+    "ze_fartlocker_escape": {
+        "name": "ze_fartlocker_escape",
+        "cn_name": "",
+        "default": "ze_fartlocker_escape",
+        "versions": [
+            "ze_fartlocker_escape"
+        ]
+    },
+    "ze_fast_escape_p2": {
+        "name": "ze_fast_escape_p2",
+        "cn_name": "",
+        "default": "ze_fast_escape_p2",
+        "versions": [
+            "ze_fast_escape_p2"
+        ]
+    },
+    "ze_fcescape_b2": {
+        "name": "ze_fcescape_b2",
+        "cn_name": "",
+        "default": "ze_fcescape_b2",
+        "versions": [
+            "ze_fcescape_b2"
+        ]
+    },
+    "ze_fe8_sacred_stones_b5": {
+        "name": "ze_fe8_sacred_stones_b5",
+        "cn_name": "",
+        "default": "ze_fe8_sacred_stones_b5",
+        "versions": [
+            "ze_fe8_sacred_stones_b5"
+        ]
+    },
+    "ze_ffvi_oblivion_castle": {
+        "name": "ze_ffvi_oblivion_castle",
+        "cn_name": "",
+        "default": "ze_ffvi_oblivion_castle",
+        "versions": [
+            "ze_ffvi_oblivion_castle"
+        ]
+    },
+    "ze_ffvii_malgo_reactor_v3fix": {
+        "name": "ze_ffvii_malgo_reactor_v3fix",
+        "cn_name": "",
+        "default": "ze_ffvii_malgo_reactor_v6_b14",
+        "versions": [
+            "ze_ffvii_malgo_reactor_v3fix",
+            "ze_ffvii_malgo_reactor_v4_2",
+            "ze_ffvii_malgo_reactor_v5_3",
+            "ze_ffvii_malgo_reactor_v5_3FIX",
+            "ze_ffvii_malgo_reactor_v6_b06",
+            "ze_ffvii_malgo_reactor_v6_b08",
+            "ze_ffvii_malgo_reactor_v6_b14"
+        ]
+    },
+    "ze_ffvii_temple_ancient_v4_3": {
+        "name": "ze_ffvii_temple_ancient_v4_3",
+        "cn_name": "",
+        "default": "ze_ffvii_temple_ancient_v4_3",
+        "versions": [
+            "ze_ffvii_temple_ancient_v4_3"
+        ]
+    },
+    "ze_ffxii_feywood_b3_1_x5": {
+        "name": "ze_ffxii_feywood_b3_1_x5",
+        "cn_name": "",
+        "default": "ze_ffxii_feywood_b3_1_x6",
+        "versions": [
+            "ze_ffxii_feywood_b3_1_x5",
+            "ze_ffxii_feywood_b3_1_x6"
+        ]
+    },
+    "ze_ffxii_ridorana_cataract_t4_ps3": {
+        "name": "ze_ffxii_ridorana_cataract_t4_ps3",
+        "cn_name": "",
+        "default": "ze_ffxii_ridorana_cataract_t4_ps3",
+        "versions": [
+            "ze_ffxii_ridorana_cataract_t4_ps3"
+        ]
+    },
+    "ze_ffxii_westersand_v7_z9": {
+        "name": "ze_ffxii_westersand_v7_z9",
+        "cn_name": "",
+        "default": "ze_ffxii_westersand_v7_z9",
+        "versions": [
+            "ze_ffxii_westersand_v7_z9"
+        ]
+    },
+    "ze_ffxii_westersand_v8zeta1_x17": {
+        "name": "ze_ffxii_westersand_v8zeta1_x17",
+        "cn_name": "",
+        "default": "ze_ffxii_westersand_v8zeta1_x18",
+        "versions": [
+            "ze_ffxii_westersand_v8zeta1_x17",
+            "ze_ffxii_westersand_v8zeta1_x18"
+        ]
+    },
+    "ze_ffxiv_wanderers_palace_v2_11": {
+        "name": "ze_ffxiv_wanderers_palace_v2_11",
+        "cn_name": "",
+        "default": "ze_ffxiv_wanderers_palace_v4_va2",
+        "versions": [
+            "ze_ffxiv_wanderers_palace_v2_11",
+            "ze_ffxiv_wanderers_palace_v2_va2",
+            "ze_ffxiv_wanderers_palace_v4_va2"
+        ]
+    },
+    "ze_ffxxiii_westrcanoyn_f12xd": {
+        "name": "ze_ffxxiii_westrcanoyn_f12xd",
+        "cn_name": "",
+        "default": "ze_ffxxiii_westrcanoyn_f12xd",
+        "versions": [
+            "ze_ffxxiii_westrcanoyn_f12xd"
+        ]
+    },
+    "ze_fire_temple_v2_4": {
+        "name": "ze_fire_temple_v2_4",
+        "cn_name": "",
+        "default": "ze_fire_temple_v2_4",
+        "versions": [
+            "ze_fire_temple_v2_4"
+        ]
+    },
+    "ze_firewall_laboratory_part1_p2": {
+        "name": "ze_firewall_laboratory_part1_p2",
+        "cn_name": "",
+        "default": "ze_firewall_laboratory_part2_p2",
+        "versions": [
+            "ze_firewall_laboratory_part1_p2",
+            "ze_firewall_laboratory_part2_p2"
+        ]
+    },
+    "ze_floating_rocks_survival_csgo_v3": {
+        "name": "ze_floating_rocks_survival_csgo_v3",
+        "cn_name": "",
+        "default": "ze_floating_rocks_survival_csgo_v3",
+        "versions": [
+            "ze_floating_rocks_survival_csgo_v3"
+        ]
+    },
+    "ze_flowing_b01_fix": {
+        "name": "ze_flowing_b01_fix",
+        "cn_name": "",
+        "default": "ze_flowing_b01_fix",
+        "versions": [
+            "ze_flowing_b01_fix"
+        ]
+    },
+    "ze_flying_world_p": {
+        "name": "ze_flying_world_p",
+        "cn_name": "",
+        "default": "ze_flying_world_p",
+        "versions": [
+            "ze_flying_world_p"
+        ]
+    },
+    "ze_forest_a0_2": {
+        "name": "ze_forest_a0_2",
+        "cn_name": "",
+        "default": "ze_forest_r_a0_1",
+        "versions": [
+            "ze_forest_a0_2",
+            "ze_forest_r_a0_1"
+        ]
+    },
+    "ze_forestbunkers_v1_b3_e2": {
+        "name": "ze_forestbunkers_v1_b3_e2",
+        "cn_name": "",
+        "default": "ze_forestbunkers_v1_b3_e2",
+        "versions": [
+            "ze_forestbunkers_v1_b3_e2"
+        ]
+    },
+    "ze_forgotten_facility_p2": {
+        "name": "ze_forgotten_facility_p2",
+        "cn_name": "",
+        "default": "ze_forgotten_facility_p2",
+        "versions": [
+            "ze_forgotten_facility_p2"
+        ]
+    },
+    "ze_forsaken_temple_v1": {
+        "name": "ze_forsaken_temple_v1",
+        "cn_name": "",
+        "default": "ze_forsaken_temple_v3_b4",
+        "versions": [
+            "ze_forsaken_temple_v1",
+            "ze_forsaken_temple_v1_1",
+            "ze_forsaken_temple_v2",
+            "ze_forsaken_temple_v3_b3",
+            "ze_forsaken_temple_v3_b4"
+        ]
+    },
+    "ze_forsaken_temple_v2_beta": {
+        "name": "ze_forsaken_temple_v2_beta",
+        "cn_name": "",
+        "default": "ze_forsaken_temple_v2_beta",
+        "versions": [
+            "ze_forsaken_temple_v2_beta"
+        ]
+    },
+    "ze_frostdrake_tower_v1": {
+        "name": "ze_frostdrake_tower_v1",
+        "cn_name": "",
+        "default": "ze_frostdrake_tower_v1",
+        "versions": [
+            "ze_frostdrake_tower_v1"
+        ]
+    },
+    "ze_frozentemple_rc1_1": {
+        "name": "ze_frozentemple_rc1_1",
+        "cn_name": "",
+        "default": "ze_frozentemple_rc1_1",
+        "versions": [
+            "ze_frozentemple_rc1_1"
+        ]
+    },
+    "ze_genso_of_last_v3_4_t1": {
+        "name": "ze_genso_of_last_v3_4_t1",
+        "cn_name": "",
+        "default": "ze_genso_of_last_v3_4_t1",
+        "versions": [
+            "ze_genso_of_last_v3_4_t1"
+        ]
+    },
+    "ze_ggeasy_solo_win_v1_1": {
+        "name": "ze_ggeasy_solo_win_v1_1",
+        "cn_name": "",
+        "default": "ze_ggeasy_solo_win_v1_1",
+        "versions": [
+            "ze_ggeasy_solo_win_v1_1"
+        ]
+    },
+    "ze_gods_wrath_p2": {
+        "name": "ze_gods_wrath_p2",
+        "cn_name": "",
+        "default": "ze_gods_wrath_p2",
+        "versions": [
+            "ze_gods_wrath_p2"
+        ]
+    },
+    "ze_grand_boatescape_p3": {
+        "name": "ze_grand_boatescape_p3",
+        "cn_name": "",
+        "default": "ze_grand_boatescape_p3",
+        "versions": [
+            "ze_grand_boatescape_p3"
+        ]
+    },
+    "ze_grau_a03_4f": {
+        "name": "ze_grau_a03_4f",
+        "cn_name": "",
+        "default": "ze_grau_a03_4f",
+        "versions": [
+            "ze_grau_a03_4f"
+        ]
+    },
+    "ze_great_crate_escape_v6": {
+        "name": "ze_great_crate_escape_v6",
+        "cn_name": "",
+        "default": "ze_great_crate_escape_v6",
+        "versions": [
+            "ze_great_crate_escape_v6"
+        ]
+    },
+    "ze_greece_escape_p": {
+        "name": "ze_greece_escape_p",
+        "cn_name": "",
+        "default": "ze_greece_escape_p",
+        "versions": [
+            "ze_greece_escape_p"
+        ]
+    },
+    "ze_greencity_fix": {
+        "name": "ze_greencity_fix",
+        "cn_name": "",
+        "default": "ze_greencity_fix",
+        "versions": [
+            "ze_greencity_fix"
+        ]
+    },
+    "ze_grey_sky_v1": {
+        "name": "ze_grey_sky_v1",
+        "cn_name": "",
+        "default": "ze_grey_sky_v1_1",
+        "versions": [
+            "ze_grey_sky_v1",
+            "ze_grey_sky_v1_1"
+        ]
+    },
+    "ze_grey_world_a2_4": {
+        "name": "ze_grey_world_a2_4",
+        "cn_name": "",
+        "default": "ze_grey_world_a2_4",
+        "versions": [
+            "ze_grey_world_a2_4"
+        ]
+    },
+    "ze_gris_v1_13": {
+        "name": "ze_gris_v1_13",
+        "cn_name": "",
+        "default": "ze_gris_v1_13",
+        "versions": [
+            "ze_gris_v1_13"
+        ]
+    },
+    "ze_halo_poa_p4": {
+        "name": "ze_halo_poa_p4",
+        "cn_name": "",
+        "default": "ze_halo_poa_p4",
+        "versions": [
+            "ze_halo_poa_p4"
+        ]
+    },
+    "ze_haunted_lab_escape_p3": {
+        "name": "ze_haunted_lab_escape_p3",
+        "cn_name": "",
+        "default": "ze_haunted_lab_escape_p3",
+        "versions": [
+            "ze_haunted_lab_escape_p3"
+        ]
+    },
+    "ze_hazard_escape_p2": {
+        "name": "ze_hazard_escape_p2",
+        "cn_name": "",
+        "default": "ze_hazard_escape_p2",
+        "versions": [
+            "ze_hazard_escape_p2"
+        ]
+    },
+    "ze_heostime_escape_v1": {
+        "name": "ze_heostime_escape_v1",
+        "cn_name": "",
+        "default": "ze_heostime_escape_v1",
+        "versions": [
+            "ze_heostime_escape_v1"
+        ]
+    },
+    "ze_hidden_fortress_p": {
+        "name": "ze_hidden_fortress_p",
+        "cn_name": "",
+        "default": "ze_hidden_fortress_p",
+        "versions": [
+            "ze_hidden_fortress_p"
+        ]
+    },
+    "ze_hidden_temple_v2_5": {
+        "name": "ze_hidden_temple_v2_5",
+        "cn_name": "",
+        "default": "ze_hidden_temple_v2_5",
+        "versions": [
+            "ze_hidden_temple_v2_5"
+        ]
+    },
+    "ze_hiems_facilities_v3ar_b7_rename": {
+        "name": "ze_hiems_facilities_v3ar_b7_rename",
+        "cn_name": "",
+        "default": "ze_hiems_facilities_v3ar_b7_rename",
+        "versions": [
+            "ze_hiems_facilities_v3ar_b7_rename"
+        ]
+    },
+    "ze_highest_to_lowest_v1_1": {
+        "name": "ze_highest_to_lowest_v1_1",
+        "cn_name": "",
+        "default": "ze_highest_to_lowest_v1_1",
+        "versions": [
+            "ze_highest_to_lowest_v1_1"
+        ]
+    },
+    "ze_hive_complex_v1_2_1": {
+        "name": "ze_hive_complex_v1_2_1",
+        "cn_name": "",
+        "default": "ze_hive_complex_v1_2_1",
+        "versions": [
+            "ze_hive_complex_v1_2_1"
+        ]
+    },
+    "ze_hold2_boring_b5": {
+        "name": "ze_hold2_boring_b5",
+        "cn_name": "",
+        "default": "ze_hold2_boring_b5",
+        "versions": [
+            "ze_hold2_boring_b5"
+        ]
+    },
+    "ze_hold_em_v8_f3": {
+        "name": "ze_hold_em_v8_f3",
+        "cn_name": "",
+        "default": "ze_hold_em_v8_f3",
+        "versions": [
+            "ze_hold_em_v8_f3"
+        ]
+    },
+    "ze_homo_party_a1": {
+        "name": "ze_homo_party_a1",
+        "cn_name": "",
+        "default": "ze_homo_party_a1",
+        "versions": [
+            "ze_homo_party_a1"
+        ]
+    },
+    "ze_horizon_sky_escape_v2": {
+        "name": "ze_horizon_sky_escape_v2",
+        "cn_name": "",
+        "default": "ze_horizon_sky_escape_v2",
+        "versions": [
+            "ze_horizon_sky_escape_v2"
+        ]
+    },
+    "ze_hsc_a4_q3": {
+        "name": "ze_hsc_a4_q3",
+        "cn_name": "",
+        "default": "ze_hsc_a4_q3",
+        "versions": [
+            "ze_hsc_a4_q3"
+        ]
+    },
+    "ze_huge_labo_escape_b1_2": {
+        "name": "ze_huge_labo_escape_b1_2",
+        "cn_name": "",
+        "default": "ze_huge_labo_escape_b1_2",
+        "versions": [
+            "ze_huge_labo_escape_b1_2"
+        ]
+    },
+    "ze_hypernova_v2fix": {
+        "name": "ze_hypernova_v2fix",
+        "cn_name": "",
+        "default": "ze_hypernova_v2fix",
+        "versions": [
+            "ze_hypernova_v2fix"
+        ]
+    },
+    "ze_iamlegend_p3": {
+        "name": "ze_iamlegend_p3",
+        "cn_name": "",
+        "default": "ze_iamlegend_p3",
+        "versions": [
+            "ze_iamlegend_p3"
+        ]
+    },
+    "ze_ice_cavern_va4": {
+        "name": "ze_ice_cavern_va4",
+        "cn_name": "",
+        "default": "ze_ice_cavern_va4",
+        "versions": [
+            "ze_ice_cavern_va4"
+        ]
+    },
+    "ze_icecap_escape_v5_sgfix": {
+        "name": "ze_icecap_escape_v5_sgfix",
+        "cn_name": "",
+        "default": "ze_icecap_escape_v5_sgfix",
+        "versions": [
+            "ze_icecap_escape_v5_sgfix"
+        ]
+    },
+    "ze_iceworld_athletic_b2_5": {
+        "name": "ze_iceworld_athletic_b2_5",
+        "cn_name": "",
+        "default": "ze_iceworld_athletic_b4_2",
+        "versions": [
+            "ze_iceworld_athletic_b2_5",
+            "ze_iceworld_athletic_b3",
+            "ze_iceworld_athletic_b3_2",
+            "ze_iceworld_athletic_b3_3",
+            "ze_iceworld_athletic_b4_1",
+            "ze_iceworld_athletic_b4_2"
+        ]
+    },
+    "ze_illya_b4_csgo_a3": {
+        "name": "ze_illya_b4_csgo_a3",
+        "cn_name": "",
+        "default": "ze_illya_b4_csgo_a3",
+        "versions": [
+            "ze_illya_b4_csgo_a3"
+        ]
+    },
+    "ze_inboxed_final_fix": {
+        "name": "ze_inboxed_final_fix",
+        "cn_name": "",
+        "default": "ze_inboxed_final_fix",
+        "versions": [
+            "ze_inboxed_final_fix"
+        ]
+    },
+    "ze_indiana_jones_v4a_004_p4": {
+        "name": "ze_indiana_jones_v4a_004_p4",
+        "cn_name": "",
+        "default": "ze_indiana_jones_v4a_004_p4",
+        "versions": [
+            "ze_indiana_jones_v4a_004_p4"
+        ]
+    },
+    "ze_infected_lab_v4_1": {
+        "name": "ze_infected_lab_v4_1",
+        "cn_name": "",
+        "default": "ze_infected_lab_v4_1",
+        "versions": [
+            "ze_infected_lab_v4_1"
+        ]
+    },
+    "ze_infected_sewers_v6_1_1": {
+        "name": "ze_infected_sewers_v6_1_1",
+        "cn_name": "",
+        "default": "ze_infected_sewers_v6_1_1",
+        "versions": [
+            "ze_infected_sewers_v6_1_1"
+        ]
+    },
+    "ze_infected_tramway_csgo1": {
+        "name": "ze_infected_tramway_csgo1",
+        "cn_name": "",
+        "default": "ze_infected_tramway_csgo1",
+        "versions": [
+            "ze_infected_tramway_csgo1"
+        ]
+    },
+    "ze_infiltration_final_r1": {
+        "name": "ze_infiltration_final_r1",
+        "cn_name": "",
+        "default": "ze_infiltration_final_r1",
+        "versions": [
+            "ze_infiltration_final_r1"
+        ]
+    },
+    "ze_insanitycity_va2": {
+        "name": "ze_insanitycity_va2",
+        "cn_name": "",
+        "default": "ze_insanitycity_va2",
+        "versions": [
+            "ze_insanitycity_va2"
+        ]
+    },
+    "ze_insensible_sr8gm6yj12hs7_rg_v9_6": {
+        "name": "ze_insensible_sr8gm6yj12hs7_rg_v9_6",
+        "cn_name": "",
+        "default": "ze_insensible_sr8gm6yj12hs7_rg_v9_6",
+        "versions": [
+            "ze_insensible_sr8gm6yj12hs7_rg_v9_6"
+        ]
+    },
+    "ze_interception_p2": {
+        "name": "ze_interception_p2",
+        "cn_name": "",
+        "default": "ze_interception_p2",
+        "versions": [
+            "ze_interception_p2"
+        ]
+    },
+    "ze_isla_nublar_p3": {
+        "name": "ze_isla_nublar_p3",
+        "cn_name": "",
+        "default": "ze_isla_nublar_p3",
+        "versions": [
+            "ze_isla_nublar_p3"
+        ]
+    },
+    "ze_italy_town_p2": {
+        "name": "ze_italy_town_p2",
+        "cn_name": "",
+        "default": "ze_italy_town_p2",
+        "versions": [
+            "ze_italy_town_p2"
+        ]
+    },
+    "ze_jjba_v1": {
+        "name": "ze_jjba_v1",
+        "cn_name": "",
+        "default": "ze_jjba_v4f",
+        "versions": [
+            "ze_jjba_v1",
+            "ze_jjba_v2",
+            "ze_jjba_v2_5",
+            "ze_jjba_v3t2",
+            "ze_jjba_v3t3",
+            "ze_jjba_v4",
+            "ze_jjba_v4f"
+        ]
+    },
+    "ze_johnny_nukem_b8_1_csgo3": {
+        "name": "ze_johnny_nukem_b8_1_csgo3",
+        "cn_name": "",
+        "default": "ze_johnny_nukem_b8_1_csgo3",
+        "versions": [
+            "ze_johnny_nukem_b8_1_csgo3"
+        ]
+    },
+    "ze_journey_p4_1": {
+        "name": "ze_journey_p4_1",
+        "cn_name": "",
+        "default": "ze_journey_p4_1",
+        "versions": [
+            "ze_journey_p4_1"
+        ]
+    },
+    "ze_jungle_escape_v1_2_d": {
+        "name": "ze_jungle_escape_v1_2_d",
+        "cn_name": "",
+        "default": "ze_jungle_escape_v1_2_d",
+        "versions": [
+            "ze_jungle_escape_v1_2_d"
+        ]
+    },
+    "ze_jurassicpark_evolved_v4": {
+        "name": "ze_jurassicpark_evolved_v4",
+        "cn_name": "",
+        "default": "ze_jurassicpark_evolved_v4",
+        "versions": [
+            "ze_jurassicpark_evolved_v4"
+        ]
+    },
+    "ze_kaffe_escape_v2": {
+        "name": "ze_kaffe_escape_v2",
+        "cn_name": "",
+        "default": "ze_kaffe_escape_v2",
+        "versions": [
+            "ze_kaffe_escape_v2"
+        ]
+    },
+    "ze_knife_fun_fix_go": {
+        "name": "ze_knife_fun_fix_go",
+        "cn_name": "",
+        "default": "ze_knife_fun_fix_go",
+        "versions": [
+            "ze_knife_fun_fix_go"
+        ]
+    },
+    "ze_knightmare_v1d": {
+        "name": "ze_knightmare_v1d",
+        "cn_name": "",
+        "default": "ze_knightmare_v1d",
+        "versions": [
+            "ze_knightmare_v1d"
+        ]
+    },
+    "ze_komatsu_v3": {
+        "name": "ze_komatsu_v3",
+        "cn_name": "",
+        "default": "ze_komatsu_v3",
+        "versions": [
+            "ze_komatsu_v3"
+        ]
+    },
+    "ze_kororinpa_v1_7": {
+        "name": "ze_kororinpa_v1_7",
+        "cn_name": "",
+        "default": "ze_kororinpa_v2_2",
+        "versions": [
+            "ze_kororinpa_v1_7",
+            "ze_kororinpa_v2_1",
+            "ze_kororinpa_v2_2"
+        ]
+    },
+    "ze_kraznov_poopata_p2": {
+        "name": "ze_kraznov_poopata_p2",
+        "cn_name": "",
+        "default": "ze_kraznov_poopata_p2",
+        "versions": [
+            "ze_kraznov_poopata_p2"
+        ]
+    },
+    "ze_l0v0l_v1_4_csgo1": {
+        "name": "ze_l0v0l_v1_4_csgo1",
+        "cn_name": "",
+        "default": "ze_l0v0l_v1_4_csgo2",
+        "versions": [
+            "ze_l0v0l_v1_4_csgo1",
+            "ze_l0v0l_v1_4_csgo2"
+        ]
+    },
+    "ze_lab_v5": {
+        "name": "ze_lab_v5",
+        "cn_name": "",
+        "default": "ze_lab_v5",
+        "versions": [
+            "ze_lab_v5"
+        ]
+    },
+    "ze_laser_escape_v1_1": {
+        "name": "ze_laser_escape_v1_1",
+        "cn_name": "",
+        "default": "ze_laser_escape_v1_1",
+        "versions": [
+            "ze_laser_escape_v1_1"
+        ]
+    },
+    "ze_laser_island_b6_8": {
+        "name": "ze_laser_island_b6_8",
+        "cn_name": "",
+        "default": "ze_laser_island_b6_8",
+        "versions": [
+            "ze_laser_island_b6_8"
+        ]
+    },
+    "ze_laserend_v2": {
+        "name": "ze_laserend_v2",
+        "cn_name": "",
+        "default": "ze_laserend_v3",
+        "versions": [
+            "ze_laserend_v2",
+            "ze_laserend_v3"
+        ]
+    },
+    "ze_last_man_standing_csgo1": {
+        "name": "ze_last_man_standing_csgo1",
+        "cn_name": "",
+        "default": "ze_last_man_standing_csgo1",
+        "versions": [
+            "ze_last_man_standing_csgo1"
+        ]
+    },
+    "ze_legoland_crackheads_p2": {
+        "name": "ze_legoland_crackheads_p2",
+        "cn_name": "",
+        "default": "ze_legoland_crackheads_p2",
+        "versions": [
+            "ze_legoland_crackheads_p2"
+        ]
+    },
+    "ze_lemonysnickets_p2": {
+        "name": "ze_lemonysnickets_p2",
+        "cn_name": "",
+        "default": "ze_lemonysnickets_p2",
+        "versions": [
+            "ze_lemonysnickets_p2"
+        ]
+    },
+    "ze_lestona_escape": {
+        "name": "ze_lestona_escape",
+        "cn_name": "",
+        "default": "ze_lestona_escape",
+        "versions": [
+            "ze_lestona_escape"
+        ]
+    },
+    "ze_licciana_escape_zrgbr_b3": {
+        "name": "ze_licciana_escape_zrgbr_b3",
+        "cn_name": "",
+        "default": "ze_licciana_escape_zrgbr_b3",
+        "versions": [
+            "ze_licciana_escape_zrgbr_b3"
+        ]
+    },
+    "ze_light_911_v7_csgo_ab1": {
+        "name": "ze_light_911_v7_csgo_ab1",
+        "cn_name": "",
+        "default": "ze_light_911_v7_csgo_ab1",
+        "versions": [
+            "ze_light_911_v7_csgo_ab1"
+        ]
+    },
+    "ze_light_911_v7_final": {
+        "name": "ze_light_911_v7_final",
+        "cn_name": "",
+        "default": "ze_light_911_v7_final",
+        "versions": [
+            "ze_light_911_v7_final"
+        ]
+    },
+    "ze_light_panic_escape_b3": {
+        "name": "ze_light_panic_escape_b3",
+        "cn_name": "",
+        "default": "ze_light_panic_escape_b3",
+        "versions": [
+            "ze_light_panic_escape_b3"
+        ]
+    },
+    "ze_lightnight_v1_4fix_hdr": {
+        "name": "ze_lightnight_v1_4fix_hdr",
+        "cn_name": "",
+        "default": "ze_lightnight_v1_4fix_hdr",
+        "versions": [
+            "ze_lightnight_v1_4fix_hdr"
+        ]
+    },
+    "ze_lila_panic_escape_v3_2": {
+        "name": "ze_lila_panic_escape_v3_2",
+        "cn_name": "",
+        "default": "ze_lila_panic_escape_v3_2",
+        "versions": [
+            "ze_lila_panic_escape_v3_2"
+        ]
+    },
+    "ze_lolxd_final_fix": {
+        "name": "ze_lolxd_final_fix",
+        "cn_name": "",
+        "default": "ze_lolxd_final_fix",
+        "versions": [
+            "ze_lolxd_final_fix"
+        ]
+    },
+    "ze_lolxd_final_fix_iswear_v3": {
+        "name": "ze_lolxd_final_fix_iswear_v3",
+        "cn_name": "",
+        "default": "ze_lolxd_final_fix_iswear_v3",
+        "versions": [
+            "ze_lolxd_final_fix_iswear_v3"
+        ]
+    },
+    "ze_lost_v1_1": {
+        "name": "ze_lost_v1_1",
+        "cn_name": "",
+        "default": "ze_lost_v2_1",
+        "versions": [
+            "ze_lost_v1_1",
+            "ze_lost_v2_1"
+        ]
+    },
+    "ze_luck_matters_v3_1": {
+        "name": "ze_luck_matters_v3_1",
+        "cn_name": "",
+        "default": "ze_luck_matters_v3x",
+        "versions": [
+            "ze_luck_matters_v3_1",
+            "ze_luck_matters_v3x"
+        ]
+    },
+    "ze_lucy_escape_v1": {
+        "name": "ze_lucy_escape_v1",
+        "cn_name": "",
+        "default": "ze_lucy_escape_v1",
+        "versions": [
+            "ze_lucy_escape_v1"
+        ]
+    },
+    "ze_m_g_e": {
+        "name": "ze_m_g_e",
+        "cn_name": "",
+        "default": "ze_m_g_e_a2",
+        "versions": [
+            "ze_m_g_e",
+            "ze_m_g_e_a1",
+            "ze_m_g_e_a1_3",
+            "ze_m_g_e_a1_4",
+            "ze_m_g_e_a1_5",
+            "ze_m_g_e_a1_6",
+            "ze_m_g_e_a1_7",
+            "ze_m_g_e_a1_8",
+            "ze_m_g_e_a1_9",
+            "ze_m_g_e_a2"
+        ]
+    },
+    "ze_m_the_final_v1_2": {
+        "name": "ze_m_the_final_v1_2",
+        "cn_name": "",
+        "default": "ze_m_the_final_v1_3",
+        "versions": [
+            "ze_m_the_final_v1_2",
+            "ze_m_the_final_v1_3"
+        ]
+    },
+    "ze_magala_castle_final": {
+        "name": "ze_magala_castle_final",
+        "cn_name": "",
+        "default": "ze_magala_castle_final",
+        "versions": [
+            "ze_magala_castle_final"
+        ]
+    },
+    "ze_magic_carpet_p2": {
+        "name": "ze_magic_carpet_p2",
+        "cn_name": "",
+        "default": "ze_magic_carpet_p2",
+        "versions": [
+            "ze_magic_carpet_p2"
+        ]
+    },
+    "ze_mario_adventure_beta01_fix1": {
+        "name": "ze_mario_adventure_beta01_fix1",
+        "cn_name": "",
+        "default": "ze_mario_adventure_beta01_fix1",
+        "versions": [
+            "ze_mario_adventure_beta01_fix1"
+        ]
+    },
+    "ze_mario_tower_v4_p2": {
+        "name": "ze_mario_tower_v4_p2",
+        "cn_name": "",
+        "default": "ze_mario_tower_v4_p2",
+        "versions": [
+            "ze_mario_tower_v4_p2"
+        ]
+    },
+    "ze_mars_escape_v1_2_pm1": {
+        "name": "ze_mars_escape_v1_2_pm1",
+        "cn_name": "",
+        "default": "ze_mars_escape_v1_2_pm1",
+        "versions": [
+            "ze_mars_escape_v1_2_pm1"
+        ]
+    },
+    "ze_meatropolis_p2": {
+        "name": "ze_meatropolis_p2",
+        "cn_name": "",
+        "default": "ze_meatropolis_p2",
+        "versions": [
+            "ze_meatropolis_p2"
+        ]
+    },
+    "ze_military_escape_p4": {
+        "name": "ze_military_escape_p4",
+        "cn_name": "",
+        "default": "ze_military_escape_p4",
+        "versions": [
+            "ze_military_escape_p4"
+        ]
+    },
+    "ze_minecraft_adventure_v1_3d": {
+        "name": "ze_minecraft_adventure_v1_3d",
+        "cn_name": "",
+        "default": "ze_minecraft_adventure_v1_3d",
+        "versions": [
+            "ze_minecraft_adventure_v1_3d"
+        ]
+    },
+    "ze_minecraft_v1_1_p3": {
+        "name": "ze_minecraft_v1_1_p3",
+        "cn_name": "",
+        "default": "ze_minecraft_v1_1_p3",
+        "versions": [
+            "ze_minecraft_v1_1_p3"
+        ]
+    },
+    "ze_mirrors_edge_reborn_v4_2_p3_xfix": {
+        "name": "ze_mirrors_edge_reborn_v4_2_p3_xfix",
+        "cn_name": "",
+        "default": "ze_mirrors_edge_reborn_v4_2_p3_xfix",
+        "versions": [
+            "ze_mirrors_edge_reborn_v4_2_p3_xfix"
+        ]
+    },
+    "ze_misaka2_b1": {
+        "name": "ze_misaka2_b1",
+        "cn_name": "",
+        "default": "ze_misaka_v1_9",
+        "versions": [
+            "ze_misaka2_b1",
+            "ze_misaka2_b3",
+            "ze_misaka2_b4",
+            "ze_misaka2_b5",
+            "ze_misaka2_b6",
+            "ze_misaka2_v1",
+            "ze_misaka_v1_10",
+            "ze_misaka_v1_6",
+            "ze_misaka_v1_7",
+            "ze_misaka_v1_8",
+            "ze_misaka_v1_9"
+        ]
+    },
+    "ze_mist_q2": {
+        "name": "ze_mist_q2",
+        "cn_name": "",
+        "default": "ze_mist_q2",
+        "versions": [
+            "ze_mist_q2"
+        ]
+    },
+    "ze_mlgsurf_v1_2": {
+        "name": "ze_mlgsurf_v1_2",
+        "cn_name": "",
+        "default": "ze_mlgsurf_v1_2",
+        "versions": [
+            "ze_mlgsurf_v1_2"
+        ]
+    },
+    "ze_mojos_minigames_v1_4_1": {
+        "name": "ze_mojos_minigames_v1_4_1",
+        "cn_name": "",
+        "default": "ze_mojos_minigames_v1_4_1",
+        "versions": [
+            "ze_mojos_minigames_v1_4_1"
+        ]
+    },
+    "ze_monochrome_v1f": {
+        "name": "ze_monochrome_v1f",
+        "cn_name": "",
+        "default": "ze_monochrome_v1f",
+        "versions": [
+            "ze_monochrome_v1f"
+        ]
+    },
+    "ze_moon_base_p3": {
+        "name": "ze_moon_base_p3",
+        "cn_name": "",
+        "default": "ze_moon_base_p3",
+        "versions": [
+            "ze_moon_base_p3"
+        ]
+    },
+    "ze_moon_shadow_legend_v10b_e": {
+        "name": "ze_moon_shadow_legend_v10b_e",
+        "cn_name": "",
+        "default": "ze_moon_shadow_legend_v9_9c_f",
+        "versions": [
+            "ze_moon_shadow_legend_v10b_e",
+            "ze_moon_shadow_legend_v5_6",
+            "ze_moon_shadow_legend_v8_4",
+            "ze_moon_shadow_legend_v9_1",
+            "ze_moon_shadow_legend_v9_5b",
+            "ze_moon_shadow_legend_v9_7b",
+            "ze_moon_shadow_legend_v9_8b",
+            "ze_moon_shadow_legend_v9_8c_f",
+            "ze_moon_shadow_legend_v9_8d",
+            "ze_moon_shadow_legend_v9_9c_f"
+        ]
+    },
+    "ze_motanuminc_sgfinal": {
+        "name": "ze_motanuminc_sgfinal",
+        "cn_name": "",
+        "default": "ze_motanuminc_sgfinal",
+        "versions": [
+            "ze_motanuminc_sgfinal"
+        ]
+    },
+    "ze_mountain_escape_snow_v5_8": {
+        "name": "ze_mountain_escape_snow_v5_8",
+        "cn_name": "",
+        "default": "ze_mountain_escape_snow_v5_8",
+        "versions": [
+            "ze_mountain_escape_snow_v5_8"
+        ]
+    },
+    "ze_mountain_escape_v5_zy": {
+        "name": "ze_mountain_escape_v5_zy",
+        "cn_name": "",
+        "default": "ze_mountain_escape_v5_zy",
+        "versions": [
+            "ze_mountain_escape_v5_zy"
+        ]
+    },
+    "ze_mountainspire_p2": {
+        "name": "ze_mountainspire_p2",
+        "cn_name": "",
+        "default": "ze_mountainspire_p2",
+        "versions": [
+            "ze_mountainspire_p2"
+        ]
+    },
+    "ze_mytex_escape_v3_p": {
+        "name": "ze_mytex_escape_v3_p",
+        "cn_name": "",
+        "default": "ze_mytex_escape_v3_p",
+        "versions": [
+            "ze_mytex_escape_v3_p"
+        ]
+    },
+    "ze_namviet_v6_1": {
+        "name": "ze_namviet_v6_1",
+        "cn_name": "",
+        "default": "ze_namviet_v6_1",
+        "versions": [
+            "ze_namviet_v6_1"
+        ]
+    },
+    "ze_naruto_p": {
+        "name": "ze_naruto_p",
+        "cn_name": "",
+        "default": "ze_naruto_p",
+        "versions": [
+            "ze_naruto_p"
+        ]
+    },
+    "ze_necromanteion_v3_1": {
+        "name": "ze_necromanteion_v3_1",
+        "cn_name": "",
+        "default": "ze_necromanteion_v3_1",
+        "versions": [
+            "ze_necromanteion_v3_1"
+        ]
+    },
+    "ze_negative_legacy_va1": {
+        "name": "ze_negative_legacy_va1",
+        "cn_name": "",
+        "default": "ze_negative_legacy_va2",
+        "versions": [
+            "ze_negative_legacy_va1",
+            "ze_negative_legacy_va2"
+        ]
+    },
+    "ze_new_crazy_escape_v4_1": {
+        "name": "ze_new_crazy_escape_v4_1",
+        "cn_name": "",
+        "default": "ze_new_crazy_escape_v4_1",
+        "versions": [
+            "ze_new_crazy_escape_v4_1"
+        ]
+    },
+    "ze_newyork_escape_v1": {
+        "name": "ze_newyork_escape_v1",
+        "cn_name": "",
+        "default": "ze_newyork_escape_v1",
+        "versions": [
+            "ze_newyork_escape_v1"
+        ]
+    },
+    "ze_niaozu_random_v0_0": {
+        "name": "ze_niaozu_random_v0_0",
+        "cn_name": "",
+        "default": "ze_niaozu_random_v0_3",
+        "versions": [
+            "ze_niaozu_random_v0_0",
+            "ze_niaozu_random_v0_2",
+            "ze_niaozu_random_v0_3"
+        ]
+    },
+    "ze_nightmare_dimension_p3": {
+        "name": "ze_nightmare_dimension_p3",
+        "cn_name": "",
+        "default": "ze_nightmare_dimension_p3",
+        "versions": [
+            "ze_nightmare_dimension_p3"
+        ]
+    },
+    "ze_noir_p1": {
+        "name": "ze_noir_p1",
+        "cn_name": "",
+        "default": "ze_noir_p1",
+        "versions": [
+            "ze_noir_p1"
+        ]
+    },
+    "ze_nostromo_escape_p": {
+        "name": "ze_nostromo_escape_p",
+        "cn_name": "",
+        "default": "ze_nostromo_escape_p2",
+        "versions": [
+            "ze_nostromo_escape_p",
+            "ze_nostromo_escape_p2"
+        ]
+    },
+    "ze_nostromo_redux_v1_2": {
+        "name": "ze_nostromo_redux_v1_2",
+        "cn_name": "",
+        "default": "ze_nostromo_redux_v1_2",
+        "versions": [
+            "ze_nostromo_redux_v1_2"
+        ]
+    },
+    "ze_nothing_alpha2": {
+        "name": "ze_nothing_alpha2",
+        "cn_name": "",
+        "default": "ze_nothing_alpha2",
+        "versions": [
+            "ze_nothing_alpha2"
+        ]
+    },
+    "ze_notredame_p3": {
+        "name": "ze_notredame_p3",
+        "cn_name": "",
+        "default": "ze_notredame_p3",
+        "versions": [
+            "ze_notredame_p3"
+        ]
+    },
+    "ze_nuclear_site_survie_by_gm": {
+        "name": "ze_nuclear_site_survie_by_gm",
+        "cn_name": "",
+        "default": "ze_nuclear_site_survie_by_gm",
+        "versions": [
+            "ze_nuclear_site_survie_by_gm"
+        ]
+    },
+    "ze_nuke_p5": {
+        "name": "ze_nuke_p5",
+        "cn_name": "",
+        "default": "ze_nuke_p5",
+        "versions": [
+            "ze_nuke_p5"
+        ]
+    },
+    "ze_ocean_base_escape_p2": {
+        "name": "ze_ocean_base_escape_p2",
+        "cn_name": "",
+        "default": "ze_ocean_base_escape_p2",
+        "versions": [
+            "ze_ocean_base_escape_p2"
+        ]
+    },
+    "ze_omega_p3": {
+        "name": "ze_omega_p3",
+        "cn_name": "",
+        "default": "ze_omen_090",
+        "versions": [
+            "ze_omega_p3",
+            "ze_omegatest",
+            "ze_omegatest2",
+            "ze_omen_090"
+        ]
+    },
+    "ze_omochi_b10": {
+        "name": "ze_omochi_b10",
+        "cn_name": "",
+        "default": "ze_omochix_v3_2",
+        "versions": [
+            "ze_omochi_b10",
+            "ze_omochix_v3_2"
+        ]
+    },
+    "ze_onahole_v3": {
+        "name": "ze_onahole_v3",
+        "cn_name": "",
+        "default": "ze_onahole_v3",
+        "versions": [
+            "ze_onahole_v3"
+        ]
+    },
+    "ze_otakuroom_v5_6f": {
+        "name": "ze_otakuroom_v5_6f",
+        "cn_name": "",
+        "default": "ze_otakuroom_v5_6f",
+        "versions": [
+            "ze_otakuroom_v5_6f"
+        ]
+    },
+    "ze_outbreak_v2_1_p": {
+        "name": "ze_outbreak_v2_1_p",
+        "cn_name": "",
+        "default": "ze_outbreak_v2_1_p",
+        "versions": [
+            "ze_outbreak_v2_1_p"
+        ]
+    },
+    "ze_palace_adventure_v1": {
+        "name": "ze_palace_adventure_v1",
+        "cn_name": "",
+        "default": "ze_palace_adventure_v1_2",
+        "versions": [
+            "ze_palace_adventure_v1",
+            "ze_palace_adventure_v1_2"
+        ]
+    },
+    "ze_pallaroid_rage_v1": {
+        "name": "ze_pallaroid_rage_v1",
+        "cn_name": "",
+        "default": "ze_pallaroid_rage_v1",
+        "versions": [
+            "ze_pallaroid_rage_v1"
+        ]
+    },
+    "ze_pandora_evolution": {
+        "name": "ze_pandora_evolution",
+        "cn_name": "",
+        "default": "ze_pandora_evolution",
+        "versions": [
+            "ze_pandora_evolution"
+        ]
+    },
+    "ze_pandora_revolutionz_hdr2": {
+        "name": "ze_pandora_revolutionz_hdr2",
+        "cn_name": "",
+        "default": "ze_pandora_revolutionz_hdr2",
+        "versions": [
+            "ze_pandora_revolutionz",
+            "ze_pandora_revolutionz_hdr2"
+        ]
+    },
+    "ze_panic_escape_v3_2_e5": {
+        "name": "ze_panic_escape_v3_2_e5",
+        "cn_name": "",
+        "default": "ze_panic_escape_v3_2_e5",
+        "versions": [
+            "ze_panic_escape_v3_2_e5"
+        ]
+    },
+    "ze_paper_escaper_p7": {
+        "name": "ze_paper_escaper_p7",
+        "cn_name": "",
+        "default": "ze_paper_escaper_p7",
+        "versions": [
+            "ze_paper_escaper_p7"
+        ]
+    },
+    "ze_pd2_crime_art_v2": {
+        "name": "ze_pd2_crime_art_v2",
+        "cn_name": "",
+        "default": "ze_pd2_crime_art_v2",
+        "versions": [
+            "ze_pd2_crime_art_v2"
+        ]
+    },
+    "ze_percocet_v5": {
+        "name": "ze_percocet_v5",
+        "cn_name": "",
+        "default": "ze_percocet_v5",
+        "versions": [
+            "ze_percocet_v5"
+        ]
+    },
+    "ze_phantasy_escape_p3": {
+        "name": "ze_phantasy_escape_p3",
+        "cn_name": "",
+        "default": "ze_phantasy_escape_p3",
+        "versions": [
+            "ze_phantasy_escape_p3"
+        ]
+    },
+    "ze_pidaras_v1_4fix3_ez2": {
+        "name": "ze_pidaras_v1_4fix3_ez2",
+        "cn_name": "",
+        "default": "ze_pidaras_v1_4fix3_ez2",
+        "versions": [
+            "ze_pidaras_v1_4fix3_ez2"
+        ]
+    },
+    "ze_pirates_port_royal_v4_2": {
+        "name": "ze_pirates_port_royal_v4_2",
+        "cn_name": "",
+        "default": "ze_pirates_port_royal_v5_6",
+        "versions": [
+            "ze_pirates_port_royal_v4_2",
+            "ze_pirates_port_royal_v5_6"
+        ]
+    },
+    "ze_pitchblack_p2": {
+        "name": "ze_pitchblack_p2",
+        "cn_name": "",
+        "default": "ze_pitchblack_p2",
+        "versions": [
+            "ze_pitchblack_p2"
+        ]
+    },
+    "ze_pizzatime_v9": {
+        "name": "ze_pizzatime_v9",
+        "cn_name": "",
+        "default": "ze_pizzatime_v9",
+        "versions": [
+            "ze_pizzatime_v9"
+        ]
+    },
+    "ze_pkmn_adventure_v9_3": {
+        "name": "ze_pkmn_adventure_v9_3",
+        "cn_name": "",
+        "default": "ze_pkmn_adventure_v9_3",
+        "versions": [
+            "ze_pkmn_adventure_v9_3"
+        ]
+    },
+    "ze_platformer_b2": {
+        "name": "ze_platformer_b2",
+        "cn_name": "",
+        "default": "ze_platformer_b2",
+        "versions": [
+            "ze_platformer_b2"
+        ]
+    },
+    "ze_pokemon_adventure_v1_1": {
+        "name": "ze_pokemon_adventure_v1_1",
+        "cn_name": "",
+        "default": "ze_pokemon_adventure_v1_1",
+        "versions": [
+            "ze_pokemon_adventure_v1_1"
+        ]
+    },
+    "ze_polatrio_v1_1": {
+        "name": "ze_polatrio_v1_1",
+        "cn_name": "",
+        "default": "ze_polatrio_v1_1",
+        "versions": [
+            "ze_polatrio_v1_1"
+        ]
+    },
+    "ze_project_alcaria_x2": {
+        "name": "ze_project_alcaria_x2",
+        "cn_name": "",
+        "default": "ze_project_alcaria_x2",
+        "versions": [
+            "ze_project_alcaria_x2"
+        ]
+    },
+    "ze_prototype_v3_4": {
+        "name": "ze_prototype_v3_4",
+        "cn_name": "",
+        "default": "ze_prototype_v3_4",
+        "versions": [
+            "ze_prototype_v3_4"
+        ]
+    },
+    "ze_ptest": {
+        "name": "ze_ptest",
+        "cn_name": "",
+        "default": "ze_ptest3",
+        "versions": [
+            "ze_ptest",
+            "ze_ptest2",
+            "ze_ptest3"
+        ]
+    },
+    "ze_puta_p3": {
+        "name": "ze_puta_p3",
+        "cn_name": "",
+        "default": "ze_puta_p3",
+        "versions": [
+            "ze_puta_p3"
+        ]
+    },
+    "ze_r4zor_final": {
+        "name": "ze_r4zor_final",
+        "cn_name": "",
+        "default": "ze_r4zor_final",
+        "versions": [
+            "ze_r4zor_final"
+        ]
+    },
+    "ze_rain1_v1x": {
+        "name": "ze_rain1_v1x",
+        "cn_name": "",
+        "default": "ze_rain2",
+        "versions": [
+            "ze_rain1_v1x",
+            "ze_rain1_v2x",
+            "ze_rain1_v3x",
+            "ze_rain1_v4x",
+            "ze_rain1_v5x",
+            "ze_rain1_v6x",
+            "ze_rain1_v7x",
+            "ze_rain1_v8x",
+            "ze_rain1_vx",
+            "ze_rain2"
+        ]
+    },
+    "ze_rain_of_time_v1X": {
+        "name": "ze_rain_of_time_v1X",
+        "cn_name": "",
+        "default": "ze_rain_of_time_v2x",
+        "versions": [
+            "ze_rain_of_time_v1X",
+            "ze_rain_of_time_v21x",
+            "ze_rain_of_time_v2x"
+        ]
+    },
+    "ze_rainbow_factory_v2": {
+        "name": "ze_rainbow_factory_v2",
+        "cn_name": "",
+        "default": "ze_rainbow_factory_v2",
+        "versions": [
+            "ze_rainbow_factory_v2"
+        ]
+    },
+    "ze_ramp_a1": {
+        "name": "ze_ramp_a1",
+        "cn_name": "",
+        "default": "ze_ramp_a1_1",
+        "versions": [
+            "ze_ramp_a1",
+            "ze_ramp_a1_1"
+        ]
+    },
+    "ze_rats_escape": {
+        "name": "ze_rats_escape",
+        "cn_name": "",
+        "default": "ze_rats_escape_v04",
+        "versions": [
+            "ze_rats_escape",
+            "ze_rats_escape_v04"
+        ]
+    },
+    "ze_rats_escape_final": {
+        "name": "ze_rats_escape_final",
+        "cn_name": "",
+        "default": "ze_rats_escape_final",
+        "versions": [
+            "ze_rats_escape_final"
+        ]
+    },
+    "ze_re_creation_b2_16": {
+        "name": "ze_re_creation_b2_16",
+        "cn_name": "",
+        "default": "ze_re_creation_b2_22",
+        "versions": [
+            "ze_re_creation_b2_16",
+            "ze_re_creation_b2_17",
+            "ze_re_creation_b2_18",
+            "ze_re_creation_b2_19",
+            "ze_re_creation_b2_20",
+            "ze_re_creation_b2_21",
+            "ze_re_creation_b2_22"
+        ]
+    },
+    "ze_reconnoiter_b5": {
+        "name": "ze_reconnoiter_b5",
+        "cn_name": "",
+        "default": "ze_reconnoiter_b5",
+        "versions": [
+            "ze_reconnoiter_b5"
+        ]
+    },
+    "ze_reloaded_v1_ez1": {
+        "name": "ze_reloaded_v1_ez1",
+        "cn_name": "",
+        "default": "ze_reloaded_v1_ez1",
+        "versions": [
+            "ze_reloaded_v1_ez1"
+        ]
+    },
+    "ze_resonance_cascade_p3_fix": {
+        "name": "ze_resonance_cascade_p3_fix",
+        "cn_name": "",
+        "default": "ze_resonance_cascade_p3_fix",
+        "versions": [
+            "ze_resonance_cascade_p3_fix"
+        ]
+    },
+    "ze_retribution_p2": {
+        "name": "ze_retribution_p2",
+        "cn_name": "",
+        "default": "ze_retribution_p2",
+        "versions": [
+            "ze_retribution_p2"
+        ]
+    },
+    "ze_rev_a3": {
+        "name": "ze_rev_a3",
+        "cn_name": "",
+        "default": "ze_rev_a6_3",
+        "versions": [
+            "ze_rev_a3",
+            "ze_rev_a6_3"
+        ]
+    },
+    "ze_ripsuhdude_v1_6": {
+        "name": "ze_ripsuhdude_v1_6",
+        "cn_name": "",
+        "default": "ze_ripsuhdude_v1_6",
+        "versions": [
+            "ze_ripsuhdude_v1_6"
+        ]
+    },
+    "ze_rizomata_a46": {
+        "name": "ze_rizomata_a46",
+        "cn_name": "",
+        "default": "ze_rizomata_b45",
+        "versions": [
+            "ze_rizomata_a46",
+            "ze_rizomata_b45"
+        ]
+    },
+    "ze_rockescape_2013_v1_3_3": {
+        "name": "ze_rockescape_2013_v1_3_3",
+        "cn_name": "",
+        "default": "ze_rockescape_2013_v1_3_3",
+        "versions": [
+            "ze_rockescape_2013_v1_3_3"
+        ]
+    },
+    "ze_roof_adventure_v8f": {
+        "name": "ze_roof_adventure_v8f",
+        "cn_name": "",
+        "default": "ze_roof_adventure_v8f",
+        "versions": [
+            "ze_roof_adventure_v8f"
+        ]
+    },
+    "ze_rooftop_madness_v1_9_csgo": {
+        "name": "ze_rooftop_madness_v1_9_csgo",
+        "cn_name": "",
+        "default": "ze_rooftop_madness_v1_9_csgo",
+        "versions": [
+            "ze_rooftop_madness_v1_9_csgo"
+        ]
+    },
+    "ze_ruinsinchaos_v2beta": {
+        "name": "ze_ruinsinchaos_v2beta",
+        "cn_name": "",
+        "default": "ze_ruinsinchaos_v2beta",
+        "versions": [
+            "ze_ruinsinchaos_v2beta"
+        ]
+    },
+    "ze_rush_B_v1_4": {
+        "name": "ze_rush_B_v1_4",
+        "cn_name": "",
+        "default": "ze_rush_B_v1_4",
+        "versions": [
+            "ze_rush_B_v1_4"
+        ]
+    },
+    "ze_sakuzyo_a8": {
+        "name": "ze_sakuzyo_a8",
+        "cn_name": "",
+        "default": "ze_sakuzyo_b2",
+        "versions": [
+            "ze_sakuzyo_a8",
+            "ze_sakuzyo_b2"
+        ]
+    },
+    "ze_samsung_galaxy_v1_0d": {
+        "name": "ze_samsung_galaxy_v1_0d",
+        "cn_name": "",
+        "default": "ze_samsung_galaxy_v1_0d",
+        "versions": [
+            "ze_samsung_galaxy_v1_0d"
+        ]
+    },
+    "ze_sandstorm_f2": {
+        "name": "ze_sandstorm_f2",
+        "cn_name": "",
+        "default": "ze_sandstorm_f2",
+        "versions": [
+            "ze_sandstorm_f2"
+        ]
+    },
+    "ze_sandstorm_go_v1_4": {
+        "name": "ze_sandstorm_go_v1_4",
+        "cn_name": "",
+        "default": "ze_sandstorm_go_v1_5",
+        "versions": [
+            "ze_sandstorm_go_v1_4",
+            "ze_sandstorm_go_v1_5"
+        ]
+    },
+    "ze_santassination_v3": {
+        "name": "ze_santassination_v3",
+        "cn_name": "",
+        "default": "ze_santassination_v3",
+        "versions": [
+            "ze_santassination_v3"
+        ]
+    },
+    "ze_saw_p3": {
+        "name": "ze_saw_p3",
+        "cn_name": "",
+        "default": "ze_saw_p3",
+        "versions": [
+            "ze_saw_p3"
+        ]
+    },
+    "ze_sc_turtles_v5_p2": {
+        "name": "ze_sc_turtles_v5_p2",
+        "cn_name": "",
+        "default": "ze_sc_turtles_v5_p2",
+        "versions": [
+            "ze_sc_turtles_v5_p2"
+        ]
+    },
+    "ze_seano_see_2g5": {
+        "name": "ze_seano_see_2g5",
+        "cn_name": "",
+        "default": "ze_seano_see_2g5",
+        "versions": [
+            "ze_seano_see_2g5"
+        ]
+    },
+    "ze_serpentis_temple_csgo5_c": {
+        "name": "ze_serpentis_temple_csgo5_c",
+        "cn_name": "",
+        "default": "ze_serpentis_temple_csgo5_c",
+        "versions": [
+            "ze_serpentis_temple_csgo5_c"
+        ]
+    },
+    "ze_sewage_processing_v8": {
+        "name": "ze_sewage_processing_v8",
+        "cn_name": "",
+        "default": "ze_sewage_processing_v8",
+        "versions": [
+            "ze_sewage_processing_v8"
+        ]
+    },
+    "ze_sewer_escape_p3": {
+        "name": "ze_sewer_escape_p3",
+        "cn_name": "",
+        "default": "ze_sewer_escape_p3",
+        "versions": [
+            "ze_sewer_escape_p3"
+        ]
+    },
+    "ze_sg1_missions_v2_1_p2": {
+        "name": "ze_sg1_missions_v2_1_p2",
+        "cn_name": "",
+        "default": "ze_sg1_missions_v2_1_p2",
+        "versions": [
+            "ze_sg1_missions_v2_1_p2"
+        ]
+    },
+    "ze_shaun_of_the_dead_b1_2": {
+        "name": "ze_shaun_of_the_dead_b1_2",
+        "cn_name": "",
+        "default": "ze_shaun_of_the_dead_b1_2",
+        "versions": [
+            "ze_shaun_of_the_dead_b1_2"
+        ]
+    },
+    "ze_shaurma_v3_b07_T5": {
+        "name": "ze_shaurma_v3_b07_T5",
+        "cn_name": "",
+        "default": "ze_shaurma_v3_b07_T5",
+        "versions": [
+            "ze_shaurma_v3_b07_T5"
+        ]
+    },
+    "ze_showdown_v4_1_p": {
+        "name": "ze_showdown_v4_1_p",
+        "cn_name": "",
+        "default": "ze_showdown_v4_1_p",
+        "versions": [
+            "ze_showdown_v4_1_p"
+        ]
+    },
+    "ze_siege4_fsize": {
+        "name": "ze_siege4_fsize",
+        "cn_name": "",
+        "default": "ze_siege4_fsize",
+        "versions": [
+            "ze_siege4_fsize"
+        ]
+    },
+    "ze_sky_athletic_adv_v9_12": {
+        "name": "ze_sky_athletic_adv_v9_12",
+        "cn_name": "",
+        "default": "ze_sky_athletic_adv_v9_12",
+        "versions": [
+            "ze_sky_athletic_adv_v9_12"
+        ]
+    },
+    "ze_sky_fantasy_a3": {
+        "name": "ze_sky_fantasy_a3",
+        "cn_name": "",
+        "default": "ze_sky_fantasy_v1_2f",
+        "versions": [
+            "ze_sky_fantasy_a3",
+            "ze_sky_fantasy_a4",
+            "ze_sky_fantasy_a5",
+            "ze_sky_fantasy_a6",
+            "ze_sky_fantasy_a7",
+            "ze_sky_fantasy_v1",
+            "ze_sky_fantasy_v1_2",
+            "ze_sky_fantasy_v1_2f"
+        ]
+    },
+    "ze_sky_fantasy_v1_2f2": {
+        "name": "ze_sky_fantasy_v1_2f2",
+        "cn_name": "",
+        "default": "ze_sky_fantasy_v1_2f2",
+        "versions": [
+            "ze_sky_fantasy_v1_2f2"
+        ]
+    },
+    "ze_sky_temples_v3": {
+        "name": "ze_sky_temples_v3",
+        "cn_name": "",
+        "default": "ze_sky_temples_v3",
+        "versions": [
+            "ze_sky_temples_v3"
+        ]
+    },
+    "ze_skyscraper_city_v5": {
+        "name": "ze_skyscraper_city_v5",
+        "cn_name": "",
+        "default": "ze_skyscraper_city_v5",
+        "versions": [
+            "ze_skyscraper_city_v5"
+        ]
+    },
+    "ze_slender_escape_rc2": {
+        "name": "ze_slender_escape_rc2",
+        "cn_name": "",
+        "default": "ze_slender_escape_rc2",
+        "versions": [
+            "ze_slender_escape_rc2"
+        ]
+    },
+    "ze_solidarity_paper": {
+        "name": "ze_solidarity_paper",
+        "cn_name": "",
+        "default": "ze_solidarity_paper",
+        "versions": [
+            "ze_solidarity_paper"
+        ]
+    },
+    "ze_somnium_illusione_t3": {
+        "name": "ze_somnium_illusione_t3",
+        "cn_name": "",
+        "default": "ze_somnium_illusione_t3",
+        "versions": [
+            "ze_somnium_illusione_t3"
+        ]
+    },
+    "ze_sorrento_escape_v2": {
+        "name": "ze_sorrento_escape_v2",
+        "cn_name": "",
+        "default": "ze_sorrento_escape_v2",
+        "versions": [
+            "ze_sorrento_escape_v2"
+        ]
+    },
+    "ze_space_flight_p3": {
+        "name": "ze_space_flight_p3",
+        "cn_name": "",
+        "default": "ze_space_flight_p3",
+        "versions": [
+            "ze_space_flight_p3"
+        ]
+    },
+    "ze_space_noma_b2": {
+        "name": "ze_space_noma_b2",
+        "cn_name": "",
+        "default": "ze_space_noma_b2",
+        "versions": [
+            "ze_space_noma_b2"
+        ]
+    },
+    "ze_spacestation_sgfix": {
+        "name": "ze_spacestation_sgfix",
+        "cn_name": "",
+        "default": "ze_spacestation_sgfix",
+        "versions": [
+            "ze_spacestation_sgfix"
+        ]
+    },
+    "ze_square_r": {
+        "name": "ze_square_r",
+        "cn_name": "",
+        "default": "ze_square_r",
+        "versions": [
+            "ze_square_r"
+        ]
+    },
+    "ze_sst2_p": {
+        "name": "ze_sst2_p",
+        "cn_name": "",
+        "default": "ze_sst_b2_1_p5",
+        "versions": [
+            "ze_sst2_p",
+            "ze_sst_b2_1_p5"
+        ]
+    },
+    "ze_stalkermonolit_v6_go": {
+        "name": "ze_stalkermonolit_v6_go",
+        "cn_name": "",
+        "default": "ze_stalkermonolit_v6_go",
+        "versions": [
+            "ze_stalkermonolit_v6_go"
+        ]
+    },
+    "ze_standart_map_csgo_b1": {
+        "name": "ze_standart_map_csgo_b1",
+        "cn_name": "",
+        "default": "ze_standart_map_csgo_b1",
+        "versions": [
+            "ze_standart_map_csgo_b1"
+        ]
+    },
+    "ze_stargate_escape_v8_p2": {
+        "name": "ze_stargate_escape_v8_p2",
+        "cn_name": "",
+        "default": "ze_stargate_escape_v8_p2",
+        "versions": [
+            "ze_stargate_escape_v8_p2"
+        ]
+    },
+    "ze_starwars_v2fix_csgo3": {
+        "name": "ze_starwars_v2fix_csgo3",
+        "cn_name": "",
+        "default": "ze_starwars_v2fix_csgo3",
+        "versions": [
+            "ze_starwars_v2fix_csgo3"
+        ]
+    },
+    "ze_stlab_v1": {
+        "name": "ze_stlab_v1",
+        "cn_name": "",
+        "default": "ze_stlab_v1",
+        "versions": [
+            "ze_stlab_v1"
+        ]
+    },
+    "ze_suchirifu_v3_1": {
+        "name": "ze_suchirifu_v3_1",
+        "cn_name": "",
+        "default": "ze_suchirifu_v3_1",
+        "versions": [
+            "ze_suchirifu_v3_1"
+        ]
+    },
+    "ze_sunkentemple_v3_1": {
+        "name": "ze_sunkentemple_v3_1",
+        "cn_name": "",
+        "default": "ze_sunkentemple_v3_1",
+        "versions": [
+            "ze_sunkentemple_v3_1"
+        ]
+    },
+    "ze_sunlight_v2_0_p8": {
+        "name": "ze_sunlight_v2_0_p8",
+        "cn_name": "",
+        "default": "ze_sunlight_v2_0_p8",
+        "versions": [
+            "ze_sunlight_v2_0_p8"
+        ]
+    },
+    "ze_supershitshow_a2": {
+        "name": "ze_supershitshow_a2",
+        "cn_name": "",
+        "default": "ze_supershitshow_a2",
+        "versions": [
+            "ze_supershitshow_a2"
+        ]
+    },
+    "ze_surf_danger_p2": {
+        "name": "ze_surf_danger_p2",
+        "cn_name": "",
+        "default": "ze_surf_danger_p2",
+        "versions": [
+            "ze_surf_danger_p2"
+        ]
+    },
+    "ze_surf_dark_fantasy_v1go": {
+        "name": "ze_surf_dark_fantasy_v1go",
+        "cn_name": "",
+        "default": "ze_surf_dark_fantasy_v1go3",
+        "versions": [
+            "ze_surf_dark_fantasy_v1go",
+            "ze_surf_dark_fantasy_v1go2",
+            "ze_surf_dark_fantasy_v1go3"
+        ]
+    },
+    "ze_surf_facility_p4": {
+        "name": "ze_surf_facility_p4",
+        "cn_name": "",
+        "default": "ze_surf_facility_p4",
+        "versions": [
+            "ze_surf_facility_p4"
+        ]
+    },
+    "ze_surf_froyo_lite_v2_4": {
+        "name": "ze_surf_froyo_lite_v2_4",
+        "cn_name": "",
+        "default": "ze_surf_froyo_lite_v2_4",
+        "versions": [
+            "ze_surf_froyo_lite_v2_4"
+        ]
+    },
+    "ze_surf_froyo_v2_2": {
+        "name": "ze_surf_froyo_v2_2",
+        "cn_name": "",
+        "default": "ze_surf_froyo_v2_2",
+        "versions": [
+            "ze_surf_froyo_v2_2"
+        ]
+    },
+    "ze_surf_galaxy_Zena_v2": {
+        "name": "ze_surf_galaxy_Zena_v2",
+        "cn_name": "",
+        "default": "ze_surf_galaxy_zena_v1",
+        "versions": [
+            "ze_surf_galaxy_Zena_v2",
+            "ze_surf_galaxy_Zena_v3",
+            "ze_surf_galaxy_zena_v1"
+        ]
+    },
+    "ze_surf_gypt_v1_3_1f": {
+        "name": "ze_surf_gypt_v1_3_1f",
+        "cn_name": "",
+        "default": "ze_surf_gypt_v1_3_1f",
+        "versions": [
+            "ze_surf_gypt_v1_3_1f"
+        ]
+    },
+    "ze_surf_inferno": {
+        "name": "ze_surf_inferno",
+        "cn_name": "",
+        "default": "ze_surf_inferno_003",
+        "versions": [
+            "ze_surf_inferno",
+            "ze_surf_inferno_003"
+        ]
+    },
+    "ze_surf_next_step_v1_4": {
+        "name": "ze_surf_next_step_v1_4",
+        "cn_name": "",
+        "default": "ze_surf_next_step_v1_4",
+        "versions": [
+            "ze_surf_next_step_v1_4"
+        ]
+    },
+    "ze_surf_outside_b1_10": {
+        "name": "ze_surf_outside_b1_10",
+        "cn_name": "",
+        "default": "ze_surf_outside_beta1_8",
+        "versions": [
+            "ze_surf_outside_b1_10",
+            "ze_surf_outside_b1_9",
+            "ze_surf_outside_beta1_8"
+        ]
+    },
+    "ze_surf_sahok_p3": {
+        "name": "ze_surf_sahok_p3",
+        "cn_name": "",
+        "default": "ze_surf_sahok_p3",
+        "versions": [
+            "ze_surf_sahok_p3"
+        ]
+    },
+    "ze_surf_saltfish_v1": {
+        "name": "ze_surf_saltfish_v1",
+        "cn_name": "",
+        "default": "ze_surf_saltfish_v1",
+        "versions": [
+            "ze_surf_saltfish_v1"
+        ]
+    },
+    "ze_surf_shonyudo_v1": {
+        "name": "ze_surf_shonyudo_v1",
+        "cn_name": "",
+        "default": "ze_surf_shonyudo_v1",
+        "versions": [
+            "ze_surf_shonyudo_v1"
+        ]
+    },
+    "ze_surf_vortex_v2_6": {
+        "name": "ze_surf_vortex_v2_6",
+        "cn_name": "",
+        "default": "ze_surf_vortex_v2_6",
+        "versions": [
+            "ze_surf_vortex_v2_6"
+        ]
+    },
+    "ze_surface_a1_ps_b2": {
+        "name": "ze_surface_a1_ps_b2",
+        "cn_name": "",
+        "default": "ze_surface_a1_ps_b2",
+        "versions": [
+            "ze_surface_a1_ps_b2"
+        ]
+    },
+    "ze_teletraan_v1": {
+        "name": "ze_teletraan_v1",
+        "cn_name": "",
+        "default": "ze_teletraan_v1",
+        "versions": [
+            "ze_teletraan_v1"
+        ]
+    },
+    "ze_temple_of_the_demon_god_v1_2": {
+        "name": "ze_temple_of_the_demon_god_v1_2",
+        "cn_name": "",
+        "default": "ze_temple_of_the_demon_god_v2",
+        "versions": [
+            "ze_temple_of_the_demon_god_v1_2",
+            "ze_temple_of_the_demon_god_v1_3",
+            "ze_temple_of_the_demon_god_v2"
+        ]
+    },
+    "ze_temple_raider_b4_ps6": {
+        "name": "ze_temple_raider_b4_ps6",
+        "cn_name": "",
+        "default": "ze_temple_raider_b4_ps6",
+        "versions": [
+            "ze_temple_raider_b4_ps6"
+        ]
+    },
+    "ze_test_b1": {
+        "name": "ze_test_b1",
+        "cn_name": "",
+        "default": "ze_test_b1",
+        "versions": [
+            "ze_test_b1"
+        ]
+    },
+    "ze_tesv_skyrim_v5_6": {
+        "name": "ze_tesv_skyrim_v5_6",
+        "cn_name": "",
+        "default": "ze_tesv_skyrim_v5_6",
+        "versions": [
+            "ze_tesv_skyrim_v5_6"
+        ]
+    },
+    "ze_texturescape_p2": {
+        "name": "ze_texturescape_p2",
+        "cn_name": "",
+        "default": "ze_texturescape_p2",
+        "versions": [
+            "ze_texturescape_p2"
+        ]
+    },
+    "ze_the_last_chapter_v1_5": {
+        "name": "ze_the_last_chapter_v1_5",
+        "cn_name": "",
+        "default": "ze_the_last_chapter_v1_5",
+        "versions": [
+            "ze_the_last_chapter_v1_5"
+        ]
+    },
+    "ze_the_lost_tomb_b3_3_1": {
+        "name": "ze_the_lost_tomb_b3_3_1",
+        "cn_name": "",
+        "default": "ze_the_lost_tomb_b3_3_1",
+        "versions": [
+            "ze_the_lost_tomb_b3_3_1"
+        ]
+    },
+    "ze_thelostworld_redux_p2": {
+        "name": "ze_thelostworld_redux_p2",
+        "cn_name": "",
+        "default": "ze_thelostworld_redux_p2",
+        "versions": [
+            "ze_thelostworld_redux_p2"
+        ]
+    },
+    "ze_thousand_steps_go1": {
+        "name": "ze_thousand_steps_go1",
+        "cn_name": "",
+        "default": "ze_thousand_steps_go1",
+        "versions": [
+            "ze_thousand_steps_go1"
+        ]
+    },
+    "ze_three_eyes_v0_7": {
+        "name": "ze_three_eyes_v0_7",
+        "cn_name": "",
+        "default": "ze_three_eyes_v0_7",
+        "versions": [
+            "ze_three_eyes_v0_7"
+        ]
+    },
+    "ze_thriller_escape_p": {
+        "name": "ze_thriller_escape_p",
+        "cn_name": "",
+        "default": "ze_thriller_escape_p",
+        "versions": [
+            "ze_thriller_escape_p"
+        ]
+    },
+    "ze_tibia_rookgaard_b1": {
+        "name": "ze_tibia_rookgaard_b1",
+        "cn_name": "",
+        "default": "ze_tibia_rookgaard_v3",
+        "versions": [
+            "ze_tibia_rookgaard_b1",
+            "ze_tibia_rookgaard_v3"
+        ]
+    },
+    "ze_tilex_possession_v2_12": {
+        "name": "ze_tilex_possession_v2_12",
+        "cn_name": "",
+        "default": "ze_tilex_possession_v2_12",
+        "versions": [
+            "ze_tilex_possession_v2_12"
+        ]
+    },
+    "ze_tilex_ultimate_v2_13e": {
+        "name": "ze_tilex_ultimate_v2_13e",
+        "cn_name": "",
+        "default": "ze_tilex_ultimate_v2_13e",
+        "versions": [
+            "ze_tilex_ultimate_v2_13e"
+        ]
+    },
+    "ze_timesplitters_p2": {
+        "name": "ze_timesplitters_p2",
+        "cn_name": "",
+        "default": "ze_timesplitters_p2",
+        "versions": [
+            "ze_timesplitters_p2"
+        ]
+    },
+    "ze_titanic_escape_v2_3_fix1": {
+        "name": "ze_titanic_escape_v2_3_fix1",
+        "cn_name": "",
+        "default": "ze_titanic_escape_v2_3_fix1",
+        "versions": [
+            "ze_titanic_escape_v2_3_fix1"
+        ]
+    },
+    "ze_tkara_v4_3": {
+        "name": "ze_tkara_v4_3",
+        "cn_name": "",
+        "default": "ze_tkara_v4_3",
+        "versions": [
+            "ze_tkara_v4_3"
+        ]
+    },
+    "ze_tloz_stone_tower_temple_v1_4": {
+        "name": "ze_tloz_stone_tower_temple_v1_4",
+        "cn_name": "",
+        "default": "ze_tloz_stone_tower_temple_v1_4",
+        "versions": [
+            "ze_tloz_stone_tower_temple_v1_4"
+        ]
+    },
+    "ze_toaster_p3": {
+        "name": "ze_toaster_p3",
+        "cn_name": "",
+        "default": "ze_toaster_p3",
+        "versions": [
+            "ze_toaster_p3"
+        ]
+    },
+    "ze_toppi_b3_1": {
+        "name": "ze_toppi_b3_1",
+        "cn_name": "",
+        "default": "ze_toppi_b3_3",
+        "versions": [
+            "ze_toppi_b3_1",
+            "ze_toppi_b3_3"
+        ]
+    },
+    "ze_totally_new_wester_csgo2": {
+        "name": "ze_totally_new_wester_csgo2",
+        "cn_name": "",
+        "default": "ze_totally_new_wester_csgo2",
+        "versions": [
+            "ze_totally_new_wester_csgo2"
+        ]
+    },
+    "ze_townscape_vfinallqfix2": {
+        "name": "ze_townscape_vfinallqfix2",
+        "cn_name": "",
+        "default": "ze_townscape_vfinallqfix2",
+        "versions": [
+            "ze_townscape_vfinallqfix2"
+        ]
+    },
+    "ze_traak_b2": {
+        "name": "ze_traak_b2",
+        "cn_name": "",
+        "default": "ze_traak_b2",
+        "versions": [
+            "ze_traak_b2"
+        ]
+    },
+    "ze_trainescape_final_p2": {
+        "name": "ze_trainescape_final_p2",
+        "cn_name": "",
+        "default": "ze_trainescape_final_p2",
+        "versions": [
+            "ze_trainescape_final_p2"
+        ]
+    },
+    "ze_trials_v1_4": {
+        "name": "ze_trials_v1_4",
+        "cn_name": "",
+        "default": "ze_trials_v3",
+        "versions": [
+            "ze_trials_v1_4",
+            "ze_trials_v3"
+        ]
+    },
+    "ze_tyranny_v5_go3": {
+        "name": "ze_tyranny_v5_go3",
+        "cn_name": "",
+        "default": "ze_tyranny_v5_go3",
+        "versions": [
+            "ze_tyranny_v5_go3"
+        ]
+    },
+    "ze_tyranny2_v1_csgo": {
+        "name": "ze_tyranny2_v1_csgo",
+        "cn_name": "",
+        "default": "ze_tyranny2_v1_csgo2",
+        "versions": [
+            "ze_tyranny2_v1_csgo",
+            "ze_tyranny2_v1_csgo1",
+            "ze_tyranny2_v1_csgo2"
+        ]
+    },
+    "ze_ultimate_autism_b2": {
+        "name": "ze_ultimate_autism_b2",
+        "cn_name": "",
+        "default": "ze_ultimate_autism_b2",
+        "versions": [
+            "ze_ultimate_autism_b2"
+        ]
+    },
+    "ze_underground_escape_p": {
+        "name": "ze_underground_escape_p",
+        "cn_name": "",
+        "default": "ze_underground_escape_p",
+        "versions": [
+            "ze_underground_escape_p"
+        ]
+    },
+    "ze_underground_station_v3": {
+        "name": "ze_underground_station_v3",
+        "cn_name": "",
+        "default": "ze_underground_station_v3",
+        "versions": [
+            "ze_underground_station_v3"
+        ]
+    },
+    "ze_undersea_temple_a2": {
+        "name": "ze_undersea_temple_a2",
+        "cn_name": "",
+        "default": "ze_undersea_temple_a2",
+        "versions": [
+            "ze_undersea_temple_a2"
+        ]
+    },
+    "ze_undertale_g_v1_3": {
+        "name": "ze_undertale_g_v1_3",
+        "cn_name": "",
+        "default": "ze_undertale_g_v1_3",
+        "versions": [
+            "ze_undertale_g_v1_3"
+        ]
+    },
+    "ze_unknow_escape_v5": {
+        "name": "ze_unknow_escape_v5",
+        "cn_name": "",
+        "default": "ze_unknow_escape_v5",
+        "versions": [
+            "ze_unknow_escape_v5"
+        ]
+    },
+    "ze_unknown_underground_a2_8_2": {
+        "name": "ze_unknown_underground_a2_8_2",
+        "cn_name": "",
+        "default": "ze_unknown_underground_a2_8_2",
+        "versions": [
+            "ze_unknown_underground_a2_8_2"
+        ]
+    },
+    "ze_urban_laby_of_death_p2": {
+        "name": "ze_urban_laby_of_death_p2",
+        "cn_name": "",
+        "default": "ze_urban_laby_of_death_p2",
+        "versions": [
+            "ze_urban_laby_of_death_p2"
+        ]
+    },
+    "ze_v0u0v_a6_csgo": {
+        "name": "ze_v0u0v_a6_csgo",
+        "cn_name": "",
+        "default": "ze_v0u0v_a6_csgo1",
+        "versions": [
+            "ze_v0u0v_a6_csgo",
+            "ze_v0u0v_a6_csgo1"
+        ]
+    },
+    "ze_valkvang_v1_2": {
+        "name": "ze_valkvang_v1_2",
+        "cn_name": "",
+        "default": "ze_valkvang_v1_2",
+        "versions": [
+            "ze_valkvang_v1_2"
+        ]
+    },
+    "ze_venice_escape_p3": {
+        "name": "ze_venice_escape_p3",
+        "cn_name": "",
+        "default": "ze_venice_escape_p3",
+        "versions": [
+            "ze_venice_escape_p3"
+        ]
+    },
+    "ze_vertigo_militia_b1_3_14": {
+        "name": "ze_vertigo_militia_b1_3_14",
+        "cn_name": "",
+        "default": "ze_vertigo_militia_b1_3_14",
+        "versions": [
+            "ze_vertigo_militia_b1_3_14"
+        ]
+    },
+    "ze_vietnam_p3": {
+        "name": "ze_vietnam_p3",
+        "cn_name": "",
+        "default": "ze_vietnam_p3",
+        "versions": [
+            "ze_vietnam_p3"
+        ]
+    },
+    "ze_volcano_escape_p2": {
+        "name": "ze_volcano_escape_p2",
+        "cn_name": "",
+        "default": "ze_volcano_escape_p2",
+        "versions": [
+            "ze_volcano_escape_p2"
+        ]
+    },
+    "ze_voodoo_islands_p5": {
+        "name": "ze_voodoo_islands_p5",
+        "cn_name": "",
+        "default": "ze_voodoo_islands_p5",
+        "versions": [
+            "ze_voodoo_islands_p5"
+        ]
+    },
+    "ze_voodoo_islands_v8_5_p4": {
+        "name": "ze_voodoo_islands_v8_5_p4",
+        "cn_name": "",
+        "default": "ze_voodoo_islands_v8_5_p4",
+        "versions": [
+            "ze_voodoo_islands_v8_5_p4"
+        ]
+    },
+    "ze_water_citi_b6": {
+        "name": "ze_water_citi_b6",
+        "cn_name": "",
+        "default": "ze_water_citi_b6",
+        "versions": [
+            "ze_water_citi_b6"
+        ]
+    },
+    "ze_whothefuckiam_v2_4": {
+        "name": "ze_whothefuckiam_v2_4",
+        "cn_name": "",
+        "default": "ze_whothefuckiam_v2_4",
+        "versions": [
+            "ze_whothefuckiam_v2_4"
+        ]
+    },
+    "ze_world_escapes_v1": {
+        "name": "ze_world_escapes_v1",
+        "cn_name": "",
+        "default": "ze_world_escapes_v1",
+        "versions": [
+            "ze_world_escapes_v1"
+        ]
+    },
+    "ze_yurilnier_beta005": {
+        "name": "ze_yurilnier_beta005",
+        "cn_name": "",
+        "default": "ze_yurilnier_beta005",
+        "versions": [
+            "ze_yurilnier_beta005"
+        ]
+    },
+    "ze_zakum": {
+        "name": "ze_zakum",
+        "cn_name": "",
+        "default": "ze_zakum",
+        "versions": [
+            "ze_zakum"
+        ]
+    },
+    "ze_zk_fapescape_p3": {
+        "name": "ze_zk_fapescape_p3",
+        "cn_name": "",
+        "default": "ze_zk_fapescape_p3",
+        "versions": [
+            "ze_zk_fapescape_p3"
+        ]
+    },
+    "ze_zk_mall_of_zombies_p2": {
+        "name": "ze_zk_mall_of_zombies_p2",
+        "cn_name": "",
+        "default": "ze_zk_mall_of_zombies_p2",
+        "versions": [
+            "ze_zk_mall_of_zombies_p2"
+        ]
+    },
+    "ze_zombie_city_finalfix_ps2": {
+        "name": "ze_zombie_city_finalfix_ps2",
+        "cn_name": "",
+        "default": "ze_zombie_city_finalfix_ps2",
+        "versions": [
+            "ze_zombie_city_finalfix_ps2"
+        ]
+    },
+    "ze_zombierig_p3": {
+        "name": "ze_zombierig_p3",
+        "cn_name": "",
+        "default": "ze_zombierig_p3",
+        "versions": [
+            "ze_zombierig_p3"
+        ]
+    }
+}
