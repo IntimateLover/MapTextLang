@@ -186,7 +186,6 @@
 	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
 	{
 		"chi"		"** 再等一下！还有其他的幸存者正在赶来 **"
-		"DoorCountdown"		"27"
 	}
 	"** THE POSITION IS LOST ** RETREAT **"
 	{
@@ -242,7 +241,10 @@
 	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
 	{
 		"chi"		"** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **"
-		"DoorCountdown"		"-1"
+	}
+	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
+	{
+		"chi"		"** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **"
 	}
 	"** All humans at bottom part will die in 15 seconds **"
 	{
