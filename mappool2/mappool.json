@@ -2421,10 +2421,11 @@
     "ze_m_the_final_v1_2": {
         "name": "ze_m_the_final_v1_2",
         "cn_name": "",
-        "default": "ze_m_the_final_v1_3",
+        "default": "ze_m_the_final_v1_4",
         "versions": [
             "ze_m_the_final_v1_2",
-            "ze_m_the_final_v1_3"
+            "ze_m_the_final_v1_3",
+            "ze_m_the_final_v1_4"
         ]
     },
     "ze_magala_castle_final": {
@@ -2510,7 +2511,7 @@
     "ze_misaka2_b1": {
         "name": "ze_misaka2_b1",
         "cn_name": "",
-        "default": "ze_misaka_v1_9",
+        "default": "ze_misaka2_v1_2",
         "versions": [
             "ze_misaka2_b1",
             "ze_misaka2_b3",
@@ -2518,11 +2519,22 @@
             "ze_misaka2_b5",
             "ze_misaka2_b6",
             "ze_misaka2_v1",
+            "ze_misaka2_v1_1",
+            "ze_misaka2_v1_2"
+        ]
+    },
+      "ze_misaka_v1_11": {
+        "name": "ze_misaka_v1_11",
+        "cn_name": "",
+        "default": "ze_misaka_v1_11",
+        "versions": [
             "ze_misaka_v1_10",
             "ze_misaka_v1_6",
             "ze_misaka_v1_7",
             "ze_misaka_v1_8",
-            "ze_misaka_v1_9"
+            "ze_misaka_v1_9",
+            "ze_misaka_v1_11"
+            
         ]
     },
     "ze_mist_q2": {
@@ -3106,10 +3118,19 @@
     "ze_rizomata_a46": {
         "name": "ze_rizomata_a46",
         "cn_name": "",
+        "default": "ze_rizomata_a46",
+        "versions": [
+            "ze_rizomata_a46"
+            
+        ]
+    },
+        "ze_rizomata_b45": {
+        "name": "ze_rizomata_b45",
+        "cn_name": "",
         "default": "ze_rizomata_b45",
         "versions": [
-            "ze_rizomata_a46",
             "ze_rizomata_b45"
+            
         ]
     },
     "ze_rockescape_2013_v1_3_3": {
@@ -3293,7 +3314,7 @@
     "ze_sky_fantasy_a3": {
         "name": "ze_sky_fantasy_a3",
         "cn_name": "",
-        "default": "ze_sky_fantasy_v1_2f",
+        "default": "ze_sky_fantasy_v1_3",
         "versions": [
             "ze_sky_fantasy_a3",
             "ze_sky_fantasy_a4",
@@ -3305,14 +3326,7 @@
             "ze_sky_fantasy_v1_2f"
         ]
     },
-    "ze_sky_fantasy_v1_2f2": {
-        "name": "ze_sky_fantasy_v1_2f2",
-        "cn_name": "",
-        "default": "ze_sky_fantasy_v1_2f2",
-        "versions": [
-            "ze_sky_fantasy_v1_2f2"
-        ]
-    },
+
     "ze_sky_temples_v3": {
         "name": "ze_sky_temples_v3",
         "cn_name": "",
