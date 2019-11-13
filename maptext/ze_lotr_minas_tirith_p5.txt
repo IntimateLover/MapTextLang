@@ -8,9 +8,9 @@
 	{
 		"chi"		"** 极限模式：开启 **"
 	}
-	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
+	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
 	{
-		"chi"		"** 所有的僵尸神器已经解锁可以使用，但是不包括lv4的炎魔 **"
+		"chi"		"** 所有的僵尸神器已经解锁可以使用，但是不包括lv5的炎魔 **"
 		"DoorCountdown"		"-1"
 	}
 	"** CONSTANT METEOR HAS BEEN ENABLED **"
@@ -193,7 +193,7 @@
 	}
 	"** WE HAVE LOST THE POSTION ** FALL BACK **"
 	{
-		"chi"		"** 我们失去了这个位置防守地点 ** 快撤退 **"
+		"chi"		"** 我们失去了这个防守地点 ** 快撤退 **"
 	}
 	"** STAGE 3 COMPLETED **"
 	{
@@ -311,7 +311,7 @@
 		"chi"		"** 提示3：在僵尸和人类神器商店可以凭神器等级获取神器 **"
 		"DoorCountdown"		"-1"
 	}
-	"** Tip 4 : your current level is your score divided by 100 approximately **"
+	"** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
 	{
 		"chi"		"** 提示4：你目前的神器等级是你的分数除以100左右 **"
 		"DoorCountdown"		"-1"
@@ -350,16 +350,18 @@
 	{
 		"chi"		"** 提示10：人类神器骑兵和重甲兵(护盾未被打破时)能击退僵尸 **"
 		"DoorCountdown"		"-1"
-		"｝"		"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
-		"{"		"chi"
-		"** 提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度 **"		"DoorCountdown"
+	｝
+	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	{		
+		"chi"		"** 提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度 **"
+		"DoorCountdown"		"-1"
 	}
 	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
 	{
 		"chi"		"** 提示12：第四关的坐便器在第二个塔的顶部（在木坡道后右转） **"
 		"DoorCountdown"		"-1"
 	}
-	"** Tip 13 : Gandalf +You shall not pass!+ is DAWS and White Knight is AADDSWSW **"
+	"** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
 	{
 		"chi"		"** 提示13：甘道夫的大招释放方式是：DAWDS 高达的大招释放方式是：AADDSWSW **"
 	}
@@ -405,7 +407,43 @@
 	}
 	"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
 	{
-		"chi"		"**我们失去了对这里的控制！快撤退！ **"
+		"chi"		"** 我们失去了对这里的控制！快撤退！ **"
+	}
+	"** RESIST 25 SECONDS! **"
+	{
+		"chi"		"** 防守25秒 **"
+	}
+	"*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***"
+	{
+		"chi"		"** 这张地图正在进行移植，目前可能无法在服务器上正常游玩。可以随时更改地图 **"
+	}
+	"** This is the first round. Wait for more players to restart round or suicide. **"
+	{
+		"chi"		"** 这是第一回合。等待更多的玩家重新开始回合或自杀。 **"
+	}
+	"** This is the first round. . **"
+	{
+		"chi"		"** 这是第一回合 **"
+	}
+	"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **"
+	{
+		"chi"		"** 热身回合 ** 60秒后重新开始游戏 **"
+	}
+	"** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **"
+	{
+		"chi"		"** 热身回合 ** 10秒后重新开始游戏 **"
+	}
+	"** WARMUP ROUND IS OVER! **"
+	{
+		"chi"		"** 热身回合已结束 **"
+	}
+	"** STARTING AT FIRST LEVEL! **"
+	{
+		"chi"		"** 从第一关开始 **"
+	}
+	"** A DOOR IS OPEN ** RUN UPSTAIRS ** GO GO GO **"
+	{
+		"chi"		"** 一扇门打开了 ** 跑去上层的建筑 ** 跑 跑 跑 **"
 	}
 	"sync_version"
 	{
