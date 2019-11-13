@@ -168,4 +168,24 @@
 	{
 		"syncvalue"		"95696"
 	}
+	"** Defend the crystal **"
+	{
+		"chi"		"** **"
+	}
+	"** Dont let the zombies touch the crystal **"
+	{
+		"chi"		"** **"
+	}
+	"** You failed **"
+	{
+		"chi"		"** **"
+	}
+	"** Dont step on the black circle **"
+	{
+		"chi"		"** **"
+	}
+	"** someone need to Jump over the black circle **"
+	{
+		"chi"		"** **"
+	}
 }
