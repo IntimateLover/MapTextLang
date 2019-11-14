@@ -1,0 +1,225 @@
+"Console_T"
+{
+	"***The platform will rise in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Slowfire***"
+	{
+		"chi"		"**一名玩家拾取了减速火**"
+	}
+	"***A player has picked up Heal***"
+	{
+		"chi"		"**一名玩家拾取了治疗**"
+	}
+	"***The door will open in 20 seconds***"
+	{
+		"chi"		"**门将会在20秒后打开**"
+	}
+	"***The button has been pressed***"
+	{
+		"chi"		"**按钮被按下了**"
+	}
+	"***The door will close in 10 seconds***"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+	"***A player has picked up GodThunder***"
+	{
+		"chi"		"**一名玩家拾取了天雷**"
+	}
+	"***Zombie will teleport in 10 seconds***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"***The fence will break in 15 seconds***"
+	{
+		"chi"		"**栅栏将在15秒后碎掉**"
+	}
+	"***A player has picked up Ammo***"
+	{
+		"chi"		"**一名玩家拾取了弹药**"
+	}
+	"***The door will open in 45 seconds***"
+	{
+		"chi"		"**门将在45秒后打开**"
+	}
+	"***A player has picked up HurtFire***"
+	{
+		"chi"		"**一名玩家拾取了伤害火**"
+	}
+	"***A player has picked up Wind***"
+	{
+		"chi"		"**一名玩家拾取了风**"
+	}
+	"***A player has picked up Earth***"
+	{
+		"chi"		"**一名玩家拾取了土**"
+	}
+	"***A player has picked up Gravity***"
+	{
+		"chi"		"**一名玩家拾取了黑洞**"
+	}
+	"***A player has picked up Electric***"
+	{
+		"chi"		"**一名玩家拾取了电**"
+	}
+	"***The fence will break in 25 seconds***"
+	{
+		"chi"		"**栅栏将在25秒后碎掉**"
+	}
+	"***Button has been pressed,keep defending***"
+	{
+		"chi"		"**按钮已经被按下，继续防守**"
+		"DoorCountdown"		"20"
+	}
+	"***Button has been pressed,door will open ***"
+	{
+		"chi"		"**按钮已经被按下，门即将打开**"
+		"DoorCountdown"		"25"
+	}
+	"***BOSS used laser***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used fire***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used gravity***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used push***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used move wall***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 25 seconds***"
+	{
+		"chi"		"**门将在25秒后打开**"
+	}
+	"***Defende last 25 seconds***"
+	{
+		"chi"		"**最后防守25秒**"
+	}
+	"***Button has pressed,door will open***"
+	{
+		"chi"		"**按钮已经被按下，门即将打开**"
+	}
+	"***The dorr will open in 60 seconds***"
+	{
+		"chi"		"**门将在60秒后打开**"
+	}
+	"***The platform will moving in 20 seconds***"
+	{
+		"chi"		"**平台将在20秒后移动**"
+	}
+	"***Button has pressed,road will open in 30 seconds.***"
+	{
+		"chi"		"**按钮已经被按下，路将在30秒后可以通行**"
+	}
+	"***The door will open in 60 seconds.***"
+	{
+		"chi"		"**门将在60秒后打开**"
+	}
+	"***A player has picked up Knigth***"
+	{
+		"chi"		"**一名玩家拾取了高达**"
+	}
+	"***BOSS is died***"
+	{
+		"chi"		"**boss死了！干的漂亮！**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"35934"
+	}
+	"***A player has picked up FreezeIce***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport will enable in 20 seconds***"
+	{
+		"chi"		"**20秒后传送**"
+	}
+	"***Fast kill the God of wrath. Roll call will start in 120 seconds.***"
+	{
+		"chi"		"**尽快击杀愤怒之神！120秒后会有好事发生！**"
+	}
+	"***Updraft will appear in 15 seconds***"
+	{
+		"chi"		"**15秒后出现上升气流**"
+	}
+	"***Defend 20 seconds***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"***Defend 15 seconds***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"***A lucky player was sent to the zombie zone***"
+	{
+		"chi"		"**一名幸运玩家被传送到了尸笼**"
+	}
+	"***Ruin in 240 seconds, Please go to the tree of life***"
+	{
+		"chi"		"**240秒后一切都将毁灭！请快速撤离到树下生存！**"
+	}
+	"***Denfend 10 seconds***"
+	{
+		"chi"		"**防守10秒**"
+	}
+	"***The road will open in 20 seconds***"
+	{
+		"chi"		"**路将在20秒后可以通行**"
+	}
+	"***The road will open in 15 seconds***"
+	{
+		"chi"		"**路将在15秒后可以通行**"
+	}
+	"***No humans around the tree of life, Stage failure***"
+	{
+		"chi"		"**没有人类在树旁，关卡失败**"
+	}
+	"***The road will open in 30 seconds***"
+	{
+		"chi"		"**路将在30秒后打开**"
+	}
+	"***Shatter crystal to open elevator.You only have 120 seconds***"
+	{
+		"chi"		"**打碎水晶来激活电梯！你只有120秒的时间！**"
+	}
+	"***You did it! The elevator will open in 15 seconds***"
+	{
+		"chi"		"**你做到了！电梯将在15秒后上升！**"
+	}
+	"***It used ice fog, Please use god thunder to dispel***"
+	{
+		"chi"		"**boss使用了冰雾！请使用天雷消除他！**"
+	}
+	"***The road will open in 25 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The fence will break in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies get in here, you fail***"
+	{
+		"chi"		"** **"
+	}
+	"***The dorr will open in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+}
