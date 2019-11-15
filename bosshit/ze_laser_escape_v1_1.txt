@@ -204,4 +204,16 @@
 		"hammerid"		"100960"
 		"m_iname"		"th_target2"
 	}
+	"100745"
+	{
+		"enable"		"0"
+		"hammerid"		"100745"
+		"m_iname"		"th_target1"
+	}
+	"101114"
+	{
+		"enable"		"0"
+		"hammerid"		"101114"
+		"m_iname"		"th_target3"
+	}
 }

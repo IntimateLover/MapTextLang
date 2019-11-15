@@ -591,4 +591,16 @@
 	{
 		"chi"		"** **"
 	}
+	"**A player has picked up Damage materia**"
+	{
+		"chi"		"** **"
+	}
+	"**Ifrit is using Dark**"
+	{
+		"chi"		"** **"
+	}
+	"**Boss battle will end in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
 }
