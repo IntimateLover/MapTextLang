@@ -170,7 +170,7 @@
 	}
 	"1181227"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1181227"
 		"m_iname"		"stage3_cyberdemon_physbox"
 	}

@@ -222,4 +222,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***The door will open in 50 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***Enter the tower and defend for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
 }
