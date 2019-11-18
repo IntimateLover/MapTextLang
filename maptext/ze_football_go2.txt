@@ -2,70 +2,77 @@
 {
 	"***Map by DarkerZ [RUS]***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图作者：DarkerZ [RUS] 地图翻译：神々が恋した幻想郷**"
 	}
 	"***WARMUP***"
 	{
-		"chi"		"** **"
+		"chi"		"** 热身回合**"
 	}
 	"***Welcome to ze_football***"
 	{
-		"chi"		"** **"
+		"chi"		"** 欢迎来到ze_football**"
 	}
 	"***Zombies Win***"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸胜利**"
 	}
 	"[Trigger] Drug in 5 secs. (5 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"** [Trigger] 5秒后的毒药效果（持续5秒）**"
+		"DoorCountdown"		"-1"
 	}
 	"[Trigger] Friction in 5 secs. (5 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"** [Trigger] 5秒后的低摩擦效果（持续5秒）**"
+		"DoorCountdown"		"-1"
 	}
 	"[Trigger] Retarded jumps in 5 secs. (5 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"**[Trigger] 5秒后的阻碍跳跃效果（持续5秒）**"
+		"DoorCountdown"		"-1"
 	}
 	"[Trigger] Total Darkness in 5 secs. (5 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"**[Trigger] 5后秒的黑暗效果（持续5秒）**"
+		"DoorCountdown"		"-1"
 	}
 	"[Trigger] Invert Control in 5 secs. (5 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"**[Trigger] 5秒后的变频控制效果（持续5秒）**"
+		"DoorCountdown"		"-1"
 	}
 	"[Trigger] LSD in 5 secs. (15 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"**[Trigger] 5秒后的颜色变换效果（持续15秒）**"
+		"DoorCountdown"		"-1"
 	}
 	"[Trigger] Jumpers in 5 secs. (5 secs. duration)"
 	{
-		"chi"		"** **"
+		"chi"		"**[Trigger] 5秒后的跳跃效果（持续5秒） **"
+		"DoorCountdown"		"-1"
 	}
 	"Times up. Get ready for Stabbing"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到了！准备开始拼刺刀了！**"
 	}
 	"***3***"
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"***1***"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"***Fight***"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始**"
 	}
 	"***Humans Win***"
 	{
-		"chi"		"** **"
+		"chi"		"** 人类获胜**"
 	}
 }
