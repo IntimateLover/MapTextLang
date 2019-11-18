@@ -607,4 +607,8 @@
 	{
 		"syncvalue"		"35676"
 	}
+	"**A player has picked up Ice materia**"
+	{
+		"chi"		"** **"
+	}
 }
