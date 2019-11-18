@@ -14,11 +14,11 @@
 	}
 	"*** ZOMBIE>>> Should go to under the entrance ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸>>> 一层后面入口有惊喜 **"
 	}
 	"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
 	{
-		"chi"		"** **"
+		"chi"		"**反连跳系系统>>> 如果你使用连跳，那么你将会受到一点惩罚 **"
 	}
 	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
 	{
@@ -46,127 +46,127 @@
 	}
 	"*** LEVEL 1: NORMAL JUMP ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战一: 简单跳跃 **"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
 	{
-		"chi"		"**LEVEL2传送点30秒后激活**"
+		"chi"		"**第二个传送点30秒后激活**"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
 	{
-		"chi"		"**LEVEL2传送点20秒后激活**"
+		"chi"		"**第二个传送点20秒后激活**"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
 	{
-		"chi"		"**LEVEL2传送点10秒后激活**"
+		"chi"		"**第二个传送点10秒后激活**"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
 	{
-		"chi"		"**LEVEL2传送点5秒后激活**"
+		"chi"		"**第二个传送点5秒后激活**"
 	}
 	"*** LEVEL 2:  LADDERS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战二: 梯子 **"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
 	{
-		"chi"		"**LEVEL3传送点30秒后激活**"
+		"chi"		"**第三个传送点30秒后激活**"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
 	{
-		"chi"		"**LEVEL3传送点20秒后激活**"
+		"chi"		"**第三个传送点20秒后激活**"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
 	{
-		"chi"		"**LEVEL3传送点10秒后激活**"
+		"chi"		"**第三个传送点10秒后激活**"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
 	{
-		"chi"		"**LEVEL3传送点5秒后激活**"
+		"chi"		"**第三个传送点5秒后激活**"
 	}
 	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战三: 移动板(一) **"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
 	{
-		"chi"		"**LEVEL4传送点30秒后激活**"
+		"chi"		"**第四个传送点30秒后激活**"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
 	{
-		"chi"		"**LEVEL4传送点20秒后激活**"
+		"chi"		"**第四个传送点20秒后激活**"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
 	{
-		"chi"		"**LEVEL4传送点10秒后激活**"
+		"chi"		"**第四个传送点10秒后激活**"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
 	{
-		"chi"		"**LEVEL4传送点5秒后激活**"
+		"chi"		"**第四个传送点5秒后激活**"
 	}
 	"*** LEVEL4 LOW GRAVITY ***"
 	{
-		"chi"		"**LEVEL4 低重力**"
+		"chi"		"**挑战四: 低重力**"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
 	{
-		"chi"		"**LEVEL5传送点30秒后激活**"
+		"chi"		"**第五个传送点30秒后激活**"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
 	{
-		"chi"		"**LEVEL5传送点20秒后激活**"
+		"chi"		"**第五个传送点20秒后激活**"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
 	{
-		"chi"		"**LEVEL5传送点10秒后激活**"
+		"chi"		"**第五个传送点10秒后激活**"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
 	{
-		"chi"		"**LEVEL5传送点5秒后激活**"
+		"chi"		"**第五个传送点5秒后激活**"
 	}
 	"*** LEVEL5 WINDY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战五: 逆风而行 **"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
 	{
-		"chi"		"**LEVEL6传送点30秒后激活**"
+		"chi"		"**第六个传送点30秒后激活**"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
 	{
-		"chi"		"**LEVEL6传送点20秒后激活**"
+		"chi"		"**第六个传送点20秒后激活**"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
 	{
-		"chi"		"**LEVEL6传送点10秒后激活**"
+		"chi"		"**第六个传送点10秒后激活**"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
 	{
-		"chi"		"**LEVEL6传送点5秒后激活**"
+		"chi"		"**第六个传送点5秒后激活**"
 	}
 	"*** LEVEL6 SLIDE 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战六: 溜冰前行(一) **"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
 	{
-		"chi"		"**LEVEL7传送点30秒后激活**"
+		"chi"		"**第七个传送点30秒后激活**"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
 	{
-		"chi"		"**LEVEL7传送点20秒后激活**"
+		"chi"		"**第七个传送点20秒后激活**"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
 	{
-		"chi"		"**LEVEL7传送点10秒后激活**"
+		"chi"		"**第七个传送点10秒后激活**"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
 	{
-		"chi"		"**LEVEL7传送点5秒后激活**"
+		"chi"		"**第七个传送点5秒后激活**"
 	}
 	"*** LEVEL7 HOLD THIS POTISION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战七: 坚守阵地 **"
 	}
 	"*** HOLD THIS POTISION for 30 SECONDS***"
 	{
@@ -194,31 +194,31 @@
 	}
 	"*** LEVEL 8: THE MOVING WALLS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战八: 移动墙壁 **"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL9传送点30秒后激活**"
+		"chi"		"**第九个传送点30秒后激活**"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL9传送点20秒后激活**"
+		"chi"		"**第九个传送点20秒后激活**"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL9传送点10秒后激活**"
+		"chi"		"**第九个传送点10秒后激活**"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL9传送点5秒后激活**"
+		"chi"		"**第九个传送点5秒后激活**"
 	}
 	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战九: 旋转障碍 **"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL10传送点30秒后激活**"
+		"chi"		"**第十个传送点30秒后激活**"
 	}
 	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
 	{
@@ -226,31 +226,32 @@
 	}
 	"COOL DOWN : 35 SEC"
 	{
-		"chi"		"**火CD:35秒**"
+		"chi"		"**冷却时间:35秒**"
+                "DoorCountdown" "-1"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL10传送点20秒后激活**"
+		"chi"		"**第十个传送点20秒后激活**"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL10传送点10秒后激活**"
+		"chi"		"**第十个传送点10秒后激活**"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL10传送点5秒后激活**"
+		"chi"		"**第十个传送点5秒后激活**"
 	}
 	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十: 移动板子(二) **"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
 	{
-		"chi"		"**LEVEL11传送点40秒后激活**"
+		"chi"		"**第十一个传送点40秒后激活**"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL11传送点30秒后激活**"
+		"chi"		"**第十一个传送点30秒后激活**"
 	}
 	"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
 	{
@@ -258,27 +259,27 @@
 	}
 	"CAUTION :It can use only once"
 	{
-		"chi"		"**注意：奶自能用一次**"
+		"chi"		"**注意：奶只能用一次**"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL11传送点20秒后激活**"
+		"chi"		"**第十一个传送点20秒后激活**"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL11传送点10秒后激活**"
+		"chi"		"**第十一个传送点10秒后激活**"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL11传送点5秒后激活**"
+		"chi"		"**第十一个传送点5秒后激活**"
 	}
 	"*** LEVEL 11:  SURF ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十一: 下一百层 **"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL12传送点30秒后激活**"
+		"chi"		"**第十二个传送点30秒后激活**"
 	}
 	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
 	{
@@ -286,31 +287,32 @@
 	}
 	"COOL DOWN : 40 SEC"
 	{
-		"chi"		"**风CD：40秒**"
+		"chi"		"**风冷却时间：40秒**"
+		"DoorCountdown" "-1"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL12传送点20秒后激活**"
+		"chi"		"**第十二个传送点20秒后激活**"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL12传送点10秒后激活**"
+		"chi"		"**第十二个传送点10秒后激活**"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL12传送点5秒后激活**"
+		"chi"		"**第十二个传送点5秒后激活**"
 	}
 	"*** LEVEL 12:  LASERS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十二: 激光障碍 **"
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL13传送点30秒后激活**"
+		"chi"		"**第十三个传送点30秒后激活**"
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL13传送点20秒后激活**"
+		"chi"		"**第十三个传送点20秒后激活**"
 	}
 	"*** THE LASER MACHINE IS BROKEN ***"
 	{
@@ -322,35 +324,35 @@
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL13传送点10秒后激活**"
+		"chi"		"**第十三个传送点10秒后激活**"
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL13传送点5秒后激活**"
+		"chi"		"**第十三个传送点5秒后激活**"
 	}
 	"*** LEVEL 13: FLYING ***"
 	{
-		"chi"		"**LEVEL 13: FLYING（躲开黄色方块飞到顶端）**"
+		"chi"		"**挑战十三: 躲开黄色方块飞到顶端 **"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL14传送点30秒后激活**"
+		"chi"		"**第十四个传送点30秒后激活**"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL14传送点20秒后激活**"
+		"chi"		"**第十四个传送点20秒后激活**"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL14传送点10秒后激活**"
+		"chi"		"**第十四个传送点10秒后激活**"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL14传送点5秒后激活**"
+		"chi"		"**第十四个传送点5秒后激活**"
 	}
 	"*** LEVEL 14:  THE CLOUD BOSS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十四: 云朵BOSS **"
 	}
 	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
 	{
@@ -430,11 +432,11 @@
 	}
 	"*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十五: 移动板子(三) **"
 	}
 	"*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
 	{
-		"chi"		"**板架5秒后启动**"
+		"chi"		"**板架5秒后离开**"
 	}
 	"*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
 	{
@@ -442,83 +444,83 @@
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL16传送点30秒后激活**"
+		"chi"		"**第十六个传送点30秒后激活**"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL16传送点20秒后激活**"
+		"chi"		"**第十六个传送点20秒后激活**"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL16传送点10秒后激活**"
+		"chi"		"**第十六个传送点10秒后激活**"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL16传送点5秒后激活**"
+		"chi"		"**第十六个传送点5秒后激活**"
 	}
 	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十六: 多重障碍路(一) **"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL17传送点30秒后激活**"
+		"chi"		"**第十七个传送点30秒后激活**"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL17传送点20秒后激活**"
+		"chi"		"**第十七个传送点20秒后激活**"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL17传送点10秒后激活**"
+		"chi"		"**第十七个传送点10秒后激活**"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL17传送点5秒后激活**"
+		"chi"		"**第十七个传送点5秒后激活**"
 	}
 	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十七: 多重障碍路(二) **"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL18传送点30秒后激活**"
+		"chi"		"**第十八个传送点30秒后激活**"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL18传送点20秒后激活**"
+		"chi"		"**第十八个传送点20秒后激活**"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL18传送点10秒后激活**"
+		"chi"		"**第十八个传送点10秒后激活**"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL18传送点5秒后激活**"
+		"chi"		"**第十八个传送点5秒后激活**"
 	}
 	"*** LEVEL18 SLIDE 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十八: 溜冰前行(二) **"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL19传送点30秒后激活**"
+		"chi"		"**第十九个传送点30秒后激活**"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL19传送点20秒后激活**"
+		"chi"		"**第十九个传送点20秒后激活**"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL19传送点10秒后激活**"
+		"chi"		"**第十九个传送点10秒后激活**"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL19传送点5秒后激活**"
+		"chi"		"**第十九个传送点5秒后激活**"
 	}
 	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十九: 多重障碍路(三) **"
 	}
 	"*** BARRIER DISABLED ***"
 	{
@@ -526,28 +528,27 @@
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
-		"chi"		"**LEVEL20传送点30秒后激活**"
+		"chi"		"**第二十个传送点30秒后激活**"
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
-		"chi"		"**LEVEL20传送点20秒后激活**"
+		"chi"		"**第二十个传送点20秒后激活**"
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
-		"chi"		"**LEVEL20传送点10秒后激活**"
+		"chi"		"**第二十个传送点10秒后激活**"
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
-		"chi"		"**LEVEL20传送点5秒后激活**"
+		"chi"		"**第二十个传送点5秒后激活**"
 	}
 	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战二十: 多重障碍路(四) **"
 	}
 	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**最后的传送点30秒后激活**"
-		"DoorCountdown"		"30"
 	}
 	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
 	{
@@ -563,7 +564,7 @@
 	}
 	"*** FINAL LEVEL:  ???? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最终挑战: ??? **"
 	}
 	"*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
 	{
@@ -599,7 +600,8 @@
 	}
 	"COOL DOWN : 50 SEC"
 	{
-		"chi"		"**冰CD:50秒**"
+		"chi"		"**冰冷却时间:50秒**"
+		"DoorCountdown" "-1"
 	}
 	"*** KEY BOARD CRASHER IS DEAD ***"
 	{
@@ -608,7 +610,6 @@
 	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
 	{
 		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
-		"DoorCountdown"		"30"
 		"ico"		"icon_fire"
 	}
 	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
@@ -622,7 +623,7 @@
 	}
 	"*** CAREFULL!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心!!! **"
 	}
 	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
 	{
@@ -638,31 +639,31 @@
 	}
 	"*** STAGE 1: EXTREME ***"
 	{
-		"chi"		"**EX1**"
+		"chi"		"**第四关:极限难度一**"
 	}
 	"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家可以选择极限模式 **"
 	}
 	"*** HURRY ! HURRY !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**GKD! GKD! **"
 	}
 	"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家进入了极限模式选择区域 **"
 	}
 	"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家按下了所有模式按钮 **"
 	}
 	"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有人类将在5秒后传送 **"
 	}
 	"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有僵尸将在5秒后传送 **"
 	}
 	"*** STAGE 1: EXTREME COMPLETED ***"
 	{
@@ -670,7 +671,7 @@
 	}
 	"*** STAGE 2: EXTREME ***"
 	{
-		"chi"		"**EX2**"
+		"chi"		"**第五关:极限难度二**"
 	}
 	"*** A PERSON PRESSED QUICK MODE BUTTON ***"
 	{
@@ -682,7 +683,7 @@
 	}
 	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
 	{
-		"chi"		"**一位玩家捡起了小奶（恢复到100血）**"
+		"chi"		"**一位玩家捡起了小奶（可以缓慢回血,无次数限制）**"
 		"DoorCountdown"		"-1"
 	}
 	"CUTE CLOUD :Hi,humans..."
@@ -723,15 +724,15 @@
 	}
 	"*** A PLAYER HAS PICKED UP THE MEGA LASER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了激光神器 **"
 	}
 	"*** IT IS A SECRET ITEM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**它是一个隐藏神器 **"
 	}
 	"*** YOU CAN KILL EASIER THE ZOMBIE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**有它你可以更简单地杀掉僵尸 **"
 	}
 	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
 	{
@@ -811,11 +812,12 @@
 	}
 	">>> AIR SLASHER IS COMING <<<< AVOID IT DUCK OR JUMP !!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**面对僵尸有激光刀过来 <<<< 在两边蹲下或者跳跃躲避 **"
 	}
 	"Remember : 5 COUNTS !!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**记住: 5刀!!! **"
+		"DoorCountdown" "-1"
 	}
 	"CUTE CLOUD :AAAHhhhh...."
 	{
@@ -827,7 +829,7 @@
 	}
 	"*** STAGE 3: EXTREME ***"
 	{
-		"chi"		"**EX3 **"
+		"chi"		"**第六关:极限难度三 **"
 	}
 	"*** We don't know what will happen... ***"
 	{
@@ -859,11 +861,11 @@
 	}
 	"*** EXTREME STAGE COMPLETED...? ***"
 	{
-		"chi"		"**EX关卡结束？ **"
+		"chi"		"**EX关卡结束...? **"
 	}
 	"*** JUMP ***"
 	{
-		"chi"		"**跳跃 **"
+		"chi"		"**快跳跃 **"
 	}
 	"*** Where are we...? ***"
 	{
@@ -880,7 +882,6 @@
 	"*** Star road will active in 20 seconds ***"
 	{
 		"chi"		"**星路将在20秒后启动 **"
-		"DoorCountdown"		"20"
 	}
 	"*** Star road will active in 5 seconds ***"
 	{
@@ -912,15 +913,16 @@
 	}
 	"*** ZOMBIE WAVE ***"
 	{
-		"chi"		"**僵尸海**"
+		"chi"		"**僵尸海(面对BOSS左右躲避冲过来的僵尸)**"
 	}
 	"*** KEYBOARD ATTACK ***"
 	{
-		"chi"		"**键盘攻击**"
+		"chi"		"**键盘攻击(全屏伤害)**"
 	}
 	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
 	{
-		"chi"		"**>>>> 警告 <<<< 键盘RUSH**"
+		"chi"		"**>>>> 警告 <<<< 键盘RUSH(全体强制1血**"
+		"DoorCountdown" "-1"
 	}
 	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
 	{
@@ -956,7 +958,7 @@
 	}
 	"*** TAPIOKA PUNCH ***"
 	{
-		"chi"		"**木薯拳**"
+		"chi"		"**木薯拳(看准前方偏上,左右躲避出现的积木)**"
 	}
 	"CRASHER :Wha...What...? I was defeated by them....?"
 	{
@@ -1044,15 +1046,15 @@
 	}
 	"*** DRAIN KEYBOARD ***"
 	{
-		"chi"		"**键盘外流**"
+		"chi"		"**键盘外流(后退按住S抵抗吸力,碰到BOSS秒杀)**"
 	}
 	"*** FLYING CHANCE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞行切割刀(看准前方和脚下躲避) **"
 	}
 	"*** ESC STORM ***"
 	{
-		"chi"		"**ESC风暴 **"
+		"chi"		"**ESC风暴(看准前面左右躲避ESC） **"
 	}
 	"*** OVERRUN PROTECTER DISABLED ***"
 	{
@@ -1276,63 +1278,63 @@
 	}
 	"*** SURVIVE FOR 15 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存15秒!! **"
 	}
 	"*** SURVIVE FOR 14 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存14秒!! **"
 	}
 	"*** SURVIVE FOR 13 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存13秒!! **"
 	}
 	"*** SURVIVE FOR 12 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存12秒!! **"
 	}
 	"*** SURVIVE FOR 11 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存11秒!! **"
 	}
 	"*** SURVIVE FOR 10 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存10秒!! **"
 	}
 	"*** SURVIVE FOR 9 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存9秒!! **"
 	}
 	"*** SURVIVE FOR 8 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存8秒!! **"
 	}
 	"*** SURVIVE FOR 7 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存7秒!! **"
 	}
 	"*** SURVIVE FOR 6 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存6秒!! **"
 	}
 	"*** SURVIVE FOR 5 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存5秒!! **"
 	}
 	"*** SURVIVE FOR 4 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存4秒!! **"
 	}
 	"*** SURVIVE FOR 3 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存3秒!! **"
 	}
 	"*** SURVIVE FOR 2 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存2秒!! **"
 	}
 	"*** SURVIVE FOR 1 SECONDS !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存1秒!! **"
 	}
 	"*** We can feel hard wind pressure...!! Dodge it !!!"
 	{
@@ -1340,7 +1342,8 @@
 	}
 	"Remember : 8 COUNTS !!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**记住: 8刀 **"
+		"DoorCountdown" "-1"
 	}
 	"sync_version"
 	{
@@ -1356,7 +1359,7 @@
 	}
 	"*** Welcome to the sky athletic !!! ***"
 	{
-		"chi"		"**欢迎来到sky athletic！！！**"
+		"chi"		"**欢迎来到天空竞技场！！！**"
 	}
 	"*** This world needs something Technique ***"
 	{
@@ -1372,7 +1375,7 @@
 	}
 	"*** ADVENTURE WILL START IN 1 MINUTE AND 30 SECONDS***"
 	{
-		"chi"		"**1分30秒后开始冒险**"
+		"chi"		"**90秒后开始冒险**"
 	}
 	"*** ADVENTURE WILL START IN 30 SECONDS ***"
 	{
@@ -1388,11 +1391,11 @@
 	}
 	"*** ADVENTURE is begining... Good lu"
 	{
-		"chi"		"**冒险开始了...祝你好运**"
+		"chi"		"**冒险开始了...祝你**"
 	}
 	"cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
 	{
-		"chi"		"** **"
+		"chi"		"**好运 **"
 	}
 	"*** FIRST Portal will active in 20 SEDONDS ***"
 	{
@@ -1416,51 +1419,51 @@
 	}
 	"*** LEVEL19 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点30秒后激活 **"
 	}
 	"*** LEVEL19 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点20秒后激活 **"
 	}
 	"*** LEVEL19 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点10秒后激活 **"
 	}
 	"*** LEVEL19 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点5秒后激活 **"
 	}
 	"*** LEVEL20 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点30秒后激活 **"
 	}
 	"*** LEVEL20 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点20秒后激活 **"
 	}
 	"*** LEVEL20 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点10秒后激活 **"
 	}
 	"*** LEVEL20 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点5秒后激活 **"
 	}
 	"*** FINAL Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点30秒后激活 **"
 	}
 	"*** FINAL Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点20秒后激活 **"
 	}
 	"*** FINAL Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点10秒后激活 **"
 	}
 	"*** FINAL Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点5秒后激活 **"
 	}
 	"CLOUD FATHER :I hope he is dead..."
 	{
@@ -1476,19 +1479,19 @@
 	}
 	"*** DEFEND FOR 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒 **"
 	}
 	"*** Defend for 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20秒 **"
 	}
 	"*** Defend for 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10秒 **"
 	}
 	"*** DEFEND FOR 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守5秒 **"
 	}
 	"*** CONGRATULATIONS !!!!!!!! ***"
 	{
@@ -1496,11 +1499,11 @@
 	}
 	"*** YOU SECURED SKY ATHLETIC...? ***"
 	{
-		"chi"		"**你在SKY ATHLETIC活下来了...？**"
+		"chi"		"**你在天空竞技中活下来了...？**"
 	}
 	"*** STAGE : KEY WORLD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七关：按键世界 **"
 	}
 	"*** Portal is broken by unknown !!!!! ***"
 	{
@@ -1516,7 +1519,7 @@
 	}
 	"*** Character brok** a*d ano**er way o*****  ***"
 	{
-		"chi"		"**字符 损*不 禾* 另*条 道路 离******"
+		"chi"		"**另一条路开放 ***"
 	}
 	"*** 40 ***"
 	{
@@ -1544,7 +1547,7 @@
 	}
 	"*** KEY RUINS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**KEY破坏 **"
 	}
 	"*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
 	{
@@ -1572,7 +1575,7 @@
 	}
 	"*** DRAIN KEYBOARD 2 ***"
 	{
-		"chi"		"**键盘外流2**"
+		"chi"		"**键盘外流2(看脚下地板,远离BOSS面前颜色变淡灰色的地板)**"
 		"ico"		"icon_fire"
 	}
 	"*** KEY METEOR 2 ***"
@@ -1581,7 +1584,8 @@
 	}
 	"*** THE WAY OF DELETEING ***"
 	{
-		"chi"		"**删除**"
+		"chi"		"**删除(射击困住队友的玻璃，打碎后看头顶离开原地)**"
+		"ico"		"icon_fire"
 	}
 	"*** 8 **"
 	{
@@ -1625,207 +1629,207 @@
 	}
 	"*** LEVEL2 Portal will active in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点30秒后激活 **"
 	}
 	"*** LEVEL2 Portal will active in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点20秒后激活 **"
 	}
 	"*** LEVEL2 Portal will active in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点10秒后激活 **"
 	}
 	"*** LEVEL2 Portal will active in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点5秒后激活 **"
 	}
 	"*** LEVEL3 Portal will active in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点30秒后激活 **"
 	}
 	"*** LEVEL3 Portal will active in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点20秒后激活 **"
 	}
 	"*** LEVEL3 Portal will active in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点10秒后激活 **"
 	}
 	"*** LEVEL3 Portal will active in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点5秒后激活 **"
 	}
 	"*** LEVEL4 Portal will active in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点30秒后激活 **"
 	}
 	"*** LEVEL4 Portal will active in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点20秒后激活 **"
 	}
 	"*** LEVEL4 Portal will active in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点10秒后激活 **"
 	}
 	"*** LEVEL4 Portal will active in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点5秒后激活 **"
 	}
 	"*** LEVEL5 Portal will active in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点30秒后激活 **"
 	}
 	"*** LEVEL5 Portal will active in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点20秒后激活 **"
 	}
 	"*** LEVEL5 Portal will active in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点10秒后激活 **"
 	}
 	"*** LEVEL5 Portal will active in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点5秒后激活 **"
 	}
 	"*** LEVEL6 Portal will active in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点30秒后激活 **"
 	}
 	"*** LEVEL6 Portal will active in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点20秒后激活 **"
 	}
 	"*** LEVEL6 Portal will active in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点10秒后激活 **"
 	}
 	"*** LEVEL6 Portal will active in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点5秒后激活 **"
 	}
 	"*** LEVEL7 Portal will active in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点30秒后激活 **"
 	}
 	"*** LEVEL7 Portal will active in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点20秒后激活 **"
 	}
 	"*** LEVEL7 Portal will active in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点10秒后激活 **"
 	}
 	"*** LEVEL7 Portal will active in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点5秒后激活 **"
 	}
 	"*** LEVEL7 HOLD THIS POSITION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战七: 坚守阵地 **"
 	}
 	"*** HOLD THIS POSITION for 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒 **"
 	}
 	"*** HOLD THIS POSITION for 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20秒 **"
 	}
 	"*** HOLD THIS POSITION for 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10秒 **"
 	}
 	"*** HOLD THIS POSITION for 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守5秒 **"
 	}
 	"*** LEVEL9 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点30秒后激活 **"
 	}
 	"*** LEVEL9 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点20秒后激活 **"
 	}
 	"*** PUSHING ZOMBIES ARE COMING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸捡到了风 **"
 	}
 	"*** LEVEL9 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点10秒后激活 **"
 	}
 	"*** LEVEL9 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点5秒后激活 **"
 	}
 	"*** LEVEL10 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点30秒后激活 **"
 	}
 	"*** LEVEL10 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点20秒后激活 **"
 	}
 	"*** LEVEL10 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点10秒后激活 **"
 	}
 	"*** LEVEL10 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点5秒后激活 **"
 	}
 	"*** LEVEL11 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点30秒后激活 **"
 	}
 	"*** LEVEL11 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点20秒后激活 **"
 	}
 	"*** LEVEL11 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点10秒后激活 **"
 	}
 	"*** LEVEL11 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点5秒后激活 **"
 	}
 	"*** LEVEL 11:  JUMPS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**挑战十一: 中等跳跃 **"
 	}
 	"*** LEVEL12 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点30秒后激活 **"
 	}
 	"*** LEVEL12 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点20秒后激活 **"
 	}
 	"*** LEVEL12 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点10秒后激活 **"
 	}
 	"*** LEVEL12 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点5秒后激活 **"
 	}
 	"*** LEVEL13 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点30秒后激活 **"
 	}
 	"*** LEVEL13 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点20秒后激活 **"
 	}
 	"*** LEVEL13 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点10秒后激活 **"
 	}
 	"*** LEVEL13 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点5秒后激活 **"
 	}
 	"*** ALL OF LASER DISABLED ***"
 	{
@@ -1833,23 +1837,23 @@
 	}
 	"*** LEVEL14 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点30秒后激活 **"
 	}
 	"*** LEVEL14 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点20秒后激活 **"
 	}
 	"*** HURTING ZOMBIES ARE COMING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸捡到了伤害神器 **"
 	}
 	"*** LEVEL14 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点10秒后激活 **"
 	}
 	"*** LEVEL14 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点5秒后激活 **"
 	}
 	"BOY CLOUD : !? theyre the humans !?"
 	{
@@ -1901,63 +1905,63 @@
 	}
 	"*** ZOMBIE WILL COME IN 8 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在8秒后出笼 **"
 	}
 	"*** LEVEL16 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点30秒后激活 **"
 	}
 	"*** LEVEL16 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点20秒后激活 **"
 	}
 	"*** LEVEL16 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点10秒后激活 **"
 	}
 	"*** LEVEL16 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点5秒后激活 **"
 	}
 	"*** KAMIKAZE ZOMBIES ARE COMING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位僵尸捡起了自爆神器 **"
 	}
 	"*** LEVEL17 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点30秒后激活 **"
 	}
 	"*** LEVEL17 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点20秒后激活 **"
 	}
 	"*** LEVEL17 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点10秒后激活 **"
 	}
 	"*** LEVEL17 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点5秒后激活 **"
 	}
 	"*** Lift will start in 7 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**铁板将在7秒后离开 **"
 	}
 	"*** LEVEL18 Portal will active in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点30秒后激活 **"
 	}
 	"*** LEVEL18 Portal will active in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点20秒后激活 **"
 	}
 	"*** LEVEL18 Portal will active in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点10秒后激活 **"
 	}
 	"*** LEVEL18 Portal will active in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点5秒后激活 **"
 	}
 	"Girl CLOUD: You defeated my brother and come this place right?"
 	{
@@ -2117,7 +2121,8 @@
 	}
 	"Remember : 10 COUNTS !!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**记住: 10刀!!! **"
+		"DoorCountdown" "-1"
 	}
 	"BOY CLOUD :Ahhh...They...really...strong...!!!"
 	{
@@ -2137,7 +2142,7 @@
 	}
 	"*** A player has picked up the CLOUD FATHER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了云爸爸 **"
 	}
 	"CLOUD FATHER :Im giving the power to you..."
 	{
@@ -2169,11 +2174,11 @@
 	}
 	"*** 5 SECONDS LEFT !!***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"*** RUN !!!!!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑!!! **"
 	}
 	"*** THE CLOUD FATHER is top of the way !! ***"
 	{
@@ -2273,7 +2278,7 @@
 	}
 	"*** STAGE : HIS POWER 33***"
 	{
-		"chi"		"** **"
+		"chi"		"**第八关: 真正的力量?? **"
 	}
 	"*** Adventure is over,need to chenge map ***"
 	{
@@ -2349,15 +2354,15 @@
 	}
 	"*** ZOMBIES ARE ALIVE !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸路开启!! **"
 	}
 	"*** STAGE : HIS POWER 32***"
 	{
-		"chi"		"** **"
+		"chi"		"**第八关: 真正的力量?? **"
 	}
 	"*** ZOMBIE ARE ALIVE !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸路开启!! **"
 	}
 	"CLOUD FATHER :Alright...finally you defeat me,you won."
 	{
@@ -2401,382 +2406,382 @@
 	}
 	"CLOUD FATHER : Remember your items cant effect me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:记住你的神器能影响到我!! **"
 	}
 	"BOY CLOUD : Whats this wind !? I cant do the best of speed !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云哥哥:这个风是怎么回事!? 我不能以最快速度行动了!!**"
 	}
 	"Girl CLOUD :?? My machine is strong from wind!! that cant effect me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹:我的机车可以抵抗风力，所以风神器对我没效果!! **"
 	}
 	"CLOUD FATHER : I will do the my best..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我将会竭尽全力... **"
 	}
 	"*** FIRST Portal will activate in 20 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点20秒后激活 **"
 	}
 	"*** FIRST Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点5秒后激活 **"
 	}
 	"*** LEVEL2 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点30秒后激活 **"
 	}
 	"*** LEVEL2 Portal will activate in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点20秒后激活 **"
 	}
 	"*** LEVEL2 Portal will activate in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点10秒后激活 **"
 	}
 	"*** LEVEL2 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个传送点5秒后激活 **"
 	}
 	"*** LEVEL3 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点30秒后激活 **"
 	}
 	"*** LEVEL3 Portal will activate in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点20秒后激活 **"
 	}
 	"*** LEVEL3 Portal will activate in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点10秒后激活 **"
 	}
 	"*** LEVEL3 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个传送点5秒后激活 **"
 	}
 	"*** LEVEL4 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点30秒后激活 **"
 	}
 	"*** LEVEL4 Portal will activate in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点20秒后激活 **"
 	}
 	"*** LEVEL4 Portal will activate in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点10秒后激活 **"
 	}
 	"*** LEVEL4 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第四个传送点5秒后激活 **"
 	}
 	"*** LEVEL5 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点30秒后激活 **"
 	}
 	"*** LEVEL5 Portal will activate in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点20秒后激活 **"
 	}
 	"*** LEVEL5 Portal will activate in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点10秒后激活 **"
 	}
 	"*** LEVEL5 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第五个传送点5秒后激活 **"
 	}
 	"*** LEVEL6 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点30秒后激活 **"
 	}
 	"*** LEVEL6 Portal will activate in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点20秒后激活 **"
 	}
 	"*** LEVEL6 Portal will activate in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点10秒后激活 **"
 	}
 	"*** LEVEL6 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第六个传送点5秒后激活 **"
 	}
 	"*** LEVEL7 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点30秒后激活 **"
 	}
 	"*** LEVEL7 Portal will activate in 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点20秒后激活 **"
 	}
 	"*** LEVEL7 Portal will activate in 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点10秒后激活 **"
 	}
 	"*** LEVEL7 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第七个传送点5秒后激活 **"
 	}
 	"*** LEVEL9 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点30秒后激活 **"
 	}
 	"*** LEVEL9 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点20秒后激活 **"
 	}
 	"*** LEVEL9 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点10秒后激活 **"
 	}
 	"*** LEVEL9 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第九个传送点5秒后激活 **"
 	}
 	"*** LEVEL10 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点30秒后激活 **"
 	}
 	"*** LEVEL10 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点20秒后激活 **"
 	}
 	"*** LEVEL10 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点10秒后激活 **"
 	}
 	"*** LEVEL10 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十个传送点5秒后激活 **"
 	}
 	"*** LEVEL11 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点30秒后激活 **"
 	}
 	"*** LEVEL11 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点20秒后激活 **"
 	}
 	"*** LEVEL11 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点10秒后激活 **"
 	}
 	"*** LEVEL11 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十一个传送点5秒后激活 **"
 	}
 	"*** LEVEL12 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点30秒后激活 **"
 	}
 	"*** LEVEL12 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点20秒后激活 **"
 	}
 	"*** LEVEL12 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点10秒后激活 **"
 	}
 	"*** LEVEL12 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十二个传送点5秒后激活 **"
 	}
 	"*** LEVEL13 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点30秒后激活 **"
 	}
 	"*** LEVEL13 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点20秒后激活 **"
 	}
 	"*** LEVEL13 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点10秒后激活 **"
 	}
 	"*** LEVEL13 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十三个传送点5秒后激活 **"
 	}
 	"*** LEVEL14 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点30秒后激活 **"
 	}
 	"*** LEVEL14 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点20秒后激活 **"
 	}
 	"*** LEVEL14 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点10秒后激活 **"
 	}
 	"*** LEVEL14 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十四个传送点5秒后激活 **"
 	}
 	"*** LEVEL16 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点30秒后激活 **"
 	}
 	"*** LEVEL16 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点20秒后激活 **"
 	}
 	"*** LEVEL16 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点10秒后激活 **"
 	}
 	"*** LEVEL16 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十六个传送点5秒后激活 **"
 	}
 	"*** LEVEL17 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点30秒后激活 **"
 	}
 	"*** LEVEL17 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点20秒后激活 **"
 	}
 	"*** LEVEL17 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点10秒后激活 **"
 	}
 	"*** LEVEL17 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十七个传送点5秒后激活 **"
 	}
 	"*** LEVEL18 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点30秒后激活 **"
 	}
 	"*** LEVEL18 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点20秒后激活 **"
 	}
 	"*** LEVEL18 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点10秒后激活 **"
 	}
 	"*** LEVEL18 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十八个传送点5秒后激活 **"
 	}
 	"*** LEVEL19 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点30秒后激活 **"
 	}
 	"*** LEVEL19 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点20秒后激活 **"
 	}
 	"*** LEVEL19 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点10秒后激活 **"
 	}
 	"*** LEVEL19 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第十九个传送点5秒后激活 **"
 	}
 	"*** LEVEL20 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点30秒后激活 **"
 	}
 	"*** LEVEL20 Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点20秒后激活 **"
 	}
 	"*** LEVEL20 Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点10秒后激活 **"
 	}
 	"*** LEVEL20 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二十个传送点5秒后激活 **"
 	}
 	"*** FINAL Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点30秒后激活 **"
 	}
 	"*** FINAL Portal will activate in 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点20秒后激活 **"
 	}
 	"*** FINAL Portal will activate in 10 SEDONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点10秒后激活 **"
 	}
 	"*** FINAL Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个传送点5后激活 **"
 	}
 	"*** Weather is getting worse... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天气逐渐变得恶劣... **"
 	}
 	"CLOUD FATHER :oh... Im defeated.."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:!!!...我被打败了.. **"
 	}
 	"*** You defeated CLOUD FATHER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了云爸爸 **"
 	}
 	"*** FIRST Portal will activate in 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个传送点10秒后激活 **"
 	}
 	"*** Star road will activate in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**星路将在20秒后激活 **"
 	}
 	"*** Star road will activate in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**星路将在5秒后激活 **"
 	}
 	"CLOUD FATHER : You are our hero,thanks...."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:你是我们的英雄,谢谢... **"
 	}
 	"*** You have beaten all stages !!!! Congratulations !!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你完成了所以关卡!!!恭喜!!! **"
 	}
 	"*** STAGE : No kidding 33***"
 	{
-		"chi"		"** **"
+		"chi"		"**第八关: 真正的力量?? **"
 	}
 	"CLOUD FATHER : Welcome humans."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:欢迎到来，人类们. **"
 	}
 	"CLOUD FATHER : I think you want to experience the more hard."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:我认为你们想体验更难的挑战. **"
 	}
 	"CLOUD FATHER : and I want to fight with you too."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:而我也想和你们战斗 **"
 	}
 	"CLOUD FATHER : Can we fight without kidding...?"
 	{
-		"chi"		"** **"
+		"chi"		"**所以我们可不可以以真实的力量对抗...? **"
 	}
 	"CLOUD FATHER : hehehe..."
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:emmm.... **"
 	}
 	"CLOUD FATHER : Is which a winner...?"
 	{
-		"chi"		"** **"
+		"chi"		"**云爸爸:谁才是胜者呢...? **"
 	}
 	"*** STAGE : No kidding 32***"
 	{
-		"chi"		"** **"
+		"chi"		"**第八关: 真正的力量?? **"
 	}
 	"*** STAGE : HIS POWER button PRESSED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡: 真正实力按钮按下 **"
 	}
 }
