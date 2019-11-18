@@ -49,6 +49,10 @@
 	{
 		"chi"		"** 地图作者： Hannibal [SPA] (Rafuron)  地图翻译：IntimateLover & 神々が恋した幻想郷**"
 	}
+	"** MAP BY Hannibal [SPA] (Rafuron) / Map modified by Rulucy&Koyomaple **"
+	{
+		"chi"		"** 地图作者：Hannibal [SPA] (Rafuron) 地图修复：Rulucy&Koyomaple 地图翻译：IntimateLover&神々が恋した幻想郷**"
+	}
 	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
 	{
 		"chi"		"** 守住奥斯吉力亚斯！我们不能没有战斗就离开这个地方（30秒） **"
@@ -204,6 +208,10 @@
 		"chi"		"** （地牢）** 防守到撤退信号出现 **"
 		"DoorCountdown"		"30"
 	}
+	"** (DUNGEONS) ** THE DOOR IS UNLOCKED NOW **"
+	{
+		"chi"		"** （地牢）** 门现在关闭着 **"
+	}
 	"** FALL BACK! **"
 	{
 		"chi"		"** 所有人撤退！ **"
@@ -219,6 +227,14 @@
 	"** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
 	{
 		"chi"		"** （图书馆）** 在这里守住！ ** 等待撤退信号！ **"
+	}
+	"** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+	{
+		"chi"		"** （图书馆）** 门很快就要打开！ ** 等待一段时间！ **"
+	}
+	"** (LIBRARY) ** DOORS ARE UNLOCKED NOW **"
+	{
+		"chi"		"** （图书馆）** 门现在关闭着 **"
 	}
 	"** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
 	{
@@ -408,10 +424,6 @@
 	"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
 	{
 		"chi"		"** 我们失去了对这里的控制！快撤退！ **"
-	}
-	"** RESIST 25 SECONDS! **"
-	{
-		"chi"		"** 防守25秒 **"
 	}
 	"*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***"
 	{
