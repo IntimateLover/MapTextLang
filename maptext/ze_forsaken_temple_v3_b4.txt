@@ -533,7 +533,7 @@
 	}
 	"** STAGE 2: Investigation **"
 	{
-		"chi"		"**第一关：详细调查**"
+		"chi"		"**第二关：详细调查**"
 	}
 	"** Pit is opening in 20s **"
 	{
@@ -549,110 +549,111 @@
 	}
 	"** Hurry up! 15 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**GKD!!刷分时间还剩15秒 **"
 	}
 	"** Maze exit is opening in 40s **"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫出口将在40秒后打开 **"
 	}
 	"** Elevator is leaving in 20s **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在20秒后离开 **"
 	}
 	"** Dancing Claw **"
 	{
-		"chi"		"** **"
+		"chi"		"**舞爪 - 使用奶子 **"
 	}
 	"** Maze exit is opening in 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫出口将在10秒后打开 **"
 	}
 	"** DODGE THE LASERS **"
 	{
-		"chi"		"** **"
+		"chi"		"**准备跳刀 **"
 	}
 	"** HE IS DEAD! RUN FOR YOUR LYFE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**他死了!快撤退!! **"
 	}
 	"** KILL IT BEFORE IT KILLS YOU **"
 	{
-		"chi"		"** **"
+		"chi"		"**在它杀死你之前干掉它 **"
 	}
 	"** You have failed to escape from the temple **"
 	{
-		"chi"		"** **"
+		"chi"		"**你没能从神殿逃出 **"
 	}
 	"** You must kill the temple creature before it kills you **"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须在神殿怪物杀死你之前干掉它 **"
 	}
 	"** You are too slow! Boss enrage soon! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你太慢了! BOSS即将狂暴! **"
 	}
 	"** Someone got baited... **"
 	{
-		"chi"		"** **"
+		"chi"		"**有人上当了... **"
 	}
 	"** Hang on... Keep defending! **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持住..继续防守! **"
 	}
 	"** Just a little bit more... **"
 	{
-		"chi"		"** **"
+		"chi"		"**在坚持一会.. **"
 	}
 	"** DODGE THE LASERS AND KILL THE BOSS **"
 	{
-		"chi"		"** **"
+		"chi"		"**一边跳刀一边射击BOSS **"
 	}
 	"** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**进入BOSS房跳刀并且存活超过5秒的玩家将获得1000杀敌 **"
+		"DoorCountDown"		"-1"
 	}
 	"** GET TO THE HELICOPTER NOW! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快上直升机! **"
 	}
 	"** YOU HAVE BEATEN THE MAP **"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功通关了地图 **"
 	}
 	"** 270 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩270秒 **"
 	}
 	"** 240 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩240秒 **"
 	}
 	"** 180 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩180秒 **"
 	}
 	"** 120 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩120秒 **"
 	}
 	"** 60 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩60秒 **"
 	}
 	"** 30 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"** 15 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩15秒 **"
 	}
 	"** 10 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"** 5 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 }
