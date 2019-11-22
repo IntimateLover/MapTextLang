@@ -1,5 +1,5 @@
 
-### 文件验证同步是否成功判断
+### 文件验证同步是否成功判断【限当前地图】
 1. sm_gitsync_check_cureentmap_user 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:任何玩家 间隔限制 300秒]
 2. sm_gitsync_check_cureentmap 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:OP 或 已认证Mapper用户]
 
