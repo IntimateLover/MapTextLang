@@ -136,14 +136,6 @@
             "ze_DOOM_p2"
         ]
     },
-    "ze_DarkRepulsorPalace_V2_1_4": {
-        "name": "ze_DarkRepulsorPalace_V2_1_4",
-        "cn_name": "",
-        "default": "ze_DarkRepulsorPalace_V2_1_4",
-        "versions": [
-            "ze_DarkRepulsorPalace_V2_1_4"
-        ]
-    },
     "ze_Death_Valley_b2": {
         "name": "ze_Death_Valley_b2",
         "cn_name": "",
@@ -187,17 +179,20 @@
             "ze_Escape_Citadel_r2"
         ]
     },
-    "ze_FFVII_Cosmo_Canyon_v5fix_g1t": {
-        "name": "ze_FFVII_Cosmo_Canyon_v5fix_g1t",
+    "ze_FFVII_Cosmo_Canyon_v5k_fix": {
+        "name": "ze_FFVII_Cosmo_Canyon_v5k_fix",
         "cn_name": "",
-        "default": "ze_FFVII_Cosmo_Canyon_v5fix_g5t",
+        "default": "ze_FFVII_Cosmo_Canyon_v5k_fix",
         "versions": [
-            "ze_FFVII_Cosmo_Canyon_v5fix_g1t",
-            "ze_FFVII_Cosmo_Canyon_v5fix_g2t",
-            "ze_FFVII_Cosmo_Canyon_v5fix_g3t",
-            "ze_FFVII_Cosmo_Canyon_v5fix_g5t",
-            "ze_ffvii_cosmo_canyon_v2_1_g12",
             "ze_FFVII_Cosmo_Canyon_v5k_fix"
+        ]
+    },
+    "ze_FFVII_Mako_Reactor_v5_3_v5": {
+        "name": "ze_FFVII_Mako_Reactor_v5_3_v5",
+        "cn_name": "",
+        "default": "ze_FFVII_Mako_Reactor_v5_3_v5",
+        "versions": [
+            "ze_FFVII_Mako_Reactor_v5_3_v5",
         ]
     },
     "ze_FFVII_Mako_Reactor_V6_B09k": {
@@ -206,26 +201,32 @@
         "default": "ze_ffvii_mako_reactor_v6_b09k2",
         "versions": [
             "ze_FFVII_Mako_Reactor_V6_B09k",
-            "ze_FFVII_Mako_Reactor_v5_3_v5",
             "ze_ffvii_mako_reactor_v6_b09_b2k",
             "ze_ffvii_mako_reactor_v6_b09k2"
         ]
     },
-    "ze_FFVII_Snow_Cosmo_v5_2": {
-        "name": "ze_FFVII_Snow_Cosmo_v5_2",
+    "ze_FFVII_Snow_Cosmo_v5_2_5": {
+        "name": "ze_FFVII_Snow_Cosmo_v5_2_5",
         "cn_name": "",
-        "default": "ze_FFVII_Snow_Cosmo_v5_2",
+        "default": "ze_FFVII_Snow_Cosmo_v5_2_5",
         "versions": [
-            "ze_FFVII_Snow_Cosmo_v5_2"
+            "ze_FFVII_Snow_Cosmo_v5_2_5"
+        ]
+    },
+    "ze_ffxii_feywood_b6_1k": {
+        "name": "ze_ffxii_feywood_b6_1k",
+        "cn_name": "",
+        "default": "ze_ffxii_feywood_b6_1k",
+        "versions": [
+            "ze_ffxii_feywood_b6_1k"
         ]
     },
     "ze_FFXII_Feywood_a2_g6t": {
         "name": "ze_FFXII_Feywood_a2_g6t",
         "cn_name": "",
-        "default": "ze_ffxii_feywood_b6_1k",
+        "default": "ze_FFXII_Feywood_a2_g6t",
         "versions": [
             "ze_FFXII_Feywood_a2_g6t",
-            "ze_ffxii_feywood_b6_1k"
         ]
     },
     "ze_FFXII_Paramina_Rift_v1_4_a8t": {
@@ -239,14 +240,12 @@
     "ze_FFXII_Ridorana_Cataract_t5_3_g1f": {
         "name": "ze_FFXII_Ridorana_Cataract_t5_3_g1f",
         "cn_name": "",
-        "default": "ze_ffxii_ridorana_cataract_t5_3_w2",
+        "default": "ze_FFXII_Ridorana_Cataract_t5_3_g2f",
         "versions": [
             "ze_FFXII_Ridorana_Cataract_t5_3_g1f",
             "ze_FFXII_Ridorana_Cataract_t5_3_g1t",
-            "ze_FFXII_Ridorana_Cataract_t5_3_g2f",
             "ze_FFXII_Ridorana_Cataract_t5_3_g2t",
-            "ze_ffxii_ridorana_cataract_t5_3_g2t",
-            "ze_ffxii_ridorana_cataract_t5_3_w2"
+            "ze_FFXII_Ridorana_Cataract_t5_3_g2f",
         ]
     },
     "ze_Fat_house_escape_v1_0_6d": {
@@ -284,9 +283,10 @@
     "ze_Hiems_facilities_v2_1": {
         "name": "ze_Hiems_facilities_v2_1",
         "cn_name": "",
-        "default": "ze_Hiems_facilities_v2_1",
+        "default": "ze_hiems_facilities_v3ar_b7_rename",
         "versions": [
             "ze_Hiems_facilities_v2_1"
+            "ze_hiems_facilities_v3ar_b7_rename"
         ]
     },
     "ze_Island_Escape_p3": {
@@ -342,7 +342,7 @@
     "ze_lotr_minas_tirith_p5": {
         "name": "ze_lotr_minas_tirith_p5",
         "cn_name": "",
-        "default": "ze_Lotr_Minas_Tirith_v3_3_g1t",
+        "default": "ze_lotr_minas_tirith_p5",
         "versions": [
             "ze_lotr_minas_tirith_p5",
             "ze_Lotr_Minas_Tirith_v3_3_g1t"
@@ -399,7 +399,7 @@
     "ze_MindTree_v1_4": {
         "name": "ze_MindTree_v1_4",
         "cn_name": "",
-        "default": "ze_mindtree_v1_x",
+        "default": "ze_MindTree_v1_6",
         "versions": [
             "ze_MindTree_v1_4",
             "ze_MindTree_v1_6",
@@ -525,7 +525,7 @@
     "ze_Rabanastre_Royal_a1": {
         "name": "ze_Rabanastre_Royal_a1",
         "cn_name": "",
-        "default": "ze_rabanastre_royal_a2t",
+        "default": "ze_rabanastre_royal_a2_1",
         "versions": [
             "ze_Rabanastre_Royal_a1",
             "ze_rabanastre_royal_a1_1",
@@ -586,21 +586,22 @@
             "ze_SURVIVORS_p2"
         ]
     },
-    "ze_S_A_M_v1_4": {
-        "name": "ze_S_A_M_v1_4",
+    "ze_S_A_M_v1_7": {
+        "name": "ze_S_A_M_v1_7",
         "cn_name": "",
-        "default": "ze_S_A_M_v1_4",
+        "default": "ze_S_A_M_v1_7",
         "versions": [
-            "ze_S_A_M_v1_4"
+            "ze_S_A_M_v1_7"
         ]
     },
     "ze_Serpentis_Temple_p2": {
         "name": "ze_Serpentis_Temple_p2",
         "cn_name": "",
-        "default": "ze_serpentis_temple_csgo5",
+        "default": "ze_serpentis_temple_csgo5_c",
         "versions": [
             "ze_Serpentis_Temple_p2",
             "ze_serpentis_temple_csgo5"
+            "ze_serpentis_temple_csgo5_c"
         ]
     },
     "ze_ShroomForest_p6": {
@@ -644,22 +645,13 @@
             "ze_Sit_Caelum_Paradisus_b7fix"
         ]
     },
-    "ze_Sit_Caelum_Paradisus_b7fix_02": {
-        "name": "ze_Sit_Caelum_Paradisus_b7fix_02",
-        "cn_name": "",
-        "default": "ze_Sit_Caelum_Paradisus_b7fix_02",
-        "versions": [
-            "ze_Sit_Caelum_Paradisus_b7fix_02"
-        ]
-    },
     "ze_Stalker_Ultimate_v2_3_g7t": {
         "name": "ze_Stalker_Ultimate_v2_3_g7t",
         "cn_name": "",
-        "default": "ze_stalker_ultimate_v2_3_g7t",
+        "default": "ze_Stalker_Ultimate_v2_3_g7t",
         "versions": [
             "ze_Stalker_Ultimate_v2_3_g7t",
             "ze_stalker_ultimate_v2_3_g6",
-            "ze_stalker_ultimate_v2_3_g7t"
         ]
     },
     "ze_Starwars_v2fix1": {
@@ -847,14 +839,6 @@
             "ze_ashen_keep_v0_3_csgo4"
         ]
     },
-    "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5": {
-        "name": "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5",
-        "cn_name": "",
-        "default": "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5",
-        "versions": [
-            "ze_asiangirl_mm11el4nu4cp2io1yv7_beta5"
-        ]
-    },
     "ze_astral_v1_2_f3": {
         "name": "ze_astral_v1_2_f3",
         "cn_name": "",
@@ -874,7 +858,7 @@
     "ze_atos_v1_10": {
         "name": "ze_atos_v1_10",
         "cn_name": "",
-        "default": "ze_atos_v1_9f",
+        "default": "ze_atos_v1_11",
         "versions": [
             "ze_atos_v1_10",
             "ze_atos_v1_11",
@@ -975,9 +959,17 @@
     "ze_bioshock_v6_2_csgo7": {
         "name": "ze_bioshock_v6_2_csgo7",
         "cn_name": "",
-        "default": "ze_bioshock_v7_1_csgo_a2",
+        "default": "ze_bioshock_v6_2_csgo7",
         "versions": [
             "ze_bioshock_v6_2_csgo7",
+            "ze_bioshock_v7_1_csgo_a2"
+        ]
+    },
+    "ze_bioshock_v7_1_csgo_a2": {
+        "name": "ze_bioshock_v7_1_csgo_a2",
+        "cn_name": "",
+        "default": "ze_bioshock_v7_1_csgo_a2",
+        "versions": [
             "ze_bioshock_v7_1_csgo_a2"
         ]
     },
@@ -1429,9 +1421,10 @@
     "ze_dreamin_v2_3": {
         "name": "ze_dreamin_v2_3",
         "cn_name": "",
-        "default": "ze_dreamin_v2_3",
+        "default": "ze_dreamin_v2_4",
         "versions": [
             "ze_dreamin_v2_3"
+            "ze_dreamin_v2_4"
         ]
     },
     "ze_easy_escape_v4": {
@@ -1618,7 +1611,7 @@
     "ze_ffvii_malgo_reactor_v3fix": {
         "name": "ze_ffvii_malgo_reactor_v3fix",
         "cn_name": "",
-        "default": "ze_ffvii_malgo_reactor_v6_b14",
+        "default": "ze_ffvii_malgo_reactor_v6_b17",
         "versions": [
             "ze_ffvii_malgo_reactor_v3fix",
             "ze_ffvii_malgo_reactor_v4_2",
@@ -1627,6 +1620,7 @@
             "ze_ffvii_malgo_reactor_v6_b06",
             "ze_ffvii_malgo_reactor_v6_b08",
             "ze_ffvii_malgo_reactor_v6_b14"
+            "ze_ffvii_malgo_reactor_v6_b17"
         ]
     },
     "ze_ffvii_temple_ancient_v4_3": {
@@ -1674,10 +1668,17 @@
     "ze_ffxiv_wanderers_palace_v2_11": {
         "name": "ze_ffxiv_wanderers_palace_v2_11",
         "cn_name": "",
-        "default": "ze_ffxiv_wanderers_palace_v4_va2",
+        "default": "ze_ffxiv_wanderers_palace_v2_va2",
         "versions": [
             "ze_ffxiv_wanderers_palace_v2_11",
             "ze_ffxiv_wanderers_palace_v2_va2",
+        ]
+    },
+    "ze_ffxiv_wanderers_palace_v4_va2": {
+        "name": "ze_ffxiv_wanderers_palace_v4_va2",
+        "cn_name": "",
+        "default": "ze_ffxiv_wanderers_palace_v4_va2",
+        "versions": [
             "ze_ffxiv_wanderers_palace_v4_va2"
         ]
     },
@@ -1700,9 +1701,16 @@
     "ze_firewall_laboratory_part1_p2": {
         "name": "ze_firewall_laboratory_part1_p2",
         "cn_name": "",
-        "default": "ze_firewall_laboratory_part2_p2",
+        "default": "ze_firewall_laboratory_part1_p2",
         "versions": [
             "ze_firewall_laboratory_part1_p2",
+        ]
+    },
+    "ze_firewall_laboratory_part2_p2": {
+        "name": "ze_firewall_laboratory_part2_p2",
+        "cn_name": "",
+        "default": "ze_firewall_laboratory_part2_p2",
+        "versions": [
             "ze_firewall_laboratory_part2_p2"
         ]
     },
@@ -1765,14 +1773,6 @@
             "ze_forsaken_temple_v2",
             "ze_forsaken_temple_v3_b3",
             "ze_forsaken_temple_v3_b4"
-        ]
-    },
-    "ze_forsaken_temple_v2_beta": {
-        "name": "ze_forsaken_temple_v2_beta",
-        "cn_name": "",
-        "default": "ze_forsaken_temple_v2_beta",
-        "versions": [
-            "ze_forsaken_temple_v2_beta"
         ]
     },
     "ze_frostdrake_tower_v1": {
@@ -1926,14 +1926,6 @@
         "default": "ze_hidden_temple_v2_5",
         "versions": [
             "ze_hidden_temple_v2_5"
-        ]
-    },
-    "ze_hiems_facilities_v3ar_b7_rename": {
-        "name": "ze_hiems_facilities_v3ar_b7_rename",
-        "cn_name": "",
-        "default": "ze_hiems_facilities_v3ar_b7_rename",
-        "versions": [
-            "ze_hiems_facilities_v3ar_b7_rename"
         ]
     },
     "ze_highest_to_lowest_v1_1": {
@@ -2109,14 +2101,6 @@
             "ze_insanitycity_va2"
         ]
     },
-    "ze_insensible_sr8gm6yj12hs7_rg_v9_6": {
-        "name": "ze_insensible_sr8gm6yj12hs7_rg_v9_6",
-        "cn_name": "",
-        "default": "ze_insensible_sr8gm6yj12hs7_rg_v9_6",
-        "versions": [
-            "ze_insensible_sr8gm6yj12hs7_rg_v9_6"
-        ]
-    },
     "ze_interception_p2": {
         "name": "ze_interception_p2",
         "cn_name": "",
@@ -2282,9 +2266,10 @@
     "ze_last_man_standing_csgo1": {
         "name": "ze_last_man_standing_csgo1",
         "cn_name": "",
-        "default": "ze_last_man_standing_csgo1",
+        "default": "ze_last_man_standing_csgo2",
         "versions": [
             "ze_last_man_standing_csgo1"
+            "ze_last_man_standing_csgo2"
         ]
     },
     "ze_legoland_crackheads_p2": {
@@ -2319,20 +2304,13 @@
             "ze_licciana_escape_zrgbr_b3"
         ]
     },
-    "ze_light_911_v7_csgo_ab1": {
-        "name": "ze_light_911_v7_csgo_ab1",
-        "cn_name": "",
-        "default": "ze_light_911_v7_csgo_ab1",
-        "versions": [
-            "ze_light_911_v7_csgo_ab1"
-        ]
-    },
     "ze_light_911_v7_final": {
         "name": "ze_light_911_v7_final",
         "cn_name": "",
-        "default": "ze_light_911_v7_final",
+        "default": "ze_light_911_v7_csgo_ab1",
         "versions": [
             "ze_light_911_v7_final"
+            "ze_light_911_v7_csgo_ab1"
         ]
     },
     "ze_light_panic_escape_b3": {
@@ -2387,7 +2365,7 @@
     "ze_luck_matters_v3_1": {
         "name": "ze_luck_matters_v3_1",
         "cn_name": "",
-        "default": "ze_luck_matters_v3x",
+        "default": "ze_luck_matters_v3_1",
         "versions": [
             "ze_luck_matters_v3_1",
             "ze_luck_matters_v3x"
@@ -2404,7 +2382,7 @@
     "ze_m_g_e": {
         "name": "ze_m_g_e",
         "cn_name": "",
-        "default": "ze_m_g_e_a2",
+        "default": "ze_m_g_e_a1_9",
         "versions": [
             "ze_m_g_e",
             "ze_m_g_e_a1",
@@ -2580,7 +2558,7 @@
     "ze_moon_shadow_legend_v10b_e": {
         "name": "ze_moon_shadow_legend_v10b_e",
         "cn_name": "",
-        "default": "ze_moon_shadow_legend_v9_9c_f",
+        "default": "ze_moon_shadow_legend_v10b_h_f",
         "versions": [
             "ze_moon_shadow_legend_v10b_e",
             "ze_moon_shadow_legend_v5_6",
@@ -2592,6 +2570,7 @@
             "ze_moon_shadow_legend_v9_8c_f",
             "ze_moon_shadow_legend_v9_8d",
             "ze_moon_shadow_legend_v9_9c_f"
+            "ze_moon_shadow_legend_v10b_h_f"
         ]
     },
     "ze_motanuminc_sgfinal": {
@@ -2613,9 +2592,10 @@
     "ze_mountain_escape_v5_zy": {
         "name": "ze_mountain_escape_v5_zy",
         "cn_name": "",
-        "default": "ze_mountain_escape_v5_zy",
+        "default": "ze_mountain_escape_v5_zy_g1t",
         "versions": [
             "ze_mountain_escape_v5_zy"
+            "ze_mountain_escape_v5_zy_g1t"
         ]
     },
     "ze_mountainspire_p2": {
@@ -2769,11 +2749,18 @@
     "ze_omega_p3": {
         "name": "ze_omega_p3",
         "cn_name": "",
-        "default": "ze_omen_090",
+        "default": "ze_omega_p3",
         "versions": [
             "ze_omega_p3",
             "ze_omegatest",
             "ze_omegatest2",
+        ]
+    },
+     "ze_omen_090": {
+        "name": "ze_omen_090",
+        "cn_name": "",
+        "default": "ze_omen_090",
+        "versions": [
             "ze_omen_090"
         ]
     },
@@ -2827,19 +2814,12 @@
             "ze_pallaroid_rage_v1"
         ]
     },
-    "ze_pandora_evolution": {
-        "name": "ze_pandora_evolution",
-        "cn_name": "",
-        "default": "ze_pandora_evolution",
-        "versions": [
-            "ze_pandora_evolution"
-        ]
-    },
     "ze_pandora_revolutionz_hdr2": {
         "name": "ze_pandora_revolutionz_hdr2",
         "cn_name": "",
         "default": "ze_pandora_revolutionz_hdr2",
         "versions": [
+            "ze_pandora_evolution"
             "ze_pandora_revolutionz",
             "ze_pandora_revolutionz_hdr2"
         ]
@@ -2895,9 +2875,16 @@
     "ze_pirates_port_royal_v4_2": {
         "name": "ze_pirates_port_royal_v4_2",
         "cn_name": "",
-        "default": "ze_pirates_port_royal_v5_6",
+        "default": "ze_pirates_port_royal_v4_2",
         "versions": [
             "ze_pirates_port_royal_v4_2",
+        ]
+    },
+    "ze_pirates_port_royal_v5_6": {
+        "name": "ze_pirates_port_royal_v5_6",
+        "cn_name": "",
+        "default": "ze_pirates_port_royal_v5_6",
+        "versions": [
             "ze_pirates_port_royal_v5_6"
         ]
     },
@@ -2965,16 +2952,6 @@
             "ze_prototype_v3_4"
         ]
     },
-    "ze_ptest": {
-        "name": "ze_ptest",
-        "cn_name": "",
-        "default": "ze_ptest3",
-        "versions": [
-            "ze_ptest",
-            "ze_ptest2",
-            "ze_ptest3"
-        ]
-    },
     "ze_puta_p3": {
         "name": "ze_puta_p3",
         "cn_name": "",
@@ -2994,7 +2971,7 @@
     "ze_rain1_v1x": {
         "name": "ze_rain1_v1x",
         "cn_name": "",
-        "default": "ze_rain2",
+        "default": "ze_raintime1_torontoisland_v4x",
         "versions": [
             "ze_rain1_v1x",
             "ze_rain1_v2x",
@@ -3005,17 +2982,15 @@
             "ze_rain1_v7x",
             "ze_rain1_v8x",
             "ze_rain1_vx",
-            "ze_rain2"
+            "ze_raintime1_torontoisland_v4x"
         ]
     },
-    "ze_rain_of_time_v1X": {
-        "name": "ze_rain_of_time_v1X",
+    "ze_raintime2_stormwindkeep_v5x ": {
+        "name": "ze_raintime2_stormwindkeep_v5x ",
         "cn_name": "",
-        "default": "ze_rain_of_time_v2x",
+        "default": "ze_raintime2_stormwindkeep_v5x ",
         "versions": [
-            "ze_rain_of_time_v1X",
-            "ze_rain_of_time_v21x",
-            "ze_rain_of_time_v2x"
+            "ze_raintime2_stormwindkeep_v5x "
         ]
     },
     "ze_rainbow_factory_v2": {
@@ -3038,24 +3013,17 @@
     "ze_rats_escape": {
         "name": "ze_rats_escape",
         "cn_name": "",
-        "default": "ze_rats_escape_v04",
+        "default": "ze_rats_escape_final",
         "versions": [
             "ze_rats_escape",
             "ze_rats_escape_v04"
-        ]
-    },
-    "ze_rats_escape_final": {
-        "name": "ze_rats_escape_final",
-        "cn_name": "",
-        "default": "ze_rats_escape_final",
-        "versions": [
             "ze_rats_escape_final"
         ]
     },
     "ze_re_creation_b2_16": {
         "name": "ze_re_creation_b2_16",
         "cn_name": "",
-        "default": "ze_re_creation_b2_22",
+        "default": "ze_re_creation_v2_25",
         "versions": [
             "ze_re_creation_b2_16",
             "ze_re_creation_b2_17",
@@ -3064,6 +3032,7 @@
             "ze_re_creation_b2_20",
             "ze_re_creation_b2_21",
             "ze_re_creation_b2_22"
+            "ze_re_creation_v2_25"
         ]
     },
     "ze_reconnoiter_b5": {
@@ -3239,14 +3208,6 @@
             "ze_seano_see_2g5"
         ]
     },
-    "ze_serpentis_temple_csgo5_c": {
-        "name": "ze_serpentis_temple_csgo5_c",
-        "cn_name": "",
-        "default": "ze_serpentis_temple_csgo5_c",
-        "versions": [
-            "ze_serpentis_temple_csgo5_c"
-        ]
-    },
     "ze_sewage_processing_v8": {
         "name": "ze_sewage_processing_v8",
         "cn_name": "",
@@ -3324,6 +3285,7 @@
             "ze_sky_fantasy_v1",
             "ze_sky_fantasy_v1_2",
             "ze_sky_fantasy_v1_2f"
+            "ze_sky_fantasy_v1_3"
         ]
     },
 
@@ -3419,9 +3381,10 @@
     "ze_stalkermonolit_v6_go": {
         "name": "ze_stalkermonolit_v6_go",
         "cn_name": "",
-        "default": "ze_stalkermonolit_v6_go",
+        "default": "ze_stalkermonolit_v7gofix",
         "versions": [
             "ze_stalkermonolit_v6_go"
+            "ze_stalkermonolit_v7gofix"
         ]
     },
     "ze_standart_map_csgo_b1": {
@@ -3533,7 +3496,7 @@
     "ze_surf_galaxy_Zena_v2": {
         "name": "ze_surf_galaxy_Zena_v2",
         "cn_name": "",
-        "default": "ze_surf_galaxy_zena_v1",
+        "default": "ze_surf_galaxy_Zena_v3",
         "versions": [
             "ze_surf_galaxy_Zena_v2",
             "ze_surf_galaxy_Zena_v3",
@@ -3568,7 +3531,7 @@
     "ze_surf_outside_b1_10": {
         "name": "ze_surf_outside_b1_10",
         "cn_name": "",
-        "default": "ze_surf_outside_beta1_8",
+        "default": "ze_surf_outside_b1_10",
         "versions": [
             "ze_surf_outside_b1_10",
             "ze_surf_outside_b1_9",
@@ -3641,14 +3604,6 @@
             "ze_temple_raider_b4_ps6"
         ]
     },
-    "ze_test_b1": {
-        "name": "ze_test_b1",
-        "cn_name": "",
-        "default": "ze_test_b1",
-        "versions": [
-            "ze_test_b1"
-        ]
-    },
     "ze_tesv_skyrim_v5_6": {
         "name": "ze_tesv_skyrim_v5_6",
         "cn_name": "",
@@ -3700,9 +3655,10 @@
     "ze_three_eyes_v0_7": {
         "name": "ze_three_eyes_v0_7",
         "cn_name": "",
-        "default": "ze_three_eyes_v0_7",
+        "default": "ze_three_eyes_v1",
         "versions": [
             "ze_three_eyes_v0_7"
+            "ze_three_eyes_v1"
         ]
     },
     "ze_thriller_escape_p": {
@@ -3822,7 +3778,7 @@
     "ze_trials_v1_4": {
         "name": "ze_trials_v1_4",
         "cn_name": "",
-        "default": "ze_trials_v3",
+        "default": "ze_trials_v1_4",
         "versions": [
             "ze_trials_v1_4",
             "ze_trials_v3"
@@ -3844,14 +3800,6 @@
             "ze_tyranny2_v1_csgo",
             "ze_tyranny2_v1_csgo1",
             "ze_tyranny2_v1_csgo2"
-        ]
-    },
-    "ze_ultimate_autism_b2": {
-        "name": "ze_ultimate_autism_b2",
-        "cn_name": "",
-        "default": "ze_ultimate_autism_b2",
-        "versions": [
-            "ze_ultimate_autism_b2"
         ]
     },
     "ze_underground_escape_p": {
@@ -3965,13 +3913,6 @@
         "default": "ze_voodoo_islands_p5",
         "versions": [
             "ze_voodoo_islands_p5"
-        ]
-    },
-    "ze_voodoo_islands_v8_5_p4": {
-        "name": "ze_voodoo_islands_v8_5_p4",
-        "cn_name": "",
-        "default": "ze_voodoo_islands_v8_5_p4",
-        "versions": [
             "ze_voodoo_islands_v8_5_p4"
         ]
     },
