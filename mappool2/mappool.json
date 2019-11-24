@@ -514,7 +514,7 @@
     "ze_R_W_B_Final": {
         "name": "ze_R_W_B_Final",
         "cn_name": "",
-        "default": "ze_r_w_b_v1",
+        "default": "ze_R_W_B_ulti",
         "versions": [
             "ze_R_W_B_Final",
             "ze_R_W_B_ulti",
