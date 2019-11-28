@@ -2,7 +2,7 @@
 {
 	"***Game mode loading...***"
 	{
-		"chi"		"** **"
+		"chi"		"**游戏模式加载中... **"
 	}
 	"***.***"
 	{
@@ -18,7 +18,7 @@
 	}
 	"***Current mode : Tornado mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：龙卷风 **"
 	}
 	"***ZE_MOUNTAIN_ESCAPE***"
 	{
@@ -30,63 +30,63 @@
 	}
 	"***Current mode : Silent Hill***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：寂静岭 **"
 	}
 	"***Current mode : Boss mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：BOSS袭来 **"
 	}
 	"***30 second left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒 **"
 	}
 	"***Mass teleport in 35 secs***"
 	{
-		"chi"		"** **"
+		"chi"		"**35秒后启动大规模传送 **"
 	}
 	"***Push weapon has been picked up.***"
 	{
-		"chi"		"** **"
+		"chi"		"**推力枪已拿起 **"
 	}
 	"***20 second left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩20秒 **"
 	}
 	"***10 second left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"***5 Second left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***Warning: Boss is coming.***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：BOSS已到达 **"
 	}
 	"***Current mode : Monkey mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：猴子模式 **"
 	}
 	"***Speed weapon has been picked up.***"
 	{
-		"chi"		"** **"
+		"chi"		"**加速枪已拿起 **"
 	}
 	"**Global trigger activated: Random speed for all in 5 secs. (8 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机事件：随机速度将在5秒后启用[持续8秒] **"
 	}
 	"**Global trigger activated: Low gravity in 5 secs. (30 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机事件：全体将在5秒后重力降低 **"
 	}
 	"***Nuke launched***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹发射 **"
 	}
 	"***60 second left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩60秒 **"
 	}
 	"***5***"
 	{
@@ -110,35 +110,35 @@
 	}
 	"***Nuke impact***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹爆炸 **"
 	}
 	"***Current mode : Turtle mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：乌龟模式 **"
 	}
 	"***Current mode : Lords of Destruction mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：毁灭之王 **"
 	}
 	"***Current mode : Holdem mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：坚守阵地 **"
 	}
 	"***Current mode : HELL MODE***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：地狱来临 **"
 	}
 	"*** ZOMBIE ITEMS AVAILABLE IN SPAWN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**出生点已激活僵尸神器 **"
 	}
 	"*** METEORS ENABLED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**流星启动 **"
 	}
 	"***Current mode : All items mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：全神器 **"
 	}
 	"** !? **"
 	{
@@ -146,7 +146,7 @@
 	}
 	"** Airboats out of fuel! **"
 	{
-		"chi"		"** **"
+		"chi"		"**飞机没油了! **"
 	}
 	"*** !? ***"
 	{
@@ -154,151 +154,151 @@
 	}
 	"*** WEAPONS ARE GONE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**武器不见了！ **"
 	}
 	"***Current mode : Knockback madness mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：陷入疯狂 **"
 	}
 	"***Current mode : Train mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：火车袭来 **"
 	}
 	"***Current mode : Trigger madness mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：疯狂触发 **"
 	}
 	"**CT trigger activated: Failnades in 5 secs. (60 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类随机事件：手雷5秒后即将故障[持续60秒] **"
 	}
 	"**Zombie trigger activated: Pacifism in 2 secs.**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸随机事件：和平2秒 **"
 	}
 	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸随机事件：5秒后减速人类[持续8秒] **"
 	}
 	"**CT trigger activated: LSD for zombies in 5 secs. (30 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类随机事件：5秒后迷幻僵尸[持续30秒] **"
 	}
 	"**CT trigger activated: Shrooms for zombies in 5 secs. (30 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类随机事件:5秒把僵尸变成蘑菇持续30秒] **"
 	}
 	"**Global trigger activated: Total blind in 5 secs. (10 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒后致盲全体玩家[持续10秒] **"
 	}
 	"**Global trigger activated: Slippery grounds in 5 secs. (20 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：地面5秒后变滑[持续20秒] **"
 	}
 	"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒后不由自主跳跃[持续30秒] **"
 	}
 	"**Zombie trigger activated: Immortality in 5 secs. (8 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸随机事件：5秒后免疫所有伤害[持续8秒] **"
 	}
 	"**CT trigger activated: Speed in 5 secs. (8 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类随机事件：5秒后加速[持续8秒] **"
 	}
 	"** Helicopters out of fuel! **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机没油了! **"
 	}
 	"**Global trigger activated: Total darkness in 5 secs. (45 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒后陷入完全黑暗[持续45秒] **"
 	}
 	"**Global trigger activated: Invisibility for all in 5 secs. (15 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒隐身所有人 **"
 	}
 	"**Global trigger activated: Retarded jumps in 5 secs. (20 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒后延迟跳跃[持续20秒] **"
 	}
 	"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒后反向控制[持续15秒] **"
 	}
 	"***Current mode : Total Warfare mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：全面战争 **"
 	}
 	"***Current mode : FFVII mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：最终幻想7 **"
 	}
 	"***Current mode : Carnival mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：嘉年华 **"
 	}
 	"***Current mode : Massacre mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：大屠杀 **"
 	}
 	"***Current mode : Castle mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：城堡攻坚 **"
 	}
 	"***Current mode : Flood mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：洪水爆发 **"
 	}
 	"***Current mode : Medieval mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：中世纪 **"
 	}
 	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类随机事件：5秒后免疫僵尸[持续8秒] **"
 	}
 	"*** Minigun has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**加特林已拿起 **"
 	}
 	"***Current mode : Space mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：空间 **"
 	}
 	"***Current mode : Halloween mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：万圣节 **"
 	}
 	"***Current mode : Zombie Horde***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：僵尸部落 **"
 	}
 	"***TIP: Work in team - THIS ISNT ZM!***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：注意团队合作-这不是ZM！ **"
 	}
 	"***You will need to kill a number of zombies to complete the round.***"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要杀死一些僵尸才能胜利 **"
 	}
 	"***They will have low amount of health but no knockback!***"
 	{
-		"chi"		"** **"
+		"chi"		"**他们的血量很低.但是不会因此而退缩！ **"
 	}
 	"***FIND AN AREA TO HOLD YOUR GROUND AND RESIST! WORK TOGETHER.***"
 	{
-		"chi"		"** **"
+		"chi"		"**找一个地方防守-在一起！ **"
 	}
 	"***Earendil light has been picked up.***"
 	{
-		"chi"		"** **"
+		"chi"		"**艾伦迪尔的灯发出亮光 **"
 	}
 	"***Current mode : One way mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：一条路 **"
 	}
 	"***Current mode : Depression mode***"
 	{
@@ -310,15 +310,15 @@
 	}
 	"***Current mode : UFO mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：UFO **"
 	}
 	"***Current mode : Explosive mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：大爆炸 **"
 	}
 	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
 	{
-		"chi"		"** **"
+		"chi"		"**全体随机事件：5秒后触发手淫视野 **"
 	}
 	"***!?***"
 	{
@@ -326,22 +326,22 @@
 	}
 	"***Whats that sound?***"
 	{
-		"chi"		"** **"
+		"chi"		"**什么声音 **"
 	}
 	"***Warning: The train is coming.***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：火车来袭 **"
 	}
 	"***Current mode : Space massacre mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：太空大屠杀 **"
 	}
 	"***Flamethrower has been picked up.***"
 	{
-		"chi"		"** **"
+		"chi"		"**火焰喷射器已拿起 **"
 	}
 	"***Current mode : Item Rush mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：神器对抗 **"
 	}
 }
