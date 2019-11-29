@@ -45,10 +45,6 @@
 	{
 		"chi"		"** 游戏将在几秒后开始 **确认你的神器等级并以此获得相对应的神器**"
 	}
-	"** MAP BY HANNIBAL [SPA] (Rafuron) **"
-	{
-		"chi"		"** 地图作者： Hannibal [SPA] (Rafuron)  地图翻译：IntimateLover & 神々が恋した幻想郷**"
-	}
 	"** MAP BY Hannibal [SPA] (Rafuron) / Map modified by Rulucy&Koyomaple **"
 	{
 		"chi"		"** 地图作者：Hannibal [SPA] (Rafuron) 地图修复：Rulucy&Koyomaple 地图翻译：IntimateLover&神々が恋した幻想郷**"
@@ -254,11 +250,11 @@
 		"chi"		"** 升降梯将在10秒后离开 **"
 		"DoorCountdown"		"10"
 	}
-	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
+	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
 	{
 		"chi"		"** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **"
 	}
-	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
+	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
 	{
 		"chi"		"** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存90秒 **"
 	}
