@@ -11,7 +11,7 @@
 	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
 	{
 		"chi"		"**门将于30秒后关闭！赶紧进入圣盔谷！**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** The door is closing in 10s **"
 	{
@@ -72,7 +72,7 @@
 	"** Defend at fort! Hall door will open in 40s!**"
 	{
 		"chi"		"**坚守城堡！议政厅的门将于40秒后打开！**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**Hurry! get in the hall!**"
 	{
@@ -143,6 +143,10 @@
 		"chi"		"** **"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

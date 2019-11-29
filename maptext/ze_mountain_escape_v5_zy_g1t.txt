@@ -1,0 +1,495 @@
+"Console_T"
+{
+	"***Game mode loading...***"
+	{
+		"chi"		"** **"
+	}
+	"***.***"
+	{
+		"chi"		"** **"
+	}
+	"***..***"
+	{
+		"chi"		"** **"
+	}
+	"***...***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Asedium mode***"
+	{
+		"chi"		"** **"
+	}
+	"***ZE_MOUNTAIN_ESCAPE***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : One way mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : UFO mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Total Warfare mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mines has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Total blind in 5 secs. (10 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"*** Barricade has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***C4 has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"*** Minigun has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TNT Launcher has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie Rocket Launcher has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**CT trigger activated: Failnades in 5 secs. (60 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Earendil light has been picked up.***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Massacre mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Invisibility Gas has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**CT trigger activated: Speed in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Singularity Cannon has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"***Flamethrower has been picked up.***"
+	{
+		"chi"		"** **"
+	}
+	"*** Scary Zombie has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Vacuum has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"** **"
+	}
+	"***60 second left***"
+	{
+		"chi"		"** **"
+	}
+	"***30 second left***"
+	{
+		"chi"		"** **"
+	}
+	"***20 second left***"
+	{
+		"chi"		"** **"
+	}
+	"***10 second left***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Zombie Horde***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP: Work in team - THIS ISNT ZM!***"
+	{
+		"chi"		"** **"
+	}
+	"***You will need to kill a number of zombies to complete the round.***"
+	{
+		"chi"		"** **"
+	}
+	"***They will have low amount of health but no knockback!***"
+	{
+		"chi"		"** **"
+	}
+	"***FIND AN AREA TO HOLD YOUR GROUND AND RESIST! WORK TOGETHER.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Silent Hill***"
+	{
+		"chi"		"** **"
+	}
+	"**Pyramid Head is looking for you ... **"
+	{
+		"chi"		"** **"
+	}
+	"**Freezer has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"*** Ladder has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Push weapon has been picked up.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : HELL MODE***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE ITEMS AVAILABLE IN SPAWN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** METEORS ENABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Sudden Death**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Low gravity in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : All items mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Arena mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** PURE SURVIVAL AND CARNAGE -- ALL ITEMS ARE AVAILABLE! ***"
+	{
+		"chi"		"** **"
+	}
+	"**Annihilator has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Knockback madness mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Trampoline has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Snipers downgraded! ***"
+	{
+		"chi"		"** **"
+	}
+	"***!?***"
+	{
+		"chi"		"** **"
+	}
+	"***Whats that sound?***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: The train is coming.***"
+	{
+		"chi"		"** **"
+	}
+	"*** Grenades fly! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Train mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Speed weapon has been picked up.***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie Stopper has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space FFVII mode***"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"chi"		"** **"
+	}
+	"*** Crab has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Titan monster has entered the game**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie summoner has been picked.**"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Tornados approaching***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Depression mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shadow Ball has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Raptor has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Monkey mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie trigger activated: Speed in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Medieval mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Horn has been blown! Nuke inbound. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR 1 HAS BEEN BROKEN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR 2 HAS BEEN BROKEN! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space massacre mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Forest mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Trigger madness mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie trigger activated: Pacifism in 2 secs.**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Retarded jumps in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Invisibility for all in 5 secs. (15 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Random speed for all in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Confusion**"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : FFVII mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Sephiroth has appeared.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Monkey massacre mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Turtle mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Classic mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Barricade mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIP: Work in team or defend yourself! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is not about ESCAPING in team... but surviving by any means! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies can be killed in 4 minutes. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies can be killed in 3 minutes. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie Jumper has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Explosive mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Castle mode***"
+	{
+		"chi"		"** **"
+	}
+	"**CT trigger activated: Shrooms for zombies in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"** !? **"
+	{
+		"chi"		"** **"
+	}
+	"** Airboats out of fuel! **"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Total darkness in 5 secs. (45 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"** Helicopters out of fuel! **"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Meteorite falls***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Lords of Destruction mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bird has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+}
