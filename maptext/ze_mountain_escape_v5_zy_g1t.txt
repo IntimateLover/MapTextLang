@@ -47,6 +47,7 @@
 	"**Global trigger activated: Total blind in 5 secs. (10 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后致盲全体玩家[持续10秒] **"
+		"DoorCountdown"		"3"
 	}
 	"*** Barricade has been picked. ***"
 	{
@@ -71,6 +72,7 @@
 	"**CT trigger activated: Failnades in 5 secs. (60 secs. duration)**"
 	{
 		"chi"		"**人类随机事件：手雷5秒后即将故障[持续60秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Earendil light has been picked up.***"
 	{
@@ -79,6 +81,7 @@
 	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
 	{
 		"chi"		"**僵尸随机事件：5秒后减速人类[持续8秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Current mode : Massacre mode***"
 	{
@@ -91,6 +94,7 @@
 	"**CT trigger activated: Speed in 5 secs. (8 secs. duration)**"
 	{
 		"chi"		"**人类随机事件：5秒后加速[持续8秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Singularity Cannon has been picked.***"
 	{
@@ -211,10 +215,12 @@
 	"**Global trigger activated: Low gravity in 5 secs. (30 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后低重力[持续30秒] **"
+		"DoorCountdown"		"3"
 	}
 	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
 	{
-		"chi"		"**全体随机事件：5秒后激活手淫视野[持续20秒] **"
+		"chi"		"**全体随机事件：5秒后激活撸多了视野[持续20秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Current mode : All items mode***"
 	{
@@ -343,6 +349,7 @@
 	"**Zombie trigger activated: Speed in 5 secs. (8 secs. duration)**"
 	{
 		"chi"		"**僵尸随机事件：5秒后加速[持续8秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Current mode : Medieval mode***"
 	{
@@ -367,6 +374,7 @@
 	"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后激活反向控制[持续15秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Current mode : Forest mode***"
 	{
@@ -379,26 +387,32 @@
 	"**Zombie trigger activated: Pacifism in 2 secs.**"
 	{
 		"chi"		"**僵尸随机事件：和平2秒 **"
+		"DoorCountdown"		"2"
 	}
 	"**Global trigger activated: Retarded jumps in 5 secs. (20 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后激活延迟跳跃[持续20秒] **"
+		"DoorCountdown"		"3"
 	}
 	"**Global trigger activated: Invisibility for all in 5 secs. (15 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后隐身所有人[持续15秒] **"
+		"DoorCountdown"		"3"
 	}
 	"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后激活不由自主的跳跃[持续30秒] **"
+		"DoorCountdown"		"3"
 	}
 	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
 	{
 		"chi"		"**人类随机事件：5秒后免疫僵尸[持续8秒] **"
+		"DoorCountdown"		"3"
 	}
 	"**Global trigger activated: Random speed for all in 5 secs. (8 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后激活随机速度[持续8秒] **"
+		"DoorCountdown"		"3"
 	}
 	"**Global trigger activated: Confusion**"
 	{
@@ -407,6 +421,7 @@
 	"***Current mode : FFVII mode***"
 	{
 		"chi"		"**当前模式：最终幻想7 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Warning: Sephiroth has appeared.***"
 	{
@@ -419,6 +434,7 @@
 	"**Zombie trigger activated: Immortality in 5 secs. (8 secs. duration)**"
 	{
 		"chi"		"**僵尸随机事件：免疫人类伤害[持续8秒] **"
+		"DoorCountdown"		"3"
 	}
 	"***Current mode : Turtle mode***"
 	{
@@ -443,10 +459,12 @@
 	"*** Zombies can be killed in 4 minutes. ***"
 	{
 		"chi"		"**4分钟后杀死所有僵尸 **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Zombies can be killed in 3 minutes. ***"
 	{
 		"chi"		"**3分钟后杀死所有僵尸 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Zombie Jumper has been picked.***"
 	{
@@ -463,6 +481,7 @@
 	"**CT trigger activated: Shrooms for zombies in 5 secs. (30 secs. duration)**"
 	{
 		"chi"		"**人类随机事件：5秒后把僵尸变成蘑菇[持续30秒] **"
+		"DoorCountdown"		"3"
 	}
 	"** !? **"
 	{
@@ -475,6 +494,7 @@
 	"**Global trigger activated: Total darkness in 5 secs. (45 secs. duration)**"
 	{
 		"chi"		"**全体随机事件：5秒后陷入完全黑暗[持续45秒] **"
+		"DoorCountdown"		"3"
 	}
 	"** Helicopters out of fuel! **"
 	{
