@@ -147,7 +147,7 @@
 	{
 		"chi"		"**30s后开门**"
 	}
-	"DOOR OPENS IN 15 SECONDS"
+	"Door opens in 15 Seconds"
 	{
 		"chi"		"**15秒后开门**"
 	}
@@ -183,6 +183,10 @@
 		"chi"		"** **"
 	}
 	"!!! ADMIN HAS SET LEVEL 3 !!!"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

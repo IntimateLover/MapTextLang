@@ -191,32 +191,32 @@
 	"** Dancing Claw - prepare using heal **"
 	{
 		"chi"		"**舞爪 - 使用奶子**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Divine Tears - crouch **"
 	{
 		"chi"		"**圣泪 - 蹲下**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Ricochet **"
 	{
 		"chi"		"**冲撞 - 硬抗或者看准攻击提前跳跃躲避伤害**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Vampire - stop shooting **"
 	{
 		"chi"		"**吸血 - 停止射击**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Swallow - stay back **"
 	{
 		"chi"		"**吞噬 - 往后站**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Force - stay front **"
 	{
 		"chi"		"**力量 - 往前站**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** You are too late. Boss enrage soon.. **"
 	{
@@ -325,12 +325,12 @@
 	"** Divine Tears **"
 	{
 		"chi"		"**圣神之泪 -80HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Vampire **"
 	{
 		"chi"		"**吸血反伤 -5HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Survive 60s **"
 	{
@@ -491,32 +491,32 @@
 	"** Temple door is opening soon **"
 	{
 		"chi"		"**庙门很快就会打开**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** You must defend until the door opens **"
 	{
 		"chi"		"**坚守至大门打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Fixing the door. Keep defending! **"
 	{
 		"chi"		"**修复大门中，继续防守**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"24"
 	}
 	"** The door will open soon **"
 	{
 		"chi"		"**门很快就会打开**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"** Swallow **"
 	{
 		"chi"		"**吞噬（按住S）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Force **"
 	{
 		"chi"		"**力量（按住W）**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** STAGE 1: Underground **"
 	{
@@ -525,7 +525,7 @@
 	"** Ricochet - jump **"
 	{
 		"chi"		"**冲撞 - 硬抗或者看准攻击提前跳跃躲避伤害！！**"
-		"DoorCountDown"		"3"
+		"DoorCountdown"		"3"
 	}
 	"** Kill all weakened zombies **"
 	{
@@ -610,7 +610,7 @@
 	"** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **"
 	{
 		"chi"		"**进入BOSS房跳刀并且存活超过5秒的玩家将获得1000杀敌 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** GET TO THE HELICOPTER NOW! **"
 	{
@@ -652,7 +652,7 @@
 	{
 		"chi"		"**还剩10秒 **"
 	}
-	"** 5 seconds left **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒 **"
 	}
