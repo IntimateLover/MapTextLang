@@ -1,7 +1,8 @@
-  "mapname"
+"mapname"
 {
 	"ze_ksena"
 	{
+		"credit"	"333"
 		"onlyadmin"  "1" 
 		"onlynominate" "1"
 	}
