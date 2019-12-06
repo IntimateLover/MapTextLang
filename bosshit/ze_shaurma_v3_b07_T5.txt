@@ -128,7 +128,7 @@
 	}
 	"819584"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"819584"
 		"m_iname"		"level2_police_barricade_physbox"
 	}

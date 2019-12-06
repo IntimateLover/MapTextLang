@@ -94,7 +94,7 @@
 	}
 	"*** We have to keep defending here while train is coming through ***"
 	{
-		"chi"		"**我们需要在这里守一小会,火车正在经过 **"
+		"chi"		"**我们需要在这里守一小会60秒,火车正在经过**"
 	}
 	"*** 5 more seconds! ***"
 	{
@@ -375,7 +375,7 @@
 	}
 	"*** Platform leaves in 25 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**平台将在25秒后离开**"
 	}
 	"*** [Putin] I am not done with you yet ! ***"
 	{

@@ -92,15 +92,15 @@
 	}
 	"*please CTRL!*"
 	{
-		"chi"		"** **"
+		"chi"		"**请蹲下**"
 	}
 	"*look you below*"
 	{
-		"chi"		"** **"
+		"chi"		"**看脚底，走回到BOSS平台上方**"
 	}
 	"*boss use fire*"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS使用了火焰**"
 	}
 	"*stage win*"
 	{
