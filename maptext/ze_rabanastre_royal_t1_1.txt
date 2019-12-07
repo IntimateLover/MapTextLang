@@ -2,7 +2,7 @@
 {
 	"< Map by Tianli >"
 	{
-		"chi"		"**地图作者：Tianli，地图翻译：神々が恋した幻想郷 **"
+		"chi"		"**地图作者：Tianli 地图翻译：神々が恋した幻想郷 **"
 	}
 	"< Special thanks to Lishang,Koyomaple >"
 	{
@@ -261,22 +261,6 @@
 	{
 		"chi"		"**ZM模式(找到莫古传送行进行快速传送) **"
 	}
-	"< This map is a test version >"
-	{
-		"chi"		"**这张地图目前是测试版本 **"
-	}
-	"< Actually, I dont know the updates to this map >"
-	{
-		"chi"		"**实际上，我不知道如何更新这张地图 **"
-	}
-	"< But,who fucking care.XD >"
-	{
-		"chi"		"**但是，又会有谁在意呢.XD **"
-	}
-	"< Just listen to the music for relaxing >"
-	{
-		"chi"		"**尽情的放松来听好听的音乐吧 **"
-	}
 	"< 2 minutes >"
 	{
 		"chi"		"**还剩2分钟 **"
@@ -286,5 +270,38 @@
 	{
 		"chi"		"**还剩1分钟 **"
 		"DoorCountDown"		"-1"
+	}
+	"< Boss fight start in 10 seconds... >"
+	{
+		"chi"		"**Boss战将在10秒后开始... **"
+	}
+	"< You have defeated Trial mode!Congratulations! >"
+	{
+		"chi"		"**你通过了审判模式！恭喜你！ **"
+	}
+	"< Defend until the final gate open! >"
+	{
+		"chi"		"**准备防守，直到最后一扇门打开！ **"
+		"DoorCountDown"		"40"
+	}
+	"< A random gate will open in 30 seconds >"
+	{
+		"chi"		"**30秒后随机打开一扇门，注意防守 **"
+	}
+	"< The gate will open in 35 seconds >"
+	{
+		"chi"		"**大门将在35秒后打开 **"
+	}
+	"< Nades can do more damage >"
+	{
+		"chi"		"**手雷能造成更多伤害 **"
+	}
+	"< The Airship will leave in 10 seconds >"
+	{
+		"chi"		"**飞空艇将在10秒后离开，快上来 **"
+	}
+	"< Trial Mode >"
+	{
+		"chi"		"**审判模式 **"
 	}
 }
