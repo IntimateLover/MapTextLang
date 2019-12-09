@@ -614,7 +614,7 @@
 	}
 	"546455"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"546455"
 		"m_iname"		"blobarm_hp"
 	}
