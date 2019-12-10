@@ -86,6 +86,11 @@
 		"chi"		"**熔岩之刃 **"
 		"DoorCountdown"		"2"
 	}
+	"** Energy absorption **"
+	{
+		"chi"		"**能量吸收(远离BOSS) **"
+		"DoorCountdown"		"2"
+	}
 	"** Lava Wall **"
 	{
 		"chi"		"**中间冰墙(集火打碎) **"
@@ -101,7 +106,7 @@
 		"chi"		"**岩浆上升 **"
 		"DoorCountdown"		"2"
 	}
-	"** SUN STRIKE **"
+	"*** SUN STRIKE ***"
 	{
 		"chi"		"**阳炎冲击(移动起来躲避天火四次) **"
 		"DoorCountdown"		"2"

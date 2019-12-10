@@ -25,7 +25,7 @@
     },
     "ze_30_seconds__b21_p2": {
         "name": "ze_30_seconds__b21_p2",
-        "cn_name": "",
+        "cn_name": "30秒逃脱",
         "default": "ze_30_seconds__b21_p2",
         "versions": [
             "ze_30_seconds__b21_p2"
@@ -51,7 +51,7 @@
     },
     "ze_ATIX_extinction_p2": {
         "name": "ze_ATIX_extinction_p2",
-        "cn_name": "",
+        "cn_name": "光圈科技",
         "default": "ze_ATIX_extinction_p2",
         "versions": [
             "ze_ATIX_extinction_p2"
@@ -59,7 +59,7 @@
     },
     "ze_A_E_S_T_H_E_T_I_C_v1_1": {
         "name": "ze_A_E_S_T_H_E_T_I_C_v1_1",
-        "cn_name": "",
+        "cn_name": "舞台剧",
         "default": "ze_A_E_S_T_H_E_T_I_C_v1_1",
         "versions": [
             "ze_A_E_S_T_H_E_T_I_C_v1_1"
