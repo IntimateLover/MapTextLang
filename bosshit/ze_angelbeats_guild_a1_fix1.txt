@@ -132,4 +132,10 @@
 		"hammerid"		"386310"
 		"m_iname"		"lv1_yule_wall"
 	}
+	"385533"
+	{
+		"enable"		"0"
+		"hammerid"		"385533"
+		"m_iname"		"rock&0370"
+	}
 }

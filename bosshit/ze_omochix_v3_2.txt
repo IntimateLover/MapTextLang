@@ -18,4 +18,10 @@
 		"hammerid"		"71727"
 		"m_iname"		"extream_whitebox"
 	}
+	"31295"
+	{
+		"enable"		"0"
+		"hammerid"		"31295"
+		"m_iname"		"level2_blue_box"
+	}
 }
