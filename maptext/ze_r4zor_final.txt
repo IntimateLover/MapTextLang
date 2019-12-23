@@ -3,10 +3,12 @@
 	"***Defend  45 seconds left***"
 	{
 		"chi"		"**防守45s**"
+		"DoorCountdown"		"45"
 	}
 	"***Defend  15 seconds left***"
 	{
 		"chi"		"**防守15s**"
+		"DoorCountdown"		"15"
 	}
 	"***Defend here until the fence breaks***"
 	{
@@ -15,6 +17,7 @@
 	"***Defend 45 second left***"
 	{
 		"chi"		"**防守45s**"
+		"DoorCountdown"		"45"
 	}
 	"***The first fence broke***"
 	{
@@ -23,6 +26,7 @@
 	"***The second fence will break in 55 seconds***"
 	{
 		"chi"		"**第二个栅栏将在55s后碎掉**"
+		"DoorCountdown"		"55"
 	}
 	"***Only 10 seconds left***"
 	{
@@ -95,6 +99,7 @@
 	"***Defend 45 seconds left***"
 	{
 		"chi"		"**坚守45秒**"
+		"DoorCountdown"		"45"
 	}
 	"***Afk teleport 5 seconds left***"
 	{
@@ -104,6 +109,7 @@
 	"***Defend 15 seconds left***"
 	{
 		"chi"		"**坚守15秒**"
+		"DoorCountdown"		"15"
 	}
 	"***Afk teleport 5second left***"
 	{
