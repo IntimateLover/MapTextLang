@@ -1,0 +1,75 @@
+"BOSSHP"
+{
+	"58437"
+	{
+		"enable"		"0"
+		"hammerid"		"58437"
+		"m_iname"		"lv1_laser_break"
+	}
+	"46776"
+	{
+		"enable"		"0"
+		"hammerid"		"46776"
+		"m_iname"		"lv1_first_break"
+	}
+	"37584"
+	{
+		"enable"		"0"
+		"hammerid"		"37584"
+		"m_iname"		"last_break"
+	}
+	"32000"
+	{
+		"enable"		"0"
+		"hammerid"		"32000"
+		"m_iname"		"boat_break"
+	}
+	"30957"
+	{
+		"enable"		"0"
+		"hammerid"		"30957"
+		"m_iname"		"t2_break_2"
+	}
+	"31002"
+	{
+		"enable"		"0"
+		"hammerid"		"31002"
+		"m_iname"		"t2_break_2"
+	}
+	"31086"
+	{
+		"enable"		"0"
+		"hammerid"		"31086"
+		"m_iname"		"t2_break_3"
+	}
+	"30577"
+	{
+		"enable"		"0"
+		"hammerid"		"30577"
+		"m_iname"		"t2_break_1"
+	}
+	"30590"
+	{
+		"enable"		"0"
+		"hammerid"		"30590"
+		"m_iname"		"t2_break_1"
+	}
+	"12846"
+	{
+		"enable"		"0"
+		"hammerid"		"12846"
+		"m_iname"		"t3_break_2"
+	}
+	"12850"
+	{
+		"enable"		"0"
+		"hammerid"		"12850"
+		"m_iname"		"t3_break_3"
+	}
+	"3228"
+	{
+		"enable"		"0"
+		"hammerid"		"3228"
+		"m_iname"		"t3_break_1"
+	}
+}
