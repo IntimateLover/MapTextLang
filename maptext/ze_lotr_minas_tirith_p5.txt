@@ -362,11 +362,9 @@
 	{
 		"chi"		"** 提示10：人类神器骑兵和重甲兵(护盾未被打破时)能击退僵尸 **"
 		"DoorCountdown"		"-1"
-	｝
-	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
-	{		
-		"chi"		"** 提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度 **"
-		"DoorCountdown"		"-1"
+		"｝"		"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+		"{"		"chi"
+		"** 提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度 **"		"DoorCountdown"
 	}
 	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
 	{
@@ -456,5 +454,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"82590"
+	}
+	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **"
+	{
+		"chi"		"** **"
+	}
+	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+	{
+		"chi"		"** **"
 	}
 }
