@@ -336,4 +336,94 @@
 		"hammerid"		"8505006"
 		"m_iname"		"humancounter_s1_phase1_door1"
 	}
+	"8935847"
+	{
+		"enable"		"0"
+		"hammerid"		"8935847"
+		"m_iname"		"NPC_Soldier_Body&4930"
+	}
+	"7665730"
+	{
+		"enable"		"0"
+		"hammerid"		"7665730"
+		"m_iname"		"Spawn_Projectile_Physic&4955"
+	}
+	"5141630"
+	{
+		"enable"		"0"
+		"hammerid"		"5141630"
+		"m_iname"		"Stage_5_Trap_Suction_Button"
+	}
+	"5141641"
+	{
+		"enable"		"0"
+		"hammerid"		"5141641"
+		"m_iname"		"Stage_5_Trap_Explosion_Body"
+	}
+	"5141650"
+	{
+		"enable"		"0"
+		"hammerid"		"5141650"
+		"m_iname"		"Stage_5_Trap_Gravity_Phys"
+	}
+	"5141741"
+	{
+		"enable"		"0"
+		"hammerid"		"5141741"
+		"m_iname"		"Stage_5_Trap_Suction_Button1"
+	}
+	"5141839"
+	{
+		"enable"		"0"
+		"hammerid"		"5141839"
+		"m_iname"		"Stage_5_Trap_Suction_Button4"
+	}
+	"5141850"
+	{
+		"enable"		"0"
+		"hammerid"		"5141850"
+		"m_iname"		"Stage_5_Trap_Explosion_Body2"
+	}
+	"5141871"
+	{
+		"enable"		"0"
+		"hammerid"		"5141871"
+		"m_iname"		"Stage_5_Trap_Suction_Button5"
+	}
+	"5141878"
+	{
+		"enable"		"0"
+		"hammerid"		"5141878"
+		"m_iname"		"Stage_5_Trap_Gravity_Phys3"
+	}
+	"5141957"
+	{
+		"enable"		"0"
+		"hammerid"		"5141957"
+		"m_iname"		"Stage_5_Trap_Gravity_Phys4"
+	}
+	"5749963"
+	{
+		"enable"		"0"
+		"hammerid"		"5749963"
+		"m_iname"		"stage_5_door_timer"
+	}
+	"6280526"
+	{
+		"enable"		"0"
+		"hammerid"		"6280526"
+		"m_iname"		"stage_5_lower_core_tunnel_effec"
+	}
+	"8931887"
+	{
+		"enable"		"0"
+		"hammerid"		"8931887"
+		"m_iname"		"Zombie_Item_Alma_Body_Health"
+	}
+	"8931594"
+	{
+		"enable"		"0"
+		"hammerid"		"8931594"
+		"m_iname"		"Zombie_Item_Predator_Health"
+	}
 }
