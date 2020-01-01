@@ -1,0 +1,129 @@
+"BOSSHP"
+{
+	"155435"
+	{
+		"enable"		"0"
+		"hammerid"		"155435"
+		"m_iname"		"1_door_0_0"
+	}
+	"155454"
+	{
+		"enable"		"0"
+		"hammerid"		"155454"
+		"m_iname"		"1_door_0_1"
+	}
+	"164859"
+	{
+		"enable"		"0"
+		"hammerid"		"164859"
+		"m_iname"		"2_fire_bre"
+	}
+	"164872"
+	{
+		"enable"		"0"
+		"hammerid"		"164872"
+		"m_iname"		"2_fire_bre"
+	}
+	"25974"
+	{
+		"enable"		"0"
+		"hammerid"		"25974"
+		"m_iname"		"1_door13"
+	}
+	"7337"
+	{
+		"enable"		"0"
+		"hammerid"		"7337"
+		"m_iname"		"1_door_7"
+	}
+	"7371"
+	{
+		"enable"		"0"
+		"hammerid"		"7371"
+		"m_iname"		"1_door_9"
+	}
+	"7380"
+	{
+		"enable"		"0"
+		"hammerid"		"7380"
+		"m_iname"		"1_door_10_bre3"
+	}
+	"7389"
+	{
+		"enable"		"0"
+		"hammerid"		"7389"
+		"m_iname"		"1_door_10_bre1"
+	}
+	"7392"
+	{
+		"enable"		"0"
+		"hammerid"		"7392"
+		"m_iname"		"1_door_10_bre2"
+	}
+	"7398"
+	{
+		"enable"		"0"
+		"hammerid"		"7398"
+		"m_iname"		"1_door_10_bre4"
+	}
+	"7486"
+	{
+		"enable"		"0"
+		"hammerid"		"7486"
+		"m_iname"		"1_door_5"
+	}
+	"7490"
+	{
+		"enable"		"0"
+		"hammerid"		"7490"
+		"m_iname"		"1_door_5"
+	}
+	"10620"
+	{
+		"enable"		"1"
+		"hammerid"		"10620"
+		"m_iname"		"hitbox"
+	}
+	"165019"
+	{
+		"enable"		"1"
+		"hammerid"		"165019"
+		"m_iname"		"nrk_level2_hitbox&2537"
+	}
+	"165033"
+	{
+		"enable"		"0"
+		"hammerid"		"165033"
+		"m_iname"		"nrk_level2_CY01Physic1&2537"
+	}
+	"7814"
+	{
+		"enable"		"0"
+		"hammerid"		"7814"
+		"m_iname"		"1_door_1"
+	}
+	"7502"
+	{
+		"enable"		"0"
+		"hammerid"		"7502"
+		"m_iname"		"1_door_3"
+	}
+	"151112"
+	{
+		"enable"		"0"
+		"hammerid"		"151112"
+		"m_iname"		"nrk_npc_CY01Physic1&2519"
+	}
+	"151322"
+	{
+		"enable"		"1"
+		"hammerid"		"151322"
+		"m_iname"		"nrk_npc_hitbox"
+	}
+	"7407"
+	{
+		"enable"		"0"
+		"hammerid"		"7407"
+		"m_iname"		"1_door_6"
+	}
+}
