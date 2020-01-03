@@ -78,7 +78,7 @@
 	}
 	"### HOLY BOOK HAS BEEN PLACED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**神圣之书已被放置 **"
 	}
 	"### TEMPLES GATES OPEN IN 30 SECONDS ###"
 	{
@@ -374,7 +374,7 @@
 	}
 	"### CASTING MAGNUS EXORCISMUS IN 10 SECONDS  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒内十字驱魔攻击 **"
 	}
 	"###  THE DEMON GOD IS WAITING FOR YOUR BLOOD ###"
 	{
@@ -410,7 +410,7 @@
 	}
 	"### THERE IS A HELL BELIEVE ME IVE SEEN IT ###"
 	{
-		"chi"		"** **"
+		"chi"		"**不敢相信！我看到了地狱！ **"
 	}
 	"### GOD KNOWS I LOST ALL MY FAITH ###"
 	{
@@ -498,62 +498,62 @@
 	}
 	"### ZOMBIES WILL BE RELEASED IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后被释放 **"
 	}
 	"III ZOMBIE HAS PICKED UP SLAVE SPAWNER III"
 	{
-		"chi"		"** **"
+		"chi"		"**III 僵尸拾取了奴隶产卵者 III **"
 	}
 	"### SUMMONING SLAVE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**召唤奴隶 **"
 	}
 	"### PATH WILL BE CLEAR IN 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**道路将在30秒后被清理出来 **"
 	}
 	"### THORN OF RECOVERY IS HEALING EVIL MAKER ###"
 	{
-		"chi"		"** **"
+		"chi"		"**复苏的荆棘正在治疗邪恶信仰者 **"
 	}
 	"### ZOMBIE TELEPORTING IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后被传送 **"
 	}
 	"### CHURCH DOORS OPEN IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**教堂门将在10秒后打开 **"
 	}
 	"### DOOM BRINGER HAS DISAPPEARED !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**厄运使者已经消失了 !! **"
 	}
 	"### YOUR SOUL IS MINE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你的灵魂是我的 **"
 	}
 	"### DOOM BRINGER IS CASTING HIGH POWER ###"
 	{
-		"chi"		"** **"
+		"chi"		"**厄运使者正在使用高能量 **"
 	}
 	"### CASTING MAGNUS EXORCISMUS IN 15 SECONDS  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒内十字驱魔攻击 **"
 	}
 	"### NARAKAS SOUL COLLECTER IS NOW IMMORTAL ###"
 	{
-		"chi"		"** **"
+		"chi"		"**纳拉斯灵魂收藏家现在是不朽的 **"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在3秒后被释放 **"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在2秒后被释放 **"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 1 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在1秒后被释放 **"
 	}
 }
