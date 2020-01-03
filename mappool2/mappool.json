@@ -192,7 +192,7 @@
         "cn_name": "最终幻想7：魔光炉",
         "default": "ze_FFVII_Mako_Reactor_v5_3_v5",
         "versions": [
-            "ze_FFVII_Mako_Reactor_v5_3_v5",
+            "ze_FFVII_Mako_Reactor_v5_3_v5"
         ]
     },
     "ze_FFVII_Mako_Reactor_V6_B09k": {
@@ -226,7 +226,7 @@
         "cn_name": "最终幻想12：幻妖之森（旧）",
         "default": "ze_FFXII_Feywood_a2_g6t",
         "versions": [
-            "ze_FFXII_Feywood_a2_g6t",
+            "ze_FFXII_Feywood_a2_g6t"
         ]
     },
     "ze_FFXII_Paramina_Rift_v1_4_a8t": {
@@ -245,7 +245,7 @@
             "ze_FFXII_Ridorana_Cataract_t5_3_g1f",
             "ze_FFXII_Ridorana_Cataract_t5_3_g1t",
             "ze_FFXII_Ridorana_Cataract_t5_3_g2t",
-            "ze_FFXII_Ridorana_Cataract_t5_3_g2f",
+            "ze_FFXII_Ridorana_Cataract_t5_3_g2f"
         ]
     },
     "ze_Fat_house_escape_v1_0_6d": {
@@ -285,7 +285,7 @@
         "cn_name": "逃离冬季工厂",
         "default": "ze_hiems_facilities_v3ar_b7_rename",
         "versions": [
-            "ze_Hiems_facilities_v2_1"
+            "ze_Hiems_facilities_v2_1",
             "ze_hiems_facilities_v3ar_b7_rename"
         ]
     },
@@ -600,7 +600,7 @@
         "default": "ze_serpentis_temple_csgo5_c",
         "versions": [
             "ze_Serpentis_Temple_p2",
-            "ze_serpentis_temple_csgo5"
+            "ze_serpentis_temple_csgo5",
             "ze_serpentis_temple_csgo5_c"
         ]
     },
@@ -651,7 +651,7 @@
         "default": "ze_Stalker_Ultimate_v2_3_g7t",
         "versions": [
             "ze_Stalker_Ultimate_v2_3_g7t",
-            "ze_stalker_ultimate_v2_3_g6",
+            "ze_stalker_ultimate_v2_3_g6"
         ]
     },
     "ze_Starwars_v2fix1": {
@@ -1423,7 +1423,7 @@
         "cn_name": "梦之韵",
         "default": "ze_dreamin_v2_4",
         "versions": [
-            "ze_dreamin_v2_3"
+            "ze_dreamin_v2_3",
             "ze_dreamin_v2_4"
         ]
     },
@@ -1627,7 +1627,7 @@
             "ze_ffvii_malgo_reactor_v5_3FIX",
             "ze_ffvii_malgo_reactor_v6_b06",
             "ze_ffvii_malgo_reactor_v6_b08",
-            "ze_ffvii_malgo_reactor_v6_b14"
+            "ze_ffvii_malgo_reactor_v6_b14",
             "ze_ffvii_malgo_reactor_v6_b17"
         ]
     },
@@ -1679,7 +1679,7 @@
         "default": "ze_ffxiv_wanderers_palace_v2_va2",
         "versions": [
             "ze_ffxiv_wanderers_palace_v2_11",
-            "ze_ffxiv_wanderers_palace_v2_va2",
+            "ze_ffxiv_wanderers_palace_v2_va2"
         ]
     },
     "ze_ffxiv_wanderers_palace_v4_va2": {
@@ -1711,7 +1711,7 @@
         "cn_name": "逃离：防火墙实验室第一章",
         "default": "ze_firewall_laboratory_part1_p2",
         "versions": [
-            "ze_firewall_laboratory_part1_p2",
+            "ze_firewall_laboratory_part1_p2"
         ]
     },
     "ze_firewall_laboratory_part2_p2": {
@@ -2276,7 +2276,7 @@
         "cn_name": "拯救世界：一人之巅",
         "default": "ze_last_man_standing_csgo2",
         "versions": [
-            "ze_last_man_standing_csgo1"
+            "ze_last_man_standing_csgo1",
             "ze_last_man_standing_csgo2"
         ]
     },
@@ -2317,7 +2317,7 @@
         "cn_name": "911之光",
         "default": "ze_light_911_v7_csgo_ab1",
         "versions": [
-            "ze_light_911_v7_final"
+            "ze_light_911_v7_final",
             "ze_light_911_v7_csgo_ab1"
         ]
     },
@@ -2350,7 +2350,7 @@
         "cn_name": "紫色世界",
         "default": "ze_lolxd_final_fix_iswear_v3",
         "versions": [
-            "ze_lolxd_final_fix_iswear_v3"
+            "ze_lolxd_final_fix_iswear_v3",
             "ze_lolxd_final_fix"
         ]
     },
@@ -2570,7 +2570,7 @@
             "ze_moon_shadow_legend_v9_8b",
             "ze_moon_shadow_legend_v9_8c_f",
             "ze_moon_shadow_legend_v9_8d",
-            "ze_moon_shadow_legend_v9_9c_f"
+            "ze_moon_shadow_legend_v9_9c_f",
             "ze_moon_shadow_legend_v10b_h_f"
         ]
     },
@@ -2595,7 +2595,7 @@
         "cn_name": "超级爬山",
         "default": "ze_mountain_escape_v5_zy_g1t",
         "versions": [
-            "ze_mountain_escape_v5_zy"
+            "ze_mountain_escape_v5_zy",
             "ze_mountain_escape_v5_zy_g1t"
         ]
     },
@@ -2754,7 +2754,7 @@
         "versions": [
             "ze_omega_p3",
             "ze_omegatest",
-            "ze_omegatest2",
+            "ze_omegatest2"
         ]
     },
      "ze_omen_090": {
@@ -2820,7 +2820,7 @@
         "cn_name": "潘多拉：进化",
         "default": "ze_pandora_revolutionz_hdr2",
         "versions": [
-            "ze_pandora_evolution",
+            "ze_pandora_evolution"
         ]
     },
     "ze_pandora_revolutionz_hdr2": {
@@ -2885,7 +2885,7 @@
         "cn_name": "加勒比海盗：罗亚尔港V4",
         "default": "ze_pirates_port_royal_v4_2",
         "versions": [
-            "ze_pirates_port_royal_v4_2",
+            "ze_pirates_port_royal_v4_2"
         ]
     },
     "ze_pirates_port_royal_v5_6": {
@@ -3024,7 +3024,7 @@
         "default": "ze_rats_escape_final",
         "versions": [
             "ze_rats_escape",
-            "ze_rats_escape_v04"
+            "ze_rats_escape_v04",
             "ze_rats_escape_final"
         ]
     },
@@ -3039,7 +3039,7 @@
             "ze_re_creation_b2_19",
             "ze_re_creation_b2_20",
             "ze_re_creation_b2_21",
-            "ze_re_creation_b2_22"
+            "ze_re_creation_b2_22",
             "ze_re_creation_v2_25"
         ]
     },
@@ -3292,7 +3292,7 @@
             "ze_sky_fantasy_a7",
             "ze_sky_fantasy_v1",
             "ze_sky_fantasy_v1_2",
-            "ze_sky_fantasy_v1_2f"
+            "ze_sky_fantasy_v1_2f",
             "ze_sky_fantasy_v1_3"
         ]
     },
@@ -3391,7 +3391,7 @@
         "cn_name": "核电站遗迹逃亡",
         "default": "ze_stalkermonolit_v7gofix",
         "versions": [
-            "ze_stalkermonolit_v6_go"
+            "ze_stalkermonolit_v6_go",
             "ze_stalkermonolit_v7gofix"
         ]
     },
@@ -3665,7 +3665,7 @@
         "cn_name": "三眼宇宙",
         "default": "ze_three_eyes_v1",
         "versions": [
-            "ze_three_eyes_v0_7"
+            "ze_three_eyes_v0_7",
             "ze_three_eyes_v1"
         ]
     },
@@ -3920,7 +3920,7 @@
         "cn_name": "逃离巫毒岛",
         "default": "ze_voodoo_islands_p5",
         "versions": [
-            "ze_voodoo_islands_p5"
+            "ze_voodoo_islands_p5",
             "ze_voodoo_islands_v8_5_p4"
         ]
     },
