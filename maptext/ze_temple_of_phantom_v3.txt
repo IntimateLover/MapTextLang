@@ -78,7 +78,7 @@
 	}
 	"### HOLY BOOK HAS BEEN PLACED ###"
 	{
-		"chi"		"**神圣之书已被放置 **"
+		"chi"		"** **"
 	}
 	"### TEMPLES GATES OPEN IN 30 SECONDS ###"
 	{
@@ -238,7 +238,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"15319"
+		"syncvalue"		"6810"
 	}
 	"### ADMIN HAS SELECTED STAGE: II ###"
 	{
@@ -374,7 +374,7 @@
 	}
 	"### CASTING MAGNUS EXORCISMUS IN 10 SECONDS  ###"
 	{
-		"chi"		"**10秒内十字驱魔攻击 **"
+		"chi"		"** **"
 	}
 	"###  THE DEMON GOD IS WAITING FOR YOUR BLOOD ###"
 	{
@@ -410,7 +410,7 @@
 	}
 	"### THERE IS A HELL BELIEVE ME IVE SEEN IT ###"
 	{
-		"chi"		"**不敢相信！我看到了地狱！ **"
+		"chi"		"** **"
 	}
 	"### GOD KNOWS I LOST ALL MY FAITH ###"
 	{
@@ -498,62 +498,146 @@
 	}
 	"### ZOMBIES WILL BE RELEASED IN 10 SECONDS"
 	{
-		"chi"		"**僵尸将在10秒后被释放 **"
+		"chi"		"** **"
 	}
 	"III ZOMBIE HAS PICKED UP SLAVE SPAWNER III"
 	{
-		"chi"		"**III 僵尸拾取了奴隶产卵者 III **"
+		"chi"		"** **"
 	}
 	"### SUMMONING SLAVE ###"
 	{
-		"chi"		"**召唤奴隶 **"
+		"chi"		"** **"
 	}
 	"### PATH WILL BE CLEAR IN 30 SECONDS ###"
 	{
-		"chi"		"**道路将在30秒后被清理出来 **"
+		"chi"		"** **"
 	}
 	"### THORN OF RECOVERY IS HEALING EVIL MAKER ###"
 	{
-		"chi"		"**复苏的荆棘正在治疗邪恶信仰者 **"
+		"chi"		"** **"
 	}
 	"### ZOMBIE TELEPORTING IN 10 SECONDS ###"
 	{
-		"chi"		"**僵尸将在10秒后被传送 **"
+		"chi"		"** **"
 	}
 	"### CHURCH DOORS OPEN IN 10 SECONDS ###"
 	{
-		"chi"		"**教堂门将在10秒后打开 **"
+		"chi"		"** **"
 	}
 	"### DOOM BRINGER HAS DISAPPEARED !! ###"
 	{
-		"chi"		"**厄运使者已经消失了 !! **"
+		"chi"		"** **"
 	}
 	"### YOUR SOUL IS MINE ###"
 	{
-		"chi"		"**你的灵魂是我的 **"
+		"chi"		"** **"
 	}
 	"### DOOM BRINGER IS CASTING HIGH POWER ###"
 	{
-		"chi"		"**厄运使者正在使用高能量 **"
+		"chi"		"** **"
 	}
 	"### CASTING MAGNUS EXORCISMUS IN 15 SECONDS  ###"
 	{
-		"chi"		"**15秒内十字驱魔攻击 **"
+		"chi"		"** **"
 	}
 	"### NARAKAS SOUL COLLECTER IS NOW IMMORTAL ###"
 	{
-		"chi"		"**纳拉斯灵魂收藏家现在是不朽的 **"
+		"chi"		"** **"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
 	{
-		"chi"		"**僵尸将在3秒后被释放 **"
+		"chi"		"** **"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 2 SECONDS ###"
 	{
-		"chi"		"**僵尸将在2秒后被释放 **"
+		"chi"		"** **"
 	}
 	"### ZOMBIES WILL BE RELEASE IN 1 SECONDS ###"
 	{
-		"chi"		"**僵尸将在1秒后被释放 **"
+		"chi"		"** **"
+	}
+	"** Phase 1 **"
+	{
+		"chi"		"** **"
+	}
+	"**15**"
+	{
+		"chi"		"** **"
+	}
+	"**20**"
+	{
+		"chi"		"** **"
+	}
+	"**30**"
+	{
+		"chi"		"** **"
+	}
+	"**35**"
+	{
+		"chi"		"** **"
+	}
+	"**10**"
+	{
+		"chi"		"** **"
+	}
+	"**60**"
+	{
+		"chi"		"** **"
+	}
+	"** 20 **"
+	{
+		"chi"		"** **"
+	}
+	"** Holy Spirit Suction **"
+	{
+		"chi"		"** **"
+	}
+	"** Holy phosgene **"
+	{
+		"chi"		"** **"
+	}
+	"** Saint **"
+	{
+		"chi"		"** **"
+	}
+	"** Corpse Cage **"
+	{
+		"chi"		"** **"
+	}
+	"** Holy Wall **"
+	{
+		"chi"		"** **"
+	}
+	"** Light Barrage **"
+	{
+		"chi"		"** **"
+	}
+	"** Completion of Phase 1 **"
+	{
+		"chi"		"** **"
+	}
+	"** Phase 2 **"
+	{
+		"chi"		"** **"
+	}
+	"** 15 **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 **"
+	{
+		"chi"		"** **"
+	}
+	"** 25 **"
+	{
+		"chi"		"** **"
+	}
+	"** 18 **"
+	{
+		"chi"		"** **"
+	}
+	"**30 **"
+	{
+		"chi"		"** **"
 	}
 }

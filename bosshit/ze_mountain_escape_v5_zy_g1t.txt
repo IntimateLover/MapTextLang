@@ -264,4 +264,10 @@
 		"hammerid"		"2216"
 		"m_iname"		"boss_health"
 	}
+	"155096"
+	{
+		"enable"		"0"
+		"hammerid"		"155096"
+		"m_iname"		"physboxTornado&4194"
+	}
 }

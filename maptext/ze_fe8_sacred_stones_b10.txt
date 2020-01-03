@@ -1,0 +1,487 @@
+"Console_T"
+{
+	"***Map by iXi***"
+	{
+		"chi"		"**地图作者：iXi   翻译：Misaka**"
+	}
+	"***Chapter 1: Escape From Renais***"
+	{
+		"chi"		"**第一章：逃离Renais**"
+	}
+	"***A Player has picked up Shield***"
+	{
+		"chi"		"**一名玩家拾取了护盾**"
+	}
+	"***A player has picked up Heal***"
+	{
+		"chi"		"**一名玩家拾取了治疗**"
+	}
+	"***Activating Teleporter - Please Hold***"
+	{
+		"chi"		"**正在激活传送，请等待**"
+	}
+	"<<<We must get through this forest and head to Frelia and ask for help from King Hayden>>>"
+	{
+		"chi"		">>>我们必须穿过森林到达Frelia然后向Hayden国王寻求帮助<<<"
+	}
+	"<<<Path is blocked off by Grados spell...Please wait...>>>"
+	{
+		"chi"		">>>路被Grados的技能挡住了，请等待<<<"
+	}
+	"<<<We need to retrieve the 5 sacred stones>>>"
+	{
+		"chi"		">>>我们需要检索5个神圣之石<<<"
+	}
+	"***Defend for 25 sec***"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"***Zombie tp in 15 sec***"
+	{
+		"chi"		"**僵尸将在15秒后传送**"
+	}
+	"<<<Looks like we have found an ancient ruin....there should be 3 monuments that will lead us...>>>"
+	{
+		"chi"		">>>看起来我们找到了一个古老的遗迹，3个遗迹将会引领我们<<<"
+	}
+	"<<<We need to destroy these roots that are draining the power of the tree>>>"
+	{
+		"chi"		">>>我们需要摧毁这些吸收树的能量的根<<<"
+	}
+	"***The way will be opened in 25 sec***"
+	{
+		"chi"		"**路将在25秒后打开**"
+	}
+	"***Tree purified...Enabling teleport***"
+	{
+		"chi"		"**树已经净化了，正在准备传送**"
+	}
+	"<<<Sacred Guardian has appeared>>>"
+	{
+		"chi"		">>>神圣守卫出现了<<<"
+	}
+	"***The Guardian has learned Mega Earthquake (increased damage)***"
+	{
+		"chi"		"**守卫已经学会了超级地震（增加伤害）**"
+	}
+	"***Guardian has revived trees around the arena***"
+	{
+		"chi"		"**守卫复活了竞技场周围的树**"
+	}
+	"<<<Congratulations! Advancing  to next chapter...>>>"
+	{
+		"chi"		">>>恭喜！准备开始下一章节<<<"
+	}
+	"<<<Path is blocked, perhaps we can destroy the crystal...>>>"
+	{
+		"chi"		">>>路被挡住了，也许我们可以摧毁那个水晶<<<"
+	}
+	"<<<These red crystals appear to be some kind of trigger?>>>"
+	{
+		"chi"		">>>看起来这个红色水晶是什么东西的触发？<<<"
+	}
+	"<<<The stone must be in the room>>>"
+	{
+		"chi"		">>>石头一定是在屋子里！<<<"
+	}
+	"***1st crystal is fading"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***2nd crystal is fading***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"5886"
+	}
+	"***Models by their respective owners, animators***"
+	{
+		"chi"		"** **"
+	}
+	"***Moving_NPC script by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"***This is my first map, enjoy!***"
+	{
+		"chi"		"** **"
+	}
+	"***Music from: Fire Emblem Series***"
+	{
+		"chi"		"** **"
+	}
+	"***Enjoy as your journey begins in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Stripper Difficulty: Easy***"
+	{
+		"chi"		"** **"
+	}
+	"<<<The Grado Empire, a long-standing ally of Renais, launched a surprise attack on Renais, ordered by Emperor Vigarde>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<You must escape from Renais and find out Grados motives>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Used Shield***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 35 sec***"
+	{
+		"chi"		"** **"
+	}
+	"<<<We have received information from King Hayden that the land of Magvel is infested with foul being>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Locate the sacred guardian and have it remove the seals>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Seal deactivated>>>"
+	{
+		"chi"		"** **"
+	}
+	"===Evil Aura has drained some of your health==="
+	{
+		"chi"		"** **"
+	}
+	"<<<This is where the sacred guardian resides? Lets find it and have it open up the way to the sacred stones>>>"
+	{
+		"chi"		"** **"
+	}
+	"===Stay within the barrier at all times==="
+	{
+		"chi"		"** **"
+	}
+	"<<<The spirit needs some form of energy to restore stamina...>>>"
+	{
+		"chi"		"** **"
+	}
+	"===There is a crystal nearby...==="
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 15 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 20 sec***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Defeat me and I shall open up the seals>>>"
+	{
+		"chi"		"** **"
+	}
+	"===Infected being! You shall not proceed==="
+	{
+		"chi"		"** **"
+	}
+	"<<<You have defeated Sacred Guardian...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Chapter 2: Raustens Sacred Stone***"
+	{
+		"chi"		"** **"
+	}
+	"<<<After series of battles and victories, most of the sacred stones are destroyed >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<The only sacred stone left is the one at Rausten Dungeon>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<This should be a piece of cake since we have defeated Grados army at Rausten Court...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Crystal energy is fading...***"
+	{
+		"chi"		"** **"
+	}
+	"***Crystal energy is fading***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait until something happens***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Door is opening!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Second door is opening!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<We need to reach to the bottom...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 45 sec***"
+	{
+		"chi"		"** **"
+	}
+	"<<<The door is opening!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Mysterious voice: You need to activate crystal in sequential order>>>"
+	{
+		"chi"		"** **"
+	}
+	"***You have 20 seconds to solve this puzzle***"
+	{
+		"chi"		"** **"
+	}
+	"***The Rausten stone is being retrieved***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold your ground!***"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations! Moving on to next chapter***"
+	{
+		"chi"		"** **"
+	}
+	"***Chapter 3: Grados Secret***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Duessel mentions a Dark Stone to Ephraim>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<a substance that Lyon extraced from Grados Sacred Stone>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<We need to get to the bottom of this and end it!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<The best way to reach Grado is by sea>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<We need to head to the surface, lets go back up and head to the sewer system!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<This is the Raustens old sewer system>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<We need to find a way out of here>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Water seems to be poisonous?>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Get to the end of the tunnel***"
+	{
+		"chi"		"** **"
+	}
+	"***Way will be opened soon***"
+	{
+		"chi"		"** **"
+	}
+	"<<<The way will be opened soon>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Room for sacred weapons will be opened soon>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Way will be opened soon>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<TP Magic to Grado will be enabled soon>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Path to the top will be opened soon***"
+	{
+		"chi"		"** **"
+	}
+	"***Tracing Spirit is casting...***"
+	{
+		"chi"		"** **"
+	}
+	"***Chapter 4: Darkling Woods***"
+	{
+		"chi"		"** **"
+	}
+	"***A Player has picked up Silence***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Welcome to Darkling forest, home to many Manakete...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Show your respect to the fallen Manakete>>>"
+	{
+		"chi"		"** **"
+	}
+	">>>F<<<"
+	{
+		"chi"		"** **"
+	}
+	"***Defend until the way opens up***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Morva will be waiting on the top of the mountain...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Morva has escaped! We need to get out of here...>>>"
+	{
+		"chi"		"** **"
+	}
+	"===Make sure you trigger next part as a team....==="
+	{
+		"chi"		"** **"
+	}
+	"<<<Morva has appeared again!>>>"
+	{
+		"chi"		"** **"
+	}
+	"***You may stun him for one time only***"
+	{
+		"chi"		"** **"
+	}
+	"**Choose the spot wisely...***"
+	{
+		"chi"		"** **"
+	}
+	"***You may have forgotten to deal with the seals...***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Watch out! Morva is about to....>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Were almost there! Head to the temple!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Mortals! You have helped me in restoring power!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<You shall meet your fate inside...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Morva has appeared again! Finish him***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Your journey is not over...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Last Chapter will be completed in version one...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Final Chapater: Sacred Stone***"
+	{
+		"chi"		"** **"
+	}
+	"<<<We need to move this boulder...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Make sure you have full hp for next part***"
+	{
+		"chi"		"** **"
+	}
+	"<<<This is the elevator to the bottom layer...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Energy magic is being casted on the elevator...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Statue: Descendants of Renais...Your appearance in this ancient temple marks the>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<resurrection of Demon King...Fear not...as the stone will protect you from the eternal darkness....>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Formortiis: Come, and face your death! Im waiting, you miserable fool. Your corpse will make a perfect offering in my resurrection...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Formortiis has changed weak point***"
+	{
+		"chi"		"** **"
+	}
+	"<<<Formortiis: Mortal! Do you fear your own nightmare?...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Formortiis: Bring them to me...minions>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Formortiis: Facing the deceased ones....how interesting...>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Formortiis: Burn in ferocious lightning...>>>"
+	{
+		"chi"		"** **"
+	}
+	"***You have defeated Formortiis and successfully sealed away his remaining souls***"
+	{
+		"chi"		"** **"
+	}
+	"***You have achieved the impossible...***"
+	{
+		"chi"		"** **"
+	}
+	"***You are the hero of Magvel***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuking...***"
+	{
+		"chi"		"** **"
+	}
+	"***Crystal atk script by iXi w Luffarens help***"
+	{
+		"chi"		"** **"
+	}
+	"***Siegmund and Sieglinde mdl by iXi***"
+	{
+		"chi"		"** **"
+	}
+	"***Current version is GUC server only***"
+	{
+		"chi"		"** **"
+	}
+}
