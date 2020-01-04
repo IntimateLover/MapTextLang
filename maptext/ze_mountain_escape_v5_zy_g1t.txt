@@ -179,6 +179,7 @@
 	{
 		"chi"		"**僵尸随机事件：和平2秒 **"
 		"DoorCountdown"		"2"
+		
 	}
 	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
 	{
@@ -362,85 +363,5 @@
 	"***Current mode : Item Rush mode***"
 	{
 		"chi"		"**当前模式：神器对抗 **"
-	}
-	"***Current mode : Normal mode***"
-	{
-		"chi"		"** **"
-	}
-	"***Current mode : Space FFVII mode***"
-	{
-		"chi"		"** **"
-	}
-	"** A player has adquired ICE MATERIA **"
-	{
-		"chi"		"** **"
-	}
-	"** A player has adquired EARTH MATERIA **"
-	{
-		"chi"		"** **"
-	}
-	"***Warning: Sephiroth has appeared.***"
-	{
-		"chi"		"** **"
-	}
-	"*** Grenades fly! ***"
-	{
-		"chi"		"** **"
-	}
-	"***Warning: Tornados approaching***"
-	{
-		"chi"		"** **"
-	}
-	"*** A wall blocks our path! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** HOLD until were able to take down this wall. ***"
-	{
-		"chi"		"** **"
-	}
-	"*** WALL BREAK IN 5 SECS... Get ready! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Get moving! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** THIS IS OUR LAST STAND... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** The wall will break in 20 secs. ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mass teleport in 30 secs. ***"
-	{
-		"chi"		"** **"
-	}
-	"*** The helicopter is warming up... HOLD! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** THE HELICOPTER IS READY TO GO! ** SOMEONE HAS TO PILOT IT AND GET US OUT OF HERE! ***"
-	{
-		"chi"		"** **"
-	}
-	"***  Nuke inbound! ***"
-	{
-		"chi"		"** **"
-	}
-	"***  3 ***"
-	{
-		"chi"		"** **"
-	}
-	"***  2 ***"
-	{
-		"chi"		"** **"
-	}
-	"***  1 ***"
-	{
-		"chi"		"** **"
 	}
 }

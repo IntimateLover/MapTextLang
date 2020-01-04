@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"<--Map Made By Color-->"
+	{
+		"chi"		"** **"
+	}
+	"<--WORLD IS GENERATING-->"
+	{
+		"chi"		"** **"
+	}
+	"<--FIND AND STAY IN SAFE AREAS WHICH HAVE ARROWS-->"
+	{
+		"chi"		"** **"
+	}
+	"<--DOOMS WILL COME IN 90 SECONDS-->"
+	{
+		"chi"		"** **"
+	}
+	"<--5 SECONDS LEFT-->"
+	{
+		"chi"		"** **"
+	}
+	"<--DEACTIVATE TELEPORTS-->"
+	{
+		"chi"		"** **"
+	}
+	"<--DISABLE FALL DAMAGE-->"
+	{
+		"chi"		"** **"
+	}
+	"<--RANDOM DOOMS WILL BEGIN IN 60 SECONDS-->"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"84680"
+	}
+	"<--DOOMS END-->"
+	{
+		"chi"		"** **"
+	}
+}
