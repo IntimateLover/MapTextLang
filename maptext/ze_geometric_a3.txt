@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"<< Hold for 25 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 30 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 15 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Shooting the square to recharge the power of the lift >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The lift will RE-recharge if the power is more than 100 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< TIPS: red square will get 10 power >>"
+	{
+		"chi"		"** **"
+	}
+	"<< TIPS: green square will get 20 power >>"
+	{
+		"chi"		"** **"
+	}
+	"<< TIPS: blue square will get 30 power >>"
+	{
+		"chi"		"** **"
+	}
+	"<< TIPS: white square will refresh other square >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Platform will move in 8 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 35 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< STAGE COMPLETE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 60 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Next Stage coming soon...... >>"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"43621"
+	}
+}
