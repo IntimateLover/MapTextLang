@@ -179,7 +179,6 @@
 	{
 		"chi"		"**僵尸随机事件：和平2秒 **"
 		"DoorCountdown"		"2"
-		
 	}
 	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
 	{
@@ -363,5 +362,33 @@
 	"***Current mode : Item Rush mode***"
 	{
 		"chi"		"**当前模式：神器对抗 **"
+	}
+	"***Current mode : Arena mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** PURE SURVIVAL AND CARNAGE -- ALL ITEMS ARE AVAILABLE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Grenades fly! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Tornados approaching***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space FFVII mode***"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Sephiroth has appeared.***"
+	{
+		"chi"		"** **"
 	}
 }
