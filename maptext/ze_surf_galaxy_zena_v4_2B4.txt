@@ -55,62 +55,62 @@
 	"**R2-D2 attack, get ready to fight**"
 	{
 		"chi"		"**R2-D2来袭，准备战斗**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**R2-D2 is using gravity**"
 	{
 		"chi"		"**R2-D2使用了低重力(小心飞出平台)**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**R2-D2 did FLIP Barrel Roll and recovered 80 health points**"
 	{
 		"chi"		"**R2-D2使用了快速翻滚，恢复了80HP**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**R2-D2 is using support Grievous**"
 	{
 		"chi"		"**R2-D2召唤出了格里弗斯将军(看正前方躲刀，跳或者蹲或者左右找空隙)**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**R2-D2 is using support Clone Tropper**"
 	{
 		"chi"		"**R2-D2召唤出了克隆士兵(看正前方找空隙)**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**R2-D2 is using implosion**"
 	{
 		"chi"		"**R2-D2使用了万象牵引(按住S抵抗吸力)**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**R2-D2 is using paralyse**"
 	{
 		"chi"		"**R2-D2使用了麻痹电场**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Get out of the middle**"
 	{
 		"chi"		"**去两边**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**Stay on the middle**"
 	{
 		"chi"		"**去中间**"
-		"DoorCountDown"		"4"
+		"DoorCountdown"		"4"
 	}
 	"**R2-D2 died, now we can escape from this galaxy**"
 	{
 		"chi"		"**R2-D2死了，我们可以从这星系逃走了**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**This is last point, defeat R2-D2!**"
 	{
 		"chi"		"**这是最后一个点，快击败R2-D2**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**R2-D2 died, run!**"
 	{
 		"chi"		"**R2-D2死了，快跑(记得回头扔雷，僵尸追尾很快)**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Chapter II - completed**"
 	{
@@ -147,5 +147,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"2781"
+	}
+	"**Models made by Nitro and Struppi* *"
+	{
+		"chi"		"** **"
+	}
+	"< Complete two first surfs or wait 2 min >"
+	{
+		"chi"		"** **"
 	}
 }

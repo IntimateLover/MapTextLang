@@ -76,7 +76,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Run***"
+	"***RUN***"
 	{
 		"chi"		"** **"
 	}
@@ -208,7 +208,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Both Levers Have Been Pressed***"
+	"***BOTH LEVERS HAVE BEEN PRESSED***"
 	{
 		"chi"		"** **"
 	}
@@ -275,5 +275,13 @@
 	"sync_version"
 	{
 		"syncvalue"		"55580"
+	}
+	"***The Fountain Gates Will Open in 15 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Take The Other Path***"
+	{
+		"chi"		"** **"
 	}
 }
