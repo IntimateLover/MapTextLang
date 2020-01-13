@@ -623,7 +623,7 @@
         ]
     },
     "ze_Shadow_temple_v4_4": {
-        "cn_name": "",
+        "cn_name": "血影寺庙",
         "default": "ze_Shadow_temple_v4_4",
         "name": "ze_Shadow_temple_v4_4",
         "versions": [
@@ -643,14 +643,7 @@
             "ze_shadow_temple_v2_3",
             "ze_shadow_temple_v2_7",
             "ze_Shadow_temple_v4_1",
-            "ze_shadow_temple_v2_2"
-        ]
-    },
-    "ze_Shadw_temple_v1six": {
-        "cn_name": "",
-        "default": "ze_Shadw_temple_v1six",
-        "name": "ze_Shadw_temple_v1six",
-        "versions": [
+            "ze_shadow_temple_v2_2",
             "ze_Shadw_temple_v1six"
         ]
     },
@@ -1608,7 +1601,7 @@
         ]
     },
     "ze_event_ox_new_year_go2": {
-        "cn_name": "",
+        "cn_name": "快乐答题战",
         "default": "ze_event_ox_new_year_go2",
         "name": "ze_event_ox_new_year_go2",
         "versions": [
@@ -1708,7 +1701,7 @@
         ]
     },
     "ze_ffvii_cosmo_canyon_v2_1_g12": {
-        "cn_name": "",
+        "cn_name": "最终幻想7：宇宙大峡谷",
         "default": "ze_ffvii_cosmo_canyon_v2_1_g12",
         "name": "ze_ffvii_cosmo_canyon_v2_1_g12",
         "versions": [
@@ -1856,7 +1849,7 @@
         ]
     },
     "ze_football_go2": {
-        "cn_name": "",
+        "cn_name": "决战世界杯",
         "default": "ze_football_go2",
         "name": "ze_football_go2",
         "versions": [
@@ -2229,7 +2222,7 @@
         ]
     },
     "ze_insensible_sr8gm6yj12hs7_rg_v9_6": {
-        "cn_name": "",
+        "cn_name": "感性之路",
         "default": "ze_insensible_sr8gm6yj12hs7_rg_v9_6",
         "name": "ze_insensible_sr8gm6yj12hs7_rg_v9_6",
         "versions": [
@@ -2253,7 +2246,7 @@
         ]
     },
     "ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3": {
-        "cn_name": "",
+        "cn_name": "我闻到了魔法的味道",
         "default": "ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3",
         "name": "ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3",
         "versions": [
@@ -2365,7 +2358,7 @@
         ]
     },
     "ze_ksena": {
-        "cn_name": "",
+        "cn_name": "克塞纳逃亡",
         "default": "ze_ksena",
         "name": "ze_ksena",
         "versions": [
@@ -2516,7 +2509,7 @@
         ]
     },
     "ze_luciddreams_v4_1_3a": {
-        "cn_name": "",
+        "cn_name": "清醒之梦",
         "default": "ze_luciddreams_v4_1_3a",
         "name": "ze_luciddreams_v4_1_3a",
         "versions": [
@@ -2555,23 +2548,9 @@
             "ze_m_g_e_a1_7",
             "ze_m_g_e_a1_8",
             "ze_m_g_e_a1_9",
-            "ze_m_g_e_a2"
-        ]
-    },
-    "ze_m_g_e_a1_1": {
-        "cn_name": "",
-        "default": "ze_m_g_e_a1_1",
-        "name": "ze_m_g_e_a1_1",
-        "versions": [
+            "ze_m_g_e_a2",
             "ze_m_g_e_a1_1",
-            "ze_m_g_e_a1_2"
-        ]
-    },
-    "ze_m_g_e_a2_2": {
-        "cn_name": "",
-        "default": "ze_m_g_e_a2_2",
-        "name": "ze_m_g_e_a2_2",
-        "versions": [
+            "ze_m_g_e_a1_2",
             "ze_m_g_e_a2_2",
             "ze_m_g_e_a2_1",
             "ze_m_g_e_a2_2t",
@@ -2653,7 +2632,7 @@
         ]
     },
     "ze_minecraft_run_a1_fix5": {
-        "cn_name": "",
+        "cn_name": "MC身法大逃亡",
         "default": "ze_minecraft_run_a1_fix5",
         "name": "ze_minecraft_run_a1_fix5",
         "versions": [
@@ -2701,7 +2680,7 @@
     },
     "ze_misaka_v1_11": {
         "cn_name": "御坂大冒险1：超越",
-        "default": "ze_misaka_v1_11",
+        "default": "ze_misaka_v1_12",
         "name": "ze_misaka_v1_11",
         "versions": [
             "ze_misaka_v1_10",
@@ -2814,7 +2793,7 @@
         ]
     },
     "ze_nagi_b1.1": {
-        "cn_name": "",
+        "cn_name": "纳吉逃亡",
         "default": "ze_nagi_b1.1",
         "name": "ze_nagi_b1.1",
         "versions": [
@@ -2889,7 +2868,7 @@
         ]
     },
     "ze_no_title_v1_3": {
-        "cn_name": "",
+        "cn_name": "逃亡：无名之旅",
         "default": "ze_no_title_v1_3",
         "name": "ze_no_title_v1_3",
         "versions": [
@@ -2905,7 +2884,7 @@
         ]
     },
     "ze_noob_too_easy_v1_0_fix": {
-        "cn_name": "",
+        "cn_name": "猩红绝界",
         "default": "ze_noob_too_easy_v1_0_fix",
         "name": "ze_noob_too_easy_v1_0_fix",
         "versions": [
@@ -3215,10 +3194,10 @@
             "ze_r4zor_final"
         ]
     },
-    "ze_rain1_v1x": {
+    "ze_raintime1_torontoisland_v5x": {
         "cn_name": "时落之雨1：暴风孤岛",
-        "default": "ze_raintime1_torontoisland_v4x",
-        "name": "ze_rain1_v1x",
+        "default": "ze_raintime1_torontoisland_v5x",
+        "name": "ze_raintime1_torontoisland_v5x",
         "versions": [
             "ze_rain1_v1x",
             "ze_rain1_v2x",
@@ -3229,25 +3208,13 @@
             "ze_rain1_v7x",
             "ze_rain1_v8x",
             "ze_rain1_vx",
-            "ze_raintime1_torontoisland_v4x"
-        ]
-    },
-    "ze_rain2": {
-        "cn_name": "",
-        "default": "ze_rain2",
-        "name": "ze_rain2",
-        "versions": [
-            "ze_rain2"
-        ]
-    },
-    "ze_rain_of_time_v2x": {
-        "cn_name": "",
-        "default": "ze_rain_of_time_v2x",
-        "name": "ze_rain_of_time_v2x",
-        "versions": [
+            "ze_raintime1_torontoisland_v4x",
             "ze_rain_of_time_v2x",
             "ze_rain_of_time_v21x",
-            "ze_rain_of_time_v1X"
+            "ze_rain_of_time_v1X",
+            "ze_raintime1_torontoisland_v2x",
+            "ze_raintime1_torontoisland_v1x",
+            "ze_raintime1_torontoisland_v5x"
         ]
     },
     "ze_rainbow_factory_v2": {
@@ -3258,23 +3225,14 @@
             "ze_rainbow_factory_v2"
         ]
     },
-    "ze_raintime1_torontoisland_v2x": {
-        "cn_name": "",
-        "default": "ze_raintime1_torontoisland_v2x",
-        "name": "ze_raintime1_torontoisland_v2x",
-        "versions": [
-            "ze_raintime1_torontoisland_v2x",
-            "ze_raintime1_torontoisland_v1x",
-            "ze_raintime1_torontoisland_v5x"
-        ]
-    },
     "ze_raintime2_stormwindkeep_v5x ": {
         "cn_name": "时落之雨2：风暴守护",
         "default": "ze_raintime2_stormwindkeep_v5x ",
         "name": "ze_raintime2_stormwindkeep_v5x ",
         "versions": [
             "ze_raintime2_stormwindkeep_v5x ",
-            "ze_raintime2_stormwindkeep_v5x"
+            "ze_raintime2_stormwindkeep_v5x",
+            "ze_rain2"
         ]
     },
     "ze_ramp_a1": {
@@ -3309,14 +3267,7 @@
             "ze_re_creation_b2_21",
             "ze_re_creation_b2_22",
             "ze_re_creation_v2_25",
-            "ze_re_creation_b2_23"
-        ]
-    },
-    "ze_re_creation_v2_24": {
-        "cn_name": "",
-        "default": "ze_re_creation_v2_24",
-        "name": "ze_re_creation_v2_24",
-        "versions": [
+            "ze_re_creation_b2_23",
             "ze_re_creation_v2_24"
         ]
     },
@@ -3394,7 +3345,7 @@
         ]
     },
     "ze_ronald_v1": {
-        "cn_name": "",
+        "cn_name": "恶搞麦当劳",
         "default": "ze_ronald_v1",
         "name": "ze_ronald_v1",
         "versions": [
@@ -3434,7 +3385,7 @@
         ]
     },
     "ze_sakuzyo_a8": {
-        "cn_name": "自然的迷神",
+        "cn_name": "削除：自然的迷神",
         "default": "ze_sakuzyo_b2",
         "name": "ze_sakuzyo_a8",
         "versions": [
@@ -3564,10 +3515,10 @@
             "ze_sky_athletic_adv_v9_12"
         ]
     },
-    "ze_sky_fantasy_a3": {
+    "ze_sky_fantasy_v1_4": {
         "cn_name": "天空幻想",
-        "default": "ze_sky_fantasy_v1_3",
-        "name": "ze_sky_fantasy_a3",
+        "default": "ze_sky_fantasy_v1_4",
+        "name": "ze_sky_fantasy_v1_4",
         "versions": [
             "ze_sky_fantasy_a3",
             "ze_sky_fantasy_a4",
@@ -3577,14 +3528,7 @@
             "ze_sky_fantasy_v1",
             "ze_sky_fantasy_v1_2",
             "ze_sky_fantasy_v1_2f",
-            "ze_sky_fantasy_v1_3"
-        ]
-    },
-    "ze_sky_fantasy_v1_4": {
-        "cn_name": "",
-        "default": "ze_sky_fantasy_v1_4",
-        "name": "ze_sky_fantasy_v1_4",
-        "versions": [
+            "ze_sky_fantasy_v1_3",
             "ze_sky_fantasy_v1_4",
             "ze_sky_fantasy_v1_2f2"
         ]
@@ -3670,7 +3614,7 @@
         ]
     },
     "ze_sss_v1_4_fix_2": {
-        "cn_name": "",
+        "cn_name": "超级简陋无聊的ZE图",
         "default": "ze_sss_v1_4_fix_2",
         "name": "ze_sss_v1_4_fix_2",
         "versions": [
@@ -3728,20 +3672,13 @@
         ]
     },
     "ze_suchirifu_hdr_fix": {
-        "cn_name": "",
+        "cn_name": "斯基利弗森林遗迹",
         "default": "ze_suchirifu_hdr_fix",
         "name": "ze_suchirifu_hdr_fix",
         "versions": [
-            "ze_suchirifu_hdr_fix"
-        ]
-    },
-    "ze_suchirifu_v3_1": {
-        "cn_name": "斯基利弗森林遗迹",
-        "default": "ze_suchirifu_v3_1",
-        "name": "ze_suchirifu_v3_1",
-        "versions": [
             "ze_suchirifu_v3_1",
-            "ze_suchirifu_v3_h"
+            "ze_suchirifu_v3_h",
+            "ze_suchirifu_hdr_fix"
         ]
     },
     "ze_sunkentemple_v3_1": {
@@ -3915,7 +3852,7 @@
         ]
     },
     "ze_temple_of_phantom_v2": {
-        "cn_name": "",
+        "cn_name": "幻影神殿",
         "default": "ze_temple_of_phantom_v2",
         "name": "ze_temple_of_phantom_v2",
         "versions": [
