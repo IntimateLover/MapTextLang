@@ -1,43 +1,39 @@
 "Console_T"
 {
-	"<--Map Made By Color-->"
+	"<--MAP MADE BY Color-->"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：酸奶**"
 	}
 	"<--WORLD IS GENERATING-->"
 	{
-		"chi"		"** **"
+		"chi"		"**正在生成游戏世界**"
 	}
 	"<--FIND AND STAY IN SAFE AREAS WHICH HAVE ARROWS-->"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找并待在拥有箭头的安全区域**"
 	}
-	"<--DOOMS WILL COME IN 90 SECONDS-->"
+	"<--NUKE WILL COME IN 90 SECONDS-->"
 	{
-		"chi"		"** **"
+		"chi"		"**核爆将在90秒后来临**"
 	}
 	"<--5 SECONDS LEFT-->"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒**"
 	}
 	"<--DEACTIVATE TELEPORTS-->"
 	{
-		"chi"		"** **"
+		"chi"		"**关闭传送**"
 	}
 	"<--DISABLE FALL DAMAGE-->"
 	{
-		"chi"		"** **"
+		"chi"		"**关闭摔伤**"
 	}
 	"<--RANDOM DOOMS WILL BEGIN IN 60 SECONDS-->"
 	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"53149"
+		"chi"		"**随机审判将在60秒后降临**"
 	}
 	"<--DOOMS END-->"
 	{
-		"chi"		"** **"
+		"chi"		"**审判结束**"
 	}
 }
