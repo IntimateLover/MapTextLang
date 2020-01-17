@@ -203,7 +203,8 @@
 	}
 	"***Door break in 20 seconds***"
 	{
-		"chi"		"**玻璃大门将在50秒后破碎**"
+		"chi"		"**门将在20秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***Zombie Escaped***"
 	{
@@ -211,7 +212,7 @@
 	}
 	"***Door open in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开**"
 	}
 	"***Reflection casted in 2s*"
 	{
@@ -220,7 +221,7 @@
 	}
 	"***Resist 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待15秒**"
 	}
 	"***Ende***"
 	{
@@ -229,5 +230,22 @@
 	"The se"
 	{
 		"chi"		"** **"
+	}
+	"***First Door Break in 20 seconds***"
+	{
+		"chi"		"**第一扇门将在20秒后打开**"
+	}
+	"***Reflection ended***"
+	{
+		"chi"		"**反伤结束，继续输出**"
+		"DoorCountdown"		"3"
+	}
+	"***Resist 20 seconds***"
+	{
+		"chi"		"**等待20秒**"
+	}
+	"***DAMAGED REFLECTED***"
+	{
+		"chi"		"**别尼玛打了，再打就死了**"
 	}
 }
