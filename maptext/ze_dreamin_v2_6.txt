@@ -71,22 +71,22 @@
 	"***Ice Casted***"
 	{
 		"chi"		"**BOSS释放了寒冰**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Gravity Casted***"
 	{
 		"chi"		"**BOSS释放了黑洞**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Wind Casted***"
 	{
 		"chi"		"**BOSS释放了狂风（面对平台中间按住W抵抗推力）**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Thruster Casted***"
 	{
 		"chi"		"**BOSS使用了击飞**"
-		"DoorCountdown"		"4"
+		"DoorCountDown"		"4"
 	}
 	"***Go Back to teleport place***"
 	{
@@ -99,7 +99,7 @@
 	"***Zombie teleport in 10 seconds***"
 	{
 		"chi"		"**僵尸将在10秒后传送**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***5 seconds left***"
 	{
@@ -160,22 +160,22 @@
 	"***Danger Field***"
 	{
 		"chi"		"**地狱红光之兆**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Laser***"
 	{
 		"chi"		"**四周剑域之阵**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***For Upper***"
 	{
 		"chi"		"**上层急速下落**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Spread out***"
 	{
 		"chi"		"**像素爆发倾泻**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***Failed***"
 	{
@@ -204,7 +204,7 @@
 	"***Door break in 20 seconds***"
 	{
 		"chi"		"**门将在20秒后打开**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***Zombie Escaped***"
 	{
@@ -217,7 +217,7 @@
 	"***Reflection casted in 2s*"
 	{
 		"chi"		"**激活反伤，持续五秒**"
-		"DoorCountdown"		"7"
+		"DoorCountDown"		"7"
 	}
 	"***Resist 15 seconds***"
 	{
@@ -238,7 +238,7 @@
 	"***Reflection ended***"
 	{
 		"chi"		"**反伤结束，继续输出**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"***Resist 20 seconds***"
 	{
