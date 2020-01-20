@@ -303,5 +303,7 @@
 	"259783"
 	{
 		"enable"		"1"
+		"hammerid"		"259783"
+		"m_iname"		"Assamuth"
 	}
 }
