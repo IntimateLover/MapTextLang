@@ -156,6 +156,7 @@
 	"** 15 SECONDS! KEEP IT UP!!! **"
 	{
 		"chi"		"**还有15秒 **"
+		"DoorCountdown"		"15"
 	}
 	"** LAST 5 SECONDS! RESIST!!! **"
 	{

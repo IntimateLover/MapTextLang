@@ -1,0 +1,111 @@
+"BOSSHP"
+{
+	"22325"
+	{
+		"enable"		"0"
+		"hammerid"		"22325"
+		"m_iname"		"l2finalholdbreak1"
+	}
+	"22341"
+	{
+		"enable"		"0"
+		"hammerid"		"22341"
+		"m_iname"		"l2finalholdbreak2"
+	}
+	"22359"
+	{
+		"enable"		"0"
+		"hammerid"		"22359"
+		"m_iname"		"l2finalholdbreak3"
+	}
+	"22377"
+	{
+		"enable"		"0"
+		"hammerid"		"22377"
+		"m_iname"		"l2finalholdbreak4"
+	}
+	"22392"
+	{
+		"enable"		"0"
+		"hammerid"		"22392"
+		"m_iname"		"l2finalholdbreak5"
+	}
+	"2143"
+	{
+		"enable"		"0"
+		"hammerid"		"2143"
+		"m_iname"		"hold3break1"
+	}
+	"2151"
+	{
+		"enable"		"0"
+		"hammerid"		"2151"
+		"m_iname"		"hold3break2"
+	}
+	"2156"
+	{
+		"enable"		"0"
+		"hammerid"		"2156"
+		"m_iname"		"hold3break3"
+	}
+	"2161"
+	{
+		"enable"		"0"
+		"hammerid"		"2161"
+		"m_iname"		"hold3break4"
+	}
+	"7144"
+	{
+		"enable"		"0"
+		"hammerid"		"7144"
+		"m_iname"		"lasercube"
+	}
+	"19010"
+	{
+		"enable"		"1"
+		"hammerid"		"19010"
+		"m_iname"		"l2Boss"
+	}
+	"25563"
+	{
+		"enable"		"1"
+		"hammerid"		"25563"
+		"m_iname"		"l2BossZMholder"
+	}
+	"42289"
+	{
+		"enable"		"0"
+		"hammerid"		"42289"
+		"m_iname"		"l2finalholdbreak5"
+	}
+	"42292"
+	{
+		"enable"		"0"
+		"hammerid"		"42292"
+		"m_iname"		"l2finalholdbreak5"
+	}
+	"63416"
+	{
+		"enable"		"1"
+		"hammerid"		"63416"
+		"m_iname"		"l3boss"
+	}
+	"69471"
+	{
+		"enable"		"0"
+		"hammerid"		"69471"
+		"m_iname"		"laserL3"
+	}
+	"105403"
+	{
+		"enable"		"0"
+		"hammerid"		"105403"
+		"m_iname"		"retardblocker"
+	}
+	"32345"
+	{
+		"enable"		"0"
+		"hammerid"		"32345"
+		"m_iname"		"Bhphys"
+	}
+}
