@@ -58,8 +58,8 @@
 编辑原因填写为 "triggercleanup" 即可清理同步缓存
 如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存
 
-#trigger update10
+#trigger update11
 test for web hook
 #push trigger update p 2
 triggercleanup 最后维护
-    2019年11月25日21:49
+    2020年01月21日0.00
