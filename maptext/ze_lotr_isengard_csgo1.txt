@@ -67,8 +67,6 @@
 		"chi"		"**30秒后传送AFK玩家到洞穴 **"
 		"DoorCountdown"		"-1"
 	}
-<<<<<<< HEAD
-=======
 	"**Teleporting AFKs to forest in 30sec**"
 	{
 		"chi"		"**30秒后传送AFK玩家到森林 **"
@@ -79,7 +77,6 @@
 		"chi"		"**35秒后传送AFK玩家到萨鲁曼法师塔 **"
 		"DoorCountdown"		"-1"
 	}
->>>>>>> b5c846eb3f0902a7498e72482226ed2ba6c608c8
 	"***LVL1 ROAD TO ISENGARD***"
 	{
 		"chi"		"**第一关-前往艾辛格 **"
@@ -150,13 +147,10 @@
 	{
 		"chi"		"**快上梯子 **"
 	}
-<<<<<<< HEAD
-=======
 	"**GO UP ON LADDER**"
 	{
 		"chi"		"**快上梯子 **"
 	}
->>>>>>> b5c846eb3f0902a7498e72482226ed2ba6c608c8
 	"**Resist 20s!**"
 	{
 		"chi"		"**防守20秒！ **"
@@ -256,10 +250,7 @@
 	"**Zombie push will disable in 5 sec**"
 	{
 		"chi"		"**阻止僵尸的推力将在5秒后失效 **"
-<<<<<<< HEAD
-=======
 		"DoorCountdown"		"-1"
->>>>>>> b5c846eb3f0902a7498e72482226ed2ba6c608c8
 	}
 	"**Teleporting AFKs to wall in 20 sec**"
 	{
@@ -487,11 +478,7 @@
 	}
 	"***Zombies on boat. Humans lose.***"
 	{
-<<<<<<< HEAD
-		"chi"		"**僵尸在船上，人类输了 **"
-=======
 		"chi"		"**僵尸上船了，人类输了 **"
->>>>>>> b5c846eb3f0902a7498e72482226ed2ba6c608c8
 	}
 	"***NUKE IN 1 SEC!!***"
 	{
@@ -519,11 +506,7 @@
 	{
 		"chi"		"**出口将在15秒后关闭 **"
 	}
-<<<<<<< HEAD
-	"*Teleporting Zombies and AFK's to Saruman tower in 20s*"
-=======
 	"*Teleporting Zombies and AFKs to Saruman tower in 20s*"
->>>>>>> b5c846eb3f0902a7498e72482226ed2ba6c608c8
 	{
 		"chi"		"**20秒后传送僵尸和AFK玩家到萨鲁曼法师塔 **"
 		"DoorCountdown"		"-1"

@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"71488"
+	{
+		"enable"		"0"
+		"hammerid"		"71488"
+		"m_iname"		"blechspin"
+	}
+	"70046"
+	{
+		"enable"		"0"
+		"hammerid"		"70046"
+		"m_iname"		"helpspin"
+	}
+	"3601"
+	{
+		"enable"		"0"
+		"hammerid"		"3601"
+		"m_iname"		"npc_phys2g&1040"
+	}
+	"3573"
+	{
+		"enable"		"0"
+		"hammerid"		"3573"
+		"m_iname"		"npc_phys2gg&1040"
+	}
+}
