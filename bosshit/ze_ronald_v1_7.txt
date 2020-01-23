@@ -24,34 +24,4 @@
 		"hammerid"		"3573"
 		"m_iname"		"npc_phys2gg&1040"
 	}
-	"105133"
-	{
-		"enable"		"0"
-		"hammerid"		"105133"
-		"m_iname"		"sortcut"
-	}
-	"105146"
-	{
-		"enable"		"0"
-		"hammerid"		"105146"
-		"m_iname"		"sortcut"
-	}
-	"105152"
-	{
-		"enable"		"0"
-		"hammerid"		"105152"
-		"m_iname"		"sortcut"
-	}
-	"105170"
-	{
-		"enable"		"0"
-		"hammerid"		"105170"
-		"m_iname"		"sortcut"
-	}
-	"103012"
-	{
-		"enable"		"0"
-		"hammerid"		"103012"
-		"m_iname"		"i_mm_phys&1048"
-	}
 }
