@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"[Wait here for 26 secs]"
+	{
+		"DoorCountDown"		"26"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"92443"
+	}
+}
