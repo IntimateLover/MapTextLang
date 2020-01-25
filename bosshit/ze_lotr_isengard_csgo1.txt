@@ -576,4 +576,10 @@
 		"hammerid"		"4144797"
 		"m_iname"		"web3"
 	}
+	"10778344"
+	{
+		"enable"		"0"
+		"hammerid"		"10778344"
+		"m_iname"		"spider_phbox"
+	}
 }

@@ -144,7 +144,7 @@
 	{
 		"chi"		">>>第一关<<<"
 	}
-	"<< map by Misaka >>"
+	"<< Map by Misaka >>"
 	{
 		"chi"		">>>地图制作:御坂<<<"
 	}
@@ -395,7 +395,7 @@
 	"<< Youve already got all 6 secret letters >>"
 	{
 		"chi"		">>>你已经得到了全部6个隐藏字母<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"<< the final door will open in 30 seconds >>"
 	{
@@ -634,6 +634,10 @@
 		"chi"		"** **"
 	}
 	"<< the wall will break in 30 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The boss will be unkillable after 30 seconds >>"
 	{
 		"chi"		"** **"
 	}
