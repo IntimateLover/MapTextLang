@@ -14,27 +14,31 @@
 	}
 	"<< Shooting the square to recharge the power of the lift >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>射击不同颜色的方块来为电梯充能<<<"
 	}
 	"<< The lift will RE-recharge if the power is more than 100 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>如果能量超过100，那么充能就会被重置<<<"
+		"DoorCountdown"		"-1"
 	}
 	"<< TIPS: red square will get 10 power >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>红色的方块会提供10%的能量<<<"
+		"DoorCountdown"		"-1"
 	}
 	"<< TIPS: green square will get 20 power >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>绿色的方块会提供20%的能量<<<"
+		"DoorCountdown"		"-1"
 	}
 	"<< TIPS: blue square will get 30 power >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>蓝色方块会提供30%的能量<<<"
+		"DoorCountdown"		"-1"
 	}
 	"<< TIPS: white square will refresh other square >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>击碎白色方块会刷新一组新的颜色的方块<<<"
 	}
 	"<< Platform will move in 8 seconds >>"
 	{

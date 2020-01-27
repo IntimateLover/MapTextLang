@@ -19,30 +19,37 @@
 	"<--Some places can only stay 5 to 15 humans-->"
 	{
 		"chi"		"**某些守点只能待5到15个人，请分散守**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Trip 1-->"
 	{
 		"chi"		"**旅途 1**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Trip 2-->"
 	{
 		"chi"		"**旅途 2**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Trip 3-->"
 	{
 		"chi"		"**旅途 3**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Trip 4-->"
 	{
 		"chi"		"**旅途 4**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Trip 5-->"
 	{
 		"chi"		"**旅途 5**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Trip 6-->"
 	{
 		"chi"		"**旅途 6**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Zombies are in the room-->"
 	{
@@ -106,7 +113,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"67005"
+		"syncvalue"		"46147"
 	}
 	"<--Trip finished-->"
 	{
@@ -210,13 +217,106 @@
 	}
 	"<--Damn!Its going to rain-->"
 	{
-		"chi"		"** **"
+		"chi"		"**该死的！天要下雨了**"
 	}
 	"<--Its getting dark-->"
 	{
-		"chi"		"** **"
+		"chi"		"**天开始变暗了**"
 	}
 	"<--Damn!Its the sea witch-->"
+	{
+		"chi"		"**该死！竟然是海妖**"
+	}
+	"<--Open laser vote system for 15s-->"
+	{
+		"chi"		"**开放跳刀投票系统15秒**"
+	}
+	"<--Input '!fish number' in the chat window,which number can be 3-10-->"
+	{
+		"chi"		"**聊天框输入【!fish 数字】，数字范围3到10**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Input !fish number in the chat window,which number can be 3-10-->"
+	{
+		"chi"		"**聊天框输入【!fish 数字】，数字范围3到10**"
+		"DoorCountdown"		"-1"
+	}
+	"<--This will decide the number of lasers-->"
+	{
+		"chi"		"**这将决定跳刀的数量**"
+	}
+	"<--Everyone only has 1 chance to vote each round-->"
+	{
+		"chi"		"**每个人每局只有一次机会**"
+	}
+	"<--Close laser vote system-->"
+	{
+		"chi"		"**关闭跳刀投票系统**"
+	}
+	"<--Default is 10 lasers-->"
+	{
+		"chi"		"**默认10刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 3 lasers-->"
+	{
+		"chi"		"**投票结果：3刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 4 lasers-->"
+	{
+		"chi"		"**投票结果：4刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 5 lasers-->"
+	{
+		"chi"		"**投票结果：5刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 6 lasers-->"
+	{
+		"chi"		"**投票结果：6刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 7 lasers-->"
+	{
+		"chi"		"**投票结果：7刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 8 lasers-->"
+	{
+		"chi"		"**投票结果：8刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 9 lasers-->"
+	{
+		"chi"		"**投票结果：9刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Voting results: 10 lasers-->"
+	{
+		"chi"		"**投票结果：10刀**"
+		"DoorCountdown"		"-1"
+	}
+	"<--Default is 5 lasers-->"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"-1"
+	}
+	"<--Default are 5 lasers-->"
+	{
+		"DoorCountdown"		"-1"
+		"chi"		">>>默认是5刀<<<"
+	}
+	"<--Detected zombies->"
+	{
+		"chi"		"** **"
+	}
+	"<--Trip failed->"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}
