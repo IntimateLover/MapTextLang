@@ -640,4 +640,32 @@
 	{
 		"chi"		"** **"
 	}
+	"** Teleport to destination in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Road appeared after 30s **"
+	{
+		"chi"		"** **"
+	}
+	"** The door is broken after 30s **"
+	{
+		"chi"		"** **"
+	}
+	"** Appears after 10s on the road **"
+	{
+		"chi"		"** **"
+	}
+	"** 35s rear axle appears **"
+	{
+		"chi"		"** **"
+	}
+	"** 60s rear door open **"
+	{
+		"chi"		"** **"
+	}
+	"** The door opens after 10s **"
+	{
+		"chi"		"** **"
+	}
 }

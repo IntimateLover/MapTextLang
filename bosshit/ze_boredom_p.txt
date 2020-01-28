@@ -306,4 +306,34 @@
 		"hammerid"		"259783"
 		"m_iname"		"Assamuth"
 	}
+	"452850"
+	{
+		"enable"		"1"
+		"hammerid"		"452850"
+		"m_iname"		"PaperBossMotherPopor"
+	}
+	"320101"
+	{
+		"enable"		"1"
+		"hammerid"		"320101"
+		"m_iname"		"DemonHitbox&1685"
+	}
+	"320137"
+	{
+		"enable"		"0"
+		"hammerid"		"320137"
+		"m_iname"		"DemonMovement&1685"
+	}
+	"320039"
+	{
+		"enable"		"1"
+		"hammerid"		"320039"
+		"m_iname"		"LostSoulHitbox&1712"
+	}
+	"320075"
+	{
+		"enable"		"0"
+		"hammerid"		"320075"
+		"m_iname"		"LostSoulMovement&1712"
+	}
 }
