@@ -1,0 +1,141 @@
+"Console_T"
+{
+	"** DEFEND TILL THE GATE OPENS **"
+	{
+		"chi"		"**守住这里直到大门打开**"
+	}
+	"** THE GATE OPENS IN 5 SECONDS **"
+	{
+		"chi"		"**大门将在5秒后打开**"
+	}
+	"** HOLD TILL THIS DOOR BREAKS **"
+	{
+		"chi"		"**坚持防守直到这扇门被爆破**"
+	}
+	"** HOLD 5 MORE SECONDS **"
+	{
+		"chi"		"**多防守5秒**"
+	}
+	"** HOLD THE COURTYARD **"
+	{
+		"chi"		"**防守庭院**"
+	}
+	"** ESCAPE VIA THE CASTLE **"
+	{
+		"chi"		"**穿过城堡逃离这里**"
+	}
+	"** HOLD 30 SECONDS **"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"** GAME OF THRONES - The North **"
+	{
+		"chi"		"**权力的游戏-北境**"
+	}
+	"** MAP BY SLAYERDRAGON & NOCTALI **"
+	{
+		"chi"		"**地图作者：SLAYERDRAGON & NOCTALI 地图翻译：神々が恋した幻想郷**"
+	}
+	"** THE GATE OF THE WALL IS CLOSING **"
+	{
+		"chi"		"**城门关闭着**"
+	}
+	"** THE WALL HAS BEEN BREACHED - FALL BACK **"
+	{
+		"chi"		"**城墙被突破了——撤退**"
+	}
+	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+	{
+		"chi"		"**电梯在5秒后离开**"
+	}
+	"** [STAGE 1 - THE WALL] **"
+	{
+		"chi"		"**[第一关-城墙]**"
+		"DoorCountdown"		"-1"
+	}
+	"** [STAGE 2 - WINTERFELL] **"
+	{
+		"chi"		"**[第二关-冬日城]**"
+		"DoorCountdown"		"-1"
+	}
+	"** STARTING CHAPTER **"
+	{
+		"chi"		"**章节开始**"
+	}
+	"** MAIN GATE OPENS IN 10 SECS **"
+	{
+		"chi"		"**主大门在10秒后打开**"
+	}
+	"** FOLLOW THE DRAGON INTO THE GARDEN **"
+	{
+		"chi"		"**跟着那条龙进庭院**"
+	}
+	"** WEST GATE opens in 5 SECS **"
+	{
+		"chi"		"**西边的门在5秒后打开**"
+	}
+	"** BREAK THE BARRICADES to open TOWN GATE **"
+	{
+		"chi"		"**打破路障来打开城门**"
+	}
+	"** TOWN GATE opens in 5 SECS **"
+	{
+		"chi"		"**城门5秒后打开**"
+	}
+	"** ESCAPE WINTERFELL VIA THE GARDEN **"
+	{
+		"chi"		"**穿过庭院逃离冬日城**"
+	}
+	"** GO GO GO **"
+	{
+		"chi"		"**GO GO GO**"
+	}
+	"** ESCAPE WINTERFELL **"
+	{
+		"chi"		"**逃离冬日城**"
+	}
+	"** HUNT THE DRAGON !! **"
+	{
+		"chi"		"**击杀那条龙 !!**"
+	}
+	"** OPENING THE GATES **"
+	{
+		"chi"		"**正在打开大门**"
+	}
+	"** MAIN GATE opens soon **"
+	{
+		"chi"		"**主大门马上就要打开了**"
+	}
+	"** KILL REMAINING ZOMBIES **"
+	{
+		"chi"		"**杀死剩下的僵尸**"
+	}
+	"** THE GATES SHOULD BE OPENING SOON **"
+	{
+		"chi"		"**大门很快就会打开**"
+	}
+	"** GATES ARE OPENING - LETS GO **"
+	{
+		"chi"		"**大门打开了-走！**"
+	}
+	"** WE ARE ALMOST OUTSIDE - HOLD ON **"
+	{
+		"chi"		"**我们快到外面了-继续防守**"
+	}
+	"** WE CAN ESCAPE THROUGH THE GREENHOUSE! **"
+	{
+		"chi"		"**我们能穿过那里逃离！**"
+	}
+	"** KILL THE DRAGON !! **"
+	{
+		"chi"		"**杀死那条龙!!**"
+	}
+	"** CLOSING GATES **"
+	{
+		"chi"		"**正在关闭大门**"
+	}
+	"** ZM BOTTOM TELEPORT ENABLED **"
+	{
+		"chi"		"**底部的僵尸传送已启用**"
+	}
+}
