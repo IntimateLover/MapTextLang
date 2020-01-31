@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"The map is currently only one level"
+	{
+		"chi"		"**这张图现在只有一关**"
+	}
+	"This map is a beta version and will be updated in the future"
+	{
+		"chi"		"**这张图目前为止测试版本，会在以后完成全部地图内容**"
+	}
+	"mapper: nrf"
+	{
+		"chi"		"**作者：nrf   翻译：Misaka**"
+	}
+	"you need hold 35s"
+	{
+		"chi"		"**防守35秒**"
+	}
+	"you need hold 25s"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"you need hold 30s"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"Zombies reach the front line in 5 seconds (Zombie Teleport)"
+	{
+		"chi"		"**僵尸将会在5秒后传送**"
+	}
+	"you need hold 20s"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"you need hold 40s"
+	{
+		"chi"		"**防守40秒**"
+	}
+	"wait for nuke hold 30s"
+	{
+		"chi"		"**30秒后触发核爆！继续防守！**"
+	}
+	"Dont let zombies get into the pipes"
+	{
+		"chi"		"**不要让僵尸进入管道！**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"97499"
+	}
+}

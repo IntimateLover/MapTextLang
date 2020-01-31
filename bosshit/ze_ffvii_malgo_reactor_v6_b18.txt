@@ -45,6 +45,8 @@
 	"406484"
 	{
 		"enable"		"1"
+		"hammerid"		"406484"
+		"m_iname"		"Hellz_bahamut_body_breakable"
 	}
 	"327032"
 	{
@@ -247,5 +249,23 @@
 		"enable"		"0"
 		"hammerid"		"1085229"
 		"m_iname"		"cowbell2"
+	}
+	"419340"
+	{
+		"enable"		"0"
+		"hammerid"		"419340"
+		"m_iname"		"Hellz floor 4 teleport wall"
+	}
+	"418849"
+	{
+		"enable"		"0"
+		"hammerid"		"418849"
+		"m_iname"		"Hellz floor 3 teleport_wall"
+	}
+	"373069"
+	{
+		"enable"		"0"
+		"hammerid"		"373069"
+		"m_iname"		"Hellz_Final_Fulgor_Breakable"
 	}
 }

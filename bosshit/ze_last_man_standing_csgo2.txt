@@ -336,4 +336,286 @@
 		"hammerid"		"8505006"
 		"m_iname"		"humancounter_s1_phase1_door1"
 	}
+	"8935847"
+	{
+		"enable"		"0"
+		"hammerid"		"8935847"
+		"m_iname"		"NPC_Soldier_Body&5449"
+	}
+	"7665730"
+	{
+		"enable"		"0"
+		"hammerid"		"7665730"
+		"m_iname"		"Spawn_Projectile_Physic&7527"
+	}
+	"8935498"
+	{
+		"enable"		"0"
+		"hammerid"		"8935498"
+		"m_iname"		"Weapon_Turret_Deployed_Breakabl"
+	}
+	"5135679"
+	{
+		"enable"		"0"
+		"hammerid"		"5135679"
+		"m_iname"		"stage_2_vent_breakable"
+	}
+	"5135710"
+	{
+		"enable"		"0"
+		"hammerid"		"5135710"
+		"m_iname"		"stage_2_core_vent"
+	}
+	"5135735"
+	{
+		"enable"		"0"
+		"hammerid"		"5135735"
+		"m_iname"		"stage_2_core_vent_2"
+	}
+	"5154873"
+	{
+		"enable"		"0"
+		"hammerid"		"5154873"
+		"m_iname"		"stage_2_escape_vent"
+	}
+	"5154998"
+	{
+		"enable"		"0"
+		"hammerid"		"5154998"
+		"m_iname"		"stage_2_core_barrier"
+	}
+	"5155013"
+	{
+		"enable"		"0"
+		"hammerid"		"5155013"
+		"m_iname"		"stage_2_vent_fake"
+	}
+	"5162287"
+	{
+		"enable"		"0"
+		"hammerid"		"5162287"
+		"m_iname"		"stage_2_glass"
+	}
+	"7666772"
+	{
+		"enable"		"1"
+		"hammerid"		"7666772"
+		"m_iname"		"stage_x_boss_end_support_breaka"
+	}
+	"5138857"
+	{
+		"enable"		"0"
+		"hammerid"		"5138857"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139341"
+	{
+		"enable"		"0"
+		"hammerid"		"5139341"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139355"
+	{
+		"enable"		"0"
+		"hammerid"		"5139355"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139432"
+	{
+		"enable"		"0"
+		"hammerid"		"5139432"
+		"m_iname"		"stage_3_tests_glass_1"
+	}
+	"5139480"
+	{
+		"enable"		"0"
+		"hammerid"		"5139480"
+		"m_iname"		"stage_3_tests_glass_2"
+	}
+	"5139520"
+	{
+		"enable"		"0"
+		"hammerid"		"5139520"
+		"m_iname"		"stage_3_tests_glass_5"
+	}
+	"5139579"
+	{
+		"enable"		"0"
+		"hammerid"		"5139579"
+		"m_iname"		"stage_3_tests_glass_6"
+	}
+	"5139658"
+	{
+		"enable"		"0"
+		"hammerid"		"5139658"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139682"
+	{
+		"enable"		"0"
+		"hammerid"		"5139682"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139696"
+	{
+		"enable"		"0"
+		"hammerid"		"5139696"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139715"
+	{
+		"enable"		"0"
+		"hammerid"		"5139715"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5139729"
+	{
+		"enable"		"0"
+		"hammerid"		"5139729"
+		"m_iname"		"stage_3_breakables"
+	}
+	"5150171"
+	{
+		"enable"		"0"
+		"hammerid"		"5150171"
+		"m_iname"		"stage_3_core_glass"
+	}
+	"5155155"
+	{
+		"enable"		"0"
+		"hammerid"		"5155155"
+		"m_iname"		"stage_3_spawn_glass_1"
+	}
+	"5155158"
+	{
+		"enable"		"0"
+		"hammerid"		"5155158"
+		"m_iname"		"stage_3_spawn_glass_2"
+	}
+	"5155164"
+	{
+		"enable"		"0"
+		"hammerid"		"5155164"
+		"m_iname"		"stage_3_spawn_glass_4"
+	}
+	"5172285"
+	{
+		"enable"		"0"
+		"hammerid"		"5172285"
+		"m_iname"		"stage_3_supports"
+	}
+	"5172288"
+	{
+		"enable"		"0"
+		"hammerid"		"5172288"
+		"m_iname"		"stage_3_supports"
+	}
+	"8931887"
+	{
+		"enable"		"0"
+		"hammerid"		"8931887"
+		"m_iname"		"Zombie_Item_Alma_Body_Health"
+	}
+	"8931594"
+	{
+		"enable"		"0"
+		"hammerid"		"8931594"
+		"m_iname"		"Zombie_Item_Predator_Health"
+	}
+	"5155161"
+	{
+		"enable"		"0"
+		"hammerid"		"5155161"
+		"m_iname"		"stage_3_spawn_glass_3"
+	}
+	"5149519"
+	{
+		"enable"		"0"
+		"hammerid"		"5149519"
+		"m_iname"		"stage_4_part_4_door"
+	}
+	"5156382"
+	{
+		"enable"		"0"
+		"hammerid"		"5156382"
+		"m_iname"		"stage_4_door_phys"
+	}
+	"5156403"
+	{
+		"enable"		"0"
+		"hammerid"		"5156403"
+		"m_iname"		"stage_4_part_1_door_1"
+	}
+	"5156471"
+	{
+		"enable"		"0"
+		"hammerid"		"5156471"
+		"m_iname"		"stage_4_breakable_1"
+	}
+	"5156474"
+	{
+		"enable"		"0"
+		"hammerid"		"5156474"
+		"m_iname"		"stage_4_breakable_1"
+	}
+	"5156505"
+	{
+		"enable"		"0"
+		"hammerid"		"5156505"
+		"m_iname"		"stage_4_part_5_fake_door_1"
+	}
+	"5157739"
+	{
+		"enable"		"0"
+		"hammerid"		"5157739"
+		"m_iname"		"stage_4_glass_1"
+	}
+	"5157742"
+	{
+		"enable"		"0"
+		"hammerid"		"5157742"
+		"m_iname"		"stage_4_glass_2"
+	}
+	"5157745"
+	{
+		"enable"		"0"
+		"hammerid"		"5157745"
+		"m_iname"		"stage_4_glass_3"
+	}
+	"5157748"
+	{
+		"enable"		"0"
+		"hammerid"		"5157748"
+		"m_iname"		"stage_4_glass_4"
+	}
+	"7666813"
+	{
+		"enable"		"0"
+		"hammerid"		"7666813"
+		"m_iname"		"Vehicle_Fake_Tank_Body"
+	}
+	"7666799"
+	{
+		"enable"		"0"
+		"hammerid"		"7666799"
+		"m_iname"		"Vehicle_Fake_Tank_Health&7760"
+	}
+	"7666690"
+	{
+		"enable"		"0"
+		"hammerid"		"7666690"
+		"m_iname"		"Spawn_Missile_Physbox&7847"
+	}
+	"7666680"
+	{
+		"enable"		"0"
+		"hammerid"		"7666680"
+		"m_iname"		"Item_Item_Crate_Physbox&7628"
+	}
+	"8935310"
+	{
+		"enable"		"0"
+		"hammerid"		"8935310"
+		"m_iname"		"Weapon_Mine_Projectile_Physbox&"
+	}
 }
