@@ -2,7 +2,7 @@
 {
 	"++We can see you out there. Those doors will take about 20 seconds to lower++"
 	{
-		"chi"		"** **"
+		"chi"		"**门大概会在20秒后打开**"
 	}
 	"++The gate switch will be inside the building++"
 	{
@@ -10,11 +10,11 @@
 	}
 	"++The sliding gate is opening++"
 	{
-		"chi"		"** **"
+		"chi"		"**大门正在打开**"
 	}
 	"++That gate will take about half a minute to fully open++"
 	{
-		"chi"		"** **"
+		"chi"		"**大门大概需要30秒钟完全打开**"
 	}
 	"++The sliding gate is open, keep moving forward++"
 	{
@@ -30,7 +30,7 @@
 	}
 	"++Were overriding the gates, should take about 25 seconds++"
 	{
-		"chi"		"** **"
+		"chi"		"**我们正需要打开这扇门，大概需要25秒**"
 	}
 	"++The two gates are lowering++"
 	{
@@ -46,23 +46,23 @@
 	}
 	"++Door One will open in 45 seconds++"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个门会在45秒后打开**"
 	}
 	"++Door One will open in 40 seconds++"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩40秒**"
 	}
 	"++Door One will open in 20 seconds++"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩20秒**"
 	}
 	"++Door One opening in 10 seconds++"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒**"
 	}
 	"++Tunnel Door One is opening++"
 	{
-		"chi"		"** **"
+		"chi"		"**第一扇门已经打开了**"
 	}
 	"++Tunnel Door Two is opening++"
 	{
@@ -78,7 +78,7 @@
 	}
 	"++Airstrike hits in 5 seconds++"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒钟发动空袭！小心！**"
 	}
 	"4"
 	{
@@ -98,35 +98,35 @@
 	}
 	"++Airstrike has hit. Welcome home++"
 	{
-		"chi"		"** **"
+		"chi"		"**空袭开始了，欢迎回家**"
 	}
 	"++Clear out any remaining runners and itll be over++"
 	{
-		"chi"		"** **"
+		"chi"		"**清除里面除了人类之外的一切东西**"
 	}
 	"++Map created by Officer_B++"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Officer_B  翻译：Misaka**"
 	}
 	"++The first bridge can now be broken++"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个桥现在可以被击碎了**"
 	}
 	"++We can see zombies behind you in the train station++"
 	{
-		"chi"		"** **"
+		"chi"		"**看见了吗，僵尸现在在你们身后的火车站里**"
 	}
 	"++Dont let them get too far or theyll open new spawn points!++"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让他们走的太远！否则他们会解锁新的传送点！**"
 	}
 	"++The second bridge can now be broken++"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个桥现在可以被击碎了！**"
 	}
 	"++Zombies have made it to the bridge, new spawn opening++"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了桥！新的传送点出现了！**"
 	}
 	"++Cut them off!++"
 	{
@@ -134,19 +134,19 @@
 	}
 	"++Zombies have gotten past the middle gate, new spawn opening++"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了中间的门！新的传送点解锁了！**"
 	}
 	"++Dont let them get any further!++"
 	{
-		"chi"		"** **"
+		"chi"		"**不要再让他们前进了！**"
 	}
 	"++The third bridge can now be broken++"
 	{
-		"chi"		"** **"
+		"chi"		"**第三个桥现在可以被击碎了**"
 	}
 	"++Zombies have made it past the cargo entrance, new spawn opening++"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了货船的入口！新的传送点解锁了！**"
 	}
 	"++Hold them back!++"
 	{
@@ -154,18 +154,22 @@
 	}
 	"++Zombies have made it past the high tower++"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了高塔！**"
 	}
 	"++Cut them off before they reach the tunnel!++"
 	{
-		"chi"		"** **"
+		"chi"		"**在他们到达隧道前防守住！**"
 	}
 	"++Difficulty level: EASY++"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度：简单**"
 	}
 	"++Reaching the end will raise the difficulty++"
 	{
-		"chi"		"** **"
+		"chi"		"**如果成功到达终点会增加下一局的地图难度**"
+	}
+	"++The gate is lowering++"
+	{
+		"chi"		"**大门正在下降**"
 	}
 }
