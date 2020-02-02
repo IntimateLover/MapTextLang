@@ -1,100 +1,12 @@
 "Console_T"
 {
-	"++We can see you out there. Those doors will take about 20 seconds to lower++"
-	{
-		"chi"		"**门大概会在20秒后打开**"
-	}
-	"++The gate switch will be inside the building++"
-	{
-		"chi"		"** **"
-	}
-	"++The sliding gate is opening++"
-	{
-		"chi"		"**大门正在打开**"
-	}
-	"++That gate will take about half a minute to fully open++"
-	{
-		"chi"		"**大门大概需要30秒钟完全打开**"
-	}
-	"++The sliding gate is open, keep moving forward++"
-	{
-		"chi"		"** **"
-	}
-	"++The big gate is opening- fall back if you are on the walkways++"
-	{
-		"chi"		"** **"
-	}
-	"++Try to find a good chokepoint so some of you can hold while the rest advance++"
-	{
-		"chi"		"** **"
-	}
-	"++Were overriding the gates, should take about 25 seconds++"
-	{
-		"chi"		"**我们正需要打开这扇门，大概需要25秒**"
-	}
-	"++The two gates are lowering++"
-	{
-		"chi"		"** **"
-	}
-	"++We see you, were triggering the override++"
-	{
-		"chi"		"** **"
-	}
-	"++Hold the ledge until the door is open++"
-	{
-		"chi"		"** **"
-	}
-	"++Door One will open in 45 seconds++"
-	{
-		"chi"		"**第一个门会在45秒后打开**"
-	}
-	"++Door One will open in 40 seconds++"
-	{
-		"chi"		"**还剩40秒**"
-	}
-	"++Door One will open in 20 seconds++"
-	{
-		"chi"		"**还剩20秒**"
-	}
-	"++Door One opening in 10 seconds++"
-	{
-		"chi"		"**还剩10秒**"
-	}
 	"++Tunnel Door One is opening++"
 	{
 		"chi"		"**第一扇门已经打开了**"
 	}
-	"++Tunnel Door Two is opening++"
-	{
-		"chi"		"** **"
-	}
-	"++Tunnel Door Five is Opening++"
-	{
-		"chi"		"** **"
-	}
-	"++We hear you. Were overriding Tunnel Door Six++"
-	{
-		"chi"		"** **"
-	}
 	"++Airstrike hits in 5 seconds++"
 	{
 		"chi"		"**5秒钟发动空袭！小心！**"
-	}
-	"4"
-	{
-		"chi"		"** **"
-	}
-	"3"
-	{
-		"chi"		"** **"
-	}
-	"2"
-	{
-		"chi"		"** **"
-	}
-	"1"
-	{
-		"chi"		"** **"
 	}
 	"++Airstrike has hit. Welcome home++"
 	{
@@ -128,29 +40,25 @@
 	{
 		"chi"		"**僵尸到达了桥！新的传送点出现了！**"
 	}
-	"++Cut them off!++"
+	"++The third bridge can now be broken++"
 	{
-		"chi"		"** **"
-	}
-	"++Zombies have gotten past the middle gate, new spawn opening++"
-	{
-		"chi"		"**僵尸到达了中间的门！新的传送点解锁了！**"
+		"chi"		"**第三个桥现在可以被击碎了**"
 	}
 	"++Dont let them get any further!++"
 	{
 		"chi"		"**不要再让他们前进了！**"
 	}
-	"++The third bridge can now be broken++"
+	"++Zombies have gotten past the middle gate, new spawn opening++"
 	{
-		"chi"		"**第三个桥现在可以被击碎了**"
+		"chi"		"**僵尸到达了中间的门！新的传送点解锁了！**"
 	}
 	"++Zombies have made it past the cargo entrance, new spawn opening++"
 	{
 		"chi"		"**僵尸到达了货船的入口！新的传送点解锁了！**"
 	}
-	"++Hold them back!++"
+	"++Difficulty level: EASY++"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度：简单**"
 	}
 	"++Zombies have made it past the high tower++"
 	{
@@ -160,10 +68,6 @@
 	{
 		"chi"		"**在他们到达隧道前防守住！**"
 	}
-	"++Difficulty level: EASY++"
-	{
-		"chi"		"**当前难度：简单**"
-	}
 	"++Reaching the end will raise the difficulty++"
 	{
 		"chi"		"**如果成功到达终点会增加下一局的地图难度**"
@@ -171,5 +75,37 @@
 	"++The gate is lowering++"
 	{
 		"chi"		"**大门正在下降**"
+	}
+	"++The sliding gate is opening++"
+	{
+		"chi"		"**大门正在打开**"
+	}
+	"++We can see you out there. Those doors will take about 20 seconds to lower++"
+	{
+		"chi"		"**门大概会在20秒后打开**"
+	}
+	"++That gate will take about half a minute to fully open++"
+	{
+		"chi"		"**大门大概需要30秒钟完全打开**"
+	}
+	"++Were overriding the gates, should take about 25 seconds++"
+	{
+		"chi"		"**我们正需要打开这扇门，大概需要25秒**"
+	}
+	"++Door One will open in 45 seconds++"
+	{
+		"chi"		"**第一个门会在45秒后打开**"
+	}
+	"++Door One will open in 40 seconds++"
+	{
+		"chi"		"**还剩40秒**"
+	}
+	"++Door One will open in 20 seconds++"
+	{
+		"chi"		"**还剩20秒**"
+	}
+	"++Door One opening in 10 seconds++"
+	{
+		"chi"		"**还剩10秒**"
 	}
 }

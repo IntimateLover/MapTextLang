@@ -210,4 +210,10 @@
 		"hammerid"		"1587"
 		"m_iname"		"m1"
 	}
+	"506720"
+	{
+		"enable"		"0"
+		"hammerid"		"506720"
+		"m_iname"		"BoulderGibs&5379"
+	}
 }
