@@ -666,4 +666,16 @@
 		"chi"		"**注意：最后3蓝刀**"
 		"DoorCountdown"		"7"
 	}
+	"**Chest Quest completed!**"
+	{
+		"chi"		"** **"
+	}
+	"**The reward is waiting for you in the gi cave**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Phoenix Down**"
+	{
+		"chi"		"** **"
+	}
 }
