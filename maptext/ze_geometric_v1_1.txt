@@ -1,14 +1,14 @@
 "Console_T"
 {
-	"<< Hold for 25 seconds >>"
+	"<< hold for 25 seconds >>"
 	{
 		"chi"		"** **"
 	}
-	"<< Hold for 30 seconds >>"
+	"<< hold for 30 seconds >>"
 	{
 		"chi"		"** **"
 	}
-	"<< Hold for 15 seconds >>"
+	"<< hold for 15 seconds >>"
 	{
 		"chi"		"** **"
 	}
@@ -77,6 +77,18 @@
 		"chi"		"** **"
 	}
 	"<< End in 120 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 35 seconds>>"
+	{
+		"chi"		"** **"
+	}
+	"<< Warning: 20 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ... >>"
 	{
 		"chi"		"** **"
 	}
