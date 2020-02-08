@@ -270,4 +270,46 @@
 		"hammerid"		"155096"
 		"m_iname"		"physboxTornado&4194"
 	}
+	"3923073"
+	{
+		"enable"		"0"
+		"hammerid"		"3923073"
+		"m_iname"		"physboxShadowBall&8564"
+	}
+	"836545"
+	{
+		"enable"		"1"
+		"hammerid"		"836545"
+		"m_iname"		"papercrap_ExtBossCannonDmg"
+	}
+	"836778"
+	{
+		"enable"		"1"
+		"hammerid"		"836778"
+		"m_iname"		"papercrap_GlassBoss"
+	}
+	"836816"
+	{
+		"enable"		"1"
+		"hammerid"		"836816"
+		"m_iname"		"papercrap_ExtBoss"
+	}
+	"1188737"
+	{
+		"enable"		"0"
+		"hammerid"		"1188737"
+		"m_iname"		"papercrap_Raivb1000_Weapon"
+	}
+	"837999"
+	{
+		"enable"		"0"
+		"hammerid"		"837999"
+		"m_iname"		"triggerPaperBreakableElevator"
+	}
+	"874381"
+	{
+		"enable"		"0"
+		"hammerid"		"874381"
+		"m_iname"		"triggerPaperBreakableEntrance"
+	}
 }
