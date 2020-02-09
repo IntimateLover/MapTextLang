@@ -2,19 +2,19 @@
 {
 	"***Map by iXi***"
 	{
-		"chi"		"**地图作者：iXi   翻译：Misaka**"
+		"chi"		"**地图作者：iXi   翻译：银月筱瑶**"
 	}
 	"***Chapter 1: Escape From Renais***"
 	{
-		"chi"		"**第一章：逃离Renais**"
+		"chi"		"**章节一：逃离鲁内斯王国**"
 	}
 	"***A Player has picked up Shield***"
 	{
-		"chi"		"**一名玩家拾取了护盾**"
+		"chi"		"**有个人学会了护盾魔法**"
 	}
 	"***A player has picked up Heal***"
 	{
-		"chi"		"**一名玩家拾取了治疗**"
+		"chi"		"**有个人学会了治愈魔法**"
 	}
 	"***Activating Teleporter - Please Hold***"
 	{
@@ -22,15 +22,15 @@
 	}
 	"<<<We must get through this forest and head to Frelia and ask for help from King Hayden>>>"
 	{
-		"chi"		">>>我们必须穿过森林到达Frelia然后向Hayden国王寻求帮助<<<"
+		"chi"		">>>我们必须穿过森林到达弗雷利亚王国，然后向贤王海登求助<<<"
 	}
 	"<<<Path is blocked off by Grados spell...Please wait...>>>"
 	{
-		"chi"		">>>路被Grados的技能挡住了，请等待<<<"
+		"chi"		">>>路被古拉德帝国的魔法所阻挡，请等待<<<"
 	}
 	"<<<We need to retrieve the 5 sacred stones>>>"
 	{
-		"chi"		">>>我们需要检索5个神圣之石<<<"
+		"chi"		">>>我们需要找回五块圣石<<<"
 	}
 	"***Defend for 25 sec***"
 	{
@@ -42,11 +42,11 @@
 	}
 	"<<<Looks like we have found an ancient ruin....there should be 3 monuments that will lead us...>>>"
 	{
-		"chi"		">>>看起来我们找到了一个古老的遗迹，3个遗迹将会引领我们<<<"
+		"chi"		">>>看起来我们找到了一个古老的遗迹，这里应该有三个古迹引导我们前进……<<<"
 	}
 	"<<<We need to destroy these roots that are draining the power of the tree>>>"
 	{
-		"chi"		">>>我们需要摧毁这些吸收树的能量的根<<<"
+		"chi"		">>>我们需要摧毁这些吸收树的能量的树根<<<"
 	}
 	"***The way will be opened in 25 sec***"
 	{
@@ -54,7 +54,7 @@
 	}
 	"***Tree purified...Enabling teleport***"
 	{
-		"chi"		"**树已经净化了，正在准备传送**"
+		"chi"		"**树已经被净化，正在准备传送**"
 	}
 	"<<<Sacred Guardian has appeared>>>"
 	{
@@ -82,7 +82,7 @@
 	}
 	"<<<The stone must be in the room>>>"
 	{
-		"chi"		">>>石头一定是在屋子里！<<<"
+		"chi"		">>>圣石一定是在屋子里！<<<"
 	}
 	"***1st crystal is fading"
 	{
@@ -98,247 +98,247 @@
 	}
 	"***Models by their respective owners, animators***"
 	{
-		"chi"		"** **"
+		"chi"		"**模型来自模型本身的模型师、画师**"
 	}
 	"***Moving_NPC script by Luffaren***"
 	{
-		"chi"		"** **"
+		"chi"		"**NPC的移动脚本由Luffaren制作**"
 	}
 	"***This is my first map, enjoy!***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是我的第一章地图，希望各位玩得开心！**"
 	}
 	"***Music from: Fire Emblem Series***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图音乐来自：火焰之纹章系列**"
 	}
 	"***Enjoy as your journey begins in 45 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**你的游戏旅程将在45秒后开始**"
 	}
 	"***Stripper Difficulty: Easy***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：简单**"
 	}
 	"<<<The Grado Empire, a long-standing ally of Renais, launched a surprise attack on Renais, ordered by Emperor Vigarde>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**古拉德帝国是鲁内斯王国长期以来的盟友，但是古拉德皇帝却突然出兵袭击了鲁内斯王国**"
 	}
 	"<<<You must escape from Renais and find out Grados motives>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**你必须逃离陷落的鲁内斯王国，找到古拉德帝国的战争动机**"
 	}
 	"***Used Shield***"
 	{
-		"chi"		"** **"
+		"chi"		"**使用神器：盾**"
 	}
 	"***Defend for 35 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守35秒**"
 	}
 	"<<<We have received information from King Hayden that the land of Magvel is infested with foul being>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们收到了贤王海登的消息，玛基·维尔大陆已经充斥着污秽。**"
 	}
 	"<<<Locate the sacred guardian and have it remove the seals>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**找到圣石的守护者，撕开他的守护封印。**"
 	}
 	"<<<Seal deactivated>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**封印解除**"
 	}
 	"===Evil Aura has drained some of your health==="
 	{
-		"chi"		"** **"
+		"chi"		"**邪恶光环让你损失了一些生命值**"
 	}
 	"<<<This is where the sacred guardian resides? Lets find it and have it open up the way to the sacred stones>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**这就是圣石守护者的住所？我们赶紧找到它，这是寻找圣石的必经之路**"
 	}
 	"===Stay within the barrier at all times==="
 	{
-		"chi"		"** **"
+		"chi"		"**呆在屏障里不要乱跑**"
 	}
 	"<<<The spirit needs some form of energy to restore stamina...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**精神力需要能量来恢复...**"
 	}
 	"===There is a crystal nearby...==="
 	{
-		"chi"		"** **"
+		"chi"		"**这里附近有一块水晶...**"
 	}
 	"***Defend for 15 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守15秒**"
 	}
 	"***Defend for 20 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒**"
 	}
 	"<<<Defeat me and I shall open up the seals>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**打败我吧，我输了的话就打开封印**"
 	}
 	"===Infected being! You shall not proceed==="
 	{
-		"chi"		"** **"
+		"chi"		"**被感染者不可继续前行！**"
 	}
 	"<<<You have defeated Sacred Guardian...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了圣石守护者...**"
 	}
 	"***Chapter 2: Raustens Sacred Stone***"
 	{
-		"chi"		"** **"
+		"chi"		"**章节二：罗斯顿圣教国的圣石**"
 	}
 	"<<<After series of battles and victories, most of the sacred stones are destroyed >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**经过长久以来的混战，大多数的圣石已经被摧毁了。**"
 	}
 	"<<<The only sacred stone left is the one at Rausten Dungeon>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**仅剩的圣石收藏在罗斯顿圣教国的地牢**"
 	}
 	"<<<This should be a piece of cake since we have defeated Grados army at Rausten Court...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**这应该是小菜一碟，我们已经在罗斯顿法院上击败过古拉德帝国的军队...**"
 	}
 	"***Crystal energy is fading...***"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶的能量正在消退...**"
 	}
 	"***Crystal energy is fading***"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶的能量正在消退...**"
 	}
 	"***Wait until something happens***"
 	{
-		"chi"		"** **"
+		"chi"		"**等一下，好像有什么东西在运作**"
 	}
 	"<<<Door is opening!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**门开辣!**"
 	}
 	"<<<Second door is opening!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**第二道门也开辣!**"
 	}
 	"<<<We need to reach to the bottom...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要直达这里的底部...**"
 	}
 	"***Defend for 45 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守45秒**"
 	}
 	"<<<The door is opening!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**门又开辣!**"
 	}
 	"<<<Mysterious voice: You need to activate crystal in sequential order>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**神秘的声音：你们要按照既定的顺序来激活水晶**"
 	}
 	"***You have 20 seconds to solve this puzzle***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们大概有20秒的时间来解决这个问题**"
 	}
 	"***The Rausten stone is being retrieved***"
 	{
-		"chi"		"** **"
+		"chi"		"**正在回收圣石**"
 	}
 	"***Hold your ground!***"
 	{
-		"chi"		"** **"
+		"chi"		"**站稳！**"
 	}
 	"***Congratulations! Moving on to next chapter***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你，正在打开下一章节...**"
 	}
 	"***Chapter 3: Grados Secret***"
 	{
-		"chi"		"** **"
+		"chi"		"**章节三：古拉德帝国的秘密**"
 	}
 	"<<<Duessel mentions a Dark Stone to Ephraim>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**杜塞尔曾经向伊弗列姆提及过魔石的事**"
 	}
 	"<<<a substance that Lyon extraced from Grados Sacred Stone>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**一种利昂从古拉德圣石提取出来的东西**"
 	}
 	"<<<We need to get to the bottom of this and end it!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要好好研究并且想办法解决它**"
 	}
 	"<<<The best way to reach Grado is by sea>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**想要到达古拉德帝国，最好走海路**"
 	}
 	"<<<We need to head to the surface, lets go back up and head to the sewer system!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要尽快返回地面，先走下水道路过!**"
 	}
 	"<<<This is the Raustens old sewer system>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**这里是罗斯顿圣教国做的旧下水道系统**"
 	}
 	"<<<We need to find a way out of here>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要找一条路离开这里**"
 	}
 	"<<<Water seems to be poisonous?>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**水...看起来有毒，小心点**"
 	}
 	"***Get to the end of the tunnel***"
 	{
-		"chi"		"** **"
+		"chi"		"**去到隧道的尽头**"
 	}
 	"***Way will be opened soon***"
 	{
-		"chi"		"** **"
+		"chi"		"**路应该等会就开了**"
 	}
 	"<<<The way will be opened soon>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**路应该等会就开了**"
 	}
 	"<<<Room for sacred weapons will be opened soon>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**圣器的房间很快就打开**"
 	}
 	"<<<Way will be opened soon>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**路应该等会就开了**"
 	}
 	"<<<TP Magic to Grado will be enabled soon>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**传送到古拉德帝国的魔法很快就会激活**"
 	}
 	"***Path to the top will be opened soon***"
 	{
-		"chi"		"** **"
+		"chi"		"**通往顶层的路很快打开**"
 	}
 	"***Tracing Spirit is casting...***"
 	{
-		"chi"		"** **"
+		"chi"		"**灵魂追踪魔法正在生成...**"
 	}
 	"***Chapter 4: Darkling Woods***"
 	{
-		"chi"		"** **"
+		"chi"		"**章节四：暗之树海**"
 	}
 	"***A Player has picked up Silence***"
 	{
-		"chi"		"** **"
+		"chi"		"**有个人学会了沉默魔法**"
 	}
 	"<<<Welcome to Darkling forest, home to many Manakete...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到暗之树海，黑暗栖息的领域...**"
 	}
 	"<<<Show your respect to the fallen Manakete>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**向堕落的魔物们致以崇高的敬意吧**"
 	}
 	">>>F<<<"
 	{
@@ -346,143 +346,143 @@
 	}
 	"***Defend until the way opens up***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守到门开**"
 	}
 	"<<<Morva will be waiting on the top of the mountain...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**穆尔瓦会在山顶等着你们...**"
 	}
 	"<<<Morva has escaped! We need to get out of here...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**穆尔瓦已经先行一步，我们要快点离开这里...**"
 	}
 	"===Make sure you trigger next part as a team....==="
 	{
-		"chi"		"** **"
+		"chi"		"**当你到达下一个区域的时候，不要让队伍太分散...**"
 	}
 	"<<<Morva has appeared again!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**穆尔瓦又出现了!**"
 	}
 	"***You may stun him for one time only***"
 	{
-		"chi"		"** **"
+		"chi"		"**你只能眩晕他一次**"
 	}
 	"**Choose the spot wisely...***"
 	{
-		"chi"		"** **"
+		"chi"		"**用脑子去选一个地方...**"
 	}
 	"***You may have forgotten to deal with the seals...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你可能忘记处理封印的问题了...**"
 	}
 	"<<<Watch out! Morva is about to....>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**小心！穆尔瓦快...**"
 	}
 	"<<<Were almost there! Head to the temple!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们快到了，往魔殿走！**"
 	}
 	"<<<Mortals! You have helped me in restoring power!>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**凡人们！你们帮我恢复了力量！**"
 	}
 	"<<<You shall meet your fate inside...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**你会在那里直面于你的命运...**"
 	}
 	"***Morva has appeared again! Finish him***"
 	{
-		"chi"		"** **"
+		"chi"		"**穆尔瓦又出现了！快搞定他**"
 	}
 	"<<<Your journey is not over...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**你的旅程仍未结束...**"
 	}
 	"<<<Last Chapter will be completed in version one...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的章节会在后续版本完善...**"
 	}
 	"***Final Chapater: Sacred Stone***"
 	{
-		"chi"		"** **"
+		"chi"		"**终章：圣魔之光石**"
 	}
 	"<<<We need to move this boulder...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要搬走这个大石头...**"
 	}
 	"***Make sure you have full hp for next part***"
 	{
-		"chi"		"** **"
+		"chi"		"**确保你有足够的生命值前往下一个区域**"
 	}
 	"<<<This is the elevator to the bottom layer...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**这是通往最底层的升降梯...**"
 	}
 	"<<<Energy magic is being casted on the elevator...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**能量弹打到升降梯了...**"
 	}
 	"<<<Statue: Descendants of Renais...Your appearance in this ancient temple marks the>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**雕像：鲁内斯王国的传承者...你来到这里，就证明魔王已经重生了...**"
 	}
 	"<<<resurrection of Demon King...Fear not...as the stone will protect you from the eternal darkness....>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**雕像：无需害怕，圣石会保佑你不被黑暗所吞噬...**"
 	}
 	"<<<Formortiis: Come, and face your death! Im waiting, you miserable fool. Your corpse will make a perfect offering in my resurrection...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**魔王：尽管来吧，一群菜鸡，你们的尸体将会成为我复活的祭品！**"
 	}
 	"***Formortiis has changed weak point***"
 	{
-		"chi"		"** **"
+		"chi"		"**魔王的弱点已经发生变化**"
 	}
 	"<<<Formortiis: Mortal! Do you fear your own nightmare?...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**魔王：人类啊，准备好面对无尽的恐惧了吗？**"
 	}
 	"<<<Formortiis: Bring them to me...minions>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**魔王：我的手下，把他们带给我...**"
 	}
 	"<<<Formortiis: Facing the deceased ones....how interesting...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**魔王：直面于死者...真搞笑呢...**"
 	}
 	"<<<Formortiis: Burn in ferocious lightning...>>>"
 	{
-		"chi"		"** **"
+		"chi"		"**魔王：在残暴的闪电中燃烧吧...**"
 	}
 	"***You have defeated Formortiis and successfully sealed away his remaining souls***"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经击败了魔王，并且成功封印了他的残魂。**"
 	}
 	"***You have achieved the impossible...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你完成了根本不可能的任务!**"
 	}
 	"***You are the hero of Magvel***"
 	{
-		"chi"		"** **"
+		"chi"		"**你TM就是玛基·维尔大陆的英雄！！！**"
 	}
 	"***Nuking...***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图核爆启动中...**"
 	}
 	"***Crystal atk script by iXi w Luffarens help***"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶攻击由iXi制作，Luffarens帮助**"
 	}
 	"***Siegmund and Sieglinde mdl by iXi***"
 	{
-		"chi"		"** **"
+		"chi"		"**炎枪：吉克姆特，雷剑：吉克林迪的模型由iXi制作**"
 	}
 	"***Current version is GUC server only***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前版本仅提供给GUC服务器使用**"
 	}
 	"***Music from: Fire Emblem 8, Vindictus, Overlord***"
 	{
