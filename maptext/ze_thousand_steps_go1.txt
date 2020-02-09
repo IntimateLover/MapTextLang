@@ -108,4 +108,68 @@
 	{
 		"chi"		"**还剩10秒**"
 	}
+	"++The gate switch will be inside the building++"
+	{
+		"chi"		"** **"
+	}
+	"++The sliding gate is open, keep moving forward++"
+	{
+		"chi"		"** **"
+	}
+	"++The big gate is opening- fall back if you are on the walkways++"
+	{
+		"chi"		"** **"
+	}
+	"++Try to find a good chokepoint so some of you can hold while the rest advance++"
+	{
+		"chi"		"** **"
+	}
+	"++Cut them off!++"
+	{
+		"chi"		"** **"
+	}
+	"++The two gates are lowering++"
+	{
+		"chi"		"** **"
+	}
+	"++Hold them back!++"
+	{
+		"chi"		"** **"
+	}
+	"++We see you, were triggering the override++"
+	{
+		"chi"		"** **"
+	}
+	"++Hold the ledge until the door is open++"
+	{
+		"chi"		"** **"
+	}
+	"++Tunnel Door Two is opening++"
+	{
+		"chi"		"** **"
+	}
+	"++Tunnel Door Five is Opening++"
+	{
+		"chi"		"** **"
+	}
+	"++We hear you. Were overriding Tunnel Door Six++"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"1"
+	{
+		"chi"		"** **"
+	}
 }
