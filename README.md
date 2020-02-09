@@ -6,8 +6,8 @@
 
 
 1. sm_findentitybytargetname 指令可以检查同步实体targetname情况 [权限等级:OP]
-1.1 例如 sm_findentitybytargetname 20191111 如果当前地图存在包含此实体的targetname 那么都会显示出来
-1.2 没有找到则不会输入任何东西
+;例如 sm_findentitybytargetname 20191111 如果当前地图存在包含此实体的targetname 那么都会显示出来
+;没有找到则不会输出任何东西
 
 2. sm_gitsync_check_cureentmap_user 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:任何玩家 间隔限制 300秒]
 3. sm_gitsync_check_cureentmap 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:OP 或 已认证Mapper用户]
