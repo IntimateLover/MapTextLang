@@ -5,7 +5,7 @@
 #### 文件验证同步是否成功判断【限当前地图】
 
 
-1. sm_findentitybytargetna 201909 指令可以检查同步实体targetname情况 [权限等级:OP]
+1. sm_findentitybytargetna 指令可以检查同步实体targetname情况 [权限等级:OP]
 例如 sm_findentitybytargetname 20191111 如果当前地图存在包含此实体的targetname 那么都会显示出来
 
 2. sm_gitsync_check_cureentmap_user 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:任何玩家 间隔限制 300秒]
