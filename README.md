@@ -4,8 +4,13 @@
 
 #### 文件验证同步是否成功判断【限当前地图】
 
-1. sm_gitsync_check_cureentmap_user 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:任何玩家 间隔限制 300秒]
-2. sm_gitsync_check_cureentmap 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:OP 或 已认证Mapper用户]
+
+1. sm_findentitybytargetname 指令可以检查同步实体targetname情况 [权限等级:OP]
+;例如 sm_findentitybytargetname 20191111 如果当前地图存在包含此实体的targetname 那么都会显示出来
+;没有找到则不会输出任何东西
+
+2. sm_gitsync_check_cureentmap_user 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:任何玩家 间隔限制 300秒]
+3. sm_gitsync_check_cureentmap 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:OP 或 已认证Mapper用户]
 
 ## 参数修改规则
 
@@ -62,4 +67,4 @@
 test for web hook
 #push trigger update p 2
 triggercleanup 最后维护
-    2020年01月21日0.00
+    2020年02月11日1.12
