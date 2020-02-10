@@ -2,71 +2,71 @@
 {
 	"<< model by koyomaple >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>模型支持：koyomaple<<<"
 	}
 	"<< script by Excarliber >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>脚本支持：Excarliber<<<"
 	}
 	"<< teleport in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>20秒后传送<<<"
 	}
 	"<< A zombie has picked up gravity magic >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>僵尸拾取了黑洞<<<"
 	}
 	"<< A player has picked up wind magic >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一位玩家拾取了风<<<"
 	}
 	"<< A player has picked up heal magic >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一位玩家拾取了治疗<<<"
 	}
 	"<< A player has picked up snow magic >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>一位玩家拾取了雪<<<"
 	}
 	"<< the bridge will open in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>桥会在20秒后允许通行<<<"
 	}
 	"<< the way is able to pass now >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>路线在允许通行了<<<"
 	}
 	"<< the way will be able to pass in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>路将在10秒后允许通行<<<"
 	}
 	"<< the way will be able to pass in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>路将在20秒后允许通行<<<"
 	}
 	"<< wait for 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>等待30秒<<<"
 	}
 	"<< defend for 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守20秒<<<"
 	}
 	"<< defend for 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守25秒<<<"
 	}
 	"<< wait for 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>等待20秒<<<"
 	}
 	"<< the platform wil rise in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>平台将在20秒后上升<<<"
 	}
 	"<< defend for 35 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守35秒<<<"
 	}
 	"<< STAGE I COMPLETE >>"
 	{
@@ -74,27 +74,27 @@
 	}
 	"<< teleport human in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>人类将在20秒后传送<<<"
 	}
 	"<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>这个墓碑是用来纪念那位利用脚本获得misaka竞赛优胜的玩家<<<"
 	}
 	"<< R.I.P >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>来都来了，上个香再走吧<<<"
 	}
 	"<< the bridge will appear in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>桥将在20秒后出现<<<"
 	}
 	"<< wait for a few seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>稍等一小会<<<"
 	}
 	"<< defend for 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>防守30秒<<<"
 	}
 	"<< STAGE II COMPLETE >>"
 	{
@@ -102,39 +102,41 @@
 	}
 	"<< The next button will unlock in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>下一个按钮将在10秒后解锁<<<"
 	}
 	"<< the boat will move in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>船将在10秒后启动<<<"
 	}
 	"<< the boat will move again in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>船将会在10秒后再次移动<<<"
 	}
 	"<< the way will close in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>路将在10秒后关闭<<<"
 	}
 	"<< Trials of Sword lv.1 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>剑之审判lv.1<<<"
+		"DoorCountDown"		"3"
 	}
 	"<< Trials of Sword lv.2 >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>剑之审判lv.2<<<"
+		"DoorCountDown"		"3"
 	}
 	"<< survive for 130 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>生存130秒！<<<"
 	}
 	"<< wait.... something will happen....>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>等一下......好像有什么事要发生......<<<"
 	}
 	"<< Its Misaka!!!>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>是Misaka!!!<<<"
 	}
 	"<< emmmm..... >>"
 	{
@@ -186,15 +188,18 @@
 	}
 	"<< Starfall >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>星坠（抬头打头顶光球）<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< CANNON >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>轨道炮<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< FALL OF EARTH >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>大地陨落（注意观察鬼火）<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< The final fence will break in 120 seconds >>"
 	{
@@ -406,7 +411,8 @@
 	}
 	"<< GIGA DRAIN >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>二连吸<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< hold for 25 seconds >>"
 	{
@@ -414,11 +420,13 @@
 	}
 	"<< Flame of Revenge >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>火焰复仇（尸笼）<<<"
+		"DoorCountDown"		"3"
 	}
 	"<< Hunting Instinct >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>狩猎本能（boss方向跳刀）<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< hold for 15 seconds >>"
 	{
@@ -446,11 +454,13 @@
 	}
 	"<< MEGA PUSH >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>三连推<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< Fallen Sky >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>天坠<<<"
+		"DoorCountDown"		"5"
 	}
 	"<< HOLY >>"
 	{

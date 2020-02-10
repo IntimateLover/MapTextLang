@@ -2,55 +2,56 @@
 {
 	"Map : ze_surf_shonyudo"
 	{
-		"chi"		"** **"
+		"chi"		"**又是一张跳刀滑翔图**"
+		"DoorCountDown"		"10"
 	}
 	"Who : Hmn"
 	{
-		"chi"		"** **"
+		"chi"		"**作者：Hmn  翻译：Misaka**"
 	}
 	">> [Laser_Lv] Godlike <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>【跳刀等级】超神<<<"
 	}
 	">> Destroy the rock 30 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>石头将在30秒后破碎<<<"
 	}
 	">> Destroy the rock 10 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>石头将在10秒后破碎<<<"
 	}
 	">> [Laser_Lv] Carnage <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>【跳刀等级】：屠杀<<<"
 	}
 	">> Fixing the elevator 30 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>电梯将在30秒后修复<<<"
 	}
 	">> Fixing the elevator 10 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>电梯将在10秒后修复<<<"
 	}
 	">> Destroy the rock 40 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>石头将在40秒后破碎<<<"
 	}
 	">> GOOD LUCK <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>祝你好运<<<"
 	}
 	">> RUN! <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>冲！<<<"
 	}
 	">> Escape The World !! 40 SECONDS  <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>逃离这个世界！！还剩40秒！<<<"
 	}
 	">> Escape The World !! 10 SECONDS  <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>最后10秒！<<<"
 	}
 	">> ORE NO KATI  <<"
 	{
@@ -58,7 +59,7 @@
 	}
 	">> [Laser_Lv] ??? <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>【跳刀等级】？？<<<"
 	}
 	"sync_version"
 	{
@@ -66,14 +67,14 @@
 	}
 	">> Laser_Lv -- ??? -- <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>跳刀等级：？？<<<"
 	}
 	">> Laser_Lv -- Carnage -- <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>跳刀等级：屠杀<<<"
 	}
 	">> Laser_Lv -- Godlike -- <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>跳刀等级：超神<<<"
 	}
 }

@@ -582,4 +582,280 @@
 		"hammerid"		"10778344"
 		"m_iname"		"spider_phbox"
 	}
+	"1698"
+	{
+		"enable"		"0"
+		"hammerid"		"1698"
+		"m_iname"		"sky_stone_break"
+	}
+	"1838349"
+	{
+		"enable"		"0"
+		"hammerid"		"1838349"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838367"
+	{
+		"enable"		"0"
+		"hammerid"		"1838367"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838377"
+	{
+		"enable"		"0"
+		"hammerid"		"1838377"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838429"
+	{
+		"enable"		"0"
+		"hammerid"		"1838429"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838435"
+	{
+		"enable"		"0"
+		"hammerid"		"1838435"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838469"
+	{
+		"enable"		"0"
+		"hammerid"		"1838469"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838487"
+	{
+		"enable"		"0"
+		"hammerid"		"1838487"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838492"
+	{
+		"enable"		"0"
+		"hammerid"		"1838492"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838497"
+	{
+		"enable"		"0"
+		"hammerid"		"1838497"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838502"
+	{
+		"enable"		"0"
+		"hammerid"		"1838502"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838508"
+	{
+		"enable"		"0"
+		"hammerid"		"1838508"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838534"
+	{
+		"enable"		"0"
+		"hammerid"		"1838534"
+		"m_iname"		"phys_stone_motiv"
+	}
+	"1838064"
+	{
+		"enable"		"0"
+		"hammerid"		"1838064"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838344"
+	{
+		"enable"		"0"
+		"hammerid"		"1838344"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838358"
+	{
+		"enable"		"0"
+		"hammerid"		"1838358"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838372"
+	{
+		"enable"		"0"
+		"hammerid"		"1838372"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838382"
+	{
+		"enable"		"0"
+		"hammerid"		"1838382"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838392"
+	{
+		"enable"		"0"
+		"hammerid"		"1838392"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838397"
+	{
+		"enable"		"0"
+		"hammerid"		"1838397"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838402"
+	{
+		"enable"		"0"
+		"hammerid"		"1838402"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838407"
+	{
+		"enable"		"0"
+		"hammerid"		"1838407"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838416"
+	{
+		"enable"		"0"
+		"hammerid"		"1838416"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1838458"
+	{
+		"enable"		"0"
+		"hammerid"		"1838458"
+		"m_iname"		"stone_break_isengard"
+	}
+	"1624"
+	{
+		"enable"		"0"
+		"hammerid"		"1624"
+		"m_iname"		"mot_1_1"
+	}
+	"943231"
+	{
+		"enable"		"0"
+		"hammerid"		"943231"
+		"m_iname"		"mot_1_1"
+	}
+	"1626"
+	{
+		"enable"		"0"
+		"hammerid"		"1626"
+		"m_iname"		"mot_1_2"
+	}
+	"943213"
+	{
+		"enable"		"0"
+		"hammerid"		"943213"
+		"m_iname"		"mot_1_2"
+	}
+	"1628"
+	{
+		"enable"		"0"
+		"hammerid"		"1628"
+		"m_iname"		"mot_1_3"
+	}
+	"943241"
+	{
+		"enable"		"0"
+		"hammerid"		"943241"
+		"m_iname"		"mot_1_3"
+	}
+	"1630"
+	{
+		"enable"		"0"
+		"hammerid"		"1630"
+		"m_iname"		"mot_1_4"
+	}
+	"943236"
+	{
+		"enable"		"0"
+		"hammerid"		"943236"
+		"m_iname"		"mot_1_4"
+	}
+	"1616"
+	{
+		"enable"		"0"
+		"hammerid"		"1616"
+		"m_iname"		"mot_1"
+	}
+	"932675"
+	{
+		"enable"		"0"
+		"hammerid"		"932675"
+		"m_iname"		"mot_1"
+	}
+	"932654"
+	{
+		"enable"		"0"
+		"hammerid"		"932654"
+		"m_iname"		"mot_2_brek"
+	}
+	"932714"
+	{
+		"enable"		"0"
+		"hammerid"		"932714"
+		"m_iname"		"mot_3"
+	}
+	"932720"
+	{
+		"enable"		"0"
+		"hammerid"		"932720"
+		"m_iname"		"mot_3"
+	}
+	"1622"
+	{
+		"enable"		"0"
+		"hammerid"		"1622"
+		"m_iname"		"mot_4"
+	}
+	"932778"
+	{
+		"enable"		"0"
+		"hammerid"		"932778"
+		"m_iname"		"mot_4"
+	}
+	"3264698"
+	{
+		"enable"		"1"
+		"hammerid"		"3264698"
+		"m_iname"		"boss1_break"
+	}
+	"5779595"
+	{
+		"enable"		"0"
+		"hammerid"		"5779595"
+		"m_iname"		"rollermine_phys_3&3348"
+	}
+	"9421292"
+	{
+		"enable"		"0"
+		"hammerid"		"9421292"
+		"m_iname"		"item_gandalf_15"
+	}
+	"11818397"
+	{
+		"enable"		"0"
+		"hammerid"		"11818397"
+		"m_iname"		"box_grima_helth"
+	}
+	"11818076"
+	{
+		"enable"		"0"
+		"hammerid"		"11818076"
+		"m_iname"		"heal_kit"
+	}
+	"11813652"
+	{
+		"enable"		"1"
+		"hammerid"		"11813652"
+		"m_iname"		"boss3_break"
+	}
+	"11819056"
+	{
+		"enable"		"0"
+		"hammerid"		"11819056"
+		"m_iname"		"rock_down1"
+	}
 }
