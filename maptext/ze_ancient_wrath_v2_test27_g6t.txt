@@ -55,7 +55,7 @@
 	}
 	"||| CHAPTER 2 => SECURE |||"
 	{
-		"chi"		">>>第2章=>保密<<<"
+		"chi"		">>>第2章=>安检<<<"
 		"DoorCountdown"		"-1"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
@@ -73,18 +73,15 @@
 	}
 	"||| C4 EXPLODE IN 15 SECONDS |||"
 	{
-		"chi"		"**C4在15s后爆炸**"
-		"DoorCountdown"		"15"
+		"chi"		"**15秒后C4爆炸**"
 	}
 	"||| C4 EXPLODE IN 5 SECONDS |||"
 	{
-		"chi"		"**C4在5s后爆炸**"
-		"DoorCountdown"		"5"
+		"chi"		"**5秒后C4爆炸**"
 	}
 	"||| C4 EXPLODE IN 10 SECONDS |||"
 	{
-		"chi"		"**C4在10s后爆炸**"
-		"DoorCountdown"		"10"
+		"chi"		"**10秒后C4爆炸**"
 	}
 	"||| BRIDGE EXTEND IN 20 SECONDS |||"
 	{
