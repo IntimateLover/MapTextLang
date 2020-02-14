@@ -11,7 +11,7 @@
 	">> Warm up round End <<"
 	{
 		"chi"		"热身回合结束(翻译：酩酊兮qwq)"
-	}	
+	}
 	">> Nice ! Light is born 30 s <<"
 	{
 		"chi"		"真棒！30秒后光明将会出现"
@@ -63,5 +63,9 @@
 	">> Elevator starts moving 10 s <<"
 	{
 		"chi"		"电梯还有10秒启动……"
+	}
+	"<!!> Something is missing... <!!>"
+	{
+		"chi"		"** **"
 	}
 }
