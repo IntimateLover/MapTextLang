@@ -51,12 +51,12 @@
 	"** [STAGE 1 - THE WALL] **"
 	{
 		"chi"		"**[第一关-城墙]**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** [STAGE 2 - WINTERFELL] **"
 	{
 		"chi"		"**[第二关-冬日城]**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"** STARTING CHAPTER **"
 	{
@@ -137,5 +137,29 @@
 	"** ZM BOTTOM TELEPORT ENABLED **"
 	{
 		"chi"		"**底部的僵尸传送已启用**"
+	}
+	"> Team HP lvl 0 <"
+	{
+		"chi"		"** **"
+	}
+	"> Heal Item lvl 0 <"
+	{
+		"chi"		"** **"
+	}
+	"> Ammo Item lvl 0 <"
+	{
+		"chi"		"** **"
+	}
+	"> Sword Item lvl 0 <"
+	{
+		"chi"		"** **"
+	}
+	"> Bow Item lvl 0 <"
+	{
+		"chi"		"** **"
+	}
+	"> Axe Item lvl 0 <"
+	{
+		"chi"		"** **"
 	}
 }

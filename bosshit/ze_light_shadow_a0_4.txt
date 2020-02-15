@@ -1,0 +1,63 @@
+"BOSSHP"
+{
+	"314089"
+	{
+		"enable"		"0"
+		"hammerid"		"314089"
+		"m_iname"		"lv1_ext_move0_trigger0"
+	}
+	"314105"
+	{
+		"enable"		"0"
+		"hammerid"		"314105"
+		"m_iname"		"lv1_ext_move0_trigger0"
+	}
+	"307157"
+	{
+		"enable"		"1"
+		"hammerid"		"307157"
+		"m_iname"		"lv2_boss_forspawn_trigger"
+	}
+	"285403"
+	{
+		"enable"		"0"
+		"hammerid"		"285403"
+		"m_iname"		"level_phy"
+	}
+	"225835"
+	{
+		"enable"		"1"
+		"hammerid"		"225835"
+		"m_iname"		"lv3_boss_startbreak"
+	}
+	"101325"
+	{
+		"enable"		"1"
+		"hammerid"		"101325"
+		"m_iname"		"lv3_boss_back1"
+	}
+	"101370"
+	{
+		"enable"		"1"
+		"hammerid"		"101370"
+		"m_iname"		"lv3_boss_back1"
+	}
+	"100122"
+	{
+		"enable"		"0"
+		"hammerid"		"100122"
+		"m_iname"		"level_phy"
+	}
+	"98395"
+	{
+		"enable"		"1"
+		"hammerid"		"98395"
+		"m_iname"		"lv3_boss_back"
+	}
+	"314312"
+	{
+		"enable"		"0"
+		"hammerid"		"314312"
+		"m_iname"		"lv1_ext_move1_break"
+	}
+}
