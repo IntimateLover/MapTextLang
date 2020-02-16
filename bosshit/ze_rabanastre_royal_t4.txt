@@ -234,4 +234,10 @@
 		"hammerid"		"1566577"
 		"m_iname"		"Stage4_Spawn_Breakable"
 	}
+	"3307265"
+	{
+		"enable"		"1"
+		"hammerid"		"3307265"
+		"m_iname"		"Boss_Physbox"
+	}
 }
