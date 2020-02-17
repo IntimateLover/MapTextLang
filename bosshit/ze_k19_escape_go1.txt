@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"34612"
+	{
+		"enable"		"0"
+		"hammerid"		"34612"
+		"m_iname"		"break3"
+	}
+	"38565"
+	{
+		"enable"		"0"
+		"hammerid"		"38565"
+		"m_iname"		"break4"
+	}
+	"14899"
+	{
+		"enable"		"0"
+		"hammerid"		"14899"
+		"m_iname"		"break2"
+	}
+	"10678"
+	{
+		"enable"		"0"
+		"hammerid"		"10678"
+		"m_iname"		"break1"
+	}
+}

@@ -1,0 +1,141 @@
+"BOSSHP"
+{
+	"314089"
+	{
+		"enable"		"0"
+		"hammerid"		"314089"
+		"m_iname"		"lv1_ext_move0_trigger0"
+	}
+	"314105"
+	{
+		"enable"		"0"
+		"hammerid"		"314105"
+		"m_iname"		"lv1_ext_move0_trigger0"
+	}
+	"307157"
+	{
+		"enable"		"1"
+		"hammerid"		"307157"
+		"m_iname"		"lv2_boss_forspawn_trigger"
+	}
+	"285403"
+	{
+		"enable"		"0"
+		"hammerid"		"285403"
+		"m_iname"		"level_phy"
+	}
+	"225835"
+	{
+		"enable"		"1"
+		"hammerid"		"225835"
+		"m_iname"		"lv3_boss_startbreak"
+	}
+	"101325"
+	{
+		"enable"		"1"
+		"hammerid"		"101325"
+		"m_iname"		"lv3_boss_back1"
+	}
+	"101370"
+	{
+		"enable"		"1"
+		"hammerid"		"101370"
+		"m_iname"		"lv3_boss_back1"
+	}
+	"100122"
+	{
+		"enable"		"0"
+		"hammerid"		"100122"
+		"m_iname"		"level_phy"
+	}
+	"98395"
+	{
+		"enable"		"1"
+		"hammerid"		"98395"
+		"m_iname"		"lv3_boss_back"
+	}
+	"314312"
+	{
+		"enable"		"0"
+		"hammerid"		"314312"
+		"m_iname"		"lv1_ext_move1_break"
+	}
+	"189597"
+	{
+		"enable"		"1"
+		"hammerid"		"189597"
+		"m_iname"		"lv2_boss_hitbox"
+	}
+	"292596"
+	{
+		"enable"		"1"
+		"hammerid"		"292596"
+		"m_iname"		"lv3_boss_hitbox"
+	}
+	"292557"
+	{
+		"enable"		"1"
+		"hammerid"		"292557"
+		"m_iname"		"lv3_ring_hitbox"
+	}
+	"122840"
+	{
+		"enable"		"1"
+		"hammerid"		"122840"
+		"m_iname"		"lv3_final_hitbox"
+	}
+	"274845"
+	{
+		"enable"		"0"
+		"hammerid"		"274845"
+		"m_iname"		"lv3_final_false_end_break"
+	}
+	"285182"
+	{
+		"enable"		"0"
+		"hammerid"		"285182"
+		"m_iname"		"lv3_final_ring8"
+	}
+	"285091"
+	{
+		"enable"		"0"
+		"hammerid"		"285091"
+		"m_iname"		"lv3_final_ring1"
+	}
+	"285191"
+	{
+		"enable"		"0"
+		"hammerid"		"285191"
+		"m_iname"		"lv3_final_ring2"
+	}
+	"285135"
+	{
+		"enable"		"0"
+		"hammerid"		"285135"
+		"m_iname"		"lv3_final_ring3"
+	}
+	"285185"
+	{
+		"enable"		"0"
+		"hammerid"		"285185"
+		"m_iname"		"lv3_final_ring4"
+	}
+	"285110"
+	{
+		"enable"		"0"
+		"hammerid"		"285110"
+		"m_iname"		"lv3_final_ring5"
+	}
+	"285188"
+	{
+		"enable"		"0"
+		"hammerid"		"285188"
+		"m_iname"		"lv3_final_ring6"
+	}
+	"285132"
+	{
+		"enable"		"0"
+		"hammerid"		"285132"
+		"m_iname"		"lv3_final_ring7"
+	}
+}

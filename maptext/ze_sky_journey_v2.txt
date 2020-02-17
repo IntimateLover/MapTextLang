@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"***You think its 20 seconds?ltsactually25 seconds***"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"***You think its 50 seconds?ltsactually55 seconds***"
+	{
+		"chi"		"**防守55秒**"
+	}
+	"***HOLD ON FOR 35 SECONDS***"
+	{
+		"chi"		"**坚守35秒**"
+	}
+	"***HOLD FOR 30 SECONDS***"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"***Hold on for 20 seconds***"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"***Hold on for 40 seconds***"
+	{
+		"chi"		"**坚守40秒**"
+	}
+	"***Zombies transfer in 8 seconds***"
+	{
+		"chi"		"**僵尸在8秒后传送**"
+	}
+	"***HOLD FOR 15 SECONDS***"
+	{
+		"chi"		"**坚守15秒**"
+	}
+	"***HOLD FOR 35 SECONDS***"
+	{
+		"chi"		"**坚守35秒**"
+	}
+	"***there are 30 seconds left***"
+	{
+		"chi"		"**等待30秒**"
+	}
+	"***zombies have 10 seconds to teleport***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"***Zombies transfer in 6 seconds***"
+	{
+		"chi"		"**僵尸6秒后传送**"
+	}
+	"***there are 10 seconds left***"
+	{
+		"chi"		"**剩余10秒**"
+	}
+	"***Thanks for misakas guidance***"
+	{
+		"chi"		"**感谢Misaka的地图实体指导**"
+	}
+}
