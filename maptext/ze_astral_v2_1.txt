@@ -1,0 +1,75 @@
+"Console_T"
+{
+	">> Mysterious powers intersect 30 s <<"
+	{
+		"chi"		"神秘力量的交汇还需要30秒"
+	}
+	">> Mysterious powers intersect 10 s <<"
+	{
+		"chi"		"神秘力量的交汇还需要10秒"
+	}
+	">> Warm up round End <<"
+	{
+		"chi"		"热身回合结束(翻译：酩酊兮qwq)"
+	}
+	">> Nice ! Light is born 30 s <<"
+	{
+		"chi"		"真棒！30秒后光明将会出现"
+	}
+	">> Nice ! Light is born 10 s <<"
+	{
+		"chi"		"真棒！10秒后光明将会出现"
+	}
+	">> Nice ! Destroy the door 30 s <<"
+	{
+		"chi"		"真棒！门30秒后将被摧毁"
+	}
+	">> Nice ! Destroy the door 10 s <<"
+	{
+		"chi"		"真棒！门10秒后将被摧毁"
+	}
+	">> Light is born 20 s <<"
+	{
+		"chi"		"20秒后光明将会出现"
+	}
+	">> Light is born 10 s <<"
+	{
+		"chi"		"10秒后光明将会出现"
+	}
+	">> Destroy the door 30 s <<"
+	{
+		"chi"		"门30秒后将被摧毁"
+	}
+	">> Destroy the door 10 s <<"
+	{
+		"chi"		"门10秒后将被摧毁"
+	}
+	">> Offer a prayer... 30 s <<"
+	{
+		"chi"		"祈祷中……30秒"
+	}
+	">> Offer a prayer... 10 s <<"
+	{
+		"chi"		"祈祷中……10秒"
+	}
+	"<!!> Blocked by guards... <!!>"
+	{
+		"chi"		"被守卫挡住了……"
+	}
+	">> Elevator starts moving 30 s <<"
+	{
+		"chi"		"电梯还有30秒启动……"
+	}
+	">> Elevator starts moving 10 s <<"
+	{
+		"chi"		"电梯还有10秒启动……"
+	}
+	"<!!> Something is missing... <!!>"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"12697"
+	}
+}

@@ -56,4 +56,8 @@
 	{
 		"syncvalue"		"90539"
 	}
+	"***the zombie item has been picked up***"
+	{
+		"chi"		"** **"
+	}
 }

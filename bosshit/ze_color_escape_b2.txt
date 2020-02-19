@@ -66,4 +66,10 @@
 		"hammerid"		"97279"
 		"m_iname"		"l2_Break2"
 	}
+	"128293"
+	{
+		"enable"		"1"
+		"hammerid"		"128293"
+		"m_iname"		"l2_boss_hitbox"
+	}
 }

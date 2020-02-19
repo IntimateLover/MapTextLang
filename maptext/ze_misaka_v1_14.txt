@@ -635,9 +635,21 @@
 	}
 	"<< the wall will break in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>墙会在30秒后破碎！小心侧路！<<<"
 	}
 	"<< The boss will be unkillable after 30 seconds >>"
+	{
+		"chi"		">>>切刀崽种们30秒后就暴毙了<<<"
+	}
+	"<< Admin select Stage 3 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin Select Stage 1 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin select Stage 2 >>"
 	{
 		"chi"		"** **"
 	}
