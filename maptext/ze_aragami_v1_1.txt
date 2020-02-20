@@ -43,7 +43,7 @@
 	">>>AFK teleport in 10s<<<"
 	{
 		"chi"		">>>挂机僵尸10秒后传送<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>Climb up the ladder<<<"
 	{
@@ -76,7 +76,7 @@
 	">>>AFK teleport in 15s<<<"
 	{
 		"chi"		">>>挂机僵尸15秒后传送<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>>The path will be cleared in 50s<<<"
 	{
