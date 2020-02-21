@@ -2,55 +2,56 @@
 {
 	"***wanna change the music?***"
 	{
-		"chi"		"** **"
+		"chi"		"想要更换地图背景音乐？"
 	}
 	"***then come press this big red button***"
 	{
-		"chi"		"** **"
+		"chi"		"**那么过来按下这个红色按钮**"
 	}
 	"***5050 chance you die***"
 	{
-		"chi"		"** **"
+		"chi"		"**百分之50几率你会死亡**"
+		"DoorCountdown"		"-1"
 	}
 	"***you lose now you are dead***"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了现在你已被处死**"
 	}
 	"***gate opens in 30 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后开启**"
 	}
 	"***gate opens in 40 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**神器路大门将在40秒后开启**"
 	}
 	"***someone has picked up a pico orgy ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名人类玩家捡起了治疗神器**"
 	}
 	"***someone has picked up a shotgun***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名人类玩家捡起了霰弹枪神器**"
 	}
 	"***king ronalds gate opens in 50 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**麦当劳大门将在50秒后开启**"
 	}
 	"***outside gate opens in 60 mc Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**外侧门将在60秒后开启**"
 	}
 	"***SOMEONE HAS PISKED UP THE LOW GRAVITY ITEM***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸玩家捡起了低重力神器**"
 	}
 	"***gate opens in 30 mc Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后开启**"
 	}
 	"***you win music has been changed***"
 	{
-		"chi"		"** **"
+		"chi"		"**你胜利了，地图背景音乐已更换**"
 	}
 	"sync_version"
 	{
@@ -58,6 +59,6 @@
 	}
 	"***the zombie item has been picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名僵尸玩家捡起了伤害神器**"
 	}
 }
