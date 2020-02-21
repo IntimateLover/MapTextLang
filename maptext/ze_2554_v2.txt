@@ -3,10 +3,11 @@
 	"MAP MADE BY ricca2554"
 	{
 		"chi"		"地图作者：ricca2554 翻译：血色的龙琉璃"
+		"DoorCountdown"		"-1"
 	}
 	"STAGE 1 (ryen zone) starting in 60 sec"
 	{
-		"chi"		"关卡1 (ryen zone) 将在60秒后开启"
+		"chi"		"60秒后开启关卡一 (ryen zone)"
 	}
 	"wall bracks in 40 sec"
 	{
@@ -34,7 +35,7 @@
 	}
 	"STAGE 2 (doomnack kingdom) starting in 60 sec"
 	{
-		"chi"		"关卡2 (doomnack kingdom)将在60秒后开启"
+		"chi"		"60秒后开启关卡二 (doomnack kingdom)"
 	}
 	"boogie is not done with you"
 	{
