@@ -2,43 +2,44 @@
 {
 	"MAP MADE BY ricca2554"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：ricca2554 翻译：血色的龙琉璃"
+		"DoorCountdown"		"-1"
 	}
 	"STAGE 1 (ryen zone) starting in 60 sec"
 	{
-		"chi"		"** **"
+		"chi"		"60秒后开启关卡一 (ryen zone)"
 	}
 	"wall bracks in 40 sec"
 	{
-		"chi"		"** **"
+		"chi"		"墙将在40秒后破碎"
 	}
 	"grill bracking in 40 sec"
 	{
-		"chi"		"** **"
+		"chi"		"墙将在40秒后破碎"
 	}
 	"last door bracks in 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"最后的大门将在30秒后开启"
 	}
 	"ryen? bracks???? go left if you good go right if you  bad"
 	{
-		"chi"		"** **"
+		"chi"		"ryen? bracks???? 如果你了解地图请走左边，不了解地图请走右边"
 	}
 	"someone has won the thing not you can go in the poo in 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"开关已经触发，大门将在30秒后开启"
 	}
 	"you won stage 1!"
 	{
-		"chi"		"** **"
+		"chi"		"人类赢得了第一关"
 	}
 	"STAGE 2 (doomnack kingdom) starting in 60 sec"
 	{
-		"chi"		"** **"
+		"chi"		"60秒后开启关卡二 (doomnack kingdom)"
 	}
 	"boogie is not done with you"
 	{
-		"chi"		"** **"
+		"chi"		"布吉乐还没完成"
 	}
 	"sync_version"
 	{
