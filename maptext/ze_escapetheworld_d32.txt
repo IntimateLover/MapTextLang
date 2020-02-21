@@ -2,7 +2,7 @@
 {
 	"[Wait here for 26 secs]"
 	{
-		"DoorCountdown"		"26"
+		"DoorCountDown"		"26"
 	}
 	"sync_version"
 	{
@@ -109,6 +109,250 @@
 		"chi"		"** **"
 	}
 	"[Stage rtv]"
+	{
+		"chi"		"** **"
+	}
+	"[Look the middle room i think we should go there]"
+	{
+		"chi"		"** **"
+	}
+	"[DOOR WILL CLOSE IN 10 SECS!!!!]"
+	{
+		"chi"		"** **"
+	}
+	"[Stage 1 Complete]"
+	{
+		"chi"		"** **"
+	}
+	"[Stage 2]"
+	{
+		"chi"		"** **"
+	}
+	"[Zombie tele in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate open in 20 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Only the chosen one may survive]"
+	{
+		"chi"		"** **"
+	}
+	"[Teleport in 20 secs ]"
+	{
+		"chi"		"** **"
+	}
+	"[We need find a door to keep going]"
+	{
+		"chi"		"** **"
+	}
+	"[Left Door open in 20 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Fall back zombie teleport]"
+	{
+		"chi"		"** **"
+	}
+	"[Door will break in 30 secs and Look a telephone we should find a way get up there]"
+	{
+		"chi"		"** **"
+	}
+	"[Door for zombie will open soon]"
+	{
+		"chi"		"** **"
+	}
+	"[Door will open in 30 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Zombie shortcut has broken]"
+	{
+		"chi"		"** **"
+	}
+	"[The second zombie shortcut has open]"
+	{
+		"chi"		"** **"
+	}
+	"[Elevator will go up in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[afk tele in 5 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Look a crystal shoot it]"
+	{
+		"chi"		"** **"
+	}
+	"[The crystal is working wait for 35 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Hmm we need those cube working]"
+	{
+		"chi"		"** **"
+	}
+	"[Tele Afk in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Look there are 2  telephones]"
+	{
+		"chi"		"** **"
+	}
+	"[Defend here]"
+	{
+		"chi"		"** **"
+	}
+	"[We need to find 4 cubes and destroy it]"
+	{
+		"chi"		"** **"
+	}
+	"[You have 110 secs to find all cubes and destroy them]"
+	{
+		"chi"		"** **"
+	}
+	"[A cube has been break]"
+	{
+		"chi"		"** **"
+	}
+	"[All 4 cube have break DONT MOVE you will teleport back in 5 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Everybody stand in the tree and u will tele in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Final door closing in 15 sec]"
+	{
+		"chi"		"** **"
+	}
+	"[SAY GOOD BYE]"
+	{
+		"chi"		"** **"
+	}
+	"[SHOOT IT IF U WANT TO LIVE]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate open again soon]"
+	{
+		"chi"		"** **"
+	}
+	"[I WILL SEE U AGAIN]"
+	{
+		"chi"		"** **"
+	}
+	"[Teleport in 10  secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Stage 2 Complete]"
+	{
+		"chi"		"** **"
+	}
+	"[Stage 3]"
+	{
+		"chi"		"** **"
+	}
+	"[Zombie item spawned]"
+	{
+		"chi"		"** **"
+	}
+	"[Right door open in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Left door open in 15 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Wait for 20 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Wait here]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate will open in 40 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Shoot the black cube]"
+	{
+		"chi"		"** **"
+	}
+	"[Next Gate will open in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Afk teleport in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Path will open in 50 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Teleport Afk in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Wait here for 25 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate will break in 25 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Teleport Enable in 15 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Left Gate will Break in 15 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Teleport will enable in 30 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Zombie will tele in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate will open in 30 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Shoot the white cube]"
+	{
+		"chi"		"** **"
+	}
+	"[Wait for 30 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Zombie will free in 10 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate will open in 25 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Middle gate will open in 20 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[We almost there wait for 25 secs]"
 	{
 		"chi"		"** **"
 	}

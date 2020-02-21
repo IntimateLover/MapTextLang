@@ -40,7 +40,7 @@
 	"***20 SECONDS FOR TELEPORT***"
 	{
 		"chi"		"**坚守 20 秒直至传送。**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"***5 SECONDS FOR TELEPORT***"
 	{
@@ -67,11 +67,12 @@
 	"*** WELL DONE***"
 	{
 		"chi"		"**干得漂亮！成功摧毁3台发电机。**"
+		"DoorCountdown"		"-1"
 	}
 	"***HOLD 25 SECONDS***"
 	{
 		"chi"		"**坚持 25 秒！！！**"
-		"DoorCountdown"		"-1"
+		"DoorCountdown"		"0"
 	}
 	"Warning! Overloading of reactor."
 	{
@@ -84,7 +85,7 @@
 	"***TRUCK LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**距卡车离开还有 20 秒！**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"Contact me at obscuri@obsmail.tk"
 	{

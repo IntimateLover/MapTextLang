@@ -129,6 +129,7 @@
 	"<< survive for 130 seconds >>"
 	{
 		"chi"		">>>生存130秒！<<<"
+		"DoorCountdown"		"130"
 	}
 	"<< wait.... something will happen....>>"
 	{
@@ -203,7 +204,8 @@
 	}
 	"<< The final fence will break in 120 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>最终的栅栏将在120秒后破碎<<<"
+		"DoorCountdown"		"120"
 	}
 	"<< A zombie has picked up speed magic >>"
 	{
