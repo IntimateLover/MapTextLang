@@ -11,6 +11,7 @@
 	"***5050 chance you die***"
 	{
 		"chi"		"**百分之50几率你会死亡**"
+		"DoorCountdown"		"-1"
 	}
 	"***you lose now you are dead***"
 	{
