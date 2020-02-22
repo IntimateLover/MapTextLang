@@ -7,7 +7,7 @@
 	}
 	"STAGE 1 (ryen zone) starting in 60 sec"
 	{
-		"chi"		"**60秒后开启关卡一 (ryen zone)**"
+		"chi"		"**60秒后开启关卡一(ryen zone)**"
 		"DoorCountdown"		"60"
 	}
 	"wall bracks in 40 sec"
@@ -36,7 +36,7 @@
 	}
 	"STAGE 2 (doomnack kingdom) starting in 60 sec"
 	{
-		"chi"		"**60秒后开启关卡二 (doomnack kingdom)**"
+		"chi"		"**60秒后开启关卡二(doomnack kingdom)**"
 		"DoorCountdown"		"60"
 	}
 	"boogie is not done with you"
