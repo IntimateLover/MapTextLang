@@ -3,7 +3,7 @@
 	"Please wait 20 seconds before the door opening"
 	{
 		"chi"		"**请耐心等待 20 秒**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"Welcome ! Map made by Valve and zombified by Obscuri"
 	{
@@ -40,7 +40,7 @@
 	"***20 SECONDS FOR TELEPORT***"
 	{
 		"chi"		"**坚守 20 秒直至传送。**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"0"
 	}
 	"***5 SECONDS FOR TELEPORT***"
 	{
@@ -57,22 +57,22 @@
 	"***DESTROY THE POWER GENERATORS***"
 	{
 		"chi"		"**摧毁3台发电机，从左往右依次按顺序。**（其他人在铁网与铁网形成的通道之间尽可能的拖住僵尸）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***1 REMAINING***"
 	{
 		"chi"		"**还有 1 台发电机未被摧毁。**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** WELL DONE***"
 	{
 		"chi"		"**干得漂亮！成功摧毁3台发电机。**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***HOLD 25 SECONDS***"
 	{
 		"chi"		"**坚持 25 秒！！！**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"0"
 	}
 	"Warning! Overloading of reactor."
 	{
@@ -85,7 +85,7 @@
 	"***TRUCK LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**距卡车离开还有 20 秒！**"
-		"DoorCountdown"		"0"
+		"DoorCountDown"		"0"
 	}
 	"Contact me at obscuri@obsmail.tk"
 	{

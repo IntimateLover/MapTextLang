@@ -2,31 +2,31 @@
 {
 	"***TRAIN CALLED, PLEASE STANDBY***"
 	{
-		"chi"		"** **"
+		"chi"		"**来接我们的火车即将到达**"
 	}
 	"***TRAIN WILL ARRIVE IN 35 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车将在35秒后进站，继续防守！**"
 	}
 	"***FALL BACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退到站台上！**"
 	}
 	"***TRAIN APPROACHING***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车即将进站...**"
 	}
 	"***FALL BACK ONTO THE TRAIN***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车即将启动！快上车！**"
 	}
 	"***TRAIN DEPARTS IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车将在15秒后启程**"
 	}
 	"***ZOMBIE SHORTCUT OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸近路开启**"
 	}
 	"***5***"
 	{
@@ -50,222 +50,225 @@
 	}
 	"***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***"
 	{
-		"chi"		"** **"
+		"chi"		"**快点在下界传送门关闭之前进去！**"
 	}
 	"***NETHER PORTAL CLOSES IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**下界传送门将在10秒后关闭**"
 	}
 	"***PORTAL CLOSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门关闭了**"
 	}
 	"***THE NETHER***"
 	{
-		"chi"		"** **"
+		"chi"		"**下界**"
 	}
 	"***DEFEND FOR 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒**"
 	}
 	"***MIDDLE AND RIGHT PATHS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**中间和右边的路打开了**"
 	}
 	"***DEFEND FOR 20 MORE SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**再防守20秒！**"
 	}
 	"***DOORS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！这些门将在10秒后关闭！**"
 	}
 	"***MOVING ZOMBIES FORWARD***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送僵尸**"
 	}
 	"***DOOR OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"***FALLBACK THROUGH THE PORTAL***"
 	{
-		"chi"		"** **"
+		"chi"		"**从传送门撤退！**"
 	}
 	"***BRIDGES BREAKING IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**桥将在15秒后破碎**"
 	}
 	"***[@: Spawning Wind Entity]***"
 	{
-		"chi"		"** **"
+		"chi"		"**激活风实体！抵抗随机方向的推力！**"
+		"DoorCountDown"		"5"
 	}
 	"***[@: Spawning Fire Entity]***"
 	{
-		"chi"		"** **"
+		"chi"		"**激活火焰实体！快蹲下！**"
+		"DoorCountDown"		"5"
 	}
 	"***DOOR OPENS IN 35 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在35秒后打开**"
 	}
 	"***BOSS HAS BEEN DEFEATED***"
 	{
-		"chi"		"** **"
+		"chi"		"**boss死了！干得漂亮！**"
 	}
 	"***NETHER PORTAL CLOSING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**下界传送门将在10秒后关闭**"
 	}
 	"***WHERE ARE WE?***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是......哪里？**"
 	}
 	"***TITAN ENGINE TEST IN PROGRESS***"
 	{
-		"chi"		"** **"
+		"chi"		"**正在测试泰坦能量！快退回去！**"
 	}
 	"***TITAN ENGINE COOLING DOWN***"
 	{
-		"chi"		"** **"
+		"chi"		"**泰坦能量进入冷却**"
 	}
 	"***ATTEMPTING TO OPEN FACILITY DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**尝试打开设施的大门**"
 	}
 	"***ERROR, UNABLE TO IDENTIFY USER***"
 	{
-		"chi"		"** **"
+		"chi"		"**错误！无法验证使用者！**"
 	}
 	"***OPENING SERVICE PANEL, SHOOT THE WIRES INSIDE***"
 	{
-		"chi"		"** **"
+		"chi"		"**快打开维修面板！然后向里面的电线射击！**"
 	}
 	"***WIRES CUT, ATTEMPTING TO OPEN DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**电线被切断了，再次尝试打开大门**"
 	}
 	"***ACCESS GRANTED, OPENING FACILITY DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**获得访问权限！设施大门正在打开**"
 	}
 	"***ELEVATOR LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在20秒后离开**"
 	}
 	"***TELEPORTING ZOMBIES***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送僵尸**"
 	}
 	"***OPENING SERVER ROOM DOOR IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后打开服务器所在的屋子的大门**"
 	}
 	"***OPENING SERVER ROOM EXIT IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后打开出口！**"
 	}
 	"***CLOSING SERVER ROOM DOOR IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒**"
 	}
 	"***ELEVATOR MALFUNCTION***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯出现故障**"
 	}
 	"***ERROR***"
 	{
-		"chi"		"** **"
+		"chi"		"**错误......无法启动**"
 	}
 	"***ONLY A FEW PEOPLE NEED TO CLIMB THE ELEVATOR SHAFT AND TRIGGER A BUTTON AT THE TOP TO OPEN THE DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**只需要一少部分人爬上电梯井，然后触发一个在上面的开关来打开大门**"
 	}
 	"***UPPER BUTTON TRIGGERED***"
 	{
-		"chi"		"** **"
+		"chi"		"**上方的按钮被触发了**"
 	}
 	"***RAISING BLAST DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**防爆门正在打开......**"
 	}
 	"***TRIGGER THE ELEVATOR AND DEFEND UNTIL IT LEAVES***"
 	{
-		"chi"		"** **"
+		"chi"		"**触发电梯并且在他离开前防守！**"
 	}
 	"***PLAYERS WHO HAVE CLIMBED THE ELEVATOR SHAFT, KEEP DEFENDING***"
 	{
-		"chi"		"** **"
+		"chi"		"**爬上电梯井的人也请继续保持防守！**"
 	}
 	"***ELEVATOR TRIGGERED***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯触发了**"
 	}
 	"***ELEVATOR LEAVES IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在30秒后离开**"
 	}
 	"***OPENING UPPER BLAST DOOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**打开上方的防爆门......**"
 	}
 	"***GET INTO THE AIRLOCK BEFORE IT CLOSES***"
 	{
-		"chi"		"** **"
+		"chi"		"**在气闸关闭前进去！**"
 	}
 	"***FALL BACK ONTO THE SHIP***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退到飞船上！快！**"
 	}
 	"***SOMEONE HAS TO PUSH THE BUTTON NEAR THE HANGAR DOORS TO START THE ACTIVATION SEQUENCE***"
 	{
-		"chi"		"** **"
+		"chi"		"**必须有人去按下机库旁边的按钮才能够激活启动程序！**"
 	}
 	"***OPENING DOORS***"
 	{
-		"chi"		"** **"
+		"chi"		"**正在开门......**"
 	}
 	"***FALL BACK TO THE SHIP***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退到飞船上！**"
 	}
 	"***ZOMBIES ARE BEING TELEPORTED FORWARD***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸传送到前方了**"
 	}
 	"***POWERING ON MAIN ENGINES***"
 	{
-		"chi"		"** **"
+		"chi"		"**接通主电源......**"
 	}
 	"***RETRACTING DOCKING CLAMPS***"
 	{
-		"chi"		"** **"
+		"chi"		"**收回对接板......**"
 	}
 	"***TITAN READY FOR LAUNCH***"
 	{
-		"chi"		"** **"
+		"chi"		"**泰坦已经准备好发射了！**"
 	}
 	"***BRIDGES COLLAPSE IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**桥将在10秒后倒塌！**"
 	}
 	"***MAP CREATED BY MAVIS***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：MAVIS   翻译：Misaka**"
 	}
 	"***FOR GFLS UNOFFICIAL MAPPING CONTEST***"
 	{
-		"chi"		"** **"
+		"chi"		"**这张地图正在GFL服务器进行非官方竞赛**"
 	}
 	"***THANKS FOR PLAYING!***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜通关！感谢游玩！**"
 	}
 	"***[@: Activating Teleport Beam]***"
 	{
-		"chi"		"** **"
+		"chi"		"**激活传送光线！注意不要触碰！**"
+		"DoorCountDown"		"5"
 	}
 }
