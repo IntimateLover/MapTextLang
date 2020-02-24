@@ -167,7 +167,7 @@
 	}
 	"***shoot the dirt***"
 	{
-	        "chi"             "**消灭污垢**"
+	        "chi"             "**清除污秽**"
 	}
 	"***you have spanked aniki***"
 	{
@@ -179,9 +179,9 @@
 	}
 	"***someone has picked up a hotshotgun***"
 	{
-	          "chi"             "**一名人类玩家捡起了高级霰弹枪**"
+	          "chi"             "**一名人类玩家捡起了烈焰霰弹枪**"
 	}
-	"***someone has picked up a shotgun"
+	"***someone has picked up a shotgun***"
 	{
 	           "chi"            "**一名人类玩家捡起了霰弹枪**"
 	}
@@ -195,7 +195,7 @@
 	}
 	"***come my son***"
 	{
-	          "chi"              "**快来和我贴贴**"
+	          "chi"              "**孩子们快到我的怀抱里**"
 	}
 	"***billy has brought you to the one place where you can save japan***"
 	{
