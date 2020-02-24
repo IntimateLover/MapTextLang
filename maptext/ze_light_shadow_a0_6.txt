@@ -108,4 +108,20 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Zombies have escaped. Youve lost ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A zombie learned freeze ***"
+	{
+		"chi"		"** **"
+	}
+	"*** you did it !!! Block have been defeated by you ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A zombie learned burst ***"
+	{
+		"chi"		"** **"
+	}
 }
