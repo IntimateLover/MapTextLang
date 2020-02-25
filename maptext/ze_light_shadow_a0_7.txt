@@ -1,0 +1,115 @@
+"Console_T"
+{
+	"*** Shadow disguises light ***"
+	{
+		"chi"		"**暗影将光伪装了起来**"
+	}
+	"*** block ***"
+	{
+		"chi"		"*****  方块  *****"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"*** Shadow ruled the world a long time ago ***"
+	{
+		"chi"		"**暗影支配了这个世界很久很久**"
+	}
+	"*** ring ***"
+	{
+		"chi"		"*****  光环  *****"
+	}
+	"*** Maybe one day, shadow will be really defeated ***"
+	{
+		"chi"		"**也许有一天，暗影会被彻底的打败**"
+	}
+	"*** 15 seconds left ***"
+	{
+		"chi"		"**等待15秒**"
+	}
+	"*** 20 seconds left ***"
+	{
+		"chi"		"**等待20秒**"
+	}
+	"*** 25 seconds left ***"
+	{
+		"chi"		"**等待25秒**"
+	}
+	"*** Find and touch the block under the suspended block ***"
+	{
+		"chi"		"**找到并且触碰在悬挂着的方块的下面的那个方块**"
+	}
+	"*** 60 seconds left ***"
+	{
+		"chi"		"**防守60秒**"
+	}
+	"*** Camouflage weakens shadow ***"
+	{
+		"chi"		"**伪装削弱了暗影**"
+	}
+	"*** Press both squares at the same time ***"
+	{
+		"chi"		"**同时按下两个方块！**"
+	}
+	"*** People only respect the light ***"
+	{
+		"chi"		"**人们只尊敬光**"
+	}
+	"*** Zombies are faster than you. You lose ***"
+	{
+		"chi"		"**僵尸比人类先碰到了方块！请再次来过吧！**"
+	}
+	"*** A human learned freeze ***"
+	{
+		"chi"		"**一个人类学会了冰冻魔法**"
+	}
+	"*** escape ***"
+	{
+		"chi"		"*****  逃亡  *****"
+	}
+	"*** Block is ready ***"
+	{
+		"chi"		"**方块准备就绪......**"
+	}
+	"*** you did it !!! Block have been defeated by you ***"
+	{
+		"chi"		"**你做到了！方块被你击败了！**"
+	}
+	"*** The most dangerous places are sometimes the safest ***"
+	{
+		"chi"		"**最危险的地方有些时候是最安全的.....**"
+	}
+	"*** You escaped, but the block became shadow ***"
+	{
+		"chi"		"**你逃离了，但是方块被暗影侵蚀了**"
+	}
+	"*** The ring protects the block ***"
+	{
+		"chi"		"**光环保护了方块**"
+	}
+	"*** Now youre facing real shadow ***"
+	{
+		"chi"		"**现在你将要面对真正的暗影**"
+	}
+	"*** shadow will coming soon ***"
+	{
+		"chi"		"**暗影即将到来......**"
+	}
+	"*** Light has been gone for a long time ***"
+	{
+		"chi"		"**光已经离开了很久了**"
+	}
+	"*** Find and touch the block under the suspended block ***"
+	{
+		"chi"		"**找到并触碰在空中悬停的方块下面的那个方块**"
+	}
+	"*** Now zombies are moving faster ***"
+	{
+		"chi"		"**现在僵尸移动的更快了**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"14460"
+	}
+}
