@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&5974"
+		"m_iname"		"ChopperRotator&8831"
 	}
 	"20547"
 	{
@@ -82,13 +82,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82282"
-		"m_iname"		"Ladder&6064"
+		"m_iname"		"Ladder&8402"
 	}
 	"82299"
 	{
 		"enable"		"0"
 		"hammerid"		"82299"
-		"m_iname"		"ProjectileFreezerPhysics&5867"
+		"m_iname"		"ProjectileFreezerPhysics&8467"
 	}
 	"20891"
 	{
@@ -142,7 +142,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82726"
-		"m_iname"		"ProjectilePulverizerPhysics&599"
+		"m_iname"		"ProjectilePulverizerPhysics&818"
 	}
 	"35519"
 	{
@@ -166,7 +166,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82904"
-		"m_iname"		"FirePhysicsCore&6052"
+		"m_iname"		"FirePhysicsCore&8547"
 	}
 	"183393"
 	{
@@ -238,31 +238,31 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&5944"
+		"m_iname"		"FlyingRatPhys&8802"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&5952"
+		"m_iname"		"TowerPhys&8810"
 	}
 	"275194"
 	{
 		"enable"		"0"
 		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&5928"
+		"m_iname"		"KleinerPhys&8800"
 	}
 	"282149"
 	{
 		"enable"		"0"
 		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&5"
+		"m_iname"		"ItemZombieMonsterChickenBreak&8"
 	}
 	"303199"
 	{
 		"enable"		"0"
 		"hammerid"		"303199"
-		"m_iname"		"DoorwayDoor&5934"
+		"m_iname"		"DoorwayDoor&8020"
 	}
 	"313386"
 	{
