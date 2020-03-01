@@ -556,4 +556,52 @@
 	{
 		"chi"		"**僵尸将在1秒后被释放 **"
 	}
+	"### ADMIN HAS SELECTED STAGE: I ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED STAGE: III ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 9 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 8 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 7 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 6 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 4 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### RESTART THE GAME IN 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
 }
