@@ -47,12 +47,12 @@
 	"** 20 seconds left **"
 	{
 		"chi"		"** 还剩20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
 		"chi"		"**洞穴的路将于20秒内开放！ **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
@@ -81,7 +81,7 @@
 	"** CITY's AFK TELEPORT IN 10s **"
 	{
 		"chi"		"**城里的挂机玩家将在10秒内传送 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** CITY's AFK TELEPORT **"
 	{
@@ -90,7 +90,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -127,7 +127,7 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒内打开 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Door will open in 5 seconds **"
 	{
@@ -136,7 +136,7 @@
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要坚守小镇45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -241,7 +241,7 @@
 	"** CITYs AFK TELEPORT IN 10s **"
 	{
 		"chi"		"**城里的挂机玩家将在10秒内传送 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** CITYs AFK TELEPORT **"
 	{
@@ -334,7 +334,7 @@
 	"***CITY AFK TELEPORT IN 10s***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***15 SECOND LEFT***"
 	{
@@ -553,6 +553,10 @@
 		"chi"		"** **"
 	}
 	"***Admin Room Abuse ! Next Difficulty : Extrem ***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY : NORMAL ***"
 	{
 		"chi"		"** **"
 	}
