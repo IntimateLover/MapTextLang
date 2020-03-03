@@ -23,6 +23,7 @@
 	"*** ......... ***"
 	{
 		"chi"		"**找齐了5个水晶！开启隐藏关卡！**"
+		"DoorCountDown"		"-1"
 	}
 	"*** stay for 45 sec ***"
 	{
@@ -31,22 +32,22 @@
 	"*** hurt ***"
 	{
 		"chi"		"**boss放出了伤害区域！注意躲避！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** laser ***"
 	{
 		"chi"		"**boss想一刀削死你！准备跳！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** down ***"
 	{
 		"chi"		"**boss想压死你！快去正中央躲避！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** pull ***"
 	{
 		"chi"		"**boss想把你吸下去！快按住S！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"*** wait for 20 sec ***"
 	{
@@ -55,7 +56,7 @@
 	"*** up ***"
 	{
 		"chi"		"**boss要把你举高高！快去左右两边躲避！**"
-		"DoorCountdown"		"3"
+		"DoorCountDown"		"3"
 	}
 	"sync_version"
 	{
