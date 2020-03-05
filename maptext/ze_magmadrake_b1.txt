@@ -16,9 +16,9 @@
   {
         "chi"              "**攻击炎龙**"
   }
-        "***IT IS 100K HP SHOT IT NOW!**"
+        "***IT IS 100K HP SHOT IT NOW!***"
   {
-        "chi"              "**boss血量很高，集火射击**"
+        "chi"              "**炎龙血量很高，集火射击**"
   }
         "***DEFEND IN MEANTIME DODGE FIREBALLS TOO***"
   {
@@ -50,6 +50,6 @@
   }
         "***JUMP NOW!!!***"
   {
-        "chi"              "**往下跳**"
+        "chi"              "**信仰之跃**"
   }
 }
