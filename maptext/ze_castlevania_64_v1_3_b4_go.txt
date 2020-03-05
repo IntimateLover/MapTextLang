@@ -276,4 +276,16 @@
 	{
 		"syncvalue"		"55580"
 	}
+	"***Kill The Remaining Zombies***"
+	{
+		"chi"		"** **"
+	}
+	"***The Fountain Gates Will Open in 15 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Take The Other Path***"
+	{
+		"chi"		"** **"
+	}
 }
