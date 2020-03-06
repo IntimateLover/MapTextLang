@@ -312,4 +312,10 @@
 		"hammerid"		"874381"
 		"m_iname"		"triggerPaperBreakableEntrance"
 	}
+	"660147"
+	{
+		"enable"		"1"
+		"hammerid"		"660147"
+		"m_iname"		"physboxBahamutBaseHits"
+	}
 }
