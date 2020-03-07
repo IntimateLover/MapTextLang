@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"427"
+	{
+		"enable"		"0"
+		"hammerid"		"427"
+		"m_iname"		"trap1"
+	}
+	"486"
+	{
+		"enable"		"0"
+		"hammerid"		"486"
+		"m_iname"		"bunkerdoor"
+	}
+	"515"
+	{
+		"enable"		"0"
+		"hammerid"		"515"
+		"m_iname"		"outsidebreakdoor"
+	}
+	"543"
+	{
+		"enable"		"0"
+		"hammerid"		"543"
+		"m_iname"		"escapedoor"
+	}
+}

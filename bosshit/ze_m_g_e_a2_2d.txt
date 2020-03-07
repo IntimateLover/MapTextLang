@@ -330,4 +330,34 @@
 		"hammerid"		"110869"
 		"m_iname"		"stage_1_game_o_break1"
 	}
+	"64145"
+	{
+		"enable"		"1"
+		"hammerid"		"64145"
+		"m_iname"		"stage_1_boss_tz_break"
+	}
+	"118426"
+	{
+		"enable"		"0"
+		"hammerid"		"118426"
+		"m_iname"		"stage1_door"
+	}
+	"120955"
+	{
+		"enable"		"0"
+		"hammerid"		"120955"
+		"m_iname"		"stage2_break1"
+	}
+	"121104"
+	{
+		"enable"		"0"
+		"hammerid"		"121104"
+		"m_iname"		"stage2_break5"
+	}
+	"121937"
+	{
+		"enable"		"0"
+		"hammerid"		"121937"
+		"m_iname"		"stage2_game_button"
+	}
 }
