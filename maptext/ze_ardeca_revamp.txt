@@ -95,7 +95,7 @@
 	}
 	"5 Seconds Left!"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"Way is open! Teleporting the delaying fags in 8 secs!"
 	{
@@ -128,11 +128,11 @@
 	}
 	"###$$$%%%LEVEL 2%%%$$$###"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"a player picked up the fan!"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了风扇神器(伤害) **"
 	}
 	"Survive Here for 80 Seconds to win"
 	{
@@ -141,75 +141,75 @@
 	}
 	"###$$$%%%LEVEL 3%%%$$$###"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 	}
 	"Special thanks to mojo for the lava texture"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢mojo的岩浆材质提供 **"
 	}
 	"Elevator will leave in 30 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在30秒后离开 **"
 	}
 	"10 seconds left"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"Boss Fight in 10 Sec"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后开启BOSS战 **"
 	}
 	"The Boss is Dead! Teleporting humans in 5 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送人类 **"
 	}
 	"Teleporting Zombies in 5 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**56秒后传送僵尸 **"
 	}
 	"Hold here for 30 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
 	}
 	"Okay, Keep holding for another 30 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**好吧，还得再守30秒 **"
 	}
 	"Survive here for 30 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**生存30秒 **"
 	}
 	"Teleport Active in 5 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后激活传送 **"
 	}
 	"###$$$%%%LEVEL 4%%%$$$###"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关 **"
 	}
 	"Fall Back! Throwing Overdeffenders in the lava in 10 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！10秒后传送死断者进岩浆 **"
 	}
 	"You have 3 minutes to kill majin boo!"
 	{
-		"chi"		"** **"
+		"chi"		"**你有三分钟的时间去杀死majin boo **"
 	}
 	"You have 2 minutes left!"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩两分钟 **"
 	}
 	"You have 1 minute left!"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩一分钟 **"
 	}
 	"###$$$%%%LEVEL 5%%%$$$###"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关 **"
 	}
 	"MUDA MUDA MUDA MUDA MUDA MUDA"
 	{
-		"chi"		"** **"
+		"chi"		"**MUDA！5秒后激活反伤图片 **"
 	}
 	"MUDA MUDA MUDA MUDA MUDA"
 	{
@@ -225,42 +225,43 @@
 	}
 	"OH MY GOD!!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**天呀！按住后退键抵抗吸力7秒 **"
 	}
 	"OH MY GOD!!!!! OH SHIT!!! OH NO!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**天呀！坚持住！ **"
 	}
 	"OH NO OH MY GOD OH SHIT"
 	{
-		"chi"		"** **"
+		"chi"		"**不要掉下去了啊！！ **"
 	}
 	"BROKEN BB_IU AAAAAAAAAAAAAAAA"
 	{
-		"chi"		"** **"
+		"chi"		"**看正前面躲避冲过来的图片 **"
+				"DoorCountdown"		"4"
 	}
 	"This door might open in 25 Sec"
 	{
-		"chi"		"** **"
+		"chi"		"**门可能在25秒后打开 **"
 	}
 	"This door might open in 5 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**门可能在5秒后打开 **"
 	}
 	"Shrine Door opens in 40 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**圣地大门将在40秒后打开 **"
 	}
 	"Shrine Door opens in 20 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**圣地大门将在20秒后打开 **"
 	}
 	"Shrine Door opens in 3 Seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**圣地大门将在3秒后打开 **"
 	}
 	"Right side is triggered! Path opens in 10 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**右侧已触发！道路将在10秒后打开 **"
 	}
 }
