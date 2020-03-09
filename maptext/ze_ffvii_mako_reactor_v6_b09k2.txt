@@ -19,17 +19,17 @@
 	"< CITY DOOR OPENS IN 30 SECONDS >"
 	{
 		"chi"		"**城市大门还有30秒打开**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< CARGO LIFT STARTS IN 5 SECONDS >"
 	{
 		"chi"		"**中门电梯启动剩下5秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< CITY DOOR OPENS IN 5 SECONDS >"
 	{
 		"chi"		"**城市大门还有5秒打开**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** ICE Materia has been found. **"
 	{
@@ -232,6 +232,50 @@
 		"syncvalue"		"76543"
 	}
 	"< CITY DOOR OPENS IN 40 SECONDS >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED AQUA >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED GRAVITY >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED ICE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED ELECTRO >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED BIO >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED FIRE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED WIND >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED ULTIMA >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED HEAL >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED EARTH >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED BARRIER >"
 	{
 		"chi"		"** **"
 	}

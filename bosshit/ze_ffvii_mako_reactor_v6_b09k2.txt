@@ -468,4 +468,10 @@
 		"hammerid"		"6574138"
 		"m_iname"		"Insane_Bridge_Extra_Pipes"
 	}
+	"5028627"
+	{
+		"enable"		"0"
+		"hammerid"		"5028627"
+		"m_iname"		"Baha_Mat_Laser_Target"
+	}
 }
