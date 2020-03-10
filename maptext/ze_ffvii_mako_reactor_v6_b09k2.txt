@@ -234,6 +234,7 @@
 	"< CITY DOOR OPENS IN 40 SECONDS >"
 	{
 		"chi"		"**城市大门将在40秒后打开 **"
+		"DoorCountdown"		"-1"
 	}
 	"< BAHAMUT CASTED AQUA >"
 	{
