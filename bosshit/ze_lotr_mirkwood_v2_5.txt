@@ -1032,4 +1032,10 @@
 		"hammerid"		"1320087"
 		"m_iname"		"MiniSpider_West"
 	}
+	"799454"
+	{
+		"enable"		"0"
+		"hammerid"		"799454"
+		"m_iname"		"MiniSpider_East"
+	}
 }
