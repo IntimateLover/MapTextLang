@@ -41,11 +41,11 @@
 	}
 	"** Congratulations! You have beaten [EASY] **"
 	{
-		"chi"		"**恭喜你通过了【简单】难度**"
+		"chi"		"**恭喜你通过了[简单]难度**"
 	}
 	"<<< NORMAL >>>"
 	{
-		"chi"		"**关卡：普通（NORMAL）**"
+		"chi"		"**关卡：普通(NORMAL)**"
 	}
 	"** BIO Materia has been found. **"
 	{
@@ -57,11 +57,11 @@
 	}
 	"** Congratulations! You have beaten [NORMAL] **"
 	{
-		"chi"		"**恭喜你通过了【普通】难度**"
+		"chi"		"**恭喜你通过了[普通]难度**"
 	}
 	"<<< HARD >>>"
 	{
-		"chi"		"**关卡：困难（HARD）**"
+		"chi"		"**关卡：困难(HARD)**"
 	}
 	"** ELECTRO Materia has been found. **"
 	{
@@ -169,55 +169,55 @@
 	}
 	"** An administrator has set [ZM] for next round! **"
 	{
-		"chi"		"**关卡选择【僵尸感染（ZM）】**"
+		"chi"		"**关卡选择[僵尸感染(ZM)]**"
 	}
 	"** An administrator has set [INSANE] for next round! **"
 	{
-		"chi"		"**关卡选择【疯狂（INSANE / EX2）】**"
+		"chi"		"**关卡选择[疯狂(INSANE/EX2)]**"
 	}
 	"** An administrator has set [EXTREME] for next round! **"
 	{
-		"chi"		"**关卡选择【极限（EXTREME / EX1）】**"
+		"chi"		"**关卡选择[极限(EXTREME/EX1)]**"
 	}
 	"** An administrator has set [HARD] for next round! **"
 	{
-		"chi"		"**关卡选择【困难（HARD）】**"
+		"chi"		"**关卡选择[困难(HARD)]**"
 	}
 	"** An administrator has set [NORMAL] for next round! **"
 	{
-		"chi"		"**关卡选择【普通（NORMAL）】**"
+		"chi"		"**关卡选择[普通(NORMAL}]**"
 	}
 	"** An administrator has set [EASY] for next round! **"
 	{
-		"chi"		"**关卡选择【简单（EASY）】**"
+		"chi"		"**关卡选择[简单(EASY)]**"
 	}
 	"** Congratulations! You have beaten [HARD] **"
 	{
-		"chi"		"**恭喜你通关了【困难（HARD）】难度**"
+		"chi"		"**恭喜你通关了[困难(HARD)]难度**"
 	}
 	"** Congratulations! You have beaten [EXTREME] **"
 	{
-		"chi"		"**恭喜你通关了【极限（EXTREME / EX1）】难度**"
+		"chi"		"**恭喜你通关了[极限(EXTREME/EX1)]难度**"
 	}
 	"** Congratulations! You have beaten [INSANE] **"
 	{
-		"chi"		"**恭喜你通关了【疯狂（INSANE / EX2）】难度**"
+		"chi"		"**恭喜你通关了[疯狂(INSANE/EX2)]难度**"
 	}
 	"** Congratulations! You have beaten [ZM] **"
 	{
-		"chi"		"**恭喜你通关了【僵尸感染（ZM）】难度**"
+		"chi"		"**恭喜你通关了[僵尸感染(ZM)]难度**"
 	}
 	"<<< EXTREME >>>"
 	{
-		"chi"		"**关卡：极限（EXTREME / EX1）**"
+		"chi"		"**关卡：极限(EXTREME/EX1)**"
 	}
 	"<<< INSANE >>>"
 	{
-		"chi"		"**关卡：疯狂（INSANE / EX2）**"
+		"chi"		"**关卡：疯狂(INSANE/EX2)**"
 	}
 	"< ZOMBIE MODE >"
 	{
-		"chi"		"**关卡：僵尸感染（ZM）**"
+		"chi"		"**关卡：僵尸感染(ZM)**"
 	}
 	"< TRY TO SURVIVE IN THE CITY AREA >"
 	{
@@ -233,50 +233,51 @@
 	}
 	"< CITY DOOR OPENS IN 40 SECONDS >"
 	{
-		"chi"		"** **"
+		"chi"		"**城市大门将在40秒后打开 **"
 	}
 	"< BAHAMUT CASTED AQUA >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了水流(左右躲避) **"
 	}
 	"< BAHAMUT CASTED GRAVITY >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用的黑洞(按S抵抗) **"
 	}
 	"< BAHAMUT CASTED ICE >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了冰冻(往前走，别站最后) **"
 	}
 	"< BAHAMUT CASTED ELECTRO >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了电(跳上栏杆) **"
 	}
 	"< BAHAMUT CASTED BIO >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了毒(往后面2边躲避) **"
 	}
 	"< BAHAMUT CASTED FIRE >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了火(快后退) **"
 	}
 	"< BAHAMUT CASTED WIND >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了风(按W抵抗) **"
 	}
 	"< BAHAMUT CASTED ULTIMA >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了终极(爆炸时在治疗里抵抗) **"
+		"DoorCountdown"		"20"
 	}
 	"< BAHAMUT CASTED HEAL >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了治疗(回复3格血) **"
 	}
 	"< BAHAMUT CASTED EARTH >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了土(换子弹) **"
 	}
 	"< BAHAMUT CASTED BARRIER >"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特使用了屏障(反伤技能，停止开枪) **"
 	}
 }
