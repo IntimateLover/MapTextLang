@@ -195,7 +195,7 @@
 	}
 	"***5 sec***"
 	{
-	        "chi"           "**电梯将在5秒后离开**"
+		"chi"		"**电梯将在5秒后离开**"
 	}
 	"***come my son***"
 	{
@@ -252,5 +252,9 @@
 	"sync_version"
 	{
 		"syncvalue"		"63564"
+	}
+	"***someone has picked up a sowrd***"
+	{
+		"chi"		"** **"
 	}
 }

@@ -342,4 +342,10 @@
 		"hammerid"		"2344482"
 		"m_iname"		"Golem_Phys"
 	}
+	"2380279"
+	{
+		"enable"		"0"
+		"hammerid"		"2380279"
+		"m_iname"		"Gwyn_Phys"
+	}
 }
