@@ -1,0 +1,291 @@
+"Console_T"
+{
+	"*welcome to the world,happy game*"
+	{
+		"chi"		"** **"
+	}
+	"*11s teleport*"
+	{
+		"chi"		"** **"
+	}
+	"*stage 1*"
+	{
+		"chi"		"** **"
+	}
+	"*player pinkup Gravity gun*"
+	{
+		"chi"		"** **"
+	}
+	"*wait for 20 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*player pink up heal gun(cd 70s)*"
+	{
+		"chi"		"** **"
+	}
+	"*player pink speed gun(speed 1.5)*"
+	{
+		"chi"		"** **"
+	}
+	"*player pinkup limit*"
+	{
+		"chi"		"** **"
+	}
+	"*wait for 10 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*speed now*"
+	{
+		"chi"		"** **"
+	}
+	"*wait for 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*hold for 10seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*hold 40seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*wait 25s open teleport*"
+	{
+		"chi"		"** **"
+	}
+	"*need 15s break the wall*"
+	{
+		"chi"		"** **"
+	}
+	"*look the color wall*"
+	{
+		"chi"		"** **"
+	}
+	"*wait 10sec*"
+	{
+		"chi"		"** **"
+	}
+	"*defend 25s*"
+	{
+		"chi"		"** **"
+	}
+	"*you have 210 seconds kill the boss*"
+	{
+		"chi"		"** **"
+	}
+	"*boss use fire*"
+	{
+		"chi"		"** **"
+	}
+	"*boss use laser attack*"
+	{
+		"chi"		"** **"
+	}
+	"*boss use inside push*"
+	{
+		"chi"		"** **"
+	}
+	"*boss use outside push*"
+	{
+		"chi"		"** **"
+	}
+	"*please CTRL!*"
+	{
+		"chi"		"** **"
+	}
+	"*30seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*10seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*5seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*4seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*3seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*you kill the boss,defend 60sec win*"
+	{
+		"chi"		"** **"
+	}
+	"*2seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*1seconds boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*boss use Ultimate*"
+	{
+		"chi"		"** **"
+	}
+	"*stage win*"
+	{
+		"chi"		"** **"
+	}
+	"*look you below*"
+	{
+		"chi"		"** **"
+	}
+	"*stage 2*"
+	{
+		"chi"		"** **"
+	}
+	"*hold there 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"*hold there 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"*hold there 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"*hold here 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*you need alive 120 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*teleport open*"
+	{
+		"chi"		"** **"
+	}
+	"*alive 60seconds or die*"
+	{
+		"chi"		"** **"
+	}
+	"*hold here,20 seaonds break color wood*"
+	{
+		"chi"		"** **"
+	}
+	"*you need play the game.if you life,you win"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"60913"
+	}
+	"*stage 3*"
+	{
+		"chi"		"** **"
+	}
+	"*can you help get out there?*"
+	{
+		"chi"		"** **"
+	}
+	"*the Balrog take my power.*"
+	{
+		"chi"		"** **"
+	}
+	"*if you can help,I will help you too.*"
+	{
+		"chi"		"** **"
+	}
+	"*zombie Shiled pinkup*"
+	{
+		"chi"		"** **"
+	}
+	"*thank you,I help you hold your enemy.*"
+	{
+		"chi"		"** **"
+	}
+	"*AFK teleport in 20 sec*"
+	{
+		"chi"		"** **"
+	}
+	"*thank you help me,but my power lose.*"
+	{
+		"chi"		"** **"
+	}
+	"*you need go to the corners on both sides.*"
+	{
+		"chi"		"** **"
+	}
+	"*and you need find my power.*"
+	{
+		"chi"		"** **"
+	}
+	"*but there have guard,and you need kill he.*"
+	{
+		"chi"		"** **"
+	}
+	"*player pink up heal gun(cd 50s)*"
+	{
+		"chi"		"** **"
+	}
+	"*you find my power,now I help you open the door*"
+	{
+		"chi"		"** **"
+	}
+	"*Heal Magic*"
+	{
+		"chi"		"** **"
+	}
+	"*Fire Magic*"
+	{
+		"chi"		"** **"
+	}
+	"*Thunder Magic*"
+	{
+		"chi"		"** **"
+	}
+	"**run!just only run!**"
+	{
+		"chi"		"** **"
+	}
+	"*laser*"
+	{
+		"chi"		"** **"
+	}
+	"*you kill the Balrog,my power restore.*"
+	{
+		"chi"		"** **"
+	}
+	"*I will help you open the last door.*"
+	{
+		"chi"		"** **"
+	}
+	"*20 seconds open right door.*"
+	{
+		"chi"		"** **"
+	}
+	"*20 seconds open left door.*"
+	{
+		"chi"		"** **"
+	}
+	"*25 seconds teleport open.*"
+	{
+		"chi"		"** **"
+	}
+	"*hold 15 seconds to win*"
+	{
+		"chi"		"** **"
+	}
+	"*Slow Magic*"
+	{
+		"chi"		"** **"
+	}
+	"*Gravity Magic*"
+	{
+		"chi"		"** **"
+	}
+}
