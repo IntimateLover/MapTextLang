@@ -11,7 +11,7 @@
 	"***You think its 20 seconds?ltsactually25 seconds***"
 	{
 		"chi"		"**你认为是20秒吗？其实是25秒**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"***HOLD FOR 30 SECONDS***"
 	{
@@ -20,7 +20,7 @@
 	"***You think its 50 seconds?ltsactually55 seconds***"
 	{
 		"chi"		"**你以为是50秒？其实是55秒**"
-		"DoorCountDown"		"55"
+		"DoorCountdown"		"55"
 	}
 	"***Hold on for 40 seconds***"
 	{
@@ -29,7 +29,7 @@
 	"***Zombies transfer in 8 seconds***"
 	{
 		"chi"		"**僵尸8秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***HOLD FOR 15 SECONDS***"
 	{
@@ -38,7 +38,7 @@
 	"***Zombies transfer in 6 seconds***"
 	{
 		"chi"		"**僵尸6秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***there are 10 seconds left***"
 	{
@@ -63,7 +63,7 @@
 	"***zombies have 10 seconds to teleport***"
 	{
 		"chi"		"**僵尸10秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"sync_version"
 	{
@@ -120,7 +120,7 @@
 	"***zombies have five seconds to teleport***"
 	{
 		"chi"		"**僵尸5秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***you onli have 160 seconds to get out of here***"
 	{
@@ -129,12 +129,12 @@
 	"***the last 30 seconds***"
 	{
 		"chi"		"**最后30秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***zombies have 10 seconds left to teleport***"
 	{
 		"chi"		"**僵尸10秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***the first level:sky***"
 	{
@@ -187,32 +187,32 @@
 	"***boss releases the suction.press S***"
 	{
 		"chi"		"**boss想要把你吸下去，快按住S**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***boss released the body cage***"
 	{
 		"chi"		"**boss开启了尸笼**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***range damage,rest and dodge***"
 	{
 		"chi"		"**注意躲避范围伤害**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***boss releases the thrust,press and hold W***"
 	{
 		"chi"		"**boss想要冲你一发，赶紧按住W**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***boss releases the ultimate***"
 	{
 		"chi"		"**boss要放终极杀人了！快去边缘躲避！**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***boss wants to crush you to death.Get down***"
 	{
 		"chi"		"**boss想要日穿你，赶紧蹲下**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***congratulations on beating boss***"
 	{
@@ -225,7 +225,7 @@
 	"***zombies have eight seconds to teleport***"
 	{
 		"chi"		"**僵尸8秒后传送**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***congratulations on your journey****"
 	{
@@ -250,7 +250,7 @@
 	"***keep zombies alive for 60 seconds***"
 	{
 		"chi"		"**存活60秒！**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"***face the zombie,pay attention to the barrage***"
 	{

@@ -234,11 +234,11 @@
 	}
 	"<< climb to the top and shooting the guard, so that the teleport can be activated >>"
 	{
-		"chi"		">>>爬到塔顶并且设计守卫来触发传送<<<"
+		"chi"		">>>爬到塔顶并射击守卫来激活传送<<<"
 	}
 	"<< Be Careful, only shooting the head of the guard may cause damage >>"
 	{
-		"chi"		">>>注意,只有设计守卫的头部才会造成伤害<<<"
+		"chi"		">>>注意：只有射击守卫的头才会造成有效伤害<<<"
 	}
 	"<< teleport will enable in 40 seconds >>"
 	{
@@ -659,14 +659,18 @@
 	}
 	"<< nades do more damage to Misaka!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>手雷会对Misaka造成更多伤害！请尽量丢到身上！<<<"
 	}
 	"<< Misaka is defeated >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>Misaka炸了<<<"
 	}
 	"<< The boss will be unkillable after 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		">>>切刀崽种25秒后暴毙<<<"
+	}
+	"<< Mapper is in the server >>"
+	{
+		"chi"		">>>地图作者进入了服务器！<<<"
 	}
 }
