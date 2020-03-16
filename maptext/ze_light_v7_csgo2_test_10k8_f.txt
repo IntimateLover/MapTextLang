@@ -1,0 +1,59 @@
+"Console_T"
+{
+	"Welcome!"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 20s (LEFT) <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> FALL BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 20s (RIGHT) <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 35s <<<"
+	{
+		"chi"		"** **"
+	}
+	"Map made by: Kappoochino"
+	{
+		"chi"		"** **"
+	}
+	">>> Name Map: ze_light_v7_csgo2 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Teleport AFK 10s <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Teleport AFK now... <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 35s<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES TP 15s <<<"
+	{
+		"chi"		"** **"
+	}
+	"I think you will lose :)"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES TP <<<"
+	{
+		"chi"		"** **"
+	}
+}
