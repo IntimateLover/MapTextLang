@@ -275,4 +275,24 @@
 	{
 		"syncvalue"		"47202"
 	}
+	"***[@: Raising Zombie Bridges]***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING SERVER ROOM EXIT IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
 }

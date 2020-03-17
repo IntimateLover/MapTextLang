@@ -421,4 +421,8 @@
 	{
 		"chi"		">>>还搁那刷尸笼呢？<<<"
 	}
+	"<< zombie now has low gravity!!! >>"
+	{
+		"chi"		"** **"
+	}
 }
