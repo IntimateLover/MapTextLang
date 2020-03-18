@@ -108,7 +108,7 @@
 	{
 		"chi"		"** 索林：在我们开路前守住这里！**"
 	}
-	"Thorin: Hold here while we clear the path"
+	"Thorin: Hold Here while we clear the path"
 	{
 		"chi"		"** 索林：在我们开路前守住这里！**"
 	}
@@ -200,5 +200,32 @@
 	{
 		"chi"		"**索林：路还有5秒开！**"
 	}
-
+	"Gandalf: This is the forest of Mirkwood.... Be sure to stick to the path..."
+	{
+		"chi"		"** **"
+	}
+	"Thorin: Something Has Knocked Over These Trees, Quickly Now, Climb Over Them!"
+	{
+		"chi"		"** **"
+	}
+	"Thorin: Hold the Bridge, the path ahead is blocked... it will take a moment to clear it..."
+	{
+		"chi"		"** **"
+	}
+	"45s"
+	{
+		"chi"		"** **"
+	}
+	"30s"
+	{
+		"chi"		"** **"
+	}
+	"10s"
+	{
+		"chi"		"** **"
+	}
+	"5s"
+	{
+		"chi"		"** **"
+	}
 }
