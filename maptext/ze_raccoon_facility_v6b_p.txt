@@ -36,4 +36,8 @@
 	{
 		"chi"		"**火车离开了**"
 	}
+	">>PRESS THE BUTTON TO START THE TRAIN<<"
+	{
+		"chi"		"** **"
+	}
 }

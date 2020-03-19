@@ -3,6 +3,8 @@
 	"325672"
 	{
 		"enable"		"1"
+		"hammerid"		"325672"
+		"m_iname"		"porphyra_bullet_box"
 	}
 	"257347"
 	{
@@ -17,10 +19,14 @@
 	"295540"
 	{
 		"enable"		"1"
+		"hammerid"		"295540"
+		"m_iname"		"st3_attuck3_miniboss_bullet_box"
 	}
 	"314872"
 	{
 		"enable"		"1"
+		"hammerid"		"314872"
+		"m_iname"		"erythros_bullet_box"
 	}
 	"594229"
 	{
@@ -105,5 +111,47 @@
 		"enable"		"0"
 		"hammerid"		"472476"
 		"m_iname"		"item_phys_shield1"
+	}
+	"325524"
+	{
+		"enable"		"1"
+		"hammerid"		"325524"
+		"m_iname"		"st3_miniboss_hp_porphyra"
+	}
+	"314753"
+	{
+		"enable"		"1"
+		"hammerid"		"314753"
+		"m_iname"		"st3_miniboss_hp_erythros"
+	}
+	"299557"
+	{
+		"enable"		"1"
+		"hammerid"		"299557"
+		"m_iname"		"st3_miniboss_hp_Kyanos"
+	}
+	"382420"
+	{
+		"enable"		"1"
+		"hammerid"		"382420"
+		"m_iname"		"st3_miniboss_hp_7left"
+	}
+	"382429"
+	{
+		"enable"		"1"
+		"hammerid"		"382429"
+		"m_iname"		"st3_miniboss_hp_7right"
+	}
+	"385878"
+	{
+		"enable"		"0"
+		"hammerid"		"385878"
+		"m_iname"		"7crystal_left"
+	}
+	"382571"
+	{
+		"enable"		"0"
+		"hammerid"		"382571"
+		"m_iname"		"7crystal_right"
 	}
 }

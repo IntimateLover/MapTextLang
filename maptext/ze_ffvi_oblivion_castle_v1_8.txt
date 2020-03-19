@@ -47,7 +47,7 @@
 	"This is kinda thick, Shot it!"
 	{
 		"chi"		"**墙有点厚，拆了它（它会自动碎）**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"Youve Broken it!"
 	{
@@ -124,12 +124,12 @@
 	"Lasers!"
 	{
 		"chi"		"**boss使用了跳刀！注意躲避低刀！**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"Pull!"
 	{
 		"chi"		"**boss使用了吸力！快按住S！**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"Hold for 30 Seconds!"
 	{
@@ -242,5 +242,13 @@
 	"Hold here for 20 seconds!"
 	{
 		"chi"		"**再守个20秒**"
+	}
+	"Ultimate hitting in 20 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Ultimate hitting in 10 seconds!"
+	{
+		"chi"		"** **"
 	}
 }
