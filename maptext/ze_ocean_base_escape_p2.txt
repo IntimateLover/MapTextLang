@@ -6,7 +6,7 @@
 	}
 	"***Find a place to hide and hold here for 45secs until a path is clear!!***"
 	{
-		"chi"		"** 找个地方躲起来，坚持 45 秒直到传送！！ ** 地图翻译 by 色狼领袖 **"
+		"chi"		"** 找个地方躲起来，坚持 45 秒直到传送！！ ** 地图翻译:色狼领袖 **"
 	}
 	"***Path clear. Make your way to the other end of the base before it's too late!***"
 	{
@@ -31,7 +31,6 @@
 	"***Tram leaving in 25secs!***"
 	{
 		"chi"		"** 电车将在 25 秒后离开！ **"
-		"DoorCountDown"		"25"
 	}
 	"***Tram leaving in 5secs!***"
 	{
@@ -64,7 +63,6 @@
 	"***Left Gate opening in 20secs!***"
 	{
 		"chi"		"** 大门将在 20 秒后开启！ **（出门左拐）"
-		"DoorCountDown"		"20"
 	}
 	"***Left Gate opening!***"
 	{
@@ -148,7 +146,6 @@
 	"***Hurry up! We only have to 10secs left!!***"
 	{
 		"chi"		"** 快点！我们只有 10 秒的时间离开！！ **"
-		"DoorCountDown"		"10"
 	}
 	"***CORE OVERLOAD 100%!**"
 	{
@@ -190,7 +187,6 @@
 	"***Right Gate opening in 20secs!***"
 	{
 		"chi"		"** 大门将在 20 秒后开启！ **（出门右拐）"
-		"DoorCountDown"		"20"
 	}
 	"***Right Gate opening!***"
 	{
