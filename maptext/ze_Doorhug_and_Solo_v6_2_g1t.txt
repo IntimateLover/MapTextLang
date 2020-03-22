@@ -86,7 +86,7 @@
 	}
 	"**The wall 1 will open in 50 seconds**"
 	{
-		"chi"		"**1号区域大门50秒后打开**"
+		"chi"		"**一号区域大门50秒后打开**"
 		"DoorCountdown"		"50"
 	}
 	"**FOG MODE** OMG where are lasers?! I cant see them!"
@@ -95,7 +95,7 @@
 	}
 	"**The wall 1 will open in 40 seconds**"
 	{
-		"chi"		"**1号区域大门40秒后打开**"
+		"chi"		"**一号区域大门40秒后打开**"
 		"DoorCountdown"		"40"
 	}
 	"**The final wall will open in 40 seconds**"
@@ -126,6 +126,7 @@
 	"**The wall 2 will open in 50 seconds**"
 	{
 		"chi"		"**2号区域大门50秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"**SOLO MODE** Only the chosen can survive..."
 	{
@@ -167,6 +168,7 @@
 	"**The wall 2 will open in 40 seconds**"
 	{
 		"chi"		"**2号区域大门40秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"**Show those niggers that they should kiss your feets**"
 	{

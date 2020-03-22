@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&8831"
+		"m_iname"		"ChopperRotator&6713"
 	}
 	"20547"
 	{
@@ -82,13 +82,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82282"
-		"m_iname"		"Ladder&8402"
+		"m_iname"		"Ladder&6688"
 	}
 	"82299"
 	{
 		"enable"		"0"
 		"hammerid"		"82299"
-		"m_iname"		"ProjectileFreezerPhysics&8467"
+		"m_iname"		"ProjectileFreezerPhysics&6581"
 	}
 	"20891"
 	{
@@ -142,7 +142,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82726"
-		"m_iname"		"ProjectilePulverizerPhysics&818"
+		"m_iname"		"ProjectilePulverizerPhysics&645"
 	}
 	"35519"
 	{
@@ -166,13 +166,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82904"
-		"m_iname"		"FirePhysicsCore&8547"
+		"m_iname"		"FirePhysicsCore&6587"
 	}
 	"183393"
 	{
 		"enable"		"1"
 		"hammerid"		"183393"
-		"m_iname"		"FaceBossSideWalls&1550"
+		"m_iname"		"FaceBossSideWalls&6162"
 	}
 	"144213"
 	{
@@ -190,13 +190,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"139169"
-		"m_iname"		"HorizontalBloodclotBrush&7901"
+		"m_iname"		"HorizontalBloodclotBrush&6179"
 	}
 	"139200"
 	{
 		"enable"		"0"
 		"hammerid"		"139200"
-		"m_iname"		"VerticalBloodclotBrush&7906"
+		"m_iname"		"VerticalBloodclotBrush&6172"
 	}
 	"30033"
 	{
@@ -238,31 +238,31 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&8802"
+		"m_iname"		"FlyingRatPhys&6718"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&8810"
+		"m_iname"		"TowerPhys&6726"
 	}
 	"275194"
 	{
 		"enable"		"0"
 		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&8800"
+		"m_iname"		"KleinerPhys&6704"
 	}
 	"282149"
 	{
 		"enable"		"0"
 		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&8"
+		"m_iname"		"ItemZombieMonsterChickenBreak&6"
 	}
 	"303199"
 	{
 		"enable"		"0"
 		"hammerid"		"303199"
-		"m_iname"		"DoorwayDoor&8020"
+		"m_iname"		"DoorwayDoor&6612"
 	}
 	"313386"
 	{
