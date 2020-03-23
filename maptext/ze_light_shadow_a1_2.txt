@@ -150,15 +150,15 @@
 	}
 	"*** Ring has noticed us ***"
 	{
-		"chi"		"** **"
+		"chi"		"**光环注意到我们了**"
 	}
 	"*** A zombie learned freeze ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一个僵尸学会了冰冻魔法**"
 	}
 	"*** This is the temple of light, but it has been occupied by the core ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这里本是光之殿，但它被核心占据了**"
 	}
 	"*** Touch the light block to destroy the core ***"
 	{
@@ -166,71 +166,71 @@
 	}
 	"*** Somethings wrong ***"
 	{
-		"chi"		"** **"
+		"chi"		"**好像有什么东西出错了**"
 	}
 	"*** 5 seconds left ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒**"
 	}
 	"*** The core will use the power of light to defeat us ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核心想要用光的能量来击败我们**"
 	}
 	"*** Now zombies are coming faster ***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在僵尸将会更快的到达**"
 	}
 	"*** Beat it! False light! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**打败它！虚假的光！**"
 	}
 	"*** A zombie learned burst ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一个僵尸学会了潜能爆发**"
 	}
 	"*** The core run away,But we found another way ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核心逃走了，但是我们找到了另一条路**"
 	}
 	"*** 10 seconds left ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒**"
 	}
 	"*** Core has noticed us ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核心注意到我们了**"
 	}
 	"*** zombie is coming,retreat ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了！撤退！**"
 	}
 	"*** you did it !!! Core have been defeated by you,but you still have to resist zombie attacks until the end ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了！核心被你击败了！但是你还需要继续抵挡僵尸直到最后！**"
 	}
 	"*** 27 seconds left ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩27秒**"
 	}
 	"*** You escaped, but the core became shadow ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你逃离了，但是核心暗影化了**"
 	}
 	"*** The ring protects core ***"
 	{
-		"chi"		"** **"
+		"chi"		"**光环保护了核心**"
 	}
 	"*** You need to survive with the power of light ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要用光的能量来生存**"
 	}
 	"*** The power of light protects you. Now youre full of hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"**光之能量保护了你，现在你满状态了**"
 	}
 	"*** Zombies are faster than us. We lose ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸比我们快...GG**"
 	}
 	"*** Dont let zombies get the power of light. Hold here ***"
 	{
