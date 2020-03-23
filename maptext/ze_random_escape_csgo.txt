@@ -6,7 +6,7 @@
 	}
 	"***LEVEL -- BOX WITH A LIGHT IN IT***"
 	{
-		"chi"		"**当前关卡：光之盒**"
+		"chi"		"**当前关卡：最初的小盒**"
 	}
 	"***Hold off the until youre teleport to 1 of the 12 maps!***"
 	{
@@ -18,7 +18,7 @@
 	}
 	"***By the way...zombie should be spawning soon...so pick a corner and good luck!***"
 	{
-		"chi"		"**僵尸快要出生了！找个角落狗起来！**"
+		"chi"		"**快要选择母体了！找个角落狗起来！**"
 	}
 	"***3***"
 	{
@@ -80,7 +80,7 @@
 	}
 	"***C4 set to go off in 30secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4被设置好了！30秒后爆炸！**"
 	}
 	"***Defend for 35secs as the Magic Carpet...refuels?***"
 	{
@@ -176,7 +176,7 @@
 	}
 	"***Jump and be careful not to hit to many blockers!***"
 	{
-		"chi"		"**小心的往前跳！要是装了太多方块你就炸了！**"
+		"chi"		"**小心的往前跳！要是撞了太多方块你就炸了！**"
 	}
 	"***LEVEL -- FAIL NADE***"
 	{
@@ -201,7 +201,7 @@
 	}
 	"***Pipe B block destroyed!***"
 	{
-		"chi"		"** **"
+		"chi"		"**B管道炸了！**"
 	}
 	"***Pipe A block destroyed!***"
 	{
@@ -233,7 +233,7 @@
 	}
 	"***Volcano erupting!***"
 	{
-		"chi"		"** **"
+		"chi"		"**火山喷发，GG**"
 	}
 	"***LEVEL -- GREEN HILL ESCAPE***"
 	{
@@ -245,55 +245,55 @@
 	}
 	"***Tunnel path will open in 15secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**隧道将在15秒后打开**"
 	}
 	"***Tunnel path is open!***"
 	{
-		"chi"		"** **"
+		"chi"		"**隧道打开了！走！**"
 	}
 	"***Tunnel path will open!***"
 	{
-		"chi"		"** **"
+		"chi"		"**隧道将要打开！请继续防守！**"
 	}
 	"***Jump on the Spring and go on the Loop !***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳上弹簧！**"
 	}
 	"***C4 set to go off in 10secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4将在10秒后爆炸**"
 	}
 	"***LEVEL -- COUCH ESCAPE***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：万恶的沙发**"
 	}
 	"***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**将沙发射击到标记的盒子上才能开路！你需要在180秒内完成！**"
 	}
 	"***If the world is going to end at least youll have a nice seat!***"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你不能按时完成，至少你还可以在临死前有一个好的座位**"
 	}
 	"***Zombie barrier breaking in 15secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**尸笼15秒后打开！**"
 	}
 	"***Hurry under! The giant crate will fall in 10secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**快下去！大箱子10秒后就要掉下来了！**"
 	}
 	"***90secs left!***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩90秒！**"
 	}
 	"***Goal reached!***"
 	{
-		"chi"		"** **"
+		"chi"		"**到达终点！**"
 	}
 	"***Score will finish being added in 30secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后会给到达终点的人加分！**"
 	}
 	"***LEVEL -- INTERSTELLAR ESCAPE 9***"
 	{
@@ -317,7 +317,7 @@
 	}
 	"***Escape the Rusty Temple Ruins before the curse spreads to the exit!***"
 	{
-		"chi"		"**在法老的诅咒蔓延到终点前逃离这作神庙遗迹！**"
+		"chi"		"**在法老的诅咒蔓延到终点前逃离这座神庙遗迹！**"
 	}
 	"***Be careful as the zombies will use traps to send you to the zombie cage!***"
 	{
@@ -361,11 +361,11 @@
 	}
 	"***Gate open!***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开启！**"
 	}
 	"***Gavitiy outside is beening warped!? Make you way to the escape pod at the end of the bridge!***"
 	{
-		"chi"		"**外面的重力扭曲了！？去桥尽头的逃生舱**"
+		"chi"		"**外面的重力扭曲了！？去桥尽头的逃生舱！**"
 	}
 	"***Escape vehicle leaving in 10secs!***"
 	{
@@ -393,7 +393,7 @@
 	}
 	"***GET INTO THE ESCAPE POD!!***"
 	{
-		"chi"		"**快跳上最后的逃生点！**"
+		"chi"		"**快跳上最后的逃生舱！**"
 	}
 	"***3!!***"
 	{
@@ -445,31 +445,31 @@
 	}
 	"***Time Bonus 5000!***"
 	{
-		"chi"		"** **"
+		"chi"		"**时间奖励5000分！**"
 	}
 	"***Ring Bonus 4100!***"
 	{
-		"chi"		"** **"
+		"chi"		"**光环奖励4100分！**"
 	}
 	"***Score 9100!***"
 	{
-		"chi"		"** **"
+		"chi"		"**总计9100分！**"
 	}
 	"***Pass the Goal within 10secs to win!***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒内穿过终点来获得胜利！**"
 	}
 	"***Final barrier will break in 15secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的障碍将在15秒后破碎！**"
 	}
 	"***Final barrier open! 5secs to fall back!***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的障碍破碎了！5秒内撤退！**"
 	}
 	"***Survive for 15secs***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存15秒**"
 	}
 	"***Curse has reached the Monas hall!***"
 	{
