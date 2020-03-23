@@ -36,10 +36,10 @@
 		"chi"		"**雪橇在5秒后离开 **"
 		"DoorCountdown"		"0"
 	}
-	"***Elevator leaving in 20 seconds***"
+	"***ELEVATOR LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"**电梯15秒后离开 **"
-		"DoorCountdown"		"15"
+		"chi"		"**电梯20s后离开**"
+		"DoorCountdown"		"25"
 	}
 	"***5 seconds left***"
 	{
@@ -74,7 +74,7 @@
 	{
 		"chi"		"**它很快就要爆炸了 **"
 	}
-	"***Hold for 15 seconds***"
+	"***HOLD FOR 15 SECONDS***"
 	{
 		"chi"		"**坚持15秒 **"
 		"DoorCountdown"		"15"
@@ -109,7 +109,7 @@
 		"chi"		"**电梯5秒后离开 **"
 		"DoorCountdown"		"5"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"**坚持20秒 **"
 		"DoorCountdown"		"20"
@@ -173,7 +173,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Hold for 30 seconds***"
+	"***HOLD FOR 30 SECONDS***"
 	{
 		"chi"		"**坚持30秒 **"
 		"DoorCountdown"		"30"
@@ -266,6 +266,46 @@
 		"chi"		"**僵尸上来了你失败了!**"
 	}
 	"*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"94405"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras  Fixed with Moltard  Ported by Wild Banan <<"
+	{
+		"chi"		"** **"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"** **"
+	}
+	"***Find a way to open the door of the station***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator leaving in 7 seconds***"
 	{
 		"chi"		"** **"
 	}
