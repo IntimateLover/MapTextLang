@@ -2,7 +2,7 @@
 {
 	"[Wait here for 26 secs]"
 	{
-		"DoorCountdown"		"26"
+		"DoorCountDown"		"26"
 	}
 	"sync_version"
 	{
@@ -357,6 +357,22 @@
 		"chi"		"** **"
 	}
 	"[Door will open in 25 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[You have 160 secs to find all cubes and destroy them]"
+	{
+		"chi"		"** **"
+	}
+	"[Wait here for 20 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Wait for 25 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[Gate will open in 15 secs]"
 	{
 		"chi"		"** **"
 	}
