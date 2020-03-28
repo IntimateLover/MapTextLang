@@ -4,13 +4,13 @@
 	{
 		"enable"		"1"
 		"hammerid"		"124050"
-		"m_iname"		"EyeBoss&7850"
+		"m_iname"		"EyeBoss&3832"
 	}
 	"346300"
 	{
 		"enable"		"0"
 		"hammerid"		"346300"
-		"m_iname"		"NPC_Standard_Phys&7861"
+		"m_iname"		"NPC_Standard_Phys&3838"
 	}
 	"127952"
 	{
@@ -22,7 +22,7 @@
 	{
 		"enable"		"1"
 		"hammerid"		"136911"
-		"m_iname"		"EyeBossSpecialHitbox&7850"
+		"m_iname"		"EyeBossSpecialHitbox&3832"
 	}
 	"568972"
 	{
