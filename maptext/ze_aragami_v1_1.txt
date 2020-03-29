@@ -43,7 +43,7 @@
 	">>>AFK teleport in 10s<<<"
 	{
 		"chi"		">>>挂机僵尸10秒后传送<<<"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">>>Climb up the ladder<<<"
 	{
@@ -76,7 +76,7 @@
 	">>>AFK teleport in 15s<<<"
 	{
 		"chi"		">>>挂机僵尸15秒后传送<<<"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	">>>The path will be cleared in 50s<<<"
 	{
@@ -109,5 +109,17 @@
 	">>>Thanks for playing<<<"
 	{
 		"chi"		">>>恭喜通关~<<<"
+	}
+	">>>ze_aragami_v1_1<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>......<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>................<<<"
+	{
+		"chi"		"** **"
 	}
 }
