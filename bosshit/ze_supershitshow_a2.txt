@@ -70,7 +70,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&6713"
+		"m_iname"		"ChopperRotator&6837"
 	}
 	"20547"
 	{
@@ -82,13 +82,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"82282"
-		"m_iname"		"Ladder&6688"
+		"m_iname"		"Ladder&6757"
 	}
 	"82299"
 	{
 		"enable"		"0"
 		"hammerid"		"82299"
-		"m_iname"		"ProjectileFreezerPhysics&6581"
+		"m_iname"		"ProjectileFreezerPhysics&6560"
 	}
 	"20891"
 	{
@@ -238,13 +238,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&6718"
+		"m_iname"		"FlyingRatPhys&6769"
 	}
 	"203961"
 	{
 		"enable"		"0"
 		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&6726"
+		"m_iname"		"TowerPhys&6777"
 	}
 	"275194"
 	{
@@ -286,37 +286,37 @@
 	{
 		"enable"		"0"
 		"hammerid"		"273335"
-		"m_iname"		"george_cades_toilet_box&5579"
+		"m_iname"		"george_cades_toilet_box&6743"
 	}
 	"273329"
 	{
 		"enable"		"0"
 		"hammerid"		"273329"
-		"m_iname"		"george_cades_shelf_box&5588"
+		"m_iname"		"george_cades_shelf_box&6702"
 	}
 	"273398"
 	{
 		"enable"		"0"
 		"hammerid"		"273398"
-		"m_iname"		"george_cades_vendy_box&5591"
+		"m_iname"		"george_cades_vendy_box&6751"
 	}
 	"273332"
 	{
 		"enable"		"0"
 		"hammerid"		"273332"
-		"m_iname"		"george_cades_sandbag_box&5595"
+		"m_iname"		"george_cades_sandbag_box&6753"
 	}
 	"273338"
 	{
 		"enable"		"0"
 		"hammerid"		"273338"
-		"m_iname"		"george_cades_haybale_box&5601"
+		"m_iname"		"george_cades_haybale_box&6712"
 	}
 	"273326"
 	{
 		"enable"		"0"
 		"hammerid"		"273326"
-		"m_iname"		"george_cades_bench_box&5603"
+		"m_iname"		"george_cades_bench_box&6745"
 	}
 	"273723"
 	{
@@ -328,7 +328,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"200904"
-		"m_iname"		"MissilePhysbox&6065"
+		"m_iname"		"MissilePhysbox&6566"
 	}
 	"281426"
 	{

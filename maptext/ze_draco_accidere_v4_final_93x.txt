@@ -449,4 +449,52 @@
 	{
 		"chi"		"**传送将在1秒后到来**"
 	}
+	"<< SHOOT THE DONAUGHT >>>"
+	{
+		"chi"		"** **"
+	}
+	"<< SHOOT THE DONAUGHT>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<YOU HAVE 30 SEC TO GET TO THE CORNER>>"
+	{
+		"chi"		"** **"
+	}
+	"<<SHOOT ZOMBIES OFF THE PLATFORM>>"
+	{
+		"chi"		"** **"
+	}
+	"<< LEVEL 1 LASER  ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LEVEL 2 LASER ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LEVEL 3 LASER ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LEVEL 4 LASER ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LEVEL 5 LASER ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LEVEL 6 LASER ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LEVEL 7 LASER ENABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<BOSSFIGHT IN 15 SECONS>>"
+	{
+		"chi"		"** **"
+	}
 }
