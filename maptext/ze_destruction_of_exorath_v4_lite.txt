@@ -35,6 +35,7 @@
 	"** THE GATE IN SECTION A5 WILL BREAK IN 10 SECONDS **"
 	{
 		"chi"		"**A5大门将会在10秒后打破**"
+		"DoorCountdown"		"10"
 	}
 	"** THE GATE IN SECTION A5 WILL BREAK IN 5 SECONDS **"
 	{
@@ -48,7 +49,6 @@
 	{
 		"chi"		"**一号电车将会在30秒后离开**"
 		"DoorCountdown"		"30"
-		"ico"		"icon_tip"
 	}
 	"** EVERYBODY COVER TRAM 1 **"
 	{
@@ -69,6 +69,7 @@
 	"** COVER SECTION B4 FOR 15 SECONDS **"
 	{
 		"chi"		"**防守B4大门15秒**"
+		"DoorCountdown"		"15"
 	}
 	"** THE GATE IN SECTION B4 WILL BREAK IN 10 SECONDS **"
 	{
@@ -82,7 +83,6 @@
 	{
 		"chi"		"**电梯将会在30秒后启动**"
 		"DoorCountdown"		"30"
-		"ico"		"icon_tip"
 	}
 	"** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
 	{
@@ -178,8 +178,6 @@
 	"** THE TRAIN WILL LEAVE IN 50 SECONDS **"
 	{
 		"chi"		"**火车将在50秒后离开**"
-		"DoorCountdown"		"50"
-		"ico"		"icon_tip"
 	}
 	"** THE TRAIN WILL LEAVE IN 40 SECONDS **"
 	{
@@ -264,6 +262,7 @@
 	"** THE GATE IN SECTION A3 WILL BREAK IN 10 SECONDS **"
 	{
 		"chi"		"**A3大门将会在10秒后打破**"
+		"DoorCountdown"		"10"
 	}
 	"** THE GATE IN SECTION A3 WILL BREAK IN 5 SECONDS **"
 	{
@@ -277,7 +276,6 @@
 	{
 		"chi"		"**二号电车将会在30秒后离开**"
 		"DoorCountdown"		"30"
-		"ico"		"icon_tip"
 	}
 	"** EVERYBODY COVER TRAM 2 **"
 	{
@@ -298,6 +296,7 @@
 	"** COVER SECTION B7 FOR 15 SECONDS **"
 	{
 		"chi"		"**防守B7大门15秒**"
+		"DoorCountdown"		"15"
 	}
 	"** THE GATE IN SECTION B7 WILL BREAK IN 10 SECONDS **"
 	{
@@ -334,8 +333,6 @@
 	"** NUKE ACTIVATED ** DEFEND THE PYRAMID FOR 40 SECONDS **"
 	{
 		"chi"		"**核弹已激活，防守金字塔40秒**"
-		"DoorCountdown"		"40"
-		"ico"		"icon_tip"
 	}
 	"** NUKE WILL BE DROPPED IN 30 SECONDS **"
 	{
@@ -377,7 +374,6 @@
 	{
 		"chi"		"**一号、二号电车将会在30秒后同时离开**"
 		"DoorCountdown"		"30"
-		"ico"		"icon_tip"
 	}
 	"** EVERYBODY COVER TRAM 1 AND 2 **"
 	{
@@ -403,11 +399,10 @@
 	"** THE TELEPORTER WILL BE ACTIVATED IN 40 SECONDS **"
 	{
 		"chi"		"**传送门将会在40秒后打开**"
-		"DoorCountdown"		"40"
 	}
 	"** MINI NUKE HAS BEEN PICKED UP **"
 	{
-		"chi"		"**一位玩家拾起了迷你核弹（请听指挥）**"
+		"chi"		"**一位玩家拾起了迷你核弹（只对BOSS有效）**"
 	}
 	"** HEALTH BOX HAS BEEN PICKED UP **"
 	{
@@ -444,8 +439,6 @@
 	"** FLYING PLATE WILL RAISE UP IN 40 SECONDS **"
 	{
 		"chi"		"**飞行板块将会在40秒后飞起**"
-		"DoorCountdown"		"40"
-		"ico"		"icon_tip"
 	}
 	"** FLYING PLATE WILL RAISE UP IN 20 SECONDS **"
 	{
@@ -546,7 +539,6 @@
 	"** PELICAN WILL LEAVE IN 50 SECONDS **"
 	{
 		"chi"		"**坚守50秒**"
-		"DoorCountdown"		"50"
 	}
 	"** PELICAN WILL LEAVE IN 30 SECONDS **"
 	{
@@ -590,7 +582,7 @@
 	}
 	"** 1 MORE SLOT HAS BEEN UNLOCKED IN THE VENT **"
 	{
-		"chi"		"**通风管道解锁了更多的通道**"
+		"chi"		"**打BOSS时尸笼可以多进入一名玩家**"
 	}
 	"** ZOMBIES DETECTED ON FLYING PLATE **"
 	{
@@ -614,24 +606,23 @@
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 20 SECONDS **"
 	{
-		"chi"		"** **"
-		"DoorCountdown"		"20"
+		"chi"		"**所有岩石都将在20秒后破碎 **"
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 15 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有岩石都将在15秒后破碎 **"
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**所以岩石都将在10秒后破碎 **"
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有岩石都将在5秒后破碎 **"
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 ARE BROKEN ** FALL BACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有岩石已破碎，快撤退。 **"
 	}
 	"** EXORATH IS TAKEN HIS FINAL REVENGE ** BE PREPARED FOR A FIGHT **"
 	{
@@ -639,7 +630,7 @@
 	}
 	"** SONG PLAYING: DEUS EX OST - SARIF BATTLE THEME **"
 	{
-		"chi"		"** **"
+		"chi"		"**正在播放的音乐：DEUS EX OST - SARIF BATTLE THEME **"
 	}
 	"** SOMETHING WENT WRONG ** ACTIVATING MASSIVE NUKE **"
 	{
@@ -647,23 +638,23 @@
 	}
 	"** SONG PLAYING: TWO STEPS FROM HELL - FATAL FURY **"
 	{
-		"chi"		"** **"
+		"chi"		"**正在播放的音乐：TWO STEPS FROM HELL - FATAL FURY **"
 	}
 	"** THE HELICOPTER WILL START IN 35 SECONDS **"
 	{
-		"chi"		"**直升机将于35秒后起飞**"
+		"chi"		"**直升机将于35秒后启动**"
 	}
 	"** THE HELICOPTER WILL START IN 25 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将于25秒后启动 **"
 	}
 	"** THE HELICOPTER WILL START IN 15 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将于15秒后启动 **"
 	}
 	"** THE HELICOPTER WILL START IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将于10秒后启动 **"
 	}
 	"** THE HELICOPTER IS ON HIS WAY **"
 	{
@@ -675,15 +666,15 @@
 	}
 	"** THE HELICOPTER IS LEAVING IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将于5秒后起飞 **"
 	}
 	"** THE HELICOPTER IS LEAVING NOW ** GET IN **"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机即将起飞，快进来 **"
 	}
 	"** HUMANS WON ** YOU ROCK **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类获胜！恭喜~ **"
 	}
 	"** ALL LEVELS COMPLETE ** ACTIVATING BONUS **"
 	{
@@ -691,127 +682,127 @@
 	}
 	"** MAP MADE BY PURPZZ ** THANKS FOR PLAYING **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:PURPZZ 感谢游玩本图 **"
 	}
 	"** BONUS MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**奖励关卡 **"
 	}
 	"** SONG PLAYING: HYBRID - KEEP IT IN THE FAMILY **"
 	{
-		"chi"		"** **"
+		"chi"		"**正在播放的音乐：HYBRID - KEEP IT IN THE FAMILY **"
 	}
 	"** GET READY TO VOTE **"
 	{
-		"chi"		"** **"
+		"chi"		"**准备好投票 **"
 	}
 	"** WELCOME TO THE VOTING SECTION **"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到投票环节 **"
 	}
 	"** STAND ON THE PLATFORM FROM YOUR SELECTED CHOICE **"
 	{
-		"chi"		"** **"
+		"chi"		"**站在你想玩的关卡前的平台上来投票 **"
 	}
 	"** THE MODE THAT WINS WILL BE PLAYED UNTIL MAP CHANGE **"
 	{
-		"chi"		"** **"
+		"chi"		"**下回合将会是获票数最多的关卡 **"
 	}
 	"** VOTING ENABLED **"
 	{
-		"chi"		"** **"
+		"chi"		"**投票功能开启 **"
 	}
 	"** VOTING COMPLETE **"
 	{
-		"chi"		"** **"
+		"chi"		"**投票完成 **"
 	}
 	"** IMPOSSIBLE MODE SELECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择了不可能的难度(第五关) **"
 	}
 	"** MASSIVE NUKE IN 30 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后核爆 **"
 	}
 	"** ZR ENABLED **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸可以抓人了 **"
 	}
 	"** MASSIVE NUKE IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后核爆 **"
 	}
 	"** MASSIVE NUKE IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后核爆 **"
 	}
 	"** MASSIVE NUKE IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后核爆 **"
 	}
 	"** IMPOSSIBLE MODE COMPLETE **"
 	{
-		"chi"		"** **"
+		"chi"		"**不可能难度完成 **"
 	}
 	"** BONUS ACTIVE ** RELOADING IMPOSSIBLE MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**奖励激活，重载不可能难度(第五关) **"
 	}
 	"** ZOMBIES DETECTED IN HELICOPTER **"
 	{
-		"chi"		"** **"
+		"chi"		"**飞机上检测到僵尸,GG **"
 	}
 	"** IMPOSSIBLE MODE FAILED ** RESTARTING **"
 	{
-		"chi"		"** **"
+		"chi"		"**不可能难度失败，再来一局 **"
 	}
 	"** 3 MORE SLOTS HAVE BEEN UNLOCKED IN THE VENT **"
 	{
-		"chi"		"** **"
+		"chi"		"**打BOSS时尸笼可以多进入三名玩家 **"
 	}
 	"** 2 MORE SLOTS HAVE BEEN UNLOCKED IN THE VENT **"
 	{
-		"chi"		"** **"
+		"chi"		"**打BOSS时尸笼可以多进入二名玩家 **"
 	}
 	"**WALL BREAKING IN 20 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁将在20秒后破碎 **"
 	}
 	"***DOORS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 40 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有岩石都将在40秒后破碎 **"
 	}
 	"** EXTREME MODE SELECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择了极限难度(第三关) **"
 	}
 	"** RANDOM SELECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择了下关随机关卡模式 **"
 	}
 	"** CHOOSING RANDOM MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**激活随机模式 **"
 	}
 	"** HARD MODE SELECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择了困难难度(第二关) **"
 	}
 	"** EXTREME MODE COMPLETE **"
 	{
-		"chi"		"** **"
+		"chi"		"**极限难度已完成 **"
 	}
 	"** BONUS ACTIVE ** RELOADING EXTREME MODE **"
 	{
-		"chi"		"** **"
+		"chi"		"**奖励激活，重载极限难度 **"
 	}
 	"** EASY MODE SELECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择了简单难度(第一关) **"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -819,6 +810,6 @@
 	}
 	"** GODMODE SELECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择了上帝难度(第四关) **"
 	}
 }
