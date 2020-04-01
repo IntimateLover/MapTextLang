@@ -39,7 +39,7 @@
 	">> LEVEL: DEAD TREE <<"
 	{
 		"chi"		"**【LV1/EX1】关卡：死亡大树**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> PLAYER HAS PICKED UP WATER <<"
 	{
@@ -161,7 +161,7 @@
 	">> LEVEL: CAVES <<"
 	{
 		"chi"		"**【LV2/EX2】关卡：地洞**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** Defend until the path is clear ***"
 	{
@@ -170,7 +170,7 @@
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
 		"chi"		"**地雷已被拾取，注意只有6次使用机会**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** The path is open! RUN!! ***"
 	{
@@ -195,7 +195,7 @@
 	">> ALL 6 MINES USED <<"
 	{
 		"chi"		"**6个地雷都被用完了**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
 	{
@@ -224,7 +224,7 @@
 	">> LEVEL: POKEBALL <<"
 	{
 		"chi"		">>>【Lv3EX3】关卡：宝可梦<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
@@ -293,7 +293,7 @@
 	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
 	{
 		"chi"		"**在45秒之前干掉它**"
-		"DoorCountdown"		"45"
+		"DoorCountDown"		"45"
 	}
 	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
 	{
@@ -326,12 +326,12 @@
 	">> 2 MORE RUNGS TO FIND <<"
 	{
 		"chi"		"**还有2个木板**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> 1 MORE RUNG TO FIND <<"
 	{
 		"chi"		"**还有1个木板**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> ALL THE RUNGS ARE FOUND <<"
 	{
@@ -372,7 +372,7 @@
 	"*** HOLD WHILE WE OPEN THE WAY ***"
 	{
 		"chi"		"**守到我们把道路弄开**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	">> ITS A DEAD END !! <<"
 	{
@@ -389,7 +389,7 @@
 	">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<"
 	{
 		"chi"		"**守住，别让僵尸出洞**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	">> THE MOLE IS COMING BACK ! WATCH OUT !! <<"
 	{
@@ -590,7 +590,7 @@
 	"-- [ZOMBIES] Find Satans Powers to make him stronger --"
 	{
 		"chi"		"**【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<"
 	{
@@ -639,7 +639,7 @@
 	"** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **"
 	{
 		"chi"		"**5个僵尸已经江生命续给了撒旦，赶紧苟起**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">> SATAN IS ESCAPING !! <<"
 	{
