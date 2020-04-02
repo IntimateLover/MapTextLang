@@ -8,7 +8,6 @@
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
 		"chi"		"**第一章：帕拉米亚大峡谷 **"
-		"command"		"sm_flashlight_enabled 1"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
@@ -269,7 +268,6 @@
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
 		"chi"		"**第二章：米利亚姆神庙**"
-		"command"		"sm_flashlight_enabled 0"
 	}
 	"** Player has acquired a SPEED-POTION **"
 	{
@@ -1023,7 +1021,6 @@
 	"** YOU KILLED MATEUS **"
 	{
 		"chi"		"**你打败了<召唤兽—背徳の皇帝 玛提乌斯Mateus>**"
-		"command"		"sm_flashlight_enabled 1"
 	}
 	"The esper MATEUS has been summoned"
 	{
@@ -1056,7 +1053,6 @@
 	"** YOU DEFEATED MATEUS **"
 	{
 		"chi"		"**你打败了<召唤兽—背徳の皇帝 玛提乌斯Mateus>**"
-		"command"		"sm_flashlight_enabled 1"
 	}
 	"** MATEUS TRICKED US! ITS A FAKE ESPER! **"
 	{
