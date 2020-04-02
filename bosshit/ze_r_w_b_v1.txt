@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"213111"
+	{
+		"enable"		"0"
+		"hammerid"		"213111"
+		"m_iname"		"ceil2"
+	}
 	"205846"
 	{
 		"enable"		"0"
@@ -83,23 +89,5 @@
 		"enable"		"0"
 		"hammerid"		"2216"
 		"m_iname"		"ceil1"
-	}
-	"2724"
-	{
-		"enable"		"0"
-		"hammerid"		"2724"
-		"m_iname"		"midball"
-	}
-	"57011"
-	{
-		"enable"		"1"
-		"hammerid"		"57011"
-		"m_iname"		"boss1dec"
-	}
-	"213111"
-	{
-		"enable"		"0"
-		"hammerid"		"213111"
-		"m_iname"		"ceil2"
 	}
 }
