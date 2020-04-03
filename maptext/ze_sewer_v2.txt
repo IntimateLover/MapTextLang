@@ -108,4 +108,24 @@
 	{
 		"chi"		"**什么？还有僵尸没死？所有活着的僵尸和人类10秒后都要暴毙！**"
 	}
+	"Elevator starting up in 45 seconds! Hold off the infection."
+	{
+		"chi"		"** **"
+	}
+	"Elevator starting up in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Elevator moving!"
+	{
+		"chi"		"** **"
+	}
+	"Side ladder will be usable in 30 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Side ladder is now usable!"
+	{
+		"chi"		"** **"
+	}
 }
