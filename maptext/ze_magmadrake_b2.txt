@@ -6,35 +6,32 @@
 	}
 	"***WELCOME TO MAGAMDRAKE TOWER***"
 	{
-		"chi"		"**欢迎来到炎龙之塔！作者：Luffaren 翻译：血色的龙琉璃**"
+		"chi"		"**欢迎来到炎龙高塔！作者：Luffaren 翻译：血色的龙琉璃**"
 	}
 	"***ZOMBIE BRIDGE IS FAST NOW***"
 	{
-		"chi"		"**僵尸出生点加速**"
+		"chi"		"**僵尸出生桥加速**"
 	}
-	"***WASH OUT IS THE DRAGON***"
+	"***WASH OUT IS THE REAL DRAGON***"
 	{
-		"chi"		"**攻击炎龙**"
-	}
-	"***IT IS 100K HP SHOT IT NOW!***"
-	{
-		"chi"		"**炎龙血量很高，集火射击**"
+		"chi"		"**干掉这只真正的炎龙！**"
 	}
 	"***DEFEND IN MEANTIME DODGE FIREBALLS TOO***"
 	{
-		"chi"		"**躲避爆裂火球**"
+		"chi"		"**攻击boss的同时注意躲避火球攻击**"
 	}
 	"***ZOMBIE TELEPORTER MOVED UP A BIT***"
 	{
-		"chi"		"**僵尸传送**"
+		"chi"		"**僵尸跳板可以飞更高了**"
 	}
 	"***DEFEND HARDER***"
 	{
-		"chi"		"**防守更困难了**"
+		"chi"		"**防守更加困难**"
 	}
 	"***DRAGON DEAD DEFEND 40 SECONDS***"
 	{
-		"chi"		"**炎龙已被击败，坚守40秒**"
+		"chi"		"**炎龙已被击败,坚守40秒**"
+		"DoorCountdown"		"40"
 	}
 	"***DEFEND 20 SECONDS***"
 	{
@@ -50,19 +47,15 @@
 	}
 	"***JUMP NOW!!!***"
 	{
-		"chi"		"**信仰之跃**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"22962"
+		"chi"		"**信仰之飞**"
 	}
 	"***ASCEND IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在30秒后开放**"
 	}
 	"***ASCEND IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在10秒后开放**"
 	}
 	"***ASCEND NOW FROM THE BORISH BOTTOM***"
 	{
@@ -70,11 +63,11 @@
 	}
 	"***ASCEND IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在20秒后开放**"
 	}
 	"***ASCEND IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在5秒后开放**"
 	}
 	"***ASCEND NOW FROM THE CUTE LITTLE TOWER***"
 	{
@@ -86,7 +79,7 @@
 	}
 	"***ASCEND IN 25 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在25秒后开放**"
 	}
 	"***ASCEND NOW FROM THE BIG BOY PILLARS***"
 	{
@@ -94,15 +87,15 @@
 	}
 	"***12 EVIL BUTTONS HAVE BEEN PRESSED!***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个开关已经触发**"
 	}
 	"***22 EVIL BUTTONS HAVE BEEN PRESSED!***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个开关已经触发**"
 	}
 	"***ASCEND IN 40 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在40秒后开放**"
 	}
 	"***ASCEND NOW FROM THE FANCY EDGE***"
 	{
@@ -110,22 +103,26 @@
 	}
 	"***ASCEND IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳板将在15秒后开放**"
 	}
 	"***ASCEND NOW TO THE TOP***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在往塔顶进发！**"
 	}
 	"***FINISH THE FIGHT!***"
 	{
-		"chi"		"** **"
-	}
-	"***WASH OUT IS THE REAL DRAGON***"
-	{
-		"chi"		"** **"
+		"chi"		"**最后的战斗！**"
 	}
 	"***SHOOT IT IT HAS 100K HP!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**它有10w血，想办法解决掉**"
+	}
+	"***MAP BY LUFFAREN***"
+	{
+		"chi"		"**地图作者：Luffaren 真正的炎龙高塔即将到来...**"
+	}
+	"***TOWER WENT BOOM***"
+	{
+		"chi"		"**高塔即将坍塌**"
 	}
 }
