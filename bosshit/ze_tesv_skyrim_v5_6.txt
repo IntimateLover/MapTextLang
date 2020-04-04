@@ -65,7 +65,7 @@
 		"
 	{
 		"		"enable"
-		"		"		"0"
+		"		"		"1"
 		"
 	}
 	"		"boss_2_break"
@@ -555,7 +555,7 @@
 		"
 	{
 		"		"enable"
-		"		"		"0"
+		"		"		"1"
 		"
 	}
 	"		"troll_phbox&5375"
@@ -1246,7 +1246,7 @@
 	}
 	"st1_dragonphysbox"
 	{
-		"enable"		"0"
+		"enable"		"1"
 	}
 	"brush_boss"
 	{
@@ -1254,7 +1254,7 @@
 	}
 	"boss_2_break"
 	{
-		"enable"		"0"
+		"enable"		"1"
 	}
 	"ww_phbox&1546"
 	{
@@ -1582,7 +1582,7 @@
 	}
 	"phbox"
 	{
-		"enable"		"0"
+		"enable"		"1"
 	}
 	"sovng_boss_break2"
 	{
@@ -2078,7 +2078,7 @@
 	}
 	"2096387"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2096387"
 		"m_iname"		"st1_dragonphysbox"
 	}
@@ -2150,7 +2150,7 @@
 	}
 	"5888"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"5888"
 		"m_iname"		"phbox"
 	}
