@@ -2,31 +2,31 @@
 {
 	"*** Map made by Meg. (Sauce_Piquante :D)***"
 	{
-		"chi"		"**地图作者：Meg.(Sauce_Piquante :D) 翻译：血色的龙琉璃**"
+		"chi"		"**地图作者：Meg.(Sauce_Piquante :D) 翻译：血色的龙琉璃 **"
 	}
 	"*** Halo textures and door prefab created by Burnfingers ***"
 	{
-		"chi"		"**地图纹理和自动门由Burnfingers制作**"
+		"chi"		"**地图纹理和自动门由Burnfingers制作 **"
 	}
 	"*** Scorpion prefab created by A.O ***"
 	{
-		"chi"		"**天蝎坦克由A.O制作**"
+		"chi"		"**天蝎坦克由A.O制作 **"
 	}
 	"*** Pelican created by BoonDock ***"
 	{
-		"chi"		"**鹈鹕号由BoonDock制作**"
+		"chi"		"**鹈鹕号由BoonDock制作 **"
 	}
 	"*** Credit to Bungie for M.C model and The Oracle ***"
 	{
-		"chi"		"**地图采用了Bungie创作的《光环》系列中的主角士官长和人工智能建造者引导者**"
+		"chi"		"**地图采用了Bungie创作的《光环》系列中的主角士官长和人工智能建造者引导者 **"
 	}
 	"*** Halo theme song by Martin O.Donnell ***"
 	{
-		"chi"		"**地图背景音乐：Halo by Martin O.Donnell**"
+		"chi"		"**地图背景音乐：Halo by Martin O.Donnell **"
 	}
 	"*** Chaoz airflow song by Paragonx9***"
 	{
-		"chi"		"**地图背景音乐：Chaoz airflow by Paragonx9**"
+		"chi"		"**地图背景音乐：Chaoz airflow by Paragonx9 **"
 	}
 	"*** Path opened in 5 seconds ***"
 	{
@@ -39,7 +39,7 @@
 	"*** Bridge enabled in 30 seconds ***"
 	{
 		"chi"		"**光桥将在30秒后激活**"
-		"DoorCountDown"		"25"
+		"DoorCountDown"		"27"
 	}
 	"*** Bridge closes in 15 seconds ***"
 	{
@@ -80,7 +80,7 @@
 	}
 	"*** Kill him before it's too late! ***"
 	{
-		"chi"		"**在他阴谋得逞之前击败他**"
+		"chi"		"**在他阴谋得逞之前击败他 **"
 	}
 	"*** Keep shootting! ***"
 	{
