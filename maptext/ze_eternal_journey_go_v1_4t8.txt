@@ -12,7 +12,7 @@
 	{
 		"chi"		"**守住20秒**"
 	}
-	"** 5 seconds left **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -265,6 +265,22 @@
 		"chi"		"** **"
 	}
 	"** Hold 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	">> BOSS USED ELECTRO <<"
+	{
+		"chi"		"** **"
+	}
+	">> BOSS USED FREEZE <<"
+	{
+		"chi"		"** **"
+	}
+	">> BOSS USED FIRE <<"
+	{
+		"chi"		"** **"
+	}
+	">> BOSS USED ULTIMATE <<"
 	{
 		"chi"		"** **"
 	}
