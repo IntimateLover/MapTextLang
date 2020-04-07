@@ -98,4 +98,52 @@
 	{
 		"chi"		"** **"
 	}
+	">>> DEFEND 15s <<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 20s <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES TP SOON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GO LEFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 15s <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TP zombies <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES GO! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 10s <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> use nades and FALL BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ERROR <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND 60s <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORT LASERS... <<<"
+	{
+		"chi"		"** **"
+	}
 }

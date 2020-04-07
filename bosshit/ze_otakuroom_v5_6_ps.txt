@@ -1,0 +1,27 @@
+"BOSSHP"
+{
+	"57252"
+	{
+		"enable"		"0"
+		"hammerid"		"57252"
+		"m_iname"		"lv1_door3"
+	}
+	"11505"
+	{
+		"enable"		"0"
+		"hammerid"		"11505"
+		"m_iname"		"lv1_door3"
+	}
+	"11544"
+	{
+		"enable"		"0"
+		"hammerid"		"11544"
+		"m_iname"		"lv1_door2"
+	}
+	"57233"
+	{
+		"enable"		"0"
+		"hammerid"		"57233"
+		"m_iname"		"lv1_door2"
+	}
+}

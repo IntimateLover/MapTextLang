@@ -874,18 +874,4 @@
 	{
 		"enable"		"0"
 		"hammerid"		"633563"
-		"m_iname"		"4_breakable02"
-	}
-	"633616"
-	{
-		"enable"		"0"
-		"hammerid"		"633616"
-		"m_iname"		"4_breakable21"
-	}
-	"654031"
-	{
-		"enable"		"0"
-		"hammerid"		"654031"
-		"m_iname"		"2areatblock"
-	}
-}
+		"m_iname"		"4_breaka
