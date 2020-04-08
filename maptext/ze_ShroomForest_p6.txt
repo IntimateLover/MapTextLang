@@ -292,11 +292,11 @@
 		}
 		">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
 		{
-			"chi"		"**鬼斯出现了,攻击他 **"
+			"chi"		"**野生的百变怪出现了,攻击他 **"
 		}
 		">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
 		{
-			"chi"		"**鬼斯正在使用变换!!!! **"
+			"chi"		"**野生的百变怪正在使用变换!!!! **"
 		}
 		">> BUTTERFLY LEAVING IN 30 seconds <<"
 		{
@@ -489,11 +489,11 @@
 		}
 		">> DITTO IS USING SOMETHING... FUNNY? <<"
 		{
-			"chi"		"**DITTO正在使用一些东西...好笑吗?? **"
+			"chi"		"**鬼斯正在使用一些东西...好笑吗?? **"
 		}
 		">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 		{
-			"chi"		"**野生的DITTO被打败了,跑!!!!! **"
+			"chi"		"**野生的百变怪被打败了,跑!!!!! **"
 		}
 		"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 		{
@@ -554,7 +554,7 @@
 		}
 		">> DITTO LEAF ARE DESTROYED <<"
 		{
-			"chi"		"**>>DITTO LEAF被破坏 <<**"
+			"chi"		"**>>妙蛙种子的叶子被破坏 <<**"
 		}
 		">> BUT ITS NOT VERY EFFECTIVE ! <<"
 		{
@@ -611,11 +611,11 @@
 	}
 	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
 	{
-		"chi"		"**>>鬼斯出现了,攻击他！！！ << **"
+		"chi"		"**>>野生的百变怪出现了,攻击他！！！ << **"
 	}
 	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
 	{
-		"chi"		">>>BOSS正在使用变换<<<"
+		"chi"		">>>野生的百变怪正在使用变换<<<"
 	}
 	">> DITTO IS USING SEED ATTACK <<"
 	{
@@ -635,11 +635,11 @@
 	}
 	">> DITTO IS USING SOMETHING... FUNNY? <<"
 	{
-		"chi"		"**DITTO正在使用一些东西...好笑吗?? **"
+		"chi"		"**鬼斯正在使用一些东西...好笑吗?? **"
 	}
 	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 	{
-		"chi"		">>>DITTO被打败了，不会跳刀的回头守住电梯口<<<"
+		"chi"		">>>野生的百变怪被打败了，不会跳刀的回头守住电梯口<<<"
 	}
 	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
 	{
