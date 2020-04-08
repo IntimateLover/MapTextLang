@@ -1,75 +1,9 @@
 "BOSSHP"
 {
-	"1429631"
-	{
-		"enable"		"0"
-		"hammerid"		"1429631"
-		"m_iname"		"barreramadera1"
-	}
-	"1429665"
-	{
-		"enable"		"0"
-		"hammerid"		"1429665"
-		"m_iname"		"barreramadera1"
-	}
-	"1429765"
-	{
-		"enable"		"0"
-		"hammerid"		"1429765"
-		"m_iname"		"barreramadera1"
-	}
-	"1429798"
-	{
-		"enable"		"0"
-		"hammerid"		"1429798"
-		"m_iname"		"barreramadera1"
-	}
-	"1429824"
-	{
-		"enable"		"0"
-		"hammerid"		"1429824"
-		"m_iname"		"barreramadera1"
-	}
-	"1429857"
-	{
-		"enable"		"0"
-		"hammerid"		"1429857"
-		"m_iname"		"barreramadera1"
-	}
 	"1429923"
 	{
 		"enable"		"0"
 		"hammerid"		"1429923"
-		"m_iname"		"barreramadera1"
-	}
-	"1429956"
-	{
-		"enable"		"0"
-		"hammerid"		"1429956"
-		"m_iname"		"barreramadera1"
-	}
-	"1430022"
-	{
-		"enable"		"0"
-		"hammerid"		"1430022"
-		"m_iname"		"barreramadera1"
-	}
-	"1430055"
-	{
-		"enable"		"0"
-		"hammerid"		"1430055"
-		"m_iname"		"barreramadera1"
-	}
-	"1430110"
-	{
-		"enable"		"0"
-		"hammerid"		"1430110"
-		"m_iname"		"barreramadera1"
-	}
-	"1430143"
-	{
-		"enable"		"0"
-		"hammerid"		"1430143"
 		"m_iname"		"barreramadera1"
 	}
 	"94831"
@@ -239,12 +173,6 @@
 		"enable"		"0"
 		"hammerid"		"251425"
 		"m_iname"		"barreramadera1"
-	}
-	"146589"
-	{
-		"enable"		"0"
-		"hammerid"		"146589"
-		"m_iname"		"teleportar"
 	}
 	"75218"
 	{
@@ -544,43 +472,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1483421"
-		"m_iname"		"jugger_break&2146"
+		"m_iname"		"jugger_break&0613"
 	}
 	"1024467"
 	{
 		"enable"		"0"
 		"hammerid"		"1024467"
-		"m_iname"		"dog_visb2&2167"
-	}
-	"146725"
-	{
-		"enable"		"0"
-		"hammerid"		"146725"
-		"m_iname"		"radar_sensor&2175"
-	}
-	"796112"
-	{
-		"enable"		"0"
-		"hammerid"		"796112"
-		"m_iname"		"w_pyr"
-	}
-	"145026"
-	{
-		"enable"		"0"
-		"hammerid"		"145026"
-		"m_iname"		"stripper_singu_done"
-	}
-	"147479"
-	{
-		"enable"		"0"
-		"hammerid"		"147479"
-		"m_iname"		"stripper_thunder_tracking"
-	}
-	"146705"
-	{
-		"enable"		"0"
-		"hammerid"		"146705"
-		"m_iname"		"escaleranew2&2087"
+		"m_iname"		"dog_visb2&0633"
 	}
 	"145947"
 	{
@@ -588,34 +486,16 @@
 		"hammerid"		"145947"
 		"m_iname"		"w_rex5"
 	}
+	"146725"
+	{
+		"enable"		"0"
+		"hammerid"		"146725"
+		"m_iname"		"radar_sensor&0631"
+	}
 	"145922"
 	{
 		"enable"		"0"
 		"hammerid"		"145922"
-		"m_iname"		"item_balrog_hp&2081"
-	}
-	"144577"
-	{
-		"enable"		"0"
-		"hammerid"		"144577"
-		"m_iname"		"ht2&1808"
-	}
-	"1621132"
-	{
-		"enable"		"0"
-		"hammerid"		"1621132"
-		"m_iname"		"prop_cogible2"
-	}
-	"144822"
-	{
-		"enable"		"0"
-		"hammerid"		"144822"
-		"m_iname"		"ice_g&5780"
-	}
-	"145590"
-	{
-		"enable"		"0"
-		"hammerid"		"145590"
-		"m_iname"		"an_g&4062"
+		"m_iname"		"item_balrog_hp&0493"
 	}
 }

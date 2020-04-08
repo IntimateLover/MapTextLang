@@ -214,4 +214,99 @@
 	}
 	"***The train is stuck and wont start***"
 	{
-		"chi"		"**火车被卡住了，�
+		"chi"		"**火车被卡住了，无法启动 **"
+	}
+	"***Take the left path***"
+	{
+		"chi"		"**走左边的道路 **"
+	}
+	"210 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"310 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"410 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 10 seconds***"
+	{
+		"chi"		"**防守10秒 **"
+		"DoorCountdown"		"10"
+	}
+	">> ZOMBIES INSIDE THE ELEVATOR <<"
+	{
+		"chi"		"**僵尸在电梯里面 **"
+	}
+	">> LEVEL FAILED <<"
+	{
+		"chi"		"**>> 本关失败 << **"
+	}
+	"810 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	">> You beat the map <<"
+	{
+		"chi"		"**你已经打败了这个地图**"
+	}
+	">> Congratulation <<"
+	{
+		"chi"		"**恭喜你**"
+	}
+	">> Map will reset <<"
+	{
+		"chi"		"**地图将重置RTV吧**"
+	}
+	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
+	{
+		"chi"		"**僵尸上来了你失败了!**"
+	}
+	"*** PLAYER HAS CHOSEN LEVEL 2 NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"69385"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras  Fixed with Moltard  Ported by Wild Banan <<"
+	{
+		"chi"		"** **"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"** **"
+	}
+	"***Find a way to open the door of the station***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator leaving in 7 seconds***"
+	{
+		"chi"		"** **"
+	}
+}

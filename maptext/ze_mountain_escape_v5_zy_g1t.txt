@@ -201,4 +201,650 @@
 		"DoorCountdown"		"5"
 	}
 	"**Global trigger activated: Slippery grounds in 5 secs. (20 secs. duration)**"
-	
+	{
+		"chi"		"**全体随机事件：地面5秒后变滑[持续20秒] **"
+		"DoorCountdown"		"5"
+	}
+	"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后不由自主跳跃[持续30秒] **"
+		"DoorCountdown"		"5"
+	}
+	"**Zombie trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**僵尸随机事件：5秒后免疫所有伤害[持续8秒] **"
+		"DoorCountdown"		"5"
+	}
+	"**CT trigger activated: Speed in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**人类随机事件：5秒后加速[持续8秒] **"
+		"DoorCountdown"		"5"
+	}
+	"** Helicopters out of fuel! **"
+	{
+		"chi"		"**直升机没油了! **"
+	}
+	"**Global trigger activated: Total darkness in 5 secs. (45 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后陷入完全黑暗[持续45秒] **"
+		"DoorCountdown"		"5"
+	}
+	"**Global trigger activated: Invisibility for all in 5 secs. (15 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒隐身所有人[持续15秒] **"
+		"DoorCountdown"		"5"
+	}
+	"**Global trigger activated: Retarded jumps in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后延迟跳跃[持续20秒] **"
+		"DoorCountdown"		"5"
+	}
+	"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后反向控制[持续15秒] **"
+		"DoorCountdown"		"5"
+	}
+	"***Current mode : Total Warfare mode***"
+	{
+		"chi"		"**当前模式：全面战争 **"
+	}
+	"***Current mode : FFVII mode***"
+	{
+		"chi"		"**当前模式：最终幻想7 **"
+		"DoorCountdown"		"-1"
+	}
+	"***Current mode : Carnival mode***"
+	{
+		"chi"		"**当前模式：嘉年华 **"
+	}
+	"***Current mode : Massacre mode***"
+	{
+		"chi"		"**当前模式：大屠杀 **"
+	}
+	"***Current mode : Castle mode***"
+	{
+		"chi"		"**当前模式：城堡攻坚 **"
+	}
+	"***Current mode : Flood mode***"
+	{
+		"chi"		"**当前模式：洪水爆发 **"
+	}
+	"***Current mode : Medieval mode***"
+	{
+		"chi"		"**当前模式：中世纪 **"
+	}
+	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**人类随机事件：5秒后免疫僵尸[持续8秒] **"
+		"DoorCountdown"		"5"
+	}
+	"*** Minigun has been picked. ***"
+	{
+		"chi"		"**加特林已拿起 **"
+	}
+	"***Current mode : Space mode***"
+	{
+		"chi"		"**当前模式：空间 **"
+	}
+	"***Current mode : Halloween mode***"
+	{
+		"chi"		"**当前模式：万圣节 **"
+	}
+	"***Current mode : Zombie Horde***"
+	{
+		"chi"		"**当前模式：僵尸部落 **"
+	}
+	"***TIP: Work in team - THIS ISNT ZM!***"
+	{
+		"chi"		"**提示：注意团队合作-这不是ZM！ **"
+	}
+	"***You will need to kill a number of zombies to complete the round.***"
+	{
+		"chi"		"**你需要杀死一些僵尸才能胜利 **"
+	}
+	"***They will have low amount of health but no knockback!***"
+	{
+		"chi"		"**他们的血量很低.但是不会因此而退缩！ **"
+	}
+	"***FIND AN AREA TO HOLD YOUR GROUND AND RESIST! WORK TOGETHER.***"
+	{
+		"chi"		"**找一个地方防守-在一起！ **"
+	}
+	"***Earendil light has been picked up.***"
+	{
+		"chi"		"**艾伦迪尔的灯发出亮光 **"
+	}
+	"***Current mode : One way mode***"
+	{
+		"chi"		"**当前模式：一条路 **"
+	}
+	"***Current mode : Depression mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Snipers downgraded! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : UFO mode***"
+	{
+		"chi"		"**当前模式：UFO **"
+	}
+	"***Current mode : Explosive mode***"
+	{
+		"chi"		"**当前模式：大爆炸 **"
+	}
+	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后触发撸多了视野[持续20秒] **"
+		"DoorCountdown"		"5"
+	}
+	"***!?***"
+	{
+		"chi"		"** **"
+	}
+	"***Whats that sound?***"
+	{
+		"chi"		"**什么声音 **"
+	}
+	"***Warning: The train is coming.***"
+	{
+		"chi"		"**警告：火车来袭 **"
+	}
+	"***Current mode : Space massacre mode***"
+	{
+		"chi"		"**当前模式：太空大屠杀 **"
+	}
+	"***Flamethrower has been picked up.***"
+	{
+		"chi"		"**火焰喷射器已拿起 **"
+	}
+	"***Current mode : Item Rush mode***"
+	{
+		"chi"		"**当前模式：神器对抗 **"
+	}
+	"***Current mode : Forest mode***"
+	{
+		"chi"		"** **"
+	}
+	"***C4 has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ladder has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mines has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Freezer has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"***Singularity Cannon has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Confusion**"
+	{
+		"chi"		"** **"
+	}
+	"*** TNT Launcher has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie Rocket Launcher has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A mysterious garage looking door seems to be our path. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It will take awhile to open this.. Cover us until were able to open the door! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Got it! Door will open in 10 seconds. KEEP UP THE DEFENSE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPENS IN 40 SECS! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** New items for Humans and Zombies spawn for every door we pass. ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will be getting nearer overtime as each door closes! ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep up the defense! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... RESIST! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep it up! We have a few more doors to go! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... CMON KEEP IT UP! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Were halfway there. HOLD YOUR GROUND! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... ALMOST THERE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Were almost out of this safely. We just have one door remaining... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Vacuum has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... KEEP UP THE PACE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is our final door... DONT LET ANYTHING THROUGH! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Final door opening in 5 seconds... THIS IS YOUR FINAL STAND. HOLD THIS POSITION! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS THE FINAL HOLD... RESIST! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE DOORS ARE CLOSING IN 10 SECONDS! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nuke inbound! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***We have successfully defeated boss.***"
+	{
+		"chi"		"** **"
+	}
+	"***Run towards the summit!***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: The boss is comeback.***"
+	{
+		"chi"		"** **"
+	}
+	"***Boss is dead***"
+	{
+		"chi"		"** **"
+	}
+	"***Second way is open.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Arena mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** PURE SURVIVAL AND CARNAGE -- ALL ITEMS ARE AVAILABLE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Invisibility Gas has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space FFVII mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie trigger activated: Speed in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"*** KNIFE IT OUT! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Monkey massacre mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Crab has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"chi"		"** **"
+	}
+	"*** Shadow Ball has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Pyramid Head is looking for you ... **"
+	{
+		"chi"		"** **"
+	}
+	"***We have reached the top...***"
+	{
+		"chi"		"** **"
+	}
+	"***A hole seems to lead the way.***"
+	{
+		"chi"		"** **"
+	}
+	"***The gate will open in 30 secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***The way is open...***"
+	{
+		"chi"		"** **"
+	}
+	"***Mass teleport in 30 secs.***"
+	{
+		"chi"		"** **"
+	}
+	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	{
+		"chi"		"** **"
+	}
+	"** WARNING: It only has one use and affects zombies and killer robots. **"
+	{
+		"chi"		"** **"
+	}
+	"***TNT ACTIVATED! DETONATING IN 20 SECS...***"
+	{
+		"chi"		"** **"
+	}
+	"***GET MOVING!***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 30 secs...***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP: Those computers can be of use opening the doors right away by pressing them accordingly when lit.***"
+	{
+		"chi"		"** **"
+	}
+	"*Heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS ARE OPEN! GET MOVING!***"
+	{
+		"chi"		"** **"
+	}
+	"*Basic defensive mode activated: Laser and Landmines*"
+	{
+		"chi"		"** **"
+	}
+	"** TIP: He Grenades deal a lot of damage to the robot.**"
+	{
+		"chi"		"** **"
+	}
+	"*Basic offensive mode activated: Fist crusher module loaded*"
+	{
+		"chi"		"** **"
+	}
+	"*Offensive module loaded: Laser meat slasher*"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Classic mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Annihilator has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"**Titan monster has entered the game**"
+	{
+		"chi"		"** **"
+	}
+	"*** Barricade has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie summoner has been picked.**"
+	{
+		"chi"		"** **"
+	}
+	"*** Trampoline has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Face to Face mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will receive... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pyramid Head! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ...and... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Humans will counter with... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Speed gun! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Normal mode***"
+	{
+		"chi"		"** **"
+	}
+	"** GOOD LUCK INBOUND TO A HAPPY POOPY POOP **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"*** Bird has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"*** A wall blocks our path! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD until were able to take down this wall. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALL BREAK IN 5 SECS... Get ready! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Get moving! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS OUR LAST STAND... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The wall will break in 20 secs. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mass teleport in 30 secs. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The helicopter is warming up... HOLD! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE HELICOPTER IS READY TO GO! ** SOMEONE HAS TO PILOT IT AND GET US OUT OF HERE! ***"
+	{
+		"chi"		"** **"
+	}
+	"***  Nuke inbound! ***"
+	{
+		"chi"		"** **"
+	}
+	"***  3 ***"
+	{
+		"chi"		"** **"
+	}
+	"***  2 ***"
+	{
+		"chi"		"** **"
+	}
+	"***  1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Horn has been blown! Nuke inbound. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie Stopper has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"*** Raptor has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Scary Zombie has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Crab! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Builder! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Barricade mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIP: Work in team or defend yourself! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is not about ESCAPING in team... but surviving by any means! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies can be killed in 4 minutes. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies can be killed in 3 minutes. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies can be killed in 2 minutes. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies can be killed in 1 minute. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PARALYZING GAS SURROUNDS THE AREA! - FINISH THE ZOMBIES OFF! ***"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES HAVE BROKEN OUR BARRIER SEALING THE BEAST! ***"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"*** Grenades fly! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Tornados approaching***"
+	{
+		"chi"		"** **"
+	}
+	"*** SUPERMODE BONUS - APOCALYPSE WOW ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Scary Zombie! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ultima! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Meteorite falls***"
+	{
+		"chi"		"** **"
+	}
+}

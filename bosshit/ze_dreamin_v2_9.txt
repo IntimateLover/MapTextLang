@@ -258,4 +258,112 @@
 		"hammerid"		"364622"
 		"m_iname"		"heal_main"
 	}
+	"632812"
+	{
+		"enable"		"0"
+		"hammerid"		"632812"
+		"m_iname"		"rtv_floor_1"
+	}
+	"632856"
+	{
+		"enable"		"0"
+		"hammerid"		"632856"
+		"m_iname"		"rtv_floor_2"
+	}
+	"632875"
+	{
+		"enable"		"0"
+		"hammerid"		"632875"
+		"m_iname"		"rtv_floor_3"
+	}
+	"632889"
+	{
+		"enable"		"0"
+		"hammerid"		"632889"
+		"m_iname"		"rtv_floor_4"
+	}
+	"632903"
+	{
+		"enable"		"0"
+		"hammerid"		"632903"
+		"m_iname"		"rtv_floor_5"
+	}
+	"632917"
+	{
+		"enable"		"0"
+		"hammerid"		"632917"
+		"m_iname"		"rtv_floor_6"
+	}
+	"632931"
+	{
+		"enable"		"0"
+		"hammerid"		"632931"
+		"m_iname"		"rtv_floor_7"
+	}
+	"632945"
+	{
+		"enable"		"0"
+		"hammerid"		"632945"
+		"m_iname"		"rtv_floor_8"
+	}
+	"633092"
+	{
+		"enable"		"0"
+		"hammerid"		"633092"
+		"m_iname"		"rtv_zwall"
+	}
+	"611894"
+	{
+		"enable"		"0"
+		"hammerid"		"611894"
+		"m_iname"		"rtv_wall_1"
+	}
+	"611897"
+	{
+		"enable"		"0"
+		"hammerid"		"611897"
+		"m_iname"		"phys_door_1"
+	}
+	"611900"
+	{
+		"enable"		"0"
+		"hammerid"		"611900"
+		"m_iname"		"phys_door_2"
+	}
+	"611904"
+	{
+		"enable"		"0"
+		"hammerid"		"611904"
+		"m_iname"		"phys_door_3"
+	}
+	"612092"
+	{
+		"enable"		"0"
+		"hammerid"		"612092"
+		"m_iname"		"elevator_ceil"
+	}
+	"612669"
+	{
+		"enable"		"0"
+		"hammerid"		"612669"
+		"m_iname"		"rtv_linelaser_hp"
+	}
+	"614191"
+	{
+		"enable"		"0"
+		"hammerid"		"614191"
+		"m_iname"		"sbomb_1"
+	}
+	"614194"
+	{
+		"enable"		"0"
+		"hammerid"		"614194"
+		"m_iname"		"sbomb_3"
+	}
+	"614197"
+	{
+		"enable"		"0"
+		"hammerid"		"614197"
+		"m_iname"		"sbomb_2"
+	}
 }
