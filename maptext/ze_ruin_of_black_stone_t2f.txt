@@ -123,6 +123,7 @@
 	"<< Warning: Nuke in 180 seconds >>"
 	{
 		"chi"		"**警告：180秒后核弹将会爆炸**"
+		"DoorCountdown"		"180"
 	}
 	"<< Hurry up!!! Get back to the entrance of the town!!! >>"
 	{
@@ -195,6 +196,7 @@
 	"<< Give me some time to break this huge stone >>"
 	{
 		"chi"		"**给我一些时间来破坏这个石头**"
+		"DoorCountdown"		"20"
 	}
 	"<< The door will break in 20 seconds >>"
 	{
@@ -207,6 +209,7 @@
 	"<< defend until the rock broken! >>"
 	{
 		"chi"		"**防守直到石头破碎！**"
+		"DoorCountdown"		"30"
 	}
 	"<< No one is here...... >>"
 	{
