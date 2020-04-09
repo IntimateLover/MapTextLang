@@ -248,4 +248,42 @@
 	{
 		"chi"		"**别尼玛打了，再打就死了**"
 	}
+	"***Reflection Casted***"
+	{
+		"chi"		"**反伤激活了**"
+		"DoorCountdown"		"-1"
+	}
+	"***Reflection will cast in 2s*"
+	{
+		"chi"		"**还搁那打boss呢？**"
+		"DoorCountdown"		"10"
+	}
+	"***Hold 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Reflection will cast in 1s*"
+	{
+		"chi"		"** **"
+	}
+	"***All items will Disable in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***All items will Disable in 4 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***All items will Disable in 3 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***All items will Disable in 2 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***All items will Disable in 1 seconds***"
+	{
+		"chi"		"** **"
+	}
 }

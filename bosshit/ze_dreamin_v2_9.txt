@@ -366,4 +366,16 @@
 		"hammerid"		"614197"
 		"m_iname"		"sbomb_2"
 	}
+	"363763"
+	{
+		"enable"		"0"
+		"hammerid"		"363763"
+		"m_iname"		"explo_unit&8604"
+	}
+	"364633"
+	{
+		"enable"		"0"
+		"hammerid"		"364633"
+		"m_iname"		"push_main&9042"
+	}
 }
