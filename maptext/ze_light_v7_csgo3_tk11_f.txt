@@ -31,7 +31,7 @@
 	">>> Teleport AFK 10s <<<"
 	{
 		"chi"		">>>10秒后传送挂机玩家<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	">>> Teleport AFK now... <<<"
 	{
@@ -48,7 +48,7 @@
 	">>> ZOMBIES TP 15s <<<"
 	{
 		"chi"		">>>僵尸将在15秒后传送<<<"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"I think you will lose :)"
 	{
@@ -99,6 +99,26 @@
 		"chi"		"** **"
 	}
 	">>> DEFEND 15s <<<<"
+	{
+		"chi"		"** **"
+	}
+	"5"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"1"
 	{
 		"chi"		"** **"
 	}

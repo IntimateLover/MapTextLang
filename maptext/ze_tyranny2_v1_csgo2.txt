@@ -304,4 +304,16 @@
 	{
 		"syncvalue"		"14336"
 	}
+	">>> Defeat The Boss Within 30 Seconds! <<<"
+	{
+		"chi"		">>>30秒内打死BOSS<<<"
+	}
+	">>> Defeat The Boss Within 20 Seconds! <<<"
+	{
+		"chi"		">>>20秒内打死BOSS<<<"
+	}
+	">>> Defeat The Boss Within 10 Seconds! <<<"
+	{
+		"chi"		">>>10秒内打死BOSS<<<"
+	}
 }
