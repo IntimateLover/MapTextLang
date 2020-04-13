@@ -16,13 +16,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"38256"
-		"m_iname"		"i_item_mushroom_phys&3388"
+		"m_iname"		"i_item_mushroom_phys&1531"
 	}
 	"42303"
 	{
 		"enable"		"0"
 		"hammerid"		"42303"
-		"m_iname"		"i_item_star_phys&2591"
+		"m_iname"		"i_item_star_phys&1530"
 	}
 	"23923"
 	{
@@ -52,7 +52,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"306325"
-		"m_iname"		"i_item_repair_phys&3469"
+		"m_iname"		"i_item_repair_phys&1525"
 	}
 	"493620"
 	{
