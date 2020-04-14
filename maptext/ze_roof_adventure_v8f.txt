@@ -56,6 +56,7 @@
 	"***Shoot rock monster between two eyes!(use m249 or negev)***"
 	{
 		"chi"		"**朝着岩石怪两眼中间射击！（使用m249或negev）**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage completed!***"
 	{
@@ -64,10 +65,12 @@
 	"***Next Stage:[Stage 2]***"
 	{
 		"chi"		"**下一关：[第2关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 2***"
 	{
 		"chi"		"**第2关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Winners will have access to get special items in next stage!***"
 	{
@@ -80,10 +83,12 @@
 	"***Next Stage:[Stage 3]***"
 	{
 		"chi"		"**下一关：[第3关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 3***"
 	{
 		"chi"		"**第3关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Zombies are in win-room,stage failed!***"
 	{
@@ -92,10 +97,12 @@
 	"***Next Stage:[Stage 8]***"
 	{
 		"chi"		"**下一关：[第8关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 8***"
 	{
 		"chi"		"**第8关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Oh!You are shining the roof!***"
 	{
@@ -112,6 +119,7 @@
 	"***Stage 7***"
 	{
 		"chi"		"**第7关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Constant skyfire will appear in some areas!***"
 	{
@@ -124,26 +132,32 @@
 	"***Next Stage:[Stage 4]***"
 	{
 		"chi"		"**下一关：[第4关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 4***"
 	{
 		"chi"		"**第4关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Next Stage:[Stage 5]***"
 	{
 		"chi"		"**下一关：[第5关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 5***"
 	{
 		"chi"		"**第5关**"
+		"DoorCountdown"		"-1"
 	}
 	"***The ultimate will start in 14s!***"
 	{
 		"chi"		"**终极将在14秒后生效！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Next Stage:[Stage 6]***"
 	{
 		"chi"		"**下一关：[第6关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 6***"
 	{
@@ -157,10 +171,12 @@
 	"***Hold the chicken for last 35s!***"
 	{
 		"chi"		"**最后35秒保护小鸡！**"
+		"DoorCountdown"		"35"
 	}
 	"***Next Stage:[Stage 7]***"
 	{
 		"chi"		"**下一关：[第7关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***25s left!***"
 	{
@@ -253,19 +269,14 @@
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往后的推力！（准备按住W）**"
-		"DoorCountdown"		"0"
-		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往前的推力！（准备按住S）**"
-		"DoorCountdown"		"0"
-		"ico"		"icon_fire"
 	}
 	"***Hold for 45s!***"
 	{
 		"chi"		"**坚守45秒！**"
-		"DoorCountdown"		"45"
 	}
 	"***Zombies will come in 12s!***"
 	{
@@ -299,14 +310,10 @@
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往左的推力！（准备按住D）**"
-		"DoorCountdown"		"0"
-		"ico"		"icon_fire"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往右的推力！（准备按住A）**"
-		"DoorCountdown"		"0"
-		"ico"		"icon_fire"
 	}
 	"***A human has picked up unlimited ammo!***"
 	{
