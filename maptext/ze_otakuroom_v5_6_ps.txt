@@ -112,6 +112,10 @@
 	{
 		"chi"		"**第三关**"
 	}
+	"**Wait 5 seconds**"
+	{
+		"chi"		"**等待5秒**"
+	}
 	"**Teleport activated**"
 	{
 		"chi"		"**传送已激活**"
