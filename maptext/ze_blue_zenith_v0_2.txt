@@ -56,4 +56,12 @@
 	{
 		"chi"		"**选择任务...**"
 	}
+	"**All monoliths were activated**"
+	{
+		"chi"		"** **"
+	}
+	"**Extra hp will be given at the end of the map**"
+	{
+		"chi"		"** **"
+	}
 }
