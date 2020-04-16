@@ -26,19 +26,19 @@
 	}
 	"648182"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"648182"
 		"m_iname"		"nekohealth1"
 	}
 	"648195"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"648195"
 		"m_iname"		"nekohealth2"
 	}
 	"648251"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"648251"
 		"m_iname"		"nekolasthealth"
 	}
