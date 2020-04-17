@@ -559,4 +559,36 @@
 		"chi"		"**还以为澡盆不会沉？**"
 		"DoorCountdown"		"5"
 	}
+	"***60secs left!***"
+	{
+		"chi"		"** **"
+	}
+	"***30secs left!***"
+	{
+		"chi"		"** **"
+	}
+	"***15secs left!***"
+	{
+		"chi"		"** **"
+	}
+	"***TIMES UP!!***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES WIN!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Final attack charged!!***"
+	{
+		"chi"		"** **"
+	}
+	"***TEXT ATTACK FIRED!!***"
+	{
+		"chi"		"** **"
+	}
+	"***BACKSPACE!!!***"
+	{
+		"chi"		"** **"
+	}
 }
