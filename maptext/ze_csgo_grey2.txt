@@ -76,4 +76,52 @@
 	{
 		"chi"		"**还剩5秒！坚持住！**"
 	}
+	"**Defend 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**15 seconds are left**"
+	{
+		"chi"		"** **"
+	}
+	"**The teleporter activates in 15 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**teleporter ready!**"
+	{
+		"chi"		"** **"
+	}
+	"**Reach the top to survive the nuke!**"
+	{
+		"chi"		"** **"
+	}
+	"**The nuke will launch in 110 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**90 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**70 seconds left**"
+	{
+		"chi"		"** **"
+	}
+	"**50 seconds left**"
+	{
+		"chi"		"** **"
+	}
+	"**30 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**THE NUKE HAS LAUNCHED**"
+	{
+		"chi"		"** **"
+	}
 }
