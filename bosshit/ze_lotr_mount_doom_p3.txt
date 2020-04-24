@@ -684,4 +684,16 @@
 		"hammerid"		"1760"
 		"m_iname"		"puertamisi"
 	}
+	"193746"
+	{
+		"enable"		"0"
+		"hammerid"		"193746"
+		"m_iname"		"ThisKillsTheFrodo"
+	}
+	"2279"
+	{
+		"enable"		"0"
+		"hammerid"		"2279"
+		"m_iname"		"esca1"
+	}
 }
