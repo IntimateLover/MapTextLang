@@ -432,4 +432,10 @@
 		"hammerid"		"3122"
 		"m_iname"		"oil_filter_physbox"
 	}
+	"2531"
+	{
+		"enable"		"0"
+		"hammerid"		"2531"
+		"m_iname"		"ballestaflecha2"
+	}
 }
