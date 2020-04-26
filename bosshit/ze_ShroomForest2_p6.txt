@@ -14,7 +14,7 @@
 	}
 	"1710"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1710"
 		"m_iname"		"B1_Phys"
 	}
@@ -26,7 +26,7 @@
 	}
 	"1349567"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1349567"
 		"m_iname"		"B2a_Phys"
 	}
@@ -50,7 +50,7 @@
 	}
 	"1336057"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1336057"
 		"m_iname"		"B3a_Phys2"
 	}
@@ -80,7 +80,7 @@
 	}
 	"1472545"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1472545"
 		"m_iname"		"Dragon_Phys"
 	}
