@@ -384,4 +384,10 @@
 		"hammerid"		"1942948"
 		"m_iname"		"boss_catgirl_phbox"
 	}
+	"1942536"
+	{
+		"enable"		"1"
+		"hammerid"		"1942536"
+		"m_iname"		"boss_errorgirl_phbox"
+	}
 }
