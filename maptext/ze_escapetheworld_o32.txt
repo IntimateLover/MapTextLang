@@ -2,7 +2,7 @@
 {
 	"[Wait here for 26 secs]"
 	{
-		"DoorCountDown"		"26"
+		"DoorCountdown"		"26"
 	}
 	"sync_version"
 	{
@@ -373,6 +373,18 @@
 		"chi"		"** **"
 	}
 	"[Gate will open in 15 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[afk tele in 3 secs]"
+	{
+		"chi"		"** **"
+	}
+	"[A zombie has speed item]"
+	{
+		"chi"		"** **"
+	}
+	"[Increasing zombie speed]"
 	{
 		"chi"		"** **"
 	}

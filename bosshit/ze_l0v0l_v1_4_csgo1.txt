@@ -3,10 +3,14 @@
 	"36532"
 	{
 		"enable"		"1"
+		"hammerid"		"36532"
+		"m_iname"		"bosslvl3_harpy_hit"
 	}
 	"49520"
 	{
 		"enable"		"1"
+		"hammerid"		"49520"
+		"m_iname"		"bosslvl2_hit"
 	}
 	"612"
 	{
@@ -161,5 +165,29 @@
 		"enable"		"1"
 		"hammerid"		"48428"
 		"m_iname"		"bosslvl1_model"
+	}
+	"49456"
+	{
+		"enable"		"1"
+		"hammerid"		"49456"
+		"m_iname"		"bosslvl6_end3_bridge"
+	}
+	"49588"
+	{
+		"enable"		"1"
+		"hammerid"		"49588"
+		"m_iname"		"bosslvl2_phy"
+	}
+	"63816"
+	{
+		"enable"		"1"
+		"hammerid"		"63816"
+		"m_iname"		"bosslvl3_harpy_body"
+	}
+	"63809"
+	{
+		"enable"		"1"
+		"hammerid"		"63809"
+		"m_iname"		"bosslvl3_harpy_face"
 	}
 }
