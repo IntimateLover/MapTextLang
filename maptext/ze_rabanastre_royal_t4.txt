@@ -248,6 +248,7 @@
 	"< ZM Crystall teleport will enable in 5 seconds >"
 	{
 		"chi"		"**僵尸水晶传送将在5秒后启用 **"
+		"DoorCountdown"		"-1"
 	}
 	"< A zombie has acquired Bleed Magick >"
 	{
