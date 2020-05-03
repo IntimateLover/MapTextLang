@@ -858,4 +858,100 @@
 		"hammerid"		"11819056"
 		"m_iname"		"rock_down1"
 	}
+	"1654"
+	{
+		"enable"		"0"
+		"hammerid"		"1654"
+		"m_iname"		"br2"
+	}
+	"1632"
+	{
+		"enable"		"0"
+		"hammerid"		"1632"
+		"m_iname"		"br1"
+	}
+	"1634"
+	{
+		"enable"		"0"
+		"hammerid"		"1634"
+		"m_iname"		"br1"
+	}
+	"1636"
+	{
+		"enable"		"0"
+		"hammerid"		"1636"
+		"m_iname"		"br1"
+	}
+	"1638"
+	{
+		"enable"		"0"
+		"hammerid"		"1638"
+		"m_iname"		"br1"
+	}
+	"1640"
+	{
+		"enable"		"0"
+		"hammerid"		"1640"
+		"m_iname"		"br1"
+	}
+	"1644"
+	{
+		"enable"		"0"
+		"hammerid"		"1644"
+		"m_iname"		"br1"
+	}
+	"1646"
+	{
+		"enable"		"0"
+		"hammerid"		"1646"
+		"m_iname"		"br1"
+	}
+	"1662"
+	{
+		"enable"		"0"
+		"hammerid"		"1662"
+		"m_iname"		"br1"
+	}
+	"1664"
+	{
+		"enable"		"0"
+		"hammerid"		"1664"
+		"m_iname"		"br1"
+	}
+	"1666"
+	{
+		"enable"		"0"
+		"hammerid"		"1666"
+		"m_iname"		"br1"
+	}
+	"1670"
+	{
+		"enable"		"0"
+		"hammerid"		"1670"
+		"m_iname"		"br1"
+	}
+	"1642"
+	{
+		"enable"		"0"
+		"hammerid"		"1642"
+		"m_iname"		"br5"
+	}
+	"1648"
+	{
+		"enable"		"0"
+		"hammerid"		"1648"
+		"m_iname"		"br5"
+	}
+	"1650"
+	{
+		"enable"		"0"
+		"hammerid"		"1650"
+		"m_iname"		"br5"
+	}
+	"1652"
+	{
+		"enable"		"0"
+		"hammerid"		"1652"
+		"m_iname"		"br5"
+	}
 }
