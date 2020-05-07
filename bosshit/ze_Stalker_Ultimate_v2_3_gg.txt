@@ -444,4 +444,64 @@
 		"hammerid"		"2356992"
 		"m_iname"		"Meatchunk2_E_Pickup_Block"
 	}
+	"2382661"
+	{
+		"enable"		"1"
+		"hammerid"		"2382661"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382695"
+	{
+		"enable"		"1"
+		"hammerid"		"2382695"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382698"
+	{
+		"enable"		"1"
+		"hammerid"		"2382698"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382701"
+	{
+		"enable"		"1"
+		"hammerid"		"2382701"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382704"
+	{
+		"enable"		"1"
+		"hammerid"		"2382704"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382707"
+	{
+		"enable"		"1"
+		"hammerid"		"2382707"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382710"
+	{
+		"enable"		"1"
+		"hammerid"		"2382710"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2382713"
+	{
+		"enable"		"1"
+		"hammerid"		"2382713"
+		"m_iname"		"lvl5_Boss_bullet_wall"
+	}
+	"2357049"
+	{
+		"enable"		"0"
+		"hammerid"		"2357049"
+		"m_iname"		"Urchen_E_Pickup_Block"
+	}
+	"2357018"
+	{
+		"enable"		"0"
+		"hammerid"		"2357018"
+		"m_iname"		"Nightstar_E_Pickup_Block"
+	}
 }
