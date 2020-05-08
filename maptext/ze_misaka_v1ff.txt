@@ -673,4 +673,16 @@
 	{
 		"chi"		">>>地图作者进入了服务器！<<<"
 	}
+	"<< Wind >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Misaka is using cannon >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Misaka will use holy in 6 seconds >>"
+	{
+		"chi"		"** **"
+	}
 }
