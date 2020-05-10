@@ -1,0 +1,67 @@
+"Console_T"
+{
+	"35s open door"
+	{
+		"chi"		"** **"
+	}
+	"10s teleport"
+	{
+		"chi"		"** **"
+	}
+	"30s open door"
+	{
+		"chi"		"** **"
+	}
+	"30s door open"
+	{
+		"chi"		"** **"
+	}
+	"25s open door"
+	{
+		"chi"		"** **"
+	}
+	"30s elevator up"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"34181"
+	}
+	"30s wall break"
+	{
+		"chi"		"** **"
+	}
+	"25s teleport"
+	{
+		"chi"		"** **"
+	}
+	"3s move"
+	{
+		"chi"		"** **"
+	}
+	"45s move"
+	{
+		"chi"		"** **"
+	}
+	"15s open door"
+	{
+		"chi"		"** **"
+	}
+	"Run"
+	{
+		"chi"		"** **"
+	}
+	"40s move"
+	{
+		"chi"		"** **"
+	}
+	"100s defend"
+	{
+		"chi"		"** **"
+	}
+	"5s teleport"
+	{
+		"chi"		"** **"
+	}
+}

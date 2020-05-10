@@ -308,13 +308,13 @@
 	}
 	"753482"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"753482"
 		"m_iname"		"exdarktarget"
 	}
 	"752374"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"752374"
 		"m_iname"		"exholytarget"
 	}
