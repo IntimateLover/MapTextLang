@@ -30,7 +30,7 @@
 	}
 	"***THE ELEVATOR STARTS IN 30 SECONDS***"
 	{
-		"chi"		"** 电梯将于30秒后启动**"
+		"chi"		"**电梯将于30秒后启动**"
 	}
 	"***10 SECONDS LEFT***"
 	{
@@ -42,11 +42,11 @@
 	}
 	"***ZOMBIES CLIMB UP THE LADDER*"
 	{
-		"chi"		"** 僵尸从梯子上爬上去！**"
+		"chi"		"**僵尸从梯子上爬上去！**"
 	}
 	"***Door opening in 20 seconds***"
 	{
-		"chi"		"** 门将于20秒后打开**"
+		"chi"		"**下层门将于20秒后打开**"
 	}
 	"***UPPER DOOR IS OPENING IN 10 SECONDS***"
 	{
@@ -90,23 +90,25 @@
 	}
 	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须把这3颗炸弹全部激活**"
 	}
 	"***THE CARGO LIFT IS HERE***"
 	{
-		"chi"		"** **"
+		"chi"		"**货箱电梯已经到达**"
+		"DoorCountDown"		"1"
 	}
 	"***GET IN NUMBNUTS!***"
 	{
-		"chi"		"** **"
+		"chi"		"**快进来**"
 	}
 	"***THE PODS ARE LEAVING IN 2 MINUTES***"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生舱将在2分钟后离开**"
+		"DoorCountDown"		"120"
 	}
 	"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
 	{
-		"chi"		"** **"
+		"chi"		"**制定好防守计划以便于安全撤退**"
 	}
 	"***GO!***"
 	{
@@ -114,50 +116,52 @@
 	}
 	"***OPENING POD DOORS***"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生舱门正在打开，快撤退！**"
+		"DoorCountDown"		"5"
 	}
 	"***PODS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生舱将在10秒后离开**"
+		"DoorCountDown"		"5"
 	}
 	"***CLOSING POD DOORS***"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生舱门正在关闭**"
 	}
 	"***PODS ARE LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生舱正在离开**"
 	}
 	"***ZOMBIES DETECTED IN POD 3***"
 	{
-		"chi"		"** **"
+		"chi"		"**3号逃生舱侦测到僵尸**"
 	}
 	"***ZOMBIES DETECTED IN POD 4***"
 	{
-		"chi"		"** **"
+		"chi"		"**4号逃生舱侦测到僵尸**"
 	}
 	"***POD 3 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**3号逃生舱门将在5秒后打开**"
 	}
 	"***POD 4 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**4号逃生舱门将在5秒后打开**"
 	}
 	"***ZOMBIES DETECTED IN POD 2***"
 	{
-		"chi"		"** **"
+		"chi"		"**2号逃生舱侦测到僵尸**"
 	}
 	"***POD 2 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**2号逃生舱门将在5秒后打开**"
 	}
 	"***ZOMBIES DETECTED IN POD 1***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号逃生舱侦测到僵尸**"
 	}
 	"***POD 1 OPENING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号逃生舱门将在5秒后打开**"
 	}
 }
