@@ -2,66 +2,70 @@
 {
 	"35s open door"
 	{
-		"chi"		"** **"
+		"chi"		"**35秒后门开**"
 	}
 	"10s teleport"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送**"
 	}
 	"30s open door"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后门开**"
 	}
 	"30s door open"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后门开**"
 	}
 	"25s open door"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒后门开**"
 	}
 	"30s elevator up"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后电梯上升**"
 	}
 	"sync_version"
 	{
-		"syncvalue"		"34181"
+		"syncvalue"		"99080"
 	}
 	"30s wall break"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后墙碎**"
 	}
 	"25s teleport"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒后传送**"
 	}
 	"3s move"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒后平台移动**"
 	}
 	"45s move"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒后平台移动**"
 	}
 	"15s open door"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒门开**"
 	}
 	"Run"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！僵尸会追尾**"
 	}
 	"40s move"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒后平台移动**"
 	}
-	"100s defend"
+	"60s defend"
 	{
-		"chi"		"** **"
+		"chi"		"**防守60秒**"
 	}
 	"5s teleport"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送**"
+	}
+	"15s teleport"
+	{
+		"chi"		"**15秒后传送**"
 	}
 }
