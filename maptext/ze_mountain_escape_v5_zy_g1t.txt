@@ -629,115 +629,115 @@
 	}
 	"***Current mode : Classic mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：经典模式 **"
 	}
 	"**Annihilator has been picked**"
 	{
-		"chi"		"** **"
+		"chi"		"**歼灭者已拾取 **"
 	}
 	"**Titan monster has entered the game**"
 	{
-		"chi"		"** **"
+		"chi"		"**泰坦巨兽加入游戏 **"
 	}
 	"*** Barricade has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**路障已拾取 **"
 	}
 	"**Zombie summoner has been picked.**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸召唤者已出动 **"
 	}
 	"*** Trampoline has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蹦床已拾取 **"
 	}
 	"***Current mode : Face to Face mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：面对面 **"
 	}
 	"*** Zombies will receive... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器... **"
 	}
 	"*** Pyramid Head! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**三角头 **"
 	}
 	"*** ...and... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**...和... **"
 	}
 	"*** Humans will counter with... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将与...对抗... **"
 	}
 	"*** Speed gun! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**加速枪 **"
 	}
 	"***Current mode : Normal mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：普通模式 **"
 	}
 	"** GOOD LUCK INBOUND TO A HAPPY POOPY POOP **"
 	{
-		"chi"		"** **"
+		"chi"		"**祝你好运，一只快乐的狗狗 **"
 	}
 	"** A player has adquired EARTH MATERIA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了大地元素 **"
 	}
 	"** A player has adquired FIRE MATERIA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了火焰元素 **"
 	}
 	"*** Bird has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**鸟已被拾取 **"
 	}
 	"** A player has adquired ICE MATERIA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了冰元素 **"
 	}
 	"*** A wall blocks our path! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一堵墙挡住了我们的路！ **"
 	}
 	"*** HOLD until were able to take down this wall. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守到这堵墙打开 **"
 	}
 	"*** WALL BREAK IN 5 SECS... Get ready! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后墙壁破碎-快走 **"
 	}
 	"*** Get moving! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快走！ **"
 	}
 	"*** THIS IS OUR LAST STAND... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是我们最后防守的地方了 **"
 	}
 	"*** The wall will break in 20 secs. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁20秒后破碎 **"
 	}
 	"*** Mass teleport in 30 secs. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将于30秒后启动 **"
 	}
 	"*** The helicopter is warming up... HOLD! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机正在加油-继续防守 **"
 	}
 	"*** THE HELICOPTER IS READY TO GO! ** SOMEONE HAS TO PILOT IT AND GET US OUT OF HERE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机已经准备好出发了-但是必须有人驾驶它把我们带出去 **"
 	}
 	"***  Nuke inbound! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹爆炸 **"
 	}
 	"***  3 ***"
 	{
@@ -753,98 +753,98 @@
 	}
 	"*** Horn has been blown! Nuke inbound. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**喇叭已吹响-核弹已进入 **"
 	}
 	"***Zombie Stopper has been picked.***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸冰冻已拾取 **"
 	}
 	"** A player has adquired WIND MATERIA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了飓风元素 **"
 	}
 	"*** Raptor has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恐龙已出动 **"
 	}
 	"*** Scary Zombie has been picked. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恐怖僵尸已出动 **"
 	}
 	"*** Crab! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大螃蟹 **"
 	}
 	"*** Builder! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**建设者 **"
 	}
 	"***Current mode : Barricade mode***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前模式：障碍模式 **"
 	}
 	"*** TIP: Work in team or defend yourself! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：这是防守模式-注意保护自己 **"
 	}
 	"*** This is not about ESCAPING in team... but surviving by any means! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是防守模式...无论如何都要生存下去！ **"
 	}
 	"*** Zombies can be killed in 4 minutes. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**四分钟后杀死僵尸 **"
 	}
 	"*** Zombies can be killed in 3 minutes. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**三分钟后杀死僵尸 **"
 	}
 	"*** Zombies can be killed in 2 minutes. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**两分钟后杀死僵尸 **"
 	}
 	"*** Zombies can be killed in 1 minute. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一分钟后杀死僵尸 **"
 	}
 	"*** PARALYZING GAS SURROUNDS THE AREA! - FINISH THE ZOMBIES OFF! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**毒气包围了整个区域-干掉僵尸! **"
 	}
 	"** A player has adquired HEAL MATERIA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了治疗元素 **"
 	}
 	"*** ZOMBIES HAVE BROKEN OUR BARRIER SEALING THE BEAST! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸打破了封印BOSS的屏障 **"
 	}
 	"** A player has adquired ULTIMA MATERIA **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拿起了终极元素 **"
 	}
 	"*** Grenades fly! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**让手雷飞！ **"
 	}
 	"***Warning: Tornados approaching***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：龙卷风逼近 **"
 	}
 	"*** SUPERMODE BONUS - APOCALYPSE WOW ***"
 	{
-		"chi"		"** **"
+		"chi"		"**奖励模式-天启 **"
 	}
 	"*** Scary Zombie! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恐怖僵尸 **"
 	}
 	"*** Ultima! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后通牒 **"
 	}
 	"***Warning: Meteorite falls***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：陨石坠落 **"
 	}
 }
