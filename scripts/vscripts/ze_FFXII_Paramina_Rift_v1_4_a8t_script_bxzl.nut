@@ -29,5 +29,7 @@ function Secret_Hudhint_Change_2()
 
 function Say_ScriptDate()
 {
-    EntFire("Cmd","Command","say script by bxzl on 2020.05.17",0.00,null);
+    EntFire("Cmd","Command","say script by bxzl on - 2020.05.17",0.00,null);
 }
+
+//repush
