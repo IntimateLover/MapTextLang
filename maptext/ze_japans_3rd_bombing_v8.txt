@@ -103,19 +103,19 @@
 	}
 	"***Vauff: i require immediate cock and ball torture***"
 	{
-		"chi"		"**Vauff：我需要立即对丁丁进行酷刑**"
+		"chi"		""
 	}
 	"***shoot the dicks***"
 	{
-		"chi"		"**射爆丁丁**"
+		"chi"		""
 	}
-	"***short cut lift leaves in 80***"
+	"***short cut lift leaves in 50***"
 	{
-		"chi"		"**快捷升降机将在80秒后启动**"
+		"chi"		"**电梯将在50秒后上升**"
 	}
 	"***short cut lift leaves in 10***"
 	{
-		"chi"		"**快捷升降机将在10秒后启动**"
+		"chi"		"**电梯将在10秒后上升**"
 	}
 	"***GATE OPENS IN 10 SEC***"
 	{
@@ -125,17 +125,22 @@
 	{
 		"chi"		"**下路门将在20秒后打开**"
 	}
-	"***gate opens in 30 sec***"
+	"***japan will be bombed in 1 minutes***"
 	{
-		"chi"		"**大门将在30秒后打开**"
+		"chi"		"JAPAN即将被毁灭"
+		"DoorCountdown"		"60"
 	}
 	"***SHORTCUT GATE OPENS IN 40 SEC***"
 	{
 		"chi"		"**捷径门将在40秒后打开**"
 	}
-	"***top gate opening in 60sec ***"
+	"***the 3rd bomb has been defused***"
 	{
-		"chi"		"**最终大门将在60秒后打开**"
+	        "chi"           "炸弹已被拆除"
+	}
+	"***top gate opening in 30sec ***"
+	{
+		"chi"		"**最后的大门将在30秒后打开**"
 	}
 	"***you have killed all anime trash***"
 	{
@@ -149,13 +154,13 @@
 	{
 		"chi"		"**祝你好运**"
 	}
-	"***wall thing comes out in 30 sec***"
+	"***wall thing comes out in 10 sec***"
 	{
-		"chi"		"**第一块石板将在30秒后出现**"
+		"chi"		"**第一块石板将在10秒后出现**"
 	}
-	"***wall thing comes out in 20 sec***"
+	"***wall thing comes out in 5 sec***"
 	{
-		"chi"		"**第二块石板将在20秒后出现**"
+		"chi"		"**第二块石板将在5秒后出现**"
 	}
 	"***wall thing comes out in 50 sec***"
 	{
@@ -255,6 +260,6 @@
 	}
 	"***someone has picked up a sowrd***"
 	{
-		"chi"		"** **"
+		"chi"		"**一名人类玩家捡起了木剑**"
 	}
 }
