@@ -26,3 +26,8 @@ function Secret_Hudhint_Change_2()
 {
     Secret_Hudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n摧毁所有的敌方水晶塔\n通过破坏塔顶部的水晶\n\n=> 任务奖励 - 第二章有药水提供");
 }
+
+function Say_ScriptDate()
+{
+    EntFire("Cmd","Command","say script by bxzl on 2020.05.17",0.00,null);
+}
