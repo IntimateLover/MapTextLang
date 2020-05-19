@@ -24,4 +24,56 @@
 	{
 		"chi"		"** **"
 	}
+	"***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
+	{
+		"chi"		"** **"
+	}
+	"***Nazguls coming to Minas Morgul in 15 s***"
+	{
+		"chi"		"** **"
+	}
+	"***Humans have reached the Cirith Ungol tower***"
+	{
+		"chi"		"** **"
+	}
+	"***A human MUST pick up the RING while the others defend the entrance.***"
+	{
+		"chi"		"** **"
+	}
+	"**The ring has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"** The bearer feels the weight of the Ring ** Protect him! **"
+	{
+		"chi"		"** **"
+	}
+	"**The ring carrier must go down to open the door.**"
+	{
+		"chi"		"** **"
+	}
+	"***The door is NOW open! Escape from Cirith Ungol!***"
+	{
+		"chi"		"** **"
+	}
+	"***Nazguls coming to Cirith Ungol tower in 15 s***"
+	{
+		"chi"		"** **"
+	}
+	"***Nazguls coming to camp in 15 s***"
+	{
+		"chi"		"** **"
+	}
+	"***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***"
+	{
+		"chi"		"** **"
+	}
+	"***The Ring has been destroyed! Escape from Mordor!***"
+	{
+		"chi"		"** **"
+	}
+	"**Nazgul defeated!**"
+	{
+		"chi"		"** **"
+	}
 }

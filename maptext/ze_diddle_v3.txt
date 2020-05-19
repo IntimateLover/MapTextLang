@@ -521,6 +521,7 @@
 	"***Turtle heals every 50 seconds***"
 	{
 		"chi"		"**乌龟每50秒治愈一次**"
+		"DoorCountdown"		"-1"
 	}
 	"***The digletts have been defeated*** gg"
 	{
@@ -936,7 +937,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***GO***"
+	"***go***"
 	{
 		"chi"		"** **"
 	}
@@ -1421,6 +1422,38 @@
 		"chi"		"** **"
 	}
 	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
+	{
+		"chi"		"** **"
+	}
+	"[EXTREME MODE VOTE] PASSED - SLAYING"
+	{
+		"chi"		"** **"
+	}
+	"***EXTREME MODE IS ACTIVE, YOU CAN SHOOT THE STAGE PICTURES TO SELECT THEM***"
+	{
+		"chi"		"** **"
+	}
+	"***WEEABOO ANNIHILATION CHOSEN***"
+	{
+		"chi"		"** **"
+	}
+	"***THE LIMBO OF SHREK CHOSEN***"
+	{
+		"chi"		"** **"
+	}
+	"***OMAHA BEACH CHOSEN***"
+	{
+		"chi"		"** **"
+	}
+	"***REVENGE OF THE DICKLETT TEMPLE CHOSEN***"
+	{
+		"chi"		"** **"
+	}
+	"***THE VIRUS CHOSEN***"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE VOTE] PASSED - SLAYING"
 	{
 		"chi"		"** **"
 	}

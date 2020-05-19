@@ -19,17 +19,17 @@
 	"< 2 COWBELLS LEFT! >"
 	{
 		"chi"		"** 还剩2个！ **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< 1 COWBELLS LEFT!!! >"
 	{
 		"chi"		"** 还剩1个！！！ **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< 3 COWBELLS LEFT! >"
 	{
 		"chi"		"** 还剩3个！ **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< Cowbell Side Quest Start >"
 	{
@@ -98,7 +98,7 @@
 	"< Shotgun pickep up ! (10 shots) ! >"
 	{
 		"chi"		"** Shotgun被拾取了！(10次使用次数！) **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"[ITEMS] Shotgun is empty !"
 	{
@@ -115,7 +115,7 @@
 	"< It has 5 uses >"
 	{
 		"chi"		"** Bombs Droids能使用5次 **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< A player picked up Black Mage Flare >"
 	{
@@ -152,7 +152,7 @@
 	"< 1 Holy Bomb, 1 Minigun, 2 Shotguns >"
 	{
 		"chi"		"** 1个圣光手雷, 1个Minigun, 2个Shotguns > **"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"< Ultima - Heal Only Round >"
 	{
@@ -333,5 +333,29 @@
 	"sync_version"
 	{
 		"syncvalue"		"61721"
+	}
+	"Map made by Malgo"
+	{
+		"chi"		"** **"
+	}
+	"< WARMUP >"
+	{
+		"chi"		"** **"
+	}
+	"ze_ffvii_malgo_reactor"
+	{
+		"chi"		"** **"
+	}
+	"< INSANE II (ZOMBIEDEN VERSION) >"
+	{
+		"chi"		"** **"
+	}
+	"< Elevetor will start in 25 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"** ELECTRO Materia has been found. **"
+	{
+		"chi"		"** **"
 	}
 }
