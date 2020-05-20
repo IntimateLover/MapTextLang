@@ -123,7 +123,7 @@
 	"**Jump into the screen**"
 	{
 		"chi"		"**快跳进显示器里**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**Shield**"
 	{
@@ -180,5 +180,9 @@
 	"**[Admin]ZM**"
 	{
 		"chi"		"**管理员选择了ZM关**"
+	}
+	"**Nuke in 1 min**"
+	{
+		"chi"		"** **"
 	}
 }

@@ -123,7 +123,7 @@
 	"<< Warning: Nuke in 180 seconds >>"
 	{
 		"chi"		"**警告：180秒后核弹将会爆炸**"
-		"DoorCountdown"		"180"
+		"DoorCountDown"		"180"
 	}
 	"<< Hurry up!!! Get back to the entrance of the town!!! >>"
 	{
@@ -196,7 +196,7 @@
 	"<< Give me some time to break this huge stone >>"
 	{
 		"chi"		"**给我一些时间来破坏这个石头**"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"<< The door will break in 20 seconds >>"
 	{
@@ -209,7 +209,7 @@
 	"<< defend until the rock broken! >>"
 	{
 		"chi"		"**防守直到石头破碎！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"<< No one is here...... >>"
 	{
@@ -528,6 +528,66 @@
 		"chi"		"** **"
 	}
 	"<< Admin select Chapter III >>"
+	{
+		"chi"		"** **"
+	}
+	"<< wait for 20 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< All levers have been pulled >>"
+	{
+		"chi"		"** **"
+	}
+	"<< kill Tesla before it kills us!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Tesla has disappeared.... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Get out of there immediately!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ???: It seems that you all know why I entrusted you >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ???: You should have died when you activated the lever in the city >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ???: But you are alive and you defeated my pet for three times >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ???: Im proud of your bravery to come here and find the truth >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ???: So you gonna die now and I will bury you all out!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Tesla is activating a fire area >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The ruin starts to collapse!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hurry up!!! Get out of there!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Teleporter will activate in 45 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Got it!!! Tesla has died!!! >>"
 	{
 		"chi"		"** **"
 	}
