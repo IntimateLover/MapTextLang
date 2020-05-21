@@ -316,4 +316,8 @@
 	{
 		"chi"		">>>10秒内打死BOSS<<<"
 	}
+	">>> Failed To Defeat The Boss <<<"
+	{
+		"chi"		"** **"
+	}
 }
