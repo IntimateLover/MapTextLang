@@ -8,21 +8,21 @@
 	}
 	"623466"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"623466"
-		"m_iname"		"mt_add"
+		"m_iname"		"Ditto_Phys"
 	}
 	"623405"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"623405"
 		"m_iname"		"Bulba_Phys"
 	}
 	"623441"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"623441"
-		"m_iname"		"mt_add"
+		"m_iname"		"Charmander_Phys"
 	}
 	"623392"
 	{
@@ -32,13 +32,13 @@
 	}
 	"623821"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"623821"
 		"m_iname"		"Pikachu_Phys"
 	}
 	"623469"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"623469"
 		"m_iname"		"Ghastly_Phys"
 	}
