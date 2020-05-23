@@ -525,70 +525,70 @@
 	}
 	"<< Tesla is using Rock Slide! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**特斯拉使用了岩崩**"
 	}
 	"<< Admin select Chapter III >>"
 	{
-		"chi"		"** **"
+		"chi"		"**admin选择了第三章**"
 	}
 	"<< wait for 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**等待20秒**"
 	}
 	"<< All levers have been pulled >>"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的开关被拉下了**"
 	}
 	"<< kill Tesla before it kills us!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**在他杀了我们之前先搞定他**"
 	}
 	"<< Tesla has disappeared.... >>"
 	{
-		"chi"		"** **"
+		"chi"		"**特斯拉消失了......**"
 	}
 	"<< Get out of there immediately!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**迅速离开这里！**"
 	}
 	"<< ???: It seems that you all know why I entrusted you >>"
 	{
-		"chi"		"** **"
+		"chi"		"**？？？：看起来你们已经知道为什么我雇佣你们了**"
 	}
 	"<< ???: You should have died when you activated the lever in the city >>"
 	{
-		"chi"		"** **"
+		"chi"		"**？？？：你们本应在激活城市里的开关的时候就跟着一起陪葬的**"
 	}
 	"<< ???: But you are alive and you defeated my pet for three times >>"
 	{
-		"chi"		"** **"
+		"chi"		"**？？？：但是你们不仅活下来了，而且还三次击败了我的宠物**"
 	}
 	"<< ???: Im proud of your bravery to come here and find the truth >>"
 	{
-		"chi"		"** **"
+		"chi"		"**？？？：我对你们有勇气来这里寻找真相表示尊敬**"
 	}
 	"<< ???: So you gonna die now and I will bury you all out!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**？？？：所以现在就去死吧，我会好好埋葬你们的！！！**"
 	}
 	"<< Tesla is activating a fire area >>"
 	{
-		"chi"		"** **"
+		"chi"		"**特斯拉激活了一片火焰区域**"
 	}
 	"<< The ruin starts to collapse!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**遗迹开始崩溃了！！！**"
 	}
 	"<< Hurry up!!! Get out of there!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**快一点！！！撤离这里！！！**"
 	}
 	"<< Teleporter will activate in 45 seconds >>"
 	{
-		"chi"		"** **"
-	}
+		"chi"		"**传送器将在45秒后激活**"
+        }	
 	"<< Got it!!! Tesla has died!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"**做到了！特斯拉死了！**"
 	}
 }
