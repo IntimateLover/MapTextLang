@@ -287,11 +287,11 @@
 	}
 	"**SAVAGE mode was beaten. Unlocking ULTIMA mode **"
 	{
-		"chi"		"**您通过了凶残模式，解锁终极模式**"
+		"chi"		"**您通过了凶残难度，解锁终极难度**"
 	}
 	"**Level has been changed on Ultima Mode**"
 	{
-		"chi"		"**关卡切换到了终极模式**"
+		"chi"		"**关卡切换到了终极难度**"
 	}
 	"**The way will open in 25 seconds**"
 	{
