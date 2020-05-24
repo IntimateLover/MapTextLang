@@ -153,21 +153,89 @@
 	"25725"
 	{
 		"enable"		"1"
+		"hammerid"		"25725"
+		"m_iname"		"trigger2_breakable1"
 	}
 	"25695"
 	{
 		"enable"		"1"
+		"hammerid"		"25695"
+		"m_iname"		"trigger2_breakable2"
 	}
 	"30683"
 	{
 		"enable"		"1"
+		"hammerid"		"30683"
+		"m_iname"		"boss2_breakable"
 	}
 	"41797"
 	{
 		"enable"		"1"
+		"hammerid"		"41797"
+		"m_iname"		"smexy_boss"
 	}
 	"281607"
 	{
 		"enable"		"1"
+	}
+	"39142"
+	{
+		"enable"		"1"
+		"hammerid"		"39142"
+		"m_iname"		"boss2_attack5_breakable1"
+	}
+	"413797"
+	{
+		"enable"		"0"
+		"hammerid"		"413797"
+		"m_iname"		"npc_physbox&7603"
+	}
+	"417352"
+	{
+		"enable"		"0"
+		"hammerid"		"417352"
+		"m_iname"		"npc_hp&7602"
+	}
+	"31505"
+	{
+		"enable"		"1"
+		"hammerid"		"31505"
+		"m_iname"		"boss2_attack3_platform"
+	}
+	"30836"
+	{
+		"enable"		"1"
+		"hammerid"		"30836"
+		"m_iname"		"boss2_attack1_breakable1"
+	}
+	"30876"
+	{
+		"enable"		"1"
+		"hammerid"		"30876"
+		"m_iname"		"boss2_attack1_breakable1"
+	}
+	"391768"
+	{
+		"enable"		"0"
+		"hammerid"		"391768"
+		"m_iname"		"level1_breakable_win"
+	}
+	"56140"
+	{
+		"enable"		"0"
+		"hammerid"		"56140"
+		"m_iname"		"jerry_final_laser_portal_breaka"
+	}
+	"56163"
+	{
+		"enable"		"0"
+		"hammerid"		"56163"
+		"m_iname"		"jerry_final_laser_portal_breaka"
+	}
+	"406269"
+	{
+		"enable"		"1"
+		"hammerid"		"406269"
+		"m_iname"		"ending_1_jerry_hitbox"
 	}
 }

@@ -101,14 +101,6 @@
 	{
 		"chi"		"**门将在20秒后打开**"
 	}
-	"***Vauff: i require immediate cock and ball torture***"
-	{
-		"chi"		""
-	}
-	"***shoot the dicks***"
-	{
-		"chi"		""
-	}
 	"***short cut lift leaves in 50***"
 	{
 		"chi"		"**电梯将在50秒后上升**"
@@ -136,7 +128,7 @@
 	}
 	"***the 3rd bomb has been defused***"
 	{
-	        "chi"           "炸弹已被拆除"
+		"chi"		"炸弹已被拆除"
 	}
 	"***top gate opening in 30sec ***"
 	{
@@ -261,5 +253,17 @@
 	"***someone has picked up a sowrd***"
 	{
 		"chi"		"**一名人类玩家捡起了木剑**"
+	}
+	"***door opens in 10***"
+	{
+		"chi"		"** **"
+	}
+	"***gate opens in 30 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***10 sec***"
+	{
+		"chi"		"** **"
 	}
 }
