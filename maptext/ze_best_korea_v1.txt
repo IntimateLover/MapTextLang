@@ -359,6 +359,7 @@
 	"***DADDY DOOR IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**爸爸门30秒后打开**"
+		"DoorCountdown"		"30"
 	}
 	"***DEFEND HARD***"
 	{
@@ -542,7 +543,7 @@
 	}
 	"***LAGEVATOR IS LEAVING***"
 	{
-		"chi"		"**颠梯正在离开**"
+		"chi"		"**电梯正在离开**"
 	}
 	"***SAY ADIOS TO RAM RANCH***"
 	{
@@ -755,65 +756,6 @@
 	"***ADMIN ROOM - KILL ALL***"
 	{
 		"chi"		"**管理员房间。杀死所有人**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_g_cv_money 10000"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar  sm_decoy_limit 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar  sm_he_limit 5"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar  sm_molotov_limit 3"
-		}
-		"4"
-		{
-			"cvar"		"sm_cvar zr_infect_spawntime_min 30"
-		}
-		"5"
-		{
-			"cvar"		"sm_cvar zr_infect_spawntime_max 30"
-		}
-		"6"
-		{
-			"cvar"		"sm_cvar  sm_smoke_limit 3"
-		}
-		"7"
-		{
-			"cvar"		"sm_cvar zr_infect_spawntime_max 25"
-		}
-		"8"
-		{
-			"cvar"		"sm_cvar zr_infect_spawntime_min 25"
-		}
-		"9"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"10"
-		{
-			"cvar"		"sm_Cvar sm_g_cv_money 12000"
-		}
-		"11"
-		{
-			"cvar"		"sm_Cvar sm_he_limit 5"
-		}
-		"12"
-		{
-			"cvar"		"sm_Cvar sm_smoke_limit 3"
-		}
-		"13"
-		{
-			"cvar"		"sm_Cvar sm_molotov_limit 3"
-		}
 	}
 	"***ADMIN ROOM - STAGE 1***"
 	{
