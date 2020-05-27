@@ -15,42 +15,42 @@
 	"**level 1**"
 	{
 		"chi"		"**第一关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 2**"
 	{
 		"chi"		"**第二关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 3**"
 	{
 		"chi"		"**第三关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 4**"
 	{
 		"chi"		"**第四关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 1**"
 	{
 		"chi"		"**第一关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 2**"
 	{
 		"chi"		"**第二关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 3**"
 	{
 		"chi"		"**第三关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**level 4**"
 	{
 		"chi"		"**第四关 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**defend 7 sec**"
 	{
@@ -75,7 +75,7 @@
 	"**defend 30s**"
 	{
 		"chi"		"**防守30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**ZM Teleport**"
 	{
@@ -92,7 +92,7 @@
 	"**hold the train for 30 sec**"
 	{
 		"chi"		"**防守火车30秒 **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"**jump on the train**"
 	{
@@ -101,7 +101,7 @@
 	"**Defend 25s**"
 	{
 		"chi"		"**防守25秒 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"*** lets go ***"
 	{
@@ -110,12 +110,12 @@
 	"**He is using an energy shield. Destroy 4 generators**"
 	{
 		"chi"		"**他使用了能量盾.破坏四个发生器 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**Destroy them first**"
 	{
 		"chi"		"**第一时间破坏四个发生器 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** CONTROLLER Uses electric field WARNING ***"
 	{
@@ -124,22 +124,22 @@
 	"**2 generator was destroyed**"
 	{
 		"chi"		"**第二个发生器被摧毁 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**1 generator was destroyed**"
 	{
 		"chi"		"**第一个发生器被摧毁 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**3 generator was destroyed**"
 	{
 		"chi"		"**第三个发生器被摧毁 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**4 generator was destroyed**"
 	{
 		"chi"		"**第四个发生器被摧毁 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**controller ran away**"
 	{
@@ -152,7 +152,7 @@
 	"**The door will open in 15 seconds**"
 	{
 		"chi"		"**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"**shoot the helicopter**"
 	{
@@ -165,12 +165,12 @@
 	"**BTR will leave in 20sec**"
 	{
 		"chi"		"**BTR卡车将在20秒后离开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Door will Close 15 second**"
 	{
 		"chi"		"**大门将在15秒后关闭 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** ZM INSIDE KILL HIM ***"
 	{
@@ -179,12 +179,12 @@
 	"*** NO 1 ZOMBIE INSIDE NICE WIN ***"
 	{
 		"chi"		"**没有一只僵尸在里面，不错的胜利 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**2 lasers**"
 	{
 		"chi"		"**注意，同时有2刀出现(大跳躲避) **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**lower laser**"
 	{
@@ -201,7 +201,7 @@
 	"**Defend 20 second**"
 	{
 		"chi"		"**防守20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Zombie have been teleported**"
 	{
@@ -222,12 +222,12 @@
 	"**defend 20s**"
 	{
 		"chi"		"**防守20秒 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**Helicopter leaving in 25 sec**"
 	{
 		"chi"		"**直升机在25秒后离开 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Helicopter is going to the end of train, move on!**"
 	{
@@ -248,7 +248,7 @@
 	"**doors will close in 50sec**"
 	{
 		"chi"		"**大门将在50秒后关闭 **"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"**doors are closing**"
 	{
@@ -273,22 +273,22 @@
 	"**Elevator 10 second**"
 	{
 		"chi"		"**电梯还有10秒 **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"**The door will open in 20 seconds**"
 	{
 		"chi"		"**大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"**The door will open in 25 seconds**"
 	{
 		"chi"		"**大门将在25秒后打开 **"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"**Password 8191335**"
 	{
 		"chi"		"**密码 8191335 **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"**The door will open in 15 seconds**"
 	{
@@ -369,22 +369,22 @@
 	"*** LEVEL 1 WIN ***"
 	{
 		"chi"		"**第一关胜利 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** LEVEL 2 WIN ***"
 	{
 		"chi"		"**第二关胜利 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** LEVEL 1 WIN ***"
 	{
 		"chi"		"**第一关胜利 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"*** LEVEL 3 WIN ***"
 	{
 		"chi"		"**第三关胜利 **"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"**defend 30sec**"
 	{
@@ -437,5 +437,29 @@
 	"sync_version"
 	{
 		"syncvalue"		"74587"
+	}
+	"**Defend 35s**"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend 15 sec ***"
+	{
+		"chi"		"** **"
+	}
+	"**Door will Close 12 second**"
+	{
+		"chi"		"** **"
+	}
+	"**elevator will leave in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleport ZM**"
+	{
+		"chi"		"** **"
+	}
+	"**bloodsucker IS DEAD**"
+	{
+		"chi"		"** **"
 	}
 }

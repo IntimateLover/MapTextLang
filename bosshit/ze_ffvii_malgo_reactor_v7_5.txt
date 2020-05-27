@@ -304,4 +304,52 @@
 		"hammerid"		"1166696"
 		"m_iname"		"Zombie_Jail_Door"
 	}
+	"1237947"
+	{
+		"enable"		"1"
+		"hammerid"		"1237947"
+		"m_iname"		"Boss_Bahamut_Breakable"
+	}
+	"1238277"
+	{
+		"enable"		"0"
+		"hammerid"		"1238277"
+		"m_iname"		"Bahamut_Ojo_Phys"
+	}
+	"1238237"
+	{
+		"enable"		"0"
+		"hammerid"		"1238237"
+		"m_iname"		"Bahamut_Body_Phys"
+	}
+	"1281853"
+	{
+		"enable"		"0"
+		"hammerid"		"1281853"
+		"m_iname"		"Impulse_Target_D&1318"
+	}
+	"1281856"
+	{
+		"enable"		"0"
+		"hammerid"		"1281856"
+		"m_iname"		"Impulse_Target_C&1318"
+	}
+	"1281859"
+	{
+		"enable"		"0"
+		"hammerid"		"1281859"
+		"m_iname"		"Impulse_Target_B&1318"
+	}
+	"1281862"
+	{
+		"enable"		"0"
+		"hammerid"		"1281862"
+		"m_iname"		"Impulse_Target_A&1318"
+	}
+	"1311157"
+	{
+		"enable"		"0"
+		"hammerid"		"1311157"
+		"m_iname"		"Final_Fulgor_Breakable"
+	}
 }
