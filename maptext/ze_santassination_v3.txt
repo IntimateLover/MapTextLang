@@ -210,11 +210,12 @@
 	}
 	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
 	{
-		"chi"		"**使用下水道的巧克力以进入**"
+		"chi"		"**为了进入工厂，请使用来自下水道的巧克力满足大嘴巴**"
 	}
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
-		"chi"		"**我们需要7名勇士**"
+		"chi"		"**满足大嘴巴需要让他吃到7次巧克力**"
+		"DoorCountDown"		"-1"
 	}
 	"***GOOD LUCK***"
 	{
@@ -230,7 +231,7 @@
 	}
 	"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
 	{
-		"chi"		"**一名玩家拿起治疗**"
+		"chi"		"**一名玩家拿起屎疗，按E使用，只能使用一次**"
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
@@ -277,15 +278,15 @@
 	}
 	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
 	{
-		"chi"		"**巧克力发挥了作用**"
+		"chi"		"**大嘴巴很喜欢你的巧克力服务**"
 	}
 	"***YOU MAY NOW ENTER***"
 	{
-		"chi"		"**现在进入**"
+		"chi"		"**我们现在可以通过了**"
 	}
 	"***HEAD TOWARDS SANTA'S FACTORY***"
 	{
-		"chi"		"**头朝向工厂**"
+		"chi"		"**前方是圣诞老人工厂**"
 	}
 	"***BE PREPARED FOR ANYTHING***"
 	{
@@ -808,15 +809,17 @@
 	}
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
-		"chi"		"**BIGSANTA大门将在15秒后关闭**"
+		"chi"		"**最后的大门将在15秒后关闭**"
+		"DoorCountdown"		"15"
 	}
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"**BIGSANTA大门将在5秒后关闭**"
+		"chi"		"**最后的大门将在5秒后关闭**"
+		"DoorCountdown"		"-1"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
-		"chi"		"**BIGSANTA大门正在关闭**"
+		"chi"		"**大门正在关闭**"
 	}
 	"*** - BIG SANTA - ***"
 	{
@@ -946,11 +949,11 @@
 	}
 	"Everyone should really consider sending Luffaren some nudes"
 	{
-		"chi"		"** **"
+		"chi"		"**每个人都应该考虑向Luffaren发一些照片**"
 	}
 	"HEY GUYS!"
 	{
-		"chi"		"** **"
+		"chi"		"**嘿，伙计**"
 	}
 	"***YOU HAVE DEFILED MUFASAS CORPSE***"
 	{
@@ -958,11 +961,11 @@
 	}
 	"***SKIPPING CUTSCENE***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳过过场动画**"
 	}
 	"***YOU SICK BASTARDS...***"
 	{
-		"chi"		"** **"
+		"chi"		"**你收拾了那群混蛋**"
 	}
 	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
 	{
@@ -1102,11 +1105,11 @@
 	}
 	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作者觉得需要给他大补一下**"
 	}
 	"***DONT TELL HIM I SAID THAT***"
 	{
-		"chi"		"** **"
+		"chi"		"**这话不要跟他讲哦**"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
@@ -1146,7 +1149,7 @@
 	}
 	"***SOCRATES IS***"
 	{
-		"chi"		"**苏格拉底式**"
+		"chi"		"**苏格拉底是...**"
 	}
 	"***SOCRATES FEEDS***"
 	{
@@ -1242,23 +1245,23 @@
 	}
 	"***THE ETERNAL TRUTH LOOMS***"
 	{
-		"chi"		"** **"
+		"chi"		"**永恒的里世界**"
 	}
 	"***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DONT ENJOY HIS FRESH MIXTAPE...***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作者注意到你并不喜欢他的新录像带**"
 	}
 	"***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作者认为你可能需要对这种傲慢行为进行惩罚**"
 	}
 	"***BE PREPARED FOR SOMETHING SPECIAL...***"
 	{
-		"chi"		"** **"
+		"chi"		"**为展示特别的东西做好准备**"
 	}
 	"***...SOMETHING VERY SPECIAL...***"
 	{
-		"chi"		"** **"
+		"chi"		"**非常特别的东西...**"
 	}
 	"^This fella is a silly-willy that everyone should point and laugh at!"
 	{
@@ -1274,11 +1277,11 @@
 	}
 	"***WHAT...***"
 	{
-		"chi"		"** **"
+		"chi"		"**什么...**"
 	}
 	"What"
 	{
-		"chi"		"** **"
+		"chi"		"**什么**"
 	}
 	"YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
 	{
@@ -1294,11 +1297,11 @@
 	}
 	"***THE CURSE OF ETERNAL TRUTH HAS BEEN LIFTED***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们已经通关了永恒的里世界**"
 	}
 	"***YOU ARE THE ETERNAL LEGENDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们是狮子王永恒传奇玩家**"
 	}
 	"***...***"
 	{
@@ -1306,23 +1309,23 @@
 	}
 	"***NOTHING IS NOT REAL***"
 	{
-		"chi"		"** **"
+		"chi"		"**任何事物都是真实的**"
 	}
 	"***THE TRUTH IS UNFORGIVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**真相不可原谅**"
 	}
 	"***THERE IS NOTHING LEFT FOR YOU HERE...***"
 	{
-		"chi"		"** **"
+		"chi"		"**这里没有留给你的东西**"
 	}
 	"***LEAVE THIS REALM***"
 	{
-		"chi"		"** **"
+		"chi"		"**离开这个地方**"
 	}
 	"***PERISH***"
 	{
-		"chi"		"** **"
+		"chi"		"**这个地方将会毁灭**"
 	}
 	"HEY EVERYONE! Kaemon is a wet biscuit!!!"
 	{
