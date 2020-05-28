@@ -3,6 +3,7 @@
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
 		"chi"		"**距离岩石墙碎裂还有15秒**"
+		"command"		"zr_class_modify humans health 200"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
