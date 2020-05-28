@@ -3,12 +3,10 @@
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
 		"chi"		"**距离岩石墙碎裂还有15秒**"
-		"DoorCountDown"		"15"
 		"command"		"zr_class_modify humans health 200"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
-		"command"		"zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
 	"***Fall back***"
@@ -254,7 +252,7 @@
 	}
 	"***PLAYER PICKED UP ITEM - MINI CANNON***"
 	{
-		"chi"		"**一名玩家拿起了迷你大炮**"
+		"chi"		"**一名玩家拿起了迷你机枪**"
 	}
 	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
@@ -266,7 +264,7 @@
 	}
 	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
 	{
-		"chi"		"**一名玩家拿起了光束炮**"
+		"chi"		"**一名玩家拿起了激光机枪**"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
@@ -370,11 +368,13 @@
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以花40美元让墨西哥卷饼车带你越过边界**"
+		"DoorCountDown"		"-1"
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
 	{
-		"chi"		"** **"
+		"chi"		"**你设法从你的学费里拿出41美元**"
+		"DoorCountDown"		"-1"
 	}
 	"***20 SECONDS UNTIL DEPARTURE***"
 	{
@@ -386,7 +386,7 @@
 	}
 	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
 	{
-		"chi"		"** **"
+		"chi"		"**请遵守此要求，否则您的ClubPenguin帐号将被禁用**"
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
@@ -588,103 +588,151 @@
 	}
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"**电车1 20s内离开**"
-	}
-	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
-	{
-		"chi"		"**低电梯将在20s内离开**"
+		"chi"		"**[板子]一号电车将在20秒后离开**"
 	}
 	"***TRAM 1 IS LEAVING***"
 	{
-		"chi"		"**电车1 离开**"
-	}
-	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
-	{
-		"chi"		"**低电梯将在5s内离开**"
+		"chi"		"**[板子]一号电车已离开**"
 	}
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"**电车2 20s内离开**"
-	}
-	"***LOWER ELEVATOR IS LEAVING***"
-	{
-		"chi"		"**低电梯离开**"
-	}
-	"***TRAM 2 IS LEAVING***"
-	{
-		"chi"		"**电车2 离开**"
-	}
-	"***LOWER GATE IS OPENING IN 35 SECONDS***"
-	{
-		"chi"		"**低门将在35s内打开**"
-		"DoorCountDown"		"35"
+		"chi"		"**[板子]二号电车将在10秒后离开**"
 	}
 	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
 	{
-		"chi"		"**内门将在40s内打开**"
-	}
-	"***LOWER GATE IS OPENING IN 5 SECONDS***"
-	{
-		"chi"		"**低门将在5s内打开**"
-	}
-	"***LOWER GATE IS OPENING***"
-	{
-		"chi"		"**低门打开**"
+		"chi"		"**板子路铁门将在40秒打开**"
 	}
 	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**内门将在5s内打开**"
+		"chi"		"**板子路铁门将在5秒后打开**"
 	}
 	"***INNER UPPER GATE IS OPENING***"
 	{
-		"chi"		"**内门打开**"
+		"chi"		"**板子路铁门已打开**"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"**鹦鹉路电梯将在20秒后启动**"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**鹦鹉路电梯将在5秒后启动**"
+	}
+	"***LOWER ELEVATOR IS LEAVING***"
+	{
+		"chi"		"**鹦鹉路电梯已离开**"
+	}
+	"***LOWER GATE IS OPENING IN 35 SECONDS***"
+	{
+		"chi"		"**鹦鹉路铁门将在35秒后打开**"
+	}
+	"***LOWER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**鹦鹉路铁门将在5秒后打开**"
+	}
+	"***LOWER GATE IS OPENING***"
+	{
+		"chi"		"**鹦鹉路[下城墙]铁门已打开**"
+	}
+	"***OUTER GATE IS OPENING IN 50 SECONDS***"
+	{
+		"chi"		"**狮子路铁门将在50秒后打开**"
+	}
+	"***OUTER GATE IS OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**狮子路铁门将在10秒后打开**"
+	}
+	"***OUTER GATE IS OPENING***"
+	{
+		"chi"		"**狮子路铁门已打开**"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
+	{
+		"chi"		"**狮子路电梯将在40秒后启动**"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**狮子路电梯将在5秒后启动**"
+	}
+	"***OUTER ELEVATOR IS LEAVING***"
+	{
+		"chi"		"**狮子路电梯已离开**"
+	}
+	"***CENTER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"**中间路铁门将在30秒后打开**"
+	}
+	"***CENTER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**中间路铁门将在5秒后打开**"
+	}
+	"***CENTER GATE IS OPENING***"
+	{
+		"chi"		"**中间路铁门已打开**"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"**中间路电梯井门将在30秒后打开**"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**中间路电梯井门将在5秒后打开**"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING***"
+	{
+		"chi"		"**中间路电梯井门已打开**"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"**外墙入口30s内打开**"
-		"DoorCountDown"		"30"
+		"chi"		"**城墙入口将在30秒后打开**"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**外墙入口5s内打开**"
+		"chi"		"**城墙入口将在5秒后打开**"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING***"
 	{
-		"chi"		"**外墙入口打开**"
+		"chi"		"**城墙入口已打开**"
 	}
 	"***UPPER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"**上面的门30s内打开**"
-		"DoorCountDown"		"30"
+		"chi"		"**上城墙铁门将在30秒后打开**"
 	}
 	"***LOWER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"**下面的门30s内打开**"
+		"chi"		"**下城墙铁门将在30秒后打开**"
 	}
 	"***UPPER GATE IS OPENING***"
 	{
-		"chi"		"**上面的门打开**"
+		"chi"		"**上城墙铁门已打开**"
 	}
 	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
 	{
-		"chi"		"**下面的门打开**"
+		"chi"		"**上层铁门将在20秒后打开**"
+	}
+	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"**上层铁门将在5秒后打开**"
+	}
+	"***MOVE IT***"
+	{
+		"chi"		"**撤退**"
 	}
 	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
 	{
 		"chi"		"**一名玩家拿起火箭炮**"
 	}
-	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
-	{
-		"chi"		"**外面的门将会在5s内打开**"
-	}
-	"***MOVE IT***"
-	{
-		"chi"		"**移开它**"
-	}
 	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"**20s内开门**"
-		"DoorCountDown"		"20"
+		"chi"		"**圣诞老人的房子将在20秒后开放**"
+	}
+	"***SANTA'S DOOR IS OPENING***"
+	{
+		"chi"		"**圣诞老人的房子已开放**"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"**进门**"
 	}
 	"***SANTA'S DOOR IS OPENING***"
 	{
@@ -692,35 +740,35 @@
 	}
 	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"**5s后关门**"
+		"chi"		"**圣诞老人的房子将在5秒后关门**"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
 	{
-		"chi"		"**4s后关门**"
+		"chi"		"**圣诞老人的房子将在4秒后关门**"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
 	{
-		"chi"		"**3s后关门**"
+		"chi"		"**圣诞老人的房子将在3秒后关门**"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
 	{
-		"chi"		"**2s后关门**"
+		"chi"		"**圣诞老人的房子将在2秒后关门**"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
 	{
-		"chi"		"**1s后关门**"
+		"chi"		"**圣诞老人的房子将在1秒后关门**"
 	}
 	"***SANTA'S DOOR IS CLOSING***"
 	{
-		"chi"		"**门关了**"
+		"chi"		"**圣诞老人的房子已关闭**"
 	}
 	"*** - SANTA - ***"
 	{
-		"chi"		"**SANTA**"
+		"chi"		"**小圣诞老人,按ad躲避boss攻击，不要贴墙打boss**"
 	}
 	"***YOU HAVE DEFEATED SANTA***"
 	{
-		"chi"		"**你打败了圣诞老人**"
+		"chi"		"**你打败了小圣诞老人**"
 	}
 	"***FOR NOW... IT SEEMS***"
 	{
@@ -728,12 +776,12 @@
 	}
 	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"**上面的塔门20s内打开**"
-		"DoorCountDown"		"20"
+		"chi"		"**上面的塔门将在20秒后打开**"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
-		"chi"		"**最终的电梯50s内离开**"
+		"chi"		"**通往终点的电梯即将启动**"
+		"DoorCountdown"		"50"
 	}
 	"***UPPER TOWER DOOR IS OPENING***"
 	{
@@ -741,31 +789,34 @@
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"**最后的电梯20s内离开**"
+		"chi"		"**通往终点的电梯将在20秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"**最后的电梯10s内离开**"
+		"chi"		"**通往终点的电梯将在10秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"**最后的电梯5s内离开**"
+		"chi"		"**通往终点的电梯将在5秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
-		"chi"		"**最后的电梯离开**"
+		"chi"		"**通往终点的电梯已离开**"
 	}
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
-		"chi"		"**最后的大门15s内关闭**"
+		"chi"		"**BIGSANTA大门将在15秒后关闭**"
 	}
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"**最后的大门5s内关闭**"
+		"chi"		"**BIGSANTA大门将在5秒后关闭**"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
-		"chi"		"** 最后的大门关闭**"
+		"chi"		"**BIGSANTA大门正在关闭**"
 	}
 	"*** - BIG SANTA - ***"
 	{
@@ -1059,15 +1110,15 @@
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
-		"chi"		"**电梯将要在30s内离开**"
+		"chi"		"**真理电梯将要在30s内离开**"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"**电梯将要在5s内离开**"
+		"chi"		"**真理电梯将要在5s内离开**"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING***"
 	{
-		"chi"		"**电梯离开**"
+		"chi"		"**真理电梯已离开**"
 	}
 	"***SOCRATES WISHES SILENTLY***"
 	{
@@ -1279,31 +1330,33 @@
 	}
 	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
 	{
-		"chi"		"** **"
+		"chi"		"**想要跳关到EXTREME？那么请你待在蓝色板子上**"
+		"DoorCountdown"		"5"
 	}
 	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
 	{
-		"chi"		"** **"
+		"chi"		"**百分之90的人类站在蓝色板子方可跳关**"
+		"DoorCountdown"		"-1"
 	}
 	"***TRUMP IS PROUD OF YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"**川普同志很赞赏你**"
 	}
 	"***THE VOTE HAS SPOKEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**投票已通过**"
 	}
 	"***ENABLING EXTREME MODE***"
 	{
-		"chi"		"** **"
+		"chi"		"**已激活EXTREME模式**"
 	}
 	"***RESTARTING ROUND***"
 	{
-		"chi"		"** **"
+		"chi"		"**即将重新开始**"
 	}
 	"***HAIL TRUMP***"
 	{
-		"chi"		"** **"
+		"chi"		"**川普万岁**"
 	}
 	"***LUFFAREN HAS ENTERED THE ADMIN ROOM***"
 	{
