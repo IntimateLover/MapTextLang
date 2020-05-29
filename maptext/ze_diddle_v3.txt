@@ -248,7 +248,7 @@
 	}
 	"***TPING IN 10 SECS***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在10秒后传送**"
 	}
 	"<== Bomb explosion in 30second ==>"
 	{
@@ -256,23 +256,23 @@
 	}
 	"***TPING IN 5 SECS***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在5秒后传送**"
 	}
 	"***TPING IN 4 SECS***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在4秒后传送**"
 	}
 	"***TPING IN 3 SECS***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在3秒后传送**"
 	}
 	"***TPING IN 2 SECS***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在2秒后传送**"
 	}
 	"***TPING IN 1 SEC***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在1秒后传送**"
 	}
 	"***Poof*"
 	{
@@ -330,10 +330,6 @@
 	{
 		"chi"		"**守住20秒**"
 	}
-	"<==Get in the heilcopter and out in 45s ==>"
-	{
-		"chi"		">>>进入直升机守住45秒<<<"
-	}
 	"go..."
 	{
 		"chi"		"**走...**"
@@ -341,18 +337,6 @@
 	"shoot the floor"
 	{
 		"chi"		"**射击地板**"
-	}
-	"<==heilcopter fly out in 30s ==>"
-	{
-		"chi"		">>>直升机在30秒后离开<<<"
-	}
-	"<==heilcopter fly out in 15s ==>"
-	{
-		"chi"		">>>直升机在15秒后离开<<<"
-	}
-	"<==heilcopter fly out in 5s ==>"
-	{
-		"chi"		">>>直升机在5秒后离开<<<"
 	}
 	"!!shoot the zombies to the side!!"
 	{
@@ -457,10 +441,12 @@
 	"**fart attack**"
 	{
 		"chi"		"**放屁攻击**"
+		"DoorCountdown"		"3"
 	}
 	"**jizz attack right**"
 	{
 		"chi"		"**精液攻击-右**"
+		"DoorCountdown"		"3"
 	}
 	"**the dicklett has been killed**"
 	{
@@ -497,10 +483,12 @@
 	"***laser attack***"
 	{
 		"chi"		"**激光攻击（注意躲避）**"
+		"DoorCountdown"		"3"
 	}
 	"***earthquake***"
 	{
 		"chi"		"**地震（小心脚下）**"
+		"DoorCountdown"		"3"
 	}
 	"***Hey, doing well i see***"
 	{
@@ -530,14 +518,17 @@
 	"*Demon Turtle casts Spears*"
 	{
 		"chi"		"**恶魔龟扔出了Spears**"
+		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Chill*"
 	{
 		"chi"		"**恶魔龟使用了寒冰**"
+		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Water Blast*"
 	{
 		"chi"		"**恶魔龟使用了水爆**"
+		"DoorCountdown"		"3"
 	}
 	"*Tiki 2 Broken*"
 	{
@@ -550,6 +541,7 @@
 	"*Demon 7{{2 casts ERROR#*"
 	{
 		"chi"		"**恶魔7{{2使用了ERROR#**"
+		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts 29--"
 	{
@@ -557,15 +549,18 @@
 	}
 	"*Demon Turtle 7_) Launch2.0.exe*"
 	{
-		"chi"		"**恶魔7{{使用了#launch 2.0**"
+		"chi"		"**恶魔7_使用了#launch 2.0**"
+		"DoorCountdown"		"3"
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
 		"chi"		"**恶魔龟使用了图片攻击**"
+		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Launch*"
 	{
 		"chi"		"**恶魔龟使用了Launch**"
+		"DoorCountdown"		"3"
 	}
 	"*Something is happening..*"
 	{
@@ -790,6 +785,7 @@
 	"***A VAGINA EATS PIZZA DAILY***"
 	{
 		"chi"		"**Vagina每天吃披萨**"
+		"DoorCountdown"		"3"
 	}
 	"***A VAGINA CAN FART***"
 	{
@@ -806,6 +802,7 @@
 	"***A VAGINA RUNS AROUND THE PRIZE OF 40$***"
 	{
 		"chi"		"**Vagina的价格是40$**"
+		"DoorCountdown"		"-1"
 	}
 	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
 	{
@@ -846,6 +843,7 @@
 	"**jizz attack left**"
 	{
 		"chi"		"**精液攻击-左**"
+		"DoorCountdown"		"3"
 	}
 	"father"
 	{
@@ -854,6 +852,7 @@
 	"**stomp attack**"
 	{
 		"chi"		"**踩踏攻击**"
+		"DoorCountdown"		"3"
 	}
 	"***GET DIDDLING***"
 	{
@@ -1015,7 +1014,7 @@
 	}
 	"***THE ELEVATOR LEAVES IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将会在5秒后离开**"
 	}
 	"***THE TOWER GATE IS OPENING IN 30 SECONDS***"
 	{
@@ -1059,31 +1058,31 @@
 	}
 	"***THE END IS COMING IN 20 SECONDS***"
 	{
-		"chi"		"**结局在20秒后到来**"
+		"chi"		"**结局将在20秒后到来**"
 	}
 	"***THE END IS COMING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**结局将在10秒后到来**"
 	}
 	"***THE END IS COMING IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**结局将在5秒后到来**"
 	}
 	"***THE END IS COMING IN 4 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**结局将在4秒后到来**"
 	}
 	"***THE END IS COMING IN 3 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**结局将在3秒后到来**"
 	}
 	"***THE END IS COMING IN 2 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**结局将在2秒后到来**"
 	}
 	"***THE END IS COMING IN 1 SECOND***"
 	{
-		"chi"		"** **"
+		"chi"		"**结局将在1秒后到来**"
 	}
 	"***THE END IS NIGH***"
 	{
@@ -1347,7 +1346,7 @@
 	}
 	"***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***"
 	{
-		"chi"		"** **"
+		"chi"		"**没有足够的人类，为了节约时间处死僵尸**"
 	}
 	"<== Wait 25 second to go to heilcopter==>"
 	{
@@ -1355,19 +1354,19 @@
 	}
 	"***ZOMBIES TELEPORT IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸15秒后传送**"
 	}
 	"***ZOMBIES TELEPORT IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后传送**"
 	}
 	"***ZOMBIES TELEPORT IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送**"
 	}
 	"***ZOMBIES TELEPORTING***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸已经传送**"
 	}
 	"***ZOMBIES REACHED ELEVATOR - YOURE DEAD***"
 	{
@@ -1375,7 +1374,7 @@
 	}
 	"***DEFEND FOR 50 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守50秒**"
 	}
 	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
 	{
@@ -1383,7 +1382,7 @@
 	}
 	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
 	{
-		"chi"		"****如果你花太长时间（2：20内）你将会被传送出去****"
+		"chi"		"**如果你花太长时间（2：20内）你将会被传送出去**"
 	}
 	"hold 15sec"
 	{
@@ -1395,15 +1394,15 @@
 	}
 	"<==helicopter fly out in 30s ==>"
 	{
-		"chi"		"** **"
+		"chi"		">>><==直升机30秒后离开==><<<"
 	}
 	"<==helicopter fly out in 15s ==>"
 	{
-		"chi"		"** **"
+		"chi"		">>><==直升机15秒后离开==><<<"
 	}
 	"<==helicopter fly out in 5s ==>"
 	{
-		"chi"		"** **"
+		"chi"		">>><==直升机5秒后离开==><<<"
 	}
 	"<<<ZOMBIE TP TO BOSS>>>"
 	{
@@ -1415,11 +1414,11 @@
 	}
 	"BUILD A LADDER ||-----||"
 	{
-		"chi"		"****造一条梯子****"
+		"chi"		"**造一条梯子**"
 	}
 	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸圣战不允许在这种地方爆炸**"
 	}
 	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
 	{
@@ -1431,7 +1430,7 @@
 	}
 	"***EXTREME MODE IS ACTIVE, YOU CAN SHOOT THE STAGE PICTURES TO SELECT THEM***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在是EX模式，你可以通过射击图片以选择关卡**"
 	}
 	"***WEEABOO ANNIHILATION CHOSEN***"
 	{
