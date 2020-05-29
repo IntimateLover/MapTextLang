@@ -217,7 +217,7 @@
 		"chi"		"**满足大嘴巴需要让他吃到7次巧克力**"
 		"DoorCountDown"		"-1"
 	}
-	"***GOOD LUCK***"
+	"***good luck***"
 	{
 		"chi"		"**好运**"
 	}
@@ -731,7 +731,7 @@
 	{
 		"chi"		"**圣诞老人的房子已开放**"
 	}
-	"***FALL BACK***"
+	"***Fall back***"
 	{
 		"chi"		"**进门**"
 	}
@@ -782,7 +782,7 @@
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯即将启动**"
-		"DoorCountdown"		"50"
+		"DoorCountDown"		"50"
 	}
 	"***UPPER TOWER DOOR IS OPENING***"
 	{
@@ -791,17 +791,17 @@
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯将在20秒后启动**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯将在10秒后启动**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯将在5秒后启动**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
@@ -810,12 +810,12 @@
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
 		"chi"		"**最后的大门将在15秒后关闭**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
 		"chi"		"**最后的大门将在5秒后关闭**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
@@ -1334,12 +1334,12 @@
 	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
 	{
 		"chi"		"**想要跳关到EXTREME？那么请你待在蓝色板子上**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
 	{
 		"chi"		"**百分之90的人类站在蓝色板子方可跳关**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***TRUMP IS PROUD OF YOU***"
 	{
@@ -1414,6 +1414,10 @@
 		"chi"		"** **"
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
+	{
+		"chi"		"** **"
+	}
+	"***TRAM 2 IS LEAVING***"
 	{
 		"chi"		"** **"
 	}
