@@ -86,11 +86,11 @@
 	}
 	"***1st crystal is fading"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***2nd crystal is fading***"
 	{
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"sync_version"
 	{
@@ -501,6 +501,26 @@
 		"chi"		"** **"
 	}
 	"***Chapter Failed***"
+	{
+		"chi"		"** **"
+	}
+	"***For some reason my profile is dead, you can find me on GUC  GFL discord***"
+	{
+		"chi"		"** **"
+	}
+	"***This is the final version of the map, there wont be any more patcheschanges unless needed...***"
+	{
+		"chi"		"** **"
+	}
+	"***Special thanks to Luffaren for the animation idea***"
+	{
+		"chi"		"** **"
+	}
+	"***Custom assets 90% done by me***"
+	{
+		"chi"		"** **"
+	}
+	"***Chapter 1: Raustens Sacred Stone***"
 	{
 		"chi"		"** **"
 	}
