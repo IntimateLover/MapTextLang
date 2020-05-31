@@ -426,4 +426,16 @@
 		"hammerid"		"7072628"
 		"m_iname"		"fontaine_2_breakable"
 	}
+	"9676032"
+	{
+		"enable"		"0"
+		"hammerid"		"9676032"
+		"m_iname"		"plasmid_gravity_physbox_3"
+	}
+	"9676029"
+	{
+		"enable"		"0"
+		"hammerid"		"9676029"
+		"m_iname"		"plasmid_gravity_physbox_2&2992"
+	}
 }
