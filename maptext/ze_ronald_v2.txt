@@ -11,7 +11,7 @@
 	"***5050 chance you die***"
 	{
 		"chi"		"**百分之50几率你会死亡**"
-		"DoorCountdown"		"-1"
+		"DoorCountDown"		"-1"
 	}
 	"***you lose now you are dead***"
 	{
@@ -60,5 +60,13 @@
 	"***the zombie item has been picked up***"
 	{
 		"chi"		"**一名僵尸玩家捡起了伤害神器**"
+	}
+	"***GATE OPENS IN 25 SEC***"
+	{
+		"chi"		"** **"
+	}
+	"***gate opens in 20 sec***"
+	{
+		"chi"		"** **"
 	}
 }

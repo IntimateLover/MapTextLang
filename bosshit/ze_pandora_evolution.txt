@@ -150,4 +150,16 @@
 		"hammerid"		"19288"
 		"m_iname"		"Elevator_Breakable"
 	}
+	"96130"
+	{
+		"enable"		"0"
+		"hammerid"		"96130"
+		"m_iname"		"Level_1"
+	}
+	"237302"
+	{
+		"enable"		"0"
+		"hammerid"		"237302"
+		"m_iname"		"Level1_Sign"
+	}
 }
