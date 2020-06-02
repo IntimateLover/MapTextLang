@@ -42,7 +42,8 @@
 	}
 	"**Reach the final platform and defend**"
 	{
-		"chi"		"**快到会后的平台上然后防守住！**"
+		"chi"		"**防守住最后的平台！**"
+		"DoorCountdown"		"143"
 	}
 	"**Defend here zombies will spawn at the other side**"
 	{
@@ -54,14 +55,39 @@
 	}
 	"**Optional quest**"
 	{
-		"chi"		"**选择任务...**"
+		"chi"		"**支线任务...**"
 	}
 	"**All monoliths were activated**"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的石柱已被触发**"
 	}
 	"**Extra hp will be given at the end of the map**"
 	{
-		"chi"		"** **"
+		"chi"		"**Boss血量将会增加**"
+	}
+	"** Hold W to resist push **"
+	{
+		"chi"		"**按住W抵抗推力**"
+		"DoorCountdown"		"3"
+	}
+	"** Crouch **"
+	{
+		"chi"		"**蹲下躲避伤害**"
+		"DoorCountdown"		"3"
+	}
+	"** EMP **"
+	{
+		"chi"		"**电磁脉冲**"
+		"DoorCountdown"		"3"
+	}
+	"** Defend zombies **"
+	{
+		"chi"		"**防守两侧的僵尸**"
+		"DoorCountdown"		"3"
+	}
+	"** Stay away from the boss and go to the edge of the platform **"
+	{
+		"chi"		"**远离BOSS，去平台边缘**"
+		"DoorCountdown"		"3"
 	}
 }
