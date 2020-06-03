@@ -120,4 +120,10 @@
 		"hammerid"		"1936549"
 		"m_iname"		"EndingHumanHeliSide"
 	}
+	"1971384"
+	{
+		"enable"		"0"
+		"hammerid"		"1971384"
+		"m_iname"		"physboxGauss&1289"
+	}
 }

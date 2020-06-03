@@ -18,4 +18,10 @@
 		"hammerid"		"8510"
 		"m_iname"		"ladderbreak"
 	}
+	"9521"
+	{
+		"enable"		"0"
+		"hammerid"		"9521"
+		"m_iname"		"lassie"
+	}
 }

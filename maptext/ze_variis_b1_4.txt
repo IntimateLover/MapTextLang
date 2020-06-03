@@ -120,4 +120,12 @@
 	{
 		"chi"		"**20秒**"
 	}
+	"B attack choice"
+	{
+		"chi"		"** **"
+	}
+	"B attack : none"
+	{
+		"chi"		"** **"
+	}
 }

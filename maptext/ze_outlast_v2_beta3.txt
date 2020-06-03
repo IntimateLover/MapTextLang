@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"||| The door will open at 30 second  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| Fall Back  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| Afk Teleport Enable at 10 second  |||"
+	{
+		"chi"		"** **"
+	}
+	"||| The wall will explode  at 30 second  |||"
+	{
+		"chi"		"** **"
+	}
+}

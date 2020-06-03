@@ -177,6 +177,8 @@
 	"281607"
 	{
 		"enable"		"1"
+		"hammerid"		"281607"
+		"m_iname"		"train_holder_2_breakable"
 	}
 	"39142"
 	{
@@ -237,5 +239,11 @@
 		"enable"		"1"
 		"hammerid"		"406269"
 		"m_iname"		"ending_1_jerry_hitbox"
+	}
+	"386944"
+	{
+		"enable"		"0"
+		"hammerid"		"386944"
+		"m_iname"		"level2_blocker1"
 	}
 }
