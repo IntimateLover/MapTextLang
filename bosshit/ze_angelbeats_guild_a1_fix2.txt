@@ -1,10 +1,34 @@
 "BOSSHP"
 {
-	"340544"
+	"441903"
 	{
 		"enable"		"0"
-		"hammerid"		"340544"
-		"m_iname"		"break_dj"
+		"hammerid"		"441903"
+		"m_iname"		"lv1_phy"
+	}
+	"441914"
+	{
+		"enable"		"0"
+		"hammerid"		"441914"
+		"m_iname"		"lv1_1_phy"
+	}
+	"441923"
+	{
+		"enable"		"0"
+		"hammerid"		"441923"
+		"m_iname"		"lv1_2_phy"
+	}
+	"389659"
+	{
+		"enable"		"0"
+		"hammerid"		"389659"
+		"m_iname"		"lv1_yule_wall_2"
+	}
+	"386310"
+	{
+		"enable"		"0"
+		"hammerid"		"386310"
+		"m_iname"		"lv1_yule_wall"
 	}
 	"318302"
 	{
@@ -94,66 +118,12 @@
 	{
 		"enable"		"0"
 		"hammerid"		"350170"
-		"m_iname"		"move_t_break&6879"
+		"m_iname"		"move_t_break&1017"
 	}
 	"311547"
 	{
 		"enable"		"0"
 		"hammerid"		"311547"
-		"m_iname"		"move_t_break&6879"
-	}
-	"389659"
-	{
-		"enable"		"0"
-		"hammerid"		"389659"
-		"m_iname"		"lv1_yule_wall_2"
-	}
-	"389715"
-	{
-		"enable"		"0"
-		"hammerid"		"389715"
-		"m_iname"		"lv1_phy"
-	}
-	"389800"
-	{
-		"enable"		"0"
-		"hammerid"		"389800"
-		"m_iname"		"lv1_1_phy"
-	}
-	"389830"
-	{
-		"enable"		"0"
-		"hammerid"		"389830"
-		"m_iname"		"lv1_2_phy"
-	}
-	"386310"
-	{
-		"enable"		"0"
-		"hammerid"		"386310"
-		"m_iname"		"lv1_yule_wall"
-	}
-	"385533"
-	{
-		"enable"		"0"
-		"hammerid"		"385533"
-		"m_iname"		"rock&0370"
-	}
-	"441903"
-	{
-		"enable"		"0"
-		"hammerid"		"441903"
-		"m_iname"		"lv1_phy"
-	}
-	"441914"
-	{
-		"enable"		"0"
-		"hammerid"		"441914"
-		"m_iname"		"lv1_1_phy"
-	}
-	"441923"
-	{
-		"enable"		"0"
-		"hammerid"		"441923"
-		"m_iname"		"lv1_2_phy"
+		"m_iname"		"move_t_break&1017"
 	}
 }

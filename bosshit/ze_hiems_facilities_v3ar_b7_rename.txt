@@ -162,6 +162,12 @@
 		"hammerid"		"127432"
 		"m_iname"		"kowareru_kabe_zm"
 	}
+	"105649"
+	{
+		"enable"		"0"
+		"hammerid"		"105649"
+		"m_iname"		"stage3_grass"
+	}
 	"94756"
 	{
 		"enable"		"0"
@@ -245,11 +251,5 @@
 		"enable"		"0"
 		"hammerid"		"43522"
 		"m_iname"		"hako2"
-	}
-	"105649"
-	{
-		"enable"		"0"
-		"hammerid"		"105649"
-		"m_iname"		"stage3_grass"
 	}
 }

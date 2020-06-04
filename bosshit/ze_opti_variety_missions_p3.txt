@@ -1,29 +1,5 @@
 "BOSSHP"
 {
-	"4440"
-	{
-		"enable"		"0"
-		"hammerid"		"4440"
-		"m_iname"		"lv3crystal1"
-	}
-	"4517"
-	{
-		"enable"		"0"
-		"hammerid"		"4517"
-		"m_iname"		"lv3crystal2"
-	}
-	"4531"
-	{
-		"enable"		"0"
-		"hammerid"		"4531"
-		"m_iname"		"lv3crystal3"
-	}
-	"5020"
-	{
-		"enable"		"0"
-		"hammerid"		"5020"
-		"m_iname"		"Wall.loc3"
-	}
 	"449"
 	{
 		"enable"		"0"
@@ -167,5 +143,29 @@
 		"enable"		"0"
 		"hammerid"		"3236"
 		"m_iname"		"Crap"
+	}
+	"4440"
+	{
+		"enable"		"0"
+		"hammerid"		"4440"
+		"m_iname"		"lv3crystal1"
+	}
+	"4517"
+	{
+		"enable"		"0"
+		"hammerid"		"4517"
+		"m_iname"		"lv3crystal2"
+	}
+	"4531"
+	{
+		"enable"		"0"
+		"hammerid"		"4531"
+		"m_iname"		"lv3crystal3"
+	}
+	"5020"
+	{
+		"enable"		"0"
+		"hammerid"		"5020"
+		"m_iname"		"Wall.loc3"
 	}
 }

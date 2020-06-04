@@ -294,46 +294,4 @@
 		"hammerid"		"942433"
 		"m_iname"		"ventilacion_hard"
 	}
-	"448148"
-	{
-		"enable"		"0"
-		"hammerid"		"448148"
-		"m_iname"		"hardbarricada1"
-	}
-	"448193"
-	{
-		"enable"		"0"
-		"hammerid"		"448193"
-		"m_iname"		"hardbarricada1"
-	}
-	"697118"
-	{
-		"enable"		"0"
-		"hammerid"		"697118"
-		"m_iname"		"hardbarricada1"
-	}
-	"561826"
-	{
-		"enable"		"0"
-		"hammerid"		"561826"
-		"m_iname"		"1torreta_colision"
-	}
-	"562024"
-	{
-		"enable"		"0"
-		"hammerid"		"562024"
-		"m_iname"		"1torreta_colision_gravedad"
-	}
-	"562021"
-	{
-		"enable"		"0"
-		"hammerid"		"562021"
-		"m_iname"		"torreta_colision_gravedad"
-	}
-	"561775"
-	{
-		"enable"		"0"
-		"hammerid"		"561775"
-		"m_iname"		"torreta_colision"
-	}
 }

@@ -138,12 +138,6 @@
 		"hammerid"		"1803505"
 		"m_iname"		"Wall_Fence_Barricade_Break2"
 	}
-	"1688699"
-	{
-		"enable"		"0"
-		"hammerid"		"1688699"
-		"m_iname"		"Pickup_Break"
-	}
 	"426812"
 	{
 		"enable"		"0"
@@ -156,6 +150,12 @@
 		"hammerid"		"161341"
 		"m_iname"		"Wall_Topgate"
 	}
+	"1688699"
+	{
+		"enable"		"0"
+		"hammerid"		"1688699"
+		"m_iname"		"Pickup_Break"
+	}
 	"447525"
 	{
 		"enable"		"0"
@@ -166,25 +166,25 @@
 	{
 		"enable"		"0"
 		"hammerid"		"2502167"
-		"m_iname"		"Oil_Side_Left_Physbox&4872"
+		"m_iname"		"Oil_Side_Left_Physbox&0857"
 	}
 	"2502164"
 	{
 		"enable"		"0"
 		"hammerid"		"2502164"
-		"m_iname"		"Oil_Side_Right_Physbox&4872"
+		"m_iname"		"Oil_Side_Right_Physbox&0857"
 	}
 	"2502152"
 	{
 		"enable"		"0"
 		"hammerid"		"2502152"
-		"m_iname"		"Oil_Physbox_1&4872"
+		"m_iname"		"Oil_Physbox_1&0857"
 	}
 	"2502185"
 	{
 		"enable"		"0"
 		"hammerid"		"2502185"
-		"m_iname"		"Ground_Oil_Physbox&4872"
+		"m_iname"		"Ground_Oil_Physbox&0857"
 	}
 	"1314571"
 	{
@@ -353,23 +353,5 @@
 		"enable"		"0"
 		"hammerid"		"1468106"
 		"m_iname"		"Dragon_City_Armor"
-	}
-	"2355036"
-	{
-		"enable"		"1"
-		"hammerid"		"2355036"
-		"m_iname"		"Boss_Att_Prop1"
-	}
-	"2355099"
-	{
-		"enable"		"1"
-		"hammerid"		"2355099"
-		"m_iname"		"Boss_Att_Prop2"
-	}
-	"2355110"
-	{
-		"enable"		"1"
-		"hammerid"		"2355110"
-		"m_iname"		"Boss_Att_Prop3"
 	}
 }
