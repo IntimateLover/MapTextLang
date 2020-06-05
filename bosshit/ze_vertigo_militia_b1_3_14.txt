@@ -6,6 +6,18 @@
 		"hammerid"		"20377158"
 		"m_iname"		"tes"
 	}
+	"20257661"
+	{
+		"enable"		"0"
+		"hammerid"		"20257661"
+		"m_iname"		"choose_delay"
+	}
+	"20223920"
+	{
+		"enable"		"0"
+		"hammerid"		"20223920"
+		"m_iname"		"choose_block"
+	}
 	"20191550"
 	{
 		"enable"		"0"
@@ -47,17 +59,5 @@
 		"enable"		"0"
 		"hammerid"		"19942812"
 		"m_iname"		"vertigo_block_1"
-	}
-	"20257661"
-	{
-		"enable"		"0"
-		"hammerid"		"20257661"
-		"m_iname"		"choose_delay"
-	}
-	"20223920"
-	{
-		"enable"		"0"
-		"hammerid"		"20223920"
-		"m_iname"		"choose_block"
 	}
 }

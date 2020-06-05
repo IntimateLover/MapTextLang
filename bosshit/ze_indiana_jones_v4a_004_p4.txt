@@ -1,35 +1,5 @@
 "BOSSHP"
 {
-	"porte_1"
-	{
-		"enable"		"0"
-	}
-	"piege_1"
-	{
-		"enable"		"0"
-	}
-	"break_2"
-	{
-		"enable"		"0"
-	}
-	"porte_2"
-	{
-		"enable"		"0"
-	}
-	"break_3"
-	{
-		"enable"		"0"
-	}
-	"ranpe"
-	{
-		"enable"		"0"
-	}
-	"15291"
-	{
-		"enable"		"0"
-		"hammerid"		"15291"
-		"m_iname"		"j9"
-	}
 	"44876"
 	{
 		"enable"		"0"
@@ -311,6 +281,12 @@
 		"enable"		"0"
 		"hammerid"		"14901"
 		"m_iname"		"v5"
+	}
+	"15291"
+	{
+		"enable"		"0"
+		"hammerid"		"15291"
+		"m_iname"		"j9"
 	}
 	"15519"
 	{

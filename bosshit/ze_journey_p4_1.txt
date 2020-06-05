@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"20710"
+	{
+		"enable"		"0"
+		"hammerid"		"20710"
+		"m_iname"		"br_respitefloor"
+	}
 	"249952"
 	{
 		"enable"		"0"
@@ -89,17 +95,5 @@
 		"enable"		"0"
 		"hammerid"		"275684"
 		"m_iname"		"phys_steps1"
-	}
-	"674017"
-	{
-		"enable"		"0"
-		"hammerid"		"674017"
-		"m_iname"		"phys_rock&0586"
-	}
-	"20710"
-	{
-		"enable"		"0"
-		"hammerid"		"20710"
-		"m_iname"		"br_respitefloor"
 	}
 }

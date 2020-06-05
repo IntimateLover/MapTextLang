@@ -102,46 +102,4 @@
 		"hammerid"		"925428"
 		"m_iname"		"surfmode_break2"
 	}
-	"103641"
-	{
-		"enable"		"1"
-		"hammerid"		"103641"
-		"m_iname"		"boss"
-	}
-	"562484"
-	{
-		"enable"		"0"
-		"hammerid"		"562484"
-		"m_iname"		"extra4_bridge"
-	}
-	"1977155"
-	{
-		"enable"		"0"
-		"hammerid"		"1977155"
-		"m_iname"		"raceboard"
-	}
-	"1977158"
-	{
-		"enable"		"0"
-		"hammerid"		"1977158"
-		"m_iname"		"laserboard"
-	}
-	"1977152"
-	{
-		"enable"		"0"
-		"hammerid"		"1977152"
-		"m_iname"		"surfboard"
-	}
-	"1977149"
-	{
-		"enable"		"0"
-		"hammerid"		"1977149"
-		"m_iname"		"windboard"
-	}
-	"1977508"
-	{
-		"enable"		"0"
-		"hammerid"		"1977508"
-		"m_iname"		"zmboard"
-	}
 }

@@ -1,21 +1,5 @@
 "BOSSHP"
 {
-	"36532"
-	{
-		"enable"		"1"
-		"hammerid"		"36532"
-		"m_iname"		"bosslvl3_harpy_hit"
-	}
-	"49520"
-	{
-		"enable"		"1"
-		"hammerid"		"49520"
-		"m_iname"		"bosslvl2_hit"
-	}
-	"612"
-	{
-		"enable"		"1"
-	}
 	"1547"
 	{
 		"enable"		"0"
@@ -27,42 +11,6 @@
 		"enable"		"0"
 		"hammerid"		"1550"
 		"m_iname"		"stage"
-	}
-	"24561"
-	{
-		"enable"		"0"
-		"hammerid"		"24561"
-		"m_iname"		"door34_3"
-	}
-	"24574"
-	{
-		"enable"		"0"
-		"hammerid"		"24574"
-		"m_iname"		"door36_2"
-	}
-	"29972"
-	{
-		"enable"		"1"
-		"hammerid"		"29972"
-		"m_iname"		"bosslvl3_hit"
-	}
-	"29981"
-	{
-		"enable"		"1"
-		"hammerid"		"29981"
-		"m_iname"		"bosslvl3_phy"
-	}
-	"31125"
-	{
-		"enable"		"1"
-		"hammerid"		"31125"
-		"m_iname"		"bosslvl3_end_hit"
-	}
-	"49474"
-	{
-		"enable"		"1"
-		"hammerid"		"49474"
-		"m_iname"		"bosslvl2_glass"
 	}
 	"3642"
 	{
@@ -154,6 +102,18 @@
 		"hammerid"		"10844"
 		"m_iname"		"bosslvl1_wall2"
 	}
+	"24561"
+	{
+		"enable"		"0"
+		"hammerid"		"24561"
+		"m_iname"		"door34_3"
+	}
+	"49474"
+	{
+		"enable"		"1"
+		"hammerid"		"49474"
+		"m_iname"		"bosslvl2_glass"
+	}
 	"48359"
 	{
 		"enable"		"1"
@@ -165,29 +125,5 @@
 		"enable"		"1"
 		"hammerid"		"48428"
 		"m_iname"		"bosslvl1_model"
-	}
-	"49456"
-	{
-		"enable"		"1"
-		"hammerid"		"49456"
-		"m_iname"		"bosslvl6_end3_bridge"
-	}
-	"49588"
-	{
-		"enable"		"1"
-		"hammerid"		"49588"
-		"m_iname"		"bosslvl2_phy"
-	}
-	"63816"
-	{
-		"enable"		"1"
-		"hammerid"		"63816"
-		"m_iname"		"bosslvl3_harpy_body"
-	}
-	"63809"
-	{
-		"enable"		"1"
-		"hammerid"		"63809"
-		"m_iname"		"bosslvl3_harpy_face"
 	}
 }

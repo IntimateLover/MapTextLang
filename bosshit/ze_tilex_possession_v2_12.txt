@@ -306,22 +306,4 @@
 		"hammerid"		"711282"
 		"m_iname"		"pain_target"
 	}
-	"753482"
-	{
-		"enable"		"0"
-		"hammerid"		"753482"
-		"m_iname"		"exdarktarget"
-	}
-	"752374"
-	{
-		"enable"		"1"
-		"hammerid"		"752374"
-		"m_iname"		"exholytarget"
-	}
-	"754548"
-	{
-		"enable"		"1"
-		"hammerid"		"754548"
-		"m_iname"		"expain_target"
-	}
 }

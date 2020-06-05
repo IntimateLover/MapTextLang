@@ -1,5 +1,17 @@
 "BOSSHP"
 {
+	"261343"
+	{
+		"enable"		"0"
+		"hammerid"		"261343"
+		"m_iname"		"Train_Phys"
+	}
+	"262829"
+	{
+		"enable"		"0"
+		"hammerid"		"262829"
+		"m_iname"		"Rat_Area_Shortcut_01"
+	}
 	"244258"
 	{
 		"enable"		"0"
@@ -42,9 +54,15 @@
 		"hammerid"		"245457"
 		"m_iname"		"Train_Phys"
 	}
+	"245562"
+	{
+		"enable"		"0"
+		"hammerid"		"245562"
+		"m_iname"		"Rat_Plank_Breakable"
+	}
 	"246196"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"246196"
 		"m_iname"		"Rat_Breakable"
 	}
@@ -102,34 +120,10 @@
 		"hammerid"		"159233"
 		"m_iname"		"Bat_01"
 	}
-	"261343"
-	{
-		"enable"		"0"
-		"hammerid"		"261343"
-		"m_iname"		"Train_Phys"
-	}
-	"262829"
-	{
-		"enable"		"0"
-		"hammerid"		"262829"
-		"m_iname"		"Rat_Area_Shortcut_01"
-	}
-	"245562"
-	{
-		"enable"		"0"
-		"hammerid"		"245562"
-		"m_iname"		"Rat_Plank_Breakable"
-	}
 	"94556"
 	{
 		"enable"		"0"
 		"hammerid"		"94556"
 		"m_iname"		"Window"
-	}
-	"237348"
-	{
-		"enable"		"0"
-		"hammerid"		"237348"
-		"m_iname"		"CounterBreakable"
 	}
 }

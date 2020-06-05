@@ -1,16 +1,34 @@
 "BOSSHP"
 {
-	"146148"
+	"353128"
 	{
 		"enable"		"0"
-		"hammerid"		"146148"
-		"m_iname"		"IdiotBoxBreakable"
+		"hammerid"		"353128"
+		"m_iname"		"SpawnFloorGetRekt"
 	}
-	"9069"
+	"344459"
 	{
 		"enable"		"0"
-		"hammerid"		"9069"
-		"m_iname"		"NukePannelBack"
+		"hammerid"		"344459"
+		"m_iname"		"ChickenRogDoor"
+	}
+	"273338"
+	{
+		"enable"		"0"
+		"hammerid"		"273338"
+		"m_iname"		"george_cades_haybale_box&5241"
+	}
+	"273398"
+	{
+		"enable"		"0"
+		"hammerid"		"273398"
+		"m_iname"		"george_cades_vendy_box&5280"
+	}
+	"273329"
+	{
+		"enable"		"0"
+		"hammerid"		"273329"
+		"m_iname"		"george_cades_shelf_box&5231"
 	}
 	"198099"
 	{
@@ -23,6 +41,18 @@
 		"enable"		"0"
 		"hammerid"		"158691"
 		"m_iname"		"hiss2_fruktkorg"
+	}
+	"273332"
+	{
+		"enable"		"0"
+		"hammerid"		"273332"
+		"m_iname"		"george_cades_sandbag_box&5282"
+	}
+	"273326"
+	{
+		"enable"		"0"
+		"hammerid"		"273326"
+		"m_iname"		"george_cades_bench_box&5274"
 	}
 	"80079"
 	{
@@ -66,11 +96,35 @@
 		"hammerid"		"24004"
 		"m_iname"		"PathTrapBreakable5"
 	}
+	"273335"
+	{
+		"enable"		"0"
+		"hammerid"		"273335"
+		"m_iname"		"george_cades_toilet_box&5272"
+	}
+	"9069"
+	{
+		"enable"		"0"
+		"hammerid"		"9069"
+		"m_iname"		"NukePannelBack"
+	}
+	"273904"
+	{
+		"enable"		"0"
+		"hammerid"		"273904"
+		"m_iname"		"FlyingRatPhys&5324"
+	}
+	"203961"
+	{
+		"enable"		"0"
+		"hammerid"		"203961"
+		"m_iname"		"TowerPhys&5332"
+	}
 	"20491"
 	{
 		"enable"		"0"
 		"hammerid"		"20491"
-		"m_iname"		"ChopperRotator&6837"
+		"m_iname"		"ChopperRotator&5360"
 	}
 	"20547"
 	{
@@ -78,23 +132,47 @@
 		"hammerid"		"20547"
 		"m_iname"		"ChopperNonInputEnts"
 	}
-	"82282"
+	"82211"
 	{
 		"enable"		"0"
-		"hammerid"		"82282"
-		"m_iname"		"Ladder&6757"
+		"hammerid"		"82211"
+		"m_iname"		"blackhole_assigned"
 	}
-	"82299"
+	"275194"
 	{
 		"enable"		"0"
-		"hammerid"		"82299"
-		"m_iname"		"ProjectileFreezerPhysics&6560"
+		"hammerid"		"275194"
+		"m_iname"		"KleinerPhys&5034"
 	}
-	"20891"
+	"282149"
 	{
 		"enable"		"0"
-		"hammerid"		"20891"
-		"m_iname"		"BreakableWall"
+		"hammerid"		"282149"
+		"m_iname"		"ItemZombieMonsterChickenBreak&5"
+	}
+	"27289"
+	{
+		"enable"		"0"
+		"hammerid"		"27289"
+		"m_iname"		"HolyChickenCross_Set"
+	}
+	"146148"
+	{
+		"enable"		"0"
+		"hammerid"		"146148"
+		"m_iname"		"IdiotBoxBreakable"
+	}
+	"360270"
+	{
+		"enable"		"0"
+		"hammerid"		"360270"
+		"m_iname"		"CastleDefenseTowers"
+	}
+	"313386"
+	{
+		"enable"		"0"
+		"hammerid"		"313386"
+		"m_iname"		"CowboyPedestal"
 	}
 	"153986"
 	{
@@ -131,215 +209,5 @@
 		"enable"		"0"
 		"hammerid"		"155619"
 		"m_iname"		"ExtractionGrid"
-	}
-	"27289"
-	{
-		"enable"		"0"
-		"hammerid"		"27289"
-		"m_iname"		"HolyChickenCross_Set"
-	}
-	"82726"
-	{
-		"enable"		"0"
-		"hammerid"		"82726"
-		"m_iname"		"ProjectilePulverizerPhysics&645"
-	}
-	"35519"
-	{
-		"enable"		"0"
-		"hammerid"		"35519"
-		"m_iname"		"GlassBreakable"
-	}
-	"152405"
-	{
-		"enable"		"0"
-		"hammerid"		"152405"
-		"m_iname"		"VipAround"
-	}
-	"82211"
-	{
-		"enable"		"0"
-		"hammerid"		"82211"
-		"m_iname"		"blackhole_assigned"
-	}
-	"82904"
-	{
-		"enable"		"0"
-		"hammerid"		"82904"
-		"m_iname"		"FirePhysicsCore&6587"
-	}
-	"183393"
-	{
-		"enable"		"1"
-		"hammerid"		"183393"
-		"m_iname"		"FaceBossSideWalls&6162"
-	}
-	"144213"
-	{
-		"enable"		"1"
-		"hammerid"		"144213"
-		"m_iname"		"FaceBossBreakable"
-	}
-	"128101"
-	{
-		"enable"		"1"
-		"hammerid"		"128101"
-		"m_iname"		"FaceBossBreakable"
-	}
-	"139169"
-	{
-		"enable"		"0"
-		"hammerid"		"139169"
-		"m_iname"		"HorizontalBloodclotBrush&6179"
-	}
-	"139200"
-	{
-		"enable"		"0"
-		"hammerid"		"139200"
-		"m_iname"		"VerticalBloodclotBrush&6172"
-	}
-	"30033"
-	{
-		"enable"		"0"
-		"hammerid"		"30033"
-		"m_iname"		"HoldathonWalls1"
-	}
-	"30760"
-	{
-		"enable"		"0"
-		"hammerid"		"30760"
-		"m_iname"		"HoldathonWalls2"
-	}
-	"30836"
-	{
-		"enable"		"0"
-		"hammerid"		"30836"
-		"m_iname"		"HoldathonWalls3"
-	}
-	"29565"
-	{
-		"enable"		"0"
-		"hammerid"		"29565"
-		"m_iname"		"OneWayTopOfWorldBreakable"
-	}
-	"353128"
-	{
-		"enable"		"0"
-		"hammerid"		"353128"
-		"m_iname"		"SpawnFloorGetRekt"
-	}
-	"344459"
-	{
-		"enable"		"0"
-		"hammerid"		"344459"
-		"m_iname"		"ChickenRogDoor"
-	}
-	"273904"
-	{
-		"enable"		"0"
-		"hammerid"		"273904"
-		"m_iname"		"FlyingRatPhys&6769"
-	}
-	"203961"
-	{
-		"enable"		"0"
-		"hammerid"		"203961"
-		"m_iname"		"TowerPhys&6777"
-	}
-	"275194"
-	{
-		"enable"		"0"
-		"hammerid"		"275194"
-		"m_iname"		"KleinerPhys&6704"
-	}
-	"282149"
-	{
-		"enable"		"0"
-		"hammerid"		"282149"
-		"m_iname"		"ItemZombieMonsterChickenBreak&6"
-	}
-	"303199"
-	{
-		"enable"		"0"
-		"hammerid"		"303199"
-		"m_iname"		"DoorwayDoor&6612"
-	}
-	"313386"
-	{
-		"enable"		"0"
-		"hammerid"		"313386"
-		"m_iname"		"CowboyPedestal"
-	}
-	"338750"
-	{
-		"enable"		"1"
-		"hammerid"		"338750"
-		"m_iname"		"TopLadderHitbox"
-	}
-	"360270"
-	{
-		"enable"		"0"
-		"hammerid"		"360270"
-		"m_iname"		"CastleDefenseTowers"
-	}
-	"273335"
-	{
-		"enable"		"0"
-		"hammerid"		"273335"
-		"m_iname"		"george_cades_toilet_box&6743"
-	}
-	"273329"
-	{
-		"enable"		"0"
-		"hammerid"		"273329"
-		"m_iname"		"george_cades_shelf_box&6702"
-	}
-	"273398"
-	{
-		"enable"		"0"
-		"hammerid"		"273398"
-		"m_iname"		"george_cades_vendy_box&6751"
-	}
-	"273332"
-	{
-		"enable"		"0"
-		"hammerid"		"273332"
-		"m_iname"		"george_cades_sandbag_box&6753"
-	}
-	"273338"
-	{
-		"enable"		"0"
-		"hammerid"		"273338"
-		"m_iname"		"george_cades_haybale_box&6712"
-	}
-	"273326"
-	{
-		"enable"		"0"
-		"hammerid"		"273326"
-		"m_iname"		"george_cades_bench_box&6745"
-	}
-	"273723"
-	{
-		"enable"		"0"
-		"hammerid"		"273723"
-		"m_iname"		"RockBarricadePhys&5667"
-	}
-	"200904"
-	{
-		"enable"		"0"
-		"hammerid"		"200904"
-		"m_iname"		"MissilePhysbox&6566"
-	}
-	"281426"
-	{
-		"enable"		"0"
-		"hammerid"		"281426"
-		"m_iname"		"SpitPhys&4889"
-	}
-	"308621"
-	{
-		"enable"		"0"
-		"hammerid"		"308621"
-		"m_iname"		"SkyArenaKubrick"
 	}
 }

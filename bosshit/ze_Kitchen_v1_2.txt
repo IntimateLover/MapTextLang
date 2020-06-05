@@ -1,16 +1,28 @@
 "BOSSHP"
 {
+	"1347727"
+	{
+		"enable"		"0"
+		"hammerid"		"1347727"
+		"m_iname"		"dira_dvere_stage3"
+	}
+	"1305175"
+	{
+		"enable"		"0"
+		"hammerid"		"1305175"
+		"m_iname"		"sachta_breakable5_zm"
+	}
+	"1264835"
+	{
+		"enable"		"0"
+		"hammerid"		"1264835"
+		"m_iname"		"george_cades_syr_box&3488"
+	}
 	"1265002"
 	{
 		"enable"		"0"
 		"hammerid"		"1265002"
-		"m_iname"		"george_cades_sunka_box&1438"
-	}
-	"1264417"
-	{
-		"enable"		"0"
-		"hammerid"		"1264417"
-		"m_iname"		"george_cades_houba_box&1437"
+		"m_iname"		"george_cades_sunka_box&3489"
 	}
 	"1244595"
 	{
@@ -29,12 +41,6 @@
 		"enable"		"0"
 		"hammerid"		"1244953"
 		"m_iname"		"dira_nad_oknem2"
-	}
-	"1183426"
-	{
-		"enable"		"0"
-		"hammerid"		"1183426"
-		"m_iname"		"stage3_dira_skrin3_2"
 	}
 	"1184062"
 	{
@@ -90,18 +96,6 @@
 		"hammerid"		"1005555"
 		"m_iname"		"dira_nad_oknem"
 	}
-	"892930"
-	{
-		"enable"		"0"
-		"hammerid"		"892930"
-		"m_iname"		"cereals_box"
-	}
-	"876258"
-	{
-		"enable"		"0"
-		"hammerid"		"876258"
-		"m_iname"		"sachta_breakable7"
-	}
 	"870359"
 	{
 		"enable"		"0"
@@ -119,12 +113,6 @@
 		"enable"		"0"
 		"hammerid"		"870554"
 		"m_iname"		"sachta_breakable3"
-	}
-	"870885"
-	{
-		"enable"		"0"
-		"hammerid"		"870885"
-		"m_iname"		"sachta_breakable4"
 	}
 	"871033"
 	{
@@ -162,58 +150,10 @@
 		"hammerid"		"940499"
 		"m_iname"		"plakat_spawn1"
 	}
-	"1199404"
+	"892930"
 	{
 		"enable"		"0"
-		"hammerid"		"1199404"
-		"m_iname"		"george_cades_toast_box&1432"
-	}
-	"1264700"
-	{
-		"enable"		"0"
-		"hammerid"		"1264700"
-		"m_iname"		"george_cades_korenka_box&1442"
-	}
-	"1264835"
-	{
-		"enable"		"0"
-		"hammerid"		"1264835"
-		"m_iname"		"george_cades_syr_box&1436"
-	}
-	"940509"
-	{
-		"enable"		"0"
-		"hammerid"		"940509"
-		"m_iname"		"plakat_spawn2"
-	}
-	"1073666"
-	{
-		"enable"		"0"
-		"hammerid"		"1073666"
-		"m_iname"		"plakat_spawn3"
-	}
-	"1248976"
-	{
-		"enable"		"0"
-		"hammerid"		"1248976"
-		"m_iname"		"fly_small_break"
-	}
-	"1248960"
-	{
-		"enable"		"0"
-		"hammerid"		"1248960"
-		"m_iname"		"fly_egg_phys&1065"
-	}
-	"1347727"
-	{
-		"enable"		"0"
-		"hammerid"		"1347727"
-		"m_iname"		"dira_dvere_stage3"
-	}
-	"1305175"
-	{
-		"enable"		"0"
-		"hammerid"		"1305175"
-		"m_iname"		"sachta_breakable5_zm"
+		"hammerid"		"892930"
+		"m_iname"		"cereals_box"
 	}
 }

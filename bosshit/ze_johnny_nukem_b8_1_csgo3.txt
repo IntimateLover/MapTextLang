@@ -1,16 +1,28 @@
 "BOSSHP"
 {
+	"961381"
+	{
+		"enable"		"0"
+		"hammerid"		"961381"
+		"m_iname"		"Frog_Phys"
+	}
+	"962408"
+	{
+		"enable"		"0"
+		"hammerid"		"962408"
+		"m_iname"		"Frog2_Phys"
+	}
 	"108978"
 	{
 		"enable"		"0"
 		"hammerid"		"108978"
 		"m_iname"		"frog_body"
 	}
-	"118599"
+	"594085"
 	{
 		"enable"		"0"
-		"hammerid"		"118599"
-		"m_iname"		"Frog2_Phys"
+		"hammerid"		"594085"
+		"m_iname"		"ammo_model1"
 	}
 	"118612"
 	{
@@ -24,23 +36,11 @@
 		"hammerid"		"119616"
 		"m_iname"		"Frog2_body"
 	}
-	"594085"
-	{
-		"enable"		"0"
-		"hammerid"		"594085"
-		"m_iname"		"ammo_model1"
-	}
 	"111843"
 	{
 		"enable"		"1"
 		"hammerid"		"111843"
 		"m_iname"		"Frog_Hitbox"
-	}
-	"111377"
-	{
-		"enable"		"0"
-		"hammerid"		"111377"
-		"m_iname"		"Frog_Phys"
 	}
 	"456968"
 	{
@@ -83,161 +83,5 @@
 		"enable"		"1"
 		"hammerid"		"593876"
 		"m_iname"		"stage1_shit_trap"
-	}
-	"364567"
-	{
-		"enable"		"1"
-		"hammerid"		"364567"
-		"m_iname"		"NPCHitbox"
-	}
-	"869063"
-	{
-		"enable"		"0"
-		"hammerid"		"869063"
-		"m_iname"		"NPCBullet&6176"
-	}
-	"97986"
-	{
-		"enable"		"0"
-		"hammerid"		"97986"
-		"m_iname"		"stage1_bridge"
-	}
-	"419283"
-	{
-		"enable"		"0"
-		"hammerid"		"419283"
-		"m_iname"		"Allahu_Break"
-	}
-	"897552"
-	{
-		"enable"		"0"
-		"hammerid"		"897552"
-		"m_iname"		"stage2_ladder1"
-	}
-	"897637"
-	{
-		"enable"		"0"
-		"hammerid"		"897637"
-		"m_iname"		"stage2_ladder2"
-	}
-	"897698"
-	{
-		"enable"		"0"
-		"hammerid"		"897698"
-		"m_iname"		"stage2_ladder2"
-	}
-	"897751"
-	{
-		"enable"		"0"
-		"hammerid"		"897751"
-		"m_iname"		"stage2_ladder3"
-	}
-	"112806"
-	{
-		"enable"		"0"
-		"hammerid"		"112806"
-		"m_iname"		"stage2_gate1"
-	}
-	"779384"
-	{
-		"enable"		"0"
-		"hammerid"		"779384"
-		"m_iname"		"stage2_shit_trap"
-	}
-	"197051"
-	{
-		"enable"		"0"
-		"hammerid"		"197051"
-		"m_iname"		"harydes_mom"
-	}
-	"961381"
-	{
-		"enable"		"0"
-		"hammerid"		"961381"
-		"m_iname"		"Frog_Phys"
-	}
-	"962408"
-	{
-		"enable"		"0"
-		"hammerid"		"962408"
-		"m_iname"		"Frog2_Phys"
-	}
-	"113940"
-	{
-		"enable"		"0"
-		"hammerid"		"113940"
-		"m_iname"		"stage2_bridge"
-	}
-	"115678"
-	{
-		"enable"		"0"
-		"hammerid"		"115678"
-		"m_iname"		"stage2_bridge2"
-	}
-	"449024"
-	{
-		"enable"		"0"
-		"hammerid"		"449024"
-		"m_iname"		"stage3_start_wall"
-	}
-	"593847"
-	{
-		"enable"		"0"
-		"hammerid"		"593847"
-		"m_iname"		"stage3_Shit_trap"
-	}
-	"448347"
-	{
-		"enable"		"0"
-		"hammerid"		"448347"
-		"m_iname"		"st3_bridge_0"
-	}
-	"448402"
-	{
-		"enable"		"0"
-		"hammerid"		"448402"
-		"m_iname"		"st3_bridge_0_1"
-	}
-	"134495"
-	{
-		"enable"		"0"
-		"hammerid"		"134495"
-		"m_iname"		"Rayven_End_Body"
-	}
-	"135849"
-	{
-		"enable"		"0"
-		"hammerid"		"135849"
-		"m_iname"		"Rayven_End_Detail"
-	}
-	"138423"
-	{
-		"enable"		"1"
-		"hammerid"		"138423"
-		"m_iname"		"Solid_Paper_Hitbox"
-	}
-	"137585"
-	{
-		"enable"		"0"
-		"hammerid"		"137585"
-		"m_iname"		"Solid_Paper_Body"
-	}
-	"963208"
-	{
-		"enable"		"0"
-		"hammerid"		"963208"
-		"m_iname"		"Solid_Paper_Phys"
-	}
-	"126362"
-	{
-		"enable"		"0"
-		"hammerid"		"126362"
-		"m_iname"		"stage3_bridge"
-	}
-	"126462"
-	{
-		"enable"		"0"
-		"hammerid"		"126462"
-		"m_iname"		"stage3_bridge2"
 	}
 }

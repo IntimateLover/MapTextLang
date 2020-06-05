@@ -1,76 +1,40 @@
 "BOSSHP"
 {
-	"803987"
+	"884425"
 	{
-		"enable"		"1"
-		"hammerid"		"803987"
-		"m_iname"		"br_afterboss2"
+		"enable"		"0"
+		"hammerid"		"884425"
+		"m_iname"		"dy_outside_cade"
 	}
-	"804001"
+	"884489"
 	{
-		"enable"		"1"
-		"hammerid"		"804001"
-		"m_iname"		"br_afterboss1"
+		"enable"		"0"
+		"hammerid"		"884489"
+		"m_iname"		"dy_outside_cade"
 	}
-	"503076"
+	"884514"
 	{
-		"enable"		"1"
-		"hammerid"		"503076"
-		"m_iname"		"pb_boss_ceiling1"
+		"enable"		"0"
+		"hammerid"		"884514"
+		"m_iname"		"dy_torafters_cade"
 	}
-	"503157"
+	"884532"
 	{
-		"enable"		"1"
-		"hammerid"		"503157"
-		"m_iname"		"pb_boss_ceiling2"
+		"enable"		"0"
+		"hammerid"		"884532"
+		"m_iname"		"dy_torafters_cade"
 	}
-	"503166"
+	"884560"
 	{
-		"enable"		"1"
-		"hammerid"		"503166"
-		"m_iname"		"pb_boss_ceiling3"
+		"enable"		"0"
+		"hammerid"		"884560"
+		"m_iname"		"dy_statuehall_planks"
 	}
-	"503194"
+	"884583"
 	{
-		"enable"		"1"
-		"hammerid"		"503194"
-		"m_iname"		"pb_boss_ceiling4"
-	}
-	"503216"
-	{
-		"enable"		"1"
-		"hammerid"		"503216"
-		"m_iname"		"pb_boss_ceiling5"
-	}
-	"503258"
-	{
-		"enable"		"1"
-		"hammerid"		"503258"
-		"m_iname"		"pb_boss_ceiling6"
-	}
-	"503266"
-	{
-		"enable"		"1"
-		"hammerid"		"503266"
-		"m_iname"		"pb_boss_ceiling7"
-	}
-	"501741"
-	{
-		"enable"		"1"
-		"hammerid"		"501741"
-		"m_iname"		"boss_physbox"
-	}
-	"823827"
-	{
-		"enable"		"1"
-		"hammerid"		"823827"
-		"m_iname"		"boss_physbox_hegrenade"
-	}
-	"738011"
-	{
-		"enable"		"1"
-		"hammerid"		"738011"
-		"m_iname"		"br_boss_crystal"
+		"enable"		"0"
+		"hammerid"		"884583"
+		"m_iname"		"dy_statuehall_planks"
 	}
 	"19073"
 	{
@@ -89,6 +53,12 @@
 		"enable"		"0"
 		"hammerid"		"112427"
 		"m_iname"		"br_mainhall_mid"
+	}
+	"112485"
+	{
+		"enable"		"1"
+		"hammerid"		"112485"
+		"m_iname"		"br_afterboss1"
 	}
 	"112503"
 	{
@@ -324,6 +294,54 @@
 		"hammerid"		"492085"
 		"m_iname"		"br_dragon"
 	}
+	"502612"
+	{
+		"enable"		"1"
+		"hammerid"		"502612"
+		"m_iname"		"br_afterboss2"
+	}
+	"503076"
+	{
+		"enable"		"1"
+		"hammerid"		"503076"
+		"m_iname"		"pb_boss_ceiling1"
+	}
+	"503157"
+	{
+		"enable"		"1"
+		"hammerid"		"503157"
+		"m_iname"		"pb_boss_ceiling2"
+	}
+	"503166"
+	{
+		"enable"		"1"
+		"hammerid"		"503166"
+		"m_iname"		"pb_boss_ceiling3"
+	}
+	"503194"
+	{
+		"enable"		"1"
+		"hammerid"		"503194"
+		"m_iname"		"pb_boss_ceiling4"
+	}
+	"503216"
+	{
+		"enable"		"1"
+		"hammerid"		"503216"
+		"m_iname"		"pb_boss_ceiling5"
+	}
+	"503258"
+	{
+		"enable"		"1"
+		"hammerid"		"503258"
+		"m_iname"		"pb_boss_ceiling6"
+	}
+	"503266"
+	{
+		"enable"		"1"
+		"hammerid"		"503266"
+		"m_iname"		"pb_boss_ceiling7"
+	}
 	"580575"
 	{
 		"enable"		"0"
@@ -389,89 +407,5 @@
 		"enable"		"0"
 		"hammerid"		"782573"
 		"m_iname"		"br_abovesewer2"
-	}
-	"575821"
-	{
-		"enable"		"0"
-		"hammerid"		"575821"
-		"m_iname"		"br_stage5statue1"
-	}
-	"575859"
-	{
-		"enable"		"0"
-		"hammerid"		"575859"
-		"m_iname"		"br_stage5statue2"
-	}
-	"575958"
-	{
-		"enable"		"0"
-		"hammerid"		"575958"
-		"m_iname"		"br_stage5statue3"
-	}
-	"916570"
-	{
-		"enable"		"1"
-		"hammerid"		"916570"
-		"m_iname"		"br_afterboss1"
-	}
-	"916581"
-	{
-		"enable"		"1"
-		"hammerid"		"916581"
-		"m_iname"		"br_afterboss2"
-	}
-	"875902"
-	{
-		"enable"		"0"
-		"hammerid"		"875902"
-		"m_iname"		"dy_stage5props"
-	}
-	"884425"
-	{
-		"enable"		"0"
-		"hammerid"		"884425"
-		"m_iname"		"dy_outside_cade"
-	}
-	"884489"
-	{
-		"enable"		"0"
-		"hammerid"		"884489"
-		"m_iname"		"dy_outside_cade"
-	}
-	"884514"
-	{
-		"enable"		"0"
-		"hammerid"		"884514"
-		"m_iname"		"dy_torafters_cade"
-	}
-	"884532"
-	{
-		"enable"		"0"
-		"hammerid"		"884532"
-		"m_iname"		"dy_torafters_cade"
-	}
-	"884560"
-	{
-		"enable"		"0"
-		"hammerid"		"884560"
-		"m_iname"		"dy_statuehall_planks"
-	}
-	"884583"
-	{
-		"enable"		"0"
-		"hammerid"		"884583"
-		"m_iname"		"dy_statuehall_planks"
-	}
-	"112485"
-	{
-		"enable"		"1"
-		"hammerid"		"112485"
-		"m_iname"		"br_afterboss1"
-	}
-	"502612"
-	{
-		"enable"		"1"
-		"hammerid"		"502612"
-		"m_iname"		"br_afterboss2"
 	}
 }

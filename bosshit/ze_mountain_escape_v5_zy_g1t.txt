@@ -4,7 +4,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"56917"
-		"m_iname"		"Hubschrauber02&5119"
+		"m_iname"		"Hubschrauber02&3415"
 	}
 	"1593387"
 	{
@@ -30,53 +30,17 @@
 		"hammerid"		"1809"
 		"m_iname"		"barricades"
 	}
-	"2070248"
-	{
-		"enable"		"0"
-		"hammerid"		"2070248"
-		"m_iname"		"oneway_Helicopter"
-	}
 	"766639"
 	{
 		"enable"		"0"
 		"hammerid"		"766639"
 		"m_iname"		"physboxSingularityCannonCounter"
 	}
-	"11178"
-	{
-		"enable"		"1"
-		"hammerid"		"11178"
-		"m_iname"		"physboxTitanHitbox&4249"
-	}
-	"11181"
-	{
-		"enable"		"1"
-		"hammerid"		"11181"
-		"m_iname"		"physboxTitanHitbox&4249"
-	}
-	"732853"
-	{
-		"enable"		"0"
-		"hammerid"		"732853"
-		"m_iname"		"physboxUFOOffset&4318"
-	}
-	"732864"
-	{
-		"enable"		"0"
-		"hammerid"		"732864"
-		"m_iname"		"physboxUFOTarget1&4318"
-	}
-	"732881"
-	{
-		"enable"		"0"
-		"hammerid"		"732881"
-		"m_iname"		"physboxUFOTargetEnd&4318"
-	}
 	"1719253"
 	{
 		"enable"		"0"
 		"hammerid"		"1719253"
-		"m_iname"		"physboxLadder&4940"
+		"m_iname"		"physboxLadder&3342"
 	}
 	"2016300"
 	{
@@ -88,73 +52,19 @@
 	{
 		"enable"		"0"
 		"hammerid"		"3261273"
-		"m_iname"		"physboxAnnihilator&4944"
+		"m_iname"		"physboxAnnihilator&3349"
 	}
-	"3842497"
-	{
-		"enable"		"0"
-		"hammerid"		"3842497"
-		"m_iname"		"physboxCannon&4603"
-	}
-	"1147650"
-	{
-		"enable"		"0"
-		"hammerid"		"1147650"
-		"m_iname"		"physboxRocket&4454"
-	}
-	"2530320"
-	{
-		"enable"		"0"
-		"hammerid"		"2530320"
-		"m_iname"		"item_balrog_hp"
-	}
-	"4168906"
-	{
-		"enable"		"0"
-		"hammerid"		"4168906"
-		"m_iname"		"asedium_gate"
-	}
-	"2547910"
+	"11178"
 	{
 		"enable"		"1"
-		"hammerid"		"2547910"
-		"m_iname"		"castleshit_door_01"
+		"hammerid"		"11178"
+		"m_iname"		"physboxTitanHitbox&2966"
 	}
-	"2547932"
+	"11181"
 	{
 		"enable"		"1"
-		"hammerid"		"2547932"
-		"m_iname"		"castleshit_door_01"
-	}
-	"2447734"
-	{
-		"enable"		"1"
-		"hammerid"		"2447734"
-		"m_iname"		"castleshit_ladder_Hitbox_01&456"
-	}
-	"2482223"
-	{
-		"enable"		"0"
-		"hammerid"		"2482223"
-		"m_iname"		"barricade_1&4685"
-	}
-	"2482190"
-	{
-		"enable"		"0"
-		"hammerid"		"2482190"
-		"m_iname"		"barricade_13&4679"
-	}
-	"2482238"
-	{
-		"enable"		"0"
-		"hammerid"		"2482238"
-		"m_iname"		"barricade_7&4712"
-	}
-	"2482179"
-	{
-		"enable"		"0"
-		"hammerid"		"2482179"
-		"m_iname"		"barricade_14&4710"
+		"hammerid"		"11181"
+		"m_iname"		"physboxTitanHitbox&2966"
 	}
 	"3396013"
 	{
@@ -162,11 +72,11 @@
 		"hammerid"		"3396013"
 		"m_iname"		"physboxCrab"
 	}
-	"1910989"
+	"2530320"
 	{
 		"enable"		"0"
-		"hammerid"		"1910989"
-		"m_iname"		"physboxPyramidHead"
+		"hammerid"		"2530320"
+		"m_iname"		"item_balrog_hp"
 	}
 	"766689"
 	{
@@ -174,148 +84,34 @@
 		"hammerid"		"766689"
 		"m_iname"		"physboxsingularityset"
 	}
-	"2412487"
-	{
-		"enable"		"0"
-		"hammerid"		"2412487"
-		"m_iname"		"carro_teleported_ready"
-	}
-	"3554466"
-	{
-		"enable"		"0"
-		"hammerid"		"3554466"
-		"m_iname"		"physboxCube&7138"
-	}
-	"56434"
-	{
-		"enable"		"0"
-		"hammerid"		"56434"
-		"m_iname"		"TurtleAirboatMain&7855"
-	}
-	"56340"
-	{
-		"enable"		"1"
-		"hammerid"		"56340"
-		"m_iname"		"TurtleAirboatExtraShit"
-	}
-	"1839"
-	{
-		"enable"		"0"
-		"hammerid"		"1839"
-		"m_iname"		"train1_health"
-	}
-	"1847226"
-	{
-		"enable"		"0"
-		"hammerid"		"1847226"
-		"m_iname"		"train1_1_health"
-	}
-	"1719243"
-	{
-		"enable"		"0"
-		"hammerid"		"1719243"
-		"m_iname"		"physboxLadderSelf&8120"
-	}
 	"2905626"
 	{
 		"enable"		"0"
 		"hammerid"		"2905626"
 		"m_iname"		"wallMonkeyRope"
 	}
-	"2482165"
+	"2412487"
 	{
 		"enable"		"0"
-		"hammerid"		"2482165"
-		"m_iname"		"barricade_15&7604"
+		"hammerid"		"2412487"
+		"m_iname"		"carro_teleported_ready"
 	}
-	"3259835"
+	"1910989"
 	{
 		"enable"		"0"
-		"hammerid"		"3259835"
-		"m_iname"		"physboxWeaponFreezer&5959"
+		"hammerid"		"1910989"
+		"m_iname"		"physboxPyramidHead"
 	}
-	"3260369"
+	"56434"
 	{
 		"enable"		"0"
-		"hammerid"		"3260369"
-		"m_iname"		"physboxWeaponAnnihilator&6596"
+		"hammerid"		"56434"
+		"m_iname"		"TurtleAirboatMain&3030"
 	}
-	"1422146"
-	{
-		"enable"		"0"
-		"hammerid"		"1422146"
-		"m_iname"		"physboxBarricade&7193"
-	}
-	"4479352"
-	{
-		"enable"		"0"
-		"hammerid"		"4479352"
-		"m_iname"		"physboxBunker&7194"
-	}
-	"2219"
+	"56340"
 	{
 		"enable"		"1"
-		"hammerid"		"2219"
-		"m_iname"		"boss2_health"
-	}
-	"2216"
-	{
-		"enable"		"1"
-		"hammerid"		"2216"
-		"m_iname"		"boss_health"
-	}
-	"155096"
-	{
-		"enable"		"0"
-		"hammerid"		"155096"
-		"m_iname"		"physboxTornado&4194"
-	}
-	"3923073"
-	{
-		"enable"		"0"
-		"hammerid"		"3923073"
-		"m_iname"		"physboxShadowBall&8564"
-	}
-	"836545"
-	{
-		"enable"		"1"
-		"hammerid"		"836545"
-		"m_iname"		"papercrap_ExtBossCannonDmg"
-	}
-	"836778"
-	{
-		"enable"		"1"
-		"hammerid"		"836778"
-		"m_iname"		"papercrap_GlassBoss"
-	}
-	"836816"
-	{
-		"enable"		"1"
-		"hammerid"		"836816"
-		"m_iname"		"papercrap_ExtBoss"
-	}
-	"1188737"
-	{
-		"enable"		"0"
-		"hammerid"		"1188737"
-		"m_iname"		"papercrap_Raivb1000_Weapon"
-	}
-	"837999"
-	{
-		"enable"		"0"
-		"hammerid"		"837999"
-		"m_iname"		"triggerPaperBreakableElevator"
-	}
-	"874381"
-	{
-		"enable"		"0"
-		"hammerid"		"874381"
-		"m_iname"		"triggerPaperBreakableEntrance"
-	}
-	"660147"
-	{
-		"enable"		"1"
-		"hammerid"		"660147"
-		"m_iname"		"physboxBahamutBaseHits"
+		"hammerid"		"56340"
+		"m_iname"		"TurtleAirboatExtraShit"
 	}
 }

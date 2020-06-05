@@ -1,27 +1,5 @@
 "BOSSHP"
 {
-	"locurah1"
-	{
-		"enable"		"0"
-	}
-	"2521587"
-	{
-		"enable"		"1"
-		"hammerid"		"2521587"
-		"m_iname"		"bossbullets"
-	}
-	"1973197"
-	{
-		"enable"		"0"
-		"hammerid"		"1973197"
-		"m_iname"		"laserbream&6015"
-	}
-	"163118"
-	{
-		"enable"		"0"
-		"hammerid"		"163118"
-		"m_iname"		"locurah1"
-	}
 	"3475750"
 	{
 		"enable"		"0"
@@ -87,6 +65,12 @@
 		"enable"		"0"
 		"hammerid"		"117190"
 		"m_iname"		"vent6"
+	}
+	"163118"
+	{
+		"enable"		"0"
+		"hammerid"		"163118"
+		"m_iname"		"locurah1"
 	}
 	"156051"
 	{
@@ -237,11 +221,5 @@
 		"enable"		"0"
 		"hammerid"		"2256"
 		"m_iname"		"barroteszona1"
-	}
-	"3178095"
-	{
-		"enable"		"1"
-		"hammerid"		"3178095"
-		"m_iname"		"ara?a"
 	}
 }

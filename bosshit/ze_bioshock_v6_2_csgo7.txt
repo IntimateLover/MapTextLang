@@ -1,16 +1,10 @@
 "BOSSHP"
 {
-	"5003443"
+	"4736721"
 	{
 		"enable"		"0"
-		"hammerid"		"5003443"
-		"m_iname"		"plasmid_upgrader_electro"
-	}
-	"4736726"
-	{
-		"enable"		"0"
-		"hammerid"		"4736726"
-		"m_iname"		"secret_airship_item"
+		"hammerid"		"4736721"
+		"m_iname"		"secret_bird_item"
 	}
 	"4736716"
 	{
@@ -18,17 +12,11 @@
 		"hammerid"		"4736716"
 		"m_iname"		"secret_cage_item"
 	}
-	"2922"
+	"4736726"
 	{
 		"enable"		"0"
-		"hammerid"		"2922"
-		"m_iname"		"welcome_entrance_late_ladder_bl"
-	}
-	"4736721"
-	{
-		"enable"		"0"
-		"hammerid"		"4736721"
-		"m_iname"		"secret_bird_item"
+		"hammerid"		"4736726"
+		"m_iname"		"secret_airship_item"
 	}
 	"4903952"
 	{
@@ -36,41 +24,11 @@
 		"hammerid"		"4903952"
 		"m_iname"		"secret_vox_item"
 	}
-	"5062650"
-	{
-		"enable"		"0"
-		"hammerid"		"5062650"
-		"m_iname"		"plasmid_upgrader_cyclone"
-	}
-	"5061595"
-	{
-		"enable"		"0"
-		"hammerid"		"5061595"
-		"m_iname"		"plasmid_upgrader_incinerate"
-	}
-	"5063382"
-	{
-		"enable"		"0"
-		"hammerid"		"5063382"
-		"m_iname"		"plasmid_upgrader_gravity"
-	}
-	"5082256"
-	{
-		"enable"		"0"
-		"hammerid"		"5082256"
-		"m_iname"		"plasmid_upgrader_frost"
-	}
 	"7943"
 	{
 		"enable"		"0"
 		"hammerid"		"7943"
 		"m_iname"		"siren_alley_cage"
-	}
-	"5318014"
-	{
-		"enable"		"0"
-		"hammerid"		"5318014"
-		"m_iname"		"plasmid_upgrader_insect"
 	}
 	"25476"
 	{
@@ -110,7 +68,7 @@
 	}
 	"6060866"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"6060866"
 		"m_iname"		"cutscene_welcome_boss_separator"
 	}
@@ -137,12 +95,6 @@
 		"enable"		"1"
 		"hammerid"		"7073460"
 		"m_iname"		"fontaine_1_hitbox"
-	}
-	"7513844"
-	{
-		"enable"		"1"
-		"hammerid"		"7513844"
-		"m_iname"		"welcome_alt_boss_wall"
 	}
 	"8801688"
 	{
@@ -180,35 +132,23 @@
 		"hammerid"		"9567074"
 		"m_iname"		"skybox_skysphere_bottom"
 	}
-	"5857169"
+	"2922"
+	{
+		"enable"		"0"
+		"hammerid"		"2922"
+		"m_iname"		"welcome_entrance_late_ladder_bl"
+	}
+	"7513844"
 	{
 		"enable"		"1"
-		"hammerid"		"5857169"
-		"m_iname"		"turret_rocket_hitbox"
+		"hammerid"		"7513844"
+		"m_iname"		"welcome_alt_boss_wall"
 	}
 	"5858415"
 	{
 		"enable"		"1"
 		"hammerid"		"5858415"
 		"m_iname"		"turret_machinegun_hitbox"
-	}
-	"2391178"
-	{
-		"enable"		"0"
-		"hammerid"		"2391178"
-		"m_iname"		"EASY_ONLY_ENTITY"
-	}
-	"7556132"
-	{
-		"enable"		"0"
-		"hammerid"		"7556132"
-		"m_iname"		"EASY_ONLY_ENTITY"
-	}
-	"7753547"
-	{
-		"enable"		"0"
-		"hammerid"		"7753547"
-		"m_iname"		"EASY_ONLY_ENTITY"
 	}
 	"5858318"
 	{
@@ -224,9 +164,15 @@
 	}
 	"6060950"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"6060950"
 		"m_iname"		"bouncer_physbox_hp"
+	}
+	"5857169"
+	{
+		"enable"		"1"
+		"hammerid"		"5857169"
+		"m_iname"		"turret_rocket_hitbox"
 	}
 	"4162589"
 	{
@@ -245,119 +191,5 @@
 		"enable"		"0"
 		"hammerid"		"9304259"
 		"m_iname"		"frolic_alt_end_wall"
-	}
-	"6000793"
-	{
-		"enable"		"0"
-		"hammerid"		"6000793"
-		"m_iname"		"arcadia_exit_door"
-	}
-	"4032579"
-	{
-		"enable"		"0"
-		"hammerid"		"4032579"
-		"m_iname"		"columbia_patriot_health"
-	}
-	"6692393"
-	{
-		"enable"		"1"
-		"hammerid"		"6692393"
-		"m_iname"		"hephaestus_boss_cage_door"
-	}
-	"8609319"
-	{
-		"enable"		"1"
-		"hammerid"		"8609319"
-		"m_iname"		"columbia_alt_boss_exit_breakabl"
-	}
-	"8844631"
-	{
-		"enable"		"0"
-		"hammerid"		"8844631"
-		"m_iname"		"columbia_alt_exit_breakable_cag"
-	}
-	"8910514"
-	{
-		"enable"		"1"
-		"hammerid"		"8910514"
-		"m_iname"		"columbia_lighthouse_hitbox"
-	}
-	"9676013"
-	{
-		"enable"		"0"
-		"hammerid"		"9676013"
-		"m_iname"		"plasmid_gravity_physbox_1&6761"
-	}
-	"7927262"
-	{
-		"enable"		"0"
-		"hammerid"		"7927262"
-		"m_iname"		"frolic_poseidon_block_stairs"
-	}
-	"8082390"
-	{
-		"enable"		"0"
-		"hammerid"		"8082390"
-		"m_iname"		"welcome_alt_atrium_wall"
-	}
-	"8194752"
-	{
-		"enable"		"0"
-		"hammerid"		"8194752"
-		"m_iname"		"arcadia_alt_wall"
-	}
-	"4201246"
-	{
-		"enable"		"1"
-		"hammerid"		"4201246"
-		"m_iname"		"cohen_hitbox"
-	}
-	"7072628"
-	{
-		"enable"		"0"
-		"hammerid"		"7072628"
-		"m_iname"		"fontaine_2_breakable"
-	}
-	"9676032"
-	{
-		"enable"		"0"
-		"hammerid"		"9676032"
-		"m_iname"		"plasmid_gravity_physbox_3"
-	}
-	"10235857"
-	{
-		"enable"		"0"
-		"hammerid"		"10235857"
-		"m_iname"		"plasmid_upgrader_gravity"
-	}
-	"10235907"
-	{
-		"enable"		"0"
-		"hammerid"		"10235907"
-		"m_iname"		"plasmid_upgrader_frost"
-	}
-	"10235788"
-	{
-		"enable"		"0"
-		"hammerid"		"10235788"
-		"m_iname"		"plasmid_upgrader_cyclone"
-	}
-	"10235605"
-	{
-		"enable"		"0"
-		"hammerid"		"10235605"
-		"m_iname"		"plasmid_upgrader_electro"
-	}
-	"10235740"
-	{
-		"enable"		"0"
-		"hammerid"		"10235740"
-		"m_iname"		"plasmid_upgrader_incinerate"
-	}
-	"9676029"
-	{
-		"enable"		"0"
-		"hammerid"		"9676029"
-		"m_iname"		"plasmid_gravity_physbox_2&3600"
 	}
 }

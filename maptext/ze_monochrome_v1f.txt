@@ -24,17 +24,13 @@
 	{
 		"chi"		"** **"
 	}
-	"***Doors Open In 5s***"
+	"***Doors open in 5s***"
 	{
 		"chi"		"** **"
 	}
-	"***HOLD FOR 25s***"
+	"***Hold for 25s***"
 	{
 		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"82086"
 	}
 	"***5s left***"
 	{
@@ -49,46 +45,6 @@
 		"chi"		"** **"
 	}
 	"***Teleport in 5s***"
-	{
-		"chi"		"** **"
-	}
-	"***Teleport in 25s***"
-	{
-		"chi"		"** **"
-	}
-	"***Freeze Item Picked Up***"
-	{
-		"chi"		"**冰冻被捡起(很重要,会被高爆燃烧覆盖减速) **"
-	}
-	"***Start in 10s***"
-	{
-		"chi"		"** **"
-	}
-	"***Start in 3s***"
-	{
-		"chi"		"** **"
-	}
-	"***Start in 2s***"
-	{
-		"chi"		"** **"
-	}
-	"***Start in 1s***"
-	{
-		"chi"		"** **"
-	}
-	"***Zombies TP to middle in 5s***"
-	{
-		"chi"		"** **"
-	}
-	"***Congratulations***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks for playing***"
-	{
-		"chi"		"** **"
-	}
-	"The se"
 	{
 		"chi"		"** **"
 	}

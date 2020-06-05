@@ -1,5 +1,17 @@
 "BOSSHP"
 {
+	"41666"
+	{
+		"enable"		"0"
+		"hammerid"		"41666"
+		"m_iname"		"Break"
+	}
+	"41697"
+	{
+		"enable"		"0"
+		"hammerid"		"41697"
+		"m_iname"		"Break"
+	}
 	"41818"
 	{
 		"enable"		"0"
@@ -23,18 +35,6 @@
 		"enable"		"0"
 		"hammerid"		"42751"
 		"m_iname"		"Bridge2"
-	}
-	"41666"
-	{
-		"enable"		"0"
-		"hammerid"		"41666"
-		"m_iname"		"Break"
-	}
-	"41697"
-	{
-		"enable"		"0"
-		"hammerid"		"41697"
-		"m_iname"		"Break"
 	}
 	"75518"
 	{

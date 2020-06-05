@@ -54,12 +54,6 @@
 		"hammerid"		"203036"
 		"m_iname"		"zombiebreak"
 	}
-	"193109"
-	{
-		"enable"		"0"
-		"hammerid"		"193109"
-		"m_iname"		"BoxLv1"
-	}
 	"193114"
 	{
 		"enable"		"0"
@@ -228,12 +222,6 @@
 		"hammerid"		"144246"
 		"m_iname"		"lawlanbosssign"
 	}
-	"45829"
-	{
-		"enable"		"0"
-		"hammerid"		"45829"
-		"m_iname"		"firstwaterwall"
-	}
 	"49039"
 	{
 		"enable"		"0"
@@ -359,5 +347,17 @@
 		"enable"		"0"
 		"hammerid"		"193098"
 		"m_iname"		"BoxLv0"
+	}
+	"45829"
+	{
+		"enable"		"0"
+		"hammerid"		"45829"
+		"m_iname"		"firstwaterwall"
+	}
+	"193109"
+	{
+		"enable"		"0"
+		"hammerid"		"193109"
+		"m_iname"		"BoxLv1"
 	}
 }

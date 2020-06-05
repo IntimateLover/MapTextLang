@@ -6,9 +6,21 @@
 		"hammerid"		"2421120"
 		"m_iname"		"trexphys"
 	}
+	"2112046"
+	{
+		"enable"		"0"
+		"hammerid"		"2112046"
+		"m_iname"		"doorh"
+	}
+	"1857175"
+	{
+		"enable"		"0"
+		"hammerid"		"1857175"
+		"m_iname"		"metalfence"
+	}
 	"1057812"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"1057812"
 		"m_iname"		"trexphys"
 	}
@@ -89,18 +101,6 @@
 		"enable"		"0"
 		"hammerid"		"689325"
 		"m_iname"		"trexwallsmash"
-	}
-	"2112046"
-	{
-		"enable"		"0"
-		"hammerid"		"2112046"
-		"m_iname"		"doorh"
-	}
-	"1857175"
-	{
-		"enable"		"0"
-		"hammerid"		"1857175"
-		"m_iname"		"metalfence"
 	}
 	"502809"
 	{
@@ -248,7 +248,7 @@
 	}
 	"716733"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"716733"
 		"m_iname"		"trexbattleblocker01"
 	}
@@ -293,17 +293,5 @@
 		"enable"		"0"
 		"hammerid"		"1952761"
 		"m_iname"		"shortcutstairs"
-	}
-	"121537"
-	{
-		"enable"		"0"
-		"hammerid"		"121537"
-		"m_iname"		"holddoor01"
-	}
-	"673219"
-	{
-		"enable"		"0"
-		"hammerid"		"673219"
-		"m_iname"		"differcultie normal gate"
 	}
 }

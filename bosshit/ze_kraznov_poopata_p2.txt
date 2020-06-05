@@ -1,65 +1,5 @@
 "BOSSHP"
 {
-	"BasketballBallFake"
-	{
-		"enable"		"0"
-	}
-	"PuzzleBoxesRed"
-	{
-		"enable"		"0"
-	}
-	"PuzzleBoxesBlue"
-	{
-		"enable"		"0"
-	}
-	"BasketballBallFake&4977"
-	{
-		"enable"		"0"
-	}
-	"BasketballBallFake&6462"
-	{
-		"enable"		"0"
-	}
-	"BasketballBallFake&6933"
-	{
-		"enable"		"0"
-	}
-	"BasketballBallFake&0784"
-	{
-		"enable"		"0"
-	}
-	"BasketballBallFake&2336"
-	{
-		"enable"		"0"
-	}
-	"BasketballBallFake&2828"
-	{
-		"enable"		"0"
-	}
-	"32105"
-	{
-		"enable"		"0"
-		"hammerid"		"32105"
-		"m_iname"		"BasketballBallFake"
-	}
-	"36176"
-	{
-		"enable"		"0"
-		"hammerid"		"36176"
-		"m_iname"		"PuzzleBoxesRed"
-	}
-	"36192"
-	{
-		"enable"		"0"
-		"hammerid"		"36192"
-		"m_iname"		"PuzzleBoxesBlue"
-	}
-	"49824"
-	{
-		"enable"		"0"
-		"hammerid"		"49824"
-		"m_iname"		"PenisGunBrush"
-	}
 	"3572"
 	{
 		"enable"		"0"
@@ -90,6 +30,12 @@
 		"hammerid"		"31834"
 		"m_iname"		"TheWallOfInnocence"
 	}
+	"32105"
+	{
+		"enable"		"0"
+		"hammerid"		"32105"
+		"m_iname"		"BasketballBallFake"
+	}
 	"34724"
 	{
 		"enable"		"0"
@@ -102,10 +48,28 @@
 		"hammerid"		"34915"
 		"m_iname"		"TheWallOfUselessness"
 	}
+	"36176"
+	{
+		"enable"		"0"
+		"hammerid"		"36176"
+		"m_iname"		"PuzzleBoxesRed"
+	}
+	"36192"
+	{
+		"enable"		"0"
+		"hammerid"		"36192"
+		"m_iname"		"PuzzleBoxesBlue"
+	}
 	"38760"
 	{
 		"enable"		"0"
 		"hammerid"		"38760"
 		"m_iname"		"TheWallOfFaith"
+	}
+	"49824"
+	{
+		"enable"		"0"
+		"hammerid"		"49824"
+		"m_iname"		"PenisGunBrush"
 	}
 }

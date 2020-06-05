@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"***The road will open in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Earth***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"54309"
+	}
+}
