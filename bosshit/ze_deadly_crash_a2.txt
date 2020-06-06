@@ -1,46 +1,22 @@
 "BOSSHP"
 {
-	"98932"
+	"245381"
 	{
-		"enable"		"0"
-		"hammerid"		"98932"
-		"m_iname"		"[STAGE01]BREAK03"
+		"enable"		"1"
+		"hammerid"		"245381"
+		"m_iname"		"[SYSTEM]BOSS01_HITBOX"
 	}
-	"92780"
+	"241078"
 	{
 		"enable"		"0"
-		"hammerid"		"92780"
-		"m_iname"		"[ITEM]KEY01"
+		"hammerid"		"241078"
+		"m_iname"		"[BREAK]SHUTTER03"
 	}
-	"93470"
+	"233533"
 	{
 		"enable"		"0"
-		"hammerid"		"93470"
-		"m_iname"		"[ITEM]KEY02"
-	}
-	"94551"
-	{
-		"enable"		"0"
-		"hammerid"		"94551"
-		"m_iname"		"[STAGE01]BREAK_DOOR01"
-	}
-	"94575"
-	{
-		"enable"		"0"
-		"hammerid"		"94575"
-		"m_iname"		"[STAGE01]BREAK_DOOR02"
-	}
-	"82056"
-	{
-		"enable"		"0"
-		"hammerid"		"82056"
-		"m_iname"		"[STAGE01]BREAK01"
-	}
-	"84134"
-	{
-		"enable"		"0"
-		"hammerid"		"84134"
-		"m_iname"		"[STAGE01]BREAK02"
+		"hammerid"		"233533"
+		"m_iname"		"[BREAK]ELEVATOR"
 	}
 	"92999"
 	{
@@ -83,23 +59,5 @@
 		"enable"		"0"
 		"hammerid"		"81425"
 		"m_iname"		"[BREAK]DUCT01"
-	}
-	"245381"
-	{
-		"enable"		"1"
-		"hammerid"		"245381"
-		"m_iname"		"[SYSTEM]BOSS01_HITBOX"
-	}
-	"241078"
-	{
-		"enable"		"0"
-		"hammerid"		"241078"
-		"m_iname"		"[BREAK]SHUTTER03"
-	}
-	"233533"
-	{
-		"enable"		"0"
-		"hammerid"		"233533"
-		"m_iname"		"[BREAK]ELEVATOR"
 	}
 }

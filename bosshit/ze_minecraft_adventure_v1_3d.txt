@@ -1,749 +1,5 @@
 "BOSSHP"
 {
-	"cave1_phys"
-	{
-		"enable"		"0"
-	}
-	"CY01Physic"
-	{
-		"enable"		"0"
-	}
-	"redtorch_phys"
-	{
-		"enable"		"0"
-	}
-	"bow_arrow"
-	{
-		"enable"		"0"
-	}
-	"nether_bossphys&9364"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9368"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9372"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9371"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9373"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9386"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9379"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9389"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9388"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9387"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9390"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9423"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9426"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9434"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9435"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9430"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9436"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9475"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9486"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9478"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9482"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9485"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9487"
-	{
-		"enable"		"1"
-	}
-	"nether_bossphys&9492"
-	{
-		"enable"		"1"
-	}
-	"item_fire_phys&9508"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9509"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9510"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9511"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9513"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9514"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9515"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9517"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9516"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9518"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9519"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9520"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9521"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9522"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9524"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9525"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9526"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9528"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9531"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9530"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9532"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9533"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9535"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9537"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9536"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9538"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9539"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9540"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9541"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9542"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9544"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9543"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9545"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9546"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9547"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9548"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9549"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9550"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9551"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9556"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9557"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9558"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9559"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9561"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9564"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9583"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9584"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9585"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9586"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9587"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9588"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9590"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9592"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9595"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9594"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9597"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9598"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9600"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9601"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9603"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9607"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9606"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9609"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9611"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9612"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9614"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9616"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9618"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9619"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9621"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9622"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9625"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9628"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9627"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9630"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9631"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9633"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9635"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9634"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9637"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9639"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9654"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9658"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9659"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9661"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9660"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9662"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9663"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9666"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9665"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9667"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9668"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9669"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9670"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9672"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9671"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9675"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9678"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9677"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9679"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9682"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9683"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9684"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9681"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9685"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9688"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9686"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9687"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9689"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9691"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9693"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9695"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9694"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9697"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9699"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9700"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9701"
-	{
-		"enable"		"0"
-	}
-	"item_block_phys&9702"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9705"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9704"
-	{
-		"enable"		"0"
-	}
-	"end_bossphys&9707"
-	{
-		"enable"		"1"
-	}
-	"item_fire_phys&9709"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9715"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9708"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9712"
-	{
-		"enable"		"0"
-	}
-	"end_bossphys&9710"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9711"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9714"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9724"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9722"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9716"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9717"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9718"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9719"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9720"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9721"
-	{
-		"enable"		"1"
-	}
-	"end_bossphys&9723"
-	{
-		"enable"		"1"
-	}
-	"item_fire_phys&9727"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9726"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9729"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9730"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9733"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9732"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9734"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9735"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9737"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9738"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9740"
-	{
-		"enable"		"0"
-	}
-	"item_fire_phys&9741"
-	{
-		"enable"		"0"
-	}
-	"1317967"
-	{
-		"enable"		"1"
-		"hammerid"		"1317967"
-		"m_iname"		"end_bosshitbox"
-	}
-	"1504915"
-	{
-		"enable"		"1"
-		"hammerid"		"1504915"
-		"m_iname"		"nether_boss_hitbox"
-	}
-	"603987"
-	{
-		"enable"		"1"
-		"hammerid"		"603987"
-		"m_iname"		"nether_bossphys&4592"
-	}
-	"948185"
-	{
-		"enable"		"0"
-		"hammerid"		"948185"
-		"m_iname"		"item_fire_phys&4785"
-	}
-	"948271"
-	{
-		"enable"		"0"
-		"hammerid"		"948271"
-		"m_iname"		"item_block_phys&4782"
-	}
-	"953180"
-	{
-		"enable"		"1"
-		"hammerid"		"953180"
-		"m_iname"		"end_bossphys&4772"
-	}
 	"19904"
 	{
 		"enable"		"0"
@@ -900,6 +156,12 @@
 		"hammerid"		"193471"
 		"m_iname"		"castle_break"
 	}
+	"199147"
+	{
+		"enable"		"0"
+		"hammerid"		"199147"
+		"m_iname"		"cave1_phys"
+	}
 	"199179"
 	{
 		"enable"		"0"
@@ -1038,6 +300,18 @@
 		"hammerid"		"903408"
 		"m_iname"		"river_break"
 	}
+	"1317967"
+	{
+		"enable"		"1"
+		"hammerid"		"1317967"
+		"m_iname"		"end_bosshitbox"
+	}
+	"1331253"
+	{
+		"enable"		"0"
+		"hammerid"		"1331253"
+		"m_iname"		"CY01Physic"
+	}
 	"1368978"
 	{
 		"enable"		"0"
@@ -1067,6 +341,12 @@
 		"enable"		"0"
 		"hammerid"		"1414232"
 		"m_iname"		"cave1_break2"
+	}
+	"1504915"
+	{
+		"enable"		"1"
+		"hammerid"		"1504915"
+		"m_iname"		"nether_boss_hitbox"
 	}
 	"1531434"
 	{
@@ -1158,11 +438,65 @@
 		"hammerid"		"1927572"
 		"m_iname"		"temple_break8"
 	}
+	"1927875"
+	{
+		"enable"		"0"
+		"hammerid"		"1927875"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927918"
+	{
+		"enable"		"0"
+		"hammerid"		"1927918"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927922"
+	{
+		"enable"		"0"
+		"hammerid"		"1927922"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927980"
+	{
+		"enable"		"0"
+		"hammerid"		"1927980"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927984"
+	{
+		"enable"		"0"
+		"hammerid"		"1927984"
+		"m_iname"		"redtorch_phys"
+	}
+	"1927988"
+	{
+		"enable"		"0"
+		"hammerid"		"1927988"
+		"m_iname"		"redtorch_phys"
+	}
 	"1928102"
 	{
 		"enable"		"0"
 		"hammerid"		"1928102"
 		"m_iname"		"jungletemp_break8"
+	}
+	"1941051"
+	{
+		"enable"		"0"
+		"hammerid"		"1941051"
+		"m_iname"		"redtorch_phys"
+	}
+	"1941055"
+	{
+		"enable"		"0"
+		"hammerid"		"1941055"
+		"m_iname"		"redtorch_phys"
+	}
+	"1941059"
+	{
+		"enable"		"0"
+		"hammerid"		"1941059"
+		"m_iname"		"redtorch_phys"
 	}
 	"1962504"
 	{
@@ -1211,167 +545,5 @@
 		"enable"		"0"
 		"hammerid"		"1427425"
 		"m_iname"		"stage1_random"
-	}
-	"762482"
-	{
-		"enable"		"0"
-		"hammerid"		"762482"
-		"m_iname"		"stage2_random"
-	}
-	"1636986"
-	{
-		"enable"		"0"
-		"hammerid"		"1636986"
-		"m_iname"		"stage3_random"
-	}
-	"1636994"
-	{
-		"enable"		"0"
-		"hammerid"		"1636994"
-		"m_iname"		"stage3_random"
-	}
-	"1637002"
-	{
-		"enable"		"0"
-		"hammerid"		"1637002"
-		"m_iname"		"stage3_random"
-	}
-	"1637033"
-	{
-		"enable"		"0"
-		"hammerid"		"1637033"
-		"m_iname"		"stage3_random"
-	}
-	"1681226"
-	{
-		"enable"		"0"
-		"hammerid"		"1681226"
-		"m_iname"		"stage3_random"
-	}
-	"1681240"
-	{
-		"enable"		"0"
-		"hammerid"		"1681240"
-		"m_iname"		"stage3_random"
-	}
-	"1681246"
-	{
-		"enable"		"0"
-		"hammerid"		"1681246"
-		"m_iname"		"stage3_random"
-	}
-	"1681252"
-	{
-		"enable"		"0"
-		"hammerid"		"1681252"
-		"m_iname"		"stage3_random"
-	}
-	"1928236"
-	{
-		"enable"		"0"
-		"hammerid"		"1928236"
-		"m_iname"		"stage3_random"
-	}
-	"1962803"
-	{
-		"enable"		"0"
-		"hammerid"		"1962803"
-		"m_iname"		"stage3_random"
-	}
-	"2107132"
-	{
-		"enable"		"0"
-		"hammerid"		"2107132"
-		"m_iname"		"stage3_random"
-	}
-	"2107158"
-	{
-		"enable"		"0"
-		"hammerid"		"2107158"
-		"m_iname"		"stage3_random"
-	}
-	"1859297"
-	{
-		"enable"		"1"
-		"hammerid"		"1859297"
-		"m_iname"		"stronghold_final_hitbox"
-	}
-	"199147"
-	{
-		"enable"		"0"
-		"hammerid"		"199147"
-		"m_iname"		"cave1_phys"
-	}
-	"1331253"
-	{
-		"enable"		"0"
-		"hammerid"		"1331253"
-		"m_iname"		"CY01Physic"
-	}
-	"1927875"
-	{
-		"enable"		"0"
-		"hammerid"		"1927875"
-		"m_iname"		"redtorch_phys"
-	}
-	"1927918"
-	{
-		"enable"		"0"
-		"hammerid"		"1927918"
-		"m_iname"		"redtorch_phys"
-	}
-	"1927922"
-	{
-		"enable"		"0"
-		"hammerid"		"1927922"
-		"m_iname"		"redtorch_phys"
-	}
-	"1927980"
-	{
-		"enable"		"0"
-		"hammerid"		"1927980"
-		"m_iname"		"redtorch_phys"
-	}
-	"1927984"
-	{
-		"enable"		"0"
-		"hammerid"		"1927984"
-		"m_iname"		"redtorch_phys"
-	}
-	"1927988"
-	{
-		"enable"		"0"
-		"hammerid"		"1927988"
-		"m_iname"		"redtorch_phys"
-	}
-	"1941051"
-	{
-		"enable"		"0"
-		"hammerid"		"1941051"
-		"m_iname"		"redtorch_phys"
-	}
-	"1941055"
-	{
-		"enable"		"0"
-		"hammerid"		"1941055"
-		"m_iname"		"redtorch_phys"
-	}
-	"1941059"
-	{
-		"enable"		"0"
-		"hammerid"		"1941059"
-		"m_iname"		"redtorch_phys"
-	}
-	"1657999"
-	{
-		"enable"		"0"
-		"hammerid"		"1657999"
-		"m_iname"		"bow_arrow"
-	}
-	"1832743"
-	{
-		"enable"		"0"
-		"hammerid"		"1832743"
-		"m_iname"		"stronghold_final_break2"
 	}
 }

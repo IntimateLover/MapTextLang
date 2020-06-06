@@ -1,21 +1,5 @@
 "BOSSHP"
 {
-	"Fountain_train"
-	{
-		"enable"		"0"
-	}
-	"Truck_lift"
-	{
-		"enable"		"0"
-	}
-	"Fan1"
-	{
-		"enable"		"0"
-	}
-	"fan2"
-	{
-		"enable"		"0"
-	}
 	"149873"
 	{
 		"enable"		"0"
@@ -106,6 +90,12 @@
 		"hammerid"		"68517"
 		"m_iname"		"Collum2"
 	}
+	"55831"
+	{
+		"enable"		"0"
+		"hammerid"		"55831"
+		"m_iname"		"Truck_lift"
+	}
 	"31428"
 	{
 		"enable"		"0"
@@ -129,29 +119,5 @@
 		"enable"		"0"
 		"hammerid"		"5850"
 		"m_iname"		"Collum_break"
-	}
-	"86055"
-	{
-		"enable"		"0"
-		"hammerid"		"86055"
-		"m_iname"		"Fountain_train"
-	}
-	"55831"
-	{
-		"enable"		"0"
-		"hammerid"		"55831"
-		"m_iname"		"Truck_lift"
-	}
-	"51542"
-	{
-		"enable"		"0"
-		"hammerid"		"51542"
-		"m_iname"		"Fan1"
-	}
-	"46313"
-	{
-		"enable"		"0"
-		"hammerid"		"46313"
-		"m_iname"		"fan2"
 	}
 }

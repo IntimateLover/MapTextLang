@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"810"
+	{
+		"enable"		"0"
+		"hammerid"		"810"
+		"m_iname"		"rocks01holder"
+	}
 	"812"
 	{
 		"enable"		"0"
@@ -29,6 +35,12 @@
 		"enable"		"0"
 		"hammerid"		"820"
 		"m_iname"		"rock04"
+	}
+	"1411"
+	{
+		"enable"		"0"
+		"hammerid"		"1411"
+		"m_iname"		"zombieblocker1"
 	}
 	"4220"
 	{
@@ -66,17 +78,71 @@
 		"hammerid"		"4319"
 		"m_iname"		"bolder06"
 	}
+	"12117"
+	{
+		"enable"		"0"
+		"hammerid"		"12117"
+		"m_iname"		"zombieplankfilter"
+	}
+	"13015"
+	{
+		"enable"		"0"
+		"hammerid"		"13015"
+		"m_iname"		"tntvisableblock"
+	}
+	"13400"
+	{
+		"enable"		"0"
+		"hammerid"		"13400"
+		"m_iname"		"tntwall"
+	}
 	"24646"
 	{
 		"enable"		"0"
 		"hammerid"		"24646"
 		"m_iname"		"creeperhead"
 	}
+	"25403"
+	{
+		"enable"		"0"
+		"hammerid"		"25403"
+		"m_iname"		"buttoncover1"
+	}
+	"33705"
+	{
+		"enable"		"0"
+		"hammerid"		"33705"
+		"m_iname"		"nocampingdoor01"
+	}
+	"34698"
+	{
+		"enable"		"0"
+		"hammerid"		"34698"
+		"m_iname"		"buttoncover2"
+	}
 	"35801"
 	{
 		"enable"		"0"
 		"hammerid"		"35801"
 		"m_iname"		"bow01"
+	}
+	"47662"
+	{
+		"enable"		"0"
+		"hammerid"		"47662"
+		"m_iname"		"railwayblocker1"
+	}
+	"47709"
+	{
+		"enable"		"0"
+		"hammerid"		"47709"
+		"m_iname"		"railwayblocker2"
+	}
+	"62335"
+	{
+		"enable"		"0"
+		"hammerid"		"62335"
+		"m_iname"		"largrockholder1"
 	}
 	"62343"
 	{
@@ -107,108 +173,6 @@
 		"enable"		"0"
 		"hammerid"		"66837"
 		"m_iname"		"hugebolder05"
-	}
-	"73090"
-	{
-		"enable"		"0"
-		"hammerid"		"73090"
-		"m_iname"		"creeperhead"
-	}
-	"89626"
-	{
-		"enable"		"0"
-		"hammerid"		"89626"
-		"m_iname"		"creeperhead"
-	}
-	"128017"
-	{
-		"enable"		"0"
-		"hammerid"		"128017"
-		"m_iname"		"bridblock"
-	}
-	"139969"
-	{
-		"enable"		"0"
-		"hammerid"		"139969"
-		"m_iname"		"treehead"
-	}
-	"144726"
-	{
-		"enable"		"0"
-		"hammerid"		"144726"
-		"m_iname"		"bridblock"
-	}
-	"144729"
-	{
-		"enable"		"0"
-		"hammerid"		"144729"
-		"m_iname"		"bridblock"
-	}
-	"810"
-	{
-		"enable"		"0"
-		"hammerid"		"810"
-		"m_iname"		"rocks01holder"
-	}
-	"1411"
-	{
-		"enable"		"0"
-		"hammerid"		"1411"
-		"m_iname"		"zombieblocker1"
-	}
-	"12117"
-	{
-		"enable"		"0"
-		"hammerid"		"12117"
-		"m_iname"		"zombieplankfilter"
-	}
-	"13015"
-	{
-		"enable"		"0"
-		"hammerid"		"13015"
-		"m_iname"		"tntvisableblock"
-	}
-	"13400"
-	{
-		"enable"		"0"
-		"hammerid"		"13400"
-		"m_iname"		"tntwall"
-	}
-	"25403"
-	{
-		"enable"		"0"
-		"hammerid"		"25403"
-		"m_iname"		"buttoncover1"
-	}
-	"33705"
-	{
-		"enable"		"0"
-		"hammerid"		"33705"
-		"m_iname"		"nocampingdoor01"
-	}
-	"34698"
-	{
-		"enable"		"0"
-		"hammerid"		"34698"
-		"m_iname"		"buttoncover2"
-	}
-	"47662"
-	{
-		"enable"		"0"
-		"hammerid"		"47662"
-		"m_iname"		"railwayblocker1"
-	}
-	"47709"
-	{
-		"enable"		"0"
-		"hammerid"		"47709"
-		"m_iname"		"railwayblocker2"
-	}
-	"62335"
-	{
-		"enable"		"0"
-		"hammerid"		"62335"
-		"m_iname"		"largrockholder1"
 	}
 	"66876"
 	{
@@ -252,6 +216,12 @@
 		"hammerid"		"69923"
 		"m_iname"		"step6"
 	}
+	"73090"
+	{
+		"enable"		"0"
+		"hammerid"		"73090"
+		"m_iname"		"creeperhead"
+	}
 	"79110"
 	{
 		"enable"		"0"
@@ -263,6 +233,12 @@
 		"enable"		"0"
 		"hammerid"		"79279"
 		"m_iname"		"voltblock"
+	}
+	"89626"
+	{
+		"enable"		"0"
+		"hammerid"		"89626"
+		"m_iname"		"creeperhead"
 	}
 	"102315"
 	{
@@ -282,6 +258,12 @@
 		"hammerid"		"127932"
 		"m_iname"		"blockholder"
 	}
+	"128017"
+	{
+		"enable"		"0"
+		"hammerid"		"128017"
+		"m_iname"		"bridblock"
+	}
 	"137075"
 	{
 		"enable"		"0"
@@ -300,11 +282,29 @@
 		"hammerid"		"34807"
 		"m_iname"		"bluegate"
 	}
+	"139969"
+	{
+		"enable"		"0"
+		"hammerid"		"139969"
+		"m_iname"		"treehead"
+	}
 	"144425"
 	{
 		"enable"		"0"
 		"hammerid"		"144425"
 		"m_iname"		"bridbreakable"
+	}
+	"144726"
+	{
+		"enable"		"0"
+		"hammerid"		"144726"
+		"m_iname"		"bridblock"
+	}
+	"144729"
+	{
+		"enable"		"0"
+		"hammerid"		"144729"
+		"m_iname"		"bridblock"
 	}
 	"136904"
 	{

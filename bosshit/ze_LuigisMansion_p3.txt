@@ -1,34 +1,10 @@
 "BOSSHP"
 {
-	"luigihang"
-	{
-		"enable"		"0"
-	}
-	"zombie forest blockA"
-	{
-		"enable"		"0"
-	}
-	"zombie forest block"
-	{
-		"enable"		"0"
-	}
 	"95913"
 	{
 		"enable"		"0"
 		"hammerid"		"95913"
 		"m_iname"		"luigihang"
-	}
-	"13366"
-	{
-		"enable"		"0"
-		"hammerid"		"13366"
-		"m_iname"		"zombie forest blockA"
-	}
-	"16145"
-	{
-		"enable"		"0"
-		"hammerid"		"16145"
-		"m_iname"		"zombie forest block"
 	}
 	"12530"
 	{
@@ -72,6 +48,12 @@
 		"hammerid"		"13358"
 		"m_iname"		"cem_shgate"
 	}
+	"13366"
+	{
+		"enable"		"0"
+		"hammerid"		"13366"
+		"m_iname"		"zombie forest blockA"
+	}
 	"13392"
 	{
 		"enable"		"0"
@@ -89,6 +71,12 @@
 		"enable"		"0"
 		"hammerid"		"13480"
 		"m_iname"		"cem_shgate"
+	}
+	"13677"
+	{
+		"enable"		"0"
+		"hammerid"		"13677"
+		"m_iname"		"lumabreak"
 	}
 	"13685"
 	{
@@ -150,16 +138,16 @@
 		"hammerid"		"16093"
 		"m_iname"		"exitbars"
 	}
+	"16145"
+	{
+		"enable"		"0"
+		"hammerid"		"16145"
+		"m_iname"		"zombie forest block"
+	}
 	"16193"
 	{
 		"enable"		"0"
 		"hammerid"		"16193"
 		"m_iname"		"cem_shgate"
-	}
-	"13677"
-	{
-		"enable"		"0"
-		"hammerid"		"13677"
-		"m_iname"		"lumabreak"
 	}
 }

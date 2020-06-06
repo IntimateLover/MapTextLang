@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"115348"
+	{
+		"enable"		"0"
+		"hammerid"		"115348"
+		"m_iname"		"stage2_final_brige"
+	}
 	"73819"
 	{
 		"enable"		"0"
@@ -83,17 +89,5 @@
 		"enable"		"0"
 		"hammerid"		"2561"
 		"m_iname"		"stage_2_door"
-	}
-	"2349"
-	{
-		"enable"		"0"
-		"hammerid"		"2349"
-		"m_iname"		"Item_Wall_wall"
-	}
-	"115348"
-	{
-		"enable"		"0"
-		"hammerid"		"115348"
-		"m_iname"		"stage2_final_brige"
 	}
 }
