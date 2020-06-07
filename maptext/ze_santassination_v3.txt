@@ -3,7 +3,6 @@
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
 		"chi"		"**距离岩石墙碎裂还有15秒**"
-		"command"		"zr_class_modify humans health 200"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
@@ -24,6 +23,7 @@
 	"***GET UP ON THAT ROCK***"
 	{
 		"chi"		"**去那块石头上**"
+		"DoorCountDown"		"91"
 	}
 	"***MUFASA.. IS DEAD...***"
 	{
@@ -210,7 +210,7 @@
 	}
 	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
 	{
-		"chi"		"**为了进入工厂，请使用来自下水道的巧克力满足大嘴巴**"
+		"chi"		"**请使用来自下水道的巧克力满足大嘴巴**"
 	}
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
@@ -261,7 +261,7 @@
 	}
 	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
 	{
-		"chi"		"**右侧电梯起飞**"
+		"chi"		"**右侧电梯离开**"
 	}
 	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
 	{
@@ -269,7 +269,7 @@
 	}
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
-		"chi"		"** 右边的墙将会在20s内打开*"
+		"chi"		"**右边的墙将会在20s内打开**"
 		"DoorCountDown"		"20"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
@@ -568,7 +568,7 @@
 	}
 	"SEND ALL YOUR NUDES TO LUFFAREN!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**把你们的作品全部送给Luffaren吧**"
 	}
 	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
 	{
@@ -735,10 +735,6 @@
 	{
 		"chi"		"**进门**"
 	}
-	"***SANTA'S DOOR IS OPENING***"
-	{
-		"chi"		"**门开啦**"
-	}
 	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
 	{
 		"chi"		"**圣诞老人的房子将在5秒后关门**"
@@ -765,7 +761,7 @@
 	}
 	"*** - SANTA - ***"
 	{
-		"chi"		"**小圣诞老人,按ad躲避boss攻击，不要贴墙打boss**"
+		"chi"		"**小圣诞老人,ad躲避boss攻击，不要贴墙打boss**"
 	}
 	"***YOU HAVE DEFEATED SANTA***"
 	{
@@ -823,7 +819,7 @@
 	}
 	"*** - BIG SANTA - ***"
 	{
-		"chi"		"**这是大圣诞老人！**"
+		"chi"		"**这是大圣诞老人，ad躲避boss攻击，不要贴墙打boss**"
 	}
 	"***YOU HAVE DEFEATED SANTA CLAUS***"
 	{
@@ -857,58 +853,9 @@
 	{
 		"chi"		"**真的结束了么**"
 	}
-	"***OUTER GATE IS OPENING IN 50 SECONDS***"
-	{
-		"chi"		"**外门50s内打开**"
-		"DoorCountDown"		"50"
-	}
-	"***CENTER GATE IS OPENING IN 30 SECONDS***"
-	{
-		"chi"		"**中央门打开**"
-	}
-	"***CENTER GATE IS OPENING IN 5 SECONDS***"
-	{
-		"chi"		"**中央门5s内打开**"
-	}
-	"***CENTER GATE IS OPENING***"
-	{
-		"chi"		"*中央门打开**"
-	}
-	"***OUTER GATE IS OPENING IN 10 SECONDS***"
-	{
-		"chi"		"**外门10s内打开**"
-	}
-	"***OUTER GATE IS OPENING***"
-	{
-		"chi"		"**外门打开**"
-	}
-	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
-	{
-		"chi"		"**电梯门30s内打开**"
-	}
-	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
-	{
-		"chi"		"**电椅40s内离开**"
-	}
 	"***ZAZU IS PRAYING FOR THE TRUTH***"
 	{
 		"chi"		"**ZAZU在寻找真相**"
-	}
-	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
-	{
-		"chi"		"**电椅5s内离开**"
-	}
-	"***ELEVATOR SHAFT GATE IS OPENING***"
-	{
-		"chi"		"**电梯轴门打开**"
-	}
-	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
-	{
-		"chi"		"**电梯5s内离开**"
-	}
-	"***OUTER ELEVATOR IS LEAVING***"
-	{
-		"chi"		"**电梯离开**"
 	}
 	"***SIMBA IS PRAYING FOR THE TRUTH***"
 	{
@@ -979,10 +926,6 @@
 	{
 		"chi"		"** **"
 	}
-	"***HEAD TOWARDS SANTAS FACTORY***"
-	{
-		"chi"		"**头朝向工厂**"
-	}
 	"***SANTAS LAIR GATE IS CLOSING IN 10 SECONDS***"
 	{
 		"chi"		"**10s后关门**"
@@ -999,38 +942,6 @@
 	{
 		"chi"		"** **"
 	}
-	"***SANTAS DOOR IS OPENING IN 20 SECONDS***"
-	{
-		"chi"		"**20s内开门**"
-	}
-	"***SANTAS DOOR IS OPENING***"
-	{
-		"chi"		"**门已经打开**"
-	}
-	"***SANTAS DOOR IS CLOSING IN 5 SECONDS***"
-	{
-		"chi"		"**门将在5s内关闭**"
-	}
-	"***SANTAS DOOR IS CLOSING IN 4 SECONDS***"
-	{
-		"chi"		"**门将在4s内关闭**"
-	}
-	"***SANTAS DOOR IS CLOSING IN 3 SECONDS***"
-	{
-		"chi"		"**门将在3s内关闭**"
-	}
-	"***SANTAS DOOR IS CLOSING IN 2 SECONDS***"
-	{
-		"chi"		"**门将在2s内关闭**"
-	}
-	"***SANTAS DOOR IS CLOSING IN 1 SECONDS***"
-	{
-		"chi"		"**门将在1s内关闭**"
-	}
-	"***SANTAS DOOR IS CLOSING***"
-	{
-		"chi"		"**门关**"
-	}
 	"***THIS IS WRONG...***"
 	{
 		"chi"		"**错了**"
@@ -1042,6 +953,7 @@
 	"***SOCRATES IS JUDGING YOU***"
 	{
 		"chi"		"**苏格拉底在审视你**"
+		"DoorCountDown"		"30"
 	}
 	"***SOCRATES HAS TO CLEANSE YOU***"
 	{
@@ -1058,6 +970,7 @@
 	"***SOCRATES PONDERS***"
 	{
 		"chi"		"**苏格拉底思考**"
+		"DoorCountDown"		"30"
 	}
 	"***SOCRATES CRIES***"
 	{
@@ -1085,7 +998,8 @@
 	}
 	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
 	{
-		"chi"		"**特殊苏格拉底僵尸将要传送 5**"
+		"chi"		"**苏格拉底将要在5秒后传送僵尸**"
+		"DoorCountDown"		"5"
 	}
 	"***4***"
 	{
@@ -1126,6 +1040,7 @@
 	"***SOCRATES WISHES SILENTLY***"
 	{
 		"chi"		"**苏格拉底祈祷**"
+		"DoorCountDown"		"40"
 	}
 	"***SOCRATES FEELS YOU***"
 	{
@@ -1146,6 +1061,7 @@
 	"***SOCRATES CARES FOR NO MAN***"
 	{
 		"chi"		"**苏格拉底不喜欢人**"
+		"DoorCountDown"		"50"
 	}
 	"***SOCRATES IS***"
 	{
@@ -1162,6 +1078,7 @@
 	"***SOCRATES IS ALL***"
 	{
 		"chi"		"**苏格拉底就是所有**"
+		"DoorCountDown"		"40"
 	}
 	"***SOCRATES IS NOTHING***"
 	{
@@ -1182,6 +1099,7 @@
 	"***SOCRATES CANNOT KEEP***"
 	{
 		"chi"		"**苏格拉底不能保持**"
+		"DoorCountDown"		"20"
 	}
 	"***SOCRATES RUMBLES YOUR WILL***"
 	{
@@ -1194,6 +1112,7 @@
 	"***SOCRATES WILL ARRIVE***"
 	{
 		"chi"		"**苏格拉底快到了**"
+		"DoorCountDown"		"20"
 	}
 	"***SOCRATES WILL CLEANSE***"
 	{
@@ -1206,6 +1125,7 @@
 	"***SOCRATES IS NEAR***"
 	{
 		"chi"		"**苏格拉底近了**"
+		"DoorCountDown"		"20"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
@@ -1217,7 +1137,7 @@
 	}
 	"***PLAYER PICKED UP ITEM - HERDER***"
 	{
-		"chi"		"**一位玩家捡起牧人**"
+		"chi"		"**一位玩家捡起牧尸人**"
 	}
 	"*** - TRUE SANTA - ***"
 	{
@@ -1225,7 +1145,7 @@
 	}
 	"***SPEEDER ITEMS ACTIVATED***"
 	{
-		"chi"		"**速度激活**"
+		"chi"		"**加速神器已激活**"
 	}
 	"***YOU HAVE DONE IT!***"
 	{
@@ -1415,10 +1335,10 @@
 	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
 	{
-		"chi"		"** **"
+		"chi"		"**Luffaren加入了游戏**"
 	}
 	"***TRAM 2 IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**[板子]二号电车已离开**"
 	}
 }
