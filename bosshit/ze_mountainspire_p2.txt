@@ -1,17 +1,5 @@
 "BOSSHP"
 {
-	"4052"
-	{
-		"enable"		"0"
-		"hammerid"		"4052"
-		"m_iname"		"ramp0"
-	}
-	"4060"
-	{
-		"enable"		"0"
-		"hammerid"		"4060"
-		"m_iname"		"ramp0"
-	}
 	"3412"
 	{
 		"enable"		"0"
@@ -47,5 +35,17 @@
 		"enable"		"0"
 		"hammerid"		"3948"
 		"m_iname"		"ladderblock"
+	}
+	"4052"
+	{
+		"enable"		"0"
+		"hammerid"		"4052"
+		"m_iname"		"ramp0"
+	}
+	"4060"
+	{
+		"enable"		"0"
+		"hammerid"		"4060"
+		"m_iname"		"ramp0"
 	}
 }

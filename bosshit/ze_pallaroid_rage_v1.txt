@@ -1,22 +1,16 @@
 "BOSSHP"
 {
-	"31816"
+	"33629"
 	{
 		"enable"		"1"
-		"hammerid"		"31816"
-		"m_iname"		"patrick"
+		"hammerid"		"33629"
+		"m_iname"		"Final_boss"
 	}
 	"34140"
 	{
 		"enable"		"1"
 		"hammerid"		"34140"
 		"m_iname"		"Boss_Shell"
-	}
-	"33629"
-	{
-		"enable"		"1"
-		"hammerid"		"33629"
-		"m_iname"		"Final_boss"
 	}
 	"12058"
 	{

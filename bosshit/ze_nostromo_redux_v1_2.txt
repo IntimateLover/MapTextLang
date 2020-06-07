@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"875283"
+	{
+		"enable"		"0"
+		"hammerid"		"875283"
+		"m_iname"		"vent_break"
+	}
 	"425973"
 	{
 		"enable"		"0"
@@ -11,12 +17,6 @@
 		"enable"		"0"
 		"hammerid"		"331268"
 		"m_iname"		"flamethrower_model"
-	}
-	"875283"
-	{
-		"enable"		"0"
-		"hammerid"		"875283"
-		"m_iname"		"vent_break"
 	}
 	"273093"
 	{

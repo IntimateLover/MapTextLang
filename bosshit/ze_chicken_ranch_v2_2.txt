@@ -1,40 +1,16 @@
 "BOSSHP"
 {
-	"1868052"
-	{
-		"enable"		"0"
-		"hammerid"		"1868052"
-		"m_iname"		"PenisGunBrush"
-	}
-	"1300977"
-	{
-		"enable"		"1"
-		"hammerid"		"1300977"
-		"m_iname"		"NPCHitbox&3030"
-	}
-	"2331545"
-	{
-		"enable"		"0"
-		"hammerid"		"2331545"
-		"m_iname"		"ElevatorChickenPhy&2956"
-	}
-	"1489443"
-	{
-		"enable"		"0"
-		"hammerid"		"1489443"
-		"m_iname"		"Landmine_Brush&0323"
-	}
-	"1489839"
-	{
-		"enable"		"0"
-		"hammerid"		"1489839"
-		"m_iname"		"ChickenLauncher_Rocket_Physbox&"
-	}
 	"2146701"
 	{
 		"enable"		"0"
 		"hammerid"		"2146701"
 		"m_iname"		"FasterAccessGrate"
+	}
+	"1868052"
+	{
+		"enable"		"0"
+		"hammerid"		"1868052"
+		"m_iname"		"PenisGunBrush"
 	}
 	"1607915"
 	{
@@ -89,5 +65,17 @@
 		"enable"		"0"
 		"hammerid"		"128500"
 		"m_iname"		"ChickenOpener"
+	}
+	"1300977"
+	{
+		"enable"		"1"
+		"hammerid"		"1300977"
+		"m_iname"		"NPCHitbox&1911"
+	}
+	"2331545"
+	{
+		"enable"		"0"
+		"hammerid"		"2331545"
+		"m_iname"		"ElevatorChickenPhy&2211"
 	}
 }

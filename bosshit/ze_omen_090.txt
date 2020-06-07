@@ -1,5 +1,17 @@
 "BOSSHP"
 {
+	"1610583"
+	{
+		"enable"		"0"
+		"hammerid"		"1610583"
+		"m_iname"		"l1_break_1"
+	}
+	"1610596"
+	{
+		"enable"		"0"
+		"hammerid"		"1610596"
+		"m_iname"		"l1_break_1"
+	}
 	"1063878"
 	{
 		"enable"		"1"
@@ -62,25 +74,25 @@
 	}
 	"502151"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"502151"
 		"m_iname"		"l2_boss_barB"
 	}
 	"502199"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"502199"
 		"m_iname"		"l2_boss_barC"
 	}
 	"502263"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"502263"
 		"m_iname"		"l2_boss_barD"
 	}
 	"492506"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"492506"
 		"m_iname"		"l2_boss_barA"
 	}
@@ -125,17 +137,5 @@
 		"enable"		"1"
 		"hammerid"		"38652"
 		"m_iname"		"l1_plant_hitbox"
-	}
-	"1610583"
-	{
-		"enable"		"0"
-		"hammerid"		"1610583"
-		"m_iname"		"l1_break_1"
-	}
-	"1610596"
-	{
-		"enable"		"0"
-		"hammerid"		"1610596"
-		"m_iname"		"l1_break_1"
 	}
 }

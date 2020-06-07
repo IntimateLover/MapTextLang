@@ -1,11 +1,5 @@
 "BOSSHP"
 {
-	"7598340"
-	{
-		"enable"		"1"
-		"hammerid"		"7598340"
-		"m_iname"		"Boss_Break"
-	}
 	"70072"
 	{
 		"enable"		"0"
@@ -16,91 +10,91 @@
 	{
 		"enable"		"0"
 		"hammerid"		"6114416"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6114516"
 	{
 		"enable"		"0"
 		"hammerid"		"6114516"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6114566"
 	{
 		"enable"		"0"
 		"hammerid"		"6114566"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6114668"
 	{
 		"enable"		"0"
 		"hammerid"		"6114668"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6115055"
 	{
 		"enable"		"0"
 		"hammerid"		"6115055"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6115121"
 	{
 		"enable"		"0"
 		"hammerid"		"6115121"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5279"
 	}
 	"6115221"
 	{
 		"enable"		"0"
 		"hammerid"		"6115221"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6115271"
 	{
 		"enable"		"0"
 		"hammerid"		"6115271"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6115333"
 	{
 		"enable"		"0"
 		"hammerid"		"6115333"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6115759"
 	{
 		"enable"		"0"
 		"hammerid"		"6115759"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6116256"
 	{
 		"enable"		"0"
 		"hammerid"		"6116256"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6117113"
 	{
 		"enable"		"0"
 		"hammerid"		"6117113"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5279"
 	}
 	"6117117"
 	{
 		"enable"		"0"
 		"hammerid"		"6117117"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5279"
 	}
 	"6117126"
 	{
 		"enable"		"0"
 		"hammerid"		"6117126"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"6117130"
 	{
 		"enable"		"0"
 		"hammerid"		"6117130"
-		"m_iname"		"Warmup_Bridge_Phys_Plat&4735"
+		"m_iname"		"Warmup_Bridge_Phys_Plat&5283"
 	}
 	"2929404"
 	{
@@ -408,23 +402,59 @@
 		"hammerid"		"2666511"
 		"m_iname"		"Staff_Wind_Fix"
 	}
-	"7598229"
+	"8060243"
 	{
-		"enable"		"1"
-		"hammerid"		"7598229"
-		"m_iname"		"Guard_Boss_Break"
+		"enable"		"0"
+		"hammerid"		"8060243"
+		"m_iname"		"Staff_Wind_Epicker"
+	}
+	"8060314"
+	{
+		"enable"		"0"
+		"hammerid"		"8060314"
+		"m_iname"		"Staff_Water_Epicker"
+	}
+	"8060288"
+	{
+		"enable"		"0"
+		"hammerid"		"8060288"
+		"m_iname"		"Staff_Electro_Epicker"
+	}
+	"8060261"
+	{
+		"enable"		"0"
+		"hammerid"		"8060261"
+		"m_iname"		"Staff_Fire_Epicker"
+	}
+	"8060393"
+	{
+		"enable"		"0"
+		"hammerid"		"8060393"
+		"m_iname"		"Staff_Earth_Epicker"
+	}
+	"8060373"
+	{
+		"enable"		"0"
+		"hammerid"		"8060373"
+		"m_iname"		"Staff_Heal_Epicker"
+	}
+	"5287446"
+	{
+		"enable"		"0"
+		"hammerid"		"5287446"
+		"m_iname"		"Floor_Glass"
+	}
+	"5286206"
+	{
+		"enable"		"0"
+		"hammerid"		"5286206"
+		"m_iname"		"Floor_Break"
 	}
 	"404367"
 	{
 		"enable"		"0"
 		"hammerid"		"404367"
 		"m_iname"		"Desert_God_Glass"
-	}
-	"2666984"
-	{
-		"enable"		"0"
-		"hammerid"		"2666984"
-		"m_iname"		"Knife_Shield_Physbox"
 	}
 	"2599033"
 	{
@@ -444,11 +474,95 @@
 		"hammerid"		"2599967"
 		"m_iname"		"DesertHall_Vents"
 	}
+	"7598340"
+	{
+		"enable"		"1"
+		"hammerid"		"7598340"
+		"m_iname"		"Boss_Break"
+	}
 	"7176178"
 	{
 		"enable"		"0"
 		"hammerid"		"7176178"
 		"m_iname"		"Pillar_Illusionary"
+	}
+	"3747853"
+	{
+		"enable"		"1"
+		"hammerid"		"3747853"
+		"m_iname"		"Boss_Meteor"
+	}
+	"4019305"
+	{
+		"enable"		"1"
+		"hammerid"		"4019305"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041228"
+	{
+		"enable"		"1"
+		"hammerid"		"4041228"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041243"
+	{
+		"enable"		"1"
+		"hammerid"		"4041243"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041246"
+	{
+		"enable"		"1"
+		"hammerid"		"4041246"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041261"
+	{
+		"enable"		"1"
+		"hammerid"		"4041261"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041264"
+	{
+		"enable"		"1"
+		"hammerid"		"4041264"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041347"
+	{
+		"enable"		"1"
+		"hammerid"		"4041347"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041350"
+	{
+		"enable"		"1"
+		"hammerid"		"4041350"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041353"
+	{
+		"enable"		"1"
+		"hammerid"		"4041353"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041356"
+	{
+		"enable"		"1"
+		"hammerid"		"4041356"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041359"
+	{
+		"enable"		"1"
+		"hammerid"		"4041359"
+		"m_iname"		"Boss_Meteor_Breakable"
+	}
+	"4041362"
+	{
+		"enable"		"1"
+		"hammerid"		"4041362"
+		"m_iname"		"Boss_Meteor_Breakable"
 	}
 	"7598291"
 	{
@@ -456,11 +570,11 @@
 		"hammerid"		"7598291"
 		"m_iname"		"Ehe_Dragon_Break"
 	}
-	"6998187"
+	"2666984"
 	{
 		"enable"		"0"
-		"hammerid"		"6998187"
-		"m_iname"		"Staff_Earth_Prop_Clip_Fix"
+		"hammerid"		"2666984"
+		"m_iname"		"Knife_Shield_Physbox"
 	}
 	"1870027"
 	{
@@ -488,7 +602,7 @@
 	}
 	"7598431"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"7598431"
 		"m_iname"		"Belias_Break"
 	}
@@ -497,24 +611,6 @@
 		"enable"		"0"
 		"hammerid"		"2997048"
 		"m_iname"		"Belias_Wall_Door"
-	}
-	"3438238"
-	{
-		"enable"		"0"
-		"hammerid"		"3438238"
-		"m_iname"		"Tile_Physbox&9689"
-	}
-	"5287446"
-	{
-		"enable"		"0"
-		"hammerid"		"5287446"
-		"m_iname"		"Floor_Glass"
-	}
-	"5286206"
-	{
-		"enable"		"0"
-		"hammerid"		"5286206"
-		"m_iname"		"Floor_Break"
 	}
 	"2353082"
 	{
@@ -570,6 +666,12 @@
 		"hammerid"		"2209662"
 		"m_iname"		"Guard_Boss_Physbox"
 	}
+	"7598229"
+	{
+		"enable"		"1"
+		"hammerid"		"7598229"
+		"m_iname"		"Guard_Boss_Break"
+	}
 	"2127102"
 	{
 		"enable"		"0"
@@ -582,41 +684,17 @@
 		"hammerid"		"3867768"
 		"m_iname"		"Chaos_Platebreak"
 	}
-	"7618364"
+	"7618628"
 	{
-		"enable"		"1"
-		"hammerid"		"7618364"
-		"m_iname"		"Espers_Mateus_Physbox"
-	}
-	"7618328"
-	{
-		"enable"		"1"
-		"hammerid"		"7618328"
-		"m_iname"		"Espers_Belias_Physbox"
-	}
-	"7618479"
-	{
-		"enable"		"1"
-		"hammerid"		"7618479"
-		"m_iname"		"Espers_Chaos_Physbox"
-	}
-	"7618559"
-	{
-		"enable"		"1"
-		"hammerid"		"7618559"
-		"m_iname"		"Chaos_Summon_Physbox"
+		"enable"		"0"
+		"hammerid"		"7618628"
+		"m_iname"		"Belias_Summon_Physbox"
 	}
 	"7618679"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"7618679"
 		"m_iname"		"Mateus_Summon_Physbox"
-	}
-	"7618628"
-	{
-		"enable"		"1"
-		"hammerid"		"7618628"
-		"m_iname"		"Belias_Summon_Physbox"
 	}
 	"3884290"
 	{
@@ -726,334 +804,34 @@
 		"hammerid"		"3884377"
 		"m_iname"		"God_End_Phys_Plat"
 	}
-	"4271305"
+	"6998187"
 	{
 		"enable"		"0"
-		"hammerid"		"4271305"
-		"m_iname"		"Bonus_Attack_Physbox&6102"
+		"hammerid"		"6998187"
+		"m_iname"		"Staff_Earth_Prop_Clip_Fix"
 	}
-	"3747853"
-	{
-		"enable"		"1"
-		"hammerid"		"3747853"
-		"m_iname"		"Boss_Meteor"
-	}
-	"4019305"
-	{
-		"enable"		"1"
-		"hammerid"		"4019305"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041228"
-	{
-		"enable"		"1"
-		"hammerid"		"4041228"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041243"
-	{
-		"enable"		"1"
-		"hammerid"		"4041243"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041246"
-	{
-		"enable"		"1"
-		"hammerid"		"4041246"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041261"
-	{
-		"enable"		"1"
-		"hammerid"		"4041261"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041264"
-	{
-		"enable"		"1"
-		"hammerid"		"4041264"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041347"
-	{
-		"enable"		"1"
-		"hammerid"		"4041347"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041350"
-	{
-		"enable"		"1"
-		"hammerid"		"4041350"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041353"
-	{
-		"enable"		"1"
-		"hammerid"		"4041353"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041356"
-	{
-		"enable"		"1"
-		"hammerid"		"4041356"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041359"
-	{
-		"enable"		"1"
-		"hammerid"		"4041359"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"4041362"
-	{
-		"enable"		"1"
-		"hammerid"		"4041362"
-		"m_iname"		"Boss_Meteor_Breakable"
-	}
-	"8060243"
+	"7618559"
 	{
 		"enable"		"0"
-		"hammerid"		"8060243"
-		"m_iname"		"Staff_Wind_Epicker"
+		"hammerid"		"7618559"
+		"m_iname"		"Chaos_Summon_Physbox"
 	}
-	"8060314"
+	"7618328"
 	{
 		"enable"		"0"
-		"hammerid"		"8060314"
-		"m_iname"		"Staff_Water_Epicker"
-	}
-	"8060288"
-	{
-		"enable"		"0"
-		"hammerid"		"8060288"
-		"m_iname"		"Staff_Electro_Epicker"
-	}
-	"8060261"
-	{
-		"enable"		"0"
-		"hammerid"		"8060261"
-		"m_iname"		"Staff_Fire_Epicker"
-	}
-	"8060393"
-	{
-		"enable"		"0"
-		"hammerid"		"8060393"
-		"m_iname"		"Staff_Earth_Epicker"
-	}
-	"8060373"
-	{
-		"enable"		"0"
-		"hammerid"		"8060373"
-		"m_iname"		"Staff_Heal_Epicker"
-	}
-	"8792295"
-	{
-		"enable"		"0"
-		"hammerid"		"8792295"
-		"m_iname"		"Staff_Wind_Fix"
-	}
-	"8792754"
-	{
-		"enable"		"0"
-		"hammerid"		"8792754"
-		"m_iname"		"Knife_Shield_Physbox"
-	}
-	"2353085"
-	{
-		"enable"		"0"
-		"hammerid"		"2353085"
-		"m_iname"		"Judge_Nade"
-	}
-	"8857224"
-	{
-		"enable"		"0"
-		"hammerid"		"8857224"
-		"m_iname"		"Airship_End_Breakable4"
-	}
-	"8857227"
-	{
-		"enable"		"0"
-		"hammerid"		"8857227"
-		"m_iname"		"Airship_End_Breakable5"
-	}
-	"8857232"
-	{
-		"enable"		"0"
-		"hammerid"		"8857232"
-		"m_iname"		"Airship_End_Breakable1"
-	}
-	"8857235"
-	{
-		"enable"		"0"
-		"hammerid"		"8857235"
-		"m_iname"		"Airship_End_Breakable3"
-	}
-	"8857238"
-	{
-		"enable"		"0"
-		"hammerid"		"8857238"
-		"m_iname"		"Airship_End_Breakable2"
-	}
-	"8859181"
-	{
-		"enable"		"0"
-		"hammerid"		"8859181"
-		"m_iname"		"Airship_End_Breakable6"
-	}
-	"8859193"
-	{
-		"enable"		"0"
-		"hammerid"		"8859193"
-		"m_iname"		"Airship_End_Breakable7"
-	}
-	"8980284"
-	{
-		"enable"		"1"
-		"hammerid"		"8980284"
-		"m_iname"		"Guard_Boss_Physbox"
-	}
-	"8859205"
-	{
-		"enable"		"1"
-		"hammerid"		"8859205"
-		"m_iname"		"Guard_Boss_Break"
-	}
-	"8857183"
-	{
-		"enable"		"0"
-		"hammerid"		"8857183"
-		"m_iname"		"Chaos_Armor"
-	}
-	"8858030"
-	{
-		"enable"		"0"
-		"hammerid"		"8858030"
-		"m_iname"		"Chaos_Platebreak"
-	}
-	"8858036"
-	{
-		"enable"		"0"
-		"hammerid"		"8858036"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858039"
-	{
-		"enable"		"0"
-		"hammerid"		"8858039"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858042"
-	{
-		"enable"		"0"
-		"hammerid"		"8858042"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858045"
-	{
-		"enable"		"0"
-		"hammerid"		"8858045"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858048"
-	{
-		"enable"		"0"
-		"hammerid"		"8858048"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858051"
-	{
-		"enable"		"0"
-		"hammerid"		"8858051"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858054"
-	{
-		"enable"		"0"
-		"hammerid"		"8858054"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858057"
-	{
-		"enable"		"0"
-		"hammerid"		"8858057"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858060"
-	{
-		"enable"		"0"
-		"hammerid"		"8858060"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858063"
-	{
-		"enable"		"0"
-		"hammerid"		"8858063"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858066"
-	{
-		"enable"		"0"
-		"hammerid"		"8858066"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858069"
-	{
-		"enable"		"0"
-		"hammerid"		"8858069"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858072"
-	{
-		"enable"		"0"
-		"hammerid"		"8858072"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858075"
-	{
-		"enable"		"0"
-		"hammerid"		"8858075"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858078"
-	{
-		"enable"		"0"
-		"hammerid"		"8858078"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858081"
-	{
-		"enable"		"0"
-		"hammerid"		"8858081"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858084"
-	{
-		"enable"		"0"
-		"hammerid"		"8858084"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8858087"
-	{
-		"enable"		"0"
-		"hammerid"		"8858087"
-		"m_iname"		"God_End_Phys_Plat"
-	}
-	"8859211"
-	{
-		"enable"		"0"
-		"hammerid"		"8859211"
-		"m_iname"		"Espers_Mateus_Physbox"
-	}
-	"8859208"
-	{
-		"enable"		"0"
-		"hammerid"		"8859208"
+		"hammerid"		"7618328"
 		"m_iname"		"Espers_Belias_Physbox"
 	}
-	"8859214"
+	"7618479"
 	{
 		"enable"		"0"
-		"hammerid"		"8859214"
+		"hammerid"		"7618479"
 		"m_iname"		"Espers_Chaos_Physbox"
+	}
+	"7618364"
+	{
+		"enable"		"0"
+		"hammerid"		"7618364"
+		"m_iname"		"Espers_Mateus_Physbox"
 	}
 }
