@@ -126,4 +126,10 @@
 		"hammerid"		"311547"
 		"m_iname"		"move_t_break&1017"
 	}
+	"385533"
+	{
+		"enable"		"0"
+		"hammerid"		"385533"
+		"m_iname"		"rock&7325"
+	}
 }

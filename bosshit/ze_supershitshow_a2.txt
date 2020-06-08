@@ -210,4 +210,82 @@
 		"hammerid"		"155619"
 		"m_iname"		"ExtractionGrid"
 	}
+	"82904"
+	{
+		"enable"		"0"
+		"hammerid"		"82904"
+		"m_iname"		"FirePhysicsCore&7843"
+	}
+	"200904"
+	{
+		"enable"		"0"
+		"hammerid"		"200904"
+		"m_iname"		"MissilePhysbox&9073"
+	}
+	"82282"
+	{
+		"enable"		"0"
+		"hammerid"		"82282"
+		"m_iname"		"Ladder&9066"
+	}
+	"20891"
+	{
+		"enable"		"0"
+		"hammerid"		"20891"
+		"m_iname"		"BreakableWall"
+	}
+	"82726"
+	{
+		"enable"		"0"
+		"hammerid"		"82726"
+		"m_iname"		"ProjectilePulverizerPhysics&821"
+	}
+	"35519"
+	{
+		"enable"		"0"
+		"hammerid"		"35519"
+		"m_iname"		"GlassBreakable"
+	}
+	"281426"
+	{
+		"enable"		"0"
+		"hammerid"		"281426"
+		"m_iname"		"SpitPhys&8787"
+	}
+	"30033"
+	{
+		"enable"		"0"
+		"hammerid"		"30033"
+		"m_iname"		"HoldathonWalls1"
+	}
+	"30760"
+	{
+		"enable"		"0"
+		"hammerid"		"30760"
+		"m_iname"		"HoldathonWalls2"
+	}
+	"30836"
+	{
+		"enable"		"0"
+		"hammerid"		"30836"
+		"m_iname"		"HoldathonWalls3"
+	}
+	"29565"
+	{
+		"enable"		"0"
+		"hammerid"		"29565"
+		"m_iname"		"OneWayTopOfWorldBreakable"
+	}
+	"338750"
+	{
+		"enable"		"1"
+		"hammerid"		"338750"
+		"m_iname"		"TopLadderHitbox"
+	}
+	"303199"
+	{
+		"enable"		"0"
+		"hammerid"		"303199"
+		"m_iname"		"DoorwayDoor&8939"
+	}
 }
