@@ -1,17 +1,5 @@
 "BOSSHP"
 {
-	"100996"
-	{
-		"enable"		"1"
-		"hammerid"		"100996"
-		"m_iname"		"BossCage"
-	}
-	"101002"
-	{
-		"enable"		"1"
-		"hammerid"		"101002"
-		"m_iname"		"UnknownBossHealth"
-	}
 	"159022"
 	{
 		"enable"		"0"
@@ -47,6 +35,18 @@
 		"enable"		"0"
 		"hammerid"		"142580"
 		"m_iname"		"LeftDoor"
+	}
+	"100996"
+	{
+		"enable"		"1"
+		"hammerid"		"100996"
+		"m_iname"		"BossCage"
+	}
+	"101002"
+	{
+		"enable"		"1"
+		"hammerid"		"101002"
+		"m_iname"		"UnknownBossHealth"
 	}
 	"77911"
 	{

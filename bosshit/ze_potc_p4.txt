@@ -48,35 +48,59 @@
 		"hammerid"		"2121"
 		"m_iname"		"breakable_21"
 	}
+	"2152"
+	{
+		"enable"		"0"
+		"hammerid"		"2152"
+		"m_iname"		"randomtree_01"
+	}
 	"2165"
 	{
 		"enable"		"0"
 		"hammerid"		"2165"
 		"m_iname"		"breakable_09"
 	}
-	"2197"
+	"2194"
 	{
 		"enable"		"0"
-		"hammerid"		"2197"
-		"m_iname"		"randomtree_02"
+		"hammerid"		"2194"
+		"m_iname"		"randomtree_01"
 	}
-	"2215"
+	"2217"
 	{
 		"enable"		"0"
-		"hammerid"		"2215"
-		"m_iname"		"cave_r1"
+		"hammerid"		"2217"
+		"m_iname"		"cave_l1"
 	}
-	"2219"
+	"2221"
 	{
 		"enable"		"0"
-		"hammerid"		"2219"
-		"m_iname"		"cave_r2"
+		"hammerid"		"2221"
+		"m_iname"		"cave_l2"
 	}
-	"2229"
+	"2223"
 	{
 		"enable"		"0"
-		"hammerid"		"2229"
-		"m_iname"		"cave_r1"
+		"hammerid"		"2223"
+		"m_iname"		"cave_r3"
+	}
+	"2227"
+	{
+		"enable"		"0"
+		"hammerid"		"2227"
+		"m_iname"		"cave_l1"
+	}
+	"2233"
+	{
+		"enable"		"0"
+		"hammerid"		"2233"
+		"m_iname"		"cave_l2"
+	}
+	"2235"
+	{
+		"enable"		"0"
+		"hammerid"		"2235"
+		"m_iname"		"cave_r3"
 	}
 	"2471"
 	{
@@ -101,30 +125,6 @@
 		"enable"		"0"
 		"hammerid"		"2577"
 		"m_iname"		"b_01"
-	}
-	"2150"
-	{
-		"enable"		"0"
-		"hammerid"		"2150"
-		"m_iname"		"randomtree_02"
-	}
-	"2225"
-	{
-		"enable"		"0"
-		"hammerid"		"2225"
-		"m_iname"		"cave_l3"
-	}
-	"2231"
-	{
-		"enable"		"0"
-		"hammerid"		"2231"
-		"m_iname"		"cave_r2"
-	}
-	"2237"
-	{
-		"enable"		"0"
-		"hammerid"		"2237"
-		"m_iname"		"cave_l3"
 	}
 	"2693"
 	{
@@ -168,52 +168,52 @@
 		"hammerid"		"33950"
 		"m_iname"		"newbhepler"
 	}
-	"2152"
+	"2150"
 	{
 		"enable"		"0"
-		"hammerid"		"2152"
-		"m_iname"		"randomtree_01"
+		"hammerid"		"2150"
+		"m_iname"		"randomtree_02"
 	}
-	"2194"
+	"2197"
 	{
 		"enable"		"0"
-		"hammerid"		"2194"
-		"m_iname"		"randomtree_01"
+		"hammerid"		"2197"
+		"m_iname"		"randomtree_02"
 	}
-	"2233"
+	"2225"
 	{
 		"enable"		"0"
-		"hammerid"		"2233"
-		"m_iname"		"cave_l2"
+		"hammerid"		"2225"
+		"m_iname"		"cave_l3"
 	}
-	"2221"
+	"2237"
 	{
 		"enable"		"0"
-		"hammerid"		"2221"
-		"m_iname"		"cave_l2"
+		"hammerid"		"2237"
+		"m_iname"		"cave_l3"
 	}
-	"2217"
+	"2215"
 	{
 		"enable"		"0"
-		"hammerid"		"2217"
-		"m_iname"		"cave_l1"
+		"hammerid"		"2215"
+		"m_iname"		"cave_r1"
 	}
-	"2223"
+	"2219"
 	{
 		"enable"		"0"
-		"hammerid"		"2223"
-		"m_iname"		"cave_r3"
+		"hammerid"		"2219"
+		"m_iname"		"cave_r2"
 	}
-	"2227"
+	"2229"
 	{
 		"enable"		"0"
-		"hammerid"		"2227"
-		"m_iname"		"cave_l1"
+		"hammerid"		"2229"
+		"m_iname"		"cave_r1"
 	}
-	"2235"
+	"2231"
 	{
 		"enable"		"0"
-		"hammerid"		"2235"
-		"m_iname"		"cave_r3"
+		"hammerid"		"2231"
+		"m_iname"		"cave_r2"
 	}
 }

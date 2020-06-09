@@ -1,10 +1,76 @@
 "BOSSHP"
 {
+	"340357"
+	{
+		"enable"		"0"
+		"hammerid"		"340357"
+		"m_iname"		"Target 3C Break"
+	}
+	"197235"
+	{
+		"enable"		"0"
+		"hammerid"		"197235"
+		"m_iname"		"break-me"
+	}
+	"197887"
+	{
+		"enable"		"0"
+		"hammerid"		"197887"
+		"m_iname"		"break-me"
+	}
+	"190915"
+	{
+		"enable"		"0"
+		"hammerid"		"190915"
+		"m_iname"		"break-me"
+	}
+	"1471"
+	{
+		"enable"		"0"
+		"hammerid"		"1471"
+		"m_iname"		"Ship Tele Door 1"
+	}
+	"1810"
+	{
+		"enable"		"0"
+		"hammerid"		"1810"
+		"m_iname"		"break_glass"
+	}
+	"2143"
+	{
+		"enable"		"0"
+		"hammerid"		"2143"
+		"m_iname"		"Ship Tele Door 2"
+	}
+	"2328"
+	{
+		"enable"		"0"
+		"hammerid"		"2328"
+		"m_iname"		"vent1 illusion"
+	}
+	"2330"
+	{
+		"enable"		"0"
+		"hammerid"		"2330"
+		"m_iname"		"vent1 illusion2"
+	}
+	"2348"
+	{
+		"enable"		"0"
+		"hammerid"		"2348"
+		"m_iname"		"nuclear_core"
+	}
 	"2389"
 	{
 		"enable"		"0"
 		"hammerid"		"2389"
 		"m_iname"		"xwing_front"
+	}
+	"2401"
+	{
+		"enable"		"0"
+		"hammerid"		"2401"
+		"m_iname"		"xwing_Tank"
 	}
 	"2447"
 	{
@@ -83,78 +149,6 @@
 		"enable"		"0"
 		"hammerid"		"2720"
 		"m_iname"		"xwing_dach"
-	}
-	"351555"
-	{
-		"enable"		"0"
-		"hammerid"		"351555"
-		"m_iname"		"ct_spawn_secret_door"
-	}
-	"340357"
-	{
-		"enable"		"0"
-		"hammerid"		"340357"
-		"m_iname"		"Target 3C Break"
-	}
-	"197235"
-	{
-		"enable"		"0"
-		"hammerid"		"197235"
-		"m_iname"		"break-me"
-	}
-	"197887"
-	{
-		"enable"		"0"
-		"hammerid"		"197887"
-		"m_iname"		"break-me"
-	}
-	"190915"
-	{
-		"enable"		"0"
-		"hammerid"		"190915"
-		"m_iname"		"break-me"
-	}
-	"1471"
-	{
-		"enable"		"0"
-		"hammerid"		"1471"
-		"m_iname"		"Ship Tele Door 1"
-	}
-	"1810"
-	{
-		"enable"		"0"
-		"hammerid"		"1810"
-		"m_iname"		"break_glass"
-	}
-	"2143"
-	{
-		"enable"		"0"
-		"hammerid"		"2143"
-		"m_iname"		"Ship Tele Door 2"
-	}
-	"2328"
-	{
-		"enable"		"0"
-		"hammerid"		"2328"
-		"m_iname"		"vent1 illusion"
-	}
-	"2330"
-	{
-		"enable"		"0"
-		"hammerid"		"2330"
-		"m_iname"		"vent1 illusion2"
-	}
-	"2348"
-	{
-		"enable"		"0"
-		"hammerid"		"2348"
-		"m_iname"		"nuclear_core"
-	}
-	"2401"
-	{
-		"enable"		"0"
-		"hammerid"		"2401"
-		"m_iname"		"xwing_Tank"
 	}
 	"3146"
 	{
@@ -240,28 +234,10 @@
 		"hammerid"		"44889"
 		"m_iname"		"ship_glass"
 	}
-	"2728"
+	"351555"
 	{
 		"enable"		"0"
-		"hammerid"		"2728"
-		"m_iname"		"xwing_laser1"
-	}
-	"2756"
-	{
-		"enable"		"0"
-		"hammerid"		"2756"
-		"m_iname"		"xwing_laser4"
-	}
-	"2738"
-	{
-		"enable"		"0"
-		"hammerid"		"2738"
-		"m_iname"		"xwing_laser2"
-	}
-	"2748"
-	{
-		"enable"		"0"
-		"hammerid"		"2748"
-		"m_iname"		"xwing_laser3"
+		"hammerid"		"351555"
+		"m_iname"		"ct_spawn_secret_door"
 	}
 }

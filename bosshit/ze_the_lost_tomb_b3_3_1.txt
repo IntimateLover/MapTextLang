@@ -1,10 +1,10 @@
 "BOSSHP"
 {
-	"522268"
+	"606221"
 	{
 		"enable"		"0"
-		"hammerid"		"522268"
-		"m_iname"		"secound wall tp"
+		"hammerid"		"606221"
+		"m_iname"		"Sans_break"
 	}
 	"603515"
 	{
@@ -18,10 +18,10 @@
 		"hammerid"		"604758"
 		"m_iname"		"item_shield_prop"
 	}
-	"606221"
+	"522268"
 	{
 		"enable"		"0"
-		"hammerid"		"606221"
-		"m_iname"		"Sans_break"
+		"hammerid"		"522268"
+		"m_iname"		"secound wall tp"
 	}
 }
