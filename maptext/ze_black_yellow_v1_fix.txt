@@ -36,4 +36,20 @@
 	{
 		"syncvalue"		"6239"
 	}
+	"<<<Defend 10 seconds>>>"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport enable in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fall back fast***"
+	{
+		"chi"		"** **"
+	}
 }

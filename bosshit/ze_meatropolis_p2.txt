@@ -12,4 +12,10 @@
 		"hammerid"		"214706"
 		"m_iname"		"vis_meatloaf"
 	}
+	"214703"
+	{
+		"enable"		"0"
+		"hammerid"		"214703"
+		"m_iname"		"pbox_loaf"
+	}
 }
