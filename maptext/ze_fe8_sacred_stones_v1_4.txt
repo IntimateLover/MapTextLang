@@ -2,7 +2,7 @@
 {
 	"***Map by iXi***"
 	{
-		"chi"		"**地图作者: iXi**"
+		"chi"		"**地图作者: iXi   翻译: 冰雪葬泪**"
 	}
 	"***This is my first map, enjoy!***"
 	{
@@ -13,11 +13,11 @@
 		"chi"		"**地图音乐来自: 火焰纹章8，洛奇英雄传,不死者之王**"
 		"DoorCountDown"		"-1"
 	}
-	"***For some reason my profile is dead, you can find me on GUC / GFL discord***"
+	"***For some reason my profile is dead, you can find me on GUC GFL discord***"
 	{
 		"chi"		"**由于一些原因我的个人资料失效了，你能够在GUC或者GFL的Discord上找到我**"
 	}
-	"***This is the final version of the map, there won't be any more patches/changes unless needed...***"
+	"***This is the final version of the map, there wont be any more patcheschanges unless needed...***"
 	{
 		"chi"		"**这是这张地图的最后版本，除非必要将不会有新的改动**"
 	}
@@ -38,9 +38,9 @@
 	{
 		"chi"		"**核爆来袭....**"
 	}
-	"***Chapter 1: Rausten's Sacred Stone***"
+	"***Chapter 1: Raustens Sacred Stone***"
 	{
-		"chi"		"**第一章节：藏在Rausten的圣石**"
+		"chi"		"**第一章节：藏在Rausten的圣石  翻译: 冰雪葬泪**"
 	}
 	"<<<After series of battles and victories, most of the sacred stones are destroyed >>>"
 	{
@@ -50,7 +50,7 @@
 	{
 		"chi"		"**现在仅存的一个圣石藏在Rausten的城堡地牢中**"
 	}
-	"<<<This should be a piece of cake since we have defeated Grado's army at Rausten Court...>>>"
+	"<<<This should be a piece of cake since we have defeated Grados army at Rausten Court...>>>"
 	{
 		"chi"		"**这将会是小事一桩，因为我们在Rausten战场击败过Grado的军队**"
 	}
@@ -58,7 +58,7 @@
 	{
 		"chi"		"**正在激活传送器--坚守25秒**"
 	}
-	"<<<Let's hurry before Grado lays their hand on the last stone!>>>"
+	"<<<Lets hurry before Grado lays their hand on the last stone!>>>"
 	{
 		"chi"		"**我们要抓紧行动，必须赶在Grado前拿到最后的圣石**"
 	}
@@ -72,7 +72,7 @@
 	}
 	"<<<That cave opening should lead to the Rausten Depth...Hurry!>>>"
 	{
-		"chi"		"**前面那个山洞应该会通往Rausten深处...守住25秒。**"
+		"chi"		"**守住25秒,前面那个山洞应该会通往Rausten深处...**"
 	}
 	"<<<Break the chains to start unsealing processs...>>>"
 	{
@@ -122,15 +122,15 @@
 	{
 		"chi"		"**城堡地牢就在前方...**"
 	}
-	"***Chapter 2: Rausten's Dungeon***"
+	"***Chapter 2: Raustens Dungeon***"
 	{
-		"chi"		"**第二章节: Rausten的城堡地牢**"
+		"chi"		"**第二章节: Rausten的城堡地牢 翻译: 冰雪葬泪**"
 	}
 	"<<<Duessel mentions a Dark Stone to Ephraim>>>"
 	{
 		"chi"		"**Duessel向Ephraim提到过一个黑色的石头**"
 	}
-	"<<<a substance that Lyon extraced from Grado's Sacred Stone>>>"
+	"<<<a substance that Lyon extraced from Grados Sacred Stone>>>"
 	{
 		"chi"		"**黑色石头是Lyon从Grado的圣石上提取出来的一小部分**"
 	}
@@ -169,6 +169,7 @@
 	"<<<Hint: there are a total of three crystals, upon destroying all, you shall receive the key to advance>>>"
 	{
 		"chi"		"**提示: 总共有3个水晶。在全部摧毁之后，你们将会得到前进的钥匙**"
+		"DoorCountDown"		"-1"
 	}
 	"<<<The cage is now unlocked...>>>"
 	{
@@ -178,7 +179,7 @@
 	{
 		"chi"		"**我们得到了钥匙!拿钥匙的人需要通过通道到达另一边...**"
 	}
-	"<<<The door here seems to be locked? Nades don't seem to work anymore...We need a key>>>"
+	"<<<The door here seems to be locked? Nades dont seem to work anymore...We need a key>>>"
 	{
 		"chi"		"**这里的门似乎锁上了？高爆在这里没有作用...我们需要一个钥匙**"
 	}
@@ -208,7 +209,7 @@
 	}
 	"***Chapter 4: Grado***"
 	{
-		"chi"		"**第四章节: Grado城**"
+		"chi"		"**第四章节: Grado城 翻译: 冰雪葬泪**"
 	}
 	"***Chapter 1: Escape From Renais***"
 	{
@@ -218,7 +219,7 @@
 	{
 		"chi"		"**我们已经到达了Grado的港口..我们需要抓紧时间**"
 	}
-	"***<<<Hint: Ring the bell at the lighthouse!>>>***"
+	"<<<Hint: Ring the bell at the lighthouse!>>>"
 	{
 		"chi"		"**提示: 敲响左侧灯塔上的铃铛**"
 	}
@@ -228,23 +229,24 @@
 	}
 	"<<<Path to Grado Town will be opened soon>>>"
 	{
-		"chi"		"**通往Grado城镇大门的道路即将开启，等候15秒**"
+		"chi"		"**等候15秒,通往Grado城镇大门的道路即将开启**"
 	}
 	"<<<We have reached the gate! Hold a just bit longer>>>"
 	{
-		"chi"		"**我们到达了Grado城镇大门，坚守25秒**"
+		"chi"		"**我们到达了城镇大门，坚守25秒**"
 	}
-	"<<<Seems like there's no survivors....>>>"
+	"<<<Seems like theres no survivors....>>>"
 	{
 		"chi"		"**似乎这里没有幸存者...**"
 	}
 	"<<<However, a strong seal blocks the path ahead...please wait....>>>"
 	{
-		"chi"		"**但是，有一股强力的力量挡住了单路.。请等候30秒**"
+		"chi"		"**但是，有一股强力的力量挡住了道路.。请等候30秒**"
 	}
 	"<<<Zombies are getting closer to the root of all evil! Zombies now have 1.12 speed buff!>>>"
 	{
 		"chi"		"**僵尸变得更疯狂了!现在僵尸有1.2倍的速度增益**"
+		"DoorCountDown"		"-1"
 	}
 	"<<<Pathway opens up son....>>>"
 	{
@@ -254,11 +256,11 @@
 	{
 		"chi"		"**道路即将开放，等候50秒**"
 	}
-	"<<<Hint: Zombies will get tp after this....don't doorhug!>>>"
+	"<<<Hint: Zombies will get tp after this....dont doorhug!>>>"
 	{
 		"chi"		"**提示: 僵尸将在这之后传送...不要贴门了!**"
 	}
-	"<<<We're finally here....opening up the gate...>>>"
+	"<<<Were finally here....opening up the gate...>>>"
 	{
 		"chi"		"**我们终于到达了这里...开启大门中(不要贴门，会被卡住)**"
 	}
@@ -274,7 +276,7 @@
 	{
 		"chi"		"**把圣石带过来...**"
 	}
-	"<<<Go and defeat Grado's general and find the secret within!>>>"
+	"<<<Go and defeat Grados general and find the secret within!>>>"
 	{
 		"chi"		"**去击败Grado的将军，然后找出后面的秘密吧!**"
 	}
@@ -284,7 +286,7 @@
 	}
 	"***Final Chapter: Formortiis***"
 	{
-		"chi"		"**最终章节: Formortiis**"
+		"chi"		"**最终章节: 决战Formortiis 翻译: 冰雪葬泪**"
 	}
 	"<<<Enabling tp to final boss room in 30 seconds>>>"
 	{
@@ -300,7 +302,7 @@
 	}
 	"<<<The stone has unlocked itself...USE IT NOW!!!!>>>"
 	{
-		"chi"		"**圣石自己觉醒了...现在可以使用它了**"
+		"chi"		"**圣石觉醒了...现在可以使用它了**"
 	}
 	"<<<Formortiis: Bring them to me...minions>>>"
 	{
@@ -345,5 +347,13 @@
 	"***You are the hero of Magvel***"
 	{
 		"chi"		"**你们是Magvel的英雄**"
+	}
+	"<<<ZM got inside!>>>"
+	{
+		"chi"		"**僵尸进来了!**"
+	}
+	"<<<Stage Failed! Game Over...>>>"
+	{
+		"chi"		"**关卡失败!GG...**"
 	}
 }
