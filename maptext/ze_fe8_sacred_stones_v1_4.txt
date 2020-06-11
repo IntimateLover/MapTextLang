@@ -356,4 +356,12 @@
 	{
 		"chi"		"**关卡失败!GG...**"
 	}
+	"<<<***All damage increased! Extra attack combo frequency increased!***>>>"
+	{
+		"chi"		"**BOSS所有伤害增加!额外的连锁攻击频率增加!**"
+	}
+	"<<<***Formortiis has healed himself***>>>"
+	{
+		"chi"		"**Formortiis治疗了自己**"
+	}
 }
