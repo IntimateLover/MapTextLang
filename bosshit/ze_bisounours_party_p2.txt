@@ -56,7 +56,7 @@
 	}
 	"29239"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"29239"
 		"m_iname"		"Pedobear_lvl1"
 	}
@@ -80,7 +80,7 @@
 	}
 	"40887"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"40887"
 		"m_iname"		"Pedobear_lvl2"
 	}
@@ -88,6 +88,6 @@
 	{
 		"enable"		"0"
 		"hammerid"		"89919"
-		"m_iname"		"IcePhys&3034"
+		"m_iname"		"IcePhys&0350"
 	}
 }

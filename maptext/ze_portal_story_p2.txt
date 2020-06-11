@@ -1,0 +1,145 @@
+"Console_T"
+{
+	"> Thanks to"
+	{
+		"chi"		"** **"
+	}
+	"> Enviolinador - multiple things help"
+	{
+		"chi"		"** **"
+	}
+	"> (RMG) Synopsis [pF] - special items help"
+	{
+		"chi"		"** **"
+	}
+	"> JorisCeoen - models help"
+	{
+		"chi"		"** **"
+	}
+	"> Luffaren - particles help"
+	{
+		"chi"		"** **"
+	}
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	"> Map by SubDelt@"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR IS OPENING IN 5 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SOLUTION FOUND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE ENTRANCE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 30 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 20 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES USE THE CIRCLE WAY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 15 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Propulsion gel has been aquired <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> It has a 40 Second cooldown and speeds humans up <<<"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"-1"
+	}
+	">>> Repulsion gel has been aquired <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> It has a 50 second cooldown and slow zombies down <<<"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"-1"
+	}
+	">>> HOLD THIS PLACE FOR 35 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DESTROY THE TURRETS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TURRETS DESTROYED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR IS CLOSING IN 5 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"22718"
+	}
+}

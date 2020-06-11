@@ -61,7 +61,7 @@
 	{
 		"chi"		"**大门5秒后打开！**"
 	}
-	"** HOLD 25 SECONDS **"
+	"** Hold 25 seconds **"
 	{
 		"chi"		"**守住25秒！**"
 		"DoorCountdown"		"25"
@@ -94,7 +94,7 @@
 	{
 		"chi"		"**2/5水晶塔已被破坏**"
 	}
-	"** 5 Seconds left **"
+	"** 5 seconds left **"
 	{
 		"chi"		"**还剩5秒！**"
 	}
@@ -301,6 +301,7 @@
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
 		"chi"		"**障碍二号15秒后打开**"
+		"DoorCountdown"		"15"
 	}
 	"** HOLD HERE TILL THE GATE OPENS **"
 	{
@@ -658,6 +659,7 @@
 	"** BARRIER 2 OPENS IN 20 SECS"
 	{
 		"chi"		"**障碍物二号20秒后移动**"
+		"DoorCountdown"		"20"
 	}
 	"** HOLD 30 SECONDS UNTIL THE WAY OPENS **"
 	{
@@ -1498,5 +1500,13 @@
 	"** Player has learned POISANA (POISON MAGICK LV.4)**"
 	{
 		"chi"		"**一位玩家拾取了剧毒权杖(四级)**"
+	}
+	"AND"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
 	}
 }

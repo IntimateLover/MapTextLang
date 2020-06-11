@@ -210,4 +210,16 @@
 		"hammerid"		"39095"
 		"m_iname"		"Tile1"
 	}
+	"124050"
+	{
+		"enable"		"1"
+		"hammerid"		"124050"
+		"m_iname"		"EyeBoss&2831"
+	}
+	"136911"
+	{
+		"enable"		"1"
+		"hammerid"		"136911"
+		"m_iname"		"EyeBossSpecialHitbox&2831"
+	}
 }

@@ -1,6 +1,6 @@
 "BOSSHP"
 {
-	"Ice"
+	"ICE"
 	{
 		"enable"		"0"
 	}
@@ -30,7 +30,7 @@
 	}
 	"2005139"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"2005139"
 		"m_iname"		"FBK"
 	}
@@ -327,5 +327,167 @@
 		"enable"		"0"
 		"hammerid"		"1525217"
 		"m_iname"		"exd"
+	}
+	"578385"
+	{
+		"enable"		"0"
+		"hammerid"		"578385"
+		"m_iname"		"Ice"
+	}
+	"578596"
+	{
+		"enable"		"0"
+		"hammerid"		"578596"
+		"m_iname"		"Ice"
+	}
+	"578388"
+	{
+		"enable"		"0"
+		"hammerid"		"578388"
+		"m_iname"		"Ice"
+	}
+	"578391"
+	{
+		"enable"		"0"
+		"hammerid"		"578391"
+		"m_iname"		"Ice"
+	}
+	"578593"
+	{
+		"enable"		"0"
+		"hammerid"		"578593"
+		"m_iname"		"Ice"
+	}
+	"578394"
+	{
+		"enable"		"0"
+		"hammerid"		"578394"
+		"m_iname"		"Ice"
+	}
+	"578590"
+	{
+		"enable"		"0"
+		"hammerid"		"578590"
+		"m_iname"		"Ice"
+	}
+	"578397"
+	{
+		"enable"		"0"
+		"hammerid"		"578397"
+		"m_iname"		"Ice"
+	}
+	"578400"
+	{
+		"enable"		"0"
+		"hammerid"		"578400"
+		"m_iname"		"Ice"
+	}
+	"578602"
+	{
+		"enable"		"0"
+		"hammerid"		"578602"
+		"m_iname"		"Ice"
+	}
+	"578403"
+	{
+		"enable"		"0"
+		"hammerid"		"578403"
+		"m_iname"		"Ice"
+	}
+	"578287"
+	{
+		"enable"		"0"
+		"hammerid"		"578287"
+		"m_iname"		"Ice1"
+	}
+	"578314"
+	{
+		"enable"		"0"
+		"hammerid"		"578314"
+		"m_iname"		"Ice1"
+	}
+	"578317"
+	{
+		"enable"		"0"
+		"hammerid"		"578317"
+		"m_iname"		"Ice1"
+	}
+	"578320"
+	{
+		"enable"		"0"
+		"hammerid"		"578320"
+		"m_iname"		"Ice1"
+	}
+	"578323"
+	{
+		"enable"		"0"
+		"hammerid"		"578323"
+		"m_iname"		"Ice1"
+	}
+	"578326"
+	{
+		"enable"		"0"
+		"hammerid"		"578326"
+		"m_iname"		"Ice1"
+	}
+	"578329"
+	{
+		"enable"		"0"
+		"hammerid"		"578329"
+		"m_iname"		"Ice1"
+	}
+	"578332"
+	{
+		"enable"		"0"
+		"hammerid"		"578332"
+		"m_iname"		"Ice1"
+	}
+	"578518"
+	{
+		"enable"		"0"
+		"hammerid"		"578518"
+		"m_iname"		"Ice2"
+	}
+	"578521"
+	{
+		"enable"		"0"
+		"hammerid"		"578521"
+		"m_iname"		"Ice2"
+	}
+	"580263"
+	{
+		"enable"		"0"
+		"hammerid"		"580263"
+		"m_iname"		"Ice2"
+	}
+	"580266"
+	{
+		"enable"		"0"
+		"hammerid"		"580266"
+		"m_iname"		"Ice2"
+	}
+	"1005955"
+	{
+		"enable"		"0"
+		"hammerid"		"1005955"
+		"m_iname"		"BP"
+	}
+	"1013432"
+	{
+		"enable"		"0"
+		"hammerid"		"1013432"
+		"m_iname"		"BB"
+	}
+	"1052629"
+	{
+		"enable"		"0"
+		"hammerid"		"1052629"
+		"m_iname"		"VP"
+	}
+	"1078157"
+	{
+		"enable"		"0"
+		"hammerid"		"1078157"
+		"m_iname"		"QX"
 	}
 }
