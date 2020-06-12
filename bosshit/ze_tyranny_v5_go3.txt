@@ -404,4 +404,46 @@
 		"hammerid"		"4285353"
 		"m_iname"		"CY01Physic"
 	}
+	"815091"
+	{
+		"enable"		"0"
+		"hammerid"		"815091"
+		"m_iname"		"lvl_phys"
+	}
+	"815100"
+	{
+		"enable"		"0"
+		"hammerid"		"815100"
+		"m_iname"		"lvl_phys"
+	}
+	"815109"
+	{
+		"enable"		"0"
+		"hammerid"		"815109"
+		"m_iname"		"lvl_phys"
+	}
+	"815529"
+	{
+		"enable"		"0"
+		"hammerid"		"815529"
+		"m_iname"		"lvl_phys"
+	}
+	"815589"
+	{
+		"enable"		"0"
+		"hammerid"		"815589"
+		"m_iname"		"lvl_phys"
+	}
+	"2205465"
+	{
+		"enable"		"0"
+		"hammerid"		"2205465"
+		"m_iname"		"lvl_phys"
+	}
+	"3511000"
+	{
+		"enable"		"0"
+		"hammerid"		"3511000"
+		"m_iname"		"lvl_phys"
+	}
 }

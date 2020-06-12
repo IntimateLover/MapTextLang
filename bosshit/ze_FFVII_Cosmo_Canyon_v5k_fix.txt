@@ -242,8 +242,20 @@
 	}
 	"935451"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"935451"
 		"m_iname"		"Ifrit_Phys_Body"
+	}
+	"421745"
+	{
+		"enable"		"1"
+		"hammerid"		"421745"
+		"m_iname"		"lvl3_end_boss"
+	}
+	"2993357"
+	{
+		"enable"		"1"
+		"hammerid"		"2993357"
+		"m_iname"		"lvl4_end_boss"
 	}
 }
