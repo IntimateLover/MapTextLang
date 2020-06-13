@@ -1,5 +1,9 @@
 "BOSSHP"
 {
+	"blok_vert"
+	{
+		"enable"		"0"
+	}
 	"126"
 	{
 		"enable"		"0"
@@ -125,12 +129,6 @@
 		"enable"		"0"
 		"hammerid"		"5995"
 		"m_iname"		"hide_lader2"
-	}
-	"9151"
-	{
-		"enable"		"0"
-		"hammerid"		"9151"
-		"m_iname"		"blok_vert"
 	}
 	"22517"
 	{
@@ -335,5 +333,16 @@
 		"enable"		"0"
 		"hammerid"		"112393"
 		"m_iname"		"extra4_penalty2"
+	}
+	"9151"
+	{
+		"enable"		"0"
+		"hammerid"		"9151"
+		"m_iname"		"blok_vert"
+	}
+	"125096"
+	{
+		"enable"		"-1"
+		"hammerid"		"125096"
 	}
 }

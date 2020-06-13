@@ -36,4 +36,29 @@
 		"hammerid"		"18573"
 		"m_iname"		"trap_stair_1"
 	}
+	"2839932"
+	{
+		"enable"		"-1"
+		"hammerid"		"2839932"
+	}
+	"120095"
+	{
+		"enable"		"-1"
+		"hammerid"		"120095"
+	}
+	"79671"
+	{
+		"enable"		"-1"
+		"hammerid"		"79671"
+	}
+	"10622"
+	{
+		"enable"		"-1"
+		"hammerid"		"10622"
+	}
+	"1099"
+	{
+		"enable"		"-1"
+		"hammerid"		"1099"
+	}
 }

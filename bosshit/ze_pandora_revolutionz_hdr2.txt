@@ -234,4 +234,24 @@
 		"hammerid"		"376746"
 		"m_iname"		"Mine5"
 	}
+	"302285"
+	{
+		"enable"		"-1"
+		"hammerid"		"302285"
+	}
+	"243080"
+	{
+		"enable"		"-1"
+		"hammerid"		"243080"
+	}
+	"222636"
+	{
+		"enable"		"-1"
+		"hammerid"		"222636"
+	}
+	"222737"
+	{
+		"enable"		"-1"
+		"hammerid"		"222737"
+	}
 }

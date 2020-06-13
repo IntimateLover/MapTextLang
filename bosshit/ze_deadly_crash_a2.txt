@@ -60,4 +60,29 @@
 		"hammerid"		"81425"
 		"m_iname"		"[BREAK]DUCT01"
 	}
+	"244870"
+	{
+		"enable"		"-1"
+		"hammerid"		"244870"
+	}
+	"128579"
+	{
+		"enable"		"-1"
+		"hammerid"		"128579"
+	}
+	"113680"
+	{
+		"enable"		"-1"
+		"hammerid"		"113680"
+	}
+	"81464"
+	{
+		"enable"		"-1"
+		"hammerid"		"81464"
+	}
+	"81484"
+	{
+		"enable"		"-1"
+		"hammerid"		"81484"
+	}
 }

@@ -312,7 +312,7 @@
 	}
 	"403923"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"403923"
 		"m_iname"		"rickroll_physbox"
 	}

@@ -424,4 +424,24 @@
 	{
 		"chi"		"** **"
 	}
+	"***SERVANTS***"
+	{
+		"chi"		"**恶魔之仆(尸笼)**"
+		"DoorCountdown"		"4"
+	}
+	"***SUPERNOVA***"
+	{
+		"chi"		"**超新星风暴**"
+		"DoorCountdown"		"4"
+	}
+	"***DEATH LIGHT***"
+	{
+		"chi"		"**死亡光线(蹲下)**"
+		"DoorCountdown"		"4"
+	}
+	"***BLACK HOLE***"
+	{
+		"chi"		"**黑洞**"
+		"DoorCountdown"		"4"
+	}
 }

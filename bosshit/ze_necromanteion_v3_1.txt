@@ -2,7 +2,7 @@
 {
 	"579401"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"579401"
 		"m_iname"		"boss_break"
 	}
@@ -293,5 +293,13 @@
 		"enable"		"0"
 		"hammerid"		"9841"
 		"m_iname"		"break_3_1"
+	}
+	"600772"
+	{
+		"enable"		"0"
+	}
+	"600778"
+	{
+		"enable"		"0"
 	}
 }

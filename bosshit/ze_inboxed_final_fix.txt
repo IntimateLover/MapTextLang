@@ -36,4 +36,34 @@
 		"hammerid"		"3149"
 		"m_iname"		"level_2_go"
 	}
+	"70736"
+	{
+		"enable"		"-1"
+		"hammerid"		"70736"
+	}
+	"67510"
+	{
+		"enable"		"-1"
+		"hammerid"		"67510"
+	}
+	"67517"
+	{
+		"enable"		"-1"
+		"hammerid"		"67517"
+	}
+	"67520"
+	{
+		"enable"		"-1"
+		"hammerid"		"67520"
+	}
+	"13641"
+	{
+		"enable"		"-1"
+		"hammerid"		"13641"
+	}
+	"5126"
+	{
+		"enable"		"-1"
+		"hammerid"		"5126"
+	}
 }

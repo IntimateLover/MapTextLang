@@ -120,4 +120,24 @@
 		"hammerid"		"134550"
 		"m_iname"		"lv1_last_break"
 	}
+	"95554"
+	{
+		"enable"		"-1"
+		"hammerid"		"95554"
+	}
+	"95565"
+	{
+		"enable"		"-1"
+		"hammerid"		"95565"
+	}
+	"95567"
+	{
+		"enable"		"-1"
+		"hammerid"		"95567"
+	}
+	"96301"
+	{
+		"enable"		"-1"
+		"hammerid"		"96301"
+	}
 }

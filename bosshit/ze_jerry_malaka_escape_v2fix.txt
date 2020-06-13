@@ -246,4 +246,29 @@
 		"hammerid"		"386944"
 		"m_iname"		"level2_blocker1"
 	}
+	"228631"
+	{
+		"enable"		"-1"
+		"hammerid"		"228631"
+	}
+	"16759"
+	{
+		"enable"		"-1"
+		"hammerid"		"16759"
+	}
+	"16776"
+	{
+		"enable"		"-1"
+		"hammerid"		"16776"
+	}
+	"16783"
+	{
+		"enable"		"-1"
+		"hammerid"		"16783"
+	}
+	"16794"
+	{
+		"enable"		"-1"
+		"hammerid"		"16794"
+	}
 }

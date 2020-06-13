@@ -620,4 +620,38 @@
 		"hammerid"		"1780341"
 		"m_iname"		"truth_socrates3"
 	}
+	"779666"
+	{
+		"enable"		"-1"
+		"hammerid"		"779666"
+	}
+	"415800"
+	{
+		"enable"		"-1"
+		"hammerid"		"415800"
+	}
+	"55493"
+	{
+		"enable"		"-1"
+		"hammerid"		"55493"
+		"m_iname"		"stagephys"
+	}
+	"55518"
+	{
+		"enable"		"-1"
+		"hammerid"		"55518"
+		"m_iname"		"stagephys"
+	}
+	"55521"
+	{
+		"enable"		"-1"
+		"hammerid"		"55521"
+		"m_iname"		"stagephys"
+	}
+	"55524"
+	{
+		"enable"		"-1"
+		"hammerid"		"55524"
+		"m_iname"		"stagephys"
+	}
 }

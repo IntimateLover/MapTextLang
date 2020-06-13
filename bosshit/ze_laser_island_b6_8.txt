@@ -90,4 +90,14 @@
 		"hammerid"		"2561"
 		"m_iname"		"stage_2_door"
 	}
+	"96921"
+	{
+		"enable"		"-1"
+		"hammerid"		"96921"
+	}
+	"97000"
+	{
+		"enable"		"-1"
+		"hammerid"		"97000"
+	}
 }

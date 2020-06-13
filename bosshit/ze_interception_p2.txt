@@ -42,4 +42,59 @@
 		"hammerid"		"196386"
 		"m_iname"		"fence_1"
 	}
+	"42902"
+	{
+		"enable"		"-1"
+		"hammerid"		"42902"
+	}
+	"42915"
+	{
+		"enable"		"-1"
+		"hammerid"		"42915"
+	}
+	"45363"
+	{
+		"enable"		"-1"
+		"hammerid"		"45363"
+	}
+	"45366"
+	{
+		"enable"		"-1"
+		"hammerid"		"45366"
+	}
+	"59743"
+	{
+		"enable"		"-1"
+		"hammerid"		"59743"
+	}
+	"59746"
+	{
+		"enable"		"-1"
+		"hammerid"		"59746"
+	}
+	"59749"
+	{
+		"enable"		"-1"
+		"hammerid"		"59749"
+	}
+	"163694"
+	{
+		"enable"		"-1"
+		"hammerid"		"163694"
+	}
+	"163703"
+	{
+		"enable"		"-1"
+		"hammerid"		"163703"
+	}
+	"170674"
+	{
+		"enable"		"-1"
+		"hammerid"		"170674"
+	}
+	"170824"
+	{
+		"enable"		"-1"
+		"hammerid"		"170824"
+	}
 }

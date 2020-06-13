@@ -23,7 +23,7 @@
 	"***GET UP ON THAT ROCK***"
 	{
 		"chi"		"**去那块石头上**"
-		"DoorCountDown"		"91"
+		"DoorCountdown"		"91"
 	}
 	"***MUFASA.. IS DEAD...***"
 	{
@@ -40,7 +40,7 @@
 	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
 	{
 		"chi"		"**雪墙将会在10s后碎掉**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
@@ -57,7 +57,7 @@
 	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**防爆门将会在20s内打开（里面有河狸）**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
@@ -86,7 +86,7 @@
 	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
 	{
 		"chi"		"**铁门将会在30s内打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
 	{
@@ -119,7 +119,7 @@
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
 		"chi"		"**门还有40s开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
 	{
@@ -144,7 +144,7 @@
 	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
 		"chi"		"**还有20s开第一个门**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
@@ -153,7 +153,7 @@
 	"***ELEVATOR OPENS IN 15 SECONDS***"
 	{
 		"chi"		"**电梯还有15s**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***ELEVATOR DOOR IS OPEN***"
 	{
@@ -202,7 +202,7 @@
 	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**秘密的门将会在20s内打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SECRET SANTA CHAPEL DOOR IS OPENING***"
 	{
@@ -215,7 +215,7 @@
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
 		"chi"		"**满足大嘴巴需要让他吃到7次巧克力**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***good luck***"
 	{
@@ -236,7 +236,7 @@
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**卷帘门15s内开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
 	{
@@ -245,7 +245,7 @@
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**第二道卷帘门15s内打开**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
 	{
@@ -270,7 +270,7 @@
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
 		"chi"		"**右边的墙将会在20s内打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
 	{
@@ -295,7 +295,7 @@
 	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**工厂门将会在20s内打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
@@ -308,7 +308,7 @@
 	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
 	{
 		"chi"		"** 墙将会在15s内爆炸**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
@@ -365,17 +365,17 @@
 	"***GLASS WILL BREAK IN 5 SECONDS***"
 	{
 		"chi"		"**玻璃将会在5s内碎掉**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
 		"chi"		"**你可以花40美元让墨西哥卷饼车带你越过边界**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
 	{
 		"chi"		"**你设法从你的学费里拿出41美元**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***20 SECONDS UNTIL DEPARTURE***"
 	{
@@ -416,7 +416,7 @@
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
 		"chi"		"**工厂门10s打开**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
@@ -441,7 +441,7 @@
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
 		"chi"		"**10s内开门**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
@@ -466,7 +466,7 @@
 	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**门将在20s内打开**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
 	{
@@ -507,7 +507,7 @@
 	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
 	{
 		"chi"		"**10s内开门**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
 	{
@@ -520,7 +520,7 @@
 	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**驯鹿将会在15s内开启**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
@@ -573,7 +573,7 @@
 	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
 	{
 		"chi"		"**防爆门40s内打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***SEWER BLASTDOOR IS OPENING***"
 	{
@@ -778,7 +778,7 @@
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯即将启动**"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"***UPPER TOWER DOOR IS OPENING***"
 	{
@@ -787,17 +787,17 @@
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯将在20秒后启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯将在10秒后启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**通往终点的电梯将在5秒后启动**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
@@ -806,12 +806,12 @@
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
 		"chi"		"**最后的大门将在15秒后关闭**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
 		"chi"		"**最后的大门将在5秒后关闭**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
@@ -888,7 +888,7 @@
 	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
 	{
 		"chi"		"**墙将要在30s内打开**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
 	{
@@ -953,7 +953,7 @@
 	"***SOCRATES IS JUDGING YOU***"
 	{
 		"chi"		"**苏格拉底在审视你**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***SOCRATES HAS TO CLEANSE YOU***"
 	{
@@ -970,7 +970,7 @@
 	"***SOCRATES PONDERS***"
 	{
 		"chi"		"**苏格拉底思考**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***SOCRATES CRIES***"
 	{
@@ -999,7 +999,7 @@
 	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
 	{
 		"chi"		"**苏格拉底将要在5秒后传送僵尸**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***4***"
 	{
@@ -1040,7 +1040,7 @@
 	"***SOCRATES WISHES SILENTLY***"
 	{
 		"chi"		"**苏格拉底祈祷**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***SOCRATES FEELS YOU***"
 	{
@@ -1061,7 +1061,7 @@
 	"***SOCRATES CARES FOR NO MAN***"
 	{
 		"chi"		"**苏格拉底不喜欢人**"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"***SOCRATES IS***"
 	{
@@ -1078,7 +1078,7 @@
 	"***SOCRATES IS ALL***"
 	{
 		"chi"		"**苏格拉底就是所有**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***SOCRATES IS NOTHING***"
 	{
@@ -1099,7 +1099,7 @@
 	"***SOCRATES CANNOT KEEP***"
 	{
 		"chi"		"**苏格拉底不能保持**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SOCRATES RUMBLES YOUR WILL***"
 	{
@@ -1112,7 +1112,7 @@
 	"***SOCRATES WILL ARRIVE***"
 	{
 		"chi"		"**苏格拉底快到了**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SOCRATES WILL CLEANSE***"
 	{
@@ -1125,7 +1125,7 @@
 	"***SOCRATES IS NEAR***"
 	{
 		"chi"		"**苏格拉底近了**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
@@ -1254,12 +1254,12 @@
 	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
 	{
 		"chi"		"**想要跳关到EXTREME？那么请你待在蓝色板子上**"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
 	{
 		"chi"		"**百分之90的人类站在蓝色板子方可跳关**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***TRUMP IS PROUD OF YOU***"
 	{
@@ -1340,5 +1340,9 @@
 	"***TRAM 2 IS LEAVING***"
 	{
 		"chi"		"**[板子]二号电车已离开**"
+	}
+	"***HEAD TOWARDS SANTAS FACTORY***"
+	{
+		"chi"		"** **"
 	}
 }
