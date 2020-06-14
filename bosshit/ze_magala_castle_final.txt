@@ -126,4 +126,34 @@
 		"hammerid"		"80680"
 		"m_iname"		"way1"
 	}
+	"95463"
+	{
+		"enable"		"-1"
+		"hammerid"		"95463"
+	}
+	"80629"
+	{
+		"enable"		"-1"
+		"hammerid"		"80629"
+	}
+	"60189"
+	{
+		"enable"		"-1"
+		"hammerid"		"60189"
+	}
+	"57279"
+	{
+		"enable"		"-1"
+		"hammerid"		"57279"
+	}
+	"52693"
+	{
+		"enable"		"-1"
+		"hammerid"		"52693"
+	}
+	"52705"
+	{
+		"enable"		"-1"
+		"hammerid"		"52705"
+	}
 }

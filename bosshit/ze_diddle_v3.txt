@@ -494,7 +494,7 @@
 	}
 	"559620"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"559620"
 		"m_iname"		"X69XOrd_main_mid_diglett_break"
 	}
@@ -602,7 +602,7 @@
 	}
 	"559603"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"559603"
 		"m_iname"		"X69XOrd_main_large_diglett_brea"
 	}
@@ -959,5 +959,60 @@
 		"enable"		"0"
 		"hammerid"		"1010975"
 		"m_iname"		"ITEMX_qaz_item_shields2&6146"
+	}
+	"1622899"
+	{
+		"enable"		"-1"
+		"hammerid"		"1622899"
+	}
+	"1085610"
+	{
+		"enable"		"-1"
+		"hammerid"		"1085610"
+	}
+	"583906"
+	{
+		"enable"		"-1"
+		"hammerid"		"583906"
+	}
+	"585943"
+	{
+		"enable"		"-1"
+		"hammerid"		"585943"
+	}
+	"585946"
+	{
+		"enable"		"-1"
+		"hammerid"		"585946"
+	}
+	"585952"
+	{
+		"enable"		"-1"
+		"hammerid"		"585952"
+	}
+	"585955"
+	{
+		"enable"		"-1"
+		"hammerid"		"585955"
+	}
+	"522310"
+	{
+		"enable"		"-1"
+		"hammerid"		"522310"
+	}
+	"522356"
+	{
+		"enable"		"-1"
+		"hammerid"		"522356"
+	}
+	"514204"
+	{
+		"enable"		"-1"
+		"hammerid"		"514204"
+	}
+	"324179"
+	{
+		"enable"		"-1"
+		"hammerid"		"324179"
 	}
 }

@@ -214,6 +214,76 @@
 	{
 		"enable"		"0"
 		"hammerid"		"506720"
-		"m_iname"		"BoulderGibs&5379"
+		"m_iname"		"BoulderGibs&5478"
+	}
+	"1822"
+	{
+		"enable"		"-1"
+		"hammerid"		"1822"
+	}
+	"1824"
+	{
+		"enable"		"-1"
+		"hammerid"		"1824"
+	}
+	"1826"
+	{
+		"enable"		"-1"
+		"hammerid"		"1826"
+	}
+	"1828"
+	{
+		"enable"		"-1"
+		"hammerid"		"1828"
+	}
+	"1830"
+	{
+		"enable"		"-1"
+		"hammerid"		"1830"
+	}
+	"1832"
+	{
+		"enable"		"-1"
+		"hammerid"		"1832"
+	}
+	"1960"
+	{
+		"enable"		"-1"
+		"hammerid"		"1960"
+	}
+	"1962"
+	{
+		"enable"		"-1"
+		"hammerid"		"1962"
+	}
+	"1964"
+	{
+		"enable"		"-1"
+		"hammerid"		"1964"
+	}
+	"1966"
+	{
+		"enable"		"-1"
+		"hammerid"		"1966"
+	}
+	"1968"
+	{
+		"enable"		"-1"
+		"hammerid"		"1968"
+	}
+	"1970"
+	{
+		"enable"		"-1"
+		"hammerid"		"1970"
+	}
+	"1972"
+	{
+		"enable"		"-1"
+		"hammerid"		"1972"
+	}
+	"2158"
+	{
+		"enable"		"-1"
+		"hammerid"		"2158"
 	}
 }

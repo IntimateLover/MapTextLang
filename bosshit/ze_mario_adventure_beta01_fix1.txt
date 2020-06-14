@@ -120,4 +120,24 @@
 		"hammerid"		"58327"
 		"m_iname"		"stage1_flag"
 	}
+	"123239"
+	{
+		"enable"		"-1"
+		"hammerid"		"123239"
+	}
+	"59642"
+	{
+		"enable"		"-1"
+		"hammerid"		"59642"
+	}
+	"58878"
+	{
+		"enable"		"-1"
+		"hammerid"		"58878"
+	}
+	"25725"
+	{
+		"enable"		"-1"
+		"hammerid"		"25725"
+	}
 }

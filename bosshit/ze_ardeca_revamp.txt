@@ -92,7 +92,7 @@
 	}
 	"29692"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"29692"
 		"m_iname"		"Daddy_Phys"
 	}
@@ -221,5 +221,10 @@
 		"enable"		"0"
 		"hammerid"		"105029"
 		"m_iname"		"Mine_8"
+	}
+	"78537"
+	{
+		"enable"		"-1"
+		"hammerid"		"78537"
 	}
 }

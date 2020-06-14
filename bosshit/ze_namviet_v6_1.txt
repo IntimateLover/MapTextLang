@@ -492,4 +492,19 @@
 		"hammerid"		"67259"
 		"m_iname"		"door_helii"
 	}
+	"155373"
+	{
+		"enable"		"-1"
+		"hammerid"		"155373"
+	}
+	"155390"
+	{
+		"enable"		"-1"
+		"hammerid"		"155390"
+	}
+	"155417"
+	{
+		"enable"		"-1"
+		"hammerid"		"155417"
+	}
 }

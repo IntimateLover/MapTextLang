@@ -558,4 +558,19 @@
 		"hammerid"		"6432480"
 		"m_iname"		"boss_quad_encounter_01_hitbox_n"
 	}
+	"506576"
+	{
+		"enable"		"-1"
+		"hammerid"		"506576"
+	}
+	"3472395"
+	{
+		"enable"		"-1"
+		"hammerid"		"3472395"
+	}
+	"5101181"
+	{
+		"enable"		"-1"
+		"hammerid"		"5101181"
+	}
 }
