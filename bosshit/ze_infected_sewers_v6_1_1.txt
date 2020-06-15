@@ -222,4 +222,25 @@
 		"hammerid"		"2256"
 		"m_iname"		"barroteszona1"
 	}
+	"2278"
+	{
+		"enable"		"-1"
+		"hammerid"		"2278"
+	}
+	"1357604"
+	{
+		"enable"		"-1"
+		"hammerid"		"1357604"
+	}
+	"2487521"
+	{
+		"enable"		"-1"
+		"hammerid"		"2487521"
+	}
+	"2521587"
+	{
+		"enable"		"1"
+		"hammerid"		"2521587"
+		"m_iname"		"bossbullets"
+	}
 }

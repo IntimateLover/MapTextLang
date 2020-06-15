@@ -2,7 +2,7 @@
 {
 	"3644"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3644"
 		"m_iname"		"bahamutend"
 	}
@@ -386,7 +386,7 @@
 	}
 	"3666"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"3666"
 		"m_iname"		"bahamutend1"
 	}

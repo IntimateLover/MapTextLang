@@ -6,4 +6,10 @@
 		"hammerid"		"34757"
 		"m_iname"		"lv2_wall"
 	}
+	"34745"
+	{
+		"enable"		"-1"
+		"hammerid"		"34745"
+		"m_iname"		"lv1_wall"
+	}
 }

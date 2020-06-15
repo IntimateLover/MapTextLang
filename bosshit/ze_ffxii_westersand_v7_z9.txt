@@ -8,7 +8,7 @@
 	}
 	"2290947"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2290947"
 		"m_iname"		"Cloak_Armor_Balthier"
 	}
@@ -26,7 +26,7 @@
 	}
 	"1693205"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"1693205"
 		"m_iname"		"Ehe_Dragon_Break"
 	}
@@ -356,31 +356,31 @@
 	}
 	"2064274"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2064274"
 		"m_iname"		"Ehe_Guard_Break"
 	}
 	"2101463"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"2101463"
 		"m_iname"		"Guard_1_Physbox_Nade"
 	}
 	"558759"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"558759"
 		"m_iname"		"Airship_Ending_Boss_Physbox"
 	}
 	"641305"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"641305"
 		"m_iname"		"Guard_3_Physbox"
 	}
 	"641272"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"641272"
 		"m_iname"		"Guard_2_Physbox"
 	}

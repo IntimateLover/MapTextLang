@@ -132,4 +132,43 @@
 		"hammerid"		"29174"
 		"m_iname"		"lv3_door1"
 	}
+	"52006"
+	{
+		"enable"		"-1"
+		"hammerid"		"52006"
+	}
+	"48589"
+	{
+		"enable"		"-1"
+		"hammerid"		"48589"
+		"m_iname"		"lvl_phys"
+	}
+	"37784"
+	{
+		"enable"		"-1"
+		"hammerid"		"37784"
+	}
+	"10716"
+	{
+		"enable"		"-1"
+		"hammerid"		"10716"
+		"m_iname"		"lvl_phys"
+	}
+	"10719"
+	{
+		"enable"		"-1"
+		"hammerid"		"10719"
+		"m_iname"		"lvl_phys"
+	}
+	"10725"
+	{
+		"enable"		"-1"
+		"hammerid"		"10725"
+		"m_iname"		"lvl_phys"
+	}
+	"8371"
+	{
+		"enable"		"-1"
+		"hammerid"		"8371"
+	}
 }

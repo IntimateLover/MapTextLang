@@ -156,4 +156,19 @@
 		"hammerid"		"363969"
 		"m_iname"		"mt_add"
 	}
+	"18280"
+	{
+		"enable"		"-1"
+		"hammerid"		"18280"
+	}
+	"12810"
+	{
+		"enable"		"-1"
+		"hammerid"		"12810"
+	}
+	"13561"
+	{
+		"enable"		"-1"
+		"hammerid"		"13561"
+	}
 }

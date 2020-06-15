@@ -127,7 +127,7 @@
 	">>>NOW TIME TO HOLD<<<"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"59"
+		"DoorCountDown"		"59"
 	}
 	">>>DOOR BREAKING IN 45 SECS<<<"
 	{
@@ -252,5 +252,25 @@
 	"sync_version"
 	{
 		"syncvalue"		"3666"
+	}
+	">>>LETS GO TO ROUTE TWO<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>EXIT DOORS OPENING IN 50 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">> DOOR OPENING IN 20 SECS <<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENING IN 25 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GOOD ONE LADS!!! <<<"
+	{
+		"chi"		"** **"
 	}
 }

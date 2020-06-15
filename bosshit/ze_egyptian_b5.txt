@@ -160,4 +160,9 @@
 		"hammerid"		"168721"
 		"m_iname"		"SkyGod_Hitbox"
 	}
+	"226521"
+	{
+		"enable"		"-1"
+		"hammerid"		"226521"
+	}
 }

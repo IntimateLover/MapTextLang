@@ -204,4 +204,20 @@
 		"hammerid"		"55600"
 		"m_iname"		"chapel_path_1"
 	}
+	"327569"
+	{
+		"enable"		"-1"
+		"hammerid"		"327569"
+	}
+	"4894"
+	{
+		"enable"		"-1"
+		"hammerid"		"4894"
+	}
+	"0"
+	{
+		"enable"		"-1"
+		"hammerid"		"0"
+		"m_iname"		"fixbreak"
+	}
 }

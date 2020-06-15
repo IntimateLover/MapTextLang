@@ -96,4 +96,29 @@
 		"hammerid"		"275684"
 		"m_iname"		"phys_steps1"
 	}
+	"13320"
+	{
+		"enable"		"-1"
+		"hammerid"		"13320"
+	}
+	"21053"
+	{
+		"enable"		"-1"
+		"hammerid"		"21053"
+	}
+	"21263"
+	{
+		"enable"		"-1"
+		"hammerid"		"21263"
+	}
+	"23766"
+	{
+		"enable"		"-1"
+		"hammerid"		"23766"
+	}
+	"583609"
+	{
+		"enable"		"-1"
+		"hammerid"		"583609"
+	}
 }

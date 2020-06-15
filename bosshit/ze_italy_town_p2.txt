@@ -42,4 +42,29 @@
 		"hammerid"		"54748"
 		"m_iname"		"puertarompebalcon"
 	}
+	"736"
+	{
+		"enable"		"-1"
+		"hammerid"		"736"
+	}
+	"738"
+	{
+		"enable"		"-1"
+		"hammerid"		"738"
+	}
+	"740"
+	{
+		"enable"		"-1"
+		"hammerid"		"740"
+	}
+	"768"
+	{
+		"enable"		"-1"
+		"hammerid"		"768"
+	}
+	"296853"
+	{
+		"enable"		"-1"
+		"hammerid"		"296853"
+	}
 }

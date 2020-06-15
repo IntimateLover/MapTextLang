@@ -84,4 +84,36 @@
 		"hammerid"		"593876"
 		"m_iname"		"stage1_shit_trap"
 	}
+	"115476"
+	{
+		"enable"		"-1"
+		"hammerid"		"115476"
+	}
+	"115510"
+	{
+		"enable"		"-1"
+		"hammerid"		"115510"
+	}
+	"125675"
+	{
+		"enable"		"-1"
+		"hammerid"		"125675"
+	}
+	"154489"
+	{
+		"enable"		"-1"
+		"hammerid"		"154489"
+	}
+	"364567"
+	{
+		"enable"		"1"
+		"hammerid"		"364567"
+		"m_iname"		"NPCHitbox"
+	}
+	"869063"
+	{
+		"enable"		"-1"
+		"hammerid"		"869063"
+		"m_iname"		"NPCBullet&2521"
+	}
 }

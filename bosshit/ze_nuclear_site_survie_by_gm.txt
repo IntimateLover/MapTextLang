@@ -114,4 +114,84 @@
 		"hammerid"		"8533"
 		"m_iname"		"door_1_2eme_entrer"
 	}
+	"556266"
+	{
+		"enable"		"-1"
+		"hammerid"		"556266"
+	}
+	"452818"
+	{
+		"enable"		"-1"
+		"hammerid"		"452818"
+	}
+	"452829"
+	{
+		"enable"		"-1"
+		"hammerid"		"452829"
+	}
+	"449153"
+	{
+		"enable"		"-1"
+		"hammerid"		"449153"
+	}
+	"297928"
+	{
+		"enable"		"-1"
+		"hammerid"		"297928"
+	}
+	"289208"
+	{
+		"enable"		"-1"
+		"hammerid"		"289208"
+	}
+	"265761"
+	{
+		"enable"		"-1"
+		"hammerid"		"265761"
+	}
+	"267892"
+	{
+		"enable"		"-1"
+		"hammerid"		"267892"
+	}
+	"260749"
+	{
+		"enable"		"-1"
+		"hammerid"		"260749"
+	}
+	"200097"
+	{
+		"enable"		"-1"
+		"hammerid"		"200097"
+	}
+	"200109"
+	{
+		"enable"		"-1"
+		"hammerid"		"200109"
+	}
+	"203067"
+	{
+		"enable"		"-1"
+		"hammerid"		"203067"
+	}
+	"193028"
+	{
+		"enable"		"-1"
+		"hammerid"		"193028"
+	}
+	"109371"
+	{
+		"enable"		"-1"
+		"hammerid"		"109371"
+	}
+	"89634"
+	{
+		"enable"		"-1"
+		"hammerid"		"89634"
+	}
+	"53322"
+	{
+		"enable"		"-1"
+		"hammerid"		"53322"
+	}
 }

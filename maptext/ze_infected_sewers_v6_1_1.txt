@@ -52,11 +52,11 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 10 SECONDS LEFT ***"
+	"*** 10 seconds left ***"
 	{
 		"chi"		"** **"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"** **"
 	}
@@ -133,6 +133,14 @@
 		"chi"		"** **"
 	}
 	"*** THE HELICOPTER IS HERE!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES ESCAPED! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESTARTING EASY DIFFICULTY ***"
 	{
 		"chi"		"** **"
 	}
