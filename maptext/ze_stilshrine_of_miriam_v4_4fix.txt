@@ -3,7 +3,7 @@
 	"**Stilshrine of Miriam**"
 	{
 		"chi"		"**最终幻想12：米利暗遗迹**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Map by Malgo**"
 	{
@@ -420,5 +420,17 @@
 	"**A player has picked up Poison Magick**"
 	{
 		"chi"		"**一名玩家拾取了毒魔法**"
+	}
+	"Hold for 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Welcome to Stilshrine of Miriam!**"
+	{
+		"chi"		"** **"
+	}
+	"**Find and activate Teleport Lantern!**"
+	{
+		"chi"		"** **"
 	}
 }

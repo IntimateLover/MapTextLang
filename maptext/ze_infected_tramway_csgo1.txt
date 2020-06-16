@@ -52,4 +52,32 @@
 	{
 		"chi"		"** **"
 	}
+	"**T minus 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Gates are opening and barriers are online!**"
+	{
+		"chi"		"** **"
+	}
+	"**Barrier system deactivated in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Barrier system is broken! Watch your backs!**"
+	{
+		"chi"		"** **"
+	}
+	"**Monitor A active**"
+	{
+		"chi"		"** **"
+	}
+	"**Monitor B active**"
+	{
+		"chi"		"** **"
+	}
 }

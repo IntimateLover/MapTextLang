@@ -316,24 +316,52 @@
 	{
 		"enable"		"1"
 		"hammerid"		"320101"
-		"m_iname"		"DemonHitbox&1685"
+		"m_iname"		"DemonHitbox&2501"
 	}
 	"320137"
 	{
 		"enable"		"0"
 		"hammerid"		"320137"
-		"m_iname"		"DemonMovement&1685"
+		"m_iname"		"DemonMovement&2501"
+	}
+	"320163"
+	{
+		"enable"		"1"
+		"hammerid"		"320163"
+		"m_iname"		"ImpHitbox&2484"
+	}
+	"320199"
+	{
+		"enable"		"0"
+		"hammerid"		"320199"
+		"m_iname"		"ImpMovement&2484"
 	}
 	"320039"
 	{
 		"enable"		"1"
 		"hammerid"		"320039"
-		"m_iname"		"LostSoulHitbox&1712"
+		"m_iname"		"LostSoulHitbox&2486"
 	}
 	"320075"
 	{
 		"enable"		"0"
 		"hammerid"		"320075"
-		"m_iname"		"LostSoulMovement&1712"
+		"m_iname"		"LostSoulMovement&2486"
+	}
+	"281334"
+	{
+		"enable"		"0"
+		"hammerid"		"281334"
+		"m_iname"		"AssamuthTurdWall"
+	}
+	"74044"
+	{
+		"enable"		"-1"
+		"hammerid"		"74044"
+	}
+	"74051"
+	{
+		"enable"		"-1"
+		"hammerid"		"74051"
 	}
 }

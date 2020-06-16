@@ -888,4 +888,69 @@
 		"hammerid"		"654031"
 		"m_iname"		"2areatblock"
 	}
+	"644005"
+	{
+		"enable"		"-1"
+		"hammerid"		"644005"
+	}
+	"597230"
+	{
+		"enable"		"-1"
+		"hammerid"		"597230"
+	}
+	"597271"
+	{
+		"enable"		"-1"
+		"hammerid"		"597271"
+	}
+	"597280"
+	{
+		"enable"		"-1"
+		"hammerid"		"597280"
+	}
+	"597295"
+	{
+		"enable"		"-1"
+		"hammerid"		"597295"
+	}
+	"597301"
+	{
+		"enable"		"-1"
+		"hammerid"		"597301"
+	}
+	"597304"
+	{
+		"enable"		"-1"
+		"hammerid"		"597304"
+	}
+	"537925"
+	{
+		"enable"		"-1"
+		"hammerid"		"537925"
+	}
+	"301465"
+	{
+		"enable"		"-1"
+		"hammerid"		"301465"
+	}
+	"301475"
+	{
+		"enable"		"-1"
+		"hammerid"		"301475"
+	}
+	"222774"
+	{
+		"enable"		"-1"
+		"hammerid"		"222774"
+	}
+	"222791"
+	{
+		"enable"		"-1"
+		"hammerid"		"222791"
+	}
+	"111296"
+	{
+		"enable"		"-1"
+		"hammerid"		"111296"
+	}
 }

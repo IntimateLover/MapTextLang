@@ -390,4 +390,24 @@
 		"hammerid"		"105975"
 		"m_iname"		"holdbreak"
 	}
+	"101298"
+	{
+		"enable"		"-1"
+		"hammerid"		"101298"
+	}
+	"95829"
+	{
+		"enable"		"-1"
+		"hammerid"		"95829"
+	}
+	"75485"
+	{
+		"enable"		"-1"
+		"hammerid"		"75485"
+	}
+	"76801"
+	{
+		"enable"		"-1"
+		"hammerid"		"76801"
+	}
 }

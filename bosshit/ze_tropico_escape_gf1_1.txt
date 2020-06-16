@@ -108,4 +108,119 @@
 		"hammerid"		"23099"
 		"m_iname"		"door_break2"
 	}
+	"2545308"
+	{
+		"enable"		"-1"
+		"hammerid"		"2545308"
+	}
+	"2434025"
+	{
+		"enable"		"-1"
+		"hammerid"		"2434025"
+	}
+	"2434040"
+	{
+		"enable"		"-1"
+		"hammerid"		"2434040"
+	}
+	"2398520"
+	{
+		"enable"		"-1"
+		"hammerid"		"2398520"
+	}
+	"494541"
+	{
+		"enable"		"-1"
+		"hammerid"		"494541"
+	}
+	"494558"
+	{
+		"enable"		"-1"
+		"hammerid"		"494558"
+	}
+	"494569"
+	{
+		"enable"		"-1"
+		"hammerid"		"494569"
+	}
+	"494580"
+	{
+		"enable"		"-1"
+		"hammerid"		"494580"
+	}
+	"494591"
+	{
+		"enable"		"-1"
+		"hammerid"		"494591"
+	}
+	"494605"
+	{
+		"enable"		"-1"
+		"hammerid"		"494605"
+	}
+	"494622"
+	{
+		"enable"		"-1"
+		"hammerid"		"494622"
+	}
+	"497795"
+	{
+		"enable"		"-1"
+		"hammerid"		"497795"
+	}
+	"411863"
+	{
+		"enable"		"-1"
+		"hammerid"		"411863"
+	}
+	"411887"
+	{
+		"enable"		"-1"
+		"hammerid"		"411887"
+	}
+	"411906"
+	{
+		"enable"		"-1"
+		"hammerid"		"411906"
+	}
+	"220373"
+	{
+		"enable"		"-1"
+		"hammerid"		"220373"
+	}
+	"174292"
+	{
+		"enable"		"-1"
+		"hammerid"		"174292"
+	}
+	"174392"
+	{
+		"enable"		"-1"
+		"hammerid"		"174392"
+	}
+	"174405"
+	{
+		"enable"		"-1"
+		"hammerid"		"174405"
+	}
+	"174408"
+	{
+		"enable"		"-1"
+		"hammerid"		"174408"
+	}
+	"174421"
+	{
+		"enable"		"-1"
+		"hammerid"		"174421"
+	}
+	"174434"
+	{
+		"enable"		"-1"
+		"hammerid"		"174434"
+	}
+	"174447"
+	{
+		"enable"		"-1"
+		"hammerid"		"174447"
+	}
 }

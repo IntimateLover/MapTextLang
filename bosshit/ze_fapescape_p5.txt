@@ -288,7 +288,7 @@
 	}
 	"2191"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"2191"
 		"m_iname"		"retard_physbox"
 	}
@@ -625,5 +625,30 @@
 		"enable"		"0"
 		"hammerid"		"236021"
 		"m_iname"		"mouth_nade"
+	}
+	"2566"
+	{
+		"enable"		"-1"
+		"hammerid"		"2566"
+	}
+	"2568"
+	{
+		"enable"		"-1"
+		"hammerid"		"2568"
+	}
+	"2570"
+	{
+		"enable"		"-1"
+		"hammerid"		"2570"
+	}
+	"2609"
+	{
+		"enable"		"-1"
+		"hammerid"		"2609"
+	}
+	"2663"
+	{
+		"enable"		"-1"
+		"hammerid"		"2663"
 	}
 }

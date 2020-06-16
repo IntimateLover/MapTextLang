@@ -72,4 +72,74 @@
 		"hammerid"		"49242"
 		"m_iname"		"WatertowerBreakable"
 	}
+	"116060"
+	{
+		"enable"		"-1"
+		"hammerid"		"116060"
+	}
+	"116127"
+	{
+		"enable"		"-1"
+		"hammerid"		"116127"
+	}
+	"116162"
+	{
+		"enable"		"-1"
+		"hammerid"		"116162"
+	}
+	"116165"
+	{
+		"enable"		"-1"
+		"hammerid"		"116165"
+	}
+	"6958"
+	{
+		"enable"		"-1"
+		"hammerid"		"6958"
+	}
+	"6961"
+	{
+		"enable"		"-1"
+		"hammerid"		"6961"
+	}
+	"6964"
+	{
+		"enable"		"-1"
+		"hammerid"		"6964"
+	}
+	"6967"
+	{
+		"enable"		"-1"
+		"hammerid"		"6967"
+	}
+	"6970"
+	{
+		"enable"		"-1"
+		"hammerid"		"6970"
+	}
+	"8464"
+	{
+		"enable"		"-1"
+		"hammerid"		"8464"
+	}
+	"8467"
+	{
+		"enable"		"-1"
+		"hammerid"		"8467"
+	}
+	"8470"
+	{
+		"enable"		"-1"
+		"hammerid"		"8470"
+	}
+	"8473"
+	{
+		"enable"		"-1"
+		"hammerid"		"8473"
+	}
+	"8476"
+	{
+		"enable"		"-1"
+		"hammerid"		"8476"
+	}
 }

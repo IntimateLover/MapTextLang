@@ -36,4 +36,54 @@
 		"hammerid"		"7335"
 		"m_iname"		"trainstation_crates_2"
 	}
+	"5606"
+	{
+		"enable"		"-1"
+		"hammerid"		"5606"
+	}
+	"5614"
+	{
+		"enable"		"-1"
+		"hammerid"		"5614"
+	}
+	"5675"
+	{
+		"enable"		"-1"
+		"hammerid"		"5675"
+	}
+	"6736"
+	{
+		"enable"		"-1"
+		"hammerid"		"6736"
+	}
+	"6777"
+	{
+		"enable"		"-1"
+		"hammerid"		"6777"
+	}
+	"6801"
+	{
+		"enable"		"-1"
+		"hammerid"		"6801"
+	}
+	"6901"
+	{
+		"enable"		"-1"
+		"hammerid"		"6901"
+	}
+	"6909"
+	{
+		"enable"		"-1"
+		"hammerid"		"6909"
+	}
+	"6917"
+	{
+		"enable"		"-1"
+		"hammerid"		"6917"
+	}
+	"7177"
+	{
+		"enable"		"-1"
+		"hammerid"		"7177"
+	}
 }

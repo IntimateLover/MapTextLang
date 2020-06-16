@@ -54,4 +54,19 @@
 		"hammerid"		"23537"
 		"m_iname"		"door_expl_1"
 	}
+	"89049"
+	{
+		"enable"		"-1"
+		"hammerid"		"89049"
+	}
+	"86934"
+	{
+		"enable"		"-1"
+		"hammerid"		"86934"
+	}
+	"30312"
+	{
+		"enable"		"-1"
+		"hammerid"		"30312"
+	}
 }
