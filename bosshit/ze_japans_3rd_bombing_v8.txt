@@ -210,4 +210,76 @@
 		"hammerid"		"905445"
 		"m_iname"		"bombssssssss"
 	}
+	"637945"
+	{
+		"enable"		"-1"
+		"hammerid"		"637945"
+	}
+	"637977"
+	{
+		"enable"		"-1"
+		"hammerid"		"637977"
+	}
+	"511498"
+	{
+		"enable"		"-1"
+		"hammerid"		"511498"
+	}
+	"511558"
+	{
+		"enable"		"-1"
+		"hammerid"		"511558"
+	}
+	"511564"
+	{
+		"enable"		"-1"
+		"hammerid"		"511564"
+	}
+	"511573"
+	{
+		"enable"		"-1"
+		"hammerid"		"511573"
+	}
+	"423174"
+	{
+		"enable"		"-1"
+		"hammerid"		"423174"
+	}
+	"423177"
+	{
+		"enable"		"-1"
+		"hammerid"		"423177"
+	}
+	"423180"
+	{
+		"enable"		"-1"
+		"hammerid"		"423180"
+	}
+	"376732"
+	{
+		"enable"		"-1"
+		"hammerid"		"376732"
+	}
+	"373504"
+	{
+		"enable"		"-1"
+		"hammerid"		"373504"
+	}
+	"55272"
+	{
+		"enable"		"-1"
+		"hammerid"		"55272"
+	}
+	"86722"
+	{
+		"enable"		"-1"
+		"hammerid"		"86722"
+		"m_iname"		"npc_phys2g&5667"
+	}
+	"86751"
+	{
+		"enable"		"-1"
+		"hammerid"		"86751"
+		"m_iname"		"npc_phys2gg&5667"
+	}
 }

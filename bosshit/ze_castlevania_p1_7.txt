@@ -86,7 +86,7 @@
 	}
 	"120483"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"120483"
 		"m_iname"		"boss_phys_spider"
 	}

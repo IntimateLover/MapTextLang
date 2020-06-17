@@ -102,4 +102,81 @@
 		"hammerid"		"1772649"
 		"m_iname"		"cb_lb2"
 	}
+	"1771925"
+	{
+		"enable"		"-1"
+		"hammerid"		"1771925"
+		"m_iname"		"KillMeLater"
+	}
+	"1771943"
+	{
+		"enable"		"-1"
+		"hammerid"		"1771943"
+		"m_iname"		"KillMeLater"
+	}
+	"1772664"
+	{
+		"enable"		"-1"
+		"hammerid"		"1772664"
+		"m_iname"		"KillMeLater"
+	}
+	"1772680"
+	{
+		"enable"		"-1"
+		"hammerid"		"1772680"
+		"m_iname"		"KillMeLater"
+	}
+	"1773161"
+	{
+		"enable"		"-1"
+		"hammerid"		"1773161"
+		"m_iname"		"KillMeLater"
+	}
+	"1773312"
+	{
+		"enable"		"-1"
+		"hammerid"		"1773312"
+		"m_iname"		"KillMeLater"
+	}
+	"1823822"
+	{
+		"enable"		"-1"
+		"hammerid"		"1823822"
+	}
+	"1825459"
+	{
+		"enable"		"-1"
+		"hammerid"		"1825459"
+		"m_iname"		"KillMeLater"
+	}
+	"1825475"
+	{
+		"enable"		"-1"
+		"hammerid"		"1825475"
+		"m_iname"		"KillMeLater"
+	}
+	"1925122"
+	{
+		"enable"		"-1"
+		"hammerid"		"1925122"
+		"m_iname"		"KillMeLater"
+	}
+	"2840518"
+	{
+		"enable"		"-1"
+		"hammerid"		"2840518"
+		"m_iname"		"KillMeLater"
+	}
+	"2840536"
+	{
+		"enable"		"-1"
+		"hammerid"		"2840536"
+		"m_iname"		"KillMeLater"
+	}
+	"2840545"
+	{
+		"enable"		"-1"
+		"hammerid"		"2840545"
+		"m_iname"		"KillMeLater"
+	}
 }

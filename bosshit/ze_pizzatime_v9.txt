@@ -246,4 +246,14 @@
 		"hammerid"		"6308"
 		"m_iname"		"aidscartend"
 	}
+	"136425"
+	{
+		"enable"		"-1"
+		"hammerid"		"136425"
+	}
+	"13175"
+	{
+		"enable"		"-1"
+		"hammerid"		"13175"
+	}
 }

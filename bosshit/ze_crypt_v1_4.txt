@@ -234,4 +234,54 @@
 		"hammerid"		"107118"
 		"m_iname"		"GhostHitbox&7365"
 	}
+	"85027"
+	{
+		"enable"		"-1"
+		"hammerid"		"85027"
+	}
+	"85060"
+	{
+		"enable"		"-1"
+		"hammerid"		"85060"
+	}
+	"85093"
+	{
+		"enable"		"-1"
+		"hammerid"		"85093"
+	}
+	"85133"
+	{
+		"enable"		"-1"
+		"hammerid"		"85133"
+	}
+	"85167"
+	{
+		"enable"		"-1"
+		"hammerid"		"85167"
+	}
+	"85201"
+	{
+		"enable"		"-1"
+		"hammerid"		"85201"
+	}
+	"85235"
+	{
+		"enable"		"-1"
+		"hammerid"		"85235"
+	}
+	"85269"
+	{
+		"enable"		"-1"
+		"hammerid"		"85269"
+	}
+	"85306"
+	{
+		"enable"		"-1"
+		"hammerid"		"85306"
+	}
+	"85340"
+	{
+		"enable"		"-1"
+		"hammerid"		"85340"
+	}
 }

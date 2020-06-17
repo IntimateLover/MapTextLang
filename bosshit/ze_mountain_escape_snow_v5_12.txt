@@ -114,4 +114,58 @@
 		"hammerid"		"965488"
 		"m_iname"		"heli2"
 	}
+	"985466"
+	{
+		"enable"		"-1"
+		"hammerid"		"985466"
+		"m_iname"		"ad_phys_5"
+	}
+	"985506"
+	{
+		"enable"		"-1"
+		"hammerid"		"985506"
+		"m_iname"		"ad_phys_3"
+	}
+	"925353"
+	{
+		"enable"		"-1"
+		"hammerid"		"925353"
+	}
+	"925366"
+	{
+		"enable"		"-1"
+		"hammerid"		"925366"
+	}
+	"925379"
+	{
+		"enable"		"-1"
+		"hammerid"		"925379"
+	}
+	"965431"
+	{
+		"enable"		"-1"
+		"hammerid"		"965431"
+	}
+	"965444"
+	{
+		"enable"		"-1"
+		"hammerid"		"965444"
+	}
+	"965470"
+	{
+		"enable"		"-1"
+		"hammerid"		"965470"
+	}
+	"789817"
+	{
+		"enable"		"-1"
+		"hammerid"		"789817"
+		"m_iname"		"ad_phys_1"
+	}
+	"789830"
+	{
+		"enable"		"-1"
+		"hammerid"		"789830"
+		"m_iname"		"ad_phys_2"
+	}
 }
