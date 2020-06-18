@@ -1,0 +1,115 @@
+"Console_T"
+{
+	"### Appears after 10s on the road ###"
+	{
+		"chi"		"**道路10秒后出现 **"
+	}
+	"### 35s rear axle appears ###"
+	{
+		"chi"		"**35s后桥出现 **"
+	}
+	"### Teleport to destination in 5 seconds ###"
+	{
+		"chi"		"**  5秒后传送到目的地 **"
+	}
+	"### The platform appears after 60s ###"
+	{
+		"chi"		"**  平台60秒后出现 **"
+	}
+	"### The door is broken after 30s ###"
+	{
+		"chi"		"**  30秒后门破碎 **"
+	}
+	"### phase 2 ###"
+	{
+		"chi"		"**  第二阶段 **"
+	}
+	"### phase 1 ###"
+	{
+		"chi"		"**  第一阶段 **"
+	}
+	"### Regional Slave  ###"
+	{
+		"chi"		"**  地狱奴仆（站在左右两边躲避） **"
+	}
+	"### Shadow of Evil  ###"
+	{
+		"chi"		"**  邪恶阴影（召唤NPC优先攻击） **"
+	}
+	"### Great Earthquake  ###"
+	{
+		"chi"		"** 大地震（按住W抵抗冲击） **"
+	}
+	"### Sky Roar  ###"
+	{
+		"chi"		"** 天空咆哮（按住W抵抗推力） **"
+	}
+	"### Fire Field  ###"
+	{
+		"chi"		"** 邪恶火场（全屏伤害开奶硬抗） **"
+	}
+	"### Lava Rise   ###"
+	{
+		"chi"		"** 熔岩上升（前后随机出现2个平台跳上平台躲避） **"
+	}
+	"### Teleport after 30s   ###"
+	{
+		"chi"		"** 30秒后传送 **"
+	}
+	"### Flame Emission   ###"
+	{
+		"chi"		"** 火焰放射（4个火龙柱放射对角线火焰） **"
+	}
+	"### The door opens after 3s   ###"
+	{
+		"chi"		"** 大门3秒后打开 **"
+	}
+	"### Completion of Phase 1   ###"
+	{
+		"chi"		"** 完成第一阶段 **"
+	}
+	"### Corpse Cage   ###"
+	{
+		"chi"		"** 尸笼（守住僵尸） **"
+	}
+	"### Saint   ###"
+	{
+		"chi"		"** 光刀（4周随机出现一刀注意躲避） **"
+	}
+	"### Holy Spirit Suction   ###"
+	{
+		"chi"		"** 圣灵吸盘（按住S抵抗吸力） **"
+	}
+	"### Light Barrage   ###"
+	{
+		"chi"		"** 光之弹幕（随机弹幕找缝隙躲避） **"
+	}
+	"### Holy phosgene   ###"
+	{
+		"chi"		"** 圣光（按住W抵抗推力） **"
+	}
+	"### Holy Wall   ###"
+	{
+		"chi"		"** 圣墙（尸笼方向出现墙体集火打碎） **"
+	}
+	"### 20s rear axle disconnected   ###"
+	{
+		"chi"		"** 20秒后桥断开 **"
+	}
+	"### 25s rear door open   ###"
+	{
+		"chi"		"** 25秒后大门打开 **"
+	}
+	"### The door opens after 10s   ###"
+	{
+		"chi"		"** 10秒后大门打开 **"
+	}
+	"### Road appeared after 15s   ###"
+	{
+		"chi"		"** 15秒后出现道路 **"
+	}
+	"### Road appeared after 15s   ###"
+	{
+		"chi"		"** 15秒后出现道路 **"
+	}
+}
