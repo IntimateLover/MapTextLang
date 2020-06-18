@@ -348,4 +348,69 @@
 		"hammerid"		"216198"
 		"m_iname"		"SpawnBreak"
 	}
+	"40650"
+	{
+		"enable"		"-1"
+		"hammerid"		"40650"
+	}
+	"92326"
+	{
+		"enable"		"-1"
+		"hammerid"		"92326"
+	}
+	"92340"
+	{
+		"enable"		"-1"
+		"hammerid"		"92340"
+	}
+	"92357"
+	{
+		"enable"		"-1"
+		"hammerid"		"92357"
+	}
+	"92365"
+	{
+		"enable"		"-1"
+		"hammerid"		"92365"
+	}
+	"92373"
+	{
+		"enable"		"-1"
+		"hammerid"		"92373"
+	}
+	"92381"
+	{
+		"enable"		"-1"
+		"hammerid"		"92381"
+	}
+	"92557"
+	{
+		"enable"		"-1"
+		"hammerid"		"92557"
+	}
+	"117661"
+	{
+		"enable"		"-1"
+		"hammerid"		"117661"
+	}
+	"139821"
+	{
+		"enable"		"-1"
+		"hammerid"		"139821"
+	}
+	"139833"
+	{
+		"enable"		"-1"
+		"hammerid"		"139833"
+	}
+	"140899"
+	{
+		"enable"		"-1"
+		"hammerid"		"140899"
+	}
+	"140912"
+	{
+		"enable"		"-1"
+		"hammerid"		"140912"
+	}
 }

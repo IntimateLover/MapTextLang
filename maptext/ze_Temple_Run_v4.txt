@@ -24,4 +24,20 @@
 	{
 		"syncvalue"		"16314"
 	}
+	"50s elevator door open"
+	{
+		"chi"		"** **"
+	}
+	"45s elevator door open"
+	{
+		"chi"		"** **"
+	}
+	"10s"
+	{
+		"chi"		"** **"
+	}
+	"90s elevator door open"
+	{
+		"chi"		"** **"
+	}
 }

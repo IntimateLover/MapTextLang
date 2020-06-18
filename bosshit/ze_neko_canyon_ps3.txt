@@ -294,4 +294,59 @@
 		"hammerid"		"6012"
 		"m_iname"		"VTrap05_Phys"
 	}
+	"6040"
+	{
+		"enable"		"-1"
+		"hammerid"		"6040"
+	}
+	"6285"
+	{
+		"enable"		"-1"
+		"hammerid"		"6285"
+	}
+	"6293"
+	{
+		"enable"		"-1"
+		"hammerid"		"6293"
+	}
+	"6301"
+	{
+		"enable"		"-1"
+		"hammerid"		"6301"
+	}
+	"6309"
+	{
+		"enable"		"-1"
+		"hammerid"		"6309"
+	}
+	"6317"
+	{
+		"enable"		"-1"
+		"hammerid"		"6317"
+	}
+	"6325"
+	{
+		"enable"		"-1"
+		"hammerid"		"6325"
+	}
+	"6333"
+	{
+		"enable"		"-1"
+		"hammerid"		"6333"
+	}
+	"6341"
+	{
+		"enable"		"-1"
+		"hammerid"		"6341"
+	}
+	"6391"
+	{
+		"enable"		"-1"
+		"hammerid"		"6391"
+	}
+	"6399"
+	{
+		"enable"		"-1"
+		"hammerid"		"6399"
+	}
 }

@@ -48,4 +48,20 @@
 	{
 		"chi"		"** **"
 	}
+	"***CHOPPER leaving in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***CHOPPER is leaving***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE BOAT 2 leaving in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE BOAT 2 has escaped!***"
+	{
+		"chi"		"** **"
+	}
 }

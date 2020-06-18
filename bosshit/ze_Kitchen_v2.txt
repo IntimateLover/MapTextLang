@@ -264,4 +264,9 @@
 		"hammerid"		"1642112"
 		"m_iname"		"fly_small_break_map&0208"
 	}
+	"1101904"
+	{
+		"enable"		"-1"
+		"hammerid"		"1101904"
+	}
 }

@@ -222,4 +222,19 @@
 		"hammerid"		"136911"
 		"m_iname"		"EyeBossSpecialHitbox&2831"
 	}
+	"457197"
+	{
+		"enable"		"-1"
+		"hammerid"		"457197"
+	}
+	"54094"
+	{
+		"enable"		"-1"
+		"hammerid"		"54094"
+	}
+	"54831"
+	{
+		"enable"		"-1"
+		"hammerid"		"54831"
+	}
 }

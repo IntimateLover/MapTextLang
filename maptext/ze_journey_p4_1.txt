@@ -1,10 +1,10 @@
 "Console_T"
 {
-	"*** Door opening in 20 seconds ***"
+	"*** DOOR OPENING IN 20 SECONDS ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Door opening in 5 seconds ***"
+	"*** DOOR OPENING IN 5 SECONDS ***"
 	{
 		"chi"		"** **"
 	}
@@ -20,7 +20,35 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lightning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Divine Orb has been acquired ***"
 	{
 		"chi"		"** **"
 	}
