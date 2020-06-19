@@ -1,295 +1,164 @@
 "Console_T"
 {
-	"welcome to my world 23s"
-	{
-		"chi"		"** **"
-	}
 	"sync_version"
 	{
 		"syncvalue"		"23969"
 	}
 	"You need to defend for 23 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要防守23秒**"
 	}
 	"you need hold 25s"
 	{
-		"chi"		"** **"
-	}
-	"go go go"
-	{
-		"chi"		"** **"
+		"chi"		"**防守25秒**"
 	}
 	"we need hold 40s"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要再守40秒**"
 	}
 	"you need hold 20s"
 	{
-		"chi"		"** **"
+		"chi"		"**再守20秒**"
 	}
 	"hold 20s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒**"
 	}
 	"Zombies are still transmitted after 5S"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送**"
 	}
 	"you need hold 35s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守35秒**"
 	}
 	"you need hold 30s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守30秒**"
 	}
 	"you need hold 10s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守10秒**"
 	}
 	"Something seems to have disappeared"
 	{
-		"chi"		"** **"
+		"chi"		"**某些东西似乎消失了**"
 	}
 	"you need hold 15s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守15秒**"
 	}
 	"There seems to be no road above"
 	{
-		"chi"		"** **"
+		"chi"		"**上面似乎没有路**"
 	}
 	"I am optimistic about the road under your feet. How come back? Do you understand?"
 	{
-		"chi"		"** **"
+		"chi"		"**我对你的处境非常乐观，你知道如何回来吗？提示：看脚底的路！所以你明白了吗？**"
 	}
 	"Zombies approaching the road"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸侧路梯子已开放**"
 	}
 	"you need hold 32s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守32秒**"
 	}
 	"you need hold 45s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守45秒**"
 	}
 	"you need hold 22s"
 	{
-		"chi"		"** **"
-	}
-	"This is the last defensive point. It��s life or death. Look at this last 60s."
-	{
-		"chi"		"** **"
+		"chi"		"**防守22秒**"
 	}
 	"Congratulations on your victory, EX mode is waiting for you."
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺你成功通关，EXTREME模式即将到来...**"
 	}
 	"Warning: zombies open near the road"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：僵尸侧路已开启**"
 	}
 	"Warning: trap is activated"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：陷阱已激活**"
+		"DoorCountdown"		"3"
 	}
 	"Warning: Zombie launches near the road"
 	{
-		"chi"		"** **"
-	}
-	"Part of the air wall has disappeared"
-	{
-		"chi"		"** **"
+		"chi"		"**警告：僵尸侧路已开启**"
 	}
 	"you need hold 40s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守40秒**"
 	}
 	"you need hold 18s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守18秒**"
 	}
 	"zombie coming watch you back"
 	{
-		"chi"		"** **"
-	}
-	"This is the last defensive point. It��s life or death. Look at this last 90s."
-	{
-		"chi"		"** **"
+		"chi"		"**僵尸要传送了！准备好手雷**"
+		"DoorCountdown"		"3"
 	}
 	"Zombies are still transmitted after 7S"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸7秒后传送**"
 	}
 	"This is the last defensive point. It??s life or death. Look at this last 60s."
 	{
-		"chi"		"** **"
+		"chi"		"**最后的守点，是生还是死，看这最后的60秒**"
+		"DoorCountdown"		"-1"
 	}
 	"This is the last defensive point. It??s life or death. Look at this last 90s."
 	{
-		"chi"		"** **"
+		"chi"		"**最后的守点，是生还是死，看这最后的90秒**"
+		"DoorCountdown"		"90"
 	}
 	"Wooden boat leaves after 7S"
 	{
-		"chi"		"** **"
+		"chi"		"**木船7秒后离开**"
 	}
 	"Zombie transfer has started"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸即将传送...**"
 	}
 	"Zombie transmission also has 13S"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸13秒后传送**"
 	}
 	"I remember here, here is my back mountain"
 	{
-		"chi"		"** **"
+		"chi"		"**我记得这里，这里是我家的后山**"
 	}
 	"From here you can reach my house directly"
 	{
-		"chi"		"** **"
-	}
-	"Is it late"
-	{
-		"chi"		"** **"
-	}
-	"It looks like it happened a few days ago"
-	{
-		"chi"		"** **"
+		"chi"		"**从这里走您可以直接到达我家**"
 	}
 	"Something weird was triggered"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋已被触发**"
 	}
 	"Something strange will happen"
 	{
-		"chi"		"** **"
-	}
-	"map by niuroufen"
-	{
-		"chi"		"** **"
-	}
-	"thanks for you play the map"
-	{
-		"chi"		"** **"
-	}
-	"Do you remember where this is?"
-	{
-		"chi"		"** **"
-	}
-	"This is where you have been"
-	{
-		"chi"		"** **"
-	}
-	"Time flies so fast that you can only come here in a dream"
-	{
-		"chi"		"** **"
-	}
-	"Come to the end, forget it, continue your journey"
-	{
-		"chi"		"** **"
-	}
-	"you need hold 25s watch you back"
-	{
-		"chi"		"** **"
-	}
-	"Zombie transfer to start the door will open after 20S"
-	{
-		"chi"		"** **"
-	}
-	"You need to defend 20S"
-	{
-		"chi"		"** **"
-	}
-	"hold here 35s"
-	{
-		"chi"		"** **"
-	}
-	"we need defend 20S"
-	{
-		"chi"		"** **"
-	}
-	"Platform transfer will be enabled after 20S"
-	{
-		"chi"		"** **"
-	}
-	"Zombie approaching to open"
-	{
-		"chi"		"** **"
-	}
-	"The left door will open after 20S"
-	{
-		"chi"		"** **"
-	}
-	"The right door will open after 20S"
-	{
-		"chi"		"** **"
-	}
-	"Enter the hidden point to switch songs, but you better not go"
-	{
-		"chi"		"** **"
-	}
-	"The platform will fly after 60S"
-	{
-		"chi"		"** **"
-	}
-	"Zombies will be delivered after 3S"
-	{
-		"chi"		"** **"
-	}
-	"zombie coming in 5s"
-	{
-		"chi"		"** **"
-	}
-	"we need defend 18s"
-	{
-		"chi"		"** **"
-	}
-	"The zombie is open"
-	{
-		"chi"		"** **"
-	}
-	"Mobile platform will rise in 25S"
-	{
-		"chi"		"** **"
-	}
-	"It looks like you are really pretty good."
-	{
-		"chi"		"** **"
-	}
-	"Do you think you have to win?"
-	{
-		"chi"		"** **"
-	}
-	"Oh, this is just the beginning."
-	{
-		"chi"		"** **"
-	}
-	"The beginning of a death"
-	{
-		"chi"		"** **"
-	}
-	"Now welcome to the world of Moon Shadow Legend"
-	{
-		"chi"		"** **"
+		"chi"		"**请把背景音乐打开XD:**"
 	}
 	"tip:You cant pass on the chessboard You must pass on the chess piece"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：你不能直接通过棋盘，你必须利用棋子才能前进**"
+		"DoorCountdown"		"3"
 	}
 	"Zombie checkerboard teleport"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸现在可以站在棋盘上行走**"
 	}
 	"you need hold 14s"
 	{
-		"chi"		"** **"
+		"chi"		"**防守14秒**"
 	}
 	"Zombie shortcut open"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸侧路开启**"
 	}
 }
