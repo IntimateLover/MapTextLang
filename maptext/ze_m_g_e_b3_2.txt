@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"*player pinkup Gravity gun*"
+	{
+		"DoorCountdown"		"1"
+	}
+	"*player pink up heal gun(cd 70s)*"
+	{
+		"DoorCountdown"		"1"
+	}
+	"*player pink speed gun(speed 1.5)*"
+	{
+		"DoorCountdown"		"1"
+	}
+}

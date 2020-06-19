@@ -1,0 +1,75 @@
+"BOSSHP"
+{
+	"20447023"
+	{
+		"enable"		"0"
+		"hammerid"		"20447023"
+		"m_iname"		"breakable_matrix_backdoors1"
+	}
+	"20447035"
+	{
+		"enable"		"0"
+		"hammerid"		"20447035"
+		"m_iname"		"breakable_matrix_backdoors3"
+	}
+	"20447043"
+	{
+		"enable"		"0"
+		"hammerid"		"20447043"
+		"m_iname"		"breakable_matrix_backdoors5"
+	}
+	"20447079"
+	{
+		"enable"		"0"
+		"hammerid"		"20447079"
+		"m_iname"		"breakable_matrix_backdoors2"
+	}
+	"20447087"
+	{
+		"enable"		"0"
+		"hammerid"		"20447087"
+		"m_iname"		"breakable_matrix_backdoors4"
+	}
+	"20447095"
+	{
+		"enable"		"0"
+		"hammerid"		"20447095"
+		"m_iname"		"breakable_matrix_backdoors6"
+	}
+	"20082795"
+	{
+		"enable"		"0"
+		"hammerid"		"20082795"
+		"m_iname"		"ceiling_boats"
+	}
+	"19982691"
+	{
+		"enable"		"0"
+		"hammerid"		"19982691"
+		"m_iname"		"brush_b_hole"
+	}
+	"19983256"
+	{
+		"enable"		"0"
+		"hammerid"		"19983256"
+		"m_iname"		"box3"
+	}
+	"19985984"
+	{
+		"enable"		"0"
+		"hammerid"		"19985984"
+		"m_iname"		"door_great_hall"
+	}
+	"19987369"
+	{
+		"enable"		"0"
+		"hammerid"		"19987369"
+		"m_iname"		"door_b_1"
+	}
+	"20085364"
+	{
+		"enable"		"0"
+		"hammerid"		"20085364"
+		"m_iname"		"money_middle"
+	}
+}

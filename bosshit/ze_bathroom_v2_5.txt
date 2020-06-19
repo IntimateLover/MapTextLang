@@ -1,53 +1,5 @@
 "BOSSHP"
 {
-	"685381"
-	{
-		"enable"		"0"
-		"hammerid"		"685381"
-		"m_iname"		"bojler_break"
-	}
-	"665455"
-	{
-		"enable"		"0"
-		"hammerid"		"665455"
-		"m_iname"		"police_phys"
-	}
-	"661073"
-	{
-		"enable"		"0"
-		"hammerid"		"661073"
-		"m_iname"		"CY01Physic"
-	}
-	"580303"
-	{
-		"enable"		"1"
-		"hammerid"		"580303"
-		"m_iname"		"kostka_boss_hitbox"
-	}
-	"513636"
-	{
-		"enable"		"1"
-		"hammerid"		"513636"
-		"m_iname"		"kostka_boss_main_tracker"
-	}
-	"496824"
-	{
-		"enable"		"1"
-		"hammerid"		"496824"
-		"m_iname"		"krokodyl_hitbox"
-	}
-	"512886"
-	{
-		"enable"		"0"
-		"hammerid"		"512886"
-		"m_iname"		"pasticka_drevo"
-	}
-	"512944"
-	{
-		"enable"		"0"
-		"hammerid"		"512944"
-		"m_iname"		"pasticka syr"
-	}
 	"783646"
 	{
 		"enable"		"0"
@@ -84,17 +36,35 @@
 		"hammerid"		"695171"
 		"m_iname"		"dira_zed_police"
 	}
+	"685381"
+	{
+		"enable"		"0"
+		"hammerid"		"685381"
+		"m_iname"		"bojler_break"
+	}
 	"685404"
 	{
 		"enable"		"0"
 		"hammerid"		"685404"
 		"m_iname"		"bojler_dira"
 	}
+	"665455"
+	{
+		"enable"		"0"
+		"hammerid"		"665455"
+		"m_iname"		"police_phys"
+	}
 	"665709"
 	{
 		"enable"		"0"
 		"hammerid"		"665709"
 		"m_iname"		"skrinka_break1"
+	}
+	"661073"
+	{
+		"enable"		"0"
+		"hammerid"		"661073"
+		"m_iname"		"CY01Physic"
 	}
 	"649183"
 	{
@@ -107,6 +77,12 @@
 		"enable"		"0"
 		"hammerid"		"616363"
 		"m_iname"		"vana_kostka_break"
+	}
+	"580303"
+	{
+		"enable"		"1"
+		"hammerid"		"580303"
+		"m_iname"		"kostka_boss_hitbox"
 	}
 	"556255"
 	{
@@ -132,6 +108,18 @@
 		"hammerid"		"524915"
 		"m_iname"		"sprcha_provaz"
 	}
+	"513636"
+	{
+		"enable"		"1"
+		"hammerid"		"513636"
+		"m_iname"		"kostka_boss_main_tracker"
+	}
+	"496824"
+	{
+		"enable"		"1"
+		"hammerid"		"496824"
+		"m_iname"		"krokodyl_hitbox"
+	}
 	"455534"
 	{
 		"enable"		"0"
@@ -149,23 +137,5 @@
 		"enable"		"0"
 		"hammerid"		"394631"
 		"m_iname"		"dira_vana"
-	}
-	"666192"
-	{
-		"enable"		"0"
-		"hammerid"		"666192"
-		"m_iname"		"vana_zebrik"
-	}
-	"573541"
-	{
-		"enable"		"0"
-		"hammerid"		"573541"
-		"m_iname"		"lvl2_blok_sprcha"
-	}
-	"630553"
-	{
-		"enable"		"0"
-		"hammerid"		"630553"
-		"m_iname"		"level_2_baterie_break"
 	}
 }

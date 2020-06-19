@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"1092196"
+	{
+		"enable"		"0"
+		"hammerid"		"1092196"
+		"m_iname"		"ht2_break_tr"
+	}
 	"1032387"
 	{
 		"enable"		"0"
@@ -282,10 +288,9 @@
 		"hammerid"		"101895"
 		"m_iname"		"door_break_4"
 	}
-	"1092196"
+	"920570"
 	{
-		"enable"		"0"
-		"hammerid"		"1092196"
-		"m_iname"		"ht2_break_tr"
+		"enable"		"-1"
+		"hammerid"		"920570"
 	}
 }

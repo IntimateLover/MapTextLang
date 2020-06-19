@@ -7,6 +7,7 @@
 	"++ Map by MatiasKiller21 ++"
 	{
 		"chi"		"**地图制作：MatiasKiller21  地图翻译：蓬莱山帅比♪ **"
+		"DoorCountdown"		"-1"
 	}
 	"++ Skybox texture by komaokc ++"
 	{
@@ -15,7 +16,7 @@
 	"++ Teleport in 30 seconds ++"
 	{
 		"chi"		"**30秒后传送 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"++ Teleport in 5 seconds ++"
 	{
@@ -28,11 +29,11 @@
 	"++ Defend 120 seconds ++"
 	{
 		"chi"		"**防守120秒 **"
-		"DoorCountDown"		"120"
+		"DoorCountdown"		"120"
 	}
 	"++ Here comes the zombies! ++"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来袭**"
 	}
 	"++ Defend 5 seconds ++"
 	{
@@ -57,7 +58,7 @@
 	"++ Tram leaves in 40 seconds ++"
 	{
 		"chi"		"**有轨电车在40秒后离开 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"++ Tram leaves in 5 seconds ++"
 	{
@@ -78,7 +79,7 @@
 	"++ Defend 60 seconds ++"
 	{
 		"chi"		"**防守60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"++ Stay on the roof! ++"
 	{

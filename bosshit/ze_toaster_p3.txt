@@ -1,65 +1,5 @@
 "BOSSHP"
 {
-	"63503"
-	{
-		"enable"		"1"
-		"hammerid"		"63503"
-		"m_iname"		"break_bosshold"
-	}
-	"18444"
-	{
-		"enable"		"1"
-		"hammerid"		"18444"
-		"m_iname"		"boss_nadedetect"
-	}
-	"18515"
-	{
-		"enable"		"1"
-		"hammerid"		"18515"
-		"m_iname"		"boss_phys2"
-	}
-	"63826"
-	{
-		"enable"		"1"
-		"hammerid"		"63826"
-		"m_iname"		"boss_break_cage"
-	}
-	"22914"
-	{
-		"enable"		"1"
-		"hammerid"		"22914"
-		"m_iname"		"boss_break"
-	}
-	"218310"
-	{
-		"enable"		"1"
-		"hammerid"		"218310"
-		"m_iname"		"boss_phys"
-	}
-	"204011"
-	{
-		"enable"		"0"
-		"hammerid"		"204011"
-		"m_iname"		"i_item_visual7&5932"
-	}
-	"18489"
-	{
-		"enable"		"0"
-		"hammerid"		"18489"
-		"m_iname"		"i_phys1&0939"
-	}
-	"204094"
-	{
-		"enable"		"0"
-		"hammerid"		"204094"
-		"m_iname"		"i_item_visual6&5989"
-	}
-	"204176"
-	{
-		"enable"		"0"
-		"hammerid"		"204176"
-		"m_iname"		"i_item_visual1&1156"
-	}
 	"62312"
 	{
 		"enable"		"0"
@@ -71,6 +11,24 @@
 		"enable"		"0"
 		"hammerid"		"62492"
 		"m_iname"		"break_toast_leftside"
+	}
+	"62545"
+	{
+		"enable"		"0"
+		"hammerid"		"62545"
+		"m_iname"		"blocker_i"
+	}
+	"63503"
+	{
+		"enable"		"1"
+		"hammerid"		"63503"
+		"m_iname"		"break_bosshold"
+	}
+	"53661"
+	{
+		"enable"		"0"
+		"hammerid"		"53661"
+		"m_iname"		"blocker_a"
 	}
 	"53780"
 	{
@@ -84,29 +42,29 @@
 		"hammerid"		"53798"
 		"m_iname"		"blocker_s"
 	}
-	"53813"
-	{
-		"enable"		"0"
-		"hammerid"		"53813"
-		"m_iname"		"blocker_q"
-	}
 	"53876"
 	{
 		"enable"		"0"
 		"hammerid"		"53876"
 		"m_iname"		"blocker_g"
 	}
-	"53927"
-	{
-		"enable"		"0"
-		"hammerid"		"53927"
-		"m_iname"		"blocker_f"
-	}
 	"34866"
 	{
 		"enable"		"0"
 		"hammerid"		"34866"
 		"m_iname"		"blocker_j"
+	}
+	"18444"
+	{
+		"enable"		"1"
+		"hammerid"		"18444"
+		"m_iname"		"boss_nadedetect"
+	}
+	"18515"
+	{
+		"enable"		"1"
+		"hammerid"		"18515"
+		"m_iname"		"boss_phys2"
 	}
 	"81291"
 	{
@@ -119,6 +77,18 @@
 		"enable"		"0"
 		"hammerid"		"81978"
 		"m_iname"		"elevator_ladderbreak"
+	}
+	"63074"
+	{
+		"enable"		"0"
+		"hammerid"		"63074"
+		"m_iname"		"blocker_n"
+	}
+	"63826"
+	{
+		"enable"		"1"
+		"hammerid"		"63826"
+		"m_iname"		"boss_break_cage"
 	}
 	"64773"
 	{
@@ -138,11 +108,77 @@
 		"hammerid"		"65657"
 		"m_iname"		"start_break_stairs"
 	}
+	"53562"
+	{
+		"enable"		"0"
+		"hammerid"		"53562"
+		"m_iname"		"blocker_c"
+	}
+	"53589"
+	{
+		"enable"		"0"
+		"hammerid"		"53589"
+		"m_iname"		"blocker_b"
+	}
+	"53676"
+	{
+		"enable"		"0"
+		"hammerid"		"53676"
+		"m_iname"		"blocker_h"
+	}
+	"53724"
+	{
+		"enable"		"0"
+		"hammerid"		"53724"
+		"m_iname"		"blocker_k"
+	}
+	"53730"
+	{
+		"enable"		"0"
+		"hammerid"		"53730"
+		"m_iname"		"blocker_m"
+	}
 	"53757"
 	{
 		"enable"		"0"
 		"hammerid"		"53757"
 		"m_iname"		"blocker_l"
+	}
+	"53903"
+	{
+		"enable"		"0"
+		"hammerid"		"53903"
+		"m_iname"		"blocker_o"
+	}
+	"22914"
+	{
+		"enable"		"1"
+		"hammerid"		"22914"
+		"m_iname"		"boss_break"
+	}
+	"24644"
+	{
+		"enable"		"0"
+		"hammerid"		"24644"
+		"m_iname"		"elevator_breakable"
+	}
+	"17876"
+	{
+		"enable"		"0"
+		"hammerid"		"17876"
+		"m_iname"		"start_break_ladder"
+	}
+	"218310"
+	{
+		"enable"		"1"
+		"hammerid"		"218310"
+		"m_iname"		"boss_phys"
+	}
+	"53813"
+	{
+		"enable"		"0"
+		"hammerid"		"53813"
+		"m_iname"		"blocker_q"
 	}
 	"53849"
 	{
@@ -162,76 +198,16 @@
 		"hammerid"		"53891"
 		"m_iname"		"blocker_p"
 	}
-	"53903"
+	"204011"
 	{
 		"enable"		"0"
-		"hammerid"		"53903"
-		"m_iname"		"blocker_o"
+		"hammerid"		"204011"
+		"m_iname"		"i_item_visual7&0111"
 	}
-	"24644"
+	"53927"
 	{
 		"enable"		"0"
-		"hammerid"		"24644"
-		"m_iname"		"elevator_breakable"
-	}
-	"17876"
-	{
-		"enable"		"0"
-		"hammerid"		"17876"
-		"m_iname"		"start_break_ladder"
-	}
-	"62545"
-	{
-		"enable"		"0"
-		"hammerid"		"62545"
-		"m_iname"		"blocker_i"
-	}
-	"53661"
-	{
-		"enable"		"0"
-		"hammerid"		"53661"
-		"m_iname"		"blocker_a"
-	}
-	"63074"
-	{
-		"enable"		"0"
-		"hammerid"		"63074"
-		"m_iname"		"blocker_n"
-	}
-	"53676"
-	{
-		"enable"		"0"
-		"hammerid"		"53676"
-		"m_iname"		"blocker_h"
-	}
-	"53724"
-	{
-		"enable"		"0"
-		"hammerid"		"53724"
-		"m_iname"		"blocker_k"
-	}
-	"53562"
-	{
-		"enable"		"0"
-		"hammerid"		"53562"
-		"m_iname"		"blocker_c"
-	}
-	"53589"
-	{
-		"enable"		"0"
-		"hammerid"		"53589"
-		"m_iname"		"blocker_b"
-	}
-	"53730"
-	{
-		"enable"		"0"
-		"hammerid"		"53730"
-		"m_iname"		"blocker_m"
-	}
-	"18464"
-	{
-		"enable"		"0"
-		"hammerid"		"18464"
-		"m_iname"		"i_phys2&5730"
+		"hammerid"		"53927"
+		"m_iname"		"blocker_f"
 	}
 }

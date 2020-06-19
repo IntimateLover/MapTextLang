@@ -1,11 +1,5 @@
 "BOSSHP"
 {
-	"8176"
-	{
-		"enable"		"0"
-		"hammerid"		"8176"
-		"m_iname"		"Block2"
-	}
 	"8143"
 	{
 		"enable"		"0"
@@ -17,6 +11,12 @@
 		"enable"		"0"
 		"hammerid"		"8159"
 		"m_iname"		"Dach"
+	}
+	"8176"
+	{
+		"enable"		"0"
+		"hammerid"		"8176"
+		"m_iname"		"Block2"
 	}
 	"8593"
 	{

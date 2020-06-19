@@ -204,4 +204,24 @@
 		"hammerid"		"165077"
 		"m_iname"		"l2_boss_zblock"
 	}
+	"23163"
+	{
+		"enable"		"-1"
+		"hammerid"		"23163"
+	}
+	"23238"
+	{
+		"enable"		"-1"
+		"hammerid"		"23238"
+	}
+	"14205"
+	{
+		"enable"		"-1"
+		"hammerid"		"14205"
+	}
+	"14221"
+	{
+		"enable"		"-1"
+		"hammerid"		"14221"
+	}
 }

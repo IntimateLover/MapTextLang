@@ -23,6 +23,7 @@
 	"** Wait here! A wise word might come from HIGH **"
 	{
 		"chi"		"守住！"
+		"DoorCountdown"		"25"
 	}
 	"** Some time has passed and yet no words came... May HIGH have lied? **"
 	{
@@ -47,6 +48,7 @@
 	"** The columnvator is warming up - going up to the puffy clouds requires lots of energy! **"
 	{
 		"chi"		"上云守住！"
+		"DoorCountdown"		"25"
 	}
 	"** RESIST! Time is long as to make this little time step nothing - if at all... **"
 	{

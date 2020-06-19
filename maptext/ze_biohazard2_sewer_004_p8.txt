@@ -3,6 +3,7 @@
 	"**** MAP BY AERIS_004 ****"
 	{
 		"chi"		"**地图制作：AERIS_004 地图翻译：清新的二哈♪**"
+		"command"		"sv_airaccelerate 12"
 	}
 	"*** WWW.SUPREME-ELITE.FR ***"
 	{
@@ -14,7 +15,7 @@
 	}
 	"***ELEVATOR UP 14 SEC***"
 	{
-		"chi"		"** **"
+		"chi"		"**桥将在14s后上升 **"
 	}
 	"*** CATCH GOLD MEDAL ***"
 	{
@@ -22,7 +23,7 @@
 	}
 	"***GENERATOR DESACTIVED***"
 	{
-		"chi"		"** **"
+		"chi"		"**电力恢复 **"
 	}
 	"***CATCH FUSE***"
 	{
@@ -43,6 +44,7 @@
 	"***START ELEVATOR 25 SEC***"
 	{
 		"chi"		"**电梯将在25s后运行 **"
+		"command"		"sv_airaccelerate 12"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
@@ -58,5 +60,14 @@
 		{
 			"cvar"		"zr_poison_enabled  0"
 		}
+	}
+	"***WWW.SUPREME-ELITE.FR ***"
+	{
+		"chi"		"** **"
+	}
+	"***START TRAIN 20 SEC ***"
+	{
+		"chi"		"**缆车将在20s后启动 **"
+		"command"		"sv_airaccelerate 1"
 	}
 }

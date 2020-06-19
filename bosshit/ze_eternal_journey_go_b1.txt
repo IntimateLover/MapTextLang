@@ -1,0 +1,45 @@
+"BOSSHP"
+{
+	"20903"
+	{
+		"enable"		"0"
+		"hammerid"		"20903"
+		"m_iname"		"stg1_lava_break_wood"
+	}
+	"26388"
+	{
+		"enable"		"0"
+		"hammerid"		"26388"
+		"m_iname"		"stg1_break_wood_slime1"
+	}
+	"26455"
+	{
+		"enable"		"0"
+		"hammerid"		"26455"
+		"m_iname"		"stg1_break_wood_slime2"
+	}
+	"18776498"
+	{
+		"enable"		"0"
+		"hammerid"		"18776498"
+		"m_iname"		"tornado_fix"
+	}
+	"17113023"
+	{
+		"enable"		"0"
+		"hammerid"		"17113023"
+		"m_iname"		"stg2_zm_jail1_break"
+	}
+	"17324565"
+	{
+		"enable"		"1"
+		"hammerid"		"17324565"
+		"m_iname"		"stg2_mutant_hitbox"
+	}
+	"17328556"
+	{
+		"enable"		"0"
+		"hammerid"		"17328556"
+		"m_iname"		"stg2_CY01Physic"
+	}
+}

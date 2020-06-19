@@ -6,6 +6,12 @@
 		"hammerid"		"11965"
 		"m_iname"		"func_physbox1"
 	}
+	"12621"
+	{
+		"enable"		"0"
+		"hammerid"		"12621"
+		"m_iname"		"alien fall wall"
+	}
 	"12917"
 	{
 		"enable"		"0"
@@ -47,12 +53,6 @@
 		"enable"		"0"
 		"hammerid"		"12971"
 		"m_iname"		"wall break trap"
-	}
-	"12621"
-	{
-		"enable"		"0"
-		"hammerid"		"12621"
-		"m_iname"		"alien fall wall"
 	}
 	"13049"
 	{

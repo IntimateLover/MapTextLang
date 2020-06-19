@@ -6,30 +6,6 @@
 		"hammerid"		"338260"
 		"m_iname"		"portalboss1"
 	}
-	"45154"
-	{
-		"enable"		"1"
-		"hammerid"		"45154"
-		"m_iname"		"ColorBoss"
-	}
-	"101698"
-	{
-		"enable"		"1"
-		"hammerid"		"101698"
-		"m_iname"		"hideboss1"
-	}
-	"313149"
-	{
-		"enable"		"0"
-		"hammerid"		"313149"
-		"m_iname"		"Coolr"
-	}
-	"67321"
-	{
-		"enable"		"0"
-		"hammerid"		"67321"
-		"m_iname"		"cade"
-	}
 	"4615"
 	{
 		"enable"		"0"
@@ -132,6 +108,12 @@
 		"hammerid"		"39740"
 		"m_iname"		"escadaB1"
 	}
+	"45154"
+	{
+		"enable"		"1"
+		"hammerid"		"45154"
+		"m_iname"		"ColorBoss"
+	}
 	"93705"
 	{
 		"enable"		"0"
@@ -143,6 +125,12 @@
 		"enable"		"0"
 		"hammerid"		"94063"
 		"m_iname"		"trap1"
+	}
+	"101698"
+	{
+		"enable"		"1"
+		"hammerid"		"101698"
+		"m_iname"		"hideboss1"
 	}
 	"103519"
 	{
@@ -275,5 +263,21 @@
 		"enable"		"0"
 		"hammerid"		"158202"
 		"m_iname"		"wallhold1"
+	}
+	"313149"
+	{
+		"enable"		"0"
+		"hammerid"		"313149"
+		"m_iname"		"Coolr"
+	}
+	"93506"
+	{
+		"enable"		"-1"
+		"hammerid"		"93506"
+	}
+	"140210"
+	{
+		"enable"		"-1"
+		"hammerid"		"140210"
 	}
 }

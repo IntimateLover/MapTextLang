@@ -20,6 +20,7 @@
 	"***doors to ladders opening 30 seconds***"
 	{
 		"chi"		"** 僵尸门将于 30秒 后开启 **"
+		"DoorCountdown"		"-1"
 	}
 	"***zombies are being held back by lifts for 8 seconds***"
 	{

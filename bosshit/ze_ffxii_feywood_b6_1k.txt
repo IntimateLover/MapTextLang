@@ -1,0 +1,63 @@
+"BOSSHP"
+{
+	"530148"
+	{
+		"enable"		"1"
+		"hammerid"		"530148"
+		"m_iname"		"lvl1_Boss_Phys"
+	}
+	"47038"
+	{
+		"enable"		"1"
+		"hammerid"		"47038"
+		"m_iname"		"Tomb_01_Crystall_1"
+	}
+	"48563"
+	{
+		"enable"		"1"
+		"hammerid"		"48563"
+		"m_iname"		"Tomb_01_Crystall_2"
+	}
+	"676785"
+	{
+		"enable"		"1"
+		"hammerid"		"676785"
+		"m_iname"		"Chaos_Phys_Body"
+	}
+	"6460920"
+	{
+		"enable"		"1"
+		"hammerid"		"6460920"
+		"m_iname"		"lvl3_Boss_Phys"
+	}
+	"854145"
+	{
+		"enable"		"1"
+		"hammerid"		"854145"
+		"m_iname"		"Glass_Ball_Break"
+	}
+	"1082037"
+	{
+		"enable"		"1"
+		"hammerid"		"1082037"
+		"m_iname"		"Chuchulainn_Phys_Body"
+	}
+	"3489142"
+	{
+		"enable"		"1"
+		"hammerid"		"3489142"
+		"m_iname"		"Boss_Cactus_Break"
+	}
+	"1444659"
+	{
+		"enable"		"1"
+		"hammerid"		"1444659"
+		"m_iname"		"Zodiark_Phys_Body"
+	}
+	"3487931"
+	{
+		"enable"		"1"
+		"hammerid"		"3487931"
+		"m_iname"		"End_Zodiark_Phys"
+	}
+}

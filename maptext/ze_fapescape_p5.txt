@@ -14,7 +14,7 @@
 	}
 	"*** Player has picked up Flamethrower ***"
 	{
-		"chi"		"一位玩家捡起喷火器"
+		"chi"		"一位玩家捡起喷火器(可以对evil eyes造成一定量伤害)"
 	}
 	"*** Gate opening ***"
 	{
@@ -23,7 +23,7 @@
 	"*** Door opens in 35 seconds ***"
 	{
 		"chi"		"门将35秒后打开"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"*** Door opens in 25 seconds ***"
 	{
@@ -40,7 +40,7 @@
 	"*** Door Opening in 25 seconds! ***"
 	{
 		"chi"		"门将25秒后打开"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** FALL BACK ***"
 	{
@@ -57,7 +57,7 @@
 	"*** Teleporter Activates in 20 Seconds ***"
 	{
 		"chi"		"传送门20秒后开启"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** Door opens in 30 seconds ***"
 	{
@@ -73,7 +73,7 @@
 	}
 	"*** Player has picked up HandCannon ***"
 	{
-		"chi"		"一位玩家捡起加农炮"
+		"chi"		"一位玩家捡起加农炮(可以对evil eyes造成大量伤害)"
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
@@ -109,7 +109,7 @@
 	}
 	"*** Level Completed ***"
 	{
-		"chi"		"第一关完成"
+		"chi"		"**关卡完成**"
 	}
 	"*** Level 2 ***"
 	{
@@ -146,7 +146,7 @@
 	"*** Doors open in 30 seconds ***"
 	{
 		"chi"		"大门30秒后打开"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** The Boss is dead! ***"
 	{
@@ -155,6 +155,7 @@
 	">>> Hold The Zombies Until Door Opens <<<"
 	{
 		"chi"		"守住这里直到门开"
+		"DoorCountdown"		"20"
 	}
 	"*** Elevator is Leaving in 20 seconds ***"
 	{
@@ -219,7 +220,7 @@
 	"*** Tram Leaves in 35 seconds ***"
 	{
 		"chi"		"缆车35秒后离开"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"35"
 	}
 	"*** You got both items to the end ***"
 	{
@@ -252,7 +253,7 @@
 	"*** Door Opening in 30 seconds! ***"
 	{
 		"chi"		"门将于30秒后打开"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** OH NO ITS AN EVIL ROBO BOSS ***"
 	{
@@ -274,7 +275,7 @@
 	{
 		"chi"		"梯子25秒后出现"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"*** Door opens in 20 seconds ***"
 	{
 		"chi"		"门于20秒后开放"
 	}
@@ -293,7 +294,7 @@
 	"*** Tram Leaves in 45 seconds ***"
 	{
 		"chi"		"缆车45秒后离开"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*** 25 seconds left ***"
 	{

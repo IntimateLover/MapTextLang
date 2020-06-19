@@ -1,10 +1,52 @@
 "BOSSHP"
 {
+	"1458332"
+	{
+		"enable"		"0"
+		"hammerid"		"1458332"
+		"m_iname"		"secretlift_1_roof"
+	}
+	"902"
+	{
+		"enable"		"0"
+		"hammerid"		"902"
+		"m_iname"		"secretlift_1_roof"
+	}
+	"960"
+	{
+		"enable"		"0"
+		"hammerid"		"960"
+		"m_iname"		"logtrap_break1"
+	}
+	"962"
+	{
+		"enable"		"0"
+		"hammerid"		"962"
+		"m_iname"		"logtrap_break2"
+	}
+	"967"
+	{
+		"enable"		"0"
+		"hammerid"		"967"
+		"m_iname"		"logtrap_break3"
+	}
+	"969"
+	{
+		"enable"		"0"
+		"hammerid"		"969"
+		"m_iname"		"logtrap_break4"
+	}
 	"1042"
 	{
 		"enable"		"0"
 		"hammerid"		"1042"
 		"m_iname"		"trap_rock_end"
+	}
+	"1046"
+	{
+		"enable"		"0"
+		"hammerid"		"1046"
+		"m_iname"		"trap_rock_break"
 	}
 	"1163"
 	{
@@ -47,48 +89,6 @@
 		"enable"		"0"
 		"hammerid"		"1189"
 		"m_iname"		"rockball7"
-	}
-	"1458332"
-	{
-		"enable"		"0"
-		"hammerid"		"1458332"
-		"m_iname"		"secretlift_1_roof"
-	}
-	"902"
-	{
-		"enable"		"0"
-		"hammerid"		"902"
-		"m_iname"		"secretlift_1_roof"
-	}
-	"960"
-	{
-		"enable"		"0"
-		"hammerid"		"960"
-		"m_iname"		"logtrap_break1"
-	}
-	"962"
-	{
-		"enable"		"0"
-		"hammerid"		"962"
-		"m_iname"		"logtrap_break2"
-	}
-	"967"
-	{
-		"enable"		"0"
-		"hammerid"		"967"
-		"m_iname"		"logtrap_break3"
-	}
-	"969"
-	{
-		"enable"		"0"
-		"hammerid"		"969"
-		"m_iname"		"logtrap_break4"
-	}
-	"1046"
-	{
-		"enable"		"0"
-		"hammerid"		"1046"
-		"m_iname"		"trap_rock_break"
 	}
 	"1196"
 	{

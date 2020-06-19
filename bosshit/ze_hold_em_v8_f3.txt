@@ -1,11 +1,5 @@
 "BOSSHP"
 {
-	"6315"
-	{
-		"enable"		"1"
-		"hammerid"		"6315"
-		"m_iname"		"boss"
-	}
 	"15532"
 	{
 		"enable"		"0"
@@ -41,5 +35,11 @@
 		"enable"		"0"
 		"hammerid"		"15710"
 		"m_iname"		"SpawnBreak_06"
+	}
+	"6315"
+	{
+		"enable"		"1"
+		"hammerid"		"6315"
+		"m_iname"		"boss"
 	}
 }

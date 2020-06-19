@@ -212,4 +212,10 @@
 		"hammerid"		"887070"
 		"m_iname"		"boss_surprise"
 	}
+	"258861"
+	{
+		"enable"		"1"
+		"hammerid"		"258861"
+		"m_iname"		"boss_tetris2&9605"
+	}
 }

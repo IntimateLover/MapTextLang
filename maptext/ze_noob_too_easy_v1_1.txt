@@ -1,0 +1,144 @@
+"Console_T"
+{
+	"***The platform will rise in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Slowfire***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Heal***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The button has been pressed***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will close in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up GodThunder***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie will teleport in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The fence will break in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Ammo***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up HurtFire***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Wind***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Earth***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Gravity***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Electric***"
+	{
+		"chi"		"** **"
+	}
+	"***The fence will break in 25 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Button has been pressed,keep defending***"
+	{
+		"chi"		"** **"
+	}
+	"***Button has been pressed,door will open ***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"30"
+	}
+	"***BOSS used laser***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used fire***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used gravity***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used push***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS used move wall***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 25 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Defende last 25 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Button has pressed,door will open***"
+	{
+		"chi"		"** **"
+	}
+	"***The dorr will open in 60 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The platform will moving in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Button has pressed,road will open in 30 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 60 seconds.***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Knigth***"
+	{
+		"chi"		"** **"
+	}
+	"***BOSS is died***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"66684"
+	}
+	"***A player has picked up FreezeIce***"
+	{
+		"chi"		"** **"
+	}
+}

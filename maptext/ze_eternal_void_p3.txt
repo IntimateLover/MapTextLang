@@ -10,6 +10,8 @@
 	"**** Spawn will open in 25 seconds****"
 	{
 		"chi"		"**25s后开放 **"
+		"command"		"zr_infect_spawntime_max 25"
+		"command"		"zr_infect_spawntime_min 25"
 	}
 	"****Map Created By GrandOp****"
 	{
@@ -68,6 +70,10 @@
 		"chi"		"**守住这里！塔顶端即将崩塌，你必须活着跳进去！ **"
 	}
 	"****Lift 2 is about to go****"
+	{
+		"chi"		"** **"
+	}
+	"****Jump inside the spire to stay alive! Keep zombies out!****"
 	{
 		"chi"		"** **"
 	}

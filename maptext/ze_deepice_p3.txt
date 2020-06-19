@@ -63,10 +63,12 @@
 	"*** Sea Hawk arrival soon ***"
 	{
 		"chi"		"**直升机将很快到达 **"
+		"DoorCountdown"		"98"
 	}
 	"*** Alien Reactor Overload 50% ***"
 	{
 		"chi"		"**外星人反应堆负载50% **"
+		"DoorCountdown"		"-1"
 	}
 	"*** Sea Hawk arrival immediately ***"
 	{
@@ -75,8 +77,9 @@
 	"*** Alien Reactor Overload 100% ***"
 	{
 		"chi"		"**外星人反应堆负载100% **"
+		"DoorCountdown"		"-1"
 	}
-	"*** TO BE CONTINUED ***"
+	"*** To Be Continued ***"
 	{
 		"chi"		"** **"
 	}

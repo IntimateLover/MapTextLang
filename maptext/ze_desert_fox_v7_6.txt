@@ -4,7 +4,7 @@
 	{
 		"chi"		"**抵御丧尸直到大门打开！**"
 	}
-	"Fall Back"
+	"FALL BACK"
 	{
 		"chi"		"**撤退！**"
 	}
@@ -40,6 +40,7 @@
 	"defend this spot few seconds"
 	{
 		"chi"		"**守住这里！！**"
+		"DoorCountdown"		"38"
 	}
 	"Fall Back !!!"
 	{

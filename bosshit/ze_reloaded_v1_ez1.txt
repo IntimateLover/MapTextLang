@@ -108,4 +108,34 @@
 		"hammerid"		"626357"
 		"m_iname"		"breakable.avion"
 	}
+	"2437"
+	{
+		"enable"		"-1"
+		"hammerid"		"2437"
+	}
+	"38827"
+	{
+		"enable"		"-1"
+		"hammerid"		"38827"
+	}
+	"38830"
+	{
+		"enable"		"-1"
+		"hammerid"		"38830"
+	}
+	"184789"
+	{
+		"enable"		"-1"
+		"hammerid"		"184789"
+	}
+	"184799"
+	{
+		"enable"		"-1"
+		"hammerid"		"184799"
+	}
+	"184802"
+	{
+		"enable"		"-1"
+		"hammerid"		"184802"
+	}
 }

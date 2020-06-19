@@ -144,10 +144,19 @@
 		"hammerid"		"34144"
 		"m_iname"		"Wall"
 	}
-	"55692"
+	"55867"
 	{
-		"enable"		"0"
-		"hammerid"		"55692"
-		"m_iname"		"Ice_Bridge_Brush"
+		"enable"		"-1"
+		"hammerid"		"55867"
+	}
+	"41587"
+	{
+		"enable"		"-1"
+		"hammerid"		"41587"
+	}
+	"41605"
+	{
+		"enable"		"-1"
+		"hammerid"		"41605"
 	}
 }

@@ -18,4 +18,39 @@
 		"hammerid"		"5331"
 		"m_iname"		"sex"
 	}
+	"6173"
+	{
+		"enable"		"-1"
+		"hammerid"		"6173"
+	}
+	"6624"
+	{
+		"enable"		"-1"
+		"hammerid"		"6624"
+	}
+	"4771"
+	{
+		"enable"		"-1"
+		"hammerid"		"4771"
+	}
+	"4823"
+	{
+		"enable"		"-1"
+		"hammerid"		"4823"
+	}
+	"4860"
+	{
+		"enable"		"-1"
+		"hammerid"		"4860"
+	}
+	"5365"
+	{
+		"enable"		"-1"
+		"hammerid"		"5365"
+	}
+	"833"
+	{
+		"enable"		"-1"
+		"hammerid"		"833"
+	}
 }

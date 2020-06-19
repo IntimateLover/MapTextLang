@@ -1,0 +1,252 @@
+"Console_T"
+{
+	"MAP MADE BY ricca2554"
+	{
+		"chi"		"**地图作者：ricca2554 翻译：血色的龙琉璃**"
+		"DoorCountdown"		"-1"
+	}
+	"***donut***"
+	{
+		"chi"		"**甜甜圈**"
+	}
+	"***JUMP ON THE BOAT WHEN THE TIME IS RIGHT***"
+	{
+		"chi"		"**请在合适的时间跳上船**"
+	}
+        "***someone has picked up a pistol***"
+	{
+	        "chi"           "**一名人类玩家捡起了手枪**"
+	}
+	"***20 SEC***"
+	{
+		"chi"		"**20秒**"
+	}
+	"***someone has picked up a c4***"
+	{
+		"chi"		"**一名人类玩家捡起了C4**"
+	}
+	"***BIG DOOR 55 SEC***"
+	{
+		"chi"		"**大门将在55秒后打开**"
+	}
+	"***RYAN WILL BRING YOU TO THE BATHROOM***"
+	{
+		"chi"		"**RYAN会带你去厕所**"
+	}
+	"***RYAN WILL HOLD YOU AGAINST THE WALL***"
+	{
+		"chi"		"**RYAN会阻止你前进**"
+	}
+	"***RYAN WILL HAVE FUN***"
+	{
+		"chi"		"**RYAN很高兴**"
+	}
+	"***someone has picked up a speedboost***"
+	{
+		"chi"		"**一名人类玩家捡起了加速**"
+	}
+	"***MAGIC LASER ATTACK***"
+	{
+		"chi"		"**魔法激光攻击 远离正中间**"
+	}
+	"***MAGIC PUSH LEFT***"
+	{
+		"chi"		"**左推力 按住D抵抗**"
+	}
+	"***MAGIC PUSH RIGHT***"
+	{
+		"chi"		"**右推力 按住A抵抗**"
+	}
+	"***BLUE THING IS ON***"
+	{
+	        "chi"           "**蓝色光桥出现**"
+	}
+        "***someone has picked up a pico orgy ***"
+	{       
+	        "chi"           "**一名人类玩家捡起了治疗**"
+	}
+        "***trees***"
+	{
+	        "chi"           "**树木**"
+        }
+        "***we water trees***"
+	{
+	        "chi"           "**我们给树木浇水**"
+        }
+	"***we grow trees***"
+	{
+	        "chi"            "**我们种植树木**"
+	}
+	"***we love trees***"
+	{
+	        "chi"            "**我们喜爱树木**"
+	}
+        "***trees help us breathe***"
+	{
+	        "chi"            "**树木帮助我们呼吸**"
+	}
+	"***we make trees in to paper***"
+	{
+	        "chi"            "**我们用树木造纸**"
+	}
+	"***we make trees in to pencils ***"
+	{
+	        "chi"            "**我们用树木制作铅笔**"
+	}
+	"***gate will die in 10***"
+	{
+	        "chi"            "**大门将在10秒后打开**"
+	}
+	"***door opens in 20***"
+	{
+	        "chi"            "**门将在20秒后打开**"
+	}
+	"***Vauff: i require immediate cock and ball torture***"
+	{
+	        "chi"            "**Vauff：我需要立即对丁丁进行酷刑**"
+	}
+	"***shoot the dicks***"
+	{
+	        "chi"            "**射爆丁丁**"
+	}
+	"***short cut lift leaves in 80***"
+	{
+	        "chi"            "**快捷升降机将在80秒后启动**"
+	}
+	"***short cut lift leaves in 10***"
+	{
+	        "chi"            "**快捷升降机将在10秒后启动**"
+	}
+	"***GATE OPENS IN 10 SEC***"
+	{
+	        "chi"            "**下路门将在10秒后打开**"
+	}
+	"**GATE OPENS IN 20 SEC***"
+	{
+	        "chi"            "**下路门将在20秒后打开**"
+	}
+	"***gate opens in 30 sec***"
+	{
+	        "chi"            "**大门将在30秒后打开**"
+	}
+	"***SHORTCUT GATE OPENS IN 40 SEC***"
+	{
+	        "chi"            "**捷径门将在40秒后打开**"
+	}
+	"***top gate opening in 60sec ***"
+	{
+	        "chi"            "**最终大门将在60秒后打开**"
+	}
+	"***you have killed all anime trash***"
+	{
+	        "chi"            "**所有的彩色板子已被击碎**"
+	}
+	"***extreme mode will start when you beat stage 3***"
+	{
+	         "chi"           "**EX关卡已解锁**"
+	}
+	"***good luck***"
+	{
+	         "chi"            "**祝你好运**"
+	}
+	"***wall thing comes out in 30 sec***"
+	{
+	         "chi"            "**第一块石板将在30秒后出现**"
+	}
+	"***wall thing comes out in 20 sec***"
+	{
+	         "chi"            "**第二块石板将在20秒后出现**"
+	}
+	"***wall thing comes out in 50 sec***"
+	{
+	         "chi"            "**第三块石板将在50秒后出现**"
+	}
+	"***top wall thing comes out in 40 sec***"
+	{
+	         "chi"            "**甜甜圈路石板将在40秒后出现**"
+	}
+	"***shoot the dirt***"
+	{
+	        "chi"             "**清除污秽**"
+	}
+	"***you have spanked aniki***"
+	{
+	         "chi"             "**你打了比利王的屁股**"
+	}
+	"***30 sec***"
+	{
+	          "chi"             "**30秒**"
+	}
+	"***someone has picked up a hotshotgun***"
+	{
+	          "chi"             "**一名人类玩家捡起了烈焰霰弹枪**"
+	}
+	"***someone has picked up a shotgun***"
+	{
+	           "chi"            "**一名人类玩家捡起了霰弹枪**"
+	}
+	"***elevator 30 sec***"
+	{
+	          "chi"             "**电梯将在30秒后离开**"
+	}
+	"***40 sec***"
+	{
+	           "chi"            "**40秒**"
+	}
+	"***come my son***"
+	{
+	          "chi"              "**孩子们快到我的怀抱里**"
+	}
+	"***billy has brought you to the one place where you can save japan***"
+	{
+	          "chi"              "**比利王把你带去一个可以拯救日本的地方**"
+	}
+	"***gate opens in 40 sec***"
+	{
+	          "chi"              "**大门将在40秒后打开**"
+	}
+	"***bring neko the donut***"
+	{
+	          "chi"              "**请把甜甜圈带给琪露诺**"
+	}
+	"***or die***"
+	{
+	         "chi"               "**或者死亡**"
+	}
+	"***gate opens in 5 sec***"
+	{
+	          "chi"              "**大门将在5秒后打开**"
+	}
+	"***gate opens in 4 sec***"
+	{
+	          "chi"               "**大门将在4秒后打开**"
+	}
+	"***gate opens in 3 sec***"
+	{
+	          "chi"               "**大门将在3秒后打开**"
+	}
+	"***gate opens in 2 sec***"
+	{
+	          "chi"                "**大门将在2秒后打开**"
+	}
+	"***gate opens in 1 sec***"
+	{
+	         "chi"                "**大门将在1秒后打开**"
+	}
+	"***go***"
+	{
+	         "chi"                "**撤退**"
+	}
+	"***jump***"
+	{
+	         "chi"                "**跳跃**"
+	}
+	"***good job yellow man***"
+	{
+	         "chi"                "**干的漂亮**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"39446"
+	}
+}

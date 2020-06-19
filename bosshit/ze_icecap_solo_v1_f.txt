@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"198153"
+	{
+		"enable"		"0"
+		"hammerid"		"198153"
+		"m_iname"		"ShortCut"
+	}
+	"200029"
+	{
+		"enable"		"0"
+		"hammerid"		"200029"
+		"m_iname"		"ShortCut"
+	}
+	"200197"
+	{
+		"enable"		"0"
+		"hammerid"		"200197"
+		"m_iname"		"ShortCut2"
+	}
+	"200298"
+	{
+		"enable"		"0"
+		"hammerid"		"200298"
+		"m_iname"		"ShortCut2"
+	}
+	"200337"
+	{
+		"enable"		"0"
+		"hammerid"		"200337"
+		"m_iname"		"ShortCut2"
+	}
+	"208224"
+	{
+		"enable"		"0"
+		"hammerid"		"208224"
+		"m_iname"		"OrangeBreak"
+	}
+	"347798"
+	{
+		"enable"		"0"
+		"hammerid"		"347798"
+		"m_iname"		"scianamalgo"
+	}
+	"41666"
+	{
+		"enable"		"0"
+		"hammerid"		"41666"
+		"m_iname"		"Break"
+	}
+	"41697"
+	{
+		"enable"		"0"
+		"hammerid"		"41697"
+		"m_iname"		"Break"
+	}
+	"41818"
+	{
+		"enable"		"0"
+		"hammerid"		"41818"
+		"m_iname"		"Bridge"
+	}
+	"42054"
+	{
+		"enable"		"0"
+		"hammerid"		"42054"
+		"m_iname"		"Bridge"
+	}
+	"42096"
+	{
+		"enable"		"0"
+		"hammerid"		"42096"
+		"m_iname"		"Bridge"
+	}
+	"42751"
+	{
+		"enable"		"0"
+		"hammerid"		"42751"
+		"m_iname"		"Bridge2"
+	}
+	"75518"
+	{
+		"enable"		"0"
+		"hammerid"		"75518"
+		"m_iname"		"Armory"
+	}
+	"136626"
+	{
+		"enable"		"0"
+		"hammerid"		"136626"
+		"m_iname"		"Container"
+	}
+	"89797"
+	{
+		"enable"		"0"
+		"hammerid"		"89797"
+		"m_iname"		"IceBlock"
+	}
+	"198091"
+	{
+		"enable"		"0"
+		"hammerid"		"198091"
+		"m_iname"		"ShortCut"
+	}
+}

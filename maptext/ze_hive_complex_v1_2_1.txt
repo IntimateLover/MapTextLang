@@ -2,281 +2,162 @@
 {
 	"*** Normal way ***"
 	{
-		"chi"		"**正常路线 翻译:Baka_Miku v.101**"
-	}
-	"*** Hard way ***"
-	{
-		"chi"		"**困难路线 翻译:Baka_Miku v.101**"
-	}
-	"***Break the door for enter in the manor***"
-	{
-		"chi"		"**打碎木门 **"
-	}
-	"***Find the elevator to enter in the complex ***"
-	{
-		"chi"		"**找到电梯以进入蜂巢 **"
+		"chi"		"** **"
 	}
 	"*** Easy way ***"
 	{
-		"chi"		"**简单路线 翻译:Baka_Miku v.101**"
+		"chi"		"** **"
+	}
+	"***Break the door for enter in the manor***"
+	{
+		"chi"		"** **"
+	}
+	"***Find the elevator to enter in the complex ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hard way ***"
+	{
+		"chi"		"** **"
 	}
 	"***Door open in 5 seconds***"
 	{
-		"chi"		"**门将在5秒后打开 **"
+		"chi"		"** **"
 	}
 	"*** Elevator leave in 10 seconds ***"
 	{
-		"chi"		"**电梯将在10秒后离开 **"
+		"chi"		"** **"
 	}
 	"***Train start in 20 seconds***"
 	{
-		"chi"		"**电车将在20秒后离开 **"
+		"chi"		"** **"
 	}
 	"***Second trains door open! ***"
 	{
-		"chi"		"**第二辆车厢门已打开 **"
+		"chi"		"** **"
 	}
 	"***Train start in 5 seconds***"
 	{
-		"chi"		"**电车将在5秒后离开 **"
+		"chi"		"** **"
 	}
 	"***Train leave***"
 	{
-		"chi"		"**电车已经离开 **"
+		"chi"		"** **"
 	}
 	"*** Use control panel to open the door ***"
 	{
-		"chi"		"**使用控制器以打开大门 **"
+		"chi"		"** **"
 	}
 	"***Door open in 10 seconds***"
 	{
-		"chi"		"**门将在10秒后打开 **"
+		"chi"		"** **"
 	}
 	"*** Elevator 1 coming in 10 seconds ***"
 	{
-		"chi"		"**一号电梯将在10秒后到达 **"
+		"chi"		"** **"
 	}
 	"*** Door malfunction ***"
 	{
-		"chi"		"**大门故障 **"
+		"chi"		"** **"
 	}
 	"*** 2nd elevator come in 5 seconds ***"
 	{
-		"chi"		"**二号电梯将在5秒后到达 **"
+		"chi"		"** **"
 	}
 	"*** 1st elevator leav in 5 seconds ***"
 	{
-		"chi"		"**一号电梯将在5秒后离开 **"
-	}
-	"*** 2nd elevator leave in 5 seconds ***"
-	{
-		"chi"		"**二号电梯将在5秒后离开 **"
+		"chi"		"** **"
 	}
 	"***Door open in 20 seconds***"
 	{
-		"chi"		"**门将在20秒后打开 **"
-		"DoorCountDown"		"20"
-	}
-	"*** Door open in 15 seconds ***"
-	{
-		"chi"		"**门将在15秒后打开 **"
-	}
-	"*** Door is open ***"
-	{
-		"chi"		"**门已经打开 **"
-	}
-	"*** Hold this position the door open soon ***"
-	{
-		"chi"		"**防守!门很快会打开 **"
-	}
-	"*** 5 seconds **"
-	{
-		"chi"		"**5秒! **"
+		"chi"		"** **"
 	}
 	"*** Elevators door open in 30 seconds ***"
 	{
-		"chi"		"**电梯门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+		"chi"		"** **"
 	}
 	"*** 15 seconds ***"
 	{
-		"chi"		"**15秒! **"
+		"chi"		"** **"
 	}
 	"***Elevators door open***"
 	{
-		"chi"		"**电梯门已经打开 **"
+		"chi"		"** **"
 	}
 	"*** 1st elevator leave in 5 seconds ***"
 	{
-		"chi"		"**一号电梯将在5秒后离开 **"
+		"chi"		"** **"
 	}
 	"*** Second elevators door open ***"
 	{
-		"chi"		"**二号电梯门已打开 **"
+		"chi"		"** **"
 	}
 	"*** Red Queen self defens activated ***"
 	{
-		"chi"		"**激光防御系统已激活 **"
+		"chi"		"** **"
 	}
 	"*** Your team is trapped in laser room ***"
 	{
-		"chi"		"**你的队伍被困在了激光房 **"
+		"chi"		"** **"
 	}
 	"*** Load program in computer for save him ***"
 	{
-		"chi"		"**重载系统以拯救他们 **"
+		"chi"		"** **"
 	}
-	"*** Loading program !! Please wait !!! ***"
+	"*** Door open in 15 seconds ***"
 	{
-		"chi"		"**正在重载系统 请等待 **"
+		"chi"		"** **"
 	}
-	"*** Progress : 25 % ***"
+	"*** Door is open ***"
 	{
-		"chi"		"**进程:25% **"
+		"chi"		"** **"
 	}
-	"*** Progress : 50 % ***"
+	"*** Hold this position the door open soon ***"
 	{
-		"chi"		"**进程:50% **"
+		"chi"		"** **"
 	}
-	"*** Progress : 75 % ***"
+	"*** 5 seconds **"
 	{
-		"chi"		"**进程:75% **"
+		"chi"		"** **"
+	}
+	"*** 2nd elevator leave in 5 seconds ***"
+	{
+		"chi"		"** **"
 	}
 	"*** FATAL ERROR !!! ***"
 	{
-		"chi"		"**错误! **"
-	}
-	"*** Progress : 100 % ***"
-	{
-		"chi"		"**进程:100% **"
+		"chi"		"** **"
 	}
 	"*** SELF DESTRUCTION IMINENT !!! ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Programm loaded !! ***"
-	{
-		"chi"		"**系统已重载 **"
-	}
-	"*** Hurry !!! Use other computer to diactive laser ***"
-	{
-		"chi"		"**快!使用另一个电脑来关闭激光 **"
-	}
 	"*** Exit door openning ***"
-	{
-		"chi"		"**安全门已打开 **"
-	}
-	"*** Run for your life !!! ***"
-	{
-		"chi"		"**跑! **"
-	}
-	"*** Hold 20 seconds ***"
-	{
-		"chi"		"**防御20秒 **"
-	}
-	"*** Beware of dog !!! ***"
-	{
-		"chi"		"**当心恶犬! **"
-	}
-	"*** You can kill it !! ***"
-	{
-		"chi"		"**你可以杀死它! **"
-	}
-	"*** 10 seconds ***"
-	{
-		"chi"		"**10秒! **"
-	}
-	"*** GO its open !! ***"
-	{
-		"chi"		"**走!门已打开 **"
-	}
-	"*** Door open in 10 seconds ***"
-	{
-		"chi"		"**门将在10秒后打开 **"
-	}
-	"*** Parking door openning in 10 seconds  ***"
-	{
-		"chi"		"**停车场大门将在10秒后打开 **"
-	}
-	"*** Go in the wood house to call rescue ***"
-	{
-		"chi"		"**进入木房子以呼叫救援 **"
-	}
-	"*** Helicopters rescue coming in 60 seconds ***"
-	{
-		"chi"		"**直升机将在60秒后到达 **"
-		"DoorCountDown"		"60"
-	}
-	"*** 30 seconds left!! Resist or die !!! ***"
-	{
-		"chi"		"**还有30秒! **"
-	}
-	"*** Door openning in 20 seconds ***"
-	{
-		"chi"		"**门将在20秒后打开 **"
-	}
-	"*** HURRY !!! The door cant stay open ***"
-	{
-		"chi"		"**快!门将会关闭 **"
-	}
-	"*** Elevator leave in 20 seconds ***"
-	{
-		"chi"		"**电梯将在20秒后打开 **"
-	}
-	"*** Elevator leave ***"
-	{
-		"chi"		"**电梯已离开 **"
-	}
-	"*** Special thanks for Mapeadores to beta test map ***"
-	{
-		"chi"		"**感谢Mapeadores测试地图 **"
-	}
-	"*** Explosion imminent ***"
-	{
-		"chi"		"**核爆将至 **"
-	}
-	"*** 5 ***"
-	{
-		"chi"		"**5 **"
-	}
-	"*** 4 ***"
-	{
-		"chi"		"**4 **"
-	}
-	"*** 3 ***"
-	{
-		"chi"		"**3 **"
-	}
-	"*** 2 ***"
-	{
-		"chi"		"**2 **"
-	}
-	"*** 1 ***"
-	{
-		"chi"		"**1 **"
-	}
-	"*** Laser off !! Go disable Red Queen !! ***"
-	{
-		"chi"		"**激光已关闭 **"
-	}
-	"*** Helicopters recue incoming ***"
-	{
-		"chi"		"**直升机已到达 **"
-	}
-	"*** Helicopter leave in 10 seconds ***"
-	{
-		"chi"		"**直升机将在10秒后到达 **"
-	}
-	"*** Helicopter leave !! ***"
-	{
-		"chi"		"**直升机已离开 **"
-	}
-	"*** Special thanks for Mapeadores for beta test map ***"
 	{
 		"chi"		"** **"
 	}
-	"*** Hive complex will explode in 5 seconds ***"
+	"*** Run for your life !!! ***"
 	{
-		"chi"		"**蜂巢将在5秒后爆炸**"
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Beware of dog !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You can kill it !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO its open !! ***"
+	{
+		"chi"		"** **"
 	}
 }

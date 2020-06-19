@@ -1,16 +1,16 @@
 "Console_T"
 {
-	"*** map created by thas ***"
+	"*** Map created by thas ***"
 	{
-		"chi"		"**地图制作：thas 地图翻译：清新的二哈♪ **"
+		"chi"		"** **"
 	}
 	"*** You are in the highest building ***"
 	{
-		"chi"		"**你正位于这座城市最高大楼的屋顶**"
+		"chi"		"** **"
 	}
 	"*** Try to go to lowest building ! ***"
 	{
-		"chi"		"**尝试到最低的大楼去**"
+		"chi"		"** **"
 	}
 	"*** ze_highest_to_lowest ***"
 	{
@@ -18,46 +18,50 @@
 	}
 	"*** Defend for 15 seconds ***"
 	{
-		"chi"		"**守住15秒**"
+		"chi"		"** **"
 	}
 	"*** Remaining buildings : 6 ***"
 	{
-		"chi"		"**到达6号大楼 **"
+		"chi"		"** **"
 	}
-	"*** DEFEND FOR 30 SECONDS ***"
+	"*** Defend for 30 seconds ***"
 	{
-		"chi"		"**守住30秒**"
+		"chi"		"** **"
 	}
 	"*** Remaining buildings : 5 ***"
 	{
-		"chi"		"**到达5号大楼 **"
+		"chi"		"** **"
 	}
 	"*** Remaining buildings : 4 ***"
 	{
-		"chi"		"**到达4号大楼 **"
+		"chi"		"** **"
 	}
 	"*** Remaining buildings : 3 ***"
 	{
-		"chi"		"**到达3号大楼 **"
+		"chi"		"** **"
 	}
 	"*** Defend for 35 seconds ***"
 	{
-		"chi"		"**守住35秒**"
+		"chi"		"** **"
 	}
 	"*** Remaining buildings : 2 ***"
 	{
-		"chi"		"**到达2号大楼 **"
+		"chi"		"** **"
 	}
 	"*** Remaining buildings : 1 ***"
 	{
-		"chi"		"**到达1号大楼 **"
+		"chi"		"** **"
 	}
 	"*** Final Defend ! Defend for 45 seconds ! ***"
 	{
-		"chi"		"**我们已到达最后的守点，防守45秒**"
+		"chi"		"** **"
 	}
 	"*** Humans Win ! ***"
 	{
-		"chi"		"**人类胜利**"
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
 	}
 }

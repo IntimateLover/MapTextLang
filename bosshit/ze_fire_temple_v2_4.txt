@@ -68,7 +68,7 @@
 	}
 	"359612"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"359612"
 		"m_iname"		"NPC4"
 	}
@@ -80,7 +80,7 @@
 	}
 	"359767"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"359767"
 		"m_iname"		"NPC5"
 	}
@@ -92,7 +92,7 @@
 	}
 	"343831"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"343831"
 		"m_iname"		"NPC2"
 	}
@@ -104,13 +104,13 @@
 	}
 	"343969"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"343969"
 		"m_iname"		"NPC3"
 	}
 	"328009"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"328009"
 		"m_iname"		"NPC1"
 	}
@@ -149,5 +149,26 @@
 		"enable"		"0"
 		"hammerid"		"14971"
 		"m_iname"		"Breakable_1"
+	}
+	"363969"
+	{
+		"enable"		"0"
+		"hammerid"		"363969"
+		"m_iname"		"mt_add"
+	}
+	"18280"
+	{
+		"enable"		"-1"
+		"hammerid"		"18280"
+	}
+	"12810"
+	{
+		"enable"		"-1"
+		"hammerid"		"12810"
+	}
+	"13561"
+	{
+		"enable"		"-1"
+		"hammerid"		"13561"
 	}
 }

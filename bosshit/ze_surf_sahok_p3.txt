@@ -58,4 +58,10 @@
 		"hammerid"		"43667"
 		"m_iname"		"Boss_Physbox"
 	}
+	"98120"
+	{
+		"enable"		"1"
+		"hammerid"		"98120"
+		"m_iname"		"Boss_Nade"
+	}
 }

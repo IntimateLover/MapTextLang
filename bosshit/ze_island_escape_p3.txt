@@ -1,83 +1,5 @@
 "BOSSHP"
 {
-	"7153"
-	{
-		"enable"		"0"
-		"hammerid"		"7153"
-		"m_iname"		"log_1"
-	}
-	"7185"
-	{
-		"enable"		"0"
-		"hammerid"		"7185"
-		"m_iname"		"log_3"
-	}
-	"7233"
-	{
-		"enable"		"0"
-		"hammerid"		"7233"
-		"m_iname"		"log_2"
-	}
-	"8932"
-	{
-		"enable"		"0"
-		"hammerid"		"8932"
-		"m_iname"		"trap_1_rock"
-	}
-	"9078"
-	{
-		"enable"		"0"
-		"hammerid"		"9078"
-		"m_iname"		"trap_1_plat"
-	}
-	"11777"
-	{
-		"enable"		"0"
-		"hammerid"		"11777"
-		"m_iname"		"logo_P"
-	}
-	"11808"
-	{
-		"enable"		"0"
-		"hammerid"		"11808"
-		"m_iname"		"logo_S"
-	}
-	"11876"
-	{
-		"enable"		"0"
-		"hammerid"		"11876"
-		"m_iname"		"logo_U"
-	}
-	"11898"
-	{
-		"enable"		"0"
-		"hammerid"		"11898"
-		"m_iname"		"logo_N"
-	}
-	"11920"
-	{
-		"enable"		"0"
-		"hammerid"		"11920"
-		"m_iname"		"logo_K"
-	}
-	"11942"
-	{
-		"enable"		"0"
-		"hammerid"		"11942"
-		"m_iname"		"logo_Y"
-	}
-	"12147"
-	{
-		"enable"		"0"
-		"hammerid"		"12147"
-		"m_iname"		"bar_1"
-	}
-	"12170"
-	{
-		"enable"		"0"
-		"hammerid"		"12170"
-		"m_iname"		"log_trap_1"
-	}
 	"4753"
 	{
 		"enable"		"0"
@@ -125,6 +47,24 @@
 		"enable"		"0"
 		"hammerid"		"6914"
 		"m_iname"		"bridge_1_start_posts"
+	}
+	"7153"
+	{
+		"enable"		"0"
+		"hammerid"		"7153"
+		"m_iname"		"log_1"
+	}
+	"7185"
+	{
+		"enable"		"0"
+		"hammerid"		"7185"
+		"m_iname"		"log_3"
+	}
+	"7233"
+	{
+		"enable"		"0"
+		"hammerid"		"7233"
+		"m_iname"		"log_2"
 	}
 	"7440"
 	{
@@ -510,6 +450,18 @@
 		"hammerid"		"8824"
 		"m_iname"		"up_spikes3"
 	}
+	"8932"
+	{
+		"enable"		"0"
+		"hammerid"		"8932"
+		"m_iname"		"trap_1_rock"
+	}
+	"9078"
+	{
+		"enable"		"0"
+		"hammerid"		"9078"
+		"m_iname"		"trap_1_plat"
+	}
 	"9107"
 	{
 		"enable"		"0"
@@ -575,6 +527,54 @@
 		"enable"		"0"
 		"hammerid"		"11297"
 		"m_iname"		"barrier_5_breakable"
+	}
+	"11777"
+	{
+		"enable"		"0"
+		"hammerid"		"11777"
+		"m_iname"		"logo_P"
+	}
+	"11808"
+	{
+		"enable"		"0"
+		"hammerid"		"11808"
+		"m_iname"		"logo_S"
+	}
+	"11876"
+	{
+		"enable"		"0"
+		"hammerid"		"11876"
+		"m_iname"		"logo_U"
+	}
+	"11898"
+	{
+		"enable"		"0"
+		"hammerid"		"11898"
+		"m_iname"		"logo_N"
+	}
+	"11920"
+	{
+		"enable"		"0"
+		"hammerid"		"11920"
+		"m_iname"		"logo_K"
+	}
+	"11942"
+	{
+		"enable"		"0"
+		"hammerid"		"11942"
+		"m_iname"		"logo_Y"
+	}
+	"12147"
+	{
+		"enable"		"0"
+		"hammerid"		"12147"
+		"m_iname"		"bar_1"
+	}
+	"12170"
+	{
+		"enable"		"0"
+		"hammerid"		"12170"
+		"m_iname"		"log_trap_1"
 	}
 	"13652"
 	{

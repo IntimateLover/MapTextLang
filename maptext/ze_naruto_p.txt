@@ -44,7 +44,7 @@
 	{
 		"chi"		"**10秒后传送在出生点的挂机玩家 **"
 	}
-	"** 20 SECONDS LEFT **"
+	"** 20 seconds left **"
 	{
 		"chi"		"** 还剩20秒**"
 		"DoorCountdown"		"20"
@@ -58,7 +58,7 @@
 	{
 		"chi"		"**清理在出生点的挂机玩家 **"
 	}
-	"** 10 SECONDS LEFT **"
+	"** 10 seconds left **"
 	{
 		"chi"		"**还剩10秒 **"
 	}
@@ -66,7 +66,7 @@
 	{
 		"chi"		"**洞穴的路将在10秒内开放！ **"
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 Seconds left **"
 	{
 		"chi"		"**还剩5秒 **"
 	}
@@ -81,6 +81,7 @@
 	"** CITY's AFK TELEPORT IN 10s **"
 	{
 		"chi"		"**城里的挂机玩家将在10秒内传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"** CITY's AFK TELEPORT **"
 	{
@@ -240,6 +241,7 @@
 	"** CITYs AFK TELEPORT IN 10s **"
 	{
 		"chi"		"**城里的挂机玩家将在10秒内传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"** CITYs AFK TELEPORT **"
 	{
@@ -332,16 +334,17 @@
 	"***CITY AFK TELEPORT IN 10s***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"***15 SECOND LEFT***"
 	{
 		"chi"		"** **"
 	}
-	"***10 SECOND LEFT***"
+	"***10 second left***"
 	{
 		"chi"		"** **"
 	}
-	"***5 SECOND LEFT***"
+	"***5 Second left***"
 	{
 		"chi"		"** **"
 	}
@@ -369,11 +372,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***30 SECONDS LEFT***"
+	"***30 seconds left***"
 	{
 		"chi"		"** **"
 	}
-	"***20 SECOND LEFT***"
+	"***20 second left***"
 	{
 		"chi"		"** **"
 	}
@@ -401,7 +404,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***30 SECOND LEFT***"
+	"***30 second left***"
 	{
 		"chi"		"** **"
 	}
@@ -455,6 +458,106 @@
 	}
 	"***NEXT DIFFICULTY  EXTREM***"
 	{
-		"chi"		"** **"          
+		"chi"		"** **"
+	}
+	"***!!! CURRENT DIFFICULTY EXTREM !!!***"
+	{
+		"chi"		"** **"
+	}
+	"***Naruto is fighting Sasuke! Go find and help him!***"
+	{
+		"chi"		"** **"
+	}
+	"***35 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***45 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***40 SECOND LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO IS FIGHTING AGAINST SASUKE***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***"
+	{
+		"chi"		"** **"
+	}
+	"***SASUKE IS PREPARING HIS ATTACK! WATCH OUT!***"
+	{
+		"chi"		"** **"
+	}
+	"***SASUKE HAS CLONED HIMSELF***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL ALL CLONES BEFORE THEY ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***USE YOUR GRENADE TO DO MORE DAMAGE***"
+	{
+		"chi"		"** **"
+	}
+	"***SASUKE SUCCEEDED HIS ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***WE DONT HAVE THE RIGHT TO MAKE ANOTHER ERROR***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT !!! YOU DEFEATED SASUKE***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU BEAT EXTREME DIFFICULTY***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU CAN CHOOSE THE NEXT DIFFICULTY***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY : EXTREM ***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY : HARD ***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY : EASY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Admin Room Abuse ! Next Difficulty : Extrem ***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT DIFFICULTY : NORMAL ***"
+	{
+		"chi"		"** **"
 	}
 }

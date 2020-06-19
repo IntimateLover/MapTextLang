@@ -146,7 +146,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"4559"
-		"m_iname"		"Cannon_brick&0759"
+		"m_iname"		"Cannon_brick&5272"
 	}
 	"1993"
 	{
@@ -176,13 +176,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"23192"
-		"m_iname"		"mine_phbox&2489"
+		"m_iname"		"mine_phbox&5243"
 	}
 	"4589"
 	{
 		"enable"		"0"
 		"hammerid"		"4589"
-		"m_iname"		"retard_bomb&2620"
+		"m_iname"		"retard_bomb&2218"
 	}
 	"2080"
 	{
@@ -212,7 +212,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1911"
-		"m_iname"		"blockade&1168"
+		"m_iname"		"blockade&5134"
 	}
 	"4533"
 	{
@@ -616,8 +616,39 @@
 	}
 	"233462"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"233462"
 		"m_iname"		"mouth_phbox"
+	}
+	"236021"
+	{
+		"enable"		"0"
+		"hammerid"		"236021"
+		"m_iname"		"mouth_nade"
+	}
+	"2566"
+	{
+		"enable"		"-1"
+		"hammerid"		"2566"
+	}
+	"2568"
+	{
+		"enable"		"-1"
+		"hammerid"		"2568"
+	}
+	"2570"
+	{
+		"enable"		"-1"
+		"hammerid"		"2570"
+	}
+	"2609"
+	{
+		"enable"		"-1"
+		"hammerid"		"2609"
+	}
+	"2663"
+	{
+		"enable"		"-1"
+		"hammerid"		"2663"
 	}
 }

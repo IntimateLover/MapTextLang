@@ -7,7 +7,7 @@
 	"*Defend Inside for 45s!*"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"45"
+		"DoorCountdown"		"45"
 	}
 	"*5 Seconds Left!*"
 	{
@@ -16,7 +16,7 @@
 	"*Hold here for 30s!*"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*10 seconds left!*"
 	{
@@ -41,7 +41,7 @@
 	"*Castle Doors open in 15s!*"
 	{
 		"chi"		"**城堡大门在15秒后打开！ **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"*Castle Doors Open!*"
 	{
@@ -54,18 +54,22 @@
 	"*Portal 25 percent charged*"
 	{
 		"chi"		"**已充电25%！ **"
+		"DoorCountdown"		"-1"
 	}
 	"*Portal 50 percent charged!*"
 	{
 		"chi"		"**已充电50%！ **"
+		"DoorCountdown"		"-1"
 	}
 	"*Portal 75 percent charged!!*"
 	{
 		"chi"		"**已充电75% ！**"
+		"DoorCountdown"		"-1"
 	}
 	"*Portal 100 percent charged!*"
 	{
 		"chi"		"**充电完成！ **"
+		"DoorCountdown"		"-1"
 	}
 	"*Jump into the middle of the portal!*"
 	{
@@ -164,6 +168,10 @@
 		"chi"		"** **"
 	}
 	"*Youre taking too long!*"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

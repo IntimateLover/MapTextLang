@@ -1,11 +1,5 @@
 "BOSSHP"
 {
-	"197689"
-	{
-		"enable"		"0"
-		"hammerid"		"197689"
-		"m_iname"		"engineer_wall&0149"
-	}
 	"341631"
 	{
 		"enable"		"0"
@@ -119,59 +113,5 @@
 		"enable"		"0"
 		"hammerid"		"247114"
 		"m_iname"		"ovi_reitti"
-	}
-	"173170"
-	{
-		"enable"		"0"
-		"hammerid"		"173170"
-		"m_iname"		"puolustus2_clip"
-	}
-	"102058"
-	{
-		"enable"		"0"
-		"hammerid"		"102058"
-		"m_iname"		"glass_break2"
-	}
-	"109076"
-	{
-		"enable"		"0"
-		"hammerid"		"109076"
-		"m_iname"		"hard_block"
-	}
-	"106003"
-	{
-		"enable"		"0"
-		"hammerid"		"106003"
-		"m_iname"		"easy_block1"
-	}
-	"117486"
-	{
-		"enable"		"0"
-		"hammerid"		"117486"
-		"m_iname"		"glass_break"
-	}
-	"145789"
-	{
-		"enable"		"0"
-		"hammerid"		"145789"
-		"m_iname"		"easy_block_down"
-	}
-	"103198"
-	{
-		"enable"		"0"
-		"hammerid"		"103198"
-		"m_iname"		"hard_slope"
-	}
-	"189174"
-	{
-		"enable"		"0"
-		"hammerid"		"189174"
-		"m_iname"		"break_extreme"
-	}
-	"275418"
-	{
-		"enable"		"0"
-		"hammerid"		"275418"
-		"m_iname"		"break_extreme"
 	}
 }

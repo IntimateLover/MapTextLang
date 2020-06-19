@@ -1,0 +1,141 @@
+"BOSSHP"
+{
+	"253006"
+	{
+		"enable"		"0"
+		"hammerid"		"253006"
+		"m_iname"		"stage1_ladder_breakable"
+	}
+	"253028"
+	{
+		"enable"		"0"
+		"hammerid"		"253028"
+		"m_iname"		"stage1_ladder_breakable"
+	}
+	"233506"
+	{
+		"enable"		"0"
+		"hammerid"		"233506"
+		"m_iname"		"stage1_breakable1"
+	}
+	"233542"
+	{
+		"enable"		"0"
+		"hammerid"		"233542"
+		"m_iname"		"stage1_breakable1"
+	}
+	"233875"
+	{
+		"enable"		"0"
+		"hammerid"		"233875"
+		"m_iname"		"stage1_breakable2"
+	}
+	"236049"
+	{
+		"enable"		"0"
+		"hammerid"		"236049"
+		"m_iname"		"stage1_breakable4"
+	}
+	"237213"
+	{
+		"enable"		"0"
+		"hammerid"		"237213"
+		"m_iname"		"stage1_seal"
+	}
+	"142944"
+	{
+		"enable"		"0"
+		"hammerid"		"142944"
+		"m_iname"		"stage2_2f_seal3"
+	}
+	"143116"
+	{
+		"enable"		"0"
+		"hammerid"		"143116"
+		"m_iname"		"stage2_2f_wall"
+	}
+	"143135"
+	{
+		"enable"		"0"
+		"hammerid"		"143135"
+		"m_iname"		"stage2_2f_wall"
+	}
+	"143618"
+	{
+		"enable"		"0"
+		"hammerid"		"143618"
+		"m_iname"		"stage2_win_barrier"
+	}
+	"139270"
+	{
+		"enable"		"0"
+		"hammerid"		"139270"
+		"m_iname"		"stage2_2f_seal2"
+	}
+	"140534"
+	{
+		"enable"		"0"
+		"hammerid"		"140534"
+		"m_iname"		"stage2_2f_seal1"
+	}
+	"140810"
+	{
+		"enable"		"0"
+		"hammerid"		"140810"
+		"m_iname"		"stage2_2f_ladder1"
+	}
+	"140869"
+	{
+		"enable"		"0"
+		"hammerid"		"140869"
+		"m_iname"		"stage2_2f_ladder2"
+	}
+	"140969"
+	{
+		"enable"		"0"
+		"hammerid"		"140969"
+		"m_iname"		"stage2_2f_ladder2"
+	}
+	"131536"
+	{
+		"enable"		"0"
+		"hammerid"		"131536"
+		"m_iname"		"stage2_1f_seal"
+	}
+	"240224"
+	{
+		"enable"		"0"
+		"hammerid"		"240224"
+		"m_iname"		"keyitem_torch_model"
+	}
+	"104668"
+	{
+		"enable"		"0"
+		"hammerid"		"104668"
+		"m_iname"		"stage2_2f_bridge"
+	}
+	"104674"
+	{
+		"enable"		"0"
+		"hammerid"		"104674"
+		"m_iname"		"stage2_2f_bridge"
+	}
+	"54112"
+	{
+		"enable"		"0"
+		"hammerid"		"54112"
+		"m_iname"		"stage2_2f_bridge"
+	}
+	"55120"
+	{
+		"enable"		"0"
+		"hammerid"		"55120"
+		"m_iname"		"crystal_breakable"
+	}
+	"34047"
+	{
+		"enable"		"0"
+		"hammerid"		"34047"
+		"m_iname"		"item_blade_effect"
+	}
+}

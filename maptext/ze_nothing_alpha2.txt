@@ -2,7 +2,7 @@
 {
 	"*** WARNING: This map is alpha version yet! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**注意！此版本为测试版本。**"
 	}
 	"*** STAGE 1 ***"
 	{
@@ -86,6 +86,6 @@
 	}
 	"*** YOU DID IT!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你通关了！**"
 	}
 }

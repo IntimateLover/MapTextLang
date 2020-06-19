@@ -1,0 +1,33 @@
+"BOSSHP"
+{
+	"30593"
+	{
+		"enable"		"1"
+		"hammerid"		"30593"
+		"m_iname"		"boss_physbox"
+	}
+	"59272"
+	{
+		"enable"		"0"
+		"hammerid"		"59272"
+		"m_iname"		"skybox_physbox_yellow&3353"
+	}
+	"59227"
+	{
+		"enable"		"0"
+		"hammerid"		"59227"
+		"m_iname"		"skybox_physbox_blue&3341"
+	}
+	"59263"
+	{
+		"enable"		"0"
+		"hammerid"		"59263"
+		"m_iname"		"skybox_physbox_red&3339"
+	}
+	"59284"
+	{
+		"enable"		"0"
+		"hammerid"		"59284"
+		"m_iname"		"skybox_physbox_green&3347"
+	}
+}

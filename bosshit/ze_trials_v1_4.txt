@@ -222,16 +222,16 @@
 		"hammerid"		"38206"
 		"m_iname"		"Level_1_Boss_Breakable"
 	}
-	"4969"
-	{
-		"enable"		"0"
-		"hammerid"		"4969"
-		"m_iname"		"Glass_Beginning"
-	}
 	"6654"
 	{
 		"enable"		"0"
 		"hammerid"		"6654"
+		"m_iname"		"Glass_Beginning"
+	}
+	"4969"
+	{
+		"enable"		"0"
+		"hammerid"		"4969"
 		"m_iname"		"Glass_Beginning"
 	}
 	"41482"

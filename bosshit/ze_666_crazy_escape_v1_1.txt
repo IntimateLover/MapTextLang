@@ -1,5 +1,11 @@
 "BOSSHP"
 {
+	"77811"
+	{
+		"enable"		"1"
+		"hammerid"		"77811"
+		"m_iname"		"nrk1_boss_sacrifice_break"
+	}
 	"62470"
 	{
 		"enable"		"0"
@@ -46,12 +52,6 @@
 	{
 		"enable"		"1"
 		"hammerid"		"51265"
-		"m_iname"		"nrk1_laserboss_2_break"
-	}
-	"77811"
-	{
-		"enable"		"1"
-		"hammerid"		"77811"
-		"m_iname"		"nrk1_boss_sacrifice_break"
+		"m_iname"		"nrk1_laserboss_2_hitbox"
 	}
 }

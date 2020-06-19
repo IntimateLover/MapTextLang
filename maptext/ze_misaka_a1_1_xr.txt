@@ -1,0 +1,167 @@
+"Console_T"
+{
+	"<< Map by Misaka >>"
+	{
+		"chi"		">>>地图作者：Misaka  感谢KK提供老版本图源<<<"
+	}
+	"<< this is the test version >>"
+	{
+		"chi"		">>>这是老版本！活动专用！<<<"
+	}
+	"<< teleport will be enabled in 20 seconds >>"
+	{
+		"chi"		">>>20秒后传送<<<"
+	}
+	"<< teleport will be enabled in 10 seconds >>"
+	{
+		"chi"		">>>还剩10秒<<<"
+	}
+	"<< human teleported >>"
+	{
+		"chi"		">>>人类传送<<<"
+	}
+	"<< zombie will be teleported soon >>"
+	{
+		"chi"		">>>僵尸即将传送<<<"
+	}
+	"<< zombie teleported >>"
+	{
+		"chi"		">>>僵尸传送<<<"
+	}
+	"<< the way will be able to pass in 25 seconds >>"
+	{
+		"chi"		">>>25秒后开路<<<"
+	}
+	"<< 5 more seconds >>"
+	{
+		"chi"		">>>还剩5秒<<<"
+	}
+	"<< we need to wait the platform for 25 seconds >>"
+	{
+		"chi"		">>>平台25秒后下降<<<"
+	}
+	"<< the platform will rise in 20 seconds >>"
+	{
+		"chi"		">>>平台将会在20秒后再次上升<<<"
+	}
+	"<< the wall will disappear in 30 seconds >>"
+	{
+		"chi"		">>>30秒后墙消失<<<"
+	}
+	"<< we need to find a way to go on >>"
+	{
+		"chi"		">>>我们需要找到前进的办法<<<"
+	}
+	"<< the front wall will disappear in 15 seconds >>"
+	{
+		"chi"		">>>墙会在15秒后消失<<<"
+	}
+	"<< we can go inside the room in 20 seconds >>"
+	{
+		"chi"		">>>20秒后可以进入屋子<<<"
+	}
+	"<< defend for 10 seconds >>"
+	{
+		"chi"		">>>防守10秒<<<"
+	}
+	"<< defend for 20 seconds >>"
+	{
+		"chi"		">>>防守20秒<<<"
+	}
+	"<< the platform will move in 15 seconds >>"
+	{
+		"chi"		">>>平台将会在15秒后移动<<<"
+	}
+	"<< 5 seconds to move >>"
+	{
+		"chi"		">>>还剩5秒<<<"
+	}
+	"<< the platform will move again in 10 seconds >>"
+	{
+		"chi"		">>>平台将会在10秒后再次移动<<<"
+	}
+	"<< boss fight will begin in 10 seconds >>"
+	{
+		"chi"		">>>10秒后开启boss战<<<"
+	}
+	"<< defeat the boss or survive for 120 seconds >>"
+	{
+		"chi"		">>>击败boss或者生存120秒<<<"
+	}
+	"<< Trials of Sword >>"
+	{
+		"chi"		">>>剑之审判（老版本4刀）<<<"
+	}
+	"<< MEGA PUSH >>"
+	{
+		"chi"		">>>三连推<<<"
+	}
+	"<< Dark Wave >>"
+	{
+		"chi"		">>>暗黑涌动（尸笼）<<<"
+	}
+	"<< Fallen Sky >>"
+	{
+		"chi"		">>>天坠<<<"
+	}
+	"<< boss is defeated >>"
+	{
+		"chi"		">>>boss炸了<<<"
+	}
+	"<< a bridge appears >>"
+	{
+		"chi"		">>>桥出现了<<<"
+	}
+	"<< zombie will release in 12 seconds >>"
+	{
+		"chi"		">>>僵尸将会在12秒后自由<<<"
+	}
+	"<< the glass wall will break in 15 seconds >>"
+	{
+		"chi"		">>>玻璃将会在15秒后破碎<<<"
+	}
+	"<< we can reach the top in 50 seconds >>"
+	{
+		"chi"		">>>最后防守50秒！<<<"
+	}
+	"<< the final platform will move in 3 seconds >>"
+	{
+		"chi"		">>>平台将在3秒后移动<<<"
+	}
+	"<< wait ...... something may happen ...... >>"
+	{
+		"chi"		">>>算了你们都知道要发生什么了<<<"
+	}
+	"<< Its Misaka !!! >>"
+	{
+		"chi"		">>>就是这个SB做了这张图<<<"
+	}
+	"<< dodge the laser !!! >>"
+	{
+		"chi"		">>>怎么会有这么多跳刀啊？<<<"
+	}
+	"<< more laser is coming !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< up and down !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Congratulation !!! >>"
+	{
+		"chi"		">>>这就是最开始的版本了<<<"
+	}
+	"<< You have already beaten this map !!! >>"
+	{
+		"chi"		">>>不错啊，通关了<<<"
+	}
+	"<< more level will in the future >>"
+	{
+		"chi"		">>>未来会有更多关卡（个屁）<<<"
+	}
+	"<< GIGA DRAIN >>"
+	{
+		"chi"		">>>二连吸<<<"
+	}
+}

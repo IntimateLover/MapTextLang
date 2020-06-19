@@ -82,6 +82,7 @@
 	">>>FIND THE C4 OUTSIDE<<<"
 	{
 		"chi"		"去外面找c4！"
+		"DoorCountdown"		"-1"
 	}
 	">>>HOLD THE ENTRANCE UNTIL DOOR B IS OPEN!<<<"
 	{
@@ -94,14 +95,17 @@
 	">>>C4 has been picked<<<"
 	{
 		"chi"		"c4已被捡起"
+		"DoorCountdown"		"-1"
 	}
 	">>>BRING THE C4 TO DOOR B<<<"
 	{
 		"chi"		"带着c4去B门！"
+		"DoorCountdown"		"-1"
 	}
 	">>>C4 has been placed. Hold 10 seconds!<<<"
 	{
 		"chi"		"C4已安放，守住10秒！"
+		"DoorCountdown"		"10"
 	}
 	"DoorCountdown"		"10"
 	">>>TEAM FALL BACK<<<"
@@ -197,5 +201,4 @@
 	{
 		"chi"		"跑！！！！！！"
 	}
-
 }

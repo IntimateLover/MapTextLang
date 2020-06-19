@@ -1,44 +1,42 @@
 "Console_T"
 {
+	"*** Map by AERIS.004 ***"
+	{
+		"chi"		"** **"
+	}
 	"*** Door will close in 5 secs ***"
 	{
-		"chi"		" *** 门在关闭5秒后  ***"
+		"chi"		"** **"
 	}
 	"*** Door will open in 2secs ***"
 	{
-		"chi"		"*** 门在2秒后打开 ***"
+		"chi"		"** **"
 	}
 	"*** Door is opening in 20secs ***"
 	{
-		"chi"		" *** 门打开于20秒后 ***"
-		"DoorCountdown"		"20"
+		"chi"		"** **"
 	}
 	"*** Door is opening in 5secs ***"
 	{
-		"chi"		"*** 门打开于5秒后 ***"
+		"chi"		"** **"
 	}
 	"*** 1st teleport enabled ***"
 	{
-		"chi"		"*** 第1个传送点已激活 ***"
+		"chi"		"** **"
 	}
 	"*** Trains leaving in 30secs***"
 	{
-		"chi"		"*** 矿车30秒后离开  ***"
-		"DoorCountdown"		"30"
+		"chi"		"** **"
 	}
 	"*** Trains are leaving  ***"
 	{
-		"chi"		"*** 矿车已经离开  ***"
+		"chi"		"** **"
 	}
 	"*** 2nd teleport enabled ***"
 	{
-		"chi"		"*** 第2个传送点已激活 ***"
+		"chi"		"** **"
 	}
 	"*** 3rd teleport enabled ***"
-	{
-		"chi"		"*** 第3个传送点已激活 ***"
-	}
-	"*** Map by AERIS.004 ***"
 	{
 		"chi"		"** **"
 	}

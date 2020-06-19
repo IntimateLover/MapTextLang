@@ -52,13 +52,13 @@
 	{
 		"enable"		"0"
 		"hammerid"		"189780"
-		"m_iname"		"act1_crystal"
+		"m_iname"		"Act_1_Crystal"
 	}
 	"190847"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"190847"
-		"m_iname"		"image_phys"
+		"m_iname"		"Boss_1_Phys"
 	}
 	"83765"
 	{

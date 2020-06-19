@@ -1,0 +1,60 @@
+"Console_T"
+{
+	"***range damage,rest and dodge***"
+	{
+		"DoorCountdown"		"5"
+	}
+	"***Zombies transfer in 8 seconds***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***Zombies transfer in 6 seconds***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***boss releases the ultimate***"
+	{
+		"DoorCountdown"		"5"
+		"chi"		"**boss要放终极杀人了！快去边缘躲避！**"
+	}
+	"***zombies have five seconds to teleport***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***zombies have 10 seconds to teleport***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***zombies have 10 seconds left to teleport***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***zombies have eight seconds to teleport***"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"***keep zombies alive for 60 seconds***"
+	{
+		"DoorCountdown"		"60"
+	}
+	"***boss released the body cage***"
+	{
+		"DoorCountdown"		"5"
+	}
+	"***boss wants to crush you to death.Get down***"
+	{
+		"DoorCountdown"		"5"
+	}
+	"***Thanks for misakas guidance***"
+	{
+		"chi"		"**翻译：misaka 不用再说第二次了**"
+	}
+	"***be careful!!! there will be a knife in the face of zombies***"
+	{
+		"chi"		"**注意僵尸方向的跳刀！**"
+	}
+	"***open boss station in 30 seconds***"
+	{
+		"chi"		"**30秒后boss房开门**"
+	}
+}

@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"63891"
+	{
+		"enable"		"0"
+		"hammerid"		"63891"
+		"m_iname"		"stage_1_wall_2"
+	}
+	"68640"
+	{
+		"enable"		"1"
+		"hammerid"		"68640"
+		"m_iname"		"stage_1_boss_tz_break1"
+	}
+	"31472"
+	{
+		"enable"		"0"
+		"hammerid"		"31472"
+		"m_iname"		"stage_start_ladder"
+	}
+	"31530"
+	{
+		"enable"		"0"
+		"hammerid"		"31530"
+		"m_iname"		"start_two_wall"
+	}
+	"32493"
+	{
+		"enable"		"0"
+		"hammerid"		"32493"
+		"m_iname"		"stage_1_wall_1"
+	}
+	"32550"
+	{
+		"enable"		"0"
+		"hammerid"		"32550"
+		"m_iname"		"stage_1_zombie_wall"
+	}
+	"19151"
+	{
+		"enable"		"1"
+		"hammerid"		"19151"
+		"m_iname"		"stage_1_boss_hitbox"
+	}
+	"17354"
+	{
+		"enable"		"0"
+		"hammerid"		"17354"
+		"m_iname"		"start_one_wall"
+	}
+}

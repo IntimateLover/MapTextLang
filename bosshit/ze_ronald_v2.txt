@@ -1,0 +1,69 @@
+"BOSSHP"
+{
+	"71488"
+	{
+		"enable"		"0"
+		"hammerid"		"71488"
+		"m_iname"		"blechspin"
+	}
+	"70046"
+	{
+		"enable"		"0"
+		"hammerid"		"70046"
+		"m_iname"		"helpspin"
+	}
+	"3601"
+	{
+		"enable"		"0"
+		"hammerid"		"3601"
+		"m_iname"		"npc_phys2g&1040"
+	}
+	"3573"
+	{
+		"enable"		"0"
+		"hammerid"		"3573"
+		"m_iname"		"npc_phys2gg&1040"
+	}
+	"105133"
+	{
+		"enable"		"0"
+		"hammerid"		"105133"
+		"m_iname"		"sortcut"
+	}
+	"105146"
+	{
+		"enable"		"0"
+		"hammerid"		"105146"
+		"m_iname"		"sortcut"
+	}
+	"105152"
+	{
+		"enable"		"0"
+		"hammerid"		"105152"
+		"m_iname"		"sortcut"
+	}
+	"105170"
+	{
+		"enable"		"0"
+		"hammerid"		"105170"
+		"m_iname"		"sortcut"
+	}
+	"103012"
+	{
+		"enable"		"0"
+		"hammerid"		"103012"
+		"m_iname"		"i_mm_phys&1947"
+	}
+	"120380"
+	{
+		"enable"		"0"
+		"hammerid"		"120380"
+		"m_iname"		"havesex"
+	}
+	"118625"
+	{
+		"enable"		"0"
+		"hammerid"		"118625"
+		"m_iname"		"gate123"
+	}
+}

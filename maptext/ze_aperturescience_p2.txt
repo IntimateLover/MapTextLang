@@ -151,6 +151,7 @@
 	"--Zombie teleport in 25 secs!--"
 	{
 		"chi"		"僵尸将在25秒后传送"
+		"DoorCountDown"		"-1"
 	}
 	"--GLaDOS is exploding! Take cover!--"
 	{

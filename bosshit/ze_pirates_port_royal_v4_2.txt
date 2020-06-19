@@ -378,4 +378,10 @@
 		"hammerid"		"8758408"
 		"m_iname"		"sekera2_boss"
 	}
+	"9679766"
+	{
+		"enable"		"0"
+		"hammerid"		"9679766"
+		"m_iname"		"phys"
+	}
 }

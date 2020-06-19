@@ -88,7 +88,7 @@
 	{
 		"chi"		"**离门开启还有10秒**"
 	}
-	"***DOOR IS OPEN***"
+	"***Door is open***"
 	{
 		"chi"		"**门打开了**"
 	}
@@ -122,46 +122,71 @@
 	}
 	"***WARMUP - 60 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合，等待其它玩家加入**"
+		"DoorCountdown"		"60"
 	}
 	"***WARMUP MODE DISABLED FOR NEXT ROUND***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身模式将在下个回合关闭**"
 	}
 	"***WARMUP - 30 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30秒**"
 	}
 	"***WARMUP - 10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒**"
 	}
 	"***TEMPLE ENTRANCE OPENING IN 50 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**神庙入口将在50秒后打开**"
 	}
 	"***WOODEN DOOR WILL OPEN IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将会在20秒后打开**"
 	}
 	"***WOODEN DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**木门将会在5秒后打开**"
 	}
 	"***TOWER LIFT LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔旁的电梯将在20秒后启动**"
 	}
 	"***HUMANS MUST GO AND SLAY THE REMAINING ZOMBIES***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类必须冲出去清光剩余的僵尸。**"
 	}
 	"***STAYING BEHIND WILL RESULT IN DEATH***"
 	{
-		"chi"		"** **"
+		"chi"		"**躲在后面桥上的人类将会在一段时间后死亡。**"
 	}
 	"***HUMANS BEHIND WILL NOW DIE***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在，躲在后面的人类即将死亡。**"
+	}
+	"***WARMUP - 5 SECONDS LEFT***"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"***WARMUP - 4 SECONDS LEFT***"
+	{
+		"chi"		"**还剩4秒**"
+	}
+	"***WARMUP - 3 SECONDS LEFT***"
+	{
+		"chi"		"**还剩3秒**"
+	}
+	"***WARMUP - 2 SECONDS LEFT***"
+	{
+		"chi"		"**还剩2秒**"
+	}
+	"***WARMUP - 1 SECOND LEFT***"
+	{
+		"chi"		"**还剩1秒**"
+	}
+	"***GOOD LUCK***"
+	{
+		"chi"		"**祝你好运**"
 	}
 }

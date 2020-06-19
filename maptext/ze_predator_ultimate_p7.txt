@@ -23,7 +23,7 @@
 	"***HOLD FOR 50 SECONDS***"
 	{
 		"chi"		"** 坚守 50 秒 **"
-		"DoorCountDown"		"50"
+		"DoorCountdown"		"50"
 	}
 	"***Fall back***"
 	{
@@ -104,7 +104,7 @@
 	"***Hold for 30 seconds***"
 	{
 		"chi"		"** 守住 30 秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
@@ -113,7 +113,7 @@
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
 		"chi"		"** 守住 40 秒 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
@@ -130,7 +130,7 @@
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
 		"chi"		"** 有玩家拿起了高斯狙击枪 **（巨量伤害足以秒杀母体僵尸，冷却时间非常长，可用次数无限次）"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***FIRST AID PICKED UP***"
 	{
@@ -199,12 +199,12 @@
 	"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	{
 		"chi"		"** 有玩家拿起了榴弹发射器 **（以一定角度发射榴弹，僵尸被击中后会被点燃，可用次数15次）"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***PLAYER PICKED UP AMMO DISPENSER***"
 	{
 		"chi"		"** 有玩家拿起了弹药箱 **（以使用者为中心的一定距离内所有人类弹药无限，持续时间10s，可用次数1次）"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"***PLAYER PICKED UP PUSH GUN***"
 	{
@@ -217,7 +217,7 @@
 	"***HOLD 30 SECONDS***"
 	{
 		"chi"		"** 坚守 30 秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"***5***"
 	{
@@ -279,10 +279,10 @@
 	{
 		"chi"		"** 激活 C4 **"
 	}
-	"***Hold for 20 seconds***"
+	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"** 守住 20 秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***ITS THE PREDATOR!***"
 	{
@@ -347,11 +347,12 @@
 	"***GET IN THE ELEVATOR***"
 	{
 		"chi"		"** 快进入电梯 **"
+		"DoorCountdown"		"10"
 	}
 	"***HOLD THIS AREA FOR 20 SECONDS***"
 	{
 		"chi"		"** 守住这个区域 20 秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***15 SECONDS LEFT***"
 	{
@@ -469,6 +470,7 @@
 	"***ELEVATORS HERE***"
 	{
 		"chi"		"**电梯到了快进去！**"
+		"DoorCountdown"		"10"
 	}
 	"***YOU INTERUPTED THE PREDATORS ATTACK***"
 	{

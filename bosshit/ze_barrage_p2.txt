@@ -1,83 +1,5 @@
 "BOSSHP"
 {
-	"132347"
-	{
-		"enable"		"0"
-		"hammerid"		"132347"
-		"m_iname"		"pont_brk1"
-	}
-	"132366"
-	{
-		"enable"		"0"
-		"hammerid"		"132366"
-		"m_iname"		"pont_brk2"
-	}
-	"132539"
-	{
-		"enable"		"0"
-		"hammerid"		"132539"
-		"m_iname"		"bar_pierre"
-	}
-	"132544"
-	{
-		"enable"		"0"
-		"hammerid"		"132544"
-		"m_iname"		"bar_pierre"
-	}
-	"132549"
-	{
-		"enable"		"0"
-		"hammerid"		"132549"
-		"m_iname"		"bar_pierre"
-	}
-	"132555"
-	{
-		"enable"		"0"
-		"hammerid"		"132555"
-		"m_iname"		"bar_pierre"
-	}
-	"132560"
-	{
-		"enable"		"0"
-		"hammerid"		"132560"
-		"m_iname"		"bar_pierre"
-	}
-	"132563"
-	{
-		"enable"		"0"
-		"hammerid"		"132563"
-		"m_iname"		"bar_pierre"
-	}
-	"132566"
-	{
-		"enable"		"0"
-		"hammerid"		"132566"
-		"m_iname"		"bar_pierre"
-	}
-	"132569"
-	{
-		"enable"		"0"
-		"hammerid"		"132569"
-		"m_iname"		"bar_pierre"
-	}
-	"132652"
-	{
-		"enable"		"0"
-		"hammerid"		"132652"
-		"m_iname"		"bar_pierre"
-	}
-	"921577"
-	{
-		"enable"		"0"
-		"hammerid"		"921577"
-		"m_iname"		"pont_brk3"
-	}
-	"921626"
-	{
-		"enable"		"0"
-		"hammerid"		"921626"
-		"m_iname"		"pont_brk4"
-	}
 	"37770"
 	{
 		"enable"		"0"
@@ -215,6 +137,72 @@
 		"enable"		"0"
 		"hammerid"		"87449"
 		"m_iname"		"House_Detail"
+	}
+	"132347"
+	{
+		"enable"		"0"
+		"hammerid"		"132347"
+		"m_iname"		"pont_brk1"
+	}
+	"132366"
+	{
+		"enable"		"0"
+		"hammerid"		"132366"
+		"m_iname"		"pont_brk2"
+	}
+	"132539"
+	{
+		"enable"		"0"
+		"hammerid"		"132539"
+		"m_iname"		"bar_pierre"
+	}
+	"132544"
+	{
+		"enable"		"0"
+		"hammerid"		"132544"
+		"m_iname"		"bar_pierre"
+	}
+	"132549"
+	{
+		"enable"		"0"
+		"hammerid"		"132549"
+		"m_iname"		"bar_pierre"
+	}
+	"132555"
+	{
+		"enable"		"0"
+		"hammerid"		"132555"
+		"m_iname"		"bar_pierre"
+	}
+	"132560"
+	{
+		"enable"		"0"
+		"hammerid"		"132560"
+		"m_iname"		"bar_pierre"
+	}
+	"132563"
+	{
+		"enable"		"0"
+		"hammerid"		"132563"
+		"m_iname"		"bar_pierre"
+	}
+	"132566"
+	{
+		"enable"		"0"
+		"hammerid"		"132566"
+		"m_iname"		"bar_pierre"
+	}
+	"132569"
+	{
+		"enable"		"0"
+		"hammerid"		"132569"
+		"m_iname"		"bar_pierre"
+	}
+	"132652"
+	{
+		"enable"		"0"
+		"hammerid"		"132652"
+		"m_iname"		"bar_pierre"
 	}
 	"132680"
 	{
@@ -414,58 +402,22 @@
 		"hammerid"		"921078"
 		"m_iname"		"barn_blok_ech"
 	}
-	"1008513"
+	"921577"
 	{
 		"enable"		"0"
-		"hammerid"		"1008513"
-		"m_iname"		"Gas_Detail"
+		"hammerid"		"921577"
+		"m_iname"		"pont_brk3"
 	}
-	"85999"
+	"921626"
 	{
 		"enable"		"0"
-		"hammerid"		"85999"
-		"m_iname"		"gas_brk"
+		"hammerid"		"921626"
+		"m_iname"		"pont_brk4"
 	}
 	"96373"
 	{
 		"enable"		"0"
 		"hammerid"		"96373"
-		"m_iname"		"gas_plan_brk"
-	}
-	"96414"
-	{
-		"enable"		"0"
-		"hammerid"		"96414"
-		"m_iname"		"gas_plan_brk"
-	}
-	"96420"
-	{
-		"enable"		"0"
-		"hammerid"		"96420"
-		"m_iname"		"gas_plan_brk"
-	}
-	"96429"
-	{
-		"enable"		"0"
-		"hammerid"		"96429"
-		"m_iname"		"gas_plan_brk"
-	}
-	"96450"
-	{
-		"enable"		"0"
-		"hammerid"		"96450"
-		"m_iname"		"gas_plan_brk"
-	}
-	"96507"
-	{
-		"enable"		"0"
-		"hammerid"		"96507"
-		"m_iname"		"gas_plan_brk"
-	}
-	"96513"
-	{
-		"enable"		"0"
-		"hammerid"		"96513"
 		"m_iname"		"gas_plan_brk"
 	}
 	"96519"
@@ -522,6 +474,72 @@
 		"hammerid"		"98424"
 		"m_iname"		"gas_glass"
 	}
+	"98622"
+	{
+		"enable"		"0"
+		"hammerid"		"98622"
+		"m_iname"		"gas_plan_brk"
+	}
+	"98849"
+	{
+		"enable"		"0"
+		"hammerid"		"98849"
+		"m_iname"		"gas_plan_brk"
+	}
+	"106301"
+	{
+		"enable"		"0"
+		"hammerid"		"106301"
+		"m_iname"		"gas_plan_brk"
+	}
+	"1008513"
+	{
+		"enable"		"0"
+		"hammerid"		"1008513"
+		"m_iname"		"Gas_Detail"
+	}
+	"85999"
+	{
+		"enable"		"0"
+		"hammerid"		"85999"
+		"m_iname"		"gas_brk"
+	}
+	"96414"
+	{
+		"enable"		"0"
+		"hammerid"		"96414"
+		"m_iname"		"gas_plan_brk"
+	}
+	"96420"
+	{
+		"enable"		"0"
+		"hammerid"		"96420"
+		"m_iname"		"gas_plan_brk"
+	}
+	"96429"
+	{
+		"enable"		"0"
+		"hammerid"		"96429"
+		"m_iname"		"gas_plan_brk"
+	}
+	"96450"
+	{
+		"enable"		"0"
+		"hammerid"		"96450"
+		"m_iname"		"gas_plan_brk"
+	}
+	"96507"
+	{
+		"enable"		"0"
+		"hammerid"		"96507"
+		"m_iname"		"gas_plan_brk"
+	}
+	"96513"
+	{
+		"enable"		"0"
+		"hammerid"		"96513"
+		"m_iname"		"gas_plan_brk"
+	}
 	"98538"
 	{
 		"enable"		"0"
@@ -532,12 +550,6 @@
 	{
 		"enable"		"0"
 		"hammerid"		"98556"
-		"m_iname"		"gas_plan_brk"
-	}
-	"98622"
-	{
-		"enable"		"0"
-		"hammerid"		"98622"
 		"m_iname"		"gas_plan_brk"
 	}
 	"98652"
@@ -552,23 +564,11 @@
 		"hammerid"		"98799"
 		"m_iname"		"gas_plan_brk"
 	}
-	"98849"
-	{
-		"enable"		"0"
-		"hammerid"		"98849"
-		"m_iname"		"gas_plan_brk"
-	}
 	"106227"
 	{
 		"enable"		"0"
 		"hammerid"		"106227"
 		"m_iname"		"gas_glass"
-	}
-	"106301"
-	{
-		"enable"		"0"
-		"hammerid"		"106301"
-		"m_iname"		"gas_plan_brk"
 	}
 	"592515"
 	{

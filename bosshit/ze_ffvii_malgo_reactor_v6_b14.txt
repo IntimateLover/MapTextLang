@@ -1,0 +1,121 @@
+"BOSSHP"
+{
+	"1021237"
+	{
+		"enable"		"1"
+		"hammerid"		"1021237"
+		"m_iname"		"Hellz_boss_room_wall"
+	}
+	"959149"
+	{
+		"enable"		"0"
+		"hammerid"		"959149"
+		"m_iname"		"AmmoBox"
+	}
+	"898937"
+	{
+		"enable"		"0"
+		"hammerid"		"898937"
+		"m_iname"		"Glass_1"
+	}
+	"898964"
+	{
+		"enable"		"0"
+		"hammerid"		"898964"
+		"m_iname"		"glass_2"
+	}
+	"6908"
+	{
+		"enable"		"0"
+		"hammerid"		"6908"
+		"m_iname"		"blockage elevator func"
+	}
+	"539574"
+	{
+		"enable"		"0"
+		"hammerid"		"539574"
+		"m_iname"		"ExI Bahamut func"
+	}
+	"288606"
+	{
+		"enable"		"1"
+	}
+	"406484"
+	{
+		"enable"		"1"
+	}
+	"327032"
+	{
+		"enable"		"1"
+	}
+	"68789"
+	{
+		"enable"		"1"
+	}
+	"857284"
+	{
+		"enable"		"0"
+		"hammerid"		"857284"
+		"m_iname"		"Vent_Door_1"
+	}
+	"857173"
+	{
+		"enable"		"0"
+		"hammerid"		"857173"
+		"m_iname"		"Vent_Door_2"
+	}
+	"857348"
+	{
+		"enable"		"0"
+		"hammerid"		"857348"
+		"m_iname"		"Vent_Door_4"
+	}
+	"857379"
+	{
+		"enable"		"0"
+		"hammerid"		"857379"
+		"m_iname"		"Vent_Door_5"
+	}
+	"680359"
+	{
+		"enable"		"0"
+		"hammerid"		"680359"
+		"m_iname"		"Cosmo_Rail"
+	}
+	"660851"
+	{
+		"enable"		"0"
+		"hammerid"		"660851"
+		"m_iname"		"Kratka"
+	}
+	"661418"
+	{
+		"enable"		"0"
+		"hammerid"		"661418"
+		"m_iname"		"Plac_zabaw_ssie"
+	}
+	"606755"
+	{
+		"enable"		"0"
+		"hammerid"		"606755"
+		"m_iname"		"Cosmo_break_1"
+	}
+	"519617"
+	{
+		"enable"		"0"
+		"hammerid"		"519617"
+		"m_iname"		"Metal_Crate"
+	}
+	"242078"
+	{
+		"enable"		"0"
+		"hammerid"		"242078"
+		"m_iname"		"Final_Fulgor_Breakable"
+	}
+	"68798"
+	{
+		"enable"		"0"
+		"hammerid"		"68798"
+		"m_iname"		"Sephiroth_Final_Breakable"
+	}
+}

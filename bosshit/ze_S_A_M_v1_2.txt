@@ -1,0 +1,75 @@
+"BOSSHP"
+{
+	"2479014"
+	{
+		"enable"		"0"
+		"hammerid"		"2479014"
+		"m_iname"		"asuna_phys"
+	}
+	"1967488"
+	{
+		"enable"		"1"
+		"hammerid"		"1967488"
+		"m_iname"		"stage5_boss"
+	}
+	"1190135"
+	{
+		"enable"		"0"
+		"hammerid"		"1190135"
+		"m_iname"		"kirito_phys"
+	}
+	"1125916"
+	{
+		"enable"		"0"
+		"hammerid"		"1125916"
+		"m_iname"		"Troll_Phys"
+	}
+	"1047757"
+	{
+		"enable"		"1"
+		"hammerid"		"1047757"
+		"m_iname"		"bal_hitbox"
+	}
+	"1022010"
+	{
+		"enable"		"0"
+		"hammerid"		"1022010"
+		"m_iname"		"bal_phys"
+	}
+	"648688"
+	{
+		"enable"		"0"
+		"hammerid"		"648688"
+		"m_iname"		"icedr_reflex_box"
+	}
+	"610742"
+	{
+		"enable"		"1"
+		"hammerid"		"610742"
+		"m_iname"		"icedr_hitbox"
+	}
+	"581049"
+	{
+		"enable"		"0"
+		"hammerid"		"581049"
+		"m_iname"		"icedr_phys"
+	}
+	"49848"
+	{
+		"enable"		"1"
+		"hammerid"		"49848"
+		"m_iname"		"Troll_hitbox"
+	}
+	"49877"
+	{
+		"enable"		"0"
+		"hammerid"		"49877"
+		"m_iname"		"Troll_phys_nade"
+	}
+	"2143925"
+	{
+		"enable"		"0"
+		"hammerid"		"2143925"
+		"m_iname"		"earth_airwall&4597"
+	}
+}

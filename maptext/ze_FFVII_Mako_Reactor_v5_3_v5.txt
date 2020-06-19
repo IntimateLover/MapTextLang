@@ -31,11 +31,12 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**大门将在30S后开启**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
-		"chi"		"**大门将在5S后打开（神器准备使用）**"
+		"chi"		"**大门将在5S后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"** A player has adquired WIND MATERIA **"
 	{
@@ -60,7 +61,7 @@
 	"**Elevator is leaving in 10s**"
 	{
 		"chi"		"**电梯将在10S后离开**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** A player has adquired GRAVITY MATERIA **"
 	{
@@ -76,8 +77,8 @@
 	}
 	"** We have reached the core  ...**"
 	{
-		"chi"		"**我们已到达魔光炉**距BOSS到来前还剩25秒**"
-		"DoorCountDown"		"25"
+		"chi"		"**我们已到达魔光炉**"
+		"DoorCountdown"		"-1"
 	}
 	"** ... Cloud is planting the bomb **"
 	{
@@ -102,67 +103,67 @@
 	"** EXPLOSION IN 145 SECONDS **"
 	{
 		"chi"		"**警告：炸弹将于145秒后爆炸**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  110 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩110秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  100 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩100秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  90 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩90秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  80 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩80秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**大门将在35S后打开-控制室有提前开门的方法，找到它**"
-		"DoorCountDown"		"35"
+		"DoorCountdown"		"-1"
 	}
 	"**  70 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩70秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮-大门将在10S后开启**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  60 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩60秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  50 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩50秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  40 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩40秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  30 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩30秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  20 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩20秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
@@ -199,14 +200,14 @@
 	"** EXPLOSION IN 120 SECONDS **"
 	{
 		"chi"		"**警告：炸弹将于120秒后爆炸**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  10 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩10秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
-	"** Run! **"
+	"** RUN! **"
 	{
 		"chi"		"**快跑！！！快跑！！！**"
 	}
@@ -237,26 +238,27 @@
 	"** Door is opening in 7 seconds **"
 	{
 		"chi"		"**舞台门将在7S后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
 		"chi"		"**警告：炸弹将于130秒后爆炸**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"**  120 SECONDS LEFT **"
 	{
 		"chi"		"**警告：还剩120秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** 30 seconds left **"
 	{
 		"chi"		"**警告：还剩30秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"** 20 seconds left **"
 	{
 		"chi"		"**警告：还剩20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** 10 seconds left **"
 	{
@@ -285,7 +287,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告：巴哈姆特将在20秒后释放红终-准备使用奶神器**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"-1"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -306,7 +308,7 @@
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
 		"chi"		"**4 MINUTES后核爆！！！**"
-		"DoorCountDown"		"240"
+		"DoorCountdown"		"240"
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
@@ -347,15 +349,15 @@
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
 		"chi"		"**警告：巴哈姆特将在7秒后毁灭我们**"
-		"DoorCountDown"		"7"
+		"DoorCountdown"		"-1"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
-		"chi"		"**警告：巴哈姆特使用了风（不要站在栏杆上）**"
+		"chi"		"**警告：巴哈姆特使用了风**"
 	}
 	"** BAHAMUT HAS CAST GRAVITY **"
 	{
-		"chi"		"**警告：巴哈姆特使用了黑洞（按住S后退）**"
+		"chi"		"**警告：巴哈姆特使用了黑洞**"
 	}
 	"** BAHAMUT HAS CAST ICE **"
 	{
@@ -363,11 +365,12 @@
 	}
 	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
 	{
-		"chi"		"**警告：巴哈姆特使用了土（集火打碎）**"
+		"chi"		"**警告：巴哈姆特使用了土**"
 	}
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
-		"chi"		"**警告：终极将在10S后爆炸（快丢雷）**"
+		"chi"		"**警告：终极将在10S后爆炸**"
+		"DoorCountdown"		"10"
 	}
 	"** 3 COWBELLS LEFT! **"
 	{
@@ -400,7 +403,7 @@
 	"** Side DOOR OPENS IN 10 s **"
 	{
 		"chi"		"**侧门10秒后打开**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"**Bahamut has escaped ! ** Go Go! **"
 	{
@@ -413,7 +416,7 @@
 	"** Human Will Ignore Fall Damage In 30 Seconds **"
 	{
 		"chi"		"**人类将免疫30秒的摔落伤害**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** A player has adquired Mini HEAL MATERIA **"
 	{
@@ -422,7 +425,7 @@
 	"**No Fake Laser & High Laser Can Not Crouchjump Over it**"
 	{
 		"chi"		"**注意：本局没有假刀-高刀不能大跳**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"WARNING! BAHAMUT IS CASTING ULTIMA ** INTERRUPT HIM BEFORE HE KILL US ALL!!! **"
 	{
@@ -439,7 +442,7 @@
 	"** Human Will Ignore Fall Damage In 12 Seconds! **"
 	{
 		"chi"		"**人类将免疫12秒的摔落伤害**"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"** CURRENT DIFFICULTY ** >> EXTREME III << **"
 	{
@@ -505,6 +508,19 @@
 		"chi"		"** **"
 	}
 	"** SPECIAL LASERS AT THE END **"
+	{
+		"chi"		"** **"
+	}
+	"** Superior Door Is Locked **"
+	{
+		"chi"		"**大门锁住了。请走侧门！**"
+		"DoorCountdown"		"13"
+	}
+	"** Side DOOR OPENS SOON **"
+	{
+		"chi"		"** **"
+	}
+	"** C4 Planted - Hold FOR A WHILE! **"
 	{
 		"chi"		"** **"
 	}

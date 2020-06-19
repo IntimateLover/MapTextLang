@@ -179,6 +179,7 @@
 	"### DISABLE NO BHOP OR JUMP IN 5 SECONDS ###"
 	{
 		"chi"		"### 5 秒内不允许跳跃 ###"
+		"DoorCountdown"		"-1"
 	}
 	"### TELEPORT INCOMING IN 10 SECONDS ###"
 	{
@@ -314,5 +315,13 @@
 	"### THE PATHWAY HAS BEEN BLOCKED GOODBYE !! ###"
 	{
 		"chi"		"### 路已被封锁,再见!! ###"
+	}
+	"### ADMIN HAS SELECTED : STAGE I ###"
+	{
+		"chi"		"** **"
+	}
+	"### ADMIN HAS SELECTED : STAGE II ###"
+	{
+		"chi"		"** **"
 	}
 }

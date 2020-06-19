@@ -11,7 +11,6 @@
 	"*** 30 seconds left ***"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -53,10 +52,6 @@
 	{
 		"chi"		"** **"
 	}
-	"*** side heos break in 10 seconds ***"
-	{
-		"chi"		"** **"
-	}
 	"*** final stage heosdem ***"
 	{
 		"chi"		"** **"
@@ -65,15 +60,19 @@
 	{
 		"chi"		"** **"
 	}
-	"*** side heos broke ****"
-	{
-		"chi"		"** **"
-	}
 	"*** 60 secons left open heos ***"
 	{
 		"chi"		"** **"
 	}
 	"*** last heos open! it closed in 2 seconds!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** side heos break in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** side heos broke ****"
 	{
 		"chi"		"** **"
 	}

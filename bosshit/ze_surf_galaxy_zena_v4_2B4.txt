@@ -1,0 +1,57 @@
+"BOSSHP"
+{
+	"156027"
+	{
+		"enable"		"0"
+		"hammerid"		"156027"
+		"m_iname"		"Panel_II_Glass"
+	}
+	"156030"
+	{
+		"enable"		"0"
+		"hammerid"		"156030"
+		"m_iname"		"Panel_I_Glass"
+	}
+	"156033"
+	{
+		"enable"		"0"
+		"hammerid"		"156033"
+		"m_iname"		"Panel_III_Glass"
+	}
+	"156036"
+	{
+		"enable"		"0"
+		"hammerid"		"156036"
+		"m_iname"		"Arcana_JailGlass"
+	}
+	"156043"
+	{
+		"enable"		"0"
+		"hammerid"		"156043"
+		"m_iname"		"Arcana_Battle_Vents"
+	}
+	"156046"
+	{
+		"enable"		"0"
+		"hammerid"		"156046"
+		"m_iname"		"Arcana_Battle_Vents"
+	}
+	"157490"
+	{
+		"enable"		"0"
+		"hammerid"		"157490"
+		"m_iname"		"bridge_spawn1"
+	}
+	"157503"
+	{
+		"enable"		"0"
+		"hammerid"		"157503"
+		"m_iname"		"bridge_spawn2"
+	}
+	"158040"
+	{
+		"enable"		"0"
+		"hammerid"		"158040"
+		"m_iname"		"Metal_Bastion_Break"
+	}
+}

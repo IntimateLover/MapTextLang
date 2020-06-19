@@ -35,7 +35,7 @@
 	">> DEFEND FOR 30 SEC<<"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	">>  TELEPORTING everyone to jungle<<"
 	{
@@ -69,7 +69,7 @@
 	">> SURVIVE FOR 60 SEC<<"
 	{
 		"chi"		"**存活60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	">>  TELEPORTING everyone to fountain of youth<<"
 	{
@@ -106,7 +106,7 @@
 	">> DEFEND FOR 60 SEC<<"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	">>LEVEL: EXTREME<<"
 	{
@@ -126,11 +126,11 @@
 	}
 	">> YOU FORGOT THE CHALICES! <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>你忘记去装青春之泉<<<"
 	}
 	">> NO LEVEL CHANGE ON WIN! <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>这关胜利不会提升难度<<<"
 	}
 	">> DEFEND FOR 60 SEC <<"
 	{

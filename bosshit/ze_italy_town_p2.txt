@@ -1,10 +1,34 @@
 "BOSSHP"
 {
+	"1127514"
+	{
+		"enable"		"0"
+		"hammerid"		"1127514"
+		"m_iname"		"sword"
+	}
+	"727"
+	{
+		"enable"		"0"
+		"hammerid"		"727"
+		"m_iname"		"ForLv4"
+	}
 	"7561"
 	{
 		"enable"		"0"
 		"hammerid"		"7561"
 		"m_iname"		"sable"
+	}
+	"14333"
+	{
+		"enable"		"0"
+		"hammerid"		"14333"
+		"m_iname"		"PaperDoor"
+	}
+	"44921"
+	{
+		"enable"		"0"
+		"hammerid"		"44921"
+		"m_iname"		"ForLv4"
 	}
 	"53426"
 	{
@@ -18,28 +42,29 @@
 		"hammerid"		"54748"
 		"m_iname"		"puertarompebalcon"
 	}
-	"1127514"
+	"736"
 	{
-		"enable"		"0"
-		"hammerid"		"1127514"
-		"m_iname"		"sword"
+		"enable"		"-1"
+		"hammerid"		"736"
 	}
-	"727"
+	"738"
 	{
-		"enable"		"0"
-		"hammerid"		"727"
-		"m_iname"		"ForLv4"
+		"enable"		"-1"
+		"hammerid"		"738"
 	}
-	"14333"
+	"740"
 	{
-		"enable"		"0"
-		"hammerid"		"14333"
-		"m_iname"		"PaperDoor"
+		"enable"		"-1"
+		"hammerid"		"740"
 	}
-	"44921"
+	"768"
 	{
-		"enable"		"0"
-		"hammerid"		"44921"
-		"m_iname"		"ForLv4"
+		"enable"		"-1"
+		"hammerid"		"768"
+	}
+	"296853"
+	{
+		"enable"		"-1"
+		"hammerid"		"296853"
 	}
 }

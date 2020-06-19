@@ -1,0 +1,105 @@
+"BOSSHP"
+{
+	"27520"
+	{
+		"enable"		"0"
+		"hammerid"		"27520"
+		"m_iname"		"Common_Hold_4_Break"
+	}
+	"31639"
+	{
+		"enable"		"0"
+		"hammerid"		"31639"
+		"m_iname"		"Famfrit_Phys"
+	}
+	"31662"
+	{
+		"enable"		"0"
+		"hammerid"		"31662"
+		"m_iname"		"Famfrit_Phys_Body"
+	}
+	"32678"
+	{
+		"enable"		"0"
+		"hammerid"		"32678"
+		"m_iname"		"Common_Hold_1_Break"
+	}
+	"32683"
+	{
+		"enable"		"0"
+		"hammerid"		"32683"
+		"m_iname"		"Common_Hold_2_Break"
+	}
+	"3626133"
+	{
+		"enable"		"1"
+		"hammerid"		"3626133"
+		"m_iname"		"Zalera_Hitbox"
+	}
+	"3914866"
+	{
+		"enable"		"0"
+		"hammerid"		"3914866"
+		"m_iname"		"Famfrit_Phys_Body_Holy"
+	}
+	"3915101"
+	{
+		"enable"		"0"
+		"hammerid"		"3915101"
+		"m_iname"		"Famfrit_Phys_Body_Fire"
+	}
+	"4789199"
+	{
+		"enable"		"0"
+		"hammerid"		"4789199"
+		"m_iname"		"bigdoor_barrier"
+	}
+	"5139541"
+	{
+		"enable"		"0"
+		"hammerid"		"5139541"
+		"m_iname"		"famfrit_ZM_Cage_BulletBlock"
+	}
+	"5139563"
+	{
+		"enable"		"0"
+		"hammerid"		"5139563"
+		"m_iname"		"famfrit_ZM_Cage_BulletBlock"
+	}
+	"5139589"
+	{
+		"enable"		"0"
+		"hammerid"		"5139589"
+		"m_iname"		"famfrit_ZM_Cage_BulletBlock"
+	}
+	"27599"
+	{
+		"enable"		"1"
+		"hammerid"		"27599"
+		"m_iname"		"Hashmel_Hitbox"
+	}
+	"28230"
+	{
+		"enable"		"0"
+		"hammerid"		"28230"
+		"m_iname"		"Hashmel_ZM_Cage"
+	}
+	"3321436"
+	{
+		"enable"		"0"
+		"hammerid"		"3321436"
+		"m_iname"		"Stage_1_Hold_3_Crystall_2"
+	}
+	"3322752"
+	{
+		"enable"		"0"
+		"hammerid"		"3322752"
+		"m_iname"		"Stage_1_Hold_3_Crystall_1"
+	}
+	"3586584"
+	{
+		"enable"		"0"
+		"hammerid"		"3586584"
+		"m_iname"		"Stage_1_Hold_1_Break"
+	}
+}

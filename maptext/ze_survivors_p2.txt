@@ -120,6 +120,7 @@
 	"<!!!> FAN 2 SHUTDOWN - 10 SECONDS <!!!>"
 	{
 		"chi"		"**风扇2-10秒后关闭 **"
+		"DoorCountdown"		"10"
 	}
 	"<!!!> FAN 2 HAS SHUTDOWN <!!!>"
 	{
@@ -216,6 +217,10 @@
 		"chi"		"**低伤害的一关 **"
 	}
 	"<!!!> ZOMBIES DETECTED | YOU FAIL <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"The se"
 	{
 		"chi"		"** **"
 	}

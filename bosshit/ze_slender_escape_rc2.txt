@@ -24,7 +24,7 @@
 	}
 	"727218"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"727218"
 		"m_iname"		"Item_Barrelboss_Armor"
 	}
@@ -291,5 +291,40 @@
 		"enable"		"0"
 		"hammerid"		"1038093"
 		"m_iname"		"item_barrel_hp"
+	}
+	"414566"
+	{
+		"enable"		"-1"
+		"hammerid"		"414566"
+	}
+	"414569"
+	{
+		"enable"		"-1"
+		"hammerid"		"414569"
+	}
+	"487869"
+	{
+		"enable"		"-1"
+		"hammerid"		"487869"
+	}
+	"487893"
+	{
+		"enable"		"-1"
+		"hammerid"		"487893"
+	}
+	"488035"
+	{
+		"enable"		"-1"
+		"hammerid"		"488035"
+	}
+	"778485"
+	{
+		"enable"		"-1"
+		"hammerid"		"778485"
+	}
+	"790079"
+	{
+		"enable"		"-1"
+		"hammerid"		"790079"
 	}
 }

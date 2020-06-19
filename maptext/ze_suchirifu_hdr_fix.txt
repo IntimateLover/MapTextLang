@@ -1,0 +1,83 @@
+"Console_T"
+{
+	"[Object] Press button to make your way."
+	{
+		"chi"		"** **"
+	}
+	"[Map] ze_Suchirifu"
+	{
+		"chi"		"** **"
+	}
+	"[Mapper] satoka"
+	{
+		"chi"		"** **"
+	}
+	"[Item] Ninja has been picked up"
+	{
+		"chi"		"** **"
+	}
+	"[Item] DarkKnight has been picked up"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 15 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 10 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 20 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Door] 25 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] These rooms have Upper side and Lower side."
+	{
+		"chi"		"** **"
+	}
+	"[Message] Some people must go Lower."
+	{
+		"chi"		"** **"
+	}
+	"[Lower Door] 10 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Upper Door] 15 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Press Button at Lower side."
+	{
+		"chi"		"** **"
+	}
+	"[Message] Hold Upper Side"
+	{
+		"chi"		"** **"
+	}
+	"[Lower Door] 15 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Keep hold Upper"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Lower Team Will Open Door"
+	{
+		"chi"		"** **"
+	}
+	"[Upper Door] 10 seconds [Open]"
+	{
+		"chi"		"** **"
+	}
+	"[Message] Find Button at Upper Side"
+	{
+		"chi"		"** **"
+	}
+}

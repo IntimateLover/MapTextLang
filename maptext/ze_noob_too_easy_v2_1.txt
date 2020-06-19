@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"***The road will open in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Slowfire***"
+	{
+		"chi"		"** **"
+	}
+	"**The elevator door will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait 10 seconds. The door will open soon**"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up Heal***"
+	{
+		"chi"		"** **"
+	}
+	"**The door will open in 45 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"***A player has picked up FreezeIce***"
+	{
+		"chi"		"** **"
+	}
+}

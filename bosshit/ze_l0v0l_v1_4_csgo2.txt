@@ -1,0 +1,159 @@
+"BOSSHP"
+{
+	"23428"
+	{
+		"enable"		"0"
+		"hammerid"		"23428"
+		"m_iname"		"door17_2"
+	}
+	"23437"
+	{
+		"enable"		"0"
+		"hammerid"		"23437"
+		"m_iname"		"door18_2"
+	}
+	"23445"
+	{
+		"enable"		"0"
+		"hammerid"		"23445"
+		"m_iname"		"door19_2"
+	}
+	"24774"
+	{
+		"enable"		"0"
+		"hammerid"		"24774"
+		"m_iname"		"door27_2"
+	}
+	"31190"
+	{
+		"enable"		"0"
+		"hammerid"		"31190"
+		"m_iname"		"door34_3"
+	}
+	"451443"
+	{
+		"enable"		"0"
+		"hammerid"		"451443"
+		"m_iname"		"door1_1"
+	}
+	"471546"
+	{
+		"enable"		"0"
+		"hammerid"		"471546"
+		"m_iname"		"door2_1"
+	}
+	"471611"
+	{
+		"enable"		"0"
+		"hammerid"		"471611"
+		"m_iname"		"door3_1"
+	}
+	"471697"
+	{
+		"enable"		"0"
+		"hammerid"		"471697"
+		"m_iname"		"door4_1"
+	}
+	"471722"
+	{
+		"enable"		"0"
+		"hammerid"		"471722"
+		"m_iname"		"door5_1"
+	}
+	"471813"
+	{
+		"enable"		"0"
+		"hammerid"		"471813"
+		"m_iname"		"door6_1"
+	}
+	"471873"
+	{
+		"enable"		"0"
+		"hammerid"		"471873"
+		"m_iname"		"door7_1"
+	}
+	"471909"
+	{
+		"enable"		"0"
+		"hammerid"		"471909"
+		"m_iname"		"door8_1"
+	}
+	"753675"
+	{
+		"enable"		"0"
+		"hammerid"		"753675"
+		"m_iname"		"door23"
+	}
+	"860916"
+	{
+		"enable"		"1"
+		"hammerid"		"860916"
+		"m_iname"		"bosslvl2_glass"
+	}
+	"242603"
+	{
+		"enable"		"1"
+		"hammerid"		"242603"
+		"m_iname"		"bosslvl1_hit"
+	}
+	"1231402"
+	{
+		"enable"		"1"
+		"hammerid"		"1231402"
+		"m_iname"		"bosslvl1_wall2"
+	}
+	"1371131"
+	{
+		"enable"		"0"
+		"hammerid"		"1371131"
+		"m_iname"		"stage"
+	}
+	"1371135"
+	{
+		"enable"		"0"
+		"hammerid"		"1371135"
+		"m_iname"		"stage"
+	}
+	"3263944"
+	{
+		"enable"		"0"
+		"hammerid"		"3263944"
+		"m_iname"		"door68_1"
+	}
+	"3853502"
+	{
+		"enable"		"0"
+		"hammerid"		"3853502"
+		"m_iname"		"door57_7"
+	}
+	"3893273"
+	{
+		"enable"		"0"
+		"hammerid"		"3893273"
+		"m_iname"		"queentorch4"
+	}
+	"1441750"
+	{
+		"enable"		"1"
+		"hammerid"		"1441750"
+		"m_iname"		"bosslvl1_model"
+	}
+	"1441755"
+	{
+		"enable"		"1"
+		"hammerid"		"1441755"
+		"m_iname"		"bosslvl1_model"
+	}
+	"2659025"
+	{
+		"enable"		"1"
+	}
+	"961314"
+	{
+		"enable"		"1"
+	}
+	"71726"
+	{
+		"enable"		"1"
+	}
+}

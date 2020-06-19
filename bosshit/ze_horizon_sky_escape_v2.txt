@@ -1,0 +1,116 @@
+"BOSSHP"
+{
+	"688471"
+	{
+		"enable"		"0"
+		"hammerid"		"688471"
+		"m_iname"		"easymode_physbox"
+	}
+	"688520"
+	{
+		"enable"		"0"
+		"hammerid"		"688520"
+		"m_iname"		"hardmode_physbox"
+	}
+	"683071"
+	{
+		"enable"		"0"
+		"hammerid"		"683071"
+		"m_iname"		"warmup_physbox"
+	}
+	"669132"
+	{
+		"enable"		"0"
+		"hammerid"		"669132"
+		"m_iname"		"easymode_shield1"
+	}
+	"669230"
+	{
+		"enable"		"0"
+		"hammerid"		"669230"
+		"m_iname"		"easymode_shield2"
+	}
+	"551771"
+	{
+		"enable"		"0"
+		"hammerid"		"551771"
+		"m_iname"		"castle_gate_keeper"
+	}
+	"533075"
+	{
+		"enable"		"0"
+		"hammerid"		"533075"
+		"m_iname"		"area1_cannon_shield"
+	}
+	"492246"
+	{
+		"enable"		"0"
+		"hammerid"		"492246"
+		"m_iname"		"breakable_door2"
+	}
+	"487160"
+	{
+		"enable"		"0"
+		"hammerid"		"487160"
+		"m_iname"		"breakable_door1"
+	}
+	"313012"
+	{
+		"enable"		"0"
+		"hammerid"		"313012"
+		"m_iname"		"area6_playerclip1"
+	}
+	"278573"
+	{
+		"enable"		"0"
+		"hammerid"		"278573"
+		"m_iname"		"area6_breakable_floor1"
+	}
+	"229515"
+	{
+		"enable"		"0"
+		"hammerid"		"229515"
+		"m_iname"		"area1_breakable1"
+	}
+	"229690"
+	{
+		"enable"		"0"
+		"hammerid"		"229690"
+		"m_iname"		"area1_breakable2"
+	}
+	"229907"
+	{
+		"enable"		"0"
+		"hammerid"		"229907"
+		"m_iname"		"area1_breakable3"
+	}
+	"230009"
+	{
+		"enable"		"0"
+		"hammerid"		"230009"
+		"m_iname"		"area1_breakable4"
+	}
+	"230012"
+	{
+		"enable"		"0"
+		"hammerid"		"230012"
+		"m_iname"		"area1_breakable5"
+	}
+	"230016"
+	{
+		"enable"		"0"
+		"hammerid"		"230016"
+		"m_iname"		"area1_breakable6"
+	}
+	"230019"
+	{
+		"enable"		"0"
+		"hammerid"		"230019"
+		"m_iname"		"area1_breakable7"
+	}
+	"695434"
+	{
+		"enable"		"-1"
+		"hammerid"		"695434"
+	}
+}

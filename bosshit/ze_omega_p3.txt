@@ -1,18 +1,16 @@
 "BOSSHP"
 {
-	"hallway1_power"
-	{
-		"enable"		"0"
-	}
-	"boxer"
-	{
-		"enable"		"0"
-	}
 	"41083"
 	{
 		"enable"		"0"
 		"hammerid"		"41083"
 		"m_iname"		"ZombieHand"
+	}
+	"9436"
+	{
+		"enable"		"0"
+		"hammerid"		"9436"
+		"m_iname"		"hallway1_power"
 	}
 	"9607"
 	{
@@ -31,6 +29,12 @@
 		"enable"		"0"
 		"hammerid"		"10172"
 		"m_iname"		"cartcontrol_brokenwall"
+	}
+	"12019"
+	{
+		"enable"		"0"
+		"hammerid"		"12019"
+		"m_iname"		"boxer"
 	}
 	"12067"
 	{

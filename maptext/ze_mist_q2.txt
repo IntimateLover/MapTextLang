@@ -50,7 +50,7 @@
 	}
 	"*** 120 seconds ***"
 	{
-		"chi"		"** 请等待 120 秒后揭开BOSS战 **"
+		"chi"		"**120秒后BOSS房门开启**"
 	}
 	"*** 90 seconds ***"
 	{
@@ -133,13 +133,25 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"82442"
+		"syncvalue"		"46430"
 	}
 	"*** You have failed to slay the dragon in time! ***"
 	{
 		"chi"		"** 你们没有在规定的是时限里杀掉龙! **"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"*** Practice mode enabled ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You can restart the round now ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Or dont. What do I care? Im not your daddy ***"
 	{
 		"chi"		"** **"
 	}

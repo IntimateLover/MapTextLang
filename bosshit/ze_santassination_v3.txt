@@ -46,15 +46,15 @@
 	}
 	"600"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"600"
-		"m_iname"		"npc_phys2g&3443"
+		"m_iname"		"npc_phys2g&5743"
 	}
 	"3218"
 	{
 		"enable"		"0"
 		"hammerid"		"3218"
-		"m_iname"		"npc_phys2gg&3443"
+		"m_iname"		"npc_phys2gg&5743"
 	}
 	"237241"
 	{
@@ -78,25 +78,25 @@
 	{
 		"enable"		"0"
 		"hammerid"		"5528"
-		"m_iname"		"npc_phys2g1&3442"
+		"m_iname"		"npc_phys2g1&5745"
 	}
 	"5520"
 	{
 		"enable"		"0"
 		"hammerid"		"5520"
-		"m_iname"		"npc_phys2gg1&3442"
+		"m_iname"		"npc_phys2gg1&5745"
 	}
 	"6821"
 	{
 		"enable"		"0"
 		"hammerid"		"6821"
-		"m_iname"		"npc_phys2g2&3444"
+		"m_iname"		"npc_phys2g2&5747"
 	}
 	"6813"
 	{
 		"enable"		"0"
 		"hammerid"		"6813"
-		"m_iname"		"npc_phys2gg2&3444"
+		"m_iname"		"npc_phys2gg2&5747"
 	}
 	"1617321"
 	{
@@ -114,25 +114,25 @@
 	{
 		"enable"		"0"
 		"hammerid"		"183230"
-		"m_iname"		"projectile_phys_1&3292"
+		"m_iname"		"projectile_phys_1&3934"
 	}
 	"14151"
 	{
 		"enable"		"0"
 		"hammerid"		"14151"
-		"m_iname"		"npc_phys2g3&3316"
+		"m_iname"		"npc_phys2g3&5748"
 	}
 	"14258"
 	{
 		"enable"		"0"
 		"hammerid"		"14258"
-		"m_iname"		"npc_phys2gg3&3316"
+		"m_iname"		"npc_phys2gg3&5748"
 	}
 	"12758"
 	{
 		"enable"		"0"
 		"hammerid"		"12758"
-		"m_iname"		"i_mm_phys&1811"
+		"m_iname"		"i_mm_phys&3864"
 	}
 	"2219326"
 	{
@@ -336,7 +336,7 @@
 	{
 		"enable"		"0"
 		"hammerid"		"246770"
-		"m_iname"		"i_beavercrate&2397"
+		"m_iname"		"i_beavercrate&4940"
 	}
 	"398261"
 	{
@@ -619,5 +619,39 @@
 		"enable"		"0"
 		"hammerid"		"1780341"
 		"m_iname"		"truth_socrates3"
+	}
+	"779666"
+	{
+		"enable"		"-1"
+		"hammerid"		"779666"
+	}
+	"415800"
+	{
+		"enable"		"-1"
+		"hammerid"		"415800"
+	}
+	"55493"
+	{
+		"enable"		"-1"
+		"hammerid"		"55493"
+		"m_iname"		"stagephys"
+	}
+	"55518"
+	{
+		"enable"		"-1"
+		"hammerid"		"55518"
+		"m_iname"		"stagephys"
+	}
+	"55521"
+	{
+		"enable"		"-1"
+		"hammerid"		"55521"
+		"m_iname"		"stagephys"
+	}
+	"55524"
+	{
+		"enable"		"-1"
+		"hammerid"		"55524"
+		"m_iname"		"stagephys"
 	}
 }

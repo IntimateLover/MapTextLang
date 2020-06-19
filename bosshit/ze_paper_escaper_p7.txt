@@ -6,102 +6,6 @@
 		"hammerid"		"3812"
 		"m_iname"		"GlassBoss"
 	}
-	"2733"
-	{
-		"enable"		"0"
-		"hammerid"		"2733"
-		"m_iname"		"bombona"
-	}
-	"2623"
-	{
-		"enable"		"0"
-		"hammerid"		"2623"
-		"m_iname"		"AstroHelmet"
-	}
-	"270850"
-	{
-		"enable"		"0"
-		"hammerid"		"270850"
-		"m_iname"		"PenisPenis"
-	}
-	"821740"
-	{
-		"enable"		"0"
-		"hammerid"		"821740"
-		"m_iname"		"CoolEliteNoUse"
-	}
-	"3312"
-	{
-		"enable"		"0"
-		"hammerid"		"3312"
-		"m_iname"		"AmmoBox"
-	}
-	"230928"
-	{
-		"enable"		"1"
-		"hammerid"		"230928"
-		"m_iname"		"ExtBossCannonDmg"
-	}
-	"3654"
-	{
-		"enable"		"1"
-		"hammerid"		"3654"
-		"m_iname"		"ExtBoss"
-	}
-	"107557"
-	{
-		"enable"		"0"
-		"hammerid"		"107557"
-		"m_iname"		"Raivb1000_Weapon"
-	}
-	"386610"
-	{
-		"enable"		"0"
-		"hammerid"		"386610"
-		"m_iname"		"LemonG1"
-	}
-	"411552"
-	{
-		"enable"		"0"
-		"hammerid"		"411552"
-		"m_iname"		"LemonG2"
-	}
-	"411569"
-	{
-		"enable"		"0"
-		"hammerid"		"411569"
-		"m_iname"		"LemonG3"
-	}
-	"588677"
-	{
-		"enable"		"0"
-		"hammerid"		"588677"
-		"m_iname"		"Burguer"
-	}
-	"695644"
-	{
-		"enable"		"0"
-		"hammerid"		"695644"
-		"m_iname"		"Coolr"
-	}
-	"904544"
-	{
-		"enable"		"1"
-		"hammerid"		"904544"
-		"m_iname"		"EndBossHead"
-	}
-	"904511"
-	{
-		"enable"		"1"
-		"hammerid"		"904511"
-		"m_iname"		"BossREVENGE"
-	}
-	"569911"
-	{
-		"enable"		"0"
-		"hammerid"		"569911"
-		"m_iname"		"mis"
-	}
 	"3217"
 	{
 		"enable"		"0"
@@ -113,6 +17,12 @@
 		"enable"		"0"
 		"hammerid"		"3014"
 		"m_iname"		"Garage2Break"
+	}
+	"2733"
+	{
+		"enable"		"0"
+		"hammerid"		"2733"
+		"m_iname"		"bombona"
 	}
 	"2701"
 	{
@@ -156,6 +66,12 @@
 		"hammerid"		"2468"
 		"m_iname"		"StartDoorsBreak"
 	}
+	"2623"
+	{
+		"enable"		"0"
+		"hammerid"		"2623"
+		"m_iname"		"AstroHelmet"
+	}
 	"2778"
 	{
 		"enable"		"0"
@@ -173,6 +89,12 @@
 		"enable"		"0"
 		"hammerid"		"3537"
 		"m_iname"		"GlassOffice"
+	}
+	"270850"
+	{
+		"enable"		"0"
+		"hammerid"		"270850"
+		"m_iname"		"PenisPenis"
 	}
 	"3974"
 	{
@@ -276,42 +198,6 @@
 		"hammerid"		"794894"
 		"m_iname"		"MassExp1"
 	}
-	"3384"
-	{
-		"enable"		"0"
-		"hammerid"		"3384"
-		"m_iname"		"SmallGens"
-	}
-	"241285"
-	{
-		"enable"		"0"
-		"hammerid"		"241285"
-		"m_iname"		"RageFaceBreak"
-	}
-	"524071"
-	{
-		"enable"		"0"
-		"hammerid"		"524071"
-		"m_iname"		"UltiBridgeBreak"
-	}
-	"715930"
-	{
-		"enable"		"0"
-		"hammerid"		"715930"
-		"m_iname"		"EndClip"
-	}
-	"372858"
-	{
-		"enable"		"0"
-		"hammerid"		"372858"
-		"m_iname"		"UltimElevLadder"
-	}
-	"904561"
-	{
-		"enable"		"0"
-		"hammerid"		"904561"
-		"m_iname"		"EndRage"
-	}
 	"874019"
 	{
 		"enable"		"1"
@@ -324,29 +210,262 @@
 		"hammerid"		"874029"
 		"m_iname"		"PanicBossGlass"
 	}
-	"396514"
+	"524071"
 	{
-		"enable"		"0"
-		"hammerid"		"396514"
-		"m_iname"		"PanicEyeTrain"
+		"enable"		"-1"
+		"hammerid"		"524071"
+		"m_iname"		"UltiBridgeBreak"
+	}
+	"821740"
+	{
+		"enable"		"-1"
+		"hammerid"		"821740"
+		"m_iname"		"CoolEliteNoUse"
+	}
+	"715930"
+	{
+		"enable"		"-1"
+		"hammerid"		"715930"
+		"m_iname"		"EndClip"
 	}
 	"395212"
 	{
-		"enable"		"0"
+		"enable"		"-1"
 		"hammerid"		"395212"
 		"m_iname"		"PanicButtonsBreak_A"
 	}
 	"395578"
 	{
-		"enable"		"0"
+		"enable"		"-1"
 		"hammerid"		"395578"
 		"m_iname"		"PanicButtonsBreak_B"
+	}
+	"395728"
+	{
+		"enable"		"-1"
+		"hammerid"		"395728"
+	}
+	"395736"
+	{
+		"enable"		"-1"
+		"hammerid"		"395736"
+	}
+	"396514"
+	{
+		"enable"		"-1"
+		"hammerid"		"396514"
+		"m_iname"		"PanicEyeTrain"
+	}
+	"241285"
+	{
+		"enable"		"-1"
+		"hammerid"		"241285"
+		"m_iname"		"RageFaceBreak"
+	}
+	"230928"
+	{
+		"enable"		"1"
+		"hammerid"		"230928"
+		"m_iname"		"ExtBossCannonDmg"
+	}
+	"3654"
+	{
+		"enable"		"1"
+		"hammerid"		"3654"
+		"m_iname"		"ExtBoss"
+	}
+	"588677"
+	{
+		"enable"		"-1"
+		"hammerid"		"588677"
+		"m_iname"		"Burguer"
+	}
+	"588973"
+	{
+		"enable"		"-1"
+		"hammerid"		"588973"
+	}
+	"372858"
+	{
+		"enable"		"-1"
+		"hammerid"		"372858"
+		"m_iname"		"UltimElevLadder"
+	}
+	"3001"
+	{
+		"enable"		"-1"
+		"hammerid"		"3001"
+	}
+	"2551"
+	{
+		"enable"		"-1"
+		"hammerid"		"2551"
+	}
+	"2589"
+	{
+		"enable"		"-1"
+		"hammerid"		"2589"
+	}
+	"2591"
+	{
+		"enable"		"-1"
+		"hammerid"		"2591"
+	}
+	"2800"
+	{
+		"enable"		"-1"
+		"hammerid"		"2800"
+	}
+	"2593"
+	{
+		"enable"		"-1"
+		"hammerid"		"2593"
+	}
+	"107557"
+	{
+		"enable"		"-1"
+		"hammerid"		"107557"
+		"m_iname"		"Raivb1000_Weapon"
+	}
+	"411552"
+	{
+		"enable"		"-1"
+		"hammerid"		"411552"
+		"m_iname"		"LemonG2"
+	}
+	"3312"
+	{
+		"enable"		"-1"
+		"hammerid"		"3312"
+		"m_iname"		"AmmoBox"
+	}
+	"3376"
+	{
+		"enable"		"-1"
+		"hammerid"		"3376"
+	}
+	"3384"
+	{
+		"enable"		"-1"
+		"hammerid"		"3384"
+		"m_iname"		"SmallGens"
+	}
+	"3441"
+	{
+		"enable"		"-1"
+		"hammerid"		"3441"
+	}
+	"3443"
+	{
+		"enable"		"-1"
+		"hammerid"		"3443"
+	}
+	"3448"
+	{
+		"enable"		"-1"
+		"hammerid"		"3448"
+	}
+	"3450"
+	{
+		"enable"		"-1"
+		"hammerid"		"3450"
+	}
+	"386610"
+	{
+		"enable"		"-1"
+		"hammerid"		"386610"
+		"m_iname"		"LemonG1"
+	}
+	"411569"
+	{
+		"enable"		"-1"
+		"hammerid"		"411569"
+		"m_iname"		"LemonG3"
+	}
+	"3194"
+	{
+		"enable"		"-1"
+		"hammerid"		"3194"
+	}
+	"3196"
+	{
+		"enable"		"-1"
+		"hammerid"		"3196"
+	}
+	"5492"
+	{
+		"enable"		"-1"
+		"hammerid"		"5492"
+	}
+	"695557"
+	{
+		"enable"		"-1"
+		"hammerid"		"695557"
+	}
+	"695644"
+	{
+		"enable"		"-1"
+		"hammerid"		"695644"
+		"m_iname"		"Coolr"
+	}
+	"726906"
+	{
+		"enable"		"-1"
+		"hammerid"		"726906"
+	}
+	"783085"
+	{
+		"enable"		"-1"
+		"hammerid"		"783085"
+	}
+	"802676"
+	{
+		"enable"		"-1"
+		"hammerid"		"802676"
+	}
+	"904544"
+	{
+		"enable"		"1"
+		"hammerid"		"904544"
+		"m_iname"		"EndBossHead"
+	}
+	"904561"
+	{
+		"enable"		"-1"
+		"hammerid"		"904561"
+		"m_iname"		"EndRage"
+	}
+	"908708"
+	{
+		"enable"		"-1"
+		"hammerid"		"908708"
+	}
+	"1048845"
+	{
+		"enable"		"-1"
+		"hammerid"		"1048845"
+	}
+	"1048863"
+	{
+		"enable"		"-1"
+		"hammerid"		"1048863"
+	}
+	"904511"
+	{
+		"enable"		"1"
+		"hammerid"		"904511"
+		"m_iname"		"BossREVENGE"
 	}
 	"1288186"
 	{
 		"enable"		"1"
 		"hammerid"		"1288186"
 		"m_iname"		"PanicBoss"
+	}
+	"1406969"
+	{
+		"enable"		"-1"
+		"hammerid"		"1406969"
 	}
 	"40696"
 	{
@@ -365,17 +484,5 @@
 		"enable"		"1"
 		"hammerid"		"189203"
 		"m_iname"		"PanicBossVent_B"
-	}
-	"4051"
-	{
-		"enable"		"0"
-		"hammerid"		"4051"
-		"m_iname"		"TornadoMove"
-	}
-	"487162"
-	{
-		"enable"		"0"
-		"hammerid"		"487162"
-		"m_iname"		"SpitPanic_Physbox&6939"
 	}
 }

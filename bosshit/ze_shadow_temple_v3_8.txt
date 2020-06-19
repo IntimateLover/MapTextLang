@@ -1,0 +1,45 @@
+"BOSSHP"
+{
+	"101023"
+	{
+		"enable"		"1"
+		"hammerid"		"101023"
+		"m_iname"		"nrk1_statue_break_2"
+	}
+	"414885"
+	{
+		"enable"		"0"
+		"hammerid"		"414885"
+		"m_iname"		"nrk1_statue_break_22"
+	}
+	"336975"
+	{
+		"enable"		"1"
+		"hammerid"		"336975"
+		"m_iname"		"hitbox2"
+	}
+	"285583"
+	{
+		"enable"		"1"
+		"hammerid"		"285583"
+		"m_iname"		"hitbox"
+	}
+	"163289"
+	{
+		"enable"		"0"
+		"hammerid"		"163289"
+		"m_iname"		"nrk1_statue_break_1"
+	}
+	"48842"
+	{
+		"enable"		"0"
+		"hammerid"		"48842"
+		"m_iname"		"nrk1_statue_break_1"
+	}
+	"48849"
+	{
+		"enable"		"0"
+		"hammerid"		"48849"
+		"m_iname"		"nrk1_statue_break_2"
+	}
+}

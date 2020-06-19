@@ -1,0 +1,21 @@
+"BOSSHP"
+{
+	"30168"
+	{
+		"enable"		"0"
+		"hammerid"		"30168"
+		"m_iname"		"Lv1_key_01_box"
+	}
+	"9021"
+	{
+		"enable"		"1"
+		"hammerid"		"9021"
+		"m_iname"		"Lv1boss_stratwall"
+	}
+	"8462"
+	{
+		"enable"		"1"
+		"hammerid"		"8462"
+		"m_iname"		"Lv1boss_hp"
+	}
+}

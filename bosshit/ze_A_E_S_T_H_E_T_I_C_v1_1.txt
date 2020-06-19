@@ -1,35 +1,5 @@
 "BOSSHP"
 {
-	"124050"
-	{
-		"enable"		"1"
-		"hammerid"		"124050"
-		"m_iname"		"EyeBoss&3644"
-	}
-	"346300"
-	{
-		"enable"		"1"
-		"hammerid"		"346300"
-		"m_iname"		"NPC_Standard_Phys&7688"
-	}
-	"127952"
-	{
-		"enable"		"0"
-		"hammerid"		"127952"
-		"m_iname"		"EyeAreaZombieGlass"
-	}
-	"136911"
-	{
-		"enable"		"1"
-		"hammerid"		"136911"
-		"m_iname"		"EyeBossSpecialHitbox&3644"
-	}
-	"568972"
-	{
-		"enable"		"0"
-		"hammerid"		"568972"
-		"m_iname"		"Burger_Fire&7934"
-	}
 	"667358"
 	{
 		"enable"		"0"
@@ -192,6 +162,12 @@
 		"hammerid"		"163372"
 		"m_iname"		"UpstreamBreakable"
 	}
+	"127952"
+	{
+		"enable"		"0"
+		"hammerid"		"127952"
+		"m_iname"		"EyeAreaZombieGlass"
+	}
 	"33841"
 	{
 		"enable"		"0"
@@ -234,10 +210,31 @@
 		"hammerid"		"39095"
 		"m_iname"		"Tile1"
 	}
-	"468837"
+	"124050"
 	{
 		"enable"		"1"
-		"hammerid"		"468837"
-		"m_iname"		"Boss_Mini_Hitbox"
+		"hammerid"		"124050"
+		"m_iname"		"EyeBoss&2831"
+	}
+	"136911"
+	{
+		"enable"		"1"
+		"hammerid"		"136911"
+		"m_iname"		"EyeBossSpecialHitbox&2831"
+	}
+	"457197"
+	{
+		"enable"		"-1"
+		"hammerid"		"457197"
+	}
+	"54094"
+	{
+		"enable"		"-1"
+		"hammerid"		"54094"
+	}
+	"54831"
+	{
+		"enable"		"-1"
+		"hammerid"		"54831"
 	}
 }

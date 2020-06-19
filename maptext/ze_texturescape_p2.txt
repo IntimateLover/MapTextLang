@@ -45,6 +45,7 @@
 	"*** Deadly gas launched! 10 seconds until glass door is sealed! ***"
 	{
 		"chi"		"**喷出致命的毒气！坚持 10 秒直至玻璃门封闭！**地图翻译 by 色狼领袖**"
+		"DoorCountdown"		"10"
 	}
 	"*** Second teleport in 20 seconds! Dont stay behind. ***"
 	{

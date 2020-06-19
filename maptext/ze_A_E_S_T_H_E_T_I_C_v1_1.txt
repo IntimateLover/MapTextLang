@@ -15,7 +15,7 @@
 	"** The spectacle must continue, though at a different place. **"
 	{
 		"chi"		"**这个演出必须继续，虽然是在一个不同的地方 **"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"** Extras must be part of the action too, or were they the protagonists? **"
 	{
@@ -48,12 +48,12 @@
 	"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
 	{
 		"chi"		"**第五个开关已被按下，最后一堵墙（气球）要倒塌了 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** At some point in the journey, the traveller is given a hand. **"
 	{
 		"chi"		"**在旅行途中，有人会帮你们一把 **"
-		"DoorCountDown"		"16"
+		"DoorCountdown"		"16"
 	}
 	"** Reaching out for help is at times harder than everything else... **"
 	{
@@ -74,7 +74,7 @@
 	"** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
 	{
 		"chi"		"**时刻即将到来，树只靠他们自己存活，风会讲述成百上千的传说 **"
-		"DoorCountDown"		"11"
+		"DoorCountdown"		"11"
 	}
 	"** And as time is but a rambling story, rambling further it shall flow. **"
 	{
@@ -95,7 +95,7 @@
 	"** Céline probably rides along with us to the end of the night, making offhand remarks. **"
 	{
 		"chi"		"**麒麟（飞机）可能与我们同行至夜晚的尽头，飞船的开关已被按下 **"
-		"DoorCountDown"		"12"
+		"DoorCountdown"		"12"
 	}
 	"** Has anybody seen the keys that open the window to reach the stars? **"
 	{
@@ -112,7 +112,7 @@
 	"** ...and as lovers they meet: different but equal in ways they couldnt tell... **"
 	{
 		"chi"		"**当爱人们相见，以他们不能言表的方式，不同却平等 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** BEHOLD! Little more than beasts in humanly flesh will come! **"
 	{
@@ -129,7 +129,7 @@
 	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
 	{
 		"chi"		"**我们曾经梦想别处-一个更为温和的地方-我们至此却会后悔的地方 **"
-		"DoorCountDown"		"22"
+		"DoorCountdown"		"22"
 	}
 	"** Ticking for not much longer and then... ...will we see your face again? **"
 	{
@@ -170,7 +170,7 @@
 	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
 	{
 		"chi"		"**蓝色：藏在玻璃碎片之后的脸，迷失在浓雾中...你在何方？ **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** What do those forged smiles mean to the free men? **"
 	{
@@ -191,6 +191,7 @@
 	"** If I were you, Id look up some 70s Canterbury bands to go with the Bucholics of this land... **"
 	{
 		"chi"		"**如果我是你，我会查阅70年代的文献 **"
+		"DoorCountdown"		"-1"
 	}
 	"** But as finding keys and levers that open mouths and brains is more important, Id diversify as well. **"
 	{
@@ -211,7 +212,7 @@
 	"** Up or down -- does it matter? It all ends up being the same... **"
 	{
 		"chi"		"**向上或者向下-有何关系呢？终究殊途同归 **"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
 	{
@@ -270,7 +271,7 @@
 	"** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
 	{
 		"chi"		"**所有那些努力皆是徒劳浪费，挣扎向前，后被抹杀 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Behold! It is time for the brundabogbog! **"
 	{
@@ -279,7 +280,7 @@
 	"** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
 	{
 		"chi"		"**忘记Keats说过有关骨灰盒的一切，我们最后将面对的是虚空 **"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
 	"** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
 	{
@@ -308,7 +309,7 @@
 	"** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
 	{
 		"chi"		"**他醒了，他吃饱了！只有一团星辰，一块肉能拯救我们吗？ **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"** ...and so the brave Ulysses rests his eyes on the stars... **"
 	{

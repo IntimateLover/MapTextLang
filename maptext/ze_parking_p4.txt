@@ -93,6 +93,7 @@
 	">>>>Only 15 Proxi Mines<<<<"
 	{
 		"chi"		"**只有15个地雷**"
+		"DoorCountdown"		"-1"
 	}
 	">>>>Proxi Mine has been picked<<<<"
 	{

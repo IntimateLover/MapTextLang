@@ -1,0 +1,171 @@
+"BOSSHP"
+{
+	"730452"
+	{
+		"enable"		"0"
+		"hammerid"		"730452"
+		"m_iname"		"train1_health"
+	}
+	"689233"
+	{
+		"enable"		"0"
+		"hammerid"		"689233"
+		"m_iname"		"item_nazgul_7"
+	}
+	"689245"
+	{
+		"enable"		"0"
+		"hammerid"		"689245"
+		"m_iname"		"item_nazgul_7"
+	}
+	"492178"
+	{
+		"enable"		"0"
+		"hammerid"		"492178"
+		"m_iname"		"rift_unway"
+	}
+	"17571"
+	{
+		"enable"		"0"
+		"hammerid"		"17571"
+		"m_iname"		"helix"
+	}
+	"8440"
+	{
+		"enable"		"0"
+		"hammerid"		"8440"
+		"m_iname"		"heli"
+	}
+	"14338"
+	{
+		"enable"		"0"
+		"hammerid"		"14338"
+		"m_iname"		"rift_unway"
+	}
+	"561633"
+	{
+		"enable"		"0"
+		"hammerid"		"561633"
+		"m_iname"		"aa"
+	}
+	"561628"
+	{
+		"enable"		"0"
+		"hammerid"		"561628"
+		"m_iname"		"deee"
+	}
+	"557701"
+	{
+		"enable"		"0"
+		"hammerid"		"557701"
+		"m_iname"		"protect_glass"
+	}
+	"292970"
+	{
+		"enable"		"0"
+		"hammerid"		"292970"
+		"m_iname"		"jump_portal"
+	}
+	"502556"
+	{
+		"enable"		"0"
+		"hammerid"		"502556"
+		"m_iname"		"physboxRocket&6309"
+	}
+	"426550"
+	{
+		"enable"		"0"
+		"hammerid"		"426550"
+		"m_iname"		"block_ice"
+	}
+	"557546"
+	{
+		"enable"		"0"
+		"hammerid"		"557546"
+		"m_iname"		"prop_wall"
+	}
+	"565197"
+	{
+		"enable"		"0"
+		"hammerid"		"565197"
+		"m_iname"		"prop_mine"
+	}
+	"863855"
+	{
+		"enable"		"0"
+		"hammerid"		"863855"
+		"m_iname"		"helix"
+	}
+	"824026"
+	{
+		"enable"		"0"
+		"hammerid"		"824026"
+		"m_iname"		"abc"
+	}
+	"924900"
+	{
+		"enable"		"0"
+		"hammerid"		"924900"
+		"m_iname"		"heli"
+	}
+	"965488"
+	{
+		"enable"		"0"
+		"hammerid"		"965488"
+		"m_iname"		"heli2"
+	}
+	"985466"
+	{
+		"enable"		"-1"
+		"hammerid"		"985466"
+		"m_iname"		"ad_phys_5"
+	}
+	"985506"
+	{
+		"enable"		"-1"
+		"hammerid"		"985506"
+		"m_iname"		"ad_phys_3"
+	}
+	"925353"
+	{
+		"enable"		"-1"
+		"hammerid"		"925353"
+	}
+	"925366"
+	{
+		"enable"		"-1"
+		"hammerid"		"925366"
+	}
+	"925379"
+	{
+		"enable"		"-1"
+		"hammerid"		"925379"
+	}
+	"965431"
+	{
+		"enable"		"-1"
+		"hammerid"		"965431"
+	}
+	"965444"
+	{
+		"enable"		"-1"
+		"hammerid"		"965444"
+	}
+	"965470"
+	{
+		"enable"		"-1"
+		"hammerid"		"965470"
+	}
+	"789817"
+	{
+		"enable"		"-1"
+		"hammerid"		"789817"
+		"m_iname"		"ad_phys_1"
+	}
+	"789830"
+	{
+		"enable"		"-1"
+		"hammerid"		"789830"
+		"m_iname"		"ad_phys_2"
+	}
+}

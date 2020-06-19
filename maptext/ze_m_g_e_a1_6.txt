@@ -1,0 +1,120 @@
+"Console_T"
+{
+	"*welcome to the world,happy game*"
+	{
+		"chi"		"**欢迎来到快乐游戏世界**"
+	}
+	"*11s teleport*"
+	{
+		"chi"		"**11秒后传送**"
+	}
+	"*wait for 20 seconds*"
+	{
+		"chi"		"**等待20秒**"
+	}
+	"*player pink up heal gun(cd 40s)*"
+	{
+		"chi"		"**玩家捡起了治疗枪（冷却时间40秒）**"
+		"DoorCountdown"		"-1"
+	}
+	"*player pink speed gun(speed 1.4)*"
+	{
+		"chi"		"**玩家捡起了加速枪**"
+	}
+	"*wait for 15 seconds*"
+	{
+		"chi"		"**等待15秒**"
+	}
+	"*hold 40seconds*"
+	{
+		"chi"		"**坚守40秒**"
+	}
+	"*wait 25s open teleport*"
+	{
+		"chi"		"**25秒后传送**"
+	}
+	"*need 15s break the wall*"
+	{
+		"chi"		"**墙在15秒后碎掉**"
+	}
+	"*wait 10sec*"
+	{
+		"chi"		"**等待10秒**"
+	}
+	"*defend 25s*"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"*you have 200sec kill the boss*"
+	{
+		"chi"		"**你只有200秒的时间去击败boss**"
+	}
+	"*boss use inside push*"
+	{
+		"chi"		"**boss使用了内推**"
+	}
+	"*boss use laser attack*"
+	{
+		"chi"		"**boss使用了激光攻击**"
+	}
+	"*boss use outside push*"
+	{
+		"chi"		"**boss使用了外推**"
+	}
+	"*boss use ultimate*"
+	{
+		"chi"		"**boss使用了终极**"
+	}
+	"*you kill the boss,defend 60sec win*"
+	{
+		"chi"		"**你击败了boss！防守60秒获胜！**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"69059"
+	}
+	"*player pinkup Gravtty gun*"
+	{
+		"chi"		"** **"
+	}
+	"*player pink speed gun(speed 1.5)*"
+	{
+		"chi"		"** **"
+	}
+	"*hold for 10seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*you have 210sec kill the boss*"
+	{
+		"chi"		"** **"
+	}
+	"*please CTRL!*"
+	{
+		"chi"		"** **"
+	}
+	"*look you below*"
+	{
+		"chi"		"** **"
+	}
+	"*boss use fire*"
+	{
+		"chi"		"** **"
+	}
+	"*stage win*"
+	{
+		"chi"		"** **"
+	}
+	"*look the color wall*"
+	{
+		"chi"		"** **"
+	}
+	"*you have 210seconds kill the boss*"
+	{
+		"chi"		"** **"
+	}
+	"*player pinkup limit*"
+	{
+		"chi"		"** **"
+	}
+}

@@ -340,4 +340,9 @@
 		"hammerid"		"9151"
 		"m_iname"		"blok_vert"
 	}
+	"125096"
+	{
+		"enable"		"-1"
+		"hammerid"		"125096"
+	}
 }

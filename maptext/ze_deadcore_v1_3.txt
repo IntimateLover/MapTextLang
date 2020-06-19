@@ -8,7 +8,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"*** 20 SECONDS LEFT ***"
 	{
@@ -21,16 +21,16 @@
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountDown"		"15"
+		"DoorCountdown"		"15"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"sync_version"
 	{
@@ -39,7 +39,7 @@
 	"*** Hold 40 seconds ***"
 	{
 		"chi"		"**守住40秒**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"*** 30 seconds left ***"
 	{
@@ -89,7 +89,7 @@
 	"*** Hold 10 seconds ***"
 	{
 		"chi"		"**守住10秒**"
-		"DoorCountDown"		"10"
+		"DoorCountdown"		"10"
 	}
 	"*** Hold 5 seconds ***"
 	{
@@ -97,7 +97,7 @@
 	}
 	"*** 100 ***"
 	{
-		"DoorCountDown"		"100"
+		"DoorCountdown"		"100"
 	}
 	"*** 90 ***"
 	{
@@ -140,6 +140,18 @@
 		"chi"		"** **"
 	}
 	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"<<Red Ambient Enable>>"
+	{
+		"chi"		"** **"
+	}
+	"<<Red Ambient Disable>>"
+	{
+		"chi"		"** **"
+	}
+	"<<Insane Mod>>"
 	{
 		"chi"		"** **"
 	}

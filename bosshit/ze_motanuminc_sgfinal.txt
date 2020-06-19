@@ -72,4 +72,49 @@
 		"hammerid"		"117796"
 		"m_iname"		"final_vent_2"
 	}
+	"4315"
+	{
+		"enable"		"-1"
+		"hammerid"		"4315"
+	}
+	"4322"
+	{
+		"enable"		"-1"
+		"hammerid"		"4322"
+	}
+	"4376"
+	{
+		"enable"		"-1"
+		"hammerid"		"4376"
+	}
+	"4383"
+	{
+		"enable"		"-1"
+		"hammerid"		"4383"
+	}
+	"4404"
+	{
+		"enable"		"-1"
+		"hammerid"		"4404"
+	}
+	"79944"
+	{
+		"enable"		"-1"
+		"hammerid"		"79944"
+	}
+	"129030"
+	{
+		"enable"		"-1"
+		"hammerid"		"129030"
+	}
+	"128856"
+	{
+		"enable"		"-1"
+		"hammerid"		"128856"
+	}
+	"183113"
+	{
+		"enable"		"-1"
+		"hammerid"		"183113"
+	}
 }

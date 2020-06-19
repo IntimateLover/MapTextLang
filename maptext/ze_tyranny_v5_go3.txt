@@ -7,25 +7,26 @@
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家10秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家5秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
 	{
 		"chi"		"**传送点在20秒后激活**"
-		"DoorCountDown"		"20"
 	}
 	">>> DRAGON USED WATER. GO FOWARD <<<"
 	{
 		"chi"		"**巨龙施放了浊液喷射，快往前跑！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> DRAGON USED FIRE. GO SIDE <<<"
 	{
 		"chi"		"**巨龙施放了焚烧烈焰，迅速往两边躲闪！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> DRAGON IS COMING AGAIN <<<"
 	{
@@ -37,8 +38,7 @@
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
 	{
-		" "		" "
-		" "		"chi"
+		"chi"		">>>打碎雕像从而获得神器<<<"
 	}
 	">>> NOOB TRASHED <<<"
 	{
@@ -47,17 +47,15 @@
 	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
 	{
 		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> HOLD 45 SECONDS <<<"
 	{
 		"chi"		"**坚守45秒**"
-		"DoorCountDown"		"45"
 	}
 	">>> SHOOT GARGANTUA <<<"
 	{
 		"chi"		"**我们不是已经击杀了它吗！没时间思考了快开火！那就再让它死一次！**"
-		"ico"		"icon_fire"
 	}
 	">>> ALL ZM ITEMS IS LOCKED <<<"
 	{
@@ -90,12 +88,10 @@
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		"**坚守25秒直至左方大门打开**"
-		"DoorCountDown"		"25"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		"**坚守20秒**"
-		"DoorCountDown"		"20"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
@@ -104,7 +100,6 @@
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**坚守10秒**"
-		"DoorCountDown"		"10"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
@@ -117,12 +112,10 @@
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		"**坚守15秒**"
-		"DoorCountDown"		"15"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
 		"chi"		"**毒蛛出现在了倒塌的书架上**"
-		"ico"		"icon_fire"
 	}
 	">>> DOOR CLOSING <<<"
 	{
@@ -131,7 +124,6 @@
 	">>> SPIDER USED POISON. HURRY <<<"
 	{
 		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
-		"ico"		"icon_fire"
 	}
 	">>> LEVEL COMPLETED <<<"
 	{
@@ -144,7 +136,6 @@
 	">>> GO RIGHT <<<"
 	{
 		"chi"		"**跑向右边铁门**"
-		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
@@ -165,7 +156,6 @@
 	">>> SPIDER IS DEAD <<<"
 	{
 		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
-		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
 	{
@@ -186,12 +176,10 @@
 	">>> TROLL IS COMING <<<"
 	{
 		"chi"		"**那是一只来意不善的食人魔！**"
-		"ico"		"icon_fire"
 	}
 	">>> TROLL IS DEAD <<<"
 	{
 		"chi"		"**我们击败了这只食人魔**"
-		"ico"		"icon_fire"
 	}
 	">>> ITS DRAGON <<<"
 	{
@@ -208,7 +196,6 @@
 	">>> HOLD 30 SECONDS <<<"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
@@ -225,7 +212,7 @@
 	">>> DRAGON USED GRAVITY <<<"
 	{
 		"chi"		"**巨龙施放了重力攫取，抵抗它的吸力别被吸进它脚下的火场里了！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> GATE OPENING IN 5 SECONDS <<<"
 	{
@@ -234,7 +221,6 @@
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		"**坚守35秒**"
-		"DoorCountDown"		"35"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
@@ -247,7 +233,6 @@
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
 		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"
-		"ico"		"icon_fire"
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
@@ -260,17 +245,15 @@
 	">>> DRAGON USED POISON <<<"
 	{
 		"chi"		"**巨龙施放了腐蚀剧毒**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
 	{
 		"chi"		"**巨龙负伤逃离了！快跑进传送点进行最后的防守！**"
-		"ico"		"icon_fire"
 	}
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
 	{
 		"chi"		"**传送点10秒后激活**"
-		"DoorCountDown"		"10"
 	}
 	">>> STAGE 4 <<<"
 	{
@@ -279,33 +262,31 @@
 	">>> GARGANTUA IS COMING <<<"
 	{
 		"chi"		"**那是巨人！这次我们一定要在这击败它！**"
-		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA USED KILLER. GO SIDE <<<"
 	{
 		"chi"		"**巨人施放了灭杀法阵！快跑向法阵无法影响到的广场边缘！**"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"7"
+		"DoorCountdown"		"7"
 	}
 	">>> GARGANTUA USED PUSH <<<"
 	{
 		"chi"		"**巨人施放了灼热龙卷！小心点别踏进广场边缘的凶猛火场里了！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> GARGANTUA USED POISON <<<"
 	{
 		"chi"		"**巨人施放了腐蚀剧毒！小心堆积在广场边缘的致命毒素！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
 		"chi"		"**巨人施放了焚烧烈焰！远离它！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> GARGANTUA USED ICE <<<"
 	{
 		"chi"		"**巨人施放了凛冽寒冰！**"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"4"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
 	{
@@ -318,12 +299,10 @@
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountDown"		"10"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
 		"chi"		"**坚守40秒**"
-		"DoorCountDown"		"40"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
@@ -332,12 +311,10 @@
 	">>> HOLD 15 SECONDS<<<"
 	{
 		"chi"		"**坚守15秒直至我们把大桥炸毁**"
-		"DoorCountDown"		"15"
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
-		" "		" "
-		" "		"chi"
+		"chi"		"**桥断了**"
 	}
 	">>> ITS BALROG <<<"
 	{
@@ -366,8 +343,7 @@
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
 		"chi"		">>>炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG IS HURT <<<"
 	{
@@ -392,31 +368,32 @@
 	">>> BALROG USED FIRE <<<"
 	{
 		"chi"		">>>炎魔释放了焚烧烈焰，往没有被点燃的那个半场跑！<<<"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
 		"chi"		">>>炎魔回复了150HP<<<"
+		"DoorCountdown"		"-1"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
 		"chi"		">>>小心炎魔那毁灭性的二连切割！快蹲下！别被它削掉你的脑袋了！<<<"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
 		"chi"		">>>炎魔施放了重力攫取，抵抗它的吸力！<<<"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG USED POISON <<<"
 	{
 		"chi"		">>>炎魔施放了腐蚀剧毒，左右躲开致命的毒云！<<<"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
 		"chi"		">>>炎魔施放了呼啸狂风，小心点别被推下平台了！<<<"
-		"ico"		"icon_fire"
+		"DoorCountdown"		"5"
 	}
 	">>> ADMIN CHANGED TO STAGE 5 <<<"
 	{
@@ -505,10 +482,12 @@
 	">>> AFK TELEPORT IN 3 SECONDS <<<"
 	{
 		"chi"		"**挂机玩家3秒后传送**"
+		"DoorCountdown"		"-1"
 	}
 	">>> BALROG USE LASER <<<"
 	{
 		"chi"		"**保持蹲下别被削掉脑袋了！小心炎魔挥出的二连死亡切割！**"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG USED HEAL <<<"
 	{
@@ -517,8 +496,7 @@
 	">>> BALROG USED KILLER <<<"
 	{
 		"chi"		">>>炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"5"
+		"DoorCountdown"		"5"
 	}
 	">>> BALROG USED SHIELD <<<"
 	{
@@ -543,19 +521,22 @@
 	">>> SURVIVE 4 MINUTES <<<"
 	{
 		"chi"		"**想尽办法在4分钟内活下来**"
+		"DoorCountdown"		"-1"
 	}
 	">>> 3 MINUTES LEFT <<<"
 	{
 		"chi"		"**还有3分钟**"
+		"DoorCountdown"		"-1"
 	}
 	">>> 2 MINUTES LEFT <<<"
 	{
-		"z"		"chi"
 		"chi"		">>>还有2分钟<<<"
+		"DoorCountdown"		"-1"
 	}
 	">>> 1 MINUTES LEFT <<<"
 	{
 		"chi"		"**最后1分钟**"
+		"DoorCountdown"		"-1"
 	}
 	">>> 30 SECONDS LEFT <<<"
 	{

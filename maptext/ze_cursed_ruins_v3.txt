@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"*** Door will open soon ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend this place until the door open ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door open in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door is open ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator is ready in 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator is ready in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"Dont block elevator or...."
+	{
+		"chi"		"** **"
+	}
+}

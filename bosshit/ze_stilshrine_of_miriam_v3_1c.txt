@@ -1,0 +1,95 @@
+"BOSSHP"
+{
+	"916516"
+	{
+		"enable"		"1"
+		"hammerid"		"916516"
+		"m_iname"		"Vyraal_boss_model_func"
+	}
+	"2121673"
+	{
+		"enable"		"1"
+		"hammerid"		"2121673"
+		"m_iname"		"Edge_Physbox1"
+	}
+	"2121698"
+	{
+		"enable"		"0"
+		"hammerid"		"2121698"
+		"m_iname"		"Edge_Physbox"
+	}
+	"2097758"
+	{
+		"enable"		"1"
+		"hammerid"		"2097758"
+		"m_iname"		"Lvl3_Bergan_Func"
+	}
+	"1979653"
+	{
+		"enable"		"0"
+		"hammerid"		"1979653"
+		"m_iname"		"lvl3_Bergan_Jail"
+	}
+	"1922604"
+	{
+		"enable"		"0"
+		"hammerid"		"1922604"
+		"m_iname"		"Bomb_model_func"
+	}
+	"1900716"
+	{
+		"enable"		"0"
+		"hammerid"		"1900716"
+		"m_iname"		"Ultima_wall"
+	}
+	"1878040"
+	{
+		"enable"		"0"
+		"hammerid"		"1878040"
+		"m_iname"		"Floor_break"
+	}
+	"1706145"
+	{
+		"enable"		"0"
+		"hammerid"		"1706145"
+		"m_iname"		"Short_wall1"
+	}
+	"1514695"
+	{
+		"enable"		"0"
+		"hammerid"		"1514695"
+		"m_iname"		"Ship_vents"
+	}
+	"69694"
+	{
+		"enable"		"0"
+		"hammerid"		"69694"
+		"m_iname"		"Extreme_SideWay_Wall"
+	}
+	"1936645"
+	{
+		"enable"		"0"
+		"hammerid"		"1936645"
+		"m_iname"		"Cactus_end_break"
+	}
+	"2121273"
+	{
+		"enable"		"1"
+		"hammerid"		"2121273"
+		"m_iname"		"mt_add"
+	}
+	"2173538"
+	{
+		"enable"		"0"
+		"hammerid"		"2173538"
+		"m_iname"		"Lvl4_Bergan_Func"
+	}
+	"2947406"
+	{
+		"enable"		"1"
+	}
+	"2558349"
+	{
+		"enable"		"1"
+	}
+}

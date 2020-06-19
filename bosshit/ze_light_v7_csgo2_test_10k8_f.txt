@@ -1,0 +1,123 @@
+"BOSSHP"
+{
+	"181216"
+	{
+		"enable"		"0"
+		"hammerid"		"181216"
+		"m_iname"		"breakwall2"
+	}
+	"179831"
+	{
+		"enable"		"0"
+		"hammerid"		"179831"
+		"m_iname"		"breakwallleft"
+	}
+	"179836"
+	{
+		"enable"		"0"
+		"hammerid"		"179836"
+		"m_iname"		"breakwallright"
+	}
+	"177502"
+	{
+		"enable"		"0"
+		"hammerid"		"177502"
+		"m_iname"		"looooong"
+	}
+	"175427"
+	{
+		"enable"		"0"
+		"hammerid"		"175427"
+		"m_iname"		"doorlastdefend"
+	}
+	"176652"
+	{
+		"enable"		"0"
+		"hammerid"		"176652"
+		"m_iname"		"light"
+	}
+	"176802"
+	{
+		"enable"		"0"
+		"hammerid"		"176802"
+		"m_iname"		"light"
+	}
+	"164957"
+	{
+		"enable"		"0"
+		"hammerid"		"164957"
+		"m_iname"		"breakzombie"
+	}
+	"161206"
+	{
+		"enable"		"0"
+		"hammerid"		"161206"
+		"m_iname"		"door2ultra"
+	}
+	"161291"
+	{
+		"enable"		"0"
+		"hammerid"		"161291"
+		"m_iname"		"door1ultra"
+	}
+	"163766"
+	{
+		"enable"		"0"
+		"hammerid"		"163766"
+		"m_iname"		"breakwalls2"
+	}
+	"163810"
+	{
+		"enable"		"0"
+		"hammerid"		"163810"
+		"m_iname"		"breakwalls"
+	}
+	"163850"
+	{
+		"enable"		"0"
+		"hammerid"		"163850"
+		"m_iname"		"breakwalls3"
+	}
+	"131151"
+	{
+		"enable"		"0"
+		"hammerid"		"131151"
+		"m_iname"		"zm2"
+	}
+	"131202"
+	{
+		"enable"		"0"
+		"hammerid"		"131202"
+		"m_iname"		"zm1"
+	}
+	"120590"
+	{
+		"enable"		"0"
+		"hammerid"		"120590"
+		"m_iname"		"go1"
+	}
+	"110385"
+	{
+		"enable"		"0"
+		"hammerid"		"110385"
+		"m_iname"		"glass4"
+	}
+	"110394"
+	{
+		"enable"		"0"
+		"hammerid"		"110394"
+		"m_iname"		"glass1"
+	}
+	"16965"
+	{
+		"enable"		"0"
+		"hammerid"		"16965"
+		"m_iname"		"door1"
+	}
+	"10466"
+	{
+		"enable"		"0"
+		"hammerid"		"10466"
+		"m_iname"		"door2"
+	}
+}

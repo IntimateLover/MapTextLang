@@ -31,6 +31,7 @@
 	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
 	{
 		"chi"		"**炎魔将会在15秒后到达楼梯区域**"
+		"DoorCountDown"		"-1"
 	}
 	"**Resist 30 s**"
 	{
@@ -91,6 +92,7 @@
 	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
 	{
 		"chi"		"**炎魔将会在15秒后到达巴林的墓室区域**"
+		"DoorCountDown"		"-1"
 	}
 	"**(Zombies) The door to Khazad-Dum bridge is now open**"
 	{
@@ -99,6 +101,7 @@
 	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
 	{
 		"chi"		"**炎魔将会在15秒后到达巨型楼梯区域**"
+		"DoorCountDown"		"-1"
 	}
 	"**Gandalf in the middle**"
 	{
@@ -111,6 +114,7 @@
 	"**Protect Gandalf during 35s! He must break the bridge! **"
 	{
 		"chi"		"**保护甘道夫35秒，他必须摧毁凯萨督姆大桥！(YOU SHALL NOT PASS!)**"
+		"DoorCountDown"		"0"
 	}
 	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
 	{

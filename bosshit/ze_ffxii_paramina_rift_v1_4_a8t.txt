@@ -1,0 +1,123 @@
+"BOSSHP"
+{
+	"116145"
+	{
+		"enable"		"0"
+		"hammerid"		"116145"
+		"m_iname"		"Temple_WayLeft"
+	}
+	"116165"
+	{
+		"enable"		"0"
+		"hammerid"		"116165"
+		"m_iname"		"Temple_WayRight"
+	}
+	"278945"
+	{
+		"enable"		"0"
+		"hammerid"		"278945"
+		"m_iname"		"Forest_Puzzle_Prop4"
+	}
+	"278977"
+	{
+		"enable"		"0"
+		"hammerid"		"278977"
+		"m_iname"		"Forest_Puzzle_Prop2"
+	}
+	"278986"
+	{
+		"enable"		"0"
+		"hammerid"		"278986"
+		"m_iname"		"Forest_Puzzle_Prop1"
+	}
+	"278997"
+	{
+		"enable"		"0"
+		"hammerid"		"278997"
+		"m_iname"		"Forest_Puzzle_Prop4"
+	}
+	"279007"
+	{
+		"enable"		"0"
+		"hammerid"		"279007"
+		"m_iname"		"Forest_Puzzle_Prop3"
+	}
+	"279016"
+	{
+		"enable"		"0"
+		"hammerid"		"279016"
+		"m_iname"		"Forest_Puzzle_Prop2"
+	}
+	"279033"
+	{
+		"enable"		"0"
+		"hammerid"		"279033"
+		"m_iname"		"Forest_Puzzle_Prop1"
+	}
+	"333202"
+	{
+		"enable"		"0"
+		"hammerid"		"333202"
+		"m_iname"		"Forest_WoodenPlank"
+	}
+	"368422"
+	{
+		"enable"		"0"
+		"hammerid"		"368422"
+		"m_iname"		"Forest_BreakGlass"
+	}
+	"644006"
+	{
+		"enable"		"0"
+		"hammerid"		"644006"
+		"m_iname"		"Fin_Break"
+	}
+	"687780"
+	{
+		"enable"		"0"
+		"hammerid"		"687780"
+		"m_iname"		"Fin_Debris_Prop"
+	}
+	"936049"
+	{
+		"enable"		"0"
+		"hammerid"		"936049"
+		"m_iname"		"Fin_Break"
+	}
+	"1138023"
+	{
+		"enable"		"0"
+		"hammerid"		"1138023"
+		"m_iname"		"Fin_Debris_Prop2"
+	}
+	"1160521"
+	{
+		"enable"		"0"
+		"hammerid"		"1160521"
+		"m_iname"		"Rift_Tower_6"
+	}
+	"1159945"
+	{
+		"enable"		"0"
+		"hammerid"		"1159945"
+		"m_iname"		"Rift_Tower_5"
+	}
+	"1157270"
+	{
+		"enable"		"0"
+		"hammerid"		"1157270"
+		"m_iname"		"Rift_Tower_2"
+	}
+	"1156316"
+	{
+		"enable"		"0"
+		"hammerid"		"1156316"
+		"m_iname"		"Forest_InsaneTower"
+	}
+	"1158581"
+	{
+		"enable"		"0"
+		"hammerid"		"1158581"
+		"m_iname"		"Rift_Tower_3"
+	}
+}

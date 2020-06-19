@@ -1,0 +1,23 @@
+"Console_T"
+{
+	">> Stage1"
+	{
+		"chi"		"** **"
+	}
+	">>Key was picked up"
+	{
+		"chi"		"** **"
+	}
+	">> Stage2"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"69884"
+	}
+	">> RTV(Beta)"
+	{
+		"chi"		"** **"
+	}
+}

@@ -43,7 +43,7 @@
 		"chi"		"** 工厂大门将在 25 秒后打开 **"
 		"DoorCountDown"		"25"
 	}
-	"*** Door Opens in 20 seconds ***"
+	"*** DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"** 门将在 20 秒后开启 **（在前面守住小门）"
 	}
@@ -200,5 +200,25 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"**感谢体验本地图,,祝大家玩得开心.**"
+	}
+	"*** What is this? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** What is happening? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIMES UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We got a winner ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Losers shall die! ***"
+	{
+		"chi"		"** **"
 	}
 }

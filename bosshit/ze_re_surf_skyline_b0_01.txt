@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"17493"
+	{
+		"enable"		"1"
+		"hammerid"		"17493"
+		"m_iname"		"Global_startroom_TP2_nohit"
+	}
+	"17595"
+	{
+		"enable"		"1"
+		"hammerid"		"17595"
+		"m_iname"		"Global_startroom_TP1_nohit"
+	}
+}

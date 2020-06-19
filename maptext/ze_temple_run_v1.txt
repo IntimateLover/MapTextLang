@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"30s elevator door open"
+	{
+		"chi"		"** **"
+	}
+	"40s elevator door open"
+	{
+		"chi"		"** **"
+	}
+	"7s"
+	{
+		"chi"		"** **"
+	}
+	"60s elevator door open"
+	{
+		"chi"		"** **"
+	}
+	"25s elevator door open"
+	{
+		"chi"		"** **"
+	}
+}

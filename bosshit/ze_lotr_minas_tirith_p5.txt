@@ -1,22 +1,28 @@
 "BOSSHP"
 {
+	"1658377"
+	{
+		"enable"		"1"
+		"hammerid"		"1658377"
+		"m_iname"		"stage_3_door11b"
+	}
 	"7485078"
 	{
 		"enable"		"0"
 		"hammerid"		"7485078"
-		"m_iname"		"ph_item_armor_2_d2&1260"
+		"m_iname"		"ph_item_armor_2_d2&1211"
 	}
 	"1397649"
 	{
 		"enable"		"0"
 		"hammerid"		"1397649"
-		"m_iname"		"ph_troll_hp_2&1262"
+		"m_iname"		"ph_troll_hp_2&1225"
 	}
 	"4848875"
 	{
 		"enable"		"0"
 		"hammerid"		"4848875"
-		"m_iname"		"ph_troll_hp_23&1262"
+		"m_iname"		"ph_troll_hp_23&1215"
 	}
 	"8518906"
 	{
@@ -150,12 +156,6 @@
 		"hammerid"		"1582255"
 		"m_iname"		"stage_2_bridge_3"
 	}
-	"1658377"
-	{
-		"enable"		"0"
-		"hammerid"		"1658377"
-		"m_iname"		"stage_3_door11b"
-	}
 	"1658399"
 	{
 		"enable"		"0"
@@ -246,11 +246,17 @@
 		"hammerid"		"6939756"
 		"m_iname"		"ph_stage_3_prop_dynamic"
 	}
+	"5349817"
+	{
+		"enable"		"0"
+		"hammerid"		"5349817"
+		"m_iname"		"item_oil_5&1253"
+	}
 	"1550580"
 	{
 		"enable"		"0"
 		"hammerid"		"1550580"
-		"m_iname"		"ph_object_soldier_5_2&1266"
+		"m_iname"		"ph_object_soldier_5_2&1112"
 	}
 	"4392144"
 	{
@@ -274,19 +280,37 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1550597"
-		"m_iname"		"ph_object_soldier_5_3&1271"
+		"m_iname"		"ph_object_soldier_5_3&1096"
 	}
 	"4277697"
 	{
 		"enable"		"0"
 		"hammerid"		"4277697"
-		"m_iname"		"ph_barricade_12&4477"
+		"m_iname"		"ph_barricade_12&8129"
 	}
 	"4277725"
 	{
 		"enable"		"0"
 		"hammerid"		"4277725"
-		"m_iname"		"ph_barricade_2&9524"
+		"m_iname"		"ph_barricade_2&0868"
+	}
+	"4277722"
+	{
+		"enable"		"0"
+		"hammerid"		"4277722"
+		"m_iname"		"ph_barricade_3&1006"
+	}
+	"4277732"
+	{
+		"enable"		"0"
+		"hammerid"		"4277732"
+		"m_iname"		"ph_barricade_1&1281"
+	}
+	"11131313"
+	{
+		"enable"		"0"
+		"hammerid"		"11131313"
+		"m_iname"		"ph_item_nazgul_7&1357"
 	}
 	"3618313"
 	{
@@ -334,13 +358,139 @@
 	{
 		"enable"		"0"
 		"hammerid"		"1550559"
-		"m_iname"		"ph_object_soldier_5&9635"
+		"m_iname"		"ph_object_soldier_5&1111"
 	}
-	"5349817"
+	"4277711"
 	{
 		"enable"		"0"
-		"hammerid"		"5349817"
-		"m_iname"		"item_oil_5&4224"
+		"hammerid"		"4277711"
+		"m_iname"		"ph_barricade_5&1326"
+	}
+	"4277627"
+	{
+		"enable"		"0"
+		"hammerid"		"4277627"
+		"m_iname"		"ph_barricade_15&1266"
+	}
+	"4277652"
+	{
+		"enable"		"0"
+		"hammerid"		"4277652"
+		"m_iname"		"ph_barricade_7&1256"
+	}
+	"4277708"
+	{
+		"enable"		"0"
+		"hammerid"		"4277708"
+		"m_iname"		"ph_barricade_6&1366"
+	}
+	"4277682"
+	{
+		"enable"		"0"
+		"hammerid"		"4277682"
+		"m_iname"		"ph_barricade_10&1221"
+	}
+	"12348348"
+	{
+		"enable"		"0"
+		"hammerid"		"12348348"
+		"m_iname"		"prop_explosive_phy&0957"
+	}
+	"1638218"
+	{
+		"enable"		"0"
+		"hammerid"		"1638218"
+		"m_iname"		"stage_3_door8"
+	}
+	"1550614"
+	{
+		"enable"		"0"
+		"hammerid"		"1550614"
+		"m_iname"		"ph_object_soldier_5_4&1116"
+	}
+	"1648923"
+	{
+		"enable"		"0"
+		"hammerid"		"1648923"
+		"m_iname"		"stage_3_door9"
+	}
+	"5195345"
+	{
+		"enable"		"0"
+		"hammerid"		"5195345"
+		"m_iname"		"stage_3_prop_dynamic"
+	}
+	"5195370"
+	{
+		"enable"		"0"
+		"hammerid"		"5195370"
+		"m_iname"		"stage_3_prop_dynamic"
+	}
+	"7629657"
+	{
+		"enable"		"0"
+		"hammerid"		"7629657"
+		"m_iname"		"stage_3_verja"
+	}
+	"869089"
+	{
+		"enable"		"0"
+		"hammerid"		"869089"
+		"m_iname"		"stage_3_door7"
+	}
+	"739239"
+	{
+		"enable"		"0"
+		"hammerid"		"739239"
+		"m_iname"		"stage_3_door3"
+	}
+	"4277634"
+	{
+		"enable"		"0"
+		"hammerid"		"4277634"
+		"m_iname"		"ph_barricade_14&1034"
+	}
+	"4277645"
+	{
+		"enable"		"0"
+		"hammerid"		"4277645"
+		"m_iname"		"ph_barricade_13&1217"
+	}
+	"6827928"
+	{
+		"enable"		"0"
+		"hammerid"		"6827928"
+		"m_iname"		"balrog_disabled"
+	}
+	"7628577"
+	{
+		"enable"		"0"
+		"hammerid"		"7628577"
+		"m_iname"		"ph_stage_4_barreras"
+	}
+	"1660096"
+	{
+		"enable"		"0"
+		"hammerid"		"1660096"
+		"m_iname"		"ph_stage_4_barreras"
+	}
+	"1660150"
+	{
+		"enable"		"0"
+		"hammerid"		"1660150"
+		"m_iname"		"ph_stage_4_barreras"
+	}
+	"7345712"
+	{
+		"enable"		"0"
+		"hammerid"		"7345712"
+		"m_iname"		"item_escalera_s1"
+	}
+	"7345739"
+	{
+		"enable"		"0"
+		"hammerid"		"7345739"
+		"m_iname"		"item_escalera_s1_2"
 	}
 	"2420999"
 	{
@@ -348,22 +498,10 @@
 		"hammerid"		"2420999"
 		"m_iname"		"ph_item_balrog_hp"
 	}
-	"4277732"
+	"4277618"
 	{
 		"enable"		"0"
-		"hammerid"		"4277732"
-		"m_iname"		"ph_barricade_1&4222"
-	}
-	"11131313"
-	{
-		"enable"		"0"
-		"hammerid"		"11131313"
-		"m_iname"		"ph_item_nazgul_7&4155"
-	}
-	"4277722"
-	{
-		"enable"		"0"
-		"hammerid"		"4277722"
-		"m_iname"		"ph_barricade_3&4226"
+		"hammerid"		"4277618"
+		"m_iname"		"ph_barricade_16&0865"
 	}
 }

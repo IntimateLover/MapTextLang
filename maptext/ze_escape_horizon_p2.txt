@@ -16,6 +16,10 @@
 	{
 		"chi"		"** **"
 	}
+	"*** To use launchers press button and hold space bar down ***"
+	{
+		"chi"		"** **"
+	}
 	"***ESCAPE BOAT 1 leaving in 10 seconds***"
 	{
 		"chi"		"** **"
@@ -24,19 +28,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***ESCAPE BOAT 2 leaving in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
 	"** Ladder to cannons open **"
-	{
-		"chi"		"** **"
-	}
-	"***ESCAPE BOAT 2 has escaped!***"
-	{
-		"chi"		"** **"
-	}
-	"*** To use launchers press button and hold space bar down ***"
 	{
 		"chi"		"** **"
 	}
@@ -48,14 +40,6 @@
 	{
 		"chi"		"** **"
 	}
-	"***ZODIAC leaving in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***ZODIAC has escaped!***"
-	{
-		"chi"		"** **"
-	}
 	"*** Rocket detonation in 60 Seconds ***"
 	{
 		"chi"		"** **"
@@ -64,15 +48,19 @@
 	{
 		"chi"		"** **"
 	}
-	"***ESCAPE LIFT leaving in 10 seconds***"
-	{
-		"chi"		"** **"
-	}
 	"***CHOPPER leaving in 15 seconds***"
 	{
 		"chi"		"** **"
 	}
 	"***CHOPPER is leaving***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE BOAT 2 leaving in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE BOAT 2 has escaped!***"
 	{
 		"chi"		"** **"
 	}

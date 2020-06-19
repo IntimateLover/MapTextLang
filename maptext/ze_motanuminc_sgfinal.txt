@@ -19,6 +19,7 @@
 	"@ **Now the ZombiCopter leaves in 1 minute**"
 	{
 		"chi"		"**现在开始，僵尸直升机将在 1 分钟后离开**"
+		"DoorCountdown"		"-1"
 	}
 	"@ **Humans go to the speed boat now!**"
 	{
@@ -50,7 +51,7 @@
 	}
 	"@ **Bunker Opens in 1 minute**"
 	{
-		"chi"		"**地堡将在 1 分钟后开启**"
+		"chi"		"**地堡将在56秒后打开**"
 	}
 	"@ **ZombieCopter has left Motanum Inc.!**"
 	{
@@ -70,7 +71,7 @@
 	}
 	"@ **Final Bunker Doors Closing in 1 minute**"
 	{
-		"chi"		"**距离最后的舱门关闭还有 1 分钟**"
+		"chi"		"**距离最后的舱门关闭还有60秒**"
 		"DoorCountdown"		"60"
 	}
 	"@ **10 seconds until the MIWOMD detonate colapsing everything!**"
@@ -88,5 +89,6 @@
 	"@ **Contact me at agent_2114@hotmail.com**"
 	{
 		"chi"		"**作者邮箱：agent_2114@hotmail.com    地图翻译 by 色狼领袖**"
+		"DoorCountdown"		"-1"
 	}
 }

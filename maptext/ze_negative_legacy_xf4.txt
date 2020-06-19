@@ -31,22 +31,22 @@
 	"***10 seconds to Open Door***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"***30 seconds to extinguishment***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"***5 seconds***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"***15 seconds to Close Door***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"***ERROR Security System Activate***"
 	{
@@ -83,32 +83,32 @@
 	"*** 20 seconds to Open Door ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 10 seconds ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"10"
+		"DoorCountDown"		"10"
 	}
 	"*** 15 seconds to Explosion Bomb ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** 5 SECONDS ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*** 20 seconds to Door Open ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"20"
+		"DoorCountDown"		"20"
 	}
 	"*** 30 seconds to Activate Lift ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"*** Elevator Teleport ON ***"
 	{
@@ -117,7 +117,7 @@
 	"*** 35 seconds to Open Door ***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"35"
+		"DoorCountDown"		"35"
 	}
 	"***20 seconds to Activate machine***"
 	{
@@ -226,7 +226,7 @@
 	"*** Hold 15 seconds ***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"*** Welcome to Negative Legacy ***"
 	{

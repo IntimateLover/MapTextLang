@@ -3,7 +3,7 @@
 	"***Prepare defences! 45 seconds!***"
 	{
 		"chi"		"**准备守TMD 45秒！**"
-		"DoorCountdown" "45"
+		"DoorCountdown"		"45"
 	}
 	"***Intro song is Spanish Flea***"
 	{
@@ -48,7 +48,7 @@
 	"***60 seconds left!**"
 	{
 		"chi"		"**还剩60秒！**"
-		"DoorCountdown" "60"
+		"DoorCountdown"		"60"
 	}
 	"***Humans Run to next exit**"
 	{
@@ -61,7 +61,7 @@
 	"***Prepare defences! 45 seconds!**"
 	{
 		"chi"		"**防守45秒**"
-		"DoorCountdown" "45"
+		"DoorCountdown"		"45"
 	}
 	"***Zombies out of Jail**"
 	{
@@ -78,7 +78,7 @@
 	"***Hold 50 seconds!***"
 	{
 		"chi"		"**守TMD50秒！**"
-		"DoorCountdown" "50"
+		"DoorCountdown"		"50"
 	}
 	"***Humans have been teleported!***"
 	{
@@ -115,5 +115,9 @@
 	"***No place is safe!***"
 	{
 		"chi"		"**没有安全的地方了！**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"45213"
 	}
 }

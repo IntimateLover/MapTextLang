@@ -1,0 +1,184 @@
+"Console_T"
+{
+	"***BOSS used move wall***"
+	{
+		"chi"		"**boss使用了移动墙，快回头找缝隙！**"
+		"DoorCountdown"		"3"
+	}
+	"***BOSS used gravity***"
+	{
+		"chi"		"**boss使用了黑洞！按住S**"
+		"DoorCountdown"		"3"
+	}
+	"***BOSS used laser***"
+	{
+		"chi"		"**boss使用了跳刀！**"
+		"DoorCountdown"		"3"
+	}
+	"***BOSS used push***"
+	{
+		"chi"		"**boss使用了推力！按住W**"
+		"DoorCountdown"		"3"
+	}
+	"***BOSS used fire***"
+	{
+		"chi"		"**boss使用了火！远离火场！**"
+		"DoorCountdown"		"3"
+	}
+	"***The platform will rise in 30 seconds***"
+	{
+		"chi"		"**平台将在30秒后上升**"
+	}
+	"***The door will open in 20 seconds***"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+	"***The button has been pressed***"
+	{
+		"chi"		"**按钮被按下了**"
+	}
+	"***The door will close in 10 seconds***"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+	"***A player has picked up Wind***"
+	{
+		"chi"		"**一名玩家拾取了风**"
+	}
+	"***Zombie will teleport in 10 seconds***"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"***A player has picked up Electric***"
+	{
+		"chi"		"**一名玩家拾取了电**"
+	}
+	"***A player has picked up Heal***"
+	{
+		"chi"		"**一名玩家拾取了治疗**"
+	}
+	"***The fence will break in 15 seconds***"
+	{
+		"chi"		"**栅栏将在15秒后碎掉**"
+	}
+	"***The door will open in 45 seconds***"
+	{
+		"chi"		"**门将在45秒后打开**"
+	}
+	"***A player has picked up GodThunder***"
+	{
+		"chi"		"**一名玩家拾取了天雷**"
+	}
+	"***A player has picked up HurtFire***"
+	{
+		"chi"		"**一名玩家拾取了伤害火**"
+	}
+	"***The fence will break in 25 seconds***"
+	{
+		"chi"		"**栅栏将在25秒后碎掉**"
+	}
+	"***Button has been pressed,keep defending***"
+	{
+		"chi"		"**按钮已经被按下，继续防守！**"
+	}
+	"***Button has been pressed,door will open ***"
+	{
+		"chi"		"**按钮已经被按下，门即将打开**"
+	}
+	"***A player has picked up Gravity***"
+	{
+		"chi"		"**一名玩家拾取了黑洞**"
+	}
+	"***A player has picked up Slowfire***"
+	{
+		"chi"		"**一名玩家拾取了减速火**"
+	}
+	"***A player has picked up Ammo***"
+	{
+		"chi"		"**一名玩家拾取了弹药**"
+	}
+	"***The door will open in 25 seconds***"
+	{
+		"chi"		"**门将在25秒后打开**"
+	}
+	"***Defende last 25 seconds***"
+	{
+		"chi"		"**最后防守25秒**"
+	}
+	"***Button has pressed,door will open***"
+	{
+		"chi"		"**按钮被拿下了，门即将打开**"
+	}
+	"***The dorr will open in 60 seconds***"
+	{
+		"chi"		"**门将在60秒后打开**"
+	}
+	"***The platform will moving in 20 seconds***"
+	{
+		"chi"		"**平台将会在20秒后移动**"
+	}
+	"***Button has pressed,road will open in 30 seconds.***"
+	{
+		"chi"		"**按钮已经被按下，路将在30秒后打开**"
+	}
+	"***The door will open in 60 seconds.***"
+	{
+		"chi"		"**门将在60秒后打开**"
+	}
+	"***BOSS is died***"
+	{
+		"chi"		"**boss死了!**"
+	}
+	"***A player has picked up Earth***"
+	{
+		"chi"		"**一名玩家拾取了土**"
+	}
+	"***A player has picked up FreezeIce***"
+	{
+		"chi"		"**一名玩家拾取了冰**"
+	}
+	"***A player has picked up Knigth***"
+	{
+		"chi"		"**一名玩家拾取了高达**"
+	}
+	"***Defend 20 seconds***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"***Defend 15 seconds***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"***Updraft will appear in 15 seconds***"
+	{
+		"chi"		"**上升气流将在15秒后出现！**"
+	}
+	"***Fast kill the God of wrath. Roll call will start in 120 seconds.***"
+	{
+		"chi"		"**尽快击杀愤怒之神！120秒后会有好事发生！**"
+	}
+	"***Ruin in 240 seconds, Please go to the tree of life***"
+	{
+		"chi"		"**240秒后一切都将被毁灭，请躲避到最后的树下生存！**"
+	}
+	"***Denfend 10 seconds***"
+	{
+		"chi"		"**防守10秒！**"
+	}
+	"***The road will open in 20 seconds***"
+	{
+		"chi"		"**路将在20秒后打开**"
+	}
+	"***The road will open in 15 seconds***"
+	{
+		"chi"		"**路将在15秒后打开**"
+	}
+	"***Teleport will enable in 20 seconds***"
+	{
+		"chi"		"**20秒后激活传送**"
+	}
+	"***A lucky player was sent to the zombie zone***"
+	{
+		"chi"		"**一名幸运玩家传送到了尸笼**"
+	}
+}

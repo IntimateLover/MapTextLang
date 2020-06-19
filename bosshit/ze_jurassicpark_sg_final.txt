@@ -1,0 +1,51 @@
+"BOSSHP"
+{
+	"30121"
+	{
+		"enable"		"0"
+		"hammerid"		"30121"
+		"m_iname"		"Box1"
+	}
+	"3214"
+	{
+		"enable"		"0"
+		"hammerid"		"3214"
+		"m_iname"		"door_1"
+	}
+	"3257"
+	{
+		"enable"		"0"
+		"hammerid"		"3257"
+		"m_iname"		"door_2"
+	}
+	"7556"
+	{
+		"enable"		"0"
+		"hammerid"		"7556"
+		"m_iname"		"gatewall_1"
+	}
+	"7564"
+	{
+		"enable"		"0"
+		"hammerid"		"7564"
+		"m_iname"		"gatewall_2"
+	}
+	"7572"
+	{
+		"enable"		"0"
+		"hammerid"		"7572"
+		"m_iname"		"gatewall_3"
+	}
+	"7580"
+	{
+		"enable"		"0"
+		"hammerid"		"7580"
+		"m_iname"		"gatewall_4"
+	}
+	"8055"
+	{
+		"enable"		"0"
+		"hammerid"		"8055"
+		"m_iname"		"rusty_ladder"
+	}
+}

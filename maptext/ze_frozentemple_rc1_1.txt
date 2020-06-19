@@ -15,22 +15,22 @@
 	"*** WELL DONE! DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"**干的漂亮！大门将在20秒后开启**"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**大门20秒后开启 **"
-		"DoorCountDown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"*** DOOR OPENS IN 40 SECONDS ***"
 	{
 		"chi"		"**大门40秒后开启 **"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"*** Door opens in 25 seconds ***"
 	{
 		"chi"		"**大门将在25秒后开启**"
-		"DoorCountDown"		"25"
+		"DoorCountdown"		"25"
 	}
 	"*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***"
 	{
@@ -43,7 +43,7 @@
 	"*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***"
 	{
 		"chi"		"**我们要守住1分钟直到它融化**"
-		"DoorCountDown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"*** IT SHOULD BE THAWED OUT BY NOW. LETS GO! ***"
 	{
@@ -59,7 +59,7 @@
 	}
 	"*** RESIST UNTIL SOMETHING HAPPENS ***"
 	{
-		"chi"		"**守住直到发生出现**"
+		"chi"		"**守住直到发生什么**"
 		"ico"		"icon_fire"
 	}
 	"*** BLANKET FREEZE ***"
@@ -102,7 +102,7 @@
 	"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
 	{
 		"chi"		"**核弹1分30秒后启动**"
-		"DoorCountDown"		"90"
+		"DoorCountdown"		"90"
 	}
 	"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
 	{

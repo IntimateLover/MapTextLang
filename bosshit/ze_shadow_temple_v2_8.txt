@@ -1,0 +1,75 @@
+"BOSSHP"
+{
+	"169839"
+	{
+		"enable"		"0"
+		"hammerid"		"169839"
+		"m_iname"		"nrk1_statue_break_5"
+	}
+	"169975"
+	{
+		"enable"		"0"
+		"hammerid"		"169975"
+		"m_iname"		"nrk1_statue_break_4"
+	}
+	"163289"
+	{
+		"enable"		"0"
+		"hammerid"		"163289"
+		"m_iname"		"nrk1_statue_break_1"
+	}
+	"163295"
+	{
+		"enable"		"0"
+		"hammerid"		"163295"
+		"m_iname"		"nrk1_statue_break_3"
+	}
+	"164348"
+	{
+		"enable"		"0"
+		"hammerid"		"164348"
+		"m_iname"		"nrk1_statue_break_4"
+	}
+	"113058"
+	{
+		"enable"		"0"
+		"hammerid"		"113058"
+		"m_iname"		"nrk1_statue_break_1"
+	}
+	"114092"
+	{
+		"enable"		"0"
+		"hammerid"		"114092"
+		"m_iname"		"nrk1_statue_break_2"
+	}
+	"101023"
+	{
+		"enable"		"0"
+		"hammerid"		"101023"
+		"m_iname"		"nrk1_statue_break_2"
+	}
+	"48842"
+	{
+		"enable"		"0"
+		"hammerid"		"48842"
+		"m_iname"		"nrk1_statue_break_1"
+	}
+	"48849"
+	{
+		"enable"		"0"
+		"hammerid"		"48849"
+		"m_iname"		"nrk1_statue_break_2"
+	}
+	"34438"
+	{
+		"enable"		"0"
+		"hammerid"		"34438"
+		"m_iname"		"item_earth_used"
+	}
+	"111448"
+	{
+		"enable"		"0"
+		"hammerid"		"111448"
+		"m_iname"		"breaka1"
+	}
+}

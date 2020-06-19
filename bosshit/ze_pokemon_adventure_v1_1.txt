@@ -62,7 +62,7 @@
 	}
 	"541940"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"541940"
 		"m_iname"		"SigilyphBullets"
 	}
@@ -230,7 +230,7 @@
 	}
 	"135445"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"135445"
 		"m_iname"		"PikachuBullets"
 	}

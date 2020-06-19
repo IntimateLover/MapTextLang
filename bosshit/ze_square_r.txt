@@ -66,4 +66,10 @@
 		"hammerid"		"802"
 		"m_iname"		"firstdoor"
 	}
+	"161608"
+	{
+		"enable"		"1"
+		"hammerid"		"161608"
+		"m_iname"		"boss_breakable_block"
+	}
 }

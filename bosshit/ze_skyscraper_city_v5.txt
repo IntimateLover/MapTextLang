@@ -56,4 +56,34 @@
 		"hammerid"		"614668"
 		"m_iname"		"ladder_phy"
 	}
+	"1192"
+	{
+		"enable"		"-1"
+		"hammerid"		"1192"
+	}
+	"1381"
+	{
+		"enable"		"-1"
+		"hammerid"		"1381"
+	}
+	"9977"
+	{
+		"enable"		"-1"
+		"hammerid"		"9977"
+	}
+	"16552"
+	{
+		"enable"		"-1"
+		"hammerid"		"16552"
+	}
+	"16563"
+	{
+		"enable"		"-1"
+		"hammerid"		"16563"
+	}
+	"419565"
+	{
+		"enable"		"-1"
+		"hammerid"		"419565"
+	}
 }

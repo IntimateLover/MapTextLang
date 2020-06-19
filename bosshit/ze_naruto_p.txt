@@ -1,28 +1,10 @@
 "BOSSHP"
 {
-	"898941"
+	"1176102"
 	{
 		"enable"		"0"
-		"hammerid"		"898941"
-		"m_iname"		"phys_multi_1"
-	}
-	"898851"
-	{
-		"enable"		"0"
-		"hammerid"		"898851"
-		"m_iname"		"phys_multi_2"
-	}
-	"898884"
-	{
-		"enable"		"0"
-		"hammerid"		"898884"
-		"m_iname"		"phys_multi_3"
-	}
-	"898938"
-	{
-		"enable"		"0"
-		"hammerid"		"898938"
-		"m_iname"		"phys_multi_4"
+		"hammerid"		"1176102"
+		"m_iname"		"phys_se_gibs"
 	}
 	"16468"
 	{
@@ -35,6 +17,12 @@
 		"enable"		"0"
 		"hammerid"		"16712"
 		"m_iname"		"Wood_shojin_1"
+	}
+	"58245"
+	{
+		"enable"		"0"
+		"hammerid"		"58245"
+		"m_iname"		"FinalPlank"
 	}
 	"51245"
 	{
@@ -102,18 +90,6 @@
 		"hammerid"		"502452"
 		"m_iname"		"b5"
 	}
-	"511467"
-	{
-		"enable"		"0"
-		"hammerid"		"511467"
-		"m_iname"		"kill_hard_extr"
-	}
-	"518728"
-	{
-		"enable"		"0"
-		"hammerid"		"518728"
-		"m_iname"		"kill_hard_extr"
-	}
 	"518744"
 	{
 		"enable"		"0"
@@ -126,41 +102,17 @@
 		"hammerid"		"474756"
 		"m_iname"		"b8"
 	}
-	"554674"
-	{
-		"enable"		"0"
-		"hammerid"		"554674"
-		"m_iname"		"kill_extr"
-	}
-	"554686"
-	{
-		"enable"		"0"
-		"hammerid"		"554686"
-		"m_iname"		"kill_hard_extr"
-	}
 	"560434"
 	{
 		"enable"		"0"
 		"hammerid"		"560434"
 		"m_iname"		"break_norm_hard_extr"
 	}
-	"560679"
-	{
-		"enable"		"0"
-		"hammerid"		"560679"
-		"m_iname"		"kill_hard_extr"
-	}
 	"561015"
 	{
 		"enable"		"0"
 		"hammerid"		"561015"
 		"m_iname"		"break_lvl_extr"
-	}
-	"690829"
-	{
-		"enable"		"0"
-		"hammerid"		"690829"
-		"m_iname"		"he_take_damage"
 	}
 	"708631"
 	{
@@ -179,12 +131,6 @@
 		"enable"		"0"
 		"hammerid"		"472796"
 		"m_iname"		"bibli_3"
-	}
-	"841531"
-	{
-		"enable"		"0"
-		"hammerid"		"841531"
-		"m_iname"		"b11"
 	}
 	"841555"
 	{
@@ -233,83 +179,5 @@
 		"enable"		"0"
 		"hammerid"		"865206"
 		"m_iname"		"break_lvl_hard"
-	}
-	"15577"
-	{
-		"enable"		"0"
-		"hammerid"		"15577"
-		"m_iname"		"break_bibli"
-	}
-	"15591"
-	{
-		"enable"		"0"
-		"hammerid"		"15591"
-		"m_iname"		"break_bibli"
-	}
-	"585488"
-	{
-		"enable"		"0"
-		"hammerid"		"585488"
-		"m_iname"		"kill_only_easy"
-	}
-	"572057"
-	{
-		"enable"		"0"
-		"hammerid"		"572057"
-		"m_iname"		"kill_easy_norm"
-	}
-	"471578"
-	{
-		"enable"		"0"
-		"hammerid"		"471578"
-		"m_iname"		"bibli_2"
-	}
-	"471469"
-	{
-		"enable"		"0"
-		"hammerid"		"471469"
-		"m_iname"		"bibli_1"
-	}
-	"722640"
-	{
-		"enable"		"0"
-		"hammerid"		"722640"
-		"m_iname"		"phys_1"
-	}
-	"1176102"
-	{
-		"enable"		"0"
-		"hammerid"		"1176102"
-		"m_iname"		"phys_se_gibs"
-	}
-	"58245"
-	{
-		"enable"		"0"
-		"hammerid"		"58245"
-		"m_iname"		"FinalPlank"
-	}
-	"1058421"
-	{
-		"enable"		"1"
-		"hammerid"		"1058421"
-		"m_iname"		"SasukeBoss_Hitbox"
-	}
-	"1058424"
-	{
-		"enable"		"1"
-		"hammerid"		"1058424"
-		"m_iname"		"SasukeBoss_HitboxHE"
-	}
-	"1047584"
-	{
-		"enable"		"1"
-		"hammerid"		"1047584"
-		"m_iname"		"SasukeBossFake_Hitbox&1065"
-	}
-	"1047621"
-	{
-		"enable"		"1"
-		"hammerid"		"1047621"
-		"m_iname"		"SasukeBossFake_HitboxHE&1065"
 	}
 }

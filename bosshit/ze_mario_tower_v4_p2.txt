@@ -1,59 +1,5 @@
 "BOSSHP"
 {
-	"5439"
-	{
-		"enable"		"0"
-		"hammerid"		"5439"
-		"m_iname"		"skyguysheild"
-	}
-	"6012"
-	{
-		"enable"		"0"
-		"hammerid"		"6012"
-		"m_iname"		"dropblock1"
-	}
-	"6048"
-	{
-		"enable"		"0"
-		"hammerid"		"6048"
-		"m_iname"		"dropblock2"
-	}
-	"6079"
-	{
-		"enable"		"0"
-		"hammerid"		"6079"
-		"m_iname"		"dropblock3"
-	}
-	"6125"
-	{
-		"enable"		"0"
-		"hammerid"		"6125"
-		"m_iname"		"thomptrap"
-	}
-	"6219"
-	{
-		"enable"		"0"
-		"hammerid"		"6219"
-		"m_iname"		"bowser_blocks2"
-	}
-	"6227"
-	{
-		"enable"		"0"
-		"hammerid"		"6227"
-		"m_iname"		"bowser_blocks3"
-	}
-	"6235"
-	{
-		"enable"		"0"
-		"hammerid"		"6235"
-		"m_iname"		"bowser_blocks4"
-	}
-	"6243"
-	{
-		"enable"		"0"
-		"hammerid"		"6243"
-		"m_iname"		"bowser_blocks1"
-	}
 	"5239"
 	{
 		"enable"		"0"
@@ -96,6 +42,12 @@
 		"hammerid"		"5375"
 		"m_iname"		"blockwallC"
 	}
+	"5439"
+	{
+		"enable"		"0"
+		"hammerid"		"5439"
+		"m_iname"		"skyguysheild"
+	}
 	"5605"
 	{
 		"enable"		"0"
@@ -108,11 +60,59 @@
 		"hammerid"		"5613"
 		"m_iname"		"zombieladder2"
 	}
+	"6012"
+	{
+		"enable"		"0"
+		"hammerid"		"6012"
+		"m_iname"		"dropblock1"
+	}
+	"6048"
+	{
+		"enable"		"0"
+		"hammerid"		"6048"
+		"m_iname"		"dropblock2"
+	}
+	"6079"
+	{
+		"enable"		"0"
+		"hammerid"		"6079"
+		"m_iname"		"dropblock3"
+	}
+	"6125"
+	{
+		"enable"		"0"
+		"hammerid"		"6125"
+		"m_iname"		"thomptrap"
+	}
 	"6195"
 	{
 		"enable"		"0"
 		"hammerid"		"6195"
 		"m_iname"		"ctplank"
+	}
+	"6219"
+	{
+		"enable"		"0"
+		"hammerid"		"6219"
+		"m_iname"		"bowser_blocks2"
+	}
+	"6227"
+	{
+		"enable"		"0"
+		"hammerid"		"6227"
+		"m_iname"		"bowser_blocks3"
+	}
+	"6235"
+	{
+		"enable"		"0"
+		"hammerid"		"6235"
+		"m_iname"		"bowser_blocks4"
+	}
+	"6243"
+	{
+		"enable"		"0"
+		"hammerid"		"6243"
+		"m_iname"		"bowser_blocks1"
 	}
 	"6420"
 	{

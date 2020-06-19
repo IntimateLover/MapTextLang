@@ -136,7 +136,7 @@
 	{
 		"chi"		"**僵尸已经进门 **"
 	}
-	"### Hold here for 30 seconds ###"
+	"### HOLD HERE FOR 30 SECONDS ###"
 	{
 		"chi"		"**坚守30秒，别去贴门了 **"
 	}
@@ -183,6 +183,7 @@
 	"###  30 seconds  ###"
 	{
 		"chi"		"**三十秒 **"
+		"DoorCountdown"		"30"
 	}
 	"###  20 seconds  ###"
 	{
@@ -219,6 +220,7 @@
 	"### BOSS room door will be closed in 10 Seconds ###"
 	{
 		"chi"		"**boss门十秒后关闭 **"
+		"DoorCountdown"		"10"
 	}
 	"### All Players that are not in the boss room ###"
 	{

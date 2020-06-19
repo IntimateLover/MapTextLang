@@ -654,17 +654,17 @@
 		"hammerid"		"152360"
 		"m_iname"		"breakable_nonke_RMLA"
 	}
-	"153175"
-	{
-		"enable"		"0"
-		"hammerid"		"153175"
-		"m_iname"		"breakable_secret_inmkun"
-	}
 	"135224"
 	{
 		"enable"		"0"
 		"hammerid"		"135224"
 		"m_iname"		"breakable_fencegate_rikkyou"
+	}
+	"153175"
+	{
+		"enable"		"0"
+		"hammerid"		"153175"
+		"m_iname"		"breakable_secret_inmkun"
 	}
 	"126725"
 	{

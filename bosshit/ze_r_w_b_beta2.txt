@@ -1,0 +1,99 @@
+"BOSSHP"
+{
+	"205846"
+	{
+		"enable"		"0"
+		"hammerid"		"205846"
+		"m_iname"		"wall2_5"
+	}
+	"207347"
+	{
+		"enable"		"0"
+		"hammerid"		"207347"
+		"m_iname"		"br2_4"
+	}
+	"203309"
+	{
+		"enable"		"1"
+		"hammerid"		"203309"
+		"m_iname"		"boss2_hitbox"
+	}
+	"203445"
+	{
+		"enable"		"1"
+		"hammerid"		"203445"
+		"m_iname"		"boss2_dec3"
+	}
+	"203465"
+	{
+		"enable"		"1"
+		"hammerid"		"203465"
+		"m_iname"		"boss2_dec2"
+	}
+	"76134"
+	{
+		"enable"		"0"
+		"hammerid"		"76134"
+		"m_iname"		"br2_2_2"
+	}
+	"76235"
+	{
+		"enable"		"0"
+		"hammerid"		"76235"
+		"m_iname"		"br2_3_2"
+	}
+	"73068"
+	{
+		"enable"		"0"
+		"hammerid"		"73068"
+		"m_iname"		"br2_1"
+	}
+	"45805"
+	{
+		"enable"		"0"
+		"hammerid"		"45805"
+		"m_iname"		"br1_3"
+	}
+	"45973"
+	{
+		"enable"		"1"
+		"hammerid"		"45973"
+		"m_iname"		"boss1"
+	}
+	"46229"
+	{
+		"enable"		"0"
+		"hammerid"		"46229"
+		"m_iname"		"br1_4"
+	}
+	"44076"
+	{
+		"enable"		"0"
+		"hammerid"		"44076"
+		"m_iname"		"br1_2"
+	}
+	"38693"
+	{
+		"enable"		"0"
+		"hammerid"		"38693"
+		"m_iname"		"br1_1"
+	}
+	"2216"
+	{
+		"enable"		"0"
+		"hammerid"		"2216"
+		"m_iname"		"ceil1"
+	}
+	"2724"
+	{
+		"enable"		"0"
+		"hammerid"		"2724"
+		"m_iname"		"midball"
+	}
+	"57011"
+	{
+		"enable"		"1"
+		"hammerid"		"57011"
+		"m_iname"		"boss1dec"
+	}
+}

@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"wait 20s"
+	{
+		"chi"		"** **"
+	}
+	"5s left"
+	{
+		"chi"		"** **"
+	}
+	"hold 20s"
+	{
+		"chi"		"** **"
+	}
+	"30s left"
+	{
+		"chi"		"** **"
+	}
+	"hold 30s"
+	{
+		"chi"		"** **"
+	}
+	"after 20s,teleport AFK"
+	{
+		"chi"		"** **"
+	}
+	"hold 35s"
+	{
+		"chi"		"** **"
+	}
+}

@@ -2,43 +2,43 @@
 {
 	"**number0 button pressed**"
 	{
-		"chi"		"**0号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number8 button pressed**"
 	{
-		"chi"		"**8号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number1 button pressed**"
 	{
-		"chi"		"**1号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number4 button pressed**"
 	{
-		"chi"		"**4号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**Loading...**"
 	{
-		"chi"		"**正在载入中**"
+		"chi"		"** **"
 	}
 	"**number7 button pressed**"
 	{
-		"chi"		"**7号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number2 button pressed**"
 	{
-		"chi"		"**2号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number3 button pressed**"
 	{
-		"chi"		"**3号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number6 button pressed**"
 	{
-		"chi"		"**6号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"**number5 button pressed**"
 	{
-		"chi"		"**5号按钮已被按下**"
+		"chi"		"** **"
 	}
 	"sync_version"
 	{
@@ -46,10 +46,10 @@
 	}
 	"**Play secret bgm2**"
 	{
-		"chi"		"**播放神秘的bgm2**"
+		"chi"		"** **"
 	}
 	"**Play secret bgm1**"
 	{
-		"chi"		"**播放神秘的bgm1**"
+		"chi"		"**X **"
 	}
 }

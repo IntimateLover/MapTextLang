@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"*** DOOR OPENING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPENING IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Boats departing in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Boats departing in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gate opening in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Burning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Round failed! Zombies have reached the objective! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lightning Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Abyssal Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gust Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Glacial Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Divine Orb has been acquired ***"
+	{
+		"chi"		"** **"
+	}
+}

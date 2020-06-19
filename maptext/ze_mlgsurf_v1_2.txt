@@ -11,7 +11,7 @@
 	"*** 30 seconds left ***"
 	{
 		"chi"		"**还剩30秒**"
-		"DoorCountDown"		"-1"
+		"DoorCountdown"		"-1"
 	}
 	"*** teleported zombie ***"
 	{
@@ -87,5 +87,9 @@
 	"*** ear raping in 1 ***"
 	{
 		"chi"		"**1秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
+	}
+	"*** you are hentai ***"
+	{
+		"chi"		"** **"
 	}
 }

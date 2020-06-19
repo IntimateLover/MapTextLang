@@ -128,12 +128,74 @@
 	{
 		"enable"		"0"
 		"hammerid"		"416084"
-		"m_iname"		"SeagullHealth&2806"
+		"m_iname"		"SeagullHealth&8213"
 	}
 	"307971"
 	{
 		"enable"		"0"
 		"hammerid"		"307971"
-		"m_iname"		"SeagullAlign&2806"
+		"m_iname"		"SeagullAlign&8213"
+	}
+	"410640"
+	{
+		"enable"		"0"
+		"hammerid"		"410640"
+		"m_iname"		"break2"
+	}
+	"134824"
+	{
+		"enable"		"0"
+		"hammerid"		"134824"
+		"m_iname"		"break2"
+	}
+	"600"
+	{
+		"enable"		"-1"
+		"hammerid"		"600"
+	}
+	"687"
+	{
+		"enable"		"-1"
+		"hammerid"		"687"
+	}
+	"14721"
+	{
+		"enable"		"-1"
+		"hammerid"		"14721"
+	}
+	"14731"
+	{
+		"enable"		"-1"
+		"hammerid"		"14731"
+	}
+	"68856"
+	{
+		"enable"		"-1"
+		"hammerid"		"68856"
+	}
+	"68867"
+	{
+		"enable"		"-1"
+		"hammerid"		"68867"
+	}
+	"68878"
+	{
+		"enable"		"-1"
+		"hammerid"		"68878"
+	}
+	"68889"
+	{
+		"enable"		"-1"
+		"hammerid"		"68889"
+	}
+	"159188"
+	{
+		"enable"		"-1"
+		"hammerid"		"159188"
+	}
+	"159199"
+	{
+		"enable"		"-1"
+		"hammerid"		"159199"
 	}
 }
