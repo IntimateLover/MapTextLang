@@ -34,7 +34,7 @@
 	}
 	"sync_version"
 	{
-		"syncvalue"		"21671"
+		"syncvalue"		"45695"
 	}
 	"*** Hold 40 seconds ***"
 	{
@@ -152,6 +152,14 @@
 		"chi"		"** **"
 	}
 	"<<Insane Mod>>"
+	{
+		"chi"		"** **"
+	}
+	"*** D INSANE MODE ENABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ADMIN HAS ENABLED D INSANE MODE ***"
 	{
 		"chi"		"** **"
 	}
