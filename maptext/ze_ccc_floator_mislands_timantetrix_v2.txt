@@ -2,43 +2,43 @@
 {
 	"*** ATTENTION Silo Doors Open in 1 Minutes ***"
 	{
-		"chi"		"**×¢Òâ·¢Éä¾®´óÃÅ½«ÔÚ60Ãëºó´ò¿ª **"
+		"chi"		"**æ³¨æ„å‘å°„äº•å¤§é—¨å°†åœ¨60ç§’åæ‰“å¼€ **"
 	}
 	"*** Bridge Activated ***"
 	{
-		"chi"		"**ÇÅÁº¼¤»î **"
+		"chi"		"**æ¡¥æ¢æ¿€æ´» **"
 	}
 	"*** ATTENTION Silo Doors Open in 30 Seconds***"
 	{
-		"chi"		"**×¢Òâ·¢Éä¾®´óÃÅ½«ÔÚ30Ãëºó´ò¿ª**"
+		"chi"		"**æ³¨æ„å‘å°„äº•å¤§é—¨å°†åœ¨30ç§’åæ‰“å¼€**"
 	}
 	"*** ATTENTION Silo Doors Opening***"
 	{
-		"chi"		"**×¢Òâ·¢Éä¾®´óÃÅÕıÔÚ´ò¿ª **"
+		"chi"		"**æ³¨æ„å‘å°„äº•å¤§é—¨æ­£åœ¨æ‰“å¼€ **"
 	}
 	"***Teleporter will be fully charged in 20secs!***"
 	{
-		"chi"		"**´«ËÍÆ÷½«ÔÚ20Ãëºó³äÄÜÍê±Ï(Ô¶ÀëËü£¬»á±¬Õ¨) **"
+		"chi"		"**ä¼ é€å™¨å°†åœ¨20ç§’åå……èƒ½å®Œæ¯•(è¿œç¦»å®ƒï¼Œä¼šçˆ†ç‚¸) **"
 	}
 	"***Teleporter ERROR!***"
 	{
-		"chi"		"**´«ËÍÆ÷³öÏÖ´íÎó **"
+		"chi"		"**ä¼ é€å™¨å‡ºç°é”™è¯¯ **"
 	}
 	"* * * Hold this door untill Steve does something * * *"
 	{
-		"chi"		"**ÊØ×¡Õâ¸öÃÅ **"
+		"chi"		"**å®ˆä½è¿™ä¸ªé—¨ **"
 	}
 	"* * * Hold this position for 30 seconds * * *"
 	{
-		"chi"		"**¼áÊØ30Ãë **"
+		"chi"		"**åšå®ˆ30ç§’ **"
 	}
 	"* * * 10 seconds left * * *"
 	{
-		"chi"		"**»¹Ê£10Ãë**"
+		"chi"		"**è¿˜å‰©10ç§’**"
 	}
 	"**Stay in the circle! Zombies cant go in!**"
 	{
-		"chi"		"**´ıÔÚÔ²È¦Àï!½©Ê¬½ø²»À´ **"
+		"chi"		"**å¾…åœ¨åœ†åœˆé‡Œ!åƒµå°¸è¿›ä¸æ¥ **"
 	}
 	"** ... **"
 	{
@@ -46,7 +46,7 @@
 	}
 	"** Moria is unstable! Run towards the stairs in  **"
 	{
-		"chi"		"**Ä¦ÈğÑÇ±äµÃ²»ÎÈ¶¨!ÏòÇ°ÅÜÏòÂ¥Ìİ **"
+		"chi"		"**æ‘©ç‘äºšå˜å¾—ä¸ç¨³å®š!å‘å‰è·‘å‘æ¥¼æ¢¯ **"
 	}
 	"**5**"
 	{
@@ -74,28 +74,28 @@
 	}
 	"***boat leaves in 8 seconds***"
 	{
-		"chi"		"**´¬½«ÔÚ8ÃëºóÀë¿ª **"
+		"chi"		"**èˆ¹å°†åœ¨8ç§’åç¦»å¼€ **"
 	}
 	"*** boat has taken off***"
 	{
-		"chi"		"**´¬ÒÑÀë¿ª**"
+		"chi"		"**èˆ¹å·²ç¦»å¼€**"
 	}
 	"** C4 planted! **"
 	{
-		"chi"		"**C4ÒÑ°²·Å**"
+		"chi"		"**C4å·²å®‰æ”¾**"
 		"DoorCountdown"		"-1"		
 	}
 	"** Antenna activated. Searching for master satellite... **"
 	{
-		"chi"		"**ÌìÏßÒÑ¼¤»î.ËÑÑ°Ö÷ÎÀĞÇÖĞ... **"
+		"chi"		"**å¤©çº¿å·²æ¿€æ´».æœå¯»ä¸»å«æ˜Ÿä¸­... **"
 	}
 	"** Master satellite connected. Nuke launched.**"
 	{
-		"chi"		"**Ö÷ÎÀĞÇÒÑÁ¬½ÓÉÏ.ºËµ¯·¢Éä. **"
+		"chi"		"**ä¸»å«æ˜Ÿå·²è¿æ¥ä¸Š.æ ¸å¼¹å‘å°„. **"
 	}
 	"** DEFEND THIS PLACE FOR 60 SECONDS! **"
 	{
-		"chi"		"**ÊØ×¡60Ãë **"
+		"chi"		"**å®ˆä½60ç§’ **"
 	}
 	"**Balrog coming to TEMPLE ROOFS in 15s**"
 	{
@@ -103,6 +103,6 @@
 	}
 	"** DOORS UNLOCKED ** RETREAT ! **"
 	{
-		"chi"		"**ÃÅÒÑ½âËø! ¿ì³·ÍË!**"
+		"chi"		"**é—¨å·²è§£é”! å¿«æ’¤é€€!**"
 	}
 }

@@ -2,205 +2,205 @@
 {
 	"Map Arranged by Airvulpes"
 	{
-		"chi"		"**���ߣ�Airvulpes  ���룺Misaka**"
+		"chi"		"**作者：Airvulpes  翻译：Misaka**"
 	}
 	"*** Difficulty : Easy ***"
 	{
-		"chi"		"**�Ѷȣ��� **"
+		"chi"		"**难度：简单 **"
 	}
 	"For POSSESSION, Respect to Sakura"
 	{
-		"chi"		"**Ϊ��POSSESSION��������Sakura **"
+		"chi"		"**为了POSSESSION，请尊重Sakura **"
 	}
 	"Based-map by Xquality"
 	{
-		"chi"		"**����Xquality�ĵ�ͼ**"
+		"chi"		"**基于Xquality的地图**"
 	}
 	"Map Supported by SHUFEN"
 	{
-		"chi"		"**��ͼ֧�֣�SHUFEN **"
+		"chi"		"**地图支持：SHUFEN **"
 	}
 	"Elivator leaving in: 3"
 	{
-		"chi"		"**���ݽ���3����뿪**"
+		"chi"		"**电梯将在3秒后离开**"
 	}
 	"Mini train leaving in 5 seconds."
 	{
-		"chi"		"**�����г�����5����뿪**"
+		"chi"		"**迷你列车将在5秒后离开**"
 	}
 	"Tracks crashed ahead"
 	{
-		"chi"		"**ǰ��������ѣ�(��������) **"
+		"chi"		"**前方轨道断裂！(快跳车！) **"
 	}
 	"Remaining 5 seconds !"
 	{
-		"chi"		"**��ס5�룡 **"
+		"chi"		"**守住5秒！ **"
 	}
 	"Door opening in 5 seconds!"
 	{
-		"chi"		"**��5����**"
+		"chi"		"**门5秒后打开**"
 	}
 	"Tram leaving in 10 seconds!"
 	{
-		"chi"		"**���䳵��10����뿪 **"
+		"chi"		"**运输车在10秒后离开 **"
 	}
 	"Security doors closing in 10."
 	{
-		"chi"		"**��ȫ����10���رգ� **"
+		"chi"		"**安全门在10秒后关闭！ **"
 	}
 	"Train leaving in 30 seconds."
 	{
-		"chi"		"**����30����뿪�� **"
+		"chi"		"**火车在30秒后离开！ **"
 	}
 	"Train leaving in 20 seconds."
 	{
-		"chi"		"**����20����뿪�� **"
+		"chi"		"**火车在20秒后离开！ **"
 	}
 	"Train leaving in 10 seconds."
 	{
-		"chi"		"**����10����뿪�� **"
+		"chi"		"**火车在10秒后离开！ **"
 	}
 	"Train is leaving."
 	{
-		"chi"		"**�����뿪 **"
+		"chi"		"**火车已离开 **"
 	}
 	"Incoming nuke!!!"
 	{
-		"chi"		"**�˱���Ϯ������ **"
+		"chi"		"**核爆来袭！！！ **"
 	}
 	"*** Difficulty : Normal ***"
 	{
-		"chi"		"**�Ѷȣ���ͨ **"
+		"chi"		"**难度：普通 **"
 	}
 	"*** Difficulty : Hard ***"
 	{
-		"chi"		"**�Ѷȣ����� **"
+		"chi"		"**难度：困难 **"
 	}
 	"Door opening in 15 seconds!"
 	{
-		"chi"		"**����15���� **"
+		"chi"		"**大门15秒后打开 **"
 	}
 	"Hold 20 seconds !"
 	{
-		"chi"		"**��ס20�룡 **"
+		"chi"		"**守住20秒！ **"
 	}
 	"Helicopter leaves 20 seconds!"
 	{
-		"chi"		"**ֱ������20�����ɣ� **"
+		"chi"		"**直升机在20秒后起飞！ **"
 	}
 	"remaining 5 seconds!"
 	{
-		"chi"		"**����5�룡 **"
+		"chi"		"**还有5秒！ **"
 	}
 	"*** Difficulty : Extreme ***"
 	{
-		"chi"		"**��ǰ�Ѷȣ�����**"
+		"chi"		"**当前难度：极限**"
 	}
 	"Door opening in 80 seconds!"
 	{
-		"chi"		"**���80�룡**"
+		"chi"		"**坚持80秒！**"
 	}
 	"Remaining 40 seconds!"
 	{
-		"chi"		"**��ʣ40�� **"
+		"chi"		"**还剩40秒 **"
 	}
 	"Remaining 10 seconds!"
 	{
-		"chi"		"**��ʣ10�� **"
+		"chi"		"**还剩10秒 **"
 	}
 	"*** Difficulty : Insane ***"
 	{
-		"chi"		"**��ǰ�Ѷȣ����**"
+		"chi"		"**当前难度：疯狂**"
 	}
 	"Remaining 15 seconds !"
 	{
-		"chi"		"**��ʣ15�� **"
+		"chi"		"**还剩15秒 **"
 	}
 	"Admin pressed rtv button"
 	{
-		"chi"		"**����Աѡ����RTV�Ѷ� **"
+		"chi"		"**管理员选择了RTV难度 **"
 	}
 	"*** Difficulty : rtv ***"
 	{
-		"chi"		"**��ǰ�Ѷȣ�RTV�ɷ�����**"
+		"chi"		"**当前难度：RTV吧凡人们**"
 	}
 	"Admin pressed Insane button"
 	{
-		"chi"		"**����Աѡ���˷���Ѷ� **"
+		"chi"		"**管理员选择了疯狂难度 **"
 	}
 	"Admin pressed Ex button"
 	{
-		"chi"		"**����Ա������EX BOSS **"
+		"chi"		"**管理员开启了EX BOSS **"
 	}
 	"Admin pressed Extreme button"
 	{
-		"chi"		"**����Աѡ���˼����Ѷ� **"
+		"chi"		"**管理员选择了极限难度 **"
 	}
 	"Admin pressed Hard button"
 	{
-		"chi"		"**����Աѡ���������Ѷ� **"
+		"chi"		"**管理员选择了困难难度 **"
 	}
 	"Admin pressed Ex disable button"
 	{
-		"chi"		"**����Ա�ر���EX BOSS **"
+		"chi"		"**管理员关闭了EX BOSS **"
 	}
 	"FALLEN ONE"
 	{
-		"chi"		"**����֮�ˣ����̣�**"
+		"chi"		"**堕落之人（开奶）**"
 	}
 	"LARGE EAGRE"
 	{
-		"chi"		"**��Х���м�׼�������ͣ�**"
+		"chi"		"**大海啸（中间准备开传送）**"
 		"DoorCountDown"		"3"
 	}
 	"WIND OF ABYSS"
 	{
-		"chi"		"**��֮��Ԩ���泯�м䰴סS��**"
+		"chi"		"**风之深渊（面朝中间按住S）**"
 		"DoorCountDown"		"3"
 	}
 	"ZANTETSUKEN"
 	{
-		"chi"		"**ն�������޵е���£�**"
+		"chi"		"**斩铁剑（无敌点蹲下）**"
 		"DoorCountDown"		"3"
 	}
 	"GAEA RAGE"
 	{
-		"chi"		"**����֮ŭ����ʬ��������·��**"
+		"chi"		"**盖亚之怒（守尸笼，两条路）**"
 		"DoorCountDown"		"3"
 	}
 	"SURGE PAIN"
 	{
-		"chi"		"**ͣǹ�����������**"
+		"chi"		"**停枪，别尼玛打了**"
 		"DoorCountDown"		"3"
 	}
 	"EXA FLARE"
 	{
-		"chi"		"**ǧ����ҫ�ߣ����տ��̣�**"
+		"chi"		"**千亿兆耀斑（红终开奶）**"
 		"DoorCountDown"		"3"
 	}
 	"RESURRECTION"
 	{
-		"chi"		"**���EXboss������**"
+		"chi"		"**复活（EXboss启动）**"
 	}
 	"HASTE"
 	{
-		"chi"		"**���٣����ӣ�**"
+		"chi"		"**急速（无视）**"
 	}
 	"CURAGA"
 	{
-		"chi"		"**�������ƣ��ӽ������boss��Ѫ�ˣ�**"
+		"chi"		"**超级治疗（加紧输出，boss回血了）**"
 	}
 	"HOLY"
 	{
-		"chi"		"**�ռ�����Ч����֮��סW���ȥ��**"
+		"chi"		"**终极（特效出来之后按住W冲出去）**"
 	}
 	"QUAKE"
 	{
-		"chi"		"**����һ����һ�ߴ�boss��**"
+		"chi"		"**地震（一边跳一边打boss）**"
 	}
 	"MORTAL DISEASE"
 	{
-		"chi"		"**������ǿ�ƿ�Ѫ��**"
+		"chi"		"**死病（强制扣血）**"
 		"DoorCountDown"		"3"
 	}
 }

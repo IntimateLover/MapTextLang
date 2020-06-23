@@ -2,52 +2,52 @@
 {
 	"** There seems to be a nasty bug infestation! **"
 	{
-		"chi"		"**Õâ¸öµØ·½º¦³æºáĞĞ!**"
+		"chi"		"**è¿™ä¸ªåœ°æ–¹å®³è™«æ¨ªè¡Œ!**"
 	}
 	"** Luckily bugs tend to dislike bright lights! **"
 	{
-		"chi"		"**ĞÒÔËµÄÊÇÕâĞ©º¦³æÌÖÑáÁÁ¹â**"
+		"chi"		"**å¹¸è¿çš„æ˜¯è¿™äº›å®³è™«è®¨åŒäº®å…‰**"
 	}
 	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
 	{
-		"chi"		"**ÎÒÃÇËÆºõÀ§ÔÚÕâÀïÁË**"
+		"chi"		"**æˆ‘ä»¬ä¼¼ä¹å›°åœ¨è¿™é‡Œäº†**"
 		"DoorCountdown"		"30"
 	}
 	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
 	{
-		"chi"		"**ÊØ×¡ÕâÀïÖ±µ½Ê²Ã´¶«Î÷½øÀ´**"
+		"chi"		"**å®ˆä½è¿™é‡Œç›´åˆ°ä»€ä¹ˆä¸œè¥¿è¿›æ¥**"
 	}
 	"** THE WINDOW! GET ON IT! **"
 	{
-		"chi"		"**´°»§ÆÆÁË!¿ì×ß!**"
+		"chi"		"**çª—æˆ·ç ´äº†!å¿«èµ°!**"
 	}
 	"** We need to make the door move! **"
 	{
-		"chi"		"**ÎÒÃÇĞèÒª¿ªÆôÁı×ÓÉÏÃæµÄÃÅ**"
+		"chi"		"**æˆ‘ä»¬éœ€è¦å¼€å¯ç¬¼å­ä¸Šé¢çš„é—¨**"
 	}
 	"** It looks as if it would probably open if we get the wheel moving... **"
 	{
-		"chi"		"**¿´À´½øÈë²ÖÊóÅÜÂÖ¿ÉÒÔ»ñµÃ¶¯ÄÜ¿ªÆô´óÃÅ£¨¶Ô×ÅÅÜÂÖ°´W»òÕß±³¶Ô×Å°´S£©**"
+		"chi"		"**çœ‹æ¥è¿›å…¥ä»“é¼ è·‘è½®å¯ä»¥è·å¾—åŠ¨èƒ½å¼€å¯å¤§é—¨ï¼ˆå¯¹ç€è·‘è½®æŒ‰Wæˆ–è€…èƒŒå¯¹ç€æŒ‰Sï¼‰**"
 	}
 	"** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
 	{
-		"chi"		"**¿ì×ß£¡ÎÒÃÇÒÑ¾­»ñÈ¡×ã¹»¶àµÄ¶¯ÄÜ£¡**"
+		"chi"		"**å¿«èµ°ï¼æˆ‘ä»¬å·²ç»è·å–è¶³å¤Ÿå¤šçš„åŠ¨èƒ½ï¼**"
 	}
 	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
 	{
-		"chi"		"**ÃÅ½«ÔÚ5Ãëºó¿ªÆô£¡**"
+		"chi"		"**é—¨å°†åœ¨5ç§’åå¼€å¯ï¼**"
 	}
 	"** Something spooky seems to be going on that table! **"
 	{
-		"chi"		"**ÓĞÊ²Ã´ÒõÉ­µÄ¶«Î÷µ½×À×ÓÉÏÃæÈ¥ÁË£¡**"
+		"chi"		"**æœ‰ä»€ä¹ˆé˜´æ£®çš„ä¸œè¥¿åˆ°æ¡Œå­ä¸Šé¢å»äº†ï¼**"
 	}
 	"** We need to reach the top! **"
 	{
-		"chi"		"**ÎÒÃÇĞèÒªÅÀÉÏ×À×Ó£¨×óÓÒÁ½±ßµÊ×Ó¿ÉÒÔÅÀÉÏÈ¥£©**"
+		"chi"		"**æˆ‘ä»¬éœ€è¦çˆ¬ä¸Šæ¡Œå­ï¼ˆå·¦å³ä¸¤è¾¹å‡³å­å¯ä»¥çˆ¬ä¸Šå»ï¼‰**"
 	}
 	"** The seance is beginning and the spirits are calling... **"
 	{
-		"chi"		"**½µÉñ»á¿ªÊ¼ÁË£¬¿ªÊ¼ºô»½¹íÉñ**"
+		"chi"		"**é™ç¥ä¼šå¼€å§‹äº†ï¼Œå¼€å§‹å‘¼å”¤é¬¼ç¥**"
 		"DoorCountdown"		"60"
 	}
 	"** The spirits marked the 'H' leter... **"
@@ -96,132 +96,132 @@
 	}
 	"** Something is happening! **"
 	{
-		"chi"		"**·¢ÉúÊ²Ã´ÊÂÇé!**"
+		"chi"		"**å‘ç”Ÿä»€ä¹ˆäº‹æƒ…!**"
 	}
 	"** Get on the lamp! Quick! The spell might not last long! **"
 	{
-		"chi"		"**¿ìÌøµ½µÆÅİÉÏ!Õâ¸ö·¨Êõ²»»áÎ¬³ÖÌ«¾Ã!**"
+		"chi"		"**å¿«è·³åˆ°ç¯æ³¡ä¸Š!è¿™ä¸ªæ³•æœ¯ä¸ä¼šç»´æŒå¤ªä¹…!**"
 	}
 	"** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
 	{
-		"chi"		"**Ô¶´¦ÓĞÒ»Ğ©¼â½ĞÉù-»òĞíÓĞÊ²Ã´¶«Î÷¶ãÔÚºÚ°µÖĞ**"
+		"chi"		"**è¿œå¤„æœ‰ä¸€äº›å°–å«å£°-æˆ–è®¸æœ‰ä»€ä¹ˆä¸œè¥¿èº²åœ¨é»‘æš—ä¸­**"
 	}
 	"** Try to get that old toy going! We must get out of here! **"
 	{
-		"chi"		"**³¢ÊÔÈÃÍæ¾ß»ğ³µÆô¶¯!ÎÒÃÇ±ØĞëÀë¿ªÕâÀï!£¨¶Ô×Å¿ª¹Ø°´7´Î²Å¿ÉÒÔÆô¶¯£©**"
+		"chi"		"**å°è¯•è®©ç©å…·ç«è½¦å¯åŠ¨!æˆ‘ä»¬å¿…é¡»ç¦»å¼€è¿™é‡Œ!ï¼ˆå¯¹ç€å¼€å…³æŒ‰7æ¬¡æ‰å¯ä»¥å¯åŠ¨ï¼‰**"
 		"DoorCountdown"		"-1"
 	}
 	"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
 	{
-		"chi"		"**ÀÏÊó×·ÉÏÁËÎÒÃÇ!È«TMÍêÁË!**"
+		"chi"		"**è€é¼ è¿½ä¸Šäº†æˆ‘ä»¬!å…¨TMå®Œäº†!**"
 	}
 	"** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **"
 	{
-		"chi"		"**OOOAAAAAAAAAAAAH!¸ÃËÀµÄÀÏÊóËÀÁË!**"
+		"chi"		"**OOOAAAAAAAAAAAAH!è¯¥æ­»çš„è€é¼ æ­»äº†!**"
 	}
 	"** Being up here the reasonable way to solve the situation would be to go for a swim... If you know what I mean! **"
 	{
-		"chi"		"**´ÓÏä×ÓÓÎÉÏÈ¥**"
+		"chi"		"**ä»ç®±å­æ¸¸ä¸Šå»**"
 	}
 	"** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **"
 	{
-		"chi"		"**Èç¹ûÎÒÃÇÄÜ°ÑÄÏ¹ÏÕ¨µôÎÒÃÇ¾Í°²È«ÁË**"
+		"chi"		"**å¦‚æœæˆ‘ä»¬èƒ½æŠŠå—ç“œç‚¸æ‰æˆ‘ä»¬å°±å®‰å…¨äº†**"
 	}
 	"** We should inspect that giant pumpkin sitting on the stool! **"
 	{
-		"chi"		"**ÎÒÃÇÒª¼ì²éÏÂ´óÄÏ¹Ï**"
+		"chi"		"**æˆ‘ä»¬è¦æ£€æŸ¥ä¸‹å¤§å—ç“œ**"
 	}
 	"** THAT'S IT! WE'RE GONNA BLOW IT UP! **"
 	{
-		"chi"		"**¾ÍÊÇËû!ÎÒÃÇÒª°ÑËûÕ¨µô**"
+		"chi"		"**å°±æ˜¯ä»–!æˆ‘ä»¬è¦æŠŠä»–ç‚¸æ‰**"
 	}
 	"** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **"
 	{
-		"chi"		"**ÊØ×¡ÕâÀïÖ±µ½C4±¬Õ¨**"
+		"chi"		"**å®ˆä½è¿™é‡Œç›´åˆ°C4çˆ†ç‚¸**"
 		"DoorCountdown"		"22"
 	}
 	"** MOVE! THE DARN THING IS OUT OF THE WAY! **"
 	{
-		"chi"		"**³·ÍË!³ö¿ÚÔÚÕâ±ß!**"
+		"chi"		"**æ’¤é€€!å‡ºå£åœ¨è¿™è¾¹!**"
 	}
 	"** We can't get past here with that stove turned on! **"
 	{
-		"chi"		"**ÎÒÃÇÔİÊ±²»ÄÜ´ÓÂ¯×Ó×ß¹ıÈ¥**"
+		"chi"		"**æˆ‘ä»¬æš‚æ—¶ä¸èƒ½ä»ç‚‰å­èµ°è¿‡å»**"
 	}
 	"** What can we do? **"
 	{
-		"chi"		"**ÎÒÃÇ¿ÉÒÔ×öÊ²Ã´£¿**"
+		"chi"		"**æˆ‘ä»¬å¯ä»¥åšä»€ä¹ˆï¼Ÿ**"
 	}
 	"** The gas counter! If we mess it up the gas might stop flowing - perhaps? **"
 	{
-		"chi"		"**´ò¼ÆÊıÆ÷!Èç¹ûÎÒÃÇÄÜÆÆ»µËû»òĞí»ğÑæ¾Í¿ÉÒÔÍ£Ö¹ÁË£¨Éä»÷4¸öºìµãÖĞ¼äµÄÎ»ÖÃ£©**"
+		"chi"		"**æ‰“è®¡æ•°å™¨!å¦‚æœæˆ‘ä»¬èƒ½ç ´åä»–æˆ–è®¸ç«ç„°å°±å¯ä»¥åœæ­¢äº†ï¼ˆå°„å‡»4ä¸ªçº¢ç‚¹ä¸­é—´çš„ä½ç½®ï¼‰**"
 		"DoorCountdown"		"-1"
 	}
 	"** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **"
 	{
-		"chi"		"**¸ÉµÄÆ¯ÁÁ!ÃºÆøÍ£Ö¹¹©Ó¦ÁË!ÎÒÃÇ¿ì¿ÉÒÔ¹ıÈ¥ÁË**"
+		"chi"		"**å¹²çš„æ¼‚äº®!ç…¤æ°”åœæ­¢ä¾›åº”äº†!æˆ‘ä»¬å¿«å¯ä»¥è¿‡å»äº†**"
 		"DoorCountdown"		"12"
 	}
 	"** The metal is still hot - KEEP RESISTING! **"
 	{
-		"chi"		"**Â¯×Ó»¹ÊÇºÜÈÈ-»¹²»ÄÜ¹ıÈ¥**"
+		"chi"		"**ç‚‰å­è¿˜æ˜¯å¾ˆçƒ­-è¿˜ä¸èƒ½è¿‡å»**"
 	}
 	"** NOW! GET MOVING! **"
 	{
-		"chi"		"**¾ÍÊÇÏÖÔÚ!**"
+		"chi"		"**å°±æ˜¯ç°åœ¨!**"
 	}
 	"** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **"
 	{
-		"chi"		"**ËÆºõÕâ±ßÊÇÌõËÀÂ·£¬¼áÊØµÈ´ıÊ²Ã´ÊÂÇé·¢Éú**"
+		"chi"		"**ä¼¼ä¹è¿™è¾¹æ˜¯æ¡æ­»è·¯ï¼Œåšå®ˆç­‰å¾…ä»€ä¹ˆäº‹æƒ…å‘ç”Ÿ**"
 	}
 	"** Nothing yet... KEEP IT UP! **"
 	{
-		"chi"		"**¼ÌĞø·ÀÊØ!**"
+		"chi"		"**ç»§ç»­é˜²å®ˆ!**"
 	}
 	"** We need to resist... Something must open! **"
 	{
-		"chi"		"**¼ÌĞø·ÀÊØ!Ä³Ğ©¶«Î÷Ò»¶¨»á´ò¿ªµÄ!**"
+		"chi"		"**ç»§ç»­é˜²å®ˆ!æŸäº›ä¸œè¥¿ä¸€å®šä¼šæ‰“å¼€çš„!**"
 	}
 	"** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **"
 	{
-		"chi"		"**ÎÒÃÇ±»ÓÀÔ¶À§ÔÚÕâÁËÂğ?!µØÍ¼×÷Õß°ÑÎÒÃÇÆúÁôÔÚÕâÁËÂğ?!Õâ²»¿ÉÄÜ!**"
+		"chi"		"**æˆ‘ä»¬è¢«æ°¸è¿œå›°åœ¨è¿™äº†å—?!åœ°å›¾ä½œè€…æŠŠæˆ‘ä»¬å¼ƒç•™åœ¨è¿™äº†å—?!è¿™ä¸å¯èƒ½!**"
 	}
 	"** It looks like this Halloween will be the end... of it all... **"
 	{
-		"chi"		"**¿´À´ÍòÊ¥½ÚÖÕµã¾ÍÊÇÕâÑùÁË...**"
+		"chi"		"**çœ‹æ¥ä¸‡åœ£èŠ‚ç»ˆç‚¹å°±æ˜¯è¿™æ ·äº†...**"
 	}
 	"** Hey look! It's Billy the friendly ghost! **"
 	{
-		"chi"		"**¿ì¿´!ÕâÊÇÓÑÉÆµÄÓÄÁé±ÈÀû**"
+		"chi"		"**å¿«çœ‹!è¿™æ˜¯å‹å–„çš„å¹½çµæ¯”åˆ©**"
 	}
 	"** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **"
 	{
-		"chi"		"**ÓÄÁé±ÈÀû°ÑËùÓĞ¿Ö²ÀµÄÊÂÎï¸¯Ğà»¯ÁË£¡½©Ê¬½«»á±äµÃºÜ´àÈõ **"
+		"chi"		"**å¹½çµæ¯”åˆ©æŠŠæ‰€æœ‰ææ€–çš„äº‹ç‰©è…æœ½åŒ–äº†ï¼åƒµå°¸å°†ä¼šå˜å¾—å¾ˆè„†å¼± **"
 	}
 	"** And thus Billy the friendly ghost removed all spooky things from the world **"
 	{
-		"chi"		"**²¢ÇÒÓÑÉÆµÄÓÄÁé±ÈÀû½«ËùÓĞ¿Ö²ÀµÄÊÂÎï¶¼Ïû³ıµôÁË**"
+		"chi"		"**å¹¶ä¸”å‹å–„çš„å¹½çµæ¯”åˆ©å°†æ‰€æœ‰ææ€–çš„äº‹ç‰©éƒ½æ¶ˆé™¤æ‰äº†**"
 	}
 	"** and conveniently led our diminute human friends to the end of their little story! **"
 	{
-		"chi"		"**Í¬Ê±Ë³´ø´øÁìÎÒÃÇÈËÀà´ÓËûÃÇµÄĞ¡¹ÊÊÂÖĞ×ßÁË³öÀ´! **"
+		"chi"		"**åŒæ—¶é¡ºå¸¦å¸¦é¢†æˆ‘ä»¬äººç±»ä»ä»–ä»¬çš„å°æ•…äº‹ä¸­èµ°äº†å‡ºæ¥! **"
 	}
 	"** THE END **"
 	{
-		"chi"		"**½áÊøÁË **"
+		"chi"		"**ç»“æŸäº† **"
 	}
 	"** MS. WHISKERS HAS WHISKED US! ITS ALL OVER! **"
 	{
-		"chi"		"**ÀÏÊó×·ÉÏÁËÎÒÃÇ!È«TMÍêÁË!**"
+		"chi"		"**è€é¼ è¿½ä¸Šäº†æˆ‘ä»¬!å…¨TMå®Œäº†!**"
 	}
 	"** WE CANT SEEM TO PROGRESS AHEAD... **"
 	{
-		"chi"		"**ÎÒÃÇËÆºõÀ§ÔÚÕâÀïÁË**"
+		"chi"		"**æˆ‘ä»¬ä¼¼ä¹å›°åœ¨è¿™é‡Œäº†**"
 		"DoorCountdown"		"30"
 	}
 	"** The spirits marked the H leter... **"
 	{
-		"chi"		"**ÉñÁé±ê¼ÇÁË×ÖÄ¸H **"
+		"chi"		"**ç¥çµæ ‡è®°äº†å­—æ¯H **"
 	}
 	"** A... **"
 	{
@@ -261,31 +261,31 @@
 	}
 	"** Were getting close! If we can get into the pumpkin besides the oven we will be safe! **"
 	{
-		"chi"		"**Èç¹ûÎÒÃÇÄÜ°ÑÄÏ¹ÏÕ¨µôÎÒÃÇ¾Í°²È«ÁË**"
+		"chi"		"**å¦‚æœæˆ‘ä»¬èƒ½æŠŠå—ç“œç‚¸æ‰æˆ‘ä»¬å°±å®‰å…¨äº†**"
 	}
 	"** THATS IT! WERE GONNA BLOW IT UP! **"
 	{
-		"chi"		"**¾ÍÊÇËû!ÎÒÃÇÒª°ÑËûÕ¨µô**"
+		"chi"		"**å°±æ˜¯ä»–!æˆ‘ä»¬è¦æŠŠä»–ç‚¸æ‰**"
 	}
 	"** We cant get past here with that stove turned on! **"
 	{
-		"chi"		"**ÎÒÃÇÔİÊ±²»ÄÜ´ÓÂ¯×Ó×ß¹ıÈ¥**"
+		"chi"		"**æˆ‘ä»¬æš‚æ—¶ä¸èƒ½ä»ç‚‰å­èµ°è¿‡å»**"
 	}
 	"** Will we be here forever? Have the mapmakers left us at our stake?! That cant be! **"
 	{
-		"chi"		"**ÎÒÃÇ±»ÓÀÔ¶À§ÔÚÕâÁËÂğ?!µØÍ¼×÷Õß°ÑÎÒÃÇÆúÁôÔÚÕâÁËÂğ?!Õâ²»¿ÉÄÜ!**"
+		"chi"		"**æˆ‘ä»¬è¢«æ°¸è¿œå›°åœ¨è¿™äº†å—?!åœ°å›¾ä½œè€…æŠŠæˆ‘ä»¬å¼ƒç•™åœ¨è¿™äº†å—?!è¿™ä¸å¯èƒ½!**"
 	}
 	"** Hey look! Its Billy the friendly ghost! **"
 	{
-		"chi"		"**¿ì¿´!ÕâÊÇÓÑÉÆµÄÓÄÁé±ÈÀû**"
+		"chi"		"**å¿«çœ‹!è¿™æ˜¯å‹å–„çš„å¹½çµæ¯”åˆ©**"
 	}
 	"** DOOR OPEN IN 10 SECOND **"
 	{
-		"chi"		"**·¿Îİ´óÃÅ½«ÔÚ10Ãëºó¿ªÆô£¡**"
+		"chi"		"**æˆ¿å±‹å¤§é—¨å°†åœ¨10ç§’åå¼€å¯ï¼**"
 	}
 	"** Big Mouse start moving,Push the last button to enable the train quickly"
 	{
-		"chi"		"**ÀÏÊóÒª×·¹ıÀ´ÁË£¬¿ì°´ÏÂ×îºóÒ»ÏÂ¿ª¹ØÀ´Æô¶¯»ğ³µ£¡**"
+		"chi"		"**è€é¼ è¦è¿½è¿‡æ¥äº†ï¼Œå¿«æŒ‰ä¸‹æœ€åä¸€ä¸‹å¼€å…³æ¥å¯åŠ¨ç«è½¦ï¼**"
 		"DoorCountdown"		"3"
 	}
 }

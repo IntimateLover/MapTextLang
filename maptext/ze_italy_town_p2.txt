@@ -2,199 +2,199 @@
 {
 	"++ ZE_ITALY_TOWN ++"
 	{
-		"chi"		"**Òâ´óÀûÐ¡Õò **"
+		"chi"		"**æ„å¤§åˆ©å°é•‡ **"
 	}
 	"+++ CURRENT LEVEL: EASY +++"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£º¼òÒ×**"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šç®€æ˜“**"
 	}
 	"++ HOLD! THE DOOR OPENS SOON! ++"
 	{
-		"chi"		"**·ÀÊØÖ±µ½´óÃÅ´ò¿ª**"
+		"chi"		"**é˜²å®ˆç›´åˆ°å¤§é—¨æ‰“å¼€**"
 	}
 	"+++ Defend for 25 seconds +++"
 	{
-		"chi"		"**ÊØ×¡25Ãë**"
+		"chi"		"**å®ˆä½25ç§’**"
 	}
 	"+++ Cold gun adquired +++"
 	{
-		"chi"		"**ÉñÆ÷£º±ù¶³Ç¹**"
+		"chi"		"**ç¥žå™¨ï¼šå†°å†»æžª**"
 	}
 	"+++ 10 seconds left!!! +++"
 	{
-		"chi"		"**»¹Ê£10Ãë**"
+		"chi"		"**è¿˜å‰©10ç§’**"
 	}
 	"+++ The door is opening +++"
 	{
-		"chi"		"**ÃÅ¿ªÁË**"
+		"chi"		"**é—¨å¼€äº†**"
 	}
 	"+++ The door opens in 30 seconds +++"
 	{
-		"chi"		"**ÃÅ»¹ÓÐ30Ãë´ò¿ª**"
+		"chi"		"**é—¨è¿˜æœ‰30ç§’æ‰“å¼€**"
 	}
 	"++ FLAMETHROWER ADQUIRED ++"
 	{
-		"chi"		"**ÉñÆ÷£ºÅç»ðÆ÷**"
+		"chi"		"**ç¥žå™¨ï¼šå–·ç«å™¨**"
 	}
 	"+++ The door opens in 10 seconds +++"
 	{
-		"chi"		"**ÃÅ10Ãëºó¿ªÆô**"
+		"chi"		"**é—¨10ç§’åŽå¼€å¯**"
 	}
 	"+++ The door is opening... RETREAT!!! +++"
 	{
-		"chi"		"**ÃÅ¿ªÁË£¬½Ó×ÅÊØ£¡**"
+		"chi"		"**é—¨å¼€äº†ï¼ŒæŽ¥ç€å®ˆï¼**"
 	}
 	"+++ Double doors open in 10 seconds +++"
 	{
-		"chi"		"**µÚÒ»µÀË«ÉÈÃÅ10Ãëºó´ò¿ª**"
+		"chi"		"**ç¬¬ä¸€é“åŒæ‰‡é—¨10ç§’åŽæ‰“å¼€**"
 	}
 	"+++ Double doors are opening!!! +++"
 	{
-		"chi"		"**Ë«ÉÈÃÅÒÑ´ò¿ª£¬¿ì³·**"
+		"chi"		"**åŒæ‰‡é—¨å·²æ‰“å¼€ï¼Œå¿«æ’¤**"
 	}
 	"+++ Keep the zombies out while the doors close +++"
 	{
-		"chi"		"**ÊØ×¡ÃÅ¿ÚÖ±µ½Ë«ÉÈÃÅ¹Ø±Õ**"
+		"chi"		"**å®ˆä½é—¨å£ç›´åˆ°åŒæ‰‡é—¨å…³é—­**"
 	}
 	"+++ Second double doors open in 15 seconds +++"
 	{
-		"chi"		"**µÚ¶þµÀË«ÉÈÃÅ15Ãëºó´ò¿ª**"
+		"chi"		"**ç¬¬äºŒé“åŒæ‰‡é—¨15ç§’åŽæ‰“å¼€**"
 	}
 	"++ Nuke launched. Impact in 30 seconds ++"
 	{
-		"chi"		"**ÒÑÇëÇóºËµ¯·¢Éä£¬ºËµ¯30Ãëºó´ò»÷**"
+		"chi"		"**å·²è¯·æ±‚æ ¸å¼¹å‘å°„ï¼Œæ ¸å¼¹30ç§’åŽæ‰“å‡»**"
 	}
 	"*** Map ported by Et3rnity***"
 	{
-		"chi"		"**µØÍ¼×÷Õß£ºEt3rnity·­Òë£ºsuperjond**"
+		"chi"		"**åœ°å›¾ä½œè€…ï¼šEt3rnityç¿»è¯‘ï¼šsuperjond**"
 	}
 	"++ Impact in 10 seconds ++"
 	{
-		"chi"		"**10Ãëºó´ò»÷**"
+		"chi"		"**10ç§’åŽæ‰“å‡»**"
 	}
 	"+++ Sword has been picked up +++"
 	{
-		"chi"		"**ÉñÆ÷£ºÉñ½£**"
+		"chi"		"**ç¥žå™¨ï¼šç¥žå‰‘**"
 	}
 	"+++ NEXT LEVEL IS NORMAL +++"
 	{
-		"chi"		"**ÏÂ¹ØµÄÄÑ¶ÈÊÇ£ºÕý³£**"
+		"chi"		"**ä¸‹å…³çš„éš¾åº¦æ˜¯ï¼šæ­£å¸¸**"
 	}
 	"+++ CURRENT LEVEL: NORMAL +++"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£ºÕý³£**"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šæ­£å¸¸**"
 	}
 	"++ HOLD! DOOR OPENS IN 20 SEC ++"
 	{
-		"chi"		"**ÊØ×¡£¬20Ãëºó´óÃÅ´ò¿ª**"
+		"chi"		"**å®ˆä½ï¼Œ20ç§’åŽå¤§é—¨æ‰“å¼€**"
 	}
 	"++ Hold for 20 seconds ++"
 	{
-		"chi"		"**ÊØ×¡ÃÅ¿Ú20Ãë**"
+		"chi"		"**å®ˆä½é—¨å£20ç§’**"
 	}
 	"++ Hold for 5 more seconds!!! ++"
 	{
-		"chi"		"**»¹ÓÐ5Ãë**"
+		"chi"		"**è¿˜æœ‰5ç§’**"
 	}
 	"++ HOLD! WE ARE TRAPPED HERE!!! ++"
 	{
-		"chi"		"**³·³·³·**"
+		"chi"		"**æ’¤æ’¤æ’¤**"
 	}
 	"++ WE HAVE TO FIND A WAY OUT!!! ++"
 	{
-		"chi"		"**Ò»Â·ÅÜ½ø·¿×Ó**"
+		"chi"		"**ä¸€è·¯è·‘è¿›æˆ¿å­**"
 	}
 	"++ THE BALCONY! JUMP!!! ++"
 	{
-		"chi"		"**´ÓÑôÌ¨ÌøÏÂ**"
+		"chi"		"**ä»Žé˜³å°è·³ä¸‹**"
 	}
 	"++ HOLD! The door will open in 20 seconds!!! ++"
 	{
-		"chi"		"**·ÀÊØ20ÃëÖ±µ½´óÃÅ´ò¿ª**"
+		"chi"		"**é˜²å®ˆ20ç§’ç›´åˆ°å¤§é—¨æ‰“å¼€**"
 	}
 	"++ RESIST! 5 LAST SECONDS!!! ++"
 	{
-		"chi"		"**»¹ÓÐ5Ãë**"
+		"chi"		"**è¿˜æœ‰5ç§’**"
 	}
 	"+++ The door opens in 60 seconds +++"
 	{
-		"chi"		"**ÃÅ60Ãëºó´ò¿ª**"
+		"chi"		"**é—¨60ç§’åŽæ‰“å¼€**"
 	}
 	"+++ Double doors open in 20 seconds +++"
 	{
-		"chi"		"**Ë«ÉÈÃÅ20Ãëºó´ò¿ª**"
+		"chi"		"**åŒæ‰‡é—¨20ç§’åŽæ‰“å¼€**"
 	}
 	"++ Nuke launched. Impact in 60 seconds ++"
 	{
-		"chi"		"**ºËµ¯60Ãëºó´ò»÷**"
+		"chi"		"**æ ¸å¼¹60ç§’åŽæ‰“å‡»**"
 	}
 	"++ Impact in 30 seconds ++"
 	{
-		"chi"		"**ÀëÊ¤Àû»¹ÓÐ30Ãë**"
+		"chi"		"**ç¦»èƒœåˆ©è¿˜æœ‰30ç§’**"
 	}
 	"+++ ZOMBIES ON BUNKER +++"
 	{
-		"chi"		"**½©Ê¬½ø°²È«ÎÝÁË**"
+		"chi"		"**åƒµå°¸è¿›å®‰å…¨å±‹äº†**"
 	}
 	"+++ LEVEL IS NOT CHANGING +++"
 	{
-		"chi"		"**ÖØÍæµ±Ç°ÄÑ¶È**"
+		"chi"		"**é‡çŽ©å½“å‰éš¾åº¦**"
 	}
 	"+++ NEXT LEVEL IS HARD +++"
 	{
-		"chi"		"**ÏÂÒ»¸öÄÑ¶ÈÊÇÀ§ÄÑ**"
+		"chi"		"**ä¸‹ä¸€ä¸ªéš¾åº¦æ˜¯å›°éš¾**"
 	}
 	"+++ CURRENT LEVEL: HARD +++"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£ºÀ§ÄÑ**"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šå›°éš¾**"
 	}
 	"+++ NEXT LEVEL IS EXTREME +++"
 	{
-		"chi"		"**ÏÂÒ»ÄÑ¶ÈÊÇ¼«ÏÞ**"
+		"chi"		"**ä¸‹ä¸€éš¾åº¦æ˜¯æžé™**"
 	}
 	"+++ CURRENT LEVEL: EXTREME +++"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£º¼«ÏÞ**"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šæžé™**"
 	}
 	"++ HOLD! DOOR OPENS IN 30 SEC ++"
 	{
-		"chi"		"**ÊØ×¡£¬ÃÅ30Ãëºó´ò¿ª**"
+		"chi"		"**å®ˆä½ï¼Œé—¨30ç§’åŽæ‰“å¼€**"
 	}
 	"++ RESIST! 15 SECONDS LEFT ++"
 	{
-		"chi"		"**»¹ÓÐ15Ãë**"
+		"chi"		"**è¿˜æœ‰15ç§’**"
 	}
 	"++ Hold for 30 seconds ++"
 	{
-		"chi"		"**ÊØ×¡30Ãë**"
+		"chi"		"**å®ˆä½30ç§’**"
 	}
 	"++ Hold for 15 more seconds!!! ++"
 	{
-		"chi"		"**ÊØ×¡15Ãë**"
+		"chi"		"**å®ˆä½15ç§’**"
 	}
 	"+++ Defend for 30 seconds +++"
 	{
-		"chi"		"**ÊØ×¡30Ãë**"
+		"chi"		"**å®ˆä½30ç§’**"
 	}
 	"+++ 15 seconds left!!! +++"
 	{
-		"chi"		"**»¹Ê£15Ãë**"
+		"chi"		"**è¿˜å‰©15ç§’**"
 	}
 	"+++ YOU HAVE WON! RESTARTING MAP +++"
 	{
-		"chi"		"**¹§Ï²Äã£¬ÄãÒÑÍê³ÉÕâ¸öµØÍ¼µÄÈ«²¿ÄÑ¶È£¬¿ªÆô¶þÖÜÄ¿**"
+		"chi"		"**æ­å–œä½ ï¼Œä½ å·²å®Œæˆè¿™ä¸ªåœ°å›¾çš„å…¨éƒ¨éš¾åº¦ï¼Œå¼€å¯äºŒå‘¨ç›®**"
 	}
 	"+++ FIRE! +++"
 	{
-		"chi"		"**Åç»ðÆ÷ **"
+		"chi"		"**å–·ç«å™¨ **"
 	}
 	"+++ Secret rocketlauncher has been found +++"
 	{
-		"chi"		"**ÃØÃÜµÄ»ð¼ý·¢ÉäÆ÷ÒÑ±»·¢ÏÖ **"
+		"chi"		"**ç§˜å¯†çš„ç«ç®­å‘å°„å™¨å·²è¢«å‘çŽ° **"
 	}
 	"+++ You can only use it once +++"
 	{
-		"chi"		"**ÄãÖ»ÄÜÊ¹ÓÃÒ»´Î **"
+		"chi"		"**ä½ åªèƒ½ä½¿ç”¨ä¸€æ¬¡ **"
 	}
 	"sync_version"
 	{
@@ -202,22 +202,22 @@
 	}
 	"+++ The door opens in 25 seconds +++"
 	{
-		"chi"		"**ÃÅ½«ÔÚ25Ãëºó´ò¿ª **"
+		"chi"		"**é—¨å°†åœ¨25ç§’åŽæ‰“å¼€ **"
 	}
 	"+++ Defend for 20 seconds +++"
 	{
-		"chi"		"**·ÀÊØ20Ãë **"
+		"chi"		"**é˜²å®ˆ20ç§’ **"
 	}
 	"+++ The door opens in 45 seconds +++"
 	{
-		"chi"		"**ÃÅ½«ÔÚ45Ãëºó´ò¿ª **"
+		"chi"		"**é—¨å°†åœ¨45ç§’åŽæ‰“å¼€ **"
 	}
 	"+++ Defend for 35 seconds +++"
 	{
-		"chi"		"**·ÀÊØ35Ãë **"
+		"chi"		"**é˜²å®ˆ35ç§’ **"
 	}
 	"++ HOLD! DOORS OPENS IN 30 SEC ++"
 	{
-		"chi"		"**ÊØ×¡£¡ÃÅ½«ÔÚ30Ãëºó´ò¿ª **"
+		"chi"		"**å®ˆä½ï¼é—¨å°†åœ¨30ç§’åŽæ‰“å¼€ **"
 	}
 }

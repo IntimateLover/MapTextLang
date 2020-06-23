@@ -2,190 +2,190 @@
 {
 	"**Map made by Eugenio *Motanum* Roman**"
 	{
-		"chi"		"**µØÍ¼×÷Õß: Eugenio**"
+		"chi"		"**åœ°å›¾ä½œè€…: Eugenio**"
 	}
 	"**Contact me at eugenio.motanum91 AT gmail.com**"
 	{
-		"chi"		"**Í¨¹ıeugenio.motanum91@gmail.com ÁªÏµÎÒ **"
+		"chi"		"**é€šè¿‡eugenio.motanum91@gmail.com è”ç³»æˆ‘ **"
 	}
 	"**Thanks to [PF] PlagueFest for their support!**"
 	{
-		"chi"		"**¸ĞĞ»[PF] PlagueFestµÄ°ïÖú **"
+		"chi"		"**æ„Ÿè°¢[PF] PlagueFestçš„å¸®åŠ© **"
 	}
 	"***Obtain the plans to a secret rocket launch pad!***"
 	{
-		"chi"		"**ÈÎÎñÄ¿±ê£º»ñµÃÃØÃÜ»ğ¼ı·¢ÉäÌ¨µÄ¼Æ»®£¡**"
+		"chi"		"**ä»»åŠ¡ç›®æ ‡ï¼šè·å¾—ç§˜å¯†ç«ç®­å‘å°„å°çš„è®¡åˆ’ï¼**"
 	}
 	"**Use the tramway to get to the Helicopters!**"
 	{
-		"chi"		"**Ê¹ÓÃÀÂ³µµ½´ïÖ±Éı»ú**"
+		"chi"		"**ä½¿ç”¨ç¼†è½¦åˆ°è¾¾ç›´å‡æœº**"
 	}
 	"***No fall damage***"
 	{
-		"chi"		"**ÎŞµôÂäÉËº¦**"
+		"chi"		"**æ— æ‰è½ä¼¤å®³**"
 	}
 	"**AFK Killer enabled for 5 seconds**"
 	{
-		"chi"		"**5Ãëºó´¦Àí¹Ò»ú**"
+		"chi"		"**5ç§’åå¤„ç†æŒ‚æœº**"
 	}
 	"**T minus 60 seconds**"
 	{
-		"chi"		"**µ¹Êı60Ãë**"
+		"chi"		"**å€’æ•°60ç§’**"
 	}
 	"**Hacking into the barrier and door system**"
 	{
-		"chi"		"**³É¹¦ºÚ½øÁËÆÁÕÏºÍÃÅ½ûÏµÍ³**"
+		"chi"		"**æˆåŠŸé»‘è¿›äº†å±éšœå’Œé—¨ç¦ç³»ç»Ÿ**"
 	}
 	"**Hold the octagon until gates are open!**"
 	{
-		"chi"		"**ÊØ×¡ÕâÀïÖ±µ½ÃÅ´ò¿ª£¡**"
+		"chi"		"**å®ˆä½è¿™é‡Œç›´åˆ°é—¨æ‰“å¼€ï¼**"
 	}
 	"**Calculating progress time**"
 	{
-		"chi"		"**¼ÆËãÊ±¼ä½ø¶È**"
+		"chi"		"**è®¡ç®—æ—¶é—´è¿›åº¦**"
 	}
 	"**AFK Killer is off**"
 	{
-		"chi"		"**¹Ò»ú´¦ÀíÍê±Ï**"
+		"chi"		"**æŒ‚æœºå¤„ç†å®Œæ¯•**"
 	}
 	"**T minus 30 seconds**"
 	{
-		"chi"		"**µ¹Êı30Ãë**"
+		"chi"		"**å€’æ•°30ç§’**"
 	}
 	"**T minus 10 seconds**"
 	{
-		"chi"		"**µ¹Êı10Ãë£¬ÊØ×¡£¡**"
+		"chi"		"**å€’æ•°10ç§’ï¼Œå®ˆä½ï¼**"
 	}
 	"**Gates are opening and barriers are online!**"
 	{
-		"chi"		"**ÃÅ¿ªÁË£¡ÆÁÕÏµ²×¡ÁË½©Ê¬**"
+		"chi"		"**é—¨å¼€äº†ï¼å±éšœæŒ¡ä½äº†åƒµå°¸**"
 	}
 	"**Barrier system deactivated in 15 seconds**"
 	{
-		"chi"		"**ÆÁÕÏÔÚ15ÃëºóÊ§Ğ§**"
+		"chi"		"**å±éšœåœ¨15ç§’åå¤±æ•ˆ**"
 	}
 	"**Barrier system is broken! Watch your backs!**"
 	{
-		"chi"		"**ÆÁÕÏÊ§Ğ§ÁË£¡×¢ÒâÉíºó£¡**"
+		"chi"		"**å±éšœå¤±æ•ˆäº†ï¼æ³¨æ„èº«åï¼**"
 	}
 	"**Monitor A active**"
 	{
-		"chi"		"**Aµã±»Æô¶¯**"
+		"chi"		"**Aç‚¹è¢«å¯åŠ¨**"
 	}
 	"**Monitor B active**"
 	{
-		"chi"		"**Bµã±»Æô¶¯**"
+		"chi"		"**Bç‚¹è¢«å¯åŠ¨**"
 	}
 	"**Plans aquired**"
 	{
-		"chi"		"**»ñµÃ¼Æ»®ÁË£¡**"
+		"chi"		"**è·å¾—è®¡åˆ’äº†ï¼**"
 	}
 	"**Find a way out of here!**"
 	{
-		"chi"		"**ÕÒÂ·Àë¿ªÕâÀï£¡**"
+		"chi"		"**æ‰¾è·¯ç¦»å¼€è¿™é‡Œï¼**"
 	}
 	"**T minus 45s for detonation**"
 	{
-		"chi"		"**Õ¨µ¯»¹ÓĞ45Ãë±¬ÆÆ**"
+		"chi"		"**ç‚¸å¼¹è¿˜æœ‰45ç§’çˆ†ç ´**"
 	}
 	"**T minus 30s for detonation**"
 	{
-		"chi"		"**Õ¨µ¯»¹ÓĞ30Ãë±¬ÆÆ**"
+		"chi"		"**ç‚¸å¼¹è¿˜æœ‰30ç§’çˆ†ç ´**"
 	}
 	"**T minus 15s for detonation**"
 	{
-		"chi"		"**Õ¨µ¯»¹ÓĞ15Ãë±¬ÆÆ**"
+		"chi"		"**ç‚¸å¼¹è¿˜æœ‰15ç§’çˆ†ç ´**"
 	}
 	"**Blast door system is broken!**"
 	{
-		"chi"		"**ÃÅ±»Õ¨¿ªÁË£¡**"
+		"chi"		"**é—¨è¢«ç‚¸å¼€äº†ï¼**"
 	}
 	"**Building power for Tramway! 90 seconds remaining!**"
 	{
-		"chi"		"**ÕıÔÚÎªÀÂ³µ³äµç£¬µ¹Êı90Ãë£¡**"
+		"chi"		"**æ­£åœ¨ä¸ºç¼†è½¦å……ç”µï¼Œå€’æ•°90ç§’ï¼**"
 	}
 	"**Final Wave inminent!**"
 	{
-		"chi"		"**×îºóÒ»²¨·ÀÊØ£¡**"
+		"chi"		"**æœ€åä¸€æ³¢é˜²å®ˆï¼**"
 	}
 	"**Tramway leaving in 60 seconds!**"
 	{
-		"chi"		"**ÀÂ³µÔÚ60ÃëºóÆô¶¯£¡**"
+		"chi"		"**ç¼†è½¦åœ¨60ç§’åå¯åŠ¨ï¼**"
 	}
 	"**Tramway leaving in 30 seconds!**"
 	{
-		"chi"		"**ÀÂ³µÔÚ30ÃëºóÆô¶¯£¡**"
+		"chi"		"**ç¼†è½¦åœ¨30ç§’åå¯åŠ¨ï¼**"
 	}
 	"**Tramway leaving in 10 seconds!**"
 	{
-		"chi"		"**ÀÂ³µÔÚ10ÃëºóÆô¶¯£¡³·ÍË£¡**"
+		"chi"		"**ç¼†è½¦åœ¨10ç§’åå¯åŠ¨ï¼æ’¤é€€ï¼**"
 	}
 	"**Tramway has left the station!**"
 	{
-		"chi"		"**ÀÂ³µÒÑ¾­Àë¿ª³µÕ¾ÁË£¡**"
+		"chi"		"**ç¼†è½¦å·²ç»ç¦»å¼€è½¦ç«™äº†ï¼**"
 	}
 	"***Easy mode completed***"
 	{
-		"chi"		"**¼òµ¥ÄÑ¶ÈÍê³É**"
+		"chi"		"**ç®€å•éš¾åº¦å®Œæˆ**"
 	}
 	"***Changing level to Normal***"
 	{
-		"chi"		"**¸Ä±äÄÑ¶ÈÎªÆÕÍ¨**"
+		"chi"		"**æ”¹å˜éš¾åº¦ä¸ºæ™®é€š**"
 	}
 	"**Get to the chopper**"
 	{
-		"chi"		"**ÉÏÖ±Éı»ú£¡**"
+		"chi"		"**ä¸Šç›´å‡æœºï¼**"
 	}
 	"***Changing level to Hard***"
 	{
-		"chi"		"**¸Ä±äÄÑ¶ÈÎªÀ§ÄÑ**"
+		"chi"		"**æ”¹å˜éš¾åº¦ä¸ºå›°éš¾**"
 	}
 	"***Normal mode completed***"
 	{
-		"chi"		"**ÆÕÍ¨ÄÑ¶ÈÍê³É**"
+		"chi"		"**æ™®é€šéš¾åº¦å®Œæˆ**"
 	}
 	"***Hard mode completed***"
 	{
-		"chi"		"**À§ÄÑÄÑ¶ÈÍê³É**"
+		"chi"		"**å›°éš¾éš¾åº¦å®Œæˆ**"
 	}
 	"***Changing level to Suicide***"
 	{
-		"chi"		"**¸Ä±äÄÑ¶ÈÎª¼«ÏŞ**"
+		"chi"		"**æ”¹å˜éš¾åº¦ä¸ºæé™**"
 	}
 	"***Zombies reached rescue vehicle!***"
 	{
-		"chi"		"**½©Ê¬µ½´ïÁËÔ®¾È·É»ú **"
+		"chi"		"**åƒµå°¸åˆ°è¾¾äº†æ´æ•‘é£æœº **"
 	}
 	"***Difficulty will not change***"
 	{
-		"chi"		"**ÄÑ¶È½«²»»á±ä»¯ **"
+		"chi"		"**éš¾åº¦å°†ä¸ä¼šå˜åŒ– **"
 	}
 	"***Executing game reset****"
 	{
-		"chi"		"**µØÍ¼ÖØÖÃ **"
+		"chi"		"**åœ°å›¾é‡ç½® **"
 	}
 	"***Suicide level complete!***"
 	{
-		"chi"		"**×ÔÉ±¹Ø¿¨Íê³É **"
+		"chi"		"**è‡ªæ€å…³å¡å®Œæˆ **"
 	}
 	"***Suicide difficulty will stay***"
 	{
-		"chi"		"**×ÔÉ±ÄÑ¶È½«»á±£³Ö **"
+		"chi"		"**è‡ªæ€éš¾åº¦å°†ä¼šä¿æŒ **"
 	}
 	"***Use admin room to change difficulty***"
 	{
-		"chi"		"**Í¨¹Ø¹ÜÀíÔ±·¿¼ä¸Ä±äÄÑ¶È **"
+		"chi"		"**é€šå…³ç®¡ç†å‘˜æˆ¿é—´æ”¹å˜éš¾åº¦ **"
 	}
 	"***Selecting default difficulty****"
 	{
-		"chi"		"**Ñ¡ÔñÄ¬ÈÏÄÑ¶È **"
+		"chi"		"**é€‰æ‹©é»˜è®¤éš¾åº¦ **"
 	}
 	"***Waiting for players****"
 	{
-		"chi"		"**µÈ´ıÍæ¼Ò **"
+		"chi"		"**ç­‰å¾…ç©å®¶ **"
 	}
 	"***Reseting game in 20 seconds****"
 	{
-		"chi"		"**20ÃëºóÖØÆô»ØºÏ **"
+		"chi"		"**20ç§’åé‡å¯å›åˆ **"
 	}
 }
