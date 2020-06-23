@@ -2,409 +2,409 @@
 {
 	"**ZE_JOHNNY_NUKEM**"
 	{
-		"chi"		"**ZE:»ÙÃğÇ¿Äá**"
+		"chi"		"**ZE:æ¯ç­å¼ºå°¼**"
 	}
 	"**Map by Lucky9Two (original autor) Headshooter.SC HaRyDe and autism**"
 	{
-		"chi"		"**µØÍ¼ÖÆ×÷£ºLucky9Two (original autor) HeadshooterSC HaRyDe and autism**ÎÄ±¾ÍêÕûºº»¯£º¹¾ßİ**"
+		"chi"		"**åœ°å›¾åˆ¶ä½œï¼šLucky9Two (original autor) HeadshooterSC HaRyDe and autism**æ–‡æœ¬å®Œæ•´æ±‰åŒ–ï¼šå’•å’»**"
 	}
 	"**We are not giving thanks to Microsoft Edge for models**"
 	{
-		"chi"		"**±¾µØÍ¼²¢Ã»ÓĞ¶ÔMicrosoft EdgeÌá¹©µÄÄ£ĞÍ×ö¹ã¸æ**"
+		"chi"		"**æœ¬åœ°å›¾å¹¶æ²¡æœ‰å¯¹Microsoft Edgeæä¾›çš„æ¨¡å‹åšå¹¿å‘Š**"
 	}
 	"**...or to GAF for some cookies**"
 	{
-		"chi"		"**...»òĞíÄã¿ÉÒÔÈ¥GAF¾èÖúÎÒÃÇ**"
+		"chi"		"**...æˆ–è®¸ä½ å¯ä»¥å»GAFæåŠ©æˆ‘ä»¬**"
 	}
 	"**...Vanya and Blue Dragon are not thanked aswell**"
 	{
-		"chi"		"**...²»¹ıÕâÑùÄãÒ²µÃ²»µ½VanyaºÍBlue DragonµÄ¸ĞĞ»**"
+		"chi"		"**...ä¸è¿‡è¿™æ ·ä½ ä¹Ÿå¾—ä¸åˆ°Vanyaå’ŒBlue Dragonçš„æ„Ÿè°¢**"
 	}
 	"**[Stage 1 - The Rebellion against the Frog Kingdom]**"
 	{
-		"chi"		"**[¹Ø¿¨1 - ·´¿¹ÇàÍÜÍõ¹ú]**"
+		"chi"		"**[å…³å¡1 - åæŠ—é’è›™ç‹å›½]**"
 		"DoorCountdown"		"-1"
 	}
 	"Professor  *Johnny. We found out that Hitler is hiding in this dimension..*"
 	{
-		"chi"		"**½ÌÊÚ:ÎÒÃÇ·¢ÏÖÏ£ÌØÀÕ²ØÔÚÕâ¸öÎ¬¶ÈÀï..**"
+		"chi"		"**æ•™æˆ:æˆ‘ä»¬å‘ç°å¸Œç‰¹å‹’è—åœ¨è¿™ä¸ªç»´åº¦é‡Œ..**"
 	}
 	"Professor  *Dont forget that you are here to kill him. Roger?*"
 	{
-		"chi"		"**½ÌÊÚ:²»ÒªÍüÁËÄãÊÇÀ´É±ËûµÄ.Ã÷°×ÁËÂğ£¿**"
+		"chi"		"**æ•™æˆ:ä¸è¦å¿˜äº†ä½ æ˜¯æ¥æ€ä»–çš„.æ˜ç™½äº†å—ï¼Ÿ**"
 	}
 	"Professor  *No lollygagging!*"
 	{
-		"chi"		"**½ÌÊÚ:²»ÒªÀË·ÑÊ±¼ä**"
+		"chi"		"**æ•™æˆ:ä¸è¦æµªè´¹æ—¶é—´**"
 	}
 	"Johnny  *Yeah yeah... I know. Roger that.*"
 	{
-		"chi"		"**Ç¿Äá:ÎÒÖªµÀ£¬Ã÷°×ÁË.**"
+		"chi"		"**å¼ºå°¼:æˆ‘çŸ¥é“ï¼Œæ˜ç™½äº†.**"
 	}
 	"Johnny  *But how the fuck did I end up doing this?*"
 	{
-		"chi"		"**Ç¿Äá:µ«ÎÒ¸ÃÔõÃ´×ö£¿**"
+		"chi"		"**å¼ºå°¼:ä½†æˆ‘è¯¥æ€ä¹ˆåšï¼Ÿ**"
 	}
 	"**A player has picked up the Ammo-Taco Box**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁËµ¯Ò©Ïä-¾í±ıºĞ**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†å¼¹è¯ç®±-å·é¥¼ç›’**"
 	}
 	"**TIP -- This item gives unlimited ammo for 5 seconds**"
 	{
-		"chi"		"**µ¯Ò©ÏäÄÜ¹»Ìá¹©5ÃëµÄÎŞÏŞ×Óµ¯ **"
+		"chi"		"**å¼¹è¯ç®±èƒ½å¤Ÿæä¾›5ç§’çš„æ— é™å­å¼¹ **"
 		"DoorCountdown"		"-1"
 	}
 	"**TIP -- Can only be used two times and has a 60 second cooldown**"
 	{
-		"chi"		"**µ¯Ò©Ö»ÄÜÊ¹ÓÃÁ½´Î£¬ÀäÈ´Ê±¼ä60Ãë**"
+		"chi"		"**å¼¹è¯åªèƒ½ä½¿ç”¨ä¸¤æ¬¡ï¼Œå†·å´æ—¶é—´60ç§’**"
 		"DoorCountdown"		"-1"
 	}
 	"**A player has picked up the Dong Chainsaw**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁËßËßËµç¾â**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†å’šå’šç”µé”¯**"
 	}
 	"**A player has picked up the Rainbow Flamethrower**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁË²ÊºçÅç»ğÆ÷£¨ÎŞ²ÊÉ«ËµÃ÷È¼ÁÏºÄ¾¡£©**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†å½©è™¹å–·ç«å™¨ï¼ˆæ— å½©è‰²è¯´æ˜ç‡ƒæ–™è€—å°½ï¼‰**"
 	}
 	"**TIP -- Flamethrower can last up to 20 seconds**"
 	{
-		"chi"		"**Åç»ğÆ÷ÓĞ20ÃëµÄÈ¼ÁÏ£¬ÇëºÏÀíÊ¹ÓÃ**"
+		"chi"		"**å–·ç«å™¨æœ‰20ç§’çš„ç‡ƒæ–™ï¼Œè¯·åˆç†ä½¿ç”¨**"
 		"DoorCountdown"		"-1"
 	}
 	"**A player has picked up a weird Bubble Gun**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁËÆæÃîÅİÅİÇ¹**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†å¥‡å¦™æ³¡æ³¡æª**"
 	}
 	"**TIP -- The laser it fires slows down the zombies**"
 	{
-		"chi"		"**¼¤¹âÉñÆ÷³ÖĞø7Ãë,´¥Åö¼õËÙ½©Ê¬1Ãë**"
+		"chi"		"**æ¿€å…‰ç¥å™¨æŒç»­7ç§’,è§¦ç¢°å‡é€Ÿåƒµå°¸1ç§’**"
 		"DoorCountdown"		"-1"
 	}
 	"**TIP -- It has a 55 second cooldown**"
 	{
-		"chi"		"**¸ÃÎïÆ·ÓĞ55ÃëÀäÈ´Ê±¼ä**"
+		"chi"		"**è¯¥ç‰©å“æœ‰55ç§’å†·å´æ—¶é—´**"
 		"DoorCountdown"		"-1"
 	}
 	"**A player has picked up the Pink Elephants. Aww <3**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁË·ÛÉ«´óÏó.Aww <3**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†ç²‰è‰²å¤§è±¡.Aww <3**"
 		"DoorCountdown"		"-1"
 	}
 	"**TIP -- These elephants work as explosive mines**"
 	{
-		"chi"		"**´óÏóµØÀ×¹²5¸ö,³ÖĞø¼õËÙ½©Ê¬**"
+		"chi"		"**å¤§è±¡åœ°é›·å…±5ä¸ª,æŒç»­å‡é€Ÿåƒµå°¸**"
 		"DoorCountdown"		"-1"
 	}
 	"Rayvel *Welcome stranger. How can I help you?*"
 	{
-		"chi"		"**ÈğÍş¶û:»¶Ó­ÄãÄ°ÉúÈË,ÎÒÄÜÎªÄã×öĞ©Ê²Ã´?**"
+		"chi"		"**ç‘å¨å°”:æ¬¢è¿ä½ é™Œç”Ÿäºº,æˆ‘èƒ½ä¸ºä½ åšäº›ä»€ä¹ˆ?**"
 	}
 	"**The entrance to the Frog Kingdom will open in 20 seconds**"
 	{
-		"chi"		"**ÇàÍÜÍõ¹úµÄÈë¿Ú½«ÔÚ20Ãëºó´ò¿ª**"
+		"chi"		"**é’è›™ç‹å›½çš„å…¥å£å°†åœ¨20ç§’åæ‰“å¼€**"
 	}
 	"Johnny *I need to find Hitler and make him pay for everything he has done*"
 	{
-		"chi"		"**Ç¿Äá:ÎÒĞèÒªÕÒµ½Ï£ÌØÀÕ,ÈÃËûÎªËûËù×öµÄÒ»ÇĞ¸¶³ö´ú¼Û**"
+		"chi"		"**å¼ºå°¼:æˆ‘éœ€è¦æ‰¾åˆ°å¸Œç‰¹å‹’,è®©ä»–ä¸ºä»–æ‰€åšçš„ä¸€åˆ‡ä»˜å‡ºä»£ä»·**"
 	}
 	"Rayvel *Huh... you dont hear that everyday...*"
 	{
-		"chi"		"**ÈğÍş¶û:ÎÒÒ²²»ÖªµÀËûÔÚÄÄÀï**"
+		"chi"		"**ç‘å¨å°”:æˆ‘ä¹Ÿä¸çŸ¥é“ä»–åœ¨å“ªé‡Œ**"
 	}
 	"Rayvel *But I have some information that can help you*"
 	{
-		"chi"		"**ÈğÍş¶û:²»¹ıÎÒÓĞÒ»Ğ©ÏûÏ¢¿ÉÒÔ°ïÖúµ½Äã**"
+		"chi"		"**ç‘å¨å°”:ä¸è¿‡æˆ‘æœ‰ä¸€äº›æ¶ˆæ¯å¯ä»¥å¸®åŠ©åˆ°ä½ **"
 	}
 	"Rayvel *Kill the King of the Frogs. His hideout is in that bathtub up ahead*"
 	{
-		"chi"		"**ÈğÍş¶û:É±ËÀÇàÍÜ¹úÍõ,Ï£ÌØÀÕµÄ²ØÉíÖ®´¦¾ÍÔÚÇ°ÃæµÄÔ¡¸×Àï**"
+		"chi"		"**ç‘å¨å°”:æ€æ­»é’è›™å›½ç‹,å¸Œç‰¹å‹’çš„è—èº«ä¹‹å¤„å°±åœ¨å‰é¢çš„æµ´ç¼¸é‡Œ**"
 	}
 	"Rayvel *He has some very valuable intel that can help you. *"
 	{
-		"chi"		"**ÈğÍş¶û:ÇàÍÜ¹úÍõÓĞÒ»Ğ©·Ç³£ÓĞ¼ÛÖµµÄIntel£¬Õâ¿ÉÒÔ°ïÖúÄã**"
+		"chi"		"**ç‘å¨å°”:é’è›™å›½ç‹æœ‰ä¸€äº›éå¸¸æœ‰ä»·å€¼çš„Intelï¼Œè¿™å¯ä»¥å¸®åŠ©ä½ **"
 	}
 	"Rayvel  *With that intel you can open up the teleport to the Kingdom of Steroids...*"
 	{
-		"chi"		"**ÈğÍş¶û:Í¨¹ıÕâĞ©IntelÄã¿ÉÒÔ´ò¿ªÀÖ¸ßÍõ¹úµÄ´«ËÍÃÅ**"
+		"chi"		"**ç‘å¨å°”:é€šè¿‡è¿™äº›Intelä½ å¯ä»¥æ‰“å¼€ä¹é«˜ç‹å›½çš„ä¼ é€é—¨**"
 	}
 	"Rayvel  *...and maybe you will find Hitler there.*"
 	{
-		"chi"		"**ÈğÎ¬¶û:Ò²ĞíÄã»áÔÚÄÇÀïÕÒµ½Ï£ÌØÀÕ**"
+		"chi"		"**ç‘ç»´å°”:ä¹Ÿè®¸ä½ ä¼šåœ¨é‚£é‡Œæ‰¾åˆ°å¸Œç‰¹å‹’**"
 	}
 	"**Entrance has been opened - Move!**"
 	{
-		"chi"		"**Èë¿Ú´ò¿ªÁË-×ß£¡**"
+		"chi"		"**å…¥å£æ‰“å¼€äº†-èµ°ï¼**"
 	}
 	"Johnny *Jesus... in what did I just get myself into?*"
 	{
-		"chi"		"**Ç¿Äá£ºÌì°¡...ÎÒ¸Õ¸Õ×öÁËÊ²Ã´**"
+		"chi"		"**å¼ºå°¼ï¼šå¤©å•Š...æˆ‘åˆšåˆšåšäº†ä»€ä¹ˆ**"
 	}
 	"**A player has picked up the Mountain Dew (Heal)**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁË¼¤ÀË**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†æ¿€æµª**"
 	}
 	"**TIP -- This item heals you and teammates around you for 5 seconds**"
 	{
-		"chi"		"**ÄÌÉñÆ÷ÄÜÔÚ5ÃëÄÚÄÜ»Ø¸´Á½°ÙÑª²¢ÇÒÃâÒß¸ĞÈ¾**"
+		"chi"		"**å¥¶ç¥å™¨èƒ½åœ¨5ç§’å†…èƒ½å›å¤ä¸¤ç™¾è¡€å¹¶ä¸”å…ç–«æ„ŸæŸ“**"
 		"DoorCountdown"		"-1"
 	}
 	"**TIP -- Can only be used twice and has a 10 second cooldown**"
 	{
-		"chi"		"**ÇÒÖ»ÄÜÊ¹ÓÃ2´Î£¬²¢¾ßÓĞ10ÃëÀäÈ´**"
+		"chi"		"**ä¸”åªèƒ½ä½¿ç”¨2æ¬¡ï¼Œå¹¶å…·æœ‰10ç§’å†·å´**"
 		"DoorCountdown"		"-1"
 	}
 	"**The paper wall will disappear in 30 seconds**"
 	{
-		"chi"		"**Ö½Ç½½«ÔÚ30ÃëºóÏûÊ§**"
+		"chi"		"**çº¸å¢™å°†åœ¨30ç§’åæ¶ˆå¤±**"
 	}
 	"**Fall Back!**"
 	{
-		"chi"		"**³·ÍË**"
+		"chi"		"**æ’¤é€€**"
 	}
 	"**Theres no way out... Hold here until something happens!**"
 	{
-		"chi"		"**ÕâÀïÒÑ¾­ÊÇËÀÂ·ÁË...ÊØ×¡ÕâÀïÖ±µ½·¢ÉúÊ²Ã´ÊÂÇé**"
+		"chi"		"**è¿™é‡Œå·²ç»æ˜¯æ­»è·¯äº†...å®ˆä½è¿™é‡Œç›´åˆ°å‘ç”Ÿä»€ä¹ˆäº‹æƒ…**"
 		"DoorCountdown"		"20"
 	}
 	"**FALL BACK**"
 	{
-		"chi"		"**³·ÍË**"
+		"chi"		"**æ’¤é€€**"
 	}
 	"**We have nowhere to go again...**"
 	{
-		"chi"		"**ÎÒÃÇÃ»ÓĞÂ·¿ÉÒÔ×ßÁË...**"
+		"chi"		"**æˆ‘ä»¬æ²¡æœ‰è·¯å¯ä»¥èµ°äº†...**"
 	}
 	"**Defend the zombies off until something happens**"
 	{
-		"chi"		"**ÊØ×¡½©Ê¬£¬Ö±µ½µÀÂ·³öÏÖ**"
+		"chi"		"**å®ˆä½åƒµå°¸ï¼Œç›´åˆ°é“è·¯å‡ºç°**"
 	}
 	"**Looks like that ship can move - Defend until it comes for us**"
 	{
-		"chi"		"**¿´ÆğÀ´ÄÇËÒ´¬¿ÉÒÔÒÆ¶¯£¬ÊØ×¡Ö±µ½Ëü¹ıÀ´**"
+		"chi"		"**çœ‹èµ·æ¥é‚£è‰˜èˆ¹å¯ä»¥ç§»åŠ¨ï¼Œå®ˆä½ç›´åˆ°å®ƒè¿‡æ¥**"
 	}
 	"Rayvel *Well done! The King of Frogs is right there in that arena*"
 	{
-		"chi"		"**ÈğÍş¶û£º×öµÃºÃ£¡ÇàÍÜ¹úÍõ¾ÍÔÚÄÇ¾º¼¼³¡Àï**"
+		"chi"		"**ç‘å¨å°”ï¼šåšå¾—å¥½ï¼é’è›™å›½ç‹å°±åœ¨é‚£ç«æŠ€åœºé‡Œ**"
 	}
 	"Rayvel *Just be warned... He is a very dangerous foe!*"
 	{
-		"chi"		"**ÈğÍş¶û£ºĞ¡ĞÄ£¬ËûÊÇÒ»¸ö·Ç³£Î£ÏÕµÄÈË**"
+		"chi"		"**ç‘å¨å°”ï¼šå°å¿ƒï¼Œä»–æ˜¯ä¸€ä¸ªéå¸¸å±é™©çš„äºº**"
 	}
 	"Rayvel *Once youve killed him dont forget to send me the intel!*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÉ±ÁËËûºó±ğÍüÁË¸øÎÒIntel£¡**"
+		"chi"		"**ç‘å¨å°”ï¼šæ€äº†ä»–ååˆ«å¿˜äº†ç»™æˆ‘Intelï¼**"
 	}
 	"Rayvel *And then find a way back to the teleporter.*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÈ»ºóÕÒµ½Ò»ÖÖ·½·¨»Øµ½´«ËÍÃÅ**"
+		"chi"		"**ç‘å¨å°”ï¼šç„¶åæ‰¾åˆ°ä¸€ç§æ–¹æ³•å›åˆ°ä¼ é€é—¨**"
 	}
 	"Johnny *And why should I trust you?*"
 	{
-		"chi"		"**Ç¿Äá:ÎÒÎªÊ²Ã´ÒªÏàĞÅÄã?**"
+		"chi"		"**å¼ºå°¼:æˆ‘ä¸ºä»€ä¹ˆè¦ç›¸ä¿¡ä½ ?**"
 	}
 	"Rayvel *Is there anyone else you can trust in?*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÄã»¹ÓĞÊ²Ã´¿ÉÒÔĞÅÈÎµÄÈËÂğ£¿**"
+		"chi"		"**ç‘å¨å°”ï¼šä½ è¿˜æœ‰ä»€ä¹ˆå¯ä»¥ä¿¡ä»»çš„äººå—ï¼Ÿ**"
 	}
 	"Johnny *I guess not...*"
 	{
-		"chi"		"**Ç¿Äá:ÎÒ¾õµÃÃ»ÓĞ...**"
+		"chi"		"**å¼ºå°¼:æˆ‘è§‰å¾—æ²¡æœ‰...**"
 	}
 	"Rayvel *Send me that intel and Ill fix the teleporter for you*"
 	{
-		"chi"		"**ÈğÍş¶û£º°ÑIntel¸øÎÒ£¬ÎÒ»áÌæÄãĞŞÀí´«ËÍÆ÷**"
+		"chi"		"**ç‘å¨å°”ï¼šæŠŠIntelç»™æˆ‘ï¼Œæˆ‘ä¼šæ›¿ä½ ä¿®ç†ä¼ é€å™¨**"
 	}
 	"**The boat is here -- Get on**"
 	{
-		"chi"		"**´¬À´ÁË--ÉÏÈ¥**"
+		"chi"		"**èˆ¹æ¥äº†--ä¸Šå»**"
 	}
 	"**TIP -- Boss Fight incoming**"
 	{
-		"chi"		"**¾¯¸æ£ºBOSSÕ½¼´½«¿ªÊ¼**"
+		"chi"		"**è­¦å‘Šï¼šBOSSæˆ˜å³å°†å¼€å§‹**"
 	}
 	"Johnny *King my ass - Come out here and fight me!*"
 	{
-		"chi"		"**Ç¿Äá£º±¿µ°ÇàÍÜ¹úÍõ£¬³öÀ´ºÍÎÒ´òÒ»¼Ü°¡£¡**"
+		"chi"		"**å¼ºå°¼ï¼šç¬¨è›‹é’è›™å›½ç‹ï¼Œå‡ºæ¥å’Œæˆ‘æ‰“ä¸€æ¶å•Šï¼**"
 	}
 	"King of Frogs *With great pleasure! Youll regret coming up here to fight me*"
 	{
-		"chi"		"**ÇàÍÜ¹úÍõ£º²»´í²»´í£¡Äã»áºó»ÚÀ´µ½ÕâÀïÓëÎÒÕ½¶·µÄ**"
+		"chi"		"**é’è›™å›½ç‹ï¼šä¸é”™ä¸é”™ï¼ä½ ä¼šåæ‚”æ¥åˆ°è¿™é‡Œä¸æˆ‘æˆ˜æ–—çš„**"
 	}
 	"Johnny *Rayvel. The King of Frogs is dead*"
 	{
-		"chi"		"**Ç¿Äá£ºÈğÍş¶û£¬ÇàÍÜ¹úÍõËÀÁË**"
+		"chi"		"**å¼ºå°¼ï¼šç‘å¨å°”ï¼Œé’è›™å›½ç‹æ­»äº†**"
 	}
 	"Rayvel *Excellent. Get out of that bathtub and send me the intel!*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÀë¿ªÔ¡¸×£¬È»ºó°ÑIntel¸øÎÒ£¡**"
+		"chi"		"**ç‘å¨å°”ï¼šç¦»å¼€æµ´ç¼¸ï¼Œç„¶åæŠŠIntelç»™æˆ‘ï¼**"
 	}
 	"Johnny *Roger that!*"
 	{
-		"chi"		"**Ç¿Äá£ºÊÕµ½£¡**"
+		"chi"		"**å¼ºå°¼ï¼šæ”¶åˆ°ï¼**"
 	}
 	"**Get on the boat and move towards the sink**"
 	{
-		"chi"		"**ÉÏ´¬£¬×ßµ½Ë®³ØÄÇ±ß**"
+		"chi"		"**ä¸Šèˆ¹ï¼Œèµ°åˆ°æ°´æ± é‚£è¾¹**"
 	}
 	"**Defend here for 25 seconds**"
 	{
-		"chi"		"**ÊØ×¡ÕâÀï25Ãë**"
+		"chi"		"**å®ˆä½è¿™é‡Œ25ç§’**"
 	}
 	"Rayvel *Johnny! I got the teleporter working!*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÇ¿Äá,ÎÒÕıÔÚĞŞÀí´«ËÍÆ÷**"
+		"chi"		"**ç‘å¨å°”ï¼šå¼ºå°¼,æˆ‘æ­£åœ¨ä¿®ç†ä¼ é€å™¨**"
 	}
 	"Rayvel *The teleporter to the Kingdom of Steroids is functional!*"
 	{
-		"chi"		"**ÈğÍş¶û£º´«ËÍÖÁÀÖ¸ßÍõ¹úµÄ´«ËÍÆ÷±»ĞŞºÃÁË**"
+		"chi"		"**ç‘å¨å°”ï¼šä¼ é€è‡³ä¹é«˜ç‹å›½çš„ä¼ é€å™¨è¢«ä¿®å¥½äº†**"
 	}
 	"Johnny *Nice. Hitler wasnt in here... But that bastard is not escaping. Not anymore...*"
 	{
-		"chi"		"**Ç¿Äá£ººÃ£¬µ«ÊÇÏ£ÌØÀÕ²»ÔÚÕâÀï£¬²»¹ıËûÅÜ²»ÁËÁË**"
+		"chi"		"**å¼ºå°¼ï¼šå¥½ï¼Œä½†æ˜¯å¸Œç‰¹å‹’ä¸åœ¨è¿™é‡Œï¼Œä¸è¿‡ä»–è·‘ä¸äº†äº†**"
 	}
 	"**A ladder has appeared - Fall back!**"
 	{
-		"chi"		"**Ìİ×Ó¿ÉÒÔ×ßÁË-³·ÍË£¡**"
+		"chi"		"**æ¢¯å­å¯ä»¥èµ°äº†-æ’¤é€€ï¼**"
 	}
 	"**The water in the sink will be drained out in 15 seconds**"
 	{
-		"chi"		"**Ë®³ØÀïµÄË®½«ÔÚ15ÃëºóÍËÈ¥**"
+		"chi"		"**æ°´æ± é‡Œçš„æ°´å°†åœ¨15ç§’åé€€å»**"
 	}
 	"**Water has been drained -- Jump down**"
 	{
-		"chi"		"**¿ÉÒÔÌøÏÂÈ¥ÁË**"
+		"chi"		"**å¯ä»¥è·³ä¸‹å»äº†**"
 	}
 	"**The doors will open in 10 seconds**"
 	{
-		"chi"		"**´óÃÅ½«ÔÚ10Ãëºó´ò¿ª**"
+		"chi"		"**å¤§é—¨å°†åœ¨10ç§’åæ‰“å¼€**"
 	}
 	"**Move back**"
 	{
-		"chi"		"**³·ÍË**"
+		"chi"		"**æ’¤é€€**"
 	}
 	"**This is the last paper wall -- it opens in 25 seconds**"
 	{
-		"chi"		"**ÕâÊÇ×îºóµÄÖ½ÃÅÁË--25Ãëºó¿ªÆô**"
+		"chi"		"**è¿™æ˜¯æœ€åçš„çº¸é—¨äº†--25ç§’åå¼€å¯**"
 	}
 	"**Fall back now!!**"
 	{
-		"chi"		"**ºóÍË£¡£¡**"
+		"chi"		"**åé€€ï¼ï¼**"
 	}
 	"**Dont let zombies get past the paper wall -- Defend!**"
 	{
-		"chi"		"**²»ÒªÈÃ½©Ê¬Ô½¹ıÖ½ÃÅ--ÊØ×¡£¡**"
+		"chi"		"**ä¸è¦è®©åƒµå°¸è¶Šè¿‡çº¸é—¨--å®ˆä½ï¼**"
 	}
 	"**Keep them off for 5 more seconds!**"
 	{
-		"chi"		"**ÔÙ·ÀÊØ5Ãë£¡**"
+		"chi"		"**å†é˜²å®ˆ5ç§’ï¼**"
 	}
 	"**Stage 1 Complete!**Moving onto Stage 2**"
 	{
-		"chi"		"**¹Ø¿¨1Íê³É£¡**ÒÆ¶¯ÖÁ¹Ø¿¨2**"
+		"chi"		"**å…³å¡1å®Œæˆï¼**ç§»åŠ¨è‡³å…³å¡2**"
 		"DoorCountdown"		"-1"
 	}
 	"**Zombies detected -- You failed...**"
 	{
-		"chi"		"**½©Ê¬»ì½øÀ´ÁË--¹Ø¿¨Ê§°Ü...**"
+		"chi"		"**åƒµå°¸æ··è¿›æ¥äº†--å…³å¡å¤±è´¥...**"
 	}
 	"**[Stage 2 - The Rebellion against the Frog (Lego) Kingdom MK. II]**"
 	{
-		"chi"		"**[¹Ø¿¨2 - ·´¿¹ÇàÍÜ(ÀÖ¸ß)¹úÍõMK. II]**"
+		"chi"		"**[å…³å¡2 - åæŠ—é’è›™(ä¹é«˜)å›½ç‹MK. II]**"
 		"DoorCountdown"		"-1"
 	}
 	"**The teleport pad will open in 20 seconds**"
 	{
-		"chi"		"**´«ËÍÆ÷½«ÔÚ20Ãëºó¿ªÆô**"
+		"chi"		"**ä¼ é€å™¨å°†åœ¨20ç§’åå¼€å¯**"
 	}
 	"**The paper wall will disappear in 10 seconds**"
 	{
-		"chi"		"**Ö½ÃÅ½«ÔÚ10ÃëºóÏûÊ§**"
+		"chi"		"**çº¸é—¨å°†åœ¨10ç§’åæ¶ˆå¤±**"
 	}
 	"**Fall back!**Rayvel is waiting for you**"
 	{
-		"chi"		"**³·ÍË£¡ÈğÍş¶ûÔÚµÈ×ÅÄã**"
+		"chi"		"**æ’¤é€€ï¼ç‘å¨å°”åœ¨ç­‰ç€ä½ **"
 	}
 	"**The paper wall will disappear in 25 seconds**"
 	{
-		"chi"		"**Ö½ÃÅ½«ÔÚ25ÃëºóÏûÊ§**"
+		"chi"		"**çº¸é—¨å°†åœ¨25ç§’åæ¶ˆå¤±**"
 	}
 	"Johnny  *So... do you know where is Hitler hiding?*"
 	{
-		"chi"		"**ËùÒÔ...ÄãÖªµÀÏ£ÌØÀÕÔÚÄÄÀï²Ø×Å£¿**"
+		"chi"		"**æ‰€ä»¥...ä½ çŸ¥é“å¸Œç‰¹å‹’åœ¨å“ªé‡Œè—ç€ï¼Ÿ**"
 	}
 	"Rayvel  *Yeah but we have one issue... to get to him you must first face the Lego King*"
 	{
-		"chi"		"**ÊÇµÄ£¬²»¹ı³öÏÖÁËÒ»¸öÎÊÌâ...ÔÚ¼ûµ½ËûÖ®Ç°Äã±ØĞëºÍÀÖ¸ß¹úÍõ¼û¸öÃæ**"
+		"chi"		"**æ˜¯çš„ï¼Œä¸è¿‡å‡ºç°äº†ä¸€ä¸ªé—®é¢˜...åœ¨è§åˆ°ä»–ä¹‹å‰ä½ å¿…é¡»å’Œä¹é«˜å›½ç‹è§ä¸ªé¢**"
 	}
 	"Johnny  *Are you kidding me?*"
 	{
-		"chi"		"**Ç¿Äá£ºÄãÔÚ¿ªÍæĞ¦Âğ£¿**"
+		"chi"		"**å¼ºå°¼ï¼šä½ åœ¨å¼€ç©ç¬‘å—ï¼Ÿ**"
 	}
 	"Rayvel  *Does it look like Im joking? Find the Lego King and kill him. Then find a way out of there*"
 	{
-		"chi"		"**ÎÒ¿´ÆğÀ´ÏñÊÇÔÚ¿ªÍæĞ¦Âğ£¿ÕÒµ½ÀÖ¸ß¹úÍõ£¬È»ºóÏûÃğËü.È»ºóÕÒµ½ÄÇÀïµÄ³ö¿Ú**"
+		"chi"		"**æˆ‘çœ‹èµ·æ¥åƒæ˜¯åœ¨å¼€ç©ç¬‘å—ï¼Ÿæ‰¾åˆ°ä¹é«˜å›½ç‹ï¼Œç„¶åæ¶ˆç­å®ƒ.ç„¶åæ‰¾åˆ°é‚£é‡Œçš„å‡ºå£**"
 	}
 	"Johnny  *Leave it to me!*"
 	{
-		"chi"		"**°ÑÕâ¼şÊÂÇé½»¸øÎÒ°É£¡**"
+		"chi"		"**æŠŠè¿™ä»¶äº‹æƒ…äº¤ç»™æˆ‘å§ï¼**"
 	}
 	"**Move back towards the bed**"
 	{
-		"chi"		"**³·ÍËµ½Ğ¡·¿Àï**"
+		"chi"		"**æ’¤é€€åˆ°å°æˆ¿é‡Œ**"
 	}
 	"**A magical ladder will appear in 20 seconds**Defend until it appears!**"
 	{
-		"chi"		"**Ò»¸öÄ§·¨µÄÌİ×Ó½«»áÔÚ20ÃëÖ®ºó³öÏÖ**ÊØ×¡Ö±µ½Ëü³öÏÖ£¡**"
+		"chi"		"**ä¸€ä¸ªé­”æ³•çš„æ¢¯å­å°†ä¼šåœ¨20ç§’ä¹‹åå‡ºç°**å®ˆä½ç›´åˆ°å®ƒå‡ºç°ï¼**"
 	}
 	"**The ladder has appeared! Get back!**That doesnt look like a ladder though...**"
 	{
-		"chi"		"**Ìİ×Ó³öÏÖÁË£¡³·ÍË£¡**²»¹ıÕâ¿´ÆğÀ´²¢²»ÏñÒ»¸öÌİ×Ó...**"
+		"chi"		"**æ¢¯å­å‡ºç°äº†ï¼æ’¤é€€ï¼**ä¸è¿‡è¿™çœ‹èµ·æ¥å¹¶ä¸åƒä¸€ä¸ªæ¢¯å­...**"
 	}
 	"**Keep the zombies off this pillow for 30 seconds!**"
 	{
-		"chi"		"**ÔÚÕâÀïÊØ×¡½©Ê¬30Ãë**"
+		"chi"		"**åœ¨è¿™é‡Œå®ˆä½åƒµå°¸30ç§’**"
 	}
 	"**AFK teleport in 5 seconds.**"
 	{
-		"chi"		"**¹Ò»úÍæ¼Ò½«ÔÚ5Ãëºó´«ËÍ**"
+		"chi"		"**æŒ‚æœºç©å®¶å°†åœ¨5ç§’åä¼ é€**"
 		"DoorCountdown"		"-1"
 	}
 	"**TIP -- Mr. Hanky doesnt like humans nor zombies**Stay away from him!**"
 	{
-		"chi"		"**ÌáÊ¾£ºMr. Hanky²»Ï²»¶ÈËÀàÒ²²»Ï²»¶½©Ê¬**¾¡Á¿Ô¶ÀëËû£¡**"
+		"chi"		"**æç¤ºï¼šMr. Hankyä¸å–œæ¬¢äººç±»ä¹Ÿä¸å–œæ¬¢åƒµå°¸**å°½é‡è¿œç¦»ä»–ï¼**"
 	}
 	"**The gate to the arena will open in 20 seconds**"
 	{
-		"chi"		"**Í¨Íùboss·¿µÄÃÅ½«ÔÚ20Ãëºó´ò¿ª**"
+		"chi"		"**é€šå¾€bossæˆ¿çš„é—¨å°†åœ¨20ç§’åæ‰“å¼€**"
 	}
 	"Johnny *There he is... he doesnt look as tough as Rayvel made me think*"
 	{
-		"chi"		"**Ç¿Äá£ºËûÔÚÕâ°¡...¿´ÆğÀ´Ò²²»ÏëÈğÍş¶ûºÍÎÒËµµÄÄÇÑù°¡**"
+		"chi"		"**å¼ºå°¼ï¼šä»–åœ¨è¿™å•Š...çœ‹èµ·æ¥ä¹Ÿä¸æƒ³ç‘å¨å°”å’Œæˆ‘è¯´çš„é‚£æ ·å•Š**"
 	}
 	"Johnny *Bring it on then!*"
 	{
-		"chi"		"**Ç¿Äá£ºµ½Ê±ºòÔÙ°ÑIntel´ø×ß**"
+		"chi"		"**å¼ºå°¼ï¼šåˆ°æ—¶å€™å†æŠŠIntelå¸¦èµ°**"
 	}
 	"**The gate to the arena is opening... good luck**"
 	{
-		"chi"		"**´óÃÅ´ò¿ªÁË...×£ÄãºÃÔË**"
+		"chi"		"**å¤§é—¨æ‰“å¼€äº†...ç¥ä½ å¥½è¿**"
 	}
 	"Lego King IV  *Hmm.. One more person? The last one I faced was a way tricky.*"
 	{
-		"chi"		"**ÀÖ¸ß¹úÍõIV£ººğ…Ş…Ş...»¹ÓĞË­£¿ÉÏÒ»´ÎËÀÔÚÎÒÃæÇ°µÄ¿ÉÊÇÒ»¸ö¼¬ÊÖµÄ¼Ò»ï.**"
+		"chi"		"**ä¹é«˜å›½ç‹IVï¼šå¼å‘£å‘£...è¿˜æœ‰è°ï¼Ÿä¸Šä¸€æ¬¡æ­»åœ¨æˆ‘é¢å‰çš„å¯æ˜¯ä¸€ä¸ªæ£˜æ‰‹çš„å®¶ä¼™.**"
 	}
 	"Lego King IV  *But you will die for sure here.*"
 	{
-		"chi"		"**ÀÖ¸ß¹úÍõIV£ºµ±È»ÄãÒ²»áËÀÔÚÕâ.**"
+		"chi"		"**ä¹é«˜å›½ç‹IVï¼šå½“ç„¶ä½ ä¹Ÿä¼šæ­»åœ¨è¿™.**"
 	}
 	"Johnny  *Always wanted to try the fried frogs with a plastic taste..*"
 	{
-		"chi"		"**Ç¿Äá£ºÎÒÒ»Ö±Ïë³¢³¢ÓÃËÜÁÏ¿ÇÈ¥¿¾ÇàÍÜµÄÎ¶µÀ"
+		"chi"		"**å¼ºå°¼ï¼šæˆ‘ä¸€ç›´æƒ³å°å°ç”¨å¡‘æ–™å£³å»çƒ¤é’è›™çš„å‘³é“"
 	}
 	"**Well. I think we should slay that angry frog**"
 	{
-		"chi"		"**ºÃ°É.ÎÒ¾õµÃÎÒÃÇÓ¦¸Ã´¦¾öµôÕâÖ»ÉúÆøµÄÇàÍÜ**"
+		"chi"		"**å¥½å§.æˆ‘è§‰å¾—æˆ‘ä»¬åº”è¯¥å¤„å†³æ‰è¿™åªç”Ÿæ°”çš„é’è›™**"
 	}
 	"sync_version"
 	{
@@ -412,56 +412,56 @@
 	}
 	"Johnny *You frogs are quite weak... huh? Whats this?*"
 	{
-		"chi"		"**Ç¿Äá£ºÄãÕâ¸öÇàÍÜÌ«ÈõÁË... ßí£¬ÕâÊÇÊ²Ã´**£¿"
+		"chi"		"**å¼ºå°¼ï¼šä½ è¿™ä¸ªé’è›™å¤ªå¼±äº†... å””ï¼Œè¿™æ˜¯ä»€ä¹ˆ**ï¼Ÿ"
 	}
 	"Johnny *Rayvel can you hear me? I found the thing you needed*"
 	{
-		"chi"		"**Ç¿Äá£ºÈğÍş¶û£¬ÄãÄÜÌıµ½ÎÒËµ»°Âğ£¿ÎÒÕÒµ½ÁËÄãÒªµÄ¶«Î÷**"
+		"chi"		"**å¼ºå°¼ï¼šç‘å¨å°”ï¼Œä½ èƒ½å¬åˆ°æˆ‘è¯´è¯å—ï¼Ÿæˆ‘æ‰¾åˆ°äº†ä½ è¦çš„ä¸œè¥¿**"
 	}
 	"Rayvel *The intel we needed! Take it and bring it with you!*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÕâ¾ÍÊÇÎÒÃÇÏëÒªµÄIntel£¡ÄÃÉÏËü£¡**"
+		"chi"		"**ç‘å¨å°”ï¼šè¿™å°±æ˜¯æˆ‘ä»¬æƒ³è¦çš„Intelï¼æ‹¿ä¸Šå®ƒï¼**"
 	}
 	"Rayvel *There should be a chopper not that far away from you*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÕâ¸½½üÀëÄã²»Ô¶Ó¦¸ÃÓĞÒ»¼Ü·É»ú**"
+		"chi"		"**ç‘å¨å°”ï¼šè¿™é™„è¿‘ç¦»ä½ ä¸è¿œåº”è¯¥æœ‰ä¸€æ¶é£æœº**"
 	}
 	"Rayvel *Escape on it and bring the intel to me as quick as you can!*"
 	{
-		"chi"		"**ÈğÍş¶û£º¾¡¿ìÌÓµ½ÄÇÉÏÃæÈ¥È»ºó´ø×ÅIntelÕÒÎÒ£¡**"
+		"chi"		"**ç‘å¨å°”ï¼šå°½å¿«é€ƒåˆ°é‚£ä¸Šé¢å»ç„¶åå¸¦ç€Intelæ‰¾æˆ‘ï¼**"
 	}
 	"**Defend here until something happens**"
 	{
-		"chi"		"**ÊØ×¡½©Ê¬Ö±µ½Ê²Ã´¶«Î÷³öÏÖ**"
+		"chi"		"**å®ˆä½åƒµå°¸ç›´åˆ°ä»€ä¹ˆä¸œè¥¿å‡ºç°**"
 		"DoorCountdown"		"25"
 	}
 	"**A path has appeared!**Fall back**"
 	{
-		"chi"		"**Ò»ÌõÂ·³öÏÖÁË£¡³·ÍË**"
+		"chi"		"**ä¸€æ¡è·¯å‡ºç°äº†ï¼æ’¤é€€**"
 	}
 	"**We are almost at the helipad! Defend for 30 seconds**"
 	{
-		"chi"		"**ÎÒÃÇÂíÉÏ¾ÍÒªµ½·É»úÄÇ±ßÁË£¡ÔÙÊØ×¡30Ãë**"
+		"chi"		"**æˆ‘ä»¬é©¬ä¸Šå°±è¦åˆ°é£æœºé‚£è¾¹äº†ï¼å†å®ˆä½30ç§’**"
 	}
 	"**Fall back! Get out of there!**"
 	{
-		"chi"		"**³·ÍË£¡ÀëÕâÔ¶µã£¡**"
+		"chi"		"**æ’¤é€€ï¼ç¦»è¿™è¿œç‚¹ï¼**"
 	}
 	"**The toy chopper will leave in 40 seconds**"
 	{
-		"chi"		"**Íæ¾ßÖ±Éı»ú½«ÔÚ40ÃëºóÀë¿ª**"
+		"chi"		"**ç©å…·ç›´å‡æœºå°†åœ¨40ç§’åç¦»å¼€**"
 	}
 	"**The toy chopper will leave in 25 seconds**"
 	{
-		"chi"		"**Íæ¾ßÖ±Éı»ú½«ÔÚ25ÃëºóÀë¿ª**"
+		"chi"		"**ç©å…·ç›´å‡æœºå°†åœ¨25ç§’åç¦»å¼€**"
 	}
 	"**The toy chopper will leave in 10 seconds!**"
 	{
-		"chi"		"**Íæ¾ßÖ±Éı»ú½«ÔÚ10ÃëºóÀë¿ª**"
+		"chi"		"**ç©å…·ç›´å‡æœºå°†åœ¨10ç§’åç¦»å¼€**"
 	}
 	"**The toy chopper will leave in...**"
 	{
-		"chi"		"**Íæ¾ßÖ±Éı»ú½«ÔÚ...**"
+		"chi"		"**ç©å…·ç›´å‡æœºå°†åœ¨...**"
 	}
 	"**5**"
 	{
@@ -485,327 +485,327 @@
 	}
 	"**Stage 2 Complete!**Moving onto Stage 3**"
 	{
-		"chi"		"**¹Ø¿¨2Íê³É****ÒÆ¶¯ÖÁ¹Ø¿¨3"
+		"chi"		"**å…³å¡2å®Œæˆ****ç§»åŠ¨è‡³å…³å¡3"
 		"DoorCountdown"		"-1"
 	}
 	"**[Stage 3 - The Betrayal of Rayvel]**"
 	{
-		"chi"		"**[¹Ø¿¨3 - ÈğÍş¶ûµÄ±³ÅÑ]**"
+		"chi"		"**[å…³å¡3 - ç‘å¨å°”çš„èƒŒå›]**"
 		"DoorCountdown"		"-1"
 	}
 	"**DEFEND THIS PLACE FOR 15 SECONDS**"
 	{
-		"chi"		"**ÊØ×¡ÕâÀï15Ãë**"
+		"chi"		"**å®ˆä½è¿™é‡Œ15ç§’**"
 	}
 	"**Defend here until something happens...**"
 	{
-		"chi"		"**ÊØ×¡½©Ê¬Ö±µ½Ê²Ã´¶«Î÷³öÏÖ**"
+		"chi"		"**å®ˆä½åƒµå°¸ç›´åˆ°ä»€ä¹ˆä¸œè¥¿å‡ºç°**"
 	}
 	"**A bridge has appeared!**Move across!**"
 	{
-		"chi"		"**Ò»¸öÇÅ³öÏÖÁË£¡¿ì¹ıÈ¥£¡**"
+		"chi"		"**ä¸€ä¸ªæ¡¥å‡ºç°äº†ï¼å¿«è¿‡å»ï¼**"
 	}
 	"**The door to the Lego District will open in 30 seconds**"
 	{
-		"chi"		"**Í¨ÍùÀÖ¸ßµØÇøµÄÃÅ½«ÔÚ30Ãëºó¿ªÆô**"
+		"chi"		"**é€šå¾€ä¹é«˜åœ°åŒºçš„é—¨å°†åœ¨30ç§’åå¼€å¯**"
 	}
 	"**Make sure to defend both bridges!**"
 	{
-		"chi"		"**È·±£Á½ÌõÇÅ¶¼±»ÊØ×¡£¡**"
+		"chi"		"**ç¡®ä¿ä¸¤æ¡æ¡¥éƒ½è¢«å®ˆä½ï¼**"
 	}
 	"**A hole in the door has appeared**Get inside!**"
 	{
-		"chi"		"**Õâ¸öÃÅµÄ¶´³öÏÖÁË**¿ì½øÈ¥£¡**"
+		"chi"		"**è¿™ä¸ªé—¨çš„æ´å‡ºç°äº†**å¿«è¿›å»ï¼**"
 	}
 	"**The paper wall to the desktop will disappear in 25 seconds**"
 	{
-		"chi"		"**Í¨Íù×ÀÃæµÄÃÅ½«ÔÚ25Ãëºó´ò¿ª**"
+		"chi"		"**é€šå¾€æ¡Œé¢çš„é—¨å°†åœ¨25ç§’åæ‰“å¼€**"
 	}
 	"Rayvel *Good news Johnny. I found out Hitler is right on top of this desktop!*"
 	{
-		"chi"		"**ÈğÍş¶û£ººÃÏûÏ¢£¬Ç¿Äá£¬ÎÒ·¢ÏÖÁËÏ£ÌØÀÕ£¬ËûÔÚ×ÀÃæµÄ×îÓÒ±ß£¡**"
+		"chi"		"**ç‘å¨å°”ï¼šå¥½æ¶ˆæ¯ï¼Œå¼ºå°¼ï¼Œæˆ‘å‘ç°äº†å¸Œç‰¹å‹’ï¼Œä»–åœ¨æ¡Œé¢çš„æœ€å³è¾¹ï¼**"
 	}
 	"Johnny *Thanks but... let me ask you something first. Why are you helping me?*"
 	{
-		"chi"		"**Ç¿Äá£ºĞ»Ğ»£¬µ«ÊÇ...ÏÈÈÃÎÒÎÊÄãµãÊÂ.ÎªÊ²Ã´Òª°ïÖúÎÒ£¿**"
+		"chi"		"**å¼ºå°¼ï¼šè°¢è°¢ï¼Œä½†æ˜¯...å…ˆè®©æˆ‘é—®ä½ ç‚¹äº‹.ä¸ºä»€ä¹ˆè¦å¸®åŠ©æˆ‘ï¼Ÿ**"
 	}
 	"Rayvel *Its a long story. But Ive done so many things in my life that Im not happy about*"
 	{
-		"chi"		"**ÈğÍş¶û£ºËµÀ´»°³¤.²»¹ıÔÚÎÒµÄÒ»ÉúÖĞÎÒ×ö¹ıºÜ¶àÈÃ×Ô¼º²»¿ªĞÄµÄÊÂÇé**"
+		"chi"		"**ç‘å¨å°”ï¼šè¯´æ¥è¯é•¿.ä¸è¿‡åœ¨æˆ‘çš„ä¸€ç”Ÿä¸­æˆ‘åšè¿‡å¾ˆå¤šè®©è‡ªå·±ä¸å¼€å¿ƒçš„äº‹æƒ…**"
 	}
 	"Rayvel *I wanna help someone for once instead of causing more problems... so...*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÎÒÏë°ïÖú±ğÈËÒ»´Î£¬¶ø²»ÊÇ¸øËûÃÇ´øÀ´Âé·³...ËùÒÔ...**"
+		"chi"		"**ç‘å¨å°”ï¼šæˆ‘æƒ³å¸®åŠ©åˆ«äººä¸€æ¬¡ï¼Œè€Œä¸æ˜¯ç»™ä»–ä»¬å¸¦æ¥éº»çƒ¦...æ‰€ä»¥...**"
 	}
 	"Johnny *Youve been of great help to me. Were it not for you Id still be dealing with frogs*"
 	{
-		"chi"		"**Ç¿Äá£ºÄãµÄÈ·°ïÁËÎÒºÜ¶à.Èç¹ûÃ»Óöµ½ÄãÎÒ¿ÉÄÜ»¹ÔÚºÍÄÇÖ»ÇàÍÜ´ò½»µÀ**"
+		"chi"		"**å¼ºå°¼ï¼šä½ çš„ç¡®å¸®äº†æˆ‘å¾ˆå¤š.å¦‚æœæ²¡é‡åˆ°ä½ æˆ‘å¯èƒ½è¿˜åœ¨å’Œé‚£åªé’è›™æ‰“äº¤é“**"
 	}
 	"Rayvel *Im glad I could help you. Lets finish this once and for all and go after Hitler!*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÄÜ°ïÖúÄãÎÒÒ²ºÜ¿ªĞÄ.ÈÃÎÒÃÇ³¹µ×ÁË½áÕâ¸öÊÂÇé£¬È»ºóÈ¥ÕÒÏ£ÌØÀÕ£¡*"
+		"chi"		"**ç‘å¨å°”ï¼šèƒ½å¸®åŠ©ä½ æˆ‘ä¹Ÿå¾ˆå¼€å¿ƒ.è®©æˆ‘ä»¬å½»åº•äº†ç»“è¿™ä¸ªäº‹æƒ…ï¼Œç„¶åå»æ‰¾å¸Œç‰¹å‹’ï¼*"
 	}
 	"**Move back!**Climb up the ladder!**"
 	{
-		"chi"		"**³·ÍË£¡**ÅÀÉÏÕâ¸öÌİ×Ó£¡**"
+		"chi"		"**æ’¤é€€ï¼**çˆ¬ä¸Šè¿™ä¸ªæ¢¯å­ï¼**"
 	}
 	"Rayvel *Ill go right behind you Johnny...*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÎÒ»áÒ»Ö±ÔÚÄãÉí±ß£¬Ç¿Äá...**"
+		"chi"		"**ç‘å¨å°”ï¼šæˆ‘ä¼šä¸€ç›´åœ¨ä½ èº«è¾¹ï¼Œå¼ºå°¼...**"
 	}
 	"**The final paper wall will disappear in 25 seconds**"
 	{
-		"chi"		"**×îºóµÄÖ½ÃÅ½«ÔÚ25Ãëºó´ò¿ª**"
+		"chi"		"**æœ€åçš„çº¸é—¨å°†åœ¨25ç§’åæ‰“å¼€**"
 	}
 	"**The wall is gone -- Good luck!**"
 	{
-		"chi"		"**ÕâÉÈÃÅÏûÊ§ÁË--×£ÄãºÃÔË£¡**"
+		"chi"		"**è¿™æ‰‡é—¨æ¶ˆå¤±äº†--ç¥ä½ å¥½è¿ï¼**"
 	}
 	"Hitler *Well well well... if it isnt Johnny Nukem*"
 	{
-		"chi"		"**Ï£ÌØÀÕ£ºà¸ à¸ à¸... Õâ¸ö¾ÍÊÇÇ¿ÄáÅ¬¿ÆÄ·°É**"
+		"chi"		"**å¸Œç‰¹å‹’ï¼šå–” å–” å–”... è¿™ä¸ªå°±æ˜¯å¼ºå°¼åŠªç§‘å§†å§**"
 	}
 	"Johnny *Rayvel? What are you doing there with Hitler?*"
 	{
-		"chi"		"**Ç¿Äá£ºÈğÍş¶û£¿ÄãÔÚÕâÀïºÍÏ£ÌØÀÕÔÚ¸ÉÊ²Ã´£¿**"
+		"chi"		"**å¼ºå°¼ï¼šç‘å¨å°”ï¼Ÿä½ åœ¨è¿™é‡Œå’Œå¸Œç‰¹å‹’åœ¨å¹²ä»€ä¹ˆï¼Ÿ**"
 	}
 	"Rayvel *I didnt think itd be so easy to manipulate you in my own way*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÎÒ¾õµÃÔÚÎÒµÄ¼Æ»®ÖĞ²Ù¿ØÄã²¢²»¼òµ¥**"
+		"chi"		"**ç‘å¨å°”ï¼šæˆ‘è§‰å¾—åœ¨æˆ‘çš„è®¡åˆ’ä¸­æ“æ§ä½ å¹¶ä¸ç®€å•**"
 	}
 	"Johnny *What is happening? Why do you have our intel there?*"
 	{
-		"chi"		"**Ç¿Äá£º·¢ÉúÉ¶ÊÂ£¿ÎªÊ²Ã´IntelÔÚÄãµÄÊÖÉÏ£¿**"
+		"chi"		"**å¼ºå°¼ï¼šå‘ç”Ÿå•¥äº‹ï¼Ÿä¸ºä»€ä¹ˆIntelåœ¨ä½ çš„æ‰‹ä¸Šï¼Ÿ**"
 	}
 	"Rayvel *You are a stupid man Nukem. Thanks to you Hitler and I got the intel we needed*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÄãÕæÊÇ¸ö´óÉµ×Ó£¬Å¬¿ÆÄ·.ÒòÎªÄã£¬Ï£ÌØÀÕºÍÎÒ²ÅµÃµ½ÁËÎÒÃÇÏëÒªµÄIntel**"
+		"chi"		"**ç‘å¨å°”ï¼šä½ çœŸæ˜¯ä¸ªå¤§å‚»å­ï¼ŒåŠªç§‘å§†.å› ä¸ºä½ ï¼Œå¸Œç‰¹å‹’å’Œæˆ‘æ‰å¾—åˆ°äº†æˆ‘ä»¬æƒ³è¦çš„Intel**"
 	}
 	"Hitler *And with this in our hands. Rayvel and I will conquer your world!*"
 	{
-		"chi"		"**Ï£ÌØÀÕ£ºÓÚÊÇIntelµ½ÁËÎÒÃÇÊÖÖĞ.ÎÒºÍÈğÍş¶û½«ÒªÍ³ÖÎÄãÃÇµÄÊÀ½ç£¡**"
+		"chi"		"**å¸Œç‰¹å‹’ï¼šäºæ˜¯Intelåˆ°äº†æˆ‘ä»¬æ‰‹ä¸­.æˆ‘å’Œç‘å¨å°”å°†è¦ç»Ÿæ²»ä½ ä»¬çš„ä¸–ç•Œï¼**"
 	}
 	"Johnny *Over my dead body you fucking Nazis!*"
 	{
-		"chi"		"**Ç¿Äá£º²ÈÔÚÎÒµÄÊ¬ÌåÉÏÔÙËµÕâ¾ä»°°É£¬ÄãÕâ¸ö¸ÃËÀµÄÄÉ´â£¡**"
+		"chi"		"**å¼ºå°¼ï¼šè¸©åœ¨æˆ‘çš„å°¸ä½“ä¸Šå†è¯´è¿™å¥è¯å§ï¼Œä½ è¿™ä¸ªè¯¥æ­»çš„çº³ç²¹ï¼**"
 	}
 	"Rayvel *Oh! I am glad you are acting as tough as usual*"
 	{
-		"chi"		"**ÈğÍş¶û£ºàŞ£¡ÄãµÄ¾Ù¶¯ºÍÆ½³£Ò»ÑùÕæÊÇÈÃÎÒĞË·ÜÄØ**"
+		"chi"		"**ç‘å¨å°”ï¼šå™¢ï¼ä½ çš„ä¸¾åŠ¨å’Œå¹³å¸¸ä¸€æ ·çœŸæ˜¯è®©æˆ‘å…´å¥‹å‘¢**"
 	}
 	"Rayvel *Sadly... it seems like your delusional journey ends here...*"
 	{
-		"chi"		"**ÈğÍş¶û£º²»¹ıÕæ¿ÉÁ¯...¿´ÆğÀ´ÕâÀïÊÇÄãµÄÖÕ½áÁËÄØ...**"
+		"chi"		"**ç‘å¨å°”ï¼šä¸è¿‡çœŸå¯æ€œ...çœ‹èµ·æ¥è¿™é‡Œæ˜¯ä½ çš„ç»ˆç»“äº†å‘¢...**"
 	}
 	"Rayvel *I present to you. General Solid Paper. Commander of Hitlers army in this dimension.*"
 	{
-		"chi"		"**ÈğÍş¶û£ºÎÒ¸øÄã¸öÀñÎï°É£¬Ö½Æ¬Ê¿±ø.ÈÃÄãÖ¸»ÓÕâ¸ö´ÎÔªµÄÏ£ÌØÀÕ¾ü¶Ó.**"
+		"chi"		"**ç‘å¨å°”ï¼šæˆ‘ç»™ä½ ä¸ªç¤¼ç‰©å§ï¼Œçº¸ç‰‡å£«å…µ.è®©ä½ æŒ‡æŒ¥è¿™ä¸ªæ¬¡å…ƒçš„å¸Œç‰¹å‹’å†›é˜Ÿ.**"
 	}
 	"General Solid Paper *Johnny Nukem? His head will sure look good on my wall!*"
 	{
-		"chi"		"**Ö½Æ¬Ê¿±ø£ºÇ¿ÄáÅ¬¿ÆÄ·£¿ËûµÄËÀÒ»¶¨»áÈÃÎÒµÄÉíÉÏ¸üºÃ¿´µÄ£¡**"
+		"chi"		"**çº¸ç‰‡å£«å…µï¼šå¼ºå°¼åŠªç§‘å§†ï¼Ÿä»–çš„æ­»ä¸€å®šä¼šè®©æˆ‘çš„èº«ä¸Šæ›´å¥½çœ‹çš„ï¼**"
 	}
 	"Johnny *Pfft. Paper is only good for wiping yourself*"
 	{
-		"chi"		"**Ç¿Äá£ºàÛ.Ö½Ö»ÊÊºÏ²Á¶«Î÷**"
+		"chi"		"**å¼ºå°¼ï¼šå™—.çº¸åªé€‚åˆæ“¦ä¸œè¥¿**"
 	}
 	"Johnny *And Im going to wipe my ass with you when Im done!*"
 	{
-		"chi"		"**Ç¿Äá£ºÈ»ºóÎÒ»áÔÚÊ¤ÀûÖ®ºóÓÃÄãÀ´²ÁÎÒµÄÆ¨¹É£¡**"
+		"chi"		"**å¼ºå°¼ï¼šç„¶åæˆ‘ä¼šåœ¨èƒœåˆ©ä¹‹åç”¨ä½ æ¥æ“¦æˆ‘çš„å±è‚¡ï¼**"
 	}
 	"Johnny *Not so tough now eh? You paper asshat!*"
 	{
-		"chi"		"**Ç¿Äá£ºËµµÄ»¹²»¹»£¿ÄãÕâ¸öÖ½Æ¬»ìµ°£¡**"
+		"chi"		"**å¼ºå°¼ï¼šè¯´çš„è¿˜ä¸å¤Ÿï¼Ÿä½ è¿™ä¸ªçº¸ç‰‡æ··è›‹ï¼**"
 	}
 	"Johnny *Hmm... this isnt looking too good. I better get out of here!*"
 	{
-		"chi"		"**Ç¿Äá£ººğ…Ş…Ş...¿´ÆğÀ´¿É²»Ì«Ãî.ÎÒµÃÀë¿ªÕâÀï£¡**"
+		"chi"		"**å¼ºå°¼ï¼šå¼å‘£å‘£...çœ‹èµ·æ¥å¯ä¸å¤ªå¦™.æˆ‘å¾—ç¦»å¼€è¿™é‡Œï¼**"
 	}
 	"Professor *Johnny. Oh I am finally able to contact you. What is happening?*"
 	{
-		"chi"		"**½ÌÊÚ£ºÇ¿Äá.Å¶£¬ÎÒÖÕÓÚÁªÏµÉÏÁËÄã.·¢ÉúÉ¶ÊÂ£¿**"
+		"chi"		"**æ•™æˆï¼šå¼ºå°¼.å“¦ï¼Œæˆ‘ç»ˆäºè”ç³»ä¸Šäº†ä½ .å‘ç”Ÿå•¥äº‹ï¼Ÿ**"
 	}
 	"Johnny *Rayvel betrayed us. He was working with Hitler all along and I fell for his trap*"
 	{
-		"chi"		"**Ç¿Äá£ºÈğÍş¶û±³ÅÑÁËÎÒÃÇ.ËûÒ»Ö±ºÍÏ£ÌØÀÕÔÚÒ»Æğ£¬ÎÒÖĞÁËËûÃÇµÄÏİÚå**"
+		"chi"		"**å¼ºå°¼ï¼šç‘å¨å°”èƒŒå›äº†æˆ‘ä»¬.ä»–ä¸€ç›´å’Œå¸Œç‰¹å‹’åœ¨ä¸€èµ·ï¼Œæˆ‘ä¸­äº†ä»–ä»¬çš„é™·é˜±**"
 	}
 	"Professor *You dense motherfucker. Only someone like you would trust a piece of paper*"
 	{
-		"chi"		"**½ÌÊÚ£ºÄãÕæËûÄïµÄÉµ.Ö»ÓĞÄãÕâÑùµÄ´Àµ°²Å»áÏàĞÅÒ»¸öÖ½Æ¬ÈË**"
+		"chi"		"**æ•™æˆï¼šä½ çœŸä»–å¨˜çš„å‚».åªæœ‰ä½ è¿™æ ·çš„è ¢è›‹æ‰ä¼šç›¸ä¿¡ä¸€ä¸ªçº¸ç‰‡äºº**"
 	}
 	"Johnny *How about you tell me how to get out of here instead of bitching at me?*"
 	{
-		"chi"		"**Ç¿Äá£ºÄãÄÜ²»ÄÜ°Ñ½ÌÑµÎÒµÄ¾«Á¦·ÅÔÚÔõÃ´ÈÃÎÒ³öÈ¥µÄÎÊÌâÉÏ£¿**"
+		"chi"		"**å¼ºå°¼ï¼šä½ èƒ½ä¸èƒ½æŠŠæ•™è®­æˆ‘çš„ç²¾åŠ›æ”¾åœ¨æ€ä¹ˆè®©æˆ‘å‡ºå»çš„é—®é¢˜ä¸Šï¼Ÿ**"
 	}
 	"Professor *I should just let you die in there. But then who will save our world?*"
 	{
-		"chi"		"**½ÌÊÚ£ºÄãÏÖÔÚ¾ÍËÀÔÚÕâËãÁË.²»¹ıÄÇÖ®ºóÅÂÊÇÃ»ÓĞÈËÄÜÕü¾ÈÎÒÃÇµÄÊÀ½çÁË.**"
+		"chi"		"**æ•™æˆï¼šä½ ç°åœ¨å°±æ­»åœ¨è¿™ç®—äº†.ä¸è¿‡é‚£ä¹‹åæ€•æ˜¯æ²¡æœ‰äººèƒ½æ‹¯æ•‘æˆ‘ä»¬çš„ä¸–ç•Œäº†.**"
 	}
 	"Professor *sigh... Go towards the bed over there. Your only way of escaping is in there*"
 	{
-		"chi"		"**½ÌÊÚ£º°¡...×ßµ½ÄÇ¸öÃçÆÔÄÇÀï.ÌÓ³öÕâÀïµÄÂ·Ö»ÓĞÄÇÒ»Ìõ**"
+		"chi"		"**æ•™æˆï¼šå•Š...èµ°åˆ°é‚£ä¸ªè‹—åœƒé‚£é‡Œ.é€ƒå‡ºè¿™é‡Œçš„è·¯åªæœ‰é‚£ä¸€æ¡**"
 	}
 	"Johnny *Alright. Once I get out of here Ill tell you anything you want to know*"
 	{
-		"chi"		"**Ç¿Äá£ººÃ°É.µ½ÄÇµÄÊ±ºòÎÒ»á¸æËßÄãËùÓĞÄãÏëÖªµÀµÄÊÂÇé**"
+		"chi"		"**å¼ºå°¼ï¼šå¥½å§.åˆ°é‚£çš„æ—¶å€™æˆ‘ä¼šå‘Šè¯‰ä½ æ‰€æœ‰ä½ æƒ³çŸ¥é“çš„äº‹æƒ…**"
 	}
 	"Professor *You can be damn sure Ill ask you a lot of questions*"
 	{
-		"chi"		"**½ÌÊÚ£ºÄãÓ¦¸ÃÖªµÀÎÒ»áÎÊÄãºÜ¶àÎÊÌâ**"
+		"chi"		"**æ•™æˆï¼šä½ åº”è¯¥çŸ¥é“æˆ‘ä¼šé—®ä½ å¾ˆå¤šé—®é¢˜**"
 	}
 	"Professor *Like how thanks to you a piece of paper will destroy our world*"
 	{
-		"chi"		"**½ÌÊÚ£º±ÈÈçËµÎªÊ²Ã´Ò»¸öÖ½Æ¬ÈËÄÜ¹»´İ»ÙÊÀ½ç**"
+		"chi"		"**æ•™æˆï¼šæ¯”å¦‚è¯´ä¸ºä»€ä¹ˆä¸€ä¸ªçº¸ç‰‡äººèƒ½å¤Ÿæ‘§æ¯ä¸–ç•Œ**"
 	}
 	"**Theres nowhere to go... Keep the zombies off until something happens!**"
 	{
-		"chi"		"**ÕâÀïÃ»ÓĞÂ·ÁË...ÊØ×¡½©Ê¬Ö±µ½Ê²Ã´ÊÂÇé·¢Éú£¡**"
+		"chi"		"**è¿™é‡Œæ²¡æœ‰è·¯äº†...å®ˆä½åƒµå°¸ç›´åˆ°ä»€ä¹ˆäº‹æƒ…å‘ç”Ÿï¼**"
 	}
 	"**A bridge has appeared!**Move back!**"
 	{
-		"chi"		"**Ò»¸öÇÅ³öÏÖÁË£¡**ºóÍË£¡**"
+		"chi"		"**ä¸€ä¸ªæ¡¥å‡ºç°äº†ï¼**åé€€ï¼**"
 	}
 	"**We cant jump down there... Hold here until something happens**"
 	{
-		"chi"		"**ÎÒÃÇ²»ÄÜÖ±½Ó´ÓÕâÀïÌøÏÂÈ¥...ÊØ×¡Ö±µ½·¢ÉúÊ²Ã´**"
+		"chi"		"**æˆ‘ä»¬ä¸èƒ½ç›´æ¥ä»è¿™é‡Œè·³ä¸‹å»...å®ˆä½ç›´åˆ°å‘ç”Ÿä»€ä¹ˆ**"
 	}
 	"**Move back!**Run towards the bed!**"
 	{
-		"chi"		"**³·ÍË£¡¿ìÈ¥ÄÇ¸ö»ùµØ£¡**"
+		"chi"		"**æ’¤é€€ï¼å¿«å»é‚£ä¸ªåŸºåœ°ï¼**"
 	}
 	"**The teleporter will open in 30 seconds**"
 	{
-		"chi"		"**´«ËÍÆ÷½«ÔÚ30ÃëºóÉúĞ§**"
+		"chi"		"**ä¼ é€å™¨å°†åœ¨30ç§’åç”Ÿæ•ˆ**"
 	}
 	"**Defend it from zombies**"
 	{
-		"chi"		"**µÖ¿¹×¡ËùÓĞ½©Ê¬**"
+		"chi"		"**æŠµæŠ—ä½æ‰€æœ‰åƒµå°¸**"
 	}
 	"**Cover for 20 more seconds**"
 	{
-		"chi"		"**ÔÙ¶àÊØ20Ãë**"
+		"chi"		"**å†å¤šå®ˆ20ç§’**"
 	}
 	"**Defend for 10 more seconds**"
 	{
-		"chi"		"**»¹ÓĞ10Ãë**"
+		"chi"		"**è¿˜æœ‰10ç§’**"
 	}
 	"**Teleporter #1 will open in 10 seconds**"
 	{
-		"chi"		"**Ò»ºÅ´«ËÍÃÅ½«ÔÚ10Ãëºó¿ªÆô**"
+		"chi"		"**ä¸€å·ä¼ é€é—¨å°†åœ¨10ç§’åå¼€å¯**"
 	}
 	"**Teleporter #2 will open in 10 seconds**"
 	{
-		"chi"		"**¶şºÅ´«ËÍÃÅ½«ÔÚ10Ãëºó¿ªÆô**"
+		"chi"		"**äºŒå·ä¼ é€é—¨å°†åœ¨10ç§’åå¼€å¯**"
 	}
 	"**The toy chopper will leave in 20 seconds**"
 	{
-		"chi"		"**Íæ¾ßÖ±Éı»ú½«ÔÚ20ÃëºóÀë¿ª**"
+		"chi"		"**ç©å…·ç›´å‡æœºå°†åœ¨20ç§’åç¦»å¼€**"
 	}
 	"**And now a brief message from the H&H Company!**"
 	{
-		"chi"		"**ÒÔÏÂÊÇÀ´×ÔH&H¹«Ë¾µÄÏûÏ¢**"
+		"chi"		"**ä»¥ä¸‹æ˜¯æ¥è‡ªH&Hå…¬å¸çš„æ¶ˆæ¯**"
 	}
 	"**The Headshooter & HaRyDes company wishes you a happy flight**"
 	{
-		"chi"		"**Headshooter & HaRyDes¹«Ë¾×£Äú·ÉĞĞÓä¿ì**"
+		"chi"		"**Headshooter & HaRyDeså…¬å¸ç¥æ‚¨é£è¡Œæ„‰å¿«**"
 	}
 	"**And recommends you stay in the front of the helicopter to ensure your safety**"
 	{
-		"chi"		"**ÍÆ¼öÄúÔÚ·É»úÇ°ÅÅÒÔÈ·±£ÄúµÄ°²È«**"
+		"chi"		"**æ¨èæ‚¨åœ¨é£æœºå‰æ’ä»¥ç¡®ä¿æ‚¨çš„å®‰å…¨**"
 	}
 	"**Any and every accident will be handled by Glacius&Vanya Co.**"
 	{
-		"chi"		"**ËùÓĞµÄ·ÉĞĞÊÂ¹Ê¶¼ÊÇÓÉGlacius&Vanya¹«Ë¾Ôì³ÉµÄ**"
+		"chi"		"**æ‰€æœ‰çš„é£è¡Œäº‹æ•…éƒ½æ˜¯ç”±Glacius&Vanyaå…¬å¸é€ æˆçš„**"
 	}
 	"**You are almost there! Keep the plague off the chopper!**"
 	{
-		"chi"		"**ÂíÉÏ¾ÍÒªµ½Ä¿µÄµØÁË£¡²»ÒªÈÃ½©Ê¬ÉÏ·É»ú£¡**"
+		"chi"		"**é©¬ä¸Šå°±è¦åˆ°ç›®çš„åœ°äº†ï¼ä¸è¦è®©åƒµå°¸ä¸Šé£æœºï¼**"
 	}
 	"**Johnny! Use the teleport and get out of there quick!**"
 	{
-		"chi"		"**Ç¿Äá£¡¿ìµãÓÃ´«ËÍÃÅÔ¶ÀëÕâÀï£¡**"
+		"chi"		"**å¼ºå°¼ï¼å¿«ç‚¹ç”¨ä¼ é€é—¨è¿œç¦»è¿™é‡Œï¼**"
 	}
 	"Professor *And here you are... you realize what our situation is right?*"
 	{
-		"chi"		"**½ÌÊÚ£ºÓÚÊÇÄã¾Í»ØÀ´ÁË...ÄãÖªµÀÎÒÃÇµÄ¾ö¶¨ÊÇ¶ÔµÄÁË°É£¿**"
+		"chi"		"**æ•™æˆï¼šäºæ˜¯ä½ å°±å›æ¥äº†...ä½ çŸ¥é“æˆ‘ä»¬çš„å†³å®šæ˜¯å¯¹çš„äº†å§ï¼Ÿ**"
 	}
 	"Johnny *Yeah yeah... Hitler and Rayvel will build a paper ship and try to take over the world...*"
 	{
-		"chi"		"**Ç¿Äá£ººÃºÃ£¬ÊÇ...Ï£ÌØÀÕºÍÈğÍş¶û»á½¨ÔìÒ»¸öÖ½´¬£¬ÊÔÍ¼½Ó¹ÜÕâ¸öÊÀ½ç...**"
+		"chi"		"**å¼ºå°¼ï¼šå¥½å¥½ï¼Œæ˜¯...å¸Œç‰¹å‹’å’Œç‘å¨å°”ä¼šå»ºé€ ä¸€ä¸ªçº¸èˆ¹ï¼Œè¯•å›¾æ¥ç®¡è¿™ä¸ªä¸–ç•Œ...**"
 	}
 	"Professor *Thats right. Washington is under attack by their giant paper ship and all thanks to you*"
 	{
-		"chi"		"**½ÌÊÚ£ºÊÇµÄÃ»´í.ÒòÎªÄã»ªÊ¢¶ÙÕıÔÚÔâÊÜËûÃÇµÄ¾Ş´óÖ½´¬µÄ¹¥»÷**"
+		"chi"		"**æ•™æˆï¼šæ˜¯çš„æ²¡é”™.å› ä¸ºä½ åç››é¡¿æ­£åœ¨é­å—ä»–ä»¬çš„å·¨å¤§çº¸èˆ¹çš„æ”»å‡»**"
 	}
 	"Johnny *Yeah well go fuck yourself. Ill think about saving them later*"
 	{
-		"chi"		"**Ç¿Äá£ºÎÒ¿ÉÈ¥ÄãÂèµÄ°É£¡ÎÒÒ»»áÔÙÈ¥¾ÈËûÃÇ...**"
+		"chi"		"**å¼ºå°¼ï¼šæˆ‘å¯å»ä½ å¦ˆçš„å§ï¼æˆ‘ä¸€ä¼šå†å»æ•‘ä»–ä»¬...**"
 	}
 	"Johnny *Now I will go masturbate or something... Ill take care of them later...*"
 	{
-		"chi"		"**ÏÖÔÚÎÒÒª’‰Ò»·¢»òÕß¸Éµã±ğµÄÊÂ...ÔÙ¹ıÒ»»á¾ÍÈ¥ÕÕ¹ËËûÃÇ...**"
+		"chi"		"**ç°åœ¨æˆ‘è¦æ‹¤ä¸€å‘æˆ–è€…å¹²ç‚¹åˆ«çš„äº‹...å†è¿‡ä¸€ä¼šå°±å»ç…§é¡¾ä»–ä»¬...**"
 	}
 	"**The End... for now?**"
 	{
-		"chi"		"**½áÊø...ÁËÂğ£¿**"
+		"chi"		"**ç»“æŸ...äº†å—ï¼Ÿ**"
 	}
 	"**NO BALLS MODE ACTIVATED**"
 	{
-		"chi"		"**NO BALLS Ä£Ê½...Æô¶¯**"
+		"chi"		"**NO BALLS æ¨¡å¼...å¯åŠ¨**"
 	}
 	"**NOW BABIES THE REAL GAME HAS STARTED**"
 	{
-		"chi"		"**ÕæÕıµÄÓÎÏ·£¬ÏÖÔÚ²Å¿ªÊ¼**"
+		"chi"		"**çœŸæ­£çš„æ¸¸æˆï¼Œç°åœ¨æ‰å¼€å§‹**"
 	}
 	"**An admin has changed next level to Stage 2**"
 	{
-		"chi"		"**¹ÜÀíÔ±½«¹Ø¿¨¸ÄÎª¹Ø¿¨2**"
+		"chi"		"**ç®¡ç†å‘˜å°†å…³å¡æ”¹ä¸ºå…³å¡2**"
 		"DoorCountdown"		"-1"
 	}
 	"**No Balls Mode enabled**"
 	{
-		"chi"		"**No Balls Ä£Ê½ÉúĞ§**"
+		"chi"		"**No Balls æ¨¡å¼ç”Ÿæ•ˆ**"
 	}
 	"**You suddenly feel like you grew a huge pair of cojones**"
 	{
-		"chi"		"**ÄãÍ»È»±äµÃ´óµ¨ÆğÀ´**"
+		"chi"		"**ä½ çªç„¶å˜å¾—å¤§èƒ†èµ·æ¥**"
 	}
 	"**No Balls Mode enabled -- Good luck you babies!**"
 	{
-		"chi"		"**No Balls Ä£Ê½Æô¶¯ÁË--×£ÄãºÃÔË£¬ÈõÕßÃÇ**"
+		"chi"		"**No Balls æ¨¡å¼å¯åŠ¨äº†--ç¥ä½ å¥½è¿ï¼Œå¼±è€…ä»¬**"
 	}
 	"**An admin has changed next level to Stage 3**"
 	{
-		"chi"		"**¹ÜÀíÔ±½«¹Ø¿¨¸ÄÎª¹Ø¿¨3**"
+		"chi"		"**ç®¡ç†å‘˜å°†å…³å¡æ”¹ä¸ºå…³å¡3**"
 		"DoorCountdown"		"-1"
 	}
 	"**An admin has changed next level to Stage 1**"
 	{
-		"chi"		"**¹ÜÀíÔ±½«¹Ø¿¨¸ÄÎª¹Ø¿¨1**"
+		"chi"		"**ç®¡ç†å‘˜å°†å…³å¡æ”¹ä¸ºå…³å¡1**"
 		"DoorCountdown"		"-1"
 	}
 	"[Dealer] **Ah... that is some rare intel youve got there**"
 	{
-		"chi"		"**[PY½»Ò×]£º°¡¡á...Äã¾ÓÈ»Åªµ½ÁËÏ¡ÓĞµÄµÄIntel**"
+		"chi"		"**[PYäº¤æ˜“]ï¼šå•Šâ™‚...ä½ å±…ç„¶å¼„åˆ°äº†ç¨€æœ‰çš„çš„Intel**"
 	}
 	"[Dealer] **Wanna trade with me? I have a rare item that I think youd like**"
 	{
-		"chi"		"**[PY½»Ò×]£ºÏëºÍÎÒ½»Ò×Âğ£¿ÎÒÒ²ÓĞÏ¡ÓĞµÄ¶«Î÷£¬Ò²ĞíÄã»áÏ²»¶**"
+		"chi"		"**[PYäº¤æ˜“]ï¼šæƒ³å’Œæˆ‘äº¤æ˜“å—ï¼Ÿæˆ‘ä¹Ÿæœ‰ç¨€æœ‰çš„ä¸œè¥¿ï¼Œä¹Ÿè®¸ä½ ä¼šå–œæ¬¢**"
 	}
 	"[Dealer] **Nice... come visit me in my shop in the Kingdom of Steroids**"
 	{
-		"chi"		"**[PY½»Ò×]£ºOh ¡á ThatsGood...µ½ÀÖ¸ßÍõ¹úµÄÊ±ºòÀ´ÎÒµÄÉÌµê°É**"
+		"chi"		"**[PYäº¤æ˜“]ï¼šOh â™‚ ThatsGood...åˆ°ä¹é«˜ç‹å›½çš„æ—¶å€™æ¥æˆ‘çš„å•†åº—å§**"
 	}
 	"[Dealer] **Ill give you your item there**"
 	{
-		"chi"		"**[PY½»Ò×]£ºÎÒ»áÔÚÄÇ°Ñ¶«Î÷¸øÄãµÄ**"
+		"chi"		"**[PYäº¤æ˜“]ï¼šæˆ‘ä¼šåœ¨é‚£æŠŠä¸œè¥¿ç»™ä½ çš„**"
 	}
 	"**A player has picked up some weird UFO thing**"
 	{
-		"chi"		"**Ò»Î»Íæ¼ÒÊ°ÆğÁËÒ»¸ö²»¿ÉË¼ÒéµÄUFO**"
+		"chi"		"**ä¸€ä½ç©å®¶æ‹¾èµ·äº†ä¸€ä¸ªä¸å¯æ€è®®çš„UFO**"
 	}
 	"** There are zombies at the end point ** The round is failed.**"
 	{
-		"chi"		"**½©Ê¬µ½´ïÁËÖÕµã£¬»ØºÏÊ§°Ü **"
+		"chi"		"**åƒµå°¸åˆ°è¾¾äº†ç»ˆç‚¹ï¼Œå›åˆå¤±è´¥ **"
 	}
 }

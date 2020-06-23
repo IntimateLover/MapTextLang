@@ -6,529 +6,529 @@
 	}
 	">>Map by DormantLemon<<"
 	{
-		"chi"		"**µØÍ¼×÷Õß£ºDormantLemon ·­Òë¸üÕý£ºÇåÐÂµÄ¶þ¹þ?**"
+		"chi"		"**åœ°å›¾ä½œè€…ï¼šDormantLemon ç¿»è¯‘æ›´æ­£ï¼šæ¸…æ–°çš„äºŒå“ˆ?**"
 	}
 	">>Introduction<<"
 	{
-		"chi"		"**½éÉÜ **"
+		"chi"		"**ä»‹ç» **"
 	}
 	">>>Warmup ends in 60 seconds<<<"
 	{
-		"chi"		"**ÈÈÉí»ØºÏ60Ãëºó½áÊø **"
+		"chi"		"**çƒ­èº«å›žåˆ60ç§’åŽç»“æŸ **"
 	}
 	">>Current Difficulty: Hard<<"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£ºÀ§ÄÑ **"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šå›°éš¾ **"
 	}
 	">>TIP #1: Big Daddy is immensely strong. Dont let him get close<<"
 	{
-		"chi"		"**ÌáÊ¾1£º´óÀÏµù·Ç³£Ç¿×³.²»ÒªÈÃËû¿¿½üÄãÃÇ **"
+		"chi"		"**æç¤º1ï¼šå¤§è€çˆ¹éžå¸¸å¼ºå£®.ä¸è¦è®©ä»–é è¿‘ä½ ä»¬ **"
 		"DoorCountdown"		"-1"
 	}
 	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
 	{
-		"chi"		"**ÌáÊ¾2:¶à´ÎÍ¨¹ØÊ§°Ü»áÊ¹µØÍ¼¸üÈÝÒ×£¬²»Òª·ÅÆú! **"
+		"chi"		"**æç¤º2:å¤šæ¬¡é€šå…³å¤±è´¥ä¼šä½¿åœ°å›¾æ›´å®¹æ˜“ï¼Œä¸è¦æ”¾å¼ƒ! **"
 		"DoorCountdown"		"-1"
 	}
 	">>TIP #3: Plasmids are limited use. Keep count!<<"
 	{
-		"chi"		"**ÌáÊ¾3£ºÖÊÁ£µÄÊ¹ÓÃÊÜµ½ÏÞÖÆ,×ÃÇéÊ¹ÓÃ£¡ **"
+		"chi"		"**æç¤º3ï¼šè´¨ç²’çš„ä½¿ç”¨å—åˆ°é™åˆ¶,é…Œæƒ…ä½¿ç”¨ï¼ **"
 		"DoorCountdown"		"-1"
 	}
 	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
 	{
-		"chi"		"**ÌáÊ¾4£ºÔÚÉÌµêÉý¼¶ÄãµÄÖÊÁ££¬Éý¼¶ÊÇÓÀ¾ÃÐÔµÄ£¬Çë½÷É÷Ñ¡Ôñ£¡ **"
+		"chi"		"**æç¤º4ï¼šåœ¨å•†åº—å‡çº§ä½ çš„è´¨ç²’ï¼Œå‡çº§æ˜¯æ°¸ä¹…æ€§çš„ï¼Œè¯·è°¨æ…Žé€‰æ‹©ï¼ **"
 		"DoorCountdown"		"-1"
 	}
 	">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
 	{
-		"chi"		"**ÌáÊ¾5:Ð¡ÃÃÃÃ¿ÉÒÔÊÕ»ñÊ¬ÌåÀ´¸øÓè¶ÓÓÑ»ùÒòÇ¿»¯£¬ËÑË÷Ê¬Ìå£¡ **"
+		"chi"		"**æç¤º5:å°å¦¹å¦¹å¯ä»¥æ”¶èŽ·å°¸ä½“æ¥ç»™äºˆé˜Ÿå‹åŸºå› å¼ºåŒ–ï¼Œæœç´¢å°¸ä½“ï¼ **"
 		"DoorCountdown"		"-1"
 	}
 	">>TIP #6: Gene Tonics take effect on death. Dont die in vain!<<"
 	{
-		"chi"		"**ÌáÊ¾6£º»ùÒòÇ¿»¯ÔÚËÀÍöÊ±ÉúÐ§£¬²»Òª°×°×ÎþÉü£¡ **"
+		"chi"		"**æç¤º6ï¼šåŸºå› å¼ºåŒ–åœ¨æ­»äº¡æ—¶ç”Ÿæ•ˆï¼Œä¸è¦ç™½ç™½ç‰ºç‰²ï¼ **"
 		"DoorCountdown"		"-1"
 	}
 	">>TIP #7: Lost health? Visit a health station to recover it!<<"
 	{
-		"chi"		"**ÌáÊ¾7£ºHP¼õÉÙÁË£¿Äã¿ÉÒÔÈ¥¼ÓÑªÕ¾»Ö¸´Ëü£¡ **"
+		"chi"		"**æç¤º7ï¼šHPå‡å°‘äº†ï¼Ÿä½ å¯ä»¥åŽ»åŠ è¡€ç«™æ¢å¤å®ƒï¼ **"
 		"DoorCountdown"		"-1"
 	}
 	">>>Introduction Complete<<<"
 	{
-		"chi"		"**½éÉÜÍê³É **"
+		"chi"		"**ä»‹ç»å®Œæˆ **"
 	}
 	">>Chapter 1 - Welcome to Rapture<<"
 	{
-		"chi"		"**µÚÒ»ÕÂ-»¶Ó­À´µ½Ïú»ê³Ç **"
+		"chi"		"**ç¬¬ä¸€ç« -æ¬¢è¿Žæ¥åˆ°é”€é­‚åŸŽ **"
 	}
 	">>Wait for Bathysphere arrival - 25s<<"
 	{
-		"chi"		"**µÈ´ýÇ±Ë®×°ÖÃµ½À´-25Ãë **"
+		"chi"		"**ç­‰å¾…æ½œæ°´è£…ç½®åˆ°æ¥-25ç§’ **"
 	}
 	">>Bathysphere is docking...<<"
 	{
-		"chi"		"**Ç±Ë®×°ÖÃ¶Ô½Ó... **"
+		"chi"		"**æ½œæ°´è£…ç½®å¯¹æŽ¥... **"
 	}
 	">>Get in the Bathysphere - 12s<<"
 	{
-		"chi"		"**½øÈëÇ±Ë®×°ÖÃ-12Ãë **"
+		"chi"		"**è¿›å…¥æ½œæ°´è£…ç½®-12ç§’ **"
 	}
 	"***Plasmid obtained: Winter Blast***"
 	{
-		"chi"		"**ÖÊÁ£Ê°È¡£ºº®Ëª **"
+		"chi"		"**è´¨ç²’æ‹¾å–ï¼šå¯’éœœ **"
 	}
 	">>Hold the Atrium - 22s<<"
 	{
-		"chi"		"**ÊØ×¡ÖÐÍ¥-22Ãë **"
+		"chi"		"**å®ˆä½ä¸­åº­-22ç§’ **"
 	}
 	"***Plasmid obtained: Gravity Well***"
 	{
-		"chi"		"**ÖÊÁ£Ê°È¡£ºÖØÁ¦ **"
+		"chi"		"**è´¨ç²’æ‹¾å–ï¼šé‡åŠ› **"
 	}
 	">>>A Little Sister has been spotted nearby<<<"
 	{
-		"chi"		"**¸½½üÓÐ¸öÐ¡ÃÃÃÃ **"
+		"chi"		"**é™„è¿‘æœ‰ä¸ªå°å¦¹å¦¹ **"
 	}
 	">>>The Big Daddy is lurking<<<"
 	{
-		"chi"		"**´óÀÏµùÕýÇ±·ü×Å **"
+		"chi"		"**å¤§è€çˆ¹æ­£æ½œä¼ç€ **"
 	}
 	">>Current Difficulty: Easy<<"
 	{
-		"chi"		"**µ±Ç°ÄÑ¶È£º¼òµ¥ **"
+		"chi"		"**å½“å‰éš¾åº¦ï¼šç®€å• **"
 	}
 	"***Plasmid obtained: Sonic Boom***"
 	{
-		"chi"		"**ÖÊÁ£Ê°È¡£ºÒô±¬ **"
+		"chi"		"**è´¨ç²’æ‹¾å–ï¼šéŸ³çˆ† **"
 	}
 	">>Door is open<<"
 	{
-		"chi"		"**´óÃÅ´ò¿ª **"
+		"chi"		"**å¤§é—¨æ‰“å¼€ **"
 	}
 	">>Hold until secuity door releases - 15s<<"
 	{
-		"chi"		"**ÊØµ½°²È«ÃÅ¿ªÆô-15Ãë **"
+		"chi"		"**å®ˆåˆ°å®‰å…¨é—¨å¼€å¯-15ç§’ **"
 	}
 	">>Wait for the elevators arrival<<"
 	{
-		"chi"		"**µÈ´ýµçÌÝµ½´ï **"
+		"chi"		"**ç­‰å¾…ç”µæ¢¯åˆ°è¾¾ **"
 	}
 	"***Plasmid obtained: Insect Swarm***"
 	{
-		"chi"		"**ÖÊÁ£Ê°È¡£º·äÈº **"
+		"chi"		"**è´¨ç²’æ‹¾å–ï¼šèœ‚ç¾¤ **"
 	}
 	"*AFK teleport in 5s*"
 	{
-		"chi"		"**¹Ò»úÍæ¼Ò5Ãëºó´«ËÍ **"
+		"chi"		"**æŒ‚æœºçŽ©å®¶5ç§’åŽä¼ é€ **"
 		"DoorCountdown"		"-1"
 	}
 	">>SECRET: Found the Bird Token<<"
 	{
-		"chi"		"**ÃØÃÜ£º·¢ÏÖÄñµÄ»ÕÕÂ **"
+		"chi"		"**ç§˜å¯†ï¼šå‘çŽ°é¸Ÿçš„å¾½ç«  **"
 	}
 	">>Elevator 1 leaving - 5s<<"
 	{
-		"chi"		"**1ºÅµçÌÝÀë¿ª-5Ãë **"
+		"chi"		"**1å·ç”µæ¢¯ç¦»å¼€-5ç§’ **"
 		"DoorCountdown"		"-1"
 	}
 	">>Elevator 2 leaving - 5s<<"
 	{
-		"chi"		"**2ºÅµçÌÝÀë¿ª-5Ãë **"
+		"chi"		"**2å·ç”µæ¢¯ç¦»å¼€-5ç§’ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid obtained: Incinerate***"
 	{
-		"chi"		"**ÖÊÁ£Ê°È¡£º·ÙÉÕ **"
+		"chi"		"**è´¨ç²’æ‹¾å–ï¼šç„šçƒ§ **"
 	}
 	">>Hold until the security door releases<<"
 	{
-		"chi"		"**ÊØµ½°²È«ÃÅ¿ªÆô **"
+		"chi"		"**å®ˆåˆ°å®‰å…¨é—¨å¼€å¯ **"
 	}
 	"***Plasmid obtained: Electro Bolt***"
 	{
-		"chi"		"**ÖÊÁ£Ê°È¡£ºÉÁµç **"
+		"chi"		"**è´¨ç²’æ‹¾å–ï¼šé—ªç”µ **"
 	}
 	"Thats a Little Sister. Looks like shes alone..."
 	{
-		"chi"		"**Ëý¾ÍÊÇÐ¡ÃÃÃÃ£¬¿´ÆðÀ´ËýºÜ¹Â¶À **"
+		"chi"		"**å¥¹å°±æ˜¯å°å¦¹å¦¹ï¼Œçœ‹èµ·æ¥å¥¹å¾ˆå­¤ç‹¬ **"
 	}
 	">>Board and defend the Rapture Metro<<"
 	{
-		"chi"		"**½øÈëµØÌú²¢·ÀÊØ **"
+		"chi"		"**è¿›å…¥åœ°é“å¹¶é˜²å®ˆ **"
 	}
 	">>>Chapter complete<<<"
 	{
-		"chi"		"**µÚÒ»ÕÂÍ¨¹ý **"
+		"chi"		"**ç¬¬ä¸€ç« é€šè¿‡ **"
 	}
 	">>Chapter 2 - Fort Frolic<<"
 	{
-		"chi"		"**µÚ¶þÕÂ-º£Ñý½ÖÓë»¶ÀÖÒªÈû **"
+		"chi"		"**ç¬¬äºŒç« -æµ·å¦–è¡—ä¸Žæ¬¢ä¹è¦å¡ž **"
 	}
 	">>Wait for Siren Alley doors to open - 15s<<"
 	{
-		"chi"		"**µÈ´ýº£Ñý½Ö´óÃÅ-15Ãë **"
+		"chi"		"**ç­‰å¾…æµ·å¦–è¡—å¤§é—¨-15ç§’ **"
 	}
 	">>SECRET: Found the Cage Token<<"
 	{
-		"chi"		"**ÃØÃÜ:ÕÒµ½Áý×ÓµÄ»ÕÕÂ **"
+		"chi"		"**ç§˜å¯†:æ‰¾åˆ°ç¬¼å­çš„å¾½ç«  **"
 	}
 	"*Splicers have been blocked for 8 seconds*"
 	{
-		"chi"		"**½©Ê¬±»·âËø8Ãë **"
+		"chi"		"**åƒµå°¸è¢«å°é”8ç§’ **"
 		"DoorCountdown"		"-1"
 	}
 	"*Splicers have been blocked for 6 seconds*"
 	{
-		"chi"		"**½©Ê¬±»·âËø6Ãë **"
+		"chi"		"**åƒµå°¸è¢«å°é”6ç§’ **"
 		"DoorCountdown"		"-1"
 	}
 	">>Hide or hold until the exit has drained - 84s<<"
 	{
-		"chi"		"**¶ã²Ø»òÕßÊØ×¡Ö±µ½³ö¿Ú´ò¿ª-84Ãë **"
+		"chi"		"**èº²è—æˆ–è€…å®ˆä½ç›´åˆ°å‡ºå£æ‰“å¼€-84ç§’ **"
 	}
 	"*Splicers have been blocked for 4 seconds*"
 	{
-		"chi"		"**½©Ê¬±»·âËø4Ãë **"
+		"chi"		"**åƒµå°¸è¢«å°é”4ç§’ **"
 		"DoorCountdown"		"-1"
 	}
 	"*Splicers have been blocked for 2 seconds*"
 	{
-		"chi"		"**½©Ê¬±»·âËø2Ãë **"
+		"chi"		"**åƒµå°¸è¢«å°é”2ç§’ **"
 		"DoorCountdown"		"-1"
 	}
 	"*Splicers have been freed!*"
 	{
-		"chi"		"**½©Ê¬ÒÑ±»ÊÍ·Å **"
+		"chi"		"**åƒµå°¸å·²è¢«é‡Šæ”¾ **"
 	}
 	">>Hold the Decompression Chamber<<"
 	{
-		"chi"		"**ÊØ×¡¼õÑ¹ÊÒ **"
+		"chi"		"**å®ˆä½å‡åŽ‹å®¤ **"
 	}
 	">>Defend until Cohen opens the doors - 20s<<"
 	{
-		"chi"		"**ÊØ×¡.Ö±µ½Cohen´ò¿ªÃÅ-20Ãë **"
+		"chi"		"**å®ˆä½.ç›´åˆ°Cohenæ‰“å¼€é—¨-20ç§’ **"
 	}
 	">>Hold the doorway - 5s<<"
 	{
-		"chi"		"**ÊØ×¡ÃÅ¿Ú-5Ãë **"
+		"chi"		"**å®ˆä½é—¨å£-5ç§’ **"
 	}
 	">>Go up the stairs<<"
 	{
-		"chi"		"**ÉÏÂ¥ **"
+		"chi"		"**ä¸Šæ¥¼ **"
 	}
 	">>Wait for Poseidon Plaza to unfreeze<<"
 	{
-		"chi"		"**µÈ´ýº£Éñ¹ã³¡½â¶³ **"
+		"chi"		"**ç­‰å¾…æµ·ç¥žå¹¿åœºè§£å†» **"
 	}
 	">>Defend while the door unfreezes - 20s<<"
 	{
-		"chi"		"**ÊØµ½ÃÅ½â¶³-20Ãë **"
+		"chi"		"**å®ˆåˆ°é—¨è§£å†»-20ç§’ **"
 	}
 	">>Defend Jasmine Jolies room - 60s<<"
 	{
-		"chi"		"**ÊØ×¡Jasmine JolieµÄ·¿¼ä-60Ãë **"
+		"chi"		"**å®ˆä½Jasmine Jolieçš„æˆ¿é—´-60ç§’ **"
 	}
 	">>Chapter 3 - Arcadia<<"
 	{
-		"chi"		"**µÚÈýÕÂ-°¢¿¨µÏÑÇ **"
+		"chi"		"**ç¬¬ä¸‰ç« -é˜¿å¡è¿ªäºš **"
 	}
 	">>Hold the Balcony<<"
 	{
-		"chi"		"**ÊØ×¡ÑôÌ¨ **"
+		"chi"		"**å®ˆä½é˜³å° **"
 	}
 	">>Hold Julie Langfords Garden<<"
 	{
-		"chi"		"**ÊØ×¡ÖìÀò¡¤ÀÊ¸ñ¸¥µÂµÄ»¨Ô° **"
+		"chi"		"**å®ˆä½æœ±èŽ‰Â·æœ—æ ¼å¼—å¾·çš„èŠ±å›­ **"
 	}
 	">>Wait for corridor to drain...<<"
 	{
-		"chi"		"**µÈ´ý×ßÀÈÅÅÍêË®¡­ **"
+		"chi"		"**ç­‰å¾…èµ°å»ŠæŽ’å®Œæ°´â€¦ **"
 	}
 	">>Hold until the security door unlocks<<"
 	{
-		"chi"		"**ÊØµ½°²È«ÃÅ´ò¿ª **"
+		"chi"		"**å®ˆåˆ°å®‰å…¨é—¨æ‰“å¼€ **"
 	}
 	">>Detonate and Destroy the tunnel<<"
 	{
-		"chi"		"**Òý±¬²¢´Ý»ÙËíµÀ **"
+		"chi"		"**å¼•çˆ†å¹¶æ‘§æ¯éš§é“ **"
 	}
 	">>Splicers must not make it past the marker<<"
 	{
-		"chi"		"**²»ÄÜÈÃ½©Ê¬Ô½¹ý±ê¼ÇÏß£¡ **"
+		"chi"		"**ä¸èƒ½è®©åƒµå°¸è¶Šè¿‡æ ‡è®°çº¿ï¼ **"
 	}
 	">>Chapter 4 - Hephaestus<<"
 	{
-		"chi"		"**µÚËÄÕÂ-ºÕ·ÆË¹ÍÐË¹ **"
+		"chi"		"**ç¬¬å››ç« -èµ«è²æ–¯æ‰˜æ–¯ **"
 	}
 	">>Hephaestus security checks in progress.. - 15s<<"
 	{
-		"chi"		"**ºÕ·ÆË¹ÍÐË¹°²È«¼ì²éÕýÔÚ½øÐÐ-15Ãë **"
+		"chi"		"**èµ«è²æ–¯æ‰˜æ–¯å®‰å…¨æ£€æŸ¥æ­£åœ¨è¿›è¡Œ-15ç§’ **"
 	}
 	">>Wait for Hephaestus to open - 15s<<"
 	{
-		"chi"		"**µÈ´ýºÕ·ÆË¹ÍÐË¹´óÃÅ´ò¿ª **"
+		"chi"		"**ç­‰å¾…èµ«è²æ–¯æ‰˜æ–¯å¤§é—¨æ‰“å¼€ **"
 	}
 	">>Hephaestus is open<<"
 	{
-		"chi"		"**ºÕ·ÆË¹ÍÐË¹´óÃÅ¿ªÆô **"
+		"chi"		"**èµ«è²æ–¯æ‰˜æ–¯å¤§é—¨å¼€å¯ **"
 	}
 	">>Wait for Trophy Room access - 35s<<"
 	{
-		"chi"		"**35Ãë-µÈ´ýTrophy Room´óÃÅ´ò¿ª **"
+		"chi"		"**35ç§’-ç­‰å¾…Trophy Roomå¤§é—¨æ‰“å¼€ **"
 	}
 	">>AFK Teleport in 5s<<"
 	{
-		"chi"		"**¹Ò»úÍæ¼Ò5Ãëºó´«ËÍ **"
+		"chi"		"**æŒ‚æœºçŽ©å®¶5ç§’åŽä¼ é€ **"
 		"DoorCountdown"		"-1"
 	}
 	">>Evaporate the flood water<<"
 	{
-		"chi"		"**ÕýÔÚ½«»ýË®Õô·¢ **"
+		"chi"		"**æ­£åœ¨å°†ç§¯æ°´è’¸å‘ **"
 	}
 	">>Elevator is leaving - 5s<<"
 	{
-		"chi"		"**µçÌÝÀë¿ª-5Ãë **"
+		"chi"		"**ç”µæ¢¯ç¦»å¼€-5ç§’ **"
 	}
 	">>Laser incoming<<"
 	{
-		"chi"		"**×¼±¸Ìøµ¶£¡ **"
+		"chi"		"**å‡†å¤‡è·³åˆ€ï¼ **"
 		"DoorCountdown"		"3"
 	}
 	">>Elevator will be leaving soon<<"
 	{
-		"chi"		"**µçÌÝÂíÉÏ¾ÍÒª¿ªÁË **"
+		"chi"		"**ç”µæ¢¯é©¬ä¸Šå°±è¦å¼€äº† **"
 	}
 	"*AFK teleport in 3s*"
 	{
-		"chi"		"**¹Ò»úÍæ¼Ò3Ãëºó´«ËÍ **"
+		"chi"		"**æŒ‚æœºçŽ©å®¶3ç§’åŽä¼ é€ **"
 	}
 	">>>Bathysphere door opens in 20 seconds<<<"
 	{
-		"chi"		"**Ç±Ë®×°ÖÃµÄÃÅ20Ãëºó´ò¿ª **"
+		"chi"		"**æ½œæ°´è£…ç½®çš„é—¨20ç§’åŽæ‰“å¼€ **"
 	}
 	">>Defend the Bathysphere - 40s<<"
 	{
-		"chi"		"**µÈ´ýÇ±Ë®×°ÖÃµ½À´-40Ãë **"
+		"chi"		"**ç­‰å¾…æ½œæ°´è£…ç½®åˆ°æ¥-40ç§’ **"
 	}
 	">>Chapter Completed<<"
 	{
-		"chi"		"**¹Ø¿¨Í¨¹ý **"
+		"chi"		"**å…³å¡é€šè¿‡ **"
 	}
 	">>>Find the secrets for the true ending<<<"
 	{
-		"chi"		"**Ñ°ÕÒÃØÃÜ¿ÉÒÔ¿ªÆôÕæÊµ½á¾Ö **"
+		"chi"		"**å¯»æ‰¾ç§˜å¯†å¯ä»¥å¼€å¯çœŸå®žç»“å±€ **"
 	}
 	">>>Bad ending obtained!<<<"
 	{
-		"chi"		"**´ï³É»µ½á¾Ö£¡ **"
+		"chi"		"**è¾¾æˆåç»“å±€ï¼ **"
 	}
 	">>Campaign Completed<<"
 	{
-		"chi"		"**µØÍ¼Í¨¹Ø **"
+		"chi"		"**åœ°å›¾é€šå…³ **"
 	}
 	">>Thank you for playing. Try 1999 mode for a true challenge<<"
 	{
-		"chi"		"**Ð»Ð»ÄãµÄÍæË££¬³¢ÊÔÌôÕ½1999ÄêÄ£Ê½ **"
+		"chi"		"**è°¢è°¢ä½ çš„çŽ©è€ï¼Œå°è¯•æŒ‘æˆ˜1999å¹´æ¨¡å¼ **"
 		"DoorCountdown"		"-1"
 	}
 	">>Extra Chapter - 1999<<"
 	{
-		"chi"		"**¶îÍâÕÂ½Ú-1999 **"
+		"chi"		"**é¢å¤–ç« èŠ‚-1999 **"
 		"DoorCountdown"		"-1"
 	}
 	">>1999 is a special mode<<"
 	{
-		"chi"		"**1999ÊÇÒ»¸öÌØÊâµÄ¹Ø¿¨ **"
+		"chi"		"**1999æ˜¯ä¸€ä¸ªç‰¹æ®Šçš„å…³å¡ **"
 		"DoorCountdown"		"-1"
 	}
 	">>Its long and difficult<<"
 	{
-		"chi"		"**Âþ³¤²¢À§ÄÑ **"
+		"chi"		"**æ¼«é•¿å¹¶å›°éš¾ **"
 	}
 	">>Enjoy it<<"
 	{
-		"chi"		"**ÏíÊÜËü **"
+		"chi"		"**äº«å—å®ƒ **"
 	}
 	">>There are 2 ways to go. Someone must take the upper path<<"
 	{
-		"chi"		"**ÓÐ2ÌõÂ·¿ÉÒÔ×ß£¬±ØÐëÓÐÈË×ßÉÏÃæµÄÂ·¡£ **"
+		"chi"		"**æœ‰2æ¡è·¯å¯ä»¥èµ°ï¼Œå¿…é¡»æœ‰äººèµ°ä¸Šé¢çš„è·¯ã€‚ **"
 		"DoorCountdown"		"5"
 	}
 	">>They must go and open the lower door from behind<<"
 	{
-		"chi"		"**ËûÃÇ±ØÐë´ÓºóÃæ´ò¿ªÏÂÃæµÄÃÅ **"
+		"chi"		"**ä»–ä»¬å¿…é¡»ä»ŽåŽé¢æ‰“å¼€ä¸‹é¢çš„é—¨ **"
 	}
 	">>Wait for access to Fort Frolic<<"
 	{
-		"chi"		"**µÈ´ý½øÈë»¶ÀÖÒªÈû **"
+		"chi"		"**ç­‰å¾…è¿›å…¥æ¬¢ä¹è¦å¡ž **"
 	}
 	">>Wait for access to the Bathysphere - 35s<<"
 	{
-		"chi"		"**µÈ´ý½øÈëÇ±Ë®×°ÖÃ-35Ãë **"
+		"chi"		"**ç­‰å¾…è¿›å…¥æ½œæ°´è£…ç½®-35ç§’ **"
 	}
 	">>Hold the Wineries - 25s<<"
 	{
-		"chi"		"**ÊØ×¡ÆÏÌÑ¾Æ³§-25Ãë **"
+		"chi"		"**å®ˆä½è‘¡è„é…’åŽ‚-25ç§’ **"
 	}
 	"*AFK teleport in 5s"
 	{
-		"chi"		"**¹Ò»úÍæ¼Ò5Ãëºó´«ËÍ **"
+		"chi"		"**æŒ‚æœºçŽ©å®¶5ç§’åŽä¼ é€ **"
 		"DoorCountdown"		"-1"
 	}
 	">>Kill the Patriot<<"
 	{
-		"chi"		"**É±ÁË°®¹úÕß **"
+		"chi"		"**æ€äº†çˆ±å›½è€… **"
 	}
 	">>>A Patriot is awake. Kill it!<<<"
 	{
-		"chi"		"**°®¹úÕß±»¼¤»îÁË£¬¿ìÉ±ÁËËü£¡ **"
+		"chi"		"**çˆ±å›½è€…è¢«æ¿€æ´»äº†ï¼Œå¿«æ€äº†å®ƒï¼ **"
 	}
 	">>Wait for rail access - 15s<<"
 	{
-		"chi"		"**µÈ´ý¹ìµÀ¼¤»î-15Ãë **"
+		"chi"		"**ç­‰å¾…è½¨é“æ¿€æ´»-15ç§’ **"
 	}
 	">>>Jump onto the rail!<<<"
 	{
-		"chi"		"**ÌøÉÏ¹ìµÀ! **"
+		"chi"		"**è·³ä¸Šè½¨é“! **"
 	}
 	">>Wait for the security door to open - 20s<<"
 	{
-		"chi"		"**µÈ´ý°²È«ÃÅ´ò¿ª-20Ãë **"
+		"chi"		"**ç­‰å¾…å®‰å…¨é—¨æ‰“å¼€-20ç§’ **"
 	}
 	">>Defend while the door opens - 50s<<"
 	{
-		"chi"		"**ÊØµ½ÃÅ¿ª-50Ãë **"
+		"chi"		"**å®ˆåˆ°é—¨å¼€-50ç§’ **"
 	}
 	"***Plasmid upgraded: Sonic Boom 2***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºÒô±¬2¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šéŸ³çˆ†2çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Incinerate 2***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£º·ÙÉÕ2¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šç„šçƒ§2çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Insect Swarm 2***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£º·äÈº2¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šèœ‚ç¾¤2çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Electro Bolt 2***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºÉÁµç2¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šé—ªç”µ2çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Winter Blast 2***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºº®Ëª2¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šå¯’éœœ2çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Gravity Well 2***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºÖØÁ¦2¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šé‡åŠ›2çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"*ADMIN Room: Plasmids set to max level*"
 	{
-		"chi"		"**¹ÜÀíÔ±·¿¼ä£ºÖÊÁ£ÒÑÉýµ½×î¸ß¼¶ **"
+		"chi"		"**ç®¡ç†å‘˜æˆ¿é—´ï¼šè´¨ç²’å·²å‡åˆ°æœ€é«˜çº§ **"
 	}
 	"***Plasmid upgraded: Sonic Boom 3***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºÒô±¬3¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šéŸ³çˆ†3çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Incinerate 3***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£º·ÙÉÕ3¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šç„šçƒ§3çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Insect Swarm 3***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£º·äÈº3¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šèœ‚ç¾¤3çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Electro Bolt 3***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºÉÁµç3¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šé—ªç”µ3çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Winter Blast 3***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºº®Ëª3¼¶ **"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šå¯’éœœ3çº§ **"
 		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Gravity Well 3***"
 	{
-		"chi"		"**ÖÊÁ£Éý¼¶£ºÖØÁ¦3¼¶**"
+		"chi"		"**è´¨ç²’å‡çº§ï¼šé‡åŠ›3çº§**"
 		"DoorCountdown"		"-1"
 	}
 	">>SECRET: Found the Airship Token<<"
 	{
-		"chi"		"**ÃØÃÜ£º·¢ÏÖ·ÉÍ§»ÕÕÂ**"
+		"chi"		"**ç§˜å¯†ï¼šå‘çŽ°é£žè‰‡å¾½ç« **"
 	}
 	">>Wait for the arrival of Rapture Metro<<"
 	{
-		"chi"		"**µÈ´ýÏú»ê³ÇµØÌúµ½À´**"
+		"chi"		"**ç­‰å¾…é”€é­‚åŸŽåœ°é“åˆ°æ¥**"
 	}
 	">>Defend until the doors close - 15s<<"
 	{
-		"chi"		"**ÊØµ½ÃÅ¹Ø-15Ãë**"
+		"chi"		"**å®ˆåˆ°é—¨å…³-15ç§’**"
 	}
 	">>Tip: The Songbird is vulnerable only to headshots. Remember this<<"
 	{
-		"chi"		"**ÌáÊ¾:SongbirdµÄÍ·²¿ÊÇËüµÄÈõµã£¬¼Ç×¡£¡**"
+		"chi"		"**æç¤º:Songbirdçš„å¤´éƒ¨æ˜¯å®ƒçš„å¼±ç‚¹ï¼Œè®°ä½ï¼**"
 	}
 	">>Wait for garden access - 20s<<"
 	{
-		"chi"		"**µÈ´ý½øÈë»¨Ô°-20Ãë **"
+		"chi"		"**ç­‰å¾…è¿›å…¥èŠ±å›­-20ç§’ **"
 	}
 	">>Service must end before you may enter - 25s<<"
 	{
-		"chi"		"**±ØÐëÔÚ·þÎñ½áÊøÇ°½øÈë-25Ãë **"
+		"chi"		"**å¿…é¡»åœ¨æœåŠ¡ç»“æŸå‰è¿›å…¥-25ç§’ **"
 	}
 	">>Elizabeth is searching for a tear - 50s<<"
 	{
-		"chi"		"**ÒÁÀöÉ¯°×ÕýÔÚÑ°ÕÒÒ»¸öÊ±¿ÕÁÑÏ¶-50s**"
+		"chi"		"**ä¼Šä¸½èŽŽç™½æ­£åœ¨å¯»æ‰¾ä¸€ä¸ªæ—¶ç©ºè£‚éš™-50s**"
 	}
 	">>>ELIZABETH: This is it! Defend the boat!<<<"
 	{
-		"chi"		"**ÒÁÀöÉ¯°×£º¾ÍÊÇÕâÀï£¡ÊØ×¡´¬£¡ **"
+		"chi"		"**ä¼Šä¸½èŽŽç™½ï¼šå°±æ˜¯è¿™é‡Œï¼å®ˆä½èˆ¹ï¼ **"
 	}
 	">>>Elizabeth cant control the tear! Teleport in 5 seconds<<<"
 	{
-		"chi"		"**ÒÁÀöÉ¯°×¶ÔÁÑÏ¶Ê§È¥ÁË¿ØÖÆ!½©Ê¬ÔÚ5Ãëºó´«ËÍ **"
+		"chi"		"**ä¼Šä¸½èŽŽç™½å¯¹è£‚éš™å¤±åŽ»äº†æŽ§åˆ¶!åƒµå°¸åœ¨5ç§’åŽä¼ é€ **"
 		"DoorCountdown"		"-1"
 	}
 	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
 	{
-		"chi"		"**ÒÁÀöÉ¯°×£ºÀ´£¡¿ìÉÏ´¬£¡ **"
+		"chi"		"**ä¼Šä¸½èŽŽç™½ï¼šæ¥ï¼å¿«ä¸Šèˆ¹ï¼ **"
 	}
 	">>>Chapter failed<<<"
 	{
-		"chi"		"**¹Ø¿¨Ê§°Ü **"
+		"chi"		"**å…³å¡å¤±è´¥ **"
 	}
 	">>SECRET: Found the Vox Populi Token<<"
 	{
-		"chi"		"**ÃØÃÜ£ºÕÒµ½ÁËÈËÃñÖ®Éù»ÕÕÂ **"
+		"chi"		"**ç§˜å¯†ï¼šæ‰¾åˆ°äº†äººæ°‘ä¹‹å£°å¾½ç«  **"
 	}
 	">>>All emblems obtained<<<"
 	{
-		"chi"		"**»ñµÃËùÓÐ»ÕÕÂ **"
+		"chi"		"**èŽ·å¾—æ‰€æœ‰å¾½ç«  **"
 	}
 	">>You must wait for the islands to align - 30s<<"
 	{
-		"chi"		"**Äã±ØÐëµÈ´ýµºÓì¶Ô½Ó-30Ãë **"
+		"chi"		"**ä½ å¿…é¡»ç­‰å¾…å²›å±¿å¯¹æŽ¥-30ç§’ **"
 	}
 	">>>CONGRATULATIONS!<<<"
 	{
-		"chi"		"**×£ºØÄã!**"
+		"chi"		"**ç¥è´ºä½ !**"
 	}
 	">>>TRUE ENDING OBTAINED<<<"
 	{
-		"chi"		"**Õæ½á¾Ö´ï³É£¡**"
+		"chi"		"**çœŸç»“å±€è¾¾æˆï¼**"
 	}
 	"sync_version"
 	{
@@ -536,22 +536,22 @@
 	}
 	">>Its your chance. Kill the Songbird<<"
 	{
-		"chi"		"**ÕâÊÇÄã×îºóµÄ»ú»á£¬É±ÁËSongbird! **"
+		"chi"		"**è¿™æ˜¯ä½ æœ€åŽçš„æœºä¼šï¼Œæ€äº†Songbird! **"
 	}
 	">>>Congratulations<<"
 	{
-		"chi"		"**¹§Ï²Í¨¹Ø©d ^_^? **"
+		"chi"		"**æ­å–œé€šå…³ãƒ¾ ^_^? **"
 	}
 	">>>Thank you for playing<<"
 	{
-		"chi"		"**¸ÐÐ»ÄãµÄÓÎÍæ£¡**"
+		"chi"		"**æ„Ÿè°¢ä½ çš„æ¸¸çŽ©ï¼**"
 	}
 	">>Cohen has fled!<<"
 	{
-		"chi"		"**Cohen·É×ßÁË **"
+		"chi"		"**Cohené£žèµ°äº† **"
 	}
 	">>Its your lucky day, kid<<"
 	{
-		"chi"		"**Ð¡×Ó£¬½ñÌìÊÇÄãµÄÐÒÔËÈÕ **"
+		"chi"		"**å°å­ï¼Œä»Šå¤©æ˜¯ä½ çš„å¹¸è¿æ—¥ **"
 	}
 }

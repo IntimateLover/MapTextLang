@@ -2,71 +2,71 @@
 {
 	"** THE PLANE IS GOING TO CRASH **"
 	{
-		"chi"		"·É»úÒªÕ¨ÁË£¡"
+		"chi"		"é£æœºè¦ç‚¸äº†ï¼"
 	}
 	"** BRACE YOURSELVES **"
 	{
-		"chi"		"Õñ×÷Äã×Ô¼º£¡"
+		"chi"		"æŒ¯ä½œä½ è‡ªå·±ï¼"
 	}
 	"** Follow the game trails through the island interior to reach Embryonic Research B. **"
 	{
-		"chi"		"¸ú×ÅĞ¡¾¶×ßµ½µºÓìÖĞĞÄÒÔµ½´ï³õÆÚ¾ÈÔ®µãB"
+		"chi"		"è·Ÿç€å°å¾„èµ°åˆ°å²›å±¿ä¸­å¿ƒä»¥åˆ°è¾¾åˆæœŸæ•‘æ´ç‚¹B"
 	}
 	"** Zodiac departing for island interior. **"
 	{
-		"chi"		"ÅÜÈ¥ÄÚµº£¡"
+		"chi"		"è·‘å»å†…å²›ï¼"
 	}
 	"** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **"
 	{
-		"chi"		"ÇÅÕ¨ÁË£¡¿ìÌø£¡"
+		"chi"		"æ¡¥ç‚¸äº†ï¼å¿«è·³ï¼"
 	}
 	"** Push the C4 between the barrels **"
 	{
-		"chi"		"°Ñc4·ÅÔÚÍ°Ö®¼ä"
+		"chi"		"æŠŠc4æ”¾åœ¨æ¡¶ä¹‹é—´"
 		"DoorCountdown"		"-1"
 	}
 	"**AFK TELE 20 SECONDS**"
 	{
-		"chi"		"20Ãëºó´«ËÍ¹Ò»úÏÌÓã"
+		"chi"		"20ç§’åä¼ é€æŒ‚æœºå’¸é±¼"
 	}
 	"**AFK TELE 10 SECONDS**"
 	{
-		"chi"		"10Ãëºó´«ËÍ¹Ò»úÏÌÓã"
+		"chi"		"10ç§’åä¼ é€æŒ‚æœºå’¸é±¼"
 	}
 	"** Raptor nest has been disturbed! **"
 	{
-		"chi"		"ÃÍÇİ³²Ñ¨±äµÃ²»°²ÁË£¡"
+		"chi"		"çŒ›ç¦½å·¢ç©´å˜å¾—ä¸å®‰äº†ï¼"
 	}
 	"** There's no power. We're screwed! **"
 	{
-		"chi"		"ÕâÀïÃ»ÓĞÄÜÔ´£¡ÎÒÃÇ±»À§×¡ÁË£¡"
+		"chi"		"è¿™é‡Œæ²¡æœ‰èƒ½æºï¼æˆ‘ä»¬è¢«å›°ä½äº†ï¼"
 	}
 	"** Power has been restored to Isla Sorna **"
 	{
-		"chi"		"SornaµºÄÜÔ´ÒÑ»Ö¸´"
+		"chi"		"Sornaå²›èƒ½æºå·²æ¢å¤"
 	}
 	"** Satellite link established. Phone access enabled. **"
 	{
-		"chi"		"ÎÀĞÇÁªÂç½¨Á¢£¬µç»°½ÓÈëÆôÓÃ"
+		"chi"		"å«æ˜Ÿè”ç»œå»ºç«‹ï¼Œç”µè¯æ¥å…¥å¯ç”¨"
 	}
 	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
 	{
-		"chi"		"60Ãëºó¾ÈÔ®µ½´ï"
+		"chi"		"60ç§’åæ•‘æ´åˆ°è¾¾"
 	}
 	"** Laboratory Security online. Locking in 10 seconds... **"
 	{
-		"chi"		"»¹ÓĞ10Ãë£¡"
+		"chi"		"è¿˜æœ‰10ç§’ï¼"
 	}
 	"** C4 planted! **"
 	{
-		"chi"		"**Õ¨µ¯ÒÑ°²·Å **"
+		"chi"		"**ç‚¸å¼¹å·²å®‰æ”¾ **"
 	}
 	"** Theres no power. Were screwed! **"
 	{
-		"chi"		"**Ã»ÓĞµçÁ¦.äÆ! **"
+		"chi"		"**æ²¡æœ‰ç”µåŠ›.æ·¦! **"
 	}
 	"** Mobile Command Center has crashed **"
 	{
-		"chi"		"**Ö¸»ÓÖĞĞÄ±ÀÀ£ÁË **"
+		"chi"		"**æŒ‡æŒ¥ä¸­å¿ƒå´©æºƒäº† **"
 	}
 }

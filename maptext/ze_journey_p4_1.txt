@@ -4,111 +4,111 @@
 	{
 		"command"		"mp_roundtime 25.0"
 		"force_round_end"		"1"
-		"chi"		"**ÃÅÔÚ20Ãëºó¿ªÆô**"
+		"chi"		"**é—¨åœ¨20ç§’åå¼€å¯**"
 	}
 	"*** Door opening in 5 seconds ***"
 	{
-		"chi"		"**ÃÅÔÚ5Ãëºó¿ªÆô**"
+		"chi"		"**é—¨åœ¨5ç§’åå¼€å¯**"
 	}
 	"*** Boats departing in 20 seconds ***"
 	{
-		"chi"		"**´¬ÔÚ20ÃëºóÀë¿ª**"
+		"chi"		"**èˆ¹åœ¨20ç§’åç¦»å¼€**"
 	}
 	"*** Boats departing in 5 seconds ***"
 	{
-		"chi"		"**´¬ÔÚ5ÃëºóÀë¿ª**"
+		"chi"		"**èˆ¹åœ¨5ç§’åç¦»å¼€**"
 	}
 	"*** Glacial Orb has been acquired ***"
 	{
-		"chi"		"**±ù±»Ê°È¡**"
+		"chi"		"**å†°è¢«æ‹¾å–**"
 	}
 	"*** Lightning Orb has been acquired ***"
 	{
-		"chi"		"**ÉÁµç±»Ê°È¡**"
+		"chi"		"**é—ªç”µè¢«æ‹¾å–**"
 	}
 	"*** Divine Orb has been acquired ***"
 	{
-		"chi"		"**ÉñÊ¥±»Ê°È¡**"
+		"chi"		"**ç¥åœ£è¢«æ‹¾å–**"
 	}
 	"*** Gust Orb has been acquired ***"
 	{
-		"chi"		"**·ç±»Ê°È¡**"
+		"chi"		"**é£è¢«æ‹¾å–**"
 	}
 	"*** Abyssal Orb has been acquired ***"
 	{
-		"chi"		"**Ğé¿Õ±»Ê°È¡**"
+		"chi"		"**è™šç©ºè¢«æ‹¾å–**"
 	}
 	"*** Gate opening in 10 seconds ***"
 	{
-		"chi"		"**´óÃÅ10ºó¿ªÆô**"
+		"chi"		"**å¤§é—¨10åå¼€å¯**"
 	}
 	"*** Round failed! Zombies have reached the objective! ***"
 	{
-		"chi"		"**»ØºÏÊ§°Ü£¡½©Ê¬±ÈÈËÀàÏÈ´¥·¢»ú¹Ø**"
+		"chi"		"**å›åˆå¤±è´¥ï¼åƒµå°¸æ¯”äººç±»å…ˆè§¦å‘æœºå…³**"
 	}
 	"*** 5 seconds left ***"
 	{
-		"chi"		"**»¹Ê£5Ãë **"
+		"chi"		"**è¿˜å‰©5ç§’ **"
 	}
 	"*** All 4 levers activated ***"
 	{
-		"chi"		"**4¸ö¿ª¹ØÒÑ±»°´ÏÂ**"
+		"chi"		"**4ä¸ªå¼€å…³å·²è¢«æŒ‰ä¸‹**"
 		"DoorCountdown"		"-1"	
 	}
 	"*** Gate opening in 15 seconds ***"
 	{
-		"chi"		"**´óÃÅ15Ãëºó¿ªÆô**"
+		"chi"		"**å¤§é—¨15ç§’åå¼€å¯**"
 	}
 	"*** Burning Orb has been acquired ***"
 	{
-		"chi"		"**»ğ±»Ê°È¡**"
+		"chi"		"**ç«è¢«æ‹¾å–**"
 	}
 	"*** Gate opening ***"
 	{
-		"chi"		"**´óÃÅ¿ªÆô**"
+		"chi"		"**å¤§é—¨å¼€å¯**"
 	}
 	"*** Lift activated ***"
 	{
-		"chi"		"**µçÌİÆô¶¯**"
+		"chi"		"**ç”µæ¢¯å¯åŠ¨**"
 	}
 	"*** Gate opening in 20 seconds ***"
 	{
-		"chi"		"**´óÃÅ20Ãëºó¿ªÆô**"
+		"chi"		"**å¤§é—¨20ç§’åå¼€å¯**"
 	}
 	"*** Celestial Embrace has been acquired ***"
 	{
-		"chi"		"**ÄÌ±»Ê°È¡**"
+		"chi"		"**å¥¶è¢«æ‹¾å–**"
 	}
 	"*** Door opening in 15 seconds ***"
 	{
-		"chi"		"**´óÃÅ15Ãëºó¿ªÆô**"
+		"chi"		"**å¤§é—¨15ç§’åå¼€å¯**"
 	}
 	"*** Platform rising in 15 seconds ***"
 	{
-		"chi"		"**Æ½Ì¨15ÃëºóÉÏÉı**"
+		"chi"		"**å¹³å°15ç§’åä¸Šå‡**"
 	}
 	"*** Left lever activated ***"
 	{
-		"chi"		"**×ó±ß¿ª¹ØÒÑ¼¤»î**"
+		"chi"		"**å·¦è¾¹å¼€å…³å·²æ¿€æ´»**"
 	}
 	"*** Right lever activated ***"
 	{
-		"chi"		"**ÓÒ±ß¿ª¹ØÒÑ¼¤»î**"
+		"chi"		"**å³è¾¹å¼€å…³å·²æ¿€æ´»**"
 	}
 	"*** Final door opening in 30 seconds ***"
 	{
-		"chi"		"**×îºóµÄ´óÃÅ½«ÔÚ30Ãëºó¿ªÆô**"
+		"chi"		"**æœ€åçš„å¤§é—¨å°†åœ¨30ç§’åå¼€å¯**"
 	}
 	"*** Final door opening in 5 seconds ***"
 	{
-		"chi"		"**×îºóµÄ´óÃÅ½«ÔÚ5Ãëºó¿ªÆô**"
+		"chi"		"**æœ€åçš„å¤§é—¨å°†åœ¨5ç§’åå¼€å¯**"
 	}
 	"*** Final door closing in 5 seconds ***"
 	{
-		"chi"		"**×îºóµÄ´óÃÅ½«ÔÚ5Ãëºó¹Ø±Õ**"
+		"chi"		"**æœ€åçš„å¤§é—¨å°†åœ¨5ç§’åå…³é—­**"
 	}
 	"*** Humans win! ***"
 	{
-		"chi"		"**ÈËÀàÊ¤Àû**"
+		"chi"		"**äººç±»èƒœåˆ©**"
 	}
 }
