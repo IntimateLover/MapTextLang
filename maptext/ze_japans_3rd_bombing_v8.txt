@@ -208,7 +208,7 @@
 	}
 	"***bring neko the donut***"
 	{
-		"chi"		"**请把甜甜圈带给琪露诺**"
+		"chi"		"**请把甜甜圈带给Neko**"
 	}
 	"***or die***"
 	{
@@ -256,15 +256,15 @@
 	}
 	"***door opens in 10***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"***gate opens in 30 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开**"
 	}
 	"***10 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒**"
 	}
 	"***Vauff: i require immediate cock and ball torture***"
 	{
