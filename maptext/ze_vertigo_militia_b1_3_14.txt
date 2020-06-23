@@ -1,79 +1,83 @@
-"Console_T"
+Console_T"
 {
 	"** Map by kune **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：kune 地图翻译：清新的二哈? **"
 	}
 	"** Original map by Chris Auty and Andrew Aumann**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图原创作者：Chris Auty&Andrew Aumann **"
 	}
 	"** 30 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒 **"
 	}
 	"** 25 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒 **"
 	}
 	"** 15 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒 **"
 	}
 	"** 20 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒 **"
 	}
 	"** Hold here **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里 **"
 	}
 	"** Get to the chopper **"
 	{
-		"chi"		"** **"
+		"chi"		"**快上直升机 **"
 	}
 	"** 25 seconds left *"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒 **"
 	}
 	"** Get on the elevator **"
 	{
-		"chi"		"** **"
+		"chi"		"**快上电梯 **"
 	}
 	"** 5 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"** 4 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**4秒 **"
 	}
 	"** 3 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒 **"
 	}
 	"** 2 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**2秒 **"
 	}
 	"** 1 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**1秒 **"
 	}
 	"** 10 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒 **"
 	}
 	"** 9 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**9秒 **"
 	}
 	"** 8 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**8秒 **"
 	}
 	"** 7 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**7秒 **"
+	}
+	"** FAILED **"
+	{
+		"chi"		"**人类失败 **"
 	}
 }
