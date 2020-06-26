@@ -18,7 +18,7 @@
 	}
 	">>> STAGE 2 : TERMINAL MODE <<<"
 	{
-		"chi"		">>>第二关:航站楼<<<"
+		"chi"		">>>第二关:联结<<<"
 	}
 	">>> STAGE 3 : TEMPLE MODE <<<"
 	{
@@ -34,7 +34,7 @@
 	}
 	">>> STAGE 5 : TERMINAL MODE <<<"
 	{
-		"chi"		">>>第五关:航站楼<<<"
+		"chi"		">>>第五关:联结<<<"
 	}
 	">>> STAGE 6 : TEMPLE MODE <<<"
 	{
@@ -114,27 +114,27 @@
 	}
 	">>> ADMIN CHANGED TO STAGE 1 <<<"
 	{
-		"chi"		">>>管理员已更改为阶段1<<<"
+		"chi"		">>>管理员已更改为第一关<<<"
 	}
 	">>> ADMIN CHANGED TO STAGE 4 <<<"
 	{
-		"chi"		">>>管理员更改为第4阶段<<<"
+		"chi"		">>>管理员更改为第四关<<<"
 	}
 	">>> ADMIN CHANGED TO STAGE 2 <<<"
 	{
-		"chi"		">>>管理员更改为第2阶段<<<"
+		"chi"		">>>管理员更改为第二关<<<"
 	}
 	">>> ADMIN CHANGED TO STAGE 5 <<<"
 	{
-		"chi"		">>>管理员更改为第5阶段<<<"
+		"chi"		">>>管理员更改为第五关<<<"
 	}
 	">>> ADMIN CHANGED TO STAGE 3 <<<"
 	{
-		"chi"		">>>管理员更改为第3阶段<<<"
+		"chi"		">>>管理员更改为第三关<<<"
 	}
 	">>> ADMIN CHANGED TO STAGE 6 <<<"
 	{
-		"chi"		">>>管理员更改为第6阶段<<<"
+		"chi"		">>>管理员更改为第六关<<<"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
@@ -147,6 +147,7 @@
 	">>> AFK TELEPORT IN 10 SECONDS <<<"
 	{
 		"chi"		">>>10秒后AFK传送<<<"
+		"DoorCountdown"		"-1"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
@@ -154,7 +155,7 @@
 	}
 	">>> SHORT CUT FENCE BREAK IN 10 SECONDS <<<"
 	{
-		"chi"		">>>10秒后突破围栏<<<"
+		"chi"		">>>10秒后近路开放<<<"
 	}
 	">>> AIRCRAFT IS COMING <<<"
 	{
