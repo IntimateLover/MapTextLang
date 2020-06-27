@@ -401,6 +401,7 @@
 	"<<<PUNY HUMANS!  Without the five stones, your damages are nothing but a scratch! >>>"
 	{
 		"chi"		"**愚蠢的人类!没有5个圣石，你们的伤害就和挠痒痒一样，完全没有意义!**"
+		"DoorCountDown"		"-1"
 	}
 	"<<<You should now see my full power!>>>"
 	{
