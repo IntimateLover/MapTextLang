@@ -394,4 +394,20 @@
 	{
 		"chi"		"**提示：调查台阶顶部的王座...**"
 	}
+	"<<<Formortiis has fully regained his power...>>>"
+	{
+		"chi"		"**Formortiis的能力已经完全恢复了...**"
+	}
+	"<<<PUNY HUMANS!  Without the five stones, your damages are nothing but a scratch! >>>"
+	{
+		"chi"		"**愚蠢的人类!没有5个圣石，你们的伤害就和挠痒痒一样，完全没有意义!**"
+	}
+	"<<<You should now see my full power!>>>"
+	{
+		"chi"		"**让你们见识见识我的完全体!**"
+	}
+	"<<<This shall be your ETERNAL NIGHTMARE!!>>>"
+	{
+		"chi"		"**这将是你们永恒的噩梦!!(GG,没在时限内打死BOSS）...**"
+	}
 }
