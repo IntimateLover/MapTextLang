@@ -364,4 +364,26 @@
 	{
 		"chi"		"**Formortiis治疗了自己**"
 	}
+	"<<<Main path is blocked off....go through the side path!>>>"
+	{
+		"chi"		"**主路被堵上了...从左侧的侧路走，等候35秒**"
+	}
+	"<<<Ring the three bells...>>>"
+	{
+		"chi"		"**敲响3个铃铛**"
+		"DoorCountDown"		"-1"
+	}
+	"<<<ZM Tp incoming....>>>"
+	{
+		"chi"		"**僵尸即将传送....**"
+	}
+	"<<<All three bells have been rang>>>"
+	{
+		"chi"		"**3个铃都已被敲响..**"
+		"DoorCountDown"		"-1"
+	}
+	"<<<Path will open up in a FEW seconds>>>"
+	{
+		"chi"		"**道路将于33秒后开放**"
+	}
 }
