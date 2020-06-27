@@ -306,19 +306,19 @@
 	}
 	"<<<Formortiis: Bring them to me...minions>>>"
 	{
-		"chi"		"**Formortiis: 把他们抓过来...小卒们(躲避紫球,不要被抓到哦)----5**"
+		"chi"		"**5----Formortiis: 把他们抓过来...小卒们(躲避紫球,不要被抓到哦)**"
 	}
 	"<<<Formortiis: Mortal! Do you fear your own nightmare?...>>>"
 	{
-		"chi"		"**Formortiis: 永生之力!你们在害怕自己的噩梦?..(BOSS无敌回血,不要攻击)----5**"
+		"chi"		"**5----Formortiis: 永生之力!你们在害怕自己的噩梦?..(BOSS无敌回血,不要攻击)**"
 	}
 	"<<<Formortiis: Facing the deceased ones....how interesting...>>>"
 	{
-		"chi"		"**Formortiis：面对亡者吧...多么有趣...(尸笼，还是一样不要被抓到哦)----5**"
+		"chi"		"**5----Formortiis：面对亡者吧...多么有趣...(尸笼，还是一样不要被抓到哦)**"
 	}
 	"<<<Formortiis: Burn in ferocious lightning...>>>"
 	{
-		"chi"		"**Formortiis: 在猛烈的闪电中灭亡吧....(移动起来躲避电球)----5**"
+		"chi"		"**5----Formortiis: 在猛烈的闪电中灭亡吧....(移动起来躲避电球)**"
 	}
 	"***Formortiis has changed weak point***"
 	{
