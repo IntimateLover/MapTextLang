@@ -306,19 +306,19 @@
 	}
 	"<<<Formortiis: Bring them to me...minions>>>"
 	{
-		"chi"		"**Formortiis: 把他们抓过来...小卒们(躲避紫球,不要被抓到哦)**"
+		"chi"		"**Formortiis: 把他们抓过来...小卒们(躲避紫球,不要被抓到哦)----5**"
 	}
 	"<<<Formortiis: Mortal! Do you fear your own nightmare?...>>>"
 	{
-		"chi"		"**Formortiis: 永生之力!你们在害怕自己的噩梦?..(BOSS无敌回血,不要攻击)**"
+		"chi"		"**Formortiis: 永生之力!你们在害怕自己的噩梦?..(BOSS无敌回血,不要攻击)----5**"
 	}
 	"<<<Formortiis: Facing the deceased ones....how interesting...>>>"
 	{
-		"chi"		"**Formortiis：面对亡者吧...多么有趣...(尸笼，还是一样不要被抓到哦)**"
+		"chi"		"**Formortiis：面对亡者吧...多么有趣...(尸笼，还是一样不要被抓到哦)----5**"
 	}
 	"<<<Formortiis: Burn in ferocious lightning...>>>"
 	{
-		"chi"		"**Formortiis: 在猛烈的闪电中灭亡吧....(移动起来躲避电球)**"
+		"chi"		"**Formortiis: 在猛烈的闪电中灭亡吧....(移动起来躲避电球)----5**"
 	}
 	"***Formortiis has changed weak point***"
 	{
@@ -326,15 +326,15 @@
 	}
 	"***Sword of Judgement....***"
 	{
-		"chi"		"**剑之审判...**"
+		"chi"		"**剑之审判...----5**"
 	}
 	"***Slow....***"
 	{
-		"chi"		"**减速....**"
+		"chi"		"**减速....----5**"
 	}
 	"***Mist....***"
 	{
-		"chi"		"**毒雾喷射...**"
+		"chi"		"**毒雾喷射...----5**"
 	}
 	"***You have defeated Formortiis and successfully sealed away his remaining souls***"
 	{
@@ -385,5 +385,13 @@
 	"<<<Path will open up in a FEW seconds>>>"
 	{
 		"chi"		"**道路将于33秒后开放**"
+	}
+	"<<<The Grado Castle is also empty? Something seems fishy...>>>"
+	{
+		"chi"		"**Grado城堡里面空无一人？某个东西看起来很可疑...**"
+	}
+	"<<<Hint: Investigate the throne at the top...>>>"
+	{
+		"chi"		"**提示：调查台阶顶部的王座...**"
 	}
 }
