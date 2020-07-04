@@ -1,0 +1,358 @@
+"Console_T"
+
+{
+
+	">> Teleport will be enabled in 30 seconds <<"
+
+	{
+
+		"chi"		"**传送将在30s后准备完毕**"
+
+	}
+
+	">> Teleport will be enabled in 10 seconds <<"
+
+	{
+
+		"chi"		"**传送将在10s后准备完毕**"
+
+	}
+
+	">> Madara has casted ultima <<"
+
+	{
+
+		"chi"		"**宇智波斑使用了终极（贴墙）**"
+
+	}
+
+	">> Door opens in 15 seconds <<"
+
+	{
+
+		"chi"		"**门将在15s后打开**"
+
+	}
+
+	">> Door opens in 30 seconds <<"
+
+	{
+
+		"chi"		"**门将在30s后打开**"
+
+	}
+
+	" >> Door opens in 45 seconds <<"
+
+	{
+
+		"chi"		"**门将在45s后打开**"
+
+	}
+
+	">> Destroy the Gedo Mazo statue <<"
+
+	{
+
+		"chi"		"**摧毁外道魔像**"
+
+	}
+
+	"** Madara disappear - Escape ! **"
+
+	{
+
+		"chi"		"**宇智波斑消失了，快跑**"
+
+	}
+
+	">> Cross the bridge and run to the last door ! <<"
+
+	{
+
+		"chi"		"**快穿过大桥冲向最后的门！**"
+
+	}
+
+	">> LOADING ULTIMA 20 SECONDS <<"
+
+	{
+
+		"chi"		"**木遁秘术树界降诞（终极）还要20s释放完成**"
+
+	}
+
+	">> Run to the portal under the waterfall <<"
+
+	{
+
+		"chi"		"**去瀑布下的入口**"
+
+	}
+
+	">> PLAYER HAS PICKED UP WIND <<"
+
+	{
+
+		"chi"		"**玩家拿起了风**"
+
+	}
+
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+
+	{
+
+		"chi"		"**玩家拿起了黑洞**"
+
+	}
+
+	">> PLAYER HAS PICKED UP HEAL <<"
+
+	{
+
+		"chi"		"**玩家拿起了治疗**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ELECTRO <<"
+
+	{
+
+		"chi"		"**玩家拿起了电**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ROCK <<"
+
+	{
+
+		"chi"		"**玩家拿起了岩石**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ULTIMA <<"
+
+	{
+
+		"chi"		"**一位玩家拿起了终极**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ZOMBIE FIRE <<"
+
+	{
+
+		"chi"		"**一位玩家拿起了僵尸火**"
+
+	}
+
+	">> PLAYER HAS PICKED UP FIRE <<"
+
+	{
+
+		"chi"		"**一位玩家拿起了火**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ZOMBIE WARP <<"
+
+	{
+
+		"chi"		"**一位玩家拿起了僵尸秒杀**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ZOMBIE HEAL <<"
+
+	{
+
+		"chi"		"**玩家捡起来了僵尸治疗**"
+
+	}
+
+	">> PLAYER HAS PICKED UP ZOMBIE LURE <<"
+
+	{
+
+		"chi"		"**一位玩家捡起来了僵尸黑洞**"
+
+	}
+
+	"*** Door opens in 20 seconds ***"
+
+	{
+
+		"chi"		"**还有20s门开**"
+
+	}
+
+	">> Elevator leaves in 40 seconds <<"
+
+	{
+
+		"chi"		"**40s后电梯离开**"
+
+	}
+
+	">> Doors opens in 20 seconds <<"
+
+	{
+
+		"chi"		"**20s后开门,翻译酩酊兮qwq**"
+
+	}
+
+	"*** Door opens in 20 seconds ***"
+
+	{
+
+		"chi"		"**20s后开门**"
+
+	}
+
+	">> door opens in 20 seconds <<"
+
+	{
+
+		"chi"		"**20s后开门**"
+
+	}
+
+	">> door opens in 5 seconds <<"
+
+	{
+
+		"chi"		"**5s后开门**"
+
+	}
+
+	">> Press the three levers to open the door <<"
+
+	{
+
+		"chi"		"**按下三个操纵杆打开门**"
+
+	}
+
+	">> Rock will explode in 10 seconds <<"
+
+	{
+
+		"chi"		"**10s后岩石爆炸**"
+
+	}
+
+	">> Defend until the particle reaches the shield <<"
+
+	{
+
+		"chi"		"**在粒子到达护盾前守住这里**"
+
+	}
+
+	">> Second door will open soon <<"
+
+	{
+
+		"chi"		"**第二扇门马上就会打开**"
+
+	}
+
+	">> Teleport will be enabled in 30 seconds <<"
+
+	{
+
+		"chi"		"**30s后完全传送**"
+
+	}
+
+	">> Door opens in 10 seconds <<"
+
+	{
+
+		"chi"		"**10s后开门**"
+
+	}
+
+	">> Fall back now <<"
+
+	{
+
+		"chi"		"**快跑，撤退！**"
+
+	}
+
+	">> Door opens in 10 seconds <<"
+
+	{
+
+		"chi"		"**10s后开门**"
+
+	}
+
+	">> Door will close soon ! <<"
+
+	{
+
+		"chi"		"**门马上就开了！**"
+
+	}
+
+	">> Door opens soon <<"
+
+	{
+
+		"chi"		"**门马上就开了**"
+
+	}
+
+	">> Final door opens in 20 seconds <<"
+
+	{
+
+		"chi"		"**最后的大门还有20s打开**"
+
+	}
+
+	">> Zombies will teleport soon <<"
+
+	{
+
+		"chi"		"**僵尸马上就传送了**"
+
+	}
+
+	">> Try to find the elevator button <<"
+
+	{
+
+		"chi"		"**去找一下电梯开关**"
+
+	}
+
+	">> Congratulation you won the map <<"
+
+	{
+
+		"chi"		"**恭喜你赢了**"
+
+	}
+
+	">> Touch the blue particle to disable the portal <<"
+
+	{
+
+		"chi"		"**触摸蓝色粒子打开入口**"
+
+	}
+
+	">> Find the blue particle to disable the shield <<"
+
+	{
+
+		"chi"		"**找到蓝色粒子使屏障消失**"
+
+	}
+
+
+}
