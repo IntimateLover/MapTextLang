@@ -11,6 +11,7 @@ Console_T"
 	** Break 4 switches **
 	{
 		"chi"		** 破坏4个水晶用以打开传送门 **
+		"DoorCountDown"		"4"
 	}
         ** 35s rear axle appears **
 	{
@@ -91,6 +92,7 @@ Console_T"
         **Freeze enemies around 6 seconds after release**
 	{
 		"chi"		** 冰封（延迟6秒后冻结周围人类） **
+		"DoorCountDown"		"-1"
 	}
         **Release the Son of Death from the Void and rush towards the target**
 	{
