@@ -177,10 +177,12 @@
 	"** Shadow of Evil **"
 	{
 		"chi"	"** 邪恶之影 **"
+		"DoorCountDown"		"4"
 	}
 	"** Great Earthquake **"
 	{
 		"chi"	"** 大地震击 **"
+		"DoorCountDown"		"4"
 	}
 	"** 45 **"
 	{
@@ -189,14 +191,17 @@
 	"** Sky Roar **"
 	{
 		"chi"	"** 天空咆哮 **"
+		"DoorCountDown"		"4"
 	}
 	"** Fire Field **"
 	{
 		"chi"	"** 大火弥漫 **"
+		"DoorCountDown"		"4"
 	}
 	"** Lava Rise **"
 	{
 		"chi"	"** 熔岩上升 **"
+		"DoorCountDown"		"4"
 	}
 	"** Teleport after 30s **"
 	{
@@ -205,6 +210,7 @@
 	"** Flame Emission **"
 	{
 		"chi"	"** 火焰放射 **"
+		"DoorCountDown"		"4"
 	}
 	"** 30 **"
 	{
@@ -229,10 +235,12 @@
 	"** Corpse Cage **"
 	{
 		"chi"	"** 尸笼 **"
+		"DoorCountDown"		"4"
 	}
 	"** Saint **"
 	{
 		"chi"	"** 圣之刃 **"
+		"DoorCountDown"		"4"
 	}
 	"** The door opens after 3s **"
 	{
@@ -241,18 +249,22 @@
 	"** Holy Spirit Suction **"
 	{
 		"chi"	"** 圣灵吸力 **"
+		"DoorCountDown"		"4"
 	}
 	"** Light Barrage **"
 	{
 		"chi"	"** 圣光放射 **"
+		"DoorCountDown"		"4"
 	}
 	"** Holy phosgene **"
 	{
 		"chi"	"** 圣灵推力 **"
+		"DoorCountDown"		"4"
 	}
 	"** Holy Wall **"
 	{
 		"chi"	"** 圣墙 **"
+		"DoorCountDown"		"4"
 	}	
 	"** 20s rear axle disconnected **"		
 	{
