@@ -590,6 +590,7 @@
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**[板子]一号电车将在20秒后离开**"
+		"DoorCountdown"		"-1"
 	}
 	"***TRAM 1 IS LEAVING***"
 	{
@@ -598,14 +599,17 @@
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
 		"chi"		"**[板子]二号电车将在10秒后离开**"
+		"DoorCountdown"		"-1"
 	}
 	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
 	{
 		"chi"		"**板子路铁门将在40秒打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**板子路铁门将在5秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***INNER UPPER GATE IS OPENING***"
 	{
@@ -614,10 +618,12 @@
 	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**鹦鹉路电梯将在20秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**鹦鹉路电梯将在5秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***LOWER ELEVATOR IS LEAVING***"
 	{
@@ -626,22 +632,26 @@
 	"***LOWER GATE IS OPENING IN 35 SECONDS***"
 	{
 		"chi"		"**鹦鹉路铁门将在35秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***LOWER GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**鹦鹉路铁门将在5秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***LOWER GATE IS OPENING***"
 	{
-		"chi"		"**鹦鹉路[下城墙]铁门已打开**"
+		"chi"		"**[下城墙]铁门已打开**"
 	}
 	"***OUTER GATE IS OPENING IN 50 SECONDS***"
 	{
 		"chi"		"**狮子路铁门将在50秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***OUTER GATE IS OPENING IN 10 SECONDS***"
 	{
 		"chi"		"**狮子路铁门将在10秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***OUTER GATE IS OPENING***"
 	{
@@ -650,10 +660,12 @@
 	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
 	{
 		"chi"		"**狮子路电梯将在40秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**狮子路电梯将在5秒后启动**"
+		"DoorCountdown"		"-1"
 	}
 	"***OUTER ELEVATOR IS LEAVING***"
 	{
@@ -662,10 +674,12 @@
 	"***CENTER GATE IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**中间路铁门将在30秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***CENTER GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**中间路铁门将在5秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***CENTER GATE IS OPENING***"
 	{
@@ -674,10 +688,12 @@
 	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**中间路电梯井门将在30秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**中间路电梯井门将在5秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING***"
 	{
