@@ -182,6 +182,7 @@
 	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
 		"chi"		"**左侧电梯10s内离开**"
+		"DoorCountdown"		"-1"
 	}
 	"***LEFT PRIMAL ELEVATOR IS LEAVING***"
 	{
@@ -258,6 +259,7 @@
 	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
 	{
 		"chi"		"**右侧电梯10s内离开**"
+		"DoorCountdown"		"-1"
 	}
 	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
 	{
@@ -270,7 +272,7 @@
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
 		"chi"		"**右边的墙将会在20s内打开**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"-1"
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
 	{
@@ -904,7 +906,7 @@
 	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
 	{
 		"chi"		"**墙将要在30s内打开**"
-		"DoorCountdown"		"30"
+		"DoorCountdown"		"-1"
 	}
 	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
 	{
