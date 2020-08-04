@@ -67,18 +67,15 @@
 	}
 	"< SandMoster has casted Quicksand >"
 	{
-		"chi"		"**沙怪使用了流沙(注意脚底躲避伤害) **"
-		"DoorCountdown"		"3"
+		"chi"		"**5---沙怪使用了流沙(注意脚底躲避伤害) **"
 	}
 	"< SandMonster has casted Sandstorm >"
 	{
-		"chi"		"**沙怪使用了沙尘暴(全屏伤害) **"
-		"DoorCountdown"		"5"
+		"chi"		"**5---沙怪使用了沙尘暴(全屏伤害) **"
 	}
 	"< SandMonster has casted Wind >"
 	{
-		"chi"		"**沙怪使用了狂风(按住W抵抗) **"
-		"DoorCountdown"		"6"
+		"chi"		"**5---沙怪使用了狂风(按住W抵抗) **"
 	}
 	"< SandMonster has been defeated,get back to Rabanastre >"
 	{
@@ -107,12 +104,11 @@
 	}
 	"< SandMonster has casted Shock >"
 	{
-		"chi"		"**沙怪使用了震动(注意前方躲避伤害) **"
+		"chi"		"**5---沙怪使用了震动(注意前方躲避伤害) **"
 	}
 	"< SandMonster has casted Gravity >"
 	{
-		"chi"		"**沙怪使用了黑洞(按住S抵抗) **"
-		"DoorCountdown"		"5"
+		"chi"		"**5---沙怪使用了黑洞(按住S抵抗) **"
 	}
 	"< You have defeated Hard mode!Congratulations! >"
 	{
@@ -159,11 +155,11 @@
 	}
 	"< Zeromus has casted Shock >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了震动(离开中间区域) **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了震动(离开中间区域) **"
 	}
 	"< Zeromus has casted Fire >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了地火(注意脚底) **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了地火(注意脚底) **"
 	}
 	"< A player has acquired Scathe Magick >"
 	{
@@ -191,8 +187,7 @@
 	}
 	"< Zeromus has casted Aero >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了狂风(朝中间按W抵抗) **"
-		"DoorCountdown"		"7"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了狂风(朝中间按W抵抗) **"
 	}
 	"< Zeromus has been defeated...Let's get out of the arena >"
 	{
@@ -200,46 +195,39 @@
 	}
 	"< Zeromus has casted Posionrain >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了剧毒(跳起来减少伤害) **"
-		"DoorCountdown"		"6"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了剧毒(跳起来减少伤害) **"
 	}
 	"< Zeromus has casted DarkPower!Go to the sunshine in the middle of the arena >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了黑暗力量！到竞技场中央的阳光下去！ **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了黑暗力量！到竞技场中央的阳光下去！ **"
 	}
 	"< Zeromus has casted Gravity >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了黑洞(按住S别撞BOSS) **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了黑洞(按住S别撞BOSS) **"
 	}
 	"< Zeromus has casted Holy >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了神圣(蹲下) **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了神圣(蹲下) **"
 	}
 	"< Zeroms used Reverse to himself >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯保护了他自己(别开枪！！！) **"
-		"DoorCountdown"		"6"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯保护了他自己(别开枪！！！) **"
 	}
 	"< Zeromus has casted Reverse >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了逆转(别开治疗！！！) **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了逆转(别开治疗！！！) **"
 	}
 	"< Zeromus has casted Thunder >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了雷电(注意脚底) **"
-		"DoorCountdown"		"4"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了雷电(注意脚底) **"
 	}
 	"< Zeromus has casted Ice >"
 	{
-		"chi"		"**巨蟹座：断罪之暴君扎罗姆斯使用了寒冰(定身10秒,平台最外圈躲避) **"
+		"chi"		"**5---巨蟹座：断罪之暴君扎罗姆斯使用了寒冰(定身十秒,平台最外圈躲避) **"
 	}
 	"< The Lowtown gate will open in 15 seconds >"
 	{
 		"chi"		"**拉巴纳斯塔王都地下区的大门将在15秒后打开 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"83580"
 	}
 	"< Zeromus has been defeated...Lets get out of the arena >"
 	{
@@ -274,7 +262,7 @@
 	}
 	"< Boss fight start in 10 seconds... >"
 	{
-		"chi"		"**Boss战将在10秒后开始... **"
+		"chi"		"**10秒后Boss战开始... **"
 	}
 	"< You have defeated Trial mode!Congratulations! >"
 	{
