@@ -147,7 +147,7 @@
 	}
 	"**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**"
 	{
-		"chi"		"**部分神器能对BOSS造成伤害(火、电、毒、终极)----5**"
+		"chi"		"**5---部分神器能对BOSS造成伤害(火、电、毒、终极)**"
 	}
 	"**Gi Nattak is using wind**"
 	{
@@ -330,7 +330,7 @@
 	}
 	"**Get on the rocks to get saved!!!**"
 	{
-		"chi"		"**5---快跑到突起的石头上!**"
+		"chi"		"**10---基纳塔克使用了熔岩上升,快跑到突起的石头上!**"
 	}
 	"[Genesis] Huh.. Did not think that you will survive.."
 	{
