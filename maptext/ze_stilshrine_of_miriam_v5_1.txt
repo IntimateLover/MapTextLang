@@ -1,0 +1,196 @@
+"Console_T"
+{
+	"**Stilshrine of Miriam**"
+	{
+		"chi"		"**最终幻想12：米利暗遗迹**"
+		"DoorCountdown"		"-1"
+	}
+	"**Map by Malgo**"
+	{
+		"chi"		"**地图制作：Malgo  翻译：Misaka**"
+	}
+	"**Teleport to Miriam will enable in 15 seconds!**"
+	{
+		"chi"		"**15秒后传送到米利暗遗迹**"
+	}
+	"**The Stilshrine of Miriam will open in 15 seconds**"
+	{
+		"chi"		"**米利暗遗迹将在15秒后打开**"
+	}
+	"**Welcome to Stilshrine of Miriam!**"
+	{
+		"chi"		"**欢迎来到米利暗遗迹！**"
+	}
+	"**A player has picked up Wind Magick**"
+	{
+		"chi"		"**一名玩家拾取了风魔法**"
+	}
+	"**A player has picked up Haste Magick**"
+	{
+		"chi"		"**一名玩家拾取了加速魔法**"
+	}
+	"**A player has picked up Cure Magick**"
+	{
+		"chi"		"**一名玩家拾取了治疗魔法**"
+	}
+	"**A player has picked up Flame Magick**"
+	{
+		"chi"		"**一名玩家拾取了火魔法**"
+	}
+	"**A player has picked up Darkga Magick **"
+	{
+		"chi"		"**一名玩家拾取了黑洞魔法**"
+	}
+	"**A player has picked up Oil Magick**"
+	{
+		"chi"		"**一名玩家拾取了油魔法**"
+	}
+	"**A player has picked up Blizzard Magick**"
+	{
+		"chi"		"**一名玩家拾取了冰魔法**"
+	}
+	"**A player has picked up Phoenix down**"
+	{
+		"chi"		"**一名玩家拾取了不死鸟之尾**"
+	}
+	"**A player has picked up Thunder Magick**"
+	{
+		"chi"		"**一名玩家拾取了电魔法**"
+	}
+	"**A player has picked up Earth Magick**"
+	{
+		"chi"		"**一名玩家拾取了土魔法**"
+	}
+	"**A player has picked up Poison Magick**"
+	{
+		"chi"		"**一名玩家拾取了毒魔法**"
+	}
+	"**Hold for 20 seconds**"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"Hold for 20 seconds**"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"**Defend until the way opens**"
+	{
+		"chi"		"**在门打开前继续防守**"
+	}
+	"**Hold this area for 15 seconds**"
+	{
+		"chi"		"**防守这里15秒**"
+	}
+	"**The Gate will open in 15 seconds!**"
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
+	"**Find and activate Teleport Lantern!**"
+	{
+		"chi"		"**找到并激活传送灯！**"
+	}
+	"**Lantern has been activated!**"
+	{
+		"chi"		"**传送灯被激活了！**"
+	}
+	"**The Teleport will enable in 25 seconds**"
+	{
+		"chi"		"**传送将在25秒后激活**"
+	}
+	"**Next room will open in 20 seconds**"
+	{
+		"chi"		"**下一个屋子将在20秒后打开**"
+	}
+	"**Teleport Lantern has been activated!**"
+	{
+		"chi"		"**传送灯被激活了！**"
+	}
+	"**The Way will open in 15 seconds**"
+	{
+		"chi"		"**路将在15秒后打开**"
+	}
+	"**Hold for 10 seconds**"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"**The Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**传送将在20秒后激活**"
+	}
+	"**Some of the items can affect him. Use them!**"
+	{
+		"chi"		"**一些神器会对其造成伤害，使用之！**"
+	}
+	"**Nades do more damage**"
+	{
+		"chi"		"**手雷会造成更多的伤害**"
+	}
+	"**Vyraal is using Poison Magic**"
+	{
+		"chi"		"**威拉尔正在使用毒魔法**"
+	}
+	"**Vyraal is using Poison**"
+	{
+		"chi"		"**威拉尔正在使用毒**"
+	}
+	"**Vyraal is using Knockback Wings**"
+	{
+		"chi"		"**威拉尔正在使用击退之翼**"
+	}
+	"**Vyraal is using Heal Magic**"
+	{
+		"chi"		"**威拉尔正在使用治疗魔法**"
+	}
+	"**Vyraal is using Ice Magic**"
+	{
+		"chi"		"**威拉尔正在使用冰魔法**"
+	}
+	"**Vyraal is using Confuse Magic**"
+	{
+		"chi"		"**威拉尔正在使用混乱魔法**"
+	}
+	"**Vyraal is using Fireball Magic**"
+	{
+		"chi"		"**威拉尔正在使用火球魔法**"
+	}
+	"**Vyraal is using Light Magick**"
+	{
+		"chi"		"**威拉尔正在使用终极魔法**"
+	}
+	"**Vyraal is using Earth Magick**"
+	{
+		"chi"		"**威拉尔正在使用大地魔法**"
+	}
+	"**Vyraal is using Dark Magic**"
+	{
+		"chi"		"**威拉尔正在使用暗魔法**"
+	}
+	"**Vyraal is using Sonic Fang**"
+	{
+		"chi"		"**威拉尔正在使用音速之牙**"
+	}
+	"**Vyraal is using Flame Magick**"
+	{
+		"chi"		"**威拉尔正在使用火魔法**"
+	}
+	"**Vyraal is using Tornado Magick**"
+	{
+		"chi"		"**威拉尔正在使用飓风魔法**"
+	}
+	"**Vyraal vanquished, keep running!**"
+	{
+		"chi"		"**威拉尔战败了！前进！**"
+	}
+	"**Its last hold, defend here for 28 seconds**"
+	{
+		"chi"		"**最后防守28秒!**"
+	}
+	"**HARD mode was beaten. Unlocking EXTREME mode **"
+	{
+		"chi"		"**您通过了困难难度！解锁极限难度**"
+	}
+	"**Zombie detected, you lose!**"
+	{
+		"chi"		"**僵尸到达了，请重新来过！**"
+	}
+}
