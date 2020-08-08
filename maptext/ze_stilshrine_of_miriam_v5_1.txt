@@ -354,6 +354,10 @@
 	{
 		"chi"		"**防守这里25秒**"
 	}
+	"**Some of the items can affect Bergan. Use them!**"
+	{
+		"chi"		"**一些神器会对其造成伤害，使用之！**"
+	}
 	"**Bergan is using Blizzard Magick!**"
 	{
 		"chi"		"**5---贝甘正在使用暴风雪魔法**全屏伤害**"
@@ -418,7 +422,7 @@
 	{
 		"chi"		"**5---贝甘召唤了熔岩核心---移动躲避脚底火焰四次**"
 	}
-	"**Bergan is using Vampire Magick!***"
+	"**Bergan is using Vampire Magick!**"
 	{
 		"chi"		"**5---贝甘正在使用吸血魔法(其实BOSS没加血)---远离BOSS**"
 	}
