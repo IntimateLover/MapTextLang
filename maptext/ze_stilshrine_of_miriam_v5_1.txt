@@ -438,4 +438,8 @@
 	{
 		"chi"		"**大门将在35秒后打开**"
 	}
+	"**ULTIMA mode was beaten. You won the map! **"
+	{
+		"chi"		"**您通过了终极难度！恭喜，本地图通关**"
+	}
 }
