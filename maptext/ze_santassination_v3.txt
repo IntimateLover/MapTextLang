@@ -44,7 +44,7 @@
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
-		"chi"		"**雪墙将会在5s后碎掉**"
+		"chi"		"**吊桥将在5秒后下降**"
 	}
 	"***DRAWBRIDGE IS DRAWING***"
 	{
@@ -57,11 +57,12 @@
 	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**防爆门将会在20s内打开（里面有河狸）**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"-1"
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
 		"chi"		"**防爆门将会在15s内打开（里面有河狸）**"
+		"DoorCountdown"		"-1"
 	}
 	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
 	{
@@ -575,7 +576,7 @@
 	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
 	{
 		"chi"		"**防爆门40s内打开**"
-		"DoorCountdown"		"40"
+		"DoorCountdown"		"-1"
 	}
 	"***SEWER BLASTDOOR IS OPENING***"
 	{
