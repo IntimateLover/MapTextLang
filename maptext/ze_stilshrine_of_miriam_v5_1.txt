@@ -219,7 +219,7 @@
 	}
 	"**Some of the items can affect Matues. Use them!**"
 	{
-		"chi"		"**一些神器会对其造成伤害，使用之！**"
+		"chi"		"**5----一些神器会对其造成伤害，使用之(不要使用冰，会给BOSS加一百HP）！**"
 	}
 	"**Mateus is using Strong Ice Strike**"
 	{
@@ -357,6 +357,10 @@
 	"**Some of the items can affect Bergan. Use them!**"
 	{
 		"chi"		"**一些神器会对其造成伤害，使用之！**"
+	}
+	"**Bergan is using Thunder Magick!**"
+	{
+		"chi"		"**5---贝甘正在使用电魔法**"
 	}
 	"**Bergan is using Blizzard Magick!**"
 	{
