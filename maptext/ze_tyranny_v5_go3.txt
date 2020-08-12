@@ -584,7 +584,7 @@
 	}
 	">>> ADMIN CHANGED TO STAGE 4 <<<"
 	{
-		"chi"		"*管理员将关卡调至第四关**"
+		"chi"		"*管理员将关卡调至第四关了**"
 	}
 	">>> GARGANTUA USED GRAVITY <<<"
 	{
@@ -609,12 +609,5 @@
 	">>> ADMIN CHANGED TO STAGE 6 <<<"
 	{
 		"chi"		">>>管理员将关卡设置为了第六关<<<"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_armor_limit 2"
-		}
 	}
 }
