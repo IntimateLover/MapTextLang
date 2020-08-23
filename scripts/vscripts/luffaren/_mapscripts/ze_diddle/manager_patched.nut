@@ -3,7 +3,7 @@
 // (PUT THIS IN: csgo/scripts/vscripts/luffaren/_mapscripts/ze_diddle/)
 //
 //  Patched version intended for use with GFL ze_diddle_v3 stripper, included in the release
-//  Adds "Diddle Extreme", where you must beat everything in a single round (with some help/items) # trigger push4
+//  Adds "Diddle Extreme", where you must beat everything in a single round (with some help/items) # trigger push5
 //===================================\\
 
 coins_max <- 250;
