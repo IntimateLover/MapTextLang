@@ -68,6 +68,6 @@
 #trigger update11
 test for web hook triggercleanup
 #push trigger update p 2
-triggercleanup 最后维护
+triggercleanup triggercleanup 最后维护
     2020年07月11日19.18
     
