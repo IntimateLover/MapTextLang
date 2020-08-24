@@ -28,7 +28,7 @@ function Map_Stage_Text_Change_2()
 
 function Secret_Hudhint_Change_1()
 {
-		if （Map_HudHint != null)
+		if （Secret_Hudhint != null)
 		{
 			Secret_Hudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n收集500金\n通过搜寻路上的宝箱\n或者通过摧毁水晶塔\n\n=> 任务奖励 - 第二章有药水提供");
 		}
@@ -36,7 +36,7 @@ function Secret_Hudhint_Change_1()
 
 function Secret_Hudhint_Change_2()
 {
-		if （Map_HudHint != null)
+		if （Secret_Hudhint != null)
 		{
 			Secret_Hudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n摧毁所有的敌方水晶塔\n通过破坏塔顶部的水晶\n\n=> 任务奖励 - 第二章有药水提供");
 		}
