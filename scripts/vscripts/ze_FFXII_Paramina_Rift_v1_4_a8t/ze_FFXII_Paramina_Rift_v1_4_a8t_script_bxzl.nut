@@ -46,3 +46,4 @@ function Say_ScriptDate()
 {
     EntFire("Cmd","Command","say script by bxzl on 2020.08.24",0.00,null);
 }
+//repush
