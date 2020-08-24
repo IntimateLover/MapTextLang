@@ -2,130 +2,130 @@
 {
 	"> Team HP lvl 0 <"
 	{
-		"chi"		"** **"
+		"chi"		"**团队血量上限等级0**"
 	}
 	"> Heal Item lvl 0 <"
 	{
-		"chi"		"** **"
+		"chi"		"**治疗神器限等级0**"
 	}
 	"> Ammo Item lvl 0 <"
 	{
-		"chi"		"** **"
+		"chi"		"**弹药神器等级0**"
 	}
 	"> Sword Item lvl 0 <"
 	{
-		"chi"		"** **"
+		"chi"		"**宝剑神器等级0**"
 	}
 	"> Bow Item lvl 0 <"
 	{
-		"chi"		"** **"
+		"chi"		"**弓箭神器等级0**"
 	}
 	"> Axe Item lvl 0 <"
 	{
-		"chi"		"** **"
+		"chi"		"**斧头神器等级0**"
 	}
 	"** GAME OF THRONES - The North **"
 	{
-		"chi"		"** **"
+		"chi"		"**权力的游戏：北境**"
 	}
 	"** MAP BY SLAYERDRAGON & NOCTALI **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：SLAYERDRAGON & NOCTALI 地图翻译：PhantomAI**"
 	}
 	"** STARTING CHAPTER **"
 	{
-		"chi"		"** **"
+		"chi"		"**开始章节**"
 	}
 	"** [STAGE 1 - THE WALL] **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一章：城墙**"
 	}
 	"** THE GATE OF THE WALL IS CLOSING **"
 	{
-		"chi"		"** **"
+		"chi"		"**城墙大门即将关闭**"
 	}
 	"** THE WALL HAS BEEN BREACHED - FALL BACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**城墙已被敌人突破，撤退！**"
 	}
 	"** ZM BOTTOM TELEPORT ENABLED **"
 	{
-		"chi"		"** **"
+		"chi"		"**底部僵尸传送已被激活**"
 	}
 	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在5秒内离开**"
 	}
 	"** HOLD THE COURTYARD **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个庭院！**"
 	}
 	"** ESCAPE VIA THE CASTLE **"
 	{
-		"chi"		"** **"
+		"chi"		"**快从城堡内撤退！**"
 	}
 	"** Hold 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒**"
 	}
 	"** HOLD 5 MORE SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**再守5秒左右**"
 	}
 	"** HOLD TILL THIS DOOR BREAKS **"
 	{
-		"chi"		"** **"
+		"chi"		"**等到这扇门被破坏为止**"
 	}
 	"** DEFEND TILL THE GATE OPENS **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守至大门打开**"
 	}
 	"** THE GATE OPENS IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有5秒打开**"
 	}
 	"** [STAGE 2 - WINTERFELL] **"
 	{
-		"chi"		"** **"
+		"chi"		"**第二章：临冬城**"
 	}
 	"** MAIN GATE opens soon **"
 	{
-		"chi"		"** **"
+		"chi"		"**中门很快就会打开了**"
 	}
 	"** OPENING THE GATES **"
 	{
-		"chi"		"** **"
+		"chi"		"**中门开启！**"
 	}
 	"** THE GATES SHOULD BE OPENING SOON **"
 	{
-		"chi"		"** **"
+		"chi"		"**这扇大门应该很快就打开了**"
 	}
 	"** GATES ARE OPENING - LETS GO **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开了，快走！**"
 	}
 	"** MAIN GATE OPENS IN 10 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒内打开**"
 	}
 	"** WEST GATE opens in 5 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**西门将在5秒内打开**"
 	}
 	"** BREAK THE BARRICADES to open TOWN GATE **"
 	{
-		"chi"		"** **"
+		"chi"		"**清除路障并且打开城门**"
 	}
 	"** TOWN GATE opens in 5 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**城门还有5秒打开**"
 	}
 	"** FOLLOW THE DRAGON INTO THE GARDEN **"
 	{
-		"chi"		"** **"
+		"chi"		"**快跟着巨龙，进去花园内防守**"
 	}
 	"** ESCAPE WINTERFELL VIA THE GARDEN **"
 	{
-		"chi"		"** **"
+		"chi"		"**快从花园逃离临冬城！！！**"
 	}
 }
