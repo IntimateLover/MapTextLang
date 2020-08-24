@@ -2,7 +2,7 @@
 {
 	"***Map made by W...***"
 	{
-		"chi"		"**Map made by W**"
+		"chi"		"**Map made by W,翻译:神々が恋した幻想郷**"
 	}
 	"***PLATFORM WILL RISE IN 30s***"
 	{
@@ -102,21 +102,21 @@
 	}
 	"***3***"
 	{
-		"chi"		"** **"
-		"DoorCountdown"		"-1"
+		"chi"		"**3 **"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"**2 **"
 		"DoorCountdown"		"-1"
 	}
 	"***1***"
 	{
-		"chi"		"** **"
+		"chi"		"**1 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Dont Trust The White Lasers***"
 	{
-		"chi"		"*****不要相信白色的激光*****"
+		"chi"		"*****不要相信白色的激光(躲黑刀,撞白刀)*****"
 	}
 	"***Lasers Incoming***"
 	{
@@ -124,7 +124,7 @@
 	}
 	"***CONGRATS!!!***"
 	{
-		"chi"		"**恭喜方块精英**"
+		"chi"		"**恭喜通关!!!**"
 	}
 	"***Trigger Left & Right Platforms***"
 	{
@@ -136,7 +136,7 @@
 	}
 	"***Survive 25s more***"
 	{
-		"chi"		"**生存多25秒**"
+		"chi"		"**想办法多存活25秒**"
 	}
 	"***Teleport Active In 25s***"
 	{
@@ -234,47 +234,24 @@
 	{
 		"chi"		"**路在20秒后打开**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"1"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_cash #447 50000"
-		}
-	}
-	"sync_version"
-	{
-		"syncvalue"		"97531"
-	}
 	"***AFK TELEPORT IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后触发AFK玩家传送 **"
 	}
 	"***Hold For 35s***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守35秒 **"
 	}
 	"***60s left to trigger towers***"
 	{
-		"chi"		"** **"
+		"chi"		"**在60秒结束前触发两座高塔并防守僵尸 **"
 	}
 	"***Round Failed: Zombie Reached The Top***"
 	{
-		"chi"		"** **"
+		"chi"		"**回合失败:僵尸到达了顶部 **"
 	}
 	"***5s left to trigger towers***"
 	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒触发两座高塔 **"
 	}
 }
