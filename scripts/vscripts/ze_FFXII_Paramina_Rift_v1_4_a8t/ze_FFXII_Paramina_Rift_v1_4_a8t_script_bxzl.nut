@@ -1,6 +1,6 @@
-Map_Stage_Text <- Entities.FindByName(null,"Map_Stage_Text");
-Secret_Hudhint <- Entities.FindByName(null,"Secret_Hudhint");
-Map_HudHint <- Entities.FindByName(null,"Map_HudHint");
+MapStageText <- Entities.FindByName(null,"Map_Stage_Text");
+SecretHudhint <- Entities.FindByName(null,"Secret_Hudhint");
+MapHudHint <- Entities.FindByName(null,"Map_HudHint");
 
 Wind_Level <- " ";
 Poison_Level <- " ";
@@ -11,50 +11,18 @@ side_quest <- " ";
 TREASURE_NUM <- 0;
 TOWER_NUM <- 0;
 All_Count <- 0;
+flag1 <- false;
+flag2 <- false;
+flag3 <- false;
+flag4 <- false;
+flag5 <- false;
 
-function Map_HudHint_Change()
-{
-		if(Map_HudHint != null)
-		{
-			Map_HudHint.__KeyValueFromString("message", "最终幻想12:帕拉米亚\n---------------------------\n地图作者:Slayerdragon\n和h4sArD/Noctali\n模型:K.\n感谢:\n- Cuniczek\n- d'Maniak\n- JorisCeoen\n- Sgt. zaCade\n- LaStation\n- George\n- Lev\n- Schicksal");
-		}
-}
+bxzltext <- Entities.FindByName(null,"bxzl_text");
 
-function Map_Stage_Text_Change_1()
-{
-		if(Map_Stage_Text != null)
-		{
-			Map_Stage_Text.__KeyValueFromString("message", "第一章 - 找到一条通过帕拉米亚大峡谷的道路\n并找到米利亚姆神庙");
-		}
-}
-
-function Map_Stage_Text_Change_2()
-{
-		if(Map_Stage_Text != null)
-		{
-			Map_Stage_Text.__KeyValueFromString("message", "第二章 - 找到隐藏的宝藏并在米利亚姆神庙中\n击败玛提乌斯");
-		}
-}
-
-function Secret_Hudhint_Change_1()
-{
-		if(Secret_Hudhint != null)
-		{
-			Secret_Hudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n收集500金\n通过搜寻路上的宝箱\n或者通过摧毁水晶塔\n\n=> 任务奖励 - 第二章有药水提供");
-		}
-}
-
-function Secret_Hudhint_Change_2()
-{
-		if(Secret_Hudhint != null)
-		{
-			Secret_Hudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n摧毁所有的敌方水晶塔\n通过破坏塔顶部的水晶\n\n=> 任务奖励 - 第二章有药水提供");
-		}
-}
 
 function Say_ScriptDate()
 {
-		EntFire("Cmd","Command","say script by bxzl on 2020.08.24",0.00,null);
+		EntFire("Cmd","Command","say script by bxzl on 2020.08.27",0.00,null);
 }
 
 function Sidequest(stg,count)
@@ -177,11 +145,135 @@ function GetLevel(item,level)
 		}
 }
 
-function text_show()
+function Map_HudHint_Change()
 {
-		if( (Wind_Level != " ") || (Poison_Level != " ") || (Fire_Level != " ") || (Heal_Level != " ") || (Ice_Level != " ") || (side_quest != " ") )
+		if( (MapHudHint != null) && (MapHudHint.GetClassname() == "game_text") )
 		{
-			EntFire("bxzl_text","SetText",Wind_Level+"\n"+Poison_Level+"\n"+Fire_Level+"\n"+Heal_Level+"\n"+Ice_Level+"\n"+side_quest+"\n",0.00,null);
-			EntFire("bxzl_text","Display","",0.05,null);
+			MapHudHint.__KeyValueFromString("message", "最终幻想12:帕拉米亚\n---------------------------\n地图作者:Slayerdragon\n和h4sArD/Noctali\n模型:K.\n感谢:\n- Cuniczek\n- d'Maniak\n- JorisCeoen\n- Sgt. zaCade\n- LaStation\n- George\n- Lev\n- Schicksal");
 		}
+}
+
+function Map_HudHint_Change()
+{
+		if( (MapHudHint != null) && (MapHudHint.GetClassname() == "game_text") )
+		{
+			MapHudHint.__KeyValueFromString("message", "最终幻想12:帕拉米亚\n---------------------------\n地图作者:Slayerdragon\n和h4sArD/Noctali\n模型:K.\n感谢:\n- Cuniczek\n- d'Maniak\n- JorisCeoen\n- Sgt. zaCade\n- LaStation\n- George\n- Lev\n- Schicksal");
+		}
+}
+
+function Map_Stage_Text_Change_1()
+{
+		if( (MapStageText != null) && (MapStageText.GetClassname() == "game_text") )
+		{
+			MapStageText.__KeyValueFromString("message", "第一章 - 找到一条通过帕拉米亚大峡谷的道路\n并找到米利亚姆神庙");
+		}
+}
+
+function Map_Stage_Text_Change_2()
+{
+		if( (MapStageText != null) && (MapStageText.GetClassname() == "game_text") )
+		{
+			MapStageText.__KeyValueFromString("message", "第二章 - 找到隐藏的宝藏并在米利亚姆神庙中\n击败玛提乌斯");
+		}
+}
+
+function Secret_Hudhint_Change_1()
+{
+		if( (SecretHudhint != null) && (SecretHudhint.GetClassname() == "game_text") )
+		{
+			SecretHudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n收集500金\n通过搜寻路上的宝箱\n或者通过摧毁水晶塔\n\n=> 任务奖励 - 第二章有药水提供");
+		}
+}
+
+function Secret_Hudhint_Change_2()
+{
+		if( (SecretHudhint != null) && (SecretHudhint.GetClassname() == "game_text") )
+		{
+			SecretHudhint.__KeyValueFromString("message", "** 初始化支线任务 **\n\n摧毁所有的敌方水晶塔\n通过破坏塔顶部的水晶\n\n=> 任务奖励 - 第二章有药水提供");
+		}
+}
+
+
+function clear()
+{
+		local temp1 = null;
+		local temp2 = null;
+		local temp3 = null;
+		local temp4 = null;
+		local temp5 = null;
+		local windbutton = Entities.FindByName(null,"Staff_Wind_Button");
+		local windbutton = Entities.FindByName(null,"Staff_Wind_Button");
+		local poisonbutton = Entities.FindByName(null,"Staff_Poison_Button");
+		local firebutton = Entities.FindByName(null,"Staff_Fire_Button");
+		local healbutton = Entities.FindByName(null,"Staff_Heal_Button");
+		local icebutton = Entities.FindByName(null,"Staff_Ice_Button");
+		if( (windbutton != null) && (windbutton.GetClassname() == "func_button") && (windbutton.GetMoveParent() != null) )		
+		{
+			temp1 = windbutton.GetMoveParent().GetOwner();
+		}
+		if( (poisonbutton != null) && (poisonbutton.GetClassname() == "func_button") && (poisonbutton.GetMoveParent() != null) )		
+		{
+			temp2 = poisonbutton.GetMoveParent().GetOwner();
+		}
+		if( (firebutton != null) && (firebutton.GetClassname() == "func_button") && (firebutton.GetMoveParent() != null) )		
+		{
+			temp3 = firebutton.GetMoveParent().GetOwner();
+		}
+		if( (healbutton != null) && (healbutton.GetClassname() == "func_button") && (healbutton.GetMoveParent() != null) )		
+		{
+			temp4 = healbutton.GetMoveParent().GetOwner();
+		}
+		if( (icebutton != null) && (icebutton.GetClassname() == "func_button") && (icebutton.GetMoveParent() != null) )		
+		{
+			temp5 = icebutton.GetMoveParent().GetOwner();
+		}
+		if(!flag1)
+		{
+			if(temp1 == null)
+			{
+				Wind_Level = " ";
+			}
+		}		
+				if(!flag2)
+		{
+			if(temp2 == null)
+			{
+				Poison_Level = " ";
+			}
+		}
+		if(!flag3)
+		{
+			if(temp3 == null)
+			{
+				Fire_Level = " ";
+			}
+		}
+		if(!flag4)
+		{
+			if(temp4 == null)
+			{
+				Heal_Level = " ";
+			}
+		}
+		if(!flag5)
+		{
+			if(temp5 == null)
+			{
+				Ice_Level = " ";
+			}
+		}
+}
+
+function text_show()
+{		
+	clear();
+	if ( (bxzltext != null) && (bxzltext.GetClassname() == "game_text") )
+	{
+			local temp = bxzltext.GetName();
+			if( (Wind_Level != " ") || (Poison_Level != " ") || (Fire_Level != " ") || (Heal_Level != " ") || (Ice_Level != " ") || (side_quest != " ") )
+			{
+				EntFire(temp,"SetText",Wind_Level+"\n"+Poison_Level+"\n"+Fire_Level+"\n"+Heal_Level+"\n"+Ice_Level+"\n"+side_quest+"\n",0.00,null);
+				EntFire(temp,"Display","",0.05,null);
+			}
+	}
 }
