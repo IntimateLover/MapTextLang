@@ -17,6 +17,12 @@ flag3 <- false;
 flag4 <- false;
 flag5 <- false;
 
+Wind_Memory <- 0;
+Poison_Memory <- 0;
+Fire_Memory <- 0;
+Heal_Memory <- 0;
+Ice_Memory <- 0;
+
 bxzltext <- Entities.FindByName(null,"bxzl_text");
 
 
@@ -143,6 +149,26 @@ function GetLevel(item,level)
 		{
 			Ice_Level = "冰: 5级";
 		}
+    if (item == 1)
+    {
+    Wind_Memory = level;
+    }
+    if (item == 2)
+    {
+    Poison_Memory = level;
+    }
+    if (item == 3)
+    {
+    Fire_Memory = level;
+    }
+    if (item == 4)
+    {
+    Heal_Memory = level;
+    }
+    if (item == 5)
+    {
+    Ice_Memory = level;
+    }
 }
 
 function Map_HudHint_Change()
@@ -229,35 +255,35 @@ function clear()
 		}
 		if(!flag1)
 		{
-			if(temp1 == null)
+			if( (temp1 == null) && (Wind_Level != " ") )
 			{
 				Wind_Level = " ";
 			}
 		}		
 				if(!flag2)
 		{
-			if(temp2 == null)
+			if( (temp2 == null) && (Poison_Level != " ") )
 			{
 				Poison_Level = " ";
 			}
 		}
 		if(!flag3)
 		{
-			if(temp3 == null)
+			if( (temp3 == null) && (Fire_Level != " ") )
 			{
 				Fire_Level = " ";
 			}
 		}
 		if(!flag4)
 		{
-			if(temp4 == null)
+			if( (temp4 == null) && (Heal_Level != " ") )
 			{
 				Heal_Level = " ";
 			}
 		}
 		if(!flag5)
 		{
-			if(temp5 == null)
+			if( (temp5 == null) && (Ice_Level != " ") )
 			{
 				Ice_Level = " ";
 			}
