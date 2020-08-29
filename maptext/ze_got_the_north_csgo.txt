@@ -38,19 +38,19 @@
 	}
 	"** [STAGE 1 - THE WALL] **"
 	{
-		"chi"		"**第一章：城墙**"
+		"chi"		"**第一章：绝境长城**"
 	}
 	"** THE GATE OF THE WALL IS CLOSING **"
 	{
-		"chi"		"**城墙大门即将关闭**"
+		"chi"		"**通往绝境长城的大门即将关闭**"
 	}
 	"** THE WALL HAS BEEN BREACHED - FALL BACK **"
 	{
-		"chi"		"**城墙已被敌人突破，撤退！**"
+		"chi"		"**绝境长城已失守，快撤退！**"
 	}
 	"** ZM BOTTOM TELEPORT ENABLED **"
 	{
-		"chi"		"**底部僵尸传送已被激活**"
+		"chi"		"**传送长城下的僵尸**"
 	}
 	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
 	{
@@ -58,11 +58,11 @@
 	}
 	"** HOLD THE COURTYARD **"
 	{
-		"chi"		"**守住这个庭院！**"
+		"chi"		"**守住这个广场！**"
 	}
 	"** ESCAPE VIA THE CASTLE **"
 	{
-		"chi"		"**快从城堡内撤退！**"
+		"chi"		"**快从堡垒内撤退！**"
 	}
 	"** Hold 30 seconds **"
 	{
@@ -78,7 +78,7 @@
 	}
 	"** DEFEND TILL THE GATE OPENS **"
 	{
-		"chi"		"**坚守至大门打开**"
+		"chi"		"**坚守至离开长城的大门打开**"
 	}
 	"** THE GATE OPENS IN 5 SECONDS **"
 	{
@@ -90,11 +90,11 @@
 	}
 	"** MAIN GATE opens soon **"
 	{
-		"chi"		"**中门很快就会打开了**"
+		"chi"		"**城门很快就会打开了**"
 	}
 	"** OPENING THE GATES **"
 	{
-		"chi"		"**中门开启！**"
+		"chi"		"**城门开启！**"
 	}
 	"** THE GATES SHOULD BE OPENING SOON **"
 	{
@@ -114,18 +114,18 @@
 	}
 	"** BREAK THE BARRICADES to open TOWN GATE **"
 	{
-		"chi"		"**清除路障并且打开城门**"
+		"chi"		"**清除路障并且打开通往城镇的大门**"
 	}
 	"** TOWN GATE opens in 5 SECS **"
 	{
-		"chi"		"**城门还有5秒打开**"
+		"chi"		"**通往城镇的大门还有5秒打开**"
 	}
 	"** FOLLOW THE DRAGON INTO THE GARDEN **"
 	{
-		"chi"		"**快跟着巨龙，进去花园内防守**"
+		"chi"		"**跟着巨龙，穿越沦为火海的花园**"
 	}
 	"** ESCAPE WINTERFELL VIA THE GARDEN **"
 	{
-		"chi"		"**快从花园逃离临冬城！！！**"
+		"chi"		"**快从花园内逃离临冬城！！！**"
 	}
 }
