@@ -1,80 +1,33 @@
 "Console_T"
 {
-	"Map : ze_surf_shonyudo"
+	">> The wire mesh will break 10 s <<"
 	{
-		"chi"		"**又是一张跳刀滑翔图**"
-		"DoorCountDown"		"10"
+		"chi"		"**铁丝网将在10秒后碎裂**
 	}
-	"Who : Hmn"
+	">> The wire mesh will break 30 s <<"
 	{
-		"chi"		"**作者：Hmn  翻译：Misaka**"
+		"chi"		"**铁丝网将在30秒后碎裂**"
 	}
-	">> [Laser_Lv] Godlike <<"
+	">> Scaffolding is generated 10 s <<"
 	{
-		"chi"		">>>【跳刀等级】超神<<<"
+		"chi"		"**滑翔路将在10秒后上升**"
 	}
-	">> Destroy the rock 30 SECONDS <<"
+	">> Scaffolding is generated 30 s <<"
 	{
-		"chi"		">>>石头将在30秒后破碎<<<"
+		"chi"		"**滑翔路将在30秒后上升**"
 	}
-	">> Destroy the rock 10 SECONDS <<"
+	">> Things start moving 10 s <<"
 	{
-		"chi"		">>>石头将在10秒后破碎<<<"
+		"chi"		"**平台将在10秒后移动**"
 	}
-	">> [Laser_Lv] Carnage <<"
+	">> Last defend and escape the world !! 10 s <<"
 	{
-		"chi"		">>>【跳刀等级】：屠杀<<<"
+		"chi"		"**最后的防守，然后逃离这个世界吧！！**"
+		"DoorCountdown"		"-1"
 	}
-	">> Fixing the elevator 30 SECONDS <<"
+	">> Last defend and escape the world !! 40 s <<"
 	{
-		"chi"		">>>电梯将在30秒后修复<<<"
-	}
-	">> Fixing the elevator 10 SECONDS <<"
-	{
-		"chi"		">>>电梯将在10秒后修复<<<"
-	}
-	">> Destroy the rock 40 SECONDS <<"
-	{
-		"chi"		">>>石头将在40秒后破碎<<<"
-	}
-	">> GOOD LUCK <<"
-	{
-		"chi"		">>>祝你好运<<<"
-	}
-	">> RUN! <<"
-	{
-		"chi"		">>>冲！<<<"
-	}
-	">> Escape The World !! 40 SECONDS  <<"
-	{
-		"chi"		">>>逃离这个世界！！还剩40秒！<<<"
-	}
-	">> Escape The World !! 10 SECONDS  <<"
-	{
-		"chi"		">>>最后10秒！<<<"
-	}
-	">> ORE NO KATI  <<"
-	{
-		"chi"		"** **"
-	}
-	">> [Laser_Lv] ??? <<"
-	{
-		"chi"		">>>【跳刀等级】？？<<<"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"82825"
-	}
-	">> Laser_Lv -- ??? -- <<"
-	{
-		"chi"		">>>跳刀等级：？？<<<"
-	}
-	">> Laser_Lv -- Carnage -- <<"
-	{
-		"chi"		">>>跳刀等级：屠杀<<<"
-	}
-	">> Laser_Lv -- Godlike -- <<"
-	{
-		"chi"		">>>跳刀等级：超神<<<"
+		"chi"		"**最后的防守，然后逃离这个世界吧！！**"
+		"DoorCountdown"		"40"
 	}
 }
