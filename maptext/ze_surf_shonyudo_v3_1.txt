@@ -16,6 +16,10 @@
 	{
 		"chi"		"**滑翔路将在30秒后上升**"
 	}
+	">> Things start moving 30 s <<"
+	{
+		"chi"		"**平台将在30秒后移动**"
+	}
 	">> Things start moving 10 s <<"
 	{
 		"chi"		"**平台将在10秒后移动**"
