@@ -69,3 +69,9 @@ function rtvonemore12()
 ScriptPrintMessageChatAll(" \x07 EZPZ LEMON SQUEEZY, WE'RE FINALLY FROSTDRAKE READY...")
 ScriptPrintMessageChatAll(" \x10 就像挤柠檬一样简单,我们现在准备通关寒霜高塔了...")
 }
+
+function kakarot()
+{
+ScriptPrintMessageChatAll(" \x07 GRILLS ARE ACTUALLY NOT REAL THEY ONLY EXIST IN OUR MINDS")
+ScriptPrintMessageChatAll(" \x10 烤箱其实并不存在，它只存在于我们的脑海里")
+}
