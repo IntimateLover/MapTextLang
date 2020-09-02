@@ -73,5 +73,6 @@ ScriptPrintMessageChatAll(" \x10 就像挤柠檬一样简单,我们现在准备�
 function kakarot()
 {
 ScriptPrintMessageChatAll(" \x07 GRILLS ARE ACTUALLY NOT REAL THEY ONLY EXIST IN OUR MINDS")
-ScriptPrintMessageChatAll(" \x10 烤箱其实并不存在，它只存在于我们的脑海里")
+ScriptPrintMessageChatAll(" \x07 Ahh,is that a gurl? IS THAT FUCKING GIRL? OH MY GOD! WTF")
+ScriptPrintMessageChatAll(" \x10 女孩子其实并不存在，她们只存在于我们的脑海里")
 }
