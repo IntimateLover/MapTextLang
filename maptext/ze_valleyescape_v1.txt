@@ -1,0 +1,95 @@
+"Console_T"
+{
+	"<<HIDDEN DOOR OPENS IN 35 SECONDS>>"
+	{
+		"chi"		"**铁丝网将在10秒后碎裂**"
+	}
+	"<<SPAWN ADVANCE IN 15 SECONDS>>"
+	{
+		"chi"		"**铁丝网将在30秒后碎裂**"
+	}
+	"<<HIDDEN DOOR OPENS IN 5 SECONDS>>"
+	{
+		"chi"		"**滑翔路将在10秒后上升**"
+	}
+	"<<CLIMB THE STRUCTURE>>"
+	{
+		"chi"		"**滑翔路将在30秒后上升**"
+	}
+	"<<FINAL SPAWN ADVANCE IN 35 SECONDS>>"
+	{
+		"chi"		"**平台将在30秒后移动**"
+	}
+	"<<MAP BY Shinsengumi00>>"
+	{
+		"chi"		"**平台将在10秒后移动**"
+	}
+	"<<With Special Thanks to Moo.TheDoctor>>"
+	{
+		"chi"		"**最后的防守，然后逃离这个世界吧！！**"
+	}
+	"<<DOOR BREAKS IN 30 SECONDS>>"
+	{
+		"chi"		"**最后的防守40秒，然后逃离这个世界吧！！**"
+	}
+        "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
+	{
+		"chi"		"**铁丝网将在10秒后碎裂**"
+	}
+	"<<CHICKENS FLYING AWAY IN 65 SECONDS>>"
+	{
+		"chi"		"**铁丝网将在30秒后碎裂**"
+	}
+	"<<CHICKENS FLYING AWAY IN 5 SECONDS>>"
+	{
+		"chi"		"**滑翔路将在10秒后上升**"
+	}
+	"<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>"
+	{
+		"chi"		"**滑翔路将在30秒后上升**"
+	}
+	"<<SWORDS READY>>"
+	{
+		"chi"		"**平台将在30秒后移动**"
+	}
+	"<<GRAVITATIONAL BOOSTER HAS BEEN FOUND>>"
+	{
+		"chi"		"**平台将在10秒后移动**"
+	}
+	"<<TWIN SWORDS HAS BEEN FOUND>>"
+	{
+		"chi"		"**最后的防守，然后逃离这个世界吧！！**"
+	}
+	"<<LASERS DISABLING IN 30 SECONDS>>"
+	{
+		"chi"		"**最后的防守40秒，然后逃离这个世界吧！！**"
+	}
+        "<<LASERS ARE DISABLED>>"
+	{
+		"chi"		"**铁丝网将在10秒后碎裂**"
+	}
+	"<<MINES DETONATION IN 20 SECONDS>>"
+	{
+		"chi"		"**铁丝网将在30秒后碎裂**"
+	}
+	"<<BOULDERS DETONATION IN 40 SECONDS>>"
+	{
+		"chi"		"**滑翔路将在10秒后上升**"
+	}
+	"<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>"
+	{
+		"chi"		"**滑翔路将在30秒后上升**"
+	}
+	"<<SPAWN ADVANCE IN 15 SECONDS>>"
+	{
+		"chi"		"**平台将在30秒后移动**"
+	}
+	"<<MINE DETONATION IN 30 SECONDS>>"
+	{
+		"chi"		"**平台将在10秒后移动**"
+	}
+	"<<WALL IS DESTROYED>>"
+	{
+		"chi"		"**最后的防守，然后逃离这个世界吧！！**"
+	}
+}
