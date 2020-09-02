@@ -2,7 +2,7 @@
 {
 	">>> ZOMBIE HAS PICKED UP SPIDER <<<"
 	{
-		"chi"		"**僵尸拾起了蜘蛛**
+		"chi"		"**僵尸拾起了蜘蛛**"
 	}
 	">>> ZOMBIE HAS PICKED UP DRAGON <<<"
 	{
@@ -50,7 +50,7 @@
 	}
 	">>> CORONAVIRUS USE PUSH FORWARD !!!<<<"
 	{
-		"chi"		"**冠状病毒使用了吸力*"
+		"chi"		"**冠状病毒使用了吸力**"
 	} 
 	">>> WELL DONE ! NEED 1 MORE BUTTON ! <<<"
 	{
@@ -76,6 +76,6 @@
 	}
 	">>> map by =LIROY= <<<"
 	{
-		"chi"		"**地图制作:=LIROY= 汉化:血色的龙琉璃
+		"chi"		"**地图制作:=LIROY= 汉化:血色的龙琉璃**"
 	}
 }
