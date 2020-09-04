@@ -79,5 +79,5 @@ ScriptPrintMessageChatAll(" \x10 女孩子其实并不存在，她们只存在�
 
 function WarnVoteShowMessagechi()
 {
-ScriptPrintMessageChatAll(" \x04 [EXTREME模式投票] 在下回合游戏正式开始时，你可以通过射击出生点上方的天空来进行投票，请注意，你只有\x02 10秒钟 \x04 的投票时间！投票与否，按照你自己的想法去决定吧！")
+ScriptPrintMessageChatAll(" \x04 [EXTREME模式投票] 在下回合游戏正式开始时，你可以通过射击出生点上方的天空来进行投票，请注意，你只有\x02 10秒钟 \x04的投票时间！投票与否，按照你自己的想法去决定吧！")
 }
