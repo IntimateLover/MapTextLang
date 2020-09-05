@@ -76,4 +76,8 @@ ScriptPrintMessageChatAll(" \x07 GRILLS ARE ACTUALLY NOT REAL THEY ONLY EXIST IN
 ScriptPrintMessageChatAll(" \x07 Ahh,is that a gurl? IS THAT FUCKING GIRL? OH MY GOD! WTF")
 ScriptPrintMessageChatAll(" \x10 女孩子其实并不存在，她们只存在于我们的脑海里")
 }
-//repush
+
+function WarnVoteShowMessagechi()
+{
+ScriptPrintMessageChatAll(" \x04 [EXTREME模式投票] 在下回合游戏正式开始时，你可以通过射击出生点上方的天空来进行投票，请注意，你只有\x02 10秒钟 \x04的投票时间！投票与否，按照你自己的想法去决定吧！")
+}
