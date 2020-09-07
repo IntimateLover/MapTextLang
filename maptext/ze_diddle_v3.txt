@@ -47,7 +47,7 @@
 	}
 	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
 	{
-		"chi"		"**拿起火把，烧死所有的日漫痴屋子和手办！！！**"
+		"chi"		"**拿起火把，烧死所有的日漫痴！！！**"
 	}
 	"***HURRY, BEFORE WEEBLAND INVADES US***"
 	{
@@ -183,7 +183,7 @@
 	}
 	"***FUS RO...***"
 	{
-		"chi"		"** **"
+		"chi"		"**no，哼哼哼，啊啊啊啊啊！**"
 	}
 	"***FIND YOUR LOVE***"
 	{
@@ -540,7 +540,7 @@
 	}
 	"*Demon 7{{2 casts ERROR#*"
 	{
-		"chi"		"**恶魔海龟EX使用了乱码错误，某个平台的人类会被卡住**"
+		"chi"		"**恶魔海龟使用了乱码技能，某个平台的人类会被卡住**"
 		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts 29--"
@@ -554,7 +554,7 @@
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
-		"chi"		"**恶魔龟对中间平台使用了got it图片攻击**"
+		"chi"		"**恶魔龟对中间平台使用了图片攻击**"
 		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Launch*"
@@ -721,14 +721,15 @@
 	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
 	{
 		"chi"		"**引道平均每天跑78英里**"
+		"DoorCountdown"		"-1"
 	}
 	"***A VAGINA INCLUDES CHILD SUPPORT***"
 	{
-		"chi"		"**引道能帮助儿童**"
+		"chi"		"**引道提供儿童援助**"
 	}
 	"***A VAGINA IS AFRAID OF CLOWNS***"
 	{
-		"chi"		"**引道不喜欢被开玩笑**"
+		"chi"		"**引道惧怕被讥讽**"
 	}
 	"***A VAGINA DOES NOT WANT TO PLAY ANYMORE***"
 	{
@@ -905,7 +906,7 @@
 	}
 	"***1 LIKE = ONE PRAYER FOR JEBUS***"
 	{
-		"chi"		"**每个人都得向上帝祈祷**"
+		"chi"		"**就像跟上帝忏悔自己罪行那样**"
 	}
 	"***THE FETUS WANTS YOU***"
 	{
@@ -1022,7 +1023,7 @@
 	}
 	"***THE ELEVATOR IS DIDDLING***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸侧路电梯正在被欺骗**"
 	}
 	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
 	{
@@ -1030,7 +1031,7 @@
 	}
 	"***THE MIDDLE GATE IS DIDDLED***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸塔楼门口已经被欺骗了**"
 	}
 	"***THE TOWER GATE IS OPENING IN 10 SECONDS***"
 	{
@@ -1098,7 +1099,7 @@
 	}
 	"***THE DIDDLERY IS COMING***"
 	{
-		"chi"		"**最终欺骗游戏即将到来**"
+		"chi"		"**欺骗游戏最终章即将到来**"
 	}
 	"***THE DIDDLE DICK HAS BEEN DEFEATED***"
 	{
@@ -1282,7 +1283,7 @@
 	}
 	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
 	{
-		"chi"		"**烧掉所有的房子，并打破5个手办**"
+		"chi"		"**烧掉所有的房子，并打碎5个手办**"
 	}
 	"***ESCAPE YOUR LOVE***"
 	{
@@ -1382,7 +1383,7 @@
 	}
 	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
 	{
-		"chi"		"**如果你花太长时间（2：20内）你将会被传送出去**"
+		"chi"		"**二分二十秒后你将会被传送出去**"
 	}
 	"hold 15sec"
 	{
