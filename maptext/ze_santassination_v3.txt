@@ -18,11 +18,11 @@
 	}
 	"***RUN***"
 	{
-		"chi"		"**是驯鹿，快跑，躲开它们**"
+		"chi"		"**快跑快跑快跑**"
 	}
 	"***GET UP ON THAT ROCK***"
 	{
-		"chi"		"**去那块大石头上面，那里能躲避驯鹿群的冲撞**"
+		"chi"		"**去那块大石头上面，那里看上去很安全**"
 		"DoorCountdown"		"91"
 	}
 	"***MUFASA.. IS DEAD...***"
@@ -115,7 +115,7 @@
 	}
 	"***THAT SEEMS TO BE THE LAST OF THEM***"
 	{
-		"chi"		"**这应该是最后一群河狸了，消灭他们**"
+		"chi"		"**这应该是最后一批河狸了**"
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
@@ -289,7 +289,7 @@
 	}
 	"***HEAD TOWARDS SANTA'S FACTORY***"
 	{
-		"chi"		"**前往圣诞老人工厂**"
+		"chi"		"**前往圣诞老人工厂**
 	}
 	"***BE PREPARED FOR ANYTHING***"
 	{
@@ -335,7 +335,7 @@
 	}
 	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"**主路楼梯5秒后上升**"
+		"chi"		"**主路电梯5秒后上升**"
 	}
 	"***THE PIZZA IS AGGRESSIVE***"
 	{
@@ -418,45 +418,45 @@
 	}
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
-		"chi"		"**工厂铁门10秒后打开，左边白色区域才是真正的门**"
+		"chi"		"**白色的门10秒后打开（左转是路）**"
 		"DoorCountdown"		"10"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
-		"chi"		"**工厂铁门5秒后打开**"
+		"chi"		"**白色的门5秒后打开**"
 	}
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
-		"chi"		"**工厂铁门4秒后打开**"
+		"chi"		"**白色的门4秒后打开**"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
 	{
-		"chi"		"**工厂门3秒后打开**"
+		"chi"		"**白色的门3秒后打开**"
 	}
 	"***FACTORY DOOR OPENS IN 2 SECONDS***"
 	{
-		"chi"		"**工厂门2秒后打开**"
+		"chi"		"**白色的门2秒后打开**"
 	}
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
-		"chi"		"**工厂门1秒后打开**"
+		"chi"		"**白色的门1秒后打开**"
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
-		"chi"		"**10秒后开启铁门**"
+		"chi"		"**10秒后开启岩浆双门**"
 		"DoorCountdown"		"10"
 	}
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
-		"chi"		"**5秒后开启铁门**"
+		"chi"		"**5秒后开启岩浆双门**"
 	}
 	"***OPENING DOORS***"
 	{
-		"chi"		"**铁门开启**"
+		"chi"		"**岩浆双门开启**"
 	}
 	"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
 	{
-		"chi"		"**找到那个巴比伦宝贝，按下按钮打开前往工厂深处的大门**"
+		"chi"		"**找到巴比伦宝贝，按下按钮打开前往工厂深处的大门**"
 	}
 	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
 	{
