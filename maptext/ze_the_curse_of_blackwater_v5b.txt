@@ -6,86 +6,82 @@
 	}
 	"THE GATE OPENS IN 60 SECOND"
 	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"45559"
+		"chi"		"**小镇大门将在60秒后打开**"
 	}
 	"THE GATE OPENS IN 5 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**小镇大门将在5秒后关闭**"
 	}
 	"THE MAIN DOORS HOSPITAL OPENS IN 20 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**医院大门将在20秒后打开**"
 	}
 	"THE OPEN DOOR IN 30 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后打开**"
 	}
 	"THE OPEN DOOR IN 5 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开**"
 	}
 	"THE DOOR LIBARY CLOSE IN 5 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**图书馆门将在5秒后关闭**"
 	}
 	"THE DOOR OPEN IN 15 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后打开**"
 	}
 	"THE OPEN DOOR IN 25 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在25秒后打开**"
 	}
 	"THE CLOSE DOOR IN 25 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在25秒后关闭**"
 	}
 	"THE CLOSE DOOR IN 20 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在20秒后关闭**"
 	}
 	"THE CLOSE DOOR IN 30 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后关闭**"
 	}
 	"OMG! ITS GIRL!"
 	{
-		"chi"		"** **"
+		"chi"		"**我的天啊!这个小女孩**"
 	}
 	"KILLING GIRL!!!! SHE SCARY!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**快杀了她! 她好吓人**"
 	}
 	"AFK TELEPORT IN 10 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在10秒后传送**"
 	}
 	"THE OPEN DOORS IN 30 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开**"
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家将在5秒后传送**"
 	}
 	"THE CLOSE DOORS IN 30 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后关闭**"
 	}
 	"Stage 1 - Completed"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成 **"
 	}
 	">> Kill The Remaining Zombie! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死剩下的僵尸**"
 	}
 	"THE CLOSE DOORS IN 20 SECOND"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在20秒后关闭**"
 	}
 }
