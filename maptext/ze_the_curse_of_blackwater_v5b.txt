@@ -10,7 +10,7 @@
 	}
 	"THE GATE OPENS IN 5 SECOND"
 	{
-		"chi"		"**小镇大门将在5秒后关闭**"
+		"chi"		"**小镇大门将在5秒后打开**"
 	}
 	"THE MAIN DOORS HOSPITAL OPENS IN 20 SECOND"
 	{
@@ -42,7 +42,7 @@
 	}
 	"THE CLOSE DOOR IN 20 SECOND"
 	{
-		"chi"		"**大门将在20秒后关闭**"
+		"chi"		"**厕所门将在20秒后关闭**"
 	}
 	"THE CLOSE DOOR IN 30 SECOND"
 	{
@@ -50,7 +50,7 @@
 	}
 	"OMG! ITS GIRL!"
 	{
-		"chi"		"**我的天啊!这个小女孩**"
+		"chi"		"**我的天啊! 这个小女孩**"
 	}
 	"KILLING GIRL!!!! SHE SCARY!!!"
 	{
@@ -62,7 +62,7 @@
 	}
 	"THE OPEN DOORS IN 30 SECOND"
 	{
-		"chi"		"**门将在30秒后打开**"
+		"chi"		"**最终大门将在30秒后打开**"
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
