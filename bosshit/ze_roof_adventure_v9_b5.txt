@@ -1,0 +1,15 @@
+"BOSSHP"
+{
+	"40956"
+	{
+		"enable"		"1"
+		"hammerid"		"40956"
+		"m_iname"		"lv3_boss_collision_bounce"
+	}
+	"36591"
+	{
+		"enable"		"1"
+		"hammerid"		"36591"
+		"m_iname"		"lv3_boss_collision"
+	}
+}
