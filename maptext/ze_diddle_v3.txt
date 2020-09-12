@@ -441,12 +441,10 @@
 	"**fart attack**"
 	{
 		"chi"		"**放屁攻击**"
-		"DoorCountdown"		"3"
 	}
 	"**jizz attack right**"
 	{
 		"chi"		"**精液攻击-右**"
-		"DoorCountdown"		"3"
 	}
 	"**the dicklett has been killed**"
 	{
@@ -483,12 +481,10 @@
 	"***laser attack***"
 	{
 		"chi"		"**激光攻击（注意躲避）**"
-		"DoorCountdown"		"3"
 	}
 	"***earthquake***"
 	{
 		"chi"		"**地震（跳上升起的柱子）**"
-		"DoorCountdown"		"3"
 	}
 	"***Hey, doing well i see***"
 	{
@@ -509,7 +505,6 @@
 	"***Turtle heals every 50 seconds***"
 	{
 		"chi"		"**恶魔海龟每五十秒会自我加血，抓紧时间输出**"
-		"DoorCountdown"		"-1"
 	}
 	"***The digletts have been defeated*** gg"
 	{
@@ -518,21 +513,19 @@
 	"*Demon Turtle casts Spears*"
 	{
 		"chi"		"**恶魔海龟扔出了海矛**"
-		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Chill*"
 	{
 		"chi"		"**恶魔海龟使用了寒冰**"
-		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Water Blast*"
 	{
 		"chi"		"**恶魔海龟使用了水爆**"
-		"DoorCountdown"		"3"
 	}
 	"*Tiki 2 Broken*"
 	{
 		"chi"		"**2号海龟箱子已经被破坏了**"
+		"DoorCountdown"		"-1"
 	}
 	"*Demon Turtle seems to be angrier*"
 	{
@@ -541,7 +534,6 @@
 	"*Demon 7{{2 casts ERROR#*"
 	{
 		"chi"		"**恶魔海龟使用了乱码技能，某个平台的人类会被卡住**"
-		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts 29--"
 	{
@@ -550,17 +542,14 @@
 	"*Demon Turtle 7_) Launch2.0.exe*"
 	{
 		"chi"		"**恶魔海龟使用了二重乱码条攻击（先大跳后蹲）**"
-		"DoorCountdown"		"3"
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
 		"chi"		"**恶魔龟对中间平台使用了图片攻击**"
-		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle casts Launch*"
 	{
 		"chi"		"**恶魔海龟使用了乱码条攻击（蹲下来）**"
-		"DoorCountdown"		"3"
 	}
 	"*Something is happening..*"
 	{
@@ -679,7 +668,7 @@
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒剩余时间**"
 	}
 	"***DEFEND FOR 25 SECONDS***"
 	{
@@ -844,7 +833,6 @@
 	"**jizz attack left**"
 	{
 		"chi"		"**精液攻击-左**"
-		"DoorCountdown"		"3"
 	}
 	"father"
 	{
@@ -853,7 +841,6 @@
 	"**stomp attack**"
 	{
 		"chi"		"**踩踏攻击（跳上升起的柱子）**"
-		"DoorCountdown"		"3"
 	}
 	"***GET DIDDLING***"
 	{
@@ -935,7 +922,7 @@
 	}
 	"***DIDDLE THEM OFF FOR 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**欺骗他们20秒钟**"
 	}
 	"***go***"
 	{
@@ -1083,7 +1070,7 @@
 	}
 	"***THE END IS COMING IN 1 SECOND***"
 	{
-		"chi"		"**终章一秒后到来**"
+		"chi"		"**终章将在1秒后到来**"
 	}
 	"***THE END IS NIGH***"
 	{
@@ -1107,7 +1094,7 @@
 	}
 	"***Defend for 10 seconds***"
 	{
-		"chi"		"**守住十秒**"
+		"chi"		"**守住10秒**"
 	}
 	"***TAKE A LEAP OF FAITH***"
 	{
@@ -1224,6 +1211,7 @@
 	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
 	{
 		"chi"		"**世界上可能至少有50个人喜欢闻猫屎的味道**"
+		"DoorCountdown"		"-1"
 	}
 	"why do we even exist"
 	{
@@ -1244,10 +1232,12 @@
 	"*Tiki 1 Broken - There are 2 more tikis to find*"
 	{
 		"chi"		"**1号海龟箱子已被打破-还有另外两个**"
+		"DoorCountdown"		"-1"
 	}
 	"*Tiki 3 Broken*"
 	{
-		"chi"		"**3号海龟箱子3已被打破**"
+		"chi"		"**3号海龟箱子已被打破**"
+		"DoorCountdown"		"-1"
 	}
 	"sync_version"
 	{
@@ -1280,10 +1270,12 @@
 	"***TELEPORTING OUT IN 4 MINUTES***"
 	{
 		"chi"		"**传送4分钟后开始**"
+		"DoorCountdown"		"-1"
 	}
 	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
 	{
-		"chi"		"**烧掉所有的房子，并打碎5个手办**"
+		"chi"		"**烧掉10间房子，并打碎5个手办可推迟人类传送**"
+		"DoorCountdown"		"-1"
 	}
 	"***ESCAPE YOUR LOVE***"
 	{
@@ -1308,6 +1300,7 @@
 	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:30 MINUTES)***"
 	{
 		"chi"		"**如果你花费的时间太长(2分30秒)，你就会被传送**"
+		"DoorCountdown"		"-1"
 	}
 	"***HOLD THEM OFF FOR A LONG TIME***"
 	{
