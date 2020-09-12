@@ -104,13 +104,6 @@
 	{
 		"chi"		"**感谢给予我制作帮助的每个人 **"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"** NUKE IN 5 **"
 	{
 		"chi"		"**核爆来袭 **"
@@ -131,13 +124,9 @@
 	{
 		"chi"		"**1 **"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"33703"
-	}
 	"** If surf is not completed in 60 sec the zombies will be released **"
 	{
-		"chi"		"**60秒内如果没人通过滑翔，人类将全部变成4积分**"
+		"chi"		"**60秒内如果没人通过滑翔，人类将全部变成四积分**"
 	}
 	"** Door will open in 30sec **"
 	{
@@ -165,6 +154,6 @@
 	}
 	"** SURF PLAYERS YOU FAIL ME  **"
 	{
-		"chi"		"** **"
+		"chi"		"**GG,没人通过滑翔 **"
 	}
 }
