@@ -6,7 +6,7 @@
 	}
 	"** My first map hope you like it, enjoy **"
 	{
-		"chi"		"**这是我做的第一张图，希望你能喜欢它 **"
+		"chi"		"**这是我制作的第一张地图，希望你能喜欢它 **"
 	}
 	"** The door will open in 15 sec **"
 	{
@@ -22,7 +22,7 @@
 	}
 	"** Make sure that youre on the block **"
 	{
-		"chi"		"**确保你站在方块上面 **"
+		"chi"		"**确保你站在白色方块上面 **"
 	}
 	"** The door will open in 30 sec **"
 	{
@@ -138,5 +138,33 @@
 	"** If surf is not completed in 60 sec the zombies will be released **"
 	{
 		"chi"		"**60秒内如果没人通过滑翔，人类将全部变成4积分**"
+	}
+	"** Door will open in 30sec **"
+	{
+		"chi"		"** 门将在30秒后开启 **"
+	}
+	"** Defend for 20sec **"
+	{
+		"chi"		"** 防守20秒 **"
+	}
+	"** GO TO THE SECOUND FLOOR **"
+	{
+		"chi"		"** 快去二楼防守 **"
+	}
+	"** Defend the short cut **"
+	{
+		"chi"		"** 防守僵尸侧路 **"
+	}
+	"** GO TO THE THIRD FLOOR **"
+	{
+		"chi"		"** 快去三楼防守 **"
+	}
+	"** FALL BACK **"
+	{
+		"chi"		"** 撤退 **"
+	}
+	"** SURF PLAYERS YOU FAIL ME  **"
+	{
+		"chi"		"** **"
 	}
 }
