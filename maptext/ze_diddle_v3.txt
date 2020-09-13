@@ -39,7 +39,7 @@
 	}
 	"*You are stuck inside Turtle Reactions Computer - Try to escape this place*"
 	{
-		"chi"		"**你被困在海龟反应计算机里 - 尝试逃离这个地方**"
+		"chi"		"**你们现在被困在AIPC笔记本电脑里面 - 快找到离开这里的方法**"
 	}
 	"*Defend here for 20 seconds*"
 	{
@@ -151,7 +151,7 @@
 	}
 	"*The hell..? I thought we left Turtle Reactions Computer*"
 	{
-		"chi"		"**什么..？我还以为我们离开了乌龟反应计算机**"
+		"chi"		"**什么..？我还以为我们离开了AIPC**"
 	}
 	"*Defend for 20 seconds*"
 	{
@@ -183,19 +183,19 @@
 	}
 	"***FIND YOUR LOVE***"
 	{
-		"chi"		"**发现你的爱**"
+		"chi"		"**爱的发现**"
 	}
 	"***SURPRISE YOUR LOVE***"
 	{
-		"chi"		"**给予你的爱**"
+		"chi"		"**爱的给予**"
 	}
 	"***BLESS YOUR LOVE***"
 	{
-		"chi"		"**祝福你的爱**"
+		"chi"		"**爱的祝福**"
 	}
 	"***FEED YOUR LOVE***"
 	{
-		"chi"		"**喂养你的爱**"
+		"chi"		"**爱的供养**"
 	}
 	"*Wall 1 breaks in 40 seconds*"
 	{
@@ -204,7 +204,7 @@
 	}
 	"***SACRIFICE YOUR LOVE***"
 	{
-		"chi"		"**牺牲你的爱**"
+		"chi"		"**爱的牺牲**"
 	}
 	"Defend"
 	{
@@ -277,7 +277,7 @@
 	}
 	"***Poof*"
 	{
-		"chi"		"** **"
+		"chi"		"**呼，生日快乐，火把都被吹灭了（EX模式能继续使用）**"
 	}
 	"<== Bomb explosionin 15 second ==>"
 	{
@@ -534,23 +534,24 @@
 	}
 	"*Demon 7{{2 casts ERROR#*"
 	{
-		"chi"		"**恶魔海龟使用了乱码技能，某个平台的人类会被卡住**"
+		"chi"		"**乱码，某个平台的人类会被卡住**"
 	}
 	"*Demon Turtle casts 29--"
 	{
-		"chi"		"** **"
+		"chi"		"**跳上前面的平台，等平台重新出现后再跳回来**"
+		"DoorCountdown"		"3"
 	}
 	"*Demon Turtle 7_) Launch2.0.exe*"
 	{
-		"chi"		"**恶魔海龟使用了二重乱码条攻击（先大跳后蹲）**"
+		"chi"		"**二重乱码条攻击（先大跳后蹲）**"
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
-		"chi"		"**恶魔龟对中间平台使用了图片攻击**"
+		"chi"		"**对中间平台使用了图片攻击**"
 	}
 	"*Demon Turtle casts Launch*"
 	{
-		"chi"		"**恶魔海龟使用了乱码条攻击（蹲下来）**"
+		"chi"		"**使用了乱码条攻击（蹲下来）**"
 	}
 	"*Something is happening..*"
 	{
@@ -558,15 +559,15 @@
 	}
 	"***Good Job! You have defeated the virus and now will leave the computer!***"
 	{
-		"chi"		"**干得漂亮！你已经击败了病毒，现在将离开电脑！**"
+		"chi"		"**干得漂亮！病毒已被击败，现在你将离开AIPC笔记本电脑！**"
 	}
 	"***I hope you a have a lovely journey back home and...***"
 	{
-		"chi"		"**我希望你有一个温馨的归程并且...**"
+		"chi"		"**我希望你回家的时候能够记住这段甜蜜的旅程，还有...**"
 	}
 	"***W..wait***"
 	{
-		"chi"		"**等..等一下**"
+		"chi"		"**等，等等等等**"
 	}
 	"***WAAAAAAAAAAAAAAAIIIIIIII----***"
 	{
@@ -881,11 +882,11 @@
 	}
 	"***..THEN DONT GET INSIDE***"
 	{
-		"chi"		"**...那么不要进入里面**"
+		"chi"		"**...那就别进去了**"
 	}
 	"***JUST STAY THERE AND CRY***"
 	{
-		"chi"		"**就在那里哭吧**"
+		"chi"		"**就在这里哭吧**"
 	}
 	"***1 LIKE = ONE PRAYER FOR JEBUS***"
 	{
@@ -921,7 +922,7 @@
 	}
 	"***go***"
 	{
-		"chi"		"** **"
+		"chi"		"**快走**"
 	}
 	"***EARN YOUR DIDDLERY***"
 	{
@@ -937,7 +938,7 @@
 	}
 	"***LOVE ISNT ALWAYS ON TIME***"
 	{
-		"chi"		"**父亲的爱并不总是准时**"
+		"chi"		"**父亲的爱并不那么及时**"
 	}
 	"***OH NO***"
 	{
@@ -953,7 +954,7 @@
 	}
 	"***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***"
 	{
-		"chi"		"**你必须找到一个方法来击败这个强大的海豹**"
+		"chi"		"**你必须找到一个方法来击败这只强大的海豹**"
 	}
 	"***QUICKLY***"
 	{
@@ -973,7 +974,7 @@
 	}
 	"***THE POWERFUL SEAL HAS BEEN BROKEN***"
 	{
-		"chi"		"**这个强大的海豹被击败了**"
+		"chi"		"**这只强大的海豹被击败了**"
 	}
 	"***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***"
 	{
@@ -1181,7 +1182,7 @@
 	}
 	"***SKIP STAGE - WEEB***"
 	{
-		"chi"		"**跳过关卡-Weeb**"
+		"chi"		"**跳过关卡-樱花关**"
 	}
 	"***PURCHASED - DIDDLE CANNON***"
 	{
@@ -1248,7 +1249,7 @@
 	}
 	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
 	{
-		"chi"		"**爸爸，噢，爸爸，舔我的乳头**"
+		"chi"		"**爸爸，快点舔我**"
 	}
 	"GIT OUT OF MI HOUUUUUSE"
 	{
@@ -1274,11 +1275,11 @@
 	}
 	"***ESCAPE YOUR LOVE***"
 	{
-		"chi"		"**逃避你的爱**"
+		"chi"		"**爱的逃避**"
 	}
 	"***FAREWELL YOUR LOVE***"
 	{
-		"chi"		"**告别你的爱**"
+		"chi"		"**爱的告别**"
 	}
 	"***Since you are doing so well, i figure that i should make it harder for you***"
 	{
@@ -1299,19 +1300,19 @@
 	}
 	"***HOLD THEM OFF FOR A LONG TIME***"
 	{
-		"chi"		"**拖延它们很长一段时间**"
+		"chi"		"**能守多长时间就守多长**"
 	}
 	"***SKIP STAGE - SHREK***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳过关卡 - 史莱克关**"
 	}
 	"***SKIP STAGE - DDAY***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳过关卡 - 海滩关**"
 	}
 	"***SKIP STAGE - DIGLETT***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳过关卡 - 地鼠关**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -1319,7 +1320,7 @@
 	}
 	"***SKIP STAGE - TURTLE***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳过关卡 - 海龟关**"
 	}
 	"*****ROUND END*****"
 	{
@@ -1331,7 +1332,7 @@
 	}
 	"defend for 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒**"
 	}
 	"***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***"
 	{
@@ -1339,7 +1340,7 @@
 	}
 	"<== Wait 25 second to go to heilcopter==>"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒，我们就能去直升机里面躲避炮击了**"
 	}
 	"***ZOMBIES TELEPORT IN 15 SECONDS***"
 	{
@@ -1399,7 +1400,7 @@
 	}
 	"***YOU TOOK TOO LONG - RELEASING ZOMBIES***"
 	{
-		"chi"		"**你花的太长时间了，释放僵尸**"
+		"chi"		"**你花得太长时间了，释放僵尸**"
 	}
 	"BUILD A LADDER ||-----||"
 	{
@@ -1407,11 +1408,11 @@
 	}
 	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
 	{
-		"chi"		"**僵尸圣战不允许在这种地方爆炸**"
+		"chi"		"**僵尸圣战不允许在尸笼爆炸**"
 	}
 	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
 	{
-		"chi"		"** **"
+		"chi"		"**梦见自己生活在水深火热之中的人类们会沉浸在欺骗之液的温暖之中 **"
 	}
 	"[EXTREME MODE VOTE] PASSED - SLAYING"
 	{
@@ -1419,7 +1420,7 @@
 	}
 	"***EXTREME MODE IS ACTIVE, YOU CAN SHOOT THE STAGE PICTURES TO SELECT THEM***"
 	{
-		"chi"		"**现在是EX模式，你可以通过射击图片以选择关卡**"
+		"chi"		"**EX模式已经激活，向射击相应的图片以选择关卡**"
 	}
 	"***WEEABOO ANNIHILATION CHOSEN***"
 	{
