@@ -277,7 +277,7 @@
 	}
 	"***Poof*"
 	{
-		"chi"		"**呼，生日快乐，火把都被吹灭了（EX模式能继续使用）**"
+		"chi"		"**EZ,PZ**"
 	}
 	"<== Bomb explosionin 15 second ==>"
 	{
@@ -538,12 +538,13 @@
 	}
 	"*Demon Turtle casts 29--"
 	{
-		"chi"		"**跳上前面的平台，等平台重新出现后再跳回来**"
-		"DoorCountdown"		"3"
+		"chi"		"**跳上前面平台，然后再跳回来**"
+		"DoorCountdown"		"5"
 	}
 	"*Demon Turtle 7_) Launch2.0.exe*"
 	{
 		"chi"		"**二重乱码条攻击（先大跳后蹲）**"
+		"DoorCountdown"		"5"
 	}
 	"*-9).$ casts -Turtle.jpg*"
 	{
@@ -552,6 +553,7 @@
 	"*Demon Turtle casts Launch*"
 	{
 		"chi"		"**使用了乱码条攻击（蹲下来）**"
+		"DoorCountdown"		"5"
 	}
 	"*Something is happening..*"
 	{
@@ -1245,7 +1247,7 @@
 	}
 	"***YOU TOOK TOO LONG - NUKING HUMANS***"
 	{
-		"chi"		"**你花了太长的时间-人类核爆**"
+		"chi"		"**你花了太长的时间-核爆人类**"
 	}
 	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
 	{
@@ -1420,7 +1422,7 @@
 	}
 	"***EXTREME MODE IS ACTIVE, YOU CAN SHOOT THE STAGE PICTURES TO SELECT THEM***"
 	{
-		"chi"		"**EX模式已经激活，向射击相应的图片以选择关卡**"
+		"chi"		"**EX模式已经激活，射击相应的关卡图片以选择关卡**"
 	}
 	"***WEEABOO ANNIHILATION CHOSEN***"
 	{
@@ -1445,5 +1447,97 @@
 	"[NORMAL MODE VOTE] PASSED - SLAYING"
 	{
 		"chi"		"**正常模式投票通过，处死所有人**"
+	}
+	"***YOU WENT THROUGH ALL OF EXTREME WITHOUT GETTING ALL COINS!?***"
+	{
+		"chi"		"**你过了EX还没收集完所有的硬币！？**"
+	}
+	"***WHAT A SHAMEFUL DISPLAY, DO IT AGAIN AND DO IT RIGHT!!!***"
+	{
+		"chi"		"**你会不会玩的啊？赶紧再来一次把币捡齐了！**"
+	}
+	"***YOU SHALL NOW ENTER A NEW CHALLENGE...***"
+	{
+		"chi"		"**你将会迎接新的挑战**"
+	}
+	"***ENABLING EXTREME MODE...***"
+	{
+		"chi"		"**进入极限欺骗游戏模式**"
+	}
+	"***YOU HAVE WON EXTREME MODE!***"
+	{
+		"chi"		"**你们获得了极限欺骗游戏的胜利！**"
+	}
+	"***YOU ARE EXTREMELY LEGENDARY!***"
+	{
+		"chi"		"**你们是欺骗游戏永恒的传奇！**"
+	}
+	"***MAP IS OVER - RTV***"
+	{
+		"chi"		"**欺骗游戏到此结束，辛苦各位了，RTV**"
+	}
+	"*This is extreme, you better not doorhug...*"
+	{
+		"chi"		"**这是EX模式，别当贴门废物了**"
+	}
+	"*Wait, this is extreme mode!*"
+	{
+		"chi"		"**等等，这可是EX模式啊！**"
+	}
+	"*It's pretty extreme, right?*"
+	{
+		"chi"		"**是不是挺EX的啊？哈哈哈哈**"
+	}
+	"*Watch it, here it comes again!*"
+	{
+		"chi"		"**小心，它们回来了！**"
+	}
+	"*Extreme funk!*"
+	{
+		"chi"		"**海龟冲击！**"
+	}
+	"*Extreme punk!*"
+	{
+		"chi"		"**海龟撞击！**"
+	}
+	"*Extreme dunk!*"
+	{
+		"chi"		"**海龟攻击！**"
+	}
+	"*Extreme gunk!*"
+	{
+		"chi"		"**海龟反击！**"
+	}
+	"*Extreme mode to the rescue!*"
+	{
+		"chi"		"**欢迎来到地鼠神殿，EX版本**"
+	}
+	"*Alright now you may proceed*"
+	{
+		"chi"		"**各位要注意了哦**"
+	}
+	"***REMOVING TORCHES IN 5 SECONDS...***"
+	{
+		"chi"		"**五秒后删除火把道具**"
+	}
+	"***REMOVING TORCHES IN 4 SECONDS...***"
+	{
+		"chi"		"**四秒后删除火把道具**"
+	}
+	"***REMOVING TORCHES IN 3 SECONDS...***"
+	{
+		"chi"		"**三秒后删除火把道具**"
+	}
+	"***REMOVING TORCHES IN 2 SECONDS...****"
+	{
+		"chi"		"**两秒后删除火把道具**"
+	}
+	"***REMOVING TORCHES IN 1 SECONDS...***"
+	{
+		"chi"		"**一秒后删除火把道具**"
+	}
+	"***TORCHES REMOVED, GOOD LUCK...***"
+	{
+		"chi"		"**火把已被删除，祝各位好运**"
 	}
 }
