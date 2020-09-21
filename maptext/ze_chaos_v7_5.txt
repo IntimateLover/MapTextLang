@@ -234,13 +234,16 @@
 	"<--Chapter 1 : Shadow Forest-->"
 	{
 		"chi"		"**章节1：暗影森林**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Chapter 2 : Dark Castle-->"
 	{
 		"chi"		"**章节2：暗黑城堡**"
+		"DoorCountdown"		"-1"
 	}
 	"<--Chapter 3 : Lost Underground-->"
 	{
 		"chi"		"**章节3：地下迷城**"
+		"DoorCountdown"		"-1"
 	}
 }
