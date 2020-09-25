@@ -144,17 +144,17 @@
 	{
 		"chi"		"** 我的天呐，他已经腐烂了，我们需要杀死他才能逃离这里 **"
 	}
-	"[ADMIN] Selected [STAGE 1] for next round. Restarting round in 5 sec"onds."
+	"[ADMIN] Selected [STAGE 1] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** [管理员]选择[第一关]。 5秒后重新开始 **"
+		"chi"		"** [管理员]选择[第一关]. 5秒后重新开始 **"
 	}
-	"[ADMIN] Selected [STAGE 2] for next round. Restarting round in 5 sec"onds."
+	"[ADMIN] Selected [STAGE 2] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** [管理员]选择[第二关]。 5秒后重新开始 **"
+		"chi"		"** [管理员]选择[第二关]. 5秒后重新开始 **"
 	}
-	"[ADMIN] Selected [STAGE 3] for next round. Restarting round in 5 sec"onds."
+	"[ADMIN] Selected [STAGE 3] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** [管理员]选择[第三关]。 5秒后重新开始 **"
+		"chi"		"** [管理员]选择[第三关]. 5秒后重新开始 **"
 	}
 	"The door to the sewer will open in 40 sec"
 	{
@@ -266,7 +266,7 @@
 	}
 	"We need to gather chemicals for the bomb that will clear the way"
 	{
-		"chi"		"** 我们需要收集炸弹的化学物质来清理道路 **"
+		"chi"		"** 我们需要收集炸弹的化学物质制作炸弹来清理道路 **"
 	}
 	"Find the key for left side of experimental rooms"
 	{
@@ -292,7 +292,7 @@
 	{
 		"chi"		"** 第二实验室的门将在20秒后开启 **"
 	}
-	"OK we found 6 keycards now we can enter to sec"ond part of the lab"
+	"OK we found 6 keycards now we can enter to second part of the lab"
 	{
 		"chi"		"** 我们找到了6张钥匙卡，现在我们可以进入实验室的第二部分了 **"
 	}
@@ -303,6 +303,7 @@
 	"Now we need to find other 3 keycards in main lab"
 	{
 		"chi"		"** 现在我们需要在主实验室找到另外3张钥匙卡 **"
+		"DoorCountdown"		"-1"
 	}
 	"Door to the main office will open in 10 sec"
 	{
@@ -378,7 +379,7 @@
 	}
 	"Doors to Blackwater underground lab will open in 30 sec"
 	{
-		"chi"		"** 黑水医院地下实验室大门将在30秒后开启 **"
+		"chi"		"** 医院地下实验室大门将在30秒后开启 **"
 	}
 	"Stage 1 - Completed"
 	{
@@ -398,11 +399,11 @@
 	}
 	"Oh god she is scary, run for your lifes"
 	{
-		"chi"		"** OMG，她很害怕，为你的命快跑 **"
+		"chi"		"** OMG，她好可怕，为你了你的生命快跑 **"
 	}
 	"Blackwater - this crazy ass bitch not letting us through, we need to get rid of her so we can get to the lab"
 	{
-		"chi"		"** 这个疯狂的婊子不让我们通过，我们需要把她赶走，这样我们才能去实验室 **"
+		"chi"		"** 这个婊子不让我们通过，我们需要杀死她，这样我们才能去实验室 **"
 	}
 	"The door will close in 5 sec"
 	{
@@ -410,7 +411,7 @@
 	}
 	"Who owns this casket?"
 	{
-		"chi"		"** 谁拥有这个棺材? **"
+		"chi"		"** 谁拥有这个? **"
 	}
 	"Omg did you hear that? Someone broke in"
 	{
@@ -469,4 +470,3 @@
 		"chi"		"** 找到产科病房的钥匙 **"
 	}
 }
-//重新推送
