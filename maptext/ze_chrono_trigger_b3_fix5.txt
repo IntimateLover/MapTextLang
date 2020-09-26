@@ -7,21 +7,19 @@
 	"*** Version: Alpha 3 ***"
 	{
 		"chi"		"**版本：b3 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** Teleporter activating in 25 seconds. ***"
 	{
 		"chi"		"**25秒后传送开启 **"
-		"DoorCountDown"		"25"
 	}
 	"*** Teleporter activating in 15 seconds. ***"
 	{
 		"chi"		"**15秒后传送开启 **"
-		"DoorCountDown"		"15"
 	}
 	"*** Teleporter activating in 5 seconds. ***"
 	{
 		"chi"		"**5秒后传送开启 **"
-		"DoorCountDown"		"5"
 	}
 	"*** Teleporter active! ***"
 	{
@@ -38,13 +36,10 @@
 	"*** Teleporter activating in 35 seconds. ***"
 	{
 		"chi"		"**35秒后传送开启 **"
-		"DoorCountDown"		"35"
 	}
 	"*** Teleporter activating in 30 seconds. ***"
 	{
 		"chi"		"**30秒后传送开启 **"
-		" "		" "
-		" "		"DoorCountDown"
 	}
 	"*** Zombies teleporting in 3 seconds... ***"
 	{
@@ -53,12 +48,10 @@
 	"*** Teleporter activating in 20 seconds. ***"
 	{
 		"chi"		"**20秒后传送开启 **"
-		"DoorCountDown"		"20"
 	}
 	"*** Teleporter activating in 10 seconds. ***"
 	{
 		"chi"		"**10秒后传送开启 **"
-		"DoorCountDown"		"10"
 	}
 	"*** Bridge spawning in 20 seconds... ***"
 	{
@@ -67,6 +60,7 @@
 	"*** Zombies teleporting in 3 seconds.... ***"
 	{
 		"chi"		"**僵尸3秒后传送 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** Bridge spawning in 10 seconds... ***"
 	{
@@ -74,15 +68,15 @@
 	}
 	"*** Barrier 1 breaking in 20 seconds... ***"
 	{
-		"chi"		"**屏障1将在20秒后打开 **"
+		"chi"		"**屏障一将在20秒后打开 **"
 	}
 	"*** Barrier 1 breaking in 10 seconds... ***"
 	{
-		"chi"		"**屏障1将在10秒后打开 **"
+		"chi"		"**屏障一将在10秒后打开 **"
 	}
 	"*** Barrier 2 breaking in 10 seconds... ***"
 	{
-		"chi"		"**屏障2将在10秒后打开 **"
+		"chi"		"**屏障二将在10秒后打开 **"
 	}
 	"*** The temple is locked? ***"
 	{
@@ -99,6 +93,7 @@
 	"*** Zombies are teleporting in 3 seconds. ***"
 	{
 		"chi"		"**僵尸3秒后传送 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** The door is open, fall back!. ***"
 	{
@@ -122,7 +117,7 @@
 	}
 	"*** PREPARE TO BE ELIMINATED ***"
 	{
-		"chi"		"**准备开始清楚 **"
+		"chi"		"**准备开始清除 **"
 	}
 	"*** Security System used: Terminate ***"
 	{
@@ -187,7 +182,6 @@
 	"*** Temple doors will open in 30 seconds. ***"
 	{
 		"chi"		"**庙宇的门将在30秒后打开 **"
-		"DoorCountDown"		"30"
 	}
 	"*** Temple doors will open in 10 seconds. ***"
 	{
@@ -203,15 +197,15 @@
 	}
 	"*** Barrier 1 breaking in 15 seconds.. ***"
 	{
-		"chi"		"**1号屏障15秒后打开 **"
+		"chi"		"**一号屏障15秒后打开 **"
 	}
 	"*** Barrier 2 breaking in 15 seconds.. ***"
 	{
-		"chi"		"**2号屏障15秒后打开 **"
+		"chi"		"**二号屏障15秒后打开 **"
 	}
 	"*** Barrier 3 breaking in 15 seconds.. ***"
 	{
-		"chi"		"**3号屏障15秒后打开 **"
+		"chi"		"**三号屏障15秒后打开 **"
 	}
 	"*** Defend for 20 seconds aboard the bridge! ***"
 	{
@@ -323,34 +317,31 @@
 	}
 	"Barrier one breaking in 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**一号屏障20秒后打开 **"
 	}
 	"Zombies teleporting in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送 **"
+		"DoorCountDown"		"-1"
 	}
 	"***Player has picked WATER***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了水神器 **"
 	}
 	"***Recharge: 60 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却时间：60秒 **"
 	}
 	"Barrier one breaking in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**一号屏障5秒后打开 **"
 	}
 	"Barrier two breaking in 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**二号屏障20秒后打开 **"
 	}
 	"Barrier two breaking in 5 seconds."
 	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"91029"
+		"chi"		"**二号屏障5秒后打开 **"
 	}
 }
