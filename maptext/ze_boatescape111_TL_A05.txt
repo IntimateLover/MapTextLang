@@ -1,0 +1,227 @@
+"Console_T"
+{
+	"** CURRENT MODE : ALL ITEM BATTLE MODE **"
+	{
+		"chi"		"** 当前模式：解锁所有物品 **"
+	}
+	"** GAME MODE LOADING ... **"
+	{
+		"chi"		"** 游戏模式选择中 ... **"
+	}
+	"** ... **"
+	{
+		"chi"		"** 3 **"
+	}
+	"** .. **"
+	{
+		"chi"		"** 2 **"
+	}
+	"** . **"
+	{
+		"chi"		"** 1 **"
+	}
+	"** A ZOMBIE HAS ACQUIRED BAHAMUT SUMMON **"
+	{
+		"chi"		"** 一个僵尸获得了巴哈姆特 **"
+	}
+	"** ABYSS WATCHER ! **"
+	{
+		"chi"		"** 深渊监视者！ **"
+	}
+	"** A PLAYER HAS ACQUIRED NYANCAT **"
+	{
+		"chi"		"** 一个玩家拾取了彩虹猫 **"
+	}
+	"** A PLAYER HAS ACQUIRED ULTIMATE MATERIA **"
+	{
+		"chi"		"** 一位玩家拾取了终极 **"
+	}
+	"** WHEREVER THE DRAGON PRIEST GOES,EVERYTHING WITHERED **"
+	{
+		"chi"		"** 龙祭祀所到之处，一切都枯萎了 **"
+	}
+	"** THE DAEDRIC WILL ELIMINATE ALL HOSTILE FORCES **"
+	{
+		"chi"		"** 魔神会消灭所有敌对势力 **"
+	}
+	"** A PLAYER HAS ACQUIRED HEAL MATERIA **"
+	{
+		"chi"		"** 一位玩家拾取了治疗 **"
+	}
+	"** WHITE KNIGHT ! **"
+	{
+		"chi"		"** 高达！ **"
+	}
+	"** DAEDRIC ! **"
+	{
+		"chi"		"** 魔神！ **"
+	}
+	"** GANDALF ! **"
+	{
+		"chi"		"** 甘道夫！ **"
+	}
+	"** HEAL ! **"
+	{
+		"chi"		"** 治疗！ **"
+	}
+	"** ULTIMATE ! **"
+	{
+		"chi"		"** 终极！ **"
+	}
+	"** NYANCAT ! **"
+	{
+		"chi"		"** 彩虹猫！ **"
+	}
+	"** BUNKER MINIGUN ! **"
+	{
+		"chi"		"** 加特林！ **"
+	}
+	"** SB ! **"
+	{
+		"chi"		"** SB喇叭！ **"
+	}
+	"** ANTLION ! **"
+	{
+		"chi"		"** 蚁狮！ **"
+	}
+	"** BAHAMUT ! **"
+	{
+		"chi"		"** 巴哈姆特！ **"
+	}
+	"** BALROG ! **"
+	{
+		"chi"		"** 炎魔！ **"
+	}
+	"** DRAGON PRIEST ! **"
+	{
+		"chi"		"** 龙祭祀！ **"
+	}
+	"** NAZGUL ! **"
+	{
+		"chi"		"** 戒灵！ **"
+	}
+	"** TNT ! **"
+	{
+		"chi"		"** 炸药桶！ **"
+	}
+	"** TROLL ! **"
+	{
+		"chi"		"** 巨魔！ **"
+	}
+	"** CURRENT MODE : ZM MODE **"
+	{
+		"chi"		"** 当前模式：ZM模式 **"
+	}
+	"** SOLO TIME ** 30 SECONDS **"
+	{
+		"chi"		"** SOLO时间 剩余30秒 **"
+	}
+	"> 25 SECONDS <"
+	{
+		"chi"		"** 剩余25秒 **"
+	}
+	"> 20 SECONDS <"
+	{
+		"chi"		"** 剩余20秒 **"
+	}
+	"> 15 SECONDS <"
+	{
+		"chi"		"** 剩余15秒 **"
+	}
+	"> 10 SECONDS <"
+	{
+		"chi"		"** 剩余10秒 **"
+	}
+	"> 5 SECONDS <"
+	{
+		"chi"		"** 剩余5秒 **"
+	}
+	"** CURRENT MODE : FLOOD MODE **"
+	{
+		"chi"		"** 当前模式：洪水模式 **"
+	}
+	"** HUMAN ITEM WILL BE ... **"
+	{
+		"chi"		"** 人类物品是...     **"
+	}
+	"** ZOMBIE ITEM WILL BE ... **"
+	{
+		"chi"		"** 僵尸物品是... **"
+	}
+	"** CURRENT MODE : CLONE MODE **"
+	{
+		"chi"		"** 当前模式：克隆模式 **"
+	}
+	"** CURRENT MODE : CRAZY OILDRUM MODE **"
+	{
+		"chi"		"** 当前模式：疯狂油桶模式 **"
+	}
+	"** NOTHING HAPPENED ** NORMAL MODE **"
+	{
+		"chi"		"** 当前模式：正常模式 **"
+	}
+	"** ... THE AbYSS WATCHER IS WATCHING YOU ... **"
+	{
+		"chi"		"** 深渊监视者在看着你 **"
+	}
+	"** ... THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"chi"		"** ..暗与火的怪物在这里出现了... **"
+	}
+	"** THE WHITE KNIGHT IS READY ROCK THE WORLD **"
+	{
+		"chi"		"** 白衣骑士已准备战斗 **"
+	}
+	"** MAP BY thegregster101 **"
+	{
+		"chi"		"** 地图作者：thegregster101 **"
+	}
+	"** REMIXED BY Tianli **"
+	{
+		"chi"		"** 地图重置：Tianli **"
+	}
+	"** TRAM LEAVES 10 SECONDS **"
+	{
+		"chi"		"** 缆车将在10秒后离开 **"
+	}
+	"** AFK TELEPORTING 20 SECONDS **"
+	{
+		"chi"		"** 挂机玩家将在20秒后传送 **"
+	}
+	"** AFK TELEPORTING 10 SECONDS **"
+	{
+		"chi"		"** 挂机玩家将在10秒后传送 **"
+	}
+	"** AFK & HUNTERS HAVE BEEN TELEPORTED **"
+	{
+		"chi"		"** 挂机玩家已传送 **"
+	}
+	"** RESCUE BOAT & HELI INBOUND 60 SECONDS **"
+	{
+		"chi"		"** 救援船和直升机将在60秒后出发 **"
+	}
+	"** HELI LEAVING 20 SECONDS **"
+	{
+		"chi"		"** 直升机将在20秒后离开 **"
+	}
+	"** HELI LEAVING 10 SECONDS **"
+	{
+		"chi"		"** 直升机将在10秒后离开 **"
+	}
+	"** BOAT LEAVING 15 SECONDS **"
+	{
+		"chi"		"** 救援船将在15秒后离开 **"
+	}
+	"** NUKE IN 10 SECONDS **"
+	{
+		"chi"		"** 核弹将在10秒后发射 **"
+	}
+	"** NUKE IN 5 SECONDS **"
+	{
+		"chi"		"** 核弹将在5秒后发射 **"
+	}
+	"** USE RADIO TO CALL FOR HELP ! **"
+	{
+		"chi"		"** 使用无线电呼叫救援 **"
+	}
+}
