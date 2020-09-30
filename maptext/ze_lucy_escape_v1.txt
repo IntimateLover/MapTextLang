@@ -2,6 +2,7 @@
 {
 	"***ZOMBIE TELEPORT IN 10 SECONDS"
 	{
+		"chi"		"**僵尸10秒后传送**"
 		"DoorCountdown"		"-1"
 	}
 	"***LEVEL 1 - THE STOLEN KITTY***"
@@ -10,7 +11,7 @@
 	}
 	"***MAP BY DEMON***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：DEMON **"
 	}
 	"***TELEPORT IN 10 SECONDS"
 	{
@@ -239,7 +240,7 @@
 	}
 	"***MARSHY IS GOING TO ACTIVATE THE FOUNTAIN PORTAL***"
 	{
-		"chi"		"**玛西正在去激活泉水的传送**"
+		"chi"		"**玛西正在去激活泉水的传送---剩余98秒**"
 	}
 	"***MARSHY IS SAYING PREPARE TO FALL BACK, ITS ALMOST OPENED***"
 	{
