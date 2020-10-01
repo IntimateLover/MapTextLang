@@ -98,7 +98,7 @@
 	}
 	"29816"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"29816"
 		"m_iname"		"Boss_Breakable"
 	}
@@ -158,7 +158,7 @@
 	}
 	"177296"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"177296"
 		"m_iname"		"SpaceCow"
 	}
