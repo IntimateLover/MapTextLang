@@ -183,14 +183,17 @@
 	"** TRAM LEAVES 10 SECONDS **"
 	{
 		"chi"		"** 缆车将在10秒后离开 **"
+		"DoorCountdown"		"-1"
 	}
 	"** AFK TELEPORTING 20 SECONDS **"
 	{
 		"chi"		"** 挂机玩家将在20秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"** AFK TELEPORTING 10 SECONDS **"
 	{
 		"chi"		"** 挂机玩家将在10秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	"** AFK & HUNTERS HAVE BEEN TELEPORTED **"
 	{
