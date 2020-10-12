@@ -1,0 +1,97 @@
+"Console_T"
+{
+	"BGM:sm19158004"
+	{
+		"chi"		"**地图背景音乐:柴又 sm19158004**"
+                "DoorCountdown"		"-1"
+	}
+	"level_2"
+	{
+		"chi"		"**第2关**"
+                "DoorCountdown"		"-1"
+	}
+	"Thank You For Playing!"
+	{
+		"chi"		"**感谢你的游玩！**"
+	}
+	"teleporter is activated"
+	{
+		"chi"		"**传送点已启用**"
+	}
+	"barricade will disappear after 20 sec"
+	{
+		"chi"		"**路障将在20秒后消失**"
+	}
+	"Watch out laser!"
+	{
+		"chi"		"**小心跳刀！**"
+	}
+	"3"
+	{
+		"chi"		"**3秒**"
+	}
+	"2"
+	{
+		"chi"		"**2秒**"
+	}
+	"1"
+	{
+		"chi"		"**1秒**"
+	}
+	"defend the door for 20 sec"
+	{
+		"chi"		"**防守大门20秒**"
+	}
+	"playerstart.mdl appered!"
+	{
+		"chi"		""
+	}
+	"door will close after 10 sec"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+	"zombie will teleport after 10 sec"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"get in the boss room"
+	{
+		"chi"		"**进入BOSS房**"
+	}
+	"zombie cannot get in the boss room!"
+	{
+		"chi"		"**僵尸无法进入BOSS房**"
+	}
+	"func_movelinear"
+	{
+		"chi"		"**func_movelinear[跳刀]:一个距离与指定方向移动的实体**"
+	}
+	"trigger_hurt"
+	{
+		"chi"		"**trigger_hurt[伤害]:规定一个区域,玩家进入该区域将受到伤害（或者加血）**"
+	}
+	"trigger_push[HOLD S]"
+	{
+		"chi"		"**trigger_push[吸力，按住S]:该实体推动进入它范围的实体**"
+	}
+	"point_dz_dronegun"
+	{
+		"chi"		"**point_dz_dronegun:炮塔点实体**"
+	}
+	"Something happen..."
+	{
+		"chi"		"**有什么事发生了...**"
+	}
+	"C4 will explode after 40 sec"
+	{
+		"chi"		"**炸弹将在40秒后引爆**"
+	}
+	"HELLO_WORLD"
+	{
+		"chi"		""
+	}
+	"map by Dr.Document"
+	{
+		"chi"		"**地图制作:Dr.Document 汉化：血色的龙琉璃**"
+	}
+}
