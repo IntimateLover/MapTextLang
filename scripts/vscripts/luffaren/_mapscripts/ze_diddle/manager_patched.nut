@@ -1346,8 +1346,8 @@ yellowlaserspawn_warningindicator_distance <- 600;
 yellowlaserspawn_warningindicator_onlyextreme <- true;
 function YellowLaserSpawned()
 {
-	if(yellowlaserspawn_warningindicator_onlyextreme && !extreme)
-		return;
+	//if(yellowlaserspawn_warningindicator_onlyextreme && !extreme)
+	//	return;
 	if(caller==null||!caller.IsValid())
 		return;
 	local p = null;
