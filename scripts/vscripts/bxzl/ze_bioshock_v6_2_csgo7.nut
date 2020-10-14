@@ -30,7 +30,7 @@ big_daddy <- null;
 
 spawnhudhint <- null;
 
-function Text_Change()
+function Text_Change_1()
 {
 		insect1 = Entities.FindByName(null,"plasmid_insect_text1");
 		insect2 = Entities.FindByName(null,"plasmid_insect_text2");
@@ -53,8 +53,7 @@ function Text_Change()
 		frost1 = Entities.FindByName(null,"plasmid_frost_text1");
 		frost2 = Entities.FindByName(null,"plasmid_frost_text2");
 		frost3 = Entities.FindByName(null,"plasmid_frost_text3");
-		big_daddy = Entities.FindByName(null,"big_daddy_pickup_text");
-		spawnhudhint = Entities.FindByName(null,"spawn_hudhint");		
+		big_daddy = Entities.FindByName(null,"big_daddy_pickup_text");	
 		if( (insect1 != null) && (insect1.GetClassname() == "game_text") )
 		{
 			insect1.__KeyValueFromString("message", "质粒: 虫群1级\n效果：以一大群蜜蜂对前进碰到的目标造成少量伤害\n次数：5次（简单难度）/3次（困难难度）\n冷却时间：10秒 ");
@@ -143,6 +142,11 @@ function Text_Change()
 		{
 			big_daddy.__KeyValueFromString("message", "大老爹\n你的任务就是呆在小妹妹旁边\n你在小妹妹旁边的话，她将会是不死的");
 		}
+}
+
+function Text_Change_2()
+{
+		spawnhudhint = Entities.FindByName(null,"spawn_hudhint");	
 		if( (spawnhudhint != null) && (spawnhudhint.GetClassname() == "game_text") )
 		{
 			spawnhudhint.__KeyValueFromString("message", "1999模式\n恭喜你们已通关地图主要部分\n1999模式关卡是一个挑战关卡，它包含的前四关的大部分路线\n因此它将会是比较难的一关，并且大约需要20分钟通关\n那么预祝玩的开心，好运！");
