@@ -1302,7 +1302,7 @@
 	}
 	"***HOLD THEM OFF FOR A LONG TIME***"
 	{
-		"chi"		"**能守多长时间就守多长**"
+		"chi"		"**这是一个漫长的守点**"
 	}
 	"***SKIP STAGE - SHREK***"
 	{
@@ -1318,7 +1318,7 @@
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"**服务器即将关闭，请关闭你的游戏**"
+		"chi"		"**服务器因更新而关闭，请更新游戏**"
 	}
 	"***SKIP STAGE - TURTLE***"
 	{
@@ -1539,5 +1539,10 @@
 	"***TORCHES REMOVED, GOOD LUCK...***"
 	{
 		"chi"		"**火把已被删除，祝各位好运**"
+	}
+	"*SOME Z'S ARE IN FRONT WITH LOW HP, KILL THEM!*"
+	{
+		"chi"		"**部分低血量僵尸被传送在前线，消灭它们**"
+		"DoorCountdown"		"10"
 	}
 }
