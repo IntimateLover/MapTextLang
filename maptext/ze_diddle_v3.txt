@@ -1484,7 +1484,7 @@
 	{
 		"chi"		"**等等，这可是EX模式啊！**"
 	}
-	"*It's pretty extreme, right?*"
+	"*Its pretty extreme, right?*"
 	{
 		"chi"		"**是不是挺EX的啊？哈哈哈哈**"
 	}
@@ -1540,9 +1540,9 @@
 	{
 		"chi"		"**火把已被删除，祝各位好运**"
 	}
-	"*SOME Z'S ARE IN FRONT WITH LOW HP, KILL THEM!*"
+	"*SOME ZS ARE IN FRONT WITH LOW HP, KILL THEM!*"
 	{
-		"chi"		"**部分低血量僵尸被传送在前线，消灭它们**"
+		"chi"		"**一些低血量的僵尸被传送在前线，消灭它们**"
 		"DoorCountdown"		"10"
 	}
 }
