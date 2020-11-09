@@ -14,7 +14,7 @@
 	}
 	"# MISSION 1 - OMINOUS RUMORS #"
 	{
-		"chi"		"**任务1:不详的谣言 **"
+		"chi"		"**任务一:不详的谣言 **"
 	}
 	"# PART 1 - ESCAPE! #"
 	{
@@ -51,7 +51,6 @@
 	"<!!!> 40 SECONDS <!!!>"
 	{
 		"chi"		"**40秒!!! **"
-		"DoorCountdown"		"40"
 	}
 	"<!!!> 30 SECONDS <!!!>"
 	{
@@ -92,7 +91,6 @@
 	"# 10 SECONDS #"
 	{
 		"chi"		"**10秒!!! **"
-		"DoorCountdown"		"10"
 	}
 	"<!!!> GO GO GO <!!!>"
 	{
@@ -113,7 +111,6 @@
 	"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
 	{
 		"chi"		"**闸门将在20秒后开启!! **"
-		"DoorCountdown"		"20"
 	}
 	"<!!!> GO LEFT <!!!>"
 	{
@@ -125,12 +122,11 @@
 	}
 	"# UNLIMITED AMMO - 14 SECONDS #"
 	{
-		"chi"		"**无限子弹--14秒 **"
+		"chi"		"**无限子弹--十四秒 **"
 	}
 	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
 	{
 		"chi"		"**门将在15秒后关闭 **"
-		"DoorCountdown"		"15"
 	}
 	"<!!!> DEFEND THIS POSITION <!!!>"
 	{
@@ -163,12 +159,10 @@
 	"# TRAM START IN 20 SECONDS #"
 	{
 		"chi"		"**电车将在20秒后出发!!! **"
-		"DoorCountdown"		"20"
 	}
 	"# DOOR OPEN IN 20 SECONDS #"
 	{
 		"chi"		"**门将在20秒后打开!! **"
-		"DoorCountdown"		"20"
 	}
 	"# DOOR OPEN #"
 	{
@@ -181,7 +175,6 @@
 	"# FINAL DOOR CLOSING IN 20 SECONDS #"
 	{
 		"chi"		"**最后一道门将在20秒后关闭!!!! **"
-		"DoorCountdown"		"20"
 	}
 	"# 5 SECONDS #"
 	{
@@ -193,7 +186,7 @@
 	}
 	"<!!!> EASY COMPLETED <!!!>"
 	{
-		"chi"		"**轻松完成!!!! **"
+		"chi"		"**三个简单难度关卡循环完成!!!! **"
 	}
 	"# SANDBAG WALL #"
 	{
@@ -214,7 +207,6 @@
 	"# FINAL DOOR CLOSING IN 40 SECONDS #"
 	{
 		"chi"		"**最后一道门将在40秒后关闭 **"
-		"DoorCountdown"		"40"
 	}
 	"# 30 SECONDS #"
 	{
@@ -226,16 +218,15 @@
 	}
 	"<!!!> MED COMPLETED <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**三个中等难度关卡结束 **"
 	}
 	"# ITEM RESTRICTION - BLACK MAGIC #"
 	{
-		"chi"		"**限制项目-魔法 **"
+		"chi"		"**黑魔法神器已锁定无法使用 **"
 	}
 	"<!!!> 60 SECONDS <!!!>"
 	{
 		"chi"		"**还剩60秒!!! **"
-		"DoorCountdown"		"60"
 	}
 	"<!!!> 50 SECONDS <!!!>"
 	{
@@ -243,15 +234,15 @@
 	}
 	"# ITEM RESTRICTION - BAZOOKA #"
 	{
-		"chi"		"**限制项目-火箭炮 **"
+		"chi"		"**火箭炮神器已锁定无法使用 **"
 	}
 	"# ITEM RESTRICTION - SANDBAG WALL #"
 	{
-		"chi"		"**限制项目-沙袋墙 **"
+		"chi"		"**沙袋墙神器已锁定无法使用 **"
 	}
 	"# MAGIC - FREEZE #"
 	{
-		"chi"		"**魔法冻结 **"
+		"chi"		"**黑魔法----魔法冻结 **"
 	}
 	"^^^ Map By: BillSmauz ^^^"
 	{
@@ -264,10 +255,12 @@
 	"# MG42 AMMO #"
 	{
 		"chi"		"**MG42机枪弹药 **"
+		"DoorCountdown"		"-1"
 	}
 	"# MG42 AMMO LOADED #"
 	{
-		"chi"		"**MG42机枪弹药装载中 **"
+		"chi"		"**MG42机枪弹药装载完成 **"
+		"DoorCountdown"		"2"
 	}
 	"# FLAMETHROWER #"
 	{
@@ -283,17 +276,15 @@
 	}
 	"# ITEM RESTRICTION - UNLIMITED AMMO #"
 	{
-		"chi"		"**限制项目-无限弹药 **"
+		"chi"		"**无限弹药神器已锁定无法使用 **"
 	}
 	"<!!!> GATE OPEN IN 30 SECONDS <!!!>"
 	{
 		"chi"		"**闸门将在30秒后打开!!! **"
-		"DoorCountdown"		"30"
 	}
 	"# FALL BACK - DOOR #"
 	{
 		"chi"		"**从门那里撤退!!! **"
-		"DoorCountdown"		"30"
 	}
 	"# TURN TRAM POWER ON #"
 	{
@@ -306,12 +297,10 @@
 	"# TRAM START IN 30 SECONDS #"
 	{
 		"chi"		"**电车将在30秒后离开 **"
-		"DoorCountdown"		"30"
 	}
 	"# FINAL DOOR CLOSING IN 50 SECONDS #"
 	{
 		"chi"		"**最后一道门将在50秒后关闭 **"
-		"DoorCountdown"		"50"
 	}
 	"# 40 SECONDS #"
 	{
@@ -319,18 +308,14 @@
 	}
 	"<!!!> MAP COMPLETED <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**整个地图通关 **"
 	}
 	"<!!!> ZOMBIES DETECTED - YOU LOSE <!!!>"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到僵尸----你们输了 **"
 	}
 	"# ITEM RESTRICTION - FLAMETHROWER #"
 	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"57389"
+		"chi"		"**喷火器神器已锁定无法使用**"
 	}
 }
