@@ -182,7 +182,7 @@
 	}
 	"Door to guard post will open in 5 sec"
 	{
-		"chi"		"** 隔离门将在30秒后开启 **"
+		"chi"		"** 隔离门将在5秒后开启 **"
 	}
 	"Hunter will break the storage room door in 30 sec"
 	{
@@ -295,6 +295,7 @@
 	"OK we found 6 keycards now we can enter to second part of the lab"
 	{
 		"chi"		"** 我们找到了6张钥匙卡，现在我们可以进入实验室的第二部分了 **"
+		"DoorCountdown"		"-1"
 	}
 	"Office doors will close in 10 sec"
 	{
@@ -316,6 +317,7 @@
 	"To open 2-nd door we need 6 keycards"
 	{
 		"chi"		"** 要打开第二扇门，我们需要6张钥匙卡 **"
+		"DoorCountdown"		"-1"
 	}
 	"Door to the main office will open in 5 sec"
 	{
