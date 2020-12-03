@@ -1,10 +1,10 @@
 "Console_T"
 {
-    "| Middle door opens in 25 seconds |"
-    {
-        "chi"		"** 中间大门将在25秒后打开 **"
-    }
-	  "| Zombie teleport in 10 seconds |"
+	"| Middle door opens in 25 seconds |"
+	{
+	    "chi"		"** 中间大门将在25秒后打开 **"
+	}
+	"| Zombie teleport in 10 seconds |"
     {
         "chi"		"** 僵尸将在10秒后传送 **"
     }
@@ -54,7 +54,7 @@
     }
     "** Classic bow has been picked up **"
     {
-        "chi"		"** 一位玩家拾取了普通的弓 **"
+        "chi"		"** 一位玩家拾取了减速之弓 **"
     }
     "| Zombie freezer has been picked up |"
     {
@@ -66,23 +66,23 @@
     }
     "| Zombie gravity has been picked up |"
     {
-        "chi"		"** 一位僵尸拾取了僵尸重力 **"
+        "chi"		"** 一位僵尸拾取了僵尸黑洞 **"
     }
     "| Dragon has been picked up |"
     {
-        "chi"		"** 一位僵尸拾取了僵尸龙 **"
+        "chi"		"** 一位僵尸拾取了僵尸神龙 **"
     }
     "** Ice bow has been picked up **"
     {
-        "chi"		"** 一位玩家拾取了冰冻弓 **"
+        "chi"		"** 一位玩家拾取了寒冰之弓 **"
     }
     "** Explosive bow has been picked up **"
     {
-        "chi"		"** 一位玩家拾取了爆炸弓 **"
+        "chi"		"** 一位玩家拾取了火焰之弓 **"
     }
     "** Electric bow has been picked up **"
     {
-        "chi"		"** 一位玩家拾取了电弓 **"
+        "chi"		"** 一位玩家拾取了闪电之弓 **"
     }
     "| 10 more seconds ! |"
     {
@@ -246,7 +246,7 @@
     }
     "| Someone is trying to interrupt us |"
     {
-        "chi"		"** 有人试图阻止我们前进 **"
+        "chi"		"** 有东西试图阻止我们前进 **"
     }
     "| Kill him to pass the bridge |"
     {
@@ -256,5 +256,4 @@
     {
         "chi"		"** 左侧大门将在25秒后打开 **"
     }
-
 }
