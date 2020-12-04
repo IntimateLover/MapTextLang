@@ -1,9 +1,9 @@
 "Console_T"
 {
-	"| Middle door opens in 25 seconds |"
-	{
-	    "chi"		"** 中间大门将在25秒后打开 **"
-	}
+        "| Middle door opens in 25 seconds |"
+    {
+	"chi"		"** 中间大门将在25秒后打开 **"
+    }
 	"| Zombie teleport in 10 seconds |"
     {
         "chi"		"** 僵尸将在10秒后传送 **"
@@ -18,7 +18,7 @@
     }
     "| YOU WON EXTREME MOD ! |"
     {
-        "chi"		"** 你通过了困难模式 **"
+        "chi"		"** 恭喜你,通过了困难模式 **"
     }
     "Special thanks to Moltard, Nostar, Raphi, Kaemon, Luffaren"
     {
@@ -36,9 +36,9 @@
     {
         "chi"		"** 大门将在15秒后打开 **"
     }
-    "| Castle doors opens in 30 seconds |"
+    "| Castle doors opens in 35 seconds |"
     {
-        "chi"		"** 城堡大门将在30秒后打开 **"
+        "chi"		"** 城堡大门将在35秒后打开 **"
     }
     "| Right side gate opens in 15 seconds |"
     {
@@ -246,7 +246,7 @@
     }
     "| Someone is trying to interrupt us |"
     {
-        "chi"		"** 有东西试图阻止我们前进 **"
+        "chi"		"** 有人试图阻止我们前进 **"
     }
     "| Kill him to pass the bridge |"
     {
@@ -255,5 +255,17 @@
     "| Left gates opens in 25 seconds |"
     {
         "chi"		"** 左侧大门将在25秒后打开 **"
+    }
+    "| Gates opens in 25 seconds |"
+    {
+        "chi"		"** 大门将在25秒后打开 **"
+    }
+    "| Gate break in 20 seconds |"
+    {
+        "chi"		"** 大门将在20秒后打开 **"
+    }
+    "| Shortcut gate opens in 40 seconds |"
+    {
+        "chi"		"** 侧路将在40秒后打开 **"
     }
 }
