@@ -157,6 +157,7 @@
 	"** THE LIFT IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"** 升降梯将在10秒后离开 **"
+		"DoorCountDown"		"10"
 	}
 	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
 	{
