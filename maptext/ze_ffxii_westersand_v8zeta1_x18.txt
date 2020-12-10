@@ -459,4 +459,9 @@
 	{
 		"chi"		"**恭喜-你们有位玩家solo了上帝难度**"
 	}
+	"** 禁止使用隔墙秒杀(ban for wall warp) **"
+	{
+		"chi"		"** 禁止使用隔墙秒杀(ban for wall warp) **"
+		"DoorCountdown"		"10"
+	}
 }
