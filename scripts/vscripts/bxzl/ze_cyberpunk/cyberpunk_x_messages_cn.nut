@@ -26,11 +26,11 @@ function Example()
 //***************General messages
 function AIXTrappedPlayer()
 {
-	ScriptPrintMessageChatAll(DarkRed+"[人工智能X]"+DarkSilver+"损坏了"+Blue+"一位玩家的芯片.(冻住!)");
+	ScriptPrintMessageChatAll(DarkRed+"[人工智能X]"+DarkSilver+"击毙了"+Blue+"一位人类.(不要乱贴门)");
 }
 function PlayerTouchedWater()
 {
-	ScriptPrintMessageChatAll(DarkRed+"一位玩家"+DarkSilver+"损坏了自己的"+Blue+"芯片"+DarkSilver+"(由于接触到水域)(冻住!).");
+	ScriptPrintMessageChatAll(DarkRed+"一位玩家"+DarkSilver+"失去了自己的"+Blue+"生命"+DarkSilver+"(由于掉进水里).");
 }
 function TeleportAdvance(value)
 {
@@ -78,7 +78,7 @@ function Lvl1Trigger1Message2()
 //-----------
 function Lvl1Trigger2Message()
 {
-	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+DarkSilver+"This Panel seems to be broken..seems like"+Blue+"The Panel on the other end"+DarkSilver+"is not.");
+	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+DarkSilver+"面前这个操作面板好像坏了..但是似乎"+Blue+"门后面的那个操作面板是"+DarkSilver+"好的.");
 }
 //-----------
 function Lvl1Trigger3Message()
@@ -225,11 +225,11 @@ function Lvl2Trigger5()
 }
 function Lvl2Trigger5_1()
 {
-	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+DarkSilver+"我们应该能够关闭"+Blue+"安全系统"+DarkSilver+"incase there is something ahead.");
+	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+DarkSilver+"我们应该能够关闭"+Blue+"安全系统"+DarkSilver+"以防在后面的路上出现什么东西.");
 }
 function Lvl2Trigger5_2()
 {
-	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+Blue+"安全系统"+DarkSilver+"正在"+Red+"关闭"+DarkSilver+"但它完全关闭需要一些"+Blue+"时间"+DarkSilver+", 让我们顺便关闭"+Blue+"下水道系统"+DarkSilver+",在这个墙里.");
+	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+Blue+"安全系统"+DarkSilver+"正在"+Red+"关闭"+DarkSilver+"但它完全关闭需要一些"+Blue+"时间"+DarkSilver+", 让我们进入"+Blue+"下水道"+DarkSilver+",在这个墙边上的洞里.");
 }
 function Lvl2Trigger5_3()
 {
@@ -261,7 +261,7 @@ function Lvl2IncomingHelicopter() {
 }
 
 function overallDefendMsg() {
-	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+DarkSilver+"防守住火车! All 4 sub sections must remain in order to advance!");
+	ScriptPrintMessageChatAll(PurplePinkish+"[地图信息]:"+DarkSilver+"防守住火车! 4节火车都必须守住!");
 }
 
 function stageFailedTrain() {
