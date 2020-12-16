@@ -1,31 +1,31 @@
-old_owner <- null;
+older_owner <- null;
 ticking <- false;
 pistol <- null;
 
 function SetOwner()
 {
 	pistol = caller;
-	if( (old_owner != null) && (old_owner.IsValid()) )
+	if( (older_owner != null) && (older_owner.IsValid()) )
 	{
-		if(old_owner == activator)
+		if(older_owner == activator)
 		{
 			older_owner = activator;
-			EntFireByHandle(old_owner,"AddOutput","rendermode 1",0.1,old_owner,null);
-			EntFireByHandle(old_owner,"Alpha","10",0.2,old_owner,null);			
+			EntFireByHandle(older_owner,"AddOutput","rendermode 1",0.1,older_owner,null);
+			EntFireByHandle(older_owner,"Alpha","10",0.2,older_owner,null);	
 		}
 		else
 		{
-			EntFireByHandle(old_owner,"AddOutput","rendermode 0",0,old_owner,null);
+			EntFireByHandle(older_owner,"AddOutput","rendermode 0",0,older_owner,null);
 			older_owner = activator;
-			EntFireByHandle(old_owner,"AddOutput","rendermode 1",0.1,old_owner,null);
-			EntFireByHandle(old_owner,"Alpha","10",0.2,old_owner,null);
+			EntFireByHandle(older_owner,"AddOutput","rendermode 1",0.1,older_owner,null);
+			EntFireByHandle(older_owner,"Alpha","10",0.2,older_owner,null);
 		}
 	}
 	else
 	{
-			old_owner = activator;
-			EntFireByHandle(old_owner,"AddOutput","rendermode 1",0.1,old_owner,null);
-			EntFireByHandle(old_owner,"Alpha","10",0.2,old_owner,null);
+			older_owner = activator;
+			EntFireByHandle(older_owner,"AddOutput","rendermode 1",0.1,older_owner,null);
+			EntFireByHandle(older_owner,"Alpha","10",0.2,older_owner,null);
 	}
 	if(!ticking)
 	{
@@ -44,7 +44,7 @@ function Tick()
 	{
 		if( (pistol.GetOwner() == null) || (!pistol.GetOwner().IsValid()) )
 		{
-			EntFireByHandle(old_owner,"AddOutput","rendermode 0",0,old_owner,null);
+			EntFireByHandle(older_owner,"AddOutput","rendermode 0",0,older_owner,null);
 			ticking = false;
 		}
 	}
