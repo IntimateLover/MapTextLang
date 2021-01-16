@@ -17,6 +17,6 @@ function push()
     dir.Norm();
     local vel = Vector(Pscale * dir.x, Pscale * dir.y, Pscale * dir.z);
     koyo.__KeyValueFromVector("basevelocity", vel);
-    printl(vel);
+
 }
 
