@@ -38,7 +38,11 @@
 	}
 	"AFK TELEPORT IN 10 SECOND"
 	{
-		"chi"		"AFK传送将于10秒后"
+		"chi"		"10秒后AFK传送"
+	}
+	"AFK TELEPORT IN 10 SECODN"
+	{
+		"chi"		"10秒后AFK传送"
 	}
 	"***THE PLATFORM WILL LEAVE IN 15 SECOND***"
 	{
@@ -58,7 +62,7 @@
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
-		"chi"		"AFK传送将于5秒后"
+		"chi"		"5秒后AFK传送"
 	}
 	"***THE DOORS WILL OPEN IN 40 SECOND***"
 	{
@@ -98,6 +102,6 @@
 	}
 	"AFK TELEPORT IN 15 SECOND"
 	{
-		"chi"		"AFK传送将于15秒后"
+		"chi"		"15秒后AFK传送"
 	}
 }
