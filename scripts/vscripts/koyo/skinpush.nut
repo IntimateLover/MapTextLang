@@ -1,5 +1,5 @@
 koyo <- null;
-Pscale <- 100.0;
+Pscale <- 70;
 
 
 function target() 
