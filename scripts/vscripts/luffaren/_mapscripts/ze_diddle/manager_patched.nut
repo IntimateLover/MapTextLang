@@ -442,6 +442,7 @@ function RoundStart()
 		EntFire("server", "Command", "sm_cvar zr_infect_mzombie_ratio 7", 0.00, null);
 		exmvote_voteallowed = true;
 		EntFireByHandle(self, "RunScriptCode", " exmvote_voteallowed = false; ", 10.90, null, null);
+		EntFireByHandle(self, "RunScriptCode", " GetAllCoins() ", 4, null, null);
 		ExevRoundStart();
 		ShrekDiddleCannonTick();
 	}
