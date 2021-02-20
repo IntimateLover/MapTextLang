@@ -22,7 +22,8 @@ function Z_check_TeleportTeam(team,_sign,_check,_x,_y,_z)
 * TEAM 1 = ct/人类, TEAM 2 = t/僵尸
 * _sign  1 = 大于当前设定z轴则传送   2 = 小于当前设定z轴则传送
 * _check = 需要检查的z轴
-* xxx runscriptcode "Z_check_TeleportTeam(1,1,检测的z轴,100,100,64);"
+* 大于检测z 传送 xxx runscriptcode "Z_check_TeleportTeam(1,1,检测的z轴,100,100,64);"
+* 小于检测z 传送 xxx runscriptcode "Z_check_TeleportTeam(1,2,检测的z轴,100,100,64);"
 **/
 {
 	team = 4-team;
