@@ -4,10 +4,12 @@ HIGH_LIGHT<-[];
 tick<-false;
 delay<-1.00;
 HIDE_ALPHA<-50;
-// 无法半透明(rendermode 1)，改为10进行隐身
-HIDE_MODE<-10;
+// 半透明(rendermode 1)，改为10不渲染模型，不过有影子
+HIDE_MODE<-1;
 // 可以随时启用\禁用隐身
 HIDE_SWITCH<-true;
+// 常时刷新隐身，用于处理个别地图覆盖神器隐身的问题
+AUTO_HIDE<-false;
 // 绑定OnPlayerPickup
 function SetNewOwner(){
 	local weapon=caller;
@@ -70,7 +72,7 @@ function hidePlayer(player,hide){
 	if(pscr==null)return;
 	if(!("hide" in pscr))return;
 	if(HIDE_SWITCH&&hide){
-		if(!pscr.hide){
+		if(!pscr.hide||AUTO_HIDE){
 			pscr.hide=true;
 			player.__KeyValueFromInt("rendermode",HIDE_MODE);
 		}
@@ -87,6 +89,7 @@ function CreateGlow(activator,object){
 	glow.__KeyValueFromInt("glowdist", 2048);
 	glow.__KeyValueFromInt("solid", 0);
 	glow.__KeyValueFromString("glowcolor", "210 245 10");
+	glow.__KeyValueFromInt("glowstyle", 2);
 	glow.__KeyValueFromInt("rendermode", 1);
 	glow.__KeyValueFromInt("renderfx", 14);
 	EntFireByHandle(glow, "SetParent", "!activator", 0, activator, object);
@@ -96,7 +99,7 @@ function CreateGlow(activator,object){
 	return glow;
 }
 
-// rendermode会带到下一局，如果没有开局还原则执行此方法
+// rendermode会带到下一局，如果没有开局还原的功能则执行此方法
 function ClearPlayerHide(){
 	player<-null;
 	while((player = Entities.FindByClassname(player,"player")) != null){
@@ -104,4 +107,11 @@ function ClearPlayerHide(){
 			EntFireByHandle(player, "addoutput", "rendermode 0", 0, null, null);
 		}
 	}
+	ScriptPrintMessageChatAll(" \x03重置半透明完成\x01");
 }
+
+function Init(){
+	ScriptPrintMessageChatAll(" \x03已加载神器隐身\x01");
+}
+
+self.ConnectOutput("OnSpawn", "Init");
