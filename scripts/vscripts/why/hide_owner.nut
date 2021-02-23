@@ -75,6 +75,7 @@ function hidePlayer(player,hide){
 		if(!pscr.hide||AUTO_HIDE){
 			pscr.hide=true;
 			player.__KeyValueFromInt("rendermode",HIDE_MODE);
+			EntFireByHandle(player, "alpha", HIDE_ALPHA.tostring(), 0, null, null);
 		}
 		return;
 	}
