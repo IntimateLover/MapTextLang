@@ -10,8 +10,12 @@ HIDE_MODE<-1;
 HIDE_SWITCH<-true;
 // 常时刷新隐身，用于处理个别地图覆盖神器隐身的问题
 AUTO_HIDE<-false;
+// 启用颜色变化
+COLOR_CHANGE<-true;
+COLOR_LIST<-{};
 // 绑定OnPlayerPickup
 function SetNewOwner(){
+	if(COLOR_LIST.len()<1){Init()};
 	local weapon=caller;
 	local player=activator;
 	local index=null;
@@ -38,6 +42,9 @@ function SetNewOwner(){
 		OLD_OWNER[index]=player;
 		HIGH_LIGHT[index]=CreateGlow(player,weapon);
 	}
+	if(COLOR_CHANGE){
+		SetColor(index);
+	}
 	EntFireByHandle(player, "alpha", HIDE_ALPHA.tostring(), 0, null, null);
 	EntFireByHandle(player, "runscriptcode", "hide<-false", 0, null, null);
 	if(!tick){
@@ -51,7 +58,7 @@ function Tick(){
 		EntFireByHandle(self, "runscriptcode", "Tick()", delay, null, null);
 		for(local i=0;i<WEAPON.len();i++){
 			local weapon=WEAPON[i];
-			if(null==weapon.GetOwner()){
+			if(!weapon.IsValid()||null==weapon.GetOwner()){
 				if(""!=HIGH_LIGHT[i]){
 					HIGH_LIGHT[i].Destroy();
 					HIGH_LIGHT[i]="";
@@ -89,7 +96,7 @@ function CreateGlow(activator,object){
 	glow <- CreateProp("prop_dynamic_glow",activator.GetOrigin(),object.GetModelName(),0);
 	glow.__KeyValueFromInt("glowdist", 2048);
 	glow.__KeyValueFromInt("solid", 0);
-	glow.__KeyValueFromString("glowcolor", "210 245 10");
+	glow.__KeyValueFromString("glowcolor", "0 255 255");
 	glow.__KeyValueFromInt("glowstyle", 2);
 	glow.__KeyValueFromInt("rendermode", 1);
 	glow.__KeyValueFromInt("renderfx", 14);
@@ -98,6 +105,23 @@ function CreateGlow(activator,object){
 	EntFireByHandle(glow, "SetParent", "!activator", 0.5, activator, object);
 	EntFireByHandle(glow, "SetGlowEnabled", "", 0.01, null, null);
 	return glow;
+}
+
+function SetColor(index){
+	if(null==WEAPON[index].GetOwner())return;
+	if(null==WEAPON[index].GetScriptScope()){
+		EntFireByHandle(WEAPON[index], "runscriptcode", "printl(0)", 0, null, null);
+		EntFireByHandle(self, "runscriptcode", "SetColor("+index.tostring()+")", 0.1, null, null);
+		return;
+	}
+	local name=WEAPON[index].GetScriptScope().__vname;
+	foreach(k,v in COLOR_LIST){
+		for(local i=1;i<v.len();i++){
+			if(name.find(v[i])<0)continue;
+			HIGH_LIGHT[index].__KeyValueFromString("glowcolor", v[0]);
+			return;
+		}
+	}
 }
 
 // rendermode会带到下一局，如果没有开局还原的功能则执行此方法
@@ -112,7 +136,20 @@ function ClearPlayerHide(){
 }
 
 function Init(){
-	ScriptPrintMessageChatAll(" \x03已加载神器隐身\x01");
+	COLOR_LIST["YELLOW"]<-["210 245 10","elec","rayo"];
+	//D5912B
+	COLOR_LIST["BROWN"]<-["213 145 43","earth","tierra"];
+	//FF3300
+	COLOR_LIST["RED"]<-["255 51 0","fire","fuego"];
+	//3385FF
+	COLOR_LIST["BLUE"]<-["51 133 255","water","ice","hielo"];
+	//6600FF
+	COLOR_LIST["PURPLE"]<-["102 0 255","black","hole","gravity","gravedad"];
+	//88FFFF
+	COLOR_LIST["WHITE"]<-["136 255 255","holy","heal","cura"];
+	//33FF00
+	COLOR_LIST["GREEN"]<-["51 255 0","wind","bio","ult","viento"];
+	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210315\x01");
 }
 
 self.ConnectOutput("OnSpawn", "Init");
