@@ -107,14 +107,13 @@ function CreateGlow(activator,object){
 	return glow;
 }
 
-function SetColor(index){
+function SetColor(index,needWait=true){
 	if(null==WEAPON[index].GetOwner())return;
-	if(null==WEAPON[index].GetScriptScope()){
-		EntFireByHandle(WEAPON[index], "runscriptcode", "printl(0)", 0, null, null);
-		EntFireByHandle(self, "runscriptcode", "SetColor("+index.tostring()+")", 0.1, null, null);
+	if(needWait){
+		EntFireByHandle(self, "runscriptcode", "SetColor("+index.tostring()+",false)", 1, null, null);
 		return;
 	}
-	local name=WEAPON[index].GetScriptScope().__vname;
+	local name=WEAPON[index].GetOwner().GetName();
 	foreach(k,v in COLOR_LIST){
 		for(local i=1;i<v.len();i++){
 			if(name.find(v[i])<0)continue;
@@ -145,8 +144,8 @@ function Init(){
 	COLOR_LIST["BLUE"]<-["51 133 255","water","ice","hielo"];
 	//6600FF
 	COLOR_LIST["PURPLE"]<-["102 0 255","black","hole","gravity","gravedad"];
-	//88FFFF
-	COLOR_LIST["WHITE"]<-["136 255 255","holy","heal","cura"];
+	//FFFFFF
+	COLOR_LIST["WHITE"]<-["255 255 255","holy","heal","cura"];
 	//33FF00
 	COLOR_LIST["GREEN"]<-["51 255 0","wind","bio","ult","viento"];
 	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210315\x01");
