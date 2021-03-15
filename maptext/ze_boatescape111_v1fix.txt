@@ -104,6 +104,14 @@
 	{
 		"chi"		"** 炸药桶！ **"
 	}
+    "** HAMMER ! **"
+	{
+		"chi"		"** 锤子！ **"
+	}
+    "** SWORD ! **"
+	{
+		"chi"		"** 大剑！ **"
+	}
 	"** TROLL ! **"
 	{
 		"chi"		"** 巨魔！ **"
@@ -111,6 +119,14 @@
 	"** CURRENT MODE : ZM MODE **"
 	{
 		"chi"		"** 当前模式：ZM模式 **"
+	}
+    "** CURRENT MODE : COLD WEAPON MODE **"
+	{
+		"chi"		"** 当前模式：冷兵器大乱斗**"
+	}
+    "** CURRENT MODE : FIREWORKS MODE **"
+	{
+		"chi"		"** 当前模式：烟花大乱斗**"
 	}
 	"** SOLO TIME ** 30 SECONDS **"
 	{
