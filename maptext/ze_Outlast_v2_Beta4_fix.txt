@@ -151,7 +151,6 @@
 	{
 		"chi"		"**敬请等待后续更新 **"
 	}
-	
 	"*** STAGE 2 HOSPITAL ***"
 	{
 		"chi"		"**第二关：医院 **"
@@ -199,5 +198,9 @@
 	"||| Wait for new updates Good Luckl |||"
 	{
 		"chi"		"**敬请等待后续更新 **"
+	}
+	"||| Shoot the Boss and finsh The lasers!  |||"
+	{
+		"chi"		"**朝BOSS开枪并躲避跳刀**"
 	}
 }
