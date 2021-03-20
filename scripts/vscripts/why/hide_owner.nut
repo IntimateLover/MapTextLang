@@ -29,7 +29,7 @@ function SetNewOwner(){
 		index=WEAPON.len();
 		WEAPON.push(weapon);
 		OLD_OWNER.push(player);
-		HIGH_LIGHT.push(CreateGlow(player,weapon));
+		HIGH_LIGHT.push(CreateGlow(player,weapon,index));
 	}else{
 		if(""!=HIGH_LIGHT[index]){
 			HIGH_LIGHT[index].Destroy();
@@ -40,7 +40,7 @@ function SetNewOwner(){
 			OLD_OWNER[index]="";
 		}
 		OLD_OWNER[index]=player;
-		HIGH_LIGHT[index]=CreateGlow(player,weapon);
+		HIGH_LIGHT[index]=CreateGlow(player,weapon,index);
 	}
 	if(COLOR_CHANGE){
 		SetColor(index);
@@ -92,7 +92,7 @@ function hidePlayer(player,hide){
 	}
 }
 
-function CreateGlow(activator,object){
+function CreateGlow(activator,object,index){
 	glow <- CreateProp("prop_dynamic_glow",activator.GetOrigin(),object.GetModelName(),0);
 	glow.__KeyValueFromInt("glowdist", 2048);
 	glow.__KeyValueFromInt("solid", 0);
@@ -100,6 +100,10 @@ function CreateGlow(activator,object){
 	glow.__KeyValueFromInt("glowstyle", 2);
 	glow.__KeyValueFromInt("rendermode", 1);
 	glow.__KeyValueFromInt("renderfx", 14);
+	local name="hl_glow_"+index.tostring();
+	glow.__KeyValueFromString("targetname", name);
+	par <- Entities.CreateByClassname("info_particle_system");
+	EntFireByHandle(par, "SetParent", name, 0, null, null);
 	EntFireByHandle(glow, "SetParent", "!activator", 0, activator, object);
 	EntFireByHandle(glow, "SetParentAttachment", "primary", 0.01, null, null);
 	EntFireByHandle(glow, "SetParent", "!activator", 0.5, activator, object);
@@ -113,7 +117,7 @@ function SetColor(index,needWait=true){
 		EntFireByHandle(self, "runscriptcode", "SetColor("+index.tostring()+",false)", 1, null, null);
 		return;
 	}
-	local name=WEAPON[index].GetOwner().GetName();
+	local name=WEAPON[index].GetOwner().GetName().tolower();
 	foreach(k,v in COLOR_LIST){
 		for(local i=1;i<v.len();i++){
 			if(name.find(v[i])<0)continue;
@@ -148,7 +152,7 @@ function Init(){
 	COLOR_LIST["WHITE"]<-["255 255 255","holy","heal","cura"];
 	//33FF00
 	COLOR_LIST["GREEN"]<-["51 255 0","wind","bio","ult","viento"];
-	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210315\x01");
+	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210320\x01");
 }
 
 self.ConnectOutput("OnSpawn", "Init");
