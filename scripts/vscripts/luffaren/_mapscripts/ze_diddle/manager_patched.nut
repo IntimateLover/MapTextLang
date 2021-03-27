@@ -5,7 +5,7 @@
 //  Patched version intended for use with GFL ze_diddle_v3 stripper, included in the release
 //  Adds "Diddle Extreme", where you must beat everything in a single round (with some help/items)
 //===================================\\
-
+//repush
 stagepickdelay <- 10.00;	//how many extra seconds to delay the stage-picking (allowing players to vote + give breathing room)
 coins_max_normalmode <- 250;
 coins_max_extrememode <- 300;
