@@ -1,8 +1,8 @@
 "Console_T"
 {
-	"*** STAGE 1 MOUNT MASSIVE ***"
+	"*** STAGE 1 MOUNT MASSIVE  ***"
 	{
-		"chi"		"**第一关：马塞勒斯山**"
+		"chi"		"**第一关：精神病院**"
 	}
 	"||| This is my frist ze map |||"
 	{
@@ -12,7 +12,7 @@
 	{
 		"chi"		"**地图作者： Chemodan 翻译：Kinlkm**"
 	}
-	"||| Thanks for playing |||"
+	"||| Thanks for playing  |||"
 	{
 		"chi"		"**感谢游玩 **"
 	}
@@ -70,7 +70,7 @@
 	}
 	"||| Hide in the locker don't try to fight  |||"
 	{
-		"chi"		"** 快藏在左边储物柜中不要打开 **"
+		"chi"		"** 快藏在左边储物柜中不要乱跑 **"
 	}
 	"||| The door will open at 10 second  |||"
 	{
@@ -119,7 +119,7 @@
 	}
 	"||| Find 4 buttons to Turn On Power  |||"
 	{
-		"chi"		"** 寻找4个按钮并开启发电机 **"
+		"chi"		"** 寻找4个开关并开启发电机 **"
 		"DoorCountdown"		"-1"
 	}
 	"||| Press button in the middle  |||"
@@ -150,11 +150,11 @@
 	{
 		"chi"		"**敬请等待后续更新 **"
 	}
-	"*** STAGE 2 HOSPITAL ***"
+	"*** STAGE 2 HOSPITAL  ***"
 	{
 		"chi"		"**第二关：医院 **"
 	}
-	"||| Hold here for 20 seconds |||"
+	"||| Hold here for 20 seconds  |||"
 	{
 		"chi"		"** 防守20秒 **"
 	}
