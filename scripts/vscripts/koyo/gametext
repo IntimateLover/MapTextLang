@@ -13,7 +13,7 @@ gtc10 <- 0
 
 function gts()
 {
-
+	ScriptPrintMessageChatAll(" gametextreload");
 	local kgt = Entities.FindByName(null, "kgt");
 	local pb = Entities.FindByName(null, pb);
 	EntFireByHandle(self, "runscriptcode", "gts()", 1, null, null);
