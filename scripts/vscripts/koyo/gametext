@@ -11,6 +11,11 @@ gtc8 <- 0
 gtc9 <- 0
 gtc10 <- 0
 
+function rld()
+{
+	ScriptPrintMessageChatAll("test script load");
+}
+
 function gts()
 {
 	ScriptPrintMessageChatAll(" gametextreload");
