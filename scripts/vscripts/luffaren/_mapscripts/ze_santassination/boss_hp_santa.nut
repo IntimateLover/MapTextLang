@@ -15,7 +15,7 @@ function UpdateDeath()
 	EntFire("yingwu", "Display", "", 0.05, null);
 }
 
-breakable_boss2 <- Entities.FindByName(null, "bosss_hp2")
+breakable_boss2 <- Entities.FindByName(null, "bosss_hp1")
 boss_hp_text2<- Entities.FindByName(null, "yingwu") 
 
 function UpdateHealth2()
@@ -29,6 +29,9 @@ function UpdateDeath2()
 	boss_hp_text2.__KeyValueFromString("message", "BIG SANTA HAS BEEN SLAIN")
 	EntFire("yingwu", "Display", "", 0.05, null);
 }
+
+breakable_boss3 <- Entities.FindByName(null, "bosss_hp2")
+boss_hp_text3<- Entities.FindByName(null, "yingwu") 
 
 function UpdateHealth3()
 {
