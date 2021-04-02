@@ -16,10 +16,11 @@ function extrememodepass()
 	extrememode_Math++;
 	if(extrememode_Math==1)
 	{
-		EntFire("Map_Brush","RunScriptCode","SetStage(1);",0.0,null);
-	}else if(extrememode_Math==2)
+		EntFire("Map_Brush","RunScriptCode","SetStage(2);",0.0,null);
+	} 
+	if(extrememode_Math==2)
 	{
-		EntFire("Map_Brush","RunScriptCode","SetStage(0);",0.0,null);
+		EntFire("Map_Brush","RunScriptCode","SetStage(1);",0.0,null);
 	}
+	if(extrememode_Math > 2){extrememode_Math = 1;}
 }
-//repush
