@@ -10,16 +10,62 @@ gtc7 <- 0
 gtc8 <- 0
 gtc9 <- 0
 gtc10 <- 0
+gtc11 <- 0
+gtc12 <- 0
+pb <- Entities.FindByName(null, "archmage_phbox")
+pb2 <- Entities.FindByName(null, "mg_phbox")
+pb3 <- Entities.FindByName(null, "dr_phys")
+pb4 <- Entities.FindByName(null, "doh_phbox")
+pb5 <- Entities.FindByName(null, "night_phbox")
+pb6 <- Entities.FindByName(null, "dr_phbox")
+pb7 <- Entities.FindByName(null, "giant_phbox")
+pb8 <- null
+pb9 <- null
+
+
+
+kgt <- Entities.FindByName(null, "kgt")
+kgt2 <- Entities.FindByName(null, "kgt2")
+kgt3 <- Entities.FindByName(null, "kgt3")
+kgt4 <- Entities.FindByName(null, "kgt4")
+kgt5 <- Entities.FindByName(null, "kgt5")
+kgt6 <- Entities.FindByName(null, "kgt6")
+kgt7 <- Entities.FindByName(null, "kgt7")
+
+kgt8 <- null
+kgt9 <- null
+
 
 function rld()
 {
-	ScriptPrintMessageChatAll("test script load");
+	ScriptPrintMessageChatAll("koyo");
 }
+
+function gts7()
+{
+	EntFireByHandle(self, "runscriptcode", "gts7()", 1, null, null);
+	if(gtc11 !=0 )
+	{
+		gtc11--; 							
+	}
+	if(gtc12 !=0)
+	{
+		gtc12--;			
+	}
+	kgt7.__KeyValueFromString("message","\n\n╲  ︾  ╱                  ╲  ︾  ╱\n	    "+gtc11.tostring()+
+			"                              "+gtc12.tostring()+"\n╱  ︽  ╲                  ╱  ︽  ╲\n             ▷  ❤ : "+pb7.GetHealth()+"  ◁");
+}
+
+
+function gts6()
+{
+	kgt6.__KeyValueFromString("message","▷  ❤ : "+pb6.GetHealth()+"  ◁");
+}
+
+
 
 function gts()
 {
-	local kgt = Entities.FindByName(null, "kgt");
-	local pb = Entities.FindByName(null, pb);
 	EntFireByHandle(self, "runscriptcode", "gts()", 1, null, null);
 	if(gtc !=0 )
 	{
@@ -36,8 +82,6 @@ function gts()
 function gts2()
 {
 
-	local kgt2 = Entities.FindByName(null, "kgt2");
-	local pb2 = Entities.FindByName(null, pb2);
 	EntFireByHandle(self, "runscriptcode", "gts2()", 1, null, null);
 	if(gtc3 !=0 )
 	{
@@ -54,8 +98,6 @@ function gts2()
 function gts3()
 {
 
-	local kgt3 = Entities.FindByName(null, "kgt3");
-	local pb3 = Entities.FindByName(null, pb3);
 	EntFireByHandle(self, "runscriptcode", "gts3()", 1, null, null);
 	if(gtc5 !=0 )
 	{
@@ -72,8 +114,6 @@ function gts3()
 function gts4()
 {
 
-	local kgt4 = Entities.FindByName(null, "kgt4");
-	local pb4 = Entities.FindByName(null, pb4);
 	EntFireByHandle(self, "runscriptcode", "gts4()", 1, null, null);
 	if(gtc7 !=0 )
 	{
@@ -90,8 +130,6 @@ function gts4()
 function gts5()
 {
 
-	local kgt5 = Entities.FindByName(null, "kgt5");
-	local pb5 = Entities.FindByName(null, pb5);
 	EntFireByHandle(self, "runscriptcode", "gts5()", 1, null, null);
 	if(gtc9 !=0 )
 	{
