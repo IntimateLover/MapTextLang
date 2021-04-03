@@ -5,6 +5,7 @@ ScriptPrintMessageChatAll(" \x10 看来这个新开括的地区已经变成了�
 ScriptPrintMessageChatAll(" \x10 我们一直在使用的第七个钟乳石洞穴已被洪水淹没.")
 ScriptPrintMessageChatAll(" \x10 我们在路线B上所做的所有工作现在已被水淹没...")
 ScriptPrintMessageChatAll(" \x10 我们只希望这个地方会蓬勃发展.");
+ScriptPrintMessageChatAll(" \x10 地图汉化:血色的龙琉璃");
 }
 
 function text02()
