@@ -7,6 +7,7 @@
 	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
 	{
 		"chi"		">>>只有第一名才能获得本局胜利<<<"
+		"command"		"sv_airaccelerate 32"
 	}
 	">>>Map created by Dark Arrow<<<"
 	{
