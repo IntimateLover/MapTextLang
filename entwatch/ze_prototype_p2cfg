@@ -2,8 +2,8 @@
 {
 	"0"
 	{
-		"name"              "材料[红]"
-		"shortname"         "材料[红]"
+		"name"              "材料[蓝]"
+		"shortname"         "材料[蓝]"
 		"color"             "{lightblue}"
 		"buttonclass"       ""
 		"filtername"        ""
@@ -21,8 +21,8 @@
 	}
 	"1"
 	{
-		"name"              "材料[蓝]"
-		"shortname"         "材料[蓝]"
+		"name"              "材料[红]"
+		"shortname"         "材料[红]"
 		"color"             "{lightblue}"
 		"buttonclass"       ""
 		"filtername"        ""
