@@ -13,6 +13,7 @@ AUTO_HIDE<-false;
 // 启用颜色变化
 COLOR_CHANGE<-true;
 COLOR_LIST<-{};
+CUSTOM_COLOR<-{};
 // 绑定OnPlayerPickup
 function SetNewOwner(){
 	if(COLOR_LIST.len()<1){Init()};
@@ -93,7 +94,11 @@ function hidePlayer(player,hide){
 }
 
 function CreateGlow(activator,object,index){
-	glow <- CreateProp("prop_dynamic_glow",activator.GetOrigin(),object.GetModelName(),0);
+	local weaponModel=object.GetModelName();
+	if(weaponModel.find("models/weapons/v_")==0){
+		weaponModel="models/weapons/w"+weaponModel.slice(16);
+	}
+	glow <- CreateProp("prop_dynamic_glow",activator.GetOrigin(),weaponModel,0);
 	glow.__KeyValueFromInt("glowdist", 2048);
 	glow.__KeyValueFromInt("solid", 0);
 	glow.__KeyValueFromString("glowcolor", "0 255 255");
@@ -105,6 +110,7 @@ function CreateGlow(activator,object,index){
 	par <- Entities.CreateByClassname("info_particle_system");
 	EntFireByHandle(par, "SetParent", name, 0, null, null);
 	EntFireByHandle(glow, "SetParent", "!activator", 0, activator, object);
+	//EntFireByHandle(glow, "SetParentAttachment", "pistol", 0.01, null, null);
 	EntFireByHandle(glow, "SetParentAttachment", "primary", 0.01, null, null);
 	EntFireByHandle(glow, "SetParent", "!activator", 0.5, activator, object);
 	EntFireByHandle(glow, "SetGlowEnabled", "", 0.01, null, null);
@@ -118,6 +124,11 @@ function SetColor(index,needWait=true){
 		return;
 	}
 	local name=WEAPON[index].GetOwner().GetName().tolower();
+	foreach(k,v in CUSTOM_COLOR){
+		if(name.find(k)<0)continue;
+		HIGH_LIGHT[index].__KeyValueFromString("glowcolor", v);
+		return;
+	}
 	foreach(k,v in COLOR_LIST){
 		for(local i=1;i<v.len();i++){
 			if(name.find(v[i])<0)continue;
@@ -139,20 +150,9 @@ function ClearPlayerHide(){
 }
 
 function Init(){
-	COLOR_LIST["YELLOW"]<-["210 245 10","elec","rayo"];
-	//D5912B
-	COLOR_LIST["BROWN"]<-["213 145 43","earth","tierra"];
-	//FF3300
-	COLOR_LIST["RED"]<-["255 51 0","fire","fuego"];
-	//3385FF
-	COLOR_LIST["BLUE"]<-["51 133 255","water","ice","hielo"];
-	//6600FF
-	COLOR_LIST["PURPLE"]<-["102 0 255","black","hole","gravity","gravedad"];
-	//FFFFFF
-	COLOR_LIST["WHITE"]<-["255 255 255","holy","heal","cura"];
-	//33FF00
-	COLOR_LIST["GREEN"]<-["51 255 0","wind","bio","ult","viento"];
-	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210320\x01");
+	IncludeScript("why/color_cfg.nut", this);
+	IncludeScript("why/map_cfg.nut", this);
+	ScriptPrintMessageChatAll(" \x03已加载神器隐身 20210411\x01");
 }
 
 self.ConnectOutput("OnSpawn", "Init");
