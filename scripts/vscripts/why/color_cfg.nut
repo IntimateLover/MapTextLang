@@ -17,3 +17,4 @@ COLOR_LIST<-{
 	GREEN=["51 255 0","wind","bio","ult","viento"]
 };
 ScriptPrintMessageChatAll(" \x03公用神器手枪高亮颜色已加载\x01");
+//repush
