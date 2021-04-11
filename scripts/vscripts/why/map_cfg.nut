@@ -20,3 +20,4 @@ foreach(k,v in MAP_COLOR_CFG){
 }
 
 ScriptPrintMessageChatAll(" \x03当前地图名： \x06"+name+" \x03，未找到地图颜色配置\x01");
+//repush
