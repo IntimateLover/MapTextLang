@@ -22,7 +22,7 @@ function SetPlayerScript()
 			if("OWNER" in FindOw){}
 			else
 			{
-				EntFireByHandle(Fpl,"RunScriptFile","kinlkm/player_lastman_cn.nut",0.00,Fpl,Fpl);
+				EntFireByHandle(Fpl,"RunScriptFile","kinlkm/last_man_standing/player_lastman_cn.nut",0.00,Fpl,Fpl);
 			}
 		}
 	}
