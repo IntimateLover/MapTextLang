@@ -15,7 +15,7 @@ function SetTextItem(item)
 {
     if(item == 0)
     {
-        ItemText = "免疫装置:\n按 E 使用\n可在20秒内免疫僵尸感染\n仅能使用一次.";
+        ItemText = "免疫装置:\n按 E 使用\n可在20秒内免疫僵尸感染\n仅能使用一次";
     }
     if(item == 1)
     {
@@ -35,11 +35,11 @@ function SetTextItem(item)
     }
     if(item == 5)
     {
-        ItemText = "地雷：\n 按 E 使用请不要在人群使用\n站到地雷正上方一秒可回收 最多可使用13次"
+        ItemText = "地雷：\n 按 E 使用请不要在人群使用\n站到地雷正上方一秒可回收\n最多可使用13次"
     }
     if(item == 6)
     {
-        ItemText = "突变基因：\n 按 E 使用放置药丸\n每人仅可使用一次药丸\n冷却时间:10秒"
+        ItemText = "突变基因：\n 按 E 使用放置药丸\n每人仅可使用一次药丸\n冷却时间：10秒"
     }
     if(item == 7)
     {
@@ -79,11 +79,11 @@ function SetTextItem(item)
     }
     if(item == 16)
     {
-        ItemText = "阿尔玛：按下右键激活面前的浮空5秒\n被浮空的人类集体缴械\n抽取一名人类杀死,冷却15秒\n仅在人类处于范围内时启用";
+        ItemText = "阿尔玛：按下右键激活面前的浮空5秒\n被浮空的人类集体缴械\n抽取一名人类杀死 冷却时间：15秒\n仅在人类处于范围内时启用";
     }
     if(item == 17)
     {
-        ItemText = "弗地冈：右键使用 将正前方人类钩到你面前\n冷却5秒";
+        ItemText = "弗地冈：右键使用 将正前方人类钩到你面前\n冷却时间：5秒";
     }
     if(item == 18)
     {
@@ -95,11 +95,11 @@ function SetTextItem(item)
     }
     if(item == 20)
     {
-        ItemText = "冲击狗：鼠标右键使用\n 可将范围内僵尸以及自身击飞\n冷却10秒";
+        ItemText = "冲击狗：鼠标右键使用\n 可将范围内僵尸以及自身击飞\n冷却时间：10秒";
     }
     if(item == 21)
     {
-        ItemText = "飞天水龙：可自由飞行 鼠标右键使用\n 可将范围内人类冰冻\n冷却15秒";
+        ItemText = "飞天水龙：可自由飞行 鼠标右键使用\n 可将范围内人类冰冻\n冷却时间：15秒";
     }
     if(item == 22)
     {
