@@ -1,21 +1,21 @@
 EVENT_ARRAY <- [
-	["EVENT_CRANE_BREAKABLE","null","St1 起重机"], //0
+	["EVENT_CRANE_BREAKABLE","null","St1 机械狗"], //0
 	["EVENT_TANK_REACHES_END","null","St1 坦克"], //1
-	["EVENT_GENERATOR_ACTIVATED","null","St1 发电机"], //2
+	["EVENT_GENERATOR_ACTIVATED","null","St1 东发电机"], //2
 	["EVENT_HELICOPTER_ESCAPES","null","St1 直升机"], //3
 	["EVENT_HUMAN_ESCAPE_STAGE1","null","St1 撤离"], //4
 	["EVENT_STAGE2_TRUCK_ESCAPES","null","St2 卡车撤离"], //5
 	["EVENT_STAGE2_TRUCK_ESCAPES_WITHHUMANS","null","St2 撤离"], //6
-	["EVENT_STAGE2_PORTAL_GUN","null","St2 Portal Gun"], //7
-	["EVENT_STAGE2_THUNDER_GUN","null","St2 Thunder Gun"], //8
+	["EVENT_STAGE2_PORTAL_GUN","null","St2 传送枪"], //7
+	["EVENT_STAGE2_THUNDER_GUN","null","St2 旋风枪"], //8
 	["EVENT_STAGE2_INMUNIZER_GUN","null","St2 神圣枪"], //9
 	["EVENT_STAGE2_MUTATOR","null","St2 基因突变"], //10
 	["EVENT_STAGE2_ZEROGRAVITY","null","St2 零重力枪"], //11
 	["EVENT_STAGE2_TURRET","null","St2 炮塔"], //12
-	["EVENT_STAGE2_GENERATOR","null","St2 Generator"], //13
-	["EVENT_STAGE3_GENERATOR","null","St3 Generator"], //14
+	["EVENT_STAGE2_GENERATOR","null","St2 南发电机"], //13
+	["EVENT_STAGE3_GENERATOR","null","St3 北发电机"], //14
 	["EVENT_ZMITEM_SUMMONER","null","ZM 黑洞巫师"], //15
-	["EVENT_ZMITEM_JUMPER","null","ZM 高跳"], //16
+	["EVENT_ZMITEM_JUMPER","null","ZM 跳跃者"], //16
 	["EVENT_ZMITEM_ALMA","null","ZM 阿尔玛"], //17
 	["EVENT_ZMITEM_VORTIGAUNT","null","ZM 弗地冈"], //18
 	["EVENT_ZMITEM_ANTLION","null","ZM 蚁狮"], //19
@@ -23,14 +23,14 @@ EVENT_ARRAY <- [
 	["EVENT_ZMITEM_PREDATOR","null","ZM 铁血战士"], //21
 	["EVENT_STAGE3_TRUCK_REACHES_END","null","St3 撤离"], //22
 	["EVENT_STAGE4_HUMAN_ESCAPES","null","St4 撤离"], //23
-	["EVENT_STAGE4_GENERATOR_ACTIVATED","null","St4 Generator"], //24
-	["EVENT_STAGE4_ULTRALISK_DIES","null","St4 雷兽"], //25
+	["EVENT_STAGE4_GENERATOR_ACTIVATED","null","St4 西发电机"], //24
+	["EVENT_STAGE4_ULTRALISK_DIES","null","St4 杀死雷兽"], //25
 	["EVENT_STAGE4_PLANE_ESCAPE","null","St4 飞机"], //26
-	["EVENT_STAGE4_APACHE_ESCAPES","null","St4 Apache"], //27
-	["EVENT_STAGE4_JUGGERNAUT_ESCAPES","null","St4 Juggernaut"], //28
-	["EVENT_STAGE4_JUGGERNAUT_UNLOCK_FLAMETHROWER","null","St4 Juggernaut Flamethrower"], //29
-	["EVENT_STAGE4_JUGGERNAUT_UNLOCK_ROCKETLAUNCHER","null","St4 Juggernaut RocketLauncher"], //30
-	["EVENT_STAGE4_JUGGERNAUT_UNLOCK_MINIGUN","null","St4 Juggernaut Minigun"] //31
+	["EVENT_STAGE4_APACHE_ESCAPES","null","St4 阿帕奇"], //27
+	["EVENT_STAGE4_JUGGERNAUT_ESCAPES","null","St4 机甲"], //28
+	["EVENT_STAGE4_JUGGERNAUT_UNLOCK_FLAMETHROWER","null","St4 机甲喷火器"], //29
+	["EVENT_STAGE4_JUGGERNAUT_UNLOCK_ROCKETLAUNCHER","null","St4 机甲火箭筒"], //30
+	["EVENT_STAGE4_JUGGERNAUT_UNLOCK_MINIGUN","null","St4 机甲机枪"] //31
 ];
 
 TEMP_EVENTS_ARRAY <- [];
