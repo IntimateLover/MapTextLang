@@ -15,11 +15,11 @@ function SetTextItem(item)
 {
     if(item == 0)
     {
-        ItemText = "免疫装置:\n按 E 使用\n可在20秒内免疫僵尸感染.";
+        ItemText = "免疫装置:\n按 E 使用\n可在20秒内免疫僵尸感染\n仅能使用一次.";
     }
     if(item == 1)
     {
-        ItemText = "弹药:\n按 E 使用\n范围内人类无限弹药";
+        ItemText = "弹药:\n按 E 使用\n范围内人类当前弹药改为244发\n仅能使用一次";
     }
     if(item == 2)
     {
@@ -27,7 +27,7 @@ function SetTextItem(item)
     }
     if(item == 3)
     {
-        ItemText = "神圣枪:\n按 E 使用范围内4秒无敌\n冷却时间：60秒";
+        ItemText = "神圣枪:\n按 E 使用后范围内人类4秒免抓\n冷却时间：60秒";
     }
     if(item == 4)
     {
@@ -39,11 +39,11 @@ function SetTextItem(item)
     }
     if(item == 6)
     {
-        ItemText = "突变基因：\n 按 E 使用放置药丸"
+        ItemText = "突变基因：\n 按 E 使用放置药丸\n每人仅可使用一次药丸\n冷却时间:10秒"
     }
     if(item == 7)
     {
-        ItemText = "卫兵：\n 按 E 使用放置一个卫兵 持续时间90秒";
+        ItemText = "卫兵：\n 按 E 使用放置一个卫兵 持续时间50秒";
     }
     if(item == 8)
     {
@@ -71,19 +71,19 @@ function SetTextItem(item)
     }
     if(item == 14)
     {
-        ItemText = "黑洞巫师：鼠标右键使用\n鼠标右键即可召唤一只僵尸到你身旁";
+        ItemText = "黑洞巫师：鼠标右键使用\n鼠标右键即可召唤一只僵尸到你身旁\n温馨提示可能会拉回来正在破点的队友";
     }
     if(item == 15)
     {
-        ItemText = "跳跃者：按下右击键即可跳跃\n（最好在跳的过程中右键）";
+        ItemText = "跳跃者：按下右击键即可跳跃\n最好在跳的过程中右键";
     }
     if(item == 16)
     {
-        ItemText = "阿尔玛：按一下右击即可杀死僵尸\n仅在人类处于范围内时启用";
+        ItemText = "阿尔玛：按下右键激活面前的浮空5秒\n被浮空的人类集体缴械\n抽取一名人类杀死,冷却15秒\n仅在人类处于范围内时启用";
     }
     if(item == 17)
     {
-        ItemText = "弗地冈：右键使用 将正前方人类钩到你面前";
+        ItemText = "弗地冈：右键使用 将正前方人类钩到你面前\n冷却5秒";
     }
     if(item == 18)
     {
@@ -95,15 +95,15 @@ function SetTextItem(item)
     }
     if(item == 20)
     {
-        ItemText = "冲击狗：鼠标右键使用\n 可将范围内僵尸以及自身击飞";
+        ItemText = "冲击狗：鼠标右键使用\n 可将范围内僵尸以及自身击飞\n冷却10秒";
     }
     if(item == 21)
     {
-        ItemText = "飞天水龙：可自由飞行 鼠标右键使用\n 可将范围内人类冰冻";
+        ItemText = "飞天水龙：可自由飞行 鼠标右键使用\n 可将范围内人类冰冻\n冷却15秒";
     }
     if(item == 22)
     {
-        ItemText = "铁血战士：鼠标左键 = 切换形态\n鼠标右键 = 使用技能"
+        ItemText = "铁血战士：鼠标左键 = 切换形态\n鼠标右键 = 使用技能\n冷却十秒"
     }
     EntFireByHandle(self,"RunScriptCode","ShowSelfItemText();",0.01,null,null);
 }
@@ -166,7 +166,7 @@ function PlayerMutantDaun()
         }
         else if(a == 7)
         {
-            EntFire("!self","AddOutput","rendermode 16",0.00,null);
+            EntFire("!self","AddOutput","rendermode 10",0.00,null);
             ItemText = "你已获得: 隐身"
         }
         else if(a == 8)
