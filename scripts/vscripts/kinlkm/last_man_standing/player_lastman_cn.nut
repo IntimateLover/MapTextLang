@@ -15,7 +15,7 @@ function SetTextItem(item)
 {
     if(item == 0)
     {
-        ItemText = "免疫装置:\n按 E 使用\n可在20秒内免疫僵尸感染;\n仅能使用一次.";
+        ItemText = "免疫装置:\n按 E 使用\n可在20秒内免疫僵尸感染\n仅能使用一次.";
     }
     if(item == 1)
     {
@@ -166,7 +166,7 @@ function PlayerMutantDaun()
         }
         else if(a == 7)
         {
-            EntFire("!self","AddOutput","rendermode 16",0.00,null);
+            EntFire("!self","AddOutput","rendermode 10",0.00,null);
             ItemText = "你已获得: 隐身"
         }
         else if(a == 8)
