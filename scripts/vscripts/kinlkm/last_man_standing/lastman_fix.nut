@@ -84,9 +84,9 @@ function CheckEventsPrint()
     }
     if(EVENTS_COMPLETED.len() == 0)
     {
-        EVENTS_COMPLETED = "\nNo events are completed";
+        EVENTS_COMPLETED = "\n未完成任何事件";
 		EntFireByHandle(self, "RunScriptCode", "CheckEventsNotCPrint();", 4.00, null, null);
-        return ScriptPrintMessageCenterAll("COMPLETED EVENTS: "+EVENTS_COMPLETED);
+        return ScriptPrintMessageCenterAll("已完成事件: "+EVENTS_COMPLETED);
     }
     SortArrayText();
 }
@@ -105,7 +105,7 @@ function SortArrayText()
         }
     }
 	EntFireByHandle(self, "RunScriptCode", "CheckEventsNotCPrint();", 5.00, null, null);
-    return ScriptPrintMessageCenterAll("COMPLETED EVENTS "+EVENTS_COMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);;
+    return ScriptPrintMessageCenterAll("已完成事件 "+EVENTS_COMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);;
 }
 
 function CheckEventsNotCPrint()
@@ -122,8 +122,8 @@ function CheckEventsNotCPrint()
     }
     if(EVENTS_NOTCOMPLETED.len() == 0)
     {
-        EVENTS_NOTCOMPLETED = "\nAll events are completed";
-        return ScriptPrintMessageCenterAll("NOT COMPLETED EVENTS: "+EVENTS_NOTCOMPLETED);
+        EVENTS_NOTCOMPLETED = "\n所有事件已全部完成";
+        return ScriptPrintMessageCenterAll("未完成事件: "+EVENTS_NOTCOMPLETED);
     }
     SortArrayNotCText();
 }
@@ -141,18 +141,18 @@ function SortArrayNotCText()
             SortCount++;
         }
     }
-    return ScriptPrintMessageCenterAll("NOT COMPLETED EVENTS "+EVENTS_NOTCOMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);
+    return ScriptPrintMessageCenterAll("未完成事件 "+EVENTS_NOTCOMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);
 }
 
 function PrintEventMess()
 {
-    ScriptPrintMessageCenterAll("COMPLETED EVENTS "+EVENTS_COMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);
+    ScriptPrintMessageCenterAll("已完成事件 "+EVENTS_COMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);
     EntFireByHandle(self, "RunScriptCode", "SortArrayText();", 4.00, null, null);
 }
 
 function PrintEventNotCMess()
 {
-    ScriptPrintMessageCenterAll("NOT COMPLETED EVENTS "+EVENTS_NOTCOMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);
+    ScriptPrintMessageCenterAll("未完成事件 "+EVENTS_NOTCOMPLETED.len()+"/"+EVENT_ARRAY.len()+": "+TEXT_EVENT);
     EntFireByHandle(self, "RunScriptCode", "SortArrayNotCText();", 4.00, null, null);
 }
 
@@ -356,7 +356,7 @@ mp <- 0;
 Time <- 480.00;
 SaveTime <- 0.00;
 TimerTick <- true;
-TimerText <- "Total Destruction: ";
+TimerText <- "核弹发射倒计时: ";
 End <- true;
 SpawnTp <- true;
 AfkTp <- 0;
@@ -867,21 +867,21 @@ MUSIC_ARRAY <- [
 CounTextWarmUp <- -1;
 
 WARMUP_TEXT <- [
-	"FOCUS AND TEAMWORK IS KEY TO COMPLETE THIS MAP!",//INDEX 0
-	"THE FINAL STAGE EXPERIENCE WILL DEPEND COMPLETELY ON\nHOW YOU PLAYED THE PREVIOUS ONES!",//INDEX 1
-	"YOUR ACTIONS WILL CHANGE THE NEXT ROUNDS",//INDEX 2
-	"FOUR TEAMS WILL TURN ON THE GENERATORS!\nA FIFTH ONE WILL ACTIVATE THE ZOMBIE MASS CURE!",//INDEX 3
-	"THINK ABOUT YOUR ACTIONS!\nBE FAST!\nPLAY COOP!\nSOME SITUATIONS REQUIRE SKILLS AND SOME SACRIFICE!",//INDEX 4
-	"NO INVISIBLE WALLS!\nGO WHEREVER YOU WANT!",//INDEX 5
-	"PLAY AS YOU WANT\nBUT DONT FORGET THE COUNTDOWN TO\nTHE NUKE WILL NOT WAIT FOR YOU!",//INDEX 6
-	"UNLOCKING EXTREME MODE\nREQUIRES YOU TO COMPLETE NORMAL MODE FIRST!",//INDEX 7
-	"ZOMBIES TIP:\nTHE ENVIRONMENT IS YOUR ALLY.\nTHERE IS ALWAYS MORE THAN ONE PATH!",//INDEX 8
-	"HUMANS TIP:\nEACH ONE OF THE FIRST FOUR STAGES HAS A GENERATOR.\nYOUR OBJECTIVE IS TO TURN THEM ON!",//INDEX 9
-	"ZOMBIES TIP:\nSOME ZOMBIE ITEMS ARE POWERFUL\nBUT THEY REQUIRE SKILL TO BE USED PROPERLY!",//INDEX 10
-	"EXPLOSIONS ARE MEANT TO HURT BOTH TEAMS IN MOST CASES!\nBE CAREFUL!",//INDEX 11
-	"A GLOBAL NUKE WILL ANNIHILATE EVERY HUMAN  AFTER 9 MINUTES",//INDEX 12
-	"EVEN A SINGLE HUMAN CAN CHANGE THE GAME!\nTHE FUTURE IS NOT WRITTEN IN STONE!",//INDEX 13
-	"THE CONTAINERS FULL OF BODIES WILL BE\nTHE STARTING POINT OF RESPAWNING ZOMBIES!"//INDEX 14
+	"团队合作是通关此地图的关键!",//INDEX 0
+	"最终关卡的体验将完全取决于\n前面所有关卡所收集的进度!",//INDEX 1
+	"你的任何行动将会改变下一轮",//INDEX 2
+	"开启四个发电机!\n激活任何一个僵尸将会大规模传送!",//INDEX 3
+	"想想你的行为!\n快点!加油!\n某些情况需要一定技巧或者牺牲!",//INDEX 4
+	"没有看不见的墙!\n你可以去你想去的地方!",//INDEX 5
+	"想怎么玩就怎么玩\n但别忘了倒计时\n核弹不会等你的!",//INDEX 6
+	"解锁极限模式\n但首先需要您完成正常模式!",//INDEX 7
+	"僵尸提示:\n地形和环境将是你的盟友.\n总是不止有一条路!",//INDEX 8
+	"人类:\n前面四个关卡中的每一个关卡都有一台发电机.\n您的目标就是开启发电机!",//INDEX 9
+	"僵尸神器:\n某些僵尸神器功能非常强大\n但是需要正确使用技巧!",//INDEX 10
+	"在大多数情况下爆炸都是可以对双方造成伤害!\n小心!",//INDEX 11
+	"一枚全球核弹将在9分钟后消灭所有人类",//INDEX 12
+	"甚至一个人都可以改变世界!\n未来并不是一成不变的!",//INDEX 13
+	"装满尸体的垃圾桶将会是\n僵尸的重生点!"//INDEX 14
 ]
 
 function WarmUpMessage()
@@ -1026,7 +1026,7 @@ function MapStart()
 	}
 	else if(STAGE == 1)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  DEAD PASS --",2.00,null);
 		EntFire("Spawn_Tank_Teleport","Teleport","",1.00,null);
@@ -1045,7 +1045,7 @@ function MapStart()
 	}
 	else if(STAGE == 2)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : FORGOTTEN FACTORY --",2.00,null);
 		EntFire("Stage_Start_Stage_2_Spawn","Trigger","",0.00,null);
 		EntFire("Weapon_Mutator_Template","FireUser1","",2.00,null);
@@ -1065,7 +1065,7 @@ function MapStart()
 	}
 	else if(STAGE == 3)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : SLAUGHTER LAB --",2.00,null);
 		EntFire("stage_x_boss_pipe","FireUser1","",0.00,null);
 		EntFire("Spawn_Explosive_Barrel_Spawner","FireUser1","",0.00,null);
@@ -1084,7 +1084,7 @@ function MapStart()
 	}
 	else if(STAGE == 4)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : THE LAST STAND --",2.00,null);
 		EntFire("Global_Sound_War_Loop","PlaySound","",2.00,null);
 		EntFire("Global_Sound_Siren","PlaySound","",3.00,null);
@@ -1113,11 +1113,11 @@ function MapStart()
 		EntFire("correction","Enable","",3.00,null);
         EntFire("console","Command","zr_class_modify zombies health 900",0.00,null);
 		EntFire("console","Command","zr_class_reload @all",0.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 2",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 2",1.00,null);
 	}
 	else if(STAGE == 6)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  DEAD PASS --",2.00,null);
 		EntFire("Spawn_Tank_Teleport","Teleport","",1.00,null);
@@ -1158,7 +1158,7 @@ function MapStart()
 	}
 	else if(STAGE == 7)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : FORGOTTEN FACTORY --",2.00,null);
 		EntFire("Stage_Start_Stage_2_Spawn","Trigger","",0.00,null);
 		EntFire("Weapon_Mutator_Template","FireUser1","",2.00,null);
@@ -1194,7 +1194,7 @@ function MapStart()
 	}
 	else if(STAGE == 8)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : SLAUGHTER LAB --",2.00,null);
 		EntFire("stage_x_boss_pipe","FireUser1","",0.00,null);
 		EntFire("Spawn_Explosive_Barrel_Spawner","FireUser1","",0.00,null);
@@ -1231,7 +1231,7 @@ function MapStart()
 	}
 	else if(STAGE == 9)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : THE LAST STAND --",2.00,null);
 		EntFire("Global_Sound_War_Loop","PlaySound","",2.00,null);
 		EntFire("Global_Sound_Siren","PlaySound","",3.00,null);
@@ -1263,8 +1263,8 @@ function MapStart()
 		EntFire("Zombie_Item_Vortigaunt_Template","ForceSpawn","",22.00,null);
 		EntFire("Zombie_Item_Jumper_Template","ForceSpawn","",22.00,null);
 		EntFire("Zombie_Item_Tank_Spawn","ForceSpawn","",22.00,null);
-		EntFire("stage_x_end_bridge_3_physbox","SetHealth","600",0.00,null);
-		EntFire("stage_x_end_bridge_2_physbox","SetHealth","600",0.00,null);
+		EntFire("stage_x_end_bridge_3_physbox","SetHealth","99999",0.00,null);
+		EntFire("stage_x_end_bridge_2_physbox","SetHealth","99999",0.00,null);
 		EntFire("correction2","Enable","",3.00,null);
 	}
 	else if(STAGE == 10)
@@ -1288,7 +1288,7 @@ function MapStart()
 		EntFire("correction2","Enable","",3.00,null);
 		EntFire("console","Command","zr_class_modify zombies health 900",0.00,null);
 		EntFire("console","Command","zr_class_reload @all",0.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 2",0.00,null);
+		EntFire("console","Command","zr_infect_mzombie_ratio 2",1.00,null);
 	}
 	else if(STAGE == 11)
 	{
@@ -1327,11 +1327,11 @@ function MessageStage5Hud(mes)
 	if(mes == 1)
 	{
         //HUMANS: PROTECT THE CORE TO SURVIVE\nZOMBIES: TOUCH THE CORE TO WIN AND EARN POINTS
-        ScriptPrintMessageCenterAll("人类：保护核心并生存\n僵尸：触摸核心来损坏核心获取胜利");
+        ScriptPrintMessageCenterAll("人类：保护核心阻止僵尸触碰核心并生存下去\n僵尸：触摸核心来损坏核心获取胜利");
 	}
 	if(mes == 2)
 	{
-        ScriptPrintMessageCenterAll("TAKE THE LIFT IN THE MIDDLE\nOF THE ROOM");
+        ScriptPrintMessageCenterAll("快乘坐房间正中间的电梯");
 	}
 	if(mes == 3)
 	{
@@ -1341,7 +1341,7 @@ function MessageStage5Hud(mes)
 	if(mes == 4)
 	{
         //HOLD THE ZOMBIES COMING FROM THE\nCORRIDOR WITH THE GREEN LIGHT\nWAIT UNTIL THE 4 BRIDGES\nARE CONNECTED
-        ScriptPrintMessageCenterAll("HOLD THE ZOMBIES COMING FROM THE\nCORRIDOR WITH THE GREEN LIGHT\nWAIT UNTIL THE 4 BRIDGES\nARE CONNECTED");
+        ScriptPrintMessageCenterAll("消灭从地下室来的僵尸\n在绿色走廊\n并等待桥完全连接");
 	}
 }
 
@@ -1535,20 +1535,20 @@ function StopMusic()
 	{
 		Music = false;
 		mp++;
-		EntFire("Global_GameText_Announcement","SetText","** MUSIC DISABLE ON NEXT ROUND **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 下一轮地图音乐已禁用 **",0.00,null);
 	}
 	else if(!Music)
 	{
 		Music = true;
 		MaxVolume = 10;
 		mp++;
-		EntFire("Global_GameText_Announcement","SetText","** MUSIC ENABLED ON NEXT ROUND **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 下一轮地图音乐已启用 **",0.00,null);
 	}
 	else if(Music && mp == 2)
 	{
 		mp = 0;
 	    MaxVolume = 2;
-		EntFire("Global_GameText_Announcement","SetText","** MUSIC VOLUME REDUCES TO 2 **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 地图音乐音量降低至 2 **",0.00,null);
 	}
 }
 
@@ -1557,12 +1557,12 @@ function SetExtreme()
 	if(EXTREME)
 	{
 		EXTREME = false;
-		EntFire("Global_GameText_Announcement","SetText","** EXTREME MODE LOCKED **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 极限模式禁用 **",0.00,null);
 	}
 	else if(!EXTREME)
 	{
 		EXTREME = true;
-		EntFire("Global_GameText_Announcement","SetText","** EXTREME MODE UNLOCKED **",0.00,null);
+		EntFire("Global_GameText_Announcement","SetText","** 极限模式已启用 **",0.00,null);
 	}
 }
 
