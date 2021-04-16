@@ -1,4 +1,4 @@
-pick_tick<-false;
+pick_tick<-true;
 pick_delay<-0.5;
 pick_end_time<-null;
 // 脚本检测时间，如果有神器刷新晚于60秒，请延长
