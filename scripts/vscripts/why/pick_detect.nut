@@ -23,7 +23,7 @@ function EPick(){
 	EntFireByHandle(ent, "ModifySpeed", "0.75", 0, activator, caller);
 	EntFireByHandle(ent, "ModifySpeed", "1", 3, activator, caller);
 	EntFireByHandle(activator, "IgniteLifetime", "3", 0, activator, caller);
-	ScriptPrintMessageChatAll(" \x03按e仔被点燃了，笑他\x01");
+	ScriptPrintMessageChatAll(" \x02按e仔被点燃了，笑他\x01");
 }
 
 //self.ConnectOutput("OnPlayerUse","EPick");
