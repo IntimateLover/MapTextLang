@@ -111,11 +111,8 @@ function CreateGlow(activator,object,index){
 	EntFireByHandle(par, "SetParent", name, 0, null, null);
 	EntFireByHandle(glow, "SetParent", "!activator", 0, activator, object);
 	//EntFireByHandle(glow, "SetParentAttachment", "pistol", 0.01, null, null);
-	if(weaponModel.find("models/weapons/v_knife") != 0){
-		EntFireByHandle(glow, "SetParentAttachment", "Knife", 0.01, null, null);
-	}else{
-		EntFireByHandle(glow, "SetParentAttachment", "primary", 0.01, null, null);
-	}
+	//EntFireByHandle(glow, "SetParentAttachment", "Knife", 0.01, null, null);
+	EntFireByHandle(glow, "SetParentAttachment", "primary", 0.01, null, null);
 	EntFireByHandle(glow, "SetParent", "!activator", 0.5, activator, object);
 	EntFireByHandle(glow, "SetGlowEnabled", "", 0.01, null, null);
 	return glow;
