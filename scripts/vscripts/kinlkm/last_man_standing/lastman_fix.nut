@@ -959,7 +959,7 @@ function MapStart()
 	{
 		EXTREME = true;
         EntFire("stages_clouds","AddOutput","rendercolor 250 100 100",1.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 4",3.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 4",3.00,null);
 	}
 	EntFire("tonemap","SetAutoExposureMin",".7",0.00,null);
     EntFire("tonemap","SetAutoExposureMax",".7",0.00,null);
@@ -984,10 +984,10 @@ function MapStart()
 	}
     if(STAGE == 0)
 	{
-        EntFire("Global_GameText_Announcement","AddOutput","message TO ALL GUARDS IN THE CASE ZERO ROOM\nSECURE THE AREA DURING CURE TEST",25.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message WARNING!\nTEST ELEMENT UNSTABLE\n**\nLEAVE THE ROOM FOR YOUR SAFETY",35.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message CODE RED!\nSECURITY BREACH!\nISOLATING THE ROOM!",45.00,null);
-		EntFire("Global_GameText_Announcement","AddOutput","message CODE BLACK!\nAPPLYING DEADLY GAS!",81.00,null);
+        EntFire("Global_GameText_Announcement","AddOutput","message 给房间的所有警卫\n在系统测试期间保卫该区域",25.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 警告!\n测试元件不稳定\n**\n为了你的安全快离开房间",35.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 红色警报!\n安全漏洞!\n隔离房间!",45.00,null);
+		EntFire("Global_GameText_Announcement","AddOutput","message 黑色代码!\n使用致命毒气!",81.00,null);
 		EntFireByHandle(self, "RunScriptCode", "KillAll();", 85.00, null, null);
 		EntFire("stage_0_zombie_boss","Kill","",25.00,null);
 		EntFire("stage_0_trigger_detect_zombification","Enable","",25.00,null);
@@ -1016,7 +1016,7 @@ function MapStart()
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
 		EntFire("STAGE_5_WORLD","Kill","",0.00,null);
 		EntFire("Event_Status_Stage_*","FireUser1","",0.50,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 64",6.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 64",6.00,null);
 		EntFire("console","Command","zr_infect_mzombie_respawn 1",6.00,null);
 		EntFire("console","Command","zr_mzombie_respawn 1",6.00,null);
 		EntFire("Extreme_stage_0","Enable","",0.00,null);
@@ -1026,7 +1026,7 @@ function MapStart()
 	}
 	else if(STAGE == 1)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  DEAD PASS --",2.00,null);
 		EntFire("Spawn_Tank_Teleport","Teleport","",1.00,null);
@@ -1045,7 +1045,7 @@ function MapStart()
 	}
 	else if(STAGE == 2)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : FORGOTTEN FACTORY --",2.00,null);
 		EntFire("Stage_Start_Stage_2_Spawn","Trigger","",0.00,null);
 		EntFire("Weapon_Mutator_Template","FireUser1","",2.00,null);
@@ -1065,7 +1065,7 @@ function MapStart()
 	}
 	else if(STAGE == 3)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : SLAUGHTER LAB --",2.00,null);
 		EntFire("stage_x_boss_pipe","FireUser1","",0.00,null);
 		EntFire("Spawn_Explosive_Barrel_Spawner","FireUser1","",0.00,null);
@@ -1084,7 +1084,7 @@ function MapStart()
 	}
 	else if(STAGE == 4)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : THE LAST STAND --",2.00,null);
 		EntFire("Global_Sound_War_Loop","PlaySound","",2.00,null);
 		EntFire("Global_Sound_Siren","PlaySound","",3.00,null);
@@ -1108,16 +1108,16 @@ function MapStart()
 		EntFire("Human_Item_Mech_Teleportation","Kill","",0.00,null);
 		EntFire("Extreme_stage_5","Enable","",0.00,null);
 		EntFire("Supreme_Trigger","Kill","",0.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 2",12.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 2",12.00,null);
 		EntFire("console","Command","sv_enablebunnyhopping 0",12.00,null);
 		EntFire("correction","Enable","",3.00,null);
         EntFire("console","Command","zr_class_modify zombies health 900",0.00,null);
 		EntFire("console","Command","zr_class_reload @all",0.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 2",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 2",1.00,null);
 	}
 	else if(STAGE == 6)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","FireUser1","",2.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 1 :  DEAD PASS --",2.00,null);
 		EntFire("Spawn_Tank_Teleport","Teleport","",1.00,null);
@@ -1158,7 +1158,7 @@ function MapStart()
 	}
 	else if(STAGE == 7)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 2 : FORGOTTEN FACTORY --",2.00,null);
 		EntFire("Stage_Start_Stage_2_Spawn","Trigger","",0.00,null);
 		EntFire("Weapon_Mutator_Template","FireUser1","",2.00,null);
@@ -1194,7 +1194,7 @@ function MapStart()
 	}
 	else if(STAGE == 8)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 3 : SLAUGHTER LAB --",2.00,null);
 		EntFire("stage_x_boss_pipe","FireUser1","",0.00,null);
 		EntFire("Spawn_Explosive_Barrel_Spawner","FireUser1","",0.00,null);
@@ -1231,7 +1231,7 @@ function MapStart()
 	}
 	else if(STAGE == 9)
 	{
-		EntFire("console","Command","zr_infect_mzombie_ratio 7",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 7",1.00,null);
 		EntFire("Global_GameText_Stage_Start","AddOutput","message -- STAGE 4 : THE LAST STAND --",2.00,null);
 		EntFire("Global_Sound_War_Loop","PlaySound","",2.00,null);
 		EntFire("Global_Sound_Siren","PlaySound","",3.00,null);
@@ -1279,7 +1279,7 @@ function MapStart()
 		EntFire("Human_Item_Mech_Teleportation","Kill","",0.00,null);
 		EntFire("Extreme_stage_5","Enable","",0.00,null);
 		EntFire("Supreme_Trigger","Kill","",0.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 2",12.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 2",12.00,null);
 		EntFire("console","Command","sv_enablebunnyhopping 1",12.00,null);
 		EntFire("correction","Enable","",3.00,null);
 		EntFire("stage_5_top_door_south_east","AddOutput","OnOpen stage_5_top_door_north_east:Open::0:1",5.00,null);
@@ -1288,7 +1288,7 @@ function MapStart()
 		EntFire("correction2","Enable","",3.00,null);
 		EntFire("console","Command","zr_class_modify zombies health 900",0.00,null);
 		EntFire("console","Command","zr_class_reload @all",0.00,null);
-		EntFire("console","Command","zr_infect_mzombie_ratio 2",1.00,null);
+		EntFire("console","Command","sm_cvar zr_infect_mzombie_ratio 2",1.00,null);
 	}
 	else if(STAGE == 11)
 	{
