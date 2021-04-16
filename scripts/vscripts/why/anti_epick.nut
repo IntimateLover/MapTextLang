@@ -13,7 +13,7 @@ function PickTick(){
 		while ((weapon = Entities.FindByClassname(weapon, "weapon_*")) != null){
 			if(!(weapon.IsValid()&&weapon.GetOwner()==null&&weapon.GetName()!=null&&weapon.GetName()!=""))continue;
 			if(weapon.ValidateScriptScope()&&("detect" in weapon.GetScriptScope()))continue;
-			EntFireByHandle(weapon, "runscriptfile", "testscp/pick_detect.nut", 0, null, null);
+			EntFireByHandle(weapon, "runscriptfile", "why/pick_detect.nut", 0, null, null);
 		}
 	}
 }
