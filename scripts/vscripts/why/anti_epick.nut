@@ -21,8 +21,8 @@ function PickTick(){
 function Init(){
 	pick_end_time=Time()+pick_run_time;
 	PickTick();
-	ScriptPrintMessageChatAll(" \x03已加载反EPick 20210416\x01");
-	ScriptPrintMessageChatAll(" \x03实验版本，有EPICK惩罚，如果出现任何问题请联系健忘症晚期\x01");
+	ScriptPrintMessageChatAll(" \x03已加载反EPick 20210417\x01");
+	ScriptPrintMessageChatAll(" \x03实验版本，有EPICK惩罚，如果出现任何问题请联系OP\x01");
 }
 
 self.ConnectOutput("OnSpawn", "Init");
