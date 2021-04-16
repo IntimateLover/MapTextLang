@@ -27,7 +27,6 @@ function EPick(){
 }
 
 //self.ConnectOutput("OnPlayerUse","EPick");
-self.ConnectOutput("OnPlayerPick","pick");
 EntFireByHandle(self, "addoutput", "OnPlayerUse "+self.GetName()+":runscriptcode:EPick():0:-1", 0, null, null);
 self.__KeyValueFromInt("CanBePickedUp",0);
 Detect();
