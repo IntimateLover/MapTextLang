@@ -2,7 +2,6 @@ detect<-true;
 function Detect()
 {
 	if(!detect)return;
-	if(origin==null)origin=self.GetOrigin();
 	EntFireByHandle(self, "runscriptcode", "Detect()", 0.01, null, null);
 	local player=null;
 	while ((player = Entities.FindInSphere(player, self.GetOrigin(),57)) != null){
